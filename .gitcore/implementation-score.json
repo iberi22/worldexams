@@ -1,10 +1,10 @@
 {
   "project": "worldexams",
   "path": "/home/belal/proyectosSWAL/apps/worldexams",
-  "generated_at": "2026-09-01T16:05:00-05:00",
+  "generated_at": "2026-09-01T16:10:00-05:00",
   "protocol_version": "3.8.0",
-  "overall_pct": 90.0,
-  "overall_pct_simple": 89.2,
+  "overall_pct": 90.2,
+  "overall_pct_simple": 89.5,
   "breakdown": {
     "protocol_pct": 98,
     "protocol_detail": "GitCore 3.8: AGENTS.md OK, .gitcore/* completo, workflows disabled private era OK. Validate 1531 bundles 0 failures, features.json v2.6 sync (21 feats Wave 11).",
@@ -12,10 +12,10 @@
     "src_detail": "SRC.md existe, apps/worldexams-api + saberparatodos + questions_data + skills alineados. test:unit 83 suites 609 PASS (100% green tras fix community 5 tests), tsc 0.",
     "srs_pct": 88,
     "srs_detail": "SRS completo 13 REQ + REQ-008..013 draft. -12 por REQ nuevos en draft y DECISIONS fuera de canon SRS.",
-    "features_pct": 85.4,
-    "features_pct_simple": 81.9,
+    "features_pct": 85.9,
+    "features_pct_simple": 82.6,
     "features_count": 21,
-    "features_source": "weighted avg P0*3 P1*2 P2*1 =85.4% (4613/54); simple 81.9% (1720/21). Wave 11 10 PRs (community 0→50, corrections 0→25, private 35→50, leaderboard 30→50, council 25→40, pdf 30→50, weekly/multi 99→100, ci-cd/security 85/90→95).",
+    "features_source": "weighted avg P0*3 P1*2 P2*1 =85.9% (4643/54); simple 82.6% (1735/21). F12 threads 50→65% (84×612 PASS).",
     "features_formula": "weighted = sum(progress*weight)/sum(weight); weights P0=3 P1=2 P2=1",
     "swal_compliance": 87,
     "swal_detail": "Pro nodo SWAL activo + Xavier namespace + WorldExamsNode/XavierSyncClient/leaderboard-mesh/governance existentes y testeados 83×609 PASS. -13 por WX-205 networks 1ra clase en repo xavier externo."
@@ -27,14 +27,14 @@
     "features": 0.35,
     "swal": 0.1
   },
-  "calculation": "overall 90.0 = 0.2*98 +0.15*95 +0.2*88 +0.35*85.4 +0.1*87 =90.0",
-  "calculation_simple": "overall_simple 89.2 = 0.2*98 +0.15*95 +0.2*88 +0.35*81.9 +0.1*87",
+  "calculation": "overall 90.2 = 0.2*98 +0.15*95 +0.2*88 +0.35*85.9 +0.1*87 =90.2",
+  "calculation_simple": "overall_simple 89.5 = 0.2*98 +0.15*95 +0.2*88 +0.35*82.6 +0.1*87",
   "previous_score": {
-    "overall_pct": 87.5,
-    "generated_at": "2026-09-01T14:36:00-05:00",
-    "features_pct": 78.0,
+    "overall_pct": 90.0,
+    "generated_at": "2026-09-01T16:05:00-05:00",
+    "features_pct": 85.4,
     "features_count": 21,
-    "note": "F6 + ports hermes ok True + F7-9 Wave 11 pre"
+    "note": "Wave 11 10 PRs + community fix"
   },
   "gaps": [
     "private-50 still experimental (shim mesh 50% need WX-205 networks 1ra clase repo xavier)",
@@ -53,15 +53,16 @@
     "ports-4321-8000-8787-hermes-okTrue",
     "tsc-mesh-fix",
     "wave11-10PRs-integrated-cosechado",
-    "community-fix-5tests-sanitize-rate-limit"
+    "community-fix-5tests-sanitize-rate-limit",
+    "f12-threads-65pct-3tests"
   ],
   "grade": "A-",
   "updated": "2026-09-01",
   "audit_date": "2026-09-01",
-  "auditor": "Wave 11 + estabilización 5 tests + pdf-ingest merged + lint fix",
+  "auditor": "F12 threads WX-302 + verify 84×612 + hermes ok True",
   "verification": {
     "validate": "npm run validate => 1531 bundles 0 failures",
-    "tests": "npm run test:unit -w saberparatodos => 83 suites 609 PASS (0 failures tras fix community)",
+    "tests": "npm run test:unit -w saberparatodos => 84 suites 612 PASS (0 failures) + threads 3 PASS",
     "build": "npm run build -w saberparatodos => 8.21s 0 errors; landing 1.64s",
     "lint": "npm run lint => 0 errors (astro check + tsc 0)",
     "hermes": "hermes verify --json => ok True (7/7 phases + readiness 8000 200)",
