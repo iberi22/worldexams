@@ -22,7 +22,7 @@ export class LocalMeshPairingService {
   private isScanning = false;
   private discoveredRooms = new Map<string, NearbyRoomAd>();
   private listeners = new Set<(rooms: NearbyRoomAd[]) => void>();
-  private activeHostedRoom: Omit<NearbyRoomAd, 'discoveredAt' | 'lastBeaconAt' | 'transport'> | null = null;
+  private activeHostedRoom: Omit<NearbyRoomAd, 'discoveredAt' | 'lastBeaconAt' | 'transport' | 'playersCount'> & { playersCount?: number } | null = null;
   private announceIntervalTimer: ReturnType<typeof setInterval> | null = null;
   private cleanupIntervalTimer: ReturnType<typeof setInterval> | null = null;
   private isListeningNetworkEvents = false;
