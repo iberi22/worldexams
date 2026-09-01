@@ -74,6 +74,31 @@ export class XavierSyncClient {
   }
 
   /**
+   * Cifra un payload con la clave provista o del cliente.
+   * Stub con marcador XOR/placeholder.
+   * TODO ML-DSA: Reemplazar por firma/cifrado post-cuántico ML-DSA-65 en producción.
+   */
+  encryptPayload(payload: Record<string, unknown>, secretKey?: string): string {
+    const key = secretKey || this.walletPrivateKey || 'default-secret-key';
+    const jsonStr = JSON.stringify(payload);
+    let cipher = '';
+    for (let i = 0; i < jsonStr.length; i++) {
+      cipher += String.fromCharCode(jsonStr.charCodeAt(i) ^ key.charCodeAt(i % key.length));
+    }
+    return typeof btoa !== 'undefined' ? btoa(cipher) : Buffer.from(cipher, 'binary').toString('base64');
+  }
+
+  /**
+   * Publica un tip usando el namespace swal/worldexams/{instanceId}
+   */
+  async publishTip(tip: TipData, instanceId: string = 'default'): Promise<AggregatedVector[]> {
+    const namespace = `swal/worldexams/${instanceId}`;
+    // Se asegura zero-PII antes del envío dentro del namespace
+    assertNoPII(tip as unknown as Record<string, unknown>);
+    return this.sync(tip);
+  }
+
+  /**
    * Envía un TipData mínimo al Xavier server y retorna los vectores
    * agregados anónimos de otros nodos worldexams.
    *
