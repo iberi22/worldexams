@@ -4,7 +4,7 @@
   "description": "WorldExams Cloudflare Worker gateway",
   "main": "index.js",
   "scripts": {
-    "dev": "wrangler dev",
+    "dev": "wrangler dev --port 8787",
     "build": "tsc --noEmit",
     "check": "tsc --noEmit",
     "deploy": "wrangler deploy",
