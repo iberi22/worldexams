@@ -1,6 +1,7 @@
 <script lang="ts">
   import { ingestPdfToV52Draft, type V52DraftResult } from '../../lib/ai/pdf-ingest';
   import { generateLocalExam as generateExam, type ExamGenerateResult } from '../../lib/ai/exam-generator';
+  import { chunkText, type Chunk } from '../../lib/ai/pdf/chunker';
 
   // Svelte 5 State
   let selectedFile = $state<File | null>(null);
@@ -8,6 +9,10 @@
   let ingestProgress = $state(0);
   let ingestInfo = $state('');
   let draftResult = $state<V52DraftResult | null>(null);
+
+  // Chunk list and pagination state
+  let chunks = $state<Chunk[]>([]);
+  let pagination = $state({ page: 1, pageSize: 5 });
 
   let subject = $state('Matemáticas');
   let grade = $state(11);
@@ -21,6 +26,11 @@
 
   const subjects = ['Matemáticas', 'Lectura Crítica', 'Sociales y Ciudadanas', 'Ciencias Naturales', 'Inglés'];
   const grades = [3, 5, 7, 9, 10, 11];
+
+  const totalChunkPages = $derived(Math.ceil(chunks.length / pagination.pageSize) || 1);
+  const paginatedChunks = $derived(
+    chunks.slice((pagination.page - 1) * pagination.pageSize, pagination.page * pagination.pageSize)
+  );
 
   async function handleFileSelect(event: Event) {
     const input = event.target as HTMLInputElement;
@@ -60,6 +70,8 @@
         },
       });
       draftResult = draft;
+      chunks = chunkText(draft.text, { chunkSize: 512, overlap: 50 });
+      pagination = { page: 1, pageSize: 5 };
       ingestInfo = 'Ingesta completada exitosamente.';
     } catch (err: any) {
       errorMessage = err.message || 'Error durante la ingesta del PDF.';
@@ -94,6 +106,8 @@
     selectedFile = null;
     draftResult = null;
     examResult = null;
+    chunks = [];
+    pagination = { page: 1, pageSize: 5 };
     errorMessage = '';
     ingestProgress = 0;
     ingestInfo = '';
@@ -202,6 +216,69 @@
           <div class="rounded-xl border border-white/10 bg-black/40 p-4 font-mono text-xs text-white/80 max-h-48 overflow-y-auto leading-relaxed">
             {draftResult.excerpt}
           </div>
+
+          <!-- Chunk List UI (512 tokens / 50 overlap) -->
+          {#if chunks.length > 0}
+            <div class="rounded-xl border border-emerald-500/20 bg-emerald-950/20 p-5 space-y-4">
+              <div class="flex flex-wrap items-center justify-between gap-2 border-b border-white/10 pb-3">
+                <div>
+                  <h4 class="text-xs font-bold uppercase tracking-wider text-emerald-300">
+                    Chunks RAG Extraídos ({chunks.length} fragmentos)
+                  </h4>
+                  <p class="text-[11px] text-white/50 mt-0.5">
+                    Configuración: chunkSize 512 tokens · overlap 50 tokens
+                  </p>
+                </div>
+                <span class="rounded bg-emerald-500/20 px-2 py-0.5 text-[10px] font-mono text-emerald-300 border border-emerald-500/30">
+                  Página {pagination.page} de {totalChunkPages}
+                </span>
+              </div>
+
+              <!-- Chunk items -->
+              <div class="space-y-3">
+                {#each paginatedChunks as chunk}
+                  <div class="rounded-lg border border-white/10 bg-black/50 p-3 space-y-2">
+                    <div class="flex items-center justify-between text-[11px] font-mono">
+                      <span class="font-bold text-emerald-400">ID: {chunk.id}</span>
+                      <span class="text-white/50">
+                        Página {chunk.page} · ~{chunk.tokenCount} tokens
+                      </span>
+                    </div>
+                    <p class="text-xs text-white/80 leading-relaxed font-sans">
+                      {chunk.text.length > 120 ? chunk.text.slice(0, 120) + '…' : chunk.text}
+                    </p>
+                  </div>
+                {/each}
+              </div>
+
+              <!-- Pagination Controls -->
+              {#if totalChunkPages > 1}
+                <div class="flex items-center justify-between pt-2 border-t border-white/10">
+                  <button
+                    type="button"
+                    onclick={() => pagination = { ...pagination, page: Math.max(1, pagination.page - 1) }}
+                    disabled={pagination.page <= 1}
+                    class="px-3 py-1.5 rounded-lg bg-white/10 hover:bg-white/20 text-white text-xs font-medium transition-all disabled:opacity-40 disabled:cursor-not-allowed"
+                    aria-label="Página anterior de chunks"
+                  >
+                    ← Anterior
+                  </button>
+                  <span class="text-xs font-mono text-white/70">
+                    Página <strong class="text-emerald-400">{pagination.page}</strong> / {totalChunkPages}
+                  </span>
+                  <button
+                    type="button"
+                    onclick={() => pagination = { ...pagination, page: Math.min(totalChunkPages, pagination.page + 1) }}
+                    disabled={pagination.page >= totalChunkPages}
+                    class="px-3 py-1.5 rounded-lg bg-white/10 hover:bg-white/20 text-white text-xs font-medium transition-all disabled:opacity-40 disabled:cursor-not-allowed"
+                    aria-label="Página siguiente de chunks"
+                  >
+                    Siguiente →
+                  </button>
+                </div>
+              {/if}
+            </div>
+          {/if}
 
           <!-- Exam Generator Configuration -->
           <div class="rounded-xl border border-white/10 bg-white/5 p-5 space-y-4">
