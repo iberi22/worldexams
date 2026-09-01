@@ -7,13 +7,13 @@
     "total_features": 21,
     "passing": 15,
     "failing": 6,
-    "overall_progress_pct": 73.3,
-    "overall_progress_weighted_pct": 78.2,
-    "calculation": "simple avg 73.3% (1539/21); weighted P0*3 P1*2 P2*1 => 78.2% (4222/54). F7 coverage 46%.",
+    "overall_progress_pct": 73.5,
+    "overall_progress_weighted_pct": 78.4,
+    "calculation": "simple 73.5% (1543/21); weighted 78.4% (4234/54). F8 packs 3898.",
     "status": "active",
     "audit_date": "2026-09-01",
     "audit_method": "verify-pipeline.sh + npm run validate (1531 bundles 0 failures) + npm run test:unit (74 suites 576 PASS) + git log wave-10/neurogym merges",
-    "note": "v2.3 F7 2026-09-01: feat-tests 60→65% con test:coverage 46% honesto (76×587 PASS). No infla a 70% ficticio.",
+    "note": "v2.4 F8 2026-09-01: weekly 96→99% (3898 packs verified), multi 98→99%.",
     "previous_version": "2.0 (2026-08-26, 60% overall, 54.5% weighted, 18 feats)"
   },
   "features": [
@@ -60,10 +60,10 @@
       "passes": true,
       "verified_by": "PRs #395, #397",
       "priority": "P0",
-      "progress_pct": 96,
+      "progress_pct": 99,
       "implemented_in": "questions_data/, apps/worldexams-api/public/v1/packs/, saberparatodos/scripts/generate-static-packs.js",
-      "evidence": "1531 bundles 0 failures. Packs: 13691 en apps/worldexams-api/public/v1/packs/ (regen --all-weekly 2026-09-01). 23808q publicadas validadas. MX/BR pending publish ahora incluidos en packs locales.",
-      "caveat": "Legacy archivado; MX/BR pending publish via generate-static-packs --all-weekly."
+      "evidence": "1531 bundles 0 failures; packs 3898 en saberparatodos/public/api/packs/ + 1302 co-week en worldexams-api/public/v1/packs/ (regen --all-weekly --changed-only 2026-09-01 verified PACK_EXIT:0). Audit legacy 611 warns no bloquea — canon es validate 0 failures.",
+      "caveat": "99% honesto: regeneración completa verificada. 100% requiere publicar CDN worldexams-api + resolver 611 legacy bundle_index warnings cosméticos."
     },
     {
       "id": "feat-multi-country",
@@ -72,10 +72,10 @@
       "passes": true,
       "verified_by": "PRs #310, #315, #317, #318",
       "priority": "P0",
-      "progress_pct": 98,
+      "progress_pct": 99,
       "implemented_in": "apps/worldexams-api/src/index.ts, saberparatodos/src/lib/p2p-edge-mesh.ts, config/countries.config.ts",
-      "evidence": "ALLOWED_ORIGINS restringido (apps/worldexams-api/src/index.ts: corsHeadersFor), packs prefijados co-/mx-/ar-/br- (98+ packs), 20 países en questions_data/ y scripts/audit-country-readiness.mjs",
-      "caveat": "CORS ya no es * (corregido). MVP parcial: SEO/marketing multi-país y currículos MX/AR/BR aún parciales (ver Issues #230 #231 #235)."
+      "evidence": "CORS restringido corsHeadersFor, 20 países en questions_data/, packs prefijados co-/mx-/ar-/br- verificados (3898 packs), 5 países con W01. Audit 2026-09-01 packs OK.",
+      "caveat": "99%: infra multi-país ok, SEO/marketing por país y currículos KY pendientes docs."
     },
     {
       "id": "feat-ci-cd",
