@@ -86,8 +86,18 @@ export async function ingestPdfToV52Draft(
     let text = '';
     let pagesCount = 0;
     try {
-      const pdfjs: any = await import('pdfjs-dist').catch(() => null);
-      if (pdfjs) {
+      let pdfjsModule: any = await import('pdfjs-dist').catch(() => null);
+      if (!pdfjsModule) {
+        const pdfLegacy = 'pdfjs-dist/legacy/build/pdf.mjs';
+        pdfjsModule = await import(/* @vite-ignore */ pdfLegacy as string).catch(() => null);
+      }
+      let pdfjs: any = pdfjsModule;
+      if (pdfjsModule && typeof pdfjsModule === 'object' && 'default' in pdfjsModule) {
+        if (pdfjsModule.default?.getDocument) {
+          pdfjs = pdfjsModule.default;
+        }
+      }
+      if (pdfjs && typeof pdfjs.getDocument === 'function') {
         const task = pdfjs.getDocument({ data: pdfBytes, verbosity: 0 });
         const pdf = await task.promise;
         pagesCount = pdf.numPages;
