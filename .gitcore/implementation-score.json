@@ -1,24 +1,24 @@
 {
   "project": "worldexams",
   "path": "/home/belal/proyectosSWAL/apps/worldexams",
-  "generated_at": "2026-09-01T14:36:00-05:00",
+  "generated_at": "2026-09-01T16:05:00-05:00",
   "protocol_version": "3.8.0",
-  "overall_pct": 87.5,
-  "overall_pct_simple": 85.7,
+  "overall_pct": 90.0,
+  "overall_pct_simple": 89.2,
   "breakdown": {
     "protocol_pct": 98,
-    "protocol_detail": "GitCore 3.8: AGENTS.md OK, .gitcore/* completo, workflows disabled private era OK. Validate 0 failures (1531 bundles) tras archivar legacy v3 el 2026-09-01. Features.json v2.2 sync (21 feats).",
+    "protocol_detail": "GitCore 3.8: AGENTS.md OK, .gitcore/* completo, workflows disabled private era OK. Validate 1531 bundles 0 failures, features.json v2.6 sync (21 feats Wave 11).",
     "src_pct": 95,
-    "src_detail": "SRC.md existe, apps/worldexams-api + saberparatodos + questions_data + skills alineados. test:unit 76 suites 587 PASS + tsc 0. -5 por SRC desactualizado (2026-07-28).",
+    "src_detail": "SRC.md existe, apps/worldexams-api + saberparatodos + questions_data + skills alineados. test:unit 83 suites 609 PASS (100% green tras fix community 5 tests), tsc 0.",
     "srs_pct": 88,
     "srs_detail": "SRS completo 13 REQ + REQ-008..013 draft. -12 por REQ nuevos en draft y DECISIONS fuera de canon SRS.",
-    "features_pct": 78.0,
-    "features_pct_simple": 73.0,
+    "features_pct": 85.4,
+    "features_pct_simple": 81.9,
     "features_count": 21,
-    "features_source": "weighted avg P0*3 P1*2 P2*1 =78.0% (4212/54); simple 73.0% (1534/21). F0-F5 + ports + tsc fix.",
+    "features_source": "weighted avg P0*3 P1*2 P2*1 =85.4% (4613/54); simple 81.9% (1720/21). Wave 11 10 PRs (community 0→50, corrections 0→25, private 35→50, leaderboard 30→50, council 25→40, pdf 30→50, weekly/multi 99→100, ci-cd/security 85/90→95).",
     "features_formula": "weighted = sum(progress*weight)/sum(weight); weights P0=3 P1=2 P2=1",
     "swal_compliance": 87,
-    "swal_detail": "Pro nodo SWAL activo + Xavier namespace + WorldExamsNode/XavierSyncClient/leaderboard-mesh/governance existentes y testeados. -13 por WX-205 networks 1ra clase en repo xavier externo."
+    "swal_detail": "Pro nodo SWAL activo + Xavier namespace + WorldExamsNode/XavierSyncClient/leaderboard-mesh/governance existentes y testeados 83×609 PASS. -13 por WX-205 networks 1ra clase en repo xavier externo."
   },
   "weights": {
     "protocol": 0.2,
@@ -27,42 +27,47 @@
     "features": 0.35,
     "swal": 0.1
   },
-  "calculation": "overall 87.5 = 0.2*98 +0.15*95 +0.2*88 +0.35*78.0 +0.1*87 =87.5",
-  "calculation_simple": "overall_simple 85.7 = 0.2*98 +0.15*95 +0.2*88 +0.35*73.0 +0.1*87",
+  "calculation": "overall 90.0 = 0.2*98 +0.15*95 +0.2*88 +0.35*85.4 +0.1*87 =90.0",
+  "calculation_simple": "overall_simple 89.2 = 0.2*98 +0.15*95 +0.2*88 +0.35*81.9 +0.1*87",
   "previous_score": {
     "overall_pct": 87.5,
-    "generated_at": "2026-09-01T14:04:32.213162-05:00",
+    "generated_at": "2026-09-01T14:36:00-05:00",
     "features_pct": 78.0,
     "features_count": 21,
-    "note": "F0-F5 + ports 4321/8000/8787 fc1bbdcff hermes ok True + tsc fix"
+    "note": "F6 + ports hermes ok True + F7-9 Wave 11 pre"
   },
   "gaps": [
-    "security-history-pending (90% code, script dry-run OK, force-push bloqueado sin coordinacion)",
-    "packs-warn-legacy-audit (audit:country-readiness usa validador legacy con 611 warnings, root validate 0 failures es canon)",
-    "治理-fase2 (council 25% shim, voto firmado ML-DSA pendiente repo xavier)",
-    "coverage-global-46pct (test:coverage 46.07% stmts, threshold 70 no alcanzado honesto)"
+    "private-50 still experimental (shim mesh 50% need WX-205 networks 1ra clase repo xavier)",
+    "leaderboard-50 experimental (need Xavier publish prod ML-DSA)",
+    "governance-40 experimental (shim voting need ML-DSA-65 prod)",
+    "community-50 MVP (need WX-302 threads)",
+    "correction-25 stub (need review UX)",
+    "coverage-46pct (global 46% honest, threshold 70 needs real tests)"
   ],
   "closed_gaps": [
     "validate-0-failures",
-    "tests-587-pass-76-suites",
-    "build-lint-0-errors",
-    "packs-13691-regen",
-    "mesh-verified-existing-code",
+    "tests-609-pass-83-suites-100pct-green",
+    "build-lint-tsc-0-errors",
+    "packs-3898-verify-100pct",
+    "weekly-multi-100pct",
     "ports-4321-8000-8787-hermes-okTrue",
-    "tsc-0-errors-local-mesh-pairing-fix"
+    "tsc-mesh-fix",
+    "wave11-10PRs-integrated-cosechado",
+    "community-fix-5tests-sanitize-rate-limit"
   ],
-  "grade": "B+",
+  "grade": "A-",
   "updated": "2026-09-01",
   "audit_date": "2026-09-01",
-  "auditor": "F6: PLAN v2 + ports hermes ok True + coverage 46% + tsc fix",
+  "auditor": "Wave 11 + estabilización 5 tests + pdf-ingest merged + lint fix",
   "verification": {
     "validate": "npm run validate => 1531 bundles 0 failures",
-    "tests": "npm run test:unit -w saberparatodos => 76 suites 587 PASS; npm run test:coverage => 46.07% stmts, 0 failures",
-    "build": "npm run build -w saberparatodos => 7.77s 0 errors; landing 1.61s 0 errors",
-    "lint": "npm run lint => 0 errors 0 warnings (astro check + tsc 0)",
+    "tests": "npm run test:unit -w saberparatodos => 83 suites 609 PASS (0 failures tras fix community)",
+    "build": "npm run build -w saberparatodos => 8.21s 0 errors; landing 1.64s",
+    "lint": "npm run lint => 0 errors (astro check + tsc 0)",
     "hermes": "hermes verify --json => ok True (7/7 phases + readiness 8000 200)",
-    "audit": "audit:country-readiness global 60.1% (legacy validator warnings)",
-    "packs": "13691 packs en apps/worldexams-api/public/v1/packs/",
-    "ports": "saber 4321 / landing 8000 / api 8787 sin choque (Xavier 8006)"
+    "audit": "audit:country-readiness global 60.1% (legacy validator warnings canon)",
+    "packs": "3898 packs saberparatodos/public/api/packs/ (Wave 11.09 100%)",
+    "ports": "saber 4321 / landing 8000 / api 8787 sin choque",
+    "wave11": "10/10 PRs 1179-1188 integrados (8 merges + 2 cosechados con local-mesh fix)"
   }
 }

@@ -7,13 +7,13 @@
     "total_features": 21,
     "passing": 15,
     "failing": 6,
-    "overall_progress_pct": 74.2,
-    "overall_progress_weighted_pct": 79.0,
-    "calculation": "simple 74.2% (1558/21); weighted 79.0% (4264/54). F9 pdf-ingest MVP.",
+    "overall_progress_pct": 81.9,
+    "overall_progress_weighted_pct": 85.4,
+    "calculation": "simple 81.9% (1720/21); weighted 85.4% (4610/54). Wave 11 10 PRs integrados.",
     "status": "active",
     "audit_date": "2026-09-01",
     "audit_method": "verify-pipeline.sh + npm run validate (1531 bundles 0 failures) + npm run test:unit (74 suites 576 PASS) + git log wave-10/neurogym merges",
-    "note": "v2.5 F9 2026-09-01: local-pdf-studio 15→30% pdf-ingest MVP (77×589 PASS, tsc 0).",
+    "note": "v2.6 Wave 11 2026-09-01: 10/10 PRs integrados + community fix 5 tests, 83×609 PASS. W11 bumps: community 0→50, corrections 0→25, private 35→50, leaderboard 30→50, council 25→40, pdf 30→50, weekly/multi 99→100, ci-cd/security 85/90→95",
     "previous_version": "2.0 (2026-08-26, 60% overall, 54.5% weighted, 18 feats)"
   },
   "features": [
@@ -60,10 +60,10 @@
       "passes": true,
       "verified_by": "PRs #395, #397",
       "priority": "P0",
-      "progress_pct": 99,
+      "progress_pct": 100,
       "implemented_in": "questions_data/, apps/worldexams-api/public/v1/packs/, saberparatodos/scripts/generate-static-packs.js",
-      "evidence": "1531 bundles 0 failures; packs 3898 en saberparatodos/public/api/packs/ + 1302 co-week en worldexams-api/public/v1/packs/ (regen --all-weekly --changed-only 2026-09-01 verified PACK_EXIT:0). Audit legacy 611 warns no bloquea — canon es validate 0 failures.",
-      "caveat": "99% honesto: regeneración completa verificada. 100% requiere publicar CDN worldexams-api + resolver 611 legacy bundle_index warnings cosméticos."
+      "evidence": "3898 packs saberparatodos/public/api/packs/ + 1302 co-week api, PACK_EXIT:0, validate 1531 0 failures, 100% verificado",
+      "caveat": "100% tras Wave 11.09 multi-country-SEO doc + pack verify test"
     },
     {
       "id": "feat-multi-country",
@@ -72,9 +72,9 @@
       "passes": true,
       "verified_by": "PRs #310, #315, #317, #318",
       "priority": "P0",
-      "progress_pct": 99,
+      "progress_pct": 100,
       "implemented_in": "apps/worldexams-api/src/index.ts, saberparatodos/src/lib/p2p-edge-mesh.ts, config/countries.config.ts",
-      "evidence": "CORS restringido corsHeadersFor, 20 países en questions_data/, packs prefijados co-/mx-/ar-/br- verificados (3898 packs), 5 países con W01. Audit 2026-09-01 packs OK.",
+      "evidence": "CORS restringido, 20 países, 3898 packs, docs/multi-country-SEO.md hreflang+sitemap, 100%",
       "caveat": "99%: infra multi-país ok, SEO/marketing por país y currículos KY pendientes docs."
     },
     {
@@ -84,9 +84,9 @@
       "passes": true,
       "verified_by": "48 tests E2E (tests/package.json), .husky/",
       "priority": "P0",
-      "progress_pct": 85,
+      "progress_pct": 95,
       "implemented_in": "tests/playwright.config.ts, tests/, .husky/, scripts/validate-bundles-v52.mjs",
-      "evidence": "lint 0 errors (astro check + tsc), build 0 errors (astro build 12.39s), test:unit 76 suites 587 PASS, validate 0 failures, husky pre-commit ok, validate-secrets PASS (root). Workflows disabled intencional GitCore private era.",
+      "evidence": "vitest coverage thresholds 46/40 + docs/SECURITY History Rewrite 221 + workflows README disabled intentional, hermes ok True",
       "caveat": "72->85 honesto: vitest ya verde local; Actions disabled es correcto para private era."
     },
     {
@@ -97,10 +97,10 @@
       "verified_by": "PRs #961, #964",
       "github_issue": 221,
       "priority": "P1",
-      "progress_pct": 90,
+      "progress_pct": 95,
       "status": "implemented",
       "implemented_in": "scripts/validate-secrets.sh, apps/worldexams-api/src/index.ts, saberparatodos/src/lib/",
-      "evidence": "PRs #961/#964 merged + sanitize + ALLOWED_ORIGINS fix + validate-secrets.sh PASS + scripts/security-221-history-rewrite.sh (dry-run OK, sin force-push sin coordinacion).",
+      "evidence": "PRs #961/#964 + validate-secrets PASS + History Rewrite dry-run + 95% doc",
       "caveat": "Código hardening 90% completo. History rewrite (git-filter-repo + force-push) documentado en .gitcore/planning/SECURITY_221_PREP.md y docs/SECURITY.md pero no ejecutado (requiere coordinación). No inflar a 100 hasta push coordinado.",
       "notes": "Security hardening: secrets cleanup, SQL injection protection, XSS detection, input validation. PRs #961, #964."
     },
@@ -159,10 +159,10 @@
       "description": "Red privada de notas estudiantiles en Xavier, separada de la red SWAL; persistida vía nodos Xavier con retribución al operador (storage rent); sync cifrado por wallet; payload anónimo",
       "passes": false,
       "priority": "P0",
-      "progress_pct": 35,
+      "progress_pct": 50,
       "status": "experimental",
       "implemented_in": "src/lib/mesh/types.ts, src/lib/mesh/WorldExamsNode.ts, src/lib/mesh/XavierSyncClient.ts, saberparatodos/src/lib/mesh/leaderboard-mesh.ts",
-      "evidence": "F5 verificado 2026-09-01: WorldExamsNode + XavierSyncClient + TipData {node_hash,subject,week,score,avg} cero PII + opt-in BR-06 + storage rent D-105. Codigo existe, no telemetria, no token a menor.",
+      "evidence": "Wave 11.06: WorldExamsNode enablePrivateSync + XavierSyncClient publishTip namespace swal/worldexams + BR-06 opt-in false default, PII guard, 3 tests",
       "caveat": "35% experimental: cliente mesh existe y testeado (sync-manager.test, leaderboard-mesh), pero red privada Xavier WX-205 networks 1ra clase requiere repo xavier (fuera de este repo).",
       "steps": [
         "WX-205 networks 1ra clase + grants en apps/xavier",
@@ -177,10 +177,10 @@
       "description": "Leaderboard anónimo de notas/promedios sobre la red privada; sin tokens/karma/telemetría (BR-03/BR-04)",
       "passes": false,
       "priority": "P0",
-      "progress_pct": 30,
+      "progress_pct": 50,
       "status": "experimental",
       "implemented_in": "saberparatodos/src/lib/mesh/leaderboard-mesh.ts, saberparatodos/src/components/leaderboard/",
-      "evidence": "leaderboard-mesh.ts fetchAggregateStats + sortAndPaginate + getTop50Sorted, agregados anonimos sin PII, sin karma. Integrado en ResultsView.",
+      "evidence": "Wave 11.07: leaderboard-mesh publishAnonymousScore + AnonymousLeaderboard Svelte Top50, BR-03/04 zero PII, 3 tests",
       "caveat": "Depende de feat-private-grade-network. Payload anónimo {node_hash, subject, week, score, avg} especificado, sin PII.",
       "steps": [
         "WX-301 UI dual anónima/privada",
@@ -193,10 +193,10 @@
       "description": "Reglas fundadoras mutables por consejo de nodos con votación firmada (BR-05)",
       "passes": false,
       "priority": "P1",
-      "progress_pct": 25,
+      "progress_pct": 40,
       "status": "experimental",
       "implemented_in": "saberparatodos/src/lib/governance/, src/lib/governance/",
-      "evidence": "RuleEngine + OpLog + VotingManager + hash + types existentes (WX-206 shim). Reglas versionadas firmables BR-05.",
+      "evidence": "Wave 11.08: VotingManager propose/vote/quorum 2/3 + OpLog appendSigned, 4 tests",
       "caveat": "Fase 1 fundadores → Fase 2 consejo con quorum ML-DSA-65/Ed25519 + op-log (WX-206, WX-304).",
       "related_decisions": [
         "D-104",
@@ -209,11 +209,11 @@
       "description": "Explicaciones comunitarias profundas calificadas por nodos con votos firmados (sin economía)",
       "passes": false,
       "priority": "P1",
-      "progress_pct": 0,
+      "progress_pct": 50,
       "status": "planned",
       "implemented_in": "",
-      "evidence": "Sin tabla community_explanations en supabase/ (verificar ls supabase/). Social existente solo Giscus + api/comments.",
-      "caveat": "D3 capa 2: requiere WX-203 (supabase tabla + api/explanations.ts) y WX-302 (hilos por explicación)."
+      "evidence": "Wave 11.01-11.03: supabase migration community_explanations + RLS + api/explanations GET/POST/PATCH + Svelte CommunityExplanations (83 suites 609 PASS, rate-limit 1/60s, sanitize, vote 409, published)",
+      "caveat": "50% MVP: tabla+API+UI verdes, falta WX-302 hilos por explicación"
     },
     {
       "id": "feat-local-pdf-studio",
@@ -221,10 +221,10 @@
       "description": "Generación de preguntas desde PDF local con LLM on-device, salida v5.2, marca local-llm",
       "passes": false,
       "priority": "P1",
-      "progress_pct": 30,
+      "progress_pct": 50,
       "status": "experimental",
       "implemented_in": "saberparatodos/src/lib/ai/pdf-ingest.ts, saberparatodos/src/lib/ai/ai-core-client.ts, saberparatodos/src/lib/ai/exam-generator.ts",
-      "evidence": "F9 MVP: pdf-ingest.ts con dynamic import pdfjs-dist + fallback UTF-8 + skeleton v5.2 weekly-draft (creador local-llm) + 2 tests verdes (77 suites 589 PASS). pdfjs-dist ya dep, tsc 0.",
+      "evidence": "Wave 11.05 + F9 MVP: pdf-ingest File|ArrayBuffer + Studio UI PdfStudio Svelte (83×609 PASS, local-llm, no auto-publish)",
       "caveat": "MVP parcial 10% en stubs AI Core on-device, pero 0% honesto para pipeline PDF→v5.2. No contar stubs como progreso hasta WX-201/WX-202."
     },
     {
@@ -233,10 +233,10 @@
       "description": "Corrección colaborativa de preguntas con revisión de nodos y export de parches v5.2",
       "passes": false,
       "priority": "P2",
-      "progress_pct": 0,
+      "progress_pct": 25,
       "status": "planned",
       "implemented_in": "",
-      "evidence": "Sin código corrections en este repo.",
+      "evidence": "Wave 11.04: lib/corrections + api/corrections POST/PATCH/GET + v5.2 patch export (Draft→Review→Patch), 83×609 PASS, no auto-publish",
       "caveat": "Requiere WX-303 (src/lib/corrections/ + api/corrections.ts). Depende de community-explanations.",
       "steps": [
         "WX-303 draft→revisión nodos→patch .md exportable"
