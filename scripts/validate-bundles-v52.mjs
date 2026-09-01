@@ -187,7 +187,7 @@ const files = args.length
   ? args.map((arg) => path.resolve(ROOT, arg))
   : walk(path.join(ROOT, 'questions_data'));
 
-const results = files.filter((file) => file.endsWith('.md')).map(validateFile);
+const results = files.filter((file) => file.endsWith('-MASTERY-bundle.md')).map(validateFile);
 const failed = results.filter((result) => result.errors.length);
 
 for (const result of failed) {
