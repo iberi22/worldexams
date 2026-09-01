@@ -27,9 +27,14 @@ export default defineConfig({
   // Vite configuration for environment variables
   vite: {
     server: {
+      port: 4321,
+      host: true,
       fs: {
         strict: false
       }
+    },
+    preview: {
+      port: 4321
     },
     optimizeDeps: {
       exclude: ['@astrojs/svelte', 'svelte']
