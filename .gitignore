@@ -92,8 +92,8 @@ credentials.json
 !robots.txt
 
 # --- Backend Infrastructure, Standalone Rust Services & Institutional Logic (Managed in dedicated apps) ---
-supabase/
-**/supabase/
+# Allow supabase/migrations/ to be tracked
+!supabase/migrations/
 services/
 **/services/
 target/
