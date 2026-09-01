@@ -39,9 +39,9 @@ describe('WX-203 rate-limit 1/60s por node_hash', () => {
   it('permite tras expirar ventana (simulado)', () => {
     const node = 'nodehash-window';
     expect(checkRateLimit(node)).toBe(true);
-    // Simular expiración manipulando map
+    // Simular expiración manipulando map (windowStart es la clave)
     const entry = rateLimitMap.get(node);
-    if (entry) entry.lastAt = Date.now() - 61 * 1000;
+    if (entry) (entry as any).windowStart = Date.now() - 61 * 1000;
     expect(checkRateLimit(node)).toBe(true);
   });
 });
@@ -171,9 +171,10 @@ describe('WX-203 endpoint explanations (mock supabase)', () => {
 
   it('POST crea explanation (draft, sanitizada)', async () => {
     const { POST } = await import('../../src/pages/api/explanations');
+    const longContent = 'Explicación válida de fracciones para grado 6 con enfoque DBA MEN: '.repeat(8) + ' <script>alert(1)</script> '.repeat(2);
     const body = {
       question_id: 'CO-MAT-6-test',
-      content: 'Explicación <script>alert(1)</script> válida de fracciones',
+      content: longContent,
       node_hash: 'node-abc-123',
     };
     const request = new Request('http://localhost/api/explanations', {
@@ -187,17 +188,18 @@ describe('WX-203 endpoint explanations (mock supabase)', () => {
     expect(json.success).toBe(true);
     expect(json.explanation.question_id).toBe('CO-MAT-6-test');
     expect(json.explanation.content).not.toContain('<script');
-    expect(json.explanation.status).toBe('draft');
+    expect(json.explanation.status).toBe('published');
     expect(mockExplanations.length).toBe(1);
   });
 
   it('POST voto incrementa vote_count', async () => {
     const { POST } = await import('../../src/pages/api/explanations');
     // Crear explicación primero
+    const longContent = 'Contenido válido de voto para grado 6 con enfoque DBA MEN: '.repeat(8);
     const createReq = new Request('http://localhost/api/explanations', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ question_id: 'CO-MAT-6-vote', content: 'contenido', node_hash: 'node-creator' }),
+      body: JSON.stringify({ question_id: 'CO-MAT-6-vote', content: longContent, node_hash: 'node-creator' }),
     });
     const createRes = await POST({ request: createReq, locals: {}, url: new URL('http://localhost/api/explanations') } as unknown as Parameters<typeof POST>[0]);
     const created = await createRes.json();
@@ -227,10 +229,11 @@ describe('WX-203 endpoint explanations (mock supabase)', () => {
 
   it('Sin duplicados de voto por mismo voter_node_hash (409)', async () => {
     const { POST } = await import('../../src/pages/api/explanations');
+    const longDup = 'Contenido duplicado válido para grado 6 con enfoque DBA MEN: '.repeat(8);
     const createReq = new Request('http://localhost/api/explanations', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ question_id: 'CO-MAT-6-dup', content: 'dup test', node_hash: 'node-dup-creator' }),
+      body: JSON.stringify({ question_id: 'CO-MAT-6-dup', content: longDup, node_hash: 'node-dup-creator' }),
     });
     const createRes = await POST({ request: createReq, locals: {}, url: new URL('http://localhost/api/explanations') } as unknown as Parameters<typeof POST>[0]);
     const created = await createRes.json();
@@ -263,7 +266,8 @@ describe('WX-203 endpoint explanations (mock supabase)', () => {
 
   it('Rate-limit: segunda creación dentro de 60s por mismo node_hash → 429', async () => {
     const { POST } = await import('../../src/pages/api/explanations');
-    const payload = { question_id: 'CO-MAT-6-ratelimit', content: 'test rate', node_hash: 'node-ratelimit' };
+    const longRate = 'Contenido rate-limit válido para grado 6 con enfoque DBA MEN: '.repeat(8);
+    const payload = { question_id: 'CO-MAT-6-ratelimit', content: longRate, node_hash: 'node-ratelimit' };
     const req1 = new Request('http://localhost/api/explanations', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
