@@ -28,6 +28,15 @@ function nextVersion(current: string | null): string {
   return `${parts[0]}.${parts[1]}.${patch}`;
 }
 
+export interface SignedProposal {
+  id: string;
+  op: string;
+  payload: unknown;
+  signer: string;
+  signature: string;
+  created_at: string;
+}
+
 export interface VotingManagerOptions {
   ruleEngine?: RuleEngine;
   oplog?: OpLog;
@@ -39,8 +48,9 @@ export class VotingManager {
   private ruleEngine: RuleEngine;
   private oplog: OpLog;
   private activeNodes: Set<string>;
-  private votes: Map<string, Map<string, Vote>> = new Map(); // rule_version -> voter_node -> Vote
+  private votes: Map<string, Map<string, Vote>> = new Map(); // rule_version / proposalId -> voter_node -> Vote
   private pendingRules: Map<string, Rule> = new Map(); // version -> Rule (proposed but not yet applied)
+  private proposals: Map<string, SignedProposal> = new Map(); // proposalId -> SignedProposal
 
   constructor(opts?: VotingManagerOptions) {
     this.oplog = opts?.oplog ?? new OpLog();
@@ -123,7 +133,7 @@ export class VotingManager {
   private getLatestPendingVersion(): string | null {
     if (this.pendingRules.size === 0) return null;
     let latest: string | null = null;
-    for (const v of this.pendingRules.keys()) {
+    for (const v of Array.from(this.pendingRules.keys())) {
       if (!latest || compareSemver(v, latest) > 0) latest = v;
     }
     return latest;
@@ -185,7 +195,7 @@ export class VotingManager {
     let votes_for = 0;
     let votes_against = 0;
     if (bucket) {
-      for (const v of bucket.values()) {
+      for (const v of Array.from(bucket.values())) {
         if (v.vote === 'approve') votes_for++;
         else votes_against++;
       }
@@ -233,7 +243,7 @@ export class VotingManager {
   /** Todas las versiones con votos. */
   getAllVotes(): Map<string, Vote[]> {
     const out = new Map<string, Vote[]>();
-    for (const [ver, map] of this.votes.entries()) {
+    for (const [ver, map] of Array.from(this.votes.entries())) {
       out.set(ver, Array.from(map.values()).map((v) => ({ ...v })));
     }
     return out;
@@ -246,13 +256,121 @@ export class VotingManager {
     return this.ruleEngine;
   }
 
+  /**
+   * Stub signature verification for Ed25519 (hex string check).
+   * TODO ML-DSA-65: Implement full ML-DSA-65 / Ed25519 cryptographic signature verification.
+   */
+  private verifyEd25519Stub(signature: string): boolean {
+    return OpLog.verifySignature(signature);
+  }
+
+  /**
+   * Proposes a signed rule change operation.
+   * @param op tipo de operación de regla
+   * @param payload datos de la regla
+   * @param signer identificador del nodo firmante
+   * @param signature firma Ed25519 (hex string check stub)
+   * TODO ML-DSA-65: Replace Ed25519 signature stub check with ML-DSA-65 verification.
+   */
+  async proposeRuleChange(
+    op: string,
+    payload: unknown,
+    signer: string,
+    signature?: string
+  ): Promise<SignedProposal> {
+    const sig = signature ?? signPlaceholder(JSON.stringify({ op, payload }), 'founder-key', signer);
+    if (!this.verifyEd25519Stub(sig)) {
+      throw new Error(`Invalid signature for rule change proposal ${op}`);
+    }
+
+    const proposalId = `prop-${Date.now()}-${Math.random().toString(36).substring(2, 7)}`;
+    const proposal: SignedProposal = {
+      id: proposalId,
+      op,
+      payload,
+      signer,
+      signature: sig,
+      created_at: new Date().toISOString(),
+    };
+
+    this.proposals.set(proposalId, proposal);
+    this.oplog.appendSigned('rule_proposed', sig, { op, payload, proposalId }, signer);
+
+    // Also propose rule in RuleEngine if payload represents rule content
+    try {
+      const contentStr = typeof payload === 'string' ? payload : JSON.stringify(payload);
+      const latest = this.ruleEngine.getLatestVersion() ?? this.getLatestPendingVersion();
+      const version = nextVersion(latest);
+      const rule = this.ruleEngine.createRule(contentStr, version, signer, 'founder-key');
+      this.pendingRules.set(version, rule);
+      this.pendingRules.set(proposalId, rule);
+    } catch {
+      // payload may not be valid rule content, proposal still recorded
+    }
+
+    return proposal;
+  }
+
+  /**
+   * Casts a signed vote for a proposal or rule version.
+   * Quorum requirement = 2/3 of active council nodes.
+   * TODO ML-DSA-65: Ed25519 signature stub.
+   */
+  vote(
+    proposalId: string,
+    signer: string,
+    signature: string,
+    voteChoice: 'approve' | 'reject' = 'approve'
+  ): Vote {
+    if (!this.verifyEd25519Stub(signature)) {
+      throw new Error(`Invalid signature for vote on proposal ${proposalId}`);
+    }
+
+    const timestamp = new Date().toISOString();
+    const v: Vote = {
+      rule_version: proposalId,
+      voter_node: signer,
+      vote: voteChoice,
+      signature,
+      timestamp,
+    };
+
+    if (!this.votes.has(proposalId)) this.votes.set(proposalId, new Map());
+    this.votes.get(proposalId)!.set(signer, v);
+
+    this.oplog.appendSigned('vote_cast', signature, { proposalId, signer, voteChoice }, signer);
+    return { ...v };
+  }
+
+  /**
+   * Checks if quorum (2/3 supermajority of active nodes) has been reached for a proposal.
+   * Quorum = ceil(2/3 * totalActiveNodes).
+   */
+  quorumReached(proposalId: string): boolean {
+    const total = this.getTotalActiveNodes();
+    if (total === 0) return false;
+    const requiredQuorum = Math.ceil((2 / 3) * total);
+
+    const bucket = this.votes.get(proposalId);
+    if (!bucket) return false;
+
+    let approveCount = 0;
+    for (const v of Array.from(bucket.values())) {
+      if (v.vote === 'approve') approveCount++;
+    }
+
+    return approveCount >= requiredQuorum;
+  }
+
   /** Para tests: limpia estado votos/pending sin borrar engine. */
   clearVotes(): void {
     this.votes.clear();
+    this.proposals.clear();
   }
   clearAll(): void {
     this.votes.clear();
     this.pendingRules.clear();
+    this.proposals.clear();
     this.oplog.clear();
     this.ruleEngine.clear();
   }
