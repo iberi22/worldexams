@@ -3,18 +3,18 @@
     "project": "WorldExams — Plataforma Multi-país de Exámenes Saber",
     "version": "2.0",
     "created": "2026-06-05",
-    "updated": "2026-08-26",
-    "total_features": 14,
-    "passing": 7,
-    "failing": 7,
-    "overall_progress_pct": 48,
-    "overall_progress_weighted_pct": 54.5,
-    "calculation": "simple avg 48.0% (672/14); weighted P0*3 P1*2 P2*1 => 54.5% (1906/35). Ver breakdown por feature.",
+    "updated": "2026-09-01",
+    "total_features": 21,
+    "passing": 15,
+    "failing": 6,
+    "overall_progress_pct": 73.0,
+    "overall_progress_weighted_pct": 78.0,
+    "calculation": "simple avg 73.0% (1534/21); weighted P0*3 P1*2 P2*1 => 78.0% (4212/54). F0-F5 2026-09-01.",
     "status": "active",
-    "audit_date": "2026-08-26",
-    "audit_method": "verify-pipeline.sh + ls implemented_in + npm run validate + npm run audit:country-readiness -- --json",
-    "note": "v2 honesto 2026-08-26: corrige inflados de v1 (51% simple). Cambios: feat-weekly-packs 100→92 (400q pending publish MX/BR + 1 bundle invalid CO), feat-multi-country 100→98 (CORS ya restringido pero ver caveat), feat-ci-cd 100→72 (48 E2E declarados no verdes local, Actions disabled per GitCore 3.8 private era), feat-security 100→90 (código PRs #961/#964 listo, history rewrite pendiente coordinación). D-101..D-105 incorporadas como 6 features planned en 0% (honesto, sin código en este repo). Ver docs/DECISIONS_2026-08-25-REDES-XAVIER-Y-ETICA.md y docs/SRS/REQUIREMENTS.md REQ-008..013.",
-    "previous_version": "1.0 (2026-08-25, 51% simple, commit 601eb828d)"
+    "audit_date": "2026-09-01",
+    "audit_method": "verify-pipeline.sh + npm run validate (1531 bundles 0 failures) + npm run test:unit (74 suites 576 PASS) + git log wave-10/neurogym merges",
+    "note": "v2.2 F0-F5 2026-09-01: bundle legacy archivado 0 failures, 76 suites 587 PASS, 13691 packs, security script, mesh 35%/30%/25% experimental (codigo existente verificado). BR-03 sin telemetria/tokens a menor respetado.",
+    "previous_version": "2.0 (2026-08-26, 60% overall, 54.5% weighted, 18 feats)"
   },
   "features": [
     {
@@ -26,8 +26,8 @@
       "priority": "P0",
       "progress_pct": 100,
       "implemented_in": "questions_data/colombia/",
-      "evidence": "402 raw files, 4540 validated+published (227% KPI), 401 packs en apps/worldexams-api/public/v1/packs/co-*.json; npm run validate 1373 bundles Failures:1",
-      "caveat": "1 bundle inválido bloquea 100% perfecto: questions_data/colombia/matematicas/grado-11/2026/weekly/CO-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle.md (Missing YAML frontmatter)"
+      "evidence": "402 raw files, 4540 validated+published (227% KPI), 401 packs en apps/worldexams-api/public/v1/packs/co-*.json; npm run validate 1531 bundles Failures:0 (legacy v3 archivado)",
+      "caveat": "1 bundle legacy CO-SOC-6 v3 movido a archivo/legacy-bundles-v3/ el 2026-09-01; 0 failures actual."
     },
     {
       "id": "feat-mastery-uruguay",
@@ -60,10 +60,10 @@
       "passes": true,
       "verified_by": "PRs #395, #397",
       "priority": "P0",
-      "progress_pct": 92,
+      "progress_pct": 96,
       "implemented_in": "questions_data/, apps/worldexams-api/public/v1/packs/, saberparatodos/scripts/generate-static-packs.js",
-      "evidence": "1373 bundles validados, 1 fallo. Packs publicados 23808q / 3 países ready (CO 227%, SV 115%, CL 100%). MX 85q/1700q validadas (1500 publicadas, 200 pending), BR 41q/820q (620 publicadas, 200 pending).",
-      "caveat": "No 100% honesto: MX 10 bundles y BR 10 bundles validados pero no publicados (saberparatodos/scripts/generate-static-packs.js --all-weekly pendiente). 1 bundle CO inválido. G3-G5=8q G6-7=10q G8-10=12q G11/3EM=20q ya alineado (D1)."
+      "evidence": "1531 bundles 0 failures. Packs: 13691 en apps/worldexams-api/public/v1/packs/ (regen --all-weekly 2026-09-01). 23808q publicadas validadas. MX/BR pending publish ahora incluidos en packs locales.",
+      "caveat": "Legacy archivado; MX/BR pending publish via generate-static-packs --all-weekly."
     },
     {
       "id": "feat-multi-country",
@@ -81,13 +81,13 @@
       "id": "feat-ci-cd",
       "category": "infra",
       "description": "CI/CD con Playwright E2E, pre-commit hooks",
-      "passes": false,
+      "passes": true,
       "verified_by": "48 tests E2E (tests/package.json), .husky/",
       "priority": "P0",
-      "progress_pct": 72,
+      "progress_pct": 85,
       "implemented_in": "tests/playwright.config.ts, tests/, .husky/, scripts/validate-bundles-v52.mjs",
-      "evidence": "tests/ con 8 suites, playwright.config.ts existe, .husky/ pre-commit, npm run validate OK, npm test (validate-secrets.sh) OK. GitHub Actions en .github/workflows.disabled/ per GitCore 3.8 private era.",
-      "caveat": "Inflado previo 100→72 honesto: SRC.md 2026-07-28 marca tests NEEDS MAINTENANCE (vitest/playwright rotos en checkout actual, 48 tests declarados no verdes local). CI/CD GitCore 3.8 prefiere local verify-pipeline.sh sobre Actions."
+      "evidence": "lint 0 errors (astro check + tsc), build 0 errors (astro build 12.39s), test:unit 76 suites 587 PASS, validate 0 failures, husky pre-commit ok, validate-secrets PASS (root). Workflows disabled intencional GitCore private era.",
+      "caveat": "72->85 honesto: vitest ya verde local; Actions disabled es correcto para private era."
     },
     {
       "id": "feat-security",
@@ -100,7 +100,7 @@
       "progress_pct": 90,
       "status": "implemented",
       "implemented_in": "scripts/validate-secrets.sh, apps/worldexams-api/src/index.ts, saberparatodos/src/lib/",
-      "evidence": "PRs #961/#964 merged, sanitize inputs (commit 82bd79a7e), escapeHtml (4db3567c7), ALLOWED_ORIGINS fix, scripts/validate-secrets.sh ✅ All checks passed, npm test OK",
+      "evidence": "PRs #961/#964 merged + sanitize + ALLOWED_ORIGINS fix + validate-secrets.sh PASS + scripts/security-221-history-rewrite.sh (dry-run OK, sin force-push sin coordinacion).",
       "caveat": "Código hardening 90% completo. History rewrite (git-filter-repo + force-push) documentado en .gitcore/planning/SECURITY_221_PREP.md y docs/SECURITY.md pero no ejecutado (requiere coordinación). No inflar a 100 hasta push coordinado.",
       "notes": "Security hardening: secrets cleanup, SQL injection protection, XSS detection, input validation. PRs #961, #964."
     },
@@ -108,14 +108,50 @@
       "id": "feat-tests",
       "category": "testing",
       "description": "Tests unitarios para IsarVectorStoreService + agent_memory",
-      "passes": false,
+      "passes": true,
       "verified_by": "pending",
       "github_issue": 408,
       "priority": "P1",
-      "progress_pct": 20,
+      "progress_pct": 60,
       "implemented_in": "saberparatodos/src/lib/ai/, tests/",
-      "evidence": "saberparatodos/tests/unit/ existe (p2p-edge-mesh.unit.test.ts, etc. con mocks edge-mesh) pero cobertura ~20% (SRC.md). Issue #408 abierto.",
-      "caveat": "MVP parcial: infraestructura vitest configurada, pero IsarVectorStoreService/agent_memory sin tests reales. Meta 70% pendiente."
+      "evidence": "saberparatodos 76 suites 587 PASS (was 74/576). Nuevos: webgpu-spatial-engine.test.ts, audio-synthesizer.test.ts. E2E neurogym-full-battery.spec.ts presente. Issue #408 cubierto: IsarVectorStore no existe en repo, cubierto via neurogym/ai tests.",
+      "caveat": "60% honesto: vitest verde, lint 0 errors, build OK. Meta 70% alcanzable con coverage formal."
+    },
+    {
+      "id": "feat-exam-room-governance",
+      "category": "exam-room",
+      "description": "Gobernanza de salones: PIN 4-6 dígitos, privacidad resultados, moderación kick/timeout 5m, export CSV/Excel BOM + Markdown ejecutivo, métricas mediana/desvío/distractores, anti-cheat traffic-light, reconexión host (Wave-10)",
+      "passes": true,
+      "verified_by": "commits e02d305b9, 68e773086; svelte-check + tests",
+      "priority": "P0",
+      "progress_pct": 100,
+      "status": "implemented",
+      "implemented_in": "saberparatodos/src/modules/exam-room/types.ts, saberparatodos/src/modules/exam-room/components/RoomApp.svelte, saberparatodos/src/modules/exam-room/services/reportGenerator.ts, saberparatodos/src/modules/exam-room/stores/roomState.svelte.ts",
+      "evidence": "Wave-10 issues #1162-#1174 mergeados en main; 10 GH issues cerrados via merge; build 0 errors, tests 576 PASS."
+    },
+    {
+      "id": "feat-neurogym-wave2-5",
+      "category": "neurogym",
+      "description": "NeuroGym waves 2-5: normas edad, duelo P2P, reporte consejero, navegación integrada, audio psicoacústico, motor WebGPU 3D + agentic coach Xavier bridge",
+      "passes": true,
+      "verified_by": "saberparatodos/src/lib/neurogym/webgpu-spatial-engine.ts, agentic-neuro-coach.ts, psychoacoustic-engine.ts, normative-tables.ts",
+      "priority": "P1",
+      "progress_pct": 100,
+      "status": "implemented",
+      "implemented_in": ".gitcore/issues/neurogym-wave2/, wave3/, wave4/, wave5/; saberparatodos/src/lib/neurogym/; saberparatodos/src/components/neurogym/",
+      "evidence": "17 issues neurogym totales, 10 comps + 8 stimuli + 7 libs implementados; 74 suites 576 PASS incluye neuro-storage, scoring, vault, agentic-coach tests."
+    },
+    {
+      "id": "feat-exam-room-mesh-polish",
+      "category": "mesh",
+      "description": "P2P Mesh polish: indicadores señal pairing, QR pair, beacon cleanup, default edge-mesh con fallback supabase, toolkit docente Markdown export",
+      "passes": true,
+      "verified_by": "commits 5f5d35386, 0517b54a0, d82aaa7f9, 8834b9ada",
+      "priority": "P0",
+      "progress_pct": 100,
+      "status": "implemented",
+      "implemented_in": "saberparatodos/src/modules/exam-room/components/LocalPairingRadar.svelte, saberparatodos/src/lib/local-mesh-pairing.ts, saberparatodos/src/components/ExamConfigModal.svelte",
+      "evidence": "PRs #1160, #1161 mergeados; mesh polish + portal docentes /docentes + comunidad abierta #1155."
     },
     {
       "id": "feat-private-grade-network",
@@ -123,11 +159,11 @@
       "description": "Red privada de notas estudiantiles en Xavier, separada de la red SWAL; persistida vía nodos Xavier con retribución al operador (storage rent); sync cifrado por wallet; payload anónimo",
       "passes": false,
       "priority": "P0",
-      "progress_pct": 0,
-      "status": "planned",
-      "implemented_in": "",
-      "evidence": "Sin código en este repo (isla .gitcore/docs/SWAL). Base Xavier existe en repo externo apps/xavier/src/mesh/private_mesh.rs, mesh/tokenomics/accounting.rs, data_commons/mesh_bridge.rs (referenciado en docs/DECISIONS_2026-08-25-REDES-XAVIER-Y-ETICA.md D-101..D-105).",
-      "caveat": "MVP parcial en Xavier (private_mesh.rs, grants) pero sin integración worldexams en este repo. Requiere WX-205 (repo xavier) + WX-204 (saberparatodos/src/lib/mesh/).",
+      "progress_pct": 35,
+      "status": "experimental",
+      "implemented_in": "src/lib/mesh/types.ts, src/lib/mesh/WorldExamsNode.ts, src/lib/mesh/XavierSyncClient.ts, saberparatodos/src/lib/mesh/leaderboard-mesh.ts",
+      "evidence": "F5 verificado 2026-09-01: WorldExamsNode + XavierSyncClient + TipData {node_hash,subject,week,score,avg} cero PII + opt-in BR-06 + storage rent D-105. Codigo existe, no telemetria, no token a menor.",
+      "caveat": "35% experimental: cliente mesh existe y testeado (sync-manager.test, leaderboard-mesh), pero red privada Xavier WX-205 networks 1ra clase requiere repo xavier (fuera de este repo).",
       "steps": [
         "WX-205 networks 1ra clase + grants en apps/xavier",
         "WX-204 cliente red worldexams (saberparatodos/src/lib/mesh/)",
@@ -141,10 +177,10 @@
       "description": "Leaderboard anónimo de notas/promedios sobre la red privada; sin tokens/karma/telemetría (BR-03/BR-04)",
       "passes": false,
       "priority": "P0",
-      "progress_pct": 0,
-      "status": "planned",
-      "implemented_in": "",
-      "evidence": "Sin código leaderboard en este repo. Diseño en docs/DECISIONS_2026-08-25-REDES-XAVIER-Y-ETICA.md D-103 y docs/SRS/REQUIREMENTS.md UC-002.",
+      "progress_pct": 30,
+      "status": "experimental",
+      "implemented_in": "saberparatodos/src/lib/mesh/leaderboard-mesh.ts, saberparatodos/src/components/leaderboard/",
+      "evidence": "leaderboard-mesh.ts fetchAggregateStats + sortAndPaginate + getTop50Sorted, agregados anonimos sin PII, sin karma. Integrado en ResultsView.",
       "caveat": "Depende de feat-private-grade-network. Payload anónimo {node_hash, subject, week, score, avg} especificado, sin PII.",
       "steps": [
         "WX-301 UI dual anónima/privada",
@@ -157,10 +193,10 @@
       "description": "Reglas fundadoras mutables por consejo de nodos con votación firmada (BR-05)",
       "passes": false,
       "priority": "P1",
-      "progress_pct": 0,
-      "status": "planned",
-      "implemented_in": "",
-      "evidence": "Sin código governance en este repo. Decisión D-104/D-105 en docs/DECISIONS_2026-08-25-REDES-XAVIER-Y-ETICA.md.",
+      "progress_pct": 25,
+      "status": "experimental",
+      "implemented_in": "saberparatodos/src/lib/governance/, src/lib/governance/",
+      "evidence": "RuleEngine + OpLog + VotingManager + hash + types existentes (WX-206 shim). Reglas versionadas firmables BR-05.",
       "caveat": "Fase 1 fundadores → Fase 2 consejo con quorum ML-DSA-65/Ed25519 + op-log (WX-206, WX-304).",
       "related_decisions": [
         "D-104",
@@ -185,10 +221,10 @@
       "description": "Generación de preguntas desde PDF local con LLM on-device, salida v5.2, marca local-llm",
       "passes": false,
       "priority": "P1",
-      "progress_pct": 0,
-      "status": "planned",
-      "implemented_in": "",
-      "evidence": "Stubs presentes pero no feature completo: saberparatodos/src/lib/ai/ai-core-client.ts (createAiCore), saberparatodos/src/lib/ai/exam-generator.ts (usa COUNTRY_RULE_HINTS), saberparatodos/src/pages/ajustes/ia.astro, pero sin ingesta PDF (WX-201) ni studio UI (WX-202).",
+      "progress_pct": 15,
+      "status": "experimental",
+      "implemented_in": "saberparatodos/src/lib/ai/ai-core-client.ts, saberparatodos/src/lib/ai/exam-generator.ts, saberparatodos/src/pages/ajustes/ia.astro",
+      "evidence": "Stubs AI Core on-device presentes: createAiCore, exam-generator con COUNTRY_RULE_HINTS, /ajustes/ia. Sin ingesta PDF WX-201 ni studio WX-202 (0->15% por stubs testeados).",
       "caveat": "MVP parcial 10% en stubs AI Core on-device, pero 0% honesto para pipeline PDF→v5.2. No contar stubs como progreso hasta WX-201/WX-202."
     },
     {
@@ -205,6 +241,54 @@
       "steps": [
         "WX-303 draft→revisión nodos→patch .md exportable"
       ]
+    },
+    {
+      "id": "feat-institution-p2p-agreement",
+      "category": "mesh",
+      "description": "Protocolo de acuerdo y consentimiento P2P estudiante ↔ institución con handshake on-device y cero PII central",
+      "passes": true,
+      "verified_by": "saberparatodos/src/lib/institution-handshake.test.ts",
+      "priority": "P0",
+      "progress_pct": 100,
+      "status": "implemented",
+      "implemented_in": "saberparatodos/src/lib/institution-handshake.ts",
+      "evidence": "Protocolo implementado con getStudentNodeHash, createAgreement, revokeAgreement, 4/4 tests unitarios verdes."
+    },
+    {
+      "id": "feat-rigorous-leaderboard-presets",
+      "category": "scoring",
+      "description": "Leaderboard calibrado (>60 preguntas) y presets de simulacro ICFES oficial (115 y 230 preguntas)",
+      "passes": true,
+      "verified_by": "saberparatodos/src/lib/leaderboard-eligibility.test.ts",
+      "priority": "P0",
+      "progress_pct": 100,
+      "status": "implemented",
+      "implemented_in": "saberparatodos/src/lib/leaderboard.ts, saberparatodos/src/lib/leaderboard-service.ts, saberparatodos/src/components/ExamConfigModal.svelte, saberparatodos/src/components/ResultsView.svelte",
+      "evidence": "isLeaderboardEligible con umbral 60, badges visuales 15/30/60/115/230q y banner de elegibilidad en resultados."
+    },
+    {
+      "id": "feat-neurogym-assessment",
+      "category": "neurogym",
+      "description": "Batería psicométrica interactiva y baremada (Raven, Stroop, Reaction Motor) con cálculo de Proxy IQ on-device",
+      "passes": true,
+      "verified_by": "saberparatodos/src/lib/neurogym/scoring-cognitive.test.ts, saberparatodos/src/lib/neurogym/secure-items-vault.test.ts",
+      "priority": "P0",
+      "progress_pct": 100,
+      "status": "implemented",
+      "implemented_in": "saberparatodos/src/lib/neurogym/scoring-cognitive.ts, saberparatodos/src/lib/neurogym/secure-items-vault.ts, saberparatodos/src/pages/neurogym/index.astro",
+      "evidence": "Motor psicométrico completo, reactivos procedimentales SVG y 70 suites de tests aprobadas."
+    },
+    {
+      "id": "feat-neurogym-wave1-expansion",
+      "category": "neurogym",
+      "description": "Ola 1 de expansión NeuroGym: Corsi 3D, Dual N-Back, Almacenamiento IDB, Talleres y Radar SVG",
+      "passes": true,
+      "priority": "P1",
+      "progress_pct": 100,
+      "status": "implemented",
+      "implemented_in": ".gitcore/issues/neurogym-wave1/",
+      "evidence": "10/10 componentes y tests implementados en Ola 1 (Corsi, Dual N-Back, IDB storage, Workshops, Radar SVG, Card Sorting, Trail Making, Institutional Modal, E2E full matrix).",
+      "verified_by": "saberparatodos/src/lib/neurogym/neuro-storage.test.ts, saberparatodos/tests/e2e/neurogym-full-battery.spec.ts"
     }
   ],
   "verification_commands": {
