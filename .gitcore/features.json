@@ -7,13 +7,13 @@
     "total_features": 21,
     "passing": 15,
     "failing": 6,
-    "overall_progress_pct": 83.3,
-    "overall_progress_weighted_pct": 86.5,
-    "calculation": "simple 83.3% (1750/21); weighted 86.5% (4670/54). Wave12 chunking 50→65% done.",
+    "overall_progress_pct": 84.0,
+    "overall_progress_weighted_pct": 86.8,
+    "calculation": "simple 84.0% (1765/21); weighted 86.8% (4685/54). F14 corrections 25→40%.",
     "status": "active",
     "audit_date": "2026-09-01",
     "audit_method": "verify-pipeline.sh + npm run validate (1531 bundles 0 failures) + npm run test:unit (74 suites 576 PASS) + git log wave-10/neurogym merges",
-    "note": "v3.2 Wave12 2026-09-01: F13 50→65% chunking (87×627 PASS) + dependabot 6.2 merged. Wave11+12 15/15 PRs integrados.",
+    "note": "v3.3 F14 2026-09-01: corrections 25→40% CorrectionThread.svelte (87×627 PASS, BR-03)",
     "previous_version": "2.0 (2026-08-26, 60% overall, 54.5% weighted, 18 feats)"
   },
   "features": [
@@ -233,10 +233,10 @@
       "description": "Corrección colaborativa de preguntas con revisión de nodos y export de parches v5.2",
       "passes": false,
       "priority": "P2",
-      "progress_pct": 25,
+      "progress_pct": 40,
       "status": "planned",
       "implemented_in": "",
-      "evidence": "Wave 11.04: lib/corrections + api/corrections POST/PATCH/GET + v5.2 patch export (Draft→Review→Patch), 83×609 PASS, no auto-publish",
+      "evidence": "F14 WX-303b: CorrectionThread.svelte draft→published (filtrado, aprobar→published, preview .md v5.2, nunca auto-publica questions_data/ ) + lib/corrections 83×627 PASS",
       "caveat": "Requiere WX-303 (src/lib/corrections/ + api/corrections.ts). Depende de community-explanations.",
       "steps": [
         "WX-303 draft→revisión nodos→patch .md exportable"
