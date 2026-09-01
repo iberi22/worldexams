@@ -11,3 +11,6 @@
 ## 2024-11-20 - [Add explicit type="button" to action buttons]
 **Learning:** Svelte buttons without an explicit `type` attribute inside potentially reactive contexts can sometimes be misinterpreted by assistive technologies or unexpectedly trigger form submissions if wrapped later. Adding `type="button"` ensures consistent, predictable behavior.
 **Action:** Always explicitly declare `type="button"` for interactive `<button>` elements that are not intended to submit forms.
+## 2024-05-18 - Icon-only Buttons (Emoji vs SVG)
+**Learning:** Emoji-based icon-only buttons (like `🔄` or `📋`) often get overlooked for accessibility because they lack the complex SVG markup that typically triggers accessibility warnings, but they are just as opaque to screen readers if they lack an `aria-label`.
+**Action:** Always check both SVG and emoji icon-only buttons for `aria-label` attributes to ensure consistent screen reader support.
