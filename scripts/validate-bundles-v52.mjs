@@ -19,7 +19,7 @@ function walk(dir, out = []) {
   for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
     const full = path.join(dir, entry.name);
     if (entry.isDirectory()) walk(full, out);
-    else if (entry.isFile() && entry.name.endsWith('.md') && full.includes('/weekly/')) out.push(full);
+    else if (entry.isFile() && entry.name.endsWith('.md')) out.push(full);
   }
   return out;
 }
@@ -187,7 +187,7 @@ const files = args.length
   ? args.map((arg) => path.resolve(ROOT, arg))
   : walk(path.join(ROOT, 'questions_data'));
 
-const results = files.filter((file) => file.endsWith('.md')).map(validateFile);
+const results = files.filter((file) => file.endsWith('-MASTERY-bundle.md')).map(validateFile);
 const failed = results.filter((result) => result.errors.length);
 
 for (const result of failed) {
