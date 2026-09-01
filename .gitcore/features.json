@@ -7,13 +7,13 @@
     "total_features": 21,
     "passing": 15,
     "failing": 6,
-    "overall_progress_pct": 82.6,
-    "overall_progress_weighted_pct": 85.9,
-    "calculation": "simple 82.6% (1735/21); weighted 85.9% (4640/54). F12 threads 50→65.",
+    "overall_progress_pct": 83.3,
+    "overall_progress_weighted_pct": 86.5,
+    "calculation": "simple 83.3% (1750/21); weighted 86.5% (4670/54). Wave12 chunking 50→65% done.",
     "status": "active",
     "audit_date": "2026-09-01",
     "audit_method": "verify-pipeline.sh + npm run validate (1531 bundles 0 failures) + npm run test:unit (74 suites 576 PASS) + git log wave-10/neurogym merges",
-    "note": "v3.1 F12 2026-09-01: community 50→65% threads (84×612 PASS, tsc 0).",
+    "note": "v3.2 Wave12 2026-09-01: F13 50→65% chunking (87×627 PASS) + dependabot 6.2 merged. Wave11+12 15/15 PRs integrados.",
     "previous_version": "2.0 (2026-08-26, 60% overall, 54.5% weighted, 18 feats)"
   },
   "features": [
@@ -221,11 +221,11 @@
       "description": "Generación de preguntas desde PDF local con LLM on-device, salida v5.2, marca local-llm",
       "passes": false,
       "priority": "P1",
-      "progress_pct": 50,
+      "progress_pct": 65,
       "status": "experimental",
       "implemented_in": "saberparatodos/src/lib/ai/pdf-ingest.ts, saberparatodos/src/lib/ai/ai-core-client.ts, saberparatodos/src/lib/ai/exam-generator.ts",
-      "evidence": "Wave 11.05 + F9 MVP: pdf-ingest File|ArrayBuffer + Studio UI PdfStudio Svelte (83×609 PASS, local-llm, no auto-publish)",
-      "caveat": "MVP parcial 10% en stubs AI Core on-device, pero 0% honesto para pipeline PDF→v5.2. No contar stubs como progreso hasta WX-201/WX-202."
+      "evidence": "Wave 12 F13: dependabot pdfjs-dist 6.2.108 merged (bcf705579) + chunker 512/50 + studio pagination chunk list + embedder 384 dim stub + storage idb + 4 tests chunker/embedder/storage (87×627 PASS)",
+      "caveat": "65% final: ingesta+mvp+studio+chunking+embed+storage verdes, falta LLM on-device real"
     },
     {
       "id": "feat-correction-pipeline",
