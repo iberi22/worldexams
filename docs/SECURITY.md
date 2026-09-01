@@ -99,6 +99,26 @@ Actualmente **no** contamos con un programa formal de recompensas por bugs. Como
 
 ---
 
+## 🧹 History Rewrite (221)
+
+Para remediar y depurar completamente tokens, llaves o secrets expuestos en commits antiguos dentro del historial de Git (referenciado en el issue #221), se sigue el procedimiento estandarizado con `git-filter-repo`.
+
+### Script y Ejecución en Seco (`scripts/security-221-history-rewrite.sh`)
+
+1. **Modo Dry-Run (Verificación sin modificación):**
+   Antes de reescribir el historial o aplicar cambios irreversibles en las ramas, se debe ejecutar el script `scripts/security-221-history-rewrite.sh` en modo `--dry-run` para auditar la presencia de patrones o archivos sensibles:
+   ```bash
+   bash scripts/security-221-history-rewrite.sh --dry-run
+   ```
+
+2. **Reescritura de Historial con `git-filter-repo`:**
+   Tras validar los hallazgos en modo dry-run, el proceso elimina de forma permanente cualquier string de credenciales o archivo sensible del árbol de commits.
+
+3. **Nota de Coordinación con BELA:**
+   > ⚠️ **IMPORTANTE:** Ninguna reescritura de historial real (`force-push`) se debe ejecutar directamente en `main` sin la coordinación y aprobación explícita previa con BELA (@iberi22). Todo test de reescritura en ramas o entornos locales debe ser estrictamente dry-run.
+
+---
+
 ## 🔍 Alcance de Seguridad
 
 ### Incluido

@@ -28,6 +28,10 @@ export default defineConfig(({ mode }) => {
         reporter: ['text', 'json', 'html'],
         include: ['src/lib/**/*.ts', 'src/utils/**/*.ts', 'src/modules/**/*.ts', 'src/modules/**/*.svelte.ts'],
         exclude: ['src/env.d.ts', 'src/**/*.d.ts'],
+        thresholds: {
+          lines: 46,
+          branches: 40,
+        },
       },
     },
   };
