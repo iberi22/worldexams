@@ -34,6 +34,33 @@ export class OpLog {
   }
 
   /**
+   * Helper to verify Ed25519 signature format (hex string check).
+   * TODO ML-DSA-65: Replace stub with full ML-DSA-65 / Ed25519 crypto verification.
+   */
+  static verifySignature(signature: string): boolean {
+    if (!signature || typeof signature !== 'string') return false;
+    // Check if hex string or standard signature prefix stub
+    const hexPattern = /^([0-9a-fA-F]{32,128}|sig:[a-zA-Z0-9_:-]+)$/;
+    return hexPattern.test(signature.trim());
+  }
+
+  /**
+   * Append a signed operation entry to the log with signature verification.
+   * TODO ML-DSA-65: Ed25519 verification stub.
+   */
+  appendSigned(
+    entry_type: EntryType,
+    signature: string,
+    data: unknown = {},
+    node_hash: string = 'system'
+  ): OpEntry {
+    if (!OpLog.verifySignature(signature)) {
+      throw new Error(`Invalid signature format for signed operation ${entry_type}`);
+    }
+    return this.append(entry_type, data, node_hash, signature);
+  }
+
+  /**
    * Append new entry to log.
    * @param entry_type tipo de operación (genesis, rule_proposed, vote_cast, rule_applied)
    * @param data payload arbitrario (será canonicalizado en hash)
