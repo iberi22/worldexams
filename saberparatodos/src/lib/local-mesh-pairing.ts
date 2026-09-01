@@ -104,7 +104,10 @@ export class LocalMeshPairingService {
     grade: number;
     playersCount?: number;
   }) {
-    this.activeHostedRoom = room;
+    this.activeHostedRoom = {
+      ...room,
+      playersCount: room.playersCount || 1,
+    };
 
     const now = Date.now();
     const payload: NearbyRoomAd = {
