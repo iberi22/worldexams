@@ -7,4 +7,20 @@ export default defineConfig({
   site: 'https://world-exams.github.io/',
   integrations: [svelte(), tailwind(), sitemap()],
   output: 'static',
+  server: {
+    port: 8000,
+    host: true,
+  },
+  preview: {
+    port: 8000,
+  },
+  vite: {
+    server: {
+      port: 8000,
+      host: true,
+    },
+    preview: {
+      port: 8000,
+    },
+  },
 });
