@@ -214,25 +214,100 @@ export async function getPDFDoc(hash: string): Promise<PDFDoc | null> {
 }
 
 export async function listPDFDocs(): Promise<PDFDoc[]> {
+  const isDoc = (d: any): d is PDFDoc => Boolean(d && d.fileName && d.hash && !String(d.hash).startsWith('pdf-chunks-'));
   if (!isIndexedDBAvailable()) {
     const agg = memoryFallback.get(AGGREGATE_DB);
     if (!agg) return [];
-    return Array.from(agg.values()) as PDFDoc[];
+    return (Array.from(agg.values()) as any[]).filter(isDoc);
   }
   const idb = await getIdb();
   if (!idb) {
     const agg = memoryFallback.get(AGGREGATE_DB);
-    return agg ? (Array.from(agg.values()) as PDFDoc[]) : [];
+    return agg ? (Array.from(agg.values()) as any[]).filter(isDoc) : [];
   }
   try {
     const db = await idb.openDB(AGGREGATE_DB, AGGREGATE_VERSION);
-    const docs = (await db.getAll(AGGREGATE_STORE)) as PDFDoc[];
+    const docs = (await db.getAll(AGGREGATE_STORE)) as any[];
     db.close();
-    return docs;
+    return docs.filter(isDoc);
   } catch {
     const agg = memoryFallback.get(AGGREGATE_DB);
-    return agg ? (Array.from(agg.values()) as PDFDoc[]) : [];
+    return agg ? (Array.from(agg.values()) as any[]).filter(isDoc) : [];
   }
+}
+
+// ---------- Operaciones de Chunks (key: pdf-chunks-{hash}) ----------
+
+export function getChunksKey(hash: string): string {
+  return `pdf-chunks-${hash}`;
+}
+
+/**
+ * Guarda los chunks asociados a un PDF por su hash en IndexedDB (idb).
+ * Usa la clave `pdf-chunks-{hash}` para persistencia local.
+ */
+export async function saveChunks(hash: string, chunks: Chunk[]): Promise<void> {
+  const key = getChunksKey(hash);
+  if (!isIndexedDBAvailable()) {
+    const m = memoryFallback.get(AGGREGATE_DB) ?? new Map<string, unknown>();
+    m.set(key, chunks);
+    memoryFallback.set(AGGREGATE_DB, m);
+    return;
+  }
+  const idb = await getIdb();
+  if (!idb) {
+    const m = memoryFallback.get(AGGREGATE_DB) ?? new Map<string, unknown>();
+    m.set(key, chunks);
+    memoryFallback.set(AGGREGATE_DB, m);
+    return;
+  }
+  try {
+    const db = await idb.openDB(AGGREGATE_DB, AGGREGATE_VERSION, {
+      upgrade(db: any) {
+        if (!db.objectStoreNames.contains(AGGREGATE_STORE)) {
+          db.createObjectStore(AGGREGATE_STORE, { keyPath: 'hash' });
+        }
+      },
+    });
+    await db.put(AGGREGATE_STORE, { hash: key, chunks, docHash: hash, updatedAt: Date.now() });
+    db.close();
+  } catch {
+    const m = memoryFallback.get(AGGREGATE_DB) ?? new Map<string, unknown>();
+    m.set(key, chunks);
+    memoryFallback.set(AGGREGATE_DB, m);
+  }
+}
+
+/**
+ * Carga los chunks guardados para un hash de PDF usando IndexedDB (idb).
+ */
+export async function loadChunks(hash: string): Promise<Chunk[]> {
+  const key = getChunksKey(hash);
+  if (!isIndexedDBAvailable()) {
+    const m = memoryFallback.get(AGGREGATE_DB);
+    return (m?.get(key) as Chunk[]) ?? [];
+  }
+  const idb = await getIdb();
+  if (!idb) {
+    const m = memoryFallback.get(AGGREGATE_DB);
+    return (m?.get(key) as Chunk[]) ?? [];
+  }
+  try {
+    const db = await idb.openDB(AGGREGATE_DB, AGGREGATE_VERSION, {
+      upgrade(db: any) {
+        if (!db.objectStoreNames.contains(AGGREGATE_STORE)) {
+          db.createObjectStore(AGGREGATE_STORE, { keyPath: 'hash' });
+        }
+      },
+    });
+    const record = await db.get(AGGREGATE_STORE, key);
+    db.close();
+    if (record && Array.isArray(record.chunks)) {
+      return record.chunks;
+    }
+  } catch {}
+  const m = memoryFallback.get(AGGREGATE_DB);
+  return (m?.get(key) as Chunk[]) ?? [];
 }
 
 export async function deletePDFDoc(hash: string): Promise<void> {
