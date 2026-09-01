@@ -19,7 +19,7 @@
 import { XavierSyncClient } from './XavierSyncClient';
 import {
   assertNoPII,
-  FORBIDDEN_PII_KEYS,
+  FORBIDDEN_PII_KEYS as _FORBIDDEN_PII_KEYS,
   type AggregatedVector,
   type PeerStats,
   type TipData,
