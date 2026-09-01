@@ -1,6 +1,6 @@
 /**
  * leaderboard-mesh — cliente de sync para red privada de NOTAS (WX-204 shim)
- * Provee fetchAggregateStats() consumido por LeaderboardGlobal.
+ * Provee fetchAggregateStats() consumido por LeaderboardGlobal y AnonymousLeaderboard.
  *
  * Payload anónimo permitido (D-103/D-104):
  *   { node_hash, subject, week, score, avg }  — sin PII, sin tokens/karma/telemetría
@@ -13,6 +13,9 @@
  */
 
 import { canShareData } from '../../components/leaderboard/OptInManager';
+import { assertNoPII, FORBIDDEN_PII_KEYS, WorldExamsNode, type TipData } from './WorldExamsNode';
+
+export { FORBIDDEN_PII_KEYS };
 
 export interface AggregateStat {
   node_hash: string; // hash anónimo, ej dev_ABC123 o node_xxx
@@ -24,6 +27,42 @@ export interface AggregateStat {
 
 export const MESH_NAMESPACE = 'swal/worldexams';
 export const AGGREGATE_STORAGE_KEY = 'wx-shared-stats';
+
+/**
+ * Valida que el payload no contenga PII prohibida (BR-04).
+ * Lanza un error si se detectan claves o valores de PII.
+ */
+export function validateNoPII(payload: Record<string, unknown>): void {
+  if (!payload || typeof payload !== 'object') {
+    throw new Error('[BR-04] Payload debe ser un objeto');
+  }
+  assertNoPII(payload);
+}
+
+/**
+ * Publica un puntaje anónimo a la red privada (BR-03 / BR-04 / BR-06).
+ * Valida zero-PII antes de enviar y respeta el opt-in del usuario.
+ */
+export async function publishAnonymousScore(tip: TipData): Promise<boolean> {
+  // Guard Zero-PII (BR-04)
+  validateNoPII(tip as unknown as Record<string, unknown>);
+
+  // Guard Opt-in (BR-06)
+  if (!canShareData()) {
+    return false;
+  }
+
+  // Intentar envío por nodo privado Xavier si está disponible
+  try {
+    const node = new WorldExamsNode({ optIn: true });
+    await node.publish(tip);
+  } catch {
+    // Si falla el endpoint HTTP o de red, continúa al almacenamiento mesh local
+  }
+
+  // Almacenar en local shared aggregates mesh
+  return tryShareAggregateStat(tip);
+}
 
 /**
  * Ordena por avg descendente y pagina (helper público para tests)
