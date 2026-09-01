@@ -56,12 +56,12 @@ function checkReplyRateLimit(nodeHash: string): boolean {
   }
   const key = `reply:${nodeHash}`;
   const entry = rateLimitMap.get(key);
-  if (!entry) {
-    rateLimitMap.set(key, { lastAt: now });
+  if (!entry || now - entry.windowStart >= RATE_LIMIT_WINDOW_MS) {
+    rateLimitMap.set(key, { count: 1, windowStart: now });
     return true;
   }
-  if (now - entry.lastAt < RATE_LIMIT_WINDOW_MS) return false;
-  rateLimitMap.set(key, { lastAt: now });
+  if (entry.count >= 5) return false;
+  entry.count += 1;
   return true;
 }
 
