@@ -18,6 +18,8 @@
 
 import { XavierSyncClient } from './XavierSyncClient';
 import {
+  assertNoPII,
+  FORBIDDEN_PII_KEYS,
   type AggregatedVector,
   type PeerStats,
   type TipData,
@@ -143,6 +145,27 @@ export class WorldExamsNode {
       this.peersCache = [];
       this.emitPeers();
     }
+  }
+
+  /**
+   * Habilita o deshabilita la sincronización privada de notas (BR-06: opt-in revocable).
+   */
+  enablePrivateSync(optIn: boolean): void {
+    this.setOptIn(optIn);
+  }
+
+  /**
+   * Sincroniza una calificación de forma privada cifrada vía XavierSyncClient.
+   * Garantiza cero PII comprobando FORBIDDEN_PII_KEYS y derivación de node_hash opaco (BR-04).
+   * Si optIn es false, es un no-op y retorna un arreglo vacío (BR-06).
+   */
+  async syncGrade(gradeData: TipData): Promise<PeerStats[]> {
+    if (!this.isOptedIn()) {
+      return [];
+    }
+    // Validación estricta zero-PII
+    assertNoPII(gradeData as unknown as Record<string, unknown>);
+    return this.publish(gradeData);
   }
 
   // -- publish ----------------------------------------------------------------
