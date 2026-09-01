@@ -3,9 +3,12 @@ import { chunkText, chunkPages, estimateTokens } from '../chunker';
 import type { ExtractedPage } from '../extractor';
 
 describe('chunker — semantic chunking 512 tokens / overlap 50', () => {
-  it('estimateTokens aproxima tokens (words*1.3 vs chars/4)', () => {
+  it('estimateTokens aproxima tokens (1 token ≈ 4 chars / words*1.3)', () => {
     expect(estimateTokens('')).toBe(0);
     expect(estimateTokens('hola mundo')).toBeGreaterThan(0);
+    // 1 token ≈ 4 chars: 100 chars ≈ 25 tokens
+    const text100 = 'a'.repeat(100);
+    expect(estimateTokens(text100)).toBe(25);
     // 512 tokens ≈ 2048 chars
     const long = 'a '.repeat(1000);
     expect(estimateTokens(long)).toBeGreaterThan(400);
@@ -19,14 +22,14 @@ describe('chunker — semantic chunking 512 tokens / overlap 50', () => {
     expect(chunks[0].embedding).toBeUndefined();
   });
 
-  it('chunkText: 512 tokens respeta tamaño y overlap 50', () => {
+  it('chunkText: 512 tokens respeta tamaño y overlap 50 respetando párrafos y oraciones', () => {
     // Generar texto largo (~2000 tokens ≈ 8000 chars)
     const sentence = 'La fotosíntesis es el proceso mediante el cual las plantas convierten luz solar en energía química. ';
     const long = sentence.repeat(200); // ~ 200 * ~14 tokens ≈ 2800 tokens
     const chunks = chunkText(long, { chunkSize: 512, overlap: 50, docId: 'test' });
     expect(chunks.length).toBeGreaterThan(1);
     for (const c of chunks) {
-      // Permitir margen porque cortamos en oración: hasta 600 tokens
+      // Permitir margen porque cortamos en oración: hasta 650 tokens
       expect(c.tokenCount).toBeLessThanOrEqual(650);
       expect(c.tokenCount).toBeGreaterThan(0);
     }
@@ -86,9 +89,7 @@ describe('chunker — semantic chunking 512 tokens / overlap 50', () => {
       'Primera oración. Segunda oración. Tercera oración. '.repeat(100) +
       'Última oración final.';
     const chunks = chunkText(text, { chunkSize: 50, overlap: 5 });
-    // Cada chunk debería terminar cerca de un punto o espacio, no a mitad de palabra larga
     for (const c of chunks.slice(0, -1)) {
-      // El texto no debe terminar en mitad de una palabra sin espacio (heurística simple)
       expect(c.text.length).toBeGreaterThan(10);
     }
   });
