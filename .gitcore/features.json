@@ -7,13 +7,13 @@
     "total_features": 21,
     "passing": 15,
     "failing": 6,
-    "overall_progress_pct": 81.9,
-    "overall_progress_weighted_pct": 85.4,
-    "calculation": "simple 81.9% (1720/21); weighted 85.4% (4610/54). Wave 11 10 PRs integrados.",
+    "overall_progress_pct": 82.6,
+    "overall_progress_weighted_pct": 85.9,
+    "calculation": "simple 82.6% (1735/21); weighted 85.9% (4640/54). F12 threads 50→65.",
     "status": "active",
     "audit_date": "2026-09-01",
     "audit_method": "verify-pipeline.sh + npm run validate (1531 bundles 0 failures) + npm run test:unit (74 suites 576 PASS) + git log wave-10/neurogym merges",
-    "note": "v2.6 Wave 11 2026-09-01: 10/10 PRs integrados + community fix 5 tests, 83×609 PASS. W11 bumps: community 0→50, corrections 0→25, private 35→50, leaderboard 30→50, council 25→40, pdf 30→50, weekly/multi 99→100, ci-cd/security 85/90→95",
+    "note": "v3.1 F12 2026-09-01: community 50→65% threads (84×612 PASS, tsc 0).",
     "previous_version": "2.0 (2026-08-26, 60% overall, 54.5% weighted, 18 feats)"
   },
   "features": [
@@ -209,11 +209,11 @@
       "description": "Explicaciones comunitarias profundas calificadas por nodos con votos firmados (sin economía)",
       "passes": false,
       "priority": "P1",
-      "progress_pct": 50,
+      "progress_pct": 65,
       "status": "planned",
       "implemented_in": "",
-      "evidence": "Wave 11.01-11.03: supabase migration community_explanations + RLS + api/explanations GET/POST/PATCH + Svelte CommunityExplanations (83 suites 609 PASS, rate-limit 1/60s, sanitize, vote 409, published)",
-      "caveat": "50% MVP: tabla+API+UI verdes, falta WX-302 hilos por explicación"
+      "evidence": "Wave 11 MVP + F12 WX-302: threads parent_id FK depth 0-5 + getThread tree + addReply sanitize 20-2000 + 3 tests (84×612 PASS). Migration 20260901000001_community_threads.sql.",
+      "caveat": "65% MVP+threads: lista+hilo indentado ok, falta UI thread indentado en Svelte (siguiente)"
     },
     {
       "id": "feat-local-pdf-studio",
