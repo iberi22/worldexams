@@ -19,7 +19,7 @@ function walk(dir, out = []) {
   for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
     const full = path.join(dir, entry.name);
     if (entry.isDirectory()) walk(full, out);
-    else if (entry.isFile() && entry.name.endsWith('.md')) out.push(full);
+    else if (entry.isFile() && entry.name.endsWith('.md') && full.includes('/weekly/')) out.push(full);
   }
   return out;
 }
