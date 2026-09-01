@@ -1,0 +1,34 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { countryConfig as defaultConfig, toRuntimeCountryConfig } from '../../config';
+import PdfStudio from '../../components/studio/PdfStudio.svelte';
+
+const countryConfig = Astro.locals.country ? toRuntimeCountryConfig(Astro.locals.country) : defaultConfig;
+---
+
+<Layout
+  title={`Studio Local PDF & Generador v5.2 | ${countryConfig.product.siteName}`}
+  description={`Estudio de ingesta PDF 100% local en ${countryConfig.name}. Convierte guías en borradores de evaluación v5.2 usando RAG y LLM en el navegador sin enviar datos fuera.`}
+>
+  <div class="min-h-screen bg-gradient-to-b from-gray-950 via-[#0a0a0f] to-black text-white py-12 px-4 sm:px-6 lg:px-8">
+    <div class="max-w-6xl mx-auto space-y-10">
+      <!-- Page Hero Header -->
+      <div class="text-center space-y-3 max-w-3xl mx-auto">
+        <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/30 text-emerald-400 text-xs font-mono uppercase tracking-widest">
+          <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
+          Studio RAG & Ingesta PDF Local
+        </div>
+        <h1 class="text-3xl sm:text-5xl font-black text-[#F5F5DC] tracking-tight">
+          Estudio de Generación PDF v5.2
+        </h1>
+        <p class="text-sm sm:text-base text-white/70 leading-relaxed">
+          Carga tus documentos PDF curriculares para extraer el texto y generar borradores de preguntas estilo
+          <strong class="text-emerald-300">{countryConfig.examName}</strong> directamente en tu dispositivo.
+        </p>
+      </div>
+
+      <!-- Svelte PdfStudio Component -->
+      <PdfStudio client:load />
+    </div>
+  </div>
+</Layout>
