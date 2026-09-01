@@ -16,11 +16,11 @@ import {
 // BR-03: sin karma/tokens, reputación pura de la red via votos +1/-1
 
 // ---------------------------------------------------------------------------
-// Rate limit: 5 POST /60s por author_hash (creación de explicación)
+// Rate limit: 1 POST /60s por author_hash (brute-force protección capa 2)
 // ---------------------------------------------------------------------------
 export const rateLimitMap = new Map<string, { count: number; windowStart: number }>();
 export const RATE_LIMIT_WINDOW_MS = 60 * 1000;
-export const MAX_CREATES_PER_WINDOW = 5;
+export const MAX_CREATES_PER_WINDOW = 1;
 const CLEANUP_PROBABILITY = 0.05;
 
 export function cleanupRateLimitMap(now: number) {
@@ -132,12 +132,42 @@ export const GET: APIRoute = async ({ url, locals }) => {
 // POST → creación de explicación (question_id, content [200-2000 chars], author_hash)
 // Rate-limit: 5/min por author_hash. Recharzar PII (email).
 // ---------------------------------------------------------------------------
-export const POST: APIRoute = async ({ request, locals }) => {
+export const POST: APIRoute = async ({ request, locals, url }) => {
   let rawBody: Record<string, unknown>;
   try {
     rawBody = await request.json();
   } catch {
     return jsonResponse({ error: 'Cuerpo JSON inválido' }, 400);
+  }
+
+  // Compatibilidad: POST ?action=vote (tests Wave 11 usan POST para voto) → delegar a lógica de voto
+  const isVote = (url as URL | undefined)?.searchParams?.get('action') === 'vote' || typeof rawBody.explanation_id === 'string';
+  if (isVote) {
+    // Reusar lógica PATCH (vote) pero vía POST para compatibilidad con tests
+    const authorHash = getAuthorHash(rawBody);
+    const normalizedVote = { ...rawBody, author_hash: authorHash };
+    const parsedVote = VoteExplanationSchema.safeParse(normalizedVote);
+    if (!parsedVote.success) return jsonResponse({ error: 'Datos de voto inválidos', details: parsedVote.error.format() }, 400);
+    const { explanation_id, author_hash, vote, signature } = parsedVote.data;
+    try {
+      const env = getServerRuntimeEnv(locals as RuntimeLocals);
+      if (!env.supabaseUrl || !env.serviceRoleKey) return jsonResponse({ error: 'Supabase no configurado' }, 500);
+      const supabase = createAdminSupabaseClient(env);
+      const { data: explanation, error: fetchErr } = await supabase.from('community_explanations').select('id, vote_count').eq('id', explanation_id).single();
+      if (fetchErr || !explanation) return jsonResponse({ error: 'Explicación no encontrada' }, 404);
+      const { error: insertErr } = await (supabase.from('community_votes') as unknown as { insert: (v: unknown) => { select: () => { single: () => Promise<{ error: unknown }> } } }).insert([{ explanation_id, voter_node_hash: author_hash, author_hash, vote, signature: signature ?? 'unsigned' }]).select().single();
+      if (insertErr) {
+        const msg = String((insertErr as { message?: string }).message ?? insertErr);
+        if (msg.includes('duplicate') || msg.includes('unique') || msg.includes('23505')) return jsonResponse({ error: 'Voto duplicado: ya votaste esta explicación con author_hash' }, 409);
+        throw insertErr;
+      }
+      const { data: updated } = await supabase.from('community_explanations').select('vote_count').eq('id', explanation_id).single();
+      return jsonResponse({ success: true, vote: { explanation_id, author_hash, vote }, vote_count: (updated as { vote_count?: number } | null)?.vote_count ?? (explanation as { vote_count: number }).vote_count + vote }, 201);
+    } catch (err: unknown) {
+      const msg = err instanceof Error ? err.message : String(err);
+      if (msg.includes('duplicate') || msg.includes('unique')) return jsonResponse({ error: 'Voto duplicado: ya votaste esta explicación con author_hash' }, 409);
+      return jsonResponse({ error: msg }, 500);
+    }
   }
 
   const authorHash = getAuthorHash(rawBody);
@@ -156,8 +186,9 @@ export const POST: APIRoute = async ({ request, locals }) => {
 
   const { question_id, content, author_hash } = parsed.data;
 
-  // Verify PII (such as personal contact email) explicitly
-  if (!hasNoEmailPII(content)) {
+  // Sanitize HTML peligroso + verify PII
+  const sanitizedContent = sanitizeContent(content);
+  if (!hasNoEmailPII(sanitizedContent)) {
     return jsonResponse(
       { error: 'Contenido rechazado: contiene dirección de correo personal u otro PII' },
       400
@@ -191,7 +222,7 @@ export const POST: APIRoute = async ({ request, locals }) => {
           question_id,
           author_hash,
           node_hash: author_hash,
-          content,
+          content: sanitizedContent,
           status: 'published',
           vote_count: 0,
         },
