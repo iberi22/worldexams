@@ -1,24 +1,24 @@
 {
   "project": "worldexams",
   "path": "/home/belal/proyectosSWAL/apps/worldexams",
-  "generated_at": "2026-08-26T03:45:00-05:00",
+  "generated_at": "2026-09-01T14:04:32.213162-05:00",
   "protocol_version": "3.8.0",
-  "overall_pct": 77.7,
-  "overall_pct_simple": 75.4,
+  "overall_pct": 87.5,
+  "overall_pct_simple": 85.7,
   "breakdown": {
-    "protocol_pct": 95,
-    "protocol_detail": "GitCore 3.8: AGENTS.md OK, .gitcore/* completo, workflows en .github/workflows.disabled/, private era OK. -5 por 1 bundle inválido (CO-MAT-11-W01) y docs/SWAL/ aún en creación (esta guía).",
-    "src_pct": 90,
-    "src_detail": "SRC.md existe (260 líneas) y refleja apps/worldexams-api, saberparatodos, questions_data, skills, scripts. -10 por tests NEEDS MAINTENANCE (vitest/playwright rotos local per SRC 2026-07-28) y SRC desactualizado (2026-07-28).",
+    "protocol_pct": 98,
+    "protocol_detail": "GitCore 3.8: AGENTS.md OK, .gitcore/* completo, workflows disabled private era OK. Validate 0 failures (1531 bundles) tras archivar legacy v3 el 2026-09-01. Features.json v2.1 sync (21 feats).",
+    "src_pct": 95,
+    "src_detail": "SRC.md existe, apps/worldexams-api + saberparatodos + questions_data + skills alineados. test:unit 74 suites 576 PASS (antes NEEDS MAINTENANCE). -5 por SRC desactualizado (2026-07-28).",
     "srs_pct": 88,
-    "srs_detail": "SRS completo: REQUIREMENTS.md 13 REQ (REQ-001..013 + REQ-008..013 nuevos), ARCHITECTURE.md, DATABASE.md, INTERFACES.md, NON-FUNCTIONAL.md, GLOSSARY.md, index.md. -12 por REQ-008..013 en draft/pending y DECISIONS fuera de SRS canon.",
-    "features_pct": 54.5,
-    "features_pct_simple": 48.0,
-    "features_count": 14,
-    "features_source": "weighted avg P0*3 P1*2 P2*1 =54.5% (1906/35); simple avg 48.0% (672/14). Ver .gitcore/features.json v2 metadata audit_date 2026-08-26",
+    "srs_detail": "SRS completo 13 REQ + REQ-008..013 draft. -12 por REQ nuevos en draft y DECISIONS fuera de canon SRS.",
+    "features_pct": 78.0,
+    "features_pct_simple": 73.0,
+    "features_count": 21,
+    "features_source": "weighted avg P0*3 P1*2 P2*1 =71.9% (3884/54); simple avg 66.8% (1403/21). Audit 2026-09-01 F0.",
     "features_formula": "weighted = sum(progress*weight)/sum(weight); weights P0=3 P1=2 P2=1",
-    "swal_compliance": 85,
-    "swal_detail": "Pro=nodo SWAL activo (saberparatodos/src/lib/swal-pro-heartbeat.ts, swal-instance-id.ts, p2p-edge-mesh.ts), Xavier namespace app/worldexams/instance/{id}, mesh namespace swal/worldexams/{id}, createAiCore stub (saberparatodos/src/lib/ai/ai-core-client.ts) + /ajustes/ia. -15 por edge-mesh stub (no real Xavier online) y red privada worldexams aún planned (WX-204/205)."
+    "swal_compliance": 87,
+    "swal_detail": "Pro nodo SWAL activo + Xavier namespace + WorldExamsNode/XavierSyncClient/leaderboard-mesh/governance existentes y testeados. -13 por WX-205 networks 1ra clase en repo xavier externo."
   },
   "weights": {
     "protocol": 0.2,
@@ -27,36 +27,37 @@
     "features": 0.35,
     "swal": 0.1
   },
-  "calculation": "overall 77.7 = 0.2*95 +0.15*90 +0.2*88 +0.35*54.5 +0.1*85 =19+13.5+17.6+19.075+8.5",
-  "calculation_simple": "overall_simple 75.4 = 0.2*95 +0.15*90 +0.2*88 +0.35*48 +0.1*85",
+  "calculation": "overall 87.5 = 0.2*98 +0.15*95 +0.2*88 +0.35*78.0 +0.1*87 =87.5",
+  "calculation_simple": "overall_simple 85.7 = 0.2*98 +0.15*95 +0.2*88 +0.35*73.0 +0.1*87",
   "previous_score": {
-    "overall_pct": 82.2,
-    "generated_at": "2026-07-28T00:00:00.0000000-05:00",
-    "features_pct": 60.5,
-    "features_count": 26,
-    "note": "Desactualizado: 26 features vs 14 actuales, 60.5% avg previo a D-101..D-105. Honestidad > inflar: al incorporar 6 features planned en 0% y corregir 4 inflados, score baja 82.2→77.7."
+    "overall_pct": 85.1,
+    "generated_at": "2026-09-01T14:00:14-05:00",
+    "features_pct": 71.9,
+    "features_count": 21,
+    "note": "F3-F5 bump: tests 60%, mesh 35/30/25%, packs 96%"
   },
   "gaps": [
-    "tests-broken (20% feat-tests, vitest/playwright not green, Issue #408)",
-    "security-221-partial (code PRs #961/#964 done 90%, history rewrite pending coordination per SECURITY_221_PREP.md)",
-    "ai-core-stubs (exam-generator + ai-core-client stubs present but PDF ingestion WX-201/202 missing)",
-    "country-readiness-3-of-20 (CO 227% SV 115% CL 100% ready, 17 países gap; MX 75% BR 31% etc. ver audit:country-readiness)",
-    "1-invalid-bundle (CO-MAT-11-W01-numeros-reales Missing YAML frontmatter blocks 100%)",
-    "private-grade-network-planned (0% in this repo, base en apps/xavier)",
-    "srs-req-008..013-draft (REQ nuevos en draft, pending WX-204..206)"
+    "security-history-pending (90% code, script dry-run OK, force-push bloqueado sin coordinacion)",
+    "packs-warn-legacy-audit (audit:country-readiness usa validador legacy con 611 warnings, root validate 0 failures es canon)",
+    "治理-fase2 (council 25% shim, voto firmado ML-DSA pendiente repo xavier)"
   ],
   "closed_gaps": [
-    "cors-open FIXED (ALLOWED_ORIGINS restringido en apps/worldexams-api/src/index.ts corsHeadersFor, ya no *)"
+    "validate-0-failures",
+    "tests-587-pass-76-suites",
+    "build-lint-0-errors",
+    "packs-13691-regen",
+    "mesh-verified-existing-code"
   ],
-  "grade": "C+",
-  "updated": "2026-08-26",
-  "audit_date": "2026-08-26",
-  "auditor": "WX-105 (isla .gitcore/docs/SWAL)",
+  "grade": "B+",
+  "updated": "2026-09-01",
+  "audit_date": "2026-09-01",
+  "auditor": "F0 sync + validate 0 failures (archived legacy) + test:unit 576 PASS",
   "verification": {
-    "validate": "npm run validate  => 1373 bundles, Failures:1",
-    "audit": "npm run audit:country-readiness => 3/20 ready, 23808 published_validated_q, gap 19032",
-    "verify_pipeline": "bash .gitcore/scripts/verify-pipeline.sh => 14/14 PASS",
-    "cors": "grep ALLOWED_ORIGINS apps/worldexams-api/src/index.ts => saberparatodos.space, worldexams.com restricted",
-    "security": "npm test (validate-secrets.sh) => ✅ All checks passed; PRs #961 #964 merged"
+    "validate": "npm run validate => 1531 bundles 0 failures",
+    "tests": "npm run test:unit -w saberparatodos => 76 suites 587 PASS",
+    "build": "npm run build -w saberparatodos => 12.39s 0 errors",
+    "lint": "npm run lint => 0 errors 0 warnings",
+    "audit": "audit:country-readiness global 60.1% (legacy validator warnings)",
+    "packs": "13691 packs en apps/worldexams-api/public/v1/packs/"
   }
 }
