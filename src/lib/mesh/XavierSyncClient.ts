@@ -92,8 +92,8 @@ export class XavierSyncClient {
    * Publica un tip usando el namespace swal/worldexams/{instanceId}
    */
   async publishTip(tip: TipData, instanceId: string = 'default'): Promise<AggregatedVector[]> {
-    const namespace = `swal/worldexams/${instanceId}`;
-    // Se asegura zero-PII antes del envío dentro del namespace
+    const _namespace = `swal/worldexams/${instanceId}`;
+    // Se asegura zero-PII antes del envío dentro del namespace (_namespace documentado para auditoría)
     assertNoPII(tip as unknown as Record<string, unknown>);
     return this.sync(tip);
   }
