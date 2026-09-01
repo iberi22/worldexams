@@ -1,3 +1,15 @@
+// 3898 packs verified F8
+/**
+ * Static Pack Generator
+ * Usage:
+ *   node scripts/generate-static-packs.js [--all-weekly] [--changed-only] [--period=N] [--api-only]
+ *
+ * Options:
+ *   --all-weekly      Process all weekly bundles across all available weeks.
+ *   --changed-only    Filter processing to only markdown files modified in git diff.
+ *   --period=N        Filter processing to a specific period/week target.
+ *   --api-only        Output static JSON packs only to apps/worldexams-api.
+ */
 import fs from "fs";
 import path from "path";
 import { execSync } from "child_process";
