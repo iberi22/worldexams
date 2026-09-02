@@ -24,7 +24,8 @@
     workingMemorySpan: { maxNLevel: 2, corsiSpan: 6, accuracy: 0.85 },
     processingSpeed: { avgReactionMs: 260, stroopInterferenceMs: 45, errorRate: 0.05 },
     motorCoordination: { tapsPer10s: 55, goNoGoAccuracy: 0.90, motorJitterMs: 15 },
-    analyticalFlexibility: { ruleSwitchesSuccess: 10, totalRuleTrials: 14 }
+    analyticalFlexibility: { ruleSwitchesSuccess: 10, totalRuleTrials: 14 },
+    quantitativeReasoning: { correct: 7, total: 10, avgTimeMs: 9000 }
   });
 
   let latestProfile = $derived.by(() => {
