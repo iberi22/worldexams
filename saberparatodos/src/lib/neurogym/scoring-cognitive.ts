@@ -17,9 +17,9 @@ export interface RawCognitiveScores {
   motorCoordination: { tapsPer10s: number; goNoGoAccuracy: number; motorJitterMs: number };
   // Análisis lógico y flexibilidad
   analyticalFlexibility: { ruleSwitchesSuccess: number; totalRuleTrials: number };
-  // Comprensión verbal (Gc) — wire de P4; opcional hasta que mergee
-  verbalComprehension?: { correct: number; total: number; avgTimeMs: number };
-  // Razonamiento cuantitativo (Gq) — aritmética cronometrada (P5)
+  // Comprensión Verbal (Gc) — asociación palabra-definición (P4)
+  verbalComprehension: { correct: number; total: number; avgTimeMs: number };
+  // Razonamiento Cuantitativo (Gq) — aritmética cronometrada (P5)
   quantitativeReasoning: { correct: number; total: number; avgTimeMs: number };
 }
 
@@ -39,6 +39,7 @@ export interface FullCognitiveProfile {
   processingSpeed: CognitiveDomainResult;
   motorAgility: CognitiveDomainResult;
   analyticalFlexibility: CognitiveDomainResult;
+  verbalComprehension: CognitiveDomainResult;
   quantitativeReasoning: CognitiveDomainResult;
   strengths: string[];
   growthAreas: string[];
@@ -198,7 +199,24 @@ export function computeCognitiveProfile(raw: RawCognitiveScores): FullCognitiveP
     clinicalSummary: 'Capacidad para cambiar de estrategia cognitiva ante cambios de reglas dinámicas y resistencia a la perseveración.'
   };
 
-  // 6. Razonamiento Cuantitativo (Gq) — aritmética cronometrada
+  // 6. Comprensión Verbal (Gc) — Vocabulario palabra-definición (P4)
+  const verbalAccuracy = raw.verbalComprehension.total > 0
+    ? (raw.verbalComprehension.correct / raw.verbalComprehension.total)
+    : 0;
+  const verbalZ = (verbalAccuracy - 0.70) / 0.15;
+  const verbalScore = zScoreToStandard(verbalZ);
+  const pVerbal = zScoreToPercentile(verbalZ);
+
+  const verbalResult: CognitiveDomainResult = {
+    rawScore: raw.verbalComprehension.correct,
+    standardScore: verbalScore,
+    percentile: pVerbal,
+    stanine: percentileToStanine(pVerbal),
+    levelDescription: getLevelDescription(verbalScore),
+    clinicalSummary: 'Capital léxico adquirido y habilidad para recuperar significados precisos de palabras escritas (cristalización verbal Gc).'
+  };
+
+  // 7. Razonamiento Cuantitativo (Gq) — aritmética cronometrada (P5)
   const quantRaw = raw.quantitativeReasoning ?? { correct: 0, total: 0, avgTimeMs: 0 };
   const quantAccuracy = quantRaw.total > 0
     ? (quantRaw.correct / quantRaw.total)
@@ -222,6 +240,7 @@ export function computeCognitiveProfile(raw: RawCognitiveScores): FullCognitiveP
     { name: 'Velocidad de Procesamiento', score: stdPSI, obj: psiResult },
     { name: 'Agilidad Motora', score: stdMotor, obj: motorResult },
     { name: 'Flexibilidad Analítica', score: stdFlex, obj: flexResult },
+    { name: 'Comprensión Verbal', score: verbalScore, obj: verbalResult },
     { name: 'Razonamiento Cuantitativo', score: stdQuant, obj: quantResult }
   ];
 
@@ -236,6 +255,7 @@ export function computeCognitiveProfile(raw: RawCognitiveScores): FullCognitiveP
     else if (d.name.includes('Velocidad')) exercise = 'Desafío Stroop Dinámico + Reacción Simple';
     else if (d.name.includes('Agilidad')) exercise = 'Circuito Go/No-Go Tapping Rápido';
     else if (d.name.includes('Flexibilidad')) exercise = 'Cambio de Reglas Lógicas Clasificatorias';
+    else if (d.name.includes('Verbal')) exercise = 'Asociación Palabra-Definición Gc Adaptativa';
     else if (d.name.includes('Cuantitativo')) exercise = 'Aritmética Cronometrada Progresiva (Gq)';
 
     return {
@@ -252,6 +272,7 @@ export function computeCognitiveProfile(raw: RawCognitiveScores): FullCognitiveP
     processingSpeed: psiResult,
     motorAgility: motorResult,
     analyticalFlexibility: flexResult,
+    verbalComprehension: verbalResult,
     quantitativeReasoning: quantResult,
     strengths: strengths.length > 0 ? strengths : ['Desarrollo armónico en todas las áreas evaluadas'],
     growthAreas: growthAreas.length > 0 ? growthAreas : ['Mantener nivel óptimo con desafíos de alta complejidad'],
