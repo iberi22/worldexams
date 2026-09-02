@@ -1,12 +1,6 @@
 /**
- * WorldExams Private Mesh — barrel export (D-102)
- * @see docs/SWAL/ADR-worldexams-mesh.md
+ * Mesh salon barrel — APIs Wave-Gov (#1162-#1174) + nucleo privado existente.
  */
-export * from './types';
-export * from './XavierSyncClient';
-export * from './WorldExamsNode';
-
-// Wave-Gov 2026-08 — governance de salones mesh-first (#1162-#1174)
 export * from './salon-shared';
 export * from './salon-pin';
 export * from './salon-kick';
