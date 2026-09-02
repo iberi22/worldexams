@@ -17,6 +17,10 @@ export interface RawCognitiveScores {
   motorCoordination: { tapsPer10s: number; goNoGoAccuracy: number; motorJitterMs: number };
   // Análisis lógico y flexibilidad
   analyticalFlexibility: { ruleSwitchesSuccess: number; totalRuleTrials: number };
+  // Comprensión verbal (Gc) — wire de P4; opcional hasta que mergee
+  verbalComprehension?: { correct: number; total: number; avgTimeMs: number };
+  // Razonamiento cuantitativo (Gq) — aritmética cronometrada (P5)
+  quantitativeReasoning: { correct: number; total: number; avgTimeMs: number };
 }
 
 export interface CognitiveDomainResult {
@@ -35,6 +39,7 @@ export interface FullCognitiveProfile {
   processingSpeed: CognitiveDomainResult;
   motorAgility: CognitiveDomainResult;
   analyticalFlexibility: CognitiveDomainResult;
+  quantitativeReasoning: CognitiveDomainResult;
   strengths: string[];
   growthAreas: string[];
   recommendedDailyWorkout: {
@@ -193,12 +198,31 @@ export function computeCognitiveProfile(raw: RawCognitiveScores): FullCognitiveP
     clinicalSummary: 'Capacidad para cambiar de estrategia cognitiva ante cambios de reglas dinámicas y resistencia a la perseveración.'
   };
 
+  // 6. Razonamiento Cuantitativo (Gq) — aritmética cronometrada
+  const quantRaw = raw.quantitativeReasoning ?? { correct: 0, total: 0, avgTimeMs: 0 };
+  const quantAccuracy = quantRaw.total > 0
+    ? (quantRaw.correct / quantRaw.total)
+    : 0;
+  const zQuant = (quantAccuracy - 0.75) / 0.15;
+  const stdQuant = zScoreToStandard(zQuant);
+  const pQuant = zScoreToPercentile(zQuant);
+
+  const quantResult: CognitiveDomainResult = {
+    rawScore: quantRaw.correct,
+    standardScore: stdQuant,
+    percentile: pQuant,
+    stanine: percentileToStanine(pQuant),
+    levelDescription: getLevelDescription(stdQuant),
+    clinicalSummary: `Resolución de ${quantRaw.correct}/${quantRaw.total} problemas aritméticos con fluidez numérica bajo presión de tiempo.`
+  };
+
   const domains = [
     { name: 'Razonamiento Fluido', score: stdFluid, obj: fluidResult },
     { name: 'Memoria de Trabajo', score: stdWM, obj: wmResult },
     { name: 'Velocidad de Procesamiento', score: stdPSI, obj: psiResult },
     { name: 'Agilidad Motora', score: stdMotor, obj: motorResult },
-    { name: 'Flexibilidad Analítica', score: stdFlex, obj: flexResult }
+    { name: 'Flexibilidad Analítica', score: stdFlex, obj: flexResult },
+    { name: 'Razonamiento Cuantitativo', score: stdQuant, obj: quantResult }
   ];
 
   const sortedDomains = [...domains].sort((a, b) => b.score - a.score);
@@ -212,6 +236,7 @@ export function computeCognitiveProfile(raw: RawCognitiveScores): FullCognitiveP
     else if (d.name.includes('Velocidad')) exercise = 'Desafío Stroop Dinámico + Reacción Simple';
     else if (d.name.includes('Agilidad')) exercise = 'Circuito Go/No-Go Tapping Rápido';
     else if (d.name.includes('Flexibilidad')) exercise = 'Cambio de Reglas Lógicas Clasificatorias';
+    else if (d.name.includes('Cuantitativo')) exercise = 'Aritmética Cronometrada Progresiva (Gq)';
 
     return {
       domain: d.name,
@@ -227,6 +252,7 @@ export function computeCognitiveProfile(raw: RawCognitiveScores): FullCognitiveP
     processingSpeed: psiResult,
     motorAgility: motorResult,
     analyticalFlexibility: flexResult,
+    quantitativeReasoning: quantResult,
     strengths: strengths.length > 0 ? strengths : ['Desarrollo armónico en todas las áreas evaluadas'],
     growthAreas: growthAreas.length > 0 ? growthAreas : ['Mantener nivel óptimo con desafíos de alta complejidad'],
     recommendedDailyWorkout: workout
