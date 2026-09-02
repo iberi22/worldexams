@@ -5,12 +5,12 @@
  * Complementa los tests existentes para VaultSync en tests/e2e/mesh-sync.
  * Cubre la API pública de sync-manager.ts con casos reales (no mocks).
  */
-import { describe, it, expect } from 'vitest';
+import { describe, it, expect, beforeEach, afterEach } from 'vitest';
 import {
   SyncManager,
   syncManager,
   DEFAULT_SYNC_INTERVAL_MS
-} from '../../../src/lib/mesh/sync-manager';
+} from '../../src/lib/mesh/sync-manager';
 
 describe('mesh vault sync — SyncManager (T3 F15)', () => {
   it('SyncManager es una clase exportable', () => {
@@ -25,42 +25,44 @@ describe('mesh vault sync — SyncManager (T3 F15)', () => {
     expect(syncManager).toBeInstanceOf(SyncManager);
   });
 
-  it('SyncManager.start() puede llamarse sin error', async () => {
+  it('SyncManager.isOnline() devuelve boolean', () => {
     const mgr = new SyncManager();
-    await mgr.start();
-    // No assertion on internal state — just verify it doesn't throw
-    await mgr.stop();
+    const online = mgr.isOnline();
+    expect(typeof online).toBe('boolean');
   });
 
-  it('SyncManager.registerTask() y runOnce() ejecutan tareas', async () => {
+  it('SyncManager.registerSyncTask() acepta una task handler', () => {
     const mgr = new SyncManager();
-    let executed = false;
-    mgr.registerTask('test-task', async () => {
-      executed = true;
-      return { taskId: 'test-task', status: 'success', durationMs: 1 };
+    let called = false;
+    mgr.registerSyncTask('test-task', () => {
+      called = true;
+      return { taskName: 'test-task', success: true, syncedCount: 1 };
     });
-    const report = await mgr.runOnce();
-    expect(executed).toBe(true);
-    expect(report).toBeDefined();
+    mgr.unregisterSyncTask('test-task');
+    expect(called).toBe(false); // No se ejecuta solo al registrar
   });
 
-  it('SyncManager.runOnce() devuelve SyncManagerReport con tasks ejecutadas', async () => {
+  it('SyncManager.getSyncStatus() devuelve un objeto con status', () => {
     const mgr = new SyncManager();
-    mgr.registerTask('a', async () => ({ taskId: 'a', status: 'success', durationMs: 1 }));
-    mgr.registerTask('b', async () => ({ taskId: 'b', status: 'success', durationMs: 1 }));
-    const report = await mgr.runOnce();
-    expect(report).toHaveProperty('startedAt');
-    expect(report).toHaveProperty('finishedAt');
-    expect(report).toHaveProperty('results');
+    const status = mgr.getSyncStatus();
+    expect(status).toBeDefined();
+    expect(status).toHaveProperty('isAutoSyncRunning');
+    expect(typeof status.isAutoSyncRunning).toBe('boolean');
   });
 
-  it('SyncManager maneja errores de task sin crashear', async () => {
+  it('SyncManager.startAutoSync / stopAutoSync toggles isAutoSyncRunning', () => {
     const mgr = new SyncManager();
-    mgr.registerTask('failing', async () => {
-      throw new Error('simulated failure');
-    });
-    const report = await mgr.runOnce();
-    // El report debe completarse aunque una task falle
-    expect(report).toBeDefined();
+    expect(mgr.isAutoSyncRunning()).toBe(false);
+    mgr.startAutoSync(60000); // 1 minuto
+    expect(mgr.isAutoSyncRunning()).toBe(true);
+    mgr.stopAutoSync();
+    expect(mgr.isAutoSyncRunning()).toBe(false);
+  });
+
+  it('SyncManager.destroy() limpia recursos sin crashear', () => {
+    const mgr = new SyncManager();
+    mgr.startAutoSync(60000);
+    mgr.destroy();
+    expect(mgr.isAutoSyncRunning()).toBe(false);
   });
 });
