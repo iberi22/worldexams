@@ -10,7 +10,8 @@ describe('NeuroGym Agentic Coach & Xavier Bridge', () => {
       workingMemorySpan: { maxNLevel: 1, corsiSpan: 4, accuracy: 0.60 }, // Bajo (Memoria de trabajo)
       processingSpeed: { avgReactionMs: 240, stroopInterferenceMs: 40, errorRate: 0.03 },
       motorCoordination: { tapsPer10s: 60, goNoGoAccuracy: 0.95, motorJitterMs: 12 },
-      analyticalFlexibility: { ruleSwitchesSuccess: 12, totalRuleTrials: 14 }
+      analyticalFlexibility: { ruleSwitchesSuccess: 12, totalRuleTrials: 14 },
+      quantitativeReasoning: { correct: 7, total: 10, avgTimeMs: 9000 }
     };
 
     const profile = computeCognitiveProfile(raw);

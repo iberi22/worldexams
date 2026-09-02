@@ -13,7 +13,8 @@ describe('NeuroGym Sovereign Local Storage Engine', () => {
       workingMemorySpan: { maxNLevel: 3, corsiSpan: 6, accuracy: 0.88 },
       processingSpeed: { avgReactionMs: 240, stroopInterferenceMs: 40, errorRate: 0.04 },
       motorCoordination: { tapsPer10s: 60, goNoGoAccuracy: 0.94, motorJitterMs: 14 },
-      analyticalFlexibility: { ruleSwitchesSuccess: 11, totalRuleTrials: 14 }
+      analyticalFlexibility: { ruleSwitchesSuccess: 11, totalRuleTrials: 14 },
+      quantitativeReasoning: { correct: 7, total: 10, avgTimeMs: 9000 }
     };
 
     const profile = computeCognitiveProfile(rawData);
