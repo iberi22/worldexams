@@ -1,0 +1,117 @@
+---
+import Layout from '../../../../../layouts/Layout.astro';
+import BundleList from '../../../../../components/preguntas/BundleList.svelte';
+import {
+  getAllBundles,
+  findCountryBundles,
+  findGradeBundles,
+  findSubjectBundles,
+  gradeBundlesToGradeSlugs,
+  bundleUrl,
+  getCountryDisplay,
+  toTitleCase,
+  type BundleEntry,
+} from '../../../../../lib/preguntas/bundle-fetcher';
+import { t } from '../../../../../lib/i18n';
+
+export const getStaticPaths = async () => {
+  const entries = await getAllBundles();
+  const triples = new Set<string>();
+  for (const e of entries) triples.add(`${e.country}/${e.gradeSlug}/${e.subject}`);
+  return [...triples].map((key) => {
+    const [country, grade, subject] = key.split('/');
+    return { params: { country, grade, subject } };
+  });
+};
+
+export const fallback = true;
+
+const { country, grade, subject } = Astro.params;
+const entries = await getAllBundles();
+let bundles = findSubjectBundles(entries, country ?? '', grade ?? '', subject ?? '');
+
+if (!bundles.length) {
+  const countryBundles = findCountryBundles(entries, country ?? '');
+  if (countryBundles.length && grade) {
+    // Compatibilidad con URLs legacy /preguntas/{pais}/{materia}/{semana}/
+    const legacySubject = countryBundles.find((e) => e.subject === grade.toLowerCase());
+    const weekMatch = subject?.match(/^w0*(\d+)$/i);
+    if (legacySubject && weekMatch) {
+      const week = `W${weekMatch[1].padStart(2, '0')}`;
+      const target = countryBundles.find((e) => e.subject === legacySubject.subject && e.week.toUpperCase() === week);
+      if (target) return Astro.redirect(bundleUrl(target), 301);
+    }
+    // /{pais}/{grado}/{materia-inexistente} → lista del grado si existe
+    const gradeBundles = findGradeBundles(entries, country!, grade!);
+    if (gradeBundles.length) {
+      return Astro.redirect(`/preguntas/${country}/${grade}/`, 302);
+    }
+    // /{pais}/{materia} sin grado → primer grado con esa materia
+    const withSubject = countryBundles.filter((e) => e.subject === grade?.toLowerCase());
+    if (withSubject.length && subject) {
+      const firstGrade = gradeBundlesToGradeSlugs(withSubject)[0];
+      return Astro.redirect(`/preguntas/${country}/${firstGrade}/${grade!.toLowerCase()}/`, 301);
+    }
+  }
+  return Astro.redirect('/preguntas/', 302);
+}
+
+const first = bundles[0];
+const display = getCountryDisplay(country!);
+const subjectName = toTitleCase(first.subject);
+const gradeName = first.grade != null ? `Grado ${first.grade}` : toTitleCase(first.gradeSlug);
+const totalQuestions = bundles.reduce((acc, b) => acc + (b.total || 0), 0);
+
+const toListItem = (e: BundleEntry) => ({
+  id: e.id,
+  country: e.country,
+  subject: e.subject,
+  gradeSlug: e.gradeSlug,
+  grade: e.grade,
+  week: e.week,
+  tema: e.tema,
+  total: e.total,
+  url: bundleUrl(e),
+});
+
+const siteUrl = String(Astro.site ?? 'https://saberparatodos.space').replace(/\/+$/, '');
+const canonical = `${siteUrl}/preguntas/${country}/${grade}/${subject}/`;
+const pageTitle = `${subjectName} ${gradeName} — ${display.name}${display.examName ? ` (${display.examName})` : ''} | WorldExams`;
+const pageDescription = `${bundles.length} bundles de ${subjectName} para ${display.name} ${gradeName}: ${totalQuestions} preguntas con explicación pedagógica.`;
+
+Astro.response.headers.set('Cache-Control', 'public, max-age=86400, s-maxage=604800, stale-while-revalidate=86400');
+---
+
+<Layout title={pageTitle} description={pageDescription}>
+  <link slot="head" rel="canonical" href={canonical} />
+  <meta slot="head" property="og:title" content={pageTitle} />
+  <meta slot="head" property="og:description" content={pageDescription} />
+
+  <div class="min-h-screen bg-[#0f172a] text-white">
+    <nav aria-label="breadcrumb" class="border-b border-white/10 bg-slate-900/50">
+      <ol class="max-w-6xl mx-auto px-4 py-3 flex flex-wrap gap-2 text-sm text-white/60">
+        <li><a href="/" class="hover:text-white transition">{t('preguntas.breadcrumb.home')}</a></li>
+        <li>/</li>
+        <li><a href="/preguntas/" class="hover:text-white transition">{t('preguntas.breadcrumb.preguntas')}</a></li>
+        <li>/</li>
+        <li><a href={`/preguntas/${country}/`} class="hover:text-white transition">{display.flag} {display.name}</a></li>
+        <li>/</li>
+        <li><a href={`/preguntas/${country}/${grade}/`} class="hover:text-white transition">{gradeName}</a></li>
+        <li>/</li>
+        <li class="text-emerald-400 font-semibold" aria-current="page">{subjectName}</li>
+      </ol>
+    </nav>
+
+    <main class="max-w-6xl mx-auto px-4 py-8">
+      <header class="mb-8">
+        <span class="text-xs font-mono uppercase tracking-wider text-emerald-400">
+          {display.flag} {display.name}{display.examName ? ` • ${display.examName}` : ''}
+        </span>
+        <h1 class="text-3xl font-extrabold text-white mt-1">{subjectName} — {gradeName}</h1>
+        <p class="text-slate-300 text-sm mt-2">{pageDescription}</p>
+      </header>
+
+      <BundleList client:load bundles={bundles.map(toListItem)} label={`${subjectName} ${gradeName}`} />
+    </main>
+  </div>
+</Layout>
