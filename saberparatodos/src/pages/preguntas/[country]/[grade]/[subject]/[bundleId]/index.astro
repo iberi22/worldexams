@@ -1,0 +1,191 @@
+---
+import Layout from '../../../../../../layouts/Layout.astro';
+import {
+  getAllBundles,
+  findSubjectBundles,
+  getBundleQuestions,
+  bundleUrl,
+  getCountryDisplay,
+  gradeLabel,
+  weekLabel,
+  toTitleCase,
+  type BundleEntry,
+  type BundleQuestion,
+} from '../../../../../../lib/preguntas/bundle-fetcher';
+import { t } from '../../../../../../lib/i18n';
+
+export const getStaticPaths = async () => {
+  const entries = await getAllBundles();
+  return entries.map((e) => ({
+    params: { country: e.country, grade: e.gradeSlug, subject: e.subject, bundleId: e.id },
+  }));
+};
+
+export const fallback = true;
+
+const { country, grade, subject, bundleId } = Astro.params;
+const entries = await getAllBundles();
+const entry: BundleEntry | undefined = entries.find(
+  (e) => e.id === bundleId && e.country === country && e.gradeSlug === grade && e.subject === subject
+);
+
+if (!entry) {
+  const byId = entries.find((e) => e.id === bundleId);
+  if (byId) return Astro.redirect(bundleUrl(byId), 301);
+  const subjectBundles = findSubjectBundles(entries, country ?? '', grade ?? '', subject ?? '');
+  if (subjectBundles.length) {
+    return Astro.redirect(`/preguntas/${country}/${grade}/${subject}/`, 302);
+  }
+  return Astro.redirect('/preguntas/', 302);
+}
+
+const display = getCountryDisplay(entry.country);
+const questions: BundleQuestion[] | null = await getBundleQuestions(entry);
+const revisar = (Astro.url.searchParams.get('revisar') ?? '').trim();
+
+const subjectName = toTitleCase(entry.subject);
+const gradeName = gradeLabel(entry);
+const title = `${entry.tema ? toTitleCase(entry.tema) : `${subjectName} ${entry.week}`}`;
+const pageTitle = `${title} — ${subjectName} ${gradeName}, ${display.name} | WorldExams`;
+const pageDescription = `Bundle ${entry.week} de ${subjectName} para ${gradeName} en ${display.name}${entry.alignment ? ` (${entry.alignment})` : ''}: ${entry.total} preguntas con explicación pedagógica.`;
+
+const siteUrl = String(Astro.site ?? 'https://saberparatodos.space').replace(/\/+$/, '');
+const canonical = `${siteUrl}${bundleUrl(entry)}`;
+const ogImage = `${siteUrl}/og-image.png`;
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: t('preguntas.breadcrumb.home'), item: `${siteUrl}/` },
+    { '@type': 'ListItem', position: 2, name: t('preguntas.breadcrumb.preguntas'), item: `${siteUrl}/preguntas/` },
+    { '@type': 'ListItem', position: 3, name: display.name, item: `${siteUrl}/preguntas/${entry.country}/` },
+    { '@type': 'ListItem', position: 4, name: gradeName, item: `${siteUrl}/preguntas/${entry.country}/${entry.gradeSlug}/` },
+    { '@type': 'ListItem', position: 5, name: subjectName, item: canonical },
+  ],
+};
+
+Astro.response.headers.set('Cache-Control', 'public, max-age=86400, s-maxage=604800, stale-while-revalidate=86400');
+---
+
+<Layout title={pageTitle} description={pageDescription} image={ogImage}>
+  <link slot="head" rel="canonical" href={canonical} />
+  <meta slot="head" property="og:title" content={pageTitle} />
+  <meta slot="head" property="og:description" content={pageDescription} />
+  <meta slot="head" property="og:type" content="article" />
+  <meta slot="head" property="og:image" content={ogImage} />
+  <meta slot="head" name="twitter:card" content="summary_large_image" />
+  <script is:inline slot="head" type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+
+  <div class="min-h-screen bg-[#0f172a] text-white">
+    <nav aria-label="breadcrumb" class="border-b border-white/10 bg-slate-900/50">
+      <ol class="max-w-5xl mx-auto px-4 py-3 flex flex-wrap gap-2 text-sm text-white/60">
+        <li><a href="/" class="hover:text-white transition">{t('preguntas.breadcrumb.home')}</a></li>
+        <li>/</li>
+        <li><a href="/preguntas/" class="hover:text-white transition">{t('preguntas.breadcrumb.preguntas')}</a></li>
+        <li>/</li>
+        <li><a href={`/preguntas/${entry.country}/`} class="hover:text-white transition">{display.flag} {display.name}</a></li>
+        <li>/</li>
+        <li><a href={`/preguntas/${entry.country}/${entry.gradeSlug}/`} class="hover:text-white transition">{gradeName}</a></li>
+        <li>/</li>
+        <li><a href={`/preguntas/${entry.country}/${entry.gradeSlug}/${entry.subject}/`} class="hover:text-white transition">{subjectName}</a></li>
+        <li>/</li>
+        <li class="text-emerald-400 font-semibold" aria-current="page">{entry.week}</li>
+      </ol>
+    </nav>
+
+    <main class="max-w-5xl mx-auto px-4 py-8">
+      <header class="mb-8">
+        <div class="flex flex-wrap items-center gap-2 mb-2">
+          <span class="text-xs font-mono uppercase bg-emerald-500/20 text-emerald-300 px-2.5 py-1 rounded-full font-bold">
+            {display.flag} {display.examName || display.name}
+          </span>
+          <span class="text-xs font-mono text-slate-400">{weekLabel(entry.week)} · {entry.total} {t('preguntas.questions', 'es')}</span>
+        </div>
+        <h1 class="text-3xl font-extrabold text-white">{title}</h1>
+        <p class="text-slate-300 text-sm mt-2">{pageDescription}</p>
+        {entry.alignment && <p class="text-xs text-slate-400 mt-1">Alineación: <strong class="text-slate-200">{entry.alignment}</strong></p>}
+        <p class="text-[11px] font-mono text-slate-500 mt-2 break-all">{entry.id}</p>
+      </header>
+
+      {questions && questions.length > 0 ? (
+        <div class="space-y-6 mb-12">
+          {questions.map((q, idx) => (
+            <article
+              class="bg-slate-800/80 border border-slate-700/80 rounded-2xl p-6 shadow-xl"
+              id={`q-${q.id}`}
+              data-revisar={revisar === q.id ? 'true' : undefined}
+              aria-label={`${t('preguntas.questions', 'es')} ${idx + 1}`}
+            >
+              <div class="flex items-center justify-between mb-4 gap-2 flex-wrap">
+                <span class="text-xs font-mono bg-emerald-500/20 text-emerald-300 px-2.5 py-1 rounded-full font-semibold">
+                  {t('preguntas.questions', 'es')} #{q.number || idx + 1}{q.difficulty ? ` · ${q.difficulty}` : ''}
+                </span>
+                {q.bloom && <span class="text-xs text-slate-400">Bloom: {q.bloom}</span>}
+              </div>
+              <p class="text-base md:text-lg text-white font-medium mb-5 leading-relaxed">{q.statement}</p>
+              <ul class="grid gap-2.5 mb-4 list-none p-0 m-0">
+                {q.options.map((opt) => (
+                  <li
+                    class={`p-3.5 rounded-xl border text-sm flex flex-col gap-1 ${
+                      opt.correct
+                        ? 'bg-emerald-950/40 border-emerald-500/50 text-emerald-200'
+                        : 'bg-slate-900/40 border-slate-700/50 text-slate-300'
+                    }`}
+                  >
+                    <span>
+                      <strong class="mr-2 text-white font-bold">{opt.letter}.</strong>{opt.text}
+                      {opt.correct && (
+                        <span class="ml-2 text-[10px] font-bold bg-emerald-500 text-slate-950 px-1.5 py-0.5 rounded-md uppercase">
+                          Correcta
+                        </span>
+                      )}
+                    </span>
+                    {opt.feedback && <span class="text-xs text-slate-400 leading-relaxed">{opt.feedback}</span>}
+                  </li>
+                ))}
+              </ul>
+              {q.explanation && (
+                <details class="mt-4 pt-4 border-t border-slate-700/60">
+                  <summary class="cursor-pointer text-xs font-bold text-emerald-400 hover:text-emerald-300 transition">
+                    💡 Explicación pedagógica
+                  </summary>
+                  <p class="mt-2 text-sm text-slate-300 leading-relaxed bg-slate-900/60 p-3.5 rounded-xl border border-slate-700/40">
+                    {q.explanation}
+                  </p>
+                </details>
+              )}
+            </article>
+          ))}
+        </div>
+      ) : (
+        <p class="bg-slate-800/60 border border-slate-700 rounded-2xl p-6 text-sm text-slate-300 mb-10">
+          La vista previa interactiva de este bundle no está disponible en este momento, pero el bundle está publicado
+          y puedes resolverlo en modo simulacro.
+        </p>
+      )}
+
+      <div class="bg-gradient-to-r from-emerald-950/50 to-slate-900 border border-emerald-500/30 p-6 rounded-2xl flex flex-col md:flex-row items-center justify-between gap-4 text-center md:text-left">
+        <div>
+          <h2 class="text-lg font-bold text-white">¿Listo para practicar?</h2>
+          <p class="text-xs text-slate-300 mt-1">Resuelve este bundle en el simulacro interactivo con temporizador.</p>
+        </div>
+        <div class="flex gap-3 shrink-0">
+          <a href="/practica" class="px-6 py-3 bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-bold text-sm rounded-xl transition shadow-lg">{t('preguntas.practice', 'es')} →</a>
+          <a href={`/preguntas/${entry.country}/${entry.gradeSlug}/${entry.subject}/`} class="px-6 py-3 border border-slate-600 hover:border-emerald-500/60 text-slate-200 font-semibold text-sm rounded-xl transition">{subjectName}</a>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  {revisar && (
+    <script is:inline define:vars={{ revisar }}>
+      (function () {
+        var el = document.getElementById('q-' + revisar) || document.querySelector('[data-revisar="true"]');
+        if (!el) return;
+        el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        el.classList.add('ring-2', 'ring-emerald-400');
+      })();
+    </script>
+  )}
+</Layout>
