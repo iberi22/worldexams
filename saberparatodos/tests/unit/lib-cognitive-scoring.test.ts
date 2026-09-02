@@ -15,7 +15,7 @@ import {
   getLevelDescription,
   computeCognitiveProfile,
   type RawCognitiveScores
-} from '../../../src/lib/neurogym/scoring-cognitive';
+} from '../../src/lib/neurogym/scoring-cognitive';
 
 describe('cognitive scoring — edge cases (T3 F15)', () => {
   describe('zScoreToPercentile — clamping', () => {
