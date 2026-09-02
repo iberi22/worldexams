@@ -26,7 +26,8 @@
     workingMemorySpan: { maxNLevel: 2, corsiSpan: 6, accuracy: 0.85 },
     processingSpeed: { avgReactionMs: 250, stroopInterferenceMs: 40, errorRate: 0.05 },
     motorCoordination: { tapsPer10s: 58, goNoGoAccuracy: 0.92, motorJitterMs: 15 },
-    analyticalFlexibility: { ruleSwitchesSuccess: 12, totalRuleTrials: 14 }
+    analyticalFlexibility: { ruleSwitchesSuccess: 12, totalRuleTrials: 14 },
+    quantitativeReasoning: { correct: 0, total: 0, avgTimeMs: 0 }
   });
 
   // Current Stimuli
