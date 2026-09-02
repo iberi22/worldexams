@@ -17,6 +17,8 @@ export interface RawCognitiveScores {
   motorCoordination: { tapsPer10s: number; goNoGoAccuracy: number; motorJitterMs: number };
   // Análisis lógico y flexibilidad
   analyticalFlexibility: { ruleSwitchesSuccess: number; totalRuleTrials: number };
+  // Comprensión Verbal (Gc) — asociación palabra-definición
+  verbalComprehension: { correct: number; total: number; avgTimeMs: number };
 }
 
 export interface CognitiveDomainResult {
@@ -35,6 +37,7 @@ export interface FullCognitiveProfile {
   processingSpeed: CognitiveDomainResult;
   motorAgility: CognitiveDomainResult;
   analyticalFlexibility: CognitiveDomainResult;
+  verbalComprehension: CognitiveDomainResult;
   strengths: string[];
   growthAreas: string[];
   recommendedDailyWorkout: {
@@ -193,12 +196,30 @@ export function computeCognitiveProfile(raw: RawCognitiveScores): FullCognitiveP
     clinicalSummary: 'Capacidad para cambiar de estrategia cognitiva ante cambios de reglas dinámicas y resistencia a la perseveración.'
   };
 
+  // 6. Comprensión Verbal (Gc) — Vocabulario palabra-definición
+  const verbalAccuracy = raw.verbalComprehension.total > 0
+    ? (raw.verbalComprehension.correct / raw.verbalComprehension.total)
+    : 0;
+  const verbalZ = (verbalAccuracy - 0.70) / 0.15;
+  const verbalScore = zScoreToStandard(verbalZ);
+  const pVerbal = zScoreToPercentile(verbalZ);
+
+  const verbalResult: CognitiveDomainResult = {
+    rawScore: raw.verbalComprehension.correct,
+    standardScore: verbalScore,
+    percentile: pVerbal,
+    stanine: percentileToStanine(pVerbal),
+    levelDescription: getLevelDescription(verbalScore),
+    clinicalSummary: 'Capital léxico adquirido y habilidad para recuperar significados precisos de palabras escritas (cristalización verbal Gc).'
+  };
+
   const domains = [
     { name: 'Razonamiento Fluido', score: stdFluid, obj: fluidResult },
     { name: 'Memoria de Trabajo', score: stdWM, obj: wmResult },
     { name: 'Velocidad de Procesamiento', score: stdPSI, obj: psiResult },
     { name: 'Agilidad Motora', score: stdMotor, obj: motorResult },
-    { name: 'Flexibilidad Analítica', score: stdFlex, obj: flexResult }
+    { name: 'Flexibilidad Analítica', score: stdFlex, obj: flexResult },
+    { name: 'Comprensión Verbal', score: verbalScore, obj: verbalResult }
   ];
 
   const sortedDomains = [...domains].sort((a, b) => b.score - a.score);
@@ -212,6 +233,7 @@ export function computeCognitiveProfile(raw: RawCognitiveScores): FullCognitiveP
     else if (d.name.includes('Velocidad')) exercise = 'Desafío Stroop Dinámico + Reacción Simple';
     else if (d.name.includes('Agilidad')) exercise = 'Circuito Go/No-Go Tapping Rápido';
     else if (d.name.includes('Flexibilidad')) exercise = 'Cambio de Reglas Lógicas Clasificatorias';
+    else if (d.name.includes('Verbal')) exercise = 'Asociación Palabra-Definición Gc Adaptativa';
 
     return {
       domain: d.name,
@@ -227,6 +249,7 @@ export function computeCognitiveProfile(raw: RawCognitiveScores): FullCognitiveP
     processingSpeed: psiResult,
     motorAgility: motorResult,
     analyticalFlexibility: flexResult,
+    verbalComprehension: verbalResult,
     strengths: strengths.length > 0 ? strengths : ['Desarrollo armónico en todas las áreas evaluadas'],
     growthAreas: growthAreas.length > 0 ? growthAreas : ['Mantener nivel óptimo con desafíos de alta complejidad'],
     recommendedDailyWorkout: workout
