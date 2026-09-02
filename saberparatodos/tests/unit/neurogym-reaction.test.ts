@@ -24,7 +24,9 @@ describe('neurogym stimulus — Reaction Motor Pad', () => {
       fluidReasoningRaw: { correct: 7, total: 10, avgTimeMs: 8000 },
       workingMemorySpan: { maxNLevel: 3, corsiSpan: 6, accuracy: 0.85 },
       processingSpeed: { avgReactionMs: 280, stroopInterferenceMs: 50, errorRate: 0.05 },
-      analyticalFlexibility: { ruleSwitchesSuccess: 8, totalRuleTrials: 12 }
+      analyticalFlexibility: { ruleSwitchesSuccess: 8, totalRuleTrials: 12 },
+      verbalComprehension: { correct: 7, total: 10, avgTimeMs: 6000 },
+      quantitativeReasoning: { correct: 7, total: 10, avgTimeMs: 9000 }
     };
     const profile = computeCognitiveProfile(raw as any);
     expect(profile.motorAgility).toBeDefined();
