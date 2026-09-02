@@ -95,6 +95,7 @@ describe('scoring-cognitive — quantitativeReasoning (Gq) wiring', () => {
     processingSpeed: { avgReactionMs: 280, stroopInterferenceMs: 50, errorRate: 0.05 },
     motorCoordination: { tapsPer10s: 55, goNoGoAccuracy: 0.88, motorJitterMs: 30 },
     analyticalFlexibility: { ruleSwitchesSuccess: 8, totalRuleTrials: 12 },
+    verbalComprehension: { correct: 7, total: 10, avgTimeMs: 6000 },
     quantitativeReasoning: { correct: 7, total: 10, avgTimeMs: 9000 }
   };
 

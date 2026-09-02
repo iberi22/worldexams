@@ -31,6 +31,8 @@ describe('neurogym stimulus — Wisconsin Card Sorting', () => {
     // Raw shape used by Wisconsin scoring
     const raw = {
       analyticalFlexibility: { ruleSwitchesSuccess: 5, totalRuleTrials: 8 },
+      verbalComprehension: { correct: 7, total: 10, avgTimeMs: 6000 },
+      quantitativeReasoning: { correct: 7, total: 10, avgTimeMs: 9000 },
       fluidReasoningRaw: { correct: 5, total: 10, avgTimeMs: 10000 },
       workingMemorySpan: { maxNLevel: 2, corsiSpan: 5, accuracy: 0.7 },
       processingSpeed: { avgReactionMs: 300, stroopInterferenceMs: 60, errorRate: 0.1 },
