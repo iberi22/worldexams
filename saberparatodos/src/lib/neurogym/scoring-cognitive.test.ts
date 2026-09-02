@@ -46,7 +46,8 @@ describe('NeuroGym Psychometric Engine', () => {
       workingMemorySpan: { maxNLevel: 3, corsiSpan: 7, accuracy: 0.92 },
       processingSpeed: { avgReactionMs: 220, stroopInterferenceMs: 35, errorRate: 0.02 },
       motorCoordination: { tapsPer10s: 65, goNoGoAccuracy: 0.96, motorJitterMs: 12 },
-      analyticalFlexibility: { ruleSwitchesSuccess: 14, totalRuleTrials: 15 }
+      analyticalFlexibility: { ruleSwitchesSuccess: 14, totalRuleTrials: 15 },
+      quantitativeReasoning: { correct: 7, total: 10, avgTimeMs: 9000 }
     };
 
     const profile = computeCognitiveProfile(rawData);
@@ -118,7 +119,8 @@ describe('NeuroGym Psychometric Engine', () => {
         workingMemorySpan: { maxNLevel: 3, corsiSpan: 6, accuracy: 0.85 },
         processingSpeed: { avgReactionMs: 280, stroopInterferenceMs: 50, errorRate: 0.05 },
         motorCoordination: { tapsPer10s: 55, goNoGoAccuracy: 0.88, motorJitterMs: 30 },
-        analyticalFlexibility: { ruleSwitchesSuccess: 8, totalRuleTrials: 12 }
+        analyticalFlexibility: { ruleSwitchesSuccess: 8, totalRuleTrials: 12 },
+        quantitativeReasoning: { correct: 7, total: 10, avgTimeMs: 9000 }
       };
       const profile = computeCognitiveProfile(raw);
       expect(profile.overallIQProxy.standardScore).toBeGreaterThan(85);
@@ -138,7 +140,8 @@ describe('NeuroGym Psychometric Engine', () => {
         workingMemorySpan: { maxNLevel: 1, corsiSpan: 3, accuracy: 0.5 },
         processingSpeed: { avgReactionMs: 280, stroopInterferenceMs: 50, errorRate: 0.05 },
         motorCoordination: { tapsPer10s: 55, goNoGoAccuracy: 0.88, motorJitterMs: 30 },
-        analyticalFlexibility: { ruleSwitchesSuccess: 8, totalRuleTrials: 12 }
+        analyticalFlexibility: { ruleSwitchesSuccess: 8, totalRuleTrials: 12 },
+        quantitativeReasoning: { correct: 7, total: 10, avgTimeMs: 9000 }
       };
       const profile = computeCognitiveProfile(raw);
       expect(profile.strengths.length).toBeGreaterThan(0);
@@ -151,7 +154,8 @@ describe('NeuroGym Psychometric Engine', () => {
         workingMemorySpan: { maxNLevel: 1, corsiSpan: 3, accuracy: 0.3 },
         processingSpeed: { avgReactionMs: 600, stroopInterferenceMs: 200, errorRate: 0.4 },
         motorCoordination: { tapsPer10s: 20, goNoGoAccuracy: 0.5, motorJitterMs: 100 },
-        analyticalFlexibility: { ruleSwitchesSuccess: 2, totalRuleTrials: 15 }
+        analyticalFlexibility: { ruleSwitchesSuccess: 2, totalRuleTrials: 15 },
+        quantitativeReasoning: { correct: 7, total: 10, avgTimeMs: 9000 }
       };
       const profile = computeCognitiveProfile(raw);
       expect(profile.overallIQProxy.standardScore).toBeLessThan(85);
@@ -164,7 +168,8 @@ describe('NeuroGym Psychometric Engine', () => {
         workingMemorySpan: { maxNLevel: 4, corsiSpan: 9, accuracy: 1.0 },
         processingSpeed: { avgReactionMs: 180, stroopInterferenceMs: 10, errorRate: 0.0 },
         motorCoordination: { tapsPer10s: 75, goNoGoAccuracy: 0.99, motorJitterMs: 5 },
-        analyticalFlexibility: { ruleSwitchesSuccess: 15, totalRuleTrials: 15 }
+        analyticalFlexibility: { ruleSwitchesSuccess: 15, totalRuleTrials: 15 },
+        quantitativeReasoning: { correct: 7, total: 10, avgTimeMs: 9000 }
       };
       const profile = computeCognitiveProfile(raw);
       expect(profile.overallIQProxy.standardScore).toBeGreaterThan(120);
@@ -177,7 +182,8 @@ describe('NeuroGym Psychometric Engine', () => {
         workingMemorySpan: { maxNLevel: 3, corsiSpan: 6, accuracy: 0.85 },
         processingSpeed: { avgReactionMs: 280, stroopInterferenceMs: 50, errorRate: 0.05 },
         motorCoordination: { tapsPer10s: 55, goNoGoAccuracy: 0.88, motorJitterMs: 30 },
-        analyticalFlexibility: { ruleSwitchesSuccess: 8, totalRuleTrials: 12 }
+        analyticalFlexibility: { ruleSwitchesSuccess: 8, totalRuleTrials: 12 },
+        quantitativeReasoning: { correct: 7, total: 10, avgTimeMs: 9000 }
       };
       const profile = computeCognitiveProfile(raw);
       expect(profile.recommendedDailyWorkout.length).toBeGreaterThan(0);
@@ -196,7 +202,8 @@ describe('NeuroGym Psychometric Engine', () => {
         workingMemorySpan: { maxNLevel: 3, corsiSpan: 6, accuracy: 0.85 },
         processingSpeed: { avgReactionMs: 280, stroopInterferenceMs: 50, errorRate: 0.05 },
         motorCoordination: { tapsPer10s: 55, goNoGoAccuracy: 0.88, motorJitterMs: 30 },
-        analyticalFlexibility: { ruleSwitchesSuccess: 8, totalRuleTrials: 12 }
+        analyticalFlexibility: { ruleSwitchesSuccess: 8, totalRuleTrials: 12 },
+        quantitativeReasoning: { correct: 7, total: 10, avgTimeMs: 9000 }
       };
       const before = Date.now();
       const profile = computeCognitiveProfile(raw);
@@ -211,7 +218,8 @@ describe('NeuroGym Psychometric Engine', () => {
         workingMemorySpan: { maxNLevel: 3, corsiSpan: 6, accuracy: 0.85 },
         processingSpeed: { avgReactionMs: 280, stroopInterferenceMs: 50, errorRate: 0.05 },
         motorCoordination: { tapsPer10s: 55, goNoGoAccuracy: 0.88, motorJitterMs: 30 },
-        analyticalFlexibility: { ruleSwitchesSuccess: 8, totalRuleTrials: 12 }
+        analyticalFlexibility: { ruleSwitchesSuccess: 8, totalRuleTrials: 12 },
+        quantitativeReasoning: { correct: 7, total: 10, avgTimeMs: 9000 }
       };
       const profile = computeCognitiveProfile(raw);
       const domains = [

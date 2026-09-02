@@ -11,7 +11,8 @@
     workingMemorySpan: { maxNLevel: 1, corsiSpan: 4, accuracy: 0.65 },
     processingSpeed: { avgReactionMs: 290, stroopInterferenceMs: 70, errorRate: 0.08 },
     motorCoordination: { tapsPer10s: 50, goNoGoAccuracy: 0.88, motorJitterMs: 18 },
-    analyticalFlexibility: { ruleSwitchesSuccess: 8, totalRuleTrials: 14 }
+    analyticalFlexibility: { ruleSwitchesSuccess: 8, totalRuleTrials: 14 },
+    quantitativeReasoning: { correct: 7, total: 10, avgTimeMs: 9000 }
   });
 
   let { profile = defaultSample }: Props = $props();
