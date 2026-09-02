@@ -47,6 +47,7 @@ describe('NeuroGym Psychometric Engine', () => {
       processingSpeed: { avgReactionMs: 220, stroopInterferenceMs: 35, errorRate: 0.02 },
       motorCoordination: { tapsPer10s: 65, goNoGoAccuracy: 0.96, motorJitterMs: 12 },
       analyticalFlexibility: { ruleSwitchesSuccess: 14, totalRuleTrials: 15 },
+      verbalComprehension: { correct: 7, total: 10, avgTimeMs: 6000 },
       quantitativeReasoning: { correct: 7, total: 10, avgTimeMs: 9000 }
     };
 
@@ -120,6 +121,7 @@ describe('NeuroGym Psychometric Engine', () => {
         processingSpeed: { avgReactionMs: 280, stroopInterferenceMs: 50, errorRate: 0.05 },
         motorCoordination: { tapsPer10s: 55, goNoGoAccuracy: 0.88, motorJitterMs: 30 },
         analyticalFlexibility: { ruleSwitchesSuccess: 8, totalRuleTrials: 12 },
+        verbalComprehension: { correct: 7, total: 10, avgTimeMs: 6000 },
         quantitativeReasoning: { correct: 7, total: 10, avgTimeMs: 9000 }
       };
       const profile = computeCognitiveProfile(raw);
@@ -141,6 +143,7 @@ describe('NeuroGym Psychometric Engine', () => {
         processingSpeed: { avgReactionMs: 280, stroopInterferenceMs: 50, errorRate: 0.05 },
         motorCoordination: { tapsPer10s: 55, goNoGoAccuracy: 0.88, motorJitterMs: 30 },
         analyticalFlexibility: { ruleSwitchesSuccess: 8, totalRuleTrials: 12 },
+        verbalComprehension: { correct: 7, total: 10, avgTimeMs: 6000 },
         quantitativeReasoning: { correct: 7, total: 10, avgTimeMs: 9000 }
       };
       const profile = computeCognitiveProfile(raw);
@@ -155,6 +158,7 @@ describe('NeuroGym Psychometric Engine', () => {
         processingSpeed: { avgReactionMs: 600, stroopInterferenceMs: 200, errorRate: 0.4 },
         motorCoordination: { tapsPer10s: 20, goNoGoAccuracy: 0.5, motorJitterMs: 100 },
         analyticalFlexibility: { ruleSwitchesSuccess: 2, totalRuleTrials: 15 },
+        verbalComprehension: { correct: 7, total: 10, avgTimeMs: 6000 },
         quantitativeReasoning: { correct: 7, total: 10, avgTimeMs: 9000 }
       };
       const profile = computeCognitiveProfile(raw);
@@ -169,6 +173,7 @@ describe('NeuroGym Psychometric Engine', () => {
         processingSpeed: { avgReactionMs: 180, stroopInterferenceMs: 10, errorRate: 0.0 },
         motorCoordination: { tapsPer10s: 75, goNoGoAccuracy: 0.99, motorJitterMs: 5 },
         analyticalFlexibility: { ruleSwitchesSuccess: 15, totalRuleTrials: 15 },
+        verbalComprehension: { correct: 7, total: 10, avgTimeMs: 6000 },
         quantitativeReasoning: { correct: 7, total: 10, avgTimeMs: 9000 }
       };
       const profile = computeCognitiveProfile(raw);
@@ -183,6 +188,7 @@ describe('NeuroGym Psychometric Engine', () => {
         processingSpeed: { avgReactionMs: 280, stroopInterferenceMs: 50, errorRate: 0.05 },
         motorCoordination: { tapsPer10s: 55, goNoGoAccuracy: 0.88, motorJitterMs: 30 },
         analyticalFlexibility: { ruleSwitchesSuccess: 8, totalRuleTrials: 12 },
+        verbalComprehension: { correct: 7, total: 10, avgTimeMs: 6000 },
         quantitativeReasoning: { correct: 7, total: 10, avgTimeMs: 9000 }
       };
       const profile = computeCognitiveProfile(raw);
@@ -203,6 +209,7 @@ describe('NeuroGym Psychometric Engine', () => {
         processingSpeed: { avgReactionMs: 280, stroopInterferenceMs: 50, errorRate: 0.05 },
         motorCoordination: { tapsPer10s: 55, goNoGoAccuracy: 0.88, motorJitterMs: 30 },
         analyticalFlexibility: { ruleSwitchesSuccess: 8, totalRuleTrials: 12 },
+        verbalComprehension: { correct: 7, total: 10, avgTimeMs: 6000 },
         quantitativeReasoning: { correct: 7, total: 10, avgTimeMs: 9000 }
       };
       const before = Date.now();
@@ -219,6 +226,7 @@ describe('NeuroGym Psychometric Engine', () => {
         processingSpeed: { avgReactionMs: 280, stroopInterferenceMs: 50, errorRate: 0.05 },
         motorCoordination: { tapsPer10s: 55, goNoGoAccuracy: 0.88, motorJitterMs: 30 },
         analyticalFlexibility: { ruleSwitchesSuccess: 8, totalRuleTrials: 12 },
+        verbalComprehension: { correct: 7, total: 10, avgTimeMs: 6000 },
         quantitativeReasoning: { correct: 7, total: 10, avgTimeMs: 9000 }
       };
       const profile = computeCognitiveProfile(raw);
@@ -227,7 +235,8 @@ describe('NeuroGym Psychometric Engine', () => {
         profile.workingMemory,
         profile.processingSpeed,
         profile.motorAgility,
-        profile.analyticalFlexibility
+        profile.analyticalFlexibility,
+        profile.verbalComprehension
       ];
       for (const d of domains) {
         expect(d).toBeDefined();
