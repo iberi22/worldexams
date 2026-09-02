@@ -1,7 +1,8 @@
 # MX - Mexico Bundle Creation Rules (v5.2)
 
 ## Official Exam Framework
-- **Exam:** EXANI-II (ingreso a educación superior); also COMIPEMS (EMS CDMX/ZMVM); school assessments vary (PLANEA historical / NEM diagnostics)
+- **Exam:** EXANI-II (CENEVAL, ingreso universidad); COMIPEMS (ingreso bachillerato CDMX/ZMVM); PLANE/PLANEA (Plan Nacional para la Evaluación de los Aprendizajes, histórico) y diagnósticos NEM
+- **Curriculum:** SEP (Secretaría de Educación Pública) · NEM (Nueva Escuela Mexicana) · Planes y programas 2022
 - **Agency:** CENEVAL (EXANI) · SEP (Secretaría de Educación Pública) · NEM (Nueva Escuela Mexicana)
 - **Grade:** Primaria 1°–6°, Secundaria 1°–3° (G7–G9), Media Superior 1°–3° (often WorldExams `grado-10`–`grado-12`; weekly packs commonly use `grado-11` for EMS)
 - **Established:** EXANI long-running; SEP Plan de Estudios / MCCEMS updates under NEM (2022+)
@@ -69,13 +70,20 @@ Obsolete: `grado-11/periodo-1/...`, root `grado-11/` without `2026/weekly/`, and
 - Sources: `docs/specs/curriculums/mexico/README.md`; AGENTS.md Mexico calendar note; stubs in `config/countries.config.ts`.
 
 ## Language & Cultural Rules
-- Mexican Spanish (tú; ustedes plural).
-- Currency: Peso mexicano (**MXN $**).
+- Mexican Spanish (tú; ustedes plural). **Tuteo estandar: NUNCA voseo ("vos")** — eso es Argentina/Uruguay.
+- Registros neutros educativos: prohibido "güey", "chido" y analogos coloquiales en enunciados y explicaciones.
+- Currency: Peso mexicano (**MXN $**) con formato `$1,234.50`.
 - Cities: Ciudad de México, Guadalajara, Monterrey, Puebla, Cancún, Mérida, Oaxaca, Tijuana.
 - Names: José, María, Guadalupe, Luis, Fernanda, Diego, Ximena, Carlos.
 - Institutions as context (not endorsement): UNAM, IPN, IMSS, SEP — factual only.
 - Contexts: Día de Muertos, 15/16 de septiembre, gastronomía, geografía diversa — no historical/legal hallucinations.
 - Never reference ICFES; do not put "EXANI"/"CENEVAL" inside stems (metadata/`alignment` only).
+
+## Bloom & Difficulty Mapping (igual que CO)
+- G6–G7 (10q): Q1–Q2 D3-D4 Remember/Understand · Q3–Q5 D5-D6 Apply · Q6–Q8 D7-D8 Analyze · Q9–Q10 D9-D10 Evaluate.
+- G3–G5 (8q): Q1–Q2 D3-D4 Remember/Understand · Q3–Q5 D5-D6 Apply · Q6–Q7 D7-D8 Analyze · Q8 D9-D10 Evaluate.
+- G8–G10 (12q) y G11 (20q): progresion creciente segun AGENTS.md; nunca saltar de basico a experto al inicio.
+- Eje evaluado por pregunta: `**EJE:**` con ejes NEM ("Numero, Algebra y Variacion", "Forma, Espacio y Medida", "Datos, Probabilidad y Variacion") o "Pensamiento matematico" / "Numerico" / "Variacion y cambio".
 
 ## Subject Bundle Strategy
 1. **Priority 1:** G11 transversales EXANI (matemáticas, lectura-crítica, lengua).
