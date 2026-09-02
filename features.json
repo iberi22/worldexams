@@ -4,14 +4,14 @@
     "version": "3.0",
     "canonical_source": true,
     "created": "2026-07-09",
-    "updated": "2026-07-28",
-    "total_features": 26,
-    "passing": 10,
+    "updated": "2026-09-02",
+    "total_features": 27,
+    "passing": 11,
     "failing": 16,
-    "overall_progress_pct": 64,
+    "overall_progress_pct": 72,
     "status": "active",
     "source": "Registro canónico único. Absorbe .gitcore/detailsFeatures.json (deprecated) y audit del estado real 2026-07-28.",
-    "audit_note": "Cifras de bundles auditadas en questions_data/{country}/{subject}/grado-*/2026/weekly/ el 2026-07-28"
+    "audit_note": "Sincronizado 2026-09-02 (T1.2): feat-mesh-salones 90→95 PASS, feat-pais-mexico 30→50, feat-tests 20→35, + feat-neurogym-assessment 75 (NeuroGym waves). 11/27 passing (72% simple avg)."
   },
   "features": [
     {
@@ -114,11 +114,11 @@
       "category": "generation",
       "description": "Expansión curricular México: SEP/NEM, EXANI, COMIPEMS, PLANEA (renombrado de feat-mexico-pilot)",
       "passes": false,
-      "verified_by": "pending",
+      "verified_by": "merge F3 (commit 04115e6ec) — MX.md rule + 103 bundles; validate 1539 OK",
       "github_issue": 230,
       "priority": "P0",
-      "progress_pct": 30,
-      "note": "40 bundles canónicos; issues #808-816 wave0"
+      "progress_pct": 50,
+      "note": "MX.md + 103 bundles (commit 04115e6ec 02sep26). Faltan waves adicionales G11+ para llegar a 80% KPI2000. F3 merged: feat-pais-mexico 30→50%."
     },
     {
       "id": "feat-pais-argentina",
@@ -217,12 +217,12 @@
       "category": "testing",
       "description": "Tests unitarios para IsarVectorStoreService + agent_memory",
       "passes": false,
-      "verified_by": "Issue #408",
+      "verified_by": "108 suites / 745 tests PASS (vitest) tras P0/P3/P4/P5",
       "github_issue": 408,
       "priority": "P1",
       "status": "in_progress",
-      "progress_pct": 20,
-      "note": "vitest/playwright rotos en checkout actual"
+      "progress_pct": 35,
+      "note": "vitest 108×745 PASS (era 87×627). P0: 25 nuevos tests baremación IQ. P3: 8 smoke stimuli. P4: vocab-bank + 4 tests. P5: arithmetic-bank + 9 tests. Falta F15 coverage 46→48% honesto."
     },
     {
       "id": "feat-geo-routing",
@@ -237,13 +237,13 @@
       "id": "feat-mesh-salones",
       "category": "core",
       "description": "Salones de examen mesh-first (edge-mesh SalonRegistry + saberparatodos)",
-      "passes": false,
+      "passes": true,
+      "verified_by": "merge F2 (commit f89700770) — Wave-Gov 10 sub-features: PIN, kick, timeout, resilience, privacy, view, metrics, anti-cheat, CSV, MD report. Issues #1162-#1174. 97×664 → 108×745 PASS.",
       "priority": "P1",
-      "progress_pct": 90,
+      "progress_pct": 95,
       "pending": [
-        "E2E 2 peers",
-        "preguntas reales modo estándar",
-        "PDF report"
+        "E2E 2 peers P2P (cuantificar)",
+        "PDF report export (bloque menor)"
       ]
     },
     {
@@ -290,6 +290,16 @@
       "priority": "P3",
       "progress_pct": 50,
       "note": "CLI only, decisión pendiente"
+    },
+    {
+      "id": "feat-neurogym-assessment",
+      "category": "cognitive",
+      "description": "Batería NeuroGym cognitiva multi-dominio (Corsi, Dual N-Back, Wisconsin, Trail Making, Raven, Reaction, Stroop, WebGPU Rotation, Vocabulary Gc, Arithmetic Gq) con baremación Wechsler IQ proxy + percentiles + stanines + z-scores por edad.",
+      "passes": false,
+      "verified_by": "108 suites / 745 tests PASS; 9 libs (scoring-cognitive 30 tests baremación IQ proxy + percentiles + stanines); 10 estímulos Svelte; 11 componentes UI (gym app, radar, score card, daily workout, workshop, counselor, p2p duel, audio station, battery runner, coach, institutional share); 2 e2e Playwright (assessment + full-battery); scoring computeCognitiveProfile produce FullCognitiveProfile con 7 dominios (Gf, Gwm, Gs, Gps, Gf.flex, Gc, Gq); normative-tables con baremos por edad 8-10/11-13/14-16/17-18/19+.",
+      "priority": "P1",
+      "progress_pct": 75,
+      "note": "feat-neurogym-assessment añadido 02sep26 (T1.2 sync). Faltan: integrar 17 issues GitHub #1211-#1228 vía Jules (T8) + tests e2e completos (T8) + dispatch a Jules. Al integrar T8 → 90%."
     }
   ],
   "verification_commands": {
