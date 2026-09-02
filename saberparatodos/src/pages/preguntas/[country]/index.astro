@@ -1,0 +1,126 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import BundleList from '../../../components/preguntas/BundleList.svelte';
+import {
+  getAllBundles,
+  findCountryBundles,
+  bundleUrl,
+  getCountryDisplay,
+  gradeBundlesToGradeSlugs,
+  gradeBundlesToSubjectSlugs,
+  findBundleById,
+  toTitleCase,
+  type BundleEntry,
+} from '../../../lib/preguntas/bundle-fetcher';
+import { t } from '../../../lib/i18n';
+
+export async function getStaticPaths() {
+  const entries = await getAllBundles();
+  const slugs = [...new Set(entries.map((e) => e.country))];
+  return slugs.map((country) => ({ params: { country } }));
+}
+
+export const fallback = true;
+
+const { country } = Astro.params;
+const entries = await getAllBundles();
+const bundles = findCountryBundles(entries, country ?? '');
+
+if (!bundles.length) {
+  const asBundle = country ? await findBundleById(entries, country) : undefined;
+  if (asBundle) return Astro.redirect(bundleUrl(asBundle), 301);
+  return Astro.redirect('/preguntas/', 302);
+}
+
+const display = getCountryDisplay(country!);
+const gradeSlugs = gradeBundlesToGradeSlugs(bundles);
+const subjectSlugs = gradeBundlesToSubjectSlugs(bundles);
+const totalQuestions = bundles.reduce((acc, b) => acc + (b.total || 0), 0);
+
+const toListItem = (e: BundleEntry) => ({
+  id: e.id,
+  country: e.country,
+  subject: e.subject,
+  gradeSlug: e.gradeSlug,
+  grade: e.grade,
+  week: e.week,
+  tema: e.tema,
+  total: e.total,
+  url: bundleUrl(e),
+});
+
+const siteUrl = String(Astro.site ?? 'https://saberparatodos.space').replace(/\/+$/, '');
+const canonical = `${siteUrl}/preguntas/${country}/`;
+const pageTitle = `${display.flag} ${display.name} — Bancos de Preguntas${display.examName ? ` ${display.examName}` : ''} | WorldExams`;
+const pageDescription = `${bundles.length} bundles de preguntas (${totalQuestions} preguntas) para ${display.name}${display.examName ? ` — ${display.examName}` : ''}, organizados por grado y materia.`;
+
+Astro.response.headers.set('Cache-Control', 'public, max-age=86400, s-maxage=604800, stale-while-revalidate=86400');
+---
+
+<Layout title={pageTitle} description={pageDescription}>
+  <link slot="head" rel="canonical" href={canonical} />
+  <link slot="head" rel="alternate" hreflang="es" href={canonical} />
+  <meta slot="head" property="og:title" content={pageTitle} />
+  <meta slot="head" property="og:description" content={pageDescription} />
+  <meta slot="head" property="og:type" content="website" />
+
+  <div class="min-h-screen bg-[#0f172a] text-white">
+    <nav aria-label="breadcrumb" class="border-b border-white/10 bg-slate-900/50">
+      <ol class="max-w-6xl mx-auto px-4 py-3 flex gap-2 text-sm text-white/60">
+        <li><a href="/" class="hover:text-white transition">{t('preguntas.breadcrumb.home')}</a></li>
+        <li>/</li>
+        <li><a href="/preguntas/" class="hover:text-white transition">{t('preguntas.breadcrumb.preguntas')}</a></li>
+        <li>/</li>
+        <li class="text-emerald-400 font-semibold" aria-current="page">{display.name}</li>
+      </ol>
+    </nav>
+
+    <main class="max-w-6xl mx-auto px-4 py-8">
+      <header class="bg-gradient-to-br from-slate-800 to-slate-900 border border-slate-700 p-8 rounded-3xl mb-8 shadow-xl">
+        <div class="flex flex-wrap items-center gap-4 mb-3">
+          <span class="text-5xl">{display.flag}</span>
+          <div>
+            <h1 class="text-3xl font-extrabold text-white">{display.name}</h1>
+            {display.examName && <p class="text-sm text-slate-300 mt-1">Examen nacional: <strong class="text-emerald-300">{display.examName}</strong></p>}
+          </div>
+        </div>
+        <p class="text-slate-300 text-sm max-w-2xl">{pageDescription}</p>
+      </header>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-10">
+        <section>
+          <h2 class="text-lg font-bold text-white mb-3">{t('preguntas.grade')} ({gradeSlugs.length})</h2>
+          <ul class="flex flex-wrap gap-2 list-none p-0 m-0">
+            {gradeSlugs.map((g) => (
+              <li>
+                <a
+                  href={`/preguntas/${country}/${g}/`}
+                  class="inline-block bg-slate-800/70 hover:bg-slate-800 border border-slate-700 hover:border-emerald-500/50 px-4 py-2 rounded-xl text-sm font-semibold text-white transition"
+                >{toTitleCase(g)}</a>
+              </li>
+            ))}
+          </ul>
+        </section>
+        <section>
+          <h2 class="text-lg font-bold text-white mb-3">{t('preguntas.subject')} ({subjectSlugs.length})</h2>
+          <ul class="flex flex-wrap gap-2 list-none p-0 m-0">
+            {subjectSlugs.map((s) => (
+              <li>
+                <a
+                  href={`/preguntas/?q=${encodeURIComponent(s)}`}
+                  class="inline-block bg-slate-800/70 hover:bg-slate-800 border border-slate-700 hover:border-emerald-500/50 px-4 py-2 rounded-xl text-sm font-semibold text-white transition"
+                >{toTitleCase(s)}</a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      </div>
+
+      <BundleList
+        client:load
+        bundles={bundles.map(toListItem)}
+        label={`${t('preguntas.bundles')} — ${display.name}`}
+      />
+    </main>
+  </div>
+</Layout>

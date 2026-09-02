@@ -1,0 +1,64 @@
+---
+/**
+ * /admin/analytics — Question Usage Analytics Dashboard (#1035).
+ * Pública por defecto (solo métricas agregadas anonimizadas; sin datos de
+ * estudiantes identificables — coherente con BR-03 de aislamiento).
+ * Config: PUBLIC_ANALYTICS_DASHBOARD=false la desactiva.
+ * Datos de demo: fixtures sintéticos src/lib/analytics/__fixtures__/sample-usage.json
+ * (SYNTHETIC DATA FOR DEMO — nunca se inventan métricas sobre datos reales).
+ */
+import Layout from '../../layouts/Layout.astro';
+import UsageDashboard from '../../components/analytics/UsageDashboard.svelte';
+import { resolveRuntimeCountryConfig } from '../../config';
+import { t } from '../../lib/i18n';
+import sampleUsage from '../../lib/analytics/__fixtures__/sample-usage.json';
+import type { UsageEvent } from '../../lib/analytics/usage-aggregator';
+
+const enabled = import.meta.env.PUBLIC_ANALYTICS_DASHBOARD !== 'false';
+const country = resolveRuntimeCountryConfig(Astro.locals.country);
+
+// SYNTHETIC DATA FOR DEMO — fixture sintético; si existiera una API real de
+// uso se consumiría aquí en su lugar (nunca inventar métricas).
+const events: UsageEvent[] = (sampleUsage.events ?? []) as UsageEvent[];
+
+const pageTitle = `${t('analytics.title')} | ${country.product.siteName}`;
+---
+
+<Layout title={pageTitle} description={t('analytics.description')} noindex={true}>
+  <div class="min-h-screen bg-[#0f172a] text-white">
+    <main class="max-w-6xl mx-auto px-4 py-10">
+      <header class="mb-8">
+        <div class="flex items-center gap-2 mb-2 flex-wrap">
+          <a href="/" class="text-white/50 hover:text-white transition text-xs font-mono">← {t('preguntas.breadcrumb.home')}</a>
+          <span class="px-2.5 py-0.5 rounded-full bg-purple-500/10 border border-purple-500/30 text-purple-400 text-[11px] font-mono font-bold uppercase">
+            Admin Zone
+          </span>
+          <span class="px-2.5 py-0.5 rounded-full bg-emerald-500/10 border border-emerald-500/30 text-emerald-400 text-[11px] font-mono font-bold uppercase">
+            #1035
+          </span>
+        </div>
+        <h1 class="text-3xl font-extrabold tracking-tight text-white">{t('analytics.title')}</h1>
+        <p class="text-sm text-slate-300 mt-2 max-w-2xl">{t('analytics.description')}</p>
+        <p class="text-[11px] text-amber-400/90 mt-2 font-mono">{t('analytics.syntheticNote')}</p>
+      </header>
+
+      {enabled ? (
+        <UsageDashboard client:load events={events} windowDays={30} />
+      ) : (
+        <div class="bg-slate-800/60 border border-slate-700 rounded-2xl p-10 text-center" role="status">
+          <p class="text-slate-300">{t('analytics.noData')}</p>
+          <p class="text-xs text-slate-500 mt-2 font-mono">PUBLIC_ANALYTICS_DASHBOARD=false</p>
+        </div>
+      )}
+
+      <footer class="mt-10 p-4 bg-white/5 border border-white/10 rounded-xl text-xs text-white/60">
+        <p class="font-bold text-white/90 mb-1">Sin tracking invasivo</p>
+        <p>
+          Este dashboard solo consume eventos agregados anónimos (pregunta correcta/incorrecta, tiempo y bundle).
+          No se registran nombres, correos ni identificadores de estudiantes. Si no hay datos suficientes,
+          la interfaz muestra «{t('analytics.noData')}» en lugar de estimar métricas.
+        </p>
+      </footer>
+    </main>
+  </div>
+</Layout>
