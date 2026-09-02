@@ -12,6 +12,7 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "CENEVAL EXANI-II"
+bundle_index: 1
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
