@@ -27,17 +27,17 @@ const runtimeCountry = resolveRuntimeCountryConfig(Astro.locals.country);
       </nav>
 
       <!-- Header del contexto pedagógico -->
-      <header class="border-b border-zinc-800/80 pb-6">
+      <div class="border-b border-zinc-800/80 pb-6 pt-2">
         <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/20 text-emerald-400 text-xs font-mono mb-3 uppercase tracking-wider">
           {runtimeCountry.examFullName} • Pregunta {questionId}
         </div>
-        <h1 class="text-2xl sm:text-3xl font-bold tracking-tight text-[#F5F5DC]">
+        <h1 class="text-2xl sm:text-4xl font-extrabold tracking-tight text-[#F5F5DC] leading-snug">
           Hilos de Explicación Colaborativa
         </h1>
         <p class="mt-2 text-sm text-zinc-400 leading-relaxed max-w-2xl">
           Aportes, contraejemplos pedagógicos y desgloses paso a paso auditados por la red comunitaria.
         </p>
-      </header>
+      </div>
 
       <!-- Montaje del componente con client:load -->
       <section>
