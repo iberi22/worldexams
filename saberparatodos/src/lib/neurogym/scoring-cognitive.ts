@@ -18,9 +18,9 @@ export interface RawCognitiveScores {
   // Análisis lógico y flexibilidad
   analyticalFlexibility: { ruleSwitchesSuccess: number; totalRuleTrials: number };
   // Comprensión Verbal (Gc) — asociación palabra-definición (P4)
-  verbalComprehension: { correct: number; total: number; avgTimeMs: number };
+  verbalComprehension?: { correct: number; total: number; avgTimeMs: number };
   // Razonamiento Cuantitativo (Gq) — aritmética cronometrada (P5)
-  quantitativeReasoning: { correct: number; total: number; avgTimeMs: number };
+  quantitativeReasoning?: { correct: number; total: number; avgTimeMs: number };
 }
 
 export interface CognitiveDomainResult {
@@ -179,7 +179,7 @@ export function computeCognitiveProfile(raw: RawCognitiveScores): FullCognitiveP
     percentile: pMotor,
     stanine: percentileToStanine(pMotor),
     levelDescription: getLevelDescription(stdMotor),
-    clinicalSummary: 'Velocidad de ejecución neuromuscular, ritmo motor sostenido y freno voluntario ante estímulos de parada (Stop-Signal).'
+    clinicalSummary: 'Velocidad de ejecución neuromuscular, ritmo motor sustained y freno voluntario ante estímulos de parada (Stop-Signal).'
   };
 
   // 5. Análisis Lógico y Flexibilidad Cognitiva
@@ -200,15 +200,16 @@ export function computeCognitiveProfile(raw: RawCognitiveScores): FullCognitiveP
   };
 
   // 6. Comprensión Verbal (Gc) — Vocabulario palabra-definición (P4)
-  const verbalAccuracy = raw.verbalComprehension.total > 0
-    ? (raw.verbalComprehension.correct / raw.verbalComprehension.total)
+  const verbalRaw = raw.verbalComprehension ?? { correct: 0, total: 0, avgTimeMs: 0 };
+  const verbalAccuracy = verbalRaw.total > 0
+    ? (verbalRaw.correct / verbalRaw.total)
     : 0;
   const verbalZ = (verbalAccuracy - 0.70) / 0.15;
   const verbalScore = zScoreToStandard(verbalZ);
   const pVerbal = zScoreToPercentile(verbalZ);
 
   const verbalResult: CognitiveDomainResult = {
-    rawScore: raw.verbalComprehension.correct,
+    rawScore: verbalRaw.correct,
     standardScore: verbalScore,
     percentile: pVerbal,
     stanine: percentileToStanine(pVerbal),
