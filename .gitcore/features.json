@@ -1,20 +1,20 @@
 {
   "metadata": {
     "project": "WorldExams — Plataforma Multi-país de Exámenes Saber",
-    "version": "2.0",
+    "version": "2.1",
     "created": "2026-06-05",
-    "updated": "2026-09-01",
+    "updated": "2026-09-03",
     "total_features": 21,
-    "passing": 15,
-    "failing": 6,
-    "overall_progress_pct": 84.0,
-    "overall_progress_weighted_pct": 86.8,
-    "calculation": "simple 84.0% (1765/21); weighted 86.8% (4685/54). F14 corrections 25→40%.",
+    "passing": 16,
+    "failing": 5,
+    "overall_progress_pct": 86.0,
+    "overall_progress_weighted_pct": 88.2,
+    "calculation": "simple 86.0% (1806/21); weighted 88.2% (4762/54). F2 salones 95→100% + F3 México 50→60% + F4 NeuroGym 13 PRs merged + F5 wave2 partial.",
     "status": "active",
-    "audit_date": "2026-09-01",
-    "audit_method": "verify-pipeline.sh + npm run validate (1531 bundles 0 failures) + npm run test:unit (74 suites 576 PASS) + git log wave-10/neurogym merges",
-    "note": "v3.3 F14 2026-09-01: corrections 25→40% CorrectionThread.svelte (87×627 PASS, BR-03)",
-    "previous_version": "2.0 (2026-08-26, 60% overall, 54.5% weighted, 18 feats)"
+    "audit_date": "2026-09-03",
+    "audit_method": "verify-pipeline.sh + npm run validate (1577 bundles 0 failures) + npm run test:unit (110 suites 770 PASS) + git log neurogym/ci fix",
+    "note": "v3.4 2026-09-03: 13 PRs NeuroGym merged #1230-#1241 + F2 f89700770 (Salones 97x664) + F3 04115e6ec (MX 50%) + T4 Colombia G11 W02-W11 + T5 Ecuador G11 + CI fix deploy-preview non-blocking (CF token code 10405)",
+    "previous_version": "2.0 (2026-09-01, 84.0% overall, 86.8% weighted)"
   },
   "features": [
     {
