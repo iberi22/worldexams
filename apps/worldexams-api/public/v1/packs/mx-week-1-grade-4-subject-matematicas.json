@@ -1,0 +1,371 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "matematicas",
+    "country": "mx",
+    "pack_id": "mx-week-1-grade-4-subject-matematicas",
+    "generated_at": "2026-09-03T20:46:15.306Z"
+  },
+  "questions": [
+    {
+      "id": "MX-MAT-4-2026-W01-multiplicacion-basica-001-MASTERY-bundle-v1",
+      "statement": "¿Qué multiplicación representa el número total de sillas?",
+      "context": "En una fiesta escolar en Puebla se acomodaron sillas en 8 filas con 6 sillas cada una.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8 × 6 = 48",
+          "is_correct": true,
+          "feedback": "Cada una de las 8 filas aporta 6 sillas, así que el total es 8 × 6 = 48."
+        },
+        {
+          "letter": "B",
+          "text": "8 + 6 = 14",
+          "is_correct": false,
+          "feedback": "Sumar solo cuenta una fila y una columna; el arreglo requiere multiplicar."
+        },
+        {
+          "letter": "C",
+          "text": "8 − 6 = 2",
+          "is_correct": false,
+          "feedback": "Restar no modela un arreglo rectangular de filas y columnas."
+        },
+        {
+          "letter": "D",
+          "text": "6 × 6 = 36",
+          "is_correct": false,
+          "feedback": "Usó el número de filas equivocadas; hay 8 filas, no 6."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un arreglo rectangular de m filas con n elementos cada uno se cuenta con la multiplicación m × n. Aquí 8 filas de 6 sillas dan 48 sillas; la suma repetida 6 + 6 + 6 + 6 + 6 + 6 + 6 + 6 confirma el resultado.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "MX-MAT-4-2026-W01-multiplicacion-basica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-4-2026-W01-multiplicacion-basica-001-MASTERY-bundle-v2",
+      "statement": "¿Qué propiedad de la multiplicación explica lo que dice Diego?",
+      "context": "Diego afirma que 7 × 9 es lo mismo que 9 × 7 \"porque el resultado no cambia\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La propiedad conmutativa",
+          "is_correct": true,
+          "feedback": "La propiedad conmutativa establece que el orden de los factores no altera el producto: 7 × 9 = 9 × 7 = 63."
+        },
+        {
+          "letter": "B",
+          "text": "La propiedad asociativa",
+          "is_correct": false,
+          "feedback": "La asociativa agrupa tres o más factores de distinta manera; aquí solo hay dos factores."
+        },
+        {
+          "letter": "C",
+          "text": "La propiedad distributiva",
+          "is_correct": false,
+          "feedback": "La distributiva descompone un factor para multiplicar por partes; no es lo que describe el ejemplo."
+        },
+        {
+          "letter": "D",
+          "text": "El elemento neutro",
+          "is_correct": false,
+          "feedback": "El elemento neutro de la multiplicación es el 1; no interviene en este caso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El orden de los factores no altera el producto es la propiedad conmutativa. Comprenderla permite calcular mentalmente con más fluidez, por ejemplo viendo 7 × 9 como 9 × 7 cuando resulta más familiar.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.9,
+      "bundle_id": "MX-MAT-4-2026-W01-multiplicacion-basica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-4-2026-W01-multiplicacion-basica-001-MASTERY-bundle-v3",
+      "statement": "¿Cuánto pagaron en total?",
+      "context": "La familia de Guadalupe viaja de la Ciudad de México a Monterrey en avión. Cada boleto cuesta $1,285 y compraron 3 boletos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3,855",
+          "is_correct": true,
+          "feedback": "1,285 × 3 = 3,855; por lugares: 5 × 3 = 15 (5 y lleva 1), 8 × 3 + 1 = 25 (5 y lleva 2), 2 × 3 + 2 = 8, 1 × 3 = 3."
+        },
+        {
+          "letter": "B",
+          "text": "$3,755",
+          "is_correct": false,
+          "feedback": "Olvidó el canje de las centenas: 2 × 3 = 6 más las 2 que se llevan da 8 centenas, no 7."
+        },
+        {
+          "letter": "C",
+          "text": "$3,845",
+          "is_correct": false,
+          "feedback": "El canje de las decenas está mal aplicado; el producto de las unidades es 15, se queda 5 y se lleva 1."
+        },
+        {
+          "letter": "D",
+          "text": "$2,855",
+          "is_correct": false,
+          "feedback": "Falta una millar completa: 1,000 × 3 ya es 3,000."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Multiplicar un número de cuatro cifras por un dígito se hace por lugares, de derecha a izquierda, acumulando canjes: 1,285 × 3 = 3,855. Comprobar con suma repetida (1,285 + 1,285 + 1,285) refuerza el procedimiento.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-4-2026-W01-multiplicacion-basica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-4-2026-W01-multiplicacion-basica-001-MASTERY-bundle-v4",
+      "statement": "¿Cuántas gomitas empaca en total?",
+      "context": "Para la venta de dulces de la escuela en Oaxaca, Fernanda empaca bolsitas con 24 gomitas cada una y llena 12 bolsitas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "288",
+          "is_correct": true,
+          "feedback": "24 × 12 = 24 × 10 + 24 × 2 = 240 + 48 = 288."
+        },
+        {
+          "letter": "B",
+          "text": "278",
+          "is_correct": false,
+          "feedback": "La segunda parcial es 48, no 38; falta una decena en el acumulado."
+        },
+        {
+          "letter": "C",
+          "text": "348",
+          "is_correct": false,
+          "feedback": "240 + 48 = 288; 348 proviene de sumar mal las parciales."
+        },
+        {
+          "letter": "D",
+          "text": "248",
+          "is_correct": false,
+          "feedback": "Olvidó la decena completa del segundo factor: 24 × 10 = 240 no se contabilizó entero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Multiplicar por un número de dos cifras usa la propiedad distributiva: 24 × 12 = 24 × 10 + 24 × 2. Calcular las parciales por separado y sumarlas al final reduce errores de canje.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-4-2026-W01-multiplicacion-basica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-4-2026-W01-multiplicacion-basica-001-MASTERY-bundle-v5",
+      "statement": "¿Cuántas tortillas se hacen en 6 horas a ese ritmo?",
+      "context": "En una tortillería de Tijuana se hacen 350 tortillas por hora.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2,100",
+          "is_correct": true,
+          "feedback": "350 × 6 = 2,100; se puede pensar como 35 × 6 = 210 y agregar el cero."
+        },
+        {
+          "letter": "B",
+          "text": "1,800",
+          "is_correct": false,
+          "feedback": "1,800 sería 300 × 6; faltaron las 50 decenas por hora: 50 × 6 = 300 adicionales."
+        },
+        {
+          "letter": "C",
+          "text": "2,400",
+          "is_correct": false,
+          "feedback": "2,400 excede el cálculo; 350 × 6 no llega a esa cifra."
+        },
+        {
+          "letter": "D",
+          "text": "210",
+          "is_correct": false,
+          "feedback": "Al usar 35 × 6 = 210 hay que reintegrar el cero de 350; el resultado es 2,100."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Multiplicar múltiplos de diez permite un atajo: descomponer 350 como 35 × 10, calcular 35 × 6 = 210 y luego multiplicar por 10. La tasa constante (350 por hora) es una relación de proporcionalidad directa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-4-2026-W01-multiplicacion-basica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-4-2026-W01-multiplicacion-basica-001-MASTERY-bundle-v6",
+      "statement": "¿Por qué la verificación de la hermana es válida?",
+      "context": "Carlos multiplicó 125 × 8 y obtuvo 1,000. Su hermana dice que sin volver a hacer la cuenta completa puede verificar usando 1,000 ÷ 8.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la división es la operación inversa de la multiplicación y 1,000 ÷ 8 debe dar 125",
+          "is_correct": true,
+          "feedback": "Si 125 × 8 = 1,000 es cierto, entonces 1,000 ÷ 8 = 125 debe cumplirse; así se comprueba el resultado."
+        },
+        {
+          "letter": "B",
+          "text": "Porque dividir siempre da un número menor",
+          "is_correct": false,
+          "feedback": "Que el cociente sea menor no prueba que la multiplicación original sea correcta."
+        },
+        {
+          "letter": "C",
+          "text": "Porque 8 es un número par",
+          "is_correct": false,
+          "feedback": "La paridad del factor no tiene relación con la verificación de un producto."
+        },
+        {
+          "letter": "D",
+          "text": "Porque 1,000 termina en ceros",
+          "is_correct": false,
+          "feedback": "La terminación en ceros es coincidencia del resultado y no constituye una prueba."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Multiplicación y división son operaciones inversas: a × b = c implica c ÷ b = a. Verificar por la inversa es una estrategia elegante que además confirma la comprensión de la relación entre operaciones, no solo el cálculo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "MX-MAT-4-2026-W01-multiplicacion-basica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-4-2026-W01-multiplicacion-basica-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál comparación es correcta?",
+      "context": "Ximena vendió 14 paletas a $8 cada una y 12 aguas frescas a $10 cada una en el mercado de Guerrero. Quiere saber quién generó más ventas, si las paletas o las aguas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las paletas generaron $112 y las aguas $120; las aguas vendieron más",
+          "is_correct": true,
+          "feedback": "14 × 8 = 112 y 12 × 10 = 120; 120 es mayor que 112, así que las aguas aportaron más dinero."
+        },
+        {
+          "letter": "B",
+          "text": "Las paletas generaron $112 y las aguas $120; las paletas vendieron más",
+          "is_correct": false,
+          "feedback": "Los cálculos son correctos pero la conclusión no: 112 es menor que 120."
+        },
+        {
+          "letter": "C",
+          "text": "Las paletas generaron $122 y las aguas $120; las paletas vendieron más",
+          "is_correct": false,
+          "feedback": "14 × 8 es 112, no 122; hay un error en la primera parcial."
+        },
+        {
+          "letter": "D",
+          "text": "Las paletas generaron $112 y las aguas $108; las paletas vendieron más",
+          "is_correct": false,
+          "feedback": "12 × 10 es 120, no 108; se olvidó un cero al multiplicar por 10."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar ingresos exige calcular cada producto (precio por cantidad) y luego contrastar los totales. Analizar las opciones muestra cómo un pequeño error de cálculo puede invertir la conclusión, por eso conviene verificar cada producto por separado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "MX-MAT-4-2026-W01-multiplicacion-basica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-4-2026-W01-multiplicacion-basica-001-MASTERY-bundle-v8",
+      "statement": "¿Es correcta la sugerencia de la empleada?",
+      "context": "Se fabrican 12 cajas con 24 chocolates cada una para una caja de regalo. Una empleada sugiere: \"Si cambiamos a 18 cajas de 16 chocolates, repartimos la misma cantidad de chocolates\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque 12 × 24 = 288 y 18 × 16 = 288",
+          "is_correct": true,
+          "feedback": "Ambos productos dan 288 chocolates; la cantidad total se conserva aunque cambie la organización en cajas."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque 12 × 24 = 264",
+          "is_correct": false,
+          "feedback": "El producto 12 × 24 es 288; quien obtiene 264 suma mal las parciales."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque 18 × 16 = 268",
+          "is_correct": false,
+          "feedback": "18 × 16 = 18 × 10 + 18 × 6 = 180 + 108 = 288; 268 es un error de cálculo."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, porque cambiar filas y columnas nunca cambia el total",
+          "is_correct": false,
+          "feedback": "La conclusión acierta pero la justificación es vaga: lo que la respalda es que ambos productos valen 288, no una regla general."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar una propuesta exige calcular ambos productos de forma independiente: 12 × 24 = 288 y 18 × 16 = 288. Como coinciden, la reorganización conserva el total; la argumentación numérica es más sólida que una intuición verbal.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
+      "bundle_id": "MX-MAT-4-2026-W01-multiplicacion-basica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "mx"
+    }
+  ]
+}

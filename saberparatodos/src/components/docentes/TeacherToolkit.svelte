@@ -4,11 +4,11 @@
   import MathRenderer from '../MathRenderer.svelte';
   import { getAuthorityGuidelines } from '../../config/authority-guidelines';
 
-  let { runtimeCountry } = $props();
+  let { runtimeCountry = undefined, initialSubject = undefined, initialGrade = undefined } = $props();
 
   let activeTab = $state<'tools' | 'workshop' | 'diagnostic' | 'tracker'>('tools');
-  let selectedSubject = $state(runtimeCountry?.subjects?.[0]?.name || 'Matemáticas');
-  let selectedGrade = $state(11);
+  let selectedSubject = $state(initialSubject || runtimeCountry?.subjects?.[0]?.name || 'Matemáticas');
+  let selectedGrade = $state(initialGrade ? Number(initialGrade) : 11);
   let workshopQuestionCount = $state(10);
   let includeAnswerKey = $state(true);
   let isGeneratingWorkshop = $state(false);
