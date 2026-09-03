@@ -1,0 +1,54 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import ThreadedExplanation from '../../components/community/ThreadedExplanation.svelte';
+import { resolveRuntimeCountryConfig } from '../../config';
+
+export const prerender = false;
+
+const { question_id } = Astro.params;
+const questionId = question_id || 'co-math-11-001';
+
+const runtimeCountry = resolveRuntimeCountryConfig(Astro.locals.country);
+---
+
+<Layout
+  title={`Discusión y Explicaciones — ${questionId}`}
+  description={`Hilo colaborativo de argumentación y explicaciones pedagógicas para la pregunta ${questionId}`}
+>
+  <main class="min-h-screen bg-[#0A0A0B] text-zinc-100 py-12 px-4 sm:px-6 lg:px-8">
+    <div class="max-w-4xl mx-auto space-y-8">
+      <!-- Breadcrumb y navegación -->
+      <nav class="flex items-center gap-2 text-xs text-zinc-400 font-mono">
+        <a href="/" class="hover:text-emerald-400 transition-colors">Inicio</a>
+        <span>/</span>
+        <span class="text-zinc-500">Comunidad</span>
+        <span>/</span>
+        <span class="text-emerald-400">{questionId}</span>
+      </nav>
+
+      <!-- Header del contexto pedagógico -->
+      <header class="border-b border-zinc-800/80 pb-6">
+        <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/20 text-emerald-400 text-xs font-mono mb-3 uppercase tracking-wider">
+          {runtimeCountry.examFullName} • Pregunta {questionId}
+        </div>
+        <h1 class="text-2xl sm:text-3xl font-bold tracking-tight text-[#F5F5DC]">
+          Hilos de Explicación Colaborativa
+        </h1>
+        <p class="mt-2 text-sm text-zinc-400 leading-relaxed max-w-2xl">
+          Aportes, contraejemplos pedagógicos y desgloses paso a paso auditados por la red comunitaria.
+        </p>
+      </header>
+
+      <!-- Montaje del componente con client:load -->
+      <section>
+        <ThreadedExplanation
+          client:load
+          explanationId={`exp-${questionId}`}
+          questionId={questionId}
+          explanationContent={`Explicación de referencia para la pregunta ${questionId}: Análisis paso a paso de los conceptos evaluados, descarte sistemático de distractores y justificación de la clave correcta.`}
+          authorHash="node-curator-swal"
+        />
+      </section>
+    </div>
+  </main>
+</Layout>
