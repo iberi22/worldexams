@@ -202,6 +202,20 @@ A: Abre un issue en GitHub o contacta a BELA (@iberi22) en Telegram.
 
 ---
 
+## 🌐 Red SWAL y Comunidad
+
+WorldExamns es parte del ecosistema **Southwest AI Labs (SWAL)** — una red de proyectos de código abierto enfocados en educación y tecnología en Latinoamérica.
+
+**Participar en SWAL:**
+- Backlog global de proyectos: consulta con los mantenedores
+- Proceso de contribución: Issue → PR → Review → Merge (protocolo GitCore)
+- Documentación de estándares: `docs/SWAL/GOAL.md`
+- Para colaboración institucional o comercial: contacta a los mantenedores
+
+Este proyecto opera bajo el principio de **"maloca"** — colaboración comunitaria donde cada participante aporta según sus capacidades y recibe según sus necesidades.
+
+---
+
 ## 📬 Contacto
 
 - **Propietario:** BELA (Brahyan Belalcazar) — @iberi22
