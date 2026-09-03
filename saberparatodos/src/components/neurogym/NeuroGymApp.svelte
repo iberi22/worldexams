@@ -8,11 +8,12 @@
   import NeuroInstitutionalShareModal from './NeuroInstitutionalShareModal.svelte';
   import NeuroAudioStation from './NeuroAudioStation.svelte';
   import WebGPUMentalRotation from './stimuli/WebGPUMentalRotation.svelte';
+  import DualNBackStimulus from './stimuli/DualNBackStimulus.svelte';
   import NeuroAgentCoachView from './NeuroAgentCoachView.svelte';
   import { getNeuroSessionsHistory, type StoredNeuroSession } from '../../lib/neurogym/neuro-storage';
   import { computeCognitiveProfile, type FullCognitiveProfile } from '../../lib/neurogym/scoring-cognitive';
 
-  type Tab = 'evaluacion' | 'entrenar' | 'webgpu' | 'agente' | 'duelo' | 'radar' | 'audio' | 'talleres' | 'orientacion';
+  type Tab = 'evaluacion' | 'entrenar' | 'nback' | 'webgpu' | 'agente' | 'duelo' | 'radar' | 'audio' | 'talleres' | 'orientacion';
 
   let activeTab = $state<Tab>('evaluacion');
   let historySessions = $state<StoredNeuroSession[]>([]);
@@ -25,7 +26,8 @@
     processingSpeed: { avgReactionMs: 260, stroopInterferenceMs: 45, errorRate: 0.05 },
     motorCoordination: { tapsPer10s: 55, goNoGoAccuracy: 0.90, motorJitterMs: 15 },
     analyticalFlexibility: { ruleSwitchesSuccess: 10, totalRuleTrials: 14 },
-    quantitativeReasoning: { correct: 7, total: 10, avgTimeMs: 9000 }
+    quantitativeReasoning: { correct: 7, total: 10, avgTimeMs: 9000 },
+    verbalComprehension: { correct: 8, total: 10, avgTimeMs: 4000 }
   });
 
   let latestProfile = $derived.by(() => {
@@ -92,6 +94,13 @@
     </button>
     <button
       type="button"
+      onclick={() => activeTab = 'nback'}
+      class="py-3 px-5 rounded-2xl font-bold uppercase tracking-wider text-xs whitespace-nowrap transition-all cursor-pointer {activeTab === 'nback' ? 'bg-emerald-400 text-black shadow-[0_0_20px_rgba(52,211,153,0.4)]' : 'bg-white/5 border border-white/15 text-white/70 hover:bg-white/10'}"
+    >
+      🎵 Dual N-Back
+    </button>
+    <button
+      type="button"
       onclick={() => activeTab = 'webgpu'}
       class="py-3 px-5 rounded-2xl font-bold uppercase tracking-wider text-xs whitespace-nowrap transition-all cursor-pointer {activeTab === 'webgpu' ? 'bg-gradient-to-r from-emerald-400 to-teal-400 text-black shadow-[0_0_20px_rgba(52,211,153,0.4)]' : 'bg-white/5 border border-white/15 text-white/70 hover:bg-white/10'}"
     >
@@ -147,6 +156,10 @@
       <NeuroBatteryRunner />
     {:else if activeTab === 'entrenar'}
       <NeuroDailyWorkoutHub onWorkoutFinished={loadHistory} />
+    {:else if activeTab === 'nback'}
+      <div class="p-6 bg-black/60 border border-white/15 rounded-3xl space-y-4 shadow-xl">
+        <DualNBackStimulus />
+      </div>
     {:else if activeTab === 'webgpu'}
       <div class="p-6 bg-black/60 border border-white/15 rounded-3xl space-y-4 shadow-xl">
         <WebGPUMentalRotation />
