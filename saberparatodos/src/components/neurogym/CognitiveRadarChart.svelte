@@ -8,35 +8,35 @@
 
   let { profile, size = 320 }: Props = $props();
 
-  const center = size / 2;
-  const radius = size * 0.38;
+  const center = $derived(size / 2);
+  const radius = $derived(size * 0.38);
 
   // 5 Ejes cognitivos
-  const axes = [
+  const axes = $derived([
     { label: 'Razonamiento (IQ)', score: profile.overallIQProxy.standardScore },
     { label: 'Memoria Trabajo', score: profile.workingMemory.standardScore },
     { label: 'Velocidad (PSI)', score: profile.processingSpeed.standardScore },
     { label: 'Agilidad Motora', score: profile.motorAgility.standardScore },
     { label: 'Flexibilidad', score: profile.analyticalFlexibility.standardScore }
-  ];
+  ]);
 
   // Mapea standard score (40 - 160) a distancia desde el centro [0, radius]
-  function scoreToRadius(score: number): number {
+  function scoreToRadius(score: number, rMax: number): number {
     const clamped = Math.max(40, Math.min(160, score));
-    return ((clamped - 40) / 120) * radius;
+    return ((clamped - 40) / 120) * rMax;
   }
 
-  function getPoint(angleRad: number, r: number) {
-    const x = center + r * Math.sin(angleRad);
-    const y = center - r * Math.cos(angleRad);
+  function getPoint(angleRad: number, r: number, c: number) {
+    const x = c + r * Math.sin(angleRad);
+    const y = c - r * Math.cos(angleRad);
     return { x, y };
   }
 
   // Genera polígono para una distancia constante
-  function getPolygonPoints(r: number): string {
+  function getPolygonPoints(r: number, c: number): string {
     return axes.map((_, i) => {
       const angle = (i * 2 * Math.PI) / axes.length;
-      const pt = getPoint(angle, r);
+      const pt = getPoint(angle, r, c);
       return `${pt.x.toFixed(1)},${pt.y.toFixed(1)}`;
     }).join(' ');
   }
@@ -45,23 +45,37 @@
   let userPolygonPoints = $derived.by(() => {
     return axes.map((axis, i) => {
       const angle = (i * 2 * Math.PI) / axes.length;
-      const r = scoreToRadius(axis.score);
-      const pt = getPoint(angle, r);
+      const r = scoreToRadius(axis.score, radius);
+      const pt = getPoint(angle, r, center);
       return `${pt.x.toFixed(1)},${pt.y.toFixed(1)}`;
     }).join(' ');
   });
 
   // Polígono baseline (Score 100)
-  const baselineRadius = scoreToRadius(100);
-  const baselinePoints = getPolygonPoints(baselineRadius);
+  let baselineRadius = $derived(scoreToRadius(100, radius));
+  let baselinePoints = $derived(getPolygonPoints(baselineRadius, center));
+
+  let chartSummary = $derived(
+    axes.map(a => `${a.label}: ${a.score}`).join(', ')
+  );
 </script>
 
 <div class="flex flex-col items-center justify-center p-4 bg-black/60 border border-white/15 rounded-3xl shadow-xl">
-  <svg width={size} height={size} viewBox="0 0 {size} {size}" class="overflow-visible">
+  <svg
+    width={size}
+    height={size}
+    viewBox="0 0 {size} {size}"
+    class="overflow-visible"
+    role="img"
+    aria-label="Gráfico pentagonal de radar cognitivo: {chartSummary}"
+  >
+    <title>Perfil Cognitivo NeuroGym</title>
+    <desc>Gráfico pentagonal con 5 ejes cognitivos: {chartSummary}</desc>
+
     <!-- Concentric Background Grid Rings -->
     {#each [0.25, 0.5, 0.75, 1] as fraction}
       <polygon
-        points={getPolygonPoints(radius * fraction)}
+        points={getPolygonPoints(radius * fraction, center)}
         fill="none"
         stroke="rgba(255,255,255,0.08)"
         stroke-width="1"
@@ -80,7 +94,7 @@
     <!-- Radial Axis Lines -->
     {#each axes as _, i}
       {@const angle = (i * 2 * Math.PI) / axes.length}
-      {@const endPt = getPoint(angle, radius)}
+      {@const endPt = getPoint(angle, radius, center)}
       <line
         x1={center}
         y1={center}
@@ -103,9 +117,9 @@
     <!-- User Axis Data Points & Labels -->
     {#each axes as axis, i}
       {@const angle = (i * 2 * Math.PI) / axes.length}
-      {@const r = scoreToRadius(axis.score)}
-      {@const pt = getPoint(angle, r)}
-      {@const labelPt = getPoint(angle, radius + 22)}
+      {@const r = scoreToRadius(axis.score, radius)}
+      {@const pt = getPoint(angle, r, center)}
+      {@const labelPt = getPoint(angle, radius + 22, center)}
 
       <circle
         cx={pt.x}
@@ -114,7 +128,9 @@
         fill="#34d399"
         stroke="#000"
         stroke-width="1.5"
-      />
+      >
+        <title>{axis.label}: {axis.score} pts</title>
+      </circle>
 
       <text
         x={labelPt.x}
