@@ -1,6 +1,7 @@
 import { describe, it, expect, beforeEach } from 'vitest';
 import {
   createCorrection,
+  generatePatch,
   reviewCorrection,
   exportPatch,
   getCorrection,
@@ -153,5 +154,64 @@ describe('Corrections Pipeline — createCorrection, reviewCorrection, exportPat
     expect(exportedMd).toContain('## Question CO-MAT-8-2026-W03-algebra-001-v5');
     expect(exportedMd).toContain('### Patch Diff (v5.2)');
     expect(exportedMd).toContain('never auto-published to questions_data/');
+  });
+
+  it('generatePatch builds unified diff showing additions and subtractions', async () => {
+    const orig = 'Línea 1: Cálculo inicial\nLínea 2: Valor = 10 m/s';
+    const prop = 'Línea 1: Cálculo inicial\nLínea 2: Valor = 9.8 m/s²';
+
+    const report = await createCorrection({
+      question_id: 'CO-FIS-11-DIFF-001',
+      question_bundle_path: 'questions_data/test/diff-bundle.md',
+      error_type: 'error_factual',
+      description: 'Ajuste de unidades y precisión física en la constante de aceleración de la gravedad terrestre.'.repeat(2),
+      reporter_node_hash: 'node-diff-reporter',
+      original_content: orig,
+      proposed_content: prop,
+    });
+
+    const patches = await generatePatch(report);
+    expect(patches).toHaveLength(1);
+    expect(patches[0].file_path).toBe('questions_data/test/diff-bundle.md');
+    expect(patches[0].diff_unified).toContain('--- a/questions_data/test/diff-bundle.md');
+    expect(patches[0].diff_unified).toContain('+++ b/questions_data/test/diff-bundle.md');
+    expect(patches[0].diff_unified).toContain('-Línea 2: Valor = 10 m/s');
+    expect(patches[0].diff_unified).toContain('+Línea 2: Valor = 9.8 m/s²');
+  });
+
+  it('verifies state transitions: draft -> reviewing -> approved and draft -> reviewing -> rejected', async () => {
+    const desc = 'Validación completa del ciclo de estados para el workflow de auditoría colaborativa.'.repeat(2);
+    const r1 = await createCorrection({
+      question_id: 'Q-STATE-1',
+      question_bundle_path: 'path/bundle1.md',
+      error_type: 'error_distractor',
+      description: desc,
+      reporter_node_hash: 'reporter-1',
+    });
+
+    expect(r1.status).toBe('draft');
+
+    // 1st approval -> reviewing
+    const reviewing = await reviewCorrection(r1.id, { reviewer_node_hash: 'rev-a', vote: 'approve' });
+    expect(reviewing.status).toBe('reviewing');
+
+    // 2nd approval -> approved
+    const approved = await reviewCorrection(r1.id, { reviewer_node_hash: 'rev-b', vote: 'approve' });
+    expect(approved.status).toBe('approved');
+
+    // Second report for rejection
+    const r2 = await createCorrection({
+      question_id: 'Q-STATE-2',
+      question_bundle_path: 'path/bundle2.md',
+      error_type: 'other',
+      description: desc,
+      reporter_node_hash: 'reporter-2',
+    });
+
+    const rev2 = await reviewCorrection(r2.id, { reviewer_node_hash: 'rev-x', vote: 'reject' });
+    expect(rev2.status).toBe('reviewing');
+
+    const rejected = await reviewCorrection(r2.id, { reviewer_node_hash: 'rev-y', vote: 'reject' });
+    expect(rejected.status).toBe('rejected');
   });
 });
