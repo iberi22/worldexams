@@ -13,7 +13,11 @@ export default defineConfig({
   test: {
     globals: true,
     environment: 'jsdom',
-    include: ['src/**/*.{test,spec}.{js,ts,jsx,tsx}', 'saberparatodos/src/**/*.{test,spec}.{js,ts,jsx,tsx}', 'apps/**/*.{test,spec}.{js,ts,jsx,tsx}'],
-    exclude: ['node_modules', 'dist', '.astro', 'tests/e2e/**'],
+    include: [
+      'src/**/*.{test,spec}.{js,ts,jsx,tsx}',
+      'saberparatodos/src/**/*.{test,spec}.{js,ts,jsx,tsx}',
+      'apps/**/src/**/*.{test,spec}.{js,ts,jsx,tsx}',
+    ],
+    exclude: ['**/node_modules/**', '**/dist/**', '**/.astro/**', 'tests/e2e/**'],
   },
 });
