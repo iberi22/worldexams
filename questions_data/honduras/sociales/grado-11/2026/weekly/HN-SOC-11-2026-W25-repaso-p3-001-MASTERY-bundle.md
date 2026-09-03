@@ -18,6 +18,7 @@ rubric_baseline: "Repaso P3 - Grado 11 - Ciencias Sociales"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
+bundle_index: 1
 ---
 
 # Bundle MASTERY: Repaso P3 - Grado 11

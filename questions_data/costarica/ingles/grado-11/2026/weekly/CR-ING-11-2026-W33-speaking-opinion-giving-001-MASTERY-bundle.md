@@ -15,6 +15,7 @@ alignment: "Curriculo de Ingles"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
+bundle_index: 1
 ---
 # MASTERY Bundle - Ingles: Speaking Opinion Giving (W33)
 **20 preguntas | Ingles | Curriculo de Ingles**

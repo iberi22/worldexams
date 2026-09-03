@@ -15,6 +15,7 @@ alignment: "MINEDU - Ley Educativa Avelino Siñani - Elizardo Pérez"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
+bundle_index: 1
 ---
 
 # MASTERY Bundle - Lengua: Tipología textual: texto argumentativo (W08)

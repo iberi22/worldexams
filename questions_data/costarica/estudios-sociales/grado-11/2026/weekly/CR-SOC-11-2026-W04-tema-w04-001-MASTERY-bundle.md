@@ -15,6 +15,7 @@ alignment: "MEP Costa Rica Bachillerato 2026"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
+bundle_index: 1
 ---
 # Bundle MASTERY: Desigualdad en un Mundo Globalizado - Grado 11
 Este bundle contiene 20 preguntas sobre **desigualdad en un mundo globalizado** para grado 11,

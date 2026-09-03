@@ -15,6 +15,7 @@ alignment: "ANEP - Plan 2006 Reformulación / Programa Ubicación"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
+bundle_index: 1
 ---
 
 # MASTERY Bundle - Ciencias Sociales: La dictadura cívico-militar y la transición democrática (W10)

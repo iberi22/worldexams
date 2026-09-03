@@ -15,6 +15,7 @@ alignment: "ANEP - Plan 2006 Reformulación / Programa Ubicación"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
+bundle_index: 1
 ---
 
 # MASTERY Bundle — Matemáticas: Funciones Lineales y Cuadráticas (UY-MAT-11-W05)

@@ -15,6 +15,7 @@ alignment: "DEPR + PAA (College Board)"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
+bundle_index: 1
 ---
 
 ## Bloque A — Nivel D3–D4: Fundamentos e Introducción a Operaciones con Números Reales

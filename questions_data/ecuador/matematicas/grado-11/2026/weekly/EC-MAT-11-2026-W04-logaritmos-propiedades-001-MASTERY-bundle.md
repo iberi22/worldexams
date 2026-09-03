@@ -15,6 +15,7 @@ alignment: "BGU Ministerio de Educacion Ecuador / SENESCYT"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
+bundle_index: 1
 ---
 
 # MASTERY Bundle — Logaritmos y sus Propiedades (W04)
