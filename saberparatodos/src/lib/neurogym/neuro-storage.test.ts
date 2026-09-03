@@ -1,5 +1,11 @@
 import { describe, it, expect, beforeEach } from 'vitest';
-import { saveNeuroSession, getNeuroSessionsHistory, getStreakInfo, clearNeuroHistory } from './neuro-storage';
+import {
+  saveNeuroSession,
+  getNeuroSessionsHistory,
+  getLatestCognitiveRadar,
+  getStreakInfo,
+  clearNeuroHistory
+} from './neuro-storage';
 import { computeCognitiveProfile, type RawCognitiveScores } from './scoring-cognitive';
 
 describe('NeuroGym Sovereign Local Storage Engine', () => {
@@ -7,7 +13,12 @@ describe('NeuroGym Sovereign Local Storage Engine', () => {
     await clearNeuroHistory();
   });
 
-  it('saves and retrieves neuro sessions locally', async () => {
+  it('returns null for getLatestCognitiveRadar when no sessions exist', async () => {
+    const radar = await getLatestCognitiveRadar();
+    expect(radar).toBeNull();
+  });
+
+  it('saves and retrieves neuro sessions locally and extracts radar data', async () => {
     const rawData: RawCognitiveScores = {
       fluidReasoningRaw: { correct: 15, total: 20, avgTimeMs: 10000 },
       workingMemorySpan: { maxNLevel: 3, corsiSpan: 6, accuracy: 0.88 },
@@ -26,6 +37,12 @@ describe('NeuroGym Sovereign Local Storage Engine', () => {
     expect(history.length).toBe(1);
     expect(history[0].id).toBe(sessionId);
     expect(history[0].profile.overallIQProxy.standardScore).toBe(profile.overallIQProxy.standardScore);
+
+    const radar = await getLatestCognitiveRadar();
+    expect(radar).not.toBeNull();
+    expect(radar?.labels).toContain('Razonamiento (IQ)');
+    expect(radar?.values.length).toBe(7);
+    expect(radar?.values[0]).toBe(profile.overallIQProxy.standardScore);
   });
 
   it('manages daily streak calculations without server leaks', () => {

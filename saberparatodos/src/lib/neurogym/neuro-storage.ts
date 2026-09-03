@@ -88,6 +88,42 @@ export async function saveNeuroSession(profile: FullCognitiveProfile): Promise<s
 /**
  * Obtiene el historial de sesiones almacenadas (hasta maxCount)
  */
+export interface CognitiveRadarData {
+  labels: string[];
+  values: number[];
+}
+
+/**
+ * Obtiene el último perfil psicométrico en formato simplificado para el gráfico Radar
+ */
+export async function getLatestCognitiveRadar(): Promise<CognitiveRadarData | null> {
+  const history = await getNeuroSessionsHistory(1);
+  if (!history || history.length === 0) {
+    return null;
+  }
+  const latest = history[0].profile;
+  return {
+    labels: [
+      'Razonamiento (IQ)',
+      'Memoria Trabajo',
+      'Velocidad (PSI)',
+      'Agilidad Motora',
+      'Flexibilidad',
+      'Comprensión Verbal',
+      'Razonamiento Cuantitativo'
+    ],
+    values: [
+      latest.overallIQProxy.standardScore,
+      latest.workingMemory.standardScore,
+      latest.processingSpeed.standardScore,
+      latest.motorAgility.standardScore,
+      latest.analyticalFlexibility.standardScore,
+      latest.verbalComprehension?.standardScore ?? 100,
+      latest.quantitativeReasoning?.standardScore ?? 100
+    ]
+  };
+}
+
 export async function getNeuroSessionsHistory(maxCount = 30): Promise<StoredNeuroSession[]> {
   const db = await openDB();
   if (!db) {
