@@ -1,0 +1,30 @@
+/**
+ * saberparatodos/src/pages/api/analytics/dashboard.astro
+ * T9 — Analytics dashboard page (Svelte) for premium API.
+ *
+ * Renders real usage charts and quota tracking.
+ * Wired to /api/analytics/usage for live data.
+ */
+---
+import Layout from '../../../layouts/Layout.astro';
+import AnalyticsDashboard from '../../../components/analytics/AnalyticsDashboard.svelte';
+
+const apiKey = Astro.url.searchParams.get('key') || 'demo';
+const days = parseInt(Astro.url.searchParams.get('days') || '30', 10);
+const title = 'API Analytics Dashboard · WorldExams Premium';
+---
+
+<Layout title={title} description="Real-time usage analytics for WorldExams Premium API">
+  <main class="min-h-screen bg-slate-950 text-slate-100 p-4 sm:p-6 lg:p-8">
+    <header class="mb-6 max-w-6xl mx-auto">
+      <h1 class="text-3xl font-extrabold tracking-tight">API Analytics</h1>
+      <p class="text-sm text-slate-400 mt-2">
+        Real-time usage data for API key <code class="text-amber-300">{apiKey}</code>
+        · last {days} days
+      </p>
+    </header>
+    <div class="max-w-6xl mx-auto">
+      <AnalyticsDashboard client:load apiKey={apiKey} days={days} />
+    </div>
+  </main>
+</Layout>
