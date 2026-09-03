@@ -6,6 +6,9 @@ import { resolveRuntimeCountryConfig } from '../../config';
 export const prerender = false;
 
 const runtimeCountry = resolveRuntimeCountryConfig(Astro.locals.country);
+
+const questionId = Astro.url.searchParams.get('question_id') || undefined;
+const bundlePath = Astro.url.searchParams.get('bundle_path') || undefined;
 ---
 
 <Layout
@@ -38,7 +41,7 @@ const runtimeCountry = resolveRuntimeCountryConfig(Astro.locals.country);
 
       <!-- Componente interactivo -->
       <section>
-        <CorrectionThread client:load />
+        <CorrectionThread client:load initialQuestionId={questionId} initialBundlePath={bundlePath} />
       </section>
     </div>
   </main>
