@@ -8,11 +8,12 @@
   import NeuroInstitutionalShareModal from './NeuroInstitutionalShareModal.svelte';
   import NeuroAudioStation from './NeuroAudioStation.svelte';
   import WebGPUMentalRotation from './stimuli/WebGPUMentalRotation.svelte';
+  import CardSortingStimulus from './stimuli/CardSortingStimulus.svelte';
   import NeuroAgentCoachView from './NeuroAgentCoachView.svelte';
   import { getNeuroSessionsHistory, type StoredNeuroSession } from '../../lib/neurogym/neuro-storage';
   import { computeCognitiveProfile, type FullCognitiveProfile } from '../../lib/neurogym/scoring-cognitive';
 
-  type Tab = 'evaluacion' | 'entrenar' | 'webgpu' | 'agente' | 'duelo' | 'radar' | 'audio' | 'talleres' | 'orientacion';
+  type Tab = 'evaluacion' | 'entrenar' | 'wcst' | 'webgpu' | 'agente' | 'duelo' | 'radar' | 'audio' | 'talleres' | 'orientacion';
 
   let activeTab = $state<Tab>('evaluacion');
   let historySessions = $state<StoredNeuroSession[]>([]);
@@ -92,6 +93,13 @@
     </button>
     <button
       type="button"
+      onclick={() => activeTab = 'wcst'}
+      class="py-3 px-5 rounded-2xl font-bold uppercase tracking-wider text-xs whitespace-nowrap transition-all cursor-pointer {activeTab === 'wcst' ? 'bg-pink-500 text-white shadow-[0_0_20px_rgba(236,72,153,0.4)]' : 'bg-white/5 border border-white/15 text-white/70 hover:bg-white/10'}"
+    >
+      🎴 Clasificación (WCST)
+    </button>
+    <button
+      type="button"
       onclick={() => activeTab = 'webgpu'}
       class="py-3 px-5 rounded-2xl font-bold uppercase tracking-wider text-xs whitespace-nowrap transition-all cursor-pointer {activeTab === 'webgpu' ? 'bg-gradient-to-r from-emerald-400 to-teal-400 text-black shadow-[0_0_20px_rgba(52,211,153,0.4)]' : 'bg-white/5 border border-white/15 text-white/70 hover:bg-white/10'}"
     >
@@ -147,6 +155,10 @@
       <NeuroBatteryRunner />
     {:else if activeTab === 'entrenar'}
       <NeuroDailyWorkoutHub onWorkoutFinished={loadHistory} />
+    {:else if activeTab === 'wcst'}
+      <div class="p-6 bg-black/60 border border-white/15 rounded-3xl space-y-4 shadow-xl">
+        <CardSortingStimulus />
+      </div>
     {:else if activeTab === 'webgpu'}
       <div class="p-6 bg-black/60 border border-white/15 rounded-3xl space-y-4 shadow-xl">
         <WebGPUMentalRotation />
