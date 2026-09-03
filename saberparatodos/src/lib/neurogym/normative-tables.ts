@@ -116,10 +116,18 @@ export const AGE_NORMATIVE_TABLES: Record<string, AgeNormativeProfile> = {
  * Obtiene el perfil normativo por grado escolar o edad
  */
 export function getAgeAdjustedNorms(gradeOrAgeGroup: number | string): AgeNormativeProfile {
-  if (typeof gradeOrAgeGroup === 'number') {
-    if (gradeOrAgeGroup <= 5) return AGE_NORMATIVE_TABLES.child_8_10;
-    if (gradeOrAgeGroup <= 8) return AGE_NORMATIVE_TABLES.adolescent_11_13;
-    if (gradeOrAgeGroup <= 10) return AGE_NORMATIVE_TABLES.youth_14_16;
+  if (typeof gradeOrAgeGroup === 'string' && AGE_NORMATIVE_TABLES[gradeOrAgeGroup]) {
+    return AGE_NORMATIVE_TABLES[gradeOrAgeGroup];
+  }
+
+  const numericGrade = typeof gradeOrAgeGroup === 'number'
+    ? gradeOrAgeGroup
+    : (typeof gradeOrAgeGroup === 'string' && !isNaN(Number(gradeOrAgeGroup)) && gradeOrAgeGroup.trim() !== '' ? Number(gradeOrAgeGroup) : NaN);
+
+  if (!isNaN(numericGrade)) {
+    if (numericGrade <= 5) return AGE_NORMATIVE_TABLES.child_8_10;
+    if (numericGrade <= 8) return AGE_NORMATIVE_TABLES.adolescent_11_13;
+    if (numericGrade <= 10) return AGE_NORMATIVE_TABLES.youth_14_16;
     return AGE_NORMATIVE_TABLES.preuni_17_18;
   }
 
