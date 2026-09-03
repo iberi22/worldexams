@@ -18,7 +18,7 @@ const { questions = [] } = Astro.props;
   <p id="qe-count" class="mt-3 hidden text-xs text-white/40"></p>
 </div>
 
-<script define:vars={{ initial: questions }}>
+<script define:vars={{ initial: questions }} is:inline>
   // Types for editor state
   const BLOOM_OPTS = ['Remember', 'Understand', 'Apply', 'Analyze', 'Evaluate', 'Create'];
   const DIFF_OPTS = ['D3-D4', 'D5-D6', 'D7-D8', 'D9-D10'];
