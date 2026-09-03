@@ -450,7 +450,7 @@ Para valorar los efectos del conflicto armado colombiano en la vida ciudadana, l
 ### Opciones
 - [ ] A) Sus consecuencias se limitaron a daños materiales en zonas rurales distantes
   <!-- feedback: El registro oficial supera los ocho millones de víctimas victimizadas, con desplazados, desaparecidos y un impacto urbano y generacional profundo. -->
-- [ ] B) Generó una desmovilización social que debilitó la confianza en las instituciones, el derecho a la participación y la seguridad personal de generaciones enteras
+- [x] B) Generó una desmovilización social que debilitó la confianza en las instituciones, el derecho a la participación y la seguridad personal de generaciones enteras
   <!-- feedback: El miedo, el despojo y la fragmentación del tejido social son efectos documentados: la desconfianza institucional y el autorretraimiento tienen raíces en la experiencia de la guerra. -->
 - [ ] C) Afectó únicamente a combatientes de los distintos bandos
   <!-- feedback: La mayoría de víctimas fueron civiles: desplazados, campesinos, mujeres, pueblos indígenas y afrocolombianos. -->

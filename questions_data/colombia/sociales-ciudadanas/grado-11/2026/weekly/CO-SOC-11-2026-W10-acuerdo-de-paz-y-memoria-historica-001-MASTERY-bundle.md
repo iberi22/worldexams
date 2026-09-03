@@ -340,8 +340,6 @@ La Corte Interamericana de Derechos Humanos influyó en el diseño de la justici
 - [ ] C) Ordenó secretamente la liberación de todos los secuestrados
   <!-- feedback: La liberación de secuestrados dependió de operaciones, negociaciones y decisiones internas, no de un fallo secreto. -->
 - [ ] D) Reemplazó a la Corte Constitucional en el examen de los actos legislativos de paz
-
-### Opciones: - [ ] D) Reemplazó a la Corte Constitucional en el examen de los actos legislativos de paz
   <!-- feedback: La Corte Constitucional colombiana hizo el control de constitucionalidad del marco para la paz; los órganos internacionales no sustituyen al juez constitucional interno. -->
 
 ### Explicacion Pedagogica
@@ -381,7 +379,7 @@ El CNMH ha documentado el conflicto en informes nacionales y regionales, con mus
 Entre los principales desafíos de implementación del Acuerdo Final documentados por instituciones y observatorios se cuenta oor
 
 ### Opciones
-- [ ] A) Los asesinatos de excombatientes en reincorporación y de líderes sociales, y la demora en la reforma rural y la protección territorial en zonas olvidadas
+- [x] A) Los asesinatos de excombatientes en reincorporación y de líderes sociales, y la demora en la reforma rural y la protección territorial en zonas olvidadas
   <!-- feedback: Los informes de la Misión de Verificación de la ONU, la Defensoría y el partido FARC han documentado cientos de homicidios de firmantes de paz y de líderes sociales, síntoma de economías criminales activas e insuficiente presencia integral del Estado. -->
 - [ ] B) La inexistencia de un partido político surgido del acuerdo
   <!-- feedback: El partido existe desde 2017, con representación en el Congreso gracias a las curules de la circunscripción de paz. -->
