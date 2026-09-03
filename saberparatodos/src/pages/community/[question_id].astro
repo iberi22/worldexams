@@ -1,12 +1,16 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import MathRenderer from '../../components/MathRenderer.svelte';
 import ThreadedExplanation from '../../components/community/ThreadedExplanation.svelte';
 import { resolveRuntimeCountryConfig } from '../../config';
+import { getLocalGrade11QuestionById } from '../../lib/questions/grade11-local-bank';
 
 export const prerender = false;
 
 const { question_id } = Astro.params;
 const questionId = question_id || 'co-math-11-001';
+
+const localQuestion = getLocalGrade11QuestionById(questionId);
 
 const runtimeCountry = resolveRuntimeCountryConfig(Astro.locals.country);
 ---
@@ -38,6 +42,64 @@ const runtimeCountry = resolveRuntimeCountryConfig(Astro.locals.country);
           Aportes, contraejemplos pedagógicos y desgloses paso a paso auditados por la red comunitaria.
         </p>
       </div>
+
+      <!-- Tarjeta del Enunciado Completo si está en el Banco Local -->
+      {localQuestion && (
+        <section class="bg-zinc-900/90 border border-zinc-800 rounded-2xl p-6 shadow-xl space-y-4">
+          <div class="flex items-center justify-between text-xs font-mono text-zinc-400 border-b border-zinc-800/80 pb-3">
+            <span class="bg-emerald-500/20 text-emerald-300 px-2.5 py-1 rounded-full font-semibold">
+              {localQuestion.subject.toUpperCase()} • Grado {localQuestion.grade}
+            </span>
+            <span>Dificultad: {localQuestion.difficulty}/10</span>
+          </div>
+
+          <div class="text-base sm:text-lg text-zinc-100 font-medium leading-relaxed pt-1">
+            <MathRenderer content={localQuestion.statement} client:load />
+          </div>
+
+          <div class="grid gap-2.5 pt-2">
+            {localQuestion.options.map((opt) => (
+              <div
+                class={`p-3.5 rounded-xl border text-sm flex items-center justify-between transition ${
+                  opt.isCorrect
+                    ? 'bg-emerald-950/40 border-emerald-500/50 text-emerald-200'
+                    : 'bg-zinc-950/60 border-zinc-800 text-zinc-300'
+                }`}
+              >
+                <span class="flex items-start gap-2">
+                  <strong class="text-zinc-100 font-bold">{opt.id}.</strong>
+                  <span><MathRenderer content={opt.text} client:load /></span>
+                </span>
+                {opt.isCorrect && (
+                  <span class="text-xs font-bold bg-emerald-500 text-slate-950 px-2 py-0.5 rounded-md shrink-0">
+                    Clave Correcta
+                  </span>
+                )}
+              </div>
+            ))}
+          </div>
+
+          {localQuestion.explanation && (
+            <div class="pt-3 border-t border-zinc-800/80">
+              <span class="text-xs font-bold text-emerald-400 uppercase tracking-wider block mb-1">
+                💡 Explicación de Referencia
+              </span>
+              <div class="text-xs sm:text-sm text-zinc-300 leading-relaxed bg-zinc-950/80 p-3.5 rounded-xl border border-zinc-800/80">
+                <MathRenderer content={localQuestion.explanation} client:load />
+              </div>
+            </div>
+          )}
+
+          <div class="pt-2 flex justify-end">
+            <a
+              href={`/corrections?question_id=${encodeURIComponent(localQuestion.id)}&bundle_path=${encodeURIComponent(localQuestion.bundle_path || '')}`}
+              class="inline-flex items-center gap-1.5 text-xs text-amber-400 hover:text-amber-300 font-semibold transition"
+            >
+              <span>🛠️</span> Reportar inconsistencia en esta pregunta
+            </a>
+          </div>
+        </section>
+      )}
 
       <!-- Montaje del componente con client:load -->
       <section>

@@ -1,7 +1,7 @@
 import { countryConfig } from '../../config';
 import { isBundleQuarantined } from './quarantine-registry';
 
-type LocalBankQuestion = {
+export type LocalBankQuestion = {
   id: string;
   statement: string;
   subject: string;
@@ -11,6 +11,7 @@ type LocalBankQuestion = {
   correctOptionId?: string;
   explanation?: string;
   bundle_id: string;
+  bundle_path?: string;
   tema?: string;
   periodo?: number;
   protocol_version?: string;
@@ -18,7 +19,7 @@ type LocalBankQuestion = {
   bundleStatus?: string;
 };
 
-const rawGrade11Bundles = import.meta.glob('../../../../questions_data/colombia/**/grado-11/**/CO-*-W01-*.md', {
+const rawGrade11Bundles = import.meta.glob('../../../../questions_data/colombia/**/grado-11/**/*.md', {
   query: '?raw',
   import: 'default',
   eager: true,
@@ -171,6 +172,7 @@ function parseLocalBundle(filePath: string, raw: string): LocalBankQuestion[] {
         correctOptionId: correctOption.id,
         explanation: parseExplanation(section),
         bundle_id: bundleId,
+        bundle_path: relativeBundlePath,
         tema: topic,
         periodo: period,
         protocol_version: frontmatter.protocol_version || undefined,
@@ -193,4 +195,10 @@ export function getLocalGrade11Questions(subject?: string | null): LocalBankQues
   const questions = Array.from(parsedGrade11LocalBank.values());
   if (!normalizedSubject) return questions;
   return questions.filter((question) => question.subject === normalizedSubject);
+}
+
+export function getLocalGrade11QuestionById(id: string): LocalBankQuestion | undefined {
+  if (!id) return undefined;
+  const targetId = id.trim().toLowerCase();
+  return parsedGrade11LocalBank.get(targetId) || Array.from(parsedGrade11LocalBank.values()).find((q) => q.id.toLowerCase() === targetId);
 }
