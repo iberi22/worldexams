@@ -1,16 +1,13 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import MathRenderer from '../../components/MathRenderer.svelte';
 import {
   getCountryManifest,
-  getAllCountryManifests,
   getCountriesWithContent,
-  resolveCountryCode,
   type CountryManifest,
 } from '../../lib/country-manifest-loader';
 import {
-  getSubjectsForCountry,
   getBundlesForCountrySubject,
-  getBundleByWeek,
   toTitleCase,
   canonicalFor,
 } from './_helpers';
@@ -352,12 +349,12 @@ const questionSchemas = displayQuestions.map((q) => {
                   <span class="text-xs font-mono bg-emerald-500/20 text-emerald-300 px-2.5 py-1 rounded-full font-semibold">
                     Pregunta #{idx + 1} • {q.subject.toUpperCase()}
                   </span>
-                  <span class="text-xs text-slate-400">Dificultad: {q.difficulty}/10</span>
+                  <span class="text-xs text-slate-400 font-mono">ID: {q.id} • Dificultad: {q.difficulty}/10</span>
                 </div>
 
-                <p class="text-base md:text-lg text-white font-medium mb-5 leading-relaxed">
-                  {q.statement}
-                </p>
+                <div class="text-base md:text-lg text-white font-medium mb-5 leading-relaxed">
+                  <MathRenderer content={q.statement} client:visible />
+                </div>
 
                 <div class="grid gap-2.5 mb-4">
                   {q.options.map((opt) => (
@@ -368,11 +365,12 @@ const questionSchemas = displayQuestions.map((q) => {
                           : 'bg-slate-900/40 border-slate-700/50 text-slate-300'
                       }`}
                     >
-                      <span>
-                        <strong class="mr-2 text-white font-bold">{opt.id}.</strong> {opt.text}
+                      <span class="flex items-start gap-2">
+                        <strong class="text-white font-bold">{opt.id}.</strong>
+                        <span><MathRenderer content={opt.text} client:visible /></span>
                       </span>
                       {opt.isCorrect && (
-                        <span class="text-xs font-bold bg-emerald-500 text-slate-950 px-2 py-0.5 rounded-md">
+                        <span class="text-xs font-bold bg-emerald-500 text-slate-950 px-2 py-0.5 rounded-md shrink-0">
                           Correcta
                         </span>
                       )}
@@ -385,11 +383,26 @@ const questionSchemas = displayQuestions.map((q) => {
                     <summary class="cursor-pointer text-xs font-bold text-emerald-400 hover:text-emerald-300 transition flex items-center gap-1.5">
                       <span>💡</span> Ver Explicación Pedagógica
                     </summary>
-                    <p class="mt-2 text-xs md:text-sm text-slate-300 leading-relaxed bg-slate-900/60 p-3.5 rounded-xl border border-slate-700/40">
-                      {q.explanation}
-                    </p>
+                    <div class="mt-2 text-xs md:text-sm text-slate-300 leading-relaxed bg-slate-900/60 p-3.5 rounded-xl border border-slate-700/40">
+                      <MathRenderer content={q.explanation} client:visible />
+                    </div>
                   </details>
                 )}
+
+                <div class="mt-6 pt-4 border-t border-slate-700/60 flex flex-wrap items-center justify-between gap-3 text-xs">
+                  <a
+                    href={`/community/${encodeURIComponent(q.id)}`}
+                    class="inline-flex items-center gap-1.5 text-emerald-400 hover:text-emerald-300 font-semibold transition"
+                  >
+                    <span>💬</span> Ver debate e interpretaciones comunitarias
+                  </a>
+                  <a
+                    href={`/corrections?question_id=${encodeURIComponent(q.id)}&bundle_path=${encodeURIComponent(q.bundle_path || '')}`}
+                    class="inline-flex items-center gap-1.5 text-amber-400 hover:text-amber-300 font-semibold transition"
+                  >
+                    <span>🛠️</span> Reportar inconsistencia / sugerir parche
+                  </a>
+                </div>
               </article>
             ))}
           </div>
