@@ -4,6 +4,8 @@
   import QuestionVersionCarousel from './QuestionVersionCarousel.svelte';
   import type { Question } from '../types';
   import CommentsSection from './CommentsSection.svelte';
+  import ThreadedExplanation from './community/ThreadedExplanation.svelte';
+  import CorrectionThread from './corrections/CorrectionThread.svelte';
   import { onMount } from 'svelte';
   import { getUser } from '../lib/auth';
   import type { User } from '@supabase/supabase-js';
@@ -14,6 +16,10 @@
   export let question: Question;
   export let versions: Question[] = []; // Optional: all versions of this bundle
   export let onBack: () => void;
+  export let initialTab: 'official' | 'community' | 'correction' = 'official';
+
+  let activeTab: 'official' | 'community' | 'correction' = initialTab;
+  $: activeTab = initialTab;
 
   let user: User | null = null;
   let videoMeta: VideoManifestEntry | null = null;
@@ -103,52 +109,109 @@
         </ul>
       </div>
 
-      {#if question.explanation}
-        <div class="mb-12">
-          <h3 class="text-xl font-bold text-emerald-500 mb-4">Explicación Detallada</h3>
-          <div class="text-[#F5F5DC]/80 leading-relaxed whitespace-pre-line">
-            <MathRenderer content={question.explanation} />
+      <!-- Tabs Selector -->
+      <div class="flex flex-wrap gap-2 border-b border-white/10 pb-3 mb-8" data-testid="article-tabs">
+        <button
+          type="button"
+          on:click={() => (activeTab = 'official')}
+          class={`px-4 py-2 text-xs font-bold uppercase tracking-wider rounded-lg transition-all cursor-pointer ${
+            activeTab === 'official'
+              ? 'bg-emerald-600 text-white shadow-lg'
+              : 'bg-white/5 text-white/60 hover:text-white hover:bg-white/10'
+          }`}
+          data-testid="tab-official"
+        >
+          💡 Explicación Oficial
+        </button>
+        <button
+          type="button"
+          on:click={() => (activeTab = 'community')}
+          class={`px-4 py-2 text-xs font-bold uppercase tracking-wider rounded-lg transition-all cursor-pointer ${
+            activeTab === 'community'
+              ? 'bg-emerald-600 text-white shadow-lg'
+              : 'bg-white/5 text-white/60 hover:text-white hover:bg-white/10'
+          }`}
+          data-testid="tab-community"
+        >
+          💬 Debate Comunitario
+        </button>
+        <button
+          type="button"
+          on:click={() => (activeTab = 'correction')}
+          class={`px-4 py-2 text-xs font-bold uppercase tracking-wider rounded-lg transition-all cursor-pointer ${
+            activeTab === 'correction'
+              ? 'bg-emerald-600 text-white shadow-lg'
+              : 'bg-white/5 text-white/60 hover:text-white hover:bg-white/10'
+          }`}
+          data-testid="tab-correction"
+        >
+          🛠️ Proponer Corrección
+        </button>
+      </div>
+
+      {#if activeTab === 'official'}
+        {#if question.explanation}
+          <div class="mb-12">
+            <h3 class="text-xl font-bold text-emerald-500 mb-4">Explicación Detallada</h3>
+            <div class="text-[#F5F5DC]/80 leading-relaxed whitespace-pre-line">
+              <MathRenderer content={question.explanation} />
+            </div>
           </div>
+        {/if}
+
+        <div class="mb-12 bg-red-500/10 border border-red-500/20 p-5 rounded-xl">
+          <h3 class="text-xl font-bold text-red-300 mb-4">Explicación en Video</h3>
+          {#if videoMeta?.youtube_url}
+            <div class="flex flex-wrap items-center gap-3">
+              <a
+                href={videoMeta.youtube_url}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="px-4 py-2 bg-red-600 hover:bg-red-500 text-white text-xs font-bold uppercase tracking-widest rounded-lg transition-colors"
+              >
+                Ver en YouTube
+              </a>
+              {#if videoMeta?.instagram_url || videoDefaults.instagram_url}
+                <a
+                  href={videoMeta?.instagram_url || videoDefaults.instagram_url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="px-4 py-2 bg-pink-600/80 hover:bg-pink-500 text-white text-xs font-bold uppercase tracking-widest rounded-lg transition-colors"
+                >
+                  Instagram
+                </a>
+              {/if}
+              {#if videoMeta?.tiktok_url || videoDefaults.tiktok_url}
+                <a
+                  href={videoMeta?.tiktok_url || videoDefaults.tiktok_url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="px-4 py-2 bg-black/70 hover:bg-black text-white text-xs font-bold uppercase tracking-widest rounded-lg border border-white/20 transition-colors"
+                >
+                  TikTok
+                </a>
+              {/if}
+            </div>
+          {:else}
+            <p class="text-sm text-white/60">Video en generación para esta pregunta.</p>
+          {/if}
+        </div>
+      {:else if activeTab === 'community'}
+        <div class="mb-12" data-testid="tab-content-community">
+          <ThreadedExplanation
+            explanationId={`exp-${question.id}`}
+            questionId={String(question.id)}
+            explanationContent={question.explanation || ''}
+          />
+        </div>
+      {:else if activeTab === 'correction'}
+        <div class="mb-12" data-testid="tab-content-correction">
+          <CorrectionThread
+            initialQuestionId={String(question.id)}
+            initialBundlePath={bundleId ? `questions_data/bundle-${bundleId}.md` : `questions_data/bundle-${question.id}.md`}
+          />
         </div>
       {/if}
-
-      <div class="mb-12 bg-red-500/10 border border-red-500/20 p-5 rounded-xl">
-        <h3 class="text-xl font-bold text-red-300 mb-4">Explicación en Video</h3>
-        {#if videoMeta?.youtube_url}
-          <div class="flex flex-wrap items-center gap-3">
-            <a
-              href={videoMeta.youtube_url}
-              target="_blank"
-              rel="noopener noreferrer"
-              class="px-4 py-2 bg-red-600 hover:bg-red-500 text-white text-xs font-bold uppercase tracking-widest rounded-lg transition-colors"
-            >
-              Ver en YouTube
-            </a>
-            {#if videoMeta?.instagram_url || videoDefaults.instagram_url}
-              <a
-                href={videoMeta?.instagram_url || videoDefaults.instagram_url}
-                target="_blank"
-                rel="noopener noreferrer"
-                class="px-4 py-2 bg-pink-600/80 hover:bg-pink-500 text-white text-xs font-bold uppercase tracking-widest rounded-lg transition-colors"
-              >
-                Instagram
-              </a>
-            {/if}
-            {#if videoMeta?.tiktok_url || videoDefaults.tiktok_url}
-              <a
-                href={videoMeta?.tiktok_url || videoDefaults.tiktok_url}
-                target="_blank"
-                rel="noopener noreferrer"
-                class="px-4 py-2 bg-black/70 hover:bg-black text-white text-xs font-bold uppercase tracking-widest rounded-lg border border-white/20 transition-colors"
-              >
-                TikTok
-              </a>
-            {/if}
-          </div>
-        {:else}
-          <p class="text-sm text-white/60">Video en generación para esta pregunta.</p>
-        {/if}
-      </div>
     </article>
 
     <!-- Ads & Support -->
