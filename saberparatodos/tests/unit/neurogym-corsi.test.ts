@@ -7,10 +7,11 @@ import { describe, it, expect } from 'vitest';
 import { generateCorsiSequence } from '../../src/lib/neurogym/secure-items-vault';
 
 describe('neurogym stimulus — Corsi Block-Tapping', () => {
-  it('generator returns a sequence with the requested span length', () => {
+  it('generator returns a sequence with the requested span length and delayMs', () => {
     for (const span of [3, 4, 5, 6, 7]) {
       const seq = generateCorsiSequence(span, 42);
       expect(seq.blockSequence).toHaveLength(span);
+      expect(seq.delayMs).toBe(800);
     }
   });
 
@@ -37,12 +38,18 @@ describe('neurogym stimulus — Corsi Block-Tapping', () => {
     expect(a.blockSequence).not.toEqual(b.blockSequence);
   });
 
-  it('CorsiBlockBoard component exists and exports Props', async () => {
-    // Smoke check: file is importable as text — confirms the Svelte file is present.
-    // (We don't mount Svelte here — @testing-library/svelte is not installed.)
+  it('CorsiBlockBoard component exists and contains required features', async () => {
     const fs = await import('node:fs/promises');
     const path = 'src/components/neurogym/stimuli/CorsiBlockBoard.svelte';
-    const exists = await fs.access(path).then(() => true).catch(() => false);
-    expect(exists).toBe(true);
+    const content = await fs.readFile(path, 'utf-8');
+
+    expect(content).toContain('CorsiBlockBoard');
+    expect(content).toContain('$props()');
+    expect(content).toContain('$state');
+    expect(content).toContain('$derived');
+    expect(content).toContain('$effect');
+    expect(content).toContain('delayMs');
+    expect(content).toContain('neuroAudio');
+    expect(content).toContain('is3D');
   });
 });
