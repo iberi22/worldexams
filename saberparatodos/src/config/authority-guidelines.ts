@@ -274,6 +274,282 @@ const guidelinesByCountry: Partial<Record<CountryCode, AuthorityGuidelines>> = {
         ]
       }
     ]
+  },
+  SV: {
+    authorityName: 'MINED — Prueba AVANZO',
+    badgeLabel: 'Evaluación Nacional AVANZO — Ministerio de Educación de El Salvador',
+    competencias: {
+      matematica: {
+        competencias: ['Razonamiento lógico matemático', 'Comunicación con lenguaje matemático', 'Aplicación de la matemática al entorno'],
+        componentes: ['Aritmética y Álgebra', 'Geometría y Trigonometría', 'Estadística y Probabilidad'],
+        color: '#0047ab'
+      },
+      lenguaje: {
+        competencias: ['Comprensión lectora', 'Expresión escrita', 'Comunicación literaria'],
+        componentes: ['Lectura de textos literarios', 'Lectura de textos no literarios', 'Sintaxis y morfología'],
+        color: '#8b5cf6'
+      },
+      ciencias: {
+        competencias: ['Comunicación de la información científica', 'Indagación de fenómenos y procesos', 'Aplicación de actitudes científicas'],
+        componentes: ['Física', 'Química', 'Biología y Geología'],
+        color: '#10b981'
+      },
+      sociales: {
+        competencias: ['Análisis de la realidad social e histórica', 'Investigación de la realidad social', 'Participación crítica y responsable'],
+        componentes: ['Historia de El Salvador y Centroamérica', 'Geografía y Medio Ambiente', 'Democracia y Derechos Humanos'],
+        color: '#f59e0b'
+      },
+      ingles: {
+        competencias: ['Reading comprehension', 'Grammatical accuracy', 'Vocabulary in context'],
+        componentes: ['Reading', 'Use of English', 'Pragmatics'],
+        color: '#ef4444'
+      }
+    },
+    subjectLabels: {
+      matematica: 'Matemática',
+      lenguaje: 'Lenguaje y Literatura',
+      ciencias: 'Ciencias Naturales',
+      sociales: 'Estudios Sociales y Cívica',
+      ingles: 'Inglés'
+    },
+    references: [
+      {
+        title: 'MINED El Salvador',
+        description: 'Información oficial de la Prueba AVANZO y marcos curriculares del MINED.',
+        tone: 'blue',
+        accent: '#0047ab',
+        open: true,
+        links: [
+          { label: 'Ministerio de Educación de El Salvador (MINED)', url: 'https://www.mined.gob.sv/' },
+          { label: 'Plataforma Evaluaciones AVANZO', url: 'https://evaluaciones.mined.gob.sv/' }
+        ]
+      }
+    ]
+  },
+  HN: {
+    authorityName: 'SEDUC — Evaluaciones Nacionales',
+    badgeLabel: 'Alineación Curricular SEDUC — Pruebas Formativas y Fin de Ciclo',
+    competencias: {
+      matematicas: {
+        competencias: ['Resolución de problemas', 'Razonamiento y comunicación matemática', 'Representación y modelación'],
+        componentes: ['Números y Operaciones', 'Álgebra y Funciones', 'Geometría y Medida', 'Estadística descriptiva'],
+        color: '#0073cf'
+      },
+      espanol: {
+        competencias: ['Comprensión lectora', 'Producción de textos', 'Apreciación literaria'],
+        componentes: ['Lectura e Interpretación', 'Escritura y Gramática', 'Lenguaje oral y pragmática'],
+        color: '#8b5cf6'
+      },
+      ciencias: {
+        competencias: ['Comprensión de conceptos científicos', 'Análisis de procesos naturales', 'Indagación y experimentación'],
+        componentes: ['Los seres vivos y su ambiente', 'La materia y la energía', 'La Tierra y el universo'],
+        color: '#10b981'
+      },
+      sociales: {
+        competencias: ['Comprensión de procesos históricos', 'Análisis del espacio geográfico', 'Formación ciudadana y ética'],
+        componentes: ['Historia de Honduras', 'Geografía e Interacción Social', 'Democracia y Civismo'],
+        color: '#f59e0b'
+      }
+    },
+    subjectLabels: {
+      matematicas: 'Matemáticas',
+      espanol: 'Español',
+      ciencias: 'Ciencias Naturales',
+      sociales: 'Estudios Sociales'
+    },
+    references: [
+      {
+        title: 'SEDUC Honduras',
+        description: 'Secretaría de Educación de Honduras y Currículo Nacional Básico (CNB).',
+        tone: 'sky',
+        accent: '#0073cf',
+        open: true,
+        links: [
+          { label: 'Secretaría de Educación de Honduras (SEDUC)', url: 'https://www.se.gob.hn/' },
+          { label: 'Currículo Nacional Básico (CNB)', url: 'https://www.se.gob.hn/cnb/' }
+        ]
+      }
+    ]
+  },
+  NI: {
+    authorityName: 'MINED / CNU — Educación Secundaria y Admisión',
+    badgeLabel: 'Evaluación de Aprendizajes MINED y Examen de Admisión CNU',
+    competencias: {
+      matematicas: {
+        competencias: ['Comprensión conceptual', 'Destreza de cálculo y algorítmica', 'Resolución de problemas aplicados'],
+        componentes: ['Aritmética y Álgebra', 'Geometría analítica y euclidiana', 'Funciones y Trigonometría'],
+        color: '#0067c6'
+      },
+      'lengua-literatura': {
+        competencias: ['Comprensión lectora y crítica', 'Análisis gramatical y ortográfico', 'Valoración literaria hispanoamericana'],
+        componentes: ['Comprensión de textos', 'Morfosintaxis y Ortografía', 'Literatura nicaragüense y universal'],
+        color: '#8b5cf6'
+      },
+      ciencias: {
+        competencias: ['Explicación de fenómenos científicos', 'Uso del método científico', 'Conciencia ambiental y biológica'],
+        componentes: ['Biología celular y ecología', 'Física elemental', 'Química general'],
+        color: '#10b981'
+      },
+      'geografia-historia': {
+        competencias: ['Ubicación espacial y análisis geográfico', 'Comprensión de la evolución histórica', 'Pensamiento crítico social'],
+        componentes: ['Geografía de Nicaragua y el mundo', 'Historia nacional y centroamericana', 'Educación cívica'],
+        color: '#f59e0b'
+      }
+    },
+    subjectLabels: {
+      matematicas: 'Matemáticas',
+      'lengua-literatura': 'Lengua y Literatura',
+      ciencias: 'Ciencias Naturales',
+      'geografia-historia': 'Geografía e Historia'
+    },
+    references: [
+      {
+        title: 'MINED Nicaragua',
+        description: 'Ministerio de Educación de Nicaragua y Consejo Nacional de Universidades.',
+        tone: 'blue',
+        accent: '#0067c6',
+        open: true,
+        links: [
+          { label: 'Ministerio de Educación de Nicaragua (MINED)', url: 'https://www.mined.gob.ni/' },
+          { label: 'Consejo Nacional de Universidades (CNU)', url: 'https://www.cnu.edu.ni/' }
+        ]
+      }
+    ]
+  },
+  PR: {
+    authorityName: 'DEPR / College Board — META-PR y PAA',
+    badgeLabel: 'Pruebas META-PR y Prueba de Aptitud Académica (PAA)',
+    competencias: {
+      matematicas: {
+        competencias: ['Aptitud matemática y razonamiento cuantitativo', 'Resolución de problemas estratégicos', 'Interpretación de datos y gráficas'],
+        componentes: ['Aritmética', 'Álgebra y Funciones', 'Geometría', 'Estadística y Probabilidad'],
+        color: '#0050a1'
+      },
+      lectura: {
+        competencias: ['Análisis crítico de lecturas', 'Razonamiento verbal y vocabulario en contexto', 'Redacción indirecta e inferencial'],
+        componentes: ['Comprensión de lectura literaria e informativa', 'Vocabulario', 'Estructura del texto y gramática'],
+        color: '#8b5cf6'
+      },
+      ingles: {
+        competencias: ['English reading comprehension', 'Language usage and structure', 'Contextual vocabulary'],
+        componentes: ['Reading passages', 'Sentence completion and editing', 'Grammar'],
+        color: '#ef4444'
+      },
+      ciencias: {
+        competencias: ['Indagación científica', 'Interpretación de modelos y tablas', 'Razonamiento científico'],
+        componentes: ['Ciencias Biológicas', 'Ciencias Físicas', 'Ciencias Terrestres y del Espacio'],
+        color: '#10b981'
+      }
+    },
+    subjectLabels: {
+      matematicas: 'Matemáticas',
+      lectura: 'Lectura y Redacción',
+      ingles: 'Inglés',
+      ciencias: 'Ciencias'
+    },
+    references: [
+      {
+        title: 'DEPR y College Board PR',
+        description: 'Departamento de Educación de Puerto Rico y College Board América Latina.',
+        tone: 'blue',
+        accent: '#0050a1',
+        open: true,
+        links: [
+          { label: 'Departamento de Educación de Puerto Rico', url: 'https://de.pr.gov/' },
+          { label: 'College Board Puerto Rico y América Latina (PAA)', url: 'https://latam.collegeboard.org/' }
+        ]
+      }
+    ]
+  },
+  ES: {
+    authorityName: 'MEFP / Universidades — Selectividad (PAU / EBAU)',
+    badgeLabel: 'Alineación Currículo LOMLOE — Pruebas de Acceso a la Universidad (PAU / EBAU)',
+    competencias: {
+      matematicas: {
+        competencias: ['Modelización matemática', 'Resolución de problemas con métodos rigurosos', 'Razonamiento y argumentación matemática'],
+        componentes: ['Álgebra lineal y Matrices', 'Análisis matemático y Cálculo', 'Geometría en R3', 'Probabilidad y Estadística'],
+        color: '#aa151b'
+      },
+      lengua: {
+        competencias: ['Comprensión y comentario crítico de texto', 'Análisis sintáctico y morfológico', 'Conocimiento de la literatura española'],
+        componentes: ['Comentario de texto y Cohesión', 'Lengua castellana y Gramática', 'Literatura española contemporánea'],
+        color: '#8b5cf6'
+      },
+      historia: {
+        competencias: ['Análisis e interpretación de fuentes históricas', 'Comprensión de procesos historiográficos', 'Sintesis temporal y conceptual'],
+        componentes: ['Historia de España contemporánea', 'Procesos socio-políticos de los siglos XIX y XX'],
+        color: '#f59e0b'
+      },
+      ingles: {
+        competencias: ['Reading comprehension', 'Written expression and synthesis', 'Use of English'],
+        componentes: ['Text analysis', 'Writing task', 'Use of English and grammar'],
+        color: '#ef4444'
+      }
+    },
+    subjectLabels: {
+      matematicas: 'Matemáticas',
+      lengua: 'Lengua Castellana y Literatura',
+      historia: 'Historia de España',
+      ingles: 'Inglés'
+    },
+    references: [
+      {
+        title: 'Ministerio de Educación y Formación Profesional',
+        description: 'Normativa oficial EBAU/PAU y currículo de Bachillerato (LOMLOE).',
+        tone: 'red',
+        accent: '#aa151b',
+        open: true,
+        links: [
+          { label: 'Ministerio de Educación y Formación Profesional', url: 'https://www.educacionfpe.gob.es/' },
+          { label: 'Información EBAU / PAU', url: 'https://www.educacionfpe.gob.es/enseñanzas/bachillerato/ebau.html' }
+        ]
+      }
+    ]
+  },
+  GQ: {
+    authorityName: 'UNGE / Ministerio de Educación — Selectividad Nacional',
+    badgeLabel: 'Pruebas de Acceso a la Universidad — Universidad Nacional de Guinea Ecuatorial',
+    competencias: {
+      matematicas: {
+        competencias: ['Dominio del cálculo y álgebra', 'Resolución de problemas geométricos', 'Análisis de datos cuantitativos'],
+        componentes: ['Álgebra y Funciones', 'Geometría y Trigonometría', 'Estadística descriptiva'],
+        color: '#319400'
+      },
+      lengua: {
+        competencias: ['Comprensión y análisis de textos en español', 'Expresión escrita y ortografía', 'Gramática e historia de la lengua'],
+        componentes: ['Lectura comprensiva', 'Morfosintaxis y Léxico', 'Literatura hispanoafricana y española'],
+        color: '#8b5cf6'
+      },
+      historia: {
+        competencias: ['Análisis del devenir histórico nacional y continental', 'Comprensión del contexto sociopolítico', 'Interpretación geográfica'],
+        componentes: ['Historia de Guinea Ecuatorial y África', 'Geografía física y humana de África'],
+        color: '#f59e0b'
+      },
+      frances: {
+        competencias: ['Compréhension écrite', 'Production écrite', 'Grammaire et vocabulaire'],
+        componentes: ['Compréhension de texte', 'Grammaire et conjugaison', 'Vocabulaire'],
+        color: '#002395'
+      }
+    },
+    subjectLabels: {
+      matematicas: 'Matemáticas',
+      lengua: 'Lengua Española',
+      historia: 'Historia',
+      frances: 'Francés'
+    },
+    references: [
+      {
+        title: 'UNGE y Ministerio de Educación GQ',
+        description: 'Universidad Nacional de Guinea Ecuatorial y Ministerio de Educación.',
+        tone: 'emerald',
+        accent: '#319400',
+        open: true,
+        links: [
+          { label: 'Universidad Nacional de Guinea Ecuatorial (UNGE)', url: 'https://www.unge.education/' },
+          { label: 'Gobierno de la República de Guinea Ecuatorial', url: 'https://www.guineaecuatorialpress.com/' }
+        ]
+      }
+    ]
   }
 };
 

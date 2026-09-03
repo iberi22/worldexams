@@ -37,6 +37,63 @@ describe('Curriculum Subject Hub & Authority Guidelines', () => {
     expect(pe.competencias.comunicacion).toBeDefined();
   });
 
+  it('returns authority guidelines for El Salvador (SV)', () => {
+    const sv = getAuthorityGuidelines('SV');
+    expect(sv.authorityName).toContain('MINED');
+    expect(sv.authorityName).toContain('AVANZO');
+    expect(sv.competencias.matematica).toBeDefined();
+    expect(sv.competencias.lenguaje).toBeDefined();
+    expect(sv.competencias.ciencias).toBeDefined();
+    expect(sv.competencias.sociales).toBeDefined();
+    expect(sv.competencias.ingles).toBeDefined();
+  });
+
+  it('returns authority guidelines for Honduras (HN)', () => {
+    const hn = getAuthorityGuidelines('HN');
+    expect(hn.authorityName).toContain('SEDUC');
+    expect(hn.competencias.matematicas).toBeDefined();
+    expect(hn.competencias.espanol).toBeDefined();
+    expect(hn.competencias.ciencias).toBeDefined();
+    expect(hn.competencias.sociales).toBeDefined();
+  });
+
+  it('returns authority guidelines for Nicaragua (NI)', () => {
+    const ni = getAuthorityGuidelines('NI');
+    expect(ni.authorityName).toContain('MINED');
+    expect(ni.authorityName).toContain('CNU');
+    expect(ni.competencias.matematicas).toBeDefined();
+    expect(ni.competencias['lengua-literatura']).toBeDefined();
+    expect(ni.competencias.ciencias).toBeDefined();
+    expect(ni.competencias['geografia-historia']).toBeDefined();
+  });
+
+  it('returns authority guidelines for Puerto Rico (PR)', () => {
+    const pr = getAuthorityGuidelines('PR');
+    expect(pr.authorityName).toContain('College Board');
+    expect(pr.competencias.matematicas).toBeDefined();
+    expect(pr.competencias.lectura).toBeDefined();
+    expect(pr.competencias.ingles).toBeDefined();
+    expect(pr.competencias.ciencias).toBeDefined();
+  });
+
+  it('returns authority guidelines for Spain (ES)', () => {
+    const es = getAuthorityGuidelines('ES');
+    expect(es.authorityName).toContain('Selectividad');
+    expect(es.competencias.matematicas).toBeDefined();
+    expect(es.competencias.lengua).toBeDefined();
+    expect(es.competencias.historia).toBeDefined();
+    expect(es.competencias.ingles).toBeDefined();
+  });
+
+  it('returns authority guidelines for Equatorial Guinea (GQ)', () => {
+    const gq = getAuthorityGuidelines('GQ');
+    expect(gq.authorityName).toContain('UNGE');
+    expect(gq.competencias.matematicas).toBeDefined();
+    expect(gq.competencias.lengua).toBeDefined();
+    expect(gq.competencias.historia).toBeDefined();
+    expect(gq.competencias.frances).toBeDefined();
+  });
+
   it('returns safe fallback for unconfigured country codes', () => {
     const fallback = getAuthorityGuidelines('ZZ' as any);
     expect(fallback.authorityName).toBe('Autoridad Educativa Local');
