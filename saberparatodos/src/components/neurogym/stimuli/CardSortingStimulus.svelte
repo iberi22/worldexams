@@ -1,9 +1,18 @@
 <script lang="ts">
+  /**
+   * CardSortingStimulus.svelte
+   * Wisconsin Card Sorting Task Proxy (Executive Flexibility & Rule Switching).
+   */
   import { neuroAudio } from '../../../lib/neurogym/audio-synthesizer';
 
   interface Props {
     totalTrials?: number;
-    onComplete?: (stats: { ruleSwitchesSuccess: number; totalRuleTrials: number; perseverativeErrors: number }) => void;
+    onComplete?: (stats: {
+      ruleSwitchesSuccess: number;
+      totalRuleTrials: number;
+      perseverativeErrors: number;
+      avgRuleSwitchLatencyMs: number;
+    }) => void;
   }
 
   let { totalTrials = 15, onComplete }: Props = $props();
@@ -22,10 +31,15 @@
   ];
 
   let currentRule = $state<Dimension>('color');
+  let previousRule = $state<Dimension | null>(null);
   let consecutiveCorrect = $state(0);
   let trialIndex = $state(0);
   let ruleSwitches = $state(0);
   let perseverativeErrors = $state(0);
+
+  // Timing & Latency tracking upon rule changes
+  let lastRuleShiftTimestamp = $state<number | null>(null);
+  let ruleSwitchLatencies = $state<number[]>([]);
 
   // Carta actual de prueba
   let currentCard = $state({
@@ -35,6 +49,19 @@
   });
 
   let feedback = $state<'correct' | 'incorrect' | null>(null);
+
+  function getShapeStyle(shape: string) {
+    if (shape === 'triangle') {
+      return 'border-radius: 0; clip-path: polygon(50% 0%, 0% 100%, 100% 100%);';
+    }
+    if (shape === 'square') {
+      return 'border-radius: 2px; clip-path: none;';
+    }
+    if (shape === 'star') {
+      return 'border-radius: 0; clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);';
+    }
+    return 'border-radius: 9999px; clip-path: none;';
+  }
 
   function generateNextCard() {
     currentCard = {
@@ -46,6 +73,7 @@
 
   function handleSelectTarget(targetIdx: number) {
     const target = targetCards[targetIdx];
+    const now = performance.now();
     let isMatch = false;
 
     if (currentRule === 'color' && target.color === currentCard.color) isMatch = true;
@@ -56,26 +84,52 @@
       neuroAudio.playSuccess();
       feedback = 'correct';
       consecutiveCorrect++;
-      // Si acierta 4 seguidas, cambia la regla sin avisar (Flexibilidad ejecutiva)
-      if (consecutiveCorrect >= 4) {
+
+      // Record rule switch latency if this is the first correct answer after a rule switch
+      if (lastRuleShiftTimestamp !== null) {
+        const latency = Math.round(now - lastRuleShiftTimestamp);
+        ruleSwitchLatencies.push(latency);
+        lastRuleShiftTimestamp = null;
+      }
+
+      // Shift unseen rule every 5 correct trials
+      if (consecutiveCorrect >= 5) {
         consecutiveCorrect = 0;
+        previousRule = currentRule;
         const dims: Dimension[] = ['color', 'shape', 'number'];
         currentRule = dims.filter(d => d !== currentRule)[Math.floor(Math.random() * 2)];
         ruleSwitches++;
+        lastRuleShiftTimestamp = performance.now();
       }
     } else {
       neuroAudio.playError();
       feedback = 'incorrect';
       consecutiveCorrect = 0;
-      perseverativeErrors++;
+
+      // Track perseverative errors: error where choice matches the previous rule
+      if (previousRule) {
+        let matchesPreviousRule = false;
+        if (previousRule === 'color' && target.color === currentCard.color) matchesPreviousRule = true;
+        else if (previousRule === 'shape' && target.shape === currentCard.shape) matchesPreviousRule = true;
+        else if (previousRule === 'number' && target.number === currentCard.number) matchesPreviousRule = true;
+
+        if (matchesPreviousRule) {
+          perseverativeErrors++;
+        }
+      }
     }
 
     trialIndex++;
     if (trialIndex >= totalTrials) {
+      const avgLatency = ruleSwitchLatencies.length > 0
+        ? Math.round(ruleSwitchLatencies.reduce((a, b) => a + b, 0) / ruleSwitchLatencies.length)
+        : 0;
+
       onComplete?.({
         ruleSwitchesSuccess: Math.max(1, ruleSwitches),
         totalRuleTrials: totalTrials,
-        perseverativeErrors
+        perseverativeErrors,
+        avgRuleSwitchLatencyMs: avgLatency
       });
     } else {
       setTimeout(() => {
@@ -92,7 +146,7 @@
 
 <div class="flex flex-col items-center gap-6 w-full max-w-xl mx-auto select-none">
   <div class="text-center">
-    <span class="text-xs uppercase tracking-widest text-pink-400 font-bold">Clasificación de Tarjetas (Flexibilidad Ejecutiva)</span>
+    <span class="text-xs uppercase tracking-widest text-pink-400 font-bold">Clasificación de Tarjetas (Flexibilidad Ejecutiva - WCST)</span>
     <p class="text-xs text-white/60 mt-1">
       Empareja la carta inferior con una de las 4 cartas superiores según la <strong>regla oculta</strong>.
     </p>
@@ -104,13 +158,14 @@
       <button
         type="button"
         onclick={() => handleSelectTarget(idx)}
+        aria-label="Pila {idx + 1}: {target.number} elemento(s) de figura {target.shape}"
         class="h-28 sm:h-32 p-2 bg-white/5 border border-white/20 hover:border-pink-400 hover:bg-white/10 rounded-2xl transition-all flex flex-col items-center justify-center gap-1 cursor-pointer group active:scale-95 shadow-md"
       >
         <div class="flex flex-wrap items-center justify-center gap-1">
           {#each Array(target.number) as _}
             <div
-              class="w-3.5 h-3.5 sm:w-4 sm:h-4 rounded-full border border-black/40"
-              style="background-color: {target.color}; border-radius: {target.shape === 'square' ? '2px' : target.shape === 'triangle' ? '0' : '999px'}; clip-path: {target.shape === 'triangle' ? 'polygon(50% 0%, 0% 100%, 100% 100%)' : 'none'};"
+              class="w-3.5 h-3.5 sm:w-4 sm:h-4 border border-black/40 shadow-sm"
+              style="background-color: {target.color}; {getShapeStyle(target.shape)}"
             ></div>
           {/each}
         </div>
@@ -125,8 +180,8 @@
     <div class="flex flex-wrap items-center justify-center gap-2 py-3">
       {#each Array(currentCard.number) as _}
         <div
-          class="w-6 h-6 rounded-full border border-black/50 shadow-md"
-          style="background-color: {currentCard.color}; border-radius: {currentCard.shape === 'square' ? '4px' : currentCard.shape === 'triangle' ? '0' : '999px'}; clip-path: {currentCard.shape === 'triangle' ? 'polygon(50% 0%, 0% 100%, 100% 100%)' : 'none'};"
+          class="w-6 h-6 border border-black/50 shadow-md"
+          style="background-color: {currentCard.color}; {getShapeStyle(currentCard.shape)}"
         ></div>
       {/each}
     </div>
