@@ -37,6 +37,27 @@ describe('Curriculum Subject Hub & Authority Guidelines', () => {
     expect(pe.competencias.comunicacion).toBeDefined();
   });
 
+  it('returns authority guidelines for Uruguay (UY)', () => {
+    const uy = getAuthorityGuidelines('UY');
+    expect(uy.authorityName).toContain('ANEP');
+    expect(uy.competencias.matematica).toBeDefined();
+    expect(uy.competencias.matematica.competencias).toContain('Resolución de problemas');
+  });
+
+  it('returns authority guidelines for Paraguay (PY)', () => {
+    const py = getAuthorityGuidelines('PY');
+    expect(py.authorityName).toContain('SNEPE');
+    expect(py.competencias.matematica).toBeDefined();
+    expect(py.competencias.lengua.componentes).toContain('Bilingüismo y sociolingüística');
+  });
+
+  it('returns authority guidelines for Bolivia (BO)', () => {
+    const bo = getAuthorityGuidelines('BO');
+    expect(bo.authorityName).toContain('Ministerio de Educación');
+    expect(bo.competencias.comunicacion).toBeDefined();
+    expect(bo.competencias.matematica.componentes).toContain('Álgebra y Trigonometría');
+  });
+
   it('returns safe fallback for unconfigured country codes', () => {
     const fallback = getAuthorityGuidelines('ZZ' as any);
     expect(fallback.authorityName).toBe('Autoridad Educativa Local');
@@ -89,6 +110,23 @@ describe('SubjectHubView.svelte Component Verification', () => {
     for (const btnTag of buttonMatches) {
       expect(btnTag).toContain('type="button"');
     }
+  });
+
+  it('contains advanced science, social studies, and language distractor traps in commonMisconceptions', () => {
+    const code = fs.readFileSync(hubPath, 'utf8');
+    // Science traps
+    expect(code).toContain('Confusión entre Calor y Temperatura');
+    expect(code).toContain('Confusión entre Masa y Peso');
+    expect(code).toContain('Explicación Lamarckiana vs. Selección Natural Darwiniana');
+    // Social Studies traps
+    expect(code).toContain('Anacronismo Histórico');
+    expect(code).toContain('Sesgo de Causa Única (Monocausalidad)');
+    expect(code).toContain('Confusión de Poderes del Estado y Mecanismos Constitucionales');
+    // Language / English traps
+    expect(code).toContain('Falsos Amigos Comunes (False Friends)');
+    expect(code).toContain('actually');
+    expect(code).toContain('embarrassed');
+    expect(code).toContain('library');
   });
 });
 
