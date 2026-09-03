@@ -212,22 +212,21 @@
                 Alcance del Consentimiento
               </span>
               <div class="flex flex-wrap gap-1.5">
-                {#each [
-                  { id: 'all', label: 'Todo' },
-                  { id: 'mathematics', label: 'Matemáticas' },
-                  { id: 'reading', label: 'Lectura' },
-                  { id: 'sciences', label: 'Ciencias' },
-                  { id: 'socials', label: 'Sociales' },
-                  { id: 'english', label: 'Inglés' }
-                ] as scopeItem}
+                {#each (
+                  [{ id: 'all' as const, label: 'Todo' },
+                   { id: 'mathematics' as const, label: 'Matemáticas' },
+                   { id: 'reading' as const, label: 'Lectura' },
+                   { id: 'sciences' as const, label: 'Ciencias' },
+                   { id: 'socials' as const, label: 'Sociales' },
+                   { id: 'english' as const, label: 'Inglés' }]
+                ) as scopeItem}
                   <button
                     type="button"
-                    onclick={() => toggleScope(scopeItem.id as any)}
-                    class="px-2.5 py-1 text-[11px] rounded-lg border font-semibold transition-all cursor-pointer {selectedScopes.includes(scopeItem.id as any) ? 'bg-emerald-500/20 border-emerald-400 text-emerald-300' : 'bg-black/40 border-white/10 text-white/50 hover:text-white'}"
+                    onclick={() => toggleScope(scopeItem.id)}
+                    class="px-2.5 py-1 text-[11px] rounded-lg border font-semibold transition-all cursor-pointer {selectedScopes.includes(scopeItem.id) ? 'bg-emerald-500/20 border-emerald-400 text-emerald-300' : 'bg-black/40 border-white/10 text-white/50 hover:text-white'}"
                   >
                     {scopeItem.label}
                   </button>
-                {/* Each item rendered */}
                 {/each}
               </div>
             </div>
