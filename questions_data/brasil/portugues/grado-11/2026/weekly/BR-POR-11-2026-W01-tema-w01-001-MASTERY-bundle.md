@@ -15,6 +15,7 @@ alignment: "BNCC Brasil / ENEM 2026"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
+bundle_index: 1
 ---
 
 # MASTERY Bundle - Português: Tema W01

@@ -15,6 +15,7 @@ alignment: "Ministerio de Educacion del Estado Plurinacional de Bolivia (MINEDU)
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
+bundle_index: 1
 ---
 
 # MASTERY Bundle - Ciencias Sociales: El periodo colonial, la mita potosina y la estructura socioeconómica de la Real Audiencia de Charcas (W02)

@@ -15,6 +15,7 @@ alignment: "Ministerio de Educacion del Estado Plurinacional de Bolivia (MINEDU)
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
+bundle_index: 1
 ---
 
 # MASTERY Bundle - Ciencias Sociales: La Guerra del Pacífico (1879) y sus consecuencias geopolíticas, económicas y sociales para Bolivia (W07)

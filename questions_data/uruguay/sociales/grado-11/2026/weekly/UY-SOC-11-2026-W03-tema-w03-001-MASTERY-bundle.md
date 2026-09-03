@@ -15,6 +15,7 @@ alignment: "ANEP - Plan 2006 Reformulación / Programa Ubicación"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
+bundle_index: 1
 ---
 
 # MASTERY Bundle - Ciencias Sociales: El proceso de independencia y la Constitución de 1830 (W03)

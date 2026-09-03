@@ -15,6 +15,7 @@ alignment: "Departamento de Educacion de Puerto Rico"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
+bundle_index: 1
 ---
 
 ## Bloque A — Nivel D3–D4: Fundamentos de Cinética Química y Equilibrio Químico

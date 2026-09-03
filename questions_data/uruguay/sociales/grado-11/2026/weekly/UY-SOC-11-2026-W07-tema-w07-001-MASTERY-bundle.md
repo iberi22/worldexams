@@ -15,6 +15,7 @@ alignment: "ANEP - Plan 2006 Reformulación / Programa Ubicación"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
+bundle_index: 1
 ---
 
 # MASTERY Bundle - Ciencias Sociales: La crisis de 1929 y el terrismo en Uruguay (W07)

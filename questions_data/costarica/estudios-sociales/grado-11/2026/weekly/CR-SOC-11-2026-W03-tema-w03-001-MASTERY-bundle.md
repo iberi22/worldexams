@@ -15,6 +15,7 @@ alignment: "MEP Costa Rica Bachillerato 2026"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
+bundle_index: 1
 ---
 # Bundle MASTERY: Empresas Transnacionales y Ciudades Globales - Grado 11
 Este bundle contiene 20 preguntas sobre **empresas transnacionales y ciudades globales** para grado 11,

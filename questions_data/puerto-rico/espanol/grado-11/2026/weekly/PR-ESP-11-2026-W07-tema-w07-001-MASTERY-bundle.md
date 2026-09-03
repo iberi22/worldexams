@@ -15,6 +15,7 @@ alignment: "Departamento de Educacion de Puerto Rico"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
+bundle_index: 1
 ---
 
 # MASTERY Bundle - Español: Literatura Puertorriqueña del Siglo XIX y Principios del XX (W07)

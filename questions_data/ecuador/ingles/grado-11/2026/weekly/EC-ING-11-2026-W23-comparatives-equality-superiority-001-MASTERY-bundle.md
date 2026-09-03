@@ -15,6 +15,7 @@ alignment: "Curriculo de Ingles"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
+bundle_index: 1
 ---
 # MASTERY Bundle - Ingles: Comparatives Equality Superiority (W23)
 **20 preguntas | Ingles | BGU - Ministerio de Educacion**

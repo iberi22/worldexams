@@ -15,6 +15,7 @@ alignment: "MEC - Curriculo Nacional Base / SNEPE"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
+bundle_index: 1
 ---
 # Weekly Pack W08: Inecuaciones Lineales (Grado 11)
 

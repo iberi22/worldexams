@@ -15,6 +15,7 @@ alignment: "MINED Nicaragua 2026"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
+bundle_index: 1
 ---
 
 ## Question 1 [D3-D4]

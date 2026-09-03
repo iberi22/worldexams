@@ -15,6 +15,7 @@ alignment: "MEP Costa Rica Bachillerato 2026"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
+bundle_index: 1
 ---
 
 # Bundle MASTERY: Textos Expositivos - Grado 11
