@@ -15,6 +15,7 @@ alignment: "SNEPE / MEC Paraguay"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
+bundle_index: 1
 ---
 
 # MASTERY Bundle - Lengua y Literatura: Tema W01 (W01)

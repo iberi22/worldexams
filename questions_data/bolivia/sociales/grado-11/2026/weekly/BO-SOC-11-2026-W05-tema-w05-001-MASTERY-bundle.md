@@ -15,6 +15,7 @@ alignment: "Ministerio de Educacion del Estado Plurinacional de Bolivia (MINEDU)
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
+bundle_index: 1
 ---
 
 # MASTERY Bundle - Ciencias Sociales: Geografía física de Bolivia: cuencas hidrográficas, recursos naturales y pisos ecológicos del país (W05)

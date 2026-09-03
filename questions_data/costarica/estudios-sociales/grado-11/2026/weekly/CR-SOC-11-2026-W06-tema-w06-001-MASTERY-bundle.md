@@ -15,6 +15,7 @@ alignment: "MEP Costa Rica Bachillerato 2026"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
+bundle_index: 1
 ---
 # Bundle MASTERY: Telecomunicaciones en la Globalización - Grado 11
 Este bundle contiene 20 preguntas sobre **telecomunicaciones en la globalización** para grado 11,

@@ -15,6 +15,7 @@ alignment: "MEP Costa Rica Bachillerato 2026"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
+bundle_index: 1
 ---
 # Bundle MASTERY: Repaso del Periodo 1 - Grado 11
 Este bundle contiene 20 preguntas sobre **repaso del periodo 1** para grado 11,

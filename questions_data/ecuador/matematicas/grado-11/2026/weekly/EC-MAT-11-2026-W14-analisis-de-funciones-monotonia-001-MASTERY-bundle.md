@@ -15,6 +15,7 @@ alignment: "Bases Curriculares Ecuador + BGU"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
+bundle_index: 1
 ---
 
 # MASTERY Bundle — Análisis de Funciones: Monotonía y Curvatura (W14)

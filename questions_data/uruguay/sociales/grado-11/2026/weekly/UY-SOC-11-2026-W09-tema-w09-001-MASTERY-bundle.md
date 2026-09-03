@@ -15,6 +15,7 @@ alignment: "ANEP - Plan 2006 Reformulación / Programa Ubicación"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
+bundle_index: 1
 ---
 
 # MASTERY Bundle - Ciencias Sociales: El estancamiento socioeconómico y el deterioro democrático (W09)

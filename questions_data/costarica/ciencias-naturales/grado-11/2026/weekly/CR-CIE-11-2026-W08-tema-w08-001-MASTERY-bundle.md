@@ -15,6 +15,7 @@ alignment: "MEP Costa Rica Bachillerato 2026"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
+bundle_index: 1
 ---
 
 # MASTERY Bundle: Ciencias Naturales - Undécimo Año (Estructura de la Materia y Química de Soluciones)

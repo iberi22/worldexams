@@ -15,6 +15,7 @@ alignment: "Ministerio de Educacion del Estado Plurinacional de Bolivia (MINEDU)
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
+bundle_index: 1
 ---
 
 # MASTERY Bundle - Ciencias Sociales: El Estado Plurinacional de Bolivia: la Constitución Política de 2009, plurilingüismo, descolonización e inclusión social (W10)

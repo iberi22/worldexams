@@ -15,6 +15,7 @@ alignment: "Departamento de Educacion de Puerto Rico"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
+bundle_index: 1
 ---
 
 # MASTERY Bundle - Español: Análisis Crítico del Discurso, Falacias Argumentativas y Sesgos Cognitivos (W09)

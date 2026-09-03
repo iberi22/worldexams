@@ -15,6 +15,7 @@ alignment: "Ministerio de Educacion del Estado Plurinacional de Bolivia (MINEDU)
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
+bundle_index: 1
 ---
 
 # MASTERY Bundle - Ciencias Sociales: Rebeliones indígenas coloniales y precursores de la independencia: Túpac Katari, Bartolina Sisa y revoluciones de 1809 (W03)
