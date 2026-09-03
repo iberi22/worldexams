@@ -1,0 +1,45 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import CorrectionThread from '../../components/corrections/CorrectionThread.svelte';
+import { resolveRuntimeCountryConfig } from '../../config';
+
+export const prerender = false;
+
+const runtimeCountry = resolveRuntimeCountryConfig(Astro.locals.country);
+---
+
+<Layout
+  title="Pipeline de Corrección Colaborativa — WorldExams"
+  description="Auditoría nodal y reporte colaborativo de inconsistencias en preguntas del banco pedagógico."
+>
+  <main class="min-h-screen bg-[#0A0A0B] text-zinc-100 py-12 px-4 sm:px-6 lg:px-8">
+    <div class="max-w-5xl mx-auto space-y-8">
+      <!-- Breadcrumb y navegación -->
+      <nav class="flex items-center gap-2 text-xs text-zinc-400 font-mono">
+        <a href="/" class="hover:text-emerald-400 transition-colors">Inicio</a>
+        <span>/</span>
+        <span class="text-zinc-500">Gobernanza de Calidad</span>
+        <span>/</span>
+        <span class="text-emerald-400">Correcciones</span>
+      </nav>
+
+      <!-- Header -->
+      <header class="border-b border-zinc-800/80 pb-6">
+        <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/20 text-emerald-400 text-xs font-mono mb-3 uppercase tracking-wider">
+          {runtimeCountry.examFullName} • Control de Calidad
+        </div>
+        <h1 class="text-2xl sm:text-3xl font-bold tracking-tight text-[#F5F5DC]">
+          Auditoría de Inconsistencias y Pipeline de Parches
+        </h1>
+        <p class="mt-2 text-sm text-zinc-400 leading-relaxed max-w-2xl">
+          Reporte de errores factuales, formato o distractores. Los parches v5.2 generados requieren consenso nodal (≥2 aprobaciones) y se exportan para verificación sin alterar el repositorio automáticamente.
+        </p>
+      </header>
+
+      <!-- Componente interactivo -->
+      <section>
+        <CorrectionThread client:load />
+      </section>
+    </div>
+  </main>
+</Layout>
