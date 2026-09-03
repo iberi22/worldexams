@@ -5,6 +5,8 @@
   import MathRenderer from './MathRenderer.svelte';
   import type { Question } from '../types';
   import { loadVideoManifest, getVideoManifestDefaults, type VideoManifestEntry } from '../lib/video-manifest';
+  import ThreadedExplanation from './community/ThreadedExplanation.svelte';
+  import CorrectionThread from './corrections/CorrectionThread.svelte';
 
   export let questions: Question[] = [];
   export let onSelect: (question: Question) => void = () => {};
@@ -32,6 +34,7 @@
 
   // 🆕 Modal state for viewing question details
   let selectedQuestion: Question | null = null;
+  let modalTab = 'official'; // 'official' | 'community' | 'correction'
   let videoByQuestionId: Record<string, VideoManifestEntry> = {};
   let videoDefaults: { youtube_channel_url?: string; instagram_url?: string; tiktok_url?: string } = {};
   let commentCounts: Record<string, number> = {};
@@ -510,7 +513,7 @@
             onClick={() => {
               if (item.data) {
                 selectedQuestion = item.data;
-                // Removed immediate navigation: onSelect(item.data);
+                modalTab = 'official';
               }
             }}
             className="p-6 flex flex-col justify-between group h-64 hover:border-emerald-500/50 transition-transform duration-300 hover:scale-[1.02]"
@@ -520,8 +523,16 @@
                 <div class="text-xs font-bold uppercase tracking-widest text-emerald-500">
                   {item.data?.category}
                 </div>
-                <div class="text-[10px] font-mono text-white/30">
-                  {item.data?.id}
+                <div class="flex items-center gap-2">
+                  <span
+                    class="bg-emerald-500/10 border border-emerald-500/20 text-emerald-400 px-2 py-0.5 rounded text-[10px] font-mono"
+                    data-testid="badge-contributions"
+                  >
+                    {commentCounts[String(item.data?.id)] || 0} aportes
+                  </span>
+                  <div class="text-[10px] font-mono text-white/30">
+                    {item.data?.id}
+                  </div>
                 </div>
               </div>
 
@@ -536,14 +547,20 @@
                   {#if item.data?.period}
                     <span>P{item.data?.period}</span>
                   {/if}
-                  {#if (commentCounts[String(item.data?.id)] || 0) > 0}
-                    <span class="text-emerald-400/90">{commentCounts[String(item.data?.id)]} com.</span>
-                  {/if}
                 </div>
-                <div class="flex items-center gap-2 text-emerald-500 opacity-60 group-hover:opacity-100 transition-opacity">
-                  <span class="text-xs uppercase tracking-widest">Revisar</span>
-                  <span class="text-xl">-></span>
-                </div>
+                <button
+                  type="button"
+                  onclick={(e) => {
+                    e.stopPropagation();
+                    if (item.data) {
+                      onSelect(item.data);
+                    }
+                  }}
+                  class="text-xs font-bold uppercase tracking-wider px-3 py-1.5 rounded-lg bg-emerald-600/90 hover:bg-emerald-500 text-white transition-colors flex items-center gap-1 cursor-pointer"
+                  data-testid="btn-debatir-comunidad"
+                >
+                  Debatir en Comunidad
+                </button>
               </div>
             </div>
           </FlashlightCard>
@@ -634,73 +651,130 @@
           </ul>
         </div>
 
-        <!-- Explanation -->
-        {#if selectedQuestion.explanation}
-          <div class="bg-indigo-500/10 border border-indigo-500/20 p-5 rounded-xl">
-            <h3 class="text-sm font-bold text-indigo-400 mb-3 flex items-center gap-2">
-              <span>💡</span> Explicación
-            </h3>
-            <div class="text-white/80 leading-relaxed whitespace-pre-line">
-              <MathRenderer content={selectedQuestion.explanation} />
-            </div>
-          </div>
-        {/if}
+        <!-- Modal Tabs Selector -->
+        <div class="flex flex-wrap gap-2 border-b border-white/10 pb-3" data-testid="modal-tabs">
+          <button
+            type="button"
+            onclick={() => (modalTab = 'official')}
+            class={`px-3 py-1.5 text-xs font-bold uppercase tracking-wider rounded-lg transition-all cursor-pointer ${
+              modalTab === 'official'
+                ? 'bg-emerald-600 text-white shadow-lg'
+                : 'bg-white/5 text-white/60 hover:text-white hover:bg-white/10'
+            }`}
+            data-testid="modal-tab-official"
+          >
+            💡 Explicación Oficial
+          </button>
+          <button
+            type="button"
+            onclick={() => (modalTab = 'community')}
+            class={`px-3 py-1.5 text-xs font-bold uppercase tracking-wider rounded-lg transition-all cursor-pointer ${
+              modalTab === 'community'
+                ? 'bg-emerald-600 text-white shadow-lg'
+                : 'bg-white/5 text-white/60 hover:text-white hover:bg-white/10'
+            }`}
+            data-testid="modal-tab-community"
+          >
+            💬 Debate Comunitario
+          </button>
+          <button
+            type="button"
+            onclick={() => (modalTab = 'correction')}
+            class={`px-3 py-1.5 text-xs font-bold uppercase tracking-wider rounded-lg transition-all cursor-pointer ${
+              modalTab === 'correction'
+                ? 'bg-emerald-600 text-white shadow-lg'
+                : 'bg-white/5 text-white/60 hover:text-white hover:bg-white/10'
+            }`}
+            data-testid="modal-tab-correction"
+          >
+            🛠️ Proponer Corrección
+          </button>
+        </div>
 
-        {#if getVideoForQuestion(selectedQuestion.id)?.youtube_url}
-          {@const videoMeta = getVideoForQuestion(selectedQuestion.id)}
-          <div class="bg-red-500/10 border border-red-500/20 p-5 rounded-xl">
-            <h3 class="text-sm font-bold text-red-300 mb-3 flex items-center gap-2">
-              <span>🎬</span> Explicación en Video
-            </h3>
-            <div class="flex flex-wrap items-center gap-3">
-              <a
-                href={videoMeta?.youtube_url}
-                target="_blank"
-                rel="noopener noreferrer"
-                class="px-4 py-2 bg-red-600 hover:bg-red-500 text-white text-xs font-bold uppercase tracking-widest rounded-lg transition-colors"
-              >
-                Ver en YouTube
-              </a>
-              {#if videoMeta?.instagram_url || videoDefaults.instagram_url}
+        {#if modalTab === 'official'}
+          <!-- Explanation -->
+          {#if selectedQuestion.explanation}
+            <div class="bg-indigo-500/10 border border-indigo-500/20 p-5 rounded-xl">
+              <h3 class="text-sm font-bold text-indigo-400 mb-3 flex items-center gap-2">
+                <span>💡</span> Explicación
+              </h3>
+              <div class="text-white/80 leading-relaxed whitespace-pre-line">
+                <MathRenderer content={selectedQuestion.explanation} />
+              </div>
+            </div>
+          {/if}
+
+          {#if getVideoForQuestion(selectedQuestion.id)?.youtube_url}
+            {@const videoMeta = getVideoForQuestion(selectedQuestion.id)}
+            <div class="bg-red-500/10 border border-red-500/20 p-5 rounded-xl">
+              <h3 class="text-sm font-bold text-red-300 mb-3 flex items-center gap-2">
+                <span>🎬</span> Explicación en Video
+              </h3>
+              <div class="flex flex-wrap items-center gap-3">
                 <a
-                  href={videoMeta?.instagram_url || videoDefaults.instagram_url}
+                  href={videoMeta?.youtube_url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  class="px-4 py-2 bg-pink-600/80 hover:bg-pink-500 text-white text-xs font-bold uppercase tracking-widest rounded-lg transition-colors"
+                  class="px-4 py-2 bg-red-600 hover:bg-red-500 text-white text-xs font-bold uppercase tracking-widest rounded-lg transition-colors"
                 >
-                  Instagram
+                  Ver en YouTube
                 </a>
-              {/if}
-              {#if videoMeta?.tiktok_url || videoDefaults.tiktok_url}
-                <a
-                  href={videoMeta?.tiktok_url || videoDefaults.tiktok_url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  class="px-4 py-2 bg-black/70 hover:bg-black text-white text-xs font-bold uppercase tracking-widest rounded-lg border border-white/20 transition-colors"
-                >
-                  TikTok
-                </a>
-              {/if}
+                {#if videoMeta?.instagram_url || videoDefaults.instagram_url}
+                  <a
+                    href={videoMeta?.instagram_url || videoDefaults.instagram_url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="px-4 py-2 bg-pink-600/80 hover:bg-pink-500 text-white text-xs font-bold uppercase tracking-widest rounded-lg transition-colors"
+                  >
+                    Instagram
+                  </a>
+                {/if}
+                {#if videoMeta?.tiktok_url || videoDefaults.tiktok_url}
+                  <a
+                    href={videoMeta?.tiktok_url || videoDefaults.tiktok_url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="px-4 py-2 bg-black/70 hover:bg-black text-white text-xs font-bold uppercase tracking-widest rounded-lg border border-white/20 transition-colors"
+                  >
+                    TikTok
+                  </a>
+                {/if}
+              </div>
             </div>
-          </div>
-        {:else}
-          <div class="bg-white/5 border border-white/10 p-5 rounded-xl">
-            <h3 class="text-sm font-bold text-white/70 mb-2 flex items-center gap-2">
-              <span>🎬</span> Explicación en Video
-            </h3>
-            <p class="text-xs text-white/50">Video en generación para esta pregunta.</p>
-          </div>
-        {/if}
+          {:else}
+            <div class="bg-white/5 border border-white/10 p-5 rounded-xl">
+              <h3 class="text-sm font-bold text-white/70 mb-2 flex items-center gap-2">
+                <span>🎬</span> Explicación en Video
+              </h3>
+              <p class="text-xs text-white/50">Video en generación para esta pregunta.</p>
+            </div>
+          {/if}
 
-        <!-- Context if available -->
-        {#if selectedQuestion.context}
-          <div class="bg-amber-500/10 border border-amber-500/20 p-5 rounded-xl">
-            <h3 class="text-sm font-bold text-amber-400 mb-3 flex items-center gap-2">
-              <span>📖</span> Contexto
-            </h3>
-            <div class="text-white/70 leading-relaxed whitespace-pre-line text-sm">
-              <MathRenderer content={selectedQuestion.context} />
+          <!-- Context if available -->
+          {#if selectedQuestion.context}
+            <div class="bg-amber-500/10 border border-amber-500/20 p-5 rounded-xl">
+              <h3 class="text-sm font-bold text-amber-400 mb-3 flex items-center gap-2">
+                <span>📖</span> Contexto
+              </h3>
+              <div class="text-white/70 leading-relaxed whitespace-pre-line text-sm">
+                <MathRenderer content={selectedQuestion.context} />
+              </div>
             </div>
+          {/if}
+        {:else if modalTab === 'community'}
+          <div data-testid="modal-content-community">
+            <ThreadedExplanation
+              explanationId={`exp-${selectedQuestion.id}`}
+              questionId={String(selectedQuestion.id)}
+              explanationContent={selectedQuestion.explanation || ''}
+            />
+          </div>
+        {:else if modalTab === 'correction'}
+          <div data-testid="modal-content-correction">
+            <CorrectionThread
+              initialQuestionId={String(selectedQuestion.id)}
+              initialBundlePath={selectedQuestion.bundleId ? `questions_data/bundle-${selectedQuestion.bundleId}.md` : `questions_data/bundle-${selectedQuestion.id}.md`}
+            />
           </div>
         {/if}
       </div>
