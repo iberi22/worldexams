@@ -139,6 +139,141 @@ const guidelinesByCountry: Partial<Record<CountryCode, AuthorityGuidelines>> = {
         ]
       }
     ]
+  },
+  AR: {
+    authorityName: 'Ministerio de Educación — APRENDER / NAP',
+    badgeLabel: 'Alineación Núcleos de Aprendizaje Prioritarios (NAP) y Operativo Aprender',
+    competencias: {
+      matematica: {
+        competencias: ['Reconocimiento de conceptos', 'Resolución de problemas', 'Argumentación y validación'],
+        componentes: ['Número y Operaciones', 'Geometría y Medida', 'Álgebra y Funciones', 'Estadística y Probabilidad'],
+        color: '#74acdf'
+      },
+      lengua: {
+        competencias: ['Comprensión lectora global', 'Lectura crítica e inferencial', 'Reconocimiento de estructuras textuales'],
+        componentes: ['Comprensión de textos ficcionales y no ficcionales', 'Reflexión sobre la lengua'],
+        color: '#8b5cf6'
+      },
+      cienciasnaturales: {
+        competencias: ['Explicación de fenómenos naturales', 'Comprensión de conceptos científicos', 'Análisis de procesos e indagación'],
+        componentes: ['Seres vivos y salud', 'Materia y energía', 'Tierra y universo'],
+        color: '#10b981'
+      },
+      sociales: {
+        competencias: ['Análisis de procesos históricos', 'Comprensión del espacio geográfico', 'Pensamiento crítico y ciudadanía'],
+        componentes: ['Sociedades a través del tiempo', 'Sociedades y espacios geográficos'],
+        color: '#f59e0b'
+      }
+    },
+    subjectLabels: {
+      matematica: 'Matemática',
+      lengua: 'Lengua',
+      cienciasnaturales: 'Ciencias Naturales',
+      sociales: 'Ciencias Sociales'
+    },
+    references: [
+      {
+        title: 'Ministerio de Educación de la Nación',
+        description: 'Documentos oficiales del Operativo Aprender y NAP.',
+        tone: 'sky',
+        accent: '#74acdf',
+        open: true,
+        links: [
+          { label: 'Operativo Aprender - Evaluación Educativa', url: 'https://www.argentina.gob.ar/educacion/evaluacion-educativa/aprender' },
+          { label: 'Núcleos de Aprendizaje Prioritarios (NAP)', url: 'https://www.argentina.gob.ar/educacion/nap' }
+        ]
+      }
+    ]
+  },
+  CL: {
+    authorityName: 'DEMRE / MINEDUC — PAES',
+    badgeLabel: 'Alineación Bases Curriculares y Criterios DEMRE 2026',
+    competencias: {
+      matematica: {
+        competencias: ['Resolver problemas', 'Representar', 'Modelar', 'Argumentar'],
+        componentes: ['Números', 'Álgebra y Funciones', 'Geometría', 'Probabilidad y Estadística'],
+        color: '#d52b1e'
+      },
+      lenguaje: {
+        competencias: ['Rastrear - Localizar', 'Relacionar - Interpretar', 'Evaluar - Reflexionar'],
+        componentes: ['Comprensión Lectora en textos literarios y no literarios'],
+        color: '#8b5cf6'
+      },
+      ciencias: {
+        competencias: ['Procesar e interpretar datos', 'Explicar fenómenos', 'Diseñar e investigar'],
+        componentes: ['Biología', 'Física', 'Química'],
+        color: '#10b981'
+      },
+      historia: {
+        competencias: ['Pensamiento temporal y espacial', 'Análisis de fuentes', 'Pensamiento crítico'],
+        componentes: ['Historia en perspectiva regional y mundial', 'Formación ciudadana', 'Economía y sociedad'],
+        color: '#f59e0b'
+      }
+    },
+    subjectLabels: {
+      matematica: 'Competencia Matemática',
+      lenguaje: 'Competencia Lectora',
+      ciencias: 'Ciencias',
+      historia: 'Historia y Ciencias Sociales'
+    },
+    references: [
+      {
+        title: 'DEMRE Universidad de Chile',
+        description: 'Modelos oficiales y temarios PAES.',
+        tone: 'red',
+        accent: '#d52b1e',
+        open: true,
+        links: [
+          { label: 'Temarios Oficiales PAES DEMRE', url: 'https://demre.cl/pruebas/paes/temarios' },
+          { label: 'Modelos de Prueba DEMRE', url: 'https://demre.cl/publicaciones/modelos-pruebas' }
+        ]
+      }
+    ]
+  },
+  PE: {
+    authorityName: 'MINEDU / UMC — ECE / CNEB',
+    badgeLabel: 'Curriculo Nacional de la Educación Básica (CNEB) vigente',
+    competencias: {
+      matematica: {
+        competencias: ['Resuelve problemas de cantidad', 'Resuelve problemas de regularidad, equivalencia y cambio', 'Resuelve problemas de forma, movimiento y localización', 'Resuelve problemas de gestión de datos e incertidumbre'],
+        componentes: ['Números y Operaciones', 'Álgebra', 'Geometría', 'Estadística'],
+        color: '#d91023'
+      },
+      comunicacion: {
+        competencias: ['Lee diversos tipos de textos escritos', 'Escribe diversos tipos de textos', 'Se comunica oralmente'],
+        componentes: ['Obtiene información', 'Infiere e interpreta', 'Reflexiona y evalúa'],
+        color: '#8b5cf6'
+      },
+      ciencia: {
+        competencias: ['Indaga mediante métodos científicos', 'Explica el mundo físico basándose en conocimientos científicos', 'Diseña y construye soluciones tecnológicas'],
+        componentes: ['Materia y energía', 'Biodiversidad, Tierra y universo'],
+        color: '#10b981'
+      },
+      sociales: {
+        competencias: ['Construye interpretaciones históricas', 'Gestiona responsablemente el espacio y el ambiente', 'Gestiona responsablemente los recursos económicos'],
+        componentes: ['Historia', 'Geografía', 'Economía'],
+        color: '#f59e0b'
+      }
+    },
+    subjectLabels: {
+      matematica: 'Matemática',
+      comunicacion: 'Comunicación',
+      ciencia: 'Ciencia y Tecnología',
+      sociales: 'Ciencias Sociales'
+    },
+    references: [
+      {
+        title: 'MINEDU UMC Perú',
+        description: 'Evaluación Censal de Estudiantes y CNEB.',
+        tone: 'red',
+        accent: '#d91023',
+        open: true,
+        links: [
+          { label: 'Oficina de Medición de la Calidad de los Aprendizajes (UMC)', url: 'http://umc.minedu.gob.pe/' },
+          { label: 'Currículo Nacional de la Educación Básica', url: 'http://www.minedu.gob.pe/curriculo/' }
+        ]
+      }
+    ]
   }
 };
 
