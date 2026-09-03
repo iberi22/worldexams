@@ -194,6 +194,76 @@
       </div>
     {/if}
 
+    <!-- 5. COMUNIDAD / HILOS COLABORATIVOS CARD -->
+    <div class="col-span-1 flex">
+      <a
+        href="/community/co-math-11-001"
+        class="block w-full focus:outline-none"
+      >
+        <FlashlightCard
+          className="p-5 sm:p-6 flex flex-col justify-between group h-full transition-all duration-300 hover:scale-[1.01] hover:border-emerald-500/50 bg-gradient-to-br from-emerald-950/30 via-teal-950/15 to-[#121212] border-emerald-500/20"
+        >
+          <div>
+            <div class="flex items-center justify-between gap-2 mb-3">
+              <span class="px-2 py-0.5 bg-emerald-500/20 text-emerald-300 border border-emerald-500/30 text-[9px] font-bold uppercase tracking-widest rounded-full font-mono">
+                P2P Social · v5.2
+              </span>
+              <span class="text-2xl">💬</span>
+            </div>
+
+            <h3 class="text-xl font-bold text-emerald-400 group-hover:text-emerald-300 transition-colors uppercase tracking-wider text-left">
+              Comunidad
+            </h3>
+            <p class="text-xs text-white/60 mt-1 leading-relaxed text-left">
+              Hilos de argumentación pedagógica, contraejemplos y debate recursivo auditado.
+            </p>
+          </div>
+
+          <div class="mt-4 pt-3 border-t border-white/10 flex items-center justify-between text-[10px] text-emerald-400/80">
+            <span>Discusión abierta</span>
+            <span class="font-bold flex items-center gap-1 group-hover:text-emerald-300">
+              Participar →
+            </span>
+          </div>
+        </FlashlightCard>
+      </a>
+    </div>
+
+    <!-- 6. AUDITORÍA & CORRECCIONES CARD -->
+    <div class="col-span-1 flex">
+      <a
+        href="/corrections"
+        class="block w-full focus:outline-none"
+      >
+        <FlashlightCard
+          className="p-5 sm:p-6 flex flex-col justify-between group h-full transition-all duration-300 hover:scale-[1.01] hover:border-amber-500/50 bg-gradient-to-br from-amber-950/30 via-orange-950/15 to-[#121212] border-amber-500/20"
+        >
+          <div>
+            <div class="flex items-center justify-between gap-2 mb-3">
+              <span class="px-2 py-0.5 bg-amber-500/20 text-amber-300 border border-amber-500/30 text-[9px] font-bold uppercase tracking-widest rounded-full font-mono">
+                Calidad Nodal
+              </span>
+              <span class="text-2xl">🛠️</span>
+            </div>
+
+            <h3 class="text-xl font-bold text-amber-400 group-hover:text-amber-300 transition-colors uppercase tracking-wider text-left">
+              Correcciones
+            </h3>
+            <p class="text-xs text-white/60 mt-1 leading-relaxed text-left">
+              Reporte colaborativo de inconsistencias, diff unificado y consenso de parches v5.2.
+            </p>
+          </div>
+
+          <div class="mt-4 pt-3 border-t border-white/10 flex items-center justify-between text-[10px] text-amber-400/80">
+            <span>Pipeline nodal</span>
+            <span class="font-bold flex items-center gap-1 group-hover:text-amber-300">
+              Auditar →
+            </span>
+          </div>
+        </FlashlightCard>
+      </a>
+    </div>
+
     <!-- 5. SECONDARY GRADES SUB-GRID -->
     {#if secondaryLandingGrades.length > 0}
       <div class="col-span-1 md:col-span-2 lg:col-span-3 bg-[#121212]/60 border border-white/10 rounded-2xl p-5 sm:p-6 mt-2">
