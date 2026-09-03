@@ -149,6 +149,20 @@ export interface QuestionStats {
   mostChosenDistractor?: string;
 }
 
+// Integrity Report
+export interface IntegrityReport {
+  overall: number; // 0-100
+  copyPasteEvents: number;
+  rightClickEvents: number;
+  devtoolsEvents: number;
+  tabSwitchEvents: number;
+  suspiciousPatterns: number;
+  focusLossEvents: number;
+  grade: 'A' | 'B' | 'C' | 'D' | 'F';
+  flaggedAt: number;
+  summary: string;
+}
+
 // WebSocket Messages
 export type WSMessage =
   | { type: 'player_joined'; player_id: string; player_name: string; player?: Player }
