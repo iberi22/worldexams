@@ -37,7 +37,55 @@ describe('Curriculum Subject Hub & Authority Guidelines', () => {
     expect(pe.competencias.comunicacion).toBeDefined();
   });
 
-  it('returns authority guidelines for El Salvador (SV)', () => {
+  it('returns authority guidelines for Ecuador (EC)', () => {
+    const ec = getAuthorityGuidelines('EC');
+    expect(ec.authorityName).toContain('SENESCYT');
+    expect(ec.competencias.matematica).toBeDefined();
+    expect(ec.competencias.lengua).toBeDefined();
+  });
+
+  it('returns authority guidelines for Brasil (BR)', () => {
+    const br = getAuthorityGuidelines('BR');
+    expect(br.authorityName).toContain('ENEM');
+    expect(br.competencias.matematica).toBeDefined();
+    expect(br.competencias.portugues).toBeDefined();
+    expect(br.competencias.ciencias).toBeDefined();
+    expect(br.competencias.humanas).toBeDefined();
+  });
+
+  it('returns authority guidelines for Panamá (PA)', () => {
+    const pa = getAuthorityGuidelines('PA');
+    expect(pa.authorityName).toContain('MEDUCA');
+    expect(pa.competencias.matematicas).toBeDefined();
+    expect(pa.competencias.espanol).toBeDefined();
+  });
+
+  it('returns authority guidelines for Costa Rica (CR)', () => {
+    const cr = getAuthorityGuidelines('CR');
+    expect(cr.authorityName).toContain('MEP');
+    expect(cr.competencias.matematica).toBeDefined();
+    expect(cr.competencias.espanol).toBeDefined();
+    expect(cr.competencias.ciencias).toBeDefined();
+    expect(cr.competencias.sociales).toBeDefined();
+  });
+
+  it('returns authority guidelines for Guatemala (GT)', () => {
+    const gt = getAuthorityGuidelines('GT');
+    expect(gt.authorityName).toContain('MINEDUC');
+    expect(gt.competencias.matematica).toBeDefined();
+    expect(gt.competencias.lenguaje).toBeDefined();
+  });
+
+  it('returns authority guidelines for República Dominicana (DO)', () => {
+    const doGuidelines = getAuthorityGuidelines('DO');
+    expect(doGuidelines.authorityName).toContain('MINERD');
+    expect(doGuidelines.competencias.matematica).toBeDefined();
+    expect(doGuidelines.competencias['lengua-espanola']).toBeDefined();
+    expect(doGuidelines.competencias['ciencias-naturaleza']).toBeDefined();
+    expect(doGuidelines.competencias['ciencias-sociales']).toBeDefined();
+  });
+
+it('returns authority guidelines for El Salvador (SV)', () => {
     const sv = getAuthorityGuidelines('SV');
     expect(sv.authorityName).toContain('MINED');
     expect(sv.authorityName).toContain('AVANZO');
@@ -94,7 +142,7 @@ describe('Curriculum Subject Hub & Authority Guidelines', () => {
     expect(gq.competencias.frances).toBeDefined();
   });
 
-  it('returns safe fallback for unconfigured country codes', () => {
+    it('returns safe fallback for unconfigured country codes', () => {
     const fallback = getAuthorityGuidelines('ZZ' as any);
     expect(fallback.authorityName).toBe('Autoridad Educativa Local');
     expect(fallback.badgeLabel).toBeDefined();
