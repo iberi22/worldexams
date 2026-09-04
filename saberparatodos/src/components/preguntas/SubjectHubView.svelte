@@ -111,45 +111,60 @@
     } else if (s.includes('cienc') || s.includes('fisi') || s.includes('quim') || s.includes('bio')) {
       return [
         {
+          title: '⚠️ Confusión entre Calor y Temperatura',
+          description: 'Tratar el calor (energía térmica en tránsito) y la temperatura (medida de la energía cinética promedio de las partículas) como sinónimos.',
+          remedy: 'El calor se transfiere entre cuerpos debido a una diferencia de temperatura; la temperatura mide el nivel térmico intrínseco.'
+        },
+        {
           title: '⚠️ Confusión entre Masa y Peso',
-          description: 'Tratar la masa (propiedad intrínseca en kg) y el peso (fuerza gravitacional en N) como equivalentes.',
-          remedy: 'Recuerda que el peso varía según la aceleración de la gravedad (W = m·g).'
+          description: 'Tratar la masa (propiedad intrínseca en kg) y el peso (fuerza gravitacional en N) como conceptos idénticos.',
+          remedy: 'La masa permanece constante en cualquier lugar; el peso varía proporcionalmente con la gravedad (W = m·g).'
+        },
+        {
+          title: '⚠️ Explicación Lamarckiana vs. Selección Natural Darwiniana',
+          description: 'Atribuir la evolución a modificaciones adquiridas por "necesidad u uso del individuo" (Lamarck) en lugar de la selección de variaciones fenotípicas preexistentes (Darwin).',
+          remedy: 'La selección natural actúa sobre variantes genéticas heredables en la población, no sobre cambios adquiridos individualmente durante la vida.'
         },
         {
           title: '⚠️ Aislamiento Incorrecto de Variables en Experimentos',
-          description: 'Atribuir cambios en un resultado a una variable sin controlar las demás variables independientes.',
-          remedy: 'En el método científico solo debe modificarse una variable independiente a la vez.'
-        },
-        {
-          title: '⚠️ Errores en Relaciones Tróficas y Ecosistémicas',
-          description: 'Interpretar el sentido de las flechas en redes alimentarias como "quien se come a quien" en lugar del flujo de energía.',
-          remedy: 'Las flechas van del organismo consumido hacia el consumidor que recibe la energía.'
+          description: 'Atribuir cambios en el resultado a una variable de estudio sin haber mantenido constantes las variables de control.',
+          remedy: 'En un experimento válido solo se altera una variable independiente a la vez mientras se controlan las demás.'
         }
       ];
     } else if (s.includes('soc') || s.includes('hist') || s.includes('ciudad')) {
       return [
         {
-          title: '⚠️ Confusión entre Causa y Correlación Histórica',
-          description: 'Asumir que un evento causó otro solo porque sucedieron en periodos cronológicos cercanos.',
-          remedy: 'Examina las causas estructurales y los factores multicausales de los hechos sociales.'
+          title: '⚠️ Anacronismo Histórico',
+          description: 'Juzgar hechos, valores o decisiones del pasado utilizando categorías, tecnologías o normas morales del presente.',
+          remedy: 'Contextualiza cada acontecimiento dentro del marco temporal, cultural e ideológico de su propia época.'
         },
         {
-          title: '⚠️ Desconocimiento de Mecanismos de Participación',
-          description: 'Confundir la Acción de Tutela (derechos fundamentales) con la Acción Popular (derechos colectivos).',
-          remedy: 'Revisa la escala de afectación: individual fundamental vs. derecho colectivo o ambiental.'
+          title: '⚠️ Sesgo de Causa Única (Monocausalidad)',
+          description: 'Reducir un proceso histórico, social o económico complejo a una sola causa simplificada.',
+          remedy: 'Analiza los factores multicausales (políticos, económicos, sociales y culturales) que interactúan en el proceso.'
+        },
+        {
+          title: '⚠️ Confusión de Poderes del Estado y Mecanismos Constitucionales',
+          description: 'Atribuir funciones legislativas o judiciales al poder ejecutivo, o confundir instrumentos de protección de derechos (ej: Acción de Tutela vs Acción Popular).',
+          remedy: 'Diferencia claramente las funciones constitucionales de cada rama y el ámbito de protección individual vs colectivo.'
         }
       ];
     } else {
       return [
         {
-          title: '⚠️ Confusión de Falsos Amigos y Vocabulario',
-          description: 'Interpretar palabras por su parecido ortográfico en español en lugar de su significado real.',
-          remedy: 'Practica el vocabulario contextualizado y lee la frase completa.'
+          title: '⚠️ Falsos Amigos Comunes (False Friends)',
+          description: 'Traducir literalmente falsos cognados comunes como "actually" (en realidad, no actualmente), "embarrassed" (avergonzado/a, no embarazada) o "library" (biblioteca, no librería).',
+          remedy: 'Verifica el significado contextual en inglés sin asumir la equivalencia morfológica directa con el español.'
         },
         {
-          title: '⚠️ Errores de Tiempos Verbales',
-          description: 'Confundir acciones terminadas en el pasado simple con estados conector con el presente.',
-          remedy: 'Presta atención a los marcadores temporales (yesterday, since, for, already).'
+          title: '⚠️ Errores de Tiempos y Aspectos Verbales',
+          description: 'Confundir acciones concluidas en el pasado simple (Past Simple) con acciones iniciadas en el pasado con relevancia en el presente (Present Perfect).',
+          remedy: 'Identifica las señales temporales del contexto (ej: "yesterday" o "in 2010" vs "since", "for", "already").'
+        },
+        {
+          title: '⚠️ Desatención a Conectores Discursivos y Cohesión Textual',
+          description: 'Malinterpretar la relación lógica entre oraciones al ignorar conectores de contraste, causa o consecuencia (however, despite, furthermore, therefore).',
+          remedy: 'Presta atención a las transiciones para identificar si la idea secundaria apoya, contradice o complementa la idea principal.'
         }
       ];
     }

@@ -894,6 +894,144 @@ const guidelinesByCountry: Partial<Record<CountryCode, AuthorityGuidelines>> = {
       }
     ]
   }
+,
+  UY: {
+    authorityName: 'ANEP / DGES — UDELAR',
+    badgeLabel: 'Evaluación Nacional de Aprendizajes y Admisión UDELAR',
+    competencias: {
+      matematica: {
+        competencias: ['Resolución de problemas', 'Modelización matemática', 'Razonamiento y argumentación'],
+        componentes: ['Álgebra y Funciones', 'Geometría y Medida', 'Estadística y Probabilidad', 'Números y Operaciones'],
+        color: '#0038a8'
+      },
+      lengua: {
+        competencias: ['Comprensión lectora y análisis textual', 'Producción escrita y propiedad léxica', 'Reflexión sobre el lenguaje'],
+        componentes: ['Textos explicativos y argumentativos', 'Cohesión y coherencia', 'Vocabulario en contexto'],
+        color: '#8b5cf6'
+      },
+      ciencias: {
+        competencias: ['Explicación científica de fenómenos', 'Análisis crítico e indagación experimental', 'Uso responsable de tecnología'],
+        componentes: ['Física y Química', 'Biología y Ciencias de la Tierra', 'Ciencia, Tecnología y Sociedad'],
+        color: '#10b981'
+      },
+      sociales: {
+        competencias: ['Comprensión de procesos históricos y sociales', 'Análisis territorial y ambiental', 'Ciudadanía y derechos humanos'],
+        componentes: ['Historia nacional y contemporánea', 'Geografía humana y económica', 'Formación ciudadana'],
+        color: '#f59e0b'
+      }
+    },
+    subjectLabels: {
+      matematica: 'Matemática',
+      lengua: 'Lengua y Literatura',
+      ciencias: 'Ciencias Naturales',
+      sociales: 'Ciencias Sociales'
+    },
+    references: [
+      {
+        title: 'ANEP & DGES Uruguay',
+        description: 'Marcos curriculares nacionales y pruebas de egreso.',
+        tone: 'blue',
+        accent: '#0038a8',
+        open: true,
+        links: [
+          { label: 'Administración Nacional de Educación Pública (ANEP)', url: 'https://www.anep.edu.uy/' },
+          { label: 'Dirección General de Educación Secundaria (DGES)', url: 'https://www.ces.edu.uy/' },
+          { label: 'Universidad de la República (UDELAR) - Ingresos', url: 'https://udelar.edu.uy/' }
+        ]
+      }
+    ]
+  },
+  PY: {
+    authorityName: 'MEC — SNEPE',
+    badgeLabel: 'Sistema Nacional de Evaluación del Proceso Educativo (SNEPE)',
+    competencias: {
+      matematica: {
+        competencias: ['Comprensión de conceptos matemáticos', 'Procedimientos y cálculo', 'Resolución de problemas contextualizados'],
+        componentes: ['Número y Operaciones', 'Álgebra y Funciones', 'Geometría y Medida', 'Estadística'],
+        color: '#d52b1e'
+      },
+      lengua: {
+        competencias: ['Comprensión de lectura en castellano y guaraní', 'Expresión escrita y normativa', 'Análisis crítico de textos'],
+        componentes: ['Comprensión literal e inferencial', 'Estructura textual', 'Bilingüismo y sociolingüística'],
+        color: '#8b5cf6'
+      },
+      ciencias: {
+        competencias: ['Indagación científica', 'Comprensión de fenómenos naturales y de la salud', 'Conservación ambiental'],
+        componentes: ['Materia y Energía', 'Seres Vivos y Salud', 'Medio Ambiente y Sustentabilidad'],
+        color: '#10b981'
+      },
+      sociales: {
+        competencias: ['Interpretación histórica del Paraguay y América', 'Ubicación espacio-temporal', 'Formación ética y ciudadana'],
+        componentes: ['Historia Paraguaya y Universal', 'Geografía', 'Educación Cívica y Derechos'],
+        color: '#f59e0b'
+      }
+    },
+    subjectLabels: {
+      matematica: 'Matemática',
+      lengua: 'Lengua Castellana y Materna',
+      ciencias: 'Ciencias de la Naturaleza',
+      sociales: 'Ciencias Sociales'
+    },
+    references: [
+      {
+        title: 'Ministerio de Educación y Ciencias (MEC)',
+        description: 'Evaluaciones e informes del SNEPE.',
+        tone: 'red',
+        accent: '#d52b1e',
+        open: true,
+        links: [
+          { label: 'Portal Oficial del Ministerio de Educación y Ciencias (MEC)', url: 'https://www.mec.gov.py/' },
+          { label: 'Sistema Nacional de Evaluación del Proceso Educativo (SNEPE)', url: 'https://www.mec.gov.py/snepe/' }
+        ]
+      }
+    ]
+  },
+  BO: {
+    authorityName: 'Ministerio de Educación — UMSA / UAGRM',
+    badgeLabel: 'Sistema de Evaluación del Estado Plurinacional y Admisión Universitaria',
+    competencias: {
+      matematica: {
+        competencias: ['Razonamiento lógico-matemático', 'Modelado algebraico y geométrico', 'Resolución de problemas comunitarios'],
+        componentes: ['Álgebra y Trigonometría', 'Geometría Analítica y Cálculo', 'Aritmética y Estadística'],
+        color: '#007a3d'
+      },
+      comunicacion: {
+        competencias: ['Comprensión lectora y análisis discursivo', 'Redacción académica y técnica', 'Razonamiento verbal'],
+        componentes: ['Lenguaje y Literatura', 'Comprensión y Análisis de Textos', 'Ortografía y Gramática'],
+        color: '#8b5cf6'
+      },
+      ciencias: {
+        competencias: ['Explicación de principios físicos y químicos', 'Análisis biológico y ecológico', 'Investigación científica aplicada'],
+        componentes: ['Física', 'Química', 'Biología y Geografía'],
+        color: '#10b981'
+      },
+      sociales: {
+        competencias: ['Análisis sociohistórico plurinacional', 'Geografía y recursos estratégicos', 'Cosmovisiones y formación ciudadana'],
+        componentes: ['Historia de Bolivia y Universal', 'Geografía Política y Económica', 'Educación Ciudadana'],
+        color: '#f59e0b'
+      }
+    },
+    subjectLabels: {
+      matematica: 'Matemática',
+      comunicacion: 'Comunicación y Lenguajes',
+      ciencias: 'Ciencias Naturales (Física, Química, Biología)',
+      sociales: 'Ciencias Sociales e Historia'
+    },
+    references: [
+      {
+        title: 'Ministerio de Educación de Bolivia',
+        description: 'Leyes educativas y admisiones a universidades públicas (UMSA, UAGRM).',
+        tone: 'emerald',
+        accent: '#007a3d',
+        open: true,
+        links: [
+          { label: 'Ministerio de Educación del Estado Plurinacional de Bolivia', url: 'https://www.minedu.gob.bo/' },
+          { label: 'Universidad Mayor de San Andrés (UMSA) - Admisiones', url: 'https://www.umsa.bo/' },
+          { label: 'Universidad Autónoma Gabriel René Moreno (UAGRM)', url: 'https://www.uagrm.edu.bo/' }
+        ]
+      }
+    ]
+  }
 };
 
 export function getAuthorityGuidelines(countryCode: CountryCode): AuthorityGuidelines {
