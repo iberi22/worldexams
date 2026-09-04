@@ -142,6 +142,27 @@ it('returns authority guidelines for El Salvador (SV)', () => {
     expect(gq.competencias.frances).toBeDefined();
   });
 
+  it('returns authority guidelines for Uruguay (UY)', () => {
+    const uy = getAuthorityGuidelines('UY');
+    expect(uy.authorityName).toContain('ANEP');
+    expect(uy.competencias.matematica).toBeDefined();
+    expect(uy.competencias.matematica.competencias).toContain('Resolución de problemas');
+  });
+
+  it('returns authority guidelines for Paraguay (PY)', () => {
+    const py = getAuthorityGuidelines('PY');
+    expect(py.authorityName).toContain('SNEPE');
+    expect(py.competencias.matematica).toBeDefined();
+    expect(py.competencias.lengua.componentes).toContain('Bilingüismo y sociolingüística');
+  });
+
+  it('returns authority guidelines for Bolivia (BO)', () => {
+    const bo = getAuthorityGuidelines('BO');
+    expect(bo.authorityName).toContain('Ministerio de Educación');
+    expect(bo.competencias.comunicacion).toBeDefined();
+    expect(bo.competencias.matematica.componentes).toContain('Álgebra y Trigonometría');
+  });
+
     it('returns safe fallback for unconfigured country codes', () => {
     const fallback = getAuthorityGuidelines('ZZ' as any);
     expect(fallback.authorityName).toBe('Autoridad Educativa Local');
