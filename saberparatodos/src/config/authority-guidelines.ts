@@ -274,6 +274,348 @@ const guidelinesByCountry: Partial<Record<CountryCode, AuthorityGuidelines>> = {
         ]
       }
     ]
+  },
+  EC: {
+    authorityName: 'SENESCYT / Ineval — Examen de Acceso a la Educación Superior / Ser Bachiller',
+    badgeLabel: 'Alineación oficial SENESCYT e Ineval — EAES / Ser Bachiller',
+    competencias: {
+      matematica: {
+        competencias: ['Razonamiento cuantitativo', 'Resolución de problemas matemáticos', 'Modelación y abstracción'],
+        componentes: ['Álgebra y Funciones', 'Geometría y Medida', 'Estadística y Probabilidad'],
+        color: '#3b82f6'
+      },
+      matematicas: {
+        competencias: ['Razonamiento cuantitativo', 'Resolución de problemas matemáticos', 'Modelación y abstracción'],
+        componentes: ['Álgebra y Funciones', 'Geometría y Medida', 'Estadística y Probabilidad'],
+        color: '#3b82f6'
+      },
+      lengua: {
+        competencias: ['Comprensión lectora', 'Dominio lingüístico', 'Análisis crítico de textos'],
+        componentes: ['Comprensión de textos', 'Semántica y léxico', 'Estructura textual y sintaxis'],
+        color: '#8b5cf6'
+      },
+      ciencias: {
+        competencias: ['Explicación de fenómenos naturales', 'Indagación científica', 'Razonamiento científico'],
+        componentes: ['Cuerpo humano y salud', 'Materia y energía', 'Ecosistemas y biodiversidad'],
+        color: '#10b981'
+      },
+      sociales: {
+        competencias: ['Comprensión del contexto histórico y social', 'Pensamiento crítico social', 'Análisis geográfico y ciudadano'],
+        componentes: ['Historia y sociedad', 'Identidad y cultura', 'Ciudadanía y convivencia'],
+        color: '#f59e0b'
+      }
+    },
+    subjectLabels: {
+      matematica: 'Matemática',
+      matematicas: 'Matemáticas',
+      lengua: 'Lengua y Literatura',
+      ciencias: 'Ciencias Naturales',
+      sociales: 'Estudios Sociales'
+    },
+    references: [
+      {
+        title: 'SENESCYT e Ineval',
+        description: 'Fuentes oficiales para exámenes de admisión universitaria y evaluación nacional en Ecuador.',
+        tone: 'yellow',
+        accent: '#fcd116',
+        open: true,
+        links: [
+          { label: 'Secretaría de Educación Superior, Ciencia, Tecnología e Innovación (SENESCYT)', url: 'https://www.educacionsuperior.gob.ec/' },
+          { label: 'Instituto Nacional de Evaluación Educativa (Ineval)', url: 'https://www.evaluacion.gob.ec/' }
+        ]
+      }
+    ]
+  },
+  BR: {
+    authorityName: 'INEP / MEC — Exame Nacional do Ensino Médio (ENEM)',
+    badgeLabel: 'Alinhamento Matriz de Referência ENEM — INEP / MEC',
+    competencias: {
+      matematica: {
+        competencias: ['Matemática e suas Tecnologias', 'Raciocínio lógico-matemático', 'Resolução de problemas contextuais'],
+        componentes: ['Conhecimentos numéricos', 'Conhecimentos geométricos', 'Conhecimentos de estatística e probabilidade', 'Conhecimentos algébricos'],
+        color: '#009739'
+      },
+      portugues: {
+        competencias: ['Linguagens, Códigos e suas Tecnologias', 'Compreensão e interpretação textual', 'Análise crítica de linguagens e artes'],
+        componentes: ['Estudo do texto', 'Análise linguística', 'Literatura e artes', 'Educação física e tecnologias'],
+        color: '#8b5cf6'
+      },
+      linguagens: {
+        competencias: ['Linguagens, Códigos e suas Tecnologias', 'Compreensão e interpretação textual', 'Análise crítica de linguagens e artes'],
+        componentes: ['Estudo do texto', 'Análise linguística', 'Literatura e artes', 'Educação física e tecnologias'],
+        color: '#8b5cf6'
+      },
+      ciencias: {
+        competencias: ['Ciências da Natureza e suas Tecnologias', 'Investigação e explicação de fenômenos', 'Aplicações tecnológicas e ambientais'],
+        componentes: ['Física', 'Química', 'Biologia'],
+        color: '#10b981'
+      },
+      historia: {
+        competencias: ['Ciências Humanas e suas Tecnologias', 'Análise de processos históricos e sociais', 'Compreensão do espaço e cidadania'],
+        componentes: ['História', 'Geografia', 'Filosofia e Sociologia'],
+        color: '#f59e0b'
+      },
+      humanas: {
+        competencias: ['Ciências Humanas e suas Tecnologias', 'Análise de processos históricos e sociais', 'Compreensão do espaço e cidadania'],
+        componentes: ['História', 'Geografia', 'Filosofia e Sociologia'],
+        color: '#f59e0b'
+      },
+      redacao: {
+        competencias: ['Domínio da norma culta escrita', 'Compreensão da proposta e aplicação de áreas do conhecimento', 'Elaboração de proposta de intervenção social'],
+        componentes: ['Estrutura dissertativo-argumentativa', 'Coesão e coerência', 'Proposta de intervenção'],
+        color: '#ef4444'
+      }
+    },
+    subjectLabels: {
+      matematica: 'Matemática e suas Tecnologias',
+      portugues: 'Linguagens, Códigos e suas Tecnologias',
+      linguagens: 'Linguagens, Códigos e suas Tecnologias',
+      ciencias: 'Ciências da Natureza e suas Tecnologias',
+      historia: 'Ciências Humanas e suas Tecnologias',
+      humanas: 'Ciências Humanas e suas Tecnologias',
+      redacao: 'Redação'
+    },
+    references: [
+      {
+        title: 'INEP / MEC Brasil',
+        description: 'Matrizes de referência e documentos oficiais do ENEM.',
+        tone: 'emerald',
+        accent: '#009739',
+        open: true,
+        links: [
+          { label: 'Portal Oficial do ENEM - INEP', url: 'https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem' },
+          { label: 'Matriz de Referência do ENEM (PDF)', url: 'https://download.inep.gov.br/download/enem/matriz_referencia.pdf' }
+        ]
+      }
+    ]
+  },
+  PA: {
+    authorityName: 'MEDUCA — Pruebas CRECER y Admisión Universitaria (UP, UTP)',
+    badgeLabel: 'Alineación oficial MEDUCA — Pruebas CRECER y Graduandos',
+    competencias: {
+      matematicas: {
+        competencias: ['Razonamiento lógico-matemático', 'Resolución de problemas', 'Pensamiento variacional'],
+        componentes: ['Aritmética y Álgebra', 'Geometría y Medida', 'Estadística y Probabilidad'],
+        color: '#005293'
+      },
+      matematica: {
+        competencias: ['Razonamiento lógico-matemático', 'Resolución de problemas', 'Pensamiento variacional'],
+        componentes: ['Aritmética y Álgebra', 'Geometría y Medida', 'Estadística y Probabilidad'],
+        color: '#005293'
+      },
+      espanol: {
+        competencias: ['Comprensión e interpretación lectora', 'Competencia comunicativa y lingüística', 'Análisis crítico'],
+        componentes: ['Comprensión textual', 'Gramática y Ortografía', 'Literatura y Expresión'],
+        color: '#8b5cf6'
+      },
+      ciencias: {
+        competencias: ['Explicación de fenómenos científicos', 'Indagación y razonamiento experimental', 'Ciencia y sociedad'],
+        componentes: ['Biología y Entorno', 'Física y Química', 'Ciencias de la Tierra'],
+        color: '#10b981'
+      },
+      sociales: {
+        competencias: ['Pensamiento histórico y espacial', 'Análisis cívico y geográfico', 'Formación ciudadana'],
+        componentes: ['Historia de Panamá y Universal', 'Geografía y Democracia', 'Cultura y Sociedad'],
+        color: '#f59e0b'
+      }
+    },
+    subjectLabels: {
+      matematicas: 'Matemáticas',
+      matematica: 'Matemáticas',
+      espanol: 'Español',
+      ciencias: 'Ciencias',
+      sociales: 'Ciencias Sociales'
+    },
+    references: [
+      {
+        title: 'MEDUCA Panamá',
+        description: 'Documentos oficiales del Ministerio de Educación de Panamá.',
+        tone: 'blue',
+        accent: '#005293',
+        open: true,
+        links: [
+          { label: 'Ministerio de Educación de Panamá (MEDUCA)', url: 'https://www.meduca.gob.pa/' },
+          { label: 'Dirección Nacional de Evaluación Educativa', url: 'https://www.meduca.gob.pa/evaluacion-educativa/' }
+        ]
+      }
+    ]
+  },
+  CR: {
+    authorityName: 'MEP — Pruebas Nacionales Estandarizadas (PNE)',
+    badgeLabel: 'Alineación oficial MEP — Pruebas Nacionales Estandarizadas (PNE)',
+    competencias: {
+      matematica: {
+        competencias: ['Razonamiento y argumentación', 'Resolución de problemas', 'Comunicación y representación'],
+        componentes: ['Números y Operaciones', 'Relaciones y Álgebra', 'Geometría', 'Estadística y Probabilidad'],
+        color: '#002B7F'
+      },
+      matematicas: {
+        competencias: ['Razonamiento y argumentación', 'Resolución de problemas', 'Comunicación y representación'],
+        componentes: ['Números y Operaciones', 'Relaciones y Álgebra', 'Geometría', 'Estadística y Probabilidad'],
+        color: '#002B7F'
+      },
+      espanol: {
+        competencias: ['Comprensión lectora inferencial y crítica', 'Análisis de textos literarios y no literarios', 'Uso normativo de la lengua'],
+        componentes: ['Lectura e Interpretación', 'Expresión Escrita', 'Gramática y Vocabulario'],
+        color: '#8b5cf6'
+      },
+      ciencias: {
+        competencias: ['Comprensión de conceptos científicos', 'Aplicación del método científico', 'Análisis de procesos e impactos'],
+        componentes: ['Biología', 'Física', 'Química'],
+        color: '#10b981'
+      },
+      sociales: {
+        competencias: ['Pensamiento crítico-social', 'Uso e interpretación de fuentes históricas', 'Conciencia geográfica e identidad nacional'],
+        componentes: ['Historia de Costa Rica y Mundial', 'Geografía Humana y Física', 'Educación Cívica y Democracia'],
+        color: '#f59e0b'
+      },
+      civica: {
+        competencias: ['Comprensión de los principios democráticos', 'Análisis de la organización del Estado y los derechos humanos', 'Participación y convivencia ciudadana'],
+        componentes: ['Derechos y Deberes', 'Institucionalidad Democrática', 'Cultura de Paz'],
+        color: '#ef4444'
+      }
+    },
+    subjectLabels: {
+      matematica: 'Matemática',
+      matematicas: 'Matemáticas',
+      espanol: 'Español',
+      ciencias: 'Ciencias',
+      sociales: 'Estudios Sociales',
+      civica: 'Educación Cívica'
+    },
+    references: [
+      {
+        title: 'MEP Costa Rica',
+        description: 'Información y marcos conceptuales de las Pruebas Nacionales Estandarizadas.',
+        tone: 'indigo',
+        accent: '#002b7f',
+        open: true,
+        links: [
+          { label: 'Ministerio de Educación Pública de Costa Rica (MEP)', url: 'https://www.mep.go.cr/' },
+          { label: 'Dirección de Gestión y Evaluación de la Calidad (DGEC)', url: 'https://dgec.mep.go.cr/' }
+        ]
+      }
+    ]
+  },
+  GT: {
+    authorityName: 'MINEDUC / DIGEDUCA — Evaluación Graduandos',
+    badgeLabel: 'Alineación oficial MINEDUC / DIGEDUCA — Evaluación Nacional de Graduandos',
+    competencias: {
+      matematica: {
+        competencias: ['Razonamiento matemático', 'Resolución de problemas', 'Pensamiento lógico-estructurado'],
+        componentes: ['Aritmética', 'Álgebra', 'Geometría y Trigonometría', 'Estadística'],
+        color: '#4997D0'
+      },
+      matematicas: {
+        competencias: ['Razonamiento matemático', 'Resolución de problemas', 'Pensamiento lógico-estructurado'],
+        componentes: ['Aritmética', 'Álgebra', 'Geometría y Trigonometría', 'Estadística'],
+        color: '#4997D0'
+      },
+      lenguaje: {
+        competencias: ['Comprensión lectora directa e inferencial', 'Estrategias de lectura crítica', 'Vocabulario en contexto'],
+        componentes: ['Estrategias de lectura', 'Análisis de intencionalidad', 'Gramática y Lenguaje'],
+        color: '#8b5cf6'
+      },
+      ciencias: {
+        competencias: ['Comprensión de procesos biológicos y físicos', 'Indagación y pensamiento científico'],
+        componentes: ['Biología', 'Física y Química', 'Ecología'],
+        color: '#10b981'
+      },
+      sociales: {
+        competencias: ['Comprensión del contexto sociocultural', 'Pensamiento crítico histórico', 'Ciudadanía e interculturalidad'],
+        componentes: ['Historia y Geografía de Guatemala', 'Estructura social y Democracia'],
+        color: '#f59e0b'
+      }
+    },
+    subjectLabels: {
+      matematica: 'Matemática',
+      matematicas: 'Matemáticas',
+      lenguaje: 'Comunicación y Lenguaje',
+      ciencias: 'Ciencias Naturales',
+      sociales: 'Ciencias Sociales'
+    },
+    references: [
+      {
+        title: 'MINEDUC / DIGEDUCA Guatemala',
+        description: 'Informes y guías del proceso nacional de Evaluación de Graduandos.',
+        tone: 'sky',
+        accent: '#4997d0',
+        open: true,
+        links: [
+          { label: 'Dirección General de Evaluación de la Calidad Educativa (DIGEDUCA)', url: 'https://www.mineduc.gob.gt/digeduca/' },
+          { label: 'Ministerio de Educación de Guatemala (MINEDUC)', url: 'https://www.mineduc.gob.gt/' }
+        ]
+      }
+    ]
+  },
+  DO: {
+    authorityName: 'MINERD — Pruebas Nacionales',
+    badgeLabel: 'Alineación oficial MINERD — Pruebas Nacionales de la República Dominicana',
+    competencias: {
+      matematica: {
+        competencias: ['Razonamiento y argumentación matemática', 'Resolución de problemas contextualizados', 'Comunicación de ideas matemáticas'],
+        componentes: ['Numeración y Operaciones', 'Álgebra y Geometría', 'Medición y Estadística'],
+        color: '#002D62'
+      },
+      matematicas: {
+        competencias: ['Razonamiento y argumentación matemática', 'Resolución de problemas contextualizados', 'Comunicación de ideas matemáticas'],
+        componentes: ['Numeración y Operaciones', 'Álgebra y Geometría', 'Medición y Estadística'],
+        color: '#002D62'
+      },
+      'lengua-espanola': {
+        competencias: ['Comprensión de textos ficcionales y funcionales', 'Análisis textual y producción crítica', 'Apropiación lingüística'],
+        componentes: ['Comprensión Lectora', 'Estructura Lingüística y Semántica', 'Gramática'],
+        color: '#8b5cf6'
+      },
+      lengua: {
+        competencias: ['Comprensión de textos ficcionales y funcionales', 'Análisis textual y producción crítica', 'Apropiación lingüística'],
+        componentes: ['Comprensión Lectora', 'Estructura Lingüística y Semántica', 'Gramática'],
+        color: '#8b5cf6'
+      },
+      'ciencias-naturaleza': {
+        competencias: ['Explicación científica de fenómenos', 'Diseño de experimentos e indagación', 'Comprensión del medio biofísico'],
+        componentes: ['Materia, Energía y Movimiento', 'Seres Vivos y Salud', 'Tierra y Universo'],
+        color: '#10b981'
+      },
+      ciencias: {
+        competencias: ['Explicación científica de fenómenos', 'Diseño de experimentos e indagación', 'Comprensión del medio biofísico'],
+        componentes: ['Materia, Energía y Movimiento', 'Seres Vivos y Salud', 'Tierra y Universo'],
+        color: '#10b981'
+      },
+      'ciencias-sociales': {
+        competencias: ['Análisis de procesos históricos y sociales', 'Pensamiento geográfico y ambiental', 'Conciencia ciudadana e institucional'],
+        componentes: ['Historia Dominicana y Universal', 'Geografía y Demografía', 'Ciudadanía y Constitución'],
+        color: '#f59e0b'
+      },
+      sociales: {
+        competencias: ['Análisis de procesos históricos y sociales', 'Pensamiento geográfico y ambiental', 'Conciencia ciudadana e institucional'],
+        componentes: ['Historia Dominicana y Universal', 'Geografía y Demografía', 'Ciudadanía y Constitución'],
+        color: '#f59e0b'
+      }
+    },
+    subjectLabels: {
+      matematica: 'Matemática',
+      matematicas: 'Matemáticas',
+      'lengua-espanola': 'Lengua Española',
+      lengua: 'Lengua Española',
+      'ciencias-naturaleza': 'Ciencias de la Naturaleza',
+      ciencias: 'Ciencias de la Naturaleza',
+      'ciencias-sociales': 'Ciencias Sociales',
+      sociales: 'Ciencias Sociales'
+    },
+    references: [
+      {
+        title: 'MINERD República Dominicana',
+        description: 'Sitio oficial de Pruebas Nacionales y Ministerio de Educación.',
+        tone: 'blue',
+        accent: '#002d62',
+        open: true,
+        links: [
+          { label: 'Ministerio de Educación de la República Dominicana (MINERD)', url: 'https://www.ministeriodeeducacion.gob.do/' },
+          { label: 'Dirección de Evaluación de la Calidad Educativa', url: 'https://www.ministeriodeeducacion.gob.do/servicios/docentes/evaluacion-de-la-calidad-educativa' }
+        ]
+      }
+    ]
   }
 };
 
