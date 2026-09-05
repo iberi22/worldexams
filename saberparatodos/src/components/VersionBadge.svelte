@@ -1,6 +1,7 @@
 <script lang="ts">
   import { onMount } from 'svelte';
   import packageInfo from '../../package.json';
+  import { isNewerVersion, isNewerBuild, type BuildInfo } from '../lib/build-version';
 
   // Props
   interface Props {
@@ -11,18 +12,19 @@
   let { position = 'bottom-left', showOnlyOnUpdate = false }: Props = $props();
 
   // State (Svelte 5 runes)
-  let buildInfo = $state<{ version: string; commit: string; buildTime: string; env: string } | null>(null);
+  let buildInfo = $state<BuildInfo | null>(null);
   let showUpdateNotification = $state(false);
   let newVersion = $state('');
   let isExpanded = $state(false);
   let isVisible = $state(!showOnlyOnUpdate);
 
   const LOCAL_VERSION = packageInfo.version;
+  let initialBuildInfo: BuildInfo | null = null;
 
   // Derived values
   let shortCommit = $derived(buildInfo?.commit?.substring(0, 7) || '');
-  let buildDate = $derived(buildInfo?.buildTime
-    ? new Date(buildInfo.buildTime).toLocaleDateString('es-CO', {
+  let buildDate = $derived(buildInfo?.buildTime || buildInfo?.timestamp
+    ? new Date(buildInfo.buildTime || buildInfo.timestamp || 0).toLocaleDateString('es-CO', {
         year: 'numeric',
         month: 'short',
         day: 'numeric',
@@ -37,20 +39,6 @@
       : 'bottom-4 left-4'
   );
 
-  // Compare semantic versions (returns true if v1 < v2)
-  function isNewerVersion(local: string, remote: string): boolean {
-    const localParts = local.split('.').map(Number);
-    const remoteParts = remote.split('.').map(Number);
-
-    for (let i = 0; i < Math.max(localParts.length, remoteParts.length); i++) {
-      const l = localParts[i] || 0;
-      const r = remoteParts[i] || 0;
-      if (r > l) return true;
-      if (r < l) return false;
-    }
-    return false;
-  }
-
   async function checkForUpdates() {
     try {
       const response = await fetch('/build-info.json?t=' + Date.now(), {
@@ -59,13 +47,20 @@
       });
 
       if (response.ok) {
-        const serverInfo = await response.json();
+        const serverInfo: BuildInfo = await response.json();
         buildInfo = serverInfo;
 
-        // Compare versions
-        if (serverInfo.version && isNewerVersion(LOCAL_VERSION, serverInfo.version)) {
-          console.log(`[Update] New version detected: ${LOCAL_VERSION} → ${serverInfo.version}`);
-          newVersion = serverInfo.version;
+        if (!initialBuildInfo) {
+          initialBuildInfo = { ...serverInfo, version: serverInfo.version || LOCAL_VERSION };
+        }
+
+        // Compare versions and build commit/timestamp
+        const semverNewer = serverInfo.version ? isNewerVersion(LOCAL_VERSION, serverInfo.version) : false;
+        const commitOrBuildNewer = isNewerBuild(initialBuildInfo, serverInfo);
+
+        if (semverNewer || commitOrBuildNewer) {
+          console.log(`[Update] New build detected: ${LOCAL_VERSION} (${initialBuildInfo?.commit || 'local'}) → ${serverInfo.version || LOCAL_VERSION} (${serverInfo.commit || 'remote'})`);
+          newVersion = serverInfo.version || LOCAL_VERSION;
           showUpdateNotification = true;
           isVisible = true;
         }
@@ -86,7 +81,7 @@
     if (!import.meta.env.DEV && 'serviceWorker' in navigator) {
       navigator.serviceWorker.addEventListener('message', (event) => {
         if (event.data.type === 'NEW_VERSION_AVAILABLE') {
-          newVersion = event.data.newVersion;
+          newVersion = event.data.newVersion || LOCAL_VERSION;
           showUpdateNotification = true;
           isVisible = true;
         }
