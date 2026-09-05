@@ -8,6 +8,7 @@ import { buildPreuExamPool, getPreuQuestionBank } from '../preuniversitario/exam
 import { isPreuRuntimeEnabled } from '../preuniversitario/catalog';
 import { filterGrade11PreicfesReady } from './policy';
 import { subjectsMatch } from './subject';
+import { getPoolActivation, type PoolActivation } from './pool-activation';
 
 export async function loadEnglishDiagnosticPool(
   deps: QuestionSelectionDeps,
@@ -42,6 +43,7 @@ export async function prepareSoloExamQuestions(
     request = { ...request, englishDiagnostic: true, grade: request.grade === 0 ? 0 : request.grade };
   }
 
+  let activation: PoolActivation | null = null;
   if (!request.englishDiagnostic) {
     pool = await ensureBasePool({
       repository: deps.repository,
@@ -53,7 +55,18 @@ export async function prepareSoloExamQuestions(
       period: request.examMode === 'period' ? request.period : undefined
     });
 
-    if (request.useDiagnostic && request.grade > 3) {
+    // Condicional de activación (>100 por materia+periodo): con pool sólido
+    // la ruta enriquecida sigue ACTIVA; con pool en maduración la lógica se
+    // conserva pero queda DESACTIVADA por diseño (se arma con el pool básico).
+    // Diagnóstico inglés (multi-grado por diseño) no se acota por grado.
+    activation = getPoolActivation(pool, {
+      grade: request.englishDiagnostic ? undefined : request.grade,
+      subject: isPreuMode ? null : request.subject,
+      period: request.examMode === 'period' ? request.period : undefined,
+    });
+    console.info('[Orchestrator] Pool activation:', activation.reason);
+
+    if (request.useDiagnostic && request.grade > 3 && activation.active) {
       try {
         const lowerGrades = [3, 5, 7, 9].filter((g) => g < request.grade);
         const diagnosticQuestions = await deps.repository.fetchBulkQuestions(lowerGrades, 50);
@@ -61,6 +74,8 @@ export async function prepareSoloExamQuestions(
       } catch {
         warnings.push('No se pudieron cargar preguntas diagnósticas de refuerzo.');
       }
+    } else if (request.useDiagnostic && request.grade > 3 && !activation.active) {
+      warnings.push(`Mezcla diagnóstica desactivada por diseño: ${activation.count}≤${activation.threshold} en la materia/periodo.`);
     }
   }
 
@@ -113,7 +128,10 @@ export async function prepareSoloExamQuestions(
 
   filtered = applyFilters(filtered, request);
 
-  if (filtered.length < request.count && !request.englishDiagnostic) {
+  // Expansión deep-search: solo con pool sólido (activación >100). Con pool en
+  // maduración la lógica se conserva pero queda DESACTIVADA por diseño: el
+  // examen se arma con lo filtrado del pool básico (o falla con mensaje claro).
+  if (filtered.length < request.count && !request.englishDiagnostic && activation?.active) {
     const searchPages = request.examMode === 'period' ? [1, 2, 3] : [1];
     const expandedPool = await deepSearchPool({
       repository: deps.repository,
@@ -127,6 +145,8 @@ export async function prepareSoloExamQuestions(
 
     pool = expandedPool;
     filtered = applyFilters(filterBySubject(expandedPool, request.subject), request);
+  } else if (filtered.length < request.count && !request.englishDiagnostic && activation && !activation.active) {
+    warnings.push(`Expansión deep-search desactivada por diseño: ${activation.count}≤${activation.threshold} en la materia/periodo.`);
   }
 
   if (filtered.length === 0) {

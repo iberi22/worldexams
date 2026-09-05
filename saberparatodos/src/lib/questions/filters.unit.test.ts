@@ -71,6 +71,17 @@ describe('filters', () => {
       const filtered = filterByGradeAndDiagnostic(qs, 11, false, true);
       expect(filtered).toHaveLength(2);
     });
+
+    it('D2: grade 0 filters strictly (no truthiness leak of all grades)', () => {
+      const qs = [
+        makeQuestion({ id: 'q1', grade: 11 }),
+        makeQuestion({ id: 'q2', grade: 9 }),
+        makeQuestion({ id: 'q3', grade: 0 }),
+      ];
+      // Sin el fix, grade=0 desactivaba el filtro y pasaban las 3.
+      const filtered = filterByGradeAndDiagnostic(qs, 0, false, false);
+      expect(filtered.map((q) => q.id)).toEqual(['q3']);
+    });
   });
 
   describe('filterByCefrLevel', () => {

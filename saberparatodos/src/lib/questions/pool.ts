@@ -10,6 +10,31 @@ export function dedupeById(questions: AppQuestion[]): AppQuestion[] {
   return Array.from(dedupe.values());
 }
 
+/**
+ * Carga acotada a UNA materia del grado, página por página (corta en página
+ * vacía o al llegar a maxQuestions). Evita descargar el grado completo cuando
+ * el examen pidió una sola materia. La rama de grado-completo se conserva
+ * intacta para Simulacro (subject null) y como fallback.
+ */
+async function fetchSubjectScopedPool(params: {
+  repository: QuestionRepository;
+  grade: number;
+  apiSubject: string;
+  maxQuestions: number;
+  period?: number;
+}): Promise<AppQuestion[]> {
+  const { repository, grade, apiSubject, maxQuestions, period } = params;
+  const maxPages = Math.max(1, Math.min(10, Math.ceil(maxQuestions / 10)));
+  const out: AppQuestion[] = [];
+  for (let page = 1; page <= maxPages; page++) {
+    const batch = await repository.fetchQuestions(grade, apiSubject, page, period);
+    if (!batch || batch.length === 0) break;
+    out.push(...batch);
+    if (out.length >= maxQuestions) break;
+  }
+  return out;
+}
+
 export async function ensureBasePool(params: {
   repository: QuestionRepository;
   loadedQuestions: AppQuestion[];
@@ -35,6 +60,13 @@ export async function ensureBasePool(params: {
 
   if (inMemoryCount >= threshold) {
     return loadedQuestions;
+  }
+
+  // D3: examen de UNA materia => trae solo esa materia (no el grado entero).
+  // Simulacro (apiSubject '') conserva la rama de grado-completo.
+  if (apiSubject) {
+    const fetched = await fetchSubjectScopedPool({ repository, grade, apiSubject, maxQuestions, period });
+    return dedupeById([...loadedQuestions, ...fetched]);
   }
 
   const fetched = await repository.fetchAllQuestionsForGrade(grade, true, maxQuestions, period);
