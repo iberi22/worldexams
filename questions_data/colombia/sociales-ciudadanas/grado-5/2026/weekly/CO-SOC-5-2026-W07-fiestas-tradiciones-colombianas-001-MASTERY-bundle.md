@@ -143,7 +143,7 @@ Reconocer el aporte social y cultural de las fiestas tradicionales para una comu
 **Bloom:** Analyze
 **ICFES:** Entorno vivo
 **Expected_Success:** 0.58
-**Contexto:** Compara: "La Semana Santa en Popayán se vive con procesiones solemnes y祈祷 silenciosas. El Carnaval de Barranquilla se vive con música, baile y comparsas alegres."
+**Contexto:** Compara: "La Semana Santa en Popayán se vive con procesiones solemnes y plegarias silenciosas. El Carnaval de Barranquilla se vive con música, baile y comparsas alegres."
 
 ### Enunciado
 ¿Qué diferencia cultural muestran estas dos fiestas colombianas?
