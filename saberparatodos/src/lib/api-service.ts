@@ -316,7 +316,10 @@ export function saveEnglishProficiencyLevel(level: string, levelNum: number, con
 }
 
 export async function fetchBulkQuestions(grades: number[], limit: number = 300): Promise<AppQuestion[]> {
-  const cacheKey = `bulk_${grades.join('_')}`;
+  // La clave incluye el límite: mismos grados con distinto límite son pools
+  // distintos (Revisar pide 200/300, lookup pide 500). Sin esto, el primer
+  // caller contaminaba a los demás con un pool truncado.
+  const cacheKey = `bulk_${grades.join('_')}_limit_${limit}`;
   if (questionCache.has(cacheKey)) return questionCache.get(cacheKey)!;
   const results = await Promise.all(grades.map(g => fetchQuestionsFromPacks(g)));
   const dedup = new Map<string, AppQuestion>();
