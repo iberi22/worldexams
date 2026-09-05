@@ -17,9 +17,13 @@
   }: Props = $props();
 
   let showContext = $state(false);
+
+  let cleanContext = $derived((context || '').trim());
+  let hasContext = $derived(cleanContext.length > 0);
+  let isLongContext = $derived(cleanContext.length >= 140 || cleanContext.includes('\n'));
 </script>
 
-{#if context && context.trim().length > 0}
+{#if hasContext && isLongContext}
   <div class="grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-12 items-start w-full transition-all duration-500 ease-in-out">
     <!-- Desktop Split-Pane Layout (Left Panel: Context) -->
     <div
@@ -32,7 +36,7 @@
         <span class="text-[10px] text-white/30 font-mono">Panel de Lectura</span>
       </div>
       <div class="prose prose-invert max-w-none text-gray-200 font-serif leading-relaxed text-base lg:text-lg selection:bg-emerald-500/30">
-        <MathRenderer content={context.trim()} />
+        <MathRenderer content={cleanContext} />
       </div>
     </div>
 
@@ -72,7 +76,7 @@
       <div class="flex-1 overflow-y-auto px-6 py-6">
         <div class="max-w-2xl mx-auto w-full">
           <div class="prose prose-invert max-w-none text-gray-200 font-serif leading-relaxed text-lg">
-            <MathRenderer content={context.trim()} />
+            <MathRenderer content={cleanContext} />
           </div>
         </div>
       </div>
@@ -89,6 +93,17 @@
       </div>
     </div>
   {/if}
+{:else if hasContext}
+  <!-- Inline render for short contexts -->
+  <div class="w-full">
+    <div
+      data-testid="inline-context"
+      class="inline-flex items-center gap-1.5 px-3 py-1 rounded-lg bg-emerald-500/10 border border-emerald-500/20 text-emerald-400 text-xs font-medium mb-3"
+    >
+      <span>📖</span> <span><MathRenderer content={cleanContext} /></span>
+    </div>
+    {@render children?.()}
+  </div>
 {:else}
   <!-- Standard fallback without context -->
   <div class="w-full">

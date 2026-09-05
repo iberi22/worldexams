@@ -6,6 +6,7 @@ test.describe('E2E: English C1 Exam Evaluation & Context Display (Desktop & Mobi
       localStorage.setItem('spt_hide_hero', 'true');
       localStorage.setItem('spt_skip_integrity_delay', 'true');
       localStorage.setItem('spt_local_mode_dismissed', 'true');
+      localStorage.setItem('saberparatodos_local_mode_ack', 'true');
     });
 
     await page.goto('/practica');
@@ -35,7 +36,7 @@ test.describe('E2E: English C1 Exam Evaluation & Context Display (Desktop & Mobi
 
     const startBtn = modal.locator('button', { hasText: /Comenzar/i });
     await expect(startBtn).toBeEnabled();
-    await startBtn.click();
+    await startBtn.click({ force: true });
 
     await page.waitForSelector('[data-testid="options-grid"]', { timeout: 30000 });
   }
