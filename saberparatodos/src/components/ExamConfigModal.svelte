@@ -38,7 +38,8 @@
     onStart,
     onCancel,
     availableQuestions = [],
-    initialRoomCode = ''
+    initialRoomCode = '',
+    showExperimental = false
   } = $props<{
     countryCode?: string;
     runtimeCountry?: RuntimeCountryConfig;
@@ -49,6 +50,7 @@
     onCancel: () => void;
     availableQuestions?: any[];
     initialRoomCode?: string;
+    showExperimental?: boolean;
   }>();
 
   const preuEnabled = isPreuRuntimeEnabled(countryCode);
@@ -136,7 +138,7 @@
   });
 
   $effect(() => {
-    if (!preuEnabled) {
+    if (!preuEnabled || !showExperimental) {
       availableSubjects = availableSubjects.filter((subject) => subject !== 'Preuniversitario');
       if (selectedSubject === 'Preuniversitario') {
         selectedSubject = 'Simulacro Completo';

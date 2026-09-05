@@ -3,9 +3,13 @@ import Layout from '../layouts/Layout.astro';
 import App from '../components/App.svelte';
 import { resolveRuntimeCountryConfig } from '../config';
 import { getTenantExperience } from '../config/tenant-experience';
+import { isExperimentalSurface } from '../lib/experimental-surface';
 
 const runtimeCountry = resolveRuntimeCountryConfig(Astro.locals.country);
 const tenantExperience = getTenantExperience(runtimeCountry);
+// Superficies en maduración (Preuniversitario, Revisar, Comunidad,
+// Correcciones): visibles solo fuera de producción (develop / pages.dev).
+const experimentalSurface = isExperimentalSurface(Astro.url.hostname);
 ---
 
 <Layout
@@ -127,5 +131,6 @@ const tenantExperience = getTenantExperience(runtimeCountry);
     universalPool={null}
     countryCode={runtimeCountry.code}
     runtimeCountry={runtimeCountry}
+    experimentalSurface={experimentalSurface}
   />
 </Layout>

@@ -7,10 +7,13 @@ import TipsSection from '../components/guia/TipsSection.astro';
 import ExamDetailSection from '../components/guia/ExamDetailSection.astro';
 import { countryConfig as defaultConfig, toRuntimeCountryConfig } from '../config';
 import { getExamGuideContent } from '../config/exam-guide-content';
+import { isExperimentalSurface } from '../lib/experimental-surface';
 
 const country = Astro.locals.country ? toRuntimeCountryConfig(Astro.locals.country) : defaultConfig;
 const guideContent = getExamGuideContent(country);
 const siteUrl = Astro.site ? Astro.site.toString() : country.product.siteUrl;
+// Preuniversitario en maduración: visible solo fuera de producción.
+const showExperimental = isExperimentalSurface(Astro.url.hostname);
 
 const faqSchema = {
   '@context': 'https://schema.org',
@@ -93,7 +96,7 @@ const schema = {
             {guideContent.gradeCards.map((card) => (
               <GradeCard {...card} />
             ))}
-            {country.features.preuniversitario && guideContent.preuCard && (
+            {country.features.preuniversitario && showExperimental && guideContent.preuCard && (
               <a
                 href="/?subject=Preuniversitario&grade=11"
                 class="block rounded-lg focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--color-primary)]"
