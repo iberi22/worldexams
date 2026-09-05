@@ -317,7 +317,7 @@ En el caso del dengue, una segunda infección por un serotipo diferente del viru
 - [ ] C) el virus destruye directamente los glóbulos rojos en la sangre periférica.
   <!-- feedback: Incorrecto. El dengue infecta monocitos y células dendríticas, no glóbulos rojos. -->
 - [ ] D) la primera infección destruye por completo las células de memoria.
-  <!-- feedback: Incorrecto. La memoria inmunológica se mantiene;恰恰 esa memoria con anticuerpos subneutralizantes es la base del problema. -->
+  <!-- feedback: Incorrecto. La memoria inmunológica se mantiene; precisamente esa memoria con anticuerpos subneutralizantes es la base del problema. -->
 
 ### Explicacion Pedagogica
 En el dengue existen cuatro serotipos; la infección por uno genera inmunidad homotípica protectora, pero los anticuerpos contra un serotipo pueden no neutralizar a otro y, en cambio, facilitar su ingreso a monocitos vía receptores Fc. Esta amplificación dependiente de anticuerpos explica por qué el dengue grave es más frecuente en infecciones secundarias por serotipo diferente.
@@ -451,7 +451,7 @@ Una diferencia inmunológica clave entre las vacunas de ARN mensajero y las vacu
 - [x] A) las de ARN inducen la producción endógena de la proteína antigénica sin riesgo de réplica viral, mientras que las atenuadas usan virus vivos con replicación controlada.
   <!-- feedback: Correcto. Las vacunas de ARNm hacen que las células del vacunado fabriquen el antígeno; las atenuadas llevan virus vivos que se replican de forma limitada. -->
 - [ ] B) las de ARN solo estimulan inmunidad celular y ninguna humoral.
-  <!-- feedback: Incorrecto. Las vacunas de ARNm tambien inducen anticuerpos neutralizantes y respuesta T CD8+, no solo inmunidad celular. -->
+  <!-- feedback: Incorrecto. Las vacunas de ARNm también inducen anticuerpos neutralizantes y respuesta T CD8+, no solo inmunidad celular. -->
 - [ ] C) las atenuadas carecen completamente de cualquier efecto secundario.
   <!-- feedback: Incorrecto. Las vacunas atenuadas pueden causar cuadros leves y están contraindicadas en inmunosuprimidos, precisamente por su capacidad de replicación. -->
 - [ ] D) las de ARN modifican de manera permanente el genoma humano.

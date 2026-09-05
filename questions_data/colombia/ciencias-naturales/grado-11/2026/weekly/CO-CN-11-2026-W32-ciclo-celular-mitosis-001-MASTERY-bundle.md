@@ -343,7 +343,7 @@ Cada cromosoma (duplicado o no) tiene un cinetocoro donde se anclan los microtú
   <!-- feedback: Incorrecto. Sin huso la metafase no se completa. -->
 
 ### Explicacion Pedagogica
-El huso mitótico se ensambla durante la profase y发挥作用 durante metafase, anafase y telofase. La fase S corresponde a la replicación del ADN en interfase y no depende del huso, por lo que benomilo no la afecta directamente.
+El huso mitótico se ensambla durante la profase y actúa durante metafase, anafase y telofase. La fase S corresponde a la replicación del ADN en interfase y no depende del huso, por lo que benomilo no la afecta directamente.
 
 ## Question 15 [D7-D8]
 **ID:** CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle-v15
@@ -422,7 +422,7 @@ Los puntos de control (checkpoints) G1/S y G2/M verifican la integridad del ADN.
 **Contexto:** En Neiva, una paciente recibe diagnóstico de carcinoma mamario triple negativo. Su oncólogo analiza la expresión de ciclinas D, E y CDK4/6 en biopsia tumoral.
 
 ### Enunciado
-¿Por qué muchos farmacos antitumorales modernos se dirigen contra CDK4/6 en cancer de mama?
+¿Por qué muchos fármacos antitumorales modernos se dirigen contra CDK4/6 en cáncer de mama?
 
 ### Opciones
 - [x] A) Porque CDK4/6 impulsa la transición G1/S y su inhibición detiene la proliferación de células tumorales dependientes de esta vía.
