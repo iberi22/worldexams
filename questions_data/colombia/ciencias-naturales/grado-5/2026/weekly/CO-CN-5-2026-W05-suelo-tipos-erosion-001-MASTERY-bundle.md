@@ -26,7 +26,7 @@ Tipos de suelo según su textura (arenoso, arcilloso, limoso), sus componentes y
 ## Question 1 [D3-D4]
 **ID:** CO-CN-5-2026-W05-suelo-tipos-erosion-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.90
 **Contexto:** En una finca del Valle del Cauca, unos estudiantes observan diferentes tipos de tierra mientras caminan con su profesor.
 
@@ -49,7 +49,7 @@ Reconocer los componentes principales del suelo y su importancia para los ecosis
 ## Question 2 [D3-D4]
 **ID:** CO-CN-5-2026-W05-suelo-tipos-erosion-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.85
 **Contexto:** Lee: "El suelo arenoso es suelto y deja pasar el agua con facilidad, mientras que el suelo arcilloso es pegajoso y retiene mucha agua."
 
@@ -72,7 +72,7 @@ Comprender la relación entre el tamaño de las partículas del suelo y su capac
 ## Question 3 [D5-D6]
 **ID:** CO-CN-5-2026-W05-suelo-tipos-erosion-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.76
 **Contexto:** Un agricultor observa que sus plantas crecen mejor en un suelo oscuro y esponjoso que en un suelo amarillo y duro.
 
@@ -95,7 +95,7 @@ Aplicar el conocimiento sobre los tipos de suelo para elegir el más apto para l
 ## Question 4 [D5-D6]
 **ID:** CO-CN-5-2026-W05-suelo-tipos-erosion-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.72
 **Contexto:** Lee: "La erosión del suelo es el desgaste y arrastre de las partículas de la tierra causado por el agua, el viento o la actividad humana."
 
@@ -118,7 +118,7 @@ Identificar ejemplos concretos de erosión del suelo causados por el agua o el v
 ## Question 5 [D5-D6]
 **ID:** CO-CN-5-2026-W05-suelo-tipos-erosion-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.66
 **Contexto:** En una escuela rural de Boyacá, los estudiantes quieren evitar que el agua de lluvia se lleve la tierra del patio.
 
@@ -141,7 +141,7 @@ Proponer acciones prácticas para prevenir la erosión del suelo en el entorno e
 ## Question 6 [D7-D8]
 **ID:** CO-CN-5-2026-W05-suelo-tipos-erosion-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.58
 **Contexto:** Compara: "En la zona andina con pendientes pronunciadas se observa erosión severa cuando se tala el bosque. En las zonas planas con cobertura vegetal la erosión es menor."
 
@@ -164,7 +164,7 @@ Analizar la interacción entre pendiente, vegetación y agentes naturales en el 
 ## Question 7 [D7-D8]
 **ID:** CO-CN-5-2026-W05-suelo-tipos-erosion-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.52
 **Contexto:** Lee: "Los suelos arenosos, limosos y arcillosos tienen diferentes usos: los arenosos se usan en construcción, los limosos en agricultura y los arcillosos en cerámica."
 
@@ -187,7 +187,7 @@ Relacionar las propiedades de los tipos de suelo con sus usos en la vida cotidia
 ## Question 8 [D9-D10]
 **ID:** CO-CN-5-2026-W05-suelo-tipos-erosion-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.30
 **Contexto:** Lee: 'El suelo es un recurso natural que tarda cientos de años en formarse. La deforestación, la agricultura sin cuidado y la construcción en laderas aceleran su erosión y ponen en riesgo la producción de alimentos y la calidad del agua.'
 

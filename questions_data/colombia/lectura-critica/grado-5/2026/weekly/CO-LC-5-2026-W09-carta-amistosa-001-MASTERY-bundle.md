@@ -26,7 +26,7 @@ Estructura y características de la carta amistosa, su propósito comunicativo, 
 ## Question 1 [D3-D4]
 **ID:** CO-LC-5-2026-W09-carta-amistosa-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Lectura crítica
+**ICFES:** Pragmático
 **Expected_Success:** 0.89
 **Contexto:** En clase de lectura y escritura en una escuela de Yopal, la profesora explica las partes de una carta.
 
@@ -49,7 +49,7 @@ Reconocer las partes que componen la estructura de una carta amistosa.
 ## Question 2 [D3-D4]
 **ID:** CO-LC-5-2026-W09-carta-amistosa-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Lectura crítica
+**ICFES:** Pragmático
 **Expected_Success:** 0.84
 **Contexto:** Lee: "Una carta amistosa es un mensaje escrito que una persona envía a un amigo o familiar para compartir noticias, expresar sentimientos o fortalecer la relación."
 
@@ -72,7 +72,7 @@ Comprender el propósito comunicativo y afectivo de una carta amistosa.
 ## Question 3 [D5-D6]
 **ID:** CO-LC-5-2026-W09-carta-amistosa-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Lectura crítica
+**ICFES:** Pragmático
 **Expected_Success:** 0.75
 **Contexto:** Un estudiante escribe a su primo que vive en otra ciudad para contarle sobre sus vacaciones.
 
@@ -95,7 +95,7 @@ Aplicar el uso de saludos adecuados según el tono y el destinatario.
 ## Question 4 [D5-D6]
 **ID:** CO-LC-5-2026-W09-carta-amistosa-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Lectura crítica
+**ICFES:** Pragmático
 **Expected_Success:** 0.71
 **Contexto:** Lee: "Al final de la carta, el emisor se despide usando frases afectuosas como 'Con cariño', 'Un abrazo' o 'Hasta pronto', y firma con su nombre."
 
@@ -118,7 +118,7 @@ Aplicar despedidas afectuosas adecuadas en cartas amistosas.
 ## Question 5 [D5-D6]
 **ID:** CO-LC-5-2026-W09-carta-amistosa-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Lectura crítica
+**ICFES:** Pragmático
 **Expected_Success:** 0.66
 **Contexto:** Un niño debe contar en una carta cómo le fue en una excursión del colegio.
 
@@ -141,7 +141,7 @@ Aplicar el contenido adecuado del cuerpo de una carta para describir una experie
 ## Question 6 [D7-D8]
 **ID:** CO-LC-5-2026-W09-carta-amistosa-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Lectura crítica
+**ICFES:** Pragmático
 **Expected_Success:** 0.58
 **Contexto:** Compara: "La carta 1 dice: 'Espero que estés bien. Te extraño mucho. Aquí todo sigue igual.' La carta 2 dice: 'Por medio de la presente, me permito informar que mi situación es estable.'"
 
@@ -164,7 +164,7 @@ Comparar el tono entre cartas formales y amistosas para reconocer sus diferencia
 ## Question 7 [D7-D8]
 **ID:** CO-LC-5-2026-W09-carta-amistosa-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Lectura crítica
+**ICFES:** Pragmático
 **Expected_Success:** 0.52
 **Contexto:** Lee: "Una buena carta amistosa incluye una fecha y lugar, un saludo afectuoso, un cuerpo organizado en ideas claras, una despedida cariñosa y la firma del autor."
 
@@ -187,7 +187,7 @@ Analizar la importancia de la fecha y el lugar en la estructura de una carta.
 ## Question 8 [D9-D10]
 **ID:** CO-LC-5-2026-W09-carta-amistosa-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
-**ICFES:** Lectura crítica
+**ICFES:** Pragmático
 **Expected_Success:** 0.31
 **Contexto:** Lee: 'Escribir cartas amistosas fortalece la expresión escrita, la capacidad de organizar ideas y los vínculos afectivos. Aunque hoy se usan mucho los mensajes digitales, la carta sigue siendo una forma valiosa de comunicación.'
 

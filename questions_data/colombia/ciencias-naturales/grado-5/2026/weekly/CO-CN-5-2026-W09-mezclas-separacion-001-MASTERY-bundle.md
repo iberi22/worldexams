@@ -26,7 +26,7 @@ Tipos de mezclas (homogéneas y heterogéneas) y métodos físicos para separar 
 ## Question 1 [D3-D4]
 **ID:** CO-CN-5-2026-W09-mezclas-separacion-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.90
 **Contexto:** En una clase de ciencias en Girardot, la profesora muestra un vaso con agua y sal disuelta, y otro con agua y arena.
 
@@ -49,7 +49,7 @@ Diferenciar mezclas homogéneas de heterogéneas a partir de la observación de 
 ## Question 2 [D3-D4]
 **ID:** CO-CN-5-2026-W09-mezclas-separacion-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.85
 **Contexto:** Lee: "El agua con sal es una mezcla homogénea porque la sal se disuelve y no se puede distinguir a simple vista."
 
@@ -72,7 +72,7 @@ Explicar por qué una disolución se clasifica como mezcla homogénea.
 ## Question 3 [D5-D6]
 **ID:** CO-CN-5-2026-W09-mezclas-separacion-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.76
 **Contexto:** Un estudiante quiere separar una mezcla de agua con tierra dejada en reposo en un vaso durante varios minutos.
 
@@ -95,7 +95,7 @@ Aplicar el método de decantación para separar mezclas donde un sólido se asie
 ## Question 4 [D5-D6]
 **ID:** CO-CN-5-2026-W09-mezclas-separacion-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.72
 **Contexto:** Una cocinera en Bogotá necesita separar el agua de la cocción de los granos de arroz.
 
@@ -118,7 +118,7 @@ Aplicar la filtración para separar un sólido particulado del líquido en una m
 ## Question 5 [D5-D6]
 **ID:** CO-CN-5-2026-W09-mezclas-separacion-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.66
 **Contexto:** Una investigadora quiere recuperar la sal que está disuelta en agua salada.
 
@@ -141,7 +141,7 @@ Aplicar la evaporación para separar el soluto disuelto en una mezcla homogénea
 ## Question 6 [D7-D8]
 **ID:** CO-CN-5-2026-W09-mezclas-separacion-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.58
 **Contexto:** Compara: "Una mezcla de arena y agua se ve turbia y al reposar la arena baja al fondo. Una mezcla de agua con sal se ve transparente y no forma capas al reposar."
 
@@ -164,7 +164,7 @@ Analizar el comportamiento de mezclas heterogéneas y homogéneas al dejarlas en
 ## Question 7 [D7-D8]
 **ID:** CO-CN-5-2026-W09-mezclas-separacion-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.52
 **Contexto:** Lee: "Para purificar el agua de un río y volverla potable, las plantas de tratamiento usan varios métodos combinados: decantación, filtración y cloración."
 
@@ -187,7 +187,7 @@ Comprender la combinación de métodos físicos y químicos en el tratamiento de
 ## Question 8 [D9-D10]
 **ID:** CO-CN-5-2026-W09-mezclas-separacion-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.30
 **Contexto:** Lee: 'El conocimiento de las mezclas y sus métodos de separación es útil en la cocina, en la industria de alimentos, en el tratamiento de aguas y en el reciclaje de residuos. Elegir el método correcto permite aprovechar mejor los recursos.'
 

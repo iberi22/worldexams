@@ -26,7 +26,7 @@ Tipos de ángulos (agudo, recto, obtuso, llano), relación entre ángulos y elem
 ## Question 1 [D3-D4]
 **ID:** CO-MAT-5-2026-W08-angulos-rectas-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Numérico variacional
+**ICFES:** Numerico
 **Expected_Success:** 0.89
 **Contexto:** En clase de geometría en una escuela de Riohacha, la profesora muestra diferentes tipos de ángulos con un transportador.
 
@@ -49,7 +49,7 @@ Reconocer la medida en grados del ángulo recto como referencia para otros ángu
 ## Question 2 [D3-D4]
 **ID:** CO-MAT-5-2026-W08-angulos-rectas-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Numérico variacional
+**ICFES:** Numerico
 **Expected_Success:** 0.84
 **Contexto:** Lee: "Un ángulo agudo mide menos de 90 grados, un ángulo recto mide 90 grados y un ángulo obtuso mide más de 90 grados pero menos de 180."
 
@@ -72,7 +72,7 @@ Identificar ejemplos de ángulo obtuso en situaciones reales y cotidianas.
 ## Question 3 [D5-D6]
 **ID:** CO-MAT-5-2026-W08-angulos-rectas-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Numérico variacional
+**ICFES:** Numerico
 **Expected_Success:** 0.75
 **Contexto:** Un estudiante traza dos rectas en el cuaderno que se cruzan formando una "X" en el centro.
 
@@ -95,7 +95,7 @@ Aplicar la nomenclatura correcta a los ángulos formados por dos rectas que se c
 ## Question 4 [D5-D6]
 **ID:** CO-MAT-5-2026-W08-angulos-rectas-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Numérico variacional
+**ICFES:** Numerico
 **Expected_Success:** 0.71
 **Contexto:** Lee: "Dos rectas son paralelas cuando siempre mantienen la misma distancia y nunca se se cruzan. Dos rectas son perpendiculares cuando se cruzan formando ángulos rectos."
 
@@ -118,7 +118,7 @@ Identificar ejemplos de rectas paralelas en contextos reales.
 ## Question 5 [D5-D6]
 **ID:** CO-MAT-5-2026-W08-angulos-rectas-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Numérico variacional
+**ICFES:** Numerico
 **Expected_Success:** 0.66
 **Contexto:** En una cartulina, un estudiante pega dos tiras de papel que se cruzan formando una "L".
 
@@ -141,7 +141,7 @@ Relacionar la forma de "L" con la formación de un ángulo recto entre dos recta
 ## Question 6 [D7-D8]
 **ID:** CO-MAT-5-2026-W08-angulos-rectas-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Numérico variacional
+**ICFES:** Numerico
 **Expected_Success:** 0.58
 **Contexto:** Compara: "Dos rectas paralelas mantienen siempre la misma distancia y nunca se encuentran. Dos rectas perpendiculares se cruzan en un punto formando cuatro ángulos rectos."
 
@@ -164,7 +164,7 @@ Comparar las propiedades de rectas paralelas y perpendiculares en el plano.
 ## Question 7 [D7-D8]
 **ID:** CO-MAT-5-2026-W08-angulos-rectas-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Numérico variacional
+**ICFES:** Numerico
 **Expected_Success:** 0.52
 **Contexto:** Lee: "Un ángulo llano mide 180 grados. Si se divide en dos partes iguales, cada parte mide 90 grados, que corresponde a un ángulo recto."
 
@@ -187,7 +187,7 @@ Analizar la relación numérica entre el ángulo llano y los ángulos rectos.
 ## Question 8 [D9-D10]
 **ID:** CO-MAT-5-2026-W08-angulos-rectas-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
-**ICFES:** Numérico variacional
+**ICFES:** Numerico
 **Expected_Success:** 0.31
 **Contexto:** Lee: 'Los ángulos y las rectas son fundamentales en arquitectura, diseño, ingeniería y arte. Saber medir e identificar ángulos permite construir estructuras seguras y crear composiciones visuales equilibradas.'
 

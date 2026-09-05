@@ -26,7 +26,7 @@ Características de la leyenda como texto narrativo tradicional, su estructura, 
 ## Question 1 [D3-D4]
 **ID:** CO-LC-5-2026-W07-leyenda-colombiana-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Lectura crítica
+**ICFES:** Semántico
 **Expected_Success:** 0.89
 **Contexto:** En clase de lectura en una escuela de Antioquia, la profesora lee fragmentos de "La Patasola" a los estudiantes.
 
@@ -49,7 +49,7 @@ Reconocer las características principales de la leyenda como género narrativo 
 ## Question 2 [D3-D4]
 **ID:** CO-LC-5-2026-W07-leyenda-colombiana-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Lectura crítica
+**ICFES:** Semántico
 **Expected_Success:** 0.84
 **Contexto:** Lee: "La Llorona, según la tradición oral, es el espíritu de una mujer que perdió a sus hijos y aparece cerca de los ríos lamentándose con un llanto desgarrador."
 
@@ -72,7 +72,7 @@ Comprender la combinación de elementos reales y fantásticos típica de las ley
 ## Question 3 [D5-D6]
 **ID:** CO-LC-5-2026-W07-leyenda-colombiana-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Lectura crítica
+**ICFES:** Semántico
 **Expected_Success:** 0.75
 **Contexto:** Un estudiante debe identificar las partes de la leyenda "El Dorado".
 
@@ -95,7 +95,7 @@ Aplicar el conocimiento sobre la estructura narrativa básica de una leyenda.
 ## Question 4 [D5-D6]
 **ID:** CO-LC-5-2026-W07-leyenda-colombiana-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Lectura crítica
+**ICFES:** Semántico
 **Expected_Success:** 0.71
 **Contexto:** Lee: "Dicen los abuelos wayúu que la lluvia llega cuando la abuela Juna llora desde el cielo, porque sus lágrimas son las gotas que caen sobre la tierra."
 
@@ -118,7 +118,7 @@ Reconocer la intención cultural y simbólica de una leyenda que explica un fen�
 ## Question 5 [D5-D6]
 **ID:** CO-LC-5-2026-W07-leyenda-colombiana-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Lectura crítica
+**ICFES:** Semántico
 **Expected_Success:** 0.66
 **Contexto:** En un taller, los estudiantes deben escribir el inicio de una leyenda colombiana con personajes y un lugar reconocible.
 
@@ -141,7 +141,7 @@ Aplicar los elementos iniciales necesarios para escribir una leyenda colombiana.
 ## Question 6 [D7-D8]
 **ID:** CO-LC-5-2026-W07-leyenda-colombiana-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Lectura crítica
+**ICFES:** Semántico
 **Expected_Success:** 0.58
 **Contexto:** Compara: "La leyenda del Mohan cuenta la aparición de un hombre peludo en los ríos amazónicos. La leyenda de la Pata Sola aparece en zonas cafeteras para asustar a los niños."
 
@@ -164,7 +164,7 @@ Comparar leyendas colombianas para identificar sus elementos comunes.
 ## Question 7 [D7-D8]
 **ID:** CO-LC-5-2026-W07-leyenda-colombiana-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Lectura crítica
+**ICFES:** Semántico
 **Expected_Success:** 0.52
 **Contexto:** Lee: "En las leyendas colombianas suele aparecer un héroe que enfrenta pruebas, un ser sobrenatural que lo ayuda o lo pone en peligro y un final que explica algo del entorno."
 
@@ -187,7 +187,7 @@ Analizar el papel narrativo de los personajes sobrenaturales en las leyendas col
 ## Question 8 [D9-D10]
 **ID:** CO-LC-5-2026-W07-leyenda-colombiana-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
-**ICFES:** Lectura crítica
+**ICFES:** Semántico
 **Expected_Success:** 0.31
 **Contexto:** Lee: 'Las leyendas colombianas transmiten saberes ancestrales, valores comunitarios y explicaciones del entorno natural. Conocerlas permite valorar la tradición oral y la identidad cultural de las regiones.'
 

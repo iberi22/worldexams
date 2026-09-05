@@ -26,7 +26,7 @@ Importancia del café en la economía colombiana, regiones productoras, actores 
 ## Question 1 [D3-D4]
 **ID:** CO-SOC-5-2026-W08-economia-cafetera-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Entorno vivo
+**ICFES:** Globalización y comercio
 **Expected_Success:** 0.89
 **Contexto:** En clase de sociales en Manizales, la profesora explica por qué el café es tan importante para Colombia.
 
@@ -49,7 +49,7 @@ Reconocer el café como producto tradicional y central en la economía colombian
 ## Question 2 [D3-D4]
 **ID:** CO-SOC-5-2026-W08-economia-cafetera-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Entorno vivo
+**ICFES:** Globalización y comercio
 **Expected_Success:** 0.84
 **Contexto:** Lee: "El eje cafetero colombiano está formado por Caldas, Risaralda, Quindío y el norte del Valle del Cauca. Allí se produce café de alta calidad."
 
@@ -72,7 +72,7 @@ Comprender la relación entre las condiciones geográficas y la producción cafe
 ## Question 3 [D5-D6]
 **ID:** CO-SOC-5-2026-W08-economia-cafetera-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Globalización y comercio
 **Expected_Success:** 0.75
 **Contexto:** Un caficultor de Risaralda quiere mejorar la calidad de su cosecha para vender café a mejor precio.
 
@@ -95,7 +95,7 @@ Aplicar buenas prácticas agrícolas para mejorar la calidad del café colombian
 ## Question 4 [D5-D6]
 **ID:** CO-SOC-5-2026-W08-economia-cafetera-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Globalización y comercio
 **Expected_Success:** 0.71
 **Contexto:** Lee: "En la cadena del café participan caficultores, recolectores, beneficiadores, transportadores, tostadores y exportadores."
 
@@ -118,7 +118,7 @@ Reconocer el papel de los caficultores dentro de la cadena productiva del café.
 ## Question 5 [D5-D6]
 **ID:** CO-SOC-5-2026-W08-economia-cafetera-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Globalización y comercio
 **Expected_Success:** 0.66
 **Contexto:** En una cooperativa cafetera de Antioquia, los productores se unen para comprar insumos y vender el café juntos.
 
@@ -141,7 +141,7 @@ Aplicar el concepto de cooperativismo como estrategia para fortalecer a los cafi
 ## Question 6 [D7-D8]
 **ID:** CO-SOC-5-2026-W08-economia-cafetera-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Entorno vivo
+**ICFES:** Globalización y comercio
 **Expected_Success:** 0.58
 **Contexto:** Compara: "Un caficultor que vende su café a través de una cooperativa recibe un precio más estable. Uno que vende de forma individual a intermediarios suele recibir menos dinero por su cosecha."
 
@@ -164,7 +164,7 @@ Analizar el impacto de la asociatividad cafetera en los ingresos de los producto
 ## Question 7 [D7-D8]
 **ID:** CO-SOC-5-2026-W08-economia-cafetera-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Entorno vivo
+**ICFES:** Globalización y comercio
 **Expected_Success:** 0.52
 **Contexto:** Lee: "El cambio climático ha provocado variaciones en las lluvias y en la temperatura de las zonas cafeteras, lo que afecta las cosechas y la calidad del grano."
 
@@ -187,7 +187,7 @@ Analizar el impacto del cambio climático sobre la producción y la economía ca
 ## Question 8 [D9-D10]
 **ID:** CO-SOC-5-2026-W08-economia-cafetera-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
-**ICFES:** Entorno vivo
+**ICFES:** Globalización y comercio
 **Expected_Success:** 0.31
 **Contexto:** Lee: 'El café es mucho más que un producto agrícola: es parte de la identidad cultural de Colombia, fuente de empleo rural y motor de desarrollo regional. Apoyar a los caficultores es clave para mantener viva esta tradición.'
 

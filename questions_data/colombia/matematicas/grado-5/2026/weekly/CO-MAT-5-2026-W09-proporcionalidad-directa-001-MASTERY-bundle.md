@@ -26,7 +26,7 @@ Concepto de proporcionalidad directa, tablas de variación proporcional y resolu
 ## Question 1 [D3-D4]
 **ID:** CO-MAT-5-2026-W09-proporcionalidad-directa-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Numérico variacional
+**ICFES:** Numerico
 **Expected_Success:** 0.89
 **Contexto:** En clase de matemáticas en una panadería de barrio en Buga, la profesora explica cómo se relacionan los ingredientes según la cantidad de panes.
 
@@ -49,7 +49,7 @@ Comprender el concepto de proporcionalidad directa entre dos magnitudes.
 ## Question 2 [D3-D4]
 **ID:** CO-MAT-5-2026-W09-proporcionalidad-directa-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Numérico variacional
+**ICFES:** Numerico
 **Expected_Success:** 0.84
 **Contexto:** Lee: "Si 1 kilogramo de arroz cuesta 5.000 pesos colombianos (COP), entonces 2 kilogramos cuestan 10.000 COP y 3 kilogramos cuestan 15.000 COP."
 
@@ -72,7 +72,7 @@ Explicar la proporcionalidad directa a partir de un ejemplo cotidiano con precio
 ## Question 3 [D5-D6]
 **ID:** CO-MAT-5-2026-W09-proporcionalidad-directa-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Numérico variacional
+**ICFES:** Numerico
 **Expected_Success:** 0.75
 **Contexto:** Un estudiante observa la tabla: 1 cuaderno cuesta 3.500 COP, 2 cuestan 7.000 COP, 3 cuestan 10.500 COP.
 
@@ -95,7 +95,7 @@ Aplicar la razón constante para hallar el costo total al variar la cantidad de 
 ## Question 4 [D5-D6]
 **ID:** CO-MAT-5-2026-W09-proporcionalidad-directa-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Numérico variacional
+**ICFES:** Numerico
 **Expected_Success:** 0.71
 **Contexto:** Lee: "Un taxi cobra 2.000 COP de banderazo y 1.000 COP por cada kilómetro recorrido. Para 5 km, el valor es 7.000 COP."
 
@@ -118,7 +118,7 @@ Aplicar la proporcionalidad directa y una tarifa fija para calcular el costo tot
 ## Question 5 [D5-D6]
 **ID:** CO-MAT-5-2026-W09-proporcionalidad-directa-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Numérico variacional
+**ICFES:** Numerico
 **Expected_Success:** 0.66
 **Contexto:** En una imprenta, se imprimen 50 hojas en 2 minutos con la misma velocidad constante.
 
@@ -141,7 +141,7 @@ Aplicar la proporcionalidad directa para extrapolar cantidades en problemas de p
 ## Question 6 [D7-D8]
 **ID:** CO-MAT-5-2026-W09-proporcionalidad-directa-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Numérico variacional
+**ICFES:** Numerico
 **Expected_Success:** 0.58
 **Contexto:** Compara: "Si 2 cajas guardan 12 botellas, entonces 4 cajas guardan 24 botellas y 6 cajas guardan 36 botellas."
 
@@ -164,7 +164,7 @@ Analizar la constancia de la razón como característica de la proporcionalidad 
 ## Question 7 [D7-D8]
 **ID:** CO-MAT-5-2026-W09-proporcionalidad-directa-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Numérico variacional
+**ICFES:** Numerico
 **Expected_Success:** 0.52
 **Contexto:** Lee: "Una receta para 4 personas usa 200 gramos de azúcar. Para mantener el sabor, la cantidad de azúcar debe aumentar en la misma proporción que el número de personas."
 
@@ -187,7 +187,7 @@ Analizar y aplicar la proporcionalidad directa para ajustar cantidades de una re
 ## Question 8 [D9-D10]
 **ID:** CO-MAT-5-2026-W09-proporcionalidad-directa-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
-**ICFES:** Numérico variacional
+**ICFES:** Numerico
 **Expected_Success:** 0.31
 **Contexto:** Lee: 'La proporcionalidad directa permite resolver situaciones cotidianas como repartir comida, calcular distancias recorridas en un tiempo dado o ajustar ingredientes en una receta. Su uso facilita la toma de decisiones en la vida diaria.'
 

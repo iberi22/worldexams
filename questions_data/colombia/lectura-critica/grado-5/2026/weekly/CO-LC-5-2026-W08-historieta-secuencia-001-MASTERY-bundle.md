@@ -26,7 +26,7 @@ Elementos de la historieta (viñetas, globos de texto, onomatopeyas), orden lóg
 ## Question 1 [D3-D4]
 **ID:** CO-LC-5-2026-W08-historieta-secuencia-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Lectura crítica
+**ICFES:** Semántico
 **Expected_Success:** 0.89
 **Contexto:** En clase de lectura en una escuela de Ibague, la profesora muestra varias historietas colombianas como Mafalda y Condorito.
 
@@ -49,7 +49,7 @@ Reconocer los elementos básicos que componen una historieta.
 ## Question 2 [D3-D4]
 **ID:** CO-LC-5-2026-W08-historieta-secuencia-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Lectura crítica
+**ICFES:** Semántico
 **Expected_Success:** 0.84
 **Contexto:** Lee: "Una historieta cuenta una historia mediante una secuencia de viñetas que el lector debe seguir de izquierda a derecha y de arriba hacia abajo."
 
@@ -72,7 +72,7 @@ Comprender la importancia del orden secuencial de las viñetas en una historieta
 ## Question 3 [D5-D6]
 **ID:** CO-LC-5-2026-W08-historieta-secuencia-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Lectura crítica
+**ICFES:** Semántico
 **Expected_Success:** 0.75
 **Contexto:** Un estudiante debe ordenar las viñetas de una historieta en la que un niño pierde su perro y luego lo encuentra gracias a un aviso en el barrio.
 
@@ -95,7 +95,7 @@ Aplicar el orden lógico de una secuencia narrativa en una historieta.
 ## Question 4 [D5-D6]
 **ID:** CO-LC-5-2026-W08-historieta-secuencia-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Lectura crítica
+**ICFES:** Semántico
 **Expected_Success:** 0.71
 **Contexto:** Lee: "En una historieta, los globos de texto pueden mostrar diálogos (con cola), pensamientos (con forma de nube) y gritos (con borde dentado)."
 
@@ -118,7 +118,7 @@ Identificar el significado de los distintos tipos de globos de texto en una hist
 ## Question 5 [D5-D6]
 **ID:** CO-LC-5-2026-W08-historieta-secuencia-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Lectura crítica
+**ICFES:** Semántico
 **Expected_Success:** 0.66
 **Contexto:** En una historieta, aparece una nube con la palabra "¡ZAS!" y un personaje cayendo.
 
@@ -141,7 +141,7 @@ Aplicar el concepto de onomatopeya al interpretar los recursos sonoros de una hi
 ## Question 6 [D7-D8]
 **ID:** CO-LC-5-2026-W08-historieta-secuencia-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Lectura crítica
+**ICFES:** Semántico
 **Expected_Success:** 0.58
 **Contexto:** Compara: "La historieta A presenta una sola viñeta con un texto largo. La historieta B tiene diez viñetas pequeñas con poco texto y muchas imágenes."
 
@@ -164,7 +164,7 @@ Comparar la estructura de dos historietas según la cantidad de viñetas y la re
 ## Question 7 [D7-D8]
 **ID:** CO-LC-5-2026-W08-historieta-secuencia-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Lectura crítica
+**ICFES:** Semántico
 **Expected_Success:** 0.52
 **Contexto:** Lee: "En muchas historietas, el autor usa el encuadre para mostrar el rostro del personaje cuando quiere transmitir una emoción fuerte."
 
@@ -187,7 +187,7 @@ Analizar el efecto del encuadre en primer plano dentro de una historieta.
 ## Question 8 [D9-D10]
 **ID:** CO-LC-5-2026-W08-historieta-secuencia-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
-**ICFES:** Lectura crítica
+**ICFES:** Semántico
 **Expected_Success:** 0.31
 **Contexto:** Lee: 'Leer historietas desarrolla la comprensión de secuencias narrativas, la interpretación de imágenes y el gusto por la lectura. Es un puente entre la literatura, el cine y el arte visual.'
 

@@ -26,7 +26,7 @@ Características de las principales culturas precolombinas del territorio colomb
 ## Question 1 [D3-D4]
 **ID:** CO-SOC-5-2026-W04-culturas-precolombinas-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Entorno vivo
+**ICFES:** Pluralidad, identidad y desigualdad
 **Expected_Success:** 0.89
 **Contexto:** En clase de sociales en Tunja, la profesora muestra imágenes de piezas de oro y explica que vienen de culturas antiguas de Colombia.
 
@@ -49,7 +49,7 @@ Reconocer culturas precolombinas que existieron en el actual territorio colombia
 ## Question 2 [D3-D4]
 **ID:** CO-SOC-5-2026-W04-culturas-precolombinas-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Entorno vivo
+**ICFES:** Pluralidad, identidad y desigualdad
 **Expected_Success:** 0.84
 **Contexto:** Lee: "Los Muisca vivieron en el altiplano cundiboyacense, aprovecharon los lagos para la pesca y cultivaron productos como la papa y el maíz."
 
@@ -72,7 +72,7 @@ Comprender la relación entre las condiciones geográficas y el asentamiento de 
 ## Question 3 [D5-D6]
 **ID:** CO-SOC-5-2026-W04-culturas-precolombinas-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Pluralidad, identidad y desigualdad
 **Expected_Success:** 0.75
 **Contexto:** Un museo de Bogotá exhibe figuras de cerámica de la cultura Zenú y explica que eran expertos tejedores de sombrero vueltiao.
 
@@ -95,7 +95,7 @@ Identificar los principales aportes culturales, tecnológicos y agrícolas de la
 ## Question 4 [D5-D6]
 **ID:** CO-SOC-5-2026-W04-culturas-precolombinas-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Pluralidad, identidad y desigualdad
 **Expected_Success:** 0.71
 **Contexto:** Lee: "La cultura Tairona construyó ciudades en terrazas en la Sierra Nevada de Santa Marta, con caminos empedrados y sistemas de acueducto."
 
@@ -118,7 +118,7 @@ Aplicar el concepto de organización social compleja a partir de ejemplos arquit
 ## Question 5 [D5-D6]
 **ID:** CO-SOC-5-2026-W04-culturas-precolombinas-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Pluralidad, identidad y desigualdad
 **Expected_Success:** 0.66
 **Contexto:** En un taller de historia, los estudiantes deben comparar dos culturas precolombinas: Muisca y Tairona.
 
@@ -141,7 +141,7 @@ Seleccionar criterios históricos válidos para comparar culturas precolombinas 
 ## Question 6 [D7-D8]
 **ID:** CO-SOC-5-2026-W04-culturas-precolombinas-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Entorno vivo
+**ICFES:** Pluralidad, identidad y desigualdad
 **Expected_Success:** 0.58
 **Contexto:** Compara: "Los Muisca trabajaban el oro pero lo consideraban un metal sagrado que no debía acumularse. La cultura Quimbaya, en cambio, produjo grandes figuras de oro decorativas."
 
@@ -164,7 +164,7 @@ Analizar el significado cultural del oro en distintas civilizaciones precolombin
 ## Question 7 [D7-D8]
 **ID:** CO-SOC-5-2026-W04-culturas-precolombinas-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Entorno vivo
+**ICFES:** Pluralidad, identidad y desigualdad
 **Expected_Success:** 0.52
 **Contexto:** Lee: "Muchas palabras colombianas como 'cancha', 'choclo', 'cóndor' y 'morro' vienen de lenguas indígenas. El español hablado en Colombia tiene raíces en esas lenguas nativas."
 
@@ -187,7 +187,7 @@ Reconocer el legado lingüístico de las culturas precolombinas en el español a
 ## Question 8 [D9-D10]
 **ID:** CO-SOC-5-2026-W04-culturas-precolombinas-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
-**ICFES:** Entorno vivo
+**ICFES:** Pluralidad, identidad y desigualdad
 **Expected_Success:** 0.31
 **Contexto:** Lee: 'Las culturas precolombinas colombianas, como los Muisca, Tairona, Zenú y Calima, desarrollaron conocimientos en agricultura, orfebrería, astronomía y organización social. Valorar su legado permite reconocer la diversidad cultural del país.'
 

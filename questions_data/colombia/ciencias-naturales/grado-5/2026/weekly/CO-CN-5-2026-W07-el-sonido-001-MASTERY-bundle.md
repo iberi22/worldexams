@@ -26,7 +26,7 @@ Naturaleza del sonido como onda mecánica, cómo se propaga en distintos medios 
 ## Question 1 [D3-D4]
 **ID:** CO-CN-5-2026-W07-el-sonido-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.90
 **Contexto:** En una clase de ciencias en Villavicencio, la profesora hace vibrar una cuerda de guitarra y pregunta qué se produce.
 
@@ -49,7 +49,7 @@ Comprender el concepto básico del sonido como vibración que se propaga por un 
 ## Question 2 [D3-D4]
 **ID:** CO-CN-5-2026-W07-el-sonido-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.85
 **Contexto:** Lee: "En el espacio exterior no hay aire ni moléculas suficientes para que el sonido se transmita, por eso allí no se escuchan las explosiones de las estrellas."
 
@@ -72,7 +72,7 @@ Explicar por qué el sonido requiere un medio material para propagarse y no viaj
 ## Question 3 [D5-D6]
 **ID:** CO-CN-5-2026-W07-el-sonido-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.76
 **Contexto:** Un estudiante se tapa los oídos y escucha menos los sonidos del salón de clase.
 
@@ -95,7 +95,7 @@ Aplicar el concepto de reflexión y absorción del sonido al chocar con diferent
 ## Question 4 [D5-D6]
 **ID:** CO-CN-5-2026-W07-el-sonido-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.72
 **Contexto:** Un médico usa un estetoscopio para escuchar los latidos del corazón de un paciente.
 
@@ -118,7 +118,7 @@ Aplicar la conducción del sonido en materiales sólidos para explicar el funcio
 ## Question 5 [D5-D6]
 **ID:** CO-CN-5-2026-W07-el-sonido-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.66
 **Contexto:** En una piscina, dos niños hablan debajo del agua y se escuchan claramente, aunque sus voces suenan diferentes.
 
@@ -141,7 +141,7 @@ Reconocer que el sonido puede propagarse por medios líquidos como el agua.
 ## Question 6 [D7-D8]
 **ID:** CO-CN-5-2026-W07-el-sonido-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.58
 **Contexto:** Compara: "Un silbato produce un sonido agudo, y un tambor grande produce un sonido grave. El silbato tiene vibraciones rápidas; el tambor, vibraciones más lentas."
 
@@ -164,7 +164,7 @@ Analizar la relación entre la frecuencia de vibración y las cualidades del son
 ## Question 7 [D7-D8]
 **ID:** CO-CN-5-2026-W07-el-sonido-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.52
 **Contexto:** Lee: "La contaminación sonora es el exceso de sonido en el ambiente. Vivir cerca de aeropuertos o carreteras muy transitadas puede afectar la salud auditiva y el sueño."
 
@@ -187,7 +187,7 @@ Analizar los efectos de la contaminación sonora en la salud humana y en la cali
 ## Question 8 [D9-D10]
 **ID:** CO-CN-5-2026-W07-el-sonido-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.30
 **Contexto:** Lee: 'Proteger los oídos del ruido excesivo es fundamental para mantener una buena salud auditiva a lo largo de la vida. Usar protectores en ambientes ruidosos y mantener un volumen bajo en audífonos ayuda a prevenir daños.'
 

@@ -26,7 +26,7 @@ Propagación rectilínea de la luz, formación de sombras, fuentes luminosas y r
 ## Question 1 [D3-D4]
 **ID:** CO-CN-5-2026-W08-la-luz-sombras-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.90
 **Contexto:** En clase de ciencias en Sogamoso, la profesora enciende una linterna en un salón oscuro.
 
@@ -49,7 +49,7 @@ Diferenciar fuentes naturales y artificiales de luz a partir de ejemplos cotidia
 ## Question 2 [D3-D4]
 **ID:** CO-CN-5-2026-W08-la-luz-sombras-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.85
 **Contexto:** Lee: "Cuando la luz del Sol no puede atravesar un objeto opaco, detrás de él se forma una zona oscura llamada sombra."
 
@@ -72,7 +72,7 @@ Comprender la formación de sombras a partir de la propagación rectilínea de l
 ## Question 3 [D5-D6]
 **ID:** CO-CN-5-2026-W08-la-luz-sombras-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.76
 **Contexto:** Un estudiante observa su sombra en el patio durante la tarde y nota que es más larga que en el mediodía.
 
@@ -95,7 +95,7 @@ Aplicar la variación del ángulo de la luz solar para explicar los cambios de t
 ## Question 4 [D5-D6]
 **ID:** CO-CN-5-2026-W08-la-luz-sombras-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.72
 **Contexto:** En el salón, una niña coloca un objeto cerca de una lámpara encendida y observa una sombra en la pared.
 
@@ -118,7 +118,7 @@ Aplicar la relación entre distancia a la fuente de luz y tamaño de la sombra p
 ## Question 5 [D5-D6]
 **ID:** CO-CN-5-2026-W08-la-luz-sombras-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.66
 **Contexto:** En un experimento, un estudiante mira un espejo plano y ve su propio reflejo.
 
@@ -141,7 +141,7 @@ Identificar el fenómeno de reflexión de la luz en superficies lisas como los e
 ## Question 6 [D7-D8]
 **ID:** CO-CN-5-2026-W08-la-luz-sombras-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.58
 **Contexto:** Compara: "Un objeto translúcido, como un papel vegetal, deja pasar parte de la luz y produce una sombra tenue. Un objeto opaco, como un libro, no deja pasar la luz y produce una sombra oscura."
 
@@ -164,7 +164,7 @@ Comparar el comportamiento de la luz al atravesar materiales translúcidos y opa
 ## Question 7 [D7-D8]
 **ID:** CO-CN-5-2026-W08-la-luz-sombras-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.52
 **Contexto:** Lee: "Durante un eclipse solar, la Luna se interpone entre el Sol y la Tierra y proyecta su sombra sobre una zona del planeta."
 
@@ -187,7 +187,7 @@ Relacionar los eclipses con la propagación rectilínea de la luz y la formació
 ## Question 8 [D9-D10]
 **ID:** CO-CN-5-2026-W08-la-luz-sombras-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.30
 **Contexto:** Lee: 'La luz del Sol permite la vida en la Tierra, pero la exposición excesiva a sus rayos ultravioleta puede dañar la piel y los ojos. Usar protector solar, gafas con filtro UV y ropa adecuada ayuda a protegerse.'
 

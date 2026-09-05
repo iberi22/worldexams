@@ -26,7 +26,7 @@ Derechos fundamentales de los niños en la Constitución colombiana de 1991 y no
 ## Question 1 [D3-D4]
 **ID:** CO-SOC-5-2026-W09-constitucion-ninos-manual-convivencia-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Entorno vivo
+**ICFES:** Sistema político y democracia
 **Expected_Success:** 0.90
 **Contexto:** En una escuela de Bucaramanga, la profesora explica los derechos de los niños según la Constitución colombiana.
 
@@ -49,7 +49,7 @@ Reconocer los derechos fundamentales de los niños en la Constitución colombian
 ## Question 2 [D3-D4]
 **ID:** CO-SOC-5-2026-W09-constitucion-ninos-manual-convivencia-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Entorno vivo
+**ICFES:** Sistema político y democracia
 **Expected_Success:** 0.85
 **Contexto:** Lee: "La Constitución de 1991 establece que la familia, la sociedad y el Estado deben proteger a los niños contra toda forma de violencia, abandono y explotación."
 
@@ -72,7 +72,7 @@ Comprender las razones de la protección especial que la Constitución da a los 
 ## Question 3 [D5-D6]
 **ID:** CO-SOC-5-2026-W09-constitucion-ninos-manual-convivencia-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Sistema político y democracia
 **Expected_Success:** 0.76
 **Contexto:** En un colegio de Popayán, los estudiantes deben firmar el manual de convivencia al inicio del año escolar.
 
@@ -95,7 +95,7 @@ Reconocer el propósito del manual de convivencia en la organización de la vida
 ## Question 4 [D5-D6]
 **ID:** CO-SOC-5-2026-W09-constitucion-ninos-manual-convivencia-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Sistema político y democracia
 **Expected_Success:** 0.72
 **Contexto:** Lee: "Los manuales de convivencia suelen incluir procedimientos para resolver conflictos, mecanismos de representación estudiantil y protocolos de protección."
 
@@ -118,7 +118,7 @@ Aplicar los procedimientos del manual de convivencia para resolver conflictos es
 ## Question 5 [D5-D6]
 **ID:** CO-SOC-5-2026-W09-constitucion-ninos-manual-convivencia-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Sistema político y democracia
 **Expected_Success:** 0.66
 **Contexto:** En la escuela, los estudiantes eligen un personero estudiantil que defiende sus derechos ante las directivas.
 
@@ -141,7 +141,7 @@ Reconocer el papel del personero estudiantil en la defensa de los derechos de lo
 ## Question 6 [D7-D8]
 **ID:** CO-SOC-5-2026-W09-constitucion-ninos-manual-convivencia-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Entorno vivo
+**ICFES:** Sistema político y democracia
 **Expected_Success:** 0.58
 **Contexto:** Compara: "En el colegio A, los estudiantes pueden proponer reglas al manual de convivencia a través del gobierno escolar. En el colegio B, las reglas solo las imponen los directivos sin participación estudiantil."
 
@@ -164,7 +164,7 @@ Comparar modelos de convivencia escolar según la participación de los estudian
 ## Question 7 [D7-D8]
 **ID:** CO-SOC-5-2026-W09-constitucion-ninos-manual-convivencia-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Entorno vivo
+**ICFES:** Sistema político y democracia
 **Expected_Success:** 0.52
 **Contexto:** Lee: "Cuando un estudiante sufre acoso escolar, el manual de convivencia debe activar rutas de protección que incluyen la escucha, el seguimiento y el apoyo psicosocial."
 
@@ -187,7 +187,7 @@ Analizar los componentes esenciales de las rutas de protección contra el acoso 
 ## Question 8 [D9-D10]
 **ID:** CO-SOC-5-2026-W09-constitucion-ninos-manual-convivencia-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
-**ICFES:** Entorno vivo
+**ICFES:** Sistema político y democracia
 **Expected_Success:** 0.31
 **Contexto:** Lee: 'Conocer los derechos de los niños y las reglas del manual de convivencia permite a los estudiantes exigir respeto, resolver conflictos de forma pacífica y participar activamente en la vida escolar.'
 

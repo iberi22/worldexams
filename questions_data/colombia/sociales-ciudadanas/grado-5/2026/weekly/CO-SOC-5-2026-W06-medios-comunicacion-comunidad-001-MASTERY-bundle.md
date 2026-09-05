@@ -26,7 +26,7 @@ Tipos de medios de comunicación (tradicionales y digitales), su función inform
 ## Question 1 [D3-D4]
 **ID:** CO-SOC-5-2026-W06-medios-comunicacion-comunidad-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Entorno vivo
+**ICFES:** Ciudadano
 **Expected_Success:** 0.90
 **Contexto:** En una clase en Cali, la profesora pregunta qué medios de comunicación usan los estudiantes en su casa.
 
@@ -49,7 +49,7 @@ Reconocer ejemplos de medios de comunicación masivos tradicionales y diferencia
 ## Question 2 [D3-D4]
 **ID:** CO-SOC-5-2026-W06-medios-comunicacion-comunidad-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Entorno vivo
+**ICFES:** Ciudadano
 **Expected_Success:** 0.85
 **Contexto:** Lee: "La radio comunitaria de un pueblo permite a los vecinos conocer noticias locales, compartir avisos y difundir la cultura del territorio."
 
@@ -72,7 +72,7 @@ Comprender la función social de los medios comunitarios en los territorios colo
 ## Question 3 [D5-D6]
 **ID:** CO-SOC-5-2026-W06-medios-comunicacion-comunidad-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Ciudadano
 **Expected_Success:** 0.76
 **Contexto:** Un grupo de padres de familia en un pueblo de Santander quiere difundir información sobre una jornada de vacunación.
 
@@ -95,7 +95,7 @@ Seleccionar medios de comunicación adecuados para informar a una comunidad dive
 ## Question 4 [D5-D6]
 **ID:** CO-SOC-5-2026-W06-medios-comunicacion-comunidad-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Ciudadano
 **Expected_Success:** 0.72
 **Contexto:** Lee: "Internet permite acceder a noticias, pero también a información falsa o sin verificar, conocida como fake news."
 
@@ -118,7 +118,7 @@ Aplicar criterios de verificación de información en medios digitales para evit
 ## Question 5 [D5-D6]
 **ID:** CO-SOC-5-2026-W06-medios-comunicacion-comunidad-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Ciudadano
 **Expected_Success:** 0.66
 **Contexto:** En una escuela de Armenia, los estudiantes realizan un periódico mural para informar a sus compañeros.
 
@@ -141,7 +141,7 @@ Aplicar criterios periodísticos básicos para producir noticias escolares respo
 ## Question 6 [D7-D8]
 **ID:** CO-SOC-5-2026-W06-medios-comunicacion-comunidad-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Entorno vivo
+**ICFES:** Ciudadano
 **Expected_Success:** 0.58
 **Contexto:** Compara: "Un periódico impreso llega una vez al día con noticias nacionales. Una página de noticias en internet publica información cada minuto y se actualiza constantemente."
 
@@ -164,7 +164,7 @@ Comparar medios tradicionales y digitales según su periodicidad y soporte.
 ## Question 7 [D7-D8]
 **ID:** CO-SOC-5-2026-W06-medios-comunicacion-comunidad-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Entorno vivo
+**ICFES:** Ciudadano
 **Expected_Success:** 0.52
 **Contexto:** Lee: "Algunos medios de comunicación pueden difundir información con sesgos políticos o comerciales, lo que influye en la opinión de las personas."
 
@@ -187,7 +187,7 @@ Analizar la influencia de los medios sesgados en la opinión pública y la impor
 ## Question 8 [D9-D10]
 **ID:** CO-SOC-5-2026-W06-medios-comunicacion-comunidad-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
-**ICFES:** Entorno vivo
+**ICFES:** Ciudadano
 **Expected_Success:** 0.31
 **Contexto:** Lee: 'Los medios de comunicación cumplen un papel clave en la sociedad: informar, entretener, educar y permitir la participación ciudadana. Sin embargo, su influencia debe ir acompañada de pensamiento crítico y de respeto por la dignidad humana.'
 

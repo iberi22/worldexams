@@ -26,7 +26,7 @@ Estructura y función básica del sistema respiratorio humano, sus órganos prin
 ## Question 1 [D3-D4]
 **ID:** CO-CN-5-2026-W04-sistema-respiratorio-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Entorno vivo
+**ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.90
 **Contexto:** En una clase de ciencias en una escuela de Neiva, la profesora muestra un diagrama del cuerpo humano y pide identificar los órganos respiratorios.
 
@@ -49,7 +49,7 @@ Reconocer los principales órganos del sistema respiratorio y diferenciarlos de 
 ## Question 2 [D3-D4]
 **ID:** CO-CN-5-2026-W04-sistema-respiratorio-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Entorno vivo
+**ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.85
 **Contexto:** Lee: "Al inhalar, el aire entra por la nariz o la boca, pasa por la tráquea y llega a los pulmones."
 
@@ -72,7 +72,7 @@ Comprender el recorrido del aire por las vías respiratorias superiores antes de
 ## Question 3 [D5-D6]
 **ID:** CO-CN-5-2026-W04-sistema-respiratorio-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.76
 **Contexto:** Un estudiante realiza una experiencia: cuenta cuántas veces respira por minuto estando sentado y cuántas veces después de correr en el patio del colegio.
 
@@ -95,7 +95,7 @@ Relacionar la actividad física con el aumento de la frecuencia respiratoria seg
 ## Question 4 [D5-D6]
 **ID:** CO-CN-5-2026-W04-sistema-respiratorio-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.72
 **Contexto:** La profesora explica: "En los alvéolos pulmonares ocurre el intercambio de gases: el oxígeno pasa a la sangre y el dióxido de carbono sale del cuerpo."
 
@@ -118,7 +118,7 @@ Identificar el papel de los alvéolos en el intercambio gaseoso durante la respi
 ## Question 5 [D5-D6]
 **ID:** CO-CN-5-2026-W04-sistema-respiratorio-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.66
 **Contexto:** Un médico del barrio explica: "Cubrirse la boca al toser y lavarse las manos ayuda a evitar que se transmitan virus respiratorios."
 
@@ -141,7 +141,7 @@ Aplicar hábitos de higiene y cuidado para proteger el sistema respiratorio en l
 ## Question 6 [D7-D8]
 **ID:** CO-CN-5-2026-W04-sistema-respiratorio-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Entorno vivo
+**ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.58
 **Contexto:** Compara: "Una persona que vive en una ciudad con mucho smog suele toser con frecuencia. Una persona que vive en el campo, con aire más limpio, casi no tose."
 
@@ -164,7 +164,7 @@ Analizar cómo la contaminación del aire afecta el funcionamiento del sistema r
 ## Question 7 [D7-D8]
 **ID:** CO-CN-5-2026-W04-sistema-respiratorio-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Entorno vivo
+**ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.52
 **Contexto:** Lee: "Al inspirar, entra aire rico en oxígeno a los pulmones. Al exhalar, sale aire con más dióxido de carbono."
 
@@ -187,7 +187,7 @@ Distinguir el intercambio de oxígeno y dióxido de carbono que ocurre en cada c
 ## Question 8 [D9-D10]
 **ID:** CO-CN-5-2026-W04-sistema-respiratorio-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
-**ICFES:** Entorno vivo
+**ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.30
 **Contexto:** Lee: 'El sistema respiratorio trabaja junto con el sistema circulatorio para llevar oxígeno a todas las células del cuerpo y retirar el dióxido de carbono. Cuando una persona fuma, estas sustancias tóxicas dañan los pulmones y reducen su capacidad de funcionar correctamente.'
 

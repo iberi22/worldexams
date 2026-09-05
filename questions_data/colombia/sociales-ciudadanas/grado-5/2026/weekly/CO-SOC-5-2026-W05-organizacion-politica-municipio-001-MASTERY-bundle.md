@@ -26,7 +26,7 @@ Estructura político-administrativa del municipio colombiano: alcalde, Concejo m
 ## Question 1 [D3-D4]
 **ID:** CO-SOC-5-2026-W05-organizacion-politica-municipio-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Entorno vivo
+**ICFES:** Sistema político y democracia
 **Expected_Success:** 0.90
 **Contexto:** En una clase de sociales en Sogamoso, la profesora explica cómo se organiza el gobierno del municipio donde viven los estudiantes.
 
@@ -49,7 +49,7 @@ Identificar al alcalde como la primera autoridad del gobierno municipal en Colom
 ## Question 2 [D3-D4]
 **ID:** CO-SOC-5-2026-W05-organizacion-politica-municipio-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Entorno vivo
+**ICFES:** Sistema político y democracia
 **Expected_Success:** 0.85
 **Contexto:** Lee: "El Concejo Municipal es una corporación elegida por los ciudadanos que aprueba acuerdos y controla la gestión del alcalde."
 
@@ -72,7 +72,7 @@ Comprender el papel del Concejo Municipal en la democracia local colombiana.
 ## Question 3 [D5-D6]
 **ID:** CO-SOC-5-2026-W05-organizacion-politica-municipio-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Sistema político y democracia
 **Expected_Success:** 0.76
 **Contexto:** Un grupo de estudiantes de Pereira investiga qué hace el alcalde de su ciudad cada año.
 
@@ -95,7 +95,7 @@ Reconocer las funciones ejecutivas del alcalde en el gobierno municipal.
 ## Question 4 [D5-D6]
 **ID:** CO-SOC-5-2026-W05-organizacion-politica-municipio-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Sistema político y democracia
 **Expected_Success:** 0.72
 **Contexto:** Lee: "En Colombia existen 32 departamentos y cada uno se divide en municipios. Los municipios son la entidad territorial más cercana a los ciudadanos."
 
@@ -118,7 +118,7 @@ Identificar el municipio como la entidad territorial más cercana a los ciudadan
 ## Question 5 [D5-D6]
 **ID:** CO-SOC-5-2026-W05-organizacion-politica-municipio-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Sistema político y democracia
 **Expected_Success:** 0.66
 **Contexto:** En Manizales, los vecinos quieren arreglar una vía del barrio y piden una reunión con el alcalde.
 
@@ -141,7 +141,7 @@ Aplicar mecanismos democráticos de participación para que los ciudadanos se re
 ## Question 6 [D7-D8]
 **ID:** CO-SOC-5-2026-W05-organizacion-politica-municipio-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Entorno vivo
+**ICFES:** Sistema político y democracia
 **Expected_Success:** 0.58
 **Contexto:** Compara: "En el municipio A, el alcalde escucha a la comunidad y rinde cuentas cada año. En el municipio B, el alcalde toma decisiones sin consultar y nunca informa sus avances."
 
@@ -164,7 +164,7 @@ Comparar estilos de gobierno municipal para distinguir prácticas democráticas 
 ## Question 7 [D7-D8]
 **ID:** CO-SOC-5-2026-W05-organizacion-politica-municipio-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Entorno vivo
+**ICFES:** Sistema político y democracia
 **Expected_Success:** 0.52
 **Contexto:** Lee: "Los impuestos municipales como el predial y el de industria y comercio financian servicios públicos locales como el alumbrado, el aseo y el mantenimiento de vías."
 
@@ -187,7 +187,7 @@ Analizar la relación entre tributación local y prestación de servicios públi
 ## Question 8 [D9-D10]
 **ID:** CO-SOC-5-2026-W05-organizacion-politica-municipio-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
-**ICFES:** Entorno vivo
+**ICFES:** Sistema político y democracia
 **Expected_Success:** 0.31
 **Contexto:** Lee: 'Una democracia local sólida depende de la participación activa de los ciudadanos y de la transparencia de los gobernantes. Votar, controlar la gestión pública y proponer soluciones fortalece al municipio.'
 

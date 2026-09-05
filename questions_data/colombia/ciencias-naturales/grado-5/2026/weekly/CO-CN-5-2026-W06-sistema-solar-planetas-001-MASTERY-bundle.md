@@ -26,7 +26,7 @@ Características generales del Sistema Solar, orden de los planetas, movimientos
 ## Question 1 [D3-D4]
 **ID:** CO-CN-5-2026-W06-sistema-solar-planetas-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Entorno vivo
+**ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.90
 **Contexto:** En clase de ciencias en Pasto, la profesora muestra un cartel con los planetas del Sistema Solar ordenados desde el Sol.
 
@@ -49,7 +49,7 @@ Reconocer el orden de los planetas del Sistema Solar comenzando desde el más ce
 ## Question 2 [D3-D4]
 **ID:** CO-CN-5-2026-W06-sistema-solar-planetas-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Entorno vivo
+**ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.85
 **Contexto:** Lee: "La Tierra gira sobre sí misma alrededor de un eje imaginario, lo que produce el día y la noche. Este movimiento se llama rotación."
 
@@ -72,7 +72,7 @@ Comprender la relación entre el movimiento de rotación terrestre y la sucesió
 ## Question 3 [D5-D6]
 **ID:** CO-CN-5-2026-W06-sistema-solar-planetas-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.76
 **Contexto:** Un estudiante debe escribir los planetas en orden desde el Sol: Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano y Neptuno.
 
@@ -95,7 +95,7 @@ Aplicar el orden de los planetas del Sistema Solar a partir del más cercano al 
 ## Question 4 [D5-D6]
 **ID:** CO-CN-5-2026-W06-sistema-solar-planetas-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.72
 **Contexto:** Lee: "Los planetas rocosos como Mercurio, Venus, Tierra y Marte tienen superficie sólida. Los planetas gaseosos como Júpiter y Saturno están formados principalmente por gases."
 
@@ -118,7 +118,7 @@ Aplicar la clasificación de planetas rocosos y gaseosos para predecir sus condi
 ## Question 5 [D5-D6]
 **ID:** CO-CN-5-2026-W06-sistema-solar-planetas-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.66
 **Contexto:** En clase se explica: "La Tierra tarda aproximadamente 365 días en dar una vuelta completa alrededor del Sol. Este movimiento se llama traslación."
 
@@ -141,7 +141,7 @@ Relacionar el movimiento de traslación de la Tierra con la duración del año y
 ## Question 6 [D7-D8]
 **ID:** CO-CN-5-2026-W06-sistema-solar-planetas-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Entorno vivo
+**ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.58
 **Contexto:** Compara: "Mercurio es pequeño, muy cercano al Sol y con temperaturas extremas. Júpiter es enorme, está lejos del Sol y formado principalmente por gases."
 
@@ -164,7 +164,7 @@ Comparar las características de un planeta rocoso cercano al Sol con un planeta
 ## Question 7 [D7-D8]
 **ID:** CO-CN-5-2026-W06-sistema-solar-planetas-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Entorno vivo
+**ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.52
 **Contexto:** Lee: "Plutón fue considerado el noveno planeta, pero en 2006 la Unión Astronómica Internacional lo reclasificó como planeta enano porque no cumple todas las condiciones para ser planeta."
 
@@ -187,7 +187,7 @@ Analizar los criterios científicos que permiten distinguir planetas, planetas e
 ## Question 8 [D9-D10]
 **ID:** CO-CN-5-2026-W06-sistema-solar-planetas-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
-**ICFES:** Entorno vivo
+**ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.30
 **Contexto:** Lee: 'La Tierra es el único planeta del Sistema Solar con condiciones conocidas para albergar vida: agua líquida, atmósfera con oxígeno y temperatura adecuada. Cuidar la atmósfera y el agua es esencial para preservar la vida.'
 

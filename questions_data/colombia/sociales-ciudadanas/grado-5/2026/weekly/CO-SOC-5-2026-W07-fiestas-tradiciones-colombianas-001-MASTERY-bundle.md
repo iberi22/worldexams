@@ -26,7 +26,7 @@ Fiestas y tradiciones representativas de las regiones colombianas, su origen, el
 ## Question 1 [D3-D4]
 **ID:** CO-SOC-5-2026-W07-fiestas-tradiciones-colombianas-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Entorno vivo
+**ICFES:** Pluralidad, identidad y desigualdad
 **Expected_Success:** 0.89
 **Contexto:** En clase de sociales en Barranquilla, la profesora explica la importancia de las fiestas en la cultura colombiana.
 
@@ -49,7 +49,7 @@ Reconocer las principales fiestas tradicionales colombianas según su región.
 ## Question 2 [D3-D4]
 **ID:** CO-SOC-5-2026-W07-fiestas-tradiciones-colombianas-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Entorno vivo
+**ICFES:** Pluralidad, identidad y desigualdad
 **Expected_Success:** 0.84
 **Contexto:** Lee: "El Carnaval de Barranquilla mezcla tradiciones indígenas, africanas y europeas. Sus danzas, disfraces y comparsas muestran la diversidad del Caribe."
 
@@ -72,7 +72,7 @@ Comprender la diversidad cultural reflejada en las fiestas tradicionales colombi
 ## Question 3 [D5-D6]
 **ID:** CO-SOC-5-2026-W07-fiestas-tradiciones-colombianas-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Pluralidad, identidad y desigualdad
 **Expected_Success:** 0.75
 **Contexto:** Un grupo de estudiantes investiga sobre la Fiesta de las Flores en Medellín.
 
@@ -95,7 +95,7 @@ Identificar los elementos culturales que caracterizan una fiesta tradicional col
 ## Question 4 [D5-D6]
 **ID:** CO-SOC-5-2026-W07-fiestas-tradiciones-colombianas-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Pluralidad, identidad y desigualdad
 **Expected_Success:** 0.71
 **Contexto:** Lee: "Las fiestas tradicionales colombianas suelen reunir música, danza, gastronomía y vestuarios típicos que reflejan la identidad de cada región."
 
@@ -118,7 +118,7 @@ Aplicar el concepto de identidad cultural a partir de los elementos de las fiest
 ## Question 5 [D5-D6]
 **ID:** CO-SOC-5-2026-W07-fiestas-tradiciones-colombianas-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Pluralidad, identidad y desigualdad
 **Expected_Success:** 0.66
 **Contexto:** En Nariño, la comunidad prepara la Fiesta de los Pastos con música, danza y platos típicos.
 
@@ -141,7 +141,7 @@ Reconocer el aporte social y cultural de las fiestas tradicionales para una comu
 ## Question 6 [D7-D8]
 **ID:** CO-SOC-5-2026-W07-fiestas-tradiciones-colombianas-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Entorno vivo
+**ICFES:** Pluralidad, identidad y desigualdad
 **Expected_Success:** 0.58
 **Contexto:** Compara: "La Semana Santa en Popayán se vive con procesiones solemnes y plegarias silenciosas. El Carnaval de Barranquilla se vive con música, baile y comparsas alegres."
 
@@ -164,7 +164,7 @@ Comparar el carácter y los elementos de distintas fiestas tradicionales colombi
 ## Question 7 [D7-D8]
 **ID:** CO-SOC-5-2026-W07-fiestas-tradiciones-colombianas-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Entorno vivo
+**ICFES:** Pluralidad, identidad y desigualdad
 **Expected_Success:** 0.52
 **Contexto:** Lee: "Las fiestas tradicionales colombianas suelen tener un origen religioso, agrícola o histórico, ligado a la vida cotidiana de las comunidades."
 
@@ -187,7 +187,7 @@ Analizar el origen histórico, religioso o agrícola de las fiestas tradicionale
 ## Question 8 [D9-D10]
 **ID:** CO-SOC-5-2026-W07-fiestas-tradiciones-colombianas-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
-**ICFES:** Entorno vivo
+**ICFES:** Pluralidad, identidad y desigualdad
 **Expected_Success:** 0.31
 **Contexto:** Lee: 'Conocer y valorar las fiestas tradicionales colombianas permite reconocer la diversidad cultural del país, fortalecer la identidad nacional y promover el respeto entre las regiones.'
 

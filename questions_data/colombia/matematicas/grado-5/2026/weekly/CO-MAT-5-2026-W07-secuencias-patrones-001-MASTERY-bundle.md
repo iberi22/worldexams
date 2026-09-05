@@ -26,7 +26,7 @@ Identificación y extensión de patrones numéricos y geométricos, regularidade
 ## Question 1 [D3-D4]
 **ID:** CO-MAT-5-2026-W07-secuencias-patrones-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Numérico variacional
+**ICFES:** Numerico
 **Expected_Success:** 0.90
 **Contexto:** En clase de matemáticas en una escuela de Sincelejo, la profesora escribe una secuencia en el tablero.
 
@@ -49,7 +49,7 @@ Reconocer el patrón aditivo constante en una secuencia numérica sencilla.
 ## Question 2 [D3-D4]
 **ID:** CO-MAT-5-2026-W07-secuencias-patrones-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Numérico variacional
+**ICFES:** Numerico
 **Expected_Success:** 0.85
 **Contexto:** Lee: "Una secuencia geométrica sigue un patrón de figuras: triángulo, cuadrado, triángulo, cuadrado, triángulo, ..."
 
@@ -72,7 +72,7 @@ Comprender la regla de un patrón geométrico que alterna dos figuras.
 ## Question 3 [D5-D6]
 **ID:** CO-MAT-5-2026-W07-secuencias-patrones-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Numérico variacional
+**ICFES:** Numerico
 **Expected_Success:** 0.76
 **Contexto:** Un estudiante observa la secuencia 5, 10, 15, 20, ___ y debe encontrar el siguiente número.
 
@@ -95,7 +95,7 @@ Aplicar la regla aditiva constante para extender una secuencia numérica.
 ## Question 4 [D5-D6]
 **ID:** CO-MAT-5-2026-W07-secuencias-patrones-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Numérico variacional
+**ICFES:** Numerico
 **Expected_Success:** 0.72
 **Contexto:** Lee: "La secuencia 3, 6, 12, 24, ... se obtiene multiplicando cada término por 2."
 
@@ -118,7 +118,7 @@ Aplicar una regla multiplicativa constante para hallar términos de una secuenci
 ## Question 5 [D5-D6]
 **ID:** CO-MAT-5-2026-W07-secuencias-patrones-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Numérico variacional
+**ICFES:** Numerico
 **Expected_Success:** 0.66
 **Contexto:** Una profesora de Valledupar muestra el patrón de una secuencia: 1, 4, 9, 16, ...
 
@@ -141,7 +141,7 @@ Reconocer un patrón basado en cuadrados perfectos y extender la secuencia.
 ## Question 6 [D7-D8]
 **ID:** CO-MAT-5-2026-W07-secuencias-patrones-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Numérico variacional
+**ICFES:** Numerico
 **Expected_Success:** 0.58
 **Contexto:** Compara dos secuencias: "Secuencia A: 2, 4, 6, 8, 10 (suma 2 a cada término). Secuencia B: 1, 3, 9, 27 (multiplica por 3 a cada término)."
 
@@ -164,7 +164,7 @@ Comparar secuencias aritméticas y geométricas según la operación constante q
 ## Question 7 [D7-D8]
 **ID:** CO-MAT-5-2026-W07-secuencias-patrones-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Numérico variacional
+**ICFES:** Numerico
 **Expected_Success:** 0.52
 **Contexto:** Lee: "Una secuencia de figuras repite el patrón: círculo, triángulo, círculo, triángulo. La secuencia tiene 12 figuras en total."
 
@@ -187,7 +187,7 @@ Analizar el conteo de elementos en una secuencia que alterna dos figuras.
 ## Question 8 [D9-D10]
 **ID:** CO-MAT-5-2026-W07-secuencias-patrones-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
-**ICFES:** Numérico variacional
+**ICFES:** Numerico
 **Expected_Success:** 0.31
 **Contexto:** Lee: 'Los patrones numéricos están presentes en la música, en el arte y en la naturaleza. Identificarlos permite predecir comportamientos futuros y resolver problemas en ciencias, economía y tecnología.'
 
