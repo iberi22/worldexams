@@ -292,7 +292,7 @@ Una secuencia de fósiles que muestra cambios morfológicos graduales entre espe
 - [x] B) evolución por descendencia con modificación a lo largo de generaciones.
   <!-- feedback: Correcto. Las transiciones morfológicas graduales son uno de los argumentos clásicos del registro fósil en favor de la evolución. -->
 - [ ] C) ausencia total de selección natural en esas poblaciones.
-  <!-- feedback: Incorrecto. Las transiciones graduales恰恰 reflejan el efecto acumulativo de selección natural y deriva. -->
+  <!-- feedback: Incorrecto. Las transiciones graduales precisamente reflejan el efecto acumulativo de selección natural y deriva. -->
 - [ ] D) cambios inducidos por el clima sin base genética.
   <!-- feedback: Incorrecto. Los cambios evolutivos en el registro fósil tienen base genética; el clima actúa como presión selectiva, no como inductor directo de cambios. -->
 
