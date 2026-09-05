@@ -38,4 +38,16 @@ describe('question subject helpers', () => {
     expect(resolveApiSubject('Lectura Crítica')).toBe('lectura_critica');
     expect(resolveApiSubject('Sociales y Ciudadanas')).toBe('sociales_y_ciudadanas');
   });
+
+  it('locks prefix-tolerance behavior (D4): generic categories match, unrelated do not', () => {
+    // Tolerancia intencional: categoría específica bajo materia general.
+    expect(subjectsMatch('INGLES DIAGNOSTICO NIVEL B1', 'Inglés')).toBe(true);
+    // Tolerancia intencional: singular/plural y categoría corta real (SOCIALES).
+    expect(subjectsMatch('MATEMATICA', 'Matemáticas')).toBe(true);
+    expect(subjectsMatch('CIENCIAS', 'Ciencias Naturales')).toBe(true);
+    // Materias distintas no deben cruzarse nunca.
+    expect(subjectsMatch('FISICA', 'Matemáticas')).toBe(false);
+    expect(subjectsMatch('MATEMATICAS', 'Inglés')).toBe(false);
+    expect(subjectsMatch('LENGUAJE', 'Matemáticas')).toBe(false);
+  });
 });

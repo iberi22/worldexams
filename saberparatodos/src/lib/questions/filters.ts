@@ -18,7 +18,9 @@ export function filterByGradeAndDiagnostic(
   if (englishDiagnostic) return questions;
 
   if (!useDiagnostic) {
-    return questions.filter((q) => (grade ? q.grade === grade : true));
+    // Grado 0 (diagnóstico inglés) también filtra estricto: Number.isInteger
+    // cubre el 0, que con truthiness desactivaba el filtro y pasaba todo.
+    return questions.filter((q) => (Number.isInteger(grade) ? q.grade === grade : true));
   }
 
   const lowerGrades = [3, 5, 7, 9].filter((g) => g < grade);
