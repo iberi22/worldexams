@@ -5,6 +5,10 @@
 
   let gameState = $derived(roomState.gameState);
   let currentQuestion = $derived(roomState.currentQuestion);
+  let isLongContext = $derived(
+    currentQuestion?.context &&
+    (currentQuestion.context.trim().length >= 140 || currentQuestion.context.trim().includes('\n'))
+  );
   let selectedAnswer = $state<string | null>(null);
   let hasAnswered = $state(false);
 
@@ -45,7 +49,7 @@
 </script>
 
 <div class="player-view bg-gray-900 text-white min-h-screen p-6">
-  <div class="{currentQuestion?.context ? 'max-w-7xl' : 'max-w-3xl'} mx-auto transition-all duration-500">
+  <div class="{isLongContext ? 'max-w-7xl' : 'max-w-3xl'} mx-auto transition-all duration-500">
     <!-- Header -->
     <div class="flex justify-between items-center mb-6">
       <div>
