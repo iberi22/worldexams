@@ -26,7 +26,7 @@ Este bundle contiene 20 preguntas sobre la **reforma política y la descentraliz
 ## Question 1 [D3-D4]
 **ID:** CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento social y crítico
+**ICFES:** Sistema político y democracia
 **Expected_Success:** 0.85
 **Contexto:** En una clase de Sociales en Bogotá, una profesora pide a sus estudiantes recordar qué proceso histórico llevó a la expedición de la Constitución Política de 1991.
 
@@ -49,7 +49,7 @@ La Constitución de 1991 fue producto de una crisis de representación que se ex
 ## Question 2 [D3-D4]
 **ID:** CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento social y crítico
+**ICFES:** Sistema político y democracia
 **Expected_Success:** 0.82
 **Contexto:** Un profesor en Medellín explica a sus estudiantes que la nueva Constitución amplió la elección popular de mandatarios locales y regionales.
 
@@ -72,7 +72,7 @@ La Constitución de 1991 profundizó la descentralización mediante la elección
 ## Question 3 [D3-D4]
 **ID:** CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Pensamiento social y crítico
+**ICFES:** Sistema político y democracia
 **Expected_Success:** 0.80
 **Contexto:** Una estudiante de Cali investiga la organización territorial de Colombia y debe diferenciar las entidades que la componen.
 
@@ -95,7 +95,7 @@ El artículo 286 de la Constitución de 1991 establece que son entidades territo
 ## Question 4 [D3-D4]
 **ID:** CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento social y crítico
+**ICFES:** Sistema político y democracia
 **Expected_Success:** 0.78
 **Contexto:** Un ciudadano de Neiva se pregunta qué mecanismos le permiten participar directamente en las decisiones públicas más allá del voto por candidatos.
 
@@ -118,7 +118,7 @@ Los mecanismos de participación son instrumentos mediante los cuales los ciudad
 ## Question 5 [D5-D6]
 **ID:** CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento social y crítico
+**ICFES:** Sistema político y democracia
 **Expected_Success:** 0.75
 **Contexto:** En un foro en Pasto, un concejal explica cómo se distribuye el dinero que llega a los municipios desde la Nación.
 
@@ -141,7 +141,7 @@ El Sistema General de Participaciones reemplazó las transferencias del antiguo 
 ## Question 6 [D5-D6]
 **ID:** CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento social y crítico
+**ICFES:** Sistema político y democracia
 **Expected_Success:** 0.73
 **Contexto:** Un habitante de Quibdó le explica a un periodista cómo la Constitución reconoció a su comunidad como sujeto de derechos especiales.
 
@@ -164,7 +164,7 @@ La Constitución de 1991 rompió con la tradición centralista al reconocer a lo
 ## Question 7 [D5-D6]
 **ID:** CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento social y crítico
+**ICFES:** Sistema político y democracia
 **Expected_Success:** 0.72
 **Contexto:** Una docente en Pereira explica que las regiones tienen mecanismos formales para organizarse y planificar su desarrollo.
 
@@ -187,7 +187,7 @@ El Plan de Desarrollo Departamental es el instrumento mediante el cual el gobern
 ## Question 8 [D5-D6]
 **ID:** CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento social y crítico
+**ICFES:** Sistema político y democracia
 **Expected_Success:** 0.70
 **Contexto:** Una mesa de trabajo en Tunja discute cómo los ciudadanos pueden controlar efectivamente a mandatarios elegidos.
 
@@ -210,7 +210,7 @@ La revocatoria del mandato es un mecanismo de control político que la Constituc
 ## Question 9 [D7-D8]
 **ID:** CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Pensamiento social y crítico
+**ICFES:** Sistema político y democracia
 **Expected_Success:** 0.65
 **Contexto:** Un analista en Bogotá compara el modelo centralista anterior con el descentralizado posterior a 1991.
 
@@ -233,7 +233,7 @@ La descentralización colombiana combina tres dimensiones: política, fiscal y a
 ## Question 10 [D7-D8]
 **ID:** CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v10
 **Bloom:** Analyze
-**ICFES:** Pensamiento social y crítico
+**ICFES:** Sistema político y democracia
 **Expected_Success:** 0.63
 **Contexto:** Un investigador en Bucaramanga evalúa el impacto de las regalías en los municipios productores de recursos naturales no renovables.
 
@@ -256,7 +256,7 @@ Antes de 2011, los municipios y departamentos productores recibían la mayor par
 ## Question 11 [D7-D8]
 **ID:** CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Pensamiento social y crítico
+**ICFES:** Sistema político y democracia
 **Expected_Success:** 0.62
 **Contexto:** Una comunidad de Riohacha pregunta al alcalde cómo puede incidir en decisiones sobre su territorio.
 
@@ -279,7 +279,7 @@ Los Consejos Territoriales de Planeación son cuerpos colegiados integrados por 
 ## Question 12 [D7-D8]
 **ID:** CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento social y crítico
+**ICFES:** Sistema político y democracia
 **Expected_Success:** 0.60
 **Contexto:** Una asociación de municipios del Magdalena Medio discute cómo prestar servicios públicos de manera conjunta.
 
@@ -302,7 +302,7 @@ La Ley Orgánica de Ordenamiento Territorial (LOOT) define tres tipos de esquema
 ## Question 13 [D7-D8]
 **ID:** CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento social y crítico
+**ICFES:** Sistema político y democracia
 **Expected_Success:** 0.60
 **Contexto:** Un estudiante de Ibagué compara los conceptos de autonomía y descentralización.
 
@@ -325,7 +325,7 @@ La descentralización es el proceso por el cual la Nación transfiere competenci
 ## Question 14 [D7-D8]
 **ID:** CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento social y crítico
+**ICFES:** Sistema político y democracia
 **Expected_Success:** 0.58
 **Contexto:** Una funcionaria de Armenia explica cómo se evalúan los resultados de la gestión territorial.
 
@@ -348,7 +348,7 @@ SINERGIA es una herramienta del Departamento Nacional de Planeación que articul
 ## Question 15 [D7-D8]
 **ID:** CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento social y crítico
+**ICFES:** Sistema político y democracia
 **Expected_Success:** 0.57
 **Contexto:** En una clase de Cúcuta, los estudiantes discuten si el sistema político colombiano permite o limita la representación de fuerzas minoritarias.
 
@@ -371,7 +371,7 @@ Desde la Constitución de 1991 se han planteado reformas políticas que buscan, 
 ## Question 16 [D7-D8]
 **ID:** CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento social y crítico
+**ICFES:** Sistema político y democracia
 **Expected_Success:** 0.56
 **Contexto:** Un equipo de investigadores de Popayán evalúa el papel de las áreas metropolitanas como figuras asociativas.
 
@@ -394,7 +394,7 @@ Las áreas metropolitanas, como el Área Metropolitana del Valle de Aburrá, de 
 ## Question 17 [D9-D10]
 **ID:** CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento social y crítico
+**ICFES:** Sistema político y democracia
 **Expected_Success:** 0.50
 **Contexto:** Un senador en Bogotá prepara un proyecto de ley para reformar el sistema de partidos y la organización electoral.
 
@@ -417,7 +417,7 @@ Las propuestas de reforma política suelen girar en torno a cinco ejes: reglas d
 ## Question 18 [D9-D10]
 **ID:** CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento social y crítico
+**ICFES:** Sistema político y democracia
 **Expected_Success:** 0.48
 **Contexto:** Una mesa de expertos en Villavicencio discute si conviene profundizar la descentralización o recentralizar servicios clave.
 
@@ -440,7 +440,7 @@ La descentralización enfrenta en Colombia un dilema estructural: municipios con
 ## Question 19 [D9-D10]
 **ID:** CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento social y crítico
+**ICFES:** Sistema político y democracia
 **Expected_Success:** 0.46
 **Contexto:** Una organización cívica en Bogotá propone una asamblea constituyente para reformar aspectos de la Constitución de 1991.
 
@@ -463,7 +463,7 @@ El artículo 376 de la Constitución prevé que la Asamblea Constituyente sea co
 ## Question 20 [D9-D10]
 **ID:** CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento social y crítico
+**ICFES:** Sistema político y democracia
 **Expected_Success:** 0.44
 **Contexto:** En un foro en Leticia, reflexionan sobre cómo profundizar la democracia en regiones apartadas del centro del país.
 
