@@ -26,7 +26,7 @@ Este bundle contiene 10 preguntas sobre **ecosistemas-colombianos** para grado 6
 ## Question 1 [D3-D4]
 **ID:** CO-CN-6-2026-W02-ecosistemas-colombianos-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Entorno vivo
+**ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.85
 **Contexto:** En clase en Bogotá, los estudiantes exploran los ecosistemas colombianos.
 ### Enunciado
@@ -46,7 +46,7 @@ Colombia es uno de los países más megadiversos del mundo gracias a su variedad
 ## Question 2 [D3-D4]
 **ID:** CO-CN-6-2026-W02-ecosistemas-colombianos-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Entorno vivo
+**ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.85
 **Contexto:** En clase en Medellín, se diferencia bioma y ecosistema.
 ### Enunciado
@@ -66,7 +66,7 @@ Los biomas se definen principalmente por el clima y la vegetación dominante.
 ## Question 3 [D3-D4]
 **ID:** CO-CN-6-2026-W02-ecosistemas-colombianos-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Entorno vivo
+**ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.84
 **Contexto:** En clase en Cali, se identifica la selva húmeda tropical.
 ### Enunciado
@@ -86,7 +86,7 @@ La Amazonía alberga cerca del 10 % de la biodiversidad mundial.
 ## Question 4 [D3-D4]
 **ID:** CO-CN-6-2026-W02-ecosistemas-colombianos-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Entorno vivo
+**ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.84
 **Contexto:** En clase en Pereira, se estudia el páramo.
 ### Enunciado
@@ -106,7 +106,7 @@ Los páramos almacenan y regulan el agua, por eso son fundamentales para el recu
 ## Question 5 [D5-D6]
 **ID:** CO-CN-6-2026-W02-ecosistemas-colombianos-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.75
 **Contexto:** En clase en Tunja, se estudian cadenas alimentarias.
 ### Enunciado
@@ -126,7 +126,7 @@ Las plantas son la base de las cadenas tróficas al transformar la energía sola
 ## Question 6 [D5-D6]
 **ID:** CO-CN-6-2026-W02-ecosistemas-colombianos-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.75
 **Contexto:** En clase en Manizales, se clasifican consumidores.
 ### Enunciado
@@ -146,7 +146,7 @@ Los consumidores secundarios se alimentan de consumidores primarios como el vena
 ## Question 7 [D5-D6]
 **ID:** CO-CN-6-2026-W02-ecosistemas-colombianos-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.74
 **Contexto:** En Armenia, se estudian los manglares del Pacífico.
 ### Enunciado
@@ -166,7 +166,7 @@ Los manglares son cruciales para la reproducción de especies marinas.
 ## Question 8 [D7-D8]
 **ID:** CO-CN-6-2026-W02-ecosistemas-colombianos-001-MASTERY-bundle-v8
 **Bloom:** Analyze
-**ICFES:** Entorno vivo
+**ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.65
 **Contexto:** En clase en Popayán, se analiza la deforestación.
 ### Enunciado
@@ -186,7 +186,7 @@ La deforestación es una de las principales amenazas a la biodiversidad colombia
 ## Question 9 [D9-D10]
 **ID:** CO-CN-6-2026-W02-ecosistemas-colombianos-001-MASTERY-bundle-v9
 **Bloom:** Evaluate
-**ICFES:** Entorno vivo
+**ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.50
 **Contexto:** En un proyecto en Bucaramanga, se discute la conservación.
 ### Enunciado
@@ -206,7 +206,7 @@ La conservación efectiva combina ciencia, política y participación comunitari
 ## Question 10 [D9-D10]
 **ID:** CO-CN-6-2026-W02-ecosistemas-colombianos-001-MASTERY-bundle-v10
 **Bloom:** Evaluate
-**ICFES:** Entorno vivo
+**ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.50
 **Contexto:** En un cierre en Medellín, se reflexiona sobre la riqueza nacional.
 ### Enunciado

@@ -26,7 +26,7 @@ Este bundle contiene 10 preguntas sobre **mezclas-separacion** para grado 6, ali
 ## Question 1 [D3-D4]
 **ID:** CO-CN-6-2026-W03-mezclas-separacion-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.85
 **Contexto:** En clase en Bogotá, se diferencia entre sustancias puras y mezclas.
 ### Enunciado
@@ -46,7 +46,7 @@ Las mezclas se clasifican en homogéneas y heterogéneas según su apariencia.
 ## Question 2 [D3-D4]
 **ID:** CO-CN-6-2026-W03-mezclas-separacion-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.85
 **Contexto:** En clase en Medellín, se observa el agua con sal.
 ### Enunciado
@@ -66,7 +66,7 @@ Ejemplos de mezclas homogéneas son el agua con sal disuelta o el aire.
 ## Question 3 [D3-D4]
 **ID:** CO-CN-6-2026-W03-mezclas-separacion-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.84
 **Contexto:** En clase en Cali, se identifican mezclas heterogéneas.
 ### Enunciado
@@ -86,7 +86,7 @@ En una mezcla heterogénea se distinguen las fases a simple vista o con lupa.
 ## Question 4 [D3-D4]
 **ID:** CO-CN-6-2026-W03-mezclas-separacion-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.84
 **Contexto:** En clase en Pereira, se introducen métodos de separación.
 ### Enunciado
@@ -106,7 +106,7 @@ La decantación aprovecha la diferencia de densidad entre dos líquidos inmiscib
 ## Question 5 [D5-D6]
 **ID:** CO-CN-6-2026-W03-mezclas-separacion-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.75
 **Contexto:** En Tunja, se filtra una mezcla.
 ### Enunciado
@@ -126,7 +126,7 @@ La filtración usa un medio poroso que retiene partículas sólidas.
 ## Question 6 [D5-D6]
 **ID:** CO-CN-6-2026-W03-mezclas-separacion-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.75
 **Contexto:** En Manizales, se destila agua con sal.
 ### Enunciado
@@ -146,7 +146,7 @@ La destilación combina evaporación y condensación para purificar líquidos.
 ## Question 7 [D5-D6]
 **ID:** CO-CN-6-2026-W03-mezclas-separacion-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.74
 **Contexto:** En clase en Armenia, se usa un imán.
 ### Enunciado
@@ -166,7 +166,7 @@ La imantación aprovecha las propiedades magnéticas de algunos materiales.
 ## Question 8 [D7-D8]
 **ID:** CO-CN-6-2026-W03-mezclas-separacion-001-MASTERY-bundle-v8
 **Bloom:** Analyze
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.65
 **Contexto:** En clase en Popayán, se analiza la evaporación.
 ### Enunciado
@@ -186,7 +186,7 @@ La sal marina se obtiene por evaporación solar en grandes extensiones.
 ## Question 9 [D9-D10]
 **ID:** CO-CN-6-2026-W03-mezclas-separacion-001-MASTERY-bundle-v9
 **Bloom:** Evaluate
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.50
 **Contexto:** En un proyecto en Bucaramanga, se elige un método.
 ### Enunciado
@@ -206,7 +206,7 @@ El acceso a agua limpia es clave para la salud pública.
 ## Question 10 [D9-D10]
 **ID:** CO-CN-6-2026-W03-mezclas-separacion-001-MASTERY-bundle-v10
 **Bloom:** Evaluate
-**ICFES:** Entorno vivo
+**ICFES:** Indagación
 **Expected_Success:** 0.50
 **Contexto:** En un cierre en Medellín, se reflexiona sobre el reciclaje.
 ### Enunciado
