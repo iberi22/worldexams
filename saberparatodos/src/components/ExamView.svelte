@@ -137,6 +137,10 @@
   const STORAGE_KEY = 'saberparatodos_exam_progress';
 
   let question = $derived(activeQuestions[currentIdx] || MOCK_QUESTIONS[0]);
+  let isLongContext = $derived(
+    question?.context &&
+    (question.context.trim().length >= 140 || question.context.trim().includes('\n'))
+  );
 
   // Options Logic
   const OPTION_LETTERS = ['A', 'B', 'C', 'D', 'E', 'F'];
@@ -623,7 +627,7 @@
 
   <!-- Main Content Area - No scroll on desktop, optimized for mobile -->
   <div class="flex-1 overflow-y-auto px-4 sm:px-6 lg:px-8 py-4 sm:py-6">
-    <div class="{question.context ? 'max-w-7xl' : 'max-w-4xl'} mx-auto min-h-full flex flex-col justify-center space-y-4 sm:space-y-6 py-4 transition-all duration-500">
+    <div class="{isLongContext ? 'max-w-7xl' : 'max-w-4xl'} mx-auto min-h-full flex flex-col justify-center space-y-4 sm:space-y-6 py-4 transition-all duration-500">
       <SharedContextLayout context={question.context}>
         <div class="space-y-4 sm:space-y-6">
 
