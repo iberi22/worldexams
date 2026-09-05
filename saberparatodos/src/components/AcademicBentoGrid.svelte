@@ -8,6 +8,7 @@
     secondaryLandingGrades: number[];
     supportsEnglishDiagnostic: boolean;
     preuEnabled: boolean;
+    showExperimental: boolean;
     tenantExperience: any;
     onSelectGrade: (grade: number) => void;
     onStartEnglishDiagnostic: () => void;
@@ -22,6 +23,7 @@
     secondaryLandingGrades = [],
     supportsEnglishDiagnostic = false,
     preuEnabled = false,
+    showExperimental = false,
     tenantExperience,
     onSelectGrade,
     onStartEnglishDiagnostic,
@@ -128,8 +130,8 @@
       </div>
     {/if}
 
-    <!-- 3. PREUNIVERSITARIO CARD (If enabled) -->
-    {#if preuEnabled}
+    <!-- 3. PREUNIVERSITARIO CARD (solo superficie experimental) -->
+    {#if preuEnabled && showExperimental}
       <div class="col-span-1 flex">
         <FlashlightCard
           onClick={onSelectPreu}
@@ -161,8 +163,8 @@
       </div>
     {/if}
 
-    <!-- 4. REVISAR / BANCO SOCIAL CARD (If enabled) -->
-    {#if runtimeCountry?.features?.blog}
+    <!-- 4. REVISAR / BANCO SOCIAL CARD (solo superficie experimental) -->
+    {#if runtimeCountry?.features?.blog && showExperimental}
       <div class="col-span-1 flex">
         <FlashlightCard
           onClick={onOpenBlog}
@@ -194,7 +196,8 @@
       </div>
     {/if}
 
-    <!-- 5. COMUNIDAD / HILOS COLABORATIVOS CARD -->
+    <!-- 5. COMUNIDAD / HILOS COLABORATIVOS CARD (solo superficie experimental) -->
+    {#if showExperimental}
     <div class="col-span-1 flex">
       <a
         href="/community/co-math-11-001"
@@ -228,8 +231,10 @@
         </FlashlightCard>
       </a>
     </div>
+    {/if}
 
-    <!-- 6. AUDITORÍA & CORRECCIONES CARD -->
+    <!-- 6. AUDITORÍA & CORRECCIONES CARD (solo superficie experimental) -->
+    {#if showExperimental}
     <div class="col-span-1 flex">
       <a
         href="/corrections"
@@ -263,6 +268,7 @@
         </FlashlightCard>
       </a>
     </div>
+    {/if}
 
     <!-- 5. SECONDARY GRADES SUB-GRID -->
     {#if secondaryLandingGrades.length > 0}
