@@ -65,6 +65,13 @@ C1 → (C2 + C3 en paralelo, islas disjuntas) → C4 → C5.
 Features: feat-cuentos-infra (C1), feat-cuentos-lector (C2),
 feat-cuentos-a (C3), feat-cuentos-b (C4), feat-cuentos-polish (C5).
 
+## Dispatch log
+
+- 2026-09-10 Ola C1 despachada: issues #1277-1282 (iberi22/worldexams),
+  labels cuentos+ola-c1+wave-c1+jules+ai-agent. Pre-dispatch PASS 6/6.
+- Pendiente: monitorear PRs, merge secuencial 1-6, reconciliar
+  feat-cuentos-infra, luego C2+C3 en paralelo.
+
 ## Privado no-listado (decisión BELA 2026-09-10)
 
 Cuentos NO es público: vive en producción bajo `/cuentos`, pero sin
