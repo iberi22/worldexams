@@ -1,0 +1,144 @@
+{
+  "format": "cuento-v1",
+  "slug": "tana-tucan-comparte",
+  "titulo": "Tana la tucán que aprendió a compartir",
+  "edad": "3-4",
+  "idioma": "es-neutro",
+  "eje": "animales",
+  "habitat": "selva",
+  "valor": "compartir",
+  "personajes": [
+    "tana",
+    "tito",
+    "lila"
+  ],
+  "paginas": [
+    {
+      "n": 1,
+      "imagen": "escenas/p1-arbol.svg",
+      "alt": "Tana la tucán ve un árbol lleno de mangos",
+      "texto": "En lo alto de la selva vivía Tana, una tucán joven de pico naranja. Una mañana de sol encontró un árbol lleno de mangos amarillos. Se puso a contar en voz alta: uno, dos, tres, cuatro, cinco. Nunca había visto tantos mangos juntos en una sola rama."
+    },
+    {
+      "n": 2,
+      "imagen": "escenas/p2-mios.svg",
+      "alt": "Tana abraza los mangos y dice que son suyos",
+      "texto": "—¡Son todos míos! —dijo Tana muy contenta, y abrazó los mangos con sus alas abiertas. Los bajó al nido uno por uno, con mucho cuidado. Pesaban mucho y las alas le temblaban, pero no quería soltar ninguno."
+    },
+    {
+      "n": 3,
+      "imagen": "escenas/p3-tito.svg",
+      "alt": "El mono Tito pide un mango y Tana dice que no",
+      "texto": "Entonces llegó Tito el mono, columpiándose de una rama a otra. Vio los mangos y se le hizo agua la boca. —¿Me das uno, Tana? Tengo mucha hambre —pidió con voz dulce. —No —dijo Tana—. Los encontré yo solita."
+    },
+    {
+      "n": 4,
+      "imagen": "escenas/p4-lila.svg",
+      "alt": "La perezosa Lila pide un mango y Tana dice que no",
+      "texto": "Después subió Lila la perezosa, despacio, muy despacio, porque las perezosas nunca tienen prisa. Miró los mangos con ojos grandes. —¿Me guardas uno pequeño? —preguntó con voz suave. —No —dijo Tana—. No van a alcanzar."
+    },
+    {
+      "n": 5,
+      "imagen": "escenas/p5-caen.svg",
+      "alt": "Dos mangos ruedan de alas de Tana hacia el río",
+      "texto": "Los cinco mangos pesaban tanto que las alas de Tana empezaron a temblar muy fuerte. ¡Plin, plan! Dos mangos se soltaron, rodaron por el pasto y cayeron al río que corría rápido. Tana lloró con pena: ¡mis mangos!"
+    },
+    {
+      "n": 6,
+      "imagen": "escenas/p6-ayuda.svg",
+      "alt": "Tito y Lila ayudan a Tana a recuperar los mangos del río",
+      "texto": "Tito se lanzó de rama en rama hasta la orilla y atajó un mango con su cola larga. Lila estiró su brazo lento pero seguro y pescó el otro mango del agua. Se los llevaron a Tana y dijeron: te ayudamos, para eso están los amigos de verdad."
+    },
+    {
+      "n": 7,
+      "imagen": "escenas/p7-reparte.svg",
+      "alt": "Tana reparte un mango a cada amigo y se quedan tres",
+      "texto": "Tana los miró con los ojos llenos de agua y por fin entendió. Repartió con alegría: un mango para Tito y un mango para Lila. Quedaron tres mangos, y los comieron juntos bajo el árbol, entre risas y cuentos. Nunca un mango había sabido tan dulce como ese día."
+    },
+    {
+      "n": 8,
+      "imagen": "escenas/p8-siesta.svg",
+      "alt": "Los tres amigos duermen la siesta bajo el árbol",
+      "texto": "Desde ese día, cuando Tana encuentra fruta en la selva, grita fuerte para que todos la oigan: ¡hay para todos! Y Tito y Lila llegan corriendo. Porque lo compartido, dice Tana mientras duermen la siesta, sabe mejor."
+    }
+  ],
+  "quiz": [
+    {
+      "n": 1,
+      "texto": "¿Cuántos mangos encontró Tana?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cinco",
+          "correcta": true,
+          "feedback": "¡Sí! Uno, dos, tres, cuatro y cinco."
+        },
+        {
+          "letra": "B",
+          "texto": "Tres",
+          "correcta": false,
+          "feedback": "Tres quedaron al final, pero al inicio eran cinco."
+        },
+        {
+          "letra": "C",
+          "texto": "Dos",
+          "correcta": false,
+          "feedback": "Dos se cayeron al río, pero había más."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "texto": "¿Quién ayudó a Tana a recuperar los mangos?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tito y Lila juntos",
+          "correcta": true,
+          "feedback": "¡Exacto! El mono atajó uno y la perezosa pescó el otro."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo Tito",
+          "correcta": false,
+          "feedback": "Tito ayudó, pero Lila también pescó uno."
+        },
+        {
+          "letra": "C",
+          "texto": "Nadie, los perdió",
+          "correcta": false,
+          "feedback": "Casi, pero sus amigos llegaron a tiempo."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "texto": "¿Qué aprendió Tana?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que lo compartido sabe mejor",
+          "correcta": true,
+          "feedback": "¡Muy bien! Esa es la moraleja del cuento."
+        },
+        {
+          "letra": "B",
+          "texto": "Que hay que esconder la fruta",
+          "correcta": false,
+          "feedback": "Eso intentó al inicio y le salió mal."
+        },
+        {
+          "letra": "C",
+          "texto": "Que los amigos estorban",
+          "correcta": false,
+          "feedback": "Al contrario: sin ellos pierde los mangos."
+        }
+      ]
+    }
+  ],
+  "explicacion": "Tana quería todo para ella y casi lo pierde todo. Cuando compartió,\nganó algo mejor que los mangos: la alegría de comer con amigos.\nPregunta a tu niño: ¿qué te gusta compartir tú?",
+  "hotspots": [],
+  "license": "PROPRIETARY-FREE-READ",
+  "version": 1,
+  "copyright": "© 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. Lectura gratuita, prohibida su reproducción."
+}
