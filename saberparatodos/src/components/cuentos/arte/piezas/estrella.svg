@@ -1,0 +1,14 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Estrella brillante">
+  <!-- Brillo exterior suave -->
+  <circle cx="60" cy="60" r="48" fill="#F2C14E" opacity="0.25"/>
+  <!-- Cuerpo de estrella de 5 puntas redondeadas -->
+  <path d="M 60 12 Q 65 38 88 44 Q 65 50 60 76 Q 55 50 32 44 Q 55 38 60 12 Z" fill="#F2C14E" transform="scale(1.2) translate(-10, -8)"/>
+  <!-- Ojos alegres de la estrella -->
+  <circle cx="53" cy="55" r="4" fill="#3A2E2A"/>
+  <circle cx="67" cy="55" r="4" fill="#3A2E2A"/>
+  <circle cx="54" cy="53" r="1.2" fill="#FFFFFF"/>
+  <circle cx="68" cy="53" r="1.2" fill="#FFFFFF"/>
+  <!-- Sonrisa dulce -->
+  <path d="M 55 64 Q 60 69 65 64" fill="none" stroke="#3A2E2A" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

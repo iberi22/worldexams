@@ -1,0 +1,15 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Luna serena">
+  <!-- Brillos estelares decorativos -->
+  <path d="M 130 30 Q 130 40 140 40 Q 130 40 130 50 Q 130 40 120 40 Q 130 40 130 30 Z" fill="#F2C14E" opacity="0.8"/>
+  <path d="M 30 120 Q 30 126 36 126 Q 30 126 30 132 Q 30 126 24 126 Q 30 126 30 120 Z" fill="#BFD9E8" opacity="0.8"/>
+  <!-- Forma de media luna redondeada -->
+  <path d="M 95 20 C 135 20 150 60 130 100 C 110 140 60 150 30 125 C 75 125 110 95 95 20 Z" fill="#F2C14E"/>
+  <!-- Ojo durmiente con pestañas -->
+  <path d="M 72 70 Q 82 80 92 70" fill="none" stroke="#3A2E2A" stroke-width="3" stroke-linecap="round"/>
+  <!-- Mejilla sonrojada -->
+  <circle cx="86" cy="84" r="6" fill="#E26D5A" opacity="0.5"/>
+  <!-- Gorro de dormir nocturno azul cometa -->
+  <path d="M 95 20 Q 120 10 115 35 C 105 30 98 25 95 20 Z" fill="#5B6FD6"/>
+  <circle cx="116" cy="36" r="6" fill="#FFFFFF"/>
+</svg>
