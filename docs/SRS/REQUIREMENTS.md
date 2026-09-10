@@ -25,6 +25,11 @@
 | SRS-FUN-014 | Explicaciones comunitarias calificadas por nodos (votos firmados) | Alta | 📋 Planificado |
 | SRS-FUN-015 | Estudio de generación local PDF→preguntas v5.2 (LLM on-device) | Alta | 📋 Planificado |
 | SRS-FUN-016 | Corrección colaborativa con export de parches v5.2 | Media | 📋 Planificado |
+| SRS-FUN-017 | Módulo Cuentos primera infancia (3-6 años): 10 cuentos originales con lector read-aloud | Alta | 📋 Planificado |
+| SRS-FUN-018 | Validador de cuentos (formato v1, quiz 3x3, alt, copyright, español neutro) | Alta | 📋 Planificado |
+| SRS-FUN-019 | Lector de cuentos: resaltado + audio gratuito + quiz oral + progreso por perfil | Alta | 📋 Planificado |
+| SRS-FUN-020 | Packs JSON estáticos offline por cuento | Media | 📋 Planificado |
+| SRS-FUN-021 | Pins/logros locales sin telemetría (extensión BR-03 a flujos de niños) | Media | 📋 Planificado |
 
 ---
 
@@ -97,6 +102,7 @@
 - **BR-04:** El leaderboard solo publica datos anónimos (puntaje, promedio, materia, semana). Nombre, puesto y métricas detalladas visibles ÚNICAMENTE en el propio dispositivo.
 - **BR-05:** Las reglas de la red las crean los fundadores; toda modificación posterior requiere aprobación del consejo de nodos mediante votación firmada registrada en el op-log.
 - **BR-06:** La participación en la red de notas es opt-in y revocable; al revocar, el nodo deja de aportar datos nuevos y los agregados históricos no son atribuibles.
+- **BR-07:** Cuentos: contenido original © 2026 SaberParaTodos/WorldExams (lectura gratuita, reproducción prohibida), español neutro panhispánico sin referencias de país, y extensión de BR-03 (cero tokens/karma/telemetría) a todos los flujos de niños.
 
 ---
 
