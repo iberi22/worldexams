@@ -1,0 +1,208 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getAllCuentosCatalog, type CuentoSummary } from '../../lib/cuentos/cuentos-catalog';
+
+export const prerender = true;
+
+Astro.response.headers.set(
+  'Cache-Control',
+  'public, max-age=86400, s-maxage=604800, stale-while-revalidate=86400'
+);
+
+const catalog = await getAllCuentosCatalog();
+
+const selectedEdad = Astro.url.searchParams.get('edad') || '';
+const selectedValor = Astro.url.searchParams.get('valor') || '';
+
+let cuentos = catalog;
+if (selectedEdad) {
+  cuentos = cuentos.filter((c) => c.edad === selectedEdad);
+}
+if (selectedValor) {
+  cuentos = cuentos.filter((c) => c.valor === selectedValor);
+}
+
+// Extract unique filter options from full catalog
+const allEdades = [...new Set(catalog.map((c) => c.edad).filter(Boolean))].sort();
+const allValores = [...new Set(catalog.map((c) => c.valor).filter(Boolean))].sort();
+
+// Canonical URL & SEO metadata
+const siteUrl = (import.meta.env.PUBLIC_SITE_URL || Astro.site?.toString() || 'https://saberparatodos.space').replace(/\/$/, '');
+const canonicalURL = `${siteUrl}/cuentos/`;
+const pageTitle = 'Cuentos Infantiles e Ilustrados — SaberParaTodos';
+const pageDescription = 'Catálogo de cuentos infantiles ilustrados con valores, actividades de comprensión lectora y libre de publicidad.';
+---
+
+<Layout title={pageTitle} description={pageDescription} noindex={true}>
+  <link slot="head" rel="canonical" href={canonicalURL} />
+  <meta slot="head" property="og:title" content={pageTitle} />
+  <meta slot="head" property="og:description" content={pageDescription} />
+  <meta slot="head" property="og:type" content="website" />
+
+  <div class="min-h-screen bg-[#FDF6EC] text-[#3A2E2A] font-sans antialiased pb-16">
+    <!-- Breadcrumb / Top Bar -->
+    <header class="border-b border-[#3A2E2A]/10 bg-[#FDF6EC]/80 backdrop-blur-sm sticky top-0 z-10">
+      <div class="max-w-5xl mx-auto px-4 py-3 flex items-center justify-between text-sm">
+        <nav aria-label="Breadcrumb" class="text-[#3A2E2A]/70">
+          <ol class="flex items-center gap-2">
+            <li><a href="/" class="hover:underline font-medium">Inicio</a></li>
+            <li>/</li>
+            <li class="font-bold text-[#FF9F43]">Cuentos</li>
+          </ol>
+        </nav>
+        <span class="text-xs bg-[#FF9F43]/15 text-[#3A2E2A] px-2.5 py-1 rounded-full font-semibold">
+          📖 Lectura Gratuita
+        </span>
+      </div>
+    </header>
+
+    <main class="max-w-5xl mx-auto px-4 pt-8">
+      <!-- Hero Section -->
+      <section class="text-center max-w-2xl mx-auto mb-10">
+        <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-[#FF9F43]/20 text-[#3A2E2A] text-xs font-bold uppercase tracking-wider mb-4">
+          <span>✨</span> Cuentos con Valores
+        </div>
+        <h1 class="text-3xl md:text-4xl font-extrabold tracking-tight text-[#3A2E2A] mb-3">
+          Cuentos Infantiles Ilustrados
+        </h1>
+        <p class="text-base text-[#3A2E2A]/80 leading-relaxed">
+          Relatos breves ilustrados para leer en familia, diseñados para estimular la comprensión lectora y cultivar valores esenciales.
+        </p>
+      </section>
+
+      <!-- Server-Side Filter Chips -->
+      <section class="mb-8 bg-white/60 border border-[#3A2E2A]/10 p-5 rounded-2xl shadow-sm">
+        <h2 class="text-xs font-bold uppercase tracking-wider text-[#3A2E2A]/60 mb-3">
+          Filtrar Catálogo
+        </h2>
+
+        <div class="flex flex-wrap gap-4 items-center">
+          <!-- Edad Filters -->
+          <div class="flex flex-wrap items-center gap-1.5 text-xs">
+            <span class="font-semibold mr-1">Edad:</span>
+            <a
+              href="/cuentos/"
+              class={`px-3 py-1 rounded-full transition font-medium ${!selectedEdad ? 'bg-[#3A2E2A] text-[#FDF6EC]' : 'bg-[#3A2E2A]/10 hover:bg-[#3A2E2A]/20 text-[#3A2E2A]'}`}
+            >
+              Todas
+            </a>
+            {allEdades.map((e) => (
+              <a
+                href={`/cuentos/?edad=${encodeURIComponent(e)}${selectedValor ? `&valor=${encodeURIComponent(selectedValor)}` : ''}`}
+                class={`px-3 py-1 rounded-full transition font-medium ${selectedEdad === e ? 'bg-[#FF9F43] text-[#3A2E2A] font-bold' : 'bg-[#3A2E2A]/10 hover:bg-[#3A2E2A]/20 text-[#3A2E2A]'}`}
+              >
+                {e} años
+              </a>
+            ))}
+          </div>
+
+          <!-- Valor Filters -->
+          {allValores.length > 0 && (
+            <div class="flex flex-wrap items-center gap-1.5 text-xs">
+              <span class="font-semibold mr-1">Valor:</span>
+              <a
+                href="/cuentos/"
+                class={`px-3 py-1 rounded-full transition font-medium ${!selectedValor ? 'bg-[#3A2E2A] text-[#FDF6EC]' : 'bg-[#3A2E2A]/10 hover:bg-[#3A2E2A]/20 text-[#3A2E2A]'}`}
+              >
+                Todos
+              </a>
+              {allValores.map((v) => (
+                <a
+                  href={`/cuentos/?valor=${encodeURIComponent(v)}${selectedEdad ? `&edad=${encodeURIComponent(selectedEdad)}` : ''}`}
+                  class={`px-3 py-1 rounded-full transition font-medium ${selectedValor === v ? 'bg-[#4FB6A3] text-white font-bold' : 'bg-[#3A2E2A]/10 hover:bg-[#3A2E2A]/20 text-[#3A2E2A]'}`}
+                >
+                  {v}
+                </a>
+              ))}
+            </div>
+          )}
+        </div>
+      </section>
+
+      <!-- Catalog Cards Grid -->
+      {cuentos.length > 0 ? (
+        <section class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
+          {cuentos.map((cuento) => (
+            <article class="bg-white border border-[#3A2E2A]/10 rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition flex flex-col justify-between">
+              <div>
+                <!-- Scene / Cover Box -->
+                <a href={`/cuentos/${cuento.slug}/`} class="block bg-[#FF9F43]/10 p-4 border-b border-[#3A2E2A]/5 text-center">
+                  {cuento.coverEscena ? (
+                    <img
+                      src={cuento.coverEscena}
+                      alt={`Ilustración del cuento ${cuento.titulo}`}
+                      class="h-40 mx-auto object-contain transition transform hover:scale-105 duration-300"
+                      loading="lazy"
+                    />
+                  ) : (
+                    <div class="h-40 flex items-center justify-center text-4xl">
+                      📚
+                    </div>
+                  )}
+                </a>
+
+                <div class="p-5">
+                  <div class="flex flex-wrap items-center gap-2 mb-3 text-xs">
+                    <span class="bg-[#FF9F43]/20 text-[#3A2E2A] px-2.5 py-0.5 rounded-full font-bold">
+                      {cuento.edad} años
+                    </span>
+                    {cuento.valor && (
+                      <span class="bg-[#4FB6A3]/20 text-[#3A2E2A] px-2.5 py-0.5 rounded-full font-semibold">
+                        Valor: {cuento.valor}
+                      </span>
+                    )}
+                    {cuento.habitat && (
+                      <span class="bg-[#5B6FD6]/15 text-[#3A2E2A] px-2.5 py-0.5 rounded-full font-medium">
+                        {cuento.habitat}
+                      </span>
+                    )}
+                  </div>
+
+                  <h2 class="text-xl font-extrabold text-[#3A2E2A] mb-2 leading-snug">
+                    <a href={`/cuentos/${cuento.slug}/`} class="hover:text-[#FF9F43] transition">
+                      {cuento.titulo}
+                    </a>
+                  </h2>
+
+                  <p class="text-xs text-[#3A2E2A]/70">
+                    {cuento.paginas} páginas ilustradas con preguntas de comprensión al final.
+                  </p>
+                </div>
+              </div>
+
+              <div class="p-5 pt-0 border-t border-[#3A2E2A]/5 mt-4">
+                <a
+                  href={`/cuentos/${cuento.slug}/`}
+                  class="mt-3 w-full inline-flex items-center justify-center gap-2 px-4 py-2.5 bg-[#FF9F43] hover:bg-[#e08b35] text-[#3A2E2A] text-sm font-extrabold rounded-xl transition shadow-sm"
+                >
+                  <span>Leer Cuento</span>
+                  <span>→</span>
+                </a>
+              </div>
+            </article>
+          ))}
+        </section>
+      ) : (
+        <section class="bg-white border border-[#3A2E2A]/10 p-10 rounded-2xl text-center max-w-md mx-auto my-12">
+          <div class="text-4xl mb-3">🔍</div>
+          <h2 class="text-lg font-bold text-[#3A2E2A] mb-2">No se encontraron cuentos</h2>
+          <p class="text-xs text-[#3A2E2A]/70 mb-5">
+            No hay cuentos que coincidan con los filtros seleccionados.
+          </p>
+          <a
+            href="/cuentos/"
+            class="inline-block px-4 py-2 bg-[#FF9F43] text-[#3A2E2A] font-bold text-xs rounded-xl hover:bg-[#e08b35] transition"
+          >
+            Ver todos los cuentos
+          </a>
+        </section>
+      )}
+
+      <!-- Footer Notice & Copyright -->
+      <footer class="mt-12 pt-6 border-t border-[#3A2E2A]/10 text-center text-xs text-[#3A2E2A]/70">
+        <p>© 2026 SaberParaTodos / WorldExams. Todos los derechos reservados.</p>
+        <p class="mt-1">Lectura gratuita, prohibida su reproducción sin autorización.</p>
+      </footer>
+    </main>
+  </div>
+</Layout>
