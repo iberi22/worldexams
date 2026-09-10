@@ -11,7 +11,7 @@ original protegida por derechos de autor.
   re-generar este contenido (total o parcial) por cualquier medio sin
   autorización escrita.
 - Prohibido incluir este contenido en datasets públicos o entrenamiento
-  / re-generación con IA externa (ver `docs/CUENTOS/02_COPYRIGHT_Y_FORMATO.md` §7).
+  / re-generación con IA externa (ver `docs/CUENTOS/02_COPYRIGHT_Y_FORMATO.md` §1 punto 7).
 - El código del lector (componentes, scripts, estilos) NO está cubierto
   por esta licencia: sigue la licencia del repositorio (AGPLv3).
 
