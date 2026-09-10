@@ -70,6 +70,9 @@ Command-verifiable (run from repo root unless noted):
 6. Unknown slug 404: preview/build check — `node -e` fetch or `grep -riE '404|notFound|status.*404' src/pages/cuentos/\[slug\].astro` → `>= 1` (explicit 404 path, no unhandled throw)
 7. `grep -riE 'client:|adsbygoogle|\$SWAL|karma|telemetry|three' saberparatodos/src/pages/cuentos/` → exit 1 (zero matches: no hydration directives needed, no ads/trackers/Three.js)
 8. Bone theme: `grep -c 'FDF6EC\|tokens.css' saberparatodos/src/pages/cuentos/*.astro` → `>= 1`
+9. UNLISTED (private sharing): `grep -c 'noindex' <slug-html>` → `>= 1` (meta robots noindex on index + slug pages; shareable by link, invisible to search)
+10. `grep -rn "cuentos" saberparatodos/src/components/Header* saberparatodos/src/components/Nav* saberparatodos/src/layouts/* 2>/dev/null` → exit 1 (zero nav buttons/links to /cuentos anywhere in layout)
+11. `grep -c "cuentos" dist/sitemap*.xml 2>/dev/null` → `0` or file absent (cuentos excluded from sitemap; verify against actual sitemap path)
 
 ## Files to Modify
 

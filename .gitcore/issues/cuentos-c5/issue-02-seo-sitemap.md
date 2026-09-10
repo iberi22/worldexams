@@ -40,7 +40,7 @@
 
 ## 6. Acceptance Criteria (command-verifiable)
 
-1. `npm run build` (in `saberparatodos/`) → success; `grep -rl "cuentos/" dist/sitemap*.xml` or the repo's sitemap output → contains 11 cuentos URLs (index + 10 stories). Paste the count: `grep -c "cuentos" <sitemap> ` → ≥11.
+1. UNLISTED sitemap: `grep -c "cuentos" <sitemap>` → `0` (cuentos pages EXCLUDED from sitemap — private sharing by link only; verify against the repo's actual sitemap output path).
 2. For EACH of the 10 slugs: `grep -o "<title>[^<]*</title>" dist/cuentos/<slug>/index.html` → non-empty, contains story title; `grep -c 'property="og:' dist/cuentos/<slug>/index.html` → ≥4; `grep -c 'application/ld+json' dist/cuentos/<slug>/index.html` → ≥1. (Script it in a loop; paste full loop output.)
 3. `python3 -c "import json,glob; [json.load(open(f)) for f in glob.glob('dist/cuentos/*/index.html')]"` is N/A for HTML — instead: extract each LD+JSON block and `python3 -m json.tool` must parse; `typicalAgeRange` matches frontmatter `edad`, `isAccessibleForFree` is true. Paste one parsed block + a grep proving all 10 contain `typicalAgeRange`.
 4. Meta descriptions ≤160 chars: `grep -o 'name="description" content="[^"]*"' dist/cuentos/*/index.html | awk -F'"' '{print length($4)}' | sort -n | tail -1` → ≤160.
