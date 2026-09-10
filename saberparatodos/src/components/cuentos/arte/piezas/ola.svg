@@ -1,0 +1,12 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 100" role="img" aria-label="Ola marina">
+  <!-- Capa trasera de agua azul cometa -->
+  <path d="M 0 60 Q 30 35 65 50 Q 100 65 135 35 Q 170 10 200 30 L 200 100 L 0 100 Z" fill="#5B6FD6" opacity="0.6"/>
+  <!-- Capa principal de la ola verde agua -->
+  <path d="M 0 50 Q 35 20 70 45 Q 105 70 140 30 Q 175 5 200 25 L 200 100 L 0 100 Z" fill="#4FB6A3"/>
+  <!-- Espuma marina redondeada en crestas -->
+  <circle cx="70" cy="45" r="10" fill="#FFFFFF"/>
+  <circle cx="140" cy="30" r="12" fill="#FFFFFF"/>
+  <circle cx="198" cy="25" r="14" fill="#FFFFFF"/>
+  <path d="M 0 52 Q 20 48 35 55" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+</svg>
