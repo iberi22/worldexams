@@ -65,6 +65,15 @@ C1 → (C2 + C3 en paralelo, islas disjuntas) → C4 → C5.
 Features: feat-cuentos-infra (C1), feat-cuentos-lector (C2),
 feat-cuentos-a (C3), feat-cuentos-b (C4), feat-cuentos-polish (C5).
 
+## Privado no-listado (decisión BELA 2026-09-10)
+
+Cuentos NO es público: vive en producción bajo `/cuentos`, pero sin
+botones ni enlaces en la navegación, con `noindex` y excluido del
+sitemap. Enlace compartible por mensaje para revisores. OG tags SÍ
+(para que el enlace se vea bien al compartir). ACs en C1.05 (9-11) y
+C5.02 (1). Reversibilidad: hacerlo público después = quitar noindex +
+añadir al sitemap + 1 enlace en nav (1 issue).
+
 ## Atlas / Ghial
 
 Atlas-core verificado 2026-09-10: estado F0 scaffolding (solo DAG/docs,
