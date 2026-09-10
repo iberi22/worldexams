@@ -24,6 +24,7 @@
     "verify:deploy": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File scripts/verify-deployment.ps1",
     "astro": "astro",
     "validate": "node scripts/validate_content.js",
+    "validate:cuentos": "node scripts/validate_cuentos.js",
     "validate:strict": "node scripts/validate_content.js --strict-v3 --fail-on-error",
     "audit:country-readiness": "node scripts/audit-country-readiness.js",
     "validate:g11": "node scripts/validate_content.js --grade=11 --country=colombia",
