@@ -16,6 +16,7 @@ export default defineConfig({
       filter: (page) =>
         !page.includes('/tutor/') &&
         !page.includes('/institucion/') &&
+        !page.includes('/cuentos/') &&
         !page.includes('/api/'),
     }),
   ],
