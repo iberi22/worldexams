@@ -201,6 +201,15 @@ if [ -d "$PACKS_DIR" ]; then
       fi
     }
 
+    # Catalog exception: index.json lists entries (each with its own license),
+    # it carries no story text, so entry-level license is sufficient.
+    if [ "$(basename "$pack_path")" = "index.json" ]; then
+      if grep -q '"license": *"PROPRIETARY-FREE-READ"' "$pack_path"; then
+        add_pack_check "CUENTO-E-CATALOG-LICENSE" "PASS" "Catálogo con entradas licenciadas 'PROPRIETARY-FREE-READ'"
+      else
+        add_pack_check "CUENTO-E-CATALOG-LICENSE" "FAIL" "Catálogo sin entradas licenciadas"
+      fi
+    else
     if grep -q '"license": *"PROPRIETARY-FREE-READ"' "$pack_path"; then
       add_pack_check "CUENTO-E-PACK-LICENSE" "PASS" "Licencia 'PROPRIETARY-FREE-READ' en el paquete JSON"
     else
@@ -211,6 +220,7 @@ if [ -d "$PACKS_DIR" ]; then
       add_pack_check "CUENTO-E-PACK-COPYRIGHT" "PASS" "Campo 'copyright' presente en el paquete JSON"
     else
       add_pack_check "CUENTO-E-PACK-COPYRIGHT" "FAIL" "Campo 'copyright' faltante en el paquete JSON"
+    fi
     fi
 
     if [ "$pack_pass" = true ]; then
