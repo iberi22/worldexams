@@ -90,6 +90,7 @@ credentials.json
 !scripts/validate-secrets.sh
 !saberparatodos/public/robots.txt
 !robots.txt
+!saberparatodos/src/components/cuentos/arte/tokens.css
 
 # --- Backend Infrastructure, Standalone Rust Services & Institutional Logic (Managed in dedicated apps) ---
 # Allow supabase/migrations/ to be tracked
