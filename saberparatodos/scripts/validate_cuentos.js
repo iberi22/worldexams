@@ -379,8 +379,94 @@ export function validateCuentoFile(filePath) {
       }
     }
 
-    // Check word count 30-80 (§3)
-    const wc = countWords(pageContent);
+    // Format v2 checks: caregiver hint + vocabulary words
+    const hintMatch = pageContent.match(/^>\s*Para conversar en familia:\s*(.+)$/m);
+    if (!hintMatch) {
+      addFinding(
+        'ERROR',
+        relFile,
+        'CUENTO-E-PAGE-V2-HINT-MISSING',
+        `Página ${pageNum}: falta la línea de guía para la familia "> Para conversar en familia: ..."`
+      );
+    } else {
+      const hintText = hintMatch[1].trim();
+      const hintWc = countWords(hintText);
+      if (hintWc < 8 || hintWc > 35) {
+        addFinding(
+          'ERROR',
+          relFile,
+          'CUENTO-E-PAGE-V2-HINT-WORDCOUNT',
+          `Página ${pageNum}: la guía para la familia debe tener entre 8 y 35 palabras (detectadas=${hintWc}).`
+        );
+      }
+      checkVetoWords(hintText, relFile, `Página ${pageNum} (guía para la familia)`);
+    }
+
+    const wordsMatch = pageContent.match(/^\*\*Palabras nuevas:\*\*\s*(.+)$/m);
+    if (!wordsMatch) {
+      addFinding(
+        'ERROR',
+        relFile,
+        'CUENTO-E-PAGE-V2-WORDS-MISSING',
+        `Página ${pageNum}: falta la línea de vocabulario "**Palabras nuevas:** ..."`
+      );
+    } else {
+      const wordsListRaw = wordsMatch[1].trim();
+      const wordsList = wordsListRaw
+        .split(',')
+        .map((w) => w.trim())
+        .filter(Boolean);
+
+      if (wordsList.length < 2 || wordsList.length > 4) {
+        addFinding(
+          'ERROR',
+          relFile,
+          'CUENTO-E-PAGE-V2-WORDS-COUNT',
+          `Página ${pageNum}: la lista de palabras nuevas debe contener entre 2 y 4 palabras separadas por comas (detectadas=${wordsList.length}).`
+        );
+      }
+
+      // Extract page prose text without image, hint line, and words line for word checking & count
+      const proseLines = pageContent
+        .replace(/!\[alt:.*?\]\(.*?\)/g, '')
+        .split(/\r?\n/)
+        .filter(
+          (line) =>
+            !line.trim().startsWith('> Para conversar en familia:') &&
+            !line.trim().startsWith('**Palabras nuevas:**')
+        );
+      const proseText = proseLines.join('\n').trim();
+
+      for (const word of wordsList) {
+        if (word !== word.toLowerCase()) {
+          addFinding(
+            'ERROR',
+            relFile,
+            'CUENTO-E-PAGE-V2-WORDS-LOWERCASE',
+            `Página ${pageNum}: la palabra de vocabulario "${word}" debe estar en minúsculas.`
+          );
+        }
+
+        // Verify verbatim presence in prose text (case-insensitive) with unicode boundary match
+        const regexWord = new RegExp(`(?:^|[^a-záéíóúñA-ZÁÉÍÓÚÑ])${word}(?:$|[^a-záéíóúñA-ZÁÉÍÓÚÑ])`, 'i');
+        if (!regexWord.test(proseText)) {
+          addFinding(
+            'ERROR',
+            relFile,
+            'CUENTO-E-PAGE-V2-WORDS-NOT-IN-TEXT',
+            `Página ${pageNum}: la palabra de vocabulario "${word}" no aparece en el texto principal de la página.`
+          );
+        }
+      }
+
+      checkVetoWords(wordsListRaw, relFile, `Página ${pageNum} (palabras nuevas)`);
+    }
+
+    // Check word count 30-80 of prose text (§3)
+    const proseForCount = pageContent
+      .replace(/^>\s*Para conversar en familia:.*$/gm, '')
+      .replace(/^\*\*Palabras nuevas:\*\*.*/gm, '');
+    const wc = countWords(proseForCount);
     if (wc < 30 || wc > 80) {
       addFinding(
         'ERROR',
