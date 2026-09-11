@@ -8,21 +8,23 @@ import VersionBadge from '../components/VersionBadge.svelte';
 import CountryBanner from '../components/CountryBanner.astro';
 import ContentComingSoon from '../components/ContentComingSoon.astro';
 import GlobalFeedbackButton from '../components/GlobalFeedbackButton.svelte';
+import CuentosShell from '../components/cuentos/shell/CuentosShell.astro';
 import packageInfo from '../../package.json';
 
 // Import critical CSS for inlining
 import criticalCSS from '../styles/critical.css?raw';
 
 interface Props {
-	title?: string;
-	description?: string;
+  title?: string;
+  description?: string;
   keywords?: string;
-	image?: string;
-	type?: 'website' | 'article';
+  image?: string;
+  type?: 'website' | 'article';
   noindex?: boolean;
   showNavbar?: boolean;
   showFooter?: boolean;
   showCountryBanner?: boolean;
+  modoCuentos?: boolean;
 }
 
 import {
@@ -37,6 +39,8 @@ const apiConfig = {
   exam: getCountryExamSlug(countryConfig),
 };
 
+const isCuentosRoute = Astro.url.pathname.startsWith('/cuentos/');
+
 const {
   title = `${countryConfig.product.siteName} | ${countryConfig.examName}`,
   description = countryConfig.product.defaultDescription,
@@ -44,9 +48,10 @@ const {
   image = "/og-image.svg",
   type = "website",
   noindex = false,
-  showNavbar = true,
-  showFooter = true,
-  showCountryBanner = true
+  modoCuentos = isCuentosRoute,
+  showNavbar = !modoCuentos,
+  showFooter = !modoCuentos,
+  showCountryBanner = !modoCuentos
 } = Astro.props;
 
 const productionSiteUrl = countryConfig.product.siteUrl.replace(/\/$/, '');
@@ -54,7 +59,7 @@ const siteUrl = productionSiteUrl; // Always canonical to production — prevent
 const canonicalURL = new URL(Astro.url.pathname, `${siteUrl}/`);
 const ogImageURL = new URL(image, canonicalURL);
 const ogLocale = (countryConfig.language || 'es-CO').replace('-', '_');
-const enableAuxClientWidgets = !Astro.url.pathname.startsWith('/cuentos/'); // Cuentos reading mode: no install prompt, feedback or badges over the story
+const enableAuxClientWidgets = !modoCuentos; // Cuentos reading mode: no install prompt, feedback or badges over the story
 const appVersion = packageInfo.version;
 const organizationSchema = {
   '@context': 'https://schema.org',
@@ -294,9 +299,15 @@ const webAppSchema = {
       />
     )}
 
-    <main class="flex-1">
-		  <slot />
-    </main>
+    {modoCuentos ? (
+      <CuentosShell>
+        <slot />
+      </CuentosShell>
+    ) : (
+      <main class="flex-1">
+        <slot />
+      </main>
+    )}
 
     {showFooter && <Footer />}
 
