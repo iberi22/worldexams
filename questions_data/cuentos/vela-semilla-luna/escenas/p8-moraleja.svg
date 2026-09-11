@@ -1,0 +1,47 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Vela sonríe mirando las estrellas sabiendo cómo investigar">
+  <!-- Plano Fondo: Noche deeply estrellada y hermosa -->
+  <rect width="800" height="450" fill="#182030"/>
+  <!-- Estrellas y constelaciones -->
+  <circle cx="100" cy="60" r="3" fill="#FFF6E8"/>
+  <circle cx="180" cy="120" r="2" fill="#FFF6E8"/>
+  <circle cx="260" cy="80" r="3.5" fill="#FF9F43"/>
+  <circle cx="340" cy="140" r="2" fill="#FFF6E8"/>
+  <circle cx="480" cy="70" r="3" fill="#FFF6E8"/>
+  <circle cx="560" cy="110" r="2.5" fill="#FFF6E8"/>
+  <circle cx="720" cy="80" r="3" fill="#FFF6E8"/>
+
+  <!-- Luna suave con resplandor -->
+  <circle cx="650" cy="140" r="65" fill="#FFE3B3" opacity="0.3"/>
+  <circle cx="650" cy="140" r="50" fill="#F4E8C1"/>
+  <circle cx="635" cy="130" r="10" fill="#E2D4A3" opacity="0.6"/>
+
+  <!-- Plano Medio: Ventana con cohete de juguete y cuaderno -->
+  <rect x="0" y="300" width="800" height="150" fill="#293548"/>
+  <rect x="0" y="285" width="800" height="15" fill="#1C2333"/>
+  <!-- Cohete de juguete -->
+  <path d="M 580 270 L 600 230 L 620 270 Z" fill="#E26D5A"/>
+  <rect x="588" y="270" width="24" height="30" rx="4" fill="#FFFFFF"/>
+  <circle cx="600" cy="282" r="5" fill="#5B6FD6"/>
+
+  <!-- Plano Frente: Vela sonriendo inspirada -->
+  <g transform="translate(320, 160) scale(0.9)">
+    <ellipse cx="100" cy="150" rx="42" ry="46" fill="#5B6FD6"/>
+    <circle cx="100" cy="142" r="18" fill="#FFF6E8"/>
+    <!-- Estrella dorada -->
+    <path d="M100 132 L103 139 L110 140 L105 145 L106 152 L100 148 L94 152 L95 145 L90 140 L97 139 Z" fill="#FF9F43"/>
+    <circle cx="100" cy="80" r="36" fill="#FCE0D1"/>
+    <path d="M64 72 Q62 46 100 46 Q138 46 136 72 Q120 56 100 56 Q80 56 64 72 Z" fill="#3A2E2A"/>
+    <circle cx="60" cy="74" r="13" fill="#3A2E2A"/>
+    <circle cx="140" cy="74" r="13" fill="#3A2E2A"/>
+    <!-- Ojos felices mirando arriba a las estrellas -->
+    <circle cx="85" cy="76" r="9" fill="#FFFFFF"/>
+    <circle cx="87" cy="74" r="4" fill="#232D36"/>
+    <circle cx="115" cy="76" r="9" fill="#FFFFFF"/>
+    <circle cx="117" cy="74" r="4" fill="#232D36"/>
+    <!-- Sonrisa radiante -->
+    <path d="M90 94 Q100 104 110 94" fill="none" stroke="#3A2E2A" stroke-width="3.5" stroke-linecap="round"/>
+    <circle cx="74" cy="88" r="6" fill="#E26D5A" opacity="0.45"/>
+    <circle cx="126" cy="88" r="6" fill="#E26D5A" opacity="0.45"/>
+  </g>
+</svg>
