@@ -1,0 +1,58 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="La maestra enseña la estructura del arco en el pizarrón">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#EBF5EE"/>
+      <stop offset="100%" stop-color="#FDF6EC"/>
+    </linearGradient>
+  </defs>
+  <!-- Plano Fondo: Aula de escuela -->
+  <g id="plano-fondo">
+    <rect width="800" height="450" fill="url(#bg3)"/>
+    <!-- Pizarrón escolar verde -->
+    <rect x="220" y="50" width="520" height="260" rx="10" fill="#2E623E" stroke="#8B5A2B" stroke-width="12"/>
+
+    <!-- Dibujo del arco en tiza blanca y flechas de fuerza en amarillo -->
+    <path d="M 280 250 Q 480 110 680 250" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" fill="none"/>
+    <line x1="280" y1="250" x2="680" y2="250" stroke="#FFFFFF" stroke-width="4" stroke-dasharray="8 8"/>
+    <!-- Flechas de distribución de peso hacia los lados -->
+    <path d="M 480 150 L 480 180" stroke="#FF9F43" stroke-width="5" stroke-linecap="round"/>
+    <path d="M 450 170 L 370 210" stroke="#FF9F43" stroke-width="5" stroke-linecap="round"/>
+    <path d="M 510 170 L 590 210" stroke="#FF9F43" stroke-width="5" stroke-linecap="round"/>
+    <!-- Flechas en los extremos hacia el suelo -->
+    <path d="M 310 240 L 280 270" stroke="#FF9F43" stroke-width="5" stroke-linecap="round"/>
+    <path d="M 650 240 L 680 270" stroke="#FF9F43" stroke-width="5" stroke-linecap="round"/>
+  </g>
+
+  <!-- Plano Medio: La maestra explicando junto al pizarrón -->
+  <g id="plano-medio" transform="translate(180, 140) scale(0.95)">
+    <!-- Maestra -->
+    <circle cx="100" cy="50" r="26" fill="#4A2E1B"/>
+    <circle cx="100" cy="85" r="48" fill="#4A2E1B"/>
+    <circle cx="100" cy="92" r="40" fill="#F8CBB2"/>
+    <circle cx="82" cy="88" r="14" stroke="#3A2E2A" stroke-width="2.5" fill="none"/>
+    <circle cx="118" cy="88" r="14" stroke="#3A2E2A" stroke-width="2.5" fill="none"/>
+    <circle cx="82" cy="88" r="7" fill="#FFFFFF"/>
+    <circle cx="83" cy="89" r="3.5" fill="#232D36"/>
+    <circle cx="118" cy="88" r="7" fill="#FFFFFF"/>
+    <circle cx="119" cy="89" r="3.5" fill="#232D36"/>
+    <path d="M 88 110 Q 100 120 112 110" stroke="#3A2E2A" stroke-width="3" stroke-linecap="round" fill="none"/>
+    <path d="M 58 140 Q 100 132 142 140 L 152 230 L 48 230 Z" fill="#5B6FD6"/>
+    <!-- Regla de madera en la mano apuntando al pizarrón -->
+    <line x1="140" y1="160" x2="240" y2="100" stroke="#FF9F43" stroke-width="8" stroke-linecap="round"/>
+  </g>
+
+  <!-- Plano Frente: Lucía en su pupitre atenta y tomando notas -->
+  <g id="plano-frente" transform="translate(20, 210) scale(0.85)">
+    <circle cx="100" cy="85" r="54" fill="#5A3A28"/>
+    <circle cx="100" cy="92" r="42" fill="#F8CBB2"/>
+    <circle cx="84" cy="88" r="8" fill="#FFFFFF"/>
+    <circle cx="85" cy="89" r="4" fill="#232D36"/>
+    <circle cx="116" cy="88" r="8" fill="#FFFFFF"/>
+    <circle cx="117" cy="89" r="4" fill="#232D36"/>
+    <path d="M 88 108 Q 100 120 112 108" stroke="#3A2E2A" stroke-width="3" stroke-linecap="round" fill="none"/>
+    <path d="M 54 74 Q 100 32 146 74 Z" fill="#E26D5A"/>
+    <rect x="48" y="72" width="104" height="10" rx="5" fill="#C95441"/>
+    <path d="M 62 142 Q 100 134 138 142 L 148 240 L 52 240 Z" fill="#E26D5A"/>
+  </g>
+</svg>
