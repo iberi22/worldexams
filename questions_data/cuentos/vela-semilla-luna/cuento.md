@@ -16,34 +16,50 @@ version: 1
 ## Pagina 1
 ![alt: Vela mira la Luna desde su ventana sosteniendo una semilla](escenas/p1-deseo.svg)
 Vela era una niña de seis años que soñaba con ser astronauta. Cada noche miraba la Luna brillante desde la ventana de su habitación. Un día sostuvo una semilla redonda en la palma de su mano y dijo con alegría: quiero sembrar una planta en la Luna.
+> Para conversar en familia: Miren la Luna por la ventana e imaginen viajar en un cohete de exploración.
+**Palabras nuevas:** astronauta, semilla, planta
 
 ## Pagina 2
 ![alt: La abuela y Vela conversan con un cuaderno de dibujo](escenas/p2-pregunta.svg)
 Su abuela la escuchó con una sonrisa tibia y la invitó a sentarse juntas. Para sembrar en cualquier lugar del espacio, primero debemos investigar, dijo la abuela. Vela tomó su cuaderno y preguntó con mucha curiosidad: ¿qué necesita una semilla para crecer fuerte y sana?
+> Para conversar en familia: Pregunta a tu niña o niño qué cree que necesita una pequeña semilla para germinar.
+**Palabras nuevas:** abuela, espacio, curiosidad
 
 ## Pagina 3
 ![alt: El robot Tuerca proyecta datos del espacio y la Luna](escenas/p3-tuerca.svg)
 El robot Tuerca encendió sus luces azules para mostrar los datos de la Luna. En la Luna no hay aire para respirar ni agua en el suelo, explicó Tuerca con su voz metálica. Además, el Sol da luz de día, pero la noche es larga y fría.
+> Para conversar en familia: Imita la voz divertida del robot Tuerca contando datos interesantes sobre el espacio.
+**Palabras nuevas:** robot, aire, datos
 
 ## Pagina 4
 ![alt: Vela prepara tres vasos transparentes con tierra y semillas](escenas/p4-experimento.svg)
 Vela decidió hacer un experimento en la mesa de la cocina. Preparó tres vasos transparentes con tierra y una semilla en cada uno. El primer vaso recibió agua y luz de sol. El segundo no recibió agua. El tercer vaso quedó a oscuras dentro de una caja.
+> Para conversar en familia: Cuenten los tres vasos del experimento y recuerden la importancia de la luz y el agua.
+**Palabras nuevas:** experimento, mesa, cocina
 
 ## Pagina 5
 ![alt: Vela y Tuerca revisan los tres vasos en la mesa](escenas/p5-observacion.svg)
 Durante siete días, Vela y Tuerca observaron los vasos cada mañana. Anotaron todos los cambios en el cuaderno de astronauta. La semilla del primer vaso brotó con hojas verdes. En cambio, las semillas sin agua o sin luz no pudieron crecer.
+> Para conversar en familia: Cuenten juntos siete días de la semana imaginando ver brotar pequeñas hojas verdes.
+**Palabras nuevas:** mañana, cambios, hojas
 
 ## Pagina 6
 ![alt: Vela tiene una idea sobre una casita de cristal o invernadero](escenas/p6-invernadero.svg)
 ¡Ya comprendo!, exclamó Vela con emoción. Las plantas necesitan luz y agua para vivir. Como la Luna no tiene aire ni agua fácil, necesitamos llevar agua y construir una casita de cristal. ¡Un invernadero que guarde el aire y el calor del Sol!
+> Para conversar en familia: Dibujen con las manos la forma de una casita de cristal transparente para proteger las plantas.
+**Palabras nuevas:** emoción, casita, cristal
 
 ## Pagina 7
 ![alt: Vela, la abuela y Tuerca dibujan un domo e invernadero lunar](escenas/p7-dibujo.svg)
 Vela, la abuela y Tuerca dibujaron juntos la base lunar del futuro. En el dibujo pintaron un domo transparente lleno de flores y brotes verdes. Tuerca sonrió con sus luces y la abuela guardó el plano en el cofre de las grandes ideas.
+> Para conversar en familia: Imaginen qué tipo de flor o hortaliza sembrarían ustedes en una base lunar familiar.
+**Palabras nuevas:** domo, flores, cofre
 
 ## Pagina 8
 ![alt: Vela sonríe mirando las estrellas sabiendo cómo investigar](escenas/p8-moraleja.svg)
 Esa noche, Vela miró de nuevo la Luna desde su ventana. Ahora sabía que para ser astronauta no solo se necesita un cohete espacial. Preguntar, observar y probar con paciencia es la forma en que los grandes exploradores viajan por las estrellas.
+> Para conversar en familia: Contemplen las estrellas de la noche celebrando la alegría de preguntar y aprender en familia.
+**Palabras nuevas:** cohete, exploradores, estrellas
 
 ## Quiz
 ### Pregunta 1

@@ -1,5 +1,5 @@
 {
-  "format": "cuento-v1",
+  "format": 2,
   "slug": "tana-tucan-comparte",
   "titulo": "Tana la tucán que aprendió a compartir",
   "edad": "3-4",
@@ -17,49 +17,97 @@
       "n": 1,
       "imagen": "escenas/p1-arbol.svg",
       "alt": "Tana la tucán ve un árbol lleno de mangos",
-      "texto": "En lo alto de la selva vivía Tana, una tucán joven de pico naranja. Una mañana de sol encontró un árbol lleno de mangos amarillos. Se puso a contar en voz alta: uno, dos, tres, cuatro, cinco. Nunca había visto tantos mangos juntos en una sola rama."
+      "texto": "En lo alto de la selva vivía Tana, una tucán joven de pico naranja. Una mañana de sol encontró un árbol lleno de mangos amarillos. Se puso a contar en voz alta: uno, dos, tres, cuatro, cinco. Nunca había visto tantos mangos juntos en una sola rama.",
+      "hint": "Señala el pico naranja de Tana y cuenta los mangos con tu hija o hijo.",
+      "words": [
+        "selva",
+        "tucán",
+        "mangos"
+      ]
     },
     {
       "n": 2,
       "imagen": "escenas/p2-mios.svg",
       "alt": "Tana abraza los mangos y dice que son suyos",
-      "texto": "—¡Son todos míos! —dijo Tana muy contenta, y abrazó los mangos con sus alas abiertas. Los bajó al nido uno por uno, con mucho cuidado. Pesaban mucho y las alas le temblaban, pero no quería soltar ninguno."
+      "texto": "—¡Son todos míos! —dijo Tana muy contenta, y abrazó los mangos con sus alas abiertas. Los bajó al nido uno por uno, con mucho cuidado. Pesaban mucho y las alas le temblaban, pero no quería soltar ninguno.",
+      "hint": "Muestra cómo Tana abraza sus frutas y conversen sobre guardar o compartir.",
+      "words": [
+        "nido",
+        "cuidado",
+        "alas"
+      ]
     },
     {
       "n": 3,
       "imagen": "escenas/p3-tito.svg",
       "alt": "El mono Tito pide un mango y Tana dice que no",
-      "texto": "Entonces llegó Tito el mono, columpiándose de una rama a otra. Vio los mangos y se le hizo agua la boca. —¿Me das uno, Tana? Tengo mucha hambre —pidió con voz dulce. —No —dijo Tana—. Los encontré yo solita."
+      "texto": "Entonces llegó Tito el mono, columpiándose de una rama a otra. Vio los mangos y se le hizo agua la boca. —¿Me das uno, Tana? Tengo mucha hambre —pidió con voz dulce. —No —dijo Tana—. Los encontré yo solita.",
+      "hint": "Pide a tu niño que imite la cara que pone Tito cuando siente hambre.",
+      "words": [
+        "mono",
+        "rama",
+        "hambre"
+      ]
     },
     {
       "n": 4,
       "imagen": "escenas/p4-lila.svg",
       "alt": "La perezosa Lila pide un mango y Tana dice que no",
-      "texto": "Después subió Lila la perezosa, despacio, muy despacio, porque las perezosas nunca tienen prisa. Miró los mangos con ojos grandes. —¿Me guardas uno pequeño? —preguntó con voz suave. —No —dijo Tana—. No van a alcanzar."
+      "texto": "Después subió Lila la perezosa, despacio, muy despacio, porque las perezosas nunca tienen prisa. Miró los mangos con ojos grandes. —¿Me guardas uno pequeño? —preguntó con voz suave. —No —dijo Tana—. No van a alcanzar.",
+      "hint": "Muevan las manos despacio como avanza la perezosa Lila por los árboles.",
+      "words": [
+        "perezosa",
+        "despacio",
+        "prisa"
+      ]
     },
     {
       "n": 5,
       "imagen": "escenas/p5-caen.svg",
       "alt": "Dos mangos ruedan de alas de Tana hacia el río",
-      "texto": "Los cinco mangos pesaban tanto que las alas de Tana empezaron a temblar muy fuerte. ¡Plin, plan! Dos mangos se soltaron, rodaron por el pasto y cayeron al río que corría rápido. Tana lloró con pena: ¡mis mangos!"
+      "texto": "Los cinco mangos pesaban tanto que las alas de Tana empezaron a temblar muy fuerte. ¡Plin, plan! Dos mangos se soltaron, rodaron por el pasto y cayeron al río que corría rápido. Tana lloró con pena: ¡mis mangos!",
+      "hint": "Pregunta a tu hija o hijo qué siente Tana cuando ve caer las frutas al agua.",
+      "words": [
+        "pasto",
+        "río",
+        "pena"
+      ]
     },
     {
       "n": 6,
       "imagen": "escenas/p6-ayuda.svg",
       "alt": "Tito y Lila ayudan a Tana a recuperar los mangos del río",
-      "texto": "Tito se lanzó de rama en rama hasta la orilla y atajó un mango con su cola larga. Lila estiró su brazo lento pero seguro y pescó el otro mango del agua. Se los llevaron a Tana y dijeron: te ayudamos, para eso están los amigos de verdad."
+      "texto": "Tito se lanzó de rama en rama hasta la orilla y atajó un mango con su cola larga. Lila estiró su brazo lento pero seguro y pescó el otro mango del agua. Se los llevaron a Tana y dijeron: te ayudamos, para eso están los amigos de verdad.",
+      "hint": "Observen la cola de Tito y conversen sobre lo bueno de ayudar a los demás.",
+      "words": [
+        "orilla",
+        "cola",
+        "amigos"
+      ]
     },
     {
       "n": 7,
       "imagen": "escenas/p7-reparte.svg",
       "alt": "Tana reparte un mango a cada amigo y se quedan tres",
-      "texto": "Tana los miró con los ojos llenos de agua y por fin entendió. Repartió con alegría: un mango para Tito y un mango para Lila. Quedaron tres mangos, y los comieron juntos bajo el árbol, entre risas y cuentos. Nunca un mango había sabido tan dulce como ese día."
+      "texto": "Tana los miró con los ojos llenos de agua y por fin entendió. Repartió con alegría: un mango para Tito y un mango para Lila. Quedaron tres mangos, y los comieron juntos bajo el árbol, entre risas y cuentos. Nunca un mango había sabido tan dulce como ese día.",
+      "hint": "Cuenten cuántos mangos quedaron para comer juntos después de repartir.",
+      "words": [
+        "alegría",
+        "risas",
+        "cuentos"
+      ]
     },
     {
       "n": 8,
       "imagen": "escenas/p8-siesta.svg",
       "alt": "Los tres amigos duermen la siesta bajo el árbol",
-      "texto": "Desde ese día, cuando Tana encuentra fruta en la selva, grita fuerte para que todos la oigan: ¡hay para todos! Y Tito y Lila llegan corriendo. Porque lo compartido, dice Tana mientras duermen la siesta, sabe mejor."
+      "texto": "Desde ese día, cuando Tana encuentra fruta en la selva, grita fuerte para que todos la oigan: ¡hay para todos! Y Tito y Lila llegan corriendo. Porque lo compartido, dice Tana mientras duermen la siesta, sabe mejor.",
+      "hint": "Abraza a tu hija o hijo y recuerden algo rico que hayan compartido hoy.",
+      "words": [
+        "fruta",
+        "selva",
+        "siesta"
+      ]
     }
   ],
   "quiz": [

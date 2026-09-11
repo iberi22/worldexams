@@ -113,4 +113,58 @@ Texto de la página sin la imagen requerida.
       expect(err.message).toContain('no contiene una imagen válida');
     }
   });
+
+  it('parses v1 page without v2 lines yielding default empty hint and words without throwing', () => {
+    const v1Md = `---
+slug: "test-v1"
+titulo: "Test V1"
+edad: "3-4"
+idioma: "es-neutro"
+eje: "animales"
+habitat: "selva"
+valor: "compartir"
+personajes: ["tana"]
+paginas: 1
+license: "PROPRIETARY-FREE-READ"
+version: 1
+---
+
+## Pagina 1
+![alt: Escena 1](escenas/p1.svg)
+En un bosque lejano vivía una pequeña ardilla llamada Nina.
+`;
+    const cuento = parseCuentoMd(v1Md, 'v1.md');
+    expect(cuento.paginas).toHaveLength(1);
+    expect(cuento.paginas[0].hint).toBe('');
+    expect(cuento.paginas[0].words).toEqual([]);
+    expect(cuento.paginas[0].texto).toContain('En un bosque lejano');
+  });
+
+  it('parses v2 page extracting caregiver hint and vocabulary words', () => {
+    const v2Md = `---
+slug: "test-v2"
+titulo: "Test V2"
+edad: "3-4"
+idioma: "es-neutro"
+eje: "animales"
+habitat: "selva"
+valor: "compartir"
+personajes: ["tana"]
+paginas: 1
+license: "PROPRIETARY-FREE-READ"
+version: 1
+---
+
+## Pagina 1
+![alt: Escena 1](escenas/p1.svg)
+En un bosque lejano vivía una pequeña ardilla llamada Nina.
+> Para conversar en familia: Observa el bosque y cuenta los árboles con tu hija o hijo.
+**Palabras nuevas:** bosque, ardilla, pequeña
+`;
+    const cuento = parseCuentoMd(v2Md, 'v2.md');
+    expect(cuento.paginas).toHaveLength(1);
+    expect(cuento.paginas[0].hint).toBe('Observa el bosque y cuenta los árboles con tu hija o hijo.');
+    expect(cuento.paginas[0].words).toEqual(['bosque', 'ardilla', 'pequeña']);
+    expect(cuento.paginas[0].texto).toBe('En un bosque lejano vivía una pequeña ardilla llamada Nina.');
+  });
 });
