@@ -1,6 +1,7 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import PuertaLibro from '../../components/cuentos/PuertaLibro.svelte';
+import CargandoCuento from '../../components/cuentos/lector/CargandoCuento.svelte';
 import '../../components/cuentos/arte/tokens.css'; // Global cuentos theme (vars + Andika/Fredoka) for static page markup
 import { getAllCuentosCatalog, getCuentoBySlug } from '../../lib/cuentos/cuentos-catalog';
 
@@ -112,6 +113,9 @@ const bookSchema = {
         coverEscena: cuento.coverEscena,
       }}
     />
+    <div id="cargando-cuento-door-slot" style="display: none;">
+      <CargandoCuento client:idle />
+    </div>
     <!-- Breadcrumb Header -->
     <header class="border-b border-[#3A2E2A]/10 bg-[#FDF6EC]/80 backdrop-blur-sm sticky top-0 z-10">
       <div class="max-w-4xl mx-auto px-4 py-3 flex items-center justify-between text-sm">
