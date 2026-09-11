@@ -26,6 +26,8 @@ export interface CuentoPagina {
   readonly imagen: string;
   readonly texto: string;
   readonly wordCount: number;
+  readonly hint?: string;
+  readonly words?: readonly string[];
 }
 
 export interface QuizOpcion {
@@ -150,10 +152,46 @@ export function parseCuentoMd(md: string, filePath?: string): Cuento {
 
       const alt = imgMatch[1].trim();
       const imagen = imgMatch[2].trim();
-      const texto = sectionContent.replace(/!\[alt:.*?\]\(.*?\)/s, '').trim();
+      const bodyWithoutImg = sectionContent.replace(/!\[alt:.*?\]\(.*?\)/s, '').trim();
+
+      let hint = '';
+      let words: string[] = [];
+
+      // Parse v2 caregiver hint line: > Para conversar en familia: ...
+      const hintMatch = bodyWithoutImg.match(/^>\s*Para conversar en familia:\s*(.+)$/m);
+      if (hintMatch) {
+        hint = hintMatch[1].trim();
+      }
+
+      // Parse v2 vocabulary line: **Palabras nuevas:** word1, word2, ...
+      const wordsMatch = bodyWithoutImg.match(/^\*\*Palabras nuevas:\*\*\s*(.+)$/m);
+      if (wordsMatch) {
+        words = wordsMatch[1]
+          .split(',')
+          .map((w) => w.trim().toLowerCase())
+          .filter(Boolean);
+      }
+
+      // Clean prose text by stripping v2 hint and words lines
+      const textLines = bodyWithoutImg
+        .split(/\r?\n/)
+        .filter(
+          (line) =>
+            !line.trim().startsWith('> Para conversar en familia:') &&
+            !line.trim().startsWith('**Palabras nuevas:**')
+        );
+      const texto = textLines.join('\n').trim();
       const wordCount = texto ? texto.split(/\s+/).filter(Boolean).length : 0;
 
-      paginas.push({ n, alt, imagen, texto, wordCount });
+      paginas.push({
+        n,
+        alt,
+        imagen,
+        texto,
+        wordCount,
+        ...(hint ? { hint } : { hint: '' }),
+        words: words.length > 0 ? words : []
+      });
     } else if (titleLine.toLowerCase() === 'quiz') {
       const h3Sections = sectionContent.split(/^###\s+/m).filter((s: string) => s.trim().length > 0);
       for (const h3Section of h3Sections) {
