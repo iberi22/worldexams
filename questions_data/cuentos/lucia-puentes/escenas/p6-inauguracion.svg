@@ -1,0 +1,72 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Nico cruza triunfal el gran puente de arco en la inauguración">
+  <defs>
+    <linearGradient id="bg6" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#EBF5EE"/>
+      <stop offset="100%" stop-color="#FFE3B3"/>
+    </linearGradient>
+  </defs>
+  <!-- Plano Fondo: Fiesta con serpentinas y globos -->
+  <g id="plano-fondo">
+    <rect width="800" height="450" fill="url(#bg6)"/>
+    <!-- Globos en el cielo -->
+    <circle cx="120" cy="80" r="16" fill="#E26D5A"/>
+    <line x1="120" y1="96" x2="120" y2="120" stroke="#3A2E2A" stroke-width="1.5"/>
+    <circle cx="160" cy="60" r="18" fill="#5B6FD6"/>
+    <line x1="160" y1="78" x2="160" y2="105" stroke="#3A2E2A" stroke-width="1.5"/>
+    <circle cx="680" cy="70" r="16" fill="#FF9F43"/>
+    <line x1="680" y1="86" x2="680" y2="110" stroke="#3A2E2A" stroke-width="1.5"/>
+    <!-- Cintas de fiesta -->
+    <path d="M 50 100 Q 200 130 350 90 Q 500 140 750 100" stroke="#4FB6A3" stroke-width="4" stroke-dasharray="12 8" fill="none"/>
+  </g>
+
+  <!-- Plano Medio: El río y el gran puente de arco terminado de orilla a orilla -->
+  <g id="plano-medio">
+    <!-- Orillas -->
+    <path d="M 0 320 Q 180 300 220 450 L 0 450 Z" fill="#7BAE5A"/>
+    <path d="M 580 450 Q 620 300 800 320 L 800 450 Z" fill="#7BAE5A"/>
+    <!-- Río -->
+    <path d="M 220 450 Q 180 300 400 280 Q 620 300 580 450 Z" fill="#4FB6A3"/>
+
+    <!-- Estructura del gran puente de arco en piedra -->
+    <path d="M 150 330 Q 400 150 650 330" stroke="#7F8C8D" stroke-width="36" fill="none"/>
+    <path d="M 150 330 Q 400 170 650 330" stroke="#BDC3C7" stroke-width="20" fill="none"/>
+    <!-- Barandilla del puente -->
+    <path d="M 140 285 Q 400 115 660 285" stroke="#8B5A2B" stroke-width="6" fill="none"/>
+    <!-- Postes verticales de barandilla -->
+    <line x1="200" y1="285" x2="200" y2="300" stroke="#8B5A2B" stroke-width="4"/>
+    <line x1="300" y1="225" x2="300" y2="245" stroke="#8B5A2B" stroke-width="4"/>
+    <line x1="400" y1="200" x2="400" y2="220" stroke="#8B5A2B" stroke-width="4"/>
+    <line x1="500" y1="225" x2="500" y2="245" stroke="#8B5A2B" stroke-width="4"/>
+    <line x1="600" y1="285" x2="600" y2="300" stroke="#8B5A2B" stroke-width="4"/>
+  </g>
+
+  <!-- Plano Frente: Nico cruzando feliz sobre la cumbre del arco y gente celebrando -->
+  <g id="plano-frente">
+    <!-- Nico cruzando en el centro del arco -->
+    <g transform="translate(350, 110) scale(0.65)">
+      <circle cx="100" cy="80" r="48" fill="#6B4423"/>
+      <circle cx="100" cy="90" r="40" fill="#F8CBB2"/>
+      <circle cx="84" cy="86" r="8" fill="#FFFFFF"/>
+      <circle cx="85" cy="87" r="4" fill="#232D36"/>
+      <circle cx="116" cy="86" r="8" fill="#FFFFFF"/>
+      <circle cx="117" cy="87" r="4" fill="#232D36"/>
+      <path d="M 88 106 Q 100 118 112 106" stroke="#3A2E2A" stroke-width="3" stroke-linecap="round" fill="none"/>
+      <path d="M 60 138 Q 100 130 140 138 L 150 240 L 50 240 Z" fill="#4FB6A3"/>
+    </g>
+
+    <!-- Lucía celebrando en la orilla -->
+    <g transform="translate(40, 220) scale(0.75)">
+      <circle cx="100" cy="85" r="54" fill="#5A3A28"/>
+      <circle cx="100" cy="92" r="42" fill="#F8CBB2"/>
+      <circle cx="84" cy="88" r="8" fill="#FFFFFF"/>
+      <circle cx="85" cy="89" r="4" fill="#232D36"/>
+      <circle cx="116" cy="88" r="8" fill="#FFFFFF"/>
+      <circle cx="117" cy="89" r="4" fill="#232D36"/>
+      <path d="M 88 108 Q 100 120 112 108" stroke="#3A2E2A" stroke-width="3" stroke-linecap="round" fill="none"/>
+      <path d="M 54 74 Q 100 32 146 74 Z" fill="#E26D5A"/>
+      <rect x="48" y="72" width="104" height="10" rx="5" fill="#C95441"/>
+      <path d="M 62 142 Q 100 134 138 142 L 148 240 L 52 240 Z" fill="#E26D5A"/>
+    </g>
+  </g>
+</svg>

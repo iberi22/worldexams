@@ -26,8 +26,13 @@ Astro.response.headers.set(
 
 const siteUrl = (import.meta.env.PUBLIC_SITE_URL || Astro.site?.toString() || 'https://saberparatodos.space').replace(/\/$/, '');
 const canonicalURL = `${siteUrl}/cuentos/${cuento.slug}/`;
-const pageTitle = `${cuento.titulo} — Cuentos Infantiles | SaberParaTodos`;
-const pageDescription = `Cuento infantil: ${cuento.titulo}. Recomendado para niños de ${cuento.edad} años. Historia con valores y comprensión lectora.`;
+const pageTitle = `${cuento.titulo} | Cuentos SaberParaTodos`;
+
+const rawDescription = cuento.valor
+  ? `Cuento infantil ilustrado sobre ${cuento.valor}. Edad recomendada: ${cuento.edad} años. Incluye preguntas de comprensión lectora.`
+  : `Cuento infantil ilustrado para niños de ${cuento.edad} años. Historia con valores y comprensión lectora.`;
+
+const pageDescription = rawDescription.length > 160 ? `${rawDescription.slice(0, 159)}…` : rawDescription;
 
 // Schema.org Structured Data
 const breadcrumbSchema = {
@@ -60,10 +65,11 @@ const bookSchema = {
   '@type': 'Book',
   name: cuento.titulo,
   description: pageDescription,
-  inLanguage: cuento.idioma,
+  inLanguage: 'es',
   bookFormat: 'https://schema.org/EBook',
   typicalAgeRange: cuento.edad,
-  about: [cuento.valor, cuento.eje, cuento.habitat].filter(Boolean),
+  teaches: cuento.valor,
+  about: [cuento.eje, cuento.habitat].filter(Boolean),
   publisher: {
     '@type': 'Organization',
     name: 'SaberParaTodos / WorldExams',
@@ -74,10 +80,17 @@ const bookSchema = {
   },
   copyrightYear: 2026,
   isAccessibleForFree: true,
+  license: 'PROPRIETARY-FREE-READ: Lectura gratuita, prohibida su reproducción sin autorización.',
 };
 ---
 
-<Layout title={pageTitle} description={pageDescription} noindex={true}>
+<Layout
+  title={pageTitle}
+  description={pageDescription}
+  image={cuento.coverEscena || '/og-image.svg'}
+  type="article"
+  noindex={true}
+>
   <link slot="head" rel="canonical" href={canonicalURL} />
   <script is:inline type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
   <script is:inline type="application/ld+json" set:html={JSON.stringify(bookSchema)} />
@@ -249,4 +262,28 @@ const bookSchema = {
       </footer>
     </main>
   </div>
+
+  <script is:inline>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker
+          .register('/cuentos/sw-cuentos.js', { scope: '/cuentos/' })
+          .then((reg) => console.log('[SW-Cuentos] Registrado en scope:', reg.scope))
+          .catch((err) => console.error('[SW-Cuentos] Error al registrar:', err));
+      });
+      // Warm-cache: la primera navegación completa ANTES de que el SW
+      // controle la página, así que su HTML nunca entra a caché solo.
+      // Este fetch (ya con SW activo) lo guarda + dispara el precache
+      // de escenas vía el pack JSON.
+      navigator.serviceWorker.ready
+        .then(() => {
+          fetch(window.location.pathname, { credentials: 'same-origin' }).catch(() => {});
+          const slug = window.location.pathname.split('/').filter(Boolean).pop();
+          if (slug && slug !== 'cuentos') {
+            fetch('/v1/cuentos/' + slug + '.json').catch(() => {});
+          }
+        })
+        .catch(() => {});
+    }
+  </script>
 </Layout>

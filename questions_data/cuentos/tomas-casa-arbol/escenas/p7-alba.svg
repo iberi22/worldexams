@@ -1,0 +1,45 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Alba dibuja entusiasmada su primera casa-árbol en su cuaderno">
+  <!-- Plano Fondo: Interior cálido e iluminado de la casa-árbol -->
+  <rect width="800" height="450" fill="#FDF6EC"/>
+  <!-- Paredes curvas de madera con textura suave -->
+  <path d="M0 0 L200 0 L200 450 L0 450 Z" fill="#F5E6D3"/>
+  <path d="M600 0 L800 0 L800 450 L600 450 Z" fill="#F5E6D3"/>
+  <!-- Ventana circular grande al fondo mostrando el follaje verde -->
+  <circle cx="400" cy="140" r="85" fill="#E6F4F8" stroke="#4FB6A3" stroke-width="6"/>
+  <circle cx="400" cy="140" r="75" fill="#7BAE5A" opacity="0.6"/>
+  <path d="M360 120 C380 90 420 90 440 120" stroke="#588B42" stroke-width="8" stroke-linecap="round" fill="none"/>
+  <!-- Plano Medio: Mesa de madera de pino clara -->
+  <rect x="150" y="260" width="500" height="150" rx="12" fill="#E8B04B" stroke="#3A2E2A" stroke-width="3"/>
+  <!-- Plano de dibujo de Alba sobre la mesa con su casa-árbol de colores -->
+  <rect x="260" y="230" width="280" height="180" rx="8" fill="#FFFFFF" stroke="#3A2E2A" stroke-width="2.5"/>
+  <!-- Dibujo infantil de la casa-árbol en el papel -->
+  <!-- Tronco y follaje dibujados por Alba -->
+  <rect x="385" y="270" width="30" height="120" fill="#8D5B4C"/>
+  <circle cx="400" cy="270" r="45" fill="#7BAE5A"/>
+  <!-- Casita triangular dibujada alrededor -->
+  <polygon points="340,310 400,260 460,310" fill="#FF9F43"/>
+  <rect x="350" y="310" width="100" height="60" fill="#4FB6A3"/>
+  <circle cx="400" cy="335" r="14" fill="#E6F4F8" stroke="#3A2E2A" stroke-width="2"/>
+  <path d="M300 380 L350 380 M450 380 L500 380" stroke="#E26D5A" stroke-width="3" stroke-linecap="round"/>
+  <!-- Lápices de colores esparcidos en la mesa -->
+  <rect x="200" y="300" width="40" height="8" rx="2" fill="#E26D5A" transform="rotate(20 200 300)"/>
+  <rect x="220" y="320" width="40" height="8" rx="2" fill="#4FB6A3" transform="rotate(-10 220 320)"/>
+  <rect x="560" y="290" width="40" height="8" rx="2" fill="#FF9F43" transform="rotate(45 560 290)"/>
+  <!-- Plano Frente: Alba sentada dibujando con cara de orgullo y felicidad -->
+  <g transform="translate(110, 160)">
+    <path d="M20 90 L60 90 L68 160 L12 160 Z" fill="#4FB6A3"/>
+    <circle cx="40" cy="50" r="30" fill="#FCE3C8"/>
+    <!-- Coletas rojas sonrientes -->
+    <circle cx="8" cy="45" r="12" fill="#3A2E2A"/>
+    <circle cx="72" cy="45" r="12" fill="#3A2E2A"/>
+    <!-- Ojos chispeantes -->
+    <circle cx="30" cy="48" r="6" fill="#FFFFFF"/>
+    <circle cx="31" cy="49" r="3" fill="#3A2E2A"/>
+    <circle cx="50" cy="48" r="6" fill="#FFFFFF"/>
+    <circle cx="49" cy="49" r="3" fill="#3A2E2A"/>
+    <path d="M32 60 Q40 68 48 60" stroke="#3A2E2A" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+    <!-- Lápiz en su mano -->
+    <rect x="60" y="65" width="30" height="6" rx="2" fill="#7BAE5A" transform="rotate(-30 60 65)"/>
+  </g>
+</svg>

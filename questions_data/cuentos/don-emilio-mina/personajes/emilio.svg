@@ -1,0 +1,53 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Don Emilio el minero">
+  <!-- Cuerpo / Overol -->
+  <rect x="65" y="115" width="70" height="70" rx="15" fill="#3D5A80"/>
+  <!-- Camisa / Camiseta -->
+  <rect x="75" y="110" width="50" height="25" fill="#C97B3D"/>
+  <!-- Tirantes del overol -->
+  <rect x="75" y="115" width="10" height="40" rx="3" fill="#293241"/>
+  <rect x="115" y="115" width="10" height="40" rx="3" fill="#293241"/>
+  <!-- Botones tirantes -->
+  <circle cx="80" cy="150" r="3" fill="#F2C14E"/>
+  <circle cx="120" cy="150" r="3" fill="#F2C14E"/>
+  <!-- Brazos y manos -->
+  <rect x="42" y="120" width="25" height="14" rx="7" fill="#C97B3D" transform="rotate(20 42 120)"/>
+  <rect x="133" y="120" width="25" height="14" rx="7" fill="#C97B3D" transform="rotate(-20 133 120)"/>
+  <circle cx="42" cy="132" r="8" fill="#F4A261"/>
+  <circle cx="158" cy="132" r="8" fill="#F4A261"/>
+  <!-- Botas -->
+  <rect x="70" y="178" width="25" height="16" rx="6" fill="#293241"/>
+  <rect x="105" y="178" width="25" height="16" rx="6" fill="#293241"/>
+
+  <!-- Cabeza -->
+  <circle cx="100" cy="78" r="34" fill="#F4A261"/>
+  <!-- Orejas -->
+  <circle cx="64" cy="78" r="7" fill="#F4A261"/>
+  <circle cx="136" cy="78" r="7" fill="#F4A261"/>
+  <!-- Cabello -->
+  <path d="M 66 65 Q 100 48 134 65 Q 128 58 100 52 Q 72 58 66 65 Z" fill="#3A2E2A"/>
+
+  <!-- Ojos plantilla -->
+  <circle cx="86" cy="74" r="7" fill="#FFFFFF"/>
+  <circle cx="87" cy="75" r="3.5" fill="#232D36"/>
+  <circle cx="88.5" cy="73.5" r="1.5" fill="#FFFFFF"/>
+  <circle cx="114" cy="74" r="7" fill="#FFFFFF"/>
+  <circle cx="115" cy="75" r="3.5" fill="#232D36"/>
+  <circle cx="116.5" cy="73.5" r="1.5" fill="#FFFFFF"/>
+
+  <!-- Mejillas sonrientes -->
+  <circle cx="76" cy="85" r="5" fill="#E26D5A" opacity="0.5"/>
+  <circle cx="124" cy="85" r="5" fill="#E26D5A" opacity="0.5"/>
+  <!-- Sonrisa amable -->
+  <path d="M 88 88 Q 100 98 112 88" stroke="#3A2E2A" stroke-width="3" stroke-linecap="round" fill="none"/>
+
+  <!-- Casco de Minero -->
+  <path d="M 60 58 Q 100 24 140 58 Z" fill="#F2C14E"/>
+  <rect x="54" y="55" width="92" height="8" rx="4" fill="#E0A926"/>
+  <!-- Lámpara LED del casco -->
+  <rect x="92" y="32" width="16" height="14" rx="3" fill="#293241"/>
+  <circle cx="100" cy="39" r="6" fill="#E0FBFC"/>
+  <circle cx="100" cy="39" r="4" fill="#FFFFFF"/>
+  <!-- Resplandor luz casco -->
+  <path d="M 100 39 L 60 10 L 140 10 Z" fill="#FFE3B3" opacity="0.25"/>
+</svg>
