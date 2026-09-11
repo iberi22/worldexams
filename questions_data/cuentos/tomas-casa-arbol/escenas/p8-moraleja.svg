@@ -1,0 +1,47 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Moraleja: crear no es quitar, es abrazar a la naturaleza">
+  <!-- Plano Fondo: Atardecer dorado e inspirador -->
+  <rect width="800" height="450" fill="#FDF6EC"/>
+  <path d="M0 260 Q400 200 800 250 L800 450 L0 450 Z" fill="#E2EAD8"/>
+  <path d="M0 310 Q300 280 600 300 T800 290 L800 450 L0 450 Z" fill="#A2C987"/>
+  <!-- Gran sol poniente cálido -->
+  <circle cx="400" cy="180" r="80" fill="#FF9F43" opacity="0.8"/>
+  <!-- Plano Medio: La hermosa casa-árbol recortada felizmente bajo el sol -->
+  <path d="M360 410 L370 120 Q400 110 430 120 L440 410 Z" fill="#8D5B4C"/>
+  <circle cx="400" cy="100" r="110" fill="#588B42"/>
+  <circle cx="330" cy="130" r="80" fill="#69A050"/>
+  <circle cx="470" cy="130" r="80" fill="#69A050"/>
+  <circle cx="400" cy="70" r="85" fill="#7BAE5A"/>
+  <!-- Muros curvos abrazando el árbol -->
+  <path d="M220 330 C220 220 340 220 380 250 L380 330 Z" fill="#E8B04B" stroke="#3A2E2A" stroke-width="3"/>
+  <path d="M420 250 C460 220 580 220 580 330 L420 330 Z" fill="#E8B04B" stroke="#3A2E2A" stroke-width="3"/>
+  <!-- Ventanas luminosas -->
+  <circle cx="290" cy="275" r="28" fill="#FFF6E8" stroke="#4FB6A3" stroke-width="3"/>
+  <circle cx="510" cy="275" r="28" fill="#FFF6E8" stroke="#4FB6A3" stroke-width="3"/>
+  <!-- Corazón de luz o abrazo de la naturaleza -->
+  <path d="M400 210 Q385 190 370 210 Q370 230 400 250 Q430 230 430 210 Q415 190 400 210 Z" fill="#E26D5A"/>
+  <!-- Plano Frente: Tomás y Alba tomados de la mano mirando su obra con alegría -->
+  <g transform="translate(180, 240)">
+    <!-- Tomás -->
+    <ellipse cx="40" cy="110" rx="26" ry="34" fill="#7BAE5A"/>
+    <circle cx="40" cy="60" r="24" fill="#FCE3C8"/>
+    <path d="M14 50 C14 30 66 30 66 50 Z" fill="#FFD54F"/>
+    <rect x="10" y="48" width="60" height="4" rx="2" fill="#FFC107"/>
+    <circle cx="32" cy="58" r="4" fill="#3A2E2A"/>
+    <circle cx="48" cy="58" r="4" fill="#3A2E2A"/>
+    <path d="M34 68 Q40 74 46 68" stroke="#3A2E2A" stroke-width="2" fill="none"/>
+  </g>
+  <g transform="translate(600, 250)">
+    <!-- Alba -->
+    <path d="M15 90 L45 90 L52 150 L8 150 Z" fill="#4FB6A3"/>
+    <circle cx="30" cy="55" r="22" fill="#FCE3C8"/>
+    <circle cx="6" cy="50" r="10" fill="#3A2E2A"/>
+    <circle cx="54" cy="50" r="10" fill="#3A2E2A"/>
+    <circle cx="23" cy="53" r="3.5" fill="#3A2E2A"/>
+    <circle cx="37" cy="53" r="3.5" fill="#3A2E2A"/>
+    <path d="M24 63 Q30 70 36 63" stroke="#3A2E2A" stroke-width="2" fill="none"/>
+  </g>
+  <!-- Pajaritos y mariposas celebrando la vida -->
+  <path d="M280 120 Q285 110 290 120 Q295 110 300 120 Q290 130 280 120 Z" fill="#FF9F43"/>
+  <path d="M520 100 Q525 90 530 100 Q535 90 540 100 Q530 110 520 100 Z" fill="#FF9F43"/>
+</svg>
