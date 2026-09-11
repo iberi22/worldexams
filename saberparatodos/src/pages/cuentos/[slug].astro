@@ -262,4 +262,28 @@ const bookSchema = {
       </footer>
     </main>
   </div>
+
+  <script is:inline>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker
+          .register('/cuentos/sw-cuentos.js', { scope: '/cuentos/' })
+          .then((reg) => console.log('[SW-Cuentos] Registrado en scope:', reg.scope))
+          .catch((err) => console.error('[SW-Cuentos] Error al registrar:', err));
+      });
+      // Warm-cache: la primera navegación completa ANTES de que el SW
+      // controle la página, así que su HTML nunca entra a caché solo.
+      // Este fetch (ya con SW activo) lo guarda + dispara el precache
+      // de escenas vía el pack JSON.
+      navigator.serviceWorker.ready
+        .then(() => {
+          fetch(window.location.pathname, { credentials: 'same-origin' }).catch(() => {});
+          const slug = window.location.pathname.split('/').filter(Boolean).pop();
+          if (slug && slug !== 'cuentos') {
+            fetch('/v1/cuentos/' + slug + '.json').catch(() => {});
+          }
+        })
+        .catch(() => {});
+    }
+  </script>
 </Layout>
