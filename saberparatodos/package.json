@@ -69,7 +69,7 @@
     "metrics:generation": "node scripts/generate-generation-metrics.mjs"
   },
   "dependencies": {
-    "@astrojs/cloudflare": "^14.0.1",
+    "@astrojs/cloudflare": "14.1.0",
     "@astrojs/sitemap": "^3.6.0",
     "@astrojs/svelte": "^9.0.0",
     "@cloudflare/workers-types": "^4.20240529.0",
