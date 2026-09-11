@@ -9,7 +9,7 @@ const fallbackSupabaseUrl = 'http://127.0.0.1:54321';
 const fallbackSupabaseAnonKey = 'missing-public-anon-key';
 
 if (!supabaseUrl || !supabaseAnonKey) {
-  console.error(
+  console.warn(
     '[Supabase] Missing PUBLIC_SUPABASE_URL or PUBLIC_SUPABASE_ANON_KEY. Using safe fallback client; auth/network calls may fail until env is configured.'
   );
 }
