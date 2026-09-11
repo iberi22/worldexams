@@ -1,0 +1,49 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Emilio estudia mapas y minerales">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFF6E8"/>
+      <stop offset="100%" stop-color="#FDF6EC"/>
+    </linearGradient>
+  </defs>
+  <!-- Plano Fondo: Pared con ventana y mapa -->
+  <rect width="800" height="450" fill="url(#bg2)"/>
+  <!-- Ventana iluminada -->
+  <rect x="520" y="60" width="200" height="160" rx="10" fill="#E0FBFC" stroke="#8B5A2B" stroke-width="6"/>
+  <line x1="620" y1="60" x2="620" y2="220" stroke="#8B5A2B" stroke-width="4"/>
+  <line x1="520" y1="140" x2="720" y2="140" stroke="#8B5A2B" stroke-width="4"/>
+  <!-- Cerro verde visible por la ventana -->
+  <path d="M 520 200 Q 600 150 720 180 L 720 220 L 520 220 Z" fill="#4FB6A3"/>
+
+  <!-- Mapa en la pared -->
+  <rect x="100" y="60" width="180" height="120" fill="#FFE3B3" stroke="#8B5A2B" stroke-width="3" rx="4"/>
+  <path d="M 120 100 Q 150 80 180 110 Q 220 90 260 130" stroke="#4FB6A3" stroke-width="3" fill="none"/>
+  <circle cx="200" cy="110" r="5" fill="#E26D5A"/>
+
+  <!-- Plano Medio: Escritorio de madera con libros y muestras de rocas -->
+  <rect x="60" y="260" width="680" height="190" fill="#8B5A2B" rx="8"/>
+  <rect x="50" y="250" width="700" height="20" fill="#A06D3B" rx="4"/>
+
+  <!-- Libros apilados -->
+  <rect x="100" y="200" width="90" height="18" fill="#3D5A80" rx="3"/>
+  <rect x="105" y="218" width="80" height="18" fill="#E26D5A" rx="3"/>
+  <rect x="95" y="236" width="100" height="18" fill="#4FB6A3" rx="3"/>
+
+  <!-- Colección de rocas numeradas en bandeja -->
+  <rect x="500" y="225" width="160" height="30" fill="#D3D3D3" rx="4" stroke="#8B5A2B" stroke-width="2"/>
+  <polygon points="520,220 530,210 540,222" fill="#E0FBFC" stroke="#293241" stroke-width="2"/>
+  <polygon points="560,222 572,208 584,222" fill="#FFE3B3" stroke="#293241" stroke-width="2"/>
+  <polygon points="610,222 622,212 632,224" fill="#C97B3D" stroke="#293241" stroke-width="2"/>
+
+  <!-- Plano Frente: Emilio estudiando contento -->
+  <g transform="translate(300, 130) scale(0.9)">
+    <rect x="65" y="115" width="70" height="70" rx="15" fill="#3D5A80"/>
+    <circle cx="100" cy="78" r="34" fill="#F4A261"/>
+    <path d="M 64 78 Q 62 42 100 40 Q 138 42 136 78 Z" fill="#3A2E2A"/>
+    <circle cx="84" cy="74" r="7" fill="#FFFFFF"/>
+    <circle cx="85" cy="75" r="3.5" fill="#232D36"/>
+    <circle cx="114" cy="74" r="7" fill="#FFFFFF"/>
+    <circle cx="115" cy="75" r="3.5" fill="#232D36"/>
+    <path d="M 88 88 Q 100 98 112 88" stroke="#3A2E2A" stroke-width="3" fill="none"/>
+  </g>
+</svg>

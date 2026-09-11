@@ -1,0 +1,33 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Techo con hueco central para el árbol y ventana de vidrio al cielo">
+  <!-- Plano Fondo: Cielo azul brillante a través del techo -->
+  <rect width="800" height="450" fill="#E6F4F8"/>
+  <circle cx="200" cy="90" r="50" fill="#FF9F43" opacity="0.3"/>
+  <path d="M500 80 Q530 60 570 70 Q600 50 640 70 Q660 90 630 110 Q560 120 500 80 Z" fill="#FFFFFF" opacity="0.8"/>
+  <!-- Ramas frondosas del Abuelo Ceiba saliendo por el techo hacia el cielo -->
+  <g transform="translate(400, 100)">
+    <path d="M-30 150 Q-10 40 -80 -20 Q-30 0 0 80 Q30 0 80 -20 Q10 40 30 150 Z" fill="#8D5B4C"/>
+    <circle cx="-90" cy="-30" r="45" fill="#588B42"/>
+    <circle cx="90" cy="-30" r="45" fill="#588B42"/>
+    <circle cx="0" cy="-60" r="60" fill="#7BAE5A"/>
+  </g>
+  <!-- Plano Medio: Techo de la casa vista desde dentro / abajo con gran tragaluz / ventana transparente -->
+  <!-- Estructura de vigas de madera -->
+  <path d="M0 0 L250 180 L250 450 L0 450 Z" fill="#D7CCC8"/>
+  <path d="M800 0 L550 180 L550 450 L800 450 Z" fill="#D7CCC8"/>
+  <path d="M0 0 L800 0 L550 180 L250 180 Z" fill="#BCAAA4"/>
+  <!-- Hueco circular y tragaluz de vidrio con marco turquesa -->
+  <circle cx="400" cy="220" r="140" fill="none" stroke="#4FB6A3" stroke-width="12"/>
+  <circle cx="400" cy="220" r="128" fill="#5B6FD6" opacity="0.12"/>
+  <!-- Lineas de reflejo de vidrio transparente -->
+  <path d="M320 160 L440 280 M350 140 L460 250" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" opacity="0.7"/>
+  <!-- Tronco atravesando suavemente el centro del hueco -->
+  <path d="M360 450 Q380 280 370 180 L430 180 Q420 280 440 450 Z" fill="#8D5B4C"/>
+  <!-- Plano Frente: Pajaritos felices en la ventana mirando hacia adentro -->
+  <circle cx="310" cy="190" r="12" fill="#FF9F43"/>
+  <polygon points="298,190 290,186 298,194" fill="#3A2E2A"/>
+  <circle cx="308" cy="187" r="2" fill="#3A2E2A"/>
+  <circle cx="490" cy="230" r="14" fill="#4FB6A3"/>
+  <polygon points="504,230 512,226 504,234" fill="#3A2E2A"/>
+  <circle cx="488" cy="227" r="2" fill="#3A2E2A"/>
+</svg>
