@@ -1,5 +1,7 @@
 /* © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. */
 
+@import './fuentes.css';
+
 :root {
   /* Paleta base Cuentos (cálida, excepción al tema oscuro edge-hive) */
   --cuento-bg-hueso: #FDF6EC;
@@ -36,7 +38,7 @@
 .cuentos-theme-root {
   background-color: var(--cuento-bg-hueso);
   color: var(--cuento-tinta);
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-family: var(--font-cuentos-cuerpo, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif);
 }
 
 /* Keyframes de animación */
