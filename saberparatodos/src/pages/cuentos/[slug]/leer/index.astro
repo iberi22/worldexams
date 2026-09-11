@@ -1,0 +1,50 @@
+---
+// © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados.
+import Layout from '../../../../layouts/Layout.astro';
+import { getAllCuentosCatalog, getCuentoBySlug } from '../../../../lib/cuentos/cuentos-catalog';
+import LectorInmersivo from '../../../../components/cuentos/lector/LectorInmersivo.svelte';
+
+export const prerender = true;
+
+export async function getStaticPaths() {
+  const catalog = await getAllCuentosCatalog();
+  return catalog.map((c) => ({
+    params: { slug: c.slug },
+  }));
+}
+
+const { slug } = Astro.params;
+const cuento = await getCuentoBySlug(slug || '');
+
+if (!cuento) {
+  return new Response(null, { status: 404, statusText: 'Not Found' });
+}
+
+Astro.response.headers.set(
+  'Cache-Control',
+  'public, max-age=86400, s-maxage=604800, stale-while-revalidate=86400'
+);
+
+const pageTitle = `${cuento.titulo} | Cuentos SaberParaTodos`;
+const rawDescription = cuento.valor
+  ? `Lectura inmersiva del cuento infantil ${cuento.titulo} sobre ${cuento.valor}.`
+  : `Lectura inmersiva del cuento infantil ${cuento.titulo}.`;
+const pageDescription = rawDescription.length > 160 ? `${rawDescription.slice(0, 159)}…` : rawDescription;
+---
+
+<Layout
+  title={pageTitle}
+  description={pageDescription}
+  image={cuento.coverEscena || '/og-image.svg'}
+  type="article"
+  noindex={true}
+  showNavbar={false}
+  showFooter={false}
+  showCountryBanner={false}
+>
+  <meta slot="head" name="robots" content="noindex, nofollow" />
+
+  <div class="min-h-screen bg-[#121832] flex flex-col items-center justify-center">
+    <LectorInmersivo cuento={cuento} client:load />
+  </div>
+</Layout>
