@@ -1,5 +1,6 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import PuertaLibro from '../../components/cuentos/PuertaLibro.svelte';
 import { getAllCuentosCatalog, getCuentoBySlug } from '../../lib/cuentos/cuentos-catalog';
 
 export const prerender = true;
@@ -96,6 +97,20 @@ const bookSchema = {
   <script is:inline type="application/ld+json" set:html={JSON.stringify(bookSchema)} />
 
   <div class="min-h-screen bg-[#FDF6EC] text-[#3A2E2A] font-sans antialiased pb-16">
+    <!-- Puerta del libro (C7.02): cover + blurb + CTA a /leer/ -->
+    <PuertaLibro
+      client:load
+      cuento={{
+        slug: cuento.slug,
+        titulo: cuento.titulo,
+        edad: cuento.edad,
+        valor: cuento.valor,
+        habitat: cuento.habitat,
+        personajes: cuento.personajes,
+        paginas: cuento.paginas,
+        coverEscena: cuento.coverEscena,
+      }}
+    />
     <!-- Breadcrumb Header -->
     <header class="border-b border-[#3A2E2A]/10 bg-[#FDF6EC]/80 backdrop-blur-sm sticky top-0 z-10">
       <div class="max-w-4xl mx-auto px-4 py-3 flex items-center justify-between text-sm">
