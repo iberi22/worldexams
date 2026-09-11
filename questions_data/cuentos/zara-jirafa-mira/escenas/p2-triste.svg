@@ -1,0 +1,40 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Mote el suricata escondido y triste detras de las hierbas">
+  <!-- PLANO 1: FONDO (Cielo y terreno amplio) -->
+  <rect width="800" height="450" fill="#FDF6EC"/>
+  <path d="M 0 0 L 800 0 L 800 220 Q 400 240 0 220 Z" fill="#FFE3B3" opacity="0.5"/>
+
+  <!-- PLANO 2: MEDIO (Monticulos de tierra y vegetacion baja de sabana) -->
+  <path d="M 0 240 Q 250 210 500 250 Q 680 270 800 230 L 800 450 L 0 450 Z" fill="#E8B04B" opacity="0.5"/>
+  <!-- Monticulo de tierra para esconderse -->
+  <path d="M 150 380 Q 300 260 450 380 Z" fill="#C97B3D"/>
+
+  <!-- PLANO 3: FRENTE (Mote asomando apenas la cabeza con mirada triste) -->
+  <path d="M 0 350 Q 400 330 800 350 L 800 450 L 0 450 Z" fill="#E8B04B"/>
+
+  <!-- Mote escondido detras del monticulo -->
+  <g transform="translate(240, 240)">
+    <!-- Orejitas -->
+    <circle cx="48" cy="62" r="7" fill="#3A2E2A"/>
+    <circle cx="112" cy="62" r="7" fill="#3A2E2A"/>
+    <!-- Cabeza asomando -->
+    <ellipse cx="80" cy="70" rx="28" ry="22" fill="#E8B04B"/>
+    <ellipse cx="80" cy="78" rx="18" ry="11" fill="#FFF6E8"/>
+    <!-- Manchas oscuras de los ojos -->
+    <ellipse cx="65" cy="66" rx="9" ry="8" fill="#3A2E2A"/>
+    <ellipse cx="95" cy="66" rx="9" ry="8" fill="#3A2E2A"/>
+    <!-- Ojos tristes (pupilas mirando abajo) -->
+    <circle cx="65" cy="66" r="6" fill="#FFFFFF"/>
+    <circle cx="65" cy="68" r="3" fill="#3A2E2A"/>
+    <circle cx="95" cy="66" r="6" fill="#FFFFFF"/>
+    <circle cx="95" cy="68" r="3" fill="#3A2E2A"/>
+    <!-- Nariz y boquita triste (curva invertida) -->
+    <polygon points="77,74 83,74 80,78" fill="#3A2E2A"/>
+    <path d="M 74 84 Q 80 80 86 84" fill="none" stroke="#3A2E2A" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <!-- Hierbas secas al frente tapando a Mote -->
+  <path d="M 200 380 L 215 320 L 230 380 Z" fill="#7BAE5A"/>
+  <path d="M 220 380 L 240 300 L 255 380 Z" fill="#E8B04B"/>
+  <path d="M 330 380 L 350 310 L 365 380 Z" fill="#7BAE5A"/>
+</svg>
