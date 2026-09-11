@@ -2,6 +2,8 @@
 <script lang="ts">
   import '../arte/tokens.css';
   import EscenaSVG, { type PiezaInstancia, type EscenaPlanos } from '../arte/EscenaSVG.svelte';
+  import EscenaParallax, { type EscenaCapas } from '../arte/EscenaParallax.svelte';
+  import { getTanaLayeredPlanes, hasLayeredScene } from '../arte/escenas-capas/tana';
 
   export interface Hotspot {
     id: string;
@@ -16,6 +18,9 @@
     hotspots?: Hotspot[];
     piezas?: PiezaInstancia[];
     escena?: EscenaPlanos;
+    cuentoSlug?: string;
+    paginaNumero?: number;
+    escenaCapas?: EscenaCapas;
     tituloAccesible?: string;
     descripcionAccesible?: string;
     className?: string;
@@ -26,6 +31,9 @@
     hotspots = [],
     piezas = [],
     escena = {},
+    cuentoSlug,
+    paginaNumero,
+    escenaCapas,
     tituloAccesible = 'Escena interactiva',
     descripcionAccesible = '',
     className = '',
@@ -34,6 +42,17 @@
 
   let activeHotspotId = $state<string | null>(null);
   let activeReaction = $state<string | null>(null);
+
+  // Determine whether layered planes exist for this page or prop
+  const activeLayeredPlanes = $derived.by(() => {
+    if (escenaCapas && escenaCapas.fondo && escenaCapas.medio && escenaCapas.frente) {
+      return escenaCapas;
+    }
+    if (cuentoSlug && paginaNumero && hasLayeredScene(cuentoSlug, paginaNumero)) {
+      return getTanaLayeredPlanes(paginaNumero);
+    }
+    return null;
+  });
 
   /**
    * Generates a WebAudio blip sound with zero audio files or external network requests.
@@ -100,55 +119,61 @@
 </script>
 
 <div class="cuento-escena-interactiva {className}">
-  <div class="cuento-escena-wrapper">
-    <!-- Base Scene SVG rendering 3 planes from C1.04 system -->
-    <EscenaSVG
-      {piezas}
-      {escena}
+  {#if activeLayeredPlanes}
+    <!-- 2.5D Parallax Scene Path (Pilot cuentos e.g. Tana) -->
+    <EscenaParallax
+      escenaCapas={activeLayeredPlanes}
+      {hotspots}
       {tituloAccesible}
       {descripcionAccesible}
-      hotspots={[]}
+      {onHotspotTrigger}
     />
+  {:else}
+    <!-- Flat Scene SVG Path (Fallback for non-pilot cuentos) -->
+    <div class="cuento-escena-wrapper">
+      <EscenaSVG
+        {piezas}
+        {escena}
+        {tituloAccesible}
+        {descripcionAccesible}
+        hotspots={[]}
+      />
 
-    <!-- Interactive Hotspots Layer SVG Overlay -->
-    <svg
-      viewBox="0 0 800 450"
-      class="cuento-hotspots-overlay"
-      aria-hidden="false"
-    >
-      <g id="interactive-hotspots-layer">
-        {#each hotspots as hs (hs.id)}
-          <g
-            class="cuento-hotspot-zone {activeHotspotId === hs.id ? activeReaction : ''}"
-            data-hotspot-id={hs.id}
-            data-reaction={hs.accion || 'salto'}
-            data-active={activeHotspotId === hs.id ? 'true' : 'false'}
-            transform={`translate(${hs.x}, ${hs.y})`}
-            role="button"
-            tabindex="0"
-            aria-label={hs.etiqueta}
-            onclick={() => triggerHotspot(hs)}
-            onkeydown={(e) => {
-              if (e.key === 'Enter' || e.key === ' ') {
-                e.preventDefault();
-                triggerHotspot(hs);
-              }
-            }}
-          >
-            <!-- Hitbox circle r=50 ensures >=48px touch target size on mobile and desktop -->
-            <circle cx="0" cy="0" r="50" fill="transparent" class="cuento-hitbox" />
-
-            <!-- Breathing outer accent aura -->
-            <circle cx="0" cy="0" r="22" fill="#FF9F43" opacity="0.35" class="cuento-respira" />
-
-            <!-- Focusable touch target marker ring -->
-            <circle cx="0" cy="0" r="14" fill="#FF9F43" stroke="#FFFFFF" stroke-width="3" class="cuento-marker-outer" />
-            <circle cx="0" cy="0" r="5" fill="#FFFFFF" class="cuento-marker-inner" />
-          </g>
-        {/each}
-      </g>
-    </svg>
-  </div>
+      <!-- Interactive Hotspots Layer SVG Overlay -->
+      <svg
+        viewBox="0 0 800 450"
+        class="cuento-hotspots-overlay"
+        aria-hidden="false"
+      >
+        <g id="interactive-hotspots-layer">
+          {#each hotspots as hs (hs.id)}
+            <g
+              class="cuento-hotspot-zone {activeHotspotId === hs.id ? activeReaction : ''}"
+              data-hotspot-id={hs.id}
+              data-reaction={hs.accion || 'salto'}
+              data-active={activeHotspotId === hs.id ? 'true' : 'false'}
+              transform={`translate(${hs.x}, ${hs.y})`}
+              role="button"
+              tabindex="0"
+              aria-label={hs.etiqueta}
+              onclick={() => triggerHotspot(hs)}
+              onkeydown={(e) => {
+                if (e.key === 'Enter' || e.key === ' ') {
+                  e.preventDefault();
+                  triggerHotspot(hs);
+                }
+              }}
+            >
+              <circle cx="0" cy="0" r="50" fill="transparent" class="cuento-hitbox" />
+              <circle cx="0" cy="0" r="22" fill="#FF9F43" opacity="0.35" class="cuento-respira" />
+              <circle cx="0" cy="0" r="14" fill="#FF9F43" stroke="#FFFFFF" stroke-width="3" class="cuento-marker-outer" />
+              <circle cx="0" cy="0" r="5" fill="#FFFFFF" class="cuento-marker-inner" />
+            </g>
+          {/each}
+        </g>
+      </svg>
+    </div>
+  {/if}
 </div>
 
 <style>

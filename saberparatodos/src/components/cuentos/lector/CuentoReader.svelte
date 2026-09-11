@@ -261,7 +261,7 @@
     border-radius: 1.25rem;
     box-shadow: 0 8px 24px rgba(58, 46, 42, 0.08);
     box-sizing: border-box;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    font-family: var(--font-cuentos-cuerpo, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif);
   }
 
   .reader-header {
@@ -285,6 +285,7 @@
     font-size: 1.25rem;
     font-weight: 700;
     color: var(--cuento-tinta, #3A2E2A);
+    font-family: var(--font-cuentos-display, system-ui, sans-serif);
   }
 
   .header-controls {
@@ -424,6 +425,7 @@
     line-height: 1.75;
     color: var(--cuento-tinta, #3A2E2A);
     font-weight: 500;
+    font-family: var(--font-cuentos-cuerpo, system-ui, sans-serif);
   }
 
   .reader-footer {
