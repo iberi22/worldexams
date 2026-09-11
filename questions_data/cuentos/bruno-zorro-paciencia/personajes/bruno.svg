@@ -1,0 +1,34 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Bruno el zorro fenec">
+  <!-- Oreja izquierda (grande de fenec) -->
+  <path d="M 65 80 Q 20 10 50 100 Z" fill="#E8B04B"/>
+  <path d="M 62 82 Q 30 25 52 95 Z" fill="#FCEBD0"/>
+  <!-- Oreja derecha (grande de fenec) -->
+  <path d="M 135 80 Q 180 10 150 100 Z" fill="#E8B04B"/>
+  <path d="M 138 82 Q 170 25 148 95 Z" fill="#FCEBD0"/>
+  <!-- Cola con punta blanca -->
+  <path d="M 140 145 Q 185 130 170 170 Q 145 185 125 160 Z" fill="#E8B04B"/>
+  <path d="M 160 148 Q 185 130 170 170 Z" fill="#FFF6E8"/>
+  <!-- Cuerpo -->
+  <ellipse cx="100" cy="142" rx="42" ry="48" fill="#E8B04B"/>
+  <!-- Pecho claro -->
+  <ellipse cx="100" cy="148" rx="24" ry="30" fill="#FFF6E8"/>
+  <!-- Cabeza -->
+  <ellipse cx="100" cy="98" rx="36" ry="30" fill="#E8B04B"/>
+  <!-- Hocico blanco -->
+  <ellipse cx="100" cy="108" rx="18" ry="12" fill="#FFF6E8"/>
+  <ellipse cx="100" cy="103" rx="5" ry="4" fill="#3A2E2A"/>
+  <!-- Ojos plantilla común -->
+  <circle cx="84" cy="90" r="10" fill="#FFFFFF"/>
+  <circle cx="85" cy="91" r="5" fill="#3A2E2A"/>
+  <circle cx="87" cy="89" r="2" fill="#FFFFFF"/>
+  <circle cx="116" cy="90" r="10" fill="#FFFFFF"/>
+  <circle cx="115" cy="91" r="5" fill="#3A2E2A"/>
+  <circle cx="113" cy="89" r="2" fill="#FFFFFF"/>
+  <!-- Mejillas -->
+  <circle cx="72" cy="102" r="5" fill="#E26D5A" opacity="0.45"/>
+  <circle cx="128" cy="102" r="5" fill="#E26D5A" opacity="0.45"/>
+  <!-- Patas simétricas -->
+  <rect x="82" y="178" width="12" height="14" rx="6" fill="#D49933"/>
+  <rect x="106" y="178" width="12" height="14" rx="6" fill="#D49933"/>
+</svg>
