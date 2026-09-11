@@ -1,0 +1,43 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Lila pide ayuda a Tom el pez globo y a Vela la gaviota">
+  <!-- Plano 1: Cielo y Superficie del Mar -->
+  <rect width="800" height="200" fill="#CAF0F8"/>
+  <rect y="200" width="800" height="250" fill="#0077B6"/>
+  <!-- Sol -->
+  <circle cx="100" cy="60" r="40" fill="#FFB703" opacity="0.85"/>
+
+  <!-- Olas -->
+  <path d="M 0 200 Q 130 180 260 200 T 520 200 T 800 200 L 800 220 L 0 220 Z" fill="#0096C7"/>
+
+  <!-- Plano 2: Vela la gaviota en el aire (arriba derecha) -->
+  <g transform="translate(540, 40) scale(0.65)">
+    <ellipse cx="100" cy="120" rx="30" ry="42" fill="#FFFFFF"/>
+    <circle cx="100" cy="65" r="28" fill="#FFFFFF"/>
+    <polygon points="100,70 128,75 100,82" fill="#FFC107"/>
+    <path d="M90 100 Q40 60 10 90 Q40 110 85 115 Z" fill="#90A4AE"/>
+    <path d="M110 100 Q160 60 190 90 Q160 110 115 115 Z" fill="#90A4AE"/>
+    <circle cx="88" cy="60" r="6" fill="#FFFFFF"/>
+    <circle cx="89" cy="61" r="3" fill="#232D36"/>
+  </g>
+
+  <!-- Plano 3: Lila la tortuga y Tom el pez globo bajo el agua -->
+  <!-- Lila (centro izquierda) -->
+  <g transform="translate(200, 230) scale(0.8)">
+    <ellipse cx="100" cy="116" rx="54" ry="44" fill="#4FB6A3"/>
+    <circle cx="100" cy="58" r="34" fill="#4FB6A3"/>
+    <circle cx="85" cy="52" r="8" fill="#FFFFFF"/>
+    <circle cx="86" cy="53" r="4" fill="#232D36"/>
+    <circle cx="115" cy="52" r="8" fill="#FFFFFF"/>
+    <circle cx="114" cy="53" r="4" fill="#232D36"/>
+  </g>
+
+  <!-- Tom el pez globo (centro derecha) -->
+  <g transform="translate(420, 250) scale(0.75)">
+    <circle cx="100" cy="100" r="55" fill="#FFB74D"/>
+    <ellipse cx="100" cy="115" rx="42" ry="32" fill="#FFF8E1"/>
+    <circle cx="82" cy="88" r="9" fill="#FFFFFF"/>
+    <circle cx="83" cy="89" r="4" fill="#232D36"/>
+    <circle cx="118" cy="88" r="9" fill="#FFFFFF"/>
+    <circle cx="117" cy="89" r="4" fill="#232D36"/>
+  </g>
+</svg>

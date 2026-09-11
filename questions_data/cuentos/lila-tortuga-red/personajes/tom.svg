@@ -1,0 +1,32 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Tom el pez globo">
+  <!-- espinas suavizadas alrededor del cuerpo -->
+  <polygon points="50,100 35,90 45,105" fill="#FFB74D"/>
+  <polygon points="50,120 35,125 45,115" fill="#FFB74D"/>
+  <polygon points="150,100 165,90 155,105" fill="#FFB74D"/>
+  <polygon points="150,120 165,125 155,115" fill="#FFB74D"/>
+  <polygon points="100,45 90,30 105,40" fill="#FFB74D"/>
+  <polygon points="100,155 90,170 105,160" fill="#FFB74D"/>
+  <!-- aleta caudal (cola) -->
+  <polygon points="40,100 15,80 15,120" fill="#FFA726"/>
+  <!-- cuerpo redondo amigable -->
+  <circle cx="100" cy="100" r="55" fill="#FFB74D"/>
+  <!-- barriga clara -->
+  <ellipse cx="100" cy="115" rx="42" ry="32" fill="#FFF8E1"/>
+  <!-- aletas laterales -->
+  <ellipse cx="50" cy="105" rx="12" ry="8" fill="#FFA726" transform="rotate(-20 50 105)"/>
+  <ellipse cx="150" cy="105" rx="12" ry="8" fill="#FFA726" transform="rotate(20 150 105)"/>
+  <!-- pecas/moteado -->
+  <circle cx="80" cy="70" r="3" fill="#FB8C00"/>
+  <circle cx="120" cy="70" r="3" fill="#FB8C00"/>
+  <circle cx="100" cy="65" r="4" fill="#FB8C00"/>
+  <!-- boca infladita y alegre -->
+  <ellipse cx="100" cy="118" rx="8" ry="6" fill="#E26D5A"/>
+  <!-- ojos plantilla común -->
+  <circle cx="82" cy="88" r="11" fill="#FFFFFF"/>
+  <circle cx="83" cy="89" r="5" fill="#232D36"/>
+  <circle cx="85" cy="87" r="2" fill="#FFFFFF"/>
+  <circle cx="118" cy="88" r="11" fill="#FFFFFF"/>
+  <circle cx="117" cy="89" r="5" fill="#232D36"/>
+  <circle cx="115" cy="87" r="2" fill="#FFFFFF"/>
+</svg>
