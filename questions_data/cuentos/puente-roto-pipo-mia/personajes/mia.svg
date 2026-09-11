@@ -1,0 +1,42 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Mía la mapache">
+  <!-- Cola anillada -->
+  <path d="M125 150 Q165 140 155 175 Q145 190 120 170" fill="none" stroke="#7E8C9B" stroke-width="20" stroke-linecap="round"/>
+  <path d="M130 148 Q145 145 142 160" fill="none" stroke="#3A2E2A" stroke-width="12" stroke-linecap="round"/>
+  <path d="M142 163 Q152 172 135 175" fill="none" stroke="#3A2E2A" stroke-width="12" stroke-linecap="round"/>
+  <!-- Orejas -->
+  <circle cx="68" cy="52" r="18" fill="#7E8C9B"/>
+  <circle cx="68" cy="52" r="10" fill="#EBF0F5"/>
+  <circle cx="132" cy="52" r="18" fill="#7E8C9B"/>
+  <circle cx="132" cy="52" r="10" fill="#EBF0F5"/>
+  <!-- Cuerpo -->
+  <ellipse cx="100" cy="130" rx="44" ry="50" fill="#7E8C9B"/>
+  <!-- Pecho claro -->
+  <ellipse cx="100" cy="138" rx="25" ry="30" fill="#EBF0F5"/>
+  <!-- Moño de firma #9B7EDE -->
+  <circle cx="132" cy="40" r="7" fill="#9B7EDE"/>
+  <path d="M125 40 L132 40 L125 46 Z" fill="#BFA3EE"/>
+  <path d="M139 40 L132 40 L139 46 Z" fill="#BFA3EE"/>
+  <!-- Cabeza -->
+  <circle cx="100" cy="74" r="37" fill="#7E8C9B"/>
+  <path d="M68 88 Q100 108 132 88 Q100 95 68 88 Z" fill="#EBF0F5"/>
+  <!-- Antifaz mapache -->
+  <ellipse cx="80" cy="72" rx="15" ry="11" fill="#3A2E2A" transform="rotate(-10 80 72)"/>
+  <ellipse cx="120" cy="72" rx="15" ry="11" fill="#3A2E2A" transform="rotate(10 120 72)"/>
+  <!-- Ojos grandes -->
+  <circle cx="81" cy="71" r="7" fill="#FFFFFF"/>
+  <circle cx="82" cy="72" r="3" fill="#232D36"/>
+  <circle cx="83" cy="70" r="1.5" fill="#FFFFFF"/>
+  <circle cx="119" cy="71" r="7" fill="#FFFFFF"/>
+  <circle cx="118" cy="72" r="3" fill="#232D36"/>
+  <circle cx="117" cy="70" r="1.5" fill="#FFFFFF"/>
+  <!-- Hocico y nariz -->
+  <ellipse cx="100" cy="80" rx="6" ry="4" fill="#3A2E2A"/>
+  <path d="M96 85 Q100 89 104 85" fill="none" stroke="#3A2E2A" stroke-width="2" stroke-linecap="round"/>
+  <!-- Mejillas de alegría -->
+  <circle cx="68" cy="80" r="6" fill="#E26D5A" opacity="0.5"/>
+  <circle cx="132" cy="80" r="6" fill="#E26D5A" opacity="0.5"/>
+  <!-- Patas -->
+  <rect x="80" y="174" width="12" height="14" rx="6" fill="#3A2E2A"/>
+  <rect x="108" y="174" width="12" height="14" rx="6" fill="#3A2E2A"/>
+</svg>
