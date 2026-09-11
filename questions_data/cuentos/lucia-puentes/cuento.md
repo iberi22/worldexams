@@ -16,34 +16,50 @@ version: 1
 ## Pagina 1
 ![alt: Dos pueblos separados por un gran río](escenas/p1-pueblos.svg)
 Había una vez dos pueblos vecinos separados por un río ancho y ruidoso. La gente del pueblo del sol no conocía a la gente del pueblo de la luna. Para hablar o saludarse, tenían que gritar desde la orilla. Ninguno podía cruzar porque el agua corría muy rápido.
+> Para conversar en familia: Pide a tu niña o niño que grite un saludo cariñoso como si estuviera en la orilla del río.
+**Palabras nuevas:** pueblos, río, orilla
 
 ## Pagina 2
 ![alt: Lucía niña construyendo un puente de palitos que se cae](escenas/p2-palitos.svg)
 De pequeña, a Lucía le gustaba armar puentes con palitos y lana. Cada vez que ponía un juguete encima, los palitos se doblaban y ¡pum!, el puente caía al suelo. Pero Lucía no se ponía triste. Ella sonreía, tomaba su cuaderno y decía: cada puente caído enseña algo nuevo.
+> Para conversar en familia: Conversen sobre cómo una sonrisa ayuda a intentar de nuevo cuando algo se cae o falla.
+**Palabras nuevas:** palitos, juguete, cuaderno
 
 ## Pagina 3
 ![alt: La maestra enseña a Lucía la forma del arco](escenas/p3-estudio.svg)
 En la escuela, su maestra le mostró cómo los puentes fuertes se sostienen. Le enseñó a dibujar una curva especial llamada arco. La maestra explicó que la curva del arco no guarda toda la carga en el centro, sino que reparte el peso hacia los lados, enviando la fuerza directo al suelo firme.
+> Para conversar en familia: Dibujen con el dedo la curva de un arco en el aire y sientan la fuerza de su forma.
+**Palabras nuevas:** curva, arco, centro
 
 ## Pagina 4
 ![alt: Lucía prueba una maqueta en arco con diez piedras](escenas/p4-maqueta.svg)
 Lucía construyó una maqueta curva usando cartón, regla y cuerda para medir. Colocó una piedra pequeña encima y el arco resistió. Puso otra y otra más. Con paciencia sumó diez piedras sobre la estructura. Su hermano Nico aplaudió al ver que el puente de prueba aguanta todo ese peso sin doblarse.
+> Para conversar en familia: Cuenten hasta diez piedras imaginarias mientras acompañan la paciencia de Lucía al probar su maqueta.
+**Palabras nuevas:** maqueta, regla, piedras
 
 ## Pagina 5
 ![alt: Lucía dibuja planos y mide con su equipo de ingenieros](escenas/p5-planos.svg)
 Al crecer, Lucía se convirtió en ingeniera civil. Tomó su casco terracota, desplegó grandes planos de papel y midió el terreno con pasos y cintas largas. Junto a su equipo de constructoras y obreros, comenzó la obra del gran puente de piedra con un arco fuerte sobre el río.
+> Para conversar en familia: Observen el casco de Lucía y conversen sobre el gran trabajo de construir un puente firme.
+**Palabras nuevas:** casco, planos, terreno
 
 ## Pagina 6
 ![alt: Nico cruza el nuevo puente el día de la inauguración](escenas/p6-inauguracion.svg)
 El día de la gran apertura llegó con música y cintas de colores. Su hermano Nico caminó despacio sobre el puente para ser el primero en cruzar. El arco firme no se movió ni un poquito. Desde ambas orillas, las familias aplaudieron con alegría al ver la obra terminada.
+> Para conversar en familia: Den un aplauso fuerte en familia celebrando la alegría de ver el camino abierto para todos.
+**Palabras nuevas:** música, colores, alegría
 
 ## Pagina 7
 ![alt: Los dos pueblos celebran un gran mercado en el puente](escenas/p7-mercado.svg)
 Gracias al nuevo puente, los habitantes de ambos pueblos se encontraron en el centro. Organizaron un gran mercado donde compartían frutas, pan fresco, cuentos y sonrisas. La gente de la montaña y del valle por fin se abrazó como amigos que celebran juntos todos los días.
+> Para conversar en familia: Miren las frutas del mercado en la imagen y conversen sobre el gusto de reunirse a compartir.
+**Palabras nuevas:** mercado, frutas, sonrisas
 
 ## Pagina 8
 ![alt: Lucía enseña a otros niños a construir maquetas de arcos](escenas/p8-moraleja.svg)
 Lucía miraba el mercado feliz mientras le enseñaba a otros niños a medir con cuerda y regla. Les contaba con orgullo que cada puente caído enseña a hacer el que aguanta. Porque cuando estudiamos y corregimos los errores con perseverancia, logramos construir caminos que unen a las personas.
+> Para conversar en familia: Conversen en familia sobre lo valioso que es estudiar y perseverar para superar cualquier dificultad.
+**Palabras nuevas:** orgullo, perseverancia, personas
 
 ## Quiz
 ### Pregunta 1
