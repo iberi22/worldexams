@@ -1,0 +1,24 @@
+---
+// © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados.
+import HudCuentos from './HudCuentos.svelte';
+import './shell.css';
+
+interface Props {
+  className?: string;
+}
+
+const { className = '' } = Astro.props;
+---
+
+<div class={`cuento-night-wrapper ${className}`}>
+  <!-- Star dust ambient background -->
+  <div class="cuento-star-dust" aria-hidden="true"></div>
+
+  <!-- Persistent HUD for Cuentos Reading Mode -->
+  <HudCuentos client:load />
+
+  <!-- Main slot for Cuentos Reader Spread / Content -->
+  <main class="cuento-shell-content">
+    <slot />
+  </main>
+</div>
