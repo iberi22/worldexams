@@ -1,0 +1,46 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Todos sugieren cortar el árbol pero Tomás dice que no">
+  <!-- Plano Fondo: Cielo de tarde y lomas -->
+  <rect width="800" height="450" fill="#FDF6EC"/>
+  <path d="M0 280 Q250 230 500 270 T800 240 L800 450 L0 450 Z" fill="#E2EAD8"/>
+  <path d="M0 330 Q300 300 600 320 T800 310 L800 450 L0 450 Z" fill="#A2C987"/>
+  <!-- Abuelo Ceiba preocupa un poco pero sonríe a Tomás -->
+  <path d="M360 430 Q390 350 400 250 L460 250 Q470 350 500 430 Z" fill="#8D5B4C"/>
+  <circle cx="430" cy="150" r="100" fill="#588B42"/>
+  <circle cx="360" cy="180" r="75" fill="#69A050"/>
+  <circle cx="500" cy="180" r="75" fill="#69A050"/>
+  <circle cx="430" cy="110" r="80" fill="#7BAE5A"/>
+  <!-- Carita atenta del árbol -->
+  <circle cx="415" cy="220" r="6" fill="#FFFFFF"/>
+  <circle cx="416" cy="221" r="3" fill="#3A2E2A"/>
+  <circle cx="445" cy="220" r="6" fill="#FFFFFF"/>
+  <circle cx="444" cy="221" r="3" fill="#3A2E2A"/>
+  <path d="M422 232 Q430 228 438 232" stroke="#3A2E2A" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  <!-- Símbolo de hacha cruzada con señal de PROHIBIDO / NO (terracota amable #E26D5A) -->
+  <g transform="translate(160, 180)">
+    <!-- Hacha simétrica -->
+    <rect x="35" y="10" width="10" height="70" rx="4" fill="#8D5B4C" transform="rotate(30 40 45)"/>
+    <path d="M45 20 Q65 15 60 35 Q50 40 40 30 Z" fill="#95A5A6"/>
+    <!-- Círculo de NO -->
+    <circle cx="40" cy="45" r="40" fill="none" stroke="#E26D5A" stroke-width="8"/>
+    <line x1="12" y1="17" x2="68" y2="73" stroke="#E26D5A" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <!-- Plano Frente: Tomás haciendo gesto de NO firme y amable -->
+  <g transform="translate(560, 210)">
+    <ellipse cx="60" cy="150" rx="32" ry="40" fill="#7BAE5A"/>
+    <circle cx="60" cy="85" r="30" fill="#FCE3C8"/>
+    <!-- Casco de Tomás -->
+    <path d="M28 75 C28 52 92 52 92 75 Z" fill="#FFD54F"/>
+    <rect x="22" y="73" width="76" height="5" rx="2.5" fill="#FFC107"/>
+    <!-- Ojos resueltos -->
+    <circle cx="48" cy="83" r="7" fill="#FFFFFF"/>
+    <circle cx="47" cy="84" r="3.5" fill="#3A2E2A"/>
+    <circle cx="72" cy="83" r="7" fill="#FFFFFF"/>
+    <circle cx="71" cy="84" r="3.5" fill="#3A2E2A"/>
+    <!-- Boca abierta diciendo ¡No! -->
+    <ellipse cx="60" cy="98" rx="6" ry="8" fill="#3A2E2A"/>
+    <!-- Brazo extendido hacia el frente diciendo no con la mano -->
+    <path d="M30 130 L-10 120" stroke="#7BAE5A" stroke-width="14" stroke-linecap="round"/>
+    <circle cx="-15" cy="120" r="10" fill="#FCE3C8"/>
+  </g>
+</svg>
