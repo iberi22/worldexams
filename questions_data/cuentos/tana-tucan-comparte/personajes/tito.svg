@@ -1,0 +1,35 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Tito el mono">
+  <!-- cola enroscada atrás -->
+  <path d="M 120 140 C 160 140, 170 180, 140 180 C 120 180, 130 160, 145 165" fill="none" stroke="#8B5A2B" stroke-width="12" stroke-linecap="round"/>
+  <!-- cuerpo -->
+  <ellipse cx="100" cy="130" rx="45" ry="50" fill="#8B5A2B"/>
+  <!-- barriga -->
+  <ellipse cx="100" cy="136" rx="28" ry="32" fill="#D2B48C"/>
+  <!-- cabeza -->
+  <circle cx="100" cy="70" r="42" fill="#8B5A2B"/>
+  <!-- orejas -->
+  <circle cx="58" cy="70" r="14" fill="#8B5A2B"/>
+  <circle cx="58" cy="70" r="8" fill="#D2B48C"/>
+  <circle cx="142" cy="70" r="14" fill="#8B5A2B"/>
+  <circle cx="142" cy="70" r="8" fill="#D2B48C"/>
+  <!-- cara (hocico redondeado) -->
+  <ellipse cx="100" cy="76" rx="30" ry="24" fill="#D2B48C"/>
+  <!-- nariz -->
+  <ellipse cx="100" cy="72" rx="6" ry="4" fill="#3A2E2A"/>
+  <!-- sonrisa -->
+  <path d="M 90 82 Q 100 90 110 82" fill="none" stroke="#3A2E2A" stroke-width="3" stroke-linecap="round"/>
+  <!-- ojos plantilla común -->
+  <circle cx="85" cy="58" r="10" fill="#FFFFFF"/>
+  <circle cx="86" cy="60" r="5" fill="#232D36"/>
+  <circle cx="88" cy="58" r="2" fill="#FFFFFF"/>
+  <circle cx="115" cy="58" r="10" fill="#FFFFFF"/>
+  <circle cx="116" cy="60" r="5" fill="#232D36"/>
+  <circle cx="118" cy="58" r="2" fill="#FFFFFF"/>
+  <!-- mejillas -->
+  <circle cx="72" cy="75" r="5" fill="#E26D5A" opacity="0.5"/>
+  <circle cx="128" cy="75" r="5" fill="#E26D5A" opacity="0.5"/>
+  <!-- patas/pies -->
+  <rect x="75" y="172" width="16" height="12" rx="6" fill="#8B5A2B"/>
+  <rect x="109" y="172" width="16" height="12" rx="6" fill="#8B5A2B"/>
+</svg>
