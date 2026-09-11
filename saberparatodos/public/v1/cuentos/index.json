@@ -1,5 +1,44 @@
 [
   {
+    "slug": "bruno-zorro-paciencia",
+    "titulo": "Bruno el zorro del desierto y el pozo de la paciencia",
+    "edad": "3-4",
+    "eje": "animales",
+    "habitat": "desierto",
+    "valor": "paciencia",
+    "paginas": 8,
+    "license": "PROPRIETARY-FREE-READ",
+    "version": 1,
+    "packUrl": "/v1/cuentos/bruno-zorro-paciencia.json",
+    "coverSvg": "escenas/p1-cava-rapido.svg"
+  },
+  {
+    "slug": "lila-tortuga-red",
+    "titulo": "Lila la tortuga y el dilema de la red",
+    "edad": "5-6",
+    "eje": "etica",
+    "habitat": "oceano",
+    "valor": "altruismo",
+    "paginas": 8,
+    "license": "PROPRIETARY-FREE-READ",
+    "version": 1,
+    "packUrl": "/v1/cuentos/lila-tortuga-red.json",
+    "coverSvg": "escenas/p1-red.svg"
+  },
+  {
+    "slug": "nieve-osa-hielo",
+    "titulo": "Nieve la osa polar y la promesa del hielo",
+    "edad": "4-5",
+    "eje": "animales",
+    "habitat": "tundra",
+    "valor": "responsabilidad",
+    "paginas": 8,
+    "license": "PROPRIETARY-FREE-READ",
+    "version": 1,
+    "packUrl": "/v1/cuentos/nieve-osa-hielo.json",
+    "coverSvg": "escenas/p1-adelgaza.svg"
+  },
+  {
     "slug": "tana-tucan-comparte",
     "titulo": "Tana la tucán que aprendió a compartir",
     "edad": "3-4",
@@ -11,5 +50,18 @@
     "version": 1,
     "packUrl": "/v1/cuentos/tana-tucan-comparte.json",
     "coverSvg": "escenas/p1-arbol.svg"
+  },
+  {
+    "slug": "zara-jirafa-mira",
+    "titulo": "Zara la jirafa que miraba lejos",
+    "edad": "3-4",
+    "eje": "animales",
+    "habitat": "sabana",
+    "valor": "empatia",
+    "paginas": 8,
+    "license": "PROPRIETARY-FREE-READ",
+    "version": 1,
+    "packUrl": "/v1/cuentos/zara-jirafa-mira.json",
+    "coverSvg": "escenas/p1-alto.svg"
   }
 ]
