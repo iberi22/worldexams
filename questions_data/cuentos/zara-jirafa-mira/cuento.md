@@ -20,6 +20,8 @@ muy largo. A Zara le gustaba mirar el cielo y contar las
 nubes esponjosas. Desde arriba veía todo grande y lejano. Cuando
 caminaba rápido entre los pastos, reía sin notar a los animales
 pequeños que pasaban abajo.
+> Para conversar en familia: Pide a tu niña o niño que estire los brazos hacia arriba como el cuello de Zara.
+**Palabras nuevas:** sabana, jirafa, nubes
 
 ## Pagina 2
 ![alt: Mote el suricata triste escondido detras de las hierbas](escenas/p2-triste.svg)
@@ -28,6 +30,8 @@ enormes patas de Zara pasaron muy cerca. El viento despeinó a
 Mote y lo asustó mucho. Se escondió triste detrás de una
 piedra alta y pensó que a Zara no le importaban los
 pequeños de la sabana.
+> Para conversar en familia: Pongan carita triste e imaginen cómo se sintió Mote detrás de la piedra.
+**Palabras nuevas:** suricata, semillas, viento
 
 ## Pagina 3
 ![alt: Zara dobla su cuello largo hasta tocar el suelo](escenas/p3-agacha.svg)
@@ -36,6 +40,8 @@ la mirada. Para ver bien, bajó su cuello poco a poco
 hasta tocar casi el pasto. Sus ojos amarillos vieron por
 primera vez el mundo chiquito de Mote: hormigas trabajadoras, flores
 ocultas y pequeñas piedras brillando al sol.
+> Para conversar en familia: Agáchense juntos hacia el suelo y observen las cosas chiquitas que hay a su alrededor.
+**Palabras nuevas:** suspiro, hormigas, flores
 
 ## Pagina 4
 ![alt: Zara y Mote se miran frente a frente y sonrien](escenas/p4-entiende.svg)
@@ -44,6 +50,8 @@ no me di cuenta desde tan alto.
 Mote la miró a los ojos y sonrió alegre. Zara entendió
 que para ser una buena amiga no basta con mirar lejos,
 también hay que agacharse y mirar de cerca.
+> Para conversar en familia: Miren a los ojos a su hija o hijo y sonrían juntos como hicieron Zara y Mote.
+**Palabras nuevas:** amiga, ojos, alegre
 
 ## Pagina 5
 ![alt: Zara y Mote vigilan la sabana juntos desde arriba y abajo](escenas/p5-turnos.svg)
@@ -52,6 +60,8 @@ todos. Zara miraba desde lo alto si venía alguna lluvia
 fuerte. Mote avisaba desde el suelo si había piedras o
 raíces en el camino. Los dos se cuidaban por turnos
 con mucho cariño y respeto.
+> Para conversar en familia: Conversen sobre cómo los amigos se cuidan por turnos usando sus habilidades.
+**Palabras nuevas:** lluvia, raíces, respeto
 
 ## Pagina 6
 ![alt: Rugido el leon viejito cuenta historias a Zara y Mote](escenas/p6-historias.svg)
@@ -60,6 +70,8 @@ bueno que ya no tenía dientes y comía fruta dulce
 que caía de las acacias. Rugido se echó en la
 sombra y les contó hermosas historias de la sabana mientras
 descansaban juntos.
+> Para conversar en familia: Imaginen que están bajo la sombra escuchando un cuento lindo en familia.
+**Palabras nuevas:** león, fruta, sombra
 
 ## Pagina 7
 ![alt: Fiesta de amigos en la sabana al atardecer](escenas/p7-fiesta.svg)
@@ -68,6 +80,8 @@ Los animales grandes y pequeños cantaron felices en círculo.
 Zara compartía frutas del árbol alto y Mote repartía semillas
 del suelo. Todos celebraban que la amistad une a grandes
 y chiquitos por igual.
+> Para conversar en familia: Den vueltas en un pequeño círculo tomados de las manos celebrando la amistad.
+**Palabras nuevas:** fiesta, círculo, amistad
 
 ## Pagina 8
 ![alt: Zara descansa agachadita conversando con Mote al atardecer](escenas/p8-moraleja.svg)
@@ -76,6 +90,8 @@ mira con atención. Siempre que quiere conversar con un amigo
 pequeño, dobla su largo cuello con ternura. Porque para
 entender de verdad a los demás, a veces hay que
 agacharse un poquito.
+> Para conversar en familia: Abraza a tu pequeña o pequeño y recuerden escuchar siempre con cariño a los demás.
+**Palabras nuevas:** atención, ternura, mundo
 
 ## Quiz
 ### Pregunta 1

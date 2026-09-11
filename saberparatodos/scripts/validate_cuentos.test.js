@@ -53,6 +53,9 @@ runTest('Negative fixture: Missing Header', FIXTURE_NO_HEADER, 1, 'CUENTO-E-HEAD
 // Case 3: Negative fixture with 2 quiz questions fails with CUENTO-E-QUIZ-COUNT (exit 1)
 runTest('Negative fixture: Bad Quiz Count', FIXTURE_BAD_QUIZ, 1, 'CUENTO-E-QUIZ-COUNT');
 
+// Case 4: Negative fixture missing v2 hint fails with CUENTO-E-PAGE-V2-HINT-MISSING (exit 1)
+runTest('Negative fixture: Missing v2 Hint', FIXTURE_NO_HEADER, 1, 'CUENTO-E-PAGE-V2-HINT-MISSING');
+
 console.log('\n----------------------------------------');
 if (failures === 0) {
   console.log('🎉 All validate_cuentos tests passed!');
