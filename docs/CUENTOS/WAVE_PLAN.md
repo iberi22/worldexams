@@ -101,6 +101,9 @@ CloudAI-X/threejs-skills`, `npx skills add iart-ai/web-animation-skills`.
   feat-cuentos-lector y feat-cuentos-a al 100%.
 - 2026-09-11 Olas C4+C5 despachadas: issues #1312-1320 (C4 cuentos
   06-10, C5 polish), labels cuentos+ola-c4/c5+wave-c4/c5+jules+ai-agent.
+- 2026-09-11 Ola C7 tanda 1 despachada: issues #1330-1335 (shell, puerta,
+  spread, fuentes, contenido v2, parallax). Retenidas #1336 (tras C7.05 +
+  audios edge-tts Dalia) y #1337 (tras C7.02) por islas compartidas.
 
 ## Privado no-listado (decisión BELA 2026-09-10)
 
