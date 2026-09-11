@@ -1,0 +1,46 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Pipo siente miedo y propone huir sin decir nada">
+  <!-- plano-fondo -->
+  <g id="plano-fondo">
+    <rect width="800" height="450" fill="#FDF6EC"/>
+    <!-- Bosque denso al fondo -->
+    <path d="M50 350 L120 200 L190 350 Z" fill="#7BAE5A" opacity="0.6"/>
+    <path d="M150 350 L230 180 L310 350 Z" fill="#4FB6A3" opacity="0.5"/>
+    <path d="M280 350 L350 220 L420 350 Z" fill="#7BAE5A" opacity="0.6"/>
+  </g>
+
+  <!-- plano-medio -->
+  <g id="plano-medio">
+    <path d="M0 320 Q400 290 800 320 L800 450 L0 450 Z" fill="#7BAE5A"/>
+    <!-- Sendero de tierra -->
+    <path d="M250 450 Q300 360 380 320 L450 320 Q380 370 330 450 Z" fill="#C97B3D" opacity="0.5"/>
+  </g>
+
+  <!-- plano-frente -->
+  <g id="plano-frente">
+    <!-- Pipo tembloroso señalando al camino -->
+    <g transform="translate(260, 210) scale(0.65)">
+      <ellipse cx="100" cy="130" rx="46" ry="52" fill="#6C7A89"/>
+      <circle cx="100" cy="74" r="38" fill="#6C7A89"/>
+      <path d="M78 102 L100 122 L122 102 Z" fill="#9B7EDE"/>
+      <ellipse cx="80" cy="72" rx="16" ry="12" fill="#3A2E2A" transform="rotate(-15 80 72)"/>
+      <ellipse cx="120" cy="72" rx="16" ry="12" fill="#3A2E2A" transform="rotate(15 120 72)"/>
+      <circle cx="81" cy="71" r="7" fill="#FFFFFF"/>
+      <circle cx="119" cy="71" r="7" fill="#FFFFFF"/>
+      <circle cx="81" cy="71" r="3" fill="#232D36"/>
+      <circle cx="119" cy="71" r="3" fill="#232D36"/>
+      <!-- Boca temblorosa -->
+      <path d="M92 88 Q96 85 100 88 Q104 91 108 88" fill="none" stroke="#3A2E2A" stroke-width="2"/>
+    </g>
+    <!-- Mía escuchando preocupada -->
+    <g transform="translate(450, 230) scale(0.6)">
+      <ellipse cx="100" cy="130" rx="44" ry="50" fill="#7E8C9B"/>
+      <circle cx="100" cy="74" r="37" fill="#7E8C9B"/>
+      <circle cx="132" cy="40" r="7" fill="#9B7EDE"/>
+      <ellipse cx="80" cy="72" rx="15" ry="11" fill="#3A2E2A"/>
+      <ellipse cx="120" cy="72" rx="15" ry="11" fill="#3A2E2A"/>
+      <circle cx="81" cy="71" r="6" fill="#FFFFFF"/>
+      <circle cx="119" cy="71" r="6" fill="#FFFFFF"/>
+    </g>
+  </g>
+</svg>
