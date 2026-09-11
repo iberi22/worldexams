@@ -1,0 +1,144 @@
+{
+  "format": "cuento-v1",
+  "slug": "bruno-zorro-paciencia",
+  "titulo": "Bruno el zorro del desierto y el pozo de la paciencia",
+  "edad": "3-4",
+  "idioma": "es-neutro",
+  "eje": "animales",
+  "habitat": "desierto",
+  "valor": "paciencia",
+  "personajes": [
+    "bruno",
+    "nuna",
+    "espino"
+  ],
+  "paginas": [
+    {
+      "n": 1,
+      "imagen": "escenas/p1-cava-rapido.svg",
+      "alt": "Bruno cava rápido en la arena del desierto",
+      "texto": "En el cálido desierto vivía Bruno, un pequeño zorro de orejas muy grandes. Tenía mucha sed y quería encontrar agua de inmediato. Por eso corría de un lado a otro y cavaba rápido en cualquier parte del suelo. Hacía volar la arena con sus patas, pero no aparecía ni una sola gota."
+    },
+    {
+      "n": 2,
+      "imagen": "escenas/p2-hoyos-secos.svg",
+      "alt": "Bruno triste frente a varios hoyos secos",
+      "texto": "Bruno miró a su alrededor y vio muchos hoyos en la tierra. Todos estaban secos y vacíos. El pequeño zorro se sentó sobre la arena caliente y suspiró con tristeza. Tenía las patas cansadas de cavar apurado. Se sentía muy frustrado porque su prisa no lo ayudaba a calmar la sed."
+    },
+    {
+      "n": 3,
+      "imagen": "escenas/p3-nuna-ensenya.svg",
+      "alt": "Nuna la tortuga enseña a Bruno a cavar junto a las raíces",
+      "texto": "Cerca de allí caminaba despacio Nuna la tortuga. Al ver a Bruno triste, se acercó con pasos suaves. —Para buscar agua no hay que correr —dijo Nuna—. Hay que mirar con cuidado y cavar muy despacio cerca de las raíces de los arbustos, porque allí se guarda la frescura de la tierra."
+    },
+    {
+      "n": 4,
+      "imagen": "escenas/p4-espino-cuenta.svg",
+      "alt": "El Cactus Abuelo Espino explica que el agua baja de noche",
+      "texto": "En ese momento habló el Cactus Abuelo Espino con voz muy tranquila. —El sol del día seca todo por arriba —explicó el sabio cactus—. Pero cuando llega la noche, el agua fresca baja por la tierra suavemente. Para encontrarla debes saber esperar y respirar con calma."
+    },
+    {
+      "n": 5,
+      "imagen": "escenas/p5-bruno-espera.svg",
+      "alt": "Bruno espera en la noche estrellada respirando con calma",
+      "texto": "Bruno escuchó con atención a sus amigos. Decidió sentarse bajo el cielo estrellado de la noche desértica. Respiró hondo una, dos y tres veces. Dejó de correr y esperó con calma mientras el aire fresco de la noche enfriaba las dunas. Aprendió que la paciencia ayuda a pensar mejor."
+    },
+    {
+      "n": 6,
+      "imagen": "escenas/p6-encuentra-agua.svg",
+      "alt": "Bruno encuentra humedad y un brote de agua fresca",
+      "texto": "Cuando la noche estuvo bien oscura, Bruno caminó despacio hacia el arbusto. Cavó suavemente junto a las raíces, tal como le enseñó Nuna. De pronto sintió la tierra húmeda en sus patitas. Siguió cavando con paciencia y brotó un pozo de agua limpia y muy fresca."
+    },
+    {
+      "n": 7,
+      "imagen": "escenas/p7-comparte-pozo.svg",
+      "alt": "Bruno comparte el pozo de agua fresca con Nuna y Espino",
+      "texto": "Bruno dio un brinco de alegría, pero no bebió él solo. Llamó de inmediato a Nuna la tortuga y al Abuelo Espino. Juntos tomaron agua fresca en la orilla del pozo. Bruno se sintió feliz de haber aprendido a esperar y de tener amigos con quienes compartir su logro."
+    },
+    {
+      "n": 8,
+      "imagen": "escenas/p8-celebracion.svg",
+      "alt": "Celebración y descanso de los amigos en el pozo del desierto",
+      "texto": "Desde esa noche, el pozo se convirtió en un hermoso lugar de descanso para todos los animales del desierto. Bruno comprendió que cuando hacemos las cosas con paciencia y dedicación, los mejores resultados siempre llegan a su tiempo. Lo bueno tarda un poco, pero llena el corazón de alegría."
+    }
+  ],
+  "quiz": [
+    {
+      "n": 1,
+      "texto": "¿Por qué Bruno no encontraba agua al principio?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque cavaba rápido y en cualquier lado sin paciencia",
+          "correcta": true,
+          "feedback": "¡Así es! Al cavar apurado solo hacía hoyos secos."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque no tenía patas para cavar en la arena",
+          "correcta": false,
+          "feedback": "Bruno sí tenía patas, pero cavaba con mucha prisa."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque no había agua en todo el desierto",
+          "correcta": false,
+          "feedback": "Sí había agua subterránea, pero debía buscar con calma."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "texto": "¿Quiénes le enseñaron a Bruno cómo y cuándo buscar agua?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Nuna la tortuga y el Abuelo Espino",
+          "correcta": true,
+          "feedback": "¡Correcto! Nuna le enseñó a cavar junto a las raíces y Espino a esperar la noche."
+        },
+        {
+          "letra": "B",
+          "texto": "Un pájaro volador que pasó por el cielo",
+          "correcta": false,
+          "feedback": "No fue un pájaro, sus consejeros fueron la tortuga y el cactus."
+        },
+        {
+          "letra": "C",
+          "texto": "Nadie, él lo descubrió solo sin ayuda",
+          "correcta": false,
+          "feedback": "Bruno escuchó los sabios consejos de Nuna y el Abuelo Espino."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "texto": "¿Qué hizo Bruno cuando encontró el pozo de agua?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Lo compartió alegremente con Nuna y Espino",
+          "correcta": true,
+          "feedback": "¡Muy bien! Celebró y compartió el agua fresca con todos."
+        },
+        {
+          "letra": "B",
+          "texto": "Tapó el pozo para que nadie lo viera",
+          "correcta": false,
+          "feedback": "Al contrario, Bruno llamó a sus amigos para compartir."
+        },
+        {
+          "letra": "C",
+          "texto": "Se fue corriendo a otro desierto lejano",
+          "correcta": false,
+          "feedback": "No se fue, se quedó disfrutando del pozo con sus amigos."
+        }
+      ]
+    }
+  ],
+  "explicacion": "Bruno quería resolver todo de prisa y solo conseguía cansarse. Al escuchar los consejos y tener paciencia, logró encontrar el agua y crear un lugar hermoso para todos. Pregunte a su niña o niño: ¿en qué momento te ayuda a ti tener paciencia?",
+  "hotspots": [],
+  "license": "PROPRIETARY-FREE-READ",
+  "version": 1,
+  "copyright": "© 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. Lectura gratuita, prohibida su reproducción."
+}
