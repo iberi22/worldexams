@@ -1,0 +1,52 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="El robot Tuerca proyecta datos del espacio y la Luna">
+  <!-- Plano Fondo: Fondo oscuro tecnológico con estrellas -->
+  <rect width="800" height="450" fill="#182030"/>
+  <circle cx="100" cy="100" r="2" fill="#FFFFFF"/>
+  <circle cx="700" cy="80" r="2" fill="#FFFFFF"/>
+  <circle cx="650" cy="350" r="2" fill="#FFFFFF"/>
+
+  <!-- Holograma / Proyección de la Luna y la Tierra -->
+  <circle cx="400" cy="180" r="110" fill="#4FB6A3" opacity="0.15"/>
+  <circle cx="400" cy="180" r="90" fill="#4FB6A3" opacity="0.25"/>
+  <!-- Luna en el holograma -->
+  <circle cx="360" cy="170" r="35" fill="#F4E8C1"/>
+  <circle cx="350" cy="160" r="8" fill="#E2D4A3"/>
+  <!-- Sol dibujado en holograma -->
+  <circle cx="460" cy="150" r="25" fill="#FF9F43"/>
+  <!-- Rayos luminosos holográficos -->
+  <line x1="400" y1="300" x2="300" y2="200" stroke="#4FB6A3" stroke-width="2" stroke-dasharray="4,4"/>
+  <line x1="400" y1="300" x2="500" y2="200" stroke="#4FB6A3" stroke-width="2" stroke-dasharray="4,4"/>
+
+  <!-- Plano Medio: Suelo laboratorio -->
+  <rect x="0" y="360" width="800" height="90" fill="#293548"/>
+
+  <!-- Plano Frente: Robot Tuerca proyectando y Vela escuchando -->
+  <!-- Robot Tuerca en el centro -->
+  <g transform="translate(330, 200) scale(0.85)">
+    <rect x="60" y="115" width="80" height="65" rx="18" fill="#8C9CAE"/>
+    <rect x="74" y="128" width="52" height="38" rx="8" fill="#2F3A45"/>
+    <circle cx="86" cy="142" r="5" fill="#4FB6A3"/>
+    <circle cx="100" cy="142" r="5" fill="#FF9F43"/>
+    <circle cx="114" cy="142" r="5" fill="#5B6FD6"/>
+    <rect x="52" y="40" width="96" height="70" rx="22" fill="#A2B1C1"/>
+    <rect x="62" y="50" width="76" height="50" rx="14" fill="#232D36"/>
+    <circle cx="82" cy="74" r="12" fill="#4FB6A3"/>
+    <circle cx="118" cy="74" r="12" fill="#4FB6A3"/>
+    <!-- Antena con luz fuerte de proyección -->
+    <line x1="100" y1="10" x2="100" y2="40" stroke="#7A889B" stroke-width="4"/>
+    <circle cx="100" cy="10" r="10" fill="#FF9F43"/>
+  </g>
+
+  <!-- Vela observando fascinada -->
+  <g transform="translate(120, 210) scale(0.8)">
+    <ellipse cx="100" cy="150" rx="42" ry="46" fill="#5B6FD6"/>
+    <circle cx="100" cy="80" r="36" fill="#FCE0D1"/>
+    <path d="M64 72 Q62 46 100 46 Q138 46 136 72 Q120 56 100 56 Q80 56 64 72 Z" fill="#3A2E2A"/>
+    <circle cx="85" cy="80" r="9" fill="#FFFFFF"/>
+    <circle cx="88" cy="78" r="4" fill="#232D36"/>
+    <circle cx="115" cy="80" r="9" fill="#FFFFFF"/>
+    <circle cx="118" cy="78" r="4" fill="#232D36"/>
+    <path d="M92 95 Q100 102 108 95" fill="none" stroke="#3A2E2A" stroke-width="3"/>
+  </g>
+</svg>
