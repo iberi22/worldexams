@@ -1,6 +1,9 @@
 <!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
 <script lang="ts">
   import type { Cuento, CuentoPagina } from '../../../lib/cuentos/cuento-schema';
+  import { saveProgress, getAllProgress } from '../../../lib/cuentos/progreso';
+  import { evaluarYDesbloquearLogros, type Logro } from '../../../lib/cuentos/logros';
+  import CelebracionLogro from './CelebracionLogro.svelte';
   import '../arte/tokens.css';
 
   export interface Props {
@@ -25,6 +28,7 @@
   let isAutoplay = $state(false);
   let speed = $state<'normal' | 'lento'>('normal');
   let imageError = $state(false);
+  let unlockedLogros = $state<Logro[]>([]);
 
   const paginas = $derived(cuento?.paginas || []);
   const totalPaginas = $derived(paginas.length);
@@ -32,11 +36,16 @@
   const isFirstPage = $derived(currentPageIndex <= 0);
   const isLastPage = $derived(currentPageIndex >= totalPaginas - 1);
 
-  // Reset image error state whenever page changes
+  // Reset image error state and save progress / evaluate achievements on page change
   $effect(() => {
-    // Reading currentPageIndex triggers reset on page change
-    if (currentPageIndex !== undefined) {
+    if (currentPageIndex !== undefined && cuento?.slug) {
       imageError = false;
+      const isFinished = currentPageIndex >= totalPaginas - 1;
+      saveProgress(cuento.slug, currentPageIndex + 1, isFinished);
+      const nuevos = evaluarYDesbloquearLogros(getAllProgress(), cuento.slug);
+      if (nuevos.length > 0) {
+        unlockedLogros = nuevos;
+      }
     }
   });
 
@@ -234,6 +243,9 @@
       <span class="nav-icon">›</span>
     </button>
   </footer>
+  {#if unlockedLogros.length > 0}
+    <CelebracionLogro logros={unlockedLogros} onClose={() => (unlockedLogros = [])} />
+  {/if}
 </div>
 
 <style>

@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-1-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-09-11T02:04:15.438Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-6-2026-W01-clasificacion-seres-vivos-001-MASTERY-bundle-v1",
+      "statement": "¿A qué dominio o reino pertenecen principalmente estos organismos procariotas?",
+      "context": "En la reserva natural Chicaque cerca de Bogotá, los estudiantes observan organismos unicelulares microscópicos sin núcleo definido que habitan en fuentes termales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dominio Archaea / Reino Monera",
+          "is_correct": true,
+          "feedback": "Correcto. Los organismos procariotas extremófilos pertenecen al dominio Archaea o al gran grupo Monera."
+        },
+        {
+          "letter": "B",
+          "text": "Reino Fungi",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los hongos son eucariotas eucarióticos y heterótrofos."
+        },
+        {
+          "letter": "C",
+          "text": "Reino Protista",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los protistas son eucariotas unicelulares o pluricelulares simples con núcleo."
+        },
+        {
+          "letter": "D",
+          "text": "Reino Plantae",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas son eucariotas pluricelulares autótrofas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los procariotas carecen de núcleo definido y pertenecen al dominio Archaea / Bacteria (Reino Monera).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-6-2026-W01-clasificacion-seres-vivos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W01-clasificacion-seres-vivos-001-MASTERY-bundle-v2",
+      "statement": "¿Qué tipo de nutrición caracteriza a los organismos del reino Fungi?",
+      "context": "En los llanos de Villavicencio, se observa un hongo sombrilla descomponiendo materia orgánica sobre el suelo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Heterótrofa por absorción (saprófita)",
+          "is_correct": true,
+          "feedback": "Correcto. Secretan enzimas digestivas al exterior y absorben los nutrientes degradados."
+        },
+        {
+          "letter": "B",
+          "text": "Autótrofa fotosintética",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los hongos no poseen clorofila ni realizan fotosíntesis."
+        },
+        {
+          "letter": "C",
+          "text": "Autótrofa quimiosintética",
+          "is_correct": false,
+          "feedback": "Incorrecto. No obtienen energía de compuestos inorgánicos sin luz."
+        },
+        {
+          "letter": "D",
+          "text": "Heterótrofa por ingestión celular",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ingestión fagocítica es característica de animales y fagótrofos protistas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los hongos son heterótrofos absorbentes: liberan enzimas exógenas y absorben moléculas orgánicas simples.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-6-2026-W01-clasificacion-seres-vivos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W01-clasificacion-seres-vivos-001-MASTERY-bundle-v3",
+      "statement": "¿En qué reino debe clasificar este espécimen?",
+      "context": "En un laboratorio escolar de Bucaramanga, un estudiante observa al microscopio células con pared de quitina y múltiples núcleos, pero sin cloroplastos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reino Fungi",
+          "is_correct": true,
+          "feedback": "Correcto. La pared celular de quitina y la ausencia de cloroplastos caracterizan a los hongos."
+        },
+        {
+          "letter": "B",
+          "text": "Reino Plantae",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas poseen pared de celulosa y cloroplastos con clorofila."
+        },
+        {
+          "letter": "C",
+          "text": "Reino Animalia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los animales carecen totalmente de pared celular."
+        },
+        {
+          "letter": "D",
+          "text": "Reino Protista",
+          "is_correct": false,
+          "feedback": "Incorrecto. La presencia de pared de quitina orienta directamente al reino Fungi."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La composición de la pared celular por quitina sin cloroplastos es diagnóstico exclusivo del reino Fungi.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-6-2026-W01-clasificacion-seres-vivos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W01-clasificacion-seres-vivos-001-MASTERY-bundle-v4",
+      "statement": "¿Qué característica clave la diferencia de las algas pluricelulares del reino Protista?",
+      "context": "En la selva del Amazonas colombiano, un biólogo identifica una especie fotosintética pluricelular con tejidos diferenciados y paredes celulares de celulosa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La presencia de tejidos especializados (verdaderos) y órganos como raíces o hojas",
+          "is_correct": true,
+          "feedback": "Correcto. Las plantas verdaderas poseen diferenciación tisular (xilema, floema, estomas)."
+        },
+        {
+          "letter": "B",
+          "text": "La presencia de ADN en el núcleo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tanto algas como plantas son eucariotas y poseen ADN nuclear."
+        },
+        {
+          "letter": "C",
+          "text": "La capacidad de realizar fotosíntesis con clorofila",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas utilizan clorofila para fotosintetizar."
+        },
+        {
+          "letter": "D",
+          "text": "La reproducción exclusivamente asexual",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas tienen reproducción sexual y alternancia de generaciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Reino Plantae se diferencia de las algas protistas por su organización tisular verdadera (tejidos vascularizados y órganos especializados).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-6-2026-W01-clasificacion-seres-vivos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W01-clasificacion-seres-vivos-001-MASTERY-bundle-v5",
+      "statement": "¿A qué grupo taxonómico pertenecen las amebas?",
+      "context": "Un grupo de investigación en Santa Marta analiza una muestra de agua de mar y encuentra amebas unicelulares eucariotas con seudópodos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reino Protista (Protozoos)",
+          "is_correct": true,
+          "feedback": "Correcto. Las amebas son protozoarios eucariotas unicelulares pertenecientes al reino Protista."
+        },
+        {
+          "letter": "B",
+          "text": "Reino Monera (Bacterias)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Poseen núcleo verdadero (eucariotas), descartando el reino Monera."
+        },
+        {
+          "letter": "C",
+          "text": "Reino Animalia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El reino Animalia comprende organismos pluricelulares."
+        },
+        {
+          "letter": "D",
+          "text": "Reino Fungi",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tienen pared de quitina ni nutrición por absorción saprófita."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las amebas son eucariotas unicelulares heterótrofas que se desplazan por seudópodos, perteneciendo al reino Protista.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-6-2026-W01-clasificacion-seres-vivos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W01-clasificacion-seres-vivos-001-MASTERY-bundle-v6",
+      "statement": "¿Qué nivel de parentesco taxonómico comparten ambos animales al pertenecer al mismo género (*Panthera*)?",
+      "context": "En un análisis taxonómico en Medellín, se compara la nomenclatura binominal de dos felinos: *Panthera onca* (jaguar) y *Panthera leo* (león).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pertenecen a la misma familia, orden, clase, filo y reino, pero a especies distintas.",
+          "is_correct": true,
+          "feedback": "Correcto. Al compartir el género, comparten de forma jerárquica todas las categorías superiores."
+        },
+        {
+          "letter": "B",
+          "text": "Pertenecen a la misma especie pero a géneros diferentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El segundo término (*onca* / *leo*) designa especies diferentes."
+        },
+        {
+          "letter": "C",
+          "text": "Comparten la misma especie pero habitan en continentes distintos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son especies biológicas completamente distintas."
+        },
+        {
+          "letter": "D",
+          "text": "No comparten ninguna categoría taxonómica superior al género.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La jerarquía exige que compartan familia, orden, etc."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La jerarquía taxonómica es inclusiva: si dos organismos comparten un género (*Panthera*), obligatoriamente comparten Familia (Felidae), Orden (Carnivora), Clase, Filo y Reino.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-6-2026-W01-clasificacion-seres-vivos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W01-clasificacion-seres-vivos-001-MASTERY-bundle-v7",
+      "statement": "¿Por qué un liquen no puede ser clasificado dentro de un solo reino de la naturaleza?",
+      "context": "En Pasto, se analiza la clave dicotómica de clasificación vegetal. Un liquen encontrado en los frailejones del páramo de Cumbal es examinado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque es una asociación simbiótica mutua entre un hongo (Fungi) y un alga o cianobacteria (Protista o Monera).",
+          "is_correct": true,
+          "feedback": "Correcto. El liquen no es un único organismo biológico, sino una simbiosis dual."
+        },
+        {
+          "letter": "B",
+          "text": "Porque cambia de reino dependiendo de la estación del año.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las categorías taxonómicas no cambian estacionalmente."
+        },
+        {
+          "letter": "C",
+          "text": "Porque es un virus gigante que infecta a los frailejones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los líquenes son asociaciones celulares estables, no virus."
+        },
+        {
+          "letter": "D",
+          "text": "Porque no posee material genético ni células.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Está constituido por millones de células fúngicas y fotosintéticas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un liquen es un holobionte simbiótico formado por la unión de un micobionte (hongo) y un fotobionte (alga verde o cianobacteria).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-6-2026-W01-clasificacion-seres-vivos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W01-clasificacion-seres-vivos-001-MASTERY-bundle-v8",
+      "statement": "¿Qué componente de la pared celular procariota retiene la tinción de cristal violeta en las bacterias Gram-positivas?",
+      "context": "En Cali, se estudia la diferencia fisiológica entre bacterias Gram-positivas y Gram-negativas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una gruesa capa de peptidoglicano (mureína)",
+          "is_correct": true,
+          "feedback": "Correcto. La pared celular con capa gruesa de peptidoglicano retiene el tinte cristal violeta."
+        },
+        {
+          "letter": "B",
+          "text": "Una capa de celulosa celular",
+          "is_correct": false,
+          "feedback": "Incorrecto. La celulosa es propia de las paredes de plantas y algas."
+        },
+        {
+          "letter": "C",
+          "text": "Una doble membrana plasmática sin pared",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las Gram-positivas tienen pared celular rígida."
+        },
+        {
+          "letter": "D",
+          "text": "Una cápsula de quitina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La quitina es característica de la pared de hongos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las bacterias Gram-positivas poseen una pared celular gruesa compuesta de peptidoglicano que fija la tinción.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-6-2026-W01-clasificacion-seres-vivos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W01-clasificacion-seres-vivos-001-MASTERY-bundle-v9",
+      "statement": "¿Qué conclusión filogenética válida se deriva de este análisis molecular?",
+      "context": "Un laboratorio en Bogotá analiza las secuencias de ARN ribosómico (ARNr 16S/18S) de tres especímenes A, B y C. Los resultados indican que A y B comparten un $98\\%$ de similitud genómica, mientras que A y C comparten solo un $72\\%$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los especímenes A y B comparten un ancestro común más reciente entre sí que con el espécimen C.",
+          "is_correct": true,
+          "feedback": "Correcto. Mayor similitud de secuencia de ARNr refleja mayor cercanía evolutiva (filogenia)."
+        },
+        {
+          "letter": "B",
+          "text": "El espécimen C evoluciona a partir del espécimen B de forma directa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La distancia genética no implica descendencia directa en línea de tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "Los tres especímenes pertenecen de forma obligatoria a la misma especie biológica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $72\\%$ de similitud demuestra pertenencia a taxones muy distantes."
+        },
+        {
+          "letter": "D",
+          "text": "El espécimen A no posee relación evolutiva con C.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos los seres vivos comparten un ancestro común universal (LUCA)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La homología de secuencias moleculares (ARNr) mide la proximidad filogenética: mayor porcentaje implica ancestro común más reciente.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-6-2026-W01-clasificacion-seres-vivos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W01-clasificacion-seres-vivos-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el argumento biológico fundamental que sustenta la exclusión de los virus del sistema de reinos celular?",
+      "context": "En un debate científico en Armenia sobre la clasificación de los virus, un grupo sostiene que los virus no pertenecen a ninguno de los reinos tradicionales de la naturaleza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Carecen de estructura celular (son acelulares) y requieren la maquinaria metabólica de una célula hospedadora para replicarse.",
+          "is_correct": true,
+          "feedback": "Correcto. La teoría celular establece que la célula es la unidad fundamental; los virus carecen de metabolismo propio y organización celular."
+        },
+        {
+          "letter": "B",
+          "text": "No poseen ningún tipo de material genético como ADN o ARN.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los virus poseen genomas de ADN o ARN."
+        },
+        {
+          "letter": "C",
+          "text": "Son demasiado pequeños para ser observados al microscopio electrónico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tamaño no define la clasificación en reinos; además son visibles al microscopio electrónico."
+        },
+        {
+          "letter": "D",
+          "text": "No pueden mutar ni evolucionar a lo largo del tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los virus presentan altas tasas de mutación y evolución adaptativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los virus son entidades acelulares parásitas intracelulares obligadas sin metabolismo propio, por lo que no se incluyen en el árbol celular de la vida (reinos biológicos).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-6-2026-W01-clasificacion-seres-vivos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

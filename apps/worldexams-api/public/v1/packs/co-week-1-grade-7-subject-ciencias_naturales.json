@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-1-grade-7-subject-ciencias_naturales",
+    "generated_at": "2026-09-11T02:04:15.439Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-7-2026-W01-la-celula-001-MASTERY-bundle-v1",
+      "statement": "¿Qué organelo presente en la célula vegetal es el encargado de realizar la fotosíntesis?",
+      "context": "En el laboratorio de ciencias en Bogotá, los estudiantes comparan una célula vegetal de elodea y una célula animal de epitelio bucal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cloroplasto",
+          "is_correct": true,
+          "feedback": "Correcto. Contiene clorofila y realiza la conversión de energía lumínica en química."
+        },
+        {
+          "letter": "B",
+          "text": "Mitocondria",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mitocondria realiza la respiración celular aerobia."
+        },
+        {
+          "letter": "C",
+          "text": "Aparato de Golgi",
+          "is_correct": false,
+          "feedback": "Incorrecto. Empaca y distribuye proteínas y lípidos."
+        },
+        {
+          "letter": "D",
+          "text": "Lisosoma",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contiene enzimas digestivas intra-celulares."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los cloroplastos son los organelos especializados en la fotosíntesis en plantas y algas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-7-2026-W01-la-celula-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W01-la-celula-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo se denomina la propiedad de la membrana que permite el paso selectivo de ciertas sustancias e impide el de otras?",
+      "context": "En Medellín, se analiza la función de la membrana celular formada por una bicapa fosfolipídica con proteínas sumergidas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permeabilidad selectiva (semipermeabilidad)",
+          "is_correct": true,
+          "feedback": "Correcto. Controla el transporte de solutos e iones adentro y afuera de la célula."
+        },
+        {
+          "letter": "B",
+          "text": "Impermeabilidad total",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si fuera totalmente impermeable, la célula moriría sin intercambio."
+        },
+        {
+          "letter": "C",
+          "text": "Permeabilidad absoluta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Permitiría el paso descontrolado de cualquier molécula."
+        },
+        {
+          "letter": "D",
+          "text": "Rigidez estructural",
+          "is_correct": false,
+          "feedback": "Incorrecto. La membrana es fluida (modelo de mosaico fluido)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La membrana plasmática posee permeabilidad selectiva para regular la homeostasis celular interna.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-7-2026-W01-la-celula-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W01-la-celula-001-MASTERY-bundle-v3",
+      "statement": "¿Qué fenómeno celular ocurrirá con los glóbulos rojos debido al proceso de ósmosis?",
+      "context": "En Cali, se colocan glóbulos rojos (eritrocitos) en un recipiente con agua destilada (solución fuertemente hipotónica).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entrará agua masivamente a la célula provocando su hinchamiento y lisis (citólisis).",
+          "is_correct": true,
+          "feedback": "Correcto. El agua fluye hacia el medio con mayor concentración de solutos (interior celular)."
+        },
+        {
+          "letter": "B",
+          "text": "Saldrá agua de la célula provocando su arrugamiento (crenación).",
+          "is_correct": false,
+          "feedback": "Incorrecto. La crenación ocurre en soluciones hipertónicas."
+        },
+        {
+          "letter": "C",
+          "text": "No habrá flujo de agua y la célula mantendrá su volumen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ocurre únicamente en soluciones isotónicas."
+        },
+        {
+          "letter": "D",
+          "text": "La célula realizará fotosíntesis para expulsar la sal excedente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los eritrocitos son células animales sin cloroplastos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En solución hipotónica, el agua entra a favor del gradiente osmótico provocando citólisis por lisis celular.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W01-la-celula-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W01-la-celula-001-MASTERY-bundle-v4",
+      "statement": "¿Qué organelo celular se encuentra en alta abundancia dentro de las fibras musculares?",
+      "context": "En Barranquilla, se estudia una célula muscular humana que requiere consumir grandes cantidades de ATP para la contracción continua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mitocondrias",
+          "is_correct": true,
+          "feedback": "Correcto. Producen el ATP requerido mediante la respiración celular aerobia."
+        },
+        {
+          "letter": "B",
+          "text": "Vacuolas centrales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las vacuolas centrales turgentes son propias de plantas."
+        },
+        {
+          "letter": "C",
+          "text": "Ribosomas libres exclusivamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ribosomas sintetizan proteínas, no producen ATP directamente."
+        },
+        {
+          "letter": "D",
+          "text": "Paredes celulósicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las células animales no tienen pared celular."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las mitocondrias son las 'centrales energéticas' de la célula donde se sintetiza ATP a partir de glucosa y oxígeno.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W01-la-celula-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W01-la-celula-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál será la consecuencia directa inmediata en la función celular?",
+      "context": "Un investigador en Bucaramanga bloquea químicamente la función del Aparato de Golgi en una línea celular glandular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Falla en el empaquetamiento, modificación y secreción de proteínas y lípidos.",
+          "is_correct": true,
+          "feedback": "Correcto. El aparato de Golgi modifica y empaqueta moléculas en vesículas secretoras."
+        },
+        {
+          "letter": "B",
+          "text": "Detención completa de la duplicación del ADN nuclear.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La replicación ocurre en el núcleo celular."
+        },
+        {
+          "letter": "C",
+          "text": "Incapacidad de sintetizar aminoácidos a partir de ARNm.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La traducción del ARNm ocurre en los ribosomas."
+        },
+        {
+          "letter": "D",
+          "text": "Destrucción inmediata de la pared celular vegetal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se trataba de una línea glandular animal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El complejo de Golgi recibe proteínas del RER, las glicosila, empaqueta y dirige en vesículas de exportación o lisosomas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W01-la-celula-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W01-la-celula-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la diferencia fundamental en términos de energía y gradiente de concentración entre ambos transportes?",
+      "context": "En Manizales, se compara el transporte pasivo (difusión facilitada) con el transporte activo (bomba Sodio-Potasio).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El transporte activo requiere gasto de energía (ATP) porque mueve solutos en contra del gradiente de concentración; la difusión pasiva no gasta ATP.",
+          "is_correct": true,
+          "feedback": "Correcto. El transporte contra gradiente requiere acoplamiento con la hidrólisis de ATP."
+        },
+        {
+          "letter": "B",
+          "text": "La difusión facilitada requiere ATP mientras que el transporte activo utiliza calor ambiental.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La difusión pasiva es un proceso espontáneo a favor de gradiente sin gasto de ATP."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos transportes consumen la misma cantidad de ATP por molécula transportada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El transporte pasivo no gasta ATP."
+        },
+        {
+          "letter": "D",
+          "text": "El transporte activo ocurre únicamente por poros lipídicos simples sin proteínas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El transporte activo requiere bombas proteicas transmembrana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El transporte activo va contra gradiente electroquímico impulsado por hidrólisis de ATP. La difusión pasiva va a favor de gradiente sin gasto metabólico.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W01-la-celula-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W01-la-celula-001-MASTERY-bundle-v7",
+      "statement": "¿Por qué aumenta el ritmo de bombeo de la vacuola contráctil cuando el protozoo está en agua dulce hipotónica?",
+      "context": "En un experimento en Pasto, se observa un protozoo de agua dulce (*Paramecium*) expuesto a medios de diferente salinidad. Posee una vacuola contráctil activa que bombea agua fuera de la célula constantemente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el agua entra constantemente por ósmosis al interior celular y debe ser expulsada para evitar la ruptura por lisis.",
+          "is_correct": true,
+          "feedback": "Correcto. En medio hipotónico el agua ingresa por gradiente osmótico y la vacuola la bombea al exterior."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el protozoo necesita beber agua dulce para realizar fotosíntesis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El *Paramecium* es heterótrofo y el ingreso es osmótico pasivo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la sal del exterior destruye la membrana plasmática.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua dulce no tiene altas sales."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el protozoo pierde agua e intenta recuperarla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En medio hipotónico se gana agua, no se pierde."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El protozoo en medio hipotónico gana agua pasivamente por ósmosis; la vacuola contráctil la expulsa por transporte activo para mantener el volumen.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W01-la-celula-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W01-la-celula-001-MASTERY-bundle-v8",
+      "statement": "¿Qué evidencia estructural apoya que mitocondrias y cloroplastos evolucionaron a partir de bacterias endosimbiontes?",
+      "context": "En Neiva, se evalúa la teoría endosimbiótica propuesta por Lynn Margulis sobre el origen evolutivo de mitocondrias y cloroplastos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Poseen su propio ADN circular sin histonas y ribosomas 70S similares a los procariotas.",
+          "is_correct": true,
+          "feedback": "Correcto. Tienen ADN circular, doble membrana y ribosomas de tipo procariótico (70S)."
+        },
+        {
+          "letter": "B",
+          "text": "Tienen pared celular de quitina y núcleo bien definido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No poseen núcleo interno ni pared de quitina."
+        },
+        {
+          "letter": "C",
+          "text": "Se sintetizan desde cero en el aparato de Golgi sin división previa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividen por fisión binaria autónoma similar a bacterias."
+        },
+        {
+          "letter": "D",
+          "text": "Carecen por completo de membranas lipídicas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Poseen doble membrana envolvente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La presencia de genoma propio ADN circular, ribosomas 70S y división por fisión binaria respalda su origen endosimbiótico procariótico.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W01-la-celula-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W01-la-celula-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la secuencia cronológica exacta de organelos recorridos por la proteína marcada desde su síntesis hasta su salida?",
+      "context": "Un equipo de investigadores en Bogotá marca radiactivamente con aminoácidos la ruta de síntesis de una proteína de secreción en células acinares del páncreas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reticulo Endoplásmico Rugoso (RER) $\\rightarrow$ Aparato de Golgi $\\rightarrow$ Vesículas de secreción $\\rightarrow$ Membrana plasmática.",
+          "is_correct": true,
+          "feedback": "Correcto. La ruta de la vía secretora corre de RER a Golgi y de ahí a vesículas que fusionan con la membrana."
+        },
+        {
+          "letter": "B",
+          "text": "Aparato de Golgi $\\rightarrow$ Núcleo $\\rightarrow$ RER $\\rightarrow$ Lisosoma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La síntesis secretora no ingresa al núcleo ni inicia en Golgi."
+        },
+        {
+          "letter": "C",
+          "text": "Mitocondria $\\rightarrow$ RER $\\rightarrow$ Vacuola $\\text{central} \\rightarrow$ Membrana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mitocondrias no forman parte del sistema de endomembranas secretor."
+        },
+        {
+          "letter": "D",
+          "text": "Lisosoma $\\rightarrow$ RER $\\rightarrow$ Golgi $\\rightarrow$ Núcleo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los lisosomas son organelos digestivos finales, no iniciales de secreción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Vía secretora celular: Ribosomas unidos al RER sintetizan la proteína hacia la luz del RER $\\rightarrow$ vesículas a Golgi $\\rightarrow$ maduración $\\rightarrow$ vesículas secretoras $\\rightarrow$ exocitosis.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-7-2026-W01-la-celula-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W01-la-celula-001-MASTERY-bundle-v10",
+      "statement": "¿Qué organelo celular se fusiona directamente con el fagosoma (vesícula con la bacteria) para degradar enzimáticamente al microorganismo?",
+      "context": "Se estudia el mecanismo de fagocitosis en macrófagos humanos frente a una bacteria patógena en un hospital de Cartagena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lisosoma (formando el fagolisosoma)",
+          "is_correct": true,
+          "feedback": "Correcto. Los lisosomas aportan hidrolasas ácidas para digerir el contenido del fagosoma."
+        },
+        {
+          "letter": "B",
+          "text": "Peroxisoma exclusivamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los peroxisomas degradan ácidos grasos y $H_2O_2$, no fagolisosomas principales."
+        },
+        {
+          "letter": "C",
+          "text": "Centrosoma",
+          "is_correct": false,
+          "feedback": "Incorrecto. El centrosoma organiza microtúbulos durante la división."
+        },
+        {
+          "letter": "D",
+          "text": "Reticulo Endoplásmico Liso (REL)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El REL sintetiza lípidos y desintoxica medicamentos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fusión del fagosoma con el lisosoma primario origina el fagolisosoma, donde las hidrolasas ácidas digieren la bacteria.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-7-2026-W01-la-celula-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}
