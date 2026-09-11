@@ -1,0 +1,71 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Gran mercado lleno de colores y fraternidad en el puente">
+  <defs>
+    <linearGradient id="bg7" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFE3B3"/>
+      <stop offset="100%" stop-color="#FDF6EC"/>
+    </linearGradient>
+  </defs>
+  <!-- Plano Fondo: Cielo soleado festivo -->
+  <g id="plano-fondo">
+    <rect width="800" height="450" fill="url(#bg7)"/>
+    <circle cx="400" cy="60" r="40" fill="#FF9F43"/>
+    <!-- Guirnalda de banderines multicolores -->
+    <path d="M 0 40 Q 200 80 400 40 Q 600 80 800 40" stroke="#3A2E2A" stroke-width="2" fill="none"/>
+    <polygon points="80,55 100,90 120,58" fill="#E26D5A"/>
+    <polygon points="220,68 240,102 260,70" fill="#5B6FD6"/>
+    <polygon points="360,52 380,88 400,52" fill="#4FB6A3"/>
+    <polygon points="500,68 520,102 540,70" fill="#E26D5A"/>
+    <polygon points="660,55 680,90 700,58" fill="#5B6FD6"/>
+  </g>
+
+  <!-- Plano Medio: El gran puente transformado en piso de mercado comunitario -->
+  <g id="plano-medio">
+    <!-- Suelo del puente ancho -->
+    <rect x="0" y="240" width="800" height="120" fill="#BDC3C7"/>
+    <rect x="0" y="230" width="800" height="10" fill="#8B5A2B"/>
+
+    <!-- Puesto de mercado 1: Frutas de colores -->
+    <rect x="100" y="160" width="180" height="70" fill="#E26D5A" rx="4"/>
+    <path d="M 80 160 L 190 110 L 300 160 Z" fill="#FFE3B3"/>
+    <!-- Cestas de manzanas y naranjas -->
+    <circle cx="140" cy="210" r="12" fill="#FF9F43"/>
+    <circle cx="170" cy="210" r="12" fill="#E26D5A"/>
+    <circle cx="200" cy="210" r="12" fill="#FF9F43"/>
+    <circle cx="230" cy="210" r="12" fill="#E26D5A"/>
+
+    <!-- Puesto de mercado 2: Panes y harina -->
+    <rect x="500" y="160" width="180" height="70" fill="#4FB6A3" rx="4"/>
+    <path d="M 480 160 L 590 110 L 700 160 Z" fill="#FFE3B3"/>
+    <!-- Panes dorados -->
+    <ellipse cx="550" cy="210" rx="18" ry="10" fill="#C97B3D"/>
+    <ellipse cx="600" cy="210" rx="18" ry="10" fill="#C97B3D"/>
+    <ellipse cx="650" cy="210" rx="18" ry="10" fill="#C97B3D"/>
+  </g>
+
+  <!-- Plano Frente: Familias de ambos pueblos compartiendo y abrazándose -->
+  <g id="plano-frente">
+    <!-- Abrazo fraterno de vecinos en el centro -->
+    <g transform="translate(340, 210) scale(0.8)">
+      <!-- Nico y un amigo compartiendo un pan y un mango -->
+      <circle cx="80" cy="80" r="40" fill="#6B4423"/>
+      <circle cx="80" cy="90" r="35" fill="#F8CBB2"/>
+      <circle cx="68" cy="86" r="6" fill="#FFFFFF"/>
+      <circle cx="69" cy="87" r="3" fill="#232D36"/>
+      <circle cx="92" cy="86" r="6" fill="#FFFFFF"/>
+      <circle cx="93" cy="87" r="3" fill="#232D36"/>
+      <path d="M 72 102 Q 80 112 88 102" stroke="#3A2E2A" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+      <path d="M 48 130 Q 80 120 112 130 L 120 220 L 40 220 Z" fill="#4FB6A3"/>
+
+      <!-- Amigo del otro pueblo -->
+      <circle cx="160" cy="80" r="40" fill="#5A3A28"/>
+      <circle cx="160" cy="90" r="35" fill="#F8CBB2"/>
+      <circle cx="148" cy="86" r="6" fill="#FFFFFF"/>
+      <circle cx="149" cy="87" r="3" fill="#232D36"/>
+      <circle cx="172" cy="86" r="6" fill="#FFFFFF"/>
+      <circle cx="173" cy="87" r="3" fill="#232D36"/>
+      <path d="M 152 102 Q 160 112 168 102" stroke="#3A2E2A" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+      <path d="M 128 130 Q 160 120 192 130 L 200 220 L 120 220 Z" fill="#5B6FD6"/>
+    </g>
+  </g>
+</svg>

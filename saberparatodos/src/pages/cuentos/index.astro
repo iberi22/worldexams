@@ -29,15 +29,18 @@ const allValores = [...new Set(catalog.map((c) => c.valor).filter(Boolean))].sor
 // Canonical URL & SEO metadata
 const siteUrl = (import.meta.env.PUBLIC_SITE_URL || Astro.site?.toString() || 'https://saberparatodos.space').replace(/\/$/, '');
 const canonicalURL = `${siteUrl}/cuentos/`;
-const pageTitle = 'Cuentos Infantiles e Ilustrados — SaberParaTodos';
+const pageTitle = 'Cuentos Infantiles Ilustrados | SaberParaTodos';
 const pageDescription = 'Catálogo de cuentos infantiles ilustrados con valores, actividades de comprensión lectora y libre de publicidad.';
 ---
 
-<Layout title={pageTitle} description={pageDescription} noindex={true}>
+<Layout
+  title={pageTitle}
+  description={pageDescription}
+  image="/og-image.svg"
+  type="website"
+  noindex={true}
+>
   <link slot="head" rel="canonical" href={canonicalURL} />
-  <meta slot="head" property="og:title" content={pageTitle} />
-  <meta slot="head" property="og:description" content={pageDescription} />
-  <meta slot="head" property="og:type" content="website" />
 
   <div class="min-h-screen bg-[#FDF6EC] text-[#3A2E2A] font-sans antialiased pb-16">
     <!-- Breadcrumb / Top Bar -->
