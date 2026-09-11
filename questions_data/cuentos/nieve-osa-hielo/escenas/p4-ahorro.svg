@@ -1,0 +1,47 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Nieve apaga la farola de la cueva para ahorrar energía">
+  <!-- PLANO 1: FONDO (Interior de cueva de nieve con tonos fríos amables) -->
+  <rect width="800" height="450" fill="#2F3A45"/>
+  <!-- Arco de hielo de la cueva -->
+  <path d="M 0 0 L 800 0 L 800 450 L 700 450 C 650 200 150 200 100 450 L 0 450 Z" fill="#455A64"/>
+  <path d="M 0 0 L 800 0 L 800 450 L 730 450 C 680 230 120 230 70 450 L 0 450 Z" fill="#546E7A"/>
+
+  <!-- PLANO 2: MEDIO (Entrada de la cueva hacia el exterior helado) -->
+  <path d="M 120 450 C 170 250 630 250 680 450 Z" fill="#E8F1F5"/>
+
+  <!-- PLANO 3: FRENTE (Farola apagándose y Nieve organizada) -->
+  <!-- Farola de la cueva -->
+  <g transform="translate(520, 140)">
+    <!-- Cadena y soporte -->
+    <line x1="30" y1="0" x2="30" y2="40" stroke="#37474F" stroke-width="4"/>
+    <!-- Cúpula farola -->
+    <polygon points="10,40 50,40 40,30 20,30" fill="#37474F"/>
+    <!-- Cristal con brillo cálido apagado / suave -->
+    <rect x="15" y="40" width="30" height="40" rx="4" fill="#FFE082" opacity="0.6"/>
+    <rect x="26" y="48" width="8" height="24" rx="4" fill="#FFB300"/>
+    <polygon points="10,80 50,80 30,90" fill="#37474F"/>
+    <!-- Destello de apagado / ahorro -->
+    <circle cx="30" cy="60" r="28" fill="#FFF59D" opacity="0.2"/>
+  </g>
+
+  <!-- Nieve alcanzando la llave/interruptor de la farola -->
+  <g transform="translate(340, 210)">
+    <ellipse cx="60" cy="90" rx="36" ry="42" fill="#F4F8FA"/>
+    <!-- Brazo estirado hacia la farola -->
+    <path d="M 80 70 L 140 10" stroke="#F4F8FA" stroke-width="16" stroke-linecap="round"/>
+    <circle cx="140" cy="10" r="10" fill="#BFD9E8"/>
+
+    <circle cx="60" cy="45" r="28" fill="#FFFFFF"/>
+    <circle cx="44" cy="28" r="8" fill="#BFD9E8"/>
+    <circle cx="76" cy="28" r="8" fill="#BFD9E8"/>
+
+    <!-- Ojos atentos -->
+    <circle cx="50" cy="40" r="6" fill="#FFFFFF"/>
+    <circle cx="52" cy="40" r="3" fill="#232D36"/>
+    <circle cx="70" cy="40" r="6" fill="#FFFFFF"/>
+    <circle cx="72" cy="40" r="3" fill="#232D36"/>
+
+    <ellipse cx="60" cy="50" rx="9" ry="6" fill="#E8F1F5"/>
+    <ellipse cx="60" cy="48" rx="4" ry="2.5" fill="#232D36"/>
+  </g>
+</svg>

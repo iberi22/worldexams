@@ -1,0 +1,36 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="La luz de la aurora boreal brilla sobre el hielo grueso en invierno">
+  <!-- PLANO 1: FONDO (Cielo nocturno con aurora boreal espectacular verde y violeta) -->
+  <rect width="800" height="450" fill="#1C2833"/>
+  <!-- Ondas de Aurora Boreal (magia #5B6FD6 y calma #4FB6A3) -->
+  <path d="M 0 80 Q 200 20 400 110 T 800 60 L 800 240 Q 600 180 400 220 T 0 160 Z" fill="#4FB6A3" opacity="0.45"/>
+  <path d="M 0 120 Q 250 60 500 140 T 800 100 L 800 260 Q 550 200 300 240 T 0 200 Z" fill="#5B6FD6" opacity="0.4"/>
+  <path d="M 100 40 Q 300 100 500 30 T 800 80 L 800 180 Q 500 120 300 160 T 100 100 Z" fill="#A29BFE" opacity="0.35"/>
+
+  <!-- Estrellas brillantes en el cielo -->
+  <circle cx="120" cy="50" r="3" fill="#FFFFFF"/>
+  <circle cx="280" cy="90" r="2.5" fill="#FFFFFF"/>
+  <circle cx="450" cy="40" r="3.5" fill="#FFFFFF"/>
+  <circle cx="680" cy="70" r="2" fill="#FFFFFF"/>
+  <circle cx="750" cy="130" r="3" fill="#FFFFFF"/>
+
+  <!-- PLANO 2: MEDIO (Montañas de nieve reflejando la aurora) -->
+  <polygon points="40,280 200,160 360,280" fill="#2E4053"/>
+  <polygon points="300,280 480,150 660,280" fill="#283747"/>
+  <!-- Suelo de hielo grueso y firme -->
+  <rect y="260" width="800" height="190" fill="#E8F1F5"/>
+
+  <!-- PLANO 3: FRENTE (Nieve observando la aurora y sintiendo el hielo firme) -->
+  <g transform="translate(360, 230)">
+    <ellipse cx="40" cy="80" rx="30" ry="34" fill="#F4F8FA"/>
+    <circle cx="40" cy="42" r="25" fill="#FFFFFF"/>
+    <circle cx="26" cy="28" r="7" fill="#BFD9E8"/>
+    <circle cx="54" cy="28" r="7" fill="#BFD9E8"/>
+    <path d="M 22 58 Q 40 68 58 58 Q 50 70 40 72 Q 30 70 22 58 Z" fill="#BFD9E8"/>
+    <!-- Ojos mirando hacia arriba fascinada -->
+    <circle cx="32" cy="38" r="5" fill="#FFFFFF"/>
+    <circle cx="33" cy="36" r="2.5" fill="#232D36"/>
+    <circle cx="48" cy="38" r="5" fill="#FFFFFF"/>
+    <circle cx="49" cy="36" r="2.5" fill="#232D36"/>
+  </g>
+</svg>
