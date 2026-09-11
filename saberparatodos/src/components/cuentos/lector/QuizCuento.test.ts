@@ -91,4 +91,15 @@ describe('QuizCuento Component & Data Flow Verification', () => {
     expect(svelteContent).toContain('fill="#5B6FD6"'); // Comet / Magic
     expect(svelteContent).toContain('<circle cx="24" cy="24" r="21"');
   });
+
+  it('Resuelve retratos SVG de personajes en las opciones de respuesta con accesibilidad (alt="" y aria-hidden="true")', () => {
+    const svelteContent = fs.readFileSync(quizComponentPath, 'utf8');
+
+    expect(svelteContent).toContain('personajes');
+    expect(svelteContent).toContain('resolveOptionPortrait');
+    expect(svelteContent).toContain('portraitSrc');
+    expect(svelteContent).toContain('alt=""');
+    expect(svelteContent).toContain('aria-hidden="true"');
+    expect(svelteContent).toContain('portrait-container');
+  });
 });

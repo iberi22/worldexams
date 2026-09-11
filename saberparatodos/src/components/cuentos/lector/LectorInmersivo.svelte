@@ -319,6 +319,7 @@
             quiz={adaptedQuizPreguntas()}
             explicacion={quizData().explicacion}
             slug={cuento.slug}
+            personajes={cuento.personajes}
             onComplete={() => {
               if (onComplete) onComplete();
             }}

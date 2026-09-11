@@ -9,10 +9,11 @@
     quiz: readonly QuizPregunta[] | QuizPregunta[];
     explicacion?: string;
     slug?: string;
+    personajes?: readonly string[] | string[];
     onComplete?: (score: { total: number; correctFirstTry: number }) => void;
   }
 
-  let { quiz = [], explicacion = '', slug = '', onComplete }: Props = $props();
+  let { quiz = [], explicacion = '', slug = '', personajes = [], onComplete }: Props = $props();
   let unlockedLogros = $state<Logro[]>([]);
 
   let currentIndex = $state(0);
@@ -34,6 +35,17 @@
   const currentQuestion = $derived(
     quiz.length > 0 && currentIndex < quiz.length ? quiz[currentIndex] : null
   );
+
+  function resolveOptionPortrait(optionText: string): string | null {
+    if (!slug || !personajes || personajes.length === 0) return null;
+    const lowerText = optionText.toLowerCase();
+    for (const p of personajes) {
+      if (p && lowerText.includes(p.toLowerCase())) {
+        return `/v1/cuentos/${slug}/personajes/${p.toLowerCase()}.svg`;
+      }
+    }
+    return null;
+  }
 
   function handleSelectOption(optIndex: number) {
     if (!currentQuestion || isFinished) return;
@@ -134,6 +146,7 @@
         {#each currentQuestion.opciones as opcion, idx}
           {@const isSelected = selectedOptionIndex === idx}
           {@const optionState = isSelected ? (isCorrect ? 'correct' : 'wrong') : 'idle'}
+          {@const portraitSrc = resolveOptionPortrait(opcion.texto)}
 
           <button
             type="button"
@@ -143,49 +156,44 @@
             aria-label="Opción {opcion.letra}: {opcion.texto}"
             onclick={() => handleSelectOption(idx)}
           >
-            <!-- Face Button SVG Icon -->
-            <span class="face-icon" aria-hidden="true">
-              {#if idx === 0}
-                <!-- Happy Face SVG (Mango/Joy #FF9F43) -->
-                <svg viewBox="0 0 48 48" width="40" height="40">
+            <!-- Option Portrait / Motif (Decorative Image) -->
+            <span class="portrait-container" aria-hidden="true">
+              {#if portraitSrc}
+                <img
+                  src={portraitSrc}
+                  alt=""
+                  aria-hidden="true"
+                  class="option-portrait"
+                  onerror={(e) => {
+                    const target = e.currentTarget as HTMLImageElement;
+                    if (target) target.style.display = 'none';
+                  }}
+                />
+              {:else if idx === 0 || opcion.correcta}
+                <!-- Generic Estrella Motif SVG -->
+                <svg viewBox="0 0 48 48" width="36" height="36" aria-hidden="true">
                   <circle cx="24" cy="24" r="21" fill="#FF9F43" stroke="#3A2E2A" stroke-width="3" />
-                  <!-- Eyes -->
-                  <circle cx="16" cy="18" r="4" fill="#FFFFFF" />
-                  <circle cx="16" cy="18" r="2" fill="#3A2E2A" />
-                  <circle cx="17" cy="17" r="0.8" fill="#FFFFFF" />
-                  <circle cx="32" cy="18" r="4" fill="#FFFFFF" />
-                  <circle cx="32" cy="18" r="2" fill="#3A2E2A" />
-                  <circle cx="33" cy="17" r="0.8" fill="#FFFFFF" />
-                  <!-- Smile -->
-                  <path d="M 15 28 Q 24 38 33 28" fill="none" stroke="#3A2E2A" stroke-width="3" stroke-linecap="round" />
+                  <path d="M 24 10 Q 26 21 35 24 Q 26 27 24 38 Q 22 27 13 24 Q 22 21 24 10 Z" fill="#FFF9DC" />
+                  <circle cx="21" cy="22" r="1.8" fill="#3A2E2A" />
+                  <circle cx="27" cy="22" r="1.8" fill="#3A2E2A" />
+                  <path d="M 21 28 Q 24 31 27 28" fill="none" stroke="#3A2E2A" stroke-width="2" stroke-linecap="round" />
                 </svg>
               {:else if idx === 1}
-                <!-- Thinking/Curious Face SVG (Water Green/Calm #4FB6A3) -->
-                <svg viewBox="0 0 48 48" width="40" height="40">
+                <!-- Generic Water Green Motif SVG -->
+                <svg viewBox="0 0 48 48" width="36" height="36" aria-hidden="true">
                   <circle cx="24" cy="24" r="21" fill="#4FB6A3" stroke="#3A2E2A" stroke-width="3" />
-                  <!-- Eyes looking up/side -->
-                  <circle cx="16" cy="18" r="4" fill="#FFFFFF" />
-                  <circle cx="17" cy="16" r="2" fill="#3A2E2A" />
-                  <circle cx="18" cy="15" r="0.8" fill="#FFFFFF" />
-                  <circle cx="32" cy="18" r="4" fill="#FFFFFF" />
-                  <circle cx="33" cy="16" r="2" fill="#3A2E2A" />
-                  <circle cx="34" cy="15" r="0.8" fill="#FFFFFF" />
-                  <!-- Curious mouth -->
-                  <path d="M 18 30 Q 24 27 30 30" fill="none" stroke="#3A2E2A" stroke-width="3" stroke-linecap="round" />
+                  <circle cx="17" cy="18" r="3.5" fill="#FFFFFF" />
+                  <circle cx="17" cy="18" r="1.8" fill="#3A2E2A" />
+                  <circle cx="31" cy="18" r="3.5" fill="#FFFFFF" />
+                  <circle cx="31" cy="18" r="1.8" fill="#3A2E2A" />
+                  <path d="M 18 30 Q 24 27 30 30" fill="none" stroke="#3A2E2A" stroke-width="2.5" stroke-linecap="round" />
                 </svg>
               {:else}
-                <!-- Friendly Neutral Face SVG (Comet/Magic #5B6FD6) -->
-                <svg viewBox="0 0 48 48" width="40" height="40">
+                <!-- Generic Luna/Comet Motif SVG -->
+                <svg viewBox="0 0 48 48" width="36" height="36" aria-hidden="true">
                   <circle cx="24" cy="24" r="21" fill="#5B6FD6" stroke="#3A2E2A" stroke-width="3" />
-                  <!-- Eyes -->
-                  <circle cx="16" cy="18" r="4" fill="#FFFFFF" />
-                  <circle cx="16" cy="18" r="2" fill="#3A2E2A" />
-                  <circle cx="17" cy="17" r="0.8" fill="#FFFFFF" />
-                  <circle cx="32" cy="18" r="4" fill="#FFFFFF" />
-                  <circle cx="32" cy="18" r="2" fill="#3A2E2A" />
-                  <circle cx="33" cy="17" r="0.8" fill="#FFFFFF" />
-                  <!-- Friendly line mouth -->
-                  <path d="M 17 30 Q 24 33 31 30" fill="none" stroke="#3A2E2A" stroke-width="3" stroke-linecap="round" />
+                  <path d="M 28 12 C 35 12 38 20 34 28 C 30 36 21 38 16 33 C 24 33 29 27 28 12 Z" fill="#FFF9DC" />
+                  <path d="M 22 24 Q 25 27 28 24" fill="none" stroke="#3A2E2A" stroke-width="2" stroke-linecap="round" />
                 </svg>
               {/if}
             </span>
@@ -391,11 +399,23 @@
     border-color: var(--cuento-cometa, #5B6FD6);
   }
 
-  .face-icon {
+  .portrait-container {
     display: flex;
     align-items: center;
     justify-content: center;
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    overflow: hidden;
+    background-color: var(--cuento-bg-hueso, #FDF6EC);
+    border: 2px solid var(--cuento-tinta, #3A2E2A);
     flex-shrink: 0;
+  }
+
+  .option-portrait {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
   }
 
   .option-badge {
