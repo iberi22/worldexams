@@ -4,7 +4,7 @@
     "version": "2.1",
     "created": "2026-06-05",
     "updated": "2026-09-10",
-    "total_features": 26,
+    "total_features": 27,
     "passing": 22,
     "failing": 6,
     "overall_progress_pct": 84.05,
@@ -443,6 +443,22 @@
       "github_issue": null,
       "last_tested": null,
       "srs": "SRS-FUN-021"
+    },
+    {
+      "id": "feat-cuentos-c7",
+      "category": "cuentos",
+      "description": "Ola C7 rediseno nivel StoryComet: shell+HUD, puerta, spread, fuentes, contenido v2, parallax, audio+timings, quiz+loader",
+      "passes": false,
+      "priority": "P1",
+      "progress_pct": 0.0,
+      "status": "planned",
+      "implemented_in": ".gitcore/issues/cuentos-c7/",
+      "evidence": "",
+      "verified_by": "",
+      "name": "Ola C7 rediseno nivel StoryComet",
+      "github_issue": null,
+      "last_tested": null,
+      "srs": "SRS-FUN-017..021"
     }
   ],
   "verification_commands": {
