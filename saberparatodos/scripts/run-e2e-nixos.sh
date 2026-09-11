@@ -7,5 +7,5 @@ set -euo pipefail
 # Playwright webServer uses a relative path (../node_modules), so always run
 # from this script's directory (saberparatodos/).
 cd "$(dirname "$0")/.."
-export LD_LIBRARY_PATH="$HOME/.nix-playwright-libs/lib${LD_LIBRARY_PATH:+:$LD_LIBRARY_PATH}"
+export LD_LIBRARY_PATH="$HOME/.nix-playwright-libs/lib:$HOME/.nix-profile/lib:/nix/store/0iv8glcslgfcgn371lbjr5jjw5a6cqir-gcc-15.3.0-lib/lib${LD_LIBRARY_PATH:+:$LD_LIBRARY_PATH}"
 exec npx playwright test "$@"
