@@ -205,4 +205,15 @@ const pageDescription = 'Catálogo de cuentos infantiles ilustrados con valores,
       </footer>
     </main>
   </div>
+
+  <script is:inline>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker
+          .register('/cuentos/sw-cuentos.js', { scope: '/cuentos/' })
+          .then((reg) => console.log('[SW-Cuentos] Registrado en scope:', reg.scope))
+          .catch((err) => console.error('[SW-Cuentos] Error al registrar:', err));
+      });
+    }
+  </script>
 </Layout>
