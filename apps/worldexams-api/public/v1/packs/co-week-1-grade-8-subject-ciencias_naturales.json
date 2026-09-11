@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-1-grade-8-subject-ciencias_naturales",
+    "generated_at": "2026-09-11T02:04:15.440Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-8-2026-W01-herencia-rasgos-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el genotipo de toda la descendencia en la primera generación filial ($F_1$)?",
+      "context": "En un cultivo experimental de arvejas en Tunja, se cruzan plantas homocigotas dominantes de semillas amarillas ($AA$) con plantas homocigotas recesivas de semillas verdes ($aa$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Heterocigoto ($Aa$)",
+          "is_correct": true,
+          "feedback": "Correcto. $AA \\times aa \\implies 100\\%$ $Aa$ (Leyes de Mendel)."
+        },
+        {
+          "letter": "B",
+          "text": "Homocigoto dominante ($AA$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se requiere que ambos progenitores aporten el alelo $A$."
+        },
+        {
+          "letter": "C",
+          "text": "Homocigoto recesivo ($aa$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El progenitor dominante siempre aporta un alelo $A$."
+        },
+        {
+          "letter": "D",
+          "text": "Mitad $AA$ y mitad $aa$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto no ocurre en el cruce de razas puras distintas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cruce monohíbrido de razas puras $AA \\times aa$: la totalidad de la descendencia $F_1$ hereda el genotipo heterocigoto $Aa$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W01-herencia-rasgos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W01-herencia-rasgos-001-MASTERY-bundle-v2",
+      "statement": "¿Qué término define el conjunto de características físicas y observables de un organismo resultantes de la interacción entre sus genes y el ambiente?",
+      "context": "En Bogotá, se estudia la diferencia entre genotipo y fenotipo en roedores de laboratorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fenotipo",
+          "is_correct": true,
+          "feedback": "Correcto. El fenotipo es la manifestación física y observable de la información genética."
+        },
+        {
+          "letter": "B",
+          "text": "Genotipo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El genotipo es la composición de alelos no visible directamente."
+        },
+        {
+          "letter": "C",
+          "text": "Cariotipo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cariotipo es el mapa ordenado de cromosomas celulares."
+        },
+        {
+          "letter": "D",
+          "text": "Genoma",
+          "is_correct": false,
+          "feedback": "Incorrecto. El genoma es la totalidad del material genético de la especie."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Fenotipo $=$ Genotipo $+$ Ambiente (manifestación observable de los rasgos).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W01-herencia-rasgos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W01-herencia-rasgos-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la proporción fenotípica esperada en la generación $F_2$?",
+      "context": "En un cruce de dos plantas heterocigotas de tallo alto ($Tt \\times Tt$) realizado en Rionegro, Antioquia, la característica 'tallo alto' ($T$) es dominante sobre 'tallo bajo' ($t$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3$ plantas altas por cada $1$ planta baja ($3:1$)",
+          "is_correct": true,
+          "feedback": "Correcto. $1TT : 2Tt : 1tt \\implies 3$ fenotipos altos : $1$ fenotipo bajo."
+        },
+        {
+          "letter": "B",
+          "text": "$1$ planta alta por cada $1$ planta baja ($1:1$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al cruce de prueba $Tt \\times tt$."
+        },
+        {
+          "letter": "C",
+          "text": "Todas las plantas serán de tallo bajo ($0:4$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El alelo recesivo solo se expresa en el homocigoto $tt$."
+        },
+        {
+          "letter": "D",
+          "text": "$1$ planta alta por cada $3$ plantas bajas ($1:3$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación de dominancia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cuadro de Punnett para $Tt \\times Tt$ da $1 TT$ (alto), $2 Tt$ (alto), $1 tt$ (bajo). Proporción fenotípica $= 3:1$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W01-herencia-rasgos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W01-herencia-rasgos-001-MASTERY-bundle-v4",
+      "statement": "Si se cruzan dos toros heterocigotas berrendos ($BN \\times BN$), ¿qué porcentaje de la descendencia se espera que tenga fenotipo berrendo?",
+      "context": "En la raza bovina Blanco Orejinegro (BON) en Manizales, el color de pelaje sigue un patrón de codominancia donde el alelo blanco ($B$) y el alelo negro ($N$) se expresan simultáneamente produciendo terneros manchados o berrendos ($BN$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$50\\%$",
+          "is_correct": true,
+          "feedback": "Correcto. Genotipos: $25\\% BB$, $50\\% BN$ (berrendos), $25\\% NN$."
+        },
+        {
+          "letter": "B",
+          "text": "$75\\%$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurriría si uno de los alelos fuera completamente dominante."
+        },
+        {
+          "letter": "C",
+          "text": "$25\\%$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $25\\%$ corresponde a cada fenotipo homocigoto ($BB$ o $NN$)."
+        },
+        {
+          "letter": "D",
+          "text": "$100\\%$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Habrá segregación genotípica $1:2:1$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En codominancia $BN \\times BN$: $1/4 BB$ (blanco), $2/4 BN$ (berrendo - $50\\%$), $1/4 NN$ (negro).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W01-herencia-rasgos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W01-herencia-rasgos-001-MASTERY-bundle-v5",
+      "statement": "¿Qué probabilidad tienen sus hijos varones de padecer daltonismo?",
+      "context": "En Cali, se investiga la daltonismo en humanos, una enfermedad hereditaria ligada al cromosoma $X$ de carácter recesivo ($X^d$). Un hombre de visión normal ($X^D Y$) tiene hijos con una mujer portadora sana ($X^D X^d$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$50\\%$ de los hijos varones",
+          "is_correct": true,
+          "feedback": "Correcto. Los varones reciben el cromosoma $Y$ del padre y un $X$ de la madre ($50\\% X^D \\implies$ sano, $50\\% X^d \\implies$ daltónico)."
+        },
+        {
+          "letter": "B",
+          "text": "$100\\%$ de los hijos varones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo ocurriría si la madre fuera daltónica homocigota ($X^d X^d$)."
+        },
+        {
+          "letter": "C",
+          "text": "$0\\%$ de los hijos varones",
+          "is_correct": false,
+          "feedback": "Incorrecto. La madre portadora aporta el alelo recesivo al $50\\%$ de sus gametos."
+        },
+        {
+          "letter": "D",
+          "text": "$25\\%$ de los hijos varones",
+          "is_correct": false,
+          "feedback": "Incorrecto. $25\\%$ es la probabilidad sobre el total de hijos sin distinguir sexo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Varones hereda $Y$ del padre. La madre aporta $X^D$ ($50\\%$) o $X^d$ ($50\\%$). Por ende, el $50\\%$ de los varones será daltónico ($X^d Y$).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W01-herencia-rasgos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W01-herencia-rasgos-001-MASTERY-bundle-v6",
+      "statement": "Si una madre de grupo sanguíneo O ($ii$) se cruza con un padre de grupo AB ($I^A I^B$), ¿cuáles grupos sanguíneos pueden tener sus hijos?",
+      "context": "En los grupos sanguíneos ABO en humanos en Barranquilla, los alelos $I^A$ e $I^B$ son codominantes entre sí y dominantes sobre el alelo $i$ (grupo O).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Grupo A o Grupo B únicamente",
+          "is_correct": true,
+          "feedback": "Correcto. Gametos maternos $i$, paternos $I^A$ o $I^B \\implies$ Genotipos $I^A i$ (Grupo A) o $I^B i$ (Grupo B)."
+        },
+        {
+          "letter": "B",
+          "text": "Grupo AB o Grupo O únicamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se pueden formar $ii$ ni $I^A I^B$."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente Grupo O",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para tener grupo O se requiere recibir el alelo $i$ de ambos padres."
+        },
+        {
+          "letter": "D",
+          "text": "Grupo A, Grupo B, Grupo AB o Grupo O",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los grupos AB y O son imposibles en este cruce."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$ii \\times I^A I^B \\implies 50\\% I^A i$ (Grupo A) y $50\\% I^B i$ (Grupo B).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W01-herencia-rasgos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W01-herencia-rasgos-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la proporción fenotípica mendeliana clásica esperada en la descendencia?",
+      "context": "En Cúcuta, un genetista realiza un cruce dihíbrido entre dos plantas de arveja heterocigotas para dos caracteres independientes: forma de la semilla (Lisa $R$ dominante / Rugosa $r$) y color (Amarilla $Y$ dominante / Verde $y$). Cruce: $RrYy \\times RrYy$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9:3:3:1$",
+          "is_correct": true,
+          "feedback": "Correcto. $9$ Lisas-Amarillas : $3$ Lisas-Verdes : $3$ Rugosas-Amarillas : $1$ Rugosa-Verde."
+        },
+        {
+          "letter": "B",
+          "text": "$3:1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la proporción de un cruce monohíbrido."
+        },
+        {
+          "letter": "C",
+          "text": "$1:2:1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la proporción genotípica monohíbrida."
+        },
+        {
+          "letter": "D",
+          "text": "$1:1:1:1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a un cruce de prueba dihíbrido $RrYy \\times rryy$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Tercera Ley de Mendel (segregación independiente en dihíbridos): Proporción fenotípica $9:3:3:1$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W01-herencia-rasgos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W01-herencia-rasgos-001-MASTERY-bundle-v8",
+      "statement": "¿Qué riesgo existe de que cada uno de sus hijos nazca con la enfermedad?",
+      "context": "En Bucaramanga, se estudia una familia con pedigree para una enfermedad genética autosómica dominante. El padre está afectado ($Aa$) y la madre es sana ($aa$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$50\\%$ de probabilidad para cada hijo, independientemente del sexo.",
+          "is_correct": true,
+          "feedback": "Correcto. Cruce $Aa \\times aa \\implies 50\\% Aa$ (afectado) y $50\\% aa$ (sano)."
+        },
+        {
+          "letter": "B",
+          "text": "$25\\%$ de probabilidad para las hijas únicamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las enfermedades autosómicas afectan por igual a hombres y mujeres."
+        },
+        {
+          "letter": "C",
+          "text": "$100\\%$ de probabilidad si son varones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No está ligada al sexo."
+        },
+        {
+          "letter": "D",
+          "text": "$0\\%$ de probabilidad si la madre es sana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al ser dominante, basta un solo alelo $A$ heredado del padre."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Estar en autosoma significa sin sesgo de sexo. $Aa \\times aa \\implies 50\\% Aa$ (enfermo) y $50\\% aa$ (sano).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W01-herencia-rasgos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W01-herencia-rasgos-001-MASTERY-bundle-v9",
+      "statement": "¿Qué mecanismo de herencia no mendeliana explica este patrón?",
+      "context": "En Pasto, se observa la herencia del color de plumaje en gallinas andinas. Cuando se cruzan aves de plumaje negro con aves de plumaje blanco, la descendencia $F_1$ presenta un plumaje gris intermedio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dominancia incompleta (herencia intermedia)",
+          "is_correct": true,
+          "feedback": "Correcto. Ningún alelo domina por completo, resultando un fenotipo heterocigoto intermedio."
+        },
+        {
+          "letter": "B",
+          "text": "Codominancia pura",
+          "is_correct": false,
+          "feedback": "Incorrecto. En codominancia se observan manchas de ambos colores simultáneamente, no una mezcla uniforme."
+        },
+        {
+          "letter": "C",
+          "text": "Alelos múltiples",
+          "is_correct": false,
+          "feedback": "Incorrecto. Involucra más de dos alelos alternativos en la población."
+        },
+        {
+          "letter": "D",
+          "text": "Herencia holándrica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se refiere a genes exclusivos del cromosoma Y."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La dominancia incompleta produce un fenotipo intermedio mezcladivo en los heterocigotos (ej. Negro + Blanco $=$ Gris).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W01-herencia-rasgos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W01-herencia-rasgos-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el significado evolutivo e biológico fundamental del sobrecruzamiento?",
+      "context": "En Armenia, durante la meiosis en las gónadas, se produce el fenómeno de sobrecruzamiento (crossing-over) entre cromátidas no hermanas durante la Profase I.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Generar variabilidad genética recombinando alelos maternos y paternos.",
+          "is_correct": true,
+          "feedback": "Correcto. El crossing-over mezcla combinaciones de alelos creando gametos únicos."
+        },
+        {
+          "letter": "B",
+          "text": "Duplicar la cantidad de cromosomas celulares de diploide a tetraploide.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La meiosis reduce el número de cromosomas a haploide ($n$)."
+        },
+        {
+          "letter": "C",
+          "text": "Impedir las mutaciones espontáneas durante la replicación del ADN.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sobrecruzamiento no es un mecanismo de reparación de mutaciones."
+        },
+        {
+          "letter": "D",
+          "text": "Asegurar que todas las células hijas sean genéticamente idénticas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La clonación idéntica es propia de la mitosis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El sobrecruzamiento meiótico en recombina ligamientos genéticos incrementando drásticamente la variabilidad genotípica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W01-herencia-rasgos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W01-herencia-rasgos-001-MASTERY-bundle-v11",
+      "statement": "¿Qué interpretación es válida sobre la distancia física relativa entre estos genes en el mismo cromosoma?",
+      "context": "Un mapa de ligamiento genético en moscas *Drosophila* elaborado en la Universidad del Valle muestra que la frecuencia de recombinación entre el gen $A$ y el gen $B$ es del $18\\%$, mientras que entre el gen $A$ y el gen $C$ es del $5\\%$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El gen $A$ está físicamente más cerca del gen $C$ ($5\\text{ cM}$) que del gen $B$ ($18\\text{ cM}$).",
+          "is_correct": true,
+          "feedback": "Correcto. $1\\%$ de frecuencia de recombinación $= 1$ unidad de mapa (centiMorgan, cM). Menor recombinación implica mayor cercanía física."
+        },
+        {
+          "letter": "B",
+          "text": "El gen $A$ y el gen $B$ se heredan independientemente cumpliendo la tercera ley de Mendel.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al estar ligados en el mismo cromosoma con $<50\\%$ de recombinación, no se heredan independientemente."
+        },
+        {
+          "letter": "C",
+          "text": "El gen $C$ está ubicado en un cromosoma diferente al gen $A$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Recombinación del $5\\%$ demuestra ligamiento cercano en el mismo cromosoma."
+        },
+        {
+          "letter": "D",
+          "text": "Los tres genes se ubican en el mismo centrómero exactamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La distancia en cM mide locus genéticos separados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A menor frecuencia de sobrecruzamiento/recombinación entre dos genes, menor es la distancia física entre sus loci cromosómicos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-8-2026-W01-herencia-rasgos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W01-herencia-rasgos-001-MASTERY-bundle-v12",
+      "statement": "¿Qué falla durante el proceso de división meiótica celular origina este evento de aneuploidía?",
+      "context": "En Bogotá, se diagnostica a un paciente con Síndrome de Down, presentando un cariotipo de $47$ cromosomas debido a una trisomía en el par $21$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No disyunción meiótica de los cromosomas homólogos o cromátidas hermanas durante la anafase.",
+          "is_correct": true,
+          "feedback": "Correcto. La falta de separación adecuada provoca que un gameto reciba dos copias del cromosoma 21."
+        },
+        {
+          "letter": "B",
+          "text": "Duplicación del ADN sin división citoplasmática en mitosis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Originaría poliploidía total ($4n$), no aneuploidía focalizada en un par."
+        },
+        {
+          "letter": "C",
+          "text": "Perdida completa del huso acromático durante la telofase.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La no disyunción ocurre en Anafase I o II."
+        },
+        {
+          "letter": "D",
+          "text": "Entrecruzamiento desigual en la profase mitótica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El crossing-over no altera el número cromosómico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La no disyunción en la anafase meiótica genera gametos n+1 (24 cromosomas). Al fertilizarse con un gameto normal (23), resulta $2n+1 = 47$ cromosomas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-8-2026-W01-herencia-rasgos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

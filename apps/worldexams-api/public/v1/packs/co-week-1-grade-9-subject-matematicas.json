@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-1-grade-9-subject-matematicas",
+    "generated_at": "2026-09-11T02:04:15.643Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-9-2026-W01-funcion-lineal-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la pendiente $m$ de la recta?",
+      "context": "En Bogotá, una recta pasa por los puntos $A(1, 3)$ y $B(3, 7)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m = 2$",
+          "is_correct": true,
+          "feedback": "Correcto. $m = \\frac{7 - 3}{3 - 1} = \\frac{4}{2} = 2$."
+        },
+        {
+          "letter": "B",
+          "text": "$m = \\frac{1}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la fórmula (cambio en $x$ sobre cambio en $y$)."
+        },
+        {
+          "letter": "C",
+          "text": "$m = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste dividir entre el cambio en $x$ ($3 - 1$)."
+        },
+        {
+          "letter": "D",
+          "text": "$m = -2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el signo del numerador."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente es $m = \\frac{y_2 - y_1}{x_2 - x_1} = \\frac{7 - 3}{3 - 1} = \\frac{4}{2} = 2$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-9-2026-W01-funcion-lineal-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W01-funcion-lineal-001-MASTERY-bundle-v2",
+      "statement": "¿Qué representa el valor $5.000$ en el modelo de función lineal?",
+      "context": "En Medellín, la ecuación de costos de un servicio de mensajería está dada por $C(x) = 5.000 + 2.000x$, donde $x$ es el número de kilómetros recorridos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El costo fijo inicial del servicio",
+          "is_correct": true,
+          "feedback": "Correcto. Es el intercepto con el eje $y$, correspondiente a $C(0)$."
+        },
+        {
+          "letter": "B",
+          "text": "El costo por kilómetro recorrido",
+          "is_correct": false,
+          "feedback": "Incorrecto. El costo por kilómetro es la pendiente ($2.000$)."
+        },
+        {
+          "letter": "C",
+          "text": "La distancia máxima en kilómetros",
+          "is_correct": false,
+          "feedback": "Incorrecto. $5.000$ está expresado en pesos, no en kilómetros."
+        },
+        {
+          "letter": "D",
+          "text": "El costo total de un viaje de 5 km",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para $x=5$, el costo es $15.000$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la forma $y = mx + b$, el término independiente $b = 5.000$ representa el cargo fijo inicial.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-9-2026-W01-funcion-lineal-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W01-funcion-lineal-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la ecuación explícita de la recta?",
+      "context": "En Cali, se requiere hallar la ecuación de la recta con pendiente $m = -3$ que pasa por el punto $(2, 4)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = -3x + 10$",
+          "is_correct": true,
+          "feedback": "Correcto. $y - 4 = -3(x - 2) \\implies y - 4 = -3x + 6 \\implies y = -3x + 10$."
+        },
+        {
+          "letter": "B",
+          "text": "$y = -3x + 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asumiste que $4$ era el intercepto con el eje $y$."
+        },
+        {
+          "letter": "C",
+          "text": "$y = -3x - 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo al despejar el punto."
+        },
+        {
+          "letter": "D",
+          "text": "$y = 3x + 10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el signo de la pendiente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Usando punto-pendiente: $y - 4 = -3(x - 2) \\implies y = -3x + 6 + 4 = -3x + 10$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W01-funcion-lineal-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W01-funcion-lineal-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la ecuación de la segunda recta?",
+      "context": "En Barranquilla, dos rectas son paralelas. La primera recta tiene la ecuación $y = 4x - 7$. La segunda recta pasa por el punto $(0, 3)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = 4x + 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Rectas paralelas poseen igual pendiente ($m=4$). Con intercepto $(0,3)$, $y = 4x + 3$."
+        },
+        {
+          "letter": "B",
+          "text": "$y = -\\frac{1}{4}x + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste la pendiente perpendicular en vez de paralela."
+        },
+        {
+          "letter": "C",
+          "text": "$y = 4x - 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Signo equivocado en el intercepto."
+        },
+        {
+          "letter": "D",
+          "text": "$y = -4x + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el signo de la pendiente paralela."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Paralelas $\\implies m_1 = m_2 = 4$. Con $b = 3$, la recta es $y = 4x + 3$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W01-funcion-lineal-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W01-funcion-lineal-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la solución del sistema para $(x, y)$?",
+      "context": "En Bucaramanga, se resuelve el sistema $2\\times 2$ por sustitución: $\\begin{cases} x + y = 10 \\\\ 2x - y = 8 \\end{cases}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(6, 4)$",
+          "is_correct": true,
+          "feedback": "Correcto. Sumando ambas ecuaciones: $3x = 18 \\implies x = 6$. Luego $6 + y = 10 \\implies y = 4$."
+        },
+        {
+          "letter": "B",
+          "text": "$(7, 3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $2(7) - 3 = 11 \\neq 8$."
+        },
+        {
+          "letter": "C",
+          "text": "$(5, 5)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $2(5) - 5 = 5 \\neq 8$."
+        },
+        {
+          "letter": "D",
+          "text": "$(8, 2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $8+2=10$ pero $2(8)-2 = 14 \\neq 8$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sumando miembro a miembro: $3x = 18 \\implies x = 6$. Reemplazando: $y = 10 - 6 = 4$. Solución $(6, 4)$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W01-funcion-lineal-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W01-funcion-lineal-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el valor de $m_2$?",
+      "context": "En Pereira, dos rectas perpendiculares se cortan en el plano. Si la primera recta tiene pendiente $m_1 = -2$, ¿cuál es la pendiente $m_2$ de la recta perpendicular?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m_2 = \\frac{1}{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. Perpendiculares cumplen $m_1 \\cdot m_2 = -1 \\implies m_2 = -1 / (-2) = 1/2$."
+        },
+        {
+          "letter": "B",
+          "text": "$m_2 = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste invertir la fracción."
+        },
+        {
+          "letter": "C",
+          "text": "$m_2 = -\\frac{1}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste cambiar el signo."
+        },
+        {
+          "letter": "D",
+          "text": "$m_2 = -2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pendientes iguales corresponden a rectas paralelas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Condición de perpendicularidad: $m_1 \\cdot m_2 = -1 \\implies m_2 = -\\frac{1}{-2} = \\frac{1}{2}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W01-funcion-lineal-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W01-funcion-lineal-001-MASTERY-bundle-v7",
+      "statement": "¿A qué distancia $x$ en kilómetros ambas tarifas son exactamente iguales?",
+      "context": "En Manizales, la tarifa de dos taxis se modela así: Taxi A cobra $y = 3.000 + 1.500x$, Taxi B cobra $y = 1.000 + 2.000x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4\\text{ km}$",
+          "is_correct": true,
+          "feedback": "Correcto. $3.000 + 1.500x = 1.000 + 2.000x \\implies 2.000 = 500x \\implies x = 4\\text{ km}$."
+        },
+        {
+          "letter": "B",
+          "text": "$5\\text{ km}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $3.000 + 1500(5) = 10.500 \\neq 1.000 + 2000(5) = 11.000$."
+        },
+        {
+          "letter": "C",
+          "text": "$3\\text{ km}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $3.000 + 4.500 = 7.500 \\neq 1.000 + 6.000 = 7.000$."
+        },
+        {
+          "letter": "D",
+          "text": "$2\\text{ km}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $3.000 + 3.000 = 6.000 \\neq 1.000 + 4.000 = 5.000$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Igualando tarifas: $3.000 + 1.500x = 1.000 + 2.000x \\implies 500x = 2.000 \\implies x = 4\\text{ km}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W01-funcion-lineal-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W01-funcion-lineal-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el valor de $x$ e $y$?",
+      "context": "En Pasto, se analiza el sistema $2\\times 2$: $\\begin{cases} 3x + 2y = 12 \\\\ 5x - 2y = 4 \\end{cases}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 2, y = 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Sumando: $8x = 16 \\implies x = 2$. Luego $3(2) + 2y = 12 \\implies 2y = 6 \\implies y = 3$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 3, y = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste los valores de $x$ e $y$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 4, y = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $5(4) - 0 = 20 \\neq 4$."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 1, y = 4.5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la suma de ecuaciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Eliminación directa de $y$: $8x = 16 \\implies x = 2$. Reemplazando: $6 + 2y = 12 \\implies 2y = 6 \\implies y = 3$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W01-funcion-lineal-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W01-funcion-lineal-001-MASTERY-bundle-v9",
+      "statement": "¿Cuántas soluciones tiene el sistema de ecuaciones?",
+      "context": "En Cúcuta, un sistema de ecuaciones $2\\times 2$ representa dos rectas paralelas no coincidentes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguna solución (inconsistente)",
+          "is_correct": true,
+          "feedback": "Correcto. Las rectas paralelas jamás se intersectan, por lo que no existe punto común."
+        },
+        {
+          "letter": "B",
+          "text": "Infinitas soluciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Infinitas soluciones ocurren cuando las rectas son coincidentes (misma recta)."
+        },
+        {
+          "letter": "C",
+          "text": "Exactamente una solución",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurre cuando las pendientes son distintas y las rectas se cortan en un punto."
+        },
+        {
+          "letter": "D",
+          "text": "Dos soluciones distintas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dos rectas en el plano no pueden intersectarse en exactamente dos puntos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si las rectas son paralelas no coincidentes, no tienen puntos en común. El sistema es inconsistente y no tiene solución.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W01-funcion-lineal-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W01-funcion-lineal-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la edad de Carlos?",
+      "context": "En Armenia, la suma de las edades de Ana y Carlos es $35$ años. Carlos es $5$ años mayor que Ana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$20$ años",
+          "is_correct": true,
+          "feedback": "Correcto. $A + C = 35$ y $C = A + 5 \\implies A + A + 5 = 35 \\implies 2A = 30 \\implies A = 15$. Carlos tiene $20$ años."
+        },
+        {
+          "letter": "B",
+          "text": "$15$ años",
+          "is_correct": false,
+          "feedback": "Incorrecto. $15$ años es la edad de Ana."
+        },
+        {
+          "letter": "C",
+          "text": "$25$ años",
+          "is_correct": false,
+          "feedback": "Incorrecto. $25 + 20 = 45 \\neq 35$."
+        },
+        {
+          "letter": "D",
+          "text": "$18$ años",
+          "is_correct": false,
+          "feedback": "Incorrecto. $18 + 13 = 31 \\neq 35$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$A + C = 35$, $C - A = 5$. Sumando: $2C = 40 \\implies C = 20$ años.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W01-funcion-lineal-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W01-funcion-lineal-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál debe ser el valor exacto de $k$?",
+      "context": "En Cartagena, se determina el valor de $k$ para que el sistema $\\begin{cases} kx + 3y = 6 \\\\ 4x + 6y = 12 \\end{cases}$ tenga infinitas soluciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$k = 2$",
+          "is_correct": true,
+          "feedback": "Correcto. Para infinitas soluciones, las ecuaciones deben ser proporcionales. La segunda es el doble de la primera $\\implies 2k = 4 \\implies k = 2$."
+        },
+        {
+          "letter": "B",
+          "text": "$k = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Daría la misma pendiente pero no proporcionalidad directa en coeficientes de $y$."
+        },
+        {
+          "letter": "C",
+          "text": "$k = 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste por 2 en vez de dividir."
+        },
+        {
+          "letter": "D",
+          "text": "$k = -2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiaste el signo de proporcionalidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Infinitas soluciones $\\implies \\frac{k}{4} = \\frac{3}{6} = \\frac{6}{12} = \\frac{1}{2} \\implies k = 2$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-9-2026-W01-funcion-lineal-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W01-funcion-lineal-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la distancia exacta en unidades lineales?",
+      "context": "En Bogotá, se calcula la distancia más corta desde el origen $(0,0)$ a la recta de ecuación $3x + 4y - 12 = 0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2.4$ unidades",
+          "is_correct": true,
+          "feedback": "Correcto. $d = \\frac{|3(0) + 4(0) - 12|}{\\sqrt{3^2 + 4^2}} = \\frac{12}{5} = 2.4$."
+        },
+        {
+          "letter": "B",
+          "text": "$3.0$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste entre 4 en vez de 5."
+        },
+        {
+          "letter": "C",
+          "text": "$1.2$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste entre 10."
+        },
+        {
+          "letter": "D",
+          "text": "$4.0$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste entre 3."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Fórmula $d = \\frac{|Ax_0 + By_0 + C|}{\\sqrt{A^2 + B^2}} = \\frac{|-12|}{\\sqrt{9 + 16}} = \\frac{12}{5} = 2.4$ unidades.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-9-2026-W01-funcion-lineal-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
