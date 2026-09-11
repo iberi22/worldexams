@@ -1,0 +1,31 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Tana la tucán">
+  <!-- cola (detrás del cuerpo) -->
+  <rect x="126" y="148" width="48" height="22" rx="11" fill="#232D36" transform="rotate(-18 126 148)"/>
+  <rect x="126" y="160" width="48" height="10" rx="5" fill="#E26D5A" transform="rotate(-18 126 160)"/>
+  <!-- cuerpo -->
+  <ellipse cx="100" cy="126" rx="52" ry="60" fill="#2F3A45"/>
+  <!-- cabeza (funde con el cuerpo) -->
+  <circle cx="100" cy="62" r="40" fill="#2F3A45"/>
+  <!-- alas -->
+  <ellipse cx="56" cy="130" rx="15" ry="32" fill="#232D36" transform="rotate(10 56 130)"/>
+  <ellipse cx="144" cy="130" rx="15" ry="32" fill="#232D36" transform="rotate(-10 144 130)"/>
+  <!-- pecho (encima, centrado) -->
+  <ellipse cx="100" cy="140" rx="29" ry="35" fill="#FFF6E8"/>
+  <!-- pico firma naranja, punta redondeada -->
+  <path d="M100 50 L162 71 Q172 74 162 79 L100 92 Z" fill="#FF9F43"/>
+  <path d="M100 50 L162 71 Q168 73 162 76 L100 80 Z" fill="#FFB765"/>
+  <line x1="104" y1="84" x2="156" y2="77" stroke="#3A2E2A" stroke-width="3" stroke-linecap="round"/>
+  <!-- ojos plantilla común -->
+  <circle cx="84" cy="52" r="11" fill="#FFFFFF"/>
+  <circle cx="85" cy="54" r="5" fill="#232D36"/>
+  <circle cx="87" cy="52" r="2" fill="#FFFFFF"/>
+  <circle cx="114" cy="52" r="11" fill="#FFFFFF"/>
+  <circle cx="115" cy="54" r="5" fill="#232D36"/>
+  <circle cx="117" cy="52" r="2" fill="#FFFFFF"/>
+  <!-- mejilla -->
+  <circle cx="70" cy="70" r="6" fill="#E26D5A" opacity="0.55"/>
+  <!-- patas simétricas -->
+  <rect x="83" y="182" width="12" height="12" rx="6" fill="#5B7FA6"/>
+  <rect x="105" y="182" width="12" height="12" rx="6" fill="#5B7FA6"/>
+</svg>

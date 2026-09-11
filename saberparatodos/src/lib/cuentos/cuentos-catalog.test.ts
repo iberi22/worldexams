@@ -56,9 +56,9 @@ La amistad es un gran tesoro.
     const catalog = await getAllCuentosCatalog();
     expect(catalog.length).toBeGreaterThanOrEqual(1);
 
-    const first = catalog[0];
-    expect(first.slug).toBe('tana-tucan-comparte');
-    expect(first.titulo).toContain('Tana la tucán');
+    const tana = catalog.find((c) => c.slug === 'tana-tucan-comparte');
+    expect(tana).toBeDefined();
+    expect(tana!.titulo).toContain('Tana la tucán');
   });
 
   it('loads detail for tana-tucan-comparte', async () => {

@@ -210,15 +210,33 @@ export function parseCuentoMarkdown(fileContent: string): CuentoDetail {
 }
 
 /**
-  * Returns all cuento summaries from public packs or markdown fallback
-  */
+ * Returns all cuento summaries from public packs or markdown fallback
+ * Prefixes relative scene paths with the public packs base so static pages
+ * resolve the SVGs the generator publishes at /v1/cuentos/<slug>/. Packs
+ * themselves keep relative paths (the reader prefixes at runtime).
+ */
+function withPublicEscenas<
+  T extends { slug: string; coverEscena?: string; paginasList?: CuentoPagina[] },
+>(detail: T): T {
+  const base = `/v1/cuentos/${detail.slug}/`;
+  const pub = (p: string | undefined): string =>
+    !p || p.startsWith('/') || p.startsWith('http') ? (p ?? '') : base + p.replace(/^\.\//, '');
+  return {
+    ...detail,
+    coverEscena: pub(detail.coverEscena),
+    paginasList: (detail.paginasList || []).map((p: CuentoPagina) => ({ ...p, escena: pub(p.escena) })),
+  };
+}
+
 export async function getAllCuentosCatalog(): Promise<CuentoSummary[]> {
   // 1. Check if public/v1/cuentos index.json pack is present
   const indexPackKey = Object.keys(rawCuentoJsonPacks).find((k) => k.endsWith('index.json'));
   if (indexPackKey && rawCuentoJsonPacks[indexPackKey]) {
     const data = rawCuentoJsonPacks[indexPackKey];
     if (Array.isArray(data)) {
-      return data as CuentoSummary[];
+      return (data as CuentoSummary[]).map((s) =>
+        withPublicEscenas({ ...s, paginasList: [] }),
+      ) as CuentoSummary[];
     }
   }
 
@@ -230,7 +248,7 @@ export async function getAllCuentosCatalog(): Promise<CuentoSummary[]> {
       try {
         const detail = parseCuentoMarkdown(rawContent);
         if (detail.slug) {
-          const { paginasList, quiz, ...summary } = detail;
+          const { paginasList, quiz, ...summary } = withPublicEscenas(detail);
           results.push(summary);
         }
       } catch (e) {
@@ -251,7 +269,7 @@ export async function getCuentoBySlug(slug: string): Promise<CuentoDetail | null
   // 1. Check if public/v1/cuentos/<slug>.json pack is present
   const packKey = Object.keys(rawCuentoJsonPacks).find((k) => k.endsWith(`/${slug}.json`));
   if (packKey && rawCuentoJsonPacks[packKey]) {
-    return rawCuentoJsonPacks[packKey] as CuentoDetail;
+    return withPublicEscenas(rawCuentoJsonPacks[packKey] as CuentoDetail);
   }
 
   // 2. Parse from eagerly imported markdown files
@@ -260,7 +278,7 @@ export async function getCuentoBySlug(slug: string): Promise<CuentoDetail | null
       try {
         const detail = parseCuentoMarkdown(rawContent);
         if (detail.slug === slug) {
-          return detail;
+          return withPublicEscenas(detail);
         }
       } catch (e) {
         console.error(`Failed to parse cuento at ${filePath}:`, e);

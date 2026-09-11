@@ -54,7 +54,7 @@ const siteUrl = productionSiteUrl; // Always canonical to production — prevent
 const canonicalURL = new URL(Astro.url.pathname, `${siteUrl}/`);
 const ogImageURL = new URL(image, canonicalURL);
 const ogLocale = (countryConfig.language || 'es-CO').replace('-', '_');
-const enableAuxClientWidgets = true; // Enabled in all environments for better UX/testing
+const enableAuxClientWidgets = !Astro.url.pathname.startsWith('/cuentos/'); // Cuentos reading mode: no install prompt, feedback or badges over the story
 const appVersion = packageInfo.version;
 const organizationSchema = {
   '@context': 'https://schema.org',

@@ -1,0 +1,53 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Rugido el león viejito">
+  <!-- Melena esponjosa y amigable trasera -->
+  <circle cx="100" cy="88" r="62" fill="#C97B3D"/>
+  <circle cx="65" cy="60" r="28" fill="#C97B3D"/>
+  <circle cx="135" cy="60" r="28" fill="#C97B3D"/>
+  <circle cx="52" cy="98" r="28" fill="#C97B3D"/>
+  <circle cx="148" cy="98" r="28" fill="#C97B3D"/>
+  <circle cx="70" cy="135" r="25" fill="#C97B3D"/>
+  <circle cx="130" cy="135" r="25" fill="#C97B3D"/>
+
+  <!-- Orejitas saliendo de la melena -->
+  <circle cx="68" cy="48" r="10" fill="#FFB765"/>
+  <circle cx="68" cy="48" r="5" fill="#E8B04B"/>
+  <circle cx="132" cy="48" r="10" fill="#FFB765"/>
+  <circle cx="132" cy="48" r="5" fill="#E8B04B"/>
+
+  <!-- Cuerpo echado descansando -->
+  <ellipse cx="100" cy="148" rx="48" ry="34" fill="#FFB765"/>
+  <!-- Pecho suave -->
+  <ellipse cx="100" cy="150" rx="26" ry="22" fill="#FFE3B3"/>
+
+  <!-- Cabeza del leon -->
+  <circle cx="100" cy="88" r="38" fill="#FFB765"/>
+
+  <!-- Hocico abombado y tierno -->
+  <ellipse cx="100" cy="100" rx="22" ry="16" fill="#FFE3B3"/>
+  <!-- Nariz marron corazon invertido -->
+  <path d="M 92 92 C 92 88 108 88 108 92 C 108 97 100 102 100 102 C 100 102 92 97 92 92 Z" fill="#3A2E2A"/>
+  <!-- Sonrisa dulce de abuelito (sin dientes) -->
+  <path d="M 90 104 Q 100 114 110 104" fill="none" stroke="#3A2E2A" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Ojos plantilla comun amables -->
+  <circle cx="82" cy="78" r="9" fill="#FFFFFF"/>
+  <circle cx="83" cy="79" r="4" fill="#3A2E2A"/>
+  <circle cx="85" cy="77" r="1.5" fill="#FFFFFF"/>
+
+  <circle cx="118" cy="78" r="9" fill="#FFFFFF"/>
+  <circle cx="119" cy="79" r="4" fill="#3A2E2A"/>
+  <circle cx="121" cy="77" r="1.5" fill="#FFFFFF"/>
+
+  <!-- Cejas de viejito sabio -->
+  <path d="M 74 68 Q 82 64 88 68" fill="none" stroke="#3A2E2A" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M 112 68 Q 118 64 126 68" fill="none" stroke="#3A2E2A" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Mejillas rosadas -->
+  <circle cx="70" cy="94" r="6" fill="#E26D5A" opacity="0.45"/>
+  <circle cx="130" cy="94" r="6" fill="#E26D5A" opacity="0.45"/>
+
+  <!-- Patas cruzadas adelante -->
+  <rect x="72" y="165" width="22" height="14" rx="7" fill="#E8B04B"/>
+  <rect x="106" y="165" width="22" height="14" rx="7" fill="#E8B04B"/>
+</svg>

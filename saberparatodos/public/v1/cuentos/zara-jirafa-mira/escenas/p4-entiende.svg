@@ -1,0 +1,49 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Zara y Mote mirandose frente a frente con sonrisas de entendimiento">
+  <!-- PLANO 1: FONDO -->
+  <rect width="800" height="450" fill="#FDF6EC"/>
+  <path d="M 0 0 L 800 0 L 800 240 Q 400 260 0 240 Z" fill="#FFE3B3" opacity="0.6"/>
+
+  <!-- Sol brillante tierno -->
+  <circle cx="400" cy="110" r="45" fill="#FF9F43" opacity="0.8"/>
+
+  <!-- PLANO 2: MEDIO -->
+  <path d="M 0 260 Q 400 230 800 260 L 800 450 L 0 450 Z" fill="#E8B04B" opacity="0.5"/>
+
+  <!-- PLANO 3: FRENTE (Cara a cara) -->
+  <path d="M 0 330 Q 400 310 800 330 L 800 450 L 0 450 Z" fill="#E8B04B"/>
+
+  <!-- Cabeza de Zara bajada sonriendo suavemente a la izquierda -->
+  <g transform="translate(180, 200)">
+    <path d="M 20 100 Q 60 70 120 70 L 130 95 Q 70 95 30 115 Z" fill="#F2C14E"/>
+    <ellipse cx="140" cy="75" rx="30" ry="22" fill="#F2C14E"/>
+    <ellipse cx="156" cy="80" rx="18" ry="12" fill="#FFE3B3"/>
+    <!-- Ojo dulce -->
+    <circle cx="134" cy="68" r="8" fill="#FFFFFF"/>
+    <circle cx="135" cy="69" r="4" fill="#3A2E2A"/>
+    <circle cx="137" cy="67" r="1.5" fill="#FFFFFF"/>
+    <circle cx="120" cy="82" r="5" fill="#E26D5A" opacity="0.5"/>
+    <!-- Sonrisa suave -->
+    <path d="M 148 85 Q 155 90 162 85" fill="none" stroke="#3A2E2A" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+
+  <!-- Mote de pie a la derecha mirando feliz a Zara -->
+  <g transform="translate(480, 210)">
+    <ellipse cx="50" cy="110" rx="22" ry="34" fill="#E8B04B"/>
+    <ellipse cx="50" cy="112" rx="14" ry="24" fill="#FFF6E8"/>
+    <ellipse cx="50" cy="68" rx="20" ry="18" fill="#E8B04B"/>
+    <ellipse cx="50" cy="74" rx="12" ry="8" fill="#FFF6E8"/>
+    <!-- Ojos alegres -->
+    <ellipse cx="38" cy="64" rx="7" ry="6" fill="#3A2E2A"/>
+    <circle cx="38" cy="64" r="4.5" fill="#FFFFFF"/>
+    <circle cx="39" cy="65" r="2.2" fill="#3A2E2A"/>
+    <circle cx="40" cy="63" r="1" fill="#FFFFFF"/>
+
+    <ellipse cx="62" cy="64" rx="7" ry="6" fill="#3A2E2A"/>
+    <circle cx="62" cy="64" r="4.5" fill="#FFFFFF"/>
+    <circle cx="63" cy="65" r="2.2" fill="#3A2E2A"/>
+    <circle cx="64" cy="63" r="1" fill="#FFFFFF"/>
+    <!-- Boquita feliz -->
+    <path d="M 46 78 Q 50 82 54 78" fill="none" stroke="#3A2E2A" stroke-width="2" stroke-linecap="round"/>
+  </g>
+</svg>
