@@ -1,0 +1,33 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Tejón Bruno el guardabosques">
+  <!-- Orejas -->
+  <circle cx="62" cy="50" r="14" fill="#3A2E2A"/>
+  <circle cx="62" cy="50" r="7" fill="#FFFFFF"/>
+  <circle cx="138" cy="50" r="14" fill="#3A2E2A"/>
+  <circle cx="138" cy="50" r="7" fill="#FFFFFF"/>
+  <!-- Cuerpo (Chaleco verde de guardabosques) -->
+  <ellipse cx="100" cy="135" rx="50" ry="55" fill="#4FB6A3"/>
+  <path d="M85 95 L100 120 L115 95 Z" fill="#FFF6E8"/>
+  <rect x="70" y="120" width="18" height="20" rx="4" fill="#3A2E2A" opacity="0.2"/>
+  <rect x="112" y="120" width="18" height="20" rx="4" fill="#3A2E2A" opacity="0.2"/>
+  <!-- Cabeza con franja de tejón -->
+  <ellipse cx="100" cy="72" rx="40" ry="34" fill="#FFFFFF"/>
+  <path d="M72 45 C78 70 82 85 82 95 L62 95 C60 80 62 60 72 45 Z" fill="#3A2E2A"/>
+  <path d="M128 45 C122 70 118 85 118 95 L138 95 C140 80 138 60 128 45 Z" fill="#3A2E2A"/>
+  <!-- Ojos -->
+  <circle cx="82" cy="70" r="6" fill="#FFFFFF"/>
+  <circle cx="82" cy="70" r="3" fill="#232D36"/>
+  <circle cx="83" cy="69" r="1" fill="#FFFFFF"/>
+  <circle cx="118" cy="70" r="6" fill="#FFFFFF"/>
+  <circle cx="118" cy="70" r="3" fill="#232D36"/>
+  <circle cx="117" cy="69" r="1" fill="#FFFFFF"/>
+  <!-- Hocico y Nariz -->
+  <ellipse cx="100" cy="78" rx="8" ry="6" fill="#3A2E2A"/>
+  <path d="M96 84 Q100 88 104 84" fill="none" stroke="#3A2E2A" stroke-width="2" stroke-linecap="round"/>
+  <!-- Sombrero de guardabosques -->
+  <path d="M55 46 Q100 36 145 46 L135 30 Q100 24 65 30 Z" fill="#C97B3D"/>
+  <rect x="70" y="38" width="60" height="6" fill="#3A2E2A"/>
+  <!-- Patas -->
+  <rect x="78" y="176" width="16" height="14" rx="6" fill="#3A2E2A"/>
+  <rect x="106" y="176" width="16" height="14" rx="6" fill="#3A2E2A"/>
+</svg>

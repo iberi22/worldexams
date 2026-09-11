@@ -1,0 +1,50 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="La perrita Carbonilla revisa el túnel y confirma que todo está seguro">
+  <defs>
+    <linearGradient id="sky6" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#EBF5EE"/>
+      <stop offset="100%" stop-color="#FDF6EC"/>
+    </linearGradient>
+  </defs>
+  <!-- Plano Fondo: Túnel limpio y ordenado -->
+  <rect width="800" height="450" fill="url(#sky6)"/>
+  <path d="M 0 300 Q 300 200 800 260 L 800 450 L 0 450 Z" fill="#4FB6A3"/>
+
+  <!-- Túnel limpio de frente -->
+  <path d="M 220 450 L 220 200 Q 400 120 580 200 L 580 450 Z" fill="#293241"/>
+  <path d="M 200 450 L 200 190 Q 400 100 600 190 L 600 450 Z" stroke="#8B5A2B" stroke-width="20" fill="none"/>
+
+  <!-- Indicadores de seguridad OK (luces verdes) -->
+  <circle cx="260" cy="220" r="12" fill="#4FB6A3"/>
+  <circle cx="260" cy="220" r="6" fill="#FFFFFF"/>
+  <circle cx="540" cy="220" r="12" fill="#4FB6A3"/>
+  <circle cx="540" cy="220" r="6" fill="#FFFFFF"/>
+
+  <!-- Plano Frente: Carbonilla alegre en primer plano confirmando que todo está despejado -->
+  <g transform="translate(310, 210) scale(0.95)">
+    <!-- Cuerpo de Carbonilla -->
+    <ellipse cx="100" cy="138" rx="46" ry="38" fill="#3A2E2A"/>
+    <path d="M 68 120 Q 100 110 132 120 L 132 152 Q 100 162 68 152 Z" fill="#FF9F43"/>
+    <line x1="72" y1="136" x2="128" y2="136" stroke="#FFFFFF" stroke-width="4"/>
+    <circle cx="100" cy="136" r="8" fill="#4FB6A3"/>
+
+    <!-- Cabeza feliz -->
+    <circle cx="100" cy="78" r="34" fill="#3A2E2A"/>
+    <path d="M 68 62 Q 45 75 52 102 Q 68 100 75 75 Z" fill="#29201C"/>
+    <path d="M 132 62 Q 155 75 148 102 Q 132 100 125 75 Z" fill="#29201C"/>
+    <ellipse cx="100" cy="88" rx="18" ry="14" fill="#F4A261"/>
+    <ellipse cx="100" cy="81" rx="7" ry="5" fill="#111111"/>
+
+    <path d="M 92 88 Q 100 95 108 88" stroke="#3A2E2A" stroke-width="2.5" fill="none"/>
+    <path d="M 97 92 Q 100 102 103 92 Z" fill="#E26D5A"/>
+
+    <circle cx="83" cy="70" r="7" fill="#FFFFFF"/>
+    <circle cx="84" cy="71" r="3.5" fill="#232D36"/>
+    <circle cx="117" cy="70" r="7" fill="#FFFFFF"/>
+    <circle cx="118" cy="71" r="3.5" fill="#232D36"/>
+
+    <!-- Guirnalda de seguridad / VISTO BUENO -->
+    <circle cx="150" cy="70" r="16" fill="#4FB6A3"/>
+    <path d="M 142 70 L 148 76 L 158 64" stroke="#FFFFFF" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  </g>
+</svg>
