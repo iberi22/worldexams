@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-1-grade-5-subject-matematicas",
+    "generated_at": "2026-09-11T02:04:15.637Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-5-2026-W01-numeros-naturales-001-MASTERY-bundle-v1",
+      "statement": "Si el comerciante tiene 144 manzanas y las empaca en cajas de 12 unidades, ¿cuántas cajas completa en total?",
+      "context": "En una frutería de la plaza de mercado de Paloquemao en Bogotá, un comerciante organiza manzanas en cajas de 12 unidades cada una.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12 cajas.",
+          "is_correct": true,
+          "feedback": "Al dividir 144 entre 12, el cociente exacto es 12."
+        },
+        {
+          "letter": "B",
+          "text": "10 cajas.",
+          "is_correct": false,
+          "feedback": "10 cajas equivalen a 120 manzanas, quedando 24 manzanas sin empacar."
+        },
+        {
+          "letter": "C",
+          "text": "14 cajas.",
+          "is_correct": false,
+          "feedback": "14 cajas requerirían 168 manzanas."
+        },
+        {
+          "letter": "D",
+          "text": "144 cajas.",
+          "is_correct": false,
+          "feedback": "144 es la cantidad total de manzanas, no el número de cajas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La división es la operación inversa de la multiplicación y permite agrupar una cantidad total en partes iguales.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-5-2026-W01-numeros-naturales-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W01-numeros-naturales-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la cantidad total de dinero que Sofía logró ahorrar al cabo de los tres meses?",
+      "context": "Sofía ahorra dinero en su alcancía durante tres meses. En el primer mes guardó $15.000 COP, en el segundo $22.500 COP y en el tercero $18.000 COP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$55.500 COP.",
+          "is_correct": true,
+          "feedback": "Sumando $15.000 + $22.500 + $18.000 se obtiene un total de $55.500 COP."
+        },
+        {
+          "letter": "B",
+          "text": "$45.500 COP.",
+          "is_correct": false,
+          "feedback": "Error de cálculo al no sumar correctamente los miles en la columna de las decenas de mil."
+        },
+        {
+          "letter": "C",
+          "text": "$50.000 COP.",
+          "is_correct": false,
+          "feedback": "Corresponde a una estimación aproximada, no a la suma exacta."
+        },
+        {
+          "letter": "D",
+          "text": "$65.500 COP.",
+          "is_correct": false,
+          "feedback": "Se sumó $10.000 COP adicionales por un error de acarreo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La adición de números naturales permite consolidar cantidades discretas para hallar un valor total acumulado.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-5-2026-W01-numeros-naturales-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W01-numeros-naturales-001-MASTERY-bundle-v3",
+      "statement": "Si el bus realiza 6 viajes completos al día a capacidad máxima, ¿cuántos pasajeros transporta en total durante un día?",
+      "context": "Un bus intermunicipal realiza el trayecto entre Medellín y Rionegro transportando 38 pasajeros en cada viaje.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "228 pasajeros.",
+          "is_correct": true,
+          "feedback": "Multiplicando 38 pasajeros por 6 viajes se obtiene 228."
+        },
+        {
+          "letter": "B",
+          "text": "218 pasajeros.",
+          "is_correct": false,
+          "feedback": "Error al multiplicar 8 por 6 (se usó 42 en lugar de 48)."
+        },
+        {
+          "letter": "C",
+          "text": "238 pasajeros.",
+          "is_correct": false,
+          "feedback": "Se sumaron 10 unidades indebidamente al resultado de la multiplicación."
+        },
+        {
+          "letter": "D",
+          "text": "198 pasajeros.",
+          "is_correct": false,
+          "feedback": "Corresponde a multiplicar 33 por 6 en lugar de 38 por 6."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La multiplicación permite calcular el resultado de sumar un mismo grupo repetidas veces en situaciones de tasa uniforme.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-5-2026-W01-numeros-naturales-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W01-numeros-naturales-001-MASTERY-bundle-v4",
+      "statement": "¿Cuánto pagó Don Mateo por un solo bulto de café?",
+      "context": "Don Mateo compró 5 bultos de café por un valor total de $450.000 COP. Todos los bultos tuvieron exactamente el mismo precio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$90.000 COP.",
+          "is_correct": true,
+          "feedback": "Dividiendo $450.000 entre 5 se obtiene $90.000 por bulto."
+        },
+        {
+          "letter": "B",
+          "text": "$80.000 COP.",
+          "is_correct": false,
+          "feedback": "5 bultos a $80.000 darían un total de $400.000 COP, faltando $50.000 COP."
+        },
+        {
+          "letter": "C",
+          "text": "$95.000 COP.",
+          "is_correct": false,
+          "feedback": "5 bultos a $95.000 darían un total de $475.000 COP."
+        },
+        {
+          "letter": "D",
+          "text": "$100.000 COP.",
+          "is_correct": false,
+          "feedback": "5 bultos a $100.000 darían un total de $500.000 COP."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El reparto equitativo de un costo total entre varias unidades se resuelve mediante una división exacta.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-5-2026-W01-numeros-naturales-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W01-numeros-naturales-001-MASTERY-bundle-v5",
+      "statement": "Si Camilo compra 3 cuadernos y 2 cajas de colores, y paga con un billete de $50.000 COP, ¿cuánto dinero debe recibir de cambio?",
+      "context": "En una papelería escolar de Cali, un cuaderno cuesta $8.500 COP y una caja de colores cuesta $9.750 COP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5.000 COP.",
+          "is_correct": true,
+          "feedback": "3 cuadernos x $8.500 = $25.500 y 2 cajas de colores x $9.750 = $19.500. Total compra = $45.000. Cambio: $50.000 - $45.000 = $5.000."
+        },
+        {
+          "letter": "B",
+          "text": "$10.000 COP.",
+          "is_correct": false,
+          "feedback": "Se calculó la compra total en $40.000 COP omitiendo el valor completo de los productos."
+        },
+        {
+          "letter": "C",
+          "text": "$2.000 COP.",
+          "is_correct": false,
+          "feedback": "Se calculó la compra total en $48.000 COP en lugar de $45.000 COP."
+        },
+        {
+          "letter": "D",
+          "text": "$15.000 COP.",
+          "is_correct": false,
+          "feedback": "Corresponde a restar la compra de un solo cuaderno y una sola caja de colores ($50.000 - $35.000)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La resolución de problemas combinados requiere jerarquizar las operaciones: primero calcular los subtotales multiplicativos, luego sumarlos y finalmente restar del monto entregado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-5-2026-W01-numeros-naturales-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W01-numeros-naturales-001-MASTERY-bundle-v6",
+      "statement": "¿Cuántos libros tiene la biblioteca comunitaria al finalizar estas dos operaciones?",
+      "context": "Una biblioteca comunitaria en Bucaramanga tiene 1.250 libros. Deciden donar 320 libros a una escuela rural y luego reciben un paquete de 450 libros nuevos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.380 libros.",
+          "is_correct": true,
+          "feedback": "Restando los donados: 1.250 - 320 = 930. Sumando los nuevos: 930 + 450 = 1.380 libros."
+        },
+        {
+          "letter": "B",
+          "text": "1.120 libros.",
+          "is_correct": false,
+          "feedback": "Se restaron los dos valores (1.250 - 320 - 450) en lugar de sumar la donación recibida."
+        },
+        {
+          "letter": "C",
+          "text": "2.020 libros.",
+          "is_correct": false,
+          "feedback": "Se sumaron todos los valores sin considerar la salida de los libros donados."
+        },
+        {
+          "letter": "D",
+          "text": "1.480 libros.",
+          "is_correct": false,
+          "feedback": "Error en la adición final de 930 + 450 (se sumaron 100 unidades extra)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El análisis del flujo de cantidades requiere identificar las entradas (adición) y salidas (sustracción) respecto al estado inicial.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-5-2026-W01-numeros-naturales-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W01-numeros-naturales-001-MASTERY-bundle-v7",
+      "statement": "¿Cuántas galletas sueltas se necesitan en total para completar 15 cajas grandes de cartón?",
+      "context": "Una fábrica de galletas en Manizales empaca galletas en paquetes de 6 unidades, y luego junta 20 paquetes en cada caja grande de cartón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.800 galletas.",
+          "is_correct": true,
+          "feedback": "Cada caja contiene 6 x 20 = 120 galletas. En 15 cajas hay 120 x 15 = 1.800 galletas."
+        },
+        {
+          "letter": "B",
+          "text": "1.200 galletas.",
+          "is_correct": false,
+          "feedback": "Se calculó para 10 cajas en lugar de 15 cajas."
+        },
+        {
+          "letter": "C",
+          "text": "900 galletas.",
+          "is_correct": false,
+          "feedback": "Se multiplicó 6 x 15 x 10 omitiendo la duplicación por 20 paquetes."
+        },
+        {
+          "letter": "D",
+          "text": "2.400 galletas.",
+          "is_correct": false,
+          "feedback": "Se calculó para 20 cajas grandes en vez de 15 cajas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los problemas de empaquetado multinivel exigen aplicar el principio multiplicativo en cadena (unidades por empaque secundario por empaque terciario).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-5-2026-W01-numeros-naturales-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W01-numeros-naturales-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de las siguientes agrupaciones cumple exactamente con todas las condiciones del evento?",
+      "context": "En un evento deportivo escolar en Barranquilla participan 288 estudiantes. Se deben organizar en equipos que tengan la misma cantidad de integrantes, sin que sobre ningún estudiante, con equipos de entre 10 y 20 estudiantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18 equipos de 16 estudiantes.",
+          "is_correct": true,
+          "feedback": "18 x 16 = 288 estudiantes, sin sobrantes, y 16 está entre 10 y 20."
+        },
+        {
+          "letter": "B",
+          "text": "20 equipos de 14 estudiantes.",
+          "is_correct": false,
+          "feedback": "20 x 14 = 280, por lo que sobrarían 8 estudiantes."
+        },
+        {
+          "letter": "C",
+          "text": "12 equipos de 25 estudiantes.",
+          "is_correct": false,
+          "feedback": "12 x 25 = 300, lo que supera el total de 288 estudiantes y 25 supera el límite de 20 por equipo."
+        },
+        {
+          "letter": "D",
+          "text": "24 equipos de 8 estudiantes.",
+          "is_correct": false,
+          "feedback": "Aunque 24 x 8 = 192 no da 288, además 8 está por debajo del rango exigido (10 a 20)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La descomposición en factores y la verificación de restricciones numéricas permite evaluar qué soluciones satisfacen un sistema de condiciones operativas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.35,
+      "bundle_id": "CO-MAT-5-2026-W01-numeros-naturales-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

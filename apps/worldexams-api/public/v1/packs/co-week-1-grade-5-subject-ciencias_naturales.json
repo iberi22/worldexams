@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-1-grade-5-subject-ciencias_naturales",
+    "generated_at": "2026-09-11T02:04:15.435Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-5-2026-W01-estados-materia-001-MASTERY-bundle-v1",
+      "statement": "¿Cómo se denomina el cambio de estado físico de sólido a líquido que experimenta el hielo al calentarse?",
+      "context": "Un estudiante en Manizales observa un cubo de hielo derretirse sobre el mesón de la cocina a temperatura ambiente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fusión.",
+          "is_correct": true,
+          "feedback": "La fusión es el paso del estado sólido al líquido por aumento de temperatura."
+        },
+        {
+          "letter": "B",
+          "text": "Evaporación.",
+          "is_correct": false,
+          "feedback": "La evaporación es el paso del estado líquido al gaseoso."
+        },
+        {
+          "letter": "C",
+          "text": "Condensación.",
+          "is_correct": false,
+          "feedback": "La condensación es el paso del estado gaseoso al líquido."
+        },
+        {
+          "letter": "D",
+          "text": "Solidificación.",
+          "is_correct": false,
+          "feedback": "La solidificación es el paso inverso: de líquido a sólido por enfriamiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificación de los nombres estandarizados de las transiciones de fase de la materia por variaciones de temperatura.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.89,
+      "bundle_id": "CO-CN-5-2026-W01-estados-materia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W01-estados-materia-001-MASTERY-bundle-v2",
+      "statement": "¿Qué característica distingue al estado líquido frente al estado sólido respecto a la forma que adoptan?",
+      "context": "En una experiencia de aula se compara el comportamiento de un cubo de madera, un vaso con agua y el aire dentro de un globo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El líquido no tiene forma propia y se adapta al recipiente que lo contiene, mientras el sólido mantiene forma definida.",
+          "is_correct": true,
+          "feedback": "Los líquidos fluyen y toman la forma del recipiente; los sólidos conservan su forma y volumen."
+        },
+        {
+          "letter": "B",
+          "text": "El líquido mantiene siempre una forma cúbica sin importar el vaso.",
+          "is_correct": false,
+          "feedback": "Los líquidos carecen de forma fija propia."
+        },
+        {
+          "letter": "C",
+          "text": "El sólido se expande para ocupar todo el espacio disponible en el salón.",
+          "is_correct": false,
+          "feedback": "La expansión total para ocupar el volumen es propia de los gases, no de los sólidos."
+        },
+        {
+          "letter": "D",
+          "text": "El líquido es completamente invisible a la vista humana.",
+          "is_correct": false,
+          "feedback": "Los líquidos son visibles y poseen volumen determinado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprensión de las propiedades macroscópicas (forma y volumen) que caracterizan a sólidos, líquidos y gases.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.86,
+      "bundle_id": "CO-CN-5-2026-W01-estados-materia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W01-estados-materia-001-MASTERY-bundle-v3",
+      "statement": "¿Qué ocurre con la distancia promedio entre las partículas del gas durante la compresión?",
+      "context": "Un recipiente hermético cerrado contiene gas nitrógeno. Si se comprime el émbolo disminuyendo el volumen del recipiente sin variar la temperatura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las partículas se acercan entre sí al reducirse el espacio disponible.",
+          "is_correct": true,
+          "feedback": "La compresión disminuye el volumen disponible, reduciendo la distancia interparticular del gas."
+        },
+        {
+          "letter": "B",
+          "text": "Las partículas aumentan su tamaño físico hasta duplicarse.",
+          "is_correct": false,
+          "feedback": "El tamaño de las partículas individuales no cambia; cambia la distancia entre ellas."
+        },
+        {
+          "letter": "C",
+          "text": "Las partículas se destruyen liberando energía lumínica.",
+          "is_correct": false,
+          "feedback": "La materia no se destruye en un cambio físico como la compresión."
+        },
+        {
+          "letter": "D",
+          "text": "Las partículas se congelan instantáneamente convirtiéndose en hielo.",
+          "is_correct": false,
+          "feedback": "La compresión sin cambio térmico drástico no altera la fase a hielo sólido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicación del modelo corpuscular para explicar la compresibilidad de los gases frente a sólidos y líquidos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-5-2026-W01-estados-materia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W01-estados-materia-001-MASTERY-bundle-v4",
+      "statement": "¿En qué momento ocurre el cambio de estado conocido como ebullición?",
+      "context": "Cuando hirve agua en una olla sobre la estufa en Bogotá, se observan burbujas emergiendo desde el fondo y vapor saliendo al ambiente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuando el líquido alcanza la temperatura de ebullición y se transforma masivamente en gas en toda su masa.",
+          "is_correct": true,
+          "feedback": "La ebullición es la vaporización rápida y tumultuosa en toda la masa del líquido al alcanzar su punto de ebullición."
+        },
+        {
+          "letter": "B",
+          "text": "Cuando el agua alcanza los 0 °C y se congela rápidamente.",
+          "is_correct": false,
+          "feedback": "0 °C a nivel del mar es la temperatura de congelación (solidificación)."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente cuando la olla está tapada con hule transparente.",
+          "is_correct": false,
+          "feedback": "La ebullición depende de la temperatura y la presión, no del material de la tapa."
+        },
+        {
+          "letter": "D",
+          "text": "Cuando las partículas de líquido dejan de moverse por completo.",
+          "is_correct": false,
+          "feedback": "El paso a gas aumenta la energía cinética y movimiento de las partículas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Diferenciación entre evaporación superficial y ebullición masiva como modalidades del paso de líquido a gas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-5-2026-W01-estados-materia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W01-estados-materia-001-MASTERY-bundle-v5",
+      "statement": "¿Qué fenómeno físico explica la formación de estas gotas de agua en los vidrios fríos?",
+      "context": "En la mañana fría de una vereda en Boyacá, las ventanas de las casas amanecen cubiertas de pequeñas gotas de agua por la cara interior.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Condensación del vapor de agua del aire al entrar en contacto con la superficie fría del vidrio.",
+          "is_correct": true,
+          "feedback": "El vapor de agua gaseoso en el aire pierde calor al tocar el vidrio frío y pasa a líquido."
+        },
+        {
+          "letter": "B",
+          "text": "Fusión de la madera del marco de la ventana por la luz solar.",
+          "is_correct": false,
+          "feedback": "Las gotas son de agua condensada, no de madera fundida."
+        },
+        {
+          "letter": "C",
+          "text": "Filtración del agua del grifo a través del vidrio sólido.",
+          "is_correct": false,
+          "feedback": "El vidrio no es poroso para dejar filtrar agua del grifo de la casa."
+        },
+        {
+          "letter": "D",
+          "text": "Sublimación inversa de los rayos infrarrojos del aire.",
+          "is_correct": false,
+          "feedback": "El fenómeno es la condensación del vapor de agua ambiental sobre una superficie fría."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Explicación de fenómenos cotidianos de cambio de estado (condensación) mediante transferencia de calor.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CN-5-2026-W01-estados-materia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W01-estados-materia-001-MASTERY-bundle-v6",
+      "statement": "¿Por qué la temperatura se mantiene constante durante el cambio de estado de fusión aunque se siga suministrando calor?",
+      "context": "Un grupo de estudiantes calienta cera sólida en un tubo de ensayo y registra la temperatura cada minuto hasta que se derrite por completo. La gráfica muestra una meseta (temperatura constante) durante la fusión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la energía suministrada se utiliza para vencer las fuerzas de atracción entre partículas y no para subir la temperatura.",
+          "is_correct": true,
+          "feedback": "Durante los cambios de fase, el calor latente se emplea en reorganizar las estructuras interparticulares."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el termómetro se rompió al tocar el tubo de ensayo.",
+          "is_correct": false,
+          "feedback": "La temperatura constante durante el cambio de fase es una propiedad termodinámica real."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la cera destruyó todo el calor suministrado por la llama.",
+          "is_correct": false,
+          "feedback": "El calor no se destruye, se absorbe como energía de cambio de estado (calor latente)."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la cera se transformó inmediatamente en aire helado.",
+          "is_correct": false,
+          "feedback": "La cera pasa de sólido a líquido, conservando su identidad química."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Análisis de datos de cambios de fase para comprender el concepto de calor latente y temperatura constante de fusión/ebullición.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-5-2026-W01-estados-materia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W01-estados-materia-001-MASTERY-bundle-v7",
+      "statement": "¿En cuál de las tres sustancias las fuerzas de atracción entre sus partículas son más intensas?",
+      "context": "Se compara la fuerza de atracción entre partículas en tres sustancias a temperatura ambiente: hierro (sólido), aceite (líquido) y oxígeno (gas).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el hierro, porque sus partículas forman una red rígida compacta.",
+          "is_correct": true,
+          "feedback": "Los sólidos presentan las fuerzas de cohesión interparticular más fuertes, manteniendo posiciones fijas."
+        },
+        {
+          "letter": "B",
+          "text": "En el oxígeno, porque flota libremente en la atmósfera.",
+          "is_correct": false,
+          "feedback": "En los gases las fuerzas de atracción son casi nulas, permitiendo que las partículas se separen."
+        },
+        {
+          "letter": "C",
+          "text": "En el aceite, porque es una sustancia viscosa sin partículas.",
+          "is_correct": false,
+          "feedback": "Toda la materia está compuesta por partículas; los líquidos tienen fuerzas intermedias."
+        },
+        {
+          "letter": "D",
+          "text": "Las fuerzas de atracción son idénticas en todas las sustancias del universo.",
+          "is_correct": false,
+          "feedback": "La magnitud de las fuerzas interparticulares determina el estado físico de la materia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Análisis comparativo de la intensidad de las fuerzas interparticulares según el estado de agregación de la materia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.53,
+      "bundle_id": "CO-CN-5-2026-W01-estados-materia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W01-estados-materia-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la explicación científica que evalúa correctamente este comportamiento?",
+      "context": "La naftalina en bolitas colocada dentro de un armario para proteger la ropa desaparece con el tiempo sin dejar manchas líquidas en las prendas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ocurre sublimación directa, donde la naftalina sólida pasa al estado gaseoso sin pasar por el estado líquido.",
+          "is_correct": true,
+          "feedback": "La sublimación es la transición directa de la fase sólida a la fase gaseosa."
+        },
+        {
+          "letter": "B",
+          "text": "La naftalina se disuelve en los hilos de la ropa cambiando de color.",
+          "is_correct": false,
+          "feedback": "La ropa no disuelve la naftalina; el sólido se evapora directamente al aire."
+        },
+        {
+          "letter": "C",
+          "text": "Los insectos se comieron todo el sólido sin dejar residuos.",
+          "is_correct": false,
+          "feedback": "La naftalina justamente repele a las polillas mediante su gas volátil tóxico."
+        },
+        {
+          "letter": "D",
+          "text": "Ocurre condensación instantánea por falta de luz solar en el armario.",
+          "is_correct": false,
+          "feedback": "La condensación es el paso de gas a líquido, no de sólido a gas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluación de cambios de estado especiales como la sublimación en sustancias de uso cotidiano.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.32,
+      "bundle_id": "CO-CN-5-2026-W01-estados-materia-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}
