@@ -1,0 +1,40 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Zara agachada platicando amorosamente con Mote en un atardecer tibio">
+  <!-- PLANO 1: FONDO -->
+  <rect width="800" height="450" fill="#FDF6EC"/>
+  <path d="M 0 0 L 800 0 L 800 240 Q 400 260 0 240 Z" fill="#FFE3B3" opacity="0.6"/>
+
+  <!-- Sol suave -->
+  <circle cx="200" cy="120" r="40" fill="#FFB765" opacity="0.8"/>
+
+  <!-- PLANO 2: MEDIO -->
+  <path d="M 0 250 Q 400 220 800 250 L 800 450 L 0 450 Z" fill="#E8B04B" opacity="0.5"/>
+
+  <!-- PLANO 3: FRENTE -->
+  <path d="M 0 330 Q 400 310 800 330 L 800 450 L 0 450 Z" fill="#E8B04B"/>
+
+  <!-- Zara descansando agachadita en el suelo cerca de Mote -->
+  <g transform="translate(200, 220)">
+    <ellipse cx="100" cy="110" rx="55" ry="32" fill="#F2C14E"/>
+    <path d="M 130 95 Q 180 70 240 70 L 250 95 Q 190 95 140 110 Z" fill="#F2C14E"/>
+    <ellipse cx="260" cy="75" rx="26" ry="20" fill="#F2C14E"/>
+    <ellipse cx="274" cy="80" rx="16" ry="11" fill="#FFE3B3"/>
+
+    <!-- Ojo tierno -->
+    <circle cx="254" cy="68" r="7" fill="#FFFFFF"/>
+    <circle cx="255" cy="69" r="3.5" fill="#3A2E2A"/>
+    <circle cx="257" cy="67" r="1.5" fill="#FFFFFF"/>
+    <path d="M 264 83 Q 272 88 280 83" fill="none" stroke="#3A2E2A" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+
+  <!-- Mote al frente platicando feliz -->
+  <g transform="translate(520, 220)">
+    <ellipse cx="30" cy="90" rx="16" ry="28" fill="#E8B04B"/>
+    <ellipse cx="30" cy="52" rx="16" ry="15" fill="#E8B04B"/>
+    <ellipse cx="30" cy="58" rx="10" ry="7" fill="#FFF6E8"/>
+    <circle cx="22" cy="48" r="5" fill="#FFFFFF"/>
+    <circle cx="23" cy="49" r="2.5" fill="#3A2E2A"/>
+    <circle cx="38" cy="48" r="5" fill="#FFFFFF"/>
+    <circle cx="39" cy="49" r="2.5" fill="#3A2E2A"/>
+  </g>
+</svg>

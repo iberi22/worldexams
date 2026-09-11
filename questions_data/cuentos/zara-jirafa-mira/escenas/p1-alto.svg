@@ -1,0 +1,67 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Zara de pie observando la sabana desde lo alto">
+  <!-- PLANO 1: FONDO (Cielo de sabana y sol radiante) -->
+  <rect width="800" height="450" fill="#FDF6EC"/>
+  <!-- Cielo calido superior -->
+  <path d="M 0 0 L 800 0 L 800 240 Q 400 270 0 240 Z" fill="#FFE3B3" opacity="0.6"/>
+  <!-- Sol amigable -->
+  <g transform="translate(620, 40) scale(0.9)">
+    <circle cx="80" cy="80" r="50" fill="#FF9F43"/>
+    <circle cx="80" cy="80" r="44" fill="#FFB05B"/>
+    <circle cx="65" cy="72" r="5" fill="#FFFFFF"/>
+    <circle cx="66" cy="73" r="2.5" fill="#3A2E2A"/>
+    <circle cx="95" cy="72" r="5" fill="#FFFFFF"/>
+    <circle cx="96" cy="73" r="2.5" fill="#3A2E2A"/>
+    <path d="M 68 88 Q 80 98 92 88" fill="none" stroke="#3A2E2A" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <!-- Nubes esponjosas -->
+  <g transform="translate(100, 50) scale(0.7)">
+    <path d="M 30 80 Q 15 80 15 65 Q 15 45 35 45 Q 45 20 75 20 Q 100 10 125 25 Q 150 15 165 35 Q 185 40 185 62 Q 185 80 165 80 Z" fill="#FFFFFF"/>
+  </g>
+  <g transform="translate(380, 80) scale(0.5)">
+    <path d="M 30 80 Q 15 80 15 65 Q 15 45 35 45 Q 45 20 75 20 Q 100 10 125 25 Q 150 15 165 35 Q 185 40 185 62 Q 185 80 165 80 Z" fill="#FFFFFF"/>
+  </g>
+
+  <!-- PLANO 2: MEDIO (Montanas lejanas, colinas amarillas y acacia silueteada) -->
+  <path d="M 0 260 Q 200 220 400 250 Q 600 280 800 230 L 800 450 L 0 450 Z" fill="#E8B04B" opacity="0.4"/>
+  <path d="M 0 280 Q 300 250 550 290 Q 700 310 800 270 L 800 450 L 0 450 Z" fill="#F2C14E" opacity="0.6"/>
+
+  <!-- Acacia tipica de la sabana (copa plana) -->
+  <g transform="translate(500, 160)">
+    <path d="M 90 180 Q 85 100 60 70 L 95 70 Q 105 100 110 180 Z" fill="#C97B3D"/>
+    <!-- Copa extendida horizontalmente -->
+    <ellipse cx="75" cy="60" rx="110" ry="25" fill="#7BAE5A"/>
+    <ellipse cx="60" cy="50" rx="85" ry="20" fill="#88C464"/>
+    <ellipse cx="110" cy="55" rx="70" ry="18" fill="#4FB6A3" opacity="0.8"/>
+  </g>
+
+  <!-- PLANO 3: FRENTE (Zara erguida observando feliz la sabana) -->
+  <!-- Terreno llano frontal -->
+  <path d="M 0 340 Q 400 320 800 340 L 800 450 L 0 450 Z" fill="#E8B04B"/>
+
+  <!-- Zara en el frente (mirando a lo lejos desde su alta estatura) -->
+  <g transform="translate(180, 110)">
+    <!-- Cuerpo y patas de Zara -->
+    <ellipse cx="100" cy="200" rx="45" ry="32" fill="#F2C14E"/>
+    <rect x="70" y="210" width="12" height="70" rx="5" fill="#F2C14E"/>
+    <rect x="108" y="210" width="12" height="70" rx="5" fill="#F2C14E"/>
+    <!-- Cuello muy alto -->
+    <path d="M85 180 L78 20 L118 20 L112 180 Z" fill="#F2C14E"/>
+    <!-- Manchas -->
+    <rect x="85" y="40" width="16" height="12" rx="5" fill="#C97B3D"/>
+    <rect x="92" y="75" width="18" height="14" rx="6" fill="#C97B3D"/>
+    <rect x="84" y="115" width="20" height="15" rx="6" fill="#C97B3D"/>
+    <rect x="90" y="150" width="18" height="14" rx="5" fill="#C97B3D"/>
+    <!-- Cabeza -->
+    <ellipse cx="110" cy="18" rx="26" ry="20" fill="#F2C14E"/>
+    <ellipse cx="122" cy="24" rx="16" ry="12" fill="#FFE3B3"/>
+    <!-- Osiconos y orejas -->
+    <rect x="98" y="-8" width="5" height="15" rx="2" fill="#C97B3D"/>
+    <circle cx="100" cy="-10" r="4" fill="#C97B3D"/>
+    <ellipse cx="88" cy="10" rx="5" ry="12" fill="#F2C14E" transform="rotate(-30 88 10)"/>
+    <!-- Ojo alegre mirando arriba -->
+    <circle cx="106" cy="12" r="7" fill="#FFFFFF"/>
+    <circle cx="108" cy="12" r="3.5" fill="#3A2E2A"/>
+    <circle cx="109" cy="10" r="1.5" fill="#FFFFFF"/>
+  </g>
+</svg>

@@ -1,0 +1,53 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Fiesta en la sabana al atardecer bajo la acacia">
+  <!-- PLANO 1: FONDO (Atardecer magico rojizo/naranja) -->
+  <rect width="800" height="450" fill="#FDF6EC"/>
+  <!-- Degradado de atardecer mediante formas suavemente superpuestas -->
+  <path d="M 0 0 L 800 0 L 800 260 Q 400 280 0 260 Z" fill="#FF9F43" opacity="0.7"/>
+  <path d="M 0 0 L 800 0 L 800 180 Q 400 210 0 180 Z" fill="#E26D5A" opacity="0.6"/>
+
+  <!-- Sol poniente gigante en el horizonte -->
+  <circle cx="400" cy="220" r="70" fill="#FFB765"/>
+
+  <!-- PLANO 2: MEDIO (Siluetas de colinas) -->
+  <path d="M 0 260 Q 300 230 800 270 L 800 450 L 0 450 Z" fill="#C97B3D" opacity="0.6"/>
+
+  <!-- Acacia central -->
+  <g transform="translate(300, 100)">
+    <path d="M 95 200 L 90 70 L 110 70 L 105 200 Z" fill="#3A2E2A"/>
+    <ellipse cx="100" cy="60" rx="160" ry="32" fill="#7BAE5A"/>
+    <ellipse cx="100" cy="45" rx="120" ry="24" fill="#88C464"/>
+  </g>
+
+  <!-- PLANO 3: FRENTE (Fiesta de amigos con frutas) -->
+  <path d="M 0 330 Q 400 310 800 330 L 800 450 L 0 450 Z" fill="#E8B04B"/>
+
+  <!-- Frutas dulces en el centro -->
+  <circle cx="380" cy="360" r="10" fill="#FF9F43"/>
+  <circle cx="400" cy="358" r="11" fill="#E26D5A"/>
+  <circle cx="420" cy="361" r="9" fill="#FF9F43"/>
+
+  <!-- Zara bailando/salando feliz -->
+  <g transform="translate(180, 150)">
+    <ellipse cx="60" cy="160" rx="36" ry="25" fill="#F2C14E"/>
+    <path d="M 65 140 L 70 20 L 100 20 L 85 140 Z" fill="#F2C14E"/>
+    <ellipse cx="92" cy="18" rx="18" ry="14" fill="#F2C14E"/>
+    <!-- Ojos festivos de estrella o alegres -->
+    <circle cx="90" cy="15" r="5" fill="#FFFFFF"/>
+    <circle cx="91" cy="15" r="2.5" fill="#3A2E2A"/>
+  </g>
+
+  <!-- Mote bailando sobre una piedra -->
+  <g transform="translate(480, 260)">
+    <ellipse cx="30" cy="50" rx="14" ry="22" fill="#E8B04B"/>
+    <circle cx="30" cy="20" r="12" fill="#E8B04B"/>
+    <circle cx="26" cy="18" r="4" fill="#FFFFFF"/>
+    <circle cx="27" cy="18" r="2" fill="#3A2E2A"/>
+  </g>
+
+  <!-- Rugido riendo feliz -->
+  <g transform="translate(560, 250)">
+    <circle cx="60" cy="50" r="35" fill="#C97B3D"/>
+    <circle cx="60" cy="50" r="22" fill="#FFB765"/>
+  </g>
+</svg>
