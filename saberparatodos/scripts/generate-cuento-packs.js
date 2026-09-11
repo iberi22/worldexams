@@ -329,6 +329,15 @@ function main() {
     fs.writeFileSync(packPath, JSON.stringify(packJson, null, 2) + "\n", "utf8");
     console.log(`✅ Emitted cuento pack: ${path.relative(ROOT, packPath)}`);
 
+    // Publish scene + character SVGs next to the pack so the reader
+    // (/v1/cuentos/<slug>/<imagen>) and static pages resolve them.
+    for (const assetDir of ["escenas", "personajes"]) {
+      const srcDir = path.join(cuentoDir, assetDir);
+      if (fs.existsSync(srcDir)) {
+        fs.cpSync(srcDir, path.join(outDir, slug, assetDir), { recursive: true });
+      }
+    }
+
     indexCatalog.push(indexItem);
     generatedCount++;
   }
