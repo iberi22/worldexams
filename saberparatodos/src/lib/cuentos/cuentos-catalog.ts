@@ -121,7 +121,7 @@ export function parseCuentoMarkdown(fileContent: string): CuentoDetail {
     paginasList.push({
       numero,
       alt,
-      escena: escena ? `/cuentos/${summary.slug}/${escena}` : '',
+      escena: escena ? `/v1/cuentos/${summary.slug}/${escena}` : '',
       texto: textLines.join(' '),
     });
   }
