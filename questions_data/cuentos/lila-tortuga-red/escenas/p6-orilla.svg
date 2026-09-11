@@ -1,0 +1,38 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Lila Tom y Vela arrastran la red fuera del agua hacia la orilla">
+  <!-- Plano 1: Cielo y Arena de la playa -->
+  <rect width="800" height="220" fill="#CAF0F8"/>
+  <rect y="220" width="800" height="230" fill="#FFE0B2"/>
+
+  <!-- Orilla del mar con espuma blanca -->
+  <path d="M 0 280 Q 200 250 400 280 T 800 260 L 800 220 L 0 220 Z" fill="#0077B6"/>
+  <path d="M 0 282 Q 200 252 400 282 T 800 262" stroke="#FFFFFF" stroke-width="6" fill="none"/>
+
+  <!-- Sol brillante -->
+  <circle cx="700" cy="70" r="45" fill="#FFB703" opacity="0.9"/>
+
+  <!-- Plano 2: Red enrollada en la orilla de la arena -->
+  <g transform="translate(360, 290)">
+    <rect x="0" y="0" width="130" height="70" fill="#48CAE4" opacity="0.3" rx="15"/>
+    <path d="M 0 20 L 130 20 M 0 45 L 130 45 M 30 0 L 30 70 M 80 0 L 80 70" stroke="#90A4AE" stroke-width="3" stroke-dasharray="5,3"/>
+  </g>
+
+  <!-- Plano 3: Lila en la orilla, Tom cerca del agua y Vela volando feliz -->
+  <!-- Lila empujando la red en la arena -->
+  <g transform="translate(220, 260) scale(0.75)">
+    <ellipse cx="100" cy="116" rx="54" ry="44" fill="#4FB6A3"/>
+    <circle cx="100" cy="58" r="34" fill="#4FB6A3"/>
+    <circle cx="85" cy="52" r="8" fill="#FFFFFF"/>
+    <circle cx="86" cy="53" r="4" fill="#232D36"/>
+    <circle cx="115" cy="52" r="8" fill="#FFFFFF"/>
+    <circle cx="114" cy="53" r="4" fill="#232D36"/>
+  </g>
+
+  <!-- Vela volando arriba descansada -->
+  <g transform="translate(480, 80) scale(0.6)">
+    <circle cx="100" cy="65" r="28" fill="#FFFFFF"/>
+    <polygon points="100,70 128,75 100,82" fill="#FFC107"/>
+    <path d="M90 100 Q40 60 10 90 Q40 110 85 115 Z" fill="#90A4AE"/>
+    <path d="M110 100 Q160 60 190 90 Q160 110 115 115 Z" fill="#90A4AE"/>
+  </g>
+</svg>
