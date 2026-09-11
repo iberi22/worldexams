@@ -1,0 +1,40 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Glauco el búho sabio">
+  <!-- Plumas de orejas / penachos -->
+  <polygon points="55,30 75,55 45,55" fill="#455A64"/>
+  <polygon points="145,30 125,55 155,55" fill="#455A64"/>
+
+  <!-- Cuerpo redondeado -->
+  <ellipse cx="100" cy="125" rx="46" ry="54" fill="#607D8B"/>
+
+  <!-- Alas -->
+  <ellipse cx="52" cy="128" rx="14" ry="32" fill="#455A64" transform="rotate(12 52 128)"/>
+  <ellipse cx="148" cy="128" rx="14" ry="32" fill="#455A64" transform="rotate(-12 148 128)"/>
+
+  <!-- Pecho plumoso con textura -->
+  <ellipse cx="100" cy="132" rx="28" ry="36" fill="#ECEFF1"/>
+  <path d="M 90 120 Q 100 126 110 120 M 88 132 Q 100 138 112 132 M 92 144 Q 100 150 108 144" stroke="#90A4AE" stroke-width="2" fill="none" stroke-linecap="round"/>
+
+  <!-- Cabeza -->
+  <circle cx="100" cy="70" r="38" fill="#607D8B"/>
+
+  <!-- Disco facial blanco de búho -->
+  <ellipse cx="80" cy="68" rx="18" ry="20" fill="#FFFFFF"/>
+  <ellipse cx="120" cy="68" rx="18" ry="20" fill="#FFFFFF"/>
+
+  <!-- Pico curvo sabio -->
+  <polygon points="100,70 94,84 106,84" fill="#FF9F43"/>
+
+  <!-- Ojos plantilla común grandes sabios -->
+  <circle cx="80" cy="68" r="11" fill="#FFFFFF"/>
+  <circle cx="81" cy="70" r="5.5" fill="#232D36"/>
+  <circle cx="83" cy="68" r="2.5" fill="#FFFFFF"/>
+
+  <circle cx="120" cy="68" r="11" fill="#FFFFFF"/>
+  <circle cx="121" cy="70" r="5.5" fill="#232D36"/>
+  <circle cx="123" cy="68" r="2.5" fill="#FFFFFF"/>
+
+  <!-- Patas sujetas a una rama suave -->
+  <rect x="80" y="174" width="10" height="12" rx="5" fill="#FF9F43"/>
+  <rect x="110" y="174" width="10" height="12" rx="5" fill="#FF9F43"/>
+</svg>
