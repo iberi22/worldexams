@@ -97,6 +97,10 @@ CloudAI-X/threejs-skills`, `npx skills add iart-ai/web-animation-skills`.
   feat-cuentos-infra 100%.
 - 2026-09-10 Olas C2+C3 despachadas: issues #1289-1299, labels
   cuentos+ola-c2/c3+wave-c2/c3+jules+ai-agent.
+- 2026-09-10 Olas C2+C3 cerradas 11/11 merged (#1301-1311).
+  feat-cuentos-lector y feat-cuentos-a al 100%.
+- 2026-09-11 Olas C4+C5 despachadas: issues #1312-1320 (C4 cuentos
+  06-10, C5 polish), labels cuentos+ola-c4/c5+wave-c4/c5+jules+ai-agent.
 
 ## Privado no-listado (decisión BELA 2026-09-10)
 
