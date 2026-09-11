@@ -104,6 +104,11 @@ CloudAI-X/threejs-skills`, `npx skills add iart-ai/web-animation-skills`.
 - 2026-09-11 Ola C7 tanda 1 despachada: issues #1330-1335 (shell, puerta,
   spread, fuentes, contenido v2, parallax). Retenidas #1336 (tras C7.05 +
   audios edge-tts Dalia) y #1337 (tras C7.02) por islas compartidas.
+- 2026-09-11 C7.05 mergeada (#1343, relanzada tras fallo infra).
+  Despachadas #1336 (audio+timings) y #1337 (quiz+loader). C7 75%.
+  GAP: los specs e2e guardan PNGs en el árbol (review/, tests/e2e/)
+  en vez de test-results/ → churn binario en cada run; mover a
+  test-results/ en ola futura.
 
 ## Privado no-listado (decisión BELA 2026-09-10)
 
