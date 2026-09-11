@@ -1,0 +1,41 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Zara y Mote vigilando la sabana juntos por turnos">
+  <!-- PLANO 1: FONDO -->
+  <rect width="800" height="450" fill="#FDF6EC"/>
+  <path d="M 0 0 L 800 0 L 800 230 Q 400 250 0 230 Z" fill="#FFE3B3" opacity="0.6"/>
+
+  <!-- PLANO 2: MEDIO (Acacia alta a la izquierda) -->
+  <g transform="translate(100, 140)">
+    <path d="M 80 200 L 95 80 L 120 80 L 135 200 Z" fill="#C97B3D"/>
+    <ellipse cx="100" cy="70" rx="120" ry="30" fill="#7BAE5A"/>
+    <ellipse cx="100" cy="55" rx="90" ry="22" fill="#88C464"/>
+  </g>
+
+  <!-- PLANO 3: FRENTE -->
+  <path d="M 0 320 Q 400 300 800 320 L 800 450 L 0 450 Z" fill="#E8B04B"/>
+
+  <!-- Zara parada mirando a lo lejos desde lo alto -->
+  <g transform="translate(420, 120)">
+    <ellipse cx="80" cy="190" rx="38" ry="26" fill="#F2C14E"/>
+    <rect x="58" y="198" width="10" height="60" rx="4" fill="#F2C14E"/>
+    <rect x="92" y="198" width="10" height="60" rx="4" fill="#F2C14E"/>
+    <path d="M68 175 L62 25 L98 25 L92 175 Z" fill="#F2C14E"/>
+    <ellipse cx="90" cy="22" rx="20" ry="15" fill="#F2C14E"/>
+    <!-- Ojo vigilante -->
+    <circle cx="88" cy="18" r="6" fill="#FFFFFF"/>
+    <circle cx="90" cy="18" r="3" fill="#3A2E2A"/>
+  </g>
+
+  <!-- Mote parado firme en una piedra vigila cerca del suelo -->
+  <g transform="translate(280, 240)">
+    <!-- Piedra -->
+    <ellipse cx="30" cy="80" rx="35" ry="18" fill="#A67C52"/>
+    <!-- Mote ergido -->
+    <ellipse cx="30" cy="45" rx="14" ry="24" fill="#E8B04B"/>
+    <circle cx="30" cy="16" r="12" fill="#E8B04B"/>
+    <circle cx="26" cy="14" r="4" fill="#FFFFFF"/>
+    <circle cx="27" cy="14" r="2" fill="#3A2E2A"/>
+    <circle cx="34" cy="14" r="4" fill="#FFFFFF"/>
+    <circle cx="35" cy="14" r="2" fill="#3A2E2A"/>
+  </g>
+</svg>

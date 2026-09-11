@@ -1,0 +1,51 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Los tres amigos trabajan juntos para liberar al pececito">
+  <!-- Plano 1: Fondo azul de mar -->
+  <rect width="800" height="450" fill="#0077B6"/>
+  <rect y="280" width="800" height="170" fill="#023E8A" opacity="0.5"/>
+
+  <!-- Rayos de luz -->
+  <polygon points="350,0 410,0 520,450 440,450" fill="#E0F7FA" opacity="0.15"/>
+
+  <!-- Plano 2: Red en el centro siendo abierta -->
+  <g transform="translate(320, 160)">
+    <!-- Red desplazada -->
+    <rect x="0" y="0" width="160" height="140" fill="#48CAE4" opacity="0.15" rx="15"/>
+    <path d="M 0 35 L 160 35 M 0 105 L 160 105" stroke="#D8F3DC" stroke-width="3" stroke-dasharray="6,4"/>
+    <path d="M 40 0 L 40 140 M 120 0 L 120 140" stroke="#D8F3DC" stroke-width="3" stroke-dasharray="6,4"/>
+
+    <!-- Pececito saliendo alegremente -->
+    <g transform="translate(140, 40)">
+      <ellipse cx="25" cy="20" rx="20" ry="12" fill="#FF9F43"/>
+      <polygon points="45,20 60,10 60,30" fill="#FF9F43"/>
+      <circle cx="15" cy="16" r="3" fill="#FFFFFF"/>
+      <circle cx="14" cy="16" r="1.5" fill="#232D36"/>
+    </g>
+  </g>
+
+  <!-- Plano 3: Tom empujando la red (izquierda) y Lila guiando (abajo) -->
+  <!-- Tom pez globo empujando -->
+  <g transform="translate(200, 170) scale(0.8)">
+    <circle cx="100" cy="100" r="55" fill="#FFB74D"/>
+    <circle cx="82" cy="88" r="9" fill="#FFFFFF"/>
+    <circle cx="83" cy="89" r="4" fill="#232D36"/>
+    <circle cx="118" cy="88" r="9" fill="#FFFFFF"/>
+    <circle cx="117" cy="89" r="4" fill="#232D36"/>
+  </g>
+
+  <!-- Lila aleta suave moviendo la red -->
+  <g transform="translate(280, 260) scale(0.75)">
+    <ellipse cx="100" cy="116" rx="54" ry="44" fill="#4FB6A3"/>
+    <circle cx="100" cy="58" r="34" fill="#4FB6A3"/>
+    <circle cx="85" cy="52" r="8" fill="#FFFFFF"/>
+    <circle cx="86" cy="53" r="4" fill="#232D36"/>
+  </g>
+
+  <!-- Vela la gaviota vigilando desde arriba en la superficie -->
+  <g transform="translate(560, 20) scale(0.55)">
+    <circle cx="100" cy="65" r="28" fill="#FFFFFF"/>
+    <polygon points="100,70 128,75 100,82" fill="#FFC107"/>
+    <path d="M90 100 Q40 60 10 90 Q40 110 85 115 Z" fill="#90A4AE"/>
+    <path d="M110 100 Q160 60 190 90 Q160 110 115 115 Z" fill="#90A4AE"/>
+  </g>
+</svg>

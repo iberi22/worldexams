@@ -1,0 +1,42 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="El Cactus Abuelo Espino explica que el agua baja de noche">
+  <!-- PLANO FONDO: Atardecer en el desierto -->
+  <rect width="800" height="450" fill="#FDF6EC"/>
+  <!-- Sol de atardecer rosado/naranja -->
+  <circle cx="400" cy="220" r="60" fill="#FF9F43" opacity="0.6"/>
+  <path d="M 0 240 Q 250 200 500 250 Q 700 280 800 220 L 800 450 L 0 450 Z" fill="#FCEBD0"/>
+
+  <!-- PLANO MEDIO -->
+  <path d="M 0 300 Q 300 270 550 320 Q 700 350 800 300 L 800 450 L 0 450 Z" fill="#E8B04B"/>
+
+  <!-- Cactus Abuelo Espino al centro -->
+  <g transform="translate(480, 180)">
+    <rect x="35" y="40" width="40" height="110" rx="20" fill="#7BAE5A"/>
+    <!-- Brazos -->
+    <path d="M 35 80 L 15 80 Q 5 80 5 65 L 5 55" fill="none" stroke="#7BAE5A" stroke-width="14" stroke-linecap="round"/>
+    <path d="M 75 90 L 95 90 Q 105 90 105 75 L 105 65" fill="none" stroke="#7BAE5A" stroke-width="14" stroke-linecap="round"/>
+    <!-- Flor arriba -->
+    <circle cx="55" cy="35" r="10" fill="#FF9F43"/>
+    <!-- Ojos sabios -->
+    <circle cx="45" cy="65" r="6" fill="#FFFFFF"/>
+    <circle cx="45" cy="66" r="3" fill="#3A2E2A"/>
+    <circle cx="65" cy="65" r="6" fill="#FFFFFF"/>
+    <circle cx="65" cy="66" r="3" fill="#3A2E2A"/>
+    <!-- Sonrisa -->
+    <path d="M 47 80 Q 55 88 63 80" stroke="#3A2E2A" stroke-width="2" fill="none"/>
+  </g>
+
+  <!-- Bruno y Nuna escuchando al Abuelo Espino -->
+  <g transform="translate(260, 290)">
+    <!-- Bruno -->
+    <ellipse cx="40" cy="60" rx="24" ry="28" fill="#E8B04B"/>
+    <circle cx="40" cy="30" r="18" fill="#E8B04B"/>
+    <path d="M 25 15 Q 5 -15 20 25 Z" fill="#E8B04B"/>
+    <path d="M 55 15 Q 75 -15 60 25 Z" fill="#E8B04B"/>
+  </g>
+  <g transform="translate(160, 320)">
+    <!-- Nuna -->
+    <ellipse cx="40" cy="40" rx="28" ry="20" fill="#4FB6A3"/>
+    <circle cx="15" cy="30" r="12" fill="#78C6B7"/>
+  </g>
+</svg>
