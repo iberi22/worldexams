@@ -1,0 +1,51 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Pipo y Mía caminan tranquilos de regreso a casa al atardecer">
+  <!-- plano-fondo -->
+  <g id="plano-fondo">
+    <rect width="800" height="450" fill="#FDF6EC"/>
+    <!-- Cielo al atardecer -->
+    <path d="M0 0 L800 0 L800 320 L0 320 Z" fill="#FF9F43" opacity="0.3"/>
+    <!-- Sol atardecer cayendo suavemente -->
+    <circle cx="400" cy="220" r="60" fill="#E26D5A" opacity="0.5"/>
+    <path d="M0 320 L150 200 L320 320 Z" fill="#3A2E2A" opacity="0.2"/>
+    <path d="M500 320 L680 210 L800 320 Z" fill="#3A2E2A" opacity="0.2"/>
+  </g>
+
+  <!-- plano-medio -->
+  <g id="plano-medio">
+    <path d="M0 310 Q400 290 800 310 L800 450 L0 450 Z" fill="#7BAE5A"/>
+    <!-- Camino dorado de regreso -->
+    <path d="M300 450 Q400 360 400 310 L440 310 Q430 360 500 450 Z" fill="#E8B04B" opacity="0.6"/>
+  </g>
+
+  <!-- plano-frente -->
+  <g id="plano-frente">
+    <!-- Pipo y Mía caminando tomados de la mano / abrazados -->
+    <g transform="translate(320, 230) scale(0.6)">
+      <ellipse cx="100" cy="130" rx="46" ry="52" fill="#6C7A89"/>
+      <circle cx="100" cy="74" r="38" fill="#6C7A89"/>
+      <path d="M78 102 L100 122 L122 102 Z" fill="#9B7EDE"/>
+      <ellipse cx="80" cy="72" rx="16" ry="12" fill="#3A2E2A"/>
+      <ellipse cx="120" cy="72" rx="16" ry="12" fill="#3A2E2A"/>
+      <circle cx="81" cy="71" r="6" fill="#FFFFFF"/>
+      <circle cx="119" cy="71" r="6" fill="#FFFFFF"/>
+      <circle cx="81" cy="71" r="3" fill="#232D36"/>
+      <circle cx="119" cy="71" r="3" fill="#232D36"/>
+      <!-- Sonrisa amable -->
+      <path d="M92 86 Q100 94 108 86" fill="none" stroke="#3A2E2A" stroke-width="2.5" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(420, 230) scale(0.6)">
+      <ellipse cx="100" cy="130" rx="44" ry="50" fill="#7E8C9B"/>
+      <circle cx="100" cy="74" r="37" fill="#7E8C9B"/>
+      <circle cx="132" cy="40" r="7" fill="#9B7EDE"/>
+      <ellipse cx="80" cy="72" rx="15" ry="11" fill="#3A2E2A"/>
+      <ellipse cx="120" cy="72" rx="15" ry="11" fill="#3A2E2A"/>
+      <circle cx="81" cy="71" r="6" fill="#FFFFFF"/>
+      <circle cx="119" cy="71" r="6" fill="#FFFFFF"/>
+      <circle cx="81" cy="71" r="3" fill="#232D36"/>
+      <circle cx="119" cy="71" r="3" fill="#232D36"/>
+      <!-- Sonrisa feliz -->
+      <path d="M92 86 Q100 94 108 86" fill="none" stroke="#3A2E2A" stroke-width="2.5" stroke-linecap="round"/>
+    </g>
+  </g>
+</svg>
