@@ -1,6 +1,7 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import PuertaLibro from '../../components/cuentos/PuertaLibro.svelte';
+import '../../components/cuentos/arte/tokens.css'; // Global cuentos theme (vars + Andika/Fredoka) for static page markup
 import { getAllCuentosCatalog, getCuentoBySlug } from '../../lib/cuentos/cuentos-catalog';
 
 export const prerender = true;
@@ -96,7 +97,7 @@ const bookSchema = {
   <script is:inline type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
   <script is:inline type="application/ld+json" set:html={JSON.stringify(bookSchema)} />
 
-  <div class="min-h-screen bg-[#FDF6EC] text-[#3A2E2A] font-sans antialiased pb-16">
+  <div class="min-h-screen bg-[#FDF6EC] text-[#3A2E2A] font-sans antialiased pb-16 cuentos-theme-root">
     <!-- Puerta del libro (C7.02): cover + blurb + CTA a /leer/ -->
     <PuertaLibro
       client:load
@@ -153,7 +154,7 @@ const bookSchema = {
           )}
         </div>
 
-        <h1 class="text-3xl sm:text-4xl font-extrabold text-[#3A2E2A] tracking-tight mb-3">
+        <h1 class="text-3xl sm:text-4xl font-extrabold text-[#3A2E2A] tracking-tight mb-3 cuento-fuente-display">
           {cuento.titulo}
         </h1>
 
@@ -189,7 +190,7 @@ const bookSchema = {
             )}
 
             <!-- Page Paragraph Text -->
-            <p class="text-lg sm:text-xl text-[#3A2E2A] leading-relaxed font-normal">
+            <p class="text-lg sm:text-xl text-[#3A2E2A] leading-relaxed font-normal story-text cuento-fuente-cuerpo">
               {pagina.texto}
             </p>
           </section>
