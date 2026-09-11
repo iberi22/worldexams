@@ -21,8 +21,14 @@ test.describe('Cuentos Night Shell & HUD E2E Suite (Ola C7.01)', () => {
 
     page.on('request', (req) => {
       const url = req.url();
-      // Record any non-data / non-asset network requests after initial load
-      if (!url.startsWith('data:') && !url.startsWith('blob:') && !url.includes('/_astro/') && !url.includes('/@fs/')) {
+      // BR-03: only EXTERNAL calls matter (telemetry/trackers). Same-origin
+      // page + pack loads are legitimate first-load traffic, not HUD calls.
+      const external =
+        !url.startsWith('data:') &&
+        !url.startsWith('blob:') &&
+        !url.includes('localhost') &&
+        !url.includes('127.0.0.1');
+      if (external) {
         networkRequests.push(url);
       }
     });
