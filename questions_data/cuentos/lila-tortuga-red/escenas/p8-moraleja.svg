@@ -1,0 +1,41 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Los amigos descansan juntos contemplando el mar seguro">
+  <!-- Plano 1: Atardecer suave en la playa -->
+  <rect width="800" height="220" fill="#FFD166"/>
+  <rect y="220" width="800" height="230" fill="#FFE0B2"/>
+
+  <!-- Sol poniente cálido -->
+  <circle cx="400" cy="180" r="55" fill="#EF476F" opacity="0.85"/>
+
+  <!-- Mar tranquilo en el horizonte -->
+  <path d="M 0 220 L 800 220 L 800 260 L 0 260 Z" fill="#06D6A0" opacity="0.7"/>
+
+  <!-- Plano 2: Palmeras y vegetación lateral -->
+  <path d="M 0 450 Q 80 300 0 200 L 0 450 Z" fill="#073B4C"/>
+  <path d="M 800 450 Q 720 300 800 200 L 800 450 Z" fill="#073B4C"/>
+
+  <!-- Plano 3: Los tres amigos descansando juntos cerca de la orilla -->
+  <!-- Lila la tortuga (centro) -->
+  <g transform="translate(340, 260) scale(0.8)">
+    <ellipse cx="100" cy="116" rx="54" ry="44" fill="#4FB6A3"/>
+    <circle cx="100" cy="58" r="34" fill="#4FB6A3"/>
+    <circle cx="85" cy="52" r="8" fill="#FFFFFF"/>
+    <circle cx="86" cy="53" r="4" fill="#232D36"/>
+    <circle cx="115" cy="52" r="8" fill="#FFFFFF"/>
+    <circle cx="114" cy="53" r="4" fill="#232D36"/>
+  </g>
+
+  <!-- Tom el pez globo (izquierda en un charquito seguro) -->
+  <g transform="translate(200, 280) scale(0.65)">
+    <circle cx="100" cy="100" r="55" fill="#FFB74D"/>
+    <circle cx="82" cy="88" r="9" fill="#FFFFFF"/>
+    <circle cx="83" cy="89" r="4" fill="#232D36"/>
+  </g>
+
+  <!-- Vela la gaviota (derecha descansando en la arena) -->
+  <g transform="translate(520, 270) scale(0.65)">
+    <circle cx="100" cy="65" r="28" fill="#FFFFFF"/>
+    <polygon points="100,70 128,75 100,82" fill="#FFC107"/>
+    <path d="M90 100 Q40 60 10 90 Q40 110 85 115 Z" fill="#90A4AE"/>
+  </g>
+</svg>

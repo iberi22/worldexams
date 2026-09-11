@@ -1,0 +1,32 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Lila la tortuga marina verde">
+  <!-- aleta trasera izquierda -->
+  <ellipse cx="65" cy="155" rx="14" ry="24" fill="#388E3C" transform="rotate(-30 65 155)"/>
+  <!-- aleta trasera derecha -->
+  <ellipse cx="135" cy="155" rx="14" ry="24" fill="#388E3C" transform="rotate(30 135 155)"/>
+  <!-- caparazón (fondo/borde) -->
+  <ellipse cx="100" cy="118" rx="58" ry="48" fill="#2E7D32"/>
+  <!-- caparazón principal (firma #4FB6A3) -->
+  <ellipse cx="100" cy="116" rx="54" ry="44" fill="#4FB6A3"/>
+  <!-- patrones hexagonales del caparazón -->
+  <polygon points="100,85 118,95 118,115 100,125 82,115 82,95" fill="#81C784" opacity="0.8"/>
+  <polygon points="70,105 82,95 82,115 70,125 58,115 58,105" fill="#66BB6A" opacity="0.6"/>
+  <polygon points="130,105 142,115 142,125 130,115 118,115 118,95" fill="#66BB6A" opacity="0.6"/>
+  <!-- aletas delanteras nadadoras largas -->
+  <path d="M50 110 Q10 100 20 135 Q35 150 55 125 Z" fill="#4FB6A3"/>
+  <path d="M150 110 Q190 100 180 135 Q165 150 145 125 Z" fill="#4FB6A3"/>
+  <!-- cabeza verde -->
+  <circle cx="100" cy="58" r="34" fill="#4FB6A3"/>
+  <!-- mejilla sonrosada -->
+  <circle cx="76" cy="68" r="6" fill="#E26D5A" opacity="0.5"/>
+  <circle cx="124" cy="68" r="6" fill="#E26D5A" opacity="0.5"/>
+  <!-- sonrisa suave -->
+  <path d="M92 72 Q100 78 108 72" stroke="#3A2E2A" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- ojos plantilla común -->
+  <circle cx="85" cy="52" r="10" fill="#FFFFFF"/>
+  <circle cx="86" cy="53" r="5" fill="#232D36"/>
+  <circle cx="88" cy="51" r="2" fill="#FFFFFF"/>
+  <circle cx="115" cy="52" r="10" fill="#FFFFFF"/>
+  <circle cx="114" cy="53" r="5" fill="#232D36"/>
+  <circle cx="112" cy="51" r="2" fill="#FFFFFF"/>
+</svg>
