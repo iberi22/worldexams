@@ -1,0 +1,144 @@
+{
+  "format": "cuento-v1",
+  "slug": "don-emilio-mina",
+  "titulo": "Don Emilio y la mina que cuida el cerro",
+  "edad": "5-6",
+  "idioma": "es-neutro",
+  "eje": "oficios",
+  "habitat": "mina",
+  "valor": "trabajo",
+  "personajes": [
+    "emilio",
+    "suli",
+    "carbonilla"
+  ],
+  "paginas": [
+    {
+      "n": 1,
+      "imagen": "escenas/p1-piedras.svg",
+      "alt": "Emilio de niño junta piedras brillantes en el cerro",
+      "texto": "En la falda del cerro verde vivía Emilio. Cuando era pequeño, le gustaba caminar por los senderos y juntar piedras brillantes que relucían con el sol. Las guardaba en su bolsillo con gran curiosidad. Emilio no lo sabía entonces, pero de aquellas piedras salían los metales con los que construimos bicicletas, puentes y teléfonos."
+    },
+    {
+      "n": 2,
+      "imagen": "escenas/p2-estudio.svg",
+      "alt": "Emilio estudia mapas y minerales",
+      "texto": "Cuando creció, Emilio decidió estudiar con entusiasmo todo sobre la tierra y las rocas. Aprendió cómo buscar los minerales de forma limpia sin lastimar la naturaleza. Trabajó con dedicación hasta convertirse en minero. Con sus manos y su inteligencia, Emilio entendió que cuidar la tierra es tan importante como extraer lo que necesitamos."
+    },
+    {
+      "n": 3,
+      "imagen": "escenas/p3-tecnologia.svg",
+      "alt": "Mina moderna 2026 con casco con luz, drones y sensores",
+      "texto": "La mina del año 2026 era un lugar moderno y seguro. Don Emilio usaba un casco amarillo con una luz potente en el frente. En el túnel flotaba un dron pequeñito que revisaba el aire y las paredes. Junto a él, la ingeniera Suli examinaba pantallas digitales con sensores que indicaban que todo estaba en orden."
+    },
+    {
+      "n": 4,
+      "imagen": "escenas/p4-regla.svg",
+      "alt": "Regla de oro: por cada hueco, un árbol nuevo",
+      "texto": "En la mina de Don Emilio había una regla de oro que todos respetaban con alegría: por cada hueco, un árbol nuevo. Cada vez que extraían minerales, Don Emilio y la ingeniera Suli sembraban un arbolito en la ladera. La perrita Carbonilla corría feliz alrededor mientras las raíces jóvenes abrazaban la tierra firme."
+    },
+    {
+      "n": 5,
+      "imagen": "escenas/p5-sensor.svg",
+      "alt": "El sensor avisa y todos salen de manera ordenada",
+      "texto": "Una mañana brillante, un sensor de seguridad emitió un sonido claro y suave: ¡bip, bip! No había ningún peligro, sino una prueba de rutina para cuidar al equipo. Al oír la señal, Don Emilio, la ingeniera Suli y todos los trabajadores caminaron en fila de manera muy ordenada y tranquila hacia la salida."
+    },
+    {
+      "n": 6,
+      "imagen": "escenas/p6-carbonilla.svg",
+      "alt": "La perrita Carbonilla revisa el túnel y confirma que todo está seguro",
+      "texto": "Afuera del túnel, bajo el sol brillante, la perrita Carbonilla se puso su chaleco de rescate. Con su olfato fino y su paso alegre, caminó despacio para revisar que el túnel estuviera completamente limpio. Al terminar, dio un ladrido contento para confirmar que todo el equipo estaba afuera sano y salvo."
+    },
+    {
+      "n": 7,
+      "imagen": "escenas/p7-fiesta.svg",
+      "alt": "Fiesta de la siembra del árbol número mil en la colina",
+      "texto": "Saber que todos trabajaban seguros fue motivo de alegría. Esa tarde celebraron una gran fiesta en el cerro porque sembraron el árbol número mil. Pusieron banderines de colores y globos en las ramas altas. Don Emilio, Suli y Carbonilla aplaudieron contentos al ver la colina más verde y hermosa que nunca."
+    },
+    {
+      "n": 8,
+      "imagen": "escenas/p8-moral.svg",
+      "alt": "El trabajo bueno cuida a la gente y a la tierra",
+      "texto": "Al caer la tarde, Don Emilio contempló el cerro florecido mientras el sol doraba los árboles jóvenes. Observó su casco, abrazó a la perrita Carbonilla y sonrió con orgullo. Aprendió que la minería responsable ayuda a las familias y protege el medio ambiente. Porque el trabajo bueno cuida a la gente y a la tierra."
+    }
+  ],
+  "quiz": [
+    {
+      "n": 1,
+      "texto": "¿Qué estudiaba Emilio de niño sin saberlo?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las piedras brillantes y los metales",
+          "correcta": true,
+          "feedback": "¡Excelente! De las piedras brillantes salen los metales para bicicletas y teléfonos."
+        },
+        {
+          "letra": "B",
+          "texto": "Los peces del río",
+          "correcta": false,
+          "feedback": "No eran peces, Emilio juntaba piedras en el cerro."
+        },
+        {
+          "letra": "C",
+          "texto": "Las nubes del cielo",
+          "correcta": false,
+          "feedback": "Las nubes son hermosas, pero Emilio observaba las rocas de la tierra."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "texto": "¿Qué revisan los drones en la mina moderna?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La mina, para asegurar que el aire y el entorno estén firmes",
+          "correcta": true,
+          "feedback": "¡Muy bien! Los drones ayudan a verificar la seguridad de todo el equipo."
+        },
+        {
+          "letra": "B",
+          "texto": "Dónde guardar juguetes",
+          "correcta": false,
+          "feedback": "Los drones de la mina ayudan en la seguridad del trabajo."
+        },
+        {
+          "letra": "C",
+          "texto": "Cómo forman nidos las aves",
+          "correcta": false,
+          "feedback": "Las aves forman sus nidos en las ramas, los drones revisan la mina."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "texto": "¿Cuál es la regla de oro de la mina de Don Emilio?",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por cada hueco, un árbol nuevo",
+          "correcta": true,
+          "feedback": "¡Correcto! Reforestar cuida el cerro y mantiene la tierra firme."
+        },
+        {
+          "letra": "B",
+          "texto": "Esconder todas las rocas",
+          "correcta": false,
+          "feedback": "No, la regla enseña a sembrar árboles para cuidar la naturaleza."
+        },
+        {
+          "letra": "C",
+          "texto": "Trabajar sin casco ni luz",
+          "correcta": false,
+          "feedback": "La seguridad es lo primero, siempre usan casco con luz."
+        }
+      ]
+    }
+  ],
+  "explicacion": "Don Emilio nos enseña que el trabajo con tecnología y responsabilidad cuida\na las personas y fortalece la naturaleza. Reforestar y usar sensores nos\npermite obtener los materiales que necesitamos sin dañar nuestra tierra.\nPregunta a tu niño: ¿qué oficio te gustaría aprender cuando seas grande?",
+  "hotspots": [],
+  "license": "PROPRIETARY-FREE-READ",
+  "version": 1,
+  "copyright": "© 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. Lectura gratuita, prohibida su reproducción."
+}
