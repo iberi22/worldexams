@@ -1,0 +1,33 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Lila la perezosa">
+  <!-- cuerpo ovalado suave -->
+  <ellipse cx="100" cy="125" rx="48" ry="52" fill="#A08C7D"/>
+  <!-- pecho / barriga suave -->
+  <ellipse cx="100" cy="132" rx="30" ry="34" fill="#E6D7C3"/>
+  <!-- brazos largos envolventes -->
+  <path d="M 55 110 Q 30 130 45 160 Q 55 165 65 140 Z" fill="#8C7767"/>
+  <path d="M 145 110 Q 170 130 155 160 Q 145 165 135 140 Z" fill="#8C7767"/>
+  <!-- cabeza -->
+  <circle cx="100" cy="70" r="40" fill="#A08C7D"/>
+  <!-- mascara facial perezosa -->
+  <ellipse cx="100" cy="72" rx="32" ry="26" fill="#E6D7C3"/>
+  <!-- manchas oscuras en los ojos -->
+  <ellipse cx="82" cy="68" rx="12" ry="10" fill="#6E5A4C" transform="rotate(-10 82 68)"/>
+  <ellipse cx="118" cy="68" rx="12" ry="10" fill="#6E5A4C" transform="rotate(10 118 68)"/>
+  <!-- ojos plantilla común -->
+  <circle cx="83" cy="67" r="8" fill="#FFFFFF"/>
+  <circle cx="84" cy="68" r="4" fill="#232D36"/>
+  <circle cx="85" cy="67" r="1.5" fill="#FFFFFF"/>
+  <circle cx="117" cy="67" r="8" fill="#FFFFFF"/>
+  <circle cx="118" cy="68" r="4" fill="#232D36"/>
+  <circle cx="119" cy="67" r="1.5" fill="#FFFFFF"/>
+  <!-- nariz y sonrisa placida -->
+  <ellipse cx="100" cy="76" rx="5" ry="4" fill="#3A2E2A"/>
+  <path d="M 93 83 Q 100 88 107 83" fill="none" stroke="#3A2E2A" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- mejillas rosadas suaves -->
+  <circle cx="70" cy="78" r="5" fill="#E26D5A" opacity="0.45"/>
+  <circle cx="130" cy="78" r="5" fill="#E26D5A" opacity="0.45"/>
+  <!-- patas inferiores -->
+  <rect x="76" y="170" width="16" height="12" rx="6" fill="#8C7767"/>
+  <rect x="108" y="170" width="16" height="12" rx="6" fill="#8C7767"/>
+</svg>
