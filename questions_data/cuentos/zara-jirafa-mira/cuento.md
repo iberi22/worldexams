@@ -70,9 +70,9 @@ del suelo. Todos celebraban que la amistad une a grandes
 y chiquitos por igual.
 
 ## Pagina 8
-![alt: Zara descansa agachadita platicando con Mote al atardecer](escenas/p8-moraleja.svg)
+![alt: Zara descansa agachadita conversando con Mote al atardecer](escenas/p8-moraleja.svg)
 Ahora Zara sabe que el mundo es más lindo cuando se
-mira con atención. Siempre que quiere platicar con un amigo
+mira con atención. Siempre que quiere conversar con un amigo
 pequeño, dobla su largo cuello con ternura. Porque para
 entender de verdad a los demás, a veces hay que
 agacharse un poquito.
