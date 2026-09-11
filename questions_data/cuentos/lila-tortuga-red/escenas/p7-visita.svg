@@ -1,0 +1,42 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="El pececito visita a Lila bajo la luz de la luna llena">
+  <!-- Plano 1: Cielo nocturno azul oscuro con estrellas y luna llena -->
+  <rect width="800" height="450" fill="#03045E"/>
+  <rect y="230" width="800" height="220" fill="#0077B6" opacity="0.8"/>
+
+  <!-- Luna llena brillante -->
+  <circle cx="680" cy="80" r="45" fill="#FFF3BF"/>
+  <circle cx="680" cy="80" r="58" fill="#FFF3BF" opacity="0.25"/>
+
+  <!-- Estrellas en el cielo -->
+  <circle cx="120" cy="50" r="3" fill="#FFFFFF"/>
+  <circle cx="280" cy="90" r="2.5" fill="#FFFFFF"/>
+  <circle cx="450" cy="40" r="3" fill="#FFFFFF"/>
+  <circle cx="560" cy="110" r="2" fill="#FFFFFF"/>
+
+  <!-- Reflejo de la luna en la superficie del agua -->
+  <ellipse cx="680" cy="230" rx="40" ry="6" fill="#FFF3BF" opacity="0.5"/>
+  <ellipse cx="680" cy="245" rx="28" ry="4" fill="#FFF3BF" opacity="0.4"/>
+
+  <!-- Plano 2: Circulo de luz plateada en el arrecife -->
+  <ellipse cx="400" cy="340" rx="180" ry="60" fill="#48CAE4" opacity="0.15"/>
+
+  <!-- Plano 3: Lila nadando junto al pececito alegre -->
+  <!-- Lila la tortuga -->
+  <g transform="translate(260, 240) scale(0.85)">
+    <ellipse cx="100" cy="116" rx="54" ry="44" fill="#4FB6A3"/>
+    <circle cx="100" cy="58" r="34" fill="#4FB6A3"/>
+    <circle cx="85" cy="52" r="8" fill="#FFFFFF"/>
+    <circle cx="86" cy="53" r="4" fill="#232D36"/>
+    <circle cx="115" cy="52" r="8" fill="#FFFFFF"/>
+    <circle cx="114" cy="53" r="4" fill="#232D36"/>
+  </g>
+
+  <!-- Pececito nadando alrededor haciendo un vinculo de luz -->
+  <g transform="translate(480, 290)">
+    <ellipse cx="25" cy="20" rx="22" ry="14" fill="#FF9F43"/>
+    <polygon points="45,20 62,8 62,32" fill="#FF9F43"/>
+    <circle cx="15" cy="16" r="4" fill="#FFFFFF"/>
+    <circle cx="14" cy="16" r="2" fill="#232D36"/>
+  </g>
+</svg>
