@@ -1,0 +1,47 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Nieve patina sobre el hielo que se adelgaza">
+  <!-- PLANO 1: FONDO (Cielo ártico de día suave y sol pálido) -->
+  <rect width="800" height="450" fill="#EBF4F6"/>
+  <circle cx="680" cy="90" r="42" fill="#FFF3D6" opacity="0.9"/>
+  <!-- Nubes esponjosas -->
+  <path d="M 120 100 Q 105 100 105 85 Q 105 65 125 65 Q 135 40 165 40 Q 190 30 215 45 Q 240 35 255 55 Q 275 60 275 82 Q 275 100 255 100 Z" fill="#FFFFFF" opacity="0.85"/>
+  <path d="M 450 120 Q 435 120 435 105 Q 435 85 455 85 Q 465 60 495 60 Q 520 50 545 65 Q 570 55 585 75 Q 605 80 605 102 Q 605 120 585 120 Z" fill="#FFFFFF" opacity="0.75"/>
+
+  <!-- PLANO 2: MEDIO (Montañas de nieve lejanas y mar frío) -->
+  <polygon points="0,260 140,160 280,260" fill="#D2E5EE"/>
+  <polygon points="200,260 380,140 560,260" fill="#C5DCE7"/>
+  <polygon points="500,260 650,170 800,260" fill="#D2E5EE"/>
+  <!-- Agua ártica -->
+  <rect y="240" width="800" height="210" fill="#4FB6A3" opacity="0.45"/>
+
+  <!-- PLANO 3: FRENTE (Placa de hielo, grieta delgada y Nieve patinando) -->
+  <path d="M -20 280 L 360 280 L 340 450 L -20 450 Z" fill="#FFFFFF"/>
+  <path d="M 400 290 L 820 290 L 820 450 L 380 450 Z" fill="#E8F1F5"/>
+  <!-- Grieta con agua suave -->
+  <path d="M 350 280 Q 370 340 345 450 L 380 450 Q 405 340 395 290 Z" fill="#4FB6A3"/>
+
+  <!-- Nieve patinando (silueta vectorial amable) -->
+  <g transform="translate(180, 230)">
+    <!-- Cuerpo Nieve -->
+    <ellipse cx="60" cy="80" rx="32" ry="36" fill="#F4F8FA"/>
+    <circle cx="60" cy="42" r="26" fill="#FFFFFF"/>
+    <!-- Orejas -->
+    <circle cx="42" cy="26" r="8" fill="#BFD9E8"/>
+    <circle cx="78" cy="26" r="8" fill="#BFD9E8"/>
+    <!-- Bufanda firma -->
+    <path d="M 38 62 Q 60 72 82 62 Q 74 76 60 78 Q 46 76 38 62 Z" fill="#BFD9E8"/>
+    <!-- Ojos -->
+    <circle cx="50" cy="38" r="6" fill="#FFFFFF"/>
+    <circle cx="51" cy="39" r="3" fill="#232D36"/>
+    <circle cx="70" cy="38" r="6" fill="#FFFFFF"/>
+    <circle cx="71" cy="39" r="3" fill="#232D36"/>
+    <!-- Hocico -->
+    <ellipse cx="60" cy="48" rx="10" ry="7" fill="#E8F1F5"/>
+    <ellipse cx="60" cy="45" rx="4" ry="3" fill="#232D36"/>
+    <!-- Patines de hielo -->
+    <rect x="42" y="112" width="12" height="8" rx="4" fill="#BFD9E8"/>
+    <line x1="36" y1="120" x2="60" y2="120" stroke="#232D36" stroke-width="2.5"/>
+    <rect x="66" y="112" width="12" height="8" rx="4" fill="#BFD9E8"/>
+    <line x1="60" y1="120" x2="84" y2="120" stroke="#232D36" stroke-width="2.5"/>
+  </g>
+</svg>
