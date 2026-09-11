@@ -1,14 +1,19 @@
 <!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
 <script lang="ts">
   import type { QuizPregunta, QuizOpcion } from '../../../lib/cuentos/cuento-schema';
+  import { saveProgress, getAllProgress } from '../../../lib/cuentos/progreso';
+  import { evaluarYDesbloquearLogros, type Logro } from '../../../lib/cuentos/logros';
+  import CelebracionLogro from './CelebracionLogro.svelte';
 
   interface Props {
     quiz: readonly QuizPregunta[] | QuizPregunta[];
     explicacion?: string;
+    slug?: string;
     onComplete?: (score: { total: number; correctFirstTry: number }) => void;
   }
 
-  let { quiz = [], explicacion = '', onComplete }: Props = $props();
+  let { quiz = [], explicacion = '', slug = '', onComplete }: Props = $props();
+  let unlockedLogros = $state<Logro[]>([]);
 
   let currentIndex = $state(0);
   let selectedOptionIndex = $state<number | null>(null);
@@ -64,6 +69,13 @@
     } else {
       isFinished = true;
       const correctFirstTryCount = firstTryCorrect.filter(Boolean).length;
+      if (slug) {
+        saveProgress(slug, 1, true, correctFirstTryCount);
+        const nuevos = evaluarYDesbloquearLogros(getAllProgress(), slug);
+        if (nuevos.length > 0) {
+          unlockedLogros = nuevos;
+        }
+      }
       if (onComplete) {
         onComplete({
           total: quiz.length,
@@ -249,6 +261,10 @@
         🔄 Volver a intentar
       </button>
     </main>
+  {/if}
+
+  {#if unlockedLogros.length > 0}
+    <CelebracionLogro logros={unlockedLogros} onClose={() => (unlockedLogros = [])} />
   {/if}
 </div>
 
