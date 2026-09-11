@@ -1,0 +1,23 @@
+/* © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. */
+
+/* Fuera de CDN: Fuentes locales empaquetadas vía @fontsource (Andika + Fredoka) */
+@import '@fontsource/andika/400.css';
+@import '@fontsource/andika/700.css';
+@import '@fontsource/fredoka/500.css';
+@import '@fontsource/fredoka/600.css';
+@import '@fontsource/fredoka/700.css';
+
+:root {
+  /* Pilas de tipografías para el módulo Cuentos */
+  --font-cuentos-cuerpo: 'Andika', 'Atkinson Hyperlegible', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-cuentos-display: 'Fredoka', 'Baloo 2', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+/* Clases de utilidad para tipografía de Cuentos (sin override global en body) */
+.cuento-fuente-cuerpo {
+  font-family: var(--font-cuentos-cuerpo);
+}
+
+.cuento-fuente-display {
+  font-family: var(--font-cuentos-display);
+}
