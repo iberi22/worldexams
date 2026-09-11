@@ -13,6 +13,19 @@
     "coverSvg": "escenas/p1-cava-rapido.svg"
   },
   {
+    "slug": "don-emilio-mina",
+    "titulo": "Don Emilio y la mina que cuida el cerro",
+    "edad": "5-6",
+    "eje": "oficios",
+    "habitat": "mina",
+    "valor": "trabajo",
+    "paginas": 8,
+    "license": "PROPRIETARY-FREE-READ",
+    "version": 1,
+    "packUrl": "/v1/cuentos/don-emilio-mina.json",
+    "coverSvg": "escenas/p1-piedras.svg"
+  },
+  {
     "slug": "lila-tortuga-red",
     "titulo": "Lila la tortuga y el dilema de la red",
     "edad": "5-6",
@@ -24,6 +37,19 @@
     "version": 1,
     "packUrl": "/v1/cuentos/lila-tortuga-red.json",
     "coverSvg": "escenas/p1-red.svg"
+  },
+  {
+    "slug": "lucia-puentes",
+    "titulo": "Lucía construye puentes",
+    "edad": "5-6",
+    "eje": "oficios",
+    "habitat": "ingenieria",
+    "valor": "perseverar",
+    "paginas": 8,
+    "license": "PROPRIETARY-FREE-READ",
+    "version": 1,
+    "packUrl": "/v1/cuentos/lucia-puentes.json",
+    "coverSvg": "escenas/p1-pueblos.svg"
   },
   {
     "slug": "nieve-osa-hielo",
@@ -39,6 +65,19 @@
     "coverSvg": "escenas/p1-adelgaza.svg"
   },
   {
+    "slug": "puente-roto-pipo-mia",
+    "titulo": "El puente roto: Pipo y Mía deciden",
+    "edad": "5-6",
+    "eje": "etica",
+    "habitat": "bosque",
+    "valor": "honestidad",
+    "paginas": 8,
+    "license": "PROPRIETARY-FREE-READ",
+    "version": 1,
+    "packUrl": "/v1/cuentos/puente-roto-pipo-mia.json",
+    "coverSvg": "escenas/p1-saltar.svg"
+  },
+  {
     "slug": "tana-tucan-comparte",
     "titulo": "Tana la tucán que aprendió a compartir",
     "edad": "3-4",
@@ -50,6 +89,32 @@
     "version": 1,
     "packUrl": "/v1/cuentos/tana-tucan-comparte.json",
     "coverSvg": "escenas/p1-arbol.svg"
+  },
+  {
+    "slug": "tomas-casa-arbol",
+    "titulo": "Tomás y la casa que abraza el árbol",
+    "edad": "4-6",
+    "eje": "oficios",
+    "habitat": "arquitectura",
+    "valor": "respeto",
+    "paginas": 8,
+    "license": "PROPRIETARY-FREE-READ",
+    "version": 1,
+    "packUrl": "/v1/cuentos/tomas-casa-arbol.json",
+    "coverSvg": "escenas/p1-encargo.svg"
+  },
+  {
+    "slug": "vela-semilla-luna",
+    "titulo": "Vela la niña astronauta y la semilla de la Luna",
+    "edad": "4-6",
+    "eje": "espacio",
+    "habitat": "sistema-solar",
+    "valor": "curiosidad",
+    "paginas": 8,
+    "license": "PROPRIETARY-FREE-READ",
+    "version": 1,
+    "packUrl": "/v1/cuentos/vela-semilla-luna.json",
+    "coverSvg": "escenas/p1-deseo.svg"
   },
   {
     "slug": "zara-jirafa-mira",
