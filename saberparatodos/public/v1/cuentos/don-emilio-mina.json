@@ -1,5 +1,5 @@
 {
-  "format": "cuento-v1",
+  "format": 2,
   "slug": "don-emilio-mina",
   "titulo": "Don Emilio y la mina que cuida el cerro",
   "edad": "5-6",
@@ -17,49 +17,97 @@
       "n": 1,
       "imagen": "escenas/p1-piedras.svg",
       "alt": "Emilio de niño junta piedras brillantes en el cerro",
-      "texto": "En la falda del cerro verde vivía Emilio. Cuando era pequeño, le gustaba caminar por los senderos y juntar piedras brillantes que relucían con el sol. Las guardaba en su bolsillo con gran curiosidad. Emilio no lo sabía entonces, pero de aquellas piedras salían los metales con los que construimos bicicletas, puentes y teléfonos."
+      "texto": "En la falda del cerro verde vivía Emilio. Cuando era pequeño, le gustaba caminar por los senderos y juntar piedras brillantes que relucían con el sol. Las guardaba en su bolsillo con gran curiosidad. Emilio no lo sabía entonces, pero de aquellas piedras salían los metales con los que construimos bicicletas, puentes y teléfonos.",
+      "hint": "Observen las piedras en el camino y conversen sobre los metales que usamos diariamente.",
+      "words": [
+        "cerro",
+        "senderos",
+        "piedras"
+      ]
     },
     {
       "n": 2,
       "imagen": "escenas/p2-estudio.svg",
       "alt": "Emilio estudia mapas y minerales",
-      "texto": "Cuando creció, Emilio decidió estudiar con entusiasmo todo sobre la tierra y las rocas. Aprendió cómo buscar los minerales de forma limpia sin lastimar la naturaleza. Trabajó con dedicación hasta convertirse en minero. Con sus manos y su inteligencia, Emilio entendió que cuidar la tierra es tan importante como extraer lo que necesitamos."
+      "texto": "Cuando creció, Emilio decidió estudiar con entusiasmo todo sobre la tierra y las rocas. Aprendió cómo buscar los minerales de forma limpia sin lastimar la naturaleza. Trabajó con dedicación hasta convertirse en minero. Con sus manos y su inteligencia, Emilio entendió que cuidar la tierra es tan importante como extraer lo que necesitamos.",
+      "hint": "Conversen sobre el valor de estudiar con entusiasmo para cuidar la naturaleza del cerro.",
+      "words": [
+        "rocas",
+        "minerales",
+        "minero"
+      ]
     },
     {
       "n": 3,
       "imagen": "escenas/p3-tecnologia.svg",
       "alt": "Mina moderna 2026 con casco con luz, drones y sensores",
-      "texto": "La mina del año 2026 era un lugar moderno y seguro. Don Emilio usaba un casco amarillo con una luz potente en el frente. En el túnel flotaba un dron pequeñito que revisaba el aire y las paredes. Junto a él, la ingeniera Suli examinaba pantallas digitales con sensores que indicaban que todo estaba en orden."
+      "texto": "La mina del año 2026 era un lugar moderno y seguro. Don Emilio usaba un casco amarillo con una luz potente en el frente. En el túnel flotaba un dron pequeñito que revisaba el aire y las paredes. Junto a él, la ingeniera Suli examinaba pantallas digitales con sensores que indicaban que todo estaba en orden.",
+      "hint": "Señalen la luz potente del casco de Don Emilio e imaginen volar un dron pequeñito.",
+      "words": [
+        "casco",
+        "túnel",
+        "dron"
+      ]
     },
     {
       "n": 4,
       "imagen": "escenas/p4-regla.svg",
       "alt": "Regla de oro: por cada hueco, un árbol nuevo",
-      "texto": "En la mina de Don Emilio había una regla de oro que todos respetaban con alegría: por cada hueco, un árbol nuevo. Cada vez que extraían minerales, Don Emilio y la ingeniera Suli sembraban un arbolito en la ladera. La perrita Carbonilla corría feliz alrededor mientras las raíces jóvenes abrazaban la tierra firme."
+      "texto": "En la mina de Don Emilio había una regla de oro que todos respetaban con alegría: por cada hueco, un árbol nuevo. Cada vez que extraían minerales, Don Emilio y la ingeniera Suli sembraban un arbolito en la ladera. La perrita Carbonilla corría feliz alrededor mientras las raíces jóvenes abrazaban la tierra firme.",
+      "hint": "Imaginen sembrar un arbolito en la ladera del cerro y cuidar su crecimiento juntos.",
+      "words": [
+        "regla",
+        "ladera",
+        "perrita"
+      ]
     },
     {
       "n": 5,
       "imagen": "escenas/p5-sensor.svg",
       "alt": "El sensor avisa y todos salen de manera ordenada",
-      "texto": "Una mañana brillante, un sensor de seguridad emitió un sonido claro y suave: ¡bip, bip! No había ningún peligro, sino una prueba de rutina para cuidar al equipo. Al oír la señal, Don Emilio, la ingeniera Suli y todos los trabajadores caminaron en fila de manera muy ordenada y tranquila hacia la salida."
+      "texto": "Una mañana brillante, un sensor de seguridad emitió un sonido claro y suave: ¡bip, bip! No había ningún peligro, sino una prueba de rutina para cuidar al equipo. Al oír la señal, Don Emilio, la ingeniera Suli y todos los trabajadores caminaron en fila de manera muy ordenada y tranquila hacia la salida.",
+      "hint": "Practiquen caminar en una fila ordenada y tranquila como hicieron los trabajadores.",
+      "words": [
+        "sensor",
+        "señal",
+        "fila"
+      ]
     },
     {
       "n": 6,
       "imagen": "escenas/p6-carbonilla.svg",
       "alt": "La perrita Carbonilla revisa el túnel y confirma que todo está seguro",
-      "texto": "Afuera del túnel, bajo el sol brillante, la perrita Carbonilla se puso su chaleco de rescate. Con su olfato fino y su paso alegre, caminó despacio para revisar que el túnel estuviera completamente limpio. Al terminar, dio un ladrido contento para confirmar que todo el equipo estaba afuera sano y salvo."
+      "texto": "Afuera del túnel, bajo el sol brillante, la perrita Carbonilla se puso su chaleco de rescate. Con su olfato fino y su paso alegre, caminó despacio para revisar que el túnel estuviera completamente limpio. Al terminar, dio un ladrido contento para confirmar que todo el equipo estaba afuera sano y salvo.",
+      "hint": "Den un pequeño ladrido alegre imitando a la perrita Carbonilla cuando confirma la seguridad.",
+      "words": [
+        "chaleco",
+        "olfato",
+        "ladrido"
+      ]
     },
     {
       "n": 7,
       "imagen": "escenas/p7-fiesta.svg",
       "alt": "Fiesta de la siembra del árbol número mil en la colina",
-      "texto": "Saber que todos trabajaban seguros fue motivo de alegría. Esa tarde celebraron una gran fiesta en el cerro porque sembraron el árbol número mil. Pusieron banderines de colores y globos en las ramas altas. Don Emilio, Suli y Carbonilla aplaudieron contentos al ver la colina más verde y hermosa que nunca."
+      "texto": "Saber que todos trabajaban seguros fue motivo de alegría. Esa tarde celebraron una gran fiesta en el cerro porque sembraron el árbol número mil. Pusieron banderines de colores y globos en las ramas altas. Don Emilio, Suli y Carbonilla aplaudieron contentos al ver la colina más verde y hermosa que nunca.",
+      "hint": "Cuenten los colores de los banderines festivos y celebren el trabajo en equipo.",
+      "words": [
+        "fiesta",
+        "banderines",
+        "colina"
+      ]
     },
     {
       "n": 8,
       "imagen": "escenas/p8-moral.svg",
       "alt": "El trabajo bueno cuida a la gente y a la tierra",
-      "texto": "Al caer la tarde, Don Emilio contempló el cerro florecido mientras el sol doraba los árboles jóvenes. Observó su casco, abrazó a la perrita Carbonilla y sonrió con orgullo. Aprendió que la minería responsable ayuda a las familias y protege el medio ambiente. Porque el trabajo bueno cuida a la gente y a la tierra."
+      "texto": "Al caer la tarde, Don Emilio contempló el cerro florecido mientras el sol doraba los árboles jóvenes. Observó su casco, abrazó a la perrita Carbonilla y sonrió con orgullo. Aprendió que la minería responsable ayuda a las familias y protege el medio ambiente. Porque el trabajo bueno cuida a la gente y a la tierra.",
+      "hint": "Tomen de las manos a su niña o niño y recuerden cuidar con amor nuestra tierra.",
+      "words": [
+        "sol",
+        "medio",
+        "ambiente"
+      ]
     }
   ],
   "quiz": [

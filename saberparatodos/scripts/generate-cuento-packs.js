@@ -143,11 +143,33 @@ function validateAndParseCuento(cuentoDir, slug) {
     const alt = imgMatch ? imgMatch[1].trim() : "";
     const imagen = imgMatch ? imgMatch[2].trim() : "";
 
+    let hint = "";
+    let words = [];
+
+    const hintMatch = content.match(/^>\s*Para conversar en familia:\s*(.+)$/m);
+    if (hintMatch) {
+      hint = hintMatch[1].trim();
+    }
+
+    const wordsMatch = content.match(/^\*\*Palabras nuevas:\*\*\s*(.+)$/m);
+    if (wordsMatch) {
+      words = wordsMatch[1]
+        .split(",")
+        .map((w) => w.trim().toLowerCase())
+        .filter(Boolean);
+    }
+
     const textLines = content
       .replace(/!\[alt:.*?\]\(.*?\)/, "")
       .split(/\r?\n/)
       .map((l) => l.trim())
-      .filter((l) => l.length > 0 && !l.startsWith("##"));
+      .filter(
+        (l) =>
+          l.length > 0 &&
+          !l.startsWith("##") &&
+          !l.startsWith("> Para conversar en familia:") &&
+          !l.startsWith("**Palabras nuevas:**")
+      );
 
     const texto = textLines.join(" ").trim();
 
@@ -166,6 +188,8 @@ function validateAndParseCuento(cuentoDir, slug) {
       imagen,
       alt,
       texto,
+      hint,
+      words,
     });
   });
 
@@ -253,7 +277,7 @@ function validateAndParseCuento(cuentoDir, slug) {
 
   // Construct deterministic Cuento object with stable key order
   const packJson = {
-    format: "cuento-v1",
+    format: 2,
     slug: data.slug,
     titulo: data.titulo,
     edad: String(data.edad),
