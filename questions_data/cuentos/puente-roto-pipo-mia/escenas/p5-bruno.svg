@@ -1,0 +1,50 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Pipo y Mía le cuentan la verdad a Tejón Bruno en la estación del bosque">
+  <!-- plano-fondo -->
+  <g id="plano-fondo">
+    <rect width="800" height="450" fill="#FDF6EC"/>
+    <!-- Estación de madera del guardabosques -->
+    <rect x="420" y="140" width="320" height="200" fill="#C97B3D" rx="8"/>
+    <path d="M400 150 L580 80 L760 150 Z" fill="#3A2E2A"/>
+    <rect x="520" y="220" width="60" height="120" fill="#FFF6E8"/>
+    <rect x="620" y="180" width="70" height="60" fill="#4FB6A3" opacity="0.6"/>
+  </g>
+
+  <!-- plano-medio -->
+  <g id="plano-medio">
+    <path d="M0 320 Q400 300 800 330 L800 450 L0 450 Z" fill="#7BAE5A"/>
+    <!-- Cartel de la estación -->
+    <rect x="440" y="170" width="120" height="35" rx="6" fill="#FFF6E8" stroke="#3A2E2A" stroke-width="2"/>
+    <circle cx="460" cy="187" r="8" fill="#4FB6A3"/>
+  </g>
+
+  <!-- plano-frente -->
+  <g id="plano-frente">
+    <!-- Pipo y Mía hablando -->
+    <g transform="translate(140, 220) scale(0.55)">
+      <ellipse cx="100" cy="130" rx="46" ry="52" fill="#6C7A89"/>
+      <circle cx="100" cy="74" r="38" fill="#6C7A89"/>
+      <path d="M78 102 L100 122 L122 102 Z" fill="#9B7EDE"/>
+      <circle cx="81" cy="71" r="6" fill="#FFFFFF"/>
+      <circle cx="119" cy="71" r="6" fill="#FFFFFF"/>
+    </g>
+    <g transform="translate(240, 220) scale(0.55)">
+      <ellipse cx="100" cy="130" rx="44" ry="50" fill="#7E8C9B"/>
+      <circle cx="100" cy="74" r="37" fill="#7E8C9B"/>
+      <circle cx="132" cy="40" r="7" fill="#9B7EDE"/>
+      <circle cx="81" cy="71" r="6" fill="#FFFFFF"/>
+      <circle cx="119" cy="71" r="6" fill="#FFFFFF"/>
+    </g>
+
+    <!-- Tejón Bruno escuchando -->
+    <g transform="translate(390, 180) scale(0.65)">
+      <ellipse cx="100" cy="135" rx="50" ry="55" fill="#4FB6A3"/>
+      <ellipse cx="100" cy="72" rx="40" ry="34" fill="#FFFFFF"/>
+      <path d="M72 45 C78 70 82 85 82 95 L62 95 Z" fill="#3A2E2A"/>
+      <path d="M128 45 C122 70 118 85 118 95 L138 95 Z" fill="#3A2E2A"/>
+      <path d="M55 46 Q100 36 145 46 L135 30 Q100 24 65 30 Z" fill="#C97B3D"/>
+      <circle cx="82" cy="70" r="5" fill="#FFFFFF"/>
+      <circle cx="118" cy="70" r="5" fill="#FFFFFF"/>
+    </g>
+  </g>
+</svg>

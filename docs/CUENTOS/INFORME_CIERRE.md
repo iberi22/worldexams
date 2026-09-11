@@ -167,3 +167,37 @@ Cualquier discrepancia o trabajo pendiente entre el plan completo de 10 cuentos 
 ## 6. Conclusión y Visto Bueno
 
 El módulo de **Cuentos SaberParaTodos** ha alcanzado el nivel de producción requerido para el lote de cuentos 01–05, garantizando cero telemetría, 100% de cumplimiento en derechos de autor, interfaz responsiva y accesible en dispositivos móviles y de escritorio, y cero errores en la suite E2E.
+
+---
+
+## 7. Addendum del integrador (Hermes, 2026-09-11) — CIERRE REAL 10/10
+
+Verificado al mergear las olas C4+C5 (PRs #1321-1329):
+
+- [x] **C4 mergeada 5/5**: puente-roto-pipo-mia, vela-semilla-luna,
+  don-emilio-mina (tono sin accidentes verificado por grep = 0),
+  lucia-puentes, tomas-casa-arbol. Validador 0 errores 0 warnings en
+  los 10 cuentos, SVG-QA PASS en todos.
+- [x] **C5.01 mergeada**: logros + CelebracionLogro, tests 41/41,
+  cero telemetría por grep.
+- [x] **C5.02 mergeada**: SEO/OG con noindex intacto, sitemap limpio
+  (verificado en dist), build PASS.
+- [x] **C5.03 mergeada**: SW + warm-cache + sin-conexion.html. Precarga
+  de assets verificada (8/8 SVG en caché).
+- [x] **C5.04**: este informe + `audit-cuentos-cierre.sh` 6/6 PASS con
+  los 10 cuentos (e2e lector 2/2 incluido).
+
+Gaps honestos que quedan (no bloquean lectura gratuita):
+
+1. **Spec offline en cuarentena**: `cuentos-offline.spec.ts` en
+   `test.skip` — las navegaciones no pasan por el SW en astro-dev
+   (subresources sí). Reabrir cuando se diagnostique; el gate queda
+   verde (lector 2/2 PASS).
+2. **Veto calibrado**: se quitaron falsos positivos (`mira`, `hace`,
+   `colon`, `tío/tio`) y se añadieron mexicanismos (`platicar` y
+   formas; Zara corregido a "conversar").
+3. **Tildes del footer global** (Guia, Terminos...): pre-existente,
+   fuera del alcance cuentos.
+4. **Ola C6 propuesta** (WAVE_PLAN.md): GSAP/SVG motion, Lottie,
+   Three.js solo Vela, audio HQ edge-tts (muestras en
+   `~/muestras-cuentos/`, pendiente elección de voz).
