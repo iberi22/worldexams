@@ -1,0 +1,40 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="La casa terminada abraza el tronco y el árbol regala su fresca sombra">
+  <!-- Plano Fondo: Cielo luminoso de mediodía -->
+  <rect width="800" height="450" fill="#FDF6EC"/>
+  <circle cx="120" cy="90" r="50" fill="#FF9F43"/>
+  <path d="M0 320 Q200 280 400 300 T800 290 L800 450 L0 450 Z" fill="#E2EAD8"/>
+  <path d="M0 350 Q300 330 600 340 T800 330 L800 450 L0 450 Z" fill="#A2C987"/>
+  <!-- Plano Medio: La casa completa abrazando con muros curvos de madera y grandes ventanas de vidrio -->
+  <!-- Sombra acogedora en el suelo arbolado -->
+  <ellipse cx="400" cy="385" rx="280" ry="35" fill="#588B42" opacity="0.35"/>
+  <!-- Base de soportes elevados -->
+  <rect x="220" y="300" width="30" height="70" rx="4" fill="#8D5B4C"/>
+  <rect x="550" y="300" width="30" height="70" rx="4" fill="#8D5B4C"/>
+  <!-- Muros curvos de la casa (madera cálida + barro) -->
+  <path d="M180 310 C180 180 320 180 360 210 L360 310 Z" fill="#E8B04B" stroke="#3A2E2A" stroke-width="3"/>
+  <path d="M440 210 C480 180 620 180 620 310 L440 310 Z" fill="#E8B04B" stroke="#3A2E2A" stroke-width="3"/>
+  <!-- Ventanales de vidrio redondos con luz interior -->
+  <circle cx="270" cy="245" r="32" fill="#E6F4F8" stroke="#4FB6A3" stroke-width="4"/>
+  <path d="M250 230 L290 260" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="530" cy="245" r="32" fill="#E6F4F8" stroke="#4FB6A3" stroke-width="4"/>
+  <path d="M510 230 L550 260" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+  <!-- Puerta acogedora de madera -->
+  <rect x="330" y="240" width="30" height="70" rx="15" fill="#C97B3D" stroke="#3A2E2A" stroke-width="2"/>
+  <circle cx="352" cy="275" r="3" fill="#FFD54F"/>
+  <!-- Abuelo Ceiba abrazado en el centro -->
+  <path d="M360 410 L370 40 Q400 30 430 40 L440 410 Z" fill="#8D5B4C"/>
+  <circle cx="400" cy="80" r="110" fill="#588B42"/>
+  <circle cx="320" cy="110" r="80" fill="#69A050"/>
+  <circle cx="480" cy="110" r="80" fill="#69A050"/>
+  <circle cx="400" cy="50" r="85" fill="#7BAE5A"/>
+  <!-- Carita feliz del árbol dando sombra -->
+  <circle cx="385" cy="120" r="7" fill="#FFFFFF"/>
+  <circle cx="386" cy="121" r="3.5" fill="#3A2E2A"/>
+  <circle cx="415" cy="120" r="7" fill="#FFFFFF"/>
+  <circle cx="414" cy="121" r="3.5" fill="#3A2E2A"/>
+  <path d="M390 132 Q400 142 410 132" stroke="#3A2E2A" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <!-- Plano Frente: Mariposas revoloteando cerca de la casa -->
+  <path d="M150 200 Q155 190 160 200 Q165 190 170 200 Q160 210 150 200 Z" fill="#FF9F43"/>
+  <path d="M650 220 Q655 210 660 220 Q665 210 670 220 Q660 230 650 220 Z" fill="#4FB6A3"/>
+</svg>
