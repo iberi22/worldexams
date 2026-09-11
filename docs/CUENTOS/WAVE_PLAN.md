@@ -65,12 +65,38 @@ C1 → (C2 + C3 en paralelo, islas disjuntas) → C4 → C5.
 Features: feat-cuentos-infra (C1), feat-cuentos-lector (C2),
 feat-cuentos-a (C3), feat-cuentos-b (C4), feat-cuentos-polish (C5).
 
+## Ola C6 propuesta — Nivel StoryComet (motion + audio, pendiente C4/C5)
+
+Referentes investigados 2026-09-10 (MIT): CloudAI-X/threejs-skills
+(10 sub-skills: fundamentals, geometry, materials, lighting, animation,
+interaction/raycasting, loaders, textures, postprocessing, shaders) +
+iart-ai/web-animation-skills (gsap-web, 60fps-animation,
+accessible-animation, micro-interaction, svg-animation,
+lottie-animation). Instalación agentes: `npx skills add
+CloudAI-X/threejs-skills`, `npx skills add iart-ai/web-animation-skills`.
+
+- C6.01: GSAP + SVG motion en EscenaInteractiva (timelines, 60fps solo
+  transform/opacity, accessible-animation tiered reduced-motion).
+- C6.02: Lottie celebración/confeti (dotLottie liviano, offline).
+- C6.03: Three.js progresivo SOLO cuento 07 Vela (espacio):
+  raycasting-touch + animación procedural, con fallback SVG intacto
+  (reversible; no toca el veto de peso del resto).
+- C6.04: audio HQ pre-generado (edge-tts gratuito, voz a elegir:
+  es-MX-DaliaNeural o es-CO-SalomeNeural, rate -5%): narración por
+  página en `public/audio/cuentos/<slug>/pN.mp3` + hook de player con
+  fallback a Web Speech API. Muestras: `~/muestras-cuentos/`.
+- C6.05: e2e extendido (motion + audio + offline).
+
 ## Dispatch log
 
 - 2026-09-10 Ola C1 despachada: issues #1277-1282 (iberi22/worldexams),
   labels cuentos+ola-c1+wave-c1+jules+ai-agent. Pre-dispatch PASS 6/6.
 - Pendiente: monitorear PRs, merge secuencial 1-6, reconciliar
   feat-cuentos-infra, luego C2+C3 en paralelo.
+- 2026-09-10 Ola C1 cerrada 6/6 merged (#1283-1288, #1284).
+  feat-cuentos-infra 100%.
+- 2026-09-10 Olas C2+C3 despachadas: issues #1289-1299, labels
+  cuentos+ola-c2/c3+wave-c2/c3+jules+ai-agent.
 
 ## Privado no-listado (decisión BELA 2026-09-10)
 
