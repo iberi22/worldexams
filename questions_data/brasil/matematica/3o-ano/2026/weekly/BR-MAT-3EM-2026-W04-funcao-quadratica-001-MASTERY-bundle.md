@@ -16,9 +16,10 @@ license: FREE
 tier: legacy
 creador: Jules-Agent
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Funções e Álgebra
@@ -37,7 +38,7 @@ Qual é a forma geral de uma função quadrática?
 ### Explicacion Pedagogica
 Uma função quadrática é definida por um polinômio de grau 2. A presença do termo $x^2$ com coeficiente não nulo garante que o gráfico da função seja uma parábola.
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Funções e Álgebra
@@ -56,7 +57,7 @@ O gráfico de uma função quadrática é uma curva chamada:
 ### Explicacion Pedagogica
 Diferente das funções lineares, a taxa de variação das funções quadráticas não é constante, resultando em uma curva simétrica conhecida como parábola.
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
@@ -75,7 +76,7 @@ Na função $f(x) = ax^2 + bx + c$, o que determina se a concavidade da parábol
 ### Explicacion Pedagogica
 O coeficiente $a$ (termo dominante) define a "abertura" e a orientação da parábola. Se $a$ é positivo, a função tem um valor mínimo e a abertura é para cima. Se $a$ é negativo, a função tem um valor máximo e a abertura é para baixo.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
@@ -94,7 +95,7 @@ Como é chamado o termo $\Delta = b^2 - 4ac$ na fórmula de Bhaskara?
 ### Explicacion Pedagogica
 O discriminante ($\Delta$) é fundamental para entender a interseção da parábola com o eixo $x$: se $\Delta > 0$ há duas raízes, se $\Delta = 0$ há uma, e se $\Delta < 0$ não há raízes reais.
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
@@ -113,7 +114,7 @@ Dada a função $f(x) = x^2 - 6x + 5$, quais são as raízes desta função?
 ### Explicacion Pedagogica
 Podemos usar a soma ($S = -b/a = 6$) e o produto ($P = c/a = 5$) das raízes. Dois números que somados dão 6 e multiplicados dão 5 são 1 e 5.
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
@@ -132,7 +133,7 @@ Onde a parábola da função $f(x) = 2x^2 - 4x + 7$ intercepta o eixo das ordena
 ### Explicacion Pedagogica
 Para encontrar o intercepto $y$, basta calcular $f(0)$. Em qualquer função do tipo $f(x) = ax^2 + bx + c$, temos $f(0) = c$. Logo, o ponto é $(0, c)$.
 
-## Question 7 [D6]
+## Question 7 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -151,7 +152,7 @@ Em que instante $t$ (em segundos) o projétil atinge sua altura máxima?
 ### Explicacion Pedagogica
 A altura máxima ocorre no vértice da parábola. A coordenada $t$ do vértice é dada por $t_v = -b / 2a$. Substituindo: $t_v = -20 / (2 \cdot -5) = 2$ segundos.
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -170,7 +171,7 @@ Dada a função $f(x) = x^2 - 8x + 12$, quais são as coordenadas do vértice da
 ### Explicacion Pedagogica
 O vértice $V(x_v, y_v)$ tem $x_v = -b / 2a = 8 / 2 = 4$. Substituindo $x=4$ na função para achar $y_v$: $y_v = 4^2 - 8 \cdot 4 + 12 = 16 - 32 + 12 = -4$. O vértice é $(4, -4)$.
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -189,7 +190,7 @@ Para que a função $f(x) = x^2 - 4x + k$ tenha exatamente uma raiz real (seja t
 ### Explicacion Pedagogica
 Uma função quadrática possui apenas uma raiz real (ou duas raízes iguais) quando o discriminante é zero ($\Delta = 0$). Calculando $\Delta = (-4)^2 - 4 \cdot 1 \cdot k = 16 - 4k$. Igualando a zero, temos $k = 4$.
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -208,7 +209,7 @@ A parábola da função $f(x) = -x^2 + 10x - 21$ intercepta o eixo $x$ em dois p
 ### Explicacion Pedagogica
 Encontramos as raízes resolvendo $-x^2 + 10x - 21 = 0$. $\Delta = 100 - 84 = 16$. As raízes são $x = (-10 \pm 4) / -2$, resultando em $x_1 = 3$ e $x_2 = 7$. A distância é $|x_2 - x_1| = 7 - 3 = 4$.
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -227,7 +228,7 @@ Considere a função $f(x) = x^2 - 2x + 5$. Qual é o valor mínimo que esta fun
 ### Explicacion Pedagogica
 O valor mínimo da função é a coordenada $y$ do vértice ($y_v$). Como $a > 0$, o vértice é um ponto de mínimo. Calculamos $x_v = -b / 2a = 2 / 2 = 1$ e então $f(1) = 1^2 - 2(1) + 5 = 4$.
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -246,7 +247,7 @@ Qual é a lei da função quadrática cujas raízes são $-1$ e $3$ e que passa 
 ### Explicacion Pedagogica
 Usamos a forma fatorada: $f(x) = a(x - x_1)(x - x_2)$. Assim, $f(x) = a(x + 1)(x - 3)$. Substituímos o ponto $(0, -3)$: $-3 = a(0+1)(0-3) \Rightarrow -3 = -3a \Rightarrow a = 1$. Expandindo: $f(x) = (x+1)(x-3) = x^2 - 2x - 3$.
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
@@ -265,7 +266,7 @@ Dada a função $f(x) = kx^2 - 4x + 1$, para quais valores de $k$ a função NÃ
 ### Explicacion Pedagogica
 Para que uma função do 2º grau não tenha raízes reais, o discriminante deve ser estritamente negativo ($\Delta < 0$). Resolvendo $16 - 4k < 0$, obtemos $16 < 4k$, o que resulta em $k > 4$.
 
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
@@ -284,7 +285,7 @@ Um retângulo tem perímetro de 20 metros. Sendo $x$ a medida de um dos lados, a
 ### Explicacion Pedagogica
 A função área é $A(x) = -x^2 + 10x$. O valor máximo ocorre no vértice $x_v = -10 / (2 \cdot -1) = 5$. Substituindo, a área máxima é $A(5) = -25 + 50 = 25$. Geometricamente, o retângulo de área máxima para um perímetro fixo é o quadrado.
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
@@ -303,7 +304,7 @@ A quantidade vendida $q$ de um produto depende do preço $p$ segundo a função 
 ### Explicacion Pedagogica
 A função receita é $R(p) = -2p^2 + 60p$. Esta é uma função quadrática com concavidade para baixo. O ponto de máximo (preço ideal) é dado por $p_v = -b / 2a = -60 / (2 \cdot -2) = 15$.
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
@@ -322,7 +323,7 @@ O gráfico de $f(x) = ax^2 + bx + c$ tem vértice em $(2, -1)$ e passa por $(0, 
 ### Explicacion Pedagogica
 Usamos a forma canônica da função quadrática: $f(x) = a(x - x_v)^2 + y_v$. Substituindo o vértice $(2, -1)$: $f(x) = a(x - 2)^2 - 1$. Agora usamos o ponto $(0, 3)$ para achar $a$: $3 = a(0 - 2)^2 - 1 \Rightarrow 3 = 4a - 1 \Rightarrow 4 = 4a \Rightarrow a = 1$.
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
@@ -341,7 +342,7 @@ Sejam $x_1$ e $x_2$ as raízes de $f(x) = x^2 - mx + (m-1)$. Qual é o valor da 
 ### Explicacion Pedagogica
 Usamos as relações de Girard: $x_1 + x_2 = m$ e $x_1 \cdot x_2 = m - 1$. A expressão $x_1^2 + x_2^2$ pode ser escrita como $(x_1 + x_2)^2 - 2x_1x_2$. Substituindo os valores: $m^2 - 2(m - 1) = m^2 - 2m + 2$.
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
@@ -360,7 +361,7 @@ Considere a função $f(x) = ax^2 + bx + c$. Se $a < 0$, $b = 0$ e $c > 0$, qual
 ### Explicacion Pedagogica
 Como $b = 0$, o eixo de simetria é o próprio eixo $y$ ($x_v = 0$). O vértice é o ponto $(0, c)$. Como $c > 0$, o vértice está acima do eixo $x$. Sendo $a < 0$, a concavidade é para baixo, forçando a parábola a cruzar o eixo $x$ em dois pontos distintos (raízes simétricas).
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
@@ -379,7 +380,7 @@ Uma parábola de equação $y = x^2$ sofre uma translação de 3 unidades para a
 ### Explicacion Pedagogica
 A translação de $h$ unidades para a direita e $k$ para cima transforma $f(x)$ em $f(x-h) + k$. No caso, $h=3$ e $k=-2$. A nova função é $y = (x - 3)^2 - 2$. Expandindo: $y = (x^2 - 6x + 9) - 2 = x^2 - 6x + 7$.
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra

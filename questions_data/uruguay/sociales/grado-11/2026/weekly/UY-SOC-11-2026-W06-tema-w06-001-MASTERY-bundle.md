@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Ciencias Sociales: El Batllismo y la consolidación del Estado de Bienestar (W06)
 **20 preguntas | Ciencias Sociales | ANEP - Plan 2006 Reformulación / Programa Ubicación**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** UY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Social
@@ -46,7 +47,7 @@ bundle_index: 1
 La identificación precisa de La Revolución de 1904 permite comprender la última guerra civil y el fin del caudillismo dentro del proceso de la Revolución de 1904 de Aparicio Saravia. Su rol histórico está plenamente documentado en los programas de estudio de la enseñanza media superior (ANEP).
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** UY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Social
@@ -70,7 +71,7 @@ La identificación precisa de La Revolución de 1904 permite comprender la últi
 La identificación precisa de La ley de jornada laboral de ocho horas permite comprender la legislación social avanzada del Estado dentro del proceso de las reformas laborales de José Batlle y Ordóñez. Su rol histórico está plenamente documentado en los programas de estudio de la enseñanza media superior (ANEP).
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** UY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -94,7 +95,7 @@ Si analizás la trascendencia de este suceso, ¿cómo se explica la relación ca
 La relación entre La ley de divorcio por sola voluntad de la mujer y la legislación social de vanguardia feminista es un eje vertebral para comprender la ley de divorcio por sola voluntad de la mujer. Su estudio demuestra cómo los factores estructurales del período sentaron las condiciones para los cambios políticos o sociales subsiguientes.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** UY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -118,7 +119,7 @@ Si analizás la trascendencia de este suceso, ¿cómo se explica la relación ca
 La relación entre La separación de la Iglesia y el Estado y la laicidad de la Constitución de 1917 es un eje vertebral para comprender la secularización definitiva y Constitución de 1917. Su estudio demuestra cómo los factores estructurales del período sentaron las condiciones para los cambios políticos o sociales subsiguientes.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** UY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -142,7 +143,7 @@ Si analizás la trascendencia de este suceso, ¿cómo se explica la relación ca
 La relación entre El monopolio estatal de seguros, telefonía y electricidad y la creación del Estado empresario es un eje vertebral para comprender el Estado industrial y comercial (estatizaciones). Su estudio demuestra cómo los factores estructurales del período sentaron las condiciones para los cambios políticos o sociales subsiguientes.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** UY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -166,7 +167,7 @@ Si analizás la trascendencia de este suceso, ¿cómo se explica la relación ca
 La relación entre El Poder Ejecutivo bicéfalo (Presidente y Consejo) y la fórmula de gobierno pluripersonal es un eje vertebral para comprender el Ejecutivo Colegiado de la Constitución de 1917. Su estudio demuestra cómo los factores estructurales del período sentaron las condiciones para los cambios políticos o sociales subsiguientes.
 
 ---
-## Question 7 [D6]
+## Question 7 [D5-D6]
 **ID:** UY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -190,7 +191,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de La creación de la Universidad de Mujeres revela que la creación de la Universidad de las Mujeres no fue un mero debate teórico, sino un proceso real que estructuró el fomento de la educación superior femenina, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** UY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -214,7 +215,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de La abolición definitiva de la pena de muerte revela que la abolición de la pena de muerte en 1907 no fue un mero debate teórico, sino un proceso real que estructuró el humanismo penal del modelo batllista, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** UY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -238,7 +239,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de La gratuidad de la enseñanza secundaria y universitaria revela que el alto desarrollo del alfabetismo y educación no fue un mero debate teórico, sino un proceso real que estructuró la democratización de la educación superior, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** UY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -262,7 +263,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de El 'Alto de Viera' en las reformas batllistas revela que la crisis del batllismo y el 'alto de Viera' no fue un mero debate teórico, sino un proceso real que estructuró la pausa reformista por presiones conservadoras, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** UY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -286,7 +287,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de La Revolución de 1904 revela que la Revolución de 1904 de Aparicio Saravia no fue un mero debate teórico, sino un proceso real que estructuró la última guerra civil y el fin del caudillismo, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** UY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -310,7 +311,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de La ley de jornada laboral de ocho horas revela que las reformas laborales de José Batlle y Ordóñez no fue un mero debate teórico, sino un proceso real que estructuró la legislación social avanzada del Estado, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 13 [D8]
+## Question 13 [D7-D8]
 **ID:** UY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Análisis de Perspectivas
@@ -334,7 +335,7 @@ La aplicación práctica de La ley de jornada laboral de ocho horas revela que l
 El análisis crítico de La ley de divorcio por sola voluntad de la mujer demuestra que la ley de divorcio por sola voluntad de la mujer devela fuertes asimetrías de poder. Mientras que un sector consolidaba la legislación social de vanguardia feminista, otros grupos sociales experimentaban severas limitaciones, dinamizando el conflicto político uruguayo.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** UY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Análisis de Perspectivas
@@ -358,7 +359,7 @@ El análisis crítico de La ley de divorcio por sola voluntad de la mujer demues
 El análisis crítico de La separación de la Iglesia y el Estado demuestra que la secularización definitiva y Constitución de 1917 devela fuertes asimetrías de poder. Mientras que un sector consolidaba la laicidad de la Constitución de 1917, otros grupos sociales experimentaban severas limitaciones, dinamizando el conflicto político uruguayo.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** UY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Análisis de Perspectivas
@@ -382,7 +383,7 @@ El análisis crítico de La separación de la Iglesia y el Estado demuestra que 
 El análisis crítico de El monopolio estatal de seguros, telefonía y electricidad demuestra que el Estado industrial y comercial (estatizaciones) devela fuertes asimetrías de poder. Mientras que un sector consolidaba la creación del Estado empresario, otros grupos sociales experimentaban severas limitaciones, dinamizando el conflicto político uruguayo.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** UY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Análisis de Perspectivas
@@ -406,7 +407,7 @@ El análisis crítico de El monopolio estatal de seguros, telefonía y electrici
 El análisis crítico de El Poder Ejecutivo bicéfalo (Presidente y Consejo) demuestra que el Ejecutivo Colegiado de la Constitución de 1917 devela fuertes asimetrías de poder. Mientras que un sector consolidaba la fórmula de gobierno pluripersonal, otros grupos sociales experimentaban severas limitaciones, dinamizando el conflicto político uruguayo.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** UY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -430,7 +431,7 @@ Al juzgar de manera integral el alcance histórico de La creación de la Univers
 La evaluación crítica de la creación de la Universidad de las Mujeres destaca el rol estructurador de La creación de la Universidad de Mujeres en la configuración de el fomento de la educación superior femenina. Su estudio integral permite ponderar los aciertos, contradicciones y el legado institucional que perdura hasta el Uruguay contemporáneo.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** UY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -454,7 +455,7 @@ Al juzgar de manera integral el alcance histórico de La abolición definitiva d
 La evaluación crítica de la abolición de la pena de muerte en 1907 destaca el rol estructurador de La abolición definitiva de la pena de muerte en la configuración de el humanismo penal del modelo batllista. Su estudio integral permite ponderar los aciertos, contradicciones y el legado institucional que perdura hasta el Uruguay contemporáneo.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** UY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -478,7 +479,7 @@ Al juzgar de manera integral el alcance histórico de La gratuidad de la enseña
 La evaluación crítica de el alto desarrollo del alfabetismo y educación destaca el rol estructurador de La gratuidad de la enseñanza secundaria y universitaria en la configuración de la democratización de la educación superior. Su estudio integral permite ponderar los aciertos, contradicciones y el legado institucional que perdura hasta el Uruguay contemporáneo.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** UY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social

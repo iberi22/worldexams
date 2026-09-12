@@ -16,6 +16,7 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Português: Semântica e Relações de Sentido

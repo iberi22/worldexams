@@ -16,9 +16,10 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Biología Celular
@@ -43,7 +44,7 @@ La respuesta correcta es El núcleo celular. Científicamente, esto se explica p
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Biología Celular
@@ -68,7 +69,7 @@ La respuesta correcta es Las mitocondrias. Científicamente, esto se explica por
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Biología Celular
@@ -93,7 +94,7 @@ La respuesta correcta es Los cloroplastos. Científicamente, esto se explica por
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Biología Celular
@@ -118,7 +119,7 @@ La respuesta correcta es Transporte activo. Científicamente, esto se explica po
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Biología Celular
@@ -143,7 +144,7 @@ La respuesta correcta es Crenación. Científicamente, esto se explica por la de
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Biología Celular
@@ -168,7 +169,7 @@ La respuesta correcta es Rer (retículo endoplasmático rugoso). Científicament
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v7
 **Bloom:** Understand
 **EJE:** Biología Celular
@@ -193,7 +194,7 @@ La respuesta correcta es Fosfolípidos. Científicamente, esto se explica por la
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Biología Celular
@@ -218,7 +219,7 @@ La respuesta correcta es Aparato de golgi. Científicamente, esto se explica por
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Biología Celular
@@ -243,7 +244,7 @@ La respuesta correcta es Ribosomas 70s y 80s. Científicamente, esto se explica 
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Biología Celular
@@ -268,7 +269,7 @@ La respuesta correcta es Aumento microscópico de 400x. Científicamente, esto s
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Biología Celular
@@ -293,7 +294,7 @@ La respuesta correcta es Fagocitosis. Científicamente, esto se explica por la i
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Biología Celular
@@ -318,7 +319,7 @@ La respuesta correcta es Pared celular rígida de celulosa. Científicamente, es
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Biología Celular
@@ -343,7 +344,7 @@ La respuesta correcta es Bloqueo de canales de sodio. Científicamente, esto se 
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v14
 **Bloom:** Apply
 **EJE:** Biología Celular
@@ -368,7 +369,7 @@ La respuesta correcta es Autofagia lisosómica. Científicamente, esto se explic
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v15
 **Bloom:** Apply
 **EJE:** Biología Celular
@@ -393,7 +394,7 @@ La respuesta correcta es Adn circular y ribosomas 70s mitocondriales. Científic
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v16
 **Bloom:** Apply
 **EJE:** Biología Celular
@@ -418,7 +419,7 @@ La respuesta correcta es Desnaturalización por acidez. Científicamente, esto s
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v17
 **Bloom:** Analyze
 **EJE:** Biología Celular
@@ -443,7 +444,7 @@ La respuesta correcta es Ósmosis por aquaporinas. Científicamente, esto se exp
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** Biología Celular
@@ -468,7 +469,7 @@ La respuesta correcta es Difusión lateral de lípidos y proteínas. Científica
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Biología Celular
@@ -493,7 +494,7 @@ La respuesta correcta es Toda célula proviene de otra preexistente. Científica
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Biología Celular

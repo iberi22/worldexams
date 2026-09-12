@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Ciencias Sociales: La dictadura cívico-militar y la transición democrática (W10)
 **20 preguntas | Ciencias Sociales | ANEP - Plan 2006 Reformulación / Programa Ubicación**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** UY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Social
@@ -46,7 +47,7 @@ bundle_index: 1
 La identificación precisa de La disolución de las Cámaras por el presidente Bordaberry permite comprender el quiebre institucional y el inicio de la dictadura dentro del proceso de el golpe de Estado del 27 de junio de 1973. Su rol histórico está plenamente documentado en los programas de estudio de la enseñanza media superior (ANEP).
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** UY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Social
@@ -70,7 +71,7 @@ La identificación precisa de La disolución de las Cámaras por el presidente B
 La identificación precisa de La Huelga General obrera y estudiantil de quince días permite comprender la heroica resistencia civil ante el quiebre de forma inmediata dentro del proceso de la Huelga General de la CNT en junio de 1973. Su rol histórico está plenamente documentado en los programas de estudio de la enseñanza media superior (ANEP).
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** UY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -94,7 +95,7 @@ Si analizás la trascendencia de este suceso, ¿cómo se explica la relación ca
 La relación entre El Plebiscito de 1980 con el triunfo del NO a la reforma militar y el histórico de forma democrática rechazo ciudadano es un eje vertebral para comprender el plebiscito constitucional de 1980. Su estudio demuestra cómo los factores estructurales del período sentaron las condiciones para los cambios políticos o sociales subsiguientes.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** UY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -118,7 +119,7 @@ Si analizás la trascendencia de este suceso, ¿cómo se explica la relación ca
 La relación entre El Pacto del Club Naval de agosto de 1984 y el de forma pacífica acuerdo político de transición es un eje vertebral para comprender el Pacto del Club Naval de agosto de 1984. Su estudio demuestra cómo los factores estructurales del período sentaron las condiciones para los cambios políticos o sociales subsiguientes.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** UY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -142,7 +143,7 @@ Si analizás la trascendencia de este suceso, ¿cómo se explica la relación ca
 La relación entre La victoria de Julio María Sanguinetti en 1984 y el retorno formal de la democracia el 1 de marzo de 1985 es un eje vertebral para comprender las elecciones nacionales de noviembre de 1984. Su estudio demuestra cómo los factores estructurales del período sentaron las condiciones para los cambios políticos o sociales subsiguientes.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** UY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -166,7 +167,7 @@ Si analizás la trascendencia de este suceso, ¿cómo se explica la relación ca
 La relación entre Las elecciones internas partidarias con el triunfo de forma opositora y la de forma democrática reorganización partidaria es un eje vertebral para comprender el papel de las elecciones internas de los partidos de 1982. Su estudio demuestra cómo los factores estructurales del período sentaron las condiciones para los cambios políticos o sociales subsiguientes.
 
 ---
-## Question 7 [D6]
+## Question 7 [D5-D6]
 **ID:** UY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -190,7 +191,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de La detención masiva, tortura y exilio de ciudadanos revela que la represión, prisión política y exilio masivo no fue un mero debate teórico, sino un proceso real que estructuró el de forma estatal terrorismo de Estado de la dictadura, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** UY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -214,7 +215,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de El acto del Obelisco 'Por un Uruguay sin exclusiones' revela que el pronunciamiento del Obelisco en noviembre de 1983 no fue un mero debate teórico, sino un proceso real que estructuró la de forma masiva demostración de unidad popular, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** UY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -238,7 +239,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de La Jura parlamentaria y asunción de Sanguinetti revela que la asunción democrática del 1° de marzo de 1985 no fue un mero debate teórico, sino un proceso real que estructuró la de forma democrática restauración constitucional, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** UY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -262,7 +263,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de La liberación de los presos políticos y pacificación revela que la Ley de Amnistía de marzo de 1985 no fue un mero debate teórico, sino un proceso real que estructuró la primera de forma legal ley de pacificación democrática, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** UY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -286,7 +287,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de La disolución de las Cámaras por el presidente Bordaberry revela que el golpe de Estado del 27 de junio de 1973 no fue un mero debate teórico, sino un proceso real que estructuró el quiebre institucional y el inicio de la dictadura, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** UY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -310,7 +311,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de La Huelga General obrera y estudiantil de quince días revela que la Huelga General de la CNT en junio de 1973 no fue un mero debate teórico, sino un proceso real que estructuró la heroica resistencia civil ante el quiebre de forma inmediata, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 13 [D8]
+## Question 13 [D7-D8]
 **ID:** UY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Análisis de Perspectivas
@@ -334,7 +335,7 @@ La aplicación práctica de La Huelga General obrera y estudiantil de quince dí
 El análisis crítico de El Plebiscito de 1980 con el triunfo del NO a la reforma militar demuestra que el plebiscito constitucional de 1980 devela fuertes asimetrías de poder. Mientras que un sector consolidaba el histórico de forma democrática rechazo ciudadano, otros grupos sociales experimentaban severas limitaciones, dinamizando el conflicto político uruguayo.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** UY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Análisis de Perspectivas
@@ -358,7 +359,7 @@ El análisis crítico de El Plebiscito de 1980 con el triunfo del NO a la reform
 El análisis crítico de El Pacto del Club Naval de agosto de 1984 demuestra que el Pacto del Club Naval de agosto de 1984 devela fuertes asimetrías de poder. Mientras que un sector consolidaba el de forma pacífica acuerdo político de transición, otros grupos sociales experimentaban severas limitaciones, dinamizando el conflicto político uruguayo.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** UY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Análisis de Perspectivas
@@ -382,7 +383,7 @@ El análisis crítico de El Pacto del Club Naval de agosto de 1984 demuestra que
 El análisis crítico de La victoria de Julio María Sanguinetti en 1984 demuestra que las elecciones nacionales de noviembre de 1984 devela fuertes asimetrías de poder. Mientras que un sector consolidaba el retorno formal de la democracia el 1 de marzo de 1985, otros grupos sociales experimentaban severas limitaciones, dinamizando el conflicto político uruguayo.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** UY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Análisis de Perspectivas
@@ -406,7 +407,7 @@ El análisis crítico de La victoria de Julio María Sanguinetti en 1984 demuest
 El análisis crítico de Las elecciones internas partidarias con el triunfo de forma opositora demuestra que el papel de las elecciones internas de los partidos de 1982 devela fuertes asimetrías de poder. Mientras que un sector consolidaba la de forma democrática reorganización partidaria, otros grupos sociales experimentaban severas limitaciones, dinamizando el conflicto político uruguayo.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** UY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -430,7 +431,7 @@ Al juzgar de manera integral el alcance histórico de La detención masiva, tort
 La evaluación crítica de la represión, prisión política y exilio masivo destaca el rol estructurador de La detención masiva, tortura y exilio de ciudadanos en la configuración de el de forma estatal terrorismo de Estado de la dictadura. Su estudio integral permite ponderar los aciertos, contradicciones y el legado institucional que perdura hasta el Uruguay contemporáneo.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** UY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -454,7 +455,7 @@ Al juzgar de manera integral el alcance histórico de El acto del Obelisco 'Por 
 La evaluación crítica de el pronunciamiento del Obelisco en noviembre de 1983 destaca el rol estructurador de El acto del Obelisco 'Por un Uruguay sin exclusiones' en la configuración de la de forma masiva demostración de unidad popular. Su estudio integral permite ponderar los aciertos, contradicciones y el legado institucional que perdura hasta el Uruguay contemporáneo.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** UY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -478,7 +479,7 @@ Al juzgar de manera integral el alcance histórico de La Jura parlamentaria y as
 La evaluación crítica de la asunción democrática del 1° de marzo de 1985 destaca el rol estructurador de La Jura parlamentaria y asunción de Sanguinetti en la configuración de la de forma democrática restauración constitucional. Su estudio integral permite ponderar los aciertos, contradicciones y el legado institucional que perdura hasta el Uruguay contemporáneo.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** UY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social

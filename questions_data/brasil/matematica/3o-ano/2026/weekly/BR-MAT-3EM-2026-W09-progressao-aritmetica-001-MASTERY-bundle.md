@@ -16,9 +16,10 @@ license: FREE
 tier: legacy
 creador: Jules-Agent
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Funções e Álgebra
@@ -37,7 +38,7 @@ Qual é a fórmula do termo geral ($a_n$) de uma Progressão Aritmética (PA) em
 ### Explicacion Pedagogica
 Em uma PA, cada termo a partir do segundo é igual ao anterior somado a uma constante $r$. Para chegar ao termo de posição $n$, partimos de $a_1$ e somamos a razão $n-1$ vezes.
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Funções e Álgebra
@@ -56,7 +57,7 @@ Uma Progressão Aritmética é considerada **decrescente** quando:
 ### Explicacion Pedagogica
 O comportamento de crescimento da PA depende exclusivamente da razão. Se somamos valores negativos ($r < 0$), os termos da sequência diminuem de valor à medida que a posição $n$ aumenta.
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
@@ -75,7 +76,7 @@ Dada a PA $(-5, -2, 1, 4, ...)$, qual é o valor da razão $r$?
 ### Explicacion Pedagogica
 A razão é a diferença entre um termo e seu antecessor: $r = a_2 - a_1$. No caso, $r = -2 - (-5) = -2 + 5 = 3$.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
@@ -94,7 +95,7 @@ Qual é a fórmula para calcular a soma dos $n$ primeiros termos ($S_n$) de uma 
 ### Explicacion Pedagogica
 A soma dos termos de uma PA pode ser visualizada pareando os termos (primeiro com último, segundo com penúltimo, etc.), onde cada par tem a mesma soma. O resultado é a soma de um par ($a_1 + a_n$) multiplicado pela quantidade de pares ($n/2$).
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
@@ -113,7 +114,7 @@ Se o primeiro termo de uma PA é $a_1 = 12$ e a razão é $r = 5$, qual é o val
 ### Explicacion Pedagogica
 Aplicamos o termo geral: $a_{11} = a_1 + 10r$. Substituindo: $a_{11} = 12 + 10 \cdot 5 = 12 + 50 = 62$.
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
@@ -132,7 +133,7 @@ Quantos termos existem na PA finita $(10, 14, 18, ..., 90)$?
 ### Explicacion Pedagogica
 Usamos o termo geral para isolar $n$: $a_n = a_1 + (n-1)r \Rightarrow 90 = 10 + (n-1) \cdot 4$. Subtraindo 10 de ambos os lados: $80 = 4(n-1)$. Dividindo por 4: $20 = n - 1$. Logo, $n = 21$.
 
-## Question 7 [D6]
+## Question 7 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -151,7 +152,7 @@ Qual é a posição do termo que vale 20 nesta PA?
 ### Explicacion Pedagogica
 Montamos a equação com $a_1 = 50$, $r = -3$ e $a_n = 20$. Temos $20 = 50 + (n-1)(-3)$. Resolvendo: $-30 = -3(n-1) \Rightarrow 10 = n - 1 \Rightarrow n = 11$.
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -170,7 +171,7 @@ Qual é a soma dos 12 primeiros termos da PA $(100, 200, 300, ...)$?
 ### Explicacion Pedagogica
 O 12º termo é $100 + (12-1)100 = 1200$. A soma é $S_{12} = \frac{(100 + 1200) \cdot 12}{2} = 1300 \cdot 6 = 7800$.
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -189,7 +190,7 @@ Numa PA, sabe-se que $a_3 = 10$ e $a_6 = 19$. Qual é o valor da razão $r$?
 ### Explicacion Pedagogica
 Usamos a relação entre dois termos quaisquer: $a_k = a_j + (k-j)r$. Logo, $a_6 = a_3 + (6-3)r \Rightarrow 19 = 10 + 3r$. Resolvendo para $r$, temos $3r = 9$, então $r = 3$.
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -208,7 +209,7 @@ Insira 3 meios aritméticos entre os números 5 e 21. Qual é a razão da PA for
 ### Explicacion Pedagogica
 Inserir 3 meios aritméticos entre 5 e 21 significa criar uma PA onde $a_1 = 5$ e $a_5 = 21$. Pela fórmula: $21 = 5 + (5-1) \cdot r \Rightarrow 16 = 4r \Rightarrow r = 4$.
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -230,7 +231,7 @@ Em uma PA, a soma dos $n$ primeiros termos é dada por $S_n = n^2 + 2n$. Qual é
 3) $a_2 = 8 - a_1 = 8 - 3 = 5$.
 4) $r = a_2 - a_1 = 5 - 3 = 2$.
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -251,7 +252,7 @@ Determine a soma de todos os números naturais múltiplos de 7 entre 10 e 100.
 2) Número de termos: $98 = 14 + (n-1)7 \Rightarrow 84 = 7(n-1) \Rightarrow 12 = n-1 \Rightarrow n = 13$.
 3) Soma: $S_{13} = \frac{(14 + 98) \cdot 13}{2} = \frac{112 \cdot 13}{2} = 56 \cdot 13 = 728$.
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
@@ -270,7 +271,7 @@ Três números estão em PA. A soma deles é 15 e o produto é 80. Quais são es
 ### Explicacion Pedagogica
 Representamos os termos como $(x-r, x, x+r)$. A soma é $(x-r) + x + (x+r) = 3x = 15 \Rightarrow x = 5$. O produto é $(5-r) \cdot 5 \cdot (5+r) = 80 \Rightarrow 25 - r^2 = 16 \Rightarrow r^2 = 9 \Rightarrow r = 3$. Os termos são $5-3=2, 5$ e $5+3=8$.
 
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
@@ -289,7 +290,7 @@ Em uma PA, $a_1 + a_9 = 20$. Qual é o valor de $a_5$?
 ### Explicacion Pedagogica
 Em qualquer PA, a soma de dois termos equidistantes dos extremos é constante. Como $1+9 = 10$, e $5+5 = 10$, então $a_1 + a_9 = a_5 + a_5 = 2 \cdot a_5$. Assim, $a_5 = 20/2 = 10$.
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
@@ -310,7 +311,7 @@ Ao intercalar 6 meios aritméticos entre 10 e 45, qual é o valor do quarto term
 2) Razão: $a_8 = a_1 + 7r \Rightarrow 45 = 10 + 7r \Rightarrow 35 = 7r \Rightarrow r = 5$.
 3) Quarto termo: $a_4 = a_1 + 3r = 10 + 3 \cdot 5 = 25$.
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
@@ -330,7 +331,7 @@ Toda PA pode ser vista como uma função discreta. Se $a_n = 4n - 1$, qual é a 
 1) Calculamos os extremos: $a_1 = 4(1)-1 = 3$; $a_{20} = 4(20)-1 = 79$.
 2) Aplicamos a soma: $S_{20} = \frac{(3 + 79) \cdot 20}{2} = 82 \cdot 10 = 820$.
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
@@ -352,7 +353,7 @@ $r_1 = \log(2x) - \log(x) = \log(2x/x) = \log 2$.
 $r_2 = \log(4x) - \log(2x) = \log(4x/2x) = \log 2$.
 Como $r_1 = r_2 = \log 2$ (constante), a sequência é uma PA para qualquer $x$ no domínio da função logaritmo ($x > 0$).
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
@@ -371,7 +372,7 @@ Numa PA de 100 termos, a soma dos termos de ordem ímpar é 500. Se a razão é 
 ### Explicacion Pedagogica
 Existem 50 termos ímpares ($a_1, a_3, ..., a_{99}$) e 50 termos pares ($a_2, a_4, ..., a_{100}$). Cada termo par pode ser escrito como $a_{2k} = a_{2k-1} + r$. Somando todos os 50 pares: $\sum a_{par} = \sum (a_{impar} + r) = \sum a_{impar} + 50r$. Logo, $S_{par} = 500 + 50 \cdot 2 = 600$.
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
@@ -390,7 +391,7 @@ As medidas dos lados de um triângulo retângulo estão em PA. Se a área do tri
 ### Explicacion Pedagogica
 Lados em PA: $x-r, x, x+r$. No triângulo retângulo, $(x-r)^2 + x^2 = (x+r)^2 \Rightarrow x^2 - 2xr + r^2 + x^2 = x^2 + 2xr + r^2 \Rightarrow x^2 = 4xr \Rightarrow x = 4r$ (pois $x \neq 0$). Os lados são $3r, 4r$ e $5r$. Área = $\frac{3r \cdot 4r}{2} = 6r^2$. Como Área = 24, $r^2 = 4 \Rightarrow r = 2$. Hipotenusa = $5 \cdot 2 = 10$.
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra

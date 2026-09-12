@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Lengua: Tipología textual: texto argumentativo (W08)
 **20 preguntas | Lengua | MINEDU - Ley Educativa Avelino Siñani - Elizardo Pérez**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BO-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Comprensión y tipología textual
@@ -46,7 +47,7 @@ Considerando la estructura del texto argumentativo y específicamente la soberan
 ¡Correcto! El texto argumentativo tiene como propósito convencer o persuadir al receptor mediante razones estructuradas lógicamente alrededor de una tesis. La argumentación se articula mediante una tesis inicial, un cuerpo de argumentos (de autoridad, causa-efecto, lógicos o ejemplificación) y una conclusión sintética persuasiva. Esto se refleja con claridad al analizar la soberanía y el desarrollo económico a partir de los recursos naturales en la región de La Paz.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BO-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Comprensión y tipología textual
@@ -70,7 +71,7 @@ Considerando la estructura del texto argumentativo y específicamente la descolo
 ¡Correcto! El texto argumentativo tiene como propósito convencer o persuadir al receptor mediante razones estructuradas lógicamente alrededor de una tesis. La argumentación se articula mediante una tesis inicial, un cuerpo de argumentos (de autoridad, causa-efecto, lógicos o ejemplificación) y una conclusión sintética persuasiva. Esto se refleja con claridad al analizar la descolonización mental y la autoestima de los niños indígenas en la región de Santa Cruz.
 
 ---
-## Question 3 [D3]
+## Question 3 [D3-D4]
 **ID:** BO-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Comprensión y tipología textual
@@ -94,7 +95,7 @@ Considerando la estructura del texto argumentativo y específicamente la prohibi
 ¡Correcto! El texto argumentativo tiene como propósito convencer o persuadir al receptor mediante razones estructuradas lógicamente alrededor de una tesis. La argumentación se articula mediante una tesis inicial, un cuerpo de argumentos (de autoridad, causa-efecto, lógicos o ejemplificación) y una conclusión sintética persuasiva. Esto se refleja con claridad al analizar la prohibición de actividades extractivas de minería de oro en la región de Cochabamba.
 
 ---
-## Question 4 [D3]
+## Question 4 [D3-D4]
 **ID:** BO-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Comprensión y tipología textual
@@ -118,7 +119,7 @@ Considerando la estructura del texto argumentativo y específicamente la priorid
 ¡Correcto! El texto argumentativo tiene como propósito convencer o persuadir al receptor mediante razones estructuradas lógicamente alrededor de una tesis. La argumentación se articula mediante una tesis inicial, un cuerpo de argumentos (de autoridad, causa-efecto, lógicos o ejemplificación) y una conclusión sintética persuasiva. Esto se refleja con claridad al analizar la prioridad del consumo local frente a la exportación masiva en la región de Sucre.
 
 ---
-## Question 5 [D4]
+## Question 5 [D3-D4]
 **ID:** BO-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Comprensión y tipología textual
@@ -142,7 +143,7 @@ Considerando la estructura del texto argumentativo y específicamente la necesid
 ¡Correcto! El texto argumentativo tiene como propósito convencer o persuadir al receptor mediante razones estructuradas lógicamente alrededor de una tesis. La argumentación se articula mediante una tesis inicial, un cuerpo de argumentos (de autoridad, causa-efecto, lógicos o ejemplificación) y una conclusión sintética persuasiva. Esto se refleja con claridad al analizar la necesidad de infraestructura vial sustentable sin dañar la sal en la región de Oruro.
 
 ---
-## Question 6 [D4]
+## Question 6 [D3-D4]
 **ID:** BO-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Comprensión y tipología textual
@@ -166,7 +167,7 @@ Considerando la estructura del texto argumentativo y específicamente el fortale
 ¡Correcto! El texto argumentativo tiene como propósito convencer o persuadir al receptor mediante razones estructuradas lógicamente alrededor de una tesis. La argumentación se articula mediante una tesis inicial, un cuerpo de argumentos (de autoridad, causa-efecto, lógicos o ejemplificación) y una conclusión sintética persuasiva. Esto se refleja con claridad al analizar el fortalecimiento del presupuesto de los municipios rurales en la región de Potosí.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** BO-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v7
 **Bloom:** Understand
 **EJE:** Comprensión y tipología textual
@@ -190,7 +191,7 @@ Considerando la estructura del texto argumentativo y específicamente el combate
 ¡Correcto! El texto argumentativo tiene como propósito convencer o persuadir al receptor mediante razones estructuradas lógicamente alrededor de una tesis. La argumentación se articula mediante una tesis inicial, un cuerpo de argumentos (de autoridad, causa-efecto, lógicos o ejemplificación) y una conclusión sintética persuasiva. Esto se refleja con claridad al analizar el combate a la apropiación cultural de las danzas bolivianas en la región de Tarija.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** BO-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v8
 **Bloom:** Understand
 **EJE:** Comprensión y tipología textual
@@ -214,7 +215,7 @@ Considerando la estructura del texto argumentativo y específicamente la protecc
 ¡Correcto! El texto argumentativo tiene como propósito convencer o persuadir al receptor mediante razones estructuradas lógicamente alrededor de una tesis. La argumentación se articula mediante una tesis inicial, un cuerpo de argumentos (de autoridad, causa-efecto, lógicos o ejemplificación) y una conclusión sintética persuasiva. Esto se refleja con claridad al analizar la protección de la producción de papa boliviana frente a los mercados en la región de Trinidad.
 
 ---
-## Question 9 [D5]
+## Question 9 [D5-D6]
 **ID:** BO-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Comprensión y tipología textual
@@ -238,7 +239,7 @@ Considerando la estructura del texto argumentativo y específicamente la reducci
 ¡Correcto! El texto argumentativo tiene como propósito convencer o persuadir al receptor mediante razones estructuradas lógicamente alrededor de una tesis. La argumentación se articula mediante una tesis inicial, un cuerpo de argumentos (de autoridad, causa-efecto, lógicos o ejemplificación) y una conclusión sintética persuasiva. Esto se refleja con claridad al analizar la reducción de la brecha digital para estudiantes de provincias en la región de Cobija.
 
 ---
-## Question 10 [D5]
+## Question 10 [D5-D6]
 **ID:** BO-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Comprensión y tipología textual
@@ -262,7 +263,7 @@ Considerando la estructura del texto argumentativo y específicamente la prohibi
 ¡Correcto! El texto argumentativo tiene como propósito convencer o persuadir al receptor mediante razones estructuradas lógicamente alrededor de una tesis. La argumentación se articula mediante una tesis inicial, un cuerpo de argumentos (de autoridad, causa-efecto, lógicos o ejemplificación) y una conclusión sintética persuasiva. Esto se refleja con claridad al analizar la prohibición de la tala de árboles nativos de queñua en la región de Viacha.
 
 ---
-## Question 11 [D6]
+## Question 11 [D5-D6]
 **ID:** BO-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Comprensión y tipología textual
@@ -286,7 +287,7 @@ Considerando la estructura del texto argumentativo y específicamente la constru
 ¡Correcto! El texto argumentativo tiene como propósito convencer o persuadir al receptor mediante razones estructuradas lógicamente alrededor de una tesis. La argumentación se articula mediante una tesis inicial, un cuerpo de argumentos (de autoridad, causa-efecto, lógicos o ejemplificación) y una conclusión sintética persuasiva. Esto se refleja con claridad al analizar la construcción de plantas petroquímicas con recursos nacionales en la región de Montero.
 
 ---
-## Question 12 [D6]
+## Question 12 [D5-D6]
 **ID:** BO-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Comprensión y tipología textual
@@ -310,7 +311,7 @@ Considerando la estructura del texto argumentativo y específicamente el valor m
 ¡Correcto! El texto argumentativo tiene como propósito convencer o persuadir al receptor mediante razones estructuradas lógicamente alrededor de una tesis. La argumentación se articula mediante una tesis inicial, un cuerpo de argumentos (de autoridad, causa-efecto, lógicos o ejemplificación) y una conclusión sintética persuasiva. Esto se refleja con claridad al analizar el valor medicinal y ritual de la hoja sagrada frente al narcotráfico en la región de Sacaba.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BO-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v13
 **Bloom:** Apply
 **EJE:** Comprensión y tipología textual
@@ -334,7 +335,7 @@ Considerando la estructura del texto argumentativo y específicamente incentivos
 ¡Correcto! El texto argumentativo tiene como propósito convencer o persuadir al receptor mediante razones estructuradas lógicamente alrededor de una tesis. La argumentación se articula mediante una tesis inicial, un cuerpo de argumentos (de autoridad, causa-efecto, lógicos o ejemplificación) y una conclusión sintética persuasiva. Esto se refleja con claridad al analizar incentivos fiscales para la primera contratación de universitarios en la región de Quillacollo.
 
 ---
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** BO-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v14
 **Bloom:** Apply
 **EJE:** Comprensión y tipología textual
@@ -358,7 +359,7 @@ Considerando la estructura del texto argumentativo y específicamente la prohibi
 ¡Correcto! El texto argumentativo tiene como propósito convencer o persuadir al receptor mediante razones estructuradas lógicamente alrededor de una tesis. La argumentación se articula mediante una tesis inicial, un cuerpo de argumentos (de autoridad, causa-efecto, lógicos o ejemplificación) y una conclusión sintética persuasiva. Esto se refleja con claridad al analizar la prohibición de construcciones modernas en el centro histórico en la región de Warnes.
 
 ---
-## Question 15 [D7]
+## Question 15 [D7-D8]
 **ID:** BO-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Comprensión y tipología textual
@@ -382,7 +383,7 @@ Considerando la estructura del texto argumentativo y específicamente la partici
 ¡Correcto! El texto argumentativo tiene como propósito convencer o persuadir al receptor mediante razones estructuradas lógicamente alrededor de una tesis. La argumentación se articula mediante una tesis inicial, un cuerpo de argumentos (de autoridad, causa-efecto, lógicos o ejemplificación) y una conclusión sintética persuasiva. Esto se refleja con claridad al analizar la participación obligatoria de mujeres en los comités de decisión en la región de El Alto.
 
 ---
-## Question 16 [D7]
+## Question 16 [D7-D8]
 **ID:** BO-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Comprensión y tipología textual
@@ -406,7 +407,7 @@ Considerando la estructura del texto argumentativo y específicamente la priorid
 ¡Correcto! El texto argumentativo tiene como propósito convencer o persuadir al receptor mediante razones estructuradas lógicamente alrededor de una tesis. La argumentación se articula mediante una tesis inicial, un cuerpo de argumentos (de autoridad, causa-efecto, lógicos o ejemplificación) y una conclusión sintética persuasiva. Esto se refleja con claridad al analizar la prioridad del agua para consumo humano frente a las industrias en la región de Riberalta.
 
 ---
-## Question 17 [D8]
+## Question 17 [D7-D8]
 **ID:** BO-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v17
 **Bloom:** Analyze
 **EJE:** Comprensión y tipología textual
@@ -430,7 +431,7 @@ Considerando la estructura del texto argumentativo y específicamente el reempla
 ¡Correcto! El texto argumentativo tiene como propósito convencer o persuadir al receptor mediante razones estructuradas lógicamente alrededor de una tesis. La argumentación se articula mediante una tesis inicial, un cuerpo de argumentos (de autoridad, causa-efecto, lógicos o ejemplificación) y una conclusión sintética persuasiva. Esto se refleja con claridad al analizar el reemplazo de envases plásticos por bolsas de tela de tocuyo en la región de Yacuiba.
 
 ---
-## Question 18 [D8]
+## Question 18 [D7-D8]
 **ID:** BO-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** Comprensión y tipología textual
@@ -454,7 +455,7 @@ Considerando la estructura del texto argumentativo y específicamente el ingreso
 ¡Correcto! El texto argumentativo tiene como propósito convencer o persuadir al receptor mediante razones estructuradas lógicamente alrededor de una tesis. La argumentación se articula mediante una tesis inicial, un cuerpo de argumentos (de autoridad, causa-efecto, lógicos o ejemplificación) y una conclusión sintética persuasiva. Esto se refleja con claridad al analizar el ingreso de pintores quechuas a los museos nacionales de bellas artes en la región de Colcapirhua.
 
 ---
-## Question 19 [D9]
+## Question 19 [D9-D10]
 **ID:** BO-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Comprensión y tipología textual
@@ -478,7 +479,7 @@ Considerando la estructura del texto argumentativo y específicamente la generac
 ¡Correcto! El texto argumentativo tiene como propósito convencer o persuadir al receptor mediante razones estructuradas lógicamente alrededor de una tesis. La argumentación se articula mediante una tesis inicial, un cuerpo de argumentos (de autoridad, causa-efecto, lógicos o ejemplificación) y una conclusión sintética persuasiva. Esto se refleja con claridad al analizar la generación de energía limpia aprovechando los ríos de la cuenca en la región de Tupiza.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BO-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Comprensión y tipología textual

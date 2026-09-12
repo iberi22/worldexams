@@ -13,12 +13,13 @@ total_questions: 20
 bundle_size: 20
 alignment: "CENEVAL EXANI-II"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** MX-LC-11-2026-W08-tema-w08-001-v001
 **Bloom:** Remember
 **EJE:** EXANI-II Comprensión Lectora
@@ -41,7 +42,7 @@ El fragmento se presenta como un ensayo agronómico analítico centrado en la re
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** MX-LC-11-2026-W08-tema-w08-001-v002
 **Bloom:** Remember
 **EJE:** EXANI-II Comprensión Lectora
@@ -64,7 +65,7 @@ El escrito se enfoca en analizar la figura y el marco de pensamiento de la milpa
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** MX-LC-11-2026-W08-tema-w08-001-v003
 **Bloom:** Understand
 **EJE:** EXANI-II Comprensión Lectora
@@ -87,7 +88,7 @@ La premisa central es que el policultivo sustentable debe integrarse activamente
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** MX-LC-11-2026-W08-tema-w08-001-v004
 **Bloom:** Understand
 **EJE:** EXANI-II Comprensión Lectora
@@ -110,7 +111,7 @@ El concepto de 'la tríada mesoamericana' representa la deparación del saber y 
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** MX-LC-11-2026-W08-tema-w08-001-v005
 **Bloom:** Understand
 **EJE:** EXANI-II Comprensión Lectora
@@ -133,7 +134,7 @@ La figura de la milpa mexicana y su producción literaria evidencian de manera f
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** MX-LC-11-2026-W08-tema-w08-001-v006
 **Bloom:** Understand
 **EJE:** EXANI-II Comprensión Lectora
@@ -156,7 +157,7 @@ El texto concibe la capacidad y el desarrollo racional como inclinaciones innata
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** MX-LC-11-2026-W08-tema-w08-001-v007
 **Bloom:** Apply
 **EJE:** EXANI-II Comprensión Lectora
@@ -179,7 +180,7 @@ Poner en diálogo la cultura local con las letras mundiales concreta el ideal de
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** MX-LC-11-2026-W08-tema-w08-001-v008
 **Bloom:** Apply
 **EJE:** EXANI-II Comprensión Lectora
@@ -202,7 +203,7 @@ Cualquier barrera que obstaculice el desarrollo intelectual contradice el ideal 
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** MX-LC-11-2026-W08-tema-w08-001-v009
 **Bloom:** Apply
 **EJE:** EXANI-II Comprensión Lectora
@@ -225,7 +226,7 @@ El uso de la agudeza intelectual y el contraste formal para cuestionar contradic
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** MX-LC-11-2026-W08-tema-w08-001-v010
 **Bloom:** Apply
 **EJE:** EXANI-II Comprensión Lectora
@@ -248,7 +249,7 @@ La armoniosa integración de voces y culturas literarias diversas en un tronco h
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** MX-LC-11-2026-W08-tema-w08-001-v011
 **Bloom:** Apply
 **EJE:** EXANI-II Comprensión Lectora
@@ -271,7 +272,7 @@ Un enfoque puramente científico o físico aislaría las propiedades del relieve
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** MX-LC-11-2026-W08-tema-w08-001-v012
 **Bloom:** Apply
 **EJE:** EXANI-II Comprensión Lectora
@@ -294,7 +295,7 @@ Preservar el paisaje natural y su visibilidad en equilibrio con el desarrollo ur
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** MX-LC-11-2026-W08-tema-w08-001-v013
 **Bloom:** Analyze
 **EJE:** EXANI-II Comprensión Lectora
@@ -317,7 +318,7 @@ El autor teoriza que la geografía desafiante opera como una escuela de temple, 
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** MX-LC-11-2026-W08-tema-w08-001-v014
 **Bloom:** Analyze
 **EJE:** EXANI-II Comprensión Lectora
@@ -340,7 +341,7 @@ La síntesis de rigor botánico y sensibilidad afectiva dota al ensayo de un equ
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** MX-LC-11-2026-W08-tema-w08-001-v015
 **Bloom:** Analyze
 **EJE:** EXANI-II Comprensión Lectora
@@ -363,7 +364,7 @@ La valoración identitaria de la geografía y los ritos descansa en la premisa d
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** MX-LC-11-2026-W08-tema-w08-001-v016
 **Bloom:** Analyze
 **EJE:** EXANI-II Comprensión Lectora
@@ -386,7 +387,7 @@ Asociar rígidamente la conducta al medio físico (clima, relieve) roza el deter
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** MX-LC-11-2026-W08-tema-w08-001-v017
 **Bloom:** Evaluate
 **EJE:** EXANI-II Comprensión Lectora
@@ -409,7 +410,7 @@ La trascendencia de la geografía y los ritos estriba en su conversión en hitos
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** MX-LC-11-2026-W08-tema-w08-001-v018
 **Bloom:** Evaluate
 **EJE:** EXANI-II Comprensión Lectora
@@ -432,7 +433,7 @@ El autor aboga por un equilibrio ético que acoja el aprecio global sin triviali
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** MX-LC-11-2026-W08-tema-w08-001-v019
 **Bloom:** Evaluate
 **EJE:** EXANI-II Comprensión Lectora
@@ -455,7 +456,7 @@ La valía del texto estriba en erigirse en una apología rigurosa y a la vez afe
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** MX-LC-11-2026-W08-tema-w08-001-v020
 **Bloom:** Evaluate
 **EJE:** EXANI-II Comprensión Lectora

@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Ciencias Sociales: El proceso de independencia y la Constitución de 1830 (W03)
 **20 preguntas | Ciencias Sociales | ANEP - Plan 2006 Reformulación / Programa Ubicación**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** UY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Social
@@ -46,7 +47,7 @@ bundle_index: 1
 La identificación precisa de Cruzada Libertadora de los Treinta y Tres Orientales permite comprender el desembarco en la playa de la Agraciada dentro del proceso de la Cruzada Libertadora de 1825. Su rol histórico está plenamente documentado en los programas de estudio de la enseñanza media superior (ANEP).
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** UY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Social
@@ -70,7 +71,7 @@ La identificación precisa de Cruzada Libertadora de los Treinta y Tres Oriental
 La identificación precisa de La Declaratoria de la Independencia del 25 de agosto permite comprender las leyes de Florida y la unión a las Provincias dentro del proceso de la Declaratoria de la Independencia de 1825. Su rol histórico está plenamente documentado en los programas de estudio de la enseñanza media superior (ANEP).
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** UY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -94,7 +95,7 @@ Si analizás la trascendencia de este suceso, ¿cómo se explica la relación ca
 La relación entre La Convención Preliminar de Paz y la creación de un estado independiente bajo mediación inglesa es un eje vertebral para comprender la Convención Preliminar de Paz de 1828. Su estudio demuestra cómo los factores estructurales del período sentaron las condiciones para los cambios políticos o sociales subsiguientes.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** UY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -118,7 +119,7 @@ Si analizás la trascendencia de este suceso, ¿cómo se explica la relación ca
 La relación entre La Jura de la Constitución el 18 de julio de 1830 y el nacimiento de la República Oriental es un eje vertebral para comprender la jura de la primera Constitución de 1830. Su estudio demuestra cómo los factores estructurales del período sentaron las condiciones para los cambios políticos o sociales subsiguientes.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** UY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -142,7 +143,7 @@ Si analizás la trascendencia de este suceso, ¿cómo se explica la relación ca
 La relación entre La exclusión del voto a peones, analfabetos y sirvientes y el carácter oligárquico de la ciudadanía es un eje vertebral para comprender el voto restringido de la Constitución de 1830. Su estudio demuestra cómo los factores estructurales del período sentaron las condiciones para los cambios políticos o sociales subsiguientes.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** UY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -166,7 +167,7 @@ Si analizás la trascendencia de este suceso, ¿cómo se explica la relación ca
 La relación entre La prohibición de introducir nuevos esclavizados y el lento avance hacia la abolición total es un eje vertebral para comprender la abolición gradual de la esclavitud en 1830. Su estudio demuestra cómo los factores estructurales del período sentaron las condiciones para los cambios políticos o sociales subsiguientes.
 
 ---
-## Question 7 [D6]
+## Question 7 [D5-D6]
 **ID:** UY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -190,7 +191,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de Un Estado unitario con fuerte preeminencia del Legislativo revela que la forma de gobierno de la Constitución de 1830 no fue un mero debate teórico, sino un proceso real que estructuró la centralización política inicial, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** UY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -214,7 +215,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de Lord Ponsonby y el interés británico revela que la mediación de Gran Bretaña y Lord Ponsonby no fue un mero debate teórico, sino un proceso real que estructuró la seguridad del comercio mercantil en el Río, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** UY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -238,7 +239,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de La Batalla de Sarandí revela que la Batalla de Sarandí en octubre de 1825 no fue un mero debate teórico, sino un proceso real que estructuró el triunfo de las milicias orientales, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** UY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -262,7 +263,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de La imprecisión de los límites en la frontera norte revela que los límites territoriales del nuevo Estado no fue un mero debate teórico, sino un proceso real que estructuró las futuras disputas fronterizas con Brasil, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** UY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -286,7 +287,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de Cruzada Libertadora de los Treinta y Tres Orientales revela que la Cruzada Libertadora de 1825 no fue un mero debate teórico, sino un proceso real que estructuró el desembarco en la playa de la Agraciada, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** UY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -310,7 +311,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de La Declaratoria de la Independencia del 25 de agosto revela que la Declaratoria de la Independencia de 1825 no fue un mero debate teórico, sino un proceso real que estructuró las leyes de Florida y la unión a las Provincias, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 13 [D8]
+## Question 13 [D7-D8]
 **ID:** UY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Análisis de Perspectivas
@@ -334,7 +335,7 @@ La aplicación práctica de La Declaratoria de la Independencia del 25 de agosto
 El análisis crítico de La Convención Preliminar de Paz demuestra que la Convención Preliminar de Paz de 1828 devela fuertes asimetrías de poder. Mientras que un sector consolidaba la creación de un estado independiente bajo mediación inglesa, otros grupos sociales experimentaban severas limitaciones, dinamizando el conflicto político uruguayo.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** UY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Análisis de Perspectivas
@@ -358,7 +359,7 @@ El análisis crítico de La Convención Preliminar de Paz demuestra que la Conve
 El análisis crítico de La Jura de la Constitución el 18 de julio de 1830 demuestra que la jura de la primera Constitución de 1830 devela fuertes asimetrías de poder. Mientras que un sector consolidaba el nacimiento de la República Oriental, otros grupos sociales experimentaban severas limitaciones, dinamizando el conflicto político uruguayo.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** UY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Análisis de Perspectivas
@@ -382,7 +383,7 @@ El análisis crítico de La Jura de la Constitución el 18 de julio de 1830 demu
 El análisis crítico de La exclusión del voto a peones, analfabetos y sirvientes demuestra que el voto restringido de la Constitución de 1830 devela fuertes asimetrías de poder. Mientras que un sector consolidaba el carácter oligárquico de la ciudadanía, otros grupos sociales experimentaban severas limitaciones, dinamizando el conflicto político uruguayo.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** UY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Análisis de Perspectivas
@@ -406,7 +407,7 @@ El análisis crítico de La exclusión del voto a peones, analfabetos y sirvient
 El análisis crítico de La prohibición de introducir nuevos esclavizados demuestra que la abolición gradual de la esclavitud en 1830 devela fuertes asimetrías de poder. Mientras que un sector consolidaba el lento avance hacia la abolición total, otros grupos sociales experimentaban severas limitaciones, dinamizando el conflicto político uruguayo.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** UY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -430,7 +431,7 @@ Al juzgar de manera integral el alcance histórico de Un Estado unitario con fue
 La evaluación crítica de la forma de gobierno de la Constitución de 1830 destaca el rol estructurador de Un Estado unitario con fuerte preeminencia del Legislativo en la configuración de la centralización política inicial. Su estudio integral permite ponderar los aciertos, contradicciones y el legado institucional que perdura hasta el Uruguay contemporáneo.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** UY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -454,7 +455,7 @@ Al juzgar de manera integral el alcance histórico de Lord Ponsonby y el interé
 La evaluación crítica de la mediación de Gran Bretaña y Lord Ponsonby destaca el rol estructurador de Lord Ponsonby y el interés británico en la configuración de la seguridad del comercio mercantil en el Río. Su estudio integral permite ponderar los aciertos, contradicciones y el legado institucional que perdura hasta el Uruguay contemporáneo.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** UY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -478,7 +479,7 @@ Al juzgar de manera integral el alcance histórico de La Batalla de Sarandí, ¿
 La evaluación crítica de la Batalla de Sarandí en octubre de 1825 destaca el rol estructurador de La Batalla de Sarandí en la configuración de el triunfo de las milicias orientales. Su estudio integral permite ponderar los aciertos, contradicciones y el legado institucional que perdura hasta el Uruguay contemporáneo.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** UY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social

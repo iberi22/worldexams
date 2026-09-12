@@ -13,6 +13,7 @@ total_questions: 20
 bundle_size: 20
 alignment: "SEP NEM Mexico 2026 / EXANI-II pensamiento matematico"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -41,7 +42,7 @@ Dada la función f(x) = x³ - 4x, ¿cuáles son los ceros o raíces reales de es
 ### Explicacion Pedagogica
 Para hallar los ceros de la función, igualamos f(x) a cero: x³ - 4x = 0. Factorizamos x por término común: x(x² - 4) = 0. El factor cuadrático es una diferencia de cuadrados: x(x - 2)(x + 2) = 0. Igualando cada factor a cero obtenemos las tres raíces: x = 0, x = 2 y x = -2.
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Matemático
@@ -87,7 +88,7 @@ Determina la ordenada al origen de la función f(x) = (x² + 3) / (x + 2).
 ### Explicacion Pedagogica
 La ordenada al origen se calcula sustituyendo x = 0 en la función f(x). Así, evaluamos f(0) = (0² + 3) / (0 + 2) = 3/2.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** MX-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -133,7 +134,7 @@ Determina la ordenada al origen de la función f(x) = (x² + 5) / (x + 2).
 ### Explicacion Pedagogica
 La ordenada al origen se calcula sustituyendo x = 0 en la función f(x). Así, evaluamos f(0) = (0² + 5) / (0 + 2) = 5/2.
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** MX-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -179,7 +180,7 @@ Determina la ordenada al origen de la función f(x) = (x² + 7) / (x + 2).
 ### Explicacion Pedagogica
 La ordenada al origen se calcula sustituyendo x = 0 en la función f(x). Así, evaluamos f(0) = (0² + 7) / (0 + 2) = 7/2.
 
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -225,7 +226,7 @@ Determina la ordenada al origen de la función f(x) = (x² + 9) / (x + 2).
 ### Explicacion Pedagogica
 La ordenada al origen se calcula sustituyendo x = 0 en la función f(x). Así, evaluamos f(0) = (0² + 9) / (0 + 2) = 9/2.
 
-## Question 10 [D5]
+## Question 10 [D5-D6]
 **ID:** MX-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -271,7 +272,7 @@ Determina la ordenada al origen de la función f(x) = (x² + 11) / (x + 2).
 ### Explicacion Pedagogica
 La ordenada al origen se calcula sustituyendo x = 0 en la función f(x). Así, evaluamos f(0) = (0² + 11) / (0 + 2) = 11/2.
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** MX-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -317,7 +318,7 @@ Determina la ordenada al origen de la función f(x) = (x² + 13) / (x + 2).
 ### Explicacion Pedagogica
 La ordenada al origen se calcula sustituyendo x = 0 en la función f(x). Así, evaluamos f(0) = (0² + 13) / (0 + 2) = 13/2.
 
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Pensamiento Matemático
@@ -363,7 +364,7 @@ Determina la ordenada al origen de la función f(x) = (x² + 15) / (x + 2).
 ### Explicacion Pedagogica
 La ordenada al origen se calcula sustituyendo x = 0 en la función f(x). Así, evaluamos f(0) = (0² + 15) / (0 + 2) = 15/2.
 
-## Question 16 [D7]
+## Question 16 [D7-D8]
 **ID:** MX-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Pensamiento Matemático
@@ -409,7 +410,7 @@ Determina la ordenada al origen de la función f(x) = (x² + 17) / (x + 2).
 ### Explicacion Pedagogica
 La ordenada al origen se calcula sustituyendo x = 0 en la función f(x). Así, evaluamos f(0) = (0² + 17) / (0 + 2) = 17/2.
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático
@@ -455,7 +456,7 @@ Determina la ordenada al origen de la función f(x) = (x² + 19) / (x + 2).
 ### Explicacion Pedagogica
 La ordenada al origen se calcula sustituyendo x = 0 en la función f(x). Así, evaluamos f(0) = (0² + 19) / (0 + 2) = 19/2.
 
-## Question 20 [D9]
+## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático

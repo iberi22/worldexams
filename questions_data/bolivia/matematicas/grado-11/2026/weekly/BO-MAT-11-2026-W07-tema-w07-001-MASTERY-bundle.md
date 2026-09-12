@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Matemáticas: Tema W07 (W07)
 **20 preguntas | Grado 11 (6to de Secundaria) | MINEDU - Ley Educativa Avelino Siñani - Elizardo Pérez**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -42,7 +43,7 @@ Si la ecuación cuadrática ax^2 + bx + c = 0 tiene un discriminante D = b^2 - 4
 El discriminante D determina la naturaleza de las raíces de una ecuación de segundo grado. Si D = 0, las raíces reales de la ecuación cuadrática son reales e iguales (solución real única).
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -62,7 +63,7 @@ El discriminante D determina la naturaleza de las raíces de una ecuación de se
 Aplicando la fórmula del discriminante D = b^2 - 4ac para a = 1, b = -4, c = 4: D = (-4)^2 - 4(1)(4) = 16 - 16 = 0.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -82,7 +83,7 @@ Aplicando la fórmula del discriminante D = b^2 - 4ac para a = 1, b = -4, c = 4:
 La ecuación incompleta x^2 - 9 = 0 se resuelve factorizando como diferencia de cuadrados (x - 3)(x + 3) = 0, obteniendo las raíces reales x = 3 y x = -3.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -102,7 +103,7 @@ Resuelva la ecuación cuadrática: x^2 - 8x + 15 = 0. ¿Cuáles son las dos raí
 La ecuación se puede resolver factorizando como (x - (3))(x - (5)) = 0, lo que da las dos raíces correspondientes.
 
 ---
-## Question 5 [D4]
+## Question 5 [D3-D4]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v5
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -122,7 +123,7 @@ Resuelva la ecuación cuadrática: x^2 - 10x + 24 = 0. ¿Cuáles son las dos ra�
 La ecuación se puede resolver factorizando como (x - (4))(x - (6)) = 0, lo que da las dos raíces correspondientes.
 
 ---
-## Question 6 [D4]
+## Question 6 [D3-D4]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -142,7 +143,7 @@ Resuelva la ecuación cuadrática: x^2 - 12x + 35 = 0. ¿Cuáles son las dos ra�
 La ecuación se puede resolver factorizando como (x - (5))(x - (7)) = 0, lo que da las dos raíces correspondientes.
 
 ---
-## Question 7 [D4]
+## Question 7 [D3-D4]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -162,7 +163,7 @@ Resuelva la ecuación cuadrática: x^2 - 14x + 48 = 0. ¿Cuáles son las dos ra�
 La ecuación se puede resolver factorizando como (x - (6))(x - (8)) = 0, lo que da las dos raíces correspondientes.
 
 ---
-## Question 8 [D4]
+## Question 8 [D3-D4]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -182,7 +183,7 @@ Resuelva la ecuación cuadrática: x^2 - 16x + 63 = 0. ¿Cuáles son las dos ra�
 La ecuación se puede resolver factorizando como (x - (7))(x - (9)) = 0, lo que da las dos raíces correspondientes.
 
 ---
-## Question 9 [D4]
+## Question 9 [D3-D4]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v9
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -202,7 +203,7 @@ Resuelva la ecuación cuadrática: x^2 - 18x + 80 = 0. ¿Cuáles son las dos ra�
 La ecuación se puede resolver factorizando como (x - (8))(x - (10)) = 0, lo que da las dos raíces correspondientes.
 
 ---
-## Question 10 [D4]
+## Question 10 [D3-D4]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -222,7 +223,7 @@ Resuelva la ecuación cuadrática: x^2 - 20x + 99 = 0. ¿Cuáles son las dos ra�
 La ecuación se puede resolver factorizando como (x - (9))(x - (11)) = 0, lo que da las dos raíces correspondientes.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -242,7 +243,7 @@ Resuelva la ecuación cuadrática: x^2 - 22x + 120 = 0. ¿Cuáles son las dos ra
 La ecuación se puede resolver factorizando como (x - (10))(x - (12)) = 0, lo que da las dos raíces correspondientes.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -262,7 +263,7 @@ Resuelva la ecuación cuadrática: x^2 - 24x + 143 = 0. ¿Cuáles son las dos ra
 La ecuación se puede resolver factorizando como (x - (11))(x - (13)) = 0, lo que da las dos raíces correspondientes.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -282,7 +283,7 @@ Resuelva la ecuación cuadrática: x^2 - 26x + 168 = 0. ¿Cuáles son las dos ra
 La ecuación se puede resolver factorizando como (x - (12))(x - (14)) = 0, lo que da las dos raíces correspondientes.
 
 ---
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v14
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -302,7 +303,7 @@ Resuelva la ecuación cuadrática: x^2 - 28x + 195 = 0. ¿Cuáles son las dos ra
 La ecuación se puede resolver factorizando como (x - (13))(x - (15)) = 0, lo que da las dos raíces correspondientes.
 
 ---
-## Question 15 [D7]
+## Question 15 [D7-D8]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -322,7 +323,7 @@ Resuelva la ecuación cuadrática: x^2 - 30x + 224 = 0. ¿Cuáles son las dos ra
 La ecuación se puede resolver factorizando como (x - (14))(x - (16)) = 0, lo que da las dos raíces correspondientes.
 
 ---
-## Question 16 [D7]
+## Question 16 [D7-D8]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v16
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -342,7 +343,7 @@ Resuelva la ecuación cuadrática: x^2 - 32x + 255 = 0. ¿Cuáles son las dos ra
 La ecuación se puede resolver factorizando como (x - (15))(x - (17)) = 0, lo que da las dos raíces correspondientes.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v17
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -362,7 +363,7 @@ Resuelva la ecuación cuadrática: x^2 - 34x + 288 = 0. ¿Cuáles son las dos ra
 La ecuación se puede resolver factorizando como (x - (16))(x - (18)) = 0, lo que da las dos raíces correspondientes.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v18
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -382,7 +383,7 @@ Resuelva la ecuación cuadrática: x^2 - 36x + 323 = 0. ¿Cuáles son las dos ra
 La ecuación se puede resolver factorizando como (x - (17))(x - (19)) = 0, lo que da las dos raíces correspondientes.
 
 ---
-## Question 19 [D9]
+## Question 19 [D9-D10]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v19
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -402,7 +403,7 @@ Resuelva la ecuación cuadrática: x^2 - 38x + 360 = 0. ¿Cuáles son las dos ra
 La ecuación se puede resolver factorizando como (x - (18))(x - (20)) = 0, lo que da las dos raíces correspondientes.
 
 ---
-## Question 20 [D9]
+## Question 20 [D9-D10]
 **ID:** BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v20
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos

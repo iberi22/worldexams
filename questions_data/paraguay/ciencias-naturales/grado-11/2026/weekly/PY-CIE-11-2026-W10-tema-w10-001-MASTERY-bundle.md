@@ -15,6 +15,7 @@ alignment: "MEC Paraguay"
 license: "FREE"
 tier: "legacy"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 creador: "Jules-Agent"
 ---
 
@@ -24,7 +25,7 @@ Este bundle cubre de manera exhaustiva el tema de Evolución y selección natura
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v1
 **Bloom:** Remember
 **EJE:** Biotecnología y Evolución
@@ -45,7 +46,7 @@ El concepto de La selección natural constituye un fundamento esencial para comp
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v2
 **Bloom:** Understand
 **EJE:** Biotecnología y Evolución
@@ -66,7 +67,7 @@ El concepto de Estructuras análogas constituye un fundamento esencial para comp
 
 ---
 
-## Question 3 [D3]
+## Question 3 [D3-D4]
 **ID:** PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v3
 **Bloom:** Remember
 **EJE:** Biotecnología y Evolución
@@ -87,7 +88,7 @@ El concepto de Evolución convergente constituye un fundamento esencial para com
 
 ---
 
-## Question 4 [D3]
+## Question 4 [D3-D4]
 **ID:** PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v4
 **Bloom:** Understand
 **EJE:** Biotecnología y Evolución
@@ -108,7 +109,7 @@ El concepto de La mutación génica constituye un fundamento esencial para compr
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v5
 **Bloom:** Apply
 **EJE:** Biotecnología y Evolución
@@ -129,7 +130,7 @@ El concepto de La ley de Hardy-Weinberg constituye un fundamento esencial para c
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v6
 **Bloom:** Understand
 **EJE:** Biotecnología y Evolución
@@ -150,7 +151,7 @@ El concepto de Efecto de cuello de botella constituye un fundamento esencial par
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v7
 **Bloom:** Apply
 **EJE:** Biotecnología y Evolución
@@ -171,7 +172,7 @@ El concepto de Selección disruptiva (o diversificadora) constituye un fundament
 
 ---
 
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v8
 **Bloom:** Understand
 **EJE:** Biotecnología y Evolución
@@ -192,7 +193,7 @@ El concepto de Especiación alopátrica constituye un fundamento esencial para c
 
 ---
 
-## Question 9 [D5]
+## Question 9 [D5-D6]
 **ID:** PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v9
 **Bloom:** Apply
 **EJE:** Biotecnología y Evolución
@@ -213,7 +214,7 @@ El concepto de Órganos vestigiales constituye un fundamento esencial para compr
 
 ---
 
-## Question 10 [D5]
+## Question 10 [D5-D6]
 **ID:** PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v10
 **Bloom:** Understand
 **EJE:** Biotecnología y Evolución
@@ -234,7 +235,7 @@ El concepto de El equilibrio puntuado constituye un fundamento esencial para com
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v11
 **Bloom:** Analyze
 **EJE:** Biotecnología y Evolución
@@ -255,7 +256,7 @@ El concepto de La eficacia biológica (fitness) constituye un fundamento esencia
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v12
 **Bloom:** Apply
 **EJE:** Biotecnología y Evolución
@@ -276,7 +277,7 @@ El concepto de Aislamiento etológico (o conductual) constituye un fundamento es
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v13
 **Bloom:** Analyze
 **EJE:** Biotecnología y Evolución
@@ -297,7 +298,7 @@ El concepto de Inviabilidad o esterilidad híbrida constituye un fundamento esen
 
 ---
 
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v14
 **Bloom:** Apply
 **EJE:** Biotecnología y Evolución
@@ -318,7 +319,7 @@ El concepto de Fósiles transicionales (como Archaeopteryx) constituye un fundam
 
 ---
 
-## Question 15 [D7]
+## Question 15 [D7-D8]
 **ID:** PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v15
 **Bloom:** Analyze
 **EJE:** Biotecnología y Evolución
@@ -339,7 +340,7 @@ El concepto de La teoría sintética de la evolución (neodarwinismo) constituye
 
 ---
 
-## Question 16 [D7]
+## Question 16 [D7-D8]
 **ID:** PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v16
 **Bloom:** Apply
 **EJE:** Biotecnología y Evolución
@@ -360,7 +361,7 @@ El concepto de Selección estabilizadora constituye un fundamento esencial para 
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v17
 **Bloom:** Evaluate
 **EJE:** Biotecnología y Evolución
@@ -381,7 +382,7 @@ El concepto de La coevolución constituye un fundamento esencial para comprender
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v18
 **Bloom:** Analyze
 **EJE:** Biotecnología y Evolución
@@ -402,7 +403,7 @@ El concepto de Datación por radiocarbono constituye un fundamento esencial para
 
 ---
 
-## Question 19 [D9]
+## Question 19 [D9-D10]
 **ID:** PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v19
 **Bloom:** Evaluate
 **EJE:** Biotecnología y Evolución
@@ -423,7 +424,7 @@ El concepto de Aislamiento temporal (o estacional) constituye un fundamento esen
 
 ---
 
-## Question 20 [D9]
+## Question 20 [D9-D10]
 **ID:** PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v20
 **Bloom:** Analyze
 **EJE:** Biotecnología y Evolución

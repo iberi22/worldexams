@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Lengua: Multilingüismo en Bolivia y lenguas originarias (W03)
 **20 preguntas | Lengua | MINEDU - Ley Educativa Avelino Siñani - Elizardo Pérez**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BO-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Estudio de la lengua y comunicación
@@ -46,7 +47,7 @@ Considerando el multilingüismo en Bolivia y los derechos lingüísticos y espec
 ¡Correcto! La Constitución Política del Estado reconoce las lenguas originarias como oficiales para garantizar los derechos culturales y la inclusión de los pueblos. La Constitución boliviana de 2009 consagra el carácter plurinacional y plurilingüe del Estado, otorgando cooficialidad al castellano y a las lenguas de las naciones y pueblos indígenas originarios campesinos. Esto se refleja con claridad al analizar el quechua como lengua originaria viva en la región de La Paz.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BO-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Estudio de la lengua y comunicación
@@ -70,7 +71,7 @@ Considerando el multilingüismo en Bolivia y los derechos lingüísticos y espec
 ¡Correcto! La Constitución Política del Estado reconoce las lenguas originarias como oficiales para garantizar los derechos culturales y la inclusión de los pueblos. La Constitución boliviana de 2009 consagra el carácter plurinacional y plurilingüe del Estado, otorgando cooficialidad al castellano y a las lenguas de las naciones y pueblos indígenas originarios campesinos. Esto se refleja con claridad al analizar el aymara hablado en el altiplano en la región de Santa Cruz.
 
 ---
-## Question 3 [D3]
+## Question 3 [D3-D4]
 **ID:** BO-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Estudio de la lengua y comunicación
@@ -94,7 +95,7 @@ Considerando el multilingüismo en Bolivia y los derechos lingüísticos y espec
 ¡Correcto! La Constitución Política del Estado reconoce las lenguas originarias como oficiales para garantizar los derechos culturales y la inclusión de los pueblos. La Constitución boliviana de 2009 consagra el carácter plurinacional y plurilingüe del Estado, otorgando cooficialidad al castellano y a las lenguas de las naciones y pueblos indígenas originarios campesinos. Esto se refleja con claridad al analizar el guaraní del Chaco boliviano en la región de Cochabamba.
 
 ---
-## Question 4 [D3]
+## Question 4 [D3-D4]
 **ID:** BO-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Estudio de la lengua y comunicación
@@ -118,7 +119,7 @@ Considerando el multilingüismo en Bolivia y los derechos lingüísticos y espec
 ¡Correcto! La Constitución Política del Estado reconoce las lenguas originarias como oficiales para garantizar los derechos culturales y la inclusión de los pueblos. La Constitución boliviana de 2009 consagra el carácter plurinacional y plurilingüe del Estado, otorgando cooficialidad al castellano y a las lenguas de las naciones y pueblos indígenas originarios campesinos. Esto se refleja con claridad al analizar las lenguas moxeñas y chiquitanas en la región de Sucre.
 
 ---
-## Question 5 [D4]
+## Question 5 [D3-D4]
 **ID:** BO-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Estudio de la lengua y comunicación
@@ -142,7 +143,7 @@ Considerando el multilingüismo en Bolivia y los derechos lingüísticos y espec
 ¡Correcto! La Constitución Política del Estado reconoce las lenguas originarias como oficiales para garantizar los derechos culturales y la inclusión de los pueblos. La Constitución boliviana de 2009 consagra el carácter plurinacional y plurilingüe del Estado, otorgando cooficialidad al castellano y a las lenguas de las naciones y pueblos indígenas originarios campesinos. Esto se refleja con claridad al analizar el aprendizaje conjunto de castellano e idioma nativo en la región de Oruro.
 
 ---
-## Question 6 [D4]
+## Question 6 [D3-D4]
 **ID:** BO-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Estudio de la lengua y comunicación
@@ -166,7 +167,7 @@ Considerando el multilingüismo en Bolivia y los derechos lingüísticos y espec
 ¡Correcto! La Constitución Política del Estado reconoce las lenguas originarias como oficiales para garantizar los derechos culturales y la inclusión de los pueblos. La Constitución boliviana de 2009 consagra el carácter plurinacional y plurilingüe del Estado, otorgando cooficialidad al castellano y a las lenguas de las naciones y pueblos indígenas originarios campesinos. Esto se refleja con claridad al analizar la transmisión oral de las lenguas originarias en la región de Potosí.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** BO-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v7
 **Bloom:** Understand
 **EJE:** Estudio de la lengua y comunicación
@@ -190,7 +191,7 @@ Considerando el multilingüismo en Bolivia y los derechos lingüísticos y espec
 ¡Correcto! La Constitución Política del Estado reconoce las lenguas originarias como oficiales para garantizar los derechos culturales y la inclusión de los pueblos. La Constitución boliviana de 2009 consagra el carácter plurinacional y plurilingüe del Estado, otorgando cooficialidad al castellano y a las lenguas de las naciones y pueblos indígenas originarios campesinos. Esto se refleja con claridad al analizar el significado de nombres de cerros y ríos en lengua nativa en la región de Tarija.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** BO-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v8
 **Bloom:** Understand
 **EJE:** Estudio de la lengua y comunicación
@@ -214,7 +215,7 @@ Considerando el multilingüismo en Bolivia y los derechos lingüísticos y espec
 ¡Correcto! La Constitución Política del Estado reconoce las lenguas originarias como oficiales para garantizar los derechos culturales y la inclusión de los pueblos. La Constitución boliviana de 2009 consagra el carácter plurinacional y plurilingüe del Estado, otorgando cooficialidad al castellano y a las lenguas de las naciones y pueblos indígenas originarios campesinos. Esto se refleja con claridad al analizar la lengua chipaya de los salares en la región de Trinidad.
 
 ---
-## Question 9 [D5]
+## Question 9 [D5-D6]
 **ID:** BO-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Estudio de la lengua y comunicación
@@ -238,7 +239,7 @@ Considerando el multilingüismo en Bolivia y los derechos lingüísticos y espec
 ¡Correcto! La Constitución Política del Estado reconoce las lenguas originarias como oficiales para garantizar los derechos culturales y la inclusión de los pueblos. La Constitución boliviana de 2009 consagra el carácter plurinacional y plurilingüe del Estado, otorgando cooficialidad al castellano y a las lenguas de las naciones y pueblos indígenas originarios campesinos. Esto se refleja con claridad al analizar los cantos tradicionales y poemas en quechua en la región de Cobija.
 
 ---
-## Question 10 [D5]
+## Question 10 [D5-D6]
 **ID:** BO-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Estudio de la lengua y comunicación
@@ -262,7 +263,7 @@ Considerando el multilingüismo en Bolivia y los derechos lingüísticos y espec
 ¡Correcto! La Constitución Política del Estado reconoce las lenguas originarias como oficiales para garantizar los derechos culturales y la inclusión de los pueblos. La Constitución boliviana de 2009 consagra el carácter plurinacional y plurilingüe del Estado, otorgando cooficialidad al castellano y a las lenguas de las naciones y pueblos indígenas originarios campesinos. Esto se refleja con claridad al analizar los derechos de los pueblos indígenas de Bolivia en la región de Viacha.
 
 ---
-## Question 11 [D6]
+## Question 11 [D5-D6]
 **ID:** BO-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Estudio de la lengua y comunicación
@@ -286,7 +287,7 @@ Considerando el multilingüismo en Bolivia y los derechos lingüísticos y espec
 ¡Correcto! La Constitución Política del Estado reconoce las lenguas originarias como oficiales para garantizar los derechos culturales y la inclusión de los pueblos. La Constitución boliviana de 2009 consagra el carácter plurinacional y plurilingüe del Estado, otorgando cooficialidad al castellano y a las lenguas de las naciones y pueblos indígenas originarios campesinos. Esto se refleja con claridad al analizar el derecho a intérprete en lengua nativa en la región de Montero.
 
 ---
-## Question 12 [D6]
+## Question 12 [D5-D6]
 **ID:** BO-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Estudio de la lengua y comunicación
@@ -310,7 +311,7 @@ Considerando el multilingüismo en Bolivia y los derechos lingüísticos y espec
 ¡Correcto! La Constitución Política del Estado reconoce las lenguas originarias como oficiales para garantizar los derechos culturales y la inclusión de los pueblos. La Constitución boliviana de 2009 consagra el carácter plurinacional y plurilingüe del Estado, otorgando cooficialidad al castellano y a las lenguas de las naciones y pueblos indígenas originarios campesinos. Esto se refleja con claridad al analizar avisos públicos en español e idioma originario en la región de Sacaba.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BO-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v13
 **Bloom:** Apply
 **EJE:** Estudio de la lengua y comunicación
@@ -334,7 +335,7 @@ Considerando el multilingüismo en Bolivia y los derechos lingüísticos y espec
 ¡Correcto! La Constitución Política del Estado reconoce las lenguas originarias como oficiales para garantizar los derechos culturales y la inclusión de los pueblos. La Constitución boliviana de 2009 consagra el carácter plurinacional y plurilingüe del Estado, otorgando cooficialidad al castellano y a las lenguas de las naciones y pueblos indígenas originarios campesinos. Esto se refleja con claridad al analizar el himno cantado en lenguas nativas de Bolivia en la región de Quillacollo.
 
 ---
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** BO-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v14
 **Bloom:** Apply
 **EJE:** Estudio de la lengua y comunicación
@@ -358,7 +359,7 @@ Considerando el multilingüismo en Bolivia y los derechos lingüísticos y espec
 ¡Correcto! La Constitución Política del Estado reconoce las lenguas originarias como oficiales para garantizar los derechos culturales y la inclusión de los pueblos. La Constitución boliviana de 2009 consagra el carácter plurinacional y plurilingüe del Estado, otorgando cooficialidad al castellano y a las lenguas de las naciones y pueblos indígenas originarios campesinos. Esto se refleja con claridad al analizar la lengua guarayú en el oriente en la región de Warnes.
 
 ---
-## Question 15 [D7]
+## Question 15 [D7-D8]
 **ID:** BO-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Estudio de la lengua y comunicación
@@ -382,7 +383,7 @@ Considerando el multilingüismo en Bolivia y los derechos lingüísticos y espec
 ¡Correcto! La Constitución Política del Estado reconoce las lenguas originarias como oficiales para garantizar los derechos culturales y la inclusión de los pueblos. La Constitución boliviana de 2009 consagra el carácter plurinacional y plurilingüe del Estado, otorgando cooficialidad al castellano y a las lenguas de las naciones y pueblos indígenas originarios campesinos. Esto se refleja con claridad al analizar la creación de palabras tecnológicas en idioma originario en la región de El Alto.
 
 ---
-## Question 16 [D7]
+## Question 16 [D7-D8]
 **ID:** BO-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Estudio de la lengua y comunicación
@@ -406,7 +407,7 @@ Considerando el multilingüismo en Bolivia y los derechos lingüísticos y espec
 ¡Correcto! La Constitución Política del Estado reconoce las lenguas originarias como oficiales para garantizar los derechos culturales y la inclusión de los pueblos. La Constitución boliviana de 2009 consagra el carácter plurinacional y plurilingüe del Estado, otorgando cooficialidad al castellano y a las lenguas de las naciones y pueblos indígenas originarios campesinos. Esto se refleja con claridad al analizar los sonidos oclusivos y glotalizados particulares en la región de Riberalta.
 
 ---
-## Question 17 [D8]
+## Question 17 [D7-D8]
 **ID:** BO-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v17
 **Bloom:** Analyze
 **EJE:** Estudio de la lengua y comunicación
@@ -430,7 +431,7 @@ Considerando el multilingüismo en Bolivia y los derechos lingüísticos y espec
 ¡Correcto! La Constitución Política del Estado reconoce las lenguas originarias como oficiales para garantizar los derechos culturales y la inclusión de los pueblos. La Constitución boliviana de 2009 consagra el carácter plurinacional y plurilingüe del Estado, otorgando cooficialidad al castellano y a las lenguas de las naciones y pueblos indígenas originarios campesinos. Esto se refleja con claridad al analizar transmisión radial de programas en lenguas indígenas en la región de Yacuiba.
 
 ---
-## Question 18 [D8]
+## Question 18 [D7-D8]
 **ID:** BO-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** Estudio de la lengua y comunicación
@@ -454,7 +455,7 @@ Considerando el multilingüismo en Bolivia y los derechos lingüísticos y espec
 ¡Correcto! La Constitución Política del Estado reconoce las lenguas originarias como oficiales para garantizar los derechos culturales y la inclusión de los pueblos. La Constitución boliviana de 2009 consagra el carácter plurinacional y plurilingüe del Estado, otorgando cooficialidad al castellano y a las lenguas de las naciones y pueblos indígenas originarios campesinos. Esto se refleja con claridad al analizar el uso de idiomas originarios por legisladores en la región de Colcapirhua.
 
 ---
-## Question 19 [D9]
+## Question 19 [D9-D10]
 **ID:** BO-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Estudio de la lengua y comunicación
@@ -478,7 +479,7 @@ Considerando el multilingüismo en Bolivia y los derechos lingüísticos y espec
 ¡Correcto! La Constitución Política del Estado reconoce las lenguas originarias como oficiales para garantizar los derechos culturales y la inclusión de los pueblos. La Constitución boliviana de 2009 consagra el carácter plurinacional y plurilingüe del Estado, otorgando cooficialidad al castellano y a las lenguas de las naciones y pueblos indígenas originarios campesinos. Esto se refleja con claridad al analizar el modelo curricular de la Ley Avelino Siñani en la región de Tupiza.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BO-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Estudio de la lengua y comunicación

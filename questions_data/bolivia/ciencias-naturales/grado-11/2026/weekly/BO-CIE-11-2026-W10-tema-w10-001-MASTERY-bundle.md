@@ -16,9 +16,10 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Reacciones Químicas
@@ -43,7 +44,7 @@ La respuesta correcta es Reacción de síntesis o adición. Científicamente, es
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Reacciones Químicas
@@ -68,7 +69,7 @@ La respuesta correcta es Reacción de descomposición. Científicamente, esto se
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Reacciones Químicas
@@ -93,7 +94,7 @@ La respuesta correcta es Reacción de sustitución simple (desplazamiento). Cien
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Reacciones Químicas
@@ -118,7 +119,7 @@ La respuesta correcta es Reacción de doble sustitución (metátesis). Científi
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Reacciones Químicas
@@ -143,7 +144,7 @@ La respuesta correcta es La ley de conservación de la masa (lavoisier). Cientí
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Reacciones Químicas
@@ -168,7 +169,7 @@ La respuesta correcta es Balanceo por tanteo (inspección). Científicamente, es
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v7
 **Bloom:** Understand
 **EJE:** Reacciones Químicas
@@ -193,7 +194,7 @@ La respuesta correcta es El mol. Científicamente, esto se explica por la cantid
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Reacciones Químicas
@@ -218,7 +219,7 @@ La respuesta correcta es 6.022 x 10^23 moléculas. Científicamente, esto se exp
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Reacciones Químicas
@@ -243,7 +244,7 @@ La respuesta correcta es La masa molar. Científicamente, esto se explica por la
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Reacciones Químicas
@@ -268,7 +269,7 @@ La respuesta correcta es Relación molar estequiométrica. Científicamente, est
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Reacciones Químicas
@@ -293,7 +294,7 @@ La respuesta correcta es Reacción de combustión completa. Científicamente, es
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Reacciones Químicas
@@ -318,7 +319,7 @@ La respuesta correcta es Reacción de combustión incompleta. Científicamente, 
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Reacciones Químicas
@@ -343,7 +344,7 @@ La respuesta correcta es Neutralización ácido-base. Científicamente, esto se 
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v14
 **Bloom:** Apply
 **EJE:** Reacciones Químicas
@@ -368,7 +369,7 @@ La respuesta correcta es Reacción de óxido-reducción (redox). Científicament
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v15
 **Bloom:** Apply
 **EJE:** Reacciones Químicas
@@ -393,7 +394,7 @@ La respuesta correcta es El número de oxidación. Científicamente, esto se exp
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v16
 **Bloom:** Apply
 **EJE:** Reacciones Químicas
@@ -418,7 +419,7 @@ La respuesta correcta es La oxidación. Científicamente, esto se explica por el
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v17
 **Bloom:** Analyze
 **EJE:** Reacciones Químicas
@@ -443,7 +444,7 @@ La respuesta correcta es La reducción. Científicamente, esto se explica por la
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** Reacciones Químicas
@@ -468,7 +469,7 @@ La respuesta correcta es Reactivo limitante. Científicamente, esto se explica p
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Reacciones Químicas
@@ -493,7 +494,7 @@ La respuesta correcta es Rendimiento porcentual. Científicamente, esto se expli
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Reacciones Químicas

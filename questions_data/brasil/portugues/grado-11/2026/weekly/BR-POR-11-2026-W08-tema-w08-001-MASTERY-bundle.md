@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Português: Arcadismo e Romantismo
 **20 perguntas | Português | BNCC Brasil / ENEM 2026**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BR-POR-11-2026-W08-tema-w08-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Estudo do texto literário
@@ -45,7 +46,7 @@ Como é denominada a escola literária do século XVIII (anos 1700), também con
 ### Explicacion Pedagogica
 O Arcadismo (1768-1836) é o movimento poético do Iluminismo. Teve como principal cenário histórico e literário a região de Vila Rica (atual Ouro Preto), em Minas Gerais, onde poetas árcades (como Tomás Antônio Gonzaga e Cláudio Manuel da Costa) escreviam versos pastoris bucólicos simples de pastores fictícios sob pseudônimos clássicos (como Dirceu e Marília).
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BR-POR-11-2026-W08-tema-w08-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Estudo do texto literário
@@ -68,7 +69,7 @@ A primeira geração da poesia romântica brasileira, iniciada oficialmente pela
 ### Explicacion Pedagogica
 A primeira geração da poesia romântica brasileira (Geração Nacionalista ou Indianista) surge logo após a Independência do país em 1822. Ela foca na busca por uma identidade nacional autêntica de prestígio, elegendo o indígena ("o bom selvagem" rousseauniano) como o herói patriótico e a exuberância da floresta tropical brasileira (natureza ufanista) como símbolos sagrados do país.
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BR-POR-11-2026-W08-tema-w08-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Estudo do texto literário
@@ -91,7 +92,7 @@ Nas liras de Dirceu dedicadas à pastora Marília, o poeta Tomás Antônio Gonza
 ### Explicacion Pedagogica
 A lírica amorosa árcade de "Marília de Dirceu" materializa as convenções de simplicidade e equilíbrio pastoril do Neoclassicismo. O amor é filtrado pela razão ("Aurea mediocritas" - equilíbrio de ouro): o pastor Dirceu acena para Marília prometendo uma vida doméstica simples, estável e pacífica no campo, cercado de rebanhos de ovelhas na floresta mineira, distanciando-se de arrebatamentos violentos passionais.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BR-POR-11-2026-W08-tema-w08-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Estudo do texto literário
@@ -114,7 +115,7 @@ Na poesia de Álvares de Azevedo, célebre ultrarromântico de "Lira dos Vinte A
 ### Explicacion Pedagogica
 A segunda geração romântica brasileira (Ultrarromantismo de Álvares de Azevedo e Casimiro de Abreu, influenciada por Byron) é marcada pela dor e tédio existencial (o "Mal do Século"). O jovem poeta foge das cobranças sociais e do trabalho prosaico urbano refugiando-se na infância bucólica simples do passado, na fantasia lúgubre de velórios e na adoração lírica de mulheres inacessíveis puras e intocadas.
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** BR-POR-11-2026-W08-tema-w08-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Estudo do texto literário
@@ -137,7 +138,7 @@ O romance alencariano "Iracema" utiliza de forma brilhante qual estratégia de e
 ### Explicacion Pedagogica
 José de Alencar consagrou-se no Romantismo brasileiro ao construir romances indianistas históricos de grande plasticidade lírica ("Iracema", "O Guarani"). O nome "Iracema" é um anagrama de "América", simbolizando de forma mística a própria terra virgem do Brasil conquistada pelo colonizador Martim. O romance é escrito em prosa poética exuberante, usando abundantes imagens da fauna e flora cearense (metáforas do mel, asa da graúna) para mitificar as origens e a miscigenação do povo brasileiro de forma de lenda de vestibular.
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** BR-POR-11-2026-W08-tema-w08-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Estudo do texto literário
@@ -160,7 +161,7 @@ A poesia condoreira de Castro Alves, o "Poeta dos Escravos", em obras célebres 
 ### Explicacion Pedagogica
 A terceira geração romântica (Condoreirismo de Castro Alves) é influenciada pelo ideal de liberdade do escritor francês Victor Hugo. Castro Alves utiliza a grandiloquência da oratória barroca adaptada a palanques cívicos ("Navio Negreiro", "Vozes d'África"), erguendo imagens de chocar as mentes contra o horror do tráfico negreiro transatlântico de escravizados. Essa poesia engajada de base nacional liberta-se da morbidez íntima juvenil dos ultrarromânticos de velórios, inaugurando a poesia cívica de protesto social e direitos humanos do país.
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** BR-POR-11-2026-W08-tema-w08-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Estudo do texto literário
@@ -183,7 +184,7 @@ Os poetas árcades (como Cláudio Manuel da Costa e Alvarenga Peixoto) exerciam 
 ### Explicacion Pedagogica
 O Arcadismo em Minas Gerais (Vila Rica de 1789) estava estreitamente ligado à Inconfidência Mineira de liberdade civil. Poetas árcades que estudaram em Coimbra (Portugal) trouxeram as ideias liberais e científicas do Iluminismo francês de direitos. Ao adotar pseudônimos bucólicos rústicos pastoris de pastores de ovelhas de ovelhas da Arcádia romana antiga, os intelectuais mineiros expressavam sob rimas polidas clássicas de sonetos as suas duras críticas morais e cívicas à exploração fiscal imperial de Portugal de forma conotativa sofisticada.
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** BR-POR-11-2026-W08-tema-w08-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Estudo do texto literário
@@ -207,7 +208,7 @@ Nesses conhecidos versos patrióticos românticos de Gonçalves Dias, o lirismo 
 ### Explicacion Pedagogica
 A "Canção do Exílio" de Gonçalves Dias de 1843 constitui o pilar lírico do nacionalismo romântico brasileiro de vestibular ( Competência 1). O eu lírico exilado em Coimbra (Portugal) reconstrói a pátria brasileira como um paraíso ecológico ufanista inigualável ("palmeiras", "sabiá"), contrastando o desterro infeliz do "aqui" europeu com a glória espiritual amorosa do "lá" brasileiro de forma rítmica musical simples que influenciou o próprio Hino Nacional do país.
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** BR-POR-11-2026-W08-tema-w08-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Estudo do texto literário
@@ -230,7 +231,7 @@ No slogan promocional do fabricante paulistano, o uso de lemas de estilo pastora
 ### Explicacion Pedagogica
 As campanhas de marketing corporativo contemporâneo de doces e hotéis de luxo paulistanos utilizam de forma estratégica heranças conceituais clássicas do Arcadismo ("Fugere urbem" - escapar do estresse de trânsito e asfalto de São Paulo; "Locus amoenus" - refúgio bucólico do campo). Vender produtos de chocolate fino sugerindo momentos rústicos de pastores na floresta calma de Minas Gerais atua como valioso recurso conativo persuasivo de mídias de alta eficácia nas metrópoles.
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** BR-POR-11-2026-W08-tema-w08-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Estudo do texto literário
@@ -253,7 +254,7 @@ Nas "Cartas Chilenas", o remetente Critilo escreve de forma satírica ao amigo D
 ### Explicacion Pedagogica
 "Cartas Chilenas" é um monumento poético satírico do Arcadismo brasileiro de vestibular. Tomás Antônio Gonzaga (que agia de forma anônima sob o pseudônimo Critilo) utilizava a sátira de costumes refinada neoclássica para desmascarar a corrupção do governador imperial lusa Cunha Menezes (o "Fanfarrão Minésio" de Vila Rica). Esse poema militante e político de Inconfidentes ensina o candidato do ENEM a ler criticamente ironias e figuras de pensamento voltadas contra desvios éticos do poder cívico municipal e colonial no país de vestibular.
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BR-POR-11-2026-W08-tema-w08-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Estudo do texto literário
@@ -276,7 +277,7 @@ Sob a perspectiva descritiva científica das escolas literárias e sua relação
 ### Explicacion Pedagogica
 A transição das escolas literárias revela as transformações das mentalidades históricas do Brasil colonial e imperial de vestibular. Enquanto os árcades do século XVIII ( Gonzaga, Costa) propõem o controle racional das paixões corporais sob lemas pastoris bucólicos simples ("Aurea mediocritas" - equilíbrio de ouro de ovelhas), os ultrarromânticos do século XIX ( Álvares de Azevedo, Casimiro) rompem com as barreiras da razão clássica, mergulhando no individualismo absoluto do eu lírico ("Mal do Século"), na morbidez, no tédio existencial de necrotérios de sono e no refúgio ideal de sentimentos de morte, enriquecendo o estudo de estilística de Letras do país.
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BR-POR-11-2026-W08-tema-w08-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Estudo do texto literário
@@ -300,7 +301,7 @@ Qual tipologia textual rege prioritariamente a leitura da notícia do vestibular
 ### Explicacion Pedagogica
 O boletim de rádio paulistano que informa sobre as regras de leituras obrigatórias da Fuvest de vestibular ("exige o domínio de Marília de Dirceu") apoia-se estruturalmente na tipologia expositiva de notícias jornalísticas ágeis. Transmitir de forma despersonalizada, neutra e com clareza denotativa as exigências da banca corretora de Letras orienta o motorista de táxi e estudantes do trânsito paulistano de forma ágil, prática e de utilidade de exames no país.
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BR-POR-11-2026-W08-tema-w08-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Estudo do texto literário
@@ -324,7 +325,7 @@ Assinale a opção que indica de forma correta a justificativa científica da si
 ### Explicacion Pedagogica
 A primeira geração do Romantismo brasileiro de vestibular (Indianismo de Alencar de 1865) operava com um projeto ideológico de base nacional (BNCC). Para erguer o indígena do Brasil como herói patriótico sublime de prestígio internacional, os românticos se apropriavam de códigos medievais europeus de honra e nobreza moral de cavalaria de Portugal ("Peri se sacrifica com nobreza pelo colonizador Martim"). Esse sincretismo estilístico conotativo permitia que as elites burguesas do Rio de Janeiro se sentissem herdeiras de um passado glorioso de lendas, apagando as mazelas e violências históricas reais da escravidão e invasões agrárias nas florestas brasileiras do país de vestibular.
 
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** BR-POR-11-2026-W08-tema-w08-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Estudo do texto literário
@@ -348,7 +349,7 @@ Sob as propriedades funcionais de gênero e de estilística dos sentimentos do h
 ### Explicacion Pedagogica
 O vestibular brasileiro (BNCC) exige diferenciar a sensibilidade lírica do Neoclassicismo árcade e do Ultrarromantismo. Tomás Antônio Gonzaga de Vila Rica de 1792 filtra o afeto pela razão neoclássica clássica bucólica simples do campo pastoril ("Aurea mediocritas" - equilíbrio de pastores de ovelhas). Álvares de Azevedo de São Paulo de 1853 explode em sentimentos confessionais de dor existencial extrema, morbidez de velórios de necrotérios de sono, tédio individual ("Mal do Século") e idealizações amorosas inacessíveis, traçando as transições de escrita e pensamento lírico do vestibular do país.
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** BR-POR-11-2026-W08-tema-w08-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Estudo do texto literário
@@ -372,7 +373,7 @@ Com base nesse estudo de Letras de vestibular, essa grandiloquência condoreira 
 ### Explicacion Pedagogica
 A terceira geração romântica do Brasil (Condoreirismo de Castro Alves de Salvador de 1868) caracteriza-se por um inteligente e engajado hibridismo poético de mídias (a "estética condoreira"). Castro Alves abandona as lamentações íntimas mórbidas de velórios ultrarromânticas para orquestrar a oratória dramática de palanques cívicos ("Navio Negreiro", "Vozes d'África"). Utilizar hipérboles cósmicas ("Senhor Deus dos desgraçados! Dizei-me vós, Senhor Deus! Se é loucura... se é verdade tanto horror perante os céus!") mobiliza de forma estética, indignada, inclusiva, democrática e persuasiva as consciências dos cidadãos contra o horror moral da escravização africana de classe de engenho de açúcar, provando o valor social contínuo das heranças poéticas cívicas do país no vestibular.
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** BR-POR-11-2026-W08-tema-w08-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Estudo do texto literário
@@ -396,7 +397,7 @@ Na análise descritiva científica das marcas de estilo da prosa de costumes rom
 ### Explicacion Pedagogica
 "Memórias de um Sargento de Milícias" (Manuel Antônio de Almeida de 1852) constitui uma exceção irreverente no Romantismo de vestibular brasileiro. Ao contrário da idealização lírica e solene de heróis indianistas (Peri, Martim) ou do desespero de velórios ultrarromântico, o autor carioca adota a tipologia narrativa coloquial ágil da crônica urbana de costumes de rua, elegendo o primeiro "anti-herói malandro" da literatura nacional (Leonardo). O uso espontâneo de gírias de ruas do Rio imperial de costumes ("mó maneiro", "tá ligado" de época) desmistifica as regras rígidas do classicismo de Portugal de forma irônica de vestibular, antecipando traços de malandragem urbana do país.
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BR-POR-11-2026-W08-tema-w08-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Estudo do texto literário
@@ -419,7 +420,7 @@ Considerando a ciência de Letras de vestibular que analisa criticamente as lira
 ### Explicacion Pedagogica
 O estudo crítico-científico da transição do Arcadismo (Neoclassicismo) para o Romantismo de vestibular brasileiro (BNCC) supera visões mecânicas parnasianas. Analisar as liras de Tomás Antônio Gonzaga desvela a busca ilustrada por equilíbrio moral e liberdade conspiradora sob pseudônimos clássicos bucólicos de pastores de ovelhas de Vila Rica de 1789, ao passo que avaliar as gerações românticas do século XIX revela as dores do eu lírico ("Mal do Século" de Álvares de Azevedo) e a grandiloquência da oratória condoreira hugoana de Castro Alves combatendo de forma cívica a injustiça da escravidão negreira no país de vestibular.
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BR-POR-11-2026-W08-tema-w08-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Estudo do texto literário
@@ -443,7 +444,7 @@ Sob a análise sociolinguística e pedagógica de Letras de vestibular, avalie a
 ### Explicacion Pedagogica
 Censurar Tomás Antônio Gonzaga (o árcade de Vila Rica conspirador de 1789) ou Álvares de Azevedo (o ultrarromântico de São Paulo de 1853) por preconceitos morais familiares modernos desfigura o currículo escolar brasileiro de Letras (BNCC) de vestibular. Analisar o "bucolismo equilibrado de pastores de ovelhas" e o "desajuste sentimental de velórios" ensina o candidato do ENEM a interpretar criticamente ironias complexas, recursos figurados sinestésicos e as nuances estilísticas da dor e beleza humana, legitimando a autonomia pedagógica das escolas de forma inclusiva, democrática e de prestígio no país.
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** BR-POR-11-2026-W08-tema-w08-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Estudo do texto literário
@@ -467,7 +468,7 @@ Considerando essa fundamentação científica de Letras, avalie qual diagnóstic
 ### Explicacion Pedagogica
 A lírica árcade (Neoclassicismo colonial de Vila Rica de 1789) e o Romantismo (Indianismo ufanista imperial de Alencar de 1865) não constituem imitações cegas europeias sem mérito nacional de vestibular. Os poetas árcades ( Gonzaga, Costa) erguem o campo pastoril simples mineiro cercado de rebanhos de ovelhas fictícios ("Locus amoenus") como paraíso de equilíbrio contra a ganância gananciosa fiscal de Portugal de época. Já os românticos ( Alencar, Dias) erguem os heróis indígenas puros (Peri, Iracema) sob o manto de nobres cavaleiros medievais na exuberância da floresta tropical ufanista ("Canção do Exílio" de sabiás) como mito sagrado de pátria livre, consolidando as heranças e transições estéticas do país de vestibular.
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BR-POR-11-2026-W08-tema-w08-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Estudo do texto literário

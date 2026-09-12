@@ -15,6 +15,7 @@ alignment: "MEC Paraguay"
 license: "FREE"
 tier: "legacy"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 creador: "Jules-Agent"
 ---
 
@@ -24,7 +25,7 @@ Este bundle cubre de manera exhaustiva el tema de Biotecnología para el Grado 1
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v1
 **Bloom:** Remember
 **EJE:** Biotecnología y Evolución
@@ -45,7 +46,7 @@ El concepto de La enzima de restricción constituye un fundamento esencial para 
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v2
 **Bloom:** Understand
 **EJE:** Biotecnología y Evolución
@@ -66,7 +67,7 @@ El concepto de La electroforesis en gel constituye un fundamento esencial para c
 
 ---
 
-## Question 3 [D3]
+## Question 3 [D3-D4]
 **ID:** PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v3
 **Bloom:** Remember
 **EJE:** Biotecnología y Evolución
@@ -87,7 +88,7 @@ El concepto de El plásmido constituye un fundamento esencial para comprender lo
 
 ---
 
-## Question 4 [D3]
+## Question 4 [D3-D4]
 **ID:** PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v4
 **Bloom:** Understand
 **EJE:** Biotecnología y Evolución
@@ -108,7 +109,7 @@ El concepto de La ADN ligasa constituye un fundamento esencial para comprender l
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v5
 **Bloom:** Apply
 **EJE:** Biotecnología y Evolución
@@ -129,7 +130,7 @@ El concepto de La reacción en cadena de la polimerasa (PCR) constituye un funda
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v6
 **Bloom:** Understand
 **EJE:** Biotecnología y Evolución
@@ -150,7 +151,7 @@ El concepto de La Taq polimerasa constituye un fundamento esencial para comprend
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v7
 **Bloom:** Apply
 **EJE:** Biotecnología y Evolución
@@ -171,7 +172,7 @@ El concepto de La secuenciación de Sanger constituye un fundamento esencial par
 
 ---
 
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v8
 **Bloom:** Understand
 **EJE:** Biotecnología y Evolución
@@ -192,7 +193,7 @@ El concepto de CRISPR-Cas9 constituye un fundamento esencial para comprender los
 
 ---
 
-## Question 9 [D5]
+## Question 9 [D5-D6]
 **ID:** PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v9
 **Bloom:** Apply
 **EJE:** Biotecnología y Evolución
@@ -213,7 +214,7 @@ El concepto de La electroporación constituye un fundamento esencial para compre
 
 ---
 
-## Question 10 [D5]
+## Question 10 [D5-D6]
 **ID:** PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v10
 **Bloom:** Understand
 **EJE:** Biotecnología y Evolución
@@ -234,7 +235,7 @@ El concepto de Las células madre embrionarias constituye un fundamento esencial
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v11
 **Bloom:** Analyze
 **EJE:** Biotecnología y Evolución
@@ -255,7 +256,7 @@ El concepto de La insulina recombinante constituye un fundamento esencial para c
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v12
 **Bloom:** Apply
 **EJE:** Biotecnología y Evolución
@@ -276,7 +277,7 @@ El concepto de La terapia génica constituye un fundamento esencial para compren
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v13
 **Bloom:** Analyze
 **EJE:** Biotecnología y Evolución
@@ -297,7 +298,7 @@ El concepto de Cultivos Bt resistentes a insectos constituye un fundamento esenc
 
 ---
 
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v14
 **Bloom:** Apply
 **EJE:** Biotecnología y Evolución
@@ -318,7 +319,7 @@ El concepto de Hibridación Southern Blot constituye un fundamento esencial para
 
 ---
 
-## Question 15 [D7]
+## Question 15 [D7-D8]
 **ID:** PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v15
 **Bloom:** Analyze
 **EJE:** Biotecnología y Evolución
@@ -339,7 +340,7 @@ El concepto de Transferencia nuclear de células somáticas constituye un fundam
 
 ---
 
-## Question 16 [D7]
+## Question 16 [D7-D8]
 **ID:** PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v16
 **Bloom:** Apply
 **EJE:** Biotecnología y Evolución
@@ -360,7 +361,7 @@ El concepto de El retrovirus o adenovirus modificado constituye un fundamento es
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v17
 **Bloom:** Evaluate
 **EJE:** Biotecnología y Evolución
@@ -381,7 +382,7 @@ El concepto de La transcriptasa inversa constituye un fundamento esencial para c
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v18
 **Bloom:** Analyze
 **EJE:** Biotecnología y Evolución
@@ -402,7 +403,7 @@ El concepto de El cultivo in vitro de tejidos constituye un fundamento esencial 
 
 ---
 
-## Question 19 [D9]
+## Question 19 [D9-D10]
 **ID:** PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v19
 **Bloom:** Evaluate
 **EJE:** Biotecnología y Evolución
@@ -423,7 +424,7 @@ El concepto de El promotor fuerte (como pCMV) constituye un fundamento esencial 
 
 ---
 
-## Question 20 [D9]
+## Question 20 [D9-D10]
 **ID:** PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v20
 **Bloom:** Analyze
 **EJE:** Biotecnología y Evolución

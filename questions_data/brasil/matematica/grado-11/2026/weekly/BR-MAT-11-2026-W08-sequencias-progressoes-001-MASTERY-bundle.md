@@ -16,9 +16,10 @@ license: FREE
 tier: legacy
 creador: Jules-Agent
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Funções e Álgebra
@@ -37,7 +38,7 @@ O que define uma sequência numérica na matemática?
 ### Explicacion Pedagogica
 Uma sequência numérica é um conjunto de números reais dispostos em uma ordem específica, geralmente denotados por $(a_1, a_2, a_3, ..., a_n, ...)$, onde cada $a_i$ representa um termo da sucessão ocupando a posição $i$.
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Funções e Álgebra
@@ -56,7 +57,7 @@ Na Sequência de Fibonacci $(1, 1, 2, 3, 5, 8, ...)$, como é obtido cada termo 
 ### Explicacion Pedagogica
 A Sequência de Fibonacci é uma sequência recursiva clássica. Após os dois primeiros termos (ambos iguais a 1), cada novo número é a soma dos seus dois antecessores diretos: $1+1=2, 1+2=3, 2+3=5, 3+5=8$, e assim por diante.
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
@@ -75,7 +76,7 @@ Dada a lei de formação $a_n = 3n + 2$, qual é o quarto termo ($a_4$) desta se
 ### Explicacion Pedagogica
 Para encontrar um termo específico em uma sequência definida por uma fórmula geral, substituímos $n$ pela posição desejada. No caso, $a_4 = 3 \cdot 4 + 2 = 14$.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
@@ -94,7 +95,7 @@ Qual é a razão ($r$) da Progressão Aritmética (PA) definida pela sequência 
 ### Explicacion Pedagogica
 Em uma Progressão Aritmética, a razão é a diferença constante entre qualquer termo (a partir do segundo) e seu antecessor: $r = a_2 - a_1 = a_3 - a_2$. Aqui, $12 - 7 = 5$.
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
@@ -113,7 +114,7 @@ Considere a Progressão Geométrica (PG) $(2, 6, 18, 54, ...)$. Qual é a razão
 ### Explicacion Pedagogica
 Em uma Progressão Geométrica, a razão é o quociente constante entre um termo e o seu anterior: $q = a_2 / a_1$. No exemplo: $6 / 2 = 3$.
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
@@ -132,7 +133,7 @@ Seja uma sequência onde $a_1 = 5$ e $a_{n+1} = a_n - 3$. Qual é o terceiro ter
 ### Explicacion Pedagogica
 Trata-se de uma definição recursiva. Partimos de $a_1 = 5$. Aplicamos a regra para achar $a_2$: $5 - 3 = 2$. Aplicamos novamente para achar $a_3$: $2 - 3 = -1$.
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -151,7 +152,7 @@ Numa PA de primeiro termo $a_1 = 10$ e razão $r = 4$, qual é o vigésimo termo
 ### Explicacion Pedagogica
 Usamos a fórmula do termo geral da PA: $a_n = a_1 + (n-1) \cdot r$. Substituindo os valores conhecidos: $a_{20} = 10 + (20-1) \cdot 4 = 10 + 19 \cdot 4 = 10 + 76 = 86$.
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -170,7 +171,7 @@ Dada a PG $(5, 10, 20, ...)$, qual é o sétimo termo ($a_7$)?
 ### Explicacion Pedagogica
 Usamos a fórmula do termo geral da PG: $a_n = a_1 \cdot q^{n-1}$. Aqui $a_1 = 5$ e $q = 10/5 = 2$. Para $n=7$: $a_7 = 5 \cdot 2^{7-1} = 5 \cdot 2^6 = 5 \cdot 64 = 320$.
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -189,7 +190,7 @@ Quantos termos possui a PA finita $(-3, 1, 5, ..., 113)$?
 ### Explicacion Pedagogica
 Identificamos $a_1 = -3$, $r = 1 - (-3) = 4$ e $a_n = 113$. Pela fórmula: $113 = -3 + (n-1) \cdot 4$. Somando 3: $116 = 4(n-1)$. Dividindo por 4: $29 = n - 1$. Logo, $n = 30$.
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v10
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
@@ -208,7 +209,7 @@ Qual é o próximo termo da sequência $(2, 5, 10, 17, 26, ...)$?
 ### Explicacion Pedagogica
 Podemos observar o padrão das diferenças entre termos: $5-2=3, 10-5=5, 17-10=7, 26-17=9$. As diferenças formam uma PA de razão 2. A próxima diferença deve ser 11. Somando ao último termo: $26 + 11 = 37$. Alternativamente, notamos que cada termo é da forma $n^2 + 1$.
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
@@ -229,7 +230,7 @@ Qual é a soma dos 10 primeiros termos da PA $(2, 5, 8, ...)$?
 2) Aplicamos a fórmula da soma: $S_n = \frac{(a_1 + a_n) \cdot n}{2}$.
 3) $S_{10} = \frac{(2 + 29) \cdot 10}{2} = 31 \cdot 5 = 155$.
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
@@ -248,7 +249,7 @@ Determine a soma dos 6 primeiros termos da PG $(3, 6, 12, ...)$.
 ### Explicacion Pedagogica
 Usamos a fórmula da soma da PG finita: $S_n = \frac{a_1(q^n - 1)}{q - 1}$. Com $a_1 = 3$ e $q = 2$: $S_6 = \frac{3(2^6 - 1)}{2 - 1} = \frac{3(64 - 1)}{1} = 3 \cdot 63 = 189$.
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v13
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
@@ -267,7 +268,7 @@ Se os números $(x, x+4, 3x)$ formam, nesta ordem, uma Progressão Aritmética, 
 ### Explicacion Pedagogica
 Em uma PA de três termos, o termo médio é a média aritmética dos extremos: $a_2 = (a_1 + a_3) / 2$. Assim, $x + 4 = (x + 3x) / 2 \Rightarrow x + 4 = 4x / 2 \Rightarrow x + 4 = 2x$. Isolando $x$, temos $x = 4$.
 
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v14
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
@@ -286,7 +287,7 @@ Considere a sequência infinita $(1, 1/2, 1/4, 1/8, ...)$. Qual é o limite da s
 ### Explicacion Pedagogica
 Trata-se de uma PG infinita convergente com $a_1 = 1$ e $q = 1/2$. A fórmula para a soma dos termos de uma PG infinita onde $-1 < q < 1$ é $S = \frac{a_1}{1 - q}$. Aplicando: $S = \frac{1}{1 - 0,5} = \frac{1}{0,5} = 2$.
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
@@ -308,7 +309,7 @@ Seja $(a_n)$ uma PA tal que $a_1 = 2$ e $r = 3$. Seja $(b_n)$ uma PG tal que $b_
 3) Razão da PG: $q = b_2 / b_1 = 14 / 5 = 2,8$.
 4) Terceiro termo da PG: $b_3 = b_2 \cdot q = 14 \cdot 2,8 = 39,2$.
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
@@ -327,7 +328,7 @@ Qual é o produto dos 5 primeiros termos da PG $(2, 4, 8, 16, 32)$?
 ### Explicacion Pedagogica
 Podemos escrever cada termo como uma potência de 2: $2^1, 2^2, 2^3, 2^4, 2^5$. O produto de potências de mesma base é obtido mantendo a base e somando os expoentes: $1 + 2 + 3 + 4 + 5 = 15$. O resultado é $2^{15} = 32768$.
 
-## Question 17 [D8]
+## Question 17 [D7-D8]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v17
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -346,7 +347,7 @@ Se a temperatura inicial é 100°C e cai 4°C por minuto, qual será a temperatu
 ### Explicacion Pedagogica
 O tempo 0 é a1=100. Após 15 minutos, estamos no termo a16. a16 = 100 + 15*(-4) = 100 - 60 = 40°C.
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
@@ -365,7 +366,7 @@ Insira dois meios geométricos entre 3 e 24. Qual é o valor do segundo termo da
 ### Explicacion Pedagogica
 Temos a1=3 e a4=24. 24 = 3 * q^3 => q^3 = 8 => q = 2. A PG é (3, 6, 12, 24). O segundo termo é 6.
 
-## Question 19 [D9]
+## Question 19 [D9-D10]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
@@ -384,7 +385,7 @@ Uma aplicação de R\$ 1.000,00 rende 10\% ao mês. Qual é o montante acumulado
 ### Explicacion Pedagogica
 Usamos PG com a1=1000 e q=1,1. O montante após 3 meses é o termo a4 = 1000 * (1,1)^3 = 1000 * 1,331 = 1331.
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BR-MAT-11-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra

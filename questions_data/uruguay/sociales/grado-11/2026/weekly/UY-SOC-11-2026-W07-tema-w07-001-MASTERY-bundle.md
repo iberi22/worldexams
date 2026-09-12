@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Ciencias Sociales: La crisis de 1929 y el terrismo en Uruguay (W07)
 **20 preguntas | Ciencias Sociales | ANEP - Plan 2006 Reformulación / Programa Ubicación**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** UY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Social
@@ -46,7 +47,7 @@ bundle_index: 1
 La identificación precisa de La caída de los precios internacionales de la carne permite comprender el impacto del crack de Wall Street en el país dentro del proceso de el impacto de la crisis del 29 en el agro. Su rol histórico está plenamente documentado en los programas de estudio de la enseñanza media superior (ANEP).
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** UY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Social
@@ -70,7 +71,7 @@ La identificación precisa de La caída de los precios internacionales de la car
 La identificación precisa de El golpe de Estado de Gabriel Terra en 1933 permite comprender la disolución del Parlamento y el Consejo Nacional dentro del proceso de el golpe de Estado de Gabriel Terra de 1933. Su rol histórico está plenamente documentado en los programas de estudio de la enseñanza media superior (ANEP).
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** UY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -94,7 +95,7 @@ Si analizás la trascendencia de este suceso, ¿cómo se explica la relación ca
 La relación entre La Constitución de 1934 y el fin del colegiado y centralización ejecutiva es un eje vertebral para comprender la Constitución terrista de 1934. Su estudio demuestra cómo los factores estructurales del período sentaron las condiciones para los cambios políticos o sociales subsiguientes.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** UY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -118,7 +119,7 @@ Si analizás la trascendencia de este suceso, ¿cómo se explica la relación ca
 La relación entre El plebiscito de Cerro Chato de 1927 y voto general de 1938 y el ejercicio efectivo del sufragio por la mujer es un eje vertebral para comprender el voto femenino ejercido por primera vez. Su estudio demuestra cómo los factores estructurales del período sentaron las condiciones para los cambios políticos o sociales subsiguientes.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** UY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -142,7 +143,7 @@ Si analizás la trascendencia de este suceso, ¿cómo se explica la relación ca
 La relación entre La represión a opositores y el exilio de líderes y el autoritarismo del régimen de Gabriel Terra es un eje vertebral para comprender la represión terrista y el exilio político. Su estudio demuestra cómo los factores estructurales del período sentaron las condiciones para los cambios políticos o sociales subsiguientes.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** UY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -166,7 +167,7 @@ Si analizás la trascendencia de este suceso, ¿cómo se explica la relación ca
 La relación entre La industrialización por sustitución de importaciones y el fomento de las manufacturas locales de consumo es un eje vertebral para comprender el surgimiento de la sustitución de importaciones. Su estudio demuestra cómo los factores estructurales del período sentaron las condiciones para los cambios políticos o sociales subsiguientes.
 
 ---
-## Question 7 [D6]
+## Question 7 [D5-D6]
 **ID:** UY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -190,7 +191,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de La alianza entre terristas y herreristas conservadores revela que la alianza conservadora 'marzo-terrista' no fue un mero debate teórico, sino un proceso real que estructuró la base política de la dictadura de Terra, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** UY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -214,7 +215,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de El 'golpe bueno' de Alfredo Baldomir en 1942 revela que el golpe de Estado de Alfredo Baldomir (golpe bueno) no fue un mero debate teórico, sino un proceso real que estructuró el retorno progresivo a la normalidad democrática, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** UY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -238,7 +239,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de La neutralidad inicial y posterior apoyo a los Aliados revela que la posición de Uruguay en la Segunda Guerra Mundial no fue un mero debate teórico, sino un proceso real que estructuró la diplomacia uruguaya en el conflicto bélico, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** UY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -262,7 +263,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de La creación de CONAPROLE revela que la creación de CONAPROLE en 1936 no fue un mero debate teórico, sino un proceso real que estructuró la regulación estatal del mercado lácteo nacional, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** UY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -286,7 +287,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de La caída de los precios internacionales de la carne revela que el impacto de la crisis del 29 en el agro no fue un mero debate teórico, sino un proceso real que estructuró el impacto del crack de Wall Street en el país, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** UY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -310,7 +311,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de El golpe de Estado de Gabriel Terra en 1933 revela que el golpe de Estado de Gabriel Terra de 1933 no fue un mero debate teórico, sino un proceso real que estructuró la disolución del Parlamento y el Consejo Nacional, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 13 [D8]
+## Question 13 [D7-D8]
 **ID:** UY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Análisis de Perspectivas
@@ -334,7 +335,7 @@ La aplicación práctica de El golpe de Estado de Gabriel Terra en 1933 revela q
 El análisis crítico de La Constitución de 1934 demuestra que la Constitución terrista de 1934 devela fuertes asimetrías de poder. Mientras que un sector consolidaba el fin del colegiado y centralización ejecutiva, otros grupos sociales experimentaban severas limitaciones, dinamizando el conflicto político uruguayo.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** UY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Análisis de Perspectivas
@@ -358,7 +359,7 @@ El análisis crítico de La Constitución de 1934 demuestra que la Constitución
 El análisis crítico de El plebiscito de Cerro Chato de 1927 y voto general de 1938 demuestra que el voto femenino ejercido por primera vez devela fuertes asimetrías de poder. Mientras que un sector consolidaba el ejercicio efectivo del sufragio por la mujer, otros grupos sociales experimentaban severas limitaciones, dinamizando el conflicto político uruguayo.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** UY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Análisis de Perspectivas
@@ -382,7 +383,7 @@ El análisis crítico de El plebiscito de Cerro Chato de 1927 y voto general de 
 El análisis crítico de La represión a opositores y el exilio de líderes demuestra que la represión terrista y el exilio político devela fuertes asimetrías de poder. Mientras que un sector consolidaba el autoritarismo del régimen de Gabriel Terra, otros grupos sociales experimentaban severas limitaciones, dinamizando el conflicto político uruguayo.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** UY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Análisis de Perspectivas
@@ -406,7 +407,7 @@ El análisis crítico de La represión a opositores y el exilio de líderes demu
 El análisis crítico de La industrialización por sustitución de importaciones demuestra que el surgimiento de la sustitución de importaciones devela fuertes asimetrías de poder. Mientras que un sector consolidaba el fomento de las manufacturas locales de consumo, otros grupos sociales experimentaban severas limitaciones, dinamizando el conflicto político uruguayo.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** UY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -430,7 +431,7 @@ Al juzgar de manera integral el alcance histórico de La alianza entre terristas
 La evaluación crítica de la alianza conservadora 'marzo-terrista' destaca el rol estructurador de La alianza entre terristas y herreristas conservadores en la configuración de la base política de la dictadura de Terra. Su estudio integral permite ponderar los aciertos, contradicciones y el legado institucional que perdura hasta el Uruguay contemporáneo.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** UY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -454,7 +455,7 @@ Al juzgar de manera integral el alcance histórico de El 'golpe bueno' de Alfred
 La evaluación crítica de el golpe de Estado de Alfredo Baldomir (golpe bueno) destaca el rol estructurador de El 'golpe bueno' de Alfredo Baldomir en 1942 en la configuración de el retorno progresivo a la normalidad democrática. Su estudio integral permite ponderar los aciertos, contradicciones y el legado institucional que perdura hasta el Uruguay contemporáneo.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** UY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -478,7 +479,7 @@ Al juzgar de manera integral el alcance histórico de La neutralidad inicial y p
 La evaluación crítica de la posición de Uruguay en la Segunda Guerra Mundial destaca el rol estructurador de La neutralidad inicial y posterior apoyo a los Aliados en la configuración de la diplomacia uruguaya en el conflicto bélico. Su estudio integral permite ponderar los aciertos, contradicciones y el legado institucional que perdura hasta el Uruguay contemporáneo.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** UY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social

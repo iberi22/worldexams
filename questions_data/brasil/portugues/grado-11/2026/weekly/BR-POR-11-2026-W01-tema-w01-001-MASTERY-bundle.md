@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Português: Tema W01
 **20 perguntas | Português | BNCC Brasil / ENEM 2026**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Estudo dos aspectos linguísticos
@@ -45,7 +46,7 @@ Qual função da linguagem é caracterizada pelo foco no canal de comunicação,
 ### Explicacion Pedagogica
 A função fática tem como objetivo testar o canal de comunicação, garantindo que a transmissão da mensagem ocorra sem interferências e que o contato seja estabelecido ou mantido.
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Estudo dos aspectos linguísticos
@@ -68,7 +69,7 @@ Assinale a alternativa que indica corretamente o elemento da comunicação no qu
 ### Explicacion Pedagogica
 A função metalinguística se refere ao uso do código linguístico para falar de si mesmo. Um exemplo clássico são os dicionários ou gramáticas, onde o português explica termos do próprio português.
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Estudo dos aspectos linguísticos
@@ -91,7 +92,7 @@ No áudio, a jovem diz: "Eu estou tão feliz que meu coração parece que vai ex
 ### Explicacion Pedagogica
 A função emotiva (ou expressiva) ocorre quando o ato comunicativo se centra no próprio emissor, exteriorizando sentimentos pessoais, emoções e estados de espírito por meio de interjeições, exclamações e primeira pessoa.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Estudo dos aspectos linguísticos
@@ -114,7 +115,7 @@ Considerando os propósitos da campanha, identifique a função de linguagem que
 ### Explicacion Pedagogica
 A função apelativa ou conativa tem como objetivo principal persuadir, ordenar ou influenciar o comportamento do receptor da mensagem. É comum o uso de pronomes de segunda pessoa ("sua") e verbos no imperativo ("dirija", "proteja").
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Estudo dos aspectos linguísticos
@@ -138,7 +139,7 @@ Nesse parágrafo, predomina a função da linguagem:
 ### Explicacion Pedagogica
 A função referencial (ou denotativa/informativa) centra-se no referente (contexto). Ela se caracteriza pela objetividade, impessoalidade, foco na informação real e pelo uso predominante da linguagem em sentido denotativo.
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Estudo dos aspectos linguísticos
@@ -162,7 +163,7 @@ Nesse trecho poético do romance, a função da linguagem que se sobrepõe é a:
 ### Explicacion Pedagogica
 A função poética manifesta-se quando a atenção está voltada para a própria mensagem, ou seja, para a seleção, arranjo e elaboração das palavras, criando efeitos de sentido estéticos e conotativos.
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Estudo dos aspectos linguísticos
@@ -185,7 +186,7 @@ Assinale a alternativa que explica corretamente o papel dos elementos comunicati
 ### Explicacion Pedagogica
 A função fática foca no canal. Na fala coloquial diária, expressões como saudações, interrupções e pedidos de confirmação de escuta servem apenas para certificar que o meio de comunicação está funcionando.
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Estudo dos aspectos linguísticos
@@ -209,7 +210,7 @@ Nesse verso, observa-se uma rica interseção entre duas funções da linguagem.
 ### Explicacion Pedagogica
 As funções da linguagem raramente ocorrem isoladas. No cordel citado, a função metalinguística está presente na autodefinição do gênero ("O cordel é..."), enquanto a função poética cuida da forma métrica, das rimas e do ritmo estético do próprio enunciado.
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Estudo dos aspectos linguísticos
@@ -232,7 +233,7 @@ A análise estilística e pragmática do anúncio acima permite concluir que a m
 ### Explicacion Pedagogica
 A publicidade combina frequentemente a função apelativa (persuasão para compra) com a função poética (mensagens criativas, ritmadas, com analogias subjetivas), buscando gerar conexões sentimentais positivas em torno da marca.
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Estudo dos aspectos linguísticos
@@ -255,7 +256,7 @@ Nessa postagem pessoal, as duas funções de linguagem que agem de maneira integ
 ### Explicacion Pedagogica
 Status pessoais de redes sociais carregam uma expressiva função emotiva (subjetividade do eu) que é frequentemente potencializada pela função poética (uso de figuras de linguagem como a personificação do silêncio).
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Estudo dos aspectos linguísticos
@@ -279,7 +280,7 @@ Assinale a opção que indica a função de linguagem que se destaca na constru�
 ### Explicacion Pedagogica
 Mesmo em resenhas críticas, a linguagem pode assumir forte função poética quando o autor elabora o estilo do seu próprio texto com recursos líricos e sensoriais para evocar a atmosfera das obras de arte analisadas.
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Estudo dos aspectos linguísticos
@@ -303,7 +304,7 @@ Nesse alerta de trânsito, as funções linguísticas que atuam de forma dominan
 ### Explicacion Pedagogica
 Em alertas de utilidade pública, a função conativa (apelativa) se manifesta como dominante, pois o objetivo primeiro é ordenar uma ação coletiva ("Evitem o trecho"). A função referencial dá suporte, trazendo os dados concretos do contexto que justificam essa ordem de desvio de tráfego.
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Estudo dos aspectos linguísticos
@@ -327,7 +328,7 @@ Considerando a estrutura desse verbete, analise a afirmação correta sobre a or
 ### Explicacion Pedagogica
 A metalinguagem é a propriedade que permite ao código descrever as próprias características do código. Verbetes de dicionário, explicações gramaticais e ensaios linguísticos são os exemplos mais puros dessa função.
 
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Estudo dos aspectos linguísticos
@@ -350,7 +351,7 @@ Nesse conhecido poema-manifesto do Modernismo brasileiro, as funções da lingua
 ### Explicacion Pedagogica
 A literatura modernista frequentemente reúne as funções poética, metalinguística e emotiva. O autor faz poesia para falar sobre as regras da própria poesia, rompendo padrões antigos e expressando sua revolta de forma densa e criativa.
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Estudo dos aspectos linguísticos
@@ -374,7 +375,7 @@ Com base na crônica, analise a finalidade pragmática do "tudo bem?" e aponte a
 ### Explicacion Pedagogica
 A faticidade da linguagem é essencial para as convenções sociais de aproximação. Fórmulas de cortesia como "Bom dia!", "Tudo bem?", "Até logo!" atuam para certificar a disposição comunicativa dos agentes sociais, lubrificando as relações cotidianas antes ou sem a necessidade de passagem de conteúdo relevante.
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Estudo dos aspectos linguísticos
@@ -398,7 +399,7 @@ Analisando esse uso dos emojis sob a ótica das funções da linguagem, conclui-
 ### Explicacion Pedagogica
 Emojis na escrita digital cumprem a função emotiva de marcar as pistas não-verbais de entonação e afeto do emissor que seriam perdidas no texto plano. Também dinamizam a função fática, mantendo o fluxo da interação eletrônica dinâmico e amigável.
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Estudo dos aspectos linguísticos
@@ -421,7 +422,7 @@ Avalie criticamente a fala do candidato e determine as funções da linguagem qu
 ### Explicacion Pedagogica
 Discursos políticos e debates unem a função emotiva (subjetividade indignada ou apaixonada do orador) à função apelativa ou conativa (persuadir os eleitores a adotarem determinado ponto de vista ou voto). O tom enfático, os adjetivos de forte impacto e o foco no convencimento moldam essa dinâmica pragmática.
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Estudo dos aspectos linguísticos
@@ -445,7 +446,7 @@ Com base nessa análise, avalie qual distorção das funções da linguagem ocor
 ### Explicacion Pedagogica
 As manchetes "caça-cliques" (clickbait) representam uma quebra da ética jornalística ao usar recursos apelativos e sensacionalistas para forçar o clique do usuário (ação do receptor - conativa). A função referencial (informativa) é relegada a segundo plano ou distorcida para criar suspense artificial.
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Estudo dos aspectos linguísticos
@@ -469,7 +470,7 @@ Considerando essa perspectiva teórica jakobsoniana, avalie a afirmação corret
 ### Explicacion Pedagogica
 Roman Jakobson destaca que as mensagens dificilmente servem a apenas uma única função. A riqueza de um texto artístico reside na sua multifuncionalidade, na qual a função poética exerce a liderança estética (dominante) sem silenciar os apelos secundários (emotivo, metalinguístico, referencial).
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Estudo dos aspectos linguísticos

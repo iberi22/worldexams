@@ -13,6 +13,7 @@ total_questions: 20
 bundle_size: 20
 alignment: "SEP NEM Mexico 2026 / EXANI-II pensamiento matematico"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -41,7 +42,7 @@ creador: "Jules-Agent"
 ### Explicacion Pedagogica
 Por definición, una relación f del conjunto A en el conjunto B es una función si y solo si para cada elemento x en el conjunto A (dominio) existe un único elemento y en el conjunto B (codominio o rango) tal que f(x) = y.
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Matemático
@@ -87,7 +88,7 @@ Determina el dominio de la función real f(x) = 10 / (x - 3).
 ### Explicacion Pedagogica
 El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 3), planteamos la restricción: x - 3 ≠ 0 => x ≠ 3.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -133,7 +134,7 @@ Determina el dominio de la función real f(x) = 10 / (x - 5).
 ### Explicacion Pedagogica
 El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 5), planteamos la restricción: x - 5 ≠ 0 => x ≠ 5.
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -179,7 +180,7 @@ Determina el dominio de la función real f(x) = 10 / (x - 7).
 ### Explicacion Pedagogica
 El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 7), planteamos la restricción: x - 7 ≠ 0 => x ≠ 7.
 
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -225,7 +226,7 @@ Determina el dominio de la función real f(x) = 10 / (x - 9).
 ### Explicacion Pedagogica
 El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 9), planteamos la restricción: x - 9 ≠ 0 => x ≠ 9.
 
-## Question 10 [D5]
+## Question 10 [D5-D6]
 **ID:** MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -271,7 +272,7 @@ Determina el dominio de la función real f(x) = 10 / (x - 11).
 ### Explicacion Pedagogica
 El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 11), planteamos la restricción: x - 11 ≠ 0 => x ≠ 11.
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -317,7 +318,7 @@ Determina el dominio de la función real f(x) = 10 / (x - 13).
 ### Explicacion Pedagogica
 El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 13), planteamos la restricción: x - 13 ≠ 0 => x ≠ 13.
 
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Pensamiento Matemático
@@ -363,7 +364,7 @@ Determina el dominio de la función real f(x) = 10 / (x - 15).
 ### Explicacion Pedagogica
 El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 15), planteamos la restricción: x - 15 ≠ 0 => x ≠ 15.
 
-## Question 16 [D7]
+## Question 16 [D7-D8]
 **ID:** MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Pensamiento Matemático
@@ -409,7 +410,7 @@ Determina el dominio de la función real f(x) = 10 / (x - 17).
 ### Explicacion Pedagogica
 El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 17), planteamos la restricción: x - 17 ≠ 0 => x ≠ 17.
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático
@@ -455,7 +456,7 @@ Determina el dominio de la función real f(x) = 10 / (x - 19).
 ### Explicacion Pedagogica
 El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 19), planteamos la restricción: x - 19 ≠ 0 => x ≠ 19.
 
-## Question 20 [D9]
+## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático

@@ -15,6 +15,7 @@ alignment: "MEC - Plan Común / SNEPE"
 license: "FREE"
 tier: "legacy"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 creador: "Jules-Agent"
 ---
 
@@ -22,7 +23,7 @@ creador: "Jules-Agent"
 **20 preguntas | Ciencias Sociales | MEC - Plan Común / SNEPE**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Historia del Paraguay del siglo XIX
@@ -45,7 +46,7 @@ creador: "Jules-Agent"
 El proceso emancipatorio paraguayo de mayo de 1811 culminó de forma incruenta con el derrocamiento de la autoridad colonial española representada por el gobernador Velasco.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Historia del Paraguay del siglo XIX
@@ -68,7 +69,7 @@ El proceso emancipatorio paraguayo de mayo de 1811 culminó de forma incruenta c
 El Dr. José Gaspar Rodríguez de Francia, conocido popularmente como 'El Supremo', gobernó el país con mano de hierro asegurando la soberanía ante pretensiones porteñas.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Historia del Paraguay del siglo XIX
@@ -91,7 +92,7 @@ El Dr. José Gaspar Rodríguez de Francia, conocido popularmente como 'El Suprem
 El aislamiento paraguayo francista fue una respuesta de autodefensa geopolítica ante la hostilidad de Buenos Aires, que bloqueaba la navegación del río Paraná.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Historia del Paraguay del siglo XIX
@@ -114,7 +115,7 @@ El aislamiento paraguayo francista fue una respuesta de autodefensa geopolítica
 Las 'Estancias de la Patria' conformaban la espina dorsal del modelo económico francista, un sistema con fuerte intervención estatal que evitó hambrunas y garantizó el consumo popular.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Historia del Paraguay del siglo XIX
@@ -137,7 +138,7 @@ Las 'Estancias de la Patria' conformaban la espina dorsal del modelo económico 
 El Reglamento de 1813 organizó al Paraguay bajo un Consulado compuesto por el Dr. Francia y el militar Fulgencio Yegros, declarando formalmente el estatus de República.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Historia del Paraguay del siglo XIX
@@ -160,7 +161,7 @@ El Reglamento de 1813 organizó al Paraguay bajo un Consulado compuesto por el D
 El Dr. Francia consolidó su poder de base popular neutralizando social y económicamente a la aristocracia de origen peninsular mediante confiscaciones y restricciones nupciales.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Historia del Paraguay del siglo XIX
@@ -183,7 +184,7 @@ El Dr. Francia consolidó su poder de base popular neutralizando social y econó
 Las victorias militares de Paraguarí y Tacuarí depararon consecuencias políticas de primer orden, pues infundieron en los oficiales paraguayos (Yegros, Cabañas, etc.) la convicción de valerse por sí mismos.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Historia del Paraguay del siglo XIX
@@ -206,7 +207,7 @@ Las victorias militares de Paraguarí y Tacuarí depararon consecuencias políti
 La política de aislamiento toleró un comercio muy reducido y vigilado por el Estado en el puerto fluvial de Itapúa para adquirir armas y útiles de hierro esenciales para el Paraguay.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Historia del Paraguay del siglo XIX
@@ -229,7 +230,7 @@ A diferencia del convulsionado escenario de guerras civiles y caudillismos armad
 La paz y estabilidad interna permitieron que el campesinado produjera alimentos sin temor a saqueos de montoneras, consolidando una soberanía alimentaria de base popular.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Historia del Paraguay del siglo XIX
@@ -252,7 +253,7 @@ La paz y estabilidad interna permitieron que el campesinado produjera alimentos 
 La desarticulación de la conspiración de 1820 representó la liquidación política de la facción militar criolla de la independencia paraguaya.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Historia del Paraguay del siglo XIX
@@ -275,7 +276,7 @@ Al analizar las medidas económicas y sociales aplicadas por el Dr. Francia, ¿p
 El Dr. Francia basó la legitimidad de su dictadura en el campesinado paraguayo, debilitando a los grupos de propietarios tradicionales de Asunción y a los comerciantes monopolistas.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Historia del Paraguay del siglo XIX
@@ -298,7 +299,7 @@ La destitución definitiva del gobernador español Bernardo de Velasco por parte
 El temor a caer bajo la dominación luso-brasileña unió a los patriotas para forzar la salida definitiva de Velasco del gobierno paraguayo.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Historia del Paraguay del siglo XIX
@@ -321,7 +322,7 @@ El temor a caer bajo la dominación luso-brasileña unió a los patriotas para f
 El Tratado de octubre de 1811 consagró momentáneamente la autonomía paraguaya frente al puerto de Buenos Aires, sirviendo de baluarte legal de la independencia.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Historia del Paraguay del siglo XIX
@@ -344,7 +345,7 @@ El Tratado de octubre de 1811 consagró momentáneamente la autonomía paraguaya
 La sólida formación ilustrada del Dr. Francia moldeó su visión pragmática del Estado y la defensa intransigente de la independencia nacional paraguaya.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Historia del Paraguay del siglo XIX
@@ -367,7 +368,7 @@ La supresión definitiva de las órdenes monásticas coloniales y la confiscaci�
 La reforma eclesiástica de 1824 puso fin a la autonomía de la Iglesia en Paraguay, asimilando su estructura a las necesidades de defensa y subsistencia del Estado soberano.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Historia del Paraguay del siglo XIX
@@ -390,7 +391,7 @@ Al analizar la política sociocultural de la época francista, ¿qué factor ind
 El aislamiento francista propició un espacio sociocultural endógeno donde el guaraní floreció como la lengua unificadora de identidad paraguaya.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Historia del Paraguay del siglo XIX
@@ -413,7 +414,7 @@ Al evaluar críticamente las facetas contrapuestas de la dictadura del Dr. Franc
 El análisis histórico del Dr. Francia requiere ponderar la severidad autoritaria de su dictadura militar con los resultados de supervivencia estatal republicana paraguaya.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Historia del Paraguay del siglo XIX
@@ -436,7 +437,7 @@ Al juzgar de manera integral el aislamiento francista, ¿qué ventaja estratégi
 El aislamiento paraguayo fue una respuesta defensiva que garantizó la supervivencia del Estado republicano frente a las pretensiones de unificación de las provincias platenses.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Historia del Paraguay del siglo XIX
@@ -459,7 +460,7 @@ Al evaluar críticamente el conflicto político e ideológico subyacente entre e
 La eliminación represiva de los conspiradores de 1820 consolidó un modelo de campesinos arrendatarios del Estado sin hegemonía latifundista tradicional criolla.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Historia del Paraguay del siglo XIX

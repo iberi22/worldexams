@@ -16,9 +16,10 @@ license: FREE
 tier: legacy
 creador: Jules-Agent
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Funções e Álgebra
@@ -37,7 +38,7 @@ Qual é a forma geral de uma função afim (ou função do 1º grau)?
 ### Explicacion Pedagogica
 Uma função afim é definida por uma lei de formação do tipo $f(x) = ax + b$, onde $a$ e $b$ são números reais e $a \neq 0$ para que a função seja estritamente do 1º grau. O gráfico resultante é sempre uma linha reta.
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Funções e Álgebra
@@ -56,7 +57,7 @@ Na função afim $f(x) = ax + b$, o coeficiente $b$ representa o ponto onde a re
 ### Explicacion Pedagogica
 O coeficiente linear $b$ indica o valor da função quando $x=0$. Geometricamente, isso corresponde ao ponto exato onde a reta cruza o eixo vertical ($y$).
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
@@ -75,7 +76,7 @@ Dada a função $f(x) = -2x + 10$, qual é a raiz (ou zero) desta função?
 ### Explicacion Pedagogica
 A raiz de uma função é o valor de $x$ que faz $f(x) = 0$. Resolvendo $-2x + 10 = 0$, temos $-2x = -10$, logo $x = 5$.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
@@ -94,7 +95,7 @@ Sobre a função $f(x) = 3x - 4$, é correto afirmar que ela é:
 ### Explicacion Pedagogica
 O comportamento de crescimento ou decrescimento de uma função afim depende exclusivamente do sinal do coeficiente angular $a$. Se $a > 0$, a função é crescente. Se $a < 0$, a função é decrescente.
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
@@ -113,7 +114,7 @@ Uma reta passa pelos pontos $A(1, 5)$ e $B(3, 9)$. Qual é o coeficiente angular
 ### Explicacion Pedagogica
 O coeficiente angular ($a$ ou $m$) mede a taxa de variação da função. É calculado pela razão entre a variação em $y$ e a variação em $x$: $a = \frac{\Delta y}{\Delta x} = \frac{y_B - y_A}{x_B - x_A}$.
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
@@ -132,7 +133,7 @@ O custo mensal $C$ de um plano de celular é dado por $C(x) = 35 + 0,50x$, onde 
 ### Explicacion Pedagogica
 Substituímos $x = 100$ na função custo: $C(100) = 35 + 0,5 \cdot 100$. Calculando o produto primeiro: $0,5 \cdot 100 = 50$. Somando à taxa fixa: $35 + 50 = 85$.
 
-## Question 7 [D6]
+## Question 7 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -151,7 +152,7 @@ Um tanque contém 5000 litros de água e é esvaziado à razão de 200 litros po
 ### Explicacion Pedagogica
 O volume inicial ($b$) é 5000. Como a água está saindo, a taxa de variação ($a$) é negativa, igual a $-200$. Assim, a lei da função é $V(t) = -200t + 5000$.
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -170,7 +171,7 @@ A posição de um objeto em movimento é dada por $S(t) = 12 + 4t$ (unidades no 
 ### Explicacion Pedagogica
 Igualamos a função à posição desejada: $40 = 12 + 4t$. Subtraímos 12 de ambos os lados: $28 = 4t$. Dividindo por 4, encontramos $t = 7$ segundos.
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -189,7 +190,7 @@ O lucro $L$ de um evento é dado por $L(x) = 40x - 2000$, onde $x$ é a quantida
 ### Explicacion Pedagogica
 Para que o lucro seja zero, fazemos $40x - 2000 = 0$. Isso resulta em $40x = 2000$. Dividindo 2000 por 40, obtemos $x = 50$ ingressos.
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -208,7 +209,7 @@ Determine a lei da função afim cujo gráfico passa pelos pontos $(0, 3)$ e $(2
 ### Explicacion Pedagogica
 O ponto $(0, 3)$ nos dá diretamente o coeficiente linear $b = 3$. O coeficiente angular $a$ é calculado pela variação: $a = (7 - 3) / (2 - 0) = 4 / 2 = 2$. Assim, $f(x) = 2x + 3$.
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -227,7 +228,7 @@ Duas retas no plano cartesiano, representadas pelas funções $f(x) = 2x + 5$ e 
 ### Explicacion Pedagogica
 Para encontrar o ponto de interseção, igualamos as funções: $2x + 5 = -x + 11$. Somando $x$ e subtraindo 5: $3x = 6 \Rightarrow x = 2$. Substituindo $x=2$ em qualquer uma das funções: $f(2) = 2(2) + 5 = 9$. O ponto é $(2, 9)$.
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -246,7 +247,7 @@ Uma função afim é tal que $f(1) = 4$ e $f(-2) = 10$. Qual é o valor de $f(0)
 ### Explicacion Pedagogica
 Primeiro achamos o coeficiente angular: $a = \frac{10 - 4}{-2 - 1} = \frac{6}{-3} = -2$. Agora usamos $f(1)=4$ para achar $b$: $4 = -2(1) + b \Rightarrow b = 6$. Como $f(0) = b$, o resultado é 6.
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
@@ -265,7 +266,7 @@ Se o gráfico de uma função afim $f(x) = ax + b$ corta o eixo $x$ em um valor 
 ### Explicacion Pedagogica
 O coeficiente $b$ é a interceptação em $y$, logo $b < 0$. A raiz é $-b/a$. Para que $-b/a > 0$, dado que $b$ é negativo, o valor de $a$ deve ser positivo (positivo / positivo = positivo). Portanto, a função é crescente.
 
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
@@ -284,7 +285,7 @@ O fundo A cobra R\$ 100,00 de taxa fixa mais 1\% do valor investido. O fundo B c
 ### Explicacion Pedagogica
 Montamos a equação de igualdade: $100 + 0,01x = 50 + 0,02x$. Isolando $x$: $100 - 50 = 0,02x - 0,01x$. Temos $50 = 0,01x$. Multiplicando ambos os lados por 100, obtemos $x = 5000$.
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
@@ -303,7 +304,7 @@ Sabendo que $0^\circ$C corresponde a $32^\circ$F e $100^\circ$C corresponde a $2
 ### Explicacion Pedagogica
 Calculamos o coeficiente angular: $a = \frac{212 - 32}{100 - 0} = \frac{180}{100} = 1,8$. Como $0^\circ$C é o valor inicial no eixo das abscissas, $b = 32$. Assim, $F = 1,8C + 32$ ou $F = \frac{9}{5}C + 32$.
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
@@ -322,7 +323,7 @@ Se a função demanda de um produto é $D(p) = 400 - 5p$, onde $p$ é o preço, 
 ### Explicacion Pedagogica
 Para que a demanda seja positiva, devemos ter $400 - 5p > 0$. Resolvendo a inequação: $400 > 5p$, o que implica $p < 80$. Portanto, o preço deve ser estritamente menor que R\$ 80,00.
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
@@ -341,7 +342,7 @@ Considere $f(x) = ax + b$. Se $f(f(x)) = 4x + 9$, quais são os possíveis valor
 ### Explicacion Pedagogica
 $f(f(x)) = a(ax+b) + b = a^2x + (ab + b)$. Igualando os coeficientes: $a^2 = 4 \Rightarrow a = 2$ ou $a = -2$. Se $a = 2$, então $2b + b = 9 \Rightarrow 3b = 9 \Rightarrow b = 3$. Se $a = -2$, $-2b + b = 9 \Rightarrow -b = 9 \Rightarrow b = -9$.
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
@@ -360,7 +361,7 @@ A função $f(x)$ é linear e satisfaz $\sum_{i=1}^{3} f(i) = 15$. Se o coeficie
 ### Explicacion Pedagogica
 Expandimos a soma: $f(1) + f(2) + f(3) = (2(1)+b) + (2(2)+b) + (2(3)+b)$. Somando os termos numéricos: $2 + 4 + 6 = 12$. Somando os termos em $b$: $3b$. Temos a equação $12 + 3b = 15$, resultando em $3b = 3$, logo $b = 1$.
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
@@ -379,7 +380,7 @@ Qual é a área da região triangular limitada pelo gráfico da função $f(x) =
 ### Explicacion Pedagogica
 O triângulo tem vértices na origem $(0,0)$, no intercepto $y$ $(0,8)$ e no intercepto $x$ (raiz da função). Resolvendo $-2x + 8 = 0$, achamos a raiz $x = 4$. A base é 4 e a altura é 8. Área = $(\text{base} \cdot \text{altura}) / 2 = (4 \cdot 8) / 2 = 16$.
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra

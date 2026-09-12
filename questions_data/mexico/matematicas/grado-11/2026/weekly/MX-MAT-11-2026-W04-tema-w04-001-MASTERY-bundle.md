@@ -13,6 +13,7 @@ total_questions: 20
 bundle_size: 20
 alignment: "SEP NEM Mexico 2026 / EXANI-II pensamiento matematico"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -41,7 +42,7 @@ En una mañana se vendieron en total 50 tazas de café, recaudando $1,800 pesos.
 ### Explicacion Pedagogica
 Definimos x como americanos e y como capuchinos. El sistema de ecuaciones es: (1) x + y = 50; (2) 30x + 45y = 1800. Despejando x de (1): x = 50 - y. Sustituyendo en (2): 30(50 - y) + 45y = 1800. Simplificando: 1500 - 30y + 45y = 1800 => 1500 + 15y = 1800 => 15y = 300 => y = 20. Se vendieron 20 capuchinos.
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Matemático
@@ -87,7 +88,7 @@ Resuelve el sistema lineal básico para hallar el valor de y: x + y = 13, x - y 
 ### Explicacion Pedagogica
 Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (13) - (7) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -133,7 +134,7 @@ Resuelve el sistema lineal básico para hallar el valor de y: x + y = 15, x - y 
 ### Explicacion Pedagogica
 Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (15) - (9) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -179,7 +180,7 @@ Resuelve el sistema lineal básico para hallar el valor de y: x + y = 17, x - y 
 ### Explicacion Pedagogica
 Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (17) - (11) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.
 
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -225,7 +226,7 @@ Resuelve el sistema lineal básico para hallar el valor de y: x + y = 19, x - y 
 ### Explicacion Pedagogica
 Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (19) - (13) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.
 
-## Question 10 [D5]
+## Question 10 [D5-D6]
 **ID:** MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -271,7 +272,7 @@ Resuelve el sistema lineal básico para hallar el valor de y: x + y = 21, x - y 
 ### Explicacion Pedagogica
 Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (21) - (15) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -317,7 +318,7 @@ Resuelve el sistema lineal básico para hallar el valor de y: x + y = 23, x - y 
 ### Explicacion Pedagogica
 Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (23) - (17) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.
 
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Pensamiento Matemático
@@ -363,7 +364,7 @@ Resuelve el sistema lineal básico para hallar el valor de y: x + y = 25, x - y 
 ### Explicacion Pedagogica
 Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (25) - (19) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.
 
-## Question 16 [D7]
+## Question 16 [D7-D8]
 **ID:** MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Pensamiento Matemático
@@ -409,7 +410,7 @@ Resuelve el sistema lineal básico para hallar el valor de y: x + y = 27, x - y 
 ### Explicacion Pedagogica
 Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (27) - (21) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático
@@ -455,7 +456,7 @@ Resuelve el sistema lineal básico para hallar el valor de y: x + y = 29, x - y 
 ### Explicacion Pedagogica
 Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (29) - (23) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.
 
-## Question 20 [D9]
+## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático

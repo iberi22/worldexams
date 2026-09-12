@@ -16,11 +16,12 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle — Matemáticas: Conjuntos Numéricos y Números Reales (UY-MAT-11-W01)
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** UY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Numérico
@@ -39,7 +40,7 @@ bundle_index: 1
 ### Explicación Pedagógica
 Los enteros $\mathbb{Z}$ incluyen los naturales, el cero y los negativos. Como $-7$ es un número completo negativo, pertenece a $\mathbb{Z}$ y, por extensión, a $\mathbb{Q}$ y $\mathbb{R}$.
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** UY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Numérico
@@ -58,7 +59,7 @@ Los enteros $\mathbb{Z}$ incluyen los naturales, el cero y los negativos. Como $
 ### Explicación Pedagógica
 Un número es irracional si no puede escribirse como $\frac{a}{b}$ con $a, b$ enteros. Las raíces cuadradas de naturales que no son cuadrados perfectos, como $\sqrt{2}$, son irracionales.
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** UY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Numérico
@@ -77,7 +78,7 @@ Un número es irracional si no puede escribirse como $\frac{a}{b}$ con $a, b$ en
 ### Explicación Pedagógica
 Para convertir una fracción a decimal se divide el numerador entre el denominador: $7 \div 8 = 0.875$. Como el denominador solo tiene el factor primo 2, el decimal es exacto.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** UY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Numérico
@@ -96,7 +97,7 @@ Para convertir una fracción a decimal se divide el numerador entre el denominad
 ### Explicación Pedagógica
 Como $\sqrt{10} \approx 3.16$ y $\sqrt{50} \approx 7.07$, los enteros estrictamente intermedios son 4, 5, 6 y 7: cuatro en total. Acotar raíces entre cuadrados perfectos cercanos agiliza la estimación.
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** UY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Pensamiento Numérico
@@ -115,7 +116,7 @@ Calcula el valor de $|-12| - |5|$.
 ### Explicación Pedagógica
 El valor absoluto de un número es su distancia al cero: $|-12| = 12$ y $|5| = 5$. La operación pedida es $12 - 5 = 7$.
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** UY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** Pensamiento Numérico
@@ -134,7 +135,7 @@ Aplicando las propiedades de las potencias, simplifica $2^3 \cdot 2^2$.
 ### Explicación Pedagógica
 La regla del producto de potencias de igual base dice $a^m \cdot a^n = a^{m+n}$. Aquí $2^3 \cdot 2^2 = 2^5 = 32$.
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** UY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Pensamiento Numérico
@@ -153,7 +154,7 @@ Expresa el número $0.00045$ en notación científica.
 ### Explicación Pedagógica
 En notación científica se escribe $a \times 10^n$ con $1 \le a < 10$. Para $0.00045$, la coma se mueve 4 posiciones a la derecha, así $a = 4.5$ y $n = -4$.
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** UY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Numérico
@@ -172,7 +173,7 @@ Simplifica la expresión $\sqrt{50} - \sqrt{8}$.
 ### Explicación Pedagógica
 Se extraen factores cuadrados: $\sqrt{50} = \sqrt{25 \cdot 2} = 5\sqrt{2}$ y $\sqrt{8} = \sqrt{4 \cdot 2} = 2\sqrt{2}$. Como los radicales son semejantes, se restan los coeficientes: $5\sqrt{2} - 2\sqrt{2} = 3\sqrt{2}$.
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** UY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Pensamiento Numérico
@@ -191,7 +192,7 @@ Dados los intervalos $A = [-2, 3]$ y $B = [1, 5)$, determina $A \cap B$.
 ### Explicación Pedagógica
 La intersección conserva los valores comunes: el extremo inferior es $\max(-2, 1) = 1$ (incluido) y el superior es $\min(3, 5) = 3$ (incluido). Resultado: $[1, 3]$.
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** UY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Numérico
@@ -210,7 +211,7 @@ Si un libro cuesta $\$U\,800$ y su precio aumenta un 15%, ¿cuál es el nuevo pr
 ### Explicación Pedagógica
 Un aumento del 15% equivale a multiplicar por $1.15$: $800 \times 1.15 = 920$. También puede calcularse $800 + 0.15 \times 800 = 800 + 120 = 920$.
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** UY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Pensamiento Numérico
@@ -229,7 +230,7 @@ De los números $-\sqrt{3}$, $-1.7$, $-\frac{3}{2}$ y $-1.41$, ¿cuál es el men
 ### Explicación Pedagógica
 En los negativos, es menor el de mayor valor absoluto. Como $\sqrt{3} \approx 1.732 > 1.7 > 1.5 > 1.41$, el orden inverso da $-\sqrt{3}$ como el menor.
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** UY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Pensamiento Numérico
@@ -248,7 +249,7 @@ En los negativos, es menor el de mayor valor absoluto. Como $\sqrt{3} \approx 1.
 ### Explicación Pedagógica
 Convirtiendo a decimales: $\frac{2}{5} = 0.4$ y $\frac{3}{5} = 0.6$. La única opción en $(0.4; 0.6)$ es $\frac{1}{2} = 0.5$, lo que ilustra la densidad de $\mathbb{Q}$.
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** UY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Pensamiento Numérico
@@ -267,7 +268,7 @@ Convirtiendo a decimales: $\frac{2}{5} = 0.4$ y $\frac{3}{5} = 0.6$. La única o
 ### Explicación Pedagógica
 La única afirmación universal es la no negatividad del cuadrado: $x^2 \ge 0$ para todo $x \in \mathbb{R}$. Las demás fallan con contraejemplos simples: $x = 0$, $x = -1$, $a = b = 1$.
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** UY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Pensamiento Numérico
@@ -286,7 +287,7 @@ Para cualquier número real $x$, la expresión $\sqrt{x^2}$ es equivalente a:
 ### Explicación Pedagógica
 Por definición, la raíz cuadrada principal es no negativa, por lo que $\sqrt{x^2} = |x|$. Esta identidad es clave para no perder soluciones al resolver ecuaciones con radicales.
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** UY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pensamiento Numérico
@@ -305,7 +306,7 @@ Si se trunca el número $\pi = 3.141592...$ al valor $3.14$, el error absoluto c
 ### Explicación Pedagógica
 El error absoluto es $|\pi - 3.14| = 0.001592...$, del orden de $1.6 \times 10^{-3}$. Truncar a dos decimales introduce errores menores que media centésima.
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** UY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Pensamiento Numérico
@@ -324,7 +325,7 @@ Resuelve la ecuación $\sqrt{2x + 1} = 5$.
 ### Explicación Pedagógica
 Elevando al cuadrado ambos miembros: $2x + 1 = 25$, luego $x = 12$. Siempre hay que verificar la solución en la ecuación original porque elevar al cuadrado puede introducir soluciones extrañas.
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** UY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Pensamiento Numérico
@@ -343,7 +344,7 @@ Elevando al cuadrado ambos miembros: $2x + 1 = 25$, luego $x = 12$. Siempre hay 
 ### Explicación Pedagógica
 Toda expansión periódica representa un racional: $x = 0.999...$ implica $10x = 9.999...$ y restando $9x = 9$, así $x = 1$. La igualdad es exacta, no una aproximación.
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** UY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Numérico
@@ -362,7 +363,7 @@ Toda expansión periódica representa un racional: $x = 0.999...$ implica $10x =
 ### Explicación Pedagógica
 La clave es distinguir lo que siempre se cumple de lo que a veces ocurre. Solo la suma racional + irracional está garantizada como irracional; los demás enunciados admiten contraejemplos.
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** UY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Pensamiento Numérico
@@ -381,7 +382,7 @@ La clave es distinguir lo que siempre se cumple de lo que a veces ocurre. Solo l
 ### Explicación Pedagógica
 El interés simple es $I = C \cdot r \cdot t = 100\,000 \times 0.05 \times 3 = 15\,000$. A diferencia del compuesto, aquí el capital no se actualiza cada período.
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** UY-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Numérico

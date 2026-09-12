@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Português: Sintaxe
 **20 perguntas | Português | BNCC Brasil / ENEM 2026**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BR-POR-11-2026-W10-tema-w10-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Estudo dos aspectos linguísticos
@@ -45,7 +46,7 @@ Como é denominado o termo sintático que completa o sentido de um nome (substan
 ### Explicacion Pedagogica
 O complemento nominal é o termo que integra o sentido de um substantivo abstrato ("necessidade de asfalto"), adjetivo ("favorável à proposta") ou advérbio ("relativamente ao caso"), sendo sempre precedido de preposição e possuindo valor passivo (recebe a ação nominal).
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BR-POR-11-2026-W10-tema-w10-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Estudo dos aspectos linguísticos
@@ -68,7 +69,7 @@ A indeterminação do sujeito ocorre de forma correta e padrão na língua portu
 ### Explicacion Pedagogica
 O sujeito indeterminado ocorre de duas maneiras padrão: 1) verbo na 3ª pessoa do plural sem elemento anafórico que o identifique ("Prenderam ontem o criminoso"); 2) verbo transitivo indireto, intransitivo ou de ligação na 3ª pessoa do singular + pronome indeterminador "se" ("Precisa-se de novos médicos").
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BR-POR-11-2026-W10-tema-w10-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Estudo dos aspectos linguísticos
@@ -91,7 +92,7 @@ No período analisado pela jovem curitibana, o termo "aos pedestres de Curitiba"
 ### Explicacion Pedagogica
 O verbo agradar (no sentido de satisfazer ou ser agradável) é transitivo indireto e rege preposição ("agradar a alguém"). Portanto, o termo preposicionado "aos pedestres de Curitiba" funciona sintaticamente como objeto indireto da oração.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BR-POR-11-2026-W10-tema-w10-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Estudo dos aspectos linguísticos
@@ -114,7 +115,7 @@ No período composto de opinião paulistano, a oração destacada "de que a fuma
 ### Explicacion Pedagogica
 Orações subordinadas substantivas completivas nominais exercem o papel de complemento nominal de um termo da oração principal. Elas completam o sentido de nomes abstratos (substantivos abstratos de sentimento ou intelecto como "consciência, certeza, medo, necessidade"), vindo sempre regidas por preposição exigida pelo nome ("consciência de algo").
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** BR-POR-11-2026-W10-tema-w10-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Estudo dos aspectos linguísticos
@@ -137,7 +138,7 @@ No parágrafo de engenharia de Belo Horizonte, o termo "indestrutível" funciona
 ### Explicacion Pedagogica
 O predicativo do objeto é o termo sintático (geralmente adjetivo ou substantivo) que qualifica ou atribui uma característica temporária ou juízo de valor ao objeto direto ou indireto da oração. Essa função sintática surge frequentemente associada a verbos transitivos predicativos de opinião, julgamento ou nomeação (como declarar, julgar, achar, nomear).
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** BR-POR-11-2026-W10-tema-w10-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Estudo dos aspectos linguísticos
@@ -160,7 +161,7 @@ No trecho literário analisado, o termo entre vírgulas "o defunto autor carioca
 ### Explicacion Pedagogica
 O aposto explicativo é uma função sintática de base nominal. Sua finalidade gramatical de escrita é explicar, detalhar ou identificar com precisão sintática um substantivo ou pronome antecedente na oração, vindo tradicionalmente isolado por vírgulas, travessões ou parênteses de forma elegante de vestibular.
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** BR-POR-11-2026-W10-tema-w10-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Estudo dos aspectos linguísticos
@@ -183,7 +184,7 @@ No parágrafo de opinião soteropolitano, as funções sintáticas dos termos pr
 ### Explicacion Pedagogica
 Quando termos preposicionados se ligam a substantivos abstratos derivados de ação ("destruição"), a diferenciação sintática apoia-se no nexo de sentido (ativo ou passivo). O Complemento Nominal possui valor passivo, sofrendo a ação ("as ruas sofreram a destruição das ruas de Salvador"). O Adjunto Adnominal possui valor ativo, praticando a ação ("as chuvas praticaram a destruição pelas chuvas tropicais"), garantindo a precisão analítica exigida na Competência 1 do ENEM.
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** BR-POR-11-2026-W10-tema-w10-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Estudo dos aspectos linguísticos
@@ -206,7 +207,7 @@ Na oração passiva analítica de vestibular, o termo sintático preposicionado 
 ### Explicacion Pedagogica
 O agente da passiva é o termo da oração que pratica a ação expressa pelo verbo na voz passiva analítica ("estalagem era sacudida pelo vento"). Se transpusermos a oração para a voz ativa, o agente da passiva converte-se no sujeito ativo da oração ("O vento frio sacudia a estalagem de João Romão"), consolidando o domínio de concordâncias e sintaxe complexa do vestibular nacional.
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** BR-POR-11-2026-W10-tema-w10-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Estudo dos aspectos linguísticos
@@ -229,7 +230,7 @@ No slogan do fabricante paulistano, as funções sintáticas dos termos preposic
 ### Explicacion Pedagogica
 A análise sintática de termos preposicionados exige identificar o seu núcleo de ligação na oração. O termo "de calçados de luxo" completa a regência do verbo transitivo indireto "necessitar" (necessitar de algo), atuando como Objeto Indireto. Já o termo "de couro legítimo" caracteriza e restringe a matéria do substantivo concreto "calçados", funcionando como Adjunto Adnominal de matéria de forma de vestibular de prestígio.
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** BR-POR-11-2026-W10-tema-w10-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Estudo dos aspectos linguísticos
@@ -253,7 +254,7 @@ De acordo com a norma-padrão da língua portuguesa exigida pela banca corretora
 ### Explicacion Pedagogica
 O pronome oblíquo átono "lhe" exerce sintaticamente o papel de Objeto Indireto na norma-padrão formal escrita (regendo preposição "a" implícita: "dar-lhe o livro" = dar o livro a ele/a ela). Como o verbo amar é Transitivo Direto (amar alguém), o uso de "lhe" para objeto direto ("Eu lhe amo") constitui desvio coloquial de regência, o qual deve ser corrigido pelo uso de "o/a" ("Eu a amo") ou de "te" ("Eu te amo") para obter nota máxima na Competência 1 do ENEM.
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BR-POR-11-2026-W10-tema-w10-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Estudo dos aspectos linguísticos
@@ -277,7 +278,7 @@ No verso simbolista, a oração destacada "que sussurram na noite de velórios" 
 ### Explicacion Pedagogica
 As orações subordinadas adjetivas exercem o papel de Adjunto Adnominal do substantivo antecedente a que se referem na oração principal ("vozes"). Elas são introduzidas por pronomes relativos ("que", "quem", "cujo", "onde") e dividem-se em restritivas (sem vírgulas: restringem e delimitam a identidade do termo) e explicativas (isoladas por vírgulas: generalizam ou explicam atributo do nome), de alta utilidade analítica em Letras.
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BR-POR-11-2026-W10-tema-w10-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Estudo dos aspectos linguísticos
@@ -301,7 +302,7 @@ No alerta policial de rádio, o termo sintático "os condutores desatentos" func
 ### Explicacion Pedagogica
 O verbo multar (no sentido de aplicar multa fiscal de trânsito) é transitivo direto na norma-padrão escrita formal (multar alguém: "A prefeitura multou os condutores"). Portanto, o bloco nominal "os condutores desatentos" funciona sintaticamente como Objeto Direto da oração principal do alerta de rádio paulistano, de fácil compreensão pelo motorista de táxi do país.
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BR-POR-11-2026-W10-tema-w10-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Estudo dos aspectos linguísticos
@@ -325,7 +326,7 @@ Assinale a opção que indica de forma correta a análise sintática da oração
 ### Explicacion Pedagogica
 A estrutura sintática impessoal formada por verbo de ligação + adjetivo predicativo ("É urgente, É necessário, É preciso") carece de sujeito determinado na oração principal. Portanto, a oração subordinada substantiva introduzida pela conjunção integrante "que" ("que vós arrependais") atua de forma científica como Oração Subordinada Substantiva Subjetiva (o sujeito lógico da pregação do padre Antônio Vieira de vestibular).
 
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** BR-POR-11-2026-W10-tema-w10-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Estudo dos aspectos linguísticos
@@ -348,7 +349,7 @@ Analisando a regência verbal e sintaxe da oração do candidato gaúcho perante
 ### Explicacion Pedagogica
 Os verbos "esquecer" e "lembrar" possuem dupla regência padrão de alta cobrança no ENEM (Competência 1): 1) Não pronominais (sem "se"): são Transitivos Diretos e regem complemento sem preposição ("Esqueci o livro", "Esqueceram que o asfalto necessita"); 2) Pronominais (com "se"): são Transitivos Indiretos e regem preposição "de" obrigatória ("Esqueci-me do livro", "Esqueceram-se de que o asfalto..."). Misturar as duas formas ("esqueceram de que...") constitui desvio de regência, o qual deve ser corrigido para obter nota de prestígio no ENEM.
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** BR-POR-11-2026-W10-tema-w10-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Estudo dos aspectos linguísticos
@@ -371,7 +372,7 @@ Analisando a ambiguidade sintática gerada pelo pronome relativo "que" na oraç�
 ### Explicacion Pedagogica
 O pronome relativo "que" é o principal causador de ambiguidades sintáticas na redação formal do ENEM (Competências 1 e 3). Quando colocado após uma locução substantiva com termos masculinos e femininos ou plurais intercalados ("condutores dos caminhões que..."), o pronome "que" gera duplo sentido (quem transitava rápido: os condutores ou os caminhões?). Para desfazer a ambiguidade e garantir clareza acadêmica, o redator de prestígio deve substituir o pronome "que" pelas formas flexionáveis de relativo "os quais" (retoma condutores) ou "as quais/os quais" (retoma caminhões de metal), consolidando a concordância de forma precisa.
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** BR-POR-11-2026-W10-tema-w10-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Estudo dos aspectos linguísticos
@@ -395,7 +396,7 @@ De acordo com as regras de concordância da gramática normativa de prestígio, 
 ### Explicacion Pedagogica
 Os verbos impessoais (haver = existir; fazer = tempo cronológico decorrido) caracterizam orações sem sujeito na sintaxe padrão da língua portuguesa. Como não possuem sujeito gramatical para coordenar e concordar, esses verbos devem permanecer inflexíveis na 3ª pessoa do singular ("Houve muitos acidentes no asfalto de São Paulo ontem", "Faz dez anos que a prefeitura não reforma as calçadas"). Flexioná-los no plural ("houveram", "fazem") constitui um dos desvios de concordância verbal mais penalizados na Competência 1 da redação do ENEM.
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BR-POR-11-2026-W10-tema-w10-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Estudo dos aspectos linguísticos
@@ -418,7 +419,7 @@ Considerando a ciência moderna de Letras de vestibular que analisa criticamente
 ### Explicacion Pedagogica
 A abordagem científica e sociolinguística moderna do ensino de Letras no Brasil de vestibular (BNCC) repudia o preconceito linguístico coercitivo de cartilhas de "certo contra errado absoluto" ("as pessoas que falam nós vai são burras"). A escola democrática acolhe e respeita as variedades orais populares do país de forma inclusiva, mas assume o dever cívico e educacional de ensinar sistematicamente as regras complexas de sintaxe, concordância e regência verbal da norma-padrão escrita formal (Competência 1 do ENEM), ampliando de forma soberana o repertório comunicativo do estudante para sua plena inserção acadêmica, de exames e profissional no país.
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BR-POR-11-2026-W10-tema-w10-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Estudo dos aspectos linguísticos
@@ -442,7 +443,7 @@ Sob a análise sociolinguística e de avaliação de exames do vestibular, avali
 ### Explicacion Pedagogica
 A correção democrática de Letras do vestibular do ENEM avalia o candidato com base em uma grade holística de cinco competências integradas. Punir pequenos desvios de regência verbal ou de concordância de pronomes com nota zero automática de redação seria um retrocesso pedagógico grave e anticientífico. O ENEM valoriza com pertinência (Competência 1) o domínio e esforço do candidato de aproximação à norma padrão escrita formal, mas analisa de forma integrada e sem excessos punitivos burocráticos a inteligibilidade global das ideias, teses e argumentos de defesa (Competências 2, 3, 4 e 5) das redações escolares do país de vestibular de prestígio.
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** BR-POR-11-2026-W10-tema-w10-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Estudo dos aspectos linguísticos
@@ -466,7 +467,7 @@ Considerando essa perspectiva científica moderna de Letras, avalie qual diagnó
 ### Explicacion Pedagogica
 A linguística moderna de base científica comprova que o português falado e escrito no Brasil de vestibular de prestígio (BNCC) desenvolveu uma sintaxe brasileira autêntica de extraordinária qualidade e regras próprias. Fenômenos como a substituição generalizada do pronome de tratamento "vós" pelo pronome sujeito "você" (que concorda com o verbo em terceira pessoa) e regências dinâmicas de verbos de movimento de oralidade desvelam a evolução orgânica e a maturidade da língua nacional do país, imune a pedantismos que tentem manter regras arcaicas do português de Portugal antigo de forma de farsa no vestibular de Letras do país.
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BR-POR-11-2026-W10-tema-w10-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Estudo dos aspectos linguísticos

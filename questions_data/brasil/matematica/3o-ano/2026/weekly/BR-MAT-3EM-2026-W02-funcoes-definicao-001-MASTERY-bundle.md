@@ -16,9 +16,10 @@ license: FREE
 tier: legacy
 creador: Jules-Agent
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W02-funcoes-definicao-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Funções e Álgebra
@@ -37,7 +38,7 @@ Dada uma função $f: A \to B$, como é chamado o conjunto $A$ de todos os valor
 ### Explicacion Pedagogica
 Em uma função $f: A \to B$, o conjunto $A$ é denominado **domínio**. Para que a relação seja uma função, cada elemento do domínio deve estar associado a exatamente um elemento do conjunto $B$ (contradomínio).
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W02-funcoes-definicao-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Funções e Álgebra
@@ -56,7 +57,7 @@ Para que uma relação entre um conjunto $A$ e um conjunto $B$ seja considerada 
 ### Explicacion Pedagogica
 Uma função é uma regra que associa cada elemento $x$ de um conjunto $A$ a um único elemento $y$ de um conjunto $B$. Se um elemento de $A$ não tiver correspondente ou tiver mais de um, a relação não é uma função.
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W02-funcoes-definicao-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
@@ -75,7 +76,7 @@ Dada a função $f(x) = 3x - 5$, qual é o valor de $f(4)$?
 ### Explicacion Pedagogica
 Para encontrar o valor de uma função em um ponto, substituímos a variável independente $x$ pelo valor dado. No caso, $f(4) = 3 \cdot 4 - 5 = 12 - 5 = 7$.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W02-funcoes-definicao-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
@@ -94,7 +95,7 @@ Como podemos identificar, através do gráfico no plano cartesiano, se uma curva
 ### Explicacion Pedagogica
 Pelo "Teste da Reta Vertical", se qualquer reta vertical cruzar o desenho em mais de um ponto, isso significa que um único valor de $x$ teria mais de um correspondente em $y$, o que viola a definição de função.
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W02-funcoes-definicao-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
@@ -113,7 +114,7 @@ Qual é o domínio da função real $f(x) = \frac{1}{x-2}$?
 ### Explicacion Pedagogica
 Em funções racionais, o denominador não pode ser zero. Assim, devemos ter $x - 2 \neq 0$, o que implica $x \neq 2$. O domínio é o conjunto de todos os números reais excluindo o 2.
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W02-funcoes-definicao-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
@@ -132,7 +133,7 @@ Seja $f: \mathbb{R} \to \mathbb{R}$ uma função tal que $f(x) = x^2 + 1$. Qual 
 ### Explicacion Pedagogica
 O valor mínimo de $x^2$ é 0 (quando $x=0$). Logo, o valor mínimo de $f(x) = x^2 + 1$ é $0 + 1 = 1$. Como a parábola se abre para cima, os valores de $y$ assumidos são todos maiores ou iguais a 1.
 
-## Question 7 [D6]
+## Question 7 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W02-funcoes-definicao-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -151,7 +152,7 @@ Dadas as funções $f(x) = 2x + 3$ e $g(x) = 5x - 6$, para qual valor de $x$ tem
 ### Explicacion Pedagogica
 Igualamos as expressões: $2x + 3 = 5x - 6$. Isolando $x$: $3 + 6 = 5x - 2x \Rightarrow 9 = 3x \Rightarrow x = 3$.
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W02-funcoes-definicao-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -170,7 +171,7 @@ Se $f(x) = \sqrt{x-4}$ é uma função de variável real, qual é o seu domínio
 ### Explicacion Pedagogica
 No conjunto dos números reais, a raiz quadrada de um número negativo não está definida. Portanto, a expressão dentro da raiz deve ser não negativa: $x - 4 \geq 0$, o que nos dá $x \geq 4$.
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W02-funcoes-definicao-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -189,7 +190,7 @@ Seja $f(x) = ax + b$. Sabendo que $f(1) = 5$ e $f(0) = 2$, determine os valores 
 ### Explicacion Pedagogica
 Substituímos os pontos na equação da função. De $f(0)=2$, temos $a(0) + b = 2$, logo $b = 2$. Usando $f(1)=5$, temos $a(1) + 2 = 5$, o que resulta em $a = 3$.
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W02-funcoes-definicao-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -208,7 +209,7 @@ Considere a função $f(x) = x^2 - 4x + 7$. Qual é o valor de $f(-1)$?
 ### Explicacion Pedagogica
 Substituindo $x$ por $-1$ na expressão: $f(-1) = (-1)^2 - 4(-1) + 7$. Como $(-1)^2 = 1$ e $-4 \cdot (-1) = 4$, temos $1 + 4 + 7 = 12$.
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W02-funcoes-definicao-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -227,7 +228,7 @@ Uma função $f: A \to B$ é dita **injetora** quando:
 ### Explicacion Pedagogica
 A injetividade significa que não há "colisões": cada valor de $y$ no conjunto imagem é atingido por exatamente um valor de $x$ do domínio. Graficamente, qualquer reta horizontal corta o gráfico de uma função injetora em no máximo um ponto.
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W02-funcoes-definicao-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -246,7 +247,7 @@ Qual das seguintes condições é necessária para que uma função $f: A \to B$
 ### Explicacion Pedagogica
 Para inverter uma função, cada elemento de $B$ deve vir de um único elemento de $A$ (injetora) e todos os elementos de $B$ devem ser atingidos (sobrejetora). Portanto, a função deve ser bijetora.
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W02-funcoes-definicao-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
@@ -265,7 +266,7 @@ Dadas as funções $f(x) = x + 2$ e $g(x) = 3x$, qual é a expressão da funçã
 ### Explicacion Pedagogica
 Para calcular $g(f(x))$, substituímos a expressão de $f(x)$ no lugar do $x$ da função $g$. Assim, $g(f(x)) = g(x+2) = 3(x+2)$. Distribuindo o 3, obtemos $3x + 6$.
 
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W02-funcoes-definicao-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
@@ -284,7 +285,7 @@ Uma função é considerada **par** se $f(x) = f(-x)$ para todo $x$ no domínio.
 ### Explicacion Pedagogica
 Uma função par apresenta simetria em relação ao eixo $y$. Algebricamente, substituir $x$ por $-x$ não altera a expressão final. Em $x^2 + 3$, o expoente par faz com que $(-x)^2$ seja igual a $x^2$.
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W02-funcoes-definicao-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
@@ -303,7 +304,7 @@ Qual é a função inversa de $f(x) = 2x - 4$?
 ### Explicacion Pedagogica
 Para achar a inversa, chamamos $f(x)$ de $y$ e isolamos $x$: $y = 2x - 4 \Rightarrow y + 4 = 2x \Rightarrow x = \frac{y + 4}{2}$. Por fim, trocamos $x$ por $y$ para obter a lei da função inversa: $f^{-1}(x) = \frac{x + 4}{2}$.
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W02-funcoes-definicao-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
@@ -322,7 +323,7 @@ Determine o domínio da função real $f(x) = \frac{\sqrt{x-1}}{x-3}$.
 ### Explicacion Pedagogica
 Temos duas restrições: 1) O radicando de uma raiz de índice par deve ser não negativo ($x-1 \geq 0 \Rightarrow x \geq 1$); 2) O denominador não pode ser nulo ($x-3 \neq 0 \Rightarrow x \neq 3$). O domínio é a interseção dessas condições.
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W02-funcoes-definicao-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
@@ -341,7 +342,7 @@ Considere a função de Dirichlet definida como $f(x) = 1$ se $x$ é racional e 
 ### Explicacion Pedagogica
 A função de Dirichlet está definida para todos os números reais, pois o conjunto dos reais é a união dos racionais com os irracionais. Seu domínio é $\mathbb{R}$ e sua imagem é o conjunto finito $\{0, 1\}$.
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W02-funcoes-definicao-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
@@ -360,7 +361,7 @@ Seja $f: \mathbb{R} \to \mathbb{R}$ uma função estritamente crescente. É corr
 ### Explicacion Pedagogica
 Uma função estritamente crescente preserva a ordem estrita dos elementos. Isso garante que, se tomarmos dois elementos distintos $x_1$ e $x_2$ no domínio, seus valores funcionais $f(x_1)$ e $f(x_2)$ serão obrigatoriamente distintos, o que define uma função injetora.
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W02-funcoes-definicao-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
@@ -379,7 +380,7 @@ Determine a função $f(x)$ que satisfaz a equação $f(2x + 1) = 4x^2 + 4x + 5$
 ### Explicacion Pedagogica
 Fazemos uma mudança de variável: seja $t = 2x + 1$. Então $x = \frac{t - 1}{2}$. Substituindo na expressão original: $f(t) = 4(\frac{t-1}{2})^2 + 4(\frac{t-1}{2}) + 5$. Simplificando: $f(t) = 4(\frac{t^2-2t+1}{4}) + 2(t-1) + 5 = t^2 - 2t + 1 + 2t - 2 + 5 = t^2 + 4$. Portanto, $f(x) = x^2 + 4$.
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W02-funcoes-definicao-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra

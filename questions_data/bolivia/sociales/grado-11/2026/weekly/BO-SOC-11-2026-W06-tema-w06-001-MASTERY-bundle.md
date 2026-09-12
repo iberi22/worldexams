@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Ciencias Sociales: El proceso de la Guerra de la Independencia de Bolivia y las guerrillas de las republiquetas (W06)
 **20 preguntas | Ciencias Sociales | Ministerio de Educacion del Estado Plurinacional de Bolivia (MINEDU)**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Social
@@ -45,7 +46,7 @@ bundle_index: 1
 La Guerra de la Independencia de Bolivia (1809-1825) asoló el territorio de la Real Audiencia de Charcas. Su prolongada duración se debió al inmenso valor estratégico y minero de Potosí, que ambos bandos consideraban el centro vital de financiamiento militar.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Social
@@ -68,7 +69,7 @@ La Guerra de la Independencia de Bolivia (1809-1825) asoló el territorio de la 
 Juana Azurduy encarna la bravura de las mujeres altoperuanas en la independencia. Luchó incansablemente tras la muerte de su esposo, perdiendo a sus hijos en el conflicto. Hoy es honrada con el máximo rango militar póstumo en Bolivia y Argentina.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -91,7 +92,7 @@ Juana Azurduy encarna la bravura de las mujeres altoperuanas en la independencia
 El heroísmo de las Heroínas de la Coronilla devela el profundo compromiso popular con la emancipación en Bolivia. El sacrificio de estas mujeres cochabambinas ante el implacable ejército realista es honrado anualmente el 27 de mayo como el Día de la Madre en todo el país.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -114,7 +115,7 @@ El heroísmo de las Heroínas de la Coronilla devela el profundo compromiso popu
 La Batalla de Tumusla significó la liquidación militar del absolutismo español en Charcas. Permitió que el territorio quedara plenamente liberado y expedito para que la Asamblea Deliberante pudiera reunirse pocos meses después y fundar el Estado boliviano independiente.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -137,7 +138,7 @@ La Batalla de Tumusla significó la liquidación militar del absolutismo españo
 Las republiquetas sostuvieron la llama de la independencia cuando los ejércitos auxiliares argentinos fracasaron y las juntas formales urbanas fueron decapitadas por Goyeneche. Entre ellas destacaron la de Ayopaya, Larecaja, Vallegrande, La Laguna, Tarija y Chayanta.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -160,7 +161,7 @@ Las republiquetas sostuvieron la llama de la independencia cuando los ejércitos
 La Republiqueta de Ayopaya devela la madurez organizativa del movimiento guerrillero boliviano. Contó con sus propios códigos de justicia y organización militar interna (documentada en el diario del tambor Vargas), constituyendo un verdadero micro-estado patriota soberano en armas.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v7
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -183,7 +184,7 @@ La Republiqueta de Ayopaya devela la madurez organizativa del movimiento guerril
 Ildefonso de las Muñecas representa al clero rebelde de Charcas que desafió la alianza formal de la jerarquía católica eclesiástica con el trono absolutista español. Capturado tras heroicos combates, fue fusilado por las fuerzas realistas de Goyeneche.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Social
@@ -206,7 +207,7 @@ Si aplicamos el análisis del liderazgo guerrillero de los valles del sur de Bol
 El Moto Méndez es uno de los héroes populares más queridos de la historia de Bolivia. Sus tácticas guerrilleras de caballería ligera (montoneras) desestabilizaron el control realista de los valles del sur, facilitando la conexión patriota con el norte argentino.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Pensamiento Social
@@ -229,7 +230,7 @@ Si aplicamos la historia militar de las republiquetas al oriente de Bolivia, ¿q
 Ignacio Warnes, enviado por el ejército auxiliar argentino, asumió la conducción militar de Santa Cruz de 1813 a 1816. Gobernó con un profundo sentido social, incorporando a indígenas chiquitanos y negros libertos, hasta su heroico deceso en la Batalla de El Pari en 1816.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Social
@@ -252,7 +253,7 @@ Si aplicamos el análisis del accionar guerrillero de las republiquetas, ¿qué 
 La Republiqueta de Vallegrande formaba parte del sistema de focos guerrilleros de resistencia rural del Alto Perú. Su rol de hostigamiento permanente impidió el libre tránsito de los ejércitos reales españoles.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -275,7 +276,7 @@ Al analizar el impacto socioeconómico de los quince años de guerra constante e
 La devastación económica heredada de la guerra de independencia constituyó la mayor limitación para la consolidación de la joven República. Forzó al presidente Sucre a reestablecer el oprobioso impuesto indigenal ante la falta de ingresos mineros.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -298,7 +299,7 @@ La devastación económica heredada de la guerra de independencia constituyó la
 Esta tensión estructural de clases sociales persistiría tras el nacimiento de Bolivia. Los criollos locales que asumieron el poder político mantuvieron intacta la exclusión indígena andina de la ciudadanía real y mantuvieron el pongueaje servil.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -321,7 +322,7 @@ Al analizar críticamente las expediciones de los Ejércitos Auxiliares argentin
 Las malas relaciones con los ejércitos auxiliares de Buenos Aires sembraron en el Alto Perú la convicción de que debían labrar su propio destino independiente. Deseaban cooperar contra España pero sin someterse a la hegemonía porteña.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -344,7 +345,7 @@ Al analizar el accionar pragmático de Casimiro Olañeta en 1825, ¿qué contrad
 La transición del orden colonial al republicano andino representó una recomposición interna de poder de las mismas élites criollas terratenientes de Charcas, garantizando la preservación de privilegios de casta tradicionales.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -367,7 +368,7 @@ La transición del orden colonial al republicano andino representó una recompos
 La campaña represiva realista de 1816 devela la brutalidad militar de la Guerra de los 15 años. Goyeneche y de la Pezuela aplicaron la 'Guerra de Exterminio' para descabezar las republiquetas, forzando a Juana Azurduy a huir herida de guerra hacia el norte argentino.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -390,7 +391,7 @@ Al analizar críticamente las relaciones políticas entre las republiquetas alto
 Este caudillismo andino-guerrillero local sembró las bases de la fragmentación de poder de la era republicana del siglo XIX. Aunque heroicos, los caudillos rurales recelaban de mandos centralizados exteriores, facilitando la reconquista realista española.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -413,7 +414,7 @@ Al juzgar de manera integral el papel de las guerrillas de las republiquetas fre
 La historiografía crítica de Bolivia reivindica el protagonismo de las guerrillas de las republiquetas. Su rol de hostigamiento rural permanente impidió el libre tránsito de los ejércitos reales españoles, constituyendo el verdadero motor de la autodeterminación local.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -436,7 +437,7 @@ Al juzgar críticamente el rol de las masas indígenas andino-amazónicas dentro
 La herencia de la guerra de independencia devela el desencuentro civilizatorio fundacional de Bolivia. El sacrificio indígena en las republiquetas no se tradujo en una emancipación agraria real, consolidándose la exclusión del nuevo Estado republicano terrateniente.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -459,7 +460,7 @@ Al evaluar críticamente el legado de las republiquetas en la delimitación geog
 La geografía de las republiquetas consolidó identidades provinciales vigorosas. Sus zonas de influencia facilitaron el trazado inicial de los departamentos fundacionales de Bolivia por los libertadores, reconociendo el dominio territorial patriota de facto.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social

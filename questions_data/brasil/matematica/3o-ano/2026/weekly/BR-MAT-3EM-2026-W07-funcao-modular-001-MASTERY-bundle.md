@@ -16,9 +16,10 @@ license: FREE
 tier: legacy
 creador: Jules-Agent
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Funções e Álgebra
@@ -37,7 +38,7 @@ Qual é a definição correta do módulo de um número real $x$, denotado por $|
 ### Explicacion Pedagogica
 O módulo de um número representa sua distância até a origem na reta numérica. Como distâncias são sempre não negativas, o módulo de um número positivo é ele mesmo, e o de um negativo é o seu oposto (positivo).
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Funções e Álgebra
@@ -56,7 +57,7 @@ Qual é o valor da expressão $| -7 | + | 3 | - | -2 |$?
 ### Explicacion Pedagogica
 Primeiro calculamos cada módulo: $|-7| = 7$, $|3| = 3$ e $|-2| = 2$. Depois realizamos as operações indicadas: $7 + 3 - 2 = 10 - 2 = 8$.
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
@@ -75,7 +76,7 @@ Qual é o formato característico do gráfico da função $f(x) = |x|$ no plano 
 ### Explicacion Pedagogica
 A função modular $f(x) = |x|$ é uma função definida por duas sentenças. Para valores positivos de $x$, ela se comporta como $y = x$ (bissetriz do 1º quadrante). Para valores negativos, como $y = -x$ (bissetriz do 2º quadrante). O encontro dessas retas na origem forma um "V".
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
@@ -94,7 +95,7 @@ Qual é o conjunto imagem da função modular $f(x) = |x|$ definida para todo $x
 ### Explicacion Pedagogica
 O valor absoluto de qualquer número real é, por definição, não negativo. Portanto, a função $f(x) = |x|$ assume todos os valores de 0 até o infinito positivo.
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
@@ -113,7 +114,7 @@ Resolva a equação modular: $|x - 5| = 3$.
 ### Explicacion Pedagogica
 Uma equação do tipo $|u| = a$ (com $a > 0$) desdobra-se em duas possibilidades: $u = a$ ou $u = -a$. Assim, $x - 5 = 3 \Rightarrow x = 8$, ou $x - 5 = -3 \Rightarrow x = 2$. Ambas as soluções são válidas.
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
@@ -132,7 +133,7 @@ Dada a função $f(x) = |x| + 2$, qual é o valor mínimo que esta função assu
 ### Explicacion Pedagogica
 O gráfico de $f(x) = |x| + 2$ é o gráfico de $|x|$ deslocado 2 unidades para cima. O vértice, que estava em $(0,0)$, agora está em $(0,2)$. O menor valor de $y$ na imagem é 2.
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -151,7 +152,7 @@ Calcule o valor de $x$ se $x = | - \frac{1}{2} | - | - 2 | + | 5 |$.
 ### Explicacion Pedagogica
 Substituímos pelos valores absolutos: $|-1/2| = 0,5$; $|-2| = 2$; $|5| = 5$. A expressão torna-se $0,5 - 2 + 5 = 3,5$.
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -170,7 +171,7 @@ A distância entre dois números reais $a$ e $b$ é dada por $|a - b|$. Qual é 
 ### Explicacion Pedagogica
 Aplicamos a fórmula da distância: $|-15 - 8| = |-23|$. O valor absoluto de $-23$ é $23$.
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -189,7 +190,7 @@ Determine os valores de $x$ que satisfazem a equação $|2x| = 10$.
 ### Explicacion Pedagogica
 Temos duas possibilidades: $2x = 10$, o que nos dá $x = 5$; ou $2x = -10$, o que nos dá $x = -5$.
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -208,7 +209,7 @@ Qual é o vértice da função $f(x) = |x + 3|$?
 ### Explicacion Pedagogica
 O vértice de uma função modular do tipo $|x - h|$ ocorre no ponto onde o argumento é zero. Resolvendo $x + 3 = 0$, encontramos $x = -3$. Como não há deslocamento vertical, o vértice é $(-3, 0)$.
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -227,7 +228,7 @@ Qual é o conjunto solução da inequação modular $|x - 2| \leq 4$?
 ### Explicacion Pedagogica
 A inequação $|u| \leq a$ equivale a $-a \leq u \leq a$. Portanto, $-4 \leq x - 2 \leq 4$. Somando 2 em todas as partes da desigualdade, obtemos $-2 \leq x \leq 6$.
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -246,7 +247,7 @@ Quantos pontos de interseção com o eixo $x$ possui a função $f(x) = |x^2 - 4
 ### Explicacion Pedagogica
 Os zeros da função $f(x) = |g(x)|$ são os mesmos zeros da função $g(x)$. Como $x^2 - 4 = 0$ resulta em $x = 2$ e $x = -2$, a função modular possui 2 interseções com o eixo das abscissas.
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
@@ -265,7 +266,7 @@ Sobre a paridade da função $f(x) = |x|$, é correto afirmar que:
 ### Explicacion Pedagogica
 Uma função é par se $f(x) = f(-x)$ para todo $x$. Como o valor absoluto de um número e de seu oposto são iguais, a função modular básica é par e seu gráfico é simétrico em relação ao eixo vertical.
 
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
@@ -284,7 +285,7 @@ Simplifique a expressão $f(x) = \frac{|x|}{x}$ para $x \neq 0$. Quais valores e
 ### Explicacion Pedagogica
 Esta é a função sinal (para $x \neq 0$). Se $x$ é positivo, $|x| = x$, logo a razão é 1. Se $x$ é negativo, $|x| = -x$, logo a razão é $-x/x = -1$.
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
@@ -306,7 +307,7 @@ Uma equação $|a| = |b|$ implica $a = b$ ou $a = -b$.
 2) $x + 1 = -(2x - 4) \Rightarrow x + 1 = -2x + 4 \Rightarrow 3x = 3 \Rightarrow x = 1$.
 Ambas as soluções satisfazem a igualdade.
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
@@ -328,7 +329,7 @@ Analisamos os sinais dentro dos módulos para $-1 \leq x \leq 3$:
 2) $(x + 1)$ é positivo ou zero, logo $|x + 1| = x + 1$.
 Somando: $(-x + 3) + (x + 1) = 4$. A função é constante nesse trecho.
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
@@ -350,7 +351,7 @@ Desdobramos o módulo externo:
 2) $|x| - 2 = -1 \Rightarrow |x| = 1$, o que dá $x = 1$ e $x = -1$.
 Ao todo, temos 4 soluções distintas para $x$.
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
@@ -372,7 +373,7 @@ A inequação $|u| > a$ desdobra-se em $u > a$ ou $u < -a$.
 2) $2x - 6 < -4 \Rightarrow 2x < 2 \Rightarrow x < 1$.
 A solução é a união desses dois intervalos: $(-\infty, 1) \cup (5, +\infty)$.
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
@@ -391,7 +392,7 @@ Qual é a área da região fechada delimitada pelo gráfico da função $f(x) = 
 ### Explicacion Pedagogica
 A função $f(x) = 4 - |x|$ intercepta o eixo $x$ quando $4 - |x| = 0$, ou seja, em $x = 4$ e $x = -4$. A base do triângulo formado tem comprimento $4 - (-4) = 8$. A altura ocorre no vértice em $x = 0$, onde $f(0) = 4$. A área do triângulo é $(\text{base} \cdot \text{altura}) / 2 = (8 \cdot 4) / 2 = 16$.
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra

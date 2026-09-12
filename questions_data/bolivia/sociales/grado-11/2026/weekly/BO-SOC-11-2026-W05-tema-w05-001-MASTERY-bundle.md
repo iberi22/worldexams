@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Ciencias Sociales: Geografía física de Bolivia: cuencas hidrográficas, recursos naturales y pisos ecológicos del país (W05)
 **20 preguntas | Ciencias Sociales | Ministerio de Educacion del Estado Plurinacional de Bolivia (MINEDU)**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Geografía y Espacio
@@ -45,7 +46,7 @@ bundle_index: 1
 La hidrografía de Bolivia es de inmensa importancia para el desarrollo productivo. La cuenca Amazónica es la más extensa, abarcando ríos caudalosos como el Beni, Mamoré e Iténez; la del Plata conecta con el Atlántico vía el río Paraguay, y la Cerrada alberga ecosistemas andinos únicos.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Geografía y Espacio
@@ -68,7 +69,7 @@ La hidrografía de Bolivia es de inmensa importancia para el desarrollo producti
 La geografía de Bolivia es una de las más diversas y complejas del continente. Desde las altas cumbres nevadas de la Cordillera Real hasta las sabanas inundables del Beni y Chiquitos, el país posee una asombrosa variedad climática y de recursos.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Geografía y Espacio
@@ -91,7 +92,7 @@ La geografía de Bolivia es una de las más diversas y complejas del continente.
 Esta asimetría geográfica en la distribución de recursos naturales ha moldeado la política y el desarrollo regional en Bolivia. En el siglo XX, el eje económico del país se desplazó gradualmente de la minería altiplánica al auge hidrocarburífero y agroindustrial del oriente (Santa Cruz y Tarija).
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Geografía y Espacio
@@ -114,7 +115,7 @@ Esta asimetría geográfica en la distribución de recursos naturales ha moldead
 Los Yungas desempeñan un papel crucial como reguladores hídricos y térmicos del territorio boliviano. La humedad que asciende de la Amazonía choca contra la Cordillera de los Andes en esta zona, generando lluvias torrenciales y una inmensa biodiversidad de especies de flora y fauna.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Geografía y Espacio
@@ -137,7 +138,7 @@ Los Yungas desempeñan un papel crucial como reguladores hídricos y térmicos d
 El retroceso glaciar en Bolivia es uno de los indicadores más alarmantes del cambio climático global. Afecta no solo la dotación de agua de las ciudades de La Paz y El Alto, sino también a la generación de energía hidroeléctrica de los valles yungueños.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Geografía y Espacio
@@ -160,7 +161,7 @@ El retroceso glaciar en Bolivia es uno de los indicadores más alarmantes del ca
 El Salar de Uyuni (situado a 3,650 msnm en el departamento de Potosí) representa no solo un atractivo paisajístico mundial, sino el epicentro de la estrategia de industrialización soberana del litio de Bolivia, un insumo clave para las baterías de vehículos eléctricos de la era moderna.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v7
 **Bloom:** Understand
 **EJE:** Geografía y Espacio
@@ -183,7 +184,7 @@ El Salar de Uyuni (situado a 3,650 msnm en el departamento de Potosí) represent
 A diferencia de otras regiones amazónicas donde impera la deforestación ganadera, la economía de la castaña en Bolivia ha permitido conservar millones de hectáreas de bosque nativo en pie, ya que el árbol de castaña requiere de la selva intacta para dar frutos y ser polinizado.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Geografía y Espacio
@@ -206,7 +207,7 @@ Si analizamos los valles interandinos y la zona del Chaco en Tarija, ¿qué cara
 Tarija es una región de marcados contrastes geográficos. Mientras el valle central goza de un microclima benigno que impulsa la agroindustria vitivinícola, la provincia Gran Chaco contiene formaciones geológicas subandinas que contienen las mayores reservas de gas del país (Campos San Alberto, Margarita, Sabalo).
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Geografía y Espacio
@@ -229,7 +230,7 @@ Tarija es una región de marcados contrastes geográficos. Mientras el valle cen
 La explotación informal de oro aluvial en la Amazonía boliviana representa uno de los mayores desafíos ambientales contemporáneos de Bolivia. El mercurio arrojado al río es transformado por bacterias en metilmercurio, un compuesto altamente neurotóxico que se bioacumula en la cadena trófica.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Geografía y Espacio
@@ -252,7 +253,7 @@ Si aplicamos el análisis de la geografía lacustre a la cuenca cerrada del alti
 El lago Poopó, el segundo más grande de Bolivia, colapsó ecológicamente en 2015, transformándose en un páramo de sal arcillosa. Este desastre destruyó el ecosistema de pesca, forzando el éxodo de las comunidades indígenas Uru-Murato, los habitantes más antiguos del altiplano.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Geografía y Espacio
@@ -275,7 +276,7 @@ El lago Poopó, el segundo más grande de Bolivia, colapsó ecológicamente en 2
 La controversia del Silala concluyó con el fallo de la CIJ de 2022, que determinó que ambas naciones concuerdan en que las aguas del Silala fluyen naturalmente a través de la frontera por efecto de la gravedad, teniendo tanto Chile como Bolivia derecho a un uso equitativo y razonable.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Geografía y Espacio
@@ -298,7 +299,7 @@ La controversia del Silala concluyó con el fallo de la CIJ de 2022, que determi
 Los valles interandinos de Bolivia poseen suelos de gran calidad pero con un relieve accidentado. La presión demográfica urbana reduce la frontera agrícola, mientras que las prácticas de tala en laderas para pastoreo aceleran deslaves y desertificación.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Geografía y Espacio
@@ -321,7 +322,7 @@ Al analizar la expansión de la frontera agrícola en el norte integrado y este 
 El modelo productivo agroindustrial cruceño ha transformado la geografía económica de Bolivia. Sin embargo, los prolongados incendios forestales anuales en la Chiquitanía revelan la aguda contradicción entre la búsqueda de ganancias agrarias inmediatas y la preservación ecológica de los ecosistemas.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Geografía y Espacio
@@ -344,7 +345,7 @@ El modelo productivo agroindustrial cruceño ha transformado la geografía econ�
 John Murra demostró que el archipiélago vertical andino constituía una magnífica respuesta civilizatoria a las condiciones extremas de la cordillera. Rompió la idea del determinismo geográfico europeo, probando que el relieve montañoso, en vez de un obstáculo insalvable, fue un motor de complementariedad productiva.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Geografía y Espacio
@@ -367,7 +368,7 @@ John Murra demostró que el archipiélago vertical andino constituía una magní
 El conflicto por el agua y la contaminación minera revela las asimetrías de poder de la geografía productiva boliviana. Las cooperativas mineras gozan de un gran peso político y eluden controles ambientales, perjudicando de forma irreversible la producción y salud alimentaria de los pequeños agricultores de los valles interandinos.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Geografía y Espacio
@@ -390,7 +391,7 @@ Al analizar la ampliación de la frontera agrícola y ganadera en las llanuras d
 Las tierras bajas bolivianas albergan ecosistemas de gran delicadeza. El manejo prehispánico de Moxos mediante lomas y canales respetaba y potenciaba el ciclo de inundación, en franco contraste con el extractivismo agropecuario contemporáneo que depreda los bosques de galería y agota la biodiversidad del Beni.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Geografía y Espacio
@@ -413,7 +414,7 @@ Al juzgar éticamente las responsabilidades e impactos del cambio climático en 
 La evaluación del impacto del cambio climático en Bolivia devela una profunda crisis ética y ambiental. Los bofedales altiplánicos andinos y la fauna de camélidos (llamas, alpacas) sufren severas sequías periódicas, mermando las condiciones básicas de vida de las comunidades tradicionales andinas que han preservado el territorio por siglos.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Geografía y Espacio
@@ -436,7 +437,7 @@ Al juzgar de manera integral las consecuencias de la mediterraneidad geográfica
 La mediterraneidad forzada de Bolivia tras la Guerra del Pacífico representa un obstáculo estructural histórico. Obliga al país a depender de la voluntad política y aduanera de Chile y Perú para exportar sus recursos, encareciendo insumos e imposibilitando la consolidación de un polo industrial soberano.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Geografía y Espacio
@@ -459,7 +460,7 @@ Al evaluar geopolíticamente el proyecto de industrialización soberana del liti
 El litio de Bolivia representa una inmensa esperanza económica pero también un riesgo geopolítico. Las salmueras de Uyuni poseen altas concentraciones de magnesio, lo que exige procesos químicos complejos de purificación, requiriendo alianzas estratégicas soberanas sin caer en el neocolonialismo corporativo.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Geografía y Espacio

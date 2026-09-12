@@ -16,9 +16,10 @@ license: FREE
 tier: legacy
 creador: Jules-Agent
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BR-MAT-11-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Funções e Álgebra
@@ -37,7 +38,7 @@ Dada a igualdade $\log_a(b) = x$, qual é a relação exponencial equivalente?
 ### Explicacion Pedagogica
 O logaritmo é a operação inversa da exponenciação. Dizer que $\log_a(b) = x$ é exatamente o mesmo que dizer que $a^x = b$, respeitando as condições de existência ($a > 0, a \neq 1$ e $b > 0$).
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BR-MAT-11-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Funções e Álgebra
@@ -56,7 +57,7 @@ Quais são as condições de existência para o logaritmo $\log_a(b)$?
 ### Explicacion Pedagogica
 Para que a função logarítmica seja bem definida no conjunto dos números reais: 1) A base $a$ deve ser positiva e diferente de 1. 2) O logaritmando $b$ deve ser maior que zero (pois potências de base positiva nunca resultam em zero ou negativo).
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BR-MAT-11-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
@@ -75,7 +76,7 @@ Qual é o valor de $\log_2(32)$?
 ### Explicacion Pedagogica
 Devemos encontrar o expoente $x$ tal que $2^x = 32$. Como $32 = 2 \cdot 2 \cdot 2 \cdot 2 \cdot 2 = 2^5$, concluímos que o logaritmo é 5.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BR-MAT-11-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
@@ -94,7 +95,7 @@ Em relação ao comportamento da função logarítmica $f(x) = \log_a(x)$, o que
 ### Explicacion Pedagogica
 Assim como nas funções exponenciais, a base $a$ define o crescimento. Se $a > 1$, a função é crescente. Se $0 < a < 1$, a função é decrescente.
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** BR-MAT-11-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
@@ -113,7 +114,7 @@ Dada a propriedade do logaritmo do produto, qual das seguintes expressões é ve
 ### Explicacion Pedagogica
 A função logarítmica possui propriedades operatórias importantes que derivam das propriedades de potências. O logaritmo de um produto é igual à soma dos logaritmos dos fatores na mesma base.
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** BR-MAT-11-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
@@ -132,7 +133,7 @@ Qual é o domínio da função real $f(x) = \log_3(x - 4)$?
 ### Explicacion Pedagogica
 Para que o logaritmo esteja definido, seu argumento (logaritmando) deve ser estritamente positivo. Assim, $x - 4 > 0 \Rightarrow x > 4$. O domínio é o intervalo aberto $(4, +\infty)$.
 
-## Question 7 [D6]
+## Question 7 [D5-D6]
 **ID:** BR-MAT-11-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -151,7 +152,7 @@ Qual é o valor da expressão $\log 1000 + \log 0,01$? (Nota: $\log$ sem base in
 ### Explicacion Pedagogica
 Resolvemos cada termo separadamente: $1000 = 10^3 \Rightarrow \log 1000 = 3$. $0,01 = 10^{-2} \Rightarrow \log 0,01 = -2$. Somando os dois resultados: $3 + (-2) = 1$.
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** BR-MAT-11-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -170,7 +171,7 @@ Utilizando as propriedades dos logaritmos, simplifique a expressão $\log_2(8^5)
 ### Explicacion Pedagogica
 Pela propriedade da potência: $\log_a(M^k) = k \cdot \log_a(M)$. Assim, $\log_2(8^5) = 5 \cdot \log_2(8)$. Como $\log_2(8) = 3$ (pois $2^3 = 8$), o resultado final é $5 \cdot 3 = 15$.
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** BR-MAT-11-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -189,7 +190,7 @@ Se $\log 2 \approx 0,30$ e $\log 3 \approx 0,48$, qual é o valor aproximado de 
 ### Explicacion Pedagogica
 Como $6 = 2 \cdot 3$, aplicamos a propriedade do produto: $\log 6 = \log(2 \cdot 3) = \log 2 + \log 3$. Substituindo os valores dados: $0,30 + 0,48 = 0,78$.
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** BR-MAT-11-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -208,7 +209,7 @@ Qual é a solução da equação $\log_x(49) = 2$?
 ### Explicacion Pedagogica
 Aplicando a definição de logaritmo: $x^2 = 49$. As soluções algébricas seriam $7$ e $-7$. No entanto, pela condição de existência das bases dos logaritmos ($a > 0$), a única solução válida é $x = 7$.
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BR-MAT-11-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -227,7 +228,7 @@ Qual é a fórmula correta para a mudança de base de $\log_a(b)$ para uma nova 
 ### Explicacion Pedagogica
 A fórmula de mudança de base é essencial para cálculos práticos. Ela estabelece que o logaritmo de $b$ na base $a$ é igual à razão entre o logaritmo de $b$ em uma base $c$ qualquer e o logaritmo da base original $a$ nessa mesma base $c$.
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BR-MAT-11-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -246,7 +247,7 @@ Resolva a equação $\log_5(x + 10) - \log_5(x) = 1$.
 ### Explicacion Pedagogica
 Usamos a propriedade do quociente: $\log_5(\frac{x+10}{x}) = 1$. Pela definição: $\frac{x+10}{x} = 5^1$. Resolvendo a equação linear: $x + 10 = 5x \Rightarrow 4x = 10 \Rightarrow x = 2,5$.
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BR-MAT-11-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
@@ -265,7 +266,7 @@ Os gráficos das funções $f(x) = 10^x$ e $g(x) = \log x$ são simétricos em r
 ### Explicacion Pedagogica
 Como a função logarítmica é a inversa da exponencial, seus pares ordenados $(x, y)$ são trocados por $(y, x)$. Geometricamente, essa inversão de coordenadas corresponde a uma reflexão em relação à reta $y = x$.
 
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** BR-MAT-11-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
@@ -284,7 +285,7 @@ Seja $\log a = 2$ e $\log b = 3$. Determine o valor de $\log(\frac{a^3}{b^2})$.
 ### Explicacion Pedagogica
 Aplicamos as propriedades do quociente e da potência: $\log(\frac{a^3}{b^2}) = \log(a^3) - \log(b^2) = 3 \cdot \log a - 2 \cdot \log b$. Substituindo os valores: $3(2) - 2(3) = 6 - 6 = 0$.
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** BR-MAT-11-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
@@ -303,7 +304,7 @@ Dada a expressão $5^x = 20$, qual é a solução para $x$ expressa em termos de
 ### Explicacion Pedagogica
 Para isolar o $x$ no expoente, aplicamos o logaritmo em ambos os lados da equação: $\log(5^x) = \log(20)$. Usando a propriedade da potência: $x \cdot \log 5 = \log 20$. Isolando $x$, temos $x = \frac{\log 20}{\log 5}$.
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** BR-MAT-11-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
@@ -322,7 +323,7 @@ Qual é a característica do gráfico da função $f(x) = -\log_2(x)$?
 ### Explicacion Pedagogica
 A função base $\log_2(x)$ é crescente pois $2 > 1$. O sinal negativo à frente da função aplica uma reflexão em relação ao eixo $x$, transformando os valores positivos em negativos e vice-versa, o que torna a função decrescente. O ponto $(1,0)$ permanece inalterado.
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BR-MAT-11-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
@@ -341,7 +342,7 @@ Simplifique a expressão: $e^{2 \ln x} + 10^{\log x}$.
 ### Explicacion Pedagogica
 Usamos as identidades fundamentais: $a^{\log_a b} = b$. No primeiro termo, $2 \ln x = \ln x^2$, então $e^{\ln x^2} = x^2$. No segundo termo, $10^{\log x} = x$. A soma resulta em $x^2 + x$.
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BR-MAT-11-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
@@ -362,7 +363,7 @@ Determine o conjunto solução da inequação: $\log_2(x - 3) + \log_2(x - 1) \l
 2. Resolvendo a inequação: $\log_2((x-3)(x-1)) \leq 3 \Rightarrow (x-3)(x-1) \leq 2^3 \Rightarrow x^2 - 4x + 3 \leq 8 \Rightarrow x^2 - 4x - 5 \leq 0$. As raízes são $-1$ e $5$. O intervalo é $[-1, 5]$.
 3. Interseção com a condição: $(3, +\infty) \cap [-1, 5] = (3, 5]$.
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** BR-MAT-11-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
@@ -381,7 +382,7 @@ Qual é o valor da soma $S = \log_2(3) \cdot \log_3(4) \cdot \log_4(5) \cdot ...
 ### Explicacion Pedagogica
 Aplicamos a mudança de base em cada termo para uma base comum $k$: $\frac{\log_k 3}{\log_k 2} \cdot \frac{\log_k 4}{\log_k 3} \cdot \frac{\log_k 5}{\log_k 4} \cdot ... \cdot \frac{\log_k 32}{\log_k 31}$. Observamos um cancelamento telescópico, sobrando apenas $\frac{\log_k 32}{\log_k 2}$, que é igual a $\log_2(32) = 5$.
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BR-MAT-11-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra

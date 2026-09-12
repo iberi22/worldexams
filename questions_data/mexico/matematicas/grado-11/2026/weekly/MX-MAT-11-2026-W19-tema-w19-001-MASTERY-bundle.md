@@ -13,12 +13,13 @@ total_questions: 20
 bundle_size: 20
 alignment: "SEP NEM Mexico 2026 / EXANI-II pensamiento matematico"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** MX-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Matemático
@@ -41,7 +42,7 @@ Calcula la distancia exacta entre los puntos A(2, 3) y B(8, 11) en el plano cart
 ### Explicacion Pedagogica
 La fórmula de la distancia entre dos puntos en el plano cartesiano es d = √((x₂ - x₁)² + (y₂ - y₁)²). Sustituyendo los puntos A(2, 3) y B(8, 11): d = √((8 - 2)² + (11 - 3)²) = √(6² + 8²) = √(36 + 64) = √100 = 10 unidades.
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Matemático
@@ -64,7 +65,7 @@ Calcula la distancia exacta entre los puntos A(3, 4) y B(9, 12) en el plano cart
 ### Explicacion Pedagogica
 La fórmula de la distancia entre dos puntos en el plano cartesiano es d = √((x₂ - x₁)² + (y₂ - y₁)²). Sustituyendo los puntos A(3, 4) y B(9, 12): d = √((9 - 3)² + (12 - 4)²) = √(6² + 8²) = √(36 + 64) = √100 = 10 unidades.
 
-## Question 3 [D5]
+## Question 3 [D5-D6]
 **ID:** MX-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v3
 **Bloom:** Remember
 **EJE:** Pensamiento Matemático
@@ -87,7 +88,7 @@ Calcula la distancia exacta entre los puntos A(4, 5) y B(10, 13) en el plano car
 ### Explicacion Pedagogica
 La fórmula de la distancia entre dos puntos en el plano cartesiano es d = √((x₂ - x₁)² + (y₂ - y₁)²). Sustituyendo los puntos A(4, 5) y B(10, 13): d = √((10 - 4)² + (13 - 5)²) = √(6² + 8²) = √(36 + 64) = √100 = 10 unidades.
 
-## Question 4 [D6]
+## Question 4 [D5-D6]
 **ID:** MX-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v4
 **Bloom:** Remember
 **EJE:** Pensamiento Matemático
@@ -110,7 +111,7 @@ Calcula la distancia exacta entre los puntos A(5, 6) y B(11, 14) en el plano car
 ### Explicacion Pedagogica
 La fórmula de la distancia entre dos puntos en el plano cartesiano es d = √((x₂ - x₁)² + (y₂ - y₁)²). Sustituyendo los puntos A(5, 6) y B(11, 14): d = √((11 - 5)² + (14 - 6)²) = √(6² + 8²) = √(36 + 64) = √100 = 10 unidades.
 
-## Question 5 [D9]
+## Question 5 [D9-D10]
 **ID:** MX-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -133,7 +134,7 @@ Calcula la distancia exacta entre los puntos A(6, 3) y B(12, 11) en el plano car
 ### Explicacion Pedagogica
 La fórmula de la distancia entre dos puntos en el plano cartesiano es d = √((x₂ - x₁)² + (y₂ - y₁)²). Sustituyendo los puntos A(6, 3) y B(12, 11): d = √((12 - 6)² + (11 - 3)²) = √(6² + 8²) = √(36 + 64) = √100 = 10 unidades.
 
-## Question 6 [D10]
+## Question 6 [D9-D10]
 **ID:** MX-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -156,7 +157,7 @@ Calcula la distancia exacta entre los puntos A(7, 4) y B(13, 12) en el plano car
 ### Explicacion Pedagogica
 La fórmula de la distancia entre dos puntos en el plano cartesiano es d = √((x₂ - x₁)² + (y₂ - y₁)²). Sustituyendo los puntos A(7, 4) y B(13, 12): d = √((13 - 7)² + (12 - 4)²) = √(6² + 8²) = √(36 + 64) = √100 = 10 unidades.
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** MX-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v7
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -179,7 +180,7 @@ Calcula la distancia exacta entre los puntos A(8, 5) y B(14, 13) en el plano car
 ### Explicacion Pedagogica
 La fórmula de la distancia entre dos puntos en el plano cartesiano es d = √((x₂ - x₁)² + (y₂ - y₁)²). Sustituyendo los puntos A(8, 5) y B(14, 13): d = √((14 - 8)² + (13 - 5)²) = √(6² + 8²) = √(36 + 64) = √100 = 10 unidades.
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v8
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -202,7 +203,7 @@ Calcula la distancia exacta entre los puntos A(9, 6) y B(15, 14) en el plano car
 ### Explicacion Pedagogica
 La fórmula de la distancia entre dos puntos en el plano cartesiano es d = √((x₂ - x₁)² + (y₂ - y₁)²). Sustituyendo los puntos A(9, 6) y B(15, 14): d = √((15 - 9)² + (14 - 6)²) = √(6² + 8²) = √(36 + 64) = √100 = 10 unidades.
 
-## Question 9 [D7]
+## Question 9 [D7-D8]
 **ID:** MX-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v9
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -225,7 +226,7 @@ Calcula la distancia exacta entre los puntos A(10, 3) y B(16, 11) en el plano ca
 ### Explicacion Pedagogica
 La fórmula de la distancia entre dos puntos en el plano cartesiano es d = √((x₂ - x₁)² + (y₂ - y₁)²). Sustituyendo los puntos A(10, 3) y B(16, 11): d = √((16 - 10)² + (11 - 3)²) = √(6² + 8²) = √(36 + 64) = √100 = 10 unidades.
 
-## Question 10 [D8]
+## Question 10 [D7-D8]
 **ID:** MX-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v10
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -248,7 +249,7 @@ Calcula la distancia exacta entre los puntos A(11, 4) y B(17, 12) en el plano ca
 ### Explicacion Pedagogica
 La fórmula de la distancia entre dos puntos en el plano cartesiano es d = √((x₂ - x₁)² + (y₂ - y₁)²). Sustituyendo los puntos A(11, 4) y B(17, 12): d = √((17 - 11)² + (12 - 4)²) = √(6² + 8²) = √(36 + 64) = √100 = 10 unidades.
 
-## Question 11 [D11]
+## Question 11 [D9-D10]
 **ID:** MX-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -271,7 +272,7 @@ Calcula la distancia exacta entre los puntos A(12, 5) y B(18, 13) en el plano ca
 ### Explicacion Pedagogica
 La fórmula de la distancia entre dos puntos en el plano cartesiano es d = √((x₂ - x₁)² + (y₂ - y₁)²). Sustituyendo los puntos A(12, 5) y B(18, 13): d = √((18 - 12)² + (13 - 5)²) = √(6² + 8²) = √(36 + 64) = √100 = 10 unidades.
 
-## Question 12 [D12]
+## Question 12 [D9-D10]
 **ID:** MX-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -294,7 +295,7 @@ Calcula la distancia exacta entre los puntos A(13, 6) y B(19, 14) en el plano ca
 ### Explicacion Pedagogica
 La fórmula de la distancia entre dos puntos en el plano cartesiano es d = √((x₂ - x₁)² + (y₂ - y₁)²). Sustituyendo los puntos A(13, 6) y B(19, 14): d = √((19 - 13)² + (14 - 6)²) = √(6² + 8²) = √(36 + 64) = √100 = 10 unidades.
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** MX-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v13
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -317,7 +318,7 @@ Calcula la distancia exacta entre los puntos A(14, 3) y B(20, 11) en el plano ca
 ### Explicacion Pedagogica
 La fórmula de la distancia entre dos puntos en el plano cartesiano es d = √((x₂ - x₁)² + (y₂ - y₁)²). Sustituyendo los puntos A(14, 3) y B(20, 11): d = √((20 - 14)² + (11 - 3)²) = √(6² + 8²) = √(36 + 64) = √100 = 10 unidades.
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v14
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -340,7 +341,7 @@ Calcula la distancia exacta entre los puntos A(15, 4) y B(21, 12) en el plano ca
 ### Explicacion Pedagogica
 La fórmula de la distancia entre dos puntos en el plano cartesiano es d = √((x₂ - x₁)² + (y₂ - y₁)²). Sustituyendo los puntos A(15, 4) y B(21, 12): d = √((21 - 15)² + (12 - 4)²) = √(6² + 8²) = √(36 + 64) = √100 = 10 unidades.
 
-## Question 15 [D9]
+## Question 15 [D9-D10]
 **ID:** MX-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v15
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -363,7 +364,7 @@ Calcula la distancia exacta entre los puntos A(16, 5) y B(22, 13) en el plano ca
 ### Explicacion Pedagogica
 La fórmula de la distancia entre dos puntos en el plano cartesiano es d = √((x₂ - x₁)² + (y₂ - y₁)²). Sustituyendo los puntos A(16, 5) y B(22, 13): d = √((22 - 16)² + (13 - 5)²) = √(6² + 8²) = √(36 + 64) = √100 = 10 unidades.
 
-## Question 16 [D10]
+## Question 16 [D9-D10]
 **ID:** MX-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v16
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -386,7 +387,7 @@ Calcula la distancia exacta entre los puntos A(17, 6) y B(23, 14) en el plano ca
 ### Explicacion Pedagogica
 La fórmula de la distancia entre dos puntos en el plano cartesiano es d = √((x₂ - x₁)² + (y₂ - y₁)²). Sustituyendo los puntos A(17, 6) y B(23, 14): d = √((23 - 17)² + (14 - 6)²) = √(6² + 8²) = √(36 + 64) = √100 = 10 unidades.
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** MX-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático
@@ -409,7 +410,7 @@ Calcula la distancia exacta entre los puntos A(18, 3) y B(24, 11) en el plano ca
 ### Explicacion Pedagogica
 La fórmula de la distancia entre dos puntos en el plano cartesiano es d = √((x₂ - x₁)² + (y₂ - y₁)²). Sustituyendo los puntos A(18, 3) y B(24, 11): d = √((24 - 18)² + (11 - 3)²) = √(6² + 8²) = √(36 + 64) = √100 = 10 unidades.
 
-## Question 18 [D10]
+## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático
@@ -432,7 +433,7 @@ Calcula la distancia exacta entre los puntos A(19, 4) y B(25, 12) en el plano ca
 ### Explicacion Pedagogica
 La fórmula de la distancia entre dos puntos en el plano cartesiano es d = √((x₂ - x₁)² + (y₂ - y₁)²). Sustituyendo los puntos A(19, 4) y B(25, 12): d = √((25 - 19)² + (12 - 4)²) = √(6² + 8²) = √(36 + 64) = √100 = 10 unidades.
 
-## Question 19 [D11]
+## Question 19 [D9-D10]
 **ID:** MX-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático
@@ -455,7 +456,7 @@ Calcula la distancia exacta entre los puntos A(20, 5) y B(26, 13) en el plano ca
 ### Explicacion Pedagogica
 La fórmula de la distancia entre dos puntos en el plano cartesiano es d = √((x₂ - x₁)² + (y₂ - y₁)²). Sustituyendo los puntos A(20, 5) y B(26, 13): d = √((26 - 20)² + (13 - 5)²) = √(6² + 8²) = √(36 + 64) = √100 = 10 unidades.
 
-## Question 20 [D12]
+## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático

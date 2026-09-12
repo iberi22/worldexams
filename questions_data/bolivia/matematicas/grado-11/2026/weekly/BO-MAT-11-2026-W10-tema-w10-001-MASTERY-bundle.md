@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Matemáticas: Tema W10 (W10)
 **20 preguntas | Grado 11 (6to de Secundaria) | MINEDU - Ley Educativa Avelino Siñani - Elizardo Pérez**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -42,7 +43,7 @@ bundle_index: 1
 El eje de simetría y la coordenada del vértice x de una función cuadrática se calcula utilizando la relación de coeficientes reales x = -b / (2a).
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -62,7 +63,7 @@ Si el coeficiente a del término cuadrático ax^2 en una función cuadrática es
 El coeficiente cuadrático a define la concavidad de la parábola. Si a < 0, la parábola es cóncava hacia abajo.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -82,7 +83,7 @@ Dada la función cuadrática f(x) = x^2 - 4x + 5, ¿cuál es la coordenada del v
 La coordenada x del vértice es x_v = -b / (2a) = -(-4) / (2 * 1) = 2. Para la coordenada y: y_v = f(2) = 2^2 - 4(2) + 5 = 1. El vértice es (2, 1).
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -102,7 +103,7 @@ Se modelan las ganancias de una cooperativa minera con la función cuadrática: 
 La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(8) / (2 * -1) = 4.
 
 ---
-## Question 5 [D4]
+## Question 5 [D3-D4]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v5
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -122,7 +123,7 @@ Se modelan las ganancias de una cooperativa minera con la función cuadrática: 
 La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(10) / (2 * -1) = 5.
 
 ---
-## Question 6 [D4]
+## Question 6 [D3-D4]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -142,7 +143,7 @@ Se modelan las ganancias de una cooperativa minera con la función cuadrática: 
 La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(12) / (2 * -1) = 6.
 
 ---
-## Question 7 [D4]
+## Question 7 [D3-D4]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -162,7 +163,7 @@ Se modelan las ganancias de una cooperativa minera con la función cuadrática: 
 La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(14) / (2 * -1) = 7.
 
 ---
-## Question 8 [D4]
+## Question 8 [D3-D4]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -182,7 +183,7 @@ Se modelan las ganancias de una cooperativa minera con la función cuadrática: 
 La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(16) / (2 * -1) = 8.
 
 ---
-## Question 9 [D4]
+## Question 9 [D3-D4]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v9
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -202,7 +203,7 @@ Se modelan las ganancias de una cooperativa minera con la función cuadrática: 
 La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(18) / (2 * -1) = 9.
 
 ---
-## Question 10 [D4]
+## Question 10 [D3-D4]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -222,7 +223,7 @@ Se modelan las ganancias de una cooperativa minera con la función cuadrática: 
 La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(20) / (2 * -1) = 10.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -242,7 +243,7 @@ Se modelan las ganancias de una cooperativa minera con la función cuadrática: 
 La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(22) / (2 * -1) = 11.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -262,7 +263,7 @@ Se modelan las ganancias de una cooperativa minera con la función cuadrática: 
 La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(24) / (2 * -1) = 12.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -282,7 +283,7 @@ Se modelan las ganancias de una cooperativa minera con la función cuadrática: 
 La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(26) / (2 * -1) = 13.
 
 ---
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v14
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -302,7 +303,7 @@ Se modelan las ganancias de una cooperativa minera con la función cuadrática: 
 La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(28) / (2 * -1) = 14.
 
 ---
-## Question 15 [D7]
+## Question 15 [D7-D8]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -322,7 +323,7 @@ Se modelan las ganancias de una cooperativa minera con la función cuadrática: 
 La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(30) / (2 * -1) = 15.
 
 ---
-## Question 16 [D7]
+## Question 16 [D7-D8]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v16
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -342,7 +343,7 @@ Se modelan las ganancias de una cooperativa minera con la función cuadrática: 
 La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(32) / (2 * -1) = 16.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v17
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -362,7 +363,7 @@ Se modelan las ganancias de una cooperativa minera con la función cuadrática: 
 La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(34) / (2 * -1) = 17.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v18
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -382,7 +383,7 @@ Se modelan las ganancias de una cooperativa minera con la función cuadrática: 
 La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(36) / (2 * -1) = 18.
 
 ---
-## Question 19 [D9]
+## Question 19 [D9-D10]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v19
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -402,7 +403,7 @@ Se modelan las ganancias de una cooperativa minera con la función cuadrática: 
 La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(38) / (2 * -1) = 19.
 
 ---
-## Question 20 [D9]
+## Question 20 [D9-D10]
 **ID:** BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v20
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos

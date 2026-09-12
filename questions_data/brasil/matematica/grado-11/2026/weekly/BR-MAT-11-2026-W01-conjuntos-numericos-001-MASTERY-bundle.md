@@ -16,9 +16,10 @@ license: FREE
 tier: legacy
 creador: Jules-Agent
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BR-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Números e Operações
@@ -37,7 +38,7 @@ Qual dos seguintes números pertence ao conjunto dos números irracionais ($\mat
 ### Explicacion Pedagogica
 Os números irracionais são aqueles que possuem representação decimal infinita e não periódica. O número $\sqrt{5}$ não pode ser escrito na forma de fração $a/b$, onde $a$ e $b$ são inteiros, ao contrário das dízimas periódicas ou frações simples.
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BR-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Números e Operações
@@ -56,7 +57,7 @@ Sobre os conjuntos numéricos, é correto afirmar que:
 ### Explicacion Pedagogica
 A estrutura dos conjuntos numéricos é hierárquica: $\mathbb{N} \subset \mathbb{Z} \subset \mathbb{Q} \subset \mathbb{R}$. Portanto, todo número que é natural também é, necessariamente, um número inteiro.
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BR-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Números e Operações
@@ -75,7 +76,7 @@ Considere os conjuntos $A = \{x \in \mathbb{Z} \mid -3 < x \leq 2\}$ e $B = \{0,
 ### Explicacion Pedagogica
 O conjunto $A$ contém os elementos $\{-2, -1, 0, 1, 2\}$. O conjunto $B$ contém $\{0, 1, 2, 3\}$. A interseção $A \cap B$ seleciona apenas os elementos comuns: $0, 1$ e $2$.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BR-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Números e Operações
@@ -94,7 +95,7 @@ Seja $\mathbb{N}^*$ o conjunto dos números naturais excluindo o zero. Qual é a
 ### Explicacion Pedagogica
 Para listar os elementos, devemos satisfazer três condições: ser natural par, ser estritamente maior que 5 ($x > 5$) e ser menor ou igual a 12 ($x \leq 12$). Os valores são 6, 8, 10 e 12.
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** BR-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Números e Operações
@@ -113,7 +114,7 @@ Considere o intervalo real $I = [ -2, 5 )$. Qual das seguintes afirmações sobr
 ### Explicacion Pedagogica
 A notação $[a, b)$ representa um intervalo fechado à esquerda (inclui $a$) e aberto à direita (exclui $b$). Assim, $-2 \in I$ e $5 \notin I$.
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** BR-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Números e Operações
@@ -132,7 +133,7 @@ Em um grupo de 100 jovens, 60 usam a Rede A, 50 usam a Rede B e 20 usam ambas. Q
 ### Explicacion Pedagogica
 Utilizamos o Princípio da Inclusão-Exclusão para achar a união: $n(A \cup B) = n(A) + n(B) - n(A \cap B)$. Logo, $n(A \cup B) = 60 + 50 - 20 = 90$. O número de jovens fora da união é $100 - 90 = 10$.
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** BR-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Números e Operações
@@ -151,7 +152,7 @@ Dos 120 alunos do 3º ano, 70 estão no clube de Esportes e 60 no de Música. Sa
 ### Explicacion Pedagogica
 Como todos participam de pelo menos um clube, a união é igual ao total de alunos (120). Pela fórmula $n(A \cup B) = n(A) + n(B) - n(A \cap B)$, temos $120 = 70 + 60 - n(A \cap B)$, resultando em 10 alunos na interseção.
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** BR-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Números e Operações
@@ -170,7 +171,7 @@ Qual é a fração geratriz da dízima periódica $0,444...$?
 ### Explicacion Pedagogica
 Para converter uma dízima periódica simples em fração, colocamos o período no numerador e, para cada algarismo do período, um algarismo 9 no denominador. No caso de $0,444...$, o período é 4, resultando em $4/9$.
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** BR-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Números e Operações
@@ -189,7 +190,7 @@ Considere o conjunto $S = \{x \in \mathbb{R} \mid x^2 = 7\}$. A quais conjuntos 
 ### Explicacion Pedagogica
 A equação $x^2 = 7$ tem como soluções $x = \sqrt{7}$ e $x = -\sqrt{7}$. Como 7 não é um quadrado perfeito, suas raízes quadradas são números irracionais. Todo número irracional também é um número real.
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** BR-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Números e Operações
@@ -208,7 +209,7 @@ Se $A = [1, 4]$ e $B = [2, 6]$, qual é o conjunto resultante da diferença $A -
 ### Explicacion Pedagogica
 A diferença $A - B$ consiste nos elementos que pertencem a $A$ mas NÃO pertencem a $B$. Como $A = \{x \in \mathbb{R} \mid 1 \leq x \leq 4\}$ e $B = \{x \in \mathbb{R} \mid 2 \leq x \leq 6\}$, os elementos de $A$ a partir de 2 (inclusive) devem ser retirados. Sobram os números de 1 (inclusive) até 2 (exclusivo).
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BR-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Números e Operações
@@ -227,7 +228,7 @@ Seja o conjunto universo $U = \mathbb{R}$ e o conjunto $A = \{x \in \mathbb{R} \
 ### Explicacion Pedagogica
 O complementar de um conjunto $A$ em um universo $U$ contém todos os elementos de $U$ que não estão em $A$. Se $A$ é o intervalo aberto $(3, +\infty)$, seu complementar é o intervalo fechado $(-\infty, 3]$.
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BR-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Números e Operações
@@ -250,7 +251,7 @@ Quais estão corretas?
 ### Explicacion Pedagogica
 I é falsa pois o produto de irracionais pode ser racional (ex: $\sqrt{2} \cdot \sqrt{2} = 2$). II é verdadeira: se $r + i = q$ (racional), então $i = q - r$ seria racional, o que é uma contradição. III é verdadeira devido à propriedade da densidade dos racionais.
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BR-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Números e Operações
@@ -269,7 +270,7 @@ Em uma amostra, 10 pessoas consomem as três marcas, 20 consomem X e Y, 25 conso
 ### Explicacion Pedagogica
 Para encontrar quem consome exclusivamente X e Y, devemos pegar o total da interseção de X com Y e subtrair os indivíduos que também consomem a marca Z (interseção tripla). Assim: $n(X \cap Y) - n(X \cap Y \cap Z) = 20 - 10 = 10$.
 
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** BR-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Números e Operações
@@ -288,7 +289,7 @@ Se um conjunto $A$ possui 5 elementos, quantos subconjuntos possui o conjunto da
 ### Explicacion Pedagogica
 O conjunto das partes de $A$ contém todos os subconjuntos possíveis de $A$. Se $n(A) = n$, então $n(\mathcal{P}(A)) = 2^n$. Para $n = 5$, temos $2^5 = 32$.
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** BR-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Números e Operações
@@ -307,7 +308,7 @@ Dados $A = \{x \in \mathbb{R} \mid x^2 - 5x + 6 = 0\}$ e $B = \{x \in \mathbb{R}
 ### Explicacion Pedagogica
 As raízes de $x^2 - 5x + 6 = 0$ são $x = 2$ e $x = 3$. O conjunto $B$ contém todos os números reais entre 1 (exclusivo) e 3 (inclusive). Como 2 e 3 satisfazem as condições de $B$, a interseção é $\{2, 3\}$.
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** BR-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Números e Operações
@@ -326,7 +327,7 @@ Simplifique a expressão de conjuntos: $(A \cap B) \cup (A \cap B^c)$, onde $B^c
 ### Explicacion Pedagogica
 Utilizando a propriedade distributiva da união em relação à interseção: $A \cap (B \cup B^c)$. Como $B \cup B^c$ é o conjunto universo ($U$), temos $A \cap U$, que resulta no próprio conjunto $A$.
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BR-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Números e Operações
@@ -345,7 +346,7 @@ Considere $a$ um número racional não nulo e $b$ um número irracional. Avalie 
 ### Explicacion Pedagogica
 A soma de um número racional com um irracional é sempre irracional. Se fosse racional ($a + b = r$), então $b = r - a$ seria racional (pois a diferença de dois racionais é racional), o que contradiz o fato de $b$ ser irracional.
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BR-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Números e Operações
@@ -364,7 +365,7 @@ Seja $A_n = [0, 1/n]$ para cada $n \in \mathbb{N}^*$. Qual é o resultado da int
 ### Explicacion Pedagogica
 Cada conjunto $A_n$ é um intervalo $[0, 1/n]$. À medida que $n$ aumenta, o limite superior $1/n$ aproxima-se de 0, mas nunca fica abaixo de 0. O único número que está presente em todos os intervalos simultaneamente é o 0.
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** BR-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Números e Operações
@@ -383,7 +384,7 @@ Considere o conjunto $X = \{ q \in \mathbb{Q} \mid q^2 < 2 \}$. No conjunto dos 
 ### Explicacion Pedagogica
 Esta é uma propriedade fundamental que distingue os racionais dos reais (completude). O conjunto $X$ é limitado superiormente em $\mathbb{Q}$, mas não possui um supremo (e, portanto, nem um máximo) que seja um número racional.
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BR-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Números e Operações

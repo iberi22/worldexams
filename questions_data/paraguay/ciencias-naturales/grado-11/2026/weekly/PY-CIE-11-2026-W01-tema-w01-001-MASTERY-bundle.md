@@ -15,6 +15,7 @@ alignment: "MEC Paraguay"
 license: "FREE"
 tier: "legacy"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 creador: "Jules-Agent"
 ---
 
@@ -24,7 +25,7 @@ Este bundle cubre de manera exhaustiva el tema de Método científico e investig
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v1
 **Bloom:** Remember
 **EJE:** Método Científico
@@ -45,7 +46,7 @@ En el método científico, la variable independiente es la causa o factor manipu
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v2
 **Bloom:** Understand
 **EJE:** Método Científico
@@ -66,7 +67,7 @@ La hipótesis científica debe ser clara, predictiva y susceptible de ser someti
 
 ---
 
-## Question 3 [D3]
+## Question 3 [D3-D4]
 **ID:** PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v3
 **Bloom:** Remember
 **EJE:** Método Científico
@@ -87,7 +88,7 @@ La reproducibilidad y la repetibilidad son pilares fundamentales del método cie
 
 ---
 
-## Question 4 [D3]
+## Question 4 [D3-D4]
 **ID:** PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v4
 **Bloom:** Understand
 **EJE:** Método Científico
@@ -108,7 +109,7 @@ Los datos cualitativos capturan propiedades no numéricas, mientras que los cuan
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v5
 **Bloom:** Apply
 **EJE:** Método Científico
@@ -129,7 +130,7 @@ Las variables cuantitativas continuas pueden adoptar valores decimales intermedi
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v6
 **Bloom:** Understand
 **EJE:** Método Científico
@@ -150,7 +151,7 @@ Una hipótesis científica válida debe establecer una relación de causalidad l
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v7
 **Bloom:** Apply
 **EJE:** Método Científico
@@ -171,7 +172,7 @@ La validez del conocimiento científico reposa en la capacidad de la comunidad d
 
 ---
 
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v8
 **Bloom:** Understand
 **EJE:** Método Científico
@@ -192,7 +193,7 @@ La precisión describe la dispersión de un conjunto de medidas, mientras que la
 
 ---
 
-## Question 9 [D5]
+## Question 9 [D5-D6]
 **ID:** PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v9
 **Bloom:** Apply
 **EJE:** Método Científico
@@ -213,7 +214,7 @@ La ciencia se construye de manera acumulativa; por ende, documentarse sobre inve
 
 ---
 
-## Question 10 [D5]
+## Question 10 [D5-D6]
 **ID:** PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v10
 **Bloom:** Understand
 **EJE:** Método Científico
@@ -234,7 +235,7 @@ Controlar las variables intervinientes es vital para garantizar la validez inter
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v11
 **Bloom:** Analyze
 **EJE:** Método Científico
@@ -255,7 +256,7 @@ La refutabilidad es una característica esencial de la ciencia; el rechazo de un
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v12
 **Bloom:** Apply
 **EJE:** Método Científico
@@ -276,7 +277,7 @@ El uso de controles adecuados permite aislar el efecto de la variable que se des
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v13
 **Bloom:** Analyze
 **EJE:** Método Científico
@@ -297,7 +298,7 @@ La variable dependiente es el efecto que se mide en respuesta a la variación co
 
 ---
 
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v14
 **Bloom:** Apply
 **EJE:** Método Científico
@@ -318,7 +319,7 @@ La robustez estadística mediante la repetición del experimento y el uso de un 
 
 ---
 
-## Question 15 [D7]
+## Question 15 [D7-D8]
 **ID:** PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v15
 **Bloom:** Analyze
 **EJE:** Método Científico
@@ -339,7 +340,7 @@ La representación gráfica de datos es clave en el método científico para mod
 
 ---
 
-## Question 16 [D7]
+## Question 16 [D7-D8]
 **ID:** PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v16
 **Bloom:** Apply
 **EJE:** Método Científico
@@ -360,7 +361,7 @@ El progreso de la ciencia descansa en la autocrítica y la revisión colectiva p
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v17
 **Bloom:** Evaluate
 **EJE:** Método Científico
@@ -381,7 +382,7 @@ Las teorías y las leyes son componentes complementarios del cuerpo científico.
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v18
 **Bloom:** Analyze
 **EJE:** Método Científico
@@ -402,7 +403,7 @@ El control de sesgos subjetivos es fundamental en las ciencias de la salud para 
 
 ---
 
-## Question 19 [D9]
+## Question 19 [D9-D10]
 **ID:** PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v19
 **Bloom:** Evaluate
 **EJE:** Método Científico
@@ -423,7 +424,7 @@ Los modelos científicos son herramientas predictivas útiles y dinámicas que e
 
 ---
 
-## Question 20 [D9]
+## Question 20 [D9-D10]
 **ID:** PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v20
 **Bloom:** Analyze
 **EJE:** Método Científico

@@ -16,6 +16,7 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 # Weekly Pack W04: Expresiones Algebraicas y Polinomios (Grado 11)
 
@@ -23,7 +24,7 @@ Este bundle evalúa conceptos clave de Expresiones Algebraicas y Polinomios alin
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v1
 **Bloom:** Remember
 **EJE:** Álgebra y funciones
@@ -44,7 +45,7 @@ El grado absoluto de un polinomio es el mayor grado absoluto de sus términos co
 
 ---
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v2
 **Bloom:** Understand
 **EJE:** Álgebra y funciones
@@ -65,7 +66,7 @@ El término independiente de un polinomio es el término que no tiene variable (
 
 ---
 
-## Question 3 [D3]
+## Question 3 [D3-D4]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v3
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -86,7 +87,7 @@ Factorizando por término común: $5x^2 + 10x = 5x(x + 2)$. El término común e
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v4
 **Bloom:** Analyze
 **EJE:** Álgebra y funciones
@@ -107,7 +108,7 @@ Factorizando por término común: $2x^2 + 4x = 2x(x + 2)$. El término común ex
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v5
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -128,7 +129,7 @@ Factorizando por término común: $3x^2 + 6x = 3x(x + 2)$. El término común ex
 
 ---
 
-## Question 6 [D6]
+## Question 6 [D5-D6]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v6
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -149,7 +150,7 @@ Factorizando por término común: $4x^2 + 8x = 4x(x + 2)$. El término común ex
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v7
 **Bloom:** Evaluate
 **EJE:** Álgebra y funciones
@@ -170,7 +171,7 @@ Factorizando por término común: $5x^2 + 10x = 5x(x + 2)$. El término común e
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v8
 **Bloom:** Evaluate
 **EJE:** Álgebra y funciones
@@ -191,7 +192,7 @@ Factorizando por término común: $2x^2 + 4x = 2x(x + 2)$. El término común ex
 
 ---
 
-## Question 9 [D5]
+## Question 9 [D5-D6]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v9
 **Bloom:** Evaluate
 **EJE:** Álgebra y funciones
@@ -212,7 +213,7 @@ Factorizando por término común: $3x^2 + 6x = 3x(x + 2)$. El término común ex
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v10
 **Bloom:** Remember
 **EJE:** Álgebra y funciones
@@ -233,7 +234,7 @@ Factorizando por término común: $4x^2 + 8x = 4x(x + 2)$. El término común ex
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v11
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -254,7 +255,7 @@ Factorizando por término común: $5x^2 + 10x = 5x(x + 2)$. El término común e
 
 ---
 
-## Question 12 [D8]
+## Question 12 [D7-D8]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v12
 **Bloom:** Understand
 **EJE:** Álgebra y funciones
@@ -275,7 +276,7 @@ Factorizando por término común: $2x^2 + 4x = 2x(x + 2)$. El término común ex
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v13
 **Bloom:** Understand
 **EJE:** Álgebra y funciones
@@ -296,7 +297,7 @@ Factorizando por término común: $3x^2 + 6x = 3x(x + 2)$. El término común ex
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v14
 **Bloom:** Understand
 **EJE:** Álgebra y funciones
@@ -317,7 +318,7 @@ Factorizando por término común: $4x^2 + 8x = 4x(x + 2)$. El término común ex
 
 ---
 
-## Question 15 [D7]
+## Question 15 [D7-D8]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v15
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -338,7 +339,7 @@ Factorizando por término común: $5x^2 + 10x = 5x(x + 2)$. El término común e
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v16
 **Bloom:** Analyze
 **EJE:** Álgebra y funciones
@@ -359,7 +360,7 @@ Factorizando por término común: $2x^2 + 4x = 2x(x + 2)$. El término común ex
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v17
 **Bloom:** Analyze
 **EJE:** Álgebra y funciones
@@ -380,7 +381,7 @@ Factorizando por término común: $3x^2 + 6x = 3x(x + 2)$. El término común ex
 
 ---
 
-## Question 18 [D10]
+## Question 18 [D9-D10]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v18
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -401,7 +402,7 @@ Factorizando por término común: $4x^2 + 8x = 4x(x + 2)$. El término común ex
 
 ---
 
-## Question 19 [D9]
+## Question 19 [D9-D10]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v19
 **Bloom:** Analyze
 **EJE:** Álgebra y funciones
@@ -422,7 +423,7 @@ Factorizando por término común: $5x^2 + 10x = 5x(x + 2)$. El término común e
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PY-MAT-11-2026-W04-tema-w04-001-MASTERY-v20
 **Bloom:** Evaluate
 **EJE:** Álgebra y funciones
