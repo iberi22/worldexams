@@ -16,6 +16,7 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 # Weekly Pack W05: Ecuaciones Lineales y Modelos (Grado 11)
 
@@ -23,7 +24,7 @@ Este bundle evalúa conceptos clave de Ecuaciones Lineales y Modelos alineados a
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PY-MAT-11-2026-W05-tema-w05-001-MASTERY-v1
 **Bloom:** Remember
 **EJE:** Álgebra y funciones
@@ -44,7 +45,7 @@ Una ecuación lineal o de primer grado en una variable tiene la forma general $a
 
 ---
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** PY-MAT-11-2026-W05-tema-w05-001-MASTERY-v2
 **Bloom:** Understand
 **EJE:** Álgebra y funciones
@@ -65,7 +66,7 @@ Restamos 12 a ambos miembros: $3x = 15$. Luego dividimos entre 3: $x = 5$.
 
 ---
 
-## Question 3 [D3]
+## Question 3 [D3-D4]
 **ID:** PY-MAT-11-2026-W05-tema-w05-001-MASTERY-v3
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -86,7 +87,7 @@ Planteamos la ecuación: $5.000x + 25000 = 40000$. Restamos 25000: $5.000x = 15.
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PY-MAT-11-2026-W05-tema-w05-001-MASTERY-v4
 **Bloom:** Analyze
 **EJE:** Álgebra y funciones
@@ -107,7 +108,7 @@ Planteamos la ecuación: $5.000x + 30000 = 45000$. Restamos 30000: $5.000x = 15.
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PY-MAT-11-2026-W05-tema-w05-001-MASTERY-v5
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -128,7 +129,7 @@ Planteamos la ecuación: $5.000x + 35000 = 50000$. Restamos 35000: $5.000x = 15.
 
 ---
 
-## Question 6 [D6]
+## Question 6 [D5-D6]
 **ID:** PY-MAT-11-2026-W05-tema-w05-001-MASTERY-v6
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -149,7 +150,7 @@ Planteamos la ecuación: $5.000x + 40000 = 55000$. Restamos 40000: $5.000x = 15.
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PY-MAT-11-2026-W05-tema-w05-001-MASTERY-v7
 **Bloom:** Evaluate
 **EJE:** Álgebra y funciones
@@ -170,7 +171,7 @@ Planteamos la ecuación: $5.000x + 45000 = 60000$. Restamos 45000: $5.000x = 15.
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PY-MAT-11-2026-W05-tema-w05-001-MASTERY-v8
 **Bloom:** Evaluate
 **EJE:** Álgebra y funciones
@@ -191,7 +192,7 @@ Planteamos la ecuación: $5.000x + 50000 = 65000$. Restamos 50000: $5.000x = 15.
 
 ---
 
-## Question 9 [D5]
+## Question 9 [D5-D6]
 **ID:** PY-MAT-11-2026-W05-tema-w05-001-MASTERY-v9
 **Bloom:** Evaluate
 **EJE:** Álgebra y funciones
@@ -212,7 +213,7 @@ Planteamos la ecuación: $5.000x + 55000 = 70000$. Restamos 55000: $5.000x = 15.
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PY-MAT-11-2026-W05-tema-w05-001-MASTERY-v10
 **Bloom:** Remember
 **EJE:** Álgebra y funciones
@@ -233,7 +234,7 @@ Planteamos la ecuación: $5.000x + 60000 = 75000$. Restamos 60000: $5.000x = 15.
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PY-MAT-11-2026-W05-tema-w05-001-MASTERY-v11
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -254,7 +255,7 @@ Planteamos la ecuación: $5.000x + 65000 = 80000$. Restamos 65000: $5.000x = 15.
 
 ---
 
-## Question 12 [D8]
+## Question 12 [D7-D8]
 **ID:** PY-MAT-11-2026-W05-tema-w05-001-MASTERY-v12
 **Bloom:** Understand
 **EJE:** Álgebra y funciones
@@ -275,7 +276,7 @@ Planteamos la ecuación: $5.000x + 70000 = 85000$. Restamos 70000: $5.000x = 15.
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PY-MAT-11-2026-W05-tema-w05-001-MASTERY-v13
 **Bloom:** Understand
 **EJE:** Álgebra y funciones
@@ -296,7 +297,7 @@ Planteamos la ecuación: $5.000x + 75000 = 90000$. Restamos 75000: $5.000x = 15.
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PY-MAT-11-2026-W05-tema-w05-001-MASTERY-v14
 **Bloom:** Understand
 **EJE:** Álgebra y funciones
@@ -317,7 +318,7 @@ Planteamos la ecuación: $5.000x + 80000 = 95000$. Restamos 80000: $5.000x = 15.
 
 ---
 
-## Question 15 [D7]
+## Question 15 [D7-D8]
 **ID:** PY-MAT-11-2026-W05-tema-w05-001-MASTERY-v15
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -338,7 +339,7 @@ Planteamos la ecuación: $5.000x + 85000 = 100000$. Restamos 85000: $5.000x = 15
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PY-MAT-11-2026-W05-tema-w05-001-MASTERY-v16
 **Bloom:** Analyze
 **EJE:** Álgebra y funciones
@@ -359,7 +360,7 @@ Planteamos la ecuación: $5.000x + 90000 = 105000$. Restamos 90000: $5.000x = 15
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PY-MAT-11-2026-W05-tema-w05-001-MASTERY-v17
 **Bloom:** Analyze
 **EJE:** Álgebra y funciones
@@ -380,7 +381,7 @@ Planteamos la ecuación: $5.000x + 95000 = 110000$. Restamos 95000: $5.000x = 15
 
 ---
 
-## Question 18 [D10]
+## Question 18 [D9-D10]
 **ID:** PY-MAT-11-2026-W05-tema-w05-001-MASTERY-v18
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -401,7 +402,7 @@ Planteamos la ecuación: $5.000x + 100000 = 115000$. Restamos 100000: $5.000x = 
 
 ---
 
-## Question 19 [D9]
+## Question 19 [D9-D10]
 **ID:** PY-MAT-11-2026-W05-tema-w05-001-MASTERY-v19
 **Bloom:** Analyze
 **EJE:** Álgebra y funciones
@@ -422,7 +423,7 @@ Planteamos la ecuación: $5.000x + 105000 = 120000$. Restamos 105000: $5.000x = 
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PY-MAT-11-2026-W05-tema-w05-001-MASTERY-v20
 **Bloom:** Evaluate
 **EJE:** Álgebra y funciones

@@ -15,6 +15,7 @@ alignment: "MEC Paraguay"
 license: "FREE"
 tier: "legacy"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 creador: "Jules-Agent"
 ---
 
@@ -24,7 +25,7 @@ Este bundle cubre de manera exhaustiva el tema de División celular: mitosis y m
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v1
 **Bloom:** Remember
 **EJE:** Genética y Reproducción
@@ -45,7 +46,7 @@ El concepto de Anafase constituye un fundamento esencial para comprender los pro
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v2
 **Bloom:** Understand
 **EJE:** Genética y Reproducción
@@ -66,7 +67,7 @@ El concepto de Fase S constituye un fundamento esencial para comprender los proc
 
 ---
 
-## Question 3 [D3]
+## Question 3 [D3-D4]
 **ID:** PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v3
 **Bloom:** Remember
 **EJE:** Genética y Reproducción
@@ -87,7 +88,7 @@ El concepto de El cinetocoro constituye un fundamento esencial para comprender l
 
 ---
 
-## Question 4 [D3]
+## Question 4 [D3-D4]
 **ID:** PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v4
 **Bloom:** Understand
 **EJE:** Genética y Reproducción
@@ -108,7 +109,7 @@ El concepto de La mitosis constituye un fundamento esencial para comprender los 
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v5
 **Bloom:** Apply
 **EJE:** Genética y Reproducción
@@ -129,7 +130,7 @@ El concepto de La meiosis constituye un fundamento esencial para comprender los 
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v6
 **Bloom:** Understand
 **EJE:** Genética y Reproducción
@@ -150,7 +151,7 @@ El concepto de Telofase constituye un fundamento esencial para comprender los pr
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v7
 **Bloom:** Apply
 **EJE:** Genética y Reproducción
@@ -171,7 +172,7 @@ El concepto de Zigoteno constituye un fundamento esencial para comprender los pr
 
 ---
 
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v8
 **Bloom:** Understand
 **EJE:** Genética y Reproducción
@@ -192,7 +193,7 @@ El concepto de Quiasma constituye un fundamento esencial para comprender los pro
 
 ---
 
-## Question 9 [D5]
+## Question 9 [D5-D6]
 **ID:** PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v9
 **Bloom:** Apply
 **EJE:** Genética y Reproducción
@@ -213,7 +214,7 @@ El concepto de Metafase I constituye un fundamento esencial para comprender los 
 
 ---
 
-## Question 10 [D5]
+## Question 10 [D5-D6]
 **ID:** PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v10
 **Bloom:** Understand
 **EJE:** Genética y Reproducción
@@ -234,7 +235,7 @@ El concepto de La dineína y la cinesina constituye un fundamento esencial para 
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v11
 **Bloom:** Analyze
 **EJE:** Genética y Reproducción
@@ -255,7 +256,7 @@ El concepto de La quinasa dependiente de ciclina (CDK) constituye un fundamento 
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v12
 **Bloom:** Apply
 **EJE:** Genética y Reproducción
@@ -276,7 +277,7 @@ El concepto de Fase G1 constituye un fundamento esencial para comprender los pro
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v13
 **Bloom:** Analyze
 **EJE:** Genética y Reproducción
@@ -297,7 +298,7 @@ El concepto de Las neuronas maduras constituye un fundamento esencial para compr
 
 ---
 
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v14
 **Bloom:** Apply
 **EJE:** Genética y Reproducción
@@ -318,7 +319,7 @@ El concepto de El fragmoplasto constituye un fundamento esencial para comprender
 
 ---
 
-## Question 15 [D7]
+## Question 15 [D7-D8]
 **ID:** PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v15
 **Bloom:** Analyze
 **EJE:** Genética y Reproducción
@@ -339,7 +340,7 @@ El concepto de La fisión binaria constituye un fundamento esencial para compren
 
 ---
 
-## Question 16 [D7]
+## Question 16 [D7-D8]
 **ID:** PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v16
 **Bloom:** Apply
 **EJE:** Genética y Reproducción
@@ -360,7 +361,7 @@ El concepto de Meiosis II constituye un fundamento esencial para comprender los 
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v17
 **Bloom:** Evaluate
 **EJE:** Genética y Reproducción
@@ -381,7 +382,7 @@ El concepto de La no disyunción cromosómica constituye un fundamento esencial 
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v18
 **Bloom:** Analyze
 **EJE:** Genética y Reproducción
@@ -402,7 +403,7 @@ El concepto de Los microtúbulos polares constituye un fundamento esencial para 
 
 ---
 
-## Question 19 [D9]
+## Question 19 [D9-D10]
 **ID:** PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v19
 **Bloom:** Evaluate
 **EJE:** Genética y Reproducción
@@ -423,7 +424,7 @@ El concepto de Las histonas nucleares H2A, H2B, H3 y H4 constituye un fundamento
 
 ---
 
-## Question 20 [D9]
+## Question 20 [D9-D10]
 **ID:** PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v20
 **Bloom:** Analyze
 **EJE:** Genética y Reproducción

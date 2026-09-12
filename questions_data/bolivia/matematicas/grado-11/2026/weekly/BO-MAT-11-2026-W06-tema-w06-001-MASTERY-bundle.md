@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Matemáticas: Tema W06 (W06)
 **20 preguntas | Grado 11 (6to de Secundaria) | MINEDU - Ley Educativa Avelino Siñani - Elizardo Pérez**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -42,7 +43,7 @@ bundle_index: 1
 Cada ecuación lineal en dos variables representa una recta. El conjunto de soluciones de un sistema 2x2 corresponde a la intersección geométrica de estas dos rectas. Si existe solución única, las rectas son secantes y se intersectan exactamente en un punto.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -62,7 +63,7 @@ Si tenemos un sistema de ecuaciones lineales 2x2 y al resolverlo por el método 
 Al obtener una identidad falsa (contradicción) durante la resolución, se demuestra que el sistema carece de soluciones comunes. Se denomina sistema incompatible o inconsistente.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -82,7 +83,7 @@ Si un sistema de dos ecuaciones lineales en dos variables tiene infinitas soluci
 Un sistema compatible indeterminado posee infinitas soluciones debido a que ambas ecuaciones lineales son equivalentes y describen geométricamente a la misma recta (rectas coincidentes).
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -102,7 +103,7 @@ Resuelva el sistema de ecuaciones lineales: x + y = 12; 4x - 4y = 4. ¿Cuál es 
 Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.
 
 ---
-## Question 5 [D4]
+## Question 5 [D3-D4]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v5
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -122,7 +123,7 @@ Resuelva el sistema de ecuaciones lineales: x + y = 15; 5x - 5y = 5. ¿Cuál es 
 Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.
 
 ---
-## Question 6 [D4]
+## Question 6 [D3-D4]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -142,7 +143,7 @@ Resuelva el sistema de ecuaciones lineales: x + y = 18; 6x - 6y = 6. ¿Cuál es 
 Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.
 
 ---
-## Question 7 [D4]
+## Question 7 [D3-D4]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -162,7 +163,7 @@ Resuelva el sistema de ecuaciones lineales: x + y = 21; 7x - 7y = 7. ¿Cuál es 
 Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.
 
 ---
-## Question 8 [D4]
+## Question 8 [D3-D4]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -182,7 +183,7 @@ Resuelva el sistema de ecuaciones lineales: x + y = 24; 8x - 8y = 8. ¿Cuál es 
 Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.
 
 ---
-## Question 9 [D4]
+## Question 9 [D3-D4]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v9
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -202,7 +203,7 @@ Resuelva el sistema de ecuaciones lineales: x + y = 27; 9x - 9y = 9. ¿Cuál es 
 Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.
 
 ---
-## Question 10 [D4]
+## Question 10 [D3-D4]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -222,7 +223,7 @@ Resuelva el sistema de ecuaciones lineales: x + y = 30; 10x - 10y = 10. ¿Cuál 
 Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -242,7 +243,7 @@ Resuelva el sistema de ecuaciones lineales: x + y = 33; 11x - 11y = 11. ¿Cuál 
 Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -262,7 +263,7 @@ Resuelva el sistema de ecuaciones lineales: x + y = 36; 12x - 12y = 12. ¿Cuál 
 Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -282,7 +283,7 @@ Resuelva el sistema de ecuaciones lineales: x + y = 39; 13x - 13y = 13. ¿Cuál 
 Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.
 
 ---
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v14
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -302,7 +303,7 @@ Resuelva el sistema de ecuaciones lineales: x + y = 42; 14x - 14y = 14. ¿Cuál 
 Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.
 
 ---
-## Question 15 [D7]
+## Question 15 [D7-D8]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -322,7 +323,7 @@ Resuelva el sistema de ecuaciones lineales: x + y = 45; 15x - 15y = 15. ¿Cuál 
 Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.
 
 ---
-## Question 16 [D7]
+## Question 16 [D7-D8]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v16
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -342,7 +343,7 @@ Resuelva el sistema de ecuaciones lineales: x + y = 48; 16x - 16y = 16. ¿Cuál 
 Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v17
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -362,7 +363,7 @@ Resuelva el sistema de ecuaciones lineales: x + y = 51; 17x - 17y = 17. ¿Cuál 
 Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v18
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -382,7 +383,7 @@ Resuelva el sistema de ecuaciones lineales: x + y = 54; 18x - 18y = 18. ¿Cuál 
 Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.
 
 ---
-## Question 19 [D9]
+## Question 19 [D9-D10]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v19
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -402,7 +403,7 @@ Resuelva el sistema de ecuaciones lineales: x + y = 57; 19x - 19y = 19. ¿Cuál 
 Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.
 
 ---
-## Question 20 [D9]
+## Question 20 [D9-D10]
 **ID:** BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v20
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos

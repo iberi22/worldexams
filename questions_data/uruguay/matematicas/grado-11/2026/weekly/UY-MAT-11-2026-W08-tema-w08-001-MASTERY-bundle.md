@@ -16,11 +16,12 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle — Matemáticas: Geometría Analítica (UY-MAT-11-W08)
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Geométrico
@@ -39,7 +40,7 @@ En el punto $(-3, 5)$, ¿qué indica la coordenada $-3$?
 ### Explicación Pedagógica
 Todo punto del plano se escribe $(x, y)$: la abscisa $x$ mide el desplazamiento horizontal y la ordenada $y$ el vertical.
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Geométrico
@@ -58,7 +59,7 @@ Todo punto del plano se escribe $(x, y)$: la abscisa $x$ mide el desplazamiento 
 ### Explicación Pedagógica
 La distancia es la hipotenusa del triángulo cuyos catetos son las diferencias de coordenadas: $d = \sqrt{(\Delta x)^2 + (\Delta y)^2}$.
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Geométrico
@@ -77,7 +78,7 @@ La distancia es la hipotenusa del triángulo cuyos catetos son las diferencias d
 ### Explicación Pedagógica
 Los signos deciden el cuadrante: $(-,-)$ es el tercero, $(-,+)$ el segundo, $(+,-)$ el cuarto y $(+,+)$ el primero.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Geométrico
@@ -96,7 +97,7 @@ Los signos deciden el cuadrante: $(-,-)$ es el tercero, $(-,+)$ el segundo, $(+,
 ### Explicación Pedagógica
 El punto medio es el promedio de las coordenadas: $M = \left(\frac{x_1 + x_2}{2}, \frac{y_1 + y_2}{2}\right) = (4, 7)$.
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Pensamiento Geométrico
@@ -115,7 +116,7 @@ El punto medio es el promedio de las coordenadas: $M = \left(\frac{x_1 + x_2}{2}
 ### Explicación Pedagógica
 Las diferencias son $\Delta x = 3$ y $\Delta y = 4$: $d = \sqrt{9 + 16} = 5$, la clásica terna 3-4-5.
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** Pensamiento Geométrico
@@ -134,7 +135,7 @@ Las diferencias son $\Delta x = 3$ y $\Delta y = 4$: $d = \sqrt{9 + 16} = 5$, la
 ### Explicación Pedagógica
 $m = \frac{\Delta y}{\Delta x} = \frac{5-(-1)}{3-0} = \frac{6}{3} = 2$. El signo de la pendiente indica si la recta sube o baja.
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Pensamiento Geométrico
@@ -153,7 +154,7 @@ $m = \frac{\Delta y}{\Delta x} = \frac{5-(-1)}{3-0} = \frac{6}{3} = 2$. El signo
 ### Explicación Pedagógica
 Las rectas horizontales tienen pendiente cero y ecuación $y = k$, donde $k$ es la ordenada común: $y = -3$.
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Geométrico
@@ -172,7 +173,7 @@ Las rectas horizontales tienen pendiente cero y ecuación $y = k$, donde $k$ es 
 ### Explicación Pedagógica
 La condición de perpendicularidad es $m_2 = -\frac{1}{m_1}$. Con $m_1 = \frac{1}{2}$, la perpendicular tiene pendiente $-2$.
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Pensamiento Geométrico
@@ -191,7 +192,7 @@ La condición de perpendicularidad es $m_2 = -\frac{1}{m_1}$. Con $m_1 = \frac{1
 ### Explicación Pedagógica
 La circunferencia de centro $(h, k)$ y radio $r$ es $(x-h)^2 + (y-k)^2 = r^2$. Con centro en el origen: $x^2 + y^2 = 16$.
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Geométrico
@@ -210,7 +211,7 @@ La circunferencia de centro $(h, k)$ y radio $r$ es $(x-h)^2 + (y-k)^2 = r^2$. C
 ### Explicación Pedagógica
 El corte con el eje $x$ ocurre cuando $y = 0$: $0 = 2x - 6$ da $x = 3$. El punto es $(3, 0)$.
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Pensamiento Geométrico
@@ -229,7 +230,7 @@ Los vértices de un triángulo son $A(0, 0)$, $B(4, 0)$ y $C(0, 3)$. ¿Qué tipo
 ### Explicación Pedagógica
 Los lados miden 3, 4 y 5 y cumplen $9 + 16 = 25$: triángulo rectángulo con el ángulo recto en $A$.
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Pensamiento Geométrico
@@ -248,7 +249,7 @@ Los lados miden 3, 4 y 5 y cumplen $9 + 16 = 25$: triángulo rectángulo con el 
 ### Explicación Pedagógica
 Paralelismo significa misma inclinación: $m_1 = m_2$. Para que sean rectas distintas, las ordenadas al origen deben diferir.
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Pensamiento Geométrico
@@ -267,7 +268,7 @@ Respecto de la circunferencia $x^2 + y^2 = 25$, el punto $(3, 5)$ se encuentra:
 ### Explicación Pedagógica
 Comparar $x^2 + y^2$ con $r^2$ ubica el punto: igual (sobre), menor (dentro), mayor (fuera). Aquí $34 > 25$: exterior.
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v14
 **Bloom:** Apply
 **EJE:** Pensamiento Geométrico
@@ -286,7 +287,7 @@ Comparar $x^2 + y^2$ con $r^2$ ubica el punto: igual (sobre), menor (dentro), ma
 ### Explicación Pedagógica
 En la forma canónica, el centro sale invirtiendo los signos de los términos con la variable: $(2, -1)$; el radio es $\sqrt{9} = 3$.
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pensamiento Geométrico
@@ -305,7 +306,7 @@ En la forma canónica, el centro sale invirtiendo los signos de los términos co
 ### Explicación Pedagógica
 Las paralelas comparten pendiente: $y = 3x + b$. Imponiendo el paso por $(2, 4)$: $b = 4 - 6 = -2$.
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Pensamiento Geométrico
@@ -324,7 +325,7 @@ Las paralelas comparten pendiente: $y = 3x + b$. Imponiendo el paso por $(2, 4)$
 ### Explicación Pedagógica
 Tres puntos son colineales si las pendientes entre pares consecutivos coinciden. Ambas valen 2, así que están sobre la recta $y = 2x + 1$.
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Pensamiento Geométrico
@@ -343,7 +344,7 @@ Tres puntos son colineales si las pendientes entre pares consecutivos coinciden.
 ### Explicación Pedagógica
 La distancia de un punto a una recta vertical $x = k$ es $|x_0 - k|$: $|7 - 3| = 4$. Es la longitud del segmento perpendicular (horizontal) a la recta.
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Geométrico
@@ -362,7 +363,7 @@ La distancia de un punto a una recta vertical $x = k$ es $|x_0 - k|$: $|7 - 3| =
 ### Explicación Pedagógica
 Los lados $AB$ y $CD$ son horizontales de largo 6; $BC$ y $DA$ verticales de largo 4. Rectángulo de área 24 unidades cuadradas.
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Pensamiento Geométrico
@@ -381,7 +382,7 @@ Los lados $AB$ y $CD$ son horizontales de largo 6; $BC$ y $DA$ verticales de lar
 ### Explicación Pedagógica
 Tomando $AB$ como base ($6$) y la ordenada de $C$ como altura ($4$): $A = \frac{6 \cdot 4}{2} = 12$ unidades cuadradas.
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Geométrico

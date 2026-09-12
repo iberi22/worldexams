@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Lengua: Lengua, lenguaje y habla (W02)
 **20 preguntas | Lengua | MINEDU - Ley Educativa Avelino Siñani - Elizardo Pérez**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BO-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Estudio de la lengua y comunicación
@@ -46,7 +47,7 @@ A partir de las explicaciones conceptuales, ¿cuál de las opciones define con p
 La lengua es social porque consiste en un código mental compartido. Este análisis permite comprender las dicotomías saussureanas en la sociedad de La Paz.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BO-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Estudio de la lengua y comunicación
@@ -70,7 +71,7 @@ A partir de las explicaciones conceptuales, ¿cuál de las opciones define con p
 El habla es individual y psicofísica, la realización práctica del código. Este análisis permite comprender las dicotomías saussureanas en la sociedad de Santa Cruz.
 
 ---
-## Question 3 [D3]
+## Question 3 [D3-D4]
 **ID:** BO-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Estudio de la lengua y comunicación
@@ -94,7 +95,7 @@ A partir de las explicaciones conceptuales, ¿cuál de las opciones define con p
 El lenguaje es la aptitud de la especie humana para adquirir sistemas de comunicación. Este análisis permite comprender las dicotomías saussureanas en la sociedad de Cochabamba.
 
 ---
-## Question 4 [D3]
+## Question 4 [D3-D4]
 **ID:** BO-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Estudio de la lengua y comunicación
@@ -118,7 +119,7 @@ A partir de las explicaciones conceptuales, ¿cuál de las opciones define con p
 La lengua es homogénea, social y abstracta; reside en el cerebro de los hablantes. Este análisis permite comprender las dicotomías saussureanas en la sociedad de Sucre.
 
 ---
-## Question 5 [D4]
+## Question 5 [D3-D4]
 **ID:** BO-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Estudio de la lengua y comunicación
@@ -142,7 +143,7 @@ A partir de las explicaciones conceptuales, ¿cuál de las opciones define con p
 La lengua es social porque ningún hablante la domina ni modifica individualmente. Este análisis permite comprender las dicotomías saussureanas en la sociedad de Oruro.
 
 ---
-## Question 6 [D4]
+## Question 6 [D3-D4]
 **ID:** BO-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Estudio de la lengua y comunicación
@@ -166,7 +167,7 @@ A partir de las explicaciones conceptuales, ¿cuál de las opciones define con p
 El habla requiere la voluntad del emisor para articular sonidos concretos. Este análisis permite comprender las dicotomías saussureanas en la sociedad de Potosí.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** BO-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v7
 **Bloom:** Understand
 **EJE:** Estudio de la lengua y comunicación
@@ -190,7 +191,7 @@ A partir de las explicaciones conceptuales, ¿cuál de las opciones define con p
 La arbitrariedad establece que el lazo entre concepto y sonido es convencional. Este análisis permite comprender las dicotomías saussureanas en la sociedad de Tarija.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** BO-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v8
 **Bloom:** Understand
 **EJE:** Estudio de la lengua y comunicación
@@ -214,7 +215,7 @@ A partir de las explicaciones conceptuales, ¿cuál de las opciones define con p
 La linealidad del significante exige un orden secuencial en el tiempo y espacio. Este análisis permite comprender las dicotomías saussureanas en la sociedad de Trinidad.
 
 ---
-## Question 9 [D5]
+## Question 9 [D5-D6]
 **ID:** BO-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Estudio de la lengua y comunicación
@@ -238,7 +239,7 @@ A partir de las explicaciones conceptuales, ¿cuál de las opciones define con p
 La inmutabilidad sincrónica protege al sistema de cambios caprichosos individuales. Este análisis permite comprender las dicotomías saussureanas en la sociedad de Cobija.
 
 ---
-## Question 10 [D5]
+## Question 10 [D5-D6]
 **ID:** BO-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Estudio de la lengua y comunicación
@@ -262,7 +263,7 @@ A partir de las explicaciones conceptuales, ¿cuál de las opciones define con p
 El uso y el paso del tiempo desgastan y alteran los signos diacrónicamente. Este análisis permite comprender las dicotomías saussureanas en la sociedad de Viacha.
 
 ---
-## Question 11 [D6]
+## Question 11 [D5-D6]
 **ID:** BO-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Estudio de la lengua y comunicación
@@ -286,7 +287,7 @@ A partir de las explicaciones conceptuales, ¿cuál de las opciones define con p
 Los registros se eligen para adecuarse a la confianza del contexto. Este análisis permite comprender las dicotomías saussureanas en la sociedad de Montero.
 
 ---
-## Question 12 [D6]
+## Question 12 [D5-D6]
 **ID:** BO-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Estudio de la lengua y comunicación
@@ -310,7 +311,7 @@ A partir de las explicaciones conceptuales, ¿cuál de las opciones define con p
 La formalidad requiere un léxico preciso, estructurado y sin coloquialismos. Este análisis permite comprender las dicotomías saussureanas en la sociedad de Sacaba.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BO-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v13
 **Bloom:** Apply
 **EJE:** Estudio de la lengua y comunicación
@@ -334,7 +335,7 @@ A partir de las explicaciones conceptuales, ¿cuál de las opciones define con p
 La norma orienta el habla individual para no alejarse del estándar social. Este análisis permite comprender las dicotomías saussureanas en la sociedad de Quillacollo.
 
 ---
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** BO-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v14
 **Bloom:** Apply
 **EJE:** Estudio de la lengua y comunicación
@@ -358,7 +359,7 @@ A partir de las explicaciones conceptuales, ¿cuál de las opciones define con p
 El sociolecto refleja la procedencia social, cultural o etaria del hablante. Este análisis permite comprender las dicotomías saussureanas en la sociedad de Warnes.
 
 ---
-## Question 15 [D7]
+## Question 15 [D7-D8]
 **ID:** BO-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Estudio de la lengua y comunicación
@@ -382,7 +383,7 @@ A partir de las explicaciones conceptuales, ¿cuál de las opciones define con p
 La lengua humana es productiva gracias a la articulación en dos niveles. Este análisis permite comprender las dicotomías saussureanas en la sociedad de El Alto.
 
 ---
-## Question 16 [D7]
+## Question 16 [D7-D8]
 **ID:** BO-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Estudio de la lengua y comunicación
@@ -406,7 +407,7 @@ A partir de las explicaciones conceptuales, ¿cuál de las opciones define con p
 La competencia es la gramática interna que posee todo hablante nativo. Este análisis permite comprender las dicotomías saussureanas en la sociedad de Riberalta.
 
 ---
-## Question 17 [D8]
+## Question 17 [D7-D8]
 **ID:** BO-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v17
 **Bloom:** Analyze
 **EJE:** Estudio de la lengua y comunicación
@@ -430,7 +431,7 @@ A partir de las explicaciones conceptuales, ¿cuál de las opciones define con p
 La actuación es la conducta lingüística real, sujeta a errores y cansancio. Este análisis permite comprender las dicotomías saussureanas en la sociedad de Yacuiba.
 
 ---
-## Question 18 [D8]
+## Question 18 [D7-D8]
 **ID:** BO-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** Estudio de la lengua y comunicación
@@ -454,7 +455,7 @@ A partir de las explicaciones conceptuales, ¿cuál de las opciones define con p
 El idiolecto representa el estilo lingüístico singular y único de una persona. Este análisis permite comprender las dicotomías saussureanas en la sociedad de Colcapirhua.
 
 ---
-## Question 19 [D9]
+## Question 19 [D9-D10]
 **ID:** BO-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Estudio de la lengua y comunicación
@@ -478,7 +479,7 @@ A partir de las explicaciones conceptuales, ¿cuál de las opciones define con p
 Adquirir la lengua materna permite asimilar la herencia cultural andina. Este análisis permite comprender las dicotomías saussureanas en la sociedad de Tupiza.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BO-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Estudio de la lengua y comunicación

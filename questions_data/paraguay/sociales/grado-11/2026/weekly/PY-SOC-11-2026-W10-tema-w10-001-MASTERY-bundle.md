@@ -15,6 +15,7 @@ alignment: "MEC - Plan Común / SNEPE"
 license: "FREE"
 tier: "legacy"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 creador: "Jules-Agent"
 ---
 
@@ -22,7 +23,7 @@ creador: "Jules-Agent"
 **20 preguntas | Ciencias Sociales | MEC - Plan Común / SNEPE**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Constitución y ciudadanía en el Paraguay
@@ -45,7 +46,7 @@ creador: "Jules-Agent"
 La Constitución de 1992 consagró de manera definitiva el Estado social de derecho, el pluralismo político, la separación de poderes y la descentralización municipal departamental.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Constitución y ciudadanía en el Paraguay
@@ -68,7 +69,7 @@ La Constitución de 1992 consagró de manera definitiva el Estado social de dere
 La prohibición absoluta de la reelección en la carta magna de 1992 fue una respuesta profiláctica contra el trauma autoritario de los 35 años de dictadura stronista.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Constitución y ciudadanía en el Paraguay
@@ -91,7 +92,7 @@ Bajo la Constitución de 1992, ¿qué cargo ejecutivo departamental clave pasó 
 La descentralización de 1992 dividió administrativamente al país en 17 departamentos, encabezados por gobernaciones autónomas y juntas departamentales democráticas.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Constitución y ciudadanía en el Paraguay
@@ -114,7 +115,7 @@ La descentralización de 1992 dividió administrativamente al país en 17 depart
 El rango oficial co-igual del guaraní representó un gran triunfo ético de descolonización lingüística que reivindicó la dignidad cultural del pueblo paraguayo mestizo.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Constitución y ciudadanía en el Paraguay
@@ -137,7 +138,7 @@ El rango oficial co-igual del guaraní representó un gran triunfo ético de des
 El Marzo Paraguayo de 1999 costó la vida de ocho jóvenes manifestantes asesinados frente al Congreso, constituyendo un símbolo de heroísmo y resistencia cívica juvenil democrática.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Constitución y ciudadanía en el Paraguay
@@ -160,7 +161,7 @@ El Marzo Paraguayo de 1999 costó la vida de ocho jóvenes manifestantes asesina
 El Mercosur representó la inserción comercial e industrial de la joven democracia paraguaya en la cuenca del Plata de forma regional coordinada.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Constitución y ciudadanía en el Paraguay
@@ -183,7 +184,7 @@ El Mercosur representó la inserción comercial e industrial de la joven democra
 La destitución de Lugo en 2012, tras la tragedia de Curuguaty, fue interpretada de forma divergente entre un golpe parlamentario y una salida institucional de mal desempeño.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Constitución y ciudadanía en el Paraguay
@@ -206,7 +207,7 @@ La destitución de Lugo en 2012, tras la tragedia de Curuguaty, fue interpretada
 El TSJE garantizó la legitimidad de las alternancias partidarias de la transición, superando las fraudulentas elecciones de la dictadura stronista.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Constitución y ciudadanía en el Paraguay
@@ -229,7 +230,7 @@ El TSJE garantizó la legitimidad de las alternancias partidarias de la transici
 La Ley 5282/14 representó un parteaguas de la transparencia, empoderando a la ciudadanía paraguaya para auditar las cuentas y salarios de las oficinas del Estado.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Constitución y ciudadanía en el Paraguay
@@ -252,7 +253,7 @@ La Ley 5282/14 representó un parteaguas de la transparencia, empoderando a la c
 A pesar de la consagración constitucional, la restitución efectiva de tierras indígenas constituye uno de los mayores diferendos y deudas sociales pendientes de la democracia paraguaya contemporánea.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Constitución y ciudadanía en el Paraguay
@@ -275,7 +276,7 @@ La grave crisis política de marzo de 2017 en Asunción, que derivó en la quema
 La crisis de la enmienda de 2017 puso de manifiesto que el rechazo a la reelección presidencial, plasmado en 1992, conserva un hondo y celoso consenso cívico popular de defensa democrática.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Constitución y ciudadanía en el Paraguay
@@ -298,7 +299,7 @@ La crisis de la enmienda de 2017 puso de manifiesto que el rechazo a la reelecci
 El Consejo de la Magistratura busca profesionalizar e independizar al Poder Judicial de injerencias y presiones directas de partidos políticos o del ejecutivo nacional.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Constitución y ciudadanía en el Paraguay
@@ -321,7 +322,7 @@ Desde el punto de vista macroeconómico y aduanero, ¿cuál es la mayor asimetr�
 Las disputas por asimetrías comerciales en el Mercosur constituyen un tema permanente de la política exterior y aduanera de la democracia del Paraguay.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Constitución y ciudadanía en el Paraguay
@@ -344,7 +345,7 @@ Las disputas por asimetrías comerciales en el Mercosur constituyen un tema perm
 La Ley de Lenguas de 2010 operó como un formidable catalizador institucional para superar la diglosia, dotando de estatus escolar escrito y administrativo de rango legal al guaraní paraguayo.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Constitución y ciudadanía en el Paraguay
@@ -367,7 +368,7 @@ La continua e ininterrumpida expansión de la soja mecanizada transclimatizada e
 El dilema sojero de exportación en Paraguay revela las agudas asimetrías de un modelo de alta acumulación económica divisas que precariza el arraigo campesino familiar tradicional.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Constitución y ciudadanía en el Paraguay
@@ -390,7 +391,7 @@ El dilema sojero de exportación en Paraguay revela las agudas asimetrías de un
 Las protestas estudiantiles universitarias de 'UNA no te calles' de 2015 sacudieron la escena nacional, revelando el empoderamiento e indignación de la juventud paraguaya contra el nepotismo académico.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Constitución y ciudadanía en el Paraguay
@@ -413,7 +414,7 @@ Al evaluar de manera integral los logros y deudas sociales de la democracia en e
 La joven democracia paraguaya descolla por su estabilidad cívica, el resguardo de libertades de prensa y de partidos, asumiendo el gran desafío de depurar de forma transparente sus instituciones públicas.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Constitución y ciudadanía en el Paraguay
@@ -436,7 +437,7 @@ Al juzgar las demandas de soberanía energética y renegociación del Anexo C de
 La negociación soberana y justa de las bases de Itaipú constituye el mayor reto diplomático de soberanía económica del Paraguay contemporáneo.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Constitución y ciudadanía en el Paraguay
@@ -459,7 +460,7 @@ Al evaluar críticamente las agudas tensiones políticas y de tenencia de la tie
 La masacre de Curuguaty de 2012 condensó la persistencia trágica del conflicto por la tierra paraguaya, trastocando de forma drástica el mapa partidario de la gobernabilidad nacional democrática.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PY-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Constitución y ciudadanía en el Paraguay

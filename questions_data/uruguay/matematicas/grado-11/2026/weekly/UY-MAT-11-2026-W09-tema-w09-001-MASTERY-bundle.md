@@ -16,11 +16,12 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle — Matemáticas: Estadística Descriptiva (UY-MAT-11-W09)
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** UY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Aleatorio
@@ -39,7 +40,7 @@ bundle_index: 1
 ### Explicación Pedagógica
 La media aritmética resume los datos con su promedio: suma total dividida entre el número de observaciones. No confundir con moda ni mediana.
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** UY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Aleatorio
@@ -58,7 +59,7 @@ La media aritmética resume los datos con su promedio: suma total dividida entre
 ### Explicación Pedagógica
 La mediana es el valor central de los datos ordenados; con cantidad par, se promedian los dos valores centrales. Es robusta frente a valores extremos.
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** UY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Aleatorio
@@ -77,7 +78,7 @@ La mediana es el valor central de los datos ordenados; con cantidad par, se prom
 ### Explicación Pedagógica
 La moda es el valor de mayor frecuencia. En la serie 10, 12, 8, 12, 15, el 12 se repite dos veces: es la moda.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** UY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Aleatorio
@@ -96,7 +97,7 @@ La moda es el valor de mayor frecuencia. En la serie 10, 12, 8, 12, 15, el 12 se
 ### Explicación Pedagógica
 Sumando $7 + 8 + 9 + 6 + 10 = 40$ y dividiendo entre 5: media $= 8$. La nota 10 no arrastra el promedio tanto como parece.
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** UY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Pensamiento Aleatorio
@@ -115,7 +116,7 @@ Sumando $7 + 8 + 9 + 6 + 10 = 40$ y dividiendo entre 5: media $= 8$. La nota 10 
 ### Explicación Pedagógica
 Primero se ordena: 1, 3, 5, 7, 9. Con 5 datos, la posición central es la tercera: mediana $= 5$.
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** UY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** Pensamiento Aleatorio
@@ -134,7 +135,7 @@ Primero se ordena: 1, 3, 5, 7, 9. Con 5 datos, la posición central es la tercer
 ### Explicación Pedagógica
 Con $n = 6$ (par), la mediana es el promedio de las posiciones 3 y 4 de la serie ordenada 16, 16, 16, 17, 17, 18: $(16 + 17)/2 = 16.5$ años.
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** UY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Pensamiento Aleatorio
@@ -153,7 +154,7 @@ Con $n = 6$ (par), la mediana es el promedio de las posiciones 3 y 4 de la serie
 ### Explicación Pedagógica
 El rango mide la dispersión total: máximo menos mínimo $= 33 - 18 = 15$ °C.
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** UY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Aleatorio
@@ -172,7 +173,7 @@ El rango mide la dispersión total: máximo menos mínimo $= 33 - 18 = 15$ °C.
 ### Explicación Pedagógica
 Suma total $15\,000$ dividida entre 5 días: media $= \$U\,3\,000$. Notá cómo media, mediana y moda difieren en esta serie.
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** UY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Pensamiento Aleatorio
@@ -191,7 +192,7 @@ Suma total $15\,000$ dividida entre 5 días: media $= \$U\,3\,000$. Notá cómo 
 ### Explicación Pedagógica
 En una tabla de frecuencias, el tamaño de la muestra es la suma de las frecuencias absolutas: $10 + 5 + 3 + 2 = 20$.
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** UY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Aleatorio
@@ -210,7 +211,7 @@ En una tabla de frecuencias, el tamaño de la muestra es la suma de las frecuenc
 ### Explicación Pedagógica
 La media ponderada multiplica cada precio por su cantidad de clientes: $\frac{10(1000) + 5(2000) + 5(3000)}{20} = 1750$ pesos.
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** UY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Pensamiento Aleatorio
@@ -229,7 +230,7 @@ Los sueldos de una pyme son (en miles): 40, 42, 45, 43, 300. ¿Qué afirmación 
 ### Explicación Pedagógica
 Con valores atípicos, la media se distorsiona (sube a 94) mientras la mediana se mantiene en 43. Por eso los informes salariales suelen usar la mediana.
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** UY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Pensamiento Aleatorio
@@ -248,7 +249,7 @@ La media de 4 exámenes es 8. Si se agrega un quinto examen con nota 3, ¿cuál 
 ### Explicación Pedagógica
 La suma original es $4 \times 8 = 32$; agregando 3 queda $35$ en 5 datos: nueva media $7$. Un dato extremo mueve el promedio hacia él.
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** UY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Pensamiento Aleatorio
@@ -267,7 +268,7 @@ El equipo A tiene goles por partido con media 2 y desviación estándar 0.5; el 
 ### Explicación Pedagógica
 La desviación estándar cuantifica la dispersión: con igual media, el equipo A ($\sigma = 0.5$) es mucho más regular que el B ($\sigma = 2$).
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** UY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v14
 **Bloom:** Apply
 **EJE:** Pensamiento Aleatorio
@@ -286,7 +287,7 @@ La desviación estándar cuantifica la dispersión: con igual media, el equipo A
 ### Explicación Pedagógica
 Con media 12, las desviaciones son $-2, 0, 2$ y sus cuadrados $4, 0, 4$. Varianza $= \frac{8}{3} \approx 2.67$ (desviación $\approx 1.63$).
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** UY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pensamiento Aleatorio
@@ -305,7 +306,7 @@ En un gráfico de barras, la barra de "ómnibus" llega a 40 y la de "caminata" a
 ### Explicación Pedagógica
 La frecuencia relativa es $\frac{40}{100} = 0.4$, es decir 40%. En gráficos con total 100, la frecuencia absoluta coincide con el porcentaje.
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** UY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Pensamiento Aleatorio
@@ -324,7 +325,7 @@ En los datos ordenados 2, 4, 6, 8, 10, 12, 14, 16, ¿cuál es el primer cuartil 
 ### Explicación Pedagógica
 La mitad inferior es 2, 4, 6, 8; su mediana es $\frac{4+6}{2} = 5$: ese es $Q_1$, el valor que deja el 25% de los datos por debajo.
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** UY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Pensamiento Aleatorio
@@ -343,7 +344,7 @@ La mitad inferior es 2, 4, 6, 8; su mediana es $\frac{4+6}{2} = 5$: ese es $Q_1$
 ### Explicación Pedagógica
 Si la media duplica casi a la mediana, hay asimetría por valores extremos altos. Reportar solo la media da una imagen inflada del salario típico.
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** UY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Aleatorio
@@ -362,7 +363,7 @@ Si la media duplica casi a la mediana, hay asimetría por valores extremos altos
 ### Explicación Pedagógica
 Inferir conclusiones nacionales exige muestras suficientes y representativas. Diez respuestas de un mismo barrio tienen sesgo de selección y enorme margen de error.
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** UY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Pensamiento Aleatorio
@@ -381,7 +382,7 @@ Como comprador que exige calidad consistente, ¿qué decisión es más fundament
 ### Explicación Pedagógica
 La desviación estándar traduce riesgo: con igual media, A garantiza días cercanos a 5 defectos, mientras B oscila mucho más. La consistencia favorece a A.
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** UY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Aleatorio

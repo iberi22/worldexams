@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Ciencias Naturales: Membrana y transporte celular (W04)
 **20 preguntas | Ciencias Naturales | ANEP - Plan 2006 Reformulación / Programa Ubicación**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** UY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Uso Comprensivo del Conocimiento Científico
@@ -45,7 +46,7 @@ Según el modelo de mosaico fluido de Singer y Nicolson, ¿cuál es la función 
 El carácter anfipático de los fosfolípidos origina la autoasociación en bicapa, clave para la permeabilidad selectiva. En este contexto, Camila de Paysandú determinó correctamente la respuesta correcta.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** UY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Explicación de Fenómenos
@@ -68,7 +69,7 @@ Si colocás una célula vegetal en una solución altamente hipertónica respecto
 La ósmosis es el paso pasivo del solvente a través de una membrana selectivamente permeable hacia donde hay mayor concentración de soluto. En este contexto, Mateo de Fray Bentos determinó correctamente la respuesta correcta.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** UY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Uso Comprensivo del Conocimiento Científico
@@ -91,7 +92,7 @@ La ósmosis es el paso pasivo del solvente a través de una membrana selectivame
 La bomba de sodio-potasio consume aproximadamente el 30% del ATP celular, siendo vital para mantener el volumen de la célula y el potencial de membrana. En este contexto, Sofía de Melo determinó correctamente la respuesta correcta.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** UY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Explicación de Fenómenos
@@ -114,7 +115,7 @@ La bomba de sodio-potasio consume aproximadamente el 30% del ATP celular, siendo
 La transporte en masa engloba la fagocitosis, pinocitosis y endocitosis mediada por receptor, requiriendo reordenamiento del citoesqueleto. En este contexto, Martín de Florida determinó correctamente la respuesta correcta.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** UY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Uso Comprensivo del Conocimiento Científico
@@ -137,7 +138,7 @@ Según el modelo de mosaico fluido de Singer y Nicolson, ¿cuál es la función 
 El carácter anfipático de los fosfolípidos origina la autoasociación en bicapa, clave para la permeabilidad selectiva. En este contexto, Lucía de Colonia del Sacramento determinó correctamente la respuesta correcta.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** UY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Explicación de Fenómenos
@@ -160,7 +161,7 @@ Si colocás una célula vegetal en una solución altamente hipertónica respecto
 La ósmosis es el paso pasivo del solvente a través de una membrana selectivamente permeable hacia donde hay mayor concentración de soluto. En este contexto, Gastón de Tacuarembó determinó correctamente la respuesta correcta.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** UY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v7
 **Bloom:** Understand
 **EJE:** Uso Comprensivo del Conocimiento Científico
@@ -183,7 +184,7 @@ La ósmosis es el paso pasivo del solvente a través de una membrana selectivame
 La bomba de sodio-potasio consume aproximadamente el 30% del ATP celular, siendo vital para mantener el volumen de la célula y el potencial de membrana. En este contexto, Nicolás de Las Piedras determinó correctamente la respuesta correcta.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** UY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Explicación de Fenómenos
@@ -206,7 +207,7 @@ La bomba de sodio-potasio consume aproximadamente el 30% del ATP celular, siendo
 La transporte en masa engloba la fagocitosis, pinocitosis y endocitosis mediada por receptor, requiriendo reordenamiento del citoesqueleto. En este contexto, Belén de Minas determinó correctamente la respuesta correcta.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** UY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Uso Comprensivo del Conocimiento Científico
@@ -229,7 +230,7 @@ Según el modelo de mosaico fluido de Singer y Nicolson, ¿cuál es la función 
 El carácter anfipático de los fosfolípidos origina la autoasociación en bicapa, clave para la permeabilidad selectiva. En este contexto, Felipe de Montevideo determinó correctamente la respuesta correcta.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** UY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Explicación de Fenómenos
@@ -252,7 +253,7 @@ Si colocás una célula vegetal en una solución altamente hipertónica respecto
 La ósmosis es el paso pasivo del solvente a través de una membrana selectivamente permeable hacia donde hay mayor concentración de soluto. En este contexto, Juana de Paysandú determinó correctamente la respuesta correcta.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** UY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Uso Comprensivo del Conocimiento Científico
@@ -275,7 +276,7 @@ La ósmosis es el paso pasivo del solvente a través de una membrana selectivame
 La bomba de sodio-potasio consume aproximadamente el 30% del ATP celular, siendo vital para mantener el volumen de la célula y el potencial de membrana. En este contexto, Ignacio de Fray Bentos determinó correctamente la respuesta correcta.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** UY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Explicación de Fenómenos
@@ -298,7 +299,7 @@ La bomba de sodio-potasio consume aproximadamente el 30% del ATP celular, siendo
 La transporte en masa engloba la fagocitosis, pinocitosis y endocitosis mediada por receptor, requiriendo reordenamiento del citoesqueleto. En este contexto, Paula de Melo determinó correctamente la respuesta correcta.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** UY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v13
 **Bloom:** Apply
 **EJE:** Uso Comprensivo del Conocimiento Científico
@@ -321,7 +322,7 @@ Según el modelo de mosaico fluido de Singer y Nicolson, ¿cuál es la función 
 El carácter anfipático de los fosfolípidos origina la autoasociación en bicapa, clave para la permeabilidad selectiva. En este contexto, Diego de Florida determinó correctamente la respuesta correcta.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** UY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Explicación de Fenómenos
@@ -344,7 +345,7 @@ Si colocás una célula vegetal en una solución altamente hipertónica respecto
 La ósmosis es el paso pasivo del solvente a través de una membrana selectivamente permeable hacia donde hay mayor concentración de soluto. En este contexto, Clara de Colonia del Sacramento determinó correctamente la respuesta correcta.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** UY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Uso Comprensivo del Conocimiento Científico
@@ -367,7 +368,7 @@ La ósmosis es el paso pasivo del solvente a través de una membrana selectivame
 La bomba de sodio-potasio consume aproximadamente el 30% del ATP celular, siendo vital para mantener el volumen de la célula y el potencial de membrana. En este contexto, Agustín de Tacuarembó determinó correctamente la respuesta correcta.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** UY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Explicación de Fenómenos
@@ -390,7 +391,7 @@ La bomba de sodio-potasio consume aproximadamente el 30% del ATP celular, siendo
 La transporte en masa engloba la fagocitosis, pinocitosis y endocitosis mediada por receptor, requiriendo reordenamiento del citoesqueleto. En este contexto, Sebastián de Las Piedras determinó correctamente la respuesta correcta.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** UY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v17
 **Bloom:** Analyze
 **EJE:** Uso Comprensivo del Conocimiento Científico
@@ -413,7 +414,7 @@ Según el modelo de mosaico fluido de Singer y Nicolson, ¿cuál es la función 
 El carácter anfipático de los fosfolípidos origina la autoasociación en bicapa, clave para la permeabilidad selectiva. En este contexto, Valentina de Minas determinó correctamente la respuesta correcta.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** UY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** Explicación de Fenómenos
@@ -436,7 +437,7 @@ Si colocás una célula vegetal en una solución altamente hipertónica respecto
 La ósmosis es el paso pasivo del solvente a través de una membrana selectivamente permeable hacia donde hay mayor concentración de soluto. En este contexto, Santiago de Montevideo determinó correctamente la respuesta correcta.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** UY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Uso Comprensivo del Conocimiento Científico
@@ -459,7 +460,7 @@ La ósmosis es el paso pasivo del solvente a través de una membrana selectivame
 La bomba de sodio-potasio consume aproximadamente el 30% del ATP celular, siendo vital para mantener el volumen de la célula y el potencial de membrana. En este contexto, Florencia de Paysandú determinó correctamente la respuesta correcta.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** UY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Explicación de Fenómenos

@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Lengua: Tema W09 (W09)
 **20 preguntas | Lengua | ANEP - Plan 2006 Reformulación / Programa Ubicación**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Comprensión de textos
@@ -46,7 +47,7 @@ bundle_index: 1
 La piedad declarada explícitamente se proyecta de forma inferencial hacia un afán humano y sensible de consolar al marginado o estéticamente desfavorecido del huerto.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Comprensión de textos
@@ -70,7 +71,7 @@ La piedad declarada explícitamente se proyecta de forma inferencial hacia un af
 Atribuir sentimientos de regocijo o dolor a un árbol inanimado es una personificación de base, indispensable para la coherencia afectiva del poema de Juana de Ibarbourou.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Comprensión de textos
@@ -96,7 +97,7 @@ Atribuir sentimientos de regocijo o dolor a un árbol inanimado es una personifi
 La inferencia pragmática asocia la ironía y el contraste léxico ('espectacular' vs 'tapera') con un juicio crítico valorativo implícito sobre el comportamiento financiero del personaje de diálogo.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Comprensión de textos
@@ -120,7 +121,7 @@ La inferencia pragmática asocia la ironía y el contraste léxico ('espectacula
 Leer de forma inferencial exige descodificar las oposiciones figuradas del discurso de prensa. El silencio de las planillas connota de forma inequívoca desidia o abandono presupuestario de Secundaria.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Comprensión de textos
@@ -144,7 +145,7 @@ Leer de forma inferencial exige descodificar las oposiciones figuradas del discu
 La adjetivación y la metáfora en la columna de opinión revelan el sesgo e intencionalidad crítica del autor de prensa, dirigiendo de forma inferencial el juicio moral del lector hacia la dispersión de internet.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Comprensión de textos
@@ -168,7 +169,7 @@ La adjetivación y la metáfora en la columna de opinión revelan el sesgo e int
 La autocrítica defensiva es una herramienta de argumentación escrita de Secundaria. Deslindar la postura propia del prejuicio retrógrado (el tintero) aumenta el prestigio y la seriedad del alegato de Secundaria.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -192,7 +193,7 @@ La autocrítica defensiva es una herramienta de argumentación escrita de Secund
 Las metáforas cargadas de melancolía fúnebre ('tumbas') asocian el abandono físico del libro con la muerte de una destreza humana superior (la concentración), apelando a la alarma existencial del receptor de Secundaria.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -217,7 +218,7 @@ Las metáforas cargadas de melancolía fúnebre ('tumbas') asocian el abandono f
 La poesía carnavalesca descansa en la metáfora urbana. El faro del tablado cobija a los naúfragos ('los restos') de la sociedad ('barco abollado'), consagrando la función poética y expresiva del género rioplatense.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -241,7 +242,7 @@ La poesía carnavalesca descansa en la metáfora urbana. El faro del tablado cob
 Los silencios en la obra quiroguiana son indicios de muerte. El adjetivo fúnebre 'sepulcral' opera como un puente semántico inferencial que asocia el relieve de la selva con el deceso orgánico del hijo.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -265,7 +266,7 @@ Los silencios en la obra quiroguiana son indicios de muerte. El adjetivo fúnebr
 La temporalidad en el cuento de suspenso psicológico es una categoría subjetiva. El dolor dilata la percepción cronológica íntima, enfrentando el fluir del reloj físico con la inmovilidad existencial de la angustia paterna.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -289,7 +290,7 @@ Analizá la última frase del fragmento poético de Juana de Ibarbourou: '¿Qué
 Mentir con ternura para regalar belleza al desfavorecido es el núcleo ético de 'La higuera' de Juana de Ibarbourou. La palabra poética se redefine como un acto de caridad existencial que trasciende el dato físico objetivo de la realidad.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -313,7 +314,7 @@ Mentir con ternura para regalar belleza al desfavorecido es el núcleo ético de
 La crítica cultural al ocio de internet se fundamenta inferencialmente en la defensa de la biblioteca clásica como santuario mental de la razón. El autor de prensa opone el silencio fértil del libro al ruido disperso estéril de la red.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Comprensión de textos
@@ -338,7 +339,7 @@ Analizá críticamente el fragmento. ¿Qué intencionalidad moral o política de
 La fábula política opera descodificando de forma inferencial el doble sentido. El zorro de la fábula encarna la astucia y cinismo de los gobernantes, sirviendo para desnudar la incoherencia moral del discurso público frente a la ambición privada.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Comprensión de textos
@@ -362,7 +363,7 @@ La fábula política opera descodificando de forma inferencial el doble sentido.
 Quiroga utiliza la técnica del correlato objetivo: impregna el paisaje geográfico exterior con los signos biológicos corporales de la muerte del hijo (frío, vapor gélido, silencio sepulcral), arrastrando de forma inferencial la sospecha trágica en la mente del lector de Secundaria.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Comprensión de textos
@@ -387,7 +388,7 @@ Analizá el significado inferencial del relieve del río (el encajonamiento de p
 En los relatos de Quiroga el cese imprevisto de los síntomas físicos de dolor (parálisis sensorial) y la geografía lúgubre de paredes de piedra (ataúd colosal) prefiguran de forma inferencial la muerte de supervivencia del protagonista.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Comprensión de textos
@@ -411,7 +412,7 @@ En los relatos de Quiroga el cese imprevisto de los síntomas físicos de dolor 
 La fábula alegórica de Secundaria descansa en la descodificación inferencial de su plano figurado. El hormiguero subterráneo es sinécdoque de la oficina gris de consumo moderna, y las hormigas obreras encarnan la enajenación existencial del ciudadano común de Secundaria.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Comprensión de textos
@@ -435,7 +436,7 @@ Evaluá críticamente el uso de la metáfora arqueológica 'descansan bajo una p
 La evaluación crítica del texto de opinión de Secundaria desmonta cómo las metáforas fúnebres de Secundaria ('tumbas') inyectan de forma inferencial una sensación de urgencia y alarma civil en la mente del receptor. El libro de papel se consagra como la reliquia arqueológica de la razón de Secundaria frente a la tiranía de la dopamina rápida de internet de Secundaria.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Comprensión de textos
@@ -459,7 +460,7 @@ Evaluá críticamente el desenlace lírico de 'La higuera' de Juana de Ibarbouro
 La asimilación de la lectura lírica e inferencial de Secundaria exige desentrañar la tensión ética del poema de Ibarbourou. La mentira piadosa lírica se consagra como un acto de caridad existencial que trasciende el dato físico, regalando de forma imaginaria dignidad al ser postergado de Ibarbourou.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Comprensión de textos
@@ -483,7 +484,7 @@ La asimilación de la lectura lírica e inferencial de Secundaria exige desentra
 La asimilación de la competencia de lectura crítica e inferencial de Secundaria es un derecho cognitivo indispensable para la soberanía mental del estudiante de Secundaria. Desentrañar los dobles sentidos, las ironías de prensa y los sesgos publicitarios de Secundaria dota de gran lucidez al pensamiento crítico de Secundaria, desarmando de forma proactiva la manipulación discursiva de la sociedad de consumo de Secundaria.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** UY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Comprensión de textos

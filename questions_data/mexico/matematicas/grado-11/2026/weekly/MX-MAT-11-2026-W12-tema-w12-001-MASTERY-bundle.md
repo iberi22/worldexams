@@ -13,12 +13,13 @@ total_questions: 20
 bundle_size: 20
 alignment: "SEP NEM Mexico 2026 / EXANI-II pensamiento matematico"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** MX-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Matemático
@@ -41,7 +42,7 @@ creador: "Jules-Agent"
 ### Explicacion Pedagogica
 Los polígonos se clasifican y nombran de acuerdo con su número de lados. Un octágono es un polígono que tiene exactamente de ocho lados y ocho de.
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Matemático
@@ -64,7 +65,7 @@ Los polígonos se clasifican y nombran de acuerdo con su número de lados. Un oc
 ### Explicacion Pedagogica
 El diámetro es el segmento de recta que pasa por el centro de la circunferencia e intercepta a esta en dos puntos opuestos. Su longitud es equivalente a dos veces el radio.
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** MX-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -87,7 +88,7 @@ Si el radio de la glorieta circular mide 5 metros, ¿cuánto mide el área total
 ### Explicacion Pedagogica
 La superficie o área de un círculo se determina mediante la fórmula matemática A = π * r², donde r representa la longitud del radio del círculo. Sustituyendo el radio r = 5 m en la fórmula: A = π * (5)² = 25π m².
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** MX-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -110,7 +111,7 @@ La superficie o área de un círculo se determina mediante la fórmula matemáti
 ### Explicacion Pedagogica
 La suma de los ángulos internos de cualquier polígono convexo de n lados se calcula mediante la fórmula S = (n - 2) * 180°. En el caso de un hexágono, n = 6. Sustituyendo: S = (6 - 2) * 180° = 4 * 180° = 720°.
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** MX-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -133,7 +134,7 @@ La suma de los ángulos internos de cualquier polígono convexo de n lados se ca
 ### Explicacion Pedagogica
 Para encontrar la medida de un ángulo interno de un polígono regular, dividimos la suma total de los de internos entre el número de lados n. La fórmula es α = (n - 2) * 180° / n. Para un hexágono regular (n = 6): α = (6 - 2) * 180° / 6 = 4 * 180° / 6 = 720° / 6 = 120°.
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** MX-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -156,7 +157,7 @@ Si el área total del círculo es de 120 cm² y se divide en 8 sectores circular
 ### Explicacion Pedagogica
 Dado que el círculo se divide en 8 sectores circulares idénticos, la superficie de cada sector representa exactamente un octavo del área total del círculo. Calculamos: Área del sector = Área total / 8 = 120 cm² / 8 = 15 cm².
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** MX-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -179,7 +180,7 @@ Si cada lado del octágono regular mide 1.5 metros y el apotema mide 1.8 metros,
 ### Explicacion Pedagogica
 La fórmula para calcular el área de cualquier polígono regular es A = (P * ap) / 2, donde P es el perímetro y ap es el apotema. Primero, calculamos el perímetro del octágono (8 lados): P = 8 * 1.5 m = 12 m. Posteriormente, aplicamos la fórmula del área: A = (12 m * 1.8 m) / 2 = 21.6 / 2 = 10.8 m².
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -202,7 +203,7 @@ La fórmula para calcular el área de cualquier polígono regular es A = (P * ap
 ### Explicacion Pedagogica
 El número total de diagonales (D) que se pueden trazar en cualquier polígono convexo de n lados se calcula mediante la fórmula: D = n * (n - 3) / 2. Para un octágono, n = 8. Sustituyendo los valores: D = 8 * (8 - 3) / 2 = 8 * 5 / 2 = 40 / 2 = 20.
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** MX-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -225,7 +226,7 @@ Si la longitud de la pista (perímetro del círculo) es de 400 metros, ¿cuál e
 ### Explicacion Pedagogica
 La circunferencia o perímetro de un círculo se determina mediante la fórmula: P = 2 * π * r. Tenemos como dato que P = 400 m. Para hallar el radio, despejamos r: r = P / (2 * π). Sustituyendo los de: r = 400 / (2 * 3.1416) = 400 / 6.2832 ≈ 63.66 metros.
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** MX-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -248,7 +249,7 @@ Si el círculo de la piedra es tangente a los tres lados del triángulo, ¿qué 
 ### Explicacion Pedagogica
 Por definición geométrica, el círculo que es interior a un polígono y que resulta ser tangente a cada uno de sus lados se denomina círculo inscrito. El centro de este círculo es el incentro.
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** MX-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -271,7 +272,7 @@ Si la longitud de un arco de circunferencia que subtiende un ángulo central de 
 ### Explicacion Pedagogica
 La longitud de un arco (s) para un ángulo central θ en grados se calcula mediante: s = 2 * π * r * (θ / 360°). Nos dan s = 4π y θ = 60°. Sustituyendo: 4π = 2 * π * r * (60 / 360) = 2 * π * r * (1 / 6). Dividiendo ambos lados entre π: 4 = 2 * r / 6 = r / 3. Multiplicando por 3 obtenemos: r = 12 metros.
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** MX-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Pensamiento Matemático
@@ -294,7 +295,7 @@ En una circunferencia, un ángulo inscrito tiene su vértice sobre la de y sus l
 ### Explicacion Pedagogica
 De acuerdo con las de de los de en la de, la medida de un de inscrito es exactamente igual a la mitad de la medida del de central que subtiende el mismo de de de. Por ende, la medida del de central es el doble de la del inscrito: Ángulo central = 2 * Ángulo inscrito = 2 * 45° = 90°.
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** MX-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Pensamiento Matemático
@@ -317,7 +318,7 @@ Si la suma de los de internos de un de regular es de 1440°, ¿cuántas diagonal
 ### Explicacion Pedagogica
 Primero, determinamos el número de lados del polígono con la fórmula de la suma de ángulos internos: S = (n - 2) * 180°. Sustituyendo S = 1440°: 1440° = (n - 2) * 180° -> n - 2 = 1440 / 180 = 8 -> n = 10 (un decágono). El número de diagonales que se pueden trazar desde un único vértice en cualquier polígono de n lados es d = n - 3. Sustituyendo n = 10: d = 10 - 3 = 7.
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Pensamiento Matemático
@@ -340,7 +341,7 @@ Primero, determinamos el número de lados del polígono con la fórmula de la su
 ### Explicacion Pedagogica
 Cuando un cuadrado está inscrito en una de, la de del cuadrado es exactamente igual al de de la de circunscrita. Calculamos la diagonal (d) usando el de de de: d = √(4² + 4²) = √32 = 4√2 cm. El de (r) de la de es la mitad de la diagonal: r = d / 2 = (4√2) / 2 = 2√2 cm.
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** MX-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pensamiento Matemático
@@ -363,7 +364,7 @@ Si el aspersor tiene un alcance de 6 metros de longitud y gira cubriendo un áng
 ### Explicacion Pedagogica
 La superficie mojada por el aspersor forma un sector circular. El área de un sector circular se calcula con la fórmula: A = π * r² * (θ / 360°). Sustituyendo r = 6 m y θ = 120°: A = π * 6² * (120° / 360°) = π * 36 * (1 / 3) = 12π. Con π ≈ 3.1416, obtenemos A ≈ 12 * 3.1416 = 37.6992 m², que redondeando es 37.70 m².
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** MX-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Pensamiento Matemático
@@ -386,7 +387,7 @@ Si una de de una de de de 10 cm mide exactamente 12 cm, ¿cuál es la de de más
 ### Explicacion Pedagogica
 Cualquier de perpendicular trazado desde el de de una de a una de biseca a la misma de. Esto forma un de de de de son: el de r (de), la mitad de la de c/2 (un de), y la de d (otro de). Sustituyendo r = 10 cm y c/2 = 6 cm: d = √(r² - (c/2)²) = √(10² - 6²) = √(100 - 36) = √64 = 8 cm.
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** MX-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático
@@ -409,7 +410,7 @@ Si dos de de de tienen de de 5 m y 3 m, ¿cuál es el de de la de de (de compren
 ### Explicacion Pedagogica
 Una de de es la de de de de por dos de de. Su de se determina restando el de del de menor del de mayor: A = π * R² - π * r² = π * (R² - r²). Sustituyendo R = 5 m y r = 3 m: A = π * (5² - 3²) = π * (25 - 9) = 16π m².
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático
@@ -432,7 +433,7 @@ Si un de regular tiene n lados, ¿cuál es la de de que determina la medida de u
 ### Explicacion Pedagogica
 La suma de los de de de cualquier de de es una de igual a 360°. Para un de de, todos sus de de son de de de. Por lo tanto, la de de un de de se calcula dividiendo la suma total entre el de de lados n, lo que resulta en la de: 360° / n.
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** MX-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático
@@ -455,7 +456,7 @@ Desde un de de P se trazan una de PAB y una de PT a una de. Si la de de la de PT
 ### Explicacion Pedagogica
 El de de la de y la de establece que si desde un de de a una de se trazan una de y una de, el de del de de es igual al de del de de de por su de de. La de es PT² = PA * PB. Sustituyendo los de: 12² = 8 * PB -> 144 = 8 * PB -> PB = 144 / 8 = 18 cm. Como el de de de PB se compone del de de PA más la de de AB (PB = PA + AB), despejamos AB: AB = PB - PA = 18 - 8 = 10 cm.
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático

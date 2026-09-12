@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Ciencias Sociales: El Neobatllismo y el Uruguay de mediados de siglo XX (W08)
 **20 preguntas | Ciencias Sociales | ANEP - Plan 2006 Reformulación / Programa Ubicación**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** UY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Social
@@ -46,7 +47,7 @@ bundle_index: 1
 La identificación precisa de El gobierno de Luis Batlle Berres permite comprender la era de prosperidad exportadora e industrial dentro del proceso de el gobierno de Luis Batlle Berres (1947-1951). Su rol histórico está plenamente documentado en los programas de estudio de la enseñanza media superior (ANEP).
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** UY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Social
@@ -70,7 +71,7 @@ La identificación precisa de El gobierno de Luis Batlle Berres permite comprend
 La identificación precisa de El modelo de sustitución de importaciones (ISI) permite comprender la protección arancelaria a las fábricas de consumo dentro del proceso de el modelo de Industrialización por Sustitución de Importaciones. Su rol histórico está plenamente documentado en los programas de estudio de la enseñanza media superior (ANEP).
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** UY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -94,7 +95,7 @@ Si analizás la trascendencia de este suceso, ¿cómo se explica la relación ca
 La relación entre El aumento de precios del cuero y lana por la Guerra de Corea y el auge de las divisas y exportaciones del agro es un eje vertebral para comprender el auge económico de la Guerra de Corea. Su estudio demuestra cómo los factores estructurales del período sentaron las condiciones para los cambios políticos o sociales subsiguientes.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** UY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -118,7 +119,7 @@ Si analizás la trascendencia de este suceso, ¿cómo se explica la relación ca
 La relación entre El Ejecutivo Colegiado de nueve miembros de la Constitución de 1952 y la abolición de la presidencia unipersonal de forma definitiva es un eje vertebral para comprender el Consejo Nacional de Gobierno (Colegiado de 1952). Su estudio demuestra cómo los factores estructurales del período sentaron las condiciones para los cambios políticos o sociales subsiguientes.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** UY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -142,7 +143,7 @@ Si analizás la trascendencia de este suceso, ¿cómo se explica la relación ca
 La relación entre El optimismo social y el alto nivel de bienestar general y la 'Suiza de América' en el imaginario colectivo es un eje vertebral para comprender el Uruguay de las 'vacas gordas' y el optimismo. Su estudio demuestra cómo los factores estructurales del período sentaron las condiciones para los cambios políticos o sociales subsiguientes.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** UY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -166,7 +167,7 @@ Si analizás la trascendencia de este suceso, ¿cómo se explica la relación ca
 La relación entre La nacionalización de ferrocarriles, aguas y tranvías y la compra estatal de los antiguos servicios británicos es un eje vertebral para comprender la nacionalización de ferrocarriles y servicios ingleses. Su estudio demuestra cómo los factores estructurales del período sentaron las condiciones para los cambios políticos o sociales subsiguientes.
 
 ---
-## Question 7 [D6]
+## Question 7 [D5-D6]
 **ID:** UY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -190,7 +191,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de El crecimiento sindical bajo las leyes de Consejos de Salarios revela que el protagonismo de la clase obrera y los sindicatos no fue un mero debate teórico, sino un proceso real que estructuró la de forma democrática institucionalización de la negociación laboral, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** UY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -214,7 +215,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de La expansión del empleo público y el Estado benefactor revela que el peso del sector público y el empleo estatal no fue un mero debate teórico, sino un proceso real que estructuró el de forma clientelar clientelismo político y la estabilidad laboral, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** UY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -238,7 +239,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de La Ley de Consejos de Salarios revela que la ley de Consejos de Salarios de 1943 no fue un mero debate teórico, sino un proceso real que estructuró la negociación tripartita (Estado, patronos, obreros), definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** UY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -262,7 +263,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de La falta de inversión tecnológica en el agro latifundista revela que la crisis latente del modelo agroexportador no fue un mero debate teórico, sino un proceso real que estructuró la debilidad estructural del modelo industrial protegido, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** UY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -286,7 +287,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de El gobierno de Luis Batlle Berres revela que el gobierno de Luis Batlle Berres (1947-1951) no fue un mero debate teórico, sino un proceso real que estructuró la era de prosperidad exportadora e industrial, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** UY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -310,7 +311,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de El modelo de sustitución de importaciones (ISI) revela que el modelo de Industrialización por Sustitución de Importaciones no fue un mero debate teórico, sino un proceso real que estructuró la protección arancelaria a las fábricas de consumo, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 13 [D8]
+## Question 13 [D7-D8]
 **ID:** UY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Análisis de Perspectivas
@@ -334,7 +335,7 @@ La aplicación práctica de El modelo de sustitución de importaciones (ISI) rev
 El análisis crítico de El aumento de precios del cuero y lana por la Guerra de Corea demuestra que el auge económico de la Guerra de Corea devela fuertes asimetrías de poder. Mientras que un sector consolidaba el auge de las divisas y exportaciones del agro, otros grupos sociales experimentaban severas limitaciones, dinamizando el conflicto político uruguayo.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** UY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Análisis de Perspectivas
@@ -358,7 +359,7 @@ El análisis crítico de El aumento de precios del cuero y lana por la Guerra de
 El análisis crítico de El Ejecutivo Colegiado de nueve miembros de la Constitución de 1952 demuestra que el Consejo Nacional de Gobierno (Colegiado de 1952) devela fuertes asimetrías de poder. Mientras que un sector consolidaba la abolición de la presidencia unipersonal de forma definitiva, otros grupos sociales experimentaban severas limitaciones, dinamizando el conflicto político uruguayo.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** UY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Análisis de Perspectivas
@@ -382,7 +383,7 @@ El análisis crítico de El Ejecutivo Colegiado de nueve miembros de la Constitu
 El análisis crítico de El optimismo social y el alto nivel de bienestar general demuestra que el Uruguay de las 'vacas gordas' y el optimismo devela fuertes asimetrías de poder. Mientras que un sector consolidaba la 'Suiza de América' en el imaginario colectivo, otros grupos sociales experimentaban severas limitaciones, dinamizando el conflicto político uruguayo.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** UY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Análisis de Perspectivas
@@ -406,7 +407,7 @@ El análisis crítico de El optimismo social y el alto nivel de bienestar genera
 El análisis crítico de La nacionalización de ferrocarriles, aguas y tranvías demuestra que la nacionalización de ferrocarriles y servicios ingleses devela fuertes asimetrías de poder. Mientras que un sector consolidaba la compra estatal de los antiguos servicios británicos, otros grupos sociales experimentaban severas limitaciones, dinamizando el conflicto político uruguayo.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** UY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -430,7 +431,7 @@ Al juzgar de manera integral el alcance histórico de El crecimiento sindical ba
 La evaluación crítica de el protagonismo de la clase obrera y los sindicatos destaca el rol estructurador de El crecimiento sindical bajo las leyes de Consejos de Salarios en la configuración de la de forma democrática institucionalización de la negociación laboral. Su estudio integral permite ponderar los aciertos, contradicciones y el legado institucional que perdura hasta el Uruguay contemporáneo.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** UY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -454,7 +455,7 @@ Al juzgar de manera integral el alcance histórico de La expansión del empleo p
 La evaluación crítica de el peso del sector público y el empleo estatal destaca el rol estructurador de La expansión del empleo público y el Estado benefactor en la configuración de el de forma clientelar clientelismo político y la estabilidad laboral. Su estudio integral permite ponderar los aciertos, contradicciones y el legado institucional que perdura hasta el Uruguay contemporáneo.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** UY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -478,7 +479,7 @@ Al juzgar de manera integral el alcance histórico de La Ley de Consejos de Sala
 La evaluación crítica de la ley de Consejos de Salarios de 1943 destaca el rol estructurador de La Ley de Consejos de Salarios en la configuración de la negociación tripartita (Estado, patronos, obreros). Su estudio integral permite ponderar los aciertos, contradicciones y el legado institucional que perdura hasta el Uruguay contemporáneo.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** UY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social

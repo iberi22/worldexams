@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Matemáticas: Tema W08 (W08)
 **20 preguntas | Grado 11 (6to de Secundaria) | MINEDU - Ley Educativa Avelino Siñani - Elizardo Pérez**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -42,7 +43,7 @@ bundle_index: 1
 Por las propiedades fundamentales del orden en la recta real, multiplicar o dividir ambos miembros por una constante negativa requiere invertir el sentido de la desigualdad.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -62,7 +63,7 @@ Por las propiedades fundamentales del orden en la recta real, multiplicar o divi
 2x + 6 < 14 -> 2x < 8 -> x < 4. El conjunto solución está dado por todos los números reales estrictamente menores que 4.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -82,7 +83,7 @@ Si representamos en la recta real la inecuación con valor absoluto |x| <= 3, ¿
 La inecuación |x| <= 3 se traduce geométricamente como la distancia al origen menor o igual que 3, lo cual equivale a -3 <= x <= 3, representado por el intervalo cerrado [-3, 3].
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -102,7 +103,7 @@ Resuelva la inecuación lineal con coeficientes fraccionarios: -4x + 16 < 4. ¿C
 Despejando: -4x < -12. Al dividir por el coeficiente negativo -4, invertimos obligatoriamente el sentido, resultando en x > 3.
 
 ---
-## Question 5 [D4]
+## Question 5 [D3-D4]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v5
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -122,7 +123,7 @@ Resuelva la inecuación lineal con coeficientes fraccionarios: -5x + 20 < 5. ¿C
 Despejando: -5x < -15. Al dividir por el coeficiente negativo -5, invertimos obligatoriamente el sentido, resultando en x > 3.
 
 ---
-## Question 6 [D4]
+## Question 6 [D3-D4]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -142,7 +143,7 @@ Resuelva la inecuación lineal con coeficientes fraccionarios: -6x + 24 < 6. ¿C
 Despejando: -6x < -18. Al dividir por el coeficiente negativo -6, invertimos obligatoriamente el sentido, resultando en x > 3.
 
 ---
-## Question 7 [D4]
+## Question 7 [D3-D4]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -162,7 +163,7 @@ Resuelva la inecuación lineal con coeficientes fraccionarios: -7x + 28 < 7. ¿C
 Despejando: -7x < -21. Al dividir por el coeficiente negativo -7, invertimos obligatoriamente el sentido, resultando en x > 3.
 
 ---
-## Question 8 [D4]
+## Question 8 [D3-D4]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -182,7 +183,7 @@ Resuelva la inecuación lineal con coeficientes fraccionarios: -8x + 32 < 8. ¿C
 Despejando: -8x < -24. Al dividir por el coeficiente negativo -8, invertimos obligatoriamente el sentido, resultando en x > 3.
 
 ---
-## Question 9 [D4]
+## Question 9 [D3-D4]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v9
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -202,7 +203,7 @@ Resuelva la inecuación lineal con coeficientes fraccionarios: -9x + 36 < 9. ¿C
 Despejando: -9x < -27. Al dividir por el coeficiente negativo -9, invertimos obligatoriamente el sentido, resultando en x > 3.
 
 ---
-## Question 10 [D4]
+## Question 10 [D3-D4]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -222,7 +223,7 @@ Resuelva la inecuación lineal con coeficientes fraccionarios: -10x + 40 < 10. �
 Despejando: -10x < -30. Al dividir por el coeficiente negativo -10, invertimos obligatoriamente el sentido, resultando en x > 3.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -242,7 +243,7 @@ Resuelva la inecuación lineal con coeficientes fraccionarios: -11x + 44 < 11. �
 Despejando: -11x < -33. Al dividir por el coeficiente negativo -11, invertimos obligatoriamente el sentido, resultando en x > 3.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -262,7 +263,7 @@ Resuelva la inecuación lineal con coeficientes fraccionarios: -12x + 48 < 12. �
 Despejando: -12x < -36. Al dividir por el coeficiente negativo -12, invertimos obligatoriamente el sentido, resultando en x > 3.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -282,7 +283,7 @@ Resuelva la inecuación lineal con coeficientes fraccionarios: -13x + 52 < 13. �
 Despejando: -13x < -39. Al dividir por el coeficiente negativo -13, invertimos obligatoriamente el sentido, resultando en x > 3.
 
 ---
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v14
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -302,7 +303,7 @@ Resuelva la inecuación lineal con coeficientes fraccionarios: -14x + 56 < 14. �
 Despejando: -14x < -42. Al dividir por el coeficiente negativo -14, invertimos obligatoriamente el sentido, resultando en x > 3.
 
 ---
-## Question 15 [D7]
+## Question 15 [D7-D8]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -322,7 +323,7 @@ Resuelva la inecuación lineal con coeficientes fraccionarios: -15x + 60 < 15. �
 Despejando: -15x < -45. Al dividir por el coeficiente negativo -15, invertimos obligatoriamente el sentido, resultando en x > 3.
 
 ---
-## Question 16 [D7]
+## Question 16 [D7-D8]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v16
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -342,7 +343,7 @@ Resuelva la inecuación lineal con coeficientes fraccionarios: -16x + 64 < 16. �
 Despejando: -16x < -48. Al dividir por el coeficiente negativo -16, invertimos obligatoriamente el sentido, resultando en x > 3.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v17
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -362,7 +363,7 @@ Resuelva la inecuación lineal con coeficientes fraccionarios: -17x + 68 < 17. �
 Despejando: -17x < -51. Al dividir por el coeficiente negativo -17, invertimos obligatoriamente el sentido, resultando en x > 3.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v18
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -382,7 +383,7 @@ Resuelva la inecuación lineal con coeficientes fraccionarios: -18x + 72 < 18. �
 Despejando: -18x < -54. Al dividir por el coeficiente negativo -18, invertimos obligatoriamente el sentido, resultando en x > 3.
 
 ---
-## Question 19 [D9]
+## Question 19 [D9-D10]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v19
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -402,7 +403,7 @@ Resuelva la inecuación lineal con coeficientes fraccionarios: -19x + 76 < 19. �
 Despejando: -19x < -57. Al dividir por el coeficiente negativo -19, invertimos obligatoriamente el sentido, resultando en x > 3.
 
 ---
-## Question 20 [D9]
+## Question 20 [D9-D10]
 **ID:** BO-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v20
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos

@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Português: Coesão e Coerência
 **20 perguntas | Português | BNCC Brasil / ENEM 2026**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BR-POR-11-2026-W06-tema-w06-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Estudo dos aspectos linguísticos
@@ -45,7 +46,7 @@ Como é classificado o recurso de coesão que consiste na retomada de um termo o
 ### Explicacion Pedagogica
 A coesão anafórica ocorre quando um elemento (normalmente um pronome relativo, demonstrativo ou pessoal, ou mesmo um sinônimo) retoma um referente que já apareceu anteriormente na superfície textual, garantindo a continuidade do fluxo informativo.
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BR-POR-11-2026-W06-tema-w06-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Estudo dos aspectos linguísticos
@@ -68,7 +69,7 @@ As conjunções e locuções conjuntivas (como "portanto", "contudo", "porque") 
 ### Explicacion Pedagogica
 As conjunções atuam como conectivos lógicos indispensáveis para tecer a coesão sequencial do texto. Elas estabelecem relações de sentido precisas (como adversidade, concessão, causa, efeito, conclusão e tempo) entre as orações e parágrafos do texto escrito.
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BR-POR-11-2026-W06-tema-w06-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Estudo dos aspectos linguísticos
@@ -91,7 +92,7 @@ No trecho lido pela jovem curitibana, o pronome pessoal "Elas" atua como element
 ### Explicacion Pedagogica
 A coesão anafórica realizada por pronomes pessoais ("Elas" retomando "as novas leis de trânsito") garante a articulação gramatical do texto. Ela economiza termos de repetição exaustiva irritante, mantendo o foco informativo centrado no mesmo referente.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BR-POR-11-2026-W06-tema-w06-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Estudo dos aspectos linguísticos
@@ -114,7 +115,7 @@ Identifique o mecanismo de coesão referencial utilizado pelo autor ao empregar 
 ### Explicacion Pedagogica
 A coesão anafórica por organizadores ordinais ("o primeiro", "o segundo") permite ao escritor de redação acadêmica retomar referentes de forma ordenada e unívoca, desfazendo ambiguidades que poderiam poluir a leitura de teses e argumentos complexos.
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** BR-POR-11-2026-W06-tema-w06-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Estudo dos aspectos linguísticos
@@ -138,7 +139,7 @@ A transição entre as duas orações do parágrafo apoia-se no mecanismo de coe
 ### Explicacion Pedagogica
 A coesão lexical por substituição hiperonímica (usar o termo mais abrangente "floresta" para retomar o termo específico "matas nativas") é um recurso de estilo refinado. Evita a mesmice vocabular e enriquece a redação dissertativo-argumentativa formal do ENEM.
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** BR-POR-11-2026-W06-tema-w06-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Estudo dos aspectos linguísticos
@@ -161,7 +162,7 @@ Analisando a coerência interna do trecho do romance mineiro, identifica-se uma 
 ### Explicacion Pedagogica
 A coerência textual exige que as informações apresentadas não entrem em contradição lógica mútua. Dizer que o personagem corre para a rodoviária para pegar um ônibus e afirmar em seguida que o "trem" já tinha partido viola a coerência interna do mundo ficcional construído pelo escritor.
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** BR-POR-11-2026-W06-tema-w06-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Estudo dos aspectos linguísticos
@@ -184,7 +185,7 @@ No anúncio de moda soteropolitano, como operam os recursos de coesão gramatica
 ### Explicacion Pedagogica
 O anúncio publicitário de luxo economiza conectivos explícitos (recorrendo ao assíndeto ou coordenação implícita por justaposição: "não berra; sussurra") para criar um ritmo textual ágil, breve e elegante. A retomada anafórica pelo pronome pessoal ("Ela") garante a perfeita conexão gramatical das ideias.
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** BR-POR-11-2026-W06-tema-w06-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Estudo dos aspectos linguísticos
@@ -207,7 +208,7 @@ Nesse trecho de redação do ENEM, o conectivo inicial "Consequentemente" estabe
 ### Explicacion Pedagogica
 Os operadores argumentativos de consequência lógica (como "consequentemente", "portanto", "como resultado", "por conseguinte") são ferramentas essenciais de coesão sequencial (Competência 4 do ENEM). Eles consolidam o raciocínio lógico-discursivo, provando que a tese defendida decorre de fatos concretos apresentados no parágrafo.
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** BR-POR-11-2026-W06-tema-w06-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Estudo dos aspectos linguísticos
@@ -230,7 +231,7 @@ No texto científico de Recife, o conectivo adversativo "No entanto" atua para e
 ### Explicacion Pedagogica
 As conjunções adversativas (como "no entanto", "porém", "contudo", "todavia", "entretanto") guiam a leitura, introduzindo uma oposição ou barreira que contraria a expectativa gerada pela oração anterior de sucesso pleno. São indispensáveis para refinar o raciocínio crítico da tipologia argumentativa de mídias nacionais no vestibular brasileiro.
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** BR-POR-11-2026-W06-tema-w06-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Estudo dos aspectos linguísticos
@@ -253,7 +254,7 @@ O operador de concessão "Embora" introduz qual relação de sentido no anúncio
 ### Explicacion Pedagogica
 O operador de concessão (como "embora", "conquanto", "ainda que", "se bem que") é de alta valia argumentativa no vestibular brasileiro (ENEM) e redações corporativas de mídias de prestígio. Ele permite ao redator admitir uma barreira real de contexto ("Vaga paulistana") mas garantir a viabilidade ou sucesso da conduta principal ("trabalho virtual de equipe"), sem quebrar a harmonia de coerência textual.
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BR-POR-11-2026-W06-tema-w06-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Estudo dos aspectos linguísticos
@@ -276,7 +277,7 @@ No trecho de relatório ecológico de Manaus, o mecanismo de coesão lexical e d
 ### Explicacion Pedagogica
 A coesão por associação lexical (ou coesão de campo semântico de florestas de rios da bacia amazônica) ocorre quando o redator utiliza termos que pertencem ao mesmo universo semântico conceitual (como peixes, rios, matas ciliares, águas fluviais). Esse mecanismo garante a continuidade temática do texto científico sem cansar o leitor receptor com termos redundantes inautênticos.
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BR-POR-11-2026-W06-tema-w06-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Estudo dos aspectos linguísticos
@@ -299,7 +300,7 @@ Qual relação lógico-discursiva é introduzida pelo conectivo de coesão "Conc
 ### Explicacion Pedagogica
 O operador de tempo simultâneo ou concomitância (como "concomitantemente", "simultaneamente", "ao mesmo tempo", "enquanto") é valioso para a coesão sequencial. Ele alerta o leitor de que duas ações do contexto real ocorrem na mesma faixa de tempo cronológico, exigindo readequações de condutas ou planejamentos espaciais rápidos das pessoas do trânsito urbano paulista.
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BR-POR-11-2026-W06-tema-w06-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Estudo dos aspectos linguísticos
@@ -323,7 +324,7 @@ Sob a análise científica de Letras de vestibular das regras de coesão, esse u
 ### Explicacion Pedagogica
 A coesão catafórica ocorre quando o pronome demonstrativo neutro ("Isto", "Este", "Esta") atua para antecipar ideias, teses ou conceitos complexos que o redator de redação do ENEM ou orador barroco ainda apresentará na oração seguinte, prendendo de forma persuasiva a atenção do receptor leitor à sequência de argumentos lógicos.
 
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** BR-POR-11-2026-W06-tema-w06-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Estudo dos aspectos linguísticos
@@ -347,7 +348,7 @@ Analisando a coerência lógica de sentido e coesão do slogan de calçados acim
 ### Explicacion Pedagogica
 As conjunções coordenativas explicativas ou causais (como "porque", "pois", "visto que") devem atuar para fundamentar e validar a tese promocional defendida pelo redator publicitário ou candidato de redação do ENEM. Usar "porque" para introduzir uma explicação desastrosa de dores corporais causadas pelo próprio produto ("machuca e esfola a pele") quebra a coerência pragmática (vender a mercadoria) e sabota a eficácia da comunicação de mídias.
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** BR-POR-11-2026-W06-tema-w06-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Estudo dos aspectos linguísticos
@@ -371,7 +372,7 @@ Analisando a qualidade da coesão referencial e sequencial do parágrafo do cand
 ### Explicacion Pedagogica
 A Competência 4 da correção oficial da redação dissertativa do ENEM pontua a variedade de operadores textuais e a ausência de repetições exaustivas cansativas de conectivos de ligação. Acumular o mesmo operador aditivo ("além disso") nas orações gera pobreza de estilo (monotonia sintática), a qual deve ser superada pelo uso de sinônimos de acúmulo lógico de prestígio (como "outrossim", "ademais", "adicionalmente", "soma-se a isso").
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** BR-POR-11-2026-W06-tema-w06-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Estudo dos aspectos linguísticos
@@ -395,7 +396,7 @@ Na piada do colunista de jornal, o conectivo adversativo "Porém" atua de forma 
 ### Explicacion Pedagogica
 Colunistas de opinião e jornalistas satíricos utilizam os conectivos de oposição (como "porém", "contudo", "entretanto", "no entanto") para desmascarar discursos institucionais pomposos vazios. Contrapor a jactância de propaganda política com a realidade crua de infraestrutura esburacada com "Porém" produz o efeito estético de humor crítico e conscientização cívica dos cidadãos leitores.
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BR-POR-11-2026-W06-tema-w06-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Estudo dos aspectos linguísticos
@@ -418,7 +419,7 @@ Sob a análise descritiva científica das regras de coerência textual de Letras
 ### Explicacion Pedagogica
 A coerência textual não se reduz ao cumprimento de regras mecânicas de linearidade de redação escolar de notícias rápidas. Na literatura clássica do país de Machado de Assis (esfera literária), as digressões (o narrador carioca que interrompe o enredo para debater com o leitor) e anacronias (saltos na linha cronológica de ontem para o amanhã) são desvios estilísticos controlados que reforçam e legitimam o projeto filosófico e artístico macroscópico do livro de vestibular.
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BR-POR-11-2026-W06-tema-w06-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Estudo dos aspectos linguísticos
@@ -442,7 +443,7 @@ Sob a perspectiva da sociolinguística e da avaliação de redação do ENEM do 
 ### Explicacion Pedagogica
 A avaliação escolar democrática da redação do ENEM (Competência 4) repudia cartilhas mecânicas e contagens quantitativas cegas de conectivos escritas de forma inautêntica ("acumular conjunções apenas para obter nota rápida"). Avaliar a coesão sequencial de vestibular de prestígio requer analisar o nexo de sentido e a coerência lógica real que cada conjunção (consequentemente, contudo, ademais, embora) tece na construção dos argumentos lógicos de defesa de tese dos candidatos nas cidades brasileiras do país.
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** BR-POR-11-2026-W06-tema-w06-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Estudo dos aspectos linguísticos
@@ -466,7 +467,7 @@ Considerando essa perspectiva científica moderna de Letras, avalie a afirmaçã
 ### Explicacion Pedagogica
 A linguística textual contemporânea de base científica comprova a distinção entre coesão (conexão física e gramatical de superfície do papel por conectivos e pronomes) e coerência (construção lógica global de sentido mental). A coerência é cognitiva e pragmática: o leitor atua de forma ativa, preenchendo as lacunas e elipses sintáticas de conversas ou poemas com o seu conhecimento de mundo (contexto compartilhado nacional) sem demandar a presença mecânica de conectivos explícitos em todas as linhas.
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BR-POR-11-2026-W06-tema-w06-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Estudo dos aspectos linguísticos

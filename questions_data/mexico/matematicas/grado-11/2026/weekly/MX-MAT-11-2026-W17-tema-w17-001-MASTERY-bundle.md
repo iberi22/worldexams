@@ -13,12 +13,13 @@ total_questions: 20
 bundle_size: 20
 alignment: "SEP NEM Mexico 2026 / EXANI-II pensamiento matematico"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** MX-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Matemático
@@ -41,7 +42,7 @@ Dada la función trigonométrica f(x) = 3 * sen(2x), ¿cuál es el valor de su a
 ### Explicacion Pedagogica
 Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual a |A| y un período calculado mediante T = 2π / B. Para la función dada, A = 3 y B = 2. Por lo tanto, la amplitud es 3 y el período exacto es 2π / 2 ≈ 3.14 radianes.
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Matemático
@@ -64,7 +65,7 @@ Dada la función trigonométrica f(x) = 4 * sen(3x), ¿cuál es el valor de su a
 ### Explicacion Pedagogica
 Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual a |A| y un período calculado mediante T = 2π / B. Para la función dada, A = 4 y B = 3. Por lo tanto, la amplitud es 4 y el período exacto es 2π / 3 ≈ 2.09 radianes.
 
-## Question 3 [D5]
+## Question 3 [D5-D6]
 **ID:** MX-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v3
 **Bloom:** Remember
 **EJE:** Pensamiento Matemático
@@ -87,7 +88,7 @@ Dada la función trigonométrica f(x) = 5 * sen(4x), ¿cuál es el valor de su a
 ### Explicacion Pedagogica
 Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual a |A| y un período calculado mediante T = 2π / B. Para la función dada, A = 5 y B = 4. Por lo tanto, la amplitud es 5 y el período exacto es 2π / 4 ≈ 1.57 radianes.
 
-## Question 4 [D6]
+## Question 4 [D5-D6]
 **ID:** MX-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v4
 **Bloom:** Remember
 **EJE:** Pensamiento Matemático
@@ -110,7 +111,7 @@ Dada la función trigonométrica f(x) = 6 * sen(2x), ¿cuál es el valor de su a
 ### Explicacion Pedagogica
 Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual a |A| y un período calculado mediante T = 2π / B. Para la función dada, A = 6 y B = 2. Por lo tanto, la amplitud es 6 y el período exacto es 2π / 2 ≈ 3.14 radianes.
 
-## Question 5 [D9]
+## Question 5 [D9-D10]
 **ID:** MX-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -133,7 +134,7 @@ Dada la función trigonométrica f(x) = 7 * sen(3x), ¿cuál es el valor de su a
 ### Explicacion Pedagogica
 Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual a |A| y un período calculado mediante T = 2π / B. Para la función dada, A = 7 y B = 3. Por lo tanto, la amplitud es 7 y el período exacto es 2π / 3 ≈ 2.09 radianes.
 
-## Question 6 [D10]
+## Question 6 [D9-D10]
 **ID:** MX-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -156,7 +157,7 @@ Dada la función trigonométrica f(x) = 8 * sen(4x), ¿cuál es el valor de su a
 ### Explicacion Pedagogica
 Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual a |A| y un período calculado mediante T = 2π / B. Para la función dada, A = 8 y B = 4. Por lo tanto, la amplitud es 8 y el período exacto es 2π / 4 ≈ 1.57 radianes.
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** MX-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v7
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -179,7 +180,7 @@ Dada la función trigonométrica f(x) = 9 * sen(2x), ¿cuál es el valor de su a
 ### Explicacion Pedagogica
 Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual a |A| y un período calculado mediante T = 2π / B. Para la función dada, A = 9 y B = 2. Por lo tanto, la amplitud es 9 y el período exacto es 2π / 2 ≈ 3.14 radianes.
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v8
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -202,7 +203,7 @@ Dada la función trigonométrica f(x) = 10 * sen(3x), ¿cuál es el valor de su 
 ### Explicacion Pedagogica
 Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual a |A| y un período calculado mediante T = 2π / B. Para la función dada, A = 10 y B = 3. Por lo tanto, la amplitud es 10 y el período exacto es 2π / 3 ≈ 2.09 radianes.
 
-## Question 9 [D7]
+## Question 9 [D7-D8]
 **ID:** MX-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v9
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -225,7 +226,7 @@ Dada la función trigonométrica f(x) = 11 * sen(4x), ¿cuál es el valor de su 
 ### Explicacion Pedagogica
 Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual a |A| y un período calculado mediante T = 2π / B. Para la función dada, A = 11 y B = 4. Por lo tanto, la amplitud es 11 y el período exacto es 2π / 4 ≈ 1.57 radianes.
 
-## Question 10 [D8]
+## Question 10 [D7-D8]
 **ID:** MX-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v10
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -248,7 +249,7 @@ Dada la función trigonométrica f(x) = 12 * sen(2x), ¿cuál es el valor de su 
 ### Explicacion Pedagogica
 Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual a |A| y un período calculado mediante T = 2π / B. Para la función dada, A = 12 y B = 2. Por lo tanto, la amplitud es 12 y el período exacto es 2π / 2 ≈ 3.14 radianes.
 
-## Question 11 [D11]
+## Question 11 [D9-D10]
 **ID:** MX-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -271,7 +272,7 @@ Dada la función trigonométrica f(x) = 13 * sen(3x), ¿cuál es el valor de su 
 ### Explicacion Pedagogica
 Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual a |A| y un período calculado mediante T = 2π / B. Para la función dada, A = 13 y B = 3. Por lo tanto, la amplitud es 13 y el período exacto es 2π / 3 ≈ 2.09 radianes.
 
-## Question 12 [D12]
+## Question 12 [D9-D10]
 **ID:** MX-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -294,7 +295,7 @@ Dada la función trigonométrica f(x) = 14 * sen(4x), ¿cuál es el valor de su 
 ### Explicacion Pedagogica
 Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual a |A| y un período calculado mediante T = 2π / B. Para la función dada, A = 14 y B = 4. Por lo tanto, la amplitud es 14 y el período exacto es 2π / 4 ≈ 1.57 radianes.
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** MX-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v13
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -317,7 +318,7 @@ Dada la función trigonométrica f(x) = 15 * sen(2x), ¿cuál es el valor de su 
 ### Explicacion Pedagogica
 Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual a |A| y un período calculado mediante T = 2π / B. Para la función dada, A = 15 y B = 2. Por lo tanto, la amplitud es 15 y el período exacto es 2π / 2 ≈ 3.14 radianes.
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v14
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -340,7 +341,7 @@ Dada la función trigonométrica f(x) = 16 * sen(3x), ¿cuál es el valor de su 
 ### Explicacion Pedagogica
 Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual a |A| y un período calculado mediante T = 2π / B. Para la función dada, A = 16 y B = 3. Por lo tanto, la amplitud es 16 y el período exacto es 2π / 3 ≈ 2.09 radianes.
 
-## Question 15 [D9]
+## Question 15 [D9-D10]
 **ID:** MX-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v15
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -363,7 +364,7 @@ Dada la función trigonométrica f(x) = 17 * sen(4x), ¿cuál es el valor de su 
 ### Explicacion Pedagogica
 Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual a |A| y un período calculado mediante T = 2π / B. Para la función dada, A = 17 y B = 4. Por lo tanto, la amplitud es 17 y el período exacto es 2π / 4 ≈ 1.57 radianes.
 
-## Question 16 [D10]
+## Question 16 [D9-D10]
 **ID:** MX-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v16
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -386,7 +387,7 @@ Dada la función trigonométrica f(x) = 18 * sen(2x), ¿cuál es el valor de su 
 ### Explicacion Pedagogica
 Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual a |A| y un período calculado mediante T = 2π / B. Para la función dada, A = 18 y B = 2. Por lo tanto, la amplitud es 18 y el período exacto es 2π / 2 ≈ 3.14 radianes.
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** MX-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático
@@ -409,7 +410,7 @@ Dada la función trigonométrica f(x) = 19 * sen(3x), ¿cuál es el valor de su 
 ### Explicacion Pedagogica
 Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual a |A| y un período calculado mediante T = 2π / B. Para la función dada, A = 19 y B = 3. Por lo tanto, la amplitud es 19 y el período exacto es 2π / 3 ≈ 2.09 radianes.
 
-## Question 18 [D10]
+## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático
@@ -432,7 +433,7 @@ Dada la función trigonométrica f(x) = 20 * sen(4x), ¿cuál es el valor de su 
 ### Explicacion Pedagogica
 Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual a |A| y un período calculado mediante T = 2π / B. Para la función dada, A = 20 y B = 4. Por lo tanto, la amplitud es 20 y el período exacto es 2π / 4 ≈ 1.57 radianes.
 
-## Question 19 [D11]
+## Question 19 [D9-D10]
 **ID:** MX-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático
@@ -455,7 +456,7 @@ Dada la función trigonométrica f(x) = 21 * sen(2x), ¿cuál es el valor de su 
 ### Explicacion Pedagogica
 Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual a |A| y un período calculado mediante T = 2π / B. Para la función dada, A = 21 y B = 2. Por lo tanto, la amplitud es 21 y el período exacto es 2π / 2 ≈ 3.14 radianes.
 
-## Question 20 [D12]
+## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático

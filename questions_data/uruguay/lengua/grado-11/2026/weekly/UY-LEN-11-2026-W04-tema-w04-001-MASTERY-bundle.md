@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Lengua: Tema W04 (W04)
 **20 preguntas | Lengua | ANEP - Plan 2006 Reformulación / Programa Ubicación**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Comprensión de textos
@@ -46,7 +47,7 @@ bundle_index: 1
 El marco espacial y temporal conforma la plataforma de arranque de los textos narrativos, brindándole al lector la atmósfera indispensable para el viaje imaginativo del relato.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Comprensión de textos
@@ -70,7 +71,7 @@ El marco espacial y temporal conforma la plataforma de arranque de los textos na
 El narrador omnisciente actúa con una visión divina: domina la totalidad de los acontecimientos, la interioridad psíquica de los actores de la intriga y los saltos en el tiempo narrativo.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Comprensión de textos
@@ -95,7 +96,7 @@ El narrador omnisciente actúa con una visión divina: domina la totalidad de lo
 En los textos narrativos de calidad, la descripción de los personajes y sus relaciones afectivas tempranas no es gratuita; actúa como un andamiaje psicológico que prefigura y tensiona la intriga dramática posterior.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Comprensión de textos
@@ -119,7 +120,7 @@ En los textos narrativos de calidad, la descripción de los personajes y sus rel
 Las anacronías son alteraciones del orden temporal cronológico. La analepsis (mirada retrospectiva o viaje al pasado) es de gran utilidad para dotar de suspenso y profundidad psicológica a la narración.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Comprensión de textos
@@ -144,7 +145,7 @@ Identificá qué tipo de narrador protagoniza este fragmento literario y cómo i
 El punto de vista o focalización interna en primera persona (típico del diario íntimo en 'La tregua') limita la perspectiva del relato al mundo interior y los ojos subjetivos del protagonista, potenciando la intimidad dramática de la obra.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Comprensión de textos
@@ -168,7 +169,7 @@ El punto de vista o focalización interna en primera persona (típico del diario
 La narratología distingue la historia (la materia prima temporal y lógica de los hechos) del discurso (el tratamiento textual y estético que el narrador le imprime a esa materia prima en el texto escrito).
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -193,7 +194,7 @@ Analizá el ritmo narrativo de este pasaje. ¿Qué recurso lingüístico y de es
 El pretérito perfecto simple es el tiempo verbal narrativo por excelencia. Su encadenamiento dinámico mediante oraciones coordinadas o yuxtapuestas acelera el tempo de la acción.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -218,7 +219,7 @@ Identificá qué tipo de focalización o punto de vista narrativo se emplea en e
 La focalización cero se asocia al narrador que trasciende los límites de un personaje, observando las acciones desde el exterior pero ingresando a la interioridad psicológica de los actores de la narración.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -243,7 +244,7 @@ La focalización cero se asocia al narrador que trasciende los límites de un pe
 La elipsis narrativa permite al autor omitir fragmentos temporales irrelevantes para concentrar el discurso sobre los núcleos dinámicos o catalizadores de la intriga.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -268,7 +269,7 @@ La elipsis narrativa permite al autor omitir fragmentos temporales irrelevantes 
 El estilo directo otorga realismo, fuerza dramática y polifonía al texto narrativo, permitiendo que las voces de los personajes irrumpan en el relato con sus propios tonos, jergas y marcas de tratamiento.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -293,7 +294,7 @@ El estilo directo otorga realismo, fuerza dramática y polifonía al texto narra
 El estilo indirecto libre permite al narrador mimetizarse con la conciencia de sus personajes, trasladando al relato el fluir íntimo de sus emociones y cavilaciones mentales de manera natural.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -318,7 +319,7 @@ Analizá la tensión narrativa en este pasaje. ¿Cómo utiliza Quiroga el tiempo
 En la tipología narrativa de suspenso, los indicios (un ruido, una mirada, una hora) actúan como catalizadores psicológicos que activan el drama interno del protagonista, tensionando la trama literaria de cara al desenlace.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Comprensión de textos
@@ -342,7 +343,7 @@ En la tipología narrativa de suspenso, los indicios (un ruido, una mirada, una 
 El espacio en la narrativa excede la mera decoración física; adquiere densidad psicológica y actúa a menudo como una metáfora o fuerza motriz que acorrala o cobija el destino de los personajes.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Comprensión de textos
@@ -366,7 +367,7 @@ El espacio en la narrativa excede la mera decoración física; adquiere densidad
 Los grandes textos narrativos combinan personajes redondos (los protagonistas sobre quienes recae la transformación dramática) con personajes planos de soporte (que anclan la verosimilitud de la intriga).
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Comprensión de textos
@@ -391,7 +392,7 @@ Analizá la coexistencia del tiempo cronológico del relato y el tiempo psicoló
 El manejo del tiempo en la narrativa de corte gnoseológico o íntimo privilegia el fluir de la conciencia o el tiempo subjetivo (tiempo psicológico), interrumpiendo o enriqueciendo el avance plano del tiempo exterior físico.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Comprensión de textos
@@ -415,7 +416,7 @@ El manejo del tiempo en la narrativa de corte gnoseológico o íntimo privilegia
 La selección de la focalización regula el caudal informativo del relato. Restringir la mirada al mundo interno y sensorial de una víctima (focalización interna) es un recurso clave para conmover y tensionar al lector.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Comprensión de textos
@@ -440,7 +441,7 @@ Evaluá críticamente el procedimiento quiroguiano para narrar el tránsito haci
 El desenlace quiroguiano funde la objetividad de las leyes físicas de la naturaleza (la inexorabilidad de la muerte por ponzoña) con un lirismo crepuscular despojado y potente, consagrando el clímax trágico del cuento de supervivencia.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Comprensión de textos
@@ -465,7 +466,7 @@ Desde el punto de vista del género del cuento de horror rioplatense, ¿cómo ev
 Quiroga revolucionó el terror rioplatense al anclarlo en lo biológico e implacable de las leyes de la naturaleza. Sus monstruos son góticos en su efecto emocional, pero materialistas e insectiles en su verdad física.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Comprensión de textos
@@ -489,7 +490,7 @@ Quiroga revolucionó el terror rioplatense al anclarlo en lo biológico e implac
 El formato de diario en 'La tregua' es solidario con el tema: la domesticidad de la oficina, la timidez existencial del viudo que se confiesa en papel de cuaderno y la irrupción absurda de la tragedia íntima montevideana.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** UY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Comprensión de textos

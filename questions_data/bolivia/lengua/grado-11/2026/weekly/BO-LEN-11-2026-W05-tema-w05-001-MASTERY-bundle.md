@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Lengua: Tipología textual: texto narrativo (W05)
 **20 preguntas | Lengua | MINEDU - Ley Educativa Avelino Siñani - Elizardo Pérez**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BO-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Comprensión y tipología textual
@@ -46,7 +47,7 @@ Considerando la estructura del texto narrativo y específicamente el origen mít
 ¡Correcto! El texto narrativo se organiza fundamentalmente en torno a un eje de acciones temporales sucesivas (inicio, complicación, resolución). La secuencia narrativa prototípica presenta acciones dinámicas que se desarrollan a lo largo del tiempo, organizadas en un marco, nudo y desenlace. Esto se refleja con claridad al analizar el origen mítico del desierto de sal en la región de La Paz.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BO-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Comprensión y tipología textual
@@ -70,7 +71,7 @@ Considerando la estructura del texto narrativo y específicamente fábula popula
 ¡Correcto! El texto narrativo se organiza fundamentalmente en torno a un eje de acciones temporales sucesivas (inicio, complicación, resolución). La secuencia narrativa prototípica presenta acciones dinámicas que se desarrollan a lo largo del tiempo, organizadas en un marco, nudo y desenlace. Esto se refleja con claridad al analizar fábula popular de animales astutos en la región de Santa Cruz.
 
 ---
-## Question 3 [D3]
+## Question 3 [D3-D4]
 **ID:** BO-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Comprensión y tipología textual
@@ -94,7 +95,7 @@ Considerando la estructura del texto narrativo y específicamente relato testimo
 ¡Correcto! El texto narrativo se organiza fundamentalmente en torno a un eje de acciones temporales sucesivas (inicio, complicación, resolución). La secuencia narrativa prototípica presenta acciones dinámicas que se desarrollan a lo largo del tiempo, organizadas en un marco, nudo y desenlace. Esto se refleja con claridad al analizar relato testimonial del cerro rico de plata en la región de Cochabamba.
 
 ---
-## Question 4 [D3]
+## Question 4 [D3-D4]
 **ID:** BO-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Comprensión y tipología textual
@@ -118,7 +119,7 @@ Considerando la estructura del texto narrativo y específicamente narración del
 ¡Correcto! El texto narrativo se organiza fundamentalmente en torno a un eje de acciones temporales sucesivas (inicio, complicación, resolución). La secuencia narrativa prototípica presenta acciones dinámicas que se desarrollan a lo largo del tiempo, organizadas en un marco, nudo y desenlace. Esto se refleja con claridad al analizar narración del sacrificio de los jóvenes príncipes en la región de Sucre.
 
 ---
-## Question 5 [D4]
+## Question 5 [D3-D4]
 **ID:** BO-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Comprensión y tipología textual
@@ -142,7 +143,7 @@ Considerando la estructura del texto narrativo y específicamente relato sagrado
 ¡Correcto! El texto narrativo se organiza fundamentalmente en torno a un eje de acciones temporales sucesivas (inicio, complicación, resolución). La secuencia narrativa prototípica presenta acciones dinámicas que se desarrollan a lo largo del tiempo, organizadas en un marco, nudo y desenlace. Esto se refleja con claridad al analizar relato sagrado de la generosidad de la tierra en la región de Oruro.
 
 ---
-## Question 6 [D4]
+## Question 6 [D3-D4]
 **ID:** BO-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Comprensión y tipología textual
@@ -166,7 +167,7 @@ Considerando la estructura del texto narrativo y específicamente cronología de
 ¡Correcto! El texto narrativo se organiza fundamentalmente en torno a un eje de acciones temporales sucesivas (inicio, complicación, resolución). La secuencia narrativa prototípica presenta acciones dinámicas que se desarrollan a lo largo del tiempo, organizadas en un marco, nudo y desenlace. Esto se refleja con claridad al analizar cronología de acontecimientos de la villa de la plata en la región de Potosí.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** BO-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v7
 **Bloom:** Understand
 **EJE:** Comprensión y tipología textual
@@ -190,7 +191,7 @@ Considerando la estructura del texto narrativo y específicamente narración mí
 ¡Correcto! El texto narrativo se organiza fundamentalmente en torno a un eje de acciones temporales sucesivas (inicio, complicación, resolución). La secuencia narrativa prototípica presenta acciones dinámicas que se desarrollan a lo largo del tiempo, organizadas en un marco, nudo y desenlace. Esto se refleja con claridad al analizar narración mítica del guardián de las lagunas del oriente en la región de Tarija.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** BO-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v8
 **Bloom:** Understand
 **EJE:** Comprensión y tipología textual
@@ -214,7 +215,7 @@ Considerando la estructura del texto narrativo y específicamente relato del com
 ¡Correcto! El texto narrativo se organiza fundamentalmente en torno a un eje de acciones temporales sucesivas (inicio, complicación, resolución). La secuencia narrativa prototípica presenta acciones dinámicas que se desarrollan a lo largo del tiempo, organizadas en un marco, nudo y desenlace. Esto se refleja con claridad al analizar relato del comportamiento social de finales del siglo XIX en la región de Trinidad.
 
 ---
-## Question 9 [D5]
+## Question 9 [D5-D6]
 **ID:** BO-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Comprensión y tipología textual
@@ -238,7 +239,7 @@ Considerando la estructura del texto narrativo y específicamente historias de l
 ¡Correcto! El texto narrativo se organiza fundamentalmente en torno a un eje de acciones temporales sucesivas (inicio, complicación, resolución). La secuencia narrativa prototípica presenta acciones dinámicas que se desarrollan a lo largo del tiempo, organizadas en un marco, nudo y desenlace. Esto se refleja con claridad al analizar historias de los combatientes en el Chaco en la región de Cobija.
 
 ---
-## Question 10 [D5]
+## Question 10 [D5-D6]
 **ID:** BO-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Comprensión y tipología textual
@@ -262,7 +263,7 @@ Considerando la estructura del texto narrativo y específicamente leyenda de la 
 ¡Correcto! El texto narrativo se organiza fundamentalmente en torno a un eje de acciones temporales sucesivas (inicio, complicación, resolución). La secuencia narrativa prototípica presenta acciones dinámicas que se desarrollan a lo largo del tiempo, organizadas en un marco, nudo y desenlace. Esto se refleja con claridad al analizar leyenda de la lucha del bien contra el mal en los socavones en la región de Viacha.
 
 ---
-## Question 11 [D6]
+## Question 11 [D5-D6]
 **ID:** BO-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Comprensión y tipología textual
@@ -286,7 +287,7 @@ Considerando la estructura del texto narrativo y específicamente relato fantás
 ¡Correcto! El texto narrativo se organiza fundamentalmente en torno a un eje de acciones temporales sucesivas (inicio, complicación, resolución). La secuencia narrativa prototípica presenta acciones dinámicas que se desarrollan a lo largo del tiempo, organizadas en un marco, nudo y desenlace. Esto se refleja con claridad al analizar relato fantástico de pescadores del lago sagrado en la región de Montero.
 
 ---
-## Question 12 [D6]
+## Question 12 [D5-D6]
 **ID:** BO-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Comprensión y tipología textual
@@ -310,7 +311,7 @@ Considerando la estructura del texto narrativo y específicamente relato de tray
 ¡Correcto! El texto narrativo se organiza fundamentalmente en torno a un eje de acciones temporales sucesivas (inicio, complicación, resolución). La secuencia narrativa prototípica presenta acciones dinámicas que se desarrollan a lo largo del tiempo, organizadas en un marco, nudo y desenlace. Esto se refleja con claridad al analizar relato de trayectos aéreos diarios entre El Alto y La Paz en la región de Sacaba.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BO-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v13
 **Bloom:** Apply
 **EJE:** Comprensión y tipología textual
@@ -334,7 +335,7 @@ Considerando la estructura del texto narrativo y específicamente narración de 
 ¡Correcto! El texto narrativo se organiza fundamentalmente en torno a un eje de acciones temporales sucesivas (inicio, complicación, resolución). La secuencia narrativa prototípica presenta acciones dinámicas que se desarrollan a lo largo del tiempo, organizadas en un marco, nudo y desenlace. Esto se refleja con claridad al analizar narración de las andanzas del ladrón devoto de la Virgen en la región de Quillacollo.
 
 ---
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** BO-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v14
 **Bloom:** Apply
 **EJE:** Comprensión y tipología textual
@@ -358,7 +359,7 @@ Considerando la estructura del texto narrativo y específicamente el suceso de l
 ¡Correcto! El texto narrativo se organiza fundamentalmente en torno a un eje de acciones temporales sucesivas (inicio, complicación, resolución). La secuencia narrativa prototípica presenta acciones dinámicas que se desarrollan a lo largo del tiempo, organizadas en un marco, nudo y desenlace. Esto se refleja con claridad al analizar el suceso de la llegada de la locomotora a Uyuni en la región de Warnes.
 
 ---
-## Question 15 [D7]
+## Question 15 [D7-D8]
 **ID:** BO-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Comprensión y tipología textual
@@ -382,7 +383,7 @@ Considerando la estructura del texto narrativo y específicamente acciones de lu
 ¡Correcto! El texto narrativo se organiza fundamentalmente en torno a un eje de acciones temporales sucesivas (inicio, complicación, resolución). La secuencia narrativa prototípica presenta acciones dinámicas que se desarrollan a lo largo del tiempo, organizadas en un marco, nudo y desenlace. Esto se refleja con claridad al analizar acciones de lucha comunitaria indígena en la región de El Alto.
 
 ---
-## Question 16 [D7]
+## Question 16 [D7-D8]
 **ID:** BO-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Comprensión y tipología textual
@@ -406,7 +407,7 @@ Considerando la estructura del texto narrativo y específicamente aventuras por 
 ¡Correcto! El texto narrativo se organiza fundamentalmente en torno a un eje de acciones temporales sucesivas (inicio, complicación, resolución). La secuencia narrativa prototípica presenta acciones dinámicas que se desarrollan a lo largo del tiempo, organizadas en un marco, nudo y desenlace. Esto se refleja con claridad al analizar aventuras por caminos andinos de cornisa en la región de Riberalta.
 
 ---
-## Question 17 [D8]
+## Question 17 [D7-D8]
 **ID:** BO-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v17
 **Bloom:** Analyze
 **EJE:** Comprensión y tipología textual
@@ -430,7 +431,7 @@ Considerando la estructura del texto narrativo y específicamente leyenda de la 
 ¡Correcto! El texto narrativo se organiza fundamentalmente en torno a un eje de acciones temporales sucesivas (inicio, complicación, resolución). La secuencia narrativa prototípica presenta acciones dinámicas que se desarrollan a lo largo del tiempo, organizadas en un marco, nudo y desenlace. Esto se refleja con claridad al analizar leyenda de la hospitalidad y la planta del Chaco en la región de Yacuiba.
 
 ---
-## Question 18 [D8]
+## Question 18 [D7-D8]
 **ID:** BO-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** Comprensión y tipología textual
@@ -454,7 +455,7 @@ Considerando la estructura del texto narrativo y específicamente aventuras de q
 ¡Correcto! El texto narrativo se organiza fundamentalmente en torno a un eje de acciones temporales sucesivas (inicio, complicación, resolución). La secuencia narrativa prototípica presenta acciones dinámicas que se desarrollan a lo largo del tiempo, organizadas en un marco, nudo y desenlace. Esto se refleja con claridad al analizar aventuras de quirquinchos y vicuñas en los arenales en la región de Colcapirhua.
 
 ---
-## Question 19 [D9]
+## Question 19 [D9-D10]
 **ID:** BO-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Comprensión y tipología textual
@@ -478,7 +479,7 @@ Considerando la estructura del texto narrativo y específicamente relato de los 
 ¡Correcto! El texto narrativo se organiza fundamentalmente en torno a un eje de acciones temporales sucesivas (inicio, complicación, resolución). La secuencia narrativa prototípica presenta acciones dinámicas que se desarrollan a lo largo del tiempo, organizadas en un marco, nudo y desenlace. Esto se refleja con claridad al analizar relato de los días de cambio social y voto universal en la región de Tupiza.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BO-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Comprensión y tipología textual

@@ -16,11 +16,12 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle — Matemáticas: Ecuaciones Cuadráticas e Inecuaciones (UY-MAT-11-W04)
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Algebraico
@@ -39,7 +40,7 @@ bundle_index: 1
 ### Explicación Pedagógica
 La ecuación cuadrática general es $ax^2 + bx + c = 0$ con $a \ne 0$; si $a$ se anulara, el término de grado 2 desaparecería y dejaría de ser cuadrática.
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Algebraico
@@ -58,7 +59,7 @@ Si el discriminante $\Delta = b^2 - 4ac$ de una ecuación cuadrática es positiv
 ### Explicación Pedagógica
 El discriminante decide la naturaleza de las soluciones: $\Delta > 0$ dos reales distintas, $\Delta = 0$ una doble, $\Delta < 0$ ninguna real.
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Algebraico
@@ -77,7 +78,7 @@ El discriminante decide la naturaleza de las soluciones: $\Delta > 0$ dos reales
 ### Explicación Pedagógica
 Despejar $x^2 = k$ con $k > 0$ produce dos soluciones: $x = \pm\sqrt{k}$. Omitir la raíz negativa es el error más frecuente en ecuaciones puras.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Algebraico
@@ -96,7 +97,7 @@ Despejar $x^2 = k$ con $k > 0$ produce dos soluciones: $x = \pm\sqrt{k}$. Omitir
 ### Explicación Pedagógica
 Por la propiedad del producto nulo, $ab = 0$ implica $a = 0$ o $b = 0$. Así $x - 2 = 0$ da $x = 2$ y $x - 5 = 0$ da $x = 5$.
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Pensamiento Algebraico
@@ -115,7 +116,7 @@ Por la propiedad del producto nulo, $ab = 0$ implica $a = 0$ o $b = 0$. Así $x 
 ### Explicación Pedagógica
 El discriminante es $\Delta = b^2 - 4ac = 16 - 12 = 4$. Como es positivo, habrá dos soluciones reales distintas.
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** Pensamiento Algebraico
@@ -134,7 +135,7 @@ El discriminante es $\Delta = b^2 - 4ac = 16 - 12 = 4$. Como es positivo, habrá
 ### Explicación Pedagógica
 Se buscan dos números con suma 5 y producto 6: 2 y 3. La factorización $(x-2)(x-3)$ entrega las soluciones directamente.
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Pensamiento Algebraico
@@ -153,7 +154,7 @@ Resuelve la ecuación $x^2 - 9x = 0$.
 ### Explicación Pedagógica
 Conviene factorizar el factor común: $x(x - 9) = 0$, que da $x = 0$ o $x = 9$. Dividir entre $x$ sin considerar que puede ser 0 pierde una solución.
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Algebraico
@@ -172,7 +173,7 @@ Aplicando la fórmula general a $x^2 + 2x - 8 = 0$, ¿cuál es la mayor de las s
 ### Explicación Pedagógica
 Con $\Delta = 4 + 32 = 36$, $x = \frac{-2 \pm 6}{2}$ produce $x = 2$ y $x = -4$. La mayor solución es 2.
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Pensamiento Algebraico
@@ -191,7 +192,7 @@ Resuelve la inecuación $x - 3 > 5$.
 ### Explicación Pedagógica
 Las inecuaciones se operan como las ecuaciones, salvo al multiplicar o dividir por un negativo. Aquí basta sumar 3: $x > 8$.
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Algebraico
@@ -210,7 +211,7 @@ Las inecuaciones se operan como las ecuaciones, salvo al multiplicar o dividir p
 ### Explicación Pedagógica
 $2x + 4 \le 10$ implica $2x \le 6$ y $x \le 3$. Dividir entre un número positivo conserva el sentido, y el símbolo $\le$ incluye al extremo.
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Pensamiento Algebraico
@@ -229,7 +230,7 @@ $2x + 4 \le 10$ implica $2x \le 6$ y $x \le 3$. Dividir entre un número positiv
 ### Explicación Pedagógica
 El discriminante $\Delta = 1 - 4 = -3$ es negativo: la parábola $y = x^2 + x + 1$ queda siempre por encima del eje $x$ y la ecuación carece de raíces reales.
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Pensamiento Algebraico
@@ -248,7 +249,7 @@ Completando el cuadrado en $x^2 + 6x + 5 = 0$, la ecuación equivalente es:
 ### Explicación Pedagógica
 Completar el cuadrado: $x^2 + 6x = -5$; sumando 9 a ambos lados, $(x+3)^2 = 4$. Las raíces $-3 \pm 2$ son $-1$ y $-5$.
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Pensamiento Algebraico
@@ -267,7 +268,7 @@ Completar el cuadrado: $x^2 + 6x = -5$; sumando 9 a ambos lados, $(x+3)^2 = 4$. 
 ### Explicación Pedagógica
 La abscisa del vértice es $x_v = -\frac{b}{2a} = 2$; evaluando, $y_v = -1$. El vértice $(2, -1)$ es el mínimo de la parábola.
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v14
 **Bloom:** Apply
 **EJE:** Pensamiento Algebraico
@@ -286,7 +287,7 @@ La abscisa del vértice es $x_v = -\frac{b}{2a} = 2$; evaluando, $y_v = -1$. El 
 ### Explicación Pedagógica
 Factorizando $h(t) = -5t(t - 4)$, las raíces son $0$ (lanzamiento) y $4$ (caída). El tiempo de vuelo es 4 segundos.
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pensamiento Algebraico
@@ -305,7 +306,7 @@ Factorizando $h(t) = -5t(t - 4)$, las raíces son $0$ (lanzamiento) y $4$ (caíd
 ### Explicación Pedagógica
 Las raíces de $x^2 - 4$ son $\pm 2$. Como la parábola abre hacia arriba, la expresión es negativa entre las raíces: $(-2, 2)$.
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Pensamiento Algebraico
@@ -324,7 +325,7 @@ Las raíces de $x^2 - 4$ son $\pm 2$. Como la parábola abre hacia arriba, la ex
 ### Explicación Pedagógica
 Solución única equivale a discriminante nulo: $36 - 4c = 0$, así $c = 9$. La ecuación queda $(x+3)^2 = 0$ con raíz doble $-3$.
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Pensamiento Algebraico
@@ -343,7 +344,7 @@ Solución única equivale a discriminante nulo: $36 - 4c = 0$, así $c = 9$. La 
 ### Explicación Pedagógica
 La cantidad de soluciones reales la gobierna $\Delta = b^2 - 4ac$: positivo da dos, cero da una doble y negativo ninguna. No vale generalizar.
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Algebraico
@@ -362,7 +363,7 @@ Sin resolverla, ¿qué se puede afirmar de las raíces de $x^2 - 7x + 10 = 0$?
 ### Explicación Pedagógica
 Las relaciones de Cardano vinculan coeficientes y raíces: suma $-\frac{b}{a}$ y producto $\frac{c}{a}$. Aquí: suma 7, producto 10 (raíces 2 y 5).
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Pensamiento Algebraico
@@ -381,7 +382,7 @@ Las relaciones de Cardano vinculan coeficientes y raíces: suma $-\frac{b}{a}$ y
 ### Explicación Pedagógica
 Con lados $x$ y $10 - x$, el área exige $x(10-x) = 24$, es decir $x^2 - 10x + 24 = 0$, con raíces 4 y 6. El terreno mide 4 m por 6 m.
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Algebraico

@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Lengua: Tema W05 (W05)
 **20 preguntas | Lengua | ANEP - Plan 2006 Reformulación / Programa Ubicación**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Comprensión de textos
@@ -46,7 +47,7 @@ bundle_index: 1
 La prosopografía se concentra en el aspecto físico y exterior de las personas, proveyendo al lector de imágenes sensoriales visuales de su anatomía, rostro o vestiduras.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Comprensión de textos
@@ -70,7 +71,7 @@ La prosopografía se concentra en el aspecto físico y exterior de las personas,
 La etopeya es el retrato moral de los personajes, desvelando su personalidad, carácter y conducta de manera introspectiva u observable indirectamente.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Comprensión de textos
@@ -94,7 +95,7 @@ La etopeya es el retrato moral de los personajes, desvelando su personalidad, ca
 La topografía describe relieves, paisajes y paisajes urbanos o rurales. Activa en la conciencia del lector imágenes visuales, auditivas e incluso táctiles del ambiente.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Comprensión de textos
@@ -118,7 +119,7 @@ La topografía describe relieves, paisajes y paisajes urbanos o rurales. Activa 
 Los pilares sintácticos del texto descriptivo son los adjetivos calificativos, las comparaciones, las metáforas y el pretérito imperfecto del indicativo (tiempo que detiene el dinamismo cronológico).
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Comprensión de textos
@@ -142,7 +143,7 @@ Los pilares sintácticos del texto descriptivo son los adjetivos calificativos, 
 El retrato literario amalgama lo exterior visible del cuerpo con lo interior invisible del espíritu y carácter, logrando una representación tridimensional viva de la persona retratada.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Comprensión de textos
@@ -166,7 +167,7 @@ El retrato literario amalgama lo exterior visible del cuerpo con lo interior inv
 El pretérito imperfecto posee un aspecto durativo y no delimitado que suspende el avance de la intriga narrada, operando como un lienzo temporal sobre el cual el autor pinta la descripción de su mundo posible.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -190,7 +191,7 @@ El pretérito imperfecto posee un aspecto durativo y no delimitado que suspende 
 La descripción de ambientes (cronografía o topografía estilizada) descansa en la cohesión armónica de su léxico. Adjetivos cromáticos y comparaciones sinestésicas regulan la respuesta afectiva del lector.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -214,7 +215,7 @@ La descripción de ambientes (cronografía o topografía estilizada) descansa en
 La caricatura utiliza la hipérbole (exageración desmedida: 'lentes de culo de botella', 'nariz de gancho', 'orejas como pantallas') para trazar un perfil ridículo de la fisonomía exterior de las personas.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -238,7 +239,7 @@ La caricatura utiliza la hipérbole (exageración desmedida: 'lentes de culo de 
 La cronografía nos permite capturar el espíritu de un tiempo (un instante, un año, una época histórica) reuniendo costumbres, sensaciones, vestimentas y atmósferas que configuran esa porción temporal de la diégesis.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -263,7 +264,7 @@ La cronografía nos permite capturar el espíritu de un tiempo (un instante, un 
 Las comparaciones y metáforas son recursos clave del texto descriptivo literario. Permiten que elementos inanimados del entorno (como las vías férreas) cobren densidad poética de cara a la sensibilidad del lector.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -288,7 +289,7 @@ Las comparaciones y metáforas son recursos clave del texto descriptivo literari
 La adjetivación en la descripción trágica cumple una función semiótica de prefiguración. Los matices cromáticos de cera y hematoma violáceo enmarcan corporalmente la inminencia de la muerte gótica.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -313,7 +314,7 @@ La adjetivación en la descripción trágica cumple una función semiótica de p
 La topografía literaria de la penillanura uruguaya (característica de las cuchillas y la flora nativa) apela a recursos como la metáfora del oleaje y la personificación de los árboles nativos para inyectar vitalidad lírica al relieve.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Comprensión de textos
@@ -337,7 +338,7 @@ La topografía literaria de la penillanura uruguaya (característica de las cuch
 La tipología textual descriptiva se amolda a su función pragmática. Dividimos la descripción en técnica/científica (denotativa, objetiva, informativa) y literaria (connotativa, subjetiva, estética), regulando su léxico de acuerdo con el contexto.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Comprensión de textos
@@ -362,7 +363,7 @@ Analizá la función del espacio descriptivo en la reconstrucción de la memoria
 En la literatura de la evocación o el recuerdo, la descripción de interiores gastados y objetos mudos es de gran valor pragmático; funciona como un ancla sensorial que desencadena y sostiene la carga afectiva de la memoria del personaje.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Comprensión de textos
@@ -386,7 +387,7 @@ En la literatura de la evocación o el recuerdo, la descripción de interiores g
 Describir de manera eficaz es seleccionar de forma inteligente. El arte del texto descriptivo no consiste en acumular palabras, sino en detectar los rasgos o indicios precisos capaces de prefigurar el alma de un paisaje o el carácter de un personaje.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Comprensión de textos
@@ -411,7 +412,7 @@ Analizá críticamente este fragmento. ¿Qué marcas lingüísticas determinan d
 La descripción científica de ceibos busca representar al referente de forma unívoca, universal y despersonalizada. Utiliza terminología denotativa estricta y clasificaciones biológicas precisas de flora nativa de ceibos, a diferencia del enfoque connotativo y subjetivo de la literatura.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Comprensión de textos
@@ -436,7 +437,7 @@ Evaluá críticamente la integración de la topografía del hogar con el retrato
 En la literatura de horror rioplatense (gótico rioplatense), el espacio doméstico actúa como un correlato objetivo del drama psicológico interno de los personajes. La casa muda de mármol frío es un andamiaje trágico de Quiroga que presagia corporalmente la fosa de Alicia.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Comprensión de textos
@@ -461,7 +462,7 @@ Evaluá críticamente la cronografía construida en este fragmento ensayístico.
 La cronografía lograda funde la materialidad de la arquitectura histórica de Montevideo con la dimensión auditiva y psicológica de sus habitantes, permitiendo que un espacio-tiempo extinguido de Montevideo recupere verosimilitud estética ante el lector contemporáneo.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Comprensión de textos
@@ -485,7 +486,7 @@ La cronografía lograda funde la materialidad de la arquitectura histórica de M
 La descripción literaria es un acto de recreación lingüística subjetiva y selectiva. La ciencia y la literatura difieren radicalmente en sus intenciones pragmáticas: la primera persigue la exactitud denotativa de la realidad fáctica, y la segunda la verosimilitud connotativa del arte.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** UY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Comprensión de textos

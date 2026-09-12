@@ -15,6 +15,7 @@ alignment: "MEC - Plan Común / SNEPE"
 license: "FREE"
 tier: "legacy"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 creador: "Jules-Agent"
 ---
 
@@ -22,7 +23,7 @@ creador: "Jules-Agent"
 **20 preguntas | Ciencias Sociales | MEC - Plan Común / SNEPE**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Historia del Paraguay del siglo XIX
@@ -45,7 +46,7 @@ creador: "Jules-Agent"
 La Constitución de 1870 rigió los destinos de la reconstrucción paraguaya, consagrando amplias libertades civiles clásicas e individuales de corte liberal.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Historia del Paraguay del siglo XIX
@@ -68,7 +69,7 @@ La Constitución de 1870 rigió los destinos de la reconstrucción paraguaya, co
 En 1887 nacieron el Centro Democrático (luego Partido Liberal) y la Asociación Nacional Republicana (Partido Colorado), encauzando la participación civil.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Historia del Paraguay del siglo XIX
@@ -91,7 +92,7 @@ En 1887 nacieron el Centro Democrático (luego Partido Liberal) y la Asociación
 La venta masiva de tierras públicas desarticuló al campesinado arrendatario rural paraguayo, dando inicio a la era del latifundismo forestal de exportación.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Historia del Paraguay del siglo XIX
@@ -114,7 +115,7 @@ La venta masiva de tierras públicas desarticuló al campesinado arrendatario ru
 La Universidad Nacional de Asunción (UNA), fundada bajo el lema 'Vitam Impendere Vero', es la institución de educación superior pionera y señera del Paraguay.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Historia del Paraguay del siglo XIX
@@ -137,7 +138,7 @@ La Universidad Nacional de Asunción (UNA), fundada bajo el lema 'Vitam Impender
 Bernardino Caballero representó al ala nacionalista revisionista de posguerra, dominando la política nacional hasta la revolución liberal de 1904.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Historia del Paraguay del siglo XIX
@@ -160,7 +161,7 @@ Bernardino Caballero representó al ala nacionalista revisionista de posguerra, 
 La gesta de 1904 reconfiguró el equilibrio partidario nacional, desplazando al Gral. Bernardino Caballero de la conducción gubernamental.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Historia del Paraguay del siglo XIX
@@ -183,7 +184,7 @@ A pesar de las libertades civiles promovidas por los gobiernos liberales, ¿qué
 El periodo liberal de la primera mitad del siglo XX estuvo signado por la puja constante entre facciones ('saco mbyky' y 'saco puku'), desestabilizando la presidencia.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Historia del Paraguay del siglo XIX
@@ -206,7 +207,7 @@ El periodo liberal de la primera mitad del siglo XX estuvo signado por la puja c
 La explotación forestal en los 'puertos tanineros' chaqueños de posguerra operaba con un régimen de virtual monopolio privado terrateniente extranjero.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Historia del Paraguay del siglo XIX
@@ -229,7 +230,7 @@ La explotación forestal en los 'puertos tanineros' chaqueños de posguerra oper
 La polémica histórica e intelectual entre liberales de corte positivista (Báez) y revisionistas colorados (O'Leary) moldeó la cultura política y el debate escolar del siglo XX.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Historia del Paraguay del siglo XIX
@@ -252,7 +253,7 @@ La polémica histórica e intelectual entre liberales de corte positivista (Báe
 La dolorosa realidad social de los 'mensú' en el Alto Paraná fue magistralmente denunciada en las obras literarias de Rafael Barrett, revelando la injusticia del modelo de latifundio.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Historia del Paraguay del siglo XIX
@@ -275,7 +276,7 @@ La privatización de las líneas de ferrocarril estatal y el arsenal de Asunció
 El desmantelamiento del patrimonio público del Estado paraguayo prebélico de posguerra consolidó una inserción dependiente y agroexportadora primarizada.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Historia del Paraguay del siglo XIX
@@ -298,7 +299,7 @@ El desmantelamiento del patrimonio público del Estado paraguayo prebélico de p
 La prosa lúcida y militante de Rafael Barrett en los obrajes yerbateros encendió la llama del anarcosindicalismo y la protesta social campesina del siglo XX.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Historia del Paraguay del siglo XIX
@@ -321,7 +322,7 @@ La prosa lúcida y militante de Rafael Barrett en los obrajes yerbateros encendi
 El Pacto de Pilcomayo reconfiguró la gobernabilidad nacional en el Paraguay de principios del siglo XX, clausurando el dominio militar del Partido Colorado.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Historia del Paraguay del siglo XIX
@@ -344,7 +345,7 @@ La venta masiva de las ricas tierras públicas y selvas de la Región Oriental p
 El problema de la tenencia de la tierra y la precarización del campesinado rural constituyen la herencia de las leyes privatizadoras coloradas de fines del siglo XIX.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Historia del Paraguay del siglo XIX
@@ -367,7 +368,7 @@ La destructiva guerra civil paraguaya de 1922, que enfrentó de forma armada a l
 La inestabilidad partidaria interna de la posguerra liberal erosionó el presupuesto de la defensa hasta la unificación cívico-militar ante el peligro exterior chaqueño.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Historia del Paraguay del siglo XIX
@@ -390,7 +391,7 @@ La inestabilidad partidaria interna de la posguerra liberal erosionó el presupu
 El revisionismo histórico de Juan E. O'Leary cimentó la mística heroica nacionalista que unificó al pueblo paraguayo en las trincheras del Chaco.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Historia del Paraguay del siglo XIX
@@ -413,7 +414,7 @@ Al evaluar críticamente la gestión política del Gral. Bernardino Caballero en
 La figura de Bernardino Caballero es objeto de exaltación republicana y de severas críticas de corte social y agrario por las privatizaciones de tierras nativas de posguerra.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Historia del Paraguay del siglo XIX
@@ -436,7 +437,7 @@ Al juzgar el impacto del positivismo liberal doctrinario en el Paraguay de fines
 El positivismo intelectual decimonónico paraguayo propugnó una europeización institucional que menospreciaba las tradiciones históricas y el legado soberano lopesca.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Historia del Paraguay del siglo XIX
@@ -459,7 +460,7 @@ Al evaluar críticamente las causas de la persistente inacción estatal de los g
 La simbiosis entre el poder partidario liberal gobernante y el gran latifundio extranjero forestal explica la impunidad del régimen abusivo de los obrajes del noreste.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PY-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Historia del Paraguay del siglo XIX

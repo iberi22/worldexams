@@ -13,6 +13,7 @@ total_questions: 20
 bundle_size: 20
 alignment: "SEP NEM Mexico 2026 / EXANI-II pensamiento matematico"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -41,7 +42,7 @@ Si la tarifa inicial fija (banderazo) es de $15 pesos y se cobran $8 pesos por c
 ### Explicacion Pedagogica
 Una función afín tiene la forma f(x) = mx + b, donde m es la pendiente (tasa de cambio unitaria) y b es la ordenada al origen (valor inicial). Aquí, el costo fijo es b = 15 y el costo variable es m = 8 por km. La función resultante es T(x) = 8x + 15.
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Matemático
@@ -87,7 +88,7 @@ Determina la intersección con el eje y de la función lineal f(x) = 3x - 25.
 ### Explicacion Pedagogica
 La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 3x - 25: f(0) = 3(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -133,7 +134,7 @@ Determina la intersección con el eje y de la función lineal f(x) = 5x - 25.
 ### Explicacion Pedagogica
 La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 5x - 25: f(0) = 5(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -179,7 +180,7 @@ Determina la intersección con el eje y de la función lineal f(x) = 7x - 25.
 ### Explicacion Pedagogica
 La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 7x - 25: f(0) = 7(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).
 
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -225,7 +226,7 @@ Determina la intersección con el eje y de la función lineal f(x) = 9x - 25.
 ### Explicacion Pedagogica
 La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 9x - 25: f(0) = 9(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).
 
-## Question 10 [D5]
+## Question 10 [D5-D6]
 **ID:** MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -271,7 +272,7 @@ Determina la intersección con el eje y de la función lineal f(x) = 11x - 25.
 ### Explicacion Pedagogica
 La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 11x - 25: f(0) = 11(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -317,7 +318,7 @@ Determina la intersección con el eje y de la función lineal f(x) = 13x - 25.
 ### Explicacion Pedagogica
 La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 13x - 25: f(0) = 13(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).
 
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Pensamiento Matemático
@@ -363,7 +364,7 @@ Determina la intersección con el eje y de la función lineal f(x) = 15x - 25.
 ### Explicacion Pedagogica
 La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 15x - 25: f(0) = 15(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).
 
-## Question 16 [D7]
+## Question 16 [D7-D8]
 **ID:** MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Pensamiento Matemático
@@ -409,7 +410,7 @@ Determina la intersección con el eje y de la función lineal f(x) = 17x - 25.
 ### Explicacion Pedagogica
 La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 17x - 25: f(0) = 17(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático
@@ -455,7 +456,7 @@ Determina la intersección con el eje y de la función lineal f(x) = 19x - 25.
 ### Explicacion Pedagogica
 La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 19x - 25: f(0) = 19(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).
 
-## Question 20 [D9]
+## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático

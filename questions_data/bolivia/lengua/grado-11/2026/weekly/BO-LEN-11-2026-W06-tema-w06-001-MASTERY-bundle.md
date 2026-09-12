@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Lengua: Tipología textual: texto descriptivo (W06)
 **20 preguntas | Lengua | MINEDU - Ley Educativa Avelino Siñani - Elizardo Pérez**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BO-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Comprensión y tipología textual
@@ -46,7 +47,7 @@ Considerando la estructura del texto descriptivo y específicamente los tres pic
 ¡Correcto! El texto descriptivo detalla cómo es la realidad deteniendo el tiempo para retratar cualidades, rasgos y partes. La descripción detalla cualidades físicas o psicológicas de los referentes. Estructuralmente recurre a sintagmas adjetivales, comparaciones y verbos de estado en presente o copretérito. Esto se refleja con claridad al analizar los tres picos nevados que coronan La Paz en la región de La Paz.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BO-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Comprensión y tipología textual
@@ -70,7 +71,7 @@ Considerando la estructura del texto descriptivo y específicamente los diseños
 ¡Correcto! El texto descriptivo detalla cómo es la realidad deteniendo el tiempo para retratar cualidades, rasgos y partes. La descripción detalla cualidades físicas o psicológicas de los referentes. Estructuralmente recurre a sintagmas adjetivales, comparaciones y verbos de estado en presente o copretérito. Esto se refleja con claridad al analizar los diseños simétricos y colores vivos de las llicllas en la región de Santa Cruz.
 
 ---
-## Question 3 [D3]
+## Question 3 [D3-D4]
 **ID:** BO-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Comprensión y tipología textual
@@ -94,7 +95,7 @@ Considerando la estructura del texto descriptivo y específicamente el caparazó
 ¡Correcto! El texto descriptivo detalla cómo es la realidad deteniendo el tiempo para retratar cualidades, rasgos y partes. La descripción detalla cualidades físicas o psicológicas de los referentes. Estructuralmente recurre a sintagmas adjetivales, comparaciones y verbos de estado en presente o copretérito. Esto se refleja con claridad al analizar el caparazón óseo y las garras cavadoras de los arenales en la región de Cochabamba.
 
 ---
-## Question 4 [D3]
+## Question 4 [D3-D4]
 **ID:** BO-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Comprensión y tipología textual
@@ -118,7 +119,7 @@ Considerando la estructura del texto descriptivo y específicamente los estratos
 ¡Correcto! El texto descriptivo detalla cómo es la realidad deteniendo el tiempo para retratar cualidades, rasgos y partes. La descripción detalla cualidades físicas o psicológicas de los referentes. Estructuralmente recurre a sintagmas adjetivales, comparaciones y verbos de estado en presente o copretérito. Esto se refleja con claridad al analizar los estratos de roca sedimentaria y las huellas de dinosaurio en la región de Sucre.
 
 ---
-## Question 5 [D4]
+## Question 5 [D3-D4]
 **ID:** BO-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Comprensión y tipología textual
@@ -142,7 +143,7 @@ Considerando la estructura del texto descriptivo y específicamente las fachadas
 ¡Correcto! El texto descriptivo detalla cómo es la realidad deteniendo el tiempo para retratar cualidades, rasgos y partes. La descripción detalla cualidades físicas o psicológicas de los referentes. Estructuralmente recurre a sintagmas adjetivales, comparaciones y verbos de estado en presente o copretérito. Esto se refleja con claridad al analizar las fachadas encaladas de blanco y los patios con arcadas en la región de Oruro.
 
 ---
-## Question 6 [D4]
+## Question 6 [D3-D4]
 **ID:** BO-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Comprensión y tipología textual
@@ -166,7 +167,7 @@ Considerando la estructura del texto descriptivo y específicamente el pelaje es
 ¡Correcto! El texto descriptivo detalla cómo es la realidad deteniendo el tiempo para retratar cualidades, rasgos y partes. La descripción detalla cualidades físicas o psicológicas de los referentes. Estructuralmente recurre a sintagmas adjetivales, comparaciones y verbos de estado en presente o copretérito. Esto se refleja con claridad al analizar el pelaje espeso de lana y el andar altivo andino en la región de Potosí.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** BO-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v7
 **Bloom:** Understand
 **EJE:** Comprensión y tipología textual
@@ -190,7 +191,7 @@ Considerando la estructura del texto descriptivo y específicamente la inmensa p
 ¡Correcto! El texto descriptivo detalla cómo es la realidad deteniendo el tiempo para retratar cualidades, rasgos y partes. La descripción detalla cualidades físicas o psicológicas de los referentes. Estructuralmente recurre a sintagmas adjetivales, comparaciones y verbos de estado en presente o copretérito. Esto se refleja con claridad al analizar la inmensa planicie blanca y el efecto espejo del agua en la región de Tarija.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** BO-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v8
 **Bloom:** Understand
 **EJE:** Comprensión y tipología textual
@@ -214,7 +215,7 @@ Considerando la estructura del texto descriptivo y específicamente la máscara 
 ¡Correcto! El texto descriptivo detalla cómo es la realidad deteniendo el tiempo para retratar cualidades, rasgos y partes. La descripción detalla cualidades físicas o psicológicas de los referentes. Estructuralmente recurre a sintagmas adjetivales, comparaciones y verbos de estado en presente o copretérito. Esto se refleja con claridad al analizar la máscara de yeso con ojos de vidrio y las capas bordadas en la región de Trinidad.
 
 ---
-## Question 9 [D5]
+## Question 9 [D5-D6]
 **ID:** BO-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Comprensión y tipología textual
@@ -238,7 +239,7 @@ Considerando la estructura del texto descriptivo y específicamente la densa veg
 ¡Correcto! El texto descriptivo detalla cómo es la realidad deteniendo el tiempo para retratar cualidades, rasgos y partes. La descripción detalla cualidades físicas o psicológicas de los referentes. Estructuralmente recurre a sintagmas adjetivales, comparaciones y verbos de estado en presente o copretérito. Esto se refleja con claridad al analizar la densa vegetación tropical y la humedad del río Beni en la región de Cobija.
 
 ---
-## Question 10 [D5]
+## Question 10 [D5-D6]
 **ID:** BO-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Comprensión y tipología textual
@@ -262,7 +263,7 @@ Considerando la estructura del texto descriptivo y específicamente el imponente
 ¡Correcto! El texto descriptivo detalla cómo es la realidad deteniendo el tiempo para retratar cualidades, rasgos y partes. La descripción detalla cualidades físicas o psicológicas de los referentes. Estructuralmente recurre a sintagmas adjetivales, comparaciones y verbos de estado en presente o copretérito. Esto se refleja con claridad al analizar el imponente muro de contención y el lago artificial de los valles en la región de Viacha.
 
 ---
-## Question 11 [D6]
+## Question 11 [D5-D6]
 **ID:** BO-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Comprensión y tipología textual
@@ -286,7 +287,7 @@ Considerando la estructura del texto descriptivo y específicamente los miles de
 ¡Correcto! El texto descriptivo detalla cómo es la realidad deteniendo el tiempo para retratar cualidades, rasgos y partes. La descripción detalla cualidades físicas o psicológicas de los referentes. Estructuralmente recurre a sintagmas adjetivales, comparaciones y verbos de estado en presente o copretérito. Esto se refleja con claridad al analizar los miles de puestos con miniaturas de yeso, autos y títulos en la región de Montero.
 
 ---
-## Question 12 [D6]
+## Question 12 [D5-D6]
 **ID:** BO-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Comprensión y tipología textual
@@ -310,7 +311,7 @@ Considerando la estructura del texto descriptivo y específicamente los bloques 
 ¡Correcto! El texto descriptivo detalla cómo es la realidad deteniendo el tiempo para retratar cualidades, rasgos y partes. La descripción detalla cualidades físicas o psicológicas de los referentes. Estructuralmente recurre a sintagmas adjetivales, comparaciones y verbos de estado en presente o copretérito. Esto se refleja con claridad al analizar los bloques de piedra tallada y la Puerta del Sol en la región de Sacaba.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BO-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v13
 **Bloom:** Apply
 **EJE:** Comprensión y tipología textual
@@ -334,7 +335,7 @@ Considerando la estructura del texto descriptivo y específicamente los valles p
 ¡Correcto! El texto descriptivo detalla cómo es la realidad deteniendo el tiempo para retratar cualidades, rasgos y partes. La descripción detalla cualidades físicas o psicológicas de los referentes. Estructuralmente recurre a sintagmas adjetivales, comparaciones y verbos de estado en presente o copretérito. Esto se refleja con claridad al analizar los valles profundos de clima cálido y las laderas cultivadas de coca en la región de Quillacollo.
 
 ---
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** BO-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v14
 **Bloom:** Apply
 **EJE:** Comprensión y tipología textual
@@ -358,7 +359,7 @@ Considerando la estructura del texto descriptivo y específicamente el pelaje ne
 ¡Correcto! El texto descriptivo detalla cómo es la realidad deteniendo el tiempo para retratar cualidades, rasgos y partes. La descripción detalla cualidades físicas o psicológicas de los referentes. Estructuralmente recurre a sintagmas adjetivales, comparaciones y verbos de estado en presente o copretérito. Esto se refleja con claridad al analizar el pelaje negro espeso y las manchas blanquecinas en la cara en la región de Warnes.
 
 ---
-## Question 15 [D7]
+## Question 15 [D7-D8]
 **ID:** BO-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Comprensión y tipología textual
@@ -382,7 +383,7 @@ Considerando la estructura del texto descriptivo y específicamente la silueta c
 ¡Correcto! El texto descriptivo detalla cómo es la realidad deteniendo el tiempo para retratar cualidades, rasgos y partes. La descripción detalla cualidades físicas o psicológicas de los referentes. Estructuralmente recurre a sintagmas adjetivales, comparaciones y verbos de estado en presente o copretérito. Esto se refleja con claridad al analizar la silueta cónica rojiza perforada por cientos de socavones en la región de El Alto.
 
 ---
-## Question 16 [D7]
+## Question 16 [D7-D8]
 **ID:** BO-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Comprensión y tipología textual
@@ -406,7 +407,7 @@ Considerando la estructura del texto descriptivo y específicamente las galería
 ¡Correcto! El texto descriptivo detalla cómo es la realidad deteniendo el tiempo para retratar cualidades, rasgos y partes. La descripción detalla cualidades físicas o psicológicas de los referentes. Estructuralmente recurre a sintagmas adjetivales, comparaciones y verbos de estado en presente o copretérito. Esto se refleja con claridad al analizar las galerías con horcones de madera y los techos de paja en la región de Riberalta.
 
 ---
-## Question 17 [D8]
+## Question 17 [D7-D8]
 **ID:** BO-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v17
 **Bloom:** Analyze
 **EJE:** Comprensión y tipología textual
@@ -430,7 +431,7 @@ Considerando la estructura del texto descriptivo y específicamente las embarcac
 ¡Correcto! El texto descriptivo detalla cómo es la realidad deteniendo el tiempo para retratar cualidades, rasgos y partes. La descripción detalla cualidades físicas o psicológicas de los referentes. Estructuralmente recurre a sintagmas adjetivales, comparaciones y verbos de estado en presente o copretérito. Esto se refleja con claridad al analizar las embarcaciones tejidas a mano que navegan el Titicaca en la región de Yacuiba.
 
 ---
-## Question 18 [D8]
+## Question 18 [D7-D8]
 **ID:** BO-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** Comprensión y tipología textual
@@ -454,7 +455,7 @@ Considerando la estructura del texto descriptivo y específicamente las colinas 
 ¡Correcto! El texto descriptivo detalla cómo es la realidad deteniendo el tiempo para retratar cualidades, rasgos y partes. La descripción detalla cualidades físicas o psicológicas de los referentes. Estructuralmente recurre a sintagmas adjetivales, comparaciones y verbos de estado en presente o copretérito. Esto se refleja con claridad al analizar las colinas móviles de arena fina que rodean los lagos en la región de Colcapirhua.
 
 ---
-## Question 19 [D9]
+## Question 19 [D9-D10]
 **ID:** BO-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Comprensión y tipología textual
@@ -478,7 +479,7 @@ Considerando la estructura del texto descriptivo y específicamente la pollera d
 ¡Correcto! El texto descriptivo detalla cómo es la realidad deteniendo el tiempo para retratar cualidades, rasgos y partes. La descripción detalla cualidades físicas o psicológicas de los referentes. Estructuralmente recurre a sintagmas adjetivales, comparaciones y verbos de estado en presente o copretérito. Esto se refleja con claridad al analizar la pollera de pliegues, la manta bordada y el sombrero hongo en la región de Tupiza.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BO-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Comprensión y tipología textual

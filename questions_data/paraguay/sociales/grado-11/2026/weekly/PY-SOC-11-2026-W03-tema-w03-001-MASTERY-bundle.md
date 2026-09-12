@@ -15,6 +15,7 @@ alignment: "MEC - Plan Común / SNEPE"
 license: "FREE"
 tier: "legacy"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 creador: "Jules-Agent"
 ---
 
@@ -22,7 +23,7 @@ creador: "Jules-Agent"
 **20 preguntas | Ciencias Sociales | MEC - Plan Común / SNEPE**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Demografía y sociedad del Paraguay
@@ -45,7 +46,7 @@ Según la Constitución Nacional de 1992, ¿cuáles son los dos idiomas oficiale
 El bilingüismo castellano-guaraní es una de las señas identitarias más sólidas y representativas de la población paraguaya, consagrada por la Constitución de 1992.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Demografía y sociedad del Paraguay
@@ -68,7 +69,7 @@ El bilingüismo castellano-guaraní es una de las señas identitarias más sóli
 El departamento Central contiene a las principales ciudades del área metropolitana (San Lorenzo, Luque, Lambaré, etc.), concentrando la mayor porción poblacional.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Demografía y sociedad del Paraguay
@@ -91,7 +92,7 @@ El departamento Central contiene a las principales ciudades del área metropolit
 La población del Paraguay es predominantemente joven, gozando actualmente del denominado 'bono demográfico', lo que representa una gran oportunidad económica.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Demografía y sociedad del Paraguay
@@ -114,7 +115,7 @@ La población del Paraguay es predominantemente joven, gozando actualmente del d
 El guaraní paraguayo es un caso de bilingüismo extendido único en América, ya que es dominado por el segmento mestizo y mayoritario no indígena de la nación.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Demografía y sociedad del Paraguay
@@ -137,7 +138,7 @@ El guaraní paraguayo es un caso de bilingüismo extendido único en América, y
 Los flujos migratorios paraguayos se dirigen preferentemente hacia Argentina por cercanía geográfica, y España por afinidad idiomática y oportunidades laborales en el área de servicios.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Demografía y sociedad del Paraguay
@@ -160,7 +161,7 @@ Los flujos migratorios paraguayos se dirigen preferentemente hacia Argentina por
 El jopará es la forma coloquial predominante de comunicación en el país, consistente en alternar vocablos y estructuras del castellano y del guaraní en una misma conversación.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Demografía y sociedad del Paraguay
@@ -183,7 +184,7 @@ El jopará es la forma coloquial predominante de comunicación en el país, cons
 La conexión terrestre este-oeste por carretera fue el catalizador del dinamismo económico, la colonización agrícola y el crecimiento poblacional de la Región Oriental.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Demografía y sociedad del Paraguay
@@ -206,7 +207,7 @@ La conexión terrestre este-oeste por carretera fue el catalizador del dinamismo
 El fenómeno demográfico 'brasiguayo' se consolidó en los años 1970 y 1980 a través de la venta de tierras fiscales para el agro de gran escala en la frontera esteña.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Demografía y sociedad del Paraguay
@@ -229,7 +230,7 @@ El fenómeno demográfico 'brasiguayo' se consolidó en los años 1970 y 1980 a 
 La migración campo-ciudad en Paraguay está determinada por la asimetría de desarrollo territorial y oportunidades de empleo y servicios de salud/educación.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Demografía y sociedad del Paraguay
@@ -252,7 +253,7 @@ A pesar del predominio de la lengua oficial guaraní de origen andino-amazónico
 La diversidad de pueblos indígenas (como los Nivaclé, Ayoreo o Maká) complementa la complejidad demográfica y lingüística del Paraguay bilingüe.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Demografía y sociedad del Paraguay
@@ -275,7 +276,7 @@ A pesar del reconocimiento oficial del guaraní, ¿cuál es una manifestación p
 La superación de la diglosia requiere la efectiva implementación de la Ley de Lenguas y la estandarización escrita de los trámites y comunicaciones oficiales en guaraní.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Demografía y sociedad del Paraguay
@@ -298,7 +299,7 @@ Desde el punto de vista demográfico y de exclusión socioespacial, ¿cuál es l
 Los bañados asuncenos ilustran la segregación espacial urbana resultante de corrientes migratorias no planificadas y debilidad de políticas habitacionales.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Demografía y sociedad del Paraguay
@@ -321,7 +322,7 @@ Los bañados asuncenos ilustran la segregación espacial urbana resultante de co
 El cooperativismo es la columna vertebral de la prosperidad de las colonias menonitas en los departamentos chaqueños paraguayos.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Demografía y sociedad del Paraguay
@@ -344,7 +345,7 @@ Desde el punto de vista macroeconómico y familiar, ¿qué rol desempeñan las r
 La migración económica al exterior actúa como válvula de escape al desempleo, repercutiendo positivamente en la economía nacional a través de las remesas de dinero.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Demografía y sociedad del Paraguay
@@ -367,7 +368,7 @@ Aparte de los españoles, ¿qué corrientes de inmigrantes europeos, asiáticos 
 La inmigración selectiva y espontánea del siglo XX contribuyó a la diversificación productiva del agro y al crecimiento urbano de varias ciudades paraguayas.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Demografía y sociedad del Paraguay
@@ -390,7 +391,7 @@ Al analizar la convivencia del castellano, el guaraní, el plautdietsch y las le
 El bilingüismo en el Paraguay no es uniforme. El Chaco paraguayo presenta un mosaico lingüístico y cultural complejo que requiere políticas estatales sensibles e interculturales.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Demografía y sociedad del Paraguay
@@ -413,7 +414,7 @@ Al evaluar críticamente las consecuencias sociales del bilingüismo paraguayo, 
 La reforma educativa paraguaya introdujo la educación bilingüe (castellano/guaraní) para garantizar la calidad pedagógica de los educandos de habla materna guaraní.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Demografía y sociedad del Paraguay
@@ -436,7 +437,7 @@ Al juzgar el impacto del bono demográfico paraguayo en el desarrollo socioecon�
 El bono demográfico es una ventana de oportunidad temporal de algunas décadas en la cual el porcentaje de población dependiente (niños y ancianos) es menor en relación con la población potencialmente activa productiva.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Demografía y sociedad del Paraguay
@@ -459,7 +460,7 @@ Al evaluar la correlación entre la estructura latifundista del agro mecanizado 
 La concentración de la propiedad rural de la tierra es uno de los factores estructurales del éxodo campesino y el crecimiento informal metropolitano en el Paraguay.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PY-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Demografía y sociedad del Paraguay

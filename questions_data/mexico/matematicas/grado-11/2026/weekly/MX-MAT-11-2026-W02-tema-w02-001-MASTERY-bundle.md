@@ -13,6 +13,7 @@ total_questions: 20
 bundle_size: 20
 alignment: "SEP NEM Mexico 2026 / EXANI-II pensamiento matematico"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -41,7 +42,7 @@ Si la base mide (3x + 2) metros y la altura mide (2x - 5) metros, ¿cuál es la 
 ### Explicacion Pedagogica
 Para calcular el área de un rectángulo multiplicamos la base por la altura: Area = (3x + 2)(2x - 5). Desarrollando término a término por propiedad distributiva: 3x(2x) = 6x²; 3x(-5) = -15x; 2(2x) = 4x; 2(-5) = -10. Agrupando términos semejantes: -15x + 4x = -11x. Así, el área es 6x² - 11x - 10.
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Matemático
@@ -87,7 +88,7 @@ Agrupa y simplifica los términos semejantes de la siguiente expresión: 5x² - 
 ### Explicacion Pedagogica
 La simplificación requiere agrupar coeficientes de las mismas potencias de x. Para x²: 5 + 2 = 7. Para x: -3 + 7 = 4. Para los términos constantes: -8 - 4 = -12. Juntando todos los términos nos queda: 7x² + 4x - 12.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** MX-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -133,7 +134,7 @@ Si un polinomio se define como P(x) = 5x² - 3x + 5, ¿cuál es el resultado de 
 ### Explicacion Pedagogica
 Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a. Para P(2) con P(x) = 5x² - 3x + 5, calculamos P(2) = 5(2)² - 3(2) + 5 = 5(4) - 6 + 5 = 20 - 6 + 5 = 19.
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** MX-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -179,7 +180,7 @@ Si un polinomio se define como P(x) = 7x² - 3x + 5, ¿cuál es el resultado de 
 ### Explicacion Pedagogica
 Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a. Para P(2) con P(x) = 7x² - 3x + 5, calculamos P(2) = 7(2)² - 3(2) + 5 = 7(4) - 6 + 5 = 28 - 6 + 5 = 27.
 
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -225,7 +226,7 @@ Si un polinomio se define como P(x) = 9x² - 3x + 5, ¿cuál es el resultado de 
 ### Explicacion Pedagogica
 Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a. Para P(2) con P(x) = 9x² - 3x + 5, calculamos P(2) = 9(2)² - 3(2) + 5 = 9(4) - 6 + 5 = 36 - 6 + 5 = 35.
 
-## Question 10 [D5]
+## Question 10 [D5-D6]
 **ID:** MX-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -271,7 +272,7 @@ Si un polinomio se define como P(x) = 11x² - 3x + 5, ¿cuál es el resultado de
 ### Explicacion Pedagogica
 Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a. Para P(2) con P(x) = 11x² - 3x + 5, calculamos P(2) = 11(2)² - 3(2) + 5 = 11(4) - 6 + 5 = 44 - 6 + 5 = 43.
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** MX-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -317,7 +318,7 @@ Si un polinomio se define como P(x) = 13x² - 3x + 5, ¿cuál es el resultado de
 ### Explicacion Pedagogica
 Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a. Para P(2) con P(x) = 13x² - 3x + 5, calculamos P(2) = 13(2)² - 3(2) + 5 = 13(4) - 6 + 5 = 52 - 6 + 5 = 51.
 
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Pensamiento Matemático
@@ -363,7 +364,7 @@ Si un polinomio se define como P(x) = 15x² - 3x + 5, ¿cuál es el resultado de
 ### Explicacion Pedagogica
 Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a. Para P(2) con P(x) = 15x² - 3x + 5, calculamos P(2) = 15(2)² - 3(2) + 5 = 15(4) - 6 + 5 = 60 - 6 + 5 = 59.
 
-## Question 16 [D7]
+## Question 16 [D7-D8]
 **ID:** MX-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Pensamiento Matemático
@@ -409,7 +410,7 @@ Si un polinomio se define como P(x) = 17x² - 3x + 5, ¿cuál es el resultado de
 ### Explicacion Pedagogica
 Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a. Para P(2) con P(x) = 17x² - 3x + 5, calculamos P(2) = 17(2)² - 3(2) + 5 = 17(4) - 6 + 5 = 68 - 6 + 5 = 67.
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático
@@ -455,7 +456,7 @@ Si un polinomio se define como P(x) = 19x² - 3x + 5, ¿cuál es el resultado de
 ### Explicacion Pedagogica
 Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a. Para P(2) con P(x) = 19x² - 3x + 5, calculamos P(2) = 19(2)² - 3(2) + 5 = 19(4) - 6 + 5 = 76 - 6 + 5 = 75.
 
-## Question 20 [D9]
+## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático

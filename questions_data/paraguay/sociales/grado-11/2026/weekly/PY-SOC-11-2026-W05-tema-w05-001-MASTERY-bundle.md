@@ -15,6 +15,7 @@ alignment: "MEC - Plan Común / SNEPE"
 license: "FREE"
 tier: "legacy"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 creador: "Jules-Agent"
 ---
 
@@ -22,7 +23,7 @@ creador: "Jules-Agent"
 **20 preguntas | Ciencias Sociales | MEC - Plan Común / SNEPE**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Historia del Paraguay del siglo XIX
@@ -45,7 +46,7 @@ creador: "Jules-Agent"
 Carlos Antonio López gobernó Paraguay de forma progresista y modernizadora, sentando las bases de la infraestructura ferroviaria y de fundición de hierro.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Historia del Paraguay del siglo XIX
@@ -68,7 +69,7 @@ Carlos Antonio López gobernó Paraguay de forma progresista y modernizadora, se
 La fundición de Ybycuí, conocida como 'La Rosada', representó la soberanía industrial paraguaya del siglo XIX al fabricar piezas de hierro y cañones de artillería.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Historia del Paraguay del siglo XIX
@@ -91,7 +92,7 @@ La fundición de Ybycuí, conocida como 'La Rosada', representó la soberanía i
 La modernización paraguaya de la era lopesca recurrió de forma decidida y soberana a la contratación de ingenieros ingleses para montar el telégrafo, el ferrocarril y la fundición.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Historia del Paraguay del siglo XIX
@@ -114,7 +115,7 @@ La modernización paraguaya de la era lopesca recurrió de forma decidida y sobe
 La Constitución de 1844 dotó de un marco jurídico moderno al Paraguay para legitimar su soberanía exterior e interior.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Historia del Paraguay del siglo XIX
@@ -137,7 +138,7 @@ La Constitución de 1844 dotó de un marco jurídico moderno al Paraguay para le
 La inauguración de las vías ferroviarias estatales en Paraguay representó un gran orgullo para la soberanía del país, financiada enteramente con recursos propios.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Historia del Paraguay del siglo XIX
@@ -160,7 +161,7 @@ La inauguración de las vías ferroviarias estatales en Paraguay representó un 
 El programa de becarios de Carlos Antonio López fue pionero en América del Sur, permitiendo el retorno de ingenieros paraguayos que lideraron obras estatales.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Historia del Paraguay del siglo XIX
@@ -183,7 +184,7 @@ El programa de becarios de Carlos Antonio López fue pionero en América del Sur
 El reconocimiento argentino de 1852 fue una inmensa victoria de la diplomacia de Carlos Antonio López, legitimando la soberanía exterior del Paraguay mediterráneo.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Historia del Paraguay del siglo XIX
@@ -206,7 +207,7 @@ El reconocimiento argentino de 1852 fue una inmensa victoria de la diplomacia de
 Francisco Solano López contaba con una vasta experiencia militar y diplomática internacional antes de asumir la primera magistratura del Estado en 1862.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Historia del Paraguay del siglo XIX
@@ -229,7 +230,7 @@ Francisco Solano López contaba con una vasta experiencia militar y diplomática
 La misión europea de Solano López dotó al Paraguay de moderna tecnología naval, insumos bélicos e industriales fundamentales para el devenir del país.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Historia del Paraguay del siglo XIX
@@ -252,7 +253,7 @@ La misión europea de Solano López dotó al Paraguay de moderna tecnología nav
 Madame Lynch es una de las figuras más fascinantes y discutidas de la historia nacional, símbolo de refinamiento y abnegación trágica.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Historia del Paraguay del siglo XIX
@@ -275,7 +276,7 @@ A diferencia del resto de América Latina del siglo XIX dominado por terratenien
 La soberanía financiera de la era lopesca, sustentada en la propiedad fiscal de tierras y el control estatal de yerbales, descolló en una América Latina asfixiada por empréstitos externos británicos.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Historia del Paraguay del siglo XIX
@@ -298,7 +299,7 @@ La soberanía financiera de la era lopesca, sustentada en la propiedad fiscal de
 La ruptura del equilibrio del Río de la Plata por la agresión brasileña a Uruguay forzó al gobierno de Francisco Solano López a actuar militarmente, desencadenando la gran contienda bélica nacional.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Historia del Paraguay del siglo XIX
@@ -321,7 +322,7 @@ La ruptura del equilibrio del Río de la Plata por la agresión brasileña a Uru
 El decreto del Vientre Libre fue una de las reformas humanitarias y sociales más notables de la era de Carlos Antonio López, encaminando al país a la libertad civil total.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Historia del Paraguay del siglo XIX
@@ -344,7 +345,7 @@ El decreto del Vientre Libre fue una de las reformas humanitarias y sociales má
 El Paraguayo Independiente cumplió un papel histórico extraordinario al fundamentar la legitimidad jurídica del Paraguay soberano ante la resistencia diplomática de Juan Manuel de Rosas.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Historia del Paraguay del siglo XIX
@@ -367,7 +368,7 @@ El Paraguayo Independiente cumplió un papel histórico extraordinario al fundam
 El astillero y arsenal de Asunción proveyeron al Paraguay de una respetable flota naviera mercante y de guerra, un logro tecnológico asombroso para un país mediterráneo.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Historia del Paraguay del siglo XIX
@@ -390,7 +391,7 @@ El astillero y arsenal de Asunción proveyeron al Paraguay de una respetable flo
 Humaitá representó la cúspide de la ingeniería militar paraguaya decimonónica, resistiendo prolongados asedios terrestres y navales aliados durante la contienda.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Historia del Paraguay del siglo XIX
@@ -413,7 +414,7 @@ Al evaluar críticamente la política internacional de Don Carlos Antonio López
 Carlos Antonio López insertó al Paraguay en el concierto de naciones civilizadas de forma soberana mediante un sólido despliegue de diplomacia escrita y tratados equitativos.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Historia del Paraguay del siglo XIX
@@ -436,7 +437,7 @@ Al juzgar de manera retrospectiva e histórica la decisión de Francisco Solano 
 La decisión de Francisco Solano López, aunque de trágicas consecuencias bélicas, respondió a una arraigada concepción de la defensa del equilibrio de poder geopolítico platense.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Historia del Paraguay del siglo XIX
@@ -459,7 +460,7 @@ Al evaluar críticamente el significado histórico del arrasamiento industrial y
 La destrucción de Ybycuí encarnó el desmantelamiento del proyecto de desarrollo autónomo y soberano del Paraguay decimonónico.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Historia del Paraguay del siglo XIX

@@ -16,11 +16,12 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle — Matemáticas: Funciones Exponenciales y Logarítmicas (UY-MAT-11-W06)
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Funcional
@@ -39,7 +40,7 @@ bundle_index: 1
 ### Explicación Pedagógica
 En la exponencial la incógnita está en el exponente: $f(x) = a \cdot b^x$ con base $b > 0$, $b \ne 1$. Si $b > 1$ crece; si $0 < b < 1$ decrece.
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Funcional
@@ -58,7 +59,7 @@ En la exponencial la incógnita está en el exponente: $f(x) = a \cdot b^x$ con 
 ### Explicación Pedagógica
 $\log_b a = c$ equivale a $b^c = a$. El logaritmo responde: "¿a qué exponente elevo la base para obtener el argumento?".
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Funcional
@@ -77,7 +78,7 @@ Si un capital se duplica cada año según $C(t) = 1000 \cdot 2^t$, ¿cuál es el
 ### Explicación Pedagógica
 Evaluar la exponencial: $C(3) = 1000 \cdot 2^3 = 8000$. El crecimiento exponencial duplica el valor en cada período.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Funcional
@@ -96,7 +97,7 @@ Evaluar la exponencial: $C(3) = 1000 \cdot 2^3 = 8000$. El crecimiento exponenci
 ### Explicación Pedagógica
 $\log_{10} 1000$ pregunta por el exponente que lleva 10 a 1000: como $10^3 = 1000$, el valor es 3.
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Pensamiento Funcional
@@ -115,7 +116,7 @@ La función $f(x) = 80 \cdot \left(\frac{1}{2}\right)^x$ describe una sustancia 
 ### Explicación Pedagógica
 Con base $\frac{1}{2}$, cada período multiplica por un medio: $80 \to 40 \to 20$. Evaluar $f(2) = 80 \cdot \frac{1}{4} = 20$.
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** Pensamiento Funcional
@@ -134,7 +135,7 @@ Con base $\frac{1}{2}$, cada período multiplica por un medio: $80 \to 40 \to 20
 ### Explicación Pedagógica
 El exponente negativo invierte la base: $a^{-n} = \frac{1}{a^n}$. Así $2^{-3} = \frac{1}{8}$.
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Pensamiento Funcional
@@ -153,7 +154,7 @@ Sabiendo que $\log_{10} 2 \approx 0.301$ y $\log_{10} 5 \approx 0.699$, ¿cuánt
 ### Explicación Pedagógica
 La propiedad $\log(ab) = \log a + \log b$ convierte productos en sumas: $0.301 + 0.699 = 1$, coherente con $\log_{10} 10 = 1$.
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Funcional
@@ -172,7 +173,7 @@ Resuelve la ecuación $3^x = 81$.
 ### Explicación Pedagógica
 Expresar ambos miembros en la misma base: $81 = 3^4$, así $3^x = 3^4$ y por inyectividad $x = 4$.
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Pensamiento Funcional
@@ -191,7 +192,7 @@ Si $2^x = 32$, ¿cuál es el valor de $x$?
 ### Explicación Pedagógica
 Reconocer potencias de 2 agiliza la resolución: $32 = 2^5$. La función exponencial de base 2 es inyectiva, así que el exponente es único.
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Funcional
@@ -210,7 +211,7 @@ Reconocer potencias de 2 agiliza la resolución: $32 = 2^5$. La función exponen
 ### Explicación Pedagógica
 Evaluando por separado: $27 = 3^3$ y $3 = 3^1$, así $3 - 1 = 2$. También vale $\log_3(27/3) = \log_3 9 = 2$.
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Pensamiento Funcional
@@ -229,7 +230,7 @@ Una inversión A crece según $A(t) = 1000 + 500t$ y otra B según $B(t) = 1000 
 ### Explicación Pedagógica
 El crecimiento lineal suma una cantidad fija; el exponencial multiplica por un factor fijo. A la larga, cualquier exponencial con base mayor que 1 domina a cualquier lineal.
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Pensamiento Funcional
@@ -248,7 +249,7 @@ El crecimiento lineal suma una cantidad fija; el exponencial multiplica por un f
 ### Explicación Pedagógica
 Como $\log_2 x = y$ equivale a $2^y = x$, y las potencias de 2 son siempre positivas, el dominio es $(0, +\infty)$.
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Pensamiento Funcional
@@ -267,7 +268,7 @@ Como $\log_2 x = y$ equivale a $2^y = x$, y las potencias de 2 son siempre posit
 ### Explicación Pedagógica
 Toda exponencial $b^x$ pasa por $(0, 1)$ y tiene al eje $x$ como asíntota horizontal en el lado decreciente del dominio.
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v14
 **Bloom:** Apply
 **EJE:** Pensamiento Funcional
@@ -286,7 +287,7 @@ Toda exponencial $b^x$ pasa por $(0, 1)$ y tiene al eje $x$ como asíntota horiz
 ### Explicación Pedagógica
 Tomando logaritmos: $t \log 1.1 = \log 2$, así $t = \frac{0.301}{0.0414} \approx 7.3$ años. Es la aplicación directa del logaritmo para despejar exponentes.
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pensamiento Funcional
@@ -305,7 +306,7 @@ Resuelve $4^x = 8$ escribiendo ambas bases como potencias de 2.
 ### Explicación Pedagógica
 $4^x = (2^2)^x = 2^{2x}$ y $8 = 2^3$; igualando exponentes, $2x = 3$ y $x = \frac{3}{2}$.
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Pensamiento Funcional
@@ -324,7 +325,7 @@ $4^x = (2^2)^x = 2^{2x}$ y $8 = 2^3$; igualando exponentes, $2x = 3$ y $x = \fra
 ### Explicación Pedagógica
 La propiedad $\log a^n = n \log a$ da $\log_5 25^3 = 3 \log_5 25 = 3 \cdot 2 = 6$, pues $25 = 5^2$.
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Pensamiento Funcional
@@ -343,7 +344,7 @@ La propiedad $\log a^n = n \log a$ da $\log_5 25^3 = 3 \log_5 25 = 3 \cdot 2 = 6
 ### Explicación Pedagógica
 La monotonía de $b^x$ la decide la base: $b > 1$ creciente, $0 < b < 1$ decreciente. Ambas pasan por $(0, 1)$.
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Funcional
@@ -362,7 +363,7 @@ La monotonía de $b^x$ la decide la base: $b > 1$ creciente, $0 < b < 1$ decreci
 ### Explicación Pedagógica
 Si $M = b^m$ y $N = b^n$, entonces $\frac{M}{N} = b^{m-n}$, y tomando logaritmo queda $m - n = \log_b M - \log_b N$.
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Pensamiento Funcional
@@ -381,7 +382,7 @@ Si la amplitud crece por factor 10 por cada punto de magnitud, ¿cuántas veces 
 ### Explicación Pedagógica
 Las escalas logarítmicas convierten diferencias en potencias: $7 - 4 = 3$ puntos implican $10^3 = 1000$ veces más amplitud.
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Funcional

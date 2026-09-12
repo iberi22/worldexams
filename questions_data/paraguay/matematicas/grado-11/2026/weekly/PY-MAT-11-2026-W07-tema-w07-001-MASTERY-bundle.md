@@ -16,6 +16,7 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 # Weekly Pack W07: Ecuaciones Cuadráticas (Grado 11)
 
@@ -23,7 +24,7 @@ Este bundle evalúa conceptos clave de Ecuaciones Cuadráticas alineados al curr
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PY-MAT-11-2026-W07-tema-w07-001-MASTERY-v1
 **Bloom:** Remember
 **EJE:** Álgebra y funciones
@@ -44,7 +45,7 @@ El término $ax^2$ se denomina término cuadrático de la ecuación de segundo g
 
 ---
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** PY-MAT-11-2026-W07-tema-w07-001-MASTERY-v2
 **Bloom:** Understand
 **EJE:** Álgebra y funciones
@@ -65,7 +66,7 @@ Sustituyendo $a=1, b=-6, c=9$ en la fórmula del discriminante: $\Delta = (-6)^2
 
 ---
 
-## Question 3 [D3]
+## Question 3 [D3-D4]
 **ID:** PY-MAT-11-2026-W07-tema-w07-001-MASTERY-v3
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -86,7 +87,7 @@ La ecuación $t^2 - 9t + 20 = 0$ se factoriza como $(t - 4)(t - 5) = 0$, lo que 
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PY-MAT-11-2026-W07-tema-w07-001-MASTERY-v4
 **Bloom:** Analyze
 **EJE:** Álgebra y funciones
@@ -107,7 +108,7 @@ La ecuación $t^2 - 6t + 5 = 0$ se factoriza como $(t - 1)(t - 5) = 0$, lo que d
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PY-MAT-11-2026-W07-tema-w07-001-MASTERY-v5
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -128,7 +129,7 @@ La ecuación $t^2 - 7t + 10 = 0$ se factoriza como $(t - 2)(t - 5) = 0$, lo que 
 
 ---
 
-## Question 6 [D6]
+## Question 6 [D5-D6]
 **ID:** PY-MAT-11-2026-W07-tema-w07-001-MASTERY-v6
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -149,7 +150,7 @@ La ecuación $t^2 - 8t + 15 = 0$ se factoriza como $(t - 3)(t - 5) = 0$, lo que 
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PY-MAT-11-2026-W07-tema-w07-001-MASTERY-v7
 **Bloom:** Evaluate
 **EJE:** Álgebra y funciones
@@ -170,7 +171,7 @@ La ecuación $t^2 - 9t + 20 = 0$ se factoriza como $(t - 4)(t - 5) = 0$, lo que 
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PY-MAT-11-2026-W07-tema-w07-001-MASTERY-v8
 **Bloom:** Evaluate
 **EJE:** Álgebra y funciones
@@ -191,7 +192,7 @@ La ecuación $t^2 - 6t + 5 = 0$ se factoriza como $(t - 1)(t - 5) = 0$, lo que d
 
 ---
 
-## Question 9 [D5]
+## Question 9 [D5-D6]
 **ID:** PY-MAT-11-2026-W07-tema-w07-001-MASTERY-v9
 **Bloom:** Evaluate
 **EJE:** Álgebra y funciones
@@ -212,7 +213,7 @@ La ecuación $t^2 - 7t + 10 = 0$ se factoriza como $(t - 2)(t - 5) = 0$, lo que 
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PY-MAT-11-2026-W07-tema-w07-001-MASTERY-v10
 **Bloom:** Remember
 **EJE:** Álgebra y funciones
@@ -233,7 +234,7 @@ La ecuación $t^2 - 8t + 15 = 0$ se factoriza como $(t - 3)(t - 5) = 0$, lo que 
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PY-MAT-11-2026-W07-tema-w07-001-MASTERY-v11
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -254,7 +255,7 @@ La ecuación $t^2 - 9t + 20 = 0$ se factoriza como $(t - 4)(t - 5) = 0$, lo que 
 
 ---
 
-## Question 12 [D8]
+## Question 12 [D7-D8]
 **ID:** PY-MAT-11-2026-W07-tema-w07-001-MASTERY-v12
 **Bloom:** Understand
 **EJE:** Álgebra y funciones
@@ -275,7 +276,7 @@ La ecuación $t^2 - 6t + 5 = 0$ se factoriza como $(t - 1)(t - 5) = 0$, lo que d
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PY-MAT-11-2026-W07-tema-w07-001-MASTERY-v13
 **Bloom:** Understand
 **EJE:** Álgebra y funciones
@@ -296,7 +297,7 @@ La ecuación $t^2 - 7t + 10 = 0$ se factoriza como $(t - 2)(t - 5) = 0$, lo que 
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PY-MAT-11-2026-W07-tema-w07-001-MASTERY-v14
 **Bloom:** Understand
 **EJE:** Álgebra y funciones
@@ -317,7 +318,7 @@ La ecuación $t^2 - 8t + 15 = 0$ se factoriza como $(t - 3)(t - 5) = 0$, lo que 
 
 ---
 
-## Question 15 [D7]
+## Question 15 [D7-D8]
 **ID:** PY-MAT-11-2026-W07-tema-w07-001-MASTERY-v15
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -338,7 +339,7 @@ La ecuación $t^2 - 9t + 20 = 0$ se factoriza como $(t - 4)(t - 5) = 0$, lo que 
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PY-MAT-11-2026-W07-tema-w07-001-MASTERY-v16
 **Bloom:** Analyze
 **EJE:** Álgebra y funciones
@@ -359,7 +360,7 @@ La ecuación $t^2 - 6t + 5 = 0$ se factoriza como $(t - 1)(t - 5) = 0$, lo que d
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PY-MAT-11-2026-W07-tema-w07-001-MASTERY-v17
 **Bloom:** Analyze
 **EJE:** Álgebra y funciones
@@ -380,7 +381,7 @@ La ecuación $t^2 - 7t + 10 = 0$ se factoriza como $(t - 2)(t - 5) = 0$, lo que 
 
 ---
 
-## Question 18 [D10]
+## Question 18 [D9-D10]
 **ID:** PY-MAT-11-2026-W07-tema-w07-001-MASTERY-v18
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -401,7 +402,7 @@ La ecuación $t^2 - 8t + 15 = 0$ se factoriza como $(t - 3)(t - 5) = 0$, lo que 
 
 ---
 
-## Question 19 [D9]
+## Question 19 [D9-D10]
 **ID:** PY-MAT-11-2026-W07-tema-w07-001-MASTERY-v19
 **Bloom:** Analyze
 **EJE:** Álgebra y funciones
@@ -422,7 +423,7 @@ La ecuación $t^2 - 9t + 20 = 0$ se factoriza como $(t - 4)(t - 5) = 0$, lo que 
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PY-MAT-11-2026-W07-tema-w07-001-MASTERY-v20
 **Bloom:** Evaluate
 **EJE:** Álgebra y funciones

@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Matemáticas: Tema W01 (W01)
 **20 preguntas | Grado 11 (6to de Secundaria) | MINEDU - Ley Educativa Avelino Siñani - Elizardo Pérez**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Numérico y Sistemas de Datos
@@ -42,7 +43,7 @@ bundle_index: 1
 El conjunto de los números irracionales (denotado como I) está constituido por todos los números reales que poseen infinitas cifras decimales no periódicas y que, por lo tanto, no pueden expresarse bajo la forma de una fracción a/b, donde a y b son enteros con b distinto de cero.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **EJE:** Pensamiento Numérico y Sistemas de Datos
@@ -62,7 +63,7 @@ Si representamos con el número real x al precio de un kilo de oca, y con y al p
 La propiedad conmutativa de la adición de números reales establece de manera formal que para cualesquiera números reales x e y, se cumple que x + y = y + x.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Numérico y Sistemas de Datos
@@ -82,7 +83,7 @@ Si el tramo de terreno abarca todos los números reales estrictamente mayores qu
 Un intervalo abierto se denota mediante paréntesis (a, b) e incluye a todos los números reales estrictamente comprendidos entre los extremos, excluyendo a estos últimos. Se expresa matemáticamente como a < x < b.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **EJE:** Pensamiento Numérico y Sistemas de Datos
@@ -102,7 +103,7 @@ El ancho nominal de la manta debe ser de 120 cm, con un margen de error máximo 
 La distancia entre el ancho real x y el ancho nominal 120 se calcula mediante el valor absoluto de su diferencia: |x - 120|. Al estar limitado el error a 1.5 cm como máximo, se plantea |x - 120| <= 1.5.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Pensamiento Numérico y Sistemas de Datos
@@ -122,7 +123,7 @@ Si ordenamos de menor a mayor los siguientes números reales: a = -1.25, b = -5/
 Convertimos los números racionales a su expresión decimal periódica o exacta para compararlos directamente: a = -1.25; b = -5/4 = -1.25; c = -1.3; d = -4/3 = -1.333... En la recta numérica de los reales negativos, un número es menor cuanto mayor sea su valor absoluto. Por lo tanto, en orden de menor a mayor se tiene: -1.333... < -1.3 < -1.25, lo que se traduce en d < c < a = b.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** Pensamiento Numérico y Sistemas de Datos
@@ -142,7 +143,7 @@ El intervalo A de porcentaje de humedad óptimo es [12.5, 18.2] y el intervalo B
 La intersección de ambos intervalos es el conjunto de números reales que pertenecen simultáneamente a ambos. Para A = [12.5, 18.2] y B = (14.0, 20.5], el extremo inferior de la intersección debe ser el mayor de los extremos inferiores (14.0, abierto) y el superior el menor de los extremos superiores (18.2, cerrado). Así, se tiene (14.0, 18.2].
 
 ---
-## Question 7 [D6]
+## Question 7 [D5-D6]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Pensamiento Numérico y Sistemas de Datos
@@ -162,7 +163,7 @@ Si la temperatura de la solución T (en grados Celsius) satisface la inecuación
 Para resolver la inecuación |T - 25| < 4, aplicamos la propiedad |x| < a si y solo si -a < x < a. Esto nos da: -4 < T - 25 < 4. Sumando 25 en todos los términos obtenemos 21 < T < 29, es decir, el intervalo abierto (21, 29).
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v8
 **Bloom:** Analyze
 **EJE:** Pensamiento Numérico y Sistemas de Datos
@@ -182,7 +183,7 @@ Si una transacción comercial está garantizada por un fondo cuyo valor fluctúa
 Para resolver x^2 - 4x - 12 < 0, factorizamos el trinomio: (x - 6)(x + 2) < 0. Los puntos críticos que anulan la expresión son x = -2 y x = 6. Evaluando signos en los intervalos (-inf, -2), (-2, 6) y (6, inf), vemos que el producto es estrictamente negativo en el intervalo abierto (-2, 6).
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v9
 **Bloom:** Analyze
 **EJE:** Pensamiento Numérico y Sistemas de Datos
@@ -202,7 +203,7 @@ Si definimos los números reales a y b tales que a < b, ¿cuál de las siguiente
 La propiedad aditiva de las desigualdades de los números reales establece de manera universal que si a < b, entonces para cualquier número real c, se cumple que a + c < b + c. Al restar c (es decir, sumar -c), la desigualdad a - c < b - c se mantiene siempre verdadera.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v10
 **Bloom:** Evaluate
 **EJE:** Pensamiento Numérico y Sistemas de Datos
@@ -222,7 +223,7 @@ Si x e y son dos números reales cualesquiera, ¿cuál de las siguientes desigua
 La desigualdad triangular es un teorema fundamental en el sistema de los números reales y espacios métricos, que enuncia que para cualesquiera x, y en R, se cumple que |x + y| <= |x| + |y|.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v11
 **Bloom:** Remember
 **EJE:** Pensamiento Numérico y Sistemas de Datos
@@ -242,7 +243,7 @@ De acuerdo con la estructura formal de los números reales, ¿cuál es el enunci
 El Axioma del Supremo, también llamado principio de completitud de los números reales, garantiza que todo conjunto S de números reales no vacío y acotado superiormente posee un supremo en los números reales.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v12
 **Bloom:** Understand
 **EJE:** Pensamiento Numérico y Sistemas de Datos
@@ -262,7 +263,7 @@ Si una vecindad simétrica de centro a = 3 y radio delta = 0.1 se define como el
 Una vecindad simétrica de centro a y radio delta se define por |x - a| < delta. Para a = 3 y delta = 0.1, se tiene |x - 3| < 0.1, lo cual equivale a 2.9 < x < 3.1, o sea, (2.9, 3.1).
 
 ---
-## Question 13 [D8]
+## Question 13 [D7-D8]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v13
 **Bloom:** Apply
 **EJE:** Pensamiento Numérico y Sistemas de Datos
@@ -282,7 +283,7 @@ Si los esfuerzos seguros de la viga se encuentran en el conjunto de valores de x
 El complemento lógico de |2x - 5| >= 9 es |2x - 5| < 9. Al resolver esta desigualdad se obtiene -9 < 2x - 5 < 9, lo cual sumando 5 en todos los lados da -4 < 2x < 14. Al dividir por 2, obtenemos -2 < x < 7, lo que corresponde al intervalo abierto (-2, 7).
 
 ---
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v14
 **Bloom:** Apply
 **EJE:** Pensamiento Numérico y Sistemas de Datos
@@ -302,7 +303,7 @@ Si el flujo diario óptimo F en litros por segundo debe cumplir simultáneamente
 El sistema se compone de: 1) 3F - 4 >= 11 -> F >= 5, es decir, el intervalo [5, inf). 2) 2F + 1 < 17 -> F < 8, es decir, (-inf, 8). La intersección de ambos intervalos es el intervalo semiabierto [5, 8).
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pensamiento Numérico y Sistemas de Datos
@@ -322,7 +323,7 @@ Si el coeficiente de presión p está restringido por la inecuación racional (p
 Los puntos críticos de la inecuación racional son p = 3 y p = -5. Analizando los signos de los intervalos, obtenemos que el cociente es negativo o cero en (-5, 3]. El punto -5 debe quedar abierto ya que anula al denominador, mientras que 3 queda cerrado.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
 **EJE:** Pensamiento Numérico y Sistemas de Datos
@@ -342,7 +343,7 @@ Sea el conjunto S = { x in R | x = 1 - 1/n, n in N }. ¿Cuáles son los valores 
 Para n = 1, el elemento es 0. A medida que n crece, los valores se aproximan a 1 de forma estrictamente creciente. Así, el ínfimo (que coincide con el mínimo) es 0 y el supremo es 1.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v17
 **Bloom:** Apply
 **EJE:** Pensamiento Numérico y Sistemas de Datos
@@ -362,7 +363,7 @@ Si el índice de acidez x cumple con la inecuación racional con valor absoluto 
 La inecuación se divide en: -1 < (2x - 1)/(x + 3) < 1. 1) (2x - 1)/(x + 3) > -1 -> (3x + 2)/(x + 3) > 0, lo que da (-inf, -3) U (-2/3, inf). 2) (2x - 1)/(x + 3) < 1 -> (x - 4)/(x + 3) < 0, lo que da (-3, 4). La intersección es el intervalo abierto (-2/3, 4).
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** Pensamiento Numérico y Sistemas de Datos
@@ -382,7 +383,7 @@ Si el error de aproximación E para un conjunto de datos espaciales cumple con l
 La inecuación se traduce en 1 < |x - 3| < 3. Esto da lugar a dos sistemas: 1) 1 < x - 3 < 3 -> 4 < x < 6. 2) -3 < x - 3 < -1 -> 0 < x < 2. Combinando ambas soluciones, se tiene la unión (0, 2) U (4, 6).
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Pensamiento Numérico y Sistemas de Datos
@@ -402,7 +403,7 @@ Si A y B son dos conjuntos de números reales no vacíos acotados tales que para
 Dado que a <= b para todo a en A y todo b en B, cualquier b fijo es una cota superior de A. Por tanto, sup(A) <= b. Como esta última desigualdad se cumple para cualquier b en B, entonces sup(A) es una cota inferior del conjunto B, lo que significa que sup(A) <= inf(B).
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BO-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Numérico y Sistemas de Datos

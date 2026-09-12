@@ -15,6 +15,7 @@ alignment: "MEC - Plan Común / SNEPE"
 license: "FREE"
 tier: "legacy"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 creador: "Jules-Agent"
 ---
 
@@ -22,7 +23,7 @@ creador: "Jules-Agent"
 **20 preguntas | Ciencias Sociales | MEC - Plan Común / SNEPE**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PY-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Geografía de Paraguay y de América
@@ -45,7 +46,7 @@ creador: "Jules-Agent"
 El río Paraguay divide de norte a sur al país en dos grandes regiones geográficas: la Oriental o Paraneña y la Occidental o Chaco.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PY-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Geografía de Paraguay y de América
@@ -68,7 +69,7 @@ El río Paraguay divide de norte a sur al país en dos grandes regiones geográf
 La cordillera del Ybytyruzú contiene al cerro Tres Kandu, la cumbre más alta del Paraguay con 842 metros.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PY-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Geografía de Paraguay y de América
@@ -91,7 +92,7 @@ La cordillera del Ybytyruzú contiene al cerro Tres Kandu, la cumbre más alta d
 La hidrografía paraguaya pertenece en su totalidad a la cuenca del Plata, la segunda cuenca más grande de América del Sur.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PY-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Geografía de Paraguay y de América
@@ -114,7 +115,7 @@ La hidrografía paraguaya pertenece en su totalidad a la cuenca del Plata, la se
 La gran elevación de la cordillera de los Andes bloquea las masas de aire húmedas provenientes del Pacífico, haciendo que los vientos desciendan secos sobre la vertiente oriental.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PY-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Geografía de Paraguay y de América
@@ -137,7 +138,7 @@ La gran elevación de la cordillera de los Andes bloquea las masas de aire húme
 La Región Oriental es húmeda, ondulada, con suelos fértiles para la agricultura, mientras que el Chaco (Occidental) es una llanura aluvial de clima seco y vegetación espinosa.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PY-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Geografía de Paraguay y de América
@@ -160,7 +161,7 @@ La Región Oriental es húmeda, ondulada, con suelos fértiles para la agricultu
 La hidrovía Paraguay-Paraná es un corredor de transporte fluvial natural que permite el acceso al océano Atlántico para los países mediterráneos del Cono Sur.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PY-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Geografía de Paraguay y de América
@@ -183,7 +184,7 @@ La hidrovía Paraguay-Paraná es un corredor de transporte fluvial natural que p
 La mediterraneidad geográfica del Paraguay es un factor estructural que históricamente ha condicionado su desarrollo económico y su logística de comercio exterior.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PY-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Geografía de Paraguay y de América
@@ -206,7 +207,7 @@ Si se observa la distribución espacial de las lluvias en el territorio paraguay
 Paraguay posee una gradiente de precipitaciones decreciente de este a oeste por la influencia de las masas de aire húmedo del Atlántico sobre el oriente.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PY-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Geografía de Paraguay y de América
@@ -229,7 +230,7 @@ Paraguay posee una gradiente de precipitaciones decreciente de este a oeste por 
 El Acuífero Guaraní es uno de los mayores reservorios de agua dulce del mundo, extendiéndose por debajo de la cuenca del Paraná.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PY-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Geografía de Paraguay y de América
@@ -252,7 +253,7 @@ El Acuífero Guaraní es uno de los mayores reservorios de agua dulce del mundo,
 El quebracho es el árbol símbolo de la llanura chaqueña, clave en la economía forestal de fines del siglo XIX.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PY-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Geografía de Paraguay y de América
@@ -275,7 +276,7 @@ Al comparar el bioma de la Región Oriental paraguaya con el bioma del Cerrado b
 El este de Paraguay forma parte del Bosque Atlántico (BAAPA), mientras que el norte recibe la influencia del Cerrado brasileño.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PY-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Geografía de Paraguay y de América
@@ -298,7 +299,7 @@ El este de Paraguay forma parte del Bosque Atlántico (BAAPA), mientras que el n
 La planicie del Chaco tiene una pendiente mínima. Al haber lluvias intensas o crecidas fluviales, los suelos arcillosos impermeables favorecen inundaciones temporales masivas.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PY-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Geografía de Paraguay y de América
@@ -321,7 +322,7 @@ Desde el punto de vista geopolítico y geográfico, ¿cuál es el beneficio estr
 La co-soberanía de los ríos Paraná y Paraguay le confiere al país un posicionamiento hidroenergético de primer orden mundial e instrumentos de libre navegación fluvial.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PY-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Geografía de Paraguay y de América
@@ -344,7 +345,7 @@ La co-soberanía de los ríos Paraná y Paraguay le confiere al país un posicio
 La expansión de la soja transformó drásticamente el uso de suelo en la Región Oriental del país durante las últimas décadas del siglo XX.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PY-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Geografía de Paraguay y de América
@@ -367,7 +368,7 @@ La conservación del sistema de humedales del departamento de Ñeembucú es prio
 Los humedales del Ñeembucú regulan las crecidas fluviales y albergan un ecosistema de alta biodiversidad en el suroeste del país.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PY-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Geografía de Paraguay y de América
@@ -390,7 +391,7 @@ Los humedales del Ñeembucú regulan las crecidas fluviales y albergan un ecosis
 El Niño genera lluvias superiores a la media histórica, saturando los suelos y desencadenando importantes inundaciones ribereñas en el Paraguay.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PY-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Geografía de Paraguay y de América
@@ -413,7 +414,7 @@ El Niño genera lluvias superiores a la media histórica, saturando los suelos y
 La geografía física y climática condicionó decisivamente el patrón de asentamiento humano en Paraguay desde los periodos prehispánico y colonial.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PY-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Geografía de Paraguay y de América
@@ -436,7 +437,7 @@ Al juzgar el impacto del trazado de la Ruta Bioceánica que atraviesa el Chaco p
 La Ruta Bioceánica revaloriza y conecta estratégicamente el Chaco paraguayo con los puertos oceánicos comerciales de Brasil y Chile.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PY-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Geografía de Paraguay y de América
@@ -459,7 +460,7 @@ Al evaluar las estrategias de conservación de suelos en las zonas agrícolas de
 El sistema de siembra directa revolucionó la agricultura del Paraguay al contrarrestar la destructiva erosión hídrica en las llanuras onduladas húmedas de la Región Oriental.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PY-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Geografía de Paraguay y de América

@@ -15,6 +15,7 @@ alignment: "MEC - Plan Común / SNEPE"
 license: "FREE"
 tier: "legacy"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 creador: "Jules-Agent"
 ---
 
@@ -22,7 +23,7 @@ creador: "Jules-Agent"
 **20 preguntas | Ciencias Sociales | MEC - Plan Común / SNEPE**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Historia del Paraguay del siglo XX
@@ -45,7 +46,7 @@ creador: "Jules-Agent"
 El régimen del Gral. Alfredo Stroessner controló al país de forma totalitaria amparado en el Partido Colorado y las Fuerzas Armadas.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Historia del Paraguay del siglo XX
@@ -68,7 +69,7 @@ El régimen del Gral. Alfredo Stroessner controló al país de forma totalitaria
 Itaipú proveyó abundancia de energía limpia al Paraguay y deparó un colosal auge económico de construcción y especulación inmobiliaria en los años 1970.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Historia del Paraguay del siglo XX
@@ -91,7 +92,7 @@ Itaipú proveyó abundancia de energía limpia al Paraguay y deparó un colosal 
 El control stronista se basó en el sometimiento partidario obligatorio de los empleados públicos al coloradismo y la obediencia estricta de las fuerzas militares.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Historia del Paraguay del siglo XX
@@ -114,7 +115,7 @@ El control stronista se basó en el sometimiento partidario obligatorio de los e
 La enmienda del artículo 120 de la Constitución de 1967 legalizó el continuismo indefinido de Stroessner, rompiendo barreras institucionales.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Historia del Paraguay del siglo XX
@@ -137,7 +138,7 @@ La enmienda del artículo 120 de la Constitución de 1967 legalizó el continuis
 El Estado de Sitio permanente dotó a la policía stronista (dirigida por jefes represores) de un paraguas de impunidad legal absoluta para asfixiar la disidencia.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Historia del Paraguay del siglo XX
@@ -160,7 +161,7 @@ El Estado de Sitio permanente dotó a la policía stronista (dirigida por jefes 
 El hallazgo del Archivo del Terror constituyó un hito histórico de derechos humanos de repercusión mundial, exponiendo los alcances criminales del Plan Cóndor.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Historia del Paraguay del siglo XX
@@ -183,7 +184,7 @@ El hallazgo del Archivo del Terror constituyó un hito histórico de derechos hu
 La destrucción violenta de las Ligas Agrarias Cristianas cercenó una de las experiencias organizativas más ricas del campesinado paraguayo contemporáneo.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Historia del Paraguay del siglo XX
@@ -206,7 +207,7 @@ La destrucción violenta de las Ligas Agrarias Cristianas cercenó una de las ex
 La Iglesia católica paraguaya se erigió en el baluarte moral de la resistencia civil stronista, proveyendo espacios de libre expresión cívica.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Historia del Paraguay del siglo XX
@@ -229,7 +230,7 @@ La Iglesia católica paraguaya se erigió en el baluarte moral de la resistencia
 El golpe del 3 de febrero de 1989 es recordado como el 'gesto libertador', abriendo las compuertas a las postergadas reformas democráticas cívicas.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Historia del Paraguay del siglo XX
@@ -252,7 +253,7 @@ El golpe del 3 de febrero de 1989 es recordado como el 'gesto libertador', abrie
 El informe oficial de la Comisión de Verdad y Justicia (CVJ) documentó que cerca de 8 millones de hectáreas de tierras públicas fueron usurpadas bajo la denominación de 'tierras malhabidas'.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Historia del Paraguay del siglo XX
@@ -275,7 +276,7 @@ La construcción de la represa de Itaipú en los años 1970 introdujo de forma m
 El auge económico de Itaipú (1973-1981) expandió el sector comercial y financiero del Paraguay, consolidando el poder de la clientela stronista contratista.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Historia del Paraguay del siglo XX
@@ -298,7 +299,7 @@ El auge económico de Itaipú (1973-1981) expandió el sector comercial y financ
 El Acuerdo Nacional articuló las demandas de apertura democrática cívica de los partidos históricos clandestinos proscritos o perseguidos.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Historia del Paraguay del siglo XX
@@ -321,7 +322,7 @@ A pesar de la copropiedad del río Paraná, ¿qué controvertida estipulación d
 El reclamo de 'libre disponibilidad de energía' y de justa compensación de la tarifa hidroeléctrica de Itaipú constituye una de las mayores banderas de la diplomacia paraguaya contemporánea.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Historia del Paraguay del siglo XX
@@ -344,7 +345,7 @@ El reclamo de 'libre disponibilidad de energía' y de justa compensación de la 
 La censura y clausura del diario ABC Color y de radio Ñandutí demostraron el desprecio stronista por la libertad de prensa y de pensamiento.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Historia del Paraguay del siglo XX
@@ -367,7 +368,7 @@ La insurrección militar que derrocó de forma definitiva a Stroessner en febrer
 La implosión política colorada entre militantes estrionistas del 'cuatrinomio de oro' y tradicionalistas históricos pavimentó la caída armada de la dictadura.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Historia del Paraguay del siglo XX
@@ -390,7 +391,7 @@ La implosión política colorada entre militantes estrionistas del 'cuatrinomio 
 Las heroicas protestas del Hospital de Clínicas canalizaron el valiente despertar cívico de la sociedad paraguaya en las postrimerías del stronismo.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Historia del Paraguay del siglo XX
@@ -413,7 +414,7 @@ Al evaluar críticamente la controvertida y prolongada gestión política de Alf
 El stronismo es objeto de encendidos debates, donde los revisionistas democráticos exponen las graves violaciones y represión sistemática a opositores políticos.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Historia del Paraguay del siglo XX
@@ -436,7 +437,7 @@ Al juzgar el impacto del Plan Cóndor represivo transnacional sudamericano en el
 El Plan Cóndor, respaldado por documentos del Archivo del Terror, constituye una vergonzosa página de terrorismo de Estado multinacional en el Cono Sur.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Historia del Paraguay del siglo XX
@@ -459,7 +460,7 @@ Al evaluar críticamente las causas de la persistente exclusión campesina agrar
 La adjudicación de tierras malhabidas stronistas trabó la reforma agraria paraguaya, cimentando una de las estructuras de tenencia de la tierra más desiguales del planeta.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Historia del Paraguay del siglo XX

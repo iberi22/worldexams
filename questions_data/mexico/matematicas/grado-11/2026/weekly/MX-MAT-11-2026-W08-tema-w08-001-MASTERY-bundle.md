@@ -13,6 +13,7 @@ total_questions: 20
 bundle_size: 20
 alignment: "SEP NEM Mexico 2026 / EXANI-II pensamiento matematico"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -41,7 +42,7 @@ Dada la función cuadrática f(x) = x² - 6x + 8, ¿cuáles son las coordenadas 
 ### Explicacion Pedagogica
 Para una parábola y = ax² + bx + c, el vértice (h, k) se calcula con h = -b/(2a). Para f(x) = x² - 6x + 8, tenemos a = 1, b = -6. Por lo tanto, h = -(-6)/(2*1) = 3. Sustituyendo h en la función para hallar k: k = f(3) = 3² - 6(3) + 8 = 9 - 18 + 8 = -1. El vértice es (3, -1).
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Matemático
@@ -87,7 +88,7 @@ Determina si la parábola asociada a la función cuadrática f(x) = 3x² - 4x + 
 ### Explicacion Pedagogica
 La concavidad de la parábola depende del signo del coeficiente principal a (término de x²). En f(x) = 3x² - 4x + 1, el coeficiente principal es 3, que es positivo (3 > 0). Por lo tanto, la parábola es cóncava hacia arriba (abre hacia arriba).
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** MX-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -133,7 +134,7 @@ Determina si la parábola asociada a la función cuadrática f(x) = 5x² - 4x + 
 ### Explicacion Pedagogica
 La concavidad de la parábola depende del signo del coeficiente principal a (término de x²). En f(x) = 5x² - 4x + 1, el coeficiente principal es 5, que es positivo (5 > 0). Por lo tanto, la parábola es cóncava hacia arriba (abre hacia arriba).
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** MX-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -179,7 +180,7 @@ Determina si la parábola asociada a la función cuadrática f(x) = 7x² - 4x + 
 ### Explicacion Pedagogica
 La concavidad de la parábola depende del signo del coeficiente principal a (término de x²). En f(x) = 7x² - 4x + 1, el coeficiente principal es 7, que es positivo (7 > 0). Por lo tanto, la parábola es cóncava hacia arriba (abre hacia arriba).
 
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -225,7 +226,7 @@ Determina si la parábola asociada a la función cuadrática f(x) = 9x² - 4x + 
 ### Explicacion Pedagogica
 La concavidad de la parábola depende del signo del coeficiente principal a (término de x²). En f(x) = 9x² - 4x + 1, el coeficiente principal es 9, que es positivo (9 > 0). Por lo tanto, la parábola es cóncava hacia arriba (abre hacia arriba).
 
-## Question 10 [D5]
+## Question 10 [D5-D6]
 **ID:** MX-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -271,7 +272,7 @@ Determina si la parábola asociada a la función cuadrática f(x) = 11x² - 4x +
 ### Explicacion Pedagogica
 La concavidad de la parábola depende del signo del coeficiente principal a (término de x²). En f(x) = 11x² - 4x + 1, el coeficiente principal es 11, que es positivo (11 > 0). Por lo tanto, la parábola es cóncava hacia arriba (abre hacia arriba).
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** MX-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -317,7 +318,7 @@ Determina si la parábola asociada a la función cuadrática f(x) = 13x² - 4x +
 ### Explicacion Pedagogica
 La concavidad de la parábola depende del signo del coeficiente principal a (término de x²). En f(x) = 13x² - 4x + 1, el coeficiente principal es 13, que es positivo (13 > 0). Por lo tanto, la parábola es cóncava hacia arriba (abre hacia arriba).
 
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Pensamiento Matemático
@@ -363,7 +364,7 @@ Determina si la parábola asociada a la función cuadrática f(x) = 15x² - 4x +
 ### Explicacion Pedagogica
 La concavidad de la parábola depende del signo del coeficiente principal a (término de x²). En f(x) = 15x² - 4x + 1, el coeficiente principal es 15, que es positivo (15 > 0). Por lo tanto, la parábola es cóncava hacia arriba (abre hacia arriba).
 
-## Question 16 [D7]
+## Question 16 [D7-D8]
 **ID:** MX-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Pensamiento Matemático
@@ -409,7 +410,7 @@ Determina si la parábola asociada a la función cuadrática f(x) = 17x² - 4x +
 ### Explicacion Pedagogica
 La concavidad de la parábola depende del signo del coeficiente principal a (término de x²). En f(x) = 17x² - 4x + 1, el coeficiente principal es 17, que es positivo (17 > 0). Por lo tanto, la parábola es cóncava hacia arriba (abre hacia arriba).
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático
@@ -455,7 +456,7 @@ Determina si la parábola asociada a la función cuadrática f(x) = 19x² - 4x +
 ### Explicacion Pedagogica
 La concavidad de la parábola depende del signo del coeficiente principal a (término de x²). En f(x) = 19x² - 4x + 1, el coeficiente principal es 19, que es positivo (19 > 0). Por lo tanto, la parábola es cóncava hacia arriba (abre hacia arriba).
 
-## Question 20 [D9]
+## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático

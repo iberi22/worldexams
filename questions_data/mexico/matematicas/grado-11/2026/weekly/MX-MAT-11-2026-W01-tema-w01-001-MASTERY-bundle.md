@@ -13,6 +13,7 @@ total_questions: 20
 bundle_size: 20
 alignment: "SEP NEM Mexico 2026 / EXANI-II pensamiento matematico"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -41,7 +42,7 @@ Si compra 5 kilos de dulces a un precio de $120 pesos por kilo y la tienda le ap
 ### Explicacion Pedagogica
 Primero, se multiplica el peso de los dulces por el precio por kilo para obtener el precio total original: 5 kg * $120 MXN/kg = $600 MXN. Posteriormente, se calcula el valor del descuento del 15%: $600 MXN * 0.15 = $90 MXN. Restando el descuento del costo inicial: $600 MXN - $90 MXN = $510 MXN.
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Matemático
@@ -87,7 +88,7 @@ Si la primera bodega recibe el 40% de la cosecha total, la segunda recibe el 35%
 ### Explicacion Pedagogica
 Sumando los porcentajes asignados a las dos primeras bodegas obtenemos: 40% + 35% = 75%. El resto para la tercera bodega equivale al 100% - 75% = 25% del total de la cosecha. Sabemos que este 25% equivale a 5 toneladas. Para hallar la producción total (T), planteamos: T * 0.25 = 5 toneladas, por lo tanto, T = 5 / 0.25 = 20 toneladas.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** MX-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -133,7 +134,7 @@ La temperatura inicial del sistema es de -12°C. Si después de agregar nitróge
 ### Explicacion Pedagogica
 El término 'descender' indica una resta aritmética. Partiendo de una temperatura de -12°C, restamos 15°C: Temp = -12 - 15. Al sumar dos números con el mismo signo, sumamos sus valores absolutos (12 + 15 = 27) y conservamos el signo negativo, obteniendo -27°C.
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** MX-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -179,7 +180,7 @@ La mezcla requiere una proporción de 2 bultos de cemento por cada 5 bultos de a
 ### Explicacion Pedagogica
 La proporción establecida es de 2 bultos de cemento por cada 5 bultos de arena (2/5). Si se usan 14 bultos de cemento, se plantea la ecuación: 2/5 = 14/x. Despejando x para hallar la cantidad de arena: x = (14 * 5) / 2 = 70 / 2 = 35 bultos de arena.
 
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -225,7 +226,7 @@ En su primer día de entrenamiento recorre 8.2 km, en el segundo día recorre 10
 ### Explicacion Pedagogica
 Primero, se convierte la fracción mixta del segundo día a decimal: 10 3/5 = 10 + 0.6 = 10.6 km. Sumamos las distancias de los tres días de entrenamiento: 8.2 + 10.6 + 9.4 = 28.2 km totales. El promedio se calcula dividiendo la suma entre el número de días: 28.2 km / 3 = 9.4 km.
 
-## Question 10 [D5]
+## Question 10 [D5-D6]
 **ID:** MX-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -271,7 +272,7 @@ Si mezcla café de Chiapas que cuesta $180 pesos el kilo con café de Veracruz q
 ### Explicacion Pedagogica
 Definimos x como los kilos de Chiapas e y como los de Veracruz. El sistema es: (1) x + y = 20; (2) 180x + 140y = 155(20). Multiplicamos (1) por 140: 140x + 140y = 2800. Restamos esto de (2): 40x = 300, lo que da x = 7.5 kilos de Chiapas.
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** MX-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -317,7 +318,7 @@ Si se tiene un factor de descuento representado por la fracción -3/8, ¿cuál e
 ### Explicacion Pedagogica
 El inverso aditivo de un número x es aquel que sumado con x da cero, por lo tanto es -x, lo que da -(-3/8) = 3/8. El recíproco o inverso multiplicativo es aquel que multiplicado por x da uno, es decir 1/x, lo que para una fracción a/b es b/a, resultando en -8/3.
 
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Pensamiento Matemático
@@ -363,7 +364,7 @@ Si el punto A está a 4/3 metros sobre el nivel de referencia, el punto B está 
 ### Explicacion Pedagogica
 Para encontrar el punto medio exacto en la recta numérica entre dos valores, sumamos ambos valores y los dividimos entre 2. Sumando las fracciones: 4/3 + 1/2 = (8 + 3) / 6 = 11/6. Dividiendo el resultado entre 2: (11/6) / 2 = 11/12 metros.
 
-## Question 16 [D7]
+## Question 16 [D7-D8]
 **ID:** MX-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Pensamiento Matemático
@@ -409,7 +410,7 @@ La propiedad de cerradura (o clausura) indica que al realizar una operación mat
 ### Explicacion Pedagogica
 Un exponente negativo invierte la base fraccionaria: (a/b)⁻ⁿ = (b/a)ⁿ. Por lo tanto, (1/4)⁻² = (4/1)² = 4² = 16. De la misma manera, (1/3)⁻³ = (3/1)³ = 3³ = 27. Sumando ambos términos simplificados obtenemos: 16 + 27 = 43.
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático
@@ -455,7 +456,7 @@ Si definimos una variable real x = 0.999..., ¿cuál es el valor real exacto de 
 ### Explicacion Pedagogica
 Podemos demostrarlo planteando: sea x = 0.999... Multiplicamos por 10 en ambos lados: 10x = 9.999... Restamos la primera ecuación de la segunda: 10x - x = 9.999... - 0.999... Esto nos da 9x = 9. Despejando x obtenemos x = 9/9 = 1.
 
-## Question 20 [D9]
+## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático

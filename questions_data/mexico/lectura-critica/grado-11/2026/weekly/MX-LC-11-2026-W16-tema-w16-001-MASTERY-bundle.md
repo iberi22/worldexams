@@ -13,12 +13,13 @@ total_questions: 20
 bundle_size: 20
 alignment: "CENEVAL EXANI-II"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** MX-LC-11-2026-W16-tema-w16-001-v001
 **Bloom:** Remember
 **EJE:** EXANI-II Comprensión Lectora
@@ -44,7 +45,7 @@ El fragmento señala textualmente y describe la relevancia de Décima Musa como 
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** MX-LC-11-2026-W16-tema-w16-001-v002
 **Bloom:** Remember
 **EJE:** EXANI-II Comprensión Lectora
@@ -70,7 +71,7 @@ El texto cita que Primero Sueño interviene como una de las causas directas en l
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** MX-LC-11-2026-W16-tema-w16-001-v003
 **Bloom:** Understand
 **EJE:** EXANI-II Comprensión Lectora
@@ -96,7 +97,7 @@ La dinámica de derecho intelectual sirve para ilustrar que los procesos estudia
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** MX-LC-11-2026-W16-tema-w16-001-v004
 **Bloom:** Understand
 **EJE:** EXANI-II Comprensión Lectora
@@ -122,7 +123,7 @@ El concepto de virtuosismo barroco representa el instrumento metodológico o bio
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** MX-LC-11-2026-W16-tema-w16-001-v005
 **Bloom:** Understand
 **EJE:** EXANI-II Comprensión Lectora
@@ -148,7 +149,7 @@ Frente a convento de San Jerónimo, el autor rechaza la rigidez conceptual, prop
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** MX-LC-11-2026-W16-tema-w16-001-v006
 **Bloom:** Understand
 **EJE:** EXANI-II Comprensión Lectora
@@ -174,7 +175,7 @@ La integridad de barroco americano es indispensable: su destrucción o fragmenta
 
 ---
 
-## Question 7 [D6]
+## Question 7 [D5-D6]
 **ID:** MX-LC-11-2026-W16-tema-w16-001-v007
 **Bloom:** Apply
 **EJE:** EXANI-II Comprensión Lectora
@@ -200,7 +201,7 @@ Involucrar activamente a un ensayista de género en el resguardo de la cuenca o 
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** MX-LC-11-2026-W16-tema-w16-001-v008
 **Bloom:** Apply
 **EJE:** EXANI-II Comprensión Lectora
@@ -226,7 +227,7 @@ El rol de un defensa de Sor Juana encarna la transición ética indispensable: e
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** MX-LC-11-2026-W16-tema-w16-001-v009
 **Bloom:** Apply
 **EJE:** EXANI-II Comprensión Lectora
@@ -252,7 +253,7 @@ La comparación con redondillas poéticas resalta el principio de ecología sist
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** MX-LC-11-2026-W16-tema-w16-001-v010
 **Bloom:** Apply
 **EJE:** EXANI-II Comprensión Lectora
@@ -278,7 +279,7 @@ La degradación continuada de ingenio femenino ilustra que la omisión de límit
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** MX-LC-11-2026-W16-tema-w16-001-v011
 **Bloom:** Apply
 **EJE:** EXANI-II Comprensión Lectora
@@ -304,7 +305,7 @@ Delegar programas de inclusión a Jaime Sabines concretiza el ideal de justicia 
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** MX-LC-11-2026-W16-tema-w16-001-v012
 **Bloom:** Apply
 **EJE:** EXANI-II Comprensión Lectora
@@ -330,7 +331,7 @@ La brecha provocada por habla cotidiana segrega a la población, privando a los 
 
 ---
 
-## Question 13 [D8]
+## Question 13 [D7-D8]
 **ID:** MX-LC-11-2026-W16-tema-w16-001-v013
 **Bloom:** Analyze
 **EJE:** EXANI-II Comprensión Lectora
@@ -356,7 +357,7 @@ La macrocefalia institucional asume una jerarquía de legitimidad, concentrando 
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** MX-LC-11-2026-W16-tema-w16-001-v014
 **Bloom:** Analyze
 **EJE:** EXANI-II Comprensión Lectora
@@ -382,7 +383,7 @@ Destacar los costos y la complejidad física de instalar poesía pedestre técni
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** MX-LC-11-2026-W16-tema-w16-001-v015
 **Bloom:** Analyze
 **EJE:** EXANI-II Comprensión Lectora
@@ -408,7 +409,7 @@ El empoderamiento periférico asume que los ciudadanos no deben ser meros recept
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** MX-LC-11-2026-W16-tema-w16-001-v016
 **Bloom:** Analyze
 **EJE:** EXANI-II Comprensión Lectora
@@ -434,7 +435,7 @@ La concentración de la validación o del abasto bajo el sesgo de soledad urbana
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** MX-LC-11-2026-W16-tema-w16-001-v017
 **Bloom:** Evaluate
 **EJE:** EXANI-II Comprensión Lectora
@@ -460,7 +461,7 @@ El autor adopta un tono comprometido con las reformas que integran antólogo po�
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** MX-LC-11-2026-W16-tema-w16-001-v018
 **Bloom:** Evaluate
 **EJE:** EXANI-II Comprensión Lectora
@@ -486,7 +487,7 @@ Oponerse a criterios puramente emocional directo reivindica que el éxito de una
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** MX-LC-11-2026-W16-tema-w16-001-v019
 **Bloom:** Evaluate
 **EJE:** EXANI-II Comprensión Lectora
@@ -512,7 +513,7 @@ Ambos textos revelan que el centralismo es un modelo insostenible: desborda los 
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** MX-LC-11-2026-W16-tema-w16-001-v020
 **Bloom:** Evaluate
 **EJE:** EXANI-II Comprensión Lectora

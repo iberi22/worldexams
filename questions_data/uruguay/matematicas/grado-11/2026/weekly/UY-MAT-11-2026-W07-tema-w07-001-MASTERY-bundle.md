@@ -16,11 +16,12 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle — Matemáticas: Trigonometría (UY-MAT-11-W07)
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Geométrico
@@ -39,7 +40,7 @@ En un triángulo rectángulo, el seno de un ángulo agudo se define como:
 ### Explicación Pedagógica
 Las tres razones básicas son: seno (opuesto/hipotenusa), coseno (adyacente/hipotenusa) y tangente (opuesto/adyacente). Memorizarlas con la palabra SOH-CAH-TOA ayuda.
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Geométrico
@@ -58,7 +59,7 @@ Las tres razones básicas son: seno (opuesto/hipotenusa), coseno (adyacente/hipo
 ### Explicación Pedagógica
 En el triángulo 30°-60°-90°, el cateto opuesto a 30° mide la mitad de la hipotenusa, por eso $\sin 30° = \frac{1}{2}$.
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Geométrico
@@ -77,7 +78,7 @@ En el triángulo 30°-60°-90°, el cateto opuesto a 30° mide la mitad de la hi
 ### Explicación Pedagógica
 La equivalencia base es $180° = \pi$ radianes; de ahí se derivan todas las demás por proporcionalidad.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Geométrico
@@ -96,7 +97,7 @@ La equivalencia base es $180° = \pi$ radianes; de ahí se derivan todas las dem
 ### Explicación Pedagógica
 En el círculo unitario, las coordenadas de un punto son $(\cos \alpha, \sin \alpha)$ y el radio es 1: $\sin^2 \alpha + \cos^2 \alpha = 1$ por Pitágoras.
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Pensamiento Geométrico
@@ -115,7 +116,7 @@ En el círculo unitario, las coordenadas de un punto son $(\cos \alpha, \sin \al
 ### Explicación Pedagógica
 En el círculo unitario, el seno es la coordenada $y$ y el coseno la $x$. El segundo cuadrante tiene $y > 0$ y $x < 0$.
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** Pensamiento Geométrico
@@ -134,7 +135,7 @@ Un edificio proyecta una sombra de $20$ m cuando el ángulo de elevación del So
 ### Explicación Pedagógica
 Con ángulo de 45°, el triángulo es isósceles: $\tan 45° = 1$, por lo que la altura iguala a la sombra: 20 m.
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Pensamiento Geométrico
@@ -153,7 +154,7 @@ Una escalera de $10$ m forma un ángulo de $60°$ con el suelo. ¿A qué altura 
 ### Explicación Pedagógica
 La altura es el cateto opuesto al ángulo: $h = 10 \cdot \sin 60° = 5\sqrt{3} \approx 8.66$ m.
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Geométrico
@@ -172,7 +173,7 @@ Si $\cos \alpha = \frac{3}{5}$ en un triángulo rectángulo con hipotenusa $15$,
 ### Explicación Pedagógica
 Del coseno: adyacente $= \cos \alpha \times$ hipotenusa $= \frac{3}{5} \cdot 15 = 9$. Por Pitágoras, el opuesto sería 12.
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Pensamiento Geométrico
@@ -191,7 +192,7 @@ Si $\sin \alpha = \frac{4}{5}$ y $\cos \alpha = \frac{3}{5}$, ¿cuánto vale $\t
 ### Explicación Pedagógica
 La tangente es el cociente seno sobre coseno: $\frac{4/5}{3/5} = \frac{4}{3}$; las hipotenusas se cancelan.
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Geométrico
@@ -210,7 +211,7 @@ Expresa $60°$ en radianes.
 ### Explicación Pedagógica
 Multiplicando por $\frac{\pi}{180}$: $60° = \frac{60\pi}{180} = \frac{\pi}{3}$ radianes.
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Pensamiento Geométrico
@@ -229,7 +230,7 @@ Multiplicando por $\frac{\pi}{180}$: $60° = \frac{60\pi}{180} = \frac{\pi}{3}$ 
 ### Explicación Pedagógica
 Como $\tan = \frac{\sin}{\cos}$, es positiva cuando ambos coinciden en signo: primer cuadrante (+/+) y tercero (−/−).
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Pensamiento Geométrico
@@ -248,7 +249,7 @@ Como $\tan = \frac{\sin}{\cos}$, es positiva cuando ambos coinciden en signo: pr
 ### Explicación Pedagógica
 El seno recorre su ciclo completo (sube, baja, vuelve) en una vuelta del círculo unitario: período $2\pi$.
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Pensamiento Geométrico
@@ -267,7 +268,7 @@ Si $\alpha$ y $\beta$ son ángulos agudos complementarios ($\alpha + \beta = 90�
 ### Explicación Pedagógica
 En el triángulo rectángulo, el cateto opuesto a $\alpha$ es el adyacente a $\beta$: por eso $\sin \alpha = \cos \beta$ cuando son complementarios.
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v14
 **Bloom:** Apply
 **EJE:** Pensamiento Geométrico
@@ -286,7 +287,7 @@ En un triángulo rectángulo, los catetos miden $5$ y $12$. ¿Cuánto mide la hi
 ### Explicación Pedagógica
 Pitágoras: $c = \sqrt{5^2 + 12^2} = \sqrt{169} = 13$. La terna 5-12-13 es una de las pitagóricas clásicas.
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pensamiento Geométrico
@@ -305,7 +306,7 @@ Si $\tan \alpha = 1$ y $\alpha$ es agudo, ¿cuánto mide $\alpha$?
 ### Explicación Pedagógica
 $\tan \alpha = 1$ significa catetos iguales: el triángulo es isósceles y el ángulo agudo es 45°.
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Pensamiento Geométrico
@@ -324,7 +325,7 @@ $\tan \alpha = 1$ significa catetos iguales: el triángulo es isósceles y el á
 ### Explicación Pedagógica
 En el círculo unitario, el coseno es la coordenada $x$, acotada entre $-1$ y $1$. Cualquier ecuación $\cos x = k$ con $|k| > 1$ es imposible en los reales.
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Pensamiento Geométrico
@@ -343,7 +344,7 @@ En el círculo unitario, el coseno es la coordenada $x$, acotada entre $-1$ y $1
 ### Explicación Pedagógica
 Los ángulos del segundo cuadrante tienen seno positivo por simetría con el primero: $\sin 150° = \sin 30° = 0.5$. El signo lo da la coordenada $y$ del círculo unitario.
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Geométrico
@@ -362,7 +363,7 @@ Para hallar la altura de un cerro, un topógrafo mide desde un punto a $100$ m d
 ### Explicación Pedagógica
 Con el ángulo y el cateto adyacente (distancia horizontal), la tangente vincula directamente con el opuesto (altura): procedimiento correcto.
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Pensamiento Geométrico
@@ -381,7 +382,7 @@ Con el ángulo y el cateto adyacente (distancia horizontal), la tangente vincula
 ### Explicación Pedagógica
 La distancia es la hipotenusa: $\sqrt{9 + 16} = 5$ km. El rumbo desde el este cumple $\tan \theta = \frac{4}{3}$, así $\theta \approx 53.1°$.
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Geométrico

@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Lengua: Tema W08 (W08)
 **20 preguntas | Lengua | ANEP - Plan 2006 Reformulación / Programa Ubicación**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Comprensión de textos
@@ -46,7 +47,7 @@ Según el texto anterior, ¿en qué año se registró el primer antecedente docu
 La respuesta se localiza de manera directa y explícita en la tercera oración del fragmento histórico provisto.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Comprensión de textos
@@ -70,7 +71,7 @@ La respuesta se localiza de manera directa y explícita en la tercera oración d
 La respuesta se identifica de forma textual directa en el pasaje colonial del texto base provisto.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Comprensión de textos
@@ -94,7 +95,7 @@ De acuerdo con el texto provisto, ¿dónde nació de manera formal el concurso o
 El lector halla el sitio exacto del concurso identificando los nombres propios geográficos expresados literalmente en el texto.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Comprensión de textos
@@ -118,7 +119,7 @@ El lector halla el sitio exacto del concurso identificando los nombres propios g
 El hecho causal explícito figura de forma literal en la mitad del fragmento histórico del Carnaval uruguayo.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Comprensión de textos
@@ -142,7 +143,7 @@ Según los estudios del año 2021 de la UdelaR citados en el texto, ¿cuál es e
 La cifra exacta de consumo anual figura explícita y asociada a la UdelaR y al año 2021 en la primera mitad del texto base.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Comprensión de textos
@@ -166,7 +167,7 @@ De acuerdo con el fragmento descriptivo, ¿de qué zona geográfica proviene may
 El origen de importación de la yerba se enuncia textualmente con nombres de regiones y estados de Brasil en el tramo final del pasaje.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -190,7 +191,7 @@ El origen de importación de la yerba se enuncia textualmente con nombres de reg
 La causa física de la falta de cultivo nacional se enuncia de forma literal en la última oración del fragmento de yerba mate.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -214,7 +215,7 @@ Según el texto, ¿qué rasgo diferencial distingue al consumo de mate en Urugua
 La distinción del hábito de traslado móvil callejero uruguayo figura explícita en el cuerpo del texto de yerba mate.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -238,7 +239,7 @@ La distinción del hábito de traslado móvil callejero uruguayo figura explíci
 La fecha de declaración ecológica de la Unesco de Bañados del Este figura de manera literal al inicio del pasaje científico de Bañados del Este.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -262,7 +263,7 @@ Según el fragmento, ¿cuántas especies de aves migratorias se registran llegan
 La cantidad de especies migratorias norteñas del humedal de Bañados del Este figura de manera literal en el centro del fragmento geográfico de Bañados del Este.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -286,7 +287,7 @@ De acuerdo con el inventario botánico citado en el texto, ¿qué medida de per�
 La medida del tronco de los ombúes centenarios de Castillos figura explícita y asociada al inventario botánico en la última oración del fragmento geográfico de Bañados del Este.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -310,7 +311,7 @@ La medida del tronco de los ombúes centenarios de Castillos figura explícita y
 Los departamentos geográficos de extensión de Bañados del Este figuran explícitos al inicio del pasaje científico de Bañados del Este.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Comprensión de textos
@@ -334,7 +335,7 @@ Según el texto militar e histórico anterior, ¿en qué año asumió la corona 
 La fecha exacta de rediseño de piedra de Santa Teresa de la corona española figura explícita en la mitad del fragmento de historia militar de Santa Teresa.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Comprensión de textos
@@ -358,7 +359,7 @@ La fecha exacta de rediseño de piedra de Santa Teresa de la corona española fi
 El motivo diplomático de resguardo del fuerte de Santa Teresa figura explícito en la primera mitad de la crónica de Santa Teresa.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Comprensión de textos
@@ -382,7 +383,7 @@ Según el texto histórico, ¿en qué año cesaron las funciones militares del f
 La fecha exacta de abandono militar del fuerte de Santa Teresa figura de manera directa en el tramo final del pasaje de Santa Teresa.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Comprensión de textos
@@ -406,7 +407,7 @@ La fecha exacta de abandono militar del fuerte de Santa Teresa figura de manera 
 El nombre del arqueólogo restaurador de Santa Teresa y el año civil figuran de manera directa al final del pasaje de Santa Teresa.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Comprensión de textos
@@ -430,7 +431,7 @@ Evaluá críticamente la siguiente afirmación formulada por un alumno del liceo
 El examen de la verdad literal desmantela las falsas interpretaciones históricas. Confrontar las fechas y sucesos textuales del Carnaval uruguayo permite verificar la invalidez de la afirmación del alumno de Carnaval.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Comprensión de textos
@@ -454,7 +455,7 @@ Evaluá de forma crítica la siguiente afirmación comercial: 'Uruguay es un gra
 La verificación de datos denotativos textuales descarta los mitos comerciales agropecuarios. Confrontar el texto de mate de yerba demuestra que Uruguay importa de forma total el insumo debido a limitaciones climáticas de heladas.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Comprensión de textos
@@ -478,7 +479,7 @@ Evaluá de forma crítica este informe geográfico de Secundaria: 'Los Bañados 
 La competencia de lectura crítica y literal de Secundaria exige el cotejo minucioso de las unidades físicas y cifras de biodiversidad de Bañados del Este. Identificar las distorsiones de datos de Bañados del Este resguarda el rigor explicativo y conceptual de la geografía física nacional de Secundaria de Bañados del Este.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** UY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Comprensión de textos

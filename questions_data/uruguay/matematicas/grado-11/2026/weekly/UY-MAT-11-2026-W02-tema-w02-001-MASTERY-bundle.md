@@ -16,11 +16,12 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle — Matemáticas: Expresiones Algebraicas y Factorización (UY-MAT-11-W02)
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** UY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Algebraico
@@ -39,7 +40,7 @@ En la expresión $5x^3 - 2x + 7$, ¿cuántos términos tiene el polinomio?
 ### Explicación Pedagógica
 Un término es cada parte de la expresión separada por signos de suma o resta. El polinomio $5x^3 - 2x + 7$ tiene tres términos y es un trinomio.
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** UY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Algebraico
@@ -58,7 +59,7 @@ En el monomio $-8a^2b$, ¿cuál es el coeficiente?
 ### Explicación Pedagógica
 El coeficiente de un monomio es el número que multiplica a la parte literal, incluido su signo. En $-8a^2b$ el coeficiente es $-8$.
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** UY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Algebraico
@@ -77,7 +78,7 @@ Al reducir la expresión $3x + 5y - x + 2y$, se obtiene:
 ### Explicación Pedagógica
 Solo se suman o restan términos semejantes (misma parte literal). Agrupando: $(3x - x) + (5y + 2y) = 2x + 7y$.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** UY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Algebraico
@@ -96,7 +97,7 @@ Al desarrollar $3(a - 4)$ se obtiene:
 ### Explicación Pedagógica
 La propiedad distributiva exige multiplicar el factor por cada término del paréntesis: $3(a - 4) = 3a - 12$.
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** UY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Pensamiento Algebraico
@@ -115,7 +116,7 @@ Si una bolsa de arroz cuesta $a$ pesos y una de azúcar $b$ pesos, ¿qué expres
 ### Explicación Pedagógica
 Cada producto contribuye con cantidad por precio unitario: $4a$ por el arroz y $6b$ por el azúcar. El costo total es la suma $4a + 6b$.
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** UY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** Pensamiento Algebraico
@@ -134,7 +135,7 @@ Factoriza completamente la expresión $6x^2 + 9x$.
 ### Explicación Pedagógica
 Se extrae el máximo factor común de coeficientes (3) y de variables ($x$): $6x^2 + 9x = 3x(2x + 3)$. Verificá distribuyendo de vuelta.
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** UY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Pensamiento Algebraico
@@ -153,7 +154,7 @@ Factoriza la expresión $x^2 - 49$.
 ### Explicación Pedagógica
 La identidad $a^2 - b^2 = (a-b)(a+b)$ se aplica con $a = x$ y $b = 7$: $x^2 - 49 = (x-7)(x+7)$.
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** UY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Algebraico
@@ -172,7 +173,7 @@ Desarrolla $(x + 5)^2$.
 ### Explicación Pedagógica
 El trinomio cuadrado perfecto es $(a+b)^2 = a^2 + 2ab + b^2$. Con $a = x$ y $b = 5$: $x^2 + 10x + 25$.
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** UY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Pensamiento Algebraico
@@ -191,7 +192,7 @@ Factoriza el trinomio $x^2 + 7x + 12$.
 ### Explicación Pedagógica
 Para factorizar $x^2 + bx + c$ se buscan dos números con suma $b$ y producto $c$. Aquí $3 + 4 = 7$ y $3 \times 4 = 12$, así $x^2 + 7x + 12 = (x+3)(x+4)$.
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** UY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Algebraico
@@ -210,7 +211,7 @@ Si $a = 3$ y $b = -2$, ¿cuál es el valor de $2a^2 - 3b$?
 ### Explicación Pedagógica
 Sustituyendo: $2a^2 - 3b = 2(3^2) - 3(-2) = 18 + 6 = 24$. Cuidado: primero la potencia, luego los productos, y restar un negativo equivale a sumar.
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** UY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Pensamiento Algebraico
@@ -229,7 +230,7 @@ Sustituyendo: $2a^2 - 3b = 2(3^2) - 3(-2) = 18 + 6 = 24$. Cuidado: primero la po
 ### Explicación Pedagógica
 Desarrollar cada opción revela que $(x-3)^2$ incluye el término $-6x$. Las otras tres son reescrituras de la diferencia de cuadrados $x^2 - 9$.
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** UY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Pensamiento Algebraico
@@ -248,7 +249,7 @@ Un estudiante escribió $(2x - 3)^2 = 4x^2 - 9$. ¿Cuál es el término correcto
 ### Explicación Pedagógica
 $(2x-3)^2 = 4x^2 - 12x + 9$. El error típico es elevar término a término; el desarrollo correcto exige el doble producto $-12x$.
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** UY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Pensamiento Algebraico
@@ -267,7 +268,7 @@ Al multiplicar $(x + 4)(x - 2)$, el coeficiente del término lineal del resultad
 ### Explicación Pedagógica
 Desarrollando: $(x+4)(x-2) = x^2 - 2x + 4x - 8 = x^2 + 2x - 8$. El coeficiente lineal es la suma de los productos cruzados: $-2 + 4 = 2$.
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** UY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v14
 **Bloom:** Apply
 **EJE:** Pensamiento Algebraico
@@ -286,7 +287,7 @@ Simplifica la fracción algebraica $\frac{x^2 - 16}{x - 4}$, con $x \ne 4$.
 ### Explicación Pedagógica
 El numerador es diferencia de cuadrados: $x^2 - 16 = (x-4)(x+4)$. Cancelando $(x-4)$ con el denominador queda $x+4$, válido para $x \ne 4$.
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** UY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pensamiento Algebraico
@@ -305,7 +306,7 @@ De la fórmula $P = 2l + 2w$ (perímetro de un rectángulo), despeja $w$.
 ### Explicación Pedagógica
 Despejar exige operaciones inversas en ambos miembros: $P - 2l = 2w$, luego $w = \frac{P - 2l}{2}$. Cada término del numerador queda dividido por 2.
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** UY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Pensamiento Algebraico
@@ -324,7 +325,7 @@ Despejar exige operaciones inversas en ambos miembros: $P - 2l = 2w$, luego $w =
 ### Explicación Pedagógica
 Con el binomio de Newton o distributiva doble: $(x+3)^3 = x^3 + 3x^2(3) + 3x(9) + 27 = x^3 + 9x^2 + 27x + 27$. El coeficiente de $x^2$ es 9.
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** UY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Pensamiento Algebraico
@@ -343,7 +344,7 @@ Con el binomio de Newton o distributiva doble: $(x+3)^3 = x^3 + 3x^2(3) + 3x(9) 
 ### Explicación Pedagógica
 Una identidad es una igualdad verdadera para todo valor de las variables. Como $(x+2)^2$ desarrollado coincide exactamente con $x^2 + 4x + 4$, vale para todo real.
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** UY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Algebraico
@@ -362,7 +363,7 @@ Para factorizar completamente $2x^3 - 8x$, el procedimiento correcto es:
 ### Explicación Pedagógica
 Factorizar completamente exige llegar a factores irreducibles: $2x^3 - 8x = 2x(x^2 - 4) = 2x(x-2)(x+2)$. Detenerse en el paso intermedio deja la tarea a medias.
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** UY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Pensamiento Algebraico
@@ -381,7 +382,7 @@ Factorizar completamente exige llegar a factores irreducibles: $2x^3 - 8x = 2x(x
 ### Explicación Pedagógica
 Factorizando, $x^2 + 5x + 6 = (x+2)(x+3)$, así la fracción se reduce a $x+3$ siempre que $x \ne -2$. Simplificar no elimina las restricciones del dominio original.
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** UY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Algebraico

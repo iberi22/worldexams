@@ -16,9 +16,10 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BO-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Genética
@@ -43,7 +44,7 @@ La respuesta correcta es La ley de la segregación. Científicamente, esto se ex
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BO-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Genética
@@ -68,7 +69,7 @@ La respuesta correcta es El genotipo. Científicamente, esto se explica por la c
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BO-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Genética
@@ -93,7 +94,7 @@ La respuesta correcta es El fenotipo. Científicamente, esto se explica por la i
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BO-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Genética
@@ -118,7 +119,7 @@ La respuesta correcta es Homocigoto. Científicamente, esto se explica por la pr
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** BO-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Genética
@@ -143,7 +144,7 @@ La respuesta correcta es Heterocigoto. Científicamente, esto se explica por la 
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** BO-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Genética
@@ -168,7 +169,7 @@ La respuesta correcta es Cruces monohíbridos. Científicamente, esto se explica
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** BO-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v7
 **Bloom:** Understand
 **EJE:** Genética
@@ -193,7 +194,7 @@ La respuesta correcta es Proporción fenotípica 9:3:3:1. Científicamente, esto
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** BO-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Genética
@@ -218,7 +219,7 @@ La respuesta correcta es Dominancia incompleta. Científicamente, esto se explic
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** BO-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Genética
@@ -243,7 +244,7 @@ La respuesta correcta es Codominancia. Científicamente, esto se explica por la 
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** BO-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Genética
@@ -268,7 +269,7 @@ La respuesta correcta es Grupos sanguíneos abo. Científicamente, esto se expli
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BO-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Genética
@@ -293,7 +294,7 @@ La respuesta correcta es Herencia ligada al sexo. Científicamente, esto se expl
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BO-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Genética
@@ -318,7 +319,7 @@ La respuesta correcta es La hemofilia. Científicamente, esto se explica por la 
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BO-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Genética
@@ -343,7 +344,7 @@ La respuesta correcta es El daltonismo. Científicamente, esto se explica por la
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** BO-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v14
 **Bloom:** Apply
 **EJE:** Genética
@@ -368,7 +369,7 @@ La respuesta correcta es Árbol genealógico (pedigree). Científicamente, esto 
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** BO-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v15
 **Bloom:** Apply
 **EJE:** Genética
@@ -393,7 +394,7 @@ La respuesta correcta es Cruce de prueba (testcross). Científicamente, esto se 
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** BO-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v16
 **Bloom:** Apply
 **EJE:** Genética
@@ -418,7 +419,7 @@ La respuesta correcta es Probabilidad de producto de eventos. Científicamente, 
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BO-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v17
 **Bloom:** Analyze
 **EJE:** Genética
@@ -443,7 +444,7 @@ La respuesta correcta es Epistasis. Científicamente, esto se explica por la int
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BO-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** Genética
@@ -468,7 +469,7 @@ La respuesta correcta es Pleiotropía. Científicamente, esto se explica por los
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** BO-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Genética
@@ -493,7 +494,7 @@ La respuesta correcta es Herencia poligénica. Científicamente, esto se explica
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BO-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Genética

@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Ciencias Sociales: La Guerra del Acre y la Guerra del Chaco: causas, desarrollo y consecuencias territoriales y políticas (W08)
 **20 preguntas | Ciencias Sociales | Ministerio de Educacion del Estado Plurinacional de Bolivia (MINEDU)**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BO-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Social
@@ -45,7 +46,7 @@ bundle_index: 1
 La Guerra del Acre enfrentó a Bolivia con fuerzas separatistas aliadas al Brasil. Concluyó con la firma del Tratado de Petrópolis de 1903, mediante el cual Bolivia cedió el inmenso territorio del Acre a cambio de compensaciones de dinero e infraestructura ferroviaria.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BO-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Social
@@ -68,7 +69,7 @@ La Guerra del Acre enfrentó a Bolivia con fuerzas separatistas aliadas al Brasi
 La Guerra del Chaco fue el mayor conflicto bélico sudamericano del siglo XX. Movilizó a más de 250,000 soldados de ambos bandos en una dura lucha en un ecosistema hostil de bosque espinoso seco desprovisto de agua superficial.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BO-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -91,7 +92,7 @@ La Guerra del Chaco fue el mayor conflicto bélico sudamericano del siglo XX. Mo
 La Batalla de Boquerón marcó el inicio de la fase sangrienta de la guerra. Demostró la imprevisión del alto mando militar boliviano y la valentía asombrosa del soldado de la patria, sirviendo de inspiración mística nacionalista para las generaciones de postguerra.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BO-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -114,7 +115,7 @@ La Batalla de Boquerón marcó el inicio de la fase sangrienta de la guerra. Dem
 La inexperiencia del soldado altiplánico andino con la geografía chaqueña incrementó la tasa de bajas. Los reclutas aimaras y quechuas, acostumbrados al clima helado y seco andino, debieron combatir en dunas de polvo y matorrales espinosos de calor sofocante.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** BO-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -137,7 +138,7 @@ La inexperiencia del soldado altiplánico andino con la geografía chaqueña inc
 La Guerra del Chaco desmanteló los fundamentos morales de la oligarquía señorial de Bolivia. El desencuentro en la llanura chaqueña propició la organización del movimiento obrero, campesino e intelectual joven que más tarde fundaría partidos radicales y lideraría la Revolución Nacional de 1952.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** BO-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -160,7 +161,7 @@ La Guerra del Chaco desmanteló los fundamentos morales de la oligarquía señor
 El Socialismo Militar de Toro y Germán Busch representó la irrupción de la joven oficialidad del Chaco en el poder del Estado de Bolivia. Su agenda nacionalista buscó que los recursos naturales generaran excedentes fiscales para industrializar el país, sentando los precedentes de las nacionalizaciones contemporáneas.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** BO-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v7
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -183,7 +184,7 @@ El Socialismo Militar de Toro y Germán Busch representó la irrupción de la jo
 El Tratado de 1938 cerró de manera definitiva el conflicto limítrofe del Chaco Boreal. Bolivia debió resignar una inmensa porción de sabana seca chaqueña, logrando sin embargo resguardar los valiosos megacampos subandinos de gas natural y petróleo que continuaron bajo soberanía de Bolivia.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** BO-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Social
@@ -206,7 +207,7 @@ Si analizamos el rol de los barones del estaño (Patiño, Aramayo, Hoschild) en 
 Esta contradicción fiscal y moral indignó a los veteranos de guerra de postguerra. La convicción de que los barones del estaño explotaban los recursos soberanos del país sin beneficiar a la patria unificó el descontento popular, impulsando la nacionalización minera que ocurriría en la Revolución de 1952.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** BO-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Pensamiento Social
@@ -229,7 +230,7 @@ Si aplicamos la historia de las reformas constitucionales de postguerra del Chac
 El gobierno de Germán Busch representó la fase más radical del Socialismo Militar. Obligó a los exportadores mineros del estaño a entregar el 100% de las divisas al Banco Central de Bolivia y promulgó el primer código laboral de Bolivia (Ley General del Trabajo).
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** BO-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Social
@@ -252,7 +253,7 @@ Si aplicamos el análisis del ambiente geográfico a la contienda del Chaco, ¿q
 Las condiciones de sanidad y de aclimatación en el Chaco Boreal fueron desastrosas para las tropas andinas. La ineficiencia logística de la oficialidad de Bolivia agravó la mortalidad por causas fisiológicas no bélicas.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BO-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -275,7 +276,7 @@ Al analizar críticamente las pérdidas territoriales de la Guerra del Acre fren
 El Tratado de Petrópolis de 1903 puso fin al conflicto del Acre. Demostró la incapacidad del Estado boliviano para poblar y controlar militarmente fronteras selváticas remotas, cediendo ante el dinamismo demográfico de los colonos de Brasil.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BO-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -298,7 +299,7 @@ Al analizar la crisis de gobernabilidad post-Guerra del Chaco en Bolivia, ¿por 
 La Guerra del Chaco desnudó la incompetencia del Estado oligárquico. Propició el surgimiento de nuevos discursos nacionalistas e intelectuales radicales que fundaron partidos de masas dispuestos a reconfigurar la soberanía de la patria.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BO-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -321,7 +322,7 @@ La Guerra del Chaco desnudó la incompetencia del Estado oligárquico. Propició
 La Guerra del Chaco funcionó como el gran unificador social de Bolivia. Develó a la población andino-amazónica que el enemigo real no era el hermano del Paraguay, sino la minoría de barones del estaño que expropiaba la soberanía fiscal de la patria.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** BO-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -344,7 +345,7 @@ Al analizar las fuerzas económicas de la Guerra del Chaco, ¿qué rol controver
 El desacato tributario y el fraude fiscal de la Standard Oil alimentaron el sentimiento antiimperialista de la juventud militar de Bolivia. David Toro capitalizó este malestar nacionalista decretando la confiscación y nacionalización de todos sus bienes.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** BO-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -367,7 +368,7 @@ Al analizar la campaña de 1835 en el Chaco, ¿qué importancia estratégica mil
 La defensa de Villamontes restableció el orgullo militar de Bolivia. Al estabilizar la línea de combate defensivo, facilitó la concertación diplomática de armisticio en condiciones de equilibrio militar, allanando el Tratado de Paz de 1938.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** BO-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -390,7 +391,7 @@ La defensa de Villamontes restableció el orgullo militar de Bolivia. Al estabil
 El Socialismo Militar reconfiguró el rol del ejército de Bolivia. Pasó de ser el tradicional guardián de la propiedad de terratenientes y magnates mineros a constituirse en el motor de la soberanía de los recursos naturales y de la legislación laboral obrera.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BO-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -413,7 +414,7 @@ Al juzgar integralmente el costo financiero de la Guerra del Chaco para el erari
 La quiebra financiera post-Chaco debilitó la hegemonía de los barones del estaño. El erario público, exhausto de oro, debió devaluar reiteradamente el boliviano, erosionando el poder adquisitivo de las clases urbanas e impulsando el descontento revolucionario del 52.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BO-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -436,7 +437,7 @@ Al evaluar críticamente las decisiones diplomáticas del Tratado de Paz de 1938
 El Tratado de 1938 consolidó la paz definitiva de la postguerra del Chaco. Evitó que el ejército de Paraguay continuara avanzando hacia las refinerías andinas subandinas de Bolivia, resguardando la riqueza de gas natural de la patria.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** BO-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -459,7 +460,7 @@ Al evaluar globalmente la creación de YPFB y la nacionalización de la Standard
 YPFB representa la institución civil más reverenciada de Bolivia. Su nacimiento en 1937 probó que el Estado boliviano podía refinar y administrar de forma autónoma su crudo y gas natural, abriendo el camino al posterior auge gasífero de Tarija y Santa Cruz.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BO-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social

@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Matemáticas: Tema W05 (W05)
 **20 preguntas | Grado 11 (6to de Secundaria) | MINEDU - Ley Educativa Avelino Siñani - Elizardo Pérez**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -42,7 +43,7 @@ bundle_index: 1
 Una ecuación lineal de primer grado con una variable se escribe en la forma ax + b = 0, donde a y b son constantes reales con a != 0.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -62,7 +63,7 @@ Una ecuación lineal de primer grado con una variable se escribe en la forma ax 
 Restando 5 en ambos miembros obtenemos x / 2 = 6. Multiplicando ambos lados por 2 para despejar la variable resulta x = 12.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -82,7 +83,7 @@ Si sumamos 3 al doble de un número real x se obtiene 15. ¿Cuál ecuación line
 Tradiciendo al lenguaje algebraico: 'el doble de un número x' es 2x. 'Sumamos 3' es + 3. 'Se obtiene 15' es = 15. Por ende, la ecuación es 2x + 3 = 15.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -102,7 +103,7 @@ Resuelva la ecuación lineal: 4x - 20 = 3x + 8. ¿Cuál es el valor de x?
 Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.
 
 ---
-## Question 5 [D4]
+## Question 5 [D3-D4]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v5
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -122,7 +123,7 @@ Resuelva la ecuación lineal: 5x - 25 = 4x + 10. ¿Cuál es el valor de x?
 Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.
 
 ---
-## Question 6 [D4]
+## Question 6 [D3-D4]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -142,7 +143,7 @@ Resuelva la ecuación lineal: 6x - 30 = 5x + 12. ¿Cuál es el valor de x?
 Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.
 
 ---
-## Question 7 [D4]
+## Question 7 [D3-D4]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -162,7 +163,7 @@ Resuelva la ecuación lineal: 7x - 35 = 6x + 14. ¿Cuál es el valor de x?
 Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.
 
 ---
-## Question 8 [D4]
+## Question 8 [D3-D4]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -182,7 +183,7 @@ Resuelva la ecuación lineal: 8x - 40 = 7x + 16. ¿Cuál es el valor de x?
 Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.
 
 ---
-## Question 9 [D4]
+## Question 9 [D3-D4]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v9
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -202,7 +203,7 @@ Resuelva la ecuación lineal: 9x - 45 = 8x + 18. ¿Cuál es el valor de x?
 Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.
 
 ---
-## Question 10 [D4]
+## Question 10 [D3-D4]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -222,7 +223,7 @@ Resuelva la ecuación lineal: 10x - 50 = 9x + 20. ¿Cuál es el valor de x?
 Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -242,7 +243,7 @@ Resuelva la ecuación lineal: 11x - 55 = 10x + 22. ¿Cuál es el valor de x?
 Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -262,7 +263,7 @@ Resuelva la ecuación lineal: 12x - 60 = 11x + 24. ¿Cuál es el valor de x?
 Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -282,7 +283,7 @@ Resuelva la ecuación lineal: 13x - 65 = 12x + 26. ¿Cuál es el valor de x?
 Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.
 
 ---
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v14
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -302,7 +303,7 @@ Resuelva la ecuación lineal: 14x - 70 = 13x + 28. ¿Cuál es el valor de x?
 Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.
 
 ---
-## Question 15 [D7]
+## Question 15 [D7-D8]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -322,7 +323,7 @@ Resuelva la ecuación lineal: 15x - 75 = 14x + 30. ¿Cuál es el valor de x?
 Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.
 
 ---
-## Question 16 [D7]
+## Question 16 [D7-D8]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v16
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -342,7 +343,7 @@ Resuelva la ecuación lineal: 16x - 80 = 15x + 32. ¿Cuál es el valor de x?
 Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v17
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -362,7 +363,7 @@ Resuelva la ecuación lineal: 17x - 85 = 16x + 34. ¿Cuál es el valor de x?
 Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v18
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -382,7 +383,7 @@ Resuelva la ecuación lineal: 18x - 90 = 17x + 36. ¿Cuál es el valor de x?
 Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.
 
 ---
-## Question 19 [D9]
+## Question 19 [D9-D10]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v19
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -402,7 +403,7 @@ Resuelva la ecuación lineal: 19x - 95 = 18x + 38. ¿Cuál es el valor de x?
 Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.
 
 ---
-## Question 20 [D9]
+## Question 20 [D9-D10]
 **ID:** BO-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v20
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos

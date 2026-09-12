@@ -15,6 +15,7 @@ alignment: "MEC - Plan Común / SNEPE"
 license: "FREE"
 tier: "legacy"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 creador: "Jules-Agent"
 ---
 
@@ -22,7 +23,7 @@ creador: "Jules-Agent"
 **20 preguntas | Ciencias Sociales | MEC - Plan Común / SNEPE**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Historia del Paraguay del siglo XX
@@ -45,7 +46,7 @@ creador: "Jules-Agent"
 La Guerra del Chaco constituyó la mayor contienda armada sudamericana del siglo XX, movilizando a decenas de miles de hombres a un terreno inhóspito.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Historia del Paraguay del siglo XX
@@ -68,7 +69,7 @@ La Guerra del Chaco constituyó la mayor contienda armada sudamericana del siglo
 José Félix Estigarribia plasmó una brillante estrategia de guerra de movimientos adaptada a la geografía chaqueña, asegurando la victoria paraguaya.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Historia del Paraguay del siglo XX
@@ -91,7 +92,7 @@ José Félix Estigarribia plasmó una brillante estrategia de guerra de movimien
 La especulación en torno a la riqueza petrolera del Chaco atrajo la atención de la opinión pública mundial, catalogándose como la 'Guerra del Petróleo'.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Historia del Paraguay del siglo XX
@@ -114,7 +115,7 @@ La especulación en torno a la riqueza petrolera del Chaco atrajo la atención d
 El Tratado de 1838 reconoció los límites defendidos por las armas paraguayas, garantizando el acceso soberano nacional al río Paraguay.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Historia del Paraguay del siglo XX
@@ -137,7 +138,7 @@ Aparte del fuego enemigo, ¿cuál fue el factor geográfico y biológico hostil 
 La escasez de agua y el calor del Chaco obligaron a una compleja logística de camiones cisterna de suministro y al dominio de técnicas de supervivencia.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Historia del Paraguay del siglo XX
@@ -160,7 +161,7 @@ La escasez de agua y el calor del Chaco obligaron a una compleja logística de c
 Los cañoneros blindados 'Paraguay' y 'Humaitá' constituyeron el escudo estratégico paraguayo que bloqueó el acceso de Bolivia al río Paraguay.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Historia del Paraguay del siglo XX
@@ -183,7 +184,7 @@ Los cañoneros blindados 'Paraguay' y 'Humaitá' constituyeron el escudo estrat�
 La captura de Boquerón se conmemora como fiesta patriótica nacional, celebrando la destreza y heroísmo de los soldados en la contienda chaqueña.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Historia del Paraguay del siglo XX
@@ -206,7 +207,7 @@ La captura de Boquerón se conmemora como fiesta patriótica nacional, celebrand
 El uso del guaraní en las comunicaciones de radiotelefonía de trinchera paraguaya desbarató el espionaje de transmisiones del ejército de Bolivia.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Historia del Paraguay del siglo XX
@@ -229,7 +230,7 @@ El uso del guaraní en las comunicaciones de radiotelefonía de trinchera paragu
 El cese del fuego del 12 de junio de 1935 fue recibido con inmensas muestras de júbilo y llanto compartido en las calles de Asunción y de La Paz.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Historia del Paraguay del siglo XX
@@ -252,7 +253,7 @@ Aparte del tifus, ¿cuál de las siguientes enfermedades infecciosas y parasitar
 La deshidratación forzó a los soldados a consumir lodo de tajamares filtrado de forma precaria, provocando brotes epidémicos de disentería.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Historia del Paraguay del siglo XX
@@ -275,7 +276,7 @@ Desde el punto de vista logístico y operativo, ¿cuál fue el aporte primordial
 Los cañoneros blindados aseguraron el puente logístico de transporte de Asunción a Puerto Casado, donde las tropas se internaban en tren al frente.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Historia del Paraguay del siglo XX
@@ -298,7 +299,7 @@ Los cañoneros blindados aseguraron el puente logístico de transporte de Asunci
 La brillante guerra de movimientos paraguaya compensó la superioridad de recursos materiales y numéricos de Bolivia en el Chaco.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Historia del Paraguay del siglo XX
@@ -321,7 +322,7 @@ A pesar de que el ejército paraguayo llegó victorioso hasta las estribaciones 
 El Tratado de 1938 consagró un balance geopolítico en el Cono Sur, consolidando de forma definitiva e irreversible el Chaco Boreal como territorio paraguayo.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Historia del Paraguay del siglo XX
@@ -344,7 +345,7 @@ La movilización civil de la retaguardia paraguaya, con la activa participación
 La Guerra del Chaco movilizó a todo el Paraguay en una asombrosa empresa colectiva de resiliencia nacional que superó históricas rencillas partidarias.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Historia del Paraguay del siglo XX
@@ -367,7 +368,7 @@ La defensa y victoria paraguaya en las dos feroces batallas del fortín Nanawa d
 Nanawa fue el baluarte del frente sur de operaciones del Chaco, consagrando la audacia y heroica resistencia defensiva de los soldados paraguayos.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Historia del Paraguay del siglo XX
@@ -390,7 +391,7 @@ Durante el conflicto chaqueño, ¿qué rol desempeñaron de forma cívica y huma
 El trato digno e integración de prisioneros bolivianos en obras civiles testimonió el espíritu humanitario del Paraguay de preguerra y posguerra del Chaco.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Historia del Paraguay del siglo XX
@@ -413,7 +414,7 @@ Al evaluar críticamente las causas de la Revolución del 17 de febrero de 1936 
 La Revolución de 1936 clausuró la hegemonía del Partido Liberal clásico, irrumpiendo corrientes sociales nacionalistas que redefinieron el siglo XX paraguayo.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Historia del Paraguay del siglo XX
@@ -436,7 +437,7 @@ Al juzgar el Tratado de Paz, Amistad y Límites de 1938, ¿cuál es el mayor log
 El Tratado de 1938 legitimó el éxito de la defensa militar del Chaco, consagrando para el Paraguay el dominio fluvial soberano estratégico de Bahía Negra.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Historia del Paraguay del siglo XX
@@ -459,7 +460,7 @@ Al evaluar críticamente las causas del rotundo fracaso estratégico y táctico 
 La victoria paraguaya de Nanawa consagró la destreza defensiva táctica de los oficiales nacionales y sepultó la mística militar alemana de Hans Kundt.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Historia del Paraguay del siglo XX

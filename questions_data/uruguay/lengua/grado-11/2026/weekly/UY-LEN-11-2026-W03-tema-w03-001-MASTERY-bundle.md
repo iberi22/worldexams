@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Lengua: Tema W03 (W03)
 **20 preguntas | Lengua | ANEP - Plan 2006 Reformulación / Programa Ubicación**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Sintaxis y morfología
@@ -46,7 +47,7 @@ bundle_index: 1
 La variación diatópica o dialectal es la diferenciación geográfica de una lengua. El español que se habla en Montevideo posee diferencias diatópicas sutiles con respecto al norte o interior de Uruguay.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Sintaxis y morfología
@@ -70,7 +71,7 @@ La variación diatópica o dialectal es la diferenciación geográfica de una le
 La variación diafásica concierne a los registros de habla (formales o informales), regulados por el grado de confianza, el tema, el canal y el contexto situacional de la comunicación.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Sintaxis y morfología
@@ -94,7 +95,7 @@ La variación diafásica concierne a los registros de habla (formales o informal
 El voseo típico de Uruguay es una variante diatópica que afecta la morfología verbal (palabras agudas como cantás, comés, sabés) y la selección pronominal (vos), constituyendo la norma local estándar.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Sintaxis y morfología
@@ -118,7 +119,7 @@ El voseo típico de Uruguay es una variante diatópica que afecta la morfología
 Un hablante competente de la lengua posee plasticidad comunicativa: sabe adaptar su habla a las demandas situacionales, dominando múltiples registros y variedades.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Sintaxis y morfología
@@ -144,7 +145,7 @@ Identificá cuáles vocablos o formas corresponden a rasgos diatópicos del Urug
 En los enunciados concretos se solapan la procedencia geográfica del hablante (dialecto) y la informalidad o cercanía afectiva de la conversación íntima (registro).
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Sintaxis y morfología
@@ -168,7 +169,7 @@ En los enunciados concretos se solapan la procedencia geográfica del hablante (
 La variación diastrática (sociolectal) engloba los usos característicos de grupos definidos por edad, profesión, profesión de fe o nivel sociocultural, dotándolos de léxicos distintivos o jergas.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Sintaxis y morfología
@@ -192,7 +193,7 @@ La variación diastrática (sociolectal) engloba los usos característicos de gr
 Los géneros mediáticos se adaptan a su público meta. El periodismo deportivo rioplatense marida la jerga técnica del fútbol con el dialecto local uruguayo para conectar pasionalmente con la audiencia.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Sintaxis y morfología
@@ -216,7 +217,7 @@ Los géneros mediáticos se adaptan a su público meta. El periodismo deportivo 
 El léxico urbano rioplatense e informal (el lunfardo o la jerga de los jóvenes) constituye una variante diastrática social que se expresa en la comunicación diafásica informal ordinaria.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Sintaxis y morfología
@@ -241,7 +242,7 @@ Analizá la selección pronominal y verbal en este fragmento. ¿Qué variedad de
 En la literatura uruguaya contemporánea conviven de forma creativa y estética el voseo (más popular e informal) y el tuteo (tradicionalmente ligado a ciertos registros líricos y de prestigio literario).
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Sintaxis y morfología
@@ -265,7 +266,7 @@ Desde el punto de vista sociolINGÜÍSTICO descriptivo, ¿cómo debe analizarse 
 El vocativo 'bo' / 'vo' es un marcador pragmático uruguayo (diatopia). La lingüística descriptiva reconoce su valor sociolingüístico como signo de pertenencia y cohesión identitaria en la interacción coloquial.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Sintaxis y morfología
@@ -290,7 +291,7 @@ Analizá la morfología verbal de esta nota de instrucciones. ¿Qué patrón lin
 El voseo en el modo imperativo ('calentá') y en los mandatos negativos con presente de subjuntivo ('no gastés') son estructuras morfológicas regulares y prestigiosas dentro del dialecto rioplatense.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Sintaxis y morfología
@@ -316,7 +317,7 @@ Analizá el diálogo. ¿Qué variables de registro y dialecto se detectan en la 
 El desliz de registro ocurre cuando el hablante utiliza en un contexto formal (como un juzgado) marcas sintácticas o léxicas propias de su habla coloquial informal (el intensificador 're').
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Sintaxis y morfología
@@ -340,7 +341,7 @@ El desliz de registro ocurre cuando el hablante utiliza en un contexto formal (c
 El voseo mixto ('tú' + verbo voseante: 'tú cantás') es una de las mayores singularidades sociolingüísticas de la variedad rioplatense uruguaya, gozando de prestigio y amplia difusión en los registros cultos escritos y orales del país.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Sintaxis y morfología
@@ -364,7 +365,7 @@ El voseo mixto ('tú' + verbo voseante: 'tú cantás') es una de las mayores sin
 La fonética ofrece valiosos marcadores diastráticos (sociolingüísticos). La forma en que resolvemos la consonante /s/ implosiva final varía según el grado de escolaridad del emisor y el grado de formalidad de la interacción.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Sintaxis y morfología
@@ -389,7 +390,7 @@ Analizá los préstamos léxicos y la alternancia de códigos presentes en este 
 El portuñol fronterizo o DPU es una de las variedades diatópicas y culturales más estudiadas de Uruguay, representando un formidable caso de contacto de lenguas donde la interacción diaria desafía las barreras lingüísticas teóricas.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Sintaxis y morfología
@@ -413,7 +414,7 @@ El portuñol fronterizo o DPU es una de las variedades diatópicas y culturales 
 El español rioplatense uruguayo no es plano; tiene matices y variantes departamentales que demuestran el dinamismo de la lengua en su dimensión diatópica de base.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Sintaxis y morfología
@@ -437,7 +438,7 @@ El español rioplatense uruguayo no es plano; tiene matices y variantes departam
 La sociolingüística moderna adopta un enfoque pluricéntrico. El español posee múltiples normas cultas regionales válidas (como la rioplatense), y calificar al voseo de 'barbarismo' o deformación de habla es un prejuicio acientífico.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Sintaxis y morfología
@@ -463,7 +464,7 @@ Analizá críticamente los elementos identitarios y las funciones lingüísticas
 La comunicación informal es un terreno de afirmación de identidad social. Los marcadores pronominales, los modismos de habla y los símbolos cotidianos actúan como poderosos lazos afectivos de pertenencia cultural local en Uruguay.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Sintaxis y morfología
@@ -487,7 +488,7 @@ La comunicación informal es un terreno de afirmación de identidad social. Los 
 La pedagogía lingüística moderna integra el respeto dialectal con la enseñanza de la norma formal estándar de prestigio escrito. El objetivo es que los estudiantes dominen el registro de adecuación diafásica formal sin renegar de su identidad diatópica de origen.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** UY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Sintaxis y morfología

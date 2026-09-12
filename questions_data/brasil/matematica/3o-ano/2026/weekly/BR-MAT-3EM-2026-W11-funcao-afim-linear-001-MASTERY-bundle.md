@@ -16,6 +16,7 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D1-D6", expected_success: 0.65}
 ---
 
 # Bundle MASTERY: Funcao Afim e Linear - BRASIL 3o EM
@@ -23,7 +24,7 @@ bundle_index: 1
 
 ---
 
-## Question 1 [D1-D2]
+## Question 1 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q01
 **Bloom:** Remember
 **EJE:** Competencia Numerica
@@ -42,7 +43,7 @@ Seja f(x) = 3x - 5. Qual e o valor de f(4)?
 ### Explicacion Pedagogica
 Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.
 
-## Question 2 [D1-D2]
+## Question 2 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q02
 **Bloom:** Understand
 **EJE:** Raciocinio Logico
@@ -61,7 +62,7 @@ Se f(x)=2x+3 e g(x)=x-1, f(2)+g(5)?
 ### Explicacion Pedagogica
 Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.
 
-## Question 3 [D1-D2]
+## Question 3 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q03
 **Bloom:** Understand
 **EJE:** Pensamento Espacial
@@ -80,7 +81,7 @@ Grafico de f(x) = -3x + 9 intersecta eixo x em:
 ### Explicacion Pedagogica
 Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.
 
-## Question 4 [D1-D2]
+## Question 4 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q04
 **Bloom:** Apply
 **EJE:** Competencia Numerica
@@ -99,7 +100,7 @@ Raiz de f(x) = 5x - 15:
 ### Explicacion Pedagogica
 Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.
 
-## Question 5 [D1-D2]
+## Question 5 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q05
 **Bloom:** Apply
 **EJE:** Modelagem Matematica
@@ -308,7 +309,7 @@ Reta f(x)=2x+4 passa por quais pontos?
 ### Explicacion Pedagogica
 Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.
 
-## Question 16 [D5]
+## Question 16 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q16
 **Bloom:** Evaluate
 **EJE:** Raciocinio Logico
@@ -327,7 +328,7 @@ f(x)=3x+1 e g(x)=-2x+6 se igualam em x=?
 ### Explicacion Pedagogica
 Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.
 
-## Question 17 [D5]
+## Question 17 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q17
 **Bloom:** Analyze
 **EJE:** Pensamento Espacial
@@ -346,7 +347,7 @@ Intercepto y de f(x)=(2/3)x-4?
 ### Explicacion Pedagogica
 Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.
 
-## Question 18 [D5]
+## Question 18 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q18
 **Bloom:** Understand
 **EJE:** Competencia Numerica
@@ -365,7 +366,7 @@ f(x)=10x-5. f(1/2)?
 ### Explicacion Pedagogica
 Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.
 
-## Question 19 [D5]
+## Question 19 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q19
 **Bloom:** Evaluate
 **EJE:** Modelagem Matematica
@@ -384,7 +385,7 @@ f(1)=5, f(3)=11. f(0)?
 ### Explicacion Pedagogica
 Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.
 
-## Question 20 [D5]
+## Question 20 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q20
 **Bloom:** Evaluate
 **EJE:** Pensamento Variacional

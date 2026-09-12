@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Ciencias Sociales: La Guerra del Pacífico (1879) y sus consecuencias geopolíticas, económicas y sociales para Bolivia (W07)
 **20 preguntas | Ciencias Sociales | Ministerio de Educacion del Estado Plurinacional de Bolivia (MINEDU)**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Social
@@ -45,7 +46,7 @@ bundle_index: 1
 El impuesto de los 10 centavos fue considerado por el gobierno boliviano del presidente Hilarión Daza como un acto soberano interno. Sin embargo, la Compañía de Salitres (de capitales chilenos y británicos) presionó al gobierno de Santiago para intervenir militarmente, desatando la conflagración bélica.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Social
@@ -68,7 +69,7 @@ El impuesto de los 10 centavos fue considerado por el gobierno boliviano del pre
 Eduardo Abaroa es el símbolo supremo del heroísmo civil de Bolivia. Su célebre y desafiante respuesta ante la exigencia de rendición realista del ejército chileno ('¿Rendirme yo? ¡Que se rinda su abuela, carajo!') es honrada solemnemente en todo el país cada 23 de marzo (Día del Mar).
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -91,7 +92,7 @@ Eduardo Abaroa es el símbolo supremo del heroísmo civil de Bolivia. Su célebr
 El Tratado de Alianza Defensiva de 1873 fue el argumento central de Chile para justificar su ofensiva conjunta contra el Perú y Bolivia. Chile alegaba que la alianza secreta andina rompía el equilibrio bélico y geopolítico del Cono Sur.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -114,7 +115,7 @@ El Tratado de Alianza Defensiva de 1873 fue el argumento central de Chile para j
 La Retirada de Camarones precipitó la caída del presidente Daza. La burguesía minera de la plata y el ejército de la patria le depusieron, asumiendo el mando el general Narciso Campero. El episodio ha sido objeto de encendidos debates sobre traición o imposibilidad logística.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -137,7 +138,7 @@ La Retirada de Camarones precipitó la caída del presidente Daza. La burguesía
 Tras la Batalla del Alto de la Alianza en 1880, Bolivia retiró de forma oficial sus ejércitos de la guerra, dejando al Perú luchar en solitario. El auge del partido Conservador en Bolivia, integrado por magnates de la plata (Arce, Pacheco), consolidó una política de paz fáctica con Chile que allanó el camino al Tratado de Tregua de 1884.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -160,7 +161,7 @@ Tras la Batalla del Alto de la Alianza en 1880, Bolivia retiró de forma oficial
 El Tratado de Tregua de 1884 dejó a Bolivia en una total indefensión diplomática. Consagró el enclaustramiento geográfico de facto y amarró la economía nacional a la infraestructura vial y portuaria de Chile, sirviendo de antecedente directo al definitivo Tratado de 1904.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v7
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -183,7 +184,7 @@ El Tratado de Tregua de 1884 dejó a Bolivia en una total indefensión diplomát
 El Tratado de 1904 cerró legalmente el enclaustramiento marítimo de Bolivia. Fue defendido por los liberales bolivianos como la única salida realista para obtener fondos de compensación e integrar al país al sistema ferroviario moderno, constituyéndose desde entonces en la mayor herida geopolítica nacional.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Social
@@ -206,7 +207,7 @@ Si analizamos el potencial económico del Litoral boliviano en el siglo XIX, ¿q
 La riqueza del Litoral residía en el subsuelo del desierto. Bolivia poseía la soberanía sobre estas materias primas estratégicas, pero carecía de la densidad demográfica, del capital de inversión y del poderío militar para resguardar la frontera costera frente a la expansión de empresas chilenas.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Pensamiento Social
@@ -229,7 +230,7 @@ Si aplicamos el análisis de las relaciones diplomáticas bilaterales, ¿qué ac
 El cumplimiento estricto del Tratado de 1874 era vital para la paz regional. Su transgresión real o supuesta por el cobro impositivo de los 10 centavos en 1878 precipitó la invasión armada y la anexión fáctica de Antofagasta, Calama, Cobija y Mejillones por parte de Chile.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Social
@@ -252,7 +253,7 @@ Si analizamos los desplazamientos tácticos del ejército boliviano en 1879, ¿q
 El rol de la Quinta División ilustra el divisionismo interno de la élite de Bolivia. Privó al frente de combate de miles de soldados adiestrados que pudieron alterar el desenlace defensivo de la campaña del desierto.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -275,7 +276,7 @@ Al analizar las consecuencias inmediatas de la pérdida de la costa soberana tra
 El enclaustramiento forzado de Bolivia representa un obstáculo estructural histórico. Obliga al país a depender de puertos extranjeros, encareciendo fletes e imposibilitando la consolidación de un polo industrial soberano.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -298,7 +299,7 @@ El enclaustramiento forzado de Bolivia representa un obstáculo estructural hist
 Estudios económicos confirman que los países mediterráneos sufren un 'impuesto geográfico' por demoras en puertos de terceros países, restándoles competitividad comercial internacional.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -321,7 +322,7 @@ Al analizar críticamente las fuerzas económicas internacionales en la Guerra d
 La Guerra del Pacífico ha sido catalogada por historiadores críticos como la 'Guerra del Salitre y los Capitales Ingleses'. Demostró que el imperialismo económico de época influyó de forma sustancial en el destino geopolítico de los Andes.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -344,7 +345,7 @@ La Guerra del Pacífico ha sido catalogada por historiadores críticos como la '
 Esta división de las élites debilitó de forma trágica la cohesión nacional de Bolivia. Los magnates mineros depusieron a Daza para instaurar el periodo de gobiernos conservadores, inaugurando una diplomacia pragmática favorable al Tratado de 1904.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -367,7 +368,7 @@ Al analizar las dificultades de movilización militar en la Guerra del Pacífico
 La imprevisión y la mediterraneidad física interior de Bolivia determinaron la derrota defensiva. Mientras Chile operaba modernos transportes marítimos a vapor por mar, Bolivia enviaba regimientos peatonales exhaustos a pie.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -390,7 +391,7 @@ La imprevisión y la mediterraneidad física interior de Bolivia determinaron la
 La defensa de Calama del 23 de marzo de 1879 constituyó un acto de valor y heroísmo civil formidable. Cabrera y Abaroa demostraron el patriotismo indómito de la población local, sirviendo de mística para reclamar el retorno al Pacífico.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -413,7 +414,7 @@ Al juzgar integralmente el Tratado de Paz y Amistad de 1904 firmado con Chile, �
 El Tratado de 1904 devela las contradicciones de las élites de la postguerra. Aunque Ismael Montes lo defendió para reactivar las finanzas y el tendido de líneas de ferrocarril, significó resignar a perpetuidad el acceso marítimo soberano.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -436,7 +437,7 @@ Al juzgar críticamente la tesis patriótica del 'enclaustramiento marítimo' co
 El debate del subdesarrollo boliviano devela que el factor geográfico y el factor institucional están íntimamente ligados. Culpar de forma exclusiva a la mediterraneidad elude analizar las responsabilidades de las oligarquías extractivas internas.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -459,7 +460,7 @@ Al evaluar globalmente los factores de imprevisión de la defensa boliviana en l
 La tragedia de 1879 devela las falencias institucionales del Estado boliviano del siglo XIX. La inestabilidad de continuos golpes de Estado en La Paz impidió trazar una política seria de defensa de fronteras soberanas remotas.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social

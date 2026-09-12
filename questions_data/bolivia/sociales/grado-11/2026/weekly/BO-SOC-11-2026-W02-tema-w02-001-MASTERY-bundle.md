@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Ciencias Sociales: El periodo colonial, la mita potosina y la estructura socioeconómica de la Real Audiencia de Charcas (W02)
 **20 preguntas | Ciencias Sociales | Ministerio de Educacion del Estado Plurinacional de Bolivia (MINEDU)**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BO-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Social
@@ -45,7 +46,7 @@ bundle_index: 1
 La mita potosina fue la columna vertebral de la economía colonial en la Real Audiencia de Charcas. Consistía en la obligación de que una séptima parte de los hombres varones (mitayos) de las provincias designadas acudieran a trabajar al Cerro Rico de Potosí.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BO-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Social
@@ -68,7 +69,7 @@ La mita potosina fue la columna vertebral de la economía colonial en la Real Au
 La Real Audiencia de Charcas desempeñó un rol fundamental en la estructura colonial. Su inmenso territorio abarcaba gran parte de la actual Bolivia, Paraguay, el norte de Argentina y el sur de Perú, sentando las bases de la delimitación territorial de Bolivia.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BO-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -91,7 +92,7 @@ La Real Audiencia de Charcas desempeñó un rol fundamental en la estructura col
 Las misiones de Chiquitos y Moxos en las tierras bajas bolivianas lograron un alto grado de desarrollo autosuficiente. Su arquitectura de templos de madera y su rica tradición de música barroca mestiza subsisten hasta el día de hoy.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BO-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -114,7 +115,7 @@ Las misiones de Chiquitos y Moxos en las tierras bajas bolivianas lograron un al
 La introducción de la amalgamación con mercurio (traído principalmente de las minas de Huancavelica, Perú) transformó a Potosí en el centro minero-industrial más grande del mundo, atrayendo a una inmensa población que superó los 160,000 habitantes en su época de esplendor.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** BO-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -137,7 +138,7 @@ La introducción de la amalgamación con mercurio (traído principalmente de las
 La estructura social colonial de Charcas era altamente jerárquica y desigual. Esta división entre peninsulares ('gachupines' o 'chapetones') y criollos (hijos de españoles nacidos en América) alimentó resentimientos que más tarde estallarían en las revoluciones de independencia.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** BO-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -160,7 +161,7 @@ La estructura social colonial de Charcas era altamente jerárquica y desigual. E
 La Casa de la Moneda de Potosí es uno de los edificios coloniales civiles más monumentales de América. Sus prensas de madera movidas por tracción animal acuñaron la plata que financió las guerras de la corona española y aceitó el comercio mundial.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** BO-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v7
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -183,7 +184,7 @@ La Casa de la Moneda de Potosí es uno de los edificios coloniales civiles más 
 Tanto la encomienda como el yanaconazgo institucionalizaron la explotación de la población indígena en beneficio de la élite minera y terrateniente, sirviendo como mecanismos clave para la transferencia de excedentes hacia el imperio español.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** BO-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Social
@@ -206,7 +207,7 @@ Si aplicamos el concepto de 'sincretismo cultural' al arte colonial de la Real A
 El Barroco Mestizo es la máxima expresión artística del encuentro colonial en Charcas. Artistas indígenas y mestizos plasmaron su propia simbología y cosmovisión en la piedra de las fachadas de los templos católicos del altiplano y valles bolivianos.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** BO-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Pensamiento Social
@@ -229,7 +230,7 @@ El Barroco Mestizo es la máxima expresión artística del encuentro colonial en
 Las Reformas Borbónicas buscaron centralizar el control imperial español y aumentar la recaudación fiscal. La creación del Virreinato del Río de la Plata y la inclusión de Charcas alteró las rutas tradicionales de comercio, dinamizando la ruta Potosí-Buenos Aires.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** BO-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Social
@@ -252,7 +253,7 @@ Si aplicamos el concepto de conflicto social al Potosí del siglo XVII, ¿qué t
 Este conflicto demostró que el Alto Perú no era un bloque monolítico. Los vicuñas (compuestos por criollos de Charcas, mestizos y andaluces) desafiaron el predominio económico exclusivo de los vascos, quienes controlaban las minas más ricas y el cabildo potosino.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BO-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -275,7 +276,7 @@ Este conflicto demostró que el Alto Perú no era un bloque monolítico. Los vic
 San Francisco Xavier de Chuquisaca (Sucre), fundada en 1624, fue la cuna de los doctores revolucionarios. En sus aulas se discutieron las tesis de soberanía popular de Francisco Suárez que dieron origen al famoso Silogismo Altoperuano: si el rey legítimo está preso (por Napoleón), la soberanía vuelve al pueblo.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BO-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -298,7 +299,7 @@ San Francisco Xavier de Chuquisaca (Sucre), fundada en 1624, fue la cuna de los 
 A pesar de las Reformas Borbónicas que intentaron reactivar la minería (mediante rebajas impositivas y mejoras en el suministro de mercurio), la rentabilidad del Cerro Rico declinó sustancialmente. La crisis económica arrastró al resto de la estructura productiva agraria y comercial altoperuana.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BO-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -321,7 +322,7 @@ A pesar de las Reformas Borbónicas que intentaron reactivar la minería (median
 El descontento con el monopolio comercial español unió a diversos sectores sociales de Charcas. Criollos, mestizos y hacendados veían con frustración cómo el contrabando británico u holandés ofrecía mejores productos a menor costo, pero bajo la constante amenaza de persecución aduanera real.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** BO-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -344,7 +345,7 @@ El descontento con el monopolio comercial español unió a diversos sectores soc
 La mita potosina fue calificada históricamente como una de las instituciones más destructivas del colonialismo español en América del Sur. Desarraigó a miles de familias de sus tierras ancestrales andinas, forzando una reconfiguración total de la geografía demográfica del Alto Perú.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** BO-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -367,7 +368,7 @@ La mita potosina fue calificada históricamente como una de las instituciones m�
 La tensión entre la burocracia eclesiástica y los productores locales fue una constante en Charcas. A pesar de compartir la fe y la cultura colonial, los hacendados criollos litigaban frecuentemente contra el clero en los estrados de la Real Audiencia por exenciones del diezmo y primicias.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** BO-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -390,7 +391,7 @@ Al analizar las consecuencias macroeconómicas globales de la inmensa cantidad d
 La plata de Potosí no solo enriqueció de forma efímera a España, sino que transformó la economía de todo el mundo. Financió el comercio europeo con China (que exigía plata como único medio de pago) e impulsó el capitalismo mercantil mercantilista global.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BO-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -413,7 +414,7 @@ Al juzgar éticamente el impacto histórico de la mita potosina de la época col
 La evaluación de la mita potosina desde la perspectiva de la historia crítica revela el carácter extractivo de las instituciones coloniales españolas. Su herencia de sometimiento configuró una desigualdad social de largo plazo que Bolivia arrastró por siglos.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BO-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -436,7 +437,7 @@ Al juzgar integralmente el rol de las Leyes de Indias y la Real Audiencia de Cha
 La contradicción jurídica colonial se sintetiza en la famosa frase de época: 'la ley se acata pero no se cumple'. Las autoridades coloniales de la Audiencia de Charcas debían balancear las leyes de protección de los monarcas con la ineludible presión económica de los dueños de minas de Potosí (azogueros).
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** BO-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -459,7 +460,7 @@ Al evaluar las raíces de la identidad nacional de Bolivia en la época colonial
 La gestación de Bolivia no fue un accidente fortuito de 1825. Los siglos de administración de la Real Audiencia de Charcas delimitaron un espacio geográfico, económico y cultural propio, donde las élites locales desarrollaron un arraigo altoperuano clave para reclamar la soberanía.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BO-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social

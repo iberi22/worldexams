@@ -15,6 +15,7 @@ alignment: "MEC Paraguay"
 license: "FREE"
 tier: "legacy"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 creador: "Jules-Agent"
 ---
 
@@ -24,7 +25,7 @@ Este bundle cubre de manera exhaustiva el tema de Célula eucariota y procariota
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v1
 **Bloom:** Remember
 **EJE:** Biología Celular
@@ -45,7 +46,7 @@ La teoría celular, unificadora de la biología, se consolidó en el siglo XIX g
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v2
 **Bloom:** Understand
 **EJE:** Biología Celular
@@ -66,7 +67,7 @@ Los procariontes carecen de compartimentación nuclear, por lo que el material g
 
 ---
 
-## Question 3 [D3]
+## Question 3 [D3-D4]
 **ID:** PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v3
 **Bloom:** Remember
 **EJE:** Biología Celular
@@ -87,7 +88,7 @@ Aunque varían en su tamaño y estructura de subunidades (70S en procariontes y 
 
 ---
 
-## Question 4 [D3]
+## Question 4 [D3-D4]
 **ID:** PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v4
 **Bloom:** Understand
 **EJE:** Biología Celular
@@ -108,7 +109,7 @@ La síntesis de peptidoglucano es el blanco de muchos antibióticos comunes (com
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v5
 **Bloom:** Apply
 **EJE:** Biología Celular
@@ -129,7 +130,7 @@ La envoltura nuclear eucariota posee poros complejos que controlan el paso selec
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v6
 **Bloom:** Understand
 **EJE:** Biología Celular
@@ -150,7 +151,7 @@ La relación superficie-volumen limita el tamaño de las células sencillas (pro
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v7
 **Bloom:** Apply
 **EJE:** Biología Celular
@@ -171,7 +172,7 @@ La composición de la pared celular es un criterio taxonómico clave para difere
 
 ---
 
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v8
 **Bloom:** Understand
 **EJE:** Biología Celular
@@ -192,7 +193,7 @@ El flagelo bacteriano funciona como un motor rotatorio impulsado por fuerza prot
 
 ---
 
-## Question 9 [D5]
+## Question 9 [D5-D6]
 **ID:** PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v9
 **Bloom:** Apply
 **EJE:** Biología Celular
@@ -213,7 +214,7 @@ La cápsula bacteriana es una estructura facultativa presente en algunas bacteri
 
 ---
 
-## Question 10 [D5]
+## Question 10 [D5-D6]
 **ID:** PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v10
 **Bloom:** Understand
 **EJE:** Biología Celular
@@ -234,7 +235,7 @@ El desarrollo de organelos en una célula refleja directamente su especializaci�
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v11
 **Bloom:** Analyze
 **EJE:** Biología Celular
@@ -255,7 +256,7 @@ Las pruebas clave de la endosimbiosis incluyen la presencia de ADN circular prop
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v12
 **Bloom:** Apply
 **EJE:** Biología Celular
@@ -276,7 +277,7 @@ La actina es el componente principal de los microfilamentos del citoesqueleto, i
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v13
 **Bloom:** Analyze
 **EJE:** Biología Celular
@@ -297,7 +298,7 @@ El nucléolo no está rodeado por membrana plasmática propia; es un condensado 
 
 ---
 
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v14
 **Bloom:** Apply
 **EJE:** Biología Celular
@@ -318,7 +319,7 @@ El coeficiente de sedimentación (Svedberg, S) mide la velocidad con la que sedi
 
 ---
 
-## Question 15 [D7]
+## Question 15 [D7-D8]
 **ID:** PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v15
 **Bloom:** Analyze
 **EJE:** Biología Celular
@@ -339,7 +340,7 @@ La membrana del lisosoma posee bombas de protones que bombean activamente iones 
 
 ---
 
-## Question 16 [D7]
+## Question 16 [D7-D8]
 **ID:** PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v16
 **Bloom:** Apply
 **EJE:** Biología Celular
@@ -360,7 +361,7 @@ Los cloroplastos realizan la fotosíntesis convirtiendo energía electromagnéti
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v17
 **Bloom:** Evaluate
 **EJE:** Biología Celular
@@ -381,7 +382,7 @@ La rigidez de la pared celular ofrece soporte mecánico y resistencia, pero rest
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v18
 **Bloom:** Analyze
 **EJE:** Biología Celular
@@ -402,7 +403,7 @@ La teoría endosimbiótica se ve reforzada por el hecho de que la composición l
 
 ---
 
-## Question 19 [D9]
+## Question 19 [D9-D10]
 **ID:** PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v19
 **Bloom:** Evaluate
 **EJE:** Biología Celular
@@ -423,7 +424,7 @@ La taxonomía de tres dominios propuesta por Carl Woese clasifica la vida en Bac
 
 ---
 
-## Question 20 [D9]
+## Question 20 [D9-D10]
 **ID:** PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v20
 **Bloom:** Analyze
 **EJE:** Biología Celular

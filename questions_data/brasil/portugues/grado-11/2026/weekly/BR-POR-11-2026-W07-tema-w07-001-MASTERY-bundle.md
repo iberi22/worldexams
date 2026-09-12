@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Português: Quinhentismo e Barroco
 **20 perguntas | Português | BNCC Brasil / ENEM 2026**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BR-POR-11-2026-W07-tema-w07-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Estudo do texto literário
@@ -45,7 +46,7 @@ Como é denominada a primeira manifestação literária no território brasileir
 ### Explicacion Pedagogica
 O Quinhentismo (1500-1601) é a denominação dada às produções escritas no Brasil colonial durante o século XVI. Ele se divide em literatura de informação (relatar as riquezas da terra nova para o rei de Portugal) e literatura de catequese (peças e poemas jesuíticos criados pelo padre José de Anchieta para a conversão dos povos indígenas).
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BR-POR-11-2026-W07-tema-w07-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Estudo do texto literário
@@ -68,7 +69,7 @@ A estética barroca, introduzida formalmente no Brasil pelo poema "Prosopopeia" 
 ### Explicacion Pedagogica
 O Barroco (1601-1768) é a estética dos contrastes agudos e do misticismo dramático. Caracteriza-se pelo uso de figuras como antítese, paradoxo, metáfora e hipérbato, dividindo-se entre o Cultismo (rebuscamento de palavras e estilo ornamental de imagens visuais) e o Conceptismo (jogo lógico de ideias e argumentação lógica).
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BR-POR-11-2026-W07-tema-w07-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Estudo do texto literário
@@ -91,7 +92,7 @@ No famoso documento quinhentista paulista, Caminha exalta as riquezas físicas e
 ### Explicacion Pedagogica
 A Carta de Pero Vaz de Caminha é o monumento inaugural da literatura informativa quinhentista de base nacional do Brasil. Sua finalidade pragmática de época de mídias era reportar de forma atrativa e minuciosa as belezas físicas (fauna, flora e rios tropicais) e o potencial de colonização da terra, incentivando o avanço marítimo militar do império português e a catequização de almas indígenas.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BR-POR-11-2026-W07-tema-w07-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Estudo do texto literário
@@ -114,7 +115,7 @@ Na poesia satírica de Gregório de Matos, a crítica de costumes e a ironia bar
 ### Explicacion Pedagogica
 Gregório de Matos foi um dos poetas mais multifacetados do Barroco colonial baiano do país. Enquanto em suas vertentes sacra e lírica ele demonstrava profundo fervor religioso teológico e sofrimento de arrependimento espiritual, em sua vertente satírica (que lhe rendeu a alcunha de "Boca do Inferno") ele fustigava de forma feroz a desigualdade urbana, a rapacidade de autoridades civis e religiosas portuguesas e a hipocrisia dos ricos de Salvador de forma de arte livre.
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** BR-POR-11-2026-W07-tema-w07-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Estudo do texto literário
@@ -137,7 +138,7 @@ O raciocínio de debate de teses com Deus construído pelo pecador barroco funda
 ### Explicacion Pedagogica
 O conceptismo (ou estilo queijeiro do Barroco) caracteriza-se exatamente pela inteligência lógica de ideias, sofismas e construções intelectuais dedutivas sofisticadas. No soneto sacra de arrependimento, o pecador baiano desafia a lógica com requinte, afirmando de forma irônica que Deus precisa perdoá-lo para que a misericórdia de Deus possa brilhar de verdade no contexto de sua glória teológica eterna no país.
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** BR-POR-11-2026-W07-tema-w07-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Estudo do texto literário
@@ -160,7 +161,7 @@ No "Sermão da Sexagésima", Vieira discute com rigor de Letras a arte de pregar
 ### Explicacion Pedagogica
 O "Sermão da Sexagésima" de padre Antônio Vieira é o manifesto de base conceptista e metalinguística por excelência do Barroco luso-brasileiro de vestibular. Vieira utiliza metáforas brilhantes (como a "semeadura de trigo") para provar de forma retórica que a pregação religiosa deve focar no impacto moral transformador de condutas dos ouvintes na colônia, repudiando o preciosismo estético decorativo cultista estéril de palavras vazias que poluia os púlpitos das capitais coloniais.
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** BR-POR-11-2026-W07-tema-w07-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Estudo do texto literário
@@ -183,7 +184,7 @@ Os jesuítas (como o padre José de Anchieta) criavam peças teatrais dramática
 ### Explicacion Pedagogica
 O jesuíta José de Anchieta, o "Apóstolo do Brasil", foi um pioneiro da sociolinguística descritiva aplicada ao catecismo de base colonial. Compreendendo as dificuldades de transmissão de mistérios cristãos em tupi, ele escreveu a primeira gramática da língua geral tupi em 1595 de alta qualidade científica, usando o teatro híbrido de jesuítas de forma a converter de forma pacífica os indígenas nas florestas brasileiras do país de época.
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** BR-POR-11-2026-W07-tema-w07-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Estudo do texto literário
@@ -207,7 +208,7 @@ Nesses versos de Gregório de Matos de ardente amor mundano, a orquestração de
 ### Explicacion Pedagogica
 O dualismo amoroso barroco de Gregório de Matos de base colonial (conflito espírito-carne, sagrado-profano) materializa-se em ricas metáforas térmicas de fogo de paixão ("queimas", "abrasar-me") associadas a termos litúrgicos de pureza espiritual de anjos. Essa fusão estilística conotativa de contradições de sentido reflete as angústias do Barroco do século XVII no vestibular do país de mídias de rede.
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** BR-POR-11-2026-W07-tema-w07-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Estudo do texto literário
@@ -230,7 +231,7 @@ No slogan do fabricante paulista, o cruzamento semiótico de ideias religiosas t
 ### Explicacion Pedagogica
 Slógans comerciais contemporâneos paulistanos de marcas de prestígio de chocolate de luxo se apropriam de contrastes conceituais do Barroco colonial ("pecado sagrado") de forma a valorizar e qualificar esteticamente as qualidades do produto. Unir conceitos morais opostos estimula desejos de consumo eróticos e espirituais integrados, de alta eficácia conativa de mídias nas cidades de hoje.
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** BR-POR-11-2026-W07-tema-w07-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Estudo do texto literário
@@ -254,7 +255,7 @@ Nesses conhecidos versos de Gregório de Matos de temática existencialista de p
 ### Explicacion Pedagogica
 O tema horaciano do "Carpe Diem" (aproveitar o momento presente de juventude fugaz) é um dos pilares da vertente lírica existencial de Gregório de Matos na Bahia colonial do século dezessete. Utilizar metáforas florais de fragilidade biológica carnal perante a marcha do tempo cronológico adverte de forma estética o receptor leigo sobre as dores inevitáveis de velhice e morte sob a teologia barroca de arrependimento moral de Letras.
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BR-POR-11-2026-W07-tema-w07-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Estudo do texto literário
@@ -277,7 +278,7 @@ Sob a perspectiva descritiva científica das escolas literárias e sua relação
 ### Explicacion Pedagogica
 A literatura quinhentista do século XVI foca na tipologia expositiva e descritiva de dados (reportar a realidade ecológica física do Brasil novo), servindo a propósitos de colonização territorial militar imperial lusa. Já a oratória barroca do padre Antônio Vieira do século XVII foca na tipologia argumentativa persuasiva (sermões conceptistas morais), valendo-se de alegorias, silogismos lógicos e teologia bíblica para moldar, readequar e de fato transformar os costumes éticos, civis e políticos das sociedades coloniais no vestibular de Letras do país.
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BR-POR-11-2026-W07-tema-w07-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Estudo do texto literário
@@ -301,7 +302,7 @@ Qual tipologia textual rege prioritariamente a leitura da descrição do altar d
 ### Explicacion Pedagogica
 A reportagem cultural de artes visuais ou turismo de Ouro Preto apoia-se estruturalmente na tipologia descritiva para qualificar as obras do Barroco mineiro (Aleijadinho e igrejas coloniais). Detalhar as formas físicas espirais, a matéria (pedra-sabão) e a dramaticidade corporal das imagens sacras transmite de forma eficaz e denotativa a beleza do patrimônio histórico brasileiro no rádio paulista.
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BR-POR-11-2026-W07-tema-w07-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Estudo do texto literário
@@ -325,7 +326,7 @@ Assinale a opção que indica de forma correta a justificativa científica da si
 ### Explicacion Pedagogica
 A retórica jesuítica e a oratória sagrada barroca de base colonial (padre Antônio Vieira) utilizavam as alusões mitológicas gregas e romanas do Classicismo renascentista com refinamento de oratória ( conceptismo). Longe de quebrar doutrinas católicas, essa apropriação estética servia de instrumento didático e erudição literária de vestibular para convencer, encantar e de fato perpassar as consciências intelectuais de governantes e burgueses coloniais do país.
 
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** BR-POR-11-2026-W07-tema-w07-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Estudo do texto literário
@@ -349,7 +350,7 @@ Sob as propriedades funcionais de gênero e de tipologias de redação de vestib
 ### Explicacion Pedagogica
 O vestibular brasileiro exige diferenciar a finalidade pragmática do Quinhentismo informativo e do Barroco Conceptista. O escrivão Caminha escreve relatórios geográficos de terra de 1500 (exposição descritiva neutra para inventário comercial do império português), ao passo que o padre Vieira orquestra a homilia argumentativa de sermões de 1654 (debate moral ético conceptista com forte uso de antíteses e hipérboles de denúncia de injustiças de classe), demarcando as transições de escrita e pensamento coloniais do país.
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** BR-POR-11-2026-W07-tema-w07-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Estudo do texto literário
@@ -373,7 +374,7 @@ Com base nesse estudo de Letras de vestibular, a representação de deuses e for
 ### Explicacion Pedagogica
 O teatro catequético jesuítico do Quinhentismo (padre José de Anchieta de 1570) caracteriza-se por um inteligente hibridismo dramático e sociolinguístico. Ao encenar combates morais éticos entre anjos católicos lusos (traduzidos por termos sagrados tupi de prestígio, como Tupã) e demônios florestais locais de crenças nativas, Anchieta materializava a "acomodação mística jesuítica", facilitando de forma pedagógica, teatral, inclusiva e lúdica a catequização de almas indígenas na floresta brasileira de época de mídias de colônia.
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** BR-POR-11-2026-W07-tema-w07-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Estudo do texto literário
@@ -397,7 +398,7 @@ Na análise descritiva científica das marcas de estilo do Cultismo barroco de b
 ### Explicacion Pedagogica
 O hipérbato (inversão da ordem sintática direta da oração: sujeito-verbo-objeto) é um dos recursos definidores do Cultismo e Gongorismo barroco luso-brasileiro de vestibular ( Prosopopeia de 1601 de Bento Teixeira). Imitar de forma intencional a sintaxe do latim clássico europeu de Virgílio erguia um muro de erudição linguística de difícil acesso pelas pessoas comuns do país de época, de alto prestígio social e artístico conotativo nas mídias de corte de colônia.
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BR-POR-11-2026-W07-tema-w07-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Estudo do texto literário
@@ -420,7 +421,7 @@ Considerando a ciência moderna de Letras de vestibular que analisa criticamente
 ### Explicacion Pedagogica
 O estudo crítico-científico da literatura colonial do Brasil quinhentista e barroca supera visões ingênuas parnasianas decorativas ("exaltação boba de natureza"). Analisar o Quinhentismo desvela as estratégias colonizadoras geopolíticas e jesuíticas de catequização forçada, enquanto avaliar o Barroco de Gregório de Matos e Antônio Vieira revela as primeiras e agudas críticas de costumes, debates morais e denúncias sociais contra desvios éticos de governantes civis de Salvador, enriquecendo o senso crítico do vestibular de Letras do país.
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BR-POR-11-2026-W07-tema-w07-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Estudo do texto literário
@@ -444,7 +445,7 @@ Sob a análise sociolinguística e constitucional de Letras de vestibular, avali
 ### Explicacion Pedagogica
 Censurar a vertente satírica de Gregório de Matos (o "Boca do Inferno" de Salvador colonial de 1680) por preconceitos morais familiares modernos colide com a liberdade de cátedra escolar e empobrece a formação intelectual do vestibular brasileiro de Letras (BNCC). Avaliar a sátira machadiana e barroca ensina o candidato do ENEM a ler criticamente as nuances de textos figurados complexos de denúncia de injustiças, corrupção administrativa de prefeituras e hipocrisia de elites, validando a autonomia pedagógica das escolas de forma inclusiva, democrática e de prestígio no país.
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** BR-POR-11-2026-W07-tema-w07-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Estudo do texto literário
@@ -468,7 +469,7 @@ Considerando essa fundamentação científica de Letras, avalie qual diagnóstic
 ### Explicacion Pedagogica
 O Barroco luso-brasileiro (século XVII colonial baiano) não constitui mera cópia estéril imitação de Portugal medieval de Camões de vestibular. Ele expressa de forma vigorosa e original de Letras as contradições éticas, espirituais e sociais do início de povoamento da Bahia açucareira (luxo dourado de capelas de ouro contra a miséria física de plantações agrárias de engenhos e escravidão). Essa fratura moral e cívica reflete-se na poesia de arrependimento sacra e sátiras de Gregório de Matos e nos sermões conceptistas de padre Antônio Vieira do país de vestibular de prestígio.
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BR-POR-11-2026-W07-tema-w07-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Estudo do texto literário

@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Português: Tipologia Textual
 **20 perguntas | Português | BNCC Brasil / ENEM 2026**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BR-POR-11-2026-W05-tema-w05-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Estudo dos gêneros textuais
@@ -45,7 +46,7 @@ Qual tipologia textual caracteriza-se por apresentar instruções, ordens, presc
 ### Explicacion Pedagogica
 A tipologia injuntiva (ou instrucional) rege textos de cunho prático ou normativo (como receitas de cozinha, regulamentos civis, bulas de remédio e manuais de informática). Ela foca em orientar o receptor por meio de ordens diretas ou sugestões imperativas de ações passo a passo.
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BR-POR-11-2026-W05-tema-w05-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Estudo dos gêneros textuais
@@ -68,7 +69,7 @@ A tipologia textual descritiva caracteriza-se estruturalmente por apresentar:
 ### Explicacion Pedagogica
 A tipologia descritiva foca na representação de aspectos e traços de referentes reais ou fictícios, apresentando propriedades físicas ou psicológicas de forma espacial e estática, com uso abundante de adjetivos, substantivos e verbos de estado (como ser e estar).
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BR-POR-11-2026-W05-tema-w05-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Estudo dos gêneros textuais
@@ -91,7 +92,7 @@ O relato das ações sucessivas do criminoso no ônibus urbano constitui um exem
 ### Explicacion Pedagogica
 A tipologia narrativa estrutura-se em torno de uma linha temporal de desenvolvimento. Ela requer elementos fundamentais como narrador, personagens que agem, espaço físico delimitado, tempo de duração e um enredo constituído por complicação, clímax e desfecho das ações dinâmicas.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BR-POR-11-2026-W05-tema-w05-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Estudo dos gêneros textuais
@@ -114,7 +115,7 @@ O verbete de enciclopédia é regido prioritariamente pela tipologia textual:
 ### Explicacion Pedagogica
 A tipologia expositiva (ou informativa-explicativa) visa transmitir conhecimentos de forma clara, precisa, lógica e impessoal. Não há debate de opiniões (como na argumentativa) nem comandos de ação (como na injuntiva); o objetivo é apenas elucidar conceitos e expor fatos verídicos de forma denotativa.
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** BR-POR-11-2026-W05-tema-w05-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Estudo dos gêneros textuais
@@ -138,7 +139,7 @@ O trecho de folheto preventivo é regido de forma dominante pela tipologia:
 ### Explicacion Pedagogica
 Textos injuntivos buscam guiar a ação do interlocutor. Na gramática de saúde preventiva, as formas de imperativo ("Lave", "Utilize", "Evite") funcionam como eficientes instruções práticas que visam mudar as condutas diárias da população para conter riscos de doenças.
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** BR-POR-11-2026-W05-tema-w05-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Estudo dos gêneros textuais
@@ -162,7 +163,7 @@ Nesse parágrafo de artigo de opinião, predomina de forma marcante a tipologia:
 ### Explicacion Pedagogica
 A tipologia argumentativa (dissertativo-argumentativa) organiza-se em torno da defesa de opiniões, propostas, pontos de vista ou teses. O produtor do texto recorre a estratégias de raciocínio lógico (como relações de causa e efeito, dados, alusões e exemplos) para legitimar seu posicionamento ético ou político.
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** BR-POR-11-2026-W05-tema-w05-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Estudo dos gêneros textuais
@@ -185,7 +186,7 @@ O trecho de relatório ambiental acima emprega de forma integrada quais sequênc
 ### Explicacion Pedagogica
 Na redação técnica e acadêmica brasileira de ecologia, a sequência descritiva (retratar as condições físicas sensoriais do ecossistema) serve como base de sustentação factual para a tipologia expositiva (apresentar dados, análises de laboratório e relatórios de medição denotativa de poluição lagoana).
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** BR-POR-11-2026-W05-tema-w05-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Estudo dos gêneros textuais
@@ -208,7 +209,7 @@ Sob a ótica dos estudos tipológicos de redação, o edital de vestibular utili
 ### Explicacion Pedagogica
 Regulamentos, editais públicos, estatutos civis e leis federais enquadram-se na tipologia injuntiva-prescritiva (textos de lei). Eles estabelecem deveres morais ou jurídicos de forma imperativa ("deve", "fica proibido", "será eliminado"), visando orientar e padronizar procedimentos sociais no país.
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** BR-POR-11-2026-W05-tema-w05-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Estudo dos gêneros textuais
@@ -231,7 +232,7 @@ O produtor do texto de divulgação científica de Recife equilibra as tipologia
 ### Explicacion Pedagogica
 O texto explicativo e científico de divulgação concilia sequências expositivas (ensinar conceitos teóricos e processos de energia solar de grafeno de forma neutra) com sequências descritivas técnicas (detalhar as propriedades físicas flexíveis dos novos painéis orgânicos), garantindo uma recepção didática ideal por leigos.
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** BR-POR-11-2026-W05-tema-w05-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Estudo dos gêneros textuais
@@ -254,7 +255,7 @@ No anúncio de moda corporativa paulistano, as escolhas linguísticas de qualifi
 ### Explicacion Pedagogica
 A descrição publicitária (tipologia descritiva) atua a serviço da persuasão comercial de marcas de luxo de vestuário. Selecionar adjetivos e atributos de grande prestígio social ("Corte impecável, costura invisível") materializa o apelo conativo ou apelativo de sedução do consumidor executivo paulista.
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BR-POR-11-2026-W05-tema-w05-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Estudo dos gêneros textuais
@@ -278,7 +279,7 @@ Sob a análise científica das sequências tipológicas desse texto biológico, 
 ### Explicacion Pedagogica
 A redação científica biológica equilibra exposição de processos de vida tropicais (expositiva) com o detalhamento anatômico das partes das plantas (descritiva). Essa mescla tipológica garante clareza factual denotativa ideal de estudos escolares no vestibular brasileiro.
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BR-POR-11-2026-W05-tema-w05-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Estudo dos gêneros textuais
@@ -301,7 +302,7 @@ Qual tipologia textual rege prioritariamente a leitura da notícia do crime no r
 ### Explicacion Pedagogica
 O boletim de rádio de notícias quentes policiais estrutura-se sobre a tipologia narrativa jornalística rápida ("prendeu ontem um quadrilheiro de fraudes"). O tempo cronológico e o relato das ações encadeadas sequenciais de crime fornecem o dinamismo necessário para informar os motoristas do trânsito paulista de forma ágil.
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BR-POR-11-2026-W05-tema-w05-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Estudo dos gêneros textuais
@@ -325,7 +326,7 @@ Assinale a opção que indica corretamente a função retórica de inserir sequ�
 ### Explicacion Pedagogica
 Os sermões de Vieira são monumentos da tipologia argumentativa (Sermão da Sexagésima, Sermão de Santo Antônio aos Peixes). No entanto, Vieira insere pequenas parábolas ou sequências narrativas dinâmicas (alegorias de peixes) para ilustrar e fixar de forma pedagógica as teses morais abstratas combatidas nos púlpitos do Barroco colonial baiano.
 
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** BR-POR-11-2026-W05-tema-w05-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Estudo dos gêneros textuais
@@ -349,7 +350,7 @@ Analisando a estrutura linguística do regulamento de emergência de refinaria p
 ### Explicacion Pedagogica
 A tipologia prescritiva (variante de alta obrigatoriedade legal da injunção) caracteriza regulamentos industriais de emergência, códigos de trânsito e leis de tráfego. O tom peremptório imperioso ("interrompa imediatamente, dirija-se") visa padronizar condutas humanas salvas de riscos físicos e acidentes sob severas consequências de vida ou morte no país.
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** BR-POR-11-2026-W05-tema-w05-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Estudo dos gêneros textuais
@@ -373,7 +374,7 @@ Com base nesse estudo de mídias, avalie como coexistem as tipologias textuais e
 ### Explicacion Pedagogica
 Gêneros de grande complexidade semiótica (como documentários jornalísticos de longa duração ou grandes reportagens investigativas de crimes em Belo Horizonte) utilizam de forma harmônica sequências de múltiplas tipologias textuais (narração histórica cronológica de crimes, descrição sensorial de provas de asfalto e argumentação jurídica de acusação), garantindo uma recepção densa, dinâmica e de alta eficácia informativa.
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** BR-POR-11-2026-W05-tema-w05-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Estudo dos gêneros textuais
@@ -397,7 +398,7 @@ Assinale a opção que indica de forma correta o papel da sequência descritiva 
 ### Explicacion Pedagogica
 Nas redações formais do ENEM (Competência 3), sequências descritivas precisas de mazelas urbanas locais (asfalto quebrado, falta de rede de esgoto nas periferias de São Paulo) atuam como "provas factuais e ilustrações concretas" que embasam e dão grande poder de convencimento à tese abstrata de crítica de políticas públicas defendida pelo candidato de forma dissertativa.
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BR-POR-11-2026-W05-tema-w05-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Estudo dos gêneros textuais
@@ -421,7 +422,7 @@ Avalie criticamente o impacto dessa escolha tipológica na formação da consci�
 ### Explicacion Pedagogica
 Substituir a exposição técnico-científica das enchentes (tipologia expositiva de dados de saneamento e clima gaúcho) pela comoção dramática de personagens de resgates (tipologia narrativa de suspense rápido de asfalto) constitui uma conhecida estratégia mercantilista de mídias eletrônicas de cliques rápidos. Embora gere alta empatia e visualizações na web, essa estratégia enfraquece o debate democrático e analítico sobre a responsabilidade de prefeituras por obras públicas paradas de drenagem de águas urbanas no país.
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BR-POR-11-2026-W05-tema-w05-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Estudo dos gêneros textuais
@@ -445,7 +446,7 @@ Sob a análise sociolinguística e pedagógica das tipologias textuais, avalie a
 ### Explicacion Pedagogica
 Dominar a tipologia injutiva-instrucional (compreender manuais de equipamentos, seguir rotas de evacuação de asfalto paulistas, executar bulas farmacológicas de remédios e cumprir leis de editais de prefeituras) constitui uma competência básica de alfabetização funcional do cidadão brasileiro. Os exames modernos como o ENEM avaliam com pertinência essa tipologia por ser ela ligada diretamente à sobrevivência e ao trabalho técnico de informática e engenharia no contexto urbano das grandes cidades do país.
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** BR-POR-11-2026-W05-tema-w05-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Estudo dos gêneros textuais
@@ -469,7 +470,7 @@ Considerando essa fundamentação científica de Letras, avalie qual diagnóstic
 ### Explicacion Pedagogica
 A teoria das sequências textuais de Jean-Michel Adam explica que os textos reais do vestibular brasileiro são heterogêneos. Um romance de Machado de Assis (esfera literária) possui a tipologia narrativa de ações cronológicas do Rio imperial como dominante (a matriz de sentido), mas costura com refinamento estilístico sequências descritivas (qualificar fisicamente as personagens cariocas) e sequências argumentativas (reflexões irônicas e teses morais abstratas do narrador sobre o egoísmo humano), garantindo o mérito estético elevado do clássico de vestibular paulista.
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BR-POR-11-2026-W05-tema-w05-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Estudo dos gêneros textuais

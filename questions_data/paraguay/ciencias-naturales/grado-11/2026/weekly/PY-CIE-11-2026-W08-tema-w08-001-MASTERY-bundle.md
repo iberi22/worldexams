@@ -15,6 +15,7 @@ alignment: "MEC Paraguay"
 license: "FREE"
 tier: "legacy"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 creador: "Jules-Agent"
 ---
 
@@ -24,7 +25,7 @@ Este bundle cubre de manera exhaustiva el tema de Síntesis de proteínas para e
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v1
 **Bloom:** Remember
 **EJE:** Genética y Reproducción
@@ -45,7 +46,7 @@ El concepto de La transcripción constituye un fundamento esencial para comprend
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v2
 **Bloom:** Understand
 **EJE:** Genética y Reproducción
@@ -66,7 +67,7 @@ El concepto de La ARN polimerasa II constituye un fundamento esencial para compr
 
 ---
 
-## Question 3 [D3]
+## Question 3 [D3-D4]
 **ID:** PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v3
 **Bloom:** Remember
 **EJE:** Genética y Reproducción
@@ -87,7 +88,7 @@ El concepto de El capuchón 5' (o metilguanosina Cap) constituye un fundamento e
 
 ---
 
-## Question 4 [D3]
+## Question 4 [D3-D4]
 **ID:** PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v4
 **Bloom:** Understand
 **EJE:** Genética y Reproducción
@@ -108,7 +109,7 @@ El concepto de La cola de poli-A (poliadenilación) constituye un fundamento ese
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v5
 **Bloom:** Apply
 **EJE:** Genética y Reproducción
@@ -129,7 +130,7 @@ El concepto de El splicing (o empalme) constituye un fundamento esencial para co
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v6
 **Bloom:** Understand
 **EJE:** Genética y Reproducción
@@ -150,7 +151,7 @@ El concepto de El espliceosoma (o complejo de empalme) constituye un fundamento 
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v7
 **Bloom:** Apply
 **EJE:** Genética y Reproducción
@@ -171,7 +172,7 @@ El concepto de El ARN de transferencia (ARNt) constituye un fundamento esencial 
 
 ---
 
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v8
 **Bloom:** Understand
 **EJE:** Genética y Reproducción
@@ -192,7 +193,7 @@ El concepto de La aminoacil-ARNt sintetasa constituye un fundamento esencial par
 
 ---
 
-## Question 9 [D5]
+## Question 9 [D5-D6]
 **ID:** PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v9
 **Bloom:** Apply
 **EJE:** Genética y Reproducción
@@ -213,7 +214,7 @@ El concepto de AUG, codifica para Metionina constituye un fundamento esencial pa
 
 ---
 
-## Question 10 [D5]
+## Question 10 [D5-D6]
 **ID:** PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v10
 **Bloom:** Understand
 **EJE:** Genética y Reproducción
@@ -234,7 +235,7 @@ El concepto de Sitio A (aminoacil) constituye un fundamento esencial para compre
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v11
 **Bloom:** Analyze
 **EJE:** Genética y Reproducción
@@ -255,7 +256,7 @@ El concepto de Sitio P (peptidil) constituye un fundamento esencial para compren
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v12
 **Bloom:** Apply
 **EJE:** Genética y Reproducción
@@ -276,7 +277,7 @@ El concepto de Enlace peptídico constituye un fundamento esencial para comprend
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v13
 **Bloom:** Analyze
 **EJE:** Genética y Reproducción
@@ -297,7 +298,7 @@ El concepto de Codón de terminación o STOP constituye un fundamento esencial p
 
 ---
 
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v14
 **Bloom:** Apply
 **EJE:** Genética y Reproducción
@@ -318,7 +319,7 @@ El concepto de El proteasoma constituye un fundamento esencial para comprender l
 
 ---
 
-## Question 15 [D7]
+## Question 15 [D7-D8]
 **ID:** PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v15
 **Bloom:** Analyze
 **EJE:** Genética y Reproducción
@@ -339,7 +340,7 @@ El concepto de El factor de transcripción constituye un fundamento esencial par
 
 ---
 
-## Question 16 [D7]
+## Question 16 [D7-D8]
 **ID:** PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v16
 **Bloom:** Apply
 **EJE:** Genética y Reproducción
@@ -360,7 +361,7 @@ El concepto de Polirribosoma (o polisoma) constituye un fundamento esencial para
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v17
 **Bloom:** Evaluate
 **EJE:** Genética y Reproducción
@@ -381,7 +382,7 @@ El concepto de Es degenerado o redundante constituye un fundamento esencial para
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v18
 **Bloom:** Analyze
 **EJE:** Genética y Reproducción
@@ -402,7 +403,7 @@ El concepto de Es universal constituye un fundamento esencial para comprender lo
 
 ---
 
-## Question 19 [D9]
+## Question 19 [D9-D10]
 **ID:** PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v19
 **Bloom:** Evaluate
 **EJE:** Genética y Reproducción
@@ -423,7 +424,7 @@ El concepto de Mutación de sentido erróneo (missense) constituye un fundamento
 
 ---
 
-## Question 20 [D9]
+## Question 20 [D9-D10]
 **ID:** PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v20
 **Bloom:** Analyze
 **EJE:** Genética y Reproducción

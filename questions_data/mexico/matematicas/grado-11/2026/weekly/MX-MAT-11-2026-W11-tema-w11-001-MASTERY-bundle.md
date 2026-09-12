@@ -13,12 +13,13 @@ total_questions: 20
 bundle_size: 20
 alignment: "SEP NEM Mexico 2026 / EXANI-II pensamiento matematico"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Matemático
@@ -41,7 +42,7 @@ Si dos de los ángulos agudos formados en la base de un plano de construcción s
 ### Explicacion Pedagogica
 Por definición, dos ángulos son complementarios si la suma de sus medidas es igual a 90°. Si un ángulo mide 35°, el otro se calcula restando 35° a 90°, lo que resulta en: 90° - 35° = 55°.
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Matemático
@@ -64,7 +65,7 @@ Por definición, dos ángulos son complementarios si la suma de sus medidas es i
 ### Explicacion Pedagogica
 Un triángulo isósceles es aquel que tiene dos lados de igual longitud (congruentes). Una consecuencia geométrica directa de esto es que los ángulos opuestos a dichos lados también son de igual medida.
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -87,7 +88,7 @@ Si uno de los ángulos alternos internos formados mide 110°, ¿cuánto mide el 
 ### Explicacion Pedagogica
 Cuando una recta transversal corta a dos paralelas, los ángulos colaterales internos (aquellos que se encuentran del mismo lado de la transversal y entre las paralelas) son suplementarios, es decir, suman 180°. Si uno mide 110°, el otro es: 180° - 110° = 70°.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -110,7 +111,7 @@ Si dos de los ángulos internos del triángulo miden 48° y 72° respectivamente
 ### Explicacion Pedagogica
 De acuerdo con el teorema de la suma de los de un triángulo, estos siempre suman 180°. Planteamos la ecuación: 48° + 72° + x = 180°. Simplificando: 120° + x = 180°, de donde obtenemos x = 60°.
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -133,7 +134,7 @@ Si la vela tiene forma de triángulo y sus ángulos internos están en la relaci
 ### Explicacion Pedagogica
 Representamos las medidas de los ángulos como 2x, 3x y 4x. Dado que la suma de los de un triángulo es 180°, planteamos: 2x + 3x + 4x = 180° -> 9x = 180° -> x = 20°. El ángulo mayor es 4x = 4 * 20° = 80°.
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -156,7 +157,7 @@ Si uno de los ángulos interiores no adyacentes a este ángulo exterior mide 60�
 ### Explicacion Pedagogica
 El teorema del ángulo exterior establece que cualquier ángulo exterior de un triángulo es igual a la suma de los dos ángulos interiores opuestos. Si el exterior es 135° y uno de los opuestos es 60°, el otro es: 135° - 60° = 75°.
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -179,7 +180,7 @@ Si cada arete es un triángulo equilátero, ¿cuánto mide la suma de sus tres �
 ### Explicacion Pedagogica
 Cada ángulo interno de un triángulo equilátero mide 60°. El ángulo exterior adyacente a cada uno es suplementario, es decir, mide 180° - 60° = 120°. Como el triángulo tiene tres vértices, la suma de los ángulos exteriores es 3 * 120° = 360°.
 
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -202,7 +203,7 @@ Si dos lados de un soporte triangular miden 8 cm y 15 cm, ¿entre qué valores d
 ### Explicacion Pedagogica
 La desigualdad triangular establece que en todo triángulo la longitud de cada lado debe ser menor que la suma de los otros dos lados y mayor que su diferencia absoluta. Así: 15 - 8 < x < 15 + 8, lo que equivale a 7 < x < 23.
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -225,7 +226,7 @@ Si uno de los ángulos agudos del triángulo mide el doble que el otro ángulo a
 ### Explicacion Pedagogica
 En cualquier triángulo rectángulo, la suma de los tres es 180°. Dado que un ángulo mide 90°, los otros dos ángulos agudos deben sumar 90°. Representamos los ángulos como x y 2x: x + 2x = 90° -> 3x = 90° -> x = 30°. El ángulo agudo menor es 30°.
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -248,7 +249,7 @@ Si dos paralelas son cortadas por una transversal y un ángulo alterno externo m
 ### Explicacion Pedagogica
 Los ángulos alternos externos entre líneas paralelas son congruentes. Por lo tanto, igualamos sus expresiones: 3x - 15 = 2x + 20. Restamos 2x de ambos lados: x - 15 = 20. Sumamos 15 a ambos lados: x = 35.
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -271,7 +272,7 @@ En un triángulo ABC, el ángulo en el vértice B mide 80° y el ángulo en el v
 ### Explicacion Pedagogica
 Primero, determinamos la medida del ángulo A: A = 180° - B - C = 180° - 80° - 40° = 60°. La bisectriz del ángulo A lo divide en dos partes iguales de 30° cada una (ángulo CAD = 30°). En el triángulo ADC, la suma de los es 180°: CAD + C + ADC = 180° -> 30° + 40° + ADC = 180° -> ADC = 180° - 70° = 110°.
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Pensamiento Matemático
@@ -294,7 +295,7 @@ Los ángulos internos de un triángulo miden (x + 10)°, (2x - 20)° y (3x - 50)
 ### Explicacion Pedagogica
 La suma de los es 180°: (x + 10) + (2x - 20) + (3x - 50) = 180. Agrupamos los términos con x: 6x - 60 = 180. Sumamos 60: 6x = 240, de donde x = 40. Sustituyendo x: primer ángulo = 40 + 10 = 50°; segundo ángulo = 2(40) - 20 = 60°; tercer ángulo = 3(40) - 50 = 70°. Al ser los tres ángulos menores de 90°, es un triángulo acutángulo.
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Pensamiento Matemático
@@ -317,7 +318,7 @@ La suma de los es 180°: (x + 10) + (2x - 20) + (3x - 50) = 180. Agrupamos los t
 ### Explicacion Pedagogica
 En un pentágono regular, la suma de los es (5-2)*180 = 540°, por lo que cada ángulo interno mide 108°. El ángulo de la punta de una estrella de 5 puntas se calcula de esta forma: cada punta es el ángulo de un triángulo isósceles que tiene ángulos de base de 72°, por lo que la punta mide 180° - 2 * 72° = 36°.
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Pensamiento Matemático
@@ -340,7 +341,7 @@ En un triángulo rectángulo, si la altura correspondiente a la hipotenusa divid
 ### Explicacion Pedagogica
 El teorema de la altura establece que en cualquier triángulo rectángulo, la altura trazada desde el ángulo recto a la hipotenusa es igual a la media geométrica de los dos segmentos determinados sobre ella. La fórmula es h² = m * n. Sustituyendo los de dados: h² = 4 * 9 = 36. Extrayendo la raíz cuadrada: h = 6 metros.
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pensamiento Matemático
@@ -363,7 +364,7 @@ El teorema de la altura establece que en cualquier triángulo rectángulo, la al
 ### Explicacion Pedagogica
 Las medianas de un triángulo son los segmentos de recta que unen cada vértice con el punto medio del lado opuesto. El punto donde se intersectan las tres medianas se llama baricentro (también conocido como centroide o centro de gravedad del triángulo).
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Pensamiento Matemático
@@ -386,7 +387,7 @@ Si AB = 12 m, AD = 4 m y AC = 15 m, ¿cuál es la longitud del segmento AE de ac
 ### Explicacion Pedagogica
 El Teorema de Tales establece que si en un triángulo se traza una línea paralela a cualquiera de sus lados, los otros dos lados quedan divididos en partes proporcionales. Así, la relación es AD / AB = AE / AC. Sustituyendo los de conocidos: 4 / 12 = AE / 15. Simplificando la primera fracción: 1 / 3 = AE / 15. Despejando AE: AE = 15 / 3 = 5 m.
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático
@@ -409,7 +410,7 @@ En un triángulo cuyos lados miden a = 7 cm, b = 8 cm y c = 13 cm, ¿cuál es el
 ### Explicacion Pedagogica
 Para determinar el tipo de triángulo comparamos el cuadrado del lado mayor con la suma de los cuadrados de los otros dos lados. Lado mayor al cuadrado: 13² = 169. Suma de cuadrados de los otros lados: 7² + 8² = 49 + 64 = 113. Como 169 > 113 (c² > a² + b²), el ángulo opuesto al lado mayor es obtuso, por lo que el triángulo es obtusángulo.
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático
@@ -432,7 +433,7 @@ Si en un triángulo cualquiera trazamos la recta de Euler, ¿cuáles son los tre
 ### Explicacion Pedagogica
 En la geometría del triángulo, la recta de Euler es una línea recta que pasa por tres puntos notables fundamentales: el ortocentro (punto de intersección de las alturas), el baricentro (intersección de las medianas) y el circuncentro (intersección de las mediatrices).
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático
@@ -455,7 +456,7 @@ Si en un triángulo cualquiera se traza una de sus medianas, ¿cuál de las sigu
 ### Explicacion Pedagogica
 Una mediana de un triángulo va desde un vértice hasta el punto medio del lado opuesto. Esto divide al lado opuesto en dos segmentos de igual base, b/2. Ambos triángulos más pequeños comparten el mismo vértice opuesto, por lo que su altura h es la misma. Como el área de un triángulo se calcula como (base * altura) / 2, el área de cada uno es ((b/2) * h) / 2, que es exactamente igual a la mitad del área del triángulo original.
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático

@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Português: Gêneros Textuais
 **20 perguntas | Português | BNCC Brasil / ENEM 2026**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BR-POR-11-2026-W03-tema-w03-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Estudo dos gêneros textuais
@@ -45,7 +46,7 @@ Qual gênero textual tem como objetivo principal apresentar opiniões críticas 
 ### Explicacion Pedagogica
 A resenha crítica combina resumo descritivo e análise valorativa subjetiva sobre produções culturais, facilitando ao leitor a tomada de decisão sobre consumir ou não a obra analisada.
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BR-POR-11-2026-W03-tema-w03-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Estudo dos gêneros textuais
@@ -68,7 +69,7 @@ O artigo de opinião, gênero dissertativo amplamente cobrado em exames, caracte
 ### Explicacion Pedagogica
 O artigo de opinião pertence à esfera jornalística argumentativa. Suas marcas definidoras incluem a autoria assinada, a defesa de uma tese explícita (ponto de vista) e o uso de estratégias argumentativas sólidas para convencer o leitor.
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BR-POR-11-2026-W03-tema-w03-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Estudo dos gêneros textuais
@@ -91,7 +92,7 @@ Diferentemente do artigo de opinião tradicional, o gênero editorial caracteriz
 ### Explicacion Pedagogica
 O editorial é um gênero textual jornalístico argumentativo não assinado que apresenta o posicionamento oficial da empresa de comunicação (jornal, revista ou portal de notícias) sobre temas de grande repercussão pública.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BR-POR-11-2026-W03-tema-w03-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Estudo dos gêneros textuais
@@ -114,7 +115,7 @@ A receita médica é um gênero textual que atende à seguinte finalidade comuni
 ### Explicacion Pedagogica
 A receita médica enquadra-se nos textos instrucionais ou prescritivos (tipologia injuntiva). Sua finalidade pragmática é orientar a conduta do receptor (paciente) por meio de instruções diretas de dosagens e horários.
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** BR-POR-11-2026-W03-tema-w03-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Estudo dos gêneros textuais
@@ -137,7 +138,7 @@ Sobre o gênero charge, assinale a opção que descreve de forma correta suas pr
 ### Explicacion Pedagogica
 A charge é um gênero jornalístico de caráter opinativo-crítico. Ela emprega a linguagem híbrida ou mista (imagens caricatas e balões de texto) e o humor para criticar fatos específicos do momento social, político ou econômico.
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** BR-POR-11-2026-W03-tema-w03-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Estudo dos gêneros textuais
@@ -160,7 +161,7 @@ O e-mail marketing constitui um gênero textual contemporâneo da esfera digital
 ### Explicacion Pedagogica
 O e-mail marketing é um gênero da esfera publicitária-comercial digital. Valendo-se de técnicas persuasivas e recursos visuais modernos, ele busca converter a leitura em ações corporativas ou de compra rápida.
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** BR-POR-11-2026-W03-tema-w03-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Estudo dos gêneros textuais
@@ -183,7 +184,7 @@ Dadas as marcas estilísticas do texto acima, o autor utiliza as convenções de
 ### Explicacion Pedagogica
 A crônica é um gênero híbrido entre a literatura e o jornalismo. Caracteriza-se por enfocar acontecimentos simples do dia a dia (o vendedor de milho), usando linguagem ágil, tom intimista, humor e reflexão existencial poética.
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** BR-POR-11-2026-W03-tema-w03-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Estudo dos gêneros textuais
@@ -206,7 +207,7 @@ O gênero "booktuber" (ou videorresenha literária digital rápida) se apropria 
 ### Explicacion Pedagogica
 A videorresenha ou "booktuber" é um exemplo marcante da evolução dos gêneros na era digital. Mantém a função básica da resenha clássica (apresentar e avaliar uma obra de arte), adaptando-a à semiótica das redes eletrônicas por meio da oralidade espontânea, sotaques locais, cortes rápidos e forte apelo visual de tela.
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** BR-POR-11-2026-W03-tema-w03-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Estudo dos gêneros textuais
@@ -229,7 +230,7 @@ Para que o gênero "artigo de divulgação científica" atinja com eficiência o
 ### Explicacion Pedagogica
 O artigo de divulgação científica visa traduzir as descobertas da ciência de ponta (produzidas em linguagem acadêmica restrita) para um registro linguístico de amplo alcance democrático. Deve equilibrar rigor de informação referencial com clareza explicativa didática, banindo o hermetismo de jargões técnicos excessivos.
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** BR-POR-11-2026-W03-tema-w03-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Estudo dos gêneros textuais
@@ -252,7 +253,7 @@ A carta de motivação corporativa, sob o ponto de vista da eficácia pragmátic
 ### Explicacion Pedagogica
 Gêneros da esfera profissional e corporativa, como cartas de apresentação, memorandos, currículos e relatórios, exigem observância da norma culta formal escrita (variação diafásica formal), objetividade na transmissão de dados e polidez corporativa, visando construir credibilidade acadêmica e corporativa sólida.
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BR-POR-11-2026-W03-tema-w03-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Estudo dos gêneros textuais
@@ -276,7 +277,7 @@ Assinale a opção que completa corretamente a lacuna sob a análise dos gênero
 ### Explicacion Pedagogica
 A eficácia das notícias falsas reside na usurpação semiótica: elas copiam e imitam os formatos, fontes de cabeçalho, diagramações e vocabulário pretensamente impessoal do gênero notícia legítima, induzindo o leitor leigo a crer na legitimidade da informação mentirosa de modo a desestabilizar processos sociais ou políticos.
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BR-POR-11-2026-W03-tema-w03-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Estudo dos gêneros textuais
@@ -299,7 +300,7 @@ Considerando a extensão do texto e a profundidade de tratamento das fontes cien
 ### Explicacion Pedagogica
 A reportagem diferencia-se da notícia essencialmente pelo fôlego e pela profundidade. A notícia reporta de forma concisa o fato imediato de ontem ("o quê, quem, quando, onde"). A reportagem reconstrói os processos históricos mais amplos ("por quê, como, consequências"), integrando análises de dados, infográficos visuais rústicos de computação e entrevistas aprofundadas com cientistas paulistas.
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BR-POR-11-2026-W03-tema-w03-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Estudo dos gêneros textuais
@@ -323,7 +324,7 @@ Do ponto de vista das propriedades funcionais do gênero artigo de opinião, a a
 ### Explicacion Pedagogica
 O artigo de opinião caracteriza-se por discutir temas controversos da esfera social utilizando marcas fortes de argumentação subjetiva ("não serão apagadas pelo silêncio oficial"). Diferente da notícia impessoal, a voz autoral no artigo de opinião toma partido ético de forma explícita de modo a motivar e conscientizar os cidadãos leitores.
 
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** BR-POR-11-2026-W03-tema-w03-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Estudo dos gêneros textuais
@@ -347,7 +348,7 @@ Assinale a opção que completa de forma adequada a análise científica socioli
 ### Explicacion Pedagogica
 O meme de internet é um gênero discursivo híbrido contemporâneo. Sua recepção e sucesso de compartilhamento rápido em redes dependem da cumplicidade cultural do receptor (intertextualidade), que precisa dominar os fatos do contexto compartilhado nacional (fatos de política, futebol ou memes de novelas) para captar a graça da paródia sugerida.
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** BR-POR-11-2026-W03-tema-w03-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Estudo dos gêneros textuais
@@ -370,7 +371,7 @@ Analisando a evolução do jornalismo nacional por meio das propriedades dos gê
 ### Explicacion Pedagogica
 O suporte digital de recepção eletrônica modifica as marcas e a semiótica dos gêneros textuais jornalísticos tradicionais. A notícia digital deixa de ser estática de papel e passa a integrar recursos multimodais (links eletrônicos interativos, galerias de fotos de celular, vídeos de notícias na hora e espaços virtuais abertos de comentários livres dos leitores).
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** BR-POR-11-2026-W03-tema-w03-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Estudo dos gêneros textuais
@@ -394,7 +395,7 @@ Assinale a opção que indica corretamente os recursos funcionais e argumentativ
 ### Explicacion Pedagogica
 O gênero propaganda social de utilidade pública (diferente da publicidade comercial pura de produtos de lojas) tem como meta transformar hábitos e condutas sociais lesivas à comunidade. Para atingir essa finalidade ética do receptor (conativa), a propaganda orquestra de forma estratégica recursos afetivos (imagens sentimentais comoventes) de alta empatia com comandos imperativos.
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BR-POR-11-2026-W03-tema-w03-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Estudo dos Academicos e de Pesquisa
@@ -418,7 +419,7 @@ Com base nesse trecho e na dinâmica dos gêneros discursivos na internet do Bra
 ### Explicacion Pedagogica
 A mediação editorial do passado selecionava e normatizava as "cartas dos leitores" enviadas por correio de papel físico aos jornais tradicionais. Na era das mídias eletrônicas virtuais modernas de rede, as caixas virtuais de comentários democráticos rompem essa censura educacional burocrática rápida, dando espaço livre imediato a reações coloquiais passionais instintivas das massas sociais que debatem o contexto atual de forma fluida.
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BR-POR-11-2026-W03-tema-w03-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Estudo dos gêneros textuais
@@ -441,7 +442,7 @@ O cruzamento semiótico de formatos entre reportagem de dados científicos e an�
 ### Explicacion Pedagogica
 O gênero "publieditorial" hibridiza a publicidade de marcas de prestígio com a estética denotativa neutra de reportagens científicas. Essa estratégia mercadológica sofisticada busca contornar a resistência psicológica típica do consumidor final a cartazes promocionais rústicos de loja, transmitindo autoridade por meio de infográficos, entrevistas científicas rústicas corporativas e dados técnicos que validam de forma científica os méritos de vendas de carros caros paulistas.
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** BR-POR-11-2026-W03-tema-w03-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Estudo dos Academicos e de Pesquisa
@@ -464,7 +465,7 @@ Considerando esse avanço teórico da análise dos gêneros discursivos de base 
 ### Explicacion Pedagogica
 Os gêneros discursivos são definidos pelo linguista russo Mikhail Bakhtin como tipos relativamente estáveis de enunciados que refletem as condições específicas e as finalidades de cada campo de atividade humana. Portanto, na era das comunicações eletrônicas corporativas de rede rápidas, é natural e cientificamente esperado o surgimento e adaptação constante de novos gêneros de comunicação (como podcasts de áudio, videorresenhas rápidas, fóruns e chats de inovação corporativa).
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BR-POR-11-2026-W03-tema-w03-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Estudo dos gêneros textuais

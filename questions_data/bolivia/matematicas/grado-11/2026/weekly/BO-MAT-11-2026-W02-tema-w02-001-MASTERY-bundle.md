@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Matemáticas: Tema W02 (W02)
 **20 preguntas | Grado 11 (6to de Secundaria) | MINEDU - Ley Educativa Avelino Siñani - Elizardo Pérez**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Numérico y Sistemas de Datos
@@ -42,7 +43,7 @@ bundle_index: 1
 Por definición en el sistema de los números reales, cualquier base distinta de cero elevada a la potencia 0 es igual a 1.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **EJE:** Pensamiento Numérico y Sistemas de Datos
@@ -62,7 +63,7 @@ Si el área del cultivo de hortalizas en Cochabamba está dada por la expresión
 La propiedad de potencia de una potencia establece que (a^m)^n = a^(m * n). Por lo tanto, (x^3)^2 = x^(3 * 2) = x^6.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Numérico y Sistemas de Datos
@@ -82,7 +83,7 @@ La propiedad de potencia de una potencia establece que (a^m)^n = a^(m * n). Por 
 Para simplificar la raíz de 48, buscamos el mayor cuadrado perfecto que divida a 48, el cual es 16. Entonces, raíz(48) = raíz(16 * 3) = 4 * raíz(3).
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **EJE:** Pensamiento Numérico y Sistemas de Datos
@@ -102,7 +103,7 @@ Si el lado del cubo de almacenamiento de quinua mide 2x^2 metros, ¿cuál expres
 El volumen de un cubo es lado al cubo. L = 2x^2. Entonces V = (2x^2)^3 = 2^3 * (x^2)^3 = 8x^6.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Pensamiento Numérico y Sistemas de Datos
@@ -122,7 +123,7 @@ Si el peso es expresado como la fracción (3^4 * 3^-2) / 3^3, ¿cuál es su valo
 Aplicando leyes de exponentes: en el numerador se suman exponentes al multiplicar bases iguales: 3^(4 + (-2)) = 3^2. En la división se restan: 3^(2 - 3) = 3^(-1) = 1/3.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** Pensamiento Numérico y Sistemas de Datos
@@ -142,7 +143,7 @@ Si la población de bacterias se duplica cada hora y se representa por la expres
 Reescribiendo todo a base 2: 4^x = 2^(2x). Entonces: 2^(x+3) / 2^(2x) = 2^(x + 3 - 2x) = 2^(3 - x).
 
 ---
-## Question 7 [D6]
+## Question 7 [D5-D6]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Pensamiento Numérico y Sistemas de Datos
@@ -162,7 +163,7 @@ Simplifique completamente la siguiente expresión con radicales: raíz_cúbica(2
 La raíz cúbica de un producto es el producto de las raíces cúbicas: raíz_cúbica(27) * raíz_cúbica(x^6) * raíz_cúbica(y^9) = 3 * x^(6/3) * y^(9/3) = 3x^2 * y^3.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v8
 **Bloom:** Analyze
 **EJE:** Pensamiento Numérico y Sistemas de Datos
@@ -182,7 +183,7 @@ La raíz cúbica de un producto es el producto de las raíces cúbicas: raíz_c�
 Por la regla de exponentes racionales, raíz_n(x^m) = x^(m/n). Para raíz_quinta(x^3), el índice de la raíz es 5 y el exponente es 3, resultando en x^(3/5).
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v9
 **Bloom:** Analyze
 **EJE:** Pensamiento Numérico y Sistemas de Datos
@@ -202,7 +203,7 @@ Simplifique la expresión ((a^2 * b^-3) / (a^-1 * b^2))^-2
 Primero simplificamos los términos dentro del paréntesis restando los exponentes de la misma base: a^(2 - (-1)) = a^3, y b^(-3 - 2) = b^(-5). Luego aplicamos el exponente externo -2: (a^3)^-2 = a^(-6) y (b^-5)^-2 = b^10. Así, la expresión simplificada es b^10 * a^(-6) = b^10 / a^6.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v10
 **Bloom:** Evaluate
 **EJE:** Pensamiento Numérico y Sistemas de Datos
@@ -223,7 +224,7 @@ Racionalizamos multiplicando numerador y denominador por raíz(3):
 (6 / raíz(3)) * (raíz(3) / raíz(3)) = (6 * raíz(3)) / 3. Simplificando la fracción 6/3 obtenemos 2 * raíz(3).
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v11
 **Bloom:** Remember
 **EJE:** Pensamiento Numérico y Sistemas de Datos
@@ -243,7 +244,7 @@ Racionalizamos multiplicando numerador y denominador por raíz(3):
 Por la definición algebraica de exponentes en el campo real, para cualquier x distinto de cero y n real, x^-n es exactamente equivalente a 1 / x^n.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v12
 **Bloom:** Understand
 **EJE:** Pensamiento Numérico y Sistemas de Datos
@@ -263,7 +264,7 @@ Si la resistencia de la pieza estructural depende de la expresión racional (x^(
 Primero simplificamos el numerador sumando los exponentes: 1/2 + 3/2 = 4/2 = 2. Luego restamos el exponente del denominador: 2 - 2/3 = 4/3. Por lo tanto, la expresión simplificada es x^(4/3).
 
 ---
-## Question 13 [D8]
+## Question 13 [D7-D8]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v13
 **Bloom:** Apply
 **EJE:** Pensamiento Numérico y Sistemas de Datos
@@ -284,7 +285,7 @@ Dado que ambas expresiones tienen el mismo índice de raíz (2), podemos combina
 raíz(75x^5 / 3x^3) = raíz(25 * x^(5 - 3)) = raíz(25x^2) = 5x.
 
 ---
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v14
 **Bloom:** Apply
 **EJE:** Pensamiento Numérico y Sistemas de Datos
@@ -307,7 +308,7 @@ Descomponemos los radicandos en factores con cuadrados perfectos:
 = 6 * raíz(5) - 6 * raíz(5) + raíz(5) = raíz(5).
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pensamiento Numérico y Sistemas de Datos
@@ -331,7 +332,7 @@ Multiplicamos el numerador y el denominador por la expresión conjugada del deno
 = [10 * (raíz(7) + raíz(2))] / 5 = 2 * (raíz(7) + raíz(2)).
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
 **EJE:** Pensamiento Numérico y Sistemas de Datos
@@ -351,7 +352,7 @@ Si la ecuación de tasa de retorno anual de un capital r se representa como r = 
 La tasa de retorno está dada por r = (243/32)^(1/5) - 1. Sabemos que 243 = 3^5 y 32 = 2^5. Por ende, (243/32)^(1/5) = 3/2 = 1.5. Al restar 1, r = 1.5 - 1 = 0.50.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v17
 **Bloom:** Apply
 **EJE:** Pensamiento Numérico y Sistemas de Datos
@@ -375,7 +376,7 @@ Restamos el exponente del denominador: 11/6 - 1/6 = 10/6 = 5/3.
 Por ende, la expresión final es x^(5/3).
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** Pensamiento Numérico y Sistemas de Datos
@@ -399,7 +400,7 @@ raíz[ (x + raíz(x^2 - 1)) * (x - raíz(x^2 - 1)) ]
 = raíz[ x^2 - x^2 + 1 ] = raíz(1) = 1.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Pensamiento Numérico y Sistemas de Datos
@@ -422,7 +423,7 @@ Sustituyendo y = 2:
 x^2 = 2 \implies x = raíz(2) (ya que x es positivo).
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BO-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Numérico y Sistemas de Datos

@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Lengua: Tema W07 (W07)
 **20 preguntas | Lengua | ANEP - Plan 2006 Reformulación / Programa Ubicación**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Comprensión de textos
@@ -46,7 +47,7 @@ bundle_index: 1
 La tesis constituye el núcleo ideológico de todo texto argumentativo. Es la opinión o postura que el autor sostiene y alrededor de la cual articula sus argumentos.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Comprensión de textos
@@ -70,7 +71,7 @@ La tesis constituye el núcleo ideológico de todo texto argumentativo. Es la op
 El argumento de autoridad transfiere el prestigio intelectual o científico del organismo citado (Unicef) hacia la tesis del orador, reforzando su veracidad ante el receptor.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Comprensión de textos
@@ -94,7 +95,7 @@ El argumento de autoridad transfiere el prestigio intelectual o científico del 
 Los conectores consecutivos ('por lo tanto', 'por consiguiente', 'en consecuencia') son pilares del texto argumentativo. Introducen el cierre deductivo o tesis derivada de las premisas analizadas.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Comprensión de textos
@@ -118,7 +119,7 @@ Los conectores consecutivos ('por lo tanto', 'por consiguiente', 'en consecuenci
 La analogía argumentativa transfiere la lógica aceptada de un dominio familiar (el deporte) hacia un dominio que se pretende demostrar (la lectura), facilitando la persuasión intelectual del receptor.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Comprensión de textos
@@ -143,7 +144,7 @@ Identificá qué recurso argumentativo complejo destaca en el pasaje anterior pa
 La contra-argumentación y la refutación enriquecen el texto argumentativo de debate intelectual. Mostrar las costuras o simplismos de la tesis contraria consolida el prestigio de la tesis defendida por el autor.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Comprensión de textos
@@ -167,7 +168,7 @@ La contra-argumentación y la refutación enriquecen el texto argumentativo de d
 El argumento de causa-efecto asienta su validez en las leyes físicas, biológicas o lógicas de la realidad del referente. Demostrar la relación de causalidad dota de gran rigor persuasivo a la tesis ecologista de prohibición.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -191,7 +192,7 @@ El argumento de causa-efecto asienta su validez en las leyes físicas, biológic
 Escribir textos de opinión exige calibrar los argumentos de acuerdo con el público destinatario. El beneficio vecinal (causa-efecto local) apoyado por directivas científicas (autoridad) conforma la fórmula de oro de la argumentación ciudadana.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -215,7 +216,7 @@ Escribir textos de opinión exige calibrar los argumentos de acuerdo con el púb
 La generalización apresurada vulnera el rigor de la lógica argumentativa. Para sostener una tesis sociológica general se requieren muestras representativas o estudios serios, y no meras anécdotas aisladas de paradas de ómnibus.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -240,7 +241,7 @@ La generalización apresurada vulnera el rigor de la lógica argumentativa. Para
 Los conectores adversativos y concesivos ('no obstante', 'sin embargo', 'por más que', 'a pesar de') son indispensables en la argumentación seria de prensa. Permiten matizar, balancear perspectivas e introducir advertencias indispensables para la veracidad de la pieza.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -265,7 +266,7 @@ Los conectores adversativos y concesivos ('no obstante', 'sin embargo', 'por má
 La falacia ad populum es un recurso persuasivo demagógico muy frecuente. Consiste en evadir la prueba o la lógica argumentativa amparándose de forma falaz en un supuesto consenso social incuestionable de la mayoría.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -290,7 +291,7 @@ Analizá los recursos argumentativos desplegados en este pasaje. ¿Cómo sostien
 La argumentación de calidad en ciencias agrarias y ambientales de Secundaria hibrida la referencia a instituciones de prestigio (autoridad) con datos cuantitativos contrastables (hechos), neutralizando los sesgos de opinión de forma lógica verídica.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -315,7 +316,7 @@ La argumentación de calidad en ciencias agrarias y ambientales de Secundaria hi
 La falacia ad hominem representa una de las mayores trasgresiones a la ética de la argumentación racional de Secundaria. Desvía de forma maliciosa el foco del debate (la propuesta del comedor) hacia un juicio moral de la persona que la defiende.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Comprensión de textos
@@ -340,7 +341,7 @@ Analizá la estructura argumentativa de la pieza. ¿Qué concesión e irrupción
 La argumentación sólida de Secundaria admite argumentos reales de la contraparte (concesión) para luego jerarquizar los valores en disputa, demostrando que la tesis propia defiende un bien colectivo indiscutiblemente supremo (la seguridad y la vida humana).
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Comprensión de textos
@@ -364,7 +365,7 @@ La argumentación sólida de Secundaria admite argumentos reales de la contrapar
 Tanto la reducción al absurdo como el contraejemplo son herramientas de refutación lógica de gran finura intelectual en Secundaria, indispensables para desarmar la inconsistencia de las falacias informales o las tesis débiles del rival.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Comprensión de textos
@@ -389,7 +390,7 @@ Analizá críticamente el razonamiento anterior. ¿Qué trampa lógica o falacia
 La falacia de la pendiente resbaladiza elude el debate de la medida inicial (los monopatines peatonales de Secundaria) asustando de forma demagógica al receptor con un escenario de catástrofe de gran escala infundado.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Comprensión de textos
@@ -414,7 +415,7 @@ La falacia de la pendiente resbaladiza elude el debate de la medida inicial (los
 Demostrar la inconsistencia pragmática de la tesis contraria (el auto-sabotaje de su propia meta a mediano plazo) es una de las herramientas de refutación de mayor elegancia intelectual en Secundaria, desarmando la codicia comercial con su propia lógica de rentabilidad de Secundaria.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Comprensión de textos
@@ -439,7 +440,7 @@ Evaluá críticamente la estructura argumentativa, la escala de valores y la fue
 La argumentación de prensa editorial de Secundaria se asienta en la jerarquización estratégica de valores y plazos históricos. Confrontar la mezquindad de caja (corto plazo) con el beneficio geopolítico de soberanía nacional (largo plazo) dota de gran solidez y convicción racional a la editorial de prensa de Secundaria.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Comprensión de textos
@@ -464,7 +465,7 @@ Evaluá críticamente el uso de los recursos lingüísticos y de persuasión en 
 El uso de la hipérbole moral destructiva y la apelación desmesurada al miedo (ad metum) desvirtúan la argumentación seria de Secundaria. El debate de políticas de comedores escolares requiere ponderar datos de desnutrición clínica reales de Secundaria de forma lógica y verídica, sin caer en la demagogia de asustar con carátulas criminales falsas.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Comprensión de textos
@@ -488,7 +489,7 @@ El uso de la hipérbole moral destructiva y la apelación desmesurada al miedo (
 La contra-argumentación no debilita; fortalece de forma drástica la solidez del discurso de Secundaria. Asumir de forma honesta el punto de vista rival de Secundaria para desmantelarlo con datos o lógica formal (refutación) consagra el prestigio intelectual y la convicción del texto de opinión de Secundaria.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** UY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Comprensión de textos

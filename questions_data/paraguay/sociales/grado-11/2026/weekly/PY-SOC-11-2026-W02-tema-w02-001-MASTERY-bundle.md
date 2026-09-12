@@ -15,6 +15,7 @@ alignment: "MEC - Plan Común / SNEPE"
 license: "FREE"
 tier: "legacy"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 creador: "Jules-Agent"
 ---
 
@@ -22,7 +23,7 @@ creador: "Jules-Agent"
 **20 preguntas | Ciencias Sociales | MEC - Plan Común / SNEPE**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PY-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Recursos naturales y medio ambiente
@@ -45,7 +46,7 @@ creador: "Jules-Agent"
 La principal fuente de energía limpia del Paraguay es la hidroeléctrica, producida en las centrales binacionales de Itaipú y Yacyretá, y la nacional de Acaray.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PY-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Recursos naturales y medio ambiente
@@ -68,7 +69,7 @@ La principal fuente de energía limpia del Paraguay es la hidroeléctrica, produ
 El Parque Nacional Defensores del Chaco protege el Chaco Seco y alberga al cerro León, una formación montañosa única en la planicie chaqueña.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PY-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Recursos naturales y medio ambiente
@@ -91,7 +92,7 @@ El Parque Nacional Defensores del Chaco protege el Chaco Seco y alberga al cerro
 El Bosque Atlántico del Alto Paraná (BAAPA) es un hotspot de biodiversidad sumamente degradado por la deforestación.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PY-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Recursos naturales y medio ambiente
@@ -114,7 +115,7 @@ El Bosque Atlántico del Alto Paraná (BAAPA) es un hotspot de biodiversidad sum
 La Ley N° 2524/04 'De prohibición en la Región Oriental de las actividades de transformación y conversión de superficies con cobertura de bosques' busca proteger el BAAPA.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PY-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Recursos naturales y medio ambiente
@@ -137,7 +138,7 @@ La Ley N° 2524/04 'De prohibición en la Región Oriental de las actividades de
 Los bosques actúan como esponjas naturales que regulan el flujo de agua dulce. Su tala desestabiliza el balance hídrico, provocando inundaciones y sequías extremas.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PY-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Recursos naturales y medio ambiente
@@ -160,7 +161,7 @@ Los bosques actúan como esponjas naturales que regulan el flujo de agua dulce. 
 El uso inadecuado de agroquímicos genera la contaminación de arroyos y napas freáticas superficiales, amenazando la salud pública y la biodiversidad acuática.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PY-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Recursos naturales y medio ambiente
@@ -183,7 +184,7 @@ El uso inadecuado de agroquímicos genera la contaminación de arroyos y napas f
 El lago Ypacaraí es un símbolo nacional que experimenta un grave proceso de eutrofización antrópica por la descarga de contaminantes urbanos e industriales.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PY-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Recursos naturales y medio ambiente
@@ -206,7 +207,7 @@ La erosión del suelo en las fincas de la agricultura familiar paraguaya suele a
 La escorrentía hídrica es el principal agente de erosión en las laderas onduladas de la Región Oriental paraguaya, agravada por prácticas agrícolas inadecuadas.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PY-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Recursos naturales y medio ambiente
@@ -229,7 +230,7 @@ La escorrentía hídrica es el principal agente de erosión en las laderas ondul
 La ganadería chaqueña depende del almacenamiento de agua de lluvia en tajamares. Las sequías severas reducen las reservas hídricas y secan los pastos.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PY-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Recursos naturales y medio ambiente
@@ -252,7 +253,7 @@ La ganadería chaqueña depende del almacenamiento de agua de lluvia en tajamare
 El Acuerdo de París busca mantener el aumento de la temperatura global por debajo de los 2 °C, comprometiendo a los países signatarios a presentar metas climáticas.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PY-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Recursos naturales y medio ambiente
@@ -275,7 +276,7 @@ Al analizar la fragmentación de los bosques nativos xerófilos del Chaco paragu
 La pérdida de hábitat es la principal amenaza para la supervivencia del yaguareté, el mayor felino de América, protegido por ley paraguaya.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PY-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Recursos naturales y medio ambiente
@@ -298,7 +299,7 @@ A pesar de que el Paraguay produce abundante energía hidroeléctrica limpia, ¿
 La paradoja energética del Paraguay estriba en generar abundante electricidad hidroeléctrica limpia, pero consumir un alto porcentaje de energía derivada de combustibles fósiles importados y biomasa (leña) por carencias de red.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PY-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Recursos naturales y medio ambiente
@@ -321,7 +322,7 @@ La paradoja energética del Paraguay estriba en generar abundante electricidad h
 La construcción de colosales embalses modifica los biomas riparios, inundando hábitats terrestres y alterando la dinámica natural de los ecosistemas acuáticos fluviales.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PY-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Recursos naturales y medio ambiente
@@ -344,7 +345,7 @@ Al analizar la desecación y relleno de humedales periféricos a la Gran Asunci�
 Los humedales prestan un servicio ecosistémico crítico de control de inundaciones urbanas al funcionar como colectores de excedentes hídricos.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PY-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Recursos naturales y medio ambiente
@@ -367,7 +368,7 @@ La pérdida progresiva de materia orgánica y nutrientes en los suelos agrícola
 La degradación del suelo por monocultivo es uno de los mayores desafíos de sostenibilidad agrícola que afronta la Región Oriental paraguaya.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PY-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Recursos naturales y medio ambiente
@@ -390,7 +391,7 @@ La degradación del suelo por monocultivo es uno de los mayores desafíos de sos
 El Acuífero Guaraní requiere una protección internacional coordinada, con especial énfasis en el control de actividades contaminantes en sus zonas de afloramiento.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PY-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Recursos naturales y medio ambiente
@@ -413,7 +414,7 @@ Al juzgar los factores que limitan la aplicación efectiva de las leyes ambienta
 La fiscalización ambiental en el interior del país requiere el fortalecimiento de las capacidades operativas del MADES y de la justicia especializada.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PY-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Recursos naturales y medio ambiente
@@ -436,7 +437,7 @@ Al evaluar críticamente las opciones de desarrollo ganadero sustentable en el C
 La ganadería sustentable en el Chaco paraguayo requiere el cumplimiento de las normativas de conservación forestal del MADES y el INFONA (Instituto Forestal Nacional) para prevenir la desertificación.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PY-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Recursos naturales y medio ambiente
@@ -459,7 +460,7 @@ Al evaluar críticamente los impactos ecológicos de la deficiente gestión de r
 La gestión ineficaz de los residuos sólidos urbanos representa una severa amenaza ecológica y sanitaria para los ecosistemas hídricos continentales del país.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PY-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Recursos naturales y medio ambiente

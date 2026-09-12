@@ -16,11 +16,12 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle — Matemáticas: Funciones Lineales y Cuadráticas (UY-MAT-11-W05)
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Funcional
@@ -39,7 +40,7 @@ bundle_index: 1
 ### Explicación Pedagógica
 Una función asigna a cada $x$ del dominio un único $y$. Las propiedades de inyectividad o sobreyectividad son adicionales, no parte de la definición.
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Funcional
@@ -58,7 +59,7 @@ En la función lineal $f(x) = 3x - 5$, ¿cuál es la pendiente?
 ### Explicación Pedagógica
 En la forma explícita $y = mx + b$, $m$ es la pendiente (tasa de cambio) y $b$ la ordenada al origen. Aquí $m = 3$.
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Funcional
@@ -77,7 +78,7 @@ En la forma explícita $y = mx + b$, $m$ es la pendiente (tasa de cambio) y $b$ 
 ### Explicación Pedagógica
 Evaluar una función es sustituir la variable: $C(5) = 40 \cdot 5 + 60 = 260$. El término independiente es el costo fijo del servicio.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Funcional
@@ -96,7 +97,7 @@ Evaluar una función es sustituir la variable: $C(5) = 40 \cdot 5 + 60 = 260$. E
 ### Explicación Pedagógica
 Las funciones polinómicas no tienen divisiones ni raíces de índice par que restrinjan valores: su dominio es todo $\mathbb{R}$.
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Pensamiento Funcional
@@ -115,7 +116,7 @@ Si $f(x) = 2x^2 - x$, ¿cuál es el valor de $f(3)$?
 ### Explicación Pedagógica
 Sustituyendo: $f(3) = 2(3)^2 - 3 = 18 - 3 = 15$. Respetar la jerarquía: primero la potencia, luego los productos.
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** Pensamiento Funcional
@@ -134,7 +135,7 @@ Sustituyendo: $f(3) = 2(3)^2 - 3 = 18 - 3 = 15$. Respetar la jerarquía: primero
 ### Explicación Pedagógica
 La raíz se obtiene igualando a cero: $4x = 12$, $x = 3$. Gráficamente es donde la recta corta al eje $x$.
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Pensamiento Funcional
@@ -153,7 +154,7 @@ La raíz se obtiene igualando a cero: $4x = 12$, $x = 3$. Gráficamente es donde
 ### Explicación Pedagógica
 La pendiente entre dos puntos es $m = \frac{y_2 - y_1}{x_2 - x_1} = \frac{8}{4} = 2$: por cada unidad horizontal, la recta sube dos.
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Funcional
@@ -172,7 +173,7 @@ La pendiente entre dos puntos es $m = \frac{y_2 - y_1}{x_2 - x_1} = \frac{8}{4} 
 ### Explicación Pedagógica
 Con punto-pendiente: $y - 1 = -2(x - 3)$, desarrollando $y = -2x + 7$. Verificación: en $x = 3$ da $y = 1$.
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Pensamiento Funcional
@@ -191,7 +192,7 @@ Las funciones $f(x) = 2x + 3$ y $g(x) = -x + 9$ se intersecan en el punto de abs
 ### Explicación Pedagógica
 La intersección se halla igualando las expresiones: $2x + 3 = -x + 9$, así $x = 2$ e $y = 7$. El punto es $(2, 7)$.
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Funcional
@@ -210,7 +211,7 @@ La intersección se halla igualando las expresiones: $2x + 3 = -x + 9$, así $x 
 ### Explicación Pedagógica
 Buscando dos números con suma 6 y producto 5: 1 y 5. Las raíces marcan donde la parábola cruza el eje $x$.
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Pensamiento Funcional
@@ -229,7 +230,7 @@ Buscando dos números con suma 6 y producto 5: 1 y 5. Las raíces marcan donde l
 ### Explicación Pedagógica
 Dos rectas con igual pendiente y distinta ordenada al origen son paralelas: no se intersecan jamás. La perpendicularidad exige pendientes inversas y opuestas.
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Pensamiento Funcional
@@ -248,7 +249,7 @@ Dos rectas con igual pendiente y distinta ordenada al origen son paralelas: no s
 ### Explicación Pedagógica
 Resolver $-2x + 8 > 0$ da $x < 4$, invirtiendo el sentido al dividir por $-2$. Coherente con una recta decreciente que corta al eje en 4.
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Pensamiento Funcional
@@ -267,7 +268,7 @@ La función $f(x) = -x^2 + 6x - 5$ alcanza su valor máximo en:
 ### Explicación Pedagógica
 Con $a = -1 < 0$ la parábola abre hacia abajo y el vértice es máximo: $x_v = \frac{-6}{-2} = 3$, $f(3) = 4$.
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v14
 **Bloom:** Apply
 **EJE:** Pensamiento Funcional
@@ -286,7 +287,7 @@ Si $f(x) = 3x + 2$ y $g(x) = x - 4$, ¿cuál es el valor de $f(g(6))$?
 ### Explicación Pedagógica
 La composición $f(g(x))$ evalúa primero la función interna: $g(6) = 2$, luego $f(2) = 8$. El orden no es conmutativo en general.
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pensamiento Funcional
@@ -305,7 +306,7 @@ La composición $f(g(x))$ evalúa primero la función interna: $g(6) = 2$, luego
 ### Explicación Pedagógica
 En $y = (x - h)^2 + k$ el vértice pasa a $(h, k)$: traslación horizontal $h$ a la derecha y vertical $k$ hacia arriba. Aquí el vértice queda en $(3, 2)$.
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Pensamiento Funcional
@@ -324,7 +325,7 @@ En $y = (x - h)^2 + k$ el vértice pasa a $(h, k)$: traslación horizontal $h$ a
 ### Explicación Pedagógica
 Invertir consiste en despejar $x$ en función de $y$: $x = \frac{y-6}{2}$, y renombrar: $f^{-1}(x) = \frac{x-6}{2}$. La composición $f(f^{-1}(x)) = x$ lo verifica.
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Pensamiento Funcional
@@ -343,7 +344,7 @@ Una tabla muestra que para $x = 1, 2, 3$ los valores de $f(x)$ son $5, 7, 9$. ¿
 ### Explicación Pedagógica
 Diferencias primeras constantes ($+2$) identifican un modelo lineal con pendiente 2; ajustando el punto $(1, 5)$ queda $f(x) = 2x + 3$.
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Funcional
@@ -362,7 +363,7 @@ Diferencias primeras constantes ($+2$) identifican un modelo lineal con pendient
 ### Explicación Pedagógica
 La prueba de la recta vertical traduce la definición: ninguna vertical puede tocar dos puntos de la gráfica, porque eso asignaría dos imágenes a un mismo $x$.
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Pensamiento Funcional
@@ -381,7 +382,7 @@ La prueba de la recta vertical traduce la definición: ninguna vertical puede to
 ### Explicación Pedagógica
 El ingreso $I(q) = 120q - 2q^2$ es una parábola que abre hacia abajo; su máximo está en el vértice $q = 30$, con ingreso $1800$ miles de pesos.
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Funcional

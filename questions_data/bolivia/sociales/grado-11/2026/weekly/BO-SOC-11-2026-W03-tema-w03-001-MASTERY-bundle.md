@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Ciencias Sociales: Rebeliones indígenas coloniales y precursores de la independencia: Túpac Katari, Bartolina Sisa y revoluciones de 1809 (W03)
 **20 preguntas | Ciencias Sociales | Ministerio de Educacion del Estado Plurinacional de Bolivia (MINEDU)**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BO-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Social
@@ -45,7 +46,7 @@ bundle_index: 1
 El cerco a La Paz de 1781 constituyó uno de los desafíos militares más agudos enfrentados por el imperio español en América. Fue conducido por Julián Apaza (Túpac Katari) y su esposa y virreina Bartolina Sisa, movilizando a más de 40,000 indígenas.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BO-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Social
@@ -68,7 +69,7 @@ El cerco a La Paz de 1781 constituyó uno de los desafíos militares más agudos
 La revolución del 25 de mayo de 1809 en Chuquisaca inauguró el periodo de las juntas de gobierno autónomas en Hispanoamérica. Aunque formalmente declaraba lealtad al cautivo rey Fernando VII, sembró las bases ideológicas de la emancipación.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BO-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -91,7 +92,7 @@ La revolución del 25 de mayo de 1809 en Chuquisaca inauguró el periodo de las 
 La revolución de La Paz del 16 de julio de 1809 fue mucho más radical que la de Chuquisaca. Creó la Junta Tuitiva de los Derechos del Rey y del Pueblo, incorporando por primera vez a mestizos en el gobierno autónomo y redactando una encendida proclama de soberanía.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BO-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -114,7 +115,7 @@ La revolución de La Paz del 16 de julio de 1809 fue mucho más radical que la d
 La rebelión de Tomás Katari en Chayanta (norte de Potosí) precedió a las grandes sublevaciones de Túpac Amaru en el Cuzco y de Túpac Katari en La Paz. Demostró el profundo malestar indígena con el sistema de corregimientos y abusos fiscales coloniales.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** BO-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -137,7 +138,7 @@ La rebelión de Tomás Katari en Chayanta (norte de Potosí) precedió a las gra
 La violenta reacción del virrey Abascal y la implacable campaña de Goyeneche sofocaron la revolución de 1809, pero desataron una prolongada y sangrienta guerra de guerrillas que duraría quince años, conocida como la Guerra de la Independencia de Bolivia.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** BO-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -160,7 +161,7 @@ La violenta reacción del virrey Abascal y la implacable campaña de Goyeneche s
 Bartolina Sisa es un símbolo cumbre de la resistencia indígena americana. Capturada por traición en 1781, resistió torturas extremas antes de ser ejecutada por las autoridades coloniales españolas en septiembre de 1782 en La Paz.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** BO-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v7
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -183,7 +184,7 @@ Bartolina Sisa es un símbolo cumbre de la resistencia indígena americana. Capt
 El martirio de los cabecillas de la Junta Tuitiva en la plaza principal de La Paz (hoy plaza Murillo) conmocionó a la sociedad altoperuana. En lugar de aplacar los ánimos patriotas, consolidó el convencimiento de que la única salida viable era la independencia total.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** BO-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Social
@@ -206,7 +207,7 @@ El martirio de los cabecillas de la Junta Tuitiva en la plaza principal de La Pa
 Los doctores revolucionarios de Chuquisaca supieron articular la filosofía política moderna ilustrada con las teorías escolásticas tradicionales de la resistencia a la tiranía, armando conceptualmente el grito emancipador que sacudió la Real Audiencia.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** BO-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Pensamiento Social
@@ -229,7 +230,7 @@ Si aplicamos la cronología de las revoluciones de 1809-1810 a las tierras bajas
 La revolución del 24 de septiembre de 1810 en Santa Cruz demostró que el fervor libertario de Charcas se expandió con fuerza hacia los llanos del oriente boliviano, integrando la causa independentista de las tierras altas con las tierras bajas.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** BO-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Social
@@ -252,7 +253,7 @@ La revolución del 24 de septiembre de 1810 en Santa Cruz demostró que el fervo
 Esta fractura social entre criollos andinos e indígenas facilitó que los realistas españoles derrotaran por separado a ambos movimientos. El miedo de la élite terrateniente e industrial de la plata a una sublevación indígena de masas persistiría a lo largo de todo el siglo XIX.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BO-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -275,7 +276,7 @@ Esta fractura social entre criollos andinos e indígenas facilitó que los reali
 La represión cultural post-1781 buscó descabezar el orgullo étnico e histórico andino. Los 'Comentarios Reales' de Garcilaso de la Vega fueron catalogados de peligrosos por exaltar el pasado del Tahuantinsuyo, pero la memoria andina resistió de forma oral y sincrética.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BO-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -298,7 +299,7 @@ La represión cultural post-1781 buscó descabezar el orgullo étnico e históri
 El Silogismo Altoperuano, difundido intensamente en Chuquisaca por universitarios de San Francisco Xavier, fue una brillante estratagema jurídica. Permitió argumentar de manera racional e irrebatible la rebelión y destitución de los oidores realistas afines a Bonaparte.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BO-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -321,7 +322,7 @@ Al analizar la composición social de la Junta Tuitiva de La Paz de 1809, ¿qué
 El carácter pluriclasista de la Junta Tuitiva la convirtió en un hito revolucionario. Este atrevimiento paceño de incluir a las mayorías mestizas e indígenas asustó tanto al virrey de Lima como a la aristocracia de Chuquisaca, acelerando la implacable represión de Goyeneche.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** BO-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -344,7 +345,7 @@ El carácter pluriclasista de la Junta Tuitiva la convirtió en un hito revoluci
 El aplastamiento militar de 1781 no resolvió el problema estructural de la explotación indígena en Charcas. Consolidó un Estado colonial fuertemente custodiado por guarniciones militares, donde el odio de castas y la exclusión de mayorías indígenas sembraron vientos de guerra permanente.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** BO-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -367,7 +368,7 @@ El aplastamiento militar de 1781 no resolvió el problema estructural de la expl
 Los doctores de Chuquisaca sabían que declarar la independencia directa en 1809 los pondría al margen de la ley imperial de inmediato. La 'fidelidad aparente' al monarca prisionero de Napoleón neutralizaba los argumentos de traición, permitiendo convocar al cabildo autónomo.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** BO-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -390,7 +391,7 @@ Los doctores de Chuquisaca sabían que declarar la independencia directa en 1809
 Las revoluciones altoperuanas demostraron desde el inicio una vocación de autonomía local. Deseaban cooperar con las Provincias Unidas del Río de la Plata contra las tropas reales de Lima, pero resguardando férreamente las prerrogativas de sus propios cabildos provinciales.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BO-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -413,7 +414,7 @@ Al juzgar el alcance de las revoluciones de Chuquisaca y La Paz de 1809 en el pr
 El Alto Perú fue el primero en levantarse en armas contra el absolutismo real en 1809 y, paradojalmente, el último en consolidar su independencia formal en 1825. El sacrificio de sus líderes (como Murillo) regó la semilla republicana a lo largo de América.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BO-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -436,7 +437,7 @@ Al evaluar comparativamente los proyectos de Túpac Katari de 1781 y de Pedro Do
 Los dos proyectos representan horizontes libertarios distintos pero interconectados de la historia de Bolivia. El desencuentro entre las masas indígenas andinas y la vanguardia criolla ilustrada marcó con contradicciones insalvables el posterior proceso de construcción republicana del Estado.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** BO-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -459,7 +460,7 @@ Al juzgar la trascendencia del símbolo de Túpac Katari y su famosa advertencia
 La figura de Túpac Katari trasciende el hecho histórico de 1781. Es un núcleo de identidad política de Bolivia. La vigencia de su memoria demuestra el dinamismo de los símbolos prehispánicos y coloniales en la arena de disputas estatales contemporáneas.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BO-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social

@@ -16,11 +16,12 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle — Matemáticas: Probabilidad y Conteo (UY-MAT-11-W10)
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Aleatorio
@@ -39,7 +40,7 @@ bundle_index: 1
 ### Explicación Pedagógica
 Con resultados equiprobables, la probabilidad de un evento es el cociente entre los casos que lo cumplen y el total de casos posibles.
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Aleatorio
@@ -58,7 +59,7 @@ Al lanzar una moneda dos veces, ¿cuál es el espacio muestral?
 ### Explicación Pedagógica
 Cada lanzamiento tiene 2 resultados; dos lanzamientos dan $2 \times 2 = 4$ pares ordenados: $CC, CS, SC, SS$.
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Aleatorio
@@ -77,7 +78,7 @@ Cada lanzamiento tiene 2 resultados; dos lanzamientos dan $2 \times 2 = 4$ pares
 ### Explicación Pedagógica
 Casos favorables: $\{2, 4, 6\}$, tres de seis posibles. $P = \frac{3}{6} = \frac{1}{2}$.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Aleatorio
@@ -96,7 +97,7 @@ Casos favorables: $\{2, 4, 6\}$, tres de seis posibles. $P = \frac{3}{6} = \frac
 ### Explicación Pedagógica
 Los axiomas de la probabilidad exigen $0 \le P(E) \le 1$: 0 para eventos imposibles y 1 para eventos seguros.
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Pensamiento Aleatorio
@@ -115,7 +116,7 @@ Los axiomas de la probabilidad exigen $0 \le P(E) \le 1$: 0 para eventos imposib
 ### Explicación Pedagógica
 Total: 10 caramelos; favorables: 4 rojos. $P = \frac{4}{10} = \frac{2}{5} = 0.4$.
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** Pensamiento Aleatorio
@@ -134,7 +135,7 @@ Total: 10 caramelos; favorables: 4 rojos. $P = \frac{4}{10} = \frac{2}{5} = 0.4$
 ### Explicación Pedagógica
 Casos favorables: 4 ases; posibles: 40 cartas. $P = \frac{4}{40} = 0.1$.
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Pensamiento Aleatorio
@@ -153,7 +154,7 @@ Un restaurante ofrece 3 entradas, 4 platos principales y 2 postres. ¿Cuántos m
 ### Explicación Pedagógica
 El principio de la multiplicación: si hay 3 formas de elegir la entrada, 4 el plato y 2 el postre, el total de menús es $3 \cdot 4 \cdot 2 = 24$.
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Aleatorio
@@ -172,7 +173,7 @@ El principio de la multiplicación: si hay 3 formas de elegir la entrada, 4 el p
 ### Explicación Pedagógica
 Las ordenaciones de $n$ objetos distintos son $n!$: $4! = 24$ formas de disponer los libros.
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Pensamiento Aleatorio
@@ -191,7 +192,7 @@ Si la probabilidad de que llueva mañana es $0.3$, ¿cuál es la probabilidad de
 ### Explicación Pedagógica
 La regla del complemento: $P(\bar{E}) = 1 - P(E) = 1 - 0.3 = 0.7$. Es la forma más rápida de calcular "al menos uno no ocurre".
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Aleatorio
@@ -210,7 +211,7 @@ La regla del complemento: $P(\bar{E}) = 1 - P(E) = 1 - 0.3 = 0.7$. Es la forma m
 ### Explicación Pedagógica
 Como los cargos son distintos, el orden importa: 5 opciones para presidente y 4 restantes para secretario: $5 \times 4 = 20$ (variaciones de 5 en 2).
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Pensamiento Aleatorio
@@ -229,7 +230,7 @@ Como los cargos son distintos, el orden importa: 5 opciones para presidente y 4 
 ### Explicación Pedagógica
 Cuando los seleccionados cumplen el mismo rol, intercambiar el orden no genera un resultado nuevo: se cuenta con combinaciones $\binom{n}{k}$.
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Pensamiento Aleatorio
@@ -248,7 +249,7 @@ Cuando los seleccionados cumplen el mismo rol, intercambiar el orden no genera u
 ### Explicación Pedagógica
 Sin importar el orden: $\binom{6}{2} = \frac{6!}{2! \cdot 4!} = 15$ comisiones posibles.
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Pensamiento Aleatorio
@@ -267,7 +268,7 @@ Sin importar el orden: $\binom{6}{2} = \frac{6!}{2! \cdot 4!} = 15$ comisiones p
 ### Explicación Pedagógica
 Eventos mutuamente excluyentes: $P(A \cup B) = P(A) + P(B) = \frac{1}{6} + \frac{1}{6} = \frac{1}{3}$.
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v14
 **Bloom:** Apply
 **EJE:** Pensamiento Aleatorio
@@ -286,7 +287,7 @@ Eventos mutuamente excluyentes: $P(A \cup B) = P(A) + P(B) = \frac{1}{6} + \frac
 ### Explicación Pedagógica
 Sin reposición, el segundo evento es condicional: $P = \frac{5}{8} \times \frac{3}{7} = \frac{15}{56} \approx 0.268$.
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pensamiento Aleatorio
@@ -305,7 +306,7 @@ Sin reposición, el segundo evento es condicional: $P = \frac{5}{8} \times \frac
 ### Explicación Pedagógica
 Eventos independientes: las probabilidades se multiplican: $\frac{1}{2} \cdot \frac{1}{2} = \frac{1}{4}$, coincidente con el único caso $CC$ de cuatro.
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Pensamiento Aleatorio
@@ -324,7 +325,7 @@ Eventos independientes: las probabilidades se multiplican: $\frac{1}{2} \cdot \f
 ### Explicación Pedagógica
 "Al menos una" se calcula por complemento: $1 - P(\text{ninguna}) = 1 - \frac{1}{4} = \frac{3}{4}$. Directo: $CC, CS, SC$ son 3 de 4 casos.
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Pensamiento Aleatorio
@@ -343,7 +344,7 @@ Eventos independientes: las probabilidades se multiplican: $\frac{1}{2} \cdot \f
 ### Explicación Pedagógica
 La falacia del apostador supone que los resultados pasados influyen en futuros. En lanzamientos independientes, $P(\text{sello}) = \frac{1}{2}$ siempre.
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Aleatorio
@@ -362,7 +363,7 @@ Para calcular $P(A \cap B)$ como $P(A) \cdot P(B)$, ¿qué condición debe verif
 ### Explicación Pedagógica
 La multiplicación de probabilidades marginales exige independencia. Lluvia y tráfico suelen estar relacionados, así que habría que usar probabilidad condicional.
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Pensamiento Aleatorio
@@ -381,7 +382,7 @@ La multiplicación de probabilidades marginales exige independencia. Lluvia y tr
 ### Explicación Pedagógica
 En eliminación simple, cada partido elimina exactamente un equipo. Para dejar un campeón entre 8 hay que eliminar 7: 7 partidos (4 + 2 + 1).
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Aleatorio

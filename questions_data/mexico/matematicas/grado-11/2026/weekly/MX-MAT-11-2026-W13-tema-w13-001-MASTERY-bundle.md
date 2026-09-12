@@ -13,12 +13,13 @@ total_questions: 20
 bundle_size: 20
 alignment: "SEP NEM Mexico 2026 / EXANI-II pensamiento matematico"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Matemático
@@ -41,7 +42,7 @@ En dos triángulos semejantes, sus lados correspondientes están en la razón 3:
 ### Explicacion Pedagogica
 Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 15 cm, entonces P_mayor = P_menor * (4/3) = 15 * 4 / 3 = 20 cm.
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Matemático
@@ -64,7 +65,7 @@ En dos triángulos semejantes, sus lados correspondientes están en la razón 3:
 ### Explicacion Pedagogica
 Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 18 cm, entonces P_mayor = P_menor * (4/3) = 18 * 4 / 3 = 24 cm.
 
-## Question 3 [D5]
+## Question 3 [D5-D6]
 **ID:** MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v3
 **Bloom:** Remember
 **EJE:** Pensamiento Matemático
@@ -87,7 +88,7 @@ En dos triángulos semejantes, sus lados correspondientes están en la razón 3:
 ### Explicacion Pedagogica
 Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 21 cm, entonces P_mayor = P_menor * (4/3) = 21 * 4 / 3 = 28 cm.
 
-## Question 4 [D6]
+## Question 4 [D5-D6]
 **ID:** MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v4
 **Bloom:** Remember
 **EJE:** Pensamiento Matemático
@@ -110,7 +111,7 @@ En dos triángulos semejantes, sus lados correspondientes están en la razón 3:
 ### Explicacion Pedagogica
 Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 24 cm, entonces P_mayor = P_menor * (4/3) = 24 * 4 / 3 = 32 cm.
 
-## Question 5 [D9]
+## Question 5 [D9-D10]
 **ID:** MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -133,7 +134,7 @@ En dos triángulos semejantes, sus lados correspondientes están en la razón 3:
 ### Explicacion Pedagogica
 Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 27 cm, entonces P_mayor = P_menor * (4/3) = 27 * 4 / 3 = 36 cm.
 
-## Question 6 [D10]
+## Question 6 [D9-D10]
 **ID:** MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -156,7 +157,7 @@ En dos triángulos semejantes, sus lados correspondientes están en la razón 3:
 ### Explicacion Pedagogica
 Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 30 cm, entonces P_mayor = P_menor * (4/3) = 30 * 4 / 3 = 40 cm.
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v7
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -179,7 +180,7 @@ En dos triángulos semejantes, sus lados correspondientes están en la razón 3:
 ### Explicacion Pedagogica
 Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 33 cm, entonces P_mayor = P_menor * (4/3) = 33 * 4 / 3 = 44 cm.
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v8
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -202,7 +203,7 @@ En dos triángulos semejantes, sus lados correspondientes están en la razón 3:
 ### Explicacion Pedagogica
 Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 36 cm, entonces P_mayor = P_menor * (4/3) = 36 * 4 / 3 = 48 cm.
 
-## Question 9 [D7]
+## Question 9 [D7-D8]
 **ID:** MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v9
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -225,7 +226,7 @@ En dos triángulos semejantes, sus lados correspondientes están en la razón 3:
 ### Explicacion Pedagogica
 Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 39 cm, entonces P_mayor = P_menor * (4/3) = 39 * 4 / 3 = 52 cm.
 
-## Question 10 [D8]
+## Question 10 [D7-D8]
 **ID:** MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v10
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -248,7 +249,7 @@ En dos triángulos semejantes, sus lados correspondientes están en la razón 3:
 ### Explicacion Pedagogica
 Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 42 cm, entonces P_mayor = P_menor * (4/3) = 42 * 4 / 3 = 56 cm.
 
-## Question 11 [D11]
+## Question 11 [D9-D10]
 **ID:** MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -271,7 +272,7 @@ En dos triángulos semejantes, sus lados correspondientes están en la razón 3:
 ### Explicacion Pedagogica
 Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 45 cm, entonces P_mayor = P_menor * (4/3) = 45 * 4 / 3 = 60 cm.
 
-## Question 12 [D12]
+## Question 12 [D9-D10]
 **ID:** MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -294,7 +295,7 @@ En dos triángulos semejantes, sus lados correspondientes están en la razón 3:
 ### Explicacion Pedagogica
 Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 48 cm, entonces P_mayor = P_menor * (4/3) = 48 * 4 / 3 = 64 cm.
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v13
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -317,7 +318,7 @@ En dos triángulos semejantes, sus lados correspondientes están en la razón 3:
 ### Explicacion Pedagogica
 Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 51 cm, entonces P_mayor = P_menor * (4/3) = 51 * 4 / 3 = 68 cm.
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v14
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -340,7 +341,7 @@ En dos triángulos semejantes, sus lados correspondientes están en la razón 3:
 ### Explicacion Pedagogica
 Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 54 cm, entonces P_mayor = P_menor * (4/3) = 54 * 4 / 3 = 72 cm.
 
-## Question 15 [D9]
+## Question 15 [D9-D10]
 **ID:** MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v15
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -363,7 +364,7 @@ En dos triángulos semejantes, sus lados correspondientes están en la razón 3:
 ### Explicacion Pedagogica
 Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 57 cm, entonces P_mayor = P_menor * (4/3) = 57 * 4 / 3 = 76 cm.
 
-## Question 16 [D10]
+## Question 16 [D9-D10]
 **ID:** MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v16
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -386,7 +387,7 @@ En dos triángulos semejantes, sus lados correspondientes están en la razón 3:
 ### Explicacion Pedagogica
 Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 60 cm, entonces P_mayor = P_menor * (4/3) = 60 * 4 / 3 = 80 cm.
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático
@@ -409,7 +410,7 @@ En dos triángulos semejantes, sus lados correspondientes están en la razón 3:
 ### Explicacion Pedagogica
 Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 63 cm, entonces P_mayor = P_menor * (4/3) = 63 * 4 / 3 = 84 cm.
 
-## Question 18 [D10]
+## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático
@@ -432,7 +433,7 @@ En dos triángulos semejantes, sus lados correspondientes están en la razón 3:
 ### Explicacion Pedagogica
 Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 66 cm, entonces P_mayor = P_menor * (4/3) = 66 * 4 / 3 = 88 cm.
 
-## Question 19 [D11]
+## Question 19 [D9-D10]
 **ID:** MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático
@@ -455,7 +456,7 @@ En dos triángulos semejantes, sus lados correspondientes están en la razón 3:
 ### Explicacion Pedagogica
 Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 69 cm, entonces P_mayor = P_menor * (4/3) = 69 * 4 / 3 = 92 cm.
 
-## Question 20 [D12]
+## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático

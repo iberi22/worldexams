@@ -13,12 +13,13 @@ total_questions: 20
 bundle_size: 20
 alignment: "SEP NEM Mexico 2026 / EXANI-II pensamiento matematico"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Matemático
@@ -41,7 +42,7 @@ creador: "Jules-Agent"
 ### Explicacion Pedagogica
 Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sabemos que sen(x) * csc(x) = 1. Sustituyendo esta identidad trigonométrica fundamental en la expresión: E = 1 + 1 * cos²(x).
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Matemático
@@ -64,7 +65,7 @@ Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sa
 ### Explicacion Pedagogica
 Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sabemos que sen(x) * csc(x) = 1. Sustituyendo esta identidad trigonométrica fundamental en la expresión: E = 1 + 2 * cos²(x).
 
-## Question 3 [D5]
+## Question 3 [D5-D6]
 **ID:** MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v3
 **Bloom:** Remember
 **EJE:** Pensamiento Matemático
@@ -87,7 +88,7 @@ Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sa
 ### Explicacion Pedagogica
 Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sabemos que sen(x) * csc(x) = 1. Sustituyendo esta identidad trigonométrica fundamental en la expresión: E = 1 + 3 * cos²(x).
 
-## Question 4 [D6]
+## Question 4 [D5-D6]
 **ID:** MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v4
 **Bloom:** Remember
 **EJE:** Pensamiento Matemático
@@ -110,7 +111,7 @@ Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sa
 ### Explicacion Pedagogica
 Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sabemos que sen(x) * csc(x) = 1. Sustituyendo esta identidad trigonométrica fundamental en la expresión: E = 1 + 4 * cos²(x).
 
-## Question 5 [D9]
+## Question 5 [D9-D10]
 **ID:** MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -133,7 +134,7 @@ Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sa
 ### Explicacion Pedagogica
 Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sabemos que sen(x) * csc(x) = 1. Sustituyendo esta identidad trigonométrica fundamental en la expresión: E = 1 + 5 * cos²(x).
 
-## Question 6 [D10]
+## Question 6 [D9-D10]
 **ID:** MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -156,7 +157,7 @@ Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sa
 ### Explicacion Pedagogica
 Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sabemos que sen(x) * csc(x) = 1. Sustituyendo esta identidad trigonométrica fundamental en la expresión: E = 1 + 6 * cos²(x).
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v7
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -179,7 +180,7 @@ Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sa
 ### Explicacion Pedagogica
 Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sabemos que sen(x) * csc(x) = 1. Sustituyendo esta identidad trigonométrica fundamental en la expresión: E = 1 + 7 * cos²(x).
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v8
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -202,7 +203,7 @@ Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sa
 ### Explicacion Pedagogica
 Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sabemos que sen(x) * csc(x) = 1. Sustituyendo esta identidad trigonométrica fundamental en la expresión: E = 1 + 8 * cos²(x).
 
-## Question 9 [D7]
+## Question 9 [D7-D8]
 **ID:** MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v9
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -225,7 +226,7 @@ Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sa
 ### Explicacion Pedagogica
 Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sabemos que sen(x) * csc(x) = 1. Sustituyendo esta identidad trigonométrica fundamental en la expresión: E = 1 + 9 * cos²(x).
 
-## Question 10 [D8]
+## Question 10 [D7-D8]
 **ID:** MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v10
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -248,7 +249,7 @@ Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sa
 ### Explicacion Pedagogica
 Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sabemos que sen(x) * csc(x) = 1. Sustituyendo esta identidad trigonométrica fundamental en la expresión: E = 1 + 10 * cos²(x).
 
-## Question 11 [D11]
+## Question 11 [D9-D10]
 **ID:** MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -271,7 +272,7 @@ Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sa
 ### Explicacion Pedagogica
 Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sabemos que sen(x) * csc(x) = 1. Sustituyendo esta identidad trigonométrica fundamental en la expresión: E = 1 + 11 * cos²(x).
 
-## Question 12 [D12]
+## Question 12 [D9-D10]
 **ID:** MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -294,7 +295,7 @@ Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sa
 ### Explicacion Pedagogica
 Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sabemos que sen(x) * csc(x) = 1. Sustituyendo esta identidad trigonométrica fundamental en la expresión: E = 1 + 12 * cos²(x).
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v13
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -317,7 +318,7 @@ Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sa
 ### Explicacion Pedagogica
 Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sabemos que sen(x) * csc(x) = 1. Sustituyendo esta identidad trigonométrica fundamental en la expresión: E = 1 + 13 * cos²(x).
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v14
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -340,7 +341,7 @@ Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sa
 ### Explicacion Pedagogica
 Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sabemos que sen(x) * csc(x) = 1. Sustituyendo esta identidad trigonométrica fundamental en la expresión: E = 1 + 14 * cos²(x).
 
-## Question 15 [D9]
+## Question 15 [D9-D10]
 **ID:** MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v15
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -363,7 +364,7 @@ Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sa
 ### Explicacion Pedagogica
 Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sabemos que sen(x) * csc(x) = 1. Sustituyendo esta identidad trigonométrica fundamental en la expresión: E = 1 + 15 * cos²(x).
 
-## Question 16 [D10]
+## Question 16 [D9-D10]
 **ID:** MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v16
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -386,7 +387,7 @@ Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sa
 ### Explicacion Pedagogica
 Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sabemos que sen(x) * csc(x) = 1. Sustituyendo esta identidad trigonométrica fundamental en la expresión: E = 1 + 16 * cos²(x).
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático
@@ -409,7 +410,7 @@ Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sa
 ### Explicacion Pedagogica
 Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sabemos que sen(x) * csc(x) = 1. Sustituyendo esta identidad trigonométrica fundamental en la expresión: E = 1 + 17 * cos²(x).
 
-## Question 18 [D10]
+## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático
@@ -432,7 +433,7 @@ Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sa
 ### Explicacion Pedagogica
 Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sabemos que sen(x) * csc(x) = 1. Sustituyendo esta identidad trigonométrica fundamental en la expresión: E = 1 + 18 * cos²(x).
 
-## Question 19 [D11]
+## Question 19 [D9-D10]
 **ID:** MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático
@@ -455,7 +456,7 @@ Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sa
 ### Explicacion Pedagogica
 Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sabemos que sen(x) * csc(x) = 1. Sustituyendo esta identidad trigonométrica fundamental en la expresión: E = 1 + 19 * cos²(x).
 
-## Question 20 [D12]
+## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático

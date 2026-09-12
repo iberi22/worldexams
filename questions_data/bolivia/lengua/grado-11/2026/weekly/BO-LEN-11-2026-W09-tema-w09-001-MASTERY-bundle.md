@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Lengua: Comprensión de lectura: nivel literal (W09)
 **20 preguntas | Lengua | MINEDU - Ley Educativa Avelino Siñani - Elizardo Pérez**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BO-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Comprensión de lectura crítica e inferencial
@@ -46,7 +47,7 @@ Considerando la comprensión de lectura en nivel literal y específicamente la d
 ¡Correcto! El nivel literal se limita a la información explícita y textual plasmada de forma directa en el cuerpo escrito del texto. El nivel literal es la base del proceso lector. Exige que el estudiante extraiga datos fácticos, nombres, fechas y secuencias directas explícitas del texto. Esto se refleja con claridad al analizar la declaración de Patrimonio de la Humanidad en el año 1991 en la región de La Paz.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BO-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Comprensión de lectura crítica e inferencial
@@ -70,7 +71,7 @@ Considerando la comprensión de lectura en nivel literal y específicamente el c
 ¡Correcto! El nivel literal se limita a la información explícita y textual plasmada de forma directa en el cuerpo escrito del texto. El nivel literal es la base del proceso lector. Exige que el estudiante extraiga datos fácticos, nombres, fechas y secuencias directas explícitas del texto. Esto se refleja con claridad al analizar el carbonato de litio producido bajo control del Estado en la región de Santa Cruz.
 
 ---
-## Question 3 [D3]
+## Question 3 [D3-D4]
 **ID:** BO-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Comprensión de lectura crítica e inferencial
@@ -94,7 +95,7 @@ Considerando la comprensión de lectura en nivel literal y específicamente la q
 ¡Correcto! El nivel literal se limita a la información explícita y textual plasmada de forma directa en el cuerpo escrito del texto. El nivel literal es la base del proceso lector. Exige que el estudiante extraiga datos fácticos, nombres, fechas y secuencias directas explícitas del texto. Esto se refleja con claridad al analizar la quinua contiene un alto porcentaje de lisina y proteínas en la región de Cochabamba.
 
 ---
-## Question 4 [D3]
+## Question 4 [D3-D4]
 **ID:** BO-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Comprensión de lectura crítica e inferencial
@@ -118,7 +119,7 @@ Considerando la comprensión de lectura en nivel literal y específicamente la �
 ¡Correcto! El nivel literal se limita a la información explícita y textual plasmada de forma directa en el cuerpo escrito del texto. El nivel literal es la base del proceso lector. Exige que el estudiante extraiga datos fácticos, nombres, fechas y secuencias directas explícitas del texto. Esto se refleja con claridad al analizar la órbita geoestacionaria a 36 mil kilómetros de altura de la Tierra en la región de Sucre.
 
 ---
-## Question 5 [D4]
+## Question 5 [D3-D4]
 **ID:** BO-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Comprensión de lectura crítica e inferencial
@@ -142,7 +143,7 @@ Considerando la comprensión de lectura en nivel literal y específicamente los 
 ¡Correcto! El nivel literal se limita a la información explícita y textual plasmada de forma directa en el cuerpo escrito del texto. El nivel literal es la base del proceso lector. Exige que el estudiante extraiga datos fácticos, nombres, fechas y secuencias directas explícitas del texto. Esto se refleja con claridad al analizar los miles de kilómetros de selva tropical protegida de caza en la región de Oruro.
 
 ---
-## Question 6 [D4]
+## Question 6 [D3-D4]
 **ID:** BO-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Comprensión de lectura crítica e inferencial
@@ -166,7 +167,7 @@ Considerando la comprensión de lectura en nivel literal y específicamente el e
 ¡Correcto! El nivel literal se limita a la información explícita y textual plasmada de forma directa en el cuerpo escrito del texto. El nivel literal es la base del proceso lector. Exige que el estudiante extraiga datos fácticos, nombres, fechas y secuencias directas explícitas del texto. Esto se refleja con claridad al analizar el estatus constitucional cooficial de 36 idiomas nativos en la región de Potosí.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** BO-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v7
 **Bloom:** Understand
 **EJE:** Comprensión de lectura crítica e inferencial
@@ -190,7 +191,7 @@ Considerando la comprensión de lectura en nivel literal y específicamente la a
 ¡Correcto! El nivel literal se limita a la información explícita y textual plasmada de forma directa en el cuerpo escrito del texto. El nivel literal es la base del proceso lector. Exige que el estudiante extraiga datos fácticos, nombres, fechas y secuencias directas explícitas del texto. Esto se refleja con claridad al analizar la asamblea deliberante que declaró la independencia en 1825 en la región de Tarija.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** BO-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v8
 **Bloom:** Understand
 **EJE:** Comprensión de lectura crítica e inferencial
@@ -214,7 +215,7 @@ Considerando la comprensión de lectura en nivel literal y específicamente la c
 ¡Correcto! El nivel literal se limita a la información explícita y textual plasmada de forma directa en el cuerpo escrito del texto. El nivel literal es la base del proceso lector. Exige que el estudiante extraiga datos fácticos, nombres, fechas y secuencias directas explícitas del texto. Esto se refleja con claridad al analizar la cumbre que alcanza una altitud de 6462 metros en la región de Trinidad.
 
 ---
-## Question 9 [D5]
+## Question 9 [D5-D6]
 **ID:** BO-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Comprensión de lectura crítica e inferencial
@@ -238,7 +239,7 @@ Considerando la comprensión de lectura en nivel literal y específicamente la u
 ¡Correcto! El nivel literal se limita a la información explícita y textual plasmada de forma directa en el cuerpo escrito del texto. El nivel literal es la base del proceso lector. Exige que el estudiante extraiga datos fácticos, nombres, fechas y secuencias directas explícitas del texto. Esto se refleja con claridad al analizar la urbe minera asentada a más de 4000 metros de altitud en la región de Cobija.
 
 ---
-## Question 10 [D5]
+## Question 10 [D5-D6]
 **ID:** BO-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Comprensión de lectura crítica e inferencial
@@ -262,7 +263,7 @@ Considerando la comprensión de lectura en nivel literal y específicamente el t
 ¡Correcto! El nivel literal se limita a la información explícita y textual plasmada de forma directa en el cuerpo escrito del texto. El nivel literal es la base del proceso lector. Exige que el estudiante extraiga datos fácticos, nombres, fechas y secuencias directas explícitas del texto. Esto se refleja con claridad al analizar el tramo de carretera asfaltado que conecta los valles y el altiplano en la región de Viacha.
 
 ---
-## Question 11 [D6]
+## Question 11 [D5-D6]
 **ID:** BO-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Comprensión de lectura crítica e inferencial
@@ -286,7 +287,7 @@ Considerando la comprensión de lectura en nivel literal y específicamente el v
 ¡Correcto! El nivel literal se limita a la información explícita y textual plasmada de forma directa en el cuerpo escrito del texto. El nivel literal es la base del proceso lector. Exige que el estudiante extraiga datos fácticos, nombres, fechas y secuencias directas explícitas del texto. Esto se refleja con claridad al analizar el volumen de agua compartida entre Bolivia y Perú en la región de Montero.
 
 ---
-## Question 12 [D6]
+## Question 12 [D5-D6]
 **ID:** BO-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Comprensión de lectura crítica e inferencial
@@ -310,7 +311,7 @@ Considerando la comprensión de lectura en nivel literal y específicamente los 
 ¡Correcto! El nivel literal se limita a la información explícita y textual plasmada de forma directa en el cuerpo escrito del texto. El nivel literal es la base del proceso lector. Exige que el estudiante extraiga datos fácticos, nombres, fechas y secuencias directas explícitas del texto. Esto se refleja con claridad al analizar los apartados normativos de la Ley Avelino Siñani en la región de Sacaba.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BO-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v13
 **Bloom:** Apply
 **EJE:** Comprensión de lectura crítica e inferencial
@@ -334,7 +335,7 @@ Considerando la comprensión de lectura en nivel literal y específicamente el r
 ¡Correcto! El nivel literal se limita a la información explícita y textual plasmada de forma directa en el cuerpo escrito del texto. El nivel literal es la base del proceso lector. Exige que el estudiante extraiga datos fácticos, nombres, fechas y secuencias directas explícitas del texto. Esto se refleja con claridad al analizar el récord de toneladas métricas exportadas a la Comunidad Andina en la región de Quillacollo.
 
 ---
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** BO-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v14
 **Bloom:** Apply
 **EJE:** Comprensión de lectura crítica e inferencial
@@ -358,7 +359,7 @@ Considerando la comprensión de lectura en nivel literal y específicamente el a
 ¡Correcto! El nivel literal se limita a la información explícita y textual plasmada de forma directa en el cuerpo escrito del texto. El nivel literal es la base del proceso lector. Exige que el estudiante extraiga datos fácticos, nombres, fechas y secuencias directas explícitas del texto. Esto se refleja con claridad al analizar el acuerdo firmado en 1904 tras la guerra del Pacífico en la región de Warnes.
 
 ---
-## Question 15 [D7]
+## Question 15 [D7-D8]
 **ID:** BO-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Comprensión de lectura crítica e inferencial
@@ -382,7 +383,7 @@ Considerando la comprensión de lectura en nivel literal y específicamente el l
 ¡Correcto! El nivel literal se limita a la información explícita y textual plasmada de forma directa en el cuerpo escrito del texto. El nivel literal es la base del proceso lector. Exige que el estudiante extraiga datos fácticos, nombres, fechas y secuencias directas explícitas del texto. Esto se refleja con claridad al analizar el levantamiento armado del 9 de abril por el voto universal en la región de El Alto.
 
 ---
-## Question 16 [D7]
+## Question 16 [D7-D8]
 **ID:** BO-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Comprensión de lectura crítica e inferencial
@@ -406,7 +407,7 @@ Considerando la comprensión de lectura en nivel literal y específicamente los 
 ¡Correcto! El nivel literal se limita a la información explícita y textual plasmada de forma directa en el cuerpo escrito del texto. El nivel literal es la base del proceso lector. Exige que el estudiante extraiga datos fácticos, nombres, fechas y secuencias directas explícitas del texto. Esto se refleja con claridad al analizar los litros por segundo destinados al riego de parcelas en la región de Riberalta.
 
 ---
-## Question 17 [D8]
+## Question 17 [D7-D8]
 **ID:** BO-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v17
 **Bloom:** Analyze
 **EJE:** Comprensión de lectura crítica e inferencial
@@ -430,7 +431,7 @@ Considerando la comprensión de lectura en nivel literal y específicamente las 
 ¡Correcto! El nivel literal se limita a la información explícita y textual plasmada de forma directa en el cuerpo escrito del texto. El nivel literal es la base del proceso lector. Exige que el estudiante extraiga datos fácticos, nombres, fechas y secuencias directas explícitas del texto. Esto se refleja con claridad al analizar las especies vegetales identificadas en los cañones secos en la región de Yacuiba.
 
 ---
-## Question 18 [D8]
+## Question 18 [D7-D8]
 **ID:** BO-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** Comprensión de lectura crítica e inferencial
@@ -454,7 +455,7 @@ Considerando la comprensión de lectura en nivel literal y específicamente los 
 ¡Correcto! El nivel literal se limita a la información explícita y textual plasmada de forma directa en el cuerpo escrito del texto. El nivel literal es la base del proceso lector. Exige que el estudiante extraiga datos fácticos, nombres, fechas y secuencias directas explícitas del texto. Esto se refleja con claridad al analizar los kilómetros de cable tendidos que conectan las zonas en la región de Colcapirhua.
 
 ---
-## Question 19 [D9]
+## Question 19 [D9-D10]
 **ID:** BO-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Comprensión de lectura crítica e inferencial
@@ -478,7 +479,7 @@ Considerando la comprensión de lectura en nivel literal y específicamente la d
 ¡Correcto! El nivel literal se limita a la información explícita y textual plasmada de forma directa en el cuerpo escrito del texto. El nivel literal es la base del proceso lector. Exige que el estudiante extraiga datos fácticos, nombres, fechas y secuencias directas explícitas del texto. Esto se refleja con claridad al analizar la denominación de los billetes de corte de 10, 20 y 50 Bs. en la región de Tupiza.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BO-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Comprensión de lectura crítica e inferencial

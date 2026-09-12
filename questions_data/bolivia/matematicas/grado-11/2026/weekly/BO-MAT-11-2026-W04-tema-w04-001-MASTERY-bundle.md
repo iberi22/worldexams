@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Matemáticas: Tema W04 (W04)
 **20 preguntas | Grado 11 (6to de Secundaria) | MINEDU - Ley Educativa Avelino Siñani - Elizardo Pérez**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -42,7 +43,7 @@ bundle_index: 1
 El desarrollo algebraico de (a + b)^2 se obtiene multiplicando (a + b)(a + b) = a^2 + ab + ba + b^2 = a^2 + 2ab + b^2.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -62,7 +63,7 @@ El desarrollo algebraico de (a + b)^2 se obtiene multiplicando (a + b)(a + b) = 
 Por la regla de productos notables, la diferencia de cuadrados se descompone en el producto de binomios conjugados: (x - y)(x + y).
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -82,7 +83,7 @@ Por la regla de productos notables, la diferencia de cuadrados se descompone en 
 Para factorizar x^2 + 5x + 6, buscamos dos números reales que multiplicados den 6 y sumados den 5. Estos son 2 y 3. Por lo tanto, la factorización es (x + 2)(x + 3).
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -102,7 +103,7 @@ Simplifique la fracción algebraica: (x^2 - 16) / (x^2 - 8x + 15)
 Se descompone el numerador como diferencia de cuadrados (x - 4)(x + 4) y el denominador de manera equivalente, cancelando el término común no nulo.
 
 ---
-## Question 5 [D4]
+## Question 5 [D3-D4]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v5
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -122,7 +123,7 @@ Simplifique la fracción algebraica: (x^2 - 25) / (x^2 - 10x + 23)
 Se descompone el numerador como diferencia de cuadrados (x - 5)(x + 5) y el denominador de manera equivalente, cancelando el término común no nulo.
 
 ---
-## Question 6 [D4]
+## Question 6 [D3-D4]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -142,7 +143,7 @@ Simplifique la fracción algebraica: (x^2 - 36) / (x^2 - 12x + 35)
 Se descompone el numerador como diferencia de cuadrados (x - 6)(x + 6) y el denominador de manera equivalente, cancelando el término común no nulo.
 
 ---
-## Question 7 [D4]
+## Question 7 [D3-D4]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -162,7 +163,7 @@ Simplifique la fracción algebraica: (x^2 - 49) / (x^2 - 14x + 47)
 Se descompone el numerador como diferencia de cuadrados (x - 7)(x + 7) y el denominador de manera equivalente, cancelando el término común no nulo.
 
 ---
-## Question 8 [D4]
+## Question 8 [D3-D4]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -182,7 +183,7 @@ Simplifique la fracción algebraica: (x^2 - 64) / (x^2 - 16x + 63)
 Se descompone el numerador como diferencia de cuadrados (x - 8)(x + 8) y el denominador de manera equivalente, cancelando el término común no nulo.
 
 ---
-## Question 9 [D4]
+## Question 9 [D3-D4]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v9
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -202,7 +203,7 @@ Simplifique la fracción algebraica: (x^2 - 81) / (x^2 - 18x + 79)
 Se descompone el numerador como diferencia de cuadrados (x - 9)(x + 9) y el denominador de manera equivalente, cancelando el término común no nulo.
 
 ---
-## Question 10 [D4]
+## Question 10 [D3-D4]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -222,7 +223,7 @@ Simplifique la fracción algebraica: (x^2 - 100) / (x^2 - 20x + 99)
 Se descompone el numerador como diferencia de cuadrados (x - 10)(x + 10) y el denominador de manera equivalente, cancelando el término común no nulo.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -242,7 +243,7 @@ Simplifique la fracción algebraica: (x^2 - 121) / (x^2 - 22x + 119)
 Se descompone el numerador como diferencia de cuadrados (x - 11)(x + 11) y el denominador de manera equivalente, cancelando el término común no nulo.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -262,7 +263,7 @@ Simplifique la fracción algebraica: (x^2 - 144) / (x^2 - 24x + 143)
 Se descompone el numerador como diferencia de cuadrados (x - 12)(x + 12) y el denominador de manera equivalente, cancelando el término común no nulo.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -282,7 +283,7 @@ Simplifique la fracción algebraica: (x^2 - 169) / (x^2 - 26x + 167)
 Se descompone el numerador como diferencia de cuadrados (x - 13)(x + 13) y el denominador de manera equivalente, cancelando el término común no nulo.
 
 ---
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v14
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -302,7 +303,7 @@ Simplifique la fracción algebraica: (x^2 - 196) / (x^2 - 28x + 195)
 Se descompone el numerador como diferencia de cuadrados (x - 14)(x + 14) y el denominador de manera equivalente, cancelando el término común no nulo.
 
 ---
-## Question 15 [D7]
+## Question 15 [D7-D8]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -322,7 +323,7 @@ Simplifique la fracción algebraica: (x^2 - 225) / (x^2 - 30x + 223)
 Se descompone el numerador como diferencia de cuadrados (x - 15)(x + 15) y el denominador de manera equivalente, cancelando el término común no nulo.
 
 ---
-## Question 16 [D7]
+## Question 16 [D7-D8]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v16
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -342,7 +343,7 @@ Simplifique la fracción algebraica: (x^2 - 256) / (x^2 - 32x + 255)
 Se descompone el numerador como diferencia de cuadrados (x - 16)(x + 16) y el denominador de manera equivalente, cancelando el término común no nulo.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v17
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -362,7 +363,7 @@ Simplifique la fracción algebraica: (x^2 - 289) / (x^2 - 34x + 287)
 Se descompone el numerador como diferencia de cuadrados (x - 17)(x + 17) y el denominador de manera equivalente, cancelando el término común no nulo.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v18
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -382,7 +383,7 @@ Simplifique la fracción algebraica: (x^2 - 324) / (x^2 - 36x + 323)
 Se descompone el numerador como diferencia de cuadrados (x - 18)(x + 18) y el denominador de manera equivalente, cancelando el término común no nulo.
 
 ---
-## Question 19 [D9]
+## Question 19 [D9-D10]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v19
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -402,7 +403,7 @@ Simplifique la fracción algebraica: (x^2 - 361) / (x^2 - 38x + 359)
 Se descompone el numerador como diferencia de cuadrados (x - 19)(x + 19) y el denominador de manera equivalente, cancelando el término común no nulo.
 
 ---
-## Question 20 [D9]
+## Question 20 [D9-D10]
 **ID:** BO-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v20
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos

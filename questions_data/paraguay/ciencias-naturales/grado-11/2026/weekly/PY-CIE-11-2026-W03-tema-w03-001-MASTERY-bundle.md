@@ -15,6 +15,7 @@ alignment: "MEC Paraguay"
 license: "FREE"
 tier: "legacy"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 creador: "Jules-Agent"
 ---
 
@@ -24,7 +25,7 @@ Este bundle cubre de manera exhaustiva el tema de Organelos celulares para el Gr
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v1
 **Bloom:** Remember
 **EJE:** Biología Celular
@@ -45,7 +46,7 @@ El concepto de El aparato de Golgi constituye un fundamento esencial para compre
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v2
 **Bloom:** Understand
 **EJE:** Biología Celular
@@ -66,7 +67,7 @@ El concepto de La mitocondria constituye un fundamento esencial para comprender 
 
 ---
 
-## Question 3 [D3]
+## Question 3 [D3-D4]
 **ID:** PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v3
 **Bloom:** Remember
 **EJE:** Biología Celular
@@ -87,7 +88,7 @@ El concepto de El lisosoma constituye un fundamento esencial para comprender los
 
 ---
 
-## Question 4 [D3]
+## Question 4 [D3-D4]
 **ID:** PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v4
 **Bloom:** Understand
 **EJE:** Biología Celular
@@ -108,7 +109,7 @@ El concepto de El peroxisoma constituye un fundamento esencial para comprender l
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v5
 **Bloom:** Apply
 **EJE:** Biología Celular
@@ -129,7 +130,7 @@ El concepto de El retículo endoplasmático liso constituye un fundamento esenci
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v6
 **Bloom:** Understand
 **EJE:** Biología Celular
@@ -150,7 +151,7 @@ El concepto de La vacuola central constituye un fundamento esencial para compren
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v7
 **Bloom:** Apply
 **EJE:** Biología Celular
@@ -171,7 +172,7 @@ El concepto de Los microtúbulos constituye un fundamento esencial para comprend
 
 ---
 
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v8
 **Bloom:** Understand
 **EJE:** Biología Celular
@@ -192,7 +193,7 @@ El concepto de Los centriolos constituye un fundamento esencial para comprender 
 
 ---
 
-## Question 9 [D5]
+## Question 9 [D5-D6]
 **ID:** PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v9
 **Bloom:** Apply
 **EJE:** Biología Celular
@@ -213,7 +214,7 @@ El concepto de La subunidad menor 40S constituye un fundamento esencial para com
 
 ---
 
-## Question 10 [D5]
+## Question 10 [D5-D6]
 **ID:** PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v10
 **Bloom:** Understand
 **EJE:** Biología Celular
@@ -234,7 +235,7 @@ El concepto de El cloroplasto constituye un fundamento esencial para comprender 
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v11
 **Bloom:** Analyze
 **EJE:** Biología Celular
@@ -255,7 +256,7 @@ El concepto de Los microfilamentos de actina constituye un fundamento esencial p
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v12
 **Bloom:** Apply
 **EJE:** Biología Celular
@@ -276,7 +277,7 @@ El concepto de El retículo sarcoplásmico constituye un fundamento esencial par
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v13
 **Bloom:** Analyze
 **EJE:** Biología Celular
@@ -297,7 +298,7 @@ El concepto de El estroma constituye un fundamento esencial para comprender los 
 
 ---
 
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v14
 **Bloom:** Apply
 **EJE:** Biología Celular
@@ -318,7 +319,7 @@ El concepto de El oxígeno molecular constituye un fundamento esencial para comp
 
 ---
 
-## Question 15 [D7]
+## Question 15 [D7-D8]
 **ID:** PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v15
 **Bloom:** Analyze
 **EJE:** Biología Celular
@@ -339,7 +340,7 @@ El concepto de Los filamentos intermedios constituye un fundamento esencial para
 
 ---
 
-## Question 16 [D7]
+## Question 16 [D7-D8]
 **ID:** PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v16
 **Bloom:** Apply
 **EJE:** Biología Celular
@@ -360,7 +361,7 @@ El concepto de El retículo endoplasmático rugoso constituye un fundamento esen
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v17
 **Bloom:** Evaluate
 **EJE:** Biología Celular
@@ -381,7 +382,7 @@ El concepto de Los pseudópodos de actina constituye un fundamento esencial para
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v18
 **Bloom:** Analyze
 **EJE:** Biología Celular
@@ -402,7 +403,7 @@ El concepto de La membrana plasmática y proteínas de anclaje constituye un fun
 
 ---
 
-## Question 19 [D9]
+## Question 19 [D9-D10]
 **ID:** PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v19
 **Bloom:** Evaluate
 **EJE:** Biología Celular
@@ -423,7 +424,7 @@ El concepto de El complejo TIM/TOM constituye un fundamento esencial para compre
 
 ---
 
-## Question 20 [D9]
+## Question 20 [D9-D10]
 **ID:** PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v20
 **Bloom:** Analyze
 **EJE:** Biología Celular

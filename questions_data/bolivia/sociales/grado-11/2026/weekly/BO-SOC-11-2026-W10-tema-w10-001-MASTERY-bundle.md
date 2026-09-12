@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Ciencias Sociales: El Estado Plurinacional de Bolivia: la Constitución Política de 2009, plurilingüismo, descolonización e inclusión social (W10)
 **20 preguntas | Ciencias Sociales | Ministerio de Educacion del Estado Plurinacional de Bolivia (MINEDU)**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Social y Ciudadano
@@ -45,7 +46,7 @@ bundle_index: 1
 La promulgación de la Constitución de 2009 representó la transformación civil e institucional más importante de la Bolivia contemporánea. Pusó fin formal a la concepción del Estado-nación unitario de herencia colonial y liberal, dando origen al reconocimiento del pluralismo estatal real.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Social y Ciudadano
@@ -68,7 +69,7 @@ La promulgación de la Constitución de 2009 representó la transformación civi
 El reconocimiento constitucional de las 36 lenguas originarias nativas de la patria es un reflejo de las demandas históricas de descolonización. Busca democratizar la administración de justicia, los juzgados y la educación formal, obligando al Estado a interactuar con los ciudadanos andino-amazónicos en sus propias lenguas maternas.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Social y Ciudadano
@@ -91,7 +92,7 @@ El reconocimiento constitucional de las 36 lenguas originarias nativas de la pat
 La inclusión del 'Vivir Bien' en el texto constitucional de 2009 representó un avance doctrinal relevante para el constitucionalismo contemporáneo. Subordina los modelos económicos tradicionales del extractivismo y libre mercado a la preservación del equilibrio natural de la Pachamama.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Social y Ciudadano
@@ -114,7 +115,7 @@ La inclusión del 'Vivir Bien' en el texto constitucional de 2009 representó un
 La introducción de las AIOC en Bolivia (como en el caso de Charagua en Santa Cruz o Uru Chipaya en Oruro) simboliza la consagración legal de las formas de autogobierno prehispánicas de los ayllus andinos y capitanías guaraníes, integradas con la estructura republicana general del Estado boliviano.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Pensamiento Social y Ciudadano
@@ -137,7 +138,7 @@ La introducción de las AIOC en Bolivia (como en el caso de Charagua en Santa Cr
 La redistribución de la riqueza hidrocarburífera mediante bonos sociales estatales ha sido una de las políticas con mayor impacto del Estado Plurinacional. Permitió reducir sustancialmente los índices de pobreza extrema y el analfabetismo escolar básico andino-amazónico.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Pensamiento Social y Ciudadano
@@ -160,7 +161,7 @@ La redistribución de la riqueza hidrocarburífera mediante bonos sociales estat
 La Ley de Educación Avelino Siñani - Elizardo Pérez es pilar de la descolonización institucional de Bolivia. Su nombre rinde homenaje al sabio campesino aymara Avelino Siñani y al profesor Elizardo Pérez, creadores de la primera escuela andina indígena libertaria en la altiplánica localidad de Warisata en 1931.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v7
 **Bloom:** Understand
 **EJE:** Pensamiento Social y Ciudadano
@@ -183,7 +184,7 @@ La Ley de Educación Avelino Siñani - Elizardo Pérez es pilar de la descoloniz
 El pluralismo jurídico de Bolivia es un hito de descolonización legal. La Ley de Deslinde Jurisdiccional devela los límites de esta asimilación de sistemas judiciales, buscando articular el respeto a los derechos humanos fundamentales con las prácticas punitivas comunales tradicionales.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Social y Ciudadano
@@ -206,7 +207,7 @@ Si analizamos la nacionalización de los hidrocarburos decretada en mayo de 2006
 La nacionalización hidrocarburífera de 2006 sentó las bases materiales y financieras del Estado Plurinacional. El enorme incremento de ingresos fiscales por la venta de gas natural a Brasil y Argentina financió las obras de infraestructura vial, telecomunicaciones, satélites, bonos sociales y teleféricos del país.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Pensamiento Social y Ciudadano
@@ -229,7 +230,7 @@ Si aplicamos la historia política de Bolivia de inicios del siglo XXI, ¿qué b
 El conflicto por las autonomías devela las tensiones geográficas e identitarias históricas de Bolivia. La Constitución de 2009 resolvió de manera democrática e institucional esta disputa al consagrar cuatro niveles de autonomías integradas (departamental, municipal, regional e indígena originario campesina).
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Social y Ciudadano
@@ -252,7 +253,7 @@ Si aplicamos el análisis del proceso constituyente, ¿qué papel estratégico d
 La Asamblea Constituyente representó la máxima instancia de debate y disputa ideológica de la Bolivia contemporánea, canalizando de forma democrática las demandas de inclusión del bloque indígena originario campesino de la patria.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Pensamiento Social y Ciudadano
@@ -275,7 +276,7 @@ Al analizar críticamente la crisis de gobernabilidad de 2007-2008, ¿qué contr
 La crisis de la Media Luna devela las tensiones geográficas e identitarias históricas de Bolivia. La Constitución de 2009 resolvió de manera democrática esta disputa al consagrar cuatro niveles de autonomías integradas.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Pensamiento Social y Ciudadano
@@ -298,7 +299,7 @@ Al analizar las implicaciones prácticas del saneamiento de tierras ejecutado po
 El saneamiento de tierras del INRA constituyó una de las políticas agrarias de mayor impacto del Estado Plurinacional. Permitió titular millones de hectáreas a favor de comunidades indígenas de tierras bajas y altas, mermando el latifundio.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Pensamiento Social y Ciudadano
@@ -321,7 +322,7 @@ Al analizar el alcance de la Ley de Educación de 2010, ¿qué asimetría cultur
 La Ley 'Avelino Siñani - Elizardo Pérez' devela el tránsito de la asimilación al plurilingüismo democrático. Recupera los principios de Warisata, integrando la educación formal con el desarrollo de las culturas nativas.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Pensamiento Social y Ciudadano
@@ -344,7 +345,7 @@ La Ley 'Avelino Siñani - Elizardo Pérez' devela el tránsito de la asimilació
 El pluralismo jurídico de Bolivia es un hito de descolonización legal. La Ley de Deslinde Jurisdiccional devela los límites de esta asimilación de sistemas judiciales, buscando articular el respeto a los derechos humanos con las prácticas tradicionales.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pensamiento Social y Ciudadano
@@ -367,7 +368,7 @@ Al analizar la relación de la Iglesia católica con el Estado tras la Constituc
 El tránsito de la catolicidad oficial al Estado laico devela la descolonización espiritual de Bolivia. Promueve una arena de coexistencia democrática entre las expresiones de fe cristianas y las prácticas de ritualidad de la Pachamama.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Pensamiento Social y Ciudadano
@@ -390,7 +391,7 @@ Al analizar las circunscripciones especiales indígenas de la Asamblea Legislati
 Las circunscripciones especiales consagran el carácter plurinacional del parlamento de Bolivia. Es un mecanismo de descolonización representativa indispensable para asegurar que las etnias más postergadas de tierras bajas posean voz soberana en las leyes.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social y Ciudadano
@@ -413,7 +414,7 @@ Al juzgar integralmente la sostenibilidad económica del Modelo Económico Socia
 La evaluación económica de la Bolivia contemporánea devela la paradoja extractivista. El gas natural financió la inclusión social plurinacional pero no extirpó la dependencia del mercado global, obligando a diversificar las fuentes hacia la industrialización soberana.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social y Ciudadano
@@ -436,7 +437,7 @@ Al evaluar críticamente la contradicción entre el discurso de defensa de los d
 La tensión entre preservación de la naturaleza y extractivismo es el gran debate contemporáneo de Bolivia. El sustento del erario público con divisas mineras y gasíferas colisiona frecuentemente con los derechos de preservación de bofedales y de la biosfera andino-amazónica.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social y Ciudadano
@@ -459,7 +460,7 @@ Al evaluar globalmente los logros en materia de reducción de la pobreza extrema
 La inclusión social contemporánea de Bolivia constituye el éxito más sólido del Estado Plurinacional. Al transferir de forma directa los excedentes del gas a la población, sepultó la herencia de marginalidad de la república de castas señorial tradicional.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social y Ciudadano
