@@ -119,7 +119,7 @@ function poolToLocal(q: APIQuestion, number: number): LocalGeneratedQuestion {
   };
 }
 
-function assembleFromPool(req: ExamGenerateRequest): LocalGeneratedQuestion[] {
+export function assembleFromPool(req: ExamGenerateRequest): LocalGeneratedQuestion[] {
   const subjectKey = req.subject.toLowerCase().normalize('NFD').replace(/\p{M}/gu, '');
   let pool =
     getQuestionPoolBySubject(req.grade, subjectKey) ||
@@ -131,7 +131,7 @@ function assembleFromPool(req: ExamGenerateRequest): LocalGeneratedQuestion[] {
   return take.map((q, i) => poolToLocal(q, i + 1));
 }
 
-function parseLlmQuestions(raw: string, count: number): LocalGeneratedQuestion[] {
+export function parseLlmQuestions(raw: string, count: number): LocalGeneratedQuestion[] {
   // Prefer JSON array if present
   const jsonMatch = raw.match(/\[[\s\S]*\]/);
   if (jsonMatch) {
