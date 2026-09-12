@@ -5,6 +5,14 @@ export interface CuentoPagina {
   alt: string;
   escena: string;
   texto: string;
+  /** v2: hint de conversación familiar (línea '> Para conversar en familia:'). */
+  hint?: string;
+  /** v2: vocabulario nuevo (línea '**Palabras nuevas:**'). */
+  words?: string[];
+  /** C7.07: URL del MP3 de narración o ausente = fallback Web Speech. */
+  audio?: string | null;
+  /** C7.07: offsets de inicio por palabra (segundos), 1:1 con `texto`. */
+  timings?: number[];
 }
 
 export interface CuentoQuizOpcion {
@@ -52,8 +60,8 @@ const rawCuentoMarkdownFiles = import.meta.glob('../../../../questions_data/cuen
   eager: true,
 }) as Record<string, string>;
 
-// Vite eager glob import for optional JSON packs
-const rawCuentoJsonPacks = import.meta.glob('../../../../public/v1/cuentos/*.json', {
+// Vite eager glob import for optional JSON packs (pack = dato primario en runtime)
+const rawCuentoJsonPacks = import.meta.glob('../../../public/v1/cuentos/*.json', {
   import: 'default',
   eager: true,
 }) as Record<string, any>;
@@ -103,6 +111,8 @@ export function parseCuentoMarkdown(fileContent: string): CuentoDetail {
 
     let alt = '';
     let escena = '';
+    let hint = '';
+    let words: string[] = [];
     const textLines: string[] = [];
 
     for (let i = 1; i < lines.length; i++) {
@@ -113,9 +123,27 @@ export function parseCuentoMarkdown(fileContent: string): CuentoDetail {
       if (imgMatch) {
         alt = imgMatch[1].trim();
         escena = imgMatch[2].trim();
-      } else {
-        textLines.push(line);
+        continue;
       }
+
+      // v2: hint familiar (slot propio, NO parte del texto narrado)
+      const hintMatch = line.match(/^>\s*Para conversar en familia:\s*(.+)$/);
+      if (hintMatch) {
+        hint = hintMatch[1].trim();
+        continue;
+      }
+
+      // v2: vocabulario (slot propio, NO parte del texto narrado)
+      const wordsMatch = line.match(/^\*\*Palabras nuevas:\*\*\s*(.+)$/);
+      if (wordsMatch) {
+        words = wordsMatch[1]
+          .split(',')
+          .map((w) => w.trim().toLowerCase())
+          .filter(Boolean);
+        continue;
+      }
+
+      textLines.push(line);
     }
 
     paginasList.push({
@@ -123,6 +151,8 @@ export function parseCuentoMarkdown(fileContent: string): CuentoDetail {
       alt,
       escena: escena ? `/v1/cuentos/${summary.slug}/${escena}` : '',
       texto: textLines.join(' '),
+      ...(hint ? { hint } : {}),
+      ...(words.length > 0 ? { words } : {}),
     });
   }
 
@@ -224,7 +254,12 @@ function withPublicEscenas<
   return {
     ...detail,
     coverEscena: pub(detail.coverEscena),
-    paginasList: (detail.paginasList || []).map((p: CuentoPagina) => ({ ...p, escena: pub(p.escena) })),
+    // Solo mapear paginasList cuando existe (forma detalle-markdown). Los packs
+    // JSON usan `paginas` y el lector los prefiere en ese orden: inyectar []
+    // aquí sombrearía las páginas reales con una lista vacía (bug C7.07).
+    ...(Array.isArray(detail.paginasList)
+      ? { paginasList: detail.paginasList.map((p: CuentoPagina) => ({ ...p, escena: pub(p.escena) })) }
+      : {}),
   };
 }
 
@@ -261,15 +296,76 @@ export async function getAllCuentosCatalog(): Promise<CuentoSummary[]> {
 }
 
 /**
-  * Returns full detail for a cuento by slug from public packs or markdown fallback
-  */
+ * Convierte un pack JSON (`public/v1/cuentos/<slug>.json`, forma `paginas`)
+ * a CuentoDetail (forma `paginasList`) para que todos los consumidores
+ * ([slug].astro, CuentoReader, LectorInmersivo) vean UNA sola forma.
+ * Preserva narración C7.07 (audio/timings) + v2 (hint/words) por página.
+ */
+function packToDetail(pack: any): CuentoDetail {
+  const slug = String(pack.slug || '');
+  const base = `/v1/cuentos/${slug}/`;
+  const pub = (p: string | undefined): string =>
+    !p || p.startsWith('/') || p.startsWith('http') ? (p ?? '') : base + p.replace(/^\.\//, '');
+
+  const rawPages: any[] = Array.isArray(pack.paginas) ? pack.paginas : [];
+  const paginasList: CuentoPagina[] = rawPages.map((p: any, idx: number) => ({
+    numero: Number(p.n ?? idx + 1),
+    alt: String(p.alt || ''),
+    escena: pub(p.imagen || p.escena),
+    texto: String(p.texto || ''),
+    ...(p.hint ? { hint: String(p.hint) } : {}),
+    ...(Array.isArray(p.words) && p.words.length > 0 ? { words: p.words.map(String) } : {}),
+    ...(typeof p.audio === 'string' && p.audio ? { audio: p.audio } : {}),
+    ...(Array.isArray(p.timings) && p.timings.length > 0 ? { timings: p.timings.map(Number) } : {}),
+  }));
+
+  const rawQuiz: any[] = Array.isArray(pack.quiz) ? pack.quiz : [];
+  const preguntas: CuentoQuizPregunta[] = rawQuiz.map((q: any, idx: number) => ({
+    id: Number(q.n ?? q.id ?? idx + 1),
+    pregunta: String(q.texto ?? q.pregunta ?? ''),
+    opciones: (Array.isArray(q.opciones) ? q.opciones : []).map((o: any) => ({
+      id: String(o.letra ?? o.id ?? ''),
+      texto: String(o.texto ?? ''),
+      esCorrecta: Boolean(o.correcta ?? o.esCorrecta ?? false),
+      feedback: String(o.feedback ?? ''),
+    })),
+  }));
+
+  const summary: CuentoSummary = {
+    slug,
+    titulo: String(pack.titulo || ''),
+    edad: String(pack.edad || '3-4'),
+    idioma: String(pack.idioma || 'es-neutro'),
+    eje: String(pack.eje || ''),
+    habitat: String(pack.habitat || ''),
+    valor: String(pack.valor || ''),
+    personajes: Array.isArray(pack.personajes) ? pack.personajes.map(String) : [],
+    paginas: paginasList.length,
+    license: String(pack.license || 'PROPRIETARY-FREE-READ'),
+    version: Number(pack.version || 1),
+    ...(paginasList.length > 0 && paginasList[0].escena ? { coverEscena: paginasList[0].escena } : {}),
+  };
+
+  return {
+    ...summary,
+    paginasList,
+    quiz: {
+      preguntas,
+      explicacion: String(pack.explicacion || ''),
+    },
+  };
+}
+
+/**
+ * Returns full detail for a cuento by slug from public packs or markdown fallback
+ */
 export async function getCuentoBySlug(slug: string): Promise<CuentoDetail | null> {
   if (!slug) return null;
 
-  // 1. Check if public/v1/cuentos/<slug>.json pack is present
+  // 1. Check if public/v1/cuentos/<slug>.json pack is present (normalizado a CuentoDetail)
   const packKey = Object.keys(rawCuentoJsonPacks).find((k) => k.endsWith(`/${slug}.json`));
   if (packKey && rawCuentoJsonPacks[packKey]) {
-    return withPublicEscenas(rawCuentoJsonPacks[packKey] as CuentoDetail);
+    return packToDetail(rawCuentoJsonPacks[packKey]);
   }
 
   // 2. Parse from eagerly imported markdown files

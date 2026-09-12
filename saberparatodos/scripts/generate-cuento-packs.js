@@ -31,6 +31,67 @@ const args = process.argv.slice(2);
 const generateAll = args.includes("--all") || args.length === 0;
 const changedOnly = args.includes("--changed-only");
 
+// --- C7.07 narration timings + audio (fuente: lib/cuentos/audio-timings.ts) ---
+// Tokenización idéntica a splitWords(): blank-split. Si cambia allá,
+// los tests de invariante (AudioCuento.test.ts) lo detectan.
+const SECS_PER_WORD_ESTIMATE = 0.45;
+const AUDIO_PUBLIC_BASE = "/audio/cuentos";
+
+function splitWordsGenerator(texto) {
+  if (!texto) return [];
+  return String(texto).split(/\s+/).filter(Boolean);
+}
+
+function estimateDurationGenerator(words) {
+  if (words.length === 0) return 0;
+  return Math.round(words.length * SECS_PER_WORD_ESTIMATE * 1000) / 1000;
+}
+
+function computeTimingsGenerator(words, totalSeconds) {
+  if (words.length === 0) return [];
+  const total = Math.max(totalSeconds, 0.001);
+  const weights = words.map((w) => Math.max(w.length, 1));
+  const weightSum = weights.reduce((a, b) => a + b, 0);
+  const timings = [];
+  let acc = 0;
+  for (let i = 0; i < words.length; i++) {
+    timings.push(Math.round(acc * 1000) / 1000);
+    acc += (total * weights[i]) / weightSum;
+  }
+  for (let i = 1; i < timings.length; i++) {
+    if (timings[i] <= timings[i - 1]) {
+      timings[i] = Math.round((timings[i - 1] + 0.001) * 1000) / 1000;
+    }
+  }
+  return timings;
+}
+
+// Duración real del MP3 vía ffprobe cuando está en PATH; si no,
+// estimación palabras x 0.45s (tasa infantil, igual que edge-tts -5%).
+function probeMp3Duration(mp3Path, fallbackSeconds) {
+  try {
+    const out = execSync(
+      `ffprobe -v error -show_entries format=duration -of csv=p=0 ${JSON.stringify(mp3Path)}`,
+      { encoding: "utf8", stdio: ["ignore", "pipe", "ignore"] }
+    );
+    const secs = parseFloat(String(out).trim());
+    if (Number.isFinite(secs) && secs > 0) return Math.round(secs * 1000) / 1000;
+  } catch {
+    // ffprobe ausente o MP3 ilegible: estimación determinista
+  }
+  return fallbackSeconds;
+}
+
+function narrationForPage(slug, pageNum, texto) {
+  const words = splitWordsGenerator(texto);
+  const mp3Abs = path.join(ROOT, "public", "audio", "cuentos", slug, `p${pageNum}.mp3`);
+  const hasMp3 = fs.existsSync(mp3Abs);
+  const audio = hasMp3 ? `${AUDIO_PUBLIC_BASE}/${slug}/p${pageNum}.mp3` : null;
+  const estimated = estimateDurationGenerator(words);
+  const duration = hasMp3 ? probeMp3Duration(mp3Abs, estimated) : estimated;
+  return { audio, timings: computeTimingsGenerator(words, duration) };
+}
+
 let targetSlug = null;
 const slugArg = args.find((a) => a.startsWith("--slug="));
 if (slugArg) {
@@ -190,6 +251,8 @@ function validateAndParseCuento(cuentoDir, slug) {
       texto,
       hint,
       words,
+      // C7.07: narración (audio MP3 o null) + timings por palabra 1:1
+      ...narrationForPage(slug, pageNum, texto),
     });
   });
 
