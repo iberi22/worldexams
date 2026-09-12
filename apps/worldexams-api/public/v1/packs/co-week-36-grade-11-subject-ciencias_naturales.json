@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-36-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T16:46:07.379Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle-v1",
+      "statement": "La luz se propaga en el vacío en línea recta con una velocidad aproximada de:",
+      "context": "En una clase de óptica en Medellín, Laura describe la propagación rectilínea de la luz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3.0 × 10⁸ m/s.",
+          "is_correct": true,
+          "feedback": "La velocidad de la luz en el vacío es c ≈ 3·10⁸ m/s."
+        },
+        {
+          "letter": "B",
+          "text": "3.0 × 10⁵ m/s.",
+          "is_correct": false,
+          "feedback": "Esa es la velocidad del sonido en el aire."
+        },
+        {
+          "letter": "C",
+          "text": "340 m/s.",
+          "is_correct": false,
+          "feedback": "Velocidad del sonido a 20 °C."
+        },
+        {
+          "letter": "D",
+          "text": "1.5 × 10⁸ m/s.",
+          "is_correct": false,
+          "feedback": "Velocidad aproximada en agua."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La velocidad de la luz en el vacío (c) es una constante fundamental de la naturaleza.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle-v2",
+      "statement": "En la reflexión de la luz sobre un espejo plano, el ángulo de incidencia y el ángulo de reflexión cumplen que:",
+      "context": "En un laboratorio en Bogotá, Andrés estudia la reflexión de un rayo láser sobre un espejo plano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son iguales respecto a la normal a la superficie.",
+          "is_correct": true,
+          "feedback": "Ley de reflexión: θ_i = θ_r."
+        },
+        {
+          "letter": "B",
+          "text": "Siempre suman 90°.",
+          "is_correct": false,
+          "feedback": "Eso ocurre solo en casos especiales."
+        },
+        {
+          "letter": "C",
+          "text": "El ángulo de reflexión es el doble del de incidencia.",
+          "is_correct": false,
+          "feedback": "No existe esa relación general."
+        },
+        {
+          "letter": "D",
+          "text": "El ángulo de reflexión es cero.",
+          "is_correct": false,
+          "feedback": "Solo si el rayo incide perpendicularmente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ley de reflexión establece que el ángulo de incidencia es igual al ángulo de reflexión medidos respecto a la normal.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle-v3",
+      "statement": "Este fenómeno se explica por:",
+      "context": "En un experimento en Cali, una moneda sumergida en una pecera parece estar más cerca de la superficie de lo que realmente está.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reflexión total interna.",
+          "is_correct": false,
+          "feedback": "No es la causa del desplazamiento aparente."
+        },
+        {
+          "letter": "B",
+          "text": "Refracción: la luz cambia de dirección al pasar del agua al aire.",
+          "is_correct": true,
+          "feedback": "El cambio de medio modifica la velocidad y dirección del rayo."
+        },
+        {
+          "letter": "C",
+          "text": "Difracción de la luz en la superficie.",
+          "is_correct": false,
+          "feedback": "La difracción requiere aperturas pequeñas."
+        },
+        {
+          "letter": "D",
+          "text": "Polarización de la luz solar.",
+          "is_correct": false,
+          "feedback": "La polarización no desplaza imágenes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La refracción es el cambio de dirección de una onda al pasar de un medio a otro con diferente índice de refracción.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.84,
+      "bundle_id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle-v4",
+      "statement": "Cuando un haz de luz blanca atraviesa un prisma de vidrio y se descompone en colores, esto ocurre porque:",
+      "context": "En clase en Barranquilla, se discute la dispersión cromática al pasar luz blanca por un prisma.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cada color tiene un índice de refracción distinto en el vidrio.",
+          "is_correct": true,
+          "feedback": "La dispersión es consecuencia de la dependencia del índice con la longitud de onda."
+        },
+        {
+          "letter": "B",
+          "text": "El vidrio absorbe selectivamente los colores.",
+          "is_correct": false,
+          "feedback": "La absorción no es la causa principal aquí."
+        },
+        {
+          "letter": "C",
+          "text": "La luz blanca es monocromática.",
+          "is_correct": false,
+          "feedback": "La luz blanca es policromática."
+        },
+        {
+          "letter": "D",
+          "text": "El prisma produce luz por fluorescencia.",
+          "is_correct": false,
+          "feedback": "No hay fluorescencia implicada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La dispersión cromática se debe a que el índice de refracción del medio varía con la longitud de onda de la luz.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle-v5",
+      "statement": "Si la velocidad de la luz en un medio es v = 2.0 × 10⁸ m/s, ¿cuál es el índice de refracción n del medio?",
+      "context": "En un laboratorio en Bucaramanga, se mide el índice de refracción de un líquido desconocido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.67.",
+          "is_correct": false,
+          "feedback": "El índice no puede ser menor que 1 en un medio material."
+        },
+        {
+          "letter": "B",
+          "text": "1.5.",
+          "is_correct": true,
+          "feedback": "n = c/v = 3·10⁸ / 2·10⁸ = 1.5."
+        },
+        {
+          "letter": "C",
+          "text": "2.0.",
+          "is_correct": false,
+          "feedback": "Confundiste con la velocidad relativa."
+        },
+        {
+          "letter": "D",
+          "text": "6.0.",
+          "is_correct": false,
+          "feedback": "Resultado de multiplicar en lugar de dividir."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El índice de refracción se calcula como n = c/v, donde c es la velocidad en el vacío y v en el medio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle-v6",
+      "statement": "Un rayo de luz incide desde el aire (n1 = 1.0) hacia el agua (n2 = 1.33) con un ángulo de incidencia de 30°. ¿Cuál es el ángulo de refracción aproximado?",
+      "context": "En clase en Pereira, se aplica la ley de Snell a un rayo que pasa del aire al agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "22°.",
+          "is_correct": true,
+          "feedback": "Sen(30)/1.33 = sen(θ2) ≈ 0.376 → θ2 ≈ 22°."
+        },
+        {
+          "letter": "B",
+          "text": "30°.",
+          "is_correct": false,
+          "feedback": "El ángulo solo se conserva en incidencia normal."
+        },
+        {
+          "letter": "C",
+          "text": "41°.",
+          "is_correct": false,
+          "feedback": "Invertiste los índices en Snell."
+        },
+        {
+          "letter": "D",
+          "text": "49°.",
+          "is_correct": false,
+          "feedback": "Usaste mal el cociente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ley de Snell (n1·sen θ1 = n2·sen θ2) relaciona los ángulos de incidencia y refracción con los índices de los medios.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle-v7",
+      "statement": "En una lente convergente delgada, la ecuación de las lentes delgadas es:",
+      "context": "En un taller en Armenia, se usa una lente convergente para enfocar la pantalla de un proyector.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "p + q = f.",
+          "is_correct": false,
+          "feedback": "No corresponde a la fórmula correcta."
+        },
+        {
+          "letter": "B",
+          "text": "1/f = 1/p + 1/q.",
+          "is_correct": true,
+          "feedback": "Ecuación de Gauss para lentes delgadas."
+        },
+        {
+          "letter": "C",
+          "text": "f = p·q.",
+          "is_correct": false,
+          "feedback": "Producto de distancias, no es la fórmula."
+        },
+        {
+          "letter": "D",
+          "text": "p·q = 2f.",
+          "is_correct": false,
+          "feedback": "No aplica a la óptica de lentes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ecuación de lentes delgadas relaciona la distancia focal f con las distancias del objeto p y de la imagen q.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.74,
+      "bundle_id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle-v8",
+      "statement": "Una persona hipermétrope no puede ver con claridad objetos cercanos. ¿Qué tipo de lente debe usar?",
+      "context": "En un consultorio médico en Cali, un paciente usa lentes para corregir su hipermetropía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lente divergente (cóncava).",
+          "is_correct": false,
+          "feedback": "La lente cóncava corrige miopía."
+        },
+        {
+          "letter": "B",
+          "text": "Lente convergente (convexa).",
+          "is_correct": true,
+          "feedback": "La lente convergente aumenta la convergencia de los rayos hacia la retina."
+        },
+        {
+          "letter": "C",
+          "text": "Lente plana sin aumento.",
+          "is_correct": false,
+          "feedback": "No corrige el defecto refractivo."
+        },
+        {
+          "letter": "D",
+          "text": "Lente de Fresnel circular.",
+          "is_correct": false,
+          "feedback": "Es una lente especializada, no la solución habitual."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La hipermetropía se corrige con lentes convergentes que desplazan el foco hacia adelante, sobre la retina.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.74,
+      "bundle_id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle-v9",
+      "statement": "La reflexión total interna ocurre cuando la luz pasa de un medio con índice de refracción:",
+      "context": "En un experimento en Manizales, se observa la reflexión total interna en un acuario de vidrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Menor a uno mayor, superando el ángulo crítico.",
+          "is_correct": false,
+          "feedback": "Debe ir de un medio más denso ópticamente a uno menos denso."
+        },
+        {
+          "letter": "B",
+          "text": "Mayor a uno menor, superando el ángulo crítico.",
+          "is_correct": true,
+          "feedback": "La reflexión total interna ocurre cuando θ_i > θ_c."
+        },
+        {
+          "letter": "C",
+          "text": "Igual en ambos medios.",
+          "is_correct": false,
+          "feedback": "No hay cambio de dirección ni refracción."
+        },
+        {
+          "letter": "D",
+          "text": "Cualquiera, sin condiciones.",
+          "is_correct": false,
+          "feedback": "Es necesario superar el ángulo crítico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La reflexión total interna ocurre al pasar luz de un medio con n mayor a uno con n menor, cuando se supera el ángulo crítico.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.74,
+      "bundle_id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle-v10",
+      "statement": "En un microscopio compuesto, la imagen formada por la lente objetivo es:",
+      "context": "En clase en Bogotá, se construye un microscopio casero con dos lentes convergentes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Real, invertida y aumentada, proyectada dentro del tubo.",
+          "is_correct": true,
+          "feedback": "La lente objetivo produce una imagen real e invertida."
+        },
+        {
+          "letter": "B",
+          "text": "Virtual, derecha y aumentada.",
+          "is_correct": false,
+          "feedback": "Esas características corresponden al ocular."
+        },
+        {
+          "letter": "C",
+          "text": "Real, derecha y de igual tamaño.",
+          "is_correct": false,
+          "feedback": "La imagen objetivo no es de igual tamaño."
+        },
+        {
+          "letter": "D",
+          "text": "Virtual, invertida y reducida.",
+          "is_correct": false,
+          "feedback": "Contradice la óptica básica del objetivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El objetivo del microscopio genera una imagen real, invertida y mayor que el objeto, que luego es ampliada por el ocular.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.73,
+      "bundle_id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle-v11",
+      "statement": "Un objeto se coloca entre el foco y el vértice de un espejo cóncavo. La imagen formada es:",
+      "context": "En clase de óptica en Popayán, se analiza la formación de imágenes en un espejo cóncavo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Real, invertida y de mayor tamaño.",
+          "is_correct": false,
+          "feedback": "Esa posición genera imagen real invertida mayor, pero el objeto no está entre foco y vértice."
+        },
+        {
+          "letter": "B",
+          "text": "Virtual, derecha y de mayor tamaño.",
+          "is_correct": true,
+          "feedback": "Cuando el objeto está entre foco y vértice, la imagen es virtual, derecha y agrandada (espejo de maquillaje)."
+        },
+        {
+          "letter": "C",
+          "text": "Real, invertida y de igual tamaño.",
+          "is_correct": false,
+          "feedback": "La imagen de igual tamaño ocurre en el centro de curvatura."
+        },
+        {
+          "letter": "D",
+          "text": "No se forma imagen.",
+          "is_correct": false,
+          "feedback": "Siempre se forma imagen con un espejo esférico iluminado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En un espejo cóncavo, un objeto entre el foco y el vértice genera una imagen virtual, derecha y ampliada, usada en espejos de aumento.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle-v12",
+      "statement": "¿Por qué los espejos convexos son usados como espejos retrovisores en vehículos?",
+      "context": "En Neiva, se analiza la diferencia entre espejos cóncavos y convexos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque producen imágenes reales y aumentadas del tráfico.",
+          "is_correct": false,
+          "feedback": "Las imágenes son virtuales, no reales."
+        },
+        {
+          "letter": "B",
+          "text": "Porque producen imágenes virtuales, derechas y de menor tamaño, abarcando un campo visual amplio.",
+          "is_correct": true,
+          "feedback": "El campo amplio aumenta la seguridad vial."
+        },
+        {
+          "letter": "C",
+          "text": "Porque eliminan la luz infrarroja.",
+          "is_correct": false,
+          "feedback": "No es una propiedad óptica relevante."
+        },
+        {
+          "letter": "D",
+          "text": "Porque enfocan la luz solar.",
+          "is_correct": false,
+          "feedback": "Los espejos convexos no enfocan."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los espejos convexos ofrecen un campo de visión más amplio aunque las imágenes aparezcan más pequeñas, lo que mejora la percepción del entorno.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle-v13",
+      "statement": "El arcoíris se forma por la combinación de:",
+      "context": "En clase en Pasto, se discute el fenómeno del arcoíris visto en el cielo colombiano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reflexión únicamente en las gotas de agua.",
+          "is_correct": false,
+          "feedback": "También hay refracción."
+        },
+        {
+          "letter": "B",
+          "text": "Refracción, reflexión interna y dispersión de la luz en gotas de agua.",
+          "is_correct": true,
+          "feedback": "La luz entra, se refleja internamente y se dispersa al salir."
+        },
+        {
+          "letter": "C",
+          "text": "Difracción por partículas atmosféricas.",
+          "is_correct": false,
+          "feedback": "La difracción contribuye pero no es la causa principal."
+        },
+        {
+          "letter": "D",
+          "text": "Polarización en cristales de hielo.",
+          "is_correct": false,
+          "feedback": "Las gotas de agua son responsables del arcoíris primario."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El arcoíris resulta de la refracción y reflexión interna total en las gotas de lluvia, combinada con la dispersión cromática.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle-v14",
+      "statement": "¿Por qué el cielo se torna rojizo durante el atardecer?",
+      "context": "En un estudio en Santa Marta, se investiga el color del cielo al atardecer.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la luz recorre mayor trayecto atmosférico y se dispersan preferentemente las longitudes de onda azules.",
+          "is_correct": true,
+          "feedback": "La dispersión de Rayleigh deja pasar los colores cálidos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el sol cambia de composición química.",
+          "is_correct": false,
+          "feedback": "La composición solar es estable."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las estrellas emiten más luz roja.",
+          "is_correct": false,
+          "feedback": "Las estrellas no son la causa."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la Luna refleja menos luz azul.",
+          "is_correct": false,
+          "feedback": "No es el fenómeno dominante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La dispersión de Rayleigh explica el color azul del cielo durante el día y los tonos cálidos durante el amanecer y atardecer.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle-v15",
+      "statement": "El ángulo de desviación mínima en un prisma ocurre cuando:",
+      "context": "En un laboratorio en Tunja, se utiliza un prisma para medir ángulos de desviación mínima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El ángulo de incidencia es 0°.",
+          "is_correct": false,
+          "feedback": "No corresponde a la condición de mínimo."
+        },
+        {
+          "letter": "B",
+          "text": "El rayo se refleja totalmente dentro del prisma.",
+          "is_correct": false,
+          "feedback": "La reflexión total es otro fenómeno."
+        },
+        {
+          "letter": "C",
+          "text": "El ángulo de incidencia es igual al ángulo de emergencia.",
+          "is_correct": true,
+          "feedback": "En la desviación mínima, los ángulos de entrada y salida son simétricos."
+        },
+        {
+          "letter": "D",
+          "text": "El prisma se sumerge en aceite.",
+          "is_correct": false,
+          "feedback": "No afecta la condición angular de mínimo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La desviación mínima se alcanza cuando el rayo atraviesa el prisma en forma simétrica, con ángulos iguales en las dos caras.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle-v16",
+      "statement": "El astigmatismo es un defecto refractivo que se produce por:",
+      "context": "En una óptica en Bogotá, se explica la diferencia entre miopía y astigmatismo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Exceso de potencia en el ojo, enfocando antes de la retina.",
+          "is_correct": false,
+          "feedback": "Eso corresponde a la miopía."
+        },
+        {
+          "letter": "B",
+          "text": "Curvatura irregular de la córnea o el cristalino, generando múltiples focos.",
+          "is_correct": true,
+          "feedback": "La córnea irregular produce imágenes distorsionadas en diferentes meridianos."
+        },
+        {
+          "letter": "C",
+          "text": "Envejecimiento del cristalino.",
+          "is_correct": false,
+          "feedback": "Eso es la presbicia."
+        },
+        {
+          "letter": "D",
+          "text": "Daño en la retina periférica.",
+          "is_correct": false,
+          "feedback": "El problema es refractivo, no retiniano."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El astigmatismo se corrige con lentes tóricas que compensan la curvatura irregular del ojo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.63,
+      "bundle_id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle-v17",
+      "statement": "En el patrón de difracción de una rendija angosta, los mínimos ocurren cuando:",
+      "context": "En una clase avanzada en Medellín, se analiza la difracción de Fraunhofer por una rendija.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a·sen θ = m·λ, con m = ±1, ±2, ±3,...",
+          "is_correct": true,
+          "feedback": "La condición de mínimos es a·sen θ = m·λ."
+        },
+        {
+          "letter": "B",
+          "text": "a·sen θ = 0 únicamente.",
+          "is_correct": false,
+          "feedback": "Solo corresponde al máximo central."
+        },
+        {
+          "letter": "C",
+          "text": "a·sen θ = λ/4.",
+          "is_correct": false,
+          "feedback": "No es la condición estándar."
+        },
+        {
+          "letter": "D",
+          "text": "a·sen θ = 2m·λ con m entero.",
+          "is_correct": false,
+          "feedback": "Es la condición de máximos principales en redes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La difracción por una rendija produce mínimos en ángulos donde la diferencia de camino entre los rayos extremos es múltiplo entero de λ.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle-v18",
+      "statement": "La ley de Brewster establece que el ángulo de polarización por reflexión cumple que:",
+      "context": "En un taller en Cali, se discute la polarización de la luz reflejada en el agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "tan θ_p = n2/n1, donde el rayo reflejado y el refractado son perpendiculares.",
+          "is_correct": true,
+          "feedback": "A ese ángulo, el rayo reflejado está completamente polarizado."
+        },
+        {
+          "letter": "B",
+          "text": "sen θ_p = n2/n1.",
+          "is_correct": false,
+          "feedback": "Es la ley de Snell."
+        },
+        {
+          "letter": "C",
+          "text": "cos θ_p = n1/n2.",
+          "is_correct": false,
+          "feedback": "No corresponde a Brewster."
+        },
+        {
+          "letter": "D",
+          "text": "θ_p = 45° siempre.",
+          "is_correct": false,
+          "feedback": "Solo se cumple en casos particulares."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ley de Brewster determina el ángulo de incidencia para el cual la luz reflejada está completamente polarizada.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle-v19",
+      "statement": "El límite de resolución de un microscopio óptico está dado por el criterio de Abbe, que establece:",
+      "context": "En una conferencia en Bogotá, se debate el límite de resolución óptica de un microscopio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "d = λ/2 únicamente.",
+          "is_correct": false,
+          "feedback": "Falta la apertura numérica."
+        },
+        {
+          "letter": "B",
+          "text": "d ≈ 0.61·λ/NA, donde NA es la apertura numérica del objetivo.",
+          "is_correct": true,
+          "feedback": "La fórmula de Abbe relaciona resolución, longitud de onda y apertura."
+        },
+        {
+          "letter": "C",
+          "text": "d = f·λ.",
+          "is_correct": false,
+          "feedback": "Producto, no cociente."
+        },
+        {
+          "letter": "D",
+          "text": "d = λ·NA.",
+          "is_correct": false,
+          "feedback": "Invertiste el cociente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El criterio de Abbe indica la mínima distancia resoluble por un microscopio óptico en función de la longitud de onda y la apertura numérica.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle-v20",
+      "statement": "Una ventaja clave de la fibra óptica sobre el cable de cobre es:",
+      "context": "En una discusión sobre tecnología en Cartagena, se evalúan ventajas de las fibras ópticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conduce electrones con menos resistencia.",
+          "is_correct": false,
+          "feedback": "La fibra óptica transporta fotones, no electrones."
+        },
+        {
+          "letter": "B",
+          "text": "Permite transmitir datos con baja atenuación y sin interferencia electromagnética.",
+          "is_correct": true,
+          "feedback": "La luz no se ve afectada por campos electromagnéticos externos."
+        },
+        {
+          "letter": "C",
+          "text": "Es más económica en largas distancias.",
+          "is_correct": false,
+          "feedback": "Es más costosa en instalación inicial."
+        },
+        {
+          "letter": "D",
+          "text": "Solo transporta señales analógicas.",
+          "is_correct": false,
+          "feedback": "Transporta señales digitales de alta velocidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fibra óptica utiliza pulsos de luz para transmitir información con alta velocidad, gran ancho de banda y mínima pérdida de señal.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W36-optica-luz-lentes-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

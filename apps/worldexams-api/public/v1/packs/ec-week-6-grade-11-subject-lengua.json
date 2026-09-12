@@ -8,88 +8,43 @@
   },
   "questions": [
     {
-      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v1",
-      "statement": "Lea el siguiente texto: 'La noche caía sobre Loja y Santiago caminaba de prisa, mirando de reojo las sombras del parque y sujetando fuertemente su mochila contra su pecho'. ¿Qué se puede inferir sobre el estado emocional de Santiago?",
-      "context": "Santiago, estudiante de 11° de Bachillerato en el Colegio Nacional Manta de Loja, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
+      "id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle-v1",
+      "statement": "Facundo o civilización y barbarie (1845), obra fundacional del ensayo latinoamericano que piensa la identidad de las sociedades americanas en torno a esa oposición, fue escrita por",
+      "context": "Un estudiante de BGU de un colegio de Quito arma fichas bibliográficas para un proyecto sobre el ensayo hispanoamericano.",
       "options": [
         {
           "letter": "A",
-          "text": "Sufre de un dolor muscular severo en los brazos debido al peso de la mochila en Colegio Nacional Manta.",
+          "text": "el mexicano Octavio Paz, en la mitad del siglo XX.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Octavio Paz escribió El laberinto de la soledad en 1950; Facundo pertenece a otro país, otra autora y otra época."
         },
         {
           "letter": "B",
-          "text": "Siente temor, desconfianza o nerviosismo por el entorno y la oscuridad de la noche en Loja.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "el uruguayo José Enrique Rodó, autor de Ariel.",
+          "is_correct": false,
+          "feedback": "Rodó es autor de Ariel (1900); Facundo es anterior y de otra tradición nacional."
         },
         {
           "letter": "C",
-          "text": "Está sumamente cansado por haber practicado atletismo en el Colegio Nacional Manta.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "Se encuentra feliz buscando amigos para organizar una fiesta nocturna en Loja.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Aunque el texto no dice la palabra 'miedo' o 'temor', los indicios (caminar de prisa, mirar de reojo las sombras, sujetar la mochila) permiten deducir de forma inferencial su nerviosismo.\n\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.9,
-      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
-      "periodo": 6,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v2",
-      "statement": "Considere el fragmento: 'Desde que se implementó el nuevo sistema de reciclaje obligatorio en el Colegio Nacional Bernardo Valdivieso de Riobamba, el camión de basura común ahora pasa solo una vez por semana por el plantel en lugar de tres'. ¿Qué se deduce del impacto del sistema de reciclaje?",
-      "context": "Alejandro, estudiante de 11° de Bachillerato en el Colegio Nacional Bernardo Valdivieso de Riobamba, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Que los estudiantes ahora arrojan toda la basura en los ríos cercanos de Riobamba.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "Que el colegio Colegio Nacional Bernardo Valdivieso decidió contratar una empresa privada de recolección.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "Que la cantidad de desechos comunes no reciclables generados por la institución en Riobamba se ha reducido significativamente.",
+          "text": "el argentino Domingo F. Sarmiento, en 1845.",
           "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "feedback": "Correcto. Sarmiento publicó Facundo en 1845 y desde Argentina impulsó la fórmula civilización contra barbarie."
         },
         {
           "letter": "D",
-          "text": "Que el camión de la basura tiene problemas mecánicos que impiden su tránsito regular por Colegio Nacional Bernardo Valdivieso.",
+          "text": "el ecuatoriano Juan Montalvo, en sus Siete tratados.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Montalvo cultivó el ensayo moral con los Siete tratados (1884), pero Facundo no es suyo."
         }
       ],
       "correct_answer": "C",
-      "explanation": "La reducción de las visitas del camión de desechos comunes implica que la institución separa más materiales reciclables y genera menos basura residual.\n\n---",
+      "explanation": "Facundo o civilización y barbarie (1845), de Domingo F. Sarmiento, es un hito del ensayo latinoamericano. Mezcla relato, análisis social y literatura para pensar el destino de las naciones americanas.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.88,
-      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
+      "expected_success": 0.85,
+      "bundle_id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -98,88 +53,43 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v3",
-      "statement": "Lea: 'Cuando Gabriela llegó a su local comercial en Ibarra, vio que el candado de la puerta de ingreso estaba roto y la estantería de los equipos electrónicos se encontraba vacía'. ¿Qué conclusión lógica se puede inferir de este hecho?",
-      "context": "Gabriela, estudiante de 11° de Bachillerato en el Colegio Nacional Nueve de Octubre de Ibarra, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
+      "id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle-v2",
+      "statement": "Ariel (1900), ensayo que invitó a la juventud latinoamericana a cultivar una elevación estética y ética frente al utilitarismo, es obra del escritor uruguayo",
+      "context": "Una estudiante de BGU de Guayaquil prepara una exposición sobre los ensayos que marcaron el debate identidad americana.",
       "options": [
         {
           "letter": "A",
-          "text": "Los equipos electrónicos sufrieron un proceso de combustión en Ibarra.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "text": "José Enrique Rodó.",
+          "is_correct": true,
+          "feedback": "Correcto. Rodó publicó en 1900 Ariel, una de las prosas más influyentes del ensayismo hispanoamericano."
         },
         {
           "letter": "B",
-          "text": "El local comercial en Ibarra fue objeto de un robo de mercadería durante la ausencia de su propietario.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "Domingo F. Sarmiento.",
+          "is_correct": false,
+          "feedback": "Sarmiento escribió Facundo en 1845; Ariel pertenece a otro autor y a otra generación."
         },
         {
           "letter": "C",
-          "text": "El dueño decidió regalar todos sus productos a los transeúntes de la avenida en Ibarra.",
+          "text": "Benjamín Carrión.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Carrión es ecuatoriano y se asoció a Notas de viaje; Ariel es del uruguayo Rodó."
         },
         {
           "letter": "D",
-          "text": "La policía de Ibarra confiscó los bienes debido a un trámite administrativo del Colegio Nacional Nueve de Octubre.",
+          "text": "Alfonso Reyes.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "El mexicano Reyes cultivó el ensayo y la reflexión literaria, pero Ariel es obra de Rodó."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "El candado roto y la estantería vacía son indicios claros que permiten inferir razonablemente la ocurrencia de un robo en el negocio.\n\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.86,
-      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
-      "periodo": 6,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v4",
-      "statement": "Considere: 'En Portoviejo, el aumento de nubes de color gris oscuro en el cielo andino vino acompañado de un descenso brusco en la presión y el viento comenzó a agitar con violencia las ramas de los eucaliptos cerca de Colegio Nacional Maldonado'.",
-      "context": "David, estudiante de 11° de Bachillerato en el Colegio Nacional Maldonado de Portoviejo, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Un aumento extremo de la temperatura y sequía solar en Portoviejo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "La caída de nieve ártica sobre los valles bajos de Portoviejo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "Un eclipse total de sol visible en Colegio Nacional Maldonado.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "La llegada inminente de una fuerte lluvia o tormenta en la zona andina de Portoviejo.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "Las nubes oscuras, la caída de presión y los vientos fuertes son indicios naturales clásicos que anuncian una tormenta inminente.\n\n---",
+      "correct_answer": "A",
+      "explanation": "Ariel (1900), del uruguayo José Enrique Rodó, propuso a América Latina un ideal espiritual y estético de formación juvenil. Se volvió libro de referencia en la escuela y el debate continental.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.84,
-      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -188,88 +98,88 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v5",
-      "statement": "Lea: 'A pesar de que el docente del Colegio Nacional Olmedo explicó el tema tres veces de formas distintas en Machala, los estudiantes seguían mirándose entre sí en silencio y nadie se atrevía a levantar la mano para responder la pregunta final'.",
-      "context": "Elena, estudiante de 11° de Bachillerato en el Colegio Nacional Olmedo de Machala, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
+      "id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle-v3",
+      "statement": "El laberinto de la soledad (1950), ensayo mayor sobre la identidad mexicana y sus máscaras históricas, fue escrito por el autor mexicano",
+      "context": "Un grupo de BGU de Cuenca organiza un mapa literario del ensayo latinoamericano del siglo XX.",
       "options": [
         {
           "letter": "A",
-          "text": "Quieren que el profesor se retire del Colegio Nacional Olmedo de Machala para tener recreo.",
+          "text": "Alfonso Reyes, maestro del deslinde literario.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Reyes es anterior y su especialidad fue la reflexión y el deslinde literario; este ensayo de 1950 pertenece a otro mexicano."
         },
         {
           "letter": "B",
-          "text": "No les interesa la asignatura en Machala debido a que prefieren practicar deportes.",
+          "text": "José Enrique Rodó, autor de Ariel.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Rodó fue uruguayo y su obra cumbre data de 1900; El laberinto de la soledad es mexicano y de mediados del siglo XX."
         },
         {
           "letter": "C",
-          "text": "Aún persisten dudas o confusión sobre la materia en el aula de Colegio Nacional Olmedo de Machala, y tienen vergüenza de manifestarlo.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "Domingo F. Sarmiento, autor de Facundo.",
+          "is_correct": false,
+          "feedback": "Sarmiento escribió en el siglo XIX desde Argentina; no es el autor de este ensayo de 1950."
         },
         {
           "letter": "D",
-          "text": "Están listos para rendir un examen de nivel universitario de Machala sin contratiempos.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "El silencio y la timidez para contestar o preguntar demuestran que las dudas no han sido disipadas, lo que genera inhibición en el alumnado.\n\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.82,
-      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
-      "periodo": 6,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v6",
-      "statement": "Lea el siguiente texto: 'La noche caía sobre Esmeraldas y Diana caminaba de prisa, mirando de reojo las sombras del parque y sujetando fuertemente su mochila contra su pecho'. ¿Qué se puede inferir sobre el estado emocional de Diana?",
-      "context": "Diana, estudiante de 11° de Bachillerato en el Colegio Nacional Mejía de Esmeraldas, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Está sumamente cansado por haber practicado atletismo en el Colegio Nacional Mejía.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "Se encuentra feliz buscando amigos para organizar una fiesta nocturna en Esmeraldas.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "Sufre de un dolor muscular severo en los brazos debido al peso de la mochila en Colegio Nacional Mejía.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "Siente temor, desconfianza o nerviosismo por el entorno y la oscuridad de la noche en Esmeraldas.",
+          "text": "Octavio Paz.",
           "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "feedback": "Correcto. Octavio Paz publicó El laberinto de la soledad en 1950, obra clave del ensayo latinoamericano moderno."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Aunque el texto no dice la palabra 'miedo' o 'temor', los indicios (caminar de prisa, mirar de reojo las sombras, sujetar la mochila) permiten deducir de forma inferencial su nerviosismo.\n\n---",
-      "difficulty": "6",
+      "explanation": "Octavio Paz (México, 1950 con El laberinto de la soledad) unió psicoanálisis, historia y literatura para indagar la identidad mexicana. El libro proyectó el ensayo latinoamericano hacia el mundo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle-v4",
+      "statement": "La definición más precisa del ensayo, tal como lo practicó la tradición latinoamericana, es la de un texto que",
+      "context": "Una docente de un colegio de Quito explica a sus estudiantes de BGU la naturaleza del género ensayístico antes de un taller de escritura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "expone materias científicas en tercera persona, sin marcas de estilo personal.",
+          "is_correct": false,
+          "feedback": "Esa descripción apuntaría a la divulgación o al artículo técnico; el ensayo admite y hasta busca la voz del autor."
+        },
+        {
+          "letter": "B",
+          "text": "combina argumentación de ideas con estilo literario y una mirada subjetiva del ensayista sobre su objeto.",
+          "is_correct": true,
+          "feedback": "Correcto. El ensayo es un género híbrido: razona sobre un tema y, a la vez, escribe con voz propia y recursos literarios."
+        },
+        {
+          "letter": "C",
+          "text": "narra hechos ficticios con personajes y diálogo desarrollados en capítulos.",
+          "is_correct": false,
+          "feedback": "Esa es la descripción de la novela; el ensayo no narra una ficción con personajes, sino que reflexiona y argumenta."
+        },
+        {
+          "letter": "D",
+          "text": "resume el contenido de otros libros sin emitir juicio propio.",
+          "is_correct": false,
+          "feedback": "El resumen sin juicio sería una reseña mecánica o una ficha; el ensayo se define por la interpretación personal argumentada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ensayo mezcla pensamiento y literatura: tesis, digresiones, primera persona y estilo cuidado. Por eso Sarmiento, Rodó, Paz o Reyes se leen tanto por sus ideas como por su prosa.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
       "expected_success": 0.8,
-      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
+      "bundle_id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -278,88 +188,43 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v7",
-      "statement": "Considere el fragmento: 'Desde que se implementó el nuevo sistema de reciclaje obligatorio en el Colegio Nacional Vicente Rocafuerte de Santo Domingo, el camión de basura común ahora pasa solo una vez por semana por el plantel en lugar de tres'. ¿Qué se deduce del impacto del sistema de reciclaje?",
-      "context": "Carlos, estudiante de 11° de Bachillerato en el Colegio Nacional Vicente Rocafuerte de Santo Domingo, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
+      "id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle-v5",
+      "statement": "Lee el fragmento de un ensayo breve inventado, atribuido a un columnista ficticio:\n\n\"Suele decirse que los jóvenes del barrio solo quieren fiesta. Yo he visto lo contrario: en cada esquina hay quien repara bicicletas, cuida hermanos menores y estudia de noche. La ciudad debería mirarles, y no perseguirles\".\n\nLa tesis que el autor defiende en el fragmento es que",
+      "context": "Un estudiante de BGU de Guayaquil recibe un micro-texto argumentativo de un columnista ficticio y debe ubicar su tesis.",
       "options": [
         {
           "letter": "A",
-          "text": "Que el colegio Colegio Nacional Vicente Rocafuerte decidió contratar una empresa privada de recolección.",
+          "text": "los jóvenes del barrio únicamente buscan diversión y despreocupación.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Esa es la idea que el autor cita para refutarla; la tesis es justamente la contraria."
         },
         {
           "letter": "B",
-          "text": "Que la cantidad de desechos comunes no reciclables generados por la institución en Santo Domingo se ha reducido significativamente.",
+          "text": "la mirada social sobre los jóvenes del barrio es injusta y la ciudad debe reconocer su esfuerzo en lugar de perseguirlos.",
           "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "feedback": "Correcto. La tesis une la refutación del estereotipo con el pedido explícito final: mirar, no perseguir."
         },
         {
           "letter": "C",
-          "text": "Que el camión de la basura tiene problemas mecánicos que impiden su tránsito regular por Colegio Nacional Vicente Rocafuerte.",
+          "text": "reparar bicicletas y estudiar de noche son actividades prohibidas en la ciudad.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "El texto presenta esas actividades como ejemplos de esfuerzo, no como hechos delictivos."
         },
         {
           "letter": "D",
-          "text": "Que los estudiantes ahora arrojan toda la basura en los ríos cercanos de Santo Domingo.",
+          "text": "la ciudad no tiene ningún problema de convivencia con la juventud.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "El autor reconoce un conflicto de miradas; su tesis propone resolverlo cambiando la actitud urbana."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La reducción de las visitas del camión de desechos comunes implica que la institución separa más materiales reciclables y genera menos basura residual.\n\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.78,
-      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
-      "periodo": 6,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v8",
-      "statement": "Lea: 'Cuando Rafael llegó a su local comercial en Quito, vio que el candado de la puerta de ingreso estaba roto y la estantería de los equipos electrónicos se encontraba vacía'. ¿Qué conclusión lógica se puede inferir de este hecho?",
-      "context": "Rafael, estudiante de 11° de Bachillerato en el Colegio Benigno Malo de Quito, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "La policía de Quito confiscó los bienes debido a un trámite administrativo del Colegio Benigno Malo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "Los equipos electrónicos sufrieron un proceso de combustión en Quito.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "El local comercial en Quito fue objeto de un robo de mercadería durante la ausencia de su propietario.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "D",
-          "text": "El dueño decidió regalar todos sus productos a los transeúntes de la avenida en Quito.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "El candado roto y la estantería vacía son indicios claros que permiten inferir razonablemente la ocurrencia de un robo en el negocio.\n\n---",
+      "explanation": "La tesis es la idea que el autor defiende, no la que cita para negarla. Marcas como \"suele decirse... yo he visto lo contrario\" señalan el movimiento refutatorio típico del ensayo argumentativo.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.76,
-      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
+      "expected_success": 0.75,
+      "bundle_id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -368,133 +233,88 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v9",
-      "statement": "Considere: 'En Guayaquil, el aumento de nubes de color gris oscuro en el cielo andino vino acompañado de un descenso brusco en la presión y el viento comenzó a agitar con violencia las ramas de los eucaliptos cerca de Colegio Nacional Bolívar'.",
-      "context": "Andrés, estudiante de 11° de Bachillerato en el Colegio Nacional Bolívar de Guayaquil, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
+      "id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle-v6",
+      "statement": "Lee el fragmento de un texto inventado de un columnista ficticio:\n\n\"Permíteme, lector, una confesión: dudo de las estadísticas que leen los ediles. Cuentan usuarios del parque y no cuentan las conversaciones que el parque hace posibles\".\n\nEl rasgo que permite identificar este fragmento como ensayístico y no como informe académico es",
+      "context": "Una estudiante de BGU de Quito clasifica textos de un periódico escolar según el género al que pertenecen.",
       "options": [
         {
           "letter": "A",
-          "text": "La llegada inminente de una fuerte lluvia o tormenta en la zona andina de Guayaquil.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "la presencia de un dato numérico sobre usuarios del parque.",
+          "is_correct": false,
+          "feedback": "Los datos pueden aparecer en cualquier género; lo ensayístico está en la voz, la digresión y la subjetividad, no en la cifra."
         },
         {
           "letter": "B",
-          "text": "Un aumento extremo de la temperatura y sequía solar en Guayaquil.",
+          "text": "el uso de oraciones breves y punto final.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "La longitud de las oraciones no distingue géneros; informes y ensayos pueden escribir con frases cortas."
         },
         {
           "letter": "C",
-          "text": "La caída de nieve ártica sobre los valles bajos de Guayaquil.",
+          "text": "la ausencia total de opinión del autor.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "El fragmento está lleno de opinión (\"dudo\", \"confesión\"); la impersonalidad sería rasgo del informe, no del ensayo."
         },
         {
           "letter": "D",
-          "text": "Un eclipse total de sol visible en Colegio Nacional Bolívar.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Las nubes oscuras, la caída de presión y los vientos fuertes son indicios naturales clásicos que anuncian una tormenta inminente.\n\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.74,
-      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
-      "periodo": 6,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v10",
-      "statement": "Lea: 'A pesar de que el docente del Unidad Educativa Santo Domingo explicó el tema tres veces de formas distintas en Cuenca, los estudiantes seguían mirándose entre sí en silencio y nadie se atrevía a levantar la mano para responder la pregunta final'.",
-      "context": "Estefanía, estudiante de 11° de Bachillerato en el Unidad Educativa Santo Domingo de Cuenca, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Aún persisten dudas o confusión sobre la materia en el aula de Unidad Educativa Santo Domingo de Cuenca, y tienen vergüenza de manifestarlo.",
+          "text": "la apelación directa al lector y la confesión en primera persona de una duda personal.",
           "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "B",
-          "text": "Están listos para rendir un examen de nivel universitario de Cuenca sin contratiempos.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "Quieren que el profesor se retire del Unidad Educativa Santo Domingo de Cuenca para tener recreo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "No les interesa la asignatura en Cuenca debido a que prefieren practicar deportes.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "El silencio y la timidez para contestar o preguntar demuestran que las dudas no han sido disipadas, lo que genera inhibición en el alumnado.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.72,
-      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
-      "periodo": 6,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v11",
-      "statement": "Lea el siguiente texto: 'La noche caía sobre Ambato y Ana caminaba de prisa, mirando de reojo las sombras del parque y sujetando fuertemente su mochila contra su pecho'. ¿Qué se puede inferir sobre el estado emocional de Ana?",
-      "context": "Ana, estudiante de 11° de Bachillerato en el Colegio Nacional Manta de Ambato, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Está sumamente cansado por haber practicado atletismo en el Colegio Nacional Manta.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "Se encuentra feliz buscando amigos para organizar una fiesta nocturna en Ambato.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "Sufre de un dolor muscular severo en los brazos debido al peso de la mochila en Colegio Nacional Manta.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "Siente temor, desconfianza o nerviosismo por el entorno y la oscuridad de la noche en Ambato.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "feedback": "Correcto. La intimidad de la primera persona y el diálogo con un lector nombrado son sellos del ensayo como género subjetivo."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Aunque el texto no dice la palabra 'miedo' o 'temor', los indicios (caminar de prisa, mirar de reojo las sombras, sujetar la mochila) permiten deducir de forma inferencial su nerviosismo.\n\n---",
-      "difficulty": "7",
+      "explanation": "El ensayo se reconoce por su contrato con el lector: una voz que piensa en voz alta, duda y conversa. El informe académico, en cambio, evita las marcas personales y la apelación directa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle-v7",
+      "statement": "Si un estudiante de BGU quiere citar el ejemplo ecuatoriano más señalado de ensayo moral del siglo XIX, publicado desde 1884, debe remitirse a",
+      "context": "Un estudiante de BGU de Cuenca estudia la tradición ensayística ecuatoriana y busca ejemplos del siglo XIX.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "los Siete tratados de Juan Montalvo.",
+          "is_correct": true,
+          "feedback": "Correcto. Los Siete tratados (1884) de Montalvo constituyen un referente del ensayo moral ecuatoriano del XIX."
+        },
+        {
+          "letter": "B",
+          "text": "Facundo de Domingo F. Sarmiento.",
+          "is_correct": false,
+          "feedback": "Facundo es argentino y de 1845; la pregunta pide un caso ecuatoriano."
+        },
+        {
+          "letter": "C",
+          "text": "Ariel de José Enrique Rodó.",
+          "is_correct": false,
+          "feedback": "Ariel es uruguayo y de 1900; no pertenece a la tradición ecuatoriana solicitada."
+        },
+        {
+          "letter": "D",
+          "text": "El laberinto de la soledad de Octavio Paz.",
+          "is_correct": false,
+          "feedback": "La obra de Paz es mexicana y de 1950; no corresponde al ensayo moral ecuatoriano del XIX."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Juan Montalvo y sus Siete tratados (1884) encarnan en el Ecuador el ensayo de combate moral: la palabra como examen ético del poder y de las costumbres.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
       "expected_success": 0.7,
-      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
+      "bundle_id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -503,43 +323,43 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v12",
-      "statement": "Considere el fragmento: 'Desde que se implementó el nuevo sistema de reciclaje obligatorio en el Colegio Nacional Bernardo Valdivieso de Manta, el camión de basura común ahora pasa solo una vez por semana por el plantel en lugar de tres'. ¿Qué se deduce del impacto del sistema de reciclaje?",
-      "context": "Luis, estudiante de 11° de Bachillerato en el Colegio Nacional Bernardo Valdivieso de Manta, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
+      "id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle-v8",
+      "statement": "Dentro de la tradición ensayística ecuatoriana, las Notas de viaje (1908), de un autor que luego sería figura central de la vida intelectual nacional, corresponden a",
+      "context": "Una estudiante de BGU de Quito completa un cuadro comparativo de ensayistas latinoamericanos con casos del Ecuador.",
       "options": [
         {
           "letter": "A",
-          "text": "Que el colegio Colegio Nacional Bernardo Valdivieso decidió contratar una empresa privada de recolección.",
+          "text": "Juan Montalvo, con sus tratados de combate moral.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Montalvo murió en 1889 y su obra mayor citada aquí son los Siete tratados (1884); las Notas de viaje de 1908 pertenecen a otro autor."
         },
         {
           "letter": "B",
-          "text": "Que la cantidad de desechos comunes no reciclables generados por la institución en Manta se ha reducido significativamente.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "Jorge Icaza, con su narrativa indigenista.",
+          "is_correct": false,
+          "feedback": "Icaza es conocido por la novela indigenista del XX, no por este libro de viajes ensayístico de 1908."
         },
         {
           "letter": "C",
-          "text": "Que el camión de la basura tiene problemas mecánicos que impiden su tránsito regular por Colegio Nacional Bernardo Valdivieso.",
+          "text": "Medardo Ángel Silva, poeta de Los Decapitadores.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Silva fue poeta y murió en 1919; las Notas de viaje son una prosa ensayística de otra figura."
         },
         {
           "letter": "D",
-          "text": "Que los estudiantes ahora arrojan toda la basura en los ríos cercanos de Manta.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "text": "Benjamín Carrión, cuyo libro anticipa su magisterio intelectual en el Ecuador.",
+          "is_correct": true,
+          "feedback": "Correcto. Notas de viaje (1908) es una obra temprana de Benjamín Carrión, luego ensayista y gestor cultural capitalino."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La reducción de las visitas del camión de desechos comunes implica que la institución separa más materiales reciclables y genera menos basura residual.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Benjamín Carrión inauguró su carrera ensayística con Notas de viaje (1908). Su trayectoria muestra cómo el ensayo en el Ecuador se ligó a la formación de instituciones y debates culturales.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.68,
-      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
+      "expected_success": 0.7,
+      "bundle_id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -548,88 +368,133 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v13",
-      "statement": "Lea: 'Cuando Patricia llegó a su local comercial en Loja, vio que el candado de la puerta de ingreso estaba roto y la estantería de los equipos electrónicos se encontraba vacía'. ¿Qué conclusión lógica se puede inferir de este hecho?",
-      "context": "Patricia, estudiante de 11° de Bachillerato en el Colegio Nacional Nueve de Octubre de Loja, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
+      "id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle-v9",
+      "statement": "Lee el fragmento de un texto inventado de un columnista ficticio:\n\n\"Hablo de la lentitud. No la del tráfico, sino la otra: la que permite que una frase se piense dos veces. Mi abuela dictaba cartas de una hora; nosotros dictamos mensajes de un segundo. Algo ganamos, pero algo se perdió en la lengua\".\n\nLa función principal del ejemplo de la abuela en la argumentación es",
+      "context": "Un taller de BGU en Guayaquil practica la diferencia entre ensayo y artículo de opinión usando un texto inventado.",
       "options": [
         {
           "letter": "A",
-          "text": "El dueño decidió regalar todos sus productos a los transeúntes de la avenida en Loja.",
+          "text": "demostrar con documentos archivísticos la existencia de la autora del recuerdo.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "El recuerdo no se ofrece como prueba documental; es una escena ilustrativa sin aparato de archivo."
         },
         {
           "letter": "B",
-          "text": "La policía de Loja confiscó los bienes debido a un trámite administrativo del Colegio Nacional Nueve de Octubre.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "text": "concretar en una escena familiar y memorables la pérdida que el autor atribuye a la rapidez comunicativa.",
+          "is_correct": true,
+          "feedback": "Correcto. La anécdota íntima encarna la abstracción \"lentitud\": procedimiento típico del ensayo, que razona con imágenes y experiencias."
         },
         {
           "letter": "C",
-          "text": "Los equipos electrónicos sufrieron un proceso de combustión en Loja.",
+          "text": "desviar el tema hacia la genealogía y la historia de la familia del autor.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "La familia aparece como ejemplo, no como asunto central; el tema sigue siendo la lentitud del lenguaje."
         },
         {
           "letter": "D",
-          "text": "El local comercial en Loja fue objeto de un robo de mercadería durante la ausencia de su propietario.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "El candado roto y la estantería vacía son indicios claros que permiten inferir razonablemente la ocurrencia de un robo en el negocio.\n\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.66,
-      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
-      "periodo": 6,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v14",
-      "statement": "Considere: 'En Riobamba, el aumento de nubes de color gris oscuro en el cielo andino vino acompañado de un descenso brusco en la presión y el viento comenzó a agitar con violencia las ramas de los eucaliptos cerca de Colegio Nacional Maldonado'.",
-      "context": "Fernando, estudiante de 11° de Bachillerato en el Colegio Nacional Maldonado de Riobamba, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Un eclipse total de sol visible en Colegio Nacional Maldonado.",
+          "text": "sustituir toda argumentación por un cuento de hadas sin relación con la tesis.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "La llegada inminente de una fuerte lluvia o tormenta en la zona andina de Riobamba.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "C",
-          "text": "Un aumento extremo de la temperatura y sequía solar en Riobamba.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "La caída de nieve ártica sobre los valles bajos de Riobamba.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "La escena está subordinada a la tesis sobre la pérdida de la pausa; lejos de ser un cuento suelto, es su prueba narrativa."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Las nubes oscuras, la caída de presión y los vientos fuertes son indicios naturales clásicos que anuncian una tormenta inminente.\n\n---",
+      "explanation": "El ensayo argumenta con escenas y digresiones que iluminan la tesis. Distinguir el ejemplo funcional del simple adorno es parte clave de la lectura crítica del género.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle-v10",
+      "statement": "La estudiante parte de la misma idea en dos borradores:\n\nBorrador 1: \"La biblioteca debe abrir sábados. Falta espacio de estudio. Pido al concejo estudiantil aprobar el presupuesto este mes\".\nBorrador 2: \"Abro la biblioteca un sábado y escucho el silencio trabajar. El silencio, dice un lector de pie, es un lujo democrático: nadie lo cobra, todos lo usamos. Pienso entonces en qué debe una ciudad a las horas vacías de sus jóvenes\".\n\nLa decisión correcta sobre los géneros de ambos borradores es que",
+      "context": "Una estudiante de BGU de Quito redacta para el periódico escolar y debe decidir si su texto será artículo de opinión o ensayo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "los dos son artículos de opinión, porque ambos reclaman la apertura de la biblioteca.",
+          "is_correct": false,
+          "feedback": "El Borrador 2 no reclama nada concreto; divaga con imágenes y preguntas, y esa no es la estructura de un artículo de opinión."
+        },
+        {
+          "letter": "B",
+          "text": "los dos son ensayos, porque los dos fueron escritos por una estudiante de BGU.",
+          "is_correct": false,
+          "feedback": "La autoría no define el género; cada borrador tiene estructura y propósito distintos."
+        },
+        {
+          "letter": "C",
+          "text": "el Borrador 1 es ensayo por su brevedad, y el 2 es artículo por su tema urbano.",
+          "is_correct": false,
+          "feedback": "El criterio de longitud y el tema no invierten los papeles: la estructura argumentativa directa es del artículo."
+        },
+        {
+          "letter": "D",
+          "text": "el Borrador 1 es un artículo de opinión con petición concreta, y el 2 es un ensayo con digresión, imagen y reflexión abierta.",
+          "is_correct": true,
+          "feedback": "Correcto. El artículo defiende una demanda puntada y accionable; el ensayo piensa, se desvía y deja preguntas vivas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El artículo de opinión busca convencer para actuar; el ensayo busca pensar con el lector. Comparar borradores sobre un mismo asunto es un ejercicio eficaz para ver la diferencia de contratos de lectura.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle-v11",
+      "statement": "Lee el micro-ensayo inventado de un columnista ficticio:\n\n(1) \"Todos celebran la velocidad de internet del barrio. (2) Yo celebro otra cosa: que la vecina del 304 aprendió a leer cartas de su nieta a los setenta años. (3) La conectividad sin alfabetización es tubería sin agua. (4) Y aquí me detengo, porque también la alfabetización sin compañía es letra muerta: recuerdo a mi tío, que leía el diario en voz alta para todos\".\n\nEl análisis correcto de la estructura argumentativa es que",
+      "context": "Un estudiante de BGU de Guayaquil desarma la estructura de un micro-ensayo inventado para un análisis retórico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "la oración 3 formula la tesis por analogía, la 2 la prepara con un contraste frente al lugar común de la 1, y la 4 introduce una digresión narrativa que matiza la propia tesis.",
+          "is_correct": true,
+          "feedback": "Correcto. La secuencia lugar común → contraste → tesis analógica → digresión que amplía es el movimiento argumentativo del texto."
+        },
+        {
+          "letter": "B",
+          "text": "la oración 1 es la tesis, pues abre el texto con la idea más celebrada por todos.",
+          "is_correct": false,
+          "feedback": "La oración 1 recoge un lugar común que el autor desplaza en la 2; una tesis no se introduce celebrando la opinión contraria."
+        },
+        {
+          "letter": "C",
+          "text": "la oración 4 contradice sin propósito la tesis y arruina el argumento.",
+          "is_correct": false,
+          "feedback": "La digresión del tío no destruye el razonamiento: lo complementa sumando el valor de la compañía, movimiento típico del ensayo."
+        },
+        {
+          "letter": "D",
+          "text": "el texto carece de estructura porque mezcla tres temas ajenos entre sí.",
+          "is_correct": false,
+          "feedback": "Los temas -velocidad, lectoescritura, compañía- se subordinan a una línea de reflexión común; mezclar no es desestructurar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar un ensayo es mapear sus movimientos: concesión del lugar común, contraste, tesis, digresión matizadora. La digresión no es un defecto del género sino uno de sus instrumentos de pensamiento.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.64,
-      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
+      "expected_success": 0.65,
+      "bundle_id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -638,43 +503,43 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v15",
-      "statement": "Lea: 'A pesar de que el docente del Colegio Nacional Olmedo explicó el tema tres veces de formas distintas en Ibarra, los estudiantes seguían mirándose entre sí en silencio y nadie se atrevía a levantar la mano para responder la pregunta final'.",
-      "context": "María, estudiante de 11° de Bachillerato en el Colegio Nacional Olmedo de Ibarra, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
+      "id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle-v12",
+      "statement": "En Facundo (1845), Sarmiento opone civilización a barbarie para pensar el destino argentino; en los Siete tratados (1884), Montalvo somete a juicio moral el poder y las costumbres de su tiempo. La comparación válida entre ambos ensayos es que",
+      "context": "Un curso de BGU en Quito compara el proyecto civilizatorio de Facundo con el proyecto educativo de los Siete tratados de Montalvo.",
       "options": [
         {
           "letter": "A",
-          "text": "Están listos para rendir un examen de nivel universitario de Ibarra sin contratiempos.",
+          "text": "ambos escribieron con idéntico objetivo: postularse presidentes de sus respectivos países.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Ninguno de los dos textos se estructura como candidatura; reducir el ensayo a programa electoral es una lectura anacrónica y falsa."
         },
         {
           "letter": "B",
-          "text": "Quieren que el profesor se retire del Colegio Nacional Olmedo de Ibarra para tener recreo.",
+          "text": "ambos renunciaron al estilo literario para parecer científicos de laboratorio.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Lo característico de estos ensayos es precisamente su prosa con recursos retóricos e imágenes potentes."
         },
         {
           "letter": "C",
-          "text": "No les interesa la asignatura en Ibarra debido a que prefieren practicar deportes.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "text": "ambos usan el ensayo como arma de intervención pública: piensan la nación desde la palabra, dirigiéndose a un destinatario colectivo que deben formar.",
+          "is_correct": true,
+          "feedback": "Correcto. Más allá de diferencias nacionales y de fecha, comparten la fe ensayística en la palabra como fuerza que educa a un pueblo."
         },
         {
           "letter": "D",
-          "text": "Aún persisten dudas o confusión sobre la materia en el aula de Colegio Nacional Olmedo de Ibarra, y tienen vergüenza de manifestarlo.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "ambos pertenecen al siglo XX, cuando el género ensayístico ya estaba agotado.",
+          "is_correct": false,
+          "feedback": "Facundo es de 1845 y los Siete tratados de 1884: siglo XIX, pleno auge fundacional del ensayo latinoamericano."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "El silencio y la timidez para contestar o preguntar demuestran que las dudas no han sido disipadas, lo que genera inhibición en el alumnado.\n\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "El ensayo latinoamericano del XIX nació comprometido con la construcción nacional. Sarmiento y Montalvo muestran que argumentar y literaturizar pueden ponerse al servicio de un programa público común.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.62,
-      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
+      "expected_success": 0.65,
+      "bundle_id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -683,43 +548,43 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v16",
-      "statement": "Lea el siguiente texto: 'La noche caía sobre Portoviejo y José caminaba de prisa, mirando de reojo las sombras del parque y sujetando fuertemente su mochila contra su pecho'. ¿Qué se puede inferir sobre el estado emocional de José?",
-      "context": "José, estudiante de 11° de Bachillerato en el Colegio Nacional Mejía de Portoviejo, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
+      "id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle-v13",
+      "statement": "Lee los dos inicios inventados:\n\nTexto A: \"Nosotros, los que envejecimos esperando el bus, sabemos que la ciudad se diseñó para los apurados\".\nTexto B: \"Ustedes, señores ediles, que nunca hicieron fila en una ventanilla, deberían conocer este andén\".\n\nLa diferencia en la construcción del destinatario que se observa entre ambos textos es que",
+      "context": "Un estudiante de BGU de Cuenca analiza la función del destinatario en dos ensayos inventados de columnistas ficticios.",
       "options": [
         {
           "letter": "A",
-          "text": "Está sumamente cansado por haber practicado atletismo en el Colegio Nacional Mejía.",
+          "text": "el Texto A no tiene destinatario, mientras que el B se dirige a toda la humanidad.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Ambos construyen destinatarios explícitos; el \"nosotros\" inclusivo también es una operación de dirección retórica."
         },
         {
           "letter": "B",
-          "text": "Se encuentra feliz buscando amigos para organizar una fiesta nocturna en Portoviejo.",
+          "text": "el Texto B excluye a los ediles del debate público y por eso pierde fuerza.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Nombrar y confrontar al destinatario poderoso es una estrategia de exposición, no una exclusión que debilite el texto."
         },
         {
           "letter": "C",
-          "text": "Sufre de un dolor muscular severo en los brazos debido al peso de la mochila en Colegio Nacional Mejía.",
+          "text": "ambos textos se dirigen al mismo grupo: los usuarios del transporte.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "El B apunta a los tomadores de decisiones, no a los usuarios; confundir destinatarios arruina el análisis retórico."
         },
         {
           "letter": "D",
-          "text": "Siente temor, desconfianza o nerviosismo por el entorno y la oscuridad de la noche en Portoviejo.",
+          "text": "el Texto A convoca un \"nosotros\" de experiencia compartida, mientras el B interpela desde la distancia a un \"ustedes\" de poder.",
           "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "feedback": "Correcto. El pronombre y su carga -inclusión frente a confrontación- revelan dos pactos retóricos distintos con el lector."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Aunque el texto no dice la palabra 'miedo' o 'temor', los indicios (caminar de prisa, mirar de reojo las sombras, sujetar la mochila) permiten deducir de forma inferencial su nerviosismo.\n\n---",
+      "explanation": "Todo ensayo construye a su lector. Un \"nosotros\" crea complicidad desde la experiencia; un «ustedes» señala responsabilidades desde la distancia. Analizar los pronombres es analizar la estrategia.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "expected_success": 0.6,
-      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
+      "bundle_id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -728,43 +593,88 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v17",
-      "statement": "Considere el fragmento: 'Desde que se implementó el nuevo sistema de reciclaje obligatorio en el Colegio Nacional Vicente Rocafuerte de Machala, el camión de basura común ahora pasa solo una vez por semana por el plantel en lugar de tres'. ¿Qué se deduce del impacto del sistema de reciclaje?",
-      "context": "Mateo, estudiante de 11° de Bachillerato en el Colegio Nacional Vicente Rocafuerte de Machala, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
+      "id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle-v14",
+      "statement": "Alfonso Reyes cultivó en México el ensayo de deslinde y reflexión literaria: delimitar conceptos, ordenar problemas de la literatura con prosa precisa. Desde la perspectiva de esa tradición, la pregunta que un ensayo de deslinde intenta responder es sobre todo",
+      "context": "Una estudiante de BGU de Quito estudia la continuidad del ensayo de reflexión literaria desde Alfonso Reyes hasta la crítica cultural actual.",
       "options": [
         {
           "letter": "A",
-          "text": "Que el camión de la basura tiene problemas mecánicos que impiden su tránsito regular por Colegio Nacional Vicente Rocafuerte.",
+          "text": "¿qué noticias políticas ocurrieron el día de ayer en la capital?",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Las noticias diarias corresponden al periodismo informativo; el deslinde conceptual opera en otro nivel de abstracción."
         },
         {
           "letter": "B",
-          "text": "Que los estudiantes ahora arrojan toda la basura en los ríos cercanos de Machala.",
+          "text": "¿cómo se reparte el presupuesto nacional del próximo año fiscal?",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "El presupuesto es asunto de la administración y el debate técnico-político, no de la reflexión literaria reyesiana."
         },
         {
           "letter": "C",
-          "text": "Que el colegio Colegio Nacional Vicente Rocafuerte decidió contratar una empresa privada de recolección.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "text": "¿qué queremos decir exactamente cuando usamos una idea, y hasta dónde alcanzan sus fronteras?",
+          "is_correct": true,
+          "feedback": "Correcto. Deslindar es fijar límites de un concepto: la pregunta por la precisión de las ideas define esa veta del ensayo."
         },
         {
           "letter": "D",
-          "text": "Que la cantidad de desechos comunes no reciclables generados por la institución en Machala se ha reducido significativamente.",
+          "text": "¿qué reglas debe seguir un cuento para ganar un certamen escolar?",
+          "is_correct": false,
+          "feedback": "Una receta de concurso es normativa y práctica; el deslinde indaga conceptos, no formule requisitos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El ensayo de deslinde, del que Reyes fue maestro, ejerce la claridad: define, separa y acota conceptos. Es una lección de pensamiento preciso dentro del género ensayístico latinoamericano.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle-v15",
+      "statement": "Lee el fragmento inventado de un columnista ficticio:\n\n\"Las plazas están vacías los domingos. Mi hija no sale a jugar porque hay calor. Luego, la causa de que las plazas estén vacías es el calor\".\n\nEl problema lógico principal del argumento es que",
+      "context": "Un estudiante de BGU de Guayaquil evalúa la solidez de un razonamiento en un micro-ensayo inventado para un debate en clase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "parte de una premisa totalmente falsa: las plazas nunca se vacían ningún día.",
+          "is_correct": false,
+          "feedback": "Las premisas observacionales se dan como ciertas en el ejercicio; el defecto no está en su verdad sino en la inferencia."
+        },
+        {
+          "letter": "B",
+          "text": "usa primera persona, y el ensayo prohíbe todo pronombre personal.",
+          "is_correct": false,
+          "feedback": "La primera persona es natural en el ensayo; ningún manual del género la destierra."
+        },
+        {
+          "letter": "C",
+          "text": "concluye que el calor es malo, cuando el razonamiento solo hablaba del frío.",
+          "is_correct": false,
+          "feedback": "El texto nunca menciona el frío; esta lectura inventa un contenido que no está allí."
+        },
+        {
+          "letter": "D",
+          "text": "reduce la causa a un solo factor tomando un caso particular -la hija- como explicación general de un fenómeno complejo.",
           "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "feedback": "Correcto. Generalizar desde un ejemplo aislado y eliminar otras posibles causas es una premura inductiva clásica del mal argumento."
         }
       ],
       "correct_answer": "D",
-      "explanation": "La reducción de las visitas del camión de desechos comunes implica que la institución separa más materiales reciclables y genera menos basura residual.\n\n---",
-      "difficulty": "9",
+      "explanation": "Identificar falacias también es leer ensayos: una observación verdadera mal generalizada produce una conclusión débil. El buen ensayista matiza, considera alternativas y evita conclusiones precipitadas.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.58,
-      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -773,88 +683,43 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v18",
-      "statement": "Lea: 'Cuando Sebastián llegó a su local comercial en Esmeraldas, vio que el candado de la puerta de ingreso estaba roto y la estantería de los equipos electrónicos se encontraba vacía'. ¿Qué conclusión lógica se puede inferir de este hecho?",
-      "context": "Sebastián, estudiante de 11° de Bachillerato en el Colegio Benigno Malo de Esmeraldas, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
+      "id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle-v16",
+      "statement": "Sobre Notas de viaje (1908) de Benjamín Carrión como ensayo, la lectura más ajustada a la naturaleza del género es que el libro",
+      "context": "Un colegio de Quito analiza cómo la forma de un ensayo de viajes registra y interpreta al mismo tiempo.",
       "options": [
         {
           "letter": "A",
-          "text": "Los equipos electrónicos sufrieron un proceso de combustión en Esmeraldas.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "text": "transforma la crónica del desplazamiento en material de reflexión: lo visto en el viaje se vuelve materia para pensar la cultura y el país.",
+          "is_correct": true,
+          "feedback": "Correcto. En el ensayo viajero, la descripción se subordina a la interpretación: el camino es pretexto para ideas."
         },
         {
           "letter": "B",
-          "text": "El local comercial en Esmeraldas fue objeto de un robo de mercadería durante la ausencia de su propietario.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "funciona exclusivamente como guía práctica con precios, horarios y mapas.",
+          "is_correct": false,
+          "feedback": "Una guía operativa no agota el propósito del ensayo de viajes, que busca sentido, no solo utilidad logística."
         },
         {
           "letter": "C",
-          "text": "El dueño decidió regalar todos sus productos a los transeúntes de la avenida en Esmeraldas.",
+          "text": "inventa una fábula con animales personificados para distraer lectores.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "La descripción corresponde a la fábula; el ensayo de viajes trabaja con experiencia real interpretada."
         },
         {
           "letter": "D",
-          "text": "La policía de Esmeraldas confiscó los bienes debido a un trámite administrativo del Colegio Benigno Malo.",
+          "text": "registra datos meteorológicos de cada ciudad visitada como fin único.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "El candado roto y la estantería vacía son indicios claros que permiten inferir razonablemente la ocurrencia de un robo en el negocio.\n\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.56,
-      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
-      "periodo": 6,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v19",
-      "statement": "Considere: 'En Santo Domingo, el aumento de nubes de color gris oscuro en el cielo andino vino acompañado de un descenso brusco en la presión y el viento comenzó a agitar con violencia las ramas de los eucaliptos cerca de Colegio Nacional Bolívar'.",
-      "context": "Valentina, estudiante de 11° de Bachillerato en el Colegio Nacional Bolívar de Santo Domingo, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "La llegada inminente de una fuerte lluvia o tormenta en la zona andina de Santo Domingo.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "B",
-          "text": "Un aumento extremo de la temperatura y sequía solar en Santo Domingo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "La caída de nieve ártica sobre los valles bajos de Santo Domingo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "Un eclipse total de sol visible en Colegio Nacional Bolívar.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "El clima podría ser un detalle, pero hacer de él el fin único contradice el carácter reflexivo del género."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Las nubes oscuras, la caída de presión y los vientos fuertes son indicios naturales clásicos que anuncian una tormenta inminente.\n\n---",
-      "difficulty": "9",
+      "explanation": "El ensayo digiere cualquier experiencia -viaje, lectura, memoria- en función del pensar. Carrión muestra cómo un cuaderno de viaje puede volverse ensayo cuando la mirada interpreta.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.54,
-      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -863,43 +728,178 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v20",
-      "statement": "Lea: 'A pesar de que el docente del Unidad Educativa Santo Domingo explicó el tema tres veces de formas distintas en Quito, los estudiantes seguían mirándose entre sí en silencio y nadie se atrevía a levantar la mano para responder la pregunta final'.",
-      "context": "Camila, estudiante de 11° de Bachillerato en el Unidad Educativa Santo Domingo de Quito, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
+      "id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle-v17",
+      "statement": "Un estudiante sostiene: \"Ariel (1900) de Rodó ya no puede servir de nada hoy, porque hablaba de elevación espiritual y hoy la gente solo consume pantallas\". La evaluación más razonable de esa afirmación es que",
+      "context": "En un panel estudiantil de BGU en Quito se discute una afirmación sobre el valor actual de Ariel de Rodó.",
       "options": [
         {
           "letter": "A",
-          "text": "No les interesa la asignatura en Quito debido a que prefieren practicar deportes.",
+          "text": "es acertada: un libro del año 1900 es ilegible para los jóvenes por definición cronológica.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "La fecha de publicación no determina la lectura; esa regla inventada no se sostiene con ningún criterio literario ni pedagógico."
         },
         {
           "letter": "B",
-          "text": "Aún persisten dudas o confusión sobre la materia en el aula de Unidad Educativa Santo Domingo de Quito, y tienen vergüenza de manifestarlo.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "es acertada: los clásicos del ensayo solo interesan a los investigadores de literatura.",
+          "is_correct": false,
+          "feedback": "Limitar el valor de un texto a un público académico ignora su función formadora y debatible, que el propio BGU explota en clase."
         },
         {
           "letter": "C",
-          "text": "Están listos para rendir un examen de nivel universitario de Quito sin contratiempos.",
+          "text": "es errónea solo en la forma, porque Rodó en realidad escribió una novela de aventuras.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "El dato bibliográfico es falso: Ariel es un ensayo; esta opción corrige un error inventado que no existe."
         },
         {
           "letter": "D",
-          "text": "Quieren que el profesor se retire del Unidad Educativa Santo Domingo de Quito para tener recreo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "text": "es errónea porque confunde el soporte de consumo con el problema planteado: la pregunta de Rodó por formar criterio frente al utilitarismo sigue siendo discutible hoy desde cualquier pantalla.",
+          "is_correct": true,
+          "feedback": "Correcto. La vigencia de una obra se mide por la fecundidad de sus preguntas, no por el aparato con que la leemos."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "El silencio y la timidez para contestar o preguntar demuestran que las dudas no han sido disipadas, lo que genera inhibición en el alumnado.\n\n---",
+      "correct_answer": "D",
+      "explanation": "Evaluar un clásico exige separar su pregunta de su época mediática. Si el problema de Rodó -educar el criterio- sigue abierto, su texto no caducó: cambió de pantalla, no de sentido.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.52,
-      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
+      "expected_success": 0.55,
+      "bundle_id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle-v18",
+      "statement": "Lee el fragmento de un micro-ensayo escolar inventado:\n\n\"La lectura en papel se acaba. Lo digo porque en el bus nadie abre un libro; todos miran el teléfono. Por tanto, en diez años ningún colegio del Ecuador tendrá biblioteca\".\n\nFrente a este párrafo, la evaluación más fundamentada como futuros lectores críticos es:",
+      "context": "Un jurado de BGU en Cuenca premia micro-ensayos escolares y discute un fragmento inventado de un estudiante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es impecable: combina observación y conclusión con números exactos y verificables.",
+          "is_correct": false,
+          "feedback": "El párrafo no trae ninguna cifra verificable; su predicción se apoya en una observación de un solo espacio."
+        },
+        {
+          "letter": "B",
+          "text": "Es vulnerable: extrae una predicción total -ninguna biblioteca- de una observación puntual y sin evidencia, confundiendo tendencia con destino.",
+          "is_correct": true,
+          "feedback": "Correcto. Reconocer el salto injustificado de un dato parcial a una profecía absoluta es señal de lectura crítica entrenada."
+        },
+        {
+          "letter": "C",
+          "text": "Es indiferente: los ensayos escolares no admiten ningún tipo de evaluación.",
+          "is_correct": false,
+          "feedback": "Todo texto argumentativo se presta a evaluación; renunciar a juzgarlo vaciaría el sentido del taller."
+        },
+        {
+          "letter": "D",
+          "text": "Es defectuoso únicamente porque menciona los teléfonos móviles, tema prohibido en el aula.",
+          "is_correct": false,
+          "feedback": "No existe tal prohibición temática; el problema del fragmento es lógico, no de asunto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar argumentos es medir la distancia entre la evidencia y la conclusión. Una observación de un bus no autoriza sentenciar el destino de todas las bibliotecas del país.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle-v19",
+      "statement": "Una estudiante afirma: \"El laberinto de la soledad (1950) de Octavio Paz es ensayo y no tratado científico, aunque use historia y psicoanálisis\". El criterio que mejor justifica esa clasificación es que Paz",
+      "context": "En un seminario escolar de BGU en Guayaquil, una estudiante debe justificar por qué El laberinto de la soledad pertenece a la tradición del ensayo y no al tratado científico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "organiza el libro como una meditación personal y estilizada, con voz propia y sin someterse al aparato metodológico formal de una disciplina.",
+          "is_correct": true,
+          "feedback": "Correcto. La soberanía de la voz, el estilo y la forma abierta definen al ensayo frente al protocolo del tratado."
+        },
+        {
+          "letter": "B",
+          "text": "publica el libro con portada de colores, detalle suficiente para definir un género.",
+          "is_correct": false,
+          "feedback": "El diseño de la portada es un rasgo material sin ninguna relación con la clasificación genérica del texto."
+        },
+        {
+          "letter": "C",
+          "text": "escribe sobre un solo país, y los tratados solo pueden escribirse sobre el mundo entero.",
+          "is_correct": false,
+          "feedback": "El alcance temático no distingue ensayo de tratado; hay tratados monográficos y ensayos universales."
+        },
+        {
+          "letter": "D",
+          "text": "menciona autores en su texto, cosa que los ensayistas no hacen jamás.",
+          "is_correct": false,
+          "feedback": "Falso: la referencia erudita es habitual en el ensayo; lo que distingue es el modo personal de digerir esa erudición."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Géneros como el ensayo se definen por su contrato de escritura: la subjetividad ensayante que interpreta saberes, no la metodología que los produce. Paz toma la ciencia como socio, no como jefe.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle-v20",
+      "statement": "Lee la decisión inventada del grupo: \"Cambiamos el editorial que pedía normas claras de convivencia por un ensayo que tituló El ruido ajeno: un texto donde el autor confiesa que también hace ruido, cavila sobre quién incomoda a quién y no llega a ninguna propuesta concreta\". La evaluación más sólida del cambio, considerando las funciones de cada género, es que",
+      "context": "El periódico estudiantil de un colegio de Quito prepara su editorial sobre convivencia y un estudiante propone sustituirlo por un micro-ensayo. El grupo debate.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "el cambio es neutro: editorial y ensayo cumplen exactamente la misma función social.",
+          "is_correct": false,
+          "feedback": "Postular identidad funcional borra diferencias reales: uno pide decisiones, el otro abre preguntas."
+        },
+        {
+          "letter": "B",
+          "text": "el cambio es un fracaso total, porque ningún lector escolar puede entender un ensayo.",
+          "is_correct": false,
+          "feedback": "Descalifica al público sin evidencia; el ensayo se enseñan y se leen en la escuela desde hace más de un siglo."
+        },
+        {
+          "letter": "C",
+          "text": "el cambio gana en reflexión y honestidad de voz, pero pierde capacidad de incidir: el editorial demandaba una decisión concreta que el ensayo deliberadamente renuncia a exigir.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada género tiene una fuerza y un precio: el ensayo piensa el problema, pero no formula el mandato que el editorial podía imponer."
+        },
+        {
+          "letter": "D",
+          "text": "el cambio es una mejora absoluta, porque los editoriales están prohibidos en la prensa escolar.",
+          "is_correct": false,
+          "feedback": "No hay tal prohibición; además, ninguna opción de \"mejora total\" rinde cuentas del costo que el cambio produjo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Elegir género es elegir poder de intervención. El ensayo ofrece matiz, duda y voz; el editorial, claridad y demanda. El lector crítico conoce las ganancias y las pérdidas de cada traje.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "EC-LEN-11-2026-W06-ensayo-latinoamericano-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
       "cefr_level": null,

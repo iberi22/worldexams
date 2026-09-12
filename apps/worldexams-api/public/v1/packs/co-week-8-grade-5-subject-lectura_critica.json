@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-8-grade-5-subject-lectura_critica",
+    "generated_at": "2026-09-12T16:46:07.519Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-5-2026-W08-historieta-secuencia-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es un componente típico de una historieta?",
+      "context": "En clase de lectura en una escuela de Ibague, la profesora muestra varias historietas colombianas como Mafalda y Condorito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las viñetas con imágenes, los globos de texto y las onomatopeyas.",
+          "is_correct": true,
+          "feedback": "Las viñetas, los globos de texto y las onomatopeyas son elementos clásicos de la historieta."
+        },
+        {
+          "letter": "B",
+          "text": "Solo párrafos extensos sin imágenes.",
+          "is_correct": false,
+          "feedback": "La historieta combina imagen y texto, no solo párrafos largos."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente ecuaciones matemáticas.",
+          "is_correct": false,
+          "feedback": "Las historietas no se centran en ecuaciones matemáticas."
+        },
+        {
+          "letter": "D",
+          "text": "Solo instrucciones para cocinar.",
+          "is_correct": false,
+          "feedback": "Las historietas narran historias, no son recetas de cocina."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer los elementos básicos que componen una historieta.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.89,
+      "bundle_id": "CO-LC-5-2026-W08-historieta-secuencia-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W08-historieta-secuencia-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué es importante seguir el orden de las viñetas al leer una historieta?",
+      "context": "Lee: \"Una historieta cuenta una historia mediante una secuencia de viñetas que el lector debe seguir de izquierda a derecha y de arriba hacia abajo.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el orden de las viñetas determina la secuencia lógica de la historia narrada.",
+          "is_correct": true,
+          "feedback": "Cambiar el orden altera el significado y la coherencia de la historieta."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el orden solo importa al final del libro.",
+          "is_correct": false,
+          "feedback": "El orden importa en toda la lectura, no solo al final."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el orden no influye en la comprensión del relato.",
+          "is_correct": false,
+          "feedback": "El orden de las viñetas es clave para entender la historia."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las viñetas siempre se leen en sentido contrario.",
+          "is_correct": false,
+          "feedback": "En la tradición occidental, las viñetas se leen de izquierda a derecha y arriba hacia abajo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender la importancia del orden secuencial de las viñetas en una historieta.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-5-2026-W08-historieta-secuencia-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W08-historieta-secuencia-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el orden lógico de las viñetas en esta historieta?",
+      "context": "Un estudiante debe ordenar las viñetas de una historieta en la que un niño pierde su perro y luego lo encuentra gracias a un aviso en el barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El niño juega con su perro, luego lo busca llorando y al final lo encuentra por un aviso.",
+          "is_correct": true,
+          "feedback": "El orden sigue una secuencia lógica: inicio, conflicto y desenlace."
+        },
+        {
+          "letter": "B",
+          "text": "El niño encuentra al perro, luego lo busca y después juega con él.",
+          "is_correct": false,
+          "feedback": "Este orden altera la lógica temporal del relato."
+        },
+        {
+          "letter": "C",
+          "text": "El niño busca al perro, lo encuentra sin buscarlo y finalmente lo pierde otra vez.",
+          "is_correct": false,
+          "feedback": "El orden debe respetar la progresión natural de los hechos."
+        },
+        {
+          "letter": "D",
+          "text": "El niño coloca el aviso, luego pierde al perro y después lo busca.",
+          "is_correct": false,
+          "feedback": "El aviso aparece como solución, no antes de la pérdida."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el orden lógico de una secuencia narrativa en una historieta.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-5-2026-W08-historieta-secuencia-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W08-historieta-secuencia-001-MASTERY-bundle-v4",
+      "statement": "¿Qué indica un globo con borde dentado en una historieta?",
+      "context": "Lee: \"En una historieta, los globos de texto pueden mostrar diálogos (con cola), pensamientos (con forma de nube) y gritos (con borde dentado).\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el personaje está gritando o expresando una emoción intensa.",
+          "is_correct": true,
+          "feedback": "Los bordes dentados suelen indicar gritos o emociones fuertes."
+        },
+        {
+          "letter": "B",
+          "text": "Que el personaje está durmiendo profundamente.",
+          "is_correct": false,
+          "feedback": "El sueño se representa de otra manera, no con borde dentado."
+        },
+        {
+          "letter": "C",
+          "text": "Que el personaje está leyendo un libro en silencio.",
+          "is_correct": false,
+          "feedback": "La lectura silenciosa no se asocia con bordes dentados."
+        },
+        {
+          "letter": "D",
+          "text": "Que el personaje está dibujando la historieta.",
+          "is_correct": false,
+          "feedback": "El dibujo de la historieta no se representa con bordes dentados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificar el significado de los distintos tipos de globos de texto en una historieta.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.71,
+      "bundle_id": "CO-LC-5-2026-W08-historieta-secuencia-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W08-historieta-secuencia-001-MASTERY-bundle-v5",
+      "statement": "¿Qué recurso narrativo se está usando en esa viñeta?",
+      "context": "En una historieta, aparece una nube con la palabra \"¡ZAS!\" y un personaje cayendo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una onomatopeya para representar un sonido fuerte del golpe.",
+          "is_correct": true,
+          "feedback": "\"¡ZAS!\" es una onomatopeya que reproduce un golpe o impacto."
+        },
+        {
+          "letter": "B",
+          "text": "Un pensamiento profundo del personaje.",
+          "is_correct": false,
+          "feedback": "Los pensamientos suelen ir en nubes suaves, no con gritos fuertes."
+        },
+        {
+          "letter": "C",
+          "text": "Un diálogo en voz baja.",
+          "is_correct": false,
+          "feedback": "Los diálogos no se escriben con onomatopeyas como \"¡ZAS!\"."
+        },
+        {
+          "letter": "D",
+          "text": "Una indicación para doblar la página.",
+          "is_correct": false,
+          "feedback": "Las indicaciones de doblar página no aparecen dentro de las viñetas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el concepto de onomatopeya al interpretar los recursos sonoros de una historieta.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LC-5-2026-W08-historieta-secuencia-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W08-historieta-secuencia-001-MASTERY-bundle-v6",
+      "statement": "¿Qué diferencia existe entre la historieta A y la historieta B?",
+      "context": "Compara: \"La historieta A presenta una sola viñeta con un texto largo. La historieta B tiene diez viñetas pequeñas con poco texto y muchas imágenes.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La A usa pocas imágenes y mucho texto; la B combina varias viñetas con poco texto e imágenes.",
+          "is_correct": true,
+          "feedback": "La cantidad de viñetas y la relación entre texto e imagen marcan la diferencia."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos historietas son idénticas en estructura.",
+          "is_correct": false,
+          "feedback": "Las estructuras descritas son claramente diferentes."
+        },
+        {
+          "letter": "C",
+          "text": "La B no tiene imágenes, solo texto.",
+          "is_correct": false,
+          "feedback": "La B tiene imágenes en cada viñeta."
+        },
+        {
+          "letter": "D",
+          "text": "La A tiene más imágenes y menos texto que la B.",
+          "is_correct": false,
+          "feedback": "Es al revés: la A tiene menos imágenes y más texto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar la estructura de dos historietas según la cantidad de viñetas y la relación texto-imagen.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-5-2026-W08-historieta-secuencia-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W08-historieta-secuencia-001-MASTERY-bundle-v7",
+      "statement": "¿Qué efecto busca el autor al encuadrar un rostro en primer plano?",
+      "context": "Lee: \"En muchas historietas, el autor usa el encuadre para mostrar el rostro del personaje cuando quiere transmitir una emoción fuerte.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Intensificar la emoción del personaje y captar la atención del lector.",
+          "is_correct": true,
+          "feedback": "El primer plano acerca al lector a las emociones del personaje."
+        },
+        {
+          "letter": "B",
+          "text": "Ocultar completamente la emoción del personaje.",
+          "is_correct": false,
+          "feedback": "El primer plano muestra la emoción, no la oculta."
+        },
+        {
+          "letter": "C",
+          "text": "Cambiar el orden de las viñetas en la página.",
+          "is_correct": false,
+          "feedback": "El encuadre no altera el orden, sino el enfoque visual."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminar el uso de globos de texto.",
+          "is_correct": false,
+          "feedback": "El primer plano no reemplaza los textos; los complementa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar el efecto del encuadre en primer plano dentro de una historieta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.52,
+      "bundle_id": "CO-LC-5-2026-W08-historieta-secuencia-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W08-historieta-secuencia-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué es valioso leer historietas en la escuela primaria?",
+      "context": "Lee: 'Leer historietas desarrolla la comprensión de secuencias narrativas, la interpretación de imágenes y el gusto por la lectura. Es un puente entre la literatura, el cine y el arte visual.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque desarrollan la comprensión narrativa, la lectura de imágenes y el gusto por la lectura en distintos formatos.",
+          "is_correct": true,
+          "feedback": "Las historietas son un recurso valioso para formar lectores competentes y críticos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las historietas no aportan nada a la formación lectora.",
+          "is_correct": false,
+          "feedback": "Las historietas aportan mucho al desarrollo de la lectura y la interpretación visual."
+        },
+        {
+          "letter": "C",
+          "text": "Porque son solo para entretenimiento sin valor educativo.",
+          "is_correct": false,
+          "feedback": "Las historietas tienen valor educativo y cultural, no solo entretenimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Porque deberían sustituir completamente a los libros de texto.",
+          "is_correct": false,
+          "feedback": "Las historietas complementan, no sustituyen, a otros materiales de lectura."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la importancia de la historieta como recurso para el desarrollo de la lectura crítica.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.31,
+      "bundle_id": "CO-LC-5-2026-W08-historieta-secuencia-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

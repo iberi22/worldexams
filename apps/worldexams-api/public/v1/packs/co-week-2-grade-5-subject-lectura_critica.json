@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-2-grade-5-subject-lectura_critica",
+    "generated_at": "2026-09-12T16:46:07.517Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-5-2026-W02-texto-instructivo-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la función del primer apartado \"Ingredientes y Materiales\" en la estructura del texto instructivo?",
+      "context": "Lea la siguiente guía para elaborar una cometa tradicional en un taller escolar de Tunja: \"Ingredientes y Materiales: 2 cañas de bambú livianas, 1 pliego de papel seda, hilo de algodón, pegante escolar y retazos de tela para la cola. Pasos a seguir: 1. Acurruque las cañas formando una cruz y amárrelas firmemente con el hilo. 2. Pegue el papel seda sobre el armazón cortando los bordes con cuidado. 3. Amarre la cola de tela en el extremo inferior para darle estabilidad durante el vuelo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enumerar los elementos requeridos antes de iniciar la ejecución de los pasos.",
+          "is_correct": true,
+          "feedback": "Permite verificar que se cuenta con todos los insumos necesarios antes de comenzar el procedimiento."
+        },
+        {
+          "letter": "B",
+          "text": "Explicar la historia y el origen histórico de las cometas en Boyacá.",
+          "is_correct": false,
+          "feedback": "El apartado no aborda antecedentes históricos sino elementos físicos para la construcción."
+        },
+        {
+          "letter": "C",
+          "text": "Narrar una anécdota divertida sobre un vuelo de cometa fallido.",
+          "is_correct": false,
+          "feedback": "No se trata de un relato narrativo con personajes ni conflicto."
+        },
+        {
+          "letter": "D",
+          "text": "Justificar por qué las cometas vuelan usando leyes de la física.",
+          "is_correct": false,
+          "feedback": "Un texto instructivo da indicaciones prácticas, no explicaciones teóricas complejas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los textos instructivos suelen organizarse en dos secciones claras: lista de materiales/requisitos e instrucciones de procedimiento.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.89,
+      "bundle_id": "CO-LC-5-2026-W02-texto-instructivo-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W02-texto-instructivo-001-MASTERY-bundle-v2",
+      "statement": "¿Qué propósito cumple la cola de tela según la indicación explícita del texto?",
+      "context": "En el paso 3 de la guía para elaborar la cometa se indica: \"Amarre la cola de tela en el extremo inferior para darle estabilidad durante el vuelo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Evitar que la cometa tambalee o pierda el equilibrio en el aire.",
+          "is_correct": true,
+          "feedback": "La palabra \"estabilidad\" indica mantener el equilibrio constante durante el vuelo."
+        },
+        {
+          "letter": "B",
+          "text": "Hacer que la cometa sea la más pesada de la competencia.",
+          "is_correct": false,
+          "feedback": "El texto no busca aumentar peso innecesario sino lograr un vuelo estable."
+        },
+        {
+          "letter": "C",
+          "text": "Ocultar el papel seda si se rompe durante la preparación.",
+          "is_correct": false,
+          "feedback": "La cola no se usa para tapar imperfecciones del papel sino como contrapeso aerodinámico."
+        },
+        {
+          "letter": "D",
+          "text": "Cambiar el color del hilo de algodón en la cruz central.",
+          "is_correct": false,
+          "feedback": "La cola se amarra en el extremo inferior, no en el centro del armazón."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La comprensión semántica implica identificar las relaciones de causa y finalidad explicitadas en el texto procedimental.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-5-2026-W02-texto-instructivo-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W02-texto-instructivo-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el orden cronológico lógico para realizar correctamente el experimento?",
+      "context": "Lea las siguientes acciones de un instructivo para sembrar una planta de fríjol: \"A. Vierta agua hasta humedecer el algodón sin encharcarlo. B. Coloque dos semillas de fríjol sobre el algodón. C. Deposite una bola de algodón limpio dentro de un vaso plástico transparente\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "C -> B -> A.",
+          "is_correct": true,
+          "feedback": "Primero se ubica el algodón en el vaso (C), se colocan las semillas (B) y finalmente se humedece (A)."
+        },
+        {
+          "letter": "B",
+          "text": "A -> B -> C.",
+          "is_correct": false,
+          "feedback": "Humedecer el algodón fuera del vaso dificultaría su manipulación posterior de forma ordenada."
+        },
+        {
+          "letter": "C",
+          "text": "B -> C -> A.",
+          "is_correct": false,
+          "feedback": "No se pueden poner las semillas en el algodón antes de introducirlo al recipiente contenedor."
+        },
+        {
+          "letter": "D",
+          "text": "C -> A -> B.",
+          "is_correct": false,
+          "feedback": "Aunque es una variante posible, colocar las semillas sobre el algodón húmedo resulta menos eficiente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La secuencia temporal en los textos instructivos garantiza la efectividad del proceso al seguir un orden lógico paso a paso.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-5-2026-W02-texto-instructivo-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W02-texto-instructivo-001-MASTERY-bundle-v4",
+      "statement": "¿Qué modo verbal predomina en estas redacciones y cuál es su intención comunicativa?",
+      "context": "En los textos instructivos (recetas, manuales, protocolos de emergencia) es habitual encontrar verbos como: *mezcle, corte, pegue, vierta, mantenga*.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Modo imperativo, para dar órdenes o instrucciones directas al lector.",
+          "is_correct": true,
+          "feedback": "El imperativo busca dirigir la conducta del receptor para que realice las acciones indicadas."
+        },
+        {
+          "letter": "B",
+          "text": "Modo subjuntivo, para expresar deseos o dudas del autor.",
+          "is_correct": false,
+          "feedback": "Las instrucciones deben ser precisas y directas, no expresar inseguridades o deseos."
+        },
+        {
+          "letter": "C",
+          "text": "Tiempo pasado del indicativo, para narrar hechos que ya ocurrieron.",
+          "is_correct": false,
+          "feedback": "El pasado se usa en narraciones, no en guías de procedimiento para acciones futuras o presentes."
+        },
+        {
+          "letter": "D",
+          "text": "Condicional simple, para plantear hipótesis imposibles de cumplir.",
+          "is_correct": false,
+          "feedback": "Las guías operativas no formulan hipótesis sino mandatos claros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El modo imperativo (o el infinitivo) es la marca gramatical característica de la función apelativa en textos instructivos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LC-5-2026-W02-texto-instructivo-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W02-texto-instructivo-001-MASTERY-bundle-v5",
+      "statement": "¿Por qué el texto utiliza la indicación explícita \"No corra ni empuje\"?",
+      "context": "Un manual de evacuación en caso de sismo de una escuela en Armenia señala: \"1. Conserve la calma. 2. Apague los aparatos eléctricos. 3. Camine ordenadamente hacia la zona segura señalizada con la letra S verde. No corra ni empuje\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para prevenir caídas y aglomeraciones que entorpezcan la salida de emergencia.",
+          "is_correct": true,
+          "feedback": "En una evacuación, correr o empujar genera tropezones y pánico, entorpeciendo el flujo de personas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la zona segura señalizada está demasiado cerca y no requiere prisa.",
+          "is_correct": false,
+          "feedback": "La distancia no es la razón; la regla busca la seguridad física de los evacuados."
+        },
+        {
+          "letter": "C",
+          "text": "Para asegurar que todos los estudiantes lleguen al mismo tiempo exacto.",
+          "is_correct": false,
+          "feedback": "El objetivo es la seguridad y el orden, no una competencia de sincronización."
+        },
+        {
+          "letter": "D",
+          "text": "Porque correr está prohibido en todas las áreas de la escuela durante los descansos.",
+          "is_correct": false,
+          "feedback": "La indicación responde a una norma de gestión de riesgos ante emergencias, no al reglamento general de recreos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las advertencias y prohibiciones en protocolos de seguridad previenen riesgos colaterales durante la ejecución del procedimiento.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.69,
+      "bundle_id": "CO-LC-5-2026-W02-texto-instructivo-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W02-texto-instructivo-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la principal diferencia de propósito comunicativo entre el Texto 1 y el Texto 2?",
+      "context": "Se comparan dos textos sobre la preparación de una arepa de choclo: el Texto 1 es una receta paso a paso con medidas en gramos, y el Texto 2 es el poema de un abuelo recordando el olor de las arepas en su infancia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Texto 1 busca guiar la preparación práctica del alimento, mientras el Texto 2 busca evocar emociones y recuerdos.",
+          "is_correct": true,
+          "feedback": "El texto instructivo tiene finalidad práctica procedimental; el texto poético tiene finalidad estética y afectiva."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto 1 es un relato de ficción pura y el Texto 2 es una norma legal obligatoria.",
+          "is_correct": false,
+          "feedback": "La receta no es ficción sino un texto expositivo-instructivo real; el poema no es una norma."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos textos persiguen exactamente el mismo objetivo técnico pedagógico.",
+          "is_correct": false,
+          "feedback": "Tienen formatos y propósitos totalmente diferentes (normativo/práctico vs. lírico/emotivo)."
+        },
+        {
+          "letter": "D",
+          "text": "El Texto 2 enseña a cultivar maíz y el Texto 1 critica los precios del mercado.",
+          "is_correct": false,
+          "feedback": "Ninguno de los dos textos aborda temas agronómicos o de economía de mercado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Diferenciar la intención comunicativa permite clasificar la tipología textual según su función del lenguaje (apelativa vs. poética).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-5-2026-W02-texto-instructivo-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W02-texto-instructivo-001-MASTERY-bundle-v7",
+      "statement": "¿Qué problema de comprensión genera en el lector la omisión de la sección de ingredientes?",
+      "context": "En un recetario de cocina, el autor omite incluir la lista de ingredientes al inicio y pasa directamente a redactar: \"Póngalo a hervir durante veinte minutos con la sal que alistó previamente en el tazón pequeño\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desconocimiento de las cantidades exactas e insumos requeridos antes de iniciar la cocción.",
+          "is_correct": true,
+          "feedback": "Sin la lista previa, el lector no sabe qué alimento debe hervir ni cuánta sal alistar."
+        },
+        {
+          "letter": "B",
+          "text": "Confusión sobre la tipografía y el tamaño de letra empleado en la imprenta.",
+          "is_correct": false,
+          "feedback": "El problema es de contenido textual e información faltante, no de diseño tipográfico."
+        },
+        {
+          "letter": "C",
+          "text": "Imposibilidad de saber si el texto fue escrito en español o en otro idioma.",
+          "is_correct": false,
+          "feedback": "El texto está redactado claramente en español; la falla es la falta de completitud del esquema instructivo."
+        },
+        {
+          "letter": "D",
+          "text": "Pérdida total del ritmo poético de la narración literaria.",
+          "is_correct": false,
+          "feedback": "Una receta no busca ritmo poético, sino precisión procedimental."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ausencia de componentes estructurales clave en un texto instructivo fragmenta la coherencia y dificulta la ejecución exitosa del proceso.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.51,
+      "bundle_id": "CO-LC-5-2026-W02-texto-instructivo-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W02-texto-instructivo-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué es válida la crítica del usuario respecto a la efectividad pedagógica del manual?",
+      "context": "Un manual de usuario para armar un escritorio de estudio contiene únicamente texto denso sin diagramas ni ilustraciones. Un usuario afirma que el manual es deficiente para niños de quinto grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los esquemas visuales y diagramas complementan la comprensión sintáctica en la guía de ensamblaje de piezas espaciales.",
+          "is_correct": true,
+          "feedback": "En textos instructivos sobre objetos tridimensionales, la iconografía e imágenes son indispensables para orientar la ubicación espacial."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las leyes colombianas prohíben publicar libros que contengan oraciones largas.",
+          "is_correct": false,
+          "feedback": "No existe una prohibición legal sobre la longitud de las oraciones en libros."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los niños de quinto grado no saben leer textos escritos en prosa.",
+          "is_correct": false,
+          "feedback": "En quinto grado los estudiantes poseen plena competencia lectora de textos en prosa."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los muebles de estudio solo deben armarse siguiendo instrucciones orales en video.",
+          "is_correct": false,
+          "feedback": "El formato impreso con apoyo gráfico es un medio totalmente válido y muy extendido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los lenguajes discontinuos (gráficos, diagramas) son recursos clave en los textos instructivos para clarificar secuencias espaciales y operativas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.31,
+      "bundle_id": "CO-LC-5-2026-W02-texto-instructivo-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

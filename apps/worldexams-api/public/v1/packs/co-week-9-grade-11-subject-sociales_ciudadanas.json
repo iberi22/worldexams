@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-9-grade-11-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-12T16:46:07.577Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle-v1",
+      "statement": "Las FARC-EP tienen su origen histórico, en 1964, en",
+      "context": "En una clase de Sociales en un colegio de Bogotá, el profesor presenta una línea de tiempo del conflicto armado colombiano y sus orígenes en la década de 1960.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un movimiento político de izquierda legal que ganó elecciones regionales",
+          "is_correct": false,
+          "feedback": "Las FARC no nacieron de una victoria electoral; surgieron de grupos armados campesinos perseguidos por el Estado."
+        },
+        {
+          "letter": "B",
+          "text": "Grupos de autodefensa liberal campesina del Sumapaz atacados por la fuerza pública en Marquetalia",
+          "is_correct": true,
+          "feedback": "La operación contra la llamada 'república de Marquetalia', integrada por autodefensas liberales bajo Manuel Marulanda, dio origen a la guerrilla que luego se denominó FARC-EP."
+        },
+        {
+          "letter": "C",
+          "text": "Una división del Ejército que se sublevó contra el Frente Nacional",
+          "is_correct": false,
+          "feedback": "No hubo una sublevación militar institucional; el origen fue campesino y partidario, en el contexto de la violencia política de mediados de siglo."
+        },
+        {
+          "letter": "D",
+          "text": "Un sindicato de trabajadores bananeros del Caribe financiado desde el exterior",
+          "is_correct": false,
+          "feedback": "El sindicalismo bananero pertenece a otra región y época; las FARC nacieron en zonas campesinas del sur y oriente del país."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En mayo de 1964 la fuerza pública atacó el enclave liberal de Marquetalia, en el Sumapaz, dirigido por Manuel Marulanda Vélez, conocido como 'Tirofijo'. De esa experiencia surgieron las Fuerzas Armadas Revolucionarias de Colombia, Ejército del Pueblo (FARC-EP). Comprender este origen campesino y partidario, en medio de las secuelas de La Violencia, es clave para entender la persistencia de la guerrilla en zonas de frontera agrícola y débil presencia estatal.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle-v2",
+      "statement": "El ELN (Ejército de Liberación Nacional) se caracterizó en su origen por",
+      "context": "Un estudiante de Villavicencio investiga en la biblioteca escolar las distintas guerrillas colombianas de los años sesenta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ser una escisión de las FARC-EP ocurrida en la década de 1980",
+          "is_correct": false,
+          "feedback": "El ELN no nació de una escisión de las FARC; se organizó de forma independiente a mediados de los años sesenta."
+        },
+        {
+          "letter": "B",
+          "text": "Representar exclusivamente a comunidades indígenas del Cauca",
+          "is_correct": false,
+          "feedback": "Aunque luego tuvo presencia en zonas indígenas, su origen fue urbano-estudiantil y de inspiración guevarista, no una organización étnica."
+        },
+        {
+          "letter": "C",
+          "text": "Inspirarse en la revolución cubana y surgir a mediados de la década de 1960",
+          "is_correct": true,
+          "feedback": "El ELN se formó hacia 1964 con una influencia clara de la revolución cubana y una estructura guevarista, combinando focos guerrilleros con trabajo en sindicatos y movimientos estudiantiles."
+        },
+        {
+          "letter": "D",
+          "text": "Nacer como brazo armado de un partido político con personería jurídica",
+          "is_correct": false,
+          "feedback": "El ELN fue desde su origen una organización armada clandestina; los partidos legales con brazos armados corresponden a otro fenómeno."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El ELN, junto con el EPL y el M-19, hizo parte de la ola insurgente de los años sesenta inspirada en la revolución cubana. A diferencia de las FARC, con matriz campesina, el ELN tuvo una fuerte inserción inicial en medios urbanos, mineros y estudiantiles, especialmente en regiones como Santander y Antioquia. Esta diversidad de orígenes explica por qué el conflicto armado no tuvo un solo actor ni una sola historia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle-v3",
+      "statement": "Una característica del financiamiento de los grupos guerrilleros colombianos, que alimentó su escalada y degradación, fue la",
+      "context": "En un debate escolar en Florencia (Putumayo), los estudiantes analizan cómo se financiaron los grupos armados al margen del Estado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recurrente utilización del secuestro extorsivo, además de impuestos ilegales y, con el tiempo, la participación en la economía del narcotráfico",
+          "is_correct": true,
+          "feedback": "El secuestro extorsivo, las 'contribuciones' forzosas y el gravamen al cultivo y tránsito de drogas fueron fuentes de ingresos que sostuvieron y degradaron a los grupos armados."
+        },
+        {
+          "letter": "B",
+          "text": "Dependencia exclusiva de donaciones internacionales sin actividades ilícitas",
+          "is_correct": false,
+          "feedback": "Ningún grupo armado del conflicto colombiano dependió exclusivamente de donaciones; su sostenimiento requirió economías ilegales."
+        },
+        {
+          "letter": "C",
+          "text": "Administración de empresas públicas legales propiedad de las guerrillas",
+          "is_correct": false,
+          "feedback": "Las guerrillas no administraron empresas públicas legales; su economía se basó en actividades ilícitas y controles territoriales de facto."
+        },
+        {
+          "letter": "D",
+          "text": "Financiamiento mediante el cumplimiento estricto de la ley tributaria nacional",
+          "is_correct": false,
+          "feedback": "La afirmación es contradictoria: los grupos armados operaban al margen del Estado y no tributaban conforme a la ley."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El secuestro masivo con fines de extorsión golpeó a empresarios, ganaderos y familias en todo el país, especialmente entre los años ochenta y dos mil. Hacia el final del conflicto, los principales grupos dejaron de usarlo por el costo político y la cooperación internacional contra el secuestro. Entender estas economías ilegales ayuda a explicar por qué la paz exige respuestas no solo militares, sino también judiciales, económicas y de verdad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle-v4",
+      "statement": "En la década de 1980, el narcotráfico se consolidó en Colombia con",
+      "context": "Un grupo de estudiantes de Medellín estudia la relación entre narcotráfico y conflicto armado en las últimas décadas del siglo XX.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Laboratorios instalados únicamente en la región Caribe, sin conexión con el conflicto interno",
+          "is_correct": false,
+          "feedback": "Los grandes laboratorios de procesamiento se ubicaron en el sur y oriente (Putumayo, Meta), no en la región Caribe."
+        },
+        {
+          "letter": "B",
+          "text": "El monopolio estatal de la producción de cocaína durante el Frente Nacional",
+          "is_correct": false,
+          "feedback": "El Estado nunca tuvo el monopolio de la cocaína; su producción y exportación estuvieron en manos de organizaciones ilegales."
+        },
+        {
+          "letter": "C",
+          "text": "La sustitución inmediata y voluntaria de cultivos antes de la escalada de la violencia",
+          "is_correct": false,
+          "feedback": "La sustitución voluntaria masiva es un esquema posterior y limitado; en los ochenta la frontera cocalera creció con apoyo de economías armadas."
+        },
+        {
+          "letter": "D",
+          "text": "Grandes organizaciones de exportación, como los carteles de Medellín y Cali, y laboratorios en zonas cocaleras del Putumayo y el Meta",
+          "is_correct": true,
+          "feedback": "En los ochenta surgieron el cartel de Medellín y el cartel de Cali, mientras los cultivos y laboratorios se expandían en el sur y oriente, en zonas con presencia guerrillera que gravaba y protegía el negocio."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El narcotráfico transformó el conflicto: financió a guerrillas, paramilitares y redes de corrupción, y produjo una ola de terrorismo urbano, incluida la guerra contra el Estado de Pablo Escobar y la extradición. La violencia de esos años mostró cómo una economía ilegal puede capturar instituciones. Este antecedente explica por qué el punto de drogas ilícitas del Acuerdo de 2016 incluyó un enfoque integral, y no solo fumigación.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle-v5",
+      "statement": "El paramilitarismo de las AUC (Autodefensas Unidas de Colombia), formalmente constituidas en 1997, se caracterizó por",
+      "context": "En un colegio de Puerto Asís (Putumayo), los estudiantes analizan casos locales de violencia paramilitar de finales de los noventa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ser una fuerza oficial de reserva creada por ley del Congreso de la República",
+          "is_correct": false,
+          "feedback": "Las AUC nunca fueron una fuerza legal ni una reserva oficial del Ejército; eran estructuras ilegales, aunque con vínculos de facto con algunos agentes estatales."
+        },
+        {
+          "letter": "B",
+          "text": "Surgir de antecedentes como el MAS de los hermanos Castaño, con alianzas de facto de terratenientes, sectores económicos y partes del Estado contra la guerrilla",
+          "is_correct": true,
+          "feedback": "Las AUC heredaron el proyecto paramilitar del MAS de Fidel, Vicente y Carlos Castaño, y contaron con apoyos de hacendados, empresarios y miembros de la fuerza pública y la política regional."
+        },
+        {
+          "letter": "C",
+          "text": "Defender exclusivamente los intereses de colonos y sindicatos del campo",
+          "is_correct": false,
+          "feedback": "Su base social pudo incluir a algunos campesinos desplazados, pero su dirección respondía a proyectos contrainsurgentes de élites locales, no sindicales."
+        },
+        {
+          "letter": "D",
+          "text": "Nacer como brazo político legal del Partido Comunista",
+          "is_correct": false,
+          "feedback": "El paramilitarismo era de extremo derechista y anticomunista; no guardaba relación con el Partido Comunista."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El paramilitarismo cometió masacres como la de Mapiripán (1997) y la de El Salado (2000), desplazó millones de personas y nutrió redes políticas regionales, episodio investigado por la llamada parapolítica. Su desmovilización entre 2003 y 2006 bajo la Ley de Justicia y Paz y la posterior extradición de los jefes a Estados Unidos en 2008 dejaron preguntas abiertas sobre verdad, reparación y las causas sociales que los originaron.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle-v6",
+      "statement": "Sobre la toma y retoma del Palacio de Justicia (6 y 7 de noviembre de 1985), el hecho documentado por la historia y la justicia colombiana es que",
+      "context": "Una estudiante de Popayán prepara una exposición sobre la toma y retoma del Palacio de Justicia en noviembre de 1985.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El edificio fue entregado por el Ejército sin resistencia y no hubo víctimas",
+          "is_correct": false,
+          "feedback": "Hubo combates, un incendio de grandes proporciones y decenas de muertos; no hubo entrega pacífica."
+        },
+        {
+          "letter": "B",
+          "text": "El M-19 abandonó voluntariamente el palacio tras un acuerdo inmediato con el presidente Betancur",
+          "is_correct": false,
+          "feedback": "El M-19 no se retiró voluntariamente; la retoma militar puso fin a la toma tras horas de combates."
+        },
+        {
+          "letter": "C",
+          "text": "El M-19 se tomó el edificio y el Ejército lo retomó tras intensos combates que dejaron la muerte de magistrados, personal del palacio, guerrilleros y militares, además de personas desaparecidas",
+          "is_correct": true,
+          "feedback": "La toma del M-19 y su retoma por el Ejército culminaron en un incendio y en decenas de muertos, incluyendo magistrados de la Corte Suprema, y dejó el doloroso saldo de desaparecidos que la justicia ha intentado esclarecer."
+        },
+        {
+          "letter": "D",
+          "text": "El episodio ocurrió durante el gobierno de Álvaro Uribe en los años 2000",
+          "is_correct": false,
+          "feedback": "El Palacio de Justicia ocurrió en 1985, bajo el gobierno de Belisario Betancur, casi dos décadas antes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El drama del Palacio de Justicia es uno de los episodios más dolorosos del conflicto: la justicia colombiana ha documentado las graves fallas en la operación de retoma y la desaparición de personas, sin que un único relato haya cerrado el debate. Para la ciudadanía, el caso ilustra cómo la guerra golpea incluso a la Corte Suprema y por qué las narrativas de una tragedia nacional exigen verdad, debido proceso y memoria rigurosa, sin consignas de un solo bando.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle-v7",
+      "statement": "La Constitución de 1991 puede entenderse como una respuesta política al conflicto armado principalmente porque",
+      "context": "En un simulacro de Asamblea Nacional Constituyente en un colegio de Bucaramanga, los estudiantes discuten cómo la Constitución de 1991 respondió al conflicto armado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Declaró la guerra interna como mecanismo legal de resolución de diferencias",
+          "is_correct": false,
+          "feedback": "La Constitución de 1991 es pacifista e institucional; ningún texto constitucional colombiano declara la guerra como método legal."
+        },
+        {
+          "letter": "B",
+          "text": "Prohibió toda forma de participación política mientras existiera violencia armada",
+          "is_correct": false,
+          "feedback": "Por el contrario, amplió la participación: abrió espacios de representación y mecanismos de negociación política de los conflictos."
+        },
+        {
+          "letter": "C",
+          "text": "Disolvió las fuerzas militares y creó una policía exclusivamente civil",
+          "is_correct": false,
+          "feedback": "Conservó las Fuerzas Militares y la Policía dentro del marco constitucional; no las disolvió."
+        },
+        {
+          "letter": "D",
+          "text": "Amplió derechos, reconocimiento de la diversidad y mecanismos de participación, y declaró en su artículo 22 que 'la paz es un derecho y un deber de obligatorio cumplimiento'",
+          "is_correct": true,
+          "feedback": "El artículo 22 de la Constitución eleva la paz a derecho y deber; junto con la participación y el pluralismo, la Carta buscó causas políticas del conflicto."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El proceso constituyente de 1991 —posibilitado por la desmovilización del M-19 y de otros grupos tras el Estatuto de Garantías— dotó al país de instituciones como la tutela, la acción de cumplimiento y la Defensoría del Pueblo, diseñadas para canalizar conflictos por vía jurídica. Estudiar este vínculo entre Constitución y paz prepara a los estudiantes para valorar la negociación política frente a la vía armada.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle-v8",
+      "statement": "El Plan Colombia, acordado con Estados Unidos a partir del año 2000, se centró originalmente en",
+      "context": "Un estudiante de Cali analiza en clase el giro de la política de defensa colombiana a partir del año 2000.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El desmantelamiento inmediato de todos los grupos armados al margen de un proceso de paz",
+          "is_correct": false,
+          "feedback": "El Plan Colombia fue un acuerdo de cooperación contra el narcotráfico y la violencia asociada, no un plan de desmantelamiento total negociado con la guerrilla."
+        },
+        {
+          "letter": "B",
+          "text": "La lucha contra el narcotráfico, con fumigación aérea, asistencia militar y fortalecimiento institucional, en un contexto de fracaso del Caguán",
+          "is_correct": true,
+          "feedback": "Su componente declarado era antinarcóticos (fumigación y sustitución), pero incluyó una fuerte ayuda militar y de inteligencia, tras el fracaso del proceso del Caguán (1998-2002)."
+        },
+        {
+          "letter": "C",
+          "text": "La entrega de tierra a los campesinos de las zonas cocaleras como única medida",
+          "is_correct": false,
+          "feedback": "La reforma agraria no fue su eje; ese enfoque, mucho más integral, aparecería años después en la agenda de La Habana."
+        },
+        {
+          "letter": "D",
+          "text": "El retiro de la colaboración internacional para evitar su injerencia",
+          "is_correct": false,
+          "feedback": "Por el contrario, el Plan Colombia se definió por una intensa cooperación y financiación de Estados Unidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Plan Colombia se aprobó en el Congreso de los Estados Unidos en 2000, en buena parte financiado con ayuda militar y para el fortalecimiento institucional. Sus críticos señalan el bajo impacto en la sustitución de cultivos y las afectaciones de la fumigación aérea a salud y cultivos lícitos, mientras sus defensores destacan la presión militar sobre las FARC. Su balance, hasta hoy, alimenta el debate sobre qué combinación de fuerza y política es eficaz en el conflicto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle-v9",
+      "statement": "La política de Seguridad Democrática, aplicada desde 2002, se definió por",
+      "context": "En un foro estudiantil en Ibagué se discute la política de Seguridad Democrática iniciada en 2002.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El desmonte unilateral de las Fuerzas Militares para favorecer el diálogo",
+          "is_correct": false,
+          "feedback": "Fue exactamente lo contrario: un fuerte aumento de pie de fuerza, presupuesto militar y presencia territorial."
+        },
+        {
+          "letter": "B",
+          "text": "La negociación simultánea con todas las guerrillas sin condiciones de cesión militar",
+          "is_correct": false,
+          "feedback": "Su énfasis fue militar y de recuperación del territorio; los procesos de negociación con las FARC y el ELN no fueron su prioridad."
+        },
+        {
+          "letter": "C",
+          "text": "La confrontación armada reforzada contra la insurgencia, con respaldo de la cooperación de Estados Unidos, y negociaciones colectivas con las AUC",
+          "is_correct": true,
+          "feedback": "La estrategia combinó presión militar sostenida sobre las guerrillas y el proceso de desmovilización paramilitar de Justicia y Paz con las AUC (2003-2006)."
+        },
+        {
+          "letter": "D",
+          "text": "La entrega del monopolio de la seguridad a guardias privadas comunitarias",
+          "is_correct": false,
+          "feedback": "El Estado conservó el monopolio de las armas; las cooperativas de vigilancia son un fenómeno local distinto y regulado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Bajo la Seguridad Democrática se debilitó la capacidad ofensiva de las FARC y se desmovilizaron las AUC, pero también se documentaron graves crímenes de agentes estatales, como los falsos positivos. Evaluar este periodo con rigor histórico, reconociendo logros y costos en derechos humanos, es un ejercicio propio de la competencia ciudadana de grado 11: distinguir entre eficacia militar, legalidad y legitimidad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle-v10",
+      "statement": "La desmovilización colectiva de las AUC bajo la Ley de Justicia y Paz se caracterizó por",
+      "context": "Una estudiante de Manizales investiga el proceso de desmovilización de las AUC durante el primer gobierno de Uribe.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Otorgar amnistía total e incondicional sin ningún deber de verdad para los paramilitares",
+          "is_correct": false,
+          "feedback": "La ley exigía versión libre y desmovilización; aunque sus beneficios fueron cuestionados por insuficientes, no hubo amnistía incondicional."
+        },
+        {
+          "letter": "B",
+          "text": "Desmovilizar a los bloques paramilitares entre 2003 y 2006 a cambio de penas alternativas y versión libre, proceso ensombrecido por la posterior extradición de los jefes a Estados Unidos en 2008",
+          "is_correct": true,
+          "feedback": "La Ley 975 de 2005 ofreció beneficios a cambio de verdad y entrega de bienes; la extradición de 2008 frustró muchas versiones y el esclarecimiento ante las víctimas."
+        },
+        {
+          "letter": "C",
+          "text": "Fusionar a los paramilitares en las filas del Ejército como fuerza de reserva oficial",
+          "is_correct": false,
+          "feedback": "No hubo integración formal en la fuerza pública; el reclutamiento ilegal y los vínculos se investigaron, no se institucionalizaron."
+        },
+        {
+          "letter": "D",
+          "text": "Ocurrir solo después del Acuerdo Final de 2016 con las FARC",
+          "is_correct": false,
+          "feedback": "La desmovilización de las AUC fue más de una década antes del Acuerdo Final con las FARC."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El proceso con las AUC desmovilizó a decenas de miles de combatientes, pero dejó zonas enterables de poder, nuevas bandas emergentes y reclamos de verdad insatisfechos: muchas versiones libres se truncaron con las extradición. La experiencia muestra a los estudiantes que la paz requiere instituciones sólidas de justicia y reparación, pues sin ellas las desmovilizaciones pueden reproducir violencia con otros nombres.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle-v11",
+      "statement": "Los llamados 'falsos positivos' son analizados correctamente como",
+      "context": "En una clase sobre derechos humanos en Barranquilla, los estudiantes leen el reporte de una organización nacional sobre crímenes de agentes estatales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bajas de combate legítimas exageradas por la propaganda guerrillera",
+          "is_correct": false,
+          "feedback": "La justicia colombiana documentó que las víctimas eran civiles inocentes, no guerrilleros en combate."
+        },
+        {
+          "letter": "B",
+          "text": "Una estrategia de inteligencia de las FARC para confundir al Ejército",
+          "is_correct": false,
+          "feedback": "El crimen fue cometido por agentes del Estado; atribuirla a la guerrilla invierte la responsabilidad establecida por la evidencia."
+        },
+        {
+          "letter": "C",
+          "text": "Ejecuciones extrajudiciales de civiles presentados como guerrilleros dados de baja en combate, práctica por la que la Justicia Especial y la Fiscalía han procesado a miembros de la fuerza pública, con especial gravedad en zonas como los Montes de María",
+          "is_correct": true,
+          "feedback": "Miles de civiles fueron asesinados y hechos pasar como bajas de combate; la Jurisdicción Especial para la Paz abrió este caso y la Fiscalía ha proferido condenas."
+        },
+        {
+          "letter": "D",
+          "text": "Denuncias individuales nunca confirmadas por ninguna institución",
+          "is_correct": false,
+          "feedback": "La práctica fue confirmada por la Corte Interamericana de Derechos Humanos, la Fiscalía, la Defensoría y la JEP; no fue un hecho aislado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El fenómeno, concentrado documentalmente entre 2002 y 2008, reveló la presión por resultados militares y una cadena de falsedades en reportes de combate. El caso insignia de Soacha, donde jóvenes fueron trasladados y asesinados para ser presentados como guerrilleros, conmocionó al país. Analizarlo permite comprender por qué el control civil y democrático de la fuerza pública y el debido proceso son pilares de un Estado de derecho.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle-v12",
+      "statement": "La Operación Jaque, en julio de 2008, consistió en",
+      "context": "Un estudiante de Cartagena revisa la cronología de los grandes golpes militares y humanitarios del conflicto entre 2000 y 2010.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un acuerdo político que liberó a todos los secuestrados a cambio de un intercambio humanitario",
+          "is_correct": false,
+          "feedback": "No hubo acuerdo: fue una operación militar de inteligencia, sin pago ni intercambio."
+        },
+        {
+          "letter": "B",
+          "text": "Una fumigación aérea masiva que obligó a las FARC a liberar a sus rehenes",
+          "is_correct": false,
+          "feedback": "La liberación no se logró por fumigación, sino por una operación de infiltración y engaño."
+        },
+        {
+          "letter": "C",
+          "text": "Una fuga masiva de retenidos en una cárcel de máxima seguridad del centro del país",
+          "is_correct": false,
+          "feedback": "No hubo ninguna fuga; los secuestrados fueron rescatados en cautiverio de la selva."
+        },
+        {
+          "letter": "D",
+          "text": "Un operativo de inteligencia militar, sin combates, que liberó a Ingrid Betancourt y a otros secuestrados en poder de las FARC",
+          "is_correct": true,
+          "feedback": "Mediante la infiltración de una falsa organización humanitaria, el Ejército liberó a quince personas secuestradas, entre ellas la excandidata Ingrid Betancourt y tres contratistas estadounidenses."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La Operación Jaque golpeó la moral y la estructura del frente responsable de los secuestros políticos y mostró el alto costo humano del secuestro masivo de las FARC, criticado incluso dentro de su propia organización, que en 2007 había 'liberado' unilateralmente a algunos rehenes. Para el debate ciudadano, el caso permite analizar el valor de la recuperación de personas secuestradas y la tensión entre eficacia militar y garantías en el conflicto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle-v13",
+      "statement": "La Ley 1448 de 2011, de Víctimas y Restitución de Tierras, representa un cambio frente al conflicto porque",
+      "context": "En una jornada de memoria en un colegio de Bojayá (Chocó), los estudiantes recuerdan las víctimas de la masacre de 2002 y las garantías de no repetición.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Otorgó una amnistía general a todos los actores armados sin contraprestación",
+          "is_correct": false,
+          "feedback": "La ley es de víctimas, no de victimarios; no concedió amnistías."
+        },
+        {
+          "letter": "B",
+          "text": "Reconoció y creó un marco de derechos a las víctimas del conflicto —atención, asistencia, reparación y restitución de tierras despojadas— y dio origen al Centro Nacional de Memoria Histórica",
+          "is_correct": true,
+          "feedback": "La Ley 1448 creó el Registro Único de Víctimas, la Unidad de Restitución de Tierras y el Centro Nacional de Memoria Histórica, reconociendo formalmente la victimización masiva del conflicto."
+        },
+        {
+          "letter": "C",
+          "text": "Ordenó el cierre inmediato de todas las negociaciones de paz en curso",
+          "is_correct": false,
+          "feedback": "Al contrario: se promulgó dos años antes de La Habana, en una lógica institucional de derechos de las víctimas."
+        },
+        {
+          "letter": "D",
+          "text": "Devolvió automáticamente las tierras a los grandes terratenientes desplazados por la guerrilla",
+          "is_correct": false,
+          "feedback": "La restitución favorece a despojados y desplazados vulnerables, incluidas victimas pequeñas y medianas, con medidas de protección, no a terratenientes como tales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Ley de Víctimas surgió tras el debate sobre la inconstitucionalidad del marco de Justicia y Paz y el fallo de la Corte Constitucional que declaró el estado de cosas inconstitucional en desplazamiento. Bojayá, donde una Toma de las FARC sobre un casco municipal dejó más de un centenar de civiles muertos en 2002, es símbolo de por qué las víctimas pasaron de 'asistidas' a titulares de derechos. Este enfoque es base de la justicia transicional colombiana.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle-v14",
+      "statement": "El proceso de negociación entre el gobierno y las FARC-EP, instalado en 2012 e instalado definitivamente en La Habana, se organizó sobre una agenda de seis puntos que incluía",
+      "context": "Un grupo de estudiantes de Pereira estudia la mesa de conversaciones entre el gobierno colombiano y las FARC iniciada en 2012.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo el desarme unilateral de la guerrilla, sin temas sociales",
+          "is_correct": false,
+          "feedback": "La agenda fue integral y pactada; el punto de dejación de armas dependía de acuerdos previos sobre tierra, participación y drogas."
+        },
+        {
+          "letter": "B",
+          "text": "La rendición incondicional del Estado frente a las demandas insurgentes",
+          "is_correct": false,
+          "feedback": "Fue una negociación entre partes con acuerdo marco y delegaciones, no una rendición."
+        },
+        {
+          "letter": "C",
+          "text": "Desarrollo agrario integral, participación política, solución al problema de drogas ilícitas, víctimas, desminado y mecanismos de implementación y verificación",
+          "is_correct": true,
+          "feedback": "El Acuerdo General de 2012 definió esos seis puntos, con la novedad de colocar los derechos de las víctimas en el centro, incluso antes del fin del conflicto."
+        },
+        {
+          "letter": "D",
+          "text": "Únicamente un cese al fuego inmediato y la entrega de recursos de las FARC al Tesoro Nacional",
+          "is_correct": false,
+          "feedback": "El cese del fuego y la dejación se pactaron al final, en 2016, y formaban parte de un paquete más amplio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La mesa se instaló en Oslo (Noruega) en octubre de 2012 y se trasladó a La Habana, donde operó hasta el acuerdo final de 2016. Su protocolo incluyó subcomisiones, participación de víctimas y acompañamiento internacional. Que el primer punto fuera el desarrollo agrario —reconocido como raíz histórica del conflicto— muestra una lógica distinta a los procesos de paz anteriores, centrada en transformaciones sociales y no solo en desmovilizar.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle-v15",
+      "statement": "El resultado del plebiscito del 2 de octubre de 2016 se interpreta correctamente cuando se afirma que",
+      "context": "Tras una votación simulada en el consejo estudiantil de un colegio de Tunja, los estudiantes analizan el plebiscito colombiano del 2 de octubre de 2016.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ganó ampliamente el Sí, lo que permitió la refrendación popular inmediata del acuerdo",
+          "is_correct": false,
+          "feedback": "El No se impuso por un margen muy estrecho; no hubo victoria amplia del Sí."
+        },
+        {
+          "letter": "B",
+          "text": "El plebiscito fue suspendido por la Corte Constitucional antes de la votación",
+          "is_correct": false,
+          "feedback": "La Corte revisó la ley estatutaria del plebiscito y la declaró exequible; la votación se realizó normalmente."
+        },
+        {
+          "letter": "C",
+          "text": "El No ganó por un margen mínimo con alta abstención, pero el acuerdo no se cayó: tras su renegociación, el Congreso lo aprobó el 30 de noviembre de 2016 y su refrendación legislativa reemplazó la popular",
+          "is_correct": true,
+          "feedback": "La victoria estrecha del No activó la renegociación de ajustes; el nuevo texto fue aprobado por el Congreso, mecanismo considerado válido por la Corte Constitucional."
+        },
+        {
+          "letter": "D",
+          "text": "La votación fue anulada por fraude electoral demostrado por los observadores internacionales",
+          "is_correct": false,
+          "feedback": "La Misión de Observación avaló la transparencia del conteo; el escrutinio se aceptó institucionalmente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La campaña por el No concentró críticas a la impunidad de la JEP, la participación política de las FARC y el financiamiento de los acuerdos; la alta abstención —mayor al 60 por ciento— mostró además desafección ciudadana. El desenlace enseña un principio constitucional clave: en democracia las mayorías deciden, pero los acuerdos entre partes y las obligaciones de derechos humanos no desaparecen con una votación cerrada.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle-v16",
+      "statement": "Firmado el Acuerdo Final y completada la dejación de armas de las FARC-EP, el panorama de violencia en Colombia cambió porque",
+      "context": "Un estudiante de Orito (Putumayo) analiza el mapa de actores armados posteriores a la dejación de armas de 2017.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El conflicto armado desapareció por completo y no quedaron actores armados ilegales",
+          "is_correct": false,
+          "feedback": "Persistieron otros grupos: el ELN, disidencias de las FARC y bandas de origen paramilitar dedicadas al narcotráfico."
+        },
+        {
+          "letter": "B",
+          "text": "El ELN entregó automáticamente todas sus armas tras el acuerdo de 2016",
+          "is_correct": false,
+          "feedback": "El ELN no firmó un acuerdo de paz con el Estado; sus mesas de negociación han tenido avances y retrocesos sin desenlace definitivo."
+        },
+        {
+          "letter": "C",
+          "text": "Una parte de las FARC se desmovilizó y reincorporó, pero surgieron disidencias que no se acogieron a la dejación, y disputas por economías ilícitas y territorios abandonados",
+          "is_correct": true,
+          "feedback": "Grupos que no entregaron armas se recompusieron en nuevas estructuras, y el control de rentas del narcotráfico y la minería generó disputas que mantienen la violencia en regiones como el Catatumbo, el sur del país y el Pacífico."
+        },
+        {
+          "letter": "D",
+          "text": "Las AUC regresaron como organización unificada bajo el mismo nombre",
+          "is_correct": false,
+          "feedback": "Tras Justicia y Paz surgieron bandas emergentes, no una resurrección centralizada de las AUC."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los acuerdos de paz desmovilizaron a la guerrilla más grande del país, pero no cerraron todas las violencias: la disputa por economías criminales, la debilidad institucional en zonas de frontera y la fragmentación de disidencias explican la persistencia de ataques, confinamientos y homicidios de líderes sociales. Este escenario matiza tanto el discurso de 'paz fracasada' como el de 'conflicto terminado', y fundamenta debates actuales como la política de 'paz total'.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle-v17",
+      "statement": "La afirmación 'los procesos de paz en Colombia han fracasado siempre, sin aportar nada' debe evaluarse como",
+      "context": "En un debate escolar en Bogotá sobre alternativas históricas de paz, los estudiantes valoran el proceso del M-19 entre 1989 y 1991.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Verdadera, porque ninguna negociación interrumpo la violencia en ningún momento de la historia",
+          "is_correct": false,
+          "feedback": "Es falsa: los ceses del Caguán, la desmovilización del M-19 o la dejación de armas de 2016 redujeron violencias concretas y transformaron instituciones."
+        },
+        {
+          "letter": "B",
+          "text": "Falsa, porque aunque muchas negociaciones fallaron, episodios como la desmovilización del M-19 (1990) alimentaron la Constituyente de 1991 y el acuerdo con las FARC (2016) creó el sistema de justicia transicional más ambicioso del país",
+          "is_correct": true,
+          "feedback": "La acumulación de intentos muestra aprendizajes: la Constitución del 91 y el SIVJRNR son resultados directos de procesos de paz, no fracasos puros."
+        },
+        {
+          "letter": "C",
+          "text": "Verdadera, porque la única vía históricamente eficaz contra la insurgencia fue siempre la solución militar sin excepciones",
+          "is_correct": false,
+          "feedback": "La evidencia muestra que las insurgencias tienen raíces políticas y sociales; sin acuerdos, la escalada se ha reeditado."
+        },
+        {
+          "letter": "D",
+          "text": "Falsa, porque en Colombia nunca existió negociación alguna con grupos armados",
+          "is_correct": false,
+          "feedback": "Hubo numerosas negociaciones: La Uribe (1984-87), Caracas-Barrios de Soacha con el M-19, San Vicente del Caguán (1998-2002), Santa Fe de Ralito y La Habana (2012-16)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar la historia de la paz con matices es una competencia ciudadana central. El Estatuto de Garantías de 1989, la desmovilización del M-19 y su participación en la Constituyente, el estancamiento del Caguán y los logros y pendientes de La Habana muestran que las negociaciones producen resultados concretos e imperfectos. Los estudiantes deben aprender a ponderar costos y beneficios con evidencia, no con consignas absolutas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle-v18",
+      "statement": "Frente a la pregunta '¿cuáles son las causas del conflicto armado colombiano?', la valoración históricamente más sólida señala que",
+      "context": "Un panel estudiantil de un colegio de Medellín discute las causas del conflicto armado colombiano de cara a su no repetición.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se trata de causas múltiples y entrelazadas: la cuestión agraria e injusticia rural, la exclusión y persecución políticas, la debilidad institucional en amplios territorios y la influencia del narcotráfico y de factores internacionales de la Guerra Fría",
+          "is_correct": true,
+          "feedback": "La historiografía y comisiones como la de paz convergen en un multicausal: tierra, política, Estado y drogas, con contexto internacional."
+        },
+        {
+          "letter": "B",
+          "text": "Fue exclusivamente una imposición de potencias extranjeras sin raíces internas",
+          "is_correct": false,
+          "feedback": "Ignora las raíces agrarias y políticas propias del conflicto, documentadas desde La Violencia de los años cincuenta."
+        },
+        {
+          "letter": "C",
+          "text": "Se originó únicamente por la ambición de poder de unos pocos líderes guerrilleros",
+          "is_correct": false,
+          "feedback": "El reduccionismo voluntarista no explica por qué miles de campesinos y sectores sociales apoyaron o soportaron la insurgencia durante décadas."
+        },
+        {
+          "letter": "D",
+          "text": "Se debió solo al atraso cultural de las regiones apartadas del centro del país",
+          "is_correct": false,
+          "feedback": "La tesis culturalista es estigmatizante y falsa: el conflicto atravesó también a Bogotá, Medellín, Cali o Barranquilla."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los informes de memoria, incluido el de la Comisión de la Verdad, insisten en la multicausalidad: concentración y despojo de la tierra, exclusión política reforzada por el Frente Nacional, ausencia del Estado en fronteras agrícolas y, desde los ochenta, el financiamiento de las drogas. Comprender esta complejidad es el punto de partida de los puntos de reforma rural y participación política del Acuerdo Final, y del deber ciudadano de evitar explicaciones simples para guerras complejas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle-v19",
+      "statement": "Para valorar los efectos del conflicto armado colombiano en la vida ciudadana, la afirmación MÁS defendible es que",
+      "context": "En un simulacro de audiencia pública en Cali, los estudiantes evalúan los costos humanos del conflicto y sus lecciones para la ciudadanía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sus consecuencias se limitaron a daños materiales en zonas rurales distantes",
+          "is_correct": false,
+          "feedback": "El registro oficial supera los ocho millones de víctimas victimizadas, con desplazados, desaparecidos y un impacto urbano y generacional profundo."
+        },
+        {
+          "letter": "B",
+          "text": "Generó una desmovilización social que debilitó la confianza en las instituciones, el derecho a la participación y la seguridad personal de generaciones enteras",
+          "is_correct": true,
+          "feedback": "El miedo, el despojo y la fragmentación del tejido social son efectos documentados: la desconfianza institucional y el autorretraimiento tienen raíces en la experiencia de la guerra."
+        },
+        {
+          "letter": "C",
+          "text": "Afectó únicamente a combatientes de los distintos bandos",
+          "is_correct": false,
+          "feedback": "La mayoría de víctimas fueron civiles: desplazados, campesinos, mujeres, pueblos indígenas y afrocolombianos."
+        },
+        {
+          "letter": "D",
+          "text": "No dejó ningún impacto en la Constitución ni en las leyes colombianas",
+          "is_correct": false,
+          "feedback": "La Carta del 91, la Ley de Víctimas y la justicia transicional son, en buena medida, respuestas normativas al conflicto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Centro Nacional de Memoria Histórica y el Registro Único de Víctimas documentan un daño masivo: millones de desplazados internos —Colombia es uno de los países con mayor población desplazada del mundo—, decenas de miles de desaparecidos y un uso intensivo de minas antipersonal. Reconocer estos efectos como heridas colectivas, y no como estadísticas frías, es parte de la ética ciudadana que la escuela debe cultivar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle-v20",
+      "statement": "Un ciudadano informado que evalúa críticamente el estado actual del conflicto armado debería concluir que",
+      "context": "Rumbo a las elecciones y consultas de 2026, un debate estudiantil en un colegio de Neiva analiza la continuidad del conflicto y la política de 'paz total' en la agenda pública colombiana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El conflicto terminó definitivamente en 2016 y hoy cualquier debate al respecto es innecesario",
+          "is_correct": false,
+          "feedback": "La persistencia de disidencias, del ELN, del Clan del Golfo y de economías ilícitas muestra que la violencia armado aún existe en varios territorios."
+        },
+        {
+          "letter": "B",
+          "text": "El conflicto se transformó: la gran guerrilla comunista de las FARC se convirtió en partido político tras el acuerdo, pero nuevas violencias ligadas a economías criminales, disputas territoriales y debilidad institucional mantienen vivo el reto de la paz, frente al cual la 'paz total' busca negociar y desmantelar simultáneamente a varios grupos armados",
+          "is_correct": true,
+          "feedback": "Es la lectura más precisa: continuidad y cambio. La dejación de 2017 redujo una violencia, pero surgieron recomposiciones de otras; la política actual combina diálogos y ofensivas, con resultados aún en disputa."
+        },
+        {
+          "letter": "C",
+          "text": "La paz es imposible porque los colombianos son violentos por naturaleza",
+          "is_correct": false,
+          "feedback": "El esencialismo cultural carece de evidencia: conflictos comparables se resolvieron institucionalmente en otras sociedades."
+        },
+        {
+          "letter": "D",
+          "text": "Basta con aumentar el pie de fuerza para resolver todas las expresiones actuales de la violencia armada",
+          "is_correct": false,
+          "feedback": "La evidencia comparada muestra que sin justicia social, verdad, desmantelamiento de rentas criminales e instituciones civiles, la sola presión militar no pacifica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cerrar el conflicto exige sostener la implementación de los acuerdos, proteger a las comunidades y a los reincorporados, enfrentar las economías ilícitas y cumplir los derechos de las víctimas. Como ciudadanía, evaluar críticamente estas políticas —con datos, memoria y propuestas, no con polarización— es el ejercicio final de este bundle y una competencia para la vida en democracia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.5,
+      "bundle_id": "CO-SOC-11-2026-W09-conflicto-armado-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

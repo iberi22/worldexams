@@ -8,268 +8,88 @@
   },
   "questions": [
     {
-      "id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v1",
-      "statement": "En el Unidad Educativa Santo Domingo de Portoviejo, Carlos redacta un informe científico sobre el sargazo y su impacto ambiental. ¿Cuál de los siguientes fragmentos representa de forma adecuada la redacción de un texto expositivo objetivo?",
-      "context": "Carlos, estudiante de 11° de Bachillerato en el Unidad Educativa Santo Domingo de Portoviejo, aprende a estructurar informes de divulgación científica con lenguaje claro, preciso y objetivo.",
+      "id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es una metáfora?",
+      "context": "En un taller de escritura de un colegio de Quito, el docente repasa los recursos stylistics usados en poesía antes de que los estudiantes revisen sus propios textos.",
       "options": [
         {
           "letter": "A",
-          "text": "El sargazo es una macroalga flotante que altera los ecosistemas costeros de Portoviejo al bloquear la luz solar y consumir oxígeno del agua.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "Una comparación explícita entre dos términos unidos por el nexo \"como\" o \"semejante a\".",
+          "is_correct": false,
+          "feedback": "Esa definición corresponde al símil o comparación, no a la metáfora; recuerda que en la metáfora no aparece el nexo comparativo."
         },
         {
           "letter": "B",
-          "text": "Considero que el sargazo es una plaga horrible y detestable que arruina mis vacaciones favoritas en Portoviejo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "¡Cuidado con el sargazo asesino! Corre de inmediato de la costa de Portoviejo antes de que te destruya.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "El sargazo, como una alfombra de terciopelo dorado sobre las olas de mi fantasía en Portoviejo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "El texto expositivo destaca por su carácter informativo y objetivo, evitando el uso de juicios de valor personales, figuras poéticas o llamados de atención emocionales.\n\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.9,
-      "bundle_id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v2",
-      "statement": "En Machala, un manual técnico de computadoras explica: 'Un procesador, también conocido como CPU, es el cerebro del ordenador que ejecuta los comandos lógicos'.",
-      "context": "Rafael, estudiante de 11° de Bachillerato en el Colegio Nacional Manta de Machala, aprende a estructurar informes de divulgación científica con lenguaje claro, preciso y objetivo.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Una falacia de autoridad sin validez para los expertos en informática de Colegio Nacional Manta.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "Un diálogo en estilo directo que imita la voz del procesador en el Colegio Nacional Manta de Machala.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "Una digresión poética extensa orientada a conmover los sentimientos en Machala.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "La definición acompañada de una metáfora explicativa sencilla para facilitar el entendimiento técnico en Machala.",
+          "text": "Una identificación entre dos términos basada en su semejanza, sin nexo comparativo, donde uno sustituye o se predica del otro.",
           "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "La definición de términos técnicos es un recurso expositivo esencial que aclara conceptos clave para el destinatario de la información.\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.88,
-      "bundle_id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v3",
-      "statement": "Andrés lee un folleto informativo de la salud pública de Esmeraldas sobre la diabetes. El texto concluye con una lista de recomendaciones de alimentación saludable avaladas por la Organización Mundial de la Salud.",
-      "context": "Andrés, estudiante de 11° de Bachillerato en el Colegio Nacional Bernardo Valdivieso de Esmeraldas, aprende a estructurar informes de divulgación científica con lenguaje claro, preciso y objetivo.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "La introducción o marco de planteamiento del Colegio Nacional Bernardo Valdivieso en Esmeraldas.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "El nudo o clímax conflictivo de una novela de suspenso en Esmeraldas.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Correcto. La metáfora es una comparación implícita: \"sus dientes eran perlas\" identifica dientes y perlas sin usar \"como\"."
         },
         {
           "letter": "C",
-          "text": "Un poema modernista que exalta la hermosura de los campos de azúcar en Esmeraldas.",
+          "text": "La atribución de cualidades humanas a objetos o seres inanimados.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Estás describiendo la personificación o prosopopeya; la metáfora trabaja con una sustitución por semejanza entre dos términos."
         },
         {
           "letter": "D",
-          "text": "La conclusión de Esmeraldas, que sintetiza la información clave expuesta y ofrece recomendaciones útiles.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "La conclusión en un texto expositivo recopila los puntos primordiales analizados y propone reflexiones, sugerencias o síntesis de utilidad.\n\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.86,
-      "bundle_id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v4",
-      "statement": "Durante una exposición en el Colegio Nacional Nueve de Octubre de Santo Domingo, Estefanía utiliza la frase: 'Por ejemplo, la laguna de Quilotoa es un volcán extinto colapsado'.",
-      "context": "Estefanía, estudiante de 11° de Bachillerato en el Colegio Nacional Nueve de Octubre de Santo Domingo, aprende a estructurar informes de divulgación científica con lenguaje claro, preciso y objetivo.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "La ejemplificación, que concreta una idea abstracta mediante un caso particular y conocido de la geografía de Santo Domingo.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "B",
-          "text": "La personificación, otorgando rasgos humanos y sentimientos de tristeza a la laguna de Santo Domingo.",
+          "text": "La exageración deliberada de una cualidad para intensificar el efecto expresivo.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "Un conector adversativo que introduce una opinión opuesta a la del docente de Colegio Nacional Nueve de Octubre.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "Un código no lingüístico acústico que imita el sonido de una erupción en Santo Domingo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "La ejemplificación permite aterrizar nociones teóricas generales en casos concretos de la realidad, mejorando la comprensión didáctica del tema.\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.84,
-      "bundle_id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v5",
-      "statement": "Analizando la estructura de una monografía académica sobre la dolarización en el Ecuador en Quito, se discute la importancia de incluir referencias bibliográficas oficiales.",
-      "context": "Ana, estudiante de 11° de Bachillerato en el Colegio Nacional Maldonado de Quito, aprende a estructurar informes de divulgación científica con lenguaje claro, preciso y objetivo.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Para aumentar el número de páginas de forma artificial para aprobar en el Colegio Nacional Maldonado de Quito.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "Para adornar el texto con nombres de difícil pronunciación en Quito.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "Para transformar la exposición técnica en un relato fantástico de misterio empresarial en Quito.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "Para otorgar rigor científico, credibilidad y permitir al lector de Quito contrastar las fuentes.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "Las fuentes bibliográficas y referencias académicas fundamentan de forma objetiva la información provista, asegurando la honestidad intelectual y confiabilidad del escrito.\n\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.82,
-      "bundle_id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v6",
-      "statement": "En el Colegio Nacional Olmedo de Guayaquil, Luis redacta un informe científico sobre el sargazo y su impacto ambiental. ¿Cuál de los siguientes fragmentos representa de forma adecuada la redacción de un texto expositivo objetivo?",
-      "context": "Luis, estudiante de 11° de Bachillerato en el Colegio Nacional Olmedo de Guayaquil, aprende a estructurar informes de divulgación científica con lenguaje claro, preciso y objetivo.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "El sargazo, como una alfombra de terciopelo dorado sobre las olas de mi fantasía en Guayaquil.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "El sargazo es una macroalga flotante que altera los ecosistemas costeros de Guayaquil al bloquear la luz solar y consumir oxígeno del agua.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "C",
-          "text": "Considero que el sargazo es una plaga horrible y detestable que arruina mis vacaciones favoritas en Guayaquil.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "¡Cuidado con el sargazo asesino! Corre de inmediato de la costa de Guayaquil antes de que te destruya.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Esa es la hipérbole; la metáfora no exagera una cualidad, sino que transfiere un nombre a otro término por analogía."
         }
       ],
       "correct_answer": "B",
-      "explanation": "El texto expositivo destaca por su carácter informativo y objetivo, evitando el uso de juicios de valor personales, figuras poéticas o llamados de atención emocionales.\n\n---",
-      "difficulty": "6",
+      "explanation": "La metáfora es una figura de sustitución semántica: un término real se reemplaza o se identifica con un término imaginario gracias a una relación de semejanza (dientes/perlas, cabello/oro). A diferencia del símil, no emplea nexos como \"como\" o \"cual\", lo cual hace la identificación más directa y expresiva.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle-v2",
+      "statement": "Lee el micro-texto:\n\n\"La lluvia de enero baja mansa sobre el malecón, / como un gato tibio que se estira sobre los techos.\"\n\n¿Qué figura retórica se emplea en el segundo verso?",
+      "context": "Durante la sesión inicial del taller, una estudiante de Guayaquil escribe estos versos y pide a sus compañeros identificar el recurso empleado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Símil o comparación, porque dos imágenes se relacionan mediante el nexo \"como\".",
+          "is_correct": true,
+          "feedback": "Correcto. El comparante \"la lluvia\" y el comparado \"un gato tibio\" se unen con el nexo \"como\", marca típica del símil."
+        },
+        {
+          "letter": "B",
+          "text": "Metáfora pura, porque la lluvia se transforma sin más en un gato.",
+          "is_correct": false,
+          "feedback": "No hay sustitución directa: el nexo \"como\" mantiene visibles los dos términos, por eso es símil y no metáfora pura."
+        },
+        {
+          "letter": "C",
+          "text": "Hipérbole, porque se exagera la intensidad de la lluvia.",
+          "is_correct": false,
+          "feedback": "No hay exageración cuantitativa; el verso aproxima la lluvia a una imagen doméstica, no la aumenta desmesuradamente."
+        },
+        {
+          "letter": "D",
+          "text": "Epíteto, porque \"tibio\" es un adjetivo que califica al techo.",
+          "is_correct": false,
+          "feedback": "\"Tibio\" califica al gato del comparado, no al techo; además, la figura global del verso es la comparación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El símil enfrenta dos términos de forma explícita mediante nexos como, cual, parece o semejante. Aquí la lluvia se compara con un gato que se estira: la ternura del animal transmite la suavidad de la llovizna. Distinguir el nexo es el criterio rápido para separar símil de metáfora.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
       "expected_success": 0.8,
-      "bundle_id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle",
+      "bundle_id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -278,223 +98,178 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v7",
-      "statement": "En Cuenca, un manual técnico de computadoras explica: 'Un procesador, también conocido como CPU, es el cerebro del ordenador que ejecuta los comandos lógicos'.",
-      "context": "Patricia, estudiante de 11° de Bachillerato en el Colegio Nacional Mejía de Cuenca, aprende a estructurar informes de divulgación científica con lenguaje claro, preciso y objetivo.",
+      "id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle-v3",
+      "statement": "La hipérbole es un recurso muy frecuente en el lenguaje cotidiano y publicitario. ¿Cuál es su función principal en un texto?",
+      "context": "En Ambato, el grupo de teatro escolar prepara una escena con lenguaje hiperbólico y revisa la ficha de recursos expresivos del taller.",
       "options": [
         {
           "letter": "A",
-          "text": "La definición acompañada de una metáfora explicativa sencilla para facilitar el entendimiento técnico en Cuenca.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "Ocultar el sentido literal del mensaje para que solo lo entiendan los iniciados.",
+          "is_correct": false,
+          "feedback": "Eso describiría un enigma o un criptograma; la hipérbole es transparente: todos captan el exceso."
         },
         {
           "letter": "B",
-          "text": "Una falacia de autoridad sin validez para los expertos en informática de Colegio Nacional Mejía.",
+          "text": "Reemplazar un nombre propio por una característica suya para abreviar el discurso.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Esa es una operación cercana a la metonimia o al apodo descriptivo; la hipérbole no sustituye nombres."
         },
         {
           "letter": "C",
-          "text": "Un diálogo en estilo directo que imita la voz del procesador en el Colegio Nacional Mejía de Cuenca.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "Una digresión poética extensa orientada a conmover los sentimientos en Cuenca.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "La definición de términos técnicos es un recurso expositivo esencial que aclara conceptos clave para el destinatario de la información.\n\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.78,
-      "bundle_id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v8",
-      "statement": "Fernando lee un folleto informativo de la salud pública de Ambato sobre la diabetes. El texto concluye con una lista de recomendaciones de alimentación saludable avaladas por la Organización Mundial de la Salud.",
-      "context": "Fernando, estudiante de 11° de Bachillerato en el Colegio Nacional Vicente Rocafuerte de Ambato, aprende a estructurar informes de divulgación científica con lenguaje claro, preciso y objetivo.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "La introducción o marco de planteamiento del Colegio Nacional Vicente Rocafuerte en Ambato.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "El nudo o clímax conflictivo de una novela de suspenso en Ambato.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "Un poema modernista que exalta la hermosura de los campos de azúcar en Ambato.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "La conclusión de Ambato, que sintetiza la información clave expuesta y ofrece recomendaciones útiles.",
+          "text": "Intensificar el mensaje mediante una exageración deliberada, para impactar o convencer emocionalmente.",
           "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "La conclusión en un texto expositivo recopila los puntos primordiales analizados y propone reflexiones, sugerencias o síntesis de utilidad.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.76,
-      "bundle_id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v9",
-      "statement": "Durante una exposición en el Colegio Benigno Malo de Manta, María utiliza la frase: 'Por ejemplo, la laguna de Quilotoa es un volcán extinto colapsado'.",
-      "context": "María, estudiante de 11° de Bachillerato en el Colegio Benigno Malo de Manta, aprende a estructurar informes de divulgación científica con lenguaje claro, preciso y objetivo.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "La ejemplificación, que concreta una idea abstracta mediante un caso particular y conocido de la geografía de Manta.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "B",
-          "text": "La personificación, otorgando rasgos humanos y sentimientos de tristeza a la laguna de Manta.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "Un conector adversativo que introduce una opinión opuesta a la del docente de Colegio Benigno Malo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Correcto. La hipérbole aumenta o disminuye desmesuradamente una cualidad: \"te lo he dicho un millón de veces\"."
         },
         {
           "letter": "D",
-          "text": "Un código no lingüístico acústico que imita el sonido de una erupción en Manta.",
+          "text": "Ordenar los elementos de la oración de manera distinta al orden lógico habitual.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "La ejemplificación permite aterrizar nociones teóricas generales en casos concretos de la realidad, mejorando la comprensión didáctica del tema.\n\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.74,
-      "bundle_id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v10",
-      "statement": "Analizando la estructura de una monografía académica sobre la dolarización en el Ecuador en Loja, se discute la importancia de incluir referencias bibliográficas oficiales.",
-      "context": "José, estudiante de 11° de Bachillerato en el Colegio Nacional Bolívar de Loja, aprende a estructurar informes de divulgación científica con lenguaje claro, preciso y objetivo.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Para otorgar rigor científico, credibilidad y permitir al lector de Loja contrastar las fuentes.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "B",
-          "text": "Para aumentar el número de páginas de forma artificial para aprobar en el Colegio Nacional Bolívar de Loja.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "Para adornar el texto con nombres de difícil pronunciación en Loja.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "Para transformar la exposición técnica en un relato fantástico de misterio empresarial en Loja.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Las fuentes bibliográficas y referencias académicas fundamentan de forma objetiva la información provista, asegurando la honestidad intelectual y confiabilidad del escrito.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.72,
-      "bundle_id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v11",
-      "statement": "En el Unidad Educativa Santo Domingo de Riobamba, Mateo redacta un informe científico sobre el sargazo y su impacto ambiental. ¿Cuál de los siguientes fragmentos representa de forma adecuada la redacción de un texto expositivo objetivo?",
-      "context": "Mateo, estudiante de 11° de Bachillerato en el Unidad Educativa Santo Domingo de Riobamba, aprende a estructurar informes de divulgación científica con lenguaje claro, preciso y objetivo.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "¡Cuidado con el sargazo asesino! Corre de inmediato de la costa de Riobamba antes de que te destruya.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "El sargazo, como una alfombra de terciopelo dorado sobre las olas de mi fantasía en Riobamba.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "El sargazo es una macroalga flotante que altera los ecosistemas costeros de Riobamba al bloquear la luz solar y consumir oxígeno del agua.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "D",
-          "text": "Considero que el sargazo es una plaga horrible y detestable que arruina mis vacaciones favoritas en Riobamba.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Ese cambio de orden corresponde al hipérbaton; la hipérbole trabaja sobre la cantidad o intensidad, no sobre la sintaxis."
         }
       ],
       "correct_answer": "C",
-      "explanation": "El texto expositivo destaca por su carácter informativo y objetivo, evitando el uso de juicios de valor personales, figuras poéticas o llamados de atención emocionales.\n\n---",
-      "difficulty": "7",
+      "explanation": "La hipérbole es una figura de pensamiento basada en la desmesura: decir más (o mucho menos) de lo literal para reforzar la expresividad. Es común en la oralidad ecuatoriana (\"un aguacero que partía el cielo\") y en la publicidad, donde busca impacto emocional inmediato.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle-v4",
+      "statement": "Lee el inicio del poema \"Los heraldos negros\" (1918), de César Vallejo:\n\n\"Hay golpes en la vida, tan fuertes... ¡Yo no sé!\"\n\n¿Qué efecto produce principalmente esta apertura?",
+      "context": "El docente de Cuenca proyecta la apertura de un poema clásico para conversar sobre cómo empiezan los textos que conmueven.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un tono festivo y ligero, porque el hablante celebra la energía de la vida.",
+          "is_correct": false,
+          "feedback": "El contenido es doloroso: hablar de \"golpes\" muy fuertes no comunica fiesta sino desconcierto ante el sufrimiento."
+        },
+        {
+          "letter": "B",
+          "text": "Una enumeración caótica de golpes concretos que el poema detalla enseguida.",
+          "is_correct": false,
+          "feedback": "Vallejo no lista golpes específicos aquí; la potencia del verso está en lo dicho y a la vez no dicho."
+        },
+        {
+          "letter": "C",
+          "text": "Una comparación explícita de la vida con un boxeador que golpea.",
+          "is_correct": false,
+          "feedback": "No hay término comparado con nexo; \"golpes\" funciona como imagen del sufrimiento, no como símil boxístico."
+        },
+        {
+          "letter": "D",
+          "text": "Una sensación de dolor desbordado e inexplicable, reforzada por la hipérbole \"tan fuertes\" y la vacilación \"¡Yo no sé!\".",
+          "is_correct": true,
+          "feedback": "Correcto. La exageración (\"tan fuertes\") choca con la incapacidad de nombrar el dolor (\"¡Yo no sé!\"), y de ahí nace la fuerza expresiva."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Vallejo abre el poema con una hipérbole (\"golpes... tan fuertes\") que queda inmediatamente desarmada por la confesión \"¡Yo no sé!\". Esa tensión entre intensidad y silencio expresa el asombro humano ante el sufrimiento y muestra cómo una figura retórica puede trabajar junto con la actitud del hablante.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle-v5",
+      "statement": "Lee el micro-texto:\n\n\"El aeropuerto de Tababela bosteza a las cinco de la mañana. / La neblina guarda los equipajes perdidos / y la pista cuenta, en silencio, los aviones que se van.\"\n\n¿Qué figura recorre las tres líneas?",
+      "context": "En el taller de escritura de un colegio de Quito, cada estudiante debe usar al menos una prosopopeya en su borrador; tú revisas el de una compañera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hipérbole, porque se exagera el tamaño del aeropuerto.",
+          "is_correct": false,
+          "feedback": "No se aumenta ninguna magnitud; se atribuyen acciones humanas a cosas, que es otro recurso."
+        },
+        {
+          "letter": "B",
+          "text": "Personificación o prosopopeya, porque objetos y lugares realizan acciones humanas: bostezar, guardar, contar.",
+          "is_correct": true,
+          "feedback": "Correcto. El aeropuerto bosteza, la neblina guarda y la pista cuenta: acciones humanas dadas a entidades inanimadas."
+        },
+        {
+          "letter": "C",
+          "text": "Sinestesia, porque se mezclan sensaciones visuales y táctiles.",
+          "is_correct": false,
+          "feedback": "No hay cruce de planos sensoriales como \"voz de terciopelo\"; el texto anima elementos inertes, no mezcla sentidos."
+        },
+        {
+          "letter": "D",
+          "text": "Antítesis, porque se oponen la mañana y la noche.",
+          "is_correct": false,
+          "feedback": "No existe una oposición de términos contrastantes; la clave está en los verbos de acción humana."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La prosopopeya o personificación anima lo inanimado atribuyéndole verbos, gestos o sentimientos humanos. En el texto, \"bosteza\", \"guarda\" y \"cuenta\" construyen un aeropuerto casi melancólico, como un personaje que observa partidas. Identificar el verbo es la pista más fiable para reconocer esta figura.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle-v6",
+      "statement": "Lee el micro-texto:\n\n\"El sábado, la plaza San Francisco amaneció llena: / aquí se vende el trigo, allá se paga el pan, / y en cada puesto conversan la mano y el trato.\"\n\nEn la expresión \"conversan la mano y el trato\", la palabra \"mano\" funciona como:",
+      "context": "Un estudiante de Guayaquil escribe una reseña del mercado de la Artesanía y usa una metonimia; el grupo debe reconocerla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Metáfora, porque se compara la mano con una boca que habla.",
+          "is_correct": false,
+          "feedback": "No hay semejanza entre mano y boca; se usa un término contiguo al referente real, lo que indica otra figura."
+        },
+        {
+          "letter": "B",
+          "text": "Epíteto, porque \"mano\" es un adjetivo que califica al puesto.",
+          "is_correct": false,
+          "feedback": "\"Mano\" es un sustantivo, no un adjetivo; el epíteto es un adjetivo explicativo que resalta una cualidad inherente."
+        },
+        {
+          "letter": "C",
+          "text": "Hipérbole, porque se exagera la capacidad de conversar de las manos.",
+          "is_correct": false,
+          "feedback": "La intención no es aumentar ninguna magnitud, sino nombrar al vendedor o al acuerdo mediante algo cercano a él."
+        },
+        {
+          "letter": "D",
+          "text": "Metonimia, porque la mano (contigüidad: la parte que obra) representa a la persona que trabaja o pacta en el trato.",
+          "is_correct": true,
+          "feedback": "Correcto. La metonimia sustituye por contigüidad: la mano alude al artesano o al acuerdo sellado con la mano."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La metonimia reemplaza un término por otro con el que mantiene una relación de proximidad real: causa por efecto, continente por contenido, instrumento por usuario. Aquí \"la mano\" evoca a quien trabaja y pacta. Se diferencia de la metáfora en que el vínculo es contigüidad (cercanía factual), no semejanza.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
       "expected_success": 0.7,
-      "bundle_id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle",
+      "bundle_id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -503,43 +278,43 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v12",
-      "statement": "En Ibarra, un manual técnico de computadoras explica: 'Un procesador, también conocido como CPU, es el cerebro del ordenador que ejecuta los comandos lógicos'.",
-      "context": "Sebastián, estudiante de 11° de Bachillerato en el Colegio Nacional Manta de Ibarra, aprende a estructurar informes de divulgación científica con lenguaje claro, preciso y objetivo.",
+      "id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle-v7",
+      "statement": "Lee el fragmento:\n\n\"Aquí estudia el hijo del chofer, aquí la hija de la vendedorilla, / aquí el que viene de la parroquia y el que cruzó el río para llegar. / Aquí, y solo aquí, aprendemos a nombrar el mundo.\"\n\n¿Qué figura organiza principalmente el ritmo del fragmento?",
+      "context": "En un taller de Cuenca, un estudiante prepara un discurso para la izar del pabellón y busca ritmo repetitivo en su cierre.",
       "options": [
         {
           "letter": "A",
-          "text": "La definición acompañada de una metáfora explicativa sencilla para facilitar el entendimiento técnico en Ibarra.",
+          "text": "Anáfora, porque la palabra \"aquí\" se repite al inicio de los enunciados.",
           "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "feedback": "Correcto. La repetición de \"aquí\" en posición inicial acumula casos y refuerza la idea de comunidad escolar."
         },
         {
           "letter": "B",
-          "text": "Una falacia de autoridad sin validez para los expertos en informática de Colegio Nacional Manta.",
+          "text": "Epífora, porque la misma palabra cierra cada uno de los versos.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "En la epífora la repetición ocurre al final de los versos; aquí \"aquí\" abre los enunciados, no los remata."
         },
         {
           "letter": "C",
-          "text": "Un diálogo en estilo directo que imita la voz del procesador en el Colegio Nacional Manta de Ibarra.",
+          "text": "Aliteración, porque la repetición de un sonido dentro de cada verso crea musicalidad.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "El efecto principal no nace de un fonema repetido dentro del verso, sino del retorno de una palabra en posición inicial."
         },
         {
           "letter": "D",
-          "text": "Una digresión poética extensa orientada a conmover los sentimientos en Ibarra.",
+          "text": "Zeugma, porque se elide un verbo compartido por varias oraciones.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "No hay supresión de un elemento sintáctico ya mencionado; lo dominante es la repetición inicial de \"aquí\"."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La definición de términos técnicos es un recurso expositivo esencial que aclara conceptos clave para el destinatario de la información.\n\n---",
-      "difficulty": "8",
+      "explanation": "La anáfora repite una palabra o grupo de palabras al comienzo de varios enunciados, generando acumulación y énfasis, muy usada en discursos. La epífora hace lo propio al final. Reconocer la posición de la repetición permite distinguir ambas y valorar su efecto rítmico en textos argumentativos.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.68,
-      "bundle_id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle",
+      "expected_success": 0.75,
+      "bundle_id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -548,88 +323,178 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v13",
-      "statement": "Valentina lee un folleto informativo de la salud pública de Portoviejo sobre la diabetes. El texto concluye con una lista de recomendaciones de alimentación saludable avaladas por la Organización Mundial de la Salud.",
-      "context": "Valentina, estudiante de 11° de Bachillerato en el Colegio Nacional Bernardo Valdivieso de Portoviejo, aprende a estructurar informes de divulgación científica con lenguaje claro, preciso y objetivo.",
+      "id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle-v8",
+      "statement": "Lee el micro-texto:\n\n\"Escribo en la niebla con una pluma de hielo; / tu silencio ensordecedor me grita que te quedas.\"\n\nLa expresión \"tu silencio ensordecedor\" es un ejemplo de:",
+      "context": "En el mural literario del colegio de Ambato, una estudiante copia un dístico propio y sus compañeros debaten sobre la figura de la segunda línea.",
       "options": [
         {
           "letter": "A",
-          "text": "La introducción o marco de planteamiento del Colegio Nacional Bernardo Valdivieso en Portoviejo.",
+          "text": "Hipérbole, porque se aumenta el volumen real de una voz.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "No hay un volumen que se exagera: se unen dos nociones incompatibles (silencio y ruido), lo cual apunta a otra figura."
         },
         {
           "letter": "B",
-          "text": "El nudo o clímax conflictivo de una novela de suspenso en Portoviejo.",
+          "text": "Símil, porque el silencio se parece al ruido como dos objetos comparables.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Falta el nexo comparativo y no se enfrentan dos términos en paralelo; hay una fusión de conceptos opuestos."
         },
         {
           "letter": "C",
-          "text": "Un poema modernista que exalta la hermosura de los campos de azúcar en Portoviejo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "text": "Oxímoron, porque se juntan dos términos de significado contradictorio: silencio y ensordecedor.",
+          "is_correct": true,
+          "feedback": "Correcto. El oxímoron fusiona en una misma construcción dos palabras incompatibles que crean un nuevo sentido."
         },
         {
           "letter": "D",
-          "text": "La conclusión de Portoviejo, que sintetiza la información clave expuesta y ofrece recomendaciones útiles.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "La conclusión en un texto expositivo recopila los puntos primordiales analizados y propone reflexiones, sugerencias o síntesis de utilidad.\n\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.66,
-      "bundle_id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v14",
-      "statement": "Durante una exposición en el Colegio Nacional Nueve de Octubre de Machala, Camila utiliza la frase: 'Por ejemplo, la laguna de Quilotoa es un volcán extinto colapsado'.",
-      "context": "Camila, estudiante de 11° de Bachillerato en el Colegio Nacional Nueve de Octubre de Machala, aprende a estructurar informes de divulgación científica con lenguaje claro, preciso y objetivo.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Un conector adversativo que introduce una opinión opuesta a la del docente de Colegio Nacional Nueve de Octubre.",
+          "text": "Lítote, porque se afirma algo negando su contrario.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "Un código no lingüístico acústico que imita el sonido de una erupción en Machala.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "La ejemplificación, que concreta una idea abstracta mediante un caso particular y conocido de la geografía de Machala.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "D",
-          "text": "La personificación, otorgando rasgos humanos y sentimientos de tristeza a la laguna de Machala.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "La lítote atenúa por negación (\"no es poca cosa\"); aquí no se niega nada, se yuxtaponen contrarios."
         }
       ],
       "correct_answer": "C",
-      "explanation": "La ejemplificación permite aterrizar nociones teóricas generales en casos concretos de la realidad, mejorando la comprensión didáctica del tema.\n\n---",
+      "explanation": "El oxímoron combina en una sola frase dos términos que se excluyen (\"hielo abrasado\", \"luz oscura\") para producir un sentido nuevo e inesperado. \"Silencio ensordecedor\" expresa que la ausencia de palabras pesa más que el ruido. No debe confundirse con la antítesis, que opone términos en posiciones simétricas sin fusionarlos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle-v9",
+      "statement": "En \"Sonatina\" de Rubén Darío, la princesa de la torre está triste y sueña con el príncipe azul, en un mundo de princesas, hadas y paisajes de ensueño. Ese modo de construir la escena pertenece sobre todo a:",
+      "context": "El club de lectura de un colegio de Quito comenta modernismo ecuatoriano y mundial; el docente recuerda una obra de Rubén Darío sin exigir citas extensas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La literatura modernista, que cultiva la evasión aristocrática, la musicalidad y el mundo de la fantasía.",
+          "is_correct": true,
+          "feedback": "Correcto. Darío, figura clave del modernismo, crea espacios de ensueño, princesas y delicadeza sensorial como rechazo del realismo."
+        },
+        {
+          "letter": "B",
+          "text": "El realismo decimonónico, que retrata problemas sociales de las clases populares.",
+          "is_correct": false,
+          "feedback": "El realismo muestra conflictos concretos de personajes comunes; la torre y el príncipe azul pertenecen al plano del ensueño."
+        },
+        {
+          "letter": "C",
+          "text": "La vanguardia surrealista, con escritura automática y imágenes inconscientes.",
+          "is_correct": false,
+          "feedback": "El surrealismo llega después y busca el inconsciente; la Sonatina es deliberadamente musical y decorativa, no automática."
+        },
+        {
+          "letter": "D",
+          "text": "El costumbrismo criollo, que describe tipos y escenas locales con humor.",
+          "is_correct": false,
+          "feedback": "No hay tipos populares locales: el marco es un castillo de cuento europeo, ajeno al costumbrismo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"Sonatina\" (1890) condensa el mundo modernista: princesa melancólica en su torre, príncipe soñado, lenguaje musical y evasivo. Conocer el contexto literario ayuda a interpretar las figuras retóricas del poema, que no decoran casualmente sino que construyen una estética de ensueño.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle-v10",
+      "statement": "Lee el micro-texto:\n\n\"En la heladería del cerro, / tu voz dulce me sirve una paleta de mango; / la música verde de la tarde se derrite despacio.\"\n\nLa expresión \"música verde\" es un caso de:",
+      "context": "Una estudiante de Guayaquil describe la heladería del cerro Santa Ana y mezcla sensaciones en sus apuntes del taller.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prosopopeya, porque la música camina y se derrite sola.",
+          "is_correct": false,
+          "feedback": "\"Derrite\" acompañaría animación, pero la figura núcleo es el cruce de un sentido (vista) con otro (oído)."
+        },
+        {
+          "letter": "B",
+          "text": "Metonimia, porque \"verde\" sustituye a la marca de la música.",
+          "is_correct": false,
+          "feedback": "No existe relación de contigüidad entre \"verde\" y la música; se traslada un adjetivo de un plano sensorial a otro."
+        },
+        {
+          "letter": "C",
+          "text": "Sinestesia, porque se atribuye una cualidad visual (verde) a una sensación auditiva (música).",
+          "is_correct": true,
+          "feedback": "Correcto. La sinestesia traslada percepciones de un sentido a otro: \"voz dulce\", \"grito áspero\", \"música verde\"."
+        },
+        {
+          "letter": "D",
+          "text": "Epíteto, porque \"verde\" es una cualidad natural e innecesaria de la música.",
+          "is_correct": false,
+          "feedback": "El epíteto resalta una cualidad propia del sustantivo; el color no es propiedad natural de la música, por eso el cruce es sinestésico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La sinestesia mezcla impresiones de sentidos distintos y produce imágenes sugestivas: aquí el color invade lo sonoro, como antes el sabor invadió la voz (\"voz dulce\"). Es frecuente en la poesía y también en el habla cotidiana del español americano.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle-v11",
+      "statement": "Lee el micro-texto:\n\n\"¿Acaso alguien entrega su teléfono al primer desconocido de la calle? ¿Dejamos las llaves de la casa en manos de quien no conocemos? Entonces, ¿por qué regalamos nuestros datos en cada aplicación que descargamos?\"\n\nEn este párrafo, las preguntas sucesivas funcionan como:",
+      "context": "En el taller de Quito se analiza un párrafo persuasivo: la profesora insiste en que las figuras retóricas también trabajan en textos no poéticos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Interrogaciones genuinas, porque el autor desconoce las respuestas y espera que el lector las busque.",
+          "is_correct": false,
+          "feedback": "El autor no busca información: cada pregunta contiene la respuesta obvia que lo conduce a su conclusión."
+        },
+        {
+          "letter": "B",
+          "text": "Preguntas retóricas, porque el autor no espera respuesta: afirma implícitamente lo contrario de lo que parece dudar.",
+          "is_correct": true,
+          "feedback": "Correcto. Nadie entrega su teléfono a un desconocido: esa certeza compartida obliga al lector a aceptar la comparación final."
+        },
+        {
+          "letter": "C",
+          "text": "Anáforas, porque la repetición inicial de \"¿\" construye el ritmo del párrafo.",
+          "is_correct": false,
+          "feedback": "El signo inicial no es una palabra repetida con valor de figura de repetición; el efecto clave es pragmático, no rítmico."
+        },
+        {
+          "letter": "D",
+          "text": "Epiforas, porque las preguntas cierran con signos que se repiten al final de los enunciados.",
+          "is_correct": false,
+          "feedback": "Los signos de cierre son ortografía, no una figura de repetición posicional; la estrategia es persuasiva mediante preguntas sin respuesta esperada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La pregunta retórica afirma o niega algo de forma indirecta apoyándose en la complicidad del lector: \"¿por qué regalamos nuestros datos?\" equivale a \"no debemos regalarlos\". Analizarla exige distinguir su forma interrogativa de su función argumentativa.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.64,
-      "bundle_id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle",
+      "expected_success": 0.65,
+      "bundle_id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -638,88 +503,43 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v15",
-      "statement": "Analizando la estructura de una monografía académica sobre la dolarización en el Ecuador en Esmeraldas, se discute la importancia de incluir referencias bibliográficas oficiales.",
-      "context": "Santiago, estudiante de 11° de Bachillerato en el Colegio Nacional Maldonado de Esmeraldas, aprende a estructurar informes de divulgación científica con lenguaje claro, preciso y objetivo.",
+      "id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle-v12",
+      "statement": "Lee la micro-estrofa:\n\n\"Siempre que labramos surcos, sembramos esperanza; / siempre que alzáis antorchas, oscurecen el miedo. / Lo que siembra el olvido, lo cosecha la memoria.\"\n\n¿Qué par de figuras describe mejor la organización del texto?",
+      "context": "El grupo de Ambato estudia cómo conviven varias figuras en una sola estrofa y arma un cuadro comparativo.",
       "options": [
         {
           "letter": "A",
-          "text": "Para adornar el texto con nombres de difícil pronunciación en Esmeraldas.",
+          "text": "Hipérbole y eufemismo, porque se exagera el miedo y se suaviza la palabra \"olvido\".",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Ninguna magnitud se desmesura ni se atenúa un término desagradable; el esqueleto del texto es otro."
         },
         {
           "letter": "B",
-          "text": "Para transformar la exposición técnica en un relato fantástico de misterio empresarial en Esmeraldas.",
+          "text": "Sinestesia y onomatopeya, porque se mezclan sentidos e imitan sonidos.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "No hay cruce de planos sensoriales ni imitación de ruidos; hay estructura repetitiva y contraste de ideas."
         },
         {
           "letter": "C",
-          "text": "Para otorgar rigor científico, credibilidad y permitir al lector de Esmeraldas contrastar las fuentes.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "Epífora y lítote, porque las frases terminan con la misma palabra y niegan su contrario.",
+          "is_correct": false,
+          "feedback": "Los finales (\"esperanza\", \"miedo\", \"memoria\") no se repiten, y no hay atenuación por negación de lo opuesto."
         },
         {
           "letter": "D",
-          "text": "Para aumentar el número de páginas de forma artificial para aprobar en el Colegio Nacional Maldonado de Esmeraldas.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Las fuentes bibliográficas y referencias académicas fundamentan de forma objetiva la información provista, asegurando la honestidad intelectual y confiabilidad del escrito.\n\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.62,
-      "bundle_id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v16",
-      "statement": "En el Colegio Nacional Olmedo de Santo Domingo, Alejandro redacta un informe científico sobre el sargazo y su impacto ambiental. ¿Cuál de los siguientes fragmentos representa de forma adecuada la redacción de un texto expositivo objetivo?",
-      "context": "Alejandro, estudiante de 11° de Bachillerato en el Colegio Nacional Olmedo de Santo Domingo, aprende a estructurar informes de divulgación científica con lenguaje claro, preciso y objetivo.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "El sargazo, como una alfombra de terciopelo dorado sobre las olas de mi fantasía en Santo Domingo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "El sargazo es una macroalga flotante que altera los ecosistemas costeros de Santo Domingo al bloquear la luz solar y consumir oxígeno del agua.",
+          "text": "Anáfora y antítesis, porque \"siempre que\" abre los dos primeros versos y siembra/alzar se oponen a olvido/memoria en pares contrastantes.",
           "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "C",
-          "text": "Considero que el sargazo es una plaga horrible y detestable que arruina mis vacaciones favoritas en Santo Domingo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "¡Cuidado con el sargazo asesino! Corre de inmediato de la costa de Santo Domingo antes de que te destruya.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Correcto. La repetición inicial de \"siempre que\" es anáfora, y los pares sembrar/olvidar, alzar/oscuridad, olvido/memoria construyen oposiciones."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "El texto expositivo destaca por su carácter informativo y objetivo, evitando el uso de juicios de valor personales, figuras poéticas o llamados de atención emocionales.\n\n---",
+      "correct_answer": "D",
+      "explanation": "Las figuras conviven: la anáfora aporta ritmo de acumulación y la antítesis organiza el contenido en pares de sentido opuesto. Un análisis maduro no se limita a etiquetar una figura, sino que explica cómo varias trabajan juntas para sostener la idea de causa y consecuencia moral.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "expected_success": 0.6,
-      "bundle_id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle",
+      "bundle_id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -728,43 +548,43 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v17",
-      "statement": "En Quito, un manual técnico de computadoras explica: 'Un procesador, también conocido como CPU, es el cerebro del ordenador que ejecuta los comandos lógicos'.",
-      "context": "Gabriela, estudiante de 11° de Bachillerato en el Colegio Nacional Mejía de Quito, aprende a estructurar informes de divulgación científica con lenguaje claro, preciso y objetivo.",
+      "id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle-v13",
+      "statement": "Lee el micro-texto:\n\n\"¿Que si el primer año fue difícil? No fue precisamente fácil. / Perdimos algunos clientes, aunque decir algunos es quedarse corto. / Hoy el negocio no camina mal del todo.\"\n\n¿Qué estrategia caracteriza el modo de hablar de la emprendedora?",
+      "context": "En una entrevista del taller de periodismo escolar de Cuenca, una joven emprendedora responde con una lítote sobre las dificultades de su negocio.",
       "options": [
         {
           "letter": "A",
-          "text": "Una digresión poética extensa orientada a conmover los sentimientos en Quito.",
+          "text": "Hipérbole continua, porque exagera sin matices cada pérdida del negocio.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "La hablante más bien frena la exageración; ella misma corrige cuando siente que se pasó (\"decir algunos es quedarse corto\")."
         },
         {
           "letter": "B",
-          "text": "La definición acompañada de una metáfora explicativa sencilla para facilitar el entendimiento técnico en Quito.",
+          "text": "Lítote, porque afirma una idea negando su contrario o su extremo: \"no fue precisamente fácil\" para decir que fue difícil.",
           "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "feedback": "Correcto. La negación del opuesto atenúa (o refuerza con ironía) el mensaje: no-fácil = difícil."
         },
         {
           "letter": "C",
-          "text": "Una falacia de autoridad sin validez para los expertos en informática de Colegio Nacional Mejía.",
+          "text": "Eufemismo, porque suaviza la palabra \"perdimos\" con un sinónimo elegante.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "No sustituye un término desagradable por uno blando; opera por negación de lo contrario, mecanismo propio de la lítote."
         },
         {
           "letter": "D",
-          "text": "Un diálogo en estilo directo que imita la voz del procesador en el Colegio Nacional Mejía de Quito.",
+          "text": "Ironía, porque en el fondo quiere decir que el primer año fue un éxito total.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Sus afirmaciones son compatibles con un balance honesto; no hay intención de decir lo contrario de lo literal."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La definición de términos técnicos es un recurso expositivo esencial que aclara conceptos clave para el destinatario de la información.\n\n---",
-      "difficulty": "9",
+      "explanation": "La lítote afirma negando el concepto opuesto (\"no es poco\" = es mucho; \"no fue fácil\" = fue difícil). Puede sonar a modestia o reforzar lo dicho con más fuerza que la afirmación directa. Distinguir su forma (negación) evita confundirla con el eufemismo o la ironía.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.58,
-      "bundle_id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -773,133 +593,313 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v18",
-      "statement": "David lee un folleto informativo de la salud pública de Guayaquil sobre la diabetes. El texto concluye con una lista de recomendaciones de alimentación saludable avaladas por la Organización Mundial de la Salud.",
-      "context": "David, estudiante de 11° de Bachillerato en el Colegio Nacional Vicente Rocafuerte de Guayaquil, aprende a estructurar informes de divulgación científica con lenguaje claro, preciso y objetivo.",
+      "id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle-v14",
+      "statement": "Francisco de Quevedo escribió el romance \"Poderoso caballero es don Dinero\", donde el dinero termina mandando sobre la nobleza y la sangre. En un solo hemistiquio, esa expresión del título funciona sobre todo como:",
+      "context": "El docente de Guayaquil conecta el Siglo de Oro español con el conceptismo para mostrar cómo el ingenio se pone al servicio de una idea.",
       "options": [
         {
           "letter": "A",
-          "text": "La conclusión de Guayaquil, que sintetiza la información clave expuesta y ofrece recomendaciones útiles.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "Símil, porque el dinero se compara con el caballero mediante un nexo explícito.",
+          "is_correct": false,
+          "feedback": "No hay nexo comparativo: el dinero se presenta directamente investido como caballero, lo que refuerza la burla."
         },
         {
           "letter": "B",
-          "text": "La introducción o marco de planteamiento del Colegio Nacional Vicente Rocafuerte en Guayaquil.",
+          "text": "Onomatopeya, porque las palabras imitan el sonido de las monedas.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "El verso no reproduce ruidos; su fuerza está en la identificación conceptual y social que propone."
         },
         {
           "letter": "C",
-          "text": "El nudo o clímax conflictivo de una novela de suspenso en Guayaquil.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "Un poema modernista que exalta la hermosura de los campos de azúcar en Guayaquil.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "La conclusión en un texto expositivo recopila los puntos primordiales analizados y propone reflexiones, sugerencias o síntesis de utilidad.\n\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.56,
-      "bundle_id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v19",
-      "statement": "Durante una exposición en el Colegio Benigno Malo de Cuenca, Elena utiliza la frase: 'Por ejemplo, la laguna de Quilotoa es un volcán extinto colapsado'.",
-      "context": "Elena, estudiante de 11° de Bachillerato en el Colegio Benigno Malo de Cuenca, aprende a estructurar informes de divulgación científica con lenguaje claro, preciso y objetivo.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "La personificación, otorgando rasgos humanos y sentimientos de tristeza a la laguna de Cuenca.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "Un conector adversativo que introduce una opinión opuesta a la del docente de Colegio Benigno Malo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "Un código no lingüístico acústico que imita el sonido de una erupción en Cuenca.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "La ejemplificación, que concreta una idea abstracta mediante un caso particular y conocido de la geografía de Cuenca.",
+          "text": "Metáfora personificante con tono hiperbólico: el dinero es elevado a \"caballero\" poderoso, burlando la jerarquía social.",
           "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "La ejemplificación permite aterrizar nociones teóricas generales en casos concretos de la realidad, mejorando la comprensión didáctica del tema.\n\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.54,
-      "bundle_id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v20",
-      "statement": "Analizando la estructura de una monografía académica sobre la dolarización en el Ecuador en Ambato, se discute la importancia de incluir referencias bibliográficas oficiales.",
-      "context": "Diana, estudiante de 11° de Bachillerato en el Colegio Nacional Bolívar de Ambato, aprende a estructurar informes de divulgación científica con lenguaje claro, preciso y objetivo.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Para adornar el texto con nombres de difícil pronunciación en Ambato.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "Para transformar la exposición técnica en un relato fantástico de misterio empresarial en Ambato.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "Para otorgar rigor científico, credibilidad y permitir al lector de Ambato contrastar las fuentes.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "feedback": "Correcto. Don Dinero es tratado como persona de abolengo; la identificación satírica condensa crítica e hipérbole."
         },
         {
           "letter": "D",
-          "text": "Para aumentar el número de páginas de forma artificial para aprobar en el Colegio Nacional Bolívar de Ambato.",
+          "text": "Epíteto, porque \"poderoso\" es una cualidad que acompaña innecesariamente a \"caballero\".",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "\"Poderoso\" no decora: desplaza al dinero al rango de señor, y esa decisión es el núcleo argumentativo del verso."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Las fuentes bibliográficas y referencias académicas fundamentan de forma objetiva la información provista, asegurando la honestidad intelectual y confiabilidad del escrito.\n\n---",
+      "explanation": "Quevedo, maestro del conceptismo, convierte al dinero en un \"caballero\" con tratamiento de \"don\": una metáfora satírica cuya exageración denuncia el poder real del dinero sobre los títulos de nobleza. Un solo verso puede contener varias figuras operando a la vez, y analizarlas exige nombrar sus funciones.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle-v15",
+      "statement": "Lee la réplica:\n\n\"Claro, profe, qué buena idea: prohíban también el aire, que a veces viene movido. / Así tendremos un recreo tan silencioso que podrán escucharse los murciélagos del patio. / Qué privilegio el nuestro.\"\n\n¿Qué figura domina la réplica del estudiante y con qué propósito?",
+      "context": "En el foro del colegio de Ambato, un estudiante propone prohibir los recreos ruidosos y otro responde con ironía; el grupo debe analizar su réplica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hipérbole inocente, porque simplemente quiere agrandar la belleza del patio.",
+          "is_correct": false,
+          "feedback": "Las exageraciones están al servicio de un ataque indirecto: el estudiante no elogia, ridiculiza la propuesta."
+        },
+        {
+          "letter": "B",
+          "text": "Personificación, porque los murciélagos y el aire conversan con los alumnos.",
+          "is_correct": false,
+          "feedback": "Los animales no actúan como personas; la referencia a murciélagos exagera el silencio futuro para burlarlo."
+        },
+        {
+          "letter": "C",
+          "text": "Comparación, porque el silencio propuesto se parece al de una biblioteca.",
+          "is_correct": false,
+          "feedback": "No aparece el término con el que se compara ni nexo alguno; el enunciado dice lo contrario de lo que piensa."
+        },
+        {
+          "letter": "D",
+          "text": "Ironía, porque afirma elogiar la propuesta cuando en realidad la ridiculiza llevándola al absurdo.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Qué buena idea\" y \"qué privilegio\" dicen lo opuesto de lo que el hablante sostiene: desacreditar la prohibición."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La ironía consiste en significar lo contrario de lo que se dice, apoyándose en el contexto y el tono. Aquí el estudiante lleva la propuesta a consecuencias absurdas para dejarla en ridículo. En lectura crítica, reconocer la ironía evita interpretar literalmente enunciados elogiosos que en realidad atacan.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle-v16",
+      "statement": "Lee el micro-texto:\n\n\"De la loma bajaba, callada, la neblina. / Duro, frío, terco, el viaje fue. / Y al fin, la casa; y al fin, la sopa humeante; y al fin, el sueño.\"\n\n¿Qué combinación describe mejor las dos primeras líneas?",
+      "context": "En el taller de Cuenca se compara la sintaxis expresiva de un poema con el orden lógico de la prosa explicativa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hipérbaton en \"Duro, frío, terco, el viaje fue\" (el orden lógico sería \"el viaje fue duro, frío, terco\") y enumeración en el cierre.",
+          "is_correct": true,
+          "feedback": "Correcto. Los adjetivos se adelantan al verbo rompiendo el orden canónico; luego la repetición de \"y al fin\" acumula hitos."
+        },
+        {
+          "letter": "B",
+          "text": "Símil en la primera línea y oxímoron en la segunda, porque la neblina es dura.",
+          "is_correct": false,
+          "feedback": "No hay comparación con nexo ni fusión de términos contradictorios; los adjetivos simplemente se anteponen."
+        },
+        {
+          "letter": "C",
+          "text": "Metonimia en \"la casa\" y sinestesia en \"sopa humeante\", porque el humo se toca.",
+          "is_correct": false,
+          "feedback": "\"Casa\" es literal y \"humeante\" es propio de la sopa; no hay sustitución por contigüidad ni cruce de sentidos."
+        },
+        {
+          "letter": "D",
+          "text": "Ironía en ambas líneas, porque el viajero en realidad odiaba regresar.",
+          "is_correct": false,
+          "feedback": "El texto no dice lo contrario de lo que piensa: su efecto es lírico, ordenado por desplazamientos sintácticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El hipérbaton altera el orden sintáctico esperado para destacar un elemento o crear ritmo; anticipar los adjetivos (\"duro, frío, terco\") hace sentir la dureza antes que el viaje. La enumeración acumulativa de \"y al fin\" produce clímax de llegada: forma y sentido cooperan.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle-v17",
+      "statement": "Lee el micro-texto:\n\n\"En Guayaquil, cuando el sol aprieta en febrero, / el asfalto se vuelve un espejo que quema / y hasta los gallinazos vuelan despacio, sudando gotas del tamaño de un limón.\"\n\nUn compañero afirma: \"Aquí solo hay hipérbole; lo demás es decoración\". ¿Cuál es la evaluación más sólida?",
+      "context": "En la coevaluación del taller de Quito, un compañero sostiene que la única figura del texto es la hipérbole; debes evaluar su dictamen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tiene razón: las comparaciones sin nexo son errores de redacción, no figuras, por lo que solo queda la exageración.",
+          "is_correct": false,
+          "feedback": "Las comparaciones implícitas sí son figuras reconocidas; descartarlas por \"error\" revela un criterio inexistente."
+        },
+        {
+          "letter": "B",
+          "text": "Tiene razón: el \"espejo que quema\" es una perífrasis y el sudor de las aves es biología, no retórica.",
+          "is_correct": false,
+          "feedback": "El asfalto no se define como perífrasis (no es una rodeo para nombrar) y los gallinazos sudando es personificación deliberada, no dato zoológico."
+        },
+        {
+          "letter": "C",
+          "text": "Se equivoca: además de la hipérbole (\"gotas del tamaño de un limón\") hay una metáfora (\"el asfalto se vuelve un espejo\") y una personificación (las aves \"sudan\" el calor).",
+          "is_correct": true,
+          "feedback": "Correcto. Una lectura completa identifica varias figuras en capa: la hipérbole exagera, la metáfora transforma, la personificación anima."
+        },
+        {
+          "letter": "D",
+          "text": "Se equivoca, pero porque la única figura presente es la sinestesia: calor y luz se mezclan en un solo verso.",
+          "is_correct": false,
+          "feedback": "Reducir el texto a una sola sinestesia repite el error del compañero: negar la pluralidad de figuras que sí operan."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar un análisis retórico exige verificar si el dictamen agota las figuras del texto. La hipérbole convive aquí con la metáfora (asfalto = espejo) y la prosopopeya (aves que sudan). Un criterio sólido pesa evidencias por verso, no se queda con la figura más visible.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.52,
-      "bundle_id": "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle",
+      "expected_success": 0.55,
+      "bundle_id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle-v18",
+      "statement": "Observa las dos expresiones:\n\n1) \"El salón votó por levantar la mano.\" / \"Redactó el informe a golpe de teclado.\"\n2) \"El Ecuador se pronunció en las urnas\" (para referirse a todo el país).\n\nUn estudiante concluye: \"Ambos casos son exactamente la misma figura, porque en los dos se reemplaza una cosa por otra\". ¿Su afirmación es adecuada?",
+      "context": "Para el examen del distrito, un estudiante de Ambato debe decidir si una sustitución es metonimia o sinécdoque y justifica su criterio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque metonimia y sinécdoque son nombres distintos para una sola figura; solo cambia la moda literaria.",
+          "is_correct": false,
+          "feedback": "Son figuras emparentadas pero distinguibles: la relación de la sinécdoque (inclusión de clases) no es la misma que la de la metonimia (contigüidad)."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque el primer caso es ironía y el segundo es sinécdoque, por eso no coinciden.",
+          "is_correct": false,
+          "feedback": "En el primer caso no se dice lo contrario de lo que se piensa: hay una sustitución literal por proximidad o inclusión."
+        },
+        {
+          "letter": "C",
+          "text": "No del todo: los usos de \"mano\" y \"teclado\" son metonimia (instrumento o parte por agente o acción), mientras que \"el Ecuador\" por todos sus habitantes es un debate fino donde la parte por el todo se acerca a la sinécdoque.",
+          "is_correct": true,
+          "feedback": "Correcto. La metonimia se apoya en contigüidad (instrumento por usuario) y la sinécdoque en relación de inclusión (parte por todo); mezclarlos sin matizar empobrece el análisis."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, porque en ambas expresiones la palabra sustituida aparece siempre después de la sustituta.",
+          "is_correct": false,
+          "feedback": "El orden de aparición no clasifica figuras; el criterio es el tipo de relación semántica entre los términos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La sinécdoque es un caso especial de sustitución por inclusión: parte por todo o especie por género; la metonimia general usa contigüidad (causa-efecto, continente-contenido, instrumento-usuario). Muchos manuales tratan la sinécdoque como tipo de metonimia, pero en análisis fino conviene distinguir el vínculo lógico que activa cada sustitución.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle-v19",
+      "statement": "Versión 1: \"Necesitamos más libros nuevos para la biblioteca, y buenos, y muchos, porque leer transforma a las personas.\"\nVersión 2: \"Donde hay un libro abierto, hay una puerta abierta; donde hay un lector, hay un ciudadano; donde hay una biblioteca, hay una ciudad que no se rinde.\"\n\n¿Qué evaluación justifica mejor preferir la Versión 2 en un discurso persuasivo?",
+      "context": "Un equipo de Guayaquil decide qué versión del párrafo final de su discurso ante el concejo municipal es más eficaz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es más corta y menos ambiciosa, por lo que resulta siempre más clara para todos los públicos.",
+          "is_correct": false,
+          "feedback": "La versión elegida es más larga que la 1; además, la brevedad no garantiza por sí sola eficacia persuasiva."
+        },
+        {
+          "letter": "B",
+          "text": "Construye su energía con una anáfora (\"donde hay\") y una escalera de ámbitos (libro, lector, biblioteca, ciudad) que amplía la tesis; la enumeración creciente funciona como clímax persuasivo.",
+          "is_correct": true,
+          "feedback": "Correcto. La repetición inicial ordena el argumento y la progresión de lo pequeño a lo colectivo intensifica la convocatoria."
+        },
+        {
+          "letter": "C",
+          "text": "Evita toda figura retórica, lo cual la hace objetiva y por tanto irresistible ante cualquier audiencia.",
+          "is_correct": false,
+          "feedback": "Su fuerza proviene precisamente de las figuras; ninguna persuasión pública se sostiene huyendo de los recursos del lenguaje."
+        },
+        {
+          "letter": "D",
+          "text": "Incluye una cita textual de un autor célebre, y eso garantiza la veracidad del argumento.",
+          "is_correct": false,
+          "feedback": "No hay cita de autor real; el texto es original del estudiante y su validez depende de su razonamiento, no de un prestigio invocado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En un cierre oratorio, la anáfora crea memorabilidad y el clímax escalonado dirige la emoción hacia la idea mayor (la ciudad que no se rinde). Evaluar la eficacia retórica implica relacionar cada figura con la situación comunicativa, no solo nombrarla.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle-v20",
+      "statement": "El borrador de un estudiante dice: \"El transporte escolar de la parroquia recoge tarde. Recoge sucio. Recoge contando pasajeros de más.\"\nSu compañero recomienda: \"Cambia las tres oraciones por un solo eufemismo: el servicio presenta oportunidades de mejora en tiempos, limpieza y aforo\".\n\n¿Cuál es la evaluación más sólida de esa recomendación?",
+      "context": "En la revisión final del taller de Cuenca, debes juzgar la recomendación de un compañero sobre su columna de opinión escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es acertada: los eufemismos siempre mejoran los textos porque evitan conflictos con las autoridades escolares.",
+          "is_correct": false,
+          "feedback": "Ningún recurso es \"siempre\" mejora; el criterio es la intención comunicativa, no la evitación de conflictos."
+        },
+        {
+          "letter": "B",
+          "text": "Es regresiva: la versión original logra con anáfora (\"recoge\") y graduación de quejas un ritmo de denuncia; el eufemismo lo diluye todo y despoja al texto de su fuerza crítica.",
+          "is_correct": true,
+          "feedback": "Correcto. La repetición inicial con enumeración creciente construye la acusación; sustituirla por un eufemismo burocrático anula el propósito del texto."
+        },
+        {
+          "letter": "C",
+          "text": "Es neutra: ambas versiones dicen lo mismo con otras palabras, así que el efecto en el lector es idéntico.",
+          "is_correct": false,
+          "feedback": "Cambiar figuras por eufemismos altera el efecto: una misma denuncia puede sonar contundente o edulcorada según las palabras elegidas."
+        },
+        {
+          "letter": "D",
+          "text": "Es necesaria: la hipérbole de \"contando pasajeros de más\" exagera un hecho y debe corregirse por honestidad intelectual.",
+          "is_correct": false,
+          "feedback": "Sobrecarga no es exageración retórica; el problema no es la veracidad, sino destruir deliberadamente una figura que funciona."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar una sugerencia de reescritura exige volver al propósito del texto: una columna de denuncia necesita recursos que enfaticen, como la anáfora y el orden creciente de los reclamos. El eufemismo, útil para suavizar, resulta contraproducente cuando lo que se busca es visibilizar una falla pública.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "EC-LEN-11-2026-W09-figuras-retoricas-analisis-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
       "cefr_level": null,

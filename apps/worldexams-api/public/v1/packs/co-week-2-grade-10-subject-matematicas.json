@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-2-grade-10-subject-matematicas",
+    "generated_at": "2026-09-12T16:46:07.546Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-10-2026-W02-funciones-trigonometricas-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el periodo fundamental de $f(x)$?",
+      "context": "En Bogotá, se analiza el periodo de la función senoidal básica $f(x) = \\operatorname{sen}(x)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2\\pi$ radianes",
+          "is_correct": true,
+          "feedback": "Correcto. La función seno completa un ciclo en $2\\pi$ rad ($360^\\circ$)."
+        },
+        {
+          "letter": "B",
+          "text": "$\\pi$ radianes",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\pi$ es el periodo de la función tangente."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{\\pi}{2}$ radianes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a un cuarto de ciclo."
+        },
+        {
+          "letter": "D",
+          "text": "$4\\pi$ radianes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste el periodo real."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El periodo estándar de las funciones seno y coseno es $2\\pi$ radianes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-10-2026-W02-funciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W02-funciones-trigonometricas-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la amplitud de la función $g(x)$?",
+      "context": "En Medellín, se evalúa la amplitud de la función $g(x) = -3\\cos(x) + 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3$",
+          "is_correct": true,
+          "feedback": "Correcto. La amplitud es el valor absoluto del coeficiente del coseno: $|-3| = 3$."
+        },
+        {
+          "letter": "B",
+          "text": "$-3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La amplitud es siempre una cantidad positiva (distancia)."
+        },
+        {
+          "letter": "C",
+          "text": "$2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $2$ es el desplazamiento vertical."
+        },
+        {
+          "letter": "D",
+          "text": "$5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste el valor absoluto de los coeficientes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La amplitud es $|A| = |-3| = 3$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-10-2026-W02-funciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W02-funciones-trigonometricas-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el periodo de la función $f(x)$?",
+      "context": "En Cali, se estudia el periodo de la función modificada $f(x) = 4\\operatorname{sen}(2x)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\pi$ radianes",
+          "is_correct": true,
+          "feedback": "Correcto. Periodo $T = \\frac{2\\pi}{B} = \\frac{2\\pi}{2} = \\pi$ radianes."
+        },
+        {
+          "letter": "B",
+          "text": "$2\\pi$ radianes",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dividiste entre la frecuencia angular $B=2$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{\\pi}{2}$ radianes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste entre la amplitud $4$."
+        },
+        {
+          "letter": "D",
+          "text": "$4\\pi$ radianes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste por $2$ en vez de dividir."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Fórmula del periodo $T = \\frac{2\\pi}{|B|}$. Para $B = 2$, $T = \\frac{2\\pi}{2} = \\pi$ rad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-10-2026-W02-funciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W02-funciones-trigonometricas-001-MASTERY-bundle-v4",
+      "statement": "¿En qué puntos del intervalo $[0, 2\\pi]$ la función $h(x)$ presenta asíntotas verticales?",
+      "context": "En Barranquilla, se analiza la función $h(x) = \\tan(x)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = \\frac{\\pi}{2}$ y $x = \\frac{3\\pi}{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. Donde $\\cos(x) = 0$, la tangente se indetermina."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 0$, $x = \\pi$ y $x = 2\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En estos puntos $\\tan(x) = 0$ (interceptos con el eje x)."
+        },
+        {
+          "letter": "C",
+          "text": "Solo en $x = \\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $\\pi$ la tangente es cero."
+        },
+        {
+          "letter": "D",
+          "text": "En ningún punto, es continua en $\\mathbb{R}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función tangente no es continua en todo $\\mathbb{R}$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$\\tan(x) = \\frac{\\operatorname{sen}x}{\\cos x}$. Se indetermina cuando $\\cos x = 0 \\implies x = \\frac{\\pi}{2}, \\frac{3\\pi}{2}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-10-2026-W02-funciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W02-funciones-trigonometricas-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el rango de la función?",
+      "context": "En Bucaramanga, se determina el rango de la función $y = 2\\cos(x) - 1$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[-3, 1]$",
+          "is_correct": true,
+          "feedback": "Correcto. Como $-1 \\le \\cos(x) \\le 1 \\implies -2 \\le 2\\cos(x) \\le 2 \\implies -3 \\le 2\\cos(x)-1 \\le 1$."
+        },
+        {
+          "letter": "B",
+          "text": "[-2, 2]",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aplicaste el desplazamiento vertical de $-1$."
+        },
+        {
+          "letter": "C",
+          "text": "[-1, 1]",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el rango de la función coseno estándar."
+        },
+        {
+          "letter": "D",
+          "text": "[-3, 3]",
+          "is_correct": false,
+          "feedback": "Incorrecto. Amplitud $2$ desplazada $-1$ no da límite superior $3$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Valor mínimo: $2(-1) - 1 = -3$. Valor máximo: $2(1) - 1 = 1$. Rango: $[-3, 1]$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-10-2026-W02-funciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W02-funciones-trigonometricas-001-MASTERY-bundle-v6",
+      "statement": "¿Hacia dónde y cuánto se desplaza la gráfica respecto a $\\operatorname{sen}(x)$?",
+      "context": "En Pereira, se evalúa el desfase (cambio de fase) de la función $y = \\operatorname{sen}\\left(x - \\frac{\\pi}{4}\\right)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desplazamiento a la derecha de $\\frac{\\pi}{4}$ unidades",
+          "is_correct": true,
+          "feedback": "Correcto. $x - C/B = 0 \\implies x = \\pi/4$ (desplazamiento a la derecha)."
+        },
+        {
+          "letter": "B",
+          "text": "Desplazamiento a la izquierda de $\\frac{\\pi}{4}$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo menos dentro del argumento desplaza hacia la derecha."
+        },
+        {
+          "letter": "C",
+          "text": "Desplazamiento vertical hacia abajo de $\\frac{\\pi}{4}$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. El desfase es horizontal, no vertical."
+        },
+        {
+          "letter": "D",
+          "text": "Desplazamiento vertical hacia arriba de $\\frac{\\pi}{4}$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cambio está dentro del argumento angular."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En $f(x-c)$, un signo negativo representa una traslación horizontal a la derecha en $c = \\frac{\\pi}{4}$ unidades.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-10-2026-W02-funciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W02-funciones-trigonometricas-001-MASTERY-bundle-v7",
+      "statement": "¿Cada cuántas horas se repite exactamente el ciclo de la marea (periodo del modelo)?",
+      "context": "En Manizales, la marea en un puerto se modela por $H(t) = 3\\operatorname{sen}\\left(\\frac{\\pi}{6} t\\right) + 5$, donde $t$ es el tiempo en horas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$12$ horas",
+          "is_correct": true,
+          "feedback": "Correcto. $T = \\frac{2\\pi}{B} = \\frac{2\\pi}{\\pi/6} = 12$ horas."
+        },
+        {
+          "letter": "B",
+          "text": "$6$ horas",
+          "is_correct": false,
+          "feedback": "Incorrecto. $6$ horas es la mitad del ciclo (de marea baja a alta)."
+        },
+        {
+          "letter": "C",
+          "text": "$24$ horas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste el periodo calculado."
+        },
+        {
+          "letter": "D",
+          "text": "$3$ horas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la amplitud del modelo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Periodo $T = \\frac{2\\pi}{\\pi/6} = 2\\pi \\cdot \\frac{6}{\\pi} = 12$ horas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-10-2026-W02-funciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W02-funciones-trigonometricas-001-MASTERY-bundle-v8",
+      "statement": "¿Cuáles son las soluciones exactas para $x$?",
+      "context": "En Pasto, resuelva la ecuación trigonométrica $2\\operatorname{sen}(x) - 1 = 0$ en el intervalo $[0, 2\\pi]$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = \\frac{\\pi}{6}$ y $x = \\frac{5\\pi}{6}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\operatorname{sen}(x) = 1/2$. En I y II cuadrantes: $\\pi/6$ y $\\pi - \\pi/6 = 5\\pi/6$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = \\frac{\\pi}{3}$ y $x = \\frac{2\\pi}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para estos ángulos $\\operatorname{sen}(x) = \\sqrt{3}/2$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = \\frac{7\\pi}{6}$ y $x = \\frac{11\\pi}{6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En estos cuadrantes (III y IV) el seno es negativo ($-1/2$)."
+        },
+        {
+          "letter": "D",
+          "text": "Solo $x = \\frac{\\pi}{6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitiste la segunda solución en el segundo cuadrante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$\\operatorname{sen}(x) = \\frac{1}{2} \\implies x = \\frac{\\pi}{6}$ (cuadrante I) y $x = \\pi - \\frac{\\pi}{6} = \\frac{5\\pi}{6}$ (cuadrante II).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-10-2026-W02-funciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W02-funciones-trigonometricas-001-MASTERY-bundle-v9",
+      "statement": "¿Cuáles son las soluciones para $x$?",
+      "context": "En Cúcuta, resuelva la ecuación $\\cos(2x) = 0$ en el intervalo $[0, \\pi]$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = \\frac{\\pi}{4}$ y $x = \\frac{3\\pi}{4}$",
+          "is_correct": true,
+          "feedback": "Correcto. $2x = \\frac{\\pi}{2}, \\frac{3\\pi}{2} \\implies x = \\frac{\\pi}{4}, \\frac{3\\pi}{4}$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = \\frac{\\pi}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para $x=\\pi/2$, $\\cos(2x) = \\cos(\\pi) = -1 \\neq 0$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$ y $x = \\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En estos valores $\\cos(2x) = 1$."
+        },
+        {
+          "letter": "D",
+          "text": "$x = \\frac{\\pi}{6}$ y $x = \\frac{5\\pi}{6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valores erróneos para el coseno nulo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$\\cos(\\theta) = 0 \\implies \\theta = \\frac{\\pi}{2}, \\frac{3\\pi}{2}$. Como $\\theta = 2x \\implies x = \\frac{\\pi}{4}, \\frac{3\\pi}{4}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-10-2026-W02-funciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W02-funciones-trigonometricas-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la frecuencia de la corriente en Hertz (ciclos por segundo)?",
+      "context": "En Armenia, una corriente alterna se describe como $I(t) = 10\\operatorname{sen}(100\\pi t)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$50\\text{ Hz}$",
+          "is_correct": true,
+          "feedback": "Correcto. Periodo $T = \\frac{2\\pi}{100\\pi} = \\frac{1}{50}\\text{ s}$. Frecuencia $f = 1/T = 50\\text{ Hz}$."
+        },
+        {
+          "letter": "B",
+          "text": "$100\\text{ Hz}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la frecuencia angular $\\omega$ con la frecuencia $f$."
+        },
+        {
+          "letter": "C",
+          "text": "$60\\text{ Hz}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Frecuencia estándar comercial pero no de este modelo."
+        },
+        {
+          "letter": "D",
+          "text": "$10\\text{ Hz}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el valor de la amplitud de la corriente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$\\omega = 100\\pi = 2\\pi f \\implies f = \\frac{100\\pi}{2\\pi} = 50\\text{ Hz}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-10-2026-W02-funciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W02-funciones-trigonometricas-001-MASTERY-bundle-v11",
+      "statement": "¿Cuántas soluciones distintas existen en dicho intervalo?",
+      "context": "En Cartagena, resuelva la ecuación cuadrática trigonométrica $2\\cos^2(x) + \\cos(x) - 1 = 0$ en el intervalo $[0, 2\\pi]$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3$ soluciones",
+          "is_correct": true,
+          "feedback": "Correcto. Factores: $(2\\cos x - 1)(\\cos x + 1) = 0 \\implies \\cos x = 1/2$ (2 sol: $\\pi/3, 5\\pi/3$) o $\\cos x = -1$ (1 sol: $\\pi$). Total $= 3$ soluciones."
+        },
+        {
+          "letter": "B",
+          "text": "$2$ soluciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitiste la solución de $\\cos(x) = -1$."
+        },
+        {
+          "letter": "C",
+          "text": "$4$ soluciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contaste 2 soluciones para $\\cos(x) = -1$ cuando solo hay 1 en el intervalo."
+        },
+        {
+          "letter": "D",
+          "text": "$1$ solución",
+          "is_correct": false,
+          "feedback": "Incorrecto. Subestimaste las raíces de la cuadrática."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$(2\\cos x - 1)(\\cos x + 1) = 0 \\implies \\cos x = 1/2 \\implies x = \\pi/3, 5\\pi/3$. $\\cos x = -1 \\implies x = \\pi$. Total $3$ soluciones.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-10-2026-W02-funciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W02-funciones-trigonometricas-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el valor máximo absoluto que alcanza la función $f(x)$?",
+      "context": "En Bogotá, se evalúa la función $f(x) = \\operatorname{sen}(x) + \\cos(x)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. $f(x) = \\sqrt{2}\\operatorname{sen}(x + \\pi/4)$, con amplitud $\\sqrt{2} \\approx 1.414$."
+        },
+        {
+          "letter": "B",
+          "text": "$2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Seno y Coseno no alcanzan $1$ simultáneamente en el mismo ángulo."
+        },
+        {
+          "letter": "C",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para $x = \\pi/4$, $\\operatorname{sen}(\\pi/4)+\\cos(\\pi/4) = \\sqrt{2}/2 + \\sqrt{2}/2 = \\sqrt{2} > 1$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{\\sqrt{2}}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el valor individual de cada componente a $45^\\circ$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Usando la identidad lineal $A\\operatorname{sen}x + B\\cos x = \\sqrt{A^2+B^2}\\operatorname{sen}(x+\\phi) \\implies \\sqrt{1^2+1^2} = \\sqrt{2}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-10-2026-W02-funciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

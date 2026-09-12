@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "ar",
+    "pack_id": "ar-week-12-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T16:46:07.203Z"
+  },
+  "questions": [
+    {
+      "id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v1",
+      "statement": "Un cuerpo de masa $m = 2\\text{ kg}$ se suelta sin velocidad inicial desde una altura $h = 5\\text{ m}$ ($g = 9,8\\text{ m/s}^2$). Sin fricción, ¿cuál es su energía cinética al llegar al suelo?",
+      "context": "Análisis de energía mecánica en caída libre y pendientes Caso N° 1.\n**ID:** AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v1\n**Bloom:** Remember\n**EJE:** Física y Termodinámica\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía cinética = $98,0\\text{ J}$",
+          "is_correct": true,
+          "feedback": "Correcto. $E_c = E_p = m \\cdot g \\cdot h = 2 \\cdot 9,8 \\cdot 5 = 98,0\\text{ J}$."
+        },
+        {
+          "letter": "B",
+          "text": "Energía cinética = $10,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitió la aceleración de la gravedad $g$."
+        },
+        {
+          "letter": "C",
+          "text": "Energía cinética = $49,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la energía total por dos."
+        },
+        {
+          "letter": "D",
+          "text": "Energía cinética = $196,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicó erróneamente la energía mecánica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Toda la energía potencial gravitatoria inicial $E_p = m \\cdot g \\cdot h = 2 \\cdot 9,8 \\cdot 5 = 98,0\\text{ J}$ se convierte en energía cinética en la base.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v2",
+      "statement": "Un cuerpo de masa $m = 4\\text{ kg}$ se suelta sin velocidad inicial desde una altura $h = 10\\text{ m}$ ($g = 9,8\\text{ m/s}^2$). Sin fricción, ¿cuál es su energía cinética al llegar al suelo?",
+      "context": "Análisis de energía mecánica en caída libre y pendientes Caso N° 2.\n**ID:** AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v2\n**Bloom:** Remember\n**EJE:** Física y Termodinámica\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía cinética = $392,0\\text{ J}$",
+          "is_correct": true,
+          "feedback": "Correcto. $E_c = E_p = m \\cdot g \\cdot h = 4 \\cdot 9,8 \\cdot 10 = 392,0\\text{ J}$."
+        },
+        {
+          "letter": "B",
+          "text": "Energía cinética = $40,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitió la aceleración de la gravedad $g$."
+        },
+        {
+          "letter": "C",
+          "text": "Energía cinética = $196,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la energía total por dos."
+        },
+        {
+          "letter": "D",
+          "text": "Energía cinética = $784,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicó erróneamente la energía mecánica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Toda la energía potencial gravitatoria inicial $E_p = m \\cdot g \\cdot h = 4 \\cdot 9,8 \\cdot 10 = 392,0\\text{ J}$ se convierte en energía cinética en la base.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v3",
+      "statement": "Un cuerpo de masa $m = 6\\text{ kg}$ se suelta sin velocidad inicial desde una altura $h = 15\\text{ m}$ ($g = 9,8\\text{ m/s}^2$). Sin fricción, ¿cuál es su energía cinética al llegar al suelo?",
+      "context": "Análisis de energía mecánica en caída libre y pendientes Caso N° 3.\n**ID:** AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v3\n**Bloom:** Understand\n**EJE:** Física y Termodinámica\n**Expected_Success:** 0.86",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía cinética = $882,0\\text{ J}$",
+          "is_correct": true,
+          "feedback": "Correcto. $E_c = E_p = m \\cdot g \\cdot h = 6 \\cdot 9,8 \\cdot 15 = 882,0\\text{ J}$."
+        },
+        {
+          "letter": "B",
+          "text": "Energía cinética = $90,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitió la aceleración de la gravedad $g$."
+        },
+        {
+          "letter": "C",
+          "text": "Energía cinética = $441,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la energía total por dos."
+        },
+        {
+          "letter": "D",
+          "text": "Energía cinética = $1764,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicó erróneamente la energía mecánica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Toda la energía potencial gravitatoria inicial $E_p = m \\cdot g \\cdot h = 6 \\cdot 9,8 \\cdot 15 = 882,0\\text{ J}$ se convierte en energía cinética en la base.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.86,
+      "bundle_id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v4",
+      "statement": "Un cuerpo de masa $m = 8\\text{ kg}$ se suelta sin velocidad inicial desde una altura $h = 20\\text{ m}$ ($g = 9,8\\text{ m/s}^2$). Sin fricción, ¿cuál es su energía cinética al llegar al suelo?",
+      "context": "Análisis de energía mecánica en caída libre y pendientes Caso N° 4.\n**ID:** AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v4\n**Bloom:** Understand\n**EJE:** Física y Termodinámica\n**Expected_Success:** 0.84",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía cinética = $1568,0\\text{ J}$",
+          "is_correct": true,
+          "feedback": "Correcto. $E_c = E_p = m \\cdot g \\cdot h = 8 \\cdot 9,8 \\cdot 20 = 1568,0\\text{ J}$."
+        },
+        {
+          "letter": "B",
+          "text": "Energía cinética = $160,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitió la aceleración de la gravedad $g$."
+        },
+        {
+          "letter": "C",
+          "text": "Energía cinética = $784,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la energía total por dos."
+        },
+        {
+          "letter": "D",
+          "text": "Energía cinética = $3136,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicó erróneamente la energía mecánica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Toda la energía potencial gravitatoria inicial $E_p = m \\cdot g \\cdot h = 8 \\cdot 9,8 \\cdot 20 = 1568,0\\text{ J}$ se convierte en energía cinética en la base.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v5",
+      "statement": "Un cuerpo de masa $m = 10\\text{ kg}$ se suelta sin velocidad inicial desde una altura $h = 25\\text{ m}$ ($g = 9,8\\text{ m/s}^2$). Sin fricción, ¿cuál es su energía cinética al llegar al suelo?",
+      "context": "Análisis de energía mecánica en caída libre y pendientes Caso N° 5.\n**ID:** AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v5\n**Bloom:** Understand\n**EJE:** Física y Termodinámica\n**Expected_Success:** 0.82",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía cinética = $2450,0\\text{ J}$",
+          "is_correct": true,
+          "feedback": "Correcto. $E_c = E_p = m \\cdot g \\cdot h = 10 \\cdot 9,8 \\cdot 25 = 2450,0\\text{ J}$."
+        },
+        {
+          "letter": "B",
+          "text": "Energía cinética = $250,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitió la aceleración de la gravedad $g$."
+        },
+        {
+          "letter": "C",
+          "text": "Energía cinética = $1225,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la energía total por dos."
+        },
+        {
+          "letter": "D",
+          "text": "Energía cinética = $4900,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicó erróneamente la energía mecánica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Toda la energía potencial gravitatoria inicial $E_p = m \\cdot g \\cdot h = 10 \\cdot 9,8 \\cdot 25 = 2450,0\\text{ J}$ se convierte en energía cinética en la base.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v6",
+      "statement": "Un cuerpo de masa $m = 12\\text{ kg}$ se suelta sin velocidad inicial desde una altura $h = 30\\text{ m}$ ($g = 9,8\\text{ m/s}^2$). Sin fricción, ¿cuál es su energía cinética al llegar al suelo?",
+      "context": "Análisis de energía mecánica en caída libre y pendientes Caso N° 6.\n**ID:** AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v6\n**Bloom:** Apply\n**EJE:** Física y Termodinámica\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía cinética = $3528,0\\text{ J}$",
+          "is_correct": true,
+          "feedback": "Correcto. $E_c = E_p = m \\cdot g \\cdot h = 12 \\cdot 9,8 \\cdot 30 = 3528,0\\text{ J}$."
+        },
+        {
+          "letter": "B",
+          "text": "Energía cinética = $360,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitió la aceleración de la gravedad $g$."
+        },
+        {
+          "letter": "C",
+          "text": "Energía cinética = $1764,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la energía total por dos."
+        },
+        {
+          "letter": "D",
+          "text": "Energía cinética = $7056,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicó erróneamente la energía mecánica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Toda la energía potencial gravitatoria inicial $E_p = m \\cdot g \\cdot h = 12 \\cdot 9,8 \\cdot 30 = 3528,0\\text{ J}$ se convierte en energía cinética en la base.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v7",
+      "statement": "Un cuerpo de masa $m = 14\\text{ kg}$ se suelta sin velocidad inicial desde una altura $h = 35\\text{ m}$ ($g = 9,8\\text{ m/s}^2$). Sin fricción, ¿cuál es su energía cinética al llegar al suelo?",
+      "context": "Análisis de energía mecánica en caída libre y pendientes Caso N° 7.\n**ID:** AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v7\n**Bloom:** Apply\n**EJE:** Física y Termodinámica\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía cinética = $4802,0\\text{ J}$",
+          "is_correct": true,
+          "feedback": "Correcto. $E_c = E_p = m \\cdot g \\cdot h = 14 \\cdot 9,8 \\cdot 35 = 4802,0\\text{ J}$."
+        },
+        {
+          "letter": "B",
+          "text": "Energía cinética = $490,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitió la aceleración de la gravedad $g$."
+        },
+        {
+          "letter": "C",
+          "text": "Energía cinética = $2401,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la energía total por dos."
+        },
+        {
+          "letter": "D",
+          "text": "Energía cinética = $9604,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicó erróneamente la energía mecánica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Toda la energía potencial gravitatoria inicial $E_p = m \\cdot g \\cdot h = 14 \\cdot 9,8 \\cdot 35 = 4802,0\\text{ J}$ se convierte en energía cinética en la base.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v8",
+      "statement": "Un cuerpo de masa $m = 16\\text{ kg}$ se suelta sin velocidad inicial desde una altura $h = 40\\text{ m}$ ($g = 9,8\\text{ m/s}^2$). Sin fricción, ¿cuál es su energía cinética al llegar al suelo?",
+      "context": "Análisis de energía mecánica en caída libre y pendientes Caso N° 8.\n**ID:** AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v8\n**Bloom:** Apply\n**EJE:** Física y Termodinámica\n**Expected_Success:** 0.76",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía cinética = $6272,0\\text{ J}$",
+          "is_correct": true,
+          "feedback": "Correcto. $E_c = E_p = m \\cdot g \\cdot h = 16 \\cdot 9,8 \\cdot 40 = 6272,0\\text{ J}$."
+        },
+        {
+          "letter": "B",
+          "text": "Energía cinética = $640,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitió la aceleración de la gravedad $g$."
+        },
+        {
+          "letter": "C",
+          "text": "Energía cinética = $3136,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la energía total por dos."
+        },
+        {
+          "letter": "D",
+          "text": "Energía cinética = $12544,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicó erróneamente la energía mecánica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Toda la energía potencial gravitatoria inicial $E_p = m \\cdot g \\cdot h = 16 \\cdot 9,8 \\cdot 40 = 6272,0\\text{ J}$ se convierte en energía cinética en la base.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.76,
+      "bundle_id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v9",
+      "statement": "Un cuerpo de masa $m = 18\\text{ kg}$ se suelta sin velocidad inicial desde una altura $h = 45\\text{ m}$ ($g = 9,8\\text{ m/s}^2$). Sin fricción, ¿cuál es su energía cinética al llegar al suelo?",
+      "context": "Análisis de energía mecánica en caída libre y pendientes Caso N° 9.\n**ID:** AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v9\n**Bloom:** Apply\n**EJE:** Física y Termodinámica\n**Expected_Success:** 0.74",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía cinética = $7938,0\\text{ J}$",
+          "is_correct": true,
+          "feedback": "Correcto. $E_c = E_p = m \\cdot g \\cdot h = 18 \\cdot 9,8 \\cdot 45 = 7938,0\\text{ J}$."
+        },
+        {
+          "letter": "B",
+          "text": "Energía cinética = $810,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitió la aceleración de la gravedad $g$."
+        },
+        {
+          "letter": "C",
+          "text": "Energía cinética = $3969,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la energía total por dos."
+        },
+        {
+          "letter": "D",
+          "text": "Energía cinética = $15876,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicó erróneamente la energía mecánica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Toda la energía potencial gravitatoria inicial $E_p = m \\cdot g \\cdot h = 18 \\cdot 9,8 \\cdot 45 = 7938,0\\text{ J}$ se convierte en energía cinética en la base.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.74,
+      "bundle_id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v10",
+      "statement": "Un cuerpo de masa $m = 20\\text{ kg}$ se suelta sin velocidad inicial desde una altura $h = 50\\text{ m}$ ($g = 9,8\\text{ m/s}^2$). Sin fricción, ¿cuál es su energía cinética al llegar al suelo?",
+      "context": "Análisis de energía mecánica en caída libre y pendientes Caso N° 10.\n**ID:** AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v10\n**Bloom:** Apply\n**EJE:** Física y Termodinámica\n**Expected_Success:** 0.72",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía cinética = $9800,0\\text{ J}$",
+          "is_correct": true,
+          "feedback": "Correcto. $E_c = E_p = m \\cdot g \\cdot h = 20 \\cdot 9,8 \\cdot 50 = 9800,0\\text{ J}$."
+        },
+        {
+          "letter": "B",
+          "text": "Energía cinética = $1000,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitió la aceleración de la gravedad $g$."
+        },
+        {
+          "letter": "C",
+          "text": "Energía cinética = $4900,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la energía total por dos."
+        },
+        {
+          "letter": "D",
+          "text": "Energía cinética = $19600,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicó erróneamente la energía mecánica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Toda la energía potencial gravitatoria inicial $E_p = m \\cdot g \\cdot h = 20 \\cdot 9,8 \\cdot 50 = 9800,0\\text{ J}$ se convierte en energía cinética en la base.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v11",
+      "statement": "Un cuerpo de masa $m = 22\\text{ kg}$ se suelta sin velocidad inicial desde una altura $h = 55\\text{ m}$ ($g = 9,8\\text{ m/s}^2$). Sin fricción, ¿cuál es su energía cinética al llegar al suelo?",
+      "context": "Análisis de energía mecánica en caída libre y pendientes Caso N° 11.\n**ID:** AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v11\n**Bloom:** Analyze\n**EJE:** Física y Termodinámica\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía cinética = $11858,0\\text{ J}$",
+          "is_correct": true,
+          "feedback": "Correcto. $E_c = E_p = m \\cdot g \\cdot h = 22 \\cdot 9,8 \\cdot 55 = 11858,0\\text{ J}$."
+        },
+        {
+          "letter": "B",
+          "text": "Energía cinética = $1210,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitió la aceleración de la gravedad $g$."
+        },
+        {
+          "letter": "C",
+          "text": "Energía cinética = $5929,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la energía total por dos."
+        },
+        {
+          "letter": "D",
+          "text": "Energía cinética = $23716,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicó erróneamente la energía mecánica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Toda la energía potencial gravitatoria inicial $E_p = m \\cdot g \\cdot h = 22 \\cdot 9,8 \\cdot 55 = 11858,0\\text{ J}$ se convierte en energía cinética en la base.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v12",
+      "statement": "Un cuerpo de masa $m = 24\\text{ kg}$ se suelta sin velocidad inicial desde una altura $h = 60\\text{ m}$ ($g = 9,8\\text{ m/s}^2$). Sin fricción, ¿cuál es su energía cinética al llegar al suelo?",
+      "context": "Análisis de energía mecánica en caída libre y pendientes Caso N° 12.\n**ID:** AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v12\n**Bloom:** Analyze\n**EJE:** Física y Termodinámica\n**Expected_Success:** 0.68",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía cinética = $14112,0\\text{ J}$",
+          "is_correct": true,
+          "feedback": "Correcto. $E_c = E_p = m \\cdot g \\cdot h = 24 \\cdot 9,8 \\cdot 60 = 14112,0\\text{ J}$."
+        },
+        {
+          "letter": "B",
+          "text": "Energía cinética = $1440,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitió la aceleración de la gravedad $g$."
+        },
+        {
+          "letter": "C",
+          "text": "Energía cinética = $7056,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la energía total por dos."
+        },
+        {
+          "letter": "D",
+          "text": "Energía cinética = $28224,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicó erróneamente la energía mecánica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Toda la energía potencial gravitatoria inicial $E_p = m \\cdot g \\cdot h = 24 \\cdot 9,8 \\cdot 60 = 14112,0\\text{ J}$ se convierte en energía cinética en la base.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.68,
+      "bundle_id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v13",
+      "statement": "Un cuerpo de masa $m = 26\\text{ kg}$ se suelta sin velocidad inicial desde una altura $h = 65\\text{ m}$ ($g = 9,8\\text{ m/s}^2$). Sin fricción, ¿cuál es su energía cinética al llegar al suelo?",
+      "context": "Análisis de energía mecánica en caída libre y pendientes Caso N° 13.\n**ID:** AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v13\n**Bloom:** Analyze\n**EJE:** Física y Termodinámica\n**Expected_Success:** 0.66",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía cinética = $16562,0\\text{ J}$",
+          "is_correct": true,
+          "feedback": "Correcto. $E_c = E_p = m \\cdot g \\cdot h = 26 \\cdot 9,8 \\cdot 65 = 16562,0\\text{ J}$."
+        },
+        {
+          "letter": "B",
+          "text": "Energía cinética = $1690,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitió la aceleración de la gravedad $g$."
+        },
+        {
+          "letter": "C",
+          "text": "Energía cinética = $8281,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la energía total por dos."
+        },
+        {
+          "letter": "D",
+          "text": "Energía cinética = $33124,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicó erróneamente la energía mecánica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Toda la energía potencial gravitatoria inicial $E_p = m \\cdot g \\cdot h = 26 \\cdot 9,8 \\cdot 65 = 16562,0\\text{ J}$ se convierte en energía cinética en la base.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.66,
+      "bundle_id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v14",
+      "statement": "Un cuerpo de masa $m = 28\\text{ kg}$ se suelta sin velocidad inicial desde una altura $h = 70\\text{ m}$ ($g = 9,8\\text{ m/s}^2$). Sin fricción, ¿cuál es su energía cinética al llegar al suelo?",
+      "context": "Análisis de energía mecánica en caída libre y pendientes Caso N° 14.\n**ID:** AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v14\n**Bloom:** Analyze\n**EJE:** Física y Termodinámica\n**Expected_Success:** 0.64",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía cinética = $19208,0\\text{ J}$",
+          "is_correct": true,
+          "feedback": "Correcto. $E_c = E_p = m \\cdot g \\cdot h = 28 \\cdot 9,8 \\cdot 70 = 19208,0\\text{ J}$."
+        },
+        {
+          "letter": "B",
+          "text": "Energía cinética = $1960,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitió la aceleración de la gravedad $g$."
+        },
+        {
+          "letter": "C",
+          "text": "Energía cinética = $9604,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la energía total por dos."
+        },
+        {
+          "letter": "D",
+          "text": "Energía cinética = $38416,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicó erróneamente la energía mecánica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Toda la energía potencial gravitatoria inicial $E_p = m \\cdot g \\cdot h = 28 \\cdot 9,8 \\cdot 70 = 19208,0\\text{ J}$ se convierte en energía cinética en la base.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.64,
+      "bundle_id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v15",
+      "statement": "Un cuerpo de masa $m = 30\\text{ kg}$ se suelta sin velocidad inicial desde una altura $h = 75\\text{ m}$ ($g = 9,8\\text{ m/s}^2$). Sin fricción, ¿cuál es su energía cinética al llegar al suelo?",
+      "context": "Análisis de energía mecánica en caída libre y pendientes Caso N° 15.\n**ID:** AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v15\n**Bloom:** Apply\n**EJE:** Física y Termodinámica\n**Expected_Success:** 0.62",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía cinética = $22050,0\\text{ J}$",
+          "is_correct": true,
+          "feedback": "Correcto. $E_c = E_p = m \\cdot g \\cdot h = 30 \\cdot 9,8 \\cdot 75 = 22050,0\\text{ J}$."
+        },
+        {
+          "letter": "B",
+          "text": "Energía cinética = $2250,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitió la aceleración de la gravedad $g$."
+        },
+        {
+          "letter": "C",
+          "text": "Energía cinética = $11025,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la energía total por dos."
+        },
+        {
+          "letter": "D",
+          "text": "Energía cinética = $44100,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicó erróneamente la energía mecánica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Toda la energía potencial gravitatoria inicial $E_p = m \\cdot g \\cdot h = 30 \\cdot 9,8 \\cdot 75 = 22050,0\\text{ J}$ se convierte en energía cinética en la base.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v16",
+      "statement": "Un cuerpo de masa $m = 32\\text{ kg}$ se suelta sin velocidad inicial desde una altura $h = 80\\text{ m}$ ($g = 9,8\\text{ m/s}^2$). Sin fricción, ¿cuál es su energía cinética al llegar al suelo?",
+      "context": "Análisis de energía mecánica en caída libre y pendientes Caso N° 16.\n**ID:** AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v16\n**Bloom:** Analyze\n**EJE:** Física y Termodinámica\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía cinética = $25088,0\\text{ J}$",
+          "is_correct": true,
+          "feedback": "Correcto. $E_c = E_p = m \\cdot g \\cdot h = 32 \\cdot 9,8 \\cdot 80 = 25088,0\\text{ J}$."
+        },
+        {
+          "letter": "B",
+          "text": "Energía cinética = $2560,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitió la aceleración de la gravedad $g$."
+        },
+        {
+          "letter": "C",
+          "text": "Energía cinética = $12544,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la energía total por dos."
+        },
+        {
+          "letter": "D",
+          "text": "Energía cinética = $50176,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicó erróneamente la energía mecánica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Toda la energía potencial gravitatoria inicial $E_p = m \\cdot g \\cdot h = 32 \\cdot 9,8 \\cdot 80 = 25088,0\\text{ J}$ se convierte en energía cinética en la base.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v17",
+      "statement": "Un cuerpo de masa $m = 34\\text{ kg}$ se suelta sin velocidad inicial desde una altura $h = 85\\text{ m}$ ($g = 9,8\\text{ m/s}^2$). Sin fricción, ¿cuál es su energía cinética al llegar al suelo?",
+      "context": "Análisis de energía mecánica en caída libre y pendientes Caso N° 17.\n**ID:** AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v17\n**Bloom:** Evaluate\n**EJE:** Física y Termodinámica\n**Expected_Success:** 0.58",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía cinética = $28322,0\\text{ J}$",
+          "is_correct": true,
+          "feedback": "Correcto. $E_c = E_p = m \\cdot g \\cdot h = 34 \\cdot 9,8 \\cdot 85 = 28322,0\\text{ J}$."
+        },
+        {
+          "letter": "B",
+          "text": "Energía cinética = $2890,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitió la aceleración de la gravedad $g$."
+        },
+        {
+          "letter": "C",
+          "text": "Energía cinética = $14161,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la energía total por dos."
+        },
+        {
+          "letter": "D",
+          "text": "Energía cinética = $56644,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicó erróneamente la energía mecánica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Toda la energía potencial gravitatoria inicial $E_p = m \\cdot g \\cdot h = 34 \\cdot 9,8 \\cdot 85 = 28322,0\\text{ J}$ se convierte en energía cinética en la base.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.58,
+      "bundle_id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v18",
+      "statement": "Un cuerpo de masa $m = 36\\text{ kg}$ se suelta sin velocidad inicial desde una altura $h = 90\\text{ m}$ ($g = 9,8\\text{ m/s}^2$). Sin fricción, ¿cuál es su energía cinética al llegar al suelo?",
+      "context": "Análisis de energía mecánica en caída libre y pendientes Caso N° 18.\n**ID:** AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v18\n**Bloom:** Evaluate\n**EJE:** Física y Termodinámica\n**Expected_Success:** 0.56",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía cinética = $31752,0\\text{ J}$",
+          "is_correct": true,
+          "feedback": "Correcto. $E_c = E_p = m \\cdot g \\cdot h = 36 \\cdot 9,8 \\cdot 90 = 31752,0\\text{ J}$."
+        },
+        {
+          "letter": "B",
+          "text": "Energía cinética = $3240,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitió la aceleración de la gravedad $g$."
+        },
+        {
+          "letter": "C",
+          "text": "Energía cinética = $15876,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la energía total por dos."
+        },
+        {
+          "letter": "D",
+          "text": "Energía cinética = $63504,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicó erróneamente la energía mecánica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Toda la energía potencial gravitatoria inicial $E_p = m \\cdot g \\cdot h = 36 \\cdot 9,8 \\cdot 90 = 31752,0\\text{ J}$ se convierte en energía cinética en la base.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.56,
+      "bundle_id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v19",
+      "statement": "Un cuerpo de masa $m = 38\\text{ kg}$ se suelta sin velocidad inicial desde una altura $h = 95\\text{ m}$ ($g = 9,8\\text{ m/s}^2$). Sin fricción, ¿cuál es su energía cinética al llegar al suelo?",
+      "context": "Análisis de energía mecánica en caída libre y pendientes Caso N° 19.\n**ID:** AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v19\n**Bloom:** Evaluate\n**EJE:** Física y Termodinámica\n**Expected_Success:** 0.54",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía cinética = $35378,0\\text{ J}$",
+          "is_correct": true,
+          "feedback": "Correcto. $E_c = E_p = m \\cdot g \\cdot h = 38 \\cdot 9,8 \\cdot 95 = 35378,0\\text{ J}$."
+        },
+        {
+          "letter": "B",
+          "text": "Energía cinética = $3610,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitió la aceleración de la gravedad $g$."
+        },
+        {
+          "letter": "C",
+          "text": "Energía cinética = $17689,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la energía total por dos."
+        },
+        {
+          "letter": "D",
+          "text": "Energía cinética = $70756,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicó erróneamente la energía mecánica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Toda la energía potencial gravitatoria inicial $E_p = m \\cdot g \\cdot h = 38 \\cdot 9,8 \\cdot 95 = 35378,0\\text{ J}$ se convierte en energía cinética en la base.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.54,
+      "bundle_id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v20",
+      "statement": "Un cuerpo de masa $m = 40\\text{ kg}$ se suelta sin velocidad inicial desde una altura $h = 100\\text{ m}$ ($g = 9,8\\text{ m/s}^2$). Sin fricción, ¿cuál es su energía cinética al llegar al suelo?",
+      "context": "Análisis de energía mecánica en caída libre y pendientes Caso N° 20.\n**ID:** AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle-v20\n**Bloom:** Evaluate\n**EJE:** Física y Termodinámica\n**Expected_Success:** 0.52",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía cinética = $39200,0\\text{ J}$",
+          "is_correct": true,
+          "feedback": "Correcto. $E_c = E_p = m \\cdot g \\cdot h = 40 \\cdot 9,8 \\cdot 100 = 39200,0\\text{ J}$."
+        },
+        {
+          "letter": "B",
+          "text": "Energía cinética = $4000,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitió la aceleración de la gravedad $g$."
+        },
+        {
+          "letter": "C",
+          "text": "Energía cinética = $19600,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la energía total por dos."
+        },
+        {
+          "letter": "D",
+          "text": "Energía cinética = $78400,0\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicó erróneamente la energía mecánica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Toda la energía potencial gravitatoria inicial $E_p = m \\cdot g \\cdot h = 40 \\cdot 9,8 \\cdot 100 = 39200,0\\text{ J}$ se convierte en energía cinética en la base.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.52,
+      "bundle_id": "AR-CIE-11-2026-W12-trabajo-energia-potencia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    }
+  ]
+}

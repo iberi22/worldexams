@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-2-grade-11-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-12T16:46:07.572Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál era la capital política y administrativa del Nuevo Reino de Granada durante la Colonia?",
+      "context": "En una clase de Sociales en un colegio de Bogotá, el profesor presenta un mapa del Nuevo Reino de Granada durante la dominación española.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Santafé de Bogotá",
+          "is_correct": true,
+          "feedback": "Santafé de Bogotá fue la capital del Nuevo Reino de Granada, sede de la Real Audiencia establecida en 1550."
+        },
+        {
+          "letter": "B",
+          "text": "Cartagena de Indias",
+          "is_correct": false,
+          "feedback": "Cartagena fue el principal puerto del Caribe y plaza militar, pero no la capital política del virreinato."
+        },
+        {
+          "letter": "C",
+          "text": "Santa Marta",
+          "is_correct": false,
+          "feedback": "Santa Marta, fundada en 1525, fue la primera ciudad del actual territorio colombiano, pero no fue capital colonial."
+        },
+        {
+          "letter": "D",
+          "text": "Popayán",
+          "is_correct": false,
+          "feedback": "Popayán fue una ciudad importante con gobernación propia, pero no ejerció como capital del Nuevo Reino de Granada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Santafé de Bogotá, fundada en 1538 sobre la sabana donde habitaba el pueblo muisca, se convirtió en el centro administrativo del Nuevo Reino de Granada. Allí funcionaron la Real Audiencia (1550) y, desde 1717 con breves interrupciones, la capitalidad del Virreinato de la Nueva Granada. Conocer la organización política colonial permite entender luego los procesos de centralismo y federalismo del siglo XIX colombiano.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle-v2",
+      "statement": "El ritual muisca en el que un nuevo jefe cubría su cuerpo con polvo de oro y se sumergía en una laguna está asociado con la leyenda de",
+      "context": "Un estudiante de Manizales visita el Museo del Oro y observa piezas de orfebrería relacionadas con un ritual indígena ligado a una leyenda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Dorado en la laguna de Tota",
+          "is_correct": false,
+          "feedback": "La leyenda del Dorado se ligó a la laguna de Guatavita, en la sabana de Bogotá, no a la laguna de Tota, ubicada en Boyacá."
+        },
+        {
+          "letter": "B",
+          "text": "El Dorado en la laguna de Guatavita",
+          "is_correct": true,
+          "feedback": "El ritual de coronación del zipa en la laguna de Guatavita dio origen a la leyenda de El Dorado que atrajo expediciones europeas."
+        },
+        {
+          "letter": "C",
+          "text": "La ciudad de Zaña en la Sierra Nevada",
+          "is_correct": false,
+          "feedback": "Zaña es un valle de la costa norte; no guarda relación con el ritual muisca de la sabana de Bogotá."
+        },
+        {
+          "letter": "D",
+          "text": "El puerto de Mompox sobre el Magdalena",
+          "is_correct": false,
+          "feedback": "Mompox fue un centro aurífero y fluvial clave, pero la leyenda del Dorado nace del ritual muisca de Guatavita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los muiscas, pueblo chibcha de la sabana de Bogotá, realizaban un ritual de investidura del zipa en la laguna de Guatavita, en el que el nuevo cacique se cubría con mopa o resina y polvo de oro. La narración de esta ceremonia alimentó la leyenda de El Dorado y motivó expediciones como la de Ambrosius Ehinger en 1536. Es un ejemplo de la riqueza cultural indígena previo a la conquista.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle-v3",
+      "statement": "La institución colonial que asignaba a un colono español un grupo de indígenas para explotar su trabajo y que, en el siglo XVI, los virreyes buscaban limitar frente a sus abusos, se conoce como",
+      "context": "En un debate escolar en Tunja sobre el trabajo indígena durante la Colonia, un estudiante pregunta por las figuras jurídicas que obligaban a laborar a la población nativa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mita de la coca exclusivamente",
+          "is_correct": false,
+          "feedback": "La mita era la rotación de trabajo obligatorio de origen incaico; reducirla solo a la coca ignora sus usos en minería y obras públicas."
+        },
+        {
+          "letter": "B",
+          "text": "El concertaje de artesanos",
+          "is_correct": false,
+          "feedback": "El concertaje ataba a aprendices y artesanos a sus talleres, pero no es la institución general de asignación de indígenas a colonos."
+        },
+        {
+          "letter": "C",
+          "text": "La encomienda",
+          "is_correct": true,
+          "feedback": "La encomienda entregaba a un español el trabajo y la 'protección' de un grupo indígena a cambio del tributo y la evangelización."
+        },
+        {
+          "letter": "D",
+          "text": "El resguardo indígena",
+          "is_correct": false,
+          "feedback": "El resguardo era una figura de protección de tierras comunales indígenas, no un mecanismo de entrega de mano de obra al colono."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La encomienda fue la institución laboral y social central de la primera etapa colonial: el encomendero recibía indígenas a cambio de protegerlos y evangelizarlos, aunque en la práctica implicó explotación severa. Las Leyes Nuevas de 1542 y las reformas borbónicas intentaron regularla. Analizar estas figuras permite comprender las raíces coloniales de la desigualdad que persiste hacia comunidades indígenas y afrodescendientes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle-v4",
+      "statement": "La Revuelta de los Comuneros de 1781 es considerada un antecedente de la Independencia principalmente porque",
+      "context": "Un grupo de estudiantes de Cali estudia las rebeliones del siglo XVIII y lee sobre los sucesos de 1781 en la provincia de Santafé.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Declaró la república independiente de España ese mismo año",
+          "is_correct": false,
+          "feedback": "Los Comuneros no proclamaron la independencia; sus reclamos eran contra nuevos impuestos y abusos, dentro del sistema monárquico."
+        },
+        {
+          "letter": "B",
+          "text": "Expresó el descontento popular contra los nuevos impuestos y monopolios establecidos por las reformas borbónicas",
+          "is_correct": true,
+          "feedback": "El movimiento comunero surgió contra la alcabala y el estanco de aguardiente impuestos por la Corona, y evidenció la fractura entre súbditos y autoridades."
+        },
+        {
+          "letter": "C",
+          "text": "Fue liderado por criollos que buscaban instalar una monarquía propia",
+          "is_correct": false,
+          "feedback": "La revuelta tuvo base popular y de bajo clero y artesanos; no buscaba instaurar una monarquía criolla."
+        },
+        {
+          "letter": "D",
+          "text": "Contó con el apoyo declarado del virrey Antonio de Amar y Borbón",
+          "is_correct": false,
+          "feedback": "El virrey Amar, precisamente, gobernaba durante la revuelta de 1810; en 1781 las autoridades coloniales reprimieron el movimiento tras negociaciones iniciales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Revuelta de los Comuneros de 1781, con líderes como Manuela Beltrán, que rompió el edicto del impuesto en El Socorro, y José Antonio Galán, ejecutado en 1782, expresó el malestar contra las reformas fiscales borbónicas. Aunque no buscó la ruptura definitiva con la Corona, se recuerda como un antecedente del sentimiento independentista.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle-v5",
+      "statement": "El incidente del florero de Pantoja, ocurrido en Santafé el 20 de julio de 1810, sirvió como pretexto para",
+      "context": "En el Congreso de su colegio en Pereira, los estudiantes representan el 20 de julio de 1810 y discuten qué papel jugó el llamado 'incidente del florero o incidente del florero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Proclamar de inmediato la república independiente de España",
+          "is_correct": false,
+          "feedback": "El 20 de julio no declaró la independencia formal; se constituyó una junta que gobernaba teóricamente en nombre del rey cautivo Fernando VII."
+        },
+        {
+          "letter": "B",
+          "text": "Expulsar definitivamente a los españoles peninsulares del territorio",
+          "is_correct": false,
+          "feedback": "No hubo expulsión masiva de peninsulares ese día; el virrey Amar fue encarcelado temporalmente y luego regresó a España por vía marítima."
+        },
+        {
+          "letter": "C",
+          "text": "Justificar la formación de una junta de gobierno criolla que limitara la autoridad del virrey",
+          "is_correct": true,
+          "feedback": "La discusión sobre el préstamo del florero derivó en un cabildo abierto que constituyó la Junta de Santafé, inicio del proceso independentista."
+        },
+        {
+          "letter": "D",
+          "text": "Convocar directamente al Congreso de Cúcuta de 1821",
+          "is_correct": false,
+          "feedback": "El Congreso de Cúcuta se reunió once años después, ya consolidada la independencia; no fue convocado por los sucesos de 1810."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El 20 de julio de 1810, criollos como Antonio Nariño y Camilo Torres utilizaron el altercado por el florero que el conde de Castilloleta prestaba al contador regio para presionar la creación de una junta. Este día se considera el inicio del proceso independentista, aunque la independencia absoluta se declaró después, el 27 de noviembre de 1811.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle-v6",
+      "statement": "Durante el periodo conocido como Patria Boba, el enfrentamiento político central en el territorio fue entre",
+      "context": "Un docente de Bucaramanga pide comparar las ideas políticas de los líderes de la Patria Boba, el periodo entre 1810 y 1816.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Liberales y conservadores organizados en partidos formales",
+          "is_correct": false,
+          "feedback": "Los partidos Liberal y Conservador se consolidaron décadas después; en la Patria Boba el conflicto era entre federalistas y centralistas."
+        },
+        {
+          "letter": "B",
+          "text": "Realistas y patriotas en una guerra exclusivamente externa",
+          "is_correct": false,
+          "feedback": "Aunque existió el conflicto con las fuerzas realistas, la Patria Boba se caracterizó además por una guerra civil entre provincias patriotas rivales."
+        },
+        {
+          "letter": "C",
+          "text": "Centralistas, como Antonio Nariño, y federalistas, inspirados en las Provincias Unidas lideradas desde Cartagena",
+          "is_correct": true,
+          "feedback": "El choque entre la concepción centralista de Nariño y el federalismo de la Junta de Cartagena definió la fragmentación política del periodo."
+        },
+        {
+          "letter": "D",
+          "text": "Bolívar y Santander, que en 1812 ya disputaban la presidencia de la república",
+          "is_correct": false,
+          "feedback": "La rivalidad Bolívar-Santander se agudizó más adelante; en la Patria Boba Santander lideraba Cundinamarca y Bolívar Campaña del Magdalena y Cartagena."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Entre 1810 y 1816, las juntas provinciales se disputaron el modelo de Estado: centralismo frente a federalismo. Esta fragmentación facilitó la Reconquista española de Pablo Morillo en 1816, que terminaría con el régimen patriota inicial y provocaría el fusilamiento de líderes como Jorge Tadeo Lozano y la prisión de Policarpa Salavarrieta, figura clave como espía patriota ejecutada en 1817.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle-v7",
+      "statement": "La batalla que selló la independencia del territorio de la Nueva Granada, librada el 7 de agosto de 1819 tras el cruce de los llanos y el Pantano de Vargas, fue la batalla de",
+      "context": "En un recorrido escolar por el Puente de Boyacá, los estudiantes de Sogamoso escuchan la crónica de la campaña libertadora de 1819.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "San Jorge, en los llanos de Santa Marta",
+          "is_correct": false,
+          "feedback": "San Jorge (1821) fue una victoria patriota posterior; la independencia de Nueva Granada se decidió en Boyacá en 1819."
+        },
+        {
+          "letter": "B",
+          "text": "Junín en el actual Perú",
+          "is_correct": false,
+          "feedback": "Junín (1824) corresponde a la campaña del Perú y a la consolidación de la independencia sudamericana, no a la de la Nueva Granada."
+        },
+        {
+          "letter": "C",
+          "text": "Boyacá, en el paso del puente sobre el río Boyacá, cerca de Tunja",
+          "is_correct": true,
+          "feedback": "La victoria de Boyacá el 7 de agosto de 1819, al mando de Bolívar y Francisco de Paula Santander, abrió el camino a la liberación de Santafé."
+        },
+        {
+          "letter": "D",
+          "text": "Carabobo en Venezuela",
+          "is_correct": false,
+          "feedback": "Carabobo (1821) consolidó la independencia de Venezuela, no de la Nueva Granada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Campaña Libertadora de 1819 cruzó los llanos de Casanare, venció en el Pantano de Vargas (25 de julio) y en el Puente de Boyacá (7 de agosto), lo que permitió entrar en Santafé el 10 de agosto. Este triunfo hizo posible la organización de la República de Colombia (Gran Colombia) en el Congreso de Cúcuta de 1821, con Bolívar como presidente y Santander como vicepresidente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle-v8",
+      "statement": "El Manifiesto de Cartagena (1812) de Simón Bolívar explicaba la caída de la Primera República de Venezuela principalmente por",
+      "context": "Una estudiante de Cartagena analiza el pensamiento de Bolívar expresado en 1812 desde su ciudad natal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El falta de apoyo de los esclavizados, que permanecieron leales a la Corona",
+          "is_correct": false,
+          "feedback": "Bolívar destacó sobre todo la debilidad institucional y el exceso de garantías federales, no una supuesta lealtad general de los esclavizados."
+        },
+        {
+          "letter": "B",
+          "text": "La fragilidad institucional y el exceso de garantías federales imitadas de Estados Unidos, sin considerar las condiciones de la población",
+          "is_correct": true,
+          "feedback": "Bolívar sostuvo que el federalismo y las garantías excesivas, imitados sin adaptación, debilitaron la república frente a la reconquista española."
+        },
+        {
+          "letter": "C",
+          "text": "La traición directa de Santander, que entregó Caracas a los realistas",
+          "is_correct": false,
+          "feedback": "Santander no tuvo responsabilidad en la caída de la Primera República venezolana; la afirmación es históricamente incorrecta."
+        },
+        {
+          "letter": "D",
+          "text": "La intervención militar exclusiva de Francia en apoyo de Fernando VII",
+          "is_correct": false,
+          "feedback": "No hubo invasión francesa de Venezuela; Napoleón estaba ocupado en Europa y España, y las tropas realistas fueron mayoritariamente americanas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el Manifiesto de Cartagena, escrito el 15 de diciembre de 1812, Bolívar analizó el colapso de la Primera República venezolana tras el terremoto de 1812 y la caída de la plaza. Su conclusión apuntaba a la necesidad de gobiernos fuertes y de preparación de los pueblos para la libertad, idea que anticipa el debate entre autorismo y republicanidad en la América poscolonial.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle-v9",
+      "statement": "Una característica política de la Constitución de Cúcuta de 1821 fue que",
+      "context": "En un ejercicio de clase en Medellín, los estudiantes evalúan el legado de la Constitución de Cúcuta de 1821.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estableció la religión católica como única permitida para todos los habitantes",
+          "is_correct": false,
+          "feedback": "Cúcuta declaró la religión católica como elemento de sociedad pero no prohibió expresamente el culto privado de otras religiones."
+        },
+        {
+          "letter": "B",
+          "text": "Consagró el voto femenino universal desde su promulgación",
+          "is_correct": false,
+          "feedback": "El sufragio femenino universal llegó en Colombia con la reforma de 1954, vigente en el plebiscito de 1957; en 1821 el voto era censitario y masculino."
+        },
+        {
+          "letter": "C",
+          "text": "Dividió el poder público y abolió formalmente la esclavitud mediante la libertad de vientres",
+          "is_correct": true,
+          "feedback": "Cúcuta organizó la Gran Colombia con división de poderes y adoptó la libertad de los hijos de esclavas nacidos después, la llamada 'libertad de vientres'."
+        },
+        {
+          "letter": "D",
+          "text": "Creó el cargo de presidente vitalicio para Bolívar",
+          "is_correct": false,
+          "feedback": "Bolívar fue elegido presidente constitucional; la presidencia vitalicia solo se dio en la etapa final de 1828 con el Congreso Ocurrente, en medio de la dictadura."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Congreso de Cúcuta, instalado en mayo de 1821, dio forma a la República de Colombia (Gran Colombia), que unía Venezuela, la Nueva Granada y, desde 1822 tras Quito y Guayaquil, Ecuador. Introdujo la división de poderes, un congreso bicameral y medidas graduales contra la esclavitud. Su disolución en 1830 marca el inicio de las disputas regionalistas del siglo XIX.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle-v10",
+      "statement": "La disolución de la Gran Colombia en 1830 respondió principalmente a",
+      "context": "Un estudiante de Santa Marta investiga la muerte de Bolívar y el debate historiográfico sobre el final de la Gran Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una invasión española que reconquistó la región andina",
+          "is_correct": false,
+          "feedback": "España no intentó reconquistar militarmente la región tras 1826; el imperio colonial español en América había colapsado."
+        },
+        {
+          "letter": "B",
+          "text": "Los regionalismos, la rivalidad entre centralistas y federalistas y la salud y desgaste político de Bolívar",
+          "is_correct": true,
+          "feedback": "Venezuela y Ecuador se separaron por el centralismo bogotano, las tensiones fiscales y las ambiciones de líderes regionales como Páez."
+        },
+        {
+          "letter": "C",
+          "text": "La decisión arbitraria del Congreso de Panamá de 1826",
+          "is_correct": false,
+          "feedback": "El Congreso Panamá (1826) buscó la unión continental; su fracaso fue solo un síntoma, no la causa de la disolución."
+        },
+        {
+          "letter": "D",
+          "text": "El tratado con Portugal que entregó la Amazonía",
+          "is_correct": false,
+          "feedback": "Ese escenario corresponde a la historia del Brasil, no a la disolución de la Gran Colombia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En 1830, tras el Congreso Ocurrente y el atentado contra Bolívar, Venezuela se proclamó independiente bajo Páez y Ecuador hizo lo propio. Bolívar renunció a la presidencia y murió en la Quinta de San Pedro Alejandrino, en Santa Marta, el 17 de diciembre de 1830. El fracaso integracionista anticipa la tensión entre centralismo y autonomías regionales que marcaría el siglo XIX colombiano.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle-v11",
+      "statement": "La Constitución de Rionegro de 1863 es analizada por los historiadores como una carta que",
+      "context": "En un seminario escolar en Popayán se comparan las constituciones del siglo XIX colombiano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Concentró todas las decisiones en un presidente con periodo de ocho años",
+          "is_correct": false,
+          "feedback": "Lo opuesto: Rionegro redujo el periodo presidencial a dos años y limitó el poder ejecutivo; el presidencialismo fuerte vendría con la Constitución de 1886."
+        },
+        {
+          "letter": "B",
+          "text": "Otorgó amplias autonomía a las soberanas estados federales y debilitó el poder central",
+          "is_correct": true,
+          "feedback": "Rionegro consolidó el modelo federal de los Estados Unidos de Colombia, con soberanías con ejércitos y amplia independencia del centro."
+        },
+        {
+          "letter": "C",
+          "text": "Abolió la elección popular y estableció una monarquía constitucional",
+          "is_correct": false,
+          "feedback": "Rionegro fue profundamente republicana; nunca contempló restaurar una monarquía."
+        },
+        {
+          "letter": "D",
+          "text": "Declaró la educación laica como único sistema sin debate alguno",
+          "is_correct": false,
+          "feedback": "El tema educativo y las relaciones Iglesia-Estado generaron intensos debates; la laicización estricta llegó más tarde, en las reformas de 1886 en sentido contrario y luego en 1991."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Rionegro reflejó el triunfo federalista tras la Revolución de 1863 y amplió garantías individuales y poderes de las soberanías. La inestabilidad y las guerras civiles del periodo sirvieron de argumento a los regeneracionistas para imponer la Constitución centralista de 1886, vigente hasta 1991, con presidente elegido por el Congreso, periodo de seis años y confesionalidad católica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle-v12",
+      "statement": "El proceso de abolición de la esclavitud en Colombia puede ordenarse correctamente así:",
+      "context": "Un grupo de estudiantes de Neiva indaga sobre la abolición de la esclavitud en Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Abolición total en 1821, libertad de vientres en 1851 y compra de manumisión en 1886",
+          "is_correct": false,
+          "feedback": "El orden está invertido: primero llegó la libertad de vientres (Cúcuta 1821) y luego la abolición total en 1851-1852."
+        },
+        {
+          "letter": "B",
+          "text": "Libertad de vientres en la Constitución de Cúcuta de 1821 y abolición total de la esclavitud en 1851-1852 con indemnización al Estado pagada por los esclavizados mediante impuesto",
+          "is_correct": true,
+          "feedback": "La Ley del 21 de mayo de 1851 abolió la esclavitud para el 1 de enero de 1852; se compensó a los amos con un impuesto especial que gravó también a los liberados."
+        },
+        {
+          "letter": "C",
+          "text": "Abolición inmediata por decreto de Bolívar en 1812 en todo el territorio",
+          "is_correct": false,
+          "feedback": "Bolívar no pudo decretar una abolición total en 1812; el proceso fue gradual y legislativa, culminado a mediados del siglo XIX."
+        },
+        {
+          "letter": "D",
+          "text": "Manumisión general impulsada por la Iglesia en 1830 sin intervención del Congreso",
+          "is_correct": false,
+          "feedback": "La medida fue legislativa y estatal, no eclesiástica, y ocurrió en 1851-1852, no en 1830."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La abolición ilustró el gradualismo: Cúcuta (1821) liberó a los hijos de esclavas ('libertad de vientres'); el gobierno de José Hilario López decretó la abolición total en 1851, efectiva el 1 de enero de 1852, con una indemnización a los propietarios financiada con un impuesto. Analizar este proceso permite discutir las deudas pendientes de inclusión de la población afrodescendiente, reconocidas luego en la Constitución de 1991 y la Ley 70 de 1993.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle-v13",
+      "statement": "La Expedición Reconquistadora de Pablo Morillo (1815-1816) dejó como consecuencia política para los patriotas",
+      "context": "En un debate sobre memoria y monumentos en Cartagena, un estudiante pregunta por la Reconquista española de 1815-1816.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La consolidación definitiva del poder español sobre todo el continente americano",
+          "is_correct": false,
+          "feedback": "La reconquista fue efímera; entre 1819 y 1824 los ejércitos patriotas rompieron el dominio español en Nueva Granada, Venezuela y el Alto Perú."
+        },
+        {
+          "letter": "B",
+          "text": "El fusilamiento y prisión de dirigentes patriotas y un resentimiento que fortaleció la causa independentista tras 1819",
+          "is_correct": true,
+          "feedback": "El régimen del terror de Morillo, con ejecuciones de líderes como los mártires de la Junta y el papel represivo del consejo de guerra, alimentó el rechazo definitivo al dominio español."
+        },
+        {
+          "letter": "C",
+          "text": "La alianza de todos los criollos con la Corona española",
+          "is_correct": false,
+          "feedback": "Gran parte de la clase criolla quedó del lado patriota o simpatizante; la política represiva de la reconquista alejó a los moderados."
+        },
+        {
+          "letter": "D",
+          "text": "La independencia inmediata de la provincia de Cartagena respecto de Cundinamarca",
+          "is_correct": false,
+          "feedback": "Cartagena ya se había declarado independiente en 1811; la reconquista la sometió a la Corona, no le dio independencia nueva."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Morillo llegó con 10.000 hombres, sitió Cartagena (cuyo sitio causó miles de muertos por hambre) y restauró la autoridad real en 1816. Las ejecuciones de camilo Torres, Tadeo Lozano y otros, y la persecución posterior, radicalizaron a la población. Cuando Bolívar retornó en 1819 encontró una base social más dispuesta a apoyar la causa republicana.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle-v14",
+      "statement": "El caso de Policarpa Salavarrieta, 'La Pola', fusilada en 1817, ilustra en las clases de ciencias sociales principalmente",
+      "context": "Una estudiante de Valledupar analiza el papel de las mujeres en la independencia tras leer sobre Policarpa Salavarrieta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ausencia total de mujeres en los procesos independentistas",
+          "is_correct": false,
+          "feedback": "Al contrario: su existencia documentada prueba la participación femenina en inteligencia, abastecimiento y propaganda patriota."
+        },
+        {
+          "letter": "B",
+          "text": "La participación de mujeres en redes de espionaje patriota y la represión realista contra ellas",
+          "is_correct": true,
+          "feedback": "'La Pola', costurera y espía patriota en Santafé, fue capturada junto con su novio Alejo Plazas y fusilada; su figura es hoy símbolo de participación popular y femenina."
+        },
+        {
+          "letter": "C",
+          "text": "El liderazgo militar femenino en batallas campales del Caribe",
+          "is_correct": false,
+          "feedback": "Policarpa no comandó ejércitos; su aporte fue en la red de inteligencia urbana, lo cual no disminuye su relevancia histórica."
+        },
+        {
+          "letter": "D",
+          "text": "La alianza obligatoria de las mujeres con el bando realista durante la reconquista",
+          "is_correct": false,
+          "feedback": "No hubo tal alianza obligatoria; muchas mujeres apoyaron a ambos bandos según sus redes familiares y convicciones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Policarpa Salavarrieta ingresó a Santafé como espía al servicio del general el general francés Pierre Labatut y luego de los patriotas clandestinos. Delatada, fue fusilada el 25 de octubre de 1817 y su arenga final en el patíbulo la convirtió en mártir. Estudiantes de grado 11 pueden discutir cómo la memoria de género rescata figuras populares invisibilizadas por la historiografía tradicional.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle-v15",
+      "statement": "La Constitución de 1886, promulgada bajo Rafael Núñez, implicó un cambio de modelo porque",
+      "context": "En un colegio de Armenia se estudia la Regeneración de 1886 y sus reformas institucionales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Amplió las autonomías de los estados soberanos y creó ejércitos regionales",
+          "is_correct": false,
+          "feedback": "Eso correspondía a Rionegro de 1863; la Constitución de 1886 centralizó y creó departamentos dependientes del gobierno nacional."
+        },
+        {
+          "letter": "B",
+          "text": "Recentró el poder en el nivel nacional, creó departamentos, extendió el periodo presidencial y declaró la religión católica como esencial en la ordenación social",
+          "is_correct": true,
+          "feedback": "1886 transformó a Colombia en una república unitaria y centralista, con presidente elegido indirectamente y fuerte influencia de la Iglesia en educación y registro civil."
+        },
+        {
+          "letter": "C",
+          "text": "Introdujo el sufragio universal masculino y femenino simultáneamente",
+          "is_correct": false,
+          "feedback": "El sufragio se restringió en 1886; el femenino llegaría recién en 1954-1957 y la reforma democrática amplía llegaría con 1991."
+        },
+        {
+          "letter": "D",
+          "text": "Estableció un régimen parlamentario con primer ministro",
+          "is_correct": false,
+          "feedback": "Colombia conservó un sistema presidencial; nunca adoptó un gabinete parlamentario al estilo europeo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Regeneración cerró el experimento federal bajo el lema de Núñez: '¡Colombia!'. La Constitución de 1886 rigió durante 105 años hasta 1991, definió un Estado unitario, centralizó las aduanas y el ejército, y consagró la confesionalidad. Sus límites —exclusión política de oposiciones y poblaciones— alimentaron conflictos como la Guerra de los Mil Días.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle-v16",
+      "statement": "La Guerra de los Mil Días (1899-1902) se interpreta correctamente cuando se afirma que",
+      "context": "Un estudiante de Ibagué lee sobre la Guerra de los Mil Días en los materiales del archivo histórico de su universidad local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fue un conflicto exclusivamente internacional entre Colombia y Venezuela por la Guajira",
+          "is_correct": false,
+          "feedback": "Pese a incursiones desde territorio venezolano, la guerra fue una contienda civil entre liberales y el gobierno conservador."
+        },
+        {
+          "letter": "B",
+          "text": "Terminó con la victoria liberal y la Constitución progresista de 1903",
+          "is_correct": false,
+          "feedback": "El resultado militar favoreció al gobierno y el costo humano abrió la pérdida de Panamá; no hubo Constituyente liberal triunfante."
+        },
+        {
+          "letter": "C",
+          "text": "Enfrentó a liberales contra el gobierno conservador, causó decenas de miles de muertos y allanó el camino para la separación de Panamá en 1903",
+          "is_correct": true,
+          "feedback": "La guerra dejó un rastro humanitario enorme; el bloqueo del transporte por el istmo y la debilidad estatal facilitaron la separación de Panamá, respaldada por Estados Unidos."
+        },
+        {
+          "letter": "D",
+          "text": "Se resolvió mediante el arbitraje del presidente de Francia en 1900",
+          "is_correct": false,
+          "feedback": "No hubo arbitraje francés; el conflicto terminó por agotamiento y acuerdos internos como la paz de 1902."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La guerra estalló por la exclusión política liberal tras el fraude de 1898 y el colapso del régimen de Núñez. Las estimaciones de víctimas oscilan entre 60.000 y 100.000 muertos. En noviembre de 1903 Panamá se separó, en parte por el rechazo colombiano al canal del Senado estadounidense; las secuelas reconfiguraron la política y la economía del país.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle-v17",
+      "statement": "Durante la Colonia, la región Caribe y el puerto de Cartagena cumplieron una función económica central porque",
+      "context": "En una clase sobre economía y territorio, un profesor de Barranquilla pregunta por la integración colonial del Caribe colombiano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Era el único lugar donde se permitía la minería de plata en el virreinato",
+          "is_correct": false,
+          "feedback": "La plata se explotaba principalmente en Charcas y Potosí; Cartagena destacaba por su puerto, no por minería argentífera."
+        },
+        {
+          "letter": "B",
+          "text": "Canalizaba el comercio de la Casa de Contratación, el flujo de oro y esmeraldas y la trata esclavista hacia el interior",
+          "is_correct": true,
+          "feedback": "Cartagena fue puerta de entrada del tráfico atlántico de personas esclavizadas, salida de metales preciosos y nudo del sistema de flotas."
+        },
+        {
+          "letter": "C",
+          "text": "Constituyó la capital del Virreinato del Perú hasta 1717",
+          "is_correct": false,
+          "feedback": "La capital virreinal peruana fue Lima; Cartagena perteneció luego a la Nueva Granada."
+        },
+        {
+          "letter": "D",
+          "text": "Carecía de población indígena al momento de la conquista española",
+          "is_correct": false,
+          "feedback": "La región estaba poblada por grupos como los muso o tairona; hubo presencia indígena y mestizaje desde el primer momento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El sistema portuario de Cartagena, Portobelo y La Habana organizaba el comercio atlántico. Su fortificación (Castillo Grande de San Felipe) protegía el circuito de la riqueza americana. Comprender esa función económica explica tanto la diversidad cultural del Caribe como las jerarquías raciales coloniales cuya superación sigue siendo un reto ciudadano.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle-v18",
+      "statement": "La afirmación 'la independencia benefició por igual a todos los grupos sociales de la Nueva Granada' debe evaluarse como",
+      "context": "El consejo estudiantil de un colegio de Cali debe evaluar el título 'República del Colombia' que adoptó Bolívar en 1819-1821 y su uso posterior.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Falsa, porque la ciudadanía restringida, la esclavitud formal vigente hasta 1851 y la discriminación de pueblos indígenas mostraron que la libertad política no se tradujo en igualdad social inmediata",
+          "is_correct": true,
+          "feedback": "El sufragio censitario, la permanencia de la esclavitud y la tutela sobre resguardos confirman que la república criolla reprodujo exclusiones estructurales."
+        },
+        {
+          "letter": "B",
+          "text": "Verdadera, porque la Constitución de Cúcuta otorgó de inmediato el voto a mujeres y hombres sin requisitos de propiedad",
+          "is_correct": false,
+          "feedback": "Cúcuta mantuvo el voto censitario y masculino; la igualdad sufragista plena tomó más de un siglo en Colombia."
+        },
+        {
+          "letter": "C",
+          "text": "Verdadera, porque los resguardos indígenas fueron devueltos en 1821 y sus tierras nunca fueron usurpadas después",
+          "is_correct": false,
+          "feedback": "Los resguardos siguieron expuestos a despojos, especialmente tras la Ley 200 de tierras y el federalismo decimonónico."
+        },
+        {
+          "letter": "D",
+          "text": "Falsa, porque España conservó el control administrativo hasta la independencia definitiva del Brasil en 1889",
+          "is_correct": false,
+          "feedback": "La independencia neogranadina se consolidó militarmente desde 1819 y políticamente en la década de 1820; el caso brasileño es ajeno al proceso del Caribe andino."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La independencia abrió un lenguaje de soberanía popular y derechos, pero lo restringió por censos de propiedad, raza y género. La esclavitud persistió tres décadas; los pueblos indígenas mantuvieron regímenes tutelares; las mujeres quedaron fuera de la vida política formal. Evaluar críticamente esta brecha ideal/real es una competencia ciudadana clave para el grado 11.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle-v19",
+      "statement": "El argumento MÁS sólido para enseñar la Colonia incluyendo las resistencias indígenas y esclavas es que",
+      "context": "En un foro virtual entre colegios de Bogotá y Cartagena se discute si la historia colonial debe enseñarse centrada en élites o en pueblos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite demostrar que no existió mestizaje alguno durante tres siglos de dominio",
+          "is_correct": false,
+          "feedback": "El mestizaje fue masivo; la propuesta de incluir resistencias no niega el mestizaje, sino que amplía los sujetos de la historia."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que los reyes españoles prohibieron siempre la esclavitud en sus territorios americanos",
+          "is_correct": false,
+          "feedback": "La Corona reguló y lucró con la esclavitud; el dato es falso y no contribuye al debate pedagógico."
+        },
+        {
+          "letter": "C",
+          "text": "Visibiliza a sujetos históricos que desafiaron el orden colonial —palenques como San Basilio, rebeliones como la comunera o alzamientos esclavos— y enriquece la comprensión de la ciudadanía actual",
+          "is_correct": true,
+          "feedback": "Los palenques de Cimarrones, San Basilio de Palenque (cimarrón 'palenque' de don Benkos Biohó en el siglo XVII) y las rebeliones esclavas muestran agencia popular que funda memorias de libertad."
+        },
+        {
+          "letter": "D",
+          "text": "Compara la Colonia con la Revolución Industrial inglesa en igualdad de condiciones",
+          "is_correct": false,
+          "feedback": "La comparación anacrónica y descontextualizada no es un argumento pedagógico válido para el tema colonial."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "San Basilio de Palenque, primer pueblo libre de América formalizado en el siglo XVII, es hoy patrimonio cultural. Reconocer estas resistencias permite que los estudiantes se piensen herederos de múltiples tradiciones de lucha por derechos, lo cual fortalece la educación ciudadana crítica y antirracista que promueven los DBA y la Constitución de 1991 (artículo 1, carácter pluriétnico de la Nación).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle-v20",
+      "statement": "Frente a esa afirmación, la valoración históricamente más defendible es que las guerras civiles del siglo XIX colombiano",
+      "context": "Los estudiantes de grado 11 de un colegio de Tunja deben valorar la frase atribuida a la época: 'las guerras civiles del siglo XIX fueron un simple capricho de caudillos'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Carecieron de causas estructurales y pueden explicarse solo por ambiciones personales",
+          "is_correct": false,
+          "feedback": "Reduccionista: en ellas se jugaban el modelo federal/unitario, la relación Iglesia-Estado, el arancel del café y el acceso a la tierra."
+        },
+        {
+          "letter": "B",
+          "text": "Fueron invasiones extranjeras sin participación de colombianos",
+          "is_correct": false,
+          "feedback": "La participación interna fue masiva en ambos bandos; no fueron invasiones extranjeras."
+        },
+        {
+          "letter": "C",
+          "text": "Expresaron conflictos de proyecto de país —centralismo contra federalismo, Libre cambio contra proteccionismo, Iglesia contra Estado— en una sociedad sin canales institucionales para dirimir diferencias",
+          "is_correct": true,
+          "feedback": "Sin partidos modernos ni reglas de alternancia aceptadas, la guerra fue el medio de negociar el modelo de Estado, lo que explica su recurrencia desde 1840 hasta 1902."
+        },
+        {
+          "letter": "D",
+          "text": "Fueron provocadas únicamente por el bloqueo inglés del comercio del Magdalena",
+          "is_correct": false,
+          "feedback": "Ningún bloqueo británico del Magdalena fue causa de las guerras civiles; la afirmación es inventada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las guerras civiles (de los Supremos, de 1851, 1860-63, 1876, 1885, 1895 y los Mil Días) se explican por la ausencia de instituciones de mediación y por proyectos de nación antagónicos. Valorar críticamente estas causas ayuda a comprender por qué la Constitución de 1991 fortaleció la participación, la oposición política y los mecanismos de justicia transicional para evitar que el desacuerdo derive en violencia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.5,
+      "bundle_id": "CO-SOC-11-2026-W02-colonia-y-independencia-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

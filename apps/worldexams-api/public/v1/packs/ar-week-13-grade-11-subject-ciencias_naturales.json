@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "ar",
+    "pack_id": "ar-week-13-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T16:46:07.203Z"
+  },
+  "questions": [
+    {
+      "id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v1",
+      "statement": "Un gas comprimido a temperatura constante ocupa un volumen $V_1 = 10\\text{ L}$ a $P_1 = 1\\text{ atm}$. Si la presión sube a $P_2 = 2\\text{ atm}$, ¿cuál es el nuevo volumen $V_2$?",
+      "context": "Leyes de los gases ideales y procesos termodinámicos Caso N° 1.\n**ID:** AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v1\n**Bloom:** Remember\n**EJE:** Física y Química\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Volumen final = $5,00\\text{ L}$",
+          "is_correct": true,
+          "feedback": "Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \\Rightarrow 1 \\cdot 10 = 2 \\cdot V_2 \\Rightarrow V_2 = 5,00\\text{ L}$."
+        },
+        {
+          "letter": "B",
+          "text": "Volumen final = $20,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional."
+        },
+        {
+          "letter": "C",
+          "text": "Volumen final = $12,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional."
+        },
+        {
+          "letter": "D",
+          "text": "Volumen final = $0,1\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor fijo arbitrario fuera de cálculo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \\Rightarrow V_2 = \\frac{1 \\cdot 10}{2} = 5,00\\text{ L}$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v2",
+      "statement": "Un gas comprimido a temperatura constante ocupa un volumen $V_1 = 20\\text{ L}$ a $P_1 = 1\\text{ atm}$. Si la presión sube a $P_2 = 4\\text{ atm}$, ¿cuál es el nuevo volumen $V_2$?",
+      "context": "Leyes de los gases ideales y procesos termodinámicos Caso N° 2.\n**ID:** AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v2\n**Bloom:** Remember\n**EJE:** Física y Química\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Volumen final = $5,00\\text{ L}$",
+          "is_correct": true,
+          "feedback": "Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \\Rightarrow 1 \\cdot 20 = 4 \\cdot V_2 \\Rightarrow V_2 = 5,00\\text{ L}$."
+        },
+        {
+          "letter": "B",
+          "text": "Volumen final = $80,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional."
+        },
+        {
+          "letter": "C",
+          "text": "Volumen final = $24,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional."
+        },
+        {
+          "letter": "D",
+          "text": "Volumen final = $0,1\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor fijo arbitrario fuera de cálculo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \\Rightarrow V_2 = \\frac{1 \\cdot 20}{4} = 5,00\\text{ L}$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v3",
+      "statement": "Un gas comprimido a temperatura constante ocupa un volumen $V_1 = 30\\text{ L}$ a $P_1 = 1\\text{ atm}$. Si la presión sube a $P_2 = 6\\text{ atm}$, ¿cuál es el nuevo volumen $V_2$?",
+      "context": "Leyes de los gases ideales y procesos termodinámicos Caso N° 3.\n**ID:** AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v3\n**Bloom:** Understand\n**EJE:** Física y Química\n**Expected_Success:** 0.86",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Volumen final = $5,00\\text{ L}$",
+          "is_correct": true,
+          "feedback": "Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \\Rightarrow 1 \\cdot 30 = 6 \\cdot V_2 \\Rightarrow V_2 = 5,00\\text{ L}$."
+        },
+        {
+          "letter": "B",
+          "text": "Volumen final = $180,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional."
+        },
+        {
+          "letter": "C",
+          "text": "Volumen final = $36,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional."
+        },
+        {
+          "letter": "D",
+          "text": "Volumen final = $0,1\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor fijo arbitrario fuera de cálculo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \\Rightarrow V_2 = \\frac{1 \\cdot 30}{6} = 5,00\\text{ L}$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.86,
+      "bundle_id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v4",
+      "statement": "Un gas comprimido a temperatura constante ocupa un volumen $V_1 = 40\\text{ L}$ a $P_1 = 1\\text{ atm}$. Si la presión sube a $P_2 = 8\\text{ atm}$, ¿cuál es el nuevo volumen $V_2$?",
+      "context": "Leyes de los gases ideales y procesos termodinámicos Caso N° 4.\n**ID:** AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v4\n**Bloom:** Understand\n**EJE:** Física y Química\n**Expected_Success:** 0.84",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Volumen final = $5,00\\text{ L}$",
+          "is_correct": true,
+          "feedback": "Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \\Rightarrow 1 \\cdot 40 = 8 \\cdot V_2 \\Rightarrow V_2 = 5,00\\text{ L}$."
+        },
+        {
+          "letter": "B",
+          "text": "Volumen final = $320,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional."
+        },
+        {
+          "letter": "C",
+          "text": "Volumen final = $48,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional."
+        },
+        {
+          "letter": "D",
+          "text": "Volumen final = $0,1\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor fijo arbitrario fuera de cálculo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \\Rightarrow V_2 = \\frac{1 \\cdot 40}{8} = 5,00\\text{ L}$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v5",
+      "statement": "Un gas comprimido a temperatura constante ocupa un volumen $V_1 = 50\\text{ L}$ a $P_1 = 1\\text{ atm}$. Si la presión sube a $P_2 = 10\\text{ atm}$, ¿cuál es el nuevo volumen $V_2$?",
+      "context": "Leyes de los gases ideales y procesos termodinámicos Caso N° 5.\n**ID:** AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v5\n**Bloom:** Understand\n**EJE:** Física y Química\n**Expected_Success:** 0.82",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Volumen final = $5,00\\text{ L}$",
+          "is_correct": true,
+          "feedback": "Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \\Rightarrow 1 \\cdot 50 = 10 \\cdot V_2 \\Rightarrow V_2 = 5,00\\text{ L}$."
+        },
+        {
+          "letter": "B",
+          "text": "Volumen final = $500,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional."
+        },
+        {
+          "letter": "C",
+          "text": "Volumen final = $60,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional."
+        },
+        {
+          "letter": "D",
+          "text": "Volumen final = $0,1\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor fijo arbitrario fuera de cálculo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \\Rightarrow V_2 = \\frac{1 \\cdot 50}{10} = 5,00\\text{ L}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v6",
+      "statement": "Un gas comprimido a temperatura constante ocupa un volumen $V_1 = 60\\text{ L}$ a $P_1 = 1\\text{ atm}$. Si la presión sube a $P_2 = 12\\text{ atm}$, ¿cuál es el nuevo volumen $V_2$?",
+      "context": "Leyes de los gases ideales y procesos termodinámicos Caso N° 6.\n**ID:** AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v6\n**Bloom:** Apply\n**EJE:** Física y Química\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Volumen final = $5,00\\text{ L}$",
+          "is_correct": true,
+          "feedback": "Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \\Rightarrow 1 \\cdot 60 = 12 \\cdot V_2 \\Rightarrow V_2 = 5,00\\text{ L}$."
+        },
+        {
+          "letter": "B",
+          "text": "Volumen final = $720,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional."
+        },
+        {
+          "letter": "C",
+          "text": "Volumen final = $72,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional."
+        },
+        {
+          "letter": "D",
+          "text": "Volumen final = $0,1\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor fijo arbitrario fuera de cálculo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \\Rightarrow V_2 = \\frac{1 \\cdot 60}{12} = 5,00\\text{ L}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v7",
+      "statement": "Un gas comprimido a temperatura constante ocupa un volumen $V_1 = 70\\text{ L}$ a $P_1 = 1\\text{ atm}$. Si la presión sube a $P_2 = 14\\text{ atm}$, ¿cuál es el nuevo volumen $V_2$?",
+      "context": "Leyes de los gases ideales y procesos termodinámicos Caso N° 7.\n**ID:** AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v7\n**Bloom:** Apply\n**EJE:** Física y Química\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Volumen final = $5,00\\text{ L}$",
+          "is_correct": true,
+          "feedback": "Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \\Rightarrow 1 \\cdot 70 = 14 \\cdot V_2 \\Rightarrow V_2 = 5,00\\text{ L}$."
+        },
+        {
+          "letter": "B",
+          "text": "Volumen final = $980,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional."
+        },
+        {
+          "letter": "C",
+          "text": "Volumen final = $84,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional."
+        },
+        {
+          "letter": "D",
+          "text": "Volumen final = $0,1\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor fijo arbitrario fuera de cálculo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \\Rightarrow V_2 = \\frac{1 \\cdot 70}{14} = 5,00\\text{ L}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v8",
+      "statement": "Un gas comprimido a temperatura constante ocupa un volumen $V_1 = 80\\text{ L}$ a $P_1 = 1\\text{ atm}$. Si la presión sube a $P_2 = 16\\text{ atm}$, ¿cuál es el nuevo volumen $V_2$?",
+      "context": "Leyes de los gases ideales y procesos termodinámicos Caso N° 8.\n**ID:** AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v8\n**Bloom:** Apply\n**EJE:** Física y Química\n**Expected_Success:** 0.76",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Volumen final = $5,00\\text{ L}$",
+          "is_correct": true,
+          "feedback": "Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \\Rightarrow 1 \\cdot 80 = 16 \\cdot V_2 \\Rightarrow V_2 = 5,00\\text{ L}$."
+        },
+        {
+          "letter": "B",
+          "text": "Volumen final = $1280,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional."
+        },
+        {
+          "letter": "C",
+          "text": "Volumen final = $96,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional."
+        },
+        {
+          "letter": "D",
+          "text": "Volumen final = $0,1\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor fijo arbitrario fuera de cálculo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \\Rightarrow V_2 = \\frac{1 \\cdot 80}{16} = 5,00\\text{ L}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.76,
+      "bundle_id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v9",
+      "statement": "Un gas comprimido a temperatura constante ocupa un volumen $V_1 = 90\\text{ L}$ a $P_1 = 1\\text{ atm}$. Si la presión sube a $P_2 = 18\\text{ atm}$, ¿cuál es el nuevo volumen $V_2$?",
+      "context": "Leyes de los gases ideales y procesos termodinámicos Caso N° 9.\n**ID:** AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v9\n**Bloom:** Apply\n**EJE:** Física y Química\n**Expected_Success:** 0.74",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Volumen final = $5,00\\text{ L}$",
+          "is_correct": true,
+          "feedback": "Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \\Rightarrow 1 \\cdot 90 = 18 \\cdot V_2 \\Rightarrow V_2 = 5,00\\text{ L}$."
+        },
+        {
+          "letter": "B",
+          "text": "Volumen final = $1620,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional."
+        },
+        {
+          "letter": "C",
+          "text": "Volumen final = $108,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional."
+        },
+        {
+          "letter": "D",
+          "text": "Volumen final = $0,1\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor fijo arbitrario fuera de cálculo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \\Rightarrow V_2 = \\frac{1 \\cdot 90}{18} = 5,00\\text{ L}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.74,
+      "bundle_id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v10",
+      "statement": "Un gas comprimido a temperatura constante ocupa un volumen $V_1 = 100\\text{ L}$ a $P_1 = 1\\text{ atm}$. Si la presión sube a $P_2 = 20\\text{ atm}$, ¿cuál es el nuevo volumen $V_2$?",
+      "context": "Leyes de los gases ideales y procesos termodinámicos Caso N° 10.\n**ID:** AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v10\n**Bloom:** Apply\n**EJE:** Física y Química\n**Expected_Success:** 0.72",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Volumen final = $5,00\\text{ L}$",
+          "is_correct": true,
+          "feedback": "Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \\Rightarrow 1 \\cdot 100 = 20 \\cdot V_2 \\Rightarrow V_2 = 5,00\\text{ L}$."
+        },
+        {
+          "letter": "B",
+          "text": "Volumen final = $2000,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional."
+        },
+        {
+          "letter": "C",
+          "text": "Volumen final = $120,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional."
+        },
+        {
+          "letter": "D",
+          "text": "Volumen final = $0,1\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor fijo arbitrario fuera de cálculo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \\Rightarrow V_2 = \\frac{1 \\cdot 100}{20} = 5,00\\text{ L}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v11",
+      "statement": "Un gas comprimido a temperatura constante ocupa un volumen $V_1 = 110\\text{ L}$ a $P_1 = 1\\text{ atm}$. Si la presión sube a $P_2 = 22\\text{ atm}$, ¿cuál es el nuevo volumen $V_2$?",
+      "context": "Leyes de los gases ideales y procesos termodinámicos Caso N° 11.\n**ID:** AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v11\n**Bloom:** Analyze\n**EJE:** Física y Química\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Volumen final = $5,00\\text{ L}$",
+          "is_correct": true,
+          "feedback": "Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \\Rightarrow 1 \\cdot 110 = 22 \\cdot V_2 \\Rightarrow V_2 = 5,00\\text{ L}$."
+        },
+        {
+          "letter": "B",
+          "text": "Volumen final = $2420,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional."
+        },
+        {
+          "letter": "C",
+          "text": "Volumen final = $132,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional."
+        },
+        {
+          "letter": "D",
+          "text": "Volumen final = $0,1\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor fijo arbitrario fuera de cálculo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \\Rightarrow V_2 = \\frac{1 \\cdot 110}{22} = 5,00\\text{ L}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v12",
+      "statement": "Un gas comprimido a temperatura constante ocupa un volumen $V_1 = 120\\text{ L}$ a $P_1 = 1\\text{ atm}$. Si la presión sube a $P_2 = 24\\text{ atm}$, ¿cuál es el nuevo volumen $V_2$?",
+      "context": "Leyes de los gases ideales y procesos termodinámicos Caso N° 12.\n**ID:** AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v12\n**Bloom:** Analyze\n**EJE:** Física y Química\n**Expected_Success:** 0.68",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Volumen final = $5,00\\text{ L}$",
+          "is_correct": true,
+          "feedback": "Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \\Rightarrow 1 \\cdot 120 = 24 \\cdot V_2 \\Rightarrow V_2 = 5,00\\text{ L}$."
+        },
+        {
+          "letter": "B",
+          "text": "Volumen final = $2880,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional."
+        },
+        {
+          "letter": "C",
+          "text": "Volumen final = $144,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional."
+        },
+        {
+          "letter": "D",
+          "text": "Volumen final = $0,1\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor fijo arbitrario fuera de cálculo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \\Rightarrow V_2 = \\frac{1 \\cdot 120}{24} = 5,00\\text{ L}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.68,
+      "bundle_id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v13",
+      "statement": "Un gas comprimido a temperatura constante ocupa un volumen $V_1 = 130\\text{ L}$ a $P_1 = 1\\text{ atm}$. Si la presión sube a $P_2 = 26\\text{ atm}$, ¿cuál es el nuevo volumen $V_2$?",
+      "context": "Leyes de los gases ideales y procesos termodinámicos Caso N° 13.\n**ID:** AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v13\n**Bloom:** Analyze\n**EJE:** Física y Química\n**Expected_Success:** 0.66",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Volumen final = $5,00\\text{ L}$",
+          "is_correct": true,
+          "feedback": "Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \\Rightarrow 1 \\cdot 130 = 26 \\cdot V_2 \\Rightarrow V_2 = 5,00\\text{ L}$."
+        },
+        {
+          "letter": "B",
+          "text": "Volumen final = $3380,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional."
+        },
+        {
+          "letter": "C",
+          "text": "Volumen final = $156,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional."
+        },
+        {
+          "letter": "D",
+          "text": "Volumen final = $0,1\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor fijo arbitrario fuera de cálculo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \\Rightarrow V_2 = \\frac{1 \\cdot 130}{26} = 5,00\\text{ L}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.66,
+      "bundle_id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v14",
+      "statement": "Un gas comprimido a temperatura constante ocupa un volumen $V_1 = 140\\text{ L}$ a $P_1 = 1\\text{ atm}$. Si la presión sube a $P_2 = 28\\text{ atm}$, ¿cuál es el nuevo volumen $V_2$?",
+      "context": "Leyes de los gases ideales y procesos termodinámicos Caso N° 14.\n**ID:** AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v14\n**Bloom:** Analyze\n**EJE:** Física y Química\n**Expected_Success:** 0.64",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Volumen final = $5,00\\text{ L}$",
+          "is_correct": true,
+          "feedback": "Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \\Rightarrow 1 \\cdot 140 = 28 \\cdot V_2 \\Rightarrow V_2 = 5,00\\text{ L}$."
+        },
+        {
+          "letter": "B",
+          "text": "Volumen final = $3920,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional."
+        },
+        {
+          "letter": "C",
+          "text": "Volumen final = $168,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional."
+        },
+        {
+          "letter": "D",
+          "text": "Volumen final = $0,1\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor fijo arbitrario fuera de cálculo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \\Rightarrow V_2 = \\frac{1 \\cdot 140}{28} = 5,00\\text{ L}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.64,
+      "bundle_id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v15",
+      "statement": "Un gas comprimido a temperatura constante ocupa un volumen $V_1 = 150\\text{ L}$ a $P_1 = 1\\text{ atm}$. Si la presión sube a $P_2 = 30\\text{ atm}$, ¿cuál es el nuevo volumen $V_2$?",
+      "context": "Leyes de los gases ideales y procesos termodinámicos Caso N° 15.\n**ID:** AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v15\n**Bloom:** Apply\n**EJE:** Física y Química\n**Expected_Success:** 0.62",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Volumen final = $5,00\\text{ L}$",
+          "is_correct": true,
+          "feedback": "Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \\Rightarrow 1 \\cdot 150 = 30 \\cdot V_2 \\Rightarrow V_2 = 5,00\\text{ L}$."
+        },
+        {
+          "letter": "B",
+          "text": "Volumen final = $4500,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional."
+        },
+        {
+          "letter": "C",
+          "text": "Volumen final = $180,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional."
+        },
+        {
+          "letter": "D",
+          "text": "Volumen final = $0,1\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor fijo arbitrario fuera de cálculo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \\Rightarrow V_2 = \\frac{1 \\cdot 150}{30} = 5,00\\text{ L}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v16",
+      "statement": "Un gas comprimido a temperatura constante ocupa un volumen $V_1 = 160\\text{ L}$ a $P_1 = 1\\text{ atm}$. Si la presión sube a $P_2 = 32\\text{ atm}$, ¿cuál es el nuevo volumen $V_2$?",
+      "context": "Leyes de los gases ideales y procesos termodinámicos Caso N° 16.\n**ID:** AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v16\n**Bloom:** Analyze\n**EJE:** Física y Química\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Volumen final = $5,00\\text{ L}$",
+          "is_correct": true,
+          "feedback": "Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \\Rightarrow 1 \\cdot 160 = 32 \\cdot V_2 \\Rightarrow V_2 = 5,00\\text{ L}$."
+        },
+        {
+          "letter": "B",
+          "text": "Volumen final = $5120,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional."
+        },
+        {
+          "letter": "C",
+          "text": "Volumen final = $192,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional."
+        },
+        {
+          "letter": "D",
+          "text": "Volumen final = $0,1\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor fijo arbitrario fuera de cálculo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \\Rightarrow V_2 = \\frac{1 \\cdot 160}{32} = 5,00\\text{ L}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v17",
+      "statement": "Un gas comprimido a temperatura constante ocupa un volumen $V_1 = 170\\text{ L}$ a $P_1 = 1\\text{ atm}$. Si la presión sube a $P_2 = 34\\text{ atm}$, ¿cuál es el nuevo volumen $V_2$?",
+      "context": "Leyes de los gases ideales y procesos termodinámicos Caso N° 17.\n**ID:** AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v17\n**Bloom:** Evaluate\n**EJE:** Física y Química\n**Expected_Success:** 0.58",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Volumen final = $5,00\\text{ L}$",
+          "is_correct": true,
+          "feedback": "Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \\Rightarrow 1 \\cdot 170 = 34 \\cdot V_2 \\Rightarrow V_2 = 5,00\\text{ L}$."
+        },
+        {
+          "letter": "B",
+          "text": "Volumen final = $5780,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional."
+        },
+        {
+          "letter": "C",
+          "text": "Volumen final = $204,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional."
+        },
+        {
+          "letter": "D",
+          "text": "Volumen final = $0,1\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor fijo arbitrario fuera de cálculo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \\Rightarrow V_2 = \\frac{1 \\cdot 170}{34} = 5,00\\text{ L}$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.58,
+      "bundle_id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v18",
+      "statement": "Un gas comprimido a temperatura constante ocupa un volumen $V_1 = 180\\text{ L}$ a $P_1 = 1\\text{ atm}$. Si la presión sube a $P_2 = 36\\text{ atm}$, ¿cuál es el nuevo volumen $V_2$?",
+      "context": "Leyes de los gases ideales y procesos termodinámicos Caso N° 18.\n**ID:** AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v18\n**Bloom:** Evaluate\n**EJE:** Física y Química\n**Expected_Success:** 0.56",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Volumen final = $5,00\\text{ L}$",
+          "is_correct": true,
+          "feedback": "Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \\Rightarrow 1 \\cdot 180 = 36 \\cdot V_2 \\Rightarrow V_2 = 5,00\\text{ L}$."
+        },
+        {
+          "letter": "B",
+          "text": "Volumen final = $6480,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional."
+        },
+        {
+          "letter": "C",
+          "text": "Volumen final = $216,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional."
+        },
+        {
+          "letter": "D",
+          "text": "Volumen final = $0,1\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor fijo arbitrario fuera de cálculo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \\Rightarrow V_2 = \\frac{1 \\cdot 180}{36} = 5,00\\text{ L}$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.56,
+      "bundle_id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v19",
+      "statement": "Un gas comprimido a temperatura constante ocupa un volumen $V_1 = 190\\text{ L}$ a $P_1 = 1\\text{ atm}$. Si la presión sube a $P_2 = 38\\text{ atm}$, ¿cuál es el nuevo volumen $V_2$?",
+      "context": "Leyes de los gases ideales y procesos termodinámicos Caso N° 19.\n**ID:** AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v19\n**Bloom:** Evaluate\n**EJE:** Física y Química\n**Expected_Success:** 0.54",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Volumen final = $5,00\\text{ L}$",
+          "is_correct": true,
+          "feedback": "Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \\Rightarrow 1 \\cdot 190 = 38 \\cdot V_2 \\Rightarrow V_2 = 5,00\\text{ L}$."
+        },
+        {
+          "letter": "B",
+          "text": "Volumen final = $7220,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional."
+        },
+        {
+          "letter": "C",
+          "text": "Volumen final = $228,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional."
+        },
+        {
+          "letter": "D",
+          "text": "Volumen final = $0,1\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor fijo arbitrario fuera de cálculo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \\Rightarrow V_2 = \\frac{1 \\cdot 190}{38} = 5,00\\text{ L}$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.54,
+      "bundle_id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v20",
+      "statement": "Un gas comprimido a temperatura constante ocupa un volumen $V_1 = 200\\text{ L}$ a $P_1 = 1\\text{ atm}$. Si la presión sube a $P_2 = 40\\text{ atm}$, ¿cuál es el nuevo volumen $V_2$?",
+      "context": "Leyes de los gases ideales y procesos termodinámicos Caso N° 20.\n**ID:** AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle-v20\n**Bloom:** Evaluate\n**EJE:** Física y Química\n**Expected_Success:** 0.52",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Volumen final = $5,00\\text{ L}$",
+          "is_correct": true,
+          "feedback": "Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \\Rightarrow 1 \\cdot 200 = 40 \\cdot V_2 \\Rightarrow V_2 = 5,00\\text{ L}$."
+        },
+        {
+          "letter": "B",
+          "text": "Volumen final = $8000,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional."
+        },
+        {
+          "letter": "C",
+          "text": "Volumen final = $240,00\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional."
+        },
+        {
+          "letter": "D",
+          "text": "Volumen final = $0,1\\text{ L}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor fijo arbitrario fuera de cálculo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \\Rightarrow V_2 = \\frac{1 \\cdot 200}{40} = 5,00\\text{ L}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.52,
+      "bundle_id": "AR-CIE-11-2026-W13-termodinamica-gases-ideales-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    }
+  ]
+}

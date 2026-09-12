@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-5-grade-6-subject-matematicas",
+    "generated_at": "2026-09-12T16:46:07.570Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-6-2026-W05-estadistica-datos-001-MASTERY-bundle-v1",
+      "statement": "La estadística es la rama de las matemáticas que se encarga de:",
+      "context": "En clase en Bogotá, los estudiantes recogen datos sobre deportes favoritos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recolectar, organizar, analizar e interpretar datos.",
+          "is_correct": true,
+          "feedback": "Correcto. La estadística trabaja con datos."
+        },
+        {
+          "letter": "B",
+          "text": "Solo dibujar figuras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es geometría."
+        },
+        {
+          "letter": "C",
+          "text": "Resolver ecuaciones únicamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un campo amplio."
+        },
+        {
+          "letter": "D",
+          "text": "Contar números sin contexto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estadística da contexto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La estadística permite tomar decisiones informadas basadas en datos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-6-2026-W05-estadistica-datos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W05-estadistica-datos-001-MASTERY-bundle-v2",
+      "statement": "Una variable cualitativa es aquella que:",
+      "context": "En un taller en Medellín, se diferencian tipos de variables.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Expresa una cualidad o atributo (por ejemplo, color favorito).",
+          "is_correct": true,
+          "feedback": "Correcto. Describe categorías."
+        },
+        {
+          "letter": "B",
+          "text": "Solo toma valores numéricos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es cuantitativa."
+        },
+        {
+          "letter": "C",
+          "text": "No se puede medir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Puede contar categorías."
+        },
+        {
+          "letter": "D",
+          "text": "Cambia con el tiempo exclusivamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es variable temporal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las variables cualitativas representan características no numéricas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-6-2026-W05-estadistica-datos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W05-estadistica-datos-001-MASTERY-bundle-v3",
+      "statement": "Las notas de un estudiante son 4, 3, 5 y 2. ¿Cuál es su promedio?",
+      "context": "En clase en Cali, se calcula la media.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3.5.",
+          "is_correct": true,
+          "feedback": "Correcto. $(4 + 3 + 5 + 2)/4 = 3.5$."
+        },
+        {
+          "letter": "B",
+          "text": "14.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la suma, no el promedio."
+        },
+        {
+          "letter": "C",
+          "text": "4.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aproximaste."
+        },
+        {
+          "letter": "D",
+          "text": "3.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No promediaste correctamente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La media aritmética se calcula sumando los datos y dividiendo por la cantidad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.84,
+      "bundle_id": "CO-MAT-6-2026-W05-estadistica-datos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W05-estadistica-datos-001-MASTERY-bundle-v4",
+      "statement": "En una encuesta, los colores favoritos fueron: rojo (5), azul (8), verde (3), blanco (2). ¿Cuál es la moda?",
+      "context": "En clase en Pereira, se trabaja con la moda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Azul.",
+          "is_correct": true,
+          "feedback": "Correcto. Es el dato que más se repite."
+        },
+        {
+          "letter": "B",
+          "text": "Rojo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aparece 5 veces."
+        },
+        {
+          "letter": "C",
+          "text": "Verde.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo 3 veces."
+        },
+        {
+          "letter": "D",
+          "text": "Blanco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo 2 veces."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La moda es el valor con mayor frecuencia en un conjunto de datos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.84,
+      "bundle_id": "CO-MAT-6-2026-W05-estadistica-datos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W05-estadistica-datos-001-MASTERY-bundle-v5",
+      "statement": "Para los datos 2, 5, 7, 9, 11, ¿cuál es la mediana?",
+      "context": "En Tunja, se determina la mediana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7.",
+          "is_correct": true,
+          "feedback": "Correcto. Es el valor central."
+        },
+        {
+          "letter": "B",
+          "text": "5.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el segundo dato."
+        },
+        {
+          "letter": "C",
+          "text": "9.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el cuarto dato."
+        },
+        {
+          "letter": "D",
+          "text": "34.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la suma."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La mediana es el valor que ocupa la posición central cuando los datos están ordenados.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-6-2026-W05-estadistica-datos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W05-estadistica-datos-001-MASTERY-bundle-v6",
+      "statement": "Si en una encuesta 30 personas prefieren el fútbol, 10 el baloncesto y 20 el ciclismo, ¿qué porcentaje prefiere ciclismo?",
+      "context": "En clase en Manizales, se construyen tablas de frecuencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "33.3 %.",
+          "is_correct": true,
+          "feedback": "Correcto. $20/60 \\cdot 100 = 33.3\\%$."
+        },
+        {
+          "letter": "B",
+          "text": "50 %.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sería si 30 prefirieran ciclismo."
+        },
+        {
+          "letter": "C",
+          "text": "60 %.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No coincide con los datos."
+        },
+        {
+          "letter": "D",
+          "text": "20 %.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el número crudo, no el porcentaje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El porcentaje se calcula dividiendo la frecuencia del dato entre el total y multiplicando por 100.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-6-2026-W05-estadistica-datos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W05-estadistica-datos-001-MASTERY-bundle-v7",
+      "statement": "¿Qué información es más apropiada representar en un gráfico de barras?",
+      "context": "En Armenia, se interpretan gráficos de barras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cantidades comparadas entre categorías discretas.",
+          "is_correct": true,
+          "feedback": "Correcto. Las barras facilitan la comparación."
+        },
+        {
+          "letter": "B",
+          "text": "Funciones continuas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para eso se usan gráficos de línea."
+        },
+        {
+          "letter": "C",
+          "text": "Solo números muy grandes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las barras sirven para distintos rangos."
+        },
+        {
+          "letter": "D",
+          "text": "Datos cíclicos únicamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para cíclicos se usa otro tipo de gráfico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El gráfico de barras muestra diferencias entre categorías mediante alturas proporcionales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-6-2026-W05-estadistica-datos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W05-estadistica-datos-001-MASTERY-bundle-v8",
+      "statement": "En un gráfico circular (pie), el total de los porcentajes debe sumar:",
+      "context": "En clase en Popayán, se interpreta un gráfico circular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 %.",
+          "is_correct": true,
+          "feedback": "Correcto. La circunferencia completa equivale al 100 %."
+        },
+        {
+          "letter": "B",
+          "text": "360 %.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 360° no es 360 %."
+        },
+        {
+          "letter": "C",
+          "text": "50 %.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo sería una mitad."
+        },
+        {
+          "letter": "D",
+          "text": "200 %.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El gráfico circular distribuye el todo (100 %) en porciones proporcionales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-6-2026-W05-estadistica-datos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W05-estadistica-datos-001-MASTERY-bundle-v9",
+      "statement": "Para que una encuesta sea confiable, ¿qué requisito es fundamental?",
+      "context": "En un proyecto en Bucaramanga, se evalúa una encuesta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tener una muestra representativa y preguntas claras.",
+          "is_correct": true,
+          "feedback": "Correcto. La calidad de los datos depende de ello."
+        },
+        {
+          "letter": "B",
+          "text": "Preguntar solo a amigos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La muestra debe ser diversa."
+        },
+        {
+          "letter": "C",
+          "text": "Evitar tabular los datos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tabulación es clave."
+        },
+        {
+          "letter": "D",
+          "text": "No publicar resultados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Comunicar es importante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una encuesta válida requiere muestra, preguntas neutrales y análisis riguroso.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-6-2026-W05-estadistica-datos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W05-estadistica-datos-001-MASTERY-bundle-v10",
+      "statement": "El análisis estadístico ayuda a tomar decisiones porque:",
+      "context": "En un cierre en Medellín, se analiza la toma de decisiones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo sirve para adivinar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se basa en datos."
+        },
+        {
+          "letter": "B",
+          "text": "Permite resumir información, identificar tendencias y reducir la incertidumbre.",
+          "is_correct": true,
+          "feedback": "Correcto. La estadística informa decisiones."
+        },
+        {
+          "letter": "C",
+          "text": "Reemplaza el juicio humano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lo complementa."
+        },
+        {
+          "letter": "D",
+          "text": "Evita consultar fuentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las usa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La estadística es una herramienta para comprender la realidad con base en evidencia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-6-2026-W05-estadistica-datos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

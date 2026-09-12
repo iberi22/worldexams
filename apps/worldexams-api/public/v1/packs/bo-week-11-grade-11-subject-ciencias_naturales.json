@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "bo",
+    "pack_id": "bo-week-11-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T16:46:07.235Z"
+  },
+  "questions": [
+    {
+      "id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de los siguientes sistemas químicos se clasifica como una mezcla homogénea de una sola fase a nivel molecular?",
+      "context": "En La Paz, el estudiante Grover del Colegio Nacional Ayacucho prepara en el laboratorio una muestra para analizar sus propiedades físicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Suspensión de hidróxido de aluminio en agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una suspensión heterogénea donde las partículas sólidas sedimentan."
+        },
+        {
+          "letter": "B",
+          "text": "Polvo de azufre mezclado con limaduras de hierro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una mezcla heterogénea sólida cuyos componentes conservan su fase física indiciaria."
+        },
+        {
+          "letter": "C",
+          "text": "Agua con aceite de cocina agitado fuertemente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Forma una emulsión heterogénea inestable de dos fases inmiscibles."
+        },
+        {
+          "letter": "D",
+          "text": "Solución acuosa de cloruro de sodio (NaCl) al 5% m/v",
+          "is_correct": true,
+          "feedback": "Correcto. Una solución verdadera forma una sola fase homogénea a nivel molecular o iónico."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las soluciones químicas verdaderas son mezclas homogéneas monofásicas donde el soluto se dispersa de forma individual como iones o moléculas en el solvente.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v2",
+      "statement": "En la preparación de 250 mL de solución acuosa de azúcar (sacarosa), ¿qué componente actúa como el solvente?",
+      "context": "En Cochabamba, la estudiante Roxana de la Unidad Educativa Don Bosco mide el volumen de líquido en un matraz aforado de 250 mL.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua líquida por ser el componente dispersante en mayor proporción",
+          "is_correct": true,
+          "feedback": "Correcto. El solvente es el medio dispersante que se halla en mayor proporción molar y volumétrica."
+        },
+        {
+          "letter": "B",
+          "text": "El aire atrapado en la parte superior del matraz",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fase gaseosa no forma parte de la solución líquida binaria de sacarosa."
+        },
+        {
+          "letter": "C",
+          "text": "El recipiente de vidrio pirex del matraz",
+          "is_correct": false,
+          "feedback": "Incorrecto. El matraz es el instrumental de contención física, no un componente químico de la mezcla."
+        },
+        {
+          "letter": "D",
+          "text": "Los cristales de sacarosa disueltos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sacarosa es el soluto disuelto dispersado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En soluciones acuosas ordinarias, el agua actúa como solvente universal polar disolviendo a las especies solutas.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la fórmula fundamental para calcular la Molaridad (M) de una solución química?",
+      "context": "En Santa Cruz, el estudiante Jhonny del Colegio Bolívar calcula la concentración de un reactivo preparado para titulación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "M = Moles de soluto / Litros de solución",
+          "is_correct": true,
+          "feedback": "Correcto. La Molaridad expresa la concentración en moles de soluto disueltos por litro de solución total."
+        },
+        {
+          "letter": "B",
+          "text": "M = Gramos de soluto / Kilogramos de solvente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta relación no corresponde ni a Molaridad ni a Molalidad estándar."
+        },
+        {
+          "letter": "C",
+          "text": "M = Litros de solución / Moles de solvente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el inverso sin significado de concentración molar."
+        },
+        {
+          "letter": "D",
+          "text": "M = Moles de solvente / Gramos de solución",
+          "is_correct": false,
+          "feedback": "Incorrecto. No relaciona los moles de soluto con el volumen de solución."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Molaridad (M = n / V_litros) es la unidad de concentración volumétrica fundamental en química de soluciones.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v4",
+      "statement": "¿Qué diferencia a la Molalidad (m) de la Molaridad (M) en fisicoquímica?",
+      "context": "En El Alto, la estudiante Marisol del Colegio San Simón compara el comportamiento térmico de dos unidades de concentración en el laboratorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La molalidad varía al dilatarse térmicamente la solución",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al basarse en masa (kg), la molalidad permanece constante aunque cambie la temperatura."
+        },
+        {
+          "letter": "B",
+          "text": "La molalidad depende directamente del volumen del recipiente de reacción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las unidades de concentración no dependen de la forma o tamaño del contenedor."
+        },
+        {
+          "letter": "C",
+          "text": "La molalidad relaciona moles de soluto con masa de solvente (mol/kg) y no varía con la temperatura",
+          "is_correct": true,
+          "feedback": "Correcto. La molalidad depende de la masa de solvente en kg y es independiente de la dilatación térmica."
+        },
+        {
+          "letter": "D",
+          "text": "La molalidad mide el volumen total de solución en litros",
+          "is_correct": false,
+          "feedback": "Incorrecto. El volumen en litros se utiliza para calcular la Molaridad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Dado que la masa no cambia con la temperatura pero el volumen sí se dilata o contrae, la molalidad es independiente de la temperatura.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v5",
+      "statement": "Se disuelven 20 gramos de sulfato de sodio (Na2SO4) en 80 gramos de agua pura. ¿Cuál es el porcentaje en masa (% m/m) de la solución?",
+      "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín realiza un cálculo pesando soluto y solvente en una balanza analítica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "16% m/m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cálculo erróneo de la proporción centesimal en masa."
+        },
+        {
+          "letter": "B",
+          "text": "80% m/m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al porcentaje del solvente agua, no del soluto."
+        },
+        {
+          "letter": "C",
+          "text": "25% m/m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurre si se divide por 80 g de solvente en lugar de 100 g de solución total."
+        },
+        {
+          "letter": "D",
+          "text": "20% m/m",
+          "is_correct": true,
+          "feedback": "Correcto. % m/m = (20 g soluto / 100 g solución total) * 100 = 20%."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El porcentaje en masa (% m/m) evalúa los gramos de soluto presentes en 100 gramos de solución total (soluto + solvente).\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v6",
+      "statement": "Para preparar 500 mL de una solución acuosa de HCl 2.0 M a partir de una solución madre 10.0 M, ¿qué volumen de la solución concentrada se requiere diluir?",
+      "context": "En Potosí, el estudiante Ronald de la Unidad Educativa Juan Pablo II efectúa los cálculos de dilución en la campana de extracción de gases.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50 mL",
+          "is_correct": false,
+          "feedback": "Incorrecto. Produciría una solución diluida de solo 1.0 M."
+        },
+        {
+          "letter": "B",
+          "text": "250 mL",
+          "is_correct": false,
+          "feedback": "Incorrecto. Generaría una concentración final de 5.0 M, superior a la deseada."
+        },
+        {
+          "letter": "C",
+          "text": "100 mL",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando C1*V1 = C2*V2: 10.0 M * V1 = 2.0 M * 500 mL -> V1 = 100 mL."
+        },
+        {
+          "letter": "D",
+          "text": "200 mL",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error algebraico en el despeje de la ecuación de dilución."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En el proceso de dilución la cantidad de moles de soluto no varía (n1 = n2), por lo que se cumple C1 * V1 = C2 * V2.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v7",
+      "statement": "Una solución que contiene disuelta la máxima cantidad de soluto posible a una temperatura dada se denomina:",
+      "context": "En Oruro, el estudiante Limbert del Colegio San Calixto observa la disolución progresiva de sal cristalina en agua caliente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solución coloidal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se refiere a un tamaño de partícula heterogéneo (1-1000 nm)."
+        },
+        {
+          "letter": "B",
+          "text": "Solución insaturada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Puede disolver aún más soluto a esa temperatura."
+        },
+        {
+          "letter": "C",
+          "text": "Solución saturada",
+          "is_correct": true,
+          "feedback": "Correcto. Alcanza el límite de solubilidad en equilibrio dinámico a esa temperatura."
+        },
+        {
+          "letter": "D",
+          "text": "Solución sobresaturada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contiene más soluto del límite de equilibrio metaestable."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En el equilibrio dinámico entre soluto disuelto y soluto no disuelto a temperatura constante, la solución se halla saturada.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v8",
+      "statement": "Al enfriar rápidamente una solución saturada caliente de nitrato de potasio (KNO3) sin perturbaciones bruscas, se obtiene un sistema inestable denominado:",
+      "context": "En Tarija, la estudiante Shirley del Colegio Nacional Pichincha somete un tubo de ensayo con nitrato de potasio a un baño de hielo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solución sobresaturada",
+          "is_correct": true,
+          "feedback": "Correcto. Mantiene metaestablemente más soluto disuelto que su límite en equilibrio a menor temperatura."
+        },
+        {
+          "letter": "B",
+          "text": "Suspensión gruesa sedimentada",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la solución sobresaturada no se observa sedimento hasta cristalizar."
+        },
+        {
+          "letter": "C",
+          "text": "Solución insaturada diluida",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contiene un exceso metaestable de soluto."
+        },
+        {
+          "letter": "D",
+          "text": "Solución isotónica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Concepto biológico relativo a presiones osmóticas en células."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las soluciones sobresaturadas contienen una masa disuelta superior a la de saturación en estado metaestable; un pequeño cristal provoca su rápida precipitación.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v9",
+      "statement": "¿Cómo influye habitualmente el aumento de temperatura en la solubilidad de la mayoría de los sólidos iónicos en agua?",
+      "context": "En Trinidad, el estudiante Boris del Colegio Antonio Vaca Díez construye una curva de solubilidad midiendo la temperatura de cristalización.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disminuye drásticamente la solubilidad hasta cero",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aumento de temperatura facilita el desmantelamiento de la red iónica sólida."
+        },
+        {
+          "letter": "B",
+          "text": "Aumenta la solubilidad del sólido iónico en el agua",
+          "is_correct": true,
+          "feedback": "Correcto. Al ser el proceso de disolución mayoritariamente endotérmico, el calor favorece la solubilidad."
+        },
+        {
+          "letter": "C",
+          "text": "Mantiene la solubilidad exactamente constante sin variaciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. La solubilidad es una propiedad marcadamente termodependiente."
+        },
+        {
+          "letter": "D",
+          "text": "Provoca la gasificación inmediata del soluto sólido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las sales iónicas poseen puntos de ebullición extremadamente elevados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El aporte de energía térmica incrementa la solubilidad de sales solubles debido a la endotermicidad de la solvatación de la red cristalina.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v10",
+      "statement": "Según la Ley de Henry, ¿qué ocurre con la solubilidad de un gas en un líquido cuando se triplica la presión parcial del gas sobre el líquido?",
+      "context": "En Cobija, el estudiante Franz del Colegio Nacional Florida estudia la solubilización de nitrógeno en líquidos biológicos a alta presión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El gas se transforma en soluto sólido insoluble",
+          "is_correct": false,
+          "feedback": "Incorrecto. El incremento de presión no altera el estado de agregación del gas disuelto."
+        },
+        {
+          "letter": "B",
+          "text": "La solubilidad del gas disminuye a la tercera parte",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confunde la relación directa con una relación inversamente proporcional."
+        },
+        {
+          "letter": "C",
+          "text": "La solubilidad del gas se triplica",
+          "is_correct": true,
+          "feedback": "Correcto. S_gas = k * P_gas; la solubilidad es directamente proporcional a la presión parcial del gas."
+        },
+        {
+          "letter": "D",
+          "text": "La solubilidad del gas se mantiene inalterada",
+          "is_correct": false,
+          "feedback": "Incorrecto. La presión fuerza la entrada de más moléculas gaseosas a la fase líquida."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Ley de Henry (S = k*P) demuestra que mayor presión gaseosa sobre la superficie líquida empuja más moléculas de gas a disolverse.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la Normalidad (N) de una solución de ácido sulfúrico (H2SO4) de concentración 1.5 M utilizada en una reacción de neutralización total?",
+      "context": "En Tupiza, la estudiante Nancy del Colegio Nacional Ayacucho determina el equivalente ácido mediante valoraciones titulométricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4.5 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicación errónea por 3 equivalentes."
+        },
+        {
+          "letter": "B",
+          "text": "3.0 N",
+          "is_correct": true,
+          "feedback": "Correcto. Como el H2SO4 libera 2 protones H+ por mol, N = M * 2 = 1.5 * 2 = 3.0 N."
+        },
+        {
+          "letter": "C",
+          "text": "1.5 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurre en monopróticos como el HCl donde el número de equivalentes es 1."
+        },
+        {
+          "letter": "D",
+          "text": "0.75 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resulta de dividir erróneamente la molaridad entre 2."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La normalidad de un ácido equivale a N = M * (número de H+ sustituibles). Para H2SO4 diprótico, N = 1.5 M * 2 = 3.0 N.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v12",
+      "statement": "Se mezclan 2 moles de etanol con 8 moles de agua. ¿Cuál es la fracción molar (X) del etanol en la solución resultante?",
+      "context": "En Uyuni, el estudiante Edwin de la Unidad Educativa Don Bosco calcula las propiedades de equilibrio líquido-vapor de una mezcla binaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.00",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fracciones molares son siempre adimensionales y estrictamente menores que 1."
+        },
+        {
+          "letter": "B",
+          "text": "0.80",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la fracción molar del solvente agua."
+        },
+        {
+          "letter": "C",
+          "text": "0.20",
+          "is_correct": true,
+          "feedback": "Correcto. X_etanol = n_etanol / n_total = 2 / (2 + 8) = 2 / 10 = 0.20."
+        },
+        {
+          "letter": "D",
+          "text": "0.25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resulta de dividir 2 / 8 (moles de soluto entre moles de solvente)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La fracción molar Xi = ni / n_totales representa la proporción adimensional de moles de un componente frente al total de la solución.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v13",
+      "statement": "Las propiedades coligativas de las soluciones se caracterizan fundamentalmente porque:",
+      "context": "En Viacha, el estudiante Marcelo del Colegio Bolívar investiga las alteraciones físicas producidas al disolver solutos en agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dependen exclusivamente del número de partículas de soluto disueltas y no de su naturaleza química",
+          "is_correct": true,
+          "feedback": "Correcto. Definen propiedades físicas como la presión osmótica o el punto de ebullición según la concentración de partículas."
+        },
+        {
+          "letter": "B",
+          "text": "Son inversamente proporcionales a la constante del solvente puro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las constantes ebulloscópicas o crioscópicas son factores de proporcionalidad directa."
+        },
+        {
+          "letter": "C",
+          "text": "Dependen únicamente del color y densidad intrínseca del soluto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son independientes del color o identidad química particular del soluto."
+        },
+        {
+          "letter": "D",
+          "text": "Aumentan únicamente cuando el soluto es un gas noble inerte",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplican a solutos no volátiles iónicos o moleculares por igual."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las 4 propiedades coligativas dependen únicamente de la concentración numérica (moles o partículas) de soluto presentes.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v14",
+      "statement": "¿Qué fenómeno coligativo explica por qué se añade sal (NaCl) a las carreteras heladas para derretir la capa de nieve a temperaturas bajo cero?",
+      "context": "En Quillacollo, el estudiante Freddy del Colegio San Simón analiza el comportamiento del agua salina frente a bajas temperaturas climáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Descenso de la presión parcial del aire",
+          "is_correct": false,
+          "feedback": "Incorrecto. La presión atmosférica no cambia por la aplicación de sal sólida."
+        },
+        {
+          "letter": "B",
+          "text": "Presión osmótica inversa de la sal",
+          "is_correct": false,
+          "feedback": "Incorrecto. La presión osmótica se refiere a la difusión a través de membranas."
+        },
+        {
+          "letter": "C",
+          "text": "Aumento ebulloscópico del agua líquida",
+          "is_correct": false,
+          "feedback": "Incorrecto. El incremento ebulloscópico eleva el punto de ebullición, no de congelación."
+        },
+        {
+          "letter": "D",
+          "text": "Descenso crioscópico (depresión del punto de congelación)",
+          "is_correct": true,
+          "feedback": "Correcto. La sal disuelta disminuye la temperatura de congelación del agua por debajo de 0 °C."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El descenso crioscópico (ΔTc = Kc * m * i) disminuye el punto de congelación del solvente permitiendo que el hielo se licúe a sub-cero.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v15",
+      "statement": "Según la Ley de Raoult para soluciones ideales de solutos no volátiles, la presión de vapor de la solución es:",
+      "context": "En Sacaba, el estudiante René del Colegio Nacional Junín mide la presión de vapor de soluciones ideales en un manómetro en U.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Igual a la suma de las masas molares de soluto y solvente",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ley de Raoult relaciona presiones con fracciones molares en equilibrio."
+        },
+        {
+          "letter": "B",
+          "text": "Inversamente proporcional al volumen del recipiente cerrado",
+          "is_correct": false,
+          "feedback": "Incorrecto. La presión de vapor en equilibrio no depende del volumen del espacio de cabeza."
+        },
+        {
+          "letter": "C",
+          "text": "Igual a la presión de vapor del soluto puro multiplicada por la temperatura",
+          "is_correct": false,
+          "feedback": "Incorrecto. El soluto es no volátil y no ejerce presión de vapor apreciable."
+        },
+        {
+          "letter": "D",
+          "text": "Directamente proporcional a la fracción molar del solvente",
+          "is_correct": true,
+          "feedback": "Correcto. P_solución = X_solvente * P°_solvente."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La disminución de la presión de vapor ocurre porque las partículas de soluto ocupan espacio en la superficie reduciendo el escape de solvente.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v16",
+      "statement": "Para una solución 1.0 m de glucosa (no electrolito, i = 1) y una solución 1.0 m de CaCl2 (electrolito fuerte, i = 3), ¿cómo se compara el aumento ebulloscópico (ΔTe)?",
+      "context": "En Montero, la estudiante Lidia de la Unidad Educativa Juan Pablo II compara la temperatura de ebullición de soluciones iónicas y moleculares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El ΔTe de la solución de CaCl2 es 3 veces mayor que el de la solución de glucosa",
+          "is_correct": true,
+          "feedback": "Correcto. ΔTe = Ke * m * i. Para CaCl2 i = 3 (1 Ca2+ + 2 Cl-), mientras que para glucosa i = 1."
+        },
+        {
+          "letter": "B",
+          "text": "El ΔTe de ambas soluciones es exactamente idéntico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignora el factor de disociación iónica de van 't Hoff del CaCl2."
+        },
+        {
+          "letter": "C",
+          "text": "La solución de glucosa experimenta un aumento ebulloscópico 3 veces mayor",
+          "is_correct": false,
+          "feedback": "Incorrecto. La glucosa no se disocia en iones al disolverse."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna de las dos soluciones modifica su punto de ebullición",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas soluciones elevan su temperatura de ebullición respecto al agua pura."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El factor i de van 't Hoff cuantifica las partículas producidas: CaCl2 -> Ca2+ + 2 Cl- (3 partículas), multiplicando por 3 el efecto coligativo.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v17",
+      "statement": "Al calcular la presión osmótica (π) ejercida por una solución acuosa de NaCl 0.1 M a 300 K (considerando R = 0.082 L*atm/(mol*K) e i = 2), ¿qué valor de presión se obtiene?",
+      "context": "En Riberalta, el estudiante Mateo del Colegio San Calixto evalúa la presión osmótica requerida en procesos de desalinización de agua de mar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4.92 atm",
+          "is_correct": true,
+          "feedback": "Correcto. π = i * M * R * T = 2 * 0.1 mol/L * 0.082 * 300 K = 4.92 atm."
+        },
+        {
+          "letter": "B",
+          "text": "2.46 atm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurre si se olvida multiplicar por el factor de van 't Hoff i = 2 del NaCl."
+        },
+        {
+          "letter": "C",
+          "text": "9.84 atm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al duplicar erróneamente la concentración molar."
+        },
+        {
+          "letter": "D",
+          "text": "0.246 atm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Desplazamiento incorrecto de la coma decimal en el cálculo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La presión osmótica π = i*M*R*T mide la fuerza osmótica. Para NaCl disociado (i=2): π = 2 * 0.1 * 0.082 * 300 = 4.92 atm.\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v18",
+      "statement": "Se disuelven 18 g de un soluto desconocido no volátil ni disociable (i = 1) en 100 g de agua pura (Ke = 0.52 °C/m). Si el punto de ebullición sube 0.52 °C, ¿cuál es la masa molar del soluto?",
+      "context": "En Warnes, la estudiante Camila del Colegio Nacional Pichincha aplica la ebullometría para caracterizar la masa molecular de una sustancia desconocida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "90 g/mol",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al calcular la relación entre moles de soluto y masa de solvente en kg."
+        },
+        {
+          "letter": "B",
+          "text": "60 g/mol",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la masa molar de la urea, no al dato deducido experimentalmente."
+        },
+        {
+          "letter": "C",
+          "text": "360 g/mol",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicación errónea de la masa molar del compuesto analizante."
+        },
+        {
+          "letter": "D",
+          "text": "180 g/mol",
+          "is_correct": true,
+          "feedback": "Correcto. ΔTe = Ke * m -> 0.52 = 0.52 * m -> m = 1.0 mol/kg. m = moles / 0.1 kg H2O -> moles = 0.1 mol. Masa molar = 18 g / 0.1 mol = 180 g/mol."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Utilizando ebullometría: ΔTe = Ke * (g_soluto / Molaridad_g_mol) / kg_solvente. Se despeja la Masa Molar = 180 g/mol.\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v19",
+      "statement": "Un paciente hospitalizado requiere una solución salina de NaCl al 0.9% m/v (suero fisiológico). ¿Por qué una inyección de agua destilada pura (0% m/v) causaría la lisis de los glóbulos rojos?",
+      "context": "En Colcapirhua, el estudiante Gonzalo del Colegio Antonio Vaca Díez analiza el impacto biológico de las variaciones de tonicidad en hemodiálisis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la ausencia de sal altera la temperatura de ebullición del torrente sanguíneo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fenómeno coligativo relevante en sistemas celulares vivos es la presión osmótica."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el agua destilada reacciona químicamente destruyendo los enlaces de hemoglobina",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fenómeno destructivo es de origen físico osmótico, no una reacción química covalente."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el agua destilada es hipotónica respecto al citoplasma celular, provocando la entrada masiva de agua a la célula por ósmosis hasta romperla",
+          "is_correct": true,
+          "feedback": "Correcto. En medio hipotónico, el agua fluye por ósmosis hacia el interior hipertónico celular provocando turgencia y lisis hemodinámica."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el agua destilada es hipertónica y extrae el agua celular deshidratando los eritrocitos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El medio hipertónico causa plasmólocis o crenación celular, no entrada masiva de agua."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los eritrocitos son isotónicos con el suero al 0.9% m/v. El agua destilada (hipotónica) fuerza el flujo endosmótico destruyendo las células por turgencia.\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v20",
+      "statement": "Al comparar la eficiencia de tres sales (NaCl, CaCl2 y AlCl3) disueltas a la misma concentración molal para evitar la congelación de agua en sistemas de refrigeración, ¿cuál es la mejor opción?",
+      "context": "En Yacuiba, la estudiante Paola del Colegio Nacional Florida diseña una mezcla anticongelante optimizada para la industria del gas y refrigeración.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "CaCl2 porque reacciona de forma exotérmica destruyendo las moléculas de solvente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las propiedades coligativas dependen de partículas disueltas, no del calor inicial de solvatación."
+        },
+        {
+          "letter": "B",
+          "text": "AlCl3 por disociarse en 4 iones (i = 4), generando el mayor descenso crioscópico posible a igual molalidad",
+          "is_correct": true,
+          "feedback": "Correcto. AlCl3 -> Al3+ + 3 Cl- (i = 4). A mayor número de iones disociados, mayor es la depresión del punto de congelación."
+        },
+        {
+          "letter": "C",
+          "text": "NaCl porque posee la menor masa molar entre todas las sales probadas",
+          "is_correct": false,
+          "feedback": "Incorrecto. A igual molalidad, el factor determinante es el número de partículas disociadas (i=2 para NaCl)."
+        },
+        {
+          "letter": "D",
+          "text": "Las tres sales disminuyen la temperatura de congelación exactamente en la misma magnitud",
+          "is_correct": false,
+          "feedback": "Incorrecto. Desatiende el factor de disociación iónica i, que vale 2, 3 y 4 respectivamente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dado que ΔTc = Kc * m * i, la sal AlCl3 produce 4 moles de partículas iónicas por mol de sal (i=4), maximizando el descenso crioscópico.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    }
+  ]
+}

@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-2-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T16:46:07.401Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-6-2026-W02-ecosistemas-colombianos-001-MASTERY-bundle-v1",
+      "statement": "Un ecosistema está formado por:",
+      "context": "En clase en Bogotá, los estudiantes exploran los ecosistemas colombianos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Organismos vivos (factores bióticos) y componentes no vivos (factores abióticos) que interactúan.",
+          "is_correct": true,
+          "feedback": "Correcto. Bióticos + abióticos."
+        },
+        {
+          "letter": "B",
+          "text": "Solo animales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Incluye plantas, hongos y otros."
+        },
+        {
+          "letter": "C",
+          "text": "Solo el suelo y el agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Faltan los organismos."
+        },
+        {
+          "letter": "D",
+          "text": "Solo plantas y rocas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Incluye también animales y microorganismos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Colombia es uno de los países más megadiversos del mundo gracias a su variedad de ecosistemas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-6-2026-W02-ecosistemas-colombianos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W02-ecosistemas-colombianos-001-MASTERY-bundle-v2",
+      "statement": "Un bioma se diferencia de un ecosistema porque:",
+      "context": "En clase en Medellín, se diferencia bioma y ecosistema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El bioma agrupa ecosistemas con condiciones climáticas similares a gran escala.",
+          "is_correct": true,
+          "feedback": "Correcto. Ej.: bioma selva tropical."
+        },
+        {
+          "letter": "B",
+          "text": "El bioma es más pequeño que un ecosistema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es más extenso."
+        },
+        {
+          "letter": "C",
+          "text": "El ecosistema se limita a zonas urbanas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Puede estar en cualquier lugar."
+        },
+        {
+          "letter": "D",
+          "text": "Son sinónimos exactos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tienen escalas distintas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los biomas se definen principalmente por el clima y la vegetación dominante.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-6-2026-W02-ecosistemas-colombianos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W02-ecosistemas-colombianos-001-MASTERY-bundle-v3",
+      "statement": "La Amazonía colombiana se caracteriza por:",
+      "context": "En clase en Cali, se identifica la selva húmeda tropical.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alta biodiversidad, clima cálido y húmedo, y ríos caudalosos.",
+          "is_correct": true,
+          "feedback": "Correcto. Es selva húmeda tropical."
+        },
+        {
+          "letter": "B",
+          "text": "Climas fríos y nevados permanentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso corresponde a los Andes altos."
+        },
+        {
+          "letter": "C",
+          "text": "Suelos desérticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tiene alta humedad."
+        },
+        {
+          "letter": "D",
+          "text": "Escasa vegetación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es muy boscosa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Amazonía alberga cerca del 10 % de la biodiversidad mundial.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.84,
+      "bundle_id": "CO-CN-6-2026-W02-ecosistemas-colombianos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W02-ecosistemas-colombianos-001-MASTERY-bundle-v4",
+      "statement": "El ecosistema de páramo se caracteriza por:",
+      "context": "En clase en Pereira, se estudia el páramo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vegetación baja como frailejones, baja temperatura y agua en frailejones y lagunas.",
+          "is_correct": true,
+          "feedback": "Correcto. Es un ecosistema altoandino."
+        },
+        {
+          "letter": "B",
+          "text": "Selvas densas y clima cálido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es selva tropical."
+        },
+        {
+          "letter": "C",
+          "text": "Dunas y clima desértico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es desierto."
+        },
+        {
+          "letter": "D",
+          "text": "Sabanas y clima cálido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es la Orinoquía."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los páramos almacenan y regulan el agua, por eso son fundamentales para el recurso hídrico.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.84,
+      "bundle_id": "CO-CN-6-2026-W02-ecosistemas-colombianos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W02-ecosistemas-colombianos-001-MASTERY-bundle-v5",
+      "statement": "En un ecosistema, los productores son aquellos organismos que:",
+      "context": "En clase en Tunja, se estudian cadenas alimentarias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fabrican su propio alimento mediante fotosíntesis o quimiosíntesis.",
+          "is_correct": true,
+          "feedback": "Correcto. Son las plantas, algas y algunas bacterias."
+        },
+        {
+          "letter": "B",
+          "text": "Se alimentan de otros seres vivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son consumidores."
+        },
+        {
+          "letter": "C",
+          "text": "Descomponen materia orgánica muerta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son descomponedores."
+        },
+        {
+          "letter": "D",
+          "text": "Parasitan a otros organismos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son parásitos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las plantas son la base de las cadenas tróficas al transformar la energía solar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-6-2026-W02-ecosistemas-colombianos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W02-ecosistemas-colombianos-001-MASTERY-bundle-v6",
+      "statement": "Un jaguar que caza un venado en la selva es considerado:",
+      "context": "En clase en Manizales, se clasifican consumidores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Consumidor secundario (carnívoro).",
+          "is_correct": true,
+          "feedback": "Correcto. Se alimenta de herbívoros."
+        },
+        {
+          "letter": "B",
+          "text": "Productor primario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No fotosintetiza."
+        },
+        {
+          "letter": "C",
+          "text": "Descomponedor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No descompone materia."
+        },
+        {
+          "letter": "D",
+          "text": "Consumidor primario (herbívoro).",
+          "is_correct": false,
+          "feedback": "Incorrecto. No come plantas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los consumidores secundarios se alimentan de consumidores primarios como el venado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-6-2026-W02-ecosistemas-colombianos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W02-ecosistemas-colombianos-001-MASTERY-bundle-v7",
+      "statement": "Los manglares del Pacífico colombiano cumplen una función importante porque:",
+      "context": "En Armenia, se estudian los manglares del Pacífico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Protegen la costa, albergan fauna y fijan carbono.",
+          "is_correct": true,
+          "feedback": "Correcto. Son ecosistemas estratégicos."
+        },
+        {
+          "letter": "B",
+          "text": "Solo producen madera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tienen más funciones."
+        },
+        {
+          "letter": "C",
+          "text": "Impiden el desarrollo pesquero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lo protegen."
+        },
+        {
+          "letter": "D",
+          "text": "No aportan a la biodiversidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son muy ricos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los manglares son cruciales para la reproducción de especies marinas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.74,
+      "bundle_id": "CO-CN-6-2026-W02-ecosistemas-colombianos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W02-ecosistemas-colombianos-001-MASTERY-bundle-v8",
+      "statement": "La deforestación afecta los ecosistemas porque:",
+      "context": "En clase en Popayán, se analiza la deforestación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reduce la biodiversidad, altera el ciclo del agua y aumenta el calentamiento global.",
+          "is_correct": true,
+          "feedback": "Correcto. Tiene múltiples consecuencias."
+        },
+        {
+          "letter": "B",
+          "text": "Aumenta la producción agrícola.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Puede empobrecer el suelo."
+        },
+        {
+          "letter": "C",
+          "text": "Disminuye el efecto invernadero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lo aumenta."
+        },
+        {
+          "letter": "D",
+          "text": "Protege a las especies endémicas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las pone en riesgo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La deforestación es una de las principales amenazas a la biodiversidad colombiana.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-6-2026-W02-ecosistemas-colombianos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W02-ecosistemas-colombianos-001-MASTERY-bundle-v9",
+      "statement": "¿Qué estrategia es más efectiva para conservar los ecosistemas colombianos?",
+      "context": "En un proyecto en Bucaramanga, se discute la conservación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo declarar parques sin gestionarlos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gestión es clave."
+        },
+        {
+          "letter": "B",
+          "text": "Combinar áreas protegidas, educación ambiental y uso sostenible.",
+          "is_correct": true,
+          "feedback": "Correcto. Requiere estrategias integrales."
+        },
+        {
+          "letter": "C",
+          "text": "Prohibir todo uso humano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las comunidades son parte del ecosistema."
+        },
+        {
+          "letter": "D",
+          "text": "Reemplazar bosques por monocultivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reduce biodiversidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La conservación efectiva combina ciencia, política y participación comunitaria.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-6-2026-W02-ecosistemas-colombianos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W02-ecosistemas-colombianos-001-MASTERY-bundle-v10",
+      "statement": "¿Por qué Colombia es considerada un país megadiverso?",
+      "context": "En un cierre en Medellín, se reflexiona sobre la riqueza nacional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por su variedad de ecosistemas, alta biodiversidad y posición geográfica.",
+          "is_correct": true,
+          "feedback": "Correcto. Factores físicos y biológicos."
+        },
+        {
+          "letter": "B",
+          "text": "Por tener muchas ciudades.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diversidad no depende de ciudades."
+        },
+        {
+          "letter": "C",
+          "text": "Por su idioma oficial únicamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diversidad es biológica y cultural."
+        },
+        {
+          "letter": "D",
+          "text": "Por su equipo de fútbol.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tiene relación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Colombia ocupa los primeros lugares en biodiversidad de aves, anfibios y plantas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-6-2026-W02-ecosistemas-colombianos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

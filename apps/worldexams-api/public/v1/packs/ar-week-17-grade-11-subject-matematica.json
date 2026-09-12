@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematica",
+    "country": "ar",
+    "pack_id": "ar-week-17-grade-11-subject-matematica",
+    "generated_at": "2026-09-12T16:46:07.215Z"
+  },
+  "questions": [
+    {
+      "id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v1",
+      "statement": "¿Cuáles son las raíces reales del polinomio $P(x) = x^2 - 1$?",
+      "context": "Factorización y ceros de polinomios Caso N° 1.\n**ID:** AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v1\n**Bloom:** Remember\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 1$ y $x = -1$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando diferencia de cuadrados: $(x - 1)(x + 1) = 0 \\Rightarrow x = \\pm 1$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 2$ y $x = -2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada a la constante."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$ y $x = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no es raíz de este binomio."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 1$ únicamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó la raíz negativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Factorizando por diferencia de cuadrados $x^2 - 1 = (x - 1)(x + 1) = 0$, obtenemos $x = 1$ y $x = -1$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v2",
+      "statement": "¿Cuáles son las raíces reales del polinomio $P(x) = x^2 - 4$?",
+      "context": "Factorización y ceros de polinomios Caso N° 2.\n**ID:** AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v2\n**Bloom:** Remember\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 2$ y $x = -2$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando diferencia de cuadrados: $(x - 2)(x + 2) = 0 \\Rightarrow x = \\pm 2$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 4$ y $x = -4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada a la constante."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$ y $x = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no es raíz de este binomio."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 2$ únicamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó la raíz negativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Factorizando por diferencia de cuadrados $x^2 - 4 = (x - 2)(x + 2) = 0$, obtenemos $x = 2$ y $x = -2$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v3",
+      "statement": "¿Cuáles son las raíces reales del polinomio $P(x) = x^2 - 9$?",
+      "context": "Factorización y ceros de polinomios Caso N° 3.\n**ID:** AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v3\n**Bloom:** Understand\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.86",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 3$ y $x = -3$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando diferencia de cuadrados: $(x - 3)(x + 3) = 0 \\Rightarrow x = \\pm 3$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 9$ y $x = -9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada a la constante."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$ y $x = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no es raíz de este binomio."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 3$ únicamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó la raíz negativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Factorizando por diferencia de cuadrados $x^2 - 9 = (x - 3)(x + 3) = 0$, obtenemos $x = 3$ y $x = -3$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.86,
+      "bundle_id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v4",
+      "statement": "¿Cuáles son las raíces reales del polinomio $P(x) = x^2 - 16$?",
+      "context": "Factorización y ceros de polinomios Caso N° 4.\n**ID:** AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v4\n**Bloom:** Understand\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.84",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 4$ y $x = -4$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando diferencia de cuadrados: $(x - 4)(x + 4) = 0 \\Rightarrow x = \\pm 4$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 16$ y $x = -16$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada a la constante."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$ y $x = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no es raíz de este binomio."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 4$ únicamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó la raíz negativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Factorizando por diferencia de cuadrados $x^2 - 16 = (x - 4)(x + 4) = 0$, obtenemos $x = 4$ y $x = -4$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v5",
+      "statement": "¿Cuáles son las raíces reales del polinomio $P(x) = x^2 - 25$?",
+      "context": "Factorización y ceros de polinomios Caso N° 5.\n**ID:** AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v5\n**Bloom:** Understand\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.82",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 5$ y $x = -5$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando diferencia de cuadrados: $(x - 5)(x + 5) = 0 \\Rightarrow x = \\pm 5$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 25$ y $x = -25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada a la constante."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$ y $x = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no es raíz de este binomio."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 5$ únicamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó la raíz negativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Factorizando por diferencia de cuadrados $x^2 - 25 = (x - 5)(x + 5) = 0$, obtenemos $x = 5$ y $x = -5$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v6",
+      "statement": "¿Cuáles son las raíces reales del polinomio $P(x) = x^2 - 36$?",
+      "context": "Factorización y ceros de polinomios Caso N° 6.\n**ID:** AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v6\n**Bloom:** Apply\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 6$ y $x = -6$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando diferencia de cuadrados: $(x - 6)(x + 6) = 0 \\Rightarrow x = \\pm 6$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 36$ y $x = -36$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada a la constante."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$ y $x = 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no es raíz de este binomio."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 6$ únicamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó la raíz negativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Factorizando por diferencia de cuadrados $x^2 - 36 = (x - 6)(x + 6) = 0$, obtenemos $x = 6$ y $x = -6$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v7",
+      "statement": "¿Cuáles son las raíces reales del polinomio $P(x) = x^2 - 49$?",
+      "context": "Factorización y ceros de polinomios Caso N° 7.\n**ID:** AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v7\n**Bloom:** Apply\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 7$ y $x = -7$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando diferencia de cuadrados: $(x - 7)(x + 7) = 0 \\Rightarrow x = \\pm 7$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 49$ y $x = -49$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada a la constante."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$ y $x = 7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no es raíz de este binomio."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 7$ únicamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó la raíz negativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Factorizando por diferencia de cuadrados $x^2 - 49 = (x - 7)(x + 7) = 0$, obtenemos $x = 7$ y $x = -7$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v8",
+      "statement": "¿Cuáles son las raíces reales del polinomio $P(x) = x^2 - 64$?",
+      "context": "Factorización y ceros de polinomios Caso N° 8.\n**ID:** AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v8\n**Bloom:** Apply\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.76",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 8$ y $x = -8$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando diferencia de cuadrados: $(x - 8)(x + 8) = 0 \\Rightarrow x = \\pm 8$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 64$ y $x = -64$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada a la constante."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$ y $x = 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no es raíz de este binomio."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 8$ únicamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó la raíz negativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Factorizando por diferencia de cuadrados $x^2 - 64 = (x - 8)(x + 8) = 0$, obtenemos $x = 8$ y $x = -8$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.76,
+      "bundle_id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v9",
+      "statement": "¿Cuáles son las raíces reales del polinomio $P(x) = x^2 - 81$?",
+      "context": "Factorización y ceros de polinomios Caso N° 9.\n**ID:** AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v9\n**Bloom:** Apply\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.74",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 9$ y $x = -9$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando diferencia de cuadrados: $(x - 9)(x + 9) = 0 \\Rightarrow x = \\pm 9$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 81$ y $x = -81$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada a la constante."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$ y $x = 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no es raíz de este binomio."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 9$ únicamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó la raíz negativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Factorizando por diferencia de cuadrados $x^2 - 81 = (x - 9)(x + 9) = 0$, obtenemos $x = 9$ y $x = -9$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.74,
+      "bundle_id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v10",
+      "statement": "¿Cuáles son las raíces reales del polinomio $P(x) = x^2 - 100$?",
+      "context": "Factorización y ceros de polinomios Caso N° 10.\n**ID:** AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v10\n**Bloom:** Apply\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.72",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 10$ y $x = -10$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando diferencia de cuadrados: $(x - 10)(x + 10) = 0 \\Rightarrow x = \\pm 10$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 100$ y $x = -100$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada a la constante."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$ y $x = 10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no es raíz de este binomio."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 10$ únicamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó la raíz negativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Factorizando por diferencia de cuadrados $x^2 - 100 = (x - 10)(x + 10) = 0$, obtenemos $x = 10$ y $x = -10$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v11",
+      "statement": "¿Cuáles son las raíces reales del polinomio $P(x) = x^2 - 121$?",
+      "context": "Factorización y ceros de polinomios Caso N° 11.\n**ID:** AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v11\n**Bloom:** Analyze\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 11$ y $x = -11$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando diferencia de cuadrados: $(x - 11)(x + 11) = 0 \\Rightarrow x = \\pm 11$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 121$ y $x = -121$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada a la constante."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$ y $x = 11$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no es raíz de este binomio."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 11$ únicamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó la raíz negativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Factorizando por diferencia de cuadrados $x^2 - 121 = (x - 11)(x + 11) = 0$, obtenemos $x = 11$ y $x = -11$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v12",
+      "statement": "¿Cuáles son las raíces reales del polinomio $P(x) = x^2 - 144$?",
+      "context": "Factorización y ceros de polinomios Caso N° 12.\n**ID:** AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v12\n**Bloom:** Analyze\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.68",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 12$ y $x = -12$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando diferencia de cuadrados: $(x - 12)(x + 12) = 0 \\Rightarrow x = \\pm 12$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 144$ y $x = -144$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada a la constante."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$ y $x = 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no es raíz de este binomio."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 12$ únicamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó la raíz negativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Factorizando por diferencia de cuadrados $x^2 - 144 = (x - 12)(x + 12) = 0$, obtenemos $x = 12$ y $x = -12$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.68,
+      "bundle_id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v13",
+      "statement": "¿Cuáles son las raíces reales del polinomio $P(x) = x^2 - 169$?",
+      "context": "Factorización y ceros de polinomios Caso N° 13.\n**ID:** AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v13\n**Bloom:** Analyze\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.66",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 13$ y $x = -13$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando diferencia de cuadrados: $(x - 13)(x + 13) = 0 \\Rightarrow x = \\pm 13$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 169$ y $x = -169$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada a la constante."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$ y $x = 13$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no es raíz de este binomio."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 13$ únicamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó la raíz negativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Factorizando por diferencia de cuadrados $x^2 - 169 = (x - 13)(x + 13) = 0$, obtenemos $x = 13$ y $x = -13$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.66,
+      "bundle_id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v14",
+      "statement": "¿Cuáles son las raíces reales del polinomio $P(x) = x^2 - 196$?",
+      "context": "Factorización y ceros de polinomios Caso N° 14.\n**ID:** AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v14\n**Bloom:** Analyze\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.64",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 14$ y $x = -14$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando diferencia de cuadrados: $(x - 14)(x + 14) = 0 \\Rightarrow x = \\pm 14$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 196$ y $x = -196$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada a la constante."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$ y $x = 14$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no es raíz de este binomio."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 14$ únicamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó la raíz negativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Factorizando por diferencia de cuadrados $x^2 - 196 = (x - 14)(x + 14) = 0$, obtenemos $x = 14$ y $x = -14$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.64,
+      "bundle_id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v15",
+      "statement": "¿Cuáles son las raíces reales del polinomio $P(x) = x^2 - 225$?",
+      "context": "Factorización y ceros de polinomios Caso N° 15.\n**ID:** AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v15\n**Bloom:** Apply\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.62",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 15$ y $x = -15$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando diferencia de cuadrados: $(x - 15)(x + 15) = 0 \\Rightarrow x = \\pm 15$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 225$ y $x = -225$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada a la constante."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$ y $x = 15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no es raíz de este binomio."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 15$ únicamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó la raíz negativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Factorizando por diferencia de cuadrados $x^2 - 225 = (x - 15)(x + 15) = 0$, obtenemos $x = 15$ y $x = -15$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v16",
+      "statement": "¿Cuáles son las raíces reales del polinomio $P(x) = x^2 - 256$?",
+      "context": "Factorización y ceros de polinomios Caso N° 16.\n**ID:** AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v16\n**Bloom:** Analyze\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 16$ y $x = -16$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando diferencia de cuadrados: $(x - 16)(x + 16) = 0 \\Rightarrow x = \\pm 16$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 256$ y $x = -256$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada a la constante."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$ y $x = 16$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no es raíz de este binomio."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 16$ únicamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó la raíz negativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Factorizando por diferencia de cuadrados $x^2 - 256 = (x - 16)(x + 16) = 0$, obtenemos $x = 16$ y $x = -16$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v17",
+      "statement": "¿Cuáles son las raíces reales del polinomio $P(x) = x^2 - 289$?",
+      "context": "Factorización y ceros de polinomios Caso N° 17.\n**ID:** AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v17\n**Bloom:** Evaluate\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.58",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 17$ y $x = -17$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando diferencia de cuadrados: $(x - 17)(x + 17) = 0 \\Rightarrow x = \\pm 17$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 289$ y $x = -289$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada a la constante."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$ y $x = 17$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no es raíz de este binomio."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 17$ únicamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó la raíz negativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Factorizando por diferencia de cuadrados $x^2 - 289 = (x - 17)(x + 17) = 0$, obtenemos $x = 17$ y $x = -17$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.58,
+      "bundle_id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v18",
+      "statement": "¿Cuáles son las raíces reales del polinomio $P(x) = x^2 - 324$?",
+      "context": "Factorización y ceros de polinomios Caso N° 18.\n**ID:** AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v18\n**Bloom:** Evaluate\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.56",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 18$ y $x = -18$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando diferencia de cuadrados: $(x - 18)(x + 18) = 0 \\Rightarrow x = \\pm 18$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 324$ y $x = -324$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada a la constante."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$ y $x = 18$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no es raíz de este binomio."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 18$ únicamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó la raíz negativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Factorizando por diferencia de cuadrados $x^2 - 324 = (x - 18)(x + 18) = 0$, obtenemos $x = 18$ y $x = -18$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.56,
+      "bundle_id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v19",
+      "statement": "¿Cuáles son las raíces reales del polinomio $P(x) = x^2 - 361$?",
+      "context": "Factorización y ceros de polinomios Caso N° 19.\n**ID:** AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v19\n**Bloom:** Evaluate\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.54",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 19$ y $x = -19$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando diferencia de cuadrados: $(x - 19)(x + 19) = 0 \\Rightarrow x = \\pm 19$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 361$ y $x = -361$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada a la constante."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$ y $x = 19$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no es raíz de este binomio."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 19$ únicamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó la raíz negativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Factorizando por diferencia de cuadrados $x^2 - 361 = (x - 19)(x + 19) = 0$, obtenemos $x = 19$ y $x = -19$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.54,
+      "bundle_id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v20",
+      "statement": "¿Cuáles son las raíces reales del polinomio $P(x) = x^2 - 400$?",
+      "context": "Factorización y ceros de polinomios Caso N° 20.\n**ID:** AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle-v20\n**Bloom:** Evaluate\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.52",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 20$ y $x = -20$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando diferencia de cuadrados: $(x - 20)(x + 20) = 0 \\Rightarrow x = \\pm 20$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 400$ y $x = -400$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada a la constante."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$ y $x = 20$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no es raíz de este binomio."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 20$ únicamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó la raíz negativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Factorizando por diferencia de cuadrados $x^2 - 400 = (x - 20)(x + 20) = 0$, obtenemos $x = 20$ y $x = -20$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.52,
+      "bundle_id": "AR-MAT-11-2026-W17-polinomios-factorizacion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    }
+  ]
+}

@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-39-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T16:46:07.381Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle-v1",
+      "statement": "Según la teoría de Brønsted-Lowry, un ácido es una sustancia que:",
+      "context": "En clase en Medellín, se define el concepto de ácido según Brønsted-Lowry.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dona protones (H⁺) en una reacción química.",
+          "is_correct": true,
+          "feedback": "Ácido = dador de protones."
+        },
+        {
+          "letter": "B",
+          "text": "Acepta protones.",
+          "is_correct": false,
+          "feedback": "Esa es la definición de base."
+        },
+        {
+          "letter": "C",
+          "text": "Libera electrones en solución.",
+          "is_correct": false,
+          "feedback": "No es el criterio Brønsted-Lowry."
+        },
+        {
+          "letter": "D",
+          "text": "Produce iones OH⁻.",
+          "is_correct": false,
+          "feedback": "Eso corresponde a una base de Arrhenius."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La definición de Brønsted-Lowry se centra en la transferencia de protones en solución acuosa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle-v2",
+      "statement": "El pH es una escala que mide:",
+      "context": "En un laboratorio en Bogotá, se mide el pH de varias sustancias cotidianas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La temperatura de la solución.",
+          "is_correct": false,
+          "feedback": "La temperatura es otra propiedad."
+        },
+        {
+          "letter": "B",
+          "text": "La concentración de iones hidrógeno (H⁺) en solución acuosa.",
+          "is_correct": true,
+          "feedback": "pH = -log[H⁺]."
+        },
+        {
+          "letter": "C",
+          "text": "La cantidad de oxígeno disuelto.",
+          "is_correct": false,
+          "feedback": "El pH no mide oxígeno."
+        },
+        {
+          "letter": "D",
+          "text": "La presión osmótica.",
+          "is_correct": false,
+          "feedback": "La presión osmótica es diferente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La escala de pH va de 0 a 14: pH < 7 es ácido, pH = 7 neutro y pH > 7 básico.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle-v3",
+      "statement": "El jugo gástrico del estómago humano tiene un pH aproximado de 1.5 a 3.5. Esto significa que es:",
+      "context": "En clase en Cali, se estudia el jugo gástrico y sus propiedades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Muy ácido, con alta concentración de H⁺.",
+          "is_correct": true,
+          "feedback": "pH bajo indica alta concentración de protones."
+        },
+        {
+          "letter": "B",
+          "text": "Neutro.",
+          "is_correct": false,
+          "feedback": "Neutro corresponde a pH 7."
+        },
+        {
+          "letter": "C",
+          "text": "Ligeramente básico.",
+          "is_correct": false,
+          "feedback": "pH < 7 es ácido, no básico."
+        },
+        {
+          "letter": "D",
+          "text": "Muy básico.",
+          "is_correct": false,
+          "feedback": "Un pH bajo nunca es básico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El ácido clorhídrico gástrico ayuda a la digestión de proteínas y a la activación de enzimas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.84,
+      "bundle_id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle-v4",
+      "statement": "La fenolftaleína es un indicador que en medio básico adquiere color:",
+      "context": "En un taller en Barranquilla, se explican los indicadores ácido-base.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rojo intenso.",
+          "is_correct": false,
+          "feedback": "El rojo es típico de la fenolftaleína en medio ácido fuerte."
+        },
+        {
+          "letter": "B",
+          "text": "Rosado/fucsia intenso.",
+          "is_correct": true,
+          "feedback": "En medio básico la fenolftaleína vira a rosado."
+        },
+        {
+          "letter": "C",
+          "text": "Amarillo.",
+          "is_correct": false,
+          "feedback": "El amarillo es de otros indicadores."
+        },
+        {
+          "letter": "D",
+          "text": "Transparente.",
+          "is_correct": false,
+          "feedback": "Es incolora en medio ácido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los indicadores ácido-base cambian de color según el pH del medio; la fenolftaleína es útil entre pH 8.2 y 10.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.84,
+      "bundle_id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle-v5",
+      "statement": "Asumiendo que el HCl se disocia completamente, ¿cuál es el pH de la solución?",
+      "context": "En un ejercicio en Bucaramanga, se calcula el pH de una solución 0.01 M de HCl.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.",
+          "is_correct": false,
+          "feedback": "pH = -log(0.01) = 2."
+        },
+        {
+          "letter": "B",
+          "text": "2.",
+          "is_correct": true,
+          "feedback": "pH = -log(10⁻²) = 2."
+        },
+        {
+          "letter": "C",
+          "text": "12.",
+          "is_correct": false,
+          "feedback": "Confundiste con pOH."
+        },
+        {
+          "letter": "D",
+          "text": "0.",
+          "is_correct": false,
+          "feedback": "Solo si la concentración fuera 1 M."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para un ácido fuerte monoprótico, [H⁺] = C, y el pH se calcula como -log[H⁺].",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle-v6",
+      "statement": "Si 25 mL de HCl 0.1 M se neutralizan con NaOH 0.1 M, ¿cuál es el volumen de NaOH requerido?",
+      "context": "En clase en Pereira, se mide la neutralización de un ácido con una base.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50 mL.",
+          "is_correct": false,
+          "feedback": "No es necesario duplicar el volumen."
+        },
+        {
+          "letter": "B",
+          "text": "25 mL.",
+          "is_correct": true,
+          "feedback": "Relación 1:1 en neutralización HCl + NaOH → NaCl + H₂O."
+        },
+        {
+          "letter": "C",
+          "text": "10 mL.",
+          "is_correct": false,
+          "feedback": "Subestimaste el volumen."
+        },
+        {
+          "letter": "D",
+          "text": "100 mL.",
+          "is_correct": false,
+          "feedback": "Exageraste el cálculo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En una neutralización ácido-base fuerte, moles de H⁺ = moles de OH⁻.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle-v7",
+      "statement": "Una solución tampón (buffer) se caracteriza por:",
+      "context": "En un laboratorio en Armenia, se mide el pH de soluciones tampón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Resistir cambios de pH al añadir pequeñas cantidades de ácido o base.",
+          "is_correct": true,
+          "feedback": "Está formada por un ácido débil y su base conjugada."
+        },
+        {
+          "letter": "B",
+          "text": "Cambiar drásticamente el pH.",
+          "is_correct": false,
+          "feedback": "Un tampón mantiene el pH estable."
+        },
+        {
+          "letter": "C",
+          "text": "Ser siempre neutra (pH 7).",
+          "is_correct": false,
+          "feedback": "Su pH depende del par conjugado."
+        },
+        {
+          "letter": "D",
+          "text": "Contener solo sales fuertes.",
+          "is_correct": false,
+          "feedback": "Requiere un par ácido/base conjugado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los tampones son esenciales en sistemas biológicos como la sangre (pH ≈ 7.4).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.74,
+      "bundle_id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle-v8",
+      "statement": "La lluvia ácida se forma principalmente por:",
+      "context": "En clase en Santa Marta, se explica la lluvia ácida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Emisión de CO₂ en exceso.",
+          "is_correct": false,
+          "feedback": "El CO₂ es menos responsable."
+        },
+        {
+          "letter": "B",
+          "text": "Reacción de óxidos de azufre y nitrógeno con el vapor de agua atmosférico.",
+          "is_correct": true,
+          "feedback": "SO₂ y NOₓ generan H₂SO₄ y HNO₃."
+        },
+        {
+          "letter": "C",
+          "text": "Pulverización de sal marina.",
+          "is_correct": false,
+          "feedback": "El aerosol marino es minoritario."
+        },
+        {
+          "letter": "D",
+          "text": "Erupciones volcánicas únicamente.",
+          "is_correct": false,
+          "feedback": "Contribuyen pero no son la causa principal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La quema de combustibles fósiles y emisiones industriales son las mayores fuentes de lluvia ácida.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.74,
+      "bundle_id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle-v9",
+      "statement": "La ecuación de Henderson-Hasselbalch permite calcular:",
+      "context": "En clase en Ibagué, se aplica la ecuación de Henderson-Hasselbalch.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La densidad de una solución.",
+          "is_correct": false,
+          "feedback": "No aplica a densidad."
+        },
+        {
+          "letter": "B",
+          "text": "El pH de una solución tampón a partir del pKa y la relación de concentraciones.",
+          "is_correct": true,
+          "feedback": "pH = pKa + log([A⁻]/[HA])."
+        },
+        {
+          "letter": "C",
+          "text": "La masa molar de un ácido.",
+          "is_correct": false,
+          "feedback": "Se obtiene por otros métodos."
+        },
+        {
+          "letter": "D",
+          "text": "La temperatura crítica.",
+          "is_correct": false,
+          "feedback": "No aplica a sistemas ácido-base."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ecuación de Henderson-Hasselbalch es esencial para diseñar tampones en química y bioquímica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle-v10",
+      "statement": "Una solución de NaOH 0.001 M tiene pOH aproximadamente igual a:",
+      "context": "En un taller en Manizales, se calcula el pOH de una solución básica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.",
+          "is_correct": false,
+          "feedback": "pOH = -log(0.001) = 3."
+        },
+        {
+          "letter": "B",
+          "text": "3.",
+          "is_correct": true,
+          "feedback": "pOH = -log(10⁻³) = 3."
+        },
+        {
+          "letter": "C",
+          "text": "11.",
+          "is_correct": false,
+          "feedback": "Sería el pH correspondiente, no el pOH."
+        },
+        {
+          "letter": "D",
+          "text": "14.",
+          "is_correct": false,
+          "feedback": "Solo si la concentración fuera 1 M."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En una base fuerte, [OH⁻] = C, por lo que pOH = -log[OH⁻] y pH = 14 - pOH.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.73,
+      "bundle_id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle-v11",
+      "statement": "Un ácido fuerte como el HCl se diferencia de un ácido débil como el ácido acético (CH₃COOH) porque:",
+      "context": "En clase en Bogotá, se diferencia entre ácidos fuertes y débiles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El HCl tiene más hidrógenos en su fórmula.",
+          "is_correct": false,
+          "feedback": "Ambos tienen un hidrógeno ionizable."
+        },
+        {
+          "letter": "B",
+          "text": "El HCl se disocia completamente en agua, mientras el ácido acético lo hace parcialmente.",
+          "is_correct": true,
+          "feedback": "La fuerza depende del grado de disociación."
+        },
+        {
+          "letter": "C",
+          "text": "El HCl es menos soluble.",
+          "is_correct": false,
+          "feedback": "El HCl es altamente soluble."
+        },
+        {
+          "letter": "D",
+          "text": "El ácido acético dona dos protones.",
+          "is_correct": false,
+          "feedback": "Es monoprótico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La constante de disociación ácida (Ka) cuantifica el grado de ionización de un ácido en agua.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle-v12",
+      "statement": "El agua es una sustancia anfótera porque puede actuar como:",
+      "context": "En Neiva, se compara el comportamiento anfótero del agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo ácido.",
+          "is_correct": false,
+          "feedback": "No es exclusivamente ácida."
+        },
+        {
+          "letter": "B",
+          "text": "Ácido o base según el soluto con el que reaccione.",
+          "is_correct": true,
+          "feedback": "H₂O puede donar o aceptar H⁺."
+        },
+        {
+          "letter": "C",
+          "text": "Solo base fuerte.",
+          "is_correct": false,
+          "feedback": "Es un ácido/base débil por su bajo grado de ionización."
+        },
+        {
+          "letter": "D",
+          "text": "Sustancia inerte.",
+          "is_correct": false,
+          "feedback": "El agua participa activamente en reacciones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El comportamiento anfótero es fundamental para la neutralización y para las reacciones de hidrólisis.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle-v13",
+      "statement": "A 25 °C, el producto iónico del agua Kw = [H⁺][OH⁻] es:",
+      "context": "En clase en Tunja, se estudia el producto iónico del agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.0 × 10⁻⁷.",
+          "is_correct": false,
+          "feedback": "Es solo la concentración de H⁺ en agua pura."
+        },
+        {
+          "letter": "B",
+          "text": "1.0 × 10⁻¹⁴.",
+          "is_correct": true,
+          "feedback": "Kw = 10⁻¹⁴ a 25 °C."
+        },
+        {
+          "letter": "C",
+          "text": "1.0 × 10⁻¹.",
+          "is_correct": false,
+          "feedback": "Es un valor demasiado alto."
+        },
+        {
+          "letter": "D",
+          "text": "1.0.",
+          "is_correct": false,
+          "feedback": "Implicaría neutralidad en cualquier condición."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El producto iónico del agua varía con la temperatura, pero a 25 °C vale 1.0 × 10⁻¹⁴.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle-v14",
+      "statement": "El pH del estómago (alrededor de 2) afecta la absorción de fármacos porque:",
+      "context": "En clase en Popayán, se analiza el efecto del pH en la solubilidad de fármacos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cambia el grado de ionización del fármaco, alterando su capacidad de cruzar membranas.",
+          "is_correct": true,
+          "feedback": "Los fármacos se absorben mejor en su forma no ionizada."
+        },
+        {
+          "letter": "B",
+          "text": "Modifica la masa del principio activo.",
+          "is_correct": false,
+          "feedback": "La masa es independiente del pH."
+        },
+        {
+          "letter": "C",
+          "text": "Destruye el ADN del paciente.",
+          "is_correct": false,
+          "feedback": "No es un efecto del pH gástrico."
+        },
+        {
+          "letter": "D",
+          "text": "Incrementa la temperatura corporal.",
+          "is_correct": false,
+          "feedback": "El pH no regula la temperatura."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fracción no ionizada de un fármaco sigue el equilibrio de Henderson-Hasselbalch y determina su absorción.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle-v15",
+      "statement": "La lluvia ácida deteriora monumentos de mármol (CaCO₃) porque:",
+      "context": "En Sincelejo, se evalúan los efectos de la lluvia ácida en edificios coloniales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disuelve el hierro estructural.",
+          "is_correct": false,
+          "feedback": "El mármol no contiene hierro relevante."
+        },
+        {
+          "letter": "B",
+          "text": "Reacciona con el carbonato de calcio produciendo sales solubles y CO₂.",
+          "is_correct": true,
+          "feedback": "CaCO₃ + H₂SO₄ → CaSO₄ + H₂O + CO₂."
+        },
+        {
+          "letter": "C",
+          "text": "Solo mancha la piedra sin reaccionar.",
+          "is_correct": false,
+          "feedback": "La reacción química es real."
+        },
+        {
+          "letter": "D",
+          "text": "Aumenta la dureza del material.",
+          "is_correct": false,
+          "feedback": "Lo ablanda y degrada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ataque ácido a carbonatos es responsable del deterioro de edificios históricos expuestos a lluvia ácida.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle-v16",
+      "statement": "En una titulación de un ácido fuerte con una base fuerte, el punto de equivalencia se ubica en:",
+      "context": "En clase en Medellín, se estudian curvas de titulación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "pH menor que 3.",
+          "is_correct": false,
+          "feedback": "Es típico de ácidos débiles titulados con base fuerte."
+        },
+        {
+          "letter": "B",
+          "text": "pH = 7, donde moles de ácido igualan a moles de base.",
+          "is_correct": true,
+          "feedback": "El salto de pH cruza por 7."
+        },
+        {
+          "letter": "C",
+          "text": "pH mayor que 11.",
+          "is_correct": false,
+          "feedback": "Ocurre en titulaciones de base débil con ácido fuerte."
+        },
+        {
+          "letter": "D",
+          "text": "pH siempre 1.",
+          "is_correct": false,
+          "feedback": "El pH inicial puede ser menor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La curva de titulación presenta un salto brusco de pH cerca del punto de equivalencia, fácilmente identificable con un indicador.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.63,
+      "bundle_id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle-v17",
+      "statement": "La administración intravenosa de bicarbonato de sodio en acidosis metabólica busca:",
+      "context": "En clase en Cali, se evalúan los efectos del bicarbonato en la acidosis metabólica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumentar la presión arterial.",
+          "is_correct": false,
+          "feedback": "El efecto principal es sobre el pH."
+        },
+        {
+          "letter": "B",
+          "text": "Neutralizar el exceso de ácido aumentando la concentración de bicarbonato y elevando el pH sanguíneo.",
+          "is_correct": true,
+          "feedback": "El sistema bicarbonato es el principal tampón extracelular."
+        },
+        {
+          "letter": "C",
+          "text": "Incrementar el CO₂ en sangre.",
+          "is_correct": false,
+          "feedback": "El objetivo es justamente tamponar ácidos."
+        },
+        {
+          "letter": "D",
+          "text": "Disminuir la concentración de oxígeno.",
+          "is_correct": false,
+          "feedback": "No afecta la oxigenación directamente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El par HCO₃⁻/H₂CO₃ regula el pH sanguíneo y se usa en medicina para corregir acidosis.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle-v18",
+      "statement": "La acidificación oceánica es consecuencia principalmente de:",
+      "context": "En clase en Bogotá, se discute la acidificación de los océanos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La absorción de CO₂ atmosférico por el agua de mar formando ácido carbónico.",
+          "is_correct": true,
+          "feedback": "El CO₂ baja el pH del océano al formar H₂CO₃."
+        },
+        {
+          "letter": "B",
+          "text": "Aumento de la salinidad.",
+          "is_correct": false,
+          "feedback": "La salinidad no es responsable directa."
+        },
+        {
+          "letter": "C",
+          "text": "Vertimiento de ácidos industriales.",
+          "is_correct": false,
+          "feedback": "Contribuye localmente, pero no es la causa global."
+        },
+        {
+          "letter": "D",
+          "text": "Incremento de la luz solar.",
+          "is_correct": false,
+          "feedback": "No es el factor principal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La acidificación oceánica afecta arrecifes de coral y organismos con conchas de carbonato de calcio.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle-v19",
+      "statement": "La aplicación de cal agrícola (CaCO₃ o Ca(OH)₂) a suelos ácidos busca:",
+      "context": "En un estudio agrícola en Armenia, se evalúa el encalado de suelos ácidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Neutralizar la acidez del suelo, elevando el pH y mejorando la disponibilidad de nutrientes.",
+          "is_correct": true,
+          "feedback": "La cal agrícola corrige el pH para cultivos."
+        },
+        {
+          "letter": "B",
+          "text": "Incrementar la acidez del suelo.",
+          "is_correct": false,
+          "feedback": "Contrario al propósito."
+        },
+        {
+          "letter": "C",
+          "text": "Disminuir la fertilidad.",
+          "is_correct": false,
+          "feedback": "Mejora la fertilidad al ajustar el pH."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminar microorganismos beneficiosos.",
+          "is_correct": false,
+          "feedback": "No es el efecto buscado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El encalado mejora la estructura del suelo y la disponibilidad de nutrientes para las plantas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle-v20",
+      "statement": "El carbonato de calcio presente en antiácidos estomacales actúa porque:",
+      "context": "En clase en Pereira, se debate el papel de los antiácidos comerciales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Genera más ácido clorhídrico.",
+          "is_correct": false,
+          "feedback": "Es lo opuesto a su función."
+        },
+        {
+          "letter": "B",
+          "text": "Reacciona con el HCl gástrico formando CaCl₂, agua y CO₂, aliviando la acidez.",
+          "is_correct": true,
+          "feedback": "Reacción típica de neutralización."
+        },
+        {
+          "letter": "C",
+          "text": "Disminuye la producción de mucina gástrica.",
+          "is_correct": false,
+          "feedback": "No afecta la mucina directamente."
+        },
+        {
+          "letter": "D",
+          "text": "Bloquea la bomba de protones de forma inmediata.",
+          "is_correct": false,
+          "feedback": "Los inhibidores de bomba son otra clase de fármacos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los antiácidos son bases débiles que neutralizan el exceso de HCl en el estómago.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W39-ph-acidos-bases-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-33-grade-11-subject-lectura_critica",
+    "generated_at": "2026-09-12T16:46:07.513Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle-v1",
+      "statement": "¿Qué caracteriza a la poesía contemporánea frente a la poesía tradicional?",
+      "context": "En un recital en Bogotá, Laura escucha un poema de Piedad Bonnett.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Experimentación formal, temas cotidianos y ruptura de estructuras rígidas.",
+          "is_correct": true,
+          "feedback": "La poesía contemporánea rompe la métrica clásica y explora nuevos temas."
+        },
+        {
+          "letter": "B",
+          "text": "Uso exclusivo de rima consonante.",
+          "is_correct": false,
+          "feedback": "La rima no es obligatoria en la poesía contemporánea."
+        },
+        {
+          "letter": "C",
+          "text": "Temas exclusivamente religiosos.",
+          "is_correct": false,
+          "feedback": "Aborda temas variados."
+        },
+        {
+          "letter": "D",
+          "text": "Rechazo total del lenguaje figurado.",
+          "is_correct": false,
+          "feedback": "Aún se usan metáforas y símbolos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La poesía contemporánea privilegia la libertad expresiva, la fragmentación y la subjetividad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle-v2",
+      "statement": "El verso libre se caracteriza por:",
+      "context": "En un taller en Medellín, se estudia el verso libre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mantener una métrica fija y regular.",
+          "is_correct": false,
+          "feedback": "Justamente se opone a la métrica fija."
+        },
+        {
+          "letter": "B",
+          "text": "No sujetarse a un patrón regular de sílabas ni rima.",
+          "is_correct": true,
+          "feedback": "Predomina la cadencia del habla."
+        },
+        {
+          "letter": "C",
+          "text": "Seguir las reglas del soneto clásico.",
+          "is_correct": false,
+          "feedback": "El soneto es una forma fija."
+        },
+        {
+          "letter": "D",
+          "text": "Tener siempre 14 versos.",
+          "is_correct": false,
+          "feedback": "El número de versos es libre."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El verso libre es una de las formas más usadas en la poesía del siglo XX y XXI.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle-v3",
+      "statement": "Las imágenes en la poesía contemporánea suelen ser:",
+      "context": "En clase en Cali, se analiza el uso de la imagen poética actual.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sorprendentes, a veces urbanas o tecnológicas, alejándose de lo bucólico.",
+          "is_correct": true,
+          "feedback": "Se incorporan objetos y situaciones modernas."
+        },
+        {
+          "letter": "B",
+          "text": "Siempre rurales y pastoriles.",
+          "is_correct": false,
+          "feedback": "La poesía contemporánea trasciende lo rural."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente de la naturaleza.",
+          "is_correct": false,
+          "feedback": "Hay variedad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Prohibidas en la lírica.",
+          "is_correct": false,
+          "feedback": "Son esenciales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las imágenes contemporáneas reflejan el contexto urbano, tecnológico y global.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle-v4",
+      "statement": "El tono predominante en la poesía urbana contemporánea es:",
+      "context": "En un club de lectura en Barranquilla, se comenta un poemario de Mario Mendoza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Siempre optimista.",
+          "is_correct": false,
+          "feedback": "La realidad urbana se aborda con crudeza a menudo."
+        },
+        {
+          "letter": "B",
+          "text": "Reflexivo, crítico y a veces melancólico.",
+          "is_correct": true,
+          "feedback": "Refleja las tensiones de la ciudad."
+        },
+        {
+          "letter": "C",
+          "text": "Festivo y humorístico exclusivamente.",
+          "is_correct": false,
+          "feedback": "Hay humor, pero no domina."
+        },
+        {
+          "letter": "D",
+          "text": "Religioso sin matices.",
+          "is_correct": false,
+          "feedback": "No es el único tono."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La poesía urbana examina la alienación, la violencia y la búsqueda de sentido.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle-v5",
+      "statement": "En un poema contemporáneo, la voz lírica es:",
+      "context": "En un taller en Bucaramanga, se identifica la voz lírica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El \"yo\" poético que expresa emociones y percepciones, sin ser necesariamente el autor real.",
+          "is_correct": true,
+          "feedback": "Es una construcción estética."
+        },
+        {
+          "letter": "B",
+          "text": "Siempre idéntica al autor.",
+          "is_correct": false,
+          "feedback": "Es una máscara poética."
+        },
+        {
+          "letter": "C",
+          "text": "Un narrador omnisciente en tercera persona.",
+          "is_correct": false,
+          "feedback": "El narrador en tercera es de la narrativa."
+        },
+        {
+          "letter": "D",
+          "text": "Un personaje histórico documentado.",
+          "is_correct": false,
+          "feedback": "No requiere realidad histórica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La voz lírica es un artificio retórico que permite explorar emociones con libertad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle-v6",
+      "statement": "¿Qué figura literaria consiste en atribuir cualidades humanas a objetos o conceptos abstractos?",
+      "context": "En clase en Pereira, se trabaja con figuras literarias contemporáneas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Personificación.",
+          "is_correct": true,
+          "feedback": "Humaniza lo no humano."
+        },
+        {
+          "letter": "B",
+          "text": "Hipérbole.",
+          "is_correct": false,
+          "feedback": "Exagera cantidades o cualidades."
+        },
+        {
+          "letter": "C",
+          "text": "Metonimia.",
+          "is_correct": false,
+          "feedback": "Sustituye por relación de contigüidad."
+        },
+        {
+          "letter": "D",
+          "text": "Aliteración.",
+          "is_correct": false,
+          "feedback": "Repite sonidos consonánticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La personificación crea imágenes poderosas, muy usadas en poesía contemporánea.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la diferencia entre el lenguaje poético y el lenguaje cotidiano?",
+      "context": "En un taller en Armenia, se compara el lenguaje poético.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son idénticos.",
+          "is_correct": false,
+          "feedback": "El poético busca densidad estética."
+        },
+        {
+          "letter": "B",
+          "text": "El poético selecciona, condensa y carga de significado las palabras; el cotidiano es funcional.",
+          "is_correct": true,
+          "feedback": "La poeticidad reside en la connotación y ritmo."
+        },
+        {
+          "letter": "C",
+          "text": "El cotidiano nunca es claro.",
+          "is_correct": false,
+          "feedback": "El cotidiano es claro y directo."
+        },
+        {
+          "letter": "D",
+          "text": "El poético evita imágenes.",
+          "is_correct": false,
+          "feedback": "Las imágenes son centrales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La poeticidad reside en el trabajo cuidadoso con ritmo, imágenes y connotaciones.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle-v8",
+      "statement": "El ritmo en la poesía contemporánea depende principalmente de:",
+      "context": "En clase en Santa Marta, se analiza el ritmo poético actual.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cadencia natural del habla, las pausas y la disposición tipográfica.",
+          "is_correct": true,
+          "feedback": "El ritmo se construye con nuevos recursos."
+        },
+        {
+          "letter": "B",
+          "text": "Una métrica silábica estricta.",
+          "is_correct": false,
+          "feedback": "Ya no se exige métrica regular."
+        },
+        {
+          "letter": "C",
+          "text": "Solo la rima.",
+          "is_correct": false,
+          "feedback": "La rima no es indispensable."
+        },
+        {
+          "letter": "D",
+          "text": "La repetición de estribillos únicamente.",
+          "is_correct": false,
+          "feedback": "Hay otros recursos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El verso libre recupera el ritmo del lenguaje oral y de la respiración.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle-v9",
+      "statement": "Una constante en la poesía femenina latinoamericana contemporánea es:",
+      "context": "En Ibagué, se compara la poesía femenina latinoamericana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La exploración del cuerpo, la identidad y la memoria histórica.",
+          "is_correct": true,
+          "feedback": "Temas recurrentes en autoras como Idea Vilariño o Piedad Bonnett."
+        },
+        {
+          "letter": "B",
+          "text": "La celebración exclusiva de la naturaleza.",
+          "is_correct": false,
+          "feedback": "Hay múltiples enfoques."
+        },
+        {
+          "letter": "C",
+          "text": "El rechazo de la primera persona.",
+          "is_correct": false,
+          "feedback": "Muchas usan el \"yo\"."
+        },
+        {
+          "letter": "D",
+          "text": "La prohibición de símbolos.",
+          "is_correct": false,
+          "feedback": "Usan símbolos libremente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La poesía femenina ha enriquecido la lírica contemporánea con voces y perspectivas diversas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle-v10",
+      "statement": "¿Qué función cumple el título en un poema contemporáneo?",
+      "context": "En Neiva, se lee un poema de Juan Manuel Roca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Orientar la lectura, sugerir un tono o generar expectativa.",
+          "is_correct": true,
+          "feedback": "El título es parte esencial de la significación."
+        },
+        {
+          "letter": "B",
+          "text": "Ser siempre neutro y descriptivo.",
+          "is_correct": false,
+          "feedback": "Puede ser sugerente o simbólico."
+        },
+        {
+          "letter": "C",
+          "text": "Repetir el primer verso.",
+          "is_correct": false,
+          "feedback": "Es redundante."
+        },
+        {
+          "letter": "D",
+          "text": "Anular el contenido del poema.",
+          "is_correct": false,
+          "feedback": "El título no anula el contenido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El título aporta una clave interpretativa fundamental para la lectura del poema.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle-v11",
+      "statement": "¿Qué ruptura formal distingue a la poesía contemporánea de la poesía de principios del siglo XX?",
+      "context": "En un coloquio en Popayán, se compara la poesía de los años 60 y la actual.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La abolición frecuente de la puntuación tradicional y la disposición espacial libre del texto.",
+          "is_correct": true,
+          "feedback": "Recursos como el caligrama o la dispersión tipográfica."
+        },
+        {
+          "letter": "B",
+          "text": "La vuelta al soneto perfecto.",
+          "is_correct": false,
+          "feedback": "No es la tendencia dominante."
+        },
+        {
+          "letter": "C",
+          "text": "La eliminación total de metáforas.",
+          "is_correct": false,
+          "feedback": "Persisten las figuras retóricas."
+        },
+        {
+          "letter": "D",
+          "text": "El uso obligatorio de rima asonante.",
+          "is_correct": false,
+          "feedback": "La rima es opcional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ruptura tipográfica y sintáctica caracteriza la vanguardia y la posvanguardia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle-v12",
+      "statement": "El símbolo en la poesía contemporánea se diferencia del símbolo tradicional porque:",
+      "context": "En clase en Tunja, se analiza un poema de Gonzalo Rojas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Siempre significa lo mismo en todas las culturas.",
+          "is_correct": false,
+          "feedback": "El símbolo es culturalmente variable."
+        },
+        {
+          "letter": "B",
+          "text": "Puede ser ambiguo, polivalente y abierto a múltiples lecturas.",
+          "is_correct": true,
+          "feedback": "La ambigüedad es valorada en la lírica actual."
+        },
+        {
+          "letter": "C",
+          "text": "Se reduce a una sola interpretación.",
+          "is_correct": false,
+          "feedback": "Acepta varias lecturas."
+        },
+        {
+          "letter": "D",
+          "text": "Debe ser exclusivamente religioso.",
+          "is_correct": false,
+          "feedback": "Los símbolos son variados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La polisemia del símbolo contemporáneo enriquece la experiencia estética.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle-v13",
+      "statement": "La llamada \"poesía de la experiencia\" contemporánea se caracteriza por:",
+      "context": "En una jornada literaria en Cali, se lee poesía de jóvenes autores colombianos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Evitar toda referencia autobiográfica.",
+          "is_correct": false,
+          "feedback": "Justamente recupera lo autobiográfico."
+        },
+        {
+          "letter": "B",
+          "text": "Retomar lo cotidiano, lo autobiográfico y lo confesional desde un tono realista.",
+          "is_correct": true,
+          "feedback": "Esta corriente dialoga con lo vivido."
+        },
+        {
+          "letter": "C",
+          "text": "Usar solo lenguaje abstracto.",
+          "is_correct": false,
+          "feedback": "Prefiere imágenes concretas."
+        },
+        {
+          "letter": "D",
+          "text": "Ser exclusivamente rural.",
+          "is_correct": false,
+          "feedback": "Abarca lo urbano y rural."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La poesía de la experiencia conecta lo íntimo con lo social, en un lenguaje accesible.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle-v14",
+      "statement": "Una diferencia clave entre la poesía colombiana del siglo XIX y la contemporánea es:",
+      "context": "En clase en Medellín, se compara la poesía colombiana actual con la del siglo XIX.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La contemporánea incorpora voces marginadas y temáticas de género, memoria y conflicto.",
+          "is_correct": true,
+          "feedback": "Hay mayor diversidad de voces y temas."
+        },
+        {
+          "letter": "B",
+          "text": "La del XIX tenía más métrica libre.",
+          "is_correct": false,
+          "feedback": "Era más rígida en métrica."
+        },
+        {
+          "letter": "C",
+          "text": "La contemporánea rechaza el castellano.",
+          "is_correct": false,
+          "feedback": "Se escribe en castellano."
+        },
+        {
+          "letter": "D",
+          "text": "La del XIX era más experimental.",
+          "is_correct": false,
+          "feedback": "La del XIX era más formalista."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La poesía actual refleja la diversidad cultural y los debates sociales contemporáneos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle-v15",
+      "statement": "¿Qué es el intertexto en poesía contemporánea?",
+      "context": "En un taller en Sincelejo, se analiza el intertexto en poesía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La repetición de palabras dentro del poema.",
+          "is_correct": false,
+          "feedback": "Eso es reiteración."
+        },
+        {
+          "letter": "B",
+          "text": "La referencia o diálogo implícito con otros textos, autores o culturas.",
+          "is_correct": true,
+          "feedback": "Enriquece el poema al evocar otros discursos."
+        },
+        {
+          "letter": "C",
+          "text": "Un error tipográfico.",
+          "is_correct": false,
+          "feedback": "Es un recurso deliberado."
+        },
+        {
+          "letter": "D",
+          "text": "La eliminación del título.",
+          "is_correct": false,
+          "feedback": "No tiene relación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El intertexto es una herramienta clave para leer poesía actual.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle-v16",
+      "statement": "La \"performance\" poética contemporánea se caracteriza por:",
+      "context": "En clase en Bogotá, se estudian las performances poéticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Limitarse a la lectura en voz baja.",
+          "is_correct": false,
+          "feedback": "La performance busca impacto escénico."
+        },
+        {
+          "letter": "B",
+          "text": "Integrar voz, cuerpo, música y elementos visuales en la presentación del poema.",
+          "is_correct": true,
+          "feedback": "Combina artes escénicas y poesía."
+        },
+        {
+          "letter": "C",
+          "text": "Eliminar la presencia del público.",
+          "is_correct": false,
+          "feedback": "El público es esencial."
+        },
+        {
+          "letter": "D",
+          "text": "Prohibir el uso del micrófono.",
+          "is_correct": false,
+          "feedback": "El micrófono amplifica la voz."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La poesía performática amplía los límites del género lírico.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.63,
+      "bundle_id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle-v17",
+      "statement": "¿Por qué la poesía contemporánea sigue siendo relevante en sociedades digitales?",
+      "context": "En una tertulia en Bogotá, se discute si la poesía sigue siendo relevante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque ya no tiene público.",
+          "is_correct": false,
+          "feedback": "Tiene nuevos públicos en redes y recitales."
+        },
+        {
+          "letter": "B",
+          "text": "Porque ofrece una experiencia estética pausada, contraria a la inmediatez digital.",
+          "is_correct": true,
+          "feedback": "La pausa y la contemplación son valores poéticos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque sus temas son irrelevantes.",
+          "is_correct": false,
+          "feedback": "Abordan temas vigentes."
+        },
+        {
+          "letter": "D",
+          "text": "Porque prohíbe la tecnología.",
+          "is_correct": false,
+          "feedback": "La integra con frecuencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La poesía resignifica la experiencia humana en tiempos de sobreinformación.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle-v18",
+      "statement": "Una diferencia entre la poesía intimista y la poesía de protesta social es:",
+      "context": "En un foro en Pereira, se compara la poesía de protesta con la intimista.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La intimista explora el mundo interior del yo; la de protesta denuncia injusticias colectivas.",
+          "is_correct": true,
+          "feedback": "Son orientaciones complementarias."
+        },
+        {
+          "letter": "B",
+          "text": "La protesta nunca usa imágenes.",
+          "is_correct": false,
+          "feedback": "Usa imágenes poderosas."
+        },
+        {
+          "letter": "C",
+          "text": "La intimista evita la emoción.",
+          "is_correct": false,
+          "feedback": "Es profundamente emocional."
+        },
+        {
+          "letter": "D",
+          "text": "No existen diferencias.",
+          "is_correct": false,
+          "feedback": "Sí existen enfoques distintos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ambas modalidades enriquecen la lírica contemporánea.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle-v19",
+      "statement": "¿Qué dificultad principal enfrenta la traducción de un poema contemporáneo con verso libre?",
+      "context": "En Manizales, se evalúa la traducción de poesía contemporánea.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo se traduce literalmente.",
+          "is_correct": false,
+          "feedback": "La traducción debe recrear el efecto estético."
+        },
+        {
+          "letter": "B",
+          "text": "Preservar la cadencia, el tono y las connotaciones sin sacrificar el sentido.",
+          "is_correct": true,
+          "feedback": "Equilibrar forma y significado es un reto."
+        },
+        {
+          "letter": "C",
+          "text": "Eliminar todo ritmo.",
+          "is_correct": false,
+          "feedback": "El ritmo debe mantenerse."
+        },
+        {
+          "letter": "D",
+          "text": "Cambiar el idioma sin cuidado.",
+          "is_correct": false,
+          "feedback": "Se requiere sensibilidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La traducción poética es una forma de reescritura que busca recrear la experiencia lírica.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle-v20",
+      "statement": "¿Qué papel juegan las redes sociales en la difusión de la poesía contemporánea?",
+      "context": "En un cierre en Pasto, se reflexiona sobre el futuro de la poesía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Amplían el público y permiten nuevas formas de circulación y diálogo.",
+          "is_correct": true,
+          "feedback": "Twitter, Instagram y TikTok son nuevas tribunas."
+        },
+        {
+          "letter": "B",
+          "text": "Eliminan la lectura pausada.",
+          "is_correct": false,
+          "feedback": "Pueden promover micropoemas."
+        },
+        {
+          "letter": "C",
+          "text": "Prohíben la publicación de poemas.",
+          "is_correct": false,
+          "feedback": "Facilitan la publicación."
+        },
+        {
+          "letter": "D",
+          "text": "Solo sirven para memes.",
+          "is_correct": false,
+          "feedback": "Abarcan contenidos variados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las plataformas digitales democratizan la difusión poética y amplían el diálogo cultural.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-2026-W33-poesia-contemporanea-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

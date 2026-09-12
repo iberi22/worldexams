@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "sociales",
+    "country": "bo",
+    "pack_id": "bo-week-15-grade-11-subject-sociales",
+    "generated_at": "2026-09-12T16:46:07.260Z"
+  },
+  "questions": [
+    {
+      "id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle-v1",
+      "statement": "¿Qué célebre sociólogo y politólogo boliviano postuló los conceptos de 'sociedad abigarrada', 'estado aparente' y 'forma clase'?",
+      "context": "En La Paz, el estudiante Grover del Colegio Nacional Ayacucho analiza el pensamiento sociológico de René Zavaleta Mercado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alcides Arguedas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representante del positivismo pesimista autor de 'Pueblo Enfermo'."
+        },
+        {
+          "letter": "B",
+          "text": "Franz Tamayo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Poeta e intelectual autor de 'Creación de la Pedagogía Nacional'."
+        },
+        {
+          "letter": "C",
+          "text": "René Zavaleta Mercado",
+          "is_correct": true,
+          "feedback": "Correcto. Autor fundamental para comprender la complejidad histórico-social de Bolivia."
+        },
+        {
+          "letter": "D",
+          "text": "Gabriel René Moreno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Historiador y bibliógrafo del siglo XIX autor de 'Ensayos Políticos'."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "René Zavaleta Mercado desentrañó las formaciones sociales bolivianas caracterizándolas por su abigarramiento socio-cultural.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle-v2",
+      "statement": "El concepto zavaletiano de 'Sociedad Abigarrada' se refiere a:",
+      "context": "En Cochabamba, la estudiante Roxana de la Unidad Educativa Don Bosco examina la categoría de 'sociedad abigarrada' en la interpretación de la historia boliviana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La superposición y coexistencia disyuntiva de variadas estructuras socioeconómicas, modos de producción y culturas en un mismo territorio nacional",
+          "is_correct": true,
+          "feedback": "Correcto. Muestra cómo conviven el ayllu comunitario, la hacienda servil y la mina capitalista sin fusionarse plenamente."
+        },
+        {
+          "letter": "B",
+          "text": "Una sociedad perfectamente homogénea sin diferencias étnicas ni regionales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El abigarramiento implica diversidad no sintetizada."
+        },
+        {
+          "letter": "C",
+          "text": "La organización industrial exclusiva de países altamente desarrollados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Zavaleta lo formuló para sociedades periféricas complejas como la boliviana."
+        },
+        {
+          "letter": "D",
+          "text": "El dominio exclusivo de una sola fe religiosa monolítica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Refiere a estructuras económicas, étnicas y culturales en conflicto o coexistencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La sociedad abigarrada explica por qué en Bolivia conviven racionalidades comunitarias ancestrales junto a lógicas capitalistas modernas.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle-v3",
+      "statement": "Para Zavaleta Mercado, el 'Estado Aparente' en Bolivia se caracterizaba por:",
+      "context": "En Santa Cruz, el estudiante Jhonny del Colegio Bolívar analiza la crítica al 'Estado aparente' en la obra de René Zavaleta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ser un Estado oligárquico criollo que redactaba leyes de fachada universal ignorando a la mayoría indígena real del país",
+          "is_correct": true,
+          "feedback": "Correcto. Representaba a la minoría señorial sirviendo de cobertura jurídica formal a la exclusión."
+        },
+        {
+          "letter": "B",
+          "text": "Un Estado que no poseía territorio ni fronteras definidas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El estado aparente poseía fronteras pero excluía a su población originaria."
+        },
+        {
+          "letter": "C",
+          "text": "Un régimen democrático representativo con paridad de género perfecta",
+          "is_correct": false,
+          "feedback": "Incorrecto. El estado aparente era excluyente y antipopular."
+        },
+        {
+          "letter": "D",
+          "text": "Un gobierno dirigido exclusivamente por sindicatos de campesinos aymaras",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mayoría indígena estaba privada del ejercicio ciudadano."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Estado aparente gobernaba 'sin el pueblo', construyendo una legalidad formal desvinculada del país profundo.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle-v4",
+      "statement": "¿Qué pensador aymara escribió 'La Revolución India' (1970) e inició el movimiento ideológico del Indianismo descolonizador?",
+      "context": "En El Alto, la estudiante Marisol del Colegio San Simón estudia las tesis fundamentales de 'La Revolución India' de Fausto Reinaga.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fausto Reinaga",
+          "is_correct": true,
+          "feedback": "Correcto. Proclamó la liberación del indio por el indio mismo denunciando el racismo criollo-mestizo."
+        },
+        {
+          "letter": "B",
+          "text": "Guillermo Lora",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dirigente trotskista autor de la Tesis de Pulacayo."
+        },
+        {
+          "letter": "C",
+          "text": "Sergio Almaraz Paz",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ensayista crítico del imperialismo minero autor de 'El Poder de la Rosca'."
+        },
+        {
+          "letter": "D",
+          "text": "Carlos Montenegro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Intelectual del nacionalismo revolucionario autor de 'Nacionalismo y Coloniaje'."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Fausto Reinaga cuestionó al marxismo y al positivismo criollo por invisibilizar al sujeto indio como fuerza revolucionaria.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle-v5",
+      "statement": "El pensamiento Indianista fundado por Fausto Reinaga se distingue del Indigenismo criollo en que el Indianismo:",
+      "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín compara la ideología del Indianismo con la corriente del Indigenismo en Bolivia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Exige la adopción obligatoria de la religión católica en las comunidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reivindica la cosmovisión originaria frente al dominio colonial."
+        },
+        {
+          "letter": "B",
+          "text": "Plantea al indio como sujeto político auto-determinado que busca su propia liberación y el autogobierno",
+          "is_correct": true,
+          "feedback": "Correcto. A diferencia del indigenismo paternalista que buscaba asimilar al indígena a la cultura criolla."
+        },
+        {
+          "letter": "C",
+          "text": "Propone la integración pacífica y subordinada del indio a las haciendas feudal-coloniales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El indianismo busca destruir las estructuras señoriales de explotación."
+        },
+        {
+          "letter": "D",
+          "text": "Rechaza el uso de lenguas nativas en el sistema educativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El indianismo defiende la identidad lingüística y cultural ancestral."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El indianismo reivindica al sujeto originario con capacidad de autogobierno frente a la tutela indigenista de las élites intelectuales.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle-v6",
+      "statement": "El movimiento 'Katarista' surgido en la década de 1970 con líderes como Genaro Flores planteó la célebre tesis de las 'dos miradas' que sostiene:",
+      "context": "En Potosí, el estudiante Ronald de la Unidad Educativa Juan Pablo II analiza el impacto del Katarismo en la reorganización del movimiento campesino en 1979.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el Estado debe ser gobernado por las empresas mineras extranjeras",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se opuso al dominio transnacional y a la opresión dictatorial."
+        },
+        {
+          "letter": "B",
+          "text": "Que los indígenas son explotados como clase campesina y al mismo tiempo oprimidos como nación o identidad étnica",
+          "is_correct": true,
+          "feedback": "Correcto. Articuló la lucha de clases con la reivindicación de la identidad anticolonial."
+        },
+        {
+          "letter": "C",
+          "text": "Que la sociedad debe dividirse en dos clases sociales sin distinción de etnia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El katarismo introdujo la dimensión étnico-nacional en el análisis de clase."
+        },
+        {
+          "letter": "D",
+          "text": "Que la única solución es la migración forzada de los campesinos hacia Europa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Planteó la lucha en el territorio nacional por la tierra y el poder."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Katarismo unificó la bandera de lucha del sindicato campesino con la memoria de resistencia de Tupaj Katari.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle-v7",
+      "statement": "En su ensayo 'Creación de la Pedagogía Nacional' (1910), el intelectual boliviano Franz Tamayo sostenía que:",
+      "context": "En Oruro, el estudiante Limbert del Colegio San Calixto estudia las propuestas pedagógicas de Franz Tamayo en 'Creación de la Pedagogía Nacional'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La educación debía impartirse exclusivamente en idioma francés en las escuelas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Promovía una pedagogía basada en la energía vital del suelo y pueblo boliviano."
+        },
+        {
+          "letter": "B",
+          "text": "Se debía erradicar a las comunidades originarias para poblar el país con inmigrantes europeos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tamayo criticó la visión europeizante valorando el carácter del indígena."
+        },
+        {
+          "letter": "C",
+          "text": "La cultura nativa carecía de valor ético para la formación de la juventud",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tamayo consideró al indígena el depósito moral del carácter nacional."
+        },
+        {
+          "letter": "D",
+          "text": "La fuerza vital y la energía moral de la nación residen en el carácter y la cultura del indígena boliviano",
+          "is_correct": true,
+          "feedback": "Correcto. Criticó la imitación servil de modelos pedagógicos europeos desvinculados de la realidad nacional."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Tamayo revalorizó la vitalidad física y moral del indígena frente al desprecio elitista de la pedagogía liberal.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle-v8",
+      "statement": "El escritor Alcides Arguedas representó la corriente del positivismo pesimista del siglo XX en obras como 'Pueblo Enfermo' (1909), donde sostenía que:",
+      "context": "En Tarija, la estudiante Shirley del Colegio Nacional Pichincha analiza la crítica sociológica al pesimismo posivista de Alcides Arguedas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El pongueaje servil era la única forma justa de organización agraria",
+          "is_correct": false,
+          "feedback": "Incorrecto. Arguedas criticaba vicios sociales pero mantenía la visión elitista del positivismo."
+        },
+        {
+          "letter": "B",
+          "text": "Los males de Bolivia derivaban del determinismo geográfico y del mestizaje, expresando el pesimismo de las élites liberales",
+          "is_correct": true,
+          "feedback": "Correcto. Diagnosticó a la sociedad boliviana desde prejuicios raciales y deterministas de su época."
+        },
+        {
+          "letter": "C",
+          "text": "Bolivia era una potencia industrial invencible impulsada por las culturas andinas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La obra de Arguedas es célebre por su mirada pesimista sobre el futuro nacional."
+        },
+        {
+          "letter": "D",
+          "text": "La educación comunitaria originaria era superior a la ciencia occidental",
+          "is_correct": false,
+          "feedback": "Incorrecto. Arguedas minusvaloraba las capacidades de las mayorías indígenas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ensayo arguediano refleja el pesimismo de las élites oligarchicas que juzgaban al pueblo boliviano como 'incapaz' para el progreso.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle-v9",
+      "statement": "Redactada en 1946 en el Congreso de la Federación de Mineros, la histórica 'Tesis de Pulacayo' fue elaborada con la influencia del pensador:",
+      "context": "En Trinidad, el estudiante Boris del Colegio Antonio Vaca Díez examina los principios fundamentales de la Tesis de Pulacayo de 1946.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Guillermo Lora (líder del Partido Obrero Revolucionario - POR)",
+          "is_correct": true,
+          "feedback": "Correcto. Planteó la revolución de los mineros y la huelga general como instrumentos de lucha."
+        },
+        {
+          "letter": "B",
+          "text": "Víctor Paz Estenssoro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dirigente del MNR nacionalista, distinto del trotskismo de Pulacayo."
+        },
+        {
+          "letter": "C",
+          "text": "Gabriel René Moreno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Historiador del siglo XIX anterior al sindicalismo minero."
+        },
+        {
+          "letter": "D",
+          "text": "Fausto Reinaga",
+          "is_correct": false,
+          "feedback": "Incorrecto. Teórico del indianismo, crítico de las tesis marxistas ortodoxas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Tesis de Pulacayo aplicó el programa de la revolución permanente de Trotsky al sector minero boliviano.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle-v10",
+      "statement": "Intelectual patriota, escritor y líder del Partido Socialista (PS-1), autor de la nacionalización del petróleo en 1969, asesinado en 1980 por la dictadura militar:",
+      "context": "En Cobija, el estudiante Franz del Colegio Nacional Florida investiga la vida y obra política de Marcelo Quiroga Santa Cruz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Marcelo Quiroga Santa Cruz",
+          "is_correct": true,
+          "feedback": "Correcto. Defensor insobornable de la soberanía hidrocarburífera e impulsor del juicio a Banzer."
+        },
+        {
+          "letter": "B",
+          "text": "Carlos Montenegro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ensayista del nacionalismo revolucionario fallecido en 1953."
+        },
+        {
+          "letter": "C",
+          "text": "Alcides Arguedas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Escritor positivista fallecido en 1946."
+        },
+        {
+          "letter": "D",
+          "text": "Franz Tamayo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Poeta y político fallecido en 1956."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Marcelo Quiroga Santa Cruz simboliza la integridad intelectual y la lucha intransigente contra las dictaduras y el saqueo de los recursos.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle-v11",
+      "statement": "En sus obras 'El Poder de la Rosca' y 'Réquiem para una República', el ensayista Sergio Almaraz Paz denunció:",
+      "context": "En Tupiza, la estudiante Nancy del Colegio Nacional Ayacucho estudia la crítica al imperialismo económico en los ensayos de Sergio Almaraz Paz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El excesivo presupuesto destinado a las escuelas campesinas rurales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Almaraz defendía los recursos nacionales en favor del pueblo."
+        },
+        {
+          "letter": "B",
+          "text": "La dominación de los Barones del Estaño y la entrega del petróleo nacional al capital transnacional",
+          "is_correct": true,
+          "feedback": "Correcto. Analizó la enajenación del patrimonio minero y petrolero boliviano."
+        },
+        {
+          "letter": "C",
+          "text": "La prohibición de la importación de mercancías de Europa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su crítica se centraba en la penetración imperialista en la minería."
+        },
+        {
+          "letter": "D",
+          "text": "El uso de la hoja de coca en los ritos comunitarios andinos",
+          "is_correct": false,
+          "feedback": "Incorrecto. No fue tema de sus ensayos económicos sobre la minería y petróleo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sergio Almaraz Paz alertó sobre la pérdida de soberanía económica a manos de monopolios privados y petroleras.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle-v12",
+      "statement": "En su célebre libro 'Nacionalismo y Coloniaje' (1943), Carlos Montenegro interpretó la historia boliviana como:",
+      "context": "En Uyuni, el estudiante Edwin de la Unidad Educativa Don Bosco analiza el esquema dicotómico 'Nación vs. Coloniaje' en la obra de Carlos Montenegro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una lucha constante entre el sentimiento 'nacional' independiente y la subordinación 'colonial' a intereses extranjeros",
+          "is_correct": true,
+          "feedback": "Correcto. Analizó el papel de la prensa y las élites en la enajenación o defensa de la patria."
+        },
+        {
+          "letter": "B",
+          "text": "La inviabilidad de la nación boliviana como Estado soberano",
+          "is_correct": false,
+          "feedback": "Incorrecto. Montenegro argumentó la existencia y fortaleza de la conciencia nacional."
+        },
+        {
+          "letter": "C",
+          "text": "Una sucesión pacífica de gobiernos democráticos orientados al libre mercado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Denunció la violencia y la sumisión colonial de la prensa oligárquica."
+        },
+        {
+          "letter": "D",
+          "text": "El triunfo definitivo de la corona española sobre las provincias andinas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Defendía el proyecto nacional independiente de la república."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Montenegro sentó las bases teóricas del Nacionalismo Revolucionario al desvelar las mentiras de la historiografía oligárquica.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle-v13",
+      "statement": "La 'Descolonización del Pensamiento' en el contexto sociológico boliviano propone:",
+      "context": "En Viacha, el estudiante Marcelo del Colegio Bolívar evalúa los principios de la descolonización en la educación superior boliviana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Adoptar obligatoriamente la filosofía política feudal del siglo XII",
+          "is_correct": false,
+          "feedback": "Incorrecto. Propone el pensamiento crítico descolonizador contemporáneo."
+        },
+        {
+          "letter": "B",
+          "text": "Restablecer las encomiendas coloniales del siglo XVI",
+          "is_correct": false,
+          "feedback": "Incorrecto. La descolonización busca erradicar toda herencia servil o colonial."
+        },
+        {
+          "letter": "C",
+          "text": "Rechazar de forma absoluta todo avance científico o tecnológico producido fuera de Bolivia",
+          "is_correct": false,
+          "feedback": "Incorrecto. No busca la autarquía cognitiva sino el diálogo intercultural sin hegemonías."
+        },
+        {
+          "letter": "D",
+          "text": "Desmantelar las jerarquías eurocéntricas y raciales valorando los saberes originarios en diálogo con la ciencia universal",
+          "is_correct": true,
+          "feedback": "Correcto. Supera la subordinación intelectual reconociendo la diversidad epistemológica del país."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Descolonizar implica desmontar el eurocentrismo académico recuperando la dignidad de las filosofías andino-amazónicas.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle-v14",
+      "statement": "El concepto político y social de 'Despatriarcalización' busca fundamentalmente:",
+      "context": "En Quillacollo, el estudiante Freddy del Colegio San Simón analiza las políticas de despatriarcalización en el Estado Plurinacional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prohibir la participación de las mujeres en los sindicatos y alcaldías",
+          "is_correct": false,
+          "feedback": "Incorrecto. Busca garantizar la paridad y la voz plena de las mujeres."
+        },
+        {
+          "letter": "B",
+          "text": "Consolidar el poder exclusivo de los varones en la administración de la hacienda",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el modelo patriarcal que la despatriarcalización combate."
+        },
+        {
+          "letter": "C",
+          "text": "Erradicar el dominio machista y las estructuras patriarcales heredadas de la colonia para construir relaciones de equidad entre mujeres y hombres",
+          "is_correct": true,
+          "feedback": "Correcto. Articula la lucha contra el racismo con la superación del machismo sistémico."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituir la Constitución por leyes eclesiásticas de la época colonial",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un proceso laico emancipatorio de los derechos de la mujer."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La despatriarcalización sostiene que no puede existir descolonización real sin desmantelar el machismo y la violencia hacia las mujeres.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle-v15",
+      "statement": "El paradigma del 'Vivir Bien' (Suma Qamaña en aymara / Sumak Kawsay en quechua) plantea una alternativa al desarrollo capitalista basada en:",
+      "context": "En Sacaba, el estudiante René del Colegio Nacional Junín compara el paradigma del 'Vivir Bien' con el concepto occidental de desarrollo económico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El aislamiento de las personas en un individualismo competitivo absoluto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Vivir Bien privilegia la vida comunitaria recíproca."
+        },
+        {
+          "letter": "B",
+          "text": "La explotación intensiva e ilimitada de los recursos naturales para maximizar el lucro privado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el modelo consumista al que el Vivir Bien se opone."
+        },
+        {
+          "letter": "C",
+          "text": "La armonía, complementariedad y equilibrio entre los seres humanos, la comunidad y la Madre Tierra (Pachamama)",
+          "is_correct": true,
+          "feedback": "Correcto. Cuestiona la acumulación consumista ilimitada que destruye el medio ambiente."
+        },
+        {
+          "letter": "D",
+          "text": "La sustitución de la agricultura por la producción industrial pesada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Promueve la armonía con los ciclos naturales de la biosfera."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Vivir Bien propone una filosofía de vida donde el centro no es el capital ni el consumo sino el equilibrio ecológico y comunitario.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle-v16",
+      "statement": "La experiencia pedagógica revolucionaria de la 'Escuela Ayllu de Warisata' fundada en 1931 por Elizardo Pérez y Avelino Siñani integró:",
+      "context": "En Montero, la estudiante Lidia de la Unidad Educativa Juan Pablo II estudia los principios pedagógicos de la Escuela Ayllu de Warisata de 1931.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La educación castellanizadora forzada de memorización escolástica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Rompió con el modelo castellanizador integrando la cultura aymara."
+        },
+        {
+          "letter": "B",
+          "text": "El estudio, el trabajo productivo y la organización comunitaria del ayllu guiados por el Parlamento Amauta",
+          "is_correct": true,
+          "feedback": "Correcto. Constituyó el hito de la educación indígena liberadora y auto-gestionada."
+        },
+        {
+          "letter": "C",
+          "text": "La instrucción militar dictatorial en régimen de internado obligatorio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Warisata fue una escuela comunal basada en la reciprocidad y trabajo productivo."
+        },
+        {
+          "letter": "D",
+          "text": "La formación de contadores mercantiles para empresas europeas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Formó a comunarios para el desarrollo autónomo de sus markas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Warisata demostró la capacidad creadora de la comunidad aymara al vincular el aula con la tierra y el trabajo productivo.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle-v17",
+      "statement": "En la cosmovisión andina, los principios sociológicos del 'Ayni' y la 'Minka' representan:",
+      "context": "En Riberalta, el estudiante Mateo del Colegio San Calixto examina el funcionamiento práctico del Ayni y la Minka en las comunidades andinas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Practicas ancestrales de reciprocidad mutualista (Ayni) y trabajo comunitario en beneficio del bien común (Minka)",
+          "is_correct": true,
+          "feedback": "Correcto. Son pilares de la economía comunitaria vigentes en los ayllus bolivianos."
+        },
+        {
+          "letter": "B",
+          "text": "Sanciones de destierro aplicadas a los infractores de la ley penal ordinaria",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son formas de organización del trabajo agrícola y social."
+        },
+        {
+          "letter": "C",
+          "text": "Contratos de arrendamiento mercantil de la banca privada contemporánea",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Ayni y la Minka se basan en la solidaridad comunitaria no mercantil."
+        },
+        {
+          "letter": "D",
+          "text": "Impuestos tributarios obligatorios cobrados por los corregidores coloniales",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mita y el tributo de indios eran cargas coloniales de explotación servil."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Ayni ('hoy por ti, mañana por mí') y la Minka sostienen la solidaridad y cohesión social del ayllu.\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle-v18",
+      "statement": "La 'Interculturalidad Crítica' impulsada por el pensamiento latinoamericano contemporáneo se diferencia del 'Multiculturalismo Liberal' en que:",
+      "context": "En Warnes, la estudiante Camila del Colegio Nacional Pichincha compara la Interculturalidad Crítica con el Multiculturalismo Liberal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Propone la separación física de los grupos étnicos en provincias independientes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Busca la convivencia plurinacional en un mismo Estado equitativo."
+        },
+        {
+          "letter": "B",
+          "text": "Cuestiona las estructuras coloniales de poder económico y busca la transformación social equitativa entre culturas",
+          "is_correct": true,
+          "feedback": "Correcto. El multiculturalismo liberal solo 'tolera' la diversidad sin alterar las desigualdades de fondo."
+        },
+        {
+          "letter": "C",
+          "text": "Niega la existencia de diferencias culturales en la sociedad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reconoce la diversidad pero exige desmontar las jerarquías de poder."
+        },
+        {
+          "letter": "D",
+          "text": "Exige la asimilación obligatoria de todas las minorías a una sola cultura dominante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el modelo de asimilacionismo hispanista tradicional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La interculturalidad crítica desmonta el racismo estructural promoviendo un diálogo de saberes entre iguales.\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle-v19",
+      "statement": "Al analizar la Tesis de las 'dos tareas' del Katarismo (liberación social y liberación nacional), ¿qué aporte clave brindó a la sociología boliviana?",
+      "context": "En Colcapirhua, el estudiante Gonzalo del Colegio Antonio Vaca Díez evalúa la vigencia del pensamiento katarista en el siglo XXI.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recomendó la sustitución total del trabajo campesino por robots industriales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reivindicó al campesino originario como sujeto histórico."
+        },
+        {
+          "letter": "B",
+          "text": "Propuso que los problemas del campo se resuelven exclusivamente mediante el libre mercado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Katarismo fue un movimiento crítico del capitalismo excluyente."
+        },
+        {
+          "letter": "C",
+          "text": "Afirmó que la cuestión indígena fue resuelta por completo en la independencia de 1825",
+          "is_correct": false,
+          "feedback": "Incorrecto. Denunció que la república señorial mantuvo el colonialismo interno."
+        },
+        {
+          "letter": "D",
+          "text": "Demostró que en Bolivia la opresión de clase está indisolublemente ligada a la discriminación étnico-racial heredada del coloniaje",
+          "is_correct": true,
+          "feedback": "Correcto. Superó la ceguera del marxismo ortodoxo que ignoraba la dimensión indígena del trabajador."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El Katarismo develó la articulación entre explotación económica y opresión étnico-cultural en Bolivia.\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle-v20",
+      "statement": "Al juzgar de manera integral el legado del pensamiento crítico boliviano desde Tamayo hasta Zavaleta y Reinaga, ¿cuál es su contribución fundamental?",
+      "context": "En Yacuiba, la estudiante Paola del Colegio Nacional Florida elabora un ensayo de síntesis sobre los principales aportes del pensamiento crítico boliviano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Haber imitado fielmente las doctrinas políticas feudales de los reinos europeos del siglo XV",
+          "is_correct": false,
+          "feedback": "Incorrecto. Crearon categorías originales para comprender la realidad boliviana."
+        },
+        {
+          "letter": "B",
+          "text": "Haber postulado la entrega de la soberanía nacional a consorcios multinacionales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Defendieron de forma intransigente la soberanía y la autodeterminación del pueblo."
+        },
+        {
+          "letter": "C",
+          "text": "Haber recomendado el abandono definitivo del estudio de la historia boliviana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fundamentaron su análisis en la reconstrucción crítica del proceso histórico."
+        },
+        {
+          "letter": "D",
+          "text": "Haber aportado categorías propias para interpretar la realidad abigarrada y plurinacional del país desde su propia memoria e identidad",
+          "is_correct": true,
+          "feedback": "Correcto. Construyeron una epistemología soberana liberada del calco eurocéntrico."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El pensamiento crítico boliviano ofrece herramientas conceptuales propias para pensar la descolonización y la transformación plurinacional.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "BO-SOC-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    }
+  ]
+}

@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematica",
+    "country": "ar",
+    "pack_id": "ar-week-18-grade-11-subject-matematica",
+    "generated_at": "2026-09-12T16:46:07.216Z"
+  },
+  "questions": [
+    {
+      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v1",
+      "statement": "Dada la recta $R_1: y = 3x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
+      "context": "Geometría analítica de rectas en el plano Caso N° 1.\n**ID:** AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v1\n**Bloom:** Remember\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m_2 = 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
+        },
+        {
+          "letter": "B",
+          "text": "$m_2 = -3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
+        },
+        {
+          "letter": "C",
+          "text": "$m_2 = -\\frac{1}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
+        },
+        {
+          "letter": "D",
+          "text": "$m_2 = \\frac{1}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente recíproca."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 3$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v2",
+      "statement": "Dada la recta $R_1: y = 4x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
+      "context": "Geometría analítica de rectas en el plano Caso N° 2.\n**ID:** AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v2\n**Bloom:** Remember\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m_2 = 4$",
+          "is_correct": true,
+          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
+        },
+        {
+          "letter": "B",
+          "text": "$m_2 = -4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
+        },
+        {
+          "letter": "C",
+          "text": "$m_2 = -\\frac{1}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
+        },
+        {
+          "letter": "D",
+          "text": "$m_2 = \\frac{1}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente recíproca."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 4$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v3",
+      "statement": "Dada la recta $R_1: y = 5x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
+      "context": "Geometría analítica de rectas en el plano Caso N° 3.\n**ID:** AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v3\n**Bloom:** Understand\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.86",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m_2 = 5$",
+          "is_correct": true,
+          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
+        },
+        {
+          "letter": "B",
+          "text": "$m_2 = -5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
+        },
+        {
+          "letter": "C",
+          "text": "$m_2 = -\\frac{1}{5}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
+        },
+        {
+          "letter": "D",
+          "text": "$m_2 = \\frac{1}{5}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente recíproca."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 5$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.86,
+      "bundle_id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v4",
+      "statement": "Dada la recta $R_1: y = 6x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
+      "context": "Geometría analítica de rectas en el plano Caso N° 4.\n**ID:** AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v4\n**Bloom:** Understand\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.84",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m_2 = 6$",
+          "is_correct": true,
+          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
+        },
+        {
+          "letter": "B",
+          "text": "$m_2 = -6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
+        },
+        {
+          "letter": "C",
+          "text": "$m_2 = -\\frac{1}{6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
+        },
+        {
+          "letter": "D",
+          "text": "$m_2 = \\frac{1}{6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente recíproca."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 6$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v5",
+      "statement": "Dada la recta $R_1: y = 7x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
+      "context": "Geometría analítica de rectas en el plano Caso N° 5.\n**ID:** AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v5\n**Bloom:** Understand\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.82",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m_2 = 7$",
+          "is_correct": true,
+          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
+        },
+        {
+          "letter": "B",
+          "text": "$m_2 = -7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
+        },
+        {
+          "letter": "C",
+          "text": "$m_2 = -\\frac{1}{7}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
+        },
+        {
+          "letter": "D",
+          "text": "$m_2 = \\frac{1}{7}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente recíproca."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 7$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v6",
+      "statement": "Dada la recta $R_1: y = 8x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
+      "context": "Geometría analítica de rectas en el plano Caso N° 6.\n**ID:** AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v6\n**Bloom:** Apply\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m_2 = 8$",
+          "is_correct": true,
+          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
+        },
+        {
+          "letter": "B",
+          "text": "$m_2 = -8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
+        },
+        {
+          "letter": "C",
+          "text": "$m_2 = -\\frac{1}{8}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
+        },
+        {
+          "letter": "D",
+          "text": "$m_2 = \\frac{1}{8}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente recíproca."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 8$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v7",
+      "statement": "Dada la recta $R_1: y = 9x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
+      "context": "Geometría analítica de rectas en el plano Caso N° 7.\n**ID:** AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v7\n**Bloom:** Apply\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m_2 = 9$",
+          "is_correct": true,
+          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
+        },
+        {
+          "letter": "B",
+          "text": "$m_2 = -9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
+        },
+        {
+          "letter": "C",
+          "text": "$m_2 = -\\frac{1}{9}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
+        },
+        {
+          "letter": "D",
+          "text": "$m_2 = \\frac{1}{9}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente recíproca."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 9$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v8",
+      "statement": "Dada la recta $R_1: y = 10x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
+      "context": "Geometría analítica de rectas en el plano Caso N° 8.\n**ID:** AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v8\n**Bloom:** Apply\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.76",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m_2 = 10$",
+          "is_correct": true,
+          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
+        },
+        {
+          "letter": "B",
+          "text": "$m_2 = -10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
+        },
+        {
+          "letter": "C",
+          "text": "$m_2 = -\\frac{1}{10}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
+        },
+        {
+          "letter": "D",
+          "text": "$m_2 = \\frac{1}{10}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente recíproca."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 10$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.76,
+      "bundle_id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v9",
+      "statement": "Dada la recta $R_1: y = 11x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
+      "context": "Geometría analítica de rectas en el plano Caso N° 9.\n**ID:** AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v9\n**Bloom:** Apply\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.74",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m_2 = 11$",
+          "is_correct": true,
+          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
+        },
+        {
+          "letter": "B",
+          "text": "$m_2 = -11$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
+        },
+        {
+          "letter": "C",
+          "text": "$m_2 = -\\frac{1}{11}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
+        },
+        {
+          "letter": "D",
+          "text": "$m_2 = \\frac{1}{11}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente recíproca."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 11$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.74,
+      "bundle_id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v10",
+      "statement": "Dada la recta $R_1: y = 12x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
+      "context": "Geometría analítica de rectas en el plano Caso N° 10.\n**ID:** AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v10\n**Bloom:** Apply\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.72",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m_2 = 12$",
+          "is_correct": true,
+          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
+        },
+        {
+          "letter": "B",
+          "text": "$m_2 = -12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
+        },
+        {
+          "letter": "C",
+          "text": "$m_2 = -\\frac{1}{12}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
+        },
+        {
+          "letter": "D",
+          "text": "$m_2 = \\frac{1}{12}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente recíproca."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 12$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v11",
+      "statement": "Dada la recta $R_1: y = 13x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
+      "context": "Geometría analítica de rectas en el plano Caso N° 11.\n**ID:** AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v11\n**Bloom:** Analyze\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m_2 = 13$",
+          "is_correct": true,
+          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
+        },
+        {
+          "letter": "B",
+          "text": "$m_2 = -13$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
+        },
+        {
+          "letter": "C",
+          "text": "$m_2 = -\\frac{1}{13}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
+        },
+        {
+          "letter": "D",
+          "text": "$m_2 = \\frac{1}{13}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente recíproca."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 13$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v12",
+      "statement": "Dada la recta $R_1: y = 14x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
+      "context": "Geometría analítica de rectas en el plano Caso N° 12.\n**ID:** AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v12\n**Bloom:** Analyze\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.68",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m_2 = 14$",
+          "is_correct": true,
+          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
+        },
+        {
+          "letter": "B",
+          "text": "$m_2 = -14$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
+        },
+        {
+          "letter": "C",
+          "text": "$m_2 = -\\frac{1}{14}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
+        },
+        {
+          "letter": "D",
+          "text": "$m_2 = \\frac{1}{14}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente recíproca."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 14$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.68,
+      "bundle_id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v13",
+      "statement": "Dada la recta $R_1: y = 15x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
+      "context": "Geometría analítica de rectas en el plano Caso N° 13.\n**ID:** AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v13\n**Bloom:** Analyze\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.66",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m_2 = 15$",
+          "is_correct": true,
+          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
+        },
+        {
+          "letter": "B",
+          "text": "$m_2 = -15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
+        },
+        {
+          "letter": "C",
+          "text": "$m_2 = -\\frac{1}{15}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
+        },
+        {
+          "letter": "D",
+          "text": "$m_2 = \\frac{1}{15}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente recíproca."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 15$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.66,
+      "bundle_id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v14",
+      "statement": "Dada la recta $R_1: y = 16x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
+      "context": "Geometría analítica de rectas en el plano Caso N° 14.\n**ID:** AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v14\n**Bloom:** Analyze\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.64",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m_2 = 16$",
+          "is_correct": true,
+          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
+        },
+        {
+          "letter": "B",
+          "text": "$m_2 = -16$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
+        },
+        {
+          "letter": "C",
+          "text": "$m_2 = -\\frac{1}{16}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
+        },
+        {
+          "letter": "D",
+          "text": "$m_2 = \\frac{1}{16}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente recíproca."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 16$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.64,
+      "bundle_id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v15",
+      "statement": "Dada la recta $R_1: y = 17x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
+      "context": "Geometría analítica de rectas en el plano Caso N° 15.\n**ID:** AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v15\n**Bloom:** Apply\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.62",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m_2 = 17$",
+          "is_correct": true,
+          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
+        },
+        {
+          "letter": "B",
+          "text": "$m_2 = -17$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
+        },
+        {
+          "letter": "C",
+          "text": "$m_2 = -\\frac{1}{17}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
+        },
+        {
+          "letter": "D",
+          "text": "$m_2 = \\frac{1}{17}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente recíproca."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 17$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v16",
+      "statement": "Dada la recta $R_1: y = 18x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
+      "context": "Geometría analítica de rectas en el plano Caso N° 16.\n**ID:** AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v16\n**Bloom:** Analyze\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m_2 = 18$",
+          "is_correct": true,
+          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
+        },
+        {
+          "letter": "B",
+          "text": "$m_2 = -18$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
+        },
+        {
+          "letter": "C",
+          "text": "$m_2 = -\\frac{1}{18}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
+        },
+        {
+          "letter": "D",
+          "text": "$m_2 = \\frac{1}{18}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente recíproca."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 18$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v17",
+      "statement": "Dada la recta $R_1: y = 19x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
+      "context": "Geometría analítica de rectas en el plano Caso N° 17.\n**ID:** AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v17\n**Bloom:** Evaluate\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.58",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m_2 = 19$",
+          "is_correct": true,
+          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
+        },
+        {
+          "letter": "B",
+          "text": "$m_2 = -19$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
+        },
+        {
+          "letter": "C",
+          "text": "$m_2 = -\\frac{1}{19}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
+        },
+        {
+          "letter": "D",
+          "text": "$m_2 = \\frac{1}{19}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente recíproca."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 19$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.58,
+      "bundle_id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v18",
+      "statement": "Dada la recta $R_1: y = 20x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
+      "context": "Geometría analítica de rectas en el plano Caso N° 18.\n**ID:** AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v18\n**Bloom:** Evaluate\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.56",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m_2 = 20$",
+          "is_correct": true,
+          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
+        },
+        {
+          "letter": "B",
+          "text": "$m_2 = -20$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
+        },
+        {
+          "letter": "C",
+          "text": "$m_2 = -\\frac{1}{20}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
+        },
+        {
+          "letter": "D",
+          "text": "$m_2 = \\frac{1}{20}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente recíproca."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 20$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.56,
+      "bundle_id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v19",
+      "statement": "Dada la recta $R_1: y = 21x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
+      "context": "Geometría analítica de rectas en el plano Caso N° 19.\n**ID:** AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v19\n**Bloom:** Evaluate\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.54",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m_2 = 21$",
+          "is_correct": true,
+          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
+        },
+        {
+          "letter": "B",
+          "text": "$m_2 = -21$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
+        },
+        {
+          "letter": "C",
+          "text": "$m_2 = -\\frac{1}{21}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
+        },
+        {
+          "letter": "D",
+          "text": "$m_2 = \\frac{1}{21}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente recíproca."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 21$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.54,
+      "bundle_id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v20",
+      "statement": "Dada la recta $R_1: y = 22x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
+      "context": "Geometría analítica de rectas en el plano Caso N° 20.\n**ID:** AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v20\n**Bloom:** Evaluate\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.52",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m_2 = 22$",
+          "is_correct": true,
+          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
+        },
+        {
+          "letter": "B",
+          "text": "$m_2 = -22$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
+        },
+        {
+          "letter": "C",
+          "text": "$m_2 = -\\frac{1}{22}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
+        },
+        {
+          "letter": "D",
+          "text": "$m_2 = \\frac{1}{22}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la pendiente recíproca."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 22$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.52,
+      "bundle_id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    }
+  ]
+}

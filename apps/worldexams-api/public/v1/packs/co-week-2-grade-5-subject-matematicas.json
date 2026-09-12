@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-2-grade-5-subject-matematicas",
+    "generated_at": "2026-09-12T16:46:07.564Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-5-2026-W02-fracciones-basicas-001-MASTERY-bundle-v1",
+      "statement": "Si María y sus hermanos se comen 5 porciones de la pizza, ¿qué fracción de la pizza completa representas esa cantidad consumida?",
+      "context": "María divide una pizza circular en 8 porciones de igual tamaño durante un almuerzo familiar en Pereira.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5/8.",
+          "is_correct": true,
+          "feedback": "El numerador 5 indica las partes tomadas y el denominador 8 indica el total de partes iguales."
+        },
+        {
+          "letter": "B",
+          "text": "3/8.",
+          "is_correct": false,
+          "feedback": "3/8 representa la fracción de pizza que sobró, no la que se comieron."
+        },
+        {
+          "letter": "C",
+          "text": "8/5.",
+          "is_correct": false,
+          "feedback": "Se invirtieron el numerador y el denominador."
+        },
+        {
+          "letter": "D",
+          "text": "5/3.",
+          "is_correct": false,
+          "feedback": "Muestra la relación entre las partes comidas y las restantes, no respecto al total."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una fracción propia a/b expresa una cantidad tomada (a) respecto a un conjunto o unidad dividida en partes iguales (b).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-5-2026-W02-fracciones-basicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W02-fracciones-basicas-001-MASTERY-bundle-v2",
+      "statement": "Andrés pintó 2/4 de su lámina y Juliana pintó 1/2 de la suya. ¿Cómo se comparan las áreas pintadas por ambos estudiantes?",
+      "context": "En la clase de artes de un colegio en Ibagué, dos estudiantes pintan láminas de papel de la misma dimensión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pintaron exactamente la misma área porque 2/4 y 1/2 son fracciones equivalentes.",
+          "is_correct": true,
+          "feedback": "Al simplificar 2/4 dividiendo entre 2 se obtiene 1/2, demostrando que representan la misma cantidad."
+        },
+        {
+          "letter": "B",
+          "text": "Andrés pintó más porque el numerador 2 es mayor que 1.",
+          "is_correct": false,
+          "feedback": "Para comparar fracciones se debe analizar la relación de las partes con el todo, no solo los numeradores."
+        },
+        {
+          "letter": "C",
+          "text": "Juliana pintó el doble que Andrés porque 2 está en el denominador de su fracción.",
+          "is_correct": false,
+          "feedback": "El denominador indica la división de la unidad, no una multiplicación de superficie."
+        },
+        {
+          "letter": "D",
+          "text": "Andrés pintó menos porque 4 es mayor que 2.",
+          "is_correct": false,
+          "feedback": "Un denominador más grande indica partes más pequeñas, pero al tomar 2 partes se equipara a 1/2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las fracciones equivalentes representan la misma porción de la unidad aunque sus términos numéricos sean distintos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-MAT-5-2026-W02-fracciones-basicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W02-fracciones-basicas-001-MASTERY-bundle-v3",
+      "statement": "¿Qué fracción de la capacidad total del depósito está llena al finalizar la tarde?",
+      "context": "Un depósito de agua para riego en una finca de Armenia contiene 3/10 de su capacidad en la mañana. Por la tarde, la lluvia aporta 4/10 adicionales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7/10.",
+          "is_correct": true,
+          "feedback": "Al tener el mismo denominador, se suman los numeradores: 3/10 + 4/10 = 7/10."
+        },
+        {
+          "letter": "B",
+          "text": "7/20.",
+          "is_correct": false,
+          "feedback": "Se sumaron erróneamente los denominadores (10 + 10 = 20)."
+        },
+        {
+          "letter": "C",
+          "text": "1/10.",
+          "is_correct": false,
+          "feedback": "Se realizó una resta (4/10 - 3/10) en lugar de una adición."
+        },
+        {
+          "letter": "D",
+          "text": "12/10.",
+          "is_correct": false,
+          "feedback": "Se multiplicaron los numeradores en lugar de sumarlos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para sumar fracciones homogéneas (mismo denominador), se suman los numeradores y se conserva el denominador común.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.77,
+      "bundle_id": "CO-MAT-5-2026-W02-fracciones-basicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W02-fracciones-basicas-001-MASTERY-bundle-v4",
+      "statement": "¿Cuántas hectáreas del terreno están destinadas al cultivo de papa?",
+      "context": "En un terreno agrícola de Tunja de 24 hectáreas, el dueño dedica 1/3 de la superficie al cultivo de papa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8 hectáreas.",
+          "is_correct": true,
+          "feedback": "Calcular 1/3 de 24 equivale a dividir 24 entre 3, lo cual resulta en 8 hectáreas."
+        },
+        {
+          "letter": "B",
+          "text": "6 hectáreas.",
+          "is_correct": false,
+          "feedback": "Se dividió 24 entre 4 en lugar de dividir entre 3."
+        },
+        {
+          "letter": "C",
+          "text": "12 hectáreas.",
+          "is_correct": false,
+          "feedback": "Corresponde a la mitad del terreno (1/2), no a un tercio (1/3)."
+        },
+        {
+          "letter": "D",
+          "text": "3 hectáreas.",
+          "is_correct": false,
+          "feedback": "Se tomó el valor del denominador 3 directamente como respuesta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Calcular la fracción de un número entero requiere dividir el número total entre el denominador y multiplicar por el numerador.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.73,
+      "bundle_id": "CO-MAT-5-2026-W02-fracciones-basicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W02-fracciones-basicas-001-MASTERY-bundle-v5",
+      "statement": "¿Qué fracción de la barra de chocolate le queda disponible a Carlos para el día siguiente?",
+      "context": "Carlos tiene una barra de chocolate dividida en 12 pastillas iguales. Se come 3/12 por la mañana y 4/12 por la tarde.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5/12.",
+          "is_correct": true,
+          "feedback": "Carlos consume 3/12 + 4/12 = 7/12. La fracción restante es 12/12 - 7/12 = 5/12."
+        },
+        {
+          "letter": "B",
+          "text": "7/12.",
+          "is_correct": false,
+          "feedback": "7/12 es la fracción total consumida, no la cantidad restante."
+        },
+        {
+          "letter": "C",
+          "text": "1/12.",
+          "is_correct": false,
+          "feedback": "Se restaron los numeradores consumidos (4 - 3 = 1) en lugar de restar del total."
+        },
+        {
+          "letter": "D",
+          "text": "8/12.",
+          "is_correct": false,
+          "feedback": "Se restó únicamente la porción consumida por la mañana (12 - 3 = 9/12) y se cometió error de cálculo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El complemento de una fracción respecto a la unidad entera representa la cantidad remanente o sobrante.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.69,
+      "bundle_id": "CO-MAT-5-2026-W02-fracciones-basicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W02-fracciones-basicas-001-MASTERY-bundle-v6",
+      "statement": "¿Qué cantidad total sumada forman estos dos ingredientes secos en tazas?",
+      "context": "En una receta de cocina colombiana para preparar natilla, se requieren 1/2 taza de azúcar y 1/4 taza de almidón de maíz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3/4 de taza.",
+          "is_correct": true,
+          "feedback": "Convertimos 1/2 a fracción equivalente con denominador 4 (2/4). Luego sumamos 2/4 + 1/4 = 3/4."
+        },
+        {
+          "letter": "B",
+          "text": "2/6 de taza.",
+          "is_correct": false,
+          "feedback": "Error común de sumar numeradores con numeradores y denominadores con denominadores (1+1 / 2+4)."
+        },
+        {
+          "letter": "C",
+          "text": "2/4 de taza.",
+          "is_correct": false,
+          "feedback": "Corresponde únicamente a la cantidad de azúcar (1/2 = 2/4), ignorando el almidón."
+        },
+        {
+          "letter": "D",
+          "text": "1/6 de taza.",
+          "is_correct": false,
+          "feedback": "Se multiplicaron los denominadores y no se aplicó el algoritmo de adición de heterogéneas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para sumar fracciones heterogéneas (diferente denominador), se deben amplificar para obtener denominadores comunes antes de adicionar numeradores.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.61,
+      "bundle_id": "CO-MAT-5-2026-W02-fracciones-basicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W02-fracciones-basicas-001-MASTERY-bundle-v7",
+      "statement": "Si Tomás come 2 porciones de la primera pizza y Lucía come 4 porciones de la segunda pizza, ¿quién comió más pizza?",
+      "context": "Cuatro amigos en Villavicencio compran dos pizzas de igual tamaño. La primera pizza se corta en 6 porciones iguales y la segunda se corta en 12 porciones iguales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos comieron exactamente la misma cantidad de pizza.",
+          "is_correct": true,
+          "feedback": "Tomás comió 2/6 = 1/3 de pizza. Lucía comió 4/12 = 1/3 de pizza. Ambas cantidades son iguales."
+        },
+        {
+          "letter": "B",
+          "text": "Lucía comió más porque 4 porciones son más que 2 porciones.",
+          "is_correct": false,
+          "feedback": "El número de porciones no determina la cantidad total sin considerar el tamaño de cada porción (denominador)."
+        },
+        {
+          "letter": "C",
+          "text": "Tomás comió más porque las porciones de 1/6 son el doble de grandes que las de 1/12.",
+          "is_correct": false,
+          "feedback": "Aunque las porciones de Tomás eran más grandes, Lucía comió el doble de porciones, equilibrando el consumo."
+        },
+        {
+          "letter": "D",
+          "text": "Lucía comió el doble de pizza que Tomás.",
+          "is_correct": false,
+          "feedback": "No consideró que el tamaño de las porciones de la segunda pizza era la mitad del de la primera."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La equivalencia entre fracciones permite comparar magnitudes divididas en distinto número de partes relativas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.56,
+      "bundle_id": "CO-MAT-5-2026-W02-fracciones-basicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W02-fracciones-basicas-001-MASTERY-bundle-v8",
+      "statement": "¿Cuántos estudiantes prefieren la natación?",
+      "context": "En un curso de 30 estudiantes en Bucaramanga, 1/2 del grupo prefiere practicar fútbol, 1/3 prefiere baloncesto y el resto prefiere natación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 estudiantes.",
+          "is_correct": true,
+          "feedback": "Fútbol: 1/2 de 30 = 15. Baloncesto: 1/3 de 30 = 10. Total entre fútbol y baloncesto = 25. Natación: 30 - 25 = 5."
+        },
+        {
+          "letter": "B",
+          "text": "10 estudiantes.",
+          "is_correct": false,
+          "feedback": "10 corresponde a los estudiantes que prefieren baloncesto."
+        },
+        {
+          "letter": "C",
+          "text": "15 estudiantes.",
+          "is_correct": false,
+          "feedback": "15 corresponde a los estudiantes que prefieren fútbol."
+        },
+        {
+          "letter": "D",
+          "text": "6 estudiantes.",
+          "is_correct": false,
+          "feedback": "Se dividió 30 entre 5 directamente sin calcular la resta de las fracciones previas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El análisis de participaciones fraccionarias complejas involucra hallar los valores absolutos de cada parte para determinar el residuo mediante sustracción del total.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.33,
+      "bundle_id": "CO-MAT-5-2026-W02-fracciones-basicas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}
