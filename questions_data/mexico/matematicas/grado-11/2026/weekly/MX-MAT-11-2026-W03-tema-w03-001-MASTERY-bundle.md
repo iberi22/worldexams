@@ -13,6 +13,7 @@ total_questions: 20
 bundle_size: 20
 alignment: "SEP NEM Mexico 2026 / EXANI-II pensamiento matematico"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -41,7 +42,7 @@ El salón cobra una cuota fija de $1,500 pesos más $120 pesos por cada invitado
 ### Explicacion Pedagogica
 Planteamos la ecuación lineal donde x representa el número de invitados: 120x + 1500 = 5100. Despejamos la variable: primero restamos la cuota fija de ambos lados: 120x = 5100 - 1500 = 3600. Luego dividimos entre el costo unitario por invitado: x = 3600 / 120 = 30 invitados.
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Matemático
@@ -87,7 +88,7 @@ Si se cumple que 4x + 3 = 2x + 13, ¿cuál es el valor numérico de x?
 ### Explicacion Pedagogica
 Para resolver 4x + 3 = 2x + 13, agrupamos los términos con x en un miembro y las constantes en el otro. Restamos 2x a ambos lados: 2x + 3 = 13. Restamos 3 a ambos lados: 2x = 10. Dividimos por 2: x = 5.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -133,7 +134,7 @@ Si se cumple que 4x + 5 = 2x + 15, ¿cuál es el valor numérico de x?
 ### Explicacion Pedagogica
 Para resolver 4x + 5 = 2x + 15, agrupamos los términos con x en un miembro y las constantes en el otro. Restamos 2x a ambos lados: 2x + 5 = 15. Restamos 5 a ambos lados: 2x = 10. Dividimos por 2: x = 5.
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -179,7 +180,7 @@ Si se cumple que 4x + 7 = 2x + 17, ¿cuál es el valor numérico de x?
 ### Explicacion Pedagogica
 Para resolver 4x + 7 = 2x + 17, agrupamos los términos con x en un miembro y las constantes en el otro. Restamos 2x a ambos lados: 2x + 7 = 17. Restamos 7 a ambos lados: 2x = 10. Dividimos por 2: x = 5.
 
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -225,7 +226,7 @@ Si se cumple que 4x + 9 = 2x + 19, ¿cuál es el valor numérico de x?
 ### Explicacion Pedagogica
 Para resolver 4x + 9 = 2x + 19, agrupamos los términos con x en un miembro y las constantes en el otro. Restamos 2x a ambos lados: 2x + 9 = 19. Restamos 9 a ambos lados: 2x = 10. Dividimos por 2: x = 5.
 
-## Question 10 [D5]
+## Question 10 [D5-D6]
 **ID:** MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -271,7 +272,7 @@ Si se cumple que 4x + 11 = 2x + 21, ¿cuál es el valor numérico de x?
 ### Explicacion Pedagogica
 Para resolver 4x + 11 = 2x + 21, agrupamos los términos con x en un miembro y las constantes en el otro. Restamos 2x a ambos lados: 2x + 11 = 21. Restamos 11 a ambos lados: 2x = 10. Dividimos por 2: x = 5.
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -317,7 +318,7 @@ Si se cumple que 4x + 13 = 2x + 23, ¿cuál es el valor numérico de x?
 ### Explicacion Pedagogica
 Para resolver 4x + 13 = 2x + 23, agrupamos los términos con x en un miembro y las constantes en el otro. Restamos 2x a ambos lados: 2x + 13 = 23. Restamos 13 a ambos lados: 2x = 10. Dividimos por 2: x = 5.
 
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Pensamiento Matemático
@@ -363,7 +364,7 @@ Si se cumple que 4x + 15 = 2x + 25, ¿cuál es el valor numérico de x?
 ### Explicacion Pedagogica
 Para resolver 4x + 15 = 2x + 25, agrupamos los términos con x en un miembro y las constantes en el otro. Restamos 2x a ambos lados: 2x + 15 = 25. Restamos 15 a ambos lados: 2x = 10. Dividimos por 2: x = 5.
 
-## Question 16 [D7]
+## Question 16 [D7-D8]
 **ID:** MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Pensamiento Matemático
@@ -409,7 +410,7 @@ Si se cumple que 4x + 17 = 2x + 27, ¿cuál es el valor numérico de x?
 ### Explicacion Pedagogica
 Para resolver 4x + 17 = 2x + 27, agrupamos los términos con x en un miembro y las constantes en el otro. Restamos 2x a ambos lados: 2x + 17 = 27. Restamos 17 a ambos lados: 2x = 10. Dividimos por 2: x = 5.
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático
@@ -455,7 +456,7 @@ Si se cumple que 4x + 19 = 2x + 29, ¿cuál es el valor numérico de x?
 ### Explicacion Pedagogica
 Para resolver 4x + 19 = 2x + 29, agrupamos los términos con x en un miembro y las constantes en el otro. Restamos 2x a ambos lados: 2x + 19 = 29. Restamos 19 a ambos lados: 2x = 10. Dividimos por 2: x = 5.
 
-## Question 20 [D9]
+## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático

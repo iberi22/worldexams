@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Português: Tema W02
 **20 perguntas | Português | BNCC Brasil / ENEM 2026**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BR-POR-11-2026-W02-tema-w02-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Estudo dos aspectos linguísticos
@@ -45,7 +46,7 @@ Como é denominada a variação linguística que ocorre ao longo do tempo, marca
 ### Explicacion Pedagogica
 A variação diacrônica (ou histórica) é aquela que analisa a evolução de uma língua através das eras, como a transição do pronome de tratamento "Vossa Mercê" para "vosmecê", depois para "você" e, atualmente, para "cê" na fala cotidiana.
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BR-POR-11-2026-W02-tema-w02-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Estudo dos aspectos linguísticos
@@ -68,7 +69,7 @@ A norma-padrão (ou variedade culta) da língua portuguesa deve ser compreendida
 ### Explicacion Pedagogica
 A linguística moderna compreende a norma-padrão como uma convenção de prestígio social e político, e não como uma verdade científica absoluta de "pureza". Ela serve como referência unificadora para a escrita formal no país.
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BR-POR-11-2026-W02-tema-w02-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Estudo dos aspectos linguísticos
@@ -91,7 +92,7 @@ A frase acima exemplifica qual tipo de variação linguística e qual aspecto cu
 ### Explicacion Pedagogica
 A variação diatópica (geográfica ou regional) envolve as diferenças de vocabulário, pronúncia (sotaque) e expressões idiomáticas existentes entre falantes de diferentes regiões de um mesmo país, refletindo suas identidades culturais.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BR-POR-11-2026-W02-tema-w02-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Estudo dos aspectos linguísticos
@@ -114,7 +115,7 @@ Identifique a variação linguística predominante na fala do skatista e os elem
 ### Explicacion Pedagogica
 A linguagem dos skatistas mescla a variação regional ("piá", típica do Paraná e Santa Catarina) com a variação social ou diastrática (gírias de faixa etária e de praticantes de um esporte específico).
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** BR-POR-11-2026-W02-tema-w02-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Estudo dos aspectos linguísticos
@@ -137,7 +138,7 @@ A diferença de linguagem utilizada pelo advogado nas duas situações caracteri
 ### Explicacion Pedagogica
 A variação diafásica (ou de registro/estilo) refere-se à capacidade que o falante tem de adequar seu modo de falar ao contexto comunicativo. Usamos registro formal com autoridades e em ambientes de trabalho (como o tribunal), e registro informal com amigos e familiares.
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** BR-POR-11-2026-W02-tema-w02-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Estudo dos aspectos linguísticos
@@ -160,7 +161,7 @@ Sobre essa ocorrência linguística coloquial do Sul, é correto afirmar cientif
 ### Explicacion Pedagogica
 A simplificação da concordância verbal na oralidade ("tu foi", "tu vai") é um processo natural de evolução linguística observado no português do Brasil, possuindo ampla distribuição regional e social. Deve ser compreendida como variação linguística viva, reservada aos contextos de informalidade oral.
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** BR-POR-11-2026-W02-tema-w02-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Estudo dos aspectos linguísticos
@@ -183,7 +184,7 @@ Do ponto de vista da eficácia comunicativa e da adequação linguística, a esc
 ### Explicacion Pedagogica
 A adequação linguística consiste em selecionar a variedade de linguagem mais apropriada para a situação e o público-alvo. Em campanhas de saúde comunitária, usar o falar regional (diatópico) cria laços de proximidade que facilitam o entendimento e a mobilização social.
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** BR-POR-11-2026-W02-tema-w02-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Estudo dos aspectos linguísticos
@@ -206,7 +207,7 @@ Analisando a interação entre o médico e o paciente idoso rústico, é correto
 ### Explicacion Pedagogica
 Evitar o jargão técnico excessivo (conhecido no direito como "juridiquês" e na medicina como "mediquês") na interação com o público leigo é uma lição prática de adequação linguística (variação diafásica). Além disso, o respeito ao falar popular do idoso combate o preconceito linguístico.
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** BR-POR-11-2026-W02-tema-w02-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Estudo dos aspectos linguísticos
@@ -229,7 +230,7 @@ Para solucionar as queixas, a equipe de desenvolvimento deve atualizar o algorit
 ### Explicacion Pedagogica
 Os sistemas de inteligência artificial de processamento de linguagem natural modernos precisam ser treinados para lidar com a variação diatópica (lexical, como as denominações regionais de plantas e alimentos) e a variação diafásica (níveis de formalidade e coloquialismo), de modo a garantir inclusão e eficácia.
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** BR-POR-11-2026-W02-tema-w02-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Estudo dos aspectos linguísticos
@@ -252,7 +253,7 @@ Sob a ótica sociolinguística, o uso desse vocabulário estrangeiro corporativo
 ### Explicacion Pedagogica
 O jargão corporativo de startups de inovação, repleto de estrangeirismos e neologismos técnicos, constitui uma variação diastrática (social/profissional). Serve para agilizar a comunicação interna de projetos e delimitar a identidade sociocultural desse segmento de mercado.
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BR-POR-11-2026-W02-tema-w02-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Estudo dos aspectos linguísticos
@@ -276,7 +277,7 @@ Em relação às regras exigidas pela banca corretora do ENEM, a linguagem adota
 ### Explicacion Pedagogica
 As redações oficiais de exames como o ENEM exigem que o candidato domine a modalidade escrita da norma-padrão (Competência 1), adaptando a linguagem ao registro acadêmico e dissertativo-argumentativo formal, independentemente de sua variedade oral cotidiana.
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BR-POR-11-2026-W02-tema-w02-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Estudo dos aspectos linguísticos
@@ -299,7 +300,7 @@ Qual variedade linguística caracteriza a fala do apresentador de telejornal e p
 ### Explicacion Pedagogica
 O jornalismo de grande alcance nacional recorre à variedade culta e formal da língua (variação diafásica formal) por ser um registro amplamente ensinado nas escolas do país inteiro, servindo como uma variedade unificadora que facilita a compreensão democrática da notícia por falantes de diferentes estados brasileiros.
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BR-POR-11-2026-W02-tema-w02-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Estudo dos aspectos linguísticos
@@ -322,7 +323,7 @@ Nessa célebre frase do herói sem nenhum caráter, Mário de Andrade constrói 
 ### Explicacion Pedagogica
 O Modernismo de 1922 promoveu uma verdadeira revolução linguística na literatura ao abraçar a oralidade, os coloquialismos, os regionalismos e os desvios gramaticais populares como marcas de brasilidade. A crítica de Mário de Andrade em "Macunaíma" volta-se contra o apego servil à gramática purista de molde europeu (as "regras dos doutores").
 
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** BR-POR-11-2026-W02-tema-w02-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Estudo dos aspectos linguísticos
@@ -346,7 +347,7 @@ A comparação entre as duas amostras documentais comprova a ação contínua de
 ### Explicacion Pedagogica
 A variação diacrônica (histórica) é percebida ao contrastarmos produções linguísticas de épocas distantes. As línguas são sistemas dinâmicos e vivos que se transformam para acompanhar as necessidades sociais de cada momento histórico, alterando grafias, sintaxes e formas de cortesia epistolar.
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** BR-POR-11-2026-W02-tema-w02-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Estudo dos aspectos linguísticos
@@ -369,7 +370,7 @@ Analisando os avanços da sociolinguística moderna no Brasil, a principal crít
 ### Explicacion Pedagogica
 A sociolinguística comprova que todas as variedades linguísticas (incluindo as populares ou de menor prestígio) são sistemas complexos dotados de regras internas perfeitamente lógicas e estruturadas. A atitude de considerar a norma-padrão como a "única certa" e as outras como "erros burros" chama-se preconceito linguístico, o qual mascara e perpetua discriminações socioeconômicas de classe.
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** BR-POR-11-2026-W02-tema-w02-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Estudo dos aspectos linguísticos
@@ -392,7 +393,7 @@ Analise os recursos sociolinguísticos empregados pela agência publicitária ca
 ### Explicacion Pedagogica
 A publicidade frequentemente simula a fala espontânea dos grupos sociais (gírias juvenis - variação diastrática) e das regiões geográficas (gírias cariocas - variação diatópica) para construir uma imagem de jovialidade, descontração e autenticidade para o produto anunciado.
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BR-POR-11-2026-W02-tema-w02-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Estudo dos aspectos linguísticos
@@ -416,7 +417,7 @@ Com base na análise desse trecho crítico, avalie a postura correta que a escol
 ### Explicacion Pedagogica
 A abordagem científica moderna propõe o bilinguismo ou plurilinguismo de registros dentro do mesmo idioma. A escola tem como dever democrático ensinar a norma culta padrão escrita (fundamental para inserção profissional e acadêmica do cidadão), mas sempre respeitando, acolhendo e valorizando a variedade linguística de origem do estudante para não gerar barreiras de preconceito e silenciamento escolar.
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BR-POR-11-2026-W02-tema-w02-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Estudo dos aspectos linguísticos
@@ -440,7 +441,7 @@ Sob a ótica da sociolinguística, a violenta condenação pública ao uso de "m
 ### Explicacion Pedagogica
 O uso de "menas" (criado por analogia popular ao gênero feminino das palavras seguintes) é um dos maiores estigmas da língua portuguesa contemporânea no Brasil. Quando uma empresa de moda ou luxo usa essa variedade popular não-padrão na escrita pública institucional, ela choca o público leitor que associa o prestígio acadêmico da marca à observância rígida da norma-padrão escrita formal oficial.
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** BR-POR-11-2026-W02-tema-w02-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Estudo dos aspectos linguísticos
@@ -464,7 +465,7 @@ Com base nesse estudo sociolinguístico, avalie a natureza da variação linguí
 ### Explicacion Pedagogica
 A variação linguística nas metrópoles industrializadas brasileiras contemporâneas reflete os fluxos migratórios e as interações de classes sociais. Falantes de diferentes regiões cruzam seus hábitos de fala, resultando em fenômenos ricos de acomodação fonética, léxica e sintática. A língua urbana brasileira de hoje é caracterizada pela pluralidade estruturada de registros, longe do isolamento clássico das variedades puras.
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BR-POR-11-2026-W02-tema-w02-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Estudo dos aspectos linguísticos

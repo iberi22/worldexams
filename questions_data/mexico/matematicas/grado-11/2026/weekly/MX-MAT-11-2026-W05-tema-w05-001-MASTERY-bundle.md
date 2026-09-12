@@ -13,6 +13,7 @@ total_questions: 20
 bundle_size: 20
 alignment: "SEP NEM Mexico 2026 / EXANI-II pensamiento matematico"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -41,7 +42,7 @@ Si el largo del jardín mide 5 metros más que su ancho y el área total es de 1
 ### Explicacion Pedagogica
 Definimos x como el ancho del jardín. El largo será x + 5. Planteamos la ecuación del área: x(x + 5) = 150 => x² + 5x - 150 = 0. Factorizamos el trinomio buscando dos números que multiplicados den -150 y sumados den 5: estos son 15 y -10. Así: (x + 15)(x - 10) = 0. Como el ancho debe ser positivo, la respuesta es x = 10 metros.
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Matemático
@@ -87,7 +88,7 @@ Resuelve la ecuación cuadrática factorizable x² - 8x + 15 = 0 para encontrar 
 ### Explicacion Pedagogica
 La ecuación es x² - 8x + 15 = 0. Podemos factorizarla como (x - 3)(x - 5) = 0, ya que (-3) * (-5) = 15 y (-3) + (-5) = -(8). Las raíces de la ecuación son x = 3 y x = 5. La menor de ambas es 3.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** MX-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -133,7 +134,7 @@ Resuelve la ecuación cuadrática x² - 10x + 24 = 0 para encontrar la menor de 
 ### Explicacion Pedagogica
 La ecuación es x² - 10x + 24 = 0. Podemos factorizarla como (x - 4)(x - 6) = 0, ya que (-4) * (-6) = 24 y (-4) + (-6) = -10. Las raíces son x = 4 y x = 6. La menor de ambas es 4.
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** MX-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -179,7 +180,7 @@ Resuelve la ecuación cuadrática factorizable x² - 12x + 35 = 0 para encontrar
 ### Explicacion Pedagogica
 La ecuación es x² - 12x + 35 = 0. Podemos factorizarla como (x - 7)(x - 5) = 0, ya que (-7) * (-5) = 35 y (-7) + (-5) = -(12). Las raíces de la ecuación son x = 7 y x = 5. La menor de ambas es 5.
 
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -225,7 +226,7 @@ Resuelve la ecuación cuadrática factorizable x² - 14x + 45 = 0 para encontrar
 ### Explicacion Pedagogica
 La ecuación es x² - 14x + 45 = 0. Podemos factorizarla como (x - 9)(x - 5) = 0, ya que (-9) * (-5) = 45 y (-9) + (-5) = -(14). Las raíces de la ecuación son x = 9 y x = 5. La menor de ambas es 5.
 
-## Question 10 [D5]
+## Question 10 [D5-D6]
 **ID:** MX-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -271,7 +272,7 @@ Resuelve la ecuación cuadrática factorizable x² - 16x + 55 = 0 para encontrar
 ### Explicacion Pedagogica
 La ecuación es x² - 16x + 55 = 0. Podemos factorizarla como (x - 11)(x - 5) = 0, ya que (-11) * (-5) = 55 y (-11) + (-5) = -(16). Las raíces de la ecuación son x = 11 y x = 5. La menor de ambas es 5.
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** MX-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -317,7 +318,7 @@ Resuelve la ecuación cuadrática factorizable x² - 18x + 65 = 0 para encontrar
 ### Explicacion Pedagogica
 La ecuación es x² - 18x + 65 = 0. Podemos factorizarla como (x - 13)(x - 5) = 0, ya que (-13) * (-5) = 65 y (-13) + (-5) = -(18). Las raíces de la ecuación son x = 13 y x = 5. La menor de ambas es 5.
 
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Pensamiento Matemático
@@ -363,7 +364,7 @@ Resuelve la ecuación cuadrática factorizable x² - 20x + 75 = 0 para encontrar
 ### Explicacion Pedagogica
 La ecuación es x² - 20x + 75 = 0. Podemos factorizarla como (x - 15)(x - 5) = 0, ya que (-15) * (-5) = 75 y (-15) + (-5) = -(20). Las raíces de la ecuación son x = 15 y x = 5. La menor de ambas es 5.
 
-## Question 16 [D7]
+## Question 16 [D7-D8]
 **ID:** MX-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Pensamiento Matemático
@@ -409,7 +410,7 @@ Resuelve la ecuación cuadrática factorizable x² - 22x + 85 = 0 para encontrar
 ### Explicacion Pedagogica
 La ecuación es x² - 22x + 85 = 0. Podemos factorizarla como (x - 17)(x - 5) = 0, ya que (-17) * (-5) = 85 y (-17) + (-5) = -(22). Las raíces de la ecuación son x = 17 y x = 5. La menor de ambas es 5.
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático
@@ -455,7 +456,7 @@ Resuelve la ecuación cuadrática factorizable x² - 24x + 95 = 0 para encontrar
 ### Explicacion Pedagogica
 La ecuación es x² - 24x + 95 = 0. Podemos factorizarla como (x - 19)(x - 5) = 0, ya que (-19) * (-5) = 95 y (-19) + (-5) = -(24). Las raíces de la ecuación son x = 19 y x = 5. La menor de ambas es 5.
 
-## Question 20 [D9]
+## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático

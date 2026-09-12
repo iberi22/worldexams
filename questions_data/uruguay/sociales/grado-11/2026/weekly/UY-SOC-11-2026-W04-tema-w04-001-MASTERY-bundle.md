@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Ciencias Sociales: El Uruguay comercial, pastoril y caudillesco (W04)
 **20 preguntas | Ciencias Sociales | ANEP - Plan 2006 Reformulación / Programa Ubicación**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** UY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Social
@@ -46,7 +47,7 @@ bundle_index: 1
 La identificación precisa de La Batalla de Carpintería de 1836 permite comprender el origen de las divisas Blanca y Colorada dentro del proceso de el surgimiento de las divisas en Carpintería. Su rol histórico está plenamente documentado en los programas de estudio de la enseñanza media superior (ANEP).
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** UY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Social
@@ -70,7 +71,7 @@ La identificación precisa de La Batalla de Carpintería de 1836 permite compren
 La identificación precisa de Las tensiones por el control del Estado y la campaña permite comprender la polarización política inicial dentro del proceso de las presidencias de Rivera y Oribe. Su rol histórico está plenamente documentado en los programas de estudio de la enseñanza media superior (ANEP).
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** UY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -94,7 +95,7 @@ Si analizás la trascendencia de este suceso, ¿cómo se explica la relación ca
 La relación entre La Guerra Grande y el largo conflicto de alcance regional es un eje vertebral para comprender la Guerra Grande (1839-1851). Su estudio demuestra cómo los factores estructurales del período sentaron las condiciones para los cambios políticos o sociales subsiguientes.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** UY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -118,7 +119,7 @@ Si analizás la trascendencia de este suceso, ¿cómo se explica la relación ca
 La relación entre El Sitio de Montevideo y la coexistencia de dos gobiernos simultáneos es un eje vertebral para comprender el Sitio de Montevideo (1843-1851). Su estudio demuestra cómo los factores estructurales del período sentaron las condiciones para los cambios políticos o sociales subsiguientes.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** UY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -142,7 +143,7 @@ Si analizás la trascendencia de este suceso, ¿cómo se explica la relación ca
 La relación entre El Gobierno de la Defensa y el bando de corte urbano e internacionalista es un eje vertebral para comprender el Gobierno de la Defensa en Montevideo. Su estudio demuestra cómo los factores estructurales del período sentaron las condiciones para los cambios políticos o sociales subsiguientes.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** UY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -166,7 +167,7 @@ Si analizás la trascendencia de este suceso, ¿cómo se explica la relación ca
 La relación entre El Gobierno del Cerrito y la administración de la campaña y las aduanas es un eje vertebral para comprender el Gobierno del Cerrito de Manuel Oribe. Su estudio demuestra cómo los factores estructurales del período sentaron las condiciones para los cambios políticos o sociales subsiguientes.
 
 ---
-## Question 7 [D6]
+## Question 7 [D5-D6]
 **ID:** UY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -190,7 +191,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de La fórmula de 'no hubo vencidos ni vencedores' revela que el tratado de paz de octubre de 1851 no fue un mero debate teórico, sino un proceso real que estructuró el fin de la Guerra Grande sin anexión porteña, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** UY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -214,7 +215,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de Los saladeros de carne vacuna revela que los saladeros de carne en el siglo XIX no fue un mero debate teórico, sino un proceso real que estructuró el principal establecimiento industrial exportador, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** UY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -238,7 +239,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de Los caudillos como nexos de orden en la campaña revela que el papel de los caudillos en la campaña no fue un mero debate teórico, sino un proceso real que estructuró el poder informal de base agraria, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** UY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -262,7 +263,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de Juan Manuel de Rosas y su apoyo a Manuel Oribe revela que la influencia del gobernador Juan Manuel de Rosas no fue un mero debate teórico, sino un proceso real que estructuró la intervención del federalismo porteño, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** UY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -286,7 +287,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de La Batalla de Carpintería de 1836 revela que el surgimiento de las divisas en Carpintería no fue un mero debate teórico, sino un proceso real que estructuró el origen de las divisas Blanca y Colorada, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** UY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -310,7 +311,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de Las tensiones por el control del Estado y la campaña revela que las presidencias de Rivera y Oribe no fue un mero debate teórico, sino un proceso real que estructuró la polarización política inicial, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 13 [D8]
+## Question 13 [D7-D8]
 **ID:** UY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Análisis de Perspectivas
@@ -334,7 +335,7 @@ La aplicación práctica de Las tensiones por el control del Estado y la campañ
 El análisis crítico de La Guerra Grande demuestra que la Guerra Grande (1839-1851) devela fuertes asimetrías de poder. Mientras que un sector consolidaba el largo conflicto de alcance regional, otros grupos sociales experimentaban severas limitaciones, dinamizando el conflicto político uruguayo.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** UY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Análisis de Perspectivas
@@ -358,7 +359,7 @@ El análisis crítico de La Guerra Grande demuestra que la Guerra Grande (1839-1
 El análisis crítico de El Sitio de Montevideo demuestra que el Sitio de Montevideo (1843-1851) devela fuertes asimetrías de poder. Mientras que un sector consolidaba la coexistencia de dos gobiernos simultáneos, otros grupos sociales experimentaban severas limitaciones, dinamizando el conflicto político uruguayo.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** UY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Análisis de Perspectivas
@@ -382,7 +383,7 @@ El análisis crítico de El Sitio de Montevideo demuestra que el Sitio de Montev
 El análisis crítico de El Gobierno de la Defensa demuestra que el Gobierno de la Defensa en Montevideo devela fuertes asimetrías de poder. Mientras que un sector consolidaba el bando de corte urbano e internacionalista, otros grupos sociales experimentaban severas limitaciones, dinamizando el conflicto político uruguayo.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** UY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Análisis de Perspectivas
@@ -406,7 +407,7 @@ El análisis crítico de El Gobierno de la Defensa demuestra que el Gobierno de 
 El análisis crítico de El Gobierno del Cerrito demuestra que el Gobierno del Cerrito de Manuel Oribe devela fuertes asimetrías de poder. Mientras que un sector consolidaba la administración de la campaña y las aduanas, otros grupos sociales experimentaban severas limitaciones, dinamizando el conflicto político uruguayo.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** UY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -430,7 +431,7 @@ Al juzgar de manera integral el alcance histórico de La fórmula de 'no hubo ve
 La evaluación crítica de el tratado de paz de octubre de 1851 destaca el rol estructurador de La fórmula de 'no hubo vencidos ni vencedores' en la configuración de el fin de la Guerra Grande sin anexión porteña. Su estudio integral permite ponderar los aciertos, contradicciones y el legado institucional que perdura hasta el Uruguay contemporáneo.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** UY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -454,7 +455,7 @@ Al juzgar de manera integral el alcance histórico de Los saladeros de carne vac
 La evaluación crítica de los saladeros de carne en el siglo XIX destaca el rol estructurador de Los saladeros de carne vacuna en la configuración de el principal establecimiento industrial exportador. Su estudio integral permite ponderar los aciertos, contradicciones y el legado institucional que perdura hasta el Uruguay contemporáneo.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** UY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -478,7 +479,7 @@ Al juzgar de manera integral el alcance histórico de Los caudillos como nexos d
 La evaluación crítica de el papel de los caudillos en la campaña destaca el rol estructurador de Los caudillos como nexos de orden en la campaña en la configuración de el poder informal de base agraria. Su estudio integral permite ponderar los aciertos, contradicciones y el legado institucional que perdura hasta el Uruguay contemporáneo.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** UY-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social

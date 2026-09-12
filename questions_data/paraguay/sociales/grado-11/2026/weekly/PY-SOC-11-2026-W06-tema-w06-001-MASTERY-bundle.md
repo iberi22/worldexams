@@ -15,6 +15,7 @@ alignment: "MEC - Plan Común / SNEPE"
 license: "FREE"
 tier: "legacy"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 creador: "Jules-Agent"
 ---
 
@@ -22,7 +23,7 @@ creador: "Jules-Agent"
 **20 preguntas | Ciencias Sociales | MEC - Plan Común / SNEPE**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Historia del Paraguay del siglo XIX
@@ -45,7 +46,7 @@ creador: "Jules-Agent"
 El Tratado de la Triple Alianza de 1865 fijó los objetivos de la guerra: derrocar a Francisco Solano López y anexar vastas porciones del territorio reclamado por el Paraguay.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Historia del Paraguay del siglo XIX
@@ -68,7 +69,7 @@ El Tratado de la Triple Alianza de 1865 fijó los objetivos de la guerra: derroc
 La batalla de Cerro Corá (1 de marzo de 1870) marcó el sacrificio definitivo del Mariscal López y el final físico del conflicto de la Triple Alianza.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Historia del Paraguay del siglo XIX
@@ -91,7 +92,7 @@ La batalla de Cerro Corá (1 de marzo de 1870) marcó el sacrificio definitivo d
 La defensa de la independencia de la República Oriental del Uruguay y el mantenimiento del equilibrio político de poder en el Río de la Plata guiaron las acciones diplomáticas y militares paraguayas de 1864.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Historia del Paraguay del siglo XIX
@@ -114,7 +115,7 @@ La defensa de la independencia de la República Oriental del Uruguay y el manten
 Curupayty fue la mayor victoria de las armas paraguayas en la guerra de la Triple Alianza, deteniendo la ofensiva aliada en el sur por casi un año.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Historia del Paraguay del siglo XIX
@@ -137,7 +138,7 @@ Curupayty fue la mayor victoria de las armas paraguayas en la guerra de la Tripl
 El exterminio demográfico de la Guerra de la Triple Alianza diezmó de manera casi total al elemento masculino adulto del Paraguay, confiriendo a la mujer paraguaya (La Residenta) el papel sagrado de reconstructora social de la nación.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Historia del Paraguay del siglo XIX
@@ -160,7 +161,7 @@ El exterminio demográfico de la Guerra de la Triple Alianza diezmó de manera c
 La Guerra de la Triple Alianza deparó pérdidas territoriales catastróficas para el Paraguay, reduciendo de manera drástica sus límites geográficos históricos decimonónicos.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Historia del Paraguay del siglo XIX
@@ -183,7 +184,7 @@ La Guerra de la Triple Alianza deparó pérdidas territoriales catastróficas pa
 La batalla de Acosta Ñu encarna el extremo sacrificio patriótico al que se vio arrastrado el Paraguay diezmado, constituyendo un hito de honda recordación cívica nacional.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Historia del Paraguay del siglo XIX
@@ -206,7 +207,7 @@ La batalla de Acosta Ñu encarna el extremo sacrificio patriótico al que se vio
 El heroísmo de 'Las Residentas' y 'Destinadas' cimentó la supervivencia demográfica y espiritual del pueblo paraguayo devastado por las fuerzas aliadas invasoras.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Historia del Paraguay del siglo XIX
@@ -229,7 +230,7 @@ El heroísmo de 'Las Residentas' y 'Destinadas' cimentó la supervivencia demogr
 El laudo Hayes de 1878 es una de las grandes victorias diplomáticas paraguayas de la posguerra, resguardando la integridad territorial del Chaco Boreal.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Historia del Paraguay del siglo XIX
@@ -252,7 +253,7 @@ Aparte de Curupayty, ¿cuál de los siguientes combates navales y fluviales resu
 La derrota naval paraguaya en Riachuelo privó al Mariscal Francisco Solano López de la iniciativa ofensiva sobre los ríos fluviales compartidos de la cuenca.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Historia del Paraguay del siglo XIX
@@ -275,7 +276,7 @@ A diferencia del Paraguay prebélico (libre de acreedores extranjeros), ¿qué g
 Los empréstitos británicos de 1871 y 1872 ataron de pies y manos al Paraguay del siglo XIX de posguerra, condicionando severamente la reconstrucción nacional.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Historia del Paraguay del siglo XIX
@@ -298,7 +299,7 @@ La campaña de las Cordilleras y la marcha por el interior de la Región Orienta
 La campaña de las Cordilleras de 1869-1870 es un testimonio del heroísmo paraguayo, donde mujeres, ancianos y niños sostuvieron la resistencia patria hasta el último aliento.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Historia del Paraguay del siglo XIX
@@ -321,7 +322,7 @@ Aparte de derrocar a Francisco Solano López, ¿qué cláusula del Tratado Secre
 El Tratado de 1865 de agresión tripartita contemplaba indemnizaciones brutales de guerra que postraron el desarrollo paraguayo de la posguerra del siglo XIX.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Historia del Paraguay del siglo XIX
@@ -344,7 +345,7 @@ El Tratado de 1865 de agresión tripartita contemplaba indemnizaciones brutales 
 El periodismo de trinchera paraguayo (Cabichuí, Cacique Lambaré) plasmó el alma nacional mestiza bilingüe en medio del infierno bélico de la Triple Alianza.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Historia del Paraguay del siglo XIX
@@ -367,7 +368,7 @@ La caída definitiva de la fortaleza de Humaitá en 1868, tras dos años de enca
 La fortaleza de Humaitá, con sus cadenas que cruzaban el río Paraguay, bloqueó heróicamente el avance aliado hasta la capitulación y evacuación de 1868.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Historia del Paraguay del siglo XIX
@@ -390,7 +391,7 @@ Durante la prolongada ocupación militar aliada de Asunción que comenzó en 186
 El pillaje de guerra asunceno representó una de las páginas más oscuras del conflicto, diezmando gran parte de los testimonios documentales e históricos nacionales.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Historia del Paraguay del siglo XIX
@@ -413,7 +414,7 @@ Al evaluar críticamente la polarizada historiografía sobre Francisco Solano L�
 El estudio histórico del Mariscal López requiere sopesar las causas geopolíticas y el heroísmo de resistencia con la devastación sufrida por el Paraguay.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Historia del Paraguay del siglo XIX
@@ -436,7 +437,7 @@ Al juzgar de manera integral el desenlace de la Guerra contra la Triple Alianza,
 La destrucción física del Paraguay truncó un proceso de modernización estatal autónomo excepcional en la historia republicana de América Latina.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Historia del Paraguay del siglo XIX
@@ -459,7 +460,7 @@ Al evaluar críticamente las causas que forzaron al gobierno paraguayo a emplear
 La batalla de Acosta Ñu refleja el horror extremo de la fase de aniquilamiento bélico paraguayo a manos del superior ejército invasor de ocupación aliado.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PY-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Historia del Paraguay del siglo XIX

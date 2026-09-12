@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Ciencias Sociales: La fundación de la República de Bolivia (1825) y el periodo de los libertadores Bolívar y Sucre (W04)
 **20 preguntas | Ciencias Sociales | Ministerio de Educacion del Estado Plurinacional de Bolivia (MINEDU)**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BO-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Social
@@ -45,7 +46,7 @@ bundle_index: 1
 La fundación de Bolivia el 6 de agosto de 1825 puso fin a siglos de dominio colonial español. La Asamblea Deliberante reunida en Chuquisaca redactó el Acta de Independencia del Alto Perú, naciendo a la vida jurídica internacional.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BO-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Social
@@ -68,7 +69,7 @@ La fundación de Bolivia el 6 de agosto de 1825 puso fin a siglos de dominio col
 Simón Bolívar redactó además la primera Constitución del país (Constitución Vitalicia de 1826) y decretó medidas agrarias e impositivas fundamentales de corte liberal antes de retornar a la Gran Colombia.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BO-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -91,7 +92,7 @@ Simón Bolívar redactó además la primera Constitución del país (Constituci�
 El Mariscal Sucre gobernó de 1826 a 1828, sentando los cimientos de la administración pública de Bolivia. Creó departamentos, fundó el sistema de correos, organizó la hacienda pública y promovió una ambiciosa escuela rural laica.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BO-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -114,7 +115,7 @@ El Mariscal Sucre gobernó de 1826 a 1828, sentando los cimientos de la administ
 La contradicción del tributo indígena evidenció los límites del ideal republicano. Aunque formalmente se proclamaba la igualdad ante la ley de todos los bolivianos, el nuevo Estado continuó dependiendo de la explotación tributaria de las comunidades indígenas andinas para subsistir.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** BO-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -137,7 +138,7 @@ La contradicción del tributo indígena evidenció los límites del ideal republ
 La Constitución Vitalicia fue aprobada en 1826 pero tuvo una vigencia efímera. Fue criticada tanto por criollos liberales radicales, que la consideraban una monarquía disfrazada, como por militares conservadores deseosos de acceder al poder.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** BO-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -160,7 +161,7 @@ La Constitución Vitalicia fue aprobada en 1826 pero tuvo una vigencia efímera.
 La herencia territorial de la Real Audiencia de Charcas otorgó a Bolivia una inmensa geografía de más de 2 millones de kilómetros cuadrados, incluyendo su costa soberana sobre el Océano Pacífico (Litoral) y sus extensas fronteras amazónicas y chaqueñas.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** BO-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v7
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -183,7 +184,7 @@ La herencia territorial de la Real Audiencia de Charcas otorgó a Bolivia una in
 La parálisis minera en 1825 configuró una crisis económica asfixiante para la administración de los libertadores. Sucre debió apelar a empréstitos forzosos y reponer el impuesto indigenal para mantener funcionando el aparato burocrático y el ejército nacional.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** BO-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Social
@@ -206,7 +207,7 @@ Si aplicamos la cronología de los presidentes de Bolivia tras la salida forzada
 Bajo la presidencia de Santa Cruz, Bolivia gozó de su mayor estabilidad y prestigio internacional en el siglo XIX. Sus códigos civil y penal (códigos Santa Cruz) fueron los primeros de su tipo en el continente, modernos e independientes de las leyes coloniales españolas.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** BO-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Pensamiento Social
@@ -229,7 +230,7 @@ Si aplicamos el concepto de oportunismo y pragmatismo de las élites criollas co
 Casimiro Olañeta simboliza la transición pactada del poder colonial al republicano. A través del control de la Asamblea Deliberante de 1825, Olañeta y los criollos locales neutralizaron las reformas agrarias radicales de Bolívar y Sucre, asegurando la preservación de las haciendas feudales y la exclusión indígena.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** BO-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Social
@@ -252,7 +253,7 @@ Casimiro Olañeta simboliza la transición pactada del poder colonial al republi
 La salida de Sucre representó el triunfo temporal de los sectores criollos conservadores de Charcas frente al reformismo radical bolivariano. Su partida dejó al país sumido en una breve etapa de anarquía que concluiría con el ascenso al poder del Mariscal Santa Cruz.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BO-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -275,7 +276,7 @@ La salida de Sucre representó el triunfo temporal de los sectores criollos cons
 La reorganización territorial de Sucre buscó consolidar la presencia del Estado central en todo el territorio, neutralizando los impulsos disgregadores de las oligarquías locales provinciales.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BO-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -298,7 +299,7 @@ Al analizar la estructura de financiamiento del nuevo Estado en 1826, ¿qué par
 La reposición del tributo indígena por Sucre evidenció las hondas tensiones fiscales de Bolivia. Con la minería potosina paralizada, el campesinado andino continuó financiando la existencia burocrática del Estado que lo excluía.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BO-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -321,7 +322,7 @@ La reposición del tributo indígena por Sucre evidenció las hondas tensiones f
 A pesar de fundar un Estado republicano liberal, las élites terratenientes criollas locales consiguieron preservar las haciendas de servidumbre, mermando los intentos de reforma agraria de Bolívar.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** BO-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -344,7 +345,7 @@ Al analizar críticamente la Constitución Vitalicia redactada por Bolívar, ¿q
 La Constitución Vitalicia intentó fundar una república aristocrática y centralista. La figura del presidente perpetuo con derecho a nombrar sucesor encendió agudos pleitos jurídicos de opositores que la tacharon de monarquía camuflada.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** BO-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -367,7 +368,7 @@ La Constitución Vitalicia intentó fundar una república aristocrática y centr
 La parálisis minera tras la independencia asfixió las finanzas públicas de la joven República. Obligó a recurrir a empréstitos forzosos ya sostener el impuesto indigenal para mantener el aparato militar y administrativo.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** BO-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -390,7 +391,7 @@ Al analizar los requisitos de ciudadanía en la primera Constitución de Bolivia
 El sufragio censitario restringido consagró el carácter excluyente del nuevo Estado boliviano del siglo XIX. Las élites criollas terratenientes mineras monopolizaron el parlamento y las prefecturas de departamentos, legislando en su propio beneficio agrario.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BO-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -413,7 +414,7 @@ Al juzgar históricamente el final de la administración presidencial de Antonio
 La expulsión del Mariscal Sucre marcó la victoria de la élite terrateniente local frente al idealismo bolivariano. La nueva aristocracia republicana optó por consolidar las haciendas tradicionales de pongueaje y servidumbre por sobre la reforma liberal.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BO-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -436,7 +437,7 @@ Al evaluar críticamente las decisiones tomadas por la Asamblea Deliberante de C
 La fundación de Bolivia reprodujo el colonialismo interno. Los criollos altoperuanos (como Casimiro Olañeta) redactaron leyes inspiradas en el constitucionalismo europeo moderno, pero en la realidad cotidiana persistió la servidumbre feudal andina del pongo.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** BO-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -459,7 +460,7 @@ Al evaluar críticamente la decisión fundacional de crear un Estado soberano e 
 La viabilidad inicial de Bolivia fue cuestionada por geógrafos y diplomáticos de la época debido a su relieve extremo montañoso andino y mediterraneidad relativa inicial. Sin embargo, la cohesión de su identidad regional posibilitó la supervivencia soberana del Estado.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BO-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social

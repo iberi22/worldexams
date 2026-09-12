@@ -15,6 +15,7 @@ alignment: "MEC Paraguay"
 license: "FREE"
 tier: "legacy"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 creador: "Jules-Agent"
 ---
 
@@ -24,7 +25,7 @@ Este bundle cubre de manera exhaustiva el tema de Membrana y transporte celular 
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v1
 **Bloom:** Remember
 **EJE:** Biología Celular
@@ -45,7 +46,7 @@ El concepto de El modelo de mosaico fluido constituye un fundamento esencial par
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v2
 **Bloom:** Understand
 **EJE:** Biología Celular
@@ -66,7 +67,7 @@ El concepto de El ergosterol constituye un fundamento esencial para comprender l
 
 ---
 
-## Question 3 [D3]
+## Question 3 [D3-D4]
 **ID:** PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v3
 **Bloom:** Remember
 **EJE:** Biología Celular
@@ -87,7 +88,7 @@ El concepto de La difusión simple constituye un fundamento esencial para compre
 
 ---
 
-## Question 4 [D3]
+## Question 4 [D3-D4]
 **ID:** PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v4
 **Bloom:** Understand
 **EJE:** Biología Celular
@@ -108,7 +109,7 @@ El concepto de La difusión facilitada constituye un fundamento esencial para co
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v5
 **Bloom:** Apply
 **EJE:** Biología Celular
@@ -129,7 +130,7 @@ El concepto de La turgencia celular constituye un fundamento esencial para compr
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v6
 **Bloom:** Understand
 **EJE:** Biología Celular
@@ -150,7 +151,7 @@ El concepto de La citólisis (o lisis osmótica) constituye un fundamento esenci
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v7
 **Bloom:** Apply
 **EJE:** Biología Celular
@@ -171,7 +172,7 @@ El concepto de La ósmosis constituye un fundamento esencial para comprender los
 
 ---
 
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v8
 **Bloom:** Understand
 **EJE:** Biología Celular
@@ -192,7 +193,7 @@ El concepto de La bomba sodio-potasio ATPasa constituye un fundamento esencial p
 
 ---
 
-## Question 9 [D5]
+## Question 9 [D5-D6]
 **ID:** PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v9
 **Bloom:** Apply
 **EJE:** Biología Celular
@@ -213,7 +214,7 @@ El concepto de El simportador de sodio-glucosa constituye un fundamento esencial
 
 ---
 
-## Question 10 [D5]
+## Question 10 [D5-D6]
 **ID:** PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v10
 **Bloom:** Understand
 **EJE:** Biología Celular
@@ -234,7 +235,7 @@ El concepto de La endocitosis mediada por receptor constituye un fundamento esen
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v11
 **Bloom:** Analyze
 **EJE:** Biología Celular
@@ -255,7 +256,7 @@ El concepto de La exocitosis constituye un fundamento esencial para comprender l
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v12
 **Bloom:** Apply
 **EJE:** Biología Celular
@@ -276,7 +277,7 @@ El concepto de Su carácter no polar o hidrofóbico constituye un fundamento ese
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v13
 **Bloom:** Analyze
 **EJE:** Biología Celular
@@ -297,7 +298,7 @@ El concepto de Las glicoproteínas y glicolípidos constituye un fundamento esen
 
 ---
 
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v14
 **Bloom:** Apply
 **EJE:** Biología Celular
@@ -318,7 +319,7 @@ El concepto de La proteína integral o transmembrana constituye un fundamento es
 
 ---
 
-## Question 15 [D7]
+## Question 15 [D7-D8]
 **ID:** PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v15
 **Bloom:** Analyze
 **EJE:** Biología Celular
@@ -339,7 +340,7 @@ El concepto de La acuaporina constituye un fundamento esencial para comprender l
 
 ---
 
-## Question 16 [D7]
+## Question 16 [D7-D8]
 **ID:** PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v16
 **Bloom:** Apply
 **EJE:** Biología Celular
@@ -360,7 +361,7 @@ El concepto de La plasmólisis celular constituye un fundamento esencial para co
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v17
 **Bloom:** Evaluate
 **EJE:** Biología Celular
@@ -381,7 +382,7 @@ El concepto de La difusión facilitada y transporte activo constituye un fundame
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v18
 **Bloom:** Analyze
 **EJE:** Biología Celular
@@ -402,7 +403,7 @@ El concepto de El fosfolípido constituye un fundamento esencial para comprender
 
 ---
 
-## Question 19 [D9]
+## Question 19 [D9-D10]
 **ID:** PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v19
 **Bloom:** Evaluate
 **EJE:** Biología Celular
@@ -423,7 +424,7 @@ El concepto de Los plasmodesmos constituye un fundamento esencial para comprende
 
 ---
 
-## Question 20 [D9]
+## Question 20 [D9-D10]
 **ID:** PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v20
 **Bloom:** Analyze
 **EJE:** Biología Celular

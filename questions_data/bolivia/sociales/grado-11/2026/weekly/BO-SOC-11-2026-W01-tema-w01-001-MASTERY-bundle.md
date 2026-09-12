@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Ciencias Sociales: Pueblos precolombinos en Bolivia: Tiwanaku, señoríos aymaras y civilización hidráulica del Moxos (W01)
 **20 preguntas | Ciencias Sociales | Ministerio de Educacion del Estado Plurinacional de Bolivia (MINEDU)**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Social
@@ -45,7 +46,7 @@ bundle_index: 1
 La Puerta del Sol es uno de los monumentos líticos más representativos de la cultura Tiwanaku, labrada a partir de un único bloque de piedra andesita. Su iconografía incluye al 'Señor de los Cetros', asociado con Wiracocha.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Social
@@ -68,7 +69,7 @@ La Puerta del Sol es uno de los monumentos líticos más representativos de la c
 Las chullpas o torres funerarias son construcciones líticas y de adobe típicas de los señoríos aymaras post-Tiwanaku, reflejo de una compleja cosmovisión en torno a la muerte y el respeto a los ancestros.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -91,7 +92,7 @@ Las chullpas o torres funerarias son construcciones líticas y de adobe típicas
 La cultura hidráulica de Moxos representó una magnífica adaptación al medio de sabana inundable del Beni. El uso de camellones o terraplenes elevados permitía cultivar durante las inundaciones y retener nutrientes en el suelo.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -114,7 +115,7 @@ La cultura hidráulica de Moxos representó una magnífica adaptación al medio 
 El control vertical de pisos ecológicos, teorizado por John Murra, explica cómo las sociedades andinas prehispánicas maximizaban el acceso a recursos en un territorio de relieves extremos, enviando colonos (mitmaq) a producir a diversas altitudes.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -137,7 +138,7 @@ El control vertical de pisos ecológicos, teorizado por John Murra, explica cóm
 Los suka kollus son una de las mayores innovaciones tecnológicas de Tiwanaku. Aprovechando el agua estancada en canales circundantes, captaban la radiación solar diurna y mitigaban las bajas temperaturas de las heladas nocturnas altiplánicas.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -160,7 +161,7 @@ Los suka kollus son una de las mayores innovaciones tecnológicas de Tiwanaku. A
 El Ayllu sobrevivió a los periodos Tiwanaku, de señoríos aymaras, incaico e incluso colonial, consolidándose como la estructura comunal de apoyo recíproco y propiedad colectiva de tierras de pastoreo y cultivo.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v7
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -183,7 +184,7 @@ El Ayllu sobrevivió a los periodos Tiwanaku, de señoríos aymaras, incaico e i
 La decadencia de Tiwanaku está estrechamente ligada a una crisis medioambiental de gran magnitud. La sequía extrema inutilizó los suka kollus, fragmentando el poder centralizado y dando paso al surgimiento de los señoríos aymaras independientes.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Social
@@ -206,7 +207,7 @@ Si aplicamos los conceptos de reciprocidad andina al trabajo agrícola prehispá
 El Ayni y la Minka son pilares éticos y prácticos de la economía andina. Permitieron realizar monumentales obras de infraestructura sin el uso de dinero, basándose en el compromiso mutuo y el bienestar colectivo del ayllu.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Pensamiento Social
@@ -229,7 +230,7 @@ El Ayni y la Minka son pilares éticos y prácticos de la economía andina. Perm
 El chhalaku o trueque posibilitó la complementariedad económica entre regiones geográficamente diversas. Las caravanas de llamas recorrían miles de kilómetros, tejiendo redes culturales y comerciales sólidas.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Social
@@ -252,7 +253,7 @@ El chhalaku o trueque posibilitó la complementariedad económica entre regiones
 El bronce de Tiwanaku devela un alto conocimiento técnico. La fundición en hornos tradicionales (huayrachinas) permitió crear grapas de metal que unían los grandes bloques de piedra de sus templos, impidiendo su separación sismo-resistente.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -275,7 +276,7 @@ Al analizar la iconografía de la Estela Bennett o Monolito Bennett, ¿qué aspe
 El Monolito Bennett personifica al gobernante-sacerdote andino, portando un kero (vaso sagrado) y un cetro. Representa la integración entre el control de la naturaleza (especialmente del agua del Titicaca) y la legitimidad política.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -298,7 +299,7 @@ El Monolito Bennett personifica al gobernante-sacerdote andino, portando un kero
 La desintegración de Tiwanaku devela una crisis que eliminó el control centralizado de los recursos altiplánicos. El colapso desató rivalidades territoriales, lo que explica por qué los señoríos aymaras construyeron sus aldeas en sitios altos fortificados llamados pucaras.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -321,7 +322,7 @@ La desintegración de Tiwanaku devela una crisis que eliminó el control central
 El Collasuyo (región sur del Tahuantinsuyo) era una de las zonas más ricas por sus rebaños de camélidos y pastizales. Los incas prefirieron la dominación indirecta pactando con los mallkus locales, asimilando sus estructuras organizativas.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -344,7 +345,7 @@ El Collasuyo (región sur del Tahuantinsuyo) era una de las zonas más ricas por
 La dualidad de género o 'chachawarmi' estructuraba el orden social de los señoríos aymaras y del incario. El poder no era monopolio masculino absoluto; la complementariedad hombre-mujer se reflejaba en el gobierno de los ayllus.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -367,7 +368,7 @@ Al analizar las monumentales obras hidráulicas de la cultura de Baures o Moxos,
 La arqueología contemporánea ha reivindicado a las civilizaciones de los Llanos de Moxos y Baures (Beni). Las evidencias de miles de hectáreas modificadas con camellones prueban la existencia de sociedades complejas andinas y de llanos altamente tecnificadas.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Pensamiento Social
@@ -390,7 +391,7 @@ La arqueología contemporánea ha reivindicado a las civilizaciones de los Llano
 El sitio arqueológico de Samaipata cuenta con una inmensa roca esculpida, considerada el mayor monumento ceremonial precolombino de la región. Era el punto de encuentro y fricción entre la cultura andina y los pueblos de los llanos occidentales.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -413,7 +414,7 @@ Al juzgar de manera integral la relación entre el ser humano y la Pachamama en 
 La cosmovisión andina y amazónica integra al ser humano como parte de la naturaleza. El concepto de reciprocidad se extiende a la Pachamama (Madre Tierra) y a los Achachilas (espíritus protectores de los cerros), regulando el acceso y uso de los recursos del territorio.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -436,7 +437,7 @@ La cosmovisión andina y amazónica integra al ser humano como parte de la natur
 Frente al cambio climático global, la sabiduría andina del control vertical destaca por su adaptabilidad. Al poseer parcelas en microclimas diversos, las comunidades garantizan su soberanía alimentaria y minimizan los impactos de la variabilidad climática.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -459,7 +460,7 @@ Considerando las corrientes historiográficas de Bolivia, ¿cómo ha transformad
 El estudio arqueológico de los Llanos de Moxos revolucionó la antropología americana. Proporcionó evidencias de que las sociedades amazónicas prehispánicas manipularon masivamente su entorno de forma sostenible, alcanzando altos niveles de organización social autónoma.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social

@@ -13,6 +13,7 @@ total_questions: 20
 bundle_size: 20
 alignment: "SEP NEM Mexico 2026 / EXANI-II pensamiento matematico"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -41,7 +42,7 @@ Si las calificaciones obtenidas son: 7, 8, 8, 9, 10, ¿cuál es el valor de la m
 ### Explicacion Pedagogica
 Para calcular la media aritmética, sumamos todos los datos de la muestra y dividimos el resultado entre el número total de observaciones. Suma = 7 + 8 + 8 + 9 + 10 = 42. Dividimos entre 5 observaciones: Media = 42 / 5 = 8.4.
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Matemático
@@ -87,7 +88,7 @@ Si se tiene un conjunto de datos ordenados: 3, 5, 7, 11, 15, ¿cuál es la media
 ### Explicacion Pedagogica
 La mediana es el valor que se encuentra en la posición central de un conjunto de datos previamente ordenados de menor a mayor. Como el número de datos es 5 (impar), la posición de la mediana es el tercer elemento. En la serie [3, 5, 7, 11, 15], el tercer elemento es exactamente 7.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** MX-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -133,7 +134,7 @@ Si se tiene un conjunto de datos ordenados: 3, 5, 7, 13, 15, ¿cuál es la media
 ### Explicacion Pedagogica
 La mediana es el valor que se encuentra en la posición central de un conjunto de datos previamente ordenados de menor a mayor. Como el número de datos es 5 (impar), la posición de la mediana es el tercer elemento. En la serie [3, 5, 7, 13, 15], el tercer elemento es exactamente 7.
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** MX-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Pensamiento Matemático
@@ -179,7 +180,7 @@ Si se tiene un conjunto de datos ordenados: 3, 5, 7, 15, 15, ¿cuál es la media
 ### Explicacion Pedagogica
 La mediana es el valor que se encuentra en la posición central de un conjunto de datos previamente ordenados de menor a mayor. Como el número de datos es 5 (impar), la posición de la mediana es el tercer elemento. En la serie [3, 5, 7, 15, 15], el tercer elemento es exactamente 7.
 
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -225,7 +226,7 @@ Si se tiene un conjunto de datos ordenados: 3, 5, 7, 17, 15, ¿cuál es la media
 ### Explicacion Pedagogica
 La mediana es el valor que se encuentra en la posición central de un conjunto de datos previamente ordenados de menor a mayor. Como el número de datos es 5 (impar), la posición de la mediana es el tercer elemento. En la serie [3, 5, 7, 17, 15], el tercer elemento es exactamente 7.
 
-## Question 10 [D5]
+## Question 10 [D5-D6]
 **ID:** MX-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -271,7 +272,7 @@ Si se tiene un conjunto de datos ordenados: 3, 5, 7, 19, 15, ¿cuál es la media
 ### Explicacion Pedagogica
 La mediana es el valor que se encuentra en la posición central de un conjunto de datos previamente ordenados de menor a mayor. Como el número de datos es 5 (impar), la posición de la mediana es el tercer elemento. En la serie [3, 5, 7, 19, 15], el tercer elemento es exactamente 7.
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** MX-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Pensamiento Matemático
@@ -317,7 +318,7 @@ Si se tiene un conjunto de datos ordenados: 3, 5, 7, 21, 15, ¿cuál es la media
 ### Explicacion Pedagogica
 La mediana es el valor que se encuentra en la posición central de un conjunto de datos previamente ordenados de menor a mayor. Como el número de datos es 5 (impar), la posición de la mediana es el tercer elemento. En la serie [3, 5, 7, 21, 15], el tercer elemento es exactamente 7.
 
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Pensamiento Matemático
@@ -363,7 +364,7 @@ Si se tiene un conjunto de datos ordenados: 3, 5, 7, 23, 15, ¿cuál es la media
 ### Explicacion Pedagogica
 La mediana es el valor que se encuentra en la posición central de un conjunto de datos previamente ordenados de menor a mayor. Como el número de datos es 5 (impar), la posición de la mediana es el tercer elemento. En la serie [3, 5, 7, 23, 15], el tercer elemento es exactamente 7.
 
-## Question 16 [D7]
+## Question 16 [D7-D8]
 **ID:** MX-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Pensamiento Matemático
@@ -409,7 +410,7 @@ Si se tiene un conjunto de datos ordenados: 3, 5, 7, 25, 15, ¿cuál es la media
 ### Explicacion Pedagogica
 La mediana es el valor que se encuentra en la posición central de un conjunto de datos previamente ordenados de menor a mayor. Como el número de datos es 5 (impar), la posición de la mediana es el tercer elemento. En la serie [3, 5, 7, 25, 15], el tercer elemento es exactamente 7.
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático
@@ -455,7 +456,7 @@ Si se tiene un conjunto de datos ordenados: 3, 5, 7, 27, 15, ¿cuál es la media
 ### Explicacion Pedagogica
 La mediana es el valor que se encuentra en la posición central de un conjunto de datos previamente ordenados de menor a mayor. Como el número de datos es 5 (impar), la posición de la mediana es el tercer elemento. En la serie [3, 5, 7, 27, 15], el tercer elemento es exactamente 7.
 
-## Question 20 [D9]
+## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Matemático

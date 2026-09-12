@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Ciencias Sociales: La Revolución Nacional de 1952: reforma agraria, voto universal, nacionalización de las minas y código de la educación (W09)
 **20 preguntas | Ciencias Sociales | Ministerio de Educacion del Estado Plurinacional de Bolivia (MINEDU)**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BO-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Social y Ciudadano
@@ -45,7 +46,7 @@ bundle_index: 1
 La Revolución del 9 de abril de 1852 (frecuentemente referida como la Revolución del 52) destruyó los cimientos del Estado oligárquico señorial de Bolivia. Paz Estenssoro retornó del exilio en Buenos Aires para asumir la presidencia y firmar las reformas estructurales históricas de la patria.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BO-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Social y Ciudadano
@@ -68,7 +69,7 @@ La Revolución del 9 de abril de 1852 (frecuentemente referida como la Revoluci�
 El Voto Universal constituyó un hito democratizador sin parangón en Bolivia. Pasó de un padrón electoral de apenas 130,000 votantes de la élite masculina adinerada a más de un millón de ciudadanos, incorporando de forma soberana a las mayorías nacionales excluidas.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BO-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Social y Ciudadano
@@ -91,7 +92,7 @@ El Voto Universal constituyó un hito democratizador sin parangón en Bolivia. P
 La nacionalización del estaño descabezó el poder económico de los tres grandes clanes mineros ('la rosca') que habían controlado el Estado y la política por medio siglo. COMIBOL asumió la administración directa de las minas más ricas (como Siglo XX y Huanuni).
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BO-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Social y Ciudadano
@@ -114,7 +115,7 @@ La nacionalización del estaño descabezó el poder económico de los tres grand
 La Reforma Agraria de 1953 modificó de forma sustancial la tenencia de la tierra en el altiplano y valles de Bolivia. Aunque fragmentó las haciendas andinas en pequeñas parcelas familiares (minifundio), sepultó de manera irreversible el oprobioso sistema de servidumbre gratuita andina del pongo.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** BO-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Pensamiento Social y Ciudadano
@@ -137,7 +138,7 @@ La Reforma Agraria de 1953 modificó de forma sustancial la tenencia de la tierr
 La fundación de la COB el 17 de abril de 1952 consagró al movimiento obrero minero como el actor político y de masas más dinámico de Bolivia. Sostuvo las banderas del cogobierno obrero, la nacionalización de minas sin indemnización y el control de divisas.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** BO-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Pensamiento Social y Ciudadano
@@ -160,7 +161,7 @@ La fundación de la COB el 17 de abril de 1952 consagró al movimiento obrero mi
 El Código de la Educación de 1955 se propuso integrar de forma real a la población indígena andina y amazónica mediante la alfabetización escolar. Aunque criticado por su enfoque asimilacionista y castellanizador homogeinizante, permitió un acceso educativo masivo inédito en la historia de Bolivia.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** BO-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v7
 **Bloom:** Understand
 **EJE:** Pensamiento Social y Ciudadano
@@ -183,7 +184,7 @@ El Código de la Educación de 1955 se propuso integrar de forma real a la pobla
 El Plan Bohan reconfiguró la geopolítica y economía interna de Bolivia. Permitió conectar el altiplano de altura con los fértiles llanos tropicales orientales de Santa Cruz, impulsando el poblamiento demográfico de la región oriental y de la agroindustria moderna.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** BO-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Social y Ciudadano
@@ -206,7 +207,7 @@ Si aplicamos el análisis de la economía de la revolución, ¿qué fenómeno ma
 La crisis inflacionaria de la post-revolución demostró los límites económicos del nacionalismo revolucionario. La aplicación del Plan Eder de estabilización monetaria fue el primer programa de austeridad respaldado por el FMI en Bolivia, revelando la fragilidad fiscal del nuevo modelo soberano de COMIBOL.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** BO-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Pensamiento Social y Ciudadano
@@ -229,7 +230,7 @@ Si aplicamos la historia de las transiciones políticas del siglo XX, ¿qué qui
 El derrocamiento del MNR en 1964 clausuró la fase civil de la Revolución Nacional. El general Barrientos capitalizó el descontento de los sindicatos fabriles y de la COB, articulando al mismo tiempo el famoso Pacto Militar-Campesino para aislar políticamente al combativo movimiento obrero minero de Bolivia.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** BO-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Social y Ciudadano
@@ -252,7 +253,7 @@ Si aplicamos el análisis de la movilización sindical post-Revolución, ¿qué 
 El Control Obrero con derecho a veto reflejó el carácter obrero-sindical de la Revolución de 1952. Marcó un hito en la participación democrática directa de los trabajadores en la gestión de los recursos naturales del país.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BO-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Pensamiento Social y Ciudadano
@@ -275,7 +276,7 @@ Al analizar la nacionalización del estaño de 1952, ¿qué consecuencia fiscal 
 La nacionalización minera de 1952 constituyó una victoria política colosal pero heredó un sector con tecnología obsoleta y minas de baja ley agotadas. El pago de compensaciones y el inflado del padrón laboral de COMIBOL comprometieron la solvencia del erario nacional.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BO-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Pensamiento Social y Ciudadano
@@ -298,7 +299,7 @@ Al analizar las consecuencias de la distribución de tierras comunales andinas d
 La Reforma Agraria de 1953 modificó de forma sustancial la tenencia de la tierra en el altiplano y valles de Bolivia. Aunque fragmentó las haciendas andinas en minifundios familiares, sepultó de manera irreversible el oprobioso sistema de servidumbre gratuita andina del pongo.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BO-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Pensamiento Social y Ciudadano
@@ -321,7 +322,7 @@ La Reforma Agraria de 1953 modificó de forma sustancial la tenencia de la tierr
 La crisis inflacionaria de la post-revolución demostró los límites económicos del nacionalismo revolucionario. La aplicación del Plan Eder de estabilización monetaria fue el primer programa de austeridad respaldado por el FMI en Bolivia.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** BO-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Pensamiento Social y Ciudadano
@@ -344,7 +345,7 @@ La crisis inflacionaria de la post-revolución demostró los límites económico
 La tensión interna entre la moderación y la radicalización minera determinó la inestabilidad de la Revolución de 1952. Obligó a recurrir a la represión militar frente a las huelgas de la COB, abriendo el camino a la intervención castrense.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** BO-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pensamiento Social y Ciudadano
@@ -367,7 +368,7 @@ Al analizar el alcance de la educación rural unificada del Código de la Educac
 El Código de la Educación de 1955 reflejó el ideal civilizatorio homogeneizador del mestizaje del MNR. Consideraba al indígena andino como un campesino que debía incorporarse a la modernidad estatal hispana, ignorando su derecho a la autodeterminación cultural.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** BO-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Pensamiento Social y Ciudadano
@@ -390,7 +391,7 @@ El Código de la Educación de 1955 reflejó el ideal civilizatorio homogeneizad
 El Pacto Militar-Campesino devela las contradicciones de la herencia del 52. Permitió que las fuerzas armadas ejercieran la tutela autoritaria estatal del agro, reprimiendo con saña las huelgas de los socavones mineros de Potosí y Oruro (como en la trágica Masacre de San Juan en 1967).
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BO-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social y Ciudadano
@@ -413,7 +414,7 @@ Al juzgar integralmente el desempeño de la nacionalizada COMIBOL de 1952, ¿cu�
 La evaluación de la nacionalización minera devela la asimetría del mercado global. Bolivia recuperó el subsuelo, pero debió lidiar con las barreras de refinación y tecnología monopolizadas por fundidoras europeas, limitando el despegue industrial soberano.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BO-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social y Ciudadano
@@ -436,7 +437,7 @@ Al juzgar el impacto del Voto Universal en la reconfiguración del sistema polí
 El Voto Universal constituyó la reforma democratizadora más profunda de Bolivia. Al ensanchar el padrón electoral, redefinió la legitimidad del poder político, forzando a las élites a negociar con los sindicatos agrarios y obreros.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** BO-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social y Ciudadano
@@ -459,7 +460,7 @@ Al evaluar globalmente la Reforma Agraria de 1953 en el desarrollo socioeconómi
 La Reforma Agraria de 1953 modificó de forma sustancial la tenencia de la tierra en el altiplano y valles de Bolivia. Aunque fragmentó las haciendas andinas en minifundios familiares, sepultó de manera irreversible el oprobioso sistema de servidumbre gratuita andina del pongo.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BO-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social y Ciudadano

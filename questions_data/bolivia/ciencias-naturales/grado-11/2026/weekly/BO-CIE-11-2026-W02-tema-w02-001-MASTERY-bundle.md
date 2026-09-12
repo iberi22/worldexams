@@ -16,9 +16,10 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Bioquímica
@@ -43,7 +44,7 @@ La respuesta correcta es Los carbohidratos. Científicamente, esto se explica po
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Bioquímica
@@ -68,7 +69,7 @@ La respuesta correcta es Los lípidos. Científicamente, esto se explica por el 
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Bioquímica
@@ -93,7 +94,7 @@ La respuesta correcta es Los aminoácidos. Científicamente, esto se explica por
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Bioquímica
@@ -118,7 +119,7 @@ La respuesta correcta es El enlace peptídico. Científicamente, esto se explica
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Bioquímica
@@ -143,7 +144,7 @@ La respuesta correcta es Las enzimas. Científicamente, esto se explica por la a
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Bioquímica
@@ -168,7 +169,7 @@ La respuesta correcta es El sitio activo. Científicamente, esto se explica por 
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v7
 **Bloom:** Understand
 **EJE:** Bioquímica
@@ -193,7 +194,7 @@ La respuesta correcta es Desnaturalización térmica. Científicamente, esto se 
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Bioquímica
@@ -218,7 +219,7 @@ La respuesta correcta es Los ácidos nucleicos. Científicamente, esto se explic
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Bioquímica
@@ -243,7 +244,7 @@ La respuesta correcta es El nucleótido. Científicamente, esto se explica por l
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Bioquímica
@@ -268,7 +269,7 @@ La respuesta correcta es El adn y el arn. Científicamente, esto se explica por 
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Bioquímica
@@ -293,7 +294,7 @@ La respuesta correcta es Estructura primaria. Científicamente, esto se explica 
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Bioquímica
@@ -318,7 +319,7 @@ La respuesta correcta es Estructura terciaria. Científicamente, esto se explica
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Bioquímica
@@ -343,7 +344,7 @@ La respuesta correcta es El atp (adenosín trifosfato). Científicamente, esto s
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v14
 **Bloom:** Apply
 **EJE:** Bioquímica
@@ -368,7 +369,7 @@ La respuesta correcta es Sistema amortiguador bicarbonato. Científicamente, est
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v15
 **Bloom:** Apply
 **EJE:** Bioquímica
@@ -393,7 +394,7 @@ La respuesta correcta es El colesterol. Científicamente, esto se explica por su
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v16
 **Bloom:** Apply
 **EJE:** Bioquímica
@@ -418,7 +419,7 @@ La respuesta correcta es La celulosa. Científicamente, esto se explica por la o
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v17
 **Bloom:** Analyze
 **EJE:** Bioquímica
@@ -443,7 +444,7 @@ La respuesta correcta es Cinética de michaelis-menten. Científicamente, esto s
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** Bioquímica
@@ -468,7 +469,7 @@ La respuesta correcta es Km (constante de michaelis). Científicamente, esto se 
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Bioquímica
@@ -493,7 +494,7 @@ La respuesta correcta es Inhibición competitiva. Científicamente, esto se expl
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Bioquímica

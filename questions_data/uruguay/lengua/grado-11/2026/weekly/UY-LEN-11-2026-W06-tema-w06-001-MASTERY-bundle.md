@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Lengua: Tema W06 (W06)
 **20 preguntas | Lengua | ANEP - Plan 2006 Reformulación / Programa Ubicación**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Comprensión de textos
@@ -46,7 +47,7 @@ bundle_index: 1
 La definición delimita conceptualmente al referente de forma unívoca, sentando las bases científicas objetivas indispensables de todo texto expositivo-explicativo.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Comprensión de textos
@@ -70,7 +71,7 @@ La definición delimita conceptualmente al referente de forma unívoca, sentando
 La tipología expositiva-explicativa tiene como fin pragmático informar de manera neutral y objetiva al receptor, respondiendo a preguntas implícitas sobre el qué y el porqué de las cosas.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Comprensión de textos
@@ -94,7 +95,7 @@ La tipología expositiva-explicativa tiene como fin pragmático informar de mane
 Los textos explicativos integran analogías descriptivas y reformulaciones ('es decir', 'en otras palabras') para que los conceptos científicos áridos resulten asimilables para un lector general.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Comprensión de textos
@@ -118,7 +119,7 @@ Los textos explicativos integran analogías descriptivas y reformulaciones ('es 
 La ejemplificación es un recurso de gran valor pedagógico en los textos expositivos-explicativos. Traduce los conceptos abstractos a hechos concretos observables comprensibles.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Comprensión de textos
@@ -143,7 +144,7 @@ La ejemplificación es un recurso de gran valor pedagógico en los textos exposi
 La neutralidad y la despersonalización (terceras personas, léxico denotativo, ausencia de adjetivos valorativos apasionados) son marcas fundamentales de la tipología expositiva-explicativa.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Comprensión de textos
@@ -169,7 +170,7 @@ Texto 2: 'Me partió el alma ver las fotos del venado de campo. Pobrecito animal
 Un mismo referente de la realidad (el venado de campo de biodiversidad uruguaya) puede recibir tratamientos lingüísticos opuestos según la intención del emisor. La ciencia exige el rigor despersonalizado de la exposición (Texto 1), mientras que la militancia afectiva recurre a la persuasión pasional (Texto 2).
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -193,7 +194,7 @@ Un mismo referente de la realidad (el venado de campo de biodiversidad uruguaya)
 La arquitectura del texto expositivo-explicativo está al servicio de la claridad conceptual de cara a la asimilación del receptor. El diseño tripartito (introducción-desarrollo-conclusión) con apoyo de recursos aclaratorios garantiza este éxito pedagógico de energía eólica.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -217,7 +218,7 @@ Analizá la terminología y estructura del texto. ¿Qué tipo de léxico predomi
 Los tecnicismos son indispensables en el texto de ciencia y tecnología. Garantizan el rigor y la precisión terminológica unívoca necesarios para conceptualizar los fenómenos naturales del referente con veracidad.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -241,7 +242,7 @@ Los tecnicismos son indispensables en el texto de ciencia y tecnología. Garanti
 La analogía o comparación pedagógica es un puente conceptual clave en la tipología explicativa. Permite modelar fenómenos complejos sirviéndose de analogías familiares al receptor para potenciar la comprensión.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -265,7 +266,7 @@ La analogía o comparación pedagógica es un puente conceptual clave en la tipo
 La enumeración y la clasificación conectorizadas son recursos lógicos fundamentales de la tipología expositiva-explicativa, ordenando la materia científica del referente en categorías asimilables para la mente del lector.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -290,7 +291,7 @@ Identificá los recursos explicativos y los marcadores de reformulación present
 Los informes de biodiversidad uruguaya combinan taxonomía formal de biodiversidad, sinonimia o reformulación léxica autóctona de biodiversidad, caracterización física de biodiversidad y explicaciones de interacciones de biodiversidad con el ecosistema de biodiversidad nativa.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -314,7 +315,7 @@ Los informes de biodiversidad uruguaya combinan taxonomía formal de biodiversid
 La tipología expositiva-explicativa descansa en el principio de veracidad y contrastabilidad científica. Su meta es representar objetivamente el saber estructurado del mundo posible, diferenciándose del estatuto ficcional de la novela.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Comprensión de textos
@@ -339,7 +340,7 @@ Analizá la estructura del texto. ¿Qué tipo de secuencia discursiva secundaria
 En los textos de historia y ciencias sociales, la exposición de hechos suele acoger secuencias secundarias de carácter argumentativo (contraste de tesis historiográficas), sin mermar la formalidad y objetividad explicativa general.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Comprensión de textos
@@ -363,7 +364,7 @@ En los textos de historia y ciencias sociales, la exposición de hechos suele ac
 Los marcadores de reformulación explicativa son herramientas pragmáticas didácticas de gran valor cognitivo, traduciendo formulaciones densas a enunciados transparentes para la mente asimiladora del receptor.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Comprensión de textos
@@ -388,7 +389,7 @@ Analizá la progresión temática del fragmento anterior. ¿Cómo fluye la infor
 La progresión temática en la tipología expositiva-explicativa organiza de forma secuencial la materia científica del referente. Hilvanar adecuadamente los temas garantiza que el lector asimile e integre la nueva información de forma piramidal de conocimiento.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Comprensión de textos
@@ -413,7 +414,7 @@ La progresión temática en la tipología expositiva-explicativa organiza de for
 La secuencia causal explicativa es el andamiaje lógico preferido de las ciencias de la naturaleza. Explicar un fenómeno del referente consiste en desentrañar de manera lógica y ordenada la cadena de causas físicas y moleculares que lo provocan.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Comprensión de textos
@@ -438,7 +439,7 @@ Evaluá críticamente el diseño argumentativo y explicativo de este afiche de s
 Las campañas de profilaxis de salud pública articulan la tipología expositiva-explicativa (divulgación de salud) con la argumentativa (persuadir al ciudadano de salud pública). Explicar de forma científica el ciclo biológico real del vector de salud dota de legitimidad racional a las directivas de conducta de salud pública solicitadas.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Comprensión de textos
@@ -463,7 +464,7 @@ Evaluá críticamente el tratamiento histórico y los recursos explicativos del 
 La tipología de las ciencias sociales e historia de Secundaria asocia la exposición rigurosa de documentos con el análisis crítico de las variables socioculturales de época, traduciendo la información en conocimiento e interpretación racional verídica.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Comprensión de textos
@@ -487,7 +488,7 @@ La tipología de las ciencias sociales e historia de Secundaria asocia la exposi
 La didáctica de las ciencias naturales de Secundaria requiere de la reformulación, la analogía y la ejemplificación como andamiajes de mediación cognitiva. El rigor científico de Secundaria reside en la veracidad y consistencia de los conceptos, no en la hostilidad de su sintaxis escolar escrita.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** UY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Comprensión de textos

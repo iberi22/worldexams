@@ -16,11 +16,12 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle — Matemáticas: Ecuaciones Lineales y Sistemas (UY-MAT-11-W03)
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Algebraico
@@ -39,7 +40,7 @@ bundle_index: 1
 ### Explicación Pedagógica
 Una ecuación lineal tiene la forma $ax + b = 0$ con $a \ne 0$. Su característica esencial es la igualdad y el exponente 1 de la incógnita.
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Algebraico
@@ -58,7 +59,7 @@ Una ecuación lineal tiene la forma $ax + b = 0$ con $a \ne 0$. Su característi
 ### Explicación Pedagógica
 Se aplica la operación inversa en ambos miembros: restando 7 queda $x = 5$. La verificación $5 + 7 = 12$ confirma el resultado.
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Algebraico
@@ -77,7 +78,7 @@ Resuelve $3x - 6 = 9$.
 ### Explicación Pedagógica
 Primero se despeja el término con la incógnita: $3x = 9 + 6 = 15$; luego se divide: $x = 5$. Verificación: $3(5) - 6 = 9$.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Algebraico
@@ -96,7 +97,7 @@ Geométricamente, la solución de un sistema de dos ecuaciones lineales con dos 
 ### Explicación Pedagógica
 Cada ecuación lineal es una recta en el plano. El par solución satisface ambas simultáneamente, así que corresponde al punto donde se intersecan.
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Pensamiento Algebraico
@@ -115,7 +116,7 @@ Resuelve $2(x - 3) = 10$.
 ### Explicación Pedagógica
 Se puede dividir primero entre 2: $x - 3 = 5$, de donde $x = 8$. También vale distribuir: $2x - 6 = 10$, $2x = 16$, $x = 8$.
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** Pensamiento Algebraico
@@ -134,7 +135,7 @@ Resuelve la ecuación $\frac{x}{3} + 2 = 5$.
 ### Explicación Pedagógica
 Se resta 2: $\frac{x}{3} = 3$; se multiplica por 3: $x = 9$. Verificación: $\frac{9}{3} + 2 = 3 + 2 = 5$.
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Pensamiento Algebraico
@@ -153,7 +154,7 @@ Dado el sistema $y = x + 1$ y $x + y = 7$, ¿cuál es el valor de $x$?
 ### Explicación Pedagógica
 Como $y$ ya está despejada, se sustituye en la segunda ecuación: $x + x + 1 = 7$, así $2x = 6$ y $x = 3$ (con $y = 4$).
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Algebraico
@@ -172,7 +173,7 @@ Como $y$ ya está despejada, se sustituye en la segunda ecuación: $x + x + 1 = 
 ### Explicación Pedagógica
 Planteando $a + n = 10$ y $300a + 180n = 2520$, se sustituye $n = 10 - a$: $300a + 180(10-a) = 2520$, así $120a = 720$ y $a = 6$.
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Pensamiento Algebraico
@@ -191,7 +192,7 @@ Resuelve la ecuación $5x - 2 = 3x + 8$.
 ### Explicación Pedagógica
 Agrupando incógnitas a la izquierda y números a la derecha: $5x - 3x = 8 + 2$, es decir $2x = 10$, así $x = 5$.
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Algebraico
@@ -210,7 +211,7 @@ Agrupando incógnitas a la izquierda y números a la derecha: $5x - 3x = 8 + 2$,
 ### Explicación Pedagógica
 Sea $B$ la edad de Bruno: Ana tiene $2B$. En 6 años: $(2B + 6) + (B + 6) = 48$, así $3B = 36$ y $B = 12$.
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Pensamiento Algebraico
@@ -229,7 +230,7 @@ El sistema formado por $2x + y = 5$ y $4x + 2y = 8$ es:
 ### Explicación Pedagógica
 Comparando razones: los coeficientes de $x$ e $y$ duplican, pero el término independiente no. Las rectas son paralelas distintas: sistema incompatible.
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Pensamiento Algebraico
@@ -248,7 +249,7 @@ Resuelve la ecuación $0.5x + 0.25 = 1.75$.
 ### Explicación Pedagógica
 Se resta $0.25$: $0.5x = 1.5$; se divide entre $0.5$ (o se multiplica por 2): $x = 3$. Trabajar con decimales exactos evita errores de redondeo.
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Pensamiento Algebraico
@@ -267,7 +268,7 @@ Se resta $0.25$: $0.5x = 1.5$; se divide entre $0.5$ (o se multiplica por 2): $x
 ### Explicación Pedagógica
 Un sistema es indeterminado cuando una ecuación es múltiplo de la otra. Aquí $2(x + y) = 2 \cdot 4$ reproduce la segunda ecuación: todas las soluciones de una sirven para la otra.
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v14
 **Bloom:** Apply
 **EJE:** Pensamiento Algebraico
@@ -286,7 +287,7 @@ Dado el sistema $3x + 2y = 16$ y $x - y = 2$, ¿cuál es el valor del producto $
 ### Explicación Pedagógica
 De la segunda ecuación $x = y + 2$; sustituyendo: $3(y+2) + 2y = 16$, $5y = 10$, $y = 2$, $x = 4$. El producto es 8.
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pensamiento Algebraico
@@ -305,7 +306,7 @@ De la segunda ecuación $x = y + 2$; sustituyendo: $3(y+2) + 2y = 16$, $5y = 10$
 ### Explicación Pedagógica
 En forma explícita, comparar pendientes y ordenadas decide el tipo de sistema: $m_1 = m_2 = 2$ y $b_1 \ne b_2$ implica rectas paralelas y cero soluciones.
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Pensamiento Algebraico
@@ -324,7 +325,7 @@ Si la solución de la ecuación $ax + 3 = 11$ es $x = 4$, ¿cuál es el valor de
 ### Explicación Pedagógica
 Sustituir la solución conocida convierte la ecuación en una nueva ecuación para $a$: $4a + 3 = 11$, de donde $a = 2$.
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Pensamiento Algebraico
@@ -343,7 +344,7 @@ Para el sistema $y = 3x - 2$ y $2x + y = 8$, ¿cuál método es el más directo 
 ### Explicación Pedagógica
 Elegir el método según la estructura ahorra trabajo: con una incógnita ya despejada, la sustitución es inmediata: $2x + (3x - 2) = 8$, $x = 2$, $y = 4$.
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Algebraico
@@ -362,7 +363,7 @@ Elegir el método según la estructura ahorra trabajo: con una incógnita ya des
 ### Explicación Pedagógica
 Verificar un par significa sustituirlo en todas las ecuaciones del sistema. Como $(2, 5)$ cumple $2+5=7$ y $4-5=-1$, es solución.
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Pensamiento Algebraico
@@ -381,7 +382,7 @@ Verificar un par significa sustituirlo en todas las ecuaciones del sistema. Como
 ### Explicación Pedagógica
 Se comparan los costos: $200 + 30d < 50d$ da $d > 10$. En $d = 10$ ambas cobran 500; más allá, la tarifa menor por km de A domina.
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Algebraico

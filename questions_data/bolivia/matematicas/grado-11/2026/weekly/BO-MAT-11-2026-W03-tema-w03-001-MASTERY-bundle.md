@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Matemáticas: Tema W03 (W03)
 **20 preguntas | Grado 11 (6to de Secundaria) | MINEDU - Ley Educativa Avelino Siñani - Elizardo Pérez**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -42,7 +43,7 @@ bundle_index: 1
 Por definición formal, el logaritmo en base b de un número positivo x es el exponente y al cual se debe elevar la base b para obtener el número x: log_b(x) = y <=> b^y = x.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -62,7 +63,7 @@ De acuerdo con las propiedades de los logaritmos, ¿a qué es equivalente el log
 La propiedad del producto de los logaritmos enuncia que log_b(x * y) = log_b(x) + log_b(y).
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -82,7 +83,7 @@ De acuerdo con las propiedades de los logaritmos, ¿a qué es equivalente el log
 La propiedad de la potencia de logaritmos establece que el exponente del argumento sale multiplicando al logaritmo: log_b(x^k) = k * log_b(x).
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -102,7 +103,7 @@ Si necesitamos cambiar de base la expresión log_2(x) a base de logaritmo natura
 La fórmula universal para el cambio de base es log_a(b) = log_c(b) / log_c(a). Sustituyendo a = 2, b = x y c = e, obtenemos log_2(x) = ln(x) / ln(2).
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -122,7 +123,7 @@ Si se sabe que log_10(2) es aproximadamente 0.301, ¿cuál es el valor aproximad
 Expresamos 8 como potencia de 2: 8 = 2^3. Aplicando la propiedad de la potencia: log_10(8) = log_10(2^3) = 3 * log_10(2) = 3 * 0.301 = 0.903.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -142,7 +143,7 @@ Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 3. ¿Cuál es la �
 Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 3. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -162,7 +163,7 @@ Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 4. ¿Cuál es la �
 Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 4. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -182,7 +183,7 @@ Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 3. ¿Cuál es la �
 Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 3. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.
 
 ---
-## Question 9 [D5]
+## Question 9 [D5-D6]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v9
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -202,7 +203,7 @@ Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 4. ¿Cuál es la �
 Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 4. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.
 
 ---
-## Question 10 [D5]
+## Question 10 [D5-D6]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -222,7 +223,7 @@ Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 3. ¿Cuál es la �
 Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 3. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -242,7 +243,7 @@ Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 4. ¿Cuál es la �
 Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 4. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -262,7 +263,7 @@ Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 3. ¿Cuál es la �
 Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 3. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -282,7 +283,7 @@ Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 4. ¿Cuál es la �
 Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 4. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.
 
 ---
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v14
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -302,7 +303,7 @@ Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 3. ¿Cuál es la �
 Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 3. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.
 
 ---
-## Question 15 [D7]
+## Question 15 [D7-D8]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -322,7 +323,7 @@ Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 4. ¿Cuál es la �
 Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 4. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.
 
 ---
-## Question 16 [D7]
+## Question 16 [D7-D8]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v16
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -342,7 +343,7 @@ Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 3. ¿Cuál es la �
 Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 3. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v17
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -362,7 +363,7 @@ Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 4. ¿Cuál es la �
 Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 4. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v18
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -382,7 +383,7 @@ Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 3. ¿Cuál es la �
 Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 3. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.
 
 ---
-## Question 19 [D9]
+## Question 19 [D9-D10]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v19
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -402,7 +403,7 @@ Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 4. ¿Cuál es la �
 Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 4. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.
 
 ---
-## Question 20 [D9]
+## Question 20 [D9-D10]
 **ID:** BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v20
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos

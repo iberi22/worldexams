@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Lengua: Tema W01 (W01)
 **20 preguntas | Lengua | ANEP - Plan 2006 Reformulación / Programa Ubicación**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pragmática y comunicación
@@ -46,7 +47,7 @@ bundle_index: 1
 El canal es el soporte o medio físico a través del cual viaja la señal que transporta el mensaje desde el emisor al receptor. La pantalla digital del paradero actúa como este medio visual.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pragmática y comunicación
@@ -70,7 +71,7 @@ El canal es el soporte o medio físico a través del cual viaja la señal que tr
 La función expresiva o emotiva se centra en el emisor, permitiéndole exteriorizar sus sentimientos, emociones o sensaciones respecto al entorno, utilizando exclamaciones y coloquialismos uruguayos.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pragmática y comunicación
@@ -94,7 +95,7 @@ La función expresiva o emotiva se centra en el emisor, permitiéndole exteriori
 La función apelativa busca provocar una respuesta o cambio de conducta en el receptor. En la consigna escolar, la profesora apela directamente a los estudiantes para que guarden sus celulares.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pragmática y comunicación
@@ -118,7 +119,7 @@ La función apelativa busca provocar una respuesta o cambio de conducta en el re
 La función fática se utiliza para iniciar, prolongar, interrumpir o verificar la viabilidad del canal de comunicación. Preguntar '¿Me escuchás bien?' cumple exactamente este propósito técnico.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Pragmática y comunicación
@@ -142,7 +143,7 @@ La función fática se utiliza para iniciar, prolongar, interrumpir o verificar 
 La literatura utiliza la función poética, donde la estructura del mensaje y los recursos estilísticos adquieren un valor en sí mismos. En el poema, se expresa artísticamente un sentimiento íntimo (emotiva).
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Pragmática y comunicación
@@ -166,7 +167,7 @@ La literatura utiliza la función poética, donde la estructura del mensaje y lo
 Cuando la lengua se toma a sí misma como objeto de estudio o de explicación, estamos ante la función metalingüística, típica de los diccionarios, gramáticas y explicaciones idomáticas.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Pragmática y comunicación
@@ -190,7 +191,7 @@ Cuando la lengua se toma a sí misma como objeto de estudio o de explicación, e
 Los mensajes publicitarios o de bien público combinan la transmisión de datos (referencial) con la persuasión directa o indirecta del receptor (apelativa) para modificar actitudes.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pragmática y comunicación
@@ -214,7 +215,7 @@ Los mensajes publicitarios o de bien público combinan la transmisión de datos 
 En la comunicación real las funciones no se presentan aisladas. Al exigir silencio mostrando alteración emocional, el hablante entrelaza la persuasión/orden (apelativa) con su estado de ánimo (emotiva).
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Pragmática y comunicación
@@ -238,7 +239,7 @@ En la comunicación real las funciones no se presentan aisladas. Al exigir silen
 La función referencial se prioriza en el periodismo informativo y la ciencia, ya que su finalidad es representar fielmente la realidad objetiva mediante hechos observables.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pragmática y comunicación
@@ -262,7 +263,7 @@ La función referencial se prioriza en el periodismo informativo y la ciencia, y
 Cualquier distorsión en la transmisión de un mensaje por el canal se cataloga técnicamente como ruido, obstaculizando la descodificación ideal del receptor.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Pragmática y comunicación
@@ -286,7 +287,7 @@ Analizá la relación entre la imagen visual y el texto escrito en este proceso 
 En la comunicación multimodal (afiches, videos), los códigos verbales y no verbales se integran. El canal visual aloja signos icónicos que complementan la asimilación conceptual del mensaje persuasivo verbal.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Pragmática y comunicación
@@ -310,7 +311,7 @@ En la comunicación multimodal (afiches, videos), los códigos verbales y no ver
 La representación dramática teatral es un acto de comunicación complejo que descansa en el código verbal oral potenciado artísticamente por recursos literarios, encarnando la función poética del lenguaje.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Pragmática y comunicación
@@ -334,7 +335,7 @@ La representación dramática teatral es un acto de comunicación complejo que d
 La adecuación es la propiedad textual que adapta el mensaje a la situación comunicativa. El contexto y la relación de jerarquía emisor-receptor regulan la formalidad del registro empleado.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Pragmática y comunicación
@@ -358,7 +359,7 @@ La adecuación es la propiedad textual que adapta el mensaje a la situación com
 La función apelativa o conativa se apoya gramaticalmente en el uso del imperativo, las interrogaciones directas y los vocativos. El uso de 'vos' y desinencias asociadas es propio de la interacción uruguaya.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pragmática y comunicación
@@ -382,7 +383,7 @@ Analizá la pintada. ¿Cómo interactúan el contexto cultural uruguayo y la fun
 El arte urbano y las leyendas populares funden la función poética con la identidad local, transformando símbolos culturales propios (como el mate en Uruguay) en vehículos de expresión estética general.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Pragmática y comunicación
@@ -406,7 +407,7 @@ Evaluá este acto de comunicación. ¿Qué elementos están fallando y qué func
 Cuando un canal tecnológico falla, se genera un ruido físico. Los participantes de la comunicación de inmediato reajustan sus funciones fáticas e instrumentales para subsanar el malentendido técnico.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Pragmática y comunicación
@@ -430,7 +431,7 @@ Desde una perspectiva crítica de la comunicación, ¿de qué manera el emisor m
 El análisis crítico de los textos publicitarios devela cómo se solapan la función estética y afectiva para camuflar la verdadera función conativa (comprar el producto), cargando de valor simbólico al referente.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pragmática y comunicación
@@ -454,7 +455,7 @@ Evaluá críticamente el uso de los elementos de la comunicación y las funcione
 El discurso político es un género discursivo eminentemente persuasivo. Combina de forma magistral las funciones expresivas (para empatizar), poéticas (para seducir oratoriamente) y conativas (para movilizar la acción ciudadana).
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Pragmática y comunicación
@@ -478,7 +479,7 @@ El discurso político es un género discursivo eminentemente persuasivo. Combina
 La teoría de Jakobson destaca que los mensajes reales son plurifuncionales. La clave del análisis reside en desentrañar la jerarquía interna: cuál es la función dominante o matriz y cuáles actúan de soporte.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pragmática y comunicación

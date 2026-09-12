@@ -16,9 +16,10 @@ license: FREE
 tier: legacy
 creador: Jules-Agent
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Funções e Álgebra
@@ -37,7 +38,7 @@ Qual é a forma básica de uma função exponencial de base $a$?
 ### Explicacion Pedagogica
 Uma função exponencial é definida pela lei $f(x) = a^x$. As restrições sobre a base ($a > 0$ e $a \neq 1$) garantem que a função seja bem definida para todos os números reais e que não seja uma função constante.
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Funções e Álgebra
@@ -56,7 +57,7 @@ Em uma função exponencial do tipo $f(x) = a^x$, o que acontece com o gráfico 
 ### Explicacion Pedagogica
 O valor da base $a$ determina o comportamento da função: se $a > 1$, os valores de $y$ aumentam conforme $x$ aumenta (crescente); se $0 < a < 1$, os valores de $y$ diminuem conforme $x$ aumenta (decrescente).
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
@@ -75,7 +76,7 @@ Qual é o valor de $f(3)$ para a função exponencial $f(x) = 2^x$?
 ### Explicacion Pedagogica
 Avaliar uma função exponencial consiste em elevar a base ao valor de $x$ indicado. No caso, $f(3) = 2^3 = 2 \cdot 2 \cdot 2 = 8$.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
@@ -94,7 +95,7 @@ Onde o gráfico de qualquer função exponencial da forma $f(x) = a^x$ intercept
 ### Explicacion Pedagogica
 Como $x=0$ no eixo $y$, calculamos $f(0) = a^0$. Pela propriedade das potências, qualquer base positiva elevada a zero resulta em 1. Assim, o intercepto $y$ é sempre 1 para funções sem translação vertical.
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
@@ -113,7 +114,7 @@ Dada a função $f(x) = (\frac{1}{3})^x$, qual é o valor de $f(-2)$?
 ### Explicacion Pedagogica
 Um expoente negativo inverte a base da potência. Assim, $(\frac{1}{3})^{-2} = (3)^2$. Elevando 3 ao quadrado, obtemos 9.
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
@@ -132,7 +133,7 @@ Sobre o conjunto imagem da função exponencial $f(x) = 5^x$, definida para todo
 ### Explicacion Pedagogica
 A função exponencial $f(x) = a^x$ (com $a > 0$) tem como imagem o intervalo $(0, +\infty)$. O eixo $x$ funciona como uma assíntota horizontal, ou seja, o gráfico se aproxima dele mas nunca o toca ou ultrapassa.
 
-## Question 7 [D6]
+## Question 7 [D5-D6]
 **ID:** BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -151,7 +152,7 @@ Após quantas horas $t$ a massa de algas atingirá 160 gramas?
 ### Explicacion Pedagogica
 Igualamos a função ao valor desejado: $160 = 10 \cdot 2^t$. Dividindo por 10: $16 = 2^t$. Como $16 = 2^4$, temos que $t = 4$ horas.
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -170,7 +171,7 @@ Resolva a equação exponencial $9^x = 27$.
 ### Explicacion Pedagogica
 Para resolver equações exponenciais, devemos igualar as bases. Como $9 = 3^2$ e $27 = 3^3$, temos $(3^2)^x = 3^3 \Rightarrow 3^{2x} = 3^3$. Igualando os expoentes: $2x = 3 \Rightarrow x = 1,5$ ou $3/2$.
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -189,7 +190,7 @@ Se a área inicial é $A_0$, a função que descreve a área após $n$ décadas 
 ### Explicacion Pedagogica
 Calculamos o fator de redução após 2 períodos: $(0,9)^2 = 0,9 \cdot 0,9 = 0,81$. Multiplicando por 100 para obter a porcentagem, temos 81\% da área original.
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -208,7 +209,7 @@ Qual é a solução da equação $2^{x+3} = 32$?
 ### Explicacion Pedagogica
 Expressamos 32 como uma potência de 2: $32 = 2^5$. A equação fica $2^{x+3} = 2^5$. Igualando os expoentes: $x + 3 = 5$, o que nos dá $x = 2$.
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -227,7 +228,7 @@ Considere a função $f(x) = 2^x + 3$. Qual é a assíntota horizontal desta fun
 ### Explicacion Pedagogica
 A função $a^x$ tem assíntota em $y=0$. Ao somar 3, todo o gráfico sobe 3 unidades, movendo a assíntota para $y=3$. O intercepto $y$ original era 1, somando 3, torna-se 4.
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
@@ -246,7 +247,7 @@ Resolva a inequação exponencial: $(\frac{1}{2})^x < \frac{1}{8}$.
 ### Explicacion Pedagogica
 Escrevemos ambos os lados na mesma base: $(\frac{1}{2})^x < (\frac{1}{2})^3$. Como a base $1/2$ está entre 0 e 1, a função é decrescente. Isso significa que, para o valor da função ser menor, o expoente deve ser maior: $x > 3$.
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
@@ -265,7 +266,7 @@ Dadas as funções $f(x) = 2^x$ e $g(x) = 4x$, para quais valores inteiros de $x
 ### Explicacion Pedagogica
 Testando os valores: para $x=4$, $2^4 = 16$ e $4 \cdot 4 = 16$. Embora funções exponenciais cresçam muito mais rápido que lineares a longo prazo, elas podem se cruzar em pontos específicos.
 
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
@@ -284,7 +285,7 @@ Se a população inicial é de 100 insetos, qual das seguintes funções represe
 ### Explicacion Pedagogica
 O fator de crescimento é 3. Como esse crescimento ocorre a cada 7 dias, o tempo $n$ deve ser dividido pelo período de 7 para que a base 3 seja elevada à potência 1 somente após uma semana completa.
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
@@ -303,7 +304,7 @@ A função $f(x) = e^x$ é chamada de função exponencial natural. Qual é a ca
 ### Explicacion Pedagogica
 Por definição, a função logarítmica é a inversa da função exponencial. Quando a base é o número irracional $e$, chamamos o logaritmo de natural ou neperiano, denotado por $\ln(x)$.
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
@@ -322,7 +323,7 @@ Se $V(t) = 100 \cdot 2^{-t}$, qual será o valor de $V$ após 3 unidades de temp
 ### Explicacion Pedagogica
 Substituímos $t = 3$ na função: $V(3) = 100 \cdot 2^{-3}$. Calculamos a potência: $2^{-3} = 1 / 2^3 = 1 / 8$. Multiplicando pelo valor inicial: $100 / 8 = 12,5$.
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
@@ -341,7 +342,7 @@ Resolva a equação: $4^x - 6 \cdot 2^x + 8 = 0$.
 ### Explicacion Pedagogica
 Substituímos $y = 2^x$, transformando a equação em uma quadrática: $y^2 - 6y + 8 = 0$. As raízes são $y = 2$ e $y = 4$. Retornando para $x$: $2^x = 2 \Rightarrow x = 1$; $2^x = 4 \Rightarrow x = 2$.
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
@@ -360,7 +361,7 @@ Considere a função $f(x) = 2^{-x^2}$. Qual é o valor máximo desta função e
 ### Explicacion Pedagogica
 A base é maior que 1, então a função cresce com o aumento do expoente. O expoente é $-x^2$. O maior valor que $-x^2$ pode assumir é 0 (quando $x=0$). Logo, o valor máximo da função é $2^0 = 1$.
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
@@ -379,7 +380,7 @@ Determine o conjunto solução da inequação: $2^{x^2 - 4} > (\frac{1}{2})^{x -
 ### Explicacion Pedagogica
 Colocamos na base 2: $2^{x^2 - 4} > 2^{-(x-2)}$. Como a base é maior que 1, mantemos a desigualdade: $x^2 - 4 > -x + 2 \Rightarrow x^2 + x - 6 > 0$. As raízes da equação quadrática são $-3$ e $2$. Como queremos valores maiores que zero, a solução está fora do intervalo das raízes.
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BR-MAT-11-2026-W05-funcao-exponencial-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra

@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Ciencias Sociales: La Modernización y el Militarismo (W05)
 **20 preguntas | Ciencias Sociales | ANEP - Plan 2006 Reformulación / Programa Ubicación**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** UY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Social
@@ -46,7 +47,7 @@ bundle_index: 1
 La identificación precisa de El gobierno de Lorenzo Latorre permite comprender la pacificación del campo por la fuerza militar dentro del proceso de el gobierno del coronel Lorenzo Latorre. Su rol histórico está plenamente documentado en los programas de estudio de la enseñanza media superior (ANEP).
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** UY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Social
@@ -70,7 +71,7 @@ La identificación precisa de El gobierno de Lorenzo Latorre permite comprender 
 La identificación precisa de El alambramiento de los campos permite comprender el fin de la ganadería libre y el vagabundeo dentro del proceso de el alambramiento de los campos uruguayos. Su rol histórico está plenamente documentado en los programas de estudio de la enseñanza media superior (ANEP).
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** UY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -94,7 +95,7 @@ Si analizás la trascendencia de este suceso, ¿cómo se explica la relación ca
 La relación entre La reforma escolar de José Pedro Varela y la enseñanza laica, gratuita y obligatoria es un eje vertebral para comprender la reforma de la educación de José Pedro Varela. Su estudio demuestra cómo los factores estructurales del período sentaron las condiciones para los cambios políticos o sociales subsiguientes.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** UY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -118,7 +119,7 @@ Si analizás la trascendencia de este suceso, ¿cómo se explica la relación ca
 La relación entre El ferrocarril, el telégrafo y el fusil Remington y la tecnología al servicio de la centralización estatal es un eje vertebral para comprender el telégrafo, el ferrocarril y el fusil Remington. Su estudio demuestra cómo los factores estructurales del período sentaron las condiciones para los cambios políticos o sociales subsiguientes.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** UY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -142,7 +143,7 @@ Si analizás la trascendencia de este suceso, ¿cómo se explica la relación ca
 La relación entre La definición estricta de la propiedad privada rural y el fin de la ocupación precaria en la campaña es un eje vertebral para comprender la consolidación de la propiedad privada rural. Su estudio demuestra cómo los factores estructurales del período sentaron las condiciones para los cambios políticos o sociales subsiguientes.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** UY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -166,7 +167,7 @@ Si analizás la trascendencia de este suceso, ¿cómo se explica la relación ca
 La relación entre La Asociación Rural del Uruguay y el gremio de hacendados que exigía orden legal es un eje vertebral para comprender la Asociación Rural del Uruguay (ARU) de 1871. Su estudio demuestra cómo los factores estructurales del período sentaron las condiciones para los cambios políticos o sociales subsiguientes.
 
 ---
-## Question 7 [D6]
+## Question 7 [D5-D6]
 **ID:** UY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -190,7 +191,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de El militarismo del general Máximo Santos revela que el militarismo de Máximo Santos (1882-1886) no fue un mero debate teórico, sino un proceso real que estructuró la consolidación del poder del ejército en el Estado, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** UY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -214,7 +215,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de La secularización del Estado mediante el Registro Civil revela que la Ley de Registro Civil y Matrimonio Civil no fue un mero debate teórico, sino un proceso real que estructuró el retiro de competencias legales a la Iglesia, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** UY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -238,7 +239,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de La introducción del ganado ovino y el mestizaje revela que el paso de la 'edad del cuero' a la ganadería de lana no fue un mero debate teórico, sino un proceso real que estructuró la diversificación exportadora del agro, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** UY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -262,7 +263,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de La estabilidad del patrón oro y la unificación aduanera revela que la unificación aduanera y el control monetario no fue un mero debate teórico, sino un proceso real que estructuró la inserción exitosa en el mercado internacional, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** UY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -286,7 +287,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de El gobierno de Lorenzo Latorre revela que el gobierno del coronel Lorenzo Latorre no fue un mero debate teórico, sino un proceso real que estructuró la pacificación del campo por la fuerza militar, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** UY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -310,7 +311,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de El alambramiento de los campos revela que el alambramiento de los campos uruguayos no fue un mero debate teórico, sino un proceso real que estructuró el fin de la ganadería libre y el vagabundeo, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 13 [D8]
+## Question 13 [D7-D8]
 **ID:** UY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Análisis de Perspectivas
@@ -334,7 +335,7 @@ La aplicación práctica de El alambramiento de los campos revela que el alambra
 El análisis crítico de La reforma escolar de José Pedro Varela demuestra que la reforma de la educación de José Pedro Varela devela fuertes asimetrías de poder. Mientras que un sector consolidaba la enseñanza laica, gratuita y obligatoria, otros grupos sociales experimentaban severas limitaciones, dinamizando el conflicto político uruguayo.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** UY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Análisis de Perspectivas
@@ -358,7 +359,7 @@ El análisis crítico de La reforma escolar de José Pedro Varela demuestra que 
 El análisis crítico de El ferrocarril, el telégrafo y el fusil Remington demuestra que el telégrafo, el ferrocarril y el fusil Remington devela fuertes asimetrías de poder. Mientras que un sector consolidaba la tecnología al servicio de la centralización estatal, otros grupos sociales experimentaban severas limitaciones, dinamizando el conflicto político uruguayo.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** UY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Análisis de Perspectivas
@@ -382,7 +383,7 @@ El análisis crítico de El ferrocarril, el telégrafo y el fusil Remington demu
 El análisis crítico de La definición estricta de la propiedad privada rural demuestra que la consolidación de la propiedad privada rural devela fuertes asimetrías de poder. Mientras que un sector consolidaba el fin de la ocupación precaria en la campaña, otros grupos sociales experimentaban severas limitaciones, dinamizando el conflicto político uruguayo.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** UY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Análisis de Perspectivas
@@ -406,7 +407,7 @@ El análisis crítico de La definición estricta de la propiedad privada rural d
 El análisis crítico de La Asociación Rural del Uruguay demuestra que la Asociación Rural del Uruguay (ARU) de 1871 devela fuertes asimetrías de poder. Mientras que un sector consolidaba el gremio de hacendados que exigía orden legal, otros grupos sociales experimentaban severas limitaciones, dinamizando el conflicto político uruguayo.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** UY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -430,7 +431,7 @@ Al juzgar de manera integral el alcance histórico de El militarismo del general
 La evaluación crítica de el militarismo de Máximo Santos (1882-1886) destaca el rol estructurador de El militarismo del general Máximo Santos en la configuración de la consolidación del poder del ejército en el Estado. Su estudio integral permite ponderar los aciertos, contradicciones y el legado institucional que perdura hasta el Uruguay contemporáneo.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** UY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -454,7 +455,7 @@ Al juzgar de manera integral el alcance histórico de La secularización del Est
 La evaluación crítica de la Ley de Registro Civil y Matrimonio Civil destaca el rol estructurador de La secularización del Estado mediante el Registro Civil en la configuración de el retiro de competencias legales a la Iglesia. Su estudio integral permite ponderar los aciertos, contradicciones y el legado institucional que perdura hasta el Uruguay contemporáneo.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** UY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -478,7 +479,7 @@ Al juzgar de manera integral el alcance histórico de La introducción del ganad
 La evaluación crítica de el paso de la 'edad del cuero' a la ganadería de lana destaca el rol estructurador de La introducción del ganado ovino y el mestizaje en la configuración de la diversificación exportadora del agro. Su estudio integral permite ponderar los aciertos, contradicciones y el legado institucional que perdura hasta el Uruguay contemporáneo.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** UY-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social

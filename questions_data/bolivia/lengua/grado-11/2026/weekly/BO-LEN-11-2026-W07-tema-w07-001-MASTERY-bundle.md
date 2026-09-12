@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Lengua: Tipología textual: texto expositivo (W07)
 **20 preguntas | Lengua | MINEDU - Ley Educativa Avelino Siñani - Elizardo Pérez**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BO-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Comprensión y tipología textual
@@ -46,7 +47,7 @@ Considerando la estructura del texto expositivo y específicamente el flujo de p
 ¡Correcto! El texto expositivo o explicativo tiene como único fin transmitir conocimiento de forma neutral y lógica para que el receptor aprenda. El texto expositivo tiene un fin eminentemente didáctico e informativo. Evita opiniones o valoraciones personales, estructurando la información en introducción, desarrollo y conclusión lógica. Esto se refleja con claridad al analizar el flujo de plata potosina hacia los mercados de Europa en la región de La Paz.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BO-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Comprensión y tipología textual
@@ -70,7 +71,7 @@ Considerando la estructura del texto expositivo y específicamente la evaporaci�
 ¡Correcto! El texto expositivo o explicativo tiene como único fin transmitir conocimiento de forma neutral y lógica para que el receptor aprenda. El texto expositivo tiene un fin eminentemente didáctico e informativo. Evita opiniones o valoraciones personales, estructurando la información en introducción, desarrollo y conclusión lógica. Esto se refleja con claridad al analizar la evaporación del agua salobre en la cuenca de Uyuni en la región de Santa Cruz.
 
 ---
-## Question 3 [D3]
+## Question 3 [D3-D4]
 **ID:** BO-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Comprensión y tipología textual
@@ -94,7 +95,7 @@ Considerando la estructura del texto expositivo y específicamente la redistribu
 ¡Correcto! El texto expositivo o explicativo tiene como único fin transmitir conocimiento de forma neutral y lógica para que el receptor aprenda. El texto expositivo tiene un fin eminentemente didáctico e informativo. Evita opiniones o valoraciones personales, estructurando la información en introducción, desarrollo y conclusión lógica. Esto se refleja con claridad al analizar la redistribución de recursos e industrialización de materias primas en la región de Cochabamba.
 
 ---
-## Question 4 [D3]
+## Question 4 [D3-D4]
 **ID:** BO-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Comprensión y tipología textual
@@ -118,7 +119,7 @@ Considerando la estructura del texto expositivo y específicamente la órbita de
 ¡Correcto! El texto expositivo o explicativo tiene como único fin transmitir conocimiento de forma neutral y lógica para que el receptor aprenda. El texto expositivo tiene un fin eminentemente didáctico e informativo. Evita opiniones o valoraciones personales, estructurando la información en introducción, desarrollo y conclusión lógica. Esto se refleja con claridad al analizar la órbita de telecomunicaciones que cubre las áreas rurales en la región de Sucre.
 
 ---
-## Question 5 [D4]
+## Question 5 [D3-D4]
 **ID:** BO-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Comprensión y tipología textual
@@ -142,7 +143,7 @@ Considerando la estructura del texto expositivo y específicamente la protecció
 ¡Correcto! El texto expositivo o explicativo tiene como único fin transmitir conocimiento de forma neutral y lógica para que el receptor aprenda. El texto expositivo tiene un fin eminentemente didáctico e informativo. Evita opiniones o valoraciones personales, estructurando la información en introducción, desarrollo y conclusión lógica. Esto se refleja con claridad al analizar la protección de la biodiversidad de aves y plantas amazónicas en la región de Oruro.
 
 ---
-## Question 6 [D4]
+## Question 6 [D3-D4]
 **ID:** BO-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Comprensión y tipología textual
@@ -166,7 +167,7 @@ Considerando la estructura del texto expositivo y específicamente la distribuci
 ¡Correcto! El texto expositivo o explicativo tiene como único fin transmitir conocimiento de forma neutral y lógica para que el receptor aprenda. El texto expositivo tiene un fin eminentemente didáctico e informativo. Evita opiniones o valoraciones personales, estructurando la información en introducción, desarrollo y conclusión lógica. Esto se refleja con claridad al analizar la distribución de competencias de los gobiernos subnacionales en la región de Potosí.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** BO-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v7
 **Bloom:** Understand
 **EJE:** Comprensión y tipología textual
@@ -190,7 +191,7 @@ Considerando la estructura del texto expositivo y específicamente los aminoáci
 ¡Correcto! El texto expositivo o explicativo tiene como único fin transmitir conocimiento de forma neutral y lógica para que el receptor aprenda. El texto expositivo tiene un fin eminentemente didáctico e informativo. Evita opiniones o valoraciones personales, estructurando la información en introducción, desarrollo y conclusión lógica. Esto se refleja con claridad al analizar los aminoácidos esenciales del grano de oro de los andes en la región de Tarija.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** BO-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v8
 **Bloom:** Understand
 **EJE:** Comprensión y tipología textual
@@ -214,7 +215,7 @@ Considerando la estructura del texto expositivo y específicamente la cuenca tec
 ¡Correcto! El texto expositivo o explicativo tiene como único fin transmitir conocimiento de forma neutral y lógica para que el receptor aprenda. El texto expositivo tiene un fin eminentemente didáctico e informativo. Evita opiniones o valoraciones personales, estructurando la información en introducción, desarrollo y conclusión lógica. Esto se refleja con claridad al analizar la cuenca tectónica endorreica del altiplano boliviano en la región de Trinidad.
 
 ---
-## Question 9 [D5]
+## Question 9 [D5-D6]
 **ID:** BO-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Comprensión y tipología textual
@@ -238,7 +239,7 @@ Considerando la estructura del texto expositivo y específicamente el abastecimi
 ¡Correcto! El texto expositivo o explicativo tiene como único fin transmitir conocimiento de forma neutral y lógica para que el receptor aprenda. El texto expositivo tiene un fin eminentemente didáctico e informativo. Evita opiniones o valoraciones personales, estructurando la información en introducción, desarrollo y conclusión lógica. Esto se refleja con claridad al analizar el abastecimiento de agua potable y riego para Cochabamba en la región de Cobija.
 
 ---
-## Question 10 [D5]
+## Question 10 [D5-D6]
 **ID:** BO-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Comprensión y tipología textual
@@ -262,7 +263,7 @@ Considerando la estructura del texto expositivo y específicamente la red vial e
 ¡Correcto! El texto expositivo o explicativo tiene como único fin transmitir conocimiento de forma neutral y lógica para que el receptor aprenda. El texto expositivo tiene un fin eminentemente didáctico e informativo. Evita opiniones o valoraciones personales, estructurando la información en introducción, desarrollo y conclusión lógica. Esto se refleja con claridad al analizar la red vial empedrada de comunicación del imperio incaico en la región de Viacha.
 
 ---
-## Question 11 [D6]
+## Question 11 [D5-D6]
 **ID:** BO-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Comprensión y tipología textual
@@ -286,7 +287,7 @@ Considerando la estructura del texto expositivo y específicamente la selección
 ¡Correcto! El texto expositivo o explicativo tiene como único fin transmitir conocimiento de forma neutral y lógica para que el receptor aprenda. El texto expositivo tiene un fin eminentemente didáctico e informativo. Evita opiniones o valoraciones personales, estructurando la información en introducción, desarrollo y conclusión lógica. Esto se refleja con claridad al analizar la selección, lavado de saponina y empaque del grano en la región de Montero.
 
 ---
-## Question 12 [D6]
+## Question 12 [D5-D6]
 **ID:** BO-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Comprensión y tipología textual
@@ -310,7 +311,7 @@ Considerando la estructura del texto expositivo y específicamente el modelo soc
 ¡Correcto! El texto expositivo o explicativo tiene como único fin transmitir conocimiento de forma neutral y lógica para que el receptor aprenda. El texto expositivo tiene un fin eminentemente didáctico e informativo. Evita opiniones o valoraciones personales, estructurando la información en introducción, desarrollo y conclusión lógica. Esto se refleja con claridad al analizar el modelo sociocomunitario productivo y descolonizador en la región de Sacaba.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BO-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v13
 **Bloom:** Apply
 **EJE:** Comprensión y tipología textual
@@ -334,7 +335,7 @@ Considerando la estructura del texto expositivo y específicamente las miles de 
 ¡Correcto! El texto expositivo o explicativo tiene como único fin transmitir conocimiento de forma neutral y lógica para que el receptor aprenda. El texto expositivo tiene un fin eminentemente didáctico e informativo. Evita opiniones o valoraciones personales, estructurando la información en introducción, desarrollo y conclusión lógica. Esto se refleja con claridad al analizar las miles de variedades seleccionadas por las culturas precolombinas en la región de Quillacollo.
 
 ---
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** BO-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v14
 **Bloom:** Apply
 **EJE:** Comprensión y tipología textual
@@ -358,7 +359,7 @@ Considerando la estructura del texto expositivo y específicamente las laderas y
 ¡Correcto! El texto expositivo o explicativo tiene como único fin transmitir conocimiento de forma neutral y lógica para que el receptor aprenda. El texto expositivo tiene un fin eminentemente didáctico e informativo. Evita opiniones o valoraciones personales, estructurando la información en introducción, desarrollo y conclusión lógica. Esto se refleja con claridad al analizar las laderas y terrazas de cultivo de Cochabamba y Tarija en la región de Warnes.
 
 ---
-## Question 15 [D7]
+## Question 15 [D7-D8]
 **ID:** BO-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Comprensión y tipología textual
@@ -382,7 +383,7 @@ Considerando la estructura del texto expositivo y específicamente el vector tra
 ¡Correcto! El texto expositivo o explicativo tiene como único fin transmitir conocimiento de forma neutral y lógica para que el receptor aprenda. El texto expositivo tiene un fin eminentemente didáctico e informativo. Evita opiniones o valoraciones personales, estructurando la información en introducción, desarrollo y conclusión lógica. Esto se refleja con claridad al analizar el vector transmisor y sus etapas de desarrollo en agua limpia en la región de El Alto.
 
 ---
-## Question 16 [D7]
+## Question 16 [D7-D8]
 **ID:** BO-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Comprensión y tipología textual
@@ -406,7 +407,7 @@ Considerando la estructura del texto expositivo y específicamente los primeros 
 ¡Correcto! El texto expositivo o explicativo tiene como único fin transmitir conocimiento de forma neutral y lógica para que el receptor aprenda. El texto expositivo tiene un fin eminentemente didáctico e informativo. Evita opiniones o valoraciones personales, estructurando la información en introducción, desarrollo y conclusión lógica. Esto se refleja con claridad al analizar los primeros talleres tipográficos de la época de la independencia en la región de Riberalta.
 
 ---
-## Question 17 [D8]
+## Question 17 [D7-D8]
 **ID:** BO-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v17
 **Bloom:** Analyze
 **EJE:** Comprensión y tipología textual
@@ -430,7 +431,7 @@ Considerando la estructura del texto expositivo y específicamente las reservas 
 ¡Correcto! El texto expositivo o explicativo tiene como único fin transmitir conocimiento de forma neutral y lógica para que el receptor aprenda. El texto expositivo tiene un fin eminentemente didáctico e informativo. Evita opiniones o valoraciones personales, estructurando la información en introducción, desarrollo y conclusión lógica. Esto se refleja con claridad al analizar las reservas de hidrocarburos del departamento de Tarija en la región de Yacuiba.
 
 ---
-## Question 18 [D8]
+## Question 18 [D7-D8]
 **ID:** BO-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** Comprensión y tipología textual
@@ -454,7 +455,7 @@ Considerando la estructura del texto expositivo y específicamente la regulació
 ¡Correcto! El texto expositivo o explicativo tiene como único fin transmitir conocimiento de forma neutral y lógica para que el receptor aprenda. El texto expositivo tiene un fin eminentemente didáctico e informativo. Evita opiniones o valoraciones personales, estructurando la información en introducción, desarrollo y conclusión lógica. Esto se refleja con claridad al analizar la regulación del tipo de cambio y emisión del Boliviano en la región de Colcapirhua.
 
 ---
-## Question 19 [D9]
+## Question 19 [D9-D10]
 **ID:** BO-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Comprensión y tipología textual
@@ -478,7 +479,7 @@ Considerando la estructura del texto expositivo y específicamente el fuerte pre
 ¡Correcto! El texto expositivo o explicativo tiene como único fin transmitir conocimiento de forma neutral y lógica para que el receptor aprenda. El texto expositivo tiene un fin eminentemente didáctico e informativo. Evita opiniones o valoraciones personales, estructurando la información en introducción, desarrollo y conclusión lógica. Esto se refleja con claridad al analizar el fuerte preincaico tallado en una roca gigante en la región de Tupiza.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BO-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Comprensión y tipología textual

@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Ciencias Sociales: El estancamiento socioeconómico y el deterioro democrático (W09)
 **20 preguntas | Ciencias Sociales | ANEP - Plan 2006 Reformulación / Programa Ubicación**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** UY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Social
@@ -46,7 +47,7 @@ bundle_index: 1
 La identificación precisa de La caída de los precios internacionales y estancamiento del agro permite comprender el inicio de la severa crisis estructural del modelo dentro del proceso de el fin de la bonanza exportadora a fines de los 50. Su rol histórico está plenamente documentado en los programas de estudio de la enseñanza media superior (ANEP).
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** UY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Social
@@ -70,7 +71,7 @@ La identificación precisa de La caída de los precios internacionales y estanca
 La identificación precisa de La unificación sindical en la Convención Nacional de Trabajadores permite comprender la respuesta obrera unificada ante el de forma inmediata estancamiento dentro del proceso de el surgimiento de la CNT (Convención Nacional de Trabajadores). Su rol histórico está plenamente documentado en los programas de estudio de la enseñanza media superior (ANEP).
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** UY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -94,7 +95,7 @@ Si analizás la trascendencia de este suceso, ¿cómo se explica la relación ca
 La relación entre El surgimiento del Movimiento de Liberación Nacional (MLN-T) y la vía armada en el marco de la crisis de forma inmediata institucional es un eje vertebral para comprender el nacimiento del movimiento guerrillero Tupamaros. Su estudio demuestra cómo los factores estructurales del período sentaron las condiciones para los cambios políticos o sociales subsiguientes.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** UY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -118,7 +119,7 @@ Si analizás la trascendencia de este suceso, ¿cómo se explica la relación ca
 La relación entre El uso sistemático de las Medidas Prontas de Seguridad y el autoritarismo del gobierno de Jorge Pacheco Areco es un eje vertebral para comprender las Medidas Prontas de Seguridad de Pacheco Areco. Su estudio demuestra cómo los factores estructurales del período sentaron las condiciones para los cambios políticos o sociales subsiguientes.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** UY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -142,7 +143,7 @@ Si analizás la trascendencia de este suceso, ¿cómo se explica la relación ca
 La relación entre La Constitución de 1967 y el retorno al presidencialismo y el fin del colegiado y fortalecimiento de forma inmediata del Ejecutivo es un eje vertebral para comprender la reforma constitucional de 1966 (Constitución naranja). Su estudio demuestra cómo los factores estructurales del período sentaron las condiciones para los cambios políticos o sociales subsiguientes.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** UY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Pensamiento Social
@@ -166,7 +167,7 @@ Si analizás la trascendencia de este suceso, ¿cómo se explica la relación ca
 La relación entre La fundación del Frente Amplio en 1971 y la unificación de las fuerzas de izquierda es un eje vertebral para comprender el surgimiento del Frente Amplio en 1971. Su estudio demuestra cómo los factores estructurales del período sentaron las condiciones para los cambios políticos o sociales subsiguientes.
 
 ---
-## Question 7 [D6]
+## Question 7 [D5-D6]
 **ID:** UY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -190,7 +191,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de La quiebra del Banco Transatlántico y crisis financiera revela que la crisis bancaria y financiera de 1965 no fue un mero debate teórico, sino un proceso real que estructuró la inestabilidad del de forma privada sistema bancario, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** UY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -214,7 +215,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de La declaración del Estado de Guerra Interno en 1972 revela que la militarización de la seguridad interna no fue un mero debate teórico, sino un proceso real que estructuró el de forma militar protagonismo militar en la seguridad, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** UY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -238,7 +239,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de Las marchas de los cañeros lideradas por Raúl Sendic revela que la marcha de los cañeros de Bella Unión no fue un mero debate teórico, sino un proceso real que estructuró la de forma rural movilización agraria del norte, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** UY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -262,7 +263,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de La clausura de diarios, censura y violencia callejera revela que la violencia política y la censura de prensa no fue un mero debate teórico, sino un proceso real que estructuró el de forma social clima de polarización social y deterioro, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** UY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -286,7 +287,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de La caída de los precios internacionales y estancamiento del agro revela que el fin de la bonanza exportadora a fines de los 50 no fue un mero debate teórico, sino un proceso real que estructuró el inicio de la severa crisis estructural del modelo, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** UY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Interpretación y Análisis de Perspectivas
@@ -310,7 +311,7 @@ Si aplicás este análisis a las tensiones de la época, ¿de qué manera se man
 La aplicación práctica de La unificación sindical en la Convención Nacional de Trabajadores revela que el surgimiento de la CNT (Convención Nacional de Trabajadores) no fue un mero debate teórico, sino un proceso real que estructuró la respuesta obrera unificada ante el de forma inmediata estancamiento, definiendo la distribución de recursos y el ejercicio del poder.
 
 ---
-## Question 13 [D8]
+## Question 13 [D7-D8]
 **ID:** UY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Análisis de Perspectivas
@@ -334,7 +335,7 @@ La aplicación práctica de La unificación sindical en la Convención Nacional 
 El análisis crítico de El surgimiento del Movimiento de Liberación Nacional (MLN-T) demuestra que el nacimiento del movimiento guerrillero Tupamaros devela fuertes asimetrías de poder. Mientras que un sector consolidaba la vía armada en el marco de la crisis de forma inmediata institucional, otros grupos sociales experimentaban severas limitaciones, dinamizando el conflicto político uruguayo.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** UY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Análisis de Perspectivas
@@ -358,7 +359,7 @@ El análisis crítico de El surgimiento del Movimiento de Liberación Nacional (
 El análisis crítico de El uso sistemático de las Medidas Prontas de Seguridad demuestra que las Medidas Prontas de Seguridad de Pacheco Areco devela fuertes asimetrías de poder. Mientras que un sector consolidaba el autoritarismo del gobierno de Jorge Pacheco Areco, otros grupos sociales experimentaban severas limitaciones, dinamizando el conflicto político uruguayo.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** UY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Análisis de Perspectivas
@@ -382,7 +383,7 @@ El análisis crítico de El uso sistemático de las Medidas Prontas de Seguridad
 El análisis crítico de La Constitución de 1967 y el retorno al presidencialismo demuestra que la reforma constitucional de 1966 (Constitución naranja) devela fuertes asimetrías de poder. Mientras que un sector consolidaba el fin del colegiado y fortalecimiento de forma inmediata del Ejecutivo, otros grupos sociales experimentaban severas limitaciones, dinamizando el conflicto político uruguayo.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** UY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Análisis de Perspectivas
@@ -406,7 +407,7 @@ El análisis crítico de La Constitución de 1967 y el retorno al presidencialis
 El análisis crítico de La fundación del Frente Amplio en 1971 demuestra que el surgimiento del Frente Amplio en 1971 devela fuertes asimetrías de poder. Mientras que un sector consolidaba la unificación de las fuerzas de izquierda, otros grupos sociales experimentaban severas limitaciones, dinamizando el conflicto político uruguayo.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** UY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -430,7 +431,7 @@ Al juzgar de manera integral el alcance histórico de La quiebra del Banco Trans
 La evaluación crítica de la crisis bancaria y financiera de 1965 destaca el rol estructurador de La quiebra del Banco Transatlántico y crisis financiera en la configuración de la inestabilidad del de forma privada sistema bancario. Su estudio integral permite ponderar los aciertos, contradicciones y el legado institucional que perdura hasta el Uruguay contemporáneo.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** UY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -454,7 +455,7 @@ Al juzgar de manera integral el alcance histórico de La declaración del Estado
 La evaluación crítica de la militarización de la seguridad interna destaca el rol estructurador de La declaración del Estado de Guerra Interno en 1972 en la configuración de el de forma militar protagonismo militar en la seguridad. Su estudio integral permite ponderar los aciertos, contradicciones y el legado institucional que perdura hasta el Uruguay contemporáneo.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** UY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social
@@ -478,7 +479,7 @@ Al juzgar de manera integral el alcance histórico de Las marchas de los cañero
 La evaluación crítica de la marcha de los cañeros de Bella Unión destaca el rol estructurador de Las marchas de los cañeros lideradas por Raúl Sendic en la configuración de la de forma rural movilización agraria del norte. Su estudio integral permite ponderar los aciertos, contradicciones y el legado institucional que perdura hasta el Uruguay contemporáneo.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** UY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Social

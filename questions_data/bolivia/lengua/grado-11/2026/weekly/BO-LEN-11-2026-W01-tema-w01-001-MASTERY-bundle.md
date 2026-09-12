@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Lengua: Comunicación: elementos y funciones (W01)
 **20 preguntas | Lengua | MINEDU - Ley Educativa Avelino Siñani - Elizardo Pérez**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Estudio de la lengua y comunicación
@@ -46,7 +47,7 @@ charla sobre comunicación social
 El código es el sistema convencional de signos compartidos que permite entenderse. En este contexto de La Paz, el proceso se adecúa de manera óptima.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Estudio de la lengua y comunicación
@@ -70,7 +71,7 @@ aviso importante en la puerta del colegio
 El soporte físico de papel actúa como el medio o canal de transporte. En este contexto de Santa Cruz, el proceso se adecúa de manera óptima.
 
 ---
-## Question 3 [D3]
+## Question 3 [D3-D4]
 **ID:** BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Estudio de la lengua y comunicación
@@ -94,7 +95,7 @@ saludo entusiasta del locutor radial
 La función expresiva o emotiva se centra en el emisor para manifestar subjetividad. En este contexto de Cochabamba, el proceso se adecúa de manera óptima.
 
 ---
-## Question 4 [D3]
+## Question 4 [D3-D4]
 **ID:** BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Estudio de la lengua y comunicación
@@ -118,7 +119,7 @@ afiche municipal de feria
 La función apelativa se orienta al receptor para inducir una acción de compra. En este contexto de Sucre, el proceso se adecúa de manera óptima.
 
 ---
-## Question 5 [D4]
+## Question 5 [D3-D4]
 **ID:** BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Estudio de la lengua y comunicación
@@ -142,7 +143,7 @@ pregunta de control telefónico
 La función fática se centra en el canal físico para comprobar la viabilidad. En este contexto de Oruro, el proceso se adecúa de manera óptima.
 
 ---
-## Question 6 [D4]
+## Question 6 [D3-D4]
 **ID:** BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Estudio de la lengua y comunicación
@@ -166,7 +167,7 @@ explicación de vocablo andino en el aula
 La función metalingüística tiene como objeto de estudio al sistema de la lengua. En este contexto de Potosí, el proceso se adecúa de manera óptima.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v7
 **Bloom:** Understand
 **EJE:** Estudio de la lengua y comunicación
@@ -190,7 +191,7 @@ debate acalorado en la asamblea estudiantil
 El enojo subjetivo manifiesta la función expresiva y las órdenes la apelativa. En este contexto de Tarija, el proceso se adecúa de manera óptima.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v8
 **Bloom:** Understand
 **EJE:** Estudio de la lengua y comunicación
@@ -214,7 +215,7 @@ noticia económica sobre exportaciones
 La función referencial busca retratar hechos reales de forma neutral y lógica. En este contexto de Trinidad, el proceso se adecúa de manera óptima.
 
 ---
-## Question 9 [D5]
+## Question 9 [D5-D6]
 **ID:** BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Estudio de la lengua y comunicación
@@ -238,7 +239,7 @@ discurso motivacional cívico en el patio
 La persuasión cívica utiliza la apelación y la emotividad como estrategias. En este contexto de Cobija, el proceso se adecúa de manera óptima.
 
 ---
-## Question 10 [D5]
+## Question 10 [D5-D6]
 **ID:** BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Estudio de la lengua y comunicación
@@ -262,7 +263,7 @@ mensaje distorsionado en WhatsApp
 Cualquier perturbación en el canal que altere la señal es técnicamente ruido. En este contexto de Viacha, el proceso se adecúa de manera óptima.
 
 ---
-## Question 11 [D6]
+## Question 11 [D5-D6]
 **ID:** BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Estudio de la lengua y comunicación
@@ -286,7 +287,7 @@ afiche de seguridad vial multimodal
 Los códigos visual e iconográfico apoyan al verbal escrito en el afiche. En este contexto de Montero, el proceso se adecúa de manera óptima.
 
 ---
-## Question 12 [D6]
+## Question 12 [D5-D6]
 **ID:** BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Estudio de la lengua y comunicación
@@ -310,7 +311,7 @@ ondas sonoras y luz de televisión
 El canal es el soporte material por donde circulan las señales físicas. En este contexto de Sacaba, el proceso se adecúa de manera óptima.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v13
 **Bloom:** Apply
 **EJE:** Estudio de la lengua y comunicación
@@ -334,7 +335,7 @@ carta formal de renuncia en la distrital
 La situación institucional impone el uso del registro formal culto. En este contexto de Quillacollo, el proceso se adecúa de manera óptima.
 
 ---
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v14
 **Bloom:** Apply
 **EJE:** Estudio de la lengua y comunicación
@@ -358,7 +359,7 @@ solicitud cotidiana de materiales escolares
 La función apelativa se activa al buscar que el receptor realice una conducta. En este contexto de Warnes, el proceso se adecúa de manera óptima.
 
 ---
-## Question 15 [D7]
+## Question 15 [D7-D8]
 **ID:** BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Estudio de la lengua y comunicación
@@ -382,7 +383,7 @@ letrero o mural reflexivo urbano
 La metáfora es un recurso figurado típico para embellecer el mensaje. En este contexto de El Alto, el proceso se adecúa de manera óptima.
 
 ---
-## Question 16 [D7]
+## Question 16 [D7-D8]
 **ID:** BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Estudio de la lengua y comunicación
@@ -406,7 +407,7 @@ falla de plataforma en examen virtual
 Ante el ruido técnico, se reajusta el canal y se activa la función fática. En este contexto de Riberalta, el proceso se adecúa de manera óptima.
 
 ---
-## Question 17 [D8]
+## Question 17 [D7-D8]
 **ID:** BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v17
 **Bloom:** Analyze
 **EJE:** Estudio de la lengua y comunicación
@@ -430,7 +431,7 @@ afiche publicitario de jugos naturales
 La publicidad solapa la función estética y la emotiva para inducir la compra. En este contexto de Yacuiba, el proceso se adecúa de manera óptima.
 
 ---
-## Question 18 [D8]
+## Question 18 [D7-D8]
 **ID:** BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** Estudio de la lengua y comunicación
@@ -454,7 +455,7 @@ oratoria de líder estudiantil en recreo
 La oratoria cívica se apoya en la entrega expresiva para persuadir. En este contexto de Colcapirhua, el proceso se adecúa de manera óptima.
 
 ---
-## Question 19 [D9]
+## Question 19 [D9-D10]
 **ID:** BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Estudio de la lengua y comunicación
@@ -478,7 +479,7 @@ reflexión crítica de editorial de prensa
 Según Jakobson, en todo texto conviven funciones en diferente jerarquía. En este contexto de Tupiza, el proceso se adecúa de manera óptima.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Estudio de la lengua y comunicación

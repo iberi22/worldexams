@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Ciencias Naturales: Organelos celulares (W03)
 **20 preguntas | Ciencias Naturales | ANEP - Plan 2006 Reformulación / Programa Ubicación**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Uso Comprensivo del Conocimiento Científico
@@ -45,7 +46,7 @@ bundle_index: 1
 La mitocondria aloja el ciclo de Krebs en la matriz y la cadena respiratoria en sus crestas, optimizando la síntesis de ATP. En este contexto, Joaquín de Maldonado determinó correctamente la respuesta correcta.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Explicación de Fenómenos
@@ -68,7 +69,7 @@ La mitocondria aloja el ciclo de Krebs en la matriz y la cadena respiratoria en 
 La fase luminosa de la fotosíntesis ocurre en las membranas de los tilacoides, liberando oxígeno y generando NADPH y ATP. En este contexto, Camila de Tacuarembó determinó correctamente la respuesta correcta.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Uso Comprensivo del Conocimiento Científico
@@ -91,7 +92,7 @@ La fase luminosa de la fotosíntesis ocurre en las membranas de los tilacoides, 
 El retículo endoplasmático liso detoxifica xenobióticos mediante enzimas de la familia del citocromo P450, abundando en hepatocitos. En este contexto, Mateo de Mercedes determinó correctamente la respuesta correcta.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Explicación de Fenómenos
@@ -114,7 +115,7 @@ El retículo endoplasmático liso detoxifica xenobióticos mediante enzimas de l
 El bajo pH del lisosoma actúa como sistema de protección celular: si se rompe, las hidrolasas no dañan el citosol neutro. En este contexto, Sofía de Melo determinó correctamente la respuesta correcta.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Uso Comprensivo del Conocimiento Científico
@@ -137,7 +138,7 @@ El bajo pH del lisosoma actúa como sistema de protección celular: si se rompe,
 La mitocondria aloja el ciclo de Krebs en la matriz y la cadena respiratoria en sus crestas, optimizando la síntesis de ATP. En este contexto, Martín de Canelones determinó correctamente la respuesta correcta.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Explicación de Fenómenos
@@ -160,7 +161,7 @@ La mitocondria aloja el ciclo de Krebs en la matriz y la cadena respiratoria en 
 La fase luminosa de la fotosíntesis ocurre en las membranas de los tilacoides, liberando oxígeno y generando NADPH y ATP. En este contexto, Lucía de Montevideo determinó correctamente la respuesta correcta.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v7
 **Bloom:** Understand
 **EJE:** Uso Comprensivo del Conocimiento Científico
@@ -183,7 +184,7 @@ La fase luminosa de la fotosíntesis ocurre en las membranas de los tilacoides, 
 El retículo endoplasmático liso detoxifica xenobióticos mediante enzimas de la familia del citocromo P450, abundando en hepatocitos. En este contexto, Gastón de Maldonado determinó correctamente la respuesta correcta.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Explicación de Fenómenos
@@ -206,7 +207,7 @@ El retículo endoplasmático liso detoxifica xenobióticos mediante enzimas de l
 El bajo pH del lisosoma actúa como sistema de protección celular: si se rompe, las hidrolasas no dañan el citosol neutro. En este contexto, Nicolás de Tacuarembó determinó correctamente la respuesta correcta.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Uso Comprensivo del Conocimiento Científico
@@ -229,7 +230,7 @@ El bajo pH del lisosoma actúa como sistema de protección celular: si se rompe,
 La mitocondria aloja el ciclo de Krebs en la matriz y la cadena respiratoria en sus crestas, optimizando la síntesis de ATP. En este contexto, Belén de Mercedes determinó correctamente la respuesta correcta.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Explicación de Fenómenos
@@ -252,7 +253,7 @@ La mitocondria aloja el ciclo de Krebs en la matriz y la cadena respiratoria en 
 La fase luminosa de la fotosíntesis ocurre en las membranas de los tilacoides, liberando oxígeno y generando NADPH y ATP. En este contexto, Felipe de Melo determinó correctamente la respuesta correcta.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Uso Comprensivo del Conocimiento Científico
@@ -275,7 +276,7 @@ La fase luminosa de la fotosíntesis ocurre en las membranas de los tilacoides, 
 El retículo endoplasmático liso detoxifica xenobióticos mediante enzimas de la familia del citocromo P450, abundando en hepatocitos. En este contexto, Juana de Canelones determinó correctamente la respuesta correcta.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Explicación de Fenómenos
@@ -298,7 +299,7 @@ El retículo endoplasmático liso detoxifica xenobióticos mediante enzimas de l
 El bajo pH del lisosoma actúa como sistema de protección celular: si se rompe, las hidrolasas no dañan el citosol neutro. En este contexto, Ignacio de Montevideo determinó correctamente la respuesta correcta.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v13
 **Bloom:** Apply
 **EJE:** Uso Comprensivo del Conocimiento Científico
@@ -321,7 +322,7 @@ El bajo pH del lisosoma actúa como sistema de protección celular: si se rompe,
 La mitocondria aloja el ciclo de Krebs en la matriz y la cadena respiratoria en sus crestas, optimizando la síntesis de ATP. En este contexto, Paula de Maldonado determinó correctamente la respuesta correcta.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Explicación de Fenómenos
@@ -344,7 +345,7 @@ La mitocondria aloja el ciclo de Krebs en la matriz y la cadena respiratoria en 
 La fase luminosa de la fotosíntesis ocurre en las membranas de los tilacoides, liberando oxígeno y generando NADPH y ATP. En este contexto, Diego de Tacuarembó determinó correctamente la respuesta correcta.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Uso Comprensivo del Conocimiento Científico
@@ -367,7 +368,7 @@ La fase luminosa de la fotosíntesis ocurre en las membranas de los tilacoides, 
 El retículo endoplasmático liso detoxifica xenobióticos mediante enzimas de la familia del citocromo P450, abundando en hepatocitos. En este contexto, Clara de Mercedes determinó correctamente la respuesta correcta.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Explicación de Fenómenos
@@ -390,7 +391,7 @@ El retículo endoplasmático liso detoxifica xenobióticos mediante enzimas de l
 El bajo pH del lisosoma actúa como sistema de protección celular: si se rompe, las hidrolasas no dañan el citosol neutro. En este contexto, Agustín de Melo determinó correctamente la respuesta correcta.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v17
 **Bloom:** Analyze
 **EJE:** Uso Comprensivo del Conocimiento Científico
@@ -413,7 +414,7 @@ El bajo pH del lisosoma actúa como sistema de protección celular: si se rompe,
 La mitocondria aloja el ciclo de Krebs en la matriz y la cadena respiratoria en sus crestas, optimizando la síntesis de ATP. En este contexto, Sebastián de Canelones determinó correctamente la respuesta correcta.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** Explicación de Fenómenos
@@ -436,7 +437,7 @@ La mitocondria aloja el ciclo de Krebs en la matriz y la cadena respiratoria en 
 La fase luminosa de la fotosíntesis ocurre en las membranas de los tilacoides, liberando oxígeno y generando NADPH y ATP. En este contexto, Valentina de Montevideo determinó correctamente la respuesta correcta.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Uso Comprensivo del Conocimiento Científico
@@ -459,7 +460,7 @@ La fase luminosa de la fotosíntesis ocurre en las membranas de los tilacoides, 
 El retículo endoplasmático liso detoxifica xenobióticos mediante enzimas de la familia del citocromo P450, abundando en hepatocitos. En este contexto, Santiago de Maldonado determinó correctamente la respuesta correcta.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Explicación de Fenómenos

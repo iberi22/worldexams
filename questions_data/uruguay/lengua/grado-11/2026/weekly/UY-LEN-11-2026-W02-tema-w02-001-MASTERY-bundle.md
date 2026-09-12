@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Lengua: Tema W02 (W02)
 **20 preguntas | Lengua | ANEP - Plan 2006 Reformulación / Programa Ubicación**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Sintaxis y morfología
@@ -46,7 +47,7 @@ bundle_index: 1
 Según Saussure, la lengua es un producto social depositado de manera psíquica y abstracta en el cerebro de los hablantes, diferenciándose del habla que es individual y concreta.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Sintaxis y morfología
@@ -70,7 +71,7 @@ Según Saussure, la lengua es un producto social depositado de manera psíquica 
 El habla es de carácter heterogéneo, psicofísico, individual y concreto, representando el uso que cada individuo hace de la lengua.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Sintaxis y morfología
@@ -94,7 +95,7 @@ El habla es de carácter heterogéneo, psicofísico, individual y concreto, repr
 El lenguaje es una capacidad universal y biológica de los seres humanos para construir sistemas de representación semiótica abstractos.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Sintaxis y morfología
@@ -118,7 +119,7 @@ El lenguaje es una capacidad universal y biológica de los seres humanos para co
 La lengua puede subsistir como sistema abstracto grabado en textos antiguos de manera formal, aun cuando el habla física que la realizaba haya cesado de existir.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Sintaxis y morfología
@@ -142,7 +143,7 @@ La lengua puede subsistir como sistema abstracto grabado en textos antiguos de m
 La interdependencia dialéctica de lengua y habla radica en que la primera es necesaria para que el habla sea comprendida, y la segunda es necesaria para que la lengua se establezca y evolucione.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Sintaxis y morfología
@@ -166,7 +167,7 @@ La interdependencia dialéctica de lengua y habla radica en que la primera es ne
 La lengua provee el inventario y las reglas gramaticales básicas comunes. El habla se encarga de la realización física concreta, lo que incluye variaciones fonéticas, omisión de letras finales y giros expresivos inmediatos.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Sintaxis y morfología
@@ -190,7 +191,7 @@ Desde el punto de vista saussureano de la lengua como sistema social de signos, 
 La relación entre el significante y el significado del signo lingüístico es arbitraria (inmotivada). Es la convención social de una comunidad la que valida y mantiene vigente el significado asignado a cada voz.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Sintaxis y morfología
@@ -214,7 +215,7 @@ La relación entre el significante y el significado del signo lingüístico es a
 Las lenguas estructuran de forma particular los mundos de sus hablantes. Este carácter estructurador demuestra que el léxico de una lengua refleja los hábitos y necesidades conceptuales de su comunidad.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Sintaxis y morfología
@@ -238,7 +239,7 @@ Las lenguas estructuran de forma particular los mundos de sus hablantes. Este ca
 Las lenguas son mutables a lo largo del tiempo (dimensión diacrónica). Los vocablos caen en desuso y surgen neologismos o resignificaciones conceptuales aceptadas por las nuevas generaciones de la comunidad.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Sintaxis y morfología
@@ -262,7 +263,7 @@ Las lenguas son mutables a lo largo del tiempo (dimensión diacrónica). Los voc
 La norma lingüística es el puente entre el sistema abstracto de la lengua y los usos prestigiosos de la sociedad, regulando los textos formales e institucionales para asegurar la cohesión del idioma.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Sintaxis y morfología
@@ -286,7 +287,7 @@ La norma lingüística es el puente entre el sistema abstracto de la lengua y lo
 La hiperregulación infantil revela que el cerebro procesa la lengua como un sistema estructurado de reglas regulares abstractas. Al descubrir la pauta regular, el niño la aplica de forma generalizada hasta asimilar las irregularidades específicas de la norma.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Sintaxis y morfología
@@ -312,7 +313,7 @@ La hiperregulación infantil revela que el cerebro procesa la lengua como un sis
 El habla se manifiesta mediante registros y dialectos. La procedencia geográfica (diatópica) y el grado de confianza o formalidad de la situación comunicativa (diafásica) son factores condicionantes del enunciado.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Sintaxis y morfología
@@ -336,7 +337,7 @@ El habla se manifiesta mediante registros y dialectos. La procedencia geográfic
 Las afasias demuestran que la lengua se asienta en centros neuronales específicos encargados de decodificar y estructurar el sistema abstracto de signos y reglas sintácticas, con total independencia del aparato fonador físico (habla).
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Sintaxis y morfología
@@ -360,7 +361,7 @@ Las afasias demuestran que la lengua se asienta en centros neuronales específic
 Eugenio Coseriu enriqueció el esquema saussureano insertando la 'norma' entre el 'sistema' abstracto y el 'habla' concreta. La norma actúa como la realización tradicional colectiva del sistema, sirviendo de referencia de corrección.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Sintaxis y morfología
@@ -384,7 +385,7 @@ Eugenio Coseriu enriqueció el esquema saussureano insertando la 'norma' entre e
 Escribir requiere dominar la adecuación al registro. La escuela enseña a deslindar la oralidad informal y espontánea (habla coloquial) de las exigencias estructurales y de vocabulario que impone la norma culta escrita.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Sintaxis y morfología
@@ -408,7 +409,7 @@ Escribir requiere dominar la adecuación al registro. La escuela enseña a desli
 La lengua es un sistema de variedades en constante devenir. El español de Uruguay posee sus particularidades dialectales legítimas y prestigiosas (como el voseo), integradas en la norma culta de la región rioplatense.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Sintaxis y morfología
@@ -432,7 +433,7 @@ Desde una perspectiva científica de la lingüística, ¿cuál es el sesgo metod
 La lingüística científica es descriptiva, no prescriptiva. Reconoce que las lenguas cambian históricamente de manera inevitable mediante el uso constante en el plano del habla (mutabilidad saussureana).
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Sintaxis y morfología
@@ -456,7 +457,7 @@ La lingüística científica es descriptiva, no prescriptiva. Reconoce que las l
 Los fenómenos de bilingüismo y de lenguas en contacto revelan que el habla humana es creativa y flexible. Desafían la idea prescriptiva de fronteras lingüísticas cerradas e inmutables.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Sintaxis y morfología
@@ -480,7 +481,7 @@ Los fenómenos de bilingüismo y de lenguas en contacto revelan que el habla hum
 La paradoja se explica mediante las dimensiones sincrónica (estática en un momento dado, donde rige la inmutabilidad de la convención social) y diacrónica (histórica, donde opera la mutabilidad por el desgaste y evolución del uso de los signos en el habla).
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** UY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Sintaxis y morfología

@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Português: Figuras de Linguagem
 **20 perguntas | Português | BNCC Brasil / ENEM 2026**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BR-POR-11-2026-W04-tema-w04-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Estudo do texto literário
@@ -45,7 +46,7 @@ Como é classificada a figura de linguagem que consiste na substituição de um 
 ### Explicacion Pedagogica
 A metonímia é a figura de pensamento que opera por contiguidade: troca-se a parte pelo todo ("muitas cabeças de gado"), o autor pela obra ("li Machado de Assis"), o continente pelo conteúdo ("comer um prato de sopa") ou a marca pelo produto ("comprar gilete").
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BR-POR-11-2026-W04-tema-w04-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Estudo do texto literário
@@ -68,7 +69,7 @@ Qual figura de linguagem consiste no emprego de palavras ou expressões de senti
 ### Explicacion Pedagogica
 A antítese consiste na oposição lógica de palavras ou ideias cujos sentidos se contrastam diretamente, mas sem criar contradição insolúvel, sendo muito comum no Barroco para retratar os conflitos existenciais do ser humano.
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BR-POR-11-2026-W04-tema-w04-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Estudo do texto literário
@@ -91,7 +92,7 @@ Identifique a figura de linguagem presente na exclamação do motorista e sua fi
 ### Explicacion Pedagogica
 A hipérbole é a figura de pensamento caracterizada pelo exagero expressivo deliberado de um fato ou sensação, largamente usada na oralidade e na literatura para dar ênfase teatral e colorida ao discurso afetivo.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BR-POR-11-2026-W04-tema-w04-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Estudo do texto literário
@@ -114,7 +115,7 @@ No slogan do cartaz de verduras, a figura de linguagem empregada e seu efeito de
 ### Explicacion Pedagogica
 A prosopopeia ou personificação ocorre quando conferimos traços, comportamentos ou sentimentos tipicamente humanos (como gritar, sorrir, chorar) a seres irracionais, plantas, forças da natureza ou coisas inanimadas.
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** BR-POR-11-2026-W04-tema-w04-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Estudo do texto literário
@@ -137,7 +138,7 @@ A definição poética do amor construída por Camões apoia-se estruturalmente 
 ### Explicacion Pedagogica
 O paradoxo ou oxímoro aproxima termos contraditórios que, em termos de lógica estrita, excluem-se mutuamente (como "dor que não dói" ou "fogo frio"). Ao contrário da antítese (apenas oposição), o paradoxo desafia a razão ao unificar esses contrários.
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** BR-POR-11-2026-W04-tema-w04-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Estudo do texto literário
@@ -160,7 +161,7 @@ Ao qualificar o substantivo "silêncio" (audição/ausência de som) com os adje
 ### Explicacion Pedagogica
 A sinestesia é o recurso expressivo que consiste em associar e misturar termos que remetem a diferentes esferas sensoriais (olfato, paladar, visão, audição, tato) em um único constructo mental de grande impacto sensorial.
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** BR-POR-11-2026-W04-tema-w04-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Estudo do texto literário
@@ -183,7 +184,7 @@ Machado de Assis utiliza no trecho acima qual recurso estilístico figurado para
 ### Explicacion Pedagogica
 O eufemismo é a figura de pensamento que atenua a aspereza de certas realidades de forte tabu social (como morte, roubo, demissão ou doenças graves), substituindo palavras diretas por termos de conotação mais leve ou poética.
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** BR-POR-11-2026-W04-tema-w04-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Estudo do texto literário
@@ -206,7 +207,7 @@ Como é denominada essa figura de sintaxe ou de construção literária baseada 
 ### Explicacion Pedagogica
 A anáfora é a figura de construção (ou sintaxe) que se caracteriza pela repetição da mesma palavra ou grupo de palavras no início de versos ou frases seguidas, com a finalidade de marcar o ritmo e reforçar o teor lírico ou dramático do texto.
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** BR-POR-11-2026-W04-tema-w04-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Estudo do texto literário
@@ -229,7 +230,7 @@ No trecho da crônica de cliques, as figuras de linguagem que atuam de forma sim
 ### Explicacion Pedagogica
 Crônicas leves e textos humorísticos mesclam metáforas (para qualificar de forma figurada e afetuosa a personagem, como "doce anjo") com hipérboles (para exagerar as ações do dia a dia, gerando efeitos de graça e identificação no leitor).
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** BR-POR-11-2026-W04-tema-w04-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Estudo do texto literário
@@ -253,7 +254,7 @@ Nesses conhecidos versos de Cruz e Sousa, a figura de linguagem fônica que pred
 ### Explicacion Pedagogica
 A aliteração consiste na repetição harmônica e insistente de sons consonantais semelhantes em palavras próximas, gerando musicalidade e reforçando a sugestão de imagens sensoriais (como sussurros no caso do som /v/ de Cruz e Sousa).
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BR-POR-11-2026-W04-tema-w04-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Estudo do texto literário
@@ -276,7 +277,7 @@ A qualificação do filme como "sinfonia de ruídos caóticos e explosões vazia
 ### Explicacion Pedagogica
 A ironia é a figura de pensamento por meio da qual o emissor diz o contrário do que realmente pensa ou quer dar a entender, produzindo efeitos de humor ou crítica sarcástica. Machado de Assis e críticos modernos utilizam metáforas irônicas para enriquecer o estilo analítico do texto.
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BR-POR-11-2026-W04-tema-w04-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Estudo do texto literário
@@ -299,7 +300,7 @@ No parágrafo de opinião acima, as figuras de linguagem que se destacam na cons
 ### Explicacion Pedagogica
 A prosa de denúncia de colunistas de opinião recorre a prosopopeias satíricas e hipérboles dramáticas para comover a comunidade de leitores. Personificar instituições e exagerar as cifras orçamentárias realçam o absurdo da desigualdade social de forma literária e contundente.
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BR-POR-11-2026-W04-tema-w04-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Estudo do texto literário
@@ -323,7 +324,7 @@ Analisando esses provocadores versos barrocos de Gregório de Matos, a figura de
 ### Explicacion Pedagogica
 A poesia satírica barroca de Gregório de Matos explora antíteses religiosas agudas (sagrado contra profano, espírito contra carne) aliadas a trocadilhos de palavras. Esse dualismo reflete as angústias do Barroco colonial baiano.
 
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** BR-POR-11-2026-W04-tema-w04-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Estudo do texto literário
@@ -346,7 +347,7 @@ Sob a análise estética das figuras de pensamento na canção de Chico Buarque,
 ### Explicacion Pedagogica
 Metáforas sinestésicas de grande impacto lírico, como "beber" ou "comer a dor", transpõem sentimentos intangíveis da psique humana para o campo sensorial e corporal da alimentação. Esse recurso enriquece a poesia nacional ao tornar físicas e palpáveis as dores metafóricas do eu lírico.
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** BR-POR-11-2026-W04-tema-w04-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Estudo do texto literário
@@ -369,7 +370,7 @@ A menção à "dose de cinza e silêncio" na poética drummondiana carrega quais
 ### Explicacion Pedagogica
 Drummond constrói uma atmosfera de melancolia existencial fundindo sensações de isolamento (silêncio) e declínio físico-histórico (cinza) em uma metáfora farmacêutica ("dose"). Esse cruzamento estilístico é vital para a lírica drummondiana de questionamento do destino das sociedades em meio às guerras do século XX.
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** BR-POR-11-2026-W04-tema-w04-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Estudo do texto literário
@@ -392,7 +393,7 @@ Analise os recursos figurados orquestrados no slogan comercial do fabricante pau
 ### Explicacion Pedagogica
 Slógans comerciais modernos de chocolate paulista de alta qualidade utilizam metáforas térmicas sinestésicas ("derreter" tensões da mente e "incendiar" o sorriso de calor humano de alegria) para gerar forte sintonia afetiva imediata com o consumidor receptor no contexto urbano paulistano.
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BR-POR-11-2026-W04-tema-w04-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Estudo do texto literário
@@ -415,7 +416,7 @@ Sob a análise estética do uso das figuras de linguagem nos dois movimentos lit
 ### Explicacion Pedagogica
 A escolha estilística de quais figuras de linguagem priorizar define o perfil estético e filosófico de cada movimento poético histórico. Enquanto parnasianos buscam a perfeição plástica denotativa de vasos gregos com metonímias formais objetivas, os simbolistas expandem os limites da alma através de sinestesias abstratas misteriosas e jogos fônicos de aliteração musical de violões do Sul.
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BR-POR-11-2026-W04-tema-w04-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Estudo do texto literário
@@ -439,7 +440,7 @@ Sob a análise sociolinguística da adequação e da estilística do português 
 ### Explicacion Pedagogica
 Enquanto a gramática normativa escolar proíbe o "pleonasmo vicioso" na modalidade escrita formal para evitar poluição visual de palavras repetitivas e redundâncias lógicas sem mérito estético, a linguística compreende que na oralidade espontânea de reality shows de televisão esse recurso serve de reforço denotativo direcional pragmático imediato, facilitando a recepção ágil de comandos espaciais sob pressões de conversação informal no cotidiano das grandes cidades brasileiras de hoje.
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** BR-POR-11-2026-W04-tema-w04-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Estudo do texto literário
@@ -463,7 +464,7 @@ Considerando essa inovação radical das vanguardas paulistas do século XX, ava
 ### Explicacion Pedagogica
 As figuras de construção ou sintaxe clássicas (como anáfora, hipérbato, assíndeto, polissíndeto e elipse) foram radicalizadas pelas vanguardas artísticas do Concretismo de São Paulo. Ao romper com a estrutura linear gramatical tradicional e organizar os termos geometricamente na página branca, os concretistas transformaram a própria tipografia física de letras em signos poéticos visuais, demandando um leitor participativo que co-cria a obra de arte a partir das relações físicas espaciais de tela.
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** BR-POR-11-2026-W04-tema-w04-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Estudo do texto literário

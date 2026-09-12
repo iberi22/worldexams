@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Matemáticas: Tema W09 (W09)
 **20 preguntas | Grado 11 (6to de Secundaria) | MINEDU - Ley Educativa Avelino Siñani - Elizardo Pérez**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -42,7 +43,7 @@ bundle_index: 1
 La representación explícita de cualquier función afín en el plano cartesiano es f(x) = mx + n, donde m es la pendiente y n es la ordenada en el origen.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -62,7 +63,7 @@ Si una recta afín tiene pendiente m = -3, ¿cómo es su comportamiento gráfico
 El signo de la pendiente m indica el comportamiento del crecimiento de la función. Si m < 0, la función afín es estrictamente decreciente en todo su dominio real.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -82,7 +83,7 @@ El signo de la pendiente m indica el comportamiento del crecimiento de la funci�
 La intersección de una función con el eje y se calcula haciendo x = 0. f(0) = 2(0) - 7 = -7. Por tanto, el punto es (0, -7).
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -102,7 +103,7 @@ Un taxi en El Alto cobra según la función afín de costo de transporte: C(x) =
 Se sustituye x = 5 en la función afín de costo: C(5) = 4*(5) + 8 = 20 + 8 = 28 BOB (Bs).
 
 ---
-## Question 5 [D4]
+## Question 5 [D3-D4]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v5
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -122,7 +123,7 @@ Un taxi en Sucre cobra según la función afín de costo de transporte: C(x) = 5
 Se sustituye x = 5 en la función afín de costo: C(5) = 5*(5) + 10 = 25 + 10 = 35 BOB (Bs).
 
 ---
-## Question 6 [D4]
+## Question 6 [D3-D4]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -142,7 +143,7 @@ Un taxi en Tarija cobra según la función afín de costo de transporte: C(x) = 
 Se sustituye x = 5 en la función afín de costo: C(5) = 6*(5) + 12 = 30 + 12 = 42 BOB (Bs).
 
 ---
-## Question 7 [D4]
+## Question 7 [D3-D4]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -162,7 +163,7 @@ Un taxi en Oruro cobra según la función afín de costo de transporte: C(x) = 7
 Se sustituye x = 5 en la función afín de costo: C(5) = 7*(5) + 14 = 35 + 14 = 49 BOB (Bs).
 
 ---
-## Question 8 [D4]
+## Question 8 [D3-D4]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -182,7 +183,7 @@ Un taxi en Potosí cobra según la función afín de costo de transporte: C(x) =
 Se sustituye x = 5 en la función afín de costo: C(5) = 8*(5) + 16 = 40 + 16 = 56 BOB (Bs).
 
 ---
-## Question 9 [D4]
+## Question 9 [D3-D4]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v9
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -202,7 +203,7 @@ Un taxi en Cobija cobra según la función afín de costo de transporte: C(x) = 
 Se sustituye x = 5 en la función afín de costo: C(5) = 9*(5) + 18 = 45 + 18 = 63 BOB (Bs).
 
 ---
-## Question 10 [D4]
+## Question 10 [D3-D4]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -222,7 +223,7 @@ Un taxi en Trinidad cobra según la función afín de costo de transporte: C(x) 
 Se sustituye x = 5 en la función afín de costo: C(5) = 10*(5) + 20 = 50 + 20 = 70 BOB (Bs).
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -242,7 +243,7 @@ Un taxi en La Paz cobra según la función afín de costo de transporte: C(x) = 
 Se sustituye x = 5 en la función afín de costo: C(5) = 11*(5) + 22 = 55 + 22 = 77 BOB (Bs).
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -262,7 +263,7 @@ Un taxi en Santa Cruz cobra según la función afín de costo de transporte: C(x
 Se sustituye x = 5 en la función afín de costo: C(5) = 12*(5) + 24 = 60 + 24 = 84 BOB (Bs).
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -282,7 +283,7 @@ Un taxi en Cochabamba cobra según la función afín de costo de transporte: C(x
 Se sustituye x = 5 en la función afín de costo: C(5) = 13*(5) + 26 = 65 + 26 = 91 BOB (Bs).
 
 ---
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v14
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -302,7 +303,7 @@ Un taxi en El Alto cobra según la función afín de costo de transporte: C(x) =
 Se sustituye x = 5 en la función afín de costo: C(5) = 14*(5) + 28 = 70 + 28 = 98 BOB (Bs).
 
 ---
-## Question 15 [D7]
+## Question 15 [D7-D8]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -322,7 +323,7 @@ Un taxi en Sucre cobra según la función afín de costo de transporte: C(x) = 1
 Se sustituye x = 5 en la función afín de costo: C(5) = 15*(5) + 30 = 75 + 30 = 105 BOB (Bs).
 
 ---
-## Question 16 [D7]
+## Question 16 [D7-D8]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v16
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -342,7 +343,7 @@ Un taxi en Tarija cobra según la función afín de costo de transporte: C(x) = 
 Se sustituye x = 5 en la función afín de costo: C(5) = 16*(5) + 32 = 80 + 32 = 112 BOB (Bs).
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v17
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -362,7 +363,7 @@ Un taxi en Oruro cobra según la función afín de costo de transporte: C(x) = 1
 Se sustituye x = 5 en la función afín de costo: C(5) = 17*(5) + 34 = 85 + 34 = 119 BOB (Bs).
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v18
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -382,7 +383,7 @@ Un taxi en Potosí cobra según la función afín de costo de transporte: C(x) =
 Se sustituye x = 5 en la función afín de costo: C(5) = 18*(5) + 36 = 90 + 36 = 126 BOB (Bs).
 
 ---
-## Question 19 [D9]
+## Question 19 [D9-D10]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v19
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos
@@ -402,7 +403,7 @@ Un taxi en Cobija cobra según la función afín de costo de transporte: C(x) = 
 Se sustituye x = 5 en la función afín de costo: C(5) = 19*(5) + 38 = 95 + 38 = 133 BOB (Bs).
 
 ---
-## Question 20 [D9]
+## Question 20 [D9-D10]
 **ID:** BO-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v20
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional y Sistemas Algebraicos y Analíticos

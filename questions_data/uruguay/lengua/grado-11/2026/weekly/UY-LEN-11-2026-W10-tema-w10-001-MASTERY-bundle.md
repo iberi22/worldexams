@@ -16,13 +16,14 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
+calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ---
 
 # MASTERY Bundle - Lengua: Tema W10 (W10)
 **20 preguntas | Lengua | ANEP - Plan 2006 Reformulación / Programa Ubicación**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Comprensión de textos
@@ -46,7 +47,7 @@ bundle_index: 1
 La tesis del columnista figura explícita y se asocia de forma crítica a la desaprobación del desarrollo inmobiliario costero.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Comprensión de textos
@@ -70,7 +71,7 @@ La tesis del columnista figura explícita y se asocia de forma crítica a la des
 El análisis de la validez de las fuentes descansa sobre la detección de conflictos de intereses económicos de los redactores.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Comprensión de textos
@@ -94,7 +95,7 @@ El análisis de la validez de las fuentes descansa sobre la detección de confli
 El rol ecológico de las dunas figura explícito y sustenta el argumento de causa-efecto del columnista frente al desgaste costero.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Comprensión de textos
@@ -118,7 +119,7 @@ El rol ecológico de las dunas figura explícito y sustenta el argumento de caus
 La intencionalidad persuasiva de la constructora se enuncia de forma literal en la última oración de la columna de opinión.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Comprensión de textos
@@ -142,7 +143,7 @@ La intencionalidad persuasiva de la constructora se enuncia de forma literal en 
 La detección de las contradicciones de verosimilitud de la publicidad es un pilar del nivel de lectura crítico-valorativo de Secundaria.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Comprensión de textos
@@ -166,7 +167,7 @@ La detección de las contradicciones de verosimilitud de la publicidad es un pil
 La publicidad asocia un objeto industrial material con deseos abstractos del receptor para forzar el deseo de compra.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -190,7 +191,7 @@ La publicidad asocia un objeto industrial material con deseos abstractos del rec
 El voseo imperativo es de gran utilidad pragmática en la publicidad. El mandato conativo agudo connota liderazgo, forzando la asimilación del eslogan.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -214,7 +215,7 @@ El voseo imperativo es de gran utilidad pragmática en la publicidad. El mandato
 La asimilación de un texto exige desentrañar los sesgos. El léxico y el tono de combate revelan la intencionalidad argumentativa ecologista frente al informe de la constructora.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -238,7 +239,7 @@ La asimilación de un texto exige desentrañar los sesgos. El léxico y el tono 
 El desmantelamiento del falso dilema es de gran valor en la lectura crítica de Secundaria. Revelar la falsedad de la bifurcación extrema despoja de legitimidad al congelamiento presupuestario.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -262,7 +263,7 @@ El desmantelamiento del falso dilema es de gran valor en la lectura crítica de 
 La asimilación del texto exige desentrañar las metáforas. La 'hipoteca del cerebro de los gurises' connota que el desfinanciamiento educativo de Secundaria frena el progreso científico y soberanía material del país.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -286,7 +287,7 @@ Analizá de manera crítica-valorativa la procedencia de las fuentes en el confl
 El análisis crítico-valorativo exige desvelar los conflictos de intereses de las fuentes de información. Revelar que los peritos de playas de Cabo Polonio cobran sueldos de la empresa constructora interesada despoja de validez científica a sus conclusiones.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -310,7 +311,7 @@ De acuerdo con el análisis de la pieza del anuncio publicitario del auto todote
 La deconstrucción crítica del discurso publicitario desvela la contradicción entre el simulacro estético (la rambla montevideana vacía de ensueño) y la realidad fáctica (congestión vial, polución, ruido), desarmando la ilusión de libertad individual del auto.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Comprensión de textos
@@ -334,7 +335,7 @@ Analizá críticamente el fragmento de la editorial presupuestaria. ¿Cómo desa
 El análisis crítico-valorativo desenmascara los eufemismos políticos ('sobriedad fiscal'). Traducir la 'austeridad patriótica' en 'hipoteca del futuro industrial' del país de Secundaria dota de gran solidez conceptual al editorial.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Comprensión de textos
@@ -358,7 +359,7 @@ El análisis crítico-valorativo desenmascara los eufemismos políticos ('sobrie
 La asimilación de la lectura exige dominar el análisis deconstructivo. Desentrañar las intencionalidades cruzadas y los sesgos del texto de prensa dota de gran lucidez al pensamiento crítico, desarmando la manipulación.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Comprensión de textos
@@ -383,7 +384,7 @@ Analizá críticamente el comunicado corporativo de Tacuarembó. ¿Qué debilida
 El análisis de las fuentes corporativas desmantela el simulacro de sustentabilidad. Develar que el revisor ecológico es la gerencia mercantil interesada despoja de validez a sus conclusiones.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Comprensión de textos
@@ -408,7 +409,7 @@ El análisis de las fuentes corporativas desmantela el simulacro de sustentabili
 La asimilación de un discurso exige desentrañar las falacias ad populum. Confrontar el discurso municipal con datos de colisiones reales desmantela el simulacro político.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Comprensión de textos
@@ -432,7 +433,7 @@ Evaluá críticamente la estructura argumentativa de la editorial de prensa de M
 La lectura de Secundaria exige el desmantelamiento de los falsos dilemas. Revelar la falsedad de la bifurcación extrema despoja de legitimidad al congelamiento presupuestario de la educación.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Comprensión de textos
@@ -456,7 +457,7 @@ Evaluá críticamente el debate de Cabo Polonio de Rocha. ¿De qué manera la de
 La asimilación de la lectura de Secundaria exige el desmantelamiento de los conflictos de intereses. Develar que el revisor ecológico es la gerencia mercantil interesada despoja de validez a sus conclusiones.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Comprensión de textos
@@ -480,7 +481,7 @@ La asimilación de la lectura de Secundaria exige el desmantelamiento de los con
 La asimilación de la lectura de Secundaria exige el desmantelamiento de los sesgos de prensa. Desentrañar los dobles sentidos, las ironías de la prensa y los sesgos publicitarios dota de gran lucidez al pensamiento crítico, desarmando la manipulación de la sociedad de consumo.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** UY-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Comprensión de textos
