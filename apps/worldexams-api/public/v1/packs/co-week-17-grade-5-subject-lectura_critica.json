@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-17-grade-5-subject-lectura_critica",
+    "generated_at": "2026-09-12T15:41:45.205Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-5-2026-W17-refranes-dichos-colombianos-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es un refrán?",
+      "context": "En una reunión familiar en Cali, la abuela dice un refrán para aconsejar a sus nietos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un dicho popular breve que transmite una enseñanza o un consejo.",
+          "is_correct": true,
+          "feedback": "Los refranes son expresiones populares cortas con una enseñanza."
+        },
+        {
+          "letter": "B",
+          "text": "Un texto largo que narra una historia fantástica.",
+          "is_correct": false,
+          "feedback": "Los refranes son breves y no narran historias extensas."
+        },
+        {
+          "letter": "C",
+          "text": "Una lista de números para resolver problemas.",
+          "is_correct": false,
+          "feedback": "Los refranes son expresiones populares, no datos numéricos."
+        },
+        {
+          "letter": "D",
+          "text": "Una canción que se canta para dormir a los bebés.",
+          "is_correct": false,
+          "feedback": "Un refrán no es una canción de cuna."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Recordar el concepto de refrán como dicho popular con una enseñanza.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-5-2026-W17-refranes-dichos-colombianos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W17-refranes-dichos-colombianos-001-MASTERY-bundle-v2",
+      "statement": "¿Qué quiere enseñar el refrán \"Al que madruga Dios le ayuda\"?",
+      "context": "La mamá de Sebastián, en Bogotá, le dice cada mañana: \"Al que madruga Dios le ayuda\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que ser puntual y esforzarse desde temprano trae buenos resultados.",
+          "is_correct": true,
+          "feedback": "El refrán valora el esfuerzo y la puntualidad desde la mañana."
+        },
+        {
+          "letter": "B",
+          "text": "Que solo las personas adultas reciben ayuda.",
+          "is_correct": false,
+          "feedback": "El refrán no habla de la edad de las personas."
+        },
+        {
+          "letter": "C",
+          "text": "Que es mejor quedarse durmiendo sin esforzarse.",
+          "is_correct": false,
+          "feedback": "El refrán valora el esfuerzo, no la pereza."
+        },
+        {
+          "letter": "D",
+          "text": "Que madrugar garantiza hacerse rico de inmediato.",
+          "is_correct": false,
+          "feedback": "El refrán no promete riqueza inmediata; valora el esfuerzo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender el significado figurado del refrán sobre el esfuerzo y la puntualidad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-5-2026-W17-refranes-dichos-colombianos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W17-refranes-dichos-colombianos-001-MASTERY-bundle-v3",
+      "statement": "¿Qué le están advirtiendo los compañeros al estudiante?",
+      "context": "En un colegio de Barranquilla, un estudiante deja de estudiar y sus compañeros le dicen: \"Camarón que se duerme se lo lleva la corriente\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que si se descuida, puede quedarse atrás o perder oportunidades.",
+          "is_correct": true,
+          "feedback": "El refrán advierte sobre las consecuencias del descuido."
+        },
+        {
+          "letter": "B",
+          "text": "Que debe ir a nadar al río con más frecuencia.",
+          "is_correct": false,
+          "feedback": "El refrán no es una invitación a nadar; usa una imagen para aconsejar."
+        },
+        {
+          "letter": "C",
+          "text": "Que los camarones son su comida favorita.",
+          "is_correct": false,
+          "feedback": "El refrán no habla de comida, sino de las consecuencias de dormirse."
+        },
+        {
+          "letter": "D",
+          "text": "Que debe dormir más horas cada noche.",
+          "is_correct": false,
+          "feedback": "El refrán aconseja estar atento, no dormir más."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el refrán en un contexto escolar para interpretar la advertencia sobre el descuido.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-5-2026-W17-refranes-dichos-colombianos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W17-refranes-dichos-colombianos-001-MASTERY-bundle-v4",
+      "statement": "¿Qué refrán expresa mejor la decisión de la niña?",
+      "context": "Una niña de Medellín tiene un juguete seguro y prefiere no cambiarlo por una promesa incierta de algo mejor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Más vale pájaro en mano que cien volando\".",
+          "is_correct": true,
+          "feedback": "Este refrán enseña a valorar lo seguro en lugar de lo incierto."
+        },
+        {
+          "letter": "B",
+          "text": "\"Camarón que se duerme se lo lleva la corriente\".",
+          "is_correct": false,
+          "feedback": "Este refrán habla de las consecuencias del descuido, no de valorar lo seguro."
+        },
+        {
+          "letter": "C",
+          "text": "\"De tal palo, tal astilla\".",
+          "is_correct": false,
+          "feedback": "Este refrán habla de parecerse a los padres, no de valorar lo que se tiene."
+        },
+        {
+          "letter": "D",
+          "text": "\"Al que madruga Dios le ayuda\".",
+          "is_correct": false,
+          "feedback": "Este refrán habla del esfuerzo temprano, no de conformarse con lo seguro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el refrán adecuado a una situación en la que se valora lo seguro sobre lo incierto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LC-5-2026-W17-refranes-dichos-colombianos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W17-refranes-dichos-colombianos-001-MASTERY-bundle-v5",
+      "statement": "¿Qué refrán le recomienda agradecer el regalo sin fijarse en los detalles?",
+      "context": "A Valentina, en Cartagena, le regalan un cuaderno y su amiga le dice que la tapa está un poco rayada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"A caballo regalado no se le mira el colmillo\".",
+          "is_correct": true,
+          "feedback": "Este refrán enseña a aceptar con agradecimiento lo que se recibe."
+        },
+        {
+          "letter": "B",
+          "text": "\"Más vale pájaro en mano que cien volando\".",
+          "is_correct": false,
+          "feedback": "Este refrán habla de valorar lo seguro, no de aceptar regalos."
+        },
+        {
+          "letter": "C",
+          "text": "\"Camarón que se duerme se lo lleva la corriente\".",
+          "is_correct": false,
+          "feedback": "Este refrán habla del descuido, no de los regalos."
+        },
+        {
+          "letter": "D",
+          "text": "\"Al que madruga Dios le ayuda\".",
+          "is_correct": false,
+          "feedback": "Este refrán habla del esfuerzo temprano, no de los regalos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el refrán adecuado para valorar y agradecer un regalo recibido.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-5-2026-W17-refranes-dichos-colombianos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W17-refranes-dichos-colombianos-001-MASTERY-bundle-v6",
+      "statement": "Este refrán no habla de brazos ni de abrazar. ¿Qué analiza correctamente su significado?",
+      "context": "La profesora de Bucaramanga analiza con sus estudiantes el refrán \"El que mucho abarca poco aprieta\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Significa que quien intenta hacer muchas cosas a la vez no hace bien ninguna.",
+          "is_correct": true,
+          "feedback": "Es un significado figurado: se refiere a las tareas, no a un abrazo real."
+        },
+        {
+          "letter": "B",
+          "text": "Significa que hay que abrazar a las personas con cuidado.",
+          "is_correct": false,
+          "feedback": "Es una interpretación literal; el refrán se usa en sentido figurado."
+        },
+        {
+          "letter": "C",
+          "text": "Significa que las cosas se aprietan con las manos.",
+          "is_correct": false,
+          "feedback": "No se refiere a apretar objetos, sino a abarcar demasiadas tareas."
+        },
+        {
+          "letter": "D",
+          "text": "Significa que es mejor tener los brazos cortos.",
+          "is_correct": false,
+          "feedback": "El refrán no habla del tamaño de los brazos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar el significado figurado de un refrán y distinguirlo de su interpretación literal.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LC-5-2026-W17-refranes-dichos-colombianos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W17-refranes-dichos-colombianos-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la intención de la profesora al usar este refrán?",
+      "context": "Una profesora de Cali usa el refrán \"No dejes para mañana lo que puedes hacer hoy\" cuando un estudiante aplaza sus tareas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aconsejar al estudiante para que no aplace sus responsabilidades.",
+          "is_correct": true,
+          "feedback": "El refrán busca corregir la costumbre de aplazar las tareas."
+        },
+        {
+          "letter": "B",
+          "text": "Contar una historia divertida sobre el día de mañana.",
+          "is_correct": false,
+          "feedback": "El refrán no narra una historia, expresa un consejo."
+        },
+        {
+          "letter": "C",
+          "text": "Informar sobre el clima del día siguiente.",
+          "is_correct": false,
+          "feedback": "El refrán no informa sobre el clima."
+        },
+        {
+          "letter": "D",
+          "text": "Ordenar al estudiante que no vaya a la escuela mañana.",
+          "is_correct": false,
+          "feedback": "La intención es que haga sus tareas, no que falte a la escuela."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la intención comunicativa de un refrán en una situación escolar.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.57,
+      "bundle_id": "CO-LC-5-2026-W17-refranes-dichos-colombianos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W17-refranes-dichos-colombianos-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué es útil conocer el significado de los refranes para comprender las conversaciones cotidianas?",
+      "context": "Un grupo de estudiantes de Santa Marta conversa sobre la importancia de los refranes en las conversaciones cotidianas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los refranes transmiten consejos y valores que ayudan a interpretar lo que otros quieren decir.",
+          "is_correct": true,
+          "feedback": "Conocer los refranes permite entender mensajes que se expresan en sentido figurado."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los refranes son la única forma de comunicarse en Colombia.",
+          "is_correct": false,
+          "feedback": "Los refranes son una forma de expresión, pero no la única."
+        },
+        {
+          "letter": "C",
+          "text": "Porque sin refranes no se puede leer ningún texto.",
+          "is_correct": false,
+          "feedback": "Se puede leer sin refranes; estos solo enriquecen el lenguaje."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los refranes solo se usan en los exámenes de matemáticas.",
+          "is_correct": false,
+          "feedback": "Los refranes pertenecen al lenguaje, no a las matemáticas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la utilidad de comprender los refranes para interpretar conversaciones cotidianas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.52,
+      "bundle_id": "CO-LC-5-2026-W17-refranes-dichos-colombianos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

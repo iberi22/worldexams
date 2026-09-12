@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-12-grade-5-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T15:41:45.188Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-5-2026-W12-los-sentidos-cuerpo-humano-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la relación correcta entre cada sentido y su órgano principal?",
+      "context": "En una clase de ciencias en Tunja, la profesora muestra láminas con los ojos, los oídos, la nariz, la lengua y la piel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vista-ojos, oído-oídos, olfato-nariz, gusto-lengua y tacto-piel.",
+          "is_correct": true,
+          "feedback": "Cada sentido se capta con un órgano especializado: los ojos ven, los oídos escuchan, la nariz huele, la lengua saborea y la piel siente."
+        },
+        {
+          "letter": "B",
+          "text": "Vista-nariz, oído-lengua, olfato-ojos, gusto-piel y tacto-oídos.",
+          "is_correct": false,
+          "feedback": "Esa correspondencia está cambiada; la nariz se relaciona con el olfato, no con la vista."
+        },
+        {
+          "letter": "C",
+          "text": "Todos los sentidos se captan únicamente con el cerebro, sin órganos específicos.",
+          "is_correct": false,
+          "feedback": "El cerebro interpreta la información, pero cada sentido necesita su órgano para captarla."
+        },
+        {
+          "letter": "D",
+          "text": "Vista-lengua, oído-piel, olfato-oídos, gusto-nariz y tacto-ojos.",
+          "is_correct": false,
+          "feedback": "Esa combinación no corresponde: la lengua se relaciona con el gusto, no con la vista."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Recordar la correspondencia entre los cinco sentidos y sus órganos principales.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Indagación",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-5-2026-W12-los-sentidos-cuerpo-humano-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W12-los-sentidos-cuerpo-humano-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué Valentina puede identificar esos olores?",
+      "context": "Valentina pasea por el mercado de Bazurto en Cartagena y percibe el olor del pescado fresco y el aroma del coco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la nariz capta las partículas olorosas del aire y envía la información al cerebro.",
+          "is_correct": true,
+          "feedback": "La nariz recibe los olores y el cerebro los interpreta para reconocer de qué se trata."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los ojos observan los alimentos y producen los olores.",
+          "is_correct": false,
+          "feedback": "Los ojos sirven para ver, no para producir ni captar olores."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la lengua toca los alimentos a distancia.",
+          "is_correct": false,
+          "feedback": "La lengua solo percibe sabores al contacto directo, no olores a distancia."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la piel escucha los sonidos del mercado.",
+          "is_correct": false,
+          "feedback": "La piel percibe el tacto y la temperatura, no los sonidos ni los olores."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender que el olfato capta olores a través de la nariz y el cerebro los interpreta.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-5-2026-W12-los-sentidos-cuerpo-humano-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W12-los-sentidos-cuerpo-humano-001-MASTERY-bundle-v3",
+      "statement": "¿Qué recomendación debe aplicar Santiago para cuidar su visión?",
+      "context": "Santiago, en Pasto, suele leer cuentos en su cuarto con muy poca luz y acerca mucho el cuaderno a sus ojos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Leer con buena iluminación y mantener una distancia adecuada entre los ojos y el libro.",
+          "is_correct": true,
+          "feedback": "La luz suficiente y la distancia correcta evitan el cansancio y el daño en la visión."
+        },
+        {
+          "letter": "B",
+          "text": "Leer siempre a oscuras para que los ojos se acostumbren a la falta de luz.",
+          "is_correct": false,
+          "feedback": "Leer sin luz suficiente fuerza la vista y puede dañarla con el tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "Frotarse los ojos con las manos sucias cuando siente cansancio.",
+          "is_correct": false,
+          "feedback": "Frotarse con manos sucias puede causar infecciones en los ojos."
+        },
+        {
+          "letter": "D",
+          "text": "Mirar directamente al sol para fortalecer la vista.",
+          "is_correct": false,
+          "feedback": "Mirar el sol directamente daña gravemente los ojos y se debe evitar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar hábitos de cuidado de la vista como la buena iluminación y la distancia adecuada al leer.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-5-2026-W12-los-sentidos-cuerpo-humano-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W12-los-sentidos-cuerpo-humano-001-MASTERY-bundle-v4",
+      "statement": "¿Qué acción protege mejor el oído de Santiago en esa situación?",
+      "context": "En una fiesta en Cartagena, Santiago escucha música a un volumen muy alto y se acerca a los parlantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alejarse de los parlantes y bajar el volumen para no lastimar sus oídos.",
+          "is_correct": true,
+          "feedback": "Alejarse del sonido fuerte y moderar el volumen protege el oído interno."
+        },
+        {
+          "letter": "B",
+          "text": "Introducir un lápiz en el oído para limpiarlo durante la fiesta.",
+          "is_correct": false,
+          "feedback": "Introducir objetos en el oído puede herirlo y causar sordera."
+        },
+        {
+          "letter": "C",
+          "text": "Subir aún más el volumen para acostumbrar el oído al ruido.",
+          "is_correct": false,
+          "feedback": "El ruido muy fuerte no acostumbra al oído, sino que lo daña poco a poco."
+        },
+        {
+          "letter": "D",
+          "text": "Mojarse los oídos con agua fría para escuchar mejor.",
+          "is_correct": false,
+          "feedback": "Mojar los oídos no mejora la audición y puede causar infecciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar medidas de cuidado del oído frente a sonidos fuertes y objetos extraños.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-5-2026-W12-los-sentidos-cuerpo-humano-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W12-los-sentidos-cuerpo-humano-001-MASTERY-bundle-v5",
+      "statement": "¿Qué sentidos está usando Valentina para examinar la panela?",
+      "context": "Valentina, en Tunja, compra en la tienda una panela por 3000 COP. Toca su textura rugosa, huele su aroma dulce y prueba un pedacito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tacto, olfato y gusto, porque toca, huele y saborea la panela.",
+          "is_correct": true,
+          "feedback": "La textura se percibe con la piel, el aroma con la nariz y el sabor con la lengua."
+        },
+        {
+          "letter": "B",
+          "text": "Vista, oído y olfato, porque mira, escucha y huele sin tocar ni probar.",
+          "is_correct": false,
+          "feedback": "En este caso Valentina también toca y prueba, no solo mira y escucha."
+        },
+        {
+          "letter": "C",
+          "text": "Solo la vista, porque los alimentos únicamente se examinan con los ojos.",
+          "is_correct": false,
+          "feedback": "Los alimentos también se examinan con el tacto, el olfato y el gusto."
+        },
+        {
+          "letter": "D",
+          "text": "Solo el oído, porque el sonido de la panela indica su calidad.",
+          "is_correct": false,
+          "feedback": "El oído no permite reconocer la textura, el aroma ni el sabor de la panela."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el uso combinado de varios sentidos para examinar un alimento cotidiano.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CN-5-2026-W12-los-sentidos-cuerpo-humano-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W12-los-sentidos-cuerpo-humano-001-MASTERY-bundle-v6",
+      "statement": "¿Qué papel cumple el cerebro en estas dos experiencias?",
+      "context": "Compara: \"Valentina toca una ruana suave en Pasto. Santiago prueba un jugo de lulo muy ácido en Tunja. En ambos casos, la información viaja por los nervios hasta el cerebro.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recibe la información de los sentidos a través de los nervios y la interpreta para reconocer la suavidad y la acidez.",
+          "is_correct": true,
+          "feedback": "Los órganos captan el estímulo, pero es el cerebro el que lo interpreta y le da significado."
+        },
+        {
+          "letter": "B",
+          "text": "Reemplaza a los órganos de los sentidos y capta directamente la suavidad y el sabor.",
+          "is_correct": false,
+          "feedback": "El cerebro no capta estímulos directamente; necesita la información que envían los órganos."
+        },
+        {
+          "letter": "C",
+          "text": "Solo guarda la información sin interpretarla, por eso no se reconoce lo sentido.",
+          "is_correct": false,
+          "feedback": "El cerebro sí interpreta la información, por eso se reconoce la textura y el sabor."
+        },
+        {
+          "letter": "D",
+          "text": "Bloquea la información de la piel y la lengua para proteger el cuerpo.",
+          "is_correct": false,
+          "feedback": "El cerebro no bloquea esa información; la procesa para responder de forma adecuada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la relación entre los órganos de los sentidos, los nervios y el cerebro en la interpretación del entorno.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CN-5-2026-W12-los-sentidos-cuerpo-humano-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W12-los-sentidos-cuerpo-humano-001-MASTERY-bundle-v7",
+      "statement": "¿Qué conclusión se puede sacar de estas dos situaciones?",
+      "context": "Lee: \"En un salón de clases en Pasto, un niño con gripa no huele el eucalipto y dice que la aromática también sabe a agua simple. Otro niño, con los ojos vendados, confunde una papa con una manzana al solo tocarla.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los sentidos trabajan juntos y cuando uno falla, la interpretación del cerebro es menos precisa.",
+          "is_correct": true,
+          "feedback": "El gusto se apoya en el olfato y el tacto necesita de la vista; si falta un sentido, el cerebro recibe menos información."
+        },
+        {
+          "letter": "B",
+          "text": "Cada sentido funciona totalmente aislado y nunca necesita de los otros.",
+          "is_correct": false,
+          "feedback": "Los ejemplos muestran que el gusto necesita del olfato y el tacto de la vista."
+        },
+        {
+          "letter": "C",
+          "text": "La gripa mejora el olfato y vendar los ojos mejora el tacto de forma permanente.",
+          "is_correct": false,
+          "feedback": "La gripa reduce el olfato y vendar los ojos dificulta reconocer objetos solo con el tacto."
+        },
+        {
+          "letter": "D",
+          "text": "El cerebro no participa en el olfato, el gusto ni el tacto.",
+          "is_correct": false,
+          "feedback": "El cerebro participa en todos los sentidos al interpretar la información recibida."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar cómo los sentidos se complementan y cómo la falta de uno afecta la interpretación del cerebro.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.52,
+      "bundle_id": "CO-CN-5-2026-W12-los-sentidos-cuerpo-humano-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W12-los-sentidos-cuerpo-humano-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué esta campaña es la mejor propuesta para cuidar los sentidos?",
+      "context": "Lee: \"El colegio de Valentina en Cartagena propone una campaña de cuidado de los sentidos: pausas sin pantallas para descansar la vista, control del volumen en audífonos, lavado de manos antes de tocarse los ojos y consumo de frutas reconociendo sabores y olores.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque combina hábitos que protegen la vista y el oído y a la vez entrena el gusto, el olfato y el tacto de forma saludable.",
+          "is_correct": true,
+          "feedback": "La propuesta cuida los órganos delicados y promueve el uso consciente de todos los sentidos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque prohíbe usar los sentidos para que no se desgasten con el tiempo.",
+          "is_correct": false,
+          "feedback": "Los sentidos no se cuidan dejándolos de usar, sino usándolos con hábitos saludables."
+        },
+        {
+          "letter": "C",
+          "text": "Porque solo cuida la vista y no tiene en cuenta los demás sentidos.",
+          "is_correct": false,
+          "feedback": "La campaña también cuida el oído, el gusto, el olfato y el tacto, no solo la vista."
+        },
+        {
+          "letter": "D",
+          "text": "Porque recomienda mirar pantallas de cerca y subir el volumen al máximo.",
+          "is_correct": false,
+          "feedback": "Esas prácticas dañan la vista y el oído, por eso la campaña propone lo contrario."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar una propuesta integral que protege los órganos de los sentidos y favorece su buen uso.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.4,
+      "bundle_id": "CO-CN-5-2026-W12-los-sentidos-cuerpo-humano-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

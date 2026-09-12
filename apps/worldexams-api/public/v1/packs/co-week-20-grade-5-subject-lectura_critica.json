@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-20-grade-5-subject-lectura_critica",
+    "generated_at": "2026-09-12T15:41:45.206Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-5-2026-W20-resena-libro-infantil-001-MASTERY-bundle-v1",
+      "statement": "¿Qué partes suele tener una reseña de un libro?",
+      "context": "En la biblioteca escolar de Cali, un estudiante lee la reseña de un libro infantil antes de elegirlo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Datos del libro, resumen breve, opinión con razones y recomendación.",
+          "is_correct": true,
+          "feedback": "Estos elementos permiten informar y orientar al posible lector."
+        },
+        {
+          "letter": "B",
+          "text": "Solo el precio y el color de la portada.",
+          "is_correct": false,
+          "feedback": "El precio y el color no describen el contenido ni la opinión sobre el libro."
+        },
+        {
+          "letter": "C",
+          "text": "Una lista de palabras sin orden ni sentido.",
+          "is_correct": false,
+          "feedback": "Una reseña organiza ideas claras, no palabras sueltas sin conexión."
+        },
+        {
+          "letter": "D",
+          "text": "Únicamente el nombre del autor sin comentarios.",
+          "is_correct": false,
+          "feedback": "El nombre del autor es un dato, pero no constituye toda una reseña."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer las partes que componen la reseña de un libro infantil.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-5-2026-W20-resena-libro-infantil-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W20-resena-libro-infantil-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el propósito principal de una reseña de un libro?",
+      "context": "Lee: \"Una reseña es un texto breve que describe una obra y expresa una opinión sobre ella para ayudar a otros lectores a decidir si la leen.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informar sobre el libro y recomendar o desaconsejar su lectura con razones.",
+          "is_correct": true,
+          "feedback": "La reseña orienta al lector combinando información y opinión argumentada."
+        },
+        {
+          "letter": "B",
+          "text": "Contar toda la historia y revelar el final.",
+          "is_correct": false,
+          "feedback": "Revelar el final quita el interés y no es la función de una reseña."
+        },
+        {
+          "letter": "C",
+          "text": "Vender el libro a cualquier precio.",
+          "is_correct": false,
+          "feedback": "La reseña no es un anuncio comercial; ofrece una valoración honesta."
+        },
+        {
+          "letter": "D",
+          "text": "Copiar el texto completo del libro.",
+          "is_correct": false,
+          "feedback": "Una reseña es breve y original, no una copia de la obra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender el propósito comunicativo de la reseña como texto de opinión informada.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-5-2026-W20-resena-libro-infantil-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W20-resena-libro-infantil-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál oración expresa una opinión?",
+      "context": "Un estudiante escribe una reseña de \"La telaraña de Carlota\" para el periódico escolar de Bucaramanga.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Me pareció una historia conmovedora que enseña sobre la amistad.\"",
+          "is_correct": true,
+          "feedback": "Es una valoración personal, por eso expresa una opinión."
+        },
+        {
+          "letter": "B",
+          "text": "\"El libro fue escrito por E. B. White.\"",
+          "is_correct": false,
+          "feedback": "Es un dato verificable sobre el autor, no una opinión."
+        },
+        {
+          "letter": "C",
+          "text": "\"La primera edición se publicó en 1952.\"",
+          "is_correct": false,
+          "feedback": "Es un hecho comprobable sobre la publicación, no una opinión."
+        },
+        {
+          "letter": "D",
+          "text": "\"El libro tiene veintidós capítulos.\"",
+          "is_correct": false,
+          "feedback": "Es un dato contable y verificable, no una opinión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la distinción entre opinión y hecho dentro de una reseña.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.79,
+      "bundle_id": "CO-LC-5-2026-W20-resena-libro-infantil-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W20-resena-libro-infantil-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál oración funciona mejor como recomendación en una reseña?",
+      "context": "En un club de lectura de Manizales, los niños deben recomendar un libro a sus compañeros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Recomiendo este libro porque sus personajes son divertidos y su mensaje es claro.\"",
+          "is_correct": true,
+          "feedback": "Incluye la recomendación y una razón que la justifica."
+        },
+        {
+          "letter": "B",
+          "text": "\"El papel del libro es de color blanco.\"",
+          "is_correct": false,
+          "feedback": "El color del papel no es una razón para recomendar la lectura."
+        },
+        {
+          "letter": "C",
+          "text": "\"El libro pesa trescientos gramos.\"",
+          "is_correct": false,
+          "feedback": "El peso es un dato físico que no ayuda a decidir la lectura."
+        },
+        {
+          "letter": "D",
+          "text": "\"El autor nació en una ciudad.\"",
+          "is_correct": false,
+          "feedback": "El lugar de nacimiento no explica por qué vale la pena leer el libro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la formulación de recomendaciones con razones dentro de una reseña.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-5-2026-W20-resena-libro-infantil-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W20-resena-libro-infantil-001-MASTERY-bundle-v5",
+      "statement": "¿Qué debe hacer un estudiante para escribir una buena reseña?",
+      "context": "Lee: \"La reseña combinó el resumen, los hechos verificables y la opinión del autor, con un lenguaje claro y respetuoso.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incluir un resumen breve, hechos del libro y su opinión con razones claras.",
+          "is_correct": true,
+          "feedback": "La combinación de resumen, datos y opinión argumentada caracteriza la buena reseña."
+        },
+        {
+          "letter": "B",
+          "text": "Escribir solo su opinión sin mencionar el libro.",
+          "is_correct": false,
+          "feedback": "Sin presentar el libro, el lector no entiende qué se está valorando."
+        },
+        {
+          "letter": "C",
+          "text": "Inventar datos falsos sobre el autor.",
+          "is_correct": false,
+          "feedback": "Inventar datos rompe la honestidad y la veracidad de la reseña."
+        },
+        {
+          "letter": "D",
+          "text": "Cambiar el final del libro para hacerlo más emocionante.",
+          "is_correct": false,
+          "feedback": "Una reseña describe y valora la obra; no la modifica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar los criterios para redactar una reseña completa y confiable.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-5-2026-W20-resena-libro-infantil-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W20-resena-libro-infantil-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la diferencia entre las dos oraciones?",
+      "context": "Lee: \"Reseña 1: 'El libro tiene 120 páginas.' Reseña 2: 'El libro es aburrido porque sus capítulos son muy largos.'\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La primera es un hecho verificable; la segunda es una opinión personal.",
+          "is_correct": true,
+          "feedback": "El número de páginas se comprueba; el aburrimiento es una valoración subjetiva."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos son hechos verificables.",
+          "is_correct": false,
+          "feedback": "El aburrimiento no se puede verificar objetivamente."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos son opiniones personales.",
+          "is_correct": false,
+          "feedback": "El número de páginas es un dato objetivo, no una opinión."
+        },
+        {
+          "letter": "D",
+          "text": "La primera es una opinión y la segunda es un hecho.",
+          "is_correct": false,
+          "feedback": "Es al revés: la primera es un hecho y la segunda una opinión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar y distinguir hechos verificables de opiniones personales en una reseña.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.63,
+      "bundle_id": "CO-LC-5-2026-W20-resena-libro-infantil-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W20-resena-libro-infantil-001-MASTERY-bundle-v7",
+      "statement": "¿Por qué una reseña no debe revelar el final del libro?",
+      "context": "Lee: \"Reseñar un libro no es contar todo lo que pasa, sino dar pistas sobre su valor y dejar que el lector descubra la historia.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque quita el interés del lector y no ayuda a que decida por sí mismo.",
+          "is_correct": true,
+          "feedback": "Revelar el final elimina la sorpresa y reduce las ganas de leer la obra."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el final nunca existe en los libros.",
+          "is_correct": false,
+          "feedback": "Todos los libros narrativos tienen un desenlace."
+        },
+        {
+          "letter": "C",
+          "text": "Porque así la reseña queda más larga.",
+          "is_correct": false,
+          "feedback": "La extensión no es la razón; se trata de no dañar la experiencia lectora."
+        },
+        {
+          "letter": "D",
+          "text": "Porque nadie puede leer el final de un libro.",
+          "is_correct": false,
+          "feedback": "El final está disponible para quien lee la obra completa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar por qué la reseña debe orientar sin arruinar la experiencia de la lectura.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-5-2026-W20-resena-libro-infantil-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W20-resena-libro-infantil-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué es valioso aprender a escribir reseñas de libros en la escuela?",
+      "context": "Lee: \"Escribir reseñas enseña a distinguir hechos de opiniones, a argumentar con razones y a recomendar lecturas a otros. Por eso, muchos docentes colombianos las proponen en la escuela.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque ayuda a distinguir hechos de opiniones, argumentar con razones y recomendar lecturas.",
+          "is_correct": true,
+          "feedback": "La reseña entrena el pensamiento crítico y la expresión argumentada."
+        },
+        {
+          "letter": "B",
+          "text": "Porque solo sirve para llenar páginas sin aprender.",
+          "is_correct": false,
+          "feedback": "La reseña desarrolla habilidades concretas de análisis y escritura."
+        },
+        {
+          "letter": "C",
+          "text": "Porque evita que los estudiantes lean otros libros.",
+          "is_correct": false,
+          "feedback": "Al contrario, las reseñas motivan la lectura de nuevas obras."
+        },
+        {
+          "letter": "D",
+          "text": "Porque permite copiar opiniones de otras personas.",
+          "is_correct": false,
+          "feedback": "Una buena reseña exige pensamiento propio, no copia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar el aporte de la reseña al desarrollo del pensamiento crítico y la lectura autónoma.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LC-5-2026-W20-resena-libro-infantil-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

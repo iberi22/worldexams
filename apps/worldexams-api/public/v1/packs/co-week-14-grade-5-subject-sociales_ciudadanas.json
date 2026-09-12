@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-14-grade-5-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-12T15:41:45.221Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-5-2026-W14-actividades-economicas-regiones-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la actividad económica que consiste en cultivar y recolectar productos del campo, como el café o el maíz?",
+      "context": "En el colegio de Popayán, la profesora muestra un mapa de Colombia y pregunta a sus estudiantes por las actividades económicas del campo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La agricultura, porque se cultivan productos de la tierra.",
+          "is_correct": true,
+          "feedback": "La agricultura reúne las labores de siembra y cosecha de productos como el café y el maíz."
+        },
+        {
+          "letter": "B",
+          "text": "La pesca, porque se obtienen peces de los ríos y del mar.",
+          "is_correct": false,
+          "feedback": "La pesca extrae recursos del agua, no cultiva productos de la tierra."
+        },
+        {
+          "letter": "C",
+          "text": "La minería, porque se extraen minerales del subsuelo.",
+          "is_correct": false,
+          "feedback": "La minería obtiene metales y minerales, no productos agrícolas."
+        },
+        {
+          "letter": "D",
+          "text": "El turismo, porque llegan visitantes a conocer los paisajes.",
+          "is_correct": false,
+          "feedback": "El turismo presta servicios a los viajeros y no cultiva alimentos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificar la agricultura como la actividad económica dedicada al cultivo de productos del campo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-5-2026-W14-actividades-economicas-regiones-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W14-actividades-economicas-regiones-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué las actividades económicas cambian de una región a otra en Colombia?",
+      "context": "Lee: \"En la región Andina se cultiva café en las montañas; en la región Pacífica muchas familias viven de la pesca; en la región Caribe el turismo atrae visitantes a Cartagena.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque cada región tiene recursos, clima y paisajes diferentes que permiten distintas actividades.",
+          "is_correct": true,
+          "feedback": "Las condiciones naturales de cada región favorecen unos trabajos y no otros."
+        },
+        {
+          "letter": "B",
+          "text": "Porque todas las regiones tienen exactamente los mismos recursos naturales.",
+          "is_correct": false,
+          "feedback": "Las regiones colombianas son muy diversas en clima, relieve y recursos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque solo una región del país puede trabajar y las demás no.",
+          "is_correct": false,
+          "feedback": "Todas las regiones desarrollan actividades económicas propias."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el clima es idéntico en todo el territorio nacional.",
+          "is_correct": false,
+          "feedback": "Colombia tiene gran variedad de climas según la altitud y la región."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender que la diversidad de recursos y climas de las regiones determina sus actividades económicas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-5-2026-W14-actividades-economicas-regiones-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W14-actividades-economicas-regiones-001-MASTERY-bundle-v3",
+      "statement": "¿A qué actividad económica pertenece el trabajo de esta familia?",
+      "context": "Una familia de Buenaventura sale cada madrugada en su bote a pescar y luego vende el pescado en el mercado del puerto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A la pesca, porque obtienen su sustento de los recursos del mar.",
+          "is_correct": true,
+          "feedback": "La familia extrae peces del mar y los comercializa, lo que corresponde a la pesca."
+        },
+        {
+          "letter": "B",
+          "text": "A la minería, porque extraen minerales del subsuelo marino.",
+          "is_correct": false,
+          "feedback": "La familia no extrae minerales, sino peces, así que no es minería."
+        },
+        {
+          "letter": "C",
+          "text": "A la ganadería, porque crían animales en tierra firme.",
+          "is_correct": false,
+          "feedback": "La ganadería cría animales terrestres, no captura peces en el mar."
+        },
+        {
+          "letter": "D",
+          "text": "Al turismo, porque reciben visitantes en su bote.",
+          "is_correct": false,
+          "feedback": "La familia no presta servicios turísticos; vende el producto de su pesca."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el concepto de pesca a una situación cotidiana de la región Pacífica colombiana.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-5-2026-W14-actividades-economicas-regiones-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W14-actividades-economicas-regiones-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál decisión es la más responsable frente a la actividad minera del municipio?",
+      "context": "En un municipio de Boyacá los habitantes hallaron carbón en sus tierras y deben decidir cómo aprovecharlo sin dañar el ambiente ni afectar a la comunidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Extraer el carbón con permisos, cuidando el agua y reforestando las zonas afectadas.",
+          "is_correct": true,
+          "feedback": "Una minería responsable cumple las normas y protege los recursos naturales de la comunidad."
+        },
+        {
+          "letter": "B",
+          "text": "Extraer todo el carbón sin permiso y abandonar los huecos abiertos.",
+          "is_correct": false,
+          "feedback": "La explotación sin permiso ni control causa daños graves al ambiente y a las personas."
+        },
+        {
+          "letter": "C",
+          "text": "Contaminar los ríos con los desechos que salen de la mina.",
+          "is_correct": false,
+          "feedback": "Arrojar desechos a los ríos afecta el agua que usa toda la comunidad."
+        },
+        {
+          "letter": "D",
+          "text": "Impedir que cualquier autoridad vigile la explotación.",
+          "is_correct": false,
+          "feedback": "La vigilancia de las autoridades ayuda a prevenir daños ambientales y sociales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar principios de convivencia y cuidado ambiental a la explotación de los recursos naturales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-5-2026-W14-actividades-economicas-regiones-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W14-actividades-economicas-regiones-001-MASTERY-bundle-v5",
+      "statement": "¿Qué actividad económica se fortalece con estos empleos en Santa Marta?",
+      "context": "Un hotel de Santa Marta contrata guías, cocineros y recepcionistas para atender a los viajeros que llegan a las playas del Caribe.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El turismo, porque las personas viajan y usan servicios de hospedaje y recreación.",
+          "is_correct": true,
+          "feedback": "El hotel ofrece servicios a los viajeros, lo que caracteriza a la actividad turística."
+        },
+        {
+          "letter": "B",
+          "text": "La pesca, porque se venden productos del mar al por mayor.",
+          "is_correct": false,
+          "feedback": "El hotel no se dedica a la pesca, aunque sirva pescado a sus huéspedes."
+        },
+        {
+          "letter": "C",
+          "text": "La minería, porque se extraen piedras preciosas de la playa.",
+          "is_correct": false,
+          "feedback": "En el hotel no se extraen minerales, sino que se atiende a visitantes."
+        },
+        {
+          "letter": "D",
+          "text": "La agricultura, porque se cultivan flores para exportar.",
+          "is_correct": false,
+          "feedback": "La agricultura siembra y cosecha productos, algo distinto a la hotelería."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer el turismo como actividad económica generadora de empleo en la región Caribe.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-5-2026-W14-actividades-economicas-regiones-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W14-actividades-economicas-regiones-001-MASTERY-bundle-v6",
+      "statement": "¿Qué diferencia explica mejor la forma de trabajar en estas dos regiones?",
+      "context": "Compara: \"En la región cafetera muchas familias cultivan café en pequeñas fincas de montaña. En la región Caribe grandes hoteles generan empleo durante la temporada alta.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El café se produce en pequeñas fincas de montaña, mientras el turismo requiere hoteles y servicios en las ciudades.",
+          "is_correct": true,
+          "feedback": "Cada actividad exige condiciones distintas: cultivo en el campo y servicios en la ciudad."
+        },
+        {
+          "letter": "B",
+          "text": "Ambas regiones dependen únicamente de la minería para subsistir.",
+          "is_correct": false,
+          "feedback": "Ni el café ni el turismo son actividades mineras."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos regiones tienen la misma cantidad de hoteles y de cultivos.",
+          "is_correct": false,
+          "feedback": "Las regiones se especializan en actividades diferentes, no idénticas."
+        },
+        {
+          "letter": "D",
+          "text": "El café solo se cultiva en las playas del Caribe.",
+          "is_correct": false,
+          "feedback": "El café se cultiva principalmente en las montañas andinas, no en las playas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar cómo las condiciones geográficas explican las diferencias entre las actividades económicas regionales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-5-2026-W14-actividades-economicas-regiones-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W14-actividades-economicas-regiones-001-MASTERY-bundle-v7",
+      "statement": "¿Qué conflicto se presenta entre el turismo y el bienestar de los habitantes de una región?",
+      "context": "Lee: \"El turismo puede traer ingresos a una región, pero también puede generar más basura, subir los precios y aumentar el consumo de agua.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El turismo genera ingresos, pero también puede afectar los recursos y la vida cotidiana de la comunidad.",
+          "is_correct": true,
+          "feedback": "Existe un equilibrio entre los beneficios económicos y los costos ambientales y sociales."
+        },
+        {
+          "letter": "B",
+          "text": "El turismo nunca produce ningún efecto negativo en las regiones.",
+          "is_correct": false,
+          "feedback": "El texto menciona basura, precios y consumo de agua como efectos a considerar."
+        },
+        {
+          "letter": "C",
+          "text": "Los habitantes de la región no participan en la economía local.",
+          "is_correct": false,
+          "feedback": "Los habitantes trabajan y ofrecen servicios dentro de la actividad turística."
+        },
+        {
+          "letter": "D",
+          "text": "El turismo elimina la necesidad de cuidar el agua y los paisajes.",
+          "is_correct": false,
+          "feedback": "Al contrario, el turismo sostenible depende del cuidado del agua y del entorno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar los beneficios y los costos del turismo para las comunidades que lo reciben.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-5-2026-W14-actividades-economicas-regiones-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W14-actividades-economicas-regiones-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál conclusión valora mejor la relación entre las regiones y la economía colombiana?",
+      "context": "Lee: 'Colombia tiene regiones con vocaciones muy distintas: café en las montañas andinas, pesca en el Pacífico, minería en varias zonas y turismo en el Caribe y en los Santanderes. Aprovechar estos recursos de manera sostenible es clave para el desarrollo del país.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cada región aporta al país con sus recursos y actividades, y la clave es aprovecharlos de forma sostenible.",
+          "is_correct": true,
+          "feedback": "La diversidad regional enriquece la economía y exige un uso responsable de los recursos."
+        },
+        {
+          "letter": "B",
+          "text": "La economía del país depende de una sola región y de una sola actividad.",
+          "is_correct": false,
+          "feedback": "Colombia tiene múltiples regiones y actividades que aportan a su economía."
+        },
+        {
+          "letter": "C",
+          "text": "Todas las regiones deben dedicarse a la minería para poder crecer.",
+          "is_correct": false,
+          "feedback": "Cada región se desarrolla mejor según sus propios recursos y vocación productiva."
+        },
+        {
+          "letter": "D",
+          "text": "Los recursos naturales no influyen en la economía del país.",
+          "is_correct": false,
+          "feedback": "Los recursos naturales son la base de muchas actividades económicas regionales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la importancia de la diversidad regional y del uso sostenible de los recursos en la economía colombiana.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-5-2026-W14-actividades-economicas-regiones-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

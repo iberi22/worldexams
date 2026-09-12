@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-19-grade-5-subject-matematicas",
+    "generated_at": "2026-09-12T15:41:45.214Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-5-2026-W19-promedio-moda-datos-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es la moda en un conjunto de datos?",
+      "context": "En clase de matemáticas en Popayán, la profesora explica qué es la moda al analizar los datos de una encuesta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El dato que más se repite en el conjunto.",
+          "is_correct": true,
+          "feedback": "La moda es la medida que indica el dato con mayor frecuencia."
+        },
+        {
+          "letter": "B",
+          "text": "El dato más grande de la lista.",
+          "is_correct": false,
+          "feedback": "El dato más grande es el máximo, no la moda."
+        },
+        {
+          "letter": "C",
+          "text": "El dato más pequeño de la lista.",
+          "is_correct": false,
+          "feedback": "El dato más pequeño es el mínimo, no la moda."
+        },
+        {
+          "letter": "D",
+          "text": "El resultado de dividir la suma de todos los datos.",
+          "is_correct": false,
+          "feedback": "Ese resultado es el promedio, no la moda."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer la moda como la medida de tendencia central que indica el dato con mayor frecuencia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numérico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-5-2026-W19-promedio-moda-datos-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W19-promedio-moda-datos-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué es útil calcular el promedio de un conjunto de datos?",
+      "context": "La profesora de un colegio de Ibagué dice que el promedio de notas ayuda a resumir mucha información en un solo número.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque resume los datos en un solo valor que representa al grupo.",
+          "is_correct": true,
+          "feedback": "El promedio permite comparar conjuntos de datos de forma sencilla."
+        },
+        {
+          "letter": "B",
+          "text": "Porque borra los datos originales y los hace desaparecer.",
+          "is_correct": false,
+          "feedback": "Los datos originales se conservan; el promedio solo los resume."
+        },
+        {
+          "letter": "C",
+          "text": "Porque siempre da como resultado el número más alto.",
+          "is_correct": false,
+          "feedback": "El promedio es un valor intermedio, no el más alto."
+        },
+        {
+          "letter": "D",
+          "text": "Porque sirve solo para ordenar nombres de personas.",
+          "is_correct": false,
+          "feedback": "El promedio opera con valores numéricos, no ordena nombres."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender que el promedio es un valor representativo que permite comparar conjuntos de datos de forma sencilla.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-5-2026-W19-promedio-moda-datos-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W19-promedio-moda-datos-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el promedio de las cuatro notas de Valentina?",
+      "context": "Las notas de matemáticas de Valentina en Popayán son: 4, 4, 5, 3.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4, porque (4 + 4 + 5 + 3) ÷ 4 = 4.",
+          "is_correct": true,
+          "feedback": "Se suman las notas y se dividen entre 4, y el resultado es 4."
+        },
+        {
+          "letter": "B",
+          "text": "5, porque es la nota más alta.",
+          "is_correct": false,
+          "feedback": "La nota más alta es el máximo, no el promedio."
+        },
+        {
+          "letter": "C",
+          "text": "3, porque es la nota más baja.",
+          "is_correct": false,
+          "feedback": "La nota más baja es el mínimo, no el promedio."
+        },
+        {
+          "letter": "D",
+          "text": "16, porque es la suma de todas las notas.",
+          "is_correct": false,
+          "feedback": "16 es la suma; falta dividir entre el número de notas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el procedimiento del promedio: sumar todos los datos y dividir entre el número total de datos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numérico",
+      "expected_success": 0.79,
+      "bundle_id": "CO-MAT-5-2026-W19-promedio-moda-datos-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W19-promedio-moda-datos-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la moda de los sabores de helado?",
+      "context": "En una encuesta del salón de un colegio de Cali sobre el sabor de helado favorito, 8 niños eligieron chocolate, 5 fresa, 4 vainilla y 3 mango.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chocolate, porque es el sabor que más se repite.",
+          "is_correct": true,
+          "feedback": "El chocolate fue elegido 8 veces, más que los demás sabores."
+        },
+        {
+          "letter": "B",
+          "text": "Fresa, porque fue el segundo sabor.",
+          "is_correct": false,
+          "feedback": "La moda es el dato más frecuente, no el segundo."
+        },
+        {
+          "letter": "C",
+          "text": "Mango, porque es el sabor menos elegido.",
+          "is_correct": false,
+          "feedback": "El sabor menos elegido no puede ser la moda."
+        },
+        {
+          "letter": "D",
+          "text": "Vainilla, porque es un sabor clásico.",
+          "is_correct": false,
+          "feedback": "La moda depende de la frecuencia, no de ser clásico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el concepto de moda para identificar la categoría con mayor frecuencia en una encuesta.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-5-2026-W19-promedio-moda-datos-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W19-promedio-moda-datos-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la moda de las edades de estos estudiantes?",
+      "context": "Las edades de cinco estudiantes de quinto en Manizales son: 10, 11, 10, 12, 10.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 años, porque aparece tres veces, más que las demás edades.",
+          "is_correct": true,
+          "feedback": "El 10 se repite 3 veces, mientras 11 y 12 aparecen una sola vez."
+        },
+        {
+          "letter": "B",
+          "text": "12 años, porque es la edad más alta.",
+          "is_correct": false,
+          "feedback": "La edad más alta es el máximo, no la moda."
+        },
+        {
+          "letter": "C",
+          "text": "11 años, porque está en el medio de la lista.",
+          "is_correct": false,
+          "feedback": "El valor central es la mediana, no la moda."
+        },
+        {
+          "letter": "D",
+          "text": "9 años, porque es la edad más baja.",
+          "is_correct": false,
+          "feedback": "El 9 no aparece en los datos y no es la moda."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Razonar con datos numéricos para hallar la moda, contando cuántas veces se repite cada valor.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.69,
+      "bundle_id": "CO-MAT-5-2026-W19-promedio-moda-datos-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W19-promedio-moda-datos-001-MASTERY-bundle-v6",
+      "statement": "¿Qué se puede concluir al comparar las modas de los dos cursos?",
+      "context": "En un colegio de Barranquilla, dos cursos hicieron una encuesta sobre frutas favoritas. En 5A la moda fue \"mango\"; en 5B la moda fue \"banano\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fruta que más se repite es distinta en cada curso.",
+          "is_correct": true,
+          "feedback": "Cada curso tiene una moda diferente, lo que muestra gustos distintos."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos cursos tienen exactamente los mismos gustos.",
+          "is_correct": false,
+          "feedback": "Las modas distintas indican gustos diferentes."
+        },
+        {
+          "letter": "C",
+          "text": "En los dos cursos el mango fue la fruta más repetida.",
+          "is_correct": false,
+          "feedback": "El mango solo fue la moda en 5A, no en 5B."
+        },
+        {
+          "letter": "D",
+          "text": "El banano no fue elegido por ningún estudiante.",
+          "is_correct": false,
+          "feedback": "El banano fue la fruta más repetida en 5B."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar y comparar las modas de dos conjuntos de datos para interpretar diferencias de preferencia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.63,
+      "bundle_id": "CO-MAT-5-2026-W19-promedio-moda-datos-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W19-promedio-moda-datos-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál afirmación sobre estos datos es correcta?",
+      "context": "La tabla muestra las notas finales de un grupo en ciencias: 5, 3, 4, 4, 4, 5, 3.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La moda es 4 y el promedio es 4.",
+          "is_correct": true,
+          "feedback": "El 4 se repite 3 veces y la suma (28) dividida entre 7 da 4."
+        },
+        {
+          "letter": "B",
+          "text": "La moda es 5 y el promedio es 3.",
+          "is_correct": false,
+          "feedback": "El 5 se repite solo 2 veces y el promedio no es 3."
+        },
+        {
+          "letter": "C",
+          "text": "La moda es 3 y el promedio es 5.",
+          "is_correct": false,
+          "feedback": "El 3 se repite solo 2 veces y el promedio no es 5."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede calcular ninguna medida.",
+          "is_correct": false,
+          "feedback": "Con esos datos sí se pueden calcular la moda y el promedio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar un conjunto de datos calculando a la vez la moda y el promedio para describir su comportamiento.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-5-2026-W19-promedio-moda-datos-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W19-promedio-moda-datos-001-MASTERY-bundle-v8",
+      "statement": "¿Qué medida conviene usar en cada caso?",
+      "context": "Una cooperativa escolar de Tunja quiere saber qué fruta vender más en los descansos y qué nota promedio tuvo el grupo para felicitar a un curso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La moda para elegir la fruta preferida y el promedio para resumir las notas.",
+          "is_correct": true,
+          "feedback": "La moda señala la preferencia más frecuente y el promedio resume el desempeño general."
+        },
+        {
+          "letter": "B",
+          "text": "El promedio para elegir la fruta y la moda para las notas.",
+          "is_correct": false,
+          "feedback": "Para preferencias se usa la moda y para notas se usa el promedio."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguna medida, porque los datos no sirven para decidir.",
+          "is_correct": false,
+          "feedback": "Los datos sí permiten tomar decisiones informadas."
+        },
+        {
+          "letter": "D",
+          "text": "Solo el dato más alto, sin importar cuántas veces se repita.",
+          "is_correct": false,
+          "feedback": "El dato más alto no representa ni la preferencia ni el grupo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la pertinencia de cada medida: la moda ayuda a conocer la preferencia más frecuente y el promedio resume el desempeño general.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-5-2026-W19-promedio-moda-datos-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

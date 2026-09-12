@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-25-grade-5-subject-lectura_critica",
+    "generated_at": "2026-09-12T15:41:45.208Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-5-2026-W25-texto-descriptivo-personas-lugares-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el propósito principal de un texto descriptivo?",
+      "context": "En una clase de lengua castellana en Cúcuta, la profesora lee un párrafo en el que se detalla el color de los ojos, la altura y la forma de vestir de una persona.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mostrar las características de una persona, un objeto, un animal o un lugar mediante detalles precisos.",
+          "is_correct": true,
+          "feedback": "La descripción se centra en detallar rasgos y cualidades de lo que se representa."
+        },
+        {
+          "letter": "B",
+          "text": "Contar una historia de ficción con un inicio, un desarrollo y un final.",
+          "is_correct": false,
+          "feedback": "Contar historias con inicio, nudo y desenlace es propio del texto narrativo."
+        },
+        {
+          "letter": "C",
+          "text": "Explicar paso a paso cómo realizar un procedimiento.",
+          "is_correct": false,
+          "feedback": "Los procedimientos se explican en textos instructivos, no en los descriptivos."
+        },
+        {
+          "letter": "D",
+          "text": "Convencer al lector sobre una idea mediante argumentos.",
+          "is_correct": false,
+          "feedback": "Convencer al lector es el propósito de los textos argumentativos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Recordar que el texto descriptivo busca representar con detalle la apariencia o las características de algo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-5-2026-W25-texto-descriptivo-personas-lugares-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W25-texto-descriptivo-personas-lugares-001-MASTERY-bundle-v2",
+      "statement": "¿Qué tipo de recurso utiliza principalmente el autor para describir el paisaje?",
+      "context": "Un escritor colombiano describe el parque de Los Nevados así: \"Un valle verde y frío se extiende entre montañas cubiertas de frailejones, donde el silencio solo lo rompe el viento.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Adjetivos y comparaciones que permiten imaginar colores, texturas y sensaciones del lugar.",
+          "is_correct": true,
+          "feedback": "Los adjetivos y comparaciones ayudan a recrear la imagen mental del paisaje."
+        },
+        {
+          "letter": "B",
+          "text": "Verbos en pasado que cuentan hechos cronológicos del parque.",
+          "is_correct": false,
+          "feedback": "Los verbos en pasado no son el recurso principal en una descripción estática."
+        },
+        {
+          "letter": "C",
+          "text": "Números y operaciones matemáticas para medir el parque.",
+          "is_correct": false,
+          "feedback": "Las medidas exactas no son lo central en una descripción literaria."
+        },
+        {
+          "letter": "D",
+          "text": "Instrucciones para visitar el parque de manera ordenada.",
+          "is_correct": false,
+          "feedback": "Las instrucciones son propias de textos instructivos, no descriptivos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender que los adjetivos y las comparaciones son recursos clave del texto descriptivo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-5-2026-W25-texto-descriptivo-personas-lugares-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W25-texto-descriptivo-personas-lugares-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de los siguientes fragmentos logra mejor el propósito descriptivo?",
+      "context": "Un estudiante debe escribir la descripción de la Plaza de Bolívar en Bogotá para una cartelera del salón, utilizando al menos tres adjetivos calificativos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"La plaza se ve amplia, empedrada y rodeada de edificios históricos; al centro se alza una estatua rodeada de palomas.\"",
+          "is_correct": true,
+          "feedback": "El fragmento usa varios adjetivos y detalles que permiten imaginar la plaza."
+        },
+        {
+          "letter": "B",
+          "text": "\"Ayer visité la plaza y luego me devolví a la casa porque tenía hambre.\"",
+          "is_correct": false,
+          "feedback": "El fragmento narra acciones, pero no describe características de la plaza."
+        },
+        {
+          "letter": "C",
+          "text": "\"Para llegar a la plaza se toma la calle 10 y luego se gira a la izquierda.\"",
+          "is_correct": false,
+          "feedback": "El fragmento da indicaciones para llegar, no describe el lugar."
+        },
+        {
+          "letter": "D",
+          "text": "\"La plaza fue declarada monumento nacional en el año 1823.\"",
+          "is_correct": false,
+          "feedback": "El fragmento aporta un dato histórico, pero no describe visualmente la plaza."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el uso de adjetivos y detalles concretos para construir una descripción efectiva de un lugar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-5-2026-W25-texto-descriptivo-personas-lugares-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W25-texto-descriptivo-personas-lugares-001-MASTERY-bundle-v4",
+      "statement": "¿Qué aspecto del abuelo se está describiendo principalmente en el texto?",
+      "context": "Un texto dice: \"El abuelo tiene las manos arrugadas, una voz ronca y una sonrisa paciente que tranquiliza a los nietos.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sus rasgos físicos y la sensación que transmite su presencia.",
+          "is_correct": true,
+          "feedback": "La descripción combina rasgos físicos (manos, voz) con una cualidad emocional."
+        },
+        {
+          "letter": "B",
+          "text": "La lista completa de las comidas favoritas del abuelo.",
+          "is_correct": false,
+          "feedback": "El texto no menciona comidas, sino rasgos físicos y emocionales."
+        },
+        {
+          "letter": "C",
+          "text": "La historia de vida del abuelo desde su infancia.",
+          "is_correct": false,
+          "feedback": "El texto no narra la biografía, solo describe rasgos del momento."
+        },
+        {
+          "letter": "D",
+          "text": "Las instrucciones para cuidar al abuelo cuando se enferme.",
+          "is_correct": false,
+          "feedback": "No se dan indicaciones de cuidado, sino una descripción de su apariencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la lectura descriptiva para identificar rasgos físicos y cualidades que se transmiten sobre una persona.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LC-5-2026-W25-texto-descriptivo-personas-lugares-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W25-texto-descriptivo-personas-lugares-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál de los siguientes ejemplos usa mejor la comparación para describir la ciudad?",
+      "context": "Una guía turística de Cartagena debe presentar la ciudad a niños de otras regiones; para ello utiliza un texto con muchos adjetivos y comparaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Las murallas de Cartagena son tan altas como gigantes guardianes que miran el mar.\"",
+          "is_correct": true,
+          "feedback": "La comparación con gigantes guardianes ayuda a visualizar la muralla con detalle."
+        },
+        {
+          "letter": "B",
+          "text": "\"Cartagena queda en la costa Caribe de Colombia.\"",
+          "is_correct": false,
+          "feedback": "La oración indica ubicación, pero no compara ni describe con imágenes."
+        },
+        {
+          "letter": "C",
+          "text": "\"El tour por Cartagena dura tres horas y sale a las 8 de la mañana.\"",
+          "is_correct": false,
+          "feedback": "La oración aporta datos horarios, no descripciones visuales."
+        },
+        {
+          "letter": "D",
+          "text": "\"Es necesario llevar protector solar en Cartagena.\"",
+          "is_correct": false,
+          "feedback": "La oración da una recomendación práctica, no una descripción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el uso de comparaciones como recurso expresivo para describir lugares de forma más vívida.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-5-2026-W25-texto-descriptivo-personas-lugares-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W25-texto-descriptivo-personas-lugares-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál descripción permite reconstruir mejor la imagen del pueblo y por qué?",
+      "context": "Dos estudiantes escriben descripciones del mismo pueblo: \"Pueblo A: Pueblo blanco con calles angostas, techos rojos y olor a pan recién hecho.\" \"Pueblo B: Pueblo bonito con gente amable y clima cálido.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La descripción A, porque usa detalles concretos y sensoriales que permiten imaginar el lugar.",
+          "is_correct": true,
+          "feedback": "Los detalles de color, forma y olor hacen más vívida la descripción."
+        },
+        {
+          "letter": "B",
+          "text": "La descripción B, porque menciona la amabilidad de la gente y el clima.",
+          "is_correct": false,
+          "feedback": "Aunque menciona cualidades, no da detalles visuales concretos."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos son equivalentes, porque las dos hablan del mismo pueblo.",
+          "is_correct": false,
+          "feedback": "La calidad descriptiva varía según los recursos expresivos usados."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna describe, porque ambas son simples opiniones sin imágenes.",
+          "is_correct": false,
+          "feedback": "La descripción A sí ofrece imágenes claras, por lo que sí describe."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la diferencia entre una descripción con detalles sensoriales y otra basada solo en opiniones generales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-5-2026-W25-texto-descriptivo-personas-lugares-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W25-texto-descriptivo-personas-lugares-001-MASTERY-bundle-v7",
+      "statement": "¿Qué estructura predomina en el texto descriptivo de la laguna?",
+      "context": "Lee: \"La laguna de Guatavita es una joya escondida entre montañas; sus aguas verdes reflejan el cielo y en sus bordes crecen frailejones plateados.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oraciones que usan adjetivos y complementos para precisar cómo es el lugar.",
+          "is_correct": true,
+          "feedback": "Las oraciones se apoyan en adjetivos y complementos descriptivos."
+        },
+        {
+          "letter": "B",
+          "text": "Predominio de verbos en pasado que cuentan una historia cronológica.",
+          "is_correct": false,
+          "feedback": "No hay una secuencia temporal, sino descripciones estáticas."
+        },
+        {
+          "letter": "C",
+          "text": "Una lista de instrucciones para visitar la laguna con cuidado.",
+          "is_correct": false,
+          "feedback": "El texto no da pasos ni indicaciones para visitar el lugar."
+        },
+        {
+          "letter": "D",
+          "text": "Un diálogo entre personajes que hablan sobre la laguna.",
+          "is_correct": false,
+          "feedback": "No hay diálogo, sino una descripción en tercera persona."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la estructura oracional del texto descriptivo y reconocer el papel de los adjetivos y complementos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-5-2026-W25-texto-descriptivo-personas-lugares-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W25-texto-descriptivo-personas-lugares-001-MASTERY-bundle-v8",
+      "statement": "¿Qué criterios debe tener en cuenta el grupo para que las descripciones sean claras, útiles y bien escritas?",
+      "context": "Un grupo de estudiantes prepara una guía turística escrita para mostrar los lugares más representativos de su municipio a visitantes de otras regiones de Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usar adjetivos precisos, detalles sensoriales, organización coherente y ortografía cuidada.",
+          "is_correct": true,
+          "feedback": "La calidad descriptiva combina precisión, organización y corrección lingüística."
+        },
+        {
+          "letter": "B",
+          "text": "Incluir solo oraciones muy cortas sin detalles para terminar rápido.",
+          "is_correct": false,
+          "feedback": "Las oraciones muy cortas suelen perder capacidad descriptiva."
+        },
+        {
+          "letter": "C",
+          "text": "Evitar cualquier adjetivo para no subjetivizar el texto.",
+          "is_correct": false,
+          "feedback": "Los adjetivos son necesarios para precisar las características del lugar."
+        },
+        {
+          "letter": "D",
+          "text": "Copiar las descripciones de internet sin verificar la información.",
+          "is_correct": false,
+          "feedback": "Es indispensable verificar fuentes y producir un texto propio y responsable."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar los criterios de calidad que debe reunir un texto descriptivo informativo dirigido a un público amplio.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-5-2026-W25-texto-descriptivo-personas-lugares-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

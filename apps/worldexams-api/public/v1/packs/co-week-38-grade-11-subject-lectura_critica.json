@@ -1,0 +1,1851 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-38-grade-11-subject-lectura_critica",
+    "generated_at": "2026-09-12T15:41:45.200Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es un discurso público?",
+      "context": "En clase en Bogotá, los estudiantes identifican tipos de discurso público.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una intervención oral o escrita dirigida a una audiencia con intención comunicativa deliberada.",
+          "is_correct": true,
+          "feedback": "Tiene emisor, intención y contexto reconocibles."
+        },
+        {
+          "letter": "B",
+          "text": "Una conversación privada entre dos personas.",
+          "is_correct": false,
+          "feedback": "Implica publicidad."
+        },
+        {
+          "letter": "C",
+          "text": "Una nota personal de diario.",
+          "is_correct": false,
+          "feedback": "Carece de destinatario público."
+        },
+        {
+          "letter": "D",
+          "text": "Un mensaje cifrado sin audiencia.",
+          "is_correct": false,
+          "feedback": "Busca ser comprendido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El discurso público combina retórica, contexto y propósito para incidir en una colectividad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle-v2",
+      "statement": "Según la tradición aristotélica, las tres estrategias básicas de persuasión son:",
+      "context": "En Medellín, se recuerdan los ethos, pathos y logos clásicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ethos (credibilidad), pathos (emoción) y logos (razonamiento).",
+          "is_correct": true,
+          "feedback": "Triada clásica de la retórica."
+        },
+        {
+          "letter": "B",
+          "text": "Narración, descripción y diálogo.",
+          "is_correct": false,
+          "feedback": "Son modos narrativos."
+        },
+        {
+          "letter": "C",
+          "text": "Métrica, rima y estrofa.",
+          "is_correct": false,
+          "feedback": "Son recursos poéticos."
+        },
+        {
+          "letter": "D",
+          "text": "Sintaxis, morfología y fonética.",
+          "is_correct": false,
+          "feedback": "Son niveles lingüísticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La retórica aristotélica sigue siendo clave para el análisis del discurso contemporáneo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.89,
+      "bundle_id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle-v3",
+      "statement": "¿Qué función cumple el ethos en un discurso presidencial?",
+      "context": "En Cali, se analiza un discurso presidencial colombiano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Construir la imagen de autoridad y confiabilidad del orador.",
+          "is_correct": true,
+          "feedback": "Refuerza la credibilidad."
+        },
+        {
+          "letter": "B",
+          "text": "Generar miedo en los oyentes.",
+          "is_correct": false,
+          "feedback": "Eso es patetismo negativo."
+        },
+        {
+          "letter": "C",
+          "text": "Eliminar datos verificables.",
+          "is_correct": false,
+          "feedback": "Es contrario al ethos."
+        },
+        {
+          "letter": "D",
+          "text": "Reemplazar los argumentos lógicos.",
+          "is_correct": false,
+          "feedback": "Complementa el logos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El ethos articula la relación de confianza entre emisor, mensaje y audiencia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle-v4",
+      "statement": "En un discurso público, el uso frecuente de oraciones breves, directas y enfáticas cumple principalmente una función:",
+      "context": "En Barranquilla, se analiza la sintaxis de una alocución.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ritmica y enfática, que asegura claridad y favorece la memorización.",
+          "is_correct": true,
+          "feedback": "El ritmo facilita la recepción oral."
+        },
+        {
+          "letter": "B",
+          "text": "Exclusivamente literaria sin efecto persuasivo.",
+          "is_correct": false,
+          "feedback": "Tiene efecto pragmático."
+        },
+        {
+          "letter": "C",
+          "text": "De complicación estilística innecesaria.",
+          "is_correct": false,
+          "feedback": "Busca eficiencia."
+        },
+        {
+          "letter": "D",
+          "text": "De ambigüedad calculada.",
+          "is_correct": false,
+          "feedback": "Tiende a la claridad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La sintaxis del discurso público está diseñada para ser escuchada y recordada.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.87,
+      "bundle_id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle-v5",
+      "statement": "Un discurso que inicia con \"Ciudadanas y ciudadanos de Colombia\" apela a una estrategia de:",
+      "context": "En Bucaramanga, se estudian estrategias de apertura en discursos políticos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inclusión directa del destinatario para generar sentido de pertenencia y compromiso.",
+          "is_correct": true,
+          "feedback": "Refuerza la identidad compartida."
+        },
+        {
+          "letter": "B",
+          "text": "Distanciamiento técnico del público.",
+          "is_correct": false,
+          "feedback": "Es cercano."
+        },
+        {
+          "letter": "C",
+          "text": "Ataque al adversario desde la primera línea.",
+          "is_correct": false,
+          "feedback": "Es convocatoria."
+        },
+        {
+          "letter": "D",
+          "text": "Confusión deliberada de identidades.",
+          "is_correct": false,
+          "feedback": "Es reconocimiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las estrategias de apelación al nosotros cohesionan la audiencia en torno al orador.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle-v6",
+      "statement": "En un discurso ambiental, la metáfora \"la tierra nos pide socorro\" cumple una función principalmente:",
+      "context": "En clase en Pereira, se trabaja con metáforas de un discurso ambiental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Patética: busca comprometer emocionalmente al oyente con la causa ambiental.",
+          "is_correct": true,
+          "feedback": "Humaniza la naturaleza."
+        },
+        {
+          "letter": "B",
+          "text": "Lógica: presenta datos estadísticos.",
+          "is_correct": false,
+          "feedback": "No es razonamiento."
+        },
+        {
+          "letter": "C",
+          "text": "Técnica: precisa terminología científica.",
+          "is_correct": false,
+          "feedback": "Es cotidiana."
+        },
+        {
+          "letter": "D",
+          "text": "Burocrática: formaliza trámites.",
+          "is_correct": false,
+          "feedback": "Es expresiva."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las metáforas en el discurso público condensan argumentos y movilizan emociones compartidas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.77,
+      "bundle_id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle-v7",
+      "statement": "Cuando un líder estudiantil colombiano dice \"no somos una generación de cristal, somos una generación de propuestas\", la estrategia predominante es:",
+      "context": "En Tunja, se analiza un discurso de un líder estudiantil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Antítesis: refutar un estereotipo y proponer una identidad alternativa.",
+          "is_correct": true,
+          "feedback": "Contrasta dos visiones."
+        },
+        {
+          "letter": "B",
+          "text": "Evasión del tema principal.",
+          "is_correct": false,
+          "feedback": "Asume posición."
+        },
+        {
+          "letter": "C",
+          "text": "Insulto directo al oponente.",
+          "is_correct": false,
+          "feedback": "Es dignificación."
+        },
+        {
+          "letter": "D",
+          "text": "Pregunta retórica sin respuesta.",
+          "is_correct": false,
+          "feedback": "Es afirmación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La antítesis es clave para redefinir marcos y construir nuevas imágenes del nosotros.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle-v8",
+      "statement": "Un discurso sobre la paz total en Colombia que enumera datos de violencia, propuestas y plazos es un ejemplo de:",
+      "context": "En Cúcuta, se estudia un discurso sobre paz total.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argumentación estructurada con datos (logos) y propuesta política concreta.",
+          "is_correct": true,
+          "feedback": "Combina evidencia y plan."
+        },
+        {
+          "letter": "B",
+          "text": "Manipulación emocional sin contenido.",
+          "is_correct": false,
+          "feedback": "Hay sustancia."
+        },
+        {
+          "letter": "C",
+          "text": "Discurso puramente estético.",
+          "is_correct": false,
+          "feedback": "Es funcional."
+        },
+        {
+          "letter": "D",
+          "text": "Narración literaria autobiográfica.",
+          "is_correct": false,
+          "feedback": "Es político."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El logos en el discurso público exige articulación de datos y propuestas verificables.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle-v9",
+      "statement": "¿Qué efecto busca un orador al repetir una consigna al final de cada párrafo?",
+      "context": "En Manizales, se analiza un discurso en plaza pública.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reforzar el núcleo ideológico y facilitar su retención mnémica en la audiencia.",
+          "is_correct": true,
+          "feedback": "La repetición es un recurso mnemotécnico."
+        },
+        {
+          "letter": "B",
+          "text": "Confundir al oyente con información contradictoria.",
+          "is_correct": false,
+          "feedback": "Es orden."
+        },
+        {
+          "letter": "C",
+          "text": "Llenar tiempo de exposición.",
+          "is_correct": false,
+          "feedback": "Es estrategia, no relleno."
+        },
+        {
+          "letter": "D",
+          "text": "Evadir el tema central del discurso.",
+          "is_correct": false,
+          "feedback": "Lo refuerza."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La repetición estratégica organiza la escucha y consolida el mensaje en la memoria colectiva.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle-v10",
+      "statement": "¿Qué criterio es más apropiado para evaluar la eficacia de un discurso sobre educación en Colombia?",
+      "context": "En Armenia, se evalúa la eficacia de un discurso sobre educación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Claridad argumentativa, evidencia pertinente y conexión con las necesidades de la audiencia.",
+          "is_correct": true,
+          "feedback": "Informa la evaluación."
+        },
+        {
+          "letter": "B",
+          "text": "Duración total del discurso sin importar contenido.",
+          "is_correct": false,
+          "feedback": "La extensión no garantiza eficacia."
+        },
+        {
+          "letter": "C",
+          "text": "Cantidad de aplausos sin análisis.",
+          "is_correct": false,
+          "feedback": "Es dato parcial."
+        },
+        {
+          "letter": "D",
+          "text": "Apariencia del orador.",
+          "is_correct": false,
+          "feedback": "Es accesorio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La eficacia retórica combina coherencia interna, sustento empírico y pertinencia social.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle-v11",
+      "statement": "Dos discursos sobre el campo colombiano enfatizan, respectivamente, \"la Colombia profunda olvidada\" y \"la despensa nacional\". Esta diferencia revela principalmente:",
+      "context": "En Popayán, se contrastan dos discursos sobre el campo colombiano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Marcos interpretativos distintos: uno victimiza, otro dignifica productivamente.",
+          "is_correct": true,
+          "feedback": "Son encuadres diferentes del mismo tema."
+        },
+        {
+          "letter": "B",
+          "text": "Datos opuestos verificables.",
+          "is_correct": false,
+          "feedback": "Comparten base empírica."
+        },
+        {
+          "letter": "C",
+          "text": "Cambio total de tema.",
+          "is_correct": false,
+          "feedback": "Hablan del mismo campo."
+        },
+        {
+          "letter": "D",
+          "text": "Inexactitudes totales.",
+          "is_correct": false,
+          "feedback": "Son perspectivas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El encuadre discursivo condiciona la percepción pública de un mismo problema.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle-v12",
+      "statement": "En el análisis pragmático del discurso público, ¿cuál de estos elementos es imprescindible para interpretarlo correctamente?",
+      "context": "En Bogotá, se estudia el contexto de un pronunciamiento público.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El contexto sociohistórico, la audiencia prevista y la intención del emisor.",
+          "is_correct": true,
+          "feedback": "El significado depende del contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Únicamente la longitud del texto.",
+          "is_correct": false,
+          "feedback": "Es dato formal."
+        },
+        {
+          "letter": "C",
+          "text": "La cantidad de figuras retóricas.",
+          "is_correct": false,
+          "feedback": "Es parcial."
+        },
+        {
+          "letter": "D",
+          "text": "La opinión personal del analista sin datos.",
+          "is_correct": false,
+          "feedback": "Sesga el análisis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pragmática integra emisor, contexto, intención y audiencia para fijar el sentido.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle-v13",
+      "statement": "En un discurso público, el uso frecuente de preguntas retóricas como \"¿Qué país queremos?\" cumple principalmente una función:",
+      "context": "En Ibagué, se analiza la sintaxis de un discurso público.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Involucrar al oyente en la reflexión y encuadrar el tema antes de la respuesta argumentativa.",
+          "is_correct": true,
+          "feedback": "Activa la reflexión."
+        },
+        {
+          "letter": "B",
+          "text": "Solicitar respuesta inmediata del público.",
+          "is_correct": false,
+          "feedback": "Es retórica, no diálogo."
+        },
+        {
+          "letter": "C",
+          "text": "Evadir la respuesta del orador.",
+          "is_correct": false,
+          "feedback": "El orador responde."
+        },
+        {
+          "letter": "D",
+          "text": "Confundir al lector con ambigüedad.",
+          "is_correct": false,
+          "feedback": "Aclara."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pregunta retórica abre el campo argumentativo y compromete a la audiencia con el tema.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.63,
+      "bundle_id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle-v14",
+      "statement": "En un discurso electoral, el uso reiterado del término \"cambio\" junto a \"futuro\" y \"esperanza\" construye principalmente:",
+      "context": "En Santa Marta, se evalúa el léxico de un discurso electoral.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un campo semántico prospectivo que orienta expectativas y promesas.",
+          "is_correct": true,
+          "feedback": "Proyecta horizonte."
+        },
+        {
+          "letter": "B",
+          "text": "Un registro técnico administrativo.",
+          "is_correct": false,
+          "feedback": "Es emocional."
+        },
+        {
+          "letter": "C",
+          "text": "Un glosario científico.",
+          "is_correct": false,
+          "feedback": "Es político."
+        },
+        {
+          "letter": "D",
+          "text": "Un léxico judicial.",
+          "is_correct": false,
+          "feedback": "Es de campaña."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los campos semánticos articulan emociones, valores y proyectos compartidos por la audiencia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle-v15",
+      "statement": "Un comunicado que sigue el orden \"contexto, problema, solución, llamado a la acción\" responde a una estructura:",
+      "context": "En Neiva, se compara la estructura de un comunicado institucional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argumentativa-expositiva con cierre pragmático orientado a la acción.",
+          "is_correct": true,
+          "feedback": "Modelo informativo-persuasivo."
+        },
+        {
+          "letter": "B",
+          "text": "Lirica sin función.",
+          "is_correct": false,
+          "feedback": "Es funcional."
+        },
+        {
+          "letter": "C",
+          "text": "Desordenada por completo.",
+          "is_correct": false,
+          "feedback": "Tiene orden."
+        },
+        {
+          "letter": "D",
+          "text": "Enciclopédica neutra sin intención.",
+          "is_correct": false,
+          "feedback": "Tiene intención."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La estructura argumentativa guía la comprensión y predispone a la acción del receptor.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.61,
+      "bundle_id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle-v16",
+      "statement": "¿Qué diferencia central existe entre un discurso de un líder social y un discurso de un funcionario público en Colombia?",
+      "context": "En Pasto, se comparan discursos de líderes sociales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El primero enfatiza la experiencia comunitaria; el segundo, la institucionalidad y la normatividad.",
+          "is_correct": true,
+          "feedback": "Son voces con legitimidades distintas."
+        },
+        {
+          "letter": "B",
+          "text": "Son idénticos en forma y contenido.",
+          "is_correct": false,
+          "feedback": "Difieren en posición."
+        },
+        {
+          "letter": "C",
+          "text": "El funcionario no puede hablar en público.",
+          "is_correct": false,
+          "feedback": "Sí puede."
+        },
+        {
+          "letter": "D",
+          "text": "El líder social solo emite consignas.",
+          "is_correct": false,
+          "feedback": "Argumenta con experiencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La posición enunciativa define la perspectiva, el léxico y la estrategia retórica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle-v17",
+      "statement": "¿Qué criterio ético debe guiar a un orador público en el contexto colombiano actual?",
+      "context": "En un coloquio en Cartagena, se debate sobre la ética discursiva.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Verificabilidad de los datos, respeto a las audiencias y responsabilidad por los efectos del discurso.",
+          "is_correct": true,
+          "feedback": "Es el núcleo de la ética discursiva."
+        },
+        {
+          "letter": "B",
+          "text": "Convencer a cualquier costo sin importar la verdad.",
+          "is_correct": false,
+          "feedback": "Falla éticamente."
+        },
+        {
+          "letter": "C",
+          "text": "Evasión constante de temas sensibles.",
+          "is_correct": false,
+          "feedback": "Elude su función."
+        },
+        {
+          "letter": "D",
+          "text": "Manipulación emocional sin sustento.",
+          "is_correct": false,
+          "feedback": "Es demagogia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ética discursiva articula verdad, responsabilidad y respeto como condiciones mínimas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle-v18",
+      "statement": "¿Por qué un discurso de odio representa un riesgo para la convivencia democrática en Colombia?",
+      "context": "En un foro en Medellín, se analiza el impacto de un discurso de odio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque deshumaniza a grupos vulnerables y puede traducirse en acciones discriminatorias o violentas.",
+          "is_correct": true,
+          "feedback": "Tiene efectos sociales constatables."
+        },
+        {
+          "letter": "B",
+          "text": "Porque entretiene sin más.",
+          "is_correct": false,
+          "feedback": "Sus efectos van más allá."
+        },
+        {
+          "letter": "C",
+          "text": "Porque es inofensivo en contextos polarizados.",
+          "is_correct": false,
+          "feedback": "Perjudica la convivencia."
+        },
+        {
+          "letter": "D",
+          "text": "Porque reduce la participación electoral.",
+          "is_correct": false,
+          "feedback": "No es el principal efecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El discurso de odio vulnera derechos y erosiona la base del diálogo democrático.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.53,
+      "bundle_id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle-v19",
+      "statement": "¿Qué transformación implica la circulación del discurso público en redes sociales?",
+      "context": "En Valledupar, se compara el alcance de un discurso en redes y uno en plaza pública.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acelera la viralización, modifica la autoría y exige nuevos criterios de verificación y responsabilidad.",
+          "is_correct": true,
+          "feedback": "Cambian las condiciones de producción y recepción."
+        },
+        {
+          "letter": "B",
+          "text": "Elimina toda intención retórica.",
+          "is_correct": false,
+          "feedback": "La retórica permanece."
+        },
+        {
+          "letter": "C",
+          "text": "Hace innecesaria la argumentación.",
+          "is_correct": false,
+          "feedback": "Es más necesaria."
+        },
+        {
+          "letter": "D",
+          "text": "Convierte todo en literatura.",
+          "is_correct": false,
+          "feedback": "Predomina la comunicación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El ecosistema digital redefine los modos de producción, circulación y responsabilidad discursiva.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.51,
+      "bundle_id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es el aporte del discurso público a la construcción de paz en Colombia?",
+      "context": "En un cierre en Bogotá, se reflexiona sobre el papel del discurso público en la construcción de paz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Visibilizar conflictos, reconocer víctimas y abrir canales de diálogo entre sectores diversos.",
+          "is_correct": true,
+          "feedback": "Es condición para la convivencia."
+        },
+        {
+          "letter": "B",
+          "text": "Sustituir las políticas públicas.",
+          "is_correct": false,
+          "feedback": "No las reemplaza."
+        },
+        {
+          "letter": "C",
+          "text": "Reducir la participación ciudadana.",
+          "is_correct": false,
+          "feedback": "La amplía."
+        },
+        {
+          "letter": "D",
+          "text": "Promover el silenciamiento general.",
+          "is_correct": false,
+          "feedback": "Estimula la palabra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El discurso público ético es pieza clave para la deliberación democrática y la reconciliación.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Textual",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-2026-W38-discurso-publico-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle-v1",
+      "statement": "¿Qué diferencia principal existe entre una noticia y un editorial?",
+      "context": "Aula de clase en Bogotá: los estudiantes comparan las secciones de un diario de circulación nacional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La noticia informa sobre hechos; el editorial expone la posición argumentada del medio.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el editorial representa la opinión institucional, mientras la noticia busca informar."
+        },
+        {
+          "letter": "B",
+          "text": "La noticia incluye opinión y el editorial se limita a presentar datos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque invierte los papeles: es el editorial el que opina y la noticia la que informa."
+        },
+        {
+          "letter": "C",
+          "text": "Son idénticos en propósito y estructura.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque cumplen funciones distintas y se escriben con criterios diferentes."
+        },
+        {
+          "letter": "D",
+          "text": "El editorial narra sucesos y la noticia los comenta.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la narración de sucesos corresponde a la noticia, no al editorial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la prensa, la información y la opinión se distinguen por su propósito: la noticia relata hechos de interés público, mientras el editorial presenta la postura razonada del medio sobre un tema de actualidad. Reconocer esa diferencia es clave para leer críticamente un diario.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle-v2",
+      "statement": "En una columna de opinión, ¿qué es la tesis?",
+      "context": "Taller de escritura en Medellín: los estudiantes preparan una columna de opinión escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El título llamativo de la publicación.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el título es una etiqueta del texto, no la idea que se defiende."
+        },
+        {
+          "letter": "B",
+          "text": "La idea central y debatible que el autor defiende a lo largo del texto.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la tesis es la afirmación que articula y orienta toda la argumentación."
+        },
+        {
+          "letter": "C",
+          "text": "La firma del columnista al final del texto.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la firma identifica al autor, pero no expone su postura."
+        },
+        {
+          "letter": "D",
+          "text": "El resumen de la sección deportiva del diario.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la tesis pertenece al texto argumentativo y no a otra sección del periódico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tesis es el corazón de un texto argumentativo: una afirmación discutible que el autor sostiene y respalda con razones. Localizarla permite entender de qué se habla y qué se quiere demostrar.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.89,
+      "bundle_id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el propósito comunicativo de un editorial?",
+      "context": "Lectura guiada de un editorial en Cali sobre el transporte público.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Orientar la opinión del lector mediante argumentos sobre un asunto de interés público.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el editorial busca persuadir y formar criterio frente a un tema de actualidad."
+        },
+        {
+          "letter": "B",
+          "text": "Informar de manera objetiva, sin ninguna valoración.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el editorial es, por definición, un texto valorativo y argumentado."
+        },
+        {
+          "letter": "C",
+          "text": "Publicar avisos clasificados de la edición.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los clasificados cumplen una función comercial, ajena al editorial."
+        },
+        {
+          "letter": "D",
+          "text": "Entretener con acertijos y pasatiempos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el editorial es un texto de análisis y no una sección de entretenimiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El editorial cumple una función de orientación: interpreta los hechos y propone una posición para que el lector forme su criterio. Su fuerza está en la argumentación, no en la simple transmisión de datos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle-v4",
+      "statement": "¿Qué rasgo es propio de la columna de opinión?",
+      "context": "Análisis de géneros periodísticos en Barranquilla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La neutralidad absoluta y la ausencia de valoraciones.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la columna se caracteriza por la voz y la postura explícitas del autor."
+        },
+        {
+          "letter": "B",
+          "text": "La obligación de ocultar el nombre del autor.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la columna se firma y la identidad del autor es parte de su valor."
+        },
+        {
+          "letter": "C",
+          "text": "La presencia explícita de la voz y la subjetividad del autor, con un estilo personal.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la columna expresa el punto de vista de quien la firma, con sello propio."
+        },
+        {
+          "letter": "D",
+          "text": "La descripción de datos sin ninguna interpretación.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la interpretación y la valoración son el eje del género de opinión."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La columna de opinión es un género subjetivo: lleva la firma de su autor y expresa una mirada personal sobre los hechos. Su valor no radica en la neutralidad, sino en la originalidad del análisis y del estilo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.87,
+      "bundle_id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle-v5",
+      "statement": "¿Qué enunciado funciona como argumento y no como simple opinión?",
+      "context": "Taller de argumentación en Bucaramanga: distinguir razones de simples opiniones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Ese alcalde me cae mal.\"",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque expresa un gusto personal sin aportar razones verificables."
+        },
+        {
+          "letter": "B",
+          "text": "\"Creo que las cosas deberían mejorar.\"",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque es un deseo general sin evidencia ni fundamento."
+        },
+        {
+          "letter": "C",
+          "text": "\"Según el informe de la Contraloría, el gasto en infraestructura creció 20 % mientras la obra permaneció detenida.\"",
+          "is_correct": true,
+          "feedback": "Es correcta porque aporta un dato verificable de una fuente y lo relaciona con un hecho."
+        },
+        {
+          "letter": "D",
+          "text": "\"Todo el mundo piensa igual que yo.\"",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque apela a una supuesta mayoría sin presentar pruebas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un argumento se distingue de una opinión porque aporta razones verificables: datos, informes, cifras o hechos comprobables. La opinión, en cambio, expresa una preferencia o un juicio sin sustento. En el editorial, la fuerza persuasiva depende de la calidad de los argumentos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle-v6",
+      "statement": "¿Para qué sirve un contraargumento en un editorial?",
+      "context": "Debate en Pereira: un columnista anticipa las críticas a su propuesta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para anticipar y refutar la posición opuesta, fortaleciendo la propia tesis.",
+          "is_correct": true,
+          "feedback": "Es correcta porque reconocer y responder a la objeción vuelve más sólida la argumentación."
+        },
+        {
+          "letter": "B",
+          "text": "Para confesar que el autor no tiene razón.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el contraargumento se refuta; no implica aceptar la derrota."
+        },
+        {
+          "letter": "C",
+          "text": "Para rellenar espacio sin aportar nada al texto.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el contraargumento cumple una función lógica precisa."
+        },
+        {
+          "letter": "D",
+          "text": "Para cambiar de tema sin ninguna justificación.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el contraargumento debe mantenerse dentro del asunto discutido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Incluir el contraargumento es una estrategia de solidez: el autor muestra que conoce la objeción y la responde. Así demuestra que su tesis resiste el debate y no es un simple prejuicio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.79,
+      "bundle_id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle-v7",
+      "statement": "Un titular que presenta a un grupo como \"los violentos\" sin matices evidencia:",
+      "context": "Análisis de titulares en Manizales: se estudia cómo el lenguaje orienta la lectura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un rigor documental impecable.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la etiqueta totalizante no aporta datos ni verificación."
+        },
+        {
+          "letter": "B",
+          "text": "Una completa neutralidad informativa.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque generalizar y estigmatizar es lo contrario de la neutralidad."
+        },
+        {
+          "letter": "C",
+          "text": "Un sesgo que estigmatiza y simplifica la realidad, orientando la opinión del lector.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la generalización configura una imagen negativa del grupo y condiciona la lectura."
+        },
+        {
+          "letter": "D",
+          "text": "Un recurso exclusivamente humorístico.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no hay marca de humor y el efecto es estigmatizante."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El sesgo aparece cuando el lenguaje simplifica o estigmatiza: una etiqueta totalizante borra matices y orienta la opinión del lector. Detectar estos usos es parte de una lectura crítica de la prensa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle-v8",
+      "statement": "El autor escribe: \"Felicitaciones al funcionario que, con tanto esfuerzo, logró no hacer nada en cuatro años.\" ¿Qué recurso emplea?",
+      "context": "Columna satírica leída en Quibdó sobre la gestión pública local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La admiración sincera por la labor cumplida.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el elogio es aparente y esconde una crítica."
+        },
+        {
+          "letter": "B",
+          "text": "La ironía, para criticar mediante el elogio aparente.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la contradicción entre lo dicho y lo querido decir produce el efecto irónico."
+        },
+        {
+          "letter": "C",
+          "text": "Una instrucción técnica para mejorar la gestión.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no hay ningún procedimiento ni recomendación técnica."
+        },
+        {
+          "letter": "D",
+          "text": "Una cita textual de un informe oficial.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque se trata de una elaboración del columnista, no de una fuente citada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ironía consiste en decir lo contrario de lo que se quiere significar. En la columna de opinión, este recurso moviliza la complicidad del lector y permite criticar con mayor fuerza aquello que aparenta elogiar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.77,
+      "bundle_id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle-v9",
+      "statement": "Un editorial denuncia la demora en la entrega de medicamentos. ¿Cuál es su intención probable?",
+      "context": "Editorial de Pasto sobre la demora en la entrega de medicamentos a pacientes crónicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Promocionar una farmacia específica de la ciudad.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el editorial no persigue fines comerciales."
+        },
+        {
+          "letter": "B",
+          "text": "Presionar a las autoridades y generar conciencia ciudadana mediante la denuncia argumentada.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el medio busca incidir en el debate público y exigir respuestas."
+        },
+        {
+          "letter": "C",
+          "text": "Vender seguros médicos a los lectores.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la denuncia no es una estrategia publicitaria."
+        },
+        {
+          "letter": "D",
+          "text": "Describir un viaje de vacaciones por la región.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el asunto es la salud y no el turismo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El editorial de denuncia busca incidir en la agenda pública: visibiliza un problema, exige responsabilidades y orienta la opinión ciudadana. Su intención es persuasiva y pública, no comercial.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál enunciado es un hecho verificable y no una opinión?",
+      "context": "Taller en Santa Marta: separar hechos de opiniones en un texto periodístico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"El Índice de Precios al Consumidor subió 0,5 % en el mes de marzo.\"",
+          "is_correct": true,
+          "feedback": "Es correcta porque es un dato medible y comprobable estadísticamente."
+        },
+        {
+          "letter": "B",
+          "text": "\"El gobierno es el peor de la historia.\"",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque es una valoración subjetiva que no puede medirse."
+        },
+        {
+          "letter": "C",
+          "text": "\"La ciudad está cada vez más fea.\"",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque expresa un juicio estético personal."
+        },
+        {
+          "letter": "D",
+          "text": "\"Los jóvenes de hoy no leen.\"",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque es una generalización sin datos que la respalden."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Distinguir hechos de opiniones es una operación básica de la lectura crítica. Los hechos son verificables y medibles; las opiniones expresan juicios de valor. Confundirlos facilita la manipulación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle-v11",
+      "statement": "¿Qué debilita la solidez de un argumento en una columna de opinión?",
+      "context": "Seminario en Villavicencio: se evalúa la solidez de un editorial económico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Citar informes verificables de entidades competentes.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las fuentes verificables fortalecen el argumento."
+        },
+        {
+          "letter": "B",
+          "text": "Reconocer los límites de la propia posición.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la autocrítica es una señal de rigor, no de debilidad."
+        },
+        {
+          "letter": "C",
+          "text": "Basarse en generalizaciones sin datos ni fuentes que las respalden.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la generalización sin evidencia deja el argumento sin sustento."
+        },
+        {
+          "letter": "D",
+          "text": "Definir con claridad los términos empleados.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la precisión conceptual refuerza la argumentación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un argumento es sólido cuando sus premisas se apoyan en evidencia y sus conceptos son claros. Las generalizaciones infundadas, en cambio, debilitan la tesis porque no ofrecen razones que la sostengan.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle-v12",
+      "statement": "Dos editoriales de distintos medios interpretan la misma reforma de manera opuesta. ¿Qué explica esta diferencia?",
+      "context": "Comparación de dos diarios de Bogotá que interpretan de forma opuesta una reforma tributaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La línea editorial e ideológica de cada medio, que orienta su lectura de los hechos.",
+          "is_correct": true,
+          "feedback": "Es correcta porque cada medio selecciona y valora los hechos desde su propia perspectiva."
+        },
+        {
+          "letter": "B",
+          "text": "Que uno de los dos medios no sabe leer.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la discrepancia responde a criterios ideológicos, no a incapacidad lectora."
+        },
+        {
+          "letter": "C",
+          "text": "Que los hechos no existieron realmente.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los hechos son los mismos; lo que cambia es su interpretación."
+        },
+        {
+          "letter": "D",
+          "text": "Que la reforma cambió de contenido entre una edición y otra.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la diferencia está en la lectura, no en un cambio del objeto comentado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los medios no son neutrales: tienen líneas editoriales que orientan qué hechos destacan y cómo los valoran. Comparar editoriales de distintos diarios permite reconocer esos marcos ideológicos y formar un juicio propio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.69,
+      "bundle_id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle-v13",
+      "statement": "¿Qué efecto busca el columnista al abrir con una anécdota personal?",
+      "context": "Análisis en Cartagena: una columna abre con una anécdota personal antes de exponer su tesis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ocultar su verdadera opinión frente al lector.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la anécdota prepara la exposición de la tesis, no la esconde."
+        },
+        {
+          "letter": "B",
+          "text": "Captar la atención y crear cercanía con el lector para disponerlo a aceptar su argumentación.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la experiencia personal genera empatía y facilita la adhesión al punto de vista."
+        },
+        {
+          "letter": "C",
+          "text": "Evitar tener que usar cualquier argumento.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la anécdota es un recurso de entrada, pero la argumentación continúa."
+        },
+        {
+          "letter": "D",
+          "text": "Confundir al lector con datos falsos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el propósito es persuasivo y no desinformativo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La anécdota inicial es un recurso retórico: crea cercanía emocional y prepara al lector para recibir la tesis. Reconocer estas estrategias permite distinguir el contenido argumentativo del efecto persuasivo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle-v14",
+      "statement": "Conectores como \"sin embargo\", \"por lo tanto\" y \"en consecuencia\" en un editorial cumplen la función de:",
+      "context": "Taller en Montería: se estudian los conectores de un editorial sobre educación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Adornar el texto sin ningún sentido lógico.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los conectores tienen una función precisa en la organización de las ideas."
+        },
+        {
+          "letter": "B",
+          "text": "Articular lógicamente las ideas y evidenciar la relación entre premisas y conclusión.",
+          "is_correct": true,
+          "feedback": "Es correcta porque los conectores señalan contraste, causa o consecuencia dentro del razonamiento."
+        },
+        {
+          "letter": "C",
+          "text": "Repetir exactamente la misma idea.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque cada conector introduce una relación distinta entre los enunciados."
+        },
+        {
+          "letter": "D",
+          "text": "Indicar únicamente el final del texto.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque solo algunos conectores marcan el cierre; otros señalan contraste o causa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los conectores argumentativos son las bisagras del razonamiento: indican si una idea se opone, se deriva o se concluye de otra. Identificarlos permite reconstruir la estructura lógica del editorial.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.67,
+      "bundle_id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle-v15",
+      "statement": "Expresiones como \"daño colateral\" para referirse a víctimas civiles son un ejemplo de:",
+      "context": "Análisis de titulares en Neiva sobre un conflicto social.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un eufemismo que atenúa la responsabilidad y puede manipular la percepción del lector.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el eufemismo suaviza un hecho grave y oculta a los responsables."
+        },
+        {
+          "letter": "B",
+          "text": "Una descripción técnica neutral.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la expresión no es neutral: minimiza el daño causado a personas."
+        },
+        {
+          "letter": "C",
+          "text": "Una figura exclusivamente poética.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque su uso es retórico y político, no poético."
+        },
+        {
+          "letter": "D",
+          "text": "Una cita textual de un diccionario.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque se trata de una fórmula de uso periodístico, no de una definición léxica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El eufemismo sustituye un término duro por otro más suave, y con ello puede diluir responsabilidades. En la prensa, detectar estos usos es esencial para no aceptar sin examen el marco que propone el medio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle-v16",
+      "statement": "\"Si no apoyas esta medida, estás en contra de la paz.\" ¿Qué tipo de falacia se presenta?",
+      "context": "Debate en Armenia sobre las falacias del discurso público.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un argumento de autoridad bien fundado.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no se cita ninguna autoridad ni evidencia."
+        },
+        {
+          "letter": "B",
+          "text": "Una falsa dicotomía que reduce las opciones a dos extremos.",
+          "is_correct": true,
+          "feedback": "Es correcta porque presenta solo dos alternativas y elimina cualquier posición intermedia."
+        },
+        {
+          "letter": "C",
+          "text": "Una estadística rigurosa.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no se ofrecen datos ni mediciones."
+        },
+        {
+          "letter": "D",
+          "text": "Una definición conceptual precisa.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la frase no define ningún concepto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La falsa dicotomía obliga a elegir entre dos extremos, ocultando las alternativas. Reconocer esta falacia es fundamental para evaluar con rigor los argumentos que circulan en la opinión pública.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle-v17",
+      "statement": "Una columna afirma que \"los medios siempre mienten\". ¿Cuál es la evaluación más razonable?",
+      "context": "Ensayo en Sincelejo: se analiza una columna que desconfía de todos los medios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es absolutamente cierta y no admite discusión.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la generalización absoluta no resiste el análisis: hay información verificable."
+        },
+        {
+          "letter": "B",
+          "text": "Es una generalización excesiva: los medios pueden tener sesgos e intereses, pero también producen información verificable que debe evaluarse caso por caso.",
+          "is_correct": true,
+          "feedback": "Es correcta porque reconoce los sesgos posibles sin caer en la descalificación total."
+        },
+        {
+          "letter": "C",
+          "text": "Es falsa, porque los medios nunca se equivocan.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque afirmar la infalibilidad de los medios es tan extremo como negarlos por completo."
+        },
+        {
+          "letter": "D",
+          "text": "Es irrelevante, porque nadie lee prensa.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la prensa sigue teniendo un papel central en el debate público."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La desconfianza total y la confianza ciega son dos extremos igualmente acríticos. Una evaluación razonable reconoce que los medios pueden tener sesgos, pero también que producen información verificable que debe examinarse en cada caso.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle-v18",
+      "statement": "¿Qué posición defiende mejor el equilibrio entre libertad de prensa y responsabilidad?",
+      "context": "Coloquio en Bogotá: se debate el equilibrio entre libertad de prensa y responsabilidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La libertad de prensa es un pilar democrático que exige, a la vez, rigor, transparencia y rectificación ante los errores.",
+          "is_correct": true,
+          "feedback": "Es correcta porque articula la libertad con la responsabilidad ética y profesional."
+        },
+        {
+          "letter": "B",
+          "text": "La prensa debe publicar sin verificar para ser más rápida.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la velocidad sin verificación propaga errores y desinformación."
+        },
+        {
+          "letter": "C",
+          "text": "La libertad de prensa debe eliminarse para evitar errores.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque suprimirla atenta contra un derecho fundamental y la democracia."
+        },
+        {
+          "letter": "D",
+          "text": "Los medios no tienen ninguna responsabilidad ética.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque su poder de influencia implica deberes frente a la sociedad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La libertad de prensa y la responsabilidad no se oponen: se necesitan. Un periodismo libre pero riguroso, transparente y dispuesto a rectificar fortalece la democracia y la confianza de los ciudadanos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.59,
+      "bundle_id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle-v19",
+      "statement": "¿Qué actitud caracteriza a un lector crítico de la prensa de opinión?",
+      "context": "Taller de alfabetización mediática en Florencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aceptar como verdad todo lo que se publica.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la aceptación acrítica impide detectar sesgos y errores."
+        },
+        {
+          "letter": "B",
+          "text": "Contrastar varias fuentes, identificar los intereses del medio y distinguir hechos de valoraciones.",
+          "is_correct": true,
+          "feedback": "Es correcta porque esas tres operaciones permiten formar un juicio informado y autónomo."
+        },
+        {
+          "letter": "C",
+          "text": "Rechazar de antemano toda opinión ajena.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el rechazo previo impide comprender y evaluar los argumentos."
+        },
+        {
+          "letter": "D",
+          "text": "Leer solo los titulares sin analizarlos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el titular es una síntesis orientada que no reemplaza la lectura del texto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La lectura crítica de la prensa combina varias operaciones: contrastar fuentes, reconocer los intereses del medio y separar hechos de opiniones. Así el lector deja de ser receptor pasivo y se convierte en intérprete autónomo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle-v20",
+      "statement": "¿Qué síntesis expresa mejor la función del editorial en una democracia?",
+      "context": "Cierre de periodo en Medellín: síntesis sobre el papel del editorial en la democracia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sustituir a los jueces en la toma de decisiones sobre los conflictos sociales.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el editorial orienta la opinión, pero no ejerce funciones judiciales."
+        },
+        {
+          "letter": "B",
+          "text": "Ofrecer una interpretación argumentada de los asuntos públicos que contribuye al debate ciudadano cuando se ejerce con rigor y apertura.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el editorial aporta análisis y perspectivas que enriquecen la deliberación democrática."
+        },
+        {
+          "letter": "C",
+          "text": "Publicar únicamente publicidad institucional.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la publicidad no cumple la función argumentativa del editorial."
+        },
+        {
+          "letter": "D",
+          "text": "Repetir sin análisis los comunicados oficiales.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la mera repetición no aporta interpretación ni criterio a los lectores."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En una democracia, el editorial contribuye al debate público cuando interpreta con argumentos los asuntos colectivos y ayuda a los ciudadanos a formarse un criterio. Su valor depende del rigor, la transparencia y la disposición a reconocer otras posiciones.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.57,
+      "bundle_id": "CO-LC-11-2026-W38-editorial-opinion-prensa-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

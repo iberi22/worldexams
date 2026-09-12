@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-20-grade-5-subject-ingles",
+    "generated_at": "2026-09-12T15:41:45.197Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-5-2026-W20-directions-city-places-001-MASTERY-bundle-v1",
+      "statement": "Which word is the opposite of \"turn left\"?",
+      "context": "In Cartagena, a tourist asks a student how to find the museum.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Go straight.",
+          "is_correct": false,
+          "feedback": "\"Go straight\" means to continue forward, not the opposite of \"turn left\"."
+        },
+        {
+          "letter": "B",
+          "text": "Turn right.",
+          "is_correct": true,
+          "feedback": "\"Turn right\" is the opposite direction of \"turn left\"."
+        },
+        {
+          "letter": "C",
+          "text": "Next to.",
+          "is_correct": false,
+          "feedback": "\"Next to\" is a location phrase, not a direction opposite to \"left\"."
+        },
+        {
+          "letter": "D",
+          "text": "Stop.",
+          "is_correct": false,
+          "feedback": "\"Stop\" means to halt, not the opposite of \"turn left\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Direction words come in pairs: left and right, up and down, forward and back. Knowing the opposite of \"turn left\" helps students understand and give directions.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-5-2026-W20-directions-city-places-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W20-directions-city-places-001-MASTERY-bundle-v2",
+      "statement": "What does \"next to\" mean in this sentence?",
+      "context": "In Bogota, a student reads a line in a dialogue: \"The park is next to the church.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Far away from.",
+          "is_correct": false,
+          "feedback": "\"Far away from\" is the opposite of \"next to\"."
+        },
+        {
+          "letter": "B",
+          "text": "Inside.",
+          "is_correct": false,
+          "feedback": "\"Inside\" describes being within something, not beside it."
+        },
+        {
+          "letter": "C",
+          "text": "Beside or very close to.",
+          "is_correct": true,
+          "feedback": "\"Next to\" means one place is beside or very close to another."
+        },
+        {
+          "letter": "D",
+          "text": "Above.",
+          "is_correct": false,
+          "feedback": "\"Above\" describes a higher position, not a position beside."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Location phrases such as \"next to\", \"in front of\", \"between\" and \"behind\" describe where a place is. \"Next to\" means the two places are side by side.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-ING-5-2026-W20-directions-city-places-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W20-directions-city-places-001-MASTERY-bundle-v3",
+      "statement": "Which instruction correctly guides the visitor to the museum?",
+      "context": "In Medellin, a visitor wants to go from the plaza to the museum. The museum is two blocks ahead on the same street.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Go straight for two blocks; the museum is on your right.",
+          "is_correct": true,
+          "feedback": "\"Go straight\" tells the person to continue ahead to reach the place."
+        },
+        {
+          "letter": "B",
+          "text": "Turn left and stop at the first house.",
+          "is_correct": false,
+          "feedback": "The museum is straight ahead, so turning left would lead the wrong way."
+        },
+        {
+          "letter": "C",
+          "text": "Go back home and take a taxi tomorrow.",
+          "is_correct": false,
+          "feedback": "This does not give directions to the museum at that moment."
+        },
+        {
+          "letter": "D",
+          "text": "Cross the sea and look for a boat.",
+          "is_correct": false,
+          "feedback": "The museum is on the same street, so this instruction is not useful."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Good directions use clear steps and landmarks: \"Go straight for two blocks\" tells the distance and \"on your right\" tells the side. This helps the listener find the place easily.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.82,
+      "bundle_id": "CO-ING-5-2026-W20-directions-city-places-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W20-directions-city-places-001-MASTERY-bundle-v4",
+      "statement": "According to the dialogue, where is the beach?",
+      "context": "In Cartagena, read the dialogue: \"Excuse me, where is the beach?\" \"Go straight and turn right at the church. The beach is in front of the park.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Behind the church.",
+          "is_correct": false,
+          "feedback": "The directions say to turn right at the church, not that the beach is behind it."
+        },
+        {
+          "letter": "B",
+          "text": "Next to the museum.",
+          "is_correct": false,
+          "feedback": "The museum is not mentioned in the dialogue."
+        },
+        {
+          "letter": "C",
+          "text": "Inside the church.",
+          "is_correct": false,
+          "feedback": "A beach is outdoors; the dialogue places it in front of the park."
+        },
+        {
+          "letter": "D",
+          "text": "In front of the park.",
+          "is_correct": true,
+          "feedback": "The dialogue says the beach is in front of the park."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Reading directions carefully means following the order of the steps and identifying the final landmark. The dialogue tells us the beach is in front of the park.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-5-2026-W20-directions-city-places-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W20-directions-city-places-001-MASTERY-bundle-v5",
+      "statement": "Where is the supermarket?",
+      "context": "In Pereira, Tom is at the corner and wants to reach the supermarket. Read: \"Turn left, go straight for one block, and the supermarket is next to the bank.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Behind Tom's house.",
+          "is_correct": false,
+          "feedback": "The directions do not mention Tom's house."
+        },
+        {
+          "letter": "B",
+          "text": "Inside the bank.",
+          "is_correct": false,
+          "feedback": "The supermarket is next to the bank, not inside it."
+        },
+        {
+          "letter": "C",
+          "text": "Next to the bank.",
+          "is_correct": true,
+          "feedback": "The directions state that the supermarket is next to the bank."
+        },
+        {
+          "letter": "D",
+          "text": "Across the river.",
+          "is_correct": false,
+          "feedback": "The river is not mentioned in the directions."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Following directions step by step helps locate a place. In this case, after turning left and going one block, the supermarket is found next to the bank.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.74,
+      "bundle_id": "CO-ING-5-2026-W20-directions-city-places-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W20-directions-city-places-001-MASTERY-bundle-v6",
+      "statement": "Which place is between the museum and the church?",
+      "context": "In Cartagena, read: \"The hotel is between the museum and the church. The church is next to the park.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The hotel.",
+          "is_correct": true,
+          "feedback": "The text directly says the hotel is between the museum and the church."
+        },
+        {
+          "letter": "B",
+          "text": "The park.",
+          "is_correct": false,
+          "feedback": "The park is next to the church, not between the museum and the church."
+        },
+        {
+          "letter": "C",
+          "text": "The beach.",
+          "is_correct": false,
+          "feedback": "The beach is not mentioned in these directions."
+        },
+        {
+          "letter": "D",
+          "text": "The bank.",
+          "is_correct": false,
+          "feedback": "The bank is not mentioned in this text."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Location phrases show the position of places. \"Between\" tells us the hotel is in the middle, with the museum on one side and the church on the other.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-5-2026-W20-directions-city-places-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W20-directions-city-places-001-MASTERY-bundle-v7",
+      "statement": "Why are the directions incomplete?",
+      "context": "In Bucaramanga, a student writes: \"Go straight, turn left, go straight, turn right, go straight.\" The teacher says the directions are incomplete.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Because they use too many verbs.",
+          "is_correct": false,
+          "feedback": "Using several direction verbs is normal; the problem is a missing destination."
+        },
+        {
+          "letter": "B",
+          "text": "Because they are written in Spanish.",
+          "is_correct": false,
+          "feedback": "The directions are in English, so this is not the issue."
+        },
+        {
+          "letter": "C",
+          "text": "Because \"turn right\" is not a real direction.",
+          "is_correct": false,
+          "feedback": "\"Turn right\" is a valid direction, so this is not the problem."
+        },
+        {
+          "letter": "D",
+          "text": "Because they do not name the final place or a landmark to know when to stop.",
+          "is_correct": true,
+          "feedback": "Directions need a destination or landmark so the listener knows where to arrive."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Complete directions include a destination or a landmark. Without a final place to recognize, the listener cannot know when to stop, even if every step is correct.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.66,
+      "bundle_id": "CO-ING-5-2026-W20-directions-city-places-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W20-directions-city-places-001-MASTERY-bundle-v8",
+      "statement": "Which set of directions is the clearest and most complete?",
+      "context": "In Medellin, a student must give clear directions from the school to the park: go straight one block, turn left, and the park is next to the church.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"The park is somewhere near here, just walk around.\"",
+          "is_correct": false,
+          "feedback": "This is vague and does not give steps the listener can follow."
+        },
+        {
+          "letter": "B",
+          "text": "\"Go straight one block, turn left, and the park is next to the church.\"",
+          "is_correct": true,
+          "feedback": "It gives a clear order of steps and a landmark to identify the park."
+        },
+        {
+          "letter": "C",
+          "text": "\"Turn left, turn right, turn left again, and maybe you will find it.\"",
+          "is_correct": false,
+          "feedback": "Too many turns and no landmark make these directions confusing."
+        },
+        {
+          "letter": "D",
+          "text": "\"The park is not important; ask another person.\"",
+          "is_correct": false,
+          "feedback": "This does not answer the question or help the listener reach the park."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The best directions are short, ordered and connected to a landmark. \"Go straight one block, turn left, and the park is next to the church\" tells the listener exactly what to do and how to recognize the place.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.62,
+      "bundle_id": "CO-ING-5-2026-W20-directions-city-places-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

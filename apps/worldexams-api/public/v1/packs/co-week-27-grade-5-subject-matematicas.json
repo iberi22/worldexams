@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-27-grade-5-subject-matematicas",
+    "generated_at": "2026-09-12T15:41:45.217Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-5-2026-W27-decimales-comparacion-orden-recta-001-MASTERY-bundle-v1",
+      "statement": "¿Cómo se lee el número decimal 0,35?",
+      "context": "En una clase de matemáticas en Ciénaga, la profesora explica cómo se leen los números decimales usando precios de la tienda del pueblo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Treinta y cinco centésimas.",
+          "is_correct": true,
+          "feedback": "El número 0,35 tiene 35 centésimas y se lee de esa forma."
+        },
+        {
+          "letter": "B",
+          "text": "Treinta y cinco unidades.",
+          "is_correct": false,
+          "feedback": "Las unidades aparecen a la izquierda de la coma, no a la derecha."
+        },
+        {
+          "letter": "C",
+          "text": "Treinta y cinco décimas.",
+          "is_correct": false,
+          "feedback": "Las décimas son el primer dígito después de la coma; 0,35 tiene dos."
+        },
+        {
+          "letter": "D",
+          "text": "Tres coma treinta y cinco.",
+          "is_correct": false,
+          "feedback": "La forma correcta es \"treinta y cinco centésimas\", no \"tres coma treinta y cinco\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer la lectura de números decimales hasta las centésimas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-5-2026-W27-decimales-comparacion-orden-recta-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W27-decimales-comparacion-orden-recta-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué en una recta numérica los números decimales se ordenan de menor a mayor hacia la derecha?",
+      "context": "Lee: \"En la recta numérica, los números se ubican de menor a mayor de izquierda a derecha. Cada marca equidistante representa el mismo valor.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la recta numérica convencional crece hacia la derecha y cada marca equidistante suma el mismo valor.",
+          "is_correct": true,
+          "feedback": "La convención de la recta es crecer hacia la derecha."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los números negativos van siempre a la derecha.",
+          "is_correct": false,
+          "feedback": "Los números negativos, cuando aparecen, van a la izquierda del cero."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los números decimales no se pueden ubicar en una recta.",
+          "is_correct": false,
+          "feedback": "Los decimales sí se pueden representar como puntos en la recta."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la dirección de la recta cambia según el número.",
+          "is_correct": false,
+          "feedback": "La dirección de la recta es siempre la misma: crece hacia la derecha."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender la convención de la recta numérica para ubicar números decimales.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-5-2026-W27-decimales-comparacion-orden-recta-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W27-decimales-comparacion-orden-recta-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el orden correcto, de menor a mayor, de esos precios?",
+      "context": "Un estudiante de Pereira compara los precios de tres cuadernos: 0,5; 0,45 y 0,6 miles de pesos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,45 < 0,5 < 0,6.",
+          "is_correct": true,
+          "feedback": "0,45 centésimas es menor que 0,5 (que equivale a 0,50) y ambos son menores que 0,6."
+        },
+        {
+          "letter": "B",
+          "text": "0,5 < 0,45 < 0,6.",
+          "is_correct": false,
+          "feedback": "0,5 equivale a 0,50, que es mayor que 0,45."
+        },
+        {
+          "letter": "C",
+          "text": "0,6 < 0,45 < 0,5.",
+          "is_correct": false,
+          "feedback": "0,6 es el mayor de los tres, no el menor."
+        },
+        {
+          "letter": "D",
+          "text": "0,45 < 0,6 < 0,5.",
+          "is_correct": false,
+          "feedback": "0,5 = 0,50 y es mayor que 0,45, no menor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la comparación de decimales para ordenarlos de menor a mayor.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-5-2026-W27-decimales-comparacion-orden-recta-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W27-decimales-comparacion-orden-recta-001-MASTERY-bundle-v4",
+      "statement": "¿En qué posición de la recta se ubica correctamente el número 0,7?",
+      "context": "En una recta dividida en diez partes iguales entre 0 y 1, una estudiante debe ubicar el número 0,7.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la séptima marca a partir del cero, contando diez partes iguales hasta el 1.",
+          "is_correct": true,
+          "feedback": "0,7 está a siete décimas de 0, en la recta dividida en diez partes iguales."
+        },
+        {
+          "letter": "B",
+          "text": "En la primera marca después del cero, porque 0,7 es casi 0.",
+          "is_correct": false,
+          "feedback": "0,7 es mucho mayor que 0,1; no puede estar en la primera marca."
+        },
+        {
+          "letter": "C",
+          "text": "En la última marca antes del 2, porque 0,7 es casi 2.",
+          "is_correct": false,
+          "feedback": "La recta mostrada va de 0 a 1, no de 0 a 2."
+        },
+        {
+          "letter": "D",
+          "text": "Exactamente sobre el 1, porque 0,7 es casi 1.",
+          "is_correct": false,
+          "feedback": "0,7 está antes del 1, no sobre el 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la equivalencia entre décimas y posiciones en la recta numérica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.83,
+      "bundle_id": "CO-MAT-5-2026-W27-decimales-comparacion-orden-recta-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W27-decimales-comparacion-orden-recta-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál de las dos cantidades es mayor?",
+      "context": "Lee: \"En la frutería de Santa Marta, la balanza marca 0,75 kg de mangos para un cliente y 0,7 kg para otro.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,75 kg es mayor que 0,7 kg.",
+          "is_correct": true,
+          "feedback": "0,75 equivale a 75 centésimas y 0,7 equivale a 70 centésimas, por lo tanto 0,75 > 0,7."
+        },
+        {
+          "letter": "B",
+          "text": "0,7 kg es mayor que 0,75 kg.",
+          "is_correct": false,
+          "feedback": "Al convertir a centésimas, 0,7 = 0,70, que es menor que 0,75."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos cantidades son iguales.",
+          "is_correct": false,
+          "feedback": "0,7 y 0,75 no son iguales, aunque se parecen."
+        },
+        {
+          "letter": "D",
+          "text": "No se pueden comparar porque son decimales distintos.",
+          "is_correct": false,
+          "feedback": "Todos los decimales se pueden comparar al igualar las cifras decimales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la comparación de decimales con distinta cantidad de cifras decimales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-5-2026-W27-decimales-comparacion-orden-recta-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W27-decimales-comparacion-orden-recta-001-MASTERY-bundle-v6",
+      "statement": "¿Qué tienen en común y en qué se diferencian los argumentos de los dos estudiantes?",
+      "context": "Compara: \"Un estudiante dice que 0,6 es mayor que 0,54 porque el primer decimal es 6, que es mayor que 5. Otro estudiante dice que hay que comparar los dos decimales completos.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos usan la primera cifra decimal, pero comparar todo el número (0,60 contra 0,54) confirma que 0,6 es mayor.",
+          "is_correct": true,
+          "feedback": "Al completar las cifras se confirma la comparación inicial sin error."
+        },
+        {
+          "letter": "B",
+          "text": "El segundo estudiante está equivocado porque solo importa la primera cifra.",
+          "is_correct": false,
+          "feedback": "Comparar el número completo es la estrategia más segura."
+        },
+        {
+          "letter": "C",
+          "text": "El primer estudiante está equivocado porque 0,54 es mayor que 0,6.",
+          "is_correct": false,
+          "feedback": "0,6 equivale a 0,60, que sí es mayor que 0,54."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno de los dos analiza nada, simplemente adivina.",
+          "is_correct": false,
+          "feedback": "Ambos estudiantes usan estrategias válidas de comparación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar estrategias de comparación de decimales con igual y diferente número de cifras.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-MAT-5-2026-W27-decimales-comparacion-orden-recta-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W27-decimales-comparacion-orden-recta-001-MASTERY-bundle-v7",
+      "statement": "¿Qué tan adecuada es la ubicación de 0,3 en la recta descrita?",
+      "context": "Lee: \"Una recta numérica muestra las marcas 0,0; 0,25; 0,5; 0,75 y 1,0 divididas en partes iguales. Un estudiante ubica 0,3 entre 0,25 y 0,5, más cerca de 0,25.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es adecuada, porque 0,3 está entre 0,25 y 0,5 y más cerca de 0,25.",
+          "is_correct": true,
+          "feedback": "0,3 es 0,05 mayor que 0,25 y 0,2 menor que 0,5, por eso queda más cerca de 0,25."
+        },
+        {
+          "letter": "B",
+          "text": "Es inadecuada, porque 0,3 debería estar entre 0,5 y 0,75.",
+          "is_correct": false,
+          "feedback": "0,3 es menor que 0,5, así que no puede estar entre 0,5 y 0,75."
+        },
+        {
+          "letter": "C",
+          "text": "Es inadecuada, porque 0,3 no se puede ubicar en la recta.",
+          "is_correct": false,
+          "feedback": "Todos los decimales se pueden ubicar en una recta dividida correctamente."
+        },
+        {
+          "letter": "D",
+          "text": "Es inadecuada, porque 0,3 es igual a 0,25.",
+          "is_correct": false,
+          "feedback": "0,3 y 0,25 son decimales diferentes, no iguales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la ubicación de decimales intermedios en la recta numérica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-5-2026-W27-decimales-comparacion-orden-recta-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W27-decimales-comparacion-orden-recta-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué es importante aprender a comparar y ordenar números decimales?",
+      "context": "Lee: 'Saber comparar y ordenar números decimales es útil en la vida diaria para elegir la mejor oferta, medir con precisión ingredientes o líquidos, y registrar datos con claridad.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque permite tomar decisiones informadas al comparar precios, medidas y resultados en la vida cotidiana.",
+          "is_correct": true,
+          "feedback": "Comparar decimales es una habilidad esencial para la vida diaria."
+        },
+        {
+          "letter": "B",
+          "text": "Porque solo se usa en exámenes escolares sin aplicación práctica.",
+          "is_correct": false,
+          "feedback": "Los decimales se usan a diario en compras, mediciones y lecturas de instrumentos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los decimales no se encuentran en la realidad.",
+          "is_correct": false,
+          "feedback": "Los decimales aparecen constantemente en la realidad."
+        },
+        {
+          "letter": "D",
+          "text": "Porque es mejor memorizar el orden sin comprender la recta.",
+          "is_correct": false,
+          "feedback": "Comprender la recta facilita la comparación más que solo memorizar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la utilidad de comparar y ordenar decimales en contextos reales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-5-2026-W27-decimales-comparacion-orden-recta-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

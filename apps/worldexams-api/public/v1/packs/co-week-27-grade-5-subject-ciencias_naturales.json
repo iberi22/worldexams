@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-27-grade-5-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T15:41:45.193Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-5-2026-W27-animales-vertebrados-invertebrados-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la característica fundamental que distingue a los animales vertebrados de los animales invertebrados?",
+      "context": "En una salida pedagógica al Bioparque Ukumarí en Pereira, los estudiantes observan una guía de clasificación zoológica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La capacidad de desplazarse mediante cuatro extremidades articuladas.",
+          "is_correct": false,
+          "feedback": "No todos los vertebrados tienen cuatro patas; por ejemplo, los peces y las serpientes carecen de ellas."
+        },
+        {
+          "letter": "B",
+          "text": "La presencia de una columna vertebral y un esqueleto interno articulado.",
+          "is_correct": true,
+          "feedback": "Los vertebrados se caracterizan anatómicamente por poseer una columna vertebral y endoesqueleto óseo o cartilaginoso."
+        },
+        {
+          "letter": "C",
+          "text": "La respiración exclusivamente pulmonar en todas las etapas de su vida.",
+          "is_correct": false,
+          "feedback": "Los peces y los anfibios en etapa larvaria respiran mediante branquias, no por pulmones."
+        },
+        {
+          "letter": "D",
+          "text": "La reproducción exclusiva a través de huevos con cáscara dura.",
+          "is_correct": false,
+          "feedback": "Muchos vertebrados como los mamíferos son vivíparos y no ponen huevos con cáscara."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificar la presencia de columna vertebral y endoesqueleto como el criterio taxonómico principal que define a los animales vertebrados.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-5-2026-W27-animales-vertebrados-invertebrados-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W27-animales-vertebrados-invertebrados-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué el cangrejo de río se clasifica como animal invertebrado a diferencia de la danta de páramo?",
+      "context": "Durante una clase de ciencias naturales en Villavicencio, la docente muestra fotografías de una danta de páramo y de un cangrejo de río del Meta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la danta carece de huesos y el cangrejo tiene vértebras dorsales.",
+          "is_correct": false,
+          "feedback": "La danta es un mamífero vertebrado con huesos, mientras que el cangrejo no tiene vértebras."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el cangrejo vive en el agua y ningún animal vertebrado habita ecosistemas acuáticos.",
+          "is_correct": false,
+          "feedback": "Existen muchos vertebrados acuáticos, como los peces, delfines de río y manatíes."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el cangrejo posee un exoesqueleto y carece de columna vertebral ósea.",
+          "is_correct": true,
+          "feedback": "Los cangrejos son artrópodos crustáceos que tienen una cubierta externa rígida (exoesqueleto) y no presentan columna vertebral."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la danta produce su propio alimento mediante fotosíntesis y el cangrejo es carnívoro.",
+          "is_correct": false,
+          "feedback": "Ningún animal realiza fotosíntesis; ambos son organismos heterótrofos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprender las diferencias estructurales entre el soporte externo (exoesqueleto) de los invertebrados y el soporte interno (columna vertebral) de los vertebrados.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-5-2026-W27-animales-vertebrados-invertebrados-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W27-animales-vertebrados-invertebrados-001-MASTERY-bundle-v3",
+      "statement": "Si los estudiantes deben agrupar únicamente a los animales invertebrados recolectados en su ficha de campo, ¿cuál pareja deben seleccionar?",
+      "context": "Un grupo de estudiantes de Bucaramanga explora el jardín escolar y registra cuatro organismos: una mariposa monarca, una lagartija sabanera, una lombriz de tierra y un sapo común.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mariposa monarca y la lombriz de tierra.",
+          "is_correct": true,
+          "feedback": "Tanto la mariposa (artrópodo insecto) como la lombriz (anélido) carecen de columna vertebral, por lo que son invertebrados."
+        },
+        {
+          "letter": "B",
+          "text": "La lagartija sabanera y el sapo común.",
+          "is_correct": false,
+          "feedback": "La lagartija (reptil) y el sapo (anfibio) son animales vertebrados con esqueleto óseo interno."
+        },
+        {
+          "letter": "C",
+          "text": "La mariposa monarca y la lagartija sabanera.",
+          "is_correct": false,
+          "feedback": "La lagartija es un vertebrado reptil, por lo que el grupo no contiene únicamente invertebrados."
+        },
+        {
+          "letter": "D",
+          "text": "La lombriz de tierra y el sapo común.",
+          "is_correct": false,
+          "feedback": "El sapo es un vertebrado anfibio con columna vertebral, por lo que no pertenece al grupo de invertebrados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar criterios biológicos de clasificación para distinguir invertebrados (artrópodos y anélidos) de vertebrados (reptiles y anfibios).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-5-2026-W27-animales-vertebrados-invertebrados-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W27-animales-vertebrados-invertebrados-001-MASTERY-bundle-v4",
+      "statement": "¿A qué grupos biológicos corresponden respectivamente los organismos X, Y y Z?",
+      "context": "En un laboratorio escolar en Cali, los estudiantes analizan las características de tres animales colombianos no identificados:\n- Organismo X: Posee columna vertebral, plumas y respiración pulmonar.\n- Organismo Y: Posee exoesqueleto articulado de quitina y tres pares de patas.\n- Organismo Z: Posee columna vertebral, piel desnuda y húmeda, y realiza metamorfosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "X: reptil vertebrado, Y: anfibio, Z: pez óseo.",
+          "is_correct": false,
+          "feedback": "El organismo X tiene plumas (exclusivo de aves) y el organismo Y tiene exoesqueleto (invertebrado)."
+        },
+        {
+          "letter": "B",
+          "text": "X: mamífero, Y: molusco blando, Z: insecto invertebrado.",
+          "is_correct": false,
+          "feedback": "Los mamíferos no tienen plumas y los insectos no poseen piel húmeda con columna vertebral."
+        },
+        {
+          "letter": "C",
+          "text": "X: ave vertebrada, Y: crustáceo acuático, Z: reptil escamado.",
+          "is_correct": false,
+          "feedback": "El organismo Y tiene seis patas (insecto) y el organismo Z tiene piel desnuda húmeda (anfibio, no reptil)."
+        },
+        {
+          "letter": "D",
+          "text": "X: ave vertebrada, Y: insecto invertebrado, Z: anfibio vertebrado.",
+          "is_correct": true,
+          "feedback": "Las plumas identifican al ave (vertebrado), las seis patas y exoesqueleto al insecto (invertebrado), y la piel húmeda con metamorfosis al anfibio (vertebrado)."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Relacionar rasgos morfológicos diagnósticos (tipo de cubierta corporal, extremidades y esqueleto) con las clases zoológicas correspondientes.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-5-2026-W27-animales-vertebrados-invertebrados-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W27-animales-vertebrados-invertebrados-001-MASTERY-bundle-v5",
+      "statement": "¿Cómo resuelven el soporte físico y la protección corporal estos dos animales según su clasificación?",
+      "context": "En el Santuario de Fauna y Flora Otún Quimbaya (Risaralda), un guía ambiental compara cómo el mono aullador y el escarabajo pelotero protegen sus órganos internos y sostienen su cuerpo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos dependen de una cubierta calcárea exterior que mudan mensualmente.",
+          "is_correct": false,
+          "feedback": "Los monos no tienen cubierta calcárea ni mudan caparazones; poseen esqueleto interno."
+        },
+        {
+          "letter": "B",
+          "text": "El mono tiene un endoesqueleto óseo interno y el escarabajo una cutícula rígida exterior.",
+          "is_correct": true,
+          "feedback": "El mono aullador (vertebrado) se sostiene con huesos internos articulados, mientras que el escarabajo (invertebrado) utiliza su exoesqueleto quitinoso."
+        },
+        {
+          "letter": "C",
+          "text": "El mono carece de estructuras rígidas y el escarabajo tiene vértebras flexibles.",
+          "is_correct": false,
+          "feedback": "El mono posee un esqueleto óseo rígido y articulado, y los escarabajos no tienen vértebras."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos poseen cartílagos vertebrales dorsales que articulan sus extremidades.",
+          "is_correct": false,
+          "feedback": "Los escarabajos son invertebrados y no poseen cartílagos ni vértebras."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Explicar el funcionamiento adaptativo del endoesqueleto en vertebrados frente al exoesqueleto en invertebrados.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-5-2026-W27-animales-vertebrados-invertebrados-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W27-animales-vertebrados-invertebrados-001-MASTERY-bundle-v6",
+      "statement": "Al analizar la tabla, ¿cuál conclusión sobre la relación entre estructura corporal y clasificación zoológica es correcta?",
+      "context": "En la Ciénaga Grande de Santa Marta, un equipo escolar registra datos sobre cuatro especies locales en la siguiente tabla:\n- Especie 1: Esqueleto óseo interno, branquias en adultos, aletas natatorias.\n- Especie 2: Concha calcárea externa, cuerpo blando sin segmentos, sin vértebras.\n- Especie 3: Columna vertebral dorsal, respiración pulmonar, escamas epidérmicas duras.\n- Especie 4: Exoesqueleto articulado, diez patas locomotoras, sin columna vertebral.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las especies 1 y 2 son vertebrados acuáticos porque ambas habitan la misma ciénaga.",
+          "is_correct": false,
+          "feedback": "El hábitat no determina la clasificación; la especie 2 es un molusco invertebrado con concha."
+        },
+        {
+          "letter": "B",
+          "text": "Las especies 2 y 3 son invertebrados porque ambas presentan cubiertas corporales duras.",
+          "is_correct": false,
+          "feedback": "La especie 3 tiene columna vertebral dorsal y escamas (reptil vertebrado), no es invertebrado."
+        },
+        {
+          "letter": "C",
+          "text": "Las especies 1 y 3 son vertebrados con endoesqueleto, mientras que 2 y 4 son invertebrados sin columna.",
+          "is_correct": true,
+          "feedback": "Las especies 1 (pez) y 3 (reptil) tienen columna vertebral/endoesqueleto; 2 (molusco) y 4 (crustáceo) carecen de vértebras."
+        },
+        {
+          "letter": "D",
+          "text": "La especie 4 es un vertebrado reptil debido al número de apéndices locomotores.",
+          "is_correct": false,
+          "feedback": "La especie 4 carece de columna vertebral y posee diez patas, lo que corresponde a un crustáceo invertebrado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar matrices de caracteres morfológicos para inferir relaciones taxonómicas y clasificar correctamente organismos en vertebrados e invertebrados.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-5-2026-W27-animales-vertebrados-invertebrados-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W27-animales-vertebrados-invertebrados-001-MASTERY-bundle-v7",
+      "statement": "¿Por qué la tingua puede realizar movimientos rápidos y complejos en comparación con el lento desplazamiento del caracol?",
+      "context": "En un humedal de Bogotá, se investiga la locomoción de la tingua azul (ave) frente al desplazamiento de los caracoles acuáticos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los músculos de la tingua se anclan a un sistema óseo articular de palancas, mientras el caracol se apoya en un pie muscular blando.",
+          "is_correct": true,
+          "feedback": "El endoesqueleto de los vertebrados funciona como un sistema de palancas rígidas accionadas por músculos estriados, lo que permite locomoción rápida."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el caracol posee huesos muy pesados que le impiden acelerar su marcha.",
+          "is_correct": false,
+          "feedback": "Los caracoles son invertebrados y no tienen ningún tipo de hueso."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la tingua no gasta energía química durante la contracción muscular en el vuelo.",
+          "is_correct": false,
+          "feedback": "Todos los animales vertebrados consumen energía metabólica durante el movimiento muscular."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los invertebrados carecen completamente de tejido muscular y terminaciones nerviosas.",
+          "is_correct": false,
+          "feedback": "Los invertebrados sí poseen tejido muscular y sistema nervioso, aunque organizados de forma diferente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar cómo la articulación neuromuscular del endoesqueleto en vertebrados proporciona ventajas biomecánicas en la velocidad y variedad de movimientos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-5-2026-W27-animales-vertebrados-invertebrados-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W27-animales-vertebrados-invertebrados-001-MASTERY-bundle-v8",
+      "statement": "Al evaluar ambas afirmaciones con base en criterios científicos de anatomía comparada, ¿cuál postura es la adecuada y por qué?",
+      "context": "En un proyecto de ciencias en Santa Marta, dos grupos presentan explicaciones para clasificar a un animal marino hallado en la playa:\n- Grupo A afirma: \"Es un vertebrado porque tiene un cuerpo alargado, nada con gran agilidad y presenta una pieza dura en su parte dorsal\".\n- Grupo B refuta: \"Es un invertebrado (calamar), pues su soporte interno es una pluma córnea no ósea y carece de columna vertebral articulada con cráneo y vértebras\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La del Grupo A, porque nadar velozmente es una propiedad exclusiva de los peces vertebrados.",
+          "is_correct": false,
+          "feedback": "Muchos invertebrados marinos, como calamares y pulpos, son excelentes y rápidos nadadores."
+        },
+        {
+          "letter": "B",
+          "text": "La del Grupo A, porque cualquier estructura rígida en el dorso equivale anatómicamente a la columna vertebral.",
+          "is_correct": false,
+          "feedback": "Una estructura rígida interna simple (como la pluma del calamar) no equivale a una columna vertebral articulada y segmentada."
+        },
+        {
+          "letter": "C",
+          "text": "La del Grupo B, porque todos los animales marinos sin extremidades son clasificados como anélidos.",
+          "is_correct": false,
+          "feedback": "El calamar es un molusco cefalópodo, no un anélido."
+        },
+        {
+          "letter": "D",
+          "text": "La del Grupo B, porque la ausencia de columna vertebral segmentada y cráneo óseo define al organismo como invertebrado.",
+          "is_correct": true,
+          "feedback": "La clasificación científica rigurosa se basa en la presencia de vértebras y cráneo, no en la velocidad de natación ni en placas córneas simples."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar críticamente hipótesis de clasificación zoológica diferenciando rasgos adaptativos superficiales de homologías anatómicas verdaderas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-5-2026-W27-animales-vertebrados-invertebrados-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

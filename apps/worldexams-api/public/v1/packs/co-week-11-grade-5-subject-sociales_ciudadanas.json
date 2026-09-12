@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-11-grade-5-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-12T15:41:45.219Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-5-2026-W11-paisajes-colombianos-clima-relieve-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes afirmaciones describe correctamente el relieve montañoso de Colombia?",
+      "context": "En una escuela de Medellín, ubicada en el Valle de Aburrá, la profesora muestra un mapa con las tres cordilleras que cruzan Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Colombia es atravesada por tres cordilleras: Occidental, Central y Oriental, con valles entre ellas.",
+          "is_correct": true,
+          "feedback": "Las tres cordilleras de los Andes y los valles interandinos forman el relieve montañoso del país."
+        },
+        {
+          "letter": "B",
+          "text": "Colombia es una llanura total sin montañas ni valles.",
+          "is_correct": false,
+          "feedback": "Colombia tiene extensas montañas andinas además de llanuras en otras regiones."
+        },
+        {
+          "letter": "C",
+          "text": "En Colombia solo existe una pequeña colina cerca de Bogotá.",
+          "is_correct": false,
+          "feedback": "El sistema montañoso colombiano incluye tres grandes cordilleras, no una sola colina."
+        },
+        {
+          "letter": "D",
+          "text": "Las montañas de Colombia están todas en la costa Caribe.",
+          "is_correct": false,
+          "feedback": "Las cordilleras recorren el interior del país de sur a norte, no solo la costa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer las tres cordilleras andinas y los valles como elementos básicos del relieve colombiano.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-5-2026-W11-paisajes-colombianos-clima-relieve-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W11-paisajes-colombianos-clima-relieve-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué el clima cambia entre Tunja y Barranquilla?",
+      "context": "Lee: \"Tunja, en Boyacá, tiene un clima frío porque está a gran altura, mientras que Barranquilla, en el Caribe, tiene un clima cálido porque está casi al nivel del mar.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque a mayor altura la temperatura baja y a menor altura la temperatura sube.",
+          "is_correct": true,
+          "feedback": "La altura sobre el nivel del mar explica los pisos térmicos: frío en la montaña y cálido en la costa."
+        },
+        {
+          "letter": "B",
+          "text": "Porque Tunja está más cerca del sol que Barranquilla.",
+          "is_correct": false,
+          "feedback": "La distancia al sol no explica la diferencia; la causa es la altura del relieve."
+        },
+        {
+          "letter": "C",
+          "text": "Porque en Barranquilla nunca sale el sol.",
+          "is_correct": false,
+          "feedback": "Barranquilla es una ciudad cálida y soleada del Caribe colombiano."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el clima es igual en todo el país y no depende del relieve.",
+          "is_correct": false,
+          "feedback": "El clima colombiano varía mucho según la altura, también llamada piso térmico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender la relación entre la altura del relieve y los pisos térmicos que definen el clima en Colombia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-5-2026-W11-paisajes-colombianos-clima-relieve-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W11-paisajes-colombianos-clima-relieve-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la importancia de los ríos Magdalena y Cauca para las comunidades que viven cerca de ellos?",
+      "context": "En Neiva, a orillas del río Magdalena, los pescadores transportan sus productos en canoas y los venden en el puerto de Honda, en Tolima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sirven como vías de transporte, fuente de pesca y agua para cultivos y hogares.",
+          "is_correct": true,
+          "feedback": "Los ríos principales también proveen agua, alimento y comunicación entre regiones."
+        },
+        {
+          "letter": "B",
+          "text": "Solo sirven para adornar el paisaje sin ningún uso.",
+          "is_correct": false,
+          "feedback": "Los ríos tienen usos vitales para el transporte, la pesca y la agricultura."
+        },
+        {
+          "letter": "C",
+          "text": "Impiden que las personas cultiven o viajen por el país.",
+          "is_correct": false,
+          "feedback": "Por el contrario, los ríos facilitan los viajes y el riego de cultivos."
+        },
+        {
+          "letter": "D",
+          "text": "Son ríos cortos que se secan todo el año en Huila y Antioquia.",
+          "is_correct": false,
+          "feedback": "El Magdalena y el Cauca son ríos largos y caudalosos que fluyen todo el año."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el conocimiento sobre los ríos Magdalena y Cauca para explicar su uso en el transporte, la pesca y la vida diaria.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.76,
+      "bundle_id": "CO-SOC-5-2026-W11-paisajes-colombianos-clima-relieve-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W11-paisajes-colombianos-clima-relieve-001-MASTERY-bundle-v4",
+      "statement": "Si la familia quiere comparar los paisajes de las dos costas de Colombia, ¿qué diferencia debe tener en cuenta?",
+      "context": "Una familia de Pasto planea vacaciones: una opción es Cartagena, en el Caribe, con playas y mar tranquilo; la otra es Buenaventura, en el Pacífico, con selva, manglares y lluvias frecuentes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La costa Caribe tiene playas turísticas y clima seco, mientras la costa Pacífico tiene selva húmeda y lluvias abundantes.",
+          "is_correct": true,
+          "feedback": "El Caribe es más seco y turístico; el Pacífico es más lluvioso y selvático."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos costas son desiertos idénticos sin mar ni vegetación.",
+          "is_correct": false,
+          "feedback": "Ambas costas tienen mar, pero con paisajes y climas muy distintos."
+        },
+        {
+          "letter": "C",
+          "text": "La costa Pacífico no tiene mar, solo montañas nevadas.",
+          "is_correct": false,
+          "feedback": "La costa Pacífico baña el océano Pacífico y combina mar con selva."
+        },
+        {
+          "letter": "D",
+          "text": "La costa Caribe queda en el interior, lejos del mar, cerca de Cali.",
+          "is_correct": false,
+          "feedback": "La costa Caribe limita con el mar Caribe al norte del país."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Diferenciar los paisajes de las costas Caribe y Pacífico a partir de su clima, su vegetación y sus actividades.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.71,
+      "bundle_id": "CO-SOC-5-2026-W11-paisajes-colombianos-clima-relieve-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W11-paisajes-colombianos-clima-relieve-001-MASTERY-bundle-v5",
+      "statement": "¿Qué caracteriza a los paisajes de los Llanos Orientales y de la Amazonia colombiana?",
+      "context": "En Villavicencio, puerta de los Llanos Orientales, se ven extensas sabanas con ganado, mientras que cerca de Leticia, en el Amazonas, se observa una selva densa con ríos y gran variedad de animales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los Llanos son planicies de pastos para la ganadería y la Amazonia es una selva húmeda de gran biodiversidad.",
+          "is_correct": true,
+          "feedback": "Las sabanas llaneras y la selva amazónica también se distinguen por su vegetación y fauna."
+        },
+        {
+          "letter": "B",
+          "text": "Los Llanos y la Amazonia son montañas nevadas iguales a la Sierra Nevada.",
+          "is_correct": false,
+          "feedback": "Ambas regiones son tierras bajas y cálidas, no montañas nevadas."
+        },
+        {
+          "letter": "C",
+          "text": "En los Llanos y la Amazonia no vive nadie ni hay ríos.",
+          "is_correct": false,
+          "feedback": "En ambas regiones viven comunidades y hay ríos muy importantes como el Meta y el Amazonas."
+        },
+        {
+          "letter": "D",
+          "text": "Los Llanos son un desierto sin lluvia y la Amazonia es una ciudad grande.",
+          "is_correct": false,
+          "feedback": "Los Llanos tienen lluvias por temporadas y la Amazonia es selva, no una ciudad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificar las sabanas de los Llanos y la selva amazónica como paisajes de tierras bajas con usos y riquezas naturales propias.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.66,
+      "bundle_id": "CO-SOC-5-2026-W11-paisajes-colombianos-clima-relieve-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W11-paisajes-colombianos-clima-relieve-001-MASTERY-bundle-v6",
+      "statement": "¿Qué relación existe entre el piso térmico y los cultivos en estos dos lugares?",
+      "context": "Compara: \"Cerca de Manizales, en clima templado, las familias cultivan café en las laderas. En Samacá, Boyacá, en clima frío, las familias cultivan papa en las partes altas.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cada piso térmico favorece ciertos cultivos: el café necesita el clima templado y la papa se adapta al clima frío.",
+          "is_correct": true,
+          "feedback": "La temperatura y la altura determinan qué plantas crecen mejor en cada zona."
+        },
+        {
+          "letter": "B",
+          "text": "Los cultivos crecen igual en cualquier clima y el piso térmico no influye.",
+          "is_correct": false,
+          "feedback": "El café no prospera en el frío intenso ni la papa rinde igual en tierras muy cálidas."
+        },
+        {
+          "letter": "C",
+          "text": "El café solo crece en la nieve y la papa solo crece en el desierto.",
+          "is_correct": false,
+          "feedback": "El café es de tierra templada y la papa es de tierra fría, no de nieve ni de desierto."
+        },
+        {
+          "letter": "D",
+          "text": "Manizales y Samacá tienen el mismo clima porque están en el mismo departamento.",
+          "is_correct": false,
+          "feedback": "Manizales y Samacá están en departamentos distintos y a alturas con climas diferentes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar cómo los pisos térmicos determinan las actividades agrícolas en las regiones andinas de Colombia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.58,
+      "bundle_id": "CO-SOC-5-2026-W11-paisajes-colombianos-clima-relieve-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W11-paisajes-colombianos-clima-relieve-001-MASTERY-bundle-v7",
+      "statement": "¿Qué explica que Santa Marta y Quibdó tengan paisajes y climas tan distintos aunque ambas estén cerca del mar?",
+      "context": "Lee: \"Santa Marta, en el Caribe, recibe muchos visitantes por sus playas y la Sierra Nevada cercana. Quibdó, en el Chocó Pacífico, es una de las ciudades más lluviosas del mundo, rodeada de ríos y selva.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ubicación, los vientos, las montañas cercanas y la humedad hacen al Caribe más seco y al Pacífico más lluvioso.",
+          "is_correct": true,
+          "feedback": "El relieve y la humedad del Pacífico también producen selva, mientras el Caribe combina mar con zonas más secas."
+        },
+        {
+          "letter": "B",
+          "text": "La única causa es que en Quibdó no existe el mar.",
+          "is_correct": false,
+          "feedback": "Quibdó está en la región Pacífica, influida por el océano y por lluvias constantes."
+        },
+        {
+          "letter": "C",
+          "text": "Santa Marta y Quibdó tienen exactamente el mismo paisaje y el mismo clima.",
+          "is_correct": false,
+          "feedback": "Sus paisajes son distintos: playas y sierra en Santa Marta, selva y ríos en Quibdó."
+        },
+        {
+          "letter": "D",
+          "text": "La diferencia se debe a que Santa Marta queda en otro país.",
+          "is_correct": false,
+          "feedback": "Ambas ciudades son colombianas, pero pertenecen a regiones costeras diferentes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar los factores geográficos que producen diferencias de clima y paisaje entre el Caribe y el Pacífico colombiano.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.52,
+      "bundle_id": "CO-SOC-5-2026-W11-paisajes-colombianos-clima-relieve-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W11-paisajes-colombianos-clima-relieve-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la mejor propuesta para cuidar los paisajes colombianos como los ríos, las montañas y las costas?",
+      "context": "Lee: \"En Caño Cristales, en el Meta, y en las playas de Santa Marta, el aumento de basuras y la contaminación de los ríos dañan los paisajes que también son fuente de trabajo para las comunidades.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Organizar jornadas de limpieza, evitar arrojar basuras a los ríos y promover el turismo que respeta la naturaleza.",
+          "is_correct": true,
+          "feedback": "Cuidar el paisaje también protege el agua, los animales y el sustento de las comunidades."
+        },
+        {
+          "letter": "B",
+          "text": "Arrojar plásticos a los ríos Magdalena y Cauca para que la corriente se los lleve.",
+          "is_correct": false,
+          "feedback": "Contaminar los ríos daña la pesca, la salud y los paisajes de todo el país."
+        },
+        {
+          "letter": "C",
+          "text": "Talar toda la selva del Amazonas para construir más calles sin planear.",
+          "is_correct": false,
+          "feedback": "Destruir la selva acaba con la biodiversidad y altera el clima y los ríos."
+        },
+        {
+          "letter": "D",
+          "text": "Prohibir que los niños conozcan los paisajes para que nadie los visite.",
+          "is_correct": false,
+          "feedback": "Conocer y valorar los paisajes forma ciudadanos que los protegen, no que los abandonan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar acciones responsables para proteger los ríos, las montañas y las costas como patrimonio natural de Colombia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.38,
+      "bundle_id": "CO-SOC-5-2026-W11-paisajes-colombianos-clima-relieve-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

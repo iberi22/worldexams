@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-13-grade-5-subject-matematicas",
+    "generated_at": "2026-09-12T15:41:45.212Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-5-2026-W13-volumen-cuerpos-geometricos-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es el volumen de un cuerpo geométrico?",
+      "context": "En clase de matemáticas en Manizales, la profesora muestra una caja de café y explica que el volumen indica cuánto espacio ocupa un cuerpo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cantidad de espacio que ocupa el cuerpo, que se puede medir con cubos unidad.",
+          "is_correct": true,
+          "feedback": "El volumen mide el espacio ocupado y se cuenta con cubos unidad."
+        },
+        {
+          "letter": "B",
+          "text": "La longitud del borde más largo del cuerpo.",
+          "is_correct": false,
+          "feedback": "La longitud de un borde mide solo una dimensión, no el espacio total."
+        },
+        {
+          "letter": "C",
+          "text": "El número de caras planas que tiene el cuerpo.",
+          "is_correct": false,
+          "feedback": "Contar caras describe la forma, pero no mide el espacio ocupado."
+        },
+        {
+          "letter": "D",
+          "text": "El peso del cuerpo medido en kilogramos.",
+          "is_correct": false,
+          "feedback": "El peso mide la masa, no el espacio que ocupa el cuerpo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Recordar que el volumen mide el espacio que ocupa un cuerpo y se expresa con cubos unidad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geométrico",
+      "expected_success": 0.89,
+      "bundle_id": "CO-MAT-5-2026-W13-volumen-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W13-volumen-cuerpos-geometricos-001-MASTERY-bundle-v2",
+      "statement": "¿Cuántos cubos unidad forman el prisma y qué volumen representan?",
+      "context": "Lee: \"Un prisma se armó con cubos unidad iguales. La capa de abajo tiene 6 cubos y encima se puso otra capa igual de 6 cubos.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12 cubos unidad, por lo que el volumen es 12 cubos unidad.",
+          "is_correct": true,
+          "feedback": "6 + 6 = 12 cubos, y ese conteo es el volumen del prisma."
+        },
+        {
+          "letter": "B",
+          "text": "6 cubos unidad, porque solo cuenta la capa de abajo.",
+          "is_correct": false,
+          "feedback": "Hay que contar las dos capas, no solo la de abajo."
+        },
+        {
+          "letter": "C",
+          "text": "8 cubos unidad, porque se suman los lados visibles.",
+          "is_correct": false,
+          "feedback": "El volumen cuenta todos los cubos, también los que no se ven."
+        },
+        {
+          "letter": "D",
+          "text": "10 cubos unidad, porque se resta la base.",
+          "is_correct": false,
+          "feedback": "La base también ocupa espacio y debe contarse."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender que el volumen se halla contando todos los cubos unidad que forman el cuerpo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geométrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-5-2026-W13-volumen-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W13-volumen-cuerpos-geometricos-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el volumen de la caja de café?",
+      "context": "En una finca cafetera de Manizales empacan café en una caja con largo 4, ancho 3 y alto 2, medidos en cubos unidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "24 cubos unidad.",
+          "is_correct": true,
+          "feedback": "4 x 3 x 2 = 24, que es el total de cubos que caben en la caja."
+        },
+        {
+          "letter": "B",
+          "text": "9 cubos unidad.",
+          "is_correct": false,
+          "feedback": "4 + 3 + 2 = 9, pero el volumen se halla multiplicando, no sumando."
+        },
+        {
+          "letter": "C",
+          "text": "18 cubos unidad.",
+          "is_correct": false,
+          "feedback": "4 x 3 = 12 y falta multiplicar por el alto 2."
+        },
+        {
+          "letter": "D",
+          "text": "12 cubos unidad.",
+          "is_correct": false,
+          "feedback": "12 es solo el volumen de una capa de 4 x 3."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la multiplicación largo x ancho x alto para hallar el volumen de un prisma rectangular.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geométrico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-MAT-5-2026-W13-volumen-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W13-volumen-cuerpos-geometricos-001-MASTERY-bundle-v4",
+      "statement": "¿Cuántos litros de agua guarda el tanque cuando está lleno?",
+      "context": "Una familia en Cúcuta tiene un tanque de agua en forma de prisma con largo 5 dm, ancho 2 dm y alto 2 dm. Cada decímetro cúbico guarda 1 litro de agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 litros.",
+          "is_correct": true,
+          "feedback": "5 x 2 x 2 = 20 decímetros cúbicos, es decir 20 litros."
+        },
+        {
+          "letter": "B",
+          "text": "9 litros.",
+          "is_correct": false,
+          "feedback": "5 + 2 + 2 = 9, pero la capacidad se halla multiplicando las tres medidas."
+        },
+        {
+          "letter": "C",
+          "text": "10 litros.",
+          "is_correct": false,
+          "feedback": "5 x 2 = 10 es solo el área de la base, falta multiplicar por el alto."
+        },
+        {
+          "letter": "D",
+          "text": "40 litros.",
+          "is_correct": false,
+          "feedback": "40 sería el doble de la capacidad real del tanque."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el cálculo de volumen para hallar la capacidad en litros de un tanque rectangular.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geométrico",
+      "expected_success": 0.71,
+      "bundle_id": "CO-MAT-5-2026-W13-volumen-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W13-volumen-cuerpos-geometricos-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el volumen del cubo de lado 3?",
+      "context": "En una tienda de Ibagué venden una nevera pequeña en forma de prisma con largo 3, ancho 2 y alto 2, medidos en cubos unidad. También venden un cubo de lado 3.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "27 cubos unidad.",
+          "is_correct": true,
+          "feedback": "3 x 3 x 3 = 27 cubos unidad en total."
+        },
+        {
+          "letter": "B",
+          "text": "9 cubos unidad.",
+          "is_correct": false,
+          "feedback": "3 x 3 = 9 es solo una cara del cubo, falta multiplicar por 3."
+        },
+        {
+          "letter": "C",
+          "text": "12 cubos unidad.",
+          "is_correct": false,
+          "feedback": "3 + 3 + 3 + 3 = 12 no corresponde al volumen del cubo."
+        },
+        {
+          "letter": "D",
+          "text": "18 cubos unidad.",
+          "is_correct": false,
+          "feedback": "18 es menor que la cantidad real de cubos que forman el cubo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la multiplicación de las tres aristas iguales para hallar el volumen de un cubo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geométrico",
+      "expected_success": 0.67,
+      "bundle_id": "CO-MAT-5-2026-W13-volumen-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W13-volumen-cuerpos-geometricos-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál caja tiene mayor volumen y por cuántos cubos unidad se diferencian?",
+      "context": "Compara dos cajas para guardar panela en Vélez: la caja A mide 4 de largo, 2 de ancho y 3 de alto; la caja B mide 3 de largo, 3 de ancho y 3 de alto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La caja B es mayor por 3 cubos unidad.",
+          "is_correct": true,
+          "feedback": "A = 4 x 2 x 3 = 24 y B = 3 x 3 x 3 = 27; 27 - 24 = 3."
+        },
+        {
+          "letter": "B",
+          "text": "La caja A es mayor por 3 cubos unidad.",
+          "is_correct": false,
+          "feedback": "La caja A tiene 24 y la B tiene 27, así que A es la menor."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos cajas tienen el mismo volumen.",
+          "is_correct": false,
+          "feedback": "24 es distinto de 27, por eso los volúmenes no son iguales."
+        },
+        {
+          "letter": "D",
+          "text": "La caja B es mayor por 6 cubos unidad.",
+          "is_correct": false,
+          "feedback": "La diferencia real es 27 - 24 = 3, no 6."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar y comparar los volúmenes de dos prismas calculando cada uno y hallando la diferencia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geométrico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-5-2026-W13-volumen-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W13-volumen-cuerpos-geometricos-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál debe ser el alto del balde para que el volumen sea 30 cubos unidad?",
+      "context": "Lee: \"Un balde en Pasto tiene forma de prisma con volumen de 30 cubos unidad. El largo es 5 y el ancho es 3. Falta conocer el alto.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 cubos unidad.",
+          "is_correct": true,
+          "feedback": "5 x 3 x 2 = 30, así que el alto debe ser 2."
+        },
+        {
+          "letter": "B",
+          "text": "5 cubos unidad.",
+          "is_correct": false,
+          "feedback": "5 x 3 x 5 = 75, un volumen mucho mayor que 30."
+        },
+        {
+          "letter": "C",
+          "text": "3 cubos unidad.",
+          "is_correct": false,
+          "feedback": "5 x 3 x 3 = 45, que supera los 30 cubos unidad."
+        },
+        {
+          "letter": "D",
+          "text": "6 cubos unidad.",
+          "is_correct": false,
+          "feedback": "5 x 3 x 6 = 90, el triple del volumen pedido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la relación entre las tres medidas para hallar la altura desconocida a partir del volumen.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geométrico",
+      "expected_success": 0.53,
+      "bundle_id": "CO-MAT-5-2026-W13-volumen-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W13-volumen-cuerpos-geometricos-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la mejor compra si se quiere guardar la mayor cantidad de café pagando menos por cada cubo unidad?",
+      "context": "Lee: \"En una tienda de Manizales venden dos cajas para empacar café. La caja pequeña mide 2 de largo, 2 de ancho y 2 de alto y cuesta 8.000 pesos colombianos (COP). La caja grande mide 4 de largo, 2 de ancho y 2 de alto y cuesta 12.000 COP.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La caja grande, porque guarda 16 cubos y cada cubo sale más barato.",
+          "is_correct": true,
+          "feedback": "Pequeña: 8 cubos a 1.000 COP cada uno; grande: 16 cubos a 750 COP cada uno."
+        },
+        {
+          "letter": "B",
+          "text": "La caja pequeña, porque cuesta menos dinero en total.",
+          "is_correct": false,
+          "feedback": "Cuesta menos en total, pero guarda la mitad y cada cubo sale más caro."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos son iguales, porque tienen la misma forma.",
+          "is_correct": false,
+          "feedback": "La forma es parecida, pero los volúmenes y precios por cubo son distintos."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna sirve, porque el volumen no ayuda a decidir la compra.",
+          "is_correct": false,
+          "feedback": "Comparar volumen y precio por cubo sí permite elegir la mejor opción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar cuál empaque conviene más comparando el volumen total y el costo por cubo unidad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geométrico",
+      "expected_success": 0.38,
+      "bundle_id": "CO-MAT-5-2026-W13-volumen-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

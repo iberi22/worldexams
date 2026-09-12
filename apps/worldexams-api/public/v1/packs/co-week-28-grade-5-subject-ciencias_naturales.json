@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-28-grade-5-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T15:41:45.193Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-5-2026-W28-cadenas-alimenticias-redes-troficas-001-MASTERY-bundle-v1",
+      "statement": "¿Qué función cumplen los organismos productores como los frailejones en una cadena alimenticia?",
+      "context": "En el Parque Nacional Natural Chingaza (Cundinamarca), los estudiantes observan frailejones, chigüiros, pumas y hongos en el suelo del páramo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transformar la energía solar en materia orgánica mediante la fotosíntesis.",
+          "is_correct": true,
+          "feedback": "Los productores son organismos autótrofos que captan luz solar para sintetizar nutrientes orgánicos."
+        },
+        {
+          "letter": "B",
+          "text": "Alimentarse de restos orgánicos muertos para limpiar el ecosistema.",
+          "is_correct": false,
+          "feedback": "Esta función corresponde a los descomponedores y carroñeros, no a los productores fotosintéticos."
+        },
+        {
+          "letter": "C",
+          "text": "Cazar consumidores herbívoros para regular el número de individuos.",
+          "is_correct": false,
+          "feedback": "La depredación la realizan los consumidores carnívoros, no las plantas productoras."
+        },
+        {
+          "letter": "D",
+          "text": "Absorber nutrientes únicamente consumiendo otros seres vivos.",
+          "is_correct": false,
+          "feedback": "Los productores no ingieren a otros seres vivos porque elaboran su propio alimento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer el papel biológico de los organismos autótrofos (productores) como el punto de inicio del flujo de materia y energía en los ecosistemas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-5-2026-W28-cadenas-alimenticias-redes-troficas-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W28-cadenas-alimenticias-redes-troficas-001-MASTERY-bundle-v2",
+      "statement": "¿Qué representa la dirección de las flechas en este esquema de cadena trófica?",
+      "context": "En las selvas del Guaviare, un biólogo describe la siguiente secuencia: planta de cacao de monte -> oruga -> pájaro carpintero -> gavilán.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cantidad de agua que cada especie bebe diariamente en el río.",
+          "is_correct": false,
+          "feedback": "Las flechas no indican consumo de agua, sino relaciones tróficas de alimento."
+        },
+        {
+          "letter": "B",
+          "text": "La velocidad de desplazamiento de cada animal en el dosel del bosque.",
+          "is_correct": false,
+          "feedback": "La cadena trófica no mide velocidades de movimiento físico."
+        },
+        {
+          "letter": "C",
+          "text": "El flujo y transferencia de materia y energía de un organismo consumido al consumidor.",
+          "is_correct": true,
+          "feedback": "En ecología, las flechas señalan hacia quién recibe la energía y los nutrientes en el acto alimenticio."
+        },
+        {
+          "letter": "D",
+          "text": "La jerarquía de tamaño corporal desde el animal más grande al más pequeño.",
+          "is_correct": false,
+          "feedback": "El orden de la cadena se basa en la transferencia energética, no estrictamente en el tamaño corporal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprender la convención científica de los diagramas tróficos, donde la flecha indica el sentido de la transferencia de energía entre niveles.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-5-2026-W28-cadenas-alimenticias-redes-troficas-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W28-cadenas-alimenticias-redes-troficas-001-MASTERY-bundle-v3",
+      "statement": "Si los pulgones consumen la savia de los árboles y las mariquitas se alimentan exclusivamente de los pulgones, ¿qué posición trófica ocupan las mariquitas?",
+      "context": "En una finca cafetera de Chinchiná (Caldas), se observa una red trófica formada por árboles de sombrío, pulgones, mariquitas, pájaros azulejos y hongos de hojarasca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Consumidores primarios herbívoros.",
+          "is_correct": false,
+          "feedback": "Los consumidores primarios son los pulgones que comen las plantas; las mariquitas comen pulgones."
+        },
+        {
+          "letter": "B",
+          "text": "Consumidores secundarios carnívoros.",
+          "is_correct": true,
+          "feedback": "Al alimentarse de herbívoros (consumidores primarios), las mariquitas actúan como consumidores secundarios."
+        },
+        {
+          "letter": "C",
+          "text": "Productores fotosintéticos autótrofos.",
+          "is_correct": false,
+          "feedback": "Las mariquitas son animales heterótrofos y no realizan fotosíntesis."
+        },
+        {
+          "letter": "D",
+          "text": "Descomponedores de materia inerte.",
+          "is_correct": false,
+          "feedback": "Los descomponedores son hongos y bacterias que degradan materia orgánica muerta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicar la categorización trófica identificando el nivel que corresponde a los depredadores de herbívoros (consumidores secundarios).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-5-2026-W28-cadenas-alimenticias-redes-troficas-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W28-cadenas-alimenticias-redes-troficas-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el orden correcto para estructurar una cadena alimenticia lineal completa con estos organismos?",
+      "context": "En un acuario marino experimental en Santa Marta, un grupo de quinto grado registra la dieta de cuatro organismos: fitoplancton (algas microscópicas), zooplancton (crustáceos diminutos herbívoros), sardinas y atunes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Atunes -> Sardinas -> Zooplancton -> Fitoplancton.",
+          "is_correct": false,
+          "feedback": "Este esquema invierte el flujo de energía; los atunes no son el alimento del fitoplancton."
+        },
+        {
+          "letter": "B",
+          "text": "Zooplancton -> Fitoplancton -> Atunes -> Sardinas.",
+          "is_correct": false,
+          "feedback": "El fitoplancton es el productor primario que capta luz y debe iniciar la cadena."
+        },
+        {
+          "letter": "C",
+          "text": "Sardinas -> Atunes -> Fitoplancton -> Zooplancton.",
+          "is_correct": false,
+          "feedback": "Las sardinas no producen energía fotosintética para sustentar a los demás organismos."
+        },
+        {
+          "letter": "D",
+          "text": "Fitoplancton -> Zooplancton -> Sardinas -> Atunes.",
+          "is_correct": true,
+          "feedback": "El fitoplancton (productor) alimenta al zooplancton (consumidor primario), este a las sardinas (secundario) y estas al atún (terciario)."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Ordenar secuencias alimenticias lineales asegurando la progresión lógica desde el productor autótrofo hasta el consumidor superior.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-5-2026-W28-cadenas-alimenticias-redes-troficas-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W28-cadenas-alimenticias-redes-troficas-001-MASTERY-bundle-v5",
+      "statement": "¿Por qué los organismos descomponedores son indispensables para mantener el equilibrio de una red trófica?",
+      "context": "En los bosques del Caquetá, los hongos y bacterias descomponen constantemente las hojas caídas y los troncos muertos de los árboles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque reciclan la materia orgánica y devuelven sales minerales esenciales al suelo para los productores.",
+          "is_correct": true,
+          "feedback": "Los descomponedores cierran el ciclo de la materia al convertir restos orgánicos en minerales absorbibles por las raíces de las plantas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque son la presa principal que alimenta a los grandes carnívoros de la selva.",
+          "is_correct": false,
+          "feedback": "Los carnívoros cazan animales herbívoros o secundarios, no se sustentan primordialmente de bacterias."
+        },
+        {
+          "letter": "C",
+          "text": "Porque impiden la penetración de luz solar hasta la superficie del suelo.",
+          "is_correct": false,
+          "feedback": "La cobertura vegetal regula la luz, no los microorganismos descomponedores."
+        },
+        {
+          "letter": "D",
+          "text": "Porque sustituyen a los árboles al fabricar azúcares mediante fotosíntesis.",
+          "is_correct": false,
+          "feedback": "Los hongos y bacterias descomponedoras son heterótrofos y no realizan fotosíntesis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Explicar el papel de los descomponedores en el reciclaje de nutrientes y el cierre cíclico de la materia en los ecosistemas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-5-2026-W28-cadenas-alimenticias-redes-troficas-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W28-cadenas-alimenticias-redes-troficas-001-MASTERY-bundle-v6",
+      "statement": "Al analizar esta red alimenticia, ¿qué efecto directo y secundario se presentará en este ecosistema llanero?",
+      "context": "En una sabana inundable del Casanare, la red trófica incluye: pasto natural -> chigüiro -> jaguar; y también: pasto natural -> venado de cola blanca -> jaguar. Debido a una cacería ilegal indiscriminada, la población de jaguares disminuye drásticamente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disminución inmediata de herbívoros y proliferación masiva de pastos naturales.",
+          "is_correct": false,
+          "feedback": "Sin depredadores, las poblaciones de herbívoros aumentan en lugar de disminuir."
+        },
+        {
+          "letter": "B",
+          "text": "Aumento desmedido de la radiación solar y evaporación total de los esteros.",
+          "is_correct": false,
+          "feedback": "La dinámica trófica no altera directamente los ciclos astronómicos ni la radiación solar."
+        },
+        {
+          "letter": "C",
+          "text": "Incremento poblacional de chigüiros y venados, seguido de sobrepastoreo y degradación de la vegetación.",
+          "is_correct": true,
+          "feedback": "Al desaparecer el depredador tope, los herbívoros se reproducen sin control y agotan los recursos vegetales (sobrepastoreo)."
+        },
+        {
+          "letter": "D",
+          "text": "Extinción instantánea de todos los hongos y bacterias descomponedores del suelo.",
+          "is_correct": false,
+          "feedback": "Los descomponedores siguen funcionando e incluso reciben más restos de biomasa vegetal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar el impacto ecológico de la alteración poblacional en depredadores tope sobre los niveles tróficos inferiores (cascada trófica).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-5-2026-W28-cadenas-alimenticias-redes-troficas-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W28-cadenas-alimenticias-redes-troficas-001-MASTERY-bundle-v7",
+      "statement": "¿Por qué en este ecosistema la biomasa y energía total disponible en el nivel de las algas es notablemente mayor que la energía en el nivel de los tiburones?",
+      "context": "En el arrecife de la isla Gorgona, una red trófica marina muestra que los tiburones se alimentan de pargos, los pargos de peces loro y los peces loro de algas marinas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los tiburones no requieren nutrientes químicos para subsistir en aguas oceánicas.",
+          "is_correct": false,
+          "feedback": "Todos los animales carnívoros requieren nutrientes para sostener su metabolismo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque en cada transferencia trófica gran parte de la energía se disipa en forma de calor y mantenimiento metabólico.",
+          "is_correct": true,
+          "feedback": "La ley de transferencia trófica establece que solo una fracción menor de energía (aprox. 10%) pasa al siguiente nivel; el resto se consume en respiración y calor."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los peces herbívoros producen mayor energía que la radiación solar original.",
+          "is_correct": false,
+          "feedback": "Ningún organismo produce más energía de la que ingresa; la energía no se crea de la nada."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las algas marinas consumen activamente a los descomponedores marinos.",
+          "is_correct": false,
+          "feedback": "Las algas son organismos autótrofos que dependen de la luz, no cazadores de descomponedores."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar las pérdidas termodinámicas de energía entre niveles tróficos que explican la estructura piramidal de biomasa y energía.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-5-2026-W28-cadenas-alimenticias-redes-troficas-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W28-cadenas-alimenticias-redes-troficas-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál evaluación predice con mayor rigor científico el impacto ecológico de esta propuesta sobre la estabilidad del humedal?",
+      "context": "En un humedal urbano de Neiva, una propuesta plantea aplicar insecticida químico masivo para eliminar todas las larvas de mosquitos. Los estudiantes analizan la red trófica local: fitoplancton -> larvas de mosquito -> peces guppy y ranas plataneras -> garzas reales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La medida desestabilizará la red trófica al privar de alimento a peces y anfibios, provocando la reducción de las aves acuáticas que dependen de ellos.",
+          "is_correct": true,
+          "feedback": "La erradicación total de un eslabón intermedio afecta a los depredadores directos e indirectos, alterando el equilibrio biológico global."
+        },
+        {
+          "letter": "B",
+          "text": "La medida fortalecerá la cadena alimenticia porque los mosquitos no tienen interacciones con otras especies del humedal.",
+          "is_correct": false,
+          "feedback": "Las larvas de mosquito son una fuente crucial de alimento para peces pequeños y anfibios en humedales."
+        },
+        {
+          "letter": "C",
+          "text": "La red trófica no sufrirá cambios porque las garzas pueden sintetizar directamente materia orgánica con la luz solar.",
+          "is_correct": false,
+          "feedback": "Las garzas son animales heterótrofos consumidores terciarios y no realizan fotosíntesis."
+        },
+        {
+          "letter": "D",
+          "text": "La eliminación de los mosquitos transformará a los peces guppy en organismos productores primarios.",
+          "is_correct": false,
+          "feedback": "Los peces no pueden cambiar su genética ni fisiología para convertirse en productores autótrofos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar críticamente intervenciones antropogénicas en ecosistemas mediante el análisis de las cadenas y redes de interdependencia ecológica.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-5-2026-W28-cadenas-alimenticias-redes-troficas-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

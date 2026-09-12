@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-15-grade-5-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-12T15:41:45.221Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-5-2026-W15-vias-transporte-colombia-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el medio de transporte más utilizado en Colombia para movilizar personas y carga entre las principales ciudades del interior?",
+      "context": "Colombia es un país con relieve montañoso y extensas llanuras, por lo que necesita diferentes medios de transporte para unir sus regiones y ciudades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El transporte terrestre por carretera.",
+          "is_correct": true,
+          "feedback": "La red de carreteras es el medio principal para conectar ciudades como Bogotá, Medellín y Cali."
+        },
+        {
+          "letter": "B",
+          "text": "El transporte aéreo de carga pesada.",
+          "is_correct": false,
+          "feedback": "El avión es rápido pero costoso para la mayoría de la carga nacional."
+        },
+        {
+          "letter": "C",
+          "text": "El transporte marítimo de cabotaje.",
+          "is_correct": false,
+          "feedback": "El cabotaje se usa en las costas, no entre ciudades del interior andino."
+        },
+        {
+          "letter": "D",
+          "text": "El transporte por ferrocarril de pasajeros.",
+          "is_correct": false,
+          "feedback": "En Colombia la red ferrocarrilera es muy reducida y no presta servicio masivo de pasajeros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocimiento del transporte terrestre por carretera como el modo dominante en la movilidad nacional colombiana.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-5-2026-W15-vias-transporte-colombia-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W15-vias-transporte-colombia-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué los ríos Magdalena y Cauca son importantes para el transporte en Colombia?",
+      "context": "Los ríos han sido caminos naturales de Colombia desde antes de la colonia, porque permiten navegar sin construir grandes obras de ingeniería.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque son ríos navegables que conectan el interior del país con el mar Caribe.",
+          "is_correct": true,
+          "feedback": "El Magdalena y el Cauca atraviesan el interior y sus aguas permiten llevar carga hacia los puertos del Caribe."
+        },
+        {
+          "letter": "B",
+          "text": "Porque separan a Colombia de los países vecinos.",
+          "is_correct": false,
+          "feedback": "Las fronteras las marcan otros límites; estos ríos recorren el interior del territorio."
+        },
+        {
+          "letter": "C",
+          "text": "Porque son los únicos ríos que nacen en el mar.",
+          "is_correct": false,
+          "feedback": "Ningún río nace en el mar; los ríos nacen en las montañas o en manantiales."
+        },
+        {
+          "letter": "D",
+          "text": "Porque su agua se utiliza únicamente para regar jardines.",
+          "is_correct": false,
+          "feedback": "Su uso es mucho mayor: navegación, riego, pesca y abastecimiento de poblaciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprensión del valor de los ríos navegables como corredores de transporte y comercio en el país.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.86,
+      "bundle_id": "CO-SOC-5-2026-W15-vias-transporte-colombia-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W15-vias-transporte-colombia-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de los siguientes puertos colombianos sobre el Pacífico es el más adecuado para embarcar esa exportación?",
+      "context": "Un barco cargado con café producido en el Eje Cafetero necesita salir hacia un país de Asia. El café se lleva por carretera hasta un puerto sobre el océano Pacífico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Puerto de Buenaventura.",
+          "is_correct": true,
+          "feedback": "Buenaventura es el principal puerto colombiano sobre el Pacífico y mueve gran parte de las exportaciones."
+        },
+        {
+          "letter": "B",
+          "text": "Puerto de Cartagena.",
+          "is_correct": false,
+          "feedback": "Cartagena es un gran puerto, pero está sobre el mar Caribe, no sobre el Pacífico."
+        },
+        {
+          "letter": "C",
+          "text": "Puerto de Barranquilla.",
+          "is_correct": false,
+          "feedback": "Barranquilla se ubica sobre el Caribe, en la desembocadura del río Magdalena."
+        },
+        {
+          "letter": "D",
+          "text": "Puerto de Leticia.",
+          "is_correct": false,
+          "feedback": "Leticia es un puerto fluvial sobre el Amazonas, en la frontera sur."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicación del conocimiento de la ubicación de los puertos colombianos para elegir el más conveniente según la ruta de exportación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-5-2026-W15-vias-transporte-colombia-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W15-vias-transporte-colombia-001-MASTERY-bundle-v4",
+      "statement": "¿Qué medio de transporte resulta más apropiado para cumplir ese envío en el menor tiempo posible?",
+      "context": "Una empresa necesita enviar flores frescas desde Bogotá hasta Miami en pocas horas, para que no se dañen durante el viaje.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El transporte aéreo.",
+          "is_correct": true,
+          "feedback": "El avión es el medio más rápido para largas distancias y productos perecederos como las flores."
+        },
+        {
+          "letter": "B",
+          "text": "El transporte por carretera internacional.",
+          "is_correct": false,
+          "feedback": "La carretera hacia otro continente no existe y el viaje sería demasiado lento."
+        },
+        {
+          "letter": "C",
+          "text": "El transporte fluvial por el río Magdalena.",
+          "is_correct": false,
+          "feedback": "El río Magdalena recorre el interior del país y no llega a Estados Unidos."
+        },
+        {
+          "letter": "D",
+          "text": "El transporte marítimo de contenedores.",
+          "is_correct": false,
+          "feedback": "El barco es económico pero muy lento; las flores se dañarían antes de llegar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Selección del modo de transporte según criterios de tiempo, distancia y naturaleza perecedera de la carga.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Globalización y comercio",
+      "expected_success": 0.74,
+      "bundle_id": "CO-SOC-5-2026-W15-vias-transporte-colombia-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W15-vias-transporte-colombia-001-MASTERY-bundle-v5",
+      "statement": "¿Qué combinación de vías y medios debe usar para cumplir su recorrido entre esas tres ciudades?",
+      "context": "Un turista quiere viajar de Bogotá a la ciudad de Santa Marta para conocer el mar Caribe y luego continuar por carretera a Cartagena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Viajar en avión de Bogotá a Santa Marta y luego tomar un bus por la carretera de la Costa hacia Cartagena.",
+          "is_correct": true,
+          "feedback": "El avión cubre la larga distancia desde el interior y la carretera de la Costa une Santa Marta con Cartagena."
+        },
+        {
+          "letter": "B",
+          "text": "Navegar en barco desde Bogotá por el mar Caribe hasta Santa Marta.",
+          "is_correct": false,
+          "feedback": "Bogotá está en el interior andino y no tiene salida directa al mar."
+        },
+        {
+          "letter": "C",
+          "text": "Ir en tren directo desde Bogotá hasta Cartagena sin escalas.",
+          "is_correct": false,
+          "feedback": "No existe una línea de tren de pasajeros que conecte esas ciudades."
+        },
+        {
+          "letter": "D",
+          "text": "Caminar por senderos de montaña hasta llegar al puerto de Buenaventura.",
+          "is_correct": false,
+          "feedback": "Buenaventura está en el Pacífico, en el sentido opuesto al recorrido deseado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Integración de distintos medios de transporte para planear un recorrido real entre ciudades colombianas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-5-2026-W15-vias-transporte-colombia-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W15-vias-transporte-colombia-001-MASTERY-bundle-v6",
+      "statement": "¿Qué consecuencia para la vida de las comunidades de esos municipios se puede deducir de esta situación?",
+      "context": "En época de lluvias fuertes, los derrumbes y las inundaciones dañan con frecuencia las carreteras que cruzan las montañas andinas, dejando a algunos municipios incomunicados varios días.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumentan los precios de los alimentos y se dificulta el acceso a servicios de salud por el aislamiento vial.",
+          "is_correct": true,
+          "feedback": "Al no poder entrar ni salir mercancías y personas, los productos escasean y la atención médica se retrasa."
+        },
+        {
+          "letter": "B",
+          "text": "Mejora la calidad de las carreteras gracias a la lluvia.",
+          "is_correct": false,
+          "feedback": "La lluvia y los derrumbes deterioran las vías en vez de mejorarlas."
+        },
+        {
+          "letter": "C",
+          "text": "Desaparecen por completo los ríos de la región.",
+          "is_correct": false,
+          "feedback": "Los ríos no desaparecen; al contrario, crecen con las lluvias."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los habitantes se mudan obligatoriamente a otro país.",
+          "is_correct": false,
+          "feedback": "El aislamiento temporal no implica la migración total de la población."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Análisis de las consecuencias sociales y económicas que genera la interrupción de las vías en las comunidades apartadas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-5-2026-W15-vias-transporte-colombia-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W15-vias-transporte-colombia-001-MASTERY-bundle-v7",
+      "statement": "¿Qué ventaja representa para Colombia tener puertos en dos océanos?",
+      "context": "Un país que no tiene puertos marítimos ni aeropuertos internacionales debe pagar más para mandar sus productos porque paga el transporte de otro país. Colombia cuenta con costas en el Caribe y en el Pacífico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Puede comerciar con más mercados del mundo y elegir la ruta marítima más conveniente para sus exportaciones.",
+          "is_correct": true,
+          "feedback": "Tener costas en el Atlántico y el Pacífico amplía las opciones de comercio internacional del país."
+        },
+        {
+          "letter": "B",
+          "text": "Puede dejar de producir alimentos porque ya no los necesita.",
+          "is_correct": false,
+          "feedback": "Los puertos facilitan el comercio pero no reemplazan la producción nacional de alimentos."
+        },
+        {
+          "letter": "C",
+          "text": "Puede cerrar sus fronteras terrestres con todos los países vecinos.",
+          "is_correct": false,
+          "feedback": "La salida al mar por dos océanos no elimina la importancia del comercio terrestre fronterizo."
+        },
+        {
+          "letter": "D",
+          "text": "Puede evitar pagar impuestos en cualquier actividad económica.",
+          "is_correct": false,
+          "feedback": "El comercio portuario está sujeto a impuestos y normas aduaneras colombianas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Análisis del valor estratégico de la posición bioceánica de Colombia en el comercio internacional.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Globalización y comercio",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-5-2026-W15-vias-transporte-colombia-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W15-vias-transporte-colombia-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál decisión es más conveniente para el desarrollo de la región y por qué?",
+      "context": "El gobierno de un departamento dispone de un presupuesto limitado y debe elegir entre dos obras: ampliar una vía terciaria que comunica varios municipios campesinos con la cabecera, o construir una segunda pista en el aeropuerto de la capital.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ampliar la vía terciaria, porque beneficia directamente a más comunidades y mejora su acceso a salud, educación y mercados.",
+          "is_correct": true,
+          "feedback": "La obra vial rural tiene mayor impacto social al conectar poblaciones apartadas y mejorar sus condiciones de vida."
+        },
+        {
+          "letter": "B",
+          "text": "Construir la segunda pista sin consultar a los habitantes del departamento.",
+          "is_correct": false,
+          "feedback": "Las decisiones públicas deben considerar las necesidades de la comunidad y ser transparentes."
+        },
+        {
+          "letter": "C",
+          "text": "No invertir en ninguna obra y guardar todo el dinero sin explicación.",
+          "is_correct": false,
+          "feedback": "Los recursos públicos deben destinarse al bienestar común y no dejarse sin uso."
+        },
+        {
+          "letter": "D",
+          "text": "Ampliar la vía solo hasta las fincas de las familias más adineradas.",
+          "is_correct": false,
+          "feedback": "Beneficiar a unos pocos con recursos públicos vulnera la equidad y el interés general."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluación de decisiones de inversión pública considerando el impacto social, la equidad y el beneficio colectivo de la comunidad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-5-2026-W15-vias-transporte-colombia-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

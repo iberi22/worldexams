@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-12-grade-5-subject-lectura_critica",
+    "generated_at": "2026-09-12T15:41:45.204Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-5-2026-W12-afiche-publicitario-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el propósito comunicativo de un afiche publicitario?",
+      "context": "En clase de lectura en una escuela de Tunja, la profesora muestra varios afiches pegados en la cartelera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Convencer e invitar al público a asistir a un evento, comprar un producto o apoyar una idea.",
+          "is_correct": true,
+          "feedback": "El afiche busca convencer e invitar al público mediante un mensaje breve y llamativo."
+        },
+        {
+          "letter": "B",
+          "text": "Contar únicamente una historia de terror para asustar a los lectores.",
+          "is_correct": false,
+          "feedback": "Un afiche no es un cuento de terror ni busca asustar."
+        },
+        {
+          "letter": "C",
+          "text": "Presentar solo una tabla de multiplicar para estudiar matemáticas.",
+          "is_correct": false,
+          "feedback": "Las tablas de multiplicar no son el propósito de un afiche publicitario."
+        },
+        {
+          "letter": "D",
+          "text": "Escribir solamente la fecha del día sin ningún mensaje.",
+          "is_correct": false,
+          "feedback": "La fecha sola no convence ni invita a nadie."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer el propósito comunicativo del afiche publicitario como texto persuasivo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.89,
+      "bundle_id": "CO-LC-5-2026-W12-afiche-publicitario-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W12-afiche-publicitario-001-MASTERY-bundle-v2",
+      "statement": "¿Cuáles son las partes principales de un afiche publicitario?",
+      "context": "Lee: \"Un afiche publicitario combina una imagen llamativa, un eslogan corto que se recuerda fácil y un mensaje claro con datos como fecha, lugar y hora.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Imagen llamativa, eslogan corto y mensaje claro con datos del evento.",
+          "is_correct": true,
+          "feedback": "Estas tres partes trabajan juntas para atraer la mirada y comunicar la información."
+        },
+        {
+          "letter": "B",
+          "text": "Solo una firma del autor sin imagen ni mensaje.",
+          "is_correct": false,
+          "feedback": "La firma sola no forma un afiche ni comunica el evento."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente una operación de suma sin dibujos.",
+          "is_correct": false,
+          "feedback": "Una operación matemática no es parte de un afiche publicitario."
+        },
+        {
+          "letter": "D",
+          "text": "Solo el nombre de una ciudad sin imagen ni invitación.",
+          "is_correct": false,
+          "feedback": "El nombre de la ciudad no basta para convencer o informar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender las partes del afiche y la función de la imagen, el eslogan y el mensaje.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-5-2026-W12-afiche-publicitario-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W12-afiche-publicitario-001-MASTERY-bundle-v3",
+      "statement": "¿A quién va dirigido principalmente este afiche?",
+      "context": "En la biblioteca de un colegio de Bogotá hay un afiche: \"¡Ven a la Feria del Libro de Bogotá! Historias para soñar. Parque Simón Bolívar, del 18 al 28 de abril.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A niños, jóvenes y familias que disfrutan leer y quieren visitar la feria.",
+          "is_correct": true,
+          "feedback": "La invitación abierta y la frase sobre historias muestran que busca lectores y familias."
+        },
+        {
+          "letter": "B",
+          "text": "A mecánicos que reparan buses en un taller.",
+          "is_correct": false,
+          "feedback": "El afiche habla de libros y lectura, no de reparación de buses."
+        },
+        {
+          "letter": "C",
+          "text": "A pescadores que trabajan en altamar.",
+          "is_correct": false,
+          "feedback": "El mensaje invita a una feria de libros, no a una faena de pesca."
+        },
+        {
+          "letter": "D",
+          "text": "A pilotos que vuelan aviones de carga.",
+          "is_correct": false,
+          "feedback": "Los pilotos de carga no son el público de una feria de libros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la identificación del público destinatario a partir de la invitación y el vocabulario del afiche.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-5-2026-W12-afiche-publicitario-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W12-afiche-publicitario-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el mensaje explícito de este afiche?",
+      "context": "Lee el afiche del festival de Barranquilla: \"Festival del Río en Barranquilla. Música, danza y tambores. Malecón del Río, sábado 7 de marzo, 4:00 p. m. ¡Entrada libre!\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Habrá un festival con música y danza en el Malecón del Río, el sábado 7 de marzo a las 4:00 p. m., con entrada libre.",
+          "is_correct": true,
+          "feedback": "Esta opción recoge los datos escritos directamente en el afiche."
+        },
+        {
+          "letter": "B",
+          "text": "El río Magdalena se secó y ya no hay agua.",
+          "is_correct": false,
+          "feedback": "El afiche no dice nada sobre el nivel del agua del río."
+        },
+        {
+          "letter": "C",
+          "text": "Se suspendió el festival por falta de músicos.",
+          "is_correct": false,
+          "feedback": "El afiche invita al festival, no anuncia su suspensión."
+        },
+        {
+          "letter": "D",
+          "text": "Hay que pagar una multa para cruzar el puente.",
+          "is_correct": false,
+          "feedback": "El afiche dice entrada libre y no menciona multas ni puentes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la lectura literal para recuperar el mensaje explícito escrito en el afiche.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.71,
+      "bundle_id": "CO-LC-5-2026-W12-afiche-publicitario-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W12-afiche-publicitario-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál eslogan es más adecuado para un afiche de reciclaje en Cali?",
+      "context": "Los estudiantes de quinto de una escuela de Cali harán una campaña de reciclaje y deben elegir el eslogan para su afiche.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Recicla en Cali: separa, reutiliza y cuida tu ciudad.\".",
+          "is_correct": true,
+          "feedback": "Es corto, invita a la acción y menciona el cuidado de la ciudad."
+        },
+        {
+          "letter": "B",
+          "text": "\"Compra más bolsas plásticas y bótalas al río.\".",
+          "is_correct": false,
+          "feedback": "Este mensaje contamina y contradice la campaña de reciclaje."
+        },
+        {
+          "letter": "C",
+          "text": "\"Duerme todo el día y no salgas de casa.\".",
+          "is_correct": false,
+          "feedback": "Este mensaje no tiene relación con reciclar ni cuidar la ciudad."
+        },
+        {
+          "letter": "D",
+          "text": "\"Grita muy fuerte cuando pases por el parque.\".",
+          "is_correct": false,
+          "feedback": "Gritar en el parque no ayuda a reciclar ni a cuidar el ambiente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar las características de un buen eslogan: breve, claro y motivador para la campaña.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LC-5-2026-W12-afiche-publicitario-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W12-afiche-publicitario-001-MASTERY-bundle-v6",
+      "statement": "¿Qué mensaje implícito transmite la imagen de la niña volando sobre libros abiertos?",
+      "context": "Lee el afiche: \"Feria del Libro de Bogotá. Historias para soñar. Imagen de una niña volando sobre libros abiertos como si fueran alas.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que leer permite imaginar, viajar y soñar con otros mundos.",
+          "is_correct": true,
+          "feedback": "La imagen sugiere que los libros dan alas a la imaginación, aunque no lo diga con palabras."
+        },
+        {
+          "letter": "B",
+          "text": "Que los libros sirven únicamente para sostener una mesa rota.",
+          "is_correct": false,
+          "feedback": "La imagen muestra vuelo e imaginación, no muebles rotos."
+        },
+        {
+          "letter": "C",
+          "text": "Que la niña tiene miedo de caerse de una escalera.",
+          "is_correct": false,
+          "feedback": "La niña vuela feliz sobre libros, no muestra miedo ni escaleras."
+        },
+        {
+          "letter": "D",
+          "text": "Que en la feria está prohibido abrir los libros.",
+          "is_correct": false,
+          "feedback": "El afiche invita a leer y soñar, no prohíbe abrir libros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la diferencia entre el mensaje explícito y el mensaje implícito transmitido por la imagen.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-5-2026-W12-afiche-publicitario-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W12-afiche-publicitario-001-MASTERY-bundle-v7",
+      "statement": "¿Por qué el afiche 2 comunica mejor que el afiche 1?",
+      "context": "Compara dos afiches de la campaña de reciclaje en Cali. Afiche 1: foto borrosa de una calle, letra pequeña gris, sin fecha ni lugar. Afiche 2: foto clara de niños separando residuos, eslogan grande \"Recicla y cuida Cali\" y datos de fecha y punto de recolección.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque usa imagen clara, eslogan visible y datos completos que orientan al lector.",
+          "is_correct": true,
+          "feedback": "La imagen clara atrae y los datos completos permiten participar en la campaña."
+        },
+        {
+          "letter": "B",
+          "text": "Porque usa letra pequeña que nadie puede leer.",
+          "is_correct": false,
+          "feedback": "La letra pequeña impide la lectura y debilita el mensaje del afiche 1."
+        },
+        {
+          "letter": "C",
+          "text": "Porque esconde la fecha y el lugar de la campaña.",
+          "is_correct": false,
+          "feedback": "Esconder la información impide que el público asista, como pasa en el afiche 1."
+        },
+        {
+          "letter": "D",
+          "text": "Porque muestra una foto borrosa sin relación con el tema.",
+          "is_correct": false,
+          "feedback": "La foto borrosa confunde y no apoya el mensaje, como pasa en el afiche 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar cómo la imagen, el eslogan y los datos determinan la eficacia comunicativa del afiche.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.52,
+      "bundle_id": "CO-LC-5-2026-W12-afiche-publicitario-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W12-afiche-publicitario-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la opinión mejor fundamentada sobre este afiche?",
+      "context": "Lee: \"Un grupo de quinto diseñó un afiche para el festival de Barranquilla con tambores, polleras de colores y el eslogan 'Que suene el río: ven a bailar'. Algunos compañeros dicen que es excelente y otros que le falta la fecha y el lugar.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es atractivo por su imagen y su eslogan, pero debe mejorar incluyendo fecha, hora y lugar para cumplir su propósito.",
+          "is_correct": true,
+          "feedback": "Valora lo positivo del diseño y señala con razones la información que falta para invitar bien."
+        },
+        {
+          "letter": "B",
+          "text": "Es perfecto aunque nadie entienda dónde ni cuándo es el festival.",
+          "is_correct": false,
+          "feedback": "Sin fecha ni lugar el público no puede asistir, así que no es perfecto."
+        },
+        {
+          "letter": "C",
+          "text": "Es malo porque usa colores alegres y dibujos de tambores.",
+          "is_correct": false,
+          "feedback": "Los colores y los tambores son acertados para un festival; el problema es la falta de datos."
+        },
+        {
+          "letter": "D",
+          "text": "Es bueno solo porque gastó mucho papel brillante en la impresión.",
+          "is_correct": false,
+          "feedback": "El valor del afiche está en su mensaje claro, no en el costo del papel."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar un afiche integrando imagen, eslogan y datos para emitir una opinión fundamentada.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.38,
+      "bundle_id": "CO-LC-5-2026-W12-afiche-publicitario-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-13-grade-5-subject-ingles",
+    "generated_at": "2026-09-12T15:41:45.195Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-5-2026-W13-months-dates-birthdays-001-MASTERY-bundle-v1",
+      "statement": "Which is the first month of the year?",
+      "context": "In an English class in Medellín, the teacher points to a calendar of the year.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "January.",
+          "is_correct": true,
+          "feedback": "January is the first month of the year."
+        },
+        {
+          "letter": "B",
+          "text": "March.",
+          "is_correct": false,
+          "feedback": "March is the third month, not the first."
+        },
+        {
+          "letter": "C",
+          "text": "June.",
+          "is_correct": false,
+          "feedback": "June is the sixth month, not the first."
+        },
+        {
+          "letter": "D",
+          "text": "December.",
+          "is_correct": false,
+          "feedback": "December is the twelfth and last month."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Remembering the names and order of the months of the year in English.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-5-2026-W13-months-dates-birthdays-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W13-months-dates-birthdays-001-MASTERY-bundle-v2",
+      "statement": "According to the text, when is the writer's birthday?",
+      "context": "Read: \"My birthday is on May 3rd. My best friend's birthday is on August 15th.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "On May 3rd.",
+          "is_correct": true,
+          "feedback": "The text says \"My birthday is on May 3rd.\""
+        },
+        {
+          "letter": "B",
+          "text": "On August 15th.",
+          "is_correct": false,
+          "feedback": "That is the best friend's birthday, not the writer's."
+        },
+        {
+          "letter": "C",
+          "text": "On December 25th.",
+          "is_correct": false,
+          "feedback": "December 25th is not mentioned in the text."
+        },
+        {
+          "letter": "D",
+          "text": "On January 1st.",
+          "is_correct": false,
+          "feedback": "January 1st is not mentioned in the text."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Understanding simple written information about dates and birthdays.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.86,
+      "bundle_id": "CO-ING-5-2026-W13-months-dates-birthdays-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W13-months-dates-birthdays-001-MASTERY-bundle-v3",
+      "statement": "Which sentence uses the ordinal number correctly?",
+      "context": "A student in Cali wants to say when her birthday is using an ordinal number.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "My birthday is on the 12th of September.",
+          "is_correct": true,
+          "feedback": "\"12th\" is the correct ordinal form for twelve."
+        },
+        {
+          "letter": "B",
+          "text": "My birthday is on the 12 of September.",
+          "is_correct": false,
+          "feedback": "The ordinal needs \"th\": \"12th\"."
+        },
+        {
+          "letter": "C",
+          "text": "My birthday is on September 12th of.",
+          "is_correct": false,
+          "feedback": "The word order is wrong; \"of\" must come before the month."
+        },
+        {
+          "letter": "D",
+          "text": "My birthday is in the 12nd of September.",
+          "is_correct": false,
+          "feedback": "\"12nd\" is not a correct ordinal form."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Applying ordinal numbers (1st, 2nd, 3rd, 4th...) to express dates in English.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.79,
+      "bundle_id": "CO-ING-5-2026-W13-months-dates-birthdays-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W13-months-dates-birthdays-001-MASTERY-bundle-v4",
+      "statement": "Which holiday is celebrated in Colombia on July 20th?",
+      "context": "A poster in a school in Bogotá lists Colombian holidays in English.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Independence Day.",
+          "is_correct": true,
+          "feedback": "Colombia celebrates its Independence Day on July 20th."
+        },
+        {
+          "letter": "B",
+          "text": "Christmas Day.",
+          "is_correct": false,
+          "feedback": "Christmas is celebrated on December 25th."
+        },
+        {
+          "letter": "C",
+          "text": "New Year's Day.",
+          "is_correct": false,
+          "feedback": "New Year's Day is on January 1st."
+        },
+        {
+          "letter": "D",
+          "text": "Halloween.",
+          "is_correct": false,
+          "feedback": "Halloween is on October 31st and is not a Colombian national holiday."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Recognizing Colombian holidays and their dates in English.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-ING-5-2026-W13-months-dates-birthdays-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W13-months-dates-birthdays-001-MASTERY-bundle-v5",
+      "statement": "Which is the correct question?",
+      "context": "A student wants to ask a new friend in English about his birthday.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "When is your birthday?",
+          "is_correct": true,
+          "feedback": "\"When is your birthday?\" is the correct way to ask for the date."
+        },
+        {
+          "letter": "B",
+          "text": "When your birthday is?",
+          "is_correct": false,
+          "feedback": "The word order is incorrect; the verb \"is\" must come before the subject."
+        },
+        {
+          "letter": "C",
+          "text": "What birthday is yours?",
+          "is_correct": false,
+          "feedback": "This is not a correct question in English."
+        },
+        {
+          "letter": "D",
+          "text": "How many birthday you have?",
+          "is_correct": false,
+          "feedback": "This question does not ask for the date of a birthday."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Forming polite questions in English to ask about birthdays and dates.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.69,
+      "bundle_id": "CO-ING-5-2026-W13-months-dates-birthdays-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W13-months-dates-birthdays-001-MASTERY-bundle-v6",
+      "statement": "What is the main idea of the text?",
+      "context": "Read: \"In Colombia, many families celebrate birthdays with a party, cake, and music. Children usually invite their friends and play games together.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Colombian birthday parties usually include cake, music, and games with friends.",
+          "is_correct": true,
+          "feedback": "The text describes how families celebrate birthdays in Colombia."
+        },
+        {
+          "letter": "B",
+          "text": "Birthdays in Colombia are never celebrated with friends.",
+          "is_correct": false,
+          "feedback": "The text says children usually invite their friends."
+        },
+        {
+          "letter": "C",
+          "text": "Only adults celebrate birthdays in Colombia.",
+          "is_correct": false,
+          "feedback": "The text mentions children celebrating and playing games."
+        },
+        {
+          "letter": "D",
+          "text": "Birthday parties are forbidden in Colombia.",
+          "is_correct": false,
+          "feedback": "The text describes celebrations, not prohibitions."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analyzing a short paragraph in English to identify its main idea.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.63,
+      "bundle_id": "CO-ING-5-2026-W13-months-dates-birthdays-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W13-months-dates-birthdays-001-MASTERY-bundle-v7",
+      "statement": "Why do the two sentences use different prepositions?",
+      "context": "Read the sentences: \"The party is in December.\" and \"The party is on December 5th.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"In\" is used with months and \"on\" with specific dates.",
+          "is_correct": true,
+          "feedback": "We say \"in December\" for the month and \"on December 5th\" for a date."
+        },
+        {
+          "letter": "B",
+          "text": "\"On\" is used with months and \"in\" with specific dates.",
+          "is_correct": false,
+          "feedback": "It is the opposite: \"in\" goes with months and \"on\" with dates."
+        },
+        {
+          "letter": "C",
+          "text": "Both prepositions can be exchanged without changing meaning.",
+          "is_correct": false,
+          "feedback": "The prepositions are not interchangeable here."
+        },
+        {
+          "letter": "D",
+          "text": "Months never take a preposition in English.",
+          "is_correct": false,
+          "feedback": "Months do take the preposition \"in\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analyzing the correct use of the prepositions \"in\" and \"on\" with months and dates.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.58,
+      "bundle_id": "CO-ING-5-2026-W13-months-dates-birthdays-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W13-months-dates-birthdays-001-MASTERY-bundle-v8",
+      "statement": "Based on the text, which statement is true?",
+      "context": "Read: 'Maria's birthday is on October 9th. Her school has a concert on October 7th and a football game on October 12th.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Maria's birthday comes after the concert but before the football game.",
+          "is_correct": true,
+          "feedback": "October 9th is after October 7th and before October 12th."
+        },
+        {
+          "letter": "B",
+          "text": "Maria's birthday is before the concert.",
+          "is_correct": false,
+          "feedback": "October 9th is after the concert on October 7th."
+        },
+        {
+          "letter": "C",
+          "text": "Maria's birthday is after the football game.",
+          "is_correct": false,
+          "feedback": "October 9th is before the game on October 12th."
+        },
+        {
+          "letter": "D",
+          "text": "Maria's birthday is on the same day as the concert.",
+          "is_correct": false,
+          "feedback": "The birthday and the concert are on different days."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluating dates in sequence to determine the correct order of events in English.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-5-2026-W13-months-dates-birthdays-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

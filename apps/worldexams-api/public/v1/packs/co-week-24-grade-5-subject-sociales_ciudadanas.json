@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-24-grade-5-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-12T15:41:45.226Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-5-2026-W24-riesgos-naturales-prevencion-desastres-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de los siguientes es un riesgo natural que puede afectar a las comunidades en Colombia?",
+      "context": "En una escuela de Pasto, la profesora explica que algunos fenómenos de la naturaleza pueden convertirse en desastres cuando no se previenen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un deslizamiento de tierra en una ladera durante la temporada de lluvias.",
+          "is_correct": true,
+          "feedback": "Los deslizamientos son fenómenos naturales que se agravan con la lluvia y el mal uso del suelo."
+        },
+        {
+          "letter": "B",
+          "text": "Una discusión entre vecinos por el ruido de una fiesta.",
+          "is_correct": false,
+          "feedback": "Es un conflicto social entre personas y no un fenómeno de la naturaleza."
+        },
+        {
+          "letter": "C",
+          "text": "El aumento del precio de los alimentos en el mercado.",
+          "is_correct": false,
+          "feedback": "Es una situación económica de la comunidad y no un riesgo natural."
+        },
+        {
+          "letter": "D",
+          "text": "La llegada de turistas a la ciudad durante las vacaciones.",
+          "is_correct": false,
+          "feedback": "Es un hecho cotidiano sin relación directa con los riesgos naturales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los riesgos naturales son fenómenos como sismos, inundaciones, deslizamientos y erupciones que pueden causar daño. Reconocerlos permite prepararse y reducir sus consecuencias.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-5-2026-W24-riesgos-naturales-prevencion-desastres-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W24-riesgos-naturales-prevencion-desastres-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué Colombia presenta una gran variedad de riesgos naturales como sismos, erupciones e inundaciones?",
+      "context": "Los estudiantes de Tunja investigan por qué Colombia es un país con tantos riesgos naturales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque no tiene montañas ni ríos en su territorio.",
+          "is_correct": false,
+          "feedback": "Colombia tiene tres cordilleras y numerosos ríos, así que este enunciado es falso."
+        },
+        {
+          "letter": "B",
+          "text": "Porque todos sus habitantes viven en la costa del mar.",
+          "is_correct": false,
+          "feedback": "La población colombiana habita regiones muy diversas y no solo la costa."
+        },
+        {
+          "letter": "C",
+          "text": "Porque se ubica donde se encuentran placas tectónicas y posee gran variedad de relieves y climas.",
+          "is_correct": true,
+          "feedback": "El choque de placas y la diversidad de relieves y climas favorecen sismos, erupciones e inundaciones."
+        },
+        {
+          "letter": "D",
+          "text": "Porque no existen entidades que estudien los fenómenos naturales.",
+          "is_correct": false,
+          "feedback": "En Colombia sí existen entidades como el SGC y el IDEAM que estudian estos fenómenos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La ubicación de Colombia en el encuentro de placas tectónicas, junto con sus tres cordilleras y su variedad de climas, explica la presencia de sismos, erupciones, deslizamientos e inundaciones.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.86,
+      "bundle_id": "CO-SOC-5-2026-W24-riesgos-naturales-prevencion-desastres-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W24-riesgos-naturales-prevencion-desastres-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la acción más adecuada que deben realizar los estudiantes en ese momento?",
+      "context": "Durante un simulacro en un colegio de Neiva, suena la alarma de sismo mientras los estudiantes están en el aula.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Salir corriendo por las escaleras sin escuchar instrucciones.",
+          "is_correct": false,
+          "feedback": "Correr y empujar aumenta el riesgo de accidentes durante la evacuación."
+        },
+        {
+          "letter": "B",
+          "text": "Cubrirse bajo el pupitre, proteger la cabeza y seguir las indicaciones del docente.",
+          "is_correct": true,
+          "feedback": "Agacharse, cubrirse y sujetarse protege de los objetos que pueden caer."
+        },
+        {
+          "letter": "C",
+          "text": "Subir al techo del colegio para observar qué está ocurriendo.",
+          "is_correct": false,
+          "feedback": "Ubicarse en zonas altas o exponerse al exterior aumenta el peligro."
+        },
+        {
+          "letter": "D",
+          "text": "Esconderse en el baño y gritar hasta que pase el temblor.",
+          "is_correct": false,
+          "feedback": "Esconderse sin plan ni protección no es la conducta recomendada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Durante un sismo, la conducta de agacharse, cubrirse y sujetarse bajo un mueble firme protege la cabeza y el cuerpo. Después, se sigue la ruta de evacuación con calma y sin correr.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.82,
+      "bundle_id": "CO-SOC-5-2026-W24-riesgos-naturales-prevencion-desastres-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W24-riesgos-naturales-prevencion-desastres-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál conjunto de elementos debe incluir Sofía en la mochila de emergencia?",
+      "context": "La familia de Sofía vive en Manizales y quiere preparar una mochila de emergencia para casos de evacuación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Consolas de videojuegos, televisor portátil y juguetes grandes.",
+          "is_correct": false,
+          "feedback": "Los objetos de entretenimiento pesado no son prioritarios en una emergencia."
+        },
+        {
+          "letter": "B",
+          "text": "Solo golosinas y refrescos para varios días.",
+          "is_correct": false,
+          "feedback": "La alimentación debe ser nutritiva y no basarse únicamente en dulces."
+        },
+        {
+          "letter": "C",
+          "text": "Ropa de fiesta y zapatos de tacón alto.",
+          "is_correct": false,
+          "feedback": "Se necesita ropa cómoda y abrigada, no ropa de fiesta."
+        },
+        {
+          "letter": "D",
+          "text": "Agua, alimentos no perecederos, linterna, botiquín, radio y documentos en bolsa plástica.",
+          "is_correct": true,
+          "feedback": "Estos elementos cubren las necesidades básicas de hidratación, salud, información y abrigo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La mochila de emergencia debe ser liviana y contener lo esencial para las primeras horas: agua, alimentos duraderos, linterna, botiquín, radio, abrigo y copias de documentos protegidas del agua.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.78,
+      "bundle_id": "CO-SOC-5-2026-W24-riesgos-naturales-prevencion-desastres-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W24-riesgos-naturales-prevencion-desastres-001-MASTERY-bundle-v5",
+      "statement": "¿Qué acción ayuda a que el plan de emergencia escolar funcione correctamente?",
+      "context": "El comité de gestión del riesgo de un colegio de Armenia organiza el plan de emergencia escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Señalizar las rutas de evacuación y realizar simulacros periódicos.",
+          "is_correct": true,
+          "feedback": "Las rutas claras y la práctica mediante simulacros preparan a toda la comunidad educativa."
+        },
+        {
+          "letter": "B",
+          "text": "Guardar el plan en un cajón y no socializarlo con nadie.",
+          "is_correct": false,
+          "feedback": "Un plan que nadie conoce no sirve para proteger a la comunidad."
+        },
+        {
+          "letter": "C",
+          "text": "Evacuar cada curso por la misma puerta al mismo tiempo.",
+          "is_correct": false,
+          "feedback": "Evacuar todos por el mismo punto genera aglomeraciones y accidentes."
+        },
+        {
+          "letter": "D",
+          "text": "Esperar a que ocurra la emergencia para decidir qué hacer.",
+          "is_correct": false,
+          "feedback": "La prevención se realiza antes de la emergencia, no durante ella."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un plan de emergencia funciona cuando toda la comunidad lo conoce y lo practica. La señalización de rutas, los puntos de encuentro y los simulacros periódicos permiten actuar con orden y rapidez.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.74,
+      "bundle_id": "CO-SOC-5-2026-W24-riesgos-naturales-prevencion-desastres-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W24-riesgos-naturales-prevencion-desastres-001-MASTERY-bundle-v6",
+      "statement": "A partir de esta situación, ¿cuál es el riesgo más probable y la medida más adecuada?",
+      "context": "Una familia vive en una casa construida al borde de un río, en una zona donde llueve intensamente durante varias semanas seguidas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Erupción volcánica; la familia debe comprar paraguas para protegerse.",
+          "is_correct": false,
+          "feedback": "La erupción no se relaciona con vivir cerca del río y el paraguas no reduce ese riesgo."
+        },
+        {
+          "letter": "B",
+          "text": "Sequía; la familia debe almacenar más agua en recipientes.",
+          "is_correct": false,
+          "feedback": "La lluvia intensa indica exceso de agua, no escasez."
+        },
+        {
+          "letter": "C",
+          "text": "Inundación; la familia debe evacuar a un lugar alto y seguir las alertas de las autoridades.",
+          "is_correct": true,
+          "feedback": "El río crecido por las lluvias puede desbordarse; alejarse y atender las alertas reduce el riesgo."
+        },
+        {
+          "letter": "D",
+          "text": "Terremoto; la familia debe apagar la luz de toda la casa.",
+          "is_correct": false,
+          "feedback": "Apagar la luz no evita un sismo ni protege de una creciente del río."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando vive cerca de un río y llueve intensamente, el riesgo más probable es la inundación. La respuesta adecuada es alejarse de la ribera, buscar zonas altas y atender las alertas de las autoridades.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-5-2026-W24-riesgos-naturales-prevencion-desastres-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W24-riesgos-naturales-prevencion-desastres-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál afirmación explica mejor por qué el barrio A tiene mayor riesgo de deslizamiento?",
+      "context": "Dos barrios de una ciudad colombiana presentan condiciones distintas: el barrio A está en una ladera deforestada y el barrio B está en una zona plana con buen drenaje.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque en el barrio A llueve más que en todo el resto del país.",
+          "is_correct": false,
+          "feedback": "La lluvia es un factor, pero no explica por sí sola la diferencia entre los dos barrios."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la ladera sin árboles pierde la sujeción del suelo y el agua de lluvia lo desestabiliza.",
+          "is_correct": true,
+          "feedback": "La deforestación reduce las raíces que sostienen el suelo y aumenta el riesgo de deslizamiento."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el barrio B tiene más habitantes que el barrio A.",
+          "is_correct": false,
+          "feedback": "La cantidad de habitantes no determina por sí misma el riesgo de deslizamiento."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el barrio A está más cerca del mar que el barrio B.",
+          "is_correct": false,
+          "feedback": "La cercanía al mar no es la causa principal de un deslizamiento en una ladera."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las condiciones del terreno influyen en el riesgo. Una ladera deforestada pierde la sujeción que brindan las raíces y, con la lluvia, el suelo se vuelve inestable. Esto muestra cómo las condiciones de vida de un barrio afectan su nivel de riesgo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.66,
+      "bundle_id": "CO-SOC-5-2026-W24-riesgos-naturales-prevencion-desastres-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W24-riesgos-naturales-prevencion-desastres-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál propuesta es la más adecuada para reducir el riesgo de desastres a largo plazo?",
+      "context": "Una comunidad de Bucaramanga debate cuatro propuestas para reducir el riesgo de desastres en su municipio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Construir viviendas nuevas en las zonas de mayor pendiente.",
+          "is_correct": false,
+          "feedback": "Construir en laderas aumenta la exposición al riesgo de deslizamientos."
+        },
+        {
+          "letter": "B",
+          "text": "Ignorar las alertas de las autoridades hasta que ocurra un desastre.",
+          "is_correct": false,
+          "feedback": "Ignorar las alertas elimina la posibilidad de prevenir y proteger vidas."
+        },
+        {
+          "letter": "C",
+          "text": "Rellenar los ríos con escombros para ganar terreno.",
+          "is_correct": false,
+          "feedback": "Intervenir los cauces aumenta el riesgo de inundaciones aguas abajo."
+        },
+        {
+          "letter": "D",
+          "text": "Ordenar el uso del suelo, reforestar laderas y capacitar a la comunidad en prevención.",
+          "is_correct": true,
+          "feedback": "Estas acciones reducen la exposición y aumentan la preparación, atacando la causa del riesgo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Reducir el riesgo a largo plazo exige actuar sobre las causas: ordenar dónde se puede construir, recuperar la vegetación de las laderas y educar a la comunidad. La prevención oportuna protege la vida y los bienes de todos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.62,
+      "bundle_id": "CO-SOC-5-2026-W24-riesgos-naturales-prevencion-desastres-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

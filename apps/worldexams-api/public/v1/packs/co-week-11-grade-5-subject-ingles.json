@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-11-grade-5-subject-ingles",
+    "generated_at": "2026-09-12T15:41:45.195Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-5-2026-W11-occupations-community-helpers-001-MASTERY-bundle-v1",
+      "statement": "Which word in English names the person who teaches students in a school?",
+      "context": "In a school in Medellin, a visitor shows pictures of people who help the community.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Teacher.",
+          "is_correct": true,
+          "feedback": "A teacher works in a school and helps students learn new things."
+        },
+        {
+          "letter": "B",
+          "text": "Doctor.",
+          "is_correct": false,
+          "feedback": "A doctor takes care of sick people in a hospital or clinic."
+        },
+        {
+          "letter": "C",
+          "text": "Driver.",
+          "is_correct": false,
+          "feedback": "A driver moves people or goods in a bus, a taxi, or a truck."
+        },
+        {
+          "letter": "D",
+          "text": "Farmer.",
+          "is_correct": false,
+          "feedback": "A farmer works in the field and grows food for the community."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identifying basic occupations by their main function in English (teacher, doctor, driver, farmer). / Identificar oficios basicos segun su funcion en ingles.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-5-2026-W11-occupations-community-helpers-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W11-occupations-community-helpers-001-MASTERY-bundle-v2",
+      "statement": "What does Mr. Gomez do?",
+      "context": "Read: \"Mr. Gomez is a farmer. He gets up very early and works in the field near Ibague.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He grows food in the field every day.",
+          "is_correct": true,
+          "feedback": "The text says Mr. Gomez is a farmer who works in the field."
+        },
+        {
+          "letter": "B",
+          "text": "He drives a bus in the city.",
+          "is_correct": false,
+          "feedback": "Driving a bus is the work of a driver, not a farmer."
+        },
+        {
+          "letter": "C",
+          "text": "He sells medicine in a pharmacy.",
+          "is_correct": false,
+          "feedback": "Selling medicine is not mentioned and is not the farmer's work."
+        },
+        {
+          "letter": "D",
+          "text": "He helps sick people in a hospital.",
+          "is_correct": false,
+          "feedback": "Helping sick people is the work of a doctor or a nurse."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Understanding what a person does from a short descriptive text in English. / Comprender la funcion de una persona a partir de un texto corto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-5-2026-W11-occupations-community-helpers-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W11-occupations-community-helpers-001-MASTERY-bundle-v3",
+      "statement": "Which sentence correctly uses the verb \"work\" with the third person singular?",
+      "context": "A student talks about her mother: \"My mother is a doctor. She works in a hospital in Cali.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She works in a hospital.",
+          "is_correct": true,
+          "feedback": "\"Works\" adds -s to agree with the third person singular subject \"she\"."
+        },
+        {
+          "letter": "B",
+          "text": "She work in a hospital.",
+          "is_correct": false,
+          "feedback": "\"Work\" without -s is incorrect with \"she\" in Simple Present."
+        },
+        {
+          "letter": "C",
+          "text": "She working in a hospital.",
+          "is_correct": false,
+          "feedback": "\"Working\" is a gerund and needs an auxiliary verb here."
+        },
+        {
+          "letter": "D",
+          "text": "She is work in a hospital.",
+          "is_correct": false,
+          "feedback": "\"Is\" cannot be followed by the base form \"work\" in this sentence."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Using the Simple Present with the third person singular to describe jobs in English. / Usar el presente simple en tercera persona para describir oficios.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.76,
+      "bundle_id": "CO-ING-5-2026-W11-occupations-community-helpers-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W11-occupations-community-helpers-001-MASTERY-bundle-v4",
+      "statement": "Which question correctly matches this answer about a job?",
+      "context": "A police officer in Bucaramanga says: \"I help people and take care of the streets in my city.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "What does a police officer do?",
+          "is_correct": true,
+          "feedback": "The answer describes the actions of a police officer, so this question fits."
+        },
+        {
+          "letter": "B",
+          "text": "How old is a police officer?",
+          "is_correct": false,
+          "feedback": "The answer does not give an age, so this question does not match."
+        },
+        {
+          "letter": "C",
+          "text": "Where does a police officer live?",
+          "is_correct": false,
+          "feedback": "The answer does not mention a home or an address."
+        },
+        {
+          "letter": "D",
+          "text": "What color is the police officer's car?",
+          "is_correct": false,
+          "feedback": "The answer does not talk about the color of any car."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Matching questions with answers about occupations in English. / Relacionar preguntas con respuestas sobre oficios.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-5-2026-W11-occupations-community-helpers-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W11-occupations-community-helpers-001-MASTERY-bundle-v5",
+      "statement": "Choose the correct sentence that describes what a bus driver does.",
+      "context": "A bus driver in Barranquilla says: \"I start work at five in the morning and I drive students to school.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A bus driver drives people from one place to another.",
+          "is_correct": true,
+          "feedback": "Driving people from one place to another is the main action of a bus driver."
+        },
+        {
+          "letter": "B",
+          "text": "A bus driver teaches children to read.",
+          "is_correct": false,
+          "feedback": "Teaching children is the work of a teacher, not a driver."
+        },
+        {
+          "letter": "C",
+          "text": "A bus driver grows vegetables in the field.",
+          "is_correct": false,
+          "feedback": "Growing vegetables is the work of a farmer, not a driver."
+        },
+        {
+          "letter": "D",
+          "text": "A bus driver helps sick animals.",
+          "is_correct": false,
+          "feedback": "Helping sick animals is the work of a veterinarian, not a driver."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Describing the main action of a job with a simple sentence in English. / Describir la accion principal de un oficio con una oracion simple.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.66,
+      "bundle_id": "CO-ING-5-2026-W11-occupations-community-helpers-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W11-occupations-community-helpers-001-MASTERY-bundle-v6",
+      "statement": "Which occupation does Mr. Rojas have?",
+      "context": "Read: \"When Diana has a bad tooth, she goes to see Mr. Rojas. He looks at her teeth and helps her feel better.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He is a dentist.",
+          "is_correct": true,
+          "feedback": "Looking at teeth and helping them feel better is the work of a dentist."
+        },
+        {
+          "letter": "B",
+          "text": "He is a teacher.",
+          "is_correct": false,
+          "feedback": "A teacher works with students in a school, not with teeth."
+        },
+        {
+          "letter": "C",
+          "text": "He is a farmer.",
+          "is_correct": false,
+          "feedback": "A farmer works in the field with plants and animals."
+        },
+        {
+          "letter": "D",
+          "text": "He is a police officer.",
+          "is_correct": false,
+          "feedback": "A police officer takes care of people and streets, not teeth."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Inferring a person's occupation from clues in a short text in English. / Inferir el oficio de una persona a partir de pistas en un texto corto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.58,
+      "bundle_id": "CO-ING-5-2026-W11-occupations-community-helpers-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W11-occupations-community-helpers-001-MASTERY-bundle-v7",
+      "statement": "Which comparison correctly explains how these two helpers are similar?",
+      "context": "Compare two helpers: \"The doctor helps people who are sick, and the teacher helps children learn. Both work to help the community.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both the doctor and the teacher help people in the community.",
+          "is_correct": true,
+          "feedback": "The text says both helpers work to help the community."
+        },
+        {
+          "letter": "B",
+          "text": "Both the doctor and the teacher grow food in the field.",
+          "is_correct": false,
+          "feedback": "Growing food is the work of a farmer, not of these two helpers."
+        },
+        {
+          "letter": "C",
+          "text": "The doctor teaches children and the teacher gives medicine.",
+          "is_correct": false,
+          "feedback": "The text says the opposite of these two roles."
+        },
+        {
+          "letter": "D",
+          "text": "Neither the doctor nor the teacher works in the community.",
+          "is_correct": false,
+          "feedback": "The text says both of them help the community."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparing two occupations in English to find what they have in common. / Comparar dos oficios en ingles para hallar lo que tienen en comun.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.52,
+      "bundle_id": "CO-ING-5-2026-W11-occupations-community-helpers-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W11-occupations-community-helpers-001-MASTERY-bundle-v8",
+      "statement": "What is the most important message of this paragraph?",
+      "context": "Read: 'Many people work in a city every day. Doctors, teachers, police officers, drivers, and farmers do different jobs, but all of them help the community in different ways.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Different jobs help the community in different ways.",
+          "is_correct": true,
+          "feedback": "The text lists several jobs and says all of them help the community."
+        },
+        {
+          "letter": "B",
+          "text": "Only doctors are important in a city.",
+          "is_correct": false,
+          "feedback": "The text mentions many jobs, not only doctors."
+        },
+        {
+          "letter": "C",
+          "text": "Farmers do not help the community.",
+          "is_correct": false,
+          "feedback": "The text includes farmers among the people who help the community."
+        },
+        {
+          "letter": "D",
+          "text": "All people in a city have the same job.",
+          "is_correct": false,
+          "feedback": "The text says people do different jobs, not the same one."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluating the main message of a short expository paragraph about jobs and community helpers. / Evaluar el mensaje principal de un parrafo sobre oficios y ayudantes de la comunidad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.31,
+      "bundle_id": "CO-ING-5-2026-W11-occupations-community-helpers-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

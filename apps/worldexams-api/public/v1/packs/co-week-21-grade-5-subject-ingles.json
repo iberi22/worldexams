@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-21-grade-5-subject-ingles",
+    "generated_at": "2026-09-12T15:41:45.197Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-5-2026-W21-abilities-can-cannot-sports-001-MASTERY-bundle-v1",
+      "statement": "Which word in English means the ability to do something?",
+      "context": "In a fifth-grade class in Medellin, the teacher shows flashcards of sports like soccer, swimming, and basketball.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Can\".",
+          "is_correct": true,
+          "feedback": "\"Can\" expresses ability in English (e.g., I can swim)."
+        },
+        {
+          "letter": "B",
+          "text": "\"Must\".",
+          "is_correct": false,
+          "feedback": "\"Must\" expresses obligation, not ability."
+        },
+        {
+          "letter": "C",
+          "text": "\"Should\".",
+          "is_correct": false,
+          "feedback": "\"Should\" is used to give advice, not to talk about ability."
+        },
+        {
+          "letter": "D",
+          "text": "\"May\".",
+          "is_correct": false,
+          "feedback": "\"May\" is mainly used for permission or possibility, not ability."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer el modal \"can\" como el verbo que expresa habilidad en inglés.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-5-2026-W21-abilities-can-cannot-sports-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W21-abilities-can-cannot-sports-001-MASTERY-bundle-v2",
+      "statement": "Why does Camila say she cannot play tennis?",
+      "context": "Read: \"Camila can play soccer very well. She cannot play tennis because she does not have a racket.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Because she does not have a racket, so she is not able to play tennis.",
+          "is_correct": true,
+          "feedback": "\"Cannot\" expresses lack of ability or the impossibility of doing something."
+        },
+        {
+          "letter": "B",
+          "text": "Because tennis is a very easy sport.",
+          "is_correct": false,
+          "feedback": "Difficulty is not mentioned; the reason is the missing racket."
+        },
+        {
+          "letter": "C",
+          "text": "Because she wants to play soccer all day.",
+          "is_correct": false,
+          "feedback": "The text focuses on the racket, not on her preferences."
+        },
+        {
+          "letter": "D",
+          "text": "Because tennis is only for adults.",
+          "is_correct": false,
+          "feedback": "The text does not say tennis is only for adults."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender el uso de \"can\" y \"cannot\" para hablar de habilidades reales.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-5-2026-W21-abilities-can-cannot-sports-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W21-abilities-can-cannot-sports-001-MASTERY-bundle-v3",
+      "statement": "Which sentence correctly describes Juan's ability?",
+      "context": "A student in Cali wants to describe what his friends can do: \"Mateo can run fast. Laura can swim. Juan cannot ride a bike.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Juan cannot ride a bike.",
+          "is_correct": true,
+          "feedback": "\"Cannot\" shows that Juan does not have the ability to ride a bike."
+        },
+        {
+          "letter": "B",
+          "text": "Juan can ride a bike.",
+          "is_correct": false,
+          "feedback": "According to the text, Juan cannot ride a bike."
+        },
+        {
+          "letter": "C",
+          "text": "Juan cans ride a bike.",
+          "is_correct": false,
+          "feedback": "\"Can\" does not take a final -s; we say \"Juan can ride\"."
+        },
+        {
+          "letter": "D",
+          "text": "Juan don't can ride a bike.",
+          "is_correct": false,
+          "feedback": "The correct negative is \"cannot\" or \"can't\", not \"don't can\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la forma negativa \"cannot\" para describir lo que alguien no sabe hacer.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-5-2026-W21-abilities-can-cannot-sports-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W21-abilities-can-cannot-sports-001-MASTERY-bundle-v4",
+      "statement": "Which is the correct short answer when a student cannot play basketball?",
+      "context": "At a sports day in Bucaramanga, a teacher asks the students: \"Can you play basketball? Can you swim? Can you ride a bike?\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, I can't.",
+          "is_correct": true,
+          "feedback": "\"No, I can't\" is the standard short negative answer with \"can\"."
+        },
+        {
+          "letter": "B",
+          "text": "Yes, I can't.",
+          "is_correct": false,
+          "feedback": "\"Yes\" contradicts the negative \"can't\"; they cannot be used together."
+        },
+        {
+          "letter": "C",
+          "text": "No, I don't can.",
+          "is_correct": false,
+          "feedback": "\"Don't can\" is not grammatical in English."
+        },
+        {
+          "letter": "D",
+          "text": "No, I not can.",
+          "is_correct": false,
+          "feedback": "The correct negative is \"cannot\" or \"can't\", not \"not can\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar respuestas cortas afirmativas y negativas con \"can\" en conversaciones sencillas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.83,
+      "bundle_id": "CO-ING-5-2026-W21-abilities-can-cannot-sports-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W21-abilities-can-cannot-sports-001-MASTERY-bundle-v5",
+      "statement": "Complete the sentence: \"My sister can _____ , but she cannot ski.\"",
+      "context": "Read: \"My sister is a good athlete. She can run, jump and play volleyball. She cannot ski because there are no mountains near our town.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "play volleyball.",
+          "is_correct": true,
+          "feedback": "The text says she can play volleyball, so this option fits the sentence."
+        },
+        {
+          "letter": "B",
+          "text": "ski.",
+          "is_correct": false,
+          "feedback": "The sentence already says she cannot ski, so this option contradicts it."
+        },
+        {
+          "letter": "C",
+          "text": "fly a plane.",
+          "is_correct": false,
+          "feedback": "Flying a plane is not mentioned among her abilities."
+        },
+        {
+          "letter": "D",
+          "text": "write a novel.",
+          "is_correct": false,
+          "feedback": "Writing a novel is not related to the sports abilities described."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la información del texto para completar oraciones con \"can\" y \"cannot\".",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-5-2026-W21-abilities-can-cannot-sports-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W21-abilities-can-cannot-sports-001-MASTERY-bundle-v6",
+      "statement": "What ability do Andres and Mariana have in common?",
+      "context": "Compare: \"Andres can play soccer, but he cannot swim. Mariana can swim and play tennis, but she cannot ride a horse.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both can play at least one sport, but their abilities are different.",
+          "is_correct": true,
+          "feedback": "Andres can play soccer and Mariana can swim and play tennis; both are able to do sports."
+        },
+        {
+          "letter": "B",
+          "text": "Neither of them can do any sport.",
+          "is_correct": false,
+          "feedback": "Both can do at least one sport, so this is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Both can ride a horse.",
+          "is_correct": false,
+          "feedback": "Only Mariana can ride a horse; Andres is not mentioned as able to."
+        },
+        {
+          "letter": "D",
+          "text": "Both cannot swim.",
+          "is_correct": false,
+          "feedback": "Mariana can swim, so it is not true that both cannot swim."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar habilidades comunes y diferentes usando \"can\" y \"cannot\".",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.76,
+      "bundle_id": "CO-ING-5-2026-W21-abilities-can-cannot-sports-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W21-abilities-can-cannot-sports-001-MASTERY-bundle-v7",
+      "statement": "Which conclusion can you draw from the text about Daniel's abilities?",
+      "context": "Read: \"Daniel can play basketball at school. Daniel cannot play tennis because he does not have time to practice.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Daniel has the ability to play basketball, but lacks time to practice tennis, so he cannot play it well.",
+          "is_correct": true,
+          "feedback": "The text shows ability for basketball and a practical limitation for tennis."
+        },
+        {
+          "letter": "B",
+          "text": "Daniel is unable to do any kind of sport.",
+          "is_correct": false,
+          "feedback": "The text clearly states Daniel can play basketball."
+        },
+        {
+          "letter": "C",
+          "text": "Daniel can play tennis better than basketball.",
+          "is_correct": false,
+          "feedback": "The text says he cannot play tennis, so this is not a valid conclusion."
+        },
+        {
+          "letter": "D",
+          "text": "Daniel has no interest in any sport.",
+          "is_correct": false,
+          "feedback": "The text mentions that he does have time issues, not lack of interest."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar causas de habilidad o falta de habilidad según el contexto presentado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-5-2026-W21-abilities-can-cannot-sports-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W21-abilities-can-cannot-sports-001-MASTERY-bundle-v8",
+      "statement": "Why is it useful to learn \"can\" and \"cannot\" when talking about sports in English?",
+      "context": "Read: 'Knowing how to use \"can\" and \"cannot\" allows students to talk about real abilities, ask polite questions, and value what each classmate can or cannot do in sports and daily life.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Because they let us describe real abilities, ask about others, and respect differences in what each person can do.",
+          "is_correct": true,
+          "feedback": "\"Can\" y \"cannot\" permiten comunicar habilidades reales con respeto."
+        },
+        {
+          "letter": "B",
+          "text": "Because they are only used in very formal written English.",
+          "is_correct": false,
+          "feedback": "\"Can\" y \"cannot\" se usan a diario, en contextos formales e informales."
+        },
+        {
+          "letter": "C",
+          "text": "Because they are useless in everyday conversations.",
+          "is_correct": false,
+          "feedback": "Al contrario, \"can\" y \"cannot\" son muy útiles en conversaciones cotidianas."
+        },
+        {
+          "letter": "D",
+          "text": "Because they replace the verbs of action completely.",
+          "is_correct": false,
+          "feedback": "\"Can\" acompaña al verbo principal, no lo reemplaza."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la utilidad de \"can\" y \"cannot\" para describir habilidades en contextos deportivos y sociales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-5-2026-W21-abilities-can-cannot-sports-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

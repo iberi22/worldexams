@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-19-grade-5-subject-ingles",
+    "generated_at": "2026-09-12T15:41:45.197Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-5-2026-W19-comparatives-animals-sizes-001-MASTERY-bundle-v1",
+      "statement": "Which word is the comparative form of the adjective \"big\"?",
+      "context": "In Cartagena, a teacher shows pictures of a condor and a hummingbird to her class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Biggest.",
+          "is_correct": false,
+          "feedback": "\"Biggest\" is the superlative form, used to compare three or more things."
+        },
+        {
+          "letter": "B",
+          "text": "Big.",
+          "is_correct": false,
+          "feedback": "\"Big\" is the base adjective, not the comparative form."
+        },
+        {
+          "letter": "C",
+          "text": "Bigger.",
+          "is_correct": true,
+          "feedback": "\"Bigger\" is the comparative form, used to compare two things."
+        },
+        {
+          "letter": "D",
+          "text": "Bigly.",
+          "is_correct": false,
+          "feedback": "\"Bigly\" is not a correct adjective form in English."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Short adjectives usually form the comparative by adding \"-er\": big becomes bigger. The comparative is used to compare two people, animals or things.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-5-2026-W19-comparatives-animals-sizes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W19-comparatives-animals-sizes-001-MASTERY-bundle-v2",
+      "statement": "What does the sentence say about the condor and the hummingbird?",
+      "context": "In Bogota, students read: \"The condor is bigger than the hummingbird, but the hummingbird flies faster.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The hummingbird is bigger than the condor.",
+          "is_correct": false,
+          "feedback": "The text states the opposite: the condor is bigger."
+        },
+        {
+          "letter": "B",
+          "text": "The condor flies faster than the hummingbird.",
+          "is_correct": false,
+          "feedback": "The text says the hummingbird flies faster, not the condor."
+        },
+        {
+          "letter": "C",
+          "text": "Both animals are exactly the same size.",
+          "is_correct": false,
+          "feedback": "The text compares them, so they are not the same size."
+        },
+        {
+          "letter": "D",
+          "text": "The condor is larger, but the hummingbird is quicker.",
+          "is_correct": true,
+          "feedback": "The sentence compares size and speed: bigger condor, faster hummingbird."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Reading a comparative sentence means identifying what is compared and how. Here, \"bigger\" compares size and \"faster\" compares speed, giving two different results.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.86,
+      "bundle_id": "CO-ING-5-2026-W19-comparatives-animals-sizes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W19-comparatives-animals-sizes-001-MASTERY-bundle-v3",
+      "statement": "Choose the correct comparative sentence about the jaguar (fast) and the sloth (slow).",
+      "context": "In Medellin, a student describes the jaguar and the sloth for a class project.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The jaguar is more fast than the sloth.",
+          "is_correct": false,
+          "feedback": "Short adjectives like \"fast\" form the comparative with \"-er\", not \"more\"."
+        },
+        {
+          "letter": "B",
+          "text": "The jaguar is faster than the sloth.",
+          "is_correct": true,
+          "feedback": "\"Faster than\" is the correct comparative form for the short adjective \"fast\"."
+        },
+        {
+          "letter": "C",
+          "text": "The jaguar is fastest than the sloth.",
+          "is_correct": false,
+          "feedback": "\"Fastest\" is the superlative and does not take \"than\"."
+        },
+        {
+          "letter": "D",
+          "text": "The jaguar is fast more than the sloth.",
+          "is_correct": false,
+          "feedback": "The word order is incorrect for a comparative sentence."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "To compare two animals, use the comparative form plus \"than\": The jaguar is faster than the sloth. Short adjectives add \"-er\" instead of using \"more\".",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.82,
+      "bundle_id": "CO-ING-5-2026-W19-comparatives-animals-sizes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W19-comparatives-animals-sizes-001-MASTERY-bundle-v4",
+      "statement": "Choose the correct superlative sentence about the pink dolphin among three river animals.",
+      "context": "In a school in Cali, students write about the pink dolphin, one of the largest freshwater dolphins in the world.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The pink dolphin is the largest of the three river animals.",
+          "is_correct": true,
+          "feedback": "\"The largest\" is the correct superlative form to compare three or more animals."
+        },
+        {
+          "letter": "B",
+          "text": "The pink dolphin is larger of the three river animals.",
+          "is_correct": false,
+          "feedback": "\"Larger\" is comparative and needs \"than\"; the superlative is \"the largest\"."
+        },
+        {
+          "letter": "C",
+          "text": "The pink dolphin is the more large of the three river animals.",
+          "is_correct": false,
+          "feedback": "\"More large\" is not the correct superlative form of \"large\"."
+        },
+        {
+          "letter": "D",
+          "text": "The pink dolphin is largest than the three river animals.",
+          "is_correct": false,
+          "feedback": "The superlative does not use \"than\"; it uses \"the largest\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The superlative compares three or more things and usually takes \"the\" before the adjective: the largest, the fastest, the smallest. It does not use \"than\".",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-5-2026-W19-comparatives-animals-sizes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W19-comparatives-animals-sizes-001-MASTERY-bundle-v5",
+      "statement": "According to the chart, which sentence is correct?",
+      "context": "In Bucaramanga, students read a chart: the Andean condor weighs about 11 kg, the jaguar about 90 kg, and the hummingbird about 5 g.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The hummingbird is heavier than the jaguar.",
+          "is_correct": false,
+          "feedback": "The hummingbird is the lightest animal in the chart."
+        },
+        {
+          "letter": "B",
+          "text": "The condor is heavier than the jaguar.",
+          "is_correct": false,
+          "feedback": "The jaguar (about 90 kg) is heavier than the condor (about 11 kg)."
+        },
+        {
+          "letter": "C",
+          "text": "The jaguar is lighter than the hummingbird.",
+          "is_correct": false,
+          "feedback": "The jaguar is much heavier than the hummingbird."
+        },
+        {
+          "letter": "D",
+          "text": "The jaguar is the heaviest of the three animals.",
+          "is_correct": true,
+          "feedback": "With about 90 kg, the jaguar weighs more than the condor and the hummingbird."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparing numbers in a chart helps choose the correct comparative or superlative form. Since 90 kg is the greatest weight, the jaguar is the heaviest of the three animals.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.74,
+      "bundle_id": "CO-ING-5-2026-W19-comparatives-animals-sizes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W19-comparatives-animals-sizes-001-MASTERY-bundle-v6",
+      "statement": "What can you infer from the text?",
+      "context": "In Pereira, students read: \"The condor lives in the high mountains, where the air is cold. The pink dolphin lives in warm rivers. The condor is bigger, but the pink dolphin is smarter.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The two animals live in the same place.",
+          "is_correct": false,
+          "feedback": "The text says the condor lives in high mountains and the dolphin in rivers."
+        },
+        {
+          "letter": "B",
+          "text": "The two animals live in different environments and have different strengths.",
+          "is_correct": true,
+          "feedback": "The text gives them different habitats and compares size and intelligence."
+        },
+        {
+          "letter": "C",
+          "text": "The pink dolphin is bigger than the condor.",
+          "is_correct": false,
+          "feedback": "The text says the condor is bigger, not the dolphin."
+        },
+        {
+          "letter": "D",
+          "text": "The condor is smarter than the pink dolphin.",
+          "is_correct": false,
+          "feedback": "The text says the pink dolphin is smarter, not the condor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inferring means drawing a conclusion from the details in the text. Different habitats and different comparative adjectives show that each animal has its own strengths.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-5-2026-W19-comparatives-animals-sizes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W19-comparatives-animals-sizes-001-MASTERY-bundle-v7",
+      "statement": "Why is the student's sentence incorrect?",
+      "context": "In Neiva, a student writes: \"The jaguar is more big than the ocelot.\" The teacher marks the sentence as incorrect.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Because \"big\" is a short adjective and its comparative is \"bigger\", not \"more big\".",
+          "is_correct": true,
+          "feedback": "Short adjectives form the comparative with \"-er\"; \"more\" is used with longer adjectives."
+        },
+        {
+          "letter": "B",
+          "text": "Because \"jaguar\" is not the name of an animal.",
+          "is_correct": false,
+          "feedback": "The jaguar is a real Colombian animal, so this is not the problem."
+        },
+        {
+          "letter": "C",
+          "text": "Because the sentence needs the word \"the\" before \"jaguar\".",
+          "is_correct": false,
+          "feedback": "The comparative error is in the adjective form, not in the article."
+        },
+        {
+          "letter": "D",
+          "text": "Because \"than\" should be replaced by \"of\".",
+          "is_correct": false,
+          "feedback": "Comparative sentences use \"than\"; changing it would not fix the adjective form."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Short adjectives such as big, fast and tall take \"-er\" to form the comparative: bigger, faster, taller. Using \"more\" with short adjectives is a common error.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.66,
+      "bundle_id": "CO-ING-5-2026-W19-comparatives-animals-sizes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W19-comparatives-animals-sizes-001-MASTERY-bundle-v8",
+      "statement": "Which sentence best compares the three animals correctly?",
+      "context": "In Cartagena, students must choose the best sentence to compare three Colombian animals: the condor, the jaguar and the hummingbird.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The hummingbird is the bigger than the condor and the jaguar.",
+          "is_correct": false,
+          "feedback": "\"The bigger\" is not a correct superlative and the form is ungrammatical."
+        },
+        {
+          "letter": "B",
+          "text": "The condor is more tall than the jaguar and the hummingbird.",
+          "is_correct": false,
+          "feedback": "\"More tall\" is incorrect, and \"taller\" would compare only two animals."
+        },
+        {
+          "letter": "C",
+          "text": "The smallest of the three animals is the hummingbird.",
+          "is_correct": true,
+          "feedback": "\"The smallest\" correctly compares the three animals and is true for the hummingbird."
+        },
+        {
+          "letter": "D",
+          "text": "The jaguar is the most smallest of the three animals.",
+          "is_correct": false,
+          "feedback": "\"The most smallest\" double-marks the superlative and is incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "To compare three or more animals, use the superlative form with \"the\": the smallest, the biggest, the fastest. This form expresses that one animal has the highest degree of a quality in the group.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.62,
+      "bundle_id": "CO-ING-5-2026-W19-comparatives-animals-sizes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}
