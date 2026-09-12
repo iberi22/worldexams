@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-37-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T16:46:07.380Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle-v1",
+      "statement": "La unidad SI de carga eléctrica es:",
+      "context": "En clase en Bogotá, se introduce el concepto de carga eléctrica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Voltio (V).",
+          "is_correct": false,
+          "feedback": "El voltio es unidad de potencial eléctrico."
+        },
+        {
+          "letter": "B",
+          "text": "Coulomb (C).",
+          "is_correct": true,
+          "feedback": "1 C equivale a la carga de aproximadamente 6.24 × 10¹⁸ electrones."
+        },
+        {
+          "letter": "C",
+          "text": "Amperio (A).",
+          "is_correct": false,
+          "feedback": "El amperio es unidad de corriente."
+        },
+        {
+          "letter": "D",
+          "text": "Ohmio (Ω).",
+          "is_correct": false,
+          "feedback": "El ohmio es unidad de resistencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El coulomb es la unidad fundamental de carga eléctrica en el Sistema Internacional.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle-v2",
+      "statement": "Este fenómeno se explica por:",
+      "context": "En un experimento en Medellín, se frota un globo contra el cabello y se observa que atrae papelitos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Carga por fricción: el globo adquiere carga negativa al ganar electrones del cabello.",
+          "is_correct": true,
+          "feedback": "Al frotar, los electrones se transfieren entre materiales."
+        },
+        {
+          "letter": "B",
+          "text": "Magnetismo inducido por el cabello humano.",
+          "is_correct": false,
+          "feedback": "El cabello no es un imán natural."
+        },
+        {
+          "letter": "C",
+          "text": "Generación de luz ultravioleta.",
+          "is_correct": false,
+          "feedback": "No hay emisión de luz visible."
+        },
+        {
+          "letter": "D",
+          "text": "Calentamiento por fricción del aire.",
+          "is_correct": false,
+          "feedback": "El efecto es electrostático, no térmico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La electrización por fricción ocurre por transferencia de electrones entre materiales con diferente afinidad electrónica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle-v3",
+      "statement": "Si la distancia entre dos cargas puntuales se duplica, la fuerza eléctrica entre ellas:",
+      "context": "En clase en Cali, se discute la ley de Coulomb aplicada a dos cargas puntuales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se duplica.",
+          "is_correct": false,
+          "feedback": "La fuerza es inversamente proporcional al cuadrado de la distancia."
+        },
+        {
+          "letter": "B",
+          "text": "Se reduce a la cuarta parte.",
+          "is_correct": true,
+          "feedback": "F ∝ 1/r²; si r se duplica, F/4."
+        },
+        {
+          "letter": "C",
+          "text": "Se mantiene igual.",
+          "is_correct": false,
+          "feedback": "La distancia sí afecta la fuerza."
+        },
+        {
+          "letter": "D",
+          "text": "Se cuadruplica.",
+          "is_correct": false,
+          "feedback": "Sucede lo contrario."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ley de Coulomb establece que la fuerza electrostática es inversamente proporcional al cuadrado de la distancia entre las cargas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle-v4",
+      "statement": "Las líneas de campo magnético de un imán de barra salen de:",
+      "context": "En un laboratorio en Pereira, se observa el comportamiento de un imán de barra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El polo norte y entran por el polo sur.",
+          "is_correct": true,
+          "feedback": "Por convención, las líneas salen del norte y entran al sur."
+        },
+        {
+          "letter": "B",
+          "text": "El polo sur y entran por el norte.",
+          "is_correct": false,
+          "feedback": "Convención inversa a la establecida."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos polos por igual.",
+          "is_correct": false,
+          "feedback": "No existe esa simetría."
+        },
+        {
+          "letter": "D",
+          "text": "Solo del centro del imán.",
+          "is_correct": false,
+          "feedback": "Las líneas emergen de los polos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El campo magnético es un campo vectorial; sus líneas permiten visualizar dirección y sentido.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.84,
+      "bundle_id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle-v5",
+      "statement": "Usando k = 9 × 10⁹ N·m²/C², ¿cuál es la fuerza eléctrica entre las cargas?",
+      "context": "En un ejercicio en Bogotá, se calcula la fuerza entre dos cargas de 2 μC y 3 μC separadas 0.1 m.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.054 N.",
+          "is_correct": false,
+          "feedback": "Usaste una conversión errónea de unidades."
+        },
+        {
+          "letter": "B",
+          "text": "5.4 N.",
+          "is_correct": true,
+          "feedback": "F = k·|q1·q2|/r² = 9e9·(2e-6)·(3e-6)/(0.1)² = 5.4 N."
+        },
+        {
+          "letter": "C",
+          "text": "54 N.",
+          "is_correct": false,
+          "feedback": "Error de orden de magnitud."
+        },
+        {
+          "letter": "D",
+          "text": "540 N.",
+          "is_correct": false,
+          "feedback": "Exceso en el orden de magnitud."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ley de Coulomb (F = k·q1·q2/r²) permite calcular la fuerza entre cargas puntuales en el vacío o en aire.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle-v6",
+      "statement": "Si por una resistencia de 10 Ω circula una corriente de 2 A, ¿cuál es la diferencia de potencial entre sus extremos?",
+      "context": "En un taller en Bucaramanga, se aplica la ley de Ohm a un circuito resistivo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.2 V.",
+          "is_correct": false,
+          "feedback": "Invertiste el cociente."
+        },
+        {
+          "letter": "B",
+          "text": "20 V.",
+          "is_correct": true,
+          "feedback": "V = R·I = 10·2 = 20 V."
+        },
+        {
+          "letter": "C",
+          "text": "5 V.",
+          "is_correct": false,
+          "feedback": "Dividiste en lugar de multiplicar."
+        },
+        {
+          "letter": "D",
+          "text": "200 V.",
+          "is_correct": false,
+          "feedback": "Exceso de un orden de magnitud."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ley de Ohm relaciona voltaje, corriente y resistencia mediante V = R·I.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle-v7",
+      "statement": "El campo eléctrico a 0.5 m de una carga de 4 μC en aire es aproximadamente:",
+      "context": "En clase en Armenia, se calcula el campo eléctrico producido por una carga puntual.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.44 × 10⁴ N/C.",
+          "is_correct": false,
+          "feedback": "Error de unidades."
+        },
+        {
+          "letter": "B",
+          "text": "1.44 × 10⁵ N/C.",
+          "is_correct": true,
+          "feedback": "E = k·q/r² = 9e9·4e-6/(0.5)² = 1.44 × 10⁵ N/C."
+        },
+        {
+          "letter": "C",
+          "text": "7.2 × 10⁴ N/C.",
+          "is_correct": false,
+          "feedback": "Usaste mal el cuadrado de la distancia."
+        },
+        {
+          "letter": "D",
+          "text": "1.44 × 10⁶ N/C.",
+          "is_correct": false,
+          "feedback": "Excediste un orden de magnitud."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El campo eléctrico de una carga puntual es E = k·q/r² y se mide en N/C o V/m.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle-v8",
+      "statement": "La ley de Faraday establece que la fem inducida en un circuito es proporcional a:",
+      "context": "En un laboratorio en Barranquilla, se demuestra la inducción electromagnética con un imán y una bobina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La corriente que circula por el circuito.",
+          "is_correct": false,
+          "feedback": "La corriente no es la fuente de fem inducida."
+        },
+        {
+          "letter": "B",
+          "text": "La rapidez de cambio del flujo magnético que atraviesa el circuito.",
+          "is_correct": true,
+          "feedback": "fem = -dΦ/dt."
+        },
+        {
+          "letter": "C",
+          "text": "La resistencia del alambre.",
+          "is_correct": false,
+          "feedback": "La fem es independiente de R."
+        },
+        {
+          "letter": "D",
+          "text": "El cuadrado del campo magnético.",
+          "is_correct": false,
+          "feedback": "El flujo, no el campo al cuadrado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ley de inducción electromagnética de Faraday es fundamental para generadores, transformadores y motores eléctricos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.74,
+      "bundle_id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle-v9",
+      "statement": "Un conductor recto de 0.2 m por el que circulan 5 A se coloca perpendicular a un campo magnético de 3 T. ¿Cuál es la fuerza sobre el conductor?",
+      "context": "En un ejercicio en Pasto, se estudia la fuerza sobre una corriente en un campo magnético.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.3 N.",
+          "is_correct": false,
+          "feedback": "Error en la fórmula."
+        },
+        {
+          "letter": "B",
+          "text": "3 N.",
+          "is_correct": true,
+          "feedback": "F = B·I·L·sen θ = 3·5·0.2·1 = 3 N."
+        },
+        {
+          "letter": "C",
+          "text": "30 N.",
+          "is_correct": false,
+          "feedback": "Excediste un orden de magnitud."
+        },
+        {
+          "letter": "D",
+          "text": "0.03 N.",
+          "is_correct": false,
+          "feedback": "Dividiste en lugar de multiplicar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fuerza magnética sobre un conductor recto es F = B·I·L·sen θ.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.74,
+      "bundle_id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle-v10",
+      "statement": "En un circuito serie con R₁ = 4 Ω y R₂ = 6 Ω conectado a una fuente de 20 V, ¿cuál es la corriente total?",
+      "context": "En clase en Ibagué, se resuelve un circuito serie con dos resistencias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 A.",
+          "is_correct": false,
+          "feedback": "Error en la suma de resistencias."
+        },
+        {
+          "letter": "B",
+          "text": "2 A.",
+          "is_correct": true,
+          "feedback": "R_eq = 4 + 6 = 10 Ω; I = V/R = 20/10 = 2 A."
+        },
+        {
+          "letter": "C",
+          "text": "0.5 A.",
+          "is_correct": false,
+          "feedback": "Dividiste en lugar de la operación correcta."
+        },
+        {
+          "letter": "D",
+          "text": "20 A.",
+          "is_correct": false,
+          "feedback": "No aplicaste la ley de Ohm."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En un circuito serie, las resistencias se suman y la corriente es la misma en todos los componentes.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.73,
+      "bundle_id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle-v11",
+      "statement": "La capacitancia de un capacitor de placas paralelas aumenta si:",
+      "context": "En Santa Marta, se analiza el capacitor de placas paralelas en un circuito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disminuye el área de las placas.",
+          "is_correct": false,
+          "feedback": "C es proporcional al área A."
+        },
+        {
+          "letter": "B",
+          "text": "Aumenta la distancia entre las placas.",
+          "is_correct": false,
+          "feedback": "C es inversamente proporcional a la distancia d."
+        },
+        {
+          "letter": "C",
+          "text": "Disminuye la distancia entre las placas y se aumenta el área.",
+          "is_correct": true,
+          "feedback": "C = ε·A/d."
+        },
+        {
+          "letter": "D",
+          "text": "Se desconecta la fuente.",
+          "is_correct": false,
+          "feedback": "La capacitancia es propiedad del capacitor."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La capacitancia de un capacitor de placas paralelas depende del área, la separación y el dieléctrico entre las placas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle-v12",
+      "statement": "La ley de Ampère-Maxwell incluye el término de corriente de desplazamiento para explicar:",
+      "context": "En un curso en Manizales, se estudian las ecuaciones de Maxwell.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La conducción de corriente en metales.",
+          "is_correct": false,
+          "feedback": "Eso corresponde a la ley de Ohm."
+        },
+        {
+          "letter": "B",
+          "text": "La generación de campos magnéticos por campos eléctricos variables en el tiempo.",
+          "is_correct": true,
+          "feedback": "Maxwell añadió este término para hacer autoconsistente la teoría electromagnética."
+        },
+        {
+          "letter": "C",
+          "text": "La resistencia eléctrica de los superconductores.",
+          "is_correct": false,
+          "feedback": "Es un fenómeno cuántico diferente."
+        },
+        {
+          "letter": "D",
+          "text": "La polarización de la luz por prismas.",
+          "is_correct": false,
+          "feedback": "No es el fenómeno descrito."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La corriente de desplazamiento permite que las ecuaciones de Maxwell predigan ondas electromagnéticas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle-v13",
+      "statement": "Una diferencia fundamental entre campos eléctricos y magnéticos es:",
+      "context": "En clase en Neiva, se compara la diferencia entre campos eléctricos y magnéticos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los campos eléctricos solo actúan sobre cargas positivas.",
+          "is_correct": false,
+          "feedback": "Actúan sobre toda carga, sin importar el signo."
+        },
+        {
+          "letter": "B",
+          "text": "Las cargas eléctricas pueden existir aisladas, pero los polos magnéticos siempre aparecen en pares norte-sur.",
+          "is_correct": true,
+          "feedback": "No existen monopolos magnéticos confirmados."
+        },
+        {
+          "letter": "C",
+          "text": "Los campos magnéticos son siempre constantes.",
+          "is_correct": false,
+          "feedback": "Los campos magnéticos pueden variar con el tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "Los campos eléctricos no producen fuerza.",
+          "is_correct": false,
+          "feedback": "Sí producen fuerza sobre cargas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ausencia observada de monopolos magnéticos distingue al magnetismo de la electrostática.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle-v14",
+      "statement": "El principio físico fundamental en el funcionamiento de un motor eléctrico de corriente continua es:",
+      "context": "En una discusión en Cali, se debate el funcionamiento de un motor eléctrico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fuerza sobre una corriente en un campo magnético (F = B·I·L).",
+          "is_correct": true,
+          "feedback": "El torque generado produce movimiento rotacional."
+        },
+        {
+          "letter": "B",
+          "text": "La ley de Hooke de resortes.",
+          "is_correct": false,
+          "feedback": "No aplica a motores eléctricos."
+        },
+        {
+          "letter": "C",
+          "text": "La reflexión de ondas sonoras.",
+          "is_correct": false,
+          "feedback": "No es el principio de operación."
+        },
+        {
+          "letter": "D",
+          "text": "La reflexión total interna de la luz.",
+          "is_correct": false,
+          "feedback": "Es óptica, no electromagnetismo aplicado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los motores eléctricos convierten energía eléctrica en mecánica aprovechando la fuerza magnética sobre conductores con corriente.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle-v15",
+      "statement": "En un circuito RC en serie durante la carga, la constante de tiempo τ es:",
+      "context": "En Tunja, se analiza el comportamiento de circuitos RC en transitorios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "τ = R·C.",
+          "is_correct": true,
+          "feedback": "La constante de tiempo caracteriza la velocidad de carga/descarga."
+        },
+        {
+          "letter": "B",
+          "text": "τ = R/C.",
+          "is_correct": false,
+          "feedback": "Es la inversa."
+        },
+        {
+          "letter": "C",
+          "text": "τ = C/R.",
+          "is_correct": false,
+          "feedback": "Es otra expresión incorrecta."
+        },
+        {
+          "letter": "D",
+          "text": "τ = 1/(R·C).",
+          "is_correct": false,
+          "feedback": "Es la inversa de la fórmula correcta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La constante de tiempo τ = R·C indica el tiempo necesario para que la carga alcance aproximadamente el 63 % de su valor máximo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle-v16",
+      "statement": "Las ondas electromagnéticas se caracterizan por:",
+      "context": "En clase en Bogotá, se estudian las ondas electromagnéticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Necesitar un medio material para propagarse.",
+          "is_correct": false,
+          "feedback": "Las ondas electromagnéticas pueden viajar en el vacío."
+        },
+        {
+          "letter": "B",
+          "text": "Poseer únicamente campo eléctrico.",
+          "is_correct": false,
+          "feedback": "Poseen campo eléctrico y magnético oscilantes."
+        },
+        {
+          "letter": "C",
+          "text": "Transportar campos eléctrico y magnético perpendiculares entre sí y a la dirección de propagación.",
+          "is_correct": true,
+          "feedback": "La onda es transversal electromagnética."
+        },
+        {
+          "letter": "D",
+          "text": "Viajar siempre más lento que el sonido.",
+          "is_correct": false,
+          "feedback": "Viajan a la velocidad de la luz."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las ondas electromagnéticas son transversales y pueden propagarse incluso en el vacío.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.63,
+      "bundle_id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle-v17",
+      "statement": "La inductancia mutua entre dos bobinas depende principalmente de:",
+      "context": "En una clase avanzada en Medellín, se discute la inductancia mutua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La resistencia de los alambres.",
+          "is_correct": false,
+          "feedback": "La resistencia es independiente."
+        },
+        {
+          "letter": "B",
+          "text": "La geometría de las bobinas, su número de vueltas y la permeabilidad del medio.",
+          "is_correct": true,
+          "feedback": "M = μ·N₁·N₂·A·k/l."
+        },
+        {
+          "letter": "C",
+          "text": "La temperatura del aire.",
+          "is_correct": false,
+          "feedback": "Influye levemente, no es principal."
+        },
+        {
+          "letter": "D",
+          "text": "La masa del núcleo.",
+          "is_correct": false,
+          "feedback": "La masa no aparece en la fórmula."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La inductancia mutua cuantifica el acoplamiento magnético entre dos circuitos cercanos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle-v18",
+      "statement": "El espectro electromagnético ordena las ondas por:",
+      "context": "En Popayán, se evalúa el espectro electromagnético en telecomunicaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Su amplitud únicamente.",
+          "is_correct": false,
+          "feedback": "La amplitud no define el espectro."
+        },
+        {
+          "letter": "B",
+          "text": "Su frecuencia o longitud de onda, desde las ondas de radio hasta los rayos gamma.",
+          "is_correct": true,
+          "feedback": "El espectro es continuo en este parámetro."
+        },
+        {
+          "letter": "C",
+          "text": "Su velocidad en el agua.",
+          "is_correct": false,
+          "feedback": "La velocidad en el vacío es constante."
+        },
+        {
+          "letter": "D",
+          "text": "Su carga eléctrica asociada.",
+          "is_correct": false,
+          "feedback": "Las ondas electromagnéticas son neutras."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El espectro electromagnético cubre desde ondas de radio (baja frecuencia) hasta rayos gamma (alta frecuencia).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle-v19",
+      "statement": "En un transformador real, las pérdidas de energía se deben principalmente a:",
+      "context": "En Sincelejo, se compara un transformador ideal con uno real.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Variaciones en la frecuencia de la red.",
+          "is_correct": false,
+          "feedback": "No es la principal pérdida."
+        },
+        {
+          "letter": "B",
+          "text": "Resistencia del cobre en los devanados y pérdidas por histéresis y corrientes parásitas en el núcleo.",
+          "is_correct": true,
+          "feedback": "Estas pérdidas reducen la eficiencia del transformador."
+        },
+        {
+          "letter": "C",
+          "text": "Fugas de aceite refrigerante.",
+          "is_correct": false,
+          "feedback": "El aceite no es la fuente principal."
+        },
+        {
+          "letter": "D",
+          "text": "Exceso de voltaje en la red.",
+          "is_correct": false,
+          "feedback": "Los transformadores están diseñados para soportar variaciones normales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las pérdidas en el cobre (efecto Joule) y en el hierro (histéresis y corrientes de Foucault) reducen la eficiencia real.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle-v20",
+      "statement": "La Organización Mundial de la Salud clasifica los campos electromagnéticos de baja frecuencia (como los de líneas eléctricas) como:",
+      "context": "En Cartagena, se evalúa el impacto de los campos electromagnéticos en la salud.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Posible carcinógeno (Grupo 2B) según la IARC, recomendando precaución.",
+          "is_correct": true,
+          "feedback": "La evidencia es limitada; se sugiere prudencia."
+        },
+        {
+          "letter": "B",
+          "text": "Carcinógeno confirmado (Grupo 1).",
+          "is_correct": false,
+          "feedback": "No hay evidencia concluyente."
+        },
+        {
+          "letter": "C",
+          "text": "Sustancia radioactiva.",
+          "is_correct": false,
+          "feedback": "Los campos de baja frecuencia no son ionizantes."
+        },
+        {
+          "letter": "D",
+          "text": "Totalmente inocuos sin restricciones.",
+          "is_correct": false,
+          "feedback": "Se recomienda precaución con exposiciones prolongadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los campos de baja frecuencia son no ionizantes; sin embargo, organismos internacionales recomiendan moderar la exposición prolongada.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W37-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-17-grade-11-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-12T16:46:07.585Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v1",
+      "statement": "¿Qué organización internacional fue creada en 1948 con la firma de su carta en Bogotá y tiene hoy su sede principal en Washington?",
+      "context": "En una clase de Sociales en un colegio de Bogotá, el profesor muestra la carta fundacional de la organización regional más antigua del hemisferio, firmada en Colombia en 1948.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Comunidad Andina, creada en Bogotá en 1948 para regular el comercio subregional",
+          "is_correct": false,
+          "feedback": "La Comunidad Andina tiene su origen en el Acuerdo de Cartagena de 1969, no en 1948."
+        },
+        {
+          "letter": "B",
+          "text": "La Organización de los Estados Americanos, OEA",
+          "is_correct": true,
+          "feedback": "La OEA nació con la Carta firmada en Bogotá en 1948 y estableció su sede en Washington."
+        },
+        {
+          "letter": "C",
+          "text": "El Mercado Común del Sur, Mercosur",
+          "is_correct": false,
+          "feedback": "El Mercosur se creó con el Tratado de Asunción de 1991, más de cuatro décadas después."
+        },
+        {
+          "letter": "D",
+          "text": "La Alianza del Pacífico, fundada durante una cumbre en Cali",
+          "is_correct": false,
+          "feedback": "La Alianza del Pacífico surgió hacia 2011; Cali solo fue sede de cumbres posteriores."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La OEA es la organización política regional más antigua del mundo: su carta se firmó en Bogotá en abril de 1948, días antes del asesinato de Jorge Eliécer Gaitán, acontecimiento que detonó el Bogotazo. Reúne a los Estados del hemisferio en torno a democracia, seguridad y derechos humanos, y su sede permanece en Washington, cerca de los organismos financieros interamericanos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Globalización y comercio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v1",
+      "statement": "¿Con qué tratado y en qué año se fundó el Mercado Común del Sur, Mercosur?",
+      "context": "Un estudiante de Cartagena que sigue las noticias de comercio regional escucha mencionar el bloque formado por Argentina, Brasil, Paraguay y Uruguay.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con el Protocolo de Ouro Preto, en 1989",
+          "is_correct": false,
+          "feedback": "Ouro Preto es de 1991 también, pero dio personería jurídica al bloque; la fundación fue el Tratado de Asunción."
+        },
+        {
+          "letter": "B",
+          "text": "Con el Acuerdo de Cartagena, en 1969",
+          "is_correct": false,
+          "feedback": "El Acuerdo de Cartagena originó el Pacto Andino, hoy CAN, un bloque subregional diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Con el Tratado de Tlatelolco, en 1967",
+          "is_correct": false,
+          "feedback": "Tlatelolco creó la zona libre de armas nucleares en América Latina; no es un bloque comercial."
+        },
+        {
+          "letter": "D",
+          "text": "Con el Tratado de Asunción, en 1991",
+          "is_correct": true,
+          "feedback": "El Tratado de Asunción de 1991 instituyó el Mercosur como mercado común del sur del continente."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El Mercosur nació en 1991 con el Tratado de Asunción suscrito por Argentina, Brasil, Paraguay y Uruguay, y busca la libre circulación de bienes, servicios y factores productivos. Colombia no es miembro pleno, sino Estado asociado, una condición que le permite negociar preferencias arancelarias sin asumir totalmente el arancel externo común.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Globalización y comercio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes afirmaciones describe correctamente la Alianza del Pacífico?",
+      "context": "En una feria de comercio exterior en Medellín, un expositor explica por qué Colombia decidió participar en la iniciativa de cuatro países latinoamericanos del Pacífico alrededor de 2011.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un bloque militar del Pacífico liderado por Colombia y México",
+          "is_correct": false,
+          "feedback": "La Alianza del Pacífico no tiene componente de defensa; es un mecanismo de integración económica y comercial."
+        },
+        {
+          "letter": "B",
+          "text": "Es un foro político de todos los países del hemisferio Occidental",
+          "is_correct": false,
+          "feedback": "El foro político hemisférico es la OEA; la Alianza agrupa solo cuatro países y con foco económico."
+        },
+        {
+          "letter": "C",
+          "text": "Es un mecanismo de integración económica impulsado por Chile, Colombia, México y Perú con proyección hacia Asia-Pacífico",
+          "is_correct": true,
+          "feedback": "Nació en 2011 por esos cuatro países del Pacífico latinoamericano, buscando integración profunda y apertura al Asia-Pacífico."
+        },
+        {
+          "letter": "D",
+          "text": "Es una zona de libre comercio negociada bajo auspicio de la OPEP",
+          "is_correct": false,
+          "feedback": "La OPEP es una organización petrolera sin relación con la Alianza del Pacífico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Alianza del Pacífico se perfila como un bloque de integración regional abierta al comercio mundial: libera aranceles, coordina agencias de promoción de inversiones y busca convergencia con los mercados asiáticos. Para Colombia representa su vocación pacifista y exportadora, complementaria —y a veces rival— de los mecanismos atlánticos como el Mercosur.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Globalización y comercio",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la sede de la Corte Interamericana de Derechos Humanos, órgano judicial del sistema interamericano?",
+      "context": "Un caso sobre desapariciones forzadas durante el conflicto armado colombiano llega al tribunal regional de derechos humanos con sede en Centroamérica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Washington, donde funciona también la sede de la Corte",
+          "is_correct": false,
+          "feedback": "En Washington tiene sede la Comisión Interamericana, no la Corte."
+        },
+        {
+          "letter": "B",
+          "text": "La Haya, junto con la Corte Internacional de Justicia",
+          "is_correct": false,
+          "feedback": "La Haya alberga la CIJ, órgano de la ONU; la Corte IDH pertenece al sistema interamericano."
+        },
+        {
+          "letter": "C",
+          "text": "San José de Costa Rica",
+          "is_correct": true,
+          "feedback": "La Corte IDH tiene su sede permanente en San José de Costa Rica."
+        },
+        {
+          "letter": "D",
+          "text": "Lima, donde se firmó su estatuto en 1948",
+          "is_correct": false,
+          "feedback": "El estatuto no se firmó en Lima y la sede permanente no está allí."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El sistema interamericano de derechos humanos tiene dos órganos: la Comisión Interamericana, con sede en Washington, que recibe peticiones y elabora informes; y la Corte Interamericana, con sede en San José de Costa Rica, que emite sentencias vinculantes para los Estados que reconocen su competencia. Colombia ha sido condenado en numerosos casos por la Corte IDH, lo que ha impulsado reformas internas como leyes de víctimas y mecanismos de búsqueda.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v1",
+      "statement": "En 2012, la Corte Internacional de Justicia de La Haya emitió un fallo sobre la disputa territorial y marítima entre Colombia y Nicaragua. ¿Qué resolvió principalmente ese fallo?",
+      "context": "En un simulacro del Saber 11 en Barranquilla, un texto describe un litigio entre dos Estados por fronteras marítimas en el Caribe.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reconoció la soberanía colombiana sobre las islas del archipiélago de San Andrés, pero trazó una frontera marítima que entregó a Nicaragua amplias zonas marítimas que antes reclamaba Colombia",
+          "is_correct": true,
+          "feedback": "El fallo de 2012 mantuvo las islas para Colombia y redefinió los espacios marítimos a favor de Nicaragua."
+        },
+        {
+          "letter": "B",
+          "text": "Devolvió a Nicaragua la soberanía sobre todo el archipiélago de San Andrés y Providencia",
+          "is_correct": false,
+          "feedback": "La Corte reconoció soberanía colombiana sobre las islas; lo modificado fue la delimitación marítima."
+        },
+        {
+          "letter": "C",
+          "text": "Ordenó la internacionalización del archipiélago bajo administración de la ONU",
+          "is_correct": false,
+          "feedback": "La CIJ no dispuso ninguna administración internacional del territorio."
+        },
+        {
+          "letter": "D",
+          "text": "Declinó competencia y remitió el caso a la OEA",
+          "is_correct": false,
+          "feedback": "La Corte sí falló de fondo en 2012; no se declaró incompetente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El fallo de 19 de noviembre de 2012 en el caso Disputa territorial y marítima (Nicaragua c. Colombia) consolidó la titularidad colombiana sobre las islas del San Andrés, pero trazó una nueva frontera marítima que redujo las áreas de proyección al este del archipiélago. El caso es paradigmático para entender cómo los tribunales internacionales resuelven litigios entre Estados y cómo sus decisiones generan efectos políticos profundos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v1",
+      "statement": "¿Qué hizo Colombia como reacción inmediata al fallo de la CIJ de 2012 en relación con el Pacto de Bogotá, tratado que otorga jurisdicción obligatoria a la Corte Internacional de Justicia?",
+      "context": "Tras conocerse el fallo de La Haya, el gobierno colombiano convoca una rueda de prensa en Bogotá y anuncia una decisión inédita sobre los mecanismos de solución pacífica de controversias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Denunció el Pacto de Bogotá y retiró su aceptación de la jurisdicción obligatoria de la CIJ",
+          "is_correct": true,
+          "feedback": "Colombia denunció en 2012 el mecanismo de solución pacífica del Pacto de Bogotá para no someter nuevos litigios similares."
+        },
+        {
+          "letter": "B",
+          "text": "Solicitó la revisión del fallo ante la propia Corte y logró revertirlo en 2013",
+          "is_correct": false,
+          "feedback": "No hubo solicitud de revisión exitosa; el fallo quedó firme e intangible."
+        },
+        {
+          "letter": "C",
+          "text": "Promovió con Nicaragua un referendo binacional sobre el archipiélago",
+          "is_correct": false,
+          "feedback": "Nunca se convocó un referendo conjunto entre los dos países."
+        },
+        {
+          "letter": "D",
+          "text": "Acudió al Consejo de Seguridad de la ONU para desconocer el fallo",
+          "is_correct": false,
+          "feedback": "Colombia anunció acatamiento del fallo y, a la vez, denunció el pacto; no acudió al Consejo para desconocerlo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La jurisdicción de la CIJ es voluntaria: se funda en el consentimiento de los Estados, por ejemplo mediante el Pacto de Bogotá de 1948, que incluye el mecanismo de solución pacífica de controversias. Al retirarse en 2012, Colombia buscó blindarse ante nuevos litigios marítimos futuros, aunque quedó sujeto al fallo ya ejecutoriado. Este episodio muestra la tensión entre justicia internacional y soberanía estatal.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v1",
+      "statement": "La Comunidad de Estados Latinoamericanos y Caribeños, CELAC, se distingue de la OEA principalmente porque...",
+      "context": "Un docente de Cúcuta pide a sus estudiantes ubicar en un mapa los foros regionales a los que asiste el presidente colombiano, distinguiendo cuáles incluyen a Estados Unidos y Canadá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Agrupa únicamente a los países sudamericanos con moneda común",
+          "is_correct": false,
+          "feedback": "La CELAC integra a América Latina y el Caribe en su conjunto y no exige moneda común."
+        },
+        {
+          "letter": "B",
+          "text": "Es un bloque militar creado para contrarrestar a la OTAN",
+          "is_correct": false,
+          "feedback": "La CELAC no tiene componente de defensa colectiva."
+        },
+        {
+          "letter": "C",
+          "text": "Es un foro de concertación política de América Latina y el Caribe que excluye a Estados Unidos y Canadá",
+          "is_correct": true,
+          "feedback": "La CELAC, impulsada desde 2010-2011, reúne a la región sin los países norteamericanos, a diferencia de la OEA."
+        },
+        {
+          "letter": "D",
+          "text": "Administra los conflictos fronterizos con sede en Nueva York",
+          "is_correct": false,
+          "feedback": "La resolución de controversias no es función de la CELAC ni su sede es Nueva York."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La CELAC emergió como mecanismo de autonomía regional: un foro sin Washington ni Ottawa, donde los latinoamericanos dialogan como pares. Su debilidad es operativa —no tiene secretariado permanente robusto ni capacidad sancionatoria—, pero expresa la voluntad de una arquitectura propia frente al sistema interamericano liderado por la OEA.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Globalización y comercio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v1",
+      "statement": "El Pacto de Leticia, suscrito en 2019 en el marco de la Organización del Tratado de Cooperación Amazónica, tenía como objetivo central...",
+      "context": "En septiembre de 2019, los presidentes de varios países amazónicos, incluido Colombia, se reunieron en la ciudad colombiana de Leticia y firmaron un acuerdo conjunto sobre la selva.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Crear un ejército amazónico multinacional bajo mando brasileño",
+          "is_correct": false,
+          "feedback": "El pacto no contempló ninguna fuerza militar conjunta."
+        },
+        {
+          "letter": "B",
+          "text": "Establecer una zona de libre comercio entre los países del Amazonas",
+          "is_correct": false,
+          "feedback": "No fue un acuerdo arancelario ni comercial."
+        },
+        {
+          "letter": "C",
+          "text": "Transferir a la ONU la administración de la Amazonía colombiana",
+          "is_correct": false,
+          "feedback": "La soberanía sobre el territorio amazónico permaneció intacta; no hubo cesión administrativa."
+        },
+        {
+          "letter": "D",
+          "text": "Coordinar respuestas conjuntas de los países amazónicos ante los incendios y la degradación de la selva",
+          "is_correct": true,
+          "feedback": "El Pacto de Leticia acordó acciones conjuntas de protección de la Amazonía frente a los incendios de 2019."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Tras los devastadores incendios de 2019 en la Amazonía, los presidentes reunidos en Leticia firmaron un pacto de cooperación operativa: brigadas conjuntas, intercambio de información científica y acciones contra la deforestación, en el marco del OTCA con sede en Manaus. El evento mostró cómo un desastre ambiental puede activar diplomacia regional y cómo Colombia, desde su Amazonía en Putumayo, Vaupés, Amazonas y Guainía, tiene voz propia en la gobernanza selvática.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v1",
+      "statement": "¿Qué instrumento adoptó Colombia en 2021 para regularizar y proteger a la población migrante venezolana en condición irregular?",
+      "context": "En un barrio de Bogotá, una familia venezolana que llegó en 2018 gestiona un documento colombiano que le permite trabajar legalmente y acceder a salud por un periodo especial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una amnistía fiscal para empresas que contrataran migrantes",
+          "is_correct": false,
+          "feedback": "El Estatuto no fue una medida tributaria empresarial."
+        },
+        {
+          "letter": "B",
+          "text": "Un visado humanitario obligatorio para ingresar desde 2019",
+          "is_correct": false,
+          "feedback": "Los visados son requisitos de ingreso; el instrumento de 2021 fue posterior y de carácter registro-permanencia."
+        },
+        {
+          "letter": "C",
+          "text": "El Estatuto Temporal de Protección para Migrantes Venezolanos",
+          "is_correct": true,
+          "feedback": "El Estatuto Temporal de Protección, creado en 2021, otorgó un documento especial de permanencia regular por diez años."
+        },
+        {
+          "letter": "D",
+          "text": "La ciudadanía automática para todos los nacidos en Venezuela residentes en frontera",
+          "is_correct": false,
+          "feedback": "Colombia no concedió ciudadanía automática; la naturalización sigue reglas ordinarias."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Estatuto Temporal de Protección de 2021 implementó un registro único y un Permiso por Proteger que otorga permanencia regular temporal a venezolanos en condición irregular, con acceso a trabajo, salud y educación. Se considera un referente regional en gestión migratoria basada en derechos, pues integra a la población vulnerable al sistema formal en lugar de excluirla.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el origen institucional de la Comunidad Andina, CAN, organización de la que Colombia hace parte junto con Bolivia, Perú y Ecuador?",
+      "context": "Un exportador de flores de la sabana de Bogotá consulta si puede acogerse a un esquema subregional con arancel externo común que integró a países andinos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Acuerdo de Cartagena, suscrito en 1969 en la ciudad boliviana del mismo nombre",
+          "is_correct": true,
+          "feedback": "La CAN proviene del Pacto Andino creado por el Acuerdo de Cartagena de 1969."
+        },
+        {
+          "letter": "B",
+          "text": "El Tratado de Asunción, firmado en 1991",
+          "is_correct": false,
+          "feedback": "Asunción dio origen al Mercosur, bloque del cono sur distinto del andino."
+        },
+        {
+          "letter": "C",
+          "text": "La Carta de la OEA, de 1948",
+          "is_correct": false,
+          "feedback": "La OEA es política y hemisférica; no creó la integración andina."
+        },
+        {
+          "letter": "D",
+          "text": "El Protocolo de Tikal, de 1996",
+          "is_correct": false,
+          "feedback": "Tikal dio nombre institucional al Sistema de la Integración Centroamericana, SICA, no al andino."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Acuerdo de Cartagena de 1969 creó el Pacto Andino, renegociado como Comunidad Andina en 1996, con libre comercio subregional, arancel externo común y normas de transporte, propiedad intelectual y migración —de hecho, su mecanismo de tarjetas andinas de migración fue pionero. Venezuela fue miembro y se retiró en 2006; Chile participó y se salió en 1976. Para Colombia, la CAN es su anclaje subregional más antiguo junto con la proyección pacífica de la Alianza del Pacífico.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Globalización y comercio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v1",
+      "statement": "¿Qué análisis compara correctamente la naturaleza de la OEA y de la Alianza del Pacífico?",
+      "context": "En un panel universitario en Santa Marta, un analista compara por qué la OEA medió crisis políticas en la región mientras la Alianza del Pacífico nunca intervino en un golpe de Estado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambas son organizaciones de seguridad colectiva con tropas conjuntas",
+          "is_correct": false,
+          "feedback": "Ninguna de las dos posee fuerzas armadas integradas."
+        },
+        {
+          "letter": "B",
+          "text": "La Alianza del Pacífico tiene cláusula democrática y la OEA solo ve aranceles",
+          "is_correct": false,
+          "feedback": "La cláusula democrática —Carta Democrática Interamericana de 2001— pertenece a la OEA, no a la Alianza."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos exigen a sus miembros moneda única para participar",
+          "is_correct": false,
+          "feedback": "Ni OEA ni Alianza del Pacífico usan moneda común."
+        },
+        {
+          "letter": "D",
+          "text": "La OEA es un foro político-jurídico con mandato sobre democracia y derechos, mientras la Alianza del Pacífico es un mecanismo de integración económica y comercial",
+          "is_correct": true,
+          "feedback": "La distinción de mandatos explica que la OEA active mediaciones y la Alianza se enfoque en agendas de comercio e inversión."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La arquitectura regional latinoamericana es diversa: organizaciones políticas amplias como la OEA, con mecanismos de defensa de la democracia; bloques comerciales profundos como la Alianza del Pacífico, basada en la libre circulación; y foros de conversación como la CELAC. Analizar geopolítica regional implica leer qué problema —político, comercial o social— convoca a qué organización y con qué herramientas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Globalización y comercio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v1",
+      "statement": "La llegada de más de 2,8 millones de migrantes venezolanos a Colombia genera múltiples efectos. ¿Cuál de los siguientes análisis interpreta mejor la dimensión estructural del fenómeno?",
+      "context": "Los hospitales de Cúcuta reportan alta demanda, las aulas de colegios públicos en Soacha se llenan y los mercados informales de la Guajira crecen con vendedores venezolanos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La migración solo genera costos, por lo que el cierre total de la frontera sería la única respuesta racional",
+          "is_correct": false,
+          "feedback": "Omite beneficios demográficos y laborales, y el cierre de 2015-2019 mostró costos humanitarios y económicos binacionales."
+        },
+        {
+          "letter": "B",
+          "text": "La migración es un problema exclusivamente de seguridad que se resuelve con patrullajes",
+          "is_correct": false,
+          "feedback": "Confunde una dimensión menor con la estructural: la integración exige salud, educación y mercado laboral."
+        },
+        {
+          "letter": "C",
+          "text": "La migración presiona la oferta de servicios públicos y simultáneamente amplía la fuerza laboral y el mercado de destino, según la capacidad de integración que adopte el Estado",
+          "is_correct": true,
+          "feedback": "El efecto neto depende de políticas: sin integración hay tensión; con ella, la migración dinamiza la economía y mitiga el envejecimiento demográfico."
+        },
+        {
+          "letter": "D",
+          "text": "Los migrantes venezolanos no acceden al mercado laboral, por lo que el fenómeno es irrelevante para la economía",
+          "is_correct": false,
+          "feedback": "Una parte sustancial trabaja en economía formal e informal, aportando consumo y producción."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Colombia recibió la mayor parte del éxodo venezolano de más de siete millones de personas, con más de 2,8 millones en su territorio según los registros del RUMV. El análisis estructural debe evitar el alarmismo y la idealización: la presión sobre salud y educación en ciudades frontera como Cúcuta es real, pero la integración —como buscó el Estatuto Temporal— convierte el desafío demográfico en oportunidad productiva, mientras la xenofobia y la informalidad lo agravan.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v1",
+      "statement": "Sabiendo que la jurisdicción de la CIJ se funda en el consentimiento de los Estados, ¿qué se deduce correctamente del retiro de Colombia del mecanismo de solución pacífica del Pacto de Bogotá?",
+      "context": "Un estudiante de derecho en Cali examina cómo la denuncia colombiana del Pacto de Bogotá en 2012 afecta un hipotético litigio futuro con otro país vecino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Colombia dejó de estar obligada por el fallo de 2012, pues la denuncia tiene efecto retroactivo",
+          "is_correct": false,
+          "feedback": "Las sentencias firmes siguen vinculando; la denuncia opera hacia el futuro."
+        },
+        {
+          "letter": "B",
+          "text": "La CIJ perdió automáticamente toda relación con Colombia, incluida su calidad de miembro de la ONU",
+          "is_correct": false,
+          "feedback": "Colombia sigue siendo parte del Estatuto de la Corte como miembro de la ONU; lo que retiró fue la aceptación de jurisdicción obligatoria por tratado regional."
+        },
+        {
+          "letter": "C",
+          "text": "El fallo de 2012 conservó autoridad de cosa juzgada, pero Colombia evitó someter nuevos litigios por esa vía de consentimiento previo",
+          "is_correct": true,
+          "feedback": "La denuncia es prospectiva: cierra la puerta a futuros casos forzados sin desconocer decisiones ya emitidas."
+        },
+        {
+          "letter": "D",
+          "text": "Nicaragua quedó impedida de proponer cualquier negociación diplomática posterior",
+          "is_correct": false,
+          "feedback": "La denuncia no bloquea la diplomacia bilateral ni las vías amistosas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este caso permite analizar la lógica del consentimiento en derecho internacional: los tribunales no tienen jurisdicción compulsoria universal. Al denunciar, un Estado gestiona su riesgo litigioso futuro, pero no borra sentencias pasadas. La geopolítica jurídica caribeña de Colombia muestra cómo los fallos internacionales reconfiguran relaciones bilaterales durante décadas, incluidas las rutas de pesca y los límites de plataformas marítimas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v1",
+      "statement": "El cierre intermitente de la frontera colombo-venezolana entre 2015 y su reapertura gradual posterior demuestra que...",
+      "context": "Comerciantes de Cúcuta y San Antonio del Táchira relatan cómo los cierres del puente Simón Bolívar entre 2015 y los reencuentros binacionales posteriores cambiaron sus ingresos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las fronteras se cierran solo por decisiones de tribunales internacionales",
+          "is_correct": false,
+          "feedback": "Los cierres fueron actos discrecionales de los ejecutivos nacionales, no fallos judiciales."
+        },
+        {
+          "letter": "B",
+          "text": "La integración fronteriza es vulnerable a los ciclos políticos bilaterales y depende de acuerdos de cooperación más que de la sola proximidad geográfica",
+          "is_correct": true,
+          "feedback": "Millones de personas comparten la vida diaria en la frontera, pero el cruce legal depende de la agenda diplomática entre Bogotá y Caracas."
+        },
+        {
+          "letter": "C",
+          "text": "El comercio binacional desapareció de forma permanente tras 2019",
+          "is_correct": false,
+          "feedback": "El comercio se contrajo y luego repuntó con las reaperturas, incluido el reactivado flujo desde 2022."
+        },
+        {
+          "letter": "D",
+          "text": "Los habitantes de frontera no se ven afectados porque migran a otras ciudades",
+          "is_correct": false,
+          "feedback": "La población fronteriza sufre directamente el vaivén de pasos, tarifas y controles."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La frontera común de más de 2.200 kilómetros entre Cúcuta y San Antonio del Táchira es una de las más dinámicas de Suramérica: el puente Simón Bolívar concentra comercio y vida cotidiana que los cierres de 2015 y posteriores interrumpieron. Geopolíticamente, demuestra que la integración depende de instituciones binacionales, conectividad y reglas estables; la infraestructura sin acuerdo político se convierte en cuello de botella humanitario.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v1",
+      "statement": "¿Qué análisis explica mejor por qué la proliferación de foros regionales —OEA, CELAC, Unasur, Alianza del Pacífico, CAN— se describe a veces como «arquitectura de la sopa de letras» y qué implica para Colombia?",
+      "context": "Un observatorio de política exterior desde Bogotá rastrea qué organizaciones regionales prioriza Colombia: unas con mandatos vinculantes y otras solo declarativos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la redundancia institucional fortalece automáticamente la eficacia de cada organización",
+          "is_correct": false,
+          "feedback": "La duplicación dispersa recursos y debilita el cumplimiento; no es garantía de eficacia."
+        },
+        {
+          "letter": "B",
+          "text": "Que todos los foros tienen el mismo poder jurídico y son intercambiables",
+          "is_correct": false,
+          "feedback": "Sus mandatos varían entre vinculantes, declarativos y comerciales."
+        },
+        {
+          "letter": "C",
+          "text": "Que la fragmentación genera solapamientos y costos, pero también da margen para elegir espacios acordes a los intereses nacionales según el tema",
+          "is_correct": true,
+          "feedback": "La multiplicidad de foros permite a Colombia negociar comercio en la Alianza, asuntos políticos en la OEA y temas andinos en la CAN, aunque pagando burocracia y dispersión."
+        },
+        {
+          "letter": "D",
+          "text": "Que la integración regional latinoamericana terminó definitivamente",
+          "is_correct": false,
+          "feedback": "Los bloques se reconfiguran —Unasur revivió parcialmente—; no hay extinción regional."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "América Latina construyó durante décadas organismos superpuestos: la «sopa de letras» regional refleja proyectos políticos distintos y a veces rivales. Para un Estado como Colombia, la lectura estratégica es que cada foro tiene costos y réditos: la OEA vincula con Washington, la CELAC y UNASUR ofrecen autonomía sur-sur, y la Alianza y el CAN canalizan comercio. La geopolítica de la región se lee, entonces, en qué mesa se sienta cada país según el asunto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Globalización y comercio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v1",
+      "statement": "¿Qué opción describe correctamente el camino de una denuncia ciudadana en el sistema interamericano de protección?",
+      "context": "Organizaciones de derechos humanos documentan ante la Comisión Interamericana, en Washington, denuncias sobre condiciones en la frontera colombo-venezolana durante los cierres.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El ciudadano demanda directamente ante la Corte IDH en San José sin pasar por la Comisión",
+          "is_correct": false,
+          "feedback": "Los individuos no acceden directamente a la Corte; la Comisión filtra y eleva los casos."
+        },
+        {
+          "letter": "B",
+          "text": "La petición se presenta ante la Comisión Interamericana y, si se admite, esta puede llevar el caso ante la Corte IDH contra el Estado que reconoció su competencia",
+          "is_correct": true,
+          "feedback": "El mecanismo de peticiones individuales opera primero en la Comisión, con eventual remisión a la Corte."
+        },
+        {
+          "letter": "C",
+          "text": "La denuncia se radica ante la CIJ de La Haya, que juzga a personas",
+          "is_correct": false,
+          "feedback": "La CIJ resuelve litigios entre Estados, no peticiones individuales de derechos humanos."
+        },
+        {
+          "letter": "D",
+          "text": "Cualquier ONG puede dictar sentencias obligatorias para Colombia",
+          "is_correct": false,
+          "feedback": "Las ONG no jurisdicen; solo informan y peticionan ante los órganos oficiales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El sistema interamericano funciona como una cascada: primero la Comisión en Washington, que admite, informa y puede someter el caso a la Corte IDH en San José, cuyas sentencias son vinculantes para los Estados que aceptaron su jurisdicción. Esta arquitectura dual —órgano político-cuasi-judicial y tribunal— define la protección supranacional de derechos en el hemisferio y explica por qué decisiones sobre Colombia se litigan en esas dos sedes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v1",
+      "statement": "Frente al dilema soberanía versus integración tras el fallo de la CIJ de 2012, ¿qué evaluación es más rigurosa desde la teoría de relaciones internacionales?",
+      "context": "En un debate sobre el fallo de La Haya, un dirigente en Providencia defiende «no acatar» el fallo y un constitucionalista en Bogotá advierte sobre el costo de aislarse internacionalmente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La soberanía absoluta es siempre compatible con los fallos internacionales, porque las cortes solo opinan",
+          "is_correct": false,
+          "feedback": "Subestima el carácter vinculante de las sentencias de la CIJ entre partes que consintieron."
+        },
+        {
+          "letter": "B",
+          "text": "La cesión de jurisdicción es irrelevante, pues ningún fallo afecta políticas pesqueras o marítimas",
+          "is_correct": false,
+          "feedback": "El fallo reconfiguró espacios marítimos y actividades económicas efectivas."
+        },
+        {
+          "letter": "C",
+          "text": "La soberanía moderna se ejerce tanto defendiendo el territorio como participando en sistemas de derecho que acotan la fuerza a cambio de previsibilidad, de modo que desconocer fallos sin sustituto diplomático erosiona la posición internacional del Estado",
+          "is_correct": true,
+          "feedback": "El análisis reconoce el intercambio real entre autonomía soberana y beneficios de la cooperación jurídica."
+        },
+        {
+          "letter": "D",
+          "text": "Retirarse de todos los tratados internacionales es la única forma de garantizar la paz",
+          "is_correct": false,
+          "feedback": "El aislacionismo no elimina disputas; multiplica los incentivos para resolverlas por la fuerza."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El caso Colombia-Nicaragua es un laboratorio para evaluar la tensión soberanía-integración: aceptar la jurisdicción de la CIJ fue históricamente una decisión de política exterior que compraba previsibilidad hemisférica. Tras el fallo, Colombia combinó acatamiento formal con denuncia prospectiva del pacto y reforzó su presencia institucional en el archipiélago. La evaluación madura huye tanto del soberanismo maximalista como del subordinacionismo acrítico.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v1",
+      "statement": "¿Qué evaluación es más balanceada sobre el desempeño de la OEA en las crisis políticas latinoamericanas del siglo XXI?",
+      "context": "Ante las crisis políticas de la región, un editorialista de Pereira pregunta si los mecanismos interamericanos de defensa de la democracia son eficaces o selectivos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ha sido un éxito total, pues resolvió todas las crisis del hemisferio",
+          "is_correct": false,
+          "feedback": "La historia registra éxitos parciales y fracasos notables, como la demora en casos de ruptura institucional."
+        },
+        {
+          "letter": "B",
+          "text": "Ha sido perfectamente neutral, sin influencia de las potencias",
+          "is_correct": false,
+          "feedback": "La asimetría de poder dentro del organismo y su sede en Washington marcan debates sobre su imparcialidad."
+        },
+        {
+          "letter": "C",
+          "text": "Carece de cualquier utilidad, pues ni siquiera emite resoluciones",
+          "is_correct": false,
+          "feedback": "La OEA produce resoluciones, misiones de observación y buenos oficios con efectos reales."
+        },
+        {
+          "letter": "D",
+          "text": "Ha combinado herramientas útiles, como observación electoral y mediación, con acusaciones de doble vara según la orientación ideológica de los gobiernos en crisis",
+          "is_correct": true,
+          "feedback": "Reconoce tanto capacidades operativas como la crítica sobre selectividad política."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La Carta Democrática Interamericana de 2001 permite convocar consejos y suspender a miembros, como ocurrió con Cuba en 1962 y con Honduras tras el golpe de 2009. La evaluación equilibrada considera que la OEA ofreció mesas de negociación y misiones, pero que sus votaciones geopolíticas alimentaron denuncias de doble vara. Ningún foro regional sustituye la voluntad interna de los actores de cada país.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v1",
+      "statement": "¿Qué juicio evalúa de forma más completa el Estatuto Temporal de Protección para migrantes venezolanos?",
+      "context": "En Puerto Asís, Putumayo, una mesa de trabajo municipal debate si el Estatuto Temporal de 2021 debe copiarse, ampliarse o derogarse según sus resultados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fue un fracaso porque ningún migrante se inscribió",
+          "is_correct": false,
+          "feedback": "Millones de venezolanos completaron el registro ante la autoridad colombiana."
+        },
+        {
+          "letter": "B",
+          "text": "Constituyó un avance en protección basada en derechos, con límites estructurales: recursos insuficientes de los municipios de destino y presión sobre servicios públicos",
+          "is_correct": true,
+          "feedback": "Combina el reconocimiento al diseño normativo con la advertencia sobre financiamiento y capacidad local."
+        },
+        {
+          "letter": "C",
+          "text": "Otorgó la nacionalidad, equiparándose a una reforma constitucional de ciudadanía",
+          "is_correct": false,
+          "feedback": "El Estatuto es permiso de permanencia temporal, no naturalización."
+        },
+        {
+          "letter": "D",
+          "text": "Solo benefició a empleadores, nunca a los migrantes",
+          "is_correct": false,
+          "feedback": "Los titulares del permiso accedieron formalmente a servicios y empleo registrado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar el Estatuto exige mirar tres planos: el normativo —un diseño pionero de regularización masiva por vía administrativa—, el financiero —municipios sin capacidad para absorber demanda de salud y educación— y el regional —la cooperación internacional prometió fondos que llegaron parcialmente. La política fue un hito de derechos humanos en la región, pero su sostenibilidad depende de corresponsabilidad, un principio que Colombia reclamó sistemáticamente ante los organismos multilaterales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v1",
+      "statement": "Frente a la idea de que la Amazonía «es un patrimonio de la humanidad» gestionable internacionalmente, ¿qué evaluación geopolítica es más defendible para un ciudadano colombiano?",
+      "context": "Desde Leticia, estudiantes analizan cómo la Amazonía aparece en agendas de potencias extrarregionales y en declaraciones de países amazónicos sobre su destino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La soberanía amazónica debe cederse a una administración internacional porque ningún Estado protege la selva",
+          "is_correct": false,
+          "feedback": "Parte de una generalización falsa: los Estados amazónicos tienen jurisdicción y capacidades propias de gestión."
+        },
+        {
+          "letter": "B",
+          "text": "La Amazonía no tiene importancia estratégica y puede ignorarse en la política exterior",
+          "is_correct": false,
+          "feedback": "Biodiversidad, aguas, minerales y clima la sitúan en el centro de la geopolítica del siglo XXI."
+        },
+        {
+          "letter": "C",
+          "text": "Toda inversión extranjera en la Amazonía es una amenaza y debe prohibirse",
+          "is_correct": false,
+          "feedback": "Confunde cooperación con dominación; el financiamiento climático internacional es necesario."
+        },
+        {
+          "letter": "D",
+          "text": "La Amazonía es territorio soberano de los Estados amazónicos, cuya protección exige cooperación regional fuerte y corresponsabilidad internacional sin tutelas externas",
+          "is_correct": true,
+          "feedback": "Defiende soberanía y, a la vez, reconoce que los problemas selváticos son transfronterizos y piden solidaridad."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El debate amazónico opone dos lecturas: la soberanista —el Tratado de Cooperación Amazónica de 1978 y el Pacto de Leticia de 2019 reafirman que la selva se gestiona desde la región— y la tutorista, según la cual la crisis climática justificaría intervenciones externas. Una evaluación ciudadana responsable combina ambos polos: cooperación internacional sin cesión de soberanía, con los países amazónicos —Colombia incluido desde su cuarta parte de territorio selvático— como titulares de la decisión.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

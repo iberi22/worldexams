@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "ar",
+    "pack_id": "ar-week-19-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T16:46:07.206Z"
+  },
+  "questions": [
+    {
+      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v1",
+      "statement": "Un zooplancton contiene $2\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
+      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 1.\n**ID:** AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v1\n**Bloom:** Remember\n**EJE:** Ecología y Ciencias de la Tierra\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Concentración = $6\\text{ ppm}$",
+          "is_correct": true,
+          "feedback": "Correcto. $2 \\cdot 3 = 6\\text{ ppm}$ debido al proceso de biomagnificación."
+        },
+        {
+          "letter": "B",
+          "text": "Concentración = $2\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
+        },
+        {
+          "letter": "C",
+          "text": "Concentración = $0,7\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
+        },
+        {
+          "letter": "D",
+          "text": "Concentración = $0\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $2 \\cdot 3 = 6\\text{ ppm}$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v2",
+      "statement": "Un zooplancton contiene $4\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
+      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 2.\n**ID:** AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v2\n**Bloom:** Remember\n**EJE:** Ecología y Ciencias de la Tierra\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Concentración = $12\\text{ ppm}$",
+          "is_correct": true,
+          "feedback": "Correcto. $4 \\cdot 3 = 12\\text{ ppm}$ debido al proceso de biomagnificación."
+        },
+        {
+          "letter": "B",
+          "text": "Concentración = $4\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
+        },
+        {
+          "letter": "C",
+          "text": "Concentración = $1,3\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
+        },
+        {
+          "letter": "D",
+          "text": "Concentración = $0\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $4 \\cdot 3 = 12\\text{ ppm}$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v3",
+      "statement": "Un zooplancton contiene $6\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
+      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 3.\n**ID:** AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v3\n**Bloom:** Understand\n**EJE:** Ecología y Ciencias de la Tierra\n**Expected_Success:** 0.86",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Concentración = $18\\text{ ppm}$",
+          "is_correct": true,
+          "feedback": "Correcto. $6 \\cdot 3 = 18\\text{ ppm}$ debido al proceso de biomagnificación."
+        },
+        {
+          "letter": "B",
+          "text": "Concentración = $6\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
+        },
+        {
+          "letter": "C",
+          "text": "Concentración = $2,0\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
+        },
+        {
+          "letter": "D",
+          "text": "Concentración = $0\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $6 \\cdot 3 = 18\\text{ ppm}$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.86,
+      "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v4",
+      "statement": "Un zooplancton contiene $8\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
+      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 4.\n**ID:** AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v4\n**Bloom:** Understand\n**EJE:** Ecología y Ciencias de la Tierra\n**Expected_Success:** 0.84",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Concentración = $24\\text{ ppm}$",
+          "is_correct": true,
+          "feedback": "Correcto. $8 \\cdot 3 = 24\\text{ ppm}$ debido al proceso de biomagnificación."
+        },
+        {
+          "letter": "B",
+          "text": "Concentración = $8\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
+        },
+        {
+          "letter": "C",
+          "text": "Concentración = $2,7\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
+        },
+        {
+          "letter": "D",
+          "text": "Concentración = $0\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $8 \\cdot 3 = 24\\text{ ppm}$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v5",
+      "statement": "Un zooplancton contiene $10\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
+      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 5.\n**ID:** AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v5\n**Bloom:** Understand\n**EJE:** Ecología y Ciencias de la Tierra\n**Expected_Success:** 0.82",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Concentración = $30\\text{ ppm}$",
+          "is_correct": true,
+          "feedback": "Correcto. $10 \\cdot 3 = 30\\text{ ppm}$ debido al proceso de biomagnificación."
+        },
+        {
+          "letter": "B",
+          "text": "Concentración = $10\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
+        },
+        {
+          "letter": "C",
+          "text": "Concentración = $3,3\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
+        },
+        {
+          "letter": "D",
+          "text": "Concentración = $0\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $10 \\cdot 3 = 30\\text{ ppm}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v6",
+      "statement": "Un zooplancton contiene $12\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
+      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 6.\n**ID:** AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v6\n**Bloom:** Apply\n**EJE:** Ecología y Ciencias de la Tierra\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Concentración = $36\\text{ ppm}$",
+          "is_correct": true,
+          "feedback": "Correcto. $12 \\cdot 3 = 36\\text{ ppm}$ debido al proceso de biomagnificación."
+        },
+        {
+          "letter": "B",
+          "text": "Concentración = $12\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
+        },
+        {
+          "letter": "C",
+          "text": "Concentración = $4,0\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
+        },
+        {
+          "letter": "D",
+          "text": "Concentración = $0\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $12 \\cdot 3 = 36\\text{ ppm}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v7",
+      "statement": "Un zooplancton contiene $14\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
+      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 7.\n**ID:** AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v7\n**Bloom:** Apply\n**EJE:** Ecología y Ciencias de la Tierra\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Concentración = $42\\text{ ppm}$",
+          "is_correct": true,
+          "feedback": "Correcto. $14 \\cdot 3 = 42\\text{ ppm}$ debido al proceso de biomagnificación."
+        },
+        {
+          "letter": "B",
+          "text": "Concentración = $14\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
+        },
+        {
+          "letter": "C",
+          "text": "Concentración = $4,7\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
+        },
+        {
+          "letter": "D",
+          "text": "Concentración = $0\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $14 \\cdot 3 = 42\\text{ ppm}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v8",
+      "statement": "Un zooplancton contiene $16\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
+      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 8.\n**ID:** AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v8\n**Bloom:** Apply\n**EJE:** Ecología y Ciencias de la Tierra\n**Expected_Success:** 0.76",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Concentración = $48\\text{ ppm}$",
+          "is_correct": true,
+          "feedback": "Correcto. $16 \\cdot 3 = 48\\text{ ppm}$ debido al proceso de biomagnificación."
+        },
+        {
+          "letter": "B",
+          "text": "Concentración = $16\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
+        },
+        {
+          "letter": "C",
+          "text": "Concentración = $5,3\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
+        },
+        {
+          "letter": "D",
+          "text": "Concentración = $0\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $16 \\cdot 3 = 48\\text{ ppm}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.76,
+      "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v9",
+      "statement": "Un zooplancton contiene $18\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
+      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 9.\n**ID:** AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v9\n**Bloom:** Apply\n**EJE:** Ecología y Ciencias de la Tierra\n**Expected_Success:** 0.74",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Concentración = $54\\text{ ppm}$",
+          "is_correct": true,
+          "feedback": "Correcto. $18 \\cdot 3 = 54\\text{ ppm}$ debido al proceso de biomagnificación."
+        },
+        {
+          "letter": "B",
+          "text": "Concentración = $18\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
+        },
+        {
+          "letter": "C",
+          "text": "Concentración = $6,0\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
+        },
+        {
+          "letter": "D",
+          "text": "Concentración = $0\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $18 \\cdot 3 = 54\\text{ ppm}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.74,
+      "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v10",
+      "statement": "Un zooplancton contiene $20\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
+      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 10.\n**ID:** AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v10\n**Bloom:** Apply\n**EJE:** Ecología y Ciencias de la Tierra\n**Expected_Success:** 0.72",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Concentración = $60\\text{ ppm}$",
+          "is_correct": true,
+          "feedback": "Correcto. $20 \\cdot 3 = 60\\text{ ppm}$ debido al proceso de biomagnificación."
+        },
+        {
+          "letter": "B",
+          "text": "Concentración = $20\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
+        },
+        {
+          "letter": "C",
+          "text": "Concentración = $6,7\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
+        },
+        {
+          "letter": "D",
+          "text": "Concentración = $0\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $20 \\cdot 3 = 60\\text{ ppm}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v11",
+      "statement": "Un zooplancton contiene $22\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
+      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 11.\n**ID:** AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v11\n**Bloom:** Analyze\n**EJE:** Ecología y Ciencias de la Tierra\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Concentración = $66\\text{ ppm}$",
+          "is_correct": true,
+          "feedback": "Correcto. $22 \\cdot 3 = 66\\text{ ppm}$ debido al proceso de biomagnificación."
+        },
+        {
+          "letter": "B",
+          "text": "Concentración = $22\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
+        },
+        {
+          "letter": "C",
+          "text": "Concentración = $7,3\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
+        },
+        {
+          "letter": "D",
+          "text": "Concentración = $0\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $22 \\cdot 3 = 66\\text{ ppm}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v12",
+      "statement": "Un zooplancton contiene $24\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
+      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 12.\n**ID:** AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v12\n**Bloom:** Analyze\n**EJE:** Ecología y Ciencias de la Tierra\n**Expected_Success:** 0.68",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Concentración = $72\\text{ ppm}$",
+          "is_correct": true,
+          "feedback": "Correcto. $24 \\cdot 3 = 72\\text{ ppm}$ debido al proceso de biomagnificación."
+        },
+        {
+          "letter": "B",
+          "text": "Concentración = $24\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
+        },
+        {
+          "letter": "C",
+          "text": "Concentración = $8,0\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
+        },
+        {
+          "letter": "D",
+          "text": "Concentración = $0\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $24 \\cdot 3 = 72\\text{ ppm}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.68,
+      "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v13",
+      "statement": "Un zooplancton contiene $26\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
+      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 13.\n**ID:** AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v13\n**Bloom:** Analyze\n**EJE:** Ecología y Ciencias de la Tierra\n**Expected_Success:** 0.66",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Concentración = $78\\text{ ppm}$",
+          "is_correct": true,
+          "feedback": "Correcto. $26 \\cdot 3 = 78\\text{ ppm}$ debido al proceso de biomagnificación."
+        },
+        {
+          "letter": "B",
+          "text": "Concentración = $26\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
+        },
+        {
+          "letter": "C",
+          "text": "Concentración = $8,7\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
+        },
+        {
+          "letter": "D",
+          "text": "Concentración = $0\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $26 \\cdot 3 = 78\\text{ ppm}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.66,
+      "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v14",
+      "statement": "Un zooplancton contiene $28\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
+      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 14.\n**ID:** AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v14\n**Bloom:** Analyze\n**EJE:** Ecología y Ciencias de la Tierra\n**Expected_Success:** 0.64",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Concentración = $84\\text{ ppm}$",
+          "is_correct": true,
+          "feedback": "Correcto. $28 \\cdot 3 = 84\\text{ ppm}$ debido al proceso de biomagnificación."
+        },
+        {
+          "letter": "B",
+          "text": "Concentración = $28\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
+        },
+        {
+          "letter": "C",
+          "text": "Concentración = $9,3\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
+        },
+        {
+          "letter": "D",
+          "text": "Concentración = $0\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $28 \\cdot 3 = 84\\text{ ppm}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.64,
+      "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v15",
+      "statement": "Un zooplancton contiene $30\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
+      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 15.\n**ID:** AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v15\n**Bloom:** Apply\n**EJE:** Ecología y Ciencias de la Tierra\n**Expected_Success:** 0.62",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Concentración = $90\\text{ ppm}$",
+          "is_correct": true,
+          "feedback": "Correcto. $30 \\cdot 3 = 90\\text{ ppm}$ debido al proceso de biomagnificación."
+        },
+        {
+          "letter": "B",
+          "text": "Concentración = $30\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
+        },
+        {
+          "letter": "C",
+          "text": "Concentración = $10,0\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
+        },
+        {
+          "letter": "D",
+          "text": "Concentración = $0\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $30 \\cdot 3 = 90\\text{ ppm}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v16",
+      "statement": "Un zooplancton contiene $32\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
+      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 16.\n**ID:** AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v16\n**Bloom:** Analyze\n**EJE:** Ecología y Ciencias de la Tierra\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Concentración = $96\\text{ ppm}$",
+          "is_correct": true,
+          "feedback": "Correcto. $32 \\cdot 3 = 96\\text{ ppm}$ debido al proceso de biomagnificación."
+        },
+        {
+          "letter": "B",
+          "text": "Concentración = $32\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
+        },
+        {
+          "letter": "C",
+          "text": "Concentración = $10,7\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
+        },
+        {
+          "letter": "D",
+          "text": "Concentración = $0\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $32 \\cdot 3 = 96\\text{ ppm}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v17",
+      "statement": "Un zooplancton contiene $34\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
+      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 17.\n**ID:** AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v17\n**Bloom:** Evaluate\n**EJE:** Ecología y Ciencias de la Tierra\n**Expected_Success:** 0.58",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Concentración = $102\\text{ ppm}$",
+          "is_correct": true,
+          "feedback": "Correcto. $34 \\cdot 3 = 102\\text{ ppm}$ debido al proceso de biomagnificación."
+        },
+        {
+          "letter": "B",
+          "text": "Concentración = $34\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
+        },
+        {
+          "letter": "C",
+          "text": "Concentración = $11,3\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
+        },
+        {
+          "letter": "D",
+          "text": "Concentración = $0\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $34 \\cdot 3 = 102\\text{ ppm}$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.58,
+      "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v18",
+      "statement": "Un zooplancton contiene $36\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
+      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 18.\n**ID:** AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v18\n**Bloom:** Evaluate\n**EJE:** Ecología y Ciencias de la Tierra\n**Expected_Success:** 0.56",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Concentración = $108\\text{ ppm}$",
+          "is_correct": true,
+          "feedback": "Correcto. $36 \\cdot 3 = 108\\text{ ppm}$ debido al proceso de biomagnificación."
+        },
+        {
+          "letter": "B",
+          "text": "Concentración = $36\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
+        },
+        {
+          "letter": "C",
+          "text": "Concentración = $12,0\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
+        },
+        {
+          "letter": "D",
+          "text": "Concentración = $0\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $36 \\cdot 3 = 108\\text{ ppm}$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.56,
+      "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v19",
+      "statement": "Un zooplancton contiene $38\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
+      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 19.\n**ID:** AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v19\n**Bloom:** Evaluate\n**EJE:** Ecología y Ciencias de la Tierra\n**Expected_Success:** 0.54",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Concentración = $114\\text{ ppm}$",
+          "is_correct": true,
+          "feedback": "Correcto. $38 \\cdot 3 = 114\\text{ ppm}$ debido al proceso de biomagnificación."
+        },
+        {
+          "letter": "B",
+          "text": "Concentración = $38\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
+        },
+        {
+          "letter": "C",
+          "text": "Concentración = $12,7\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
+        },
+        {
+          "letter": "D",
+          "text": "Concentración = $0\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $38 \\cdot 3 = 114\\text{ ppm}$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.54,
+      "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v20",
+      "statement": "Un zooplancton contiene $40\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
+      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 20.\n**ID:** AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v20\n**Bloom:** Evaluate\n**EJE:** Ecología y Ciencias de la Tierra\n**Expected_Success:** 0.52",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Concentración = $120\\text{ ppm}$",
+          "is_correct": true,
+          "feedback": "Correcto. $40 \\cdot 3 = 120\\text{ ppm}$ debido al proceso de biomagnificación."
+        },
+        {
+          "letter": "B",
+          "text": "Concentración = $40\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
+        },
+        {
+          "letter": "C",
+          "text": "Concentración = $13,3\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
+        },
+        {
+          "letter": "D",
+          "text": "Concentración = $0\\text{ ppm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $40 \\cdot 3 = 120\\text{ ppm}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.52,
+      "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-5-grade-5-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T16:46:07.383Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-5-2026-W05-suelo-tipos-erosion-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de los siguientes es un componente básico del suelo?",
+      "context": "En una finca del Valle del Cauca, unos estudiantes observan diferentes tipos de tierra mientras caminan con su profesor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Minerales, agua, aire y materia orgánica.",
+          "is_correct": true,
+          "feedback": "El suelo está formado por partículas minerales, agua, aire y restos orgánicos."
+        },
+        {
+          "letter": "B",
+          "text": "Solo agua y aire.",
+          "is_correct": false,
+          "feedback": "Faltan los minerales y la materia orgánica como componentes del suelo."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente piedras grandes.",
+          "is_correct": false,
+          "feedback": "El suelo contiene partículas de distintos tamaños, no solo piedras grandes."
+        },
+        {
+          "letter": "D",
+          "text": "Solo arena seca sin vida.",
+          "is_correct": false,
+          "feedback": "El suelo incluye materia orgánica y seres vivos, no solo arena seca."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer los componentes principales del suelo y su importancia para los ecosistemas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Indagación",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-5-2026-W05-suelo-tipos-erosion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W05-suelo-tipos-erosion-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué el suelo arcilloso retiene más agua que el suelo arenoso?",
+      "context": "Lee: \"El suelo arenoso es suelto y deja pasar el agua con facilidad, mientras que el suelo arcilloso es pegajoso y retiene mucha agua.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque sus partículas son muy finas y se adhieren entre sí, formando espacios pequeños para el agua.",
+          "is_correct": true,
+          "feedback": "Las partículas finas de la arcilla forman poros pequeños que retienen agua con facilidad."
+        },
+        {
+          "letter": "B",
+          "text": "Porque está formado únicamente por piedras grandes.",
+          "is_correct": false,
+          "feedback": "La arcilla está formada por partículas muy finas, no por piedras grandes."
+        },
+        {
+          "letter": "C",
+          "text": "Porque no contiene ningún tipo de partícula mineral.",
+          "is_correct": false,
+          "feedback": "El suelo arcilloso sí contiene partículas minerales, solo que son muy finas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el agua no puede mojar la arena.",
+          "is_correct": false,
+          "feedback": "El agua sí moja la arena; la diferencia está en el tamaño de las partículas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender la relación entre el tamaño de las partículas del suelo y su capacidad de retener agua.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-5-2026-W05-suelo-tipos-erosion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W05-suelo-tipos-erosion-001-MASTERY-bundle-v3",
+      "statement": "¿Qué tipo de suelo es probablemente el más adecuado para cultivar alimentos?",
+      "context": "Un agricultor observa que sus plantas crecen mejor en un suelo oscuro y esponjoso que en un suelo amarillo y duro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un suelo oscuro, con materia orgánica y buena capacidad de retener agua.",
+          "is_correct": true,
+          "feedback": "Los suelos oscuros y esponjosos tienen nutrientes y buena estructura para cultivar."
+        },
+        {
+          "letter": "B",
+          "text": "Un suelo completamente rocoso sin tierra fina.",
+          "is_correct": false,
+          "feedback": "Un suelo solo rocoso no retiene agua ni nutrientes para las plantas."
+        },
+        {
+          "letter": "C",
+          "text": "Un suelo solo de arena seca sin materia orgánica.",
+          "is_correct": false,
+          "feedback": "La arena seca es pobre en nutrientes y retiene poca agua."
+        },
+        {
+          "letter": "D",
+          "text": "Un suelo totalmente impermeabilizado con cemento.",
+          "is_correct": false,
+          "feedback": "El cemento no permite el crecimiento de raíces ni la absorción de agua."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el conocimiento sobre los tipos de suelo para elegir el más apto para la agricultura.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CN-5-2026-W05-suelo-tipos-erosion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W05-suelo-tipos-erosion-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál de las siguientes situaciones describe mejor un caso de erosión del suelo?",
+      "context": "Lee: \"La erosión del suelo es el desgaste y arrastre de las partículas de la tierra causado por el agua, el viento o la actividad humana.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una lluvia muy fuerte arrastra la capa superficial de tierra hacia un río cercano.",
+          "is_correct": true,
+          "feedback": "El agua de lluvia arrastra partículas del suelo, lo que es un claro ejemplo de erosión."
+        },
+        {
+          "letter": "B",
+          "text": "Una persona planta árboles en una ladera para proteger el suelo.",
+          "is_correct": false,
+          "feedback": "Plantar árboles previene la erosión, no la causa."
+        },
+        {
+          "letter": "C",
+          "text": "Un agricultor abona su tierra antes de sembrar.",
+          "is_correct": false,
+          "feedback": "Abonar la tierra es una forma de cuidar el suelo, no de erosionarlo."
+        },
+        {
+          "letter": "D",
+          "text": "Un niño construye un castillo con arena en la playa.",
+          "is_correct": false,
+          "feedback": "Construir con arena no representa erosión del suelo agrícola."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificar ejemplos concretos de erosión del suelo causados por el agua o el viento.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-5-2026-W05-suelo-tipos-erosion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W05-suelo-tipos-erosion-001-MASTERY-bundle-v5",
+      "statement": "¿Qué acción sencilla ayuda a reducir la erosión del suelo en el patio del colegio?",
+      "context": "En una escuela rural de Boyacá, los estudiantes quieren evitar que el agua de lluvia se lleve la tierra del patio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sembrar plantas y cubrir el suelo con pasto o cubiertas vegetales.",
+          "is_correct": true,
+          "feedback": "La vegetación protege el suelo y reduce el arrastre por agua y viento."
+        },
+        {
+          "letter": "B",
+          "text": "Dejar el suelo completamente descubierto y sin ninguna planta.",
+          "is_correct": false,
+          "feedback": "Un suelo sin vegetación es más vulnerable a la erosión."
+        },
+        {
+          "letter": "C",
+          "text": "Regar el suelo con mangueras todo el día para mantenerlo mojado.",
+          "is_correct": false,
+          "feedback": "Regar en exceso puede provocar encharcamientos y más erosión, no solucionarla."
+        },
+        {
+          "letter": "D",
+          "text": "Quemar la vegetación cercana para \"limpiar\" el terreno.",
+          "is_correct": false,
+          "feedback": "Quemar la cubierta vegetal destruye la protección natural del suelo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Proponer acciones prácticas para prevenir la erosión del suelo en el entorno escolar y rural.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CN-5-2026-W05-suelo-tipos-erosion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W05-suelo-tipos-erosion-001-MASTERY-bundle-v6",
+      "statement": "¿Qué factores hacen que la erosión sea mayor en zonas con pendientes y sin vegetación?",
+      "context": "Compara: \"En la zona andina con pendientes pronunciadas se observa erosión severa cuando se tala el bosque. En las zonas planas con cobertura vegetal la erosión es menor.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La gravedad y el agua lluvia arrastran el suelo sin raíces que lo sujeten.",
+          "is_correct": true,
+          "feedback": "En pendientes, el agua y la gravedad mueven las partículas; las raíces las retienen."
+        },
+        {
+          "letter": "B",
+          "text": "La ausencia de pendientes y la cantidad de raíces disminuyen la erosión.",
+          "is_correct": false,
+          "feedback": "Esa combinación reduce la erosión, no la aumenta."
+        },
+        {
+          "letter": "C",
+          "text": "La vegetación siempre aumenta la erosión, sin importar la pendiente.",
+          "is_correct": false,
+          "feedback": "La vegetación protege el suelo, no aumenta la erosión."
+        },
+        {
+          "letter": "D",
+          "text": "La lluvia solo erosiona los suelos planos y nunca los pendientes.",
+          "is_correct": false,
+          "feedback": "La lluvia erosiona más intensamente en pendientes que en zonas planas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la interacción entre pendiente, vegetación y agentes naturales en el proceso de erosión.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CN-5-2026-W05-suelo-tipos-erosion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W05-suelo-tipos-erosion-001-MASTERY-bundle-v7",
+      "statement": "¿Qué relación puedes establecer entre el tipo de suelo y su uso por el ser humano?",
+      "context": "Lee: \"Los suelos arenosos, limosos y arcillosos tienen diferentes usos: los arenosos se usan en construcción, los limosos en agricultura y los arcillosos en cerámica.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cada tipo de suelo tiene propiedades que lo hacen útil para distintas actividades humanas.",
+          "is_correct": true,
+          "feedback": "Las propiedades físicas y químicas de cada suelo determinan su uso más adecuado."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los suelos sirven exactamente para lo mismo, sin importar sus propiedades.",
+          "is_correct": false,
+          "feedback": "Los suelos tienen propiedades diferentes y, por tanto, usos diferentes."
+        },
+        {
+          "letter": "C",
+          "text": "Solo el suelo arcilloso se usa para algo, los demás son inútiles.",
+          "is_correct": false,
+          "feedback": "Los suelos arenosos, limosos y arcillosos tienen usos valiosos cada uno."
+        },
+        {
+          "letter": "D",
+          "text": "Ningún suelo se usa para cultivar ni construir.",
+          "is_correct": false,
+          "feedback": "El texto describe múltiples usos humanos de los distintos suelos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Relacionar las propiedades de los tipos de suelo con sus usos en la vida cotidiana.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.52,
+      "bundle_id": "CO-CN-5-2026-W05-suelo-tipos-erosion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W05-suelo-tipos-erosion-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué es urgente proteger el suelo y cuáles son las mejores estrategias para hacerlo?",
+      "context": "Lee: 'El suelo es un recurso natural que tarda cientos de años en formarse. La deforestación, la agricultura sin cuidado y la construcción en laderas aceleran su erosión y ponen en riesgo la producción de alimentos y la calidad del agua.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque tarda mucho en formarse y la erosión pone en riesgo alimentos y agua; se protege con vegetación y prácticas responsables.",
+          "is_correct": true,
+          "feedback": "El suelo es un recurso lento de formar; la vegetación y el uso responsable lo conservan."
+        },
+        {
+          "letter": "B",
+          "text": "Porque se forma en pocos días y se puede reemplazar fácilmente.",
+          "is_correct": false,
+          "feedback": "El suelo tarda cientos de años en formarse, no pocos días."
+        },
+        {
+          "letter": "C",
+          "text": "Porque lo mejor es talar bosques para dar más espacio a la agricultura.",
+          "is_correct": false,
+          "feedback": "La deforestación acelera la erosión, no la solución."
+        },
+        {
+          "letter": "D",
+          "text": "Porque proteger el suelo no tiene relación con el agua ni con los alimentos.",
+          "is_correct": false,
+          "feedback": "La calidad del suelo influye directamente en el agua y en la producción de alimentos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la importancia del suelo como recurso natural y proponer estrategias para su conservación.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.3,
+      "bundle_id": "CO-CN-5-2026-W05-suelo-tipos-erosion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

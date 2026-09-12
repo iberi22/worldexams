@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-40-grade-11-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-12T16:46:07.600Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle-v1",
+      "statement": "El Acuerdo Final para la Terminación del Conflicto y la Construcción de una Paz Estable y Duradera fue firmado el 24 de noviembre de 2016 en la ciudad de",
+      "context": "En un colegio de Bogotá se conmemora la firma del Acuerdo Final entre el Gobierno y las FARC-EP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Habana",
+          "is_correct": false,
+          "feedback": "En La Habana se negoció y rubricó el texto en agosto de 2016, pero la firma pública del Acuerdo Final fue en Cartagena."
+        },
+        {
+          "letter": "B",
+          "text": "Cartagena de Indias",
+          "is_correct": true,
+          "feedback": "Correcto. La firma solemne del Acuerdo Final tuvo lugar el 24 de noviembre de 2016 en Cartagena."
+        },
+        {
+          "letter": "C",
+          "text": "Medellín",
+          "is_correct": false,
+          "feedback": "Medellín fue sede de eventos posteriores de implementación, no de la firma."
+        },
+        {
+          "letter": "D",
+          "text": "Cali",
+          "is_correct": false,
+          "feedback": "La firma del 24 de noviembre de 2016 no tuvo lugar en Cali."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Tras el rechazo del plebiscito del 2 de octubre de 2016 y una renegociación con incorporaciones de la oposición, el Acuerdo Final se firmó en el Teatro Colón de Cartagena el 24 de noviembre de 2016. Consta de cinco puntos: reforma rural integral, participación política, fin del conflicto, solución al problema de drogas ilícitas y víctimas, más implementación, verificación y refrendación, y fue convalidado por el Acto Legislativo 01 de 2017, el \"Acto Legislativo para la Paz\".",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle-v2",
+      "statement": "El Sistema Integral de Verdad, Justicia, Reparación y No Repetición NO está integrado por",
+      "context": "Una estudiante de Florencia, Caquetá, memoriza los componentes del sistema integral del acuerdo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Jurisdicción Especial para la Paz, JEP",
+          "is_correct": false,
+          "feedback": "La JEP sí es componente jurisdiccional del sistema."
+        },
+        {
+          "letter": "B",
+          "text": "La Comisión para el Esclarecimiento de la Verdad, la Convivencia y la No Repetición",
+          "is_correct": false,
+          "feedback": "La Comisión de la Verdad sí integra el sistema."
+        },
+        {
+          "letter": "C",
+          "text": "La Fiscalía General de la Nación como componente del sistema",
+          "is_correct": true,
+          "feedback": "Correcto. La Fiscalía es órgano de la justicia ordinaria, no componente del sistema transicional, aunque coordina con la JEP."
+        },
+        {
+          "letter": "D",
+          "text": "La Unidad de Búsqueda de Personas dadas por Desaparecidas en el contexto y en razón del conflicto armado",
+          "is_correct": false,
+          "feedback": "La UBPD sí es componente humanitario extrajudicial del sistema."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El sistema integral se compone de cuatro mecanismos más medidas de reparación: la JEP (justicia), la Comisión de la Verdad (verdad), la Unidad de Búsqueda (desaparecidos) y las medidas de reparación integral y garantías de no repetición, incluidas las históricas de reparación a las víctimas. Su diseño responde al deber estatal de garantizar los derechos de las víctimas a la verdad, la justicia, la reparación y la no repetición, sin amnistías para crímenes de lesa humanidad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle-v3",
+      "statement": "La justicia transicional se define correctamente como",
+      "context": "En un museo de memoria en Bogotá, un grupo de grado 11 pregunta qué hace distinta a la justicia transicional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La amnistía total e incondicional para todos los combatientes de un conflicto",
+          "is_correct": false,
+          "feedback": "Las amnistías totales están prohibidas para graves crímenes de derecho internacional humanitario y derechos humanos."
+        },
+        {
+          "letter": "B",
+          "text": "El conjunto de medidas judiciales y extrajudiciales que un sociedad adopta para pasar de un conflicto o régimen abusivo a la paz y la democracia, combinando justicia, verdad, reparación y reformas institucionales",
+          "is_correct": true,
+          "feedback": "Correcto. Es la definición del informe del Secretario General de la ONU sobre el estado de derecho y justicia de transición."
+        },
+        {
+          "letter": "C",
+          "text": "Una corte internacional que juzga siempre a los presidentes salientes",
+          "is_correct": false,
+          "feedback": "La justicia transicional es primordialmente nacional, con apoyos internacionales."
+        },
+        {
+          "letter": "D",
+          "text": "El archivo de todos los casos sin investigar por mandato político",
+          "is_correct": false,
+          "feedback": "El archivo sin debido proceso contradice los deberes internacionales de investigación de crímenes atroces."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ONU define la justicia transicional como la gama de mecanismos judiciales y no judiciales —procesos penales, comisiones de verdad, programas de reparación, reformas institucionales, vetos a cargos públicos— para asegurar la rendición de cuentas y la reconciliación tras conflictos o dictaduras. Sus referentes comparados (Sudáfrica, Guatemala, Perú, El Salvador) muestran que no existe una fórmula única, sino calibraciones entre paz y justicia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle-v4",
+      "statement": "La Ley 1448 de 2011, Ley de Víctimas y Restitución de Tierras, define como víctima a",
+      "context": "En un cabildo juvenil de Soacha se pregunta por las víctimas del conflicto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo quien haya resultado muerto en operaciones militares",
+          "is_correct": false,
+          "feedback": "El concepto incluye supervivientes de daños individuales y colectivos por violaciones de derechos humanos e infracciones al DIH."
+        },
+        {
+          "letter": "B",
+          "text": "Quien haya sufrido daño individual o colectivo por hechos ocurridos desde el 1 de enero de 1985 en el marco del conflicto armado, incluidos familiares y personas que intervinieron para auxiliarla",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la definición amplia del artículo 3 de la Ley 1448 de 2011."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente los desplazados forzadamente registrados ante una alcaldía",
+          "is_correct": false,
+          "feedback": "El desplazamiento es una victimización entre muchas: homicidio, secuestro, minas antipersonal, violencia sexual, reclutamiento."
+        },
+        {
+          "letter": "D",
+          "text": "Los integrantes de grupos armados que depusieron las armas antes de 1990",
+          "is_correct": false,
+          "feedback": "La condición de víctima se define por el daño sufrido, no por la militancia; los desmovilizados tienen otra ruta normativa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Ley 1448 de 2011 —anterior incluso al proceso de La Habana— adoptó una noción amplia de víctima e incluyó la restitución de tierras despojadas o abandonadas, las indemnizaciones administrativas y el Centro Nacional de Memoria Histórica, creado para el Museo Nacional de la Memoria. El Registro Único de Víctimas ha incluido a más de nueve millones de personas reconocidas, cifra que expresa la magnitud del conflicto colombiano.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle-v5",
+      "statement": "El tratamiento diferenciado de la JEP para quien reconoce verdad plena, responsabilidad y se somete a su jurisdicción es",
+      "context": "Un exmiembro de las FARC reconoce ante la JEP haber reclutado a menores y entrega a una víctima su verdad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Amnistía incondicional con libertad plena inmediata",
+          "is_correct": false,
+          "feedback": "El reconocimiento otorga tratamiento especial, pero los crímenes más graves y lesa humanidad conllevan sanciones propias y no libertad sin condiciones."
+        },
+        {
+          "letter": "B",
+          "text": "Sanciones propias restaurativas con restricción efectiva de libertades,satisfacción de derechos de las víctimas y comparación de beneficios con el rechazo de la verdad",
+          "is_correct": true,
+          "feedback": "Correcto. A menor verdad, mayor rigor punitivo ordinario o extradicción: el sistema prioriza la verdad restaurativa."
+        },
+        {
+          "letter": "C",
+          "text": "Pena de cárcel igual a la ordinaria en todos los casos",
+          "is_correct": false,
+          "feedback": "La justicia transicional existe precisamente para graduar tratamiento según el aporte a la paz y los derechos de las víctimas."
+        },
+        {
+          "letter": "D",
+          "text": "Perdón presidencial automático tras la firma del acuerdo",
+          "is_correct": false,
+          "feedback": "El Presidente no puede perdonar crímenes de lesa humanidad: es deber internacional del Estado sancionarlos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El modelo de la JEP combina justicia retributiva y restaurativa: quienes reconocen responsabilidad ante el tribunal acceden a sanciones propias (trabajos restaurativos, restricción de libertades) con verdad, reparación y no repetición como condiciones; quienes ocultan verdad o no se someten enfrentan procesos ordinarios o extradicción, y hasta 20 años en la JEP. Este \"diferencial de beneficios\" es su rasgo característico frente a amnistías y comisiones de verdad puras.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle-v6",
+      "statement": "La entidad humanitaria del Sistema Integral, extrajudicial, que coordina la búsqueda, identificación y entrega digna de personas dadas por desaparecidas es",
+      "context": "Una familia de Convención, Norte de Santander, busca a un familiar desaparecido en 1998 y acude a una entidad del sistema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Unidad de Búsqueda de Personas dadas por Desaparecidas, UBPD, creada por el Decreto 589 de 2017",
+          "is_correct": true,
+          "feedback": "Correcto. La UBPD dirige el componente humanitario de búsqueda."
+        },
+        {
+          "letter": "B",
+          "text": "La Jurisdicción Especial para la Paz",
+          "is_correct": false,
+          "feedback": "La JEP administra justicia transicional; la búsqueda humanitaria corresponde a la UBPD."
+        },
+        {
+          "letter": "C",
+          "text": "La Defensoría del Pueblo exclusivamente",
+          "is_correct": false,
+          "feedback": "La Defensoría acompaña y promueve derechos, pero la búsqueda es competencia de la Unidad."
+        },
+        {
+          "letter": "D",
+          "text": "El Comité Internacional de la Cruz Roja como entidad estatal",
+          "is_correct": false,
+          "feedback": "El CICR es una organización humanitaria internacional, no una entidad estatal colombiana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La UBPD, creada en el marco del Acuerdo Final mediante el Decreto 589 de 2017, desarrolla la política nacional de búsqueda e identificación en el contexto y en razón del conflicto armado, con un Plan Nacional de Búsqueda. Su carácter humanitario y extrajudicial le permite acuerdos de búsqueda con todos los actores sin afectar garantías procesales. El informe \"Coexistir\" de la Comisión de la Verdad estimo en cientos de miles las personas desaparecidas, la herida más persistente del conflicto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle-v7",
+      "statement": "La Comisión para el Esclarecimiento de la Verdad, la Convivencia y la No Repetición, creada por el acuerdo de paz, tuvo como resultado principal",
+      "context": "En una clase de Cali se pregunta qué entregó la Comisión de la Verdad al país.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El envío de condenados a prisión por crímenes del conflicto",
+          "is_correct": false,
+          "feedback": "La Comisión no tenía funciones jurisdiccionales: su producto es narrativo y de recomendaciones, no punitivo."
+        },
+        {
+          "letter": "B",
+          "text": "Un informe final presentado el 29 de noviembre de 2022 —\"Coexistir: la búsqueda de una verdad que nos permita seguir construyendo la paz\"— con un relato histórico del conflicto y recomendaciones de no repetición",
+          "is_correct": true,
+          "feedback": "Correcto. Tras tres años de trabajo, la Comisión entregó su informe con recomendaciones, incluidos hallazgos sobre magnitudes y patrones."
+        },
+        {
+          "letter": "C",
+          "text": "La reparación económica directa a todas las víctimas del país",
+          "is_correct": false,
+          "feedback": "La reparación económica corresponde a la Unidad para las Víctimas y a rutas administrativas y judiciales."
+        },
+        {
+          "letter": "D",
+          "text": "La devolución inmediata de tierras despojadas a los campesinos",
+          "is_correct": false,
+          "feedback": "La restitución de tierras la adelantan la URT y jueces y magistrados especializados bajo la Ley 1448."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El informe \"Coexistir\" de la Comisión de la Verdad —presidida por el padre Francisco de Roux— registró cerca de 900.000 víctimas mortales estimadas en el periodo 1985-2018, documentó patrones de responsabilidad, afectaciones diferenciadas por género y territorialidades, y formuló más de cien recomendaciones. A diferencia de los tribunales, su método es la escucha y el contraste: construir verdad como base de memoria y convivencia futura.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle-v8",
+      "statement": "El componente de reparación administrativa y restitución de tierras de la Ley 1448 de 2011, evaluado jurídicamente, garantiza a las víctimas",
+      "context": "Un restituido de Tierralta, Córdoba, recibe la sentencia de un juez especializado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo la indemnización monetaria, sin garantías de no repetición",
+          "is_correct": false,
+          "feedback": "La reparación integral incluye restitución, rehabilitación, satisfacción, medidas de no repetición y garantías de verdad."
+        },
+        {
+          "letter": "B",
+          "text": "Restitución jurídica y material de la tierra despojada o abandonada forzosamente, con medidas de acompañamiento al restituido",
+          "is_correct": true,
+          "feedback": "Correcto. El programa de restitución de tierras es uno de los componentes más valorados de la política de víctimas."
+        },
+        {
+          "letter": "C",
+          "text": "El canje de tierras por bonos del tesoro nacional sin retorno",
+          "is_correct": false,
+          "feedback": "El canje puede ser excepcional, pero el principio es la restitución en especie."
+        },
+        {
+          "letter": "D",
+          "text": "Solo el perdón público del agresor, sin medidas de retorno",
+          "is_correct": false,
+          "feedback": "El acto de verdad y perdón es componente simbólico, no sustituto de la restitución material."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La restitución de tierras ha devuelto o reconocido derechos sobre cientos de miles de hectáreas a familias desplazadas, con tribunales especializados, un fondo de tierras y medidas cautelares para proteger al restituido. Su debilidad documentada es la violencia contra reclamantes y restituidos, lo que evidencia la brecha entre norma y garantía. Evaluar esta política es una aplicación concreta del concepto de reparación integral.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle-v9",
+      "statement": "El reclutamiento y utilización de niños, niñas y adolescentes por grupos armados es, conforme al derecho internacional,",
+      "context": "En un aula de Armenia se analiza el caso de menores reclutados por grupos armados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una práctica tolerada si los grupos la consideran parte de su cultura organizativa",
+          "is_correct": false,
+          "feedback": "El DIH y el Protocolo Facultativo lo prohíben sin atenuantes culturales."
+        },
+        {
+          "letter": "B",
+          "text": "Un crimen de guerra y una grave violación de derechos humanos, con responsabilidad penal individual y deber de prevención y desminado psicosocial para la reincorporación",
+          "is_correct": true,
+          "feedback": "Correcto. Es crimen de guerra en el Estatuto de Roma y en el DIH, y delito autónomo en el Código Penal colombiano."
+        },
+        {
+          "letter": "C",
+          "text": "Una falta administrativa sancionable solo con multa",
+          "is_correct": false,
+          "feedback": "La descripción subestima el hecho: es conducta criminal de máxima gravedad."
+        },
+        {
+          "letter": "D",
+          "text": "Un fenómeno exclusivamente atribuible a un tipo de actor armado",
+          "is_correct": false,
+          "feedback": "La evidencia documenta patrones en guerrillas, paramilitares y disidencias."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El reclutamiento ilícito, tipificado en el artículo 162 del Código Penal y considerado crimen de guerra por el Estatuto de Roma, afectó a miles de menores en Colombia. La Jurisdicción Especial para la Paz lo investigó en el Caso 07, con reconocimientos de responsabilidad de exmiembros de las FARC-EP. Las víctimas reclutadas tienen derecho a desvinculación, atención psicosocial y garantías de no repetición, y su testimonio es central en la construcción de verdad del país.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle-v10",
+      "statement": "Las Areas de Interés Transicional para la Paz con Enfoque Territorial, o RIT, creadas por el acuerdo de paz, buscan",
+      "context": "Un estudiante de Sincelejo pregunta qué es un \"acta 04\" o un \"RIT\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Repartir el territorio nacional entre los firmantes como premio",
+          "is_correct": false,
+          "feedback": "Las RIT son zonas de transformación estructural para comunidades, no botines territoriales."
+        },
+        {
+          "letter": "B",
+          "text": "Transformar las condiciones materiales que alimentaron el conflicto mediante planes de desarrollo con participación comunitaria, con énfasis en los PDET",
+          "is_correct": true,
+          "feedback": "Correcto. Los Programas de Desarrollo con Enfoque Territorial concertados con las comunidades construyen la paz desde los territorios más golpeados."
+        },
+        {
+          "letter": "C",
+          "text": "Cerrar las fronteras municipales al comercio legal",
+          "is_correct": false,
+          "feedback": "El acuerdo promueve conectividad e integración económica, no cierre."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituir a los alcaldes por juntas militares",
+          "is_correct": false,
+          "feedback": "El ordenamiento constitucional territorial sigue vigente; ninguna junta militar reemplaza mandatarios electos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los 170 municipios PDET concentran las mayores afectaciones del conflicto y la pobreza estructural: planes de desarrollo concertados durante la \"Etapa de transformación\" del punto 1 del acuerdo —reforma rural integral— con participación comunitaria activa y financiación plurianual. Analizar su avance desigual, por cambio de prioridades y debilidad institucional, permite evaluar la distancia entre el diseño del acuerdo y la paz territorial real.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle-v11",
+      "statement": "El debate sobre la compatibilidad del sistema sancionatorio de la JEP con el derecho internacional se centra en si",
+      "context": "Un seminario en Medellín analiza la tensión entre las sanciones \"propias\" de la JEP y el deber internacional de justicia retributiva.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las sanciones restaurativas con restricción efectiva de libertades, verdad plena y reparación satisfacen el deber estatal de investigar, juzgar y sancionar los crímenes más graves",
+          "is_correct": true,
+          "feedback": "Correcto. En eso radicó el examen de la Corte Interamericana y del derecho internacional: sin esas condiciones, la impunidad sería inaceptable."
+        },
+        {
+          "letter": "B",
+          "text": "La JEP puede condenar también a militares en servicio activo sin fuero alguno",
+          "is_correct": false,
+          "feedback": "La competencia personal y material de la JEP está delimitada constitucionalmente y condicionada al reconocimiento."
+        },
+        {
+          "letter": "C",
+          "text": "Las víctimas deben aceptar obligatoriamente las decisiones de la JEP",
+          "is_correct": false,
+          "feedback": "Las víctimas son sujetos procesales con derechos de participación y de impugnación en la jurisdicción."
+        },
+        {
+          "letter": "D",
+          "text": "El sistema debe aplicarse solo a una de las partes del conflicto",
+          "is_correct": false,
+          "feedback": "El principio de igualdad ante la ley exige que el sistema cubra a todos los responsables: FARC, agentes del Estado y terceros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La doctrina internacional distingue: la amnistía pura está prohibida para crímenes de lesa humanidad y graves violaciones, pero los mecanismos transicionales que satisfacen los derechos de las víctimas mediante condiciones estrictas han sido admitidos como compatible con el deber de justicia si existen sanciones efectivas y participación de víctimas —criterio de la \"prueba de proporcionalidad\" y de los estándares interamericanos (casos \"19 comerciantes\", \"Gómez Palomares\" contra Colombia)—. La legitimidad del modelo colombiano depende de su aplicación real, verificable y equitativa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle-v12",
+      "statement": "La garantía de \"no repetición\", entendida constitucionalmente, implica principalmente",
+      "context": "Un estudio de caso sobre violencia contra líderes sociales analiza el concepto de \"no repetición\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La persecución penal de cada ciudadano que critique al gobierno",
+          "is_correct": false,
+          "feedback": "Eso invertiría el concepto: la no repetición protege a quienes participan, no reprime la crítica."
+        },
+        {
+          "letter": "B",
+          "text": "Reformas estructurales —desmontaje de causas del conflicto, desmantelamiento de economías ilícitas, control territorial civil, protección de la participación— que hagan improbable que el horror se repita",
+          "is_correct": true,
+          "feedback": "Correcto. La no repetición es el componente prospectivo y transformador del sistema."
+        },
+        {
+          "letter": "C",
+          "text": "El simple registro estadístico de las víctimas para la memoria",
+          "is_correct": false,
+          "feedback": "El registro sirve a verdad y reparación, pero no transforma causas."
+        },
+        {
+          "letter": "D",
+          "text": "La demolición de los museos de memoria del conflicto",
+          "is_correct": false,
+          "feedback": "Es exactamente lo contrario: la memoria es parte de la no repetición."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El informe de la Comisión de la Verdad llamó a \"coexistir\" sobre bases estructurales nuevas, y los índices de asesinatos de líderes sociales y excombatientes firmantes del acuerdo revelan que el desmantelamiento de causas —economías ilícitas, matrices de opinión de odio, presencia armada residual— sigue inconcluso. Analizar la no repetición como política de Estado de largo plazo cambia el foco: del castigo al diseño social que impide la guerra futura.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle-v13",
+      "statement": "La comparación correcta entre justicia penal retributiva (Núremberg) y comisiones de verdad-restaurativas (Sudáfrica 1996) frente al caso colombiano concluye que",
+      "context": "Un grupo de Cali compara la Comisión de la Verdad con los juicios de Núremberg y con la Comisión de Verdad sudafricana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Colombia copió sin variación el modelo sudafricano de amnistía por verdad",
+          "is_correct": false,
+          "feedback": "El diseño colombiano es híbrido: no condiciona la amnistía a la verdad sola, y mantiene componentes penales y jurisdiccionales estrictos."
+        },
+        {
+          "letter": "B",
+          "text": "Colombia adoptó un modelo híbrido: jurisdicción penal especializada con beneficios condicionados, más órganos de verdad y búsqueda humanitaria, buscando compatibilizar paz y deber de justicia",
+          "is_correct": true,
+          "feedback": "Correcto. La síntesis JEP-Comisión-UBPD expresa la tensión creativa del modelo."
+        },
+        {
+          "letter": "C",
+          "text": "El caso colombiano corresponde puramente al modelo Núremberg sin mecanismos restaurativos",
+          "is_correct": false,
+          "feedback": "Las sanciones propias restaurativas y la Comisión prueban lo contrario."
+        },
+        {
+          "letter": "D",
+          "text": "Ningún modelo de justicia transicional es comparable entre países",
+          "is_correct": false,
+          "feedback": "La justicia transicional es un campo comparado y académico; Sudáfrica, Perú y El Salvador son referentes de aprendizaje mutuo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Colombia aprendió de tres décadas de experimentación global: la prohibición interamericana de amnistías autoderogatorias (caso El Amparo vs. Venezuela, Perú y Barrios Altos), la amnistía condicionada sudafricana, la reparación administrativa peruana. Su respuesta —sistema integral híbrido— es analizable como traducción creativa de estándares internacionales a un conflicto interno con múltiples actores. Este tipo de comparación desarrolla el pensamiento sistémico de los estándares ciudadanos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle-v14",
+      "statement": "El componente de dejación de armas y reincorporación del acuerdo, evaluado con la evidencia de homicidios de excombatientes, demuestra que",
+      "context": "Un medio escolar de Barranquilla investiga la situación de los excombatientes firmantes del acuerdo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La dejación de armas fue un fracaso total porque no se registró ninguna entrega",
+          "is_correct": false,
+          "feedback": "La verificación de la ONU documentó la entrega de arsenales completos en las Zonas Veredales; el problema no es la dejación formal sino la protección posterior."
+        },
+        {
+          "letter": "B",
+          "text": "La reincorporación exige garantías integrales de seguridad, acceso a tierra, proyectos productivos y protección efectiva, pues sin ellas el desarme se vuelve vulnerabilidad letal",
+          "is_correct": true,
+          "feedback": "Correcto. La evidencia muestra a cientos de firmantes asesinados: el componente humano de la paz quedó más expuesto que su componente armado."
+        },
+        {
+          "letter": "C",
+          "text": "Los excombatientes solo requieren un subsidio mensual vitalicio",
+          "is_correct": false,
+          "feedback": "La reincorporación es multidimensional y temporal; el subsidio es solo un componente."
+        },
+        {
+          "letter": "D",
+          "text": "El acuerdo contempló que los firmantes no necesitarían protección estatal",
+          "is_correct": false,
+          "feedback": "El acuerdo previó expresamente esquemas de seguridad y protección para firmantes y comunidades."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los Espacios Territoriales de Capacitación y Reincorporación concentraron la dejación, y el seguimiento de la Misión de Verificación de la ONU, la CNRR y las alertas de la Defensoría han documentado más de 300 excombatientes asesinados desde 2016. Este fenómeno convierte el análisis en pregunta de Estado: ¿qué legitimidad tiene pedir desmovilizarse al poder que no protege al desmovilizado? La respuesta toca la garantía de no repetición y la credibilidad de futuros procesos de paz.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle-v15",
+      "statement": "El tratamiento de los llamados \"falsos positivos\" (ejecuciones extrajudiciales) por la JEP y la justicia ordinaria se analiza correctamente señalando que",
+      "context": "En un debate se examinan las comparaciones internacionales del Caso 03 de la JEP sobre homicidios de civiles presentados como bajas en combate (\"falsos positivos\").",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fueron conductas aisladas y no constituyen un patrón criminal documentado por organismos nacionales e internacionales",
+          "is_correct": false,
+          "feedback": "La jurisprudencia y los informes de la Defensoría y la ONU acreditan un patrón organizado, en particular entre 2002 y 2008."
+        },
+        {
+          "letter": "B",
+          "text": "Constituyen crímenes de lesa humanidad en términos de derecho internacional y del bloque de constitucionalidad, con deber de investigar, procesamiento y sanción, sin cobertura de amnistía ni indulto",
+          "is_correct": true,
+          "feedback": "Correcto. La gravedad de estos hechos los ubica en el máximo nivel de reproche, incluso en la justicia transicional."
+        },
+        {
+          "letter": "C",
+          "text": "Corresponden exclusivamente a decisiones de comandantes sin responsabilidad individual ejecutable",
+          "is_correct": false,
+          "feedback": "La cadena de mando y la autoría material generan responsabilidad individual en ambos extremos."
+        },
+        {
+          "letter": "D",
+          "text": "Prescribieron penalmente antes de 2016",
+          "is_correct": false,
+          "feedback": "Los crímenes de lesa humanidad son imprescriptibles por los artículos 29 de la Declaración Universal y 8 de la Convención sobre la Imprescriptibilidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Corte Interamericana en el caso \"González y otras (\"Algodón\") vs. México\" y la jurisprudencia colombiana consolidaron la tipificación como lesa humanidad: ataque generalizado o sistemático contra población civil. En Colombia, la JEP asumió el Caso 03 —muertes ilegítimamente presentadas como bajas en combate— con llamadas a reconocimiento de verdad y responsabilidad, mostrando la función pedagógica de la justicia: nombrar los crímenes y sus patrones, no solo castigar nombres.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle-v16",
+      "statement": "La violencia sexual en el conflicto armado colombiano, analizada desde los enfoques de género del Sistema Integral, se caracteriza por",
+      "context": "Un colegio de Quibdó analiza la violencia sexual como arma de guerra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ser un daño colateral accidental y no una estrategia deliberada de ningún actor",
+          "is_correct": false,
+          "feedback": "El informe \"Coexistir\" y la magistratura de la JEP documentaron patrones sistemáticos de uso del cuerpo como botín de guerra."
+        },
+        {
+          "letter": "B",
+          "text": "Configurar una grave afectación con fines de dominación, terror y disciplinamiento territorial, con mayorías de víctimas mujeres, y exigir rutas de atención diferenciadas y reparadoras",
+          "is_correct": true,
+          "feedback": "Correcto. El enfoque de género del acuerdo atraviesa la verdad, la justicia y la reparación para estas víctimas."
+        },
+        {
+          "letter": "C",
+          "text": "Afectar únicamente a mujeres adultas de zonas rurales",
+          "is_correct": false,
+          "feedback": "Incluye niñas, adolescentes, hombres y personas LGBTIQ+: el daño no tiene un solo perfil."
+        },
+        {
+          "letter": "D",
+          "text": "Ser un asunto privado que la justicia pública no debe investigar",
+          "is_correct": false,
+          "feedback": "Es grave violación de derechos humanos con deber estatal de investigación y reparación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Ruta de la Mujer y los autos de la Corte Constitucional sobre violencia sexual en el conflicto, el Caso 11 de la JEP y las mesas de participación de víctimas con enfoque de género muestran cómo la justicia transicional puede —sin exotismos— nombrar un crimen largamente silenciado. El análisis de género no divide las víctimas: visibiliza cadenas de daño desproporcionado y diseña reparación integral (acceso a salud, seguridad económica, medidas de satisfacción), alineadas con la Resolución 1325 del Consejo de Seguridad de la ONU.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle-v17",
+      "statement": "La tesis \"dinero por silencio\" aplicada como política de reparación se evalúa constitucionalmente como",
+      "context": "Un aula debate si la reparación económica puede sustituir la verdad judicial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Válida, porque el dinero satisface plenamente el daño moral de cualquier víctima",
+          "is_correct": false,
+          "feedback": "La reparación integral (Convención Americana, artículos 63 y 68) incluye verdad, satisfacción y garantías: el dinero no las suplanta."
+        },
+        {
+          "letter": "B",
+          "text": "Incompatible con los derechos de las víctimas, pues la verdad y la justicia son derechos de las víctimas y de la sociedad, indisponibles e irreemplazables por compensaciones económicas",
+          "is_correct": true,
+          "feedback": "Correcto. La Corte Constitucional ha reiterado la titularidad no transable de verdad y justicia."
+        },
+        {
+          "letter": "C",
+          "text": "Necesaria, porque la justicia colombiana carece por completo de capacidad procesal",
+          "is_correct": false,
+          "feedback": "La debilidad institucional justifica reforzar, no reemplazar la justicia."
+        },
+        {
+          "letter": "D",
+          "text": "Preferible, porque las comisiones de verdad generan más violencia que tribunales",
+          "is_correct": false,
+          "feedback": "La evidencia comparada no sustenta esa afirmación; el silencio institucional es lo que erosiona la convivencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La reparación es integral por definición jurídica: restitución, indemnización, rehabilitación, satisfacción y garantías de no repetición. Cambiar verdad por dinero rompe la estructura: la víctima no es acreedora únicamente patrimonial, y la sociedad tiene derecho a saber. Este juicio evalúa el núcleo filosófico del sistema: la paz sin verdad es una tregua contabilizada, no reconciliación, como enseñó la tradición de justicia restaurativa de la que el acuerdo es heredero.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.5,
+      "bundle_id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle-v18",
+      "statement": "La evaluación más honesta del legado del acuerdo de paz a casi una década de su firma sostiene que",
+      "context": "Estudiantes de Neiva comparan las cifras de victimización con la percepción ciudadana del fin del conflicto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El conflicto terminó: Colombia ya no registra victimizaciones colectivas ni economías ilícitas",
+          "is_correct": false,
+          "feedback": "Persisten disidencias, ELN, Clan del Golfo, deforestación, homicidios de líderes y desplazamientos masivos en el Catatumbo y otras regiones."
+        },
+        {
+          "letter": "B",
+          "text": "El acuerdo transformó la estructura del conflicto pero no la eliminó: se firmó con el principal actor insurgente de la época y múltiples violencias —fragmentadas, urbanas, territoriales— continúan exigiendo política de paz integral",
+          "is_correct": true,
+          "feedback": "Correcto. Distingue el cambio de magnitud (desarme masivo de una guerrilla, verdad, reparación) de sus límites (persistencias y nuevas violencias)."
+        },
+        {
+          "letter": "C",
+          "text": "El acuerdo fracasó totalmente porque ninguna de sus normas se implementó",
+          "is_correct": false,
+          "feedback": "La JEP, la Comisión, la UBPD, los PDET y la restitución de tierras muestran implementación desigual pero real."
+        },
+        {
+          "letter": "D",
+          "text": "La paz depende exclusivamente de la firma de los actores armados restantes",
+          "is_correct": false,
+          "feedback": "La paz estable exige transformación de condiciones sociales: el fin de los fusiles es condición necesaria, no suficiente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar el posacuerdo exige indicadores y memoria: reducción de homicidios colectivos y de secuestros tras 2016, aumento de la deforestación en zonas ex-FARC, permanencia de economías ilícitas, y la \"paz total\" como política de negociación con múltiples grupos. El grado 11 debe huir del binarismo triunfalista o catastrofista: el conflicto se transformó, no se extinguió, y las tareas pendientes del acuerdo son hojas de ruta, no folclor.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.5,
+      "bundle_id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle-v19",
+      "statement": "El valor educativo de la memoria histórica del conflicto para la democracia colombiana se evalúa correctamente al sostener que",
+      "context": "El consejo estudiantil de un colegio de Manizales debate qué debe aprender su generación de la memoria del conflicto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La memoria debe cerrarse para no reabrir heridas de la sociedad",
+          "is_correct": false,
+          "feedback": "El imperativo ético y constitucional es recordar para no repetir; cerrar sin verdad reproduce el daño."
+        },
+        {
+          "letter": "B",
+          "text": "La memoria selectiva de la propia víctima es suficiente para formar ciudadanía democrática",
+          "is_correct": false,
+          "feedback": "La memoria ciudadana exige pluralidad de relatos, incluido el reconocimiento del daño causado por el propio lado."
+        },
+        {
+          "letter": "C",
+          "text": "La memoria es una construcción activa y plural que, con verdad contrastada, permite formar ciudadanía crítica frente a la repetición del horror y sostiene el proyecto de una comunidad política democrática",
+          "is_correct": true,
+          "feedback": "Correcto. Es la función prospectiva de la memoria, núcleo de los mandatos de la Comisión y del Centro Nacional de Memoria Histórica."
+        },
+        {
+          "letter": "D",
+          "text": "Solo los historiadores profesionales tienen derecho a hablar del conflicto",
+          "is_correct": false,
+          "feedback": "Los derechos a la verdad y a la memoria pertenecen a las víctimas y a la sociedad en su conjunto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El deber de memoria —como enseñó Primo Levi y reafirmó la ONU para las masacres del siglo XX— no es nostalgia ni castigo: es una tecnología de prevención. El informe \"Coexistir\", el Museo de la Memoria y los relatos de las víctimas en aulas convierten la historia en competencia ciudadana viva: reconocer al otro, dudar del odio, asumir que la violencia siempre comienza con la deshumanización del adversario. Aquí la semana temática se cierre: de la Constitución escrita a la Constitución vivida por la memoria.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.45,
+      "bundle_id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle-v20",
+      "statement": "Como síntesis de las competencias ciudadanas evaluadas en este ciclo constitucional-participativo, el juicio más sólido sobre la relación entre Constitución, participación y paz es que",
+      "context": "En la clausura del ciclo 2026, los estudiantes de grado 11 de un colegio de Barranquilla formulan su cierre sobre democracia y paz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La paz se decreta y la Constitución solo la documenta después",
+          "is_correct": false,
+          "feedback": "El constitucionalismo es prospectivo: la Constitución de 1991 anticipó y habilitó la transformación pacífica."
+        },
+        {
+          "letter": "B",
+          "text": "La participación es un complemento decorativo del Estado de derecho",
+          "is_correct": false,
+          "feedback": "La participación es principio fundante (artículo 1) y fin esencial del Estado (artículo 2), no ornamento."
+        },
+        {
+          "letter": "C",
+          "text": "Una Constitución que garantiza derechos, una ciudadanía que los exige mediante participación y control, y una justicia transicional que repara la verdad son tres engranajes de un mismo proyecto: la paz estable y duradera como forma de vida democrática",
+          "is_correct": true,
+          "feedback": "Correcto. Integra los cuatro ejes del ciclo de semanas: Constitución, acción colectiva, participación, control social y justicia transicional."
+        },
+        {
+          "letter": "D",
+          "text": "El fin del conflicto armado depende solo de acuerdos entre élites armadas",
+          "is_correct": false,
+          "feedback": "La refrendación social, territorial y ciudadana del acuerdo —en su defecto y en su apoyo— mostró que la paz se decide en la plaza pública."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El ciclo W32-W40 recorrió la Constitución desde su texto (1991 y su profundización), sus herramientas de defensa (acciones colectivas), su ejercicio popular (participación y control social), su vigilancia comunicativa (periodismo ciudadano y ética pública), su gramática de derechos y deberes, sus jueces (Corte Constitucional) y su hora más difícil (la justicia transicional). Ese recorrido forma un ciudadano capaz de sostener la paz como práctica cotidiana, no como firma entre ceremonias.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.45,
+      "bundle_id": "CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

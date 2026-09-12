@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematica",
+    "country": "ar",
+    "pack_id": "ar-week-15-grade-11-subject-matematica",
+    "generated_at": "2026-09-12T16:46:07.214Z"
+  },
+  "questions": [
+    {
+      "id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v1",
+      "statement": "Resolvé la ecuación $3^{x - 1} = 3$ en el conjunto de los números reales.",
+      "context": "Resolución de ecuaciones exponenciales y logarítmicas Caso N° 1.\n**ID:** AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v1\n**Bloom:** Remember\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 2$",
+          "is_correct": true,
+          "feedback": "Correcto. Igualando exponentes: $x - 1 = 1 \\Rightarrow x = 2$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó sumar la constante del exponente."
+        },
+        {
+          "letter": "C",
+          "text": "$x = -1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no satisface la igualdad."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error algebraico en el despeje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la propiedad de inyectividad de la base $3$: $x - 1 = 1 \\Rightarrow x = 2$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v2",
+      "statement": "Resolvé la ecuación $3^{x - 2} = 9$ en el conjunto de los números reales.",
+      "context": "Resolución de ecuaciones exponenciales y logarítmicas Caso N° 2.\n**ID:** AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v2\n**Bloom:** Remember\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 4$",
+          "is_correct": true,
+          "feedback": "Correcto. Igualando exponentes: $x - 2 = 2 \\Rightarrow x = 4$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó sumar la constante del exponente."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no satisface la igualdad."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error algebraico en el despeje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la propiedad de inyectividad de la base $3$: $x - 2 = 2 \\Rightarrow x = 4$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v3",
+      "statement": "Resolvé la ecuación $3^{x - 3} = 27$ en el conjunto de los números reales.",
+      "context": "Resolución de ecuaciones exponenciales y logarítmicas Caso N° 3.\n**ID:** AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v3\n**Bloom:** Understand\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.86",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 6$",
+          "is_correct": true,
+          "feedback": "Correcto. Igualando exponentes: $x - 3 = 3 \\Rightarrow x = 6$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó sumar la constante del exponente."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no satisface la igualdad."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error algebraico en el despeje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la propiedad de inyectividad de la base $3$: $x - 3 = 3 \\Rightarrow x = 6$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.86,
+      "bundle_id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v4",
+      "statement": "Resolvé la ecuación $3^{x - 4} = 81$ en el conjunto de los números reales.",
+      "context": "Resolución de ecuaciones exponenciales y logarítmicas Caso N° 4.\n**ID:** AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v4\n**Bloom:** Understand\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.84",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 8$",
+          "is_correct": true,
+          "feedback": "Correcto. Igualando exponentes: $x - 4 = 4 \\Rightarrow x = 8$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó sumar la constante del exponente."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no satisface la igualdad."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error algebraico en el despeje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la propiedad de inyectividad de la base $3$: $x - 4 = 4 \\Rightarrow x = 8$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v5",
+      "statement": "Resolvé la ecuación $3^{x - 5} = 243$ en el conjunto de los números reales.",
+      "context": "Resolución de ecuaciones exponenciales y logarítmicas Caso N° 5.\n**ID:** AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v5\n**Bloom:** Understand\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.82",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 10$",
+          "is_correct": true,
+          "feedback": "Correcto. Igualando exponentes: $x - 5 = 5 \\Rightarrow x = 10$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó sumar la constante del exponente."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no satisface la igualdad."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error algebraico en el despeje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la propiedad de inyectividad de la base $3$: $x - 5 = 5 \\Rightarrow x = 10$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v6",
+      "statement": "Resolvé la ecuación $3^{x - 6} = 729$ en el conjunto de los números reales.",
+      "context": "Resolución de ecuaciones exponenciales y logarítmicas Caso N° 6.\n**ID:** AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v6\n**Bloom:** Apply\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 12$",
+          "is_correct": true,
+          "feedback": "Correcto. Igualando exponentes: $x - 6 = 6 \\Rightarrow x = 12$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó sumar la constante del exponente."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no satisface la igualdad."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error algebraico en el despeje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la propiedad de inyectividad de la base $3$: $x - 6 = 6 \\Rightarrow x = 12$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v7",
+      "statement": "Resolvé la ecuación $3^{x - 7} = 2187$ en el conjunto de los números reales.",
+      "context": "Resolución de ecuaciones exponenciales y logarítmicas Caso N° 7.\n**ID:** AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v7\n**Bloom:** Apply\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 14$",
+          "is_correct": true,
+          "feedback": "Correcto. Igualando exponentes: $x - 7 = 7 \\Rightarrow x = 14$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó sumar la constante del exponente."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no satisface la igualdad."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error algebraico en el despeje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la propiedad de inyectividad de la base $3$: $x - 7 = 7 \\Rightarrow x = 14$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v8",
+      "statement": "Resolvé la ecuación $3^{x - 8} = 6561$ en el conjunto de los números reales.",
+      "context": "Resolución de ecuaciones exponenciales y logarítmicas Caso N° 8.\n**ID:** AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v8\n**Bloom:** Apply\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.76",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 16$",
+          "is_correct": true,
+          "feedback": "Correcto. Igualando exponentes: $x - 8 = 8 \\Rightarrow x = 16$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó sumar la constante del exponente."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no satisface la igualdad."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error algebraico en el despeje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la propiedad de inyectividad de la base $3$: $x - 8 = 8 \\Rightarrow x = 16$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.76,
+      "bundle_id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v9",
+      "statement": "Resolvé la ecuación $3^{x - 9} = 19683$ en el conjunto de los números reales.",
+      "context": "Resolución de ecuaciones exponenciales y logarítmicas Caso N° 9.\n**ID:** AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v9\n**Bloom:** Apply\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.74",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 18$",
+          "is_correct": true,
+          "feedback": "Correcto. Igualando exponentes: $x - 9 = 9 \\Rightarrow x = 18$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó sumar la constante del exponente."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no satisface la igualdad."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error algebraico en el despeje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la propiedad de inyectividad de la base $3$: $x - 9 = 9 \\Rightarrow x = 18$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.74,
+      "bundle_id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v10",
+      "statement": "Resolvé la ecuación $3^{x - 10} = 59049$ en el conjunto de los números reales.",
+      "context": "Resolución de ecuaciones exponenciales y logarítmicas Caso N° 10.\n**ID:** AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v10\n**Bloom:** Apply\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.72",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 20$",
+          "is_correct": true,
+          "feedback": "Correcto. Igualando exponentes: $x - 10 = 10 \\Rightarrow x = 20$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó sumar la constante del exponente."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no satisface la igualdad."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 11$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error algebraico en el despeje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la propiedad de inyectividad de la base $3$: $x - 10 = 10 \\Rightarrow x = 20$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v11",
+      "statement": "Resolvé la ecuación $3^{x - 11} = 177147$ en el conjunto de los números reales.",
+      "context": "Resolución de ecuaciones exponenciales y logarítmicas Caso N° 11.\n**ID:** AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v11\n**Bloom:** Analyze\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 22$",
+          "is_correct": true,
+          "feedback": "Correcto. Igualando exponentes: $x - 11 = 11 \\Rightarrow x = 22$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 11$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó sumar la constante del exponente."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no satisface la igualdad."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error algebraico en el despeje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la propiedad de inyectividad de la base $3$: $x - 11 = 11 \\Rightarrow x = 22$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v12",
+      "statement": "Resolvé la ecuación $3^{x - 12} = 531441$ en el conjunto de los números reales.",
+      "context": "Resolución de ecuaciones exponenciales y logarítmicas Caso N° 12.\n**ID:** AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v12\n**Bloom:** Analyze\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.68",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 24$",
+          "is_correct": true,
+          "feedback": "Correcto. Igualando exponentes: $x - 12 = 12 \\Rightarrow x = 24$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó sumar la constante del exponente."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no satisface la igualdad."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 13$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error algebraico en el despeje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la propiedad de inyectividad de la base $3$: $x - 12 = 12 \\Rightarrow x = 24$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.68,
+      "bundle_id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v13",
+      "statement": "Resolvé la ecuación $3^{x - 13} = 1594323$ en el conjunto de los números reales.",
+      "context": "Resolución de ecuaciones exponenciales y logarítmicas Caso N° 13.\n**ID:** AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v13\n**Bloom:** Analyze\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.66",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 26$",
+          "is_correct": true,
+          "feedback": "Correcto. Igualando exponentes: $x - 13 = 13 \\Rightarrow x = 26$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 13$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó sumar la constante del exponente."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no satisface la igualdad."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 14$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error algebraico en el despeje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la propiedad de inyectividad de la base $3$: $x - 13 = 13 \\Rightarrow x = 26$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.66,
+      "bundle_id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v14",
+      "statement": "Resolvé la ecuación $3^{x - 14} = 4782969$ en el conjunto de los números reales.",
+      "context": "Resolución de ecuaciones exponenciales y logarítmicas Caso N° 14.\n**ID:** AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v14\n**Bloom:** Analyze\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.64",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 28$",
+          "is_correct": true,
+          "feedback": "Correcto. Igualando exponentes: $x - 14 = 14 \\Rightarrow x = 28$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 14$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó sumar la constante del exponente."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no satisface la igualdad."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error algebraico en el despeje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la propiedad de inyectividad de la base $3$: $x - 14 = 14 \\Rightarrow x = 28$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.64,
+      "bundle_id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v15",
+      "statement": "Resolvé la ecuación $3^{x - 15} = 14348907$ en el conjunto de los números reales.",
+      "context": "Resolución de ecuaciones exponenciales y logarítmicas Caso N° 15.\n**ID:** AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v15\n**Bloom:** Apply\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.62",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 30$",
+          "is_correct": true,
+          "feedback": "Correcto. Igualando exponentes: $x - 15 = 15 \\Rightarrow x = 30$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó sumar la constante del exponente."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no satisface la igualdad."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 16$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error algebraico en el despeje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la propiedad de inyectividad de la base $3$: $x - 15 = 15 \\Rightarrow x = 30$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v16",
+      "statement": "Resolvé la ecuación $3^{x - 16} = 43046721$ en el conjunto de los números reales.",
+      "context": "Resolución de ecuaciones exponenciales y logarítmicas Caso N° 16.\n**ID:** AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v16\n**Bloom:** Analyze\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 32$",
+          "is_correct": true,
+          "feedback": "Correcto. Igualando exponentes: $x - 16 = 16 \\Rightarrow x = 32$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 16$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó sumar la constante del exponente."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no satisface la igualdad."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 17$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error algebraico en el despeje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la propiedad de inyectividad de la base $3$: $x - 16 = 16 \\Rightarrow x = 32$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v17",
+      "statement": "Resolvé la ecuación $3^{x - 17} = 129140163$ en el conjunto de los números reales.",
+      "context": "Resolución de ecuaciones exponenciales y logarítmicas Caso N° 17.\n**ID:** AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v17\n**Bloom:** Evaluate\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.58",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 34$",
+          "is_correct": true,
+          "feedback": "Correcto. Igualando exponentes: $x - 17 = 17 \\Rightarrow x = 34$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 17$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó sumar la constante del exponente."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no satisface la igualdad."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 18$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error algebraico en el despeje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la propiedad de inyectividad de la base $3$: $x - 17 = 17 \\Rightarrow x = 34$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.58,
+      "bundle_id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v18",
+      "statement": "Resolvé la ecuación $3^{x - 18} = 387420489$ en el conjunto de los números reales.",
+      "context": "Resolución de ecuaciones exponenciales y logarítmicas Caso N° 18.\n**ID:** AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v18\n**Bloom:** Evaluate\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.56",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 36$",
+          "is_correct": true,
+          "feedback": "Correcto. Igualando exponentes: $x - 18 = 18 \\Rightarrow x = 36$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 18$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó sumar la constante del exponente."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no satisface la igualdad."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 19$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error algebraico en el despeje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la propiedad de inyectividad de la base $3$: $x - 18 = 18 \\Rightarrow x = 36$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.56,
+      "bundle_id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v19",
+      "statement": "Resolvé la ecuación $3^{x - 19} = 1162261467$ en el conjunto de los números reales.",
+      "context": "Resolución de ecuaciones exponenciales y logarítmicas Caso N° 19.\n**ID:** AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v19\n**Bloom:** Evaluate\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.54",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 38$",
+          "is_correct": true,
+          "feedback": "Correcto. Igualando exponentes: $x - 19 = 19 \\Rightarrow x = 38$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 19$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó sumar la constante del exponente."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no satisface la igualdad."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 20$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error algebraico en el despeje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la propiedad de inyectividad de la base $3$: $x - 19 = 19 \\Rightarrow x = 38$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.54,
+      "bundle_id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v20",
+      "statement": "Resolvé la ecuación $3^{x - 20} = 3486784401$ en el conjunto de los números reales.",
+      "context": "Resolución de ecuaciones exponenciales y logarítmicas Caso N° 20.\n**ID:** AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle-v20\n**Bloom:** Evaluate\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.52",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 40$",
+          "is_correct": true,
+          "feedback": "Correcto. Igualando exponentes: $x - 20 = 20 \\Rightarrow x = 40$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 20$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó sumar la constante del exponente."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=0$ no satisface la igualdad."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 21$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error algebraico en el despeje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la propiedad de inyectividad de la base $3$: $x - 20 = 20 \\Rightarrow x = 40$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.52,
+      "bundle_id": "AR-MAT-11-2026-W15-ecuaciones-exponenciales-logaritmicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    }
+  ]
+}

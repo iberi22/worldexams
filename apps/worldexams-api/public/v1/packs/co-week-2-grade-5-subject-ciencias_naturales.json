@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-2-grade-5-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T16:46:07.382Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-5-2026-W02-sistema-digestivo-001-MASTERY-bundle-v1",
+      "statement": "¿En qué órgano del sistema digestivo se inicia el proceso de digestión mediante la masticación y la saliva?",
+      "context": "Durante el almuerzo en un colegio de Bucaramanga, los estudiantes mastican una arepa de choclo antes de pasarla hacia el estómago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la boca.",
+          "is_correct": true,
+          "feedback": "La boca realiza la digestión mecánica (dientes) y química inicial (enzimas salivales)."
+        },
+        {
+          "letter": "B",
+          "text": "En el esófago.",
+          "is_correct": false,
+          "feedback": "El esófago es un conducto de transporte por movimientos peristálticos, no un órgano de masticación."
+        },
+        {
+          "letter": "C",
+          "text": "En el intestino delgado.",
+          "is_correct": false,
+          "feedback": "El intestino delgado absorbe nutrientes en etapas posteriores del proceso digestivo."
+        },
+        {
+          "letter": "D",
+          "text": "En el hígado.",
+          "is_correct": false,
+          "feedback": "El hígado produce bilis y procesa sustancias, pero no interviene en la masticación inicial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificación del órgano inicial de la digestión humana y sus funciones primarias.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-5-2026-W02-sistema-digestivo-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W02-sistema-digestivo-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el nombre del conducto muscular que conecta la faringe con el estómago?",
+      "context": "El bolo alimenticio desciende desde la boca hasta el estómago a través de un tubo muscular de unos 25 cm de largo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Esófago.",
+          "is_correct": true,
+          "feedback": "El esófago conduce el bolo alimenticio hacia el estómago mediante movimientos peristálticos."
+        },
+        {
+          "letter": "B",
+          "text": "Tráquea.",
+          "is_correct": false,
+          "feedback": "La tráquea pertenece al sistema respiratorio y conduce aire a los pulmones."
+        },
+        {
+          "letter": "C",
+          "text": "Intestino grueso.",
+          "is_correct": false,
+          "feedback": "El intestino grueso absorbe agua y forma la materia fecal en la etapa final."
+        },
+        {
+          "letter": "D",
+          "text": "Páncreas.",
+          "is_correct": false,
+          "feedback": "El páncreas es una glándula anexa que secreta jugos pancreáticos, no un tubo conductor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocimiento de la anatomía del tubo digestivo y diferenciación con conductos del sistema respiratorio.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-5-2026-W02-sistema-digestivo-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W02-sistema-digestivo-001-MASTERY-bundle-v3",
+      "statement": "¿Qué tipo de digestión predomina cuando la acidez gástrica y las enzimas descomponen las proteínas en el estómago?",
+      "context": "En el estómago, el bolo alimenticio se mezcla con los jugos gástricos ácidos y se transforma en una masa semilíquida llamada quimo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Digestión química.",
+          "is_correct": true,
+          "feedback": "La acción de enzimas y ácidos para transformar moléculas complejas en simples es digestión química."
+        },
+        {
+          "letter": "B",
+          "text": "Digestión mecánica.",
+          "is_correct": false,
+          "feedback": "La digestión mecánica se refiere a la trituración física por dientes o paredes musculares."
+        },
+        {
+          "letter": "C",
+          "text": "Absorción intestinal.",
+          "is_correct": false,
+          "feedback": "La absorción intestinal ocurre principalmente en el intestino delgado, no en el estómago."
+        },
+        {
+          "letter": "D",
+          "text": "Excreción renal.",
+          "is_correct": false,
+          "feedback": "La excreción renal filtra la sangre a través de los riñones para formar orina."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Diferenciación conceptual entre digestión mecánica (física) y química (enzimática/ácida).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.77,
+      "bundle_id": "CO-CN-5-2026-W02-sistema-digestivo-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W02-sistema-digestivo-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la función principal de las vellosidades en el intestino delgado?",
+      "context": "El intestino delgado posee en su pared interior millones de pliegues microscópicos llamados vellosidades intestinales altamente vascularizadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumentar la superficie de contacto para absorber los nutrientes hacia el torrente sanguíneo.",
+          "is_correct": true,
+          "feedback": "Las vellosidades amplían el área disponible para transferir agua, vitaminas y nutrientes a la sangre."
+        },
+        {
+          "letter": "B",
+          "text": "Producir saliva para ablandar los alimentos duros.",
+          "is_correct": false,
+          "feedback": "La saliva es producida por las glándulas salivales situadas en la cavidad bucal."
+        },
+        {
+          "letter": "C",
+          "text": "Destruir los glóbulos rojos viejos que pasan por la digestión.",
+          "is_correct": false,
+          "feedback": "El bazo y el hígado se encargan de reciclar los glóbulos rojos viejos."
+        },
+        {
+          "letter": "D",
+          "text": "Almacenar aire para la respiración celular del cuerpo.",
+          "is_correct": false,
+          "feedback": "El aire es intercambiado por el sistema respiratorio en los alvéolos pulmonares."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Relación entre la estructura anatómica (vellosidades intestinales) y la función fisiológica (absorción de nutrientes).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.71,
+      "bundle_id": "CO-CN-5-2026-W02-sistema-digestivo-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W02-sistema-digestivo-001-MASTERY-bundle-v5",
+      "statement": "¿En la digestión de qué tipo de nutrientes interviene fundamentalmente la bilis al emulsionarlos?",
+      "context": "El hígado secreta un líquido verdoso amarillento llamado bilis, la cual se almacena en la vesícula biliar antes de liberarse al intestino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Grasas o lípidos.",
+          "is_correct": true,
+          "feedback": "La bilis emulsiona las grasas en pequeñas gotas facilitando la acción de las lipasas."
+        },
+        {
+          "letter": "B",
+          "text": "Glúcidos o azúcares sencillos.",
+          "is_correct": false,
+          "feedback": "Los glúcidos son digeridos por amilasas salivales y pancreáticas."
+        },
+        {
+          "letter": "C",
+          "text": "Sales minerales.",
+          "is_correct": false,
+          "feedback": "Las sales minerales se absorben directamente sin necesidad de emulsión biliar."
+        },
+        {
+          "letter": "D",
+          "text": "Proteínas de la carne.",
+          "is_correct": false,
+          "feedback": "Las proteínas son digeridas por pepsinas e hidrolasas gástricas/pancreáticas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprensión del rol de las glándulas anexas (hígado/bilis) en la emulsión de grasas durante la digestión.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.67,
+      "bundle_id": "CO-CN-5-2026-W02-sistema-digestivo-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W02-sistema-digestivo-001-MASTERY-bundle-v6",
+      "statement": "¿Qué síntoma o condición del sistema digestivo se manifiesta cuando ocurre esta falla en la reabsorción de agua?",
+      "context": "Si el intestino grueso (colon) no absorbe adecuadamente el agua de los residuos no digeridos debido a una infección intestinal, las heces resultan demasiado líquidas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diarrea, que puede conducir a una deshidratación si no se consume suero o líquidos.",
+          "is_correct": true,
+          "feedback": "La falta de absorción hídrica en el colon genera deposiciones líquidas frecuentes (diarrea)."
+        },
+        {
+          "letter": "B",
+          "text": "Estreñimiento o estreñimiento severo.",
+          "is_correct": false,
+          "feedback": "El estreñimiento ocurre cuando el colon absorbe demasiada agua y las heces se endurecen."
+        },
+        {
+          "letter": "C",
+          "text": "Caries dentales.",
+          "is_correct": false,
+          "feedback": "Las caries ocurren por bacterias que erosionan el esmalte dental en la boca."
+        },
+        {
+          "letter": "D",
+          "text": "Gastritis crónica en el esófago.",
+          "is_correct": false,
+          "feedback": "La gastritis es una inflamación de la mucosa del estómago."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Análisis de patologías y alteraciones funcionales de la reabsorción de agua en el intestino grueso.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CN-5-2026-W02-sistema-digestivo-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W02-sistema-digestivo-001-MASTERY-bundle-v7",
+      "statement": "¿En qué tramo de esta secuencia se produce la mayor absorción de agua y la formación final de materia fecal?",
+      "context": "Se rastrea el recorrido de un pedazo de queso a través del tubo digestivo: Boca -> Esófago -> Estómago -> Intestino Delgado -> Intestino Grueso -> Anus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el intestino grueso.",
+          "is_correct": true,
+          "feedback": "El intestino grueso reabsorbe la mayor parte del agua remanente formando la materia fecal para egestión."
+        },
+        {
+          "letter": "B",
+          "text": "En la boca.",
+          "is_correct": false,
+          "feedback": "En la boca solo ocurre la masticación e insalivación inicial."
+        },
+        {
+          "letter": "C",
+          "text": "En el esófago.",
+          "is_correct": false,
+          "feedback": "El esófago no realiza funciones de absorción ni formación de materia fecal."
+        },
+        {
+          "letter": "D",
+          "text": "En el estómago.",
+          "is_correct": false,
+          "feedback": "En el estómago se digieren proteínas y se forma el quimo, pero no la materia fecal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Análisis del orden secuencial de los procesos digestivos desde la ingesta hasta la egestión de desechos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.51,
+      "bundle_id": "CO-CN-5-2026-W02-sistema-digestivo-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W02-sistema-digestivo-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la justificación biológica que respalda la efectividad del consumo de fibra en el sistema digestivo?",
+      "context": "Un comercial de televisión afirma: \"Consumir alimentos ricos en fibra natural (como frutas enteras, verduras y cereales) mejora el tránsito intestinal y previene enfermedades del colon\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fibra retiene agua en el intestino grueso, aumentando el volumen de las heces y facilitando su evacuación constante.",
+          "is_correct": true,
+          "feedback": "La fibra insoluble no se digiere totalmente y actúa como esponja hidratando la masa fecal para un tránsito fluido."
+        },
+        {
+          "letter": "B",
+          "text": "La fibra destruye todos los ácidos gástricos producidos por el estómago.",
+          "is_correct": false,
+          "feedback": "La fibra no destruye los jugos gástricos; cumple una función mecánica de tránsito en el intestino."
+        },
+        {
+          "letter": "C",
+          "text": "La fibra se convierte directamente en glucosa pura en la cavidad bucal.",
+          "is_correct": false,
+          "feedback": "La fibra (celulosa) no es digerida por amilasas humanas en la boca."
+        },
+        {
+          "letter": "D",
+          "text": "La fibra reemplaza la función de bombeo del corazón.",
+          "is_correct": false,
+          "feedback": "Afirmación errónea que confunde el sistema digestivo con el sistema circulatorio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluación crítica de recomendaciones nutricionales mediante el análisis biológico del tránsito de la fibra dietaria.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.31,
+      "bundle_id": "CO-CN-5-2026-W02-sistema-digestivo-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

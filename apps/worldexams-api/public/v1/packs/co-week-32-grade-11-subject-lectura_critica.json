@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-32-grade-11-subject-lectura_critica",
+    "generated_at": "2026-09-12T16:46:07.512Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la función principal de un ensayo argumentativo?",
+      "context": "En un club de lectura en Bogotá, Laura revisa un ensayo sobre la memoria histórica colombiana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Defender una tesis mediante argumentos sólidos y persuasivos.",
+          "is_correct": true,
+          "feedback": "El ensayo argumentativo busca persuadir sobre una postura debatable."
+        },
+        {
+          "letter": "B",
+          "text": "Contar una historia personal sin estructura.",
+          "is_correct": false,
+          "feedback": "Eso corresponde a la crónica personal."
+        },
+        {
+          "letter": "C",
+          "text": "Describir lugares turísticos.",
+          "is_correct": false,
+          "feedback": "Eso es texto descriptivo."
+        },
+        {
+          "letter": "D",
+          "text": "Narrar hechos cronológicos sin opinar.",
+          "is_correct": false,
+          "feedback": "El ensayo sí defiende una postura."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El ensayo argumentativo combina información, razonamiento y retórica para sostener una tesis debatible.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle-v2",
+      "statement": "La tesis en un ensayo argumentativo se ubica principalmente en:",
+      "context": "En clase en Medellín, se identifica la tesis de un ensayo sobre el uso del celular en clase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La introducción, como idea central que se defiende.",
+          "is_correct": true,
+          "feedback": "La tesis suele enunciarse al inicio y reforzarse a lo largo del texto."
+        },
+        {
+          "letter": "B",
+          "text": "El último párrafo sin anuncio previo.",
+          "is_correct": false,
+          "feedback": "La tesis no aparece solo al final."
+        },
+        {
+          "letter": "C",
+          "text": "Las notas al pie de página.",
+          "is_correct": false,
+          "feedback": "Las notas complementan, no sostienen la tesis."
+        },
+        {
+          "letter": "D",
+          "text": "La bibliografía únicamente.",
+          "is_correct": false,
+          "feedback": "La bibliografía es referencia, no tesis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una tesis clara orienta toda la estructura argumentativa del ensayo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle-v3",
+      "statement": "¿Qué tipo de argumento apela a datos estadísticos y estudios verificables?",
+      "context": "En clase en Cali, se distinguen tipos de argumentos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argumento de autoridad sin fuente.",
+          "is_correct": false,
+          "feedback": "Requiere fuente verificable."
+        },
+        {
+          "letter": "B",
+          "text": "Argumento de evidencia empírica.",
+          "is_correct": true,
+          "feedback": "Se sustenta en datos y hechos comprobables."
+        },
+        {
+          "letter": "C",
+          "text": "Argumento emocional sin base.",
+          "is_correct": false,
+          "feedback": "Se apoya en datos, no solo emociones."
+        },
+        {
+          "letter": "D",
+          "text": "Argumento ad hominem.",
+          "is_correct": false,
+          "feedback": "Ataca a la persona, no aporta evidencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los argumentos de evidencia fortalecen la objetividad y credibilidad del ensayo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle-v4",
+      "statement": "¿Qué recurso busca generar empatía con el lector para reforzar la postura del autor?",
+      "context": "En un taller en Barranquilla, se analiza un ensayo sobre el medio ambiente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argumento patético o de apelación emocional.",
+          "is_correct": true,
+          "feedback": "Conecta con valores y emociones del lector."
+        },
+        {
+          "letter": "B",
+          "text": "Dato estadístico aislado.",
+          "is_correct": false,
+          "feedback": "El dato por sí solo no genera emoción."
+        },
+        {
+          "letter": "C",
+          "text": "Cita en lengua extranjera sin traducir.",
+          "is_correct": false,
+          "feedback": "Puede generar extrañamiento, no empatía."
+        },
+        {
+          "letter": "D",
+          "text": "Lista de referencias sin análisis.",
+          "is_correct": false,
+          "feedback": "No apela a la emoción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los argumentos emocionales se combinan con argumentos racionales para persuadir eficazmente.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle-v5",
+      "statement": "Un buen ensayo argumentativo presenta argumentos organizados de manera:",
+      "context": "En clase en Bucaramanga, se evalúa la coherencia argumentativa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lógica, con ideas principales respaldadas por secundarias y evidencias.",
+          "is_correct": true,
+          "feedback": "La estructura argumentativa sigue un orden claro."
+        },
+        {
+          "letter": "B",
+          "text": "Aleatoria, saltando entre ideas sin conexión.",
+          "is_correct": false,
+          "feedback": "El ensayo debe tener secuencia lógica."
+        },
+        {
+          "letter": "C",
+          "text": "Repetitiva, diciendo lo mismo varias veces.",
+          "is_correct": false,
+          "feedback": "La repetición sin aportar es redundante."
+        },
+        {
+          "letter": "D",
+          "text": "Únicamente cronológica.",
+          "is_correct": false,
+          "feedback": "No siempre aplica el orden cronológico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La organización lógica permite seguir el razonamiento y fortalece la persuasión.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle-v6",
+      "statement": "Una introducción efectiva de un ensayo argumentativo debe contener:",
+      "context": "En un ejercicio en Pereira, se redacta la introducción de un ensayo sobre migración.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una biografía detallada del autor.",
+          "is_correct": false,
+          "feedback": "No es el propósito de la introducción."
+        },
+        {
+          "letter": "B",
+          "text": "Contextualización del tema, presentación de la tesis y anuncio de argumentos.",
+          "is_correct": true,
+          "feedback": "Así se orienta al lector desde el inicio."
+        },
+        {
+          "letter": "C",
+          "text": "Conclusiones finales.",
+          "is_correct": false,
+          "feedback": "Las conclusiones van al final."
+        },
+        {
+          "letter": "D",
+          "text": "Datos contradictorios sin síntesis.",
+          "is_correct": false,
+          "feedback": "Falta coherencia interna."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La introducción cumple funciones informativa, orientadora y persuasiva en el ensayo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle-v7",
+      "statement": "Al integrar una cita en un ensayo, lo correcto es:",
+      "context": "En un taller en Armenia, se usa una cita para apoyar una tesis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Citarla con su fuente y enlazarla con la idea propia mediante análisis.",
+          "is_correct": true,
+          "feedback": "La cita se inserta en el discurso del autor."
+        },
+        {
+          "letter": "B",
+          "text": "Pegarla sin comillas ni referencia.",
+          "is_correct": false,
+          "feedback": "Eso es plagio."
+        },
+        {
+          "letter": "C",
+          "text": "Traducirla alterando su sentido original.",
+          "is_correct": false,
+          "feedback": "Se debe respetar el contenido."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituirla por un párrafo inventado.",
+          "is_correct": false,
+          "feedback": "Pierde respaldo académico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El uso ético de citas fortalece el argumento y respeta la propiedad intelectual.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle-v8",
+      "statement": "¿Qué conector es apropiado para introducir una idea opuesta?",
+      "context": "En clase en Santa Marta, se revisan conectores lógicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sin embargo.",
+          "is_correct": true,
+          "feedback": "Expresa contraste u oposición."
+        },
+        {
+          "letter": "B",
+          "text": "Además.",
+          "is_correct": false,
+          "feedback": "Expresa adición."
+        },
+        {
+          "letter": "C",
+          "text": "Por lo tanto.",
+          "is_correct": false,
+          "feedback": "Indica consecuencia."
+        },
+        {
+          "letter": "D",
+          "text": "En primer lugar.",
+          "is_correct": false,
+          "feedback": "Indica orden."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los conectores opositivos como sin embargo, no obstante o por el contrario estructuran los argumentos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la diferencia entre persuasión y manipulación en un ensayo?",
+      "context": "En Neiva, se diferencia entre persuadir y manipular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No existe diferencia.",
+          "is_correct": false,
+          "feedback": "Conceptualmente son distintos."
+        },
+        {
+          "letter": "B",
+          "text": "La persuasión se basa en argumentos racionales verificables; la manipulación apela a engaños o sesgos.",
+          "is_correct": true,
+          "feedback": "La manipulación distorsiona información."
+        },
+        {
+          "letter": "C",
+          "text": "La persuasión usa solo imágenes.",
+          "is_correct": false,
+          "feedback": "El ensayo es texto, no imagen."
+        },
+        {
+          "letter": "D",
+          "text": "La manipulación es siempre correcta.",
+          "is_correct": false,
+          "feedback": "La manipulación es éticamente rechazable."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ética argumentativa exige veracidad, coherencia y respeto al lector.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle-v10",
+      "statement": "La conclusión de un ensayo argumentativo debe:",
+      "context": "En Popayán, se trabaja con el cierre del ensayo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sintetizar la postura, reforzar la tesis y dejar una reflexión final.",
+          "is_correct": true,
+          "feedback": "La conclusión cierra sin introducir ideas nuevas."
+        },
+        {
+          "letter": "B",
+          "text": "Introducir un argumento nuevo y extenso.",
+          "is_correct": false,
+          "feedback": "Confunde al lector y debilita el cierre."
+        },
+        {
+          "letter": "C",
+          "text": "Cambiar la tesis original.",
+          "is_correct": false,
+          "feedback": "Contradice el principio de coherencia."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminar las evidencias usadas.",
+          "is_correct": false,
+          "feedback": "Pierde sustento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La conclusión reitera la tesis y conecta con el lector para fortalecer la persuasión.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle-v11",
+      "statement": "Un ensayo crítico debe reconocer los contraargumentos para:",
+      "context": "En Tunja, se analizan ensayos con posturas contrarias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anticipar objeciones y refutarlas con sólidos argumentos.",
+          "is_correct": true,
+          "feedback": "Esto fortalece la postura del autor."
+        },
+        {
+          "letter": "B",
+          "text": "Cambiar de opinión a mitad del texto.",
+          "is_correct": false,
+          "feedback": "Debilita la tesis."
+        },
+        {
+          "letter": "C",
+          "text": "Confundir al lector.",
+          "is_correct": false,
+          "feedback": "El ensayo busca claridad."
+        },
+        {
+          "letter": "D",
+          "text": "Evitar la investigación.",
+          "is_correct": false,
+          "feedback": "El análisis crítico requiere evidencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer y refutar contraargumentos demuestra dominio del tema y profundidad analítica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle-v12",
+      "statement": "La \"voz autoral\" en un ensayo se manifiesta principalmente a través de:",
+      "context": "En clase en Ibagué, se evalúa la voz autoral.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La repetición literal de otros autores.",
+          "is_correct": false,
+          "feedback": "Eso es falta de voz propia."
+        },
+        {
+          "letter": "B",
+          "text": "Una postura personal sostenida con argumentos, estilo y tono coherentes.",
+          "is_correct": true,
+          "feedback": "La voz autoral refleja la identidad intelectual del escritor."
+        },
+        {
+          "letter": "C",
+          "text": "La eliminación de toda subjetividad.",
+          "is_correct": false,
+          "feedback": "El ensayo admite perspectiva."
+        },
+        {
+          "letter": "D",
+          "text": "El uso exclusivo de jerga.",
+          "is_correct": false,
+          "feedback": "La claridad es prioritaria."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una voz autoral clara distingue al ensayista y conecta con el lector.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle-v13",
+      "statement": "Una diferencia entre el ensayo filosófico y el ensayo literario es:",
+      "context": "En Bogotá, se comparan ensayos filosóficos y literarios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El ensayo filosófico prioriza la rigurosidad lógica; el literario admite mayor libertad estética.",
+          "is_correct": true,
+          "feedback": "Ambos comparten intención crítica pero con énfasis distintos."
+        },
+        {
+          "letter": "B",
+          "text": "El ensayo literario no tiene argumentos.",
+          "is_correct": false,
+          "feedback": "También los tiene, aunque con estilo."
+        },
+        {
+          "letter": "C",
+          "text": "El ensayo filosófico es siempre breve.",
+          "is_correct": false,
+          "feedback": "Su extensión varía."
+        },
+        {
+          "letter": "D",
+          "text": "No existen diferencias.",
+          "is_correct": false,
+          "feedback": "Sí existen diferencias de enfoque."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El ensayo filosófico busca fundamentar; el literario busca conmover y persuadir con estilo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle-v14",
+      "statement": "La falacia \"ad hominem\" consiste en:",
+      "context": "En Sincelejo, se detectan falacias argumentativas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Atacar a la persona en lugar de refutar su argumento.",
+          "is_correct": true,
+          "feedback": "Desvía el debate hacia el agresor, no hacia las ideas."
+        },
+        {
+          "letter": "B",
+          "text": "Presentar evidencia verificable.",
+          "is_correct": false,
+          "feedback": "Es lo opuesto."
+        },
+        {
+          "letter": "C",
+          "text": "Usar fuentes confiables.",
+          "is_correct": false,
+          "feedback": "Es una práctica legítima."
+        },
+        {
+          "letter": "D",
+          "text": "Citar autores reconocidos.",
+          "is_correct": false,
+          "feedback": "Es un recurso válido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Detectar falacias ayuda a evaluar la calidad argumentativa de un texto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle-v15",
+      "statement": "Si la tesis afirma que \"la educación pública debe ser gratuita\", un argumento coherente sería:",
+      "context": "En Pereira, se evalúa la relación entre tesis y argumentos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La gratuidad garantiza el acceso equitativo y reduce la deserción escolar.",
+          "is_correct": true,
+          "feedback": "Apoya directamente la tesis con razón legítima."
+        },
+        {
+          "letter": "B",
+          "text": "El fútbol es el deporte más popular del país.",
+          "is_correct": false,
+          "feedback": "No tiene relación con la educación."
+        },
+        {
+          "letter": "C",
+          "text": "Los gatos son mascotas independientes.",
+          "is_correct": false,
+          "feedback": "Tema ajeno a la tesis."
+        },
+        {
+          "letter": "D",
+          "text": "La capital del Tolima es Ibagué.",
+          "is_correct": false,
+          "feedback": "Dato geográfico sin relación argumental."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los argumentos deben estar directamente vinculados con la tesis mediante razonamientos claros.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle-v16",
+      "statement": "La coherencia en un ensayo se asegura cuando:",
+      "context": "En Manizales, se trabaja con la coherencia textual.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cada párrafo trata un tema totalmente distinto.",
+          "is_correct": false,
+          "feedback": "Eso es incoherencia temática."
+        },
+        {
+          "letter": "B",
+          "text": "Las ideas se organizan en torno a la tesis sin contradicciones.",
+          "is_correct": true,
+          "feedback": "Coherencia = unidad lógica global."
+        },
+        {
+          "letter": "C",
+          "text": "Se cambia la postura constantemente.",
+          "is_correct": false,
+          "feedback": "Confunde al lector."
+        },
+        {
+          "letter": "D",
+          "text": "Se omiten conectores por completo.",
+          "is_correct": false,
+          "feedback": "Los conectores articulan la coherencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Coherencia y cohesión son principios complementarios que estructuran el ensayo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.63,
+      "bundle_id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle-v17",
+      "statement": "Al evaluar un ensayo sobre derechos humanos, ¿qué criterio es más relevante para juzgar su solidez?",
+      "context": "En una tertulia en Manizales, se evalúan ensayos sobre derechos humanos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La calidad y verificabilidad de las evidencias citadas.",
+          "is_correct": true,
+          "feedback": "La fuerza argumentativa depende de fuentes confiables."
+        },
+        {
+          "letter": "B",
+          "text": "La extensión del texto únicamente.",
+          "is_correct": false,
+          "feedback": "La extensión no garantiza calidad."
+        },
+        {
+          "letter": "C",
+          "text": "El uso de palabras difíciles.",
+          "is_correct": false,
+          "feedback": "La claridad es más importante."
+        },
+        {
+          "letter": "D",
+          "text": "La cantidad de citas sin análisis.",
+          "is_correct": false,
+          "feedback": "Las citas requieren interpretación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaluación crítica pondera evidencias, razonamientos y claridad expositiva.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle-v18",
+      "statement": "¿Qué rasgo diferencia un ensayo comprometido de uno neutro?",
+      "context": "En una jornada académica en Bogotá, se comparan ensayos sobre el conflicto armado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El ensayo comprometido asume una postura ética clara; el neutro describe sin priorizar valores.",
+          "is_correct": true,
+          "feedback": "La postura ética guía la argumentación comprometida."
+        },
+        {
+          "letter": "B",
+          "text": "El ensayo neutro nunca usa datos.",
+          "is_correct": false,
+          "feedback": "Puede usar datos sin postura ética."
+        },
+        {
+          "letter": "C",
+          "text": "El ensayo comprometido evita fuentes.",
+          "is_correct": false,
+          "feedback": "Generalmente las incluye."
+        },
+        {
+          "letter": "D",
+          "text": "El ensayo neutro siempre es más largo.",
+          "is_correct": false,
+          "feedback": "La extensión no define el compromiso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El compromiso ético y la postura definen la orientación del ensayista.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle-v19",
+      "statement": "Un ensayo escrito hace 50 años sobre el medio ambiente colombiano puede seguir vigente porque:",
+      "context": "En clase en Pasto, se evalúa la vigencia de ensayos clásicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los problemas ambientales nunca cambian.",
+          "is_correct": false,
+          "feedback": "Sí cambian con el tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "Algunas problemáticas estructurales persisten y el análisis crítico ofrece lecciones aplicables.",
+          "is_correct": true,
+          "feedback": "Permite comparar pasado y presente."
+        },
+        {
+          "letter": "C",
+          "text": "El autor lo redactó en español antiguo.",
+          "is_correct": false,
+          "feedback": "El idioma se mantiene."
+        },
+        {
+          "letter": "D",
+          "text": "Contiene datos desactualizados únicamente.",
+          "is_correct": false,
+          "feedback": "Puede contener análisis vigentes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Leer ensayos históricos con mirada crítica permite reconocer continuidades y cambios.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle-v20",
+      "statement": "El ensayo argumentativo es una herramienta valiosa para la ciudadanía porque:",
+      "context": "En una jornada final en Medellín, se valora el ensayo como herramienta ciudadana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite imponer ideas sin diálogo.",
+          "is_correct": false,
+          "feedback": "El ensayo busca persuadir, no imponer."
+        },
+        {
+          "letter": "B",
+          "text": "Fomenta el pensamiento crítico, la reflexión informada y el diálogo democrático.",
+          "is_correct": true,
+          "feedback": "Es esencial para la participación ciudadana."
+        },
+        {
+          "letter": "C",
+          "text": "Evita leer otras opiniones.",
+          "is_correct": false,
+          "feedback": "El ensayo requiere leer otras posturas."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituye la acción política.",
+          "is_correct": false,
+          "feedback": "Es complemento, no sustituto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ensayo es una vía para construir pensamiento crítico y participar en la vida pública.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-2026-W32-ensayo-argumentativo-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

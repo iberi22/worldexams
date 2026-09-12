@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "uy",
+    "pack_id": "uy-week-11-grade-11-subject-lengua",
+    "generated_at": "2026-09-12T16:46:07.957Z"
+  },
+  "questions": [
+    {
+      "id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la idea principal o tesis defendida por el autor en el fragmento?",
+      "context": "Leé el siguiente fragmento de una nota editorial montevideana sobre cultura urbana: \"La preservación de las fachadas históricas de la Ciudad Vieja de Montevideo no es un capricho estético de coleccionistas nostálgicos. Constituye un imperativo cívico para salvaguardar la memoria colectiva y la identidad arquitectónica de nuestra capital frente al avance indiscriminado de especulaciones inmobiliarias\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las fachadas de la Ciudad Vieja son únicamente de interés para coleccionistas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor rechaza explícitamente que sea un simple capricho de coleccionistas."
+        },
+        {
+          "letter": "B",
+          "text": "La conservación de las fachadas históricas de Montevideo es un imperativo cívico clave para la memoria e identidad urbana.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto afirma de forma explícita que la preservación es un imperativo cívico e idéntico a la memoria colectiva."
+        },
+        {
+          "letter": "C",
+          "text": "Las empresas inmobiliarias deben demoler todo el patrimonio colonial para construir torres.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto critica el avance indiscriminado de la especulación inmobiliaria."
+        },
+        {
+          "letter": "D",
+          "text": "La Ciudad Vieja carece de valor arquitectónico relevante en el contexto moderno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento resalta la importancia histórica y cultural del patrimonio del barrio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tesis central se explicita en la segunda oración: la preservación histórica representa un imperativo cívico indispensable para la identidad colectiva.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v2",
+      "statement": "¿A qué factor contrapone el autor la preservación del patrimonio arquitectónico de la capital?",
+      "context": "Leé el siguiente fragmento de una nota editorial montevideana sobre cultura urbana: \"La preservación de las fachadas históricas de la Ciudad Vieja de Montevideo no es un capricho estético de coleccionistas nostálgicos. Constituye un imperativo cívico para salvaguardar la memoria colectiva y la identidad arquitectónica de nuestra capital frente al avance indiscriminado de especulaciones inmobiliarias\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al avance indiscriminado de especulaciones inmobiliarias.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La última frase menciona explícitamente el riesgo frente al \"avance indiscriminado de especulaciones inmobiliarias\"."
+        },
+        {
+          "letter": "B",
+          "text": "A las obras teatrales del Solís.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se menciona el Teatro Solís ni actividades escénicas en el pasaje."
+        },
+        {
+          "letter": "C",
+          "text": "Al transporte colectivo de pasajeros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay alusiones al tránsito o colectivos montevideanos."
+        },
+        {
+          "letter": "D",
+          "text": "A las leyes de protección ambiental de la costa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque es un tema urbano, el fragmento se enfoca en las inmobiliarias."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El texto contrapone la función identitaria de la arquitectura histórica frente a la amenaza de las especulaciones del mercado inmobiliario.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v3",
+      "statement": "¿Qué conector cumple la función de introducir una objeción o concesión a la afirmación inicial del intendente?",
+      "context": "Leé el fragmento: \"Aunque el intendente aseguró que las obras viales en la rambla finalizarían antes de la temporada estival, los retrasos en las licitaciones y las lluvias prolongadas de primavera volvieron inviable ese cronograma\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aunque",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Aunque\" es un conector concesivo que introduce la premisa contrapuesta sobre el anuncio del intendente."
+        },
+        {
+          "letter": "B",
+          "text": "Antes",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Antes\" es un adverbio/conector temporal."
+        },
+        {
+          "letter": "C",
+          "text": "Y",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Y\" es una conjunción copulativa de adición."
+        },
+        {
+          "letter": "D",
+          "text": "Porque",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Porque\" es un conector causal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los conectores concesivos (como *aunque*, *a pesar de que*) introducen un obstáculo que no impide la realización de la acción principal, articulando objeciones argumentativas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el núcleo del sujeto en la oración anterior?",
+      "context": "Considerá la oración: \"Los investigadores uruguayos publicaron un informe riguroso sobre la calidad del agua en la cuenca del Santa Lucía\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "uruguayos",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"uruguayos\" es un adjetivo modificador directo del núcleo."
+        },
+        {
+          "letter": "B",
+          "text": "investigadores",
+          "is_correct": true,
+          "feedback": "¡Correcto! El sustantivo \"investigadores\" es la palabra principal que concuerda con el verbo \"publicaron\"."
+        },
+        {
+          "letter": "C",
+          "text": "informe",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"informe\" es el núcleo del complemento directo."
+        },
+        {
+          "letter": "D",
+          "text": "agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"agua\" forma parte del término de un complemento preposicional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el sintagma nominal sujeto \"Los investigadores uruguayos\", el sustantivo \"investigadores\" actúa como núcleo gramatical en concordancia con el verbo en plural.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v5",
+      "statement": "¿Qué analogía utiliza el autor para descartar la neutralidad absoluta de la prensa escrita?",
+      "context": "Leé el texto: \"La lectura crítica de medios exige desentrañar los sesgos ideológicos detrás de la selección de noticias. Ningún periódico es un espejo transparente de la realidad; cada titular responde a una línea editorial, un marco de intereses y un público objetivo determinado\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un libro abierto al público.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se utiliza la metáfora de libro abierto en el texto."
+        },
+        {
+          "letter": "B",
+          "text": "Un espejo transparente de la realidad.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La metáfora \"espejo transparente\" se usa de forma negativa para afirmar que ningún periódico refleja la realidad sin filtros."
+        },
+        {
+          "letter": "C",
+          "text": "Una ventana sin cristales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa imagen no aparece en la cita."
+        },
+        {
+          "letter": "D",
+          "text": "Un faro en medio del océano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tampoco figura en el pasaje."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La figura retórica negada \"espejo transparente de la realidad\" sirve para sostener que la mediación informativa implica selección e interpretación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.77,
+      "bundle_id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v6",
+      "statement": "¿Qué rasgo característico del español uruguayo (rioplatense) se evidencia en el enunciado?",
+      "context": "Leé la siguiente frase: \"Mirá, che, si precisás los documentos de la licitación, avisame antes del mediodía y te los alcanzo al liceo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El voseo pronominal y verbal con formas agudas (\"Mirá\", \"precisás\", \"avisame\").",
+          "is_correct": true,
+          "feedback": "¡Correcto! El uso de \"mirá\", \"precisás\" y \"avisame\" es típico del voseo rioplatense uruguayo."
+        },
+        {
+          "letter": "B",
+          "text": "El tuteo formal peninsular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tuteo emplearía \"mira\", \"necesitas\", \"avísame\"."
+        },
+        {
+          "letter": "C",
+          "text": "El leísmo de persona propio de España.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay leísmo; se usa \"te\" y \"los\" correctamente."
+        },
+        {
+          "letter": "D",
+          "text": "El uso del pretérito perfecto compuesto para acciones recientes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se utiliza el pretérito perfecto compuesto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El voseo rioplatense combina el pronombre \"vos\" (implícito o explícito) con conjugaciones verbales agudas en el presente de indicativo e imperativo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v7",
+      "statement": "¿Qué función sintáctica cumple el grupo preposicional \"a una obra...\" en la oración?",
+      "context": "Leé el fragmento: \"El jurado otorgó el premio de ensayo a una obra que combina el análisis histórico de la ganadería en Tacuarembó con un estilo poético deslumbrante\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sujeto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sujeto explícito es \"El jurado\"."
+        },
+        {
+          "letter": "B",
+          "text": "Complemento Indirecto",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es el destinatario de la acción verbal \"otorgó\" (duplicable por *le*: \"Le otorgó el premio a una obra\")."
+        },
+        {
+          "letter": "C",
+          "text": "Complemento Directo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El complemento directo es \"el premio de ensayo\" (lo otorgó)."
+        },
+        {
+          "letter": "D",
+          "text": "Complemento Circunstancial de lugar",
+          "is_correct": false,
+          "feedback": "Incorrecto. No expresa el lugar físico de la acción."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El verbo \"otorgar\" es bitransitivo: \"el premio de ensayo\" es el complemento directo (lo otorgó) y \"a una obra...\" es el complemento indirecto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.81,
+      "bundle_id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v8",
+      "statement": "¿Qué modalidad oracional predomina en el anuncio y qué intencionalidad persigue?",
+      "context": "Analizá el siguiente enunciado publicitario de un mate uruguayo: \"Proba la verdadera tradición de la pradera oriental. Mantené la temperatura perfecta cebada tras cebada\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Declarativa, con el fin de informar neutralmente sobre el volumen del recipiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay una mera exposición objetiva de datos."
+        },
+        {
+          "letter": "B",
+          "text": "Imperativa (o apelativa), orientada a persuadir e interpelar directamente al consumidor para que compre el producto.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las formas verbales en imperativo voseante (\"Proba\", \"Mantené\") apelante buscan mover al receptor a la acción."
+        },
+        {
+          "letter": "C",
+          "text": "Exclamativa lírica, para expresar emociones poéticas del autor sobre la yerba mate.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un texto mercantil apelativo, no poesía subjetiva."
+        },
+        {
+          "letter": "D",
+          "text": "Dubitativa, planteando dudas sobre si cebar mate es saludable.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay marcas de duda o incertidumbre."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la publicidad comercial predomina la función apelativa (o conativa) mediante la modalidad imperativa para condicionar la conducta del receptor.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v9",
+      "statement": "¿Qué tipo de argumento se emplea para refutar la idea de que la tecnología elimina el trabajo?",
+      "context": "Leé el fragmento: \"La robótica industrial no destruirá el empleo en Uruguay; por el contrario, redefinirá los perfiles profesionales hacia puestos de mayor calificación técnica e innovación\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argumento de autoridad mediante cita de un científico internacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se cita a ningún autor o institución."
+        },
+        {
+          "letter": "B",
+          "text": "Argumento de redefinición o replanteamiento conceptual, transformando la premisa de destrucción en reestructuración cualitativa.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se reformula la hipótesis negativa planteando una redefinición positiva del perfil laboral."
+        },
+        {
+          "letter": "C",
+          "text": "Falacia ad hominem contra los trabajadores industriales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay descalificación ni ataque personal."
+        },
+        {
+          "letter": "D",
+          "text": "Argumento de analogía con la agricultura del siglo XIX.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se establece comparación con épocas pasadas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El autor rebate una postura contrapuesta modificando la perspectiva del problema: la automatización no resta volumen de empleo sino que cualifica su naturaleza.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v10",
+      "statement": "¿Qué tipo de relación condicional se establece entre las proposiciones?",
+      "context": "Considerá la oración: \"Si el Ministerio aprobase el presupuesto especial, las escuelas rurales de Salto dispondrían de conectividad satelital de alta velocidad\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Condicional hipotética de realización posible o improbable en el futuro.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El uso del subjuntivo \"aprobase\" y condicional \"dispondrían\" plantea un escenario hipotético pendiente de resolución."
+        },
+        {
+          "letter": "B",
+          "text": "Condicional real de cumplimiento obligatorio e inmediato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Requeriría indicativo (\"Si aprueba... dispondrán\")."
+        },
+        {
+          "letter": "C",
+          "text": "Condicional imposible referida al pasado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para el pasado usaría \"hubiera aprobado... habrían dispuesto\"."
+        },
+        {
+          "letter": "D",
+          "text": "Oración consecutiva pura sin hipótesis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay una clara estructura subordinada condicional (*Si...*)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El período condicional expresado con pretérito imperfecto de subjuntivo en la prótasis y condicional simple en la apódosis señala hipótesis de posible ocurrencia futura.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.71,
+      "bundle_id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v11",
+      "statement": "¿Qué falacia o error de razonamiento denuncia el orador al criticar la postura de la oposición?",
+      "context": "Leé el fragmento de un debate parlamentario sobre movilidad urbana: \"Sostener que la implementación de ciclovías en las avenidas principales es la única causa del aumento del tránsito vehicular es incurrir en una simplificación absurda. El incremento del parque automotor responde a factores económicos globales, facilidades de crédito y deficiencias históricas del transporte colectivo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Falacia ad verecundiam (apelación a la falsa autoridad).",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se apela a la autoridad de un famoso."
+        },
+        {
+          "letter": "B",
+          "text": "Falacia de la causa falsa (o causa única/simplificación causal).",
+          "is_correct": true,
+          "feedback": "¡Correcto! Atribuir un fenómeno complejo a un único factor aislado cuando existen múltiples causas intervinientes."
+        },
+        {
+          "letter": "C",
+          "text": "Falacia ad populum (apelación a la mayoría).",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se argumenta sobre la opinión de la mayoría."
+        },
+        {
+          "letter": "D",
+          "text": "Argumento de pendiente resbaladiza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se proyecta una cadena catastrófica insostenible."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La falacia de causa falsa (o reducción causal) comete el sesgo de aislar una sola variable como causa determinante de un fenómeno multivariable complejo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v12",
+      "statement": "¿Qué recurso estilístico predomina en el verso \"bajo el cielo de plomo\" y qué significado aporta?",
+      "context": "Leé con atención el poema: \"La llanura callada / bajo el cielo de plomo / guarda el secreto humilde / del arroyo y del lomo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hipérbole, exagerando el peso del aire sobre la pradera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una exageración cuantitativa de peso físico."
+        },
+        {
+          "letter": "B",
+          "text": "Metáfora, asociando el color gris denso y la pesadez de las nubes de tormenta con el plomo.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Transfiere las propiedades ópticas del metal grisáceo al estado atmosférico del cielo."
+        },
+        {
+          "letter": "C",
+          "text": "Personificación, atribuyendo vida al cielo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El plomo es un elemento inanimado, no transmite atributos humanos."
+        },
+        {
+          "letter": "D",
+          "text": "Anáfora, repitiendo palabras al inicio de cada verso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay repetición de términos iniciales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La metáfora implícita \"cielo de plomo\" identifica la densidad cromática y la atmósfera cargada de nubes grises previas a la lluvia con las cualidades del metal.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v13",
+      "statement": "¿Qué estructura organizativa textual predomina en el pasaje?",
+      "context": "Leé el fragmento periodístico: \"El proyecto pesquero en la costa de Rocha generará divisas, pero a costa de un impacto severo en la biodiversidad marina local. Por un lado, las autoridades priorizan el crecimiento del producto interno bruto; por otro, los biólogos advierten sobre la acidificación del agua y el colapso de los bancos de moluscos\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Secuencia cronológica narrativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se relatan hechos sucesivos en una línea temporal."
+        },
+        {
+          "letter": "B",
+          "text": "Estructura de contraste u oposición de perspectivas (desarrollo de pros y contras).",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto confronta el beneficio económico (divisas/PIB) frente al costo ambiental (biodiversidad/acidificación)."
+        },
+        {
+          "letter": "C",
+          "text": "Descripción enumerativa de especímenes marinos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un inventario taxonómico de especies de moluscos."
+        },
+        {
+          "letter": "D",
+          "text": "Esquema de problema-solución con resolución definitiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se plantea la resolución final del dilema."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los textos argumentativos y de opinión organizan con frecuencia la información contrapesando posiciones encontradas o visiones dilemáticas sobre un asunto público.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.71,
+      "bundle_id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v14",
+      "statement": "¿Qué diferencia de registro o estilo existe entre ambas construcciones manteniendo el mismo valor semántico?",
+      "context": "Analizá las siguientes oraciones:\n1. *Aprobadas las nuevas normas urbanísticas por el concejo municipal, las constructoras adaptaron sus planos.*\n2. *Como el concejo municipal aprobó las nuevas normas urbanísticas, las constructoras adaptaron sus planos.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La oración 1 es informal y la 2 es propia del lenguaje formal científico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las cláusulas absolutas de participio son formales e institucionales."
+        },
+        {
+          "letter": "B",
+          "text": "La oración 1 emplea una cláusula absoluta de participio (estilo sintético y formal), mientras que la 2 utiliza una subordinada causal explícita.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El participio absoluto \"Aprobadas las normas...\" sintetiza la relación causal-temporal con mayor densidad sintáctica."
+        },
+        {
+          "letter": "C",
+          "text": "La oración 1 expresa una condición futura e incierta y la 2 un hecho pasado comprobado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas expresan hechos consumados pasados."
+        },
+        {
+          "letter": "D",
+          "text": "La oración 2 es agramatical en el español estándar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas son perfectamente gramaticales y normativas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las cláusulas absolutas con participio en posición inicial otorgan concisión y registro formal-culto al discurso escrito, equivaliendo a subordinadas temporales o causales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v15",
+      "statement": "¿Qué tipo de subordinación sintáctica representa la proposición \"que los estudiantes universitarios desarrollen competencias de escritura académica\"?",
+      "context": "Leé el enunciado: \"Es imprescindible que los estudiantes universitarios desarrollen competencias de escritura académica para elaborar sus monografías de egreso\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Subordinada sustantiva en función de sujeto del adjetivo atributivo \"imprescindible\".",
+          "is_correct": true,
+          "feedback": "¡Correcto! La proposición subordinada equivale a \"eso\" (\"Es imprescindible *eso*\"), actuando como sujeto de la oración principal impersonalitativa."
+        },
+        {
+          "letter": "B",
+          "text": "Subordinada adjetiva de relativo explicativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No modifica a ningún sustantivo antecedente."
+        },
+        {
+          "letter": "C",
+          "text": "Subordinada adverbial sustantiva de modo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe la categoría de \"sustantiva de modo\"."
+        },
+        {
+          "letter": "D",
+          "text": "Complemento directo del verbo \"ser\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verbo atributivo copulativo \"es\" no lleva complemento directo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En estructuras atributivas del tipo *Es necesario / imprescindible / conveniente + que...*, la cláusula introducida por *que* actúa gramaticalmente como sujeto de la oración.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.69,
+      "bundle_id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v16",
+      "statement": "¿Qué tipo de conector complejo estructura la relación entre las dos partes del enunciado?",
+      "context": "Considerá el fragmento: \"El intendente no solo desestimó las críticas de la oposición sobre la recolección de residuos, sino que acusó a los ediles de coordinar un boicot mediático\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conector disyuntivo excluyente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No presenta alternativas incompatibles (o/o)."
+        },
+        {
+          "letter": "B",
+          "text": "Conector correlativo aditivo de intensidad (\"no solo... sino que...\").",
+          "is_correct": true,
+          "feedback": "¡Correcto! Enfatiza la adición de un hecho de mayor gravedad que el primero."
+        },
+        {
+          "letter": "C",
+          "text": "Conector restrictivo de rectificación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No rectifica el primer enunciado, suma acusaciones."
+        },
+        {
+          "letter": "D",
+          "text": "Conector comparativo de igualdad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No compara características entre dos entidades."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La estructura correlativa *no solo... sino (también/que)...* cumple la función de adición enfática o progresiva en el discurso argumentativo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.68,
+      "bundle_id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v17",
+      "statement": "Evaluá la postura del crítico hacia la obra del artista. ¿En qué fundamenta su juicio desfavorable?",
+      "context": "Leé el texto crítico sobre una exposición de artes plásticas en el Museo Blanes: \"La muestra pictórica del artista emergente peca de un eclecticism superficial. Aunque domina la técnica del acrílico y despliega un uso deslumbrante del color, sus lienzos carecen de una propuesta conceptual sólida, quedando reducidos a meros decorados de salón burgués\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la absoluta falta de destreza técnica del artista con el pincel y el óleo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, reconoce que \"domina la técnica\" y el uso del color."
+        },
+        {
+          "letter": "B",
+          "text": "En la disociación entre la solvencia técnica formal y la vacuidad o falta de profundidad conceptual.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El juicio crítico distingue la habilidad artesanal de la carencia de contenido ideológico o poético."
+        },
+        {
+          "letter": "C",
+          "text": "En el excesivo costo de las entradas a la exposición en el Museo Blanes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se hace mención al precio de las entradas."
+        },
+        {
+          "letter": "D",
+          "text": "En que las obras representan exclusivamente paisajes rurales de Canelones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se aborda la temática de paisajes rurales en la cita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El análisis valorativo de la crítica de arte evalúa la tensión entre la dimensión formal/técnica y la dimensión semántica/conceptual de una obra.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.66,
+      "bundle_id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v18",
+      "statement": "Evaluá el concepto de \"mitología fundacional\" en la interpretación de Real de Azúa. ¿Qué función le atribuye en el devenir del país?",
+      "context": "Leé el pasaje del ensayista uruguayo Carlos Real de Azúa sobre la identidad nacional: \"Uruguay ha sido concebido históricamente como una comunidad de mesocracia, un 'país de cercanías' donde la amortiguación de los conflictos sociales constituyó una mitología fundacional indispensable para la cohesión republicana\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un engaño malintencionado diseñado por los partidos tradicionales para destruir la democracia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se juzga como conspiración malintencionada sino como construcción identitaria."
+        },
+        {
+          "letter": "B",
+          "text": "Una narrativa simbólica integradora que ayudó a amortiguar las tensiones de clase y fortalecer la cohesión del modelo cívico.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Funciona como una representación compartida que garantizó la estabilidad republicana."
+        },
+        {
+          "letter": "C",
+          "text": "Una leyenda folclórica sobre los orígenes de la ganadería colonial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ensayo aborda la sociología política moderna del país, no cuentos rurales."
+        },
+        {
+          "letter": "D",
+          "text": "Una teoría económica sobre el comercio exterior del puerto de Montevideo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se enfoca en la dimensión sociocultural y política del país."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El concepto de \"mitología fundacional\" en la sociología uruguaya analiza las ficciones orientadoras y discursos de consenso que dieron estabilidad institucional al Estado moderno.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.64,
+      "bundle_id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v19",
+      "statement": "¿Qué cambio epistemológico propone el texto respecto al abordaje de la gramática escolar?",
+      "context": "Considerá el siguiente análisis pedagógico: \"En la enseñanza de la Lengua en Bachillerato, la gramática no debe ser memorizada como un catálogo rígido de etiquetas nomenclaturales, sino investigada como un sistema vivo de recursos al servicio de la significación y la adecuación comunicativa\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eliminar la enseñanza del español para reemplazarlo por la enseñanza de lenguas extranjeras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No sugiere eliminar el estudio de la lengua materna."
+        },
+        {
+          "letter": "B",
+          "text": "Transitar de una didáctica prescriptiva y memorística hacia una gramática reflexiva y orientada al uso en contexto.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Promueve concebir la norma como herramienta viva de análisis crítico y producción de sentido."
+        },
+        {
+          "letter": "C",
+          "text": "Prohibir el uso del voseo en la escritura de ensayos académicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aborda prescripciones dialectales específicas."
+        },
+        {
+          "letter": "D",
+          "text": "Limitar el estudio sintáctico exclusivamente a la poesía gauchesca del siglo XIX.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No restringe el corpus a un solo género histórico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La lingüística educativa contemporánea enfatiza la reflexión metalingüística orientada a la comprensión y producción discursiva activa frente a la memorización pasiva.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.63,
+      "bundle_id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v20",
+      "statement": "Evaluá la postura poética expresada en el manifiesto respecto a la función del arte narrativo.",
+      "context": "Leé el fragmento de un manifiesto literario: \"Rechazamos el realismo fotográfico que pretende reducir la novela a un inventario de costumbres provincianas. La verdadera literatura no copia la realidad; crea universos paralelos dotados de su propia lógica poética y sus propias leyes verosímiles\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Defiende la autonomía de la creación artística y la supremacía de la verosimilitud estética sobre la mera mímesis o copia documental.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Reivindica el poder creador del lenguaje por encima de la reproducción servil del entorno cotidiano."
+        },
+        {
+          "letter": "B",
+          "text": "Exige a los escritores uruguayos describir con precisión documental la geografía de los departamentos del interior.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El manifiesto rechaza explícitamente el \"inventario de costumbres provincianas\"."
+        },
+        {
+          "letter": "C",
+          "text": "Sostiene que las novelas deben contener morales didácticas para educar al pueblo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se adjudica un rol pedagógico-moral a la literatura."
+        },
+        {
+          "letter": "D",
+          "text": "Declara la muerte de la novela como género sustituido por la fotografía digital.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aboga por el fin de la literatura sino por una narrativa antimimética."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los manifiestos vanguardistas y antirrealistas defienden la auto-referencialidad y la verosimilitud interna del texto literario frente a la exigencia de copia fiel de la realidad externa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
+      "bundle_id": "UY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    }
+  ]
+}

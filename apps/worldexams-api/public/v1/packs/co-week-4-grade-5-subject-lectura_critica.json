@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-4-grade-5-subject-lectura_critica",
+    "generated_at": "2026-09-12T16:46:07.518Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-5-2026-W04-noticia-estructura-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la parte de una noticia que presenta el resumen más importante y suele contestar las preguntas qué, quién, cuándo, dónde y cómo?",
+      "context": "En clase de Lectura Crítica, los estudiantes de un colegio de Pasto revisan una nota del periódico regional titulada \"Cultivos de papa en Nariño registran aumento del 12%\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El lead o entrada, donde se concentran los datos esenciales.",
+          "is_correct": true,
+          "feedback": "El lead (primer párrafo) resume el qué, quién, cuándo, dónde y cómo de la noticia."
+        },
+        {
+          "letter": "B",
+          "text": "La firma del periodista, donde aparece el nombre del autor.",
+          "is_correct": false,
+          "feedback": "La firma identifica al autor pero no resume los hechos principales."
+        },
+        {
+          "letter": "C",
+          "text": "La sección de anuncios clasificados.",
+          "is_correct": false,
+          "feedback": "Los clasificados son publicidad pagada, no parte de la estructura noticiosa."
+        },
+        {
+          "letter": "D",
+          "text": "El pie de página del periódico.",
+          "is_correct": false,
+          "feedback": "El pie de página es información editorial, no contenido de la noticia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una noticia se organiza de manera jerárquica: el titular sintetiza el hecho principal; el lead amplía la información esencial respondiendo las preguntas básicas; el cuerpo desarrolla los detalles en orden de importancia decreciente (pirámide invertida); y el cierre contextualiza o cita fuentes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-5-2026-W04-noticia-estructura-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W04-noticia-estructura-001-MASTERY-bundle-v2",
+      "statement": "¿Qué información específica entrega ese titular al lector sobre el contenido de la noticia?",
+      "context": "Un estudiante de Pereira lee el siguiente titular: \"Inauguran en Risaralda nuevo hospital pediátrico con capacidad para 120 niños\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El hecho principal (apertura del hospital), el lugar (Risaralda) y un dato cuantitativo (120 niños).",
+          "is_correct": true,
+          "feedback": "El titular sintetiza la acción, la ubicación y un número concreto."
+        },
+        {
+          "letter": "B",
+          "text": "Una opinión personal del periodista sobre la salud del departamento.",
+          "is_correct": false,
+          "feedback": "Un titular informativo no expresa opiniones, sino hechos concretos."
+        },
+        {
+          "letter": "C",
+          "text": "Un análisis histórico del sistema hospitalario colombiano.",
+          "is_correct": false,
+          "feedback": "El titular es puntual, no un análisis extenso."
+        },
+        {
+          "letter": "D",
+          "text": "Una publicidad de servicios médicos privados.",
+          "is_correct": false,
+          "feedback": "El titular describe un hecho público, no una pauta comercial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El titular cumple la función de captar la atención del lector y, al mismo tiempo, informar lo esencial: qué ocurrió, dónde y, a menudo, datos cuantitativos. Su estructura breve obliga al periodista a jerarquizar la información y omitir detalles secundarios.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-5-2026-W04-noticia-estructura-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W04-noticia-estructura-001-MASTERY-bundle-v3",
+      "statement": "¿Qué dato responde al componente \"cuándo\" de la noticia presentada?",
+      "context": "En clase, los estudiantes leen este fragmento: \"El pasado lunes, 600 familias del municipio de Turbo fueron atendidas por la Unidad Nacional para la Gestión del Riesgo tras la creciente del río Atrato\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"El pasado lunes\", porque indica el día en que ocurrió la atención.",
+          "is_correct": true,
+          "feedback": "La expresión temporal precisa señala cuándo se produjo el hecho informativo."
+        },
+        {
+          "letter": "B",
+          "text": "\"600 familias\", porque es una cifra que precisa el alcance.",
+          "is_correct": false,
+          "feedback": "La cifra responde a cuántos, no a cuándo."
+        },
+        {
+          "letter": "C",
+          "text": "\"Unidad Nacional para la Gestión del Riesgo\", porque es el actor principal.",
+          "is_correct": false,
+          "feedback": "La entidad es el quién institucional, no el cuándo."
+        },
+        {
+          "letter": "D",
+          "text": "\"municipio de Turbo\", porque sitúa geográficamente el hecho.",
+          "is_correct": false,
+          "feedback": "El municipio responde al dónde geográfico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las preguntas básicas del periodismo son: qué, quién, cuándo, dónde, cómo y por qué. Reconocer cada componente en un párrafo ayuda a los estudiantes a identificar la estructura informativa y a verificar si la nota periodística cubre los datos mínimos para ser completa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-5-2026-W04-noticia-estructura-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W04-noticia-estructura-001-MASTERY-bundle-v4",
+      "statement": "¿Qué tipo de texto es el anterior y en qué se diferencia de una noticia?",
+      "context": "Una columna del diario local de Ibagué afirma: \"El nuevo puente es un despilfarro inaceutable del presupuesto municipal\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un texto de opinión, porque emite un juicio de valor (\"despilfarro inaceutable\"); la noticia solo informa sin adjetivar.",
+          "is_correct": true,
+          "feedback": "Los juicios de valor pertenecen a columnas de opinión, no a noticias."
+        },
+        {
+          "letter": "B",
+          "text": "Es una noticia, porque describe una obra pública.",
+          "is_correct": false,
+          "feedback": "Aunque menciona una obra, el adjetivo valorativo lo convierte en opinión, no en noticia."
+        },
+        {
+          "letter": "C",
+          "text": "Es un instructivo, porque indica cómo construir un puente.",
+          "is_correct": false,
+          "feedback": "No hay pasos ni instrucciones técnicas."
+        },
+        {
+          "letter": "D",
+          "text": "Es una receta de cocina, porque menciona ingredientes del presupuesto.",
+          "is_correct": false,
+          "feedback": "Es una metáfora inocente del texto; no se trata de gastronomía."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La diferencia clave entre información y opinión es el uso de juicios de valor: la noticia verifica hechos verificables y los presenta con neutralidad; la columna de opinión valora, interpreta o critica esos hechos desde una postura argumentativa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-5-2026-W04-noticia-estructura-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W04-noticia-estructura-001-MASTERY-bundle-v5",
+      "statement": "¿Cómo se denomina el orden narrativo en que primero aparece lo más importante y luego se profundiza en los detalles?",
+      "context": "En un periódico de Barranquilla aparece una nota sobre un concierto escolar con esta estructura: título \"Estudiantes de Soledad ganan concurso de danza nacional\"; primer párrafo \"35 alumnos de la IED María Goretti obtuvieron el primer puesto en el Encuentro Nacional de Danza Escolar\"; segundo párrafo \"El grupo viajó durante tres meses de ensayo y compitió contra delegaciones de 12 departamentos\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pirámide invertida, porque el dato más relevante está al inicio y los detalles van después.",
+          "is_correct": true,
+          "feedback": "En la pirámide invertida la información esencial precede a los detalles complementarios."
+        },
+        {
+          "letter": "B",
+          "text": "Crónica narrativa, porque cuenta los hechos en orden cronológico estricto.",
+          "is_correct": false,
+          "feedback": "La pirámide invertida no exige cronología, sino jerarquía."
+        },
+        {
+          "letter": "C",
+          "text": "Relato de ficción, porque relata hazañas de personajes.",
+          "is_correct": false,
+          "feedback": "La noticia trata hechos reales, no de ficción."
+        },
+        {
+          "letter": "D",
+          "text": "Carta al editor, porque dialoga con el lector.",
+          "is_correct": false,
+          "feedback": "La carta al editor es un género de opinión, no la estructura de la noticia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pirámide invertida es un esquema periodístico en el que la información más importante se ubica al principio y los detalles secundarios se agregan en orden descendente. Permite al lector captar el hecho esencial incluso si abandona la lectura en cualquier párrafo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-5-2026-W04-noticia-estructura-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W04-noticia-estructura-001-MASTERY-bundle-v6",
+      "statement": "¿Qué diferencia de enfoque se evidencia entre el titular A y el titular B sobre el mismo hecho?",
+      "context": "En un taller de medios en Manizales, los estudiantes comparan dos versiones de una misma noticia: versión A del diario local \"Construyen colegio nuevo en el barrio San Jorge\"; versión B del mismo hecho \"Después de 20 años de espera, por fin se inicia el colegio de San Jorge\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El titular A es informativo y neutro; el titular B incluye contexto histórico y un componente valorativo al destacar \"por fin\".",
+          "is_correct": true,
+          "feedback": "La palabra \"por fin\" emite un juicio implícito de satisfacción que matiza el tono neutral."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos son idénticos porque hablan de un colegio.",
+          "is_correct": false,
+          "feedback": "La diferencia está en la carga valorativa y el contexto agregado."
+        },
+        {
+          "letter": "C",
+          "text": "El titular A es de opinión y el B es informativo.",
+          "is_correct": false,
+          "feedback": "Es al contrario: A es neutro y B incorpora un matiz valorativo."
+        },
+        {
+          "letter": "D",
+          "text": "El titular B es falso porque ningún colegio tarda tanto.",
+          "is_correct": false,
+          "feedback": "La veracidad se evalúa con fuentes, no por la presencia de expresiones temporales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los titulares pueden ser informativos (hechos verificables sin adjetivos) o valorativos (con adverbios o adjetivos que expresan postura). Reconocer la carga valorativa ayuda al lector a distinguir entre lo que ocurrió y la interpretación que hace el medio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LC-5-2026-W04-noticia-estructura-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W04-noticia-estructura-001-MASTERY-bundle-v7",
+      "statement": "¿Qué función cumple la frase destacada entre comillas dentro de la noticia?",
+      "context": "Una nota de Cali dice: \"Habitantes del barrio El Guabal cerraron la calle 5 en protesta por la demora en obras de acueducto. Según el personero delegado, 'la obra está contratada desde 2022 pero nunca inició'\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una cita textual de una fuente, que aporta voz y respaldo al hecho informado.",
+          "is_correct": true,
+          "feedback": "Las comillas indican la voz directa de una fuente citada por el periodista."
+        },
+        {
+          "letter": "B",
+          "text": "Es un comentario personal del periodista.",
+          "is_correct": false,
+          "feedback": "Los comentarios del periodista no van entre comillas sino en su propio estilo."
+        },
+        {
+          "letter": "C",
+          "text": "Es un slogan publicitario del acueducto.",
+          "is_correct": false,
+          "feedback": "El contenido crítico no corresponde a un slogan comercial."
+        },
+        {
+          "letter": "D",
+          "text": "Es un anuncio oficial de la alcaldía.",
+          "is_correct": false,
+          "feedback": "Una declaración oficial llevaría membrete o \"comunicado oficial\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el texto periodístico, las comillas indican una cita textual de una fuente. Esto permite al lector diferenciar entre lo que el periodista narra y lo que otra persona afirma. Identificar fuentes y citas directas es una habilidad clave para evaluar la veracidad de la noticia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-5-2026-W04-noticia-estructura-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W04-noticia-estructura-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de las dos noticias resulta más confiable y por qué?",
+      "context": "Una estudiante de Neiva compara dos noticias sobre el mismo temblor: Noticia A \"Sismo de magnitud 4.5 sacudió el Huila el martes sin lesionados\"; Noticia B \"Devastador terremoto causa pánico en Huila este martes\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La noticia A, porque describe el hecho con datos verificables y sin adjetivos valorativos.",
+          "is_correct": true,
+          "feedback": "Una magnitud precisa y la ausencia de \"devastador\" respaldan la objetividad."
+        },
+        {
+          "letter": "B",
+          "text": "La noticia B, porque exagera y atrae más la atención del lector.",
+          "is_correct": false,
+          "feedback": "Atraer atención no es sinónimo de confiabilidad; la exageración resta credibilidad."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas son confiables porque hablan del mismo temblor.",
+          "is_correct": false,
+          "feedback": "La confiabilidad depende del lenguaje, no solo del tema."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna es confiable porque no menciona la fuente.",
+          "is_correct": false,
+          "feedback": "La confiabilidad se evalúa primero por el uso del lenguaje; la fuente es otro criterio adicional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una noticia confiable se caracteriza por el uso de datos verificables, lenguaje neutro y atribución de fuentes. Los adjetivos valorativos como \"devastador\" o \"aterrador\" pueden transformar un hecho medible en una interpretación subjetiva, por lo que el lector crítico debe preferir la versión que describe el hecho con precisión.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.35,
+      "bundle_id": "CO-LC-5-2026-W04-noticia-estructura-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

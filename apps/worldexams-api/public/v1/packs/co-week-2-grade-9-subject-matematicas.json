@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-2-grade-9-subject-matematicas",
+    "generated_at": "2026-09-12T16:46:07.572Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-9-2026-W02-teorema-pitagoras-001-MASTERY-bundle-v1",
+      "statement": "¿Cuánto mide la hipotenusa?",
+      "context": "En Bogotá, los catetos de un triángulo rectángulo miden $6\\text{ cm}$ y $8\\text{ cm}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10\\text{ cm}$",
+          "is_correct": true,
+          "feedback": "Correcto. $h = \\sqrt{6^2 + 8^2} = \\sqrt{36 + 64} = \\sqrt{100} = 10\\text{ cm}$."
+        },
+        {
+          "letter": "B",
+          "text": "$14\\text{ cm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los catetos directamente sin elevar al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "$12\\text{ cm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cálculo aproximado sin aplicar raíz cuadrada exacta."
+        },
+        {
+          "letter": "D",
+          "text": "$48\\text{ cm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste los catetos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$h^2 = a^2 + b^2 = 36 + 64 = 100 \\implies h = 10\\text{ cm}$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-9-2026-W02-teorema-pitagoras-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W02-teorema-pitagoras-001-MASTERY-bundle-v2",
+      "statement": "¿A qué altura de la pared llega la parte superior de la escalera?",
+      "context": "En Medellín, una escalera de $5\\text{ metros}$ de longitud se apoya en una pared vertical. La base de la escalera está a $3\\text{ metros}$ de la pared.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4\\text{ metros}$",
+          "is_correct": true,
+          "feedback": "Correcto. $a = \\sqrt{5^2 - 3^2} = \\sqrt{25 - 9} = \\sqrt{16} = 4\\text{ m}$."
+        },
+        {
+          "letter": "B",
+          "text": "$2\\text{ metros}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste $5 - 3$ directamente."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{34}\\text{ metros}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los cuadrados como si $5$ fuera cateto."
+        },
+        {
+          "letter": "D",
+          "text": "$4.5\\text{ metros}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estimación sin rigor geométrico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cateto $a = \\sqrt{h^2 - b^2} = \\sqrt{25 - 9} = \\sqrt{16} = 4\\text{ m}$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-9-2026-W02-teorema-pitagoras-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W02-teorema-pitagoras-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la longitud de la cerca diagonal?",
+      "context": "En un terreno rectangular en Cali de $9\\text{ m}$ de ancho por $12\\text{ m}$ de largo, se traza una cerca en diagonal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$15\\text{ m}$",
+          "is_correct": true,
+          "feedback": "Correcto. $d = \\sqrt{9^2 + 12^2} = \\sqrt{81 + 144} = \\sqrt{225} = 15\\text{ m}$."
+        },
+        {
+          "letter": "B",
+          "text": "$21\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $9 + 12$."
+        },
+        {
+          "letter": "C",
+          "text": "$18\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la raíz cuadrada de $225$."
+        },
+        {
+          "letter": "D",
+          "text": "$13\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en los cuadrados $81+144$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La diagonal de un rectángulo forma un triángulo rectángulo: $d = \\sqrt{81+144} = 15\\text{ m}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W02-teorema-pitagoras-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W02-teorema-pitagoras-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la longitud de la diagonal de la cancha expresada de forma exacta?",
+      "context": "En Barranquilla, una cancha cuadrada tiene $10\\text{ m}$ de lado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10\\sqrt{2}\\text{ m}$",
+          "is_correct": true,
+          "feedback": "Correcto. $d = \\sqrt{10^2 + 10^2} = \\sqrt{200} = 10\\sqrt{2}\\text{ m}$."
+        },
+        {
+          "letter": "B",
+          "text": "$20\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los lados directamente."
+        },
+        {
+          "letter": "C",
+          "text": "$100\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste el área en metros cuadrados."
+        },
+        {
+          "letter": "D",
+          "text": "$5\\sqrt{2}\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste el lado entre 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En todo cuadrado de lado $L$, la diagonal es $d = L\\sqrt{2} = 10\\sqrt{2}\\text{ m}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W02-teorema-pitagoras-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W02-teorema-pitagoras-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la medida exacta de la altura del triángulo equilátero?",
+      "context": "En Bucaramanga, un triángulo equilátero tiene lados de $6\\text{ cm}$. Se traza su altura dividiéndolo en dos triángulos rectángulos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3\\sqrt{3}\\text{ cm}$",
+          "is_correct": true,
+          "feedback": "Correcto. Base mitad = $3\\text{ cm}$. $h = \\sqrt{6^2 - 3^2} = \\sqrt{36 - 9} = \\sqrt{27} = 3\\sqrt{3}\\text{ cm}$."
+        },
+        {
+          "letter": "B",
+          "text": "$3\\text{ cm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la mitad de la base, no la altura."
+        },
+        {
+          "letter": "C",
+          "text": "$4.5\\text{ cm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estimación imprecisa sin radical."
+        },
+        {
+          "letter": "D",
+          "text": "$6\\sqrt{3}\\text{ cm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dividiste el lado por la mitad para formar el cateto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$h = \\sqrt{L^2 - (L/2)^2} = \\sqrt{36 - 9} = \\sqrt{27} = 3\\sqrt{3}\\text{ cm}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W02-teorema-pitagoras-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W02-teorema-pitagoras-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la distancia entre $P_1$ y $P_2$?",
+      "context": "En Pereira, se calcula la distancia entre los puntos $P_1(1, 2)$ y $P_2(4, 6)$ en el plano cartesiano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5$ unidades",
+          "is_correct": true,
+          "feedback": "Correcto. $d = \\sqrt{(4-1)^2 + (6-2)^2} = \\sqrt{3^2 + 4^2} = \\sqrt{25} = 5$."
+        },
+        {
+          "letter": "B",
+          "text": "$7$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las diferencias $3 + 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{7}$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las diferencias antes de elevar al cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "$25$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste extraer la raíz cuadrada fina."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$d = \\sqrt{\\Delta x^2 + \\Delta y^2} = \\sqrt{3^2 + 4^2} = \\sqrt{25} = 5$ unidades.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W02-teorema-pitagoras-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W02-teorema-pitagoras-001-MASTERY-bundle-v7",
+      "statement": "¿A qué altura total respecto al suelo se encuentra la cometa?",
+      "context": "En Manizales, una cometa está atada a una cuerda extendida de $13\\text{ m}$. La proyección horizontal de la cometa en el suelo está a $12\\text{ m}$ del niño que la sostiene a $1\\text{ m}$ de altura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6\\text{ m}$",
+          "is_correct": true,
+          "feedback": "Correcto. Cateto vertical $h = \\sqrt{13^2 - 12^2} = \\sqrt{169 - 144} = \\sqrt{25} = 5\\text{ m}$. Altura total = $5 + 1 = 6\\text{ m}$."
+        },
+        {
+          "letter": "B",
+          "text": "$5\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar la altura inicial desde la que se sostiene la cometa ($1\\text{ m}$)."
+        },
+        {
+          "letter": "C",
+          "text": "$7\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 2 m de altura inicial."
+        },
+        {
+          "letter": "D",
+          "text": "$14\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste la cuerda más la altura inicial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Triángulo: hipotenusa $13$, base $12 \\implies$ cateto vertical $= 5\\text{ m}$. Altura total $= 5 + 1 = 6\\text{ m}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W02-teorema-pitagoras-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W02-teorema-pitagoras-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la apotema (altura de una cara lateral) de la pirámide?",
+      "context": "En Pasto, una pirámide de base cuadrada tiene $10\\text{ m}$ de lado de base y una altura de $12\\text{ m}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$13\\text{ m}$",
+          "is_correct": true,
+          "feedback": "Correcto. El cateto base es la mitad del lado ($5\\text{ m}$). Apotema = $\\sqrt{12^2 + 5^2} = \\sqrt{144 + 25} = \\sqrt{169} = 13\\text{ m}$."
+        },
+        {
+          "letter": "B",
+          "text": "$15\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste el lado completo $10$ como cateto en vez de su mitad $5$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{244}\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste cateto $10$ en el Teorema."
+        },
+        {
+          "letter": "D",
+          "text": "$11\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo en la hipotenusa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Catetos: altura $12\\text{ m}$ y mitad de base $5\\text{ m}$. Apotema $= \\sqrt{144+25} = \\sqrt{169} = 13\\text{ m}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W02-teorema-pitagoras-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W02-teorema-pitagoras-001-MASTERY-bundle-v9",
+      "statement": "¿Es un triángulo rectángulo y por qué?",
+      "context": "En Cúcuta, se evalúa si el triángulo de lados $7\\text{ cm}$, $24\\text{ cm}$ y $25\\text{ cm}$ es un triángulo rectángulo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque $7^2 + 24^2 = 49 + 576 = 625 = 25^2$.",
+          "is_correct": true,
+          "feedback": "Correcto. Satisface exactamente la terna pitagórica."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque la suma de sus lados es $56$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El perímetro no determina si es rectángulo."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque $24 + 7 \\neq 25$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El teorema aplica a los cuadrados de las longitudes."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, pero solo si los tres ángulos son agudos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un triángulo rectángulo tiene necesariamente un ángulo recto ($90^\\circ$)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Recíproco del Teorema de Pitágoras: $49 + 576 = 625 = 25^2$, por ende es rectángulo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W02-teorema-pitagoras-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W02-teorema-pitagoras-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el perímetro total del rombo?",
+      "context": "En Armenia, un rombo tiene diagonales de $12\\text{ cm}$ y $16\\text{ cm}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$40\\text{ cm}$",
+          "is_correct": true,
+          "feedback": "Correcto. Mitades de diagonales son $6$ y $8$. Lado $= \\sqrt{6^2 + 8^2} = 10\\text{ cm}$. Perímetro $= 4 \\times 10 = 40\\text{ cm}$."
+        },
+        {
+          "letter": "B",
+          "text": "$28\\text{ cm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las diagonales directamente."
+        },
+        {
+          "letter": "C",
+          "text": "$56\\text{ cm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste la suma de las diagonales."
+        },
+        {
+          "letter": "D",
+          "text": "$32\\text{ cm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste el lado mayor por 4."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Lado $L = \\sqrt{(12/2)^2 + (16/2)^2} = \\sqrt{36+64} = 10\\text{ cm}$. Perímetro $4L = 40\\text{ cm}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W02-teorema-pitagoras-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W02-teorema-pitagoras-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la medida de la diagonal espacial?",
+      "context": "En Cartagena, se calcula la longitud de la diagonal espacial de un paralelepípedo recto (caja) de dimensiones $3\\text{ m}$, $4\\text{ m}$ y $12\\text{ m}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$13\\text{ m}$",
+          "is_correct": true,
+          "feedback": "Correcto. $D = \\sqrt{a^2 + b^2 + c^2} = \\sqrt{3^2 + 4^2 + 12^2} = \\sqrt{9 + 16 + 144} = \\sqrt{169} = 13\\text{ m}$."
+        },
+        {
+          "letter": "B",
+          "text": "$19\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las tres dimensiones $3 + 4 + 12$."
+        },
+        {
+          "letter": "C",
+          "text": "$15\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la raíz cuadrada de $169$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{160}\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en los cuadrados acumulados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Diagonal en 3D: $D = \\sqrt{3^2 + 4^2 + 12^2} = \\sqrt{9 + 16 + 144} = \\sqrt{169} = 13\\text{ m}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-9-2026-W02-teorema-pitagoras-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W02-teorema-pitagoras-001-MASTERY-bundle-v12",
+      "statement": "¿A qué distancia se encuentra del punto de partida inicial en línea recta?",
+      "context": "En Cartagena, una embarcación navega $12\\text{ km}$ hacia el Norte, luego $9\\text{ km}$ hacia el Este y finalmente $24\\text{ km}$ hacia el Sur.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$15\\text{ km}$",
+          "is_correct": true,
+          "feedback": "Correcto. Desplazamiento Norte-Sur: $12 - 24 = -12\\text{ km}$. Desplazamiento Este: $9\\text{ km}$. $d = \\sqrt{(-12)^2 + 9^2} = \\sqrt{144 + 81} = \\sqrt{225} = 15\\text{ km}$."
+        },
+        {
+          "letter": "B",
+          "text": "$45\\text{ km}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste la trayectoria total caminada ($12 + 9 + 24$)."
+        },
+        {
+          "letter": "C",
+          "text": "$21\\text{ km}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste $24 - 12 - 9$."
+        },
+        {
+          "letter": "D",
+          "text": "$25\\text{ km}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en los catetos netos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Vector posición: $\\Delta x = 9$, $\\Delta y = -12$. Distancia $d = \\sqrt{9^2 + (-12)^2} = \\sqrt{81 + 144} = \\sqrt{225} = 15\\text{ km}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-9-2026-W02-teorema-pitagoras-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-8-grade-5-subject-matematicas",
+    "generated_at": "2026-09-12T16:46:07.565Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-5-2026-W08-angulos-rectas-001-MASTERY-bundle-v1",
+      "statement": "¿Cuántos grados mide un ángulo recto?",
+      "context": "En clase de geometría en una escuela de Riohacha, la profesora muestra diferentes tipos de ángulos con un transportador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "90 grados.",
+          "is_correct": true,
+          "feedback": "Un ángulo recto mide exactamente 90 grados."
+        },
+        {
+          "letter": "B",
+          "text": "45 grados.",
+          "is_correct": false,
+          "feedback": "45 grados corresponde a la mitad de un ángulo recto, no a un ángulo recto completo."
+        },
+        {
+          "letter": "C",
+          "text": "180 grados.",
+          "is_correct": false,
+          "feedback": "180 grados corresponde a un ángulo llano, no a un recto."
+        },
+        {
+          "letter": "D",
+          "text": "360 grados.",
+          "is_correct": false,
+          "feedback": "360 grados corresponde a una vuelta completa, no a un ángulo recto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer la medida en grados del ángulo recto como referencia para otros ángulos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.89,
+      "bundle_id": "CO-MAT-5-2026-W08-angulos-rectas-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W08-angulos-rectas-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es un ejemplo de ángulo obtuso en la vida cotidiana?",
+      "context": "Lee: \"Un ángulo agudo mide menos de 90 grados, un ángulo recto mide 90 grados y un ángulo obtuso mide más de 90 grados pero menos de 180.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La abertura de una puerta que está más abierta que un ángulo recto.",
+          "is_correct": true,
+          "feedback": "Cuando una puerta se abre más de 90°, forma un ángulo obtuso."
+        },
+        {
+          "letter": "B",
+          "text": "La esquina de una hoja de papel cuaderno.",
+          "is_correct": false,
+          "feedback": "La esquina del papel forma un ángulo recto, no obtuso."
+        },
+        {
+          "letter": "C",
+          "text": "La punta de un lápiz muy afilado.",
+          "is_correct": false,
+          "feedback": "La punta afilada forma un ángulo muy agudo, no obtuso."
+        },
+        {
+          "letter": "D",
+          "text": "La línea recta horizontal del piso.",
+          "is_correct": false,
+          "feedback": "Una línea recta no forma un ángulo, sino 180°."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificar ejemplos de ángulo obtuso en situaciones reales y cotidianas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-MAT-5-2026-W08-angulos-rectas-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W08-angulos-rectas-001-MASTERY-bundle-v3",
+      "statement": "¿Cómo se llaman los ángulos que están uno frente al otro cuando dos rectas se cruzan?",
+      "context": "Un estudiante traza dos rectas en el cuaderno que se cruzan formando una \"X\" en el centro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ángulos opuestos por el vértice.",
+          "is_correct": true,
+          "feedback": "Los ángulos opuestos por el vértice son los que están frente a frente al cruzarse dos rectas."
+        },
+        {
+          "letter": "B",
+          "text": "Ángulos consecutivos.",
+          "is_correct": false,
+          "feedback": "Los ángulos consecutivos están uno al lado del otro, no enfrente."
+        },
+        {
+          "letter": "C",
+          "text": "Ángulos complementarios.",
+          "is_correct": false,
+          "feedback": "Los complementarios suman 90°, lo cual no es la relación descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Ángulos suplementarios.",
+          "is_correct": false,
+          "feedback": "Los suplementarios suman 180°, lo cual no es la relación descrita."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la nomenclatura correcta a los ángulos formados por dos rectas que se cortan.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-5-2026-W08-angulos-rectas-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W08-angulos-rectas-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es un ejemplo cotidiano de rectas paralelas?",
+      "context": "Lee: \"Dos rectas son paralelas cuando siempre mantienen la misma distancia y nunca se se cruzan. Dos rectas son perpendiculares cuando se cruzan formando ángulos rectos.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los rieles de una vía de tren que nunca se tocan.",
+          "is_correct": true,
+          "feedback": "Los rieles mantienen la misma distancia y no se cruzan, así que son paralelos."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos paredes que se encuentran en la esquina de una habitación.",
+          "is_correct": false,
+          "feedback": "Las paredes en la esquina se cruzan en ángulo recto, son perpendiculares."
+        },
+        {
+          "letter": "C",
+          "text": "Las agujas del reloj a las tres en punto.",
+          "is_correct": false,
+          "feedback": "Las agujas forman un ángulo recto, no líneas paralelas."
+        },
+        {
+          "letter": "D",
+          "text": "La horizontal y la vertical en una hoja cuadriculada que se cruzan.",
+          "is_correct": false,
+          "feedback": "Esas líneas se cruzan en ángulo recto, son perpendiculares."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificar ejemplos de rectas paralelas en contextos reales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.71,
+      "bundle_id": "CO-MAT-5-2026-W08-angulos-rectas-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W08-angulos-rectas-001-MASTERY-bundle-v5",
+      "statement": "¿Qué tipo de ángulo forman las dos tiras que se cruzan en forma de \"L\"?",
+      "context": "En una cartulina, un estudiante pega dos tiras de papel que se cruzan formando una \"L\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un ángulo recto.",
+          "is_correct": true,
+          "feedback": "La forma de \"L\" representa dos segmentos que se encuentran a 90 grados."
+        },
+        {
+          "letter": "B",
+          "text": "Un ángulo agudo de 30 grados.",
+          "is_correct": false,
+          "feedback": "Un ángulo de 30° es más pequeño que una \"L\" formada por tiras perpendiculares."
+        },
+        {
+          "letter": "C",
+          "text": "Un ángulo obtuso de 150 grados.",
+          "is_correct": false,
+          "feedback": "Un ángulo obtuso mide más de 90°, no coincide con la \"L\"."
+        },
+        {
+          "letter": "D",
+          "text": "Un ángulo llano de 180 grados.",
+          "is_correct": false,
+          "feedback": "El ángulo llano corresponde a una línea recta, no a una \"L\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Relacionar la forma de \"L\" con la formación de un ángulo recto entre dos rectas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-MAT-5-2026-W08-angulos-rectas-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W08-angulos-rectas-001-MASTERY-bundle-v6",
+      "statement": "¿Qué diferencia fundamental existe entre las rectas paralelas y las perpendiculares?",
+      "context": "Compara: \"Dos rectas paralelas mantienen siempre la misma distancia y nunca se encuentran. Dos rectas perpendiculares se cruzan en un punto formando cuatro ángulos rectos.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las paralelas nunca se cruzan; las perpendiculares se cruzan formando ángulos rectos.",
+          "is_correct": true,
+          "feedback": "La diferencia clave es si se cruzan y el ángulo que forman al hacerlo."
+        },
+        {
+          "letter": "B",
+          "text": "Las paralelas se cruzan en ángulos rectos y las perpendiculares nunca se tocan.",
+          "is_correct": false,
+          "feedback": "Es al revés: las perpendiculares se cruzan en ángulo recto y las paralelas no se cruzan."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas se cruzan formando siempre ángulos rectos.",
+          "is_correct": false,
+          "feedback": "Solo las perpendiculares forman ángulos rectos al cruzarse."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas son exactamente iguales.",
+          "is_correct": false,
+          "feedback": "Las relaciones son distintas; por eso reciben nombres diferentes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar las propiedades de rectas paralelas y perpendiculares en el plano.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-5-2026-W08-angulos-rectas-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W08-angulos-rectas-001-MASTERY-bundle-v7",
+      "statement": "¿Qué relationship numérica existe entre un ángulo llano y dos ángulos rectos?",
+      "context": "Lee: \"Un ángulo llano mide 180 grados. Si se divide en dos partes iguales, cada parte mide 90 grados, que corresponde a un ángulo recto.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un ángulo llano equivale a la suma de dos ángulos rectos (180° = 90° + 90°).",
+          "is_correct": true,
+          "feedback": "90° + 90° = 180°, confirmando la equivalencia descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Un ángulo recto es mayor que un ángulo llano.",
+          "is_correct": false,
+          "feedback": "El ángulo recto (90°) es menor que el llano (180°)."
+        },
+        {
+          "letter": "C",
+          "text": "Dos ángulos rectos suman solo 90 grados.",
+          "is_correct": false,
+          "feedback": "Dos ángulos rectos suman 180°, no 90°."
+        },
+        {
+          "letter": "D",
+          "text": "Un ángulo llano mide 90 grados.",
+          "is_correct": false,
+          "feedback": "El ángulo llano mide 180°, no 90°."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la relación numérica entre el ángulo llano y los ángulos rectos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.52,
+      "bundle_id": "CO-MAT-5-2026-W08-angulos-rectas-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W08-angulos-rectas-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué es importante en la vida diaria reconocer y medir ángulos?",
+      "context": "Lee: 'Los ángulos y las rectas son fundamentales en arquitectura, diseño, ingeniería y arte. Saber medir e identificar ángulos permite construir estructuras seguras y crear composiciones visuales equilibradas.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque permite diseñar y construir objetos, estructuras y espacios con precisión y seguridad.",
+          "is_correct": true,
+          "feedback": "El uso de ángulos es clave en construcción, diseño y muchas profesiones técnicas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los ángulos solo aparecen en los libros de texto sin aplicación práctica.",
+          "is_correct": false,
+          "feedback": "Los ángulos tienen aplicaciones prácticas en muchos oficios y profesiones."
+        },
+        {
+          "letter": "C",
+          "text": "Porque medir ángulos no aporta ninguna ventaja a la sociedad.",
+          "is_correct": false,
+          "feedback": "Medir ángulos aporta precisión y seguridad en muchos contextos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque solo los matemáticos necesitan conocer sobre ángulos.",
+          "is_correct": false,
+          "feedback": "El conocimiento de ángulos es útil para muchas personas y profesiones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la importancia de los ángulos y las rectas para la vida cotidiana y diferentes profesiones.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.31,
+      "bundle_id": "CO-MAT-5-2026-W08-angulos-rectas-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

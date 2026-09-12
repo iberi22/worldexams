@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-7-grade-5-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T16:46:07.384Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-5-2026-W07-el-sonido-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es el sonido?",
+      "context": "En una clase de ciencias en Villavicencio, la profesora hace vibrar una cuerda de guitarra y pregunta qué se produce.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una vibración que se propaga por un medio material como el aire, el agua o los sólidos.",
+          "is_correct": true,
+          "feedback": "El sonido es una onda mecánica que necesita un medio para viajar."
+        },
+        {
+          "letter": "B",
+          "text": "Un tipo de luz que sale de los objetos.",
+          "is_correct": false,
+          "feedback": "El sonido no es luz, sino una vibración que se transmite por medios materiales."
+        },
+        {
+          "letter": "C",
+          "text": "Un gas que producen las personas al hablar.",
+          "is_correct": false,
+          "feedback": "El sonido no es un gas, sino la vibración que generan las cuerdas vocales."
+        },
+        {
+          "letter": "D",
+          "text": "Un olor que viaja por el aire.",
+          "is_correct": false,
+          "feedback": "El sonido no es olor; los olores son percibidos por otro sentido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender el concepto básico del sonido como vibración que se propaga por un medio.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Indagación",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-5-2026-W07-el-sonido-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W07-el-sonido-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué el sonido no se propaga en el espacio exterior como en la Tierra?",
+      "context": "Lee: \"En el espacio exterior no hay aire ni moléculas suficientes para que el sonido se transmita, por eso allí no se escuchan las explosiones de las estrellas.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el sonido necesita un medio material y en el espacio casi no hay moléculas que vibren.",
+          "is_correct": true,
+          "feedback": "El sonido requiere un medio con partículas; en el espacio exterior este es muy escaso."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los astronautas tienen los oídos tapados en el espacio.",
+          "is_correct": false,
+          "feedback": "El motivo es la falta de medio, no un problema en los oídos de los astronautas."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el sonido se transforma en luz en el espacio exterior.",
+          "is_correct": false,
+          "feedback": "El sonido no se convierte en luz; simplemente no encuentra un medio para propagarse."
+        },
+        {
+          "letter": "D",
+          "text": "Porque en el espacio exterior hace mucho frío y eso apaga el sonido.",
+          "is_correct": false,
+          "feedback": "La temperatura no apaga el sonido; lo esencial es la ausencia de un medio material."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Explicar por qué el sonido requiere un medio material para propagarse y no viaja en el vacío.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-5-2026-W07-el-sonido-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W07-el-sonido-001-MASTERY-bundle-v3",
+      "statement": "¿Qué ocurre cuando el sonido llega a un obstáculo como las manos o las paredes?",
+      "context": "Un estudiante se tapa los oídos y escucha menos los sonidos del salón de clase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parte del sonido se refleja o se absorbe, por lo que se escucha más débil al otro lado.",
+          "is_correct": true,
+          "feedback": "Los obstáculos reflejan y absorben parte del sonido, debilitándolo."
+        },
+        {
+          "letter": "B",
+          "text": "El sonido se vuelve más fuerte detrás del obstáculo.",
+          "is_correct": false,
+          "feedback": "El sonido no aumenta al pasar por un obstáculo, sino que disminuye."
+        },
+        {
+          "letter": "C",
+          "text": "El sonido se transforma completamente en luz al chocar.",
+          "is_correct": false,
+          "feedback": "El sonido no se convierte en luz al chocar con un objeto."
+        },
+        {
+          "letter": "D",
+          "text": "El sonido desaparece por completo sin importar el material del obstáculo.",
+          "is_correct": false,
+          "feedback": "Dependiendo del material, el sonido puede absorberse mucho o solo parcialmente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el concepto de reflexión y absorción del sonido al chocar con diferentes materiales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CN-5-2026-W07-el-sonido-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W07-el-sonido-001-MASTERY-bundle-v4",
+      "statement": "¿Por qué el estetoscopio permite escuchar sonidos muy suaves del cuerpo?",
+      "context": "Un médico usa un estetoscopio para escuchar los latidos del corazón de un paciente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque concentra y conduce las vibraciones sonoras desde el cuerpo hasta los oídos.",
+          "is_correct": true,
+          "feedback": "El estetoscopio canaliza el sonido y amplifica las vibraciones internas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque convierte el sonido del cuerpo en electricidad.",
+          "is_correct": false,
+          "feedback": "El estetoscopio no transforma el sonido en electricidad, solo lo conduce mejor."
+        },
+        {
+          "letter": "C",
+          "text": "Porque produce un sonido nuevo que tapa los latidos.",
+          "is_correct": false,
+          "feedback": "El estetoscopio no emite sonidos adicionales, solo recoge los del cuerpo."
+        },
+        {
+          "letter": "D",
+          "text": "Porque elimina todos los sonidos del ambiente.",
+          "is_correct": false,
+          "feedback": "El estetoscopio no elimina sonidos del ambiente, pero ayuda a focalizar los internos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la conducción del sonido en materiales sólidos para explicar el funcionamiento del estetoscopio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-5-2026-W07-el-sonido-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W07-el-sonido-001-MASTERY-bundle-v5",
+      "statement": "¿Por qué se puede escuchar el sonido debajo del agua?",
+      "context": "En una piscina, dos niños hablan debajo del agua y se escuchan claramente, aunque sus voces suenan diferentes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el agua es un medio material que permite la propagación de las vibraciones sonoras.",
+          "is_correct": true,
+          "feedback": "El agua transmite las vibraciones, aunque el sonido viaje más rápido que en el aire."
+        },
+        {
+          "letter": "B",
+          "text": "Porque bajo el agua la luz se convierte en sonido.",
+          "is_correct": false,
+          "feedback": "La luz no se convierte en sonido al sumergirse."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los oídos cambian de forma al estar mojados.",
+          "is_correct": false,
+          "feedback": "Los oídos no cambian de forma; lo importante es que el agua transmite el sonido."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el agua atrapa los rayos del Sol y los transforma en ruido.",
+          "is_correct": false,
+          "feedback": "Los rayos solares no se transforman en ruido dentro del agua."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer que el sonido puede propagarse por medios líquidos como el agua.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CN-5-2026-W07-el-sonido-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W07-el-sonido-001-MASTERY-bundle-v6",
+      "statement": "¿Qué relación hay entre la frecuencia de vibración y el tono del sonido?",
+      "context": "Compara: \"Un silbato produce un sonido agudo, y un tambor grande produce un sonido grave. El silbato tiene vibraciones rápidas; el tambor, vibraciones más lentas.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mayor frecuencia produce sonidos más agudos; menor frecuencia produce sonidos más graves.",
+          "is_correct": true,
+          "feedback": "La frecuencia alta genera tonos agudos y la baja genera tonos graves."
+        },
+        {
+          "letter": "B",
+          "text": "La frecuencia no influye en el tono del sonido.",
+          "is_correct": false,
+          "feedback": "La frecuencia es precisamente la propiedad que determina el tono."
+        },
+        {
+          "letter": "C",
+          "text": "Siempre que la frecuencia baja, el sonido es más agudo.",
+          "is_correct": false,
+          "feedback": "Cuando la frecuencia baja, el sonido se vuelve más grave, no más agudo."
+        },
+        {
+          "letter": "D",
+          "text": "Solo los instrumentos musicales cambian de tono, los demás sonidos no.",
+          "is_correct": false,
+          "feedback": "Cualquier sonido puede variar de tono según su frecuencia de vibración."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la relación entre la frecuencia de vibración y las cualidades del sonido (agudo o grave).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CN-5-2026-W07-el-sonido-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W07-el-sonido-001-MASTERY-bundle-v7",
+      "statement": "¿Qué consecuencia puede traer la contaminación sonora en las personas?",
+      "context": "Lee: \"La contaminación sonora es el exceso de sonido en el ambiente. Vivir cerca de aeropuertos o carreteras muy transitadas puede afectar la salud auditiva y el sueño.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pérdida de la capacidad auditiva, estrés y problemas para dormir o concentrarse.",
+          "is_correct": true,
+          "feedback": "El ruido constante puede dañar la audición y afectar la salud mental."
+        },
+        {
+          "letter": "B",
+          "text": "Mejora de la memoria y el aprendizaje.",
+          "is_correct": false,
+          "feedback": "La contaminación sonora no mejora la memoria ni el aprendizaje."
+        },
+        {
+          "letter": "C",
+          "text": "Aumento de la temperatura corporal.",
+          "is_correct": false,
+          "feedback": "La contaminación sonora no cambia la temperatura del cuerpo."
+        },
+        {
+          "letter": "D",
+          "text": "Crecimiento más rápido del cabello.",
+          "is_correct": false,
+          "feedback": "El ruido excesivo no tiene relación con el crecimiento del cabello."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar los efectos de la contaminación sonora en la salud humana y en la calidad de vida.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.52,
+      "bundle_id": "CO-CN-5-2026-W07-el-sonido-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W07-el-sonido-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la mejor forma de cuidar la salud auditiva frente al ruido?",
+      "context": "Lee: 'Proteger los oídos del ruido excesivo es fundamental para mantener una buena salud auditiva a lo largo de la vida. Usar protectores en ambientes ruidosos y mantener un volumen bajo en audífonos ayuda a prevenir daños.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usar protectores en lugares ruidosos y mantener bajo el volumen en audífonos y equipos de sonido.",
+          "is_correct": true,
+          "feedback": "Reducir la exposición y bajar el volumen protege los oídos del daño."
+        },
+        {
+          "letter": "B",
+          "text": "Escuchar música al máximo volumen siempre que se pueda.",
+          "is_correct": false,
+          "feedback": "El volumen alto es justamente la causa principal del daño auditivo."
+        },
+        {
+          "letter": "C",
+          "text": "Taparse los oídos con los dedos todo el día, incluso en silencio.",
+          "is_correct": false,
+          "feedback": "Taparse los oídos no es una estrategia realista ni saludable."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna acción es necesaria porque el oído se adapta solo.",
+          "is_correct": false,
+          "feedback": "El oído no se adapta solo al ruido excesivo; puede dañarse irreversiblemente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar estrategias prácticas para proteger la salud auditiva frente a la contaminación sonora.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.3,
+      "bundle_id": "CO-CN-5-2026-W07-el-sonido-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

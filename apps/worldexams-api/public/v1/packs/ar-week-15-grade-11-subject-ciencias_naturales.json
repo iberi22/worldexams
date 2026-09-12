@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "ar",
+    "pack_id": "ar-week-15-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T16:46:07.204Z"
+  },
+  "questions": [
+    {
+      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v1",
+      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $1\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
+      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 1.\n**ID:** AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v1\n**Bloom:** Remember\n**EJE:** Química Industrial y Ambiental\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2\\text{ moles de NH}_3$",
+          "is_correct": true,
+          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $1 \\cdot 2 = 2\\text{ moles}$."
+        },
+        {
+          "letter": "B",
+          "text": "$1\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
+        },
+        {
+          "letter": "C",
+          "text": "$3\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
+        },
+        {
+          "letter": "D",
+          "text": "$0,5\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 1\\text{ moles N}_2 \\cdot 2 = 2\\text{ moles de NH}_3$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v2",
+      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $2\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
+      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 2.\n**ID:** AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v2\n**Bloom:** Remember\n**EJE:** Química Industrial y Ambiental\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4\\text{ moles de NH}_3$",
+          "is_correct": true,
+          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $2 \\cdot 2 = 4\\text{ moles}$."
+        },
+        {
+          "letter": "B",
+          "text": "$2\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
+        },
+        {
+          "letter": "C",
+          "text": "$6\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
+        },
+        {
+          "letter": "D",
+          "text": "$0,5\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 2\\text{ moles N}_2 \\cdot 2 = 4\\text{ moles de NH}_3$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v3",
+      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $3\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
+      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 3.\n**ID:** AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v3\n**Bloom:** Understand\n**EJE:** Química Industrial y Ambiental\n**Expected_Success:** 0.86",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6\\text{ moles de NH}_3$",
+          "is_correct": true,
+          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $3 \\cdot 2 = 6\\text{ moles}$."
+        },
+        {
+          "letter": "B",
+          "text": "$3\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
+        },
+        {
+          "letter": "C",
+          "text": "$9\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
+        },
+        {
+          "letter": "D",
+          "text": "$0,5\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 3\\text{ moles N}_2 \\cdot 2 = 6\\text{ moles de NH}_3$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.86,
+      "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v4",
+      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $4\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
+      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 4.\n**ID:** AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v4\n**Bloom:** Understand\n**EJE:** Química Industrial y Ambiental\n**Expected_Success:** 0.84",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$8\\text{ moles de NH}_3$",
+          "is_correct": true,
+          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $4 \\cdot 2 = 8\\text{ moles}$."
+        },
+        {
+          "letter": "B",
+          "text": "$4\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
+        },
+        {
+          "letter": "C",
+          "text": "$12\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
+        },
+        {
+          "letter": "D",
+          "text": "$0,5\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 4\\text{ moles N}_2 \\cdot 2 = 8\\text{ moles de NH}_3$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v5",
+      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $5\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
+      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 5.\n**ID:** AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v5\n**Bloom:** Understand\n**EJE:** Química Industrial y Ambiental\n**Expected_Success:** 0.82",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10\\text{ moles de NH}_3$",
+          "is_correct": true,
+          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $5 \\cdot 2 = 10\\text{ moles}$."
+        },
+        {
+          "letter": "B",
+          "text": "$5\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
+        },
+        {
+          "letter": "C",
+          "text": "$15\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
+        },
+        {
+          "letter": "D",
+          "text": "$0,5\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 5\\text{ moles N}_2 \\cdot 2 = 10\\text{ moles de NH}_3$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v6",
+      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $6\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
+      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 6.\n**ID:** AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v6\n**Bloom:** Apply\n**EJE:** Química Industrial y Ambiental\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$12\\text{ moles de NH}_3$",
+          "is_correct": true,
+          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $6 \\cdot 2 = 12\\text{ moles}$."
+        },
+        {
+          "letter": "B",
+          "text": "$6\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
+        },
+        {
+          "letter": "C",
+          "text": "$18\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
+        },
+        {
+          "letter": "D",
+          "text": "$0,5\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 6\\text{ moles N}_2 \\cdot 2 = 12\\text{ moles de NH}_3$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v7",
+      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $7\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
+      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 7.\n**ID:** AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v7\n**Bloom:** Apply\n**EJE:** Química Industrial y Ambiental\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$14\\text{ moles de NH}_3$",
+          "is_correct": true,
+          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $7 \\cdot 2 = 14\\text{ moles}$."
+        },
+        {
+          "letter": "B",
+          "text": "$7\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
+        },
+        {
+          "letter": "C",
+          "text": "$21\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
+        },
+        {
+          "letter": "D",
+          "text": "$0,5\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 7\\text{ moles N}_2 \\cdot 2 = 14\\text{ moles de NH}_3$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v8",
+      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $8\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
+      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 8.\n**ID:** AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v8\n**Bloom:** Apply\n**EJE:** Química Industrial y Ambiental\n**Expected_Success:** 0.76",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$16\\text{ moles de NH}_3$",
+          "is_correct": true,
+          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $8 \\cdot 2 = 16\\text{ moles}$."
+        },
+        {
+          "letter": "B",
+          "text": "$8\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
+        },
+        {
+          "letter": "C",
+          "text": "$24\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
+        },
+        {
+          "letter": "D",
+          "text": "$0,5\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 8\\text{ moles N}_2 \\cdot 2 = 16\\text{ moles de NH}_3$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.76,
+      "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v9",
+      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $9\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
+      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 9.\n**ID:** AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v9\n**Bloom:** Apply\n**EJE:** Química Industrial y Ambiental\n**Expected_Success:** 0.74",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$18\\text{ moles de NH}_3$",
+          "is_correct": true,
+          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $9 \\cdot 2 = 18\\text{ moles}$."
+        },
+        {
+          "letter": "B",
+          "text": "$9\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
+        },
+        {
+          "letter": "C",
+          "text": "$27\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
+        },
+        {
+          "letter": "D",
+          "text": "$0,5\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 9\\text{ moles N}_2 \\cdot 2 = 18\\text{ moles de NH}_3$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.74,
+      "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v10",
+      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $10\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
+      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 10.\n**ID:** AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v10\n**Bloom:** Apply\n**EJE:** Química Industrial y Ambiental\n**Expected_Success:** 0.72",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$20\\text{ moles de NH}_3$",
+          "is_correct": true,
+          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $10 \\cdot 2 = 20\\text{ moles}$."
+        },
+        {
+          "letter": "B",
+          "text": "$10\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
+        },
+        {
+          "letter": "C",
+          "text": "$30\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
+        },
+        {
+          "letter": "D",
+          "text": "$0,5\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 10\\text{ moles N}_2 \\cdot 2 = 20\\text{ moles de NH}_3$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v11",
+      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $11\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
+      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 11.\n**ID:** AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v11\n**Bloom:** Analyze\n**EJE:** Química Industrial y Ambiental\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$22\\text{ moles de NH}_3$",
+          "is_correct": true,
+          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $11 \\cdot 2 = 22\\text{ moles}$."
+        },
+        {
+          "letter": "B",
+          "text": "$11\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
+        },
+        {
+          "letter": "C",
+          "text": "$33\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
+        },
+        {
+          "letter": "D",
+          "text": "$0,5\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 11\\text{ moles N}_2 \\cdot 2 = 22\\text{ moles de NH}_3$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v12",
+      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $12\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
+      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 12.\n**ID:** AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v12\n**Bloom:** Analyze\n**EJE:** Química Industrial y Ambiental\n**Expected_Success:** 0.68",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$24\\text{ moles de NH}_3$",
+          "is_correct": true,
+          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $12 \\cdot 2 = 24\\text{ moles}$."
+        },
+        {
+          "letter": "B",
+          "text": "$12\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
+        },
+        {
+          "letter": "C",
+          "text": "$36\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
+        },
+        {
+          "letter": "D",
+          "text": "$0,5\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 12\\text{ moles N}_2 \\cdot 2 = 24\\text{ moles de NH}_3$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.68,
+      "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v13",
+      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $13\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
+      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 13.\n**ID:** AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v13\n**Bloom:** Analyze\n**EJE:** Química Industrial y Ambiental\n**Expected_Success:** 0.66",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$26\\text{ moles de NH}_3$",
+          "is_correct": true,
+          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $13 \\cdot 2 = 26\\text{ moles}$."
+        },
+        {
+          "letter": "B",
+          "text": "$13\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
+        },
+        {
+          "letter": "C",
+          "text": "$39\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
+        },
+        {
+          "letter": "D",
+          "text": "$0,5\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 13\\text{ moles N}_2 \\cdot 2 = 26\\text{ moles de NH}_3$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.66,
+      "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v14",
+      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $14\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
+      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 14.\n**ID:** AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v14\n**Bloom:** Analyze\n**EJE:** Química Industrial y Ambiental\n**Expected_Success:** 0.64",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$28\\text{ moles de NH}_3$",
+          "is_correct": true,
+          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $14 \\cdot 2 = 28\\text{ moles}$."
+        },
+        {
+          "letter": "B",
+          "text": "$14\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
+        },
+        {
+          "letter": "C",
+          "text": "$42\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
+        },
+        {
+          "letter": "D",
+          "text": "$0,5\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 14\\text{ moles N}_2 \\cdot 2 = 28\\text{ moles de NH}_3$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.64,
+      "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v15",
+      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $15\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
+      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 15.\n**ID:** AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v15\n**Bloom:** Apply\n**EJE:** Química Industrial y Ambiental\n**Expected_Success:** 0.62",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$30\\text{ moles de NH}_3$",
+          "is_correct": true,
+          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $15 \\cdot 2 = 30\\text{ moles}$."
+        },
+        {
+          "letter": "B",
+          "text": "$15\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
+        },
+        {
+          "letter": "C",
+          "text": "$45\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
+        },
+        {
+          "letter": "D",
+          "text": "$0,5\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 15\\text{ moles N}_2 \\cdot 2 = 30\\text{ moles de NH}_3$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v16",
+      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $16\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
+      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 16.\n**ID:** AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v16\n**Bloom:** Analyze\n**EJE:** Química Industrial y Ambiental\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$32\\text{ moles de NH}_3$",
+          "is_correct": true,
+          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $16 \\cdot 2 = 32\\text{ moles}$."
+        },
+        {
+          "letter": "B",
+          "text": "$16\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
+        },
+        {
+          "letter": "C",
+          "text": "$48\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
+        },
+        {
+          "letter": "D",
+          "text": "$0,5\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 16\\text{ moles N}_2 \\cdot 2 = 32\\text{ moles de NH}_3$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v17",
+      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $17\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
+      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 17.\n**ID:** AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v17\n**Bloom:** Evaluate\n**EJE:** Química Industrial y Ambiental\n**Expected_Success:** 0.58",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$34\\text{ moles de NH}_3$",
+          "is_correct": true,
+          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $17 \\cdot 2 = 34\\text{ moles}$."
+        },
+        {
+          "letter": "B",
+          "text": "$17\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
+        },
+        {
+          "letter": "C",
+          "text": "$51\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
+        },
+        {
+          "letter": "D",
+          "text": "$0,5\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 17\\text{ moles N}_2 \\cdot 2 = 34\\text{ moles de NH}_3$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.58,
+      "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v18",
+      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $18\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
+      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 18.\n**ID:** AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v18\n**Bloom:** Evaluate\n**EJE:** Química Industrial y Ambiental\n**Expected_Success:** 0.56",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$36\\text{ moles de NH}_3$",
+          "is_correct": true,
+          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $18 \\cdot 2 = 36\\text{ moles}$."
+        },
+        {
+          "letter": "B",
+          "text": "$18\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
+        },
+        {
+          "letter": "C",
+          "text": "$54\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
+        },
+        {
+          "letter": "D",
+          "text": "$0,5\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 18\\text{ moles N}_2 \\cdot 2 = 36\\text{ moles de NH}_3$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.56,
+      "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v19",
+      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $19\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
+      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 19.\n**ID:** AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v19\n**Bloom:** Evaluate\n**EJE:** Química Industrial y Ambiental\n**Expected_Success:** 0.54",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$38\\text{ moles de NH}_3$",
+          "is_correct": true,
+          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $19 \\cdot 2 = 38\\text{ moles}$."
+        },
+        {
+          "letter": "B",
+          "text": "$19\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
+        },
+        {
+          "letter": "C",
+          "text": "$57\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
+        },
+        {
+          "letter": "D",
+          "text": "$0,5\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 19\\text{ moles N}_2 \\cdot 2 = 38\\text{ moles de NH}_3$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.54,
+      "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v20",
+      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $20\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
+      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 20.\n**ID:** AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v20\n**Bloom:** Evaluate\n**EJE:** Química Industrial y Ambiental\n**Expected_Success:** 0.52",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$40\\text{ moles de NH}_3$",
+          "is_correct": true,
+          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $20 \\cdot 2 = 40\\text{ moles}$."
+        },
+        {
+          "letter": "B",
+          "text": "$20\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
+        },
+        {
+          "letter": "C",
+          "text": "$60\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
+        },
+        {
+          "letter": "D",
+          "text": "$0,5\\text{ moles de NH}_3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 20\\text{ moles N}_2 \\cdot 2 = 40\\text{ moles de NH}_3$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.52,
+      "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    }
+  ]
+}

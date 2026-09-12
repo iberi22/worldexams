@@ -8,88 +8,43 @@
   },
   "questions": [
     {
-      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v1",
-      "statement": "Lea el siguiente fragmento: 'El ferrocarril transandino ecuatoriano, obra impulsada por el general Eloy Alfaro, conectó de forma definitiva las ciudades de Guayaquil y Quito en el año 1908, transformando la economía de Manta'. Según el texto, ¿en qué año se conectaron estas dos ciudades?",
-      "context": "Valentina, estudiante de 11° de Bachillerato en el Colegio Benigno Malo de Manta, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
+      "id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle-v1",
+      "statement": "Medardo Ángel Silva (1898-1919) es recordado en la historia literaria ecuatoriana principalmente por ser",
+      "context": "Un estudiante de BGU de un colegio de Guayaquil repasa la poesía ecuatoriana del siglo XX antes de un foro literario.",
       "options": [
         {
           "letter": "A",
-          "text": "En el año 2008 tras la reconstrucción moderna en Manta.",
+          "text": "un narrador de la novela indigenista de la Sierra, autor de relatos sobre haciendas andinas.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Silva no fue narrador indigenista; su obra pertenece a la poesía de Guayaquil y su libro central es La calle de la vida vagabunda."
         },
         {
           "letter": "B",
-          "text": "En el año 1908.",
+          "text": "un poeta vinculado al grupo de Los Decapitadores, autor de La calle de la vida vagabunda, que murió joven en 1919.",
           "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "feedback": "Correcto. Silva es la figura más emblemática de Los Decapitadores y murió muy joven en 1919."
         },
         {
           "letter": "C",
-          "text": "Durante la época colonial del siglo XVIII en Manta.",
+          "text": "un diplomático y ensayista que representó al Ecuador en organismos internacionales durante los años treinta.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Esa descripción se acerca más a otras figuras intelectuales; Silva fue poeta bohemio y murió en 1919, cuando no podía desempeñar ese rol."
         },
         {
           "letter": "D",
-          "text": "A mediados del siglo XIX por Gabriel García Moreno en el Colegio Benigno Malo.",
+          "text": "un dramaturgo quiteño fundador del teatro nacional moderno del siglo XX.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Silva no cultivó el teatro ni vivió en Quito; su entorno fue la Guayaquil bohemio de comienzos de siglo."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La respuesta se encuentra explícita en el fragmento textual de manera directa: 'en el año 1908'.\n\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.9,
-      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v2",
-      "statement": "Considere este texto: 'Camila, estudiante del Colegio Nacional Bolívar en Loja, obtuvo una beca completa de estudios científicos tras desarrollar un filtro purificador de agua que remueve metales pesados utilizando cáscara de coco'. De acuerdo con el fragmento, ¿qué materia prima utilizó Camila para construir su filtro?",
-      "context": "Camila, estudiante de 11° de Bachillerato en el Colegio Nacional Bolívar de Loja, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Cáscara de coco.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "B",
-          "text": "Fibras sintéticas de poliéster de Loja.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "Carbón mineral activado importado por el Colegio Nacional Bolívar.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "Arena sílica del río de Loja.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "El texto indica de manera literal e inequívoca el insumo natural empleado: 'utilizando cáscara de coco'.\n\n---",
+      "explanation": "Medardo Ángel Silva (1898-1919) es el poeta más conocido de Los Decapitadores, grupo bohemio de Guayaquil. Su libro La calle de la vida vagabunda y su muerte temprana lo convirtieron en mito de la literatura ecuatoriana.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.88,
-      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
+      "expected_success": 0.85,
+      "bundle_id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -98,88 +53,43 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v3",
-      "statement": "Lea el extracto: 'La literatura modernista del Ecuador tuvo como principales referentes a los jóvenes poetas de la Generación Decapitada, quienes se inspiraron en el simbolismo francés y fallecieron a temprana edad en Riobamba'. ¿De qué corriente europea recibieron inspiración directa estos poetas según el texto?",
-      "context": "Santiago, estudiante de 11° de Bachillerato en el Unidad Educativa Santo Domingo de Riobamba, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
+      "id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle-v2",
+      "statement": "El grupo de poetas bohemios guayaquileños de los años veinte, al que pertenecieron Medardo Ángel Silva y Hugo Mayo, autor este último de Ceniza, se conoce con el nombre de",
+      "context": "Una estudiante de BGU de Quito prepara una línea de tiempo de los movimientos poéticos ecuatorianos para una exposición.",
       "options": [
         {
           "letter": "A",
-          "text": "Del neoclasicismo español tradicional en Riobamba.",
+          "text": "Los Contemporáneos, grupo parisino que renovó el soneto francés.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "El grupo no fue parisino ni francófono; se formó en Guayaquil y su repercusión pertenece a la historia literaria del Ecuador."
         },
         {
           "letter": "B",
-          "text": "Del simbolismo francés.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "La GENERACIÓN del Matricidio, agrupación de novelistas reales.",
+          "is_correct": false,
+          "feedback": "Ese rótulo no corresponde al grupo de Silva y Mayo; la denominación canónica es otra y alude a un episodio de protesta estudiantil."
         },
         {
           "letter": "C",
-          "text": "Del romanticismo inglés medieval en Riobamba.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "Del realismo mágico latinoamericano en el Unidad Educativa Santo Domingo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La información está expresada textualmente: 'quienes se inspiraron en el simbolismo francés'.\n\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.86,
-      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v4",
-      "statement": "Considere el anuncio: 'La empresa municipal de Ibarra suspenderá el servicio de agua en los sectores de El Vecino y San Sebastián el día martes desde las 14:00 por reparación de tuberías en Colegio Nacional Manta'. ¿En qué sectores de la ciudad ocurrirá la suspensión?",
-      "context": "Alejandro, estudiante de 11° de Bachillerato en el Colegio Nacional Manta de Ibarra, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "En toda la provincia de Ibarra de forma indefinida.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "Únicamente en el sector industrial cerca del Colegio Nacional Manta.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "En el centro histórico de Quito y Guayaquil y Ibarra.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "En El Vecino y San Sebastián.",
+          "text": "Los Decapitadores, colectivamente recordados a partir de un episodio de protesta en un liceo de Guayaquil.",
           "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "feedback": "Correcto. El nombre del grupo quedó ligado a un acto simbólico de protesta en un centro educativo guayaquileño."
+        },
+        {
+          "letter": "D",
+          "text": "Los Realistas de la Costa, movimiento dedicado a la novela costumbrista.",
+          "is_correct": false,
+          "feedback": "El grupo cultivó poesía, no novela costumbrista; su perfil era bohemio y vanguardista en tonos menores."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La respuesta requiere identificar datos explícitos del texto: los sectores nombrados son 'El Vecino y San Sebastián'.\n\n---",
+      "correct_answer": "C",
+      "explanation": "Los Decapitadores fueron un grupo bohemio de Guayaquil de los años veinte. Medardo Ángel Silva y Hugo Mayo (Ceniza) forman parte de su historia. El nombre evoca un episodio de rebeldía juvenil que marcó su leyenda.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.84,
-      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -188,88 +98,43 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v5",
-      "statement": "Lea: 'La mariposa monarca recorre más de 4000 kilómetros desde Canadá hasta México para reproducirse en los bosques de oyamel antes de llegar a Portoviejo'. ¿Qué distancia total recorre la mariposa monarca en su migración según el fragmento?",
-      "context": "Gabriela, estudiante de 11° de Bachillerato en el Colegio Nacional Bernardo Valdivieso de Portoviejo, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
+      "id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle-v3",
+      "statement": "A Jorge Carrera Andrade (1903-1978), autor de Canto ritual (1927), se lo llama con frecuencia \"poeta de lo cotidiano\" porque",
+      "context": "Un curso de BGU en Cuenca lee fragmentos de distintos poetas ecuatorianos y discute sus rasgos comunes.",
       "options": [
         {
           "letter": "A",
-          "text": "Una distancia insignificante que no requiere esfuerzo en Portoviejo.",
+          "text": "escribía solo sobre temas rurales y abandonó por completo la vida de las ciudades.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Lo cotidiano no equivale a lo rural; Carrera Andrade también transformó en poesía objetos y gestos de la vida moderna."
         },
         {
           "letter": "B",
-          "text": "Más de 4000 kilómetros.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "usaba un lenguaje soez y versiones coloquiales de refranes populares.",
+          "is_correct": false,
+          "feedback": "Su celebración de lo cotidiano no se basa en el lenguaje soez, sino en una imaginería refinada aplicada a objetos comunes."
         },
         {
           "letter": "C",
-          "text": "Menos de 1000 metros a lo largo del bosque de Portoviejo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "Exactamente 500 millas náuticas sobre el océano cerca de Colegio Nacional Bernardo Valdivieso.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La distancia recorrida se menciona de manera directa en el texto literal: 'más de 4000 kilómetros'.\n\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.82,
-      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v6",
-      "statement": "Lea el siguiente fragmento: 'El ferrocarril transandino ecuatoriano, obra impulsada por el general Eloy Alfaro, conectó de forma definitiva las ciudades de Guayaquil y Quito en el año 1908, transformando la economía de Machala'. Según el texto, ¿en qué año se conectaron estas dos ciudades?",
-      "context": "David, estudiante de 11° de Bachillerato en el Colegio Nacional Nueve de Octubre de Machala, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "En el año 2008 tras la reconstrucción moderna en Machala.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "En el año 1908.",
+          "text": "convertía en materia poética objetos, gestos y fenómenos ordinarios, con un imaginerío centrado en el tiempo y el espacio.",
           "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "C",
-          "text": "Durante la época colonial del siglo XVIII en Machala.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Correcto. Su aporte fue elevar lo mínimo y cotidiano a categoría lírica, con constante reflexión sobre el tiempo y el espacio."
         },
         {
           "letter": "D",
-          "text": "A mediados del siglo XIX por Gabriel García Moreno en el Colegio Nacional Nueve de Octubre.",
+          "text": "publicó exclusivamente en diarios populares textos breves de ocasión.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "La publicación periodística no define su apodo; ser \"poeta de lo cotidiano\" alude al contenido y a las imágenes de su lírica."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La respuesta se encuentra explícita en el fragmento textual de manera directa: 'en el año 1908'.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "Carrera Andrade renovó la poesía ecuatoriana al hacer del mundo cotidiano su materia lírica. Su imaginerío sobre el tiempo y el espacio lo consolidó como una de las voces mayores del siglo XX ecuatoriano.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
       "expected_success": 0.8,
-      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
+      "bundle_id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -278,43 +143,43 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v7",
-      "statement": "Considere este texto: 'Elena, estudiante del Colegio Nacional Maldonado en Esmeraldas, obtuvo una beca completa de estudios científicos tras desarrollar un filtro purificador de agua que remueve metales pesados utilizando cáscara de coco'. De acuerdo con el fragmento, ¿qué materia prima utilizó Elena para construir su filtro?",
-      "context": "Elena, estudiante de 11° de Bachillerato en el Colegio Nacional Maldonado de Esmeraldas, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
+      "id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle-v4",
+      "statement": "Cuando se afirma que la poesía contemporánea suele escribirse en verso libre, se significa que el poema",
+      "context": "En un colegio de Guayaquil, una docente explica los rasgos formales de la poesía contemporánea antes de un taller de escritura.",
       "options": [
         {
           "letter": "A",
-          "text": "Cáscara de coco.",
+          "text": "prescinde de la medida y la rima fijas y organiza su ritmo por otros recursos, como reiteraciones y pausas.",
           "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "feedback": "Correcto. El verso libre abandona el esquema métrico y rímico regular, pero conserva ritmos construidos con repeticiones, acentos y cortes."
         },
         {
           "letter": "B",
-          "text": "Fibras sintéticas de poliéster de Esmeraldas.",
+          "text": "se escribe como si fuera un párrafo de prosa, sin ningún tipo de cortes de línea.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Esa es la prosa poética o el poema en prosa; el verso libre sí mantiene la disposición en versos, aunque sin metro fijo."
         },
         {
           "letter": "C",
-          "text": "Carbón mineral activado importado por el Colegio Nacional Maldonado.",
+          "text": "rima siempre en consonante pero alterna versos de distinto largo.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Mantener rima consonante fija contradice la noción de verso libre, que se define precisamente por la ausencia de esquema externo regular."
         },
         {
           "letter": "D",
-          "text": "Arena sílica del río de Esmeraldas.",
+          "text": "sigue obligatoriamente la estructura de un soneto clásico.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "El soneto es una forma fija; el verso libre surge justamente para romper ese tipo de moldes heredados."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El texto indica de manera literal e inequívoca el insumo natural empleado: 'utilizando cáscara de coco'.\n\n---",
-      "difficulty": "5",
+      "explanation": "El verso libre es el rasgo formal más extendido de la poesía contemporánea. No implica ausencia de ritmo: este se construye con recursos internos como la repetición, la sintaxis y la disposición visual del texto.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.78,
-      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -323,133 +188,43 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v8",
-      "statement": "Lea el extracto: 'La literatura modernista del Ecuador tuvo como principales referentes a los jóvenes poetas de la Generación Decapitada, quienes se inspiraron en el simbolismo francés y fallecieron a temprana edad en Santo Domingo'. ¿De qué corriente europea recibieron inspiración directa estos poetas según el texto?",
-      "context": "Diana, estudiante de 11° de Bachillerato en el Colegio Nacional Olmedo de Santo Domingo, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
+      "id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle-v5",
+      "statement": "Lee estos versos de un poema inédito de un estudiante:\n\nEn el mercado de la Loma\nel ruido huele a lluvia vieja\ny alguien vende minutos verdes.\n\nLa figura que domina en \"el ruido huele a lluvia vieja\" es",
+      "context": "Un estudiante de BGU de Quito analiza un micro-texto poético escrito en clase, de autoría anónima, para identificar figuras.",
       "options": [
         {
           "letter": "A",
-          "text": "Del neoclasicismo español tradicional en Santo Domingo.",
+          "text": "una hipérbole, porque se exagera el volumen del ruido del mercado.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "No hay exageración de una magnitud; hay mezcla de sensaciones de distinto sentido, que es otro recurso."
         },
         {
           "letter": "B",
-          "text": "Del simbolismo francés.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "una comparación, porque se compara el ruido con la lluvia usando un nexo explícito.",
+          "is_correct": false,
+          "feedback": "No aparece nexo comparativo como \"como\" o \"cual\"; además, el efecto se basa en cruzar sentidos, no en parecer."
         },
         {
           "letter": "C",
-          "text": "Del romanticismo inglés medieval en Santo Domingo.",
+          "text": "una anáfora, porque hay repetición de palabras al inicio de los versos.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "La anáfora es repetición léxica en posición inicial de versos; aquí el verso destacado no repite ninguna palabra."
         },
         {
           "letter": "D",
-          "text": "Del realismo mágico latinoamericano en el Colegio Nacional Olmedo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La información está expresada textualmente: 'quienes se inspiraron en el simbolismo francés'.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.76,
-      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v9",
-      "statement": "Considere el anuncio: 'La empresa municipal de Quito suspenderá el servicio de agua en los sectores de El Vecino y San Sebastián el día martes desde las 14:00 por reparación de tuberías en Colegio Nacional Mejía'. ¿En qué sectores de la ciudad ocurrirá la suspensión?",
-      "context": "Carlos, estudiante de 11° de Bachillerato en el Colegio Nacional Mejía de Quito, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "En toda la provincia de Quito de forma indefinida.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "Únicamente en el sector industrial cerca del Colegio Nacional Mejía.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "En el centro histórico de Quito y Guayaquil y Quito.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "En El Vecino y San Sebastián.",
+          "text": "una sinestesía, porque atribuye una cualidad olfativa (\"huele\") a una percepción auditiva (\"el ruido\").",
           "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "feedback": "Correcto. Cruzar los sentidos, dando olor a un sonido, es el procedimiento clásico de la sinestesía."
         }
       ],
       "correct_answer": "D",
-      "explanation": "La respuesta requiere identificar datos explícitos del texto: los sectores nombrados son 'El Vecino y San Sebastián'.\n\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.74,
-      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v10",
-      "statement": "Lea: 'La mariposa monarca recorre más de 4000 kilómetros desde Canadá hasta México para reproducirse en los bosques de oyamel antes de llegar a Guayaquil'. ¿Qué distancia total recorre la mariposa monarca en su migración según el fragmento?",
-      "context": "Rafael, estudiante de 11° de Bachillerato en el Colegio Nacional Vicente Rocafuerte de Guayaquil, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Una distancia insignificante que no requiere esfuerzo en Guayaquil.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "Más de 4000 kilómetros.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "C",
-          "text": "Menos de 1000 metros a lo largo del bosque de Guayaquil.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "Exactamente 500 millas náuticas sobre el océano cerca de Colegio Nacional Vicente Rocafuerte.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La distancia recorrida se menciona de manera directa en el texto literal: 'más de 4000 kilómetros'.\n\n---",
+      "explanation": "La sinestesía transfiere cualidades de un sentido a otro: aquí el ruido \"huele\". Es un recurso muy productivo en la poesía contemporánea para renovar la percepción de escenas urbanas cotidianas.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.72,
-      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
+      "expected_success": 0.75,
+      "bundle_id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -458,43 +233,88 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v11",
-      "statement": "Lea el siguiente fragmento: 'El ferrocarril transandino ecuatoriano, obra impulsada por el general Eloy Alfaro, conectó de forma definitiva las ciudades de Guayaquil y Quito en el año 1908, transformando la economía de Cuenca'. Según el texto, ¿en qué año se conectaron estas dos ciudades?",
-      "context": "Andrés, estudiante de 11° de Bachillerato en el Colegio Benigno Malo de Cuenca, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
+      "id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle-v6",
+      "statement": "Lee estos versos de un poema inédito, sin autoría real:\n\nMi tiza guardó el polvo de todas\nlas mañanas que borraron la pizarra:\nun invierno blanco cabe en mi mano.\n\nEl recurso que construye la imagen principal consiste en",
+      "context": "Un grupo de BGU de Guayaquil comenta micro-textos originales que imitan el gusto por los objetos cotidianos de la tradición de Carrera Andrade.",
       "options": [
         {
           "letter": "A",
-          "text": "En el año 2008 tras la reconstrucción moderna en Cuenca.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "text": "materializar un concepto abstracto (el tiempo de las mañanas) en un objeto cotidiano y su polvo.",
+          "is_correct": true,
+          "feedback": "Correcto. El poema convierte el paso del tiempo en polvo de tiza medible y manejable, gesto típico de la poesía de lo cotidiano."
         },
         {
           "letter": "B",
-          "text": "En el año 1908.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "enumerar caóticamente objetos escolares sin relación entre sí.",
+          "is_correct": false,
+          "feedback": "Los elementos no están yuxtapuestos al azar: todos se organizan en torno a una misma imagen del tiempo acumulado."
         },
         {
           "letter": "C",
-          "text": "Durante la época colonial del siglo XVIII en Cuenca.",
+          "text": "usar una onomatopeya que imita el sonido de la tiza sobre la pizarra.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "No hay palabras que imiten sonidos; el efecto se construye por asociación de imágenes, no por sonido."
         },
         {
           "letter": "D",
-          "text": "A mediados del siglo XIX por Gabriel García Moreno en el Colegio Benigno Malo.",
+          "text": "emplear un hipérbaton que altera violentamente todo el orden sintáctico del poema.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "La sintaxis es bastante ordenada; el interés del texto está en su imaginería, no en un desplazamiento sintáctico."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La respuesta se encuentra explícita en el fragmento textual de manera directa: 'en el año 1908'.\n\n---",
-      "difficulty": "7",
+      "correct_answer": "A",
+      "explanation": "La poesía de lo cotidiano, herencia de Carrera Andrade, toma objetos mínimos (una tiza, su polvo) y los carga de sentido temporal. \"Un invierno cabe en la mano\" condensa el tiempo vivido en materia tangible.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle-v7",
+      "statement": "Lee estos versos de un poema inédito de una estudiante:\n\nMira, güira, este microbús\nya no arranca: tose, rezonga\ny seguimos igual de apurados.\n\nEl rasgo que le da tono coloquial al poema es",
+      "context": "En un taller de escritura de un colegio de Quito, una estudiante analiza por qué un micro-poema le resulta cercano y hablado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "el uso de términos arcaicos recuperados del español del Siglo de Oro.",
+          "is_correct": false,
+          "feedback": "El texto no emplea arcaísmos; al contrario, usa palabras del habla actual de la calle."
+        },
+        {
+          "letter": "B",
+          "text": "la aparición de una estructura de soneto con serventesios perfectos.",
+          "is_correct": false,
+          "feedback": "No hay soneto ni estrofas fijadas; la forma es libre y el análisis pide atender al registro, no a la estrofa."
+        },
+        {
+          "letter": "C",
+          "text": "la voz que se dirige a un interlocutor presente (\"Mira, güira\") y el léxico del habla urbana cotidiana.",
+          "is_correct": true,
+          "feedback": "Correcto. La apelación directa y palabras como \"microbús\" o «güira», voz del habla local, producen el efecto de habla coloquial."
+        },
+        {
+          "letter": "D",
+          "text": "la explicación técnica y precisa del funcionamiento del motor del bus.",
+          "is_correct": false,
+          "feedback": "El bus \"tose\" y \"rezonga\" en clave metafórica y conversacional; no hay descripción técnica alguna."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El tono coloquial acerca el poema a la oralidad: imperativos de llamado, vocativos y léxico urbano. La poesía contemporánea ecuatoriana explota este registro para incluir la ciudad hablada en el texto.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
       "expected_success": 0.7,
-      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
+      "bundle_id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -503,133 +323,178 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v12",
-      "statement": "Considere este texto: 'Estefanía, estudiante del Colegio Nacional Bolívar en Ambato, obtuvo una beca completa de estudios científicos tras desarrollar un filtro purificador de agua que remueve metales pesados utilizando cáscara de coco'. De acuerdo con el fragmento, ¿qué materia prima utilizó Estefanía para construir su filtro?",
-      "context": "Estefanía, estudiante de 11° de Bachillerato en el Colegio Nacional Bolívar de Ambato, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
+      "id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle-v8",
+      "statement": "En la poesía ecuatoriana contemporánea, la experimentación con el existograma, forma breve asociada al trabajo del poeta Alfonso Chase, se caracteriza principalmente por",
+      "context": "Un estudiante de BGU de Cuenca investiga la experimentación formal en la poesía ecuatoriana reciente.",
       "options": [
         {
           "letter": "A",
-          "text": "Cáscara de coco.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "su extensión de cientos de versos con estructura narrativa completa.",
+          "is_correct": false,
+          "feedback": "El existograma es una forma breve y concentrada; lo dilatado y narrativo pertenece a otros géneros."
         },
         {
           "letter": "B",
-          "text": "Fibras sintéticas de poliéster de Ambato.",
+          "text": "su sometimiento estricto a la rima consonante del romancero.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "No depende de la rima del romancero; es una pieza de corte experimental y libre."
         },
         {
           "letter": "C",
-          "text": "Carbón mineral activado importado por el Colegio Nacional Bolívar.",
+          "text": "su origen en la lírica provenzal medieval con tenzones de dos trovadores.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "La procedencia provenzal no corresponde al existograma, una invención de la experimentación poética contemporánea hispanoamericana."
         },
         {
           "letter": "D",
-          "text": "Arena sílica del río de Ambato.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "El texto indica de manera literal e inequívoca el insumo natural empleado: 'utilizando cáscara de coco'.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.68,
-      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v13",
-      "statement": "Lea el extracto: 'La literatura modernista del Ecuador tuvo como principales referentes a los jóvenes poetas de la Generación Decapitada, quienes se inspiraron en el simbolismo francés y fallecieron a temprana edad en Manta'. ¿De qué corriente europea recibieron inspiración directa estos poetas según el texto?",
-      "context": "Ana, estudiante de 11° de Bachillerato en el Unidad Educativa Santo Domingo de Manta, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Del neoclasicismo español tradicional en Manta.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "Del simbolismo francés.",
+          "text": "la condensación extrema: una imagen o idea capturada en muy pocos versos, casi como una microfotografía verbal.",
           "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "C",
-          "text": "Del romanticismo inglés medieval en Manta.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "Del realismo mágico latinoamericano en el Unidad Educativa Santo Domingo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La información está expresada textualmente: 'quienes se inspiraron en el simbolismo francés'.\n\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.66,
-      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v14",
-      "statement": "Considere el anuncio: 'La empresa municipal de Loja suspenderá el servicio de agua en los sectores de El Vecino y San Sebastián el día martes desde las 14:00 por reparación de tuberías en Colegio Nacional Manta'. ¿En qué sectores de la ciudad ocurrirá la suspensión?",
-      "context": "Luis, estudiante de 11° de Bachillerato en el Colegio Nacional Manta de Loja, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "En toda la provincia de Loja de forma indefinida.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "Únicamente en el sector industrial cerca del Colegio Nacional Manta.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "En el centro histórico de Quito y Guayaquil y Loja.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "En El Vecino y San Sebastián.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "feedback": "Correcto. El existograma trabaja la brevedad máxima y la imagen puntual, en la línea de la experimentación formal de Chase."
         }
       ],
       "correct_answer": "D",
-      "explanation": "La respuesta requiere identificar datos explícitos del texto: los sectores nombrados son 'El Vecino y San Sebastián'.\n\n---",
+      "explanation": "El existograma es una de las aportaciones experimentales de Alfonso Chase a la poesía ecuatoriana: textos ultrabreves donde una sola imagen concentra el sentido, en diálogo con la tradición del haiku y la vanguardia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle-v9",
+      "statement": "Lee estos versos de un poema inédito, sin autoría real:\n\nGuayaquil no duerme: cuenta\ncarros, cuentas de luz, cuentas de vecinos\nque bajan al malecón a lavar la sed del día.\n\nDecir que en estos versos \"la ciudad es un personaje\" se justifica porque",
+      "context": "Un colegio de Guayaquil trabaja la imagen de la ciudad en la poesía; un estudiante analiza un micro-texto original anónimo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "el poema describe con precisión estadística el tráfico y la infraestructura urbana.",
+          "is_correct": false,
+          "feedback": "No hay datos técnicos ni estadística; hay una personificación poética de la ciudad."
+        },
+        {
+          "letter": "B",
+          "text": "la ciudad recibe acciones humanas: no duerme, cuenta, y se le asocia una sed que sus habitantes comparten.",
+          "is_correct": true,
+          "feedback": "Correcto. Atribuirle verbos de conducta humana (dormir, contar) y necesidad (sed) la convierte en entidad viva del poema."
+        },
+        {
+          "letter": "C",
+          "text": "el poema nombra a varias personas por su nombre propio a lo largo de los versos.",
+          "is_correct": false,
+          "feedback": "No hay nombres propios de personas; el sujeto que actúa como personaje es el nombre de la ciudad."
+        },
+        {
+          "letter": "D",
+          "text": "el texto cita las calles con sus fechas de fundación oficiales.",
+          "is_correct": false,
+          "feedback": "El poema no documenta datas de fundación; construye una imagen animista del espacio urbano."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La personificación vuelve a la ciudad un actor más del poema: Guayaquil vela, cuenta y tiene sed. Este procedimiento es central en la poesía urbana contemporánea ecuatoriana.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle-v10",
+      "statement": "Lee estos versos de un poema inédito de una estudiante:\n\nLa panadería de mi abuela ya no existe,\npero a las cinco de la mañana\nmi nariz todavía baja por esa esquina.\n\nLa función que cumple el tiempo en estos versos es sobre todo",
+      "context": "Una estudiante de BGU de Quito escribe un poema sobre el barrio de su infancia y quiere que el docente identifique la marca de memoria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "cronológica y objetiva, como la de un documento notarial.",
+          "is_correct": false,
+          "feedback": "El reloj aparece solo como disparador; el verso clave (\"mi nariz baja\") subordina el tiempo a la sensación, no al registro objetivo."
+        },
+        {
+          "letter": "B",
+          "text": "medicinal, porque el poema recomienda levantarse a las cinco por salud.",
+          "is_correct": false,
+          "feedback": "No hay consejo sanitario; la hora señala el momento en que la memoria involuntaria se despierta."
+        },
+        {
+          "letter": "C",
+          "text": "memorial y sensorial: el pasado persiste en el cuerpo y el olor reconstruye un espacio desaparecido.",
+          "is_correct": true,
+          "feedback": "Correcto. La memoria funciona aquí por vía olfativa: el ausente lugar de la infancia regresa como sensación corporal."
+        },
+        {
+          "letter": "D",
+          "text": "deportivo, porque la estudiante compite contra el reloj de la madrugada.",
+          "is_correct": false,
+          "feedback": "No hay competencia ni marca cronometrada; el reloj de la mañana activa un recuerdo, no una carrera."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La memoria es un gran tema de la poesía contemporánea. Aquí opera de modo sensorial: el olor revive un espacio perdido, procedimiento que recuerda el trabajo de la memoria involuntaria en la lírica urbana.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle-v11",
+      "statement": "Lee el siguiente poema inédito, sin autoría real:\n\nSubo. / Bajo. / El ascensor del edificio\nlleva gente que no se mira.\nAdentro, cada cara es un piso distinto:\nel nueve piensa en alquileres,\nel dos ruega por un examen.\n\n¿Qué relación se establece entre la forma del poema y su sentido?",
+      "context": "Un estudiante de BGU de Quito prepara un comentario de texto sobre la disposición del verso libre en un micro-poema original.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La forma es decorativa: los cortes de verso podrían reunirse en un solo renglón sin alterar lo que el poema dice.",
+          "is_correct": false,
+          "feedback": "Los cortes aíslan \"Subo. Bajo.\" e imitan el movimiento del ascensor; suprimirlos borraría una capa de sentido ya construida en la página."
+        },
+        {
+          "letter": "B",
+          "text": "Los versos breves y el conteo de pisos replican el ascenso mecánico del artefacto, mientras la enumeración fragmentada sugiere el aislamiento de los pasajeros.",
+          "is_correct": true,
+          "feedback": "Correcto. La fragmentación formal no es adorno: reproduce el trayecto del ascensor y la incomunicación de quienes van dentro."
+        },
+        {
+          "letter": "C",
+          "text": "El poema usa rima consonante estricta para contrastar con el desorden del edificio.",
+          "is_correct": false,
+          "feedback": "No hay esquema de rima; el análisis debe partir de que el texto está escrito en verso libre."
+        },
+        {
+          "letter": "D",
+          "text": "La estructura es la de un soneto con dos cuartetos y dos tercetos.",
+          "is_correct": false,
+          "feedback": "El texto no tiene catorce versos ni distribución estrófica de soneto; es un poema libre de cinco versos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el verso libre, la disposición de los cortes es significativa: aquí mimetiza el ascensor y la soledad urbana. Analizar poesía contemporánea exige ver cómo la forma participa del sentido.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.64,
-      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
+      "expected_success": 0.65,
+      "bundle_id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -638,43 +503,43 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v15",
-      "statement": "Lea: 'La mariposa monarca recorre más de 4000 kilómetros desde Canadá hasta México para reproducirse en los bosques de oyamel antes de llegar a Riobamba'. ¿Qué distancia total recorre la mariposa monarca en su migración según el fragmento?",
-      "context": "Patricia, estudiante de 11° de Bachillerato en el Colegio Nacional Bernardo Valdivieso de Riobamba, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
+      "id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle-v12",
+      "statement": "Sobre Los Decapitadores, la historiografía literaria ecuatoriana destaca un doble fenómeno: la escasa obra publicada en vida de poetas como Medardo Ángel Silva y, al mismo tiempo, la enorme centralidad del grupo en el canon nacional. La explicación más sólida de ese fenómeno es que",
+      "context": "En un colegio de Guayaquil se discute el valor literario de la leyenda biográfica de Los Decapitadores frente a sus textos.",
       "options": [
         {
           "letter": "A",
-          "text": "Una distancia insignificante que no requiere esfuerzo en Riobamba.",
+          "text": "la calidad de sus textos fue irrelevante y el canon se construyó por error de los críticos de la época.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Descalificar toda la obra ignora valores poéticos reconocidos en textos como los de Silva o Mayo; el fenómeno es más complejo."
         },
         {
           "letter": "B",
-          "text": "Más de 4000 kilómetros.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "el grupo nunca existió como tal y fue una invención de los manuales escolares del siglo XXI.",
+          "is_correct": false,
+          "feedback": "El grupo es histórico: se articuló en torno a un episodio de protesta en Guayaquil y a una bohemia documentada."
         },
         {
           "letter": "C",
-          "text": "Menos de 1000 metros a lo largo del bosque de Riobamba.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "text": "su biografía mítica y su muerte o destino tempranos se convirtieron en un relato que la crítica y la escuela transmitieron junto con la obra, ampliando su peso simbólico.",
+          "is_correct": true,
+          "feedback": "Correcto. La leyenda vital -juventud, bohemia, muerte temprana de Silva en 1919- se volvió parte inseparable de su consagración."
         },
         {
           "letter": "D",
-          "text": "Exactamente 500 millas náuticas sobre el océano cerca de Colegio Nacional Bernardo Valdivieso.",
+          "text": "publicaron una cantidad enorme de libros que saturaron el mercado editorial y forzaron su inclusión.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Sucedió lo contrario: su producción fue breve y en parte póstuma o dispersa; precisamente por eso la pregunta se centra en otro factor."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La distancia recorrida se menciona de manera directa en el texto literal: 'más de 4000 kilómetros'.\n\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "El canon literario no se arma solo con textos: también operan las biografías, los mitos generacionales y las instituciones que los enseñan. En Los Decapitadores, la leyenda de la juventud truncada potenció la difusión de su obra escasa.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.62,
-      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
+      "expected_success": 0.65,
+      "bundle_id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -683,43 +548,43 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v16",
-      "statement": "Lea el siguiente fragmento: 'El ferrocarril transandino ecuatoriano, obra impulsada por el general Eloy Alfaro, conectó de forma definitiva las ciudades de Guayaquil y Quito en el año 1908, transformando la economía de Ibarra'. Según el texto, ¿en qué año se conectaron estas dos ciudades?",
-      "context": "Fernando, estudiante de 11° de Bachillerato en el Colegio Nacional Nueve de Octubre de Ibarra, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
+      "id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle-v13",
+      "statement": "Lee los dos poemas inéditos, sin autoría real:\n\nTexto I\nOh, farol de asfalto que iluminas\nlas noches de mi ruta hacia el taller,\nnoche sin ti, mi alma está vacía.\n\nTexto II\nLamparita del barrio, me alumbras\nel hueco del camino: pago la multa,\nmaldigo, y sigo igual de enamorado.\n\nLa diferencia de tratamiento del mismo motivo -la luz de la calle- radica sobre todo en que",
+      "context": "Un estudiante de BGU de Cuenca contrasta dos micro-textos originales para analizar variantes del tono poético.",
       "options": [
         {
           "letter": "A",
-          "text": "En el año 2008 tras la reconstrucción moderna en Ibarra.",
+          "text": "el Texto I es un poema épico y el Texto II narra una batalla urbana.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Ninguno de los dos relata hazañas ni batallas; ambos son líricos y breves."
         },
         {
           "letter": "B",
-          "text": "En el año 1908.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "el Texto I rechaza toda figura retórica y el Texto II está lleno de ellas.",
+          "is_correct": false,
+          "feedback": "Al revés: el Texto I emplea invocación y exclamación de raíz retórica elevada; el secreto está en el registro."
         },
         {
           "letter": "C",
-          "text": "Durante la época colonial del siglo XVIII en Ibarra.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "text": "el Texto I eleva la luz a símbolo con un registro altisonante y heredero de la tradición, mientras el Texto II la reduce a un objeto conversacional con tono colloquial irónico.",
+          "is_correct": true,
+          "feedback": "Correcto. La oposición ilustra el contraste entre un tono solemne-romántico y el tono coloquial que privilegia la poesía contemporánea."
         },
         {
           "letter": "D",
-          "text": "A mediados del siglo XIX por Gabriel García Moreno en el Colegio Nacional Nueve de Octubre.",
+          "text": "ambos poemas pertenecen necesariamente al mismo autor por tratar el mismo tema.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Compartir motivo no implica compartir autoría; de hecho, son dos micro-textos inventados para el ejercicio."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La respuesta se encuentra explícita en el fragmento textual de manera directa: 'en el año 1908'.\n\n---",
+      "correct_answer": "C",
+      "explanation": "El mismo objeto poético puede construirse desde registros opuestos. Comparar tonos -solemne frente a coloquial- es una herramienta básica del análisis de la lírica contemporánea.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "expected_success": 0.6,
-      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
+      "bundle_id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -728,133 +593,43 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v17",
-      "statement": "Considere este texto: 'María, estudiante del Colegio Nacional Maldonado en Portoviejo, obtuvo una beca completa de estudios científicos tras desarrollar un filtro purificador de agua que remueve metales pesados utilizando cáscara de coco'. De acuerdo con el fragmento, ¿qué materia prima utilizó María para construir su filtro?",
-      "context": "María, estudiante de 11° de Bachillerato en el Colegio Nacional Maldonado de Portoviejo, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
+      "id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle-v14",
+      "statement": "Lee estos versos de un poema inédito de una estudiante, escrito a la manera de la poesía de lo cotidiano:\n\nEl reloj de la cocina se atrasaba\nde propósito: quería más sopa,\nmás tarde, más domingo en casa.\n\nEl procedimiento intelectual central del poema consiste en",
+      "context": "Una docente de Quito propone a sus estudiantes de BGU analizar cómo la tradición de Carrera Andrade sigue vigente en la escritura escolar.",
       "options": [
         {
           "letter": "A",
-          "text": "Cáscara de coco.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "atacar la religión mediante símbolos domésticos escondidos.",
+          "is_correct": false,
+          "feedback": "Nada en el texto alude a lo religioso; el conflicto es con el tiempo, no con la fe."
         },
         {
           "letter": "B",
-          "text": "Fibras sintéticas de poliéster de Portoviejo.",
+          "text": "describir con objetividad de inventario los electrodomésticos de una cocina.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "El reloj no se describe técnicamente: se le atribuyen intenciones, lo que es justo lo contrario del inventario objetivo."
         },
         {
           "letter": "C",
-          "text": "Carbón mineral activado importado por el Colegio Nacional Maldonado.",
+          "text": "narrar una historia completa con inicio, nudo y desenlace en tres versos.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "No hay secuencia narrativa desarrollada; hay una situación mínima sostenida por una sola imagen."
         },
         {
           "letter": "D",
-          "text": "Arena sílica del río de Portoviejo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "El texto indica de manera literal e inequívoca el insumo natural empleado: 'utilizando cáscara de coco'.\n\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.58,
-      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v18",
-      "statement": "Lea el extracto: 'La literatura modernista del Ecuador tuvo como principales referentes a los jóvenes poetas de la Generación Decapitada, quienes se inspiraron en el simbolismo francés y fallecieron a temprana edad en Machala'. ¿De qué corriente europea recibieron inspiración directa estos poetas según el texto?",
-      "context": "José, estudiante de 11° de Bachillerato en el Colegio Nacional Olmedo de Machala, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Del neoclasicismo español tradicional en Machala.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "Del simbolismo francés.",
+          "text": "animar un objeto doméstico y hacer cómplice al reloj con el deseo del yo lírico de detener el tiempo familiar.",
           "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "C",
-          "text": "Del romanticismo inglés medieval en Machala.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "Del realismo mágico latinoamericano en el Colegio Nacional Olmedo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La información está expresada textualmente: 'quienes se inspiraron en el simbolismo francés'.\n\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.56,
-      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v19",
-      "statement": "Considere el anuncio: 'La empresa municipal de Esmeraldas suspenderá el servicio de agua en los sectores de El Vecino y San Sebastián el día martes desde las 14:00 por reparación de tuberías en Colegio Nacional Mejía'. ¿En qué sectores de la ciudad ocurrirá la suspensión?",
-      "context": "Mateo, estudiante de 11° de Bachillerato en el Colegio Nacional Mejía de Esmeraldas, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "En toda la provincia de Esmeraldas de forma indefinida.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "Únicamente en el sector industrial cerca del Colegio Nacional Mejía.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "En el centro histórico de Quito y Guayaquil y Esmeraldas.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "En El Vecino y San Sebastián.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "feedback": "Correcto. La personificación del reloj como aliado del deseo hereda directamente el procedimiento de Carrera Andrade: objeto cotidiano, gran reflexión temporal."
         }
       ],
       "correct_answer": "D",
-      "explanation": "La respuesta requiere identificar datos explícitos del texto: los sectores nombrados son 'El Vecino y San Sebastián'.\n\n---",
-      "difficulty": "9",
+      "explanation": "La lección de Carrera Andrade perdura: el tiempo se piensa a través de objetos mínimos. Aquí el reloj atrasado es un cómplice afectivo del deseo de eternidad doméstica.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.54,
-      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -863,43 +638,268 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v20",
-      "statement": "Lea: 'La mariposa monarca recorre más de 4000 kilómetros desde Canadá hasta México para reproducirse en los bosques de oyamel antes de llegar a Santo Domingo'. ¿Qué distancia total recorre la mariposa monarca en su migración según el fragmento?",
-      "context": "Sebastián, estudiante de 11° de Bachillerato en el Colegio Nacional Vicente Rocafuerte de Santo Domingo, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
+      "id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle-v15",
+      "statement": "Lee el siguiente texto inédito, pensado para ser dicho en voz alta, sin autoría real:\n\nRepito: no, no, no.\nNo al apagón, no al alza, no al \"vuelva usted mañana\".\nMi boca es una cacerola en la puerta del banco.\n\nEl elemento que mejor revela la vocación de oralidad y performance del texto es",
+      "context": "En una feria del libro en Quito, un estudiante de BGU observa recitales de poetas jóvenes y analiza un micro-texto original escrito para performance.",
       "options": [
         {
           "letter": "A",
-          "text": "Una distancia insignificante que no requiere esfuerzo en Santo Domingo.",
+          "text": "su tema rural, ajeno a los bancos y apagones urbanos.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "El texto es plenamente urbano; además, la pregunta indaga por rasgos de oralidad escénica, no por el tema."
         },
         {
           "letter": "B",
-          "text": "Más de 4000 kilómetros.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "su rima asonante en todos los finales de verso.",
+          "is_correct": false,
+          "feedback": "Los finales no siguen un esquema de rima; el ritmo proviene de la repetición y del efecto vocálico del discurso dicho."
         },
         {
           "letter": "C",
-          "text": "Menos de 1000 metros a lo largo del bosque de Santo Domingo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "text": "la reiteración en cadena (\"no, no, no\" / \"no al...\") que imita un canto coreable y convierte la voz del yo en instrumento de protesta.",
+          "is_correct": true,
+          "feedback": "Correcto. Las repeticiones paralelísticas están hechas para la boca y el oído, rasgo típico de la poesía de recital y performance."
         },
         {
           "letter": "D",
-          "text": "Exactamente 500 millas náuticas sobre el océano cerca de Colegio Nacional Vicente Rocafuerte.",
+          "text": "la cita erudita de un clásico latino en lengua original.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "No hay citas latinas; el repertorio del texto es el de la calle y la protesta actual."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La distancia recorrida se menciona de manera directa en el texto literal: 'más de 4000 kilómetros'.\n\n---",
+      "correct_answer": "C",
+      "explanation": "La poesía de los noventa en adelante cultivó la oralidad y el recital. Los paralelismos y reiteraciones convierten el poema en partitura para la voz, pensada para el cuerpo del performer y el público.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle-v16",
+      "statement": "Hugo Mayo, autor de Ceniza y figura cercana a Los Decapitadores en Guayaquil, cultivó una poesía tempranamente experimental, con signos tipográficos y libertad formal, y sin embargo durante décadas su obra circuló menos y fue leída con más recelo que la de otros poetas ecuatorianos de su tiempo. Del caso de Mayo se puede concluir válidamente que",
+      "context": "Un estudiante de BGU de Guayaquil estudia la recepción de Hugo Mayo y encuentra juicios contradictorios sobre él.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "la experimentación formal de un poeta es siempre señal de que su obra carece de valor literario.",
+          "is_correct": false,
+          "feedback": "Es una generalización falsa: la renovación formal puede ser un mérito; el recelo de los públicos no mide el valor estético."
+        },
+        {
+          "letter": "B",
+          "text": "la recepción de una obra depende exclusivamente del tamaño de la tirada impresa del libro.",
+          "is_correct": false,
+          "feedback": "Reducir la recepción a lo editorial ignora la mediación de críticos, docentes y canon, factores clave en el caso ecuatoriano."
+        },
+        {
+          "letter": "C",
+          "text": "Mayo dejó de escribir tras publicar Ceniza, lo que explica el olvido automático de su nombre.",
+          "is_correct": false,
+          "feedback": "La trayectoria vital de un autor no se deduce de las dudas de un enunciado; el caso ilustra otra cosa."
+        },
+        {
+          "letter": "D",
+          "text": "la consagración literaria no responde solo a los textos, sino también a cómo los públicos y las instituciones de una época están preparados para recibir la innovación.",
+          "is_correct": true,
+          "feedback": "Correcto. El caso de Mayo muestra que una poética adelantada puede tardar en ser institucionalizada por crítica, academia y lectores."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analizar la recepción implica preguntar qué estaba lista para leer cada época. La vanguardia de Mayo, con sus experimentos tipográficos, dialogó con públicos todavía formados en modelos más convencionales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle-v17",
+      "statement": "Un estudiante afirma: \"La poesía ecuatoriana contemporánea, con sus experimentos como el existograma de Chase y la oralidad de los recitales, rompe de manera absoluta con toda la tradición anterior, incluidos Carrera Andrade y Los Decapitadores\". ¿Cuál es la evaluación más sólida de esa afirmación?",
+      "context": "En un debate literario de BGU en Quito, un estudiante sostiene una tesis sobre la ruptura de la poesía contemporánea con la tradición.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es totalmente correcta: no existe ninguna línea de continuidad entre los poetas experimentales y los del siglo XX.",
+          "is_correct": false,
+          "feedback": "Ignora herencias demostrables: la libertad formal, la ciudad y lo cotidiano circulan desde las vanguardias y Carrera Andrade hacia los poetas recientes."
+        },
+        {
+          "letter": "B",
+          "text": "Es totalmente falsa: la poesía contemporánea no hace más que copiar versos austeros de los noventayquianos.",
+          "is_correct": false,
+          "feedback": "Niega toda innovación posterior; reducir la poesía actual a copia borra sus rasgos propios -performance, condensación, nuevos soportes-."
+        },
+        {
+          "letter": "C",
+          "text": "Es exagerada: hay innovación real en soportes y formas, pero también continuidades con la libertad formal y temática del siglo XX ecuatoriano.",
+          "is_correct": true,
+          "feedback": "Correcto. Una evaluación equilibrada reconoce tanto el aporte experimental como los hilos que lo unen a la tradición inmediata."
+        },
+        {
+          "letter": "D",
+          "text": "Es intraducible: sobre gustos de formas poéticas no se puede decir nada con fundamento.",
+          "is_correct": false,
+          "feedback": "El relativismo extremo impide todo juicio literario razonado; existen criterios históricos y textuales para evaluar la afirmación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar una tesis literaria exige graduar: ni ruptura total ni copia total. La tradición se transforma; por eso convienen matices como el de la opción correcta, sostenidos en evidencia histórica.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.52,
-      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
+      "expected_success": 0.55,
+      "bundle_id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle-v18",
+      "statement": "Lee el siguiente párrafo de un blog escolar, de autoría anónima: \"Medardo Ángel Silva fue asesinado en un ajusticiamiento político ordenado por el gobierno, y por eso su libro se tituló desde un principio El fusilado\". Considerando que sobre las circunstancias de su muerte en 1919 existe una versión legendaria y debate entre historiadores, frente a este párrafo lo más adecuado es concluir que",
+      "context": "Una estudiante de BGU de Guayaquil evalúa un párrafo de divulgación sobre la biografía de Medardo Ángel Silva que circula en redes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "es irreprochable, porque todo lo que circula en internet sobre literatura ha sido verificado por académicos.",
+          "is_correct": false,
+          "feedback": "La premisa es falsa: internet mezcla información verificada y legendaria; de hecho, el caso de Silva es justamente disputado."
+        },
+        {
+          "letter": "B",
+          "text": "presenta como hechos probados versiones legendarias discutidas, por lo que exige contrastación con fuentes críticas antes de aceptarse.",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando la historiografía discute las circunstancias de una muerte, afirmar un móvil político con seguridad es una extrapolación que necesita verificación."
+        },
+        {
+          "letter": "C",
+          "text": "debe aceptarse sin reservas porque el autor del blog es estudiante, y los estudiantes no se equivocan.",
+          "is_correct": false,
+          "feedback": "La identidad del autor no garantiza la verdad del contenido; el criterio válido es la confrontación con fuentes confiables."
+        },
+        {
+          "letter": "D",
+          "text": "es completamente inventado de un modo arbitrario y ninguna versión legendaria merece interés.",
+          "is_correct": false,
+          "feedback": "Descarta en bloque el valor documental de las leyendas sobre la muerte de Silva, que sí interesan a la crítica como objeto de estudio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pensar críticamente sobre literatura también es distinguir hecho, leyenda e interpretación. La muerte de Silva en 1919 alimenta un mito; nombrar el mito exige cautela y fuentes.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle-v19",
+      "statement": "Lee dos versiones de un poema estudiantil sobre la ciudad:\n\nVersión 1: \"Mi ciudad es linda, linda, linda / y la quiero mucho, mucho, mucho\".\nVersión 2: \"En mi ciudad los semáforos se aburren / de contar pasos que nadie espera: / amanece y ya nadie se sorprende\".\n\nUn criterio de evaluación literaria que justifica preferir la Versión 2 frente a la 1 es que",
+      "context": "Un jurado juvenil de BGU en Cuenca evalúa dos versiones de un mismo micro-poema para un concurso escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "la Versión 2 es más larga, y en poesía la extensión determina por sí sola la calidad.",
+          "is_correct": false,
+          "feedback": "La longitud no es criterio de valor: hay poemas breves extraordinarios y poemas largos fallidos."
+        },
+        {
+          "letter": "B",
+          "text": "la Versión 2 emplea rimas consonantes, y la rima garantiza automáticamente superioridad artística.",
+          "is_correct": false,
+          "feedback": "La rima no garantiza valor alguno; el verso libre bien construido puede ser más eficaz que la rima mecánica."
+        },
+        {
+          "letter": "C",
+          "text": "la Versión 2 construye una imagen observada que renueva lo dicho -semáforos que se aburren- y deja espacio al lector, mientras la 1 repite valoraciones abstractas y cerradas.",
+          "is_correct": true,
+          "feedback": "Correcto. El criterio es de calidad figurativa: mostrar por imagen frente a declarar por adjetivos repetidos."
+        },
+        {
+          "letter": "D",
+          "text": "la Versión 1 usa diminutivos, y los diminutivos están prohibidos en toda poesía seria.",
+          "is_correct": false,
+          "feedback": "No existe tal prohibición; el problema de la Versión 1 no es el diminutivo sino la falta de trabajo de imagen."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar poesía con fundamento implica criterios: espesor de la imagen, capacidad de sugerir, economía del juicio directo. La Versión 2 gana por construir, no por declarar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle-v20",
+      "statement": "Una estudiante propone: \"Estudiar a Los Decapitadores y a Carrera Andrade ya no sirve para entender la poesía ecuatoriana actual, que solo importa por sus cuentas de redes sociales\". ¿Cuál es la contraargumentación más sólida y verificable?",
+      "context": "Para el cierre del periodo, estudiantes de BGU de Quito discuten si tiene sentido seguir leyendo poesía ecuatoriana del siglo XX en la era de las redes y el recital.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que las redes sociales no son literatura, por lo tanto toda poesía publicada allí carece por completo de valor.",
+          "is_correct": false,
+          "feedback": "La opción ataca un espantapájaros: la pregunta versa sobre la utilidad de la tradición, no sobre descalificar nuevos soportes."
+        },
+        {
+          "letter": "B",
+          "text": "Que los repertorios de la poesía actual -la ciudad como personaje, el tono coloquial, la experimentación formal- se comprenden mejor cuando se reconocen sus antecedentes en el siglo XX ecuatoriano.",
+          "is_correct": true,
+          "feedback": "Correcto. Es un contraargumento fundado en continuidades observables: los temas y procedimientos de hoy dialogan con heredades documentadas."
+        },
+        {
+          "letter": "C",
+          "text": "Que los poetas del siglo XX eran más talentosos, sin necesidad de otras pruebas.",
+          "is_correct": false,
+          "feedback": "Apelar a una superioridad no demostrada es un juicio de valor vacío; no refuta la tesis de que la tradición es inútil."
+        },
+        {
+          "letter": "D",
+          "text": "Que estudiar el pasado literario consume tiempo que debería destinarse solo a la matemática.",
+          "is_correct": false,
+          "feedback": "Desplaza la discusión a un terreno ajeno; la utilidad formativa de la literatura no se debate abandonándola."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tradición no es un archivo muerto: es un mapa para leer el presente. Quien conoce la invención de lo cotidiano en Carrera Andrade reconoce mejor su herencia en la poesía urbana actual.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "EC-LEN-11-2026-W05-poesia-contemporanea-ecuador-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
       "cefr_level": null,

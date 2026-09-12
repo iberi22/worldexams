@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-9-grade-5-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T16:46:07.385Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-5-2026-W09-mezclas-separacion-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la diferencia entre una mezcla homogénea y una mezcla heterogénea?",
+      "context": "En una clase de ciencias en Girardot, la profesora muestra un vaso con agua y sal disuelta, y otro con agua y arena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la homogénea no se distinguen sus componentes a simple vista; en la heterogénea sí se distinguen.",
+          "is_correct": true,
+          "feedback": "Las mezclas homogéneas se ven uniformes, mientras que las heterogéneas muestran sus componentes a simple vista."
+        },
+        {
+          "letter": "B",
+          "text": "En la homogénea se ven los componentes separados, en la heterogénea no se ven.",
+          "is_correct": false,
+          "feedback": "Es al revés: en las heterogéneas se ven los componentes, no en las homogéneas."
+        },
+        {
+          "letter": "C",
+          "text": "Las mezclas homogéneas siempre son sólidas y las heterogéneas líquidas.",
+          "is_correct": false,
+          "feedback": "Tanto las homogéneas como las heterogéneas pueden presentarse en distintos estados."
+        },
+        {
+          "letter": "D",
+          "text": "No existe ninguna diferencia visible entre ellas.",
+          "is_correct": false,
+          "feedback": "La diferencia principal es precisamente la uniformidad visible de la mezcla."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Diferenciar mezclas homogéneas de heterogéneas a partir de la observación de sus componentes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Indagación",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-5-2026-W09-mezclas-separacion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W09-mezclas-separacion-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué el agua con sal se considera una mezcla homogénea?",
+      "context": "Lee: \"El agua con sal es una mezcla homogénea porque la sal se disuelve y no se puede distinguir a simple vista.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la sal disuelta no se ve y la mezcla luce uniforme en toda la solución.",
+          "is_correct": true,
+          "feedback": "Al disolverse, la sal se reparte de manera uniforme y no se distingue."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la sal desaparece completamente y deja de existir.",
+          "is_correct": false,
+          "feedback": "La sal no desaparece: se disuelve en el agua y se puede recuperar evaporando."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el agua deja de ser líquida al mezclarse con la sal.",
+          "is_correct": false,
+          "feedback": "El agua sigue siendo líquida; lo que cambia es la composición de la mezcla."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la sal se evapora automáticamente al contacto con el agua.",
+          "is_correct": false,
+          "feedback": "La sal no se evapora; permanece en la mezcla y puede separarse luego."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Explicar por qué una disolución se clasifica como mezcla homogénea.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-5-2026-W09-mezclas-separacion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W09-mezclas-separacion-001-MASTERY-bundle-v3",
+      "statement": "¿Qué método de separación es el más adecuado en este caso?",
+      "context": "Un estudiante quiere separar una mezcla de agua con tierra dejada en reposo en un vaso durante varios minutos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Decantación, porque la tierra más densa se deposita en el fondo y el agua queda arriba.",
+          "is_correct": true,
+          "feedback": "La decantación permite separar líquidos de sólidos sedimentados por gravedad."
+        },
+        {
+          "letter": "B",
+          "text": "Filtración con un colador muy fino, aunque la tierra ya se haya asentado.",
+          "is_correct": false,
+          "feedback": "La filtración también funciona, pero la decantación es más sencilla cuando el sólido ya reposó."
+        },
+        {
+          "letter": "C",
+          "text": "Evaporación del agua, porque así se obtiene la tierra en forma de gas.",
+          "is_correct": false,
+          "feedback": "La evaporación recupera el sólido disuelto, no el sólido sedimentado, y no produce gas."
+        },
+        {
+          "letter": "D",
+          "text": "Tamizado, porque es ideal para mezclas de sólidos grandes con líquidos.",
+          "is_correct": false,
+          "feedback": "El tamizado se usa para separar sólidos de distinto tamaño, no un sólido fino en líquido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el método de decantación para separar mezclas donde un sólido se asienta en un líquido.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CN-5-2026-W09-mezclas-separacion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W09-mezclas-separacion-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el método más adecuado para separar el agua de los granos sólidos de arroz?",
+      "context": "Una cocinera en Bogotá necesita separar el agua de la cocción de los granos de arroz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Filtración usando un colador o un paño limpio.",
+          "is_correct": true,
+          "feedback": "El colador retiene los granos sólidos y deja pasar el líquido, separándolos."
+        },
+        {
+          "letter": "B",
+          "text": "Decantación, dejando los granos flotando libremente.",
+          "is_correct": false,
+          "feedback": "Los granos de arroz se asientan, pero el método más práctico es el colador."
+        },
+        {
+          "letter": "C",
+          "text": "Evaporación del agua con los granos en la olla.",
+          "is_correct": false,
+          "feedback": "Evaporar el agua no separa los granos; solo elimina el líquido."
+        },
+        {
+          "letter": "D",
+          "text": "Tamizado con una malla muy gruesa.",
+          "is_correct": false,
+          "feedback": "El tamizado se usa entre sólidos de distinto tamaño, no entre sólidos y líquidos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la filtración para separar un sólido particulado del líquido en una mezcla cotidiana.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-5-2026-W09-mezclas-separacion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W09-mezclas-separacion-001-MASTERY-bundle-v5",
+      "statement": "¿Qué método es el más apropiado para obtener la sal sólida a partir de agua con sal?",
+      "context": "Una investigadora quiere recuperar la sal que está disuelta en agua salada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Evaporación del agua, dejando la sal en el recipiente.",
+          "is_correct": true,
+          "feedback": "Al evaporarse el agua, la sal queda como sólido en el fondo del recipiente."
+        },
+        {
+          "letter": "B",
+          "text": "Filtración con un papel filtro común.",
+          "is_correct": false,
+          "feedback": "El filtro no retiene la sal disuelta, solo partículas sólidas."
+        },
+        {
+          "letter": "C",
+          "text": "Decantación, dejando la sal en el fondo.",
+          "is_correct": false,
+          "feedback": "La sal disuelta no sedimenta; permanece en la disolución."
+        },
+        {
+          "letter": "D",
+          "text": "Tamizado con una malla fina.",
+          "is_correct": false,
+          "feedback": "El tamizado no es útil con un sólido disuelto en líquido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la evaporación para separar el soluto disuelto en una mezcla homogénea.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CN-5-2026-W09-mezclas-separacion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W09-mezclas-separacion-001-MASTERY-bundle-v6",
+      "statement": "¿Qué diferencia fundamental existe entre la mezcla de arena con agua y la de sal con agua?",
+      "context": "Compara: \"Una mezcla de arena y agua se ve turbia y al reposar la arena baja al fondo. Una mezcla de agua con sal se ve transparente y no forma capas al reposar.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La de arena con agua es heterogénea y la arena sedimenta; la de sal con agua es homogénea y no sedimenta.",
+          "is_correct": true,
+          "feedback": "La arena no se disuelve y forma una mezcla heterogénea; la sal se disuelve formando una mezcla homogénea."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos son heterogéneas porque no se ven los componentes.",
+          "is_correct": false,
+          "feedback": "En la mezcla de arena con agua sí se ven los granos de arena; es heterogénea."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos son homogéneas porque ambas son transparentes.",
+          "is_correct": false,
+          "feedback": "Solo la mezcla de agua con sal es transparente; la de arena con agua es turbia."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna se puede separar por métodos físicos.",
+          "is_correct": false,
+          "feedback": "Ambas se pueden separar usando métodos físicos como filtración y evaporación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar el comportamiento de mezclas heterogéneas y homogéneas al dejarlas en reposo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CN-5-2026-W09-mezclas-separacion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W09-mezclas-separacion-001-MASTERY-bundle-v7",
+      "statement": "¿Por qué se combinan varios métodos en lugar de usar solo uno para potabilizar el agua?",
+      "context": "Lee: \"Para purificar el agua de un río y volverla potable, las plantas de tratamiento usan varios métodos combinados: decantación, filtración y cloración.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque cada método elimina un tipo distinto de impureza, y juntos producen agua más segura.",
+          "is_correct": true,
+          "feedback": "La combinación de métodos retira partículas, microorganismos y sustancias químicas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque un solo método elimina todo tipo de contaminante por completo.",
+          "is_correct": false,
+          "feedback": "Ningún método único elimina todo tipo de contaminante; se necesitan varios pasos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque combinar métodos hace el agua más sucia y peligrosa.",
+          "is_correct": false,
+          "feedback": "Combinar métodos busca hacer el agua más limpia, no más sucia."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el agua del río no necesita ningún tratamiento.",
+          "is_correct": false,
+          "feedback": "El agua del río sí requiere tratamiento para eliminar contaminantes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender la combinación de métodos físicos y químicos en el tratamiento de aguas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.52,
+      "bundle_id": "CO-CN-5-2026-W09-mezclas-separacion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W09-mezclas-separacion-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué es importante aprender a separar mezclas en la vida cotidiana?",
+      "context": "Lee: 'El conocimiento de las mezclas y sus métodos de separación es útil en la cocina, en la industria de alimentos, en el tratamiento de aguas y en el reciclaje de residuos. Elegir el método correcto permite aprovechar mejor los recursos.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque permite obtener sustancias puras, reciclar materiales y cuidar el ambiente.",
+          "is_correct": true,
+          "feedback": "Separar mezclas es clave para obtener productos útiles y reducir residuos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque solo se usa en laboratorios avanzados sin aplicación en la vida diaria.",
+          "is_correct": false,
+          "feedback": "Los métodos de separación se aplican en el hogar, la industria y el ambiente."
+        },
+        {
+          "letter": "C",
+          "text": "Porque ningún producto cotidiano proviene de la separación de mezclas.",
+          "is_correct": false,
+          "feedback": "Muchos productos como el agua potable, la sal y los aceites dependen de separar mezclas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque separar mezclas contamina más el ambiente que mezclarlas.",
+          "is_correct": false,
+          "feedback": "Separar mezclas de forma adecuada ayuda a reducir la contaminación, no a aumentarla."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la importancia de los métodos de separación de mezclas en contextos cotidianos y ambientales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.3,
+      "bundle_id": "CO-CN-5-2026-W09-mezclas-separacion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

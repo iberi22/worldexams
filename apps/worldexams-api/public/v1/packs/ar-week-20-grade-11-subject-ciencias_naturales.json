@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "ar",
+    "pack_id": "ar-week-20-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T16:46:07.207Z"
+  },
+  "questions": [
+    {
+      "id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v1",
+      "statement": "¿Cómo se clasifica el $Granito$ y cuál es su proceso de formación característico?",
+      "context": "Ciclo de las rocas y procesos geológicos Caso N° 1.\n**ID:** AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v1\n**Bloom:** Remember\n**EJE:** Ciencias de la Tierra y Astronomía\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Roca Ígnea Plutónica, formada por enfriamiento lento del magma en profundidad",
+          "is_correct": true,
+          "feedback": "Correcto. El $Granito$ es una Roca Ígnea Plutónica originada por enfriamiento lento del magma en profundidad."
+        },
+        {
+          "letter": "B",
+          "text": "Roca Meteorítica, formada por impacto extraterrestre",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la clasificación petrogenética terrestre de esta roca."
+        },
+        {
+          "letter": "C",
+          "text": "Roca Orgánica, formada exclusivamente por restos fósiles vegetales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde al carbón o turba."
+        },
+        {
+          "letter": "D",
+          "text": "Roca Evaporítica, formada por cristalización salina en salares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde a la halita o yeso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el ciclo de las rocas, el Granito se clasifica como Roca Ígnea Plutónica porque se origina mediante enfriamiento lento del magma en profundidad.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo se clasifica el $Basalto$ y cuál es su proceso de formación característico?",
+      "context": "Ciclo de las rocas y procesos geológicos Caso N° 2.\n**ID:** AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v2\n**Bloom:** Remember\n**EJE:** Ciencias de la Tierra y Astronomía\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Roca Ígnea Volcánica, formada por enfriamiento rápido de la lava en superficie",
+          "is_correct": true,
+          "feedback": "Correcto. El $Basalto$ es una Roca Ígnea Volcánica originada por enfriamiento rápido de la lava en superficie."
+        },
+        {
+          "letter": "B",
+          "text": "Roca Meteorítica, formada por impacto extraterrestre",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la clasificación petrogenética terrestre de esta roca."
+        },
+        {
+          "letter": "C",
+          "text": "Roca Orgánica, formada exclusivamente por restos fósiles vegetales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde al carbón o turba."
+        },
+        {
+          "letter": "D",
+          "text": "Roca Evaporítica, formada por cristalización salina en salares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde a la halita o yeso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el ciclo de las rocas, el Basalto se clasifica como Roca Ígnea Volcánica porque se origina mediante enfriamiento rápido de la lava en superficie.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v3",
+      "statement": "¿Cómo se clasifica el $Arenisca$ y cuál es su proceso de formación característico?",
+      "context": "Ciclo de las rocas y procesos geológicos Caso N° 3.\n**ID:** AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v3\n**Bloom:** Understand\n**EJE:** Ciencias de la Tierra y Astronomía\n**Expected_Success:** 0.86",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Roca Sedimentaria Detrítica, formada por compactación y cementación de granos de arena",
+          "is_correct": true,
+          "feedback": "Correcto. El $Arenisca$ es una Roca Sedimentaria Detrítica originada por compactación y cementación de granos de arena."
+        },
+        {
+          "letter": "B",
+          "text": "Roca Meteorítica, formada por impacto extraterrestre",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la clasificación petrogenética terrestre de esta roca."
+        },
+        {
+          "letter": "C",
+          "text": "Roca Orgánica, formada exclusivamente por restos fósiles vegetales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde al carbón o turba."
+        },
+        {
+          "letter": "D",
+          "text": "Roca Evaporítica, formada por cristalización salina en salares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde a la halita o yeso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el ciclo de las rocas, el Arenisca se clasifica como Roca Sedimentaria Detrítica porque se origina mediante compactación y cementación de granos de arena.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.86,
+      "bundle_id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v4",
+      "statement": "¿Cómo se clasifica el $Mármol$ y cuál es su proceso de formación característico?",
+      "context": "Ciclo de las rocas y procesos geológicos Caso N° 4.\n**ID:** AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v4\n**Bloom:** Understand\n**EJE:** Ciencias de la Tierra y Astronomía\n**Expected_Success:** 0.84",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Roca Metamórfica, formada por recristalización de calizas sometidas a alta presión y temperatura",
+          "is_correct": true,
+          "feedback": "Correcto. El $Mármol$ es una Roca Metamórfica originada por recristalización de calizas sometidas a alta presión y temperatura."
+        },
+        {
+          "letter": "B",
+          "text": "Roca Meteorítica, formada por impacto extraterrestre",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la clasificación petrogenética terrestre de esta roca."
+        },
+        {
+          "letter": "C",
+          "text": "Roca Orgánica, formada exclusivamente por restos fósiles vegetales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde al carbón o turba."
+        },
+        {
+          "letter": "D",
+          "text": "Roca Evaporítica, formada por cristalización salina en salares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde a la halita o yeso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el ciclo de las rocas, el Mármol se clasifica como Roca Metamórfica porque se origina mediante recristalización de calizas sometidas a alta presión y temperatura.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v5",
+      "statement": "¿Cómo se clasifica el $Granito$ y cuál es su proceso de formación característico?",
+      "context": "Ciclo de las rocas y procesos geológicos Caso N° 5.\n**ID:** AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v5\n**Bloom:** Understand\n**EJE:** Ciencias de la Tierra y Astronomía\n**Expected_Success:** 0.82",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Roca Ígnea Plutónica, formada por enfriamiento lento del magma en profundidad",
+          "is_correct": true,
+          "feedback": "Correcto. El $Granito$ es una Roca Ígnea Plutónica originada por enfriamiento lento del magma en profundidad."
+        },
+        {
+          "letter": "B",
+          "text": "Roca Meteorítica, formada por impacto extraterrestre",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la clasificación petrogenética terrestre de esta roca."
+        },
+        {
+          "letter": "C",
+          "text": "Roca Orgánica, formada exclusivamente por restos fósiles vegetales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde al carbón o turba."
+        },
+        {
+          "letter": "D",
+          "text": "Roca Evaporítica, formada por cristalización salina en salares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde a la halita o yeso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el ciclo de las rocas, el Granito se clasifica como Roca Ígnea Plutónica porque se origina mediante enfriamiento lento del magma en profundidad.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v6",
+      "statement": "¿Cómo se clasifica el $Basalto$ y cuál es su proceso de formación característico?",
+      "context": "Ciclo de las rocas y procesos geológicos Caso N° 6.\n**ID:** AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v6\n**Bloom:** Apply\n**EJE:** Ciencias de la Tierra y Astronomía\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Roca Ígnea Volcánica, formada por enfriamiento rápido de la lava en superficie",
+          "is_correct": true,
+          "feedback": "Correcto. El $Basalto$ es una Roca Ígnea Volcánica originada por enfriamiento rápido de la lava en superficie."
+        },
+        {
+          "letter": "B",
+          "text": "Roca Meteorítica, formada por impacto extraterrestre",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la clasificación petrogenética terrestre de esta roca."
+        },
+        {
+          "letter": "C",
+          "text": "Roca Orgánica, formada exclusivamente por restos fósiles vegetales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde al carbón o turba."
+        },
+        {
+          "letter": "D",
+          "text": "Roca Evaporítica, formada por cristalización salina en salares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde a la halita o yeso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el ciclo de las rocas, el Basalto se clasifica como Roca Ígnea Volcánica porque se origina mediante enfriamiento rápido de la lava en superficie.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v7",
+      "statement": "¿Cómo se clasifica el $Arenisca$ y cuál es su proceso de formación característico?",
+      "context": "Ciclo de las rocas y procesos geológicos Caso N° 7.\n**ID:** AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v7\n**Bloom:** Apply\n**EJE:** Ciencias de la Tierra y Astronomía\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Roca Sedimentaria Detrítica, formada por compactación y cementación de granos de arena",
+          "is_correct": true,
+          "feedback": "Correcto. El $Arenisca$ es una Roca Sedimentaria Detrítica originada por compactación y cementación de granos de arena."
+        },
+        {
+          "letter": "B",
+          "text": "Roca Meteorítica, formada por impacto extraterrestre",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la clasificación petrogenética terrestre de esta roca."
+        },
+        {
+          "letter": "C",
+          "text": "Roca Orgánica, formada exclusivamente por restos fósiles vegetales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde al carbón o turba."
+        },
+        {
+          "letter": "D",
+          "text": "Roca Evaporítica, formada por cristalización salina en salares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde a la halita o yeso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el ciclo de las rocas, el Arenisca se clasifica como Roca Sedimentaria Detrítica porque se origina mediante compactación y cementación de granos de arena.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v8",
+      "statement": "¿Cómo se clasifica el $Mármol$ y cuál es su proceso de formación característico?",
+      "context": "Ciclo de las rocas y procesos geológicos Caso N° 8.\n**ID:** AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v8\n**Bloom:** Apply\n**EJE:** Ciencias de la Tierra y Astronomía\n**Expected_Success:** 0.76",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Roca Metamórfica, formada por recristalización de calizas sometidas a alta presión y temperatura",
+          "is_correct": true,
+          "feedback": "Correcto. El $Mármol$ es una Roca Metamórfica originada por recristalización de calizas sometidas a alta presión y temperatura."
+        },
+        {
+          "letter": "B",
+          "text": "Roca Meteorítica, formada por impacto extraterrestre",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la clasificación petrogenética terrestre de esta roca."
+        },
+        {
+          "letter": "C",
+          "text": "Roca Orgánica, formada exclusivamente por restos fósiles vegetales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde al carbón o turba."
+        },
+        {
+          "letter": "D",
+          "text": "Roca Evaporítica, formada por cristalización salina en salares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde a la halita o yeso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el ciclo de las rocas, el Mármol se clasifica como Roca Metamórfica porque se origina mediante recristalización de calizas sometidas a alta presión y temperatura.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.76,
+      "bundle_id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v9",
+      "statement": "¿Cómo se clasifica el $Granito$ y cuál es su proceso de formación característico?",
+      "context": "Ciclo de las rocas y procesos geológicos Caso N° 9.\n**ID:** AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v9\n**Bloom:** Apply\n**EJE:** Ciencias de la Tierra y Astronomía\n**Expected_Success:** 0.74",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Roca Ígnea Plutónica, formada por enfriamiento lento del magma en profundidad",
+          "is_correct": true,
+          "feedback": "Correcto. El $Granito$ es una Roca Ígnea Plutónica originada por enfriamiento lento del magma en profundidad."
+        },
+        {
+          "letter": "B",
+          "text": "Roca Meteorítica, formada por impacto extraterrestre",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la clasificación petrogenética terrestre de esta roca."
+        },
+        {
+          "letter": "C",
+          "text": "Roca Orgánica, formada exclusivamente por restos fósiles vegetales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde al carbón o turba."
+        },
+        {
+          "letter": "D",
+          "text": "Roca Evaporítica, formada por cristalización salina en salares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde a la halita o yeso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el ciclo de las rocas, el Granito se clasifica como Roca Ígnea Plutónica porque se origina mediante enfriamiento lento del magma en profundidad.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.74,
+      "bundle_id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v10",
+      "statement": "¿Cómo se clasifica el $Basalto$ y cuál es su proceso de formación característico?",
+      "context": "Ciclo de las rocas y procesos geológicos Caso N° 10.\n**ID:** AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v10\n**Bloom:** Apply\n**EJE:** Ciencias de la Tierra y Astronomía\n**Expected_Success:** 0.72",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Roca Ígnea Volcánica, formada por enfriamiento rápido de la lava en superficie",
+          "is_correct": true,
+          "feedback": "Correcto. El $Basalto$ es una Roca Ígnea Volcánica originada por enfriamiento rápido de la lava en superficie."
+        },
+        {
+          "letter": "B",
+          "text": "Roca Meteorítica, formada por impacto extraterrestre",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la clasificación petrogenética terrestre de esta roca."
+        },
+        {
+          "letter": "C",
+          "text": "Roca Orgánica, formada exclusivamente por restos fósiles vegetales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde al carbón o turba."
+        },
+        {
+          "letter": "D",
+          "text": "Roca Evaporítica, formada por cristalización salina en salares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde a la halita o yeso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el ciclo de las rocas, el Basalto se clasifica como Roca Ígnea Volcánica porque se origina mediante enfriamiento rápido de la lava en superficie.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v11",
+      "statement": "¿Cómo se clasifica el $Arenisca$ y cuál es su proceso de formación característico?",
+      "context": "Ciclo de las rocas y procesos geológicos Caso N° 11.\n**ID:** AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v11\n**Bloom:** Analyze\n**EJE:** Ciencias de la Tierra y Astronomía\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Roca Sedimentaria Detrítica, formada por compactación y cementación de granos de arena",
+          "is_correct": true,
+          "feedback": "Correcto. El $Arenisca$ es una Roca Sedimentaria Detrítica originada por compactación y cementación de granos de arena."
+        },
+        {
+          "letter": "B",
+          "text": "Roca Meteorítica, formada por impacto extraterrestre",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la clasificación petrogenética terrestre de esta roca."
+        },
+        {
+          "letter": "C",
+          "text": "Roca Orgánica, formada exclusivamente por restos fósiles vegetales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde al carbón o turba."
+        },
+        {
+          "letter": "D",
+          "text": "Roca Evaporítica, formada por cristalización salina en salares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde a la halita o yeso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el ciclo de las rocas, el Arenisca se clasifica como Roca Sedimentaria Detrítica porque se origina mediante compactación y cementación de granos de arena.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v12",
+      "statement": "¿Cómo se clasifica el $Mármol$ y cuál es su proceso de formación característico?",
+      "context": "Ciclo de las rocas y procesos geológicos Caso N° 12.\n**ID:** AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v12\n**Bloom:** Analyze\n**EJE:** Ciencias de la Tierra y Astronomía\n**Expected_Success:** 0.68",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Roca Metamórfica, formada por recristalización de calizas sometidas a alta presión y temperatura",
+          "is_correct": true,
+          "feedback": "Correcto. El $Mármol$ es una Roca Metamórfica originada por recristalización de calizas sometidas a alta presión y temperatura."
+        },
+        {
+          "letter": "B",
+          "text": "Roca Meteorítica, formada por impacto extraterrestre",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la clasificación petrogenética terrestre de esta roca."
+        },
+        {
+          "letter": "C",
+          "text": "Roca Orgánica, formada exclusivamente por restos fósiles vegetales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde al carbón o turba."
+        },
+        {
+          "letter": "D",
+          "text": "Roca Evaporítica, formada por cristalización salina en salares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde a la halita o yeso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el ciclo de las rocas, el Mármol se clasifica como Roca Metamórfica porque se origina mediante recristalización de calizas sometidas a alta presión y temperatura.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.68,
+      "bundle_id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v13",
+      "statement": "¿Cómo se clasifica el $Granito$ y cuál es su proceso de formación característico?",
+      "context": "Ciclo de las rocas y procesos geológicos Caso N° 13.\n**ID:** AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v13\n**Bloom:** Analyze\n**EJE:** Ciencias de la Tierra y Astronomía\n**Expected_Success:** 0.66",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Roca Ígnea Plutónica, formada por enfriamiento lento del magma en profundidad",
+          "is_correct": true,
+          "feedback": "Correcto. El $Granito$ es una Roca Ígnea Plutónica originada por enfriamiento lento del magma en profundidad."
+        },
+        {
+          "letter": "B",
+          "text": "Roca Meteorítica, formada por impacto extraterrestre",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la clasificación petrogenética terrestre de esta roca."
+        },
+        {
+          "letter": "C",
+          "text": "Roca Orgánica, formada exclusivamente por restos fósiles vegetales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde al carbón o turba."
+        },
+        {
+          "letter": "D",
+          "text": "Roca Evaporítica, formada por cristalización salina en salares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde a la halita o yeso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el ciclo de las rocas, el Granito se clasifica como Roca Ígnea Plutónica porque se origina mediante enfriamiento lento del magma en profundidad.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.66,
+      "bundle_id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v14",
+      "statement": "¿Cómo se clasifica el $Basalto$ y cuál es su proceso de formación característico?",
+      "context": "Ciclo de las rocas y procesos geológicos Caso N° 14.\n**ID:** AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v14\n**Bloom:** Analyze\n**EJE:** Ciencias de la Tierra y Astronomía\n**Expected_Success:** 0.64",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Roca Ígnea Volcánica, formada por enfriamiento rápido de la lava en superficie",
+          "is_correct": true,
+          "feedback": "Correcto. El $Basalto$ es una Roca Ígnea Volcánica originada por enfriamiento rápido de la lava en superficie."
+        },
+        {
+          "letter": "B",
+          "text": "Roca Meteorítica, formada por impacto extraterrestre",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la clasificación petrogenética terrestre de esta roca."
+        },
+        {
+          "letter": "C",
+          "text": "Roca Orgánica, formada exclusivamente por restos fósiles vegetales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde al carbón o turba."
+        },
+        {
+          "letter": "D",
+          "text": "Roca Evaporítica, formada por cristalización salina en salares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde a la halita o yeso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el ciclo de las rocas, el Basalto se clasifica como Roca Ígnea Volcánica porque se origina mediante enfriamiento rápido de la lava en superficie.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.64,
+      "bundle_id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v15",
+      "statement": "¿Cómo se clasifica el $Arenisca$ y cuál es su proceso de formación característico?",
+      "context": "Ciclo de las rocas y procesos geológicos Caso N° 15.\n**ID:** AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v15\n**Bloom:** Apply\n**EJE:** Ciencias de la Tierra y Astronomía\n**Expected_Success:** 0.62",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Roca Sedimentaria Detrítica, formada por compactación y cementación de granos de arena",
+          "is_correct": true,
+          "feedback": "Correcto. El $Arenisca$ es una Roca Sedimentaria Detrítica originada por compactación y cementación de granos de arena."
+        },
+        {
+          "letter": "B",
+          "text": "Roca Meteorítica, formada por impacto extraterrestre",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la clasificación petrogenética terrestre de esta roca."
+        },
+        {
+          "letter": "C",
+          "text": "Roca Orgánica, formada exclusivamente por restos fósiles vegetales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde al carbón o turba."
+        },
+        {
+          "letter": "D",
+          "text": "Roca Evaporítica, formada por cristalización salina en salares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde a la halita o yeso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el ciclo de las rocas, el Arenisca se clasifica como Roca Sedimentaria Detrítica porque se origina mediante compactación y cementación de granos de arena.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v16",
+      "statement": "¿Cómo se clasifica el $Mármol$ y cuál es su proceso de formación característico?",
+      "context": "Ciclo de las rocas y procesos geológicos Caso N° 16.\n**ID:** AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v16\n**Bloom:** Analyze\n**EJE:** Ciencias de la Tierra y Astronomía\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Roca Metamórfica, formada por recristalización de calizas sometidas a alta presión y temperatura",
+          "is_correct": true,
+          "feedback": "Correcto. El $Mármol$ es una Roca Metamórfica originada por recristalización de calizas sometidas a alta presión y temperatura."
+        },
+        {
+          "letter": "B",
+          "text": "Roca Meteorítica, formada por impacto extraterrestre",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la clasificación petrogenética terrestre de esta roca."
+        },
+        {
+          "letter": "C",
+          "text": "Roca Orgánica, formada exclusivamente por restos fósiles vegetales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde al carbón o turba."
+        },
+        {
+          "letter": "D",
+          "text": "Roca Evaporítica, formada por cristalización salina en salares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde a la halita o yeso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el ciclo de las rocas, el Mármol se clasifica como Roca Metamórfica porque se origina mediante recristalización de calizas sometidas a alta presión y temperatura.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v17",
+      "statement": "¿Cómo se clasifica el $Granito$ y cuál es su proceso de formación característico?",
+      "context": "Ciclo de las rocas y procesos geológicos Caso N° 17.\n**ID:** AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v17\n**Bloom:** Evaluate\n**EJE:** Ciencias de la Tierra y Astronomía\n**Expected_Success:** 0.58",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Roca Ígnea Plutónica, formada por enfriamiento lento del magma en profundidad",
+          "is_correct": true,
+          "feedback": "Correcto. El $Granito$ es una Roca Ígnea Plutónica originada por enfriamiento lento del magma en profundidad."
+        },
+        {
+          "letter": "B",
+          "text": "Roca Meteorítica, formada por impacto extraterrestre",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la clasificación petrogenética terrestre de esta roca."
+        },
+        {
+          "letter": "C",
+          "text": "Roca Orgánica, formada exclusivamente por restos fósiles vegetales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde al carbón o turba."
+        },
+        {
+          "letter": "D",
+          "text": "Roca Evaporítica, formada por cristalización salina en salares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde a la halita o yeso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el ciclo de las rocas, el Granito se clasifica como Roca Ígnea Plutónica porque se origina mediante enfriamiento lento del magma en profundidad.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.58,
+      "bundle_id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v18",
+      "statement": "¿Cómo se clasifica el $Basalto$ y cuál es su proceso de formación característico?",
+      "context": "Ciclo de las rocas y procesos geológicos Caso N° 18.\n**ID:** AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v18\n**Bloom:** Evaluate\n**EJE:** Ciencias de la Tierra y Astronomía\n**Expected_Success:** 0.56",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Roca Ígnea Volcánica, formada por enfriamiento rápido de la lava en superficie",
+          "is_correct": true,
+          "feedback": "Correcto. El $Basalto$ es una Roca Ígnea Volcánica originada por enfriamiento rápido de la lava en superficie."
+        },
+        {
+          "letter": "B",
+          "text": "Roca Meteorítica, formada por impacto extraterrestre",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la clasificación petrogenética terrestre de esta roca."
+        },
+        {
+          "letter": "C",
+          "text": "Roca Orgánica, formada exclusivamente por restos fósiles vegetales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde al carbón o turba."
+        },
+        {
+          "letter": "D",
+          "text": "Roca Evaporítica, formada por cristalización salina en salares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde a la halita o yeso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el ciclo de las rocas, el Basalto se clasifica como Roca Ígnea Volcánica porque se origina mediante enfriamiento rápido de la lava en superficie.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.56,
+      "bundle_id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v19",
+      "statement": "¿Cómo se clasifica el $Arenisca$ y cuál es su proceso de formación característico?",
+      "context": "Ciclo de las rocas y procesos geológicos Caso N° 19.\n**ID:** AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v19\n**Bloom:** Evaluate\n**EJE:** Ciencias de la Tierra y Astronomía\n**Expected_Success:** 0.54",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Roca Sedimentaria Detrítica, formada por compactación y cementación de granos de arena",
+          "is_correct": true,
+          "feedback": "Correcto. El $Arenisca$ es una Roca Sedimentaria Detrítica originada por compactación y cementación de granos de arena."
+        },
+        {
+          "letter": "B",
+          "text": "Roca Meteorítica, formada por impacto extraterrestre",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la clasificación petrogenética terrestre de esta roca."
+        },
+        {
+          "letter": "C",
+          "text": "Roca Orgánica, formada exclusivamente por restos fósiles vegetales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde al carbón o turba."
+        },
+        {
+          "letter": "D",
+          "text": "Roca Evaporítica, formada por cristalización salina en salares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde a la halita o yeso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el ciclo de las rocas, el Arenisca se clasifica como Roca Sedimentaria Detrítica porque se origina mediante compactación y cementación de granos de arena.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.54,
+      "bundle_id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v20",
+      "statement": "¿Cómo se clasifica el $Mármol$ y cuál es su proceso de formación característico?",
+      "context": "Ciclo de las rocas y procesos geológicos Caso N° 20.\n**ID:** AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle-v20\n**Bloom:** Evaluate\n**EJE:** Ciencias de la Tierra y Astronomía\n**Expected_Success:** 0.52",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Roca Metamórfica, formada por recristalización de calizas sometidas a alta presión y temperatura",
+          "is_correct": true,
+          "feedback": "Correcto. El $Mármol$ es una Roca Metamórfica originada por recristalización de calizas sometidas a alta presión y temperatura."
+        },
+        {
+          "letter": "B",
+          "text": "Roca Meteorítica, formada por impacto extraterrestre",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la clasificación petrogenética terrestre de esta roca."
+        },
+        {
+          "letter": "C",
+          "text": "Roca Orgánica, formada exclusivamente por restos fósiles vegetales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde al carbón o turba."
+        },
+        {
+          "letter": "D",
+          "text": "Roca Evaporítica, formada por cristalización salina en salares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción corresponde a la halita o yeso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el ciclo de las rocas, el Mármol se clasifica como Roca Metamórfica porque se origina mediante recristalización de calizas sometidas a alta presión y temperatura.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.52,
+      "bundle_id": "AR-CIE-11-2026-W20-geologia-ciclo-rocas-tectonica-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    }
+  ]
+}

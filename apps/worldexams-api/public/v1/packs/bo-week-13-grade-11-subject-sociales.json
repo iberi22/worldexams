@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "sociales",
+    "country": "bo",
+    "pack_id": "bo-week-13-grade-11-subject-sociales",
+    "generated_at": "2026-09-12T16:46:07.259Z"
+  },
+  "questions": [
+    {
+      "id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el pilar fundamental del Modelo Económico Social Comunitario Productivo implementado en Bolivia desde 2006?",
+      "context": "En La Paz, el estudiante Grover del Colegio Nacional Ayacucho estudia la estructura del Modelo Económico Social Comunitario Productivo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La adopción del dólar como moneda oficial de curso legal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se impulsó la 'bolivianización' de la economía nacional."
+        },
+        {
+          "letter": "B",
+          "text": "La prohibición del comercio exterior y la autarquía económica absoluta",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modelo promueve exportaciones con valor agregado e integración."
+        },
+        {
+          "letter": "C",
+          "text": "El rol del Estado como redistribuidor del excedente generado por las empresas públicas hacia la población",
+          "is_correct": true,
+          "feedback": "Correcto. Contrasta con el modelo neoliberal al priorizar el mercado interno y la reducción de la pobreza."
+        },
+        {
+          "letter": "D",
+          "text": "La privatización de la totalidad de los servicios públicos y recursos naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fue el paradigma neoliberal revertido en 2006."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Modelo Comunitario Productivo aprovecha los excedentes de sectores estratégicos (gas, minería) para diversificar la economía e impulsar bonos sociales.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v2",
+      "statement": "Bolivia es miembro fundador del proceso de integración andino establecido en 1969 denominado:",
+      "context": "En Cochabamba, la estudiante Roxana de la Unidad Educativa Don Bosco analiza el impacto del comercio intracomunitario en la CAN para Bolivia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comunidad Andina (CAN)",
+          "is_correct": true,
+          "feedback": "Correcto. Integrada por Bolivia, Colombia, Ecuador y Perú."
+        },
+        {
+          "letter": "B",
+          "text": "Mercado Común del Sur (MERCOSUR)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Proceso al cual Bolivia concretó su adhesión plena recientemente."
+        },
+        {
+          "letter": "C",
+          "text": "Alianza del Pacífico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bloque comercial conformado por Chile, Colombia, México y Perú."
+        },
+        {
+          "letter": "D",
+          "text": "Unión de Naciones Suramericanas (UNASUR)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bloque de integración regional creado en 2008."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La CAN promueve la libre circulación de bienes, servicios y ciudadanos en el área andina.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v3",
+      "statement": "¿Qué ventaja geopolítica estratégica ofrece la incorporación plena de Bolivia al MERCOSUR?",
+      "context": "En Santa Cruz, el estudiante Jhonny del Colegio Bolívar evalúa el rol integrador de Bolivia entre la CAN y el MERCOSUR.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reemplazar el uso del boliviano por el real brasileño",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los países del MERCOSUR conservan sus monedas nacionales sovereign."
+        },
+        {
+          "letter": "B",
+          "text": "Eliminar las fronteras territoriales con los países de Europa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El MERCOSUR es un acuerdo sudamericano."
+        },
+        {
+          "letter": "C",
+          "text": "Consolidar a Bolivia como el articulador o 'puente' entre la cuenca Andina y la cuenca del Plata/Atlántico",
+          "is_correct": true,
+          "feedback": "Correcto. Posiciona al país como el nexo geoeconómico de Sudamérica."
+        },
+        {
+          "letter": "D",
+          "text": "Abolir los impuestos a la importación de mercancías de Asia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El MERCOSUR aplica un arancel externo común entre sus socios."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Bolivia es el único país sudamericano que pertenece formalmente al MERCOSUR y a la CAN, optimizando su posición bioceánica.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v4",
+      "statement": "El proyecto del 'Corredor Ferroviario Bioceánico de Integración' busca unir eficientemente:",
+      "context": "En El Alto, la estudiante Marisol del Colegio San Simón identifica en un mapa la ruta del Corredor Ferroviario Bioceánico de Integración.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ciudad de La Paz con la ciudad de Buenos Aires mediante un túnel subterráneo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un proyecto de ferrocarril bioceánico de superficie entre puertos."
+        },
+        {
+          "letter": "B",
+          "text": "Los puertos del Océano Atlántico (Brasil) con los puertos del Océano Pacífico (Perú) atravesando Bolivia",
+          "is_correct": true,
+          "feedback": "Correcto. Reduce costos y tiempos de transporte para el comercio con Asia."
+        },
+        {
+          "letter": "C",
+          "text": "Los puertos de Colombia con los puertos de Argentina por la cordillera",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ruta central cruza por Brasil, Bolivia y Perú."
+        },
+        {
+          "letter": "D",
+          "text": "La selva amazónica de Pando con las costas de Chile sin tocar el altiplano",
+          "is_correct": false,
+          "feedback": "Incorrecto. El trazado atraviesa el corazón del territorio boliviano de oriente a occidente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Corredor Bioceánico convierte a Bolivia en el eje logístico sudamericano acortando distancias marítimas comerciales.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v5",
+      "statement": "¿Qué empresa pública estratégica es la mayor generadora de ingresos fiscales por exportación de gas natural a la región?",
+      "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín analiza los informes de recaudación fiscal de YPFB por venta de gas natural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Corporación Minera de Bolivia (COMIBOL)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Administra la minería estatal."
+        },
+        {
+          "letter": "B",
+          "text": "Yacimientos Petrolíferos Fiscales Bolivianos (YPFB)",
+          "is_correct": true,
+          "feedback": "Correcto. Maneja la cadena hidrocarburífera y la comercialización internacional."
+        },
+        {
+          "letter": "C",
+          "text": "Empresa Estatal de Transporte por Cable 'Mi Teleférico'",
+          "is_correct": false,
+          "feedback": "Incorrecto. Opera el transporte urbano por cable en La Paz y El Alto."
+        },
+        {
+          "letter": "D",
+          "text": "Empresa Nacional de Telecomunicaciones (ENTEL)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Genera ingresos en el área de conectividad y telecomunicaciones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "YPFB es la columna vertebral de los ingresos estatales que financian bonos sociales e infraestructura.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v6",
+      "statement": "Entre los productos de la oferta exportable boliviana, ¿cuáles representan exportaciones TRADICIONALES primarias?",
+      "context": "En Potosí, el estudiante Ronald de la Unidad Educativa Juan Pablo II compara la participación de exportaciones tradicionales y no tradicionales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Textiles de alpaca y joyería fina industrializada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son productos manufacturados no tradicionales de valor agregado."
+        },
+        {
+          "letter": "B",
+          "text": "Soya, castaña, quinua y carne bovina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se clasifican como exportaciones NO tradicionales agroindustriales."
+        },
+        {
+          "letter": "C",
+          "text": "Gas natural, zinc, oro, plata y estaño",
+          "is_correct": true,
+          "feedback": "Correcto. Son materias primas extractivas sin mayor procesamiento industrial."
+        },
+        {
+          "letter": "D",
+          "text": "Computadoras, teléfonos celulares y automóviles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponden a manufacturas de alta tecnología no producidas masivamente para exportación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La canasta exportadora tradicional depende de precios internacionales de minerales e hidrocarburos.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v7",
+      "statement": "El departamento de Santa Cruz lidera las exportaciones NO TRADICIONALES de Bolivia principalmente con el complejo de:",
+      "context": "En Oruro, el estudiante Limbert del Colegio San Calixto analiza el aporte de la soya a la balanza comercial boliviana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Minería de plomo y zinc a gran escala",
+          "is_correct": false,
+          "feedback": "Incorrecto. La minería pesada de zinc y plomo se concentra en Potosí."
+        },
+        {
+          "letter": "B",
+          "text": "Gas natural comprimido para exportación insular",
+          "is_correct": false,
+          "feedback": "Incorrecto. El gas natural forma parte del rubro exportador tradicional."
+        },
+        {
+          "letter": "C",
+          "text": "Soya y derivados oleaginosos (torta y aceite de soya)",
+          "is_correct": true,
+          "feedback": "Correcto. Es el motor agroindustrial del oriente boliviano."
+        },
+        {
+          "letter": "D",
+          "text": "Castaña y goma elástica exclusivamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. La castaña se produce predominantemente en Pando y Beni."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El complejo oleaginoso cruceño es el mayor exponente del agroexportador no tradicional del país.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v8",
+      "statement": "La 'Quinua Real' producida en el intersalar de Potosí y Oruro destaca internacionalmente por:",
+      "context": "En Tarija, la estudiante Shirley del Colegio Nacional Pichincha estudia las características de la Denominación de Origen de la Quinua Real.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Utilizarse exclusivamente para la producción de biocombustibles sintéticos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un alimento esencial de consumo humano."
+        },
+        {
+          "letter": "B",
+          "text": "Su altísimo valor nutritivo, cultivo orgánico ancestral y contar con Denominación de Origen",
+          "is_correct": true,
+          "feedback": "Correcto. Es apreciada globalmente como un superalimento andino único."
+        },
+        {
+          "letter": "C",
+          "text": "Ser un cultivo transgénico creado en laboratorios de Europa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un grano nativo milenario cultivado por aymaras y quechuas."
+        },
+        {
+          "letter": "D",
+          "text": "Requerir suelos inundados tropicales de baja altitud",
+          "is_correct": false,
+          "feedback": "Incorrecto. Prospera en las condiciones extremas del altiplano árido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Quinua Real es patrimonio agrícola de Bolivia garantizando soberanía alimentaria y divisas exportadoras.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v9",
+      "statement": "La política de 'Industrialización con Sustitución de Importaciones' (ISI) implementada en Bolivia busca:",
+      "context": "En Trinidad, el estudiante Boris del Colegio Antonio Vaca Díez evalúa la instalación de plantas industriales estatales para la sustitución de importaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eliminar los aranceles para fomentar el ingreso de ropa usada y contrabando",
+          "is_correct": false,
+          "feedback": "Incorrecto. Combatir el contrabando es clave para proteger la industria nacional."
+        },
+        {
+          "letter": "B",
+          "text": "Producir localmente bienes de consumo, insumos y fertilizantes para reducir la dependencia de compras al exterior",
+          "is_correct": true,
+          "feedback": "Correcto. Apunta a plantas de urea, biodiesel, vidrios y procesamiento de alimentos."
+        },
+        {
+          "letter": "C",
+          "text": "Cerrar las fronteras al comercio internacional de exportación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Promueve exportaciones con valor agregado nacional."
+        },
+        {
+          "letter": "D",
+          "text": "Importar la totalidad de los alimentos de primera necesidad desde países vecinos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pretende reducir las importaciones fortaleciendo la producción interna."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ISI busca fortalecer el tejido industrial boliviano generando empleo y conservando divisas.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v10",
+      "statement": "Ubicada en Bulo Bulo (Cochabamba), la Planta de Urea y Amoníaco representa el primer paso firme hacia la:",
+      "context": "En Cobija, el estudiante Franz del Colegio Nacional Florida analiza el impacto de la fertilización con urea en los cultivos agrícolas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Generación de energía nuclear de alta potencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una planta de producción de urea sintética a partir de gas."
+        },
+        {
+          "letter": "B",
+          "text": "Fabricación de neumáticos de caucho sintético",
+          "is_correct": false,
+          "feedback": "Incorrecto. Produce fertilizantes nitrogenados para el agro."
+        },
+        {
+          "letter": "C",
+          "text": "Refinación de mineral de oro de la Amazonía",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bulo Bulo es un complejo petroquímico gasífero, no metalúrgico."
+        },
+        {
+          "letter": "D",
+          "text": "Industrialización petroquímica del gas natural",
+          "is_correct": true,
+          "feedback": "Correcto. Transforma el gas en fertilizantes para la agricultura nacional e internacional."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La urea de Bulo Bulo sustituye importaciones de fertilizantes e incrementa el rendimiento agrícola regional.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v11",
+      "statement": "¿Qué norma legal regula el sistema bancario boliviano obligando a destinar porcentajes de crédito a tasas de interés fijas para el sector productivo y la vivienda de interés social?",
+      "context": "En Tupiza, la estudiante Nancy del Colegio Nacional Ayacucho examina los requisitos de los créditos productivos regulados por la Ley 393.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Código Mercantil de 1834",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un código legal histórico del siglo XIX."
+        },
+        {
+          "letter": "B",
+          "text": "La Ley del Medio Ambiente N° 1333",
+          "is_correct": false,
+          "feedback": "Incorrecto. Regula la gestión de calidad ambiental y reservas natural."
+        },
+        {
+          "letter": "C",
+          "text": "El Decreto Supremo 21060 de libre mercado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 21060 desreguló el sistema financiero a tasas de libre oferta."
+        },
+        {
+          "letter": "D",
+          "text": "La Ley N° 393 de Servicios Financieros",
+          "is_correct": true,
+          "feedback": "Correcto. Reorientó el crédito bancario hacia la producción nacional y el acceso a la vivienda."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La Ley 393 prioriza la función social de las entidades financieras canalizando recursos hacia la industria y la vivienda familiar.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v12",
+      "statement": "Un rasgo estructural de la economía urbana boliviana es la presencia de un elevado porcentaje de población trabajadora en la 'economía informal', visible en:",
+      "context": "En Uyuni, el estudiante Edwin de la Unidad Educativa Don Bosco estudia la dinámica socioeconómica de la Feria 16 de Julio en El Alto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los ministerios y entidades del aparato central del Estado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Conforman la administración pública formal."
+        },
+        {
+          "letter": "B",
+          "text": "Las grandes empresas petroleras multinacionales corporativas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pertenecen al sector corporativo formal altamente especializado."
+        },
+        {
+          "letter": "C",
+          "text": "Las embajadas y organismos diplomáticos acreditados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son representaciones oficiales internacionales."
+        },
+        {
+          "letter": "D",
+          "text": "Ferias populares multiproducto como la 16 de Julio en El Alto o La Cancha en Cochabamba",
+          "is_correct": true,
+          "feedback": "Correcto. Absorben mano de obra por cuenta propia pero carecen de seguridad social formal a largo plazo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El sector informal de comercio y servicios genera ingresos inmediatos pero plantea desafíos para la seguridad social y tributaria.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v13",
+      "statement": "Lanzado en 2013, el primer satélite boliviano de telecomunicaciones denominado 'Túpac Katari' (TKSAT-1) ha permitido principalmente:",
+      "context": "En Viacha, el estudiante Marcelo del Colegio Bolívar analiza la cobertura de la Agencia Boliviana Espacial (ABE) en municipios alejados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Democratizar la cobertura de internet, telefonía y televisión en comunidades rurales y aisladas del país",
+          "is_correct": true,
+          "feedback": "Correcto. Operado por la Agencia Boliviana Espacial (ABE), redujo la brecha digital."
+        },
+        {
+          "letter": "B",
+          "text": "Predecir terremotos con un año de anticipación en el altiplano",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los satélites de telecomunicaciones no predicen sismos geológicos."
+        },
+        {
+          "letter": "C",
+          "text": "Guiar barcos de guerra en los océanos globales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Brinda conectividad digital a escuelas y centros de salud rurales."
+        },
+        {
+          "letter": "D",
+          "text": "Fotografiar el fondo de los salares para extraer oro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El TKSAT-1 es un satélite de telecomunicaciones geoestacionario."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El TKSAT-1 es una herramienta de inclusión digital para la educación y salud a distancia en zonas rurales.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v14",
+      "statement": "El sistema de transporte público urbano por cable aéreo 'Mi Teleférico', que une las ciudades de La Paz y El Alto, destaca mundialmente por ser:",
+      "context": "En Quillacollo, el estudiante Freddy del Colegio San Simón evalúa el impacto ambiental y social de las líneas de Mi Teleférico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una flota de autobuses alimentados por carbón vegetal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Funciona con energía eléctrica limpia."
+        },
+        {
+          "letter": "B",
+          "text": "La red de teleféricos urbanos más extensa, alta y moderna del planeta",
+          "is_correct": true,
+          "feedback": "Correcto. Reorganizó la movilidad metropolitana reduciendo el tiempo de viaje y la contaminación."
+        },
+        {
+          "letter": "C",
+          "text": "Un sistema de trenes subterráneos de alta velocidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un sistema de cabinas suspendidas por cables aéreos."
+        },
+        {
+          "letter": "D",
+          "text": "Un proyecto experimental privado de uso turístico exclusivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una empresa pública estatal de transporte masivo urbano."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Mi Teleférico transformó la movilidad entre El Alto y La Paz integrando socialmente a las poblaciones metropolitanas.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v15",
+      "statement": "El mecanismo de integración basado en la solidaridad, complementariedad y comercio justo entre pueblos de la región se denomina:",
+      "context": "En Sacaba, el estudiante René del Colegio Nacional Junín analiza los convenios de salud y educación suscritos en el marco del ALBA-TCP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Organización del Tratado del Atlántico Norte (OTAN)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una alianza militar intergubernamental del Atlántico Norte."
+        },
+        {
+          "letter": "B",
+          "text": "ALBA-TCP (Alianza Bolivariana para los Pueblos de Nuestra América - Tratado de Comercio de los Pueblos)",
+          "is_correct": true,
+          "feedback": "Correcto. Impulsó programas sociales de salud (Misión Moto Méndez) y educación."
+        },
+        {
+          "letter": "C",
+          "text": "Tratado de Libre Comercio de América del Norte (TLCAN/USMCA)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el acuerdo comercial de Norteamérica."
+        },
+        {
+          "letter": "D",
+          "text": "Foro de Cooperación Económica Asia-Pacífico (APEC)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Foro de cooperación económica del Pacífico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ALBA-TCP plantea un modelo alternativo al libre comercio priorizando la cooperación social y soberana.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v16",
+      "statement": "¿Qué fenómeno demográfico caracteriza la distribución de la población en Bolivia según los últimos censos?",
+      "context": "En Montero, la estudiante Lidia de la Unidad Educativa Juan Pablo II compara la densidad de población entre el Eje Central y las áreas rurales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La concentración del 90% de la población exclusivamente en el departamento de Pando",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pando es el departamento con menor densidad demográfica del país."
+        },
+        {
+          "letter": "B",
+          "text": "La marcada concentración poblacional en las ciudades del 'Eje Central' (La Paz-El Alto, Cochabamba y Santa Cruz)",
+          "is_correct": true,
+          "feedback": "Correcto. Albergando a más del 70% de los habitantes del país."
+        },
+        {
+          "letter": "C",
+          "text": "El despoblamiento total de las áreas urbanas hacia los bosques tropicales",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tendencia histórica constante ha sido la urbanización ascendente."
+        },
+        {
+          "letter": "D",
+          "text": "La distribución homogénea y uniforme de habitantes en todas las provincias del país",
+          "is_correct": false,
+          "feedback": "Incorrecto. Existen profundas asimetrías de densidad entre el campo y la ciudad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El crecimiento del Eje Central plantea retos metrópolitanos de planificación, servicios básicos y empleo digno.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v17",
+      "statement": "Al analizar la estructura de exportaciones bolivianas, ¿por qué la dependencia de recursos extractivos primarios (gas y minerales) expone la vulnerabilidad de la economía nacional?",
+      "context": "En Riberalta, el estudiante Mateo del Colegio San Calixto evalúa el impacto de la caída internacional de precios de materias primas en el presupuesto estatal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los ingresos fiscales quedan sujetos a la alta volatilidad de los precios fijados en los mercados internacionales",
+          "is_correct": true,
+          "feedback": "Correcto. Los shocks externos de precios reducen abruptamente la liquidez del Estado."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los productos extractivos no pagan ningún impuesto aduanero en Bolivia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pagan regalías e impuestos directos como el IDH."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la extracción de gas destruye la totalidad de los cultivos de exportación no tradicional",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos sectores coexisten en la estructura económica."
+        },
+        {
+          "letter": "D",
+          "text": "Porque Bolivia no cuenta con vías de transporte para sacar sus productos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El país utiliza corredores carreteros, ferroviarios y fluviales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La vulnerabilidad extractivista exige acelerar la diversificación productiva y la industrialización soberana.\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v18",
+      "statement": "¿De qué manera el desarrollo de la Planta Petroquímica de Urea en Bulo Bulo contribuye a la Seguridad y Soberanía Alimentaria del país?",
+      "context": "En Warnes, la estudiante Camila del Colegio Nacional Pichincha analiza el impacto del uso de fertilizantes en el rendimiento por hectárea de cultivos nativos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al reemplazar la producción de granos nativos por productos sintéticos derivados del gas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La urea es un fertilizante que nutre el suelo para producir granos naturales."
+        },
+        {
+          "letter": "B",
+          "text": "Al proveer fertilizantes a bajo costo para incrementar el rendimiento por hectárea de los cultivos nacionales",
+          "is_correct": true,
+          "feedback": "Correcto. Mejora la productividad del maíz, arroz, trigo y hortalizas sin depender de abonos importados."
+        },
+        {
+          "letter": "C",
+          "text": "Al obligar a los agricultores a exportar la totalidad de su cosecha a Europa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Prioriza el abastecimiento del mercado agrícola interno."
+        },
+        {
+          "letter": "D",
+          "text": "Al eliminar el uso de suelo agrícola en favor de invernaderos metálicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fertilización se aplica directamente a los suelos de cultivo agrícola."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La urea incrementa la productividad agrícola fortaleciendo la disponibilidad de alimentos para el pueblo boliviano.\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v19",
+      "statement": "Al comparar el modelo de enclaves mineros del estaño del siglo XX con el modelo del gas natural del siglo XXI, ¿qué avance sustancial logró el Estado Plurinacional?",
+      "context": "En Colcapirhua, el estudiante Gonzalo del Colegio Antonio Vaca Díez compara la recaudación fiscal del estaño en 1940 con la renta gasífera del siglo XXI.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cierre definitivo de las fronteras comerciales de Bolivia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se amplió el comercio regional con el MERCOSUR y la CAN."
+        },
+        {
+          "letter": "B",
+          "text": "La entrega de la administración petrolera a ejércitos extranjeros",
+          "is_correct": false,
+          "feedback": "Incorrecto. La administración recae de forma soberana en YPFB."
+        },
+        {
+          "letter": "C",
+          "text": "La privatización de la educación fiscal gratuita",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Estado fortaleció el presupuesto de la educación pública."
+        },
+        {
+          "letter": "D",
+          "text": "La captación de la renta hidrocarburífera (IDH y regalías) por el Estado para su distribución pública e inversión social",
+          "is_correct": true,
+          "feedback": "Correcto. A diferencia del siglo XX donde las ganancias del estaño quedaban en manos de tres Barones privatizadores."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La captura estatal de la renta del gas mediante el IDH permitió financiar la infraestructura social del país.\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v20",
+      "statement": "Al juzgar de manera integral los retos del desarrollo sostenible en Bolivia, ¿cuál es la tarea pendiente más apremiante?",
+      "context": "En Yacuiba, la estudiante Paola del Colegio Nacional Florida formula reflexiones críticas sobre los desafíos del desarrollo sostenible en Bolivia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Retornar a las formas serviles de explotación del pongueaje colonial",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pongueaje fue erradicado por ser una institución de servidumbre inadmisible."
+        },
+        {
+          "letter": "B",
+          "text": "Abandonar el uso de internet y tecnologías digitales en el sistema educativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La inclusión digital es prioritaria en la Ley Avelino Siñani."
+        },
+        {
+          "letter": "C",
+          "text": "Eliminar la moneda nacional boliviana para usar monedas extranjeras de crédito",
+          "is_correct": false,
+          "feedback": "Incorrecto. El boliviano es la moneda soberana consolidada del sistema financiero."
+        },
+        {
+          "letter": "D",
+          "text": "Superar el modelo extractivista primario avanzando hacia una industrialización con equidad social y respeto a la naturaleza",
+          "is_correct": true,
+          "feedback": "Correcto. Articular el desarrollo tecnológico con la protección de la Madre Tierra y el trabajo digno."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El reto estratégico de Bolivia es transitar hacia una economía diversificada, industrializada y armónica con el medio ambiente.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "BO-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    }
+  ]
+}

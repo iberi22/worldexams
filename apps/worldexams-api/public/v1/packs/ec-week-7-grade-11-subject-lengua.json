@@ -8,268 +8,178 @@
   },
   "questions": [
     {
-      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v1",
-      "statement": "En una editorial del diario de Riobamba, un autor critica con dureza el uso indiscriminado de plásticos de un solo uso, calificándolos de 'crimen ecológico contra las futuras generaciones ecuatorianas'. ¿Cuál es el tono predominante del autor?",
-      "context": "Gabriela, estudiante de 11° de Bachillerato en el Colegio Nacional Maldonado de Riobamba, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
+      "id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle-v1",
+      "statement": "¿Qué autor ecuatoriano escribió \"Huasipungo\" (1934), novela de la tierra y de denuncia social sobre el abuso de los hacendados hacia los indígenas?",
+      "context": "Estudiante de BGU de un colegio de Quito revisa la lista de lectura del curso sobre novela hispanoamericana.",
       "options": [
         {
           "letter": "A",
-          "text": "Irónico y humorístico, pues minimiza la gravedad de la contaminación en el Colegio Nacional Maldonado.",
+          "text": "Jorge Enrique Adoum",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Adoum fue un destacado poeta y ensayista ecuatoriano, pero no es el autor de Huasipungo."
         },
         {
           "letter": "B",
-          "text": "Objetivo e indiferente, limitándose a presentar cifras químicas en Riobamba.",
+          "text": "Pablo Palacio",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Palacio renovó la narrativa ecuatoriana con obras psicológicas como \"Un hombre muerto a puntapiés\", pero no escribió Huasipungo."
         },
         {
           "letter": "C",
-          "text": "Optimista y conciliador, felicitando a las grandes industrias de Riobamba.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "text": "Jorge Icaza",
+          "is_correct": true,
+          "feedback": "Correcto. Jorge Icaza publicó Huasipungo en 1934, obra central de la novela de la tierra ecuatoriana."
         },
         {
           "letter": "D",
-          "text": "Indignado y crítico, ya que utiliza adjetivos de fuerte impacto moral para sacudir la conciencia de los lectores de Riobamba.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "El uso de expresiones como 'crimen ecológico' y la condena severa denotan un tono indignado y crítico ante la pasividad social por el medio ambiente.\n\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.9,
-      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v2",
-      "statement": "Considere el fragmento de un artículo de opinión en Ibarra: 'La educación técnica del Bachillerato en el país debe transformarse de inmediato, pues seguimos graduando jóvenes bajo planes curriculares obsoletos del siglo pasado en el Colegio Nacional Olmedo'.",
-      "context": "David, estudiante de 11° de Bachillerato en el Colegio Nacional Olmedo de Ibarra, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Persuadir e impulsar un cambio estructural de las políticas curriculares del Bachillerato técnico de Ibarra.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "B",
-          "text": "Describir de manera neutral las materias técnicas que se imparten en el Colegio Nacional Olmedo de Ibarra.",
+          "text": "Demetrio Aguilera Malta",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "Entretener a los estudiantes de la provincia de Ibarra con anécdotas cómicas.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "Felicitar a las autoridades de Ibarra por el éxito del Bachillerato.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "La exigencia ('debe transformarse de inmediato') revela una clara intención persuasiva de reformar un sistema calificado de deficiente.\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.88,
-      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v3",
-      "statement": "Un folleto publicitario de una marca de gaseosas en Portoviejo afirma: 'Nuestra bebida es la opción más saludable, ya que contiene extracto de fruta natural y te llena de energía instantánea'.",
-      "context": "Elena, estudiante de 11° de Bachillerato en el Colegio Nacional Mejía de Portoviejo, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Una falta absoluta de destinatarios reales para la promoción del producto en Portoviejo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "Un sesgo de interés comercial en Portoviejo, que omite mencionar el alto contenido de azúcar perjudicial para la salud.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "C",
-          "text": "Una rigurosidad científica incuestionable avalada por médicos del Colegio Nacional Mejía de Portoviejo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "Un tono de extrema seriedad y formalidad literaria clásica del modernismo en Portoviejo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La lectura crítica identifica que la publicidad comercial suele resaltar atributos positivos mínimos (fruta natural) y silenciar los factores negativos (azúcar en exceso).\n\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.86,
-      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v4",
-      "statement": "En Machala, un bloguero publica: 'La vacunación es una conspiración de las grandes corporaciones para controlarnos a todos'. ¿Cuál es el principal criterio ético que debe aplicar Diana para evaluar la validez de esta información?",
-      "context": "Diana, estudiante de 11° de Bachillerato en el Colegio Nacional Vicente Rocafuerte de Machala, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Contrastar la afirmación del bloguero con estudios e informes de organismos científicos de salud reconocidos en Machala.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "B",
-          "text": "Aceptar de forma ciega la opinión del bloguero porque tiene muchos seguidores en Machala.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "Asumir que toda información de internet es verdadera por ley en el Colegio Nacional Vicente Rocafuerte de Machala.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "Ignorar el tema por completo para evitar debatir con sus compañeros en el Colegio Nacional Vicente Rocafuerte de Machala.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "La veracidad de afirmaciones complejas debe evaluarse bajo criterios de evidencia, respaldo científico e institucionalidad, no por popularidad en internet.\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.84,
-      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v5",
-      "statement": "Lea el extracto: 'La inmigración ha enriquecido históricamente la gastronomía, el arte y los valores de nuestra querida ciudad de Guayaquil y de Esmeraldas'. ¿Cuál es la postura o sesgo ideológico del autor respecto al fenómeno migratorio?",
-      "context": "Carlos, estudiante de 11° de Bachillerato en el Colegio Benigno Malo de Esmeraldas, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Indiferente y apática, restando importancia a los procesos migratorios históricos de Esmeraldas.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "Favorable y humanista, destacando los aportes de los migrantes en la cultura de Esmeraldas.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "C",
-          "text": "Xenófoba e intolerante, promoviendo restricciones migratorias de extrema severidad en Esmeraldas.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "Meramente estadística y técnica, describiendo flujos demográficos cerca del Colegio Benigno Malo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "El uso de términos positivos como 'enriquecido' y 'aportes' evidencia una postura abiertamente favorable hacia el aporte multicultural de los extranjeros.\n\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.82,
-      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v6",
-      "statement": "En una editorial del diario de Santo Domingo, un autor critica con dureza el uso indiscriminado de plásticos de un solo uso, calificándolos de 'crimen ecológico contra las futuras generaciones ecuatorianas'. ¿Cuál es el tono predominante del autor?",
-      "context": "Rafael, estudiante de 11° de Bachillerato en el Colegio Nacional Bolívar de Santo Domingo, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Objetivo e indiferente, limitándose a presentar cifras químicas en Santo Domingo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "Optimista y conciliador, felicitando a las grandes industrias de Santo Domingo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "Indignado y crítico, ya que utiliza adjetivos de fuerte impacto moral para sacudir la conciencia de los lectores de Santo Domingo.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "D",
-          "text": "Irónico y humorístico, pues minimiza la gravedad de la contaminación en el Colegio Nacional Bolívar.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Aguilera Malta retrató la costa ecuatoriana en \"Don Gallo\", pero Huasipungo pertenece a Jorge Icaza."
         }
       ],
       "correct_answer": "C",
-      "explanation": "El uso de expresiones como 'crimen ecológico' y la condena severa denotan un tono indignado y crítico ante la pasividad social por el medio ambiente.\n\n---",
-      "difficulty": "6",
+      "explanation": "Huasipungo (1934), de Jorge Icaza, es la novela más representativa de la literatura de la tierra en el Ecuador. Denuncia la explotación del indígena por los terratenientes y por la empresa caminera, y proyectó la narrativa ecuatoriana a nivel latinoamericano.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle-v2",
+      "statement": "¿Quién escribió \"Cien años de soledad\" (1967), novela cumbre del realismo mágico que narra la saga de la familia Buendía en Macondo?",
+      "context": "En un grupo de lectura de un colegio de Guayaquil se comenta el realismo mágico y sus obras clave.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gabriel García Márquez",
+          "is_correct": true,
+          "feedback": "Correcto. El escritor colombiano Gabriel García Márquez publicó Cien años de soledad en 1967."
+        },
+        {
+          "letter": "B",
+          "text": "Mario Vargas Llosa",
+          "is_correct": false,
+          "feedback": "Vargas Llosa es peruano y autor de La ciudad y los perros; no escribió Cien años de soledad."
+        },
+        {
+          "letter": "C",
+          "text": "Julio Cortázar",
+          "is_correct": false,
+          "feedback": "Cortázar es autor de Rayuela, una novela abierta, no de la saga de los Buendía."
+        },
+        {
+          "letter": "D",
+          "text": "Carlos Fuentes",
+          "is_correct": false,
+          "feedback": "Fuentes, narrador mexicano de \"La región más transparente\", no es el autor de esta novela del realismo mágico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cien años de soledad (1967), del colombiano Gabriel García Márquez, es el ícono del realismo mágico: lo extraordinario se narra con naturalidad dentro de la saga de los Buendía en Macondo. La obra consolidó la proyección mundial del boom latinoamericano.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle-v3",
+      "statement": "Un narrador homodiegético es aquel que",
+      "context": "Estudiante de BGU de Cuenca estudia los tipos de narrador antes de analizar una novela del curso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "narra desde fuera de la historia y conoce todo sobre los personajes.",
+          "is_correct": false,
+          "feedback": "Esa definición corresponde al narrador heterodiegético omnisciente, no al homodiegético."
+        },
+        {
+          "letter": "B",
+          "text": "participa como personaje en los hechos que él mismo relata.",
+          "is_correct": true,
+          "feedback": "Correcto. El narrador homodiegético es personaje y narrador a la vez, generalmente en primera persona."
+        },
+        {
+          "letter": "C",
+          "text": "ignora los pensamientos de todos los personajes, incluso los suyos.",
+          "is_correct": false,
+          "feedback": "El narrador homodiegético sí conoce su propia interioridad; lo que limita es su información sobre los demás."
+        },
+        {
+          "letter": "D",
+          "text": "reproduce únicamente diálogos ajenos sin intervenir jamás.",
+          "is_correct": false,
+          "feedback": "Un narrador que nunca interviene ni participa sería heterodiegético; el homodiegético actúa dentro de la fábula."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Según la tipología de Gérard Genette, el narrador homodiegético es personaje de su propio relato (narrador en \"yo\"), mientras que el heterodiegético narra desde fuera. Esta distinción es clave para calificar la fiabilidad y el punto de vista en la novela hispanoamericana.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle-v4",
+      "statement": "\"Pedro Páramo\" (1955), donde un hijo busca a su padre en un pueblo habitado por voces y muertos, es obra del mexicano",
+      "context": "En clase de Lengua en Quito se compara a Juan Rulfo con otros autores del boom y sus precursores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Carlos Fuentes, por pertenecer a la generación del boom.",
+          "is_correct": false,
+          "feedback": "Fuentes fue contemporáneo de Rulfo, pero Pedro Páramo no pertenece a su obra."
+        },
+        {
+          "letter": "B",
+          "text": "Juan Carlos Onetti, por tratarse de una ciudad imaginaria.",
+          "is_correct": false,
+          "feedback": "Onetti creó el puerto ficticio de Santa María en novelas como \"El astillero\", pero Pedro Páramo es de un autor mexicano."
+        },
+        {
+          "letter": "C",
+          "text": "Gabriel García Márquez, por usar procedimientos del realismo mágico.",
+          "is_correct": false,
+          "feedback": "García Márquez admiró a Rulfo y lo difundió, pero el autor de Pedro Páramo es otro narrador mexicano."
+        },
+        {
+          "letter": "D",
+          "text": "Juan Rulfo, autor de Comala y del universo narrativo de la Revolución mexicana.",
+          "is_correct": true,
+          "feedback": "Correcto. Juan Rulfo publicó Pedro Páramo en 1955, junto con el cuento El Llano en llamas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Pedro Páramo (1955), de Juan Rulfo, es una novela breve pero revolucionaria: fragmenta la cronología, mezcla voces de vivos y muertos, y condensa la crítica al poder caciquil. Influyó decisivamente en el realismo mágico y en el boom latinoamericano.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
       "expected_success": 0.8,
-      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
+      "bundle_id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -278,88 +188,43 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v7",
-      "statement": "Considere el fragmento de un artículo de opinión en Quito: 'La educación técnica del Bachillerato en el país debe transformarse de inmediato, pues seguimos graduando jóvenes bajo planes curriculares obsoletos del siglo pasado en el Unidad Educativa Santo Domingo'.",
-      "context": "Andrés, estudiante de 11° de Bachillerato en el Unidad Educativa Santo Domingo de Quito, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
+      "id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle-v5",
+      "statement": "Lee el fragmento: \"Aquella madrugada salí de la casa con el morral al hombro. No sabía que aquella decisión cambiaría mi destino; hoy, anciano, lo cuento todo como si lo volviera a vivir.\" ¿Qué tipo de narrador construye este relato?",
+      "context": "Un estudiante de BGU de Guayaquil analiza un fragmento inédito para un taller de lectura crítica.",
       "options": [
         {
           "letter": "A",
-          "text": "Felicitar a las autoridades de Quito por el éxito del Bachillerato.",
+          "text": "Heterodiegético omnisciente, porque conoce el futuro del pueblo.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "El narrador usa la primera persona (\"salí\", \"cuento\"), lo que lo hace personaje, no narrador externo."
         },
         {
           "letter": "B",
-          "text": "Persuadir e impulsar un cambio estructural de las políticas curriculares del Bachillerato técnico de Quito.",
+          "text": "Homodiegético, porque el narrador es un personaje anciano que relata sus propios hechos.",
           "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "feedback": "Correcto. Quien narra participa en la historia y rememora sus actos en primera persona: narrador homodiegético."
         },
         {
           "letter": "C",
-          "text": "Describir de manera neutral las materias técnicas que se imparten en el Unidad Educativa Santo Domingo de Quito.",
+          "text": "Omnisciente de focalización cero, porque juzga a los demás vecinos.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "No accede a la mente de todos los personajes; su saber está limitado a lo que él vivió y recuerda."
         },
         {
           "letter": "D",
-          "text": "Entretener a los estudiantes de la provincia de Quito con anécdotas cómicas.",
+          "text": "Testigo en tercera persona ajena a los sucesos.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "El testigo puede ser homodiegético, pero aquí narra sus propios hechos en \"yo\", no los de otro desde fuera."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La exigencia ('debe transformarse de inmediato') revela una clara intención persuasiva de reformar un sistema calificado de deficiente.\n\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.78,
-      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v8",
-      "statement": "Un folleto publicitario de una marca de gaseosas en Guayaquil afirma: 'Nuestra bebida es la opción más saludable, ya que contiene extracto de fruta natural y te llena de energía instantánea'.",
-      "context": "Estefanía, estudiante de 11° de Bachillerato en el Colegio Nacional Manta de Guayaquil, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Un tono de extrema seriedad y formalidad literaria clásica del modernismo en Guayaquil.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "Una falta absoluta de destinatarios reales para la promoción del producto en Guayaquil.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "Un sesgo de interés comercial en Guayaquil, que omite mencionar el alto contenido de azúcar perjudicial para la salud.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "D",
-          "text": "Una rigurosidad científica incuestionable avalada por médicos del Colegio Nacional Manta de Guayaquil.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "La lectura crítica identifica que la publicidad comercial suele resaltar atributos positivos mínimos (fruta natural) y silenciar los factores negativos (azúcar en exceso).\n\n---",
+      "explanation": "La marca de primera persona y el hecho de que el narrador sea el protagonista que rememora su propia vida lo clasifican como homodiegético posterior (narrar en retrospectiva). Identificar estas marcas es el primer paso del análisis narratológico de una novela.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.76,
-      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
+      "expected_success": 0.75,
+      "bundle_id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -368,133 +233,43 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v9",
-      "statement": "En Cuenca, un bloguero publica: 'La vacunación es una conspiración de las grandes corporaciones para controlarnos a todos'. ¿Cuál es el principal criterio ético que debe aplicar Ana para evaluar la validez de esta información?",
-      "context": "Ana, estudiante de 11° de Bachillerato en el Colegio Nacional Bernardo Valdivieso de Cuenca, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
+      "id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle-v6",
+      "statement": "Un personaje patronal dice en la novela: \"¿Huasipungo? Esos indios tienen terreno de sobra; que se corran un poco\". ¿Qué rasgo de la novela de denuncia se aplica mejor a este enunciado?",
+      "context": "En un colegio de Quito se lee \"Huasipungo\" y se discute su función social dentro de la novela de la tierra.",
       "options": [
         {
           "letter": "A",
-          "text": "Ignorar el tema por completo para evitar debatir con sus compañeros en el Colegio Nacional Bernardo Valdivieso de Cuenca.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "text": "La voz del opresor revelada mediante el discurso directo para exponer la injusticia terrateniente.",
+          "is_correct": true,
+          "feedback": "Correcto. La novela deja hablar al hacendado para que su propia voz delate la explotación al lector."
         },
         {
           "letter": "B",
-          "text": "Contrastar la afirmación del bloguero con estudios e informes de organismos científicos de salud reconocidos en Cuenca.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "La visión idealizada del latifundio andino como espacio armónico.",
+          "is_correct": false,
+          "feedback": "La novela hace lo contrario: muestra el despojo y la miseria, no una visión armónica del latifundio."
         },
         {
           "letter": "C",
-          "text": "Aceptar de forma ciega la opinión del bloguero porque tiene muchos seguidores en Cuenca.",
+          "text": "El humor costumbrista que celebra las costumbres de la hacienda.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "No hay celebración costumbrista; el tono es de denuncia y el habla del patrono ridiculiza sus abusos."
         },
         {
           "letter": "D",
-          "text": "Asumir que toda información de internet es verdadera por ley en el Colegio Nacional Bernardo Valdivieso de Cuenca.",
+          "text": "La interioridad poética del indígena expresada en verso libre.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "El fragmento pertenece al patrono en prosa; la novela no convierte la voz indígena en verso libre."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La veracidad de afirmaciones complejas debe evaluarse bajo criterios de evidencia, respaldo científico e institucionalidad, no por popularidad en internet.\n\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.74,
-      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v10",
-      "statement": "Lea el extracto: 'La inmigración ha enriquecido históricamente la gastronomía, el arte y los valores de nuestra querida ciudad de Guayaquil y de Ambato'. ¿Cuál es la postura o sesgo ideológico del autor respecto al fenómeno migratorio?",
-      "context": "Luis, estudiante de 11° de Bachillerato en el Colegio Nacional Nueve de Octubre de Ambato, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Indiferente y apática, restando importancia a los procesos migratorios históricos de Ambato.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "Favorable y humanista, destacando los aportes de los migrantes en la cultura de Ambato.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "C",
-          "text": "Xenófoba e intolerante, promoviendo restricciones migratorias de extrema severidad en Ambato.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "Meramente estadística y técnica, describiendo flujos demográficos cerca del Colegio Nacional Nueve de Octubre.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "El uso de términos positivos como 'enriquecido' y 'aportes' evidencia una postura abiertamente favorable hacia el aporte multicultural de los extranjeros.\n\n---",
+      "correct_answer": "A",
+      "explanation": "En Huasipungo, Icaza usa el discurso directo de los hacendados para que la injusticia se autorrevele. La deshumanización del habla patronal (\"que se corran\") es recurso central de la narrativa de denuncia social de 1934.",
       "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.72,
-      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v11",
-      "statement": "En una editorial del diario de Manta, un autor critica con dureza el uso indiscriminado de plásticos de un solo uso, calificándolos de 'crimen ecológico contra las futuras generaciones ecuatorianas'. ¿Cuál es el tono predominante del autor?",
-      "context": "Patricia, estudiante de 11° de Bachillerato en el Colegio Nacional Maldonado de Manta, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Objetivo e indiferente, limitándose a presentar cifras químicas en Manta.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "Optimista y conciliador, felicitando a las grandes industrias de Manta.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "Indignado y crítico, ya que utiliza adjetivos de fuerte impacto moral para sacudir la conciencia de los lectores de Manta.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "D",
-          "text": "Irónico y humorístico, pues minimiza la gravedad de la contaminación en el Colegio Nacional Maldonado.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "El uso de expresiones como 'crimen ecológico' y la condena severa denotan un tono indignado y crítico ante la pasividad social por el medio ambiente.\n\n---",
-      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Apply",
       "expected_success": 0.7,
-      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
+      "bundle_id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -503,43 +278,43 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v12",
-      "statement": "Considere el fragmento de un artículo de opinión en Loja: 'La educación técnica del Bachillerato en el país debe transformarse de inmediato, pues seguimos graduando jóvenes bajo planes curriculares obsoletos del siglo pasado en el Colegio Nacional Olmedo'.",
-      "context": "Fernando, estudiante de 11° de Bachillerato en el Colegio Nacional Olmedo de Loja, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
+      "id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle-v7",
+      "statement": "Según el concepto bajtiniano de cronotopo, ¿cuál de los siguientes análisis aplica correctamente la noción al leer una novela?",
+      "context": "Estudiantes de Cuenca preparan un organizador sobre los elementos de la narración y llegan al cronotopo.",
       "options": [
         {
           "letter": "A",
-          "text": "Entretener a los estudiantes de la provincia de Loja con anécdotas cómicas.",
+          "text": "Estudiar únicamente la biografía del autor para fechar la obra.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "La biografía del autor es contexto externo; el cronotopo se refiere al tiempo y el espacio dentro del texto narrativo."
         },
         {
           "letter": "B",
-          "text": "Felicitar a las autoridades de Loja por el éxito del Bachillerato.",
+          "text": "Contar las palabras de cada capítulo para medir el ritmo de lectura.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "El conteo léxico no describe la configuración espacial y temporal de la fábula, que es lo que analiza el cronotopo."
         },
         {
           "letter": "C",
-          "text": "Persuadir e impulsar un cambio estructural de las políticas curriculares del Bachillerato técnico de Loja.",
+          "text": "Analizar cómo la carretera que cruza la hacienda organiza los encuentros y el tiempo de la acción en Huasipungo.",
           "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "feedback": "Correcto. El cronotopo es la unidad de tiempo y espacio en la narración: el espacio de la carretera estructura los sucesos."
         },
         {
           "letter": "D",
-          "text": "Describir de manera neutral las materias técnicas que se imparten en el Colegio Nacional Olmedo de Loja.",
+          "text": "Reemplazar el orden cronológico por el orden alfabético de los personajes.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Esa operación no corresponde a ningún concepto narratológico; el cronotopo estudia la imbricación de tiempo y espacio."
         }
       ],
       "correct_answer": "C",
-      "explanation": "La exigencia ('debe transformarse de inmediato') revela una clara intención persuasiva de reformar un sistema calificado de deficiente.\n\n---",
-      "difficulty": "8",
+      "explanation": "El cronotopo (Bajtín) designa la intrincada relación entre representaciones temporales y espaciales en la narrativa. En Huasipungo, la construcción de la carretera y el espacio de la hacienda ordenan el tiempo y los conflictos de la novela.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.68,
-      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
+      "expected_success": 0.75,
+      "bundle_id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -548,88 +323,178 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v13",
-      "statement": "Un folleto publicitario de una marca de gaseosas en Riobamba afirma: 'Nuestra bebida es la opción más saludable, ya que contiene extracto de fruta natural y te llena de energía instantánea'.",
-      "context": "María, estudiante de 11° de Bachillerato en el Colegio Nacional Mejía de Riobamba, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
+      "id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle-v8",
+      "statement": "\"Rayuela\" (1963), de Julio Cortázar, incluye un \"tablero de dirección\" que ofrece un orden de lectura alternativo saltando capítulos. ¿Qué concepto de teoría narrativa describe mejor esa propuesta?",
+      "context": "Un grupo de lectoras de un colegio de Guayaquil descubre que \"Rayuela\" puede leerse en dos órdenes distintos.",
       "options": [
         {
           "letter": "A",
-          "text": "Una rigurosidad científica incuestionable avalada por médicos del Colegio Nacional Mejía de Riobamba.",
+          "text": "Novela total, porque enciclopédicamente agota un tema histórico.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "La \"novela total\" alude a ambición abarcadora de una realidad; lo característico de Rayuela es su estructura desmontable."
         },
         {
           "letter": "B",
-          "text": "Un tono de extrema seriedad y formalidad literaria clásica del modernismo en Riobamba.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "text": "Novela abierta, porque el lector decide la secuencia y participa en la construcción del sentido.",
+          "is_correct": true,
+          "feedback": "Correcto. Rayuela es el ejemplo canónico de novela abierta: el \"tablero de dirección\" convierte al lector en cómplice."
         },
         {
           "letter": "C",
-          "text": "Una falta absoluta de destinatarios reales para la promoción del producto en Riobamba.",
+          "text": "Novela por entregas, porque se publicó en revistas periódicas.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "La serialización decimonónica no explica el tablero de dirección; aquí la clave es la multiplicidad de órdenes de lectura."
         },
         {
           "letter": "D",
-          "text": "Un sesgo de interés comercial en Riobamba, que omite mencionar el alto contenido de azúcar perjudicial para la salud.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "La lectura crítica identifica que la publicidad comercial suele resaltar atributos positivos mínimos (fruta natural) y silenciar los factores negativos (azúcar en exceso).\n\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.66,
-      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v14",
-      "statement": "En Ibarra, un bloguero publica: 'La vacunación es una conspiración de las grandes corporaciones para controlarnos a todos'. ¿Cuál es el principal criterio ético que debe aplicar José para evaluar la validez de esta información?",
-      "context": "José, estudiante de 11° de Bachillerato en el Colegio Nacional Vicente Rocafuerte de Ibarra, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Ignorar el tema por completo para evitar debatir con sus compañeros en el Colegio Nacional Vicente Rocafuerte de Ibarra.",
+          "text": "Metanovela histórica, porque reconstruye la conquista de México.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "Contrastar la afirmación del bloguero con estudios e informes de organismos científicos de salud reconocidos en Ibarra.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "C",
-          "text": "Aceptar de forma ciega la opinión del bloguero porque tiene muchos seguidores en Ibarra.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "Asumir que toda información de internet es verdadera por ley en el Colegio Nacional Vicente Rocafuerte de Ibarra.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Rayuela no narra la conquista; su materia es la vida intelectual y afectiva de Oliveira entre París y Buenos Aires."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La veracidad de afirmaciones complejas debe evaluarse bajo criterios de evidencia, respaldo científico e institucionalidad, no por popularidad en internet.\n\n---",
+      "explanation": "Cortázar propuso con Rayuela una novela abierta y \"centrífuga\": el orden \"del uno al setenta y tres\" o el tablero de dirección cambian la experiencia y el sentido del libro. Es una de las cumbres experimentales del boom latinoamericano.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle-v9",
+      "statement": "\"El túnel\" (1948), de Ernesto Sábato, abre con la confesión del crimen y continúa con la justificación subjetiva del asesino. ¿Qué combinación de recursos narrativos aplica mejor esta estructura?",
+      "context": "En clase se lee el inicio de \"El túnel\": el protagonista confiesa que mata a María Iribarne y luego explica por qué.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrador omnisciente que oculta el crimen hasta el final policial clásico.",
+          "is_correct": false,
+          "feedback": "Sábato hace lo opuesto: revela el crimen en la primera línea y usa un narrador en primera persona."
+        },
+        {
+          "letter": "B",
+          "text": "Diario colectivo de los vecinos que presenciaron el hecho.",
+          "is_correct": false,
+          "feedback": "No existe tal diario coral; el relato es la voz única y obsesiva de Juan Pablo Castel."
+        },
+        {
+          "letter": "C",
+          "text": "Narrador homodiegético en primera persona que reconstruye los hechos desde su subjetividad obsesiva.",
+          "is_correct": true,
+          "feedback": "Correcto. Castel, narrador-personaje, reorganiza la historia del crimen desde su perspectiva paranoica."
+        },
+        {
+          "letter": "D",
+          "text": "Relato epistolar intercambiado entre el juez y la víctima.",
+          "is_correct": false,
+          "feedback": "El túnel no está escrito como correspondencia; su forma es la confesión retrospectiva de un solo narrador."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El túnel subvierte el policial clásico: el lector sabe quién mató desde el inicio y debe evaluar la fiabilidad de un narrador-personaje dominado por los celos. Es un ejemplo clave de relato policial subjetivo y de novela existencial en la narrativa hispanoamericana.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle-v10",
+      "statement": "En \"La ciudad y los perros\" (1963), de Mario Vargas Llosa, una misma historia del Colegio Militar se relura desde las voces de varios cadetes. ¿Qué recurso narrativo se aplica aquí?",
+      "context": "Un estudiante de BGU de Quito comienza \"La ciudad y los perros\" y nota que la misma escena aparece contada por varios cadetes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ellipsis temporal, porque se saltan años completos de la vida del colegio.",
+          "is_correct": false,
+          "feedback": "El problema no es un salto temporal, sino la multiplicación de perspectivas sobre un mismo suceso."
+        },
+        {
+          "letter": "B",
+          "text": "Focalización interna única, porque solo el Esclavo ve y habla.",
+          "is_correct": false,
+          "feedback": "No hay una sola perspectiva: la novela rota entre el Jaguar, el Esclavo, el Poeta y otras voces."
+        },
+        {
+          "letter": "C",
+          "text": "Monólogo interior continuo sin diálogo alguno.",
+          "is_correct": false,
+          "feedback": "La novela combina diálogos, escenas y voces; no se reduce a un monólogo interior único."
+        },
+        {
+          "letter": "D",
+          "text": "Polifonía y multiplicación de focalizaciones: distintos narradores y puntos de vista reconfiguran el hecho.",
+          "is_correct": true,
+          "feedback": "Correcto. La convergencia de perspectivas sobre los mismos sucesos es el principio estructural de la novela."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Vargas Llosa construyó La ciudad y los perros con planos narrativos superpuestos y voces múltiples (polifonía y focalización variable). El lector reconstruye la verdad del crimen militar armando los fragmentos que cada cadete aporta desde su punto de vista.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle-v11",
+      "statement": "Lee: \"La lluvia de flores amarillas duró tres días y nadie pidió explicaciones; el notario, en cambio, temblaba porque el olor a almendras amargas le anunciaba que la casa del vecino ya estaba maldita.\" ¿Qué análisis es más preciso?",
+      "context": "Taller de lectura crítica en Guayaquil: se analiza un fragmento inédito escrito al modo del realismo mágico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El narrador duda de los hechos y usa el condicional para mostrar escepticismo.",
+          "is_correct": false,
+          "feedback": "No hay marcas de duda: los hechos maravillosos se afirman en indicativo, como si fueran triviales."
+        },
+        {
+          "letter": "B",
+          "text": "Lo sobrenatural se narra con naturalidad referencial: la premisa enunciativa típica del realismo mágico.",
+          "is_correct": true,
+          "feedback": "Correcto. La aserción tranquila de lo imposible (lluvia de flores, maldición percibida) define el pacto realismo-mágico."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fragmento de ciencia ficción con tecnología futura en la notaría.",
+          "is_correct": false,
+          "feedback": "No hay artefactos ni horizonte científico-tecnológico; el efecto procede de lo fabuloso inserto en lo cotidiano."
+        },
+        {
+          "letter": "D",
+          "text": "El narrador es un personaje que confiesa en primera persona la maldición propia.",
+          "is_correct": false,
+          "feedback": "La tercera persona y el tono asertivo externo indican un narrador heterodiegético, no una confesión en \"yo\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El realismo mágico se caracteriza por la naturalización enunciativa de lo extraordinario: el narrador heterodiegético afirma lo imposible con el mismo registro que lo cotidiano. Analizar los modos verbales y el grado de extrañamiento del narrador permite distinguirlo de lo fantástico, donde se duda.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.64,
-      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
+      "expected_success": 0.65,
+      "bundle_id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -638,88 +503,43 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v15",
-      "statement": "Lea el extracto: 'La inmigración ha enriquecido históricamente la gastronomía, el arte y los valores de nuestra querida ciudad de Guayaquil y de Portoviejo'. ¿Cuál es la postura o sesgo ideológico del autor respecto al fenómeno migratorio?",
-      "context": "Mateo, estudiante de 11° de Bachillerato en el Colegio Benigno Malo de Portoviejo, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
+      "id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle-v12",
+      "statement": "La novela sigue a varias generaciones de la familia Trueba entre golpes de estado y Clarice, que conversa con los espíritus. ¿Qué análisis articula mejor género, técnica e ideología?",
+      "context": "En Cuenca se analiza \"La casa de los espíritus\" (1982), de Isabel Allende, dentro del linaje de las sagas familiares.",
       "options": [
         {
           "letter": "A",
-          "text": "Indiferente y apática, restando importancia a los procesos migratorios históricos de Portoviejo.",
+          "text": "Es una novela histórica aséptica que solo documenta fechas y batallas militares.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "La documentación histórica se filtra por la memoria subjetiva y lo espectral; no es un relato aséptico de efemérides."
         },
         {
           "letter": "B",
-          "text": "Favorable y humanista, destacando los aportes de los migrantes en la cultura de Portoviejo.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "Es una autobiografía de la autora, pues los apellidos de los personajes coinciden con los suyos.",
+          "is_correct": false,
+          "feedback": "Allende declaró que las coincidencias de apellidos son casuales; la obra es ficción familiar, no autobiografía."
         },
         {
           "letter": "C",
-          "text": "Xenófoba e intolerante, promoviendo restricciones migratorias de extrema severidad en Portoviejo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "Meramente estadística y técnica, describiendo flujos demográficos cerca del Colegio Benigno Malo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "El uso de términos positivos como 'enriquecido' y 'aportes' evidencia una postura abiertamente favorable hacia el aporte multicultural de los extranjeros.\n\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.62,
-      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v16",
-      "statement": "En una editorial del diario de Machala, un autor critica con dureza el uso indiscriminado de plásticos de un solo uso, calificándolos de 'crimen ecológico contra las futuras generaciones ecuatorianas'. ¿Cuál es el tono predominante del autor?",
-      "context": "Sebastián, estudiante de 11° de Bachillerato en el Colegio Nacional Bolívar de Machala, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Indignado y crítico, ya que utiliza adjetivos de fuerte impacto moral para sacudir la conciencia de los lectores de Machala.",
+          "text": "Saga familiar con polifonía de voces y lo sobrenatural cotidiano, que vincula la intimidad doméstica con la historia política.",
           "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "B",
-          "text": "Irónico y humorístico, pues minimiza la gravedad de la contaminación en el Colegio Nacional Bolívar.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "Objetivo e indiferente, limitándose a presentar cifras químicas en Machala.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Correcto. La novela entrelaza generaciones, voces narrativas divergentes y espíritus para leer la historia continental desde la casa."
         },
         {
           "letter": "D",
-          "text": "Optimista y conciliador, felicitando a las grandes industrias de Machala.",
+          "text": "Cuento de hadas sin referente social, dirigido exclusivamente a la infancia.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Los espíritus conviven con la violencia de clase y el golpe militar: el referente social es constitutivo de la obra."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "El uso de expresiones como 'crimen ecológico' y la condena severa denotan un tono indignado y crítico ante la pasividad social por el medio ambiente.\n\n---",
+      "correct_answer": "C",
+      "explanation": "La casa de los espíritus (1982) combina la saga familiar, la polifonía (diarios y voces de Clara, Blanca, Alba) y la naturalización de lo espectral heredada del realismo mágico, para ligar el destino doméstico con la historia política del cono sur.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "expected_success": 0.6,
-      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
+      "bundle_id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -728,88 +548,223 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v17",
-      "statement": "Considere el fragmento de un artículo de opinión en Esmeraldas: 'La educación técnica del Bachillerato en el país debe transformarse de inmediato, pues seguimos graduando jóvenes bajo planes curriculares obsoletos del siglo pasado en el Unidad Educativa Santo Domingo'.",
-      "context": "Valentina, estudiante de 11° de Bachillerato en el Unidad Educativa Santo Domingo de Esmeraldas, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
+      "id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle-v13",
+      "statement": "En \"Pedro Páramo\", las voces de Juan Preciado y de Pedro Páramo avanzan en capítulos alternados que solo se integran al descubrir que Comala está habitada por muertos. ¿Qué elemento estructural se analiza correctamente?",
+      "context": "Se contrasta en clase el orden de los capítulos de \"Pedro Páramo\" con el de una novela decimonónica.",
       "options": [
         {
           "letter": "A",
-          "text": "Persuadir e impulsar un cambio estructural de las políticas curriculares del Bachillerato técnico de Esmeraldas.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "El orden cronológico lineal garantiza que el lector sepa quién muere primero.",
+          "is_correct": false,
+          "feedback": "La novela fragmenta deliberadamente la cronología; el desorden temporal es su principio de composición."
         },
         {
           "letter": "B",
-          "text": "Describir de manera neutral las materias técnicas que se imparten en el Unidad Educativa Santo Domingo de Esmeraldas.",
+          "text": "Un narrador único omnisciente resuelve el enigma en el primer capítulo.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Hay dos focos de voz que se alternan y el enigma se resuelve en la recepción, no en la apertura."
         },
         {
           "letter": "C",
-          "text": "Entretener a los estudiantes de la provincia de Esmeraldas con anécdotas cómicas.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "text": "La composición fragmentaria y las rupturas temporales exigen que el lector reconstruya la fábula.",
+          "is_correct": true,
+          "feedback": "Correcto. La textura de voces y saltos transfiere al lector el trabajo de ordenar los hechos y descubrir la condición de Comala."
         },
         {
           "letter": "D",
-          "text": "Felicitar a las autoridades de Esmeraldas por el éxito del Bachillerato.",
+          "text": "La ausencia total de espacios hace que la acción ocurra en un lugar abstracto.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Comala es un espacio hipersignificativo: el calor, el polvo y el eco sostienen el cronotopo de la novela."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedro Páramo desmonta la linealidad: los flashbacks, las voces superpuestas y la elipsis sobre la muerte construyen un lector activo que recompone la fábula. Este trabajo con el tiempo narrativo es una de sus aportaciones mayores a la novela hispanoamericana.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle-v14",
+      "statement": "Texto A: \"El capataz miró su reloj y pensó que el indio entendía mejor cuando dolía.\" Texto B: \"Salí del terreno con el hijo dormido; no lloré: aprendí que el llanto también se les cobra a uno.\" ¿Qué diferencia de focalización es correcta?",
+      "context": "En un colegio de Quito se analizan dos párrafos inéditos sobre un mismo desalojo campesino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos textos tienen focalización externa y no acceden a ninguna mente.",
+          "is_correct": false,
+          "feedback": "Los dos acceden a pensamientos (\"pensó que\", \"aprendí que\"), luego no son de focalización externa."
+        },
+        {
+          "letter": "B",
+          "text": "A focaliza en la mente del opresor en tercera persona; B es relato homodiegético que focaliza en el despojado.",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia ideológica del relato se construye desde qué conciencia filtra la información en cada texto."
+        },
+        {
+          "letter": "C",
+          "text": "A es monólogo del capataz y B es documento notarial del desalojo.",
+          "is_correct": false,
+          "feedback": "A es narración en tercera persona con pensamiento referido, no monólogo; B no tiene forma notarial."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos comparten un mismo narrador omnisciente de focalización cero.",
+          "is_correct": false,
+          "feedback": "Ninguno domina todo el saber: cada texto limita el punto de vista a una conciencia particular."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La focalización determina desde qué conciencia percibimos los hechos. Un mismo hecho (el desalojo) cambia de sentido ético y político según filtre por la mente del capataz (tercera persona interna) o por la voz del despojado (primera persona homodiegética).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle-v15",
+      "statement": "El boom (décadas de 1960-70) asoció a Cortázar, García Márquez, Vargas Llosa y Fuentes con editoras barcelonesas, premios y traducciones rápidas. ¿Qué análisis describe mejor su proyección global?",
+      "context": "Seminario de BGU en Guayaquil sobre la circulación internacional de la novela latinoamericana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fue un fenómeno puramente editorial sin consecuencias en la innovación formal de las obras.",
+          "is_correct": false,
+          "feedback": "La difusión industrial y la experimentación formal (estructuras abiertas, planos narrativos) avanzaron juntas durante el boom."
+        },
+        {
+          "letter": "B",
+          "text": "Consistió en copiar el modelo de la novela realista rusa del siglo XIX.",
+          "is_correct": false,
+          "feedback": "El boom dialogó con Faulkner, Joyce y el nouveau roman, no con un modelo realista ruso único."
+        },
+        {
+          "letter": "C",
+          "text": "articuló innovación narrativa, mercados editoriales y diplomacia cultural, universalizando lo local americano.",
+          "is_correct": true,
+          "feedback": "Correcto. El boom convirtió regiones y mitos americanos en literatura mundial mediante formas audaces y una red editorial y de premios."
+        },
+        {
+          "letter": "D",
+          "text": "Marginó a la novela latinoamericana de los circuitos de traducción europeos.",
+          "is_correct": false,
+          "feedback": "Sucedió al revés: la traducción al varios idiomas desde Barcelona y París fue parte esencial de la expansión del boom."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El boom fue estético y también editorial: agentes, casas como Seix Barral, premios y traducciones proyectaron la novela hispanoamericana mundialmente. Analizarlo exige leer en paralelo la innovación técnica y los circuitos de circulación del libro.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle-v16",
+      "statement": "\"Huasipungo\" usa un coro de voces indígenas desordenadas y un final trágico; las novelas del boom suelen planificar perspectivas rotativas y estructuras cerradas de principio a fin elaboradas. ¿Qué conclusión analítica es la más sólida?",
+      "context": "Se comparan en Cuenca \"Huasipungo\" (1934) y una novela del boom, mirando forma y política.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La denuncia social exige formas sencillas, por lo que el boom abandonó todo compromiso político.",
+          "is_correct": false,
+          "feedback": "Muchas novelas del boom (La guerra del fin del mundo, \"La casa de los espíritus\") asumen posiciones políticas con formas complejas."
+        },
+        {
+          "letter": "B",
+          "text": "Ambas tradiciones son idénticas, solo cambia la fecha de publicación.",
+          "is_correct": false,
+          "feedback": "Las diferencias en narración, coralidad y elaboración formal entre 1934 y los años sesenta son sustantivas."
+        },
+        {
+          "letter": "C",
+          "text": "El realismo de la tierra rechazaba toda experimentalidad, incluida la polifonía coral.",
+          "is_correct": false,
+          "feedback": "Paradójicamente, Huasipungo experimenta con el coro de voces quejumbrosas; su forma no es conservadora en absoluto."
+        },
+        {
+          "letter": "D",
+          "text": "Las dos tradiciones innovan en la forma, pero difieren en el modo de organizar las voces y el relato del conflicto social.",
+          "is_correct": true,
+          "feedback": "Correcto. Ni la novela de la tierra ni el boom son formalmente ingenuos; cada uno diseña un modo distinto de dar voz al conflicto."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La comparación productiva evita jerarquizar por \"modernidad\": Icaza ensaya una coralidad dolorosa y Vargas Llosa una arquitectura de planos. Ambas estrategias narrativas son construcciones formales con efecto ideológico.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle-v17",
+      "statement": "Alguien sostiene: \"Como Castel confiesa su crimen, su versión de María es la única verdadera y el libro no deja margen de interpretación\". ¿Cómo evalúas esta afirmación?",
+      "context": "Debate literario en un colegio de Quito: ¿sirve desconfiar del narrador-personaje al releer \"El túnel\"?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es inválida: la narración en primera persona de un criminal obsesivo produce un relato parcial e inherentemente interpretable.",
+          "is_correct": true,
+          "feedback": "Correcto. La confesión de un narrador no fiable invita a leer contra sus palabras, y en eso radica la riqueza de la novela."
+        },
+        {
+          "letter": "B",
+          "text": "Es válida: la primera persona garantiza objetividad documental sobre los hechos.",
+          "is_correct": false,
+          "feedback": "La primera persona subjetiva es justamente la menos objetiva: tamiza todo según el deseo y el delirio de quien habla."
+        },
+        {
+          "letter": "C",
+          "text": "Es válida, porque el autor declaró en entrevistas que María era exactamente como él la describe.",
+          "is_correct": false,
+          "feedback": "La intención autoral declarada no clausura el sentido del texto; la narratología evalúa la voz narrativa, no entrevistas."
+        },
+        {
+          "letter": "D",
+          "text": "Es inválida solo si el lector conoce el idioma original, pues en traducción se pierde la subjetividad.",
+          "is_correct": false,
+          "feedback": "La marca de fiabilidad (obsesión, autojustificación) es estructural y sobrevive a las traducciones."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La exigencia ('debe transformarse de inmediato') revela una clara intención persuasiva de reformar un sistema calificado de deficiente.\n\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.58,
-      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v18",
-      "statement": "Un folleto publicitario de una marca de gaseosas en Santo Domingo afirma: 'Nuestra bebida es la opción más saludable, ya que contiene extracto de fruta natural y te llena de energía instantánea'.",
-      "context": "Camila, estudiante de 11° de Bachillerato en el Colegio Nacional Manta de Santo Domingo, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Un tono de extrema seriedad y formalidad literaria clásica del modernismo en Santo Domingo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "Una falta absoluta de destinatarios reales para la promoción del producto en Santo Domingo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "Un sesgo de interés comercial en Santo Domingo, que omite mencionar el alto contenido de azúcar perjudicial para la salud.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "D",
-          "text": "Una rigurosidad científica incuestionable avalada por médicos del Colegio Nacional Manta de Santo Domingo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "La lectura crítica identifica que la publicidad comercial suele resaltar atributos positivos mínimos (fruta natural) y silenciar los factores negativos (azúcar en exceso).\n\n---",
+      "explanation": "Evaluar un narrador no fiable es una competencia de lectura crítica de nivel superior: implica distinguir hechos fabulados, motivaciones del narrador y silencios sobre la voz de la víctima (María casi nunca habla por sí misma en El túnel).",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.56,
-      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
+      "expected_success": 0.55,
+      "bundle_id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -818,88 +773,133 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v19",
-      "statement": "En Quito, un bloguero publica: 'La vacunación es una conspiración de las grandes corporaciones para controlarnos a todos'. ¿Cuál es el principal criterio ético que debe aplicar Santiago para evaluar la validez de esta información?",
-      "context": "Santiago, estudiante de 11° de Bachillerato en el Colegio Nacional Bernardo Valdivieso de Quito, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
+      "id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle-v18",
+      "statement": "Una opinión sostiene: \"Huasipungo quedó anticuada: su lenguaje indigenista es ofensivo y ya no aporta nada a la formación lectora\". ¿Cuál es la evaluación más equilibrada y fundamentada?",
+      "context": "En Guayaquil se discute si \"Huasipungo\" debe leerse hoy en el currículo de BGU.",
       "options": [
         {
           "letter": "A",
-          "text": "Asumir que toda información de internet es verdadera por ley en el Colegio Nacional Bernardo Valdivieso de Quito.",
+          "text": "Debe eliminarse: ninguna obra cuyo lenguaje incomoda puede tener valor pedagógico.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "El malestar lingüístico no anula el valor histórico ni formativo; lo productivo es leerlo críticamente."
         },
         {
           "letter": "B",
-          "text": "Ignorar el tema por completo para evitar debatir con sus compañeros en el Colegio Nacional Bernardo Valdivieso de Quito.",
+          "text": "Debe mantenerse sin cambios ni discusión, porque un clásico nunca admite cuestionamientos.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Consagrar un clásico sin problematizar sus etiquetas y su representación del indígena empobrece la lectura crítica."
         },
         {
           "letter": "C",
-          "text": "Contrastar la afirmación del bloguero con estudios e informes de organismos científicos de salud reconocidos en Quito.",
+          "text": "Debe leerse con mediación docente: conserva valor documental y estético, y permite discutir la representación del otro y el racismo estructural.",
           "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "feedback": "Correcto. La tensión entre denuncia y etiquetas peyorativas es contenido de aprendizaje, no motivo de exclusión."
         },
         {
           "letter": "D",
-          "text": "Aceptar de forma ciega la opinión del bloguero porque tiene muchos seguidores en Quito.",
+          "text": "Debe reemplazarse por resúmenes, ya que la novela completa no es legible para estudiantes de BGU.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "La legibilidad no exige suprimir la obra; adaptaciones o fragmentos pueden acompañar, no sustituir, el debate con el texto."
         }
       ],
       "correct_answer": "C",
-      "explanation": "La veracidad de afirmaciones complejas debe evaluarse bajo criterios de evidencia, respaldo científico e institucionalidad, no por popularidad en internet.\n\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.54,
-      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v20",
-      "statement": "Lea el extracto: 'La inmigración ha enriquecido históricamente la gastronomía, el arte y los valores de nuestra querida ciudad de Guayaquil y de Guayaquil'. ¿Cuál es la postura o sesgo ideológico del autor respecto al fenómeno migratorio?",
-      "context": "Alejandro, estudiante de 11° de Bachillerato en el Colegio Nacional Nueve de Octubre de Guayaquil, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Meramente estadística y técnica, describiendo flujos demográficos cerca del Colegio Nacional Nueve de Octubre.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "Indiferente y apática, restando importancia a los procesos migratorios históricos de Guayaquil.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "Favorable y humanista, destacando los aportes de los migrantes en la cultura de Guayaquil.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "D",
-          "text": "Xenófoba e intolerante, promoviendo restricciones migratorias de extrema severidad en Guayaquil.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "El uso de términos positivos como 'enriquecido' y 'aportes' evidencia una postura abiertamente favorable hacia el aporte multicultural de los extranjeros.\n\n---",
+      "explanation": "Una evaluación madura de una obra clásica reconoce simultáneamente su potencia de denuncia, su experimentalidad coral y los problemas de un habla que cosifica al indígena. Esa complejidad es exactamente lo que forma lectores críticos.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.52,
-      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
+      "expected_success": 0.5,
+      "bundle_id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle-v19",
+      "statement": "Se afirma: \"Saltar capítulos según el tablero de dirección es un capricho editorial sin efecto en el sentido, pues la historia de Oliveira es la misma en cualquier orden\". ¿Cómo evalúas el argumento?",
+      "context": "Club de lectura de Cuenca debate si conviene leer \"Rayuela\" siguiendo el tablero de dirección en primer lugar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcto: Cortázar advirtió que el orden del tablero no altera ninguna lectura de la novela.",
+          "is_correct": false,
+          "feedback": "El propio subtítulo de Rayuela la declara \"en algún orden será mejor\": la variación de secuencias sí produce efectos de sentido."
+        },
+        {
+          "letter": "B",
+          "text": "Es incorrecto: el orden alternativo vuelve ilegible la novela, que solo admite el orden lineal.",
+          "is_correct": false,
+          "feedback": "El tablero no es ilegible; constituye un proyecto alternativo de lectura que el texto autoriza deliberadamente."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecto: el orden de los capítulos reorganiza correspondencias, anticipaciones y ritmos, modificando la experiencia y los sentidos.",
+          "is_correct": true,
+          "feedback": "Correcto. En una obra abierta, la secuencia es un componente significativo: cambia qué se sabe cuándo y cómo resuena cada fragmento."
+        },
+        {
+          "letter": "D",
+          "text": "Es correcto: mientras el final sea el mismo, ningún detalle de estructura importa al análisis.",
+          "is_correct": false,
+          "feedback": "Reducir la novela a su desenlace ignora que la estructura es una de sus materias expresivas principales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar una novela abierta exige reconocer que la forma es contenido: la lectura \"claustrofóbica\" y la \"corta\" de Rayuela producen énfasis distintos (París/Buenos Aires, juego/angustia). Juzgar el argumento invita a pensar la lectura como acto de construcción.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle-v20",
+      "statement": "Con base en el curso (Icaza, Rulfo, Cortázar, García Márquez, Vargas Llosa, Allende, Sábato), evalúa la tesis: \"La novela hispanoamericana solo interesa como folclore regional y no renovó las formas universales de narrar\". ¿Cuál es el juicio más defendible?",
+      "context": "Cierre del curso de BGU en Quito: se juzga el lugar de la novela hispanoamericana en la literatura mundial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tesis es sólida: el realismo mágico fue una moda local sin lectores fuera de América Latina.",
+          "is_correct": false,
+          "feedback": "La recepción mundial, los premios internacionales y las traducciones masivas desmienten la afirmación."
+        },
+        {
+          "letter": "B",
+          "text": "La tesis es sólida: todas sus innovaciones derivan de Joyce y Faulkner sin aporte propio.",
+          "is_correct": false,
+          "feedback": "El diálogo con las vanguardias no niega la originalidad de síntesis como el cronotopo de Comala o la novela abierta."
+        },
+        {
+          "letter": "C",
+          "text": "La tesis es insostenible: la región fue transformada en lenguaje narrativo universal (tiempo fragmentado, polifonía, lo maravilloso naturalizado) con impacto global.",
+          "is_correct": true,
+          "feedback": "Correcto. El boom y sus precursores reconvirtieron el conflicto latinoamericano en técnicas adoptadas y estudiadas en todo el mundo."
+        },
+        {
+          "letter": "D",
+          "text": "La tesis es insostenible porque la novela hispanoamericana nunca mencionó temas americanos.",
+          "is_correct": false,
+          "feedback": "Falso: la obra abunda en mitos, dictaduras y geografías americanas; su fuerza está en universalizarlas, no en omitirlas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una evaluación informada pesa dos hechos complementarios: la raíz regional de las obras y su exportación técnica (estructuras abiertas, cronotopos espectrales, polifonía). Negar la renovación universal es confundir el origen local de los materiales con el alcance de sus invenciones formales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "EC-LEN-11-2026-W07-genero-narrativo-novela-hispanica-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
       "cefr_level": null,

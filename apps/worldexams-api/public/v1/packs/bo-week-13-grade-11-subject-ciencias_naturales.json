@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "bo",
+    "pack_id": "bo-week-13-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T16:46:07.237Z"
+  },
+  "questions": [
+    {
+      "id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v1",
+      "statement": "Un automóvil viaja por la carretera La Paz - Oruro con Movimiento Rectilíneo Uniforme (MRU) a una velocidad constante de 20 m/s. ¿Qué distancia recorre en 15 segundos?",
+      "context": "En La Paz, el estudiante Grover del Colegio Nacional Ayacucho mide el tiempo de desplazamiento de un vehículo en un tramo plano rectilíneo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "600 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicación errónea de la distancia recorrida."
+        },
+        {
+          "letter": "B",
+          "text": "75 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resultado de dividir la velocidad entre el tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "150 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a dividir erróneamente el tiempo o velocidad."
+        },
+        {
+          "letter": "D",
+          "text": "300 metros",
+          "is_correct": true,
+          "feedback": "Correcto. En MRU d = v * t = 20 m/s * 15 s = 300 m."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En el MRU la aceleración es nula (a = 0) y la velocidad permanece constante, cumpliéndose d = v * t.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v2",
+      "statement": "Un cuerpo parte del reposo y experimenta un Movimiento Rectilíneo Uniformemente Variado (MRUV) con una aceleración constante de 3 m/s^2. ¿Cuál es su velocidad al cabo de 6 segundos?",
+      "context": "En Cochabamba, la estudiante Roxana de la Unidad Educativa Don Bosco registra la rapidez de un móvil en una pista de prueba lineal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18 m/s",
+          "is_correct": true,
+          "feedback": "Correcto. v = v0 + a * t = 0 + 3 m/s^2 * 6 s = 18 m/s."
+        },
+        {
+          "letter": "B",
+          "text": "12 m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Suma errónea de aceleración y tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "36 m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al cálculo de la distancia (x = 0.5 * a * t^2)."
+        },
+        {
+          "letter": "D",
+          "text": "9 m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. División errónea de la velocidad final entre 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el MRUV la velocidad varía de forma lineal con el tiempo según la ecuación v = v0 + a*t.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de las siguientes afirmaciones describe correctamente la Primera Ley de Newton o Ley de Inercia?",
+      "context": "En Santa Cruz, el estudiante Jhonny del Colegio Bolívar analiza el comportamiento de un pasajero en un autobús que frena bruscamente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todo cuerpo permanece en su estado de reposo o movimiento rectilíneo uniforme si la fuerza neta que actúa sobre él es cero",
+          "is_correct": true,
+          "feedback": "Correcto. La inercia es la resistencia de la materia a modificar su estado de movimiento sin una fuerza externa resultante."
+        },
+        {
+          "letter": "B",
+          "text": "La fuerza aplicada sobre un cuerpo es siempre inversamente proporcional a su velocidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fuerza neta produce aceleración (variación de velocidad), no inversión de velocidad."
+        },
+        {
+          "letter": "C",
+          "text": "Los cuerpos pesados caen más rápido en el vacío que los cuerpos livianos",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el vacío todos los cuerpos caen con igual aceleración g independientemente de su masa."
+        },
+        {
+          "letter": "D",
+          "text": "La masa de un cuerpo disminuye proporcionalmente cuando aumenta su velocidad en MRU",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masa es una propiedad invariante en mecánica clásica newtoniana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La inercia es la propiedad intrínseca de los cuerpos cargados de masa para resistirse a acelerar sin una fuerza neta externa.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v4",
+      "statement": "Se aplica una fuerza neta de 50 N sobre un bloque de 10 kg apoyado sobre una superficie horizontal sin fricción. ¿Qué aceleración adquiere el bloque?",
+      "context": "En El Alto, la estudiante Marisol del Colegio San Simón aplica una fuerza horizontal sobre una caja de laboratorio pesada en una balanza dinámetrica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25 m/s^2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Operación matemática incorrecta."
+        },
+        {
+          "letter": "B",
+          "text": "0.2 m/s^2",
+          "is_correct": false,
+          "feedback": "Incorrecto. División errónea de masa entre fuerza."
+        },
+        {
+          "letter": "C",
+          "text": "5 m/s^2",
+          "is_correct": true,
+          "feedback": "Correcto. Según la Segunda Ley de Newton: a = F / m = 50 N / 10 kg = 5 m/s^2."
+        },
+        {
+          "letter": "D",
+          "text": "500 m/s^2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicación errónea de fuerza por masa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Segunda Ley de Newton F = m*a establece que la aceleración es directamente proporcional a la fuerza e inversamente a la masa.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v5",
+      "statement": "Respecto a las fuerzas de Acción y Reacción (Tercera Ley de Newton), es correcto afirmar que:",
+      "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín estudia la fuerza de empuje producida por los gases en el despegue de un cohete.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fuerza de acción siempre se manifiesta antes que la fuerza de reacción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fuerzas del par de interacción surgen de forma estrictamente simultánea."
+        },
+        {
+          "letter": "B",
+          "text": "La fuerza de reacción es siempre de menor magnitud si el cuerpo receptor es más liviano",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las magnitudes son exactamente iguales sin importar las masas de los cuerpos."
+        },
+        {
+          "letter": "C",
+          "text": "Se aplican sobre el mismo cuerpo y por lo tanto se anulan mutuamente generando equilibrio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si actuaran sobre el mismo objeto se anularían, pero actúan sobre objetos distintos."
+        },
+        {
+          "letter": "D",
+          "text": "Actúan simultáneamente sobre cuerpos distintos y poseen la misma magnitud y dirección pero sentidos opuestos",
+          "is_correct": true,
+          "feedback": "Correcto. Las fuerzas de reacción jamás se anulan entre sí porque están aplicadas en objetos diferentes."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Tercera Ley: F_A->B = -F_B->A. Son un par de interacción simultáneo que actúa sobre dos cuerpos separados.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v6",
+      "statement": "Un objeto de 5 kg se deja caer libremente desde lo alto de una torre ignorando el rozamiento del aire. Si g = 9.8 m/s^2, ¿cuál es su peso?",
+      "context": "En Potosí, el estudiante Ronald de la Unidad Educativa Juan Pablo II mide la fuerza peso de una masa suspendida de un dinamómetro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.51 Newtons",
+          "is_correct": false,
+          "feedback": "Incorrecto. División errónea de masa entre gravedad."
+        },
+        {
+          "letter": "B",
+          "text": "5 Kilogramos",
+          "is_correct": false,
+          "feedback": "Incorrecto. 5 kg es la masa del objeto, no la fuerza peso ejercida por la Tierra."
+        },
+        {
+          "letter": "C",
+          "text": "49 Newtons",
+          "is_correct": true,
+          "feedback": "Correcto. P = m * g = 5 kg * 9.8 m/s^2 = 49 N."
+        },
+        {
+          "letter": "D",
+          "text": "9.8 Newtons",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el valor del campo gravitatorio estándar g."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El peso es la fuerza gravitatoria P = m*g vectorial que atrae a las masas hacia el centro terrestre.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v7",
+      "statement": "Un bloque reposa en un plano horizontal. Si la masa del bloque es de 8 kg (g = 10 m/s^2), ¿cuál es el valor de la fuerza Normal ejerza por la superficie?",
+      "context": "En Oruro, el estudiante Limbert del Colegio San Calixto dibuja el diagrama de cuerpo libre para un objeto en reposo sobre la mesa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "800 N dirigidos hacia abajo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicación errónea de la aceleración."
+        },
+        {
+          "letter": "B",
+          "text": "8 N actuando paralelamente a la superficie",
+          "is_correct": false,
+          "feedback": "Incorrecto. La normal es estrictamente perpendicular a la superficie de contacto."
+        },
+        {
+          "letter": "C",
+          "text": "80 N actuando perpendicularmente hacia arriba",
+          "is_correct": true,
+          "feedback": "Correcto. En superficie horizontal N = P = m * g = 8 kg * 10 m/s^2 = 80 N."
+        },
+        {
+          "letter": "D",
+          "text": "0 N porque el cuerpo no está acelerando",
+          "is_correct": false,
+          "feedback": "Incorrecto. En reposo la fuerza normal equilibra exactamente el peso vertical."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La fuerza normal N es la reacción perpendicular que impide que una superficie sea atravesada por un cuerpo apoyado.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v8",
+      "statement": "¿Qué diferencia a la Fuerza de Rozamiento Estático (fe) de la Fuerza de Rozamiento Cinético (fc)?",
+      "context": "En Tarija, la estudiante Shirley del Colegio Nacional Pichincha arrastra una caja de madera sobre un piso de cemento midiendo la fuerza con dinamómetro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El rozamiento estático impide el inicio del deslizamiento y su valor máximo fe_máx es superior al rozamiento cinético fc",
+          "is_correct": true,
+          "feedback": "Correcto. El coeficiente estático μe es siempre mayor que el coeficiente cinético μc (μe > μc)."
+        },
+        {
+          "letter": "B",
+          "text": "El rozamiento cinético no depende de la fuerza normal de contacto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas dependen de la normal: f = μ * N."
+        },
+        {
+          "letter": "C",
+          "text": "El rozamiento cinético actúa solo cuando el cuerpo se encuentra en reposo absoluto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El rozamiento cinético actúa únicamente durante el movimiento de deslizamiento."
+        },
+        {
+          "letter": "D",
+          "text": "El rozamiento estático siempre ayuda a aumentar la aceleración del móvil",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas fuerzas de fricción se oponen al movimiento o a su tendencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El rozamiento estático ajusta su valor hasta un máximo fe_máx = μe*N. Una vez iniciado el movimiento, fc = μc*N constante.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v9",
+      "statement": "Un bloque de 10 kg se desliza sobre un plano horizontal con coeficiente de fricción cinético μc = 0.25. Si g = 10 m/s^2, ¿cuál es la fuerza de rozamiento cinético?",
+      "context": "En Trinidad, el estudiante Boris del Colegio Antonio Vaca Díez calcula la fuerza de fricción que frena una caja en deslizamiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.5 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la multiplicación decimal por la normal."
+        },
+        {
+          "letter": "B",
+          "text": "25 N",
+          "is_correct": true,
+          "feedback": "Correcto. N = m * g = 10 * 10 = 100 N. fc = μc * N = 0.25 * 100 N = 25 N."
+        },
+        {
+          "letter": "C",
+          "text": "100 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el valor de la fuerza normal N."
+        },
+        {
+          "letter": "D",
+          "text": "250 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicación errónea por la masa al cuadrado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "fc = μc * N. Para plano horizontal N = m*g -> fc = 0.25 * 100 N = 25 N dirigida en sentido opuesto al deslizamiento.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v10",
+      "statement": "En un lanzamiento parabólico de un proyectil, ¿cuál de las siguientes opciones describe el comportamiento de las velocidades en los ejes X e Y (sin aire)?",
+      "context": "En Cobija, el estudiante Franz del Colegio Nacional Florida descompone la velocidad inicial de un balón pateado con un ángulo de 45°.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el punto más alto de la trayectoria la velocidad total del proyectil se vuelve cero",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la cima Vy = 0, pero Vx permanece constante y diferente de cero."
+        },
+        {
+          "letter": "B",
+          "text": "En ambos ejes la velocidad permanece estrictamente constante",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el eje vertical actúa la gravedad modificando la velocidad Vy."
+        },
+        {
+          "letter": "C",
+          "text": "En el eje X la velocidad es constante (MRU) y en el eje Y la velocidad varía con aceleración g (MRUV)",
+          "is_correct": true,
+          "feedback": "Correcto. El movimiento parabólico es la superposición independiente de un MRU horizontal y un MRUV vertical."
+        },
+        {
+          "letter": "D",
+          "text": "En el eje X la velocidad aumenta y en el eje Y es cero",
+          "is_correct": false,
+          "feedback": "Incorrecto. En X no hay aceleración horizontal por lo que Vx no aumenta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Principio de independencia de movimientos de Galileo: horizontalmente Vx es constante; verticalmente Vy cambia según g.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v11",
+      "statement": "Una masa de 2 kg se desplaza en una trayectoria circular de 0.5 m de radio con una velocidad tangencial constante de 4 m/s. ¿Cuál es la fuerza centrípeta requerida?",
+      "context": "En Tupiza, la estudiante Nancy del Colegio Nacional Ayacucho hace girar una piedra atada a una cuerda en un plano horizontal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicación errónea de los factores dinámicos."
+        },
+        {
+          "letter": "B",
+          "text": "64 N",
+          "is_correct": true,
+          "feedback": "Correcto. Fc = m * v^2 / r = 2 kg * (4 m/s)^2 / 0.5 m = 2 * 16 / 0.5 = 64 N."
+        },
+        {
+          "letter": "C",
+          "text": "16 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvida dividir entre el radio r = 0.5 m."
+        },
+        {
+          "letter": "D",
+          "text": "32 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvida elevar al cuadrado la velocidad tangencial."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fuerza centrípeta Fc = m*v^2/r está dirigida al centro del círculo alterando la dirección de v sin cambiar su rapidez.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v12",
+      "statement": "Un bloque de masa m se encuentra sobre un plano inclinado sin fricción de ángulo θ con la horizontal. ¿Cuál es la componente del peso que acelera al bloque plano abajo?",
+      "context": "En Uyuni, el estudiante Edwin de la Unidad Educativa Don Bosco resuelve la descomposición vectorial de un cuerpo en una rampa con ángulo variable.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "P_paralela = m * g / sin(θ)",
+          "is_correct": false,
+          "feedback": "Incorrecto. División dimensionalmente incorrecta para una fuerza."
+        },
+        {
+          "letter": "B",
+          "text": "P_paralela = m * g * cos(θ)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la componente perpendicular equilibrada por la Normal."
+        },
+        {
+          "letter": "C",
+          "text": "P_paralela = m * g * sin(θ)",
+          "is_correct": true,
+          "feedback": "Correcto. Descomponiendo el peso, la fuerza que tira plano abajo es m * g * sin(θ)."
+        },
+        {
+          "letter": "D",
+          "text": "P_paralela = m * g * tan(θ)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tangente no representa la descomposición del vector peso en los ejes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En un plano inclinado, P_paralela = m*g*sin(θ) produce la aceleración a = g*sin(θ) a lo largo de la rampa.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v13",
+      "statement": "Para que un cuerpo extendido se encuentre en equilibrio mecánico total, se debe cumplir que:",
+      "context": "En Viacha, el estudiante Marcelo del Colegio Bolívar analiza las condiciones de equilibrio de una barra homogénea apoyada en dos soportes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La suma vectorial de fuerzas externas sea cero (ΣF = 0) y la suma de momentos de fuerza sea cero (Στ = 0)",
+          "is_correct": true,
+          "feedback": "Correcto. Equilibrio traslacional (ΣF = 0) y equilibrio rotacional (Στ = 0)."
+        },
+        {
+          "letter": "B",
+          "text": "Que no existan fuerzas de rozamiento en el sistema",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fricción puede existir y formar parte del equilibrio estático."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente que la velocidad del cuerpo sea igual a cero en todo instante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un cuerpo en MRU o rotación uniforme está en equilibrio pero con velocidad diferente de cero."
+        },
+        {
+          "letter": "D",
+          "text": "Que la fuerza normal sea tres veces superior al peso del cuerpo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No constituye una condición de equilibrio dinámico o estático."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El equilibrio estático total requiere Primera Condición (ΣF=0, no traslación acelerada) y Segunda Condición (Στ=0, no rotación acelerada).\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v14",
+      "statement": "Dos bloques m1 = 3 kg y m2 = 2 kg están unidos por una cuerda ideal sobre una mesa sin fricción. Si se tira de m1 con F = 10 N, ¿cuál es la aceleración del sistema y la tensión T?",
+      "context": "En Quillacollo, el estudiante Freddy del Colegio San Simón calcula la aceleración y tensión en un sistema de dos masas conectadas por cuerda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a = 3.3 m/s^2 y T = 6.6 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omite incluir m2 en la masa total del sistema."
+        },
+        {
+          "letter": "B",
+          "text": "a = 1 m/s^2 y T = 2 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al dividir la fuerza entre la suma de masas."
+        },
+        {
+          "letter": "C",
+          "text": "a = 5 m/s^2 y T = 10 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. Trata las masas como si estuvieran separadas independientemente."
+        },
+        {
+          "letter": "D",
+          "text": "a = 2 m/s^2 y T = 4 N",
+          "is_correct": true,
+          "feedback": "Correcto. a = F / (m1+m2) = 10 / 5 = 2 m/s^2. Tensión sobre m2: T = m2 * a = 2 * 2 = 4 N."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Sistema acoplado: F = (m1 + m2)*a -> a = 10/5 = 2 m/s^2. La tensión transmitida por la cuerda a m2 es T = m2*a = 4 N.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v15",
+      "statement": "Un gimnasta de 60 kg desciende verticalmente sujetándose de una cuerda con una aceleración hacia abajo de 2 m/s^2 (g = 10 m/s^2). ¿Qué tensión soporta la cuerda?",
+      "context": "En Sacaba, el estudiante René del Colegio Nacional Junín determina la tensión en una cuerda durante el descenso acelerado de un atleta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "120 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde solo a la fuerza neta resultante m*a."
+        },
+        {
+          "letter": "B",
+          "text": "720 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurriría si el gimnasta estuviera acelerando hacia arriba a 2 m/s^2."
+        },
+        {
+          "letter": "C",
+          "text": "600 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sería la tensión si el gimnasta estuviera colgado en reposo estático (T = m*g)."
+        },
+        {
+          "letter": "D",
+          "text": "480 N",
+          "is_correct": true,
+          "feedback": "Correcto. P - T = m * a -> m*g - T = m*a -> T = m*(g - a) = 60 * (10 - 2) = 480 N."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Ecuación del movimiento vertical: ΣFy = m*g - T = m*a -> T = m*(g - a). Al acelerar hacia abajo, la tensión se reduce.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v16",
+      "statement": "Se lanza una piedra verticalmente hacia arriba con una velocidad inicial de 30 m/s (g = 10 m/s^2). ¿Cuál es la altura máxima alcanzada?",
+      "context": "En Montero, la estudiante Lidia de la Unidad Educativa Juan Pablo II calcula la altura máxima de un proyectil lanzado verticalmente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "45 metros",
+          "is_correct": true,
+          "feedback": "Correcto. h_máx = v0^2 / (2*g) = (30)^2 / (2 * 10) = 900 / 20 = 45 m."
+        },
+        {
+          "letter": "B",
+          "text": "90 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvida multiplicar por 2 en el denominador (división por g)."
+        },
+        {
+          "letter": "C",
+          "text": "30 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confunde la altura máxima con la velocidad inicial."
+        },
+        {
+          "letter": "D",
+          "text": "15 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cálculo erróneo de la elevación vertical."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el punto más alto v = 0. De v^2 = v0^2 - 2*g*h se despeja h_máx = v0^2 / (2*g) = 45 m.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v17",
+      "statement": "Un bloque de 4 kg reposa sobre un plano inclinado 30° respecto a la horizontal (g = 10 m/s^2, sin 30° = 0.5, cos 30° = 0.866). Si no hay fricción, ¿qué fuerza paralela frena el bloque para dejarlo en reposo?",
+      "context": "En Riberalta, el estudiante Mateo del Colegio San Calixto determina la fuerza de sujeción requerida para mantener un coche sobre una rampa inclinada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 N dirigidos plano arriba",
+          "is_correct": true,
+          "feedback": "Correcto. P_paralela = m * g * sin(30°) = 4 * 10 * 0.5 = 20 N. Para equilibrarlo se requieren 20 N opuestos."
+        },
+        {
+          "letter": "B",
+          "text": "34.64 N dirigidos hacia abajo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la fuerza Normal perpendicular al plano."
+        },
+        {
+          "letter": "C",
+          "text": "40 N dirigidos verticalmente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el peso total del bloque sin descomponer."
+        },
+        {
+          "letter": "D",
+          "text": "10 N dirigidos horizontalmente",
+          "is_correct": false,
+          "feedback": "Incorrecto. División errónea de la componente paralela."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fuerza paralela que acelera el cuerpo plano abajo es m*g*sin(30°) = 20 N. La fuerza de retención debe valer 20 N hacia arriba.\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v18",
+      "statement": "Dos masas m1 = 4 kg y m2 = 1 kg están suspendidas verticalmente de una polea ideal sin masa ni fricción (Máquina de Atwood, g = 10 m/s^2). ¿Cuál es la aceleración del sistema?",
+      "context": "En Warnes, la estudiante Camila del Colegio Nacional Pichincha mide la aceleración de dos masas en una máquina de Atwood de laboratorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 m/s^2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sería la caída libre si no estuvieran conectadas por la polea."
+        },
+        {
+          "letter": "B",
+          "text": "2 m/s^2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resta errónea de las fuerzas motoras."
+        },
+        {
+          "letter": "C",
+          "text": "3 m/s^2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al no sumar las masas en el denominador."
+        },
+        {
+          "letter": "D",
+          "text": "6 m/s^2",
+          "is_correct": true,
+          "feedback": "Correcto. a = (m1 - m2)*g / (m1 + m2) = (4 - 1)*10 / (4 + 1) = 30 / 5 = 6 m/s^2."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Máquina de Atwood: F_resultante = (m1 - m2)*g. Masa total = m1 + m2. Aceleración a = (m1 - m2)*g / (m1 + m2) = 6 m/s^2.\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v19",
+      "statement": "Un helicóptero de rescate sostiene una carga de 500 kg mediante un cable metálico. Si la tensión máxima admisible del cable es de 6500 N (g = 10 m/s^2), ¿cuál es la máxima aceleración vertical hacia arriba permitida?",
+      "context": "En Colcapirhua, el estudiante Gonzalo del Colegio Antonio Vaca Díez calcula la aceleración límite en el izamiento de una carga con grúa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 m/s^2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resta incorrecta de las fuerzas verticales."
+        },
+        {
+          "letter": "B",
+          "text": "5 m/s^2",
+          "is_correct": false,
+          "feedback": "Incorrecto. División errónea de la fuerza disponible entre la gravedad."
+        },
+        {
+          "letter": "C",
+          "text": "3 m/s^2",
+          "is_correct": true,
+          "feedback": "Correcto. T - m*g = m*a -> 6500 - 5000 = 500*a -> 1500 = 500*a -> a = 3 m/s^2."
+        },
+        {
+          "letter": "D",
+          "text": "13 m/s^2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurre si se olvida restar la fuerza peso de la masa levantada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Al ascender aceleradamente: T_máx - m*g = m*a_máx. 6500 N - 5000 N = 500 kg * a -> a_máx = 3 m/s^2.\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v20",
+      "statement": "Un disco de masa m gira en una mesa horizontal sin fricción atado a un hilo de longitud R que pasa por un agujero central sosteniendo una masa M en reposo. ¿Cuál es la velocidad v del disco?",
+      "context": "En Yacuiba, la estudiante Paola del Colegio Nacional Florida resuelve el equilibrio dinámico entre una masa giratoria y una masa suspendida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "v = sqrt(m_masa * g * R / M_suspendida)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invierte la posición de las masas m y M."
+        },
+        {
+          "letter": "B",
+          "text": "v = sqrt(M_suspendida * g * R / m_masa)",
+          "is_correct": true,
+          "feedback": "Correcto. La tensión sostiene a M: T = M*g. Esta tensión da la fuerza centrípeta a m: T = m*v^2/R -> M*g = m*v^2/R -> v = sqrt(M*g*R/m)."
+        },
+        {
+          "letter": "C",
+          "text": "v = M_suspendida * g * R / m_masa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvida extraer la raíz cuadrada para despejar la velocidad v."
+        },
+        {
+          "letter": "D",
+          "text": "v = 2 * M_suspendida * g * R / m_masa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Factor 2 desatinado en el cálculo de la tensión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Equilibrio de la masa suspendida M: T = M*g. Dinámica circular de m: Fc = m*v^2/R = T -> m*v^2/R = M*g -> v = sqrt(M*g*R/m).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    }
+  ]
+}

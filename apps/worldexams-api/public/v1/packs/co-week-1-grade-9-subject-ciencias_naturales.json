@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-1-grade-9-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T16:46:07.402Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-9-2026-W01-tabla-periodica-001-MASTERY-bundle-v1",
+      "statement": "¿Cuántos electrones de valencia posee el átomo de Sodio en su capa más externa?",
+      "context": "En Bogotá, un estudiante revisa la configuración electrónica del átomo de Sodio ($Z = 11$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1$ electrón de valencia",
+          "is_correct": true,
+          "feedback": "Correcto. Configuración $1s^2 2s^2 2p^6 3s^1 \\implies 1$ electrón en el nivel 3 (Grupo IA)."
+        },
+        {
+          "letter": "B",
+          "text": "$2$ electrones de valencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al Magnesio ($Z=12$)."
+        },
+        {
+          "letter": "C",
+          "text": "$8$ electrones de valencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al Neón ($Z=10$)."
+        },
+        {
+          "letter": "D",
+          "text": "$7$ electrones de valencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al Cloro ($Z=17$)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Sodio ($Z=11$) termina en $3s^1$, teniendo $1$ electrón de valencia.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-9-2026-W01-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W01-tabla-periodica-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el criterio de ordenamiento de los elementos químicos en la tabla periódica actual?",
+      "context": "En la tabla periódica moderna, los elementos están ordenados rigurosamente según un criterio numérico fundamental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Número atómico creciente ($Z$, número de protones)",
+          "is_correct": true,
+          "feedback": "Correcto. Ley Periódica de Moseley basada en $Z$ creciente."
+        },
+        {
+          "letter": "B",
+          "text": "Masa atómica creciente ($A$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masa atómica fue el criterio de Mendeleiev, superado por la Ley de Moseley."
+        },
+        {
+          "letter": "C",
+          "text": "Número de neutrones en el núcleo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los isótopos varían en neutrones sin cambiar de posición en la tabla."
+        },
+        {
+          "letter": "D",
+          "text": "Abundancia porcentual en la corteza terrestre",
+          "is_correct": false,
+          "feedback": "Incorrecto. La abundancia no determina la periodicidad química."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La tabla periódica moderna se organiza en orden creciente del número atómico ($Z$).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-9-2026-W01-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W01-tabla-periodica-001-MASTERY-bundle-v3",
+      "statement": "¿Cómo varía la electronegatividad al avanzar de izquierda a derecha en un mismo periodo de la tabla periódica?",
+      "context": "En Medellín, se analiza la electronegatividad de los elementos a lo largo del periodo 2 (Litio a Flúor).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta gradualmente debido al incremento de la carga nuclear efectiva.",
+          "is_correct": true,
+          "feedback": "Correcto. Mayor $Z$ atrae con más fuerza los electrones de enlace."
+        },
+        {
+          "letter": "B",
+          "text": "Disminuye constantemente al aumentarse los niveles de energía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número de niveles de energía se mantiene constante en el mismo periodo."
+        },
+        {
+          "letter": "C",
+          "text": "Permanece estrictamente constante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La electronegatividad es una propiedad periódica altamente variable."
+        },
+        {
+          "letter": "D",
+          "text": "Aumenta y luego cae a cero en los halógenos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los halógenos tienen las mayores electronegatividades."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un periodo, de izquierda a derecha, la electronegatividad aumenta al subir la carga nuclear efectiva ($Z_{eff}$) sin cambiar de nivel.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-9-2026-W01-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W01-tabla-periodica-001-MASTERY-bundle-v4",
+      "statement": "¿Cómo cambia el radio atómico a medida que se desciende en un mismo grupo de la tabla periódica?",
+      "context": "En Cali, se compara el radio atómico de los elementos del Grupo IA (Metales Alcalinos: $Li, Na, K, Rb$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta debido a la adición de nuevos niveles principales de energía ($n$).",
+          "is_correct": true,
+          "feedback": "Correcto. Al descender en un grupo se añade una capa o nivel de electrones extra."
+        },
+        {
+          "letter": "B",
+          "text": "Disminuye por la mayor atracción de los protones centrales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El apantallamiento de capas internas domina y el radio aumenta."
+        },
+        {
+          "letter": "C",
+          "text": "Se mantiene exactamente idéntico en todo el grupo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los átomos de abajo tienen más capas electrónicas."
+        },
+        {
+          "letter": "D",
+          "text": "Disminuye a la mitad con cada nivel.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La adición de capas expande el volumen atómico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al bajar en un grupo, $n$ aumenta (más capas electrónicas), incrementando la distancia núcleo-valencia y el radio atómico.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-9-2026-W01-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W01-tabla-periodica-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la configuración electrónica completa del elemento Calcio en su estado fundamental?",
+      "context": "Un estudiante en Barranquilla observa que el elemento Calcio tiene número atómico $Z = 20$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1s^2 2s^2 2p^6 3s^2 3p^6 4s^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Suma de electrones $= 2+2+6+2+6+2 = 20$."
+        },
+        {
+          "letter": "B",
+          "text": "$1s^2 2s^2 2p^6 3s^2 3p^8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El subnivel $p$ alberga máximo 6 electrones."
+        },
+        {
+          "letter": "C",
+          "text": "$1s^2 2s^2 2p^6 3s^2 3d^8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Según el principio de Aufbau, se llena primero $3p$ y $4s$ antes que $3d$."
+        },
+        {
+          "letter": "D",
+          "text": "$1s^2 2s^2 2p^6 3s^4 4s^6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Capacidad máxima de $s$ es 2 electrones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Principio de Aufbau para $Z=20$: $1s^2 2s^2 2p^6 3s^2 3p^6 4s^2$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-9-2026-W01-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W01-tabla-periodica-001-MASTERY-bundle-v6",
+      "statement": "¿Qué tipo de enlace químico se forma predominantemente entre el Sodio y el Cloro?",
+      "context": "En Bucaramanga, se forman enlaces entre dos átomos: Cloro ($EN = 3.16$) y Sodio ($EN = 0.93$). La diferencia de electronegatividad es $\\Delta EN = 2.23$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enlace iónico (transferencia completa de electrones)",
+          "is_correct": true,
+          "feedback": "Correcto. $\\Delta EN > 1.7$ origina transferencia electrónica formando $Na^+$ y $Cl^-$."
+        },
+        {
+          "letter": "B",
+          "text": "Enlace covalente no polar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Requiere $\\Delta EN \\approx 0$."
+        },
+        {
+          "letter": "C",
+          "text": "Enlace covalente polar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se da en diferencias entre $0.4$ y $1.7$."
+        },
+        {
+          "letter": "D",
+          "text": "Enlace metálico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurre entre átomos metálicos idénticos o aleaciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una diferencia de electronegatividad $\\Delta EN > 1.7$ genera una transferencia electrónica completa (enlace iónico).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-9-2026-W01-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W01-tabla-periodica-001-MASTERY-bundle-v7",
+      "statement": "¿En qué partícula subatómica se diferencian estos tres isótopos entre sí?",
+      "context": "En Pasto, se analizan los isótopos del Carbono: Carbono-12 ($^{12}C$), Carbono-13 ($^{13}C$) y Carbono-14 ($^{14}C$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Número de neutrones en el núcleo",
+          "is_correct": true,
+          "feedback": "Correcto. Isótopos poseen igual número atómico $Z=6$ (protones) pero diferente masa $A$ por variaciones en neutrones ($6, 7, 8$ neutrones)."
+        },
+        {
+          "letter": "B",
+          "text": "Número de protones en el núcleo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si cambiara el número de protones cambiaría el elemento químico."
+        },
+        {
+          "letter": "C",
+          "text": "Número de electrones de valencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Como son neutros y del mismo elemento, poseen los mismos electrones."
+        },
+        {
+          "letter": "D",
+          "text": "Nivel de energía más externo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su estructura electrónica de valencia es idéntica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Isótopos $=$ átomos del mismo elemento (igual $Z$, protones) con diferente número de neutrones (diferente masa $A$).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-9-2026-W01-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W01-tabla-periodica-001-MASTERY-bundle-v8",
+      "statement": "¿Cómo se denomina esta propiedad periódica?",
+      "context": "En Pereira, se mide la energía requerida para remover un electrón de un átomo gaseoso neutro en su estado fundamental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía de Ionización (o Potencial de Ionización)",
+          "is_correct": true,
+          "feedback": "Correcto. $X_{(g)} + E_i \\rightarrow X^+_{(g)} + e^-$."
+        },
+        {
+          "letter": "B",
+          "text": "Afinidad Electrónica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La afinidad electrónica es la energía liberada al capturar un electrón."
+        },
+        {
+          "letter": "C",
+          "text": "Electronegatividad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la tendencia a atraer electrones compartidos en un enlace."
+        },
+        {
+          "letter": "D",
+          "text": "Radio iónico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una medida dimensional de la distancia del catión/anión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La energía de ionización es la mínima energía necesaria para arrancar el electrón más débilmente unido de un átomo gaseoso aislado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-9-2026-W01-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W01-tabla-periodica-001-MASTERY-bundle-v9",
+      "statement": "¿A qué periodo y grupo de la tabla periódica pertenece este elemento?",
+      "context": "En Cúcuta, se determina la posición del elemento con configuración ending $3p^4$ en la tabla periódica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Periodo 3, Grupo VIA (16, Calcógenos/Anfígenos)",
+          "is_correct": true,
+          "feedback": "Correcto. Nivel $n=3 \\implies$ Periodo 3. Valencias $3s^2 3p^4 \\implies 2+4=6 \\implies$ Grupo VIA."
+        },
+        {
+          "letter": "B",
+          "text": "Periodo 4, Grupo IVA (14)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nivel principal es 3, no 4."
+        },
+        {
+          "letter": "C",
+          "text": "Periodo 3, Grupo IVB (4)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pertenece al bloque $p$ (elementos representativos A)."
+        },
+        {
+          "letter": "D",
+          "text": "Periodo 2, Grupo VIIA (17)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nivel $n=3$ y $6$ electrones de valencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Termina en $3s^2 3p^4$: Periodo $=$ mayor $n = 3$. Electrones de valencia $= 2 + 4 = 6 \\implies$ Grupo VIA (Azufre $Z=16$).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-9-2026-W01-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W01-tabla-periodica-001-MASTERY-bundle-v10",
+      "statement": "¿Por qué el radio iónico del catión $Na^+$ es significativamente menor que el radio atómico del $Na$ neutro?",
+      "context": "En Manizales, se compara el tamaño entre un átomo neutro de Sodio ($Na$) y su correspondiente catión ($Na^+$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el $Na^+$ pierde su capa externa más lejana ($n=3$) y aumenta la atracción efectiva de los protones sobre los electrones restantes.",
+          "is_correct": true,
+          "feedback": "Correcto. Al perder $3s^1$, disminuye una capa de electrones completa y se reduce la repulsión interelectrónica."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el $Na^+$ pierde protones en el núcleo atómico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los protones nucleares permanecen inalterados ($11$)."
+        },
+        {
+          "letter": "C",
+          "text": "Porque se ganan electrones aumentando la repulsión electrónica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un catión pierde electrones, no los gana."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la masa de los electrones perdidos colapsa el núcleo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masa de electrones es despreciable."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al formarse el catión $Na^+$ ($1s^2 2s^2 2p^6$), se pierde la capa $n=3$ y la carga nuclear atrae con más fuerza a los $10$ electrones restantes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-9-2026-W01-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W01-tabla-periodica-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál de estos elementos presenta la menor energía de ionización?",
+      "context": "En un análisis espectrográfico en Bogotá, se evalúan cuatro elementos representados por letras desconocidas: $W$ ($1s^2 2s^1$), $X$ ($1s^2 2s^2 2p^5$), $Y$ ($1s^2 2s^2 2p^6$) y $Z$ ($1s^2 2s^2 2p^6 3s^1$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Elemento $Z$",
+          "is_correct": true,
+          "feedback": "Correcto. $Z$ (Sodio, $n=3$) tiene su electrón de valencia más alejado del núcleo que $W$ ($n=2$), requiriendo la menor energía para removerlo."
+        },
+        {
+          "letter": "B",
+          "text": "Elemento $Y$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $Y$ es un gas noble (Neón) con capa llena y máxima energía de ionización."
+        },
+        {
+          "letter": "C",
+          "text": "Elemento $X$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $X$ (Flúor) es muy electronegativo con alta energía de ionización."
+        },
+        {
+          "letter": "D",
+          "text": "Elemento $W$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $W$ (Litio, $n=2$) atrae más fuertemente su electrón $s$ que $Z$ ($n=3$)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La energía de ionización disminuye al bajar en un grupo (mayor $n$). Entre $W$ ($2s^1$) y $Z$ ($3s^1$), $Z$ tiene el electrón más apantallado y fácil de arrancar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-9-2026-W01-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W01-tabla-periodica-001-MASTERY-bundle-v12",
+      "statement": "¿Qué tipo de red cristalina y enlace químico explica estas propiedades macroscópicas?",
+      "context": "Un compuesto químico desconocido $X_2Y$ presenta alta temperatura de fusión ($>800^\\circ\\text{C}$), conduce la electricidad únicamente cuando se disuelve en agua o se funde, y es quebradizo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Red cristalina iónica con atracciones electrostáticas intensas entre cationes y aniones.",
+          "is_correct": true,
+          "feedback": "Correcto. Puntos de fusión elevados y conductividad en solución/fundido son firma de redes iónicas."
+        },
+        {
+          "letter": "B",
+          "text": "Sólido covalente molecular con fuerzas de Van der Waals débiles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los compuestos covalentes moleculares suelen tener bajos puntos de fusión y no conducen en solución."
+        },
+        {
+          "letter": "C",
+          "text": "Sólido metálico con mar de electrones libres.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los metales conducen en estado sólido rígido."
+        },
+        {
+          "letter": "D",
+          "text": "Red amorfa polimérica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los polímeros amorfos no forman redes iónicas de alto punto de fusión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las propiedades descritas (alto punto de fusión, quebradizo, conductor solo electrolítico disuelto/fundido) son exclusivas de cristales iónicos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-9-2026-W01-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-33-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T16:46:07.378Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes opciones corresponde a una barrera primaria o innata del sistema inmune humano?",
+      "context": "En una clase de biología en un colegio de Medellín, una docente presenta un esquema con dos líneas de defensa del cuerpo humano: las barreras externas y las células especializadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La piel y las mucosas del tracto respiratorio, que impiden la entrada de microorganismos.",
+          "is_correct": true,
+          "feedback": "Correcto. La piel intacta y las mucosas con cilios y mucus son la primera barrera física y química contra patógenos."
+        },
+        {
+          "letter": "B",
+          "text": "Los linfocitos T citotóxicos que destruyen células infectadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los linfocitos T citotóxicos son parte de la inmunidad adaptativa, no de las barreras innatas."
+        },
+        {
+          "letter": "C",
+          "text": "Los anticuerpos IgG producidos por los linfocitos B.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los anticuerpos son moléculas de la respuesta adaptativa humoral, específica y de aparición tardía."
+        },
+        {
+          "letter": "D",
+          "text": "La memoria inmunológica generada después de una infección.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La memoria inmunológica es una propiedad de la inmunidad adaptativa, no de la innata."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El sistema inmune humano tiene dos grandes líneas: la inmunidad innata (presente desde el nacimiento, no específica, rápida) y la inmunidad adaptativa (específica, con memoria, más lenta). Dentro de la innata están las barreras físicas como la piel, las mucosas, el pH ácido del estómago, los cilios del epitelio respiratorio y la lisozima de las lágrimas y la saliva.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle-v2",
+      "statement": "¿Qué tipo de célula del sistema inmune humano es responsable de producir y secretar anticuerpos?",
+      "context": "Un estudiante de Cali investiga qué células del sistema inmune son las encargadas de fabricar anticuerpos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los macrófagos tisulares del tejido conectivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los macrófagos fagocitan y presentan antígenos, pero no producen anticuerpos."
+        },
+        {
+          "letter": "B",
+          "text": "Los linfocitos T CD8+ citotóxicos del timo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los linfocitos T CD8+ destruyen células infectadas, no secretan anticuerpos."
+        },
+        {
+          "letter": "C",
+          "text": "Los linfocitos B diferenciados en células plasmáticas.",
+          "is_correct": true,
+          "feedback": "Correcto. Tras reconocer al antígeno, los linfocitos B se diferencian en células plasmáticas que secretan grandes cantidades de anticuerpos."
+        },
+        {
+          "letter": "D",
+          "text": "Las células dendríticas del bazo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las células dendríticas son presentadoras de antígeno, no fábricas de anticuerpos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La inmunidad humoral depende de los linfocitos B: al activarse con ayuda de los linfocitos T helper CD4+, proliferan y una fracción se convierte en células plasmáticas, células altamente especializadas que secretan anticuerpos específicos contra el antígeno que las activó. Otra fracción queda como célula B de memoria.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.83,
+      "bundle_id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el principio biológico por el cual una vacuna protege a una persona contra una enfermedad infecciosa?",
+      "context": "En una campaña de vacunación en un barrio de Bogotá, una enfermera explica que las vacunas enseñan al cuerpo a defenderse antes de enfrentarse al virus verdadero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estimula la producción de células de memoria que reconocen rápidamente al patógeno en una infección real.",
+          "is_correct": true,
+          "feedback": "Correcto. Las vacunas exponen al sistema inmune a antígenos inactivados o atenuados para generar linfocitos B y T de memoria."
+        },
+        {
+          "letter": "B",
+          "text": "Introduce antibióticos que destruyen bacterias antes de que se multipliquen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las vacunas no contienen antibióticos; los antibióticos son medicamentos contra bacterias, no vacunas."
+        },
+        {
+          "letter": "C",
+          "text": "Sustituye los glóbulos rojos dañados por glóbulos nuevos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las vacunas no afectan la producción de glóbulos rojos ni modifican la médula ósea de esa manera."
+        },
+        {
+          "letter": "D",
+          "text": "Aumenta la temperatura corporal para matar virus con calor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fiebre es una respuesta del cuerpo, pero el principio de la vacuna es la memoria inmunológica, no el calor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La vacunación aprovecha la memoria inmunológica: al exponer al organismo a una versión atenuada, inactivada o a fragmentos del patógeno, se generan linfocitos B y T de memoria. Ante una exposición real futura, la respuesta secundaria es más rápida, intensa y específica, lo que evita o atenúa la enfermedad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle-v4",
+      "statement": "El proceso que produce enrojecimiento, calor, hinchazón y dolor en una herida infectada se denomina",
+      "context": "Un paciente llega a urgencias en Barranquilla con un dedo infectado: enrojecido, caliente, hinchado y con dolor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "respuesta inmune adaptativa específica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La respuesta adaptativa específica tarda días y se basa en anticuerpos y linfocitos T; este es un proceso inmediato."
+        },
+        {
+          "letter": "B",
+          "text": "inflamación aguda, parte de la respuesta inmune innata.",
+          "is_correct": true,
+          "feedback": "Correcto. La inflamación aguda es una respuesta innata mediada por histamina, prostaglandinas y células como neutrófilos y macrófagos."
+        },
+        {
+          "letter": "C",
+          "text": "producción masiva de anticuerpos IgG.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La producción de anticuerpos es adaptativa y se evidencia semanas después, no en horas."
+        },
+        {
+          "letter": "D",
+          "text": "reacción autoinmune contra los propios tejidos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La autoinmunidad ataca moléculas propias; la inflamación aquí responde a un daño con microorganismos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La inflamación aguda es una respuesta vascular y celular que aísla y elimina el agente dañino. Incluye dilatación de vasos sanguíneos (enrojecimiento y calor), aumento de la permeabilidad (hinchazón) y estimulación de terminaciones nerviosas (dolor). Células como neutrófilos y macrófagos fagocitan restos celulares y bacterias en la zona.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle-v5",
+      "statement": "Si el día 21 al mismo ratón se le inyecta una segunda dosis del mismo antígeno X, lo esperado en el gráfico de anticuerpos es",
+      "context": "En el laboratorio de una universidad en Bogotá, se inyecta un antígeno X a un ratón y se mide el título de anticuerpos en sangre durante 21 días.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "una respuesta primaria más fuerte que la primera, con un tiempo de latencia mayor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La segunda exposición genera una respuesta secundaria, más rápida, más fuerte y con anticuerpos IgG."
+        },
+        {
+          "letter": "B",
+          "text": "una respuesta secundaria más rápida, de mayor magnitud y con anticuerpos de mayor afinidad.",
+          "is_correct": true,
+          "feedback": "Correcto. La memoria inmunológica hace que la segunda respuesta sea más veloz, intensa y con anticuerpos IgG de mayor afinidad."
+        },
+        {
+          "letter": "C",
+          "text": "ausencia total de anticuerpos por tolerancia inmunológica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tolerancia se induce a antígenos propios; un antígeno X extraño provoca respuesta, no tolerancia."
+        },
+        {
+          "letter": "D",
+          "text": "una respuesta exclusivamente de tipo IgM sin cambio respecto a la primera exposición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la respuesta secundaria predominan IgG sobre IgM gracias al cambio de clase en los linfocitos B de memoria."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta primaria es lenta, con IgM primero y menor título de anticuerpos. La respuesta secundaria, gracias a las células de memoria generadas, es más rápida, produce mayor cantidad de anticuerpos, con cambio de clase a IgG y con mayor afinidad por el antígeno. Este principio sustenta la necesidad de dosis de refuerzo en muchas vacunas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle-v6",
+      "statement": "Una enfermedad en la que el sistema inmune produce anticuerpos o linfocitos T contra moléculas del propio cuerpo se clasifica como",
+      "context": "Un médico en Pereira diagnostica a un paciente con lupus eritematoso sistémico y le explica que su sistema inmune está atacando estructuras propias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "inmunodeficiencia primaria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las inmunodeficiencias son fallas del sistema inmune, no ataques contra lo propio."
+        },
+        {
+          "letter": "B",
+          "text": "respuesta alérgica tipo I mediada por IgE.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las alergias son reacciones exageradas contra sustancias externas inofensivas, no contra moléculas propias."
+        },
+        {
+          "letter": "C",
+          "text": "enfermedad autoinmune.",
+          "is_correct": true,
+          "feedback": "Correcto. En las enfermedades autoinmunes se pierde la tolerancia a lo propio y se generan respuestas contra tejidos del organismo."
+        },
+        {
+          "letter": "D",
+          "text": "rechazo de un trasplante únicamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El rechazo de trasplante es una respuesta contra antígenos extraños del injerto, no contra lo propio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las enfermedades autoinmunes como lupus, artritis reumatoide, diabetes tipo 1 o esclerosis múltiple aparecen cuando se rompe la tolerancia inmunológica hacia antígenos propios. Esto puede deberse a mimetismo molecular con patógenos, exposición de antígenos ocultos o fallas en la selección tímica de linfocitos autorreactivos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.73,
+      "bundle_id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle-v7",
+      "statement": "El virus de la inmunodeficiencia humana (VIH) afecta principalmente a",
+      "context": "En una consulta en Bucaramanga, un paciente con VIH pregunta por qué sus defensas han disminuido tanto a pesar de tomar su tratamiento antirretroviral.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "los linfocitos B, impidiendo la producción de anticuerpos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El VIH no infecta principalmente linfocitos B; su blanco son los linfocitos T CD4+."
+        },
+        {
+          "letter": "B",
+          "text": "los linfocitos T CD4+ helper, reduciendo la coordinación de la respuesta inmune.",
+          "is_correct": true,
+          "feedback": "Correcto. El VIH infecta y destruye linfocitos T CD4+, lo que disminuye la capacidad de orquestar respuestas humorales y celulares."
+        },
+        {
+          "letter": "C",
+          "text": "los glóbulos rojos, causando anemia e hipoxia tisular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El VIH no infecta eritrocitos porque estos no tienen núcleo ni receptores CD4."
+        },
+        {
+          "letter": "D",
+          "text": "las plaquetas, generando trastornos de coagulación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El VIH no infecta plaquetas; las plaquetopenias en sida son efecto secundario, no mecanismo central."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El VIH usa la proteína CD4 y correceptores CCR5 o CXCR4 para entrar a los linfocitos T helper CD4+. Al destruirlos progresivamente, el paciente pierde la coordinación de respuestas inmunes, lo que favorece infecciones oportunistas y ciertos cánceres. Los antirretrovirales actuales controlan la replicación viral pero no eliminan el reservorio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle-v8",
+      "statement": "El cuadro sugiere que el paciente debe recibir de manera urgente",
+      "context": "Una madre en Manizales lleva a su hijo al servicio de urgencias porque tiene fiebre alta, dificultad para respirar y una mancha oscura en la piel luego de una herida con un clavo oxidado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "antibióticos de amplio espectro únicamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque pueden administrarse, no son la intervención específica que neutraliza la toxina del tétanos."
+        },
+        {
+          "letter": "B",
+          "text": "inmunoglobulina antitetánica y toxoide tetánico para reforzar su protección.",
+          "is_correct": true,
+          "feedback": "Correcto. La inmunoglobulina aporta anticuerpos neutralizantes inmediatos y el toxoide induce memoria contra futuras exposiciones."
+        },
+        {
+          "letter": "C",
+          "text": "antihistamínicos para una reacción alérgica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tétanos es una infección por toxina bacteriana, no una alergia; los antihistamínicos no la tratan."
+        },
+        {
+          "letter": "D",
+          "text": "una transfusión de plasma fresco congelado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El plasma fresco no aporta anticuerpos específicos en cantidad suficiente contra la toxina tetánica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tétanos es causado por la toxina de Clostridium tetani, que bloquea neurotransmisores inhibidores causando espasmos musculares. El manejo inmediato combina inmunoglobulina hiperinmune antitetánica (pasiva) con toxoide tetánico (activa) más desbridamiento de la herida. La inmunoglobulina neutraliza toxina circulante y el toxoide induce memoria inmunológica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle-v9",
+      "statement": "Si en un paciente se observa una elevación marcada y sostenida de IgE sérica junto con eosinofilia, el cuadro sugiere",
+      "context": "En una práctica de laboratorio en un colegio de Ibagué, los estudiantes analizan un suero sanguíneo con electroforesis y observan bandas en las regiones de las inmunoglobulinas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "una infección viral aguda con respuesta citotóxica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las infecciones virales suelen elevar IgM e IgG; IgE alta sugiere otro proceso."
+        },
+        {
+          "letter": "B",
+          "text": "una respuesta alérgica o parasitaria con activación de Th2 y basófilos.",
+          "is_correct": true,
+          "feedback": "Correcto. IgE alta y eosinofilia se asocian con alergias tipo I y parasitosis, procesos mediados por linfocitos Th2."
+        },
+        {
+          "letter": "C",
+          "text": "una inmunodeficiencia combinada grave.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En inmunodeficiencias los niveles de inmunoglobulinas suelen estar bajos, no elevados de forma selectiva."
+        },
+        {
+          "letter": "D",
+          "text": "un proceso autoinmune contra receptores de acetilcolina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La autoinmunidad anti-receptor de acetilcolina produce miastenia gravis y se asocia a anticuerpos específicos, no a IgE alta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La inmunoglobulina E participa en alergias tipo I y en la defensa contra parásitos helmintos. Su producción depende de linfocitos Th2 que secretan interleucinas como IL-4 e IL-5, esta última responsable del reclutamiento de eosinófilos. Por eso eosinofilia e IgE elevada suelen ir de la mano en alergias y parasitosis.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle-v10",
+      "statement": "El rechazo agudo de un trasplante renal está mediado principalmente por",
+      "context": "Un paciente en Bogotá recibe un trasplante renal de un donante cadavérico y a las semanas se le eleva la creatinina; el equipo médico sospecha rechazo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "anticuerpos IgE contra alérgenos del injerto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El rechazo no se debe a IgE ni a alérgenos, sino al reconocimiento inmune de moléculas extrañas del donante."
+        },
+        {
+          "letter": "B",
+          "text": "macrófagos que fagocitan glóbulos rojos del receptor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los macrófagos participan pero el rechazo agudo implica sobre todo linfocitos T CD8+ citotóxicos del receptor."
+        },
+        {
+          "letter": "C",
+          "text": "linfocitos T CD8+ del receptor que reconocen moléculas MHC del donante como extrañas.",
+          "is_correct": true,
+          "feedback": "Correcto. Los linfocitos T CD8+ del receptor atacan células del injerto que expresan MHC no propias, causando necrosis tubular."
+        },
+        {
+          "letter": "D",
+          "text": "eosinófilos atraídos por parásitos en el tejido renal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La eosinofilia aparece en alergias y parasitosis; el rechazo agudo es sobre todo una respuesta T citotóxica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El rechazo agudo ocurre semanas después del trasplante por linfocitos T CD8+ del receptor que reconocen como extrañas las moléculas MHC del injerto. Por eso es clave tipificar HLA/MHC de donante y receptor y usar inmunosupresores que frenen la activación T, como los inhibidores de calcineurina.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.63,
+      "bundle_id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle-v11",
+      "statement": "Los neutrófilos cumplen una función esencial en la inmunidad que es",
+      "context": "Una investigadora en Cali analiza sangre de un paciente con neutropenia severa y observa que sus heridas tardan más en sanar y se infectan fácilmente con bacterias piógenas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "fagocitar bacterias y hongos en los tejidos durante la respuesta innata.",
+          "is_correct": true,
+          "feedback": "Correcto. Los neutrófilos son los fagocitos más abundantes de la sangre y combaten infecciones bacterianas y fúngicas."
+        },
+        {
+          "letter": "B",
+          "text": "presentar antígeno a linfocitos T helper en los ganglios linfáticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La presentación antigénica eficiente la hacen células dendríticas y macrófagos, no los neutrófilos."
+        },
+        {
+          "letter": "C",
+          "text": "secretar inmunoglobulinas contra parásitos intestinales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las inmunoglobulinas son secretadas por células plasmáticas derivadas de linfocitos B, no por neutrófilos."
+        },
+        {
+          "letter": "D",
+          "text": "coordinar exclusivamente la respuesta alérgica tipo I.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La alergia tipo I depende de IgE, mastocitos y basófilos; los neutrófilos no son los coordinadores principales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los neutrófilos son la primera línea celular innata contra infecciones bacterianas: migran al sitio de infección por quimioatrayentes, fagocitan y liberan trampas extracelulares de neutrófilos (NET) junto con especies reactivas de oxígeno. Su déficit, llamado neutropenia, se asocia a infecciones recurrentes graves.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.62,
+      "bundle_id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle-v12",
+      "statement": "La inmunoglobulina que cruza la placenta y confiere inmunidad pasiva natural al recién nacido durante las primeras semanas de vida es",
+      "context": "En una clase en Neiva, los estudiantes revisan una tabla con los isotipos de inmunoglobulinas y sus funciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "IgA secretora de la leche materna.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La IgA secretora protege mucosas del recién nacido, pero no es la que cruza la placenta."
+        },
+        {
+          "letter": "B",
+          "text": "IgM pentamérica del plasma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La IgM es la primera respuesta, pero por su tamaño no atraviesa la placenta."
+        },
+        {
+          "letter": "C",
+          "text": "IgG, el único isotipo que atraviesa la placenta en cantidades significativas.",
+          "is_correct": true,
+          "feedback": "Correcto. La IgG materna cruza la placenta por transcitosis mediada por FcRn y protege al recién nacido durante sus primeras semanas."
+        },
+        {
+          "letter": "D",
+          "text": "IgE unida a mastocitos del cordón umbilical.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La IgE participa en alergias y parasitosis; no es la inmunoglobulina que protege al recién nacido."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Durante el embarazo, la IgG materna cruza la placenta mediante un receptor neonatal para Fc (FcRn). Este transporte es activo y selectivo, lo que protege al recién nacido de muchas infecciones durante los primeros meses. La leche materna, en cambio, aporta IgA secretora que protege el tracto gastrointestinal.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle-v13",
+      "statement": "En el caso del dengue, una segunda infección por un serotipo diferente del virus puede desencadenar dengue grave porque",
+      "context": "Un epidemiólogo en Armenia analiza el comportamiento de una epidemia de dengue en una ciudad del Tolima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "el virus produce anticuerpos contra el sistema inmune del paciente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El virus no fabrica anticuerpos contra el sistema inmune; son nuestras células las que los producen."
+        },
+        {
+          "letter": "B",
+          "text": "anticuerpos no neutralizantes de la primera infección facilitan la entrada del virus a monocitos, amplificando la infección.",
+          "is_correct": true,
+          "feedback": "Correcto. El fenómeno de facilitación dependiente de anticuerpos permite que el virus entre a células fagocíticas y se reproduzca más, causando dengue grave."
+        },
+        {
+          "letter": "C",
+          "text": "el virus destruye directamente los glóbulos rojos en la sangre periférica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El dengue infecta monocitos y células dendríticas, no glóbulos rojos."
+        },
+        {
+          "letter": "D",
+          "text": "la primera infección destruye por completo las células de memoria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La memoria inmunológica se mantiene; precisamente esa memoria con anticuerpos subneutralizantes es la base del problema."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el dengue existen cuatro serotipos; la infección por uno genera inmunidad homotípica protectora, pero los anticuerpos contra un serotipo pueden no neutralizar a otro y, en cambio, facilitar su ingreso a monocitos vía receptores Fc. Esta amplificación dependiente de anticuerpos explica por qué el dengue grave es más frecuente en infecciones secundarias por serotipo diferente.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle-v14",
+      "statement": "El cuadro descrito corresponde a una reacción anafiláctica, que es mediada principalmente por",
+      "context": "Una enfermera en un hospital de Popayán aplica una inyección intramuscular de penicilina y minutos después el paciente presenta ronquera, dificultad para respirar y caída de la presión arterial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "IgE unida a mastocitos que libera histamina y otros mediadores al reconocer el alérgeno.",
+          "is_correct": true,
+          "feedback": "Correcto. En la alergia tipo I, IgE específica contra el fármaco se une a mastocitos; la nueva exposición dispara la liberación de histamina."
+        },
+        {
+          "letter": "B",
+          "text": "complejos inmunes de IgG depositados en tejidos vasculares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los complejos inmunes median la reacción tipo III, no la anafilaxia."
+        },
+        {
+          "letter": "C",
+          "text": "linfocitos T CD8+ citotóxicos contra células propias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La respuesta T citotóxica es tipo IV; la anafilaxia es tipo I mediada por IgE."
+        },
+        {
+          "letter": "D",
+          "text": "complemento C9 formando poros en membranas de neutrófilos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El complejo de ataque de membrana C5b-9 actúa contra células, no es el mediador principal de la anafilaxia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La anafilaxia es una reacción alérgica tipo I sistémica, potencialmente mortal. En la primera exposición se generan IgE específicas que se fijan a receptores de alta afinidad en mastocitos y basófilos; en una reexposición, el alérgeno entrecruza esas IgE y desencadena liberación masiva de histamina, triptasa y leucotrienos, causando broncoconstricción y vasodilatación.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle-v15",
+      "statement": "La prueba que mide liberación de interferón gamma frente a antígenos de Mycobacterium tuberculosis evalúa principalmente",
+      "context": "Un investigador en Tunja compara la sangre de pacientes con tuberculosis activa frente a controles sanos y mide liberación de interferón gamma ante antígenos de Mycobacterium tuberculosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "la cantidad de anticuerpos IgG específicos contra la bacteria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El interferón gamma es una citocina celular, no un anticuerpo; mide respuesta T, no humoral."
+        },
+        {
+          "letter": "B",
+          "text": "la respuesta inmune celular mediada por linfocitos T helper CD4+ de tipo Th1.",
+          "is_correct": true,
+          "feedback": "Correcto. Los linfocitos T CD4+ Th1 de personas previamente sensibilizadas liberan IFN-gamma al reconocer antígenos tuberculosos."
+        },
+        {
+          "letter": "C",
+          "text": "la cantidad de neutrófilos en la sangre periférica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ensayo IGRA mide respuesta T específica, no el conteo global de neutrófilos."
+        },
+        {
+          "letter": "D",
+          "text": "la concentración plasmática de complemento C3 activado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El complemento participa en la respuesta innata pero no es el marcador medido en esta prueba."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La prueba IGRA (Interferon Gamma Release Assay) cuantifica el IFN-gamma liberado por linfocitos T CD4+ Th1 sensibilizados al exponerse a antígenos ESAT-6 y CFP-10 de M. tuberculosis. Es una alternativa a la prueba cutánea de tuberculina para detectar infección tuberculosa latente, especialmente útil en personas vacunadas con BCG.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.57,
+      "bundle_id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle-v16",
+      "statement": "El proceso de selección tímica en el timo elimina principalmente a",
+      "context": "Una estudiante de Santa Marta investiga cómo se eligen los linfocitos en el timo y por qué algunos se eliminan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "linfocitos T incapaces de reconocer MHC propio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Selección positiva retiene precisamente a los T que sí reconocen MHC propio; los incapaces son eliminados."
+        },
+        {
+          "letter": "B",
+          "text": "linfocitos T que reaccionan con demasiada fuerza contra antígenos propios.",
+          "is_correct": true,
+          "feedback": "Correcto. La selección negativa elimina linfocitos T autorreactivos que reaccionarían contra tejidos propios del organismo."
+        },
+        {
+          "letter": "C",
+          "text": "macrófagos y células dendríticas presentadoras de antígeno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El timo selecciona linfocitos T, no macrófagos ni células dendríticas."
+        },
+        {
+          "letter": "D",
+          "text": "linfocitos B que no producen anticuerpos funcionales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La maduración de linfocitos B ocurre en médula ósea, no en el timo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el timo ocurren dos selecciones: la selección positiva favorece linfocitos T cuyos receptores TCR reconocen MHC propio cargado con algún péptido, asegurando utilidad; la selección negativa elimina los T con demasiada avidez por complejos MHC-péptido propio, previniendo autoinmunidad. Los sobrevivientes son linfocitos T naïve que emigran a órganos linfoides periféricos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.56,
+      "bundle_id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle-v17",
+      "statement": "Desde el punto de vista inmunológico, la principal ventaja de las vacunas de VPH actualmente recomendadas en Colombia es que",
+      "context": "El Ministerio de Salud de Colombia evalúa dos estrategias de vacunación contra el Virus del Papiloma Humano (VPH) en escolares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "producen IgA secretora en mucosas genitales sin necesidad de adyuvante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para inducir IgA mucosal las vacunas suelen requerir adyuvantes o plataformas especiales, no es su ventaja principal."
+        },
+        {
+          "letter": "B",
+          "text": "generan anticuerpos neutralizantes contra las proteínas L1 de la cápside viral, impidiendo la infección inicial.",
+          "is_correct": true,
+          "feedback": "Correcto. Las vacunas de VPH contienen partículas similares a virus con proteína L1; inducen anticuerpos neutralizantes que bloquean el ingreso viral."
+        },
+        {
+          "letter": "C",
+          "text": "eliminan infecciones activas ya establecidas en el cuello uterino.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las vacunas son profilácticas; las lesiones establecidas requieren tamizaje citológico y tratamientos médicos."
+        },
+        {
+          "letter": "D",
+          "text": "actúan integrando su genoma al ADN de las células epiteliales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las vacunas actuales son subunitarias y no contienen ADN viral, por lo que no se integran al genoma."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las vacunas contra el VPH son subunitarias: contienen partículas similares a virus (VLP) formadas por la proteína estructural L1. Inducen anticuerpos neutralizantes que bloquean el ingreso del virus a las células epiteliales, previniendo la infección persistente y, por tanto, el cáncer cervicouterino. Son profilácticas, no terapéuticas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle-v18",
+      "statement": "El uso racional de corticoides en pacientes con sepsis con choque refractario a fluidos y vasopresores busca principalmente",
+      "context": "Un equipo médico en Bogotá atiende a un paciente con sepsis grave y debe decidir si aplica corticoides a dosis inmunosupresoras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "reemplazar totalmente la función del timo en adultos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los corticoides no sustituyen al timo, cuya involución es propia del envejecimiento."
+        },
+        {
+          "letter": "B",
+          "text": "modular la hiperinflamación sistémica y mejorar la respuesta vascular a vasopresores.",
+          "is_correct": true,
+          "feedback": "Correcto. En sepsis con choque refractario, los corticoides modulan citocinas proinflamatorias y restauran la sensibilidad a catecolaminas."
+        },
+        {
+          "letter": "C",
+          "text": "aumentar la producción de anticuerpos específicos contra la bacteria causal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los corticoides a dosis altas suprimen, no estimulan, la producción de anticuerpos específicos."
+        },
+        {
+          "letter": "D",
+          "text": "estimular directamente la fagocitosis de los neutrófilos envejecidos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los corticoides favorecen marginación y apoptosis de neutrófilos; no estimulan su función microbicida."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En sepsis con choque que no responde a volumen ni vasopresores, las guías recomiendan hidrocortisona a dosis de estrés. Este glucocorticoide reduce la transcripción de citocinas proinflamatorias, estabiliza membranas y reincorpora receptores de vasopresores, mejorando la presión arterial. Su uso debe ser juicioso porque también aumenta el riesgo de infecciones secundarias.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.48,
+      "bundle_id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle-v19",
+      "statement": "Una diferencia inmunológica clave entre las vacunas de ARN mensajero y las vacunas tradicionales con virus atenuado es que",
+      "context": "En un foro de salud pública en Cartagena, expertos debaten la pertinencia de nuevas vacunas de ARN mensajero contra virus respiratorios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "las de ARN inducen la producción endógena de la proteína antigénica sin riesgo de réplica viral, mientras que las atenuadas usan virus vivos con replicación controlada.",
+          "is_correct": true,
+          "feedback": "Correcto. Las vacunas de ARNm hacen que las células del vacunado fabriquen el antígeno; las atenuadas llevan virus vivos que se replican de forma limitada."
+        },
+        {
+          "letter": "B",
+          "text": "las de ARN solo estimulan inmunidad celular y ninguna humoral.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las vacunas de ARNm también inducen anticuerpos neutralizantes y respuesta T CD8+, no solo inmunidad celular."
+        },
+        {
+          "letter": "C",
+          "text": "las atenuadas carecen completamente de cualquier efecto secundario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las vacunas atenuadas pueden causar cuadros leves y están contraindicadas en inmunosuprimidos, precisamente por su capacidad de replicación."
+        },
+        {
+          "letter": "D",
+          "text": "las de ARN modifican de manera permanente el genoma humano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ARNm vacunal no se integra al ADN ni se transmite a la línea germinal; se degrada en horas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las vacunas de ARN mensajero introducen en las células del vacunado una secuencia que codifica la proteína antigénica; el ARNm se traduce en el citoplasma sin entrar al núcleo y es degradado rápidamente. Esto genera una respuesta inmune robusta sin riesgo de integración genómica. Las atenuadas, en cambio, usan virus vivos con replicación limitada, lo que da larga inmunidad pero exige cuidados en inmunosuprimidos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.46,
+      "bundle_id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle-v20",
+      "statement": "Los anticuerpos monoclonales anti-PD1 y anti-CTLA4 utilizados en inmunoterapia contra el cáncer actúan fundamentalmente",
+      "context": "Un inmunólogo en Bogotá analiza por qué la inmunoterapia con inhibidores de checkpoint ha revolucionado el tratamiento del melanoma metastásico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "destruyendo directamente todas las células tumorales por citotoxicidad dependiente de complemento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos anticuerpos no son citotóxicos directos; su acción es modular la respuesta inmune del paciente."
+        },
+        {
+          "letter": "B",
+          "text": "bloqueando moléculas inhibitorias en linfocitos T para que estos reconozcan y ataquen mejor a las células tumorales.",
+          "is_correct": true,
+          "feedback": "Correcto. Anti-PD1/PDL1 y anti-CTLA4 liberan los frenos del linfocito T, permitiendo una respuesta antitumoral más eficaz."
+        },
+        {
+          "letter": "C",
+          "text": "estimulando exclusivamente la producción de anticuerpos antitumorales en el bazo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mecanismo principal es la reactivación de linfocitos T, no la inducción directa de anticuerpos."
+        },
+        {
+          "letter": "D",
+          "text": "reemplazando el sistema inmune dañado por uno donado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos anticuerpos son fármacos; no implican trasplante de médula ni reemplazo inmune."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los linfocitos T expresan receptores inhibitorios como PD-1 y CTLA-4 para evitar autoagresión; muchos tumores aprovechan esas vías para evadir la respuesta inmune. Los anticuerpos monoclonales anti-PD1/PDL1 y anti-CTLA4 bloquean esos frenos, permitiendo que linfocitos T citotóxicos ataquen al tumor. Esta estrategia ha mostrado respuestas duraderas en melanoma, pulmón y otros cánceres, aunque puede causar efectos adversos autoinmunes.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.44,
+      "bundle_id": "CO-CN-11-2026-W33-sistema-inmune-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematica",
+    "country": "ar",
+    "pack_id": "ar-week-11-grade-11-subject-matematica",
+    "generated_at": "2026-09-12T16:46:07.212Z"
+  },
+  "questions": [
+    {
+      "id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v1",
+      "statement": "Dada la función $h(t) = 3 \\sin\\left(\\frac{\\pi}{6} t\\right) + 4$, ¿cuál es el valor máximo que alcanza la marea?",
+      "context": "Estudio del nivel del mar en Puerto Madryn.\n**ID:** AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v1\n**Bloom:** Remember\n**EJE:** Trigonometría y Funciones\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$7\\text{ metros}$",
+          "is_correct": true,
+          "feedback": "Correcto. El máximo es la amplitud más el desplazamiento vertical: $3 + 4 = 7\\text{ m}$."
+        },
+        {
+          "letter": "B",
+          "text": "$3\\text{ metros}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $3\\text{ m}$ es la amplitud, no el valor máximo."
+        },
+        {
+          "letter": "C",
+          "text": "$4\\text{ metros}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $4\\text{ m}$ es la línea media o altura promedio."
+        },
+        {
+          "letter": "D",
+          "text": "$12\\text{ metros}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $12$ es el período de la función en horas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para $h(t) = A \\sin(\\omega t) + C$, la imagen de la función es $[C - A, C + A]$. El máximo es $4 + 3 = 7\\text{ m}$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el período fundamental $T$ de la función $V(t) = 311 \\cos(100\\pi t)$?",
+      "context": "Señal de voltaje alterno en la red eléctrica de Córdoba.\n**ID:** AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v2\n**Bloom:** Remember\n**EJE:** Trigonometría y Funciones\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0,02\\text{ segundos}$",
+          "is_correct": true,
+          "feedback": "Correcto. $T = \\frac{2\\pi}{\\omega} = \\frac{2\\pi}{100\\pi} = 0,02\\text{ s}$."
+        },
+        {
+          "letter": "B",
+          "text": "$50\\text{ segundos}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $50\\text{ Hz}$ es la frecuencia, no el período en segundos."
+        },
+        {
+          "letter": "C",
+          "text": "$100\\text{ segundos}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió la velocidad angular con el período."
+        },
+        {
+          "letter": "D",
+          "text": "$0,01\\text{ segundos}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por $200\\pi$ en lugar de por $100\\pi$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El período $T$ se determina como $T = \\frac{2\\pi}{\\omega}$. Con $\\omega = 100\\pi$, obtenemos $T = \\frac{2\\pi}{100\\pi} = \\frac{1}{50} = 0,02\\text{ s}$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la imagen (rango) de la función $f(x) = -2 \\cos(x) + 5$?",
+      "context": "Análisis de oscilación de una rueda gigante en Quilmes.\n**ID:** AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v3\n**Bloom:** Understand\n**EJE:** Trigonometría y Funciones\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[3, 7]$",
+          "is_correct": true,
+          "feedback": "Correcto. El coseno oscila entre $-1$ y $1$. La función varía entre $-2(1)+5 = 3$ y $-2(-1)+5 = 7$."
+        },
+        {
+          "letter": "B",
+          "text": "$[-2, 2]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró el desplazamiento vertical $+5$."
+        },
+        {
+          "letter": "C",
+          "text": "$[5, 7]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mínimo no ocurre en $5$, sino cuando $\\cos(x) = 1$."
+        },
+        {
+          "letter": "D",
+          "text": "$[-7, -3]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invirtió los signos del rango."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Como $-1 \\le \\cos(x) \\le 1$, al multiplicar por $-2$ se obtiene $-2 \\le -2\\cos(x) \\le 2$. Sumando $5$, la imagen resulta $[3, 7]$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la frecuencia angular $\\omega$ de la función sinusoidal $y(t) = 5 \\sin(4\\pi t + \\pi)$?",
+      "context": "Monitoreo de ondas sonoras en un estudio de grabación en Rosario.\n**ID:** AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v4\n**Bloom:** Understand\n**EJE:** Trigonometría y Funciones\n**Expected_Success:** 0.83",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4\\pi\\text{ rad/s}$",
+          "is_correct": true,
+          "feedback": "Correcto. La frecuencia angular es el coeficiente de la variable temporal $t$, que vale $4\\pi$."
+        },
+        {
+          "letter": "B",
+          "text": "$5\\text{ rad/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $5$ es la amplitud de la onda."
+        },
+        {
+          "letter": "C",
+          "text": "$\\pi\\text{ rad/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\pi$ es el desfase de fase inicial."
+        },
+        {
+          "letter": "D",
+          "text": "$2\\text{ rad/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $2\\text{ Hz}$ es la frecuencia en Hz, no la angular en rad/s."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la expresión general $A \\sin(\\omega t + \\phi)$, la frecuencia angular $\\omega$ es la constante multiplicativa de $t$, es decir, $4\\pi\\text{ rad/s}$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.83,
+      "bundle_id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v5",
+      "statement": "¿En cuáles de los siguientes valores de $x$ la función $f(x) = \\tan(x)$ NO está definida?",
+      "context": "Comportamiento de la función tangente en CABA.\n**ID:** AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v5\n**Bloom:** Understand\n**EJE:** Trigonometría y Funciones\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = \\frac{\\pi}{2} + k\\pi$ con $k \\in \\mathbb{Z}$",
+          "is_correct": true,
+          "feedback": "Correcto. La tangente es $\\frac{\\sin(x)}{\\cos(x)}$, la cual no está definida donde $\\cos(x) = 0$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = k\\pi$ con $k \\in \\mathbb{Z}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En los múltiplos de $\\pi$ la tangente vale $0$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 2k\\pi$ con $k \\in \\mathbb{Z}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En esos puntos la tangente está perfectamente definida y vale $0$."
+        },
+        {
+          "letter": "D",
+          "text": "$x = \\frac{\\pi}{4} + k\\pi$ con $k \\in \\mathbb{Z}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En esos puntos la tangente vale $1$ o $-1$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por definición $\\tan(x) = \\frac{\\sin(x)}{\\cos(x)}$. No está definida cuando el denominador es nulo: $\\cos(x) = 0 \\Rightarrow x = \\frac{\\pi}{2} + k\\pi$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v6",
+      "statement": "La temperatura en $^{\\circ}\\text{C}$ viene dada por $T(m) = 18 + 10 \\cos\\left(\\frac{\\pi}{6} (m - 1)\\right)$, donde $m=1$ es enero. ¿Qué temperatura se registra en el mes de julio ($m=7$)?",
+      "context": "Modelo de temperatura media mensual en Mendoza.\n**ID:** AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v6\n**Bloom:** Apply\n**EJE:** Trigonometría y Funciones\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$8^{\\circ}\\text{C}$",
+          "is_correct": true,
+          "feedback": "Correcto. $T(7) = 18 + 10 \\cos(\\pi) = 18 + 10(-1) = 8^{\\circ}\\text{C}$."
+        },
+        {
+          "letter": "B",
+          "text": "$28^{\\circ}\\text{C}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $28^{\\circ}\\text{C}$ ocurre en enero, cuando el coseno vale $1$."
+        },
+        {
+          "letter": "C",
+          "text": "$18^{\\circ}\\text{C}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $18^{\\circ}\\text{C}$ es la temperatura media anual."
+        },
+        {
+          "letter": "D",
+          "text": "$10^{\\circ}\\text{C}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió la amplitud con la temperatura mínima."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para $m = 7$: $\\frac{\\pi}{6}(7 - 1) = \\frac{6\\pi}{6} = \\pi$. Como $\\cos(\\pi) = -1$, calculamos $T(7) = 18 + 10(-1) = 8^{\\circ}\\text{C}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v7",
+      "statement": "Dada la función $y = \\sin\\left(2x - \\frac{\\pi}{2}\\right)$, ¿cuál es su desfase de fase horizontal?",
+      "context": "Fase de un péndulo de laboratorio en La Plata.\n**ID:** AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v7\n**Bloom:** Apply\n**EJE:** Trigonometría y Funciones\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desplazamiento de $\\frac{\\pi}{4}$ hacia la derecha",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando: $\\sin\\left(2\\left(x - \\frac{\\pi}{4}\\right)\\right)$. El desfase es $\\frac{\\pi}{4}$ a la derecha."
+        },
+        {
+          "letter": "B",
+          "text": "Desplazamiento de $\\frac{\\pi}{2}$ hacia la derecha",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dividió el término constante por el coeficiente $\\omega = 2$."
+        },
+        {
+          "letter": "C",
+          "text": "Desplazamiento de $\\frac{\\pi}{4}$ hacia la izquierda",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo negativo indica desplazamiento a la derecha."
+        },
+        {
+          "letter": "D",
+          "text": "Desplazamiento de $\\pi$ hacia la izquierda",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la factorización del argumento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Igualando el argumento a cero: $2x - \\frac{\\pi}{2} = 0 \\Rightarrow 2x = \\frac{\\pi}{2} \\Rightarrow x = \\frac{\\pi}{4}$. Se desplaza $\\frac{\\pi}{4}$ unidades a la derecha.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la amplitud equivalente $R$ de la combinación armónica $y = 6 \\sin(\\theta) + 8 \\cos(\\theta)$?",
+      "context": "Diseño de reflectores parabólicos en San Juan.\n**ID:** AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v8\n**Bloom:** Apply\n**EJE:** Trigonometría y Funciones\n**Expected_Success:** 0.73",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$",
+          "is_correct": true,
+          "feedback": "Correcto. $R = \\sqrt{6^2 + 8^2} = \\sqrt{36 + 64} = \\sqrt{100} = 10$."
+        },
+        {
+          "letter": "B",
+          "text": "$14$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó directamente los coeficientes $6 + 8$."
+        },
+        {
+          "letter": "C",
+          "text": "$48$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó los dos coeficientes."
+        },
+        {
+          "letter": "D",
+          "text": "$2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó los coeficientes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La suma $a \\sin(\\theta) + b \\cos(\\theta)$ es equivalente a $R \\sin(\\theta + \\phi)$ con $R = \\sqrt{a^2 + b^2} = \\sqrt{6^2 + 8^2} = 10$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el valor exacto de $\\sin\\left(\\frac{5\\pi}{4}\\right)$?",
+      "context": "Cálculo de valores exactos en trigonometría circular.\n**ID:** AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v9\n**Bloom:** Apply\n**EJE:** Trigonometría y Funciones\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-\\frac{\\sqrt{2}}{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. El ángulo está en el III cuadrante donde el seno es negativo, con ángulo de referencia $\\pi/4$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{\\sqrt{2}}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el III cuadrante el seno es negativo."
+        },
+        {
+          "letter": "C",
+          "text": "$-\\frac{1}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió el ángulo de referencia con $\\pi/6$."
+        },
+        {
+          "letter": "D",
+          "text": "$-\\frac{\\sqrt{3}}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió el ángulo de referencia con $\\pi/3$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$\\frac{5\\pi}{4} = \\pi + \\frac{\\pi}{4}$ pertenece al III cuadrante. $\\sin\\left(\\frac{5\\pi}{4}\\right) = -\\sin\\left(\\frac{\\pi}{4}\\right) = -\\frac{\\sqrt{2}}{2}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v10",
+      "statement": "Si $\\cos(x) = -\\frac{3}{5}$ y $x \\in \\left(\\pi, \\frac{3\\pi}{2}\\right)$, ¿cuál es el valor de $\\tan(x)$?",
+      "context": "Determinación de posición en un circuito circular en Mar del Plata.\n**ID:** AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v10\n**Bloom:** Apply\n**EJE:** Trigonometría y Funciones\n**Expected_Success:** 0.68",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{4}{3}$",
+          "is_correct": true,
+          "feedback": "Correcto. En el III cuadrante $\\sin(x) = -\\frac{4}{5}$, por lo que $\\tan(x) = \\frac{-4/5}{-3/5} = \\frac{4}{3}$."
+        },
+        {
+          "letter": "B",
+          "text": "$-\\frac{4}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el III cuadrante la tangente es positiva."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{3}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertió el orden de la relación tangente (cotangente)."
+        },
+        {
+          "letter": "D",
+          "text": "$-\\frac{3}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió el signo y la relación entre lados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$\\sin^2(x) = 1 - \\cos^2(x) = 1 - \\frac{9}{25} = \\frac{16}{25}$. En el III cuadrante $\\sin(x) = -\\frac{4}{5}$. Luego $\\tan(x) = \\frac{\\sin(x)}{\\cos(x)} = \\frac{-4/5}{-3/5} = \\frac{4}{3}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v11",
+      "statement": "En la función $f(x) = 3 \\sin(2x) + 4 \\cos(2x)$, ¿cuál es el valor máximo de $f(x)$?",
+      "context": "Ecuación de onda armónica en un resorte industrial.\n**ID:** AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v11\n**Bloom:** Analyze\n**EJE:** Trigonometría y Funciones\n**Expected_Success:** 0.65",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5$",
+          "is_correct": true,
+          "feedback": "Correcto. La amplitud máxima resultante es $\\sqrt{3^2 + 4^2} = 5$."
+        },
+        {
+          "letter": "B",
+          "text": "$7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó los coeficientes directamente."
+        },
+        {
+          "letter": "C",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó los coeficientes."
+        },
+        {
+          "letter": "D",
+          "text": "$25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó la raíz cuadrada en la suma de cuadrados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Expresando $a \\sin(2x) + b \\cos(2x)$ como $R \\sin(2x + \\phi)$, el valor máximo es la amplitud $R = \\sqrt{3^2 + 4^2} = 5$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el período de la función $g(x) = \\sin(3x) + \\sin(5x)$?",
+      "context": "Análisis de frecuencias en señales de telecomunicación.\n**ID:** AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v12\n**Bloom:** Analyze\n**EJE:** Trigonometría y Funciones\n**Expected_Success:** 0.62",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2\\pi$",
+          "is_correct": true,
+          "feedback": "Correcto. El período de $\\sin(3x)$ es $2\\pi/3$ y de $\\sin(5x)$ es $2\\pi/5$. El MCM de ambos períodos es $2\\pi$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{2\\pi}{15}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió $2\\pi$ por el producto de las frecuencias."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{2\\pi}{8}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó las frecuencias en el denominador."
+        },
+        {
+          "letter": "D",
+          "text": "$\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $2\\pi$ es el menor período común múltiplo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los períodos individuales son $T_1 = \\frac{2\\pi}{3}$ y $T_2 = \\frac{2\\pi}{5}$. El período común es el mínimo múltiplo común de ambos, que equivale a $2\\pi$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.62,
+      "bundle_id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v13",
+      "statement": "Si $f(x) = \\tan(2x)$, ¿dónde presenta asíntotas en el intervalo $[0, \\pi]$?",
+      "context": "Simulación de turbina eólica en Comodoro Rivadavia.\n**ID:** AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v13\n**Bloom:** Analyze\n**EJE:** Trigonometría y Funciones\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = \\frac{\\pi}{4}$ y $x = \\frac{3\\pi}{4}$",
+          "is_correct": true,
+          "feedback": "Correcto. Hay asíntotas donde $2x = \\frac{\\pi}{2} + k\\pi \\Rightarrow x = \\frac{\\pi}{4} + k\\frac{\\pi}{2}$. En $[0, \\pi]$ son $\\pi/4$ y $3\\pi/4$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = \\frac{\\pi}{2}$ únicamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $x = \\pi/2$, $2x = \\pi$ y la tangente vale $0$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$ y $x = \\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En esos puntos la función vale $0$."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene asíntotas en dicho intervalo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Presenta asíntotas en dos puntos del intervalo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$\\tan(2x)$ no está definida cuando $2x = \\frac{\\pi}{2} + k\\pi \\Rightarrow x = \\frac{\\pi}{4} + k\\frac{\\pi}{2}$. Para $k=0,1$, tenemos $x = \\frac{\\pi}{4}$ y $x = \\frac{3\\pi}{4}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v14",
+      "statement": "¿Cómo se clasifica la función $h(x) = x \\cdot \\sin(x)$ según su simetría?",
+      "context": "Estudio de paridad en funciones trigonométricas compuestas.\n**ID:** AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v14\n**Bloom:** Analyze\n**EJE:** Trigonometría y Funciones\n**Expected_Success:** 0.58",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una función par",
+          "is_correct": true,
+          "feedback": "Correcto. $h(-x) = (-x) \\cdot \\sin(-x) = (-x) \\cdot (-\\sin(x)) = x \\sin(x) = h(x)$."
+        },
+        {
+          "letter": "B",
+          "text": "Es una función impar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El producto de dos funciones impares resulta en una función par."
+        },
+        {
+          "letter": "C",
+          "text": "No es par ni impar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cumple la condición de paridad $h(-x) = h(x)$."
+        },
+        {
+          "letter": "D",
+          "text": "Es periódica con período $\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x \\sin(x)$ no es periódica debido al factor lineal $x$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluando $h(-x) = (-x) \\sin(-x)$. Como $\\sin(-x) = -\\sin(x)$, tenemos $h(-x) = (-x)(-\\sin(x)) = x \\sin(x) = h(x)$. Por ende, es una función par.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v15",
+      "statement": "¿Para qué valor de $x \\in [0, 2\\pi]$ la función $f(x) = \\cos\\left(x - \\frac{\\pi}{3}\\right)$ alcanza su valor máximo?",
+      "context": "Desfasaje de señal en antenas de telecomunicación en Neuquén.\n**ID:** AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v15\n**Bloom:** Apply\n**EJE:** Trigonometría y Funciones\n**Expected_Success:** 0.64",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = \\frac{\\pi}{3}$",
+          "is_correct": true,
+          "feedback": "Correcto. El coseno alcanza su máximo $1$ cuando el argumento es cero: $x - \\frac{\\pi}{3} = 0 \\Rightarrow x = \\frac{\\pi}{3}$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para $x=0$, $\\cos(-\\pi/3) = 1/2$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = \\frac{2\\pi}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para $x=2\\pi/3$, $\\cos(\\pi/3) = 1/2$."
+        },
+        {
+          "letter": "D",
+          "text": "$x = \\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para $x=\\pi$, $\\cos(2\\pi/3) = -1/2$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La función $A \\cos(\\theta)$ es máxima cuando $\\theta = 0$ (o múltiplo de $2\\pi$). Igualando $x - \\frac{\\pi}{3} = 0$, resulta $x = \\frac{\\pi}{3}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.64,
+      "bundle_id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v16",
+      "statement": "Si $f(x) = 2 \\sin^2(x) + 3$, ¿cuáles son los valores mínimo y máximo de la función?",
+      "context": "Variación de la cota de agua en el Embalse El Chocón.\n**ID:** AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v16\n**Bloom:** Analyze\n**EJE:** Trigonometría y Funciones\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mínimo = $3$, Máximo = $5$",
+          "is_correct": true,
+          "feedback": "Correcto. Como $0 \\le \\sin^2(x) \\le 1$, la función varía entre $2(0)+3 = 3$ y $2(1)+3 = 5$."
+        },
+        {
+          "letter": "B",
+          "text": "Mínimo = $1$, Máximo = $5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió $\\sin(x)$ con $\\sin^2(x)$ asumiendo que toma valores negativos."
+        },
+        {
+          "letter": "C",
+          "text": "Mínimo = $3$, Máximo = $7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculó $2(2)+3 = 7$ en lugar de usar el rango del seno cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "Mínimo = $0$, Máximo = $5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó sumar el término constante $+3$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cuadrado del seno satisface $0 \\le \\sin^2(x) \\le 1$. Multiplicando por $2$: $0 \\le 2\\sin^2(x) \\le 2$. Sumando $3$: $3 \\le 2\\sin^2(x)+3 \\le 5$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v17",
+      "statement": "¿Cuántas soluciones reales tiene la ecuación $\\sin(2x) = \\cos(x)$ en el intervalo $[0, 2\\pi)$?",
+      "context": "Resolución de ecuaciones trigonométricas en ingeniería de vías.\n**ID:** AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v17\n**Bloom:** Evaluate\n**EJE:** Trigonometría y Funciones\n**Expected_Success:** 0.52",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4$ soluciones",
+          "is_correct": true,
+          "feedback": "Correcto. $2\\sin(x)\\cos(x) = \\cos(x) \\Rightarrow \\cos(x)(2\\sin(x) - 1) = 0$. $\\cos(x)=0 \\Rightarrow \\pi/2, 3\\pi/2$. $\\sin(x)=1/2 \\Rightarrow \\pi/6, 5\\pi/6$. Total = 4."
+        },
+        {
+          "letter": "B",
+          "text": "$2$ soluciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitió las soluciones provenientes del factor $\\sin(x) = 1/2$."
+        },
+        {
+          "letter": "C",
+          "text": "$3$ soluciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitió una de las soluciones del círculo trigonométrico."
+        },
+        {
+          "letter": "D",
+          "text": "$1$ solución",
+          "is_correct": false,
+          "feedback": "Incorrecto. Canceló $\\cos(x)$ sin considerar que puede ser igual a cero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$\\sin(2x) = 2\\sin(x)\\cos(x)$. La ecuación es $2\\sin(x)\\cos(x) - \\cos(x) = 0 \\Rightarrow \\cos(x)(2\\sin(x) - 1) = 0$. Casos: 1) $\\cos(x)=0 \\Rightarrow x=\\frac{\\pi}{2}, \\frac{3\\pi}{2}$. 2) $\\sin(x)=\\frac{1}{2} \\Rightarrow x=\\frac{\\pi}{6}, \\frac{5\\pi}{6}$. Total 4 soluciones.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.52,
+      "bundle_id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es la forma simplificada equivalente de $f(x) = \\frac{1 + \\cos(2x)}{\\sin(2x)}$ para $x \\neq \\frac{k\\pi}{2}$?",
+      "context": "Análisis de oscilaciones acopladas en física teórica de Bariloche.\n**ID:** AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v18\n**Bloom:** Evaluate\n**EJE:** Trigonometría y Funciones\n**Expected_Success:** 0.48",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\cot(x)$",
+          "is_correct": true,
+          "feedback": "Correcto. $1 + \\cos(2x) = 2\\cos^2(x)$ y $\\sin(2x) = 2\\sin(x)\\cos(x)$. El cociente es $\\frac{2\\cos^2(x)}{2\\sin(x)\\cos(x)} = \\cot(x)$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\tan(x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invirtió la relación seno/coseno."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sin(x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la aplicación de las identidades del ángulo doble."
+        },
+        {
+          "letter": "D",
+          "text": "$\\csc(x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió la simplificación del coseno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Usando ángulo doble: $1 + \\cos(2x) = 2\\cos^2(x)$ y $\\sin(2x) = 2\\sin(x)\\cos(x)$. Sustituyendo: $\\frac{2\\cos^2(x)}{2\\sin(x)\\cos(x)} = \\frac{\\cos(x)}{\\sin(x)} = \\cot(x)$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.48,
+      "bundle_id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v19",
+      "statement": "Dada la suma de ondas $f(t) = \\sin(10t) + \\sin(12t)$, exprésela como producto de funciones trigonométricas.",
+      "context": "Modelado del batimiento de ondas acústicas en acústica musical.\n**ID:** AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v19\n**Bloom:** Evaluate\n**EJE:** Trigonometría y Funciones\n**Expected_Success:** 0.45",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2 \\sin(11t) \\cos(t)$",
+          "is_correct": true,
+          "feedback": "Correcto. Identidad de suma a producto: $\\sin(A) + \\sin(B) = 2 \\sin\\left(\\frac{A+B}{2}\\right) \\cos\\left(\\frac{A-B}{2}\\right) = 2 \\sin(11t) \\cos(-t) = 2 \\sin(11t) \\cos(t)$."
+        },
+        {
+          "letter": "B",
+          "text": "$2 \\cos(11t) \\sin(t)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invirtió las funciones seno y coseno en los promedios."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sin(22t) \\cos(2t)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dividió la suma ni la diferencia de ángulos por 2."
+        },
+        {
+          "letter": "D",
+          "text": "$2 \\sin(22t)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la transformación de suma a producto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La identidad de suma a producto es $\\sin(A) + \\sin(B) = 2 \\sin\\left(\\frac{A+B}{2}\\right) \\cos\\left(\\frac{A-B}{2}\\right)$. Con $A=10t, B=12t$: $2 \\sin(11t) \\cos(-t) = 2 \\sin(11t) \\cos(t)$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es el valor medio de la función $f(x) = \\sin^2(x)$ a lo largo de un período completo $[0, 2\\pi]$?",
+      "context": "Evaluación del área bajo una curva armónica en cálculo avanzado.\n**ID:** AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle-v20\n**Bloom:** Evaluate\n**EJE:** Trigonometría y Funciones\n**Expected_Success:** 0.40",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. Usando $\\sin^2(x) = \\frac{1 - \\cos(2x)}{2}$, la integral del coseno en un período es $0$, resultando un promedio de $1/2$."
+        },
+        {
+          "letter": "B",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $1$ es el valor máximo, no el promedio."
+        },
+        {
+          "letter": "C",
+          "text": "$0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $0$ sería el promedio de $\\sin(x)$, pero $\\sin^2(x)$ es siempre no negativa."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{\\pi}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió el valor de la integral con el promedio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Utilizando la identidad de reducción de potencia $\\sin^2(x) = \\frac{1}{2} - \\frac{\\cos(2x)}{2}$. Dado que el valor medio de $\\cos(2x)$ en un período es $0$, el valor medio de $\\sin^2(x)$ es $\\frac{1}{2}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "AR-MAT-11-2026-W11-funciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    }
+  ]
+}

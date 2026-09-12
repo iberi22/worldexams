@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "uy",
+    "pack_id": "uy-week-12-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T16:46:07.947Z"
+  },
+  "questions": [
+    {
+      "id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle-v1",
+      "statement": "¿Qué nivel trófico ocupan los organismos autótrofos fotosintetizadores en una red trófica?",
+      "context": "En la pradera uruguaya, los pastos nativos captan energía solar para sintetizar materia orgánica mediante la fotosíntesis, sirviendo de alimento al ganado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Productores primarios.",
+          "is_correct": true,
+          "feedback": "Correcto. Los autótrofos son los productores primarios que fijan energía luminosa en enlaces químicos."
+        },
+        {
+          "letter": "B",
+          "text": "Consumidores primarios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los consumidores primarios son los herbívoros que ingieren autótrofos."
+        },
+        {
+          "letter": "C",
+          "text": "Consumidores secundarios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los consumidores secundarios son carnívoros que se alimentan de herbívoros."
+        },
+        {
+          "letter": "D",
+          "text": "Descomponedores detritívoros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los descomponedores reciclan materia orgánica muerta en nutrientes inorgánicos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los productores primarios constituyen el primer nivel trófico, transformando energía inorgánica en biomasa asimilable por los heterótrofos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle-v2",
+      "statement": "¿Qué expresa la regla del 10% respecto al flujo de energía en las cadenas tróficas?",
+      "context": "Al estudiar la transferencia de energía entre los niveles tróficos de una laguna en Canelones, se aplica la regla ecológica del 10%.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el 90% de la energía del sol es reflejada directamente por la atmósfera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La regla del 10% se refiere a la transferencia de energía entre niveles tróficos sucesivos."
+        },
+        {
+          "letter": "B",
+          "text": "Que solo aproximadamente el 10% de la energía de un nivel trófico se incorpora como biomasa en el siguiente nivel.",
+          "is_correct": true,
+          "feedback": "Correcto. El ~90% restante se disipa como calor metabólico, respiración y desechos no asimilados."
+        },
+        {
+          "letter": "C",
+          "text": "Que los descomponedores destruyen el 10% de la materia inorgánica del suelo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los descomponedores transforman materia orgánica en inorgánica sin destruir energía."
+        },
+        {
+          "letter": "D",
+          "text": "Que cada nivel trófico pierde exactamente el 10% de su agua corporal en la excreción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la pérdida y conservación de biomasa/energía, no a balance hídrico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Debido al segundo principio de la termodinámica, las pérdidas respiratorias y la disipación térmica limitan la eficiencia de transferencia trófica a ~10% entre niveles.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la función ecológica fundamental de los organismos descomponedores en los ciclos biogeoquímicos?",
+      "context": "En el suelo de un bosque de galería junto al Río Santa Lucía, hongos y bacterias descomponen las hojas caídas y la madera muerta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fijar nitrógeno atmosférico directamente en forma de glucosa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fijación de nitrógeno produce amonio/nitratos, no glucosa."
+        },
+        {
+          "letter": "B",
+          "text": "Mineralizar la materia orgánica muerta liberando nutrientes inorgánicos reutilizables por los productores.",
+          "is_correct": true,
+          "feedback": "Correcto. Transforman compuestos orgánicos complejos en iones inorgánicos que reingresan a las plantas."
+        },
+        {
+          "letter": "C",
+          "text": "Aumentar la energía radiante disponible en las pirámides tróficas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía no se genera en los descomponedores; la energía radiante proviene del Sol."
+        },
+        {
+          "letter": "D",
+          "text": "Inactivar el ciclo del carbono mediante la petrificación instantánea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los descomponedores liberan $CO_2$ a la atmósfera mediante respiración, manteniendo activo el ciclo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La mineralización realizada por los descomponedores cierra los ciclos biogeoquímicos, impidiendo el agotamiento de nutrientes inorgánicos en la biosfera.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle-v4",
+      "statement": "¿A través de qué proceso metabólico complementario los organismos autótrofos y heterótrofos devuelven $CO_2$ a la atmósfera?",
+      "context": "Las plantas del pastizal uruguayo absorben dióxido de carbono ($CO_2$) atmosférico y agua para producir carbohidratos mediante fotosíntesis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fijación biológica de nitrógeno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fijación de nitrógeno involucra $N_2$, no emisión de $CO_2$."
+        },
+        {
+          "letter": "B",
+          "text": "Respiración celular aeróbica.",
+          "is_correct": true,
+          "feedback": "Correcto. La respiración celular oxida glucosa con $O_2$, produciendo $H_2O$ y liberando $CO_2$ gas."
+        },
+        {
+          "letter": "C",
+          "text": "Fotólisis del agua en el fotosistema II.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fotólisis del agua libera $O_2$, no $CO_2$."
+        },
+        {
+          "letter": "D",
+          "text": "Eutrofización de la capa freática.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La eutrofización es el enriquecimiento por nutrientes en agua, no un proceso respiratorio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fotosíntesis y la respiración celular son procesos acoplados que regulan la reserva gaseosa de carbono en la biosfera.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle-v5",
+      "statement": "¿Por qué una pirámide de números puede presentarse de forma invertida mientras que una pirámide de energía nunca puede invertirse?",
+      "context": "Comparás una pirámide de números y una pirámide de biomasa para un cultivo de alfalfa infectado por pulgones en Soriano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la energía se acumula en los carnívoros según la ley de conservación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía no se acumula indefinidamente hacia arriba; disminuye progresivamente."
+        },
+        {
+          "letter": "B",
+          "text": "Porque un solo productor grande puede sostener a miles de herbívoros pequeños, pero la energía útil disminuye en cada nivel por pérdidas térmicas.",
+          "is_correct": true,
+          "feedback": "Correcto. La biomasa o número de parásitos/herbívoros puede ser alto sobre pocos productores, pero el flujo energético siempre decrece hacia arriba según la termodinámica."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los herbívoros absorben energía directamente de la radiación ultravioleta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los herbívoros obtienen energía únicamente ingiriendo materia orgánica vegetal."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los descomponedores aportan energía neta a la cima de la pirámide.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los descomponedores disipan energía de todos los niveles, no la redirigen a carnívoros."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las pirámides de energía miden la tasa de productividad a lo largo del tiempo y, por la segunda ley de la termodinámica, siempre son piramidales e erguidas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle-v6",
+      "statement": "¿Qué mecanismo biológico fundamenta esta práctica para enriquecer naturalmente el suelo con nitrógeno asimilable?",
+      "context": "En suelos agrícolas del departamento de Colonia, se promueve la rotación de cultivos incluyendo leguminosas como el trébol o la alfalfa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La absorción directa de nitrato desde el polvillo atmosférico por los estomas foliares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nitrógeno gaseoso $N_2$ no se asimila directamente por estomas foliares."
+        },
+        {
+          "letter": "B",
+          "text": "La simbiosis entre las raíces de leguminosas y bacterias del género *Rhizobium* que fijan $N_2$ en amonio.",
+          "is_correct": true,
+          "feedback": "Correcto. *Rhizobium* reduce el $N_2$ atmosférico e inerte a amonio ($NH_4^+$) utilizable por las plantas."
+        },
+        {
+          "letter": "C",
+          "text": "La volatilización de nitrógeno por la acción fotosintética de la clorofila.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fotosíntesis fija carbono, no nitrógeno, ni volatiliza nutrientes del suelo."
+        },
+        {
+          "letter": "D",
+          "text": "La excreción de urea directamente por las células epidérmicas del tallo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sintesis y secreción de urea es propia de animales ureotélicos, no de leguminosas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fijación biológica de nitrógeno realizada por bacterias nodulares (*Rhizobium*) convierte el $N_2$ triple enlace en amonio, fertilizando el suelo de forma sostenible.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.72,
+      "bundle_id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la principal reserva o reservorio ecológico del ciclo del fósforo y por qué se diferencia fundamentalmente del ciclo del nitrógeno?",
+      "context": "Analizás el ciclo del fósforo en un sistema agropastoril del departamento de Durazno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Su reservorio es la atmósfera gaseosa y no presenta fase sedimentaria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fósforo no posee fase gaseosa atmosférica significativa."
+        },
+        {
+          "letter": "B",
+          "text": "Su reservorio principal son las rocas sedimentarias y minerales de la corteza terrestre, careciendo de una fase gaseosa significativa.",
+          "is_correct": true,
+          "feedback": "Correcto. A diferencia del nitrógeno (reserva atmosférica $N_2$), el fósforo proviene del meteorismo de rocas sedimentarias."
+        },
+        {
+          "letter": "C",
+          "text": "Su reserva única son las nubes de precipitación ácida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fósforo está contenido en minerales apatitas del suelo y rocas."
+        },
+        {
+          "letter": "D",
+          "text": "Se genera exclusivamente por fijación fotovoltaica en el agua de mar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fósforo es un elemento químico primario liberado por meteorización mineral."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ciclo del fósforo es un ciclo sedimentario: la meteorización lenta de las rocas libera fosfato ($PO_4^{3-}$), que las plantas absorben del suelo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle-v8",
+      "statement": "¿Qué relación matemática y biológica existe entre la PPB, la PPN y la respiración celular autótrofa ($R_a$)?",
+      "context": "Un equipo de investigación mide la Productividad Primaria Bruta (PPB) y la Productividad Primaria Neta (PPN) en un monte nativo en Tacuarembó.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\text{PPN} = \\text{PPB} - R_a$; la PPN es la energía fijada que efectivamente queda disponible como biomasa vegetal.",
+          "is_correct": true,
+          "feedback": "Correcto. La PPN representa el excedente energético utilizable para crecimiento y consumo por herbívoros tras descontar el gasto respiratorio de la planta ($R_a$)."
+        },
+        {
+          "letter": "B",
+          "text": "$\\text{PPN} = \\text{PPB} + R_a$; la PPN suma la energía disipada al total fotosintetizado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La respiración vegetal consume glucosa, restando biomasa a la PPB."
+        },
+        {
+          "letter": "C",
+          "text": "$\\text{PPB} = R_a - \\text{PPN}$; la respiración siempre supera la captación fotosintética.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si la respiración superara a la fotosíntesis, la planta moriría por agotamiento de reservas."
+        },
+        {
+          "letter": "D",
+          "text": "$\\text{PPN} = \\text{PPB} \\times R_a$; es un producto adimensional de la transpiración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es una diferencia de tasas de asimilación y consumo biomásico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Productividad Primaria Neta (PPN) es la tasa a la cual los autótrofos acumulan biomasa útil, equivalente a la materia fotosintetizada total (PPB) menos la mantenida por respiración ($R_a$).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.68,
+      "bundle_id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle-v9",
+      "statement": "¿Qué indica un incremento drástico en los valores de DBO de una muestra de agua fluvial?",
+      "context": "En un arroyo de Florida se aplica una muestra de agua a ensayos de laboratorio para medir la Demanda Bioquímica de Oxígeno (DBO) durante 5 días.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un aumento en la concentración de oxígeno disuelto y baja presencia de bacterias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Alta DBO significa que los microorganismos están consumiendo rápidamente el oxígeno disuelto."
+        },
+        {
+          "letter": "B",
+          "text": "Una alta carga de materia orgánica biodegradable que estimula la actividad descompositora aeróbica.",
+          "is_correct": true,
+          "feedback": "Correcto. Cuanta más materia orgánica biodegradable exista, mayor será el consumo microbiano de $O_2$ disuelto."
+        },
+        {
+          "letter": "C",
+          "text": "La desalinización completa del cuerpo de agua por acción fotosintética.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La DBO mide consumo bacteriano de oxígeno por materia orgánica, no salinidad."
+        },
+        {
+          "letter": "D",
+          "text": "Un descenso en la tasa de descomposición de detritos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mayor DBO refleja una elevada tasa de descomposición microbiana aeróbica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La DBO cuantifica la cantidad de oxígeno molecular que consumen las bacterias aeróbicas al degradar la materia orgánica de una muestra a $20^\\circ\\text{C}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.67,
+      "bundle_id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle-v10",
+      "statement": "¿Qué factor abiótico actúa como limitante primario de la fotosíntesis en la zona fótica de cuerpos de agua con alta concentración de sedimentos en suspensión?",
+      "context": "En la vegetación del fondo de un estuario en la desembocadura del Arroyo Solís Grande, se analiza la eficiencia fotosintética bajo variaciones de salinidad y turbidez.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La disponibilidad de nitrógeno gaseoso $N_2$ en las hojas emergentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El $N_2$ gaseoso no limita directamente la fase luminosa fotosintética."
+        },
+        {
+          "letter": "B",
+          "text": "La penetración de la radiación fotosintéticamente activa (PAR) a través de la columna de agua.",
+          "is_correct": true,
+          "feedback": "Correcto. Los sedimentos en suspensión atenúan la luz solar (PAR), bloqueando la fase luminosa de la fotosíntesis."
+        },
+        {
+          "letter": "C",
+          "text": "La concentración de sodio en los estomas de las algas sumergidas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las algas carecen de estomas cuticulares y toleran o regulan la salinidad osmótica."
+        },
+        {
+          "letter": "D",
+          "text": "La fuerza de gravedad sobre los plastos de las células radiculares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El factor restrictivo para la producción primaria acuática es la radiación luminosa penetrante."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La turbidez reduce la profundidad de la capa fótica al dispersar y absorber la luz solar, limitando la tasa de fotosíntesis de los autótrofos acuáticos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle-v11",
+      "statement": "¿Qué proceso ecológico explica el incremento progresivo de la concentración de sustancias lipofílicas no biodegradables a medida que se asciende en los niveles tróficos?",
+      "context": "Un estudio en el Río de la Plata detecta trazas de mercurio e insecticidas organoclorados en peces carnívoros como el dorado (*Salminus brasiliensis*), en concentraciones mil veces superiores a las del agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eutrofización acelerada por fijación de nitrógeno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La eutrofización es el enriquecimiento por fósforo/nitrógeno, no la acumulación de contaminantes tóxicos."
+        },
+        {
+          "letter": "B",
+          "text": "Biomagnificación trófica.",
+          "is_correct": true,
+          "feedback": "Correcto. Los contaminantes persistentes y liposolubles se acumulan en tejidos grasos y se concentran diferencialmente en cada eslabón trófico."
+        },
+        {
+          "letter": "C",
+          "text": "Biodegradación bacteriana en la zona afótica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si las sustancias se biodegradaran, no se acumularían en la red trófica."
+        },
+        {
+          "letter": "D",
+          "text": "Mineralización primaria en productores autótrofos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mineralización es la conversión de materia orgánica a sales inorgánicas por descomponedores."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La biomagnificación trófica ocurre cuando contaminantes persistentes no se metabolizan ni excretan, incrementando su concentración biológica en carnívoros superiores.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle-v12",
+      "statement": "¿Qué alteración microbiológica en el suelo genera un exceso de nitratos amoniacales bajo condiciones de saturación hídrica y anoxia?",
+      "context": "El uso masivo de fertilizantes sintéticos nitrogenados en la cuenca del Río Santa Lucía altera el balance natural del ciclo del nitrógeno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inhibición total de la descomposición y acumulación de glucosa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En anoxia actúan bacterias desnitrificantes o fermentadoras, no se acumula glucosa."
+        },
+        {
+          "letter": "B",
+          "text": "Aumento de la desnitrificación microbiana liberando óxido nitroso ($N_2O$), un potente gas de efecto invernadero.",
+          "is_correct": true,
+          "feedback": "Correcto. En condiciones anaeróbicas, bacterias desnitrificantes reducen nitrato ($NO_3^-$) a $N_2O$ y $N_2$ gas."
+        },
+        {
+          "letter": "C",
+          "text": "Transformación directa del nitrato en azufre elemental insoluble.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ciclo del nitrógeno involucra compuestos nitrogenados, no azufre elemental."
+        },
+        {
+          "letter": "D",
+          "text": "Fijación instantánea de fósforo en forma de apatitas cristalinas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La desnitrificación es un proceso del ciclo nitrogenado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La desnitrificación es la reducción anaeróbica del nitrato ($NO_3^-$) a nitrógeno gaseoso ($N_2$), pasando por el subproducto $N_2O$ cuando el proceso es incompleto.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle-v13",
+      "statement": "¿Qué canal de transferencia energética canaliza la mayor proporción de biomasa y energía en este tipo de ecosistema terrestre?",
+      "context": "En un ecosistema forestal de la Quebrada de los Cuervos, gran parte de la energía producida por las plantas no es consumida directamente por los herbívoros, sino que cae al suelo como hojarasca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La red trófica de herbívoros y carnívoros epigeos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En bosques terrestres, solo un 10-20% de la PPN es consumida en vivo por herbívoros."
+        },
+        {
+          "letter": "B",
+          "text": "La red trófica de detritos encabezada por hongos, bacterias y fauna edáfica.",
+          "is_correct": true,
+          "feedback": "Correcto. La mayor parte de la PPN en bosques se integra como detritos orgánicos oxidados por la red edáfica de descomponedores."
+        },
+        {
+          "letter": "C",
+          "text": "La vía de fijación quimiosintética estuarina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La quimiosíntesis es irrelevante en la superficie de bosques de pradera/serranía."
+        },
+        {
+          "letter": "D",
+          "text": "El flujo radiativo directo hacia los carnívoros tope.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los carnívoros obtienen energía ingiriendo presas, no absorbiendo radiación solar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En bosques y ecosistemas terrestres maduros, más del 80-90% de la Productividad Primaria Neta fluye a través de la vía de detritos o descomponedores edáficos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle-v14",
+      "statement": "¿Qué diferencia fisiológica explica que las plantas de sotobosque puedan sobrevivir con intensidades luminosas extremadamente reducidas?",
+      "context": "Se mide la eficiencia fotosintética y el punto de compensación por luz en hojas del estrato superior del canopeo frente a plantas del sotobosque en un monte de quebrada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Poseen un mayor gasto en respiración celular para suplir la falta de fotones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un mayor gasto respiratorio agotaría las reservas fotosintéticas con poca luz."
+        },
+        {
+          "letter": "B",
+          "text": "Tienen un menor punto de compensación por luz y mayor proporción de clorofila b para captar longitudes de onda de sombra.",
+          "is_correct": true,
+          "feedback": "Correcto. Las plantas de sombra equilibran su fotosíntesis con la respiración a intensidades luminosas más bajas y optimizan el espectro de luz filtrada."
+        },
+        {
+          "letter": "C",
+          "text": "Fijan carbono utilizando sulfuro de hidrógeno ($H_2S$) en lugar de agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son plantas eucariotas vasculares que efectúan fotosíntesis oxigénica dependiente de agua."
+        },
+        {
+          "letter": "D",
+          "text": "Ausencia completa de estomas para evitar la captación de $CO_2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Requieren estomas para captar $CO_2$ del aire."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El punto de compensación por luz es la intensidad luminosa donde la fijación fotosintética de $CO_2$ iguala su liberación respiratoria; en plantas de sombra este punto es marcadamente inferior.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.53,
+      "bundle_id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle-v15",
+      "statement": "¿Qué ocurre con el fósforo ligado al hierro ($Fe^{3+}$) en el sedimento cuando el agua del fondo entra en condiciones de anoxia prolongada?",
+      "context": "En los sedimentos del fondo de la Laguna Merín se analiza la dinámica de retención y liberación de fosfatos soluble según la disponibilidad de oxígeno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se precipita de forma irreversible reduciendo la concentración de fósforo en agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La precipitación irreversible ocurre en condiciones aeróbicas con $Fe^{3+}$."
+        },
+        {
+          "letter": "B",
+          "text": "El hierro férrico ($Fe^{3+}$) se reduce a hierro ferroso ($Fe^{2+}$), solubilizando y liberando fosfato a la columna de agua.",
+          "is_correct": true,
+          "feedback": "Correcto. En anoxia, la reducción de $Fe^{3+}$ disuelve los complejos minerales y libera fosfato soluble al agua (fuerza interna de eutrofización)."
+        },
+        {
+          "letter": "C",
+          "text": "El fosfato se transforma en amonio por acción de bacterias nitrificantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El amonio es un compuesto nitrogenado; el fósforo no se transforma en amonio."
+        },
+        {
+          "letter": "D",
+          "text": "Se volatiliza hacia la atmósfera en forma de fósforo gaseoso inerte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fósforo no posee fase gaseosa volatilizable en la atmósfera."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En sedimentos anóxicos, el hierro férrico insoluble se reduce químicamente a ferroso soluble, disolviendo el complejo mineral y liberando nitrógeno y fósforo a la columna de agua.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.5,
+      "bundle_id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle-v16",
+      "statement": "¿Qué subproducto gaseoso de olor característico se genera por la sulfato-reducción bacterial en lodos anóxicos?",
+      "context": "Analizás el ciclo del azufre en humedales costeros de Rocha. Microorganismos anaeróbicos utilizan sulfato ($SO_4^{2-}$) como aceptor final de electrones en su respiración.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dióxido de azufre ($SO_2$) inodoro y alcalino.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El $SO_2$ se genera por combustión industrial y es un gas irritante ácido."
+        },
+        {
+          "letter": "B",
+          "text": "Sulfuro de hidrógeno ($H_2S$), responsable del olor a huevo podrido en sedimentos anóxicos.",
+          "is_correct": true,
+          "feedback": "Correcto. Bacterias anaeróbicas reductoras de sulfato liberan $H_2S$ tóxico en ambientes desprovistos de oxígeno."
+        },
+        {
+          "letter": "C",
+          "text": "Ácido sulfúrico purísimo concentrado en fase líquida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ácido sulfúrico es un ácido fuerte acuoso formado por oxidación de sulfuros."
+        },
+        {
+          "letter": "D",
+          "text": "Metano sulfurado altamente fotosintético.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sulfato-reducción genera $H_2S$, no metano sulfurado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respiración anaeróbica del sulfato por bacterias reductoras de azufre en sedimentos saturados produce sulfuro de hidrógeno ($H_2S$).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es el valor de la Producción Neta del Ecosistema (NEP = PPB - ($R_a + R_h$)) y qué indica sobre la función del sistema como fuente o sumidero de carbono?",
+      "context": "Un modelo agroecológico para un cultivo de arroz en Treinta y Tres mide un flujo de PPB de $1200\\text{ g C/m}^2\\text{/año}$, una respiración autótrofa $R_a = 600\\text{ g C/m}^2\\text{/año}$ y una respiración heterótrofa total del suelo $R_h = 450\\text{ g C/m}^2\\text{/año}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\text{NEP} = +150\\text{ g C/m}^2\\text{/año}$; el ecosistema actúa como un sumidero neto de carbono.",
+          "is_correct": true,
+          "feedback": "Correcto. $\\text{NEP} = 1200 - (600 + 450) = +150\\text{ g C/m}^2\\text{/año}$. Al ser positivo, la fijación total supera a la respiración total, acumulando carbono."
+        },
+        {
+          "letter": "B",
+          "text": "$\\text{NEP} = -150\\text{ g C/m}^2\\text{/año}$; el ecosistema actúa como una fuente neta de $CO_2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma $R_a + R_h = 1050$, menor a 1200, por lo que el balance es positivo."
+        },
+        {
+          "letter": "C",
+          "text": "$\\text{NEP} = +600\\text{ g C/m}^2\\text{/año}$; equivale únicamente a la PPN omitiendo $R_h$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $600$ es la PPN ($\text{PPB} - R_a$), pero la NEP deduce también la respiración heterótrofa $R_h$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\text{NEP} = 0\\text{ g C/m}^2\\text{/año}$; el ecosistema está en equilibrio termodinámico estricto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia matemática da $+150$, indicando acumulación neta de carbono."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Producción Neta del Ecosistema (NEP) determina el balance final de carbono: si $\\text{NEP} > 0$, el ecosistema fija más carbono del que respira (sumidero de $CO_2$).\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle-v18",
+      "statement": "Si la muestra de agua natural presenta una relación atómica de nitrógeno disuelto a fósforo disuelto $N:P = 8:1$, ¿cuál es el nutriente limitante del crecimiento del fitoplancton y qué ocurrirá al adiccionar fósforo exclusivamente?",
+      "context": "En un experimento de mesocosmos con agua de la cuenca del Río Negro, se adicionan nitrógeno y fósforo en distintas proporciones para determinar el nutriente limitante según la relación atómica de Redfield ($N:P = 16:1$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El nutriente limitante es el fósforo; agregar fósforo disparará la biomasa de algas inmediatamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $N:P = 8:1$, hay un déficit de nitrógeno respecto a la proporción requerida $16:1$."
+        },
+        {
+          "letter": "B",
+          "text": "El nutriente limitante es el nitrógeno; agregar solo fósforo no aumentará la biomasa algal (Ley del Mínimo de Liebig).",
+          "is_correct": true,
+          "feedback": "Correcto. Al ser la relación $N:P$ menor a $16:1$, el nitrógeno es limitante. Sin nitrógeno adicional, la adición de fósforo no estimula mayor crecimiento."
+        },
+        {
+          "letter": "C",
+          "text": "El nutriente limitante es el carbono; la relación $N:P$ no afecta el crecimiento microbiano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación de Redfield es el estándar estequiométrico que identifica la limitación por N o P en fitoplancton."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos nutrientes son tóxicos y causarán la muerte inmediata de todas las especies de algas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nitrógeno y fósforo son macronutrientes esenciales para la síntesis de proteínas y ácidos nucleicos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ley del mínimo de Liebig establece que el crecimiento está controlado por el recurso más escaso en relación a las necesidades del organismo; con $N:P < 16$, el nitrógeno limita el sistema.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle-v19",
+      "statement": "Si el potencial de calentamiento global a 100 años ($GWP_{100}$) del $CH_4$ es 28 y el del $N_2O$ es 265 en relación al $CO_2$, ¿cómo se calcula la emisión equivalente de $CO_2$ ($CO_2\\text{-eq}$) para un establecimiento que emite 10 toneladas de $CH_4$ y 2 toneladas de $N_2O$ al año?",
+      "context": "Se evalúa el impacto de la intensificación ganadera en corrales de engorde (*feedlots*) sobre la emisión de metano ($CH_4$) por fermentación entérica y de óxido nitroso ($N_2O$) por manejo de efluentes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "810 toneladas de $CO_2\\text{-eq}$ ($10 \\times 28 + 2 \\times 265 = 280 + 530 = 810$).",
+          "is_correct": true,
+          "feedback": "Correcto. La conversión a $CO_2\\text{-eq}$ multiplica la masa de cada gas por su respectivo $GWP_{100}$ y suma los resultados."
+        },
+        {
+          "letter": "B",
+          "text": "293 toneladas de $CO_2\\text{-eq}$ ($10 + 2 + 28 + 265$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se deben multiplicar las emisiones por los factores de ponderación GWP, no sumarlos linealmente."
+        },
+        {
+          "letter": "C",
+          "text": "12 toneladas de $CO_2\\text{-eq}$ ($10 + 2$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omite los factores de potencial de calentamiento global de los gases distintos del $CO_2$."
+        },
+        {
+          "letter": "D",
+          "text": "5300 toneladas de $CO_2\\text{-eq}$ ($10 \\times 2 \\times 265$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. La operación matemática correcta es la suma ponderada de términos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de $CO_2\\text{ equivalente}$ estandariza el impacto radiativo de distintos gases multiplicando sus emisiones masivas por sus respectivos índices $GWP_{100}$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle-v20",
+      "statement": "Si en la etapa inicial de restauración el $qCO_2$ es muy elevado y disminuye progresivamente con los años, ¿cuál es la interpretación ecológica sobre la madurez y eficiencia energética del ecosistema edáfico?",
+      "context": "En un proyecto de reforestación de la vegetación nativa en las orillas degradadas del Arroyo Carrasco en Montevideo, se mide la tasa de recuperación del suelo mediante el cociente de respiración metabólica microbiana ($qCO_2 = R_{\\text{suelo}} / \\text{Biomasa microbiana}$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El suelo inicial es altamente estable y pierde biomasa microbiana por envejecimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un $qCO_2$ alto indica estrés o ineficiencia metabólica en ecosistemas inestables."
+        },
+        {
+          "letter": "B",
+          "text": "El suelo perturbado inicial consume más energía para mantenerse (estrés ecológico), estabilizándose hacia mayor eficiencia en el uso de carbono al madurar la comunidad edáfica.",
+          "is_correct": true,
+          "feedback": "Correcto. Un $qCO_2$ elevado refleja alta disipación respiratoria por unidad de biomasa (estrés); su descenso indica una comunidad microbiana madura y bien estructurada."
+        },
+        {
+          "letter": "C",
+          "text": "El descenso de $qCO_2$ demuestra la completa esterilización biológica del suelo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El descenso de $qCO_2$ refleja menor estrés y mayor eficiencia metabólica, no esterilidad."
+        },
+        {
+          "letter": "D",
+          "text": "La biomasa microbiana ha dejado de realizar respiración aeróbica en su totalidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La respiración continúa pero de forma metabólicamente más eficiente sin disipación por estrés."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El cociente metabólico $qCO_2$ mide el mantenimiento energético edáfico: comunidades sometidas a perturbación o inmaduras gastan más biomasa en respiración de mantenimiento.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "UY-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    }
+  ]
+}

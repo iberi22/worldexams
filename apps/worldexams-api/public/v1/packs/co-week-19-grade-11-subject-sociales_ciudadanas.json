@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-19-grade-11-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-12T16:46:07.587Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v1",
+      "statement": "El docente menciona el coeficiente de Gini, un indicador que usa el DANE para caracterizar\na Colombia como uno de los países más desiguales de la región. ¿Qué mide ese coeficiente?",
+      "context": "En una clase de un colegio de Barranquilla, el profesor presenta un gráfico del DANE sobre distribución del ingreso en América Latina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El grado de concentración del ingreso: cuánto se aleja la distribución real de una sociedad respecto de la igualdad perfecta.",
+          "is_correct": true,
+          "feedback": "Correcto: el Gini va de cero, igualdad perfecta, hacia uno, concentración extrema en pocas personas."
+        },
+        {
+          "letter": "B",
+          "text": "El número promedio de personas que habitan en cada vivienda del país.",
+          "is_correct": false,
+          "feedback": "Ese sería un indicador de hacinamiento o tamaño del hogar, no el Gini."
+        },
+        {
+          "letter": "C",
+          "text": "El valor total de los bienes y servicios que produce la economía en un año.",
+          "is_correct": false,
+          "feedback": "Esa descripción corresponde al PIB, una medida de producción, no de distribución."
+        },
+        {
+          "letter": "D",
+          "text": "El porcentaje de la población escolar que aprueba las pruebas Saber 11.",
+          "is_correct": false,
+          "feedback": "Los resultados Saber miden logros educativos; el Gini se refiere a distribución del ingreso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El coeficiente de Gini resume en un número qué tan concentrado está el ingreso de un país. Según el DANE, Colombia aparece de forma persistente entre las naciones más desiguales de América Latina. Su lectura exige cautela: resume distribución, pero no explica sus causas, que son objeto de análisis en las preguntas siguientes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál artículo de la Constitución establece que todas las personas nacen libres e iguales\nen dignidad y prohíbe las discriminaciones por sexo, raza, origen o condición?",
+      "context": "En una jornada de formación ciudadana en un colegio de Manizales, se analiza el articulado de la Constitución Política de 1991.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El artículo 1, que proclama a Colombia como Estado social de derecho.",
+          "is_correct": false,
+          "feedback": "El artículo 1 define la forma del Estado; la igualdad ante la ley está en otro precepto."
+        },
+        {
+          "letter": "B",
+          "text": "El artículo 11, que garantiza el derecho a la vida.",
+          "is_correct": false,
+          "feedback": "El derecho a la vida es fundamental, pero la cláusula de igualdad se consagra de manera expresa en otro artículo."
+        },
+        {
+          "letter": "C",
+          "text": "El artículo 13, que consagra la igualdad y ordena al Estado proteger a quienes estén en circunstancia de debilidad manifiesta.",
+          "is_correct": true,
+          "feedback": "Correcto: el artículo 13 prohíbe la discriminación y manda al Estado promover condiciones de igualdad real."
+        },
+        {
+          "letter": "D",
+          "text": "El artículo 37, que reconoce el derecho de reunión y manifestación.",
+          "is_correct": false,
+          "feedback": "La reunión pacífica es un derecho distinto; no contiene la cláusula general de igualdad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El artículo 13 de la Constitución de 1991 consagra la igualdad ante la ley, prohíbe discriminaciones y ordena al Estado promover condiciones para que la igualdad sea real y efectiva. Su inciso final autoriza medidas a favor de grupos discriminados o marginados, base de las acciones afirmativas. Esta norma es la brújula jurídica para evaluar políticas contra la desigualdad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál definición corresponde a la pobreza monetaria, tal como la mide el DANE con la\nGran Encuesta Integrada de Hogares?",
+      "context": "En una presentación escolar en Bucaramanga, una estudiante compara dos formas de medir la pobreza que utiliza el DANE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La sensación subjetiva de no tener ingresos suficientes que reportan las encuestas de opinión.",
+          "is_correct": false,
+          "feedback": "La pobreza monetaria se mide con ingresos declarados y líneas objetivas, no con percepciones."
+        },
+        {
+          "letter": "B",
+          "text": "La condición de los hogares cuyos ingresos per cápita mensuales no alcanzan la canasta de bienes y servicios.",
+          "is_correct": true,
+          "feedback": "Correcto: se compara el ingreso del hogar por persona con una línea de costo de vida definida por el DANE."
+        },
+        {
+          "letter": "C",
+          "text": "El nivel de endeudamiento de las familias con el sistema financiero colombiano.",
+          "is_correct": false,
+          "feedback": "El endeudamiento es un indicador de solvencia, no el criterio de la línea de pobreza monetaria."
+        },
+        {
+          "letter": "D",
+          "text": "El déficit de viviendas que registra el catastro municipal de cada ciudad.",
+          "is_correct": false,
+          "feedback": "El déficit de vivienda es una carencia física que puede hacer parte de la medición multidimensional, no de la monetaria."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La pobreza monetaria se define por ingresos: un hogar es pobre si su ingreso per cápita no cubre el costo de una canasta de bienes y servicios. El DANE también publica la pobreza multidimensional, que suma carencias en educación, salud, empleo, vivienda y servicios. Ambas miras son complementarias y pueden mostrar cifras distintas para un mismo territorio.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v1",
+      "statement": "En ese contexto fue creado el programa Ingreso Solidario. ¿Cuál fue su propósito central?",
+      "context": "Durante la pandemia de 2020 muchas familias de Sincelejo, Sucre, perdieron sus ingresos por el confinamiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Otorgar créditos blandos para la compra de vivienda nueva en las capitales.",
+          "is_correct": false,
+          "feedback": "Ingreso Solidario fue una transferencia sin condición de crédito ni destino de compra de vivienda."
+        },
+        {
+          "letter": "B",
+          "text": "Consolidar una pensión universal para todos los adultos mayores del país.",
+          "is_correct": false,
+          "feedback": "Ese propósito se relaciona con programas de vejez como Colombia Mayor, no con Ingreso Solidario."
+        },
+        {
+          "letter": "C",
+          "text": "Financiar matrículas de educación superior para jóvenes de estratos altos.",
+          "is_correct": false,
+          "feedback": "Las ayudas a la matrícula son otra política; Ingreso Solidario no estaba dirigido a ese público."
+        },
+        {
+          "letter": "D",
+          "text": "Entregar transferencias monetarias temporales a hogares vulnerables que perdieron ingresos por la emergencia sanitaria.",
+          "is_correct": true,
+          "feedback": "Correcto: creado en 2020, buscó amortiguar el golpe económico de la pandemia en hogares pobres y vulnerables."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Ingreso Solidario se creó en 2020, en respuesta a la emergencia sanitaria, para transferir dinero de forma rápida a hogares en riesgo. Mostró la capacidad del Estado de escalar cobertura con canales financieros digitales, y reabrió el debate sobre programas permanentes de protección. Su diseño temporal lo distingue de las transferencias condicionadas estructurales.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la fuente más adecuada para ese diagnóstico de pobreza por ingresos y multidimensional,\nurbana y rural?",
+      "context": "Una secretaría de planeación municipal en Quibdó, Chocó, debe construir el diagnóstico de pobreza del plan de desarrollo con datos oficiales confiables.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Publicaciones anónimas de redes sociales sobre el costo de la vida local.",
+          "is_correct": false,
+          "feedback": "Las opiniones virales no tienen representatividad ni metodología estadística verificable."
+        },
+        {
+          "letter": "B",
+          "text": "Las mediciones del DANE basadas en la Gran Encuesta Integrada de Hogares, con sus líneas de pobreza monetaria y su índice multidimensional.",
+          "is_correct": true,
+          "feedback": "Correcto: el DANE es la entidad oficial que produce las cifras de pobreza comparables por territorio."
+        },
+        {
+          "letter": "C",
+          "text": "El listado de morosos de las centrales de riesgo financiero del municipio.",
+          "is_correct": false,
+          "feedback": "El endeudamiento no equivale a pobreza: el DANE usa ingresos y carencias, no historiales crediticios."
+        },
+        {
+          "letter": "D",
+          "text": "Las cifras de reservas internacionales que reporta el Banco de la República.",
+          "is_correct": false,
+          "feedback": "Las reservas describen la posición externa del país, no la situación de los hogares locales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La política pública debe focalizarse con estadísticas oficiales: el DANE calcula pobreza monetaria y multidimensional con la GEIH, disagregadas por área y territorio. Usar esa fuente permite comparar municipios y priorizar inversiones con criterios verificables. Focalizar sin datos termina reproduciendo la exclusión que se quiere corregir.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál interpretación de esos datos es conceptualmente correcta para el análisis social?",
+      "context": "Una docente de un colegio de Cali con mayoría de estudiantes afrocolombianos revisa con su grupo las cifras oficiales: la población negra e indígena presenta mayores tasas de pobreza y menor acceso a educación superior.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reflejan discriminación estructural histórica que se expresa en pobreza y brechas educativas persistentes.",
+          "is_correct": true,
+          "feedback": "Correcto: las brechas étnico-raciales son el resultado de desigualdades acumuladas, no de capacidades distintas."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestran que la pobreza no tiene relación con el origen étnico de las personas.",
+          "is_correct": false,
+          "feedback": "Los datos oficiales muestran precisamente lo contrario: el origen étnico correlaciona con la pobreza."
+        },
+        {
+          "letter": "C",
+          "text": "Indican que las diferencias se explican solo por las decisiones individuales de cada familia.",
+          "is_correct": false,
+          "feedback": "Atribuir todo a decisiones ignora barreras de acceso a tierra, educación y servicios documentadas."
+        },
+        {
+          "letter": "D",
+          "text": "Prueban que las pruebas Saber miden capacidades intelectuales innatas.",
+          "is_correct": false,
+          "feedback": "Los resultados escolares están atravesados por condiciones materiales, no por capacidades fijas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El DANE y la evidencia académica muestran que la población afrocolombiana e indígena enfrenta mayores tasas de pobreza y menor acceso a educación superior. Estas brechas son expresión de discriminación estructural con raíces históricas en la esclavitud y la exclusión territorial. Por eso la jurisprudencia y el artículo 13 respaldan medidas diferenciales a favor de estos grupos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v1",
+      "statement": "Un estudiante relaciona ese escenario con el informe de la Comisión de la Verdad (2022).\n¿Cuál afirmación recoge una de sus conclusiones centrales?",
+      "context": "En una vereda de Popayán, Cauca, la mayoría de campesinos trabaja como arrendatarios o sembradores en predios ajenos, mientras extensas áreas permanecen subutilizadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La distribución de la tierra es un dato sin relevancia en la explicación del conflicto.",
+          "is_correct": false,
+          "feedback": "El informe sitúa la cuestión de la tierra justamente entre los problemas estructurales del conflicto."
+        },
+        {
+          "letter": "B",
+          "text": "El conflicto armado se explicó únicamente por el negocio del narcotráfico.",
+          "is_correct": false,
+          "feedback": "El narcotráfico financió la guerra, pero el informe documenta raíces agrarias y políticas anteriores."
+        },
+        {
+          "letter": "C",
+          "text": "La concentración de la tierra apareció solo como consecuencia de los acuerdos de paz.",
+          "is_correct": false,
+          "feedback": "Invierte la relación: la concentración precedió y alimentó el conflicto, no lo sucedió."
+        },
+        {
+          "letter": "D",
+          "text": "La concentración de la tierra y la desigualdad rural son, entre otras, causas estructurales del conflicto armado colombiano.",
+          "is_correct": true,
+          "feedback": "Correcto: la Comisión de la Verdad documentó la tierra como un conflicto histórico sin resolver."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El informe final de la Comisión de la Verdad, entregado en 2022, identificó la concentración de la tierra y la exclusión del campo entre las causas estructurales del conflicto armado. Este hallazgo conecta la desigualdad con la violencia: la pobreza rural no es un accidente, tiene historia. Analizar esa relación es parte de la competencia de pensamiento sistémico en Sociales Ciudadanas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál programa público del orden nacional está dirigido de manera más directa a su\nsituación de vejez sin pensión?",
+      "context": "En la isla de San Andrés, una mujer de 72 años nunca cotizó al sistema de pensiones porque se dedicó al cuidado de su familia y a la venta informal de comida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las becas de educación superior para jóvenes bachilleres de escasos recursos.",
+          "is_correct": false,
+          "feedback": "Ese tipo de becas atiende la trayectoria educativa, no la protección del adulto mayor."
+        },
+        {
+          "letter": "B",
+          "text": "El subsidio familiar de vivienda para trabajadores afiliados a cajas de compensación.",
+          "is_correct": false,
+          "feedback": "Exige afiliación y empleo formal, la misma puerta que su historia laboral le cerró."
+        },
+        {
+          "letter": "C",
+          "text": "Colombia Mayor, programa de transferencias de carácter asistencial para adultos mayores en pobreza extrema sin pensión.",
+          "is_correct": true,
+          "feedback": "Correcto: Colombia Mayor protege a quienes la vejez encontró fuera del sistema contributivo."
+        },
+        {
+          "letter": "D",
+          "text": "Los programas de práctica empresarial para aprendices del SENA en empresas.",
+          "is_correct": false,
+          "feedback": "Las prácticas formativas están dirigidas a jóvenes en formación, no a la protección pensional."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Colombia Mayor entrega un apoyo económico a adultos mayores en pobreza extrema que no accedieron a pensión, típicamente por historias laborales informales o de cuidados. Su existencia confirma que el sistema contributivo dejó vacíos que el Estado debe llenar. El debate sobre la reforma pensional discute precisamente cómo articular estos apoyos con un pilar semicontributivo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v1",
+      "statement": "¿Qué conclusión es pertinente frente a esa brecha de resultados?",
+      "context": "Al comparar resultados Saber 11, un grupo de grado 11 de Bogotá observa diferencias sistemáticas entre colegios de zonas urbanas acomodadas y colegios rurales de zonas apartadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Evidencia desigualdad educativa asociada a condiciones socioeconómicas, recursos y calidad escolar muy distintos.",
+          "is_correct": true,
+          "feedback": "Correcto: los resultados están correlacionados con el contexto social y material de cada establecimiento."
+        },
+        {
+          "letter": "B",
+          "text": "Confirma que la inteligencia de los estudiantes varía según su lugar de nacimiento.",
+          "is_correct": false,
+          "feedback": "Esencializa capacidades: la brecha se explica por condiciones, no por rasgos innatos."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra que las pruebas Saber carecen de toda validez como medición.",
+          "is_correct": false,
+          "feedback": "Las pruebas tienen limitaciones, pero el patrón sistemático de brechas coincide con otras mediciones de desigualdad."
+        },
+        {
+          "letter": "D",
+          "text": "Señala que la desventaja rural desapareció completamente en la última década.",
+          "is_correct": false,
+          "feedback": "Los datos del DANE y del ICFES siguen mostrando una brecha urbano-rural persistente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los resultados Saber expresan aprendizajes, pero también condiciones: docentes, infraestructura, conectividad y seguridad alimentaria. La brecha entre zonas refleja desigualdad de oportunidades, no capacidades naturales. La educación es un derecho fundamental (artículo 67 de la Constitución) y su calidad diferenciada reproduce la desigualdad que el Estado debería corregir.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v1",
+      "statement": "¿Qué problema estructural de la desigualdad busca atacar este tipo de programas públicos\nde cuidados?",
+      "context": "En Bogotá, un centro de cuidado nocturno permite que mujeres cuidadoras de personas dependientes salgan a estudiar o a trabajar remuneradamente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La concentración urbana de la población en las cinco ciudades más grandes del país.",
+          "is_correct": false,
+          "feedback": "La distribución territorial de la población no es el problema que resuelven los centros de cuidado."
+        },
+        {
+          "letter": "B",
+          "text": "La asignación desproporcionada del trabajo doméstico y de cuidados no remunerado sobre las mujeres.",
+          "is_correct": true,
+          "feedback": "Correcto: liberar tiempo de las cuidadoras ataca la raíz de género de la brecha laboral y pensional."
+        },
+        {
+          "letter": "C",
+          "text": "El déficit de infraestructura vial en los corredores de carga del centro del país.",
+          "is_correct": false,
+          "feedback": "La infraestructura vial es otra agenda pública, sin relación directa con los centros de cuidado."
+        },
+        {
+          "letter": "D",
+          "text": "La falta de registro mercantil de las pequeñas y medianas empresas urbanas.",
+          "is_correct": false,
+          "feedback": "El registro mercantil es un trámite empresarial, no una política de redistribución de cuidados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las encuestas de uso del tiempo del DANE muestran que las mujeres asumen la mayor parte del trabajo doméstico no remunerado, lo que reduce su participación y sus cotizaciones. Los centros y rutas de cuidado redistribuyen parcialmente esa carga y reconocen el trabajo de cuidados como asunto público. Este tipo de políticas articula igualdad de género con ampliación de derechos sociales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v1",
+      "statement": "¿Qué lectura estructural explica mejor ese fenómeno?",
+      "context": "En Medellín, un analista de políticas encuentra que, pese a la expansión de transferencias durante la pandemia, los índices de desigualdad del país caen apenas de forma lenta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que las transferencias deben eliminarse, porque han demostrado ser inútiles para el consumo popular.",
+          "is_correct": false,
+          "feedback": "Exagera: los datos muestran que las transferencias sostuvieron el consumo y frenaron el aumento de la pobreza."
+        },
+        {
+          "letter": "B",
+          "text": "Que la desigualdad colombiana es un fenómeno exclusivamente cultural y no modificable.",
+          "is_correct": false,
+          "feedback": "Culturalizar la desigualdad renuncia a explicar sus bases materiales en riqueza, tierra y educación."
+        },
+        {
+          "letter": "C",
+          "text": "Que el coeficiente de Gini no puede variar cuando el Estado entrega dinero a los hogares.",
+          "is_correct": false,
+          "feedback": "El Gini sí puede moverse con transferencias; simplemente los cambios estructurales toman más tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "Que la redistribución del ingreso no corrige por sí sola la concentración de activos como tierra, educación de calidad y empleo formal.",
+          "is_correct": true,
+          "feedback": "Correcto: la desigualdad de oportunidades y de riqueza precede al ingreso y exige políticas de pre-distribución."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las transferencias alivian la pobreza monetaria inmediata, pero la desigualdad colombiana se sostiene en la distribución de activos: tierra, capital humano y calidad del empleo. Por eso la brecha persiste aunque mejore el ingreso de los más pobres en un trimestre. Analizar este desfase es la base para evaluar reformas estructurales frente a ayudas transitorias.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál fundamento constitucional conecta la prestación de los servicios públicos\ncon los derechos fundamentales de la población?",
+      "context": "En Riohacha, La Guajira, comunidades del sur de la ciudad reciben agua por carrotanque una vez a la semana y presentan tutelas colectivas por la falta del servicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los artículos 20 y 21, sobre libertad de expresión e información.",
+          "is_correct": false,
+          "feedback": "Esas libertades informativas no regulan los servicios públicos domiciliarios."
+        },
+        {
+          "letter": "B",
+          "text": "Los artículos 150 y 151, sobre las atribuciones del Congreso.",
+          "is_correct": false,
+          "feedback": "Son normas de organización del poder legislativo, no del régimen de servicios públicos."
+        },
+        {
+          "letter": "C",
+          "text": "Los artículos 365 a 368, que definen los servicios públicos como esenciales para el bienestar general y exigen prestación eficiente y de calidad.",
+          "is_correct": true,
+          "feedback": "Correcto: el régimen de servicios públicos de la Constitución sustenta la exigibilidad, junto con la tutela del artículo 86."
+        },
+        {
+          "letter": "D",
+          "text": "El artículo 333, que consagra exclusivamente la libertad económica de las empresas.",
+          "is_correct": false,
+          "feedback": "La libertad económica opera con límites sociales; no es el fundamento de la prestación obligatoria del servicio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los artículos 365 a 368 de la Constitución califican los servicios públicos como esenciales y ordenan su prestación eficiente y de calidad, con control del Estado. Cuando su ausencia amenaza la vida y la salud, la tutela (artículo 86) se vuelve un instrumento de los grupos vulnerables para exigir el acceso al agua. Así, la desigualdad territorial también es una desigualdad en el goce efectivo de derechos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la justificación constitucional de esa medida de acción afirmativa?",
+      "context": "Una institución de educación superior en Pasto, Nariño, reserva cupos de admisión para aspirantes indígenas y afrodescendientes de zonas rurales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Busca hacer real y efectiva la igualdad de grupos históricamente marginados, como autoriza el inciso final del artículo 13.",
+          "is_correct": true,
+          "feedback": "Correcto: la Constitución permite tratar diferencialmente a quienes parten de condiciones desiguales."
+        },
+        {
+          "letter": "B",
+          "text": "Constituye un privilegio indebido que elimina todo criterio de admisión en la institución.",
+          "is_correct": false,
+          "feedback": "Las acciones afirmativas complementan, no abolen los criterios de selección; se diseñan con reglas y límites."
+        },
+        {
+          "letter": "C",
+          "text": "Debe extenderse automáticamente a toda la población para que nadie se sienta excluido.",
+          "is_correct": false,
+          "feedback": "Si se universaliza, la medida pierde su objetivo de compensar desventajas específicas de grupos marginados."
+        },
+        {
+          "letter": "D",
+          "text": "Contradice la Constitución porque la igualdad prohíbe cualquier trato diferenciado.",
+          "is_correct": false,
+          "feedback": "Invierte la norma: el propio artículo 13 manda proteger a grupos débiles y autorizar medidas a favor de marginados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las acciones afirmativas se apoyan en el artículo 13, que ordena promover condiciones de igualdad real y adoptar medidas a favor de grupos discriminados. No niegan el mérito: corrigen puntos de partida desiguales producidos por siglos de exclusión étnico-racial y territorial. Su evaluación exige revisar cobertura, efectividad y temporalidad de la medida.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v1",
+      "statement": "¿Qué revela este episodio sobre la relación entre brecha urbano-rural y desigualdad educativa?",
+      "context": "Durante 2020, en Armenia, Quindío, las clases pasaron a ser virtuales; muchos estudiantes de zonas campesinas no tenían señal de datos ni dispositivo en casa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la brecha digital es irrelevante para la trayectoria escolar de los territorios rurales.",
+          "is_correct": false,
+          "feedback": "El episodio mostró exactamente lo contrario: sin conectividad hubo pérdida de años escolares."
+        },
+        {
+          "letter": "B",
+          "text": "Que las desventajas materiales preexistentes se multiplican en crisis, ampliando la exclusión educativa rural.",
+          "is_correct": true,
+          "feedback": "Correcto: la crisis no creó la brecha, la evidenció y profundizó al convertir la conectividad en condición de estudio."
+        },
+        {
+          "letter": "C",
+          "text": "Que la virtualidad resolvió de inmediato todos los problemas de cobertura del sistema educativo.",
+          "is_correct": false,
+          "feedback": "Confunde el cambio de modalidad con la solución: la cobertura real exigió retorno presencial y refuerzo."
+        },
+        {
+          "letter": "D",
+          "text": "Que la desigualdad educativa solo existe en las capitales y no en las zonas dispersas.",
+          "is_correct": false,
+          "feedback": "Contradice la evidencia: las mayores carencias de infraestructura y conectividad se concentran en lo rural."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La pandemia funcionó como revelador de la brecha urbano-rural: estudiar depende de infraestructura, ingreso del hogar y conectividad. La pobreza multidimensional incorpora carencias como condiciones educativas y acceso a servicios, que explican la deserción rural. Analizar estos episodios evita reducir la desigualdad a un problema de esfuerzo individual.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v1",
+      "statement": "¿Por qué la pobreza multidimensional aporta información que la pobreza monetaria sola\nno entrega?",
+      "context": "En un municipio del Guaviare, los ingresos de algunos hogares mejoraron levemente, pero persisten deserción escolar, hacinamiento y falta de acueducto veredal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque sustituye por completo la medición de ingresos y vuelve innecesaria la GEIH.",
+          "is_correct": false,
+          "feedback": "Las dos mediciones conviven y se complementan; ninguna reemplaza a la otra."
+        },
+        {
+          "letter": "B",
+          "text": "Porque solo se calcula en las áreas urbanas de las grandes capitales.",
+          "is_correct": false,
+          "feedback": "La medición multidimensional es justamente valiosa por su lectura territorial, urbana y rural."
+        },
+        {
+          "letter": "C",
+          "text": "Porque revela carencias estructurales en educación, salud, vivienda y servicios que un ingreso marginal no refleja.",
+          "is_correct": true,
+          "feedback": "Correcto: muestra condiciones de vida que el ingreso per cápita apenas insinúa."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la publican a diario los mercados financieros para fijar tasas de interés.",
+          "is_correct": false,
+          "feedback": "Es una medición estadística oficial del Estado, no un indicador del sistema financiero."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El índice de pobreza multidimensional del DANE agrega carencias efectivas: educación, salud, condiciones de la vivienda, servicios y tiempo. Un hogar puede salir de la línea de ingresos y seguir sin acueducto ni cobertura escolar completa. Por eso las políticas de superación de la pobreza requieren ambas miras para focalizar inversiones.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál análisis es más riguroso frente a esa relación entre tierra, desigualdad y conflicto?",
+      "context": "Un club de debate de Bucaramanga discute la conclusión de la Comisión de la Verdad (2022) sobre el origen agrario del conflicto armado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el conflicto tuvo una única causa económica y toda explicación adicional es irrelevante.",
+          "is_correct": false,
+          "feedback": "El informe mismo enfatiza la multicausalidad: reducirlo a una sola causa lo empobrece."
+        },
+        {
+          "letter": "B",
+          "text": "Que la concentración de la tierra es un mito sin sustento en la historia rural colombiana.",
+          "is_correct": false,
+          "feedback": "Desconoce siglos de evidencia histórica y los hallazgos documentales de la propia Comisión."
+        },
+        {
+          "letter": "C",
+          "text": "Que la cuestión de la tierra y la exclusión política del campo ayudan a explicar el surgimiento y la persistencia del conflicto, junto con otros factores como las drogas ilícitas.",
+          "is_correct": true,
+          "feedback": "Correcto: integra la causa estructural agraria con la multicausalidad del informe."
+        },
+        {
+          "letter": "D",
+          "text": "Que la desigualdad rural es un fenómeno nuevo, sin raíces en la historia republicana.",
+          "is_correct": false,
+          "feedback": "El informe documenta raíces profundas de la concentración de la tierra a lo largo del siglo XX."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Comisión de la Verdad presentó el conflicto como multicausal, con la tierra y la exclusión del campo entre sus raíces estructurales. Las drogas, la debilidad institucional y la violencia política se suman sin borrar ese origen agrario. Este análisis enseña a evitar explicaciones monocausales y a conectar memoria histórica con presente desigual.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v1",
+      "statement": "Desde el mandato de igualdad material de la Constitución, ¿cuál es el argumento más\nsólido a favor de mantener esas medidas?",
+      "context": "En un foro estudiantil de una universidad pública en Manizales se debate si las cuotas étnico-raciales en la admisión son justas o injustas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La igualdad formal es insuficiente cuando las oportunidades reales son desiguales: el texto constitucional autoriza medidas para grupos marginados.",
+          "is_correct": true,
+          "feedback": "Correcto: el artículo 13 distingue entre igualdad ante la ley e igualdad real, y habilita la acción afirmativa."
+        },
+        {
+          "letter": "B",
+          "text": "Son válidas únicamente si se eliminan por completo los exámenes de admisión de la institución.",
+          "is_correct": false,
+          "feedback": "Falso dilema: las cuotas operan dentro de sistemas de selección, no los sustituyen en bloque."
+        },
+        {
+          "letter": "C",
+          "text": "Deben extenderse a toda la población sin excepción para evitar cualquier etiqueta.",
+          "is_correct": false,
+          "feedback": "Universalizarlas destruiría su función compensatoria dirigida a desventajas específicas."
+        },
+        {
+          "letter": "D",
+          "text": "Son inconstitucionales, porque la igualdad veda cualquier trato diferenciado entre personas.",
+          "is_correct": false,
+          "feedback": "Ignora el inciso final del artículo 13, que expresamente ordena proteger a grupos débiles y marginados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El juicio sobre acciones afirmativas enfrenta la igualdad formal (mismo trato) con la igualdad material (mismas oportunidades). El constituyente del 91 resolvió la tensión autorizando tratos diferenciales compensatorios para grupos discriminados. El mejor juicio valora la medida por su objetivo, proporcionalidad y temporalidad, no por un principio abstracto de indiferencia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la evaluación más equilibrada de ambas propuestas frente a la pobreza y la\ndesigualdad?",
+      "context": "En la campaña al concejo de Cali, un candidato promete duplicar las transferencias monetarias directas y otro propone invertir en vías terciarias, educación técnica y formalización de la tenencia de la tierra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo las obras estructurales importan, porque las transferencias han demostrado ser totalmente inútiles.",
+          "is_correct": false,
+          "feedback": "Los datos de la pandemia muestran que las transferencias sostuvieron ingresos y frenaron la pobreza; descartarlas es dogmático."
+        },
+        {
+          "letter": "B",
+          "text": "Las transferencias alivian la pobreza inmediata, pero sin políticas estructurales sobre activos y oportunidades no reducen la desigualdad de manera sostenida.",
+          "is_correct": true,
+          "feedback": "Correcto: la evidencia sugiere complementariedad, no exclusión, entre alivio de corto plazo y transformación estructural."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas son equivalentes, porque toda política pública produce exactamente los mismos efectos.",
+          "is_correct": false,
+          "feedback": "Niega la evidencia diferenciada: cada instrumento opera sobre plazos y mecanismos distintos."
+        },
+        {
+          "letter": "D",
+          "text": "Conviene suprimir las ayudas monetarias porque generan empleo formal de inmediato.",
+          "is_correct": false,
+          "feedback": "Invierte la relación causal: las transferencias no crean por sí mismas el empleo formal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ingreso Solidario demostró capacidad de respuesta rápida ante una crisis, mientras la brecha de activos exige generación de largo plazo: tierra, infraestructura, educación y formalización. El juicio informado no elige una sola pata, sino que pondera complementos y restricciones fiscales. Esta es la discusión central entre compensación y transformación estructural de la desigualdad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el argumento más sólido a favor de esa iniciativa desde una perspectiva de\nigualdad material?",
+      "context": "En el Congreso de la República se discute una iniciativa para reconocer el trabajo de cuidados no remunerado dentro del sistema de seguridad social, por ejemplo contabilizando periodos de cuidado para fines pensionales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es irrelevante, porque el trabajo doméstico no produce ningún bien ni servicio útil para la economía.",
+          "is_correct": false,
+          "feedback": "Falso: el cuidado sostiene la fuerza de trabajo y el consumo diario; la cuenta satelital del DANE lo demuestra."
+        },
+        {
+          "letter": "B",
+          "text": "Debe resolverse con contratos privados entre parejas, sin intervención del Estado.",
+          "is_correct": false,
+          "feedback": "Privatizar el cuidado reproduce la desigualdad: las asimetrías de poder dentro del hogar existen."
+        },
+        {
+          "letter": "C",
+          "text": "Perjudica a los hombres, porque los obliga legalmente a abandonar su empleo remunerado.",
+          "is_correct": false,
+          "feedback": "El reconocimiento amplía derechos para quienes cuidan; no impone a nadie dejar el mercado laboral."
+        },
+        {
+          "letter": "D",
+          "text": "Corrige el sesgo de un sistema contributivo diseñado sobre el empleo asalariado a tiempo completo, del que quedaron excluidas mayoritariamente las mujeres.",
+          "is_correct": true,
+          "feedback": "Correcto: reconocer el cuidado acerca la seguridad social (artículo 48 de la Constitución) a las trayectorias reales de las mujeres."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las pensiones se construyen sobre cotizaciones formales, un molde que excluyó a quienes dedicaron su vida al cuidado no remunerado, en su mayoría mujeres. Las encuestas de uso del tiempo del DANE muestran esa asimetría persistente. El juicio de valor sobre estas iniciativas enfrenta eficiencia actuarial con justicia de género: una democracia igualitaria no puede ignorar quién sostiene la vida social.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Trabajo y economía",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v1",
+      "statement": "¿Qué criterio de juicio es más sólido al evaluar ese tipo de medidas agrarias?",
+      "context": "El consejo estudiantil de un colegio de Cartagena debate si los impuestos a los latifundios improductivos y los programas de acceso a tierras deben priorizarse para reducir la desigualdad nacional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son inoficiosas, porque la tenencia de la tierra no tiene efectos sobre la pobreza rural.",
+          "is_correct": false,
+          "feedback": "Contradice la evidencia del DANE y de la Comisión de la Verdad sobre el vínculo tierra-pobreza-conflicto."
+        },
+        {
+          "letter": "B",
+          "text": "Bastan con anuncios de reforma para que la desigualdad del campo se cierre de manera automática.",
+          "is_correct": false,
+          "feedback": "Confunde declaración con implementación: la historia muestra reformas agrarias truncas por falta de ejecución."
+        },
+        {
+          "letter": "C",
+          "text": "Debe evaluarse su aporte a cerrar la brecha urbano-rural, a la productividad y a la seguridad jurídica, pues el latifundio improductivo perpetúa pobreza.",
+          "is_correct": true,
+          "feedback": "Correcto: el juicio pondera efectos sobre igualdad, uso productivo y reglas claras, no solo el ideal declarado."
+        },
+        {
+          "letter": "D",
+          "text": "La propiedad es absoluta, de modo que ningún interés social puede limitar su función económica.",
+          "is_correct": false,
+          "feedback": "El artículo 58 de la Constitución subordina la propiedad a su función social y ecológica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El artículo 58 de la Constitución consagra la propiedad con función social y ecológica, base para impuestos y reformas agrarias. La concentración de tierras sin uso productivo documentada por la historia colombiana alimenta pobreza rural y conflicto. Un buen juicio no opone propiedad y equidad en abstracto: evalúa implementación, productividad y cierre de la brecha campo-ciudad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

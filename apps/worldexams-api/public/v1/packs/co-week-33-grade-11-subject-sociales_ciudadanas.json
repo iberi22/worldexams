@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-33-grade-11-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-12T16:46:07.596Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle-v1",
+      "statement": "El mecanismo constitucional breve, informal y preferente que protege los derechos fundamentales cuando resultan vulnerados por acción u omisión de autoridades públicas, y en algunos casos por particulares, se denomina",
+      "context": "Un habitante de Bogotá recibe una negativa de su EPS sin justificación y busca el mecanismo constitucional rápido para proteger su salud.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acción popular",
+          "is_correct": false,
+          "feedback": "La acción popular protege derechos e intereses colectivos, no fundamentales de una persona concreta."
+        },
+        {
+          "letter": "B",
+          "text": "Acción de tutela",
+          "is_correct": true,
+          "feedback": "Correcto. La acción de tutela del artículo 86 es el mecanismo directo, breve e informal de protección de derechos fundamentales."
+        },
+        {
+          "letter": "C",
+          "text": "Derecho de petición",
+          "is_correct": false,
+          "feedback": "El derecho de petición obliga a responder de fondo, pero no es un mecanismo judicial de amparo."
+        },
+        {
+          "letter": "D",
+          "text": "Control de constitucionalidad",
+          "is_correct": false,
+          "feedback": "El control de constitucionalidad lo ejerce la Corte sobre normas, no ampara casos concretos de personas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La acción de tutela, consagrada en el artículo 86 de la Constitución y desarrollada por el Decreto 2591 de 1991, es el mecanismo estrella de la Constitución de 1991: preferente, sumario, informal y subsidiario. En diez días hábiles el juez debe fallar, y su creación materializó la idea de que los derechos fundamentales son inmediatamente exigibles ante un juez, no meras promesas programáticas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle-v2",
+      "statement": "El artículo de la Constitución Política de Colombia que consagra la acción de tutela es el",
+      "context": "En una jornada de orientación jurídica en una alcaldía local de Kennedy, se explica a los vecinos qué artículos rigen las acciones de protección.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Artículo 1",
+          "is_correct": false,
+          "feedback": "El artículo 1 define la forma del Estado, no crea mecanismos de amparo."
+        },
+        {
+          "letter": "B",
+          "text": "Artículo 86",
+          "is_correct": true,
+          "feedback": "Correcto. El artículo 86 consagra la acción de tutela para la protección de los derechos fundamentales."
+        },
+        {
+          "letter": "C",
+          "text": "Artículo 150",
+          "is_correct": false,
+          "feedback": "El artículo 150 corresponde a las atribuciones del Congreso, no a los mecanismos de amparo."
+        },
+        {
+          "letter": "D",
+          "text": "Artículo 220",
+          "is_correct": false,
+          "feedback": "El artículo 220 se refiere a la libertad de imprenta, no a la tutela."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El artículo 86 dispone que toda persona tendrá acción de tutela para reclamar ante los jueces, en todo momento y lugar, mediante un procedimiento preferente y sumario, por sí misma o por quien actúe a su nombre, la protección inmediata de sus derechos constitucionales fundamentales, cuando quiera que estos resulten vulnerados o amenazados por la acción o la omisión de cualquier autoridad pública.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle-v3",
+      "statement": "Que la tutela sea un mecanismo \"informal\" significa que",
+      "context": "Una estudiante de Girón, Santander, quiere presentar una tutela sin abogado y con un escrito de una sola página.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No produce efectos jurídicos y es solo una queja simbólica",
+          "is_correct": false,
+          "feedback": "La tutela produce órdenes judiciales obligatorias y su incumplimiento acarrea sanciones."
+        },
+        {
+          "letter": "B",
+          "text": "Solo puede presentarse por escrito en formularios oficiales del Ministerio de Justicia",
+          "is_correct": false,
+          "feedback": "No exige formulario oficial; incluso puede presentarse verbalmente o por medios electrónicos."
+        },
+        {
+          "letter": "C",
+          "text": "No exige un procedimiento solemne ni representación por abogado: puede presentarse de forma sencilla ante cualquier juez",
+          "is_correct": true,
+          "feedback": "Correcto. La informalidad es una de las notas esenciales del artículo 86 y del Decreto 2591 de 1991."
+        },
+        {
+          "letter": "D",
+          "text": "La puede decidir unilateralmente el alcalde del municipio",
+          "is_correct": false,
+          "feedback": "La tutela la resuelve un juez de la República, nunca una autoridad administrativa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La informalidad de la tutela busca que ningún ciudadano vea frustrado el acceso a la justicia por barreras técnicas: no se requiere abogado, ni formulario, ni un lenguaje solemne; la solicitud puede ser verbal, escrita o electrónica, y cualquier juez constitucional es competente para tramitarla \"en todo momento y lugar\". Este carácter la convierte en el mecanismo más usado por la ciudadanía colombiana.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle-v4",
+      "statement": "El mecanismo judicial previsto en el artículo 88 de la Constitución para defender derechos e intereses colectivos como el espacio público y el medio ambiente es",
+      "context": "Un líder comunal de Barranquilla quiere proteger un parque del distrito amenazado por una construcción irregular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El habeas corpus",
+          "is_correct": false,
+          "feedback": "El hábeas corpus protege la libertad individual, no los derechos colectivos."
+        },
+        {
+          "letter": "B",
+          "text": "La acción popular",
+          "is_correct": true,
+          "feedback": "Correcto. El artículo 88 y la Ley 472 de 1998 regulan la acción popular para derechos colectivos."
+        },
+        {
+          "letter": "C",
+          "text": "La acción de cumplimiento",
+          "is_correct": false,
+          "feedback": "La acción de cumplimiento busca hacer efectiva una ley o acto administrativo, no proteger derechos difusos."
+        },
+        {
+          "letter": "D",
+          "text": "El control fiscal",
+          "is_correct": false,
+          "feedback": "El control fiscal vigila el uso de recursos públicos y corresponde a la Contraloría, no a un juez."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El artículo 88 ordena que la ley regule las acciones populares para la protección de los derechos e intereses colectivos, tales como el patrimonio, el espacio, la seguridad y la salubridad públicos, la moral administrativa, el ambiente y la libre competencia económica. La Ley 472 de 1998 desarrolló el mandato y permite que cualquier persona demande a nombre de la comunidad, sin necesidad de un interés personal directo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle-v5",
+      "statement": "Ante la ausencia de respuesta de fondo a una petición respetuosa formulada a una autoridad, el mecanismo constitucional directo que debe invocar Laura es",
+      "context": "A Laura, residente en Envigado, le niegan con evasivas una copia de un documento público que solicitó a una secretaría municipal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El derecho de petición del artículo 23, que obliga a resolver de fondo, de manera pronta, completa y conforme a la ley",
+          "is_correct": true,
+          "feedback": "Correcto. El artículo 23 consagra el derecho de petición y el deber de respuesta de fondo."
+        },
+        {
+          "letter": "B",
+          "text": "La revocatoria directa del mandato, prevista para alcalde y gobernadores",
+          "is_correct": false,
+          "feedback": "La revocatoria es un mecanismo de participación política, no de respuesta institucional."
+        },
+        {
+          "letter": "C",
+          "text": "La acción de grupo, que exige un mínimo de veinte afectados",
+          "is_correct": false,
+          "feedback": "La acción de grupo repara perjuicios patrimoniales de plurales víctimas, no obliga a responder peticiones."
+        },
+        {
+          "letter": "D",
+          "text": "El voto programático, que obliga a publicar respuestas a solicitudes ciudadanas",
+          "is_correct": false,
+          "feedback": "El voto programático relaciona al elector con el plan de gobierno del elegido, no con peticiones individuales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El artículo 23 garantiza a toda persona el derecho a presentar peticiones respetuosas por motivos de interés general o particular y a obtener resolución de fondo. La Ley 1755 de 2015 unificó los términos: quince días hábiles para peticiones generales, diez días para documentos e información, treinta para consultas jurídicas o médicas. Su incumplimiento permite tutela y puede acarrear sanciones disciplinarias.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle-v6",
+      "statement": "Para demandar la protección del río y del derecho colectivo a un ambiente sano, la vía procedente de la Ley 472 de 1998 es",
+      "context": "Una ONG ambiental de Cali identifica afectaciones al río Cauca por un vertimiento ilegal y quiere actuar ante la justicia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La acción de tutela, siempre preferente en cualquier tipo de derecho",
+          "is_correct": false,
+          "feedback": "La tutela protege derechos fundamentales individuales y es subsidiaria; los derechos colectivos tienen vía propia."
+        },
+        {
+          "letter": "B",
+          "text": "La acción popular",
+          "is_correct": true,
+          "feedback": "Correcto. El ambiente sano es un derecho e interés colectivo protegido mediante acción popular."
+        },
+        {
+          "letter": "C",
+          "text": "El control automático de constitucionalidad de oficio",
+          "is_correct": false,
+          "feedback": "Ese control recae sobre leyes y actos legislativos, no sobre casos ambientales concretos."
+        },
+        {
+          "letter": "D",
+          "text": "El referendo derogatorio municipal",
+          "is_correct": false,
+          "feedback": "El referendo es un mecanismo de participación para derogar actos normativos, no para litigar contaminación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La acción popular está diseñada para la prevención, la adecuación y la reparación del daño respecto de derechos colectivos —ambiente, espacio público, moralidad administrativa— con efectos erga omnes: la sentencia beneficia a toda la comunidad. La tutela solo procede para derechos colectivos de forma excepcional y transitoria, cuando se busca evitar un perjuicio irremediable, justamente porque existe otro mecanismo judicial idóneo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle-v7",
+      "statement": "Si cientos de personas exigen una indemnización por los perjuicios económicos sufridos a raíz del mismo hecho, la figura procesal de la Constitución y la Ley 472 de 1998 prevista para ello es",
+      "context": "Un grupo de consumidores de Ibagué resultó afectado patrimonialmente por prácticas abusivas de una empresa de servicios públicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La acción de grupo, para la reparación de los daños causados a pluralidad de víctimas con intereses homogéneos",
+          "is_correct": true,
+          "feedback": "Correcto. La acción de grupo repara el perjuicio patrimonial de un número no inferior de veinte víctimas."
+        },
+        {
+          "letter": "B",
+          "text": "La tutela colectiva, creada por la Ley 1437 de 2011",
+          "is_correct": false,
+          "feedback": "No existe una \"tutela colectiva\" formal; los colectivos se defienden con acción popular y de grupo."
+        },
+        {
+          "letter": "C",
+          "text": "El habeas data",
+          "is_correct": false,
+          "feedback": "El hábeas data protege la información personal en bases de datos, no indemniza perjuicios económicos."
+        },
+        {
+          "letter": "D",
+          "text": "La queja disciplinaria ante la Procuraduría",
+          "is_correct": false,
+          "feedback": "La queja disciplinaria sanciona servidores públicos; no reconoce indemnizaciones a los particulares afectados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La acción de grupo (artículo 88 constitucional, Ley 472 de 1998, capítulo tercero) procede cuando un número no inferior a veinte personas resulte afectado por un mismo hecho y reclama la reparación del daño irrogado. Difiere de la acción popular en su finalidad: la popular previene y protege derechos colectivos; la de grupo indemniza perjuicios patrimoniales individuales homogéneos de manera concentrada, evitando la litigiosidad masiva fragmentada.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle-v8",
+      "statement": "Para reclamar de inmediato por la restricción ilegal del derecho a la libertad individual, el mecanismo constitucional idóneo es",
+      "context": "En un colegio de Tunja, una estudiante fue retenida varias horas por la policía sin orden judicial ni flagrancia durante un plantón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El derecho de petición dirigido a la gobernación",
+          "is_correct": false,
+          "feedback": "La petición no repone la libertad restringida; el mecanismo célere es judicial."
+        },
+        {
+          "letter": "B",
+          "text": "La acción popular por afectación a la libertad de locomoción",
+          "is_correct": false,
+          "feedback": "La libertad individual de una persona concreta es derecho fundamental, amparado por hábeas corpus, no derecho colectivo."
+        },
+        {
+          "letter": "C",
+          "text": "El habeas corpus del artículo 30, por cualquier persona de la comunidad",
+          "is_correct": true,
+          "feedback": "Correcto. El artículo 30 consagra el hábeas corpus y permite invocarlo a cualquier miembro de la comunidad."
+        },
+        {
+          "letter": "D",
+          "text": "El recurso de reposición ante el inspector de policía",
+          "is_correct": false,
+          "feedback": "La reposición es un recurso administrativo contra actos; no protege constitucionalmente la libertad ambulatoria."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El artículo 30 garantiza el hábeas corpus: quien fuere capturado ilícitamente o suffer restraint ilegal de su libertad puede solicitar, por sí o por cualquier persona de la comunidad, ante cualquier juez, que se exhiba su persona y se ordene su libertad en el término de las doce horas siguientes. Es garantía de la libertad personal consagrada además en el artículo 28 y desarrollada por el artículo 5 de la Ley 1095 de 2006.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle-v9",
+      "statement": "El mecanismo que le permite conocer, actualizar y rectificar la información que sobre él recogieron bases de datos es",
+      "context": "Un joven de Popayán aparece en una central de riesgo financiero por una deuda que no contrajo y solicita corregir su información.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El hábeas corpus, porque es una privación de derechos",
+          "is_correct": false,
+          "feedback": "El hábeas corpus protege la libertad física, no la información personal."
+        },
+        {
+          "letter": "B",
+          "text": "El habeas data del artículo 15, desarrollado por la Ley 1581 de 2012",
+          "is_correct": true,
+          "feedback": "Correcto. El hábeas data es la vertiente informativa del derecho a la intimidad del artículo 15."
+        },
+        {
+          "letter": "C",
+          "text": "La tutela como mecanismo único, sin vía ordinaria previa",
+          "is_correct": false,
+          "feedback": "La tutela es subsidiaria: existe vía administrativa ante la SIC y la autoridad nacional de protección de datos."
+        },
+        {
+          "letter": "D",
+          "text": "El derecho de petición exclusivamente, sin otras garantías",
+          "is_correct": false,
+          "feedback": "La petición es un componente, pero el núcleo es el hábeas data con su régimen estatutario propio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El artículo 15 garantiza la intimidad y el hábeas data: derecho a conocer, actualizar y rectificar las informaciones recogidas en bases de datos oficiales y privadas. La Ley 1581 de 2012 y la Ley 1266 de 2012, esta última sobre datos financieros, desarrollan el régimen y la protección del dato personal, hoy eje de debates sobre vigilancia digital, big data y perfilamiento comercial en un contexto colombiano y global.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle-v10",
+      "statement": "Para exigir la efectividad de una ley o acto administrativo de carácter general incumplido por la autoridad competente, la Constitución prevé en su artículo 87 la",
+      "context": "En un municipio de Boyacá, una norma local que ordena reforestar zonas ribereñas no se aplica desde hace años.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acción de tutela, por ser el mecanismo universal de todos los derechos",
+          "is_correct": false,
+          "feedback": "La tutela protege derechos fundamentales; el cumplimiento de normas generales tiene vía propia."
+        },
+        {
+          "letter": "B",
+          "text": "Acción popular, porque toda norma incumplida afecta derechos colectivos",
+          "is_correct": false,
+          "feedback": "La acción popular protege derechos e intereses colectivos concretos, no la vigencia abstracta de una norma."
+        },
+        {
+          "letter": "C",
+          "text": "Acción de cumplimiento, para que el juez ordene a la autoridad omisa observar la norma y su aplicación",
+          "is_correct": true,
+          "feedback": "Correcto. El artículo 87 establece la acción de cumplimiento ante la jurisdicción contencioso administrativa."
+        },
+        {
+          "letter": "D",
+          "text": "Demanda ejecutiva ante un juez civil",
+          "is_correct": false,
+          "feedback": "La ejecutiva cobra obligaciones claras contenidas en títulos; no obliga al cumplimiento general de una norma."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El artículo 87 consagra la acción de cumplimiento para que un juez de lo contencioso administrativo ordene a la autoridad renuente acatar el contenido de leyes o actos administrativos de carácter general, salvo los necesarios para la protección de derechos fundamentales, que van por tutela. Fue desarrollada por la Ley 393 de 1997. Es un instrumento de cultura de legalidad y control judicial de la inercia estatal.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle-v11",
+      "statement": "La doctrina constitucional del \"carácter excepcional\" de la tutela contra providencias judiciales responde principalmente al principio de",
+      "context": "Un abogado de Barranquilla analiza por qué un juez rechazó de plano una tutela contra una decisión judicial firme.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prevalencia del derecho sustancial, que admite la tutela sin límite alguno",
+          "is_correct": false,
+          "feedback": "La prevalencia del derecho sustancial no elimina la cosa juzgada ni la seguridad jurídica."
+        },
+        {
+          "letter": "B",
+          "text": "Cosa juzgada y seguridad jurídica, frente a la protección de derechos fundamentales vulnerados de forma grosera en el proceso",
+          "is_correct": true,
+          "feedback": "Correcto. La tensión entre cosa juzgada y amparo de derechos fundamenta la exigencia de causales especiales y vicios protuberantes."
+        },
+        {
+          "letter": "C",
+          "text": "Autonomía escolar, aplicable a todos los jueces del país",
+          "is_correct": false,
+          "feedback": "La autonomía escolar no es un principio judicial y no guarda relación con la materia."
+        },
+        {
+          "letter": "D",
+          "text": "Economía de escala del sistema judicial",
+          "is_correct": false,
+          "feedback": "La economía procesal pesa en el diseño de la tutela, pero no explica la excepción frente a providencias."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Corte Constitucional construyó un test de procedibilidad de seis causales de procedibilidad (SB, OG, DC, P, I, D) para la tutela contra providencias judiciales: defecto orgánico, procedimental absoluto, motivación, error fáctico o de derecho, decisión contraria a la Constitución e irregularidad por la que se vulneren derechos. Analizar esta doctrina permite comprender el equilibrio entre la supremacía constitucional y la seguridad jurídica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle-v12",
+      "statement": "El incumplimiento reiterado de una sentencia de acción popular, además de las sanciones a los responsables, habilita constitucionalmente al juez para declarar",
+      "context": "Una veeduría de Cartagena investiga una megaobra pública paralizada pese a sentencias que ordenaban proteger el humedal aledaño.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El estado de conmoción interior automático en todo el departamento",
+          "is_correct": false,
+          "feedback": "Los estados de excepción los decreta el Presidente con firmas de todos los ministros; no los decreta un juez por desacato."
+        },
+        {
+          "letter": "B",
+          "text": "La nulidad de la Constitución en el territorio afectado",
+          "is_correct": false,
+          "feedback": "Ninguna autoridad judicial puede suspender la Constitución en un territorio; su vigencia es integral."
+        },
+        {
+          "letter": "C",
+          "text": "El desacato, con arresto y multa a los funcionarios responsables, y el traslado disciplinario y penal correspondiente",
+          "is_correct": true,
+          "feedback": "Correcto. La Ley 472 de 1998 contempla arresto hasta de seis meses, multa y remisión a las autoridades competentes."
+        },
+        {
+          "letter": "D",
+          "text": "La intervención militar de la obra pública por orden del alcalde",
+          "is_correct": false,
+          "feedback": "El alcalde no tiene facultades de intervención militar; la fuerza pública y los estados de excepción responden a otros mandatos constitucionales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La eficacia de las sentencias de acción popular está blindada por mecanismos de coerción: arresto y multa por desacato, sanciones disciplinarias y apertura de investigaciones penales cuando hay dolo, además de la posibilidad de declarar la responsabilidad del funcionario y de exigir la reparación de oficio. Analizar estos instrumentos permite evaluar por qué en Colombia el reto no es siempre reconocer derechos, sino hacerlos efectivos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle-v13",
+      "statement": "Un efecto estructural crítico y no pretendido de la alta litigiosidad en salud por tutela es",
+      "context": "En un foro sobre salud en Medellín se analiza el impacto de los fallos de tutela sobre medicamentos de alto costo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La eliminación completa de las EPS del sistema colombiano",
+          "is_correct": false,
+          "feedback": "Las EPS siguen operando; la tutela no ha suprimido la arquitectura del SGSSS."
+        },
+        {
+          "letter": "B",
+          "text": "La conversión de jueces de la República en legisladores sanitarios con control presupuestal",
+          "is_correct": false,
+          "feedback": "Los jueces amparan derechos caso por caso, no diseñan política sanitaria integral; esa sigue siendo función administrativa y legislativa."
+        },
+        {
+          "letter": "C",
+          "text": "Una asignación de recursos que puede volcarse hacia quienes litigan, desequilibrando la priorización técnica del plan de beneficios",
+          "is_correct": true,
+          "feedback": "Correcto. La evidencia muestra un sesgo de acceso por litigio frente a la priorización sanitaria poblacional."
+        },
+        {
+          "letter": "D",
+          "text": "La caída de la esperanza de vida nacional en la última década",
+          "is_correct": false,
+          "feedback": "La esperanza de vida colombiana aumentó estructuralmente desde 1990; atribuir su descenso a la tutela contradice la evidencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La tutela de salud —una de las más masivas— ha salvado vidas y garantizado tratamientos, pero la evidencia empírica señala una \"judicialización\" que puede privilegiar a ciudadanos informados y asesorados, frente a decisiones técnicas de costo-efectividad poblacional. El análisis crítico, propio de grado 11, exige ponderar: sin tutela, el derecho se vuelve retórico; con tutela desbordada, se tensiona el diseño racional del sistema.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle-v14",
+      "statement": "En una acción popular de una comunidad étnica, el principio de \"in dubio pro ambiente\" y la carga de la prueba dinámica implican que",
+      "context": "Una comunidad afrodescendiente de Nuquí, Chocó, demanda al Estado por contaminar sus aguas con mercurio de minería ilegal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La comunidad debe demostrar con certeza científica absoluta el daño antes de demandar",
+          "is_correct": false,
+          "feedback": "Exigir certeza absoluta paralizaría la protección preventiva; rige la precaución, no la certeza."
+        },
+        {
+          "letter": "B",
+          "text": "El demandante popular debe ser siempre el Defensor del Pueblo",
+          "is_correct": false,
+          "feedback": "Cualquier persona puede ejercer acción popular, según la Ley 472 de 1998."
+        },
+        {
+          "letter": "C",
+          "text": "Ante la duda sobre el daño ambiental, se protege el ambiente y se traslada al contaminador la demostración de que su actividad no lo causa",
+          "is_correct": true,
+          "feedback": "Correcto. La precautionalidad y la inversión probatoria operan a favor del derecho colectivo."
+        },
+        {
+          "letter": "D",
+          "text": "El juez debe archivar el caso hasta que exista una sentencia penal condenatoria previa",
+          "is_correct": false,
+          "feedback": "La responsabilidad ambiental es autónoma de la penal y no requiere prejudicialidad penal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El artículo 79 protege el derecho a un ambiente sano y ordena al Estado proteger la diversidad e integridad del ambiente; el artículo 88 lo vuelve justiciable vía acción popular. La jurisprudencia —Sentencia SU-995 de 1999 sobre consulta previa de comunidades afrocolombianas, entre otras— ha consolidado la precautionalidad, la participación como garantía y la carga probatoria atenuada frente a asimetrías de información.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle-v15",
+      "statement": "La distinción estructural entre la tutela y la acción de cumplimiento radica en que la primera protege",
+      "context": "Un docente de Cúcuta prepara a sus estudiantes para diferenciar tutela y acción de cumplimiento en casos de política pública.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Derechos fundamentales de personas concretas y la segunda exige observar normas generales incumplidas",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la frontera material: amparo de derechos individuales versus efectividad de la norma general."
+        },
+        {
+          "letter": "B",
+          "text": "Solo derechos colectivos y la segunda solo derechos económicos",
+          "is_correct": false,
+          "feedback": "Es exactamente al revés de una clasificación correcta: la tutela es para derechos fundamentales individuales."
+        },
+        {
+          "letter": "C",
+          "text": "A los servidores públicos y la segunda a los particulares",
+          "is_correct": false,
+          "feedback": "Ninguna de las dos acciones protege \"a los servidores\" como tales; son mecanismos de los ciudadanos frente al poder."
+        },
+        {
+          "letter": "D",
+          "text": "El patrimonio privado y la segunda la libertad individual",
+          "is_correct": false,
+          "feedback": "La libertad individual se protege con hábeas corpus y la tutela; el patrimonio no es eje de la de cumplimiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar los tres grandes amparos constitucionales (tutela, popular, cumplimiento) obliga a distinguir su objeto, su titular y su efecto: la tutela protege derechos fundamentales con efecto entre las partes; la acción popular protege derechos colectivos con efectos erga omnes; la de cumplimiento hace efectiva la ley general. La confusión entre ellas produce rechazos improcedentes y denegación de justicia, problema central de la cultura jurídica ciudadana.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle-v16",
+      "statement": "La vía mediante la cual una tutela deja de ser un caso particular para ordenar cambios estructurales a múltiples entidades es",
+      "context": "Una universidad de Manizales estudia por qué las sentencias de tutela tienen \"efectos entre las partes\" y, no obstante, algunas fijan reglas generales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La declaratoria de estado de cosas inconstitucional y los órdenes complejos de carácter general que la acompañan",
+          "is_correct": true,
+          "feedback": "Correcto. Las sentencias estructurales, como la T-025 de 2004, trascienden el caso y ordenan políticas públicas."
+        },
+        {
+          "letter": "B",
+          "text": "La declaratoria de nulidad absoluta del Código Sustantivo del Trabajo",
+          "is_correct": false,
+          "feedback": "La tutela no deroga códigos; el control abstracto de normas corresponde a la Corte Constitucional por otra vía."
+        },
+        {
+          "letter": "C",
+          "text": "El referendo derogatorio convocado por el Presidente en ejercicio de la tutela",
+          "is_correct": false,
+          "feedback": "El Presidente no tutela ni convoca referendos derogatorios de esa manera; son figuras de naturaleza opuesta."
+        },
+        {
+          "letter": "D",
+          "text": "La delegación de funciones judiciales a las personerías municipales",
+          "is_correct": false,
+          "feedback": "Las personerías promueven derechos y rinden quejas disciplinarias, pero no ejercen jurisdicción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El \"estado de cosas inconstitucional\" —figura acuñada por la Corte Constitucional en la Sentencia T-25 de 1993 sobre hacinamiento carcelario y perfeccionada en la T-025 de 2004 sobre desplazamiento— permite identificar vulneraciones masivas y ordenar transformaciones estructurales con seguimiento mediante autos. Analizarla exige evaluar su legitimidad, sus límites y sus costos institucionales, competencia ciudadana de alto nivel cognitivo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle-v17",
+      "statement": "La evaluación más rigurosa de la masividad de la tutela en Colombia sostiene que",
+      "context": "Un comité estudiantil de un colegio de Villavicencio debate la afirmación: \"la tutela es un parche que reemplaza al Estado social\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tutela es irrelevante porque la mayoría de fallos no se acatan nunca",
+          "is_correct": false,
+          "feedback": "Es una exageración: existe una tasa considerable de cumplimiento y mecanismos de coerción; además el acatamiento es el problema, no la irrelevancia."
+        },
+        {
+          "letter": "B",
+          "text": "La tutela revela tanto una conquista en garantía de derechos como un déficit de eficacia de las políticas públicas, que debería canalizar los derechos socialmente",
+          "is_correct": true,
+          "feedback": "Correcto. La lectura equilibrada reconoce su valor y denuncia sus causas estructurales."
+        },
+        {
+          "letter": "C",
+          "text": "La tutela debería suprimirse para descargar a los jueces de trabajo",
+          "is_correct": false,
+          "feedback": "Suprimir el amargo constitucional vaciaría el artículo 86 y la justiciabilidad de derechos; el problema no es el mecanismo sino la gestión pública."
+        },
+        {
+          "letter": "D",
+          "text": "La tutela prueba que Colombia es el país con mejor salud del mundo",
+          "is_correct": false,
+          "feedback": "Ningún indicador avala esa afirmación; además el litigio constitucional no es un dato de resultado sanitario."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar críticamente un fenómeno jurídico exige no quedarse en el lema: la tutela es a la vez termómetro del activismo ciudadano y radiografía de la ineficiencia estatal. Los informes de la Corte Constitucional sobre el impacto de las tutelas evidencian concentración en salud, pensión y debido proceso, y una correlación entre deficiencias del servicio público y litigiosidad. Ese doble rostro —derecho y síntoma— es el punto de llegada de un análisis de grado 11.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.5,
+      "bundle_id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle-v18",
+      "statement": "La propuesta de condicionar el acceso a la tutela a filtros previos, evaluada desde el artículo 86 y la jurisprudencia, resulta",
+      "context": "En una audiencia pública de control político en la Asamblea de Boyacá se discute si la Defensoría debería filtrar tutelas \"menores\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Compatible con la Constitución, porque el Estado puede restringir derechos por razones de congestión judicial",
+          "is_correct": false,
+          "feedback": "La congestión no autoriza restringir derechos; la informalidad y gratuidad son notas esenciales del amparo."
+        },
+        {
+          "letter": "B",
+          "text": "Incompatible en principio, porque la tutela es informal, preferente, sumaria y su ejercicio no puede condicionarse a trámites que la hagan nugatoria",
+          "is_correct": true,
+          "feedback": "Correcto. Cualquier filtro obligatorio tensiona el acceso a la justicia consagrado en los artículos 86 y 228."
+        },
+        {
+          "letter": "C",
+          "text": "Necesaria, porque los jueces de tutela solo resuelven asuntos de gran trascendencia económica",
+          "is_correct": false,
+          "feedback": "La premisa es falsa: los jueces de tutela resuelven mayoritariamente casos de derechos fundamentales cotidianos."
+        },
+        {
+          "letter": "D",
+          "text": "Imposible, porque la Defensoría del Pueblo no existe institucionalmente",
+          "is_correct": false,
+          "feedback": "La Defensoría del Pueblo sí existe: fue creada por el artículo 281 de la Constitución y la Ley 24 de 1992."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El diseño anti-formalista de la tutela responde a su función: acceso universal a la justicia constitucional. Filtrar por cuantía, por \"trascendencia\" o por intermediación burocrática reintroduce las barreras de clase que el constituyente de 1991 quiso demoler. Una evaluación rigurosa puede proponer gestión —descongestión, digitalización, control de cumplimiento— sin tocar el núcleo del derecho de petición del amparo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.5,
+      "bundle_id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle-v19",
+      "statement": "Al ponderar acción popular y libertad económica en un proyecto de inversión con afectaciones ambientales, el marco constitucional colombiano exige",
+      "context": "Un grupo de grado 11 de un colegio de Armenia debate si las acciones populares son un freno legítimo al desarrollo económico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sacrificar siempre el ambiente, porque la inversión crea empleo",
+          "is_correct": false,
+          "feedback": "El empleo es valor constitucional, pero no tiene primacía automática frente al ambiente sano de los artículos 79 y 80."
+        },
+        {
+          "letter": "B",
+          "text": "Prohibir toda actividad económica privada en áreas rurales del país",
+          "is_correct": false,
+          "feedback": "La Constitución garantiza la iniciativa privada (artículo 333); prohibirla en el campo carece de fundamento."
+        },
+        {
+          "letter": "C",
+          "text": "Armonizar ambos principios mediante licencias, participación de la comunidad y control judicial, sin prevalencia abstracta de uno sobre otro",
+          "is_correct": true,
+          "feedback": "Correcto. La concordancia práctica de principios es el método constitucional para resolver tensiones."
+        },
+        {
+          "letter": "D",
+          "text": "Remitir la decisión a un arbitraje internacional de consumo",
+          "is_correct": false,
+          "feedback": "El arbitraje de consumo resuelve conflictos entre consumidores y comerciantes, no tensiones ambientales de inversión."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los principios constitucionales no tienen jerarquía fija: ambiente (artículos 79-80), libre competencia (artículo 333) y trabajo (artículo 25) se resuelven mediante ponderación, licenciamiento ambiental, consulta cuando hay comunidades étnicas y control jurisdiccional. Evaluar este choque de valores es el corazón de la competencia \"pensamiento sistémico\" de los estándares ciudadanos del MEN: ninguna garantía se defiende anulando las otras.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.45,
+      "bundle_id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle-v20",
+      "statement": "La relación entre las acciones colectivas ordinarias y el Sistema Integral de Verdad, Justicia, Reparación y No Repetición derivado del Acuerdo de Paz de 2016 se evalúa correctamente al afirmar que",
+      "context": "En un simulacro de audiencia de la JEP en Bogotá, se discute el lugar de las acciones colectivas de víctimas ante la justicia transicional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las vías transicionales desplazaron por completo a los mecanismos constitucionales ordinarios de reparación",
+          "is_correct": false,
+          "feedback": "Las vías administrativas y judiciales ordinarias siguen vigentes; la jurisdicción transicional es complementaria y especializada."
+        },
+        {
+          "letter": "B",
+          "text": "Los mecanismos colectivos y la Ruta de reparación son sendas complementarias: las acciones ciudadanas ordinarias siguen vivas frente a responsables y obligaciones no asumidas por el sistema transicional",
+          "is_correct": true,
+          "feedback": "Correcto. La coexistencia de vías es principio del diseño del Acuerdo Final."
+        },
+        {
+          "letter": "C",
+          "text": "Las víctimas deben elegir una sola vía y pierden las demás si participan en alguna",
+          "is_correct": false,
+          "feedback": "La renuncia a otras vías no es requisito; sí debe evitarse la doble indemnización del mismo perjuicio."
+        },
+        {
+          "letter": "D",
+          "text": "La tutela de derechos de víctimas está prohibida mientras exista la Unidad de Búsqueda",
+          "is_correct": false,
+          "feedback": "No existe tal prohibición: la tutela continúa siendo mecanismo válido para proteger derechos fundamentales de las víctimas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Acuerdo Final de 2016 construyó un sistema integral (JEP, Comisión de la Verdad, Unidad de Búsqueda de Personas dadas por Desaparecidas, medidas de reparación) sin extinguir las garantías constitucionales ordinarias: tutela, acción popular, justicia contenciosa y penal permanecen. Evaluar el sistema exige comprender el principio de complementariedad y la prohibición de revictimización: la participación de las víctimas no es optativa ni sustituible por decisiones verticales del Estado.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.45,
+      "bundle_id": "CO-SOC-11-2026-W33-accion-colectiva-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

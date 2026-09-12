@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-3-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T16:46:07.401Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-6-2026-W03-mezclas-separacion-001-MASTERY-bundle-v1",
+      "statement": "Una mezcla se diferencia de una sustancia pura porque:",
+      "context": "En clase en Bogotá, se diferencia entre sustancias puras y mezclas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mezcla está formada por dos o más componentes que conservan sus propiedades.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada componente mantiene sus propiedades."
+        },
+        {
+          "letter": "B",
+          "text": "La sustancia pura tiene varios componentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo tiene uno."
+        },
+        {
+          "letter": "C",
+          "text": "La mezcla no se puede separar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se puede separar."
+        },
+        {
+          "letter": "D",
+          "text": "La sustancia pura cambia de composición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mantiene composición fija."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las mezclas se clasifican en homogéneas y heterogéneas según su apariencia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-6-2026-W03-mezclas-separacion-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W03-mezclas-separacion-001-MASTERY-bundle-v2",
+      "statement": "Una mezcla homogénea es aquella que:",
+      "context": "En clase en Medellín, se observa el agua con sal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presenta una sola fase y composición uniforme.",
+          "is_correct": true,
+          "feedback": "Correcto. No se distinguen sus componentes a simple vista."
+        },
+        {
+          "letter": "B",
+          "text": "Tiene componentes visibles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sería heterogénea."
+        },
+        {
+          "letter": "C",
+          "text": "Solo contiene gases.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Puede ser sólida, líquida o gaseosa."
+        },
+        {
+          "letter": "D",
+          "text": "Es siempre sólida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay mezclas homogéneas líquidas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ejemplos de mezclas homogéneas son el agua con sal disuelta o el aire.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-6-2026-W03-mezclas-separacion-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W03-mezclas-separacion-001-MASTERY-bundle-v3",
+      "statement": "Un ejemplo de mezcla heterogénea es:",
+      "context": "En clase en Cali, se identifican mezclas heterogéneas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ensalada de frutas.",
+          "is_correct": true,
+          "feedback": "Correcto. Se distinguen sus componentes."
+        },
+        {
+          "letter": "B",
+          "text": "Agua con sal disuelta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es homogénea."
+        },
+        {
+          "letter": "C",
+          "text": "Alcohol con agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es homogénea."
+        },
+        {
+          "letter": "D",
+          "text": "Aire puro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es homogéneo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En una mezcla heterogénea se distinguen las fases a simple vista o con lupa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.84,
+      "bundle_id": "CO-CN-6-2026-W03-mezclas-separacion-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W03-mezclas-separacion-001-MASTERY-bundle-v4",
+      "statement": "Para separar agua y aceite se puede usar:",
+      "context": "En clase en Pereira, se introducen métodos de separación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Decantación, porque tienen distinta densidad.",
+          "is_correct": true,
+          "feedback": "Correcto. El aceite flota sobre el agua."
+        },
+        {
+          "letter": "B",
+          "text": "Filtración simple únicamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No retiene el aceite."
+        },
+        {
+          "letter": "C",
+          "text": "Sublimación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno sublima."
+        },
+        {
+          "letter": "D",
+          "text": "Cromatografía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aplica aquí."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La decantación aprovecha la diferencia de densidad entre dos líquidos inmiscibles.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.84,
+      "bundle_id": "CO-CN-6-2026-W03-mezclas-separacion-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W03-mezclas-separacion-001-MASTERY-bundle-v5",
+      "statement": "La filtración es útil para separar:",
+      "context": "En Tunja, se filtra una mezcla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un sólido insoluble del líquido en el que está suspendido.",
+          "is_correct": true,
+          "feedback": "Correcto. Ej.: arena y agua."
+        },
+        {
+          "letter": "B",
+          "text": "Dos líquidos miscibles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para eso se usa destilación."
+        },
+        {
+          "letter": "C",
+          "text": "Gases entre sí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aplica."
+        },
+        {
+          "letter": "D",
+          "text": "Sustancias disueltas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La filtración no retiene solutos disueltos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La filtración usa un medio poroso que retiene partículas sólidas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-6-2026-W03-mezclas-separacion-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W03-mezclas-separacion-001-MASTERY-bundle-v6",
+      "statement": "La destilación permite separar:",
+      "context": "En Manizales, se destila agua con sal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Líquidos con diferentes puntos de ebullición o un sólido disuelto en un líquido.",
+          "is_correct": true,
+          "feedback": "Correcto. Se evapora un componente y se condensa."
+        },
+        {
+          "letter": "B",
+          "text": "Solo sólidos insolubles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para eso se filtra."
+        },
+        {
+          "letter": "C",
+          "text": "Mezclas heterogéneas únicamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Funciona también con homogéneas."
+        },
+        {
+          "letter": "D",
+          "text": "Sustancias magnéticas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usa imán."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La destilación combina evaporación y condensación para purificar líquidos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-6-2026-W03-mezclas-separacion-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W03-mezclas-separacion-001-MASTERY-bundle-v7",
+      "statement": "Para separar limaduras de hierro mezcladas con arena se usa:",
+      "context": "En clase en Armenia, se usa un imán.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Imantación, porque el hierro es atraído por el imán.",
+          "is_correct": true,
+          "feedback": "Correcto. Las limaduras se adhieren al imán."
+        },
+        {
+          "letter": "B",
+          "text": "Decantación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay diferencia de densidad suficiente."
+        },
+        {
+          "letter": "C",
+          "text": "Filtración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos sólidos pasarían."
+        },
+        {
+          "letter": "D",
+          "text": "Cromatografía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aplica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La imantación aprovecha las propiedades magnéticas de algunos materiales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.74,
+      "bundle_id": "CO-CN-6-2026-W03-mezclas-separacion-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W03-mezclas-separacion-001-MASTERY-bundle-v8",
+      "statement": "Para obtener sal a partir de agua de mar, el método más usado industrialmente es:",
+      "context": "En clase en Popayán, se analiza la evaporación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Evaporación y cristalización.",
+          "is_correct": true,
+          "feedback": "Correcto. El agua se evapora y la sal cristaliza."
+        },
+        {
+          "letter": "B",
+          "text": "Centrifugación únicamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No separa la sal."
+        },
+        {
+          "letter": "C",
+          "text": "Cromatografía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No escala industrialmente."
+        },
+        {
+          "letter": "D",
+          "text": "Sublimación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sal no sublima."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La sal marina se obtiene por evaporación solar en grandes extensiones.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-6-2026-W03-mezclas-separacion-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W03-mezclas-separacion-001-MASTERY-bundle-v9",
+      "statement": "Para purificar agua contaminada con microorganismos en una zona rural, lo más apropiado es:",
+      "context": "En un proyecto en Bucaramanga, se elige un método.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hervirla y/o usar filtros con carbón activado.",
+          "is_correct": true,
+          "feedback": "Correcto. Elimina patógenos y mejora sabor."
+        },
+        {
+          "letter": "B",
+          "text": "Agregar más microorganismos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aumenta el riesgo."
+        },
+        {
+          "letter": "C",
+          "text": "Mezclar con gasolina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La contamina más."
+        },
+        {
+          "letter": "D",
+          "text": "Beberla directamente del río.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Riesgo para la salud."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El acceso a agua limpia es clave para la salud pública.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-6-2026-W03-mezclas-separacion-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W03-mezclas-separacion-001-MASTERY-bundle-v10",
+      "statement": "Separar los residuos sólidos urbanos es importante porque:",
+      "context": "En un cierre en Medellín, se reflexiona sobre el reciclaje.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite reciclar, reduce la contaminación y aprovecha los materiales.",
+          "is_correct": true,
+          "feedback": "Correcto. La separación en la fuente es clave."
+        },
+        {
+          "letter": "B",
+          "text": "Solo incrementa el trabajo en las ciudades.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tiene beneficios ambientales."
+        },
+        {
+          "letter": "C",
+          "text": "Hace más difícil el reciclaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lo facilita."
+        },
+        {
+          "letter": "D",
+          "text": "No aporta beneficios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contribuye a la sostenibilidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La separación adecuada en la fuente es la base del reciclaje efectivo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-6-2026-W03-mezclas-separacion-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

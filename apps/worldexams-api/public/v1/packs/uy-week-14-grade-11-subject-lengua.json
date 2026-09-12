@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "uy",
+    "pack_id": "uy-week-14-grade-11-subject-lengua",
+    "generated_at": "2026-09-12T16:46:07.959Z"
+  },
+  "questions": [
+    {
+      "id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la cantidad de páginas de periódicos del siglo XIX que la Biblioteca Nacional puso a disposición digital?",
+      "context": "Leé el fragmento del informe de la Biblioteca Nacional de Montevideo: \"La digitalización de las colecciones de periódicos uruguayos del siglo XIX ha permitido poner a disposición del público más de cincuenta mil páginas de acceso libre. Este archivo digital preserva la prensa histórica frente al deterioro del papel original por la humedad y el paso del tiempo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cinco mil páginas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto indica expresamente cincuenta mil páginas."
+        },
+        {
+          "letter": "B",
+          "text": "Más de cincuenta mil páginas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El fragmento menciona explícitamente \"más de cincuenta mil páginas de acceso libre\"."
+        },
+        {
+          "letter": "C",
+          "text": "Quinientas mil páginas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la cifra reportada en el texto."
+        },
+        {
+          "letter": "D",
+          "text": "Diez mil páginas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cifra no correspondiente con los datos del informe."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La localización de datos cuantitativos explícitos es una destreza básica del nivel de lectura literal en Secundaria.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v2",
+      "statement": "¿Qué factores principales amenazan la conservación del papel de la prensa histórica original según el informe?",
+      "context": "Leé el fragmento del informe de la Biblioteca Nacional de Montevideo: \"La digitalización de las colecciones de periódicos uruguayos del siglo XIX ha permitido poner a disposición del público más de cincuenta mil páginas de acceso libre. Este archivo digital preserva la prensa histórica frente al deterioro del papel original por la humedad y el paso del tiempo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La humedad y el paso del tiempo.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El informe nombra directamente la humedad y el paso del tiempo como causas del deterioro."
+        },
+        {
+          "letter": "B",
+          "text": "Los robos e incendios en los depósitos de Montevideo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se mencionan incendios ni robos en el pasaje."
+        },
+        {
+          "letter": "C",
+          "text": "El uso de tintas importadas de mala calidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay alusiones a la calidad de la tinta."
+        },
+        {
+          "letter": "D",
+          "text": "La falta de espacio en los estantes de la biblioteca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La amenaza descrita es el deterioro físico del papel por humedad y paso del tiempo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El texto enuncia explícitamente las causas físicas del deterioro de la prensa en papel.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el complemento directo (CD) en la oración anterior?",
+      "context": "Considerá la oración: \"Los arqueólogos descubrieron vestigios indígenas en las orillas del río Negro durante las excavaciones\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los arqueólogos",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Los arqueólogos\" es el sujeto."
+        },
+        {
+          "letter": "B",
+          "text": "vestigios indígenas",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es el grupo nominal que recibe la acción verbal y se pronominaliza por *los* (\"Los arqueólogos *los* descubrieron\")."
+        },
+        {
+          "letter": "C",
+          "text": "en las orillas del río Negro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un complemento circunstancial de lugar."
+        },
+        {
+          "letter": "D",
+          "text": "durante las excavaciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un complemento circunstancial de tiempo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El complemento directo responde al reconocimiento mediante la sustitución por los pronombres átonos *lo, la, los, las*.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v4",
+      "statement": "¿Qué conector introduce la finalidad u objetivo perseguido en el enunciado?",
+      "context": "Leé el enunciado: \"Para que el proyecto de reciclaje tenga éxito, es indispensable que los vecinos clasifiquen los residuos en sus hogares\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para que",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Para que\" es una locución conjuntiva final que introduce el propósito perseguido."
+        },
+        {
+          "letter": "B",
+          "text": "Que los vecinos",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"que\" funciona como conjunción completiva de la subordinada sustantiva."
+        },
+        {
+          "letter": "C",
+          "text": "En sus hogares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un complemento preposicional locativo."
+        },
+        {
+          "letter": "D",
+          "text": "Es indispensable",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el núcleo de la oración principal atributiva."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las oraciones subordinadas adverbiales finales introducidas por *para que*, *a fin de que* expresan la intención o meta de la proposición principal.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v5",
+      "statement": "¿Qué figura retórica se configura al identificar \"Tus ojos\" con \"dos carbones encendidos\"?",
+      "context": "Leé el poema: \"Tus ojos son dos carbones encendidos en medio de la noche silente\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hipérbaton sintáctico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sintaxis mantiene el orden normativo."
+        },
+        {
+          "letter": "B",
+          "text": "Metáfora pura/impura en forma atributiva.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Equipara el brillo óptico de los ojos con el fuego de los carbones mediante el verbo copulativo *ser*."
+        },
+        {
+          "letter": "C",
+          "text": "Símil expreso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta el nexo comparativo explícito (*como*, *cual*)."
+        },
+        {
+          "letter": "D",
+          "text": "Aliteración consonántica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No busca efectos fónicos por repetición de fonemas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La metáfora atributiva (A es B) asocia directamente dos entidades de dominios diferentes en virtud de su semejanza sensorial.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.77,
+      "bundle_id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v6",
+      "statement": "¿Qué marcas léxico-dialectales evidencian el uso del español coloquial uruguayo en el enunciado?",
+      "context": "Leé la frase: \"Bo, fijate si en la heladera quedó algo de leche para la merienda de los chiquilines\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El vocativo \"Bo\", el verbo voseante \"fijate\" y el sustantivo \"chiquilines\".",
+          "is_correct": true,
+          "feedback": "¡Correcto! Todos son rasgos sociolingüísticos fuertemente identitarios del registro informal uruguayo."
+        },
+        {
+          "letter": "B",
+          "text": "El uso de la terminología de cortesía castellana peninsular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No usa giros de cortesía peninsular."
+        },
+        {
+          "letter": "C",
+          "text": "La presencia de galicismos gastronómicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay términos tomados del francés."
+        },
+        {
+          "letter": "D",
+          "text": "El empleo exclusivo de tecnicismos científicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un enunciado de registro familiar cotidiano."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El vocabulario regional (*bo*, *chiquilines*) junto a la conjugación del voseo en imperativo (*fijate*) caracterizan el registro oral coloquial del Uruguay.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v7",
+      "statement": "¿Qué tipo de conector encabeza la proposición \"Aunque la empresa constructora ofreció pagar indemnizaciones\"?",
+      "context": "Analizá la oración: \"Aunque la empresa constructora ofreció pagar indemnizaciones, los vecinos de Cabo Polonio rechazaron la instalación del complejo hotelero\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conector causante directo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un nexo causal."
+        },
+        {
+          "letter": "B",
+          "text": "Conector concesivo.",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Aunque\" introduce un obstáculo superado que no impidió el rechazo de los vecinos."
+        },
+        {
+          "letter": "C",
+          "text": "Conector consecutivo de cierre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No expresa una consecuencia."
+        },
+        {
+          "letter": "D",
+          "text": "Conector disyuntivo excluyente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No plantea alternativas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las oraciones subordinadas concesivas argumentan presentando dificultades que no impiden la resolución planteada en la apódosis.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.81,
+      "bundle_id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v8",
+      "statement": "¿Qué relación de cohesión discursiva establece la locución \"por lo tanto\"?",
+      "context": "Leé el fragmento: \"El informe de auditoría reveló irregularidades contables; por lo tanto, el directorio solicitó la renuncia del gerente\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oposición o contraste entre dos hechos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un conector adversativo."
+        },
+        {
+          "letter": "B",
+          "text": "Consecuencia o deducción lógica de lo expresado anteriormente.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Presenta la destitución como efecto directo de los hallazgos de la auditoría."
+        },
+        {
+          "letter": "C",
+          "text": "Ejemplificación ilustrativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No introduce un ejemplo."
+        },
+        {
+          "letter": "D",
+          "text": "Condición previa obligatoria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un nexo condicional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los conectores consecutivos o ilativos (*por lo tanto*, *en consecuencia*) unen la causa previa con la conclusión o deducción lógica resultante.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v9",
+      "statement": "¿En qué tiempo y modo están conjugados respectivamente los verbos \"aumentaran\" y \"mantendría\"?",
+      "context": "Leé con atención: \"Si las autoridades aumentaran los subsidios al transporte público, el precio del boleto se mantendría accesible para la población\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pretérito imperfecto de subjuntivo y condicional simple de indicativo.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es la estructura clásica del período condicional de hipótesis futura (\"aumentaran\" / \"mantendría\")."
+        },
+        {
+          "letter": "B",
+          "text": "Pretérito perfecto simple y futuro imperfecto de indicativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Aumentaran\" no es indicativo."
+        },
+        {
+          "letter": "C",
+          "text": "Presente de subjuntivo y presente de indicativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No están en presente."
+        },
+        {
+          "letter": "D",
+          "text": "Pretérito pluscuamperfecto y condicional compuesto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son formas compuestas que no figuran en el texto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El período condicional irreal o de hipótesis probable combina el imperfecto de subjuntivo en la condición con el condicional simple en la consecuencia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v10",
+      "statement": "¿Qué grupo nominal actúa como complemento indirecto (CI) en el enunciado?",
+      "context": "Considerá la oración: \"El intendente de Maldonado entregó los premios a los deportistas destacados en la rambla de Gorlero\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El intendente de Maldonado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el sujeto de la oración."
+        },
+        {
+          "letter": "B",
+          "text": "los premios",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"los premios\" es el complemento directo."
+        },
+        {
+          "letter": "C",
+          "text": "a los deportistas destacados",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es el receptor o beneficiario de la acción de entregar (sustituible por *les*: \"les entregó los premios\")."
+        },
+        {
+          "letter": "D",
+          "text": "en la rambla de Gorlero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el complemento circunstancial de lugar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El complemento indirecto designa al destinatario de la acción y se reconoce por la preposición *a* y la prueba de pronominalización por *le/les*.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.71,
+      "bundle_id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v11",
+      "statement": "¿Qué función argumentativa desempeña el conector \"no obstante\" en el texto?",
+      "context": "Leé el texto periodístico: \"El gobierno afirma que la inflación está bajo control; no obstante, el costo de la canasta básica familiar continuó aumentando durante todo el semestre\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Confirmar la veracidad del discurso oficial sobre la inflación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, lo relativiza mediante evidencia contrapuesta."
+        },
+        {
+          "letter": "B",
+          "text": "Introducir un hecho empírico que limita o cuestiona la afirmación del gobierno sobre el control económico.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Opone la suba real de la canasta alimentaria frente al optimismo del discurso oficial."
+        },
+        {
+          "letter": "C",
+          "text": "Demostrar que el costo de vida ha bajado considerablemente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto indica que el costo continuó aumentando."
+        },
+        {
+          "letter": "D",
+          "text": "Explicar la causa técnica de la baja de precios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aborda causas de bajas sino evidencia de aumento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los conectores adversativos (*sin embargo*, *no obstante*) sirven en la lectura crítica para revelar contradicciones entre las afirmaciones de los actores y la realidad fáctica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v12",
+      "statement": "¿Qué recurso lírico predomina en el verso \"Río Negro, serpiente oscura\" y qué significado aporta al poema?",
+      "context": "Leé la estrofa: \"Río Negro, serpiente oscura / que atraviesa la pradera, / guardás en tu corriente / la memoria charrúa\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Metáfora apositiva, asociando el curso meándrico del río con la forma de una serpiente.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Identifica el río con la serpiente por su recorrido sinuoso a través de la pradera."
+        },
+        {
+          "letter": "B",
+          "text": "Antítesis entre el agua y la tierra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No contrapone elementos antagónicos."
+        },
+        {
+          "letter": "C",
+          "text": "Hipérbole sobre el caudal del río.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay una exageración descomunal de volumen."
+        },
+        {
+          "letter": "D",
+          "text": "Anáfora lírica de repetición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se repiten palabras al inicio de versos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La metáfora apositiva (Sustantivo 1, Sustantivo 2) caracteriza al elemento real mediante una imagen poética de fuerte valor visual y simbólico.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v13",
+      "statement": "¿Qué estructura organizativa utiliza el autor para definir la identidad rural tradicional?",
+      "context": "Leé el pasaje del ensayo: \"A diferencia de las sociedades industriales donde el individuo se define por su profesión, en la cultura rural uruguaya tradicional la identidad se construía en la pertenencia al pago y en los lazos de vecindad de la comunidad\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ordenación cronológica de hechos históricos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No sigue una línea de tiempo narrativa."
+        },
+        {
+          "letter": "B",
+          "text": "Estructura de comparación y contraste entre dos modelos culturales.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Confronta la sociedad industrial (identidad por profesión) frente a la cultura rural (identidad por territorio y comunidad)."
+        },
+        {
+          "letter": "C",
+          "text": "Enumeración descriptiva de herramientas de trabajo del campo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una lista de utensilios o tareas rurales."
+        },
+        {
+          "letter": "D",
+          "text": "Esquema de causa-efecto económico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La comparación es sociocultural, no una derivación causal de mercado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La estructura de comparación y contraste aclara conceptos complejos delimitando las semejanzas y diferencias entre dos realidades o modelos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.71,
+      "bundle_id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v14",
+      "statement": "¿Qué diferencia gramatical y funcional se observa entre ambas oraciones?",
+      "context": "Considerá las oraciones:\n1. *El concejo municipal aprobó el proyecto de ciclovías.*\n2. *El proyecto de ciclovías fue aprobado por el concejo municipal.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La 1 está en tiempo pasado y la 2 en tiempo futuro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas expresan hechos pasados consumados."
+        },
+        {
+          "letter": "B",
+          "text": "La 1 está en voz activa (focaliza en el sujeto agente) y la 2 en voz pasiva (focaliza en el objeto afectado).",
+          "is_correct": true,
+          "feedback": "¡Correcto! El cambio de voz altera el foco informativo tematizando el proyecto de ciclovías en la pasiva."
+        },
+        {
+          "letter": "C",
+          "text": "La 2 contiene un error de concordancia en el verbo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"fue aprobado\" concuerda perfectamente con \"el proyecto\"."
+        },
+        {
+          "letter": "D",
+          "text": "La 1 es una subordinada condicional y la 2 es una oración simple.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas son oraciones simples independientes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La transformación pasiva permite desplazar el interés comunicativo hacia la entidad que recibe la acción (tematización), relegando al agente a un término opcional.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v15",
+      "statement": "¿Qué función sintáctica cumple la cláusula \"que la educación técnica requiere un incremento de la inversión pública para modernizar sus laboratorios\"?",
+      "context": "Leé con atención el texto: \"Es evidente que la educación técnica requiere un incremento de la inversión pública para modernizar sus laboratorios\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Subordinada sustantiva en función de sujeto del adjetivo atributivo \"evidente\".",
+          "is_correct": true,
+          "feedback": "¡Correcto! Equivale a \"Eso es evidente\", funcionando como sujeto de la oración principal impersonalitativa."
+        },
+        {
+          "letter": "B",
+          "text": "Subordinada adjetiva de relativo especificativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No modifica a ningún sustantivo antecedente."
+        },
+        {
+          "letter": "C",
+          "text": "Complemento directo del verbo \"ser\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verbo atributivo \"es\" no lleva complemento directo."
+        },
+        {
+          "letter": "D",
+          "text": "Subordinada adverbial de causa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No expresa causa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En estructuras atributivas impersonales (*Es evidente / claro / necesario + que...*), la proposición subordinada completiva introducida por *que* actúa como sujeto gramatical.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.69,
+      "bundle_id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v16",
+      "statement": "¿Qué tipo de conector complejo estructura la relación en la oración?",
+      "context": "Analizá el enunciado: \"El docente no solo corrigió los trabajos prácticos en la fecha estipulada, sino que redactó devoluciones individuales para cada alumno\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conector disyuntivo excluyente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No contrapone opciones excluyentes."
+        },
+        {
+          "letter": "B",
+          "text": "Conector correlativo aditivo enfático (\"no solo... sino que...\").",
+          "is_correct": true,
+          "feedback": "¡Correcto! Suma dos acciones destacando el mayor compromiso de la segunda."
+        },
+        {
+          "letter": "C",
+          "text": "Conector consecutivo de cierre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No expresa consecuencia."
+        },
+        {
+          "letter": "D",
+          "text": "Conector de condición restrictiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No impone condiciones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las estructuras correlativas aditivas (*no solo... sino también/que*) agregan información resaltando la importancia del segundo elemento adicionado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.68,
+      "bundle_id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v17",
+      "statement": "Evaluá la estrategia argumentativa utilizada por el orador al calificar a la oposición.",
+      "context": "Leé el pasaje del discurso político: \"Nuestra propuesta de reforma tributaria es un acto de justicia social indispensable. Quienes se oponen a ella solo buscan defender los privilegios de las corporaciones financieras que han empobrecido al país\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presenta un análisis económico riguroso con datos estadísticos neutrales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aporta cifras ni estadísticas de la reforma."
+        },
+        {
+          "letter": "B",
+          "text": "Incurre en una descalificación ad hominem y un dilema maniqueo, reduciendo el debate a una lucha moral entre patriotas e intereses corporativos.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ataca la moral de los opositores acusable de defender privilegios en lugar de refutar sus argumentos técnicos."
+        },
+        {
+          "letter": "C",
+          "text": "Utiliza un razonamiento inductivo intachable basado en ejemplos históricos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No construye una inducción histórica documentada."
+        },
+        {
+          "letter": "D",
+          "text": "Apela a la autoridad científica de economistas académicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No apela a autoridades del ámbito académico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El análisis crítico del discurso político devela el uso de ataques personales (*ad hominem*) y simplificaciones maniqueas diseñadas para desacreditar la postura contraria sin debatir el fondo del asunto.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.66,
+      "bundle_id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v18",
+      "statement": "Evaluá la importancia de la obra de Juana de Ibarbourou según la interpretación del texto.",
+      "context": "Leé la reflexión sobre la literatura nacional: \"La poesía de Juana de Ibarbourou en 'Las lenguas de diamante' rompió con la melancolía del modernismo tardío, imponiendo un canto vitalista, sensorial y pagano a la naturaleza rioplatense que transformó las letras hispanoamericanas\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fue una continuación servil de las normas líricas del siglo XIX.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto indica que \"rompió con la melancolía del modernismo\"."
+        },
+        {
+          "letter": "B",
+          "text": "Representó una ruptura estética renovadora que introdujo el vitalismo y la sensorialidad pagana en la poesía de la región.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Destaca el giro estético fundacional de su obra frente a la tradición previa."
+        },
+        {
+          "letter": "C",
+          "text": "Se limitó a copiar el estilo de la poesía vanguardista europea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No la define como copia ni cita referentes europeos."
+        },
+        {
+          "letter": "D",
+          "text": "Careció de trascendencia fuera de las fronteras uruguayas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Afirma expresamente que \"transformó las letras hispanoamericanas\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La evaluación historiográfica de la literatura reconoce en *Las lenguas de diamante* (1919) la irrupción de una sensibilidad vitalista y gozosa de la naturaleza que renovó la lírica hispanoamericana.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.64,
+      "bundle_id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v19",
+      "statement": "¿Qué necesidad didáctica fundamental prioriza el texto en la formación de los estudiantes?",
+      "context": "Considerá el análisis pedagógico: \"Exigir a los estudiantes que redacten ensayos académicos sin enseñarles previamente a seleccionar fuentes confiables en Internet es condenarlos al plagio involuntario y a la reproducción de noticias falsas\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prohibir el uso de computadoras en las aulas de Secundaria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No sugiere prohibir la tecnología sino enseñar a usarla."
+        },
+        {
+          "letter": "B",
+          "text": "Desarrollar alfabetización informacional y pensamiento crítico para la evaluación rigurosa de fuentes digitales.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Defiende que la investigación escolar requiere el aprendizaje de competencias de filtrado y validación de fuentes."
+        },
+        {
+          "letter": "C",
+          "text": "Obligar a memorizar enciclopedias impresas en papel.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aboga por el memorismo de enciclopedias tradicionales."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminar la redacción de ensayos de las evaluaciones finales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No propone suprimir los ensayos sino enseñar la metodología de investigación previa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La didáctica de la escritura académica exige integrar la curaduría crítica de contenidos digitales para evitar la desinformación y garantizar la honestidad intelectual.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.63,
+      "bundle_id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v20",
+      "statement": "Evaluá el impacto de la adjetivación valorativa en la prensa sensacionalista según el fragmento.",
+      "context": "Leé el fragmento sobre análisis del discurso periodístico: \"Los titulares de la prensa sensacionalista recurren sistemáticamente a adjetivos valorativos y verbos hiperbólicos. Este sesgo léxico no busca informar de manera objetiva, sino provocar reacciones emocionales primarias —como miedo o indignación— en el lector para asegurar el consumo del medio\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Funciona como una estrategia mercantil de manipulación afectiva que distorsiona la neutralidad informativa para generar audiencia mediante el escándalo.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Devela que la selección léxica peyorativa busca la manipulación emocional del receptor con fines comerciales."
+        },
+        {
+          "letter": "B",
+          "text": "Garantiza una descripción impecable y rigurosa de la realidad fáctica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto afirma que \"no busca informar de manera objetiva\"."
+        },
+        {
+          "letter": "C",
+          "text": "Ayuda a que los lectores comprendan mejor la complejidad del contexto político.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No favorece la comprensión sino la reacción emocional primaria."
+        },
+        {
+          "letter": "D",
+          "text": "Es un recurso poético destinado a elevar el nivel literario del periodismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se analiza como estrategia sensacionalista mercantil, no como arte lírico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La lectura crítica de los medios masivos analiza cómo la adjetivación sesgada y el sensacionalismo mercantil mercantilizan las emociones del público vulnerando la objetividad informativa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
+      "bundle_id": "UY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    }
+  ]
+}

@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "sociales",
+    "country": "uy",
+    "pack_id": "uy-week-12-grade-11-subject-sociales",
+    "generated_at": "2026-09-12T16:46:07.976Z"
+  },
+  "questions": [
+    {
+      "id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v1",
+      "statement": "¿Qué rasgo demográfico estructural define a la población uruguaya en comparación con la mayoría de los países de América Latina?",
+      "context": "Según datos del Instituto Nacional de Estadística (INE), la población de Uruguay presenta una estructura por edades caracterizada por una alta proporción de adultos mayores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Envejecimiento poblacional temprano y baja tasa de natalidad.",
+          "is_correct": true,
+          "feedback": "Correcto. Uruguay completó su transición demográfica tempranamente, presentando una población envejecida y baja fertilidad."
+        },
+        {
+          "letter": "B",
+          "text": "Explosión demográfica acelerada con mayoría de niños menores de 5 años.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Uruguay no presenta tasas de natalidad altas ni pirámide joven expansiva."
+        },
+        {
+          "letter": "C",
+          "text": "Predominio absoluto de población rural viviendo en estancias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Más del 94% de la población uruguaya vive en áreas urbanas."
+        },
+        {
+          "letter": "D",
+          "text": "Tasa de mortalidad infantil superior al 50% en áreas metropolitanas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Uruguay ostenta una de las tasas de mortalidad infantil más bajas de la región."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Uruguay se distingue en América Latina por su transición demográfica precoz, caracterizada por baja fecundidad y envejecimiento poblacional.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el organismo público oficial en Uruguay responsable de relevar, procesar y difundir las estadísticas demográficas y socioeconómicas del país?",
+      "context": "El Instituto Nacional de Estadística (INE) realiza los Censos Nacionales de Población, Hogares y Viviendas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Banco de la República Oriental del Uruguay (BROU).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El BROU es el banco comercial público del Estado."
+        },
+        {
+          "letter": "B",
+          "text": "El Instituto Nacional de Estadística (INE).",
+          "is_correct": true,
+          "feedback": "Correcto. El INE es el órgano rector de las estadísticas oficiales del Estado uruguayo."
+        },
+        {
+          "letter": "C",
+          "text": "El Ministerio de Relaciones Exteriores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El MRE gestiona la política exterior y diplomática."
+        },
+        {
+          "letter": "D",
+          "text": "La Administración Nacional de Educación Pública (ANEP).",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ANEP rige la educación pública no universitaria."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El INE es el organismo técnico responsable de elaborar los indicadores sociodemográficos oficiales en Uruguay.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v3",
+      "statement": "¿Cómo se denomina este fenómeno de concentración excesiva de población, actividades económicas y servicios en torno a la capital nacional?",
+      "context": "En la geografía humana de Uruguay, más de la mitad de la población total del país reside en el Área Metropolitana de Montevideo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Descentralización administrativa comarcal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La descentralización distribuye funciones fuera de la capital; la concentración es su opuesto."
+        },
+        {
+          "letter": "B",
+          "text": "Macrocefalia urbana (o primacía urbana).",
+          "is_correct": true,
+          "feedback": "Correcto. La macrocefalia urbana hipertrofia la capital respecto al resto del sistema de ciudades del interior."
+        },
+        {
+          "letter": "C",
+          "text": "Ruralización espontánea de los servicios públicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Implica hiperurbanización concentrada en la capital, no dispersión rural."
+        },
+        {
+          "letter": "D",
+          "text": "Distribución espacial perfectamente uniforme.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La distribución espacial uruguaya es profundamente asimétrica en favor del sur."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La macrocefalia urbana hipertrofia a Montevideo frente al resto del territorio, generando desequilibrios en el sistema de ciudades nacional.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v4",
+      "statement": "¿Qué impacto demográfico directo genera la inmigración reciente de jóvenes y familias sobre la estructura de la población uruguaya?",
+      "context": "En los últimos años, Uruguay registra la llegada de importantes corrientes migratorias de países latinoamericanos como Venezuela, Cuba y República Dominicana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acelera el despoblamiento inmediato de las ciudades costeras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La inmigración aporta población a las ciudades receptoras."
+        },
+        {
+          "letter": "B",
+          "text": "Aporta mano de obra en edad activa y contribuye a ralentizar el envejecimiento poblacional.",
+          "is_correct": true,
+          "feedback": "Correcto. Los inmigrantes predominantemente jóvenes en edad de trabajar rejuvenecen la fuerza laboral y aportan al consumo e impuestos."
+        },
+        {
+          "letter": "C",
+          "text": "Invalida el uso de censos de población en el territorio nacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los censos empadronan a toda la población residente independientemente de su origen."
+        },
+        {
+          "letter": "D",
+          "text": "Elimina las tasas de natalidad en todas las economías regionales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contraer familias jóvenes, la inmigración puede estabilizar los nacimientos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La inmigración internacional reciente de adultos jóvenes oxigena la fuerza de trabajo y aporta dinamismo demográfico en un país envejecido.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v5",
+      "statement": "¿Qué consecuencia demográfica a mediano y largo plazo acarrea mantener una Tasa Global de Fecundidad por debajo del umbral de reemplazo?",
+      "context": "Analizás la Tasa Global de Fecundidad (TGF) en Uruguay, la cual descendió a niveles de $1{,}3$ hijos por mujer, muy por debajo de la tasa de reemplazo generacional ($2{,}1$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un incremento exponencial inmediato en la población de edad escolar primaria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un descenso de la fecundidad reduce el número de niños en edad escolar."
+        },
+        {
+          "letter": "B",
+          "text": "La reducción absoluta de la población nativa y el achicamiento de las futuras cohortes en edad de trabajar.",
+          "is_correct": true,
+          "feedback": "Correcto. Al no alcanzar el promedio de 2,1 hijos por mujer, cada nueva generación es numéricamente menor que la anterior, reduciendo la población total."
+        },
+        {
+          "letter": "C",
+          "text": "La duplicación de la tasa de natalidad cada cinco años.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mantener TGF por debajo de 2,1 disminuye el volumen de nacimientos futuros."
+        },
+        {
+          "letter": "D",
+          "text": "La erradicación automática de todas las enfermedades crónicas en adultos mayores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fecundidad no altera la prevalencia epidemiológica individual de enfermedades."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una Tasa Global de Fecundidad por debajo de 2,1 desploma el relevo generacional, conduciendo al envejecimiento avanzado y eventual decrecimiento poblacional.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v6",
+      "statement": "¿Qué perfil geométrico presenta la pirámide poblacional uruguaya y qué tendencia demográfica refleja su base estrecha?",
+      "context": "Estudias la forma de la pirámide de población de Uruguay a partir de los datos censales contemporáneos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pirámide de base ancha y cúspide muy estrecha (expansiva), reflejando alta natalidad y baja esperanza de vida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el perfil de países jóvenes en fases iniciales de transición demográfica."
+        },
+        {
+          "letter": "B",
+          "text": "Pirámide en forma de 'urna' o bulbo (estacionaria/constrictiva), con base estrecha por baja natalidad y centro-cúspide ensanchados.",
+          "is_correct": true,
+          "feedback": "Correcto. La forma de urna con base angosta visibiliza la baja fecundidad y el envejecimiento de la estructura por edades."
+        },
+        {
+          "letter": "C",
+          "text": "Pirámide triangular perfecta con igual número de personas en todas las edades.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mortalidad natural impide que haya igual número de ancianos que de niños en pirámides triangulares."
+        },
+        {
+          "letter": "D",
+          "text": "Pirámide invertida donde el 90% de la población se concentra en menores de 1 año.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es biológicamente imposible tener 90% de lactantes sin cohorte de adultos que los engendren y sostengan."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La pirámide uruguaya en forma de urna (constrictiva) refleja el denso envejecimiento poblacional y el persistente descenso de la natalidad.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.72,
+      "bundle_id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v7",
+      "statement": "¿Cómo altera el envejecimiento de la población uruguaya la composición de la carga de dependencia demográfica sobre la población en edad de trabajar?",
+      "context": "Se analiza la 'relación de dependencia demográfica' ($RD$), que compara la población en edades no activas (menores de 15 años y mayores de 65) frente a la población activa (15 a 64 años).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta la carga de dependencia infantil mientras disminuye la de adultos mayores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La baja natalidad reduce la dependencia infantil, ocurriendo lo opuesto."
+        },
+        {
+          "letter": "B",
+          "text": "Disminuye la proporción de dependientes infantiles y aumenta significativamente la carga de dependencia de adultos mayores.",
+          "is_correct": true,
+          "feedback": "Correcto. La menor natalidad contrae el número de niños, desplazando el peso de la relación de dependencia hacia los adultos mayores no activos."
+        },
+        {
+          "letter": "C",
+          "text": "Elimina la necesidad de financiar pasividades o pensiones en el BPS.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aumento de adultos mayores exige mayor gasto en pensiones y salud pasiva."
+        },
+        {
+          "letter": "D",
+          "text": "Iguala la tasa de mortalidad infantil con la esperanza de vida al nacer.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son indicadores demográficos conceptualmente distintos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El envejecimiento de la estructura por edades desplaza la demanda de bienes públicos desde la infancia hacia la seguridad social y salud gerontológica.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué se sostiene que Uruguay se encuentra en la etapa final del aprovechamiento de su 'bono demográfico'?",
+      "context": "El concepto de 'bono demográfico' (o ventana de oportunidad demográfica) ocurre cuando la proporción de población en edad de trabajar supera a la población dependiente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque se ha prohibido el ingreso de jóvenes al mercado de trabajo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mercado laboral incentiva el empleo juvenil."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el veloz aumento de la cohorte de adultos mayores comenzará a superar la contracción de la cohorte juvenil en las próximas décadas.",
+          "is_correct": true,
+          "feedback": "Correcto. El envejecimiento acelerado reduce la proporción de población potencialmente activa, cerrando la ventana de bono demográfico."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el país ha decidido duplicar su territorio mediante conquistas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El territorio nacional permanece inalterado."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la esperanza de vida en Uruguay ha descendido a los 40 años.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La esperanza de vida uruguaya supera los 77 años en promedio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El cierre del bono demográfico implica que la población en edad de trabajar dejará de crecer en proporción a los dependientes adultos mayores.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.68,
+      "bundle_id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v9",
+      "statement": "¿Qué impacto socioeconómico provoca la emigración juvenil del medio rural e interior profundo sobre las comunidades de origen?",
+      "context": "En el interior profundo de Uruguay, departamentos como Durazno, Tacuarembó o Florida enfrentan la emigración de sus jóvenes hacia Montevideo o las capitales departamentales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta la tasa de natalidad rural de forma acelerada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La salida de jóvenes en edad fértil reduce la natalidad rural."
+        },
+        {
+          "letter": "B",
+          "text": "Envejecimiento acentuado, pérdida de capital humano capacitado y vaciamiento del tejido socio-productivo local.",
+          "is_correct": true,
+          "feedback": "Correcto. La partida de jóvenes depaupera la fuerza laboral local, envejeciendo la población rural y reduciendo el recambio generacional."
+        },
+        {
+          "letter": "C",
+          "text": "Un aumento inmediato del valor de la tierra agrícola por falta de uso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vaciamiento poblacional no eleva el valor productivo del suelo por despoblación."
+        },
+        {
+          "letter": "D",
+          "text": "La transformación del suelo en arrecifes de coral urbanos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la realidad ambiental o geográfica del interior uruguayo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La migración interna campo-ciudad y del interior hacia Montevideo envejece las estructuras demográficas locales y acentúa la brecha de oportunidades territorial.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.67,
+      "bundle_id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v10",
+      "statement": "¿Qué cambio cultural y social promueve el SNIC respecto a la corresponsabilidad de las tareas de cuidado tradicionalmente no remuneradas?",
+      "context": "El Sistema Nacional Integrado de Cuidados (SNIC) se creó en Uruguay para atender las necesidades de dependencia de la primera infancia, personas con discapacidad y adultos mayores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Obligar a que las tareas de cuidado sean realizadas exclusivamente por las iglesias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El SNIC es una política pública laica e institucional del Estado."
+        },
+        {
+          "letter": "B",
+          "text": "Corresponsabilizar al Estado, la comunidad y el mercado, liberando la carga desproporcionada que recaía sobre las mujeres en los hogares.",
+          "is_correct": true,
+          "feedback": "Correcto. El SNIC profesionaliza los cuidados como un derecho social, superando la división sexual del trabajo que asignaba el cuidado no pago a las mujeres."
+        },
+        {
+          "letter": "C",
+          "text": "Prohibir la atención médica a personas mayores de 65 años.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, promueve la autonomía y atención de adultos mayores dependientes."
+        },
+        {
+          "letter": "D",
+          "text": "Privatizar todas las escuelas públicas del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No modifica la educación pública; crea servicios específicos de cuidados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El SNIC reconoce el cuidado como un derecho social, promoviendo la corresponsabilidad de género y la protección de poblaciones dependientes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v11",
+      "statement": "¿Por qué un sistema previsional de reparto puro (donde los trabajadores activos pagan las jubilaciones de los pasivos actuales) sufre desequilibrio financiero en una sociedad envejecida?",
+      "context": "Analizás la sostenibilidad financiera del sistema de seguridad social administrado por el Banco de Previsión Social (BPS) frente al envejecimiento demográfico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque aumenta el número de cotizantes activos por cada jubilado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurre lo opuesto: disminuye la relación de cotizantes por jubilado."
+        },
+        {
+          "letter": "B",
+          "text": "Porque disminuye la cantidad de trabajadores activos que aportan y aumenta el número y la expectativa de vida de los jubilados que perciben pasividades.",
+          "is_correct": true,
+          "feedback": "Correcto. La relación cotizante/jubilado se estrecha, exigiendo mayores transferencias fiscales del Estado para cubrir el déficit previsional."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los jubilados están obligados a trabajar el doble de horas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las jubilaciones retiran al trabajador del mercado formal laboral."
+        },
+        {
+          "letter": "D",
+          "text": "Porque se prohíbe el cobro de impuestos indirectos como el IVA.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El IVA es el principal impuesto recaudador que financia rentas generales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La alteración de la relación de dependencia previsional (menos aportantes activos por cada pasivo de mayor longevidad) desequilibra los sistemas de reparto puro.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v12",
+      "statement": "¿Qué consecuencia social genera la segregación residencial sobre la cohesión social y el capital social de los jóvenes que crecen en periferias fragmentadas?",
+      "context": "En el Área Metropolitana de Montevideo se observa un proceso de segregación socio-territorial, donde sectores de altos ingresos se concentran en la costa sur (Pocitos, Carrasco) y sectores vulnerables en la periferia norte y oeste.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incrementa la integración social igualitaria entre diferentes clases socioeconómicas en el espacio público.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La segregación aísla los grupos sociales impidiendo la interacción mixta."
+        },
+        {
+          "letter": "B",
+          "text": "Homogeneiza la pobreza en barrios periféricos, reduce las redes de contacto laboral y reproduce la desigualdad de oportunidades.",
+          "is_correct": true,
+          "feedback": "Correcto. La segregación geográfica aísla a los sectores populares en entornos sin servicios de calidad, reproduciendo la exclusión intergeneracional."
+        },
+        {
+          "letter": "C",
+          "text": "Elimina la brecha educativa entre colegios privados y liceos públicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La segregación espacial refuerza la segmentación educativa."
+        },
+        {
+          "letter": "D",
+          "text": "Aumenta el transporte marítimo gratuito entre barrios periféricos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La movilidad urbana periférica suele sufrir déficits de conectividad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La segregación residencial aísla espacialmente a los grupos vulnerables, fragmentando el tejido urbano y limitando las oportunidades de movilidad social.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v13",
+      "statement": "¿Qué costo de oportunidad económico y de desarrollo representa para el país la emigración constante de su capital humano universitario?",
+      "context": "El fenómeno de la 'fuga de cerebros' (emigración de profesionales y científicos altamente calificados) ha afectado históricamente a Uruguay hacia países desarrollados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un aumento automático de la inversión nacional en ciencia y tecnología.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La emigración reduce la masa crítica de investigadores que impulsan la ciencia."
+        },
+        {
+          "letter": "B",
+          "text": "La pérdida de la inversión pública realizada en su formación educativa y la privación de capacidades innovadoras para la economía nacional.",
+          "is_correct": true,
+          "feedback": "Correcto. El Estado invierte recursos en formar profesionales cuyo aporte de productividad e innovación beneficia posteriormente a los países receptores."
+        },
+        {
+          "letter": "C",
+          "text": "La erradicación de los títulos universitarios en el territorio nacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los títulos universitarios mantienen su validez académica y profesional."
+        },
+        {
+          "letter": "D",
+          "text": "El cierre inmediato de las fronteras aduaneras a los bienes importados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La movilidad de profesionales no detiene el comercio exterior de bienes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La migración calificada descapitaliza intelectualmente al país, mermando el retorno social y económico de la inversión en educación superior.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v14",
+      "statement": "¿Qué factores socio-sanitarios explican que Uruguay presente una alta esperanza de vida al nacer dentro del contexto sudamericano?",
+      "context": "Analizás los determinantes de la esperanza de vida al nacer en Uruguay, la cual alcanza los 78 años promedio (con brecha favorable a las mujeres).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La falta de acceso a vacunación y agua potable en la infancia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos factores reducirían severamente la esperanza de vida al nacer."
+        },
+        {
+          "letter": "B",
+          "text": "La cobertura universal de salud (FONASA), altos niveles de potabilización de agua (OSE) y controles de vacunación obligatoria.",
+          "is_correct": true,
+          "feedback": "Correcto. El acceso al Sistema Nacional Integrado de Salud (SNIS), saneamiento universal y prevención sanitaria elevan la longevidad de la población."
+        },
+        {
+          "letter": "C",
+          "text": "El clima tropical desértico sin variaciones estacionales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Uruguay posee clima templado húmedo con cuatro estaciones bien definidas."
+        },
+        {
+          "letter": "D",
+          "text": "La prohibición del ejercicio de la medicina formal en los hospitales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema hospitalario uruguayo posee una larga tradición asistencialista."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La alta esperanza de vida en Uruguay es fruto de la fortaleza histórica de sus sistemas públicos de sanidad, saneamiento hídrico y vacunación universal.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.53,
+      "bundle_id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v15",
+      "statement": "¿Qué desprotección social inmediata experimenta un trabajador que se desempeña en el sector informal sin registro en el BPS?",
+      "context": "En las estadísticas de empleo del INE se distingue entre trabajo formal (con aportes a la seguridad social) e informalidad laboral.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La pérdida de su ciudadanía nacional y pasaporte uruguayo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La informalidad es una condición laboral, no retira la nacionalidad ni la ciudadanía."
+        },
+        {
+          "letter": "B",
+          "text": "Carece de cobertura de seguro de desempleo, subsidio por enfermedad, cobertura de salud familiar y cómputos para la jubilación.",
+          "is_correct": true,
+          "feedback": "Correcto. La informalidad laboral priva al trabajador de los derechos y redes de protección de la seguridad social gestionados por el BPS y FONASA."
+        },
+        {
+          "letter": "C",
+          "text": "La obligación de pagar un impuesto adicional por consumo de alimentos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los trabajadores informales pagan IVA en sus compras como cualquier consumidor."
+        },
+        {
+          "letter": "D",
+          "text": "Exención permanente de pagar transporte público urbano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los boletos de transporte se abonan independientemente del estatus de formalidad laboral."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El registro formal en el BPS otorga derechos de protección social (seguro de paro, salud, licencias, jubilación) indispensables frente a contingencias vitales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.5,
+      "bundle_id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v16",
+      "statement": "¿Por qué la tasa de masculinidad disminuye drásticamente en los tramos de edad avanzada (mayores de 65 años) en Uruguay?",
+      "context": "Se analiza la tasa de masculinidad (número de varones por cada 100 mujeres) en los diferentes tramos de edad en la población uruguaya.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque nacen diez veces más niñas que niños en todas las maternidades.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al nacer hay un leve predominio masculino (105 varones por 100 mujeres)."
+        },
+        {
+          "letter": "B",
+          "text": "Debido a la sobremortalidad masculina en edades adultas por causas cardiovasculares, accidentes y violencia, generando una feminización de la vejez.",
+          "is_correct": true,
+          "feedback": "Correcto. La mayor expectativa de vida de las mujeres frente a la sobremortalidad masculina altera el cociente, provocando la feminización de la tercera edad."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los varones ancianos emigran en masa hacia otros continentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las corrientes migratorias no corresponden a ancianos de más de 80 años en masa."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las mujeres no envejecen biológicamente a partir de los 60 años.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todas las personas envejecen biológicamente según procesos senescentes de la especie."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La sobremortalidad masculina en edades intermedias provoca que en la vejez avanzada predomine numéricamente la cohorte femenina (feminización de la vejez).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v17",
+      "statement": "¿Qué dilema de política fiscal y equidad intergeneracional deberá afrontar el país para financiar el gasto en pensiones y salud sin ahogar la productividad de la escasa fuerza laboral joven?",
+      "context": "Proyectás la sostenibilidad del modelo del Estado de Bienestar uruguayo hacia el año 2050 en un escenario de natalidad extremadamente baja y aumento de la longevidad ($>85\\text{ años}$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumentar la edad legal de retiro, revisar las tasas de reemplazo y diversificar las fuentes de financiamiento del Estado más allá de los impuestos al trabajo.",
+          "is_correct": true,
+          "feedback": "Correcto. Para sostener el sistema sin asfixiar tributariamente a los jóvenes activos, se requiere aumentar la edad de jubilación, elevar la productividad y usar impuestos generales."
+        },
+        {
+          "letter": "B",
+          "text": "Suprimir de inmediato todo el sistema de salud pública y cerrar el BPS.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El desmantelamiento total de la protección social quebrantaría la cohesión y paz social."
+        },
+        {
+          "letter": "C",
+          "text": "Emitir moneda sin respaldo de forma infinita hasta eliminar la inflación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La emisión descontrolada genera hiperinflación, destruyendo el poder adquisitivo de jubilados."
+        },
+        {
+          "letter": "D",
+          "text": "Obligar a los niños menores de 10 años a aportar al sistema previsional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La legislación laboral uruguaya y los convenios de la OIT prohíben el trabajo infantil."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El envejecimiento avanzado obliga a reformar los parámetros previsionales e incorporar ganancias de productividad para asegurar la sostenibilidad fiscal e intergeneracional.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v18",
+      "statement": "¿Qué factores institucionales del diseño histórico de la matriz de protección social explican esta profunda 'infantilización de la pobreza' en la sociedad uruguaya?",
+      "context": "Un informe sociológico evalúa la concentración de la pobreza infantil en Uruguay (afectando a más del 20% de los menores de 6 años) frente a la baja pobreza en adultos mayores ($<3\\%$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el Estado destina el 100% de su presupuesto a la educación inicial infantil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pobreza infantil persiste a pesar del gasto en educación inicial por fallas estructurales de transferencia a hogares con niños."
+        },
+        {
+          "letter": "B",
+          "text": "Un sistema de protección social históricamente centrado en la cobertura de las pasividades de los adultos, con transferencias familiares a la infancia aún insuficientes para sacar a los hogares vulnerables de la pobreza.",
+          "is_correct": true,
+          "feedback": "Correcto. Las redes del BPS protegieron eficazmente a los ancianos (baja pobreza pasiva), pero los hogares jóvenes con niños concentran informalidad y menores transferencias netas."
+        },
+        {
+          "letter": "C",
+          "text": "La prohibición legal de que los niños vivan en viviendas con agua potable.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La legislación promueve el acceso a la vivienda digna e infancia protegida."
+        },
+        {
+          "letter": "D",
+          "text": "El cobro de impuestos excesivos exclusivamente a los recién nacidos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los niños no son sujetos pasivos tributarios directos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La infantilización de la pobreza en Uruguay responde a un sesgo histórico de la matriz de bienestar que protegió la vejez dejando vacíos en las transferencias a familias jóvenes con niños.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v19",
+      "statement": "¿Por qué la mera entrega de viviendas físicas en la periferia distante sin articulación con transporte, empleo, salud y educación de calidad no logra erradicar la exclusión social de los hogares realojados?",
+      "context": "Evalúas las propuestas de política urbana para mitigar la segregación socio-territorial en el Área Metropolitana de Montevideo mediante planes de realojo de asentamientos e integración social.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque las viviendas físicas destruyen la cohesión de las familias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La vivienda brinda techo adecuado; el problema radica en la falta de centralidad y servicios."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la inclusión social requiere 'derecho a la ciudad': acceso a redes de empleo, transporte accesible, servicios públicos de calidad e integración en espacios públicos mixtos.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin conectividad urbana, acceso a empleo formal y servicios de calidad, el realojo periférico perpetúa el aislamiento social y la estigmatización territorial."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los ciudadanos prefieren vivir sin electricidad ni saneamiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todas las familias aspiran a servicios básicos de vivienda digna de calidad."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las casas periféricas se evaporan por la acción del viento pampero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la resistencia física de las construcciones urbanas de materiales firmes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El derecho a la ciudad trasciende el techo individual; exige integración territorial, conectividad de transporte, servicios sociales y cercanía a las oportunidades de empleo.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v20",
+      "statement": "¿Qué reestructuración profunda en la planificación de la infraestructura pública (escuelas, hospitales, transporte) impondrá un escenario de estancamiento y decrecimiento poblacional?",
+      "context": "Se analiza la proyección demográfica del Uruguay hacia el año 2050, estimando que la población total alcanzará un pico y comenzará a decrecer de forma sostenida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Construir mil nuevas escuelas primarias por año en departamentos despoblados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El descenso infantil exige consolidar y reconvertir aulas más que expandir edificios escolares masivamente."
+        },
+        {
+          "letter": "B",
+          "text": "Reorientar la inversión desde la expansión cuantitativa de cobertura básica infantil hacia la calidad educativa, reconvirtiendo infraestructuras hacia servicios gerontológicos y cuidados de larga duración.",
+          "is_correct": true,
+          "feedback": "Correcto. Al haber menos niños y más ancianos, el Estado debe reasignar infraestructuras educativas sobrantes hacia servicios sociosanitarios de adultos mayores y priorizar calidad."
+        },
+        {
+          "letter": "C",
+          "text": "Abogarse exclusivamente a la construcción de puertos de submarinos en la pradera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No responde a las necesidades demográficas o geográficas de la población."
+        },
+        {
+          "letter": "D",
+          "text": "Esterilizar a la totalidad de la población joven en edad reproductiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Violenta los derechos humanos fundamentales e intensificaría el colapso demográfico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El declive demográfico exige reasignar recursos e infraestructura pública: de la expansión cuantitativa escolar a la atención sociosanitaria de la longevidad y calidad del capital humano.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "UY-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    }
+  ]
+}

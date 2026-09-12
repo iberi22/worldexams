@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-34-grade-11-subject-lectura_critica",
+    "generated_at": "2026-09-12T16:46:07.513Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es una característica central del teatro colombiano del siglo XX?",
+      "context": "En una función del Teatro Colón en Bogotá, los estudiantes ven una obra de José María Arguedas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La exploración de la identidad nacional, el conflicto social y la diversidad regional.",
+          "is_correct": true,
+          "feedback": "El teatro colombiano refleja la realidad pluricultural del país."
+        },
+        {
+          "letter": "B",
+          "text": "La evasión total de temas sociales.",
+          "is_correct": false,
+          "feedback": "Por el contrario, los aborda."
+        },
+        {
+          "letter": "C",
+          "text": "El uso exclusivo del dialecto costeño.",
+          "is_correct": false,
+          "feedback": "Integra diversas variantes lingüísticas."
+        },
+        {
+          "letter": "D",
+          "text": "La prohibición de la crítica política.",
+          "is_correct": false,
+          "feedback": "La crítica política ha sido frecuente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El teatro colombiano se nutre de la diversidad cultural y de los debates sociales.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle-v2",
+      "statement": "¿Qué elementos componen una obra teatral?",
+      "context": "En clase en Medellín, se recuerdan obras de Gonzalo Buenaventura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Texto dramático, personajes, diálogos, acotaciones y montaje escénico.",
+          "is_correct": true,
+          "feedback": "Todos estos elementos son constitutivos del texto dramático."
+        },
+        {
+          "letter": "B",
+          "text": "Solo narración y descripción.",
+          "is_correct": false,
+          "feedback": "También hay diálogo y acción."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente vestuario y luces.",
+          "is_correct": false,
+          "feedback": "Falta el texto dramático."
+        },
+        {
+          "letter": "D",
+          "text": "Exclusivamente canciones.",
+          "is_correct": false,
+          "feedback": "No toda obra es musical."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El texto dramático incluye diálogos, acotaciones y se completa en escena con la puesta en escena.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle-v3",
+      "statement": "¿Qué función cumplen las acotaciones en un texto dramático?",
+      "context": "En un taller en Cali, se analizan las acotaciones de una obra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indicar gestos, movimientos, tono, escenografía y sonidos sugeridos por el autor.",
+          "is_correct": true,
+          "feedback": "Orientan la puesta en escena."
+        },
+        {
+          "letter": "B",
+          "text": "Sustituir los diálogos.",
+          "is_correct": false,
+          "feedback": "Los complementan."
+        },
+        {
+          "letter": "C",
+          "text": "Cambiar el argumento principal.",
+          "is_correct": false,
+          "feedback": "Las acotaciones no modifican la trama central."
+        },
+        {
+          "letter": "D",
+          "text": "Anular el conflicto dramático.",
+          "is_correct": false,
+          "feedback": "Pueden reforzarlo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las acotaciones son instrucciones del autor para la representación escénica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle-v4",
+      "statement": "El teatro costumbrista colombiano se caracteriza por:",
+      "context": "En clase en Bucaramanga, se compara el teatro costumbrista con el experimental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Retratar costumbres, tipos sociales y regionalismos con tono crítico o humorístico.",
+          "is_correct": true,
+          "feedback": "Refleja la vida cotidiana de las comunidades."
+        },
+        {
+          "letter": "B",
+          "text": "Abandonar toda referencia local.",
+          "is_correct": false,
+          "feedback": "Justamente resalta lo local."
+        },
+        {
+          "letter": "C",
+          "text": "Ser siempre realista sin crítica.",
+          "is_correct": false,
+          "feedback": "Incluye crítica social."
+        },
+        {
+          "letter": "D",
+          "text": "Evitar el humor.",
+          "is_correct": false,
+          "feedback": "El humor es frecuente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El costumbrismo teatral enriquece la identidad cultural y ofrece crítica social.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle-v5",
+      "statement": "En la obra \"La maestra rural\" (adaptación), ¿cuál es el conflicto principal?",
+      "context": "En un taller en Pereira, se identifican conflictos dramáticos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una receta culinaria.",
+          "is_correct": false,
+          "feedback": "No es el tema central."
+        },
+        {
+          "letter": "B",
+          "text": "La lucha de una docente por llevar educación a una comunidad olvidada.",
+          "is_correct": true,
+          "feedback": "El conflicto central es social y educativo."
+        },
+        {
+          "letter": "C",
+          "text": "Un concurso de canto.",
+          "is_correct": false,
+          "feedback": "No aparece como tema."
+        },
+        {
+          "letter": "D",
+          "text": "Una boda sorpresa.",
+          "is_correct": false,
+          "feedback": "No es el eje dramático."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El conflicto dramático articula la tensión que двига la trama teatral.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la diferencia entre acto y escena en una obra teatral?",
+      "context": "En clase en Armenia, se diferencia entre acto y escena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El acto es una unidad estructural mayor; la escena es una subdivisión del acto.",
+          "is_correct": true,
+          "feedback": "Los actos marcan cambios importantes; las escenas cambios menores."
+        },
+        {
+          "letter": "B",
+          "text": "No existen diferencias.",
+          "is_correct": false,
+          "feedback": "Son unidades distintas."
+        },
+        {
+          "letter": "C",
+          "text": "La escena es más larga que el acto.",
+          "is_correct": false,
+          "feedback": "La jerarquía es inversa."
+        },
+        {
+          "letter": "D",
+          "text": "El acto es solo musical.",
+          "is_correct": false,
+          "feedback": "Puede incluir diálogos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La estructura clásica suele dividirse en tres actos con escenas interiores.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle-v7",
+      "statement": "¿Qué recurso teatral utiliza el dramaturgo para revelar el pasado de un personaje?",
+      "context": "En un taller en Santa Marta, se analizan diálogos de una obra de Enrique Buenaventura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El flashback o retrospectiva mediante diálogo.",
+          "is_correct": true,
+          "feedback": "Es un recurso habitual en el teatro."
+        },
+        {
+          "letter": "B",
+          "text": "Eliminar toda referencia al pasado.",
+          "is_correct": false,
+          "feedback": "El pasado es esencial para la psicología del personaje."
+        },
+        {
+          "letter": "C",
+          "text": "Cambiar el título de la obra.",
+          "is_correct": false,
+          "feedback": "No modifica la historia."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituir el conflicto.",
+          "is_correct": false,
+          "feedback": "Confunde la trama."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El flashback permite profundizar en la motivación de los personajes.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la diferencia entre tragedia y comedia?",
+      "context": "En clase en Ibagué, se comparan géneros dramáticos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tragedia termina en derrota; la comedia busca el humor y обычно termina en reconciliación.",
+          "is_correct": true,
+          "feedback": "La distinción clásica se basa en el desenlace."
+        },
+        {
+          "letter": "B",
+          "text": "La comedia es siempre dramática.",
+          "is_correct": false,
+          "feedback": "Busca generar risa."
+        },
+        {
+          "letter": "C",
+          "text": "No existen diferencias históricas.",
+          "is_correct": false,
+          "feedback": "Son categorías distintas."
+        },
+        {
+          "letter": "D",
+          "text": "La tragedia evita la emoción.",
+          "is_correct": false,
+          "feedback": "La provoca intensamente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aristóteles distinguió tragedia y comedia según el efecto emocional buscado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle-v9",
+      "statement": "¿Qué personaje arquetípico representa la crítica al poder en el teatro colombiano?",
+      "context": "En Neiva, se estudian los personajes arquetípicos del teatro colombiano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El héroe romántico.",
+          "is_correct": false,
+          "feedback": "No encarna la crítica al poder."
+        },
+        {
+          "letter": "B",
+          "text": "El dictador o el caudillo.",
+          "is_correct": true,
+          "feedback": "Encarna la tiranía y la corrupción."
+        },
+        {
+          "letter": "C",
+          "text": "El sirviente cómico.",
+          "is_correct": false,
+          "feedback": "Genera humor, no crítica política."
+        },
+        {
+          "letter": "D",
+          "text": "La madre abnegada.",
+          "is_correct": false,
+          "feedback": "Representa el sacrificio familiar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El arquetipo del caudillo es recurrente en dramaturgos que reflexionan sobre la historia colombiana.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle-v10",
+      "statement": "Al leer en voz alta un texto dramático, lo correcto es:",
+      "context": "En Tunja, se prepara una lectura dramática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Variar el tono, la intensidad y el ritmo según las acotaciones y emociones.",
+          "is_correct": true,
+          "feedback": "La lectura dramática interpreta al personaje."
+        },
+        {
+          "letter": "B",
+          "text": "Leer monótonamente.",
+          "is_correct": false,
+          "feedback": "Pierde expresividad."
+        },
+        {
+          "letter": "C",
+          "text": "Ignorar las acotaciones.",
+          "is_correct": false,
+          "feedback": "Las acotaciones guían la lectura."
+        },
+        {
+          "letter": "D",
+          "text": "Cambiar el texto libremente.",
+          "is_correct": false,
+          "feedback": "El texto es fijo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La lectura en voz alta exige atención a pausas, énfasis y matices interpretativos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle-v11",
+      "statement": "El teatro del absurdo influenció a dramaturgos colombianos porque:",
+      "context": "En un coloquio en Popayán, se analiza la influencia del teatro del absurdo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Refuerza el realismo extremo.",
+          "is_correct": false,
+          "feedback": "Se aleja del realismo."
+        },
+        {
+          "letter": "B",
+          "text": "Permite expresar la falta de sentido y la alienación del individuo moderno.",
+          "is_correct": true,
+          "feedback": "Conecta con problemáticas urbanas y sociales."
+        },
+        {
+          "letter": "C",
+          "text": "Defiende la lógica racional.",
+          "is_correct": false,
+          "feedback": "Cuestiona la racionalidad."
+        },
+        {
+          "letter": "D",
+          "text": "Busca el didactismo moral.",
+          "is_correct": false,
+          "feedback": "Rechaza la moraleja explícita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Autores como Ionesco inspiran a creadores colombianos para explorar lo absurdo cotidiano.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle-v12",
+      "statement": "La obra \"El monte calvo\" de Jairo Aníbal Niño se caracteriza por:",
+      "context": "En clase en Manizales, se estudia la obra de Jairo Aníbal Niño.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fusionar la palabra poética con la expresión corporal en una atmósfera simbólica.",
+          "is_correct": true,
+          "feedback": "Combina texto y movimiento."
+        },
+        {
+          "letter": "B",
+          "text": "Ser una comedia de enredo.",
+          "is_correct": false,
+          "feedback": "Tiene tono más simbólico."
+        },
+        {
+          "letter": "C",
+          "text": "Ser exclusivamente realista.",
+          "is_correct": false,
+          "feedback": "Predomina el símbolo."
+        },
+        {
+          "letter": "D",
+          "text": "Evitar la música.",
+          "is_correct": false,
+          "feedback": "Puede integrarla."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Jairo Aníbal Niño enriqueció el teatro colombiano con una poética visual y simbólica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle-v13",
+      "statement": "El teatro colombiano aporta a la construcción de identidad porque:",
+      "context": "En Pereira, se debate sobre la identidad cultural en el teatro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reconstruye memorias colectivas y visibiliza tradiciones regionales.",
+          "is_correct": true,
+          "feedback": "El teatro es memoria y diálogo cultural."
+        },
+        {
+          "letter": "B",
+          "text": "Copia modelos europeos sin crítica.",
+          "is_correct": false,
+          "feedback": "Dialoga críticamente con ellos."
+        },
+        {
+          "letter": "C",
+          "text": "Evita las lenguas indígenas.",
+          "is_correct": false,
+          "feedback": "Las incorpora en propuestas interculturales."
+        },
+        {
+          "letter": "D",
+          "text": "Niega la diversidad étnica.",
+          "is_correct": false,
+          "feedback": "La reconoce y celebra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El teatro colombiano es una herramienta para la memoria y la interculturalidad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle-v14",
+      "statement": "¿Qué técnica de puesta en escena busca integrar al público en la acción?",
+      "context": "En clase en Bogotá, se estudian las técnicas de puesta en escena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Teatro participativo o interactivo.",
+          "is_correct": true,
+          "feedback": "El público se vuelve parte del espectáculo."
+        },
+        {
+          "letter": "B",
+          "text": "Teatro de butaca exclusivamente.",
+          "is_correct": false,
+          "feedback": "Separa actores y público."
+        },
+        {
+          "letter": "C",
+          "text": "Teatro leído sin representación.",
+          "is_correct": false,
+          "feedback": "No incluye interacción."
+        },
+        {
+          "letter": "D",
+          "text": "Teatro mudo.",
+          "is_correct": false,
+          "feedback": "No implica participación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El teatro participativo amplía la experiencia estética y social del espectador.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle-v15",
+      "statement": "¿Qué cuidado debe tener la adaptación teatral de una novela colombiana?",
+      "context": "En Sincelejo, se evalúa la adaptación de textos literarios al teatro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eliminar todo conflicto.",
+          "is_correct": false,
+          "feedback": "El conflicto двига la trama."
+        },
+        {
+          "letter": "B",
+          "text": "Condensar la trama, mantener la esencia y dialogar con el lenguaje escénico.",
+          "is_correct": true,
+          "feedback": "La adaptación es una reescritura."
+        },
+        {
+          "letter": "C",
+          "text": "Añadir personajes aleatorios.",
+          "is_correct": false,
+          "feedback": "Pueden debilitar la coherencia."
+        },
+        {
+          "letter": "D",
+          "text": "Mantener el texto literal.",
+          "is_correct": false,
+          "feedback": "El teatro requiere diálogo hablado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La adaptación teatral implica tomar decisiones estéticas para trasladar la narrativa a la escena.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle-v16",
+      "statement": "Un desafío común para el teatro independiente en Colombia es:",
+      "context": "En clase en Medellín, se discuten los retos del teatro independiente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La falta de espacios, financiamiento y políticas culturales sostenidas.",
+          "is_correct": true,
+          "feedback": "El sector enfrenta limitaciones estructurales."
+        },
+        {
+          "letter": "B",
+          "text": "El exceso de apoyo estatal.",
+          "is_correct": false,
+          "feedback": "Generalmente el apoyo es limitado."
+        },
+        {
+          "letter": "C",
+          "text": "La ausencia de público.",
+          "is_correct": false,
+          "feedback": "Hay públicos interesados."
+        },
+        {
+          "letter": "D",
+          "text": "El monopolio exclusivo de un solo estilo.",
+          "is_correct": false,
+          "feedback": "Existe pluralidad estética."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El teatro independiente requiere políticas públicas que promuevan la diversidad escénica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.63,
+      "bundle_id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle-v17",
+      "statement": "¿Por qué el teatro colombiano debe estudiarse en la educación media?",
+      "context": "En una mesa redonda en Cartagena, se valora la dramaturgia colombiana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque es un pasatiempo sin relevancia.",
+          "is_correct": false,
+          "feedback": "Es una expresión cultural valiosa."
+        },
+        {
+          "letter": "B",
+          "text": "Porque fomenta la lectura crítica, la expresión oral y la reflexión sobre la realidad nacional.",
+          "is_correct": true,
+          "feedback": "Contribuye a la formación integral."
+        },
+        {
+          "letter": "C",
+          "text": "Porque reemplaza la matemática.",
+          "is_correct": false,
+          "feedback": "Es un área complementaria."
+        },
+        {
+          "letter": "D",
+          "text": "Porque solo se enseña en la universidad.",
+          "is_correct": false,
+          "feedback": "Puede enseñarse desde la escuela."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El teatro desarrolla competencias comunicativas, ciudadanas y creativas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es el legado del teatro popular colombiano?",
+      "context": "En una jornada en Pasto, se valora la herencia del teatro popular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Visibilizar la realidad de comunidades rurales y urbanas marginales.",
+          "is_correct": true,
+          "feedback": "El teatro popular da voz a sectores excluidos."
+        },
+        {
+          "letter": "B",
+          "text": "Difundir únicamente teatro europeo.",
+          "is_correct": false,
+          "feedback": "Recupera tradiciones locales."
+        },
+        {
+          "letter": "C",
+          "text": "Sustituir la educación formal.",
+          "is_correct": false,
+          "feedback": "La complementa."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminar el humor.",
+          "is_correct": false,
+          "feedback": "El humor es frecuente en sus propuestas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El teatro popular contribuye a la memoria colectiva y al empoderamiento comunitario.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle-v19",
+      "statement": "Al evaluar una obra teatral, ¿qué criterio es más relevante?",
+      "context": "En una evaluación en Armenia, se critica una puesta en escena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cantidad de actores.",
+          "is_correct": false,
+          "feedback": "No define la calidad."
+        },
+        {
+          "letter": "B",
+          "text": "La coherencia entre texto, actuación, dirección y propuesta escénica.",
+          "is_correct": true,
+          "feedback": "Evalúa la totalidad artística."
+        },
+        {
+          "letter": "C",
+          "text": "La decoración más costosa.",
+          "is_correct": false,
+          "feedback": "El lujo no equivale a calidad."
+        },
+        {
+          "letter": "D",
+          "text": "La duración exacta de la obra.",
+          "is_correct": false,
+          "feedback": "No es criterio principal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La evaluación teatral integra componentes artísticos y técnicos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle-v20",
+      "statement": "¿Qué retos enfrenta el teatro colombiano en el siglo XXI?",
+      "context": "En un cierre en Bogotá, se reflexiona sobre el futuro del teatro colombiano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mantenerse estático sin innovación.",
+          "is_correct": false,
+          "feedback": "Debe innovar continuamente."
+        },
+        {
+          "letter": "B",
+          "text": "Renovar lenguajes, integrar tecnologías y mantener su compromiso social.",
+          "is_correct": true,
+          "feedback": "Convive tradición e innovación."
+        },
+        {
+          "letter": "C",
+          "text": "Abandonar la identidad cultural.",
+          "is_correct": false,
+          "feedback": "La identidad es su fortaleza."
+        },
+        {
+          "letter": "D",
+          "text": "Limitarse al público urbano.",
+          "is_correct": false,
+          "feedback": "Busca públicos diversos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El teatro colombiano del siglo XXI dialoga con lo digital sin perder su raíz cultural.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

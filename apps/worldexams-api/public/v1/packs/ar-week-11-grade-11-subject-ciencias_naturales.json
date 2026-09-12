@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "ar",
+    "pack_id": "ar-week-11-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T16:46:07.201Z"
+  },
+  "questions": [
+    {
+      "id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v1",
+      "statement": "Un objeto de masa $m = 10\\text{ kg}$ acelera horizontalmente a $2\\text{ m/s}^2$ venciendo un rozamiento constante de $5\\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?",
+      "context": "Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 1.\n**ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v1\n**Bloom:** Remember\n**EJE:** Física y Mecánica\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fuerza aplicada = $25\\text{ N}$",
+          "is_correct": true,
+          "feedback": "Correcto. $F_{\\text{neta}} = 10 \\cdot 2 = 20\\text{ N}$. $F_{\\text{aplicada}} = 20 + 5 = 25\\text{ N}$."
+        },
+        {
+          "letter": "B",
+          "text": "Fuerza aplicada = $20\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró la fuerza para compensar la fricción."
+        },
+        {
+          "letter": "C",
+          "text": "Fuerza aplicada = $15\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó la fuerza de fricción a la fuerza neta."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza aplicada = $100\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió la aceleración con la masa por $g$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Segunda Ley de Newton $F_{\\text{neta}} = m \\cdot a = 10 \\cdot 2 = 20\\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\\text{aplicada}} = 20 + 5 = 25\\text{ N}$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v2",
+      "statement": "Un objeto de masa $m = 20\\text{ kg}$ acelera horizontalmente a $2\\text{ m/s}^2$ venciendo un rozamiento constante de $10\\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?",
+      "context": "Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 2.\n**ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v2\n**Bloom:** Remember\n**EJE:** Física y Mecánica\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fuerza aplicada = $50\\text{ N}$",
+          "is_correct": true,
+          "feedback": "Correcto. $F_{\\text{neta}} = 20 \\cdot 2 = 40\\text{ N}$. $F_{\\text{aplicada}} = 40 + 10 = 50\\text{ N}$."
+        },
+        {
+          "letter": "B",
+          "text": "Fuerza aplicada = $40\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró la fuerza para compensar la fricción."
+        },
+        {
+          "letter": "C",
+          "text": "Fuerza aplicada = $30\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó la fuerza de fricción a la fuerza neta."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza aplicada = $200\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió la aceleración con la masa por $g$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Segunda Ley de Newton $F_{\\text{neta}} = m \\cdot a = 20 \\cdot 2 = 40\\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\\text{aplicada}} = 40 + 10 = 50\\text{ N}$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v3",
+      "statement": "Un objeto de masa $m = 30\\text{ kg}$ acelera horizontalmente a $2\\text{ m/s}^2$ venciendo un rozamiento constante de $15\\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?",
+      "context": "Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 3.\n**ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v3\n**Bloom:** Understand\n**EJE:** Física y Mecánica\n**Expected_Success:** 0.86",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fuerza aplicada = $75\\text{ N}$",
+          "is_correct": true,
+          "feedback": "Correcto. $F_{\\text{neta}} = 30 \\cdot 2 = 60\\text{ N}$. $F_{\\text{aplicada}} = 60 + 15 = 75\\text{ N}$."
+        },
+        {
+          "letter": "B",
+          "text": "Fuerza aplicada = $60\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró la fuerza para compensar la fricción."
+        },
+        {
+          "letter": "C",
+          "text": "Fuerza aplicada = $45\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó la fuerza de fricción a la fuerza neta."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza aplicada = $300\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió la aceleración con la masa por $g$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Segunda Ley de Newton $F_{\\text{neta}} = m \\cdot a = 30 \\cdot 2 = 60\\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\\text{aplicada}} = 60 + 15 = 75\\text{ N}$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.86,
+      "bundle_id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v4",
+      "statement": "Un objeto de masa $m = 40\\text{ kg}$ acelera horizontalmente a $2\\text{ m/s}^2$ venciendo un rozamiento constante de $20\\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?",
+      "context": "Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 4.\n**ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v4\n**Bloom:** Understand\n**EJE:** Física y Mecánica\n**Expected_Success:** 0.84",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fuerza aplicada = $100\\text{ N}$",
+          "is_correct": true,
+          "feedback": "Correcto. $F_{\\text{neta}} = 40 \\cdot 2 = 80\\text{ N}$. $F_{\\text{aplicada}} = 80 + 20 = 100\\text{ N}$."
+        },
+        {
+          "letter": "B",
+          "text": "Fuerza aplicada = $80\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró la fuerza para compensar la fricción."
+        },
+        {
+          "letter": "C",
+          "text": "Fuerza aplicada = $60\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó la fuerza de fricción a la fuerza neta."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza aplicada = $400\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió la aceleración con la masa por $g$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Segunda Ley de Newton $F_{\\text{neta}} = m \\cdot a = 40 \\cdot 2 = 80\\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\\text{aplicada}} = 80 + 20 = 100\\text{ N}$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v5",
+      "statement": "Un objeto de masa $m = 50\\text{ kg}$ acelera horizontalmente a $2\\text{ m/s}^2$ venciendo un rozamiento constante de $25\\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?",
+      "context": "Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 5.\n**ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v5\n**Bloom:** Understand\n**EJE:** Física y Mecánica\n**Expected_Success:** 0.82",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fuerza aplicada = $125\\text{ N}$",
+          "is_correct": true,
+          "feedback": "Correcto. $F_{\\text{neta}} = 50 \\cdot 2 = 100\\text{ N}$. $F_{\\text{aplicada}} = 100 + 25 = 125\\text{ N}$."
+        },
+        {
+          "letter": "B",
+          "text": "Fuerza aplicada = $100\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró la fuerza para compensar la fricción."
+        },
+        {
+          "letter": "C",
+          "text": "Fuerza aplicada = $75\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó la fuerza de fricción a la fuerza neta."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza aplicada = $500\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió la aceleración con la masa por $g$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Segunda Ley de Newton $F_{\\text{neta}} = m \\cdot a = 50 \\cdot 2 = 100\\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\\text{aplicada}} = 100 + 25 = 125\\text{ N}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v6",
+      "statement": "Un objeto de masa $m = 60\\text{ kg}$ acelera horizontalmente a $2\\text{ m/s}^2$ venciendo un rozamiento constante de $30\\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?",
+      "context": "Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 6.\n**ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v6\n**Bloom:** Apply\n**EJE:** Física y Mecánica\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fuerza aplicada = $150\\text{ N}$",
+          "is_correct": true,
+          "feedback": "Correcto. $F_{\\text{neta}} = 60 \\cdot 2 = 120\\text{ N}$. $F_{\\text{aplicada}} = 120 + 30 = 150\\text{ N}$."
+        },
+        {
+          "letter": "B",
+          "text": "Fuerza aplicada = $120\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró la fuerza para compensar la fricción."
+        },
+        {
+          "letter": "C",
+          "text": "Fuerza aplicada = $90\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó la fuerza de fricción a la fuerza neta."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza aplicada = $600\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió la aceleración con la masa por $g$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Segunda Ley de Newton $F_{\\text{neta}} = m \\cdot a = 60 \\cdot 2 = 120\\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\\text{aplicada}} = 120 + 30 = 150\\text{ N}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v7",
+      "statement": "Un objeto de masa $m = 70\\text{ kg}$ acelera horizontalmente a $2\\text{ m/s}^2$ venciendo un rozamiento constante de $35\\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?",
+      "context": "Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 7.\n**ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v7\n**Bloom:** Apply\n**EJE:** Física y Mecánica\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fuerza aplicada = $175\\text{ N}$",
+          "is_correct": true,
+          "feedback": "Correcto. $F_{\\text{neta}} = 70 \\cdot 2 = 140\\text{ N}$. $F_{\\text{aplicada}} = 140 + 35 = 175\\text{ N}$."
+        },
+        {
+          "letter": "B",
+          "text": "Fuerza aplicada = $140\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró la fuerza para compensar la fricción."
+        },
+        {
+          "letter": "C",
+          "text": "Fuerza aplicada = $105\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó la fuerza de fricción a la fuerza neta."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza aplicada = $700\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió la aceleración con la masa por $g$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Segunda Ley de Newton $F_{\\text{neta}} = m \\cdot a = 70 \\cdot 2 = 140\\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\\text{aplicada}} = 140 + 35 = 175\\text{ N}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v8",
+      "statement": "Un objeto de masa $m = 80\\text{ kg}$ acelera horizontalmente a $2\\text{ m/s}^2$ venciendo un rozamiento constante de $40\\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?",
+      "context": "Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 8.\n**ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v8\n**Bloom:** Apply\n**EJE:** Física y Mecánica\n**Expected_Success:** 0.76",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fuerza aplicada = $200\\text{ N}$",
+          "is_correct": true,
+          "feedback": "Correcto. $F_{\\text{neta}} = 80 \\cdot 2 = 160\\text{ N}$. $F_{\\text{aplicada}} = 160 + 40 = 200\\text{ N}$."
+        },
+        {
+          "letter": "B",
+          "text": "Fuerza aplicada = $160\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró la fuerza para compensar la fricción."
+        },
+        {
+          "letter": "C",
+          "text": "Fuerza aplicada = $120\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó la fuerza de fricción a la fuerza neta."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza aplicada = $800\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió la aceleración con la masa por $g$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Segunda Ley de Newton $F_{\\text{neta}} = m \\cdot a = 80 \\cdot 2 = 160\\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\\text{aplicada}} = 160 + 40 = 200\\text{ N}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.76,
+      "bundle_id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v9",
+      "statement": "Un objeto de masa $m = 90\\text{ kg}$ acelera horizontalmente a $2\\text{ m/s}^2$ venciendo un rozamiento constante de $45\\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?",
+      "context": "Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 9.\n**ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v9\n**Bloom:** Apply\n**EJE:** Física y Mecánica\n**Expected_Success:** 0.74",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fuerza aplicada = $225\\text{ N}$",
+          "is_correct": true,
+          "feedback": "Correcto. $F_{\\text{neta}} = 90 \\cdot 2 = 180\\text{ N}$. $F_{\\text{aplicada}} = 180 + 45 = 225\\text{ N}$."
+        },
+        {
+          "letter": "B",
+          "text": "Fuerza aplicada = $180\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró la fuerza para compensar la fricción."
+        },
+        {
+          "letter": "C",
+          "text": "Fuerza aplicada = $135\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó la fuerza de fricción a la fuerza neta."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza aplicada = $900\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió la aceleración con la masa por $g$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Segunda Ley de Newton $F_{\\text{neta}} = m \\cdot a = 90 \\cdot 2 = 180\\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\\text{aplicada}} = 180 + 45 = 225\\text{ N}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.74,
+      "bundle_id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v10",
+      "statement": "Un objeto de masa $m = 100\\text{ kg}$ acelera horizontalmente a $2\\text{ m/s}^2$ venciendo un rozamiento constante de $50\\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?",
+      "context": "Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 10.\n**ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v10\n**Bloom:** Apply\n**EJE:** Física y Mecánica\n**Expected_Success:** 0.72",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fuerza aplicada = $250\\text{ N}$",
+          "is_correct": true,
+          "feedback": "Correcto. $F_{\\text{neta}} = 100 \\cdot 2 = 200\\text{ N}$. $F_{\\text{aplicada}} = 200 + 50 = 250\\text{ N}$."
+        },
+        {
+          "letter": "B",
+          "text": "Fuerza aplicada = $200\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró la fuerza para compensar la fricción."
+        },
+        {
+          "letter": "C",
+          "text": "Fuerza aplicada = $150\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó la fuerza de fricción a la fuerza neta."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza aplicada = $1000\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió la aceleración con la masa por $g$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Segunda Ley de Newton $F_{\\text{neta}} = m \\cdot a = 100 \\cdot 2 = 200\\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\\text{aplicada}} = 200 + 50 = 250\\text{ N}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v11",
+      "statement": "Un objeto de masa $m = 110\\text{ kg}$ acelera horizontalmente a $2\\text{ m/s}^2$ venciendo un rozamiento constante de $55\\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?",
+      "context": "Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 11.\n**ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v11\n**Bloom:** Analyze\n**EJE:** Física y Mecánica\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fuerza aplicada = $275\\text{ N}$",
+          "is_correct": true,
+          "feedback": "Correcto. $F_{\\text{neta}} = 110 \\cdot 2 = 220\\text{ N}$. $F_{\\text{aplicada}} = 220 + 55 = 275\\text{ N}$."
+        },
+        {
+          "letter": "B",
+          "text": "Fuerza aplicada = $220\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró la fuerza para compensar la fricción."
+        },
+        {
+          "letter": "C",
+          "text": "Fuerza aplicada = $165\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó la fuerza de fricción a la fuerza neta."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza aplicada = $1100\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió la aceleración con la masa por $g$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Segunda Ley de Newton $F_{\\text{neta}} = m \\cdot a = 110 \\cdot 2 = 220\\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\\text{aplicada}} = 220 + 55 = 275\\text{ N}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v12",
+      "statement": "Un objeto de masa $m = 120\\text{ kg}$ acelera horizontalmente a $2\\text{ m/s}^2$ venciendo un rozamiento constante de $60\\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?",
+      "context": "Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 12.\n**ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v12\n**Bloom:** Analyze\n**EJE:** Física y Mecánica\n**Expected_Success:** 0.68",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fuerza aplicada = $300\\text{ N}$",
+          "is_correct": true,
+          "feedback": "Correcto. $F_{\\text{neta}} = 120 \\cdot 2 = 240\\text{ N}$. $F_{\\text{aplicada}} = 240 + 60 = 300\\text{ N}$."
+        },
+        {
+          "letter": "B",
+          "text": "Fuerza aplicada = $240\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró la fuerza para compensar la fricción."
+        },
+        {
+          "letter": "C",
+          "text": "Fuerza aplicada = $180\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó la fuerza de fricción a la fuerza neta."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza aplicada = $1200\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió la aceleración con la masa por $g$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Segunda Ley de Newton $F_{\\text{neta}} = m \\cdot a = 120 \\cdot 2 = 240\\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\\text{aplicada}} = 240 + 60 = 300\\text{ N}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.68,
+      "bundle_id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v13",
+      "statement": "Un objeto de masa $m = 130\\text{ kg}$ acelera horizontalmente a $2\\text{ m/s}^2$ venciendo un rozamiento constante de $65\\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?",
+      "context": "Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 13.\n**ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v13\n**Bloom:** Analyze\n**EJE:** Física y Mecánica\n**Expected_Success:** 0.66",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fuerza aplicada = $325\\text{ N}$",
+          "is_correct": true,
+          "feedback": "Correcto. $F_{\\text{neta}} = 130 \\cdot 2 = 260\\text{ N}$. $F_{\\text{aplicada}} = 260 + 65 = 325\\text{ N}$."
+        },
+        {
+          "letter": "B",
+          "text": "Fuerza aplicada = $260\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró la fuerza para compensar la fricción."
+        },
+        {
+          "letter": "C",
+          "text": "Fuerza aplicada = $195\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó la fuerza de fricción a la fuerza neta."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza aplicada = $1300\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió la aceleración con la masa por $g$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Segunda Ley de Newton $F_{\\text{neta}} = m \\cdot a = 130 \\cdot 2 = 260\\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\\text{aplicada}} = 260 + 65 = 325\\text{ N}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.66,
+      "bundle_id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v14",
+      "statement": "Un objeto de masa $m = 140\\text{ kg}$ acelera horizontalmente a $2\\text{ m/s}^2$ venciendo un rozamiento constante de $70\\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?",
+      "context": "Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 14.\n**ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v14\n**Bloom:** Analyze\n**EJE:** Física y Mecánica\n**Expected_Success:** 0.64",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fuerza aplicada = $350\\text{ N}$",
+          "is_correct": true,
+          "feedback": "Correcto. $F_{\\text{neta}} = 140 \\cdot 2 = 280\\text{ N}$. $F_{\\text{aplicada}} = 280 + 70 = 350\\text{ N}$."
+        },
+        {
+          "letter": "B",
+          "text": "Fuerza aplicada = $280\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró la fuerza para compensar la fricción."
+        },
+        {
+          "letter": "C",
+          "text": "Fuerza aplicada = $210\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó la fuerza de fricción a la fuerza neta."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza aplicada = $1400\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió la aceleración con la masa por $g$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Segunda Ley de Newton $F_{\\text{neta}} = m \\cdot a = 140 \\cdot 2 = 280\\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\\text{aplicada}} = 280 + 70 = 350\\text{ N}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.64,
+      "bundle_id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v15",
+      "statement": "Un objeto de masa $m = 150\\text{ kg}$ acelera horizontalmente a $2\\text{ m/s}^2$ venciendo un rozamiento constante de $75\\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?",
+      "context": "Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 15.\n**ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v15\n**Bloom:** Apply\n**EJE:** Física y Mecánica\n**Expected_Success:** 0.62",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fuerza aplicada = $375\\text{ N}$",
+          "is_correct": true,
+          "feedback": "Correcto. $F_{\\text{neta}} = 150 \\cdot 2 = 300\\text{ N}$. $F_{\\text{aplicada}} = 300 + 75 = 375\\text{ N}$."
+        },
+        {
+          "letter": "B",
+          "text": "Fuerza aplicada = $300\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró la fuerza para compensar la fricción."
+        },
+        {
+          "letter": "C",
+          "text": "Fuerza aplicada = $225\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó la fuerza de fricción a la fuerza neta."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza aplicada = $1500\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió la aceleración con la masa por $g$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Segunda Ley de Newton $F_{\\text{neta}} = m \\cdot a = 150 \\cdot 2 = 300\\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\\text{aplicada}} = 300 + 75 = 375\\text{ N}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v16",
+      "statement": "Un objeto de masa $m = 160\\text{ kg}$ acelera horizontalmente a $2\\text{ m/s}^2$ venciendo un rozamiento constante de $80\\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?",
+      "context": "Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 16.\n**ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v16\n**Bloom:** Analyze\n**EJE:** Física y Mecánica\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fuerza aplicada = $400\\text{ N}$",
+          "is_correct": true,
+          "feedback": "Correcto. $F_{\\text{neta}} = 160 \\cdot 2 = 320\\text{ N}$. $F_{\\text{aplicada}} = 320 + 80 = 400\\text{ N}$."
+        },
+        {
+          "letter": "B",
+          "text": "Fuerza aplicada = $320\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró la fuerza para compensar la fricción."
+        },
+        {
+          "letter": "C",
+          "text": "Fuerza aplicada = $240\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó la fuerza de fricción a la fuerza neta."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza aplicada = $1600\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió la aceleración con la masa por $g$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Segunda Ley de Newton $F_{\\text{neta}} = m \\cdot a = 160 \\cdot 2 = 320\\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\\text{aplicada}} = 320 + 80 = 400\\text{ N}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v17",
+      "statement": "Un objeto de masa $m = 170\\text{ kg}$ acelera horizontalmente a $2\\text{ m/s}^2$ venciendo un rozamiento constante de $85\\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?",
+      "context": "Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 17.\n**ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v17\n**Bloom:** Evaluate\n**EJE:** Física y Mecánica\n**Expected_Success:** 0.58",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fuerza aplicada = $425\\text{ N}$",
+          "is_correct": true,
+          "feedback": "Correcto. $F_{\\text{neta}} = 170 \\cdot 2 = 340\\text{ N}$. $F_{\\text{aplicada}} = 340 + 85 = 425\\text{ N}$."
+        },
+        {
+          "letter": "B",
+          "text": "Fuerza aplicada = $340\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró la fuerza para compensar la fricción."
+        },
+        {
+          "letter": "C",
+          "text": "Fuerza aplicada = $255\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó la fuerza de fricción a la fuerza neta."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza aplicada = $1700\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió la aceleración con la masa por $g$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Segunda Ley de Newton $F_{\\text{neta}} = m \\cdot a = 170 \\cdot 2 = 340\\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\\text{aplicada}} = 340 + 85 = 425\\text{ N}$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.58,
+      "bundle_id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v18",
+      "statement": "Un objeto de masa $m = 180\\text{ kg}$ acelera horizontalmente a $2\\text{ m/s}^2$ venciendo un rozamiento constante de $90\\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?",
+      "context": "Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 18.\n**ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v18\n**Bloom:** Evaluate\n**EJE:** Física y Mecánica\n**Expected_Success:** 0.56",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fuerza aplicada = $450\\text{ N}$",
+          "is_correct": true,
+          "feedback": "Correcto. $F_{\\text{neta}} = 180 \\cdot 2 = 360\\text{ N}$. $F_{\\text{aplicada}} = 360 + 90 = 450\\text{ N}$."
+        },
+        {
+          "letter": "B",
+          "text": "Fuerza aplicada = $360\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró la fuerza para compensar la fricción."
+        },
+        {
+          "letter": "C",
+          "text": "Fuerza aplicada = $270\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó la fuerza de fricción a la fuerza neta."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza aplicada = $1800\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió la aceleración con la masa por $g$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Segunda Ley de Newton $F_{\\text{neta}} = m \\cdot a = 180 \\cdot 2 = 360\\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\\text{aplicada}} = 360 + 90 = 450\\text{ N}$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.56,
+      "bundle_id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v19",
+      "statement": "Un objeto de masa $m = 190\\text{ kg}$ acelera horizontalmente a $2\\text{ m/s}^2$ venciendo un rozamiento constante de $95\\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?",
+      "context": "Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 19.\n**ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v19\n**Bloom:** Evaluate\n**EJE:** Física y Mecánica\n**Expected_Success:** 0.54",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fuerza aplicada = $475\\text{ N}$",
+          "is_correct": true,
+          "feedback": "Correcto. $F_{\\text{neta}} = 190 \\cdot 2 = 380\\text{ N}$. $F_{\\text{aplicada}} = 380 + 95 = 475\\text{ N}$."
+        },
+        {
+          "letter": "B",
+          "text": "Fuerza aplicada = $380\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró la fuerza para compensar la fricción."
+        },
+        {
+          "letter": "C",
+          "text": "Fuerza aplicada = $285\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó la fuerza de fricción a la fuerza neta."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza aplicada = $1900\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió la aceleración con la masa por $g$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Segunda Ley de Newton $F_{\\text{neta}} = m \\cdot a = 190 \\cdot 2 = 380\\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\\text{aplicada}} = 380 + 95 = 475\\text{ N}$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.54,
+      "bundle_id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v20",
+      "statement": "Un objeto de masa $m = 200\\text{ kg}$ acelera horizontalmente a $2\\text{ m/s}^2$ venciendo un rozamiento constante de $100\\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?",
+      "context": "Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 20.\n**ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v20\n**Bloom:** Evaluate\n**EJE:** Física y Mecánica\n**Expected_Success:** 0.52",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fuerza aplicada = $500\\text{ N}$",
+          "is_correct": true,
+          "feedback": "Correcto. $F_{\\text{neta}} = 200 \\cdot 2 = 400\\text{ N}$. $F_{\\text{aplicada}} = 400 + 100 = 500\\text{ N}$."
+        },
+        {
+          "letter": "B",
+          "text": "Fuerza aplicada = $400\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró la fuerza para compensar la fricción."
+        },
+        {
+          "letter": "C",
+          "text": "Fuerza aplicada = $300\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó la fuerza de fricción a la fuerza neta."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza aplicada = $2000\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió la aceleración con la masa por $g$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la Segunda Ley de Newton $F_{\\text{neta}} = m \\cdot a = 200 \\cdot 2 = 400\\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\\text{aplicada}} = 400 + 100 = 500\\text{ N}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.52,
+      "bundle_id": "AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    }
+  ]
+}

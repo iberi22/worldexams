@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "sociales",
+    "country": "uy",
+    "pack_id": "uy-week-13-grade-11-subject-sociales",
+    "generated_at": "2026-09-12T16:46:07.976Z"
+  },
+  "questions": [
+    {
+      "id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v1",
+      "statement": "¿Qué forma de gobierno adopta la República Oriental del Uruguay según su marco constitucional vigente?",
+      "context": "La Constitución de la República Oriental del Uruguay consagra en su Artículo 1° que la nación es la asociación política de todos los habitantes comprendidos dentro de su territorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Democracia representativa y directa, con forma republicana y unitaria.",
+          "is_correct": true,
+          "feedback": "Correcto. Uruguay se organiza como una república unitaria con democracia representativa acoplada a mecanismos directos."
+        },
+        {
+          "letter": "B",
+          "text": "Monarquía parlamentaria hereditaria federal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Uruguay no posee corona ni reyes; es una república unitaria."
+        },
+        {
+          "letter": "C",
+          "text": "Confederación autocrática militar sin división de poderes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Constitución consagra la república democrática con tres poderes independientes."
+        },
+        {
+          "letter": "D",
+          "text": "Teocracia constitucional dirigida por autoridades religiosas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Estado uruguayo es laico y separado de toda religión desde la Constitución de 1918."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Constitución uruguaya establece una forma republicana y unitaria de gobierno sustentada en la soberanía popular representativa y directa.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo se denomina el órgano colegiado bicameral que ejerce el Poder Legislativo en Uruguay?",
+      "context": "En el sistema institucional uruguayo, el Poder Legislativo ejerce la función de elaborar, modificar y derogar las leyes de la República.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Tribunal de Cuentas de la República.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Tribunal de Cuentas es el órgano de control externo del presupuesto público."
+        },
+        {
+          "letter": "B",
+          "text": "La Asamblea General (compuesta por la Cámara de Senadores y la Cámara de Representantes).",
+          "is_correct": true,
+          "feedback": "Correcto. La Asamblea General es el parlamento bicameral nacional (30 senadores + Vicepresidente y 99 diputados)."
+        },
+        {
+          "letter": "C",
+          "text": "El Consejo de Ministros Departamentales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Consejo de Ministros integra el Poder Ejecutivo."
+        },
+        {
+          "letter": "D",
+          "text": "La Suprema Corte de Justicia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Suprema Corte encabeza el Poder Judicial."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Asamblea General es el órgano bicameral de la representación nacional en Uruguay, integrado por la Cámara de Senadores y la de Representantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la función primordial que la Constitución encomienda a la Corte Electoral en Uruguay?",
+      "context": "En el marco del sistema electoral uruguayo, la Corte Electoral es el órgano constitucional autónomo garante de la transparencia de los comicios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aprobar el presupuesto general de sueldos de las empresas privadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No regula salarios ni presupuestos de empresas privadas."
+        },
+        {
+          "letter": "B",
+          "text": "Organizar, supervisar y proclamar los resultados de los actos electorales, plebiscitos y referéndums.",
+          "is_correct": true,
+          "feedback": "Correcto. La Corte Electoral administra el Registro Cívico Nacional y garantiza la máxima imparcialidad en comicios."
+        },
+        {
+          "letter": "C",
+          "text": "Comandar a las fuerzas armadas durante tiempos de guerra exterior.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mando superior de las Fuerzas Armadas lo ejerce el Presidente de la República en Consejo de Ministros."
+        },
+        {
+          "letter": "D",
+          "text": "Redactar las sentencias judiciales del fuero penal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La administración de justicia penal compete exclusivamente al Poder Judicial."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Corte Electoral uruguaya goza de máxima independencia institucional, velando por la transparencia del Registro Cívico y los actos de votación.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v4",
+      "statement": "¿Cómo se denomina el mecanismo de democracia directa mediante el cual la ciudadanía vota para confirmar o derogar, total o parcialmente, una ley aprobada por el Poder Legislativo?",
+      "context": "La ciudadanía en Uruguay puede someter una ley aprobada por el Parlamento a la decisión del cuerpo electoral para decidir su derogación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Plebiscito constitucional de reforma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El plebiscito se utiliza para reformar el texto de la Constitución, no para derogar leyes comunes."
+        },
+        {
+          "letter": "B",
+          "text": "Referéndum contra las leyes (Artículo 79 de la Constitución).",
+          "is_correct": true,
+          "feedback": "Correcto. El recurso de referéndum permite al cuerpo electoral decidir la derogación de leyes aprobadas por la Asamblea General."
+        },
+        {
+          "letter": "C",
+          "text": "Juicio político parlamentario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El juicio político juzga la responsabilidad de altos funcionarios estatales."
+        },
+        {
+          "letter": "D",
+          "text": "Acción de amparo preventivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El amparo es una garantía judicial de protección de derechos fundamentales vulnerados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El recurso de referéndum es el mecanismo de democracia directa por el cual el electorado decide si mantiene o deroga una ley dictada por el parlamento.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la vía de iniciativa popular para reformar la Constitución que requiere la firma del 10% de los ciudadanos inscritos en el Registro Cívico Nacional?",
+      "context": "Analizás los mecanismos para introducir reformas a la Constitución de la República Oriental del Uruguay (Artículo 331).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La solicitud formal dirigida al Embajador de la Organización de los Estados Americanos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las reformas constitucionales son actos soberanos internos sin mediación diplomática."
+        },
+        {
+          "letter": "B",
+          "text": "La iniciativa popular de reforma constitucional sometida a plebiscito en la elección nacional más inmediata.",
+          "is_correct": true,
+          "feedback": "Correcto. El 10% de los inscritos puede presentar un proyecto de reforma constitucional que se vota en plebiscito junto a las elecciones nacionales."
+        },
+        {
+          "letter": "C",
+          "text": "La firma de un decreto por parte del Intendente de Montevideo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los intendentes dirigen los gobiernos departamentales y no reforman la Constitución."
+        },
+        {
+          "letter": "D",
+          "text": "Un acuerdo comercial privado sancionado por la Bolsa de Valores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los tratados o contratos privados no modifican la Carta Magna del Estado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La iniciativa popular del 10% del padrón electoral permite elevar proyectos de enmienda constitucional para su ratificación plebiscitaria directa por el pueblo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v6",
+      "statement": "¿Qué innovación electoral introdujo la reforma de 1997 para la elección del Presidente de la República cuando ningún candidato alcanza la mayoría absoluta de votos en octubre?",
+      "context": "Estudias la reforma constitucional de 1997 que modificó profundamente el sistema electoral uruguayo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El nombramiento directo por el candidato que quede en tercer lugar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema democrático consagra el triunfo de las mayorías electorales."
+        },
+        {
+          "letter": "B",
+          "text": "La segunda vuelta electoral (balotaje) en noviembre entre las dos fórmulas más votadas.",
+          "is_correct": true,
+          "feedback": "Correcto. Si ninguna fórmula presidencial supera el 50% de los votos válidos en octubre, se celebra un balotaje en noviembre."
+        },
+        {
+          "letter": "C",
+          "text": "La suspensión de la elección por un período de diez años.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La segunda vuelta se celebra cuatro semanas después de la elección nacional."
+        },
+        {
+          "letter": "D",
+          "text": "La elección de un Rey interino elegido por sorteo público.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Uruguay es una república democrática que no contempla monarquías."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La reforma constitucional de 1997 introdujo el balotaje para asegurar legitimidad de mayoría absoluta a la fórmula presidencial electa.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.72,
+      "bundle_id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v7",
+      "statement": "¿Qué institución de gobierno local de proximidad se creó en Uruguay para profundizar la descentralización en municipios de más de 2000 habitantes?",
+      "context": "En el marco del tercer nivel de gobierno, en 2009 se aprobó la Ley N° 18.567 de Descentralización Política y Participación Ciudadana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las Gobernaciones Provinciales Autónomas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Uruguay no posee provincias sino departamentos y municipios."
+        },
+        {
+          "letter": "B",
+          "text": "Los Municipios (encabezados por el Alcalde y cuatro Concejalas/es).",
+          "is_correct": true,
+          "feedback": "Correcto. Creó el tercer nivel de gobierno local mediante Municipios electos por la ciudadanía en cada departamento."
+        },
+        {
+          "letter": "C",
+          "text": "Los Cabildos Virreinales Abiertos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los Cabildos Virreinales corresponden a la institucionalidad colonial del siglo XVIII."
+        },
+        {
+          "letter": "D",
+          "text": "Las Capitanías Generales de Frontera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mismo anacronismo colonial del período hispánico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La creación de los Municipios instituyó el tercer nivel de gobierno local para promover la participación democrática directa de las comunidades.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v8",
+      "statement": "¿Cuáles son los derechos primarios e inalienables de los habitantes enumerados expresamente en el Artículo 7° de la Carta Magna?",
+      "context": "En el Artículo 7° de la Constitución uruguaya se enumeran los derechos fundamentales que el Estado tiene el deber de proteger.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La obligación de residir en la capital y pertenecer a un partido político único.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Constitución garantiza el pluralismo y la libertad de residencia en todo el territorio."
+        },
+        {
+          "letter": "B",
+          "text": "El derecho a ser protegidos en el goce de su vida, honor, libertad, seguridad, trabajo y propiedad.",
+          "is_correct": true,
+          "feedback": "Correcto. El Art. 7° consagra la protección estatal de la vida, honor, libertad, seguridad, trabajo y propiedad."
+        },
+        {
+          "letter": "C",
+          "text": "El derecho a evadir impuestos sin sanción legal alguna.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cumplimiento de las cargas tributarias aprobadas por ley es un deber ciudadano."
+        },
+        {
+          "letter": "D",
+          "text": "La facultad de expropiar bienes privados sin indemnización previa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Art. 32 protege la propiedad privada y exige justa y previa indemnización para expropiar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Artículo 7° de la Constitución constituye el pilar garantista que impone al Estado el deber de proteger la vida, libertad, trabajo y propiedad de los habitantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.68,
+      "bundle_id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v9",
+      "statement": "¿Qué órgano del Poder Judicial en Uruguay posee la competencia exclusiva para declarar la inconstitucionalidad de las leyes y aplicar la ineficacia de la norma para el caso concreto?",
+      "context": "Un grupo de ciudadanos interpone un recurso de inconstitucionalidad contra una ley aprobada por el parlamento ante el órgano judicial supremo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Tribunal de Apelaciones en lo Trabajo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los Tribunales de Apelaciones revisan sentencias de primera instancia en sus respectivos fueros."
+        },
+        {
+          "letter": "B",
+          "text": "La Suprema Corte de Justicia.",
+          "is_correct": true,
+          "feedback": "Correcto. La Suprema Corte de Justicia ejerce en exclusiva el control concentrado de constitucionalidad de las leyes."
+        },
+        {
+          "letter": "C",
+          "text": "El Ministerio de Educación y Cultura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un ministerio del Poder Ejecutivo que no ejerce función jurisdiccional constitutional."
+        },
+        {
+          "letter": "D",
+          "text": "El Consejo de Estado de la dictadura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Consejo de Estado fue un órgano de facto disuelto con el retorno a la democracia en 1985."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Suprema Corte de Justicia es el máximo órgano del Poder Judicial con potestad exclusiva para declarar la inconstitucionalidad de las leyes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.67,
+      "bundle_id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v10",
+      "statement": "¿Qué principio establece la Ley N° 18.381 respecto a la información en poder de los organismos públicos estatales y no estatales?",
+      "context": "La Ley N° 18.381 consagra en Uruguay el Derecho de Acceso a la Información Pública como una herramienta de transparencia republicana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que toda la información estatal es secreta por defecto y no se puede consultar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ley consagra el principio opuesto: la publicidad es la regla y el secreto la excepción."
+        },
+        {
+          "letter": "B",
+          "text": "Que toda la información producida o en posesión de organismos públicos es pública, salvo excepciones expresas de reserva, confidencialidad o secreto votadas por ley.",
+          "is_correct": true,
+          "feedback": "Correcto. El acceso es la regla general para promover el control ciudadano y la transparencia gubernamental."
+        },
+        {
+          "letter": "C",
+          "text": "Que sólo los legisladores pueden leer los diarios oficiales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La información pública está al alcance de cualquier habitante del país."
+        },
+        {
+          "letter": "D",
+          "text": "Que se debe abonar un impuesto en dólares por cada documento consultado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ejercicio del derecho de acceso a la información pública es gratuito."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Ley de Acceso a la Información Pública consagra el principio de transparencia republicana, garantizando el derecho ciudadano a auditar la gestión estatal.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v11",
+      "statement": "¿Qué choque principista entre la soberanía popular interna y el Derecho Internacional de los Derechos Humanos puso de manifiesto el fallo del Caso Gelman?",
+      "context": "Analizás el debate jurídico y político que rodeó a la Ley de Caducidad de la Pretensión Punitiva del Estado (N° 15.848) aprobada en 1986 y las sentencias posteriores de la Corte Interamericana de Derechos Humanos (Caso Gelman vs. Uruguay).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que las consultas populares avalan la ejecución de crímenes sin revisión de tratados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La CIDH dictaminó que la voluntad popular no puede conculcar derechos indisponibles garantizados por tratados internacionales."
+        },
+        {
+          "letter": "B",
+          "text": "Que las ratificaciones plebiscitarias de una ley de amnistía no pueden amparar la impunidad de crímenes de lesa humanidad violentando la Convención Americana de DDHH.",
+          "is_correct": true,
+          "feedback": "Correcto. La CIDH ratificó que las violaciones graves a los DDHH son inamnistiables e imprescriptibles, prevaleciendo sobre leyes internas sin importar si fueron respaldadas en las urnas."
+        },
+        {
+          "letter": "C",
+          "text": "Que la Corte Interamericana carece de jurisdicción en el continente americano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Uruguay es Estado parte de la Convención Americana y reconoce la jurisdicción obligatoria de la CIDH."
+        },
+        {
+          "letter": "D",
+          "text": "Que los crímenes comunes prescriben a las 24 horas de cometidos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La prescripción penal ordinaria no aplica a crímenes de lesa humanidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El fallo Gelman sentó la supremacía de las normas imperativas del Derecho Internacional de los DDHH (*jus cogens*) sobre leyes de amnistía internas a crímenes de lesa humanidad.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v12",
+      "statement": "¿Qué característica organizativa y cultural define la institucionalidad de los partidos políticos en Uruguay como 'partidos de articulación de masas' con arraigo identitario?",
+      "context": "El sistema de partidos políticos uruguayo es considerado uno de los más estables y institucionalizados del mundo, articulado históricamente en torno a divisas tradicionales e izquierdas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se crean semanalmente y se disuelven tras cada elección sin dejar registro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los partidos uruguayos poseen más de un siglo de continuidad histórica estructurada."
+        },
+        {
+          "letter": "B",
+          "text": "Poseen identidades históricas de larga duración, estructuras de clubes políticos locales, elecciones internas reglamentadas y disciplina parlamentaria por bancadas.",
+          "is_correct": true,
+          "feedback": "Correcto. El sistema partidario uruguayo se distingue por su alta institucionalización, lealtad identitaria y centralidad en la mediación entre sociedad y Estado."
+        },
+        {
+          "letter": "C",
+          "text": "Prohíben la afiliación voluntaria de ciudadanos no nacidos en Montevideo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los partidos políticos uruguayos se extienden en todo el territorio nacional."
+        },
+        {
+          "letter": "D",
+          "text": "Son financiados exclusivamente por coronas monárquicas europeas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su financiamiento está regulado por la Ley de Partidos Políticos de Uruguay."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La estabilidad e institucionalización del sistema partidario uruguayo ha sido clave para la gobernabilidad democrática y la mediación de demandas sociales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v13",
+      "statement": "¿Qué garantía y responsabilidad ulterior establece la Constitución para el ejercicio de la libertad de expresión a través de la prensa u otros medios?",
+      "context": "En el Artículo 29 de la Constitución uruguaya se garantiza la libre expresión del pensamiento en todas sus formas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Establece la censura previa por un comité de supervisión militar antes de imprimir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Artículo 29 prohíbe expresamente la censura previa."
+        },
+        {
+          "letter": "B",
+          "text": "Prohíbe la censura previa, pero responsabiliza al autor por los abusos que cometa (calumnia e injuria) según la ley ordinaria.",
+          "is_correct": true,
+          "feedback": "Correcto. Toda persona es libre de emitir su opinión por cualquier medio sin censura previa, respondiendo a posteriori por los delitos cometidos en el abuso de esa libertad."
+        },
+        {
+          "letter": "C",
+          "text": "Exige que todo periodista posea un carné aprobado por las intendencias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se exige colegiación ni autorización previa gubernamental para ejercer la libertad de expresión."
+        },
+        {
+          "letter": "D",
+          "text": "Prohíbe la publicación de opiniones críticas sobre el presupuesto estatal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El debate y la crítica de las políticas públicas es pilar de la libertad republicana."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Artículo 29 consagra el principio republicano de prohibición de la censura previa, garantizando la libertad de expresión con responsabilidad ulterior por abusos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v14",
+      "statement": "¿Qué impacto secularizador tuvo la Constitución de 1918 sobre la laicidad del Estado y la libertad de cultos en la vida pública uruguaya?",
+      "context": "En la evolución constitucional de Uruguay, la Carta Magna de 1918 separó la Iglesia del Estado y eliminó el Poder Ejecutivo Colegiado creado originalmente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Consagró una religión oficial de estado obligatoria para los cargos públicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Suprimió la religión oficial del Estado consagrando la laicidad plena."
+        },
+        {
+          "letter": "B",
+          "text": "Consagró la absoluta laicidad del Estado, garantizando la libertad de todos los cultos y eximiendo de impuestos a los templos religiosos.",
+          "is_correct": true,
+          "feedback": "Correcto. La Carta de 1918 separó jurídicamente la Iglesia del Estado, afirmando la neutralidad estatal en materia religiosa."
+        },
+        {
+          "letter": "C",
+          "text": "Prohibió la práctica privada de cualquier creencia espiritual.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Garantizó la plena libertad de cultos y creencias en el ámbito privado y público."
+        },
+        {
+          "letter": "D",
+          "text": "Sometió la aprobación de las leyes a la sanción de las autoridades de los templos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las leyes son atribución exclusiva de los poderes laicos representativos del pueblo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Constitución de 1918 marcó el hito secularizador que consolidó la matriz laica del Estado uruguayo y la neutralidad confesional de las instituciones públicas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.53,
+      "bundle_id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v15",
+      "statement": "¿En qué circunstancia procede interponer una Acción de Amparo ante los jueces de la República?",
+      "context": "En el sistema legal uruguayo, la Acción de Amparo (Ley N° 16.011) es un mecanismo procesal rápido de protección de derechos fundamentales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para tramitar la compraventa ordinaria de un vehículo usado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un procedimiento comercial o civil común, no de amparo constitucional."
+        },
+        {
+          "letter": "B",
+          "text": "Contra todo acto u omisión de autoridades públicas o particulares que lesione o amenace con laidez o arbitrariedad manifiesta un derecho constitucional no amparado por habeas corpus.",
+          "is_correct": true,
+          "feedback": "Correcto. El amparo protege de forma urgente cualquier derecho constitucional vulnerado por actos ilegítimos cuando no existan otros medios procesales eficaces."
+        },
+        {
+          "letter": "C",
+          "text": "Para solicitar la eximición permanente de pagar el consumo de energía eléctrica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pago de tarifas públicas no constituye una lesión ilegítima de un derecho si se ajusta a derecho."
+        },
+        {
+          "letter": "D",
+          "text": "Únicamente en tiempos de declaración de estado de guerra exterior.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Procede en tiempos de plena normalidad institucional democrática."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Acción de Amparo es la garantía procesal urgente consagrada para restituir el goce de derechos constitucionales conculcados por ilegitimidad manifiesta.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.5,
+      "bundle_id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v16",
+      "statement": "¿Cómo funcionaba el mecanismo de doble voto simultáneo bajo la Ley de Lemas tradicional?",
+      "context": "El concepto de 'doble voto simultáneo' caracterizó históricamente al sistema electoral uruguayo mediante la Ley de Lemas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permitía a cada votante emitir dos votos: uno en octubre y otro en mayo para el mismo candidato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El doble voto simultáneo ocurra dentro del mismo acto eleccionario."
+        },
+        {
+          "letter": "B",
+          "text": "El votante elegía simultáneamente el partido político (lema) y la fracción/candidato interno (sublema); el voto acumulaba dentro del partido y consagraba a la lista más votada de ese lema.",
+          "is_correct": true,
+          "feedback": "Correcto. El elector votaba al partido y a la fracción al mismo tiempo; la acumulación por lema definía cuál sublema obtenía el cargo."
+        },
+        {
+          "letter": "C",
+          "text": "Obligaba a los ciudadanos a votar dos veces por candidatos de partidos rivales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El voto se acumulaba estrictamente dentro de las listas del mismo lema."
+        },
+        {
+          "letter": "D",
+          "text": "Consagraba como ganador al candidato que obtuviera la menor cantidad de sufragios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ganaba el sublema más votado dentro del lema que obtenía la mayoría acumulada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El doble voto simultáneo acumulaba los votos dentro de un lema partidario, resolviendo la interna y la elección nacional en un único acto electoral.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v17",
+      "statement": "¿Qué factores institucionales de la cultura política republicana explican el elevado estándar de calidad democrática y confianza institucional en Uruguay?",
+      "context": "En índices internacionales de calidad democrática (como el Democracy Index de The Economist), Uruguay es calificado sistemáticamente como una 'democracia plena', encabezando el ranking de América Latina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sólida división de poderes, independencia del Poder Judicial, sistema partidario institucionalizado, baja percepción de corrupción y alta adhesión ciudadana a las reglas de juego democráticas.",
+          "is_correct": true,
+          "feedback": "Correcto. La combinación de instituciones estables, baja corrupción, partidos arraigados y una cultura cívica de apego a la ley sustentan su estatus de democracia plena."
+        },
+        {
+          "letter": "B",
+          "text": "Ausencia total de elecciones parlamentarias y concentración de poder en un gobernante único.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La concentración autocrática de poder es la negación de la democracia plena."
+        },
+        {
+          "letter": "C",
+          "text": "Prohibición del ejercicio del sufragio a los ciudadanos alfabetizados del interior.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sufragio en Uruguay es universal, secreto y obligatorio para todos los ciudadanos mayores de 18 años."
+        },
+        {
+          "letter": "D",
+          "text": "La obligación de renovar la Constitución cada seis meses mediante decretos ejecutivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estabilidad de la norma constitucional es pilar de la seguridad jurídica republicana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La calidad democrática uruguaya se fundamenta en la solidez de sus contrapesos republicanos, la independencia judicial y una cultura política de pluralismo y apego a las instituciones.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v18",
+      "statement": "¿Cómo se manifiesta esta tensión en los debates públicos uruguayos sobre la presencia de símbolos o expresiones culturales/religiosas en espacios de la comunidad?",
+      "context": "Se analiza la tensión contemporánea entre la laicidad estatal entendida como 'neutralidad pasiva o privatización de las creencias' frente a la laicidad como 'pluralismo inclusivo y reconocimiento de la diversidad en la esfera pública'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la imposición por ley de una religión obligatoria en las escuelas públicas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La escuela pública uruguaya es estrictamente laica y neutral según los principios varelianos."
+        },
+        {
+          "letter": "B",
+          "text": "Entre quienes sostienen que la laicidad exige la ausencia total de expresiones religiosas o identitarias en lo público y quienes defienden que el Estado laico debe garantizar la manifestación pluralista e inclusiva de todas las visiones sin privilegiar ninguna.",
+          "is_correct": true,
+          "feedback": "Correcto. Contrapone la tradición de estricta reserva de lo confesional al ámbito privado frente a visiones contemporáneas que promueven el libre ejercicio pluralista e inclusivo en la esfera pública sin coacción."
+        },
+        {
+          "letter": "C",
+          "text": "En la prohibición de enseñar ciencias naturales o matemáticas en el sistema educativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las ciencias y humanidades forman el núcleo curricular del sistema educativo laico."
+        },
+        {
+          "letter": "D",
+          "text": "En la obligación de que los jueces vistan túnicas clericales durante los juicios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Poder Judicial uruguayo es laico e independiente de corporaciones eclesiásticas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El debate contemporáneo sobre la laicidad en Uruguay evoluciona desde una visión de reserva privada de creencias hacia un pluralismo garantista que abrace la diversidad en el espacio público.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v19",
+      "statement": "¿Qué salvaguarda de equilibrio financiero y contrapeso de poderes impone la Constitución al prohibir que la ley de presupuesto contenga normas de creación de cargos o aumentos de sueldos sin crédito presupuestal previo?",
+      "context": "Evalúas la institución de la Mediatización Constitucional de la Ley de Presupuesto Nacional (Artículo 214 al 221 de la Constitución).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumentar indefinidamente el déficit fiscal sin límite parlamentario alguno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las normas presupuestales buscan justamente controlar y ordenar el gasto público."
+        },
+        {
+          "letter": "B",
+          "text": "Evitar la 'politización' del presupuesto mediante aditivos fuera de rubro, garantizando la sostenibilidad financiera y el estricto control de la Asamblea General sobre los recursos del Estado.",
+          "is_correct": true,
+          "feedback": "Correcto. El marco constitucional exige que todo gasto o creación de cargo esté respaldado por créditos presupuestales debidamente financiados, protegiendo el equilibrio fiscal y la transparencia."
+        },
+        {
+          "letter": "C",
+          "text": "Impedir que el Poder Judicial reciba financiamiento del Tesoro Nacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos los poderes del Estado reciben partidas presupuestales aprobadas por ley de presupuesto."
+        },
+        {
+          "letter": "D",
+          "text": "Permitir que el Presidente modifique las alícuotas del IVA mediante un decreto simple sin ley.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La creación o modificación de tributos exige ley en sentido formal aprobada por el parlamento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las exigencias constitucionales sobre la Ley de Presupuesto previenen aditivos demagógicos y resguardan la sostenibilidad fiscal y el control parlamentario de las finanzas públicas.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v20",
+      "statement": "¿Por qué a pesar de la vigencia de la ley de cuota (uno de cada tres candidatos de distinto sexo), la representación femenina efectiva en la Cámara de Senadores y Diputados sigue siendo inferior al 30%?",
+      "context": "Se analiza la efectividad de las cuotas de género en las listas de candidatos (Ley N° 18.476 de Participación Política Equitativa de Ambos Sexos) para integrar los órganos electivos en Uruguay.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Because la ley de cuota prohíbe explícitamente que las mujeres encabecen las listas de candidatos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ley no prohíbe que encabecen; exige integración alternada uno de cada tres en el orden correlativo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las candidatas suelen ser ubicadas en el tercer lugar de la terna de las listas y, debido a la fragmentación de listas en las elecciones uruguayas, frecuentemente solo ingresa el primer titular de la lista.",
+          "is_correct": true,
+          "feedback": "Correcto. En un sistema de múltiples listas competidoras dentro de cada lema, los escaños se distribuyen en primeros titulares (mayormente varones), neutralizando el impacto de la cuota en el tercer lugar."
+        },
+        {
+          "letter": "C",
+          "text": "Porque se ha abolido el derecho al voto femenino en las elecciones nacionales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sufragio femenino rige plenamente en Uruguay desde la década de 1930."
+        },
+        {
+          "letter": "D",
+          "text": "Because las mujeres tienen prohibido pertenecer a bancadas parlamentarias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mujeres legisladoras ejercen plenamente la representación parlamentaria en ambas cámaras."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La interacción entre el diseño de la cuota (1 de cada 3) y la dispersión en múltiples listas del sistema electoral limita la llegada efectiva de mujeres a los escaños titulares.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "UY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    }
+  ]
+}

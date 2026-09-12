@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-35-grade-11-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-12T16:46:07.597Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle-v1",
+      "statement": "El órgano de control fiscal encargado de vigilar el uso de los recursos públicos en Colombia es",
+      "context": "En una emisora comunitaria de Sincelejo se anuncia una veeduría al contrato de una acueducto veredal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Procuraduría General de la Nación",
+          "is_correct": false,
+          "feedback": "La Procuraduría ejerce control disciplinario, no fiscal."
+        },
+        {
+          "letter": "B",
+          "text": "La Contraloría General de la República",
+          "is_correct": true,
+          "feedback": "Correcto. El artículo 267 de la Constitución define la Contraloría como órgano de control fiscal."
+        },
+        {
+          "letter": "C",
+          "text": "La Fiscalía General de la Nación",
+          "is_correct": false,
+          "feedback": "La Fiscalía investiga y juzga penalmente; no vigila el uso de recursos públicos como función principal."
+        },
+        {
+          "letter": "D",
+          "text": "El Consejo Nacional Electoral",
+          "is_correct": false,
+          "feedback": "El CNE dirige y vigilancia la organización electoral, no el uso de la hacienda pública."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El artículo 267 de la Constitución crea la Contraloría General de la República como órgano de control fiscal con personería jurídica, autonomía administrativa y financiera, adscrito a la Rama Judicial para efectos orgánicos pero independiente en sus funciones. Vigila la gestión fiscal de la administración y de los particulares que manejan fondos públicos, mediante el criterio de eficacia, economía y equidad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle-v2",
+      "statement": "El organismo encargado de vigilar la conducta oficial de los servidores públicos, integrado por la Procuraduría, la Defensoría del Pueblo y las personerías, es el",
+      "context": "Un estudiante de Quibdó estudia las entidades del Ministerio Público antes de un examen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ministerio Público, conforme al artículo 118 de la Constitución",
+          "is_correct": true,
+          "feedback": "Correcto. El artículo 118 ordena el Ministerio Público para la vigilancia de la conducta oficial de quienes sirven al Estado."
+        },
+        {
+          "letter": "B",
+          "text": "Consejo de Estado",
+          "is_correct": false,
+          "feedback": "El Consejo de Estado es cabeza de la jurisdicción contencioso administrativa, no un órgano disciplinario."
+        },
+        {
+          "letter": "C",
+          "text": "Corte Constitucional",
+          "is_correct": false,
+          "feedback": "La Corte guarda la integridad de la Constitución mediante control de normas, no vigila conductas de servidores."
+        },
+        {
+          "letter": "D",
+          "text": "Comisión Nacional del Servicio Civil",
+          "is_correct": false,
+          "feedback": "La CNSC administra el mérito en el empleo público, no la vigilancia disciplinaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El artículo 118 configura el Ministerio Público como institución del Estado con autonomía funcional e administrativa, integrado por la Procuraduría General de la Nación, la Defensoría del Pueblo, los defensores del pueblo, los personeros distritales y municipales y los demás que determine la ley. Su función central es la vigilancia de la conducta oficial de quienes desempeñan funciones públicas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle-v3",
+      "statement": "El control social de la gestión pública se entiende mejor como",
+      "context": "En una jornada cívica en Palmira se explica qué puede hacer un ciudadano común frente a una obra pública paralizada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La vigilancia exclusiva que ejercen los jueces sobre la administración",
+          "is_correct": false,
+          "feedback": "Los jueces ejercen control jurisdiccional; el control social es precisamente el que hacen los ciudadanos."
+        },
+        {
+          "letter": "B",
+          "text": "La participación de la ciudadanía en la vigilancia y monitoreo de la acción estatal, con soporte en los artículos 1, 2 y 40 constitucionales",
+          "is_correct": true,
+          "feedback": "Correcto. El control social emana de la soberanía popular y del fin estatal de facilitar la participación."
+        },
+        {
+          "letter": "C",
+          "text": "El reporte voluntario de las empresas privadas al gobierno",
+          "is_correct": false,
+          "feedback": "El control social mira al Estado desde la sociedad, no al revés."
+        },
+        {
+          "letter": "D",
+          "text": "La auditoría contable interna de cada entidad",
+          "is_correct": false,
+          "feedback": "Esa es la auditoría interna o control interno (artículo 209), no el control social ciudadano."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El control social es el poder de la ciudadanía de vigilar, denunciar y participar en la gestión pública: veedurías, audiencias públicas, rendición de cuentas, derecho de petición de información, denuncias ante personerías y contralorías. Su fundamento normativo está en la soberanía popular (artículo 3), los fines del Estado (artículo 2) y los derechos de participación (artículo 40), y su efectividad depende de información accesible y protección frente a represalias.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle-v4",
+      "statement": "El artículo 74 de la Constitución establece que todas las partes son libres para recibir información veraz e imparcial y que los documentos en poder de las autoridades son",
+      "context": "Una comunicadora de Radio Nacional en Pasto prepara un guion sobre transparencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Secretos por regla general, salvo autorización del Presidente",
+          "is_correct": false,
+          "feedback": "La regla es exactamente la contraria: la publicidad, con excepciones tasadas."
+        },
+        {
+          "letter": "B",
+          "text": "Públicos, con las excepciones que establezca la ley por razones de seguridad o inteligencia nacional",
+          "is_correct": true,
+          "feedback": "Correcto. La publicidad de los documentos públicos es la regla constitucional del artículo 74."
+        },
+        {
+          "letter": "C",
+          "text": "Propiedad privada de los funcionarios que los producen",
+          "is_correct": false,
+          "feedback": "Los documentos públicos pertenecen a la función, no al cargo: son del Estado y de la ciudadanía."
+        },
+        {
+          "letter": "D",
+          "text": "Confidenciales durante cincuenta años sin excepción",
+          "is_correct": false,
+          "feedback": "No existe tal plazo general; el acceso a información pública se rige por la Ley 1712 de 2014."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El artículo 74 consagra el principio de publicidad de la función administrativa y el derecho de acceso a la información pública, desarrollado por la Ley 1712 de 2014 (Ley de Transparencia y del Derecho de Acceso a la Información Pública). Este derecho es la condición técnica del control social: sin información accesible y oportuna, la vigilancia ciudadana es imposible.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle-v5",
+      "statement": "Para constituir formalmente una veeduría ciudadana al contrato, el grupo debe atenerse principalmente a",
+      "context": "Un grupo de ciudadanos de Floridablanca quiere vigilar el contrato de aseo de su municipio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Ley 850 de 2003, que regula las veedurías ciudadanas y sus requisitos",
+          "is_correct": true,
+          "feedback": "Correcto. La Ley 850 de 2003 y sus decretos reglamentarios disciplinan las veedurías."
+        },
+        {
+          "letter": "B",
+          "text": "El Código Penales procedimientos de allanamiento judicial",
+          "is_correct": false,
+          "feedback": "El Código Penal no crea veedurías; estas son mecanismos administrativos y ciudadanos, no procedimientos penales."
+        },
+        {
+          "letter": "C",
+          "text": "Un permiso verbal del alcalde que puede revocar en cualquier momento",
+          "is_correct": false,
+          "feedback": "La veeduría no depende de la voluntad del vigilado; es un derecho, no una concesión graciosa."
+        },
+        {
+          "letter": "D",
+          "text": "La autorización de la Corte Constitucional para cada caso",
+          "is_correct": false,
+          "feedback": "La Corte no autoriza veedurías; ejerce el control constitucional de normas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Ley 850 de 2003 define la veeduría ciudadana como la representación democrática de los ciudadanos que vigila la gestión pública en cualquier lugar del territorio. Exige mínimo dos ciudadanos, comunicación a la entidad o personero y un vocero acreditado. La entidad debe dar acceso a la información dentro de los cinco días, y la veeduría rinde informe final. Es la herramienta práctica estrella del control social.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle-v6",
+      "statement": "Las audiencias públicas de rendición de cuentas de autoridades, previstas en la Ley 1474 de 2011 (Estatuto Anticorrupción), sirven principalmente para",
+      "context": "En un colegio de Valledupar se organiza un simulacro de audiencia pública de rendición de cuentas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Elegir nuevos funcionarios por votación de los asistentes",
+          "is_correct": false,
+          "feedback": "No son órganos electorales: informar, debatir y responder ante la ciudadanía."
+        },
+        {
+          "letter": "B",
+          "text": "Que el funcionario explique y responda por su gestión, su patrimonio y sus resultados ante la comunidad",
+          "is_correct": true,
+          "feedback": "Correcto. La rendición de cuentas hace explícita la obligación de informar y responder del poder delegado."
+        },
+        {
+          "letter": "C",
+          "text": "Reemplazar el voto en las elecciones territoriales",
+          "is_correct": false,
+          "feedback": "La rendición no es un mecanismo electoral sustituto del sufragio."
+        },
+        {
+          "letter": "D",
+          "text": "Otorgar personería jurídica a las veedurías constituidas",
+          "is_correct": false,
+          "feedback": "Las veedurías no requieren personería jurídica; actúan como representación ciudadana de hecho."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La rendición de cuentas convierte el poder delegado en poder vigilado: el funcionario informa resultados, uso de recursos y patrimonio, y responde preguntas ciudadanas en audiencia pública. Su efectividad real depende de que existan consecuencias —políticas, disciplinarias, judiciales— ligadas a lo expuesto. Sin consecuencias, la audiencia se degrada a ritual administrativo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle-v7",
+      "statement": "La ruta institucional más directa para que un ciudadano active el control fiscal sobre un presunto detrimento es",
+      "context": "Un ciudadano de Dosquebradas, Risaralda, quiere denunciar el presunto desvío de recursos de una biblioteca pública.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentar denuncia o queja ante la Contraloría competente para que adelante la actuación de responsabilidad fiscal",
+          "is_correct": true,
+          "feedback": "Correcto. Cualquier persona puede promover la actuación fiscal mediante denuncia fundamentada."
+        },
+        {
+          "letter": "B",
+          "text": "Suspender unilateralmente el presupuesto de la entidad implicada",
+          "is_correct": false,
+          "feedback": "Los ciudadanos no disponen del presupuesto: la aprobación y modificación corresponde a las corporaciones públicas."
+        },
+        {
+          "letter": "C",
+          "text": "Convocar un plebiscito para juzgar al funcionario",
+          "is_correct": false,
+          "feedback": "El plebiscito consulta decisiones del Ejecutivo; no juzga conductas individuales."
+        },
+        {
+          "letter": "D",
+          "text": "Solicitar la intervención de la Cruz Roja Internacional",
+          "is_correct": false,
+          "feedback": "El CICR actúa en conflictos armados bajo el derecho internacional humanitario, no en corrupción local."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El proceso de responsabilidad fiscal, reglado por la Ley 610 de 2000, se inicia de oficio o por denuncia ciudadana, y concluye con fallo con o sin responsabilidad fiscal cuando se demuestra daño al patrimonio público por actuación a título de dolo o culpa grave. La denuncia ciudadana es el combustible social del control fiscal: la evidencia muestra que una parte relevante de los procesos nace de quejas de la comunidad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle-v8",
+      "statement": "La conducta de un servidor público que presuntamente viola sus deberes funcionales debe denunciarse disciplinariamente ante",
+      "context": "Un líder estudiantil de Santa Marta pregunta ante quién se queja de un director de colegio que maltrata a estudiantes en el uso de recursos de la papelería.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Procuraduría General de la Nación o la oficina de control interno de la entidad",
+          "is_correct": true,
+          "feedback": "Correcto. La Procuraduría y las oficinas de control interno ejercen el poder disciplinario según el caso."
+        },
+        {
+          "letter": "B",
+          "text": "La Registraduría Nacional del Estado Civil",
+          "is_correct": false,
+          "feedback": "La Registraduría organiza elecciones e identifica personas; no sanciona conductas oficiales."
+        },
+        {
+          "letter": "C",
+          "text": "La Superintendencia de Industria y Comercio",
+          "is_correct": false,
+          "feedback": "La SIC vigila competencia y consumo, no la ética de los docentes funcionarios."
+        },
+        {
+          "letter": "D",
+          "text": "El Banco de la República",
+          "is_correct": false,
+          "feedback": "El Banco Emisor regula la política monetaria y cambiaria; carece de competencia disciplinaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El régimen disciplinario —hoy Código General Disciplinario (Ley 1952 de 2019)— faculta a la Procuraduría para investigar y sancionar a servidores públicos y particulares que ejercen función pública, sin perjuicio de la competencia de las oficinas de control interno. La denuncia disciplinaria es gratuita, no exige abogado y puede presentarse por cualquier medio, siendo un canal privilegiado del control social sobre la conducta oficial.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle-v9",
+      "statement": "El control político que ejercen las corporaciones públicas territoriales sobre sus ejecutivos incluye",
+      "context": "El concejo de un municipio de Santander debate si aprueba el presupuesto anual sin audiencia pública.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La citación a debates de control político y el voto de censura a secretarios, además de las comisiones accidentales de investigación",
+          "is_correct": true,
+          "feedback": "Correcto. El concejo puede citar, censurar y crear comisiones de investigación según la ley (Ley 136 de 1994, Ley 1757 de 2015)."
+        },
+        {
+          "letter": "B",
+          "text": "La destitución directa del alcalde por simple desacuerdo político",
+          "is_correct": false,
+          "feedback": "La destitución del alcalde corresponde a la Procuraduría o a la revocatoria popular, no a una mayoría del concejo."
+        },
+        {
+          "letter": "C",
+          "text": "El nombramiento libre del personero sin requisitos",
+          "is_correct": false,
+          "feedback": "El personero es elegido por el concejo de ternas, con requisitos y periodo fijo (Ley 136 de 1994)."
+        },
+        {
+          "letter": "D",
+          "text": "La facultad de expedir leyes nacionales delegadas",
+          "is_correct": false,
+          "feedback": "Las corporaciones territoriales no legislan: dictan acuerdos y resoluciones en el marco de su competencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El control político es la vigilancia que las asambleas y los concejos ejercen sobre gobernadores y alcaldes: debates de moción, citaciones, votos informativos y de censura, comisiones accidentales con consecuencias, y aprobación y vigilancia del presupuesto. Es control de origen democrático distinto del control fiscal, porque evalúa la dirección política de la administración, no solo la legalidad del gasto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle-v10",
+      "statement": "El sistema de información que concentra datos contractuales de las entidades estatales colombianas, clave para el control social, es",
+      "context": "Un habitante de Ocaña quiere conocer el detalle de la contratación de su municipio en internet.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El sistema SECOP, que publica los procesos de contratación estatal",
+          "is_correct": true,
+          "feedback": "Correcto. El SECOP es la plataforma de transparencia contractual del Estado."
+        },
+        {
+          "letter": "B",
+          "text": "La página web de la FIFA",
+          "is_correct": false,
+          "feedback": "La FIFA es un organismo internacional de fútbol, sin función de transparencia estatal colombiana."
+        },
+        {
+          "letter": "C",
+          "text": "El registro notarial de instrumentos públicos",
+          "is_correct": false,
+          "feedback": "Los registros notariales documentan actos jurídicos privados y algunos públicos, pero no concentran la contratación estatal."
+        },
+        {
+          "letter": "D",
+          "text": "El censo electoral de la Registraduría",
+          "is_correct": false,
+          "feedback": "El censo electoral lista habilitados para votar; no informa sobre contratos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Sistema Electrónico de Contratación Pública (SECOP), creado por la Ley 1150 de 2007, centraliza la información contractual y permite a cualquier persona consultar pliegos, proponentes, Celebración y ejecución de contratos. Su uso por periodistas de datos y veedurías ha revelado redes de contratación, demostrando que la transparencia digital es infraestructura de la democracia: la información disponible es el primer paso del control efectivo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle-v11",
+      "statement": "El patrón de hallazgos fiscales recurrentes sin sanciones efectivas sugiere principalmente un problema de",
+      "context": "Un informe de la Contraloría de Boyacá advierte hallazgos repetidos en la misma alcaldía durante cinco periodos anuales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diseño constitucional: la Contraloría no debería existir en Colombia",
+          "is_correct": false,
+          "feedback": "El problema no es la existencia del órgano, sino la debilidad de sus consecuencias y capacidades."
+        },
+        {
+          "letter": "B",
+          "text": "Impunidad estructural: lentitud procesal, prescripción, debilidad probatoria y falta de coordinación entre contralorías, procuradurías y justicia penal",
+          "is_correct": true,
+          "feedback": "Correcto. La repetición de hallazgos sin fallo revela un ciclo de control sin consecuencias."
+        },
+        {
+          "letter": "C",
+          "text": "Exceso de recursos: las contralorías procesan demasiados casos",
+          "is_correct": false,
+          "feedback": "La evidencia muestra más bien saturación y subdotación técnica, no exceso de actividad."
+        },
+        {
+          "letter": "D",
+          "text": "La inexistencia de normas de contratación en el país",
+          "is_correct": false,
+          "feedback": "Colombia tiene un estatuto contractual desarrollado (Ley 80 de 1993 y Ley 1150 de 2007)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La función del control no termina en detectar: debe sancionar y reparar. El ciclo denuncia-investigación-decisión-ejecución es la prueba de calidad del sistema. Cuando el fallo llega tarde, prescribe o no cobra, el hallazgo se vuelve estadística y la corrupción se convierte en riesgo calculado. Analizar este circuito enseña que los derechos y las reglas solo existen si alguien los hace cumplir.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle-v12",
+      "statement": "La discusión sobre la destitución e inhabilidad de elegidos por la vía disciplinaria, tras el caso \"Lozano y Others vs. Colombia\" (2022) ante la Corte Interamericana de Derechos Humanos, gira en torno a",
+      "context": "En un foro académico se discute la Sentencia C-795 de 2014 sobre la potestad sancionatoria de la Procuraduría.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La prohibición absoluta de todo control disciplinario sobre servidores",
+          "is_correct": false,
+          "feedback": "Ninguna decisión suprimió el poder disciplinario del Estado: el debate es sobre su intensidad y vía."
+        },
+        {
+          "letter": "B",
+          "text": "La tensión entre la potestad disciplinaria administrativa y la Convención Americana (artículo 23), que reserva restricciones a derechos políticos a la vía judicial",
+          "is_correct": true,
+          "feedback": "Correcto. La CIDH condicionó la inhabilitación de elegidos al control de un juez, no a una autoridad administrativa."
+        },
+        {
+          "letter": "C",
+          "text": "La eliminación de la Procuraduría del texto constitucional",
+          "is_correct": false,
+          "feedback": "La reforma del Ministerio Público es una opción política pendiente, no el objeto del caso Lozano."
+        },
+        {
+          "letter": "D",
+          "text": "La entrega del poder disciplinario a los concejos municipales",
+          "is_correct": false,
+          "feedback": "Los concejos ejercen control político, no disciplinario."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En Lozano y Others vs. Colombia (2022), la Corte IDH declaró incompatible que una autoridad administrativa —la Procuraduría— destituya e inhabilite a un elegido por voto popular sin control judicial pleno, con base en el artículo 23.2 de la Convención Americana. Este caso reactivó el debate sobre el diseño del control disciplinario en Colombia y muestra cómo el bloque de constitucionalidad (artículo 93) incorpora estándares internacionales que profundizan la Constitución.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle-v13",
+      "statement": "El fenómeno de \"veedurías de alquiler\" evidencia que el control social",
+      "context": "Un docente analiza con sus estudiantes las veedurías capturadas por contratistas o usadas para extorsionar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debe prohibirse porque solo produce distorsiones",
+          "is_correct": false,
+          "feedback": "Renunciar al control ciudadano por sus abusos es confundir el instrumento con su degradación."
+        },
+        {
+          "letter": "B",
+          "text": "Es un derecho condicionado a la aprobación previa de la Contraloría",
+          "is_correct": false,
+          "feedback": "La veeduría se comunica, no se solicita en permiso: el artículo 40 no supedita su ejercicio a autorizaciones."
+        },
+        {
+          "letter": "C",
+          "text": "Depende de la integridad, la independencia y las capacidades de quienes lo ejercen, y requiere reglas de transparencia también para los vigilantes",
+          "is_correct": true,
+          "feedback": "Correcto. El control social no es virtuoso por naturaleza: exige legitimidad, formación y rendición de cuentas propia."
+        },
+        {
+          "letter": "D",
+          "text": "Solo es válido cuando lo promueve la personería municipal",
+          "is_correct": false,
+          "feedback": "Las personerías facilitan y orientan, pero la iniciativa ciudadana es autónoma."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La calidad del control social no está garantizada por su origen popular: puede ser capturado por intereses, usado para hostigar o degradarse en espectáculo. La respuesta institucional combina formación ciudadana, publicación de agendas y financiamiento de las propias veedurías, protección contra retaliaciones y cooperación con órganos oficiales. Analizar críticamente al vigilante es tan necesario como analizar al gobernado: la integridad es condición de la legitimidad del control.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle-v14",
+      "statement": "La \"cultura de la denuncia sin consecuencia\" afecta al sistema de control porque",
+      "context": "Una investigación periodística muestra que la mayoría de denuncias ciudadanas nunca se archiva ni resuelve por falta de seguimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta la confianza ciudadana al saber que nadie responde",
+          "is_correct": false,
+          "feedback": "La desconfianza es el efecto documentado de la impunidad, no su opuesto."
+        },
+        {
+          "letter": "B",
+          "text": "Convierte la participación en rito y desincentiva el control social, al romper el vínculo entre vigilancia ciudadana y respuesta institucional",
+          "is_correct": true,
+          "feedback": "Correcto. Sin respuesta, la participación se erosionan y el sistema pierde su legitimidad efectiva."
+        },
+        {
+          "letter": "C",
+          "text": "Elimina la necesidad de control interno en las entidades",
+          "is_correct": false,
+          "feedback": "La falta de respuesta agrava la necesidad, no la suprime."
+        },
+        {
+          "letter": "D",
+          "text": "Hace innecesarios los medios de comunicación en democracia",
+          "is_correct": false,
+          "feedback": "La opacidad institucional refuerza, no elimina, la función de los medios como contrapoder."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los circuitos de control solo funcionan cerrados: petición, respuesta, sanción, reparación. Cuando el Estado recibe denuncias y no informa ni decide, la ciudadanía aprende que vigilar es inútil y el sistema se retroalimenta de silencio. La gestión de solicitudes, los términos del derecho de petición (Ley 1755 de 2015) y el seguimiento público de casos son, por tanto, infraestructura de la confianza democrática.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle-v15",
+      "statement": "El análisis de las declaraciones de bienes y conflicto de interés revela su valor democrático cuando se usa para",
+      "context": "En un taller de periodismo de datos en Medellín se comparan las declaraciones de bienes y conflictos de interés de funcionarios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Publicar sin contexto datos personales de los funcionarios como escarnio",
+          "is_correct": false,
+          "feedback": "El fin no es el espectáculo: contrastar patrimonio, cargos y posibles incompatibilidades con presunción de buena fe."
+        },
+        {
+          "letter": "B",
+          "text": "Verificar la evolución patrimonial, anticipar incompatibilidades y cruzar información con contratación para detectar enriquecimiento injustificado",
+          "is_correct": true,
+          "feedback": "Correcto. La utilidad del dato está en el cruce sistemático, no en la ficha individual."
+        },
+        {
+          "letter": "C",
+          "text": "Sustituir las auditorías fiscales de la Contraloría",
+          "is_correct": false,
+          "feedback": "La transparencia complementa la auditoría; no la reemplaza."
+        },
+        {
+          "letter": "D",
+          "text": "Acreditar la riqueza para otorgar privilegios electorales",
+          "is_correct": false,
+          "feedback": "La Constitución prohíbe privilegios por condición económica; la igualdad es regla (artículo 13)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las declaraciones de bienes, rentas y conflictos de interés, obligatorias por la Ley 190 de 1995 y reglamentaciones posteriores, son materia prima del control social informado. Su efectividad depende de la publicidad real (plataformas accesibles) y de la capacidad técnica de ciudadanos y periodistas para cruzarlas con contratación, propiedad y procesos. Aquí la transparencia se vuelve inteligencia cívica: el dato disponible que se usa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle-v16",
+      "statement": "Este caso ilustra el principal riesgo estructural del control social en territorios colombianos:",
+      "context": "Un personero de un municipio de Nariño es amenazado por apoyar una veeduría a una obra de infraestructura escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La abundancia de información pública disponible",
+          "is_correct": false,
+          "feedback": "La sobreabundancia informativa no es el problema documentado: lo es la opacidad y el riesgo por indagar."
+        },
+        {
+          "letter": "B",
+          "text": "La vulnerabilidad y el estigma de quienes vigilan, que exige protección estatal y garantías de no represalia",
+          "is_correct": true,
+          "feedback": "Correcto. Denunciar puede costar el trabajo, la tranquilidad o la vida, sobre todo en contextos de captura local y conflicto."
+        },
+        {
+          "letter": "C",
+          "text": "La ausencia total de personerías en los municipios",
+          "is_correct": false,
+          "feedback": "Las personerías existen por mandato constitucional; el problema es su debilidad y riesgo, no su inexistencia."
+        },
+        {
+          "letter": "D",
+          "text": "El exceso de presupuesto destinado a veedurías",
+          "is_correct": false,
+          "feedback": "Las veedurías se sostienen con trabajo voluntario; casi no existe rubro presupuestal que las financie."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En municipios pequeños con economías concentradas y presencia de grupos armados, la denuncia puede significar aislamiento, despido, amenazas o asesinato. El Estado tiene el deber de proteger a quienes ejercen control social (artículos 2 y 40), y la comunidad internacional ha recomendado marcos específicos de protección de defensores. Analizar el costo humano del control social es parte indispensable de la formación ciudadana: la vigilancia no es neutral.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle-v17",
+      "statement": "La evaluación más rigurosa de esta afirmación sostiene que",
+      "context": "Un consejo editorial escolar debate la frase: \"más contralorías, menos corrupción\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es verdadera: basta aumentar el número de órganos de control para erradicar la corrupción",
+          "is_correct": false,
+          "feedback": "La evidencia muestra que sin sanciones efectivas y voluntad política, más órganos producen más informes, no menos corrupción."
+        },
+        {
+          "letter": "B",
+          "text": "Es falsa: el control institucional es irrelevante frente a la cultura ciudadana",
+          "is_correct": false,
+          "feedback": "Extremo opuesto: sin instituciones de control, la cultura ciudadana carece de efectos disuasivos y reparadores."
+        },
+        {
+          "letter": "C",
+          "text": "Es incompleta: el control funciona cuando los órganos tienen independencia, capacidades y consecuencias, y se articulan con una ciudadanía informada y protegida",
+          "is_correct": true,
+          "feedback": "Correcto. La integridad del sistema depende de la articulación de control estatal y social con sanciones creíbles."
+        },
+        {
+          "letter": "D",
+          "text": "Es innecesaria, porque Colombia ya eliminó la corrupción en la Constitución",
+          "is_correct": false,
+          "feedback": "Prohibir no es erradicar: la norma declara el delito, la realidad institucional lo combate."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La literatura anticorrupción distingue el control formal del efectivo: independencia de los órganos, profesionalización, seguimiento de decisiones, coordinación interinstitucional y participación social. Colombia tiene un sistema de control diseñado con amplitud constitucional; su debilidad está en la ejecución, la politización de nombramientos y la desconexión con la ciudadanía. Evaluar críticamente este sistema es el objetivo cognitivo central de este bundle.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.5,
+      "bundle_id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle-v18",
+      "statement": "El argumento constitucional contra la reaparición masiva del control fiscal previo como regla general es que",
+      "context": "Se debate en un aula si el control fiscal previo debería reemplazar al posterior para prevenir más corrupción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El control previo está expresamente prohibido por el artículo 267 de la Constitución de 1991",
+          "is_correct": false,
+          "feedback": "El artículo 267 no lo prohíbe; el debate es de conveniencia institucional y legal."
+        },
+        {
+          "letter": "B",
+          "text": "La gestión fiscal con control posterior fortalece la responsabilidad del gestor y evita que la Contraloría administre sustituyendo al ordenador del gasto, aunque el control previo excepcional es admisible",
+          "is_correct": true,
+          "feedback": "Correcto. La regla del sistema es el control posterior con responsabilidad del gestor; el retorno al previo masivo generaría parálisis y corresponsabilidad burocrática."
+        },
+        {
+          "letter": "C",
+          "text": "El control posterior es más costoso que el previo por definición matemática",
+          "is_correct": false,
+          "feedback": "No hay teorema que lo demuestre: los costos dependen del diseño de ambos sistemas."
+        },
+        {
+          "letter": "D",
+          "text": "Los gestores públicos son incapaces de asumir responsabilidad alguna",
+          "is_correct": false,
+          "feedback": "Menosprecia al funcionario honesto; el sistema parte de la responsabilidad, no de la incapacidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Colombia transitó del control previo (aprobación de cada acto, vigente hasta la reforma de 1993 y consolidada con la Ley 80 de 1993 y el Decreto 222 de 1995) al posterior con responsabilidad fiscal. El dilema es clásico: prevenir o permitir y sancionar. El diseño vigente elige confianza vigilada y exige consecuencias; volver al control previo masivo transferiría a la Contraloría el peso de decidir lo que corresponde a los gestores, diluyendo la responsabilidad que el control social busca exigir.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.5,
+      "bundle_id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle-v19",
+      "statement": "La distinción ética y constitucional entre control social a la gestión pública y vigilancia masiva a la ciudadanía se apoya en que",
+      "context": "Un panel estudiantil compara el control social con la vigilancia digital masiva de ciudadanos por parte del Estado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambas son idénticas, porque en las dos hay información de por medio",
+          "is_correct": false,
+          "feedback": "La identidad formal del dato oculta una diferencia esencial de poder, dirección y límites."
+        },
+        {
+          "letter": "B",
+          "text": "El control social vigila el ejercicio del poder público con base en la publicidad de la función estatal (artículo 74), mientras la vigilancia masiva invierte el vector y puede violar la intimidad (artículo 15) si no media ley estricta y proporcional",
+          "is_correct": true,
+          "feedback": "Correcto. La dirección del ojo y el marco de derechos marcan la frontera."
+        },
+        {
+          "letter": "C",
+          "text": "La vigilancia estatal es siempre legítima porque la ejecuta el Presidente",
+          "is_correct": false,
+          "feedback": "Ninguna autoridad está fuera de la Constitución; la interceptación exige orden judicial (artículo 15)."
+        },
+        {
+          "letter": "D",
+          "text": "El control social solo puede ejercerlo la fuerza pública",
+          "is_correct": false,
+          "feedback": "El control social es por definición ciudadano, no policial."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Tecnologías como el reconocimiento facial o los big data policiales abren el debate sobre el \"ojo del Estado\". El control social es un derecho del débil sobre el fuerte: transparencia debida al que gobierna. La vigilancia sin control jurídico es poder del fuerte sobre el débil: intimidad e información personal en riesgo. La Constitución traza la frontera con la publicidad de lo público (artículo 74), la reserva de lo privado (artículo 15) y la exigencia de orden judicial para intervenir comunicaciones.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.45,
+      "bundle_id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle-v20",
+      "statement": "Como formación ciudadana integral, el juicio más sólido sobre el control social en una democracia es que",
+      "context": "En el cierre del periodo, un colegio de Yopal diseña un plan escolar de control social y pide un juicio final a los estudiantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es tarea exclusiva de organismos especializados, pues la ciudadanía no tiene competencia para vigilar",
+          "is_correct": false,
+          "feedback": "El artículo 40 reconoce la competencia ciudadana; la especialización institucional es complemento, no sustituto."
+        },
+        {
+          "letter": "B",
+          "text": "Es un ritual simbólico sin efectos materiales sobre la gestión pública",
+          "is_correct": false,
+          "feedback": "La evidencia colombiana muestra obras corregidas, contratos suspendidos y funcionarios sancionados por presión de controles ciudadanos organizados."
+        },
+        {
+          "letter": "C",
+          "text": "Es una responsabilidad compartida e insustituible: requiere derechos informados, instituciones con consecuencias y una cultura que valore la honestidad como bien público",
+          "is_correct": true,
+          "feedback": "Correcto. El control social eficaz es sistema, no gesto: información, participación, sanción y cultura."
+        },
+        {
+          "letter": "D",
+          "text": "Debe limitarse a las grandes ciudades para evitar riesgos locales",
+          "is_correct": false,
+          "feedback": "El control social es más necesario donde el Estado es más débil; limitarlo por riesgo sería premiar la opacidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este bundle concluye con una síntesis de competencias: la ciudadanía no delega enteramente su soberanía al elegir. El control social es la continuación de la democracia por otros medios, y su calidad depende de la articulación entre la vigilancia ciudadana y la efectividad de las instituciones. Pensar críticamente el control —sus límites, sus riesgos, sus condiciones— es formar ciudadanos capaces de sostener lo público en un país donde la confianza es escasa y necesaria.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.45,
+      "bundle_id": "CO-SOC-11-2026-W35-control-social-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

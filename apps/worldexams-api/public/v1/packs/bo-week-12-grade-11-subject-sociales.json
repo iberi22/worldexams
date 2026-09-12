@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "sociales",
+    "country": "bo",
+    "pack_id": "bo-week-12-grade-11-subject-sociales",
+    "generated_at": "2026-09-12T16:46:07.259Z"
+  },
+  "questions": [
+    {
+      "id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v1",
+      "statement": "Ubicado en el departamento de Potosí a más de 3600 msnm, ¿cuál es el mayor desierto de sal continuo del mundo que alberga las principales reservas evaporíticas de litio de Bolivia?",
+      "context": "En La Paz, el estudiante Grover del Colegio Nacional Ayacucho examina el mapa geomorfológico de los salares del sudoeste potosino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Salar de Atacama",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se ubica en territorio de Chile."
+        },
+        {
+          "letter": "B",
+          "text": "El Desierto de Sechura",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un desierto costero ubicado en Perú."
+        },
+        {
+          "letter": "C",
+          "text": "El Salar de Uyuni",
+          "is_correct": true,
+          "feedback": "Correcto. Con más de 10.000 km² posee colosales reservas de litio, potasio y boro."
+        },
+        {
+          "letter": "D",
+          "text": "La Pampa del Tamarugal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una llanura desértica en el norte de Chile."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Salar de Uyuni representa la mayor reserva de salmueras de litio del planeta dentro de la cuenca endorreica potosina.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v2",
+      "statement": "La región geopolítica denominada el 'Triángulo del Litio' concentra más del 60% de los recursos mundiales de este mineral y está integrada por:",
+      "context": "En Cochabamba, la estudiante Roxana de la Unidad Educativa Don Bosco analiza el mapa de recursos mineros estratégicos de América del Sur.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bolivia, Argentina y Chile",
+          "is_correct": true,
+          "feedback": "Correcto. Comparten los salares evaporíticos más ricos de Sudamérica."
+        },
+        {
+          "letter": "B",
+          "text": "Bolivia, Brasil y Perú",
+          "is_correct": false,
+          "feedback": "Incorrecto. Brasil y Perú no forman parte del Triángulo del Litio evaporítico."
+        },
+        {
+          "letter": "C",
+          "text": "Bolivia, Paraguay y Uruguay",
+          "is_correct": false,
+          "feedback": "Incorrecto. Paraguay y Uruguay carecen de salares de evaporación con litio."
+        },
+        {
+          "letter": "D",
+          "text": "Bolivia, Colombia y Ecuador",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los países andinos del norte no poseen grandes salares de litio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Triángulo del Litio es clave en la transición energética global hacia baterías de electromovilidad.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v3",
+      "statement": "¿Qué empresa pública autárquica fue creada por el Estado boliviano para encarar la cadena completa de extracción e industrialización del litio?",
+      "context": "En Santa Cruz, el estudiante Jhonny del Colegio Bolívar estudia la ley de creación de la empresa estatal YLB.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yacimientos de Litio Bolivianos (YLB)",
+          "is_correct": true,
+          "feedback": "Correcto. Encargada del desarrollo soberano del carbonato e hidróxido de litio."
+        },
+        {
+          "letter": "B",
+          "text": "Corporación Minera de Bolivia (COMIBOL)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Maneja principalmente la minería tradicional metálica de estaño, zinc y plata."
+        },
+        {
+          "letter": "C",
+          "text": "Empresa Nacional de Electricidad (ENDE)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Genera y distribuye energía eléctrica en el país."
+        },
+        {
+          "letter": "D",
+          "text": "Yacimientos Petrolíferos Fiscales Bolivianos (YPFB)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Administra la cadena de valor de los hidrocarburos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "YLB lidera la estrategia estatal para agregar valor local al litio produciendo materiales catódicos y baterías.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v4",
+      "statement": "La cuenca hidrográfica endorreica o cerrada del Altiplano boliviano (sistema TDPS) está conformada principalmente por los ríos y lagos:",
+      "context": "En El Alto, la estudiante Marisol del Colegio San Simón identifica en un mapa hidrográfico el curso del río Desaguadero desde el Titicaca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lago Titicaca, río Desaguadero, lago Poopó y los Salares de Uyuni y Coipasa",
+          "is_correct": true,
+          "feedback": "Correcto. Sus aguas no tienen salida al océano y regulan el clima altoandino."
+        },
+        {
+          "letter": "B",
+          "text": "Río Mamoré, río Beni y río Madera",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pertenecen a la cuenca del Amazonas que desagua en el Atlántico."
+        },
+        {
+          "letter": "C",
+          "text": "Río Silala y río Lauca exclusivamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son ríos y manantiales específicos transfronterizos."
+        },
+        {
+          "letter": "D",
+          "text": "Río Pilcomayo, río Bermejo y río Paraguay",
+          "is_correct": false,
+          "feedback": "Incorrecto. Forman la cuenca del Plata en el sur del país."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El sistema TDPS es la arteria biológica y cultural de las poblaciones aymaras y urus del altiplano.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la cuenca hidrográfica más extensa de Bolivia, ocupando cerca del 66% del territorio nacional y drenando hacia el Océano Atlántico?",
+      "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín calcula la superficie territorial que abarca la cuenca del Amazonas en Bolivia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuenca Endorreica o del Altiplano",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocupa cerca del 14% en el altiplano andino."
+        },
+        {
+          "letter": "B",
+          "text": "Cuenca del Amazonas",
+          "is_correct": true,
+          "feedback": "Correcto. Abarca ríos caudalosos como el Mamoré, Beni, Madre de Dios e Iténez."
+        },
+        {
+          "letter": "C",
+          "text": "Cuenca del Plata",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocupa aproximadamente el 20% del territorio en el sur y oriente."
+        },
+        {
+          "letter": "D",
+          "text": "Cuenca del Pacífico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bolivia no posee vertiente directa al Pacífico tras la pérdida del Litoral."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La cuenca amazónica boliviana aporta el mayor caudal hídrico y alberga la principal riqueza biológica y forestal.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v6",
+      "statement": "Los ríos Pilcomayo y Bermejo nacen en los Andes bolivianos y forman parte fundamental de:",
+      "context": "En Potosí, el estudiante Ronald de la Unidad Educativa Juan Pablo II localiza el curso del río Pilcomayo en el departamento de Tarija.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Cuenca del Orinoco",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se ubica en el norte de Sudamérica (Venezuela y Colombia)."
+        },
+        {
+          "letter": "B",
+          "text": "La Cuenca del Plata",
+          "is_correct": true,
+          "feedback": "Correcto. Desembocan en el sistema Paraguay-Paraná hacia el Atlántico sur."
+        },
+        {
+          "letter": "C",
+          "text": "La Cuenca del Amazonas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Discurren hacia el sur, sin conectarse con el río Madeira."
+        },
+        {
+          "letter": "D",
+          "text": "La Cuenca Endorreica del Titicaca",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son ríos exorreicos que salen del territorio nacional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La cuenca del Plata integra a Bolivia en la navegación comercial e hidroeléctrica del Cono Sur.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v7",
+      "statement": "Ubicados en el cantón Quetena Chico (Potosí), ¿qué manantiales hídricos canalizados artificialmente hacia Chile fueron objeto de demanda ante la Corte Internacional de Justicia?",
+      "context": "En Oruro, el estudiante Limbert del Colegio San Calixto investiga los antecedentes geográficos del conflicto por las aguas del Silala.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El río Desaguadero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fluye internamente entre el Titicaca y el Poopó."
+        },
+        {
+          "letter": "B",
+          "text": "El río Lauca",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un río desviado por Chile en 1962 en la frontera con Oruro."
+        },
+        {
+          "letter": "C",
+          "text": "El río Madre de Dios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fluye en la Amazonía norte hacia Brasil."
+        },
+        {
+          "letter": "D",
+          "text": "Las aguas del Silala",
+          "is_correct": true,
+          "feedback": "Correcto. Bolivia defendió la soberanía sobre estos manantiales y sus canales artificiales."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El litigio del Silala abordó el estatus de los manantiales de bofedal y el impacto de las canalizaciones artificiales.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v8",
+      "statement": "Los mayores yacimientos y reservas probadas de gas natural y petróleo de Bolivia se concentran principalmente en los departamentos de:",
+      "context": "En Tarija, la estudiante Shirley del Colegio Nacional Pichincha ubica en un mapa económico los megacampos gasíferos del departamento de Tarija.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pando y Beni exclusivamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Poseen potencial forestal y castañero en la Amazonía."
+        },
+        {
+          "letter": "B",
+          "text": "Tarija, Santa Cruz y Chuquisaca",
+          "is_correct": true,
+          "feedback": "Correcto. Albergan megacampos como Margarita, San Alberto e Incahuasi."
+        },
+        {
+          "letter": "C",
+          "text": "La Paz, Oruro y Potosí",
+          "is_correct": false,
+          "feedback": "Incorrecto. Destacan por su riqueza minera metálica y evaporítica."
+        },
+        {
+          "letter": "D",
+          "text": "Cochabamba y Sucre exclusivamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Poseen refinación y valles, pero menor volumen de reservas gasíferas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La región subandina del sur produce la mayor parte de los hidrocarburos que sustentan las exportaciones a Brasil y Argentina.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v9",
+      "statement": "La Cordillera de los Andes en Bolivia se divide en dos grandes ramales montañosos conocidos como:",
+      "context": "En Trinidad, el estudiante Boris del Colegio Antonio Vaca Díez compara la morfología de la Cordillera Occidental con la Cordillera Real.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cordillera Occidental (volcánica) y Cordillera Oriental o Real (glaciares)",
+          "is_correct": true,
+          "feedback": "Correcto. Enmarcan la alta meseta del Altiplano boliviano."
+        },
+        {
+          "letter": "B",
+          "text": "Cordillera del Darién y Cordillera Parima",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se ubican en Centroamérica y la Guayana."
+        },
+        {
+          "letter": "C",
+          "text": "Cordillera de la Costa y Cordillera de la Sal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son formaciones geográficas de Chile."
+        },
+        {
+          "letter": "D",
+          "text": "Serranía de Chiquitos y Escudo Precámbrico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son formaciones geológicas del oriente boliviano."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Cordillera Real alberga imponentes nevados como el Illimani y Sajama que alimentan de agua de deshielo a las ciudades.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v10",
+      "statement": "El yacimiento de mineral de hierro y manganeso considerado uno de los más grandes del mundo, ubicado en Puerto Suárez (Santa Cruz), se denomina:",
+      "context": "En Cobija, el estudiante Franz del Colegio Nacional Florida analiza el proyecto de la Planta Siderúrgica de El Mutún en Germán Busch.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Mutún",
+          "is_correct": true,
+          "feedback": "Correcto. Cuenta con reservas estimadas en 40.000 millones de toneladas de mineral de hierro."
+        },
+        {
+          "letter": "B",
+          "text": "Llallagua",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fue el gran yacimiento de estaño en Potosí explotado por Patiño."
+        },
+        {
+          "letter": "C",
+          "text": "San Cristóbal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un yacimiento a cielo abierto de zinc, plata y plomo en Potosí."
+        },
+        {
+          "letter": "D",
+          "text": "Cerro Rico de Potosí",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fue el histórico yacimiento colonial de plata."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Mutún es la base para el desarrollo de la siderurgia nacional en el Escudo Precámbrico boliviano.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v11",
+      "statement": "La recolección y exportación de la nuez de la Amazonía (castaña / Bertholletia excelsa) constituye el motor económico de:",
+      "context": "En Tupiza, la estudiante Nancy del Colegio Nacional Ayacucho estudia la cadena productiva de la castaña en Cobija y Riberalta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El departamento de Tarija y el Chaco",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su economía se basa en hidrocarburos y vitivinicultura."
+        },
+        {
+          "letter": "B",
+          "text": "El departamento de Pando y el norte del Beni",
+          "is_correct": true,
+          "feedback": "Correcto. Genera divisas por exportación y empleo zafrero sustentable."
+        },
+        {
+          "letter": "C",
+          "text": "El altiplano potosino y orureño",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su economía abarca minería y camélidos."
+        },
+        {
+          "letter": "D",
+          "text": "Los valles de Cochabamba y Chuquisaca",
+          "is_correct": false,
+          "feedback": "Incorrecto. Destacan por producción agrícola de maíz, frutas y trigo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La castaña es un recurso forestal no maderable que preserva el bosque amazónico mediante su aprovechamiento sustentable.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v12",
+      "statement": "¿Qué principio ratifica la Constitución de 2009 en su artículo 267 respecto a la reivindicación marítima de Bolivia?",
+      "context": "En Uyuni, el estudiante Edwin de la Unidad Educativa Don Bosco examina el artículo 267 de la CPE sobre la reivindicación marítima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El derecho irrenunciable e imprescriptible sobre el territorio que le dé acceso al Océano Pacífico y su espacio marítimo",
+          "is_correct": true,
+          "feedback": "Correcto. Declara la solución del encierro mediterráneo como objetivo permanente del Estado."
+        },
+        {
+          "letter": "B",
+          "text": "La compra de un puerto comercial exclusivo en las costas de Brasil",
+          "is_correct": false,
+          "feedback": "Incorrecto. La demanda histórica es sobre el Océano Pacífico."
+        },
+        {
+          "letter": "C",
+          "text": "La renuncia definitiva a cualquier soberanía sobre las costas del Pacífico",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Constitución consagra la reivindicación marítima soberana."
+        },
+        {
+          "letter": "D",
+          "text": "La entrega del lago Titicaca a potencias transatlánticas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Titicaca es patrimonio soberano compartido con Perú."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La causa marítima es un pilar de la política exterior y de la identidad nacional boliviana.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v13",
+      "statement": "La zona fisiográfica de los Yungas paceños y cochabambinos se caracteriza por ser:",
+      "context": "En Viacha, el estudiante Marcelo del Colegio Bolívar analiza el mapa bioclimático de la franja de los Yungas de La Paz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un desierto de dunas de arena en la frontera con Paraguay",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe zonas secas del Chaco boreal."
+        },
+        {
+          "letter": "B",
+          "text": "Una selva plana inundable perteneciente a la cuenca del Plata",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe los llanos de Moxos y Pantanal."
+        },
+        {
+          "letter": "C",
+          "text": "Una planicie árida de salares sin vegetación a 4000 msnm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe la zona del Altiplano sur."
+        },
+        {
+          "letter": "D",
+          "text": "Una franja de transición subtropical con laderas empinadas, bosques nublados y cultivos tradicionales de coca y frutas",
+          "is_correct": true,
+          "feedback": "Correcto. Combina alta biodiversidad con agricultura en terrazas ancestrales."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los Yungas regulan el clima entre la cordillera andina y la llanura amazónica produciendo café, cítricos y coca.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v14",
+      "statement": "El artículo 384 de la CPE protege a la hoja de coca originaria y ancestral al definirla como:",
+      "context": "En Quillacollo, el estudiante Freddy del Colegio San Simón estudia el estatus constitucional de la hoja de coca originaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un bien de exportación exclusivo para farmacéuticas europeas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ley protege su uso y revalorización nacional."
+        },
+        {
+          "letter": "B",
+          "text": "Una sustancia química sintética de uso industrial prohibido",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hoja de coca es una planta natural ancestral."
+        },
+        {
+          "letter": "C",
+          "text": "Patrimonio cultural, recurso natural renovable de la biodiversidad y factor de cohesión social",
+          "is_correct": true,
+          "feedback": "Correcto. Valora su consumo tradicional (acullico) y prohíbe su criminalización en estado natural."
+        },
+        {
+          "letter": "D",
+          "text": "Un cultivo transgénico de reciente introducción en Bolivia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una planta milenaria nativa de las regiones del subandino."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Constitución diferencia la hoja de coca en su estado natural (acullico, medicina) de los usos ilícitos.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v15",
+      "statement": "El problema ambiental de los 'chaqueos' e incendios forestales en la Chiquitania y Amazonía boliviana se debe principalmente a:",
+      "context": "En Sacaba, el estudiante René del Colegio Nacional Junín investiga las causas de los incendios forestales en el bosque chiquitano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La congelación extrema del suelo por olas de frío polar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los incendios ocurren por sequía y acción humana en época seca."
+        },
+        {
+          "letter": "B",
+          "text": "La actividad minera de socavón en la Cordillera Real",
+          "is_correct": false,
+          "feedback": "Incorrecto. La minería de socavón no causa chaqueos forestales extensivos."
+        },
+        {
+          "letter": "C",
+          "text": "La quema no controlada para la ampliación de la frontera agrícola y ganadera",
+          "is_correct": true,
+          "feedback": "Correcto. Destruye miles de hectáreas de bosque seco chiquitano y biodiversidad."
+        },
+        {
+          "letter": "D",
+          "text": "El exceso de lluvias e inundaciones en la cuenca del Plata",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las inundaciones son eventos hídricos, no incendios de biomasa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los chaqueos generan pérdida de cobertura boscosa y emisión de gases afectando la biodiversidad ecorregional.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v16",
+      "statement": "¿Qué impacto ambiental produce el uso desenfrenado de mercurio en la minería aurífera informal sobre los ríos amazónicos como el Madre de Dios y Beni?",
+      "context": "En Montero, la estudiante Lidia de la Unidad Educativa Juan Pablo II analiza los informes sobre niveles de mercurio en comunidades ribereñas del río Beni.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumento de la salinidad del lago Titicaca",
+          "is_correct": false,
+          "feedback": "Incorrecto. La minería de oro en la Amazonía no afecta la salinidad del Titicaca."
+        },
+        {
+          "letter": "B",
+          "text": "Bioacumulación de mercurio tóxico en los peces afectando la salud de comunidades indígenas como los Tacanas y Ese Ejjas",
+          "is_correct": true,
+          "feedback": "Correcto. El mercurio se transforma en metilmercurio ingresando a la cadena alimenticia acuática."
+        },
+        {
+          "letter": "C",
+          "text": "Acidificación de las aguas subterráneas del altiplano potosino",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurre por drenaje ácido de mina en la cordillera, no en la Amazonía."
+        },
+        {
+          "letter": "D",
+          "text": "Desaparición de los glaciares de la Cordillera Occidental",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pérdida de glaciares se debe al calentamiento global."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La contaminación por mercurio representa una amenaza grave a la salud de las poblaciones ribereñas de la cuenca amazónica.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v17",
+      "statement": "Al analizar la problemática del suministro de agua potable para las ciudades de La Paz y El Alto, ¿qué factor climático genera mayor vulnerabilidad?",
+      "context": "En Riberalta, el estudiante Mateo del Colegio San Calixto evalúa el impacto del retroceso glaciar en las represas que abastecen a La Paz y El Alto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El acelerado retroceso y desaparición de los glaciares de la Cordillera Real debido al calentamiento global",
+          "is_correct": true,
+          "feedback": "Correcto. La pérdida de masa helada en glaciares como el Tuni Condoriri reduce la reserva de agua."
+        },
+        {
+          "letter": "B",
+          "text": "El desbordamiento permanente del río Pilcomayo en el altiplano",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Pilcomayo corre en el sur del país y no abastece a La Paz."
+        },
+        {
+          "letter": "C",
+          "text": "La contaminación de los ríos amazónicos por residuos hidrocarburíferos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Paz y El Alto se abastecen de cuencas altoandinas de deshielo."
+        },
+        {
+          "letter": "D",
+          "text": "El incremento de la capa de hielo permanente en el salar de Coipasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Coipasa es un salar desértico sin glaciares de agua dulce."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El derretimiento glaciar afecta la seguridad hídrica de las metrópolis andinas dependientes del agua de deshielo.\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v18",
+      "statement": "Al evaluar la viabilidad de la industrialización del litio mediante extracción directa (EDL) en Uyuni, ¿cuál es el principal desafío técnico-geográfico?",
+      "context": "En Warnes, la estudiante Camila del Colegio Nacional Pichincha estudia los métodos de Extracción Directa de Litio (EDL) aplicados al Salar de Uyuni.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La imposibilidad de construir vías de transporte en Potosí",
+          "is_correct": false,
+          "feedback": "Incorrecto. Existen rutas terrestres y férreas de acceso."
+        },
+        {
+          "letter": "B",
+          "text": "La alta presencia de magnesio en la salmuera y la exigencia de grandes volúmenes de agua dulce en una zona árida",
+          "is_correct": true,
+          "feedback": "Correcto. La relación Mg/Li dificulta la separación y el agua es escasa en el altiplano potosino."
+        },
+        {
+          "letter": "C",
+          "text": "La ausencia de demanda internacional para la fabricación de baterías",
+          "is_correct": false,
+          "feedback": "Incorrecto. La demanda de litio crece vertiginosamente para vehículos eléctricos."
+        },
+        {
+          "letter": "D",
+          "text": "La falta total de salmuera evaporítica en el Salar de Uyuni",
+          "is_correct": false,
+          "feedback": "Incorrecto. Uyuni posee la mayor concentración de salmuera con litio del mundo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La separación del magnesio y la disponibilidad de agua dulce son los escollos técnicos para la industrialización sustentable del litio.\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v19",
+      "statement": "Al comparar el potencial económico del hierro de El Mutún con el litio de Uyuni, ¿qué diferencia de mercado geopolítico se establece?",
+      "context": "En Colcapirhua, el estudiante Gonzalo del Colegio Antonio Vaca Díez compara la proyección económica de la siderurgia en El Mutún con la industria del litio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El litio se utiliza únicamente en joyería fina y el hierro en fertilizantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usos desatinados de ambos recursos minerales."
+        },
+        {
+          "letter": "B",
+          "text": "El hierro se exporta exclusivamente a países vecinos y el litio no tiene compradores",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos minerales poseen demanda global en mercados mundiales."
+        },
+        {
+          "letter": "C",
+          "text": "El hierro es un recurso renovable y el litio es inagotable",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos son recursos minerales no renovables de la corteza terrestre."
+        },
+        {
+          "letter": "D",
+          "text": "El Mutún sustenta la industria pesada siderúrgica tradicional, mientras el litio es el insumo clave de la transición energética tecnológica",
+          "is_correct": true,
+          "feedback": "Correcto. El hierro abastece la construcción/acero y el litio la electromovilidad y baterías."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Ambos colosos mineros diversifican la matriz productiva: acero para la infraestructura e industrialización energética para el mundo.\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle-v20",
+      "statement": "Al juzgar de forma crítica la efectividad del Servicio Nacional de Áreas Protegidas (SERNAP) en la conservación de parques nacionales como el Madidi o Tipnis, ¿cuál es el dilema central?",
+      "context": "En Yacuiba, la estudiante Paola del Colegio Nacional Florida analiza los debates sobre la compatibilidad de obras de infraestructura en áreas protegidas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ausencia total de vegetación y fauna en los parques nacionales de Bolivia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Parques como el Madidi son de los más biodiversos del planeta."
+        },
+        {
+          "letter": "B",
+          "text": "La prohibición constitucional de crear reservas ecológicas en el territorio",
+          "is_correct": false,
+          "feedback": "Incorrecto. La CPE mandata la protección y conservación del patrimonio natural."
+        },
+        {
+          "letter": "C",
+          "text": "El rechazo de las comunidades indígenas a la conservación de sus territorios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los pueblos originarios promueven la conservación de sus casas grandes."
+        },
+        {
+          "letter": "D",
+          "text": "La tensión entre las políticas de preservación ambiental y las presiones por exploración hidrocarburífera, minera y obras viales",
+          "is_correct": true,
+          "feedback": "Correcto. El Estado busca proteger la biodiversidad pero enfrenta presiones para extraer recursos en áreas protegidas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El modelo de desarrollo boliviano enfrenta el dilema entre conservación biológica e intensificación extractiva en reservas naturales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "BO-SOC-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    }
+  ]
+}

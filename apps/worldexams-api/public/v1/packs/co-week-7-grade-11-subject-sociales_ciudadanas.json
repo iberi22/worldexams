@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-7-grade-11-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-12T16:46:07.576Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle-v1",
+      "statement": "El artículo 1 de la Constitución Política de Colombia define al Estado como una república democrática, participativa y pluralista que reconoce",
+      "context": "En una clase de Sociales en un colegio de Bogotá, el profesor proyecta el artículo 1 de la Constitución de 1991.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La lengua castellana como única expresión cultural válida del territorio",
+          "is_correct": false,
+          "feedback": "El artículo 10 de la misma Constitución protege la diversidad lingüística; esa exclusividad contradice el texto constitucional."
+        },
+        {
+          "letter": "B",
+          "text": "El carácter monoétnico de la nación con derechos individuales únicamente",
+          "is_correct": false,
+          "feedback": "La idea de nación monoétnica pertenece a la tradición anterior a 1991; el artículo 1 dice lo contrario."
+        },
+        {
+          "letter": "C",
+          "text": "El carácter pluriétnico y multicultural de la Nación colombiana",
+          "is_correct": true,
+          "feedback": "El artículo 1 consagra expresamente la diversidad étnica y cultural como fundamento del Estado colombiano."
+        },
+        {
+          "letter": "D",
+          "text": "La supremacía de las costumbres locales sobre la Constitución nacional",
+          "is_correct": false,
+          "feedback": "La Constitución es norma de normas; el reconocimiento de la diversidad opera dentro del marco constitucional, no por encima de él."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pasar del artículo 1 de 1886, que hablaba de una nación homogénea, al de 1991 que asume la pluralidad étnica y cultural resume un cambio de época: décadas de organización indígena, y el legado del movimiento social, obligaron al constitucionalismo a reconocerse diverso. Esta base fundamenta los resguardos, la jurisdicción especial y la consulta previa que se estudian en las siguientes preguntas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle-v2",
+      "statement": "La Organización Nacional Indígena de Colombia (ONIC), fundada en 1982, es una instancia que",
+      "context": "Un estudiante de Leticia indaga por la organización que articula pueblos indígenas de todo el país y que nació en 1982.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Articula organizaciones y pueblos indígenas de distintas regiones del país para defender derechos colectivos y presentar propuestas comunes",
+          "is_correct": true,
+          "feedback": "La ONIC es la organización de segundo grado que agrupa regionales y pueblos indígenas de la Amazonía, el Cauca, la Costa y otras zonas."
+        },
+        {
+          "letter": "B",
+          "text": "Es una agencia del gobierno encargada de repasar títulos de resguardos",
+          "is_correct": false,
+          "feedback": "La función de formalizar resguardos corresponde a la autoridad administrativa agraria del Estado, no a una organización propia indígena."
+        },
+        {
+          "letter": "C",
+          "text": "Fue creada por la Constitución de 1886 para tutelar a la población nativa",
+          "is_correct": false,
+          "feedback": "En 1886 rigió un enfoque tutelar estatal; una organización nacida en 1982 es producto de la autonomía indígena, no del orden anterior."
+        },
+        {
+          "letter": "D",
+          "text": "Agrupa únicamente a los pueblos de la Sierra Nevada de Santa Marta",
+          "is_correct": false,
+          "feedback": "Su ámbito es nacional y su membresía incluye pueblos de múltiples regiones, no solo el Caribe serrano."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ONIC nació en el primer congreso indígena nacional, en un momento en que los pueblos salían de la tutela del Estado y del indigenismo académico para hablar por sí mismos. Su existencia ilustra el tránsito del indigenismo (mirada externa sobre el indígena) al indianidad o indianismo (sujeto político indígena organizado), distinción clave para el análisis de ciencias sociales.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle-v3",
+      "statement": "La Ley 89 de 1890, norma decimonónica sobre población indígena, se caracterizaba principalmente porque",
+      "context": "En un debate escolar en Tunja se compara la legislación indígena de 1890 con la Constitución de 1991.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reconocía a los indígenas como ciudadanos plenos con derecho a gobernar sus territorios",
+          "is_correct": false,
+          "feedback": "Ese enfoque de derechos es propio de 1991; la ley de 1890 partía de considerar al indígena sujeto de especial protección por ser considerado incapaz."
+        },
+        {
+          "letter": "B",
+          "text": "Regulaba a los individuos de origen indígena bajo un esquema tutelar y creaba figuras como el cabildo y el corregimiento para administrar tierras y 'proteger' los resguardos",
+          "is_correct": true,
+          "feedback": "La Ley 89 definía al indígena por su lengua y comunidad, y creaba un régimen de tutela con corregidores y cabildos controlados indirectamente por el Estado."
+        },
+        {
+          "letter": "C",
+          "text": "Ordenaba la disolución total de los resguardos y su entrega a hacendados",
+          "is_correct": false,
+          "feedback": "Por el contrario, la norma pretendía 'conservar' los resguardos, aunque en la práctica convivieron con décadas de despojo por otras vías legales."
+        },
+        {
+          "letter": "D",
+          "text": "Creó el Ministerio de Asuntos Indígenas con presupuesto propio",
+          "is_correct": false,
+          "feedback": "No existió tal cartera en 1890; la institucionalidad indígena estatal se desarrolló mucho más tarde."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Ley 89 es un buen ejemplo de cómo el derecho puede tutelar y excluir al mismo tiempo: reconocía la comunidad y sus tierras, pero trataba al indígena como menor de edad y habilitó mecanismos que facilitaron la pérdida de terrenos. Contrastarla con el artículo 246 y los artículos 329-330 de 1991 permite medir el cambio entre el paradigma tutelar y el paradigma de derechos colectivos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle-v4",
+      "statement": "La Ley 135 de 1961, primera reforma agraria moderna de Colombia, se relaciona con los pueblos indígenas porque",
+      "context": "Una estudiante de Puerto Asís estudia la historia de la reforma agraria en Colombia y encuentra la creación del INCORA en 1961.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Abolió los resguardos y entregó sus tierras a colonos individuales",
+          "is_correct": false,
+          "feedback": "La reforma no abolió los resguardos; la titulación colectiva indígena quedó excluida de la parcelación individual."
+        },
+        {
+          "letter": "B",
+          "text": "Reservó la distribución de tierras solo a las iglesias misioneras",
+          "is_correct": false,
+          "feedback": "La distribución la adelantó la entidad estatal de reforma agraria; las misiones tuvieron otro papel histórico en ciertas regiones."
+        },
+        {
+          "letter": "C",
+          "text": "Reconoció el resguardo como una forma especial de propiedad rural e instituyó al INCORA para formalizar y ampliar la propiedad campesina e indígena",
+          "is_correct": true,
+          "feedback": "La ley 135 de 1961 creó el INCORA y consolidó el resguardo como modalidad de propiedad y tenencia de la tierra."
+        },
+        {
+          "letter": "D",
+          "text": "Prohibió toda titulación colectiva en la costa Pacífica",
+          "is_correct": false,
+          "feedback": "La titulación colectiva no se prohibió; el Pacífico afrodescendiente recibiría su propia norma con la Ley 70 de 1993."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El contexto de la reforma de 1961 fue la presión campesina y la Guerra Fría rural: el Estado buscó canalizar el conflicto por la tierra. Para los pueblos indígenas, la figura del resguardo significó un reconocimiento limitado pero importante de la propiedad comunal, antecedente directo del blindaje jurídico que la Constitución de 1991 les dio con los artículos 329 y 330.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle-v5",
+      "statement": "El Convenio 169 de la Organización Internacional del Trabajo, aprobado para Colombia mediante la Ley 21 de 1991, es la norma internacional de referencia porque",
+      "context": "En una compañía de un colegio de Popayán se analiza el Convenio 169 de la OIT sobre pueblos indígenas y tribales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ordena reubicar a los indígenas en ciudades para integrarlos a la economía formal",
+          "is_correct": false,
+          "feedback": "El convenio se funda en la protección de la cultura, los territorios y la autodeterminación; la reubicación forzada es contraria a su espíritu."
+        },
+        {
+          "letter": "B",
+          "text": "Reconoce derechos colectivos de los pueblos indígenas y tribales, incluidos territorio, consulta previa e identidad cultural, y obliga a los Estados que lo ratifican",
+          "is_correct": true,
+          "feedback": "El Convenio 169 es el tratado internacional clave: consagra consulta previa, tierras, jurisdicción propia y no discriminación, y hace parte del bloque de constitucionalidad."
+        },
+        {
+          "letter": "C",
+          "text": "Fue firmado por Colombia solo después del año 2010",
+          "is_correct": false,
+          "feedback": "Colombia lo adoptó internamente en 1991 mediante la Ley 21, poco antes de promulgarse la nueva Constitución."
+        },
+        {
+          "letter": "D",
+          "text": "Regula exclusivamente la utilización de mano de obra indígena en fincas",
+          "is_correct": false,
+          "feedback": "Su alcance es integral: tierras, cultura, salud, educación, jurisdicción y participación; no se limita a contratos de trabajo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El paso del Convenio 169 al derecho interno es un caso escuela de cómo los tratados de derechos humanos elevan estándares nacionales: al integrar el bloque de constitucionalidad, sus reglas de consulta orientan decisiones sobre minería, infraestructura y conservación en territorios indígenas. Es la base jurídica de buena parte de la tensión reciente entre megaproyectos y autonomías territoriales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle-v6",
+      "statement": "A la luz del Convenio 169 y la jurisprudencia constitucional, el deber del Estado en este caso es",
+      "context": "Una empresa presenta ante una autoridad ambiental un permiso para exploración minera en un territorio donde habita un pueblo indígena en el sur de Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Otorgar el permiso si la empresa ofrece compensaciones económicas, sin avisar al pueblo afectado",
+          "is_correct": false,
+          "feedback": "La omisión de consulta ha sido declarada inconstitucional en ese tipo de decisiones con impacto directo sobre territorios colectivos."
+        },
+        {
+          "letter": "B",
+          "text": "Consultar solo a las autoridades municipales donde queda el terreno",
+          "is_correct": false,
+          "feedback": "La consulta debe dirigirse a los pueblos y autoridades étnicas afectadas, no a la administración territorial ordinaria."
+        },
+        {
+          "letter": "C",
+          "text": "Exigir al pueblo que demuestre por escrito su oposición antes de iniciar cualquier diálogo",
+          "is_correct": false,
+          "feedback": "La carga de la prueba no se invierte así: la consulta parte de buena fe, con información previa y adecuada, adaptada a sus condiciones culturales."
+        },
+        {
+          "letter": "D",
+          "text": "Realizar una consulta previa, libre e informada, de buena fe y con adaptaciones culturales, antes de adoptar la decisión que afecte directamente al pueblo",
+          "is_correct": true,
+          "feedback": "Es el estándar: la consulta se realiza antes de la decisión, con información completa, mediante procedimientos culturalmente adecuados."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La consulta previa es la vía para articular desarrollo extractivo y derechos étnicos; su ausencia o simulación ha llevado a suspender proyectos y a proteger territorios. Analizar el procedimiento —previo, libre, informado, de buena fe— permite discutir el límite entre la potestad estatal de decidir y la salvaguarda de la supervivencia cultural y física de los pueblos, uno de los debates más vivos del constitucionalismo colombiano.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle-v7",
+      "statement": "El artículo 246 de la Constitución de 1991, sobre jurisdicción especial indígena, establece que",
+      "context": "En un colegio de Riohacha se estudian las autoridades tradicionales wayuu y la justicia ordinaria del departamento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las autoridades indígenas pueden juzgar cualquier delito cometido en el país, sin límites",
+          "is_correct": false,
+          "feedback": "Su alcance está acotado: fuero por delitos cometidos en su territorio y conforme a derecho propio, y con respeto de la Constitución y la ley."
+        },
+        {
+          "letter": "B",
+          "text": "Las autoridades de los pueblos con jurisdicción propia pueden ejercer funciones jurisdiccionales dentro de su ámbito territorial, conforme a sus normas y procedimientos, siempre que no contradigan la Constitución y la ley",
+          "is_correct": true,
+          "feedback": "El artículo 246 consagra el pluralismo jurídico con un doble límite: territorio y respeto de la Constitución y la ley."
+        },
+        {
+          "letter": "C",
+          "text": "Los indígenas quedan exentos de toda ley nacional mientras vivan en el resguardo",
+          "is_correct": false,
+          "feedback": "No hay exención general: el derecho propio coexiste con el nacional y los límites de orden público y derechos humanos."
+        },
+        {
+          "letter": "D",
+          "text": "La justicia indígena solo aplica a controversias sobre tierras, no a conflictos entre personas",
+          "is_correct": false,
+          "feedback": "Puede cubrir materia penal y otras, según el derecho propio, dentro de los márgenes del artículo 246."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La jurisdicción especial reconoce que muchas comunidades tenían sistemas normativos propios —arreglo de conflictos, sanctions, restauración— anteriores al Estado. Su aplicación genera casos difíciles, como la tensión entre severidad de algunas prácticas y derechos fundamentales, que la Corte ha resuelto con la llamada ponderación entre identidad cultural y dignidad humana.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle-v8",
+      "statement": "Los artículos 329 y 330 de la Constitución de 1991 definen el resguardo indígena como",
+      "context": "Un estudiante de Manizales elabora un cuadro sobre cómo la Constitución protege la tierra de los resguardos frente a ventas o embargos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una tierra fiscal entregada en arriendo a las familias indígenas, revocable en cualquier momento",
+          "is_correct": false,
+          "feedback": "No es un arriendo revocable: el resguardo es propiedad imprescriptible de la comunidad y no depende de la voluntad administrativa."
+        },
+        {
+          "letter": "B",
+          "text": "Un predio de propiedad privada de cada cabeza de familia indígena",
+          "is_correct": false,
+          "feedback": "La titularidad es colectiva del cabildo; no se fracciona en propiedad individual privada."
+        },
+        {
+          "letter": "C",
+          "text": "Tierras de propiedad colectiva, inalienables, imprescriptibles e inembargables, gobernadas por cabildos conforme a sus normas",
+          "is_correct": true,
+          "feedback": "Estos tres caracteres —inalienabilidad, imprescriptibilidad e inembargabilidad— protegen el territorio del despojo y lo ponen fuera del comercio."
+        },
+        {
+          "letter": "D",
+          "text": "Un parque nacional administrado por el Ministerio de Ambiente",
+          "is_correct": false,
+          "feedback": "Las áreas protegidas estatales son figuras ambientales distintas; la gobernanza del resguardo es indígena."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El blindaje jurídico del territorio es la traducción constitucional de una demanda histórica del movimiento indígena: la tierra como base de la cultura, no como mercancía. Analizar las tres calificaciones permite ver las excepciones que la propia Constitución prevé, como la enajenación solo con levantamiento de la tutela por ley, y el vínculo con las entidades territoriales indígenas y su participación en regalías.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle-v9",
+      "statement": "El pueblo nasa del Cauca y su guardia indígena constituyen un caso emblemático para las ciencias sociales porque",
+      "context": "Un grupo de estudiantes de Cali analiza una noticia sobre una minga de recuperación de tierras en el Cauca liderada por el pueblo nasa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Demuestra que los pueblos indígenas rechazan toda tecnología y organización moderna",
+          "is_correct": false,
+          "feedback": "Los nasas articulan educación bilingüe, radios comunitarias y derecho propio: el caso muestra adaptación selectiva, no rechazo a todo lo moderno."
+        },
+        {
+          "letter": "B",
+          "text": "Evidencia una estrategia de resistencia y reconstrucción territorial basada en autoridad propia, control de la guardia y proyectos de educación y salud interculturales",
+          "is_correct": true,
+          "feedback": "La recuperación continua de tierras, la guardia y la etnoeducación forman un proyecto político propio que mantiene vivo el territorio nasa."
+        },
+        {
+          "letter": "C",
+          "text": "Muestra la disolución completa de su cultura tras el contacto con la ciudad de Popayán",
+          "is_correct": false,
+          "feedback": "La evidencia es contraria: su población y su organización crecieron en el siglo XX pese a la violencia."
+        },
+        {
+          "letter": "D",
+          "text": "Ilustra un conflicto exclusivamente religioso con la Iglesia católica regional",
+          "is_correct": false,
+          "feedback": "El eje del conflicto es territorial y político, no una disputa doctrinaria."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Kiwe The' Hnaso o 'territorio madre' nasa resistió haciendas, cultivos de uso ilícito y grupos armados con una organización comunitaria excepcionalmente cohesionada. Estudiar este caso permite comprender cómo un pueblo construye poder propio sin Estado y, al mismo tiempo, negocia con él, un ejemplo de autonomía de facto reconocida por el ordenamiento.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle-v10",
+      "statement": "Para los pueblos wiwa, kogi, arhuaco y taganga de la Sierra Nevada de Santa Marta, la llamada Línea Negra representa",
+      "context": "Una estudiante de Santa Marta visita la vertiente norte de la Sierra Nevada y escucha hablar de los mamos y la Línea Negra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una frontera administrativa dividida por el Estado en cuatro municipios del Magdalena",
+          "is_correct": false,
+          "feedback": "La Línea Negra no es un trazado municipal; su significado es espiritual y anterior a la división administrativa."
+        },
+        {
+          "letter": "B",
+          "text": "Una ruta turística señalizada para llegar a la Ciudad Perdida",
+          "is_correct": false,
+          "feedback": "Turísticamente se promociona otra cosa; para los pueblos de la Sierra, la Línea Negra es una demarcación sagrada de autoridad territorial."
+        },
+        {
+          "letter": "C",
+          "text": "Un polígono minero autorizado en la cordillera durante los años noventa",
+          "is_correct": false,
+          "feedback": "No existe tal autorización: los pueblos han exigido precisamente blindar la Sierra frente a extractivas."
+        },
+        {
+          "letter": "D",
+          "text": "El límite sagrado del territorio que los pueblos consideran 'el corazón del mundo', trazado según sus normas espirituales para su protección",
+          "is_correct": true,
+          "feedback": "La Línea Negra marca el perímetro que los mamos delimitan para proteger el equilibrio espiritual y ecológico de la Sierra."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los cuatro pueblos de la Sierra se autodenominan 'hermanos mayores' y reclaman la custodia del territorio ante la presión de colonos, parques, turismo y cultivos. Este caso muestra la dimensión cosmovisiva del territorio —no solo económica— y la conversación, a veces tenso, entre el derecho ambiental estatal y la espiritualidad indígena.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle-v11",
+      "statement": "La pervivencia de la autoridad tradicional wayuu —paliyaa y autoridades de clan— junto con la justicia ordinaria en La Guajira ilustra el concepto de",
+      "context": "En un seminario escolar en Riohacha se estudia el caso de un conflicto entre una familia wayuu y un comerciante que llegó a la justicia wayuu antes que a la ordinaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Soberanía compartida entre la Nación wayuu y un Estado vecino",
+          "is_correct": false,
+          "feedback": "La Guajira está dentro de la soberanía colombiana; el concepto no aplica a un asunto de jurisdicciones internas."
+        },
+        {
+          "letter": "B",
+          "text": "Federalismo asimétrico adoptado por la Constitución de 1991",
+          "is_correct": false,
+          "feedback": "Colombia sigue siendo unitario; la jurisdicción especial no convierte al país en una federación."
+        },
+        {
+          "letter": "C",
+          "text": "Pluralismo jurídico: la coexistencia de dos o más sistemas normativos dentro de un mismo espacio político, con reglas de competencia para evitar conflicto",
+          "is_correct": true,
+          "feedback": "El derecho wayuu sobre daño, honra y conflicto de clanes coexiste con el nacional, con criterios de fuero y voluntariedad analizados por la jurisprudencia."
+        },
+        {
+          "letter": "D",
+          "text": "Anomia: ausencia total de normas en la alta Guajira colombiana",
+          "is_correct": false,
+          "feedback": "Por el contrario, hay normatividad densa: la norma wayuu es célebre por su sofisticación en materia de reparación y conflicto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El pluralismo jurídico wayuu obliga a pensar el derecho como mosaico: sistemas con fuentes, procedimientos y sanciones propias que el Estado reconoce en parte. Analizar casos de coordinación —como la elección del fuero o la revisión de penas excesivas— ayuda a entender los límites prácticos del artículo 246 y el valor de la reparación en las justicias tradicionales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle-v12",
+      "statement": "La comparación entre el texto de 1886 y el de 1991 sobre población indígena muestra correctamente que",
+      "context": "Un estudiante de Bucaramanga compara el trato al indígena en el artículo 169 de la Constitución de 1886 con los artículos 7, 246 y 329 de la de 1991.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambas Constituciones otorgaron idénticos derechos territoriales y jurisdiccionales",
+          "is_correct": false,
+          "feedback": "1886 declaraba a los indígenas 'existentes' pero bajo tutela del Estado y sin jurisdicción propia reconocida; la distancia es grande."
+        },
+        {
+          "letter": "B",
+          "text": "1991 retrocedió porque eliminó cualquier mención de las comunidades nativas",
+          "is_correct": false,
+          "feedback": "Es exactamente al contrario: 1991 multiplicó las menciones y garantías."
+        },
+        {
+          "letter": "C",
+          "text": "1886 reconoció la autonomía total de las naciones indígenas dentro del territorio nacional",
+          "is_correct": false,
+          "feedback": "Esa afirmación es anacrónica: el centralismo liberal-conservador de 1886 buscaba integrar y tutelar, no conceder autonomía."
+        },
+        {
+          "letter": "D",
+          "text": "El paso de 1886 a 1991 expresa la transición de un modelo de integración tutelar del 'indio' a un modelo de reconocimiento de pueblos como sujetos políticos de derechos colectivos",
+          "is_correct": true,
+          "feedback": "De la tutela sobre individuos incapaces se pasa a derechos de los pueblos: territorio, jurisdicción, consulta y etnoeducación."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Este cambio no fue espontáneo: respondió a décadas de movilización indígena —mingas, CRIC, ONIC— y al contexto del Constituyente del 91 donde hubo escaños indígenas. Distinguir la lógica integracionista del siglo XIX (el indio debía dejar de serlo para ser ciudadano) de la intercultural contemporánea (la diferencia es ciudadanizable) es un eje conceptual de este bundle.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle-v13",
+      "statement": "El caso del pueblo muisca de la sabana de Bogotá es útil para analizar la política cultural porque",
+      "context": "Un grupo de estudiantes analiza el renacimiento cultural muisca en la sabana de Bogotá y la pérdida histórica de su lengua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Demuestra que las culturas indígenas urbanizadas se extinguen sin posibilidad de revival",
+          "is_correct": false,
+          "feedback": "El propio renacimiento muisca contradice esa conclusión fatalista."
+        },
+        {
+          "letter": "B",
+          "text": "Evidencia que la muerte de una lengua y la disolución del resguardo no borran la memoria, pues hoy existen procesos de recuperación identitaria, toponimia y autoridades en pleno territorio capital",
+          "is_correct": true,
+          "feedback": "A pesar de la colonial temprana, del proceso de extinción del chibcha/muisca y de la urbanización, hay cabildos y escuelas de lengua en Cundinamarca y Bogotá."
+        },
+        {
+          "letter": "C",
+          "text": "Muestra que el Estado colombiano nunca reconoció presencia muisca en la capital",
+          "is_correct": false,
+          "feedback": "Hay registros históricos y administrativos de su existencia, incluidas autoridades y cabildos que hoy actúan en Chía y Cota."
+        },
+        {
+          "letter": "D",
+          "text": "Prueba que la identidad étnica depende solo de la sangre y no de la cultura",
+          "is_correct": false,
+          "feedback": "La identidad opera por adscripción, memoria y prácticas, categoría que la propia sociología discute desde hace décadas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los muiscas fueron el pueblo con el que se fundó la Santafé colonial: su lengua sirvió como lengua general en misiones y su organización, base de encomiendas y pueblos de indios. La paradoja de un pueblo fundador de la capital que casi desaparece y hoy se reorganiza permite discutir colonialidad, memoria y revitalización lingüística, temas anclados en los estándares de interpretación de perspectivas espaciales y temporales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle-v14",
+      "statement": "La presión sobre los territorios indígenas del suroccidente y del Pacífico colombiano —minería ilegal, cultivos de uso ilícito, actores armados— se explica mejor al señalar que",
+      "context": "En un debate sobre territorios y economías ilícitas, un estudiante de Bogotá lee alertas sobre violencia contra pueblos en el Pacífico sur y el Cauca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un fenómeno natural sin responsabilidad de actores económicos ni estatales",
+          "is_correct": false,
+          "feedback": "Las cadenas de oro ilícito, drogas y armas tienen mercados, financiadores y omisiones; no puede naturalizarse."
+        },
+        {
+          "letter": "B",
+          "text": "Se debe exclusivamente a la decisión de los pueblos de abandonar la agricultura de subsistencia",
+          "is_correct": false,
+          "feedback": "Invierte causas y efectos: muchos pueblos combinan agricultura tradicional con economías forzadas por la ausencia estatal."
+        },
+        {
+          "letter": "C",
+          "text": "Combina la riqueza de recursos del subsuelo y la posición geográfica de los territorios con la débil presencia integral del Estado y la estrategia de grupos armados por controlar rutas y economías ilegales",
+          "is_correct": true,
+          "feedback": "Territorio rico y periferia institucional crean la combinación perfecta para economías ilegales, con impacto directo sobre guardia, cabildos y liderazgos asesinados."
+        },
+        {
+          "letter": "D",
+          "text": "Afecta únicamente a comunidades del oriente amazónico, no al occidente del país",
+          "is_correct": false,
+          "feedback": "Los datos de organizaciones indígenas y defensorías muestran crítica concentración de violencias en Cauca, Nariño, Putumayo y el Pacífico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para los pueblos en aislamiento o en riesgo de exterminio físico y cultural —una categoría que el Convenio 169 y la jurisprudencia definen—, la consulta previa puede tornarse consentimiento previo: la decisión estatal está severamente restringida. Este nivel de análisis conecta el derecho con la geopolítica de las economías ilegales, competencia clave del grado 11.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle-v15",
+      "statement": "Cuando una autoridad judicial de la República revisa una decisión de una justicia indígena que incluía un castigo corporal degradante, la tensión que se analiza es entre",
+      "context": "En clase en Popayán se analiza un fallo judicial que revisa una sanción tradicional considerada excesiva.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El principio de legalidad tributaria y la autonomía fiscal comunitaria",
+          "is_correct": false,
+          "feedback": "El debate no es hacendario; se sitúa en la esfera de jurisdicción y derechos."
+        },
+        {
+          "letter": "B",
+          "text": "La identidad nacional y la globalización económica",
+          "is_correct": false,
+          "feedback": "Demasiado amplio y tangencial: el caso concreto es de colisión de derechos."
+        },
+        {
+          "letter": "C",
+          "text": "El respeto a la diferencia cultural —autonomía jurisdiccional— y los límites de derechos humanos y dignidad que fija el bloque constitucional",
+          "is_correct": true,
+          "feedback": "El artículo 246 somete el derecho propio a la Constitución y la ley, y la Corte pondera identidad contra prohibición de penas inhumanas."
+        },
+        {
+          "letter": "D",
+          "text": "La soberanía del pueblo indígena y el derecho internacional humanitario exclusivamente",
+          "is_correct": false,
+          "feedback": "No es una relación entre Estados ni un conflicto armado en sentido clásico; es pluralismo jurídico con control constitucional."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Estos casos, repetidos en la jurisprudencia, muestran que el pluralismo no es absoluta inmunidad: el derecho propio se respeta, pero la tolerancia tiene suelo constitucional. El análisis honesto evita dos extremos: negar la jurisdicción indígena o imaginarla ilimitada, y obliga a ponderar dignidad humana y diversidad cultural, un reto argumentativo valioso para los estudiantes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle-v16",
+      "statement": "El artículo 10 de la Constitución sobre lenguas se comprende mejor al afirmar que",
+      "context": "Un estudiante de Barranquilla prepara un mapa de lenguas vivas en Colombia: wayuunaiki, misak o nasa yuwe, embera, palenquero y el creole del archipiélago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El castellano es la única lengua oficial en todo el territorio sin excepciones",
+          "is_correct": false,
+          "feedback": "El mismo artículo prevé la oficialidad de las lenguas indígenas en sus territorios y del creole en San Andrés, Providencia y Santa Catalina."
+        },
+        {
+          "letter": "B",
+          "text": "Las lenguas indígenas son oficiales en todo el país al igual que el castellano",
+          "is_correct": false,
+          "feedback": "Su oficialidad es territorial, en sus respectivos ámbitos, no nacional."
+        },
+        {
+          "letter": "C",
+          "text": "La protección de las lenguas es un asunto privado sin relevancia constitucional",
+          "is_correct": false,
+          "feedback": "La Constitución ordena al Estado protegerlas expresamente como patrimonio cultural de la Nación."
+        },
+        {
+          "letter": "D",
+          "text": "El castellano es oficial, pero las lenguas indígenas también lo son en sus territorios y el Estado debe proteger el patrimonio lingüístico de la Nación, incluido el creole insular",
+          "is_correct": true,
+          "feedback": "Es la redacción y alcance del artículo 10: oficialidad común, oficialidades territoriales y deber estatal de preservación."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Colombia alberga decenas de lenguas nativas, muchas en peligro; su desaparición sería una pérdida de cosmovisiones y de conocimiento, por eso el mandato de protección es de toda la Nación. El creole sanandresano, reconocido por la Constitución de 1991, añade la dimensión insular a la diversidad lingüística. La política de lenguas es un buen observatorio para medir el cumplimiento real del mandato multicultural.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle-v17",
+      "statement": "La evaluación más sólida de esa afirmación, desde la teoría de derechos y la Constitución, es que",
+      "context": "En un foro estudiantil en Medellín, un ponente afirma: 'dar derechos especiales a los indígenas rompe la igualdad y divide a la nación'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta, porque la igualdad significa tratar a todos exactamente igual ante la ley sin diferencias",
+          "is_correct": false,
+          "feedback": "Confunde igualdad formal con igualdad material; el enfoque de diferencia existe precisamente para nivelar situaciones desiguales reales."
+        },
+        {
+          "letter": "B",
+          "text": "Es incorrecta, porque los indígenas no tienen derechos distintos a los demás ciudadanos",
+          "is_correct": false,
+          "feedback": "Falso: el ordenamiento les reconoce derechos colectivos específicos, desde el territorio hasta la jurisdicción."
+        },
+        {
+          "letter": "C",
+          "text": "Es cuestionable: los derechos colectivos buscan compensar despojos históricos y proteger diferencias, y la Constitución consagra la igualdad en sentido material, no la uniformidad cultural",
+          "is_correct": true,
+          "feedback": "La Corte Constitucional ha sostenido que la protección de la diversidad es un valor superior del ordenamiento, no una excepción a la igualdad."
+        },
+        {
+          "letter": "D",
+          "text": "Es correcta, porque ningún tratado internacional respalda derechos de diferencia cultural",
+          "is_correct": false,
+          "feedback": "El Convenio 169 de la OIT y la Declaración de la ONU sobre derechos de los pueblos indígenas son el respaldo internacional explícito."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La discusión es genuinamente difícil: exige ponderar universalismo de derechos y particularismo cultural sin caer ni en el asimilacionismo ni en el relativismo absoluto. Evaluar con argumentos, no con eslóganes, es el objetivo ciudadano de esta pregunta: entender que la igualdad material puede requerir tratos diferenciados, y que la cohesión nacional no depende de la homogeneidad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle-v18",
+      "statement": "La afirmación 'la consulta previa funciona perfectamente porque está en la ley' debe evaluarse como",
+      "context": "Un grupo de estudiantes de Neiva evalúa la efectividad real de la consulta previa a partir de títulos de prensa sobre proyectos de infraestructura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Insuficiente: la norma existe y la jurisprudencia la desarrolla, pero la evidencia muestra consultas tardías, informales o simuladas, y tensiones entre desarrollo, extractivismo y derechos, por lo que su efectividad depende de garantías reales de participación",
+          "is_correct": true,
+          "feedback": "Los observatorios y la propia Corte han documentado deficiencias: la brecha entre el estándar jurídico y su aplicación es el punto crítico a evaluar."
+        },
+        {
+          "letter": "B",
+          "text": "Verdadera, porque toda obra de infraestructura es cancelada cuando un pueblo la consulta",
+          "is_correct": false,
+          "feedback": "La consulta no implica veto automático; su objeto es llegar a acuerdos o decisiones informadas, y muchas obras se adelantan."
+        },
+        {
+          "letter": "C",
+          "text": "Falsa, porque en Colombia nunca se ha adelantado una sola consulta previa",
+          "is_correct": false,
+          "feedback": "Hay numerosos procesos adelantados; el debate es de calidad y oportunidad, no de inexistencia total."
+        },
+        {
+          "letter": "D",
+          "text": "Suficiente, porque basta la publicación de la Ley 21 de 1991 para que la consulta opere en la práctica",
+          "is_correct": false,
+          "feedback": "Las normas no se autoaplican: requieren instituciones, protocolos, voluntad y control ciudadano."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar derechos exige comparar el 'deber ser' con el 'ser': estándares, protocolos y tribunales avanzaron, pero persisten problemas de oportunidad, representatividad y seguimiento de acuerdos. Esta mirada crítica no niega el valor del instrumento; muestra que los derechos se sostienen con vigilancia ciudadana e institucional, competencia central de la formación para la vida democrática.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle-v19",
+      "statement": "La distancia entre el mandato constitucional pluriétnico y los indicadores de pobreza, desnutrición y violencia en varios territorios indígenas se evalúa mejor afirmando que",
+      "context": "En un panel entre colegios de Bogotá y Riohacha se discute el contraste entre el reconocimiento jurídico del artículo 1 de la Constitución y las condiciones de vida de muchos pueblos indígenas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El reconocimiento jurídico es irrelevante, pues nunca ha cambiado la vida de las comunidades",
+          "is_correct": false,
+          "feedback": "Desconoce herramientas ganadas —titulaciones, tutelas, jurisdicción, escaños— que comunidades usan efectivamente pese a sus límites."
+        },
+        {
+          "letter": "B",
+          "text": "La brecha prueba que Colombia no es un país diverso en términos reales",
+          "is_correct": false,
+          "feedback": "La diversidad es un hecho social y cultural; el problema es la desigualdad en su trato, no la inexistencia de la diversidad."
+        },
+        {
+          "letter": "C",
+          "text": "La responsabilidad es exclusiva de las comunidades por mantener sus modos de vida tradicionales",
+          "is_correct": false,
+          "feedback": "Atribuir toda la responsabilidad a las víctimas ignora la historia de despojo, las omisiones estatales y las economías ilegales impuestas."
+        },
+        {
+          "letter": "D",
+          "text": "El reconocimiento formal fue un avance real, pero su efectivo cumplimiento depende de política pública con enfoque diferencial, recursos y protección de liderazgos, como lo ha ordenado la jurisprudencia sobre superación del estado de cosas inconstitucional en contextos étnicos",
+          "is_correct": true,
+          "feedback": "La Corte ha declarado en varios fallos que la amenaza de exterminio físico y cultural de pueblos indígenas persiste y exige acción estatal estructural."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar sin cinismo ni ingenuidad: la Constitución del 91 abrió un suelo de derechos que las comunidades usan para resistir, pero los datos de desnutrición infantil y homicidios de autoridades propias miden el incumplimiento. Esta tensión entre norma y realidad es el corazón de la educación ciudadana: aprender a exigir derechos con conocimiento de causa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle-v20",
+      "statement": "Esa tesis debe evaluarse como",
+      "context": "Un estudiante de Cali argumenta en un ensayo que la Ley 70 de 1993 y los derechos indígenas forman un mismo bloque de justicia étnico-territorial en Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Errónea, porque la Ley 70 de 1993 trata exclusivamente de títulos mineros en el Pacífico",
+          "is_correct": false,
+          "feedback": "Su objeto fue el derecho a la tierra colectiva de las comunidades negras rurales del Pacífico, desarrollado el artículo transitorio 55 de la Constitución."
+        },
+        {
+          "letter": "B",
+          "text": "Sólida: ambas construcciones jurídicas —resguardos y consejos comunitarios— reconocen propiedad colectiva, gobierno propio y consulta sobre megaproyectos en territorios históricamente despojados",
+          "is_correct": true,
+          "feedback": "Los consejos comunitarios negros y los cabildos indígenas comparten la gramática de derechos colectivos que la Constitución del 91 y sus leyes desarrollaron."
+        },
+        {
+          "letter": "C",
+          "text": "Sólida pero incompleta, pues deberían fusionarse todas las entidades territoriales indígenas y negras en una sola figura estatal idéntica",
+          "is_correct": false,
+          "feedback": "La unificación de figuras destruiría las especificidades culturales que cada régimen protege; la fortaleza está en la analogía de derechos, no en la fusión."
+        },
+        {
+          "letter": "D",
+          "text": "Errónea, porque los derechos colectivos solo existen para pueblos indígenas y ninguna otra población puede titular tierras comunitarias",
+          "is_correct": false,
+          "feedback": "La Ley 70 demostró lo contrario: la titularidad colectiva se extendió a comunidades negras, con base en su historia de ocupación del Pacífico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La confluencia de luchas indígenas y afrodescendientes en los noventa —y su reflejo en el capítulo étnico de la Constitución— construyó en Colombia uno de los regímenes de derechos colectivos territoriales más amplios del mundo. Evaluar su alcance y sus incumplimientos, incluidos los asesinatos de líderes y la presión de economías ilegales, cierra el círculo de este bundle: del reconocimiento formal al reto de la igualdad real en la nación pluriétnica.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.5,
+      "bundle_id": "CO-SOC-11-2026-W07-indigenismo-y-plurietnicidad-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

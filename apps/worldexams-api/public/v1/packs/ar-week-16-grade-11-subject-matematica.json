@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematica",
+    "country": "ar",
+    "pack_id": "ar-week-16-grade-11-subject-matematica",
+    "generated_at": "2026-09-12T16:46:07.215Z"
+  },
+  "questions": [
+    {
+      "id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v1",
+      "statement": "En una sucesión aritmética con primer término $a_1 = 2$ y diferencia $d = 2$, ¿cuál es el valor del quinto término ($a_5$)?",
+      "context": "Análisis de sucesiones aritméticas y geométricas Caso N° 1.\n**ID:** AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v1\n**Bloom:** Remember\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_5 = 10$",
+          "is_correct": true,
+          "feedback": "Correcto. $a_5 = a_1 + 4d = 2 + 4(2) = 10$."
+        },
+        {
+          "letter": "B",
+          "text": "$a_5 = 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$a_5 = 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó una diferencia."
+        },
+        {
+          "letter": "D",
+          "text": "$a_5 = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó los parámetros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 2 + 4(2) = 10$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v2",
+      "statement": "En una sucesión aritmética con primer término $a_1 = 4$ y diferencia $d = 3$, ¿cuál es el valor del quinto término ($a_5$)?",
+      "context": "Análisis de sucesiones aritméticas y geométricas Caso N° 2.\n**ID:** AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v2\n**Bloom:** Remember\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_5 = 16$",
+          "is_correct": true,
+          "feedback": "Correcto. $a_5 = a_1 + 4d = 4 + 4(3) = 16$."
+        },
+        {
+          "letter": "B",
+          "text": "$a_5 = 19$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$a_5 = 13$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó una diferencia."
+        },
+        {
+          "letter": "D",
+          "text": "$a_5 = 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó los parámetros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 4 + 4(3) = 16$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v3",
+      "statement": "En una sucesión aritmética con primer término $a_1 = 6$ y diferencia $d = 4$, ¿cuál es el valor del quinto término ($a_5$)?",
+      "context": "Análisis de sucesiones aritméticas y geométricas Caso N° 3.\n**ID:** AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v3\n**Bloom:** Understand\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.86",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_5 = 22$",
+          "is_correct": true,
+          "feedback": "Correcto. $a_5 = a_1 + 4d = 6 + 4(4) = 22$."
+        },
+        {
+          "letter": "B",
+          "text": "$a_5 = 26$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$a_5 = 18$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó una diferencia."
+        },
+        {
+          "letter": "D",
+          "text": "$a_5 = 24$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó los parámetros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 6 + 4(4) = 22$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.86,
+      "bundle_id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v4",
+      "statement": "En una sucesión aritmética con primer término $a_1 = 8$ y diferencia $d = 5$, ¿cuál es el valor del quinto término ($a_5$)?",
+      "context": "Análisis de sucesiones aritméticas y geométricas Caso N° 4.\n**ID:** AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v4\n**Bloom:** Understand\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.84",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_5 = 28$",
+          "is_correct": true,
+          "feedback": "Correcto. $a_5 = a_1 + 4d = 8 + 4(5) = 28$."
+        },
+        {
+          "letter": "B",
+          "text": "$a_5 = 33$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$a_5 = 23$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó una diferencia."
+        },
+        {
+          "letter": "D",
+          "text": "$a_5 = 40$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó los parámetros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 8 + 4(5) = 28$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v5",
+      "statement": "En una sucesión aritmética con primer término $a_1 = 10$ y diferencia $d = 6$, ¿cuál es el valor del quinto término ($a_5$)?",
+      "context": "Análisis de sucesiones aritméticas y geométricas Caso N° 5.\n**ID:** AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v5\n**Bloom:** Understand\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.82",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_5 = 34$",
+          "is_correct": true,
+          "feedback": "Correcto. $a_5 = a_1 + 4d = 10 + 4(6) = 34$."
+        },
+        {
+          "letter": "B",
+          "text": "$a_5 = 40$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$a_5 = 28$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó una diferencia."
+        },
+        {
+          "letter": "D",
+          "text": "$a_5 = 60$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó los parámetros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 10 + 4(6) = 34$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v6",
+      "statement": "En una sucesión aritmética con primer término $a_1 = 12$ y diferencia $d = 7$, ¿cuál es el valor del quinto término ($a_5$)?",
+      "context": "Análisis de sucesiones aritméticas y geométricas Caso N° 6.\n**ID:** AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v6\n**Bloom:** Apply\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_5 = 40$",
+          "is_correct": true,
+          "feedback": "Correcto. $a_5 = a_1 + 4d = 12 + 4(7) = 40$."
+        },
+        {
+          "letter": "B",
+          "text": "$a_5 = 47$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$a_5 = 33$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó una diferencia."
+        },
+        {
+          "letter": "D",
+          "text": "$a_5 = 84$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó los parámetros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 12 + 4(7) = 40$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v7",
+      "statement": "En una sucesión aritmética con primer término $a_1 = 14$ y diferencia $d = 8$, ¿cuál es el valor del quinto término ($a_5$)?",
+      "context": "Análisis de sucesiones aritméticas y geométricas Caso N° 7.\n**ID:** AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v7\n**Bloom:** Apply\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_5 = 46$",
+          "is_correct": true,
+          "feedback": "Correcto. $a_5 = a_1 + 4d = 14 + 4(8) = 46$."
+        },
+        {
+          "letter": "B",
+          "text": "$a_5 = 54$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$a_5 = 38$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó una diferencia."
+        },
+        {
+          "letter": "D",
+          "text": "$a_5 = 112$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó los parámetros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 14 + 4(8) = 46$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v8",
+      "statement": "En una sucesión aritmética con primer término $a_1 = 16$ y diferencia $d = 9$, ¿cuál es el valor del quinto término ($a_5$)?",
+      "context": "Análisis de sucesiones aritméticas y geométricas Caso N° 8.\n**ID:** AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v8\n**Bloom:** Apply\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.76",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_5 = 52$",
+          "is_correct": true,
+          "feedback": "Correcto. $a_5 = a_1 + 4d = 16 + 4(9) = 52$."
+        },
+        {
+          "letter": "B",
+          "text": "$a_5 = 61$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$a_5 = 43$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó una diferencia."
+        },
+        {
+          "letter": "D",
+          "text": "$a_5 = 144$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó los parámetros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 16 + 4(9) = 52$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.76,
+      "bundle_id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v9",
+      "statement": "En una sucesión aritmética con primer término $a_1 = 18$ y diferencia $d = 10$, ¿cuál es el valor del quinto término ($a_5$)?",
+      "context": "Análisis de sucesiones aritméticas y geométricas Caso N° 9.\n**ID:** AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v9\n**Bloom:** Apply\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.74",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_5 = 58$",
+          "is_correct": true,
+          "feedback": "Correcto. $a_5 = a_1 + 4d = 18 + 4(10) = 58$."
+        },
+        {
+          "letter": "B",
+          "text": "$a_5 = 68$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$a_5 = 48$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó una diferencia."
+        },
+        {
+          "letter": "D",
+          "text": "$a_5 = 180$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó los parámetros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 18 + 4(10) = 58$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.74,
+      "bundle_id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v10",
+      "statement": "En una sucesión aritmética con primer término $a_1 = 20$ y diferencia $d = 11$, ¿cuál es el valor del quinto término ($a_5$)?",
+      "context": "Análisis de sucesiones aritméticas y geométricas Caso N° 10.\n**ID:** AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v10\n**Bloom:** Apply\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.72",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_5 = 64$",
+          "is_correct": true,
+          "feedback": "Correcto. $a_5 = a_1 + 4d = 20 + 4(11) = 64$."
+        },
+        {
+          "letter": "B",
+          "text": "$a_5 = 75$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$a_5 = 53$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó una diferencia."
+        },
+        {
+          "letter": "D",
+          "text": "$a_5 = 220$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó los parámetros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 20 + 4(11) = 64$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v11",
+      "statement": "En una sucesión aritmética con primer término $a_1 = 22$ y diferencia $d = 12$, ¿cuál es el valor del quinto término ($a_5$)?",
+      "context": "Análisis de sucesiones aritméticas y geométricas Caso N° 11.\n**ID:** AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v11\n**Bloom:** Analyze\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_5 = 70$",
+          "is_correct": true,
+          "feedback": "Correcto. $a_5 = a_1 + 4d = 22 + 4(12) = 70$."
+        },
+        {
+          "letter": "B",
+          "text": "$a_5 = 82$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$a_5 = 58$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó una diferencia."
+        },
+        {
+          "letter": "D",
+          "text": "$a_5 = 264$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó los parámetros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 22 + 4(12) = 70$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v12",
+      "statement": "En una sucesión aritmética con primer término $a_1 = 24$ y diferencia $d = 13$, ¿cuál es el valor del quinto término ($a_5$)?",
+      "context": "Análisis de sucesiones aritméticas y geométricas Caso N° 12.\n**ID:** AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v12\n**Bloom:** Analyze\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.68",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_5 = 76$",
+          "is_correct": true,
+          "feedback": "Correcto. $a_5 = a_1 + 4d = 24 + 4(13) = 76$."
+        },
+        {
+          "letter": "B",
+          "text": "$a_5 = 89$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$a_5 = 63$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó una diferencia."
+        },
+        {
+          "letter": "D",
+          "text": "$a_5 = 312$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó los parámetros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 24 + 4(13) = 76$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.68,
+      "bundle_id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v13",
+      "statement": "En una sucesión aritmética con primer término $a_1 = 26$ y diferencia $d = 14$, ¿cuál es el valor del quinto término ($a_5$)?",
+      "context": "Análisis de sucesiones aritméticas y geométricas Caso N° 13.\n**ID:** AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v13\n**Bloom:** Analyze\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.66",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_5 = 82$",
+          "is_correct": true,
+          "feedback": "Correcto. $a_5 = a_1 + 4d = 26 + 4(14) = 82$."
+        },
+        {
+          "letter": "B",
+          "text": "$a_5 = 96$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$a_5 = 68$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó una diferencia."
+        },
+        {
+          "letter": "D",
+          "text": "$a_5 = 364$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó los parámetros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 26 + 4(14) = 82$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.66,
+      "bundle_id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v14",
+      "statement": "En una sucesión aritmética con primer término $a_1 = 28$ y diferencia $d = 15$, ¿cuál es el valor del quinto término ($a_5$)?",
+      "context": "Análisis de sucesiones aritméticas y geométricas Caso N° 14.\n**ID:** AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v14\n**Bloom:** Analyze\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.64",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_5 = 88$",
+          "is_correct": true,
+          "feedback": "Correcto. $a_5 = a_1 + 4d = 28 + 4(15) = 88$."
+        },
+        {
+          "letter": "B",
+          "text": "$a_5 = 103$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$a_5 = 73$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó una diferencia."
+        },
+        {
+          "letter": "D",
+          "text": "$a_5 = 420$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó los parámetros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 28 + 4(15) = 88$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.64,
+      "bundle_id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v15",
+      "statement": "En una sucesión aritmética con primer término $a_1 = 30$ y diferencia $d = 16$, ¿cuál es el valor del quinto término ($a_5$)?",
+      "context": "Análisis de sucesiones aritméticas y geométricas Caso N° 15.\n**ID:** AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v15\n**Bloom:** Apply\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.62",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_5 = 94$",
+          "is_correct": true,
+          "feedback": "Correcto. $a_5 = a_1 + 4d = 30 + 4(16) = 94$."
+        },
+        {
+          "letter": "B",
+          "text": "$a_5 = 110$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$a_5 = 78$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó una diferencia."
+        },
+        {
+          "letter": "D",
+          "text": "$a_5 = 480$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó los parámetros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 30 + 4(16) = 94$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v16",
+      "statement": "En una sucesión aritmética con primer término $a_1 = 32$ y diferencia $d = 17$, ¿cuál es el valor del quinto término ($a_5$)?",
+      "context": "Análisis de sucesiones aritméticas y geométricas Caso N° 16.\n**ID:** AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v16\n**Bloom:** Analyze\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_5 = 100$",
+          "is_correct": true,
+          "feedback": "Correcto. $a_5 = a_1 + 4d = 32 + 4(17) = 100$."
+        },
+        {
+          "letter": "B",
+          "text": "$a_5 = 117$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$a_5 = 83$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó una diferencia."
+        },
+        {
+          "letter": "D",
+          "text": "$a_5 = 544$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó los parámetros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 32 + 4(17) = 100$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v17",
+      "statement": "En una sucesión aritmética con primer término $a_1 = 34$ y diferencia $d = 18$, ¿cuál es el valor del quinto término ($a_5$)?",
+      "context": "Análisis de sucesiones aritméticas y geométricas Caso N° 17.\n**ID:** AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v17\n**Bloom:** Evaluate\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.58",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_5 = 106$",
+          "is_correct": true,
+          "feedback": "Correcto. $a_5 = a_1 + 4d = 34 + 4(18) = 106$."
+        },
+        {
+          "letter": "B",
+          "text": "$a_5 = 124$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$a_5 = 88$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó una diferencia."
+        },
+        {
+          "letter": "D",
+          "text": "$a_5 = 612$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó los parámetros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 34 + 4(18) = 106$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.58,
+      "bundle_id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v18",
+      "statement": "En una sucesión aritmética con primer término $a_1 = 36$ y diferencia $d = 19$, ¿cuál es el valor del quinto término ($a_5$)?",
+      "context": "Análisis de sucesiones aritméticas y geométricas Caso N° 18.\n**ID:** AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v18\n**Bloom:** Evaluate\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.56",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_5 = 112$",
+          "is_correct": true,
+          "feedback": "Correcto. $a_5 = a_1 + 4d = 36 + 4(19) = 112$."
+        },
+        {
+          "letter": "B",
+          "text": "$a_5 = 131$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$a_5 = 93$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó una diferencia."
+        },
+        {
+          "letter": "D",
+          "text": "$a_5 = 684$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó los parámetros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 36 + 4(19) = 112$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.56,
+      "bundle_id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v19",
+      "statement": "En una sucesión aritmética con primer término $a_1 = 38$ y diferencia $d = 20$, ¿cuál es el valor del quinto término ($a_5$)?",
+      "context": "Análisis de sucesiones aritméticas y geométricas Caso N° 19.\n**ID:** AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v19\n**Bloom:** Evaluate\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.54",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_5 = 118$",
+          "is_correct": true,
+          "feedback": "Correcto. $a_5 = a_1 + 4d = 38 + 4(20) = 118$."
+        },
+        {
+          "letter": "B",
+          "text": "$a_5 = 138$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$a_5 = 98$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó una diferencia."
+        },
+        {
+          "letter": "D",
+          "text": "$a_5 = 760$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó los parámetros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 38 + 4(20) = 118$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.54,
+      "bundle_id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v20",
+      "statement": "En una sucesión aritmética con primer término $a_1 = 40$ y diferencia $d = 21$, ¿cuál es el valor del quinto término ($a_5$)?",
+      "context": "Análisis de sucesiones aritméticas y geométricas Caso N° 20.\n**ID:** AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle-v20\n**Bloom:** Evaluate\n**EJE:** Álgebra y Funciones\n**Expected_Success:** 0.52",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_5 = 124$",
+          "is_correct": true,
+          "feedback": "Correcto. $a_5 = a_1 + 4d = 40 + 4(21) = 124$."
+        },
+        {
+          "letter": "B",
+          "text": "$a_5 = 145$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$a_5 = 103$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó una diferencia."
+        },
+        {
+          "letter": "D",
+          "text": "$a_5 = 840$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó los parámetros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 40 + 4(21) = 124$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.52,
+      "bundle_id": "AR-MAT-11-2026-W16-sucesiones-aritmeticas-geometricas-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    }
+  ]
+}

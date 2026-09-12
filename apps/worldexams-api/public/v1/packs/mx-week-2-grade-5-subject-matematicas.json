@@ -1,0 +1,371 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "matematicas",
+    "country": "mx",
+    "pack_id": "mx-week-2-grade-5-subject-matematicas",
+    "generated_at": "2026-09-12T16:46:07.807Z"
+  },
+  "questions": [
+    {
+      "id": "MX-MAT-5-2026-W02-decimales-basicos-001-MASTERY-bundle-v1",
+      "statement": "En el número $235.75, ¿qué representa el dígito 7?",
+      "context": "Doña Rosa vendió agua de jamaica en la kermés de la escuela en Guadalajara y anotó que reunió $235.75.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7 décimas de peso",
+          "is_correct": true,
+          "feedback": "El 7 está en la primera posición después del punto decimal, que corresponde a las décimas."
+        },
+        {
+          "letter": "B",
+          "text": "7 centésimas de peso",
+          "is_correct": false,
+          "feedback": "Las centésimas es la segunda posición después del punto; ahí está el 5."
+        },
+        {
+          "letter": "C",
+          "text": "7 pesos",
+          "is_correct": false,
+          "feedback": "Los pesos completos son la parte entera (235); el 7 ya está después del punto."
+        },
+        {
+          "letter": "D",
+          "text": "7 decenas",
+          "is_correct": false,
+          "feedback": "Las decenas del número son el 3 de 235; el 7 pertenece a la parte decimal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el contexto del dinero, el punto separa pesos de centavos: $235.75 son 235 pesos con 75 centavos. La primera cifra decimal son décimas y la segunda centésimas, por eso el 7 representa 7 décimas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "MX-MAT-5-2026-W02-decimales-basicos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-5-2026-W02-decimales-basicos-001-MASTERY-bundle-v2",
+      "statement": "¿Qué número decimal corresponde a esa lectura?",
+      "context": "El maestro escribió en el pizarrón de una escuela de Chetumal: \"Tres con cuatro décimas\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3.4",
+          "is_correct": true,
+          "feedback": "La parte entera es 3 y las 4 décimas se escriben justo después del punto: 3.4."
+        },
+        {
+          "letter": "B",
+          "text": "3.04",
+          "is_correct": false,
+          "feedback": "3.04 son tres con cuatro centésimas; las décimas irían en la primera posición decimal."
+        },
+        {
+          "letter": "C",
+          "text": "34",
+          "is_correct": false,
+          "feedback": "34 es treinta y cuatro, un número entero sin parte decimal."
+        },
+        {
+          "letter": "D",
+          "text": "0.34",
+          "is_correct": false,
+          "feedback": "0.34 carece de unidades completas; el enunciado indica tres enteros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Escribir decimales a partir de su nombre exige ubicar cada cifra según su lugar: primero la parte entera y después las décimas. Confundir décimas con centésimas (3.4 contra 3.04) es el error más común y se evita nombrando cada posición.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.9,
+      "bundle_id": "MX-MAT-5-2026-W02-decimales-basicos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-5-2026-W02-decimales-basicos-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál afirmación sobre estas dos medidas es correcta?",
+      "context": "Luis midió la longitud de un lápiz con una regla y anotó 14.6 cm; su regla marcaba también 14.60 cm en otra escala.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Miden lo mismo, porque agregar ceros a la derecha del último decimal no cambia el valor",
+          "is_correct": true,
+          "feedback": "14.6 = 14.60 porque el cero en las centésimas no añade valor; ambos representan la misma longitud."
+        },
+        {
+          "letter": "B",
+          "text": "14.60 es mayor, porque tiene más cifras",
+          "is_correct": false,
+          "feedback": "Más cifras no implican mayor valor cuando los dígitos extra son ceros al final del decimal."
+        },
+        {
+          "letter": "C",
+          "text": "14.6 es menor, porque 6 es menor que 60",
+          "is_correct": false,
+          "feedback": "Comparar \"6 contra 60\" ignora el lugar: en 14.60 el 6 está en las décimas y el 0 en las centésimas."
+        },
+        {
+          "letter": "D",
+          "text": "Son medidas incomparables porque una usa décimas y la otra centésimas",
+          "is_correct": false,
+          "feedback": "Ambos números expresan la misma cantidad; basta escribirlos con el mismo número de cifras decimales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los ceros a la derecha de la última cifra decimal no alteran el valor: 14.6 = 14.60 = 14.600. Esta propiedad permite igualar longitudes decimales para compararlos o sumarlos sin ambigüedad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-5-2026-W02-decimales-basicos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-5-2026-W02-decimales-basicos-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál paquete pesa más?",
+      "context": "Fernanda comparó dos paquetes de frijol en un mercado de la Ciudad de México: uno pesa 2.45 kg y el otro 2.5 kg.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El de 2.5 kg, porque 2.50 es mayor que 2.45",
+          "is_correct": true,
+          "feedback": "Igualando cifras decimales, 2.5 = 2.50 y 2.50 > 2.45 porque en las décimas 5 es mayor que 4."
+        },
+        {
+          "letter": "B",
+          "text": "El de 2.45 kg, porque 45 es mayor que 5",
+          "is_correct": false,
+          "feedback": "No se comparan las cifras decimales como un número de dos dígitos; primero manda la posición de las décimas."
+        },
+        {
+          "letter": "C",
+          "text": "Pesan igual",
+          "is_correct": false,
+          "feedback": "2.45 y 2.50 difieren en 5 centésimas; no son la misma masa."
+        },
+        {
+          "letter": "D",
+          "text": "El de 2.45 kg, porque tiene más dígitos",
+          "is_correct": false,
+          "feedback": "La cantidad de dígitos no determina el valor; 2.5 con un dígito decimal puede ser mayor que 2.45."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar decimales exige alinear el punto y recorrer las posiciones de izquierda a derecha: parte entera, décimas, centésimas. Como ambos comparten el 2 entero, la comparación se decide en las décimas: 5 contra 4, por eso 2.5 kg pesa más.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-5-2026-W02-decimales-basicos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-5-2026-W02-decimales-basicos-001-MASTERY-bundle-v5",
+      "statement": "¿Cuánto pagó en total?",
+      "context": "En la tiendita de la esquina en Monterrey, Carlos compró un jugo de $12.50 y unas galletas de $8.75.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$21.25",
+          "is_correct": true,
+          "feedback": "12.50 + 8.75 = 21.25; al alinear el punto, 50 + 75 centavos son 125 centavos, es decir 1 peso con 25 centavos que se acumulan a 12 + 8."
+        },
+        {
+          "letter": "B",
+          "text": "$20.25",
+          "is_correct": false,
+          "feedback": "Falta el peso generado por los 125 centavos; la parte entera es 21."
+        },
+        {
+          "letter": "C",
+          "text": "$21.75",
+          "is_correct": false,
+          "feedback": "50 + 75 centavos dan 125, no 175; el excedente de 100 centavos pasa a los pesos."
+        },
+        {
+          "letter": "D",
+          "text": "$21.15",
+          "is_correct": false,
+          "feedback": "La suma de centavos 50 + 75 termina en 25; 15 proviene de un error en las centésimas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sumar decimales requiere alinear el punto decimal y sumar por columnas como con enteros, considerando el canje: 125 centavos equivalen a 1.25 pesos. El total es $21.25, verificable al descontar de un billete de $20 más $5.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-5-2026-W02-decimales-basicos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-5-2026-W02-decimales-basicos-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la regla de la secuencia y qué temperatura seguiría?",
+      "context": "Ximena escribió la secuencia de temperaturas mínimas de una semana en Tijuana, en grados Celsius: 12.4, 12.8, 13.2, 13.6.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sumar 0.4 cada vez; seguiría 14.0",
+          "is_correct": true,
+          "feedback": "12.8 − 12.4 = 0.4 y el patrón se repite en todos los términos; 13.6 + 0.4 = 14.0."
+        },
+        {
+          "letter": "B",
+          "text": "Sumar 0.8 cada vez; seguiría 14.4",
+          "is_correct": false,
+          "feedback": "0.8 es la diferencia entre dos saltos consecutivos, no entre términos vecinos."
+        },
+        {
+          "letter": "C",
+          "text": "Sumar 0.6 cada vez; seguiría 14.2",
+          "is_correct": false,
+          "feedback": "Ninguna resta entre términos vecinos da 0.6; el incremento constante es 0.4."
+        },
+        {
+          "letter": "D",
+          "text": "Multiplicar por 1.04 cada vez; seguiría 14.14",
+          "is_correct": false,
+          "feedback": "La secuencia crece con diferencia constante, no con factor constante; 12.4 × 1.04 ni siquiera da 12.8."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Detectar patrones en decimales se hace calculando las diferencias entre términos consecutivos. Aquí la diferencia constante es 0.4, lo que define una secuencia aritmética; distinguirla de un patrón multiplicativo es parte del análisis.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "MX-MAT-5-2026-W02-decimales-basicos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-5-2026-W02-decimales-basicos-001-MASTERY-bundle-v7",
+      "statement": "¿Qué orden es correcto de la más rápida a la más lenta?",
+      "context": "En una competencia de atletismo escolar en Hermosillo, los registros oficiales de las finalistas en 100 metros fueron: Ana 14.08 s, Bea 14.80 s y Carla 14.1 s.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Carla, Ana y Bea",
+          "is_correct": false,
+          "feedback": "Igualando cifras decimales, Carla corrió en 14.10 y Ana en 14.08; 14.08 es menor, así que Ana llegó primero."
+        },
+        {
+          "letter": "B",
+          "text": "Ana, Carla y Bea",
+          "is_correct": true,
+          "feedback": "Con tiempos menores se gana: 14.08, 14.10 y 14.80 es el orden creciente de los tiempos."
+        },
+        {
+          "letter": "C",
+          "text": "Bea, Carla y Ana",
+          "is_correct": false,
+          "feedback": "Bea tiene el mayor tiempo (14.80), así que es la más lenta, no la más rápida."
+        },
+        {
+          "letter": "D",
+          "text": "Ana, Bea y Carla",
+          "is_correct": false,
+          "feedback": "14.80 es mayor que 14.10; Bea no puede ir antes que Carla."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En carreras gana el tiempo menor, y comparar 14.08 con 14.1 exige igualar cifras decimales: 14.10. El orden de más rápida a más lenta es Ana (14.08), Carla (14.10) y Bea (14.80). Analizar el contexto (tiempo contra distancia) evita invertir el criterio de orden.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "MX-MAT-5-2026-W02-decimales-basicos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-5-2026-W02-decimales-basicos-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál cambio es correcto?",
+      "context": "Al pagar $47.90 con un billete de $50, tres cajeros propusieron el cambio: uno dijo $2.10, otro dijo $2.90 y una cajera dijo $3.10.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2.10",
+          "is_correct": true,
+          "feedback": "50.00 − 47.90 = 2.10; al restar, 47.90 + 2.10 = 50.00, lo que confirma el cálculo."
+        },
+        {
+          "letter": "B",
+          "text": "$2.90",
+          "is_correct": false,
+          "feedback": "47.90 + 2.90 = 50.80, más que el billete entregado."
+        },
+        {
+          "letter": "C",
+          "text": "$3.10",
+          "is_correct": false,
+          "feedback": "47.90 + 3.10 = 51.00; excede los $50 pagados."
+        },
+        {
+          "letter": "D",
+          "text": "$2.01",
+          "is_correct": false,
+          "feedback": "47.90 + 2.01 = 49.91, que no llega a $50; es 2.10 escrito con las cifras decimales invertidas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Calcular cambios aplica la resta de decimales con canje a través del punto: 50.00 − 47.90 = 2.10. La verificación por suma inversa (gastado + cambio = pagado) es el método confiable para evaluar cuál cajero acertó.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
+      "bundle_id": "MX-MAT-5-2026-W02-decimales-basicos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "mx"
+    }
+  ]
+}

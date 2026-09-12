@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "uy",
+    "pack_id": "uy-week-14-grade-11-subject-matematicas",
+    "generated_at": "2026-09-12T16:46:07.967Z"
+  },
+  "questions": [
+    {
+      "id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el recorrido (o imagen) de la función exponencial $f(x) = 2^x$ en el conjunto de los números reales?",
+      "context": "Un docente de Montevideo repasa el recorrido de la función exponencial básica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales ($\\mathbb{R}$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las potencias de base positiva nunca dan resultados negativos ni cero."
+        },
+        {
+          "letter": "B",
+          "text": "Los reales estrictamente positivos ($(0, +\\infty)$)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Para todo $x \\in \\mathbb{R}$, $2^x > 0$."
+        },
+        {
+          "letter": "C",
+          "text": "Los reales no negativos ($[0, +\\infty)$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor $0$ es una asíntota horizontal, nunca se alcanza."
+        },
+        {
+          "letter": "D",
+          "text": "El intervalo $[1, +\\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para $x < 0$, $2^x$ toma valores entre $0$ y $1$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Por definición de la función exponencial de base $a > 0$, para cualquier exponente real $x$, $a^x$ es estrictamente mayor que cero. Por ende, la imagen es $(0, +\\infty)$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v2",
+      "statement": "Si $\\log_3(x) = 4$, ¿cuál es el valor de $x$?",
+      "context": "Un grupo de estudiantes de Salto evalúa la definición de logaritmo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste $3 \\times 4$ en lugar de elevar $3^4$."
+        },
+        {
+          "letter": "B",
+          "text": "$81$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Por definición de logaritmo, $\\log_b(x) = y \\Leftrightarrow b^y = x$. Aquí $x = 3^4 = 81$."
+        },
+        {
+          "letter": "C",
+          "text": "$64$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $64 = 4^3$, elevaste la base al revés."
+        },
+        {
+          "letter": "D",
+          "text": "$7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $3 + 4$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La definición de logaritmo establece que $\\log_b(a) = c \\Leftrightarrow b^c = a$. En este caso, la base es 3 y el exponente es 4, por lo que $x = 3^4 = 81$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v3",
+      "statement": "¿A qué expresión equivale $\\log_b(M \\cdot N)$ para $M, N > 0$ y $b > 0, b \\neq 1$?",
+      "context": "En Maldonado se aplica la propiedad del logaritmo de un producto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\log_b(M) \\cdot \\log_b(N)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El logaritmo convierte productos en sumas, no en productos."
+        },
+        {
+          "letter": "B",
+          "text": "$\\log_b(M) + \\log_b(N)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El logaritmo de un producto es la suma de los logaritmos de los factores."
+        },
+        {
+          "letter": "C",
+          "text": "$\\log_b(M + N)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma dentro del argumento no equivale a la suma de logaritmos."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{\\log_b(M)}{\\log_b(N)}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese cociente proviene del logaritmo de una división o de un cambio de base."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una propiedad fundamental de los logaritmos es que transforman la multiplicación en el argumento en una suma de logaritmos de la misma base: $\\log_b(M \\cdot N) = \\log_b(M) + \\log_b(N)$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el dominio de existencia de la función $f(x) = \\ln(x - 2)$?",
+      "context": "Una estudiante de Rivera determina el dominio de la función logarítmica natural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\mathbb{R}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El logaritmo solo admite argumentos estrictamente positivos."
+        },
+        {
+          "letter": "B",
+          "text": "$(2, +\\infty)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se requiere que $x - 2 > 0 \\Rightarrow x > 2$."
+        },
+        {
+          "letter": "C",
+          "text": "$[2, +\\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor $x = 2$ hace $x - 2 = 0$, y $\\ln(0)$ no está definido."
+        },
+        {
+          "letter": "D",
+          "text": "$(-\\infty, 2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para $x < 2$, $x - 2 < 0$, lo que da argumentos negativos no válidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El logaritmo real solo está definido para números estrictamente positivos. Resolvemos la inecuación para el argumento: $x - 2 > 0 \\Rightarrow x > 2$. Así, $\\text{Dom}(f) = (2, +\\infty)$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v5",
+      "statement": "La población de bacterias sigue la fórmula $N(t) = 500 \\cdot 2^t$, donde $t$ es el tiempo en horas. ¿Cuántas bacterias habrá al cabo de 3 horas?",
+      "context": "Un laboratorio de biología en Colonia modela el crecimiento de una población de bacterias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste $500 \\times 2 \\times 3$."
+        },
+        {
+          "letter": "B",
+          "text": "4000",
+          "is_correct": true,
+          "feedback": "¡Correcto! $N(3) = 500 \\cdot 2^3 = 500 \\cdot 8 = 4000$."
+        },
+        {
+          "letter": "C",
+          "text": "1500",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste $500 \\times 3$."
+        },
+        {
+          "letter": "D",
+          "text": "8000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaluaste $t = 4$ en lugar de $t = 3$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sustituimos $t = 3$ en la función de crecimiento exponencial: $N(3) = 500 \\cdot 2^3 = 500 \\cdot 8 = 4000$ bacterias.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la solución de la ecuación $5^{2x - 1} = 125$?",
+      "context": "Un estudiante de Paysandú resuelve una ecuación exponencial igualando bases.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $5^{2(1)-1} = 5^1 = 5 \\neq 125$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 2$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Como $125 = 5^3$, tenemos $2x - 1 = 3 \\Rightarrow 2x = 4 \\Rightarrow x = 2$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Igualaste el exponente $2x-1$ a $125$ o no despejaste $x$."
+        },
+        {
+          "letter": "D",
+          "text": "$x = \\frac{3}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar 1 antes de dividir por 2."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Expresamos 125 como potencia de base 5: $125 = 5^3$.\nComo las bases son iguales: $2x - 1 = 3 \\Rightarrow 2x = 4 \\Rightarrow x = 2$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v7",
+      "statement": "Si $\\log_2(x) = 5$, ¿cuál es el valor de $\\log_2(x^3)$?",
+      "context": "En Canelones se simplifica una expresión logarítmica usando la regla de la potencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $5 + 3$."
+        },
+        {
+          "letter": "B",
+          "text": "15",
+          "is_correct": true,
+          "feedback": "¡Correcto! Por la propiedad de la potencia $\\log_b(x^k) = k \\cdot \\log_b(x)$, se tiene $3 \\cdot 5 = 15$."
+        },
+        {
+          "letter": "C",
+          "text": "125",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elevarás $5^3$, pero la propiedad multiplica la constante por el logaritmo."
+        },
+        {
+          "letter": "D",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste $5 \\times 5$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicando la propiedad del exponente en logaritmos: $\\log_b(x^k) = k \\cdot \\log_b(x)$.\nPor lo tanto, $\\log_2(x^3) = 3 \\cdot \\log_2(x) = 3 \\cdot 5 = 15$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v8",
+      "statement": "¿A qué expresión equivale el logaritmo $\\log_3(7)$ expresado en términos de logaritmos naturales ($\\ln$)?",
+      "context": "Un estudiante de Rocha utiliza el cambio de base para calcular logaritmos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\ln(7) \\cdot \\ln(3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fórmula del cambio de base implica un cociente, no un producto."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{\\ln(7)}{\\ln(3)}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! La fórmula de cambio de base establece que $\\log_b(a) = \\frac{\\log_c(a)}{\\log_c(b)} = \\frac{\\ln(7)}{\\ln(3)}$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{\\ln(3)}{\\ln(7)}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el argumento y la base en la fracción."
+        },
+        {
+          "letter": "D",
+          "text": "$\\ln(7 - 3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cambio de base no resta los argumentos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fórmula general para cambio de base es $\\log_b(a) = \\frac{\\log_c(a)}{\\log_c(b)}$. Eligiendo como nueva base el número e ($c = e$), obtenemos $\\log_3(7) = \\frac{\\ln(7)}{\\ln(3)}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la derivada de la función $f(x) = e^{4x}$ con respecto a $x$?",
+      "context": "Un grupo de Tacuarembó deriva una función exponencial compuesta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f'(x) = e^{4x}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar por la derivada del exponente (regla de la cadena)."
+        },
+        {
+          "letter": "B",
+          "text": "$f'(x) = 4e^{4x}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Por la regla de la cadena $\\frac{d}{dx}[e^{u(x)}] = u'(x)e^{u(x)}$. Como $u'(x) = 4$, resulta $4e^{4x}$."
+        },
+        {
+          "letter": "C",
+          "text": "$f'(x) = 4x e^{4x-1}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplicaste erróneamente la regla de la potencia a la base exponencial."
+        },
+        {
+          "letter": "D",
+          "text": "$f'(x) = \\frac{1}{4}e^{4x}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste por 4 en lugar de multiplicar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Por la regla de la cadena para la exponencial natural, $\\frac{d}{dx}[e^{g(x)}] = g'(x) e^{g(x)}$.\nPara $g(x) = 4x$, se tiene $g'(x) = 4$, dando como resultado $f'(x) = 4e^{4x}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la derivada de la función $g(x) = \\ln(x^2 + 3)$?",
+      "context": "Una estudiante de San José calcula la derivada de una función logarítmica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$g'(x) = \\frac{1}{x^2 + 3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar por la derivada interna del argumento $2x$."
+        },
+        {
+          "letter": "B",
+          "text": "$g'(x) = \\frac{2x}{x^2 + 3}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Por regla de la cadena $\\frac{d}{dx}[\\ln(u)] = \\frac{u'}{u} = \\frac{2x}{x^2 + 3}$."
+        },
+        {
+          "letter": "C",
+          "text": "$g'(x) = \\frac{2x}{x}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colocaste solo $x$ en el denominador."
+        },
+        {
+          "letter": "D",
+          "text": "$g'(x) = 2x \\ln(x^2 + 3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada de $\\ln(u)$ involucra dividir por $u$, no multiplicarlo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La derivada del logaritmo natural compuesto viene dada por $\\frac{d}{dx}[\\ln(u(x))] = \\frac{u'(x)}{u(x)}$.\nAquí $u(x) = x^2 + 3$, cuya derivada es $u'(x) = 2x$. Así, $g'(x) = \\frac{2x}{x^2 + 3}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la solución real de la ecuación $\\log_2(x) + \\log_2(x - 2) = 3$?",
+      "context": "En Minas se resuelve una ecuación logarítmica agrupando términos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = -2$ y $x = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x = -2$ no pertenece al dominio porque $\\log_2(-2)$ no existe."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 4$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Agrupando: $\\log_2(x(x-2)) = 3 \\Rightarrow x^2 - 2x = 2^3 = 8 \\Rightarrow x^2 - 2x - 8 = 0$. Raíces: $x = 4$ y $x = -2$. Se descarta $x = -2$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $3(3-2) = 3 \\neq 2^3 = 8$."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $8(8-2) = 48 \\neq 8$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "1) Por propiedad de suma de logaritmos: $\\log_2(x(x - 2)) = 3$.\n2) Pasando a forma exponencial: $x(x - 2) = 2^3 = 8 \\Rightarrow x^2 - 2x - 8 = 0$.\n3) Factorizando: $(x - 4)(x + 2) = 0 \\Rightarrow x = 4$ o $x = -2$.\n4) Verificación de dominio: para $x = -2$, el argumento es negativo (no válido). Por lo tanto, la única solución real es $x = 4$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la función inversa $f^{-1}(x)$ de $f(x) = 3^{x + 1} - 2$?",
+      "context": "Un estudiante de Melo busca la función inversa de una función exponencial desplazada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f^{-1}(x) = \\log_3(x - 2) + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Signos de los desplazamientos erróneos al despejar $x$."
+        },
+        {
+          "letter": "B",
+          "text": "$f^{-1}(x) = \\log_3(x + 2) - 1$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $y = 3^{x+1} - 2 \\Rightarrow y + 2 = 3^{x+1} \\Rightarrow \\log_3(y+2) = x + 1 \\Rightarrow x = \\log_3(y+2) - 1$."
+        },
+        {
+          "letter": "C",
+          "text": "$f^{-1}(x) = \\log_3(x - 1) + 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste las constantes de suma y resta."
+        },
+        {
+          "letter": "D",
+          "text": "$f^{-1}(x) = 3^{x - 2} + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La inversa de una exponencial es una logarítmica, no otra exponencial."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "1) Escribimos $y = 3^{x + 1} - 2$.\n2) Despejamos $x$: $y + 2 = 3^{x + 1}$.\n3) Aplicamos logaritmo en base 3: $\\log_3(y + 2) = x + 1 \\Rightarrow x = \\log_3(y + 2) - 1$.\n4) Intercambiamos variables: $f^{-1}(x) = \\log_3(x + 2) - 1$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es el valor del límite $\\lim_{x \\to +\\infty} \\left(1 + \\frac{2}{x}\\right)^x$?",
+      "context": "En Florida se evalúa un límite indeterminado del tipo $1^\\infty$ relacionado con la definición de $e$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La indeterminación $1^\\infty$ no es igual a 1 en el límite."
+        },
+        {
+          "letter": "B",
+          "text": "$e$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese sería el límite si el numerador fuera 1."
+        },
+        {
+          "letter": "C",
+          "text": "$e^2$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Utilizando la propiedad $\\lim_{x \\to \\infty} \\left(1 + \\frac{k}{x}\\right)^x = e^k$, con $k = 2$ resulta $e^2$."
+        },
+        {
+          "letter": "D",
+          "text": "$+\\infty$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite es una constante finita estrictamente positiva."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La definición del número e mediante límites establece que $\\lim_{x \\to +\\infty} \\left(1 + \\frac{k}{x}\\right)^x = e^k$.\nPara $k = 2$, el límite es exactamente $e^2$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v14",
+      "statement": "El capital acumulado en un fondo de inversión crece según $A(t) = A_0 e^{0.05 t}$ ($t$ en años). ¿En cuánto tiempo exacto se triplicará la inversión inicial ($A(t) = 3 A_0$)?",
+      "context": "Un proyecto de finanzas en Punta del Este estudia el interés compuesto continuo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$t = 20 \\ln(3)$ años",
+          "is_correct": true,
+          "feedback": "¡Correcto! $3 A_0 = A_0 e^{0.05 t} \\Rightarrow 3 = e^{0.05 t} \\Rightarrow \\ln(3) = 0.05 t = \\frac{t}{20} \\Rightarrow t = 20 \\ln(3)$."
+        },
+        {
+          "letter": "B",
+          "text": "$t = \\frac{\\ln(3)}{0.5}$ años",
+          "is_correct": false,
+          "feedback": "Incorrecto. $0.05 = \\frac{1}{20}$, no $0.5$."
+        },
+        {
+          "letter": "C",
+          "text": "$t = 3 \\ln(20)$ años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste los valores de los argumentos en el producto."
+        },
+        {
+          "letter": "D",
+          "text": "$t = 60$ años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste aplicar el logaritmo natural para despejar el exponente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "1) Igualamos $A(t) = 3 A_0 \\Rightarrow A_0 e^{0.05 t} = 3 A_0 \\Rightarrow e^{0.05 t} = 3$.\n2) Aplicamos $\\ln$ a ambos lados: $0.05 t = \\ln(3)$.\n3) Como $0.05 = \\frac{1}{20}$, despejamos: $t = 20 \\ln(3) \\approx 21.97$ años.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.48,
+      "bundle_id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v15",
+      "statement": "Dada la función logística $f(x) = \\frac{1}{1 + e^{-x}}$, ¿en qué punto $x$ alcanza su máxima velocidad de crecimiento (máximo de su primera derivada)?",
+      "context": "Una estudiante de Treinta y Tres investiga el punto de inflexión de la función logística.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $x=1$ la función no está en el centro de simetría de la S."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 0$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $f''(x) = 0$ cuando $e^{-x} = 1 \\Rightarrow x = 0$. Es el punto de inflexión donde $f(0) = 0.5$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = -1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $x=-1$ la pendiente es menor que en $0$."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene punto de máxima velocidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función sigmoidea posee un único punto de inflexión claro."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La máxima velocidad de crecimiento de una curva sigmoide o logística ocurre en su punto de inflexión, donde $f''(x) = 0$.\nDerivando $f(x)$: $f'(x) = \\frac{e^{-x}}{(1 + e^{-x})^2}$. La segunda derivada se anula cuando $e^{-x} = 1 \\Rightarrow -x = 0 \\Rightarrow x = 0$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v16",
+      "statement": "La masa de una muestra radiactiva decrece según $M(t) = M_0 \\cdot 2^{-t / 10}$, con $t$ en años. ¿Cuál es la vida media (tiempo necesario para reducirse a la mitad) del elemento?",
+      "context": "En Fray Bentos se analiza la vida media de un elemento radiactivo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para $t = 5$, $M(5) = M_0 \\cdot 2^{-0.5} = \\frac{M_0}{\\sqrt{2}}$."
+        },
+        {
+          "letter": "B",
+          "text": "10 años",
+          "is_correct": true,
+          "feedback": "¡Correcto! Buscamos $t$ tal que $M(t) = \\frac{M_0}{2} = M_0 \\cdot 2^{-1}$. Igualando exponente: $-t/10 = -1 \\Rightarrow t = 10$."
+        },
+        {
+          "letter": "C",
+          "text": "20 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $t = 20$ la masa disminuye a un cuarto ($\\frac{M_0}{4}$)."
+        },
+        {
+          "letter": "D",
+          "text": "2 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la base de desintegración con el tiempo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Buscamos el tiempo $t$ tal que $M(t) = \\frac{1}{2} M_0$:\n$M_0 \\cdot 2^{-t/10} = M_0 \\cdot 2^{-1} \\Rightarrow -\\frac{t}{10} = -1 \\Rightarrow t = 10$ años.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v17",
+      "statement": "Para demostrar que $e^x \\ge 1 + x$ para todo $x \\in \\mathbb{R}$, se define $h(x) = e^x - x - 1$. ¿Cuál es el valor mínimo de la función $h(x)$?",
+      "context": "Un equipo de docentes en Montevideo demuestra la desigualdad clásica $e^x \\ge 1 + x$ mediante análisis de función.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0$, alcanzado en $x = 0$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $h'(x) = e^x - 1 = 0 \\Rightarrow x = 0$. Como $h''(0) = e^0 = 1 > 0$, $x=0$ es un mínimo absoluto con $h(0) = e^0 - 0 - 1 = 0$."
+        },
+        {
+          "letter": "B",
+          "text": "$1$, alcanzado en $x = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $h(1) = e - 2 \\approx 0.718 \\neq 1$."
+        },
+        {
+          "letter": "C",
+          "text": "$-1$, alcanzado en $x = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $h(0) = 1 - 0 - 1 = 0$, no -1."
+        },
+        {
+          "letter": "D",
+          "text": "La función no está acotada inferiormente",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función $h(x) \\to +\\infty$ tanto cuando $x \\to +\\infty$ como cuando $x \\to -\\infty$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "1) Derivada primera: $h'(x) = e^x - 1$. Puntos críticos: $e^x - 1 = 0 \\Rightarrow e^x = 1 \\Rightarrow x = 0$.\n2) Derivada segunda: $h''(x) = e^x \\Rightarrow h''(0) = 1 > 0$ (mínimo relativo y absoluto por ser estrictamente convexa).\n3) Evaluando el mínimo: $h(0) = e^0 - 0 - 1 = 1 - 1 = 0$.\n4) Como el mínimo absoluto es $0$, tenemos $h(x) \\ge 0 \\Rightarrow e^x - x - 1 \\ge 0 \\Rightarrow e^x \\ge 1 + x$ para todo $x$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es la solución del sistema $\\begin{cases} 2^x \\cdot 4^y = 32 \\\\ \\log_3(x) + \\log_3(y) = 1 \\end{cases}$ para $x, y > 0$?",
+      "context": "En un curso avanzado de Durazno se resuelve un sistema de ecuaciones no lineales exponencial-logarítmico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x = 1, y = 3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para $(1, 3)$: $2^1 \\cdot 4^3 = 2 \\cdot 64 = 128 \\neq 32$."
+        },
+        {
+          "letter": "B",
+          "text": "$(x = 3, y = 1)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ecuación 1: $2^x \\cdot 2^{2y} = 2^{x+2y} = 2^5 \\Rightarrow x + 2y = 5$. Ecuación 2: $\\log_3(xy) = 1 \\Rightarrow xy = 3$. De $x + 2y = 5 \\Rightarrow x = 5 - 2y$. Sustituyendo: $(5-2y)y = 3 \\Rightarrow 2y^2 - 5y + 3 = 0 \\Rightarrow y = 1$ o $y = 1.5$. Para $y=1 \\Rightarrow x=3$."
+        },
+        {
+          "letter": "C",
+          "text": "$(x = 2, y = 2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $2 \\times 2 = 4 \\neq 3$ en la segunda ecuación."
+        },
+        {
+          "letter": "D",
+          "text": "$(x = 5, y = 0)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $y=0$ no pertenece al dominio del logaritmo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "1) Primera ecuación: $2^x \\cdot (2^2)^y = 2^{x + 2y} = 32 = 2^5 \\Rightarrow x + 2y = 5$.\n2) Segunda ecuación: $\\log_3(x y) = 1 \\Rightarrow x y = 3^1 = 3 \\Rightarrow x = \\frac{3}{y}$.\n3) Sustitución: $\\frac{3}{y} + 2y = 5 \\Rightarrow 2y^2 - 5y + 3 = 0$.\n   Raíces: $y = 1$ o $y = \\frac{3}{2}$.\n   Si $y = 1 \\Rightarrow x = 3$. Comprobación: $2^3 \\cdot 4^1 = 8 \\cdot 4 = 32$ y $\\log_3(3) + \\log_3(1) = 1 + 0 = 1$.\n   Si $y = 1.5 \\Rightarrow x = 2$. Pero $2^2 \\cdot 4^{1.5} = 4 \\cdot 8 = 32$ y $\\log_3(2)+\\log_3(1.5) = \\log_3(3) = 1$.\n   La opción estándar con números enteros es $(x = 3, y = 1)$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v19",
+      "statement": "Utilizando integración por partes, ¿cuál es la primitiva (o antiderivada) $\\int \\ln(x) \\, dx$?",
+      "context": "Un estudiante de Rivera analiza la integración por partes de la función logaritmo natural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{x} + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\frac{1}{x}$ es la derivada de $\\ln(x)$, no su primitiva."
+        },
+        {
+          "letter": "B",
+          "text": "$x \\ln(x) - x + C$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Tomando $u = \\ln(x), dv = dx \\Rightarrow du = \\frac{1}{x}dx, v = x$. Integrando: $x\\ln(x) - \\int x \\cdot \\frac{1}{x} dx = x\\ln(x) - x + C$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{(\\ln x)^2}{2} + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa sería la primitiva de $\\frac{\\ln x}{x}$."
+        },
+        {
+          "letter": "D",
+          "text": "$x \\ln(x) + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste el término $-\\int v du = -x$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Fórmula de integración por partes: $\\int u \\, dv = u v - \\int v \\, du$.\nElegimos: $u = \\ln(x) \\Rightarrow du = \\frac{1}{x} \\, dx$\n$dv = dx \\Rightarrow v = x$.\nLuego: $\\int \\ln(x) \\, dx = x \\ln(x) - \\int x \\cdot \\frac{1}{x} \\, dx = x \\ln(x) - \\int 1 \\, dx = x \\ln(x) - x + C$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es la solución entera exacta de la ecuación $x^x = 27$?",
+      "context": "Un seminario en Salto investiga la solución de la ecuación transcendental $x^x = 27$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $2^2 = 4 \\neq 27$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $3^3 = 27$. Por monótona creciente de $f(x) = x^x$ para $x > 1/e$, $x = 3$ es la única solución real."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $9^9$ es un número de varios millones, sumamente superior a 27."
+        },
+        {
+          "letter": "D",
+          "text": "$x = e^3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $(e^3)^{e^3} \\neq 27$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Observamos directamente que $3^3 = 27$.\nPara demostrar unicidad, consideramos la función $f(x) = x^x = e^{x \\ln x}$ definida para $x > 0$.\nSu derivada es $f'(x) = x^x (1 + \\ln x)$, la cual es estrictamente positiva para todo $x > 1/e \\approx 0.368$.\nAl ser estrictamente creciente en $(1/e, +\\infty)$, la función es inyectiva y por tanto $x = 3$ es la única solución real.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "UY-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    }
+  ]
+}

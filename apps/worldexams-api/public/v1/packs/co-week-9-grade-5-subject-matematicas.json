@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-9-grade-5-subject-matematicas",
+    "generated_at": "2026-09-12T16:46:07.565Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-5-2026-W09-proporcionalidad-directa-001-MASTERY-bundle-v1",
+      "statement": "¿Qué significa que dos magnitudes sean directamente proporcionales?",
+      "context": "En clase de matemáticas en una panadería de barrio en Buga, la profesora explica cómo se relacionan los ingredientes según la cantidad de panes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que al aumentar una, la otra aumenta en la misma proporción, manteniendo una razón constante.",
+          "is_correct": true,
+          "feedback": "La proporcionalidad directa mantiene una razón fija entre las dos magnitudes."
+        },
+        {
+          "letter": "B",
+          "text": "Que al aumentar una, la otra disminuye en la misma cantidad.",
+          "is_correct": false,
+          "feedback": "Cuando una disminuye al aumentar la otra, es proporcionalidad inversa."
+        },
+        {
+          "letter": "C",
+          "text": "Que no existe ninguna relación entre las dos magnitudes.",
+          "is_correct": false,
+          "feedback": "La proporcionalidad directa implica una relación constante entre ambas."
+        },
+        {
+          "letter": "D",
+          "text": "Que cambian sin seguir ningún patrón.",
+          "is_correct": false,
+          "feedback": "Existe un patrón claro: la razón se mantiene constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender el concepto de proporcionalidad directa entre dos magnitudes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.89,
+      "bundle_id": "CO-MAT-5-2026-W09-proporcionalidad-directa-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W09-proporcionalidad-directa-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué el precio del arroz es directamente proporcional a la cantidad comprada?",
+      "context": "Lee: \"Si 1 kilogramo de arroz cuesta 5.000 pesos colombianos (COP), entonces 2 kilogramos cuestan 10.000 COP y 3 kilogramos cuestan 15.000 COP.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque al duplicar la cantidad, el precio también se duplica manteniendo la misma razón.",
+          "is_correct": true,
+          "feedback": "La razón 5.000 COP por kilogramo se mantiene constante al cambiar la cantidad."
+        },
+        {
+          "letter": "B",
+          "text": "Porque al duplicar la cantidad, el precio se reduce a la mitad.",
+          "is_correct": false,
+          "feedback": "Si el precio bajara al duplicar la cantidad, sería proporcionalidad inversa."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la cantidad y el precio no se relacionan.",
+          "is_correct": false,
+          "feedback": "El texto muestra claramente una relación constante entre cantidad y precio."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el precio cambia de forma aleatoria.",
+          "is_correct": false,
+          "feedback": "El precio cambia de forma regular y predecible, no aleatoria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Explicar la proporcionalidad directa a partir de un ejemplo cotidiano con precios en COP.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-MAT-5-2026-W09-proporcionalidad-directa-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W09-proporcionalidad-directa-001-MASTERY-bundle-v3",
+      "statement": "¿Cuánto costarán 4 cuadernos al mismo precio?",
+      "context": "Un estudiante observa la tabla: 1 cuaderno cuesta 3.500 COP, 2 cuestan 7.000 COP, 3 cuestan 10.500 COP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "14.000 COP.",
+          "is_correct": true,
+          "feedback": "4 × 3.500 COP = 14.000 COP, manteniendo la razón de 3.500 COP por cuaderno."
+        },
+        {
+          "letter": "B",
+          "text": "10.500 COP.",
+          "is_correct": false,
+          "feedback": "10.500 COP es el precio de 3 cuadernos, no de 4."
+        },
+        {
+          "letter": "C",
+          "text": "17.500 COP.",
+          "is_correct": false,
+          "feedback": "17.500 COP sería el precio de 5 cuadernos."
+        },
+        {
+          "letter": "D",
+          "text": "3.500 COP.",
+          "is_correct": false,
+          "feedback": "3.500 COP es el precio de un solo cuaderno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la razón constante para hallar el costo total al variar la cantidad de cuadernos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-5-2026-W09-proporcionalidad-directa-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W09-proporcionalidad-directa-001-MASTERY-bundle-v4",
+      "statement": "Si un viajero recorre 8 kilómetros en el mismo taxi, ¿cuánto pagará?",
+      "context": "Lee: \"Un taxi cobra 2.000 COP de banderazo y 1.000 COP por cada kilómetro recorrido. Para 5 km, el valor es 7.000 COP.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10.000 COP.",
+          "is_correct": true,
+          "feedback": "2.000 COP de banderazo + 8 × 1.000 COP = 10.000 COP."
+        },
+        {
+          "letter": "B",
+          "text": "8.000 COP.",
+          "is_correct": false,
+          "feedback": "8.000 COP no incluye el banderazo de 2.000 COP."
+        },
+        {
+          "letter": "C",
+          "text": "7.000 COP.",
+          "is_correct": false,
+          "feedback": "7.000 COP es el valor para 5 km, no para 8 km."
+        },
+        {
+          "letter": "D",
+          "text": "16.000 COP.",
+          "is_correct": false,
+          "feedback": "16.000 COP sería cobrar solo 2.000 COP por kilómetro, lo que no corresponde."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la proporcionalidad directa y una tarifa fija para calcular el costo total de un trayecto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.71,
+      "bundle_id": "CO-MAT-5-2026-W09-proporcionalidad-directa-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W09-proporcionalidad-directa-001-MASTERY-bundle-v5",
+      "statement": "¿Cuántas hojas se imprimirán en 6 minutos manteniendo la misma velocidad?",
+      "context": "En una imprenta, se imprimen 50 hojas en 2 minutos con la misma velocidad constante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "150 hojas.",
+          "is_correct": true,
+          "feedback": "50 hojas cada 2 minutos equivale a 25 hojas por minuto; en 6 minutos son 25 × 6 = 150 hojas."
+        },
+        {
+          "letter": "B",
+          "text": "100 hojas.",
+          "is_correct": false,
+          "feedback": "100 hojas corresponderían a 4 minutos, no a 6."
+        },
+        {
+          "letter": "C",
+          "text": "200 hojas.",
+          "is_correct": false,
+          "feedback": "200 hojas corresponderían a 8 minutos, no a 6."
+        },
+        {
+          "letter": "D",
+          "text": "300 hojas.",
+          "is_correct": false,
+          "feedback": "300 hojas es más de lo que produce la máquina en 6 minutos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la proporcionalidad directa para extrapolar cantidades en problemas de producción.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-MAT-5-2026-W09-proporcionalidad-directa-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W09-proporcionalidad-directa-001-MASTERY-bundle-v6",
+      "statement": "¿Qué propiedad matemática muestra claramente la relación entre cajas y botellas?",
+      "context": "Compara: \"Si 2 cajas guardan 12 botellas, entonces 4 cajas guardan 24 botellas y 6 cajas guardan 36 botellas.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es proporcionalidad directa porque la razón botellas/cajas es constante (6 botellas por caja).",
+          "is_correct": true,
+          "feedback": "La razón se mantiene fija, lo que confirma la proporcionalidad directa."
+        },
+        {
+          "letter": "B",
+          "text": "Es proporcionalidad inversa porque al aumentar cajas disminuye algo.",
+          "is_correct": false,
+          "feedback": "Las botellas no disminuyen al aumentar las cajas; más bien aumentan."
+        },
+        {
+          "letter": "C",
+          "text": "No hay relación entre cajas y botellas.",
+          "is_correct": false,
+          "feedback": "La tabla muestra claramente una relación constante entre ambas magnitudes."
+        },
+        {
+          "letter": "D",
+          "text": "Las cajas y las botellas son siempre iguales.",
+          "is_correct": false,
+          "feedback": "No son iguales; hay 6 botellas por cada caja."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la constancia de la razón como característica de la proporcionalidad directa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-5-2026-W09-proporcionalidad-directa-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W09-proporcionalidad-directa-001-MASTERY-bundle-v7",
+      "statement": "Si la receta se prepara para 10 personas, ¿cuántos gramos de azúcar se necesitan?",
+      "context": "Lee: \"Una receta para 4 personas usa 200 gramos de azúcar. Para mantener el sabor, la cantidad de azúcar debe aumentar en la misma proporción que el número de personas.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "500 gramos.",
+          "is_correct": true,
+          "feedback": "200 g ÷ 4 personas = 50 g por persona; 50 × 10 = 500 g para 10 personas."
+        },
+        {
+          "letter": "B",
+          "text": "200 gramos.",
+          "is_correct": false,
+          "feedback": "200 g es la cantidad para 4 personas, insuficiente para 10."
+        },
+        {
+          "letter": "C",
+          "text": "800 gramos.",
+          "is_correct": false,
+          "feedback": "800 g sería para 16 personas si se mantuviera la misma proporción."
+        },
+        {
+          "letter": "D",
+          "text": "1.000 gramos.",
+          "is_correct": false,
+          "feedback": "1.000 g excede la cantidad proporcional necesaria para 10 personas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar y aplicar la proporcionalidad directa para ajustar cantidades de una receta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.52,
+      "bundle_id": "CO-MAT-5-2026-W09-proporcionalidad-directa-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W09-proporcionalidad-directa-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué es útil comprender la proporcionalidad directa en la vida cotidiana?",
+      "context": "Lee: 'La proporcionalidad directa permite resolver situaciones cotidianas como repartir comida, calcular distancias recorridas en un tiempo dado o ajustar ingredientes en una receta. Su uso facilita la toma de decisiones en la vida diaria.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque permite resolver problemas de cantidades, repartir, calcular costos y ajustar recetas con precisión.",
+          "is_correct": true,
+          "feedback": "La proporcionalidad directa facilita decisiones prácticas en muchas situaciones."
+        },
+        {
+          "letter": "B",
+          "text": "Porque solo se aplica en exámenes escolares sin uso real.",
+          "is_correct": false,
+          "feedback": "La proporcionalidad directa se usa constantemente en la vida cotidiana."
+        },
+        {
+          "letter": "C",
+          "text": "Porque su uso está prohibido fuera del salón de clases.",
+          "is_correct": false,
+          "feedback": "Al contrario, es una herramienta útil y accesible para todos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque solo los adultos necesitan conocerla.",
+          "is_correct": false,
+          "feedback": "Los estudiantes también se benefician al aprenderla para resolver problemas reales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la utilidad de la proporcionalidad directa en distintos contextos de la vida diaria.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.31,
+      "bundle_id": "CO-MAT-5-2026-W09-proporcionalidad-directa-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-8-grade-5-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T16:46:07.384Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-5-2026-W08-la-luz-sombras-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de los siguientes objetos es una fuente natural de luz?",
+      "context": "En clase de ciencias en Sogamoso, la profesora enciende una linterna en un salón oscuro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Sol.",
+          "is_correct": true,
+          "feedback": "El Sol es una estrella que emite luz propia de manera natural."
+        },
+        {
+          "letter": "B",
+          "text": "Una bombilla encendida.",
+          "is_correct": false,
+          "feedback": "La bombilla es una fuente artificial de luz producida por el ser humano."
+        },
+        {
+          "letter": "C",
+          "text": "Una linterna con pilas.",
+          "is_correct": false,
+          "feedback": "La linterna es una fuente artificial de luz."
+        },
+        {
+          "letter": "D",
+          "text": "Una vela encendida.",
+          "is_correct": false,
+          "feedback": "La vela es una fuente artificial de luz creada por el ser humano."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Diferenciar fuentes naturales y artificiales de luz a partir de ejemplos cotidianos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Indagación",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-5-2026-W08-la-luz-sombras-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W08-la-luz-sombras-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué detrás de un objeto opaco iluminado por el Sol se forma una sombra?",
+      "context": "Lee: \"Cuando la luz del Sol no puede atravesar un objeto opaco, detrás de él se forma una zona oscura llamada sombra.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la luz viaja en línea recta y no puede atravesar el objeto opaco.",
+          "is_correct": true,
+          "feedback": "La luz sigue una trayectoria rectilínea y al chocar con un cuerpo opaco se detiene, formando sombra."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el objeto absorbe el aire que está detrás.",
+          "is_correct": false,
+          "feedback": "Los objetos no absorben aire; simplemente bloquean el paso de la luz."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el Sol se apaga detrás de los objetos.",
+          "is_correct": false,
+          "feedback": "El Sol sigue iluminando; la sombra se debe al bloqueo de la luz, no a que se apague."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la sombra aparece sola sin importar la luz.",
+          "is_correct": false,
+          "feedback": "Sin luz no se forman sombras; la sombra depende de la presencia de una fuente luminosa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender la formación de sombras a partir de la propagación rectilínea de la luz.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-5-2026-W08-la-luz-sombras-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W08-la-luz-sombras-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué la sombra cambia de tamaño a lo largo del día?",
+      "context": "Un estudiante observa su sombra en el patio durante la tarde y nota que es más larga que en el mediodía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la posición del Sol en el cielo cambia y modifica el ángulo con que la luz llega al objeto.",
+          "is_correct": true,
+          "feedback": "El ángulo de incidencia de la luz solar varía durante el día, cambiando el tamaño de la sombra."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el Sol se aleja físicamente de la Tierra en pocas horas.",
+          "is_correct": false,
+          "feedback": "La distancia Sol-Tierra no cambia de manera perceptible en horas."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la sombra se infla con la humedad del aire.",
+          "is_correct": false,
+          "feedback": "La humedad no infla las sombras; el cambio se debe al ángulo de la luz solar."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el objeto crece durante el día.",
+          "is_correct": false,
+          "feedback": "Los objetos no crecen por estar expuestos al Sol; el cambio está en la sombra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la variación del ángulo de la luz solar para explicar los cambios de tamaño de las sombras.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CN-5-2026-W08-la-luz-sombras-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W08-la-luz-sombras-001-MASTERY-bundle-v4",
+      "statement": "Si el objeto se aleja más de la lámpara, ¿qué pasa con el tamaño de la sombra en la pared?",
+      "context": "En el salón, una niña coloca un objeto cerca de una lámpara encendida y observa una sombra en la pared.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La sombra se hace más grande porque los rayos se separan al alejarse.",
+          "is_correct": true,
+          "feedback": "Al alejarse, los rayos divergen y producen una sombra más grande."
+        },
+        {
+          "letter": "B",
+          "text": "La sombra se hace más pequeña porque se concentra en un punto.",
+          "is_correct": false,
+          "feedback": "Al alejar el objeto, la sombra aumenta, no disminuye."
+        },
+        {
+          "letter": "C",
+          "text": "La sombra desaparece sin importar la distancia.",
+          "is_correct": false,
+          "feedback": "La sombra se mantiene mientras haya luz y un objeto opaco en su camino."
+        },
+        {
+          "letter": "D",
+          "text": "La sombra mantiene siempre el mismo tamaño exacto.",
+          "is_correct": false,
+          "feedback": "El tamaño de la sombra varía con la distancia a la fuente de luz."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la relación entre distancia a la fuente de luz y tamaño de la sombra proyectada.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-5-2026-W08-la-luz-sombras-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W08-la-luz-sombras-001-MASTERY-bundle-v5",
+      "statement": "¿Cómo se llama el fenómeno que ocurre cuando la luz \"rebota\" en una superficie lisa como el espejo?",
+      "context": "En un experimento, un estudiante mira un espejo plano y ve su propio reflejo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reflexión de la luz.",
+          "is_correct": true,
+          "feedback": "El rebote ordenado de la luz en una superficie lisa se llama reflexión."
+        },
+        {
+          "letter": "B",
+          "text": "Refracción de la luz.",
+          "is_correct": false,
+          "feedback": "La refracción ocurre cuando la luz pasa de un medio a otro, no cuando rebota."
+        },
+        {
+          "letter": "C",
+          "text": "Absorción total de la luz.",
+          "is_correct": false,
+          "feedback": "La absorción atrapa la luz; el espejo la devuelve, por eso no es absorción."
+        },
+        {
+          "letter": "D",
+          "text": "Sombra proyectada.",
+          "is_correct": false,
+          "feedback": "La sombra aparece cuando la luz es bloqueada, no cuando rebota."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificar el fenómeno de reflexión de la luz en superficies lisas como los espejos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CN-5-2026-W08-la-luz-sombras-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W08-la-luz-sombras-001-MASTERY-bundle-v6",
+      "statement": "¿Qué diferencia hay entre un objeto translúcido y uno opaco frente a la luz?",
+      "context": "Compara: \"Un objeto translúcido, como un papel vegetal, deja pasar parte de la luz y produce una sombra tenue. Un objeto opaco, como un libro, no deja pasar la luz y produce una sombra oscura.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El translúcido deja pasar algo de luz; el opaco no la deja pasar.",
+          "is_correct": true,
+          "feedback": "Los translúcidos permiten el paso parcial de luz, mientras los opacos lo bloquean totalmente."
+        },
+        {
+          "letter": "B",
+          "text": "El translúcido produce sombras oscuras y el opaco no produce sombras.",
+          "is_correct": false,
+          "feedback": "Es al revés: el opaco produce sombras oscuras, el translúcido produce sombras tenues."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos producen exactamente la misma sombra.",
+          "is_correct": false,
+          "feedback": "La sombra varía según el material: tenue en translúcidos y oscura en opacos."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno de los dos interactúa con la luz.",
+          "is_correct": false,
+          "feedback": "Ambos interactúan con la luz, solo que de manera diferente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar el comportamiento de la luz al atravesar materiales translúcidos y opacos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CN-5-2026-W08-la-luz-sombras-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W08-la-luz-sombras-001-MASTERY-bundle-v7",
+      "statement": "¿Qué demuestra el eclipse solar sobre el comportamiento de la luz?",
+      "context": "Lee: \"Durante un eclipse solar, la Luna se interpone entre el Sol y la Tierra y proyecta su sombra sobre una zona del planeta.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la luz viaja en línea recta y es bloqueada por cuerpos opacos como la Luna.",
+          "is_correct": true,
+          "feedback": "El eclipse confirma la propagación rectilínea y el bloqueo por cuerpos opacos."
+        },
+        {
+          "letter": "B",
+          "text": "Que la luz se apaga cuando hay Luna llena.",
+          "is_correct": false,
+          "feedback": "La luz del Sol no se apaga por la Luna llena; el eclipse ocurre en Luna nueva."
+        },
+        {
+          "letter": "C",
+          "text": "Que la Luna produce su propia luz durante el eclipse.",
+          "is_correct": false,
+          "feedback": "La Luna no emite luz propia; refleja la luz del Sol."
+        },
+        {
+          "letter": "D",
+          "text": "Que el Sol cambia de color y se vuelve transparente.",
+          "is_correct": false,
+          "feedback": "El Sol no se vuelve transparente; sigue siendo opaco y luminoso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Relacionar los eclipses con la propagación rectilínea de la luz y la formación de sombras.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.52,
+      "bundle_id": "CO-CN-5-2026-W08-la-luz-sombras-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W08-la-luz-sombras-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué es importante protegerse de la luz solar excesiva y cómo hacerlo correctamente?",
+      "context": "Lee: 'La luz del Sol permite la vida en la Tierra, pero la exposición excesiva a sus rayos ultravioleta puede dañar la piel y los ojos. Usar protector solar, gafas con filtro UV y ropa adecuada ayuda a protegerse.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los rayos ultravioleta pueden dañar piel y ojos; se protege con bloqueador, gafas con filtro UV y ropa adecuada.",
+          "is_correct": true,
+          "feedback": "La protección adecuada reduce el daño por radiación UV sin dejar de aprovechar los beneficios de la luz solar."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la luz del Sol es tóxica y debe evitarse por completo a cualquier hora.",
+          "is_correct": false,
+          "feedback": "La luz solar es esencial para la vida; el problema es el exceso, no la luz en sí."
+        },
+        {
+          "letter": "C",
+          "text": "Porque solo las gafas oscuras ofrecen protección frente a los rayos UV.",
+          "is_correct": false,
+          "feedback": "Las gafas oscuras sin filtro UV no protegen; debe haber filtro UV certificado."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la ropa de color negro deja pasar más rayos UV que la ropa blanca.",
+          "is_correct": false,
+          "feedback": "La ropa oscura puede bloquear mejor la luz visible, pero lo clave es el material y el factor UV, no solo el color."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la importancia de la protección solar y reconocer las medidas adecuadas para cuidar la salud.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.3,
+      "bundle_id": "CO-CN-5-2026-W08-la-luz-sombras-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "sociales",
+    "country": "bo",
+    "pack_id": "bo-week-11-grade-11-subject-sociales",
+    "generated_at": "2026-09-12T16:46:07.258Z"
+  },
+  "questions": [
+    {
+      "id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v1",
+      "statement": "¿Qué hecho histórico acontecido el 9 de abril de 1952 marcó la insurrección popular liderada por el MNR y la COB que transformó las estructuras políticas de Bolivia?",
+      "context": "En La Paz, el estudiante Grover del Colegio Nacional Ayacucho investiga las causas sociales de la Revolución del 9 de abril de 1952.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Revolución Federal de 1899",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fue la contienda civil entre paceños y chuquisaqueños que trasladó la sede de gobierno a La Paz."
+        },
+        {
+          "letter": "B",
+          "text": "La Guerra del Acre de 1902",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fue el conflicto territorial fronterizo contra Brasil por el control del caucho."
+        },
+        {
+          "letter": "C",
+          "text": "La Guerra del Chaco de 1932",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fue una contienda bélica internacional contra Paraguay entre 1932 y 1935."
+        },
+        {
+          "letter": "D",
+          "text": "La Revolución Nacional de 1952",
+          "is_correct": true,
+          "feedback": "Correcto. Destruyó el orden oligárquico e instauró el voto universal, la reforma agraria y la nacionalización de minas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La Revolución de 1952 constituyó la transformación institucional más importante del siglo XX en Bolivia.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v2",
+      "statement": "¿Qué medida democratizadora de la Revolución de 1952 eliminó el sufragio censatario permitiendo votar a mujeres y campesinos analfabetos?",
+      "context": "En Cochabamba, la estudiante Roxana de la Unidad Educativa Don Bosco analiza el impacto del voto universal en la participación política femenina e indígena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Voto Universal e irrestricto",
+          "is_correct": true,
+          "feedback": "Correcto. Amplió el electorado de 130.000 ciudadanos letrados a más de un millón de bolivianos."
+        },
+        {
+          "letter": "B",
+          "text": "El voto exclusivo para propietarios de haciendas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Era la forma de privilegio señorial abolida en 1952."
+        },
+        {
+          "letter": "C",
+          "text": "La democracia indirecta por designación del Senado",
+          "is_correct": false,
+          "feedback": "Incorrecto. No constituye un mecanismo de sufragio popular universal."
+        },
+        {
+          "letter": "D",
+          "text": "El Voto Censatario restringido a letrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Era el sistema oligárquico excluyente previo a 1952."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Decreto de Voto Universal de 1952 democratizó la participación política incorporando a las mayorías indígenas y campesinas.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v3",
+      "statement": "¿Qué entidad pública estatal fue creada tras el Decreto de Nacionalización de las Minas en octubre de 1952 en Catavi?",
+      "context": "En Santa Cruz, el estudiante Jhonny del Colegio Bolívar estudia el decreto de nacionalización firmado en el campo de María Barzola.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Corporación Minera de Bolivia (COMIBOL)",
+          "is_correct": true,
+          "feedback": "Correcto. Revertió al Estado las minas de estaño de Patiño, Hochschild y Aramayo."
+        },
+        {
+          "letter": "B",
+          "text": "Yacimientos Petrolíferos Fiscales Bolivianos (YPFB)",
+          "is_correct": false,
+          "feedback": "Incorrecto. YPFB fue creada en 1936 para la industria de hidrocarburos."
+        },
+        {
+          "letter": "C",
+          "text": "Empresa Nacional de Telecomunicaciones (ENTEL)",
+          "is_correct": false,
+          "feedback": "Incorrecto. ENTEL fue creada en 1965 para servicios de telecomunicación."
+        },
+        {
+          "letter": "D",
+          "text": "Corporación Boliviana de Fomento (CBF)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La CBF se fundó en 1942 para impulsar proyectos agroindustriales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La COMIBOL nació como la empresa estatal emblemática que concentró el control soberano del estaño recuperado de los Barones del Estaño.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v4",
+      "statement": "El Decreto de Reforma Agraria firmado en Ucureña en agosto de 1953 se caracterizó fundamentalmente por:",
+      "context": "En El Alto, la estudiante Marisol del Colegio San Simón analiza el impacto socioeconómico de la firma del decreto de Ucureña en 1953.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Privatizar los bosques amazónicos en favor de corporaciones europeas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reforma agraria buscaba democratizar la tenencia de tierras para los campesinos."
+        },
+        {
+          "letter": "B",
+          "text": "Prohibir el cultivo de quinua y papa en las comunidades originarias",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reforma protegió la producción de alimentos agrícolas nativos."
+        },
+        {
+          "letter": "C",
+          "text": "Abolir el pongueaje servil y redistribuir la tierra bajo el principio 'la tierra es de quien la trabaja'",
+          "is_correct": true,
+          "feedback": "Correcto. Eliminó el latifundio tradicional en los valles y altiplano otorgando títulos a campesinos."
+        },
+        {
+          "letter": "D",
+          "text": "Restaurar las haciendas coloniales españolas en favor de terratenientes extranjeros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurrió en la colonia, no en la revolución del 52."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Reforma Agraria de 1953 puso fin al régimen feudal del pongueaje otorgando derechos de propiedad a las comunidades campesinas.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v5",
+      "statement": "¿Qué organización sindical fundada en abril de 1952 bajo el liderazgo minero articuló históricamente a los trabajadores bolivianos?",
+      "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín examina el papel histórico de la COB en las jornadas populares de 1952.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Confederación de Pueblos Indígenas de Bolivia (CIDOB)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa a los pueblos indígenas de tierras bajas (fundada en 1982)."
+        },
+        {
+          "letter": "B",
+          "text": "Confederación de Juntas Vecinales (CONALJUVE)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Agrupa a las juntas vecinales urbanas."
+        },
+        {
+          "letter": "C",
+          "text": "Federación de Empresarios Privados de Bolivia (FEPB)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa al sector empresarial privado corporativo."
+        },
+        {
+          "letter": "D",
+          "text": "Central Obrera Boliviana (COB)",
+          "is_correct": true,
+          "feedback": "Correcto. Presidida por Juan Lechín Oquendo, agrupó a mineros, fabriles y campesinos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La COB se convirtió en la fuerza motriz del movimiento obrero proponiendo el cogobierno obrero-patronal tras la revolución.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v6",
+      "statement": "La 'Marcha por el Territorio y la Dignidad' efectuada en 1990 desde Trinidad hasta La Paz fue impulsada por:",
+      "context": "En Potosí, el estudiante Ronald de la Unidad Educativa Juan Pablo II estudia la movilización indígena amazónica de 1990 que recorrió 600 km hasta La Paz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los sindicatos de cocaleros del trópico exclusivamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fue liderada por etnias sirionó, moxeña, chimán y guaraní de tierras bajas."
+        },
+        {
+          "letter": "B",
+          "text": "Los empresarios mineros de Potosí y Oruro",
+          "is_correct": false,
+          "feedback": "Incorrecto. La marcha fue de pueblos indígenas amazónicos demandando territorio."
+        },
+        {
+          "letter": "C",
+          "text": "Los pueblos indígenas originarios de tierras bajas (Amazonía, Oriente y Chaco)",
+          "is_correct": true,
+          "feedback": "Correcto. Logró el reconocimiento estatal de los Territorios Indígenas (TIO)."
+        },
+        {
+          "letter": "D",
+          "text": "Las juntas vecinales de la hoyada paceña",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las juntas vecinales paceñas no organizaron la marcha amazónica de 1990."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La marcha de 1990 visibilizó ante el país a las naciones indígenas de tierras bajas demandando la titulación de sus tierras ancestrales.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v7",
+      "statement": "La llamada 'Guerra del Agua' acontecida en Cochabamba en el año 2000 fue un movimiento social victorioso que logró:",
+      "context": "En Oruro, el estudiante Limbert del Colegio San Calixto analiza el papel de la Coordinadora de Defensa del Agua y de la Vida en Cochabamba.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Trasladar la capital de Bolivia a la ciudad de Trinidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conflicto del agua no se relacionó con traslados de la capital de la república."
+        },
+        {
+          "letter": "B",
+          "text": "Privatizar los ríos amazónicos en favor de empresas extranjeras",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conflicto impidió la privatización mercantil de las fuentes de agua."
+        },
+        {
+          "letter": "C",
+          "text": "Expulsar a la transnacional Bechtel y anular la privatización del servicio de agua potable",
+          "is_correct": true,
+          "feedback": "Correcto. Defendió los 'usos y costumbres' y el agua como bien común indisponible para lucro privado."
+        },
+        {
+          "letter": "D",
+          "text": "Incrementar las tarifas de alcantarillado en un 300%",
+          "is_correct": false,
+          "feedback": "Incorrecto. El detonante fue el alza abusiva de tarifas por Bechtel, que fue revertida."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Coordinadora del Agua articuló a regantes y ciudadanos derrotando la privatización privatizadora de la transnacional Bechtel.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v8",
+      "statement": "La 'Guerra del Gas' (Octubre Negro de 2003) en El Alto y La Paz exigía centralmente:",
+      "context": "En Tarija, la estudiante Shirley del Colegio Nacional Pichincha investiga los acontecimientos de la Agenda de Octubre de 2003 en El Alto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La no exportación de gas por Chile y la nacionalización de los recursos hidrocarburíferos",
+          "is_correct": true,
+          "feedback": "Correcto. Provocó la renuncia de Sánchez de Lozada y dio origen a la Agenda de Octubre."
+        },
+        {
+          "letter": "B",
+          "text": "La compra de petróleo refinado exclusivamente a países europeos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Demandaba la industrialización soberana del gas boliviano."
+        },
+        {
+          "letter": "C",
+          "text": "La entrega gratuita de los pozos de gas a corporaciones de EE.UU.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La protesta rechazaba la venta barata del gas sin valor agregado nacional."
+        },
+        {
+          "letter": "D",
+          "text": "La abolición del voto universal para campesinos e indígenas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las movilizaciones eran de carácter popular y plurinacional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La insurrección de El Alto en 2003 consagró la soberanía sobre el gas natural e impulsó la refundación del Estado.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v9",
+      "statement": "¿Qué alianza de organizaciones matrices indígenas y campesinas (CSUTCB, Bartolinas, CIDOB, CONAMAQ) redactó la propuesta del Estado Plurinacional?",
+      "context": "En Trinidad, el estudiante Boris del Colegio Antonio Vaca Díez examina el texto constitucional elaborado por las organizaciones del Pacto de Unidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Central Obrera Boliviana (COB)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La COB es la matriz sindical trabajadora, distinta del Pacto de Unidad indígena."
+        },
+        {
+          "letter": "B",
+          "text": "El Pacto de Unidad",
+          "is_correct": true,
+          "feedback": "Correcto. Presentó un proyecto consensuado a la Asamblea Constituyente de Sucre en 2006."
+        },
+        {
+          "letter": "C",
+          "text": "El Consenso de Washington",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fue el decálogo de políticas neoliberales privatizadoras de los años 90."
+        },
+        {
+          "letter": "D",
+          "text": "La Alianza Democrática Nacionalista (ADN)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fue el partido político conservador fundado por Hugo Banzer."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Pacto de Unidad fue el actor articulador decisivo que convirtió las demandas históricas indígenas en el texto de la CPE de 2009.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v10",
+      "statement": "La Confederación Sindical Única de Trabajadores Campesinos de Bolivia (CSUTCB) fue fundada en 1979 inspirándose en el pensamiento de:",
+      "context": "En Cobija, el estudiante Franz del Colegio Nacional Florida analiza el surgimiento de la CSUTCB en el congreso campesino de 1979.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los teóricos del neoliberalismo privatizador",
+          "is_correct": false,
+          "feedback": "Incorrecto. La CSUTCB se ha opuesto a las políticas privatizadoras."
+        },
+        {
+          "letter": "B",
+          "text": "Simón Patiño y los Barones del Estaño",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los barones del estaño eran la oligarquía minera explotadora."
+        },
+        {
+          "letter": "C",
+          "text": "Tupaj Katari y la lucha anticolonial aymara",
+          "is_correct": true,
+          "feedback": "Correcto. Asumió la bandera del katarismo y la autonomía sindical campesina."
+        },
+        {
+          "letter": "D",
+          "text": "Los virreyes coloniales de Lima y Buenos Aires",
+          "is_correct": false,
+          "feedback": "Incorrecto. La CSUTCB luchaba contra el legado servil e imperialista colonial."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La CSUTCB rompió con el pacto militar-campesino reivindicando a Tupaj Katari y la memoria histórica de resistencia indígena.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v11",
+      "statement": "La Confederación Nacional de Mujeres Campesinas Indígenas Originarias de Bolivia 'Bartolina Sisa' lleva su nombre en homenaje a:",
+      "context": "En Tupiza, la estudiante Nancy del Colegio Nacional Ayacucho estudia la trayectoria sindical de la Confederación 'Bartolina Sisa'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una poetisa romántica del siglo XIX nacida en Sucre",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bartolina Sisa fue la comandanta originaria del cerco a La Paz."
+        },
+        {
+          "letter": "B",
+          "text": "La heroína aymara Bartolina Sisa, combatiente anticolonial de 1781",
+          "is_correct": true,
+          "feedback": "Correcto. Esposa de Tupaj Katari que lideró el cerco a La Paz contra la corona española."
+        },
+        {
+          "letter": "C",
+          "text": "Una célebre empresaria minera de la época de la independencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bartolina Sisa fue una líder indígena revolucionaria, no una empresaria."
+        },
+        {
+          "letter": "D",
+          "text": "La primera mujer electa senadora en la Constitución de 1826",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bartolina Sisa luchó en la rebelión indígena de 1781."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Fundada en 1980, la organización 'Bartolina Sisa' reivindica la equidad de género y la visibilidad de la mujer campesina en la lucha social.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v12",
+      "statement": "El Consejo Nacional de Ayllus y Markas del Qullasuyu (CONAMAQ) se caracteriza organizativamente por:",
+      "context": "En Uyuni, el estudiante Edwin de la Unidad Educativa Don Bosco analiza el modelo de organización territorial del ayllu promovido por el CONAMAQ.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representar exclusivamente a los industriales mineros de Potosí",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la organización originaria del mundo andino campesino."
+        },
+        {
+          "letter": "B",
+          "text": "Organizar sindicatos de empleados bancarios en zonas urbanas",
+          "is_correct": false,
+          "feedback": "Incorrecto. CONAMAQ representa a los ayllus y markas originarios territoriales."
+        },
+        {
+          "letter": "C",
+          "text": "Reconstituir las autoridades originarias ancestrales (Mallkus y Mama T'allas) y la estructura de los ayllus andinos",
+          "is_correct": true,
+          "feedback": "Correcto. Promueve la autodeterminación y la justicia indígena en el altiplano y valles."
+        },
+        {
+          "letter": "D",
+          "text": "Promover la privatización de las tierras comunales del altiplano",
+          "is_correct": false,
+          "feedback": "Incorrecto. Defiende la propiedad colectiva e inalienable del ayllu."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El CONAMAQ promueve la refundación del Estado desde la cosmovisión y el autogobierno de los ayllus ancestrales.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v13",
+      "statement": "¿Qué impacto tuvo la promulgación del Decreto Supremo 21060 en agosto de 1985 durante el gobierno de Paz Estenssoro?",
+      "context": "En Viacha, el estudiante Marcelo del Colegio Bolívar evalúa los efectos sociales del Decreto 21060 en los campamentos mineros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Implantó el modelo neoliberal, frenó la hiperinflación y provocó la relocalización de más de 20.000 mineros estatales",
+          "is_correct": true,
+          "feedback": "Correcto. El DS 21060 redujo el tamaño del Estado y desmontó el poder minero de la COMIBOL."
+        },
+        {
+          "letter": "B",
+          "text": "Abolió los impuestos al comercio exterior y cerró la aduana",
+          "is_correct": false,
+          "feedback": "Incorrecto. El decreto liberalizó precios y aranceles pero no cerró la aduana."
+        },
+        {
+          "letter": "C",
+          "text": "Nacionalizó el gas natural y duplicó los salarios de los obreros",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 21060 fue un decreto de libre mercado que congeló salarios y cerró minas."
+        },
+        {
+          "letter": "D",
+          "text": "Entregó la propiedad de la tierra a la corona de España",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 21060 promovió el libre comercio y la liberalización económica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El DS 21060 inició la fase neoliberal en Bolivia mediante la relocalización obrera y la apertura al libre mercado.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v14",
+      "statement": "La 'Marcha por la Vida' realizada por los mineros bolivianos en agosto de 1986 desde Oruro hacia La Paz buscaba detener:",
+      "context": "En Quillacollo, el estudiante Freddy del Colegio San Simón investiga el cerco de Calamarca que detuvo la Marcha por la Vida en 1986.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La privatización de la Universidad de San Francisco Xavier",
+          "is_correct": false,
+          "feedback": "Incorrecto. Protestaban contra el despido masivo de mineros por el 21060."
+        },
+        {
+          "letter": "B",
+          "text": "El pago de impuestos a las exportaciones agrícolas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los mineros rechazaban la pérdida de trabajo y cierre de minas."
+        },
+        {
+          "letter": "C",
+          "text": "La construcción del ferrocarril Arica-La Paz",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ferrocarril de Arica data de 1913."
+        },
+        {
+          "letter": "D",
+          "text": "El cierre de minas estatales y el desmantelamiento de la COMIBOL impulsados por el DS 21060",
+          "is_correct": true,
+          "feedback": "Correcto. Fue la última gran movilización del proletariado minero frenada por el cerco militar en Calamarca."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La Marcha por la Vida simbolizó la resistencia minera frente al neoliberalismo, cerrando el ciclo de hegemonía del sindicalismo minero clásico.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v15",
+      "statement": "La experiencia de la 'Asamblea Popular' instalada en junio de 1971 en el Palacio Legislativo durante el gobierno del Gral. Juan José Torres fue:",
+      "context": "En Sacaba, el estudiante René del Colegio Nacional Junín analiza los debates ideológicos al interior de la Asamblea Popular de 1971.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una convención de empresas petroleras multinacionales",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Asamblea Popular proponía la nacionalización de industrias."
+        },
+        {
+          "letter": "B",
+          "text": "Un tribunal eclesiástico para juzgar a políticos liberales",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tenía vinculación con tribunales de la Iglesia."
+        },
+        {
+          "letter": "C",
+          "text": "Un congreso de terratenientes para restablecer el pongueaje",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Asamblea Popular era un organismo de la izquierda trabajadora."
+        },
+        {
+          "letter": "D",
+          "text": "Un órgano del poder popular obrero, campesino y universitario que buscaba avanzar hacia el socialismo",
+          "is_correct": true,
+          "feedback": "Correcto. Presidida por Juan Lechín Oquendo, fue interrumpida por el golpe militar de Hugo Banzer."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La Asamblea Popular de 1971 representó un intento de poder popular directo de los trabajadores derrocado por el golpe militar de Banzer.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v16",
+      "statement": "Durante el periodo de las dictaduras militares (1964-1982), regímenes de facto como los de Banzer y García Meza implementaron:",
+      "context": "En Montero, la estudiante Lidia de la Unidad Educativa Juan Pablo II estudia las violaciones a los Derechos Humanos cometidas durante la dictadura de Banzer.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La represión violenta, la suspensión de garantías constitucionales y la persecución de dirigentes en el marco del Plan Cóndor",
+          "is_correct": true,
+          "feedback": "Correcto. Violados los DDHH, miles de bolivianos sufrieron exilio, tortura o desaparición forzada."
+        },
+        {
+          "letter": "B",
+          "text": "El sufragio universal directo para la elección de alcaldes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dictaduras proscribieron partidos políticos y suspendieron elecciones."
+        },
+        {
+          "letter": "C",
+          "text": "La devolución soberana del Litoral marítimo por parte de Chile",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se recuperó el Litoral marítimo durante las dictaduras."
+        },
+        {
+          "letter": "D",
+          "text": "La creación de la primera universidad indígena comunitaria",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las universidades públicas sufrieron intervención y clausura por los militares."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las dictaduras militares aplicaron la Doctrina de Seguridad Nacional encarcelando a líderes democráticos como Marcelo Quiroga Santa Cruz.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v17",
+      "statement": "Al analizar la evolución de las demandas indígenas entre la Marcha de 1990 y la Asamblea Constituyente de 2006, ¿qué cambio de paradigma político se observa?",
+      "context": "En Riberalta, el estudiante Mateo del Colegio San Calixto compara la agenda de la marcha de 1990 con el texto final de la CPE de 2009.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se pasó de exigir reconocimiento territorial y cultural focalizado a demandar la refundación plurinacional del Estado y el autogobierno",
+          "is_correct": true,
+          "feedback": "Correcto. De la demanda de títulos de tierra se transitó a la disputa de la hegemonía política en la CPE."
+        },
+        {
+          "letter": "B",
+          "text": "Se abandonó la lucha política para retornar al aislamiento de las haciendas coloniales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las organizaciones fortalecieron su presencia política en todas las instancias estatales."
+        },
+        {
+          "letter": "C",
+          "text": "Se logró el reemplazo del castellano por el idioma portugués en todo el país",
+          "is_correct": false,
+          "feedback": "Incorrecto. El plurilingüismo oficializó 36 lenguas originarias junto al castellano."
+        },
+        {
+          "letter": "D",
+          "text": "Se privatizaron los recursos hidrocarburíferos en beneficio de municipios urbanos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Asamblea Constituyente impulsó la nacionalización y gestión pública de recursos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El movimiento indígena pasó de la resistencia local a la conducción constituyente del Estado Plurinacional.\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v18",
+      "statement": "¿Cómo influyó el protagonismo popular de El Alto en la Guerra del Gas de 2003 en la reconfiguración del mapa político boliviano del siglo XXI?",
+      "context": "En Warnes, la estudiante Camila del Colegio Nacional Pichincha evalúa la trascendencia sociopolítica del levantamiento alteño en octubre de 2003.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Provocó la división territorial de Bolivia en cuatro repúblicas independientes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las movilizaciones preservaron la integridad territorial del Estado de Bolivia."
+        },
+        {
+          "letter": "B",
+          "text": "Consolidó el modelo de privatizaciones del Consenso de Washington",
+          "is_correct": false,
+          "feedback": "Incorrecto. Derrotó el modelo privatizador exigiendo la nacionalización hidrocarburífera."
+        },
+        {
+          "letter": "C",
+          "text": "Restableció el poder político de los Barones del Estaño del siglo XIX",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sepultó las políticas de concesiones transnacionales neoliberales."
+        },
+        {
+          "letter": "D",
+          "text": "Demostró la capacidad de veto de los movimientos sociales urbanos y campesinos imponiendo la recuperación del gas y la Constituyente",
+          "is_correct": true,
+          "feedback": "Correcto. El Alto se consagró como el bastión de la resistencia popular que transformó el sistema de partidos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El Alto actuó como vanguardia del cambio social forzando la Agenda de Octubre que transformó el Estado boliviano.\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v19",
+      "statement": "Al juzgar el impacto socioeconómico a largo plazo de la Revolución Nacional de 1952 en la estructura de propiedad agraria, ¿cuál es la valoración más rigurosa?",
+      "context": "En Colcapirhua, el estudiante Gonzalo del Colegio Antonio Vaca Díez analiza las contradicciones entre minifundio andino y agroindustria oriental post-1952.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Provocó la pérdida irreversible de la biodiversidad de cultivos nativos como la quinua",
+          "is_correct": false,
+          "feedback": "Incorrecto. La producción de cultivos nativos tradicionales se mantuvo en las comunidades."
+        },
+        {
+          "letter": "B",
+          "text": "Convirtió a todos los campesinos andinos en arrendatarios de corporaciones extranjeras",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los campesinos accedieron a títulos de propiedad individual y comunal real."
+        },
+        {
+          "letter": "C",
+          "text": "Eliminó el latifundio servil en valles y altiplano, pero derivó en el 'minifundio' insular en los Andes y el surgimiento del latifundio agroindustrial en el Oriente",
+          "is_correct": true,
+          "feedback": "Correcto. La subdivisión de tierras andinas generó parcelas pequeñas (minifundio), mientras el Estado fomentó la agroindustria cruceña."
+        },
+        {
+          "letter": "D",
+          "text": "Logró la mecanización total e industrializada de todas las parcelas agrícolas del país en un lustro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las parcelas andinas sufrieron atomización minifundista sin tecnología intensiva."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Reforma del 52 democratizó la tierra originaria pero generó la paradoja del minifundio andino frente al desarrollo latifundista del oriente.\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v20",
+      "statement": "¿Qué contradicción político-ideológica caracterizó al proceso de relocalización minera posterior al Decreto 21060 en 1985?",
+      "context": "En Yacuiba, la estudiante Paola del Colegio Nacional Florida estudia la migración minera hacia el trópico de Cochabamba y su impacto en la creación de nuevos sindicatos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Convirtió a los obreros mineros en altos ejecutivos de empresas transnacionales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los mineros fueron despojados de su empleo y migraron como campesinos o comerciantes informales."
+        },
+        {
+          "letter": "B",
+          "text": "Buscaba desarticular al influyente movimiento obrero minero de la COB, pero dispersó a miles de trabajadores hacia el Chapare y El Alto creando nuevos focos de resistencia social",
+          "is_correct": true,
+          "feedback": "Correcto. Los mineros relocalizados organizaron a los sindicatos cocaleros y juntas vecinales que lideraron las luchas del siglo XXI."
+        },
+        {
+          "letter": "C",
+          "text": "Logró erradicar por completo la pobreza en los centros mineros de Potosí y Oruro",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relocalización sumió en la miseria y el desempleo a las familias mineras."
+        },
+        {
+          "letter": "D",
+          "text": "Provocó la desaparición definitiva de todo tipo de organización sindical en Bolivia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El movimiento sindical se reconfiguró en el sector cocalero y vecinal urbano."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La dispersión de los mineros relocalizados siembra la semilla organizativa en el trópico de Cochabamba y en El Alto, nutriendo las rebeliones populares de los años 2000.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "BO-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    }
+  ]
+}

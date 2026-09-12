@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-2-grade-5-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-12T16:46:07.601Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-5-2026-W02-derechos-ninos-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de los siguientes principios constitucionales regula la aplicación de las leyes cuando están en juego los derechos de la infancia?",
+      "context": "El Artículo 44 de la Constitución Política de Colombia establece los derechos fundamentales de los niños, niñas y adolescentes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los derechos de los niños prevalecen sobre los derechos de los demás.",
+          "is_correct": true,
+          "feedback": "El mandato constitucional consagra la prevalencia de los derechos de la infancia en todas las actuaciones."
+        },
+        {
+          "letter": "B",
+          "text": "Los derechos de los adultos son más importantes en cualquier controversia.",
+          "is_correct": false,
+          "feedback": "La Carta Política de 1991 otorga prevalencia prioritaria a los derechos de los niños."
+        },
+        {
+          "letter": "C",
+          "text": "Los niños no tienen ningún derecho hasta que cumplan los 18 años.",
+          "is_correct": false,
+          "feedback": "Los niños son sujetos titulares de derechos fundamentales desde el momento de su nacimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Los derechos infantiles aplican únicamente durante las vacaciones escolares.",
+          "is_correct": false,
+          "feedback": "Los derechos fundamentales rigen de forma permanente en todo el territorio nacional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocimiento del principio de prevalencia constitucional de los derechos de los niños, niñas y adolescentes en Colombia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.89,
+      "bundle_id": "CO-SOC-5-2026-W02-derechos-ninos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W02-derechos-ninos-001-MASTERY-bundle-v2",
+      "statement": "¿A qué derecho fundamental de la infancia responde este trámite legal inicial?",
+      "context": "Cuando nace un bebé en una clínica de Cali, sus padres acuden a la Registraduría para tramitar el Registro Civil de Nacimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Derecho a la identidad, a un nombre y a una nacionalidad.",
+          "is_correct": true,
+          "feedback": "El registro civil garantiza la identidad legal, asignando nombre, apellidos y la ciudadanía colombiana."
+        },
+        {
+          "letter": "B",
+          "text": "Derecho a trabajar en jornadas nocturnas laborales.",
+          "is_correct": false,
+          "feedback": "El trabajo infantil atenta contra el desarrollo y está restringido por la ley."
+        },
+        {
+          "letter": "C",
+          "text": "Derecho a votar en las elecciones presidenciales.",
+          "is_correct": false,
+          "feedback": "El voto ciudadano se ejerce al alcanzar la mayoría de edad (18 años)."
+        },
+        {
+          "letter": "D",
+          "text": "Derecho a poseer armas de fuego personales.",
+          "is_correct": false,
+          "feedback": "El porte de armas está prohibido para menores de edad y fuertemente regulado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprensión del derecho a la identidad como puerta de entrada al reconocimiento jurídico de la persona.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.86,
+      "bundle_id": "CO-SOC-5-2026-W02-derechos-ninos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W02-derechos-ninos-001-MASTERY-bundle-v3",
+      "statement": "¿Qué entidad pública en Colombia tiene entre sus funciones principales la protección integral de los derechos de los niños y la prevención del trabajo infantil?",
+      "context": "Un niño de 10 años en una zona rural es obligado por un adulto a trabajar en una mina en lugar de asistir a la escuela primaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Instituto Colombiano de Bienestar Familiar (ICBF).",
+          "is_correct": true,
+          "feedback": "El ICBF es la entidad encargada de coordinar el Sistema Nacional de Bienestar Familiar para la protección infantil."
+        },
+        {
+          "letter": "B",
+          "text": "Ministerio de Minas y Energía.",
+          "is_correct": false,
+          "feedback": "Regula la explotación minera y energética, pero no la protección de los derechos del menor."
+        },
+        {
+          "letter": "C",
+          "text": "Empresa de Telecomunicaciones de Bogotá.",
+          "is_correct": false,
+          "feedback": "Es una empresa proveedora de servicios de internet y telefonía."
+        },
+        {
+          "letter": "D",
+          "text": "Federación Colombiana de Fútbol.",
+          "is_correct": false,
+          "feedback": "Es una entidad privada deportiva que administra la selección de fútbol."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificación de las instituciones del Estado colombiano garantes del restablecimiento de derechos de la niñez.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.78,
+      "bundle_id": "CO-SOC-5-2026-W02-derechos-ninos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W02-derechos-ninos-001-MASTERY-bundle-v4",
+      "statement": "¿Cómo se relaciona el ejercicio de los derechos humanos con el cumplimiento de estos deberes escolares?",
+      "context": "En el Manual de Convivencia de una escuela en Pereira se estipula que los estudiantes deben cuidar la infraestructura, respetar a sus compañeros y estudiar con responsabilidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cumplimiento de los deberes garantiza un ambiente de respeto mutuo donde todos pueden disfrutar sus derechos.",
+          "is_correct": true,
+          "feedback": "Los derechos y deberes son correlativos: cumplir los deberes asegura la convivencia pacífica y el respeto de los derechos ajenos."
+        },
+        {
+          "letter": "B",
+          "text": "Los deberes existen para eliminar todos los derechos de las personas.",
+          "is_correct": false,
+          "feedback": "Los deberes no anulan los derechos, los respaldan al establecer corresponsabilidad social."
+        },
+        {
+          "letter": "C",
+          "text": "Solo las personas adultas están obligadas a cumplir deberes en la sociedad.",
+          "is_correct": false,
+          "feedback": "Los niños y jóvenes también son sujetos sociales con deberes de convivencia en la escuela y el hogar."
+        },
+        {
+          "letter": "D",
+          "text": "Los derechos solo se entregan como premio a quienes sacan excelentes calificaciones.",
+          "is_correct": false,
+          "feedback": "Los derechos humanos son inherentes a todas las personas sin discriminación académica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Análisis de la complementariedad entre el goce de los derechos y la responsabilidad en el cumplimiento de deberes ciudadanos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.72,
+      "bundle_id": "CO-SOC-5-2026-W02-derechos-ninos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W02-derechos-ninos-001-MASTERY-bundle-v5",
+      "statement": "¿Qué derecho étnico y cultural se protege mediante esta educación bilingüe e intercultural?",
+      "context": "En una comunidad indígena en el Cauca, los niños aprenden en su propia lengua ancestral (Nasa Yuwe) además del castellano, preservando sus costumbres comunitarias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Derecho a la diversidad étnica, cultural y a recibir educación respetuosa de su identidad.",
+          "is_correct": true,
+          "feedback": "La Constitución reconoce la diversidad étnica y garantiza el respeto a la identidad cultural y lingüística de los pueblos indígenas."
+        },
+        {
+          "letter": "B",
+          "text": "Derecho a ignorar las normas de tránsito de las carreteras nacionales.",
+          "is_correct": false,
+          "feedback": "Las normas de tránsito aplican por seguridad vial en todo el territorio."
+        },
+        {
+          "letter": "C",
+          "text": "Obligación de olvidar el idioma español en todas las actividades.",
+          "is_correct": false,
+          "feedback": "La educación intercultural promueve el bilingüismo, no el aislamiento ni la prohibición del castellano."
+        },
+        {
+          "letter": "D",
+          "text": "Derecho a vender las tierras colectivas a empresas extranjeras.",
+          "is_correct": false,
+          "feedback": "Los territorios colectivos indígenas son inalienables, imprescriptibles e inembargables."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocimiento del derecho a la identidad cultural y a la etnoeducación en el marco de la nación pluriétnica colombiana.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.68,
+      "bundle_id": "CO-SOC-5-2026-W02-derechos-ninos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W02-derechos-ninos-001-MASTERY-bundle-v6",
+      "statement": "¿Qué principio de convivencia ciudadana viola la conducta del grupo de niños?",
+      "context": "Durante el descanso escolar en un colegio de Ibagué, un grupo de niños excluye a un nuevo compañero de clase porque utiliza muletas para desplazarse.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Violación del derecho a la no discriminación e inclusión social de personas con discapacidad.",
+          "is_correct": true,
+          "feedback": "Excluir por motivos de discapacidad atenta contra el principio de igualdad y la dignidad humana."
+        },
+        {
+          "letter": "B",
+          "text": "Cumplimiento estricto del derecho a elegir a los mejores deportistas de la escuela.",
+          "is_correct": false,
+          "feedback": "El derecho al juego y la integración no debe vulnerar la dignidad de los compañeros."
+        },
+        {
+          "letter": "C",
+          "text": "Ejercicio libre de la libertad de prensa en el periódico escolar.",
+          "is_correct": false,
+          "feedback": "La exclusión en el recreo no constituye un ejercicio de libertad de prensa."
+        },
+        {
+          "letter": "D",
+          "text": "Protección del patrimonio histórico municipal.",
+          "is_correct": false,
+          "feedback": "El caso trata de relaciones interpersonales e inclusión, no de monumentos históricos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Análisis de situaciones cotidianas de discriminación escolar e identificación de conductas inclusivas y respetuosas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.59,
+      "bundle_id": "CO-SOC-5-2026-W02-derechos-ninos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W02-derechos-ninos-001-MASTERY-bundle-v7",
+      "statement": "¿Qué significa la \"corresponsabilidad\" de la familia, la sociedad y el Estado frente a la infancia?",
+      "context": "La convención internacional de los derechos del niño señala que la familia, la sociedad y el Estado son corresponsables en la atención, cuidado y desarrollo integral de los menores de edad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que las tres instancias deben actuar conjuntamente para garantizar que ningún niño sufra desprotección o violencia.",
+          "is_correct": true,
+          "feedback": "Corresponsabilidad implica el deber compartido de proteger y promover los derechos infantiles desde la casa, la comunidad y las instituciones públicas."
+        },
+        {
+          "letter": "B",
+          "text": "Que solo el Estado debe alimentar y vestir a todos los niños del país sin participación de los padres.",
+          "is_correct": false,
+          "feedback": "La familia tiene el primer deber de crianza y afecto, complementado por la sociedad y el Estado."
+        },
+        {
+          "letter": "C",
+          "text": "Que los vecinos pueden castigar físicamente a los niños ajenos sin autorización de nadie.",
+          "is_correct": false,
+          "feedback": "El castigo físico está proscrito en Colombia; la protección no autoriza la violencia."
+        },
+        {
+          "letter": "D",
+          "text": "Que la familia puede decidir si los niños asisten a la escuela o son analfabetas.",
+          "is_correct": false,
+          "feedback": "La educación es un derecho obligatorio; la familia no puede privar al menor de asistir a la escuela."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprensión del principio de corresponsabilidad tripartita (Familia - Sociedad - Estado) en la doctrina de protección integral.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.51,
+      "bundle_id": "CO-SOC-5-2026-W02-derechos-ninos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W02-derechos-ninos-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de las siguientes propuestas respalda el derecho a la participación infantil establecido en el Código de la Infancia y la Adolescencia?",
+      "context": "En una emisora comunitaria se debate si las opiniones de los niños deben ser tenidas en cuenta en las decisiones del Gobierno Escolar y la planeación del parque del barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Crear mesas de participación estudiantil donde los niños expresen libremente sus ideas y sus propuestas sean escuchadas activamente.",
+          "is_correct": true,
+          "feedback": "El derecho a la participación garantiza que las opiniones infantiles sean valoradas según su desarrollo en asuntos que los afectan."
+        },
+        {
+          "letter": "B",
+          "text": "Prohibir que los niños hablen en público hasta que concluyan el bachillerato.",
+          "is_correct": false,
+          "feedback": "Silenciar a los menores vulnera el derecho a la libre expresión y participación ciudadana."
+        },
+        {
+          "letter": "C",
+          "text": "Permitir que únicamente los adultos elijan los juegos del parque sin consultar a quienes los usan.",
+          "is_correct": false,
+          "feedback": "Diseñar espacios infantiles sin escuchar a los niños ignora sus necesidades reales."
+        },
+        {
+          "letter": "D",
+          "text": "Permitir que los niños voten en las elecciones al Congreso de la República.",
+          "is_correct": false,
+          "feedback": "La participación escolar y comunitaria es adecuada; el voto político formal requiere la mayoría de edad constitucional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluación de mecanismos de participación democrática infantil e institucional en la vida escolar y comunitaria.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.3,
+      "bundle_id": "CO-SOC-5-2026-W02-derechos-ninos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

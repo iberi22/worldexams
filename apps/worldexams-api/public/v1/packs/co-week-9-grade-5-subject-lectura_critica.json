@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-9-grade-5-subject-lectura_critica",
+    "generated_at": "2026-09-12T16:46:07.519Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-5-2026-W09-carta-amistosa-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la estructura básica de una carta amistosa?",
+      "context": "En clase de lectura y escritura en una escuela de Yopal, la profesora explica las partes de una carta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Encabezado (lugar y fecha), saludo, cuerpo, despedida y firma.",
+          "is_correct": true,
+          "feedback": "La carta amistosa incluye lugar, fecha, saludo, mensaje, despedida y firma."
+        },
+        {
+          "letter": "B",
+          "text": "Solo una lista de ingredientes numerados.",
+          "is_correct": false,
+          "feedback": "Una carta amistosa no es una lista de ingredientes."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente una ecuación matemática.",
+          "is_correct": false,
+          "feedback": "Las cartas amistosas no contienen ecuaciones matemáticas."
+        },
+        {
+          "letter": "D",
+          "text": "Solo un título de una película.",
+          "is_correct": false,
+          "feedback": "El título no es una carta amistosa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer las partes que componen la estructura de una carta amistosa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.89,
+      "bundle_id": "CO-LC-5-2026-W09-carta-amistosa-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W09-carta-amistosa-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el propósito principal de una carta amistosa?",
+      "context": "Lee: \"Una carta amistosa es un mensaje escrito que una persona envía a un amigo o familiar para compartir noticias, expresar sentimientos o fortalecer la relación.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mantener la comunicación cercana y expresar sentimientos entre personas que se conocen.",
+          "is_correct": true,
+          "feedback": "La carta amistosa busca fortalecer vínculos afectivos entre personas cercanas."
+        },
+        {
+          "letter": "B",
+          "text": "Informar únicamente sobre noticias internacionales en lenguaje formal.",
+          "is_correct": false,
+          "feedback": "Las cartas amistosas no se centran en noticias internacionales ni usan tono formal."
+        },
+        {
+          "letter": "C",
+          "text": "Publicar un anuncio comercial para vender productos.",
+          "is_correct": false,
+          "feedback": "La carta amistosa no es publicidad; es comunicación personal."
+        },
+        {
+          "letter": "D",
+          "text": "Dictar normas legales a los ciudadanos.",
+          "is_correct": false,
+          "feedback": "Las normas legales se comunican por otros medios, no en cartas amistosas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender el propósito comunicativo y afectivo de una carta amistosa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-5-2026-W09-carta-amistosa-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W09-carta-amistosa-001-MASTERY-bundle-v3",
+      "statement": "¿Qué saludo es más apropiado para comenzar una carta amistosa?",
+      "context": "Un estudiante escribe a su primo que vive en otra ciudad para contarle sobre sus vacaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Querido primo Camilo:\".",
+          "is_correct": true,
+          "feedback": "\"Querido primo Camilo\" es un saludo cercano y apropiado para una carta amistosa."
+        },
+        {
+          "letter": "B",
+          "text": "\"Estimado señor proveedor:\".",
+          "is_correct": false,
+          "feedback": "Este saludo es formal y comercial, no amistoso."
+        },
+        {
+          "letter": "C",
+          "text": "\"A quien pueda interesar:\".",
+          "is_correct": false,
+          "feedback": "Es un saludo neutro de avisos, no de cartas personales."
+        },
+        {
+          "letter": "D",
+          "text": "\"Respetados miembros del jurado:\".",
+          "is_correct": false,
+          "feedback": "Este saludo es propio de discursos académicos, no de cartas amistosas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el uso de saludos adecuados según el tono y el destinatario.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-5-2026-W09-carta-amistosa-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W09-carta-amistosa-001-MASTERY-bundle-v4",
+      "statement": "¿Qué despedida es más apropiada para una carta dirigida a una amiga cercana?",
+      "context": "Lee: \"Al final de la carta, el emisor se despide usando frases afectuosas como 'Con cariño', 'Un abrazo' o 'Hasta pronto', y firma con su nombre.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Con cariño, Laura.\".",
+          "is_correct": true,
+          "feedback": "\"Con cariño, Laura\" es una despedida cálida y cercana, propia de cartas amistosas."
+        },
+        {
+          "letter": "B",
+          "text": "\"Atentamente, Laura.\".",
+          "is_correct": false,
+          "feedback": "\"Atentamente\" se usa en cartas formales, no amistosas."
+        },
+        {
+          "letter": "C",
+          "text": "\"Suyo seguro servidor, Laura.\".",
+          "is_correct": false,
+          "feedback": "Esta fórmula es anticuada y se usa en contextos muy formales."
+        },
+        {
+          "letter": "D",
+          "text": "\"Sin más, Laura.\".",
+          "is_correct": false,
+          "feedback": "\"Sin más\" es una despedida neutra que no refleja cercanía."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar despedidas afectuosas adecuadas en cartas amistosas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.71,
+      "bundle_id": "CO-LC-5-2026-W09-carta-amistosa-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W09-carta-amistosa-001-MASTERY-bundle-v5",
+      "statement": "¿Qué información debería incluir en el cuerpo de la carta para que su amigo entienda la experiencia?",
+      "context": "Un niño debe contar en una carta cómo le fue en una excursión del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lugar visitado, actividades realizadas, momentos divertidos y emociones sentidas.",
+          "is_correct": true,
+          "feedback": "Estos datos permiten al lector reconstruir mentalmente la excursión."
+        },
+        {
+          "letter": "B",
+          "text": "Una larga lista de números y operaciones matemáticas.",
+          "is_correct": false,
+          "feedback": "Una carta personal no es el espacio para cálculos matemáticos extensos."
+        },
+        {
+          "letter": "C",
+          "text": "Solo saludos formales sin contar nada de la excursión.",
+          "is_correct": false,
+          "feedback": "El cuerpo de la carta debe desarrollar el mensaje, no quedar vacío."
+        },
+        {
+          "letter": "D",
+          "text": "Un código secreto que el amigo no pueda descifrar.",
+          "is_correct": false,
+          "feedback": "Una carta amistosa busca comunicarse claramente, no confundir al lector."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el contenido adecuado del cuerpo de una carta para describir una experiencia personal.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LC-5-2026-W09-carta-amistosa-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W09-carta-amistosa-001-MASTERY-bundle-v6",
+      "statement": "¿Qué diferencia de tono existe entre la carta 1 y la carta 2?",
+      "context": "Compara: \"La carta 1 dice: 'Espero que estés bien. Te extraño mucho. Aquí todo sigue igual.' La carta 2 dice: 'Por medio de la presente, me permito informar que mi situación es estable.'\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La carta 1 usa un tono cercano y afectuoso; la carta 2 usa un tono formal y distante.",
+          "is_correct": true,
+          "feedback": "La carta 1 muestra cercanía emocional; la carta 2 mantiene distancia formal."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos cartas usan exactamente el mismo tono.",
+          "is_correct": false,
+          "feedback": "El tono es claramente diferente entre las dos cartas."
+        },
+        {
+          "letter": "C",
+          "text": "La carta 1 es formal y la carta 2 es amistosa.",
+          "is_correct": false,
+          "feedback": "Es al revés: la carta 1 es amistosa y la carta 2 es formal."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna de las cartas tiene tono definido.",
+          "is_correct": false,
+          "feedback": "Toda carta tiene un tono, y aquí se distinguen claramente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar el tono entre cartas formales y amistosas para reconocer sus diferencias.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-5-2026-W09-carta-amistosa-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W09-carta-amistosa-001-MASTERY-bundle-v7",
+      "statement": "¿Qué sucede si una carta amistosa omite la fecha y el lugar?",
+      "context": "Lee: \"Una buena carta amistosa incluye una fecha y lugar, un saludo afectuoso, un cuerpo organizado en ideas claras, una despedida cariñosa y la firma del autor.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pierde información contextual importante para ubicar el mensaje en el tiempo y el espacio.",
+          "is_correct": true,
+          "feedback": "La fecha y el lugar permiten saber cuándo y dónde se escribió la carta."
+        },
+        {
+          "letter": "B",
+          "text": "La carta mejora porque queda más corta.",
+          "is_correct": false,
+          "feedback": "La brevedad no sustituye la información contextual."
+        },
+        {
+          "letter": "C",
+          "text": "Se vuelve automáticamente una carta formal.",
+          "is_correct": false,
+          "feedback": "El tono no cambia por omitir la fecha y el lugar."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene ninguna consecuencia para el lector.",
+          "is_correct": false,
+          "feedback": "Sin contexto, el lector pierde referencias importantes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la importancia de la fecha y el lugar en la estructura de una carta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.52,
+      "bundle_id": "CO-LC-5-2026-W09-carta-amistosa-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W09-carta-amistosa-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué escribir cartas amistosas sigue siendo una actividad valiosa en la escuela?",
+      "context": "Lee: 'Escribir cartas amistosas fortalece la expresión escrita, la capacidad de organizar ideas y los vínculos afectivos. Aunque hoy se usan mucho los mensajes digitales, la carta sigue siendo una forma valiosa de comunicación.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque fortalece la escritura, la organización de ideas y los lazos afectivos con otras personas.",
+          "is_correct": true,
+          "feedback": "La carta amistosa combina aprendizaje lingüístico con desarrollo emocional."
+        },
+        {
+          "letter": "B",
+          "text": "Porque no aporta ningún beneficio frente a los mensajes digitales.",
+          "is_correct": false,
+          "feedback": "La carta aporta beneficios distintos y complementarios a la mensajería digital."
+        },
+        {
+          "letter": "C",
+          "text": "Porque reemplaza completamente al uso de teléfonos y chats.",
+          "is_correct": false,
+          "feedback": "La carta no reemplaza las nuevas tecnologías, sino que las complementa."
+        },
+        {
+          "letter": "D",
+          "text": "Porque solo se utiliza en contextos formales de oficina.",
+          "is_correct": false,
+          "feedback": "La carta amistosa se usa en contextos personales, no solo formales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la importancia de la carta amistosa como práctica de lectura y escritura significativa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.31,
+      "bundle_id": "CO-LC-5-2026-W09-carta-amistosa-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

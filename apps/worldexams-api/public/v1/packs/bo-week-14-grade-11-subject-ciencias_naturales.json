@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "bo",
+    "pack_id": "bo-week-14-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T16:46:07.237Z"
+  },
+  "questions": [
+    {
+      "id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la fórmula matemática para calcular el trabajo mecánico (W) realizado por una fuerza constante F que desplaza un cuerpo una distancia d formando un ángulo θ con la dirección del movimiento?",
+      "context": "En La Paz, el estudiante Grover del Colegio Nacional Ayacucho mide la fuerza aplicada y el desplazamiento de un carro en una pista horizontal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "W = F / (d * cos(θ))",
+          "is_correct": false,
+          "feedback": "Incorrecto. El trabajo no se calcula por división de factores."
+        },
+        {
+          "letter": "B",
+          "text": "W = m * a * d^2",
+          "is_correct": false,
+          "feedback": "Incorrecto. La distancia no se eleva al cuadrado para el cálculo de trabajo."
+        },
+        {
+          "letter": "C",
+          "text": "W = F * d * sin(θ)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El seno determina el componente perpendicular que no realiza trabajo."
+        },
+        {
+          "letter": "D",
+          "text": "W = F * d * cos(θ)",
+          "is_correct": true,
+          "feedback": "Correcto. El trabajo mecánico es el producto escalar de la fuerza por el desplazamiento."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El trabajo W = F*d*cos(θ) cuantifica la transferencia de energía por acción de una fuerza a lo largo de un desplazamiento.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v2",
+      "statement": "Una fuerza horizontal constante de 40 N empuja un cajón de madera a lo largo de 5 metros sobre un piso plano. ¿Qué trabajo realiza esta fuerza?",
+      "context": "En Cochabamba, la estudiante Roxana de la Unidad Educativa Don Bosco calcula el trabajo producido al arrastrar una caja en el laboratorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "200 Joules",
+          "is_correct": true,
+          "feedback": "Correcto. Como la fuerza es paralela al desplazamiento (θ = 0°, cos 0° = 1), W = 40 N * 5 m = 200 J."
+        },
+        {
+          "letter": "B",
+          "text": "0 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fuerza realiza trabajo positivo al ser paralela al movimiento."
+        },
+        {
+          "letter": "C",
+          "text": "400 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicación errónea del trabajo mecánico."
+        },
+        {
+          "letter": "D",
+          "text": "8 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resulta de dividir la fuerza entre la distancia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El trabajo es el producto W = F*d*cos(0°) = 40 * 5 * 1 = 200 J.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v3",
+      "statement": "¿En cuál de las siguientes situaciones el trabajo mecánico realizado por la fuerza mencionada es igual a CERO?",
+      "context": "En Santa Cruz, el estudiante Jhonny del Colegio Bolívar analiza el trabajo mecánico nulo en un objeto mantenido en reposo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una persona sostiene estáticamente una pesada maleta de 20 kg sin moverla del lugar",
+          "is_correct": true,
+          "feedback": "Correcto. Si el desplazamiento es nulo (d = 0), el trabajo mecánico realizado es exactamente cero."
+        },
+        {
+          "letter": "B",
+          "text": "Un buey tira de un arado a lo largo de 100 metros en un campo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Existe fuerza y desplazamiento en la misma dirección (W > 0)."
+        },
+        {
+          "letter": "C",
+          "text": "Una grúa eleva un bloque de concreto a 10 metros de altura",
+          "is_correct": false,
+          "feedback": "Incorrecto. La grúa efectúa trabajo positivo contra la gravedad."
+        },
+        {
+          "letter": "D",
+          "text": "Una fuerza de fricción detiene un automóvil en deslizamiento",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fricción realiza trabajo negativo disipando energía."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sin desplazamiento (d = 0), el trabajo mecánico W = F*d*cos(θ) es cero aunque se aplique un esfuerzo muscular sosteniendo el peso.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v4",
+      "statement": "Un cuerpo de 4 kg se desplaza a una velocidad constante de 6 m/s. ¿Cuál es su energía cinética (Ec)?",
+      "context": "En El Alto, la estudiante Marisol del Colegio San Simón determina la energía cinética de un carro dinámico en una pista.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cálculo erróneo de la expresión de energía."
+        },
+        {
+          "letter": "B",
+          "text": "24 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplica simplemente masa por velocidad sin elevar la velocidad al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "72 Joules",
+          "is_correct": true,
+          "feedback": "Correcto. Ec = 0.5 * m * v^2 = 0.5 * 4 kg * (6 m/s)^2 = 2 * 36 = 72 J."
+        },
+        {
+          "letter": "D",
+          "text": "144 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvida multiplicar por el factor 0.5 de la energía cinética."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La energía cinética Ec = 0.5*m*v^2 representa la energía almacenada por un cuerpo debido a su velocidad.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v5",
+      "statement": "Según el Teorema del Trabajo y la Energía Cinética, el trabajo neto (W_neto) realizado por todas las fuerzas sobre una partícula es igual a:",
+      "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín comprueba que el trabajo neto aplicado sobre un objeto acelera su movimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El valor constante de su energía potencial gravitatoria",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía potencial evalúa la posición, no el trabajo neto total."
+        },
+        {
+          "letter": "B",
+          "text": "El producto de la potencia por el cuadrado de la aceleración",
+          "is_correct": false,
+          "feedback": "Incorrecto. Relación dimensionalmente incorrecta."
+        },
+        {
+          "letter": "C",
+          "text": "La suma de la masa y la velocidad de la partícula",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a dimensiones ni conceptos de trabajo o energía."
+        },
+        {
+          "letter": "D",
+          "text": "La variación en su energía cinética (ΔEc = Ec_final - Ec_inicial)",
+          "is_correct": true,
+          "feedback": "Correcto. W_neto = ΔEc cuantifica la energía ganada o perdida por la partícula."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El teorema fundamental W_neto = ΔEc establece que el trabajo de la resultante modifica la energía cinética del objeto.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v6",
+      "statement": "Un objeto de 2 kg se encuentra a una altura de 15 metros sobre el suelo. Si g = 10 m/s^2, ¿cuál es su Energía Potencial Gravitatoria (Ep)?",
+      "context": "En Potosí, el estudiante Ronald de la Unidad Educativa Juan Pablo II calcula la energía potencial de un cuerpo colocado en un estante elevado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "150 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. División errónea del resultado total entre 2."
+        },
+        {
+          "letter": "B",
+          "text": "30 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al multiplicar la masa por la altura omitiendo la gravedad."
+        },
+        {
+          "letter": "C",
+          "text": "300 Joules",
+          "is_correct": true,
+          "feedback": "Correcto. Ep = m * g * h = 2 kg * 10 m/s^2 * 15 m = 300 J."
+        },
+        {
+          "letter": "D",
+          "text": "600 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicación incorrecta del cálculo de energía potencial."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Ep = m*g*h mide la energía acumulada en función de la altura h con respecto a un nivel de referencia en un campo gravitatorio.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v7",
+      "statement": "Un resorte de constante elástica k = 200 N/m se comprime una distancia de 0.1 metros. ¿Cuánta energía potencial elástica (Epe) acumula?",
+      "context": "En Oruro, el estudiante Limbert del Colegio San Calixto mide la compresión de un resorte helicoidal en un montaje experimental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.1 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. Operación decimal matemática incorrecta."
+        },
+        {
+          "letter": "B",
+          "text": "10 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvida elevar al cuadrado la deformación x = 0.1 m."
+        },
+        {
+          "letter": "C",
+          "text": "1 Joule",
+          "is_correct": true,
+          "feedback": "Correcto. Epe = 0.5 * k * x^2 = 0.5 * 200 N/m * (0.1 m)^2 = 100 * 0.01 = 1 J."
+        },
+        {
+          "letter": "D",
+          "text": "20 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplica directamente k por x sin aplicar el cuadrado ni el factor 0.5."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Epe = 0.5*k*x^2 determina la energía almacenada en resortes o cuerpos elásticos deformados una distancia x.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de las siguientes fuerzas se clasifica como una fuerza CONSERVATIVA?",
+      "context": "En Tarija, la estudiante Shirley del Colegio Nacional Pichincha compara el trabajo gravitatorio a lo largo de dos caminos diferentes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fuerza gravitatoria (peso)",
+          "is_correct": true,
+          "feedback": "Correcto. El trabajo de la fuerza gravitatoria a lo largo de una trayectoria cerrada es cero y no depende del camino."
+        },
+        {
+          "letter": "B",
+          "text": "Fuerza de frenado magnético por corrientes de Foucault",
+          "is_correct": false,
+          "feedback": "Incorrecto. Transforma energía mecánica en calor térmico irrreversible."
+        },
+        {
+          "letter": "C",
+          "text": "Fuerza de rozamiento cinético",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fricción es no conservativa y disipa energía en forma de calor."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza de resistencia del aire (viscosidad)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una fuerza disipativa no conservativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En las fuerzas conservativas (peso, fuerza elástica) el trabajo realizado depende solo de los puntos inicial y final.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v9",
+      "statement": "Si sobre un sistema actúan únicamente fuerzas conservativas, ¿qué ocurre con su Energía Mecánica Total (Em = Ec + Ep)?",
+      "context": "En Trinidad, el estudiante Boris del Colegio Antonio Vaca Díez analiza la conversión de energía potencial a cinética en una montaña rusa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disminuye continuamente hasta anularse por completo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurriría si existieran fuerzas de rozamiento o disipativas."
+        },
+        {
+          "letter": "B",
+          "text": "Permanece estrictamente constante (se conserva)",
+          "is_correct": true,
+          "feedback": "Correcto. Em_inicial = Em_final. Se produce un intercambio continuo entre Ec y Ep sin pérdidas."
+        },
+        {
+          "letter": "C",
+          "text": "Aumenta de forma exponencial sin límite de tiempo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Violaria el principio básico de conservación de la energía."
+        },
+        {
+          "letter": "D",
+          "text": "Se transforma íntegramente en masa según la relatividad",
+          "is_correct": false,
+          "feedback": "Incorrecto. En mecánica clásica la masa no se genera a partir de la energía mecánica conservada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Principio de Conservación de la Energía Mecánica: sin rozamiento, ΔEm = 0 -> Ec1 + Ep1 = Ec2 + Ep2.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v10",
+      "statement": "Una masa de 1 kg se deja caer desde el reposo desde una altura h = 20 m (g = 10 m/s^2). Ignorando la fricción del aire, ¿con qué velocidad llega al suelo?",
+      "context": "En Cobija, el estudiante Franz del Colegio Nacional Florida calcula la velocidad de impacto de una pelota en caída libre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "40 m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error algebraico en el despeje de la velocidad final."
+        },
+        {
+          "letter": "B",
+          "text": "10 m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvida multiplicar por 2 dentro de la raíz cuadrada."
+        },
+        {
+          "letter": "C",
+          "text": "20 m/s",
+          "is_correct": true,
+          "feedback": "Correcto. Ep_inicial = Ec_final -> m*g*h = 0.5*m*v^2 -> v = sqrt(2*g*h) = sqrt(2 * 10 * 20) = sqrt(400) = 20 m/s."
+        },
+        {
+          "letter": "D",
+          "text": "400 m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvida extraer la raíz cuadrada final al calcular v^2."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Por conservación de la energía: m*g*h = 0.5*m*v^2 -> v = sqrt(2*g*h) = sqrt(400) = 20 m/s.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v11",
+      "statement": "Una máquina eleva un bloque de 500 N a una altura de 10 metros en un tiempo de 5 segundos. ¿Cuál es la potencia mecánica desarrollada?",
+      "context": "En Tupiza, la estudiante Nancy del Colegio Nacional Ayacucho evalúa la potencia entregada por un motor eléctrico de elevación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 Watts",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la división decimal del trabajo total."
+        },
+        {
+          "letter": "B",
+          "text": "1000 Watts",
+          "is_correct": true,
+          "feedback": "Correcto. W = F * h = 500 N * 10 m = 5000 J. P = W / t = 5000 J / 5 s = 1000 W (1 kW)."
+        },
+        {
+          "letter": "C",
+          "text": "500 Watts",
+          "is_correct": false,
+          "feedback": "Incorrecto. División errónea del trabajo entre 10 en lugar de 5 segundos."
+        },
+        {
+          "letter": "D",
+          "text": "2500 Watts",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicación errónea de fuerza por tiempo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La potencia P = W / t mide la rapidez con la que se realiza un trabajo. P = 5000 J / 5 s = 1000 W.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v12",
+      "statement": "Un motor mantiene un vehículo desplazándose a una velocidad constante de 15 m/s contra una fuerza de resistencia de 600 N. ¿Qué potencia entrega el motor?",
+      "context": "En Uyuni, el estudiante Edwin de la Unidad Educativa Don Bosco calcula la potencia desarrollada por un motor de automóvil en carretera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "90 Watts",
+          "is_correct": false,
+          "feedback": "Incorrecto. Desplazamiento incorrecto de ceros en la multiplicación."
+        },
+        {
+          "letter": "B",
+          "text": "40 Watts",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resulta de dividir la fuerza entre la velocidad."
+        },
+        {
+          "letter": "C",
+          "text": "9000 Watts (9 kW)",
+          "is_correct": true,
+          "feedback": "Correcto. Para velocidad constante P = F * v = 600 N * 15 m/s = 9000 W."
+        },
+        {
+          "letter": "D",
+          "text": "4500 Watts",
+          "is_correct": false,
+          "feedback": "Incorrecto. División errónea del producto de fuerza y velocidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando un objeto se mueve con velocidad constante v bajo una fuerza F, la potencia instantánea es P = F * v.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la Cantidad de Movimiento o Momento Lineal (p) de una pelota de 0.5 kg que se desplaza a 24 m/s?",
+      "context": "En Viacha, el estudiante Marcelo del Colegio Bolívar mide la masa y velocidad de una pelota para determinar su momento lineal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12 kg * m/s",
+          "is_correct": true,
+          "feedback": "Correcto. p = m * v = 0.5 kg * 24 m/s = 12 kg * m/s."
+        },
+        {
+          "letter": "B",
+          "text": "144 kg * m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eleva la velocidad al cuadrado confundiendo con energía cinética."
+        },
+        {
+          "letter": "C",
+          "text": "48 kg * m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurre si se divide la velocidad entre la masa."
+        },
+        {
+          "letter": "D",
+          "text": "6 kg * m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. División errónea por 2 adicionales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El momento lineal p = m*v es una magnitud vectorial que caracteriza el estado dinámico de movimiento de una masa.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v14",
+      "statement": "Se aplica una fuerza constante de 50 N sobre un objeto durante un intervalo de 0.2 segundos. ¿Cuál es el Impulso Mecánico (I) impartido al objeto?",
+      "context": "En Quillacollo, el estudiante Freddy del Colegio San Simón registra la fuerza de impacto de un martillo mediante un sensor de fuerza y tiempo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.5 N * s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo decimal de la multiplicación."
+        },
+        {
+          "letter": "B",
+          "text": "100 N * s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicación errónea de los datos."
+        },
+        {
+          "letter": "C",
+          "text": "250 N * s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurre si se divide la fuerza entre el tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "10 N * s",
+          "is_correct": true,
+          "feedback": "Correcto. I = F * Δt = 50 N * 0.2 s = 10 N * s."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El impulso I = F*Δt cuantifica la acción acumulada de una fuerza actuando durante un tiempo Δt.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v15",
+      "statement": "Según el Teorema del Impulso y el Momento Lineal, cuando un jugador batea una pelota de béisbol, el impulso aplicado por el bate sobre la pelota equivale a:",
+      "context": "En Sacaba, el estudiante René del Colegio Nacional Junín analiza la variación del momento lineal de una pelota al ser golpeada por un bate.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cociente entre la aceleración y la masa de la pelota",
+          "is_correct": false,
+          "feedback": "Incorrecto. Relación dimensionalmente incorrecta."
+        },
+        {
+          "letter": "B",
+          "text": "La energía potencial gravitatoria acumulada en el bate",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía potencial no define el choque dinámico impulsivo."
+        },
+        {
+          "letter": "C",
+          "text": "La suma de la masa de la pelota y el bate",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a dimensiones de impulso."
+        },
+        {
+          "letter": "D",
+          "text": "La variación en la cantidad de movimiento de la pelota (Δp = p_final - p_inicial)",
+          "is_correct": true,
+          "feedback": "Correcto. I_neto = Δp. La fuerza media durante el choque altera vectorialmente el momento lineal."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El teorema I = Δp demuestra que aplicar una gran fuerza en un pequeño intervalo Δt produce un cambio significativo en el momento m*v.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v16",
+      "statement": "En un choque perfectamente INELÁSTICO entre dos cuerpos en un sistema aislado sin fuerzas externas, ¿qué magnitud física se conserva intacta?",
+      "context": "En Montero, la estudiante Lidia de la Unidad Educativa Juan Pablo II compara la energía cinética antes y después de una colisión inelástica de dos carros de laboratorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Cantidad de Movimiento Total (p_total), mientras que la Energía Cinética NO se conserva",
+          "is_correct": true,
+          "feedback": "Correcto. En choques inelásticos los cuerpos se deforman o quedan pegados; p_total se conserva pero parte de Ec se disipa en calor/deformación."
+        },
+        {
+          "letter": "B",
+          "text": "La Energía Cinética se conserva intacta, mientras que p_total cambia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso definiría un choque perfectamente elástico imposible donde Ec se conserva."
+        },
+        {
+          "letter": "C",
+          "text": "Se conservan tanto la Energía Cinética como la deformación elástica",
+          "is_correct": false,
+          "feedback": "Incorrecto. En choques inelásticos parte de Ec se pierde irremediablemente en calor o deformación."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna magnitud física se conserva en absoluto",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conservación de p_total rige universalmente para todo choque en sistemas aislados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En todo choque aislado se conserva p_total. En el choque inelástico los cuerpos se unen o deforman disipando energía cinética.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v17",
+      "statement": "Una masa de 2 kg se desplaza a 6 m/s y choca frontalmente quedando pegada a una masa de 4 kg inicialmente en reposo. ¿Cuál es la velocidad final del conjunto?",
+      "context": "En Riberalta, el estudiante Mateo del Colegio San Calixto mide la velocidad resultante tras el acoplamiento inelástico de dos masas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 m/s",
+          "is_correct": true,
+          "feedback": "Correcto. Choque perfectamente inelástico: m1*v1 + m2*v2 = (m1+m2)*Vf -> 2*6 + 0 = (2+4)*Vf -> 12 = 6*Vf -> Vf = 2 m/s."
+        },
+        {
+          "letter": "B",
+          "text": "3 m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resulta de dividir la masa mayor entre la masa menor."
+        },
+        {
+          "letter": "C",
+          "text": "6 m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asume que la velocidad no disminuye al aumentar la masa total."
+        },
+        {
+          "letter": "D",
+          "text": "1 m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. División errónea en la ecuación de conservación del momento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Conservación del momento lineal: 2 kg * 6 m/s + 0 = (2 + 4) kg * Vf -> 12 = 6 * Vf -> Vf = 2 m/s.\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v18",
+      "statement": "Un bloque de 2 kg se suelta desde una altura h = 5 m sobre una rampa curva sin fricción y al llegar a la base horizontal recorre 10 metros hasta detenerse por fricción. ¿Qué trabajo realizó la fricción?",
+      "context": "En Warnes, la estudiante Camila del Colegio Nacional Pichincha calcula el trabajo de rozamiento en el frenado de un cuerpo sobre una pista horizontal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fricción se opone al movimiento realizando trabajo estrictamente negativo."
+        },
+        {
+          "letter": "B",
+          "text": "0 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si el trabajo fuera cero el bloque continuaría moviéndose indefinidamente."
+        },
+        {
+          "letter": "C",
+          "text": "-50 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al dividir la energía inicial entre 2."
+        },
+        {
+          "letter": "D",
+          "text": "-100 Joules",
+          "is_correct": true,
+          "feedback": "Correcto. W_fricción = ΔEm = Em_final - Em_inicial = 0 - m*g*h = - (2 kg * 10 m/s^2 * 5 m) = -100 J."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El trabajo disipativo de las fuerzas no conservativas equivale a W_fricción = Em_final - Em_inicial = 0 - 100 J = -100 J.\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v19",
+      "statement": "Un proyectil de 0.01 kg disparado a 400 m/s se incrusta en un bloque de madera de 0.99 kg suspendido de un hilo (Péndulo Balístico, g = 10 m/s^2). ¿A qué altura h se eleva el sistema?",
+      "context": "En Colcapirhua, el estudiante Gonzalo del Colegio Antonio Vaca Díez utiliza un péndulo balístico para medir la velocidad de un proyectil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8.0 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Desplazamiento de coma decimal en la velocidad inicial."
+        },
+        {
+          "letter": "B",
+          "text": "0.4 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. División errónea de la velocidad final al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "0.8 metros (80 cm)",
+          "is_correct": true,
+          "feedback": "Correcto. Conservación del momento: 0.01*400 = (0.01+0.99)*Vf -> 4 = 1*Vf -> Vf = 4 m/s. Conservación de energía: 0.5*m*Vf^2 = m*g*h -> h = Vf^2/(2g) = 16/20 = 0.8 m."
+        },
+        {
+          "letter": "D",
+          "text": "1.6 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvida dividir entre 2g al despejar la altura máxima."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Péndulo balístico: 1) Choque inelástico p_i = p_f -> Vf = 4 m/s. 2) Conservación de energía -> h = Vf^2 / (2g) = 16 / 20 = 0.8 m.\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v20",
+      "statement": "Una bomba de agua debe elevar 1200 litros (1200 kg) de agua a una altura de 15 metros en 1 minuto (60 s). Si g = 10 m/s^2, ¿cuál debe ser la potencia útil de la bomba?",
+      "context": "En Yacuiba, la estudiante Paola del Colegio Nacional Florida dimensiona la potencia requerida para una bomba de agua en un edificio de departamentos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18000 Watts",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvida convertir los minutos a segundos en el denominador."
+        },
+        {
+          "letter": "B",
+          "text": "3000 Watts (3 kW)",
+          "is_correct": true,
+          "feedback": "Correcto. W = m * g * h = 1200 kg * 10 m/s^2 * 15 m = 180.000 J. P = W / t = 180.000 J / 60 s = 3000 W."
+        },
+        {
+          "letter": "C",
+          "text": "1800 Watts",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurre si se divide por 100 segundos en lugar de 60 segundos."
+        },
+        {
+          "letter": "D",
+          "text": "300 Watts",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la división por ceros decimales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "P = W / t = (m*g*h) / t = (1200 * 10 * 15) / 60 = 180.000 / 60 = 3000 W (3 kW).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    }
+  ]
+}

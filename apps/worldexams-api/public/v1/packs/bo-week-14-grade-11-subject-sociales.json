@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "sociales",
+    "country": "bo",
+    "pack_id": "bo-week-14-grade-11-subject-sociales",
+    "generated_at": "2026-09-12T16:46:07.260Z"
+  },
+  "questions": [
+    {
+      "id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v1",
+      "statement": "De acuerdo con el artículo 11 de la CPE de 2009, la forma de gobierno de Bolivia adopta la Democracia Intercultural, la cual se ejerce a través de las formas:",
+      "context": "En La Paz, el estudiante Grover del Colegio Nacional Ayacucho analiza las tres formas de ejercicio democrático consagradas en la CPE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Monárquica hereditaria con designación por el senado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bolivia es una república plurinacional democrática."
+        },
+        {
+          "letter": "B",
+          "text": "Dictatorial militar sin participación ni sufragio popular",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es contraria a los principios democráticos de la Constitución."
+        },
+        {
+          "letter": "C",
+          "text": "Exclusivamente representativa de partidos políticos urbanos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al modelo liberal excluyente previo a la CPE de 2009."
+        },
+        {
+          "letter": "D",
+          "text": "Directa y participativa, representativa y comunitaria",
+          "is_correct": true,
+          "feedback": "Correcto. Articula el voto en urnas, la consulta en cabildos y los usos y costumbres de los pueblos originarios."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La Democracia Intercultural boliviana integra de manera complementaria la democracia participativa, representativa y comunitaria.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v2",
+      "statement": "La Democracia Comunitaria se ejerce mediante:",
+      "context": "En Cochabamba, la estudiante Roxana de la Unidad Educativa Don Bosco estudia la designación de autoridades mediante usos y costumbres en un ayllu.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La elección, designación o nominación de autoridades según normas y procedimientos propios de las naciones indígenas originarias",
+          "is_correct": true,
+          "feedback": "Correcto. Permite el nombramiento en asambleas y cabildos comunitarios según usos y costumbres."
+        },
+        {
+          "letter": "B",
+          "text": "Sorteos bursátiles organizados por entidades bancarias privadas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mecanismo ajeno a las prácticas comunitarias indígenas."
+        },
+        {
+          "letter": "C",
+          "text": "La designación directa por parte del Presidente del Estado Plurinacional",
+          "is_correct": false,
+          "feedback": "Incorrecto. Atentaría contra la autodeterminación comunitaria originaria."
+        },
+        {
+          "letter": "D",
+          "text": "El voto exclusivo mediante papeleta e imprenta comercial en ciudades capitales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al ejercicio de la democracia representativa tradicional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La democracia comunitaria reconoce la validez jurídica de las formas propias de deliberación y elección de los pueblos indígenas.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v3",
+      "statement": "¿Qué mecanismos integran la Democracia Directa y Participativa en el Estado Plurinacional de Bolivia?",
+      "context": "En Santa Cruz, el estudiante Jhonny del Colegio Bolívar evalúa la aplicación de la revocatoria de mandato en autoridades electas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El referéndum, la iniciativa legislativa ciudadana, la revocatoria de mandato, la asamblea y el cabildo",
+          "is_correct": true,
+          "feedback": "Correcto. Otorgan poder de decisión directa al pueblo sobre normas y autoridades."
+        },
+        {
+          "letter": "B",
+          "text": "La delegación absoluta de decisiones en los diputados del parlamento",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la democracia representativa pura."
+        },
+        {
+          "letter": "C",
+          "text": "La designación vitalicia de jueces por el Colegio de Abogados",
+          "is_correct": false,
+          "feedback": "Incorrecto. En Bolivia los magistrados son electos por sufragio popular."
+        },
+        {
+          "letter": "D",
+          "text": "El nombramiento de alcaldes por recomendación de embajadas extranjeras",
+          "is_correct": false,
+          "feedback": "Incorrecto. Atenta contra la soberanía popular y el texto constitucional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los mecanismos de democracia directa garantizan el ejercicio inmediato de la soberanía popular en decisiones clave.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v4",
+      "statement": "El Órgano del Estado Plurinacional encargado de organizar, dirigir, supervisar y administrar los procesos electorales y juzgar la materia electoral es:",
+      "context": "En El Alto, la estudiante Marisol del Colegio San Simón examina las atribuciones constitucionales del Órgano Electoral Plurinacional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Fiscalía General del Estado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ejerce la acción penal pública en representación de la sociedad."
+        },
+        {
+          "letter": "B",
+          "text": "El Tribunal Constitucional Plurinacional",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su función es el control concentrado de constitucionalidad de las leyes."
+        },
+        {
+          "letter": "C",
+          "text": "El Órgano Electoral Plurinacional (OEP), encabezado por el Tribunal Supremo Electoral (TSE)",
+          "is_correct": true,
+          "feedback": "Correcto. Constituye el cuarto poder del Estado independiente de los órganos Ejecutivo, Legislativo y Judicial."
+        },
+        {
+          "letter": "D",
+          "text": "El Ministerio de Gobierno y la Policía Nacional",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponden al Órgano Ejecutivo y sus fuerzas de orden."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El OEP goza de independencia funcional organizando elecciones transparentes en las tres formas de democracia.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v5",
+      "statement": "Promulgada en 2010, la Ley N° 045 Contra el Racismo y Toda Forma de Discriminación tiene por objeto:",
+      "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín analiza el impacto de la Ley 045 en la prevención de la discriminación en escuelas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Establecer la segregación de castas en los transportes públicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un desatino contrario al espíritu descolonizador de la Ley 045."
+        },
+        {
+          "letter": "B",
+          "text": "Restringir el acceso a la educación pública a personas de origen rural",
+          "is_correct": false,
+          "feedback": "Incorrecto. Garantiza la igualdad sustantiva sin distinción de origen o vestimenta."
+        },
+        {
+          "letter": "C",
+          "text": "Prohibir el uso de idiomas originarios en los juzgados y escuelas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ley combate la discriminación fortaleciendo los derechos lingüísticos originarios."
+        },
+        {
+          "letter": "D",
+          "text": "Establecer mecanismos y procedimientos para prevenir y sancionar actos de racismo y discriminación en el ámbito público y privado",
+          "is_correct": true,
+          "feedback": "Correcto. Tipifica el racismo como delito y promueve la equidad entre todos los bolivianos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La Ley 045 es un pilar descolonizador que prohíbe el maltrato por origen, color de piel, idioma o vestimenta tradicional.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v6",
+      "statement": "La Ley N° 348 (Para Garantizar a las Mujeres una Vida Libre de Violencia) introdujo en el Código Penal boliviano el delito de:",
+      "context": "En Potosí, el estudiante Ronald de la Unidad Educativa Juan Pablo II estudia la tipificación del delito de feminicidio en la Ley 348.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Abandono de deberes patrióticos con pena de destierro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un concepto ajeno a la protección de los derechos de las mujeres."
+        },
+        {
+          "letter": "B",
+          "text": "Infidelidad conyugal sancionada con trabajos forzados",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Ley 348 tipifica delitos de violencia física, psicológica, sexual y feminicidio."
+        },
+        {
+          "letter": "C",
+          "text": "Feminicidio, sancionado con 30 años de prisión sin derecho a indulto",
+          "is_correct": true,
+          "feedback": "Correcto. Sanciona la forma extrema de violencia machista contra las mujeres."
+        },
+        {
+          "letter": "D",
+          "text": "Incumplimiento de contratos comerciales privados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Rige en el ámbito del derecho mercantil y civil."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Ley 348 establece la prioridad estatal de erraicar la violencia machista creando la FELCV para investigar agresiones.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v7",
+      "statement": "¿Qué derecho constitucional permite a la sociedad civil organizada vigilar, fiscalizar y evaluar la gestión pública y el uso de recursos estatales según la Ley 341?",
+      "context": "En Oruro, el estudiante Limbert del Colegio San Calixto evalúa la rendición de cuentas pública ante los Comités de Control Social.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Censura Eclesiástica",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tiene función alguna en la administración pública laica."
+        },
+        {
+          "letter": "B",
+          "text": "La Auditoría Secreta Militar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El control social lo ejerce el pueblo organizado de forma transparente."
+        },
+        {
+          "letter": "C",
+          "text": "La Participación y Control Social",
+          "is_correct": true,
+          "feedback": "Correcto. Permite a las juntas vecinales y organizaciones transparentar la ejecución presupuestaria."
+        },
+        {
+          "letter": "D",
+          "text": "El Veto Bancario Privado",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la fiscalización social del gasto público."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Control Social democratiza la gestión pública combatiendo la corrupción mediante la fiscalización ciudadana activa.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v8",
+      "statement": "La institución constitucional autónoma e independiente encargada de velar por la promoción, vigencia y defensa de los Derechos Humanos es:",
+      "context": "En Tarija, la estudiante Shirley del Colegio Nacional Pichincha analiza las recomendaciones de la Defensoría del Pueblo ante vulneraciones de DDHH.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Defensoría del Pueblo",
+          "is_correct": true,
+          "feedback": "Correcto. Interviene ante vulneraciones de derechos por parte de autoridades u organismos estatales."
+        },
+        {
+          "letter": "B",
+          "text": "La Contraloría General del Estado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Supervisa el uso de los recursos del erario público."
+        },
+        {
+          "letter": "C",
+          "text": "El Ministerio de Defensa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Administra las Fuerzas Armadas del Estado."
+        },
+        {
+          "letter": "D",
+          "text": "La Procuraduría General del Estado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Defiende los intereses patrimoniales y jurídicos del Estado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Defensoría del Pueblo actúa sin subordinación a los poderes públicos resguardando las garantías de las personas.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v9",
+      "statement": "El principio constitucional que exige la presencia de 50% mujeres y 50% hombres en las listas de candidatos a cargos electivos se conoce como:",
+      "context": "En Trinidad, el estudiante Boris del Colegio Antonio Vaca Díez examina la aplicación de la paridad de género en las listas electorales del TSE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuota opcional de minorías",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una obligación constitucional estricta (50/50), no una cuota opcional."
+        },
+        {
+          "letter": "B",
+          "text": "Paridad y Alternancia de Género",
+          "is_correct": true,
+          "feedback": "Correcto. Posiciona a Bolivia entre los países con mayor representación femenina en el parlamento."
+        },
+        {
+          "letter": "C",
+          "text": "Discriminación positiva inversa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se fundamenta en el principio de igualdad y paridad sustantiva."
+        },
+        {
+          "letter": "D",
+          "text": "Voto calificado de género",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos los votos tienen el mismo valor democrático."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La paridad y alternancia garantizan la equidad de género en la Asamblea Legislativa y concejos municipales.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v10",
+      "statement": "¿Qué Acción de Garantía Constitucional procede de manera inmediata ante la vulneración del derecho a la vida o a la libertad física y de locomoción?",
+      "context": "En Cobija, el estudiante Franz del Colegio Nacional Florida analiza un fallo judicial dictado tras la presentación de una Acción de Libertad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acción Popular",
+          "is_correct": false,
+          "feedback": "Incorrecto. Protege derechos e intereses colectivos como el medio ambiente."
+        },
+        {
+          "letter": "B",
+          "text": "Acción de Amparo Constitucional",
+          "is_correct": false,
+          "feedback": "Incorrecto. Procede contra violaciones de otros derechos fundamentales cuando no hay otro recurso."
+        },
+        {
+          "letter": "C",
+          "text": "Acción de Libertad",
+          "is_correct": true,
+          "feedback": "Correcto. Antes conocida como Hábeas Corpus; tutela de forma expedita la vida y la libertad locomotiva."
+        },
+        {
+          "letter": "D",
+          "text": "Acción de Protección de Datos Personales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tutela los derechos de privacidad y datos (Hábeas Data)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Acción de Libertad es la garantía primordial para proteger a cualquier persona perseguida, procesada o privada de libertad ilegalmente.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v11",
+      "statement": "La Acción de Amparo Constitucional se caracteriza por ser un mecanismo de tutela que procede cuando:",
+      "context": "En Tupiza, la estudiante Nancy del Colegio Nacional Ayacucho estudia la jurisprudencia constitucional sobre la Acción de Amparo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se tramita la adopción internacional de menores",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se tramita en la jurisdicción de la niñez y adolescencia."
+        },
+        {
+          "letter": "B",
+          "text": "No existe otro medio o recurso legal ordinario para la protección inmediata de los derechos vulnerados",
+          "is_correct": true,
+          "feedback": "Correcto. Se rige por el principio de subsidiaridad e inmediatez ante actos ilegales de funcionarios o particulares."
+        },
+        {
+          "letter": "C",
+          "text": "Se busca modificar el precio de los combustibles en el mercado",
+          "is_correct": false,
+          "feedback": "Incorrecto. No procede para regular tarifas o precios de mercado."
+        },
+        {
+          "letter": "D",
+          "text": "Se requiere juzgar delitos de alta traición en tiempo de guerra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al fuero penal militar u ordinario."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Amparo Constitucional restaura los derechos vulnerados cuando han agotado las vías administrativas u ordinarias previa tutela.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v12",
+      "statement": "¿Qué garantía constitucional puede ser interpuesta por cualquier persona para proteger derechos colectivos como el medio ambiente o el patrimonio cultural?",
+      "context": "En Uyuni, el estudiante Edwin de la Unidad Educativa Don Bosco evalúa la Acción Popular presentada para la protección de un río contaminado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acción Privada Penal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Rige para delitos que afectan el honor personal."
+        },
+        {
+          "letter": "B",
+          "text": "Acción de Libertad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tutela la libertad física e individual."
+        },
+        {
+          "letter": "C",
+          "text": "Acción Popular",
+          "is_correct": true,
+          "feedback": "Correcto. Protege los intereses colectivos y la seguridad pública frente a amenazas o vulneraciones."
+        },
+        {
+          "letter": "D",
+          "text": "Acción de Cumplimiento",
+          "is_correct": false,
+          "feedback": "Incorrecto. Exige el cumplimiento de mandatos expresos de la ley o la CPE."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Acción Popular es una innovación constitucional que democratiza la defensa judicial de la naturaleza y los bienes comunitarios.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v13",
+      "statement": "Según el artículo 410 de la CPE, ¿qué estatus jurídico poseen los Tratados Internacionales en materia de Derechos Humanos ratificados por Bolivia?",
+      "context": "En Viacha, el estudiante Marcelo del Colegio Bolívar analiza la aplicación del control de convencionalidad en las sentencias constitucionales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Forman parte del bloque de constitucionalidad y prevalecen sobre la norma interna si declaran derechos más favorables",
+          "is_correct": true,
+          "feedback": "Correcto. Consagra el principio pro persona y la primacía de los DDHH."
+        },
+        {
+          "letter": "B",
+          "text": "Carecen de validez en el territorio nacional",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son de cumplimiento obligatorio e incondicional."
+        },
+        {
+          "letter": "C",
+          "text": "Son normas secundarias subordinadas a los decretos municipales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tienen rango supralegal e integran el bloque constitucional."
+        },
+        {
+          "letter": "D",
+          "text": "Requieren aprobación previa del Poder Judicial de España",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bolivia es un Estado soberano e independiente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El bloque de constitucionalidad integra los tratados de DDHH otorgándoles aplicación preferente si favorecen al ser humano.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v14",
+      "statement": "La Justicia Transicional y la creación de la Comisión de la Verdad en Bolivia se orientaron a:",
+      "context": "En Quillacollo, el estudiante Freddy del Colegio San Simón estudia los informes finales de la Comisión de la Verdad sobre las dictaduras militares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Clausurar los juicios por corrupción administrativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se enfoca en crímenes de dictaduras de facto."
+        },
+        {
+          "letter": "B",
+          "text": "Reconocer títulos nobiliarios a las familias coloniales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un principio descolonizador contrario a privilegios de casta."
+        },
+        {
+          "letter": "C",
+          "text": "Otorgar amnistía general a los golpistas militares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Combate la impunidad de los crímenes de lesa humanidad."
+        },
+        {
+          "letter": "D",
+          "text": "Investigar, esclarecer y sancionar los crímenes de lesa humanidad y violaciones a los DDHH durante las dictaduras (1964-1982)",
+          "is_correct": true,
+          "feedback": "Correcto. Busca garantizar la verdad, justicia, reparación a las víctimas y no repetición."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La Comisión de la Verdad reconstruye la memoria histórica rescatando la dignidad de las víctimas de la represión militar.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v15",
+      "statement": "El Código Niña, Niño y Adolescente (Ley 548) consagra como principio rector:",
+      "context": "En Sacaba, el estudiante René del Colegio Nacional Junín analiza las políticas de protección infantil en el marco del Código NNA.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La exclusión de los niños rurales de la escuela pública",
+          "is_correct": false,
+          "feedback": "Incorrecto. Garantiza la escolaridad gratuita e inclusiva para todos."
+        },
+        {
+          "letter": "B",
+          "text": "La suspensión de la patria potestad a familias de bajos ingresos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Busca fortalecer la convivencia y protección en la familia originaria."
+        },
+        {
+          "letter": "C",
+          "text": "El trabajo forzado obligatorio a partir de los 6 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Protege contra la explotación laboral infantil peligrosa."
+        },
+        {
+          "letter": "D",
+          "text": "El interés superior de la niña, niño y adolescente, garantizando su desarrollo integral y protección contra el maltrato",
+          "is_correct": true,
+          "feedback": "Correcto. El Estado y la familia deben asegurar prioritariamente sus derechos a la salud y educación."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La Ley 548 resguarda la infancia reconociendo a niñas y niños como sujetos plenos de derechos.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v16",
+      "statement": "La Ley N° 369 de las Personas Adultas Mayores garantiza a la población mayor de 60 años:",
+      "context": "En Montero, la estudiante Lidia de la Unidad Educativa Juan Pablo II evalúa el impacto de la Renta Dignidad en la calidad de vida de los adultos mayores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El acceso a la Renta Dignidad, trato preferente en servicios y gratuidad en trámites de identidad",
+          "is_correct": true,
+          "feedback": "Correcto. Protege la vejez mediante la redistribución del excedente de los hidrocarburos."
+        },
+        {
+          "letter": "B",
+          "text": "El cobro de impuestos adicionales por causa de jubilación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Otorga descuentos en tarifas de servicios y pasajes."
+        },
+        {
+          "letter": "C",
+          "text": "El trabajo obligatorio en faenas agrícolas de alta montaña",
+          "is_correct": false,
+          "feedback": "Incorrecto. Garantiza una vejez digna sin explotación física."
+        },
+        {
+          "letter": "D",
+          "text": "La pérdida de su derecho al voto en elecciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Conservan plenamente la totalidad de sus derechos ciudadanos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Renta Dignidad financiada por el IDH asegura un ingreso vital que disminuye la indigencia en la tercera edad.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v17",
+      "statement": "La Ley General para Personas con Discapacidad (Ley N° 223) establece como medida de inclusión laboral:",
+      "context": "En Riberalta, el estudiante Mateo del Colegio San Calixto examina los niveles de cumplimiento de la cuota laboral para personas con discapacidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La inserción obligatoria de al menos el 4% de personas con discapacidad en el sector público y el 2% en el privado",
+          "is_correct": true,
+          "feedback": "Correcto. Promueve la equiparación de oportunidades y la eliminación de barreras arquitectónicas."
+        },
+        {
+          "letter": "B",
+          "text": "La prohibición de contratación en instituciones estatales",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ley mandata su contratación obligatoria en planillas públicas."
+        },
+        {
+          "letter": "C",
+          "text": "La retención del 50% de sus salarios para fondos bancarios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Garantiza la remuneración justa en igualdad de condiciones."
+        },
+        {
+          "letter": "D",
+          "text": "La jubilación forzada sin goce de haber ni pensión",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asegura la inclusión social y laboral digna."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Ley 223 promueve la accesibilidad e inclusión efectiva combatiendo la discriminación hacia las personas con discapacidad.\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v18",
+      "statement": "De acuerdo con la Constitución, la ciudadanía boliviana se adquiere a los 18 años y otorga el derecho a:",
+      "context": "En Warnes, la estudiante Camila del Colegio Nacional Pichincha analiza el ejercicio de los derechos políticos a partir de los 18 años.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Adquirir tierras en la franja fronteriza de 50 km para venderlas a extranjeros",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Art. 262 prohíbe la propiedad extranjera en fronteras por seguridad nacional."
+        },
+        {
+          "letter": "B",
+          "text": "Disolver los concejos municipales de manera unipersonal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las revocatorias de mandato se realizan por consulta democrática."
+        },
+        {
+          "letter": "C",
+          "text": "Eximirse de pagar cualquier tipo de tributo o servicio a la patria",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los deberes constitucionales incluyen la tributación y defensa nacional."
+        },
+        {
+          "letter": "D",
+          "text": "Ejercer el sufragio, a ser electo para cargos públicos y a participar en la gestión estatal",
+          "is_correct": true,
+          "feedback": "Correcto. Confiere el goce pleno de los derechos políticos y civiles."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La ciudadanía habilita el ejercicio activo de la vida política en las tres formas de la Democracia Intercultural.\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v19",
+      "statement": "Al analizar la efectividad de la Ley 045 en la erradicación del racismo en Bolivia, ¿qué reto persiste en la sociedad?",
+      "context": "En Colcapirhua, el estudiante Gonzalo del Colegio Antonio Vaca Díez evalúa los desafíos en la aplicación de la Ley 045 en los medios de comunicación y escuelas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Restablecer el examen de castas de la época colonial",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un retroceso segregacionista opuesto a la descolonización."
+        },
+        {
+          "letter": "B",
+          "text": "Prohibir la libre circulación de ciudadanos entre departamentos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Atentaría contra el derecho de libre locomoción."
+        },
+        {
+          "letter": "C",
+          "text": "Superar las prácticas de racismo estructural e institucional latentes mediante la educación descolonizadora permanente",
+          "is_correct": true,
+          "feedback": "Correcto. El cambio punitivo debe ser acompañado de la transformación de prejuicios culturales en la sociedad."
+        },
+        {
+          "letter": "D",
+          "text": "Abolir los tribunales de justicia para evitar la sanción del racismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se requiere fortalecer la aplicación efectiva de sanciones legales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La lucha contra el racismo exige articular la sanción penal con una educación transformadora desde las aulas.\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v20",
+      "statement": "Al juzgar integralmente el avance de la Democracia Intercultural en Bolivia desde 2009, ¿cuál de las siguientes conclusiones posee mayor sustento socio-político?",
+      "context": "En Yacuiba, la estudiante Paola del Colegio Nacional Florida formula una evaluación crítica sobre los avances y retos de la Democracia Intercultural en Bolivia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ha eliminado la participación ciudadana en los referéndums y cabildos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Consagró institucionalmente la democracia directa y participativa."
+        },
+        {
+          "letter": "B",
+          "text": "Ha democratizado el acceso al poder de las mayorías indígenas e impulsado la paridad de género, aunque persiste el desafío de armonizar la justicia ordinaria con la indígena",
+          "is_correct": true,
+          "feedback": "Correcto. Innovó el constitucionalismo plurinacional resolviendo históricas exclusiones pero planteando retos institucionales de convivencia legal."
+        },
+        {
+          "letter": "C",
+          "text": "Ha retornado al sistema excluyente del voto censatario patriarcal del siglo XIX",
+          "is_correct": false,
+          "feedback": "Incorrecto. Expandió la participación democrática e incluyó la paridad de género."
+        },
+        {
+          "letter": "D",
+          "text": "Ha subordinado las leyes nacionales al dictamen de corporaciones multinacionales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El constitucionalismo plurinacional prioriza la soberanía popular nacional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Democracia Intercultural representa un hito de descolonización política en América Latina al integrar la diversidad comunitaria en el Estado.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "BO-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    }
+  ]
+}

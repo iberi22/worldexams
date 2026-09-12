@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-11-grade-11-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-12T16:46:07.579Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v1",
+      "statement": "La actual Constitución Política de Colombia fue expedida por",
+      "context": "En una clase de Sociales en Bogotá, una profesora pide a sus estudiantes recordar qué proceso histórico llevó a la expedición de la Constitución Política de 1991.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "el presidente de la República mediante decreto extraordinario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Carta de 1991 no fue expedida por decreto presidencial sino por una Asamblea Constituyente elegida popularmente."
+        },
+        {
+          "letter": "B",
+          "text": "el Congreso de la República en sesión ordinaria de 1990.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Congreso ordinario no tiene facultad de dictar una nueva Constitución; la Carta vigente fue producto de la Asamblea Constituyente."
+        },
+        {
+          "letter": "C",
+          "text": "la Asamblea Nacional Constituyente elegida el 9 de diciembre de 1990.",
+          "is_correct": true,
+          "feedback": "Correcto. Los colombianos eligieron el 9 de diciembre de 1990 a los delegatarios de la Asamblea que redactó y promulgó la Carta de 1991."
+        },
+        {
+          "letter": "D",
+          "text": "la Corte Constitucional en ejercicio de sus funciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Corte Constitucional fue creada por esa misma Constitución, no podía expedirla antes de existir formalmente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Constitución de 1991 fue producto de una crisis de representación que se expresó en la Séptima Papeleta, iniciativa ciudadana convertida en ley por el gobierno de César Gaviria. El 9 de diciembre de 1990 se eligió una Asamblea Nacional Constituyente de 70 miembros, integrada por partidos, movimientos cívicos, indígenas y guerrillas desmovilizadas (M-19, ADO, EPL, PRT y Quintín Lame), que sesionó en Bogotá y produjo la nueva Carta, vigente desde julio de 1991.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v2",
+      "statement": "Una innovación democrática central de la Constitución de 1991 fue",
+      "context": "Un profesor en Medellín explica a sus estudiantes que la nueva Constitución amplió la elección popular de mandatarios locales y regionales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "la elección popular directa de gobernadores departamentales, que antes eran designados por el presidente.",
+          "is_correct": true,
+          "feedback": "Correcto. Antes de 1991 los gobernadores eran designados por el ejecutivo; la Carta de 1991 estableció su elección popular por cuatro años."
+        },
+        {
+          "letter": "B",
+          "text": "la eliminación completa del Senado y la Cámara de Representantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Congreso bicameral se mantuvo; lo que se amplió fueron los mecanismos de participación ciudadana."
+        },
+        {
+          "letter": "C",
+          "text": "la supresión del voto programático para los alcaldes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por el contrario, la Constitución de 1991 mantuvo el voto programático como instrumento de rendición de cuentas a los alcaldes."
+        },
+        {
+          "letter": "D",
+          "text": "la prohibición de los partidos políticos con vocación de gobierno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Constitución amplió el pluralismo político, no lo restringió."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Constitución de 1991 profundizó la descentralización mediante la elección popular de gobernadores, hasta entonces agentes del presidente en los departamentos. También reconoció la autonomía municipal y departmental, los mecanismos de participación, los derechos de las minorías étnicas y la figura del voto programático, que obliga a los alcaldes a gobernar según el plan que presentaron a los ciudadanos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.82,
+      "bundle_id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v3",
+      "statement": "¿Cuáles son las tres entidades territoriales que, según la Constitución de 1991, conforman la organización político-administrativa de Colombia?",
+      "context": "Una estudiante de Cali investiga la organización territorial de Colombia y debe diferenciar las entidades que la componen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nación, departamento y corregimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Nación no es una entidad territorial en el sentido estricto; los departamentos, municipios y distritos son los niveles principales."
+        },
+        {
+          "letter": "B",
+          "text": "Estado central, regiones autónomas y cantones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colombia no tiene regiones autónomas ni cantones; su modelo es departamental, municipal y distrital."
+        },
+        {
+          "letter": "C",
+          "text": "Departamentos, municipios y distritos.",
+          "is_correct": true,
+          "feedback": "Correcto. El artículo 286 de la Constitución reconoce como entidades territoriales a departamentos, municipios y distritos."
+        },
+        {
+          "letter": "D",
+          "text": "Provincias, municipios y veredas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las provincias son asociaciones de municipios y las veredas son divisiones rurales internas, no entidades territoriales principales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El artículo 286 de la Constitución de 1991 establece que son entidades territoriales los departamentos, los municipios, los distritos y los territorios indígenas. Cada una goza de autonomía para la gestión de sus intereses dentro de los límites de la Constitución y la ley, con autoridades propias y un esquema de competencias que incluye salud, educación y servicios públicos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v4",
+      "statement": "La Constitución de 1991 incorporó mecanismos de participación democrática directa, entre los que se encuentran",
+      "context": "Un ciudadano de Neiva se pregunta qué mecanismos le permiten participar directamente en las decisiones públicas más allá del voto por candidatos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "la elección de jueces por voto popular universal y obligatorio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los jueces de la rama judicial son designados por concurso de méritos o por las corporaciones judiciales, no elegidos por voto ciudadano."
+        },
+        {
+          "letter": "B",
+          "text": "el referendo, el plebiscito, la consulta popular, la iniciativa legislativa y la revocatoria del mandato.",
+          "is_correct": true,
+          "feedback": "Correcto. Estos mecanismos están regulados principalmente por la Ley 134 de 1994 y la Ley Estatutaria 1757 de 2015."
+        },
+        {
+          "letter": "C",
+          "text": "el derecho exclusivo del presidente para convocar constituyentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La convocatoria a una Asamblea Constituyente es competencia del pueblo, no una facultad exclusiva del presidente."
+        },
+        {
+          "letter": "D",
+          "text": "el sufragio universal reservado únicamente a hombres mayores de edad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Constitución reconoció el voto femenino que ya regía desde 1957 y amplió derechos políticos a los jóvenes desde los 18 años."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los mecanismos de participación son instrumentos mediante los cuales los ciudadanos intervienen directamente en decisiones públicas. El referendo aprueba o rechaza una norma; el plebiscito convoca al pueblo sobre una decisión del ejecutivo; la consulta popular recoge opinión sobre temas de autoridad territorial; la iniciativa legislativa permite proponer proyectos de ley; y la revocatoria del mandato permite a los ciudadanos terminar anticipadamente el período de un gobernador o alcalde.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.78,
+      "bundle_id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v5",
+      "statement": "La principal fuente de ingresos de los municipios colombianos proviene actualmente de",
+      "context": "En un foro en Pasto, un concejal explica cómo se distribuye el dinero que llega a los municipios desde la Nación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "los aportes directos que el presidente entrega con cargo al presupuesto nacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los recursos no se entregan discrecionalmente por el presidente sino por el Sistema General de Participaciones, con criterios técnicos."
+        },
+        {
+          "letter": "B",
+          "text": "el Sistema General de Participaciones, SGP, originado en los ingresos corrientes de la Nación.",
+          "is_correct": true,
+          "feedback": "Correcto. El SGP, creado por el Acto Legislativo 01 de 2001, distribuye recursos a entidades territoriales para educación, salud y propósito general."
+        },
+        {
+          "letter": "C",
+          "text": "la venta internacional del petróleo extraído en zonas rurales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque existen regalías, la mayor parte de los ingresos ordinarios de los municipios proviene del SGP, no de exportaciones."
+        },
+        {
+          "letter": "D",
+          "text": "donaciones internacionales condicionadas a metas electorales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los municipios no dependen normalmente de donaciones internacionales; el grueso de los recursos son internos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Sistema General de Participaciones reemplazó las transferencias del antiguo situado fiscal y las participaciones municipales. Se financia con un porcentaje de los ingresos corrientes de la Nación y se distribuye con criterios de población, pobreza y eficiencia fiscal. Los municipios reciben así recursos para financiar salud, educación, agua potable y otros servicios, complementados con recursos propios como el impuesto predial y las regalías.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v6",
+      "statement": "La Constitución de 1991 reconoció a los pueblos indígenas de Colombia como entidad territorial, con el nombre específico de",
+      "context": "Un habitante de Quibdó le explica a un periodista cómo la Constitución reconoció a su comunidad como sujeto de derechos especiales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "resguardos coloniales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los resguardos son una figura histórica de origen colonial, pero la Constitución los moderniza dentro de los territorios indígenas."
+        },
+        {
+          "letter": "B",
+          "text": "parcialidades campesinas autónomas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las parcialidades son figuras del derecho agrario tradicional, no la categoría constitucional de los pueblos indígenas."
+        },
+        {
+          "letter": "C",
+          "text": "territorios indígenas, dotados de entidad territorial propia.",
+          "is_correct": true,
+          "feedback": "Correcto. El artículo 286 y el título XI de la Carta reconocen a los territorios indígenas como entidades territoriales con autonomía y jurisdicción especial."
+        },
+        {
+          "letter": "D",
+          "text": "asociaciones de municipios exclusivamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las asociaciones de municipios son una figura de cooperación municipal; los territorios indígenas tienen un estatus constitucional propio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Constitución de 1991 rompió con la tradición centralista al reconocer a los territorios indígenas como entidades territoriales con derecho a un régimen especial, paralelo al de departamentos y municipios. La jurisprudencia constitucional y la Ley 89 de 1890, actualizada con la Ley Orgánica de Ordenamiento Territorial, les reconoce funciones jurisdiccionales, autoridades propias y la posibilidad de administrar sus recursos conforme a sus usos y costumbres.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.73,
+      "bundle_id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v7",
+      "statement": "Una herramienta de planificación participativa del desarrollo departamental en Colombia es",
+      "context": "Una docente en Pereira explica que las regiones tienen mecanismos formales para organizarse y planificar su desarrollo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "el Plan Nacional de Desarrollo aprobado por el Senado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Plan Nacional de Desarrollo es el instrumento del nivel nacional; los departamentos tienen su propio plan de desarrollo."
+        },
+        {
+          "letter": "B",
+          "text": "el Plan de Desarrollo Departamental, construido participativamente por el gobernador y aprobado por la Asamblea Departamental.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada gobernador debe formular un Plan de Desarrollo para su período, concertado con actores del territorio y aprobado por la Asamblea Departamental."
+        },
+        {
+          "letter": "C",
+          "text": "el Plan de Ordenamiento Territorial exclusivamente para municipios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El POT es principalmente municipal; los departamentos cuentan con planes de desarrollo propios y directrices de ordenamiento."
+        },
+        {
+          "letter": "D",
+          "text": "la Agenda Parlamentaria anual del Congreso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La agenda del Congreso es del nivel nacional; los departamentos tienen su propio plan y su propio presupuesto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Plan de Desarrollo Departamental es el instrumento mediante el cual el gobernador articula sus objetivos de gobierno durante los cuatro años de su período. Se construye con participación de la sociedad civil, se aprueba por la Asamblea Departamental y debe guardar coherencia con el Plan Nacional de Desarrollo. Su articulación con los planes municipales y con los instrumentos de ordenamiento es clave para la gobernanza multinivel.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.72,
+      "bundle_id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v8",
+      "statement": "El mecanismo mediante el cual los ciudadanos pueden dar por terminado el mandato de un gobernador o alcalde antes de que cumpla su período se denomina",
+      "context": "Una mesa de trabajo en Tunja discute cómo los ciudadanos pueden controlar efectivamente a mandatarios elegidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "juicio político adelantado por la Procuraduría.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El juicio político o proceso disciplinario puede destituir al funcionario, pero no es un mecanismo ciudadano directo de revocatoria."
+        },
+        {
+          "letter": "B",
+          "text": "solicitud de renuncia elevada por el Concejo Municipal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Concejo no puede remover directamente al alcalde; ese es un proceso ante autoridades disciplinarias o judiciales."
+        },
+        {
+          "letter": "C",
+          "text": "revocatoria del mandato, regulada por la Ley 1757 de 2015.",
+          "is_correct": true,
+          "feedback": "Correcto. La revocatoria del mandato es un derecho político mediante el cual los ciudadanos terminan anticipadamente el período del elegido."
+        },
+        {
+          "letter": "D",
+          "text": "consulta previa ante la Corte Constitucional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La consulta previa se aplica a comunidades étnicas; la revocatoria es un mecanismo universal regulado por la ley estatutaria."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La revocatoria del mandato es un mecanismo de control político que la Constitución de 1991 introdujo y la Ley 1757 de 2015 regula. Para proceder, los ciudadanos deben recoger un número de firmas equivalente a no menos del 30% del censo electoral de la circunscripción. Si la votación favorable supera el 50% de quienes acudan, se convoca a nuevas elecciones, salvo en el último año del período.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v9",
+      "statement": "Una diferencia clave entre el modelo centralista previo a 1991 y el modelo descentralizado posterior es que",
+      "context": "Un analista en Bogotá compara el modelo centralista anterior con el descentralizado posterior a 1991.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "antes los municipios recaudaban menos impuestos que después de 1991.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La afirmación es cierta pero no captura la diferencia estructural más relevante del modelo."
+        },
+        {
+          "letter": "B",
+          "text": "después de 1991 desapareció por completo la intervención nacional en los territorios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Nación sigue interviniendo con políticas sectoriales y transferencias, pero con otro enfoque."
+        },
+        {
+          "letter": "C",
+          "text": "antes los mandatarios locales eran agentes del presidente y ahora son elegidos por voto popular con autonomía relativa.",
+          "is_correct": true,
+          "feedback": "Correcto. La descentralización política cambió el carácter del poder local, pasando de la designación a la elección popular con plan de gobierno propio."
+        },
+        {
+          "letter": "D",
+          "text": "antes existían más mecanismos de participación que ahora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por el contrario, los mecanismos de participación se multiplicaron tras 1991."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La descentralización colombiana combina tres dimensiones: política, fiscal y administrativa. La política pasó de mandatarios designados a elegidos; la fiscal distribuyó recursos del presupuesto nacional vía transferencias; la administrativa transfirió competencias en servicios como salud, educación y agua potable. Cada una requirió normas y arreglos institucionales que aún hoy se ajustan para corregir desequilibrios entre regiones.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v10",
+      "statement": "El Sistema General de Regalías colombiano fue reformado mediante el Acto Legislativo 05 de 2011 con el objetivo principal de",
+      "context": "Un investigador en Bucaramanga evalúa el impacto de las regalías en los municipios productores de recursos naturales no renovables.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "concentrar los recursos de regalías en Bogotá para reducir la desigualdad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reforma buscó precisamente redistribuir las regalías para reducir las desigualdades territoriales, no concentrarlas."
+        },
+        {
+          "letter": "B",
+          "text": "distribuir las regalías con criterios de equidad regional, ahorro intergeneracional y competitividad.",
+          "is_correct": true,
+          "feedback": "Correcto. El SGR distribuye ingresos por regalías entre regiones productoras y no productoras, ahorra parte para el futuro y financia proyectos de impacto regional."
+        },
+        {
+          "letter": "C",
+          "text": "eliminar las regalías para todos los municipios del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las regalías se mantienen; lo que cambió fue su forma de distribución y administración."
+        },
+        {
+          "letter": "D",
+          "text": "entregar todas las regalías al sector privado extranjero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El SGR administra recursos públicos con participación de entidades territoriales y universidades."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Antes de 2011, los municipios y departamentos productores recibían la mayor parte de las regalías, generando enormes diferencias entre regiones con recursos y sin ellos. La reforma creó el Sistema General de Regalías, integrado por Fondos de Ahorro, Estabilización, Desarrollo Regional, de Ciencia y Tecnología y de Compensación Regional. Así se buscó equidad territorial y se obligó a que los proyectos financiados sean viables y auditables.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.63,
+      "bundle_id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v11",
+      "statement": "La participación efectiva de la ciudadanía en los planes de desarrollo territorial se garantiza principalmente a través de",
+      "context": "Una comunidad de Riohacha pregunta al alcalde cómo puede incidir en decisiones sobre su territorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "la elección del presidente de la República cada cuatro años.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La elección presidencial es una herramienta de participación nacional, no territorial directa."
+        },
+        {
+          "letter": "B",
+          "text": "la formulación participativa del plan de desarrollo en audiencias públicas y consejos territoriales de planeación.",
+          "is_correct": true,
+          "feedback": "Correcto. La Ley 152 de 1994 regula los Consejos Territoriales de Planeación como instancias de concertación entre gobierno y sociedad civil."
+        },
+        {
+          "letter": "C",
+          "text": "la consulta popular automática sobre cualquier asunto municipal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La consulta popular es un mecanismo excepcional regulado por la ley estatutaria, no automático."
+        },
+        {
+          "letter": "D",
+          "text": "el voto obligatorio para los funcionarios públicos del municipio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El voto es universal para los ciudadanos; los funcionarios son elegidos, no votantes de su propio proceso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los Consejos Territoriales de Planeación son cuerpos colegiados integrados por representantes de sectores sociales, económicos y comunitarios. Aunque su concepto es consultivo y no vinculante, permiten que la ciudadanía dialogue con el gobierno sobre prioridades del plan de desarrollo. Las audiencias públicas complementan esa deliberación y dan legitimidad a las decisiones, además de permitir ajustes antes de la aprobación por la corporación territorial correspondiente.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.62,
+      "bundle_id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v12",
+      "statement": "La figura constitucional que permite a dos o más municipios asociarse para gestionar conjuntamente servicios públicos, obras o funciones es",
+      "context": "Una asociación de municipios del Magdalena Medio discute cómo prestar servicios públicos de manera conjunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "la fusión obligatoria de entidades territoriales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fusión implica pérdida de identidad del municipio; las asociaciones son acuerdos voluntarios."
+        },
+        {
+          "letter": "B",
+          "text": "la asociación de municipios, regulada por la Ley 1454 de 2011, Ley Orgánica de Ordenamiento Territorial.",
+          "is_correct": true,
+          "feedback": "Correcto. La LOOT 1454 de 2011 desarrolla las asociaciones de municipios y regiones como esquemas asociativos territoriales."
+        },
+        {
+          "letter": "C",
+          "text": "el comisariato departamental.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El comisariato departamental era una figura del siglo XIX; la asociación de municipios es la figura contemporánea."
+        },
+        {
+          "letter": "D",
+          "text": "la segregación municipal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La segregación es la creación de un nuevo municipio a partir de uno existente, no la asociación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Ley Orgánica de Ordenamiento Territorial (LOOT) define tres tipos de esquemas asociativos: las asociaciones de municipios, las áreas metropolitanas y las regiones administrativas y de planificación, además de provincias y regiones de planeación. Cada figura responde a necesidades específicas de coordinación y manejo conjunto de servicios o proyectos que sobrepasan la capacidad de un solo municipio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v13",
+      "statement": "La diferencia entre descentralización y autonomía territorial en Colombia es que",
+      "context": "Un estudiante de Ibagué compara los conceptos de autonomía y descentralización.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "son sinónimos exactos en la Constitución de 1991.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque se relacionan, la descentralización es la distribución de competencias y recursos, mientras que la autonomía incluye el autogobierno y la elección de autoridades."
+        },
+        {
+          "letter": "B",
+          "text": "la autonomía solo aplica al nivel departamental.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La autonomía se aplica a todas las entidades territoriales: departamentos, municipios, distritos y territorios indígenas."
+        },
+        {
+          "letter": "C",
+          "text": "la descentralización transfiere competencias y recursos desde la Nación, mientras la autonomía reconoce capacidad de autogobierno a las entidades territoriales.",
+          "is_correct": true,
+          "feedback": "Correcto. Descentralización y autonomía son complementarias: la primera opera en el plano fiscal y administrativo, la segunda en el político y normativo."
+        },
+        {
+          "letter": "D",
+          "text": "la descentralización desapareció con la reforma de 1991.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Constitución de 1991 amplió la descentralización, no la eliminó."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La descentralización es el proceso por el cual la Nación transfiere competencias, recursos y responsabilidades a las entidades territoriales. La autonomía es la capacidad de esas entidades para gobernarse por sus propias autoridades, dictar ciertas normas y administrar sus asuntos dentro de los límites de la Constitución y la ley. La autonomía sin descentralización fiscal quedaría vacía; la descentralización sin autonomía política se reduciría a ejecutar mandatos del nivel nacional.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v14",
+      "statement": "El Sistema Nacional de Evaluación de Gestión y Resultados, SINERGIA, tiene como propósito principal",
+      "context": "Una funcionaria de Armenia explica cómo se evalúan los resultados de la gestión territorial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "medir y hacer seguimiento público a los indicadores de gestión del gobierno nacional, departamental y municipal.",
+          "is_correct": true,
+          "feedback": "Correcto. SINERGIA consolida indicadores de gestión y resultado para promover la transparencia y la rendición de cuentas."
+        },
+        {
+          "letter": "B",
+          "text": "sustituir al DANE como productor de estadísticas oficiales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. SINERGIA se alimenta de fuentes oficiales, incluido el DANE, pero no lo reemplaza."
+        },
+        {
+          "letter": "C",
+          "text": "elaborar los planes de desarrollo territoriales por los alcaldes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los planes de desarrollo son formulados por el alcalde o gobernador, con asesoría de planeación, no por SINERGIA."
+        },
+        {
+          "letter": "D",
+          "text": "reemplazar al Banco de la República en política monetaria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Banco de la República tiene autonomía constitucional propia y funciones distintas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "SINERGIA es una herramienta del Departamento Nacional de Planeación que articula indicadores de producto, resultado e impacto de políticas públicas. Permite a la ciudadanía consultar avances por sector y por entidad territorial, y promueve la rendición de cuentas al comparar metas con resultados. Su existencia refleja la consolidación del ciclo de planeación, ejecución, seguimiento y evaluación en el Estado colombiano.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.58,
+      "bundle_id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v15",
+      "statement": "Una crítica recurrente al sistema político colombiano desde 1991 es que",
+      "context": "En una clase de Cúcuta, los estudiantes discuten si el sistema político colombiano permite o limita la representación de fuerzas minoritarias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "existen demasiados partidos, lo que impide gobernar con estabilidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por el contrario, una crítica frecuente es la concentración en pocos partidos en algunas regiones y la fragmentación atomizada en otras."
+        },
+        {
+          "letter": "B",
+          "text": "persisten obstáculos prácticos para la competencia electoral equitativa y la representación efectiva de minorías políticas y sociales.",
+          "is_correct": true,
+          "feedback": "Correcto. Las altas barreras de entrada, la financiación inequitativa y la fragmentación del sistema de partidos afectan la competencia democrática."
+        },
+        {
+          "letter": "C",
+          "text": "el voto programático se aplica estrictamente y limita la rendición de cuentas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El voto programático es poco exigido en la práctica, lo cual limita la rendición de cuentas."
+        },
+        {
+          "letter": "D",
+          "text": "las circunscripciones especiales de paz garantizan pluripartidismo sin problemas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las circunscripciones de paz fueron transitorias; persisten otros problemas estructurales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Desde la Constitución de 1991 se han planteado reformas políticas que buscan, entre otras cosas, modificar el sistema de financiación de campañas, reducir la fragmentación partidista, fortalecer la segunda vuelta presidencial a nivel territorial y mejorar la rendición de cuentas mediante el voto programático. Cada reforma enfrenta debates entre quienes piden mayor estabilidad y quienes defienden mayor inclusión.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.57,
+      "bundle_id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v16",
+      "statement": "Un área metropolitana en Colombia, según la Ley 128 de 1994 reformada por la Ley 1625 de 2013, es",
+      "context": "Un equipo de investigadores de Popayán evalúa el papel de las áreas metropolitanas como figuras asociativas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "una nueva entidad territorial que reemplaza a los municipios que la conforman.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El área metropolitana no reemplaza a los municipios; los integra en una autoridad común para temas específicos."
+        },
+        {
+          "letter": "B",
+          "text": "una entidad administrativa formada por dos o más municipios con vínculos económicos y sociales, dotada de una autoridad metropolitana.",
+          "is_correct": true,
+          "feedback": "Correcto. Las áreas metropolitanas coordinan servicios públicos, transporte, ambiente y ordenamiento territorial entre municipios cercanos."
+        },
+        {
+          "letter": "C",
+          "text": "una asociación obligatoria impuesta por el gobierno central.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conformación requiere voluntad de los municipios y aprobación de la ley que la crea; no es obligatoria."
+        },
+        {
+          "letter": "D",
+          "text": "una región autónoma con soberanía legislativa propia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las áreas metropolitanas no tienen soberanía legislativa; coordinan servicios en el marco de la ley."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las áreas metropolitanas, como el Área Metropolitana del Valle de Aburrá, de Barranquilla o de Bucaramanga, permiten planificar y ejecutar proyectos de impacto regional: transporte masivo, gestión ambiental, tratamiento de aguas y residuos. Su autoridad metropolitana es elegida por los alcaldes de los municipios miembros, lo cual mantiene la autonomía municipal al tiempo que facilita decisiones de escala regional.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.56,
+      "bundle_id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v17",
+      "statement": "Entre las propuestas discutidas en los últimos años para una reforma política en Colombia se encuentran todas las siguientes, excepto",
+      "context": "Un senador en Bogotá prepara un proyecto de ley para reformar el sistema de partidos y la organización electoral.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "listas cerradas y bloqueadas para reducir la fragmentación de los partidos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las listas cerradas sí han sido propuestas como mecanismo para fortalecer la disciplina partidista."
+        },
+        {
+          "letter": "B",
+          "text": "financiación estatal predominante de las campañas electorales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La financiación estatal de campañas es una propuesta recurrente para reducir la influencia de dinero privado."
+        },
+        {
+          "letter": "C",
+          "text": "eliminación del voto programático como mecanismo de rendición de cuentas.",
+          "is_correct": true,
+          "feedback": "Correcto. Por el contrario, los debates recientes buscan fortalecer el voto programático, no eliminarlo."
+        },
+        {
+          "letter": "D",
+          "text": "segunda vuelta para elección de gobernadores y alcaldes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La segunda vuelta para mandatarios locales es una propuesta concreta para fortalecer legitimidad y reducir extremos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las propuestas de reforma política suelen girar en torno a cinco ejes: reglas de partidos y listas, financiación de campañas, sistemas electorales, mecanismos de participación y rendición de cuentas, y reformas a la administración pública. Discutir cuáles son más convenientes requiere sopesar estabilidad, representatividad, gobernabilidad y transparencia, reconociendo que cada cambio redistribuye poder entre actores.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.5,
+      "bundle_id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v18",
+      "statement": "Una tensión no resuelta del modelo descentralizador colombiano es",
+      "context": "Una mesa de expertos en Villavicencio discute si conviene profundizar la descentralización o recentralizar servicios clave.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "que las entidades territoriales recaudan todos los impuestos nacionales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los principales impuestos nacionales siguen siendo recaudados por la DIAN; los municipios recaudan esencialmente tributos locales."
+        },
+        {
+          "letter": "B",
+          "text": "que la autonomía local coexiste con marcadas desigualdades regionales en capacidades técnicas, financieras y de gestión.",
+          "is_correct": true,
+          "feedback": "Correcto. Municipios con baja capacidad institucional o pocos recursos propios dependen de transferencias sin poder garantizar servicios de calidad."
+        },
+        {
+          "letter": "C",
+          "text": "que los departamentos tienen prohibida cualquier función en educación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los departamentos mantienen funciones en educación y comparten otras con los municipios certificados."
+        },
+        {
+          "letter": "D",
+          "text": "que el SGP fue eliminado por la reforma de 2011.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El SGP no fue eliminado; coexiste con el Sistema General de Regalías."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La descentralización enfrenta en Colombia un dilema estructural: municipios con alta capacidad técnica y financiera prestan buenos servicios, mientras que los más pequeños y pobres dependen de transferencias y presentan debilidades en planeación, contratación y seguimiento. Esto ha generado propuestas como la asociatividad obligatoria, la regionalización y la creación de capacidades institucionales, aún en debate.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.48,
+      "bundle_id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v19",
+      "statement": "Una condición indispensable para que una Asamblea Constituyente convocada en Colombia sea legítima y conforme al orden constitucional es",
+      "context": "Una organización cívica en Bogotá propone una asamblea constituyente para reformar aspectos de la Constitución de 1991.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "que sea convocada unilateralmente por el presidente en ejercicio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La convocatoria no corresponde en exclusiva al presidente; requiere un mecanismo democrático regulado."
+        },
+        {
+          "letter": "B",
+          "text": "que sea convocada por el pueblo mediante ley aprobada por el Congreso de la República, conforme a mecanismos de participación.",
+          "is_correct": true,
+          "feedback": "Correcto. El artículo 376 de la Constitución dispone que la convocatoria se hará por ley aprobada por mayoría absoluta del Congreso."
+        },
+        {
+          "letter": "C",
+          "text": "que la convoquen las Fuerzas Militares en consejo de guerra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las Fuerzas Militares no tienen facultad constitucional para convocar asambleas constituyentes."
+        },
+        {
+          "letter": "D",
+          "text": "que sea decidida por los Concejos Municipales sin intervención nacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los Concejos no tienen competencia para convocar una Asamblea Nacional Constituyente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El artículo 376 de la Constitución prevé que la Asamblea Constituyente sea convocada por el pueblo mediante ley aprobada por mayoría absoluta del Congreso. También contempla la convocatoria por iniciativa popular con el respaldo de al menos un tercio de los ciudadanos inscritos en el censo electoral. Cualquier otro mecanismo carece de legitimidad constitucional y arriesga ruptura del orden democrático.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.46,
+      "bundle_id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle-v20",
+      "statement": "Para fortalecer la democracia local y la descentralización en regiones apartadas, una combinación razonable de políticas públicas es",
+      "context": "En un foro en Leticia, reflexionan sobre cómo profundizar la democracia en regiones apartadas del centro del país.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "concentrar toda la inversión pública en la capital del departamento respectivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Concentrar recursos en la capital suele profundizar desigualdades con los municipios más alejados."
+        },
+        {
+          "letter": "B",
+          "text": "fortalecer capacidades técnicas municipales, garantizar recursos estables y promover la participación de comunidades en decisiones locales.",
+          "is_correct": true,
+          "feedback": "Correcto. La sostenibilidad de la descentralización depende de capacidades, recursos predecibles y participación efectiva."
+        },
+        {
+          "letter": "C",
+          "text": "eliminar las transferencias a municipios con baja población.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las transferencias son justamente un mecanismo para compensar las desigualdades territoriales."
+        },
+        {
+          "letter": "D",
+          "text": "suprimir los mecanismos de participación para evitar demoras en las decisiones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La participación es un derecho constitucional y un factor de legitimidad de las decisiones locales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las regiones apartadas suelen combinar baja densidad poblacional, lejanía geográfica y debilidad institucional. Para que la descentralización sea efectiva en ellas se requiere reforzar las capacidades del talento humano local, asegurar ingresos estables más allá de los coyunturales y abrir canales reales para que las comunidades incidan en las decisiones que las afectan. La inversión social integral y la conectividad son complementarios indispensables.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.44,
+      "bundle_id": "CO-SOC-11-2026-W11-reforma-politica-y-descentralizacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "ar",
+    "pack_id": "ar-week-16-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T16:46:07.205Z"
+  },
+  "questions": [
+    {
+      "id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v1",
+      "statement": "Una solución acuosa diluida a $25^\\circ\\text{C}$ presenta $[\\text{H}^+] = 10^{-2}\\text{ M}$. ¿Cuál es su valor de pH y la clasificación de la solución?",
+      "context": "Evaluación de acidez y pH en muestras ambientales e industriales Caso N° 1.\n**ID:** AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v1\n**Bloom:** Remember\n**EJE:** Química General\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\text{pH} = 2$, solución ácida",
+          "is_correct": true,
+          "feedback": "Correcto. $\\text{pH} = -\\log_{10}(10^{-2}) = 2$. Un pH de 2 clasifica a la solución como ácida."
+        },
+        {
+          "letter": "B",
+          "text": "$\\text{pH} = -2$, solución ácida",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo."
+        },
+        {
+          "letter": "C",
+          "text": "$\\text{pOH} = 12$, solución no neutra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor representa el pOH, no la definición del pH pedido."
+        },
+        {
+          "letter": "D",
+          "text": "$\\text{pH} = 12$, solución saturada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó una constante al valor real del logaritmo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El pH se calcula como $\\text{pH} = -\\log_{10}[\\text{H}^+] = -\\log_{10}(10^{-2}) = 2$. A $25^\\circ\\text{C}$, $\\text{pH} < 7$ es ácido, $=7$ es neutro y $>7$ es básico.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v2",
+      "statement": "Una solución acuosa diluida a $25^\\circ\\text{C}$ presenta $[\\text{H}^+] = 10^{-3}\\text{ M}$. ¿Cuál es su valor de pH y la clasificación de la solución?",
+      "context": "Evaluación de acidez y pH en muestras ambientales e industriales Caso N° 2.\n**ID:** AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v2\n**Bloom:** Remember\n**EJE:** Química General\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\text{pH} = 3$, solución ácida",
+          "is_correct": true,
+          "feedback": "Correcto. $\\text{pH} = -\\log_{10}(10^{-3}) = 3$. Un pH de 3 clasifica a la solución como ácida."
+        },
+        {
+          "letter": "B",
+          "text": "$\\text{pH} = -3$, solución ácida",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo."
+        },
+        {
+          "letter": "C",
+          "text": "$\\text{pOH} = 11$, solución no neutra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor representa el pOH, no la definición del pH pedido."
+        },
+        {
+          "letter": "D",
+          "text": "$\\text{pH} = 13$, solución saturada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó una constante al valor real del logaritmo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El pH se calcula como $\\text{pH} = -\\log_{10}[\\text{H}^+] = -\\log_{10}(10^{-3}) = 3$. A $25^\\circ\\text{C}$, $\\text{pH} < 7$ es ácido, $=7$ es neutro y $>7$ es básico.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v3",
+      "statement": "Una solución acuosa diluida a $25^\\circ\\text{C}$ presenta $[\\text{H}^+] = 10^{-4}\\text{ M}$. ¿Cuál es su valor de pH y la clasificación de la solución?",
+      "context": "Evaluación de acidez y pH en muestras ambientales e industriales Caso N° 3.\n**ID:** AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v3\n**Bloom:** Understand\n**EJE:** Química General\n**Expected_Success:** 0.86",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\text{pH} = 4$, solución ácida",
+          "is_correct": true,
+          "feedback": "Correcto. $\\text{pH} = -\\log_{10}(10^{-4}) = 4$. Un pH de 4 clasifica a la solución como ácida."
+        },
+        {
+          "letter": "B",
+          "text": "$\\text{pH} = -4$, solución ácida",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo."
+        },
+        {
+          "letter": "C",
+          "text": "$\\text{pOH} = 10$, solución no neutra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor representa el pOH, no la definición del pH pedido."
+        },
+        {
+          "letter": "D",
+          "text": "$\\text{pH} = 14$, solución saturada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó una constante al valor real del logaritmo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El pH se calcula como $\\text{pH} = -\\log_{10}[\\text{H}^+] = -\\log_{10}(10^{-4}) = 4$. A $25^\\circ\\text{C}$, $\\text{pH} < 7$ es ácido, $=7$ es neutro y $>7$ es básico.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.86,
+      "bundle_id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v4",
+      "statement": "Una solución acuosa diluida a $25^\\circ\\text{C}$ presenta $[\\text{H}^+] = 10^{-5}\\text{ M}$. ¿Cuál es su valor de pH y la clasificación de la solución?",
+      "context": "Evaluación de acidez y pH en muestras ambientales e industriales Caso N° 4.\n**ID:** AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v4\n**Bloom:** Understand\n**EJE:** Química General\n**Expected_Success:** 0.84",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\text{pH} = 5$, solución ácida",
+          "is_correct": true,
+          "feedback": "Correcto. $\\text{pH} = -\\log_{10}(10^{-5}) = 5$. Un pH de 5 clasifica a la solución como ácida."
+        },
+        {
+          "letter": "B",
+          "text": "$\\text{pH} = -5$, solución ácida",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo."
+        },
+        {
+          "letter": "C",
+          "text": "$\\text{pOH} = 9$, solución no neutra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor representa el pOH, no la definición del pH pedido."
+        },
+        {
+          "letter": "D",
+          "text": "$\\text{pH} = 15$, solución saturada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó una constante al valor real del logaritmo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El pH se calcula como $\\text{pH} = -\\log_{10}[\\text{H}^+] = -\\log_{10}(10^{-5}) = 5$. A $25^\\circ\\text{C}$, $\\text{pH} < 7$ es ácido, $=7$ es neutro y $>7$ es básico.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v5",
+      "statement": "Una solución acuosa diluida a $25^\\circ\\text{C}$ presenta $[\\text{H}^+] = 10^{-6}\\text{ M}$. ¿Cuál es su valor de pH y la clasificación de la solución?",
+      "context": "Evaluación de acidez y pH en muestras ambientales e industriales Caso N° 5.\n**ID:** AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v5\n**Bloom:** Understand\n**EJE:** Química General\n**Expected_Success:** 0.82",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\text{pH} = 6$, solución ácida",
+          "is_correct": true,
+          "feedback": "Correcto. $\\text{pH} = -\\log_{10}(10^{-6}) = 6$. Un pH de 6 clasifica a la solución como ácida."
+        },
+        {
+          "letter": "B",
+          "text": "$\\text{pH} = -6$, solución ácida",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo."
+        },
+        {
+          "letter": "C",
+          "text": "$\\text{pOH} = 8$, solución no neutra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor representa el pOH, no la definición del pH pedido."
+        },
+        {
+          "letter": "D",
+          "text": "$\\text{pH} = 16$, solución saturada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó una constante al valor real del logaritmo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El pH se calcula como $\\text{pH} = -\\log_{10}[\\text{H}^+] = -\\log_{10}(10^{-6}) = 6$. A $25^\\circ\\text{C}$, $\\text{pH} < 7$ es ácido, $=7$ es neutro y $>7$ es básico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v6",
+      "statement": "Una solución acuosa diluida a $25^\\circ\\text{C}$ presenta $[\\text{H}^+] = 10^{-7}\\text{ M}$. ¿Cuál es su valor de pH y la clasificación de la solución?",
+      "context": "Evaluación de acidez y pH en muestras ambientales e industriales Caso N° 6.\n**ID:** AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v6\n**Bloom:** Apply\n**EJE:** Química General\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\text{pH} = 7$, solución neutra",
+          "is_correct": true,
+          "feedback": "Correcto. $\\text{pH} = -\\log_{10}(10^{-7}) = 7$. Un pH de 7 clasifica a la solución como neutra."
+        },
+        {
+          "letter": "B",
+          "text": "$\\text{pH} = -7$, solución neutra",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo."
+        },
+        {
+          "letter": "C",
+          "text": "$\\text{pOH} = 7$, solución no neutra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor representa el pOH, no la definición del pH pedido."
+        },
+        {
+          "letter": "D",
+          "text": "$\\text{pH} = 17$, solución saturada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó una constante al valor real del logaritmo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El pH se calcula como $\\text{pH} = -\\log_{10}[\\text{H}^+] = -\\log_{10}(10^{-7}) = 7$. A $25^\\circ\\text{C}$, $\\text{pH} < 7$ es ácido, $=7$ es neutro y $>7$ es básico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v7",
+      "statement": "Una solución acuosa diluida a $25^\\circ\\text{C}$ presenta $[\\text{H}^+] = 10^{-8}\\text{ M}$. ¿Cuál es su valor de pH y la clasificación de la solución?",
+      "context": "Evaluación de acidez y pH en muestras ambientales e industriales Caso N° 7.\n**ID:** AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v7\n**Bloom:** Apply\n**EJE:** Química General\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\text{pH} = 8$, solución alcalina",
+          "is_correct": true,
+          "feedback": "Correcto. $\\text{pH} = -\\log_{10}(10^{-8}) = 8$. Un pH de 8 clasifica a la solución como alcalina."
+        },
+        {
+          "letter": "B",
+          "text": "$\\text{pH} = -8$, solución alcalina",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo."
+        },
+        {
+          "letter": "C",
+          "text": "$\\text{pOH} = 6$, solución no neutra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor representa el pOH, no la definición del pH pedido."
+        },
+        {
+          "letter": "D",
+          "text": "$\\text{pH} = 18$, solución saturada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó una constante al valor real del logaritmo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El pH se calcula como $\\text{pH} = -\\log_{10}[\\text{H}^+] = -\\log_{10}(10^{-8}) = 8$. A $25^\\circ\\text{C}$, $\\text{pH} < 7$ es ácido, $=7$ es neutro y $>7$ es básico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v8",
+      "statement": "Una solución acuosa diluida a $25^\\circ\\text{C}$ presenta $[\\text{H}^+] = 10^{-9}\\text{ M}$. ¿Cuál es su valor de pH y la clasificación de la solución?",
+      "context": "Evaluación de acidez y pH en muestras ambientales e industriales Caso N° 8.\n**ID:** AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v8\n**Bloom:** Apply\n**EJE:** Química General\n**Expected_Success:** 0.76",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\text{pH} = 9$, solución alcalina",
+          "is_correct": true,
+          "feedback": "Correcto. $\\text{pH} = -\\log_{10}(10^{-9}) = 9$. Un pH de 9 clasifica a la solución como alcalina."
+        },
+        {
+          "letter": "B",
+          "text": "$\\text{pH} = -9$, solución alcalina",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo."
+        },
+        {
+          "letter": "C",
+          "text": "$\\text{pOH} = 5$, solución no neutra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor representa el pOH, no la definición del pH pedido."
+        },
+        {
+          "letter": "D",
+          "text": "$\\text{pH} = 19$, solución saturada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó una constante al valor real del logaritmo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El pH se calcula como $\\text{pH} = -\\log_{10}[\\text{H}^+] = -\\log_{10}(10^{-9}) = 9$. A $25^\\circ\\text{C}$, $\\text{pH} < 7$ es ácido, $=7$ es neutro y $>7$ es básico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.76,
+      "bundle_id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v9",
+      "statement": "Una solución acuosa diluida a $25^\\circ\\text{C}$ presenta $[\\text{H}^+] = 10^{-10}\\text{ M}$. ¿Cuál es su valor de pH y la clasificación de la solución?",
+      "context": "Evaluación de acidez y pH en muestras ambientales e industriales Caso N° 9.\n**ID:** AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v9\n**Bloom:** Apply\n**EJE:** Química General\n**Expected_Success:** 0.74",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\text{pH} = 10$, solución alcalina",
+          "is_correct": true,
+          "feedback": "Correcto. $\\text{pH} = -\\log_{10}(10^{-10}) = 10$. Un pH de 10 clasifica a la solución como alcalina."
+        },
+        {
+          "letter": "B",
+          "text": "$\\text{pH} = -10$, solución alcalina",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo."
+        },
+        {
+          "letter": "C",
+          "text": "$\\text{pOH} = 4$, solución no neutra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor representa el pOH, no la definición del pH pedido."
+        },
+        {
+          "letter": "D",
+          "text": "$\\text{pH} = 20$, solución saturada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó una constante al valor real del logaritmo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El pH se calcula como $\\text{pH} = -\\log_{10}[\\text{H}^+] = -\\log_{10}(10^{-10}) = 10$. A $25^\\circ\\text{C}$, $\\text{pH} < 7$ es ácido, $=7$ es neutro y $>7$ es básico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.74,
+      "bundle_id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v10",
+      "statement": "Una solución acuosa diluida a $25^\\circ\\text{C}$ presenta $[\\text{H}^+] = 10^{-11}\\text{ M}$. ¿Cuál es su valor de pH y la clasificación de la solución?",
+      "context": "Evaluación de acidez y pH en muestras ambientales e industriales Caso N° 10.\n**ID:** AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v10\n**Bloom:** Apply\n**EJE:** Química General\n**Expected_Success:** 0.72",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\text{pH} = 11$, solución alcalina",
+          "is_correct": true,
+          "feedback": "Correcto. $\\text{pH} = -\\log_{10}(10^{-11}) = 11$. Un pH de 11 clasifica a la solución como alcalina."
+        },
+        {
+          "letter": "B",
+          "text": "$\\text{pH} = -11$, solución alcalina",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo."
+        },
+        {
+          "letter": "C",
+          "text": "$\\text{pOH} = 3$, solución no neutra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor representa el pOH, no la definición del pH pedido."
+        },
+        {
+          "letter": "D",
+          "text": "$\\text{pH} = 21$, solución saturada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó una constante al valor real del logaritmo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El pH se calcula como $\\text{pH} = -\\log_{10}[\\text{H}^+] = -\\log_{10}(10^{-11}) = 11$. A $25^\\circ\\text{C}$, $\\text{pH} < 7$ es ácido, $=7$ es neutro y $>7$ es básico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v11",
+      "statement": "Una solución acuosa diluida a $25^\\circ\\text{C}$ presenta $[\\text{H}^+] = 10^{-12}\\text{ M}$. ¿Cuál es su valor de pH y la clasificación de la solución?",
+      "context": "Evaluación de acidez y pH en muestras ambientales e industriales Caso N° 11.\n**ID:** AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v11\n**Bloom:** Analyze\n**EJE:** Química General\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\text{pH} = 12$, solución alcalina",
+          "is_correct": true,
+          "feedback": "Correcto. $\\text{pH} = -\\log_{10}(10^{-12}) = 12$. Un pH de 12 clasifica a la solución como alcalina."
+        },
+        {
+          "letter": "B",
+          "text": "$\\text{pH} = -12$, solución alcalina",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo."
+        },
+        {
+          "letter": "C",
+          "text": "$\\text{pOH} = 2$, solución no neutra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor representa el pOH, no la definición del pH pedido."
+        },
+        {
+          "letter": "D",
+          "text": "$\\text{pH} = 22$, solución saturada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó una constante al valor real del logaritmo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El pH se calcula como $\\text{pH} = -\\log_{10}[\\text{H}^+] = -\\log_{10}(10^{-12}) = 12$. A $25^\\circ\\text{C}$, $\\text{pH} < 7$ es ácido, $=7$ es neutro y $>7$ es básico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v12",
+      "statement": "Una solución acuosa diluida a $25^\\circ\\text{C}$ presenta $[\\text{H}^+] = 10^{-1}\\text{ M}$. ¿Cuál es su valor de pH y la clasificación de la solución?",
+      "context": "Evaluación de acidez y pH en muestras ambientales e industriales Caso N° 12.\n**ID:** AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v12\n**Bloom:** Analyze\n**EJE:** Química General\n**Expected_Success:** 0.68",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\text{pH} = 1$, solución ácida",
+          "is_correct": true,
+          "feedback": "Correcto. $\\text{pH} = -\\log_{10}(10^{-1}) = 1$. Un pH de 1 clasifica a la solución como ácida."
+        },
+        {
+          "letter": "B",
+          "text": "$\\text{pH} = -1$, solución ácida",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo."
+        },
+        {
+          "letter": "C",
+          "text": "$\\text{pOH} = 13$, solución no neutra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor representa el pOH, no la definición del pH pedido."
+        },
+        {
+          "letter": "D",
+          "text": "$\\text{pH} = 11$, solución saturada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó una constante al valor real del logaritmo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El pH se calcula como $\\text{pH} = -\\log_{10}[\\text{H}^+] = -\\log_{10}(10^{-1}) = 1$. A $25^\\circ\\text{C}$, $\\text{pH} < 7$ es ácido, $=7$ es neutro y $>7$ es básico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.68,
+      "bundle_id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v13",
+      "statement": "Una solución acuosa diluida a $25^\\circ\\text{C}$ presenta $[\\text{H}^+] = 10^{-2}\\text{ M}$. ¿Cuál es su valor de pH y la clasificación de la solución?",
+      "context": "Evaluación de acidez y pH en muestras ambientales e industriales Caso N° 13.\n**ID:** AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v13\n**Bloom:** Analyze\n**EJE:** Química General\n**Expected_Success:** 0.66",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\text{pH} = 2$, solución ácida",
+          "is_correct": true,
+          "feedback": "Correcto. $\\text{pH} = -\\log_{10}(10^{-2}) = 2$. Un pH de 2 clasifica a la solución como ácida."
+        },
+        {
+          "letter": "B",
+          "text": "$\\text{pH} = -2$, solución ácida",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo."
+        },
+        {
+          "letter": "C",
+          "text": "$\\text{pOH} = 12$, solución no neutra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor representa el pOH, no la definición del pH pedido."
+        },
+        {
+          "letter": "D",
+          "text": "$\\text{pH} = 12$, solución saturada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó una constante al valor real del logaritmo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El pH se calcula como $\\text{pH} = -\\log_{10}[\\text{H}^+] = -\\log_{10}(10^{-2}) = 2$. A $25^\\circ\\text{C}$, $\\text{pH} < 7$ es ácido, $=7$ es neutro y $>7$ es básico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.66,
+      "bundle_id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v14",
+      "statement": "Una solución acuosa diluida a $25^\\circ\\text{C}$ presenta $[\\text{H}^+] = 10^{-3}\\text{ M}$. ¿Cuál es su valor de pH y la clasificación de la solución?",
+      "context": "Evaluación de acidez y pH en muestras ambientales e industriales Caso N° 14.\n**ID:** AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v14\n**Bloom:** Analyze\n**EJE:** Química General\n**Expected_Success:** 0.64",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\text{pH} = 3$, solución ácida",
+          "is_correct": true,
+          "feedback": "Correcto. $\\text{pH} = -\\log_{10}(10^{-3}) = 3$. Un pH de 3 clasifica a la solución como ácida."
+        },
+        {
+          "letter": "B",
+          "text": "$\\text{pH} = -3$, solución ácida",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo."
+        },
+        {
+          "letter": "C",
+          "text": "$\\text{pOH} = 11$, solución no neutra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor representa el pOH, no la definición del pH pedido."
+        },
+        {
+          "letter": "D",
+          "text": "$\\text{pH} = 13$, solución saturada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó una constante al valor real del logaritmo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El pH se calcula como $\\text{pH} = -\\log_{10}[\\text{H}^+] = -\\log_{10}(10^{-3}) = 3$. A $25^\\circ\\text{C}$, $\\text{pH} < 7$ es ácido, $=7$ es neutro y $>7$ es básico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.64,
+      "bundle_id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v15",
+      "statement": "Una solución acuosa diluida a $25^\\circ\\text{C}$ presenta $[\\text{H}^+] = 10^{-4}\\text{ M}$. ¿Cuál es su valor de pH y la clasificación de la solución?",
+      "context": "Evaluación de acidez y pH en muestras ambientales e industriales Caso N° 15.\n**ID:** AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v15\n**Bloom:** Apply\n**EJE:** Química General\n**Expected_Success:** 0.62",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\text{pH} = 4$, solución ácida",
+          "is_correct": true,
+          "feedback": "Correcto. $\\text{pH} = -\\log_{10}(10^{-4}) = 4$. Un pH de 4 clasifica a la solución como ácida."
+        },
+        {
+          "letter": "B",
+          "text": "$\\text{pH} = -4$, solución ácida",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo."
+        },
+        {
+          "letter": "C",
+          "text": "$\\text{pOH} = 10$, solución no neutra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor representa el pOH, no la definición del pH pedido."
+        },
+        {
+          "letter": "D",
+          "text": "$\\text{pH} = 14$, solución saturada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó una constante al valor real del logaritmo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El pH se calcula como $\\text{pH} = -\\log_{10}[\\text{H}^+] = -\\log_{10}(10^{-4}) = 4$. A $25^\\circ\\text{C}$, $\\text{pH} < 7$ es ácido, $=7$ es neutro y $>7$ es básico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v16",
+      "statement": "Una solución acuosa diluida a $25^\\circ\\text{C}$ presenta $[\\text{H}^+] = 10^{-5}\\text{ M}$. ¿Cuál es su valor de pH y la clasificación de la solución?",
+      "context": "Evaluación de acidez y pH en muestras ambientales e industriales Caso N° 16.\n**ID:** AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v16\n**Bloom:** Analyze\n**EJE:** Química General\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\text{pH} = 5$, solución ácida",
+          "is_correct": true,
+          "feedback": "Correcto. $\\text{pH} = -\\log_{10}(10^{-5}) = 5$. Un pH de 5 clasifica a la solución como ácida."
+        },
+        {
+          "letter": "B",
+          "text": "$\\text{pH} = -5$, solución ácida",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo."
+        },
+        {
+          "letter": "C",
+          "text": "$\\text{pOH} = 9$, solución no neutra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor representa el pOH, no la definición del pH pedido."
+        },
+        {
+          "letter": "D",
+          "text": "$\\text{pH} = 15$, solución saturada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó una constante al valor real del logaritmo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El pH se calcula como $\\text{pH} = -\\log_{10}[\\text{H}^+] = -\\log_{10}(10^{-5}) = 5$. A $25^\\circ\\text{C}$, $\\text{pH} < 7$ es ácido, $=7$ es neutro y $>7$ es básico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v17",
+      "statement": "Una solución acuosa diluida a $25^\\circ\\text{C}$ presenta $[\\text{H}^+] = 10^{-6}\\text{ M}$. ¿Cuál es su valor de pH y la clasificación de la solución?",
+      "context": "Evaluación de acidez y pH en muestras ambientales e industriales Caso N° 17.\n**ID:** AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v17\n**Bloom:** Evaluate\n**EJE:** Química General\n**Expected_Success:** 0.58",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\text{pH} = 6$, solución ácida",
+          "is_correct": true,
+          "feedback": "Correcto. $\\text{pH} = -\\log_{10}(10^{-6}) = 6$. Un pH de 6 clasifica a la solución como ácida."
+        },
+        {
+          "letter": "B",
+          "text": "$\\text{pH} = -6$, solución ácida",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo."
+        },
+        {
+          "letter": "C",
+          "text": "$\\text{pOH} = 8$, solución no neutra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor representa el pOH, no la definición del pH pedido."
+        },
+        {
+          "letter": "D",
+          "text": "$\\text{pH} = 16$, solución saturada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó una constante al valor real del logaritmo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El pH se calcula como $\\text{pH} = -\\log_{10}[\\text{H}^+] = -\\log_{10}(10^{-6}) = 6$. A $25^\\circ\\text{C}$, $\\text{pH} < 7$ es ácido, $=7$ es neutro y $>7$ es básico.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.58,
+      "bundle_id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v18",
+      "statement": "Una solución acuosa diluida a $25^\\circ\\text{C}$ presenta $[\\text{H}^+] = 10^{-7}\\text{ M}$. ¿Cuál es su valor de pH y la clasificación de la solución?",
+      "context": "Evaluación de acidez y pH en muestras ambientales e industriales Caso N° 18.\n**ID:** AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v18\n**Bloom:** Evaluate\n**EJE:** Química General\n**Expected_Success:** 0.56",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\text{pH} = 7$, solución neutra",
+          "is_correct": true,
+          "feedback": "Correcto. $\\text{pH} = -\\log_{10}(10^{-7}) = 7$. Un pH de 7 clasifica a la solución como neutra."
+        },
+        {
+          "letter": "B",
+          "text": "$\\text{pH} = -7$, solución neutra",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo."
+        },
+        {
+          "letter": "C",
+          "text": "$\\text{pOH} = 7$, solución no neutra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor representa el pOH, no la definición del pH pedido."
+        },
+        {
+          "letter": "D",
+          "text": "$\\text{pH} = 17$, solución saturada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó una constante al valor real del logaritmo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El pH se calcula como $\\text{pH} = -\\log_{10}[\\text{H}^+] = -\\log_{10}(10^{-7}) = 7$. A $25^\\circ\\text{C}$, $\\text{pH} < 7$ es ácido, $=7$ es neutro y $>7$ es básico.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.56,
+      "bundle_id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v19",
+      "statement": "Una solución acuosa diluida a $25^\\circ\\text{C}$ presenta $[\\text{H}^+] = 10^{-8}\\text{ M}$. ¿Cuál es su valor de pH y la clasificación de la solución?",
+      "context": "Evaluación de acidez y pH en muestras ambientales e industriales Caso N° 19.\n**ID:** AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v19\n**Bloom:** Evaluate\n**EJE:** Química General\n**Expected_Success:** 0.54",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\text{pH} = 8$, solución alcalina",
+          "is_correct": true,
+          "feedback": "Correcto. $\\text{pH} = -\\log_{10}(10^{-8}) = 8$. Un pH de 8 clasifica a la solución como alcalina."
+        },
+        {
+          "letter": "B",
+          "text": "$\\text{pH} = -8$, solución alcalina",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo."
+        },
+        {
+          "letter": "C",
+          "text": "$\\text{pOH} = 6$, solución no neutra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor representa el pOH, no la definición del pH pedido."
+        },
+        {
+          "letter": "D",
+          "text": "$\\text{pH} = 18$, solución saturada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó una constante al valor real del logaritmo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El pH se calcula como $\\text{pH} = -\\log_{10}[\\text{H}^+] = -\\log_{10}(10^{-8}) = 8$. A $25^\\circ\\text{C}$, $\\text{pH} < 7$ es ácido, $=7$ es neutro y $>7$ es básico.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.54,
+      "bundle_id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v20",
+      "statement": "Una solución acuosa diluida a $25^\\circ\\text{C}$ presenta $[\\text{H}^+] = 10^{-9}\\text{ M}$. ¿Cuál es su valor de pH y la clasificación de la solución?",
+      "context": "Evaluación de acidez y pH en muestras ambientales e industriales Caso N° 20.\n**ID:** AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle-v20\n**Bloom:** Evaluate\n**EJE:** Química General\n**Expected_Success:** 0.52",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\text{pH} = 9$, solución alcalina",
+          "is_correct": true,
+          "feedback": "Correcto. $\\text{pH} = -\\log_{10}(10^{-9}) = 9$. Un pH de 9 clasifica a la solución como alcalina."
+        },
+        {
+          "letter": "B",
+          "text": "$\\text{pH} = -9$, solución alcalina",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo."
+        },
+        {
+          "letter": "C",
+          "text": "$\\text{pOH} = 5$, solución no neutra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor representa el pOH, no la definición del pH pedido."
+        },
+        {
+          "letter": "D",
+          "text": "$\\text{pH} = 19$, solución saturada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó una constante al valor real del logaritmo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El pH se calcula como $\\text{pH} = -\\log_{10}[\\text{H}^+] = -\\log_{10}(10^{-9}) = 9$. A $25^\\circ\\text{C}$, $\\text{pH} < 7$ es ácido, $=7$ es neutro y $>7$ es básico.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.52,
+      "bundle_id": "AR-CIE-11-2026-W16-soluciones-concentracion-ph-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-4-grade-5-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T16:46:07.383Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-5-2026-W04-sistema-respiratorio-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de los siguientes órganos pertenece al sistema respiratorio humano?",
+      "context": "En una clase de ciencias en una escuela de Neiva, la profesora muestra un diagrama del cuerpo humano y pide identificar los órganos respiratorios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los pulmones.",
+          "is_correct": true,
+          "feedback": "Los pulmones son los órganos principales del sistema respiratorio, donde ocurre el intercambio de gases."
+        },
+        {
+          "letter": "B",
+          "text": "El hígado.",
+          "is_correct": false,
+          "feedback": "El hígado pertenece al sistema digestivo, no al respiratorio."
+        },
+        {
+          "letter": "C",
+          "text": "Los riñones.",
+          "is_correct": false,
+          "feedback": "Los riñones pertenecen al sistema excretor, no al respiratorio."
+        },
+        {
+          "letter": "D",
+          "text": "El estómago.",
+          "is_correct": false,
+          "feedback": "El estómago hace parte del sistema digestivo, no del respiratorio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer los principales órganos del sistema respiratorio y diferenciarlos de otros sistemas del cuerpo humano.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-5-2026-W04-sistema-respiratorio-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W04-sistema-respiratorio-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué el aire recorre primero la nariz o la boca antes de llegar a los pulmones?",
+      "context": "Lee: \"Al inhalar, el aire entra por la nariz o la boca, pasa por la tráquea y llega a los pulmones.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la nariz y la boca son las vías de entrada del aire al cuerpo.",
+          "is_correct": true,
+          "feedback": "La nariz y la boca son las puertas de entrada del sistema respiratorio."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los pulmones están ubicados en la boca.",
+          "is_correct": false,
+          "feedback": "Los pulmones están en el pecho, no en la boca."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la nariz produce oxígeno nuevo.",
+          "is_correct": false,
+          "feedback": "La nariz no produce oxígeno, solo permite la entrada del aire."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la boca reemplaza a los pulmones.",
+          "is_correct": false,
+          "feedback": "La boca no reemplaza a los pulmones, solo es una vía de entrada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender el recorrido del aire por las vías respiratorias superiores antes de llegar a los pulmones.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-5-2026-W04-sistema-respiratorio-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W04-sistema-respiratorio-001-MASTERY-bundle-v3",
+      "statement": "Si el estudiante pasa de estar sentado a correr, lo más probable es que su ritmo respiratorio:",
+      "context": "Un estudiante realiza una experiencia: cuenta cuántas veces respira por minuto estando sentado y cuántas veces después de correr en el patio del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumente porque los músculos necesitan más oxígeno al hacer ejercicio.",
+          "is_correct": true,
+          "feedback": "Al correr, los músculos consumen más oxígeno, lo que aumenta la frecuencia respiratoria."
+        },
+        {
+          "letter": "B",
+          "text": "Disminuya casi hasta detenerse.",
+          "is_correct": false,
+          "feedback": "Al hacer ejercicio, la frecuencia respiratoria aumenta, no disminuye."
+        },
+        {
+          "letter": "C",
+          "text": "Se mantenga igual sin ningún cambio.",
+          "is_correct": false,
+          "feedback": "El esfuerzo físico modifica la frecuencia respiratoria, así que cambia."
+        },
+        {
+          "letter": "D",
+          "text": "Solo cambie durante el sueño profundo.",
+          "is_correct": false,
+          "feedback": "El cambio ocurre al hacer ejercicio, no únicamente mientras se duerme."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Relacionar la actividad física con el aumento de la frecuencia respiratoria según la demanda de oxígeno del cuerpo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CN-5-2026-W04-sistema-respiratorio-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W04-sistema-respiratorio-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la función principal de los alvéolos en el sistema respiratorio?",
+      "context": "La profesora explica: \"En los alvéolos pulmonares ocurre el intercambio de gases: el oxígeno pasa a la sangre y el dióxido de carbono sale del cuerpo.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Realizar el intercambio de oxígeno y dióxido de carbono con la sangre.",
+          "is_correct": true,
+          "feedback": "En los alvéolos se lleva a cabo el intercambio gaseoso entre el aire y la sangre."
+        },
+        {
+          "letter": "B",
+          "text": "Bombear sangre hacia todo el cuerpo.",
+          "is_correct": false,
+          "feedback": "Bombear la sangre es función del corazón, no de los alvéolos."
+        },
+        {
+          "letter": "C",
+          "text": "Producir sonidos al hablar.",
+          "is_correct": false,
+          "feedback": "La producción de la voz depende de las cuerdas vocales en la laringe."
+        },
+        {
+          "letter": "D",
+          "text": "Transportar aire desde la nariz hasta la tráquea.",
+          "is_correct": false,
+          "feedback": "Transportar aire es función de las vías respiratorias, no de los alvéolos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificar el papel de los alvéolos en el intercambio gaseoso durante la respiración.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-5-2026-W04-sistema-respiratorio-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W04-sistema-respiratorio-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál de las siguientes acciones cotidianas cuida mejor el sistema respiratorio?",
+      "context": "Un médico del barrio explica: \"Cubrirse la boca al toser y lavarse las manos ayuda a evitar que se transmitan virus respiratorios.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cubrirse la boca al toser o estornudar y lavarse las manos con frecuencia.",
+          "is_correct": true,
+          "feedback": "Estas acciones reducen la propagación de virus que afectan las vías respiratorias."
+        },
+        {
+          "letter": "B",
+          "text": "Respirar siempre por la boca y no por la nariz.",
+          "is_correct": false,
+          "feedback": "Respirar por la boca no filtra ni humedece el aire como lo hace la nariz."
+        },
+        {
+          "letter": "C",
+          "text": "Compartir objetos personales sin limpiarlos.",
+          "is_correct": false,
+          "feedback": "Compartir objetos sin limpieza facilita el contagio de enfermedades respiratorias."
+        },
+        {
+          "letter": "D",
+          "text": "Hacer ejercicio solo en lugares muy contaminados.",
+          "is_correct": false,
+          "feedback": "Hacer ejercicio en aire contaminado perjudica el sistema respiratorio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar hábitos de higiene y cuidado para proteger el sistema respiratorio en la vida diaria.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CN-5-2026-W04-sistema-respiratorio-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W04-sistema-respiratorio-001-MASTERY-bundle-v6",
+      "statement": "¿Qué relación se puede establecer entre la calidad del aire y la salud del sistema respiratorio?",
+      "context": "Compara: \"Una persona que vive en una ciudad con mucho smog suele toser con frecuencia. Una persona que vive en el campo, con aire más limpio, casi no tose.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El aire contaminado irrita las vías respiratorias, mientras que el aire limpio las protege.",
+          "is_correct": true,
+          "feedback": "La contaminación irrita pulmones y vías respiratorias; el aire limpio favorece su buen funcionamiento."
+        },
+        {
+          "letter": "B",
+          "text": "La contaminación del aire mejora la capacidad de los pulmones.",
+          "is_correct": false,
+          "feedback": "La contaminación no mejora, sino que daña el sistema respiratorio."
+        },
+        {
+          "letter": "C",
+          "text": "La calidad del aire no influye en la tos ni en la respiración.",
+          "is_correct": false,
+          "feedback": "La evidencia muestra que la calidad del aire sí influye en la salud respiratoria."
+        },
+        {
+          "letter": "D",
+          "text": "Solo las personas del campo pueden respirar aire limpio.",
+          "is_correct": false,
+          "feedback": "Personas de ciudad también pueden respirar aire limpio en espacios sin contaminación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar cómo la contaminación del aire afecta el funcionamiento del sistema respiratorio humano.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CN-5-2026-W04-sistema-respiratorio-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W04-sistema-respiratorio-001-MASTERY-bundle-v7",
+      "statement": "¿Qué sucede con el oxígeno y el dióxido de carbono durante la respiración?",
+      "context": "Lee: \"Al inspirar, entra aire rico en oxígeno a los pulmones. Al exhalar, sale aire con más dióxido de carbono.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El oxígeno entra al cuerpo y se incorpora a la sangre, mientras que el dióxido de carbono se expulsa al exhalar.",
+          "is_correct": true,
+          "feedback": "La respiración incorpora oxígeno y elimina dióxido de carbono producido por las células."
+        },
+        {
+          "letter": "B",
+          "text": "El oxígeno sale del cuerpo y el dióxido de carbono entra.",
+          "is_correct": false,
+          "feedback": "Es al revés: el oxígeno entra y el dióxido de carbono sale."
+        },
+        {
+          "letter": "C",
+          "text": "El oxígeno y el dióxido de carbono permanecen igual dentro del cuerpo.",
+          "is_correct": false,
+          "feedback": "Durante la respiración, estos gases cambian de concentración y dirección."
+        },
+        {
+          "letter": "D",
+          "text": "El cuerpo solo utiliza el dióxido de carbono y elimina el oxígeno.",
+          "is_correct": false,
+          "feedback": "Las células usan oxígeno, no dióxido de carbono, para obtener energía."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Distinguir el intercambio de oxígeno y dióxido de carbono que ocurre en cada ciclo respiratorio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.52,
+      "bundle_id": "CO-CN-5-2026-W04-sistema-respiratorio-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W04-sistema-respiratorio-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué el sistema respiratorio es vital para todo el organismo y qué hábito puede protegerlo?",
+      "context": "Lee: 'El sistema respiratorio trabaja junto con el sistema circulatorio para llevar oxígeno a todas las células del cuerpo y retirar el dióxido de carbono. Cuando una persona fuma, estas sustancias tóxicas dañan los pulmones y reducen su capacidad de funcionar correctamente.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque lleva oxígeno a las células y retira dióxido de carbono, y evitar el humo protege los pulmones.",
+          "is_correct": true,
+          "feedback": "El sistema respiratorio sostiene la vida celular y se protege evitando sustancias dañinas como el humo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque solo sirve para hablar y cantar.",
+          "is_correct": false,
+          "feedback": "El sistema respiratorio cumple funciones mucho más amplias que hablar o cantar."
+        },
+        {
+          "letter": "C",
+          "text": "Porque respirar aire contaminado fortalece los pulmones automáticamente.",
+          "is_correct": false,
+          "feedback": "El aire contaminado debilita, no fortalece, los pulmones."
+        },
+        {
+          "letter": "D",
+          "text": "Porque no tiene relación con el sistema circulatorio ni con las células.",
+          "is_correct": false,
+          "feedback": "El texto explica claramente su relación con el sistema circulatorio y las células."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la importancia vital del sistema respiratorio y reconocer prácticas que lo protegen del daño.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.3,
+      "bundle_id": "CO-CN-5-2026-W04-sistema-respiratorio-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

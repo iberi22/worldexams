@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-4-grade-6-subject-matematicas",
+    "generated_at": "2026-09-12T16:46:07.570Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-6-2026-W04-plano-cartesiano-001-MASTERY-bundle-v1",
+      "statement": "El plano cartesiano está formado por:",
+      "context": "En clase en Bogotá, los estudiantes dibujan el plano cartesiano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dos rectas perpendiculares: una horizontal (eje X) y una vertical (eje Y).",
+          "is_correct": true,
+          "feedback": "Correcto. Los ejes X y Y se cruzan en el origen."
+        },
+        {
+          "letter": "B",
+          "text": "Tres ejes paralelos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ejes son perpendiculares."
+        },
+        {
+          "letter": "C",
+          "text": "Una sola recta vertical.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Faltan ejes."
+        },
+        {
+          "letter": "D",
+          "text": "Una circunferencia y un diámetro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un sistema rectangular."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El plano cartesiano fue ideado por René Descartes para representar puntos mediante coordenadas (x, y).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-6-2026-W04-plano-cartesiano-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W04-plano-cartesiano-001-MASTERY-bundle-v2",
+      "statement": "El punto de intersección entre los ejes X e Y se llama:",
+      "context": "En un taller en Medellín, se ubica el origen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Origen y tiene coordenadas (0, 0).",
+          "is_correct": true,
+          "feedback": "Correcto. (0, 0) es el origen."
+        },
+        {
+          "letter": "B",
+          "text": "Cuadrante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuadrante es una región."
+        },
+        {
+          "letter": "C",
+          "text": "Eje vertical.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es el eje Y."
+        },
+        {
+          "letter": "D",
+          "text": "Eje horizontal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es el eje X."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El origen es el punto de referencia (0, 0) del plano cartesiano.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-6-2026-W04-plano-cartesiano-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W04-plano-cartesiano-001-MASTERY-bundle-v3",
+      "statement": "¿En qué cuadrante se ubica el punto $(-3, 5)$?",
+      "context": "En clase en Cali, se localizan puntos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Segundo cuadrante.",
+          "is_correct": true,
+          "feedback": "Correcto. x negativa, y positiva."
+        },
+        {
+          "letter": "B",
+          "text": "Primer cuadrante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La x es negativa."
+        },
+        {
+          "letter": "C",
+          "text": "Tercer cuadrante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La y es positiva."
+        },
+        {
+          "letter": "D",
+          "text": "Cuarto cuadrante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La x es negativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El segundo cuadrante contiene los puntos con x < 0 e y > 0.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-MAT-6-2026-W04-plano-cartesiano-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W04-plano-cartesiano-001-MASTERY-bundle-v4",
+      "statement": "Un punto ubicado sobre el eje X tiene coordenadas de la forma:",
+      "context": "En clase en Pereira, se identifican puntos sobre los ejes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(a, 0)$.",
+          "is_correct": true,
+          "feedback": "Correcto. La segunda coordenada es cero."
+        },
+        {
+          "letter": "B",
+          "text": "$(0, b)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es sobre el eje Y."
+        },
+        {
+          "letter": "C",
+          "text": "$(a, b)$ con a y b distintos de cero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es un punto fuera de los ejes."
+        },
+        {
+          "letter": "D",
+          "text": "$(0, 0)$.",
+          "is_correct": false,
+          "feedback": "Solo si es el origen."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los puntos sobre un eje tienen una coordenada igual a cero.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-MAT-6-2026-W04-plano-cartesiano-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W04-plano-cartesiano-001-MASTERY-bundle-v5",
+      "statement": "Si el punto $P(2, 3)$ se traslada $4$ unidades a la derecha, sus nuevas coordenadas son:",
+      "context": "En un ejercicio en Manizales, se trasladan puntos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(6, 3)$.",
+          "is_correct": true,
+          "feedback": "Correcto. Se suma 4 a la abscisa."
+        },
+        {
+          "letter": "B",
+          "text": "$(-2, 3)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste en lugar de sumar."
+        },
+        {
+          "letter": "C",
+          "text": "$(2, 7)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La traslación es horizontal."
+        },
+        {
+          "letter": "D",
+          "text": "$(6, 7)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Moviste ambos ejes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una traslación horizontal suma (o resta) unidades a la coordenada x manteniendo la y.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-6-2026-W04-plano-cartesiano-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W04-plano-cartesiano-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la distancia entre los puntos $A(1, 2)$ y $B(4, 6)$?",
+      "context": "En Tunja, se calculan distancias entre puntos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5.",
+          "is_correct": true,
+          "feedback": "Correcto. $d = \\sqrt{(4-1)^2 + (6-2)^2} = \\sqrt{9 + 16} = 5$."
+        },
+        {
+          "letter": "B",
+          "text": "3.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo consideraste la diferencia en X."
+        },
+        {
+          "letter": "C",
+          "text": "7.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste diferencias."
+        },
+        {
+          "letter": "D",
+          "text": "25.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el cuadrado de la distancia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La distancia entre dos puntos se calcula con la fórmula $\\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-6-2026-W04-plano-cartesiano-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W04-plano-cartesiano-001-MASTERY-bundle-v7",
+      "statement": "El reflejo del punto $P(3, -2)$ respecto al eje X es:",
+      "context": "En clase en Armenia, se representa el reflejo de un punto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(3, 2)$.",
+          "is_correct": true,
+          "feedback": "Correcto. Se cambia el signo de la ordenada."
+        },
+        {
+          "letter": "B",
+          "text": "$(-3, -2)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es reflejo respecto al eje Y."
+        },
+        {
+          "letter": "C",
+          "text": "$(3, -2)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el mismo punto."
+        },
+        {
+          "letter": "D",
+          "text": "$(-3, 2)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cambiaron ambos signos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reflejar respecto al eje X mantiene la abscisa y cambia el signo de la ordenada.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-6-2026-W04-plano-cartesiano-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W04-plano-cartesiano-001-MASTERY-bundle-v8",
+      "statement": "Una recta horizontal en el plano cartesiano tiene ecuación:",
+      "context": "En clase en Popayán, se representa una recta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = c$, con $c$ constante.",
+          "is_correct": true,
+          "feedback": "Correcto. La ordenada no cambia."
+        },
+        {
+          "letter": "B",
+          "text": "$x = c$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe una recta vertical."
+        },
+        {
+          "letter": "C",
+          "text": "$y = mx + b$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la forma general, no específica."
+        },
+        {
+          "letter": "D",
+          "text": "$x + y = 0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una diagonal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una recta horizontal es paralela al eje X, por lo que todas sus ordenadas son iguales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-6-2026-W04-plano-cartesiano-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W04-plano-cartesiano-001-MASTERY-bundle-v9",
+      "statement": "Una aplicación del plano cartesiano es:",
+      "context": "En un proyecto en Bucaramanga, se compara el plano y el mapa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ubicar lugares en mapas, diseñar planos arquitectónicos y representar datos.",
+          "is_correct": true,
+          "feedback": "Correcto. Tiene múltiples aplicaciones prácticas."
+        },
+        {
+          "letter": "B",
+          "text": "Contar monedas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es su uso."
+        },
+        {
+          "letter": "C",
+          "text": "Medir el peso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El peso usa otros sistemas."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituir la calculadora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una herramienta de representación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El plano cartesiano es la base de la geometría analítica y de la cartografía.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-6-2026-W04-plano-cartesiano-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W04-plano-cartesiano-001-MASTERY-bundle-v10",
+      "statement": "¿Por qué es útil representar datos en el plano cartesiano?",
+      "context": "En un cierre en Medellín, se reflexiona sobre la importancia del plano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo para decorar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tiene función analítica."
+        },
+        {
+          "letter": "B",
+          "text": "Permite visualizar relaciones, identificar patrones y resolver problemas geométricos.",
+          "is_correct": true,
+          "feedback": "Correcto. Es una herramienta analítica."
+        },
+        {
+          "letter": "C",
+          "text": "Sustituye la matemática.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La complementa."
+        },
+        {
+          "letter": "D",
+          "text": "Evita escribir ecuaciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Permite escribirlas mejor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El plano cartesiano facilita la interpretación gráfica de la información matemática.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-6-2026-W04-plano-cartesiano-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}
