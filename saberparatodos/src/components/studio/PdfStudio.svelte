@@ -1,6 +1,7 @@
 <script lang="ts">
   import { ingestPdfToV52Draft, type V52DraftResult } from '../../lib/ai/pdf-ingest';
-  import { generateLocalExam as generateExam, type ExamGenerateResult } from '../../lib/ai/exam-generator';
+  import type { ExamGenerateResult } from '../../lib/ai/exam-generator';
+  import { generateQuestionsFromChunks } from '../../lib/ai/pdf-studio-generator';
   import { chunkText, type Chunk } from '../../lib/ai/pdf/chunker';
 
   // Svelte 5 State
@@ -87,7 +88,7 @@
     generateInfo = 'Sintetizando borrador con RAG local...';
 
     try {
-      const result = await generateExam({
+      const result = await generateQuestionsFromChunks(chunks, {
         subject,
         grade,
         count: questionCount,
