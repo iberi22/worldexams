@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-28-grade-5-subject-matematicas",
+    "generated_at": "2026-09-12T15:41:45.217Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-5-2026-W28-division-dos-cifras-problemas-001-MASTERY-bundle-v1",
+      "statement": "¿Cuántos paquetes completos de 24 cuadernos se obtienen al dividir los 720 cuadernos?",
+      "context": "En un almacén de papelería en Manizales se reciben 720 cuadernos escolares organizados en paquetes iguales de 24 cuadernos cada uno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30 paquetes.",
+          "is_correct": true,
+          "feedback": "Al dividir 720 entre 24: $72 \\div 24 = 3$, y agregando el cero obtenemos 30 paquetes exactos."
+        },
+        {
+          "letter": "B",
+          "text": "25 paquetes.",
+          "is_correct": false,
+          "feedback": "25 paquetes de 24 cuadernos contienen solo 600 cuadernos ($25 \\times 24 = 600$)."
+        },
+        {
+          "letter": "C",
+          "text": "35 paquetes.",
+          "is_correct": false,
+          "feedback": "35 paquetes de 24 cuadernos requerirían 840 cuadernos ($35 \\times 24 = 840$)."
+        },
+        {
+          "letter": "D",
+          "text": "40 paquetes.",
+          "is_correct": false,
+          "feedback": "40 paquetes de 24 cuadernos totalizan 960 cuadernos ($40 \\times 24 = 960$)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para hallar la cantidad de grupos iguales se divide el total entre el tamaño del grupo: $720 \\div 24 = 30$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-5-2026-W28-division-dos-cifras-problemas-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W28-division-dos-cifras-problemas-001-MASTERY-bundle-v2",
+      "statement": "¿Qué operación matemática permite determinar con certeza la cantidad exacta de cajas necesarias y cuál es su resultado?",
+      "context": "Un agricultor de Cundinamarca cosechó 864 naranjas y desea empacarlas en cajas con capacidad para 36 naranjas cada una.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "División: $864 \\div 36 = 24$ cajas.",
+          "is_correct": true,
+          "feedback": "La división reparte equitativamente las 864 naranjas en grupos de 36, dando exactamente 24 cajas."
+        },
+        {
+          "letter": "B",
+          "text": "Multiplicación: $864 \\times 36 = 31.104$ cajas.",
+          "is_correct": false,
+          "feedback": "La multiplicación aumentaría la cantidad en lugar de agrupar el total cosechado."
+        },
+        {
+          "letter": "C",
+          "text": "Sustracción: $864 - 36 = 828$ cajas.",
+          "is_correct": false,
+          "feedback": "Restar solo descuenta una caja, no calcula la cantidad de cajas requeridas."
+        },
+        {
+          "letter": "D",
+          "text": "División: $864 \\div 36 = 18$ cajas.",
+          "is_correct": false,
+          "feedback": "El cálculo es incorrecto, pues $18 \\times 36 = 648$, dejando 216 naranjas sin empacar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El reparto equitativo de una cantidad en grupos iguales se modela mediante una división: $864 \\div 36 = 24$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-5-2026-W28-division-dos-cifras-problemas-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W28-division-dos-cifras-problemas-001-MASTERY-bundle-v3",
+      "statement": "¿Cuántas cajas completas de galletas logra empacar el panadero?",
+      "context": "En una panadería de Cali se hornearon 1.575 galletas de avena. El panadero las empaca en cajas de 25 unidades para distribuirlas en tiendas locales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "63 cajas.",
+          "is_correct": true,
+          "feedback": "$1.575 \\div 25 = 63$. Comprobación: $63 \\times 25 = 1.575$."
+        },
+        {
+          "letter": "B",
+          "text": "53 cajas.",
+          "is_correct": false,
+          "feedback": "$53 \\times 25 = 1.325$ galletas, quedando 250 galletas sin empacar."
+        },
+        {
+          "letter": "C",
+          "text": "73 cajas.",
+          "is_correct": false,
+          "feedback": "$73 \\times 25 = 1.825$ galletas, lo cual supera las 1.575 galletas horneadas."
+        },
+        {
+          "letter": "D",
+          "text": "65 cajas.",
+          "is_correct": false,
+          "feedback": "$65 \\times 25 = 1.625$ galletas, sobrestimando el resultado en 2 cajas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al dividir $1.575 \\div 25$: $157 \\div 25 = 6$ (residuo 7), bajamos el 5 para tener 75; $75 \\div 25 = 3$ (residuo 0). Por lo tanto, el cociente es 63.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-5-2026-W28-division-dos-cifras-problemas-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W28-division-dos-cifras-problemas-001-MASTERY-bundle-v4",
+      "statement": "¿Cuántos buses como mínimo se deben contratar para que todos los estudiantes puedan viajar sentados?",
+      "context": "En un colegio de Pasto hay 682 estudiantes que participarán en una salida pedagógica a la Laguna de la Cocha. Para transportarlos, se alquilan buses escolares con capacidad para 42 pasajeros cada uno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "17 buses.",
+          "is_correct": true,
+          "feedback": "$682 \\div 42 = 16$ con residuo 10. Con 16 buses viajarían 672 estudiantes, por lo que se necesita 1 bus más para los 10 estudiantes restantes (total 17 buses)."
+        },
+        {
+          "letter": "B",
+          "text": "16 buses.",
+          "is_correct": false,
+          "feedback": "En 16 buses solo caben $16 \\times 42 = 672$ estudiantes, dejando a 10 estudiantes sin transporte."
+        },
+        {
+          "letter": "C",
+          "text": "15 buses.",
+          "is_correct": false,
+          "feedback": "En 15 buses caben $15 \\times 42 = 630$ estudiantes, faltando cupo para 52 personas."
+        },
+        {
+          "letter": "D",
+          "text": "18 buses.",
+          "is_correct": false,
+          "feedback": "18 buses es excesivo, ya que con 17 buses se cubren los 682 cupos necesarios."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En problemas de contexto real con residuo no nulo, se debe redondear hacia el siguiente número entero para garantizar que ningún elemento o persona quede sin atender: $682 = 42 \\times 16 + 10 \\implies 17$ buses.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-5-2026-W28-division-dos-cifras-problemas-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W28-division-dos-cifras-problemas-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál fue el precio pagado por cada kilogramo de carne?",
+      "context": "Un restaurante en Barranquilla compró 38 kilogramos de carne por un valor total de $684.000 COP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$18.000 COP.",
+          "is_correct": true,
+          "feedback": "$684.000 \\div 38 = 18.000$ COP por kilogramo. Comprobación: $18.000 \\times 38 = 684.000$."
+        },
+        {
+          "letter": "B",
+          "text": "$16.000 COP.",
+          "is_correct": false,
+          "feedback": "$16.000 \\times 38 = 608.000$ COP, valor menor al total pagado."
+        },
+        {
+          "letter": "C",
+          "text": "$22.000 COP.",
+          "is_correct": false,
+          "feedback": "$22.000 \\times 38 = 836.000$ COP, superando el costo registrado."
+        },
+        {
+          "letter": "D",
+          "text": "$20.000 COP.",
+          "is_correct": false,
+          "feedback": "$20.000 \\times 38 = 760.000$ COP, valor incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para hallar el valor unitario se divide el valor total entre el número de unidades: $\\$684.000 \\div 38 = \\$18.000$ COP.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-5-2026-W28-division-dos-cifras-problemas-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W28-division-dos-cifras-problemas-001-MASTERY-bundle-v6",
+      "statement": "Al realizar la división inexacta $2.850 \\div 35$, ¿cuál es el cociente y cuántos caramelos sobran (residuo)?",
+      "context": "En una fábrica de dulces en Armenia (Quindío), una máquina empacadora procesó 2.850 caramelos en paquetes de 35 unidades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cociente 81 y sobran 15 caramelos.",
+          "is_correct": true,
+          "feedback": "$2.850 = 35 \\times 81 + 15$. El residuo (15) es menor que el divisor (35)."
+        },
+        {
+          "letter": "B",
+          "text": "Cociente 80 y sobran 50 caramelos.",
+          "is_correct": false,
+          "feedback": "El residuo no puede ser mayor que el divisor (50 > 35), lo que indica que se podía formar un paquete más."
+        },
+        {
+          "letter": "C",
+          "text": "Cociente 82 y sobran 10 caramelos.",
+          "is_correct": false,
+          "feedback": "$35 \\times 82 = 2.870$, lo cual excede el total de caramelos disponibles."
+        },
+        {
+          "letter": "D",
+          "text": "Cociente 75 y sobran 25 caramelos.",
+          "is_correct": false,
+          "feedback": "$35 \\times 75 + 25 = 2.650$, cálculo que no corresponde a 2.850 caramelos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El algoritmo de la división euclidiana establece que $D = d \\times c + r$, con $0 \\le r < d$. Al dividir $2.850 \\div 35$, $2.850 = 35 \\times 81 + 15$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-5-2026-W28-division-dos-cifras-problemas-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W28-division-dos-cifras-problemas-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la mayor cantidad de libros que se pueden comprar y cuánto dinero sobra del presupuesto?",
+      "context": "En una biblioteca comunitaria de Bucaramanga hay un presupuesto de $950.000 COP para adquirir libros infantiles. Cada libro cuesta $32.000 COP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "29 libros y sobran $22.000 COP.",
+          "is_correct": true,
+          "feedback": "$29 \\times 32.000 = 928.000$ COP. Sobrante: $950.000 - 928.000 = 22.000$ COP."
+        },
+        {
+          "letter": "B",
+          "text": "30 libros y sobran $10.000 COP.",
+          "is_correct": false,
+          "feedback": "30 libros costarían $960.000 COP ($30 \\times 32.000$), lo cual excede el presupuesto disponible de $950.000 COP."
+        },
+        {
+          "letter": "C",
+          "text": "28 libros y sobran $54.000 COP.",
+          "is_correct": false,
+          "feedback": "Con $54.000 COP sobrantes aún alcanza para comprar 1 libro más de $32.000 COP."
+        },
+        {
+          "letter": "D",
+          "text": "29 libros y sobran $35.000 COP.",
+          "is_correct": false,
+          "feedback": "El residuo no puede ser mayor que el precio unitario de $32.000 COP."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al dividir $\\$950.000 \\div \\$32.000$, obtenemos un cociente de 29 libros ($29 \\times \\$32.000 = \\$928.000$) y un residuo de $\\$22.000$ COP, el cual es menor que el valor de un libro adicional.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-5-2026-W28-division-dos-cifras-problemas-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W28-division-dos-cifras-problemas-001-MASTERY-bundle-v8",
+      "statement": "Al evaluar el costo total de empacar las 4.320 bolsas de café, ¿cuál empresa resulta más económica y cuánto dinero ahorra el distribuidor en comparación con la otra?",
+      "context": "Un distribuidor de café en Pereira dispone de 4.320 bolsas de café especial. Dos empresas logísticas ofrecen servicios de empaque:\n- Empresa Alfa: Empaca en cajas de 36 bolsas a un costo de $1.200 COP por caja.\n- Empresa Beta: Empaca en cajas de 48 bolsas a un costo de $1.500 COP por caja.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Empresa Beta es más económica, generando un ahorro de $9.000 COP.",
+          "is_correct": true,
+          "feedback": "Alfa: $4.320 \\div 36 = 120$ cajas $\\times \\$1.200 = \\$144.000$ COP. Beta: $4.320 \\div 48 = 90$ cajas $\\times \\$1.500 = \\$135.000$ COP. Ahorro: $\\$144.000 - \\$135.000 = \\$9.000$ COP."
+        },
+        {
+          "letter": "B",
+          "text": "La Empresa Alfa es más económica, generando un ahorro de $15.000 COP.",
+          "is_correct": false,
+          "feedback": "Alfa tiene un costo total de $144.000 COP, superior a los $135.000 COP de Beta."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas empresas cobran exactamente el mismo valor total de $140.000 COP.",
+          "is_correct": false,
+          "feedback": "Los costos totales difieren ($144.000 COP frente a $135.000 COP)."
+        },
+        {
+          "letter": "D",
+          "text": "La Empresa Beta es más económica, generando un ahorro de $25.000 COP.",
+          "is_correct": false,
+          "feedback": "La diferencia real entre $144.000 COP y $135.000 COP es de $9.000 COP."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se calculan las cantidades de cajas dividiendo por 36 y 48 respectivamente: Alfa requiere 120 cajas ($120 \\times \\$1.200 = \\$144.000$ COP) y Beta requiere 90 cajas ($90 \\times \\$1.500 = \\$135.000$ COP). Beta ahorra $\\$9.000$ COP.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-5-2026-W28-division-dos-cifras-problemas-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

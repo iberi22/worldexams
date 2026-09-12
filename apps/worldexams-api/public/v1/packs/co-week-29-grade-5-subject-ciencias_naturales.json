@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-29-grade-5-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T15:41:45.193Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-5-2026-W29-electricidad-circuitos-simples-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es la corriente eléctrica que enciende el bombillo del experimento?",
+      "context": "En la clase de ciencias de una escuela de Manizales, la profesora muestra una pila, unos cables y un bombillo pequeño para armar un circuito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El calentamiento de los cables cuando les da el sol.",
+          "is_correct": false,
+          "feedback": "La luz solar calienta los objetos, pero no genera el flujo ordenado de cargas que enciende un bombillo."
+        },
+        {
+          "letter": "B",
+          "text": "El sonido que producen las pilas cuando están nuevas.",
+          "is_correct": false,
+          "feedback": "Las pilas no emiten sonidos relacionados con la electricidad; el fenómeno eléctrico es silencioso en este experimento."
+        },
+        {
+          "letter": "C",
+          "text": "El flujo de cargas eléctricas que se mueve por un material conductor.",
+          "is_correct": true,
+          "feedback": "La corriente eléctrica es precisamente el movimiento ordenado de cargas eléctricas a través de un conductor como el cobre."
+        },
+        {
+          "letter": "D",
+          "text": "El peso de los electrones acumulado dentro del bombillo.",
+          "is_correct": false,
+          "feedback": "Los electrones tienen una masa insignificante y no se acumulan; lo importante es su movimiento continuo por el circuito."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reconocer que la corriente eléctrica es el flujo de cargas eléctricas por un conductor, concepto base para entender cualquier circuito.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-5-2026-W29-electricidad-circuitos-simples-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W29-electricidad-circuitos-simples-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la función del interruptor dentro de un circuito eléctrico simple?",
+      "context": "Un grupo de estudiantes de Bucaramanga dibuja el circuito que armó en clase: una pila conectada con cables a un bombillo y un interruptor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Abrir o cerrar el paso de la corriente eléctrica cuando se acciona.",
+          "is_correct": true,
+          "feedback": "El interruptor controla el circuito: al cerrarlo la corriente circula y el bombillo enciende; al abrirlo, la corriente se detiene."
+        },
+        {
+          "letter": "B",
+          "text": "Aumentar el tamaño del bombillo para que alumbre más.",
+          "is_correct": false,
+          "feedback": "El interruptor no cambia el tamaño ni la potencia del bombillo, solo permite o bloquea el paso de la corriente."
+        },
+        {
+          "letter": "C",
+          "text": "Guardar la electricidad sobrante para usarla otro día.",
+          "is_correct": false,
+          "feedback": "Quien almacena energía es la pila, no el interruptor; este solo abre o cierra el camino de la corriente."
+        },
+        {
+          "letter": "D",
+          "text": "Transformar la corriente eléctrica en sonido para el timbre.",
+          "is_correct": false,
+          "feedback": "El interruptor no transforma la energía; aparatos como el timbre hacen la transformación cuando el circuito está cerrado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender que cada elemento del circuito cumple una función: la pila aporta energía, los cables la conducen, el bombillo la transforma en luz y el interruptor controla su paso.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-5-2026-W29-electricidad-circuitos-simples-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W29-electricidad-circuitos-simples-001-MASTERY-bundle-v3",
+      "statement": "Si uno de los cables está suelto y no toca el polo de la pila, ¿por qué no enciende el bombillo?",
+      "context": "En una finca cafetera del Huila, los niños arman un circuito con una pila y un bombillo, pero el bombillo no enciende aunque la pila está nueva.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la pila nueva todavía no tiene suficiente energía acumulada.",
+          "is_correct": false,
+          "feedback": "Una pila nueva sí tiene energía; el problema descrito es la conexión, no la carga de la pila."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el bombillo solo funciona con pilas de gran tamaño.",
+          "is_correct": false,
+          "feedback": "El tamaño de la pila no impide el funcionamiento si el circuito está bien conectado y el voltaje es adecuado."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el bombillo está demasiado lejos de la escuela.",
+          "is_correct": false,
+          "feedback": "La distancia a la escuela no influye en el circuito; lo que importa es que el camino eléctrico esté completo."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el circuito está abierto y la corriente no puede circular completa.",
+          "is_correct": true,
+          "feedback": "Con un cable suelto el camino se interrumpe: la corriente necesita un recorrido cerrado y continuo para llegar al bombillo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aplicar la diferencia entre circuito abierto (interrumpido, sin corriente) y circuito cerrado (completo, con corriente) para explicar fallas cotidianas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-5-2026-W29-electricidad-circuitos-simples-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W29-electricidad-circuitos-simples-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál material debe elegir para que la corriente circule de forma segura por el cable?",
+      "context": "En una ferretería de Cali, una niña debe elegir el material para reemplazar un cable pelado de una lámpara: un alambre de cobre, una cuerda de fique, un palo de madera o una tira de plástico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cuerda de fique, porque las fibras naturales atraen la electricidad.",
+          "is_correct": false,
+          "feedback": "El fique es un material aislante; sus fibras no permiten el paso de la corriente eléctrica."
+        },
+        {
+          "letter": "B",
+          "text": "El alambre de cobre, porque los metales son buenos conductores.",
+          "is_correct": true,
+          "feedback": "El cobre es un metal y los metales permiten que las cargas eléctricas se muevan con facilidad por su interior."
+        },
+        {
+          "letter": "C",
+          "text": "El palo de madera, porque la madera conduce mejor que los metales.",
+          "is_correct": false,
+          "feedback": "La madera seca es aislante y no conduce la corriente; por eso se usa en mangos de herramientas eléctricas."
+        },
+        {
+          "letter": "D",
+          "text": "La tira de plástico, porque el plástico deja pasar toda la corriente.",
+          "is_correct": false,
+          "feedback": "El plástico es aislante y bloquea la corriente; por eso recubre los cables para proteger a las personas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Diferenciar materiales conductores (metales como el cobre) de materiales aislantes (plástico, madera, fique) y relacionar esta propiedad con la seguridad en el hogar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-5-2026-W29-electricidad-circuitos-simples-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W29-electricidad-circuitos-simples-001-MASTERY-bundle-v5",
+      "statement": "Si los dos bombillos se conectan uno después del otro en el mismo camino de la corriente (en serie), ¿qué ocurre con su brillo frente a usar un solo bombillo?",
+      "context": "En el malecón de Barranquilla, un vendedor conecta dos bombillos iguales en fila con la misma pila para adornar su carrito de raspados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cada bombillo brilla menos porque la energía de la pila se reparte entre los dos.",
+          "is_correct": true,
+          "feedback": "En un circuito en serie la misma energía debe alimentar ambos bombillos, así que cada uno recibe menos y alumbra con menor intensidad."
+        },
+        {
+          "letter": "B",
+          "text": "Cada bombillo brilla más porque la pila duplica su energía sola.",
+          "is_correct": false,
+          "feedback": "La pila entrega la misma energía total; repartirla entre dos bombillos no la duplica."
+        },
+        {
+          "letter": "C",
+          "text": "Solo enciende el primer bombillo y el segundo queda de adorno.",
+          "is_correct": false,
+          "feedback": "En serie la corriente pasa por ambos bombillos, así que los dos encienden, aunque con menor brillo."
+        },
+        {
+          "letter": "D",
+          "text": "Los bombillos explotan porque la corriente se devuelve por el cable.",
+          "is_correct": false,
+          "feedback": "La corriente no se devuelve ni se acumula; circula en un solo sentido y alimenta a los dos bombillos en fila."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Predecir el comportamiento de bombillos conectados en serie para entender cómo se distribuye la energía eléctrica en un circuito.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-5-2026-W29-electricidad-circuitos-simples-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W29-electricidad-circuitos-simples-001-MASTERY-bundle-v6",
+      "statement": "¿Qué conclusión respaldan mejor las observaciones de los dos equipos?",
+      "context": "Dos equipos de quinto grado en Pasto arman circuitos idénticos, pero el equipo A usa cables de cobre y el equipo B usa cables de aluminio del mismo largo y grosor. El bombillo del equipo A brilla con más intensidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El aluminio genera su propia electricidad y por eso el bombillo brilla menos.",
+          "is_correct": false,
+          "feedback": "Ningún cable genera electricidad por sí mismo; ambos solo conducen la corriente que aporta la pila."
+        },
+        {
+          "letter": "B",
+          "text": "El color del cable determina el brillo del bombillo en el experimento.",
+          "is_correct": false,
+          "feedback": "El color del recubrimiento no influye en la conducción; lo que cambia es el metal interior del cable."
+        },
+        {
+          "letter": "C",
+          "text": "El equipo B armó mal el circuito porque el aluminio no conduce nada.",
+          "is_correct": false,
+          "feedback": "El aluminio sí es conductor, de hecho se usa en redes eléctricas; el bombillo del equipo B sí encendió, solo que con menor brillo."
+        },
+        {
+          "letter": "D",
+          "text": "El cobre conduce mejor la corriente que el aluminio en esas condiciones.",
+          "is_correct": true,
+          "feedback": "Al mantener iguales pila, bombillo, largo y grosor, la única variable es el metal; el mayor brillo indica mejor conducción del cobre."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analizar un experimento controlando variables para concluir cuál material conduce mejor la electricidad a partir de la evidencia del brillo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-5-2026-W29-electricidad-circuitos-simples-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W29-electricidad-circuitos-simples-001-MASTERY-bundle-v7",
+      "statement": "Al analizar el diagrama del tablero, ¿qué error impide que el bombillo encienda?",
+      "context": "En un colegio de Villavicencio, el profesor dibuja en el tablero un circuito donde el cable que sale de la pila llega al bombillo, pero el cable de regreso está dibujado sin tocar el otro polo de la pila.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El bombillo está dibujado demasiado pequeño en el diagrama.",
+          "is_correct": false,
+          "feedback": "El tamaño del dibujo no afecta el funcionamiento; los diagramas usan símbolos y lo esencial son las conexiones."
+        },
+        {
+          "letter": "B",
+          "text": "Falta cerrar el recorrido: el cable de regreso no conecta con la pila.",
+          "is_correct": true,
+          "feedback": "La corriente debe salir de un polo de la pila y regresar al otro; sin ese regreso el recorrido queda abierto y no hay luz."
+        },
+        {
+          "letter": "C",
+          "text": "La pila está dibujada al lado izquierdo en vez del derecho.",
+          "is_correct": false,
+          "feedback": "La posición de la pila en el dibujo es irrelevante; lo que importa es que ambos polos estén conectados al circuito."
+        },
+        {
+          "letter": "D",
+          "text": "El circuito tiene demasiados cables y eso confunde a la corriente.",
+          "is_correct": false,
+          "feedback": "La corriente no se confunde; sigue el camino conductor disponible, pero aquí el camino está incompleto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Interpretar diagramas de circuitos identificando si el recorrido de la corriente está completo, habilidad clave para montar y reparar circuitos reales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-5-2026-W29-electricidad-circuitos-simples-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W29-electricidad-circuitos-simples-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál propuesta es la más adecuada si se evalúan iluminación, seguridad y cuidado de los libros?",
+      "context": "Una escuela rural de Boyacá necesita iluminar su biblioteca en las tardes. Hay dos propuestas: (1) usar velas sobre las mesas de madera y (2) instalar un circuito con pilas recargables, cables con recubrimiento plástico, bombillos e interruptor, manipulado solo por el docente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las velas, porque no necesitan explicación científica para usarse.",
+          "is_correct": false,
+          "feedback": "La facilidad de uso no compensa el riesgo: la llama abierta junto a madera y libros puede causar un incendio."
+        },
+        {
+          "letter": "B",
+          "text": "Las velas, porque alumbran más que cualquier bombillo de pilas.",
+          "is_correct": false,
+          "feedback": "Un bombillo bien alimentado ilumina de forma más pareja y constante que una vela, sin humo ni llama."
+        },
+        {
+          "letter": "C",
+          "text": "El circuito con pilas e interruptor, porque ilumina sin llama y el plástico aísla los cables.",
+          "is_correct": true,
+          "feedback": "El circuito elimina el fuego, el recubrimiento plástico protege del contacto con la corriente y el interruptor permite un uso controlado y seguro."
+        },
+        {
+          "letter": "D",
+          "text": "El circuito pero con los cables sin recubrimiento para ahorrar dinero.",
+          "is_correct": false,
+          "feedback": "Quitar el aislamiento expone partes conductoras y crea riesgo de cortocircuito y quemaduras; el ahorro no justifica el peligro."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar soluciones tecnológicas con criterios de seguridad y eficacia, aplicando lo aprendido sobre circuitos, conductores y aislantes a un problema real de la comunidad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-5-2026-W29-electricidad-circuitos-simples-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

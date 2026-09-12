@@ -1,0 +1,747 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-10-grade-5-subject-lectura_critica",
+    "generated_at": "2026-09-12T15:41:45.203Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-5-2026-W10-biografia-personaje-colombiano-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es una biografía?",
+      "context": "En la biblioteca escolar de una institución en Manizales, la profesora presenta varios textos sobre la vida de personajes colombianos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un texto narrativo que cuenta la vida de una persona real, organizada en orden cronológico.",
+          "is_correct": true,
+          "feedback": "La biografía narra hechos reales de una persona en orden temporal."
+        },
+        {
+          "letter": "B",
+          "text": "Un cuento de hadas con personajes inventados.",
+          "is_correct": false,
+          "feedback": "La biografía se basa en personas reales, no en ficción."
+        },
+        {
+          "letter": "C",
+          "text": "Un texto que solo habla del presente de una persona famosa.",
+          "is_correct": false,
+          "feedback": "La biografía incluye infancia, juventud y adultez."
+        },
+        {
+          "letter": "D",
+          "text": "Una lista de datos sin ninguna historia.",
+          "is_correct": false,
+          "feedback": "La biografía narra hechos organizados en una historia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer la definición básica de biografía como texto narrativo sobre la vida de una persona real.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-5-2026-W10-biografia-personaje-colombiano-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W10-biografia-personaje-colombiano-001-MASTERY-bundle-v2",
+      "statement": "¿Qué información del fragmento permite conocer los orígenes del personaje?",
+      "context": "Lee el fragmento: \"Nació en Bogotá en 1834. Desde niño soñaba con volar. Estudió leyes, pero nunca abandonó su pasión por la aeronáutica\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El lugar y año de nacimiento, junto con los primeros intereses de su infancia.",
+          "is_correct": true,
+          "feedback": "Estos datos ubican al personaje en un tiempo y lugar concretos."
+        },
+        {
+          "letter": "B",
+          "text": "El color favorito del personaje.",
+          "is_correct": false,
+          "feedback": "El fragmento no menciona el color favorito."
+        },
+        {
+          "letter": "C",
+          "text": "La cantidad de libros que escribió.",
+          "is_correct": false,
+          "feedback": "El fragmento no menciona el número de libros."
+        },
+        {
+          "letter": "D",
+          "text": "Los nombres de sus vecinos de infancia.",
+          "is_correct": false,
+          "feedback": "No se mencionan los vecinos en el fragmento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender qué tipo de información aparece al inicio de una biografía para presentar al personaje.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-5-2026-W10-biografia-personaje-colombiano-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W10-biografia-personaje-colombiano-001-MASTERY-bundle-v3",
+      "statement": "¿En qué orden deben organizarse estos hechos para narrar la biografía correctamente?",
+      "context": "En clase, los estudiantes leen una biografía de Policarpa Salavarrieta y obtienen los siguientes datos: 1) Nació en Guaduas, 2) Fue aprendiz de costura, 3) Fue espía de los patriotas, 4) Murió fusilada en Bogotá en 1817.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 → 2 → 3 → 4, porque sigue el orden cronológico de su vida.",
+          "is_correct": true,
+          "feedback": "El orden cronológico da sentido a la narración biográfica."
+        },
+        {
+          "letter": "B",
+          "text": "4 → 3 → 2 → 1, porque así termina en su nacimiento.",
+          "is_correct": false,
+          "feedback": "Las biografías comienzan en el nacimiento, no en la muerte."
+        },
+        {
+          "letter": "C",
+          "text": "2 → 1 → 4 → 3, porque mezcla nacimiento y muerte.",
+          "is_correct": false,
+          "feedback": "El orden debe seguir la línea de tiempo natural."
+        },
+        {
+          "letter": "D",
+          "text": "3 → 4 → 1 → 2, porque organiza las acciones más importantes primero.",
+          "is_correct": false,
+          "feedback": "En una biografía predomina el orden temporal, no el de importancia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el orden cronológico para secuenciar los eventos principales de una biografía.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-5-2026-W10-biografia-personaje-colombiano-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W10-biografia-personaje-colombiano-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la idea principal del texto subrayado?",
+      "context": "En el colegio leen una biografía del pintor Fernando Botero y subrayan: \"Botero nació en Medellín en 1932, estudió en Europa y es reconocido worldwide por sus figuras voluminosas\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que Fernando Botero es un pintor colombiano reconocido por su estilo de figuras grandes y redondeadas.",
+          "is_correct": true,
+          "feedback": "La idea principal resume quién es y por qué es famoso."
+        },
+        {
+          "letter": "B",
+          "text": "Que Botero únicamente vivió en Europa.",
+          "is_correct": false,
+          "feedback": "El texto menciona Europa como etapa, no como lugar único."
+        },
+        {
+          "letter": "C",
+          "text": "Que Botero no tiene un estilo propio.",
+          "is_correct": false,
+          "feedback": "El texto sí destaca su estilo característico."
+        },
+        {
+          "letter": "D",
+          "text": "Que Botero nació después de 1960.",
+          "is_correct": false,
+          "feedback": "El texto indica que nació en 1932."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la identificación de la idea principal para sintetizar la información biográfica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.71,
+      "bundle_id": "CO-LC-5-2026-W10-biografia-personaje-colombiano-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W10-biografia-personaje-colombiano-001-MASTERY-bundle-v5",
+      "statement": "¿Qué información de la biografía se debe colocar en el campo \"logro principal\"?",
+      "context": "Los estudiantes leen una biografía de Manuel Elkin Patarroyo y deben completar una ficha con: nombre, fecha de nacimiento, logro principal y lugar donde trabajó.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El aporte más importante del personaje, por ejemplo, el desarrollo de la vacuna contra la malaria.",
+          "is_correct": true,
+          "feedback": "El logro principal resume la contribución más destacada del personaje."
+        },
+        {
+          "letter": "B",
+          "text": "El nombre de la esposa del personaje.",
+          "is_correct": false,
+          "feedback": "La familia no es necesariamente el logro principal."
+        },
+        {
+          "letter": "C",
+          "text": "La dirección exacta de la casa donde creció.",
+          "is_correct": false,
+          "feedback": "La dirección no es un logro, sino un dato personal."
+        },
+        {
+          "letter": "D",
+          "text": "El color de cabello del personaje.",
+          "is_correct": false,
+          "feedback": "La apariencia física no es un logro principal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la estructura de una ficha biográfica para organizar la información leída.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LC-5-2026-W10-biografia-personaje-colombiano-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W10-biografia-personaje-colombiano-001-MASTERY-bundle-v6",
+      "statement": "¿Qué diferencia esencial existe entre el texto A y el texto B?",
+      "context": "Compara dos textos: \"Texto A: biografía de una científica colombiana que descubrió una especie de rana en el Chocó. Texto B: cuento inventado sobre un personaje que descubre una rana mágica en el Amazonas\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto A narra hechos reales verificables de una persona existente, mientras el texto B es ficción.",
+          "is_correct": true,
+          "feedback": "La biografía se basa en hechos reales, el cuento es ficción."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos textos son biografías porque hablan de ranas.",
+          "is_correct": false,
+          "feedback": "Hablar de ranas no convierte un cuento en biografía."
+        },
+        {
+          "letter": "C",
+          "text": "El texto B es más real porque menciona lugares de Colombia.",
+          "is_correct": false,
+          "feedback": "Mencionar un lugar real no convierte un cuento en biografía."
+        },
+        {
+          "letter": "D",
+          "text": "El texto A no tiene personajes.",
+          "is_correct": false,
+          "feedback": "El texto A sí tiene un personaje principal, la científica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar las diferencias entre una biografía y un texto narrativo de ficción.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-5-2026-W10-biografia-personaje-colombiano-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W10-biografia-personaje-colombiano-001-MASTERY-bundle-v7",
+      "statement": "¿Qué enseñanza sobre la vida del personaje se deduce del texto?",
+      "context": "Lee: \"Gracias al esfuerzo de García Márquez, la literatura latinoamericana obtuvo mayor reconocimiento mundial. Aunque enfrentó pobreza y muchos rechazos, nunca abandonó la escritura\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la perseverancia y el esfuerzo permiten superar las dificultades y alcanzar logros importantes.",
+          "is_correct": true,
+          "feedback": "El texto muestra cómo la constancia llevó al éxito."
+        },
+        {
+          "letter": "B",
+          "text": "Que cualquier persona famosa siempre tuvo dinero.",
+          "is_correct": false,
+          "feedback": "El texto menciona pobreza y rechazos en su camino."
+        },
+        {
+          "letter": "C",
+          "text": "Que solo los extranjeros pueden triunfar en la literatura.",
+          "is_correct": false,
+          "feedback": "El personaje es colombiano, lo cual desmiente esa idea."
+        },
+        {
+          "letter": "D",
+          "text": "Que escribir es una actividad fácil para todos.",
+          "is_correct": false,
+          "feedback": "El texto muestra que fue un camino difícil."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar el mensaje o enseñanza que transmite una biografía de un personaje colombiano.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.52,
+      "bundle_id": "CO-LC-5-2026-W10-biografia-personaje-colombiano-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W10-biografia-personaje-colombiano-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la mejor respuesta a esta pregunta?",
+      "context": "Al finalizar la lectura, una docente pregunta: \"¿Por qué es importante leer biografías de personajes colombianos en la escuela?\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque permiten conocer la historia del país, valorar los aportes de sus personajes y aprender de sus experiencias.",
+          "is_correct": true,
+          "feedback": "Las biografías conectan la historia personal con la historia colectiva."
+        },
+        {
+          "letter": "B",
+          "text": "Porque reemplazan a los libros de ciencia en el currículo.",
+          "is_correct": false,
+          "feedback": "Las biografías complementan, pero no reemplazan otros textos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque solo sirven para aprobar el examen final.",
+          "is_correct": false,
+          "feedback": "Su valor va mucho más allá de una evaluación."
+        },
+        {
+          "letter": "D",
+          "text": "Porque prohiben conocer la historia universal.",
+          "is_correct": false,
+          "feedback": "Las biografías colombianas enriquecen, no prohíben, el estudio de otras historias."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la importancia de las biografías para la formación cultural y ciudadana en Colombia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LC-5-2026-W10-biografia-personaje-colombiano-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W10-diario-personal-vivencias-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es una característica principal de un diario personal?",
+      "context": "En la clase de lenguaje en Cali, la profesora explica qué es un diario personal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se escribe en primera persona y cuenta vivencias propias del autor.",
+          "is_correct": true,
+          "feedback": "El diario personal recoge lo que le ocurre a quien lo escribe, usando \"yo\"."
+        },
+        {
+          "letter": "B",
+          "text": "Se escribe en tercera persona sobre la vida de un personaje famoso.",
+          "is_correct": false,
+          "feedback": "Eso corresponde a una biografía, no a un diario personal."
+        },
+        {
+          "letter": "C",
+          "text": "Se escribe para convencer a un lector de comprar un producto.",
+          "is_correct": false,
+          "feedback": "Ese propósito es el de un aviso publicitario."
+        },
+        {
+          "letter": "D",
+          "text": "Se escribe con instrucciones para armar un objeto.",
+          "is_correct": false,
+          "feedback": "Ese tipo de texto es un instructivo o manual."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer las características básicas del diario personal: narración en primera persona de experiencias propias.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-5-2026-W10-diario-personal-vivencias-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W10-diario-personal-vivencias-001-MASTERY-bundle-v2",
+      "statement": "¿Qué sentimiento expresa Tomás en este fragmento?",
+      "context": "Lee este fragmento del diario de Tomás: \"Lunes, 3 de marzo. Hoy llegué a casa muy contento porque gané el concurso de dibujo. Mi mamá me abrazó y preparamos arepas para celebrar.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alegría, porque ganó el concurso y celebró con su mamá.",
+          "is_correct": true,
+          "feedback": "Las palabras \"muy contento\" y \"celebrar\" muestran alegría."
+        },
+        {
+          "letter": "B",
+          "text": "Tristeza, porque perdió el concurso de dibujo.",
+          "is_correct": false,
+          "feedback": "El texto dice que ganó el concurso, no que lo perdió."
+        },
+        {
+          "letter": "C",
+          "text": "Miedo, porque se quedó solo en casa.",
+          "is_correct": false,
+          "feedback": "El fragmento no menciona miedo ni soledad."
+        },
+        {
+          "letter": "D",
+          "text": "Aburrimiento, porque no tenía nada que hacer.",
+          "is_correct": false,
+          "feedback": "Tomás estuvo ocupado celebrando, no aburrido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender el significado de un fragmento de diario e identificar las emociones que expresa el autor.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-5-2026-W10-diario-personal-vivencias-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W10-diario-personal-vivencias-001-MASTERY-bundle-v3",
+      "statement": "¿Qué palabra de la oración indica el momento en que ocurrieron los hechos?",
+      "context": "Mariana escribe en su diario: \"El sábado fui al parque con mi prima y comimos helado.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"El sábado\", porque señala cuándo sucedió lo narrado.",
+          "is_correct": true,
+          "feedback": "\"El sábado\" es la expresión de tiempo que ubica los hechos en un día concreto."
+        },
+        {
+          "letter": "B",
+          "text": "\"fui\", porque indica la acción de ir.",
+          "is_correct": false,
+          "feedback": "\"Fui\" es el verbo que expresa la acción, no el momento."
+        },
+        {
+          "letter": "C",
+          "text": "\"parque\", porque indica un lugar.",
+          "is_correct": false,
+          "feedback": "\"Parque\" es un lugar, no una expresión de tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "\"prima\", porque nombra a una persona.",
+          "is_correct": false,
+          "feedback": "\"Prima\" nombra a una persona, no un momento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el reconocimiento de expresiones de tiempo que organizan la secuencia de un diario.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-5-2026-W10-diario-personal-vivencias-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W10-diario-personal-vivencias-001-MASTERY-bundle-v4",
+      "statement": "¿Con qué propósito escribe Valentina este fragmento?",
+      "context": "El diario de Valentina dice: \"Martes, 5 de abril. Me siento un poco triste porque mi mejor amiga se mudó a otra ciudad.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para expresar y desahogar lo que siente en ese momento.",
+          "is_correct": true,
+          "feedback": "El diario personal sirve para contar y expresar las emociones propias."
+        },
+        {
+          "letter": "B",
+          "text": "Para dar una orden a su mejor amiga.",
+          "is_correct": false,
+          "feedback": "El fragmento no pide nada; solo expresa un sentimiento."
+        },
+        {
+          "letter": "C",
+          "text": "Para informar a toda la comunidad sobre una noticia.",
+          "is_correct": false,
+          "feedback": "Un diario personal es íntimo, no un medio de noticias."
+        },
+        {
+          "letter": "D",
+          "text": "Para enseñar cómo mudarse de ciudad.",
+          "is_correct": false,
+          "feedback": "El texto no da instrucciones; narra una emoción personal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la comprensión del propósito comunicativo del diario personal como espacio de expresión íntima.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-5-2026-W10-diario-personal-vivencias-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W10-diario-personal-vivencias-001-MASTERY-bundle-v5",
+      "statement": "¿Cómo organiza Santiago las vivencias en su diario?",
+      "context": "Lee el diario de Santiago: \"Lunes, 10 de junio. En la mañana ayudé a mi papá en la tienda. Luego, en la tarde, jugué fútbol con mis amigos. Por la noche, leí un cuento antes de dormir.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En orden cronológico, desde la mañana hasta la noche.",
+          "is_correct": true,
+          "feedback": "Las expresiones \"en la mañana\", \"en la tarde\" y \"por la noche\" ordenan los hechos en secuencia."
+        },
+        {
+          "letter": "B",
+          "text": "Por orden de importancia, sin importar el momento del día.",
+          "is_correct": false,
+          "feedback": "El texto sigue el paso del día, no un orden de importancia."
+        },
+        {
+          "letter": "C",
+          "text": "Comparando lo que hizo él con lo que hicieron otros niños.",
+          "is_correct": false,
+          "feedback": "Santiago narra sus propios hechos, sin compararlos con los de otros."
+        },
+        {
+          "letter": "D",
+          "text": "Explicando las causas de un solo suceso.",
+          "is_correct": false,
+          "feedback": "El fragmento relata varias actividades en secuencia, no una sola causa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar cómo se organiza la secuencia de vivencias en un diario mediante expresiones de tiempo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-5-2026-W10-diario-personal-vivencias-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W10-diario-personal-vivencias-001-MASTERY-bundle-v6",
+      "statement": "¿Qué cambio de expectativa se presenta en este fragmento?",
+      "context": "Lee: \"Miércoles, 12 de julio. Pensé que sería un día aburrido, pero cuando llegué al colegio encontré una sorpresa: mis compañeros me habían preparado una fiesta por mi cumpleaños.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Esperaba un día aburrido y terminó viviendo una alegre celebración.",
+          "is_correct": true,
+          "feedback": "El fragmento muestra un contraste entre lo que esperaba y lo que ocurrió."
+        },
+        {
+          "letter": "B",
+          "text": "Esperaba una fiesta y terminó aburrido en el colegio.",
+          "is_correct": false,
+          "feedback": "El orden es al revés: esperaba aburrimiento y encontró la fiesta."
+        },
+        {
+          "letter": "C",
+          "text": "No hubo ningún cambio entre lo esperado y lo sucedido.",
+          "is_correct": false,
+          "feedback": "Sí hubo un cambio: de la expectativa de aburrimiento a la sorpresa."
+        },
+        {
+          "letter": "D",
+          "text": "La sorpresa fue que no asistió ningún compañero.",
+          "is_correct": false,
+          "feedback": "El texto dice que sus compañeros le prepararon una fiesta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar el contraste entre expectativa y realidad en la narración personal y comprender su intención expresiva.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-5-2026-W10-diario-personal-vivencias-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W10-diario-personal-vivencias-001-MASTERY-bundle-v7",
+      "statement": "¿Qué se puede valorar al comparar los dos fragmentos?",
+      "context": "Lee dos diarios: uno de Ana, que escribe \"Hoy no salí porque llovió todo el día. Me sentí encerrada.\", y otro de Luis, que escribe \"Hoy llovió, así que aproveché para leer mi libro favorito.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que ante un mismo hecho, cada persona puede vivirlo y sentir emociones distintas.",
+          "is_correct": true,
+          "feedback": "Los dos vivieron la lluvia, pero la expresaron de manera diferente según su forma de sentir."
+        },
+        {
+          "letter": "B",
+          "text": "Que en los dos diarios la lluvia produjo exactamente la misma emoción.",
+          "is_correct": false,
+          "feedback": "Ana se sintió encerrada y Luis aprovechó para leer; las emociones no fueron iguales."
+        },
+        {
+          "letter": "C",
+          "text": "Que uno de los dos diarios es falso porque narra algo distinto.",
+          "is_correct": false,
+          "feedback": "Un diario puede narrar la misma situación de maneras diferentes y seguir siendo válido."
+        },
+        {
+          "letter": "D",
+          "text": "Que no existe ninguna relación entre los hechos y las emociones.",
+          "is_correct": false,
+          "feedback": "Sí existe relación entre lo vivido y lo que cada autor siente y escribe."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar puntos de vista personales en fragmentos de diario y reconocer que una misma experiencia admite distintas emociones.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-5-2026-W10-diario-personal-vivencias-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W10-diario-personal-vivencias-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál fragmento cumple mejor con las características del diario personal?",
+      "context": "Tu profesora te pide escribir un fragmento de diario sobre algo importante que te haya ocurrido en los últimos días.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Jueves, 15 de agosto. Hoy gané una carrera en el colegio y me sentí feliz.\"",
+          "is_correct": true,
+          "feedback": "Tiene fecha, está en primera persona y expresa una vivencia y una emoción."
+        },
+        {
+          "letter": "B",
+          "text": "\"Las carreras se ganan entrenando todos los días.\"",
+          "is_correct": false,
+          "feedback": "Es una opinión general, sin fecha, sin primera persona y sin vivencia personal."
+        },
+        {
+          "letter": "C",
+          "text": "\"Señor lector, compre ya este producto para correr más rápido.\"",
+          "is_correct": false,
+          "feedback": "Es un aviso publicitario, no un fragmento de diario."
+        },
+        {
+          "letter": "D",
+          "text": "\"Ayer la campeona mundial de atletismo rompió un récord.\"",
+          "is_correct": false,
+          "feedback": "Narra la vida de otra persona en tercera persona, no una vivencia propia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar si un texto cumple con las características del diario personal: fecha, primera persona, vivencias y emociones propias.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LC-5-2026-W10-diario-personal-vivencias-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

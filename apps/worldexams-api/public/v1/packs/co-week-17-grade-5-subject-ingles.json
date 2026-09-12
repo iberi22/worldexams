@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-17-grade-5-subject-ingles",
+    "generated_at": "2026-09-12T15:41:45.196Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-5-2026-W17-past-events-yesterday-last-week-001-MASTERY-bundle-v1",
+      "statement": "The word \"yesterday\" refers to:",
+      "context": "In a classroom in Tunja, Boyacá, the teacher writes \"yesterday\" on the board and asks when it happened.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The day before today.",
+          "is_correct": true,
+          "feedback": "Correct: yesterday is the past time marker for the previous day."
+        },
+        {
+          "letter": "B",
+          "text": "The day after today.",
+          "is_correct": false,
+          "feedback": "Incorrect: the day after today is tomorrow, a future marker."
+        },
+        {
+          "letter": "C",
+          "text": "Every day of the week.",
+          "is_correct": false,
+          "feedback": "Incorrect: every day is always, not a past marker."
+        },
+        {
+          "letter": "D",
+          "text": "A day in the next month.",
+          "is_correct": false,
+          "feedback": "Incorrect: that is future time, not yesterday."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Yesterday es un marcador de pasado: señala el día anterior al de hoy y suele acompañar al pasado simple.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-5-2026-W17-past-events-yesterday-last-week-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W17-past-events-yesterday-last-week-001-MASTERY-bundle-v2",
+      "statement": "What does \"last week\" mean?",
+      "context": "In Pasto, Nariño, a student tells his friend: \"I visited my grandmother last week\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Next week, in the future.",
+          "is_correct": false,
+          "feedback": "Incorrect: next week points to the future, not the past."
+        },
+        {
+          "letter": "B",
+          "text": "Every week, always.",
+          "is_correct": false,
+          "feedback": "Incorrect: that would be every week, a frequency, not past time."
+        },
+        {
+          "letter": "C",
+          "text": "The week before this week.",
+          "is_correct": true,
+          "feedback": "Correct: last week locates the action in the past week."
+        },
+        {
+          "letter": "D",
+          "text": "This week, right now.",
+          "is_correct": false,
+          "feedback": "Incorrect: this week includes the present, not only the past."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Last week ubica la acción en la semana pasada. Es otro marcador típico del pasado simple.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-ING-5-2026-W17-past-events-yesterday-last-week-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W17-past-events-yesterday-last-week-001-MASTERY-bundle-v3",
+      "statement": "Which is the correct sentence?",
+      "context": "In Neiva, Huila, Sara writes in her diary: \"Yesterday I ___ football in the park\". She needs the past of \"play\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yesterday I play football in the park.",
+          "is_correct": false,
+          "feedback": "Incorrect: play is present; with yesterday we need the past form."
+        },
+        {
+          "letter": "B",
+          "text": "Yesterday I played football in the park.",
+          "is_correct": true,
+          "feedback": "Correct: regular verbs add -ed in the past: played."
+        },
+        {
+          "letter": "C",
+          "text": "Yesterday I playing football in the park.",
+          "is_correct": false,
+          "feedback": "Incorrect: playing needs was/were, not yesterday alone."
+        },
+        {
+          "letter": "D",
+          "text": "Yesterday I plays football in the park.",
+          "is_correct": false,
+          "feedback": "Incorrect: plays is present for he/she, never past."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los verbos regulares forman el pasado agregando -ed: play → played. Con yesterday siempre se usa el pasado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.82,
+      "bundle_id": "CO-ING-5-2026-W17-past-events-yesterday-last-week-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W17-past-events-yesterday-last-week-001-MASTERY-bundle-v4",
+      "statement": "Which is the correct sentence?",
+      "context": "In Sincelejo, Sucre, two brothers talk: \"We ___ at the stadium last week\". The verb is \"was/were\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "We was at the stadium last week.",
+          "is_correct": false,
+          "feedback": "Incorrect: was goes with I/he/she, not with we."
+        },
+        {
+          "letter": "B",
+          "text": "We is at the stadium last week.",
+          "is_correct": false,
+          "feedback": "Incorrect: is is present; last week needs past."
+        },
+        {
+          "letter": "C",
+          "text": "We are at the stadium last week.",
+          "is_correct": false,
+          "feedback": "Incorrect: are is present plural, not past."
+        },
+        {
+          "letter": "D",
+          "text": "We were at the stadium last week.",
+          "is_correct": true,
+          "feedback": "Correct: were goes with you/we/they in the past."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Was se usa con I/he/she/it y were con you/we/they. Como el sujeto es we, lo correcto es were.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-5-2026-W17-past-events-yesterday-last-week-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W17-past-events-yesterday-last-week-001-MASTERY-bundle-v5",
+      "statement": "According to the note, what did the writer do last week?",
+      "context": "Read the note from Valledupar, Cesar: \"Hi! Last week I visited Cartagena. I walked on the beach and I watched a beautiful sunset. It was great!\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Visited Cartagena, walked on the beach and watched a sunset.",
+          "is_correct": true,
+          "feedback": "Correct: the three past verbs describe exactly what the writer did."
+        },
+        {
+          "letter": "B",
+          "text": "Stayed at home and played video games.",
+          "is_correct": false,
+          "feedback": "Incorrect: the note never mentions home or video games."
+        },
+        {
+          "letter": "C",
+          "text": "Traveled to Bogotá for a concert.",
+          "is_correct": false,
+          "feedback": "Incorrect: the city in the note is Cartagena, not Bogotá."
+        },
+        {
+          "letter": "D",
+          "text": "Cooked dinner for his family.",
+          "is_correct": false,
+          "feedback": "Incorrect: there is no mention of cooking or dinner."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender un texto en pasado exige identificar los verbos en -ed: visited, walked y watched cuentan lo que hizo el autor.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.74,
+      "bundle_id": "CO-ING-5-2026-W17-past-events-yesterday-last-week-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W17-past-events-yesterday-last-week-001-MASTERY-bundle-v6",
+      "statement": "What is the best explanation?",
+      "context": "In Quibdó, Chocó, a student wrote: \"Yesterday I helped my mother, I cleaned my room and I was happy\". The teacher asks why all verbs are in the past.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Because helped, cleaned and was are future forms.",
+          "is_correct": false,
+          "feedback": "Incorrect: all three are past forms, not future."
+        },
+        {
+          "letter": "B",
+          "text": "Because yesterday only works with present verbs.",
+          "is_correct": false,
+          "feedback": "Incorrect: yesterday always requires past verbs."
+        },
+        {
+          "letter": "C",
+          "text": "Because yesterday sets the whole sentence in the past, so regular verbs take -ed and be becomes was.",
+          "is_correct": true,
+          "feedback": "Correct: the time marker controls every verb: helped, cleaned (regular) and was (be for I)."
+        },
+        {
+          "letter": "D",
+          "text": "Because the verbs have no relation with yesterday.",
+          "is_correct": false,
+          "feedback": "Incorrect: yesterday is exactly what forces the past forms."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar la oración muestra coherencia temporal: yesterday obliga al pasado en todos los verbos, regulares (-ed) e irregulares (was).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-5-2026-W17-past-events-yesterday-last-week-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W17-past-events-yesterday-last-week-001-MASTERY-bundle-v7",
+      "statement": "Which sentence is correct and why?",
+      "context": "In Popayán, Cauca, two sentences compete: \"She was tired yesterday\" and \"She were tired yesterday\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The second, because were goes with she.",
+          "is_correct": false,
+          "feedback": "Incorrect: were never goes with she; it goes with you/we/they."
+        },
+        {
+          "letter": "B",
+          "text": "The first, because was goes with she in the past.",
+          "is_correct": true,
+          "feedback": "Correct: I/he/she/it take was; the subject she requires was."
+        },
+        {
+          "letter": "C",
+          "text": "Both, because was and were are the same.",
+          "is_correct": false,
+          "feedback": "Incorrect: they change with the subject and are not interchangeable."
+        },
+        {
+          "letter": "D",
+          "text": "None, because yesterday cannot go with was.",
+          "is_correct": false,
+          "feedback": "Incorrect: yesterday combines perfectly with was/were."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La elección entre was y were depende del sujeto: she es tercera persona singular y exige was.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lexico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-ING-5-2026-W17-past-events-yesterday-last-week-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W17-past-events-yesterday-last-week-001-MASTERY-bundle-v8",
+      "statement": "How should the report be evaluated and corrected?",
+      "context": "In Yopal, Casanare, a student presents his weekend report: \"Last week I visit my uncle, I play football and I was very happy\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is perfect because visit and play are past forms.",
+          "is_correct": false,
+          "feedback": "Incorrect: visit and play are present; the past forms are visited and played."
+        },
+        {
+          "letter": "B",
+          "text": "It is perfect because last week works with present verbs.",
+          "is_correct": false,
+          "feedback": "Incorrect: last week always requires past verbs."
+        },
+        {
+          "letter": "C",
+          "text": "Only was is wrong and should be is.",
+          "is_correct": false,
+          "feedback": "Incorrect: was is the only correct verb; is would break the past context."
+        },
+        {
+          "letter": "D",
+          "text": "It has two errors: visit should be visited and play should be played; only was is correct and must be kept.",
+          "is_correct": true,
+          "feedback": "Correct: evaluates each verb against last week and fixes exactly the two present forms."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar un texto en pasado exige revisar verbo por verbo: los marcadores como last week obligan a formas pasadas (visited, played, was).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-5-2026-W17-past-events-yesterday-last-week-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

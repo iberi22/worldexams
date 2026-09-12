@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-15-grade-5-subject-matematicas",
+    "generated_at": "2026-09-12T15:41:45.213Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-5-2026-W15-divisibilidad-multiplos-divisores-001-MASTERY-bundle-v1",
+      "statement": "¿Qué significa que un número sea divisible por otro?",
+      "context": "En el colegio de Pereira, la profesora reparte 12 colores entre varios estudiantes sin que sobre ninguno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que al dividirlo entre ese número, el residuo es cero.",
+          "is_correct": true,
+          "feedback": "Un número es divisible por otro cuando la división es exacta y no sobra nada."
+        },
+        {
+          "letter": "B",
+          "text": "Que al dividirlo, el residuo siempre es uno.",
+          "is_correct": false,
+          "feedback": "Si el residuo es uno, la división no es exacta y el número no es divisible."
+        },
+        {
+          "letter": "C",
+          "text": "Que el número es más grande que el otro.",
+          "is_correct": false,
+          "feedback": "El tamaño de los números no determina la divisibilidad entre ellos."
+        },
+        {
+          "letter": "D",
+          "text": "Que el número es impar.",
+          "is_correct": false,
+          "feedback": "Ser impar no define la divisibilidad; también hay números pares divisibles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender el significado de la divisibilidad como división exacta con residuo cero.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-5-2026-W15-divisibilidad-multiplos-divisores-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W15-divisibilidad-multiplos-divisores-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de los siguientes números es un múltiplo de 5?",
+      "context": "Lee: \"Los múltiplos de 5 son los números que resultan de multiplicar 5 por 1, 2, 3, 4 y así sucesivamente.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "35.",
+          "is_correct": true,
+          "feedback": "35 = 5 × 7, por lo que es un múltiplo exacto de 5."
+        },
+        {
+          "letter": "B",
+          "text": "32.",
+          "is_correct": false,
+          "feedback": "32 no resulta de multiplicar 5 por un número entero."
+        },
+        {
+          "letter": "C",
+          "text": "33.",
+          "is_correct": false,
+          "feedback": "33 no es múltiplo de 5 porque no termina en 0 ni en 5."
+        },
+        {
+          "letter": "D",
+          "text": "38.",
+          "is_correct": false,
+          "feedback": "38 no es múltiplo de 5, pues la división entre 5 deja residuo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer múltiplos de un número a partir de la multiplicación y del criterio de terminación en 0 o 5.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-5-2026-W15-divisibilidad-multiplos-divisores-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W15-divisibilidad-multiplos-divisores-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de los siguientes números es un divisor de 40?",
+      "context": "Un estudiante debe organizar 40 sillas en filas iguales, sin que sobre ninguna, en el salón de un colegio de Yopal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8.",
+          "is_correct": true,
+          "feedback": "40 ÷ 8 = 5, una división exacta, así que 8 es divisor de 40."
+        },
+        {
+          "letter": "B",
+          "text": "6.",
+          "is_correct": false,
+          "feedback": "40 ÷ 6 no es exacta, porque 6 × 6 = 36 y 6 × 7 = 42."
+        },
+        {
+          "letter": "C",
+          "text": "7.",
+          "is_correct": false,
+          "feedback": "40 ÷ 7 no es exacta, ya que 7 × 5 = 35 y 7 × 6 = 42."
+        },
+        {
+          "letter": "D",
+          "text": "9.",
+          "is_correct": false,
+          "feedback": "40 ÷ 9 no es exacta, porque 9 × 4 = 36 y 9 × 5 = 45."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el concepto de divisor para repartir una cantidad en grupos iguales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-5-2026-W15-divisibilidad-multiplos-divisores-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W15-divisibilidad-multiplos-divisores-001-MASTERY-bundle-v4",
+      "statement": "¿Cómo se sabe si un número es divisible por 10 sin hacer la división completa?",
+      "context": "La profesora escribió el número 4.530 en el tablero de un colegio de Neiva y pide aplicar el criterio de divisibilidad por 10.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Si termina en 0.",
+          "is_correct": true,
+          "feedback": "Todo número terminado en 0 es divisible por 10 de forma exacta."
+        },
+        {
+          "letter": "B",
+          "text": "Si termina en 5.",
+          "is_correct": false,
+          "feedback": "Terminar en 5 indica divisibilidad por 5, no necesariamente por 10."
+        },
+        {
+          "letter": "C",
+          "text": "Si la suma de sus cifras es 10.",
+          "is_correct": false,
+          "feedback": "La suma de las cifras no es el criterio para la divisibilidad por 10."
+        },
+        {
+          "letter": "D",
+          "text": "Si es un número impar.",
+          "is_correct": false,
+          "feedback": "Los números impares no pueden ser divisibles por 10."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el criterio de divisibilidad por 10 observando la última cifra del número.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-5-2026-W15-divisibilidad-multiplos-divisores-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W15-divisibilidad-multiplos-divisores-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál de estos números es divisible por 3?",
+      "context": "Un grupo de estudiantes de una escuela de Villavicencio clasifica números según el criterio de divisibilidad por 3.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "123.",
+          "is_correct": true,
+          "feedback": "1 + 2 + 3 = 6, y 6 es múltiplo de 3, así que 123 es divisible por 3."
+        },
+        {
+          "letter": "B",
+          "text": "124.",
+          "is_correct": false,
+          "feedback": "1 + 2 + 4 = 7, que no es múltiplo de 3, por eso 124 no es divisible por 3."
+        },
+        {
+          "letter": "C",
+          "text": "125.",
+          "is_correct": false,
+          "feedback": "1 + 2 + 5 = 8, que no es múltiplo de 3, así que 125 no es divisible por 3."
+        },
+        {
+          "letter": "D",
+          "text": "127.",
+          "is_correct": false,
+          "feedback": "1 + 2 + 7 = 10, que no es múltiplo de 3, por eso 127 no es divisible por 3."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el criterio de divisibilidad por 3 sumando las cifras del número.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-5-2026-W15-divisibilidad-multiplos-divisores-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W15-divisibilidad-multiplos-divisores-001-MASTERY-bundle-v6",
+      "statement": "¿Qué permite concluir esta comparación sobre los criterios de divisibilidad?",
+      "context": "Compara: \"El número 60 es divisible por 2, por 3 y por 5 al mismo tiempo. El número 55 es divisible por 5, pero no por 2 ni por 3.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un mismo número puede cumplir varios criterios de divisibilidad a la vez.",
+          "is_correct": true,
+          "feedback": "El 60 cumple tres criterios, lo que muestra que no son excluyentes."
+        },
+        {
+          "letter": "B",
+          "text": "Cada número cumple solamente un criterio de divisibilidad en toda su vida.",
+          "is_correct": false,
+          "feedback": "Como muestra el 60, un número puede cumplir varios criterios simultáneamente."
+        },
+        {
+          "letter": "C",
+          "text": "El número 55 es divisible por 2 porque es impar.",
+          "is_correct": false,
+          "feedback": "Los números impares no son divisibles por 2, así que la afirmación es falsa."
+        },
+        {
+          "letter": "D",
+          "text": "El número 60 no es divisible por ningún número.",
+          "is_correct": false,
+          "feedback": "El 60 sí es divisible, por ejemplo, por 2, 3, 5 y 10."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar que los criterios de divisibilidad pueden cumplirse simultáneamente en un mismo número.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-5-2026-W15-divisibilidad-multiplos-divisores-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W15-divisibilidad-multiplos-divisores-001-MASTERY-bundle-v7",
+      "statement": "¿Qué relación existe entre los divisores de un número y el reparto en partes iguales?",
+      "context": "Lee: \"Para repartir 24 dulces en partes iguales se pueden formar grupos de 2, 3, 4, 6, 8 o 12 dulces, porque todos esos números son divisores de 24.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los divisores indican las cantidades de grupos iguales en que se puede repartir el total sin que sobre nada.",
+          "is_correct": true,
+          "feedback": "Cada divisor permite un reparto exacto del total en grupos iguales."
+        },
+        {
+          "letter": "B",
+          "text": "Los divisores indican cuántos dulces sobran al repartir.",
+          "is_correct": false,
+          "feedback": "Cuando se usa un divisor, el reparto es exacto y no sobran dulces."
+        },
+        {
+          "letter": "C",
+          "text": "Los divisores de 24 son solo el 5 y el 7.",
+          "is_correct": false,
+          "feedback": "5 y 7 no son divisores de 24, porque la división entre ellos no es exacta."
+        },
+        {
+          "letter": "D",
+          "text": "No existe relación entre los divisores y el reparto de una cantidad.",
+          "is_correct": false,
+          "feedback": "Los divisores son precisamente las formas de repartir el total sin sobrantes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la relación entre divisores y reparto exacto en situaciones cotidianas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-5-2026-W15-divisibilidad-multiplos-divisores-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W15-divisibilidad-multiplos-divisores-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál conclusión evalúa mejor la utilidad de los criterios de divisibilidad?",
+      "context": "Lee: 'Los criterios de divisibilidad permiten saber rápidamente si un número se puede repartir en partes iguales: por 2 si termina en cifra par, por 5 si termina en 0 o 5, por 10 si termina en 0 y por 3 si la suma de sus cifras es múltiplo de 3. Estas reglas se usan cuando organizamos grupos o repartimos materiales.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sirven para descubrir rápido los divisores y repartir cantidades en partes iguales sin hacer siempre la división.",
+          "is_correct": true,
+          "feedback": "Los criterios agilizan el cálculo y son útiles en repartos de la vida diaria."
+        },
+        {
+          "letter": "B",
+          "text": "Solo sirven para números menores que 10.",
+          "is_correct": false,
+          "feedback": "Los criterios se aplican a números de muchas cifras, no solo a menores que 10."
+        },
+        {
+          "letter": "C",
+          "text": "No tienen ninguna aplicación fuera del salón de clases.",
+          "is_correct": false,
+          "feedback": "Se usan en repartos, compras y organización de grupos en la vida cotidiana."
+        },
+        {
+          "letter": "D",
+          "text": "Reemplazan por completo a la suma y a la resta.",
+          "is_correct": false,
+          "feedback": "Los criterios se apoyan en la suma y no reemplazan las operaciones básicas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la utilidad de los criterios de divisibilidad para resolver problemas de reparto.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-5-2026-W15-divisibilidad-multiplos-divisores-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

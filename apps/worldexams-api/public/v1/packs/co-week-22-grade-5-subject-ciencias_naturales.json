@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-22-grade-5-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T15:41:45.190Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-5-2026-W22-materiales-naturales-artificiales-propiedades-001-MASTERY-bundle-v1",
+      "statement": "La madera que usan los artesanos es un material de origen:",
+      "context": "En una carpintería del barrio Obrero en Popayán, Cauca, los artesanos usan madera para fabricar sillas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Natural, porque proviene de los árboles.",
+          "is_correct": true,
+          "feedback": "Es correcta: la madera se obtiene directamente de los troncos de los árboles, sin fabricación industrial."
+        },
+        {
+          "letter": "B",
+          "text": "Artificial, porque se fabrica en laboratorios químicos.",
+          "is_correct": false,
+          "feedback": "Error: la madera no se fabrica en laboratorios; proviene de seres vivos."
+        },
+        {
+          "letter": "C",
+          "text": "Artificial, porque los carpinteros la inventaron.",
+          "is_correct": false,
+          "feedback": "Error: los carpinteros transforman la madera, pero no la crean; su origen es natural."
+        },
+        {
+          "letter": "D",
+          "text": "Natural, porque se extrae del petróleo.",
+          "is_correct": false,
+          "feedback": "Error: del petróleo se obtienen plásticos, no madera."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los materiales naturales se obtienen directamente de la naturaleza (plantas, animales, minerales). La madera es natural porque proviene de los árboles.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-5-2026-W22-materiales-naturales-artificiales-propiedades-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W22-materiales-naturales-artificiales-propiedades-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál afirmación distingue correctamente ambos materiales?",
+      "context": "En una tienda de Sincelejo, Sucre, una niña compara una bolsa de plástico con una mochila de fique tejido por artesanos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos son naturales porque se venden en la misma tienda.",
+          "is_correct": false,
+          "feedback": "Error: el lugar de venta no define el origen del material."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos son artificiales porque los dos sirven para cargar cosas.",
+          "is_correct": false,
+          "feedback": "Error: la función no define el origen; el fique proviene de una planta."
+        },
+        {
+          "letter": "C",
+          "text": "El fique es natural porque viene de una planta, y el plástico es artificial porque se fabrica en industrias.",
+          "is_correct": true,
+          "feedback": "Es correcta: el origen (planta frente a fábrica) es lo que distingue un material natural de uno artificial."
+        },
+        {
+          "letter": "D",
+          "text": "El plástico es natural porque flota y el fique es artificial porque es áspero.",
+          "is_correct": false,
+          "feedback": "Error: flotar o ser áspero son propiedades, no indican el origen del material."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El origen define la clasificación: natural si proviene de la naturaleza (fique de la planta) y artificial si lo fabrica el ser humano en industrias (plástico).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.86,
+      "bundle_id": "CO-CN-5-2026-W22-materiales-naturales-artificiales-propiedades-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W22-materiales-naturales-artificiales-propiedades-001-MASTERY-bundle-v3",
+      "statement": "¿Qué propiedad deben buscar en el material del piso?",
+      "context": "Para el festival del Currulao en Tumaco, Nariño, necesitan un piso que no se raye con el baile ni con los muebles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Flexibilidad, para que se doble fácilmente.",
+          "is_correct": false,
+          "feedback": "Error: un piso flexible se deformaría con el peso y no es lo que se necesita."
+        },
+        {
+          "letter": "B",
+          "text": "Dureza, para que resista rayones y golpes.",
+          "is_correct": true,
+          "feedback": "Es correcta: la dureza es la resistencia a ser rayado o deformado, ideal para un piso de alto tránsito."
+        },
+        {
+          "letter": "C",
+          "text": "Permeabilidad, para que absorba el agua de la lluvia.",
+          "is_correct": false,
+          "feedback": "Error: un piso que absorbe agua se dañaría rápidamente."
+        },
+        {
+          "letter": "D",
+          "text": "Flotabilidad, para que flote en el agua.",
+          "is_correct": false,
+          "feedback": "Error: la flotabilidad sirve para objetos en el agua, no para un piso firme."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La dureza mide la resistencia de un material a ser rayado o deformado. Los pisos de cerámica o piedra son duros y por eso duran más.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-5-2026-W22-materiales-naturales-artificiales-propiedades-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W22-materiales-naturales-artificiales-propiedades-001-MASTERY-bundle-v4",
+      "statement": "El agua pasó por el algodón y el cartón, pero no por el plástico. ¿Qué propiedad están comparando?",
+      "context": "Un grupo de estudiantes de Neiva, Huila, prueba si el agua atraviesa una tela de algodón, un plástico y un cartón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La dureza de los tres materiales.",
+          "is_correct": false,
+          "feedback": "Error: la dureza se prueba rayando, no dejando pasar agua."
+        },
+        {
+          "letter": "B",
+          "text": "La flexibilidad de los tres materiales.",
+          "is_correct": false,
+          "feedback": "Error: la flexibilidad se prueba doblando, no con agua."
+        },
+        {
+          "letter": "C",
+          "text": "La flotabilidad de los tres materiales.",
+          "is_correct": false,
+          "feedback": "Error: la flotabilidad se prueba viendo si flotan en agua, no si dejan pasar el agua."
+        },
+        {
+          "letter": "D",
+          "text": "La permeabilidad, es decir, si dejan pasar el agua a través de ellos.",
+          "is_correct": true,
+          "feedback": "Es correcta: el experimento compara qué materiales permiten el paso del agua (permeables) y cuáles no (impermeables como el plástico)."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La permeabilidad es la capacidad de un material para dejar pasar líquidos. El algodón y el cartón son permeables; el plástico es impermeable.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-5-2026-W22-materiales-naturales-artificiales-propiedades-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W22-materiales-naturales-artificiales-propiedades-001-MASTERY-bundle-v5",
+      "statement": "¿Por qué la canoa de madera flota en el río?",
+      "context": "En el río Atrato, cerca de Quibdó, Chocó, los niños juegan con una canoa de madera y observan que no se hunde.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la madera es menos densa que el agua y por eso flota.",
+          "is_correct": true,
+          "feedback": "Es correcta: los objetos menos densos que el agua flotan; la madera cumple esa condición."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la madera absorbe toda el agua del río.",
+          "is_correct": false,
+          "feedback": "Error: si absorbiera toda el agua se volvería pesada y se hundiría."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el río empuja la canoa hacia arriba con las manos.",
+          "is_correct": false,
+          "feedback": "Error: el río ejerce un empuje por el agua desplazada, no con manos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la madera es un material artificial muy liviano.",
+          "is_correct": false,
+          "feedback": "Error: la madera es natural, y flotar depende de la densidad, no de ser artificial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La flotabilidad depende de la densidad: si el objeto es menos denso que el agua, flota. La madera es menos densa que el agua y por eso las canoas flotan.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.74,
+      "bundle_id": "CO-CN-5-2026-W22-materiales-naturales-artificiales-propiedades-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W22-materiales-naturales-artificiales-propiedades-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál clasificación por origen es correcta?",
+      "context": "En Tunja, Boyacá, una estudiante clasifica cuatro objetos: cuchara de palo, olla de barro, botella plástica y llanta de caucho sintético.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Naturales: botella plástica y llanta sintética; artificiales: cuchara de palo y olla de barro.",
+          "is_correct": false,
+          "feedback": "Error: invierte la clasificación; el plástico y el caucho sintético son fabricados."
+        },
+        {
+          "letter": "B",
+          "text": "Todos son naturales porque todos se pueden tocar.",
+          "is_correct": false,
+          "feedback": "Error: poder tocarlos no define el origen del material."
+        },
+        {
+          "letter": "C",
+          "text": "Naturales: cuchara de palo y olla de barro; artificiales: botella plástica y llanta de caucho sintético.",
+          "is_correct": true,
+          "feedback": "Es correcta: la madera y el barro provienen de la naturaleza, mientras el plástico y el caucho sintético se fabrican en industrias."
+        },
+        {
+          "letter": "D",
+          "text": "Todos son artificiales porque todos fueron moldeados por personas.",
+          "is_correct": false,
+          "feedback": "Error: moldear un material natural no lo convierte en artificial; el origen sigue siendo natural."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar el origen de cada objeto permite clasificarlo bien: palo y barro vienen de la naturaleza; plástico y caucho sintético son productos industriales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-5-2026-W22-materiales-naturales-artificiales-propiedades-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W22-materiales-naturales-artificiales-propiedades-001-MASTERY-bundle-v7",
+      "statement": "Analizando la flexibilidad, ¿qué material conviene y por qué?",
+      "context": "En Valledupar, Cesar, necesitan elegir el material para una manguera de riego: alambre rígido de acero o tubo flexible de caucho.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El alambre de acero, porque al ser rígido se dobla fácilmente sin romperse.",
+          "is_correct": false,
+          "feedback": "Error: lo rígido se resiste a doblarse; el acero no es flexible para una manguera."
+        },
+        {
+          "letter": "B",
+          "text": "El tubo de caucho, porque la flexibilidad le permite doblarse sin romperse y conducir el agua por el cultivo.",
+          "is_correct": true,
+          "feedback": "Es correcta: la flexibilidad es la capacidad de doblarse sin romperse, justo lo que necesita una manguera."
+        },
+        {
+          "letter": "C",
+          "text": "El alambre de acero, porque la flexibilidad significa ser muy duro.",
+          "is_correct": false,
+          "feedback": "Error: confunde flexibilidad con dureza; son propiedades distintas."
+        },
+        {
+          "letter": "D",
+          "text": "El tubo de caucho, porque la flexibilidad significa dejar pasar el agua por sus paredes.",
+          "is_correct": false,
+          "feedback": "Error: eso describe permeabilidad, no flexibilidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La flexibilidad es la capacidad de doblarse sin romperse. El caucho es flexible y sirve para mangueras; el acero rígido no se adapta a curvas del terreno.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CN-5-2026-W22-materiales-naturales-artificiales-propiedades-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W22-materiales-naturales-artificiales-propiedades-001-MASTERY-bundle-v8",
+      "statement": "¿Cómo se evalúa esa afirmación?",
+      "context": "En una feria escolar de Yopal, Casanare, un equipo afirma: \"Para un impermeable lo mejor es tela de algodón sin tratar, porque el algodón natural siempre repele el agua\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta porque todo material natural repele el agua.",
+          "is_correct": false,
+          "feedback": "Error: muchos materiales naturales como el algodón y el cartón absorben agua."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta porque el algodón es artificial e impermeable.",
+          "is_correct": false,
+          "feedback": "Error: el algodón es natural y permeable; además confunde el origen."
+        },
+        {
+          "letter": "C",
+          "text": "Es correcta porque la permeabilidad no importa en un impermeable.",
+          "is_correct": false,
+          "feedback": "Error: la impermeabilidad es justo la propiedad esencial de un impermeable."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecta porque el algodón sin tratar es permeable y absorbe el agua; para un impermeable se necesita un material impermeable como el plástico.",
+          "is_correct": true,
+          "feedback": "Es correcta: evalúa origen y propiedad a la vez y propone el material adecuado según la evidencia."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar exige contrastar la afirmación con evidencias: el algodón es natural pero permeable, así que no sirve para un impermeable; el plástico impermeable sí es adecuado.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-5-2026-W22-materiales-naturales-artificiales-propiedades-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

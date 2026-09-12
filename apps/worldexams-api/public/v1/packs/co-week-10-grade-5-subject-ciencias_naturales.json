@@ -1,0 +1,747 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-10-grade-5-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T15:41:45.185Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-5-2026-W10-ecosistemas-cadenas-alimenticias-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es un ecosistema?",
+      "context": "En una clase de ciencias en Valledupar, la profesora explica los componentes vivos y no vivos de un ecosistema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un conjunto formado por seres vivos (factores bióticos) y el ambiente físico (factores abióticos) que interactúan entre sí.",
+          "is_correct": true,
+          "feedback": "El ecosistema incluye componentes vivos y no vivos en interacción."
+        },
+        {
+          "letter": "B",
+          "text": "Un grupo de animales que viven juntos sin relacionarse con el ambiente.",
+          "is_correct": false,
+          "feedback": "El ecosistema siempre incluye la relación con el ambiente físico."
+        },
+        {
+          "letter": "C",
+          "text": "Una ciudad con muchos edificios y vehículos.",
+          "is_correct": false,
+          "feedback": "Una ciudad es un entorno construido, no un ecosistema natural."
+        },
+        {
+          "letter": "D",
+          "text": "Solamente las plantas que se encuentran en un lugar.",
+          "is_correct": false,
+          "feedback": "Faltan los animales, otros organismos y los factores abióticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer la definición básica de ecosistema y sus dos tipos de componentes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-5-2026-W10-ecosistemas-cadenas-alimenticias-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W10-ecosistemas-cadenas-alimenticias-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué los factores abióticos como el agua y la luz son indispensables para los seres vivos?",
+      "context": "Lee: \"En un ecosistema, el agua, la luz solar, el suelo y el aire son tan importantes como las plantas y los animales\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los seres vivos dependen del agua, la luz, el aire y el suelo para alimentarse, crecer y sobrevivir.",
+          "is_correct": true,
+          "feedback": "Los factores abióticos son condiciones esenciales para la vida."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los animales pueden vivir sin agua durante meses.",
+          "is_correct": false,
+          "feedback": "Sin agua los animales no pueden sobrevivir mucho tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las plantas no necesitan luz para producir su alimento.",
+          "is_correct": false,
+          "feedback": "Las plantas sí necesitan luz para realizar la fotosíntesis."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los factores abióticos son únicamente decorativos.",
+          "is_correct": false,
+          "feedback": "Cumplen funciones vitales, no decorativas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender la importancia de los factores abióticos para la supervivencia de los organismos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.84,
+      "bundle_id": "CO-CN-5-2026-W10-ecosistemas-cadenas-alimenticias-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W10-ecosistemas-cadenas-alimenticias-001-MASTERY-bundle-v3",
+      "statement": "Si organizan los organismos anteriores en una cadena alimenticia sencilla, ¿cuál sería el orden correcto?",
+      "context": "Un grupo de estudiantes observa un ecosistema de páramo en el Parque Nacional Los Nevados y registra: frailejones, musgos, venados, conejos y águilas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Frailejones y musgos (productores) → conejos (consumidor primario) → águila (consumidor secundario).",
+          "is_correct": true,
+          "feedback": "Los productores alimentan a los consumidores primarios y estos a los secundarios."
+        },
+        {
+          "letter": "B",
+          "text": "Águila (productor) → conejo (consumidor primario) → frailejones (consumidor secundario).",
+          "is_correct": false,
+          "feedback": "Las águilas no son productoras porque no hacen fotosíntesis."
+        },
+        {
+          "letter": "C",
+          "text": "Musgos (consumidor secundario) → venado (productor) → águila (consumidor primario).",
+          "is_correct": false,
+          "feedback": "Los musgos no son consumidores y el venado no es productor."
+        },
+        {
+          "letter": "D",
+          "text": "Conejo (descomponedor) → águila (productor) → frailejón (consumidor primario).",
+          "is_correct": false,
+          "feedback": "Los conejos no son descomponedores ni las águilas productoras."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el concepto de cadena alimenticia para ordenar organismos según su rol trófico.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CN-5-2026-W10-ecosistemas-cadenas-alimenticias-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W10-ecosistemas-cadenas-alimenticias-001-MASTERY-bundle-v4",
+      "statement": "¿Qué nivel trófico comparten la rana y el pez en sus respectivas cadenas?",
+      "context": "En un humedal de la región de La Mojana, los estudiantes identifican tres cadenas: \"Pasto → saltamontes → rana → serpiente\" y \"Algas → camarón → pez → garza\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Consumidores secundarios, porque se alimentan de consumidores primarios.",
+          "is_correct": true,
+          "feedback": "Ambos se alimentan de consumidores primarios, así que son consumidores secundarios."
+        },
+        {
+          "letter": "B",
+          "text": "Productores, porque fabrican su propio alimento.",
+          "is_correct": false,
+          "feedback": "Los productores hacen fotosíntesis; la rana y el pez no."
+        },
+        {
+          "letter": "C",
+          "text": "Consumidores primarios, porque comen plantas.",
+          "is_correct": false,
+          "feedback": "No comen directamente a los productores, sino a otros consumidores."
+        },
+        {
+          "letter": "D",
+          "text": "Descomponedores, porque se alimentan de materia en descomposición.",
+          "is_correct": false,
+          "feedback": "Ni la rana ni el pez son descomponedores."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la clasificación de niveles tróficos para comparar cadenas alimenticias distintas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.71,
+      "bundle_id": "CO-CN-5-2026-W10-ecosistemas-cadenas-alimenticias-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W10-ecosistemas-cadenas-alimenticias-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la función de estos organismos en el ecosistema?",
+      "context": "En el suelo de un bosque andino, los estudiantes observan lombrices, hongos y bacterias que actúan sobre hojas caídas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Actúan como descomponedores, transforman la materia orgánica muerta en nutrientes para el suelo.",
+          "is_correct": true,
+          "feedback": "Los descomponedores reciclan la materia orgánica y enriquecen el suelo."
+        },
+        {
+          "letter": "B",
+          "text": "Son productores porque fabrican su propio alimento.",
+          "is_correct": false,
+          "feedback": "No hacen fotosíntesis; consumen materia en descomposición."
+        },
+        {
+          "letter": "C",
+          "text": "Son consumidores terciarios porque cazan otros animales.",
+          "is_correct": false,
+          "feedback": "No cazan animales; procesan materia muerta."
+        },
+        {
+          "letter": "D",
+          "text": "No cumplen ninguna función en el ecosistema.",
+          "is_correct": false,
+          "feedback": "Son fundamentales para el reciclaje de nutrientes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el concepto de descomponedores para reconocer su papel en el reciclaje de nutrientes.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-5-2026-W10-ecosistemas-cadenas-alimenticias-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W10-ecosistemas-cadenas-alimenticias-001-MASTERY-bundle-v6",
+      "statement": "¿Qué diferencia importante existe entre las dos cadenas en cuanto a los niveles tróficos?",
+      "context": "Compara: \"Cadena 1: Pasto → conejo → zorro. Cadena 2: Pasto → conejo → águila → bacteria\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cadena 2 tiene un consumidor terciario (águila) y un descomponedor (bacteria); la cadena 1 solo llega hasta consumidor secundario.",
+          "is_correct": true,
+          "feedback": "La cadena 2 incluye un nivel trófico más alto y un descomponedor."
+        },
+        {
+          "letter": "B",
+          "text": "La cadena 1 tiene más productores que la cadena 2.",
+          "is_correct": false,
+          "feedback": "Ambas cadenas tienen un único productor (el pasto)."
+        },
+        {
+          "letter": "C",
+          "text": "La cadena 2 no tiene consumidores primarios.",
+          "is_correct": false,
+          "feedback": "El conejo cumple ese papel en la cadena 2."
+        },
+        {
+          "letter": "D",
+          "text": "Las dos cadenas tienen exactamente la misma cantidad de niveles.",
+          "is_correct": false,
+          "feedback": "La cadena 2 tiene un nivel más por el águila."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la estructura de cadenas alimenticias para identificar diferencias en los niveles tróficos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CN-5-2026-W10-ecosistemas-cadenas-alimenticias-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W10-ecosistemas-cadenas-alimenticias-001-MASTERY-bundle-v7",
+      "statement": "¿Por qué esta representación se llama red alimenticia y no solo cadena?",
+      "context": "Observa: \"En una red alimenticia de manglar, los cangrejos son comidos por aves y por peces; los peces también comen camarones y son comidos por aves\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los organismos se relacionan de varias formas: un mismo animal puede ser presa de varios depredadores y comer distintos alimentos.",
+          "is_correct": true,
+          "feedback": "La red muestra relaciones múltiples entre los organismos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque en realidad es una cadena sencilla sin relaciones.",
+          "is_correct": false,
+          "feedback": "El ejemplo muestra claramente múltiples relaciones."
+        },
+        {
+          "letter": "C",
+          "text": "Porque solo aparece un productor en la red.",
+          "is_correct": false,
+          "feedback": "La cantidad de productores no define el concepto de red."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las redes alimenticias no incluyen consumidores.",
+          "is_correct": false,
+          "feedback": "Las redes incluyen todos los niveles tróficos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la diferencia entre cadena y red alimenticia a partir de ejemplos concretos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.52,
+      "bundle_id": "CO-CN-5-2026-W10-ecosistemas-cadenas-alimenticias-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W10-ecosistemas-cadenas-alimenticias-001-MASTERY-bundle-v8",
+      "statement": "¿Qué consecuencias puede tener esta fumigación para el ecosistema a largo plazo?",
+      "context": "En una región de Colombia, la fumigación con químicos elimina insectos que polinizan plantas y que sirven de alimento a aves insectívoras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Puede afectar la polinización, reducir las poblaciones de aves y desequilibrar las cadenas y redes alimenticias.",
+          "is_correct": true,
+          "feedback": "Eliminar eslabones clave altera todo el equilibrio ecológico."
+        },
+        {
+          "letter": "B",
+          "text": "Solo afecta a los insectos fumigados, sin consecuencias para otros seres vivos.",
+          "is_correct": false,
+          "feedback": "Los insectos son alimento de muchas especies, por lo que hay efectos en cadena."
+        },
+        {
+          "letter": "C",
+          "text": "Mejora la salud del ecosistema porque elimina plagas.",
+          "is_correct": false,
+          "feedback": "Las fumigaciones indiscriminadas suelen causar más daño que beneficio."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene ninguna consecuencia negativa en la biodiversidad.",
+          "is_correct": false,
+          "feedback": "Alterar eslabones siempre afecta la biodiversidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar el impacto de las acciones humanas sobre el equilibrio de los ecosistemas colombianos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-5-2026-W10-ecosistemas-cadenas-alimenticias-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W10-ecosistemas-colombianos-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de los siguientes ecosistemas colombianos es frío, húmedo y se caracteriza por almacenar gran cantidad de agua?",
+      "context": "En una escuela de Bogotá, la profesora muestra fotos de varios paisajes de Colombia y pide reconocerlos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El páramo.",
+          "is_correct": true,
+          "feedback": "El páramo es un ecosistema de montaña frío y húmedo que retiene y libera agua."
+        },
+        {
+          "letter": "B",
+          "text": "La selva amazónica.",
+          "is_correct": false,
+          "feedback": "La selva amazónica es cálida y húmeda, no fría como el páramo."
+        },
+        {
+          "letter": "C",
+          "text": "El arrecife de coral.",
+          "is_correct": false,
+          "feedback": "Los arrecifes del Caribe son ecosistemas marinos cálidos."
+        },
+        {
+          "letter": "D",
+          "text": "El bosque seco tropical.",
+          "is_correct": false,
+          "feedback": "El bosque seco se caracteriza por altas temperaturas y poca lluvia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer las características principales de los ecosistemas colombianos, en especial del páramo y su condición fría y húmeda.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-5-2026-W10-ecosistemas-colombianos-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W10-ecosistemas-colombianos-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué se dice que el páramo funciona como una \"fábrica de agua\"?",
+      "context": "Valentina lee que los páramos son llamados \"fábricas de agua\" y quiere entender por qué.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque sus plantas capturan la humedad de la niebla y luego la sueltan hacia los ríos.",
+          "is_correct": true,
+          "feedback": "Los frailejones y los musgos atrapan el agua de la niebla y la devuelven al suelo lentamente."
+        },
+        {
+          "letter": "B",
+          "text": "Porque produce agua nueva a partir del aire mediante reacciones químicas.",
+          "is_correct": false,
+          "feedback": "El páramo no crea agua; almacena y regula la que llega de la lluvia y la niebla."
+        },
+        {
+          "letter": "C",
+          "text": "Porque impide que la lluvia llegue a los ríos de las ciudades.",
+          "is_correct": false,
+          "feedback": "Al contrario, el páramo alimenta y regula el agua que baja hacia los ríos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque toda su agua se evapora de inmediato y forma nubes.",
+          "is_correct": false,
+          "feedback": "El páramo retiene el agua; no la evapora de inmediato."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender la función reguladora de los páramos en el ciclo del agua y su importancia como fuente hídrica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-5-2026-W10-ecosistemas-colombianos-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W10-ecosistemas-colombianos-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál acción les ayuda mejor a indagar sobre la retención de agua del musgo?",
+      "context": "Un grupo de estudiantes de Medellín quiere investigar cómo el musgo del páramo retiene agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pesar una muestra de musgo seco, mojarla y volver a pesarla para comparar los datos.",
+          "is_correct": true,
+          "feedback": "Medir y comparar el peso antes y después permite saber cuánta agua retiene el musgo."
+        },
+        {
+          "letter": "B",
+          "text": "Observar el musgo sin tocarlo y escribir solo su color.",
+          "is_correct": false,
+          "feedback": "Sin medir ni comparar no se puede saber cuánta agua retiene."
+        },
+        {
+          "letter": "C",
+          "text": "Preguntar a un compañero qué opina sobre el musgo.",
+          "is_correct": false,
+          "feedback": "La opinión de un compañero no aporta datos medibles sobre la retención de agua."
+        },
+        {
+          "letter": "D",
+          "text": "Regar el musgo con agua y no anotar ningún resultado.",
+          "is_correct": false,
+          "feedback": "Sin registrar los resultados no se cuenta con evidencia para responder la pregunta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar pasos de indagación como medir y comparar datos para estudiar la retención de agua en los ecosistemas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-5-2026-W10-ecosistemas-colombianos-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W10-ecosistemas-colombianos-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál acción de Santiago ayuda a cuidar el arrecife de coral?",
+      "context": "Santiago visita el arrecife de coral en Cartagena y quiere ayudar a cuidarlo durante su paseo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No tocar los corales y llevar su basura de regreso a la orilla.",
+          "is_correct": true,
+          "feedback": "Los corales son seres vivos frágiles; no tocarlos y no dejar basura protege el arrecife."
+        },
+        {
+          "letter": "B",
+          "text": "Recoger pedazos de coral para llevarlos de recuerdo.",
+          "is_correct": false,
+          "feedback": "Extraer corales daña el arrecife y afecta a los animales que viven allí."
+        },
+        {
+          "letter": "C",
+          "text": "Arrojar restos de comida al agua para alimentar a los peces.",
+          "is_correct": false,
+          "feedback": "Los restos de comida alteran el equilibrio del ecosistema marino."
+        },
+        {
+          "letter": "D",
+          "text": "Pisar las zonas de coral para observar mejor a los peces.",
+          "is_correct": false,
+          "feedback": "Pisar los corales los destruye y perjudica el arrecife."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el conocimiento sobre los ecosistemas marinos para tomar decisiones de cuidado del entorno.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-5-2026-W10-ecosistemas-colombianos-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W10-ecosistemas-colombianos-001-MASTERY-bundle-v5",
+      "statement": "¿Qué diferencia principal explica que estos dos ecosistemas tengan especies distintas?",
+      "context": "Mariana compara la selva amazónica, con muchos árboles altos y lluvia constante, y el bosque andino, ubicado en las laderas de las montañas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La temperatura, la altura y la cantidad de lluvia cambian de un lugar a otro y favorecen distintas especies.",
+          "is_correct": true,
+          "feedback": "Cada ecosistema ofrece condiciones de clima y relieve que permiten vivir a especies diferentes."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos ecosistemas tienen exactamente el mismo clima y las mismas especies.",
+          "is_correct": false,
+          "feedback": "La selva amazónica y el bosque andino tienen clima y especies muy diferentes."
+        },
+        {
+          "letter": "C",
+          "text": "Las especies cambian solo porque los árboles son de color distinto.",
+          "is_correct": false,
+          "feedback": "El color no determina las especies; influyen el clima, la altura y el agua."
+        },
+        {
+          "letter": "D",
+          "text": "En los dos ecosistemas viven únicamente plantas, sin animales.",
+          "is_correct": false,
+          "feedback": "Ambos ecosistemas albergan gran variedad de plantas y animales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar cómo las condiciones del ambiente, como temperatura, altura y lluvia, determinan las especies que viven en cada ecosistema.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-5-2026-W10-ecosistemas-colombianos-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W10-ecosistemas-colombianos-001-MASTERY-bundle-v6",
+      "statement": "Observa: el páramo tiene pocas especies de aves y el bosque andino tiene muchas. ¿Cuál conclusión es la más razonable?",
+      "context": "Un grupo de estudiantes registra en una tabla las aves observadas en dos zonas: el páramo y el bosque andino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El bosque andino ofrece más alimento y refugio, por eso alberga más especies.",
+          "is_correct": true,
+          "feedback": "La mayor variedad de plantas y refugios en el bosque andino favorece más especies de aves."
+        },
+        {
+          "letter": "B",
+          "text": "En el páramo no existen aves de ninguna clase.",
+          "is_correct": false,
+          "feedback": "En el páramo sí viven aves, aunque en menor cantidad y variedad."
+        },
+        {
+          "letter": "C",
+          "text": "Las aves del bosque andino son más grandes que todas las del páramo.",
+          "is_correct": false,
+          "feedback": "El tamaño no explica la cantidad de especies registradas."
+        },
+        {
+          "letter": "D",
+          "text": "La tabla demuestra que el páramo no es un ecosistema.",
+          "is_correct": false,
+          "feedback": "El páramo sí es un ecosistema; la tabla solo muestra menos especies de aves."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar datos sencillos para relacionar la variedad de especies con los recursos que ofrece cada ecosistema.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CN-5-2026-W10-ecosistemas-colombianos-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W10-ecosistemas-colombianos-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la mejor valoración de esta propuesta?",
+      "context": "En el municipio de Sibaté se propone quemar una zona de páramo para sembrar papa, y los vecinos piden opinar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es perjudicial, porque quemar el páramo daña la fuente de agua que surte a muchas comunidades.",
+          "is_correct": true,
+          "feedback": "El páramo almacena agua; quemarlo reduce el agua disponible para las poblaciones."
+        },
+        {
+          "letter": "B",
+          "text": "Es útil, porque sembrar papa mejora el suelo del páramo para siempre.",
+          "is_correct": false,
+          "feedback": "La quema deteriora el suelo y tarda muchísimos años en recuperarse."
+        },
+        {
+          "letter": "C",
+          "text": "No importa, porque el páramo no cumple ninguna función para las personas.",
+          "is_correct": false,
+          "feedback": "El páramo regula y provee el agua que usan las comunidades."
+        },
+        {
+          "letter": "D",
+          "text": "Es indiferente, porque el agua de la lluvia reemplaza de inmediato lo que se quema.",
+          "is_correct": false,
+          "feedback": "El daño al páramo no se repara de inmediato con la lluvia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar decisiones humanas que afectan los ecosistemas y reconocer el valor del páramo para el agua de las comunidades.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-5-2026-W10-ecosistemas-colombianos-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W10-ecosistemas-colombianos-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué es importante cuidar los ecosistemas colombianos?",
+      "context": "Lee: \"Colombia es uno de los países con más especies y ecosistemas del mundo. Cuidar el páramo, la selva, el bosque andino y los arrecifes ayuda a conservar el agua, el aire limpio y la vida de todos.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque de ellos dependen el agua, el aire limpio, los alimentos y la vida de las personas.",
+          "is_correct": true,
+          "feedback": "Los ecosistemas brindan servicios esenciales como agua, aire y alimento."
+        },
+        {
+          "letter": "B",
+          "text": "Porque solo sirven como paisaje bonito para las fotos.",
+          "is_correct": false,
+          "feedback": "Su valor va mucho más allá de lo estético: sostienen la vida."
+        },
+        {
+          "letter": "C",
+          "text": "Porque no tienen ninguna relación con la vida de las personas.",
+          "is_correct": false,
+          "feedback": "Las personas dependen directamente de los ecosistemas para vivir."
+        },
+        {
+          "letter": "D",
+          "text": "Porque transformarlos en ciudades siempre mejora la naturaleza.",
+          "is_correct": false,
+          "feedback": "Cambiar los ecosistemas sin control reduce la biodiversidad y los servicios ambientales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la importancia de conservar los ecosistemas colombianos y su relación directa con el bienestar humano.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-5-2026-W10-ecosistemas-colombianos-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

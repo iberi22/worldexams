@@ -1,0 +1,747 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-11-grade-5-subject-matematicas",
+    "generated_at": "2026-09-12T15:41:45.211Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-5-2026-W11-areas-figuras-planas-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la unidad de medida más adecuada para expresar el área de una lámina cuadriculada pequeña que cabe en la mano?",
+      "context": "En una clase de pintura en el colegio de Medellín, los estudiantes trabajan sobre una lámina cuadriculada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Centímetros cuadrados (cm²)",
+          "is_correct": true,
+          "feedback": "Una lámina pequeña se mide en cm² porque su superficie es reducida."
+        },
+        {
+          "letter": "B",
+          "text": "Kilómetros cuadrados (km²)",
+          "is_correct": false,
+          "feedback": "El km² es una unidad enorme, usada para regiones o países, no para una lámina."
+        },
+        {
+          "letter": "C",
+          "text": "Metros cúbicos (m³)",
+          "is_correct": false,
+          "feedback": "El m³ mide volumen, no área; no aplica para superficies planas."
+        },
+        {
+          "letter": "D",
+          "text": "Gramos (g)",
+          "is_correct": false,
+          "feedback": "El gramo es una unidad de masa, no de superficie."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El área se expresa siempre en unidades cuadradas (cm², m², km²). Para superficies pequeñas se usa el centímetro cuadrado, mientras que el kilómetro cuadrado se reserva para extensiones muy grandes. Las unidades cúbicas y de masa no corresponden a la medición de superficies planas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-5-2026-W11-areas-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W11-areas-figuras-planas-001-MASTERY-bundle-v2",
+      "statement": "Si una parcela rectangular tiene base 6 cm y altura 3 cm en el dibujo, ¿cuál es su área?",
+      "context": "En una huerta escolar en Cali, los estudiantes dibujan parcelas rectangulares en el cuaderno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9 cm²",
+          "is_correct": false,
+          "feedback": "9 cm² corresponde a sumar base y altura, no a calcular el producto."
+        },
+        {
+          "letter": "B",
+          "text": "18 cm²",
+          "is_correct": true,
+          "feedback": "El área del rectángulo es base × altura, 6 × 3 = 18 cm²."
+        },
+        {
+          "letter": "C",
+          "text": "20 cm²",
+          "is_correct": false,
+          "feedback": "20 cm² sería el doble del resultado correcto; aquí no se duplica."
+        },
+        {
+          "letter": "D",
+          "text": "6 cm²",
+          "is_correct": false,
+          "feedback": "6 cm² es solo la base; falta multiplicar por la altura."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar el área de un rectángulo se multiplican la base y la altura. En este caso, 6 cm × 3 cm = 18 cm². Es importante recordar que ambas medidas deben estar en la misma unidad antes de multiplicar.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-5-2026-W11-areas-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W11-areas-figuras-planas-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el área de la lámina cuadrada de 9 cm de lado?",
+      "context": "En un taller de Barranquilla, don José corta una lámina metálica cuadrada de 9 cm de lado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "36 cm²",
+          "is_correct": false,
+          "feedback": "36 cm² sería el perímetro, no el área del cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "81 cm²",
+          "is_correct": true,
+          "feedback": "El área del cuadrado es lado × lado = 9 × 9 = 81 cm²."
+        },
+        {
+          "letter": "C",
+          "text": "18 cm²",
+          "is_correct": false,
+          "feedback": "18 cm² es la suma de los lados, no el área."
+        },
+        {
+          "letter": "D",
+          "text": "72 cm²",
+          "is_correct": false,
+          "feedback": "72 cm² es 8 veces 9; no corresponde a ninguna fórmula del cuadrado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El área de un cuadrado se obtiene elevando al cuadrado la medida de su lado: lado × lado. Para un lado de 9 cm, el área es 9 × 9 = 81 cm². Esta fórmula es útil para superficies como baldosas, mesas y lotes cuadrados.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-5-2026-W11-areas-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W11-areas-figuras-planas-001-MASTERY-bundle-v4",
+      "statement": "Un triángulo tiene base 10 cm y altura 6 cm. ¿Cuál es su área?",
+      "context": "En una clase de geometría en Bucaramanga, los estudiantes dibujan una cometa con forma de triángulo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30 cm²",
+          "is_correct": true,
+          "feedback": "El área del triángulo es (base × altura) / 2 = (10 × 6) / 2 = 30 cm²."
+        },
+        {
+          "letter": "B",
+          "text": "60 cm²",
+          "is_correct": false,
+          "feedback": "60 cm² sería el área de un rectángulo con esas medidas; el triángulo es la mitad."
+        },
+        {
+          "letter": "C",
+          "text": "16 cm²",
+          "is_correct": false,
+          "feedback": "16 cm² es la suma de base y altura, no el área."
+        },
+        {
+          "letter": "D",
+          "text": "12 cm²",
+          "is_correct": false,
+          "feedback": "12 cm² es solo una resta; no aplica la fórmula del triángulo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fórmula del área de un triángulo es A = (base × altura) / 2. Aquí, (10 × 6) / 2 = 60 / 2 = 30 cm². Es un error común olvidar dividir entre 2, lo que lleva a duplicar el resultado correcto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-5-2026-W11-areas-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W11-areas-figuras-planas-001-MASTERY-bundle-v5",
+      "statement": "Un aviso en forma de triángulo tiene base 8 cm y altura 5 cm. ¿Cuántos centímetros cuadrados ocupa el aviso?",
+      "context": "En el parque de una ciudad colombiana, una señalética tiene forma de triángulo con base 8 cm y altura 5 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "40 cm²",
+          "is_correct": false,
+          "feedback": "40 cm² es el producto base × altura sin dividir entre 2."
+        },
+        {
+          "letter": "B",
+          "text": "13 cm²",
+          "is_correct": false,
+          "feedback": "13 cm² es la suma de base y altura, no el área."
+        },
+        {
+          "letter": "C",
+          "text": "20 cm²",
+          "is_correct": true,
+          "feedback": "(8 × 5) / 2 = 40 / 2 = 20 cm²; ese es el área del triángulo."
+        },
+        {
+          "letter": "D",
+          "text": "10 cm²",
+          "is_correct": false,
+          "feedback": "10 cm² es solo la mitad de la base, no el área."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para calcular el área del triángulo se multiplica base por altura y luego se divide entre 2. Con 8 cm y 5 cm se obtiene 40 / 2 = 20 cm². Este procedimiento es clave para superficies como cometas, techos inclinados y avisos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-5-2026-W11-areas-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W11-areas-figuras-planas-001-MASTERY-bundle-v6",
+      "statement": "Lote 1: 12 m de largo por 5 m de ancho. Lote 2: 10 m de largo por 7 m de ancho. ¿Cuál tiene mayor área y cuánto le lleva?",
+      "context": "En una actividad escolar, los estudiantes comparan dos lotes rectangulares en una maqueta de un barrio colombiano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lote 1, por 10 m²",
+          "is_correct": false,
+          "feedback": "El Lote 1 mide 60 m² y el Lote 2 mide 70 m², así que el Lote 1 no es el mayor."
+        },
+        {
+          "letter": "B",
+          "text": "Lote 2, por 10 m²",
+          "is_correct": true,
+          "feedback": "10 × 7 = 70 m² y 12 × 5 = 60 m²; el Lote 2 es mayor por 10 m²."
+        },
+        {
+          "letter": "C",
+          "text": "Lote 2, por 20 m²",
+          "is_correct": false,
+          "feedback": "La diferencia correcta es 10 m², no 20 m²; revisa la resta final."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos lotes tienen la misma área.",
+          "is_correct": false,
+          "feedback": "60 m² y 70 m² son distintos; no pueden tener la misma área."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El área del Lote 1 es 12 × 5 = 60 m² y la del Lote 2 es 10 × 7 = 70 m². Al comparar, 70 − 60 = 10 m², por lo que el Lote 2 tiene mayor área. Es importante calcular primero cada área y luego restar para obtener la diferencia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.64,
+      "bundle_id": "CO-MAT-5-2026-W11-areas-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W11-areas-figuras-planas-001-MASTERY-bundle-v7",
+      "statement": "Un mural rectangular tiene 4 m de alto y un área de 20 m². ¿Cuánto mide su base?",
+      "context": "En el salón de una escuela en Medellín, se pega un mural rectangular cuya área se conoce, pero se olvidó una medida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 m",
+          "is_correct": false,
+          "feedback": "Si la base fuera 4 m, el área sería 16 m², no 20 m²."
+        },
+        {
+          "letter": "B",
+          "text": "5 m",
+          "is_correct": true,
+          "feedback": "Base = área / altura = 20 / 4 = 5 m; esa es la medida correcta."
+        },
+        {
+          "letter": "C",
+          "text": "8 m",
+          "is_correct": false,
+          "feedback": "8 × 4 = 32 m², no coincide con el área dada de 20 m²."
+        },
+        {
+          "letter": "D",
+          "text": "24 m",
+          "is_correct": false,
+          "feedback": "24 m se obtiene sumando base y altura, no dividiendo el área."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para encontrar una medida desconocida del rectángulo se despeja: base = área / altura. Aquí, 20 m² / 4 m = 5 m. Este tipo de problema inverso es útil para conocer dimensiones de cuartos, murales y parcelas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-5-2026-W11-areas-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W11-areas-figuras-planas-001-MASTERY-bundle-v8",
+      "statement": "Un jardín triangular tiene base 12 m y altura 4 m. Estudiante 1 dice que el área es 48 m²; Estudiante 2 dice que es 24 m². ¿Cuál es la afirmación correcta y por qué?",
+      "context": "Una docente en Cali revisa la tarea de dos estudiantes sobre el área de un jardín triangular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estudiante 2, porque el área del triángulo es base × altura dividido entre 2.",
+          "is_correct": true,
+          "feedback": "12 × 4 / 2 = 24 m²; por eso el Estudiante 2 acierta al dividir entre 2."
+        },
+        {
+          "letter": "B",
+          "text": "Estudiante 1, porque se debe multiplicar base por altura sin dividir.",
+          "is_correct": false,
+          "feedback": "El triángulo es la mitad del rectángulo; por eso sí se divide entre 2."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos están bien, porque depende del tipo de triángulo.",
+          "is_correct": false,
+          "feedback": "La fórmula (base × altura)/2 aplica para todo triángulo; no depende de su forma."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno, porque se necesitan más datos como los lados.",
+          "is_correct": false,
+          "feedback": "Con base y altura basta para calcular el área del triángulo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El área de cualquier triángulo se calcula como (base × altura) / 2. Con 12 m y 4 m, el resultado es 48 / 2 = 24 m². El error del Estudiante 1 fue olvidar dividir entre 2. Esta reflexión es clave para justificar procedimientos y detectar fallas en argumentos de compañeros.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-5-2026-W11-areas-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W11-circulo-circunferencia-elementos-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el punto que está a la misma distancia de todos los puntos de una circunferencia?",
+      "context": "En una clase de geometría en Pereira, la profesora dibuja una circunferencia en el tablero y señala sus partes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El centro.",
+          "is_correct": true,
+          "feedback": "Todos los puntos de la circunferencia están a igual distancia del centro."
+        },
+        {
+          "letter": "B",
+          "text": "El radio.",
+          "is_correct": false,
+          "feedback": "El radio es la distancia del centro a la circunferencia, no un punto."
+        },
+        {
+          "letter": "C",
+          "text": "La cuerda.",
+          "is_correct": false,
+          "feedback": "La cuerda es un segmento que une dos puntos de la circunferencia."
+        },
+        {
+          "letter": "D",
+          "text": "El diámetro.",
+          "is_correct": false,
+          "feedback": "El diámetro es un segmento que pasa por el centro y une dos puntos de la circunferencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer el centro como el punto equidistante de todos los puntos de la circunferencia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-5-2026-W11-circulo-circunferencia-elementos-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W11-circulo-circunferencia-elementos-001-MASTERY-bundle-v2",
+      "statement": "¿Qué relación existe entre el radio y el diámetro de una circunferencia?",
+      "context": "Valentina observa una rueda de bicicleta y mide la distancia del centro al borde.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El diámetro mide el doble del radio.",
+          "is_correct": true,
+          "feedback": "El diámetro equivale a dos radios porque une dos puntos pasando por el centro."
+        },
+        {
+          "letter": "B",
+          "text": "El radio mide el doble del diámetro.",
+          "is_correct": false,
+          "feedback": "Es al contrario: el diámetro es el doble del radio."
+        },
+        {
+          "letter": "C",
+          "text": "El radio y el diámetro siempre miden lo mismo.",
+          "is_correct": false,
+          "feedback": "El diámetro siempre es mayor: equivale a dos radios."
+        },
+        {
+          "letter": "D",
+          "text": "El radio no tiene ninguna relación con el diámetro.",
+          "is_correct": false,
+          "feedback": "Sí existe relación: el diámetro es dos veces el radio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender la relación entre el radio y el diámetro de una circunferencia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-5-2026-W11-circulo-circunferencia-elementos-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W11-circulo-circunferencia-elementos-001-MASTERY-bundle-v3",
+      "statement": "¿Cuánto mide el diámetro de la circunferencia que trazó Mariana?",
+      "context": "Mariana traza una circunferencia con el compás y abre las puntas a 4 centímetros, que es la medida del radio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8 centímetros.",
+          "is_correct": true,
+          "feedback": "Si el radio mide 4 cm, el diámetro mide el doble, es decir, 8 cm."
+        },
+        {
+          "letter": "B",
+          "text": "4 centímetros.",
+          "is_correct": false,
+          "feedback": "4 cm es el radio; el diámetro es el doble."
+        },
+        {
+          "letter": "C",
+          "text": "2 centímetros.",
+          "is_correct": false,
+          "feedback": "2 cm resultaría de dividir el radio entre 2, no de duplicarlo."
+        },
+        {
+          "letter": "D",
+          "text": "16 centímetros.",
+          "is_correct": false,
+          "feedback": "16 cm sería el cuádruple del radio, no el diámetro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la relación entre radio y diámetro para hallar la medida del diámetro.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-5-2026-W11-circulo-circunferencia-elementos-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W11-circulo-circunferencia-elementos-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el primer paso para trazar correctamente la circunferencia con el compás?",
+      "context": "En una cancha de fútbol de Barranquilla, el profesor pide trazar con un compás un círculo central de 3 centímetros de radio en el cuaderno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fijar la punta del compás en el centro y abrir las puntas 3 centímetros.",
+          "is_correct": true,
+          "feedback": "El centro queda fijo y la apertura del compás determina el radio de la circunferencia."
+        },
+        {
+          "letter": "B",
+          "text": "Trazar varias líneas rectas y unirlas.",
+          "is_correct": false,
+          "feedback": "Una circunferencia no se traza con líneas rectas ni uniéndolas."
+        },
+        {
+          "letter": "C",
+          "text": "Abrir el compás 3 centímetros y girarlo sin fijar ningún punto.",
+          "is_correct": false,
+          "feedback": "Si no se fija el centro, no se obtiene una circunferencia con centro definido."
+        },
+        {
+          "letter": "D",
+          "text": "Medir el diámetro y no marcar el centro.",
+          "is_correct": false,
+          "feedback": "Sin marcar el centro es imposible trazar correctamente la circunferencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar los pasos del trazo de una circunferencia con compás a partir del centro y la medida del radio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-5-2026-W11-circulo-circunferencia-elementos-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W11-circulo-circunferencia-elementos-001-MASTERY-bundle-v5",
+      "statement": "¿Cómo se llama el segmento que trazó Tomás?",
+      "context": "Tomás dibuja una circunferencia y traza un segmento que une dos puntos del borde sin pasar por el centro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuerda, porque une dos puntos de la circunferencia.",
+          "is_correct": true,
+          "feedback": "La cuerda es cualquier segmento que une dos puntos de la circunferencia."
+        },
+        {
+          "letter": "B",
+          "text": "Radio, porque va del centro al borde.",
+          "is_correct": false,
+          "feedback": "El radio sale del centro; el segmento trazado une dos puntos del borde."
+        },
+        {
+          "letter": "C",
+          "text": "Diámetro, porque pasa por el centro.",
+          "is_correct": false,
+          "feedback": "El segmento no pasa por el centro, por eso no es un diámetro."
+        },
+        {
+          "letter": "D",
+          "text": "Centro, porque está dentro de la circunferencia.",
+          "is_correct": false,
+          "feedback": "El centro es un punto, no un segmento que une dos puntos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar las diferencias entre cuerda, radio y diámetro según su posición respecto al centro.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-5-2026-W11-circulo-circunferencia-elementos-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W11-circulo-circunferencia-elementos-001-MASTERY-bundle-v6",
+      "statement": "¿Qué se puede concluir al comparar los diámetros de los dos platos?",
+      "context": "Se comparan dos platos: el plato grande tiene un radio de 10 centímetros y el plato pequeño un radio de 5 centímetros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El diámetro del plato grande es el doble que el del plato pequeño.",
+          "is_correct": true,
+          "feedback": "Si el radio es el doble, el diámetro también es el doble: 20 cm frente a 10 cm."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos platos tienen el mismo diámetro.",
+          "is_correct": false,
+          "feedback": "Los radios son diferentes, por lo que sus diámetros también lo son."
+        },
+        {
+          "letter": "C",
+          "text": "El diámetro del plato pequeño es mayor que el del grande.",
+          "is_correct": false,
+          "feedback": "El plato pequeño tiene menor radio, así que su diámetro es menor."
+        },
+        {
+          "letter": "D",
+          "text": "El diámetro no depende del radio en los círculos.",
+          "is_correct": false,
+          "feedback": "El diámetro siempre es el doble del radio en cualquier círculo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la relación proporcional entre el radio y el diámetro al comparar objetos circulares.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-MAT-5-2026-W11-circulo-circunferencia-elementos-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W11-circulo-circunferencia-elementos-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la mejor valoración de esta afirmación?",
+      "context": "Un estudiante afirma que si duplica el radio de una circunferencia, el diámetro sigue midiendo lo mismo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es falsa, porque si el radio se duplica, el diámetro también se duplica.",
+          "is_correct": true,
+          "feedback": "Como el diámetro es el doble del radio, al duplicar el radio el diámetro crece en la misma proporción."
+        },
+        {
+          "letter": "B",
+          "text": "Es verdadera, porque el diámetro no depende del radio.",
+          "is_correct": false,
+          "feedback": "El diámetro depende directamente del radio, que es la mitad de su medida."
+        },
+        {
+          "letter": "C",
+          "text": "Es verdadera, porque el radio y el diámetro son independientes.",
+          "is_correct": false,
+          "feedback": "No son independientes: el diámetro siempre es dos veces el radio."
+        },
+        {
+          "letter": "D",
+          "text": "Es falsa, porque el diámetro se reduce a la mitad.",
+          "is_correct": false,
+          "feedback": "Al aumentar el radio, el diámetro aumenta, no se reduce."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar afirmaciones sobre la relación entre radio y diámetro y justificar su validez.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-5-2026-W11-circulo-circunferencia-elementos-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W11-circulo-circunferencia-elementos-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la mejor valoración de las dos formas de abrir el compás?",
+      "context": "Dos estudiantes deben trazar una circunferencia de 6 centímetros de diámetro. Uno abre el compás a 6 centímetros; el otro lo abre a 3 centímetros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta la apertura de 3 centímetros, porque esa es la medida del radio y el diámetro mide 6.",
+          "is_correct": true,
+          "feedback": "El compás se abre con la medida del radio, que es la mitad del diámetro: 3 cm."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta la apertura de 6 centímetros, porque el compás se abre con el diámetro.",
+          "is_correct": false,
+          "feedback": "El compás se abre con el radio, no con el diámetro; con 6 cm el círculo sería el doble."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos aperturas producen la misma circunferencia.",
+          "is_correct": false,
+          "feedback": "Una apertura de 6 cm produce un círculo mayor que una de 3 cm."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna sirve, porque no se puede trazar un círculo de 6 centímetros.",
+          "is_correct": false,
+          "feedback": "Sí se puede: basta abrir el compás a 3 cm, que es la mitad del diámetro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la forma correcta de usar el compás según la relación entre radio y diámetro en una construcción geométrica.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-5-2026-W11-circulo-circunferencia-elementos-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

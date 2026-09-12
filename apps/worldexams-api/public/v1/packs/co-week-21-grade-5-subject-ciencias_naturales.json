@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-21-grade-5-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T15:41:45.190Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-5-2026-W21-fases-luna-movimientos-tierra-001-MASTERY-bundle-v1",
+      "statement": "¿Por qué brilla la Luna en el cielo nocturno?",
+      "context": "Una noche despejada en el desierto de la Tatacoa, Huila, un grupo de estudiantes observa la Luna con su profesora.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque refleja la luz del Sol.",
+          "is_correct": true,
+          "feedback": "Es correcta: la Luna no emite luz propia, solo refleja la luz solar hacia la Tierra."
+        },
+        {
+          "letter": "B",
+          "text": "Porque produce su propia luz como el Sol.",
+          "is_correct": false,
+          "feedback": "Error: la Luna es un satélite rocoso sin luz propia, a diferencia de las estrellas."
+        },
+        {
+          "letter": "C",
+          "text": "Porque está encendida con electricidad desde la Tierra.",
+          "is_correct": false,
+          "feedback": "Error: no existe ninguna conexión eléctrica entre la Tierra y la Luna."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las nubes la iluminan desde abajo.",
+          "is_correct": false,
+          "feedback": "Error: las nubes no generan luz; solo la Luna refleja la luz del Sol."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Luna es un satélite natural rocoso que no emite luz propia. La vemos brillante porque su superficie refleja la luz del Sol hacia la Tierra.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-5-2026-W21-fases-luna-movimientos-tierra-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W21-fases-luna-movimientos-tierra-001-MASTERY-bundle-v2",
+      "statement": "¿Qué movimiento de la Tierra explica que exista el día y la noche?",
+      "context": "En una escuela de Pasto, Nariño, los niños notan que cada mañana sale el Sol y cada noche oscurece.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La traslación de la Luna alrededor del Sol.",
+          "is_correct": false,
+          "feedback": "Error: la Luna gira alrededor de la Tierra, no alrededor del Sol, y eso no causa el día y la noche."
+        },
+        {
+          "letter": "B",
+          "text": "El movimiento de las nubes empujadas por el viento.",
+          "is_correct": false,
+          "feedback": "Error: las nubes se mueven por el viento, pero el día y la noche dependen del giro de la Tierra."
+        },
+        {
+          "letter": "C",
+          "text": "La rotación de la Tierra sobre su propio eje.",
+          "is_correct": true,
+          "feedback": "Es correcta: al girar sobre su eje, una parte de la Tierra recibe luz solar (día) y la otra queda en sombra (noche)."
+        },
+        {
+          "letter": "D",
+          "text": "La traslación de la Tierra alrededor de la Luna.",
+          "is_correct": false,
+          "feedback": "Error: la Tierra no gira alrededor de la Luna; es la Luna la que gira alrededor de la Tierra."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La rotación es el giro de la Tierra sobre su propio eje y tarda aproximadamente 24 horas. Por eso una mitad del planeta está iluminada (día) mientras la otra está en sombra (noche).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.86,
+      "bundle_id": "CO-CN-5-2026-W21-fases-luna-movimientos-tierra-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W21-fases-luna-movimientos-tierra-001-MASTERY-bundle-v3",
+      "statement": "La familia está observando la Luna llena. ¿Qué significa esta fase?",
+      "context": "Durante las fiestas de San Pedro en Neiva, Huila, una familia observa una Luna completamente redonda y brillante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la Luna desapareció del cielo por completo.",
+          "is_correct": false,
+          "feedback": "Error: eso describe la Luna nueva, cuando no vemos la cara iluminada."
+        },
+        {
+          "letter": "B",
+          "text": "Que vemos toda la cara de la Luna iluminada por el Sol.",
+          "is_correct": true,
+          "feedback": "Es correcta: en Luna llena, la Tierra está entre el Sol y la Luna y vemos el disco completo iluminado."
+        },
+        {
+          "letter": "C",
+          "text": "Que la Luna se partió en dos pedazos.",
+          "is_correct": false,
+          "feedback": "Error: la Luna nunca se parte; solo cambia la porción iluminada que vemos."
+        },
+        {
+          "letter": "D",
+          "text": "Que la Luna está más cerca del Sol que la Tierra.",
+          "is_correct": false,
+          "feedback": "Error: la distancia al Sol no define las fases; lo que cambia es la posición relativa entre Sol, Tierra y Luna."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la Luna llena vemos el disco lunar completamente iluminado porque el Sol ilumina de frente la cara que mira hacia la Tierra.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-5-2026-W21-fases-luna-movimientos-tierra-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W21-fases-luna-movimientos-tierra-001-MASTERY-bundle-v4",
+      "statement": "¿Cómo se llama ese movimiento de la Tierra y qué origina?",
+      "context": "Un calendario escolar de Tunja, Boyacá, marca que la Tierra tarda cerca de 365 días en dar una vuelta completa alrededor del Sol.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rotación, que origina las fases de la Luna.",
+          "is_correct": false,
+          "feedback": "Error: la rotación dura un día y origina el día y la noche, no las fases lunares."
+        },
+        {
+          "letter": "B",
+          "text": "Rotación, que origina los eclipses todos los meses.",
+          "is_correct": false,
+          "feedback": "Error: la rotación no produce eclipses mensuales; los eclipses dependen de alineaciones especiales."
+        },
+        {
+          "letter": "C",
+          "text": "Traslación, que origina el día y la noche.",
+          "is_correct": false,
+          "feedback": "Error: el día y la noche los origina la rotación, no la traslación."
+        },
+        {
+          "letter": "D",
+          "text": "Traslación, que origina el año de aproximadamente 365 días.",
+          "is_correct": true,
+          "feedback": "Es correcta: la traslación es el recorrido de la Tierra alrededor del Sol y tarda cerca de 365 días, es decir, un año."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La traslación es el movimiento de la Tierra alrededor del Sol. Tarda aproximadamente 365 días y por eso contamos un año.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-5-2026-W21-fases-luna-movimientos-tierra-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W21-fases-luna-movimientos-tierra-001-MASTERY-bundle-v5",
+      "statement": "Ella registró este orden: Luna nueva, creciente, llena y menguante. ¿Qué puede concluir?",
+      "context": "Una estudiante de Sincelejo, Sucre, dibuja cada noche la forma de la Luna durante un mes en su cuaderno de ciencias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que las fases de la Luna se repiten en un ciclo ordenado.",
+          "is_correct": true,
+          "feedback": "Es correcta: las fases siguen siempre el mismo orden cíclico a medida que cambia la posición relativa entre Sol, Tierra y Luna."
+        },
+        {
+          "letter": "B",
+          "text": "Que la Luna cambia de tamaño real cada semana.",
+          "is_correct": false,
+          "feedback": "Error: la Luna mantiene su tamaño; solo cambia la parte iluminada que vemos."
+        },
+        {
+          "letter": "C",
+          "text": "Que la Luna gira alrededor de sí misma cada mes para esconderse.",
+          "is_correct": false,
+          "feedback": "Error: el ciclo de fases se debe a la posición iluminada que observamos, no a que la Luna se esconda."
+        },
+        {
+          "letter": "D",
+          "text": "Que las fases ocurren en desorden y sin repetición.",
+          "is_correct": false,
+          "feedback": "Error: el registro muestra un orden claro que se repite mes tras mes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las fases lunares forman un ciclo que se repite en el mismo orden: nueva, creciente, llena y menguante. Observar y registrar permite descubrir ese patrón.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.74,
+      "bundle_id": "CO-CN-5-2026-W21-fases-luna-movimientos-tierra-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W21-fases-luna-movimientos-tierra-001-MASTERY-bundle-v6",
+      "statement": "Al revisar fotos de cada fase, ¿qué evidencia resuelve la discusión?",
+      "context": "Dos amigos de Valledupar, Cesar, discuten: uno dice que en Luna nueva no se ve la Luna y el otro dice que se ve completa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que en Luna nueva se ve el disco completo y brillante.",
+          "is_correct": false,
+          "feedback": "Error: el disco completo y brillante corresponde a la Luna llena, no a la nueva."
+        },
+        {
+          "letter": "B",
+          "text": "Que en Luna nueva se ve media Luna iluminada.",
+          "is_correct": false,
+          "feedback": "Error: la media Luna iluminada corresponde a los cuartos creciente o menguante."
+        },
+        {
+          "letter": "C",
+          "text": "Que en Luna nueva la cara que mira a la Tierra no recibe luz visible y por eso no la vemos.",
+          "is_correct": true,
+          "feedback": "Es correcta: en Luna nueva la cara iluminada está del lado opuesto a la Tierra, así que desde aquí no se observa."
+        },
+        {
+          "letter": "D",
+          "text": "Que en Luna nueva la Luna sale de su órbita.",
+          "is_correct": false,
+          "feedback": "Error: la Luna nunca sale de su órbita; solo cambia la iluminación que percibimos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar las fotos muestra que en Luna nueva no observamos luz lunar porque la cara iluminada por el Sol está del lado contrario a la Tierra.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-5-2026-W21-fases-luna-movimientos-tierra-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W21-fases-luna-movimientos-tierra-001-MASTERY-bundle-v7",
+      "statement": "Un estudiante afirma que la rotación dura un año. ¿Cómo se corrige su error con la tabla?",
+      "context": "En clase en Quibdó, Chocó, la profesora presenta una tabla: rotación (24 horas, día-noche) y traslación (365 días, año).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aceptando su idea porque ambos movimientos duran lo mismo.",
+          "is_correct": false,
+          "feedback": "Error: la tabla muestra duraciones muy distintas: 24 horas frente a 365 días."
+        },
+        {
+          "letter": "B",
+          "text": "Mostrando que la rotación dura 24 horas y produce el día y la noche, mientras la traslación dura 365 días y produce el año.",
+          "is_correct": true,
+          "feedback": "Es correcta: la tabla permite comparar duración y efecto de cada movimiento y corregir la confusión."
+        },
+        {
+          "letter": "C",
+          "text": "Diciendo que la traslación dura 24 horas y produce el día.",
+          "is_correct": false,
+          "feedback": "Error: eso invierte los datos: la de 24 horas es la rotación."
+        },
+        {
+          "letter": "D",
+          "text": "Afirmando que ninguno de los dos movimientos tiene efecto observable.",
+          "is_correct": false,
+          "feedback": "Error: ambos tienen efectos claros: día-noche y año, según la tabla."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparar duración y consecuencia de cada movimiento evita confundirlos: rotación (24 horas, día-noche) y traslación (365 días, año).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CN-5-2026-W21-fases-luna-movimientos-tierra-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W21-fases-luna-movimientos-tierra-001-MASTERY-bundle-v8",
+      "statement": "¿Cómo se debe evaluar científicamente ese cartel?",
+      "context": "En una feria de ciencias en Yopal, Casanare, un cartel dice: \"La Luna produce su propia luz y por eso cambia de forma cada noche\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcto porque la Luna brilla como una bombilla gigante.",
+          "is_correct": false,
+          "feedback": "Error: la Luna no genera luz; solo refleja la luz solar."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcto porque la Luna cambia de tamaño real cada noche.",
+          "is_correct": false,
+          "feedback": "Error: la Luna conserva su tamaño; lo que cambia es la porción iluminada visible."
+        },
+        {
+          "letter": "C",
+          "text": "Es correcto porque la rotación de la Luna crea la luz.",
+          "is_correct": false,
+          "feedback": "Error: ningún giro crea luz en la Luna; la luz proviene del Sol."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecto porque la Luna refleja la luz del Sol y sus fases son cambios en la parte iluminada que vemos, no luz propia ni cambios de tamaño.",
+          "is_correct": true,
+          "feedback": "Es correcta: evalúa las dos ideas del cartel y las refuta con el modelo científico correcto."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar una afirmación científica exige contrastarla con evidencias: la Luna no tiene luz propia y sus fases se explican por la iluminación solar y las posiciones relativas, no por cambios de tamaño.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-5-2026-W21-fases-luna-movimientos-tierra-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

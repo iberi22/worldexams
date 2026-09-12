@@ -1,0 +1,1851 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-39-grade-11-subject-lectura_critica",
+    "generated_at": "2026-09-12T15:41:45.202Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es el costumbrismo literario?",
+      "context": "En clase en Bogotá, los estudiantes identifican tradiciones literarias iberoamericanas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una corriente que describe costumbres, tipos sociales y escenas cotidianas de una época y lugar.",
+          "is_correct": true,
+          "feedback": "Foco en tipos, hábitos y escenas reconocibles."
+        },
+        {
+          "letter": "B",
+          "text": "Un género exclusivamente científico.",
+          "is_correct": false,
+          "feedback": "Es literario."
+        },
+        {
+          "letter": "C",
+          "text": "Una corriente de ciencia ficción.",
+          "is_correct": false,
+          "feedback": "Describe lo cotidiano."
+        },
+        {
+          "letter": "D",
+          "text": "Una poesía abstracta sin contexto.",
+          "is_correct": false,
+          "feedback": "Es figurativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El costumbrismo fija retratos de época y permite observar la sociedad con humor crítico.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle-v2",
+      "statement": "¿Qué es la sátira como recurso literario?",
+      "context": "En Medellín, se define el concepto de sátira.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un modo crítico que utiliza el humor, la ironía y la exageración para denunciar vicios sociales.",
+          "is_correct": true,
+          "feedback": "Crítica con humor."
+        },
+        {
+          "letter": "B",
+          "text": "Una loa sin cuestionamientos.",
+          "is_correct": false,
+          "feedback": "Es crítica."
+        },
+        {
+          "letter": "C",
+          "text": "Un texto exclusivamente descriptivo.",
+          "is_correct": false,
+          "feedback": "Argumenta."
+        },
+        {
+          "letter": "D",
+          "text": "Un género técnico especializado.",
+          "is_correct": false,
+          "feedback": "Es accesible."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La sátira combina crítica social y recursos humorísticos para provocar reflexión.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.89,
+      "bundle_id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué la sátira logra mayor eficacia crítica que la denuncia directa?",
+      "context": "En Cali, se interpreta el efecto del humor en un texto satírico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque apela al humor y a la ironía para burlar defensas y abrir reflexión.",
+          "is_correct": true,
+          "feedback": "Relaja y dispone al lector."
+        },
+        {
+          "letter": "B",
+          "text": "Porque evita cualquier argumento.",
+          "is_correct": false,
+          "feedback": "Argumenta con humor."
+        },
+        {
+          "letter": "C",
+          "text": "Porque oculta totalmente su intención.",
+          "is_correct": false,
+          "feedback": "La intención es legible."
+        },
+        {
+          "letter": "D",
+          "text": "Porque imita el lenguaje técnico.",
+          "is_correct": false,
+          "feedback": "Usa lenguaje coloquial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El humor desactiva resistencias y permite abordar críticamente lo establecido.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle-v4",
+      "statement": "En el costumbrismo, un \"tipo\" social es:",
+      "context": "En Barranquilla, se estudian los \"tipos\" sociales del costumbrismo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un personaje representativo de una clase, oficio o costumbre de su época.",
+          "is_correct": true,
+          "feedback": "Encarna una categoría social."
+        },
+        {
+          "letter": "B",
+          "text": "Un modelo estadístico de población.",
+          "is_correct": false,
+          "feedback": "Es literario."
+        },
+        {
+          "letter": "C",
+          "text": "Un personaje fantástico sin anclaje social.",
+          "is_correct": false,
+          "feedback": "Tiene anclaje."
+        },
+        {
+          "letter": "D",
+          "text": "Una categoría gramatical sin referente humano.",
+          "is_correct": false,
+          "feedback": "Es cultural."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los tipos condensan rasgos colectivos y permiten la crítica social por caricatura.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.87,
+      "bundle_id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle-v5",
+      "statement": "En un texto costumbrista, una descripción detallada del atuendo, los gestos y la charla de un comerciante de mercado funciona como:",
+      "context": "En clase en Cartagena, se interpreta un pasaje de \"Cuadros de costumbres\" colombianos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Caracterización tipológica que retrata hábitos de una clase social urbana.",
+          "is_correct": true,
+          "feedback": "Construye un tipo reconocible."
+        },
+        {
+          "letter": "B",
+          "text": "Información científica sin intención crítica.",
+          "is_correct": false,
+          "feedback": "Posee intención estética y crítica."
+        },
+        {
+          "letter": "C",
+          "text": "Anuncio publicitario literal.",
+          "is_correct": false,
+          "feedback": "Es literario."
+        },
+        {
+          "letter": "D",
+          "text": "Descripción naturalista de fauna.",
+          "is_correct": false,
+          "feedback": "Es de personas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La descripción costumbrista estiliza lo cotidiano para reflejar una sociedad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle-v6",
+      "statement": "En una columna satírica, frases como \"Don Perfecto, siempre perfecto en todo, excepto en humanidad\" usan principalmente:",
+      "context": "En Bucaramanga, se analizan recursos sintácticos de un texto satírico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ironía: se dice lo contrario de lo que se piensa.",
+          "is_correct": true,
+          "feedback": "Es ironía verbal."
+        },
+        {
+          "letter": "B",
+          "text": "Metáfora científica.",
+          "is_correct": false,
+          "feedback": "Es coloquial."
+        },
+        {
+          "letter": "C",
+          "text": "Discurso técnico legal.",
+          "is_correct": false,
+          "feedback": "Es humorístico."
+        },
+        {
+          "letter": "D",
+          "text": "Hipérbatum exclusivamente.",
+          "is_correct": false,
+          "feedback": "No hay inversión del orden."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ironía es eje de la sátira: expresa crítica sin explicitar la denuncia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.77,
+      "bundle_id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle-v7",
+      "statement": "Una caricatura política que exagera rasgos físicos de un funcionario para asociarlos con decisiones impopulares funciona como:",
+      "context": "En clase en Pereira, se compara una caricatura política de prensa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hipérbole visual con intención satírica y crítica.",
+          "is_correct": true,
+          "feedback": "Exagera para denunciar."
+        },
+        {
+          "letter": "B",
+          "text": "Retrato fiel sin intención.",
+          "is_correct": false,
+          "feedback": "Hay distorsión intencionada."
+        },
+        {
+          "letter": "C",
+          "text": "Ilustración decorativa.",
+          "is_correct": false,
+          "feedback": "Critica."
+        },
+        {
+          "letter": "D",
+          "text": "Imagen sin función comunicativa.",
+          "is_correct": false,
+          "feedback": "Comunica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La caricatura sintetiza rasgos para producir crítica política con economía visual.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle-v8",
+      "statement": "En una columna satírica, el uso de refranes populares con un giro inesperado cumple principalmente la función de:",
+      "context": "En Tunja, se estudian columnas de opinión satíricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conectar con la cultura compartida y subvertir el refrán para cuestionar.",
+          "is_correct": true,
+          "feedback": "Provoca contraste crítico."
+        },
+        {
+          "letter": "B",
+          "text": "Llenar el texto sin efecto.",
+          "is_correct": false,
+          "feedback": "Tiene efecto irónico."
+        },
+        {
+          "letter": "C",
+          "text": "Evitar el humor.",
+          "is_correct": false,
+          "feedback": "Lo potencia."
+        },
+        {
+          "letter": "D",
+          "text": "Copiar literalmente el saber popular.",
+          "is_correct": false,
+          "feedback": "Lo transforma."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La reelaboración irónica de refranes activa la memoria cultural y la somete a crítica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle-v9",
+      "statement": "En una crónica del siglo XIX sobre una fiesta patronal y un cuadro costumbrista actual sobre una verbena popular, el elemento común es:",
+      "context": "En Pasto, se compara una crónica costumbrista del siglo XIX y un cuadro actual.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La representación detallada de una práctica cultural colectiva reconocible.",
+          "is_correct": true,
+          "feedback": "Persiste la intención costumbrista."
+        },
+        {
+          "letter": "B",
+          "text": "El rechazo total de la cultura popular.",
+          "is_correct": false,
+          "feedback": "La celebra críticamente."
+        },
+        {
+          "letter": "C",
+          "text": "La ausencia de personajes.",
+          "is_correct": false,
+          "feedback": "Están presentes."
+        },
+        {
+          "letter": "D",
+          "text": "El enfoque futurista.",
+          "is_correct": false,
+          "feedback": "Mira el presente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El costumbrismo fija tradiciones colectivas, las describe y las somete a mirada crítica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle-v10",
+      "statement": "¿Qué criterio es más pertinente para incluir un texto satírico en una clase de ética ciudadana?",
+      "context": "En Armenia, se evalúa la pertinencia de un texto satírico en clase de ética.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que invite a la reflexión crítica sin degradar a personas ni promover odio.",
+          "is_correct": true,
+          "feedback": "Equilibra humor y respeto."
+        },
+        {
+          "letter": "B",
+          "text": "Que ridiculice sin más a cualquier autoridad.",
+          "is_correct": false,
+          "feedback": "Falta reflexión."
+        },
+        {
+          "letter": "C",
+          "text": "Que sustituya el análisis con chistes sueltos.",
+          "is_correct": false,
+          "feedback": "Pierde profundidad."
+        },
+        {
+          "letter": "D",
+          "text": "Que evite cualquier referencia política.",
+          "is_correct": false,
+          "feedback": "La sátira suele tocar la política."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una sátira ética cuestiona sin destruir, promueve diálogo y respeta dignidad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la diferencia fundamental entre el costumbrismo romántico del siglo XIX y la sátira contemporánea?",
+      "context": "En Popayán, se contrasta el costumbrismo romántico y la sátira moderna.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El costumbrismo describe con simpatía crítica; la sátira contemporánea usa humor ácido para evidenciar poderes.",
+          "is_correct": true,
+          "feedback": "Cambian tono y objetivo."
+        },
+        {
+          "letter": "B",
+          "text": "El costumbrismo no usa humor.",
+          "is_correct": false,
+          "feedback": "Lo usa con suavidad."
+        },
+        {
+          "letter": "C",
+          "text": "La sátira contemporánea es descriptiva y neutra.",
+          "is_correct": false,
+          "feedback": "Es crítica."
+        },
+        {
+          "letter": "D",
+          "text": "Son idénticas en intención.",
+          "is_correct": false,
+          "feedback": "Difieren en alcance y tono."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ambas observan la realidad, pero la sátira contemporánea profundiza la denuncia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle-v12",
+      "statement": "Al analizar un meme satírico sobre un funcionario público colombiano, ¿qué se debe considerar primero?",
+      "context": "En Bogotá, se interpreta un meme satírico sobre un funcionario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El contexto político, la intención del autor y el efecto buscado en la audiencia.",
+          "is_correct": true,
+          "feedback": "Es interpretación multimodal."
+        },
+        {
+          "letter": "B",
+          "text": "Solo el tamaño de la imagen.",
+          "is_correct": false,
+          "feedback": "Es dato formal."
+        },
+        {
+          "letter": "C",
+          "text": "La marca del dispositivo con que se hizo.",
+          "is_correct": false,
+          "feedback": "Irrelevante."
+        },
+        {
+          "letter": "D",
+          "text": "La cantidad de píxeles.",
+          "is_correct": false,
+          "feedback": "No aporta sentido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La interpretación de una sátira exige atención al contexto y a los códigos compartidos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle-v13",
+      "statement": "En una comedia costumbrista, cuando el avaro termina perdiendo su dinero por tacaño, el efecto cómico depende de:",
+      "context": "En Medellín, se estudia la ironía dramática en una comedia costumbrista.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ironía situacional: el resultado contradice la intención del personaje.",
+          "is_correct": true,
+          "feedback": "Es ironía dramática."
+        },
+        {
+          "letter": "B",
+          "text": "Una catástrofe ajena al personaje.",
+          "is_correct": false,
+          "feedback": "Proviene de su propia acción."
+        },
+        {
+          "letter": "C",
+          "text": "Un error técnico del autor.",
+          "is_correct": false,
+          "feedback": "Es deliberado."
+        },
+        {
+          "letter": "D",
+          "text": "La ausencia total de conflicto.",
+          "is_correct": false,
+          "feedback": "Hay conflicto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ironía dramática surge cuando el destino contradice las decisiones del personaje.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.63,
+      "bundle_id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle-v14",
+      "statement": "En una caricatura escrita, frases con paralelismos como \"promete mucho, cumple poco; anuncia bastante, entrega nada\" tienen un efecto principalmente:",
+      "context": "En Ibagué, se analiza la sintaxis de una caricatura escrita.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rítmico y contrastante: la repetición subraya la contradicción denunciada.",
+          "is_correct": true,
+          "feedback": "Es paralelismo antitético."
+        },
+        {
+          "letter": "B",
+          "text": "Aleatorio y confuso.",
+          "is_correct": false,
+          "feedback": "Es ordenado."
+        },
+        {
+          "letter": "C",
+          "text": "Exclusivamente narrativo.",
+          "is_correct": false,
+          "feedback": "Es argumentativo."
+        },
+        {
+          "letter": "D",
+          "text": "Sin efecto significativo.",
+          "is_correct": false,
+          "feedback": "Refuerza la crítica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El paralelismo antitético organiza la denuncia y la hace memorable.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle-v15",
+      "statement": "¿Qué tienen en común las tradiciones satíricas latinoamericanas como el \"costumbrismo\" colombiano, la \"lirica popular\" y la \"caricatura política\"?",
+      "context": "En Santa Marta, se comparan tradiciones satíricas latinoamericanas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Critican prácticas sociales con humor reconocible, exponiendo vicios compartidos.",
+          "is_correct": true,
+          "feedback": "Es el denominador común."
+        },
+        {
+          "letter": "B",
+          "text": "Evitan la crítica política.",
+          "is_correct": false,
+          "feedback": "La abordan."
+        },
+        {
+          "letter": "C",
+          "text": "Son exclusivamente serias.",
+          "is_correct": false,
+          "feedback": "Usan humor."
+        },
+        {
+          "letter": "D",
+          "text": "Están desconectadas de la realidad.",
+          "is_correct": false,
+          "feedback": "Están ancladas a ella."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La sátira latinoamericana dialoga con su contexto mediante recursos humorísticos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.61,
+      "bundle_id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle-v16",
+      "statement": "Al comparar dos columnas satíricas sobre el transporte público en Bogotá y Medellín, lo más relevante para el análisis es:",
+      "context": "En Neiva, se evalúan dos textos satíricos sobre el transporte público.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El contexto local, los referentes compartidos y el tipo de humor usado.",
+          "is_correct": true,
+          "feedback": "Permite comparar efectos."
+        },
+        {
+          "letter": "B",
+          "text": "La longitud del título únicamente.",
+          "is_correct": false,
+          "feedback": "Es dato formal."
+        },
+        {
+          "letter": "C",
+          "text": "La cantidad de párrafos.",
+          "is_correct": false,
+          "feedback": "Es estructura."
+        },
+        {
+          "letter": "D",
+          "text": "La marca de la imprenta.",
+          "is_correct": false,
+          "feedback": "Irrelevante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La comparación crítica de sátiras exige atención al contexto cultural y al tipo de humor.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es la vigencia del costumbrismo en la literatura colombiana actual?",
+      "context": "En un coloquio en Bogotá, se debate sobre la vigencia del costumbrismo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Persiste como mirada crítica a nuevas costumbres urbanas, digitales y culturales.",
+          "is_correct": true,
+          "feedback": "Se renueva con nuevos temas."
+        },
+        {
+          "letter": "B",
+          "text": "Desapareció totalmente.",
+          "is_correct": false,
+          "feedback": "Persiste transformado."
+        },
+        {
+          "letter": "C",
+          "text": "Solo se estudia históricamente sin práctica.",
+          "is_correct": false,
+          "feedback": "Se cultiva."
+        },
+        {
+          "letter": "D",
+          "text": "Es incompatible con la crítica social.",
+          "is_correct": false,
+          "feedback": "La promueve."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El costumbrismo se adapta a nuevas escenas sociales sin perder su intención crítica.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle-v18",
+      "statement": "¿Qué riesgos éticos enfrenta la sátira política en redes sociales?",
+      "context": "En un foro en Cali, se analiza el impacto de la sátira digital.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Difamación, simplificación de debates y viralización de mensajes ofensivos.",
+          "is_correct": true,
+          "feedback": "Riesgos documentados."
+        },
+        {
+          "letter": "B",
+          "text": "Total ausencia de efectos.",
+          "is_correct": false,
+          "feedback": "Tiene efectos."
+        },
+        {
+          "letter": "C",
+          "text": "Eliminación del humor.",
+          "is_correct": false,
+          "feedback": "El humor se mantiene."
+        },
+        {
+          "letter": "D",
+          "text": "Reducción de la participación.",
+          "is_correct": false,
+          "feedback": "Puede aumentarla."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La sátira digital exige responsabilidad: humor sin difamación y crítica sin odio.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.53,
+      "bundle_id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle-v19",
+      "statement": "¿Qué valor pedagógico tiene la caricatura como recurso didáctico en la lectura crítica?",
+      "context": "En Manizales, se evalúa la pertinencia de la caricatura en el aula.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite analizar intencionalidad, contexto y mecanismos de persuasión en clave visual.",
+          "is_correct": true,
+          "feedback": "Es recurso multimodal."
+        },
+        {
+          "letter": "B",
+          "text": "Solo entretiene sin enseñar.",
+          "is_correct": false,
+          "feedback": "Enseña."
+        },
+        {
+          "letter": "C",
+          "text": "Elimina la reflexión sobre el lenguaje.",
+          "is_correct": false,
+          "feedback": "La refuerza."
+        },
+        {
+          "letter": "D",
+          "text": "Es inaccesible para estudiantes.",
+          "is_correct": false,
+          "feedback": "Es accesible."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La caricatura, usada críticamente, desarrolla alfabetidad visual y ciudadana.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.51,
+      "bundle_id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle-v20",
+      "statement": "¿Qué papel cumple el humor crítico en una sociedad democrática?",
+      "context": "En un cierre en Cartagena, se reflexiona sobre el humor como herramienta cívica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Visibilizar contradicciones, abrir diálogo y controlar el poder sin violencia.",
+          "is_correct": true,
+          "feedback": "Es función cívica."
+        },
+        {
+          "letter": "B",
+          "text": "Reemplazar el diálogo público.",
+          "is_correct": false,
+          "feedback": "Lo enriquece."
+        },
+        {
+          "letter": "C",
+          "text": "Evadir problemas sociales.",
+          "is_correct": false,
+          "feedback": "Los enfoca."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituir la ley.",
+          "is_correct": false,
+          "feedback": "No tiene fuerza normativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El humor crítico es un instrumento cívico que amplía el debate y la deliberación democrática.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Textual",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-2026-W39-satira-costumbrista-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle-v1",
+      "statement": "¿Qué distingue principalmente a un texto de divulgación científica?",
+      "context": "Feria de la ciencia en Bogotá: los estudiantes distinguen distintos tipos de textos sobre ciencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Explica conocimientos científicos en lenguaje accesible para un público amplio, sin perder el rigor.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la divulgación traduce el saber especializado sin traicionar su contenido."
+        },
+        {
+          "letter": "B",
+          "text": "Reemplaza los datos por opiniones personales del autor.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la divulgación se apoya en evidencia, no en opiniones sin sustento."
+        },
+        {
+          "letter": "C",
+          "text": "Exige una formación de posgrado para poder comprenderlo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque su propósito es precisamente acercar el conocimiento a públicos no especializados."
+        },
+        {
+          "letter": "D",
+          "text": "Evita cualquier referencia a la evidencia o a las fuentes.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la divulgación rigurosa siempre menciona de dónde provienen los datos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La divulgación científica es un puente entre la comunidad experta y el público general. Su reto es explicar con claridad y, al mismo tiempo, conservar la precisión, las fuentes y el grado de incertidumbre del conocimiento.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle-v2",
+      "statement": "¿Qué es una hipótesis en una investigación científica?",
+      "context": "Laboratorio escolar en Medellín: los estudiantes formulan una investigación sobre calidad del agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una conclusión definitiva e irrefutable.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la conclusión se obtiene después de la investigación, no antes."
+        },
+        {
+          "letter": "B",
+          "text": "Una explicación provisional que se pone a prueba mediante observaciones y experimentos.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la hipótesis es una conjetura que debe contrastarse con la evidencia."
+        },
+        {
+          "letter": "C",
+          "text": "Un dato aislado sin ninguna interpretación.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el dato es materia prima, mientras la hipótesis es una explicación tentativa."
+        },
+        {
+          "letter": "D",
+          "text": "Una opinión personal que no requiere verificación.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque toda hipótesis científica debe someterse a prueba."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La hipótesis es una respuesta provisional a una pregunta de investigación: se formula para ser puesta a prueba y puede confirmarse o refutarse. Su valor no está en ser verdadera de antemano, sino en ser verificable.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.89,
+      "bundle_id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el propósito de la divulgación científica?",
+      "context": "Programa radial en Cali dedicado a explicar avances científicos a la comunidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acercar el conocimiento científico a la sociedad para que esta comprenda y decida de manera informada.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la divulgación busca formar ciudadanos capaces de entender y usar el conocimiento."
+        },
+        {
+          "letter": "B",
+          "text": "Ocultar los avances científicos a la población.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la divulgación persigue exactamente lo contrario: difundir y compartir."
+        },
+        {
+          "letter": "C",
+          "text": "Vender productos farmacéuticos de una marca específica.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque su finalidad es educativa y no comercial."
+        },
+        {
+          "letter": "D",
+          "text": "Entretener sin ningún contenido verificable.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque, aunque use recursos amenos, mantiene un contenido riguroso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La divulgación científica cumple una función democrática: pone el conocimiento al alcance de todos para que la sociedad comprenda los fenómenos y tome decisiones informadas. Es un puente entre la investigación y la vida cotidiana.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle-v4",
+      "statement": "¿Qué rasgo caracteriza el lenguaje objetivo de un texto científico?",
+      "context": "Lectura de un artículo en Barranquilla sobre los arrecifes de coral del Caribe colombiano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso constante de exclamaciones y metáforas emotivas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ese estilo pertenece a la expresión subjetiva, no al discurso científico."
+        },
+        {
+          "letter": "B",
+          "text": "El uso de términos precisos y la presentación de datos sin apelar a las emociones.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la objetividad busca describir los hechos con exactitud y neutralidad."
+        },
+        {
+          "letter": "C",
+          "text": "La ausencia total de datos y mediciones.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los datos son la base del conocimiento científico."
+        },
+        {
+          "letter": "D",
+          "text": "La exageración de los resultados para impresionar al lector.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la exageración distorsiona los hallazgos y contradice el rigor científico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El lenguaje científico privilegia la precisión, la neutralidad y la referencia a datos verificables. No busca conmover, sino describir con exactitud. Esto no impide que la divulgación use ejemplos o analogías para facilitar la comprensión.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.87,
+      "bundle_id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál enunciado presenta evidencia y no una simple opinión?",
+      "context": "Taller en Bucaramanga: separar la evidencia de las opiniones en un informe sobre contaminación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Ese científico parece muy simpático.\"",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque describe una impresión personal, no un resultado verificable."
+        },
+        {
+          "letter": "B",
+          "text": "\"Yo creo que el clima está raro.\"",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque expresa una percepción subjetiva sin medición."
+        },
+        {
+          "letter": "C",
+          "text": "\"Los datos de tres años muestran un aumento del 12 % en la temperatura media registrada.\"",
+          "is_correct": true,
+          "feedback": "Es correcta porque presenta una medición concreta y comparable."
+        },
+        {
+          "letter": "D",
+          "text": "\"Todo el mundo debería pensar igual que yo.\"",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque apela a una supuesta unanimidad sin aportar pruebas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La evidencia científica se apoya en mediciones, datos y observaciones verificables. Las opiniones, en cambio, expresan percepciones o preferencias. En el texto de divulgación, distinguir unas de otras es condición para leer con criterio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle-v6",
+      "statement": "En un artículo de divulgación, ¿qué función cumple una gráfica?",
+      "context": "Análisis de una gráfica en Pereira sobre el consumo de agua en la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sintetizar visualmente los datos para facilitar su comparación e interpretación.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la representación gráfica permite ver tendencias y contrastes de un vistazo."
+        },
+        {
+          "letter": "B",
+          "text": "Decorar la página sin aportar información.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque, en un texto científico, la gráfica transmite datos concretos."
+        },
+        {
+          "letter": "C",
+          "text": "Sustituir la necesidad de presentar datos numéricos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la gráfica representa los datos; no los reemplaza."
+        },
+        {
+          "letter": "D",
+          "text": "Confundir al lector con cifras sin origen.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque toda gráfica rigurosa indica la fuente y las unidades de los datos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las gráficas no son adornos: son instrumentos de comunicación de datos. Bien construidas, permiten identificar tendencias, comparar categorías y detectar valores atípicos. Leerlas exige atender a los ejes, las escalas y la fuente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.79,
+      "bundle_id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle-v7",
+      "statement": "¿Qué sección de un texto científico presenta la interpretación de los resultados y responde a la hipótesis?",
+      "context": "Artículo sobre el café en Manizales y su relación con las condiciones del suelo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El título del artículo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el título anuncia el tema, pero no interpreta los resultados."
+        },
+        {
+          "letter": "B",
+          "text": "La lista de autores al final.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los autores se identifican, pero no responden a la hipótesis."
+        },
+        {
+          "letter": "C",
+          "text": "La conclusión, donde se valora si los datos apoyan o refutan la hipótesis.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la conclusión integra los resultados y responde a la pregunta de investigación."
+        },
+        {
+          "letter": "D",
+          "text": "El pie de página con la dirección del laboratorio.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque esa información es administrativa y no analiza los hallazgos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La conclusión cierra el razonamiento científico: retoma la hipótesis y establece si los resultados la respaldan o la contradicen, además de señalar los límites del estudio. Es el lugar donde el dato se convierte en interpretación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué la figura de Alexander von Humboldt es relevante para la ciencia en Colombia?",
+      "context": "Museo en Santa Marta: una sala recuerda las expediciones científicas por el territorio colombiano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inventó el café colombiano y lo sembró por primera vez.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque atribuye al científico un hecho que no le corresponde."
+        },
+        {
+          "letter": "B",
+          "text": "Sus expediciones documentaron la geografía, la flora y la fauna del territorio, aportando a las ciencias naturales.",
+          "is_correct": true,
+          "feedback": "Es correcta porque Humboldt realizó observaciones y mediciones que enriquecieron el conocimiento natural del país."
+        },
+        {
+          "letter": "C",
+          "text": "Construyó los primeros ferrocarriles del país.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque su labor fue científica y no de ingeniería ferroviaria."
+        },
+        {
+          "letter": "D",
+          "text": "Escribió las leyes de la física cuántica.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la física cuántica es muy posterior y ajena a su obra."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Alexander von Humboldt recorrió el territorio americano a comienzos del siglo XIX y registró con rigor sus observaciones sobre el clima, la vegetación, los suelos y el relieve. Su enfoque de estudiar la naturaleza como un sistema interconectado tuvo una enorme influencia en las ciencias naturales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.77,
+      "bundle_id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle-v9",
+      "statement": "¿Qué permite la sección de metodología en un artículo científico?",
+      "context": "Taller en Ibagué: se analiza la estructura de un artículo sobre energías renovables.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conocer cómo se obtuvieron los datos para juzgar su validez y posibilitar su réplica.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la metodología hace transparente el procedimiento y permite verificarlo."
+        },
+        {
+          "letter": "B",
+          "text": "Adornar el texto con tecnicismos sin utilidad.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los tecnicismos de la metodología describen procedimientos concretos."
+        },
+        {
+          "letter": "C",
+          "text": "Ocultar los procedimientos empleados.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la metodología busca precisamente hacerlos explícitos."
+        },
+        {
+          "letter": "D",
+          "text": "Reemplazar por completo los resultados.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los resultados son el producto del método, no su sustituto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La metodología describe cómo se obtuvo la información: instrumentos, muestras, procedimientos y controles. Gracias a ella, otros investigadores pueden evaluar la validez del estudio y, si lo desean, repetirlo para verificar los resultados.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle-v10",
+      "statement": "Si dos variables aumentan a la vez, ¿qué afirmación es más rigurosa?",
+      "context": "Debate en Villavicencio: un informe muestra que dos variables aumentan al mismo tiempo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una causa necesariamente a la otra.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la coincidencia temporal no demuestra por sí sola una relación causal."
+        },
+        {
+          "letter": "B",
+          "text": "Existe una correlación entre ambas, pero ello no prueba por sí solo una relación causal.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la correlación es compatible con otras explicaciones y requiere más pruebas."
+        },
+        {
+          "letter": "C",
+          "text": "La correlación es siempre falsa.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la correlación puede ser real, aunque no implique causalidad."
+        },
+        {
+          "letter": "D",
+          "text": "Los datos no significan absolutamente nada.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los datos describen un patrón que merece ser investigado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Correlación no es causalidad. Que dos variables varíen juntas puede deberse a una causa común, a una causalidad inversa o a una simple coincidencia. Distinguir ambas nociones evita conclusiones precipitadas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle-v11",
+      "statement": "Un estudio concluye sobre toda la población a partir de una muestra muy pequeña y sesgada. ¿Cuál es la crítica adecuada?",
+      "context": "Seminario en Pasto: se revisa un estudio que generaliza sus resultados a todo el país.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La generalización no es válida porque la muestra no es representativa de la población.",
+          "is_correct": true,
+          "feedback": "Es correcta porque una muestra sesgada no permite extrapolar los resultados al conjunto."
+        },
+        {
+          "letter": "B",
+          "text": "La conclusión es sólida porque proviene de un laboratorio.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el lugar donde se hace el estudio no garantiza la validez de la muestra."
+        },
+        {
+          "letter": "C",
+          "text": "El tamaño de la muestra no influye en la validez.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el tamaño y la representatividad de la muestra afectan directamente la validez."
+        },
+        {
+          "letter": "D",
+          "text": "La investigación es perfecta y no admite ningún reparo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ningún estudio está exento de revisión crítica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para generalizar resultados hay que garantizar que la muestra sea representativa de la población estudiada. Una muestra pequeña o sesgada produce conclusiones frágiles que no pueden extenderse sin más a un conjunto mayor.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle-v12",
+      "statement": "¿Qué falla se presenta en esa interpretación?",
+      "context": "Análisis en Neiva: una gráfica muestra un pico de casos y el texto atribuye una causa sin más datos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La gráfica está bien construida y no requiere explicación.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque toda gráfica necesita una lectura argumentada de sus datos."
+        },
+        {
+          "letter": "B",
+          "text": "Se salta de un dato descriptivo a una explicación causal sin evidencia que la sustente.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el pico describe un patrón, pero no basta para demostrar la causa que se le atribuye."
+        },
+        {
+          "letter": "C",
+          "text": "El pico es un error de impresión inevitable.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el problema no es de impresión, sino de inferencia injustificada."
+        },
+        {
+          "letter": "D",
+          "text": "Los datos no pueden representarse gráficamente.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los datos sí se representan; lo objetable es su interpretación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pasar de la descripción de un dato a la afirmación de una causa requiere un razonamiento probatorio. Un pico en una gráfica muestra que algo ocurrió, pero no explica por qué ocurrió. Confundir ambos niveles es una fuente frecuente de conclusiones erróneas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.69,
+      "bundle_id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle-v13",
+      "statement": "¿Qué rasgo permite distinguir un texto de divulgación científica riguroso de un texto pseudocientífico?",
+      "context": "Taller en Armenia: los estudiantes comparan un artículo de divulgación con un texto pseudocientífico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El pseudocientífico siempre incluye más gráficas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la cantidad de gráficas no determina el rigor de un texto."
+        },
+        {
+          "letter": "B",
+          "text": "El primero reconoce sus fuentes, límites y grado de incertidumbre; el segundo apela a la certeza absoluta sin evidencia.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la ciencia admite dudas y revisión, mientras la pseudociencia suele presentarse como infalible."
+        },
+        {
+          "letter": "C",
+          "text": "El riguroso evita mencionar datos concretos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la divulgación científica se apoya precisamente en datos."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos son idénticos en su método.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque parten de procedimientos radicalmente distintos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ciencia se caracteriza por su apertura a la crítica y por reconocer la incertidumbre y los límites de sus hallazgos. La pseudociencia, en cambio, suele ofrecer certezas absolutas, evitar la revisión externa y no citar fuentes verificables.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle-v14",
+      "statement": "Si un informe muestra que una región posee alta biodiversidad pero también alta deforestación, ¿qué lectura es más adecuada?",
+      "context": "Instituto de investigación en Quibdó: un informe reporta alta biodiversidad junto con alta deforestación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La riqueza biológica está amenazada, lo que exige medidas de conservación basadas en esos datos.",
+          "is_correct": true,
+          "feedback": "Es correcta porque relaciona los dos datos y deriva una consecuencia razonable para la gestión ambiental."
+        },
+        {
+          "letter": "B",
+          "text": "La deforestación no afecta a la biodiversidad.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la pérdida de bosque reduce directamente los hábitats y las especies."
+        },
+        {
+          "letter": "C",
+          "text": "La biodiversidad desapareció por completo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el informe reporta alta biodiversidad, no su desaparición total."
+        },
+        {
+          "letter": "D",
+          "text": "Los datos son irrelevantes para la política ambiental.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los datos ecológicos son insumo central de las decisiones ambientales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Interpretar datos científicos implica relacionarlos entre sí y derivar conclusiones fundamentadas. Si un territorio es rico en especies pero pierde bosque a gran velocidad, la lectura adecuada reconoce una amenaza y justifica medidas de conservación.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.67,
+      "bundle_id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle-v15",
+      "statement": "¿Qué intención suele guiar a un divulgador científico al explicar un fenómeno complejo?",
+      "context": "Revista universitaria en Bogotá: un divulgador explica un fenómeno complejo de la física.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Demostrar superioridad intelectual mediante tecnicismos innecesarios.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el abuso de tecnicismos dificulta la comprensión y contradice el propósito divulgativo."
+        },
+        {
+          "letter": "B",
+          "text": "Traducir el conocimiento especializado sin distorsionarlo para que el público lo comprenda y lo valore.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la divulgación busca hacer accesible el saber sin sacrificar su precisión."
+        },
+        {
+          "letter": "C",
+          "text": "Ocultar los resultados que no favorecen su postura.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la honestidad exige presentar también los hallazgos adversos."
+        },
+        {
+          "letter": "D",
+          "text": "Promocionar una marca comercial con fines de lucro.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la intención de la divulgación es educativa y no publicitaria."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El buen divulgador equilibra claridad y rigor: busca que un público no especializado comprenda el fenómeno sin simplificarlo hasta deformarlo. Su intención es formativa y democrática, no demostrativa ni comercial.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle-v16",
+      "statement": "\"Lo afirma un premio Nobel, luego es verdad sin discusión.\" ¿Cómo se evalúa este razonamiento?",
+      "context": "Debate en Cartagena: un columnista justifica una afirmación basándose en un premio Nobel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apela a la autoridad sin examinar la evidencia; la credibilidad del experto no sustituye la verificación.",
+          "is_correct": true,
+          "feedback": "Es correcta porque, aunque la voz experta sea valiosa, toda afirmación científica debe respaldarse con pruebas."
+        },
+        {
+          "letter": "B",
+          "text": "Es impecable, porque los premios nunca se equivocan.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ningún reconocimiento garantiza la infalibilidad de una persona."
+        },
+        {
+          "letter": "C",
+          "text": "Es la única forma válida de argumentar en ciencia.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la ciencia se apoya en evidencia y revisión, no solo en la autoridad."
+        },
+        {
+          "letter": "D",
+          "text": "Demuestra que la evidencia es innecesaria.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la evidencia es central en el razonamiento científico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El argumento de autoridad puede orientar, pero no reemplaza la evidencia. Una afirmación es científica cuando puede contrastarse con datos y resistir la revisión crítica, independientemente de quién la formule.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle-v17",
+      "statement": "¿Por qué la reproducibilidad es un criterio central del conocimiento científico?",
+      "context": "Simposio en Medellín: se discute por qué la ciencia valora la repetición de experimentos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque impide que la ciencia avance.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque, al contrario, la reproducibilidad es una condición del avance científico."
+        },
+        {
+          "letter": "B",
+          "text": "Porque permite confirmar que los resultados no dependen de un caso aislado o de un error, fortaleciendo su validez.",
+          "is_correct": true,
+          "feedback": "Es correcta porque repetir el experimento verifica que los hallazgos sean consistentes y confiables."
+        },
+        {
+          "letter": "C",
+          "text": "Porque elimina la necesidad de publicar los resultados.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la publicación es justamente el medio para someter los resultados a revisión."
+        },
+        {
+          "letter": "D",
+          "text": "Porque garantiza que todo experimento salga bien a la primera.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque muchos experimentos fallan o deben ajustarse antes de dar resultados válidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La reproducibilidad es la garantía de que un resultado no depende del azar ni de un error particular. Si otros investigadores obtienen los mismos hallazgos con el mismo método, la confianza en la conclusión aumenta; si no, la hipótesis debe revisarse.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál postura expresa mejor la responsabilidad del divulgador frente a la incertidumbre?",
+      "context": "Coloquio en Cali: se debate cómo comunicar la incertidumbre al público.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comunicar con claridad también los límites y las dudas de la ciencia, evitando simplificaciones que generen falsas certezas.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la honestidad sobre la incertidumbre fortalece la confianza y la comprensión del método científico."
+        },
+        {
+          "letter": "B",
+          "text": "Presentar toda hipótesis como una verdad absoluta.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque convertir conjeturas en certezas distorsiona el conocimiento científico."
+        },
+        {
+          "letter": "C",
+          "text": "Ocultar la incertidumbre para no confundir al público.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ocultar las dudas priva al público de información esencial para juzgar los hallazgos."
+        },
+        {
+          "letter": "D",
+          "text": "Exagerar los resultados para ganar audiencia.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la exageración manipula y desinforma a la sociedad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ciencia convive con la incertidumbre: sus conclusiones son provisionales y están sujetas a revisión. El divulgador responsable comunica también los límites y las dudas, pues así forma un público capaz de comprender cómo se construye el conocimiento.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.59,
+      "bundle_id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle-v19",
+      "statement": "Un investigador publica solo los datos que favorecen su hipótesis y omite los contrarios. ¿Cómo se evalúa esa conducta?",
+      "context": "Comité de ética en Bogotá: se analiza la conducta de un investigador en una publicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una estrategia válida para publicar más rápido.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la rapidez no justifica ocultar información relevante."
+        },
+        {
+          "letter": "B",
+          "text": "Es una manipulación que viola la integridad científica y distorsiona las conclusiones.",
+          "is_correct": true,
+          "feedback": "Es correcta porque seleccionar solo los datos favorables falsea los resultados y engaña a la comunidad."
+        },
+        {
+          "letter": "C",
+          "text": "Es irrelevante, porque nadie revisa los datos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la revisión por pares y la replicación están diseñadas precisamente para detectar esos sesgos."
+        },
+        {
+          "letter": "D",
+          "text": "Es obligatoria para obtener financiación.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ningún código de ética exige ocultar datos adversos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La integridad científica exige reportar todos los resultados, favorables o no. Ocultar los datos que contradicen la hipótesis constituye una manipulación que falsea el conocimiento y traiciona la confianza pública en la ciencia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle-v20",
+      "statement": "¿Qué síntesis expresa mejor el papel de la ciencia y la divulgación en Colombia?",
+      "context": "Cierre del año en Aracataca: síntesis sobre el aporte de la ciencia y su divulgación en el país.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En Colombia no se ha investigado nunca sobre la naturaleza.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque existe una tradición amplia de investigación sobre biodiversidad, geografía y agricultura."
+        },
+        {
+          "letter": "B",
+          "text": "El país cuenta con una rica tradición de investigación sobre su biodiversidad y su café, cuya divulgación fortalece la conciencia y las decisiones colectivas.",
+          "is_correct": true,
+          "feedback": "Es correcta porque reconoce el aporte científico nacional y el valor social de comunicarlo."
+        },
+        {
+          "letter": "C",
+          "text": "La ciencia es un asunto ajeno a la vida de la sociedad.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el conocimiento científico incide en la salud, el ambiente y la economía cotidianas."
+        },
+        {
+          "letter": "D",
+          "text": "La divulgación solo sirve para entretener sin ninguna utilidad.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la divulgación cumple una función educativa y democrática fundamental."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Colombia ha producido conocimiento sobre su enorme biodiversidad, sus suelos y su café, entre muchos otros campos. Divulgar esos hallazgos no es un adorno: permite que la sociedad comprenda su entorno y tome mejores decisiones sobre salud, ambiente y desarrollo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.57,
+      "bundle_id": "CO-LC-11-2026-W39-texto-cientifico-divulgacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-18-grade-5-subject-ingles",
+    "generated_at": "2026-09-12T15:41:45.196Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-5-2026-W18-future-plans-going-to-weekend-001-MASTERY-bundle-v1",
+      "statement": "Which structure expresses a future plan?",
+      "context": "In a classroom in Tunja, Boyacá, the teacher explains how to talk about plans for Saturday.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I am going to visit my grandmother.",
+          "is_correct": true,
+          "feedback": "Correct: be + going to + verb expresses a future plan."
+        },
+        {
+          "letter": "B",
+          "text": "I visit my grandmother every day.",
+          "is_correct": false,
+          "feedback": "Incorrect: that is a present routine, not a future plan."
+        },
+        {
+          "letter": "C",
+          "text": "I visited my grandmother yesterday.",
+          "is_correct": false,
+          "feedback": "Incorrect: that is past, not a future plan."
+        },
+        {
+          "letter": "D",
+          "text": "I visiting my grandmother now.",
+          "is_correct": false,
+          "feedback": "Incorrect: that is incomplete and points to the present, not the future."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Going to sirve para hablar de planes futuros: se forma con el verbo be (am/is/are) + going to + verbo principal.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-5-2026-W18-future-plans-going-to-weekend-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W18-future-plans-going-to-weekend-001-MASTERY-bundle-v2",
+      "statement": "Which word names a place to watch movies?",
+      "context": "In Pasto, Nariño, a poster lists weekend places: park, cinema, library and stadium.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Park.",
+          "is_correct": false,
+          "feedback": "Incorrect: the park is for games and walks, not movies."
+        },
+        {
+          "letter": "B",
+          "text": "Library.",
+          "is_correct": false,
+          "feedback": "Incorrect: the library is for reading and borrowing books."
+        },
+        {
+          "letter": "C",
+          "text": "Cinema.",
+          "is_correct": true,
+          "feedback": "Correct: the cinema is the place where people watch movies."
+        },
+        {
+          "letter": "D",
+          "text": "Bakery.",
+          "is_correct": false,
+          "feedback": "Incorrect: the bakery sells bread, it does not show movies."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El vocabulario de lugares del fin de semana incluye cinema (cine), park (parque), library (biblioteca) y stadium (estadio).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-ING-5-2026-W18-future-plans-going-to-weekend-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W18-future-plans-going-to-weekend-001-MASTERY-bundle-v3",
+      "statement": "Which is the correct sentence?",
+      "context": "In Neiva, Huila, Camilo tells his friend about Saturday: \"I ___ play football in the stadium\". He needs am/is/are.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I is going to play football in the stadium.",
+          "is_correct": false,
+          "feedback": "Incorrect: is goes with he/she, never with I."
+        },
+        {
+          "letter": "B",
+          "text": "I am going to play football in the stadium.",
+          "is_correct": true,
+          "feedback": "Correct: I always goes with am in the going to structure."
+        },
+        {
+          "letter": "C",
+          "text": "I are going to play football in the stadium.",
+          "is_correct": false,
+          "feedback": "Incorrect: are goes with you/we/they, not with I."
+        },
+        {
+          "letter": "D",
+          "text": "I be going to play football in the stadium.",
+          "is_correct": false,
+          "feedback": "Incorrect: be alone is not conjugated; with I we need am."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El verbo be debe concordar: I am, he/she is, you/we/they are. Con I, la forma correcta es am going to.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.82,
+      "bundle_id": "CO-ING-5-2026-W18-future-plans-going-to-weekend-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W18-future-plans-going-to-weekend-001-MASTERY-bundle-v4",
+      "statement": "Which is the correct sentence?",
+      "context": "In Sincelejo, Sucre, Laura says: \"She ___ going to dance at the party\". She needs am/is/are.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She am going to dance at the party.",
+          "is_correct": false,
+          "feedback": "Incorrect: am only goes with I."
+        },
+        {
+          "letter": "B",
+          "text": "She are going to dance at the party.",
+          "is_correct": false,
+          "feedback": "Incorrect: are goes with you/we/they, not with she."
+        },
+        {
+          "letter": "C",
+          "text": "She be going to dance at the party.",
+          "is_correct": false,
+          "feedback": "Incorrect: be must be conjugated; with she we need is."
+        },
+        {
+          "letter": "D",
+          "text": "She is going to dance at the party.",
+          "is_correct": true,
+          "feedback": "Correct: he/she/it always go with is in the going to structure."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Con he, she e it se usa is: she is going to dance. La concordancia del verbo be es la clave de la estructura.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-5-2026-W18-future-plans-going-to-weekend-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W18-future-plans-going-to-weekend-001-MASTERY-bundle-v5",
+      "statement": "According to the message, what are they going to do on Sunday?",
+      "context": "Read the message from Valledupar, Cesar: \"Hi! On Sunday we are going to visit the park. We are going to play football and eat ice cream. It is going to be fun!\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Visit the park, play football and eat ice cream.",
+          "is_correct": true,
+          "feedback": "Correct: the three going to verbs list exactly the Sunday plan."
+        },
+        {
+          "letter": "B",
+          "text": "Stay at home and watch television.",
+          "is_correct": false,
+          "feedback": "Incorrect: the message never mentions home or television."
+        },
+        {
+          "letter": "C",
+          "text": "Travel to another country by plane.",
+          "is_correct": false,
+          "feedback": "Incorrect: the plan is local, in the park, not a trip abroad."
+        },
+        {
+          "letter": "D",
+          "text": "Study mathematics all day.",
+          "is_correct": false,
+          "feedback": "Incorrect: there is no mention of studying or mathematics."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender planes futuros exige seguir los verbos con going to: visit, play y eat describen el domingo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.74,
+      "bundle_id": "CO-ING-5-2026-W18-future-plans-going-to-weekend-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W18-future-plans-going-to-weekend-001-MASTERY-bundle-v6",
+      "statement": "What are the parts of that future structure?",
+      "context": "In Quibdó, Chocó, a student wrote: \"They are going to swim in the river\". The teacher asks how the future is built.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Present verb + yesterday.",
+          "is_correct": false,
+          "feedback": "Incorrect: yesterday marks past, not future, and there is no going to."
+        },
+        {
+          "letter": "B",
+          "text": "Verb in past with -ed.",
+          "is_correct": false,
+          "feedback": "Incorrect: the -ed ending marks past, not a weekend plan."
+        },
+        {
+          "letter": "C",
+          "text": "Are (be for they) + going to + swim (main verb).",
+          "is_correct": true,
+          "feedback": "Correct: the structure has three parts: conjugated be, going to, and the base verb."
+        },
+        {
+          "letter": "D",
+          "text": "Going + to + river.",
+          "is_correct": false,
+          "feedback": "Incorrect: river is the place, not the main verb of the plan."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar la estructura muestra sus tres piezas: be conjugado (are), going to y el verbo en base (swim).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-5-2026-W18-future-plans-going-to-weekend-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W18-future-plans-going-to-weekend-001-MASTERY-bundle-v7",
+      "statement": "Which plan sounds like a weekend activity and why?",
+      "context": "In Popayán, Cauca, two weekend plans compete: \"We are going to clean the classroom\" and \"We are going to play in the park\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The first, because clean the classroom is typical weekend fun.",
+          "is_correct": false,
+          "feedback": "Incorrect: cleaning the classroom is a school duty, not weekend fun."
+        },
+        {
+          "letter": "B",
+          "text": "The second, because play in the park is a typical free-time activity with a place verb.",
+          "is_correct": true,
+          "feedback": "Correct: play is an activity verb and park is a weekend place; together they form a natural plan."
+        },
+        {
+          "letter": "C",
+          "text": "Both, because clean and play mean the same.",
+          "is_correct": false,
+          "feedback": "Incorrect: clean and play are different verbs with different meanings."
+        },
+        {
+          "letter": "D",
+          "text": "None, because going to cannot express fun.",
+          "is_correct": false,
+          "feedback": "Incorrect: going to can express any plan, including fun ones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El vocabulario distingue deberes (clean the classroom) de diversión (play in the park). Analizar verbo y lugar revela el plan más natural.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lexico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-ING-5-2026-W18-future-plans-going-to-weekend-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W18-future-plans-going-to-weekend-001-MASTERY-bundle-v8",
+      "statement": "How should the presentation be evaluated?",
+      "context": "In Yopal, Casanare, a student presents: \"I is going to visit the library, they is going to play football and we am going to swim\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is perfect because is and am agree with every subject.",
+          "is_correct": false,
+          "feedback": "Incorrect: is does not go with I or they, and am does not go with we."
+        },
+        {
+          "letter": "B",
+          "text": "It is perfect because going to never needs be.",
+          "is_correct": false,
+          "feedback": "Incorrect: going to always needs be conjugated before it."
+        },
+        {
+          "letter": "C",
+          "text": "Only the verbs visit, play and swim are wrong.",
+          "is_correct": false,
+          "feedback": "Incorrect: those main verbs are correct in base form; the errors are in be."
+        },
+        {
+          "letter": "D",
+          "text": "It has three errors in be: I requires am, they require are and we require are; the main verbs are correct.",
+          "is_correct": true,
+          "feedback": "Correct: evaluates each subject-be pair and keeps the base verbs visit, play and swim."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar exige revisar cada pareja sujeto-be: I am, they are, we are. Los verbos principales van siempre en forma base después de going to.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-5-2026-W18-future-plans-going-to-weekend-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-18-grade-5-subject-lectura_critica",
+    "generated_at": "2026-09-12T15:41:45.205Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-5-2026-W18-cronica-futbol-colombiano-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es una crónica deportiva?",
+      "context": "En clase de Lectura Crítica en Medellín, la profesora explica qué es una crónica deportiva antes de leer una sobre el clásico entre Atlético Nacional y Millonarios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un relato que narra un hecho deportivo real combinando información con descripciones y opiniones del autor.",
+          "is_correct": true,
+          "feedback": "La crónica mezcla hechos verificables con la mirada personal del cronista."
+        },
+        {
+          "letter": "B",
+          "text": "Una lista de instrucciones para fabricar balones de fútbol.",
+          "is_correct": false,
+          "feedback": "Las instrucciones son un texto instructivo, no una crónica."
+        },
+        {
+          "letter": "C",
+          "text": "Un anuncio publicitario que vende camisetas de fútbol.",
+          "is_correct": false,
+          "feedback": "La publicidad busca vender, no narrar un hecho deportivo."
+        },
+        {
+          "letter": "D",
+          "text": "Un diccionario con el significado de palabras del fútbol.",
+          "is_correct": false,
+          "feedback": "El diccionario define palabras, no relata un partido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer las características del género \"crónica\": narra un hecho real, describe ambientes y personajes, y admite la mirada personal del autor.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-5-2026-W18-cronica-futbol-colombiano-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W18-cronica-futbol-colombiano-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el propósito principal del autor al escribir una crónica deportiva?",
+      "context": "Un estudiante de Bogotá lee una crónica sobre la final que Millonarios jugó en el estadio El Campín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contar cómo vivió y sintió un partido, combinando información con su punto de vista.",
+          "is_correct": true,
+          "feedback": "La crónica busca narrar una experiencia deportiva desde una mirada personal."
+        },
+        {
+          "letter": "B",
+          "text": "Enseñar a jugar fútbol profesional.",
+          "is_correct": false,
+          "feedback": "Ese es el propósito de un manual o de un entrenador, no de una crónica."
+        },
+        {
+          "letter": "C",
+          "text": "Vender entradas para el próximo partido.",
+          "is_correct": false,
+          "feedback": "Vender entradas corresponde a la publicidad, no a la crónica."
+        },
+        {
+          "letter": "D",
+          "text": "Informar los horarios del transporte público.",
+          "is_correct": false,
+          "feedback": "Los horarios de transporte son información práctica, no una crónica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El propósito comunicativo de la crónica es narrar una experiencia deportiva con la mirada del autor, no solo informar datos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-5-2026-W18-cronica-futbol-colombiano-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W18-cronica-futbol-colombiano-001-MASTERY-bundle-v3",
+      "statement": "La frase anterior es...",
+      "context": "Lee este fragmento de una crónica: \"El estadio Atanasio Girardot de Medellín tiene capacidad para más de 40.000 espectadores.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un hecho, porque presenta un dato verificable sobre el estadio.",
+          "is_correct": true,
+          "feedback": "La capacidad del estadio es un dato comprobable, por eso es un hecho."
+        },
+        {
+          "letter": "B",
+          "text": "Una opinión, porque expresa un sentimiento del autor.",
+          "is_correct": false,
+          "feedback": "No hay juicio de valor ni emoción; es información objetiva."
+        },
+        {
+          "letter": "C",
+          "text": "Una mentira inventada por el cronista.",
+          "is_correct": false,
+          "feedback": "Los datos de una crónica pueden verificarse; no hay indicio de falsedad aquí."
+        },
+        {
+          "letter": "D",
+          "text": "Un deseo del autor para el futuro.",
+          "is_correct": false,
+          "feedback": "El fragmento describe una realidad presente, no un deseo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Distinguir un hecho (dato comprobable) de una opinión (juicio personal) en un texto periodístico.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.79,
+      "bundle_id": "CO-LC-5-2026-W18-cronica-futbol-colombiano-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W18-cronica-futbol-colombiano-001-MASTERY-bundle-v4",
+      "statement": "¿Qué palabra del fragmento expresa una valoración u opinión del autor?",
+      "context": "En una crónica se lee: \"El volante repartió pases precisos y manejó los tiempos del partido con maestría.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"maestría\", porque califica la actuación del jugador con admiración.",
+          "is_correct": true,
+          "feedback": "\"Maestría\" es un juicio valorativo que refleja la opinión del cronista."
+        },
+        {
+          "letter": "B",
+          "text": "\"volante\", porque es el nombre de una posición.",
+          "is_correct": false,
+          "feedback": "\"Volante\" nombra una posición, es información objetiva."
+        },
+        {
+          "letter": "C",
+          "text": "\"pases\", porque describe una acción del juego.",
+          "is_correct": false,
+          "feedback": "\"Pases\" describe una acción concreta, no una valoración."
+        },
+        {
+          "letter": "D",
+          "text": "\"partido\", porque nombra el encuentro deportivo.",
+          "is_correct": false,
+          "feedback": "\"Partido\" nombra el evento, no emite ninguna opinión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificar las palabras valorativas (adjetivos, adverbios) que revelan la opinión del autor dentro de la crónica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-5-2026-W18-cronica-futbol-colombiano-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W18-cronica-futbol-colombiano-001-MASTERY-bundle-v5",
+      "statement": "¿Qué palabra o expresión indica el sujeto (quién realiza la acción) en la oración?",
+      "context": "Lee este enunciado de una crónica: \"La hinchada del Junior llenó por completo el estadio Metropolitano de Barranquilla.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"La hinchada del Junior\", porque es quien realiza la acción de llenar.",
+          "is_correct": true,
+          "feedback": "El sujeto es el grupo que ejecuta la acción del verbo."
+        },
+        {
+          "letter": "B",
+          "text": "\"llenó por completo\", porque es la acción principal.",
+          "is_correct": false,
+          "feedback": "Esa es la parte del predicado que indica la acción."
+        },
+        {
+          "letter": "C",
+          "text": "\"el estadio Metropolitano\", porque es el lugar de la acción.",
+          "is_correct": false,
+          "feedback": "El estadio recibe la acción, es el complemento, no el sujeto."
+        },
+        {
+          "letter": "D",
+          "text": "\"de Barranquilla\", porque indica el origen del equipo.",
+          "is_correct": false,
+          "feedback": "Esa expresión indica lugar, no el sujeto de la oración."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificar la función del sujeto dentro de la oración para comprender la estructura sintáctica del texto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.69,
+      "bundle_id": "CO-LC-5-2026-W18-cronica-futbol-colombiano-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W18-cronica-futbol-colombiano-001-MASTERY-bundle-v6",
+      "statement": "En el fragmento, ¿cuál parte es un hecho y cuál es una opinión?",
+      "context": "Lee esta crónica breve: \"El domingo, América de Cali venció 2-1 a Deportivo Cali en el estadio Pascual Guerrero. Fue un partido emocionante, de principio a fin, y los hinchas lo recordarán por mucho tiempo.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El marcador 2-1 es un hecho; \"partido emocionante\" es una opinión del autor.",
+          "is_correct": true,
+          "feedback": "El marcador es verificable; \"emocionante\" es una valoración subjetiva."
+        },
+        {
+          "letter": "B",
+          "text": "Todo el fragmento es una opinión porque habla de fútbol.",
+          "is_correct": false,
+          "feedback": "El fragmento incluye datos verificables, no solo opiniones."
+        },
+        {
+          "letter": "C",
+          "text": "El marcador es una opinión y \"emocionante\" es un hecho.",
+          "is_correct": false,
+          "feedback": "Es al revés: el marcador es objetivo y \"emocionante\" es subjetivo."
+        },
+        {
+          "letter": "D",
+          "text": "No hay hechos ni opiniones, solo datos sin sentido.",
+          "is_correct": false,
+          "feedback": "El texto contiene hechos claros y una valoración del autor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar un párrafo para separar la información verificable (hechos) de las valoraciones subjetivas (opiniones).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.63,
+      "bundle_id": "CO-LC-5-2026-W18-cronica-futbol-colombiano-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W18-cronica-futbol-colombiano-001-MASTERY-bundle-v7",
+      "statement": "¿Qué se puede concluir sobre el punto de vista de cada autor?",
+      "context": "Dos crónicas sobre el mismo partido: la crónica A destaca \"la entrega y el coraje de los jugadores\"; la crónica B describe \"las fallas del árbitro y los errores del equipo visitante\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cada cronista resalta aspectos distintos del mismo partido, según su mirada y su intención.",
+          "is_correct": true,
+          "feedback": "El hecho es el mismo, pero la mirada del autor cambia los elementos que destaca."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos autores escriben exactamente lo mismo sobre el partido.",
+          "is_correct": false,
+          "feedback": "Cada crónica resalta aspectos diferentes, por eso no son idénticas."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos crónicas son falsas porque no coinciden entre sí.",
+          "is_correct": false,
+          "feedback": "La diferencia de enfoque no significa que sean falsas."
+        },
+        {
+          "letter": "D",
+          "text": "Solo la crónica A es válida y la B debe eliminarse.",
+          "is_correct": false,
+          "feedback": "Ambas son válidas; simplemente enfocan el partido de manera distinta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar cómo la mirada y la intención del autor influyen en los elementos que destaca una crónica, aunque el hecho narrado sea el mismo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-5-2026-W18-cronica-futbol-colombiano-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W18-cronica-futbol-colombiano-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál versión conviene más para informar con claridad y por qué?",
+      "context": "Para la emisora del colegio, un estudiante debe elegir entre dos versiones de un gol: versión A: \"Gol de James Rodríguez tras un pase de Falcao, el balón entró por el ángulo derecho al minuto 67\"; versión B: \"El mejor gol de la historia del fútbol colombiano, una joya imposible de describir\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La versión A, porque describe el gol con datos precisos y verificables sin exagerar.",
+          "is_correct": true,
+          "feedback": "Para informar con claridad se prefieren datos objetivos antes que exageraciones."
+        },
+        {
+          "letter": "B",
+          "text": "La versión B, porque usa palabras bonitas que emocionan al público.",
+          "is_correct": false,
+          "feedback": "La emoción no garantiza información clara y precisa."
+        },
+        {
+          "letter": "C",
+          "text": "Cualquiera, porque las dos dicen lo mismo sobre el gol.",
+          "is_correct": false,
+          "feedback": "La versión A informa con datos; la B solo valora, no son equivalentes."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna, porque un gol no se puede informar por escrito.",
+          "is_correct": false,
+          "feedback": "Los hechos deportivos sí pueden informarse por escrito con precisión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la pertinencia de una versión según el propósito comunicativo: informar con precisión exige hechos verificables antes que exageraciones valorativas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LC-5-2026-W18-cronica-futbol-colombiano-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

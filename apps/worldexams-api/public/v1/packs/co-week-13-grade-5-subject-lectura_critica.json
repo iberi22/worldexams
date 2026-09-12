@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-13-grade-5-subject-lectura_critica",
+    "generated_at": "2026-09-12T15:41:45.204Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-5-2026-W13-entrevista-periodistica-001-MASTERY-bundle-v1",
+      "statement": "¿Quién es la persona entrevistada en el texto?",
+      "context": "Un estudiante de un colegio de Bello lee en el periódico escolar una entrevista titulada \"Catalina Ríos: el deporte y el estudio pueden ir juntos\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Catalina Ríos, una patinadora colombiana.",
+          "is_correct": true,
+          "feedback": "El titular y las respuestas identifican a Catalina Ríos como la entrevistada."
+        },
+        {
+          "letter": "B",
+          "text": "Un periodista que escribe sobre fútbol.",
+          "is_correct": false,
+          "feedback": "El periodista formula las preguntas, pero no es quien responde la entrevista."
+        },
+        {
+          "letter": "C",
+          "text": "La mamá de una estudiante de Bello.",
+          "is_correct": false,
+          "feedback": "La mamá aparece mencionada en un recuerdo, pero no es la entrevistada."
+        },
+        {
+          "letter": "D",
+          "text": "Un profesor de educación física de Cali.",
+          "is_correct": false,
+          "feedback": "Ninguna parte del texto presenta a un profesor como entrevistado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificación de la fuente principal de una entrevista a partir del titular y del contenido de las respuestas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-5-2026-W13-entrevista-periodistica-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W13-entrevista-periodistica-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el propósito principal de la entrevista?",
+      "context": "El periodista introduce la entrevista así: \"Catalina Ríos, de veinte años, ha ganado tres medallas en campeonatos nacionales y entrena seis días a la semana\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dar a conocer la experiencia y los consejos de una deportista colombiana.",
+          "is_correct": true,
+          "feedback": "La entrevista busca compartir la trayectoria y las recomendaciones de la deportista."
+        },
+        {
+          "letter": "B",
+          "text": "Vender implementos de patinaje a los lectores.",
+          "is_correct": false,
+          "feedback": "El texto informa, no promociona productos comerciales."
+        },
+        {
+          "letter": "C",
+          "text": "Enseñar a patinar con instrucciones numeradas paso a paso.",
+          "is_correct": false,
+          "feedback": "Una entrevista no es un manual de instrucciones."
+        },
+        {
+          "letter": "D",
+          "text": "Narrar un cuento de ficción sobre un parque.",
+          "is_correct": false,
+          "feedback": "La entrevista presenta hechos reales, no una historia inventada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprensión del propósito comunicativo de la entrevista como texto informativo que difunde testimonios reales.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-5-2026-W13-entrevista-periodistica-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W13-entrevista-periodistica-001-MASTERY-bundle-v3",
+      "statement": "¿Cómo se organiza la información en esta entrevista?",
+      "context": "El texto alterna intervenciones del periodista y de Catalina: el periodista pregunta y ella responde sobre su vida y su deporte.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con preguntas del periodista y respuestas de la entrevistada.",
+          "is_correct": true,
+          "feedback": "La estructura básica de la entrevista es el diálogo de pregunta y respuesta."
+        },
+        {
+          "letter": "B",
+          "text": "Solo con descripciones del periodista, sin ninguna intervención de Catalina.",
+          "is_correct": false,
+          "feedback": "El texto incluye las respuestas directas de la entrevistada."
+        },
+        {
+          "letter": "C",
+          "text": "Con instrucciones numeradas para practicar patinaje.",
+          "is_correct": false,
+          "feedback": "No hay pasos ni indicaciones técnicas en el texto."
+        },
+        {
+          "letter": "D",
+          "text": "Con una lista de precios de patines y uniformes.",
+          "is_correct": false,
+          "feedback": "La entrevista no presenta precios ni catálogos de productos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocimiento de la estructura dialógica de pregunta y respuesta propia del género entrevista.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-5-2026-W13-entrevista-periodistica-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W13-entrevista-periodistica-001-MASTERY-bundle-v4",
+      "statement": "Según el testimonio, ¿dónde comenzó Catalina a practicar patinaje?",
+      "context": "Lee esta respuesta de Catalina: \"Comencé a los siete años en el parque de mi barrio, en Bello. Mi mamá me llevaba cada tarde después del colegio\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el parque de su barrio, en Bello.",
+          "is_correct": true,
+          "feedback": "La respuesta indica claramente el parque del barrio donde inició."
+        },
+        {
+          "letter": "B",
+          "text": "En una escuela de patinaje de Bogotá.",
+          "is_correct": false,
+          "feedback": "El texto menciona Bello, no Bogotá."
+        },
+        {
+          "letter": "C",
+          "text": "En el coliseo de una ciudad de otro país.",
+          "is_correct": false,
+          "feedback": "La deportista señala un lugar de su propio barrio en Colombia."
+        },
+        {
+          "letter": "D",
+          "text": "En la cancha de fútbol de su colegio.",
+          "is_correct": false,
+          "feedback": "Se habla de un parque y de patinaje, no de una cancha de fútbol."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Localización de información explícita en el testimonio para responder preguntas de comprensión literal.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-5-2026-W13-entrevista-periodistica-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W13-entrevista-periodistica-001-MASTERY-bundle-v5",
+      "statement": "¿Qué consejo da Catalina a los niños que quieren ser deportistas?",
+      "context": "Lee el consejo de Catalina: \"Que sean constantes y no dejen de estudiar. El deporte y el estudio pueden ir juntos\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que sean constantes y no abandonen sus estudios.",
+          "is_correct": true,
+          "feedback": "La deportista recomienda combinar la constancia deportiva con el estudio."
+        },
+        {
+          "letter": "B",
+          "text": "Que dejen el colegio para entrenar todo el día.",
+          "is_correct": false,
+          "feedback": "Ella afirma lo contrario: el deporte y el estudio pueden ir juntos."
+        },
+        {
+          "letter": "C",
+          "text": "Que solo practiquen un deporte si ganan dinero.",
+          "is_correct": false,
+          "feedback": "El consejo no menciona el dinero como condición para practicar deporte."
+        },
+        {
+          "letter": "D",
+          "text": "Que esperen a ser adultos para empezar.",
+          "is_correct": false,
+          "feedback": "Catalina comenzó a los siete años, así que no sugiere esperar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Interpretación del consejo de la entrevistada y su relación con la responsabilidad académica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LC-5-2026-W13-entrevista-periodistica-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W13-entrevista-periodistica-001-MASTERY-bundle-v6",
+      "statement": "¿Qué se puede concluir sobre la actitud de Catalina frente a las dificultades?",
+      "context": "Catalina afirma: \"Hubo días en que quería rendirme, pero mi familia me animó a seguir\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que reconoce sus momentos difíciles y valora el apoyo familiar para continuar.",
+          "is_correct": true,
+          "feedback": "La respuesta muestra honestidad sobre las dificultades y gratitud hacia su familia."
+        },
+        {
+          "letter": "B",
+          "text": "Que nunca sintió ninguna dificultad en su carrera.",
+          "is_correct": false,
+          "feedback": "Ella misma admite que hubo días en que quiso rendirse."
+        },
+        {
+          "letter": "C",
+          "text": "Que culpa a su familia por no dejarla abandonar.",
+          "is_correct": false,
+          "feedback": "El tono es de agradecimiento, no de reproche hacia su familia."
+        },
+        {
+          "letter": "D",
+          "text": "Que abandonó el patinaje cuando era niña.",
+          "is_correct": false,
+          "feedback": "El relato indica que continuó gracias al apoyo recibido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Análisis del tono y la actitud de la entrevistada a partir de sus propias declaraciones.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.61,
+      "bundle_id": "CO-LC-5-2026-W13-entrevista-periodistica-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W13-entrevista-periodistica-001-MASTERY-bundle-v7",
+      "statement": "¿Qué aporta esta información al lector de la entrevista?",
+      "context": "El periodista escribe en la introducción: \"Catalina Ríos, de veinte años, ha ganado tres medallas en campeonatos nacionales y entrena seis días a la semana\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Datos verificables sobre la trayectoria y la disciplina de la deportista.",
+          "is_correct": true,
+          "feedback": "La edad, las medallas y los entrenamientos respaldan la credibilidad del testimonio."
+        },
+        {
+          "letter": "B",
+          "text": "La opinión personal del periodista sobre el clima de la ciudad.",
+          "is_correct": false,
+          "feedback": "La introducción presenta datos de la deportista, no comentarios sobre el clima."
+        },
+        {
+          "letter": "C",
+          "text": "Una receta para preparar bebidas energéticas.",
+          "is_correct": false,
+          "feedback": "El texto no contiene indicaciones de cocina."
+        },
+        {
+          "letter": "D",
+          "text": "La lista de los patines que usa en cada competencia.",
+          "is_correct": false,
+          "feedback": "No se enumeran equipos ni marcas de patines."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Análisis de la función de los datos de contexto que el periodista incluye antes de las preguntas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.57,
+      "bundle_id": "CO-LC-5-2026-W13-entrevista-periodistica-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W13-entrevista-periodistica-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de las siguientes afirmaciones evalúa mejor el mensaje de la entrevista?",
+      "context": "Al final de la entrevista, Catalina dice: \"El deporte y el estudio pueden ir juntos\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una invitación a combinar la disciplina deportiva con la responsabilidad académica.",
+          "is_correct": true,
+          "feedback": "El mensaje central propone que ambas actividades se complementan en la vida de los niños."
+        },
+        {
+          "letter": "B",
+          "text": "Es una orden de abandonar el colegio para entrenar sin descanso.",
+          "is_correct": false,
+          "feedback": "La deportista sostiene lo contrario: el estudio no debe dejarse de lado."
+        },
+        {
+          "letter": "C",
+          "text": "Es una crítica contra quienes practican algún deporte.",
+          "is_correct": false,
+          "feedback": "El mensaje valora el deporte, no lo critica."
+        },
+        {
+          "letter": "D",
+          "text": "Es una promesa de que todos ganarán medallas si entrenan.",
+          "is_correct": false,
+          "feedback": "Ella comparte su experiencia, sin garantizar resultados para todos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluación del mensaje global de la entrevista y de su valor formativo para los lectores infantiles.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LC-5-2026-W13-entrevista-periodistica-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

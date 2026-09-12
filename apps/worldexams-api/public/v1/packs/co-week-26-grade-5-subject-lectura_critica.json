@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-26-grade-5-subject-lectura_critica",
+    "generated_at": "2026-09-12T15:41:45.209Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-5-2026-W26-periodico-escolar-secciones-noticia-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es un periódico escolar?",
+      "context": "Un colegio de Ibagué decide publicar su propio periódico escolar en cartelera y en formato digital para la comunidad educativa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un medio de comunicación elaborado por estudiantes y docentes para informar a la comunidad educativa.",
+          "is_correct": true,
+          "feedback": "El periódico escolar comunica noticias, opiniones y creaciones del colegio."
+        },
+        {
+          "letter": "B",
+          "text": "Un libro de cuentos escritos únicamente por el rector del colegio.",
+          "is_correct": false,
+          "feedback": "El periódico escolar no es un libro, ni se hace solo por el rector."
+        },
+        {
+          "letter": "C",
+          "text": "Un manual con las normas de convivencia del colegio.",
+          "is_correct": false,
+          "feedback": "El manual de convivencia es un documento normativo, no un periódico."
+        },
+        {
+          "letter": "D",
+          "text": "Una agenda donde se registran las tareas de los estudiantes.",
+          "is_correct": false,
+          "feedback": "La agenda escolar registra tareas y horarios, no noticias."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Recordar que el periódico escolar es un medio informativo producido por la comunidad educativa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-5-2026-W26-periodico-escolar-secciones-noticia-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W26-periodico-escolar-secciones-noticia-001-MASTERY-bundle-v2",
+      "statement": "¿Qué tipo de información suele publicarse en la sección \"Actualidad\"?",
+      "context": "En el periódico escolar \"La Voz del Colegio\" de Pereira, aparecen las secciones: Actualidad, Cultura, Deportes, Opinión y Curiosidades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Noticias recientes sobre hechos sucedidos en el colegio o en el municipio.",
+          "is_correct": true,
+          "feedback": "La sección de actualidad recoge hechos recientes y de interés para la comunidad."
+        },
+        {
+          "letter": "B",
+          "text": "Recetas de cocina típicas de la región.",
+          "is_correct": false,
+          "feedback": "Las recetas suelen aparecer en secciones de cultura o vida práctica."
+        },
+        {
+          "letter": "C",
+          "text": "Resultados de videojuegos populares entre los estudiantes.",
+          "is_correct": false,
+          "feedback": "Los resultados de videojuegos no son contenido periodístico escolar habitual."
+        },
+        {
+          "letter": "D",
+          "text": "Canciones de moda escuchadas por los jóvenes del colegio.",
+          "is_correct": false,
+          "feedback": "La música se aborda en secciones de cultura, no en la de actualidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender que la sección de actualidad agrupa noticias recientes de interés para la comunidad educativa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-5-2026-W26-periodico-escolar-secciones-noticia-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W26-periodico-escolar-secciones-noticia-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la estructura básica que debe tener la noticia?",
+      "context": "Los estudiantes de quinto grado deben escribir una noticia sobre la jornada cultural realizada en el colegio de Bucaramanga.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Titular atractivo, lead que responda qué ocurrió, cuerpo con detalles y, si es posible, un cierre.",
+          "is_correct": true,
+          "feedback": "La estructura clásica de la noticia incluye titular, lead y cuerpo."
+        },
+        {
+          "letter": "B",
+          "text": "Un listado de los nombres de todos los estudiantes sin ninguna explicación.",
+          "is_correct": false,
+          "feedback": "Una lista de nombres no es una noticia, pues carece de información noticiosa."
+        },
+        {
+          "letter": "C",
+          "text": "Una serie de emojis sin texto para hacerla más visual.",
+          "is_correct": false,
+          "feedback": "La noticia requiere información escrita, no solo emojis."
+        },
+        {
+          "letter": "D",
+          "text": "Una opinión personal del autor sobre si la jornada fue divertida.",
+          "is_correct": false,
+          "feedback": "Las opiniones se publican en secciones de opinión, no en la noticia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la estructura básica de la noticia al escribir un texto informativo sobre un evento escolar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-5-2026-W26-periodico-escolar-secciones-noticia-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W26-periodico-escolar-secciones-noticia-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el lead más adecuado para esta noticia?",
+      "context": "En el periódico escolar de un colegio de Sincelejo aparece: \"Estudiantes de quinto ganaron el concurso de robótica departamental con un prototipo que recicla botellas.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Estudiantes de quinto grado del colegio X ganaron el concurso departamental de robótica con un prototipo que reutiliza botellas de plástico.\"",
+          "is_correct": true,
+          "feedback": "El lead resume los datos clave: quiénes, qué y cómo."
+        },
+        {
+          "letter": "B",
+          "text": "\"Algunas personas creen que los concursos de robótica son entretenidos.\"",
+          "is_correct": false,
+          "feedback": "El lead debe informar, no solo expresar una opinión vaga."
+        },
+        {
+          "letter": "C",
+          "text": "\"El concurso se realizará el próximo año en otra ciudad.\"",
+          "is_correct": false,
+          "feedback": "El texto original indica que el concurso ya se ganó, no que se realizará."
+        },
+        {
+          "letter": "D",
+          "text": "\"Los robots son máquinas complejas muy difíciles de fabricar.\"",
+          "is_correct": false,
+          "feedback": "El lead no debe aportar información general desligada del hecho principal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar las características del lead para resumir la información esencial de una noticia escolar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LC-5-2026-W26-periodico-escolar-secciones-noticia-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W26-periodico-escolar-secciones-noticia-001-MASTERY-bundle-v5",
+      "statement": "¿En qué sección del periódico debería publicarse esa columna?",
+      "context": "El equipo editor del periódico \"El Clarín Estudiantil\" de Riohacha debe decidir dónde ubicar una columna escrita por un estudiante sobre la importancia del descanso en clase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la sección de Opinión, porque expresa el punto de vista del autor.",
+          "is_correct": true,
+          "feedback": "La columna de un autor sobre un tema se ubica en la sección de opinión."
+        },
+        {
+          "letter": "B",
+          "text": "En la sección de Actualidad, porque narra un hecho reciente.",
+          "is_correct": false,
+          "feedback": "No se trata de un hecho noticioso, sino de una reflexión personal."
+        },
+        {
+          "letter": "C",
+          "text": "En la sección de Cultura, porque trata sobre descanso y salud.",
+          "is_correct": false,
+          "feedback": "El contenido es una opinión personal, no un artículo cultural."
+        },
+        {
+          "letter": "D",
+          "text": "En la sección de Deportes, porque habla sobre la actividad física.",
+          "is_correct": false,
+          "feedback": "El descanso no se centra en deportes, sino en una postura del autor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la función de cada sección del periódico para clasificar correctamente los textos que se publican.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-5-2026-W26-periodico-escolar-secciones-noticia-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W26-periodico-escolar-secciones-noticia-001-MASTERY-bundle-v6",
+      "statement": "¿Qué diferencia esencial existe entre los dos fragmentos?",
+      "context": "Compara dos fragmentos: \"Noticia: El colegio ganó el premio ambiental gracias al proyecto de huerta escolar.\" \"Opinión: Considero que el colegio merecía ese premio porque los estudiantes se esforzaron mucho.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La noticia informa un hecho verificable, mientras que la opinión expresa un juicio personal del autor.",
+          "is_correct": true,
+          "feedback": "La noticia se basa en hechos; la opinión refleja la valoración del autor."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos fragmentos son idénticos en su intención, porque ambos hablan del premio.",
+          "is_correct": false,
+          "feedback": "Aunque comparten tema, su intención comunicativa es diferente."
+        },
+        {
+          "letter": "C",
+          "text": "La opinión es más objetiva que la noticia.",
+          "is_correct": false,
+          "feedback": "La noticia suele ser más objetiva; la opinión es subjetiva por naturaleza."
+        },
+        {
+          "letter": "D",
+          "text": "La noticia no se publica en periódicos escolares, solo la opinión.",
+          "is_correct": false,
+          "feedback": "Tanto las noticias como las opiniones se publican en periódicos escolares."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la diferencia entre informar un hecho y expresar una opinión personal dentro del periódico escolar.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-5-2026-W26-periodico-escolar-secciones-noticia-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W26-periodico-escolar-secciones-noticia-001-MASTERY-bundle-v7",
+      "statement": "¿Qué función cumple principalmente el titular en la noticia?",
+      "context": "En el periódico escolar de Armenia, un titular dice: \"Celebración del Día del Idioma reúne a toda la comunidad educativa\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Llamar la atención del lector y anticipar de forma breve el contenido principal de la noticia.",
+          "is_correct": true,
+          "feedback": "El titular destaca el hecho clave y motiva la lectura del cuerpo."
+        },
+        {
+          "letter": "B",
+          "text": "Sustituir por completo al cuerpo de la noticia.",
+          "is_correct": false,
+          "feedback": "El titular resume, pero no reemplaza la información detallada."
+        },
+        {
+          "letter": "C",
+          "text": "Incluir toda la información complementaria y los testimonios.",
+          "is_correct": false,
+          "feedback": "Los testimonios y los detalles van en el cuerpo, no en el titular."
+        },
+        {
+          "letter": "D",
+          "text": "Explicar únicamente la biografía del director del colegio.",
+          "is_correct": false,
+          "feedback": "El titular se enfoca en el hecho noticioso, no en biografías."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la función del titular como elemento clave para atraer lectores y sintetizar la información.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-5-2026-W26-periodico-escolar-secciones-noticia-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W26-periodico-escolar-secciones-noticia-001-MASTERY-bundle-v8",
+      "statement": "¿Qué criterios periodísticos no se están cumpliendo en esa nota y por qué es importante respetarlos?",
+      "context": "El periódico escolar de un colegio de Villavicencio publica una nota titulada \"Estudiantes mejoran resultados en pruebas Saber\" sin fuentes ni datos concretos, solo con generalidades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Faltan fuentes verificables, datos precisos y contexto, lo que hace que la noticia sea poco confiable para los lectores.",
+          "is_correct": true,
+          "feedback": "Una noticia escolar debe ser veraz, clara y sustentada para informar correctamente."
+        },
+        {
+          "letter": "B",
+          "text": "No se cumplen criterios, pero no importa, porque es solo un periódico escolar.",
+          "is_correct": false,
+          "feedback": "Aunque sea escolar, el periódico debe mantener criterios básicos de calidad periodística."
+        },
+        {
+          "letter": "C",
+          "text": "El titular es demasiado largo y eso hace que el periódico sea aburrido.",
+          "is_correct": false,
+          "feedback": "El problema central no es la extensión del titular, sino la falta de fuentes y datos."
+        },
+        {
+          "letter": "D",
+          "text": "Las notas escolares nunca deben llevar datos concretos, solo opiniones.",
+          "is_correct": false,
+          "feedback": "Las notas informativas sí deben incluir datos concretos y verificables."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la calidad periodística de una noticia escolar y reconocer la importancia de la veracidad y las fuentes.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-5-2026-W26-periodico-escolar-secciones-noticia-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

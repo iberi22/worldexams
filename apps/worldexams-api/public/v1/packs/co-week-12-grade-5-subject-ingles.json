@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-12-grade-5-subject-ingles",
+    "generated_at": "2026-09-12T15:41:45.195Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-5-2026-W12-school-subjects-schedules-001-MASTERY-bundle-v1",
+      "statement": "Which word in English names the subject where students work with numbers and solve problems?",
+      "context": "In a classroom in Pereira, the teacher writes the names of the subjects on the board.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Math.",
+          "is_correct": true,
+          "feedback": "Math is the subject where students work with numbers and solve problems."
+        },
+        {
+          "letter": "B",
+          "text": "Art.",
+          "is_correct": false,
+          "feedback": "Art is the subject where students draw, paint, and use colors."
+        },
+        {
+          "letter": "C",
+          "text": "Science.",
+          "is_correct": false,
+          "feedback": "Science is the subject where students learn about nature and experiments."
+        },
+        {
+          "letter": "D",
+          "text": "Music.",
+          "is_correct": false,
+          "feedback": "Music is the subject where students sing and play instruments."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identifying basic school subjects by their main content in English (math, art, science, music). / Identificar asignaturas basicas segun su contenido en ingles.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-5-2026-W12-school-subjects-schedules-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W12-school-subjects-schedules-001-MASTERY-bundle-v2",
+      "statement": "Why does Sofia like science class?",
+      "context": "Read: \"On Monday, Sofia has science class. She likes it because she learns about plants and animals.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Because she learns about plants and animals.",
+          "is_correct": true,
+          "feedback": "The text directly says she learns about plants and animals in science."
+        },
+        {
+          "letter": "B",
+          "text": "Because she draws pictures with colors.",
+          "is_correct": false,
+          "feedback": "Drawing pictures is part of art class, not science."
+        },
+        {
+          "letter": "C",
+          "text": "Because she plays soccer with her friends.",
+          "is_correct": false,
+          "feedback": "Playing soccer is part of physical education, not science."
+        },
+        {
+          "letter": "D",
+          "text": "Because she sings songs in English.",
+          "is_correct": false,
+          "feedback": "Singing songs is part of music class, not science."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Understanding the reason a student likes a subject from a short text in English. / Comprender la razon por la que un estudiante prefiere una asignatura.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-5-2026-W12-school-subjects-schedules-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W12-school-subjects-schedules-001-MASTERY-bundle-v3",
+      "statement": "Which sentence correctly uses a preposition of time with days of the week?",
+      "context": "A student talks about her week: \"I have art class on Tuesday and Friday.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "We have math class on Wednesday.",
+          "is_correct": true,
+          "feedback": "The preposition \"on\" is used before days of the week in English."
+        },
+        {
+          "letter": "B",
+          "text": "We have math class in Wednesday.",
+          "is_correct": false,
+          "feedback": "\"In\" is used with months and years, not with days of the week."
+        },
+        {
+          "letter": "C",
+          "text": "We have math class at Wednesday.",
+          "is_correct": false,
+          "feedback": "\"At\" is used with clock times, not with days of the week."
+        },
+        {
+          "letter": "D",
+          "text": "We have math class to Wednesday.",
+          "is_correct": false,
+          "feedback": "\"To\" is not a preposition of time for days of the week."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Using the correct preposition of time with days of the week in English. / Usar la preposicion de tiempo correcta con los dias de la semana.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.76,
+      "bundle_id": "CO-ING-5-2026-W12-school-subjects-schedules-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W12-school-subjects-schedules-001-MASTERY-bundle-v4",
+      "statement": "Which question correctly matches this answer about school subjects?",
+      "context": "A teacher asks: \"What is your favorite subject?\" A student answers: \"My favorite subject is science.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "What is your favorite subject?",
+          "is_correct": true,
+          "feedback": "The answer names a favorite subject, so this question fits perfectly."
+        },
+        {
+          "letter": "B",
+          "text": "What time do you have lunch?",
+          "is_correct": false,
+          "feedback": "The answer does not talk about lunch or any time of day."
+        },
+        {
+          "letter": "C",
+          "text": "How many brothers do you have?",
+          "is_correct": false,
+          "feedback": "The answer does not talk about family members."
+        },
+        {
+          "letter": "D",
+          "text": "Where do you live?",
+          "is_correct": false,
+          "feedback": "The answer does not mention a home or an address."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Matching questions with answers about school subjects in English. / Relacionar preguntas con respuestas sobre asignaturas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-5-2026-W12-school-subjects-schedules-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W12-school-subjects-schedules-001-MASTERY-bundle-v5",
+      "statement": "Which sentence correctly describes the schedule?",
+      "context": "A student in Villavicencio reads her schedule: \"Monday: math at 7:00. Tuesday: science at 8:00. Wednesday: art at 9:00.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She has science class on Tuesday at 8:00.",
+          "is_correct": true,
+          "feedback": "The schedule shows science on Tuesday at 8:00."
+        },
+        {
+          "letter": "B",
+          "text": "She has art class on Monday at 7:00.",
+          "is_correct": false,
+          "feedback": "The schedule shows math on Monday at 7:00, not art."
+        },
+        {
+          "letter": "C",
+          "text": "She has math class on Wednesday at 9:00.",
+          "is_correct": false,
+          "feedback": "The schedule shows art on Wednesday at 9:00, not math."
+        },
+        {
+          "letter": "D",
+          "text": "She has science class on Friday at 10:00.",
+          "is_correct": false,
+          "feedback": "Friday is not in the schedule, and science is on Tuesday."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reading a simple class schedule and using days and times correctly in English. / Leer un horario simple y usar dias y horas correctamente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.66,
+      "bundle_id": "CO-ING-5-2026-W12-school-subjects-schedules-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W12-school-subjects-schedules-001-MASTERY-bundle-v6",
+      "statement": "On which day does Andres have both math and science class?",
+      "context": "Read: \"Andres has math class every day. He has science class only on Monday, Wednesday, and Friday. He has art class only on Tuesday.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "On Monday.",
+          "is_correct": true,
+          "feedback": "Math is every day, and science is on Monday, so both happen on Monday."
+        },
+        {
+          "letter": "B",
+          "text": "On Tuesday.",
+          "is_correct": false,
+          "feedback": "Science is not on Tuesday; Andres has art class that day."
+        },
+        {
+          "letter": "C",
+          "text": "On Thursday.",
+          "is_correct": false,
+          "feedback": "Science is not on Thursday, so he only has math that day."
+        },
+        {
+          "letter": "D",
+          "text": "On Sunday.",
+          "is_correct": false,
+          "feedback": "There is no class on Sunday, so no subject is scheduled."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analyzing schedule information to find when two subjects happen on the same day. / Analizar un horario para hallar cuando dos asignaturas coinciden el mismo dia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.58,
+      "bundle_id": "CO-ING-5-2026-W12-school-subjects-schedules-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W12-school-subjects-schedules-001-MASTERY-bundle-v7",
+      "statement": "Which comparison correctly explains why Valentina practices more English than Mateo?",
+      "context": "Compare two students: \"Valentina has five English classes every week, but Mateo has only two. Valentina also practices English at home.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Valentina has more English classes and practices at home.",
+          "is_correct": true,
+          "feedback": "Her extra classes and home practice explain her greater practice."
+        },
+        {
+          "letter": "B",
+          "text": "Mateo has five English classes and practices at home.",
+          "is_correct": false,
+          "feedback": "The text says Mateo has only two classes, not five."
+        },
+        {
+          "letter": "C",
+          "text": "Valentina has fewer English classes than Mateo.",
+          "is_correct": false,
+          "feedback": "The text says Valentina has more classes than Mateo."
+        },
+        {
+          "letter": "D",
+          "text": "Neither Valentina nor Mateo studies English.",
+          "is_correct": false,
+          "feedback": "Both students have English classes, according to the text."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparing school schedules in English to explain differences in practice. / Comparar horarios en ingles para explicar diferencias de practica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.52,
+      "bundle_id": "CO-ING-5-2026-W12-school-subjects-schedules-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W12-school-subjects-schedules-001-MASTERY-bundle-v8",
+      "statement": "What is the most important message of this paragraph?",
+      "context": "Read: 'A good school schedule has subjects like math, science, art, and English on different days. It also gives students time to rest and play, so they can learn better every week.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A good schedule combines different subjects with time to rest and play.",
+          "is_correct": true,
+          "feedback": "The text links varied subjects and rest time with learning better."
+        },
+        {
+          "letter": "B",
+          "text": "Students should study only one subject all week.",
+          "is_correct": false,
+          "feedback": "The text says a good schedule has different subjects, not only one."
+        },
+        {
+          "letter": "C",
+          "text": "Rest and play are not useful for learning.",
+          "is_correct": false,
+          "feedback": "The text says rest and play help students learn better."
+        },
+        {
+          "letter": "D",
+          "text": "School schedules should not include English classes.",
+          "is_correct": false,
+          "feedback": "The text includes English among the subjects in a good schedule."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluating the main message of a short expository paragraph about school schedules. / Evaluar el mensaje principal de un parrafo sobre horarios escolares.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.31,
+      "bundle_id": "CO-ING-5-2026-W12-school-subjects-schedules-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

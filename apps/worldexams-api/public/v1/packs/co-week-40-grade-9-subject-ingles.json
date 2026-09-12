@@ -1,0 +1,1115 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-40-grade-9-subject-ingles",
+    "generated_at": "2026-09-12T15:41:45.199Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle-v1",
+      "statement": "After exams, Sara feels tired and overwhelmed. She needs to express a strong emotion. Which word best fits?",
+      "context": "Sara, estudiante de noveno en Medellín, se siente agotada tras la semana de exámenes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "hungry",
+          "is_correct": false,
+          "feedback": "Incorrect. Hungry relates to food, not emotions."
+        },
+        {
+          "letter": "B",
+          "text": "overwhelmed",
+          "is_correct": true,
+          "feedback": "Correct! \"Overwhelmed\" describes feeling emotionally overloaded."
+        },
+        {
+          "letter": "C",
+          "text": "bored",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Bored\" means lack of interest."
+        },
+        {
+          "letter": "D",
+          "text": "jealous",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Jealous\" is about envy."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Overwhelmed\" describe sentirse emocionalmente sobrepasado, un vocablo útil para hablar de salud mental en inglés B2.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle-v2",
+      "statement": "Which vocabulary word is related to sleeping well?",
+      "context": "En Bogotá, una campaña escolar habla de hábitos para dormir mejor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "budget",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Budget\" refers to money."
+        },
+        {
+          "letter": "B",
+          "text": "protein",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Protein\" is a nutrient."
+        },
+        {
+          "letter": "C",
+          "text": "sleep routine",
+          "is_correct": true,
+          "feedback": "Correct! A \"sleep routine\" helps rest quality."
+        },
+        {
+          "letter": "D",
+          "text": "deadline",
+          "is_correct": false,
+          "feedback": "Incorrect. A \"deadline\" is a date limit."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Sleep routine\" es vocabulario esencial para hablar de hábitos saludables en inglés.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle-v3",
+      "statement": "What is the function of \"should\" in the advice \"You should talk to someone you trust\"?",
+      "context": "Andrés, en Cali, escucha a su amiga decir: \"You should talk to someone you trust.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Expressing past ability",
+          "is_correct": false,
+          "feedback": "Incorrect. Past ability uses \"could\"."
+        },
+        {
+          "letter": "B",
+          "text": "Giving advice or a recommendation",
+          "is_correct": true,
+          "feedback": "Correct! \"Should\" gives advice."
+        },
+        {
+          "letter": "C",
+          "text": "Talking about a future plan",
+          "is_correct": false,
+          "feedback": "Incorrect. Future plans use \"will\" or \"be going to\"."
+        },
+        {
+          "letter": "D",
+          "text": "Expressing prohibition",
+          "is_correct": false,
+          "feedback": "Incorrect. Prohibition uses \"mustn't\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Should\" se utiliza para dar consejos o recomendaciones, especialmente en temas de bienestar.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle-v4",
+      "statement": "A friend says: \"I feel anxious before tests. What should I do?\" The most supportive response is:",
+      "context": "En una clase en Barranquilla, los estudiantes hablan de cómo enfrentar la presión académica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"You should stop studying completely.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. This is too extreme and not helpful."
+        },
+        {
+          "letter": "B",
+          "text": "\"You shouldn't tell anyone how you feel.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. Hiding emotions is unhealthy."
+        },
+        {
+          "letter": "C",
+          "text": "\"You should try breathing exercises and talk to a counselor.\"",
+          "is_correct": true,
+          "feedback": "Correct! Combines practical coping and professional support."
+        },
+        {
+          "letter": "D",
+          "text": "\"You should pretend you don't care.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. Dismissing emotions increases stress."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Responder con empatía y sugerencias concretas refleja competencia sociolingüística en salud mental.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle-v5",
+      "statement": "Complete the sentence using \"should\" or \"shouldn't\":\n\"Teens ________ spend more than eight hours on social media every day.\"",
+      "context": "En Pasto, una cartilla escolar promueve autocuidado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "should",
+          "is_correct": false,
+          "feedback": "Incorrect. This would recommend a harmful habit."
+        },
+        {
+          "letter": "B",
+          "text": "shouldn't",
+          "is_correct": true,
+          "feedback": "Correct! \"Shouldn't\" advises against excess."
+        },
+        {
+          "letter": "C",
+          "text": "should have",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Should have\" refers to past actions."
+        },
+        {
+          "letter": "D",
+          "text": "shouldn't have",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Shouldn't have\" refers to past regrets."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Shouldn't\" expresa recomendación en contra de una conducta, ideal para consejos de bienestar digital.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle-v6",
+      "statement": "Choose the best option to complete the mindfulness tip:\n\"To reduce stress, you ________ practice five minutes of mindful breathing daily.\"",
+      "context": "En Manizales, Juan comparte consejos de mindfulness en una presentación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "mustn't",
+          "is_correct": false,
+          "feedback": "Incorrect. This would forbid a healthy habit."
+        },
+        {
+          "letter": "B",
+          "text": "couldn't",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Couldn't\" refers to past inability."
+        },
+        {
+          "letter": "C",
+          "text": "should",
+          "is_correct": true,
+          "feedback": "Correct! Recommends a positive daily habit."
+        },
+        {
+          "letter": "D",
+          "text": "might",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Might\" suggests weak possibility, not advice."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Should\" recomienda hábitos de mindfulness adecuados para reducir estrés cotidiano.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle-v7",
+      "statement": "Which sentence expresses the **strongest** recommendation?",
+      "context": "En un foro en Tunja, se comparan consejos de autocuidado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You must see a therapist if you feel depressed.",
+          "is_correct": true,
+          "feedback": "Correct! \"Must\" gives the strongest obligation."
+        },
+        {
+          "letter": "B",
+          "text": "You should see a therapist if you feel depressed.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Should\" is advice, weaker than \"must\"."
+        },
+        {
+          "letter": "C",
+          "text": "You might see a therapist if you feel depressed.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Might\" expresses possibility, not recommendation."
+        },
+        {
+          "letter": "D",
+          "text": "You could see a therapist if you feel depressed.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Could\" suggests option, not strong advice."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La escala de recomendación va de could/should a must; reconocerla es clave en B2.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle-v8",
+      "statement": "Identify the tone of this social media post:\n\"Asking for help is a sign of strength, not weakness. You should never feel ashamed.\"",
+      "context": "En Bucaramanga, los estudiantes debaten sobre el estigma en salud mental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sarcastic and dismissive",
+          "is_correct": false,
+          "feedback": "Incorrect. The message is supportive."
+        },
+        {
+          "letter": "B",
+          "text": "Supportive and destigmatizing",
+          "is_correct": true,
+          "feedback": "Correct! The post validates asking for help."
+        },
+        {
+          "letter": "C",
+          "text": "Aggressive and accusatory",
+          "is_correct": false,
+          "feedback": "Incorrect. It is not hostile."
+        },
+        {
+          "letter": "D",
+          "text": "Neutral and detached",
+          "is_correct": false,
+          "feedback": "Incorrect. The tone is clearly empathetic."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocer el tono de mensajes sobre salud mental fortalece la competencia sociolingüística.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle-v9",
+      "statement": "Read the advice: \"If you feel anxious, you shouldn't isolate yourself. You should reach out to a friend.\"\nWhat is the **main pragmatic function**?",
+      "context": "En Armenia, una psicóloga escolar explica estrategias de regulación emocional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To describe a scientific experiment",
+          "is_correct": false,
+          "feedback": "Incorrect. It is not descriptive scientific text."
+        },
+        {
+          "letter": "B",
+          "text": "To narrate a personal story",
+          "is_correct": false,
+          "feedback": "Incorrect. It is not narrative."
+        },
+        {
+          "letter": "C",
+          "text": "To give two pieces of practical advice against isolation",
+          "is_correct": true,
+          "feedback": "Correct! Combines a warning and a recommendation."
+        },
+        {
+          "letter": "D",
+          "text": "To make a hypothesis",
+          "is_correct": false,
+          "feedback": "Incorrect. The advice is concrete."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La función pragmática aquí es la recomendación práctica contra el aislamiento emocional.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle-v10",
+      "statement": "Identify the **grammatical error** in this wellness tip:\n\"You should to take breaks, and you shouldn't working nonstop.\"",
+      "context": "En un examen final en Pereira, se evalúa el uso correcto de \"should\" y \"shouldn't\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"should to take\"",
+          "is_correct": false,
+          "feedback": "Incorrect. The error is in the second clause."
+        },
+        {
+          "letter": "B",
+          "text": "\"shouldn't working\"",
+          "is_correct": true,
+          "feedback": "Correct! After \"should/shouldn't\" use the base verb without \"to\" or \"-ing\"."
+        },
+        {
+          "letter": "C",
+          "text": "\"you should\"",
+          "is_correct": false,
+          "feedback": "Incorrect. This is correct."
+        },
+        {
+          "letter": "D",
+          "text": "\"take breaks\"",
+          "is_correct": false,
+          "feedback": "Incorrect. This phrase is correct."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Tras \"should\" o \"shouldn't\" se usa el verbo en su forma base, sin \"to\" ni \"-ing\".\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle-v11",
+      "statement": "Which response is most appropriate when a classmate says \"I feel really down these days\"?",
+      "context": "En un debate en Bogotá, los estudiantes discuten qué consejo dar a un compañero triste.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"You shouldn't talk about it. Just forget it.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. Dismissing feelings is harmful."
+        },
+        {
+          "letter": "B",
+          "text": "\"You must stop being sad right now.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. You cannot command an emotion to disappear."
+        },
+        {
+          "letter": "C",
+          "text": "\"I'm here for you. You should consider talking to a trusted adult.\"",
+          "is_correct": true,
+          "feedback": "Correct! Combines empathy and a constructive recommendation."
+        },
+        {
+          "letter": "D",
+          "text": "\"Everyone feels sad sometimes, so just ignore it.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. Ignoring persistent sadness is not advisable."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una respuesta empática con recomendación práctica es la más adecuada ante emociones difíciles.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle-v12",
+      "statement": "Evaluate the effectiveness of this school campaign slogan:\n\"Mental health matters. You should start the conversation today!\"",
+      "context": "En Cartagena, los jóvenes crean una campaña digital sobre bienestar emocional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ineffective because it uses slang.",
+          "is_correct": false,
+          "feedback": "Incorrect. The slogan uses standard English."
+        },
+        {
+          "letter": "B",
+          "text": "Effective because it uses clear, encouraging language with a recommendation.",
+          "is_correct": true,
+          "feedback": "Correct! It is clear, supportive, and gives actionable advice."
+        },
+        {
+          "letter": "C",
+          "text": "Ineffective because it is too long.",
+          "is_correct": false,
+          "feedback": "Incorrect. Length is appropriate."
+        },
+        {
+          "letter": "D",
+          "text": "Effective because it threatens the reader.",
+          "is_correct": false,
+          "feedback": "Incorrect. The slogan is positive, not threatening."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un buen mensaje de salud mental combina claridad, empatía y una recomendación accionable.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-review-p8-001-MASTERY-bundle-v1",
+      "statement": "Choose the word that best completes the sentence: \"Globalization has increased the __________ of goods and ideas across borders.\"",
+      "context": "A school newspaper in Bogotá is discussing globalization.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "flow",
+          "is_correct": true,
+          "feedback": "Correct. \"Flow\" means the continuous movement of goods and ideas from one place to another."
+        },
+        {
+          "letter": "B",
+          "text": "barrier",
+          "is_correct": false,
+          "feedback": "Incorrect. A \"barrier\" blocks movement, which is the opposite of what globalization does."
+        },
+        {
+          "letter": "C",
+          "text": "decline",
+          "is_correct": false,
+          "feedback": "Incorrect. A \"decline\" is a decrease, and it does not fit the idea of growing exchange."
+        },
+        {
+          "letter": "D",
+          "text": "isolation",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Isolation\" means separation, which contradicts the meaning of globalization."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Globalization refers to the growing interconnection of countries through trade, communication, and culture. The noun \"flow\" captures the continuous movement of goods and ideas, which is the core idea of the sentence.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-9-2026-W40-review-p8-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-review-p8-001-MASTERY-bundle-v2",
+      "statement": "Read the sentence: \"Many teenagers in Medellín spend more than five hours a day online; this keeps them connected, but it also affects their sleep and concentration.\" What is the main idea?",
+      "context": "A class in Medellín reads a short article about digital life.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Teenagers never use the internet.",
+          "is_correct": false,
+          "feedback": "Incorrect. The sentence clearly states that teenagers spend many hours online."
+        },
+        {
+          "letter": "B",
+          "text": "Online time has both benefits and drawbacks for teenagers.",
+          "is_correct": true,
+          "feedback": "Correct. The sentence presents a benefit (staying connected) and a drawback (poor sleep and concentration)."
+        },
+        {
+          "letter": "C",
+          "text": "Sleep has no relation to screen time.",
+          "is_correct": false,
+          "feedback": "Incorrect. The sentence explicitly links screen time to problems with sleep."
+        },
+        {
+          "letter": "D",
+          "text": "Medellín has no internet access.",
+          "is_correct": false,
+          "feedback": "Incorrect. The sentence talks about teenagers who are online, so internet access clearly exists."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The main idea sums up the central point of a text. Here, the sentence contrasts an advantage and a disadvantage of being online, so the main idea must include both sides. Recognizing this balance is a key reading skill.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W40-review-p8-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-review-p8-001-MASTERY-bundle-v3",
+      "statement": "Complete the sentence with the correct form: \"If I __________ more free time, I would join the environmental club.\"",
+      "context": "An email about a school project in Cartagena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have",
+          "is_correct": false,
+          "feedback": "Incorrect. The simple present would describe a real possibility, but the result \"would join\" signals a second conditional."
+        },
+        {
+          "letter": "B",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "Correct. The second conditional uses the past simple in the if-clause and \"would\" in the main clause."
+        },
+        {
+          "letter": "C",
+          "text": "will have",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Will\" is not used in the if-clause of a second conditional."
+        },
+        {
+          "letter": "D",
+          "text": "would have",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Would\" belongs in the main clause, not in the if-clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The second conditional describes an imaginary or unlikely situation in the present or future. Its structure is: if + past simple, would + base verb. That is why \"had\" is the correct form in the if-clause.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Structural Cloze",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W40-review-p8-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-review-p8-001-MASTERY-bundle-v4",
+      "statement": "Choose the correct option: \"When we arrived at the concert in Bogotá, the band __________ playing.\"",
+      "context": "A student is telling a friend about a concert in Bogotá last weekend.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "has already started",
+          "is_correct": false,
+          "feedback": "Incorrect. The present perfect cannot be used here because the past reference time is explicit."
+        },
+        {
+          "letter": "B",
+          "text": "had already started",
+          "is_correct": true,
+          "feedback": "Correct. The past perfect shows that the band started before we arrived."
+        },
+        {
+          "letter": "C",
+          "text": "was already start",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Was\" must be followed by the -ing form, not the base verb."
+        },
+        {
+          "letter": "D",
+          "text": "already started",
+          "is_correct": false,
+          "feedback": "Incorrect. The simple past does not clearly show which action happened first."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The past perfect (had + past participle) is used to describe the earlier of two past actions. Here, the band started before we arrived, so \"had already started\" makes the sequence of events clear.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.79,
+      "bundle_id": "CO-ING-9-2026-W40-review-p8-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-review-p8-001-MASTERY-bundle-v5",
+      "statement": "Complete the sentence: \"Every year, thousands of tons of coffee __________ from the Andean region of Colombia.\"",
+      "context": "A report about Colombian coffee for a school magazine in Armenia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are exported",
+          "is_correct": true,
+          "feedback": "Correct. The present passive is formed with \"are\" plus the past participle, and the subject \"tons\" is plural."
+        },
+        {
+          "letter": "B",
+          "text": "export",
+          "is_correct": false,
+          "feedback": "Incorrect. The active form would mean the coffee exports something, which makes no sense."
+        },
+        {
+          "letter": "C",
+          "text": "is exporting",
+          "is_correct": false,
+          "feedback": "Incorrect. This active continuous form does not fit the passive meaning and does not agree with the plural subject."
+        },
+        {
+          "letter": "D",
+          "text": "has exported",
+          "is_correct": false,
+          "feedback": "Incorrect. The singular \"has\" does not agree with the plural subject and the form is active."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The passive voice is used when the action is more important than who performs it. The present passive is built with the verb \"to be\" plus a past participle: \"coffee is exported\" or \"tons are exported\", agreeing in number with the subject.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Structural Cloze",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-9-2026-W40-review-p8-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-review-p8-001-MASTERY-bundle-v6",
+      "statement": "Direct speech: \"I will visit Cartagena next week,\" Ana said. Choose the correct reported version.",
+      "context": "A student is reporting a conversation for an English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ana said that she will visit Cartagena next week.",
+          "is_correct": false,
+          "feedback": "Incorrect. In reported speech, \"will\" normally shifts back to \"would\"."
+        },
+        {
+          "letter": "B",
+          "text": "Ana said that she would visit Cartagena the following week.",
+          "is_correct": true,
+          "feedback": "Correct. Both the verb and the time expression shift back correctly."
+        },
+        {
+          "letter": "C",
+          "text": "Ana said that she visits Cartagena the following week.",
+          "is_correct": false,
+          "feedback": "Incorrect. The simple present does not match the original future meaning."
+        },
+        {
+          "letter": "D",
+          "text": "Ana said that she is visiting Cartagena next week.",
+          "is_correct": false,
+          "feedback": "Incorrect. The present continuous does not reflect the original future intention."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In reported speech, verbs usually move one step back in time: \"will\" becomes \"would\", and time expressions change, such as \"next week\" becoming \"the following week\". These shifts keep the original meaning in the new context.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W40-review-p8-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-review-p8-001-MASTERY-bundle-v7",
+      "statement": "Compare: (1) \"The students who passed the exam received a certificate.\" (2) \"The students, who passed the exam, received a certificate.\" What is the difference in meaning?",
+      "context": "A grammar workshop in Cali compares two similar sentences.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "In (1) only some students passed; in (2) the implication is that all the students passed.",
+          "is_correct": true,
+          "feedback": "Correct. The defining clause (1) identifies a subgroup, while the non-defining clause (2) adds extra information about all of them."
+        },
+        {
+          "letter": "B",
+          "text": "Both sentences have exactly the same meaning.",
+          "is_correct": false,
+          "feedback": "Incorrect. Punctuation with commas changes the kind of clause and therefore the meaning."
+        },
+        {
+          "letter": "C",
+          "text": "In (1) no student passed the exam.",
+          "is_correct": false,
+          "feedback": "Incorrect. Sentence (1) states that some students did pass and received a certificate."
+        },
+        {
+          "letter": "D",
+          "text": "In (2) the exam was cancelled.",
+          "is_correct": false,
+          "feedback": "Incorrect. Nothing in the sentence suggests that the exam was cancelled."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Defining relative clauses give essential information and select a specific group. Non-defining relative clauses, set off by commas, add extra information about a group already identified. The commas in sentence (2) change the message significantly.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W40-review-p8-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-review-p8-001-MASTERY-bundle-v8",
+      "statement": "The author writes: \"Of course, spending eight hours a day on social media is a perfectly balanced lifestyle.\" What does the author imply?",
+      "context": "A blog post about digital life in modern cities.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The author sincerely approves of eight hours of social media a day.",
+          "is_correct": false,
+          "feedback": "Incorrect. The phrase \"of course\" is used ironically, so the literal praise is not the real message."
+        },
+        {
+          "letter": "B",
+          "text": "The author is being ironic and actually criticizes excessive screen time.",
+          "is_correct": true,
+          "feedback": "Correct. The exaggerated praise signals the opposite meaning and points to criticism."
+        },
+        {
+          "letter": "C",
+          "text": "The author believes social media does not exist.",
+          "is_correct": false,
+          "feedback": "Incorrect. The sentence clearly refers to social media, so the author does not deny its existence."
+        },
+        {
+          "letter": "D",
+          "text": "The author is describing a scientific experiment.",
+          "is_correct": false,
+          "feedback": "Incorrect. The sentence is an opinion, not the report of an experiment."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Irony says the opposite of what is meant. The phrase \"perfectly balanced\" is exaggerated next to \"eight hours a day\", which signals that the author actually considers that amount excessive. Detecting irony helps readers understand the real attitude of the author.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.69,
+      "bundle_id": "CO-ING-9-2026-W40-review-p8-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-review-p8-001-MASTERY-bundle-v9",
+      "statement": "Read: \"The wetland was restored by local volunteers, and since then more than forty bird species have been recorded there.\" What can be inferred?",
+      "context": "An environmental report about a wetland near Cartagena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The volunteers destroyed the wetland.",
+          "is_correct": false,
+          "feedback": "Incorrect. The wetland was restored, not destroyed."
+        },
+        {
+          "letter": "B",
+          "text": "The restoration had a positive effect on local wildlife.",
+          "is_correct": true,
+          "feedback": "Correct. The return of many bird species after the restoration suggests a positive outcome."
+        },
+        {
+          "letter": "C",
+          "text": "No birds live in the area.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says that more than forty species have been recorded there."
+        },
+        {
+          "letter": "D",
+          "text": "The wetland was restored by the government.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text states that local volunteers carried out the restoration."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "An inference is a conclusion drawn from the evidence in the text. The passive form \"was restored\" tells us who did the action (local volunteers), and the increase in bird species after the restoration allows us to infer a positive environmental effect.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.66,
+      "bundle_id": "CO-ING-9-2026-W40-review-p8-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-review-p8-001-MASTERY-bundle-v10",
+      "statement": "In the phrase \"sustainable development\", the word \"sustainable\" is closest in meaning to:",
+      "context": "A geography lesson about the environment.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Able to continue without damaging resources for the future",
+          "is_correct": true,
+          "feedback": "Correct. \"Sustainable\" means something can be maintained over time without exhausting resources."
+        },
+        {
+          "letter": "B",
+          "text": "Fast and profitable in the short term",
+          "is_correct": false,
+          "feedback": "Incorrect. This describes a short-term gain, the opposite of a sustainable approach."
+        },
+        {
+          "letter": "C",
+          "text": "Impossible to maintain",
+          "is_correct": false,
+          "feedback": "Incorrect. That is the opposite meaning of \"sustainable\"."
+        },
+        {
+          "letter": "D",
+          "text": "Related only to technology",
+          "is_correct": false,
+          "feedback": "Incorrect. Sustainability applies to many fields, not only technology."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The adjective \"sustainable\" comes from the verb \"to sustain\", meaning to keep something going over time. In environmental contexts, sustainable development meets present needs without compromising the resources that future generations will need.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lexico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W40-review-p8-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-review-p8-001-MASTERY-bundle-v11",
+      "statement": "A news report says: \"The mayor claimed that the project had been completed.\" Why might the reporter use \"claimed\" instead of \"said\"?",
+      "context": "A news report in Bogotá about a public project.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To suggest some doubt about the truth of the statement.",
+          "is_correct": true,
+          "feedback": "Correct. \"Claim\" often implies that the information has not been verified or is open to question."
+        },
+        {
+          "letter": "B",
+          "text": "To show complete certainty and agreement.",
+          "is_correct": false,
+          "feedback": "Incorrect. Certainty would be expressed with reporting verbs such as \"confirmed\" or \"stated\"."
+        },
+        {
+          "letter": "C",
+          "text": "Because \"said\" is grammatically incorrect in this sentence.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Said\" would be grammatically correct, but it would not express the same nuance."
+        },
+        {
+          "letter": "D",
+          "text": "To indicate that the mayor never spoke.",
+          "is_correct": false,
+          "feedback": "Incorrect. The verb \"claimed\" shows that the mayor did speak, but with doubt about the content."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reporting verbs carry attitude. \"Said\" is neutral, while \"claimed\" suggests that the reporter does not fully accept the statement as true. In journalism, choosing one reporting verb over another can subtly guide the reader's interpretation.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W40-review-p8-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-review-p8-001-MASTERY-bundle-v12",
+      "statement": "A text argues: \"Globalization only benefits rich countries.\" Which evaluation is most reasonable?",
+      "context": "A debate club in Medellín discusses the effects of globalization.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is entirely true and cannot be questioned.",
+          "is_correct": false,
+          "feedback": "Incorrect. The word \"only\" makes an absolute claim that ignores the variety of real cases."
+        },
+        {
+          "letter": "B",
+          "text": "It is an overgeneralization; globalization brings opportunities and risks that vary from country to country.",
+          "is_correct": true,
+          "feedback": "Correct. This evaluation recognizes the complexity of the issue without denying that problems exist."
+        },
+        {
+          "letter": "C",
+          "text": "It is false because globalization has never had any effect.",
+          "is_correct": false,
+          "feedback": "Incorrect. Globalization clearly has effects, so this statement is inaccurate."
+        },
+        {
+          "letter": "D",
+          "text": "It is irrelevant because international trade does not exist.",
+          "is_correct": false,
+          "feedback": "Incorrect. International trade is a central and real feature of the global economy."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluating an argument means judging how well it is supported and how precise its claims are. Absolute words such as \"only\" often signal an overgeneralization. A more reasonable evaluation recognizes both the opportunities and the risks that globalization creates in different countries.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W40-review-p8-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
