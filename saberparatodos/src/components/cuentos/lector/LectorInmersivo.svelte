@@ -7,7 +7,7 @@
   import CelebracionLogro from './CelebracionLogro.svelte';
   import EscenaInteractiva from './EscenaInteractiva.svelte';
   import QuizCuento from './QuizCuento.svelte';
-  import { speak, stop, isSpeaking } from './read-aloud';
+  import AudioCuento from './AudioCuento.svelte';
   import '../arte/tokens.css';
 
   export interface Props {
@@ -89,37 +89,12 @@
     }
   });
 
+  // La narración vive en AudioCuento (C7.07, dual MP3/Web Speech) remontado
+  // por página vía {#key}: al navegar, onDestroy detiene el audio/voz.
+  // Aquí solo se resetea el estado visual de resaltado.
   function stopNarrating() {
-    stop();
     isNarrating = false;
     highlightCharRange = null;
-  }
-
-  function toggleReadAloud() {
-    if (isNarrating || isSpeaking()) {
-      stopNarrating();
-      return;
-    }
-
-    if (!currentPage || !currentPage.texto) return;
-
-    speak(currentPage.texto, {
-      rate: 0.85,
-      onStart: () => {
-        isNarrating = true;
-      },
-      onEnd: () => {
-        isNarrating = false;
-        highlightCharRange = null;
-      },
-      onError: () => {
-        isNarrating = false;
-        highlightCharRange = null;
-      },
-      onBoundary: (charIndex, charLength) => {
-        highlightCharRange = { start: charIndex, length: charLength };
-      }
-    });
   }
 
   function goToNext() {
@@ -220,16 +195,28 @@
       <h1 class="story-title">{cuento?.titulo || 'Cuento'}</h1>
     </div>
 
-    <!-- Botón de Lectura en Voz Alta (Web Speech API) -->
-    <button
-      type="button"
-      class="read-aloud-btn {isNarrating ? 'narrating' : ''}"
-      onclick={toggleReadAloud}
-      aria-label={isNarrating ? 'Pausar lectura en voz alta' : 'Escuchar lectura en voz alta'}
-    >
-      <span class="btn-icon">{isNarrating ? '🔊' : '🔈'}</span>
-      <span class="btn-label">{isNarrating ? 'Leyendo...' : 'Escuchar'}</span>
-    </button>
+    <!-- Player de narración dual MP3/Web Speech (C7.07 AudioCuento) -->
+    {#key `${cuento?.slug}-p${currentPageIndex}-${showQuiz}`}
+      {#if !showQuiz && currentPage}
+        <AudioCuento
+          slug={cuento.slug}
+          pagina={{
+            n: currentPage.n ?? currentPage.numero ?? currentPageIndex + 1,
+            texto: currentPage.texto || '',
+            audio: currentPage.audio ?? null,
+            timings: currentPage.timings ?? null
+          }}
+          onHighlight={(range) => {
+            highlightCharRange = range;
+            isNarrating = range !== null;
+          }}
+          onEnd={() => {
+            isNarrating = false;
+            highlightCharRange = null;
+          }}
+        />
+      {/if}
+    {/key}
   </header>
 
   <!-- Tarjeta Crema Spread Principal -->
@@ -437,34 +424,6 @@
     font-size: 1.15rem;
     font-weight: 700;
     color: #FFF9DC;
-  }
-
-  .read-aloud-btn {
-    display: flex;
-    align-items: center;
-    gap: 0.4rem;
-    min-height: 48px;
-    padding: 0.5rem 1rem;
-    background-color: #D4A94E;
-    color: #121832;
-    border: 2px solid #FFF9DC;
-    border-radius: 1.5rem;
-    font-weight: 800;
-    font-size: 0.95rem;
-    cursor: pointer;
-    box-shadow: 0 4px 0 #8C6A23;
-    transition: transform 0.15s ease, background-color 0.2s ease;
-  }
-
-  .read-aloud-btn:hover {
-    transform: translateY(-2px);
-    background-color: #e5ba5e;
-  }
-
-  .read-aloud-btn.narrating {
-    background-color: #FF9F43;
-    color: #FFFFFF;
-    box-shadow: 0 4px 0 #3A2E2A;
   }
 
   .spread-card-container {
@@ -725,7 +684,6 @@
 
   @media (prefers-reduced-motion: reduce) {
     .nav-arrow-btn,
-    .read-aloud-btn,
     .dot-item {
       transition: none !important;
       transform: none !important;
