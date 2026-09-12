@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-37-grade-11-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-12T16:46:07.599Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle-v1",
+      "statement": "El Código Deontológico y de Ética del Servidor Público colombiano fue adoptado mediante la",
+      "context": "En la inducción de nuevos empleados de la alcaldía de Funza se explica el marco ético del cargo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ley 100 de 1993",
+          "is_correct": false,
+          "feedback": "La Ley 100 organizó el sistema de seguridad social integral, no la ética pública."
+        },
+        {
+          "letter": "B",
+          "text": "Ley 843 de 1998, que incorporó el Código de Ética del Servidor Público con principios como bien común, integridad y igualdad",
+          "is_correct": true,
+          "feedback": "Correcto. El Anexo General de la Ley 843 de 1998 contiene el Código Deontológico y de Ética del Servidor Público."
+        },
+        {
+          "letter": "C",
+          "text": "Ley 1150 de 2007",
+          "is_correct": false,
+          "feedback": "La Ley 1150 modernizó las reglas de contratación pública."
+        },
+        {
+          "letter": "D",
+          "text": "Decreto 2591 de 1991",
+          "is_correct": false,
+          "feedback": "El Decreto 2591 reglamentó la acción de tutela, no el código de ética."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Código Deontológico y de Ética del Servidor Público (Ley 843 de 1998) consagra principios como la búsqueda del bien común, la integridad, la compromiso con la misión, la imparcialidad y la igualdad. Complementa el mandato constitucional del artículo 209, que somete la función administrativa a los principios de igualdad, moralidad, eficacia, economía, celeridad, imparcialidad y publicidad. La ética pública convierte esos valores en deberes cotidianos de conducta.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle-v2",
+      "statement": "La relación entre servidor público y ciudadanía definida por el Código de Ética del Servidor Público establece que el cargo público es",
+      "context": "Una estudiante de Usaquén, Bogotá, lee que \"el servidor público existe para la comunidad\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una propiedad personal del funcionario que puede disponer de él",
+          "is_correct": false,
+          "feedback": "El cargo no es propiedad: es función asignada para servir a la comunidad."
+        },
+        {
+          "letter": "B",
+          "text": "Una concesión familiar transmisible por herencia",
+          "is_correct": false,
+          "feedback": "La transmisión hereditaria de cargos corresponde a regímenes feudales, no a la república constitucional."
+        },
+        {
+          "letter": "C",
+          "text": "Una misión del Estado para con la sociedad, de la que se deriva una ética social y política para garantizar el bien común",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la formulación del Código: el servidor es servidor de la comunidad."
+        },
+        {
+          "letter": "D",
+          "text": "Un premio electoral para los colaboradores del gobierno",
+          "is_correct": false,
+          "feedback": "El clientelismo en el empleo público viola el mérito (artículo 125) y la moralidad administrativa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Código recuerda que \"el cargo público es una misión del Estado para con la sociedad\" y que su ejercicio debe inspirarse en valores como el bien común, la integridad, la lealtad y la ejemplaridad. Esta concepción supera la visión patrimonial del poder: el funcionario no dispone de lo público para intereses privados, porque la función existe en función de derechos ajenos. De esa premisa derivan los regímenes de conflicto de interés y de probidad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle-v3",
+      "statement": "La conducta descrita vulnera principalmente el principio de",
+      "context": "En un caso de clase, un alcalde asigna un contrato de alimentación escolar a una empresa de su familiar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Celeridad, porque el contrato debió firmarse más rápido",
+          "is_correct": false,
+          "feedback": "El problema no es de tiempo: es de parcialidad e interés privado."
+        },
+        {
+          "letter": "B",
+          "text": "Imparcialidad y moralidad, y configura causal de impedimento por conflicto de intereses",
+          "is_correct": true,
+          "feedback": "Correcto. La participación en decisiones con interés personal o familiar está prohibida (artículo 209, Ley 734 de 2002 y Ley 1952 de 2019)."
+        },
+        {
+          "letter": "C",
+          "text": "Publicidad, porque el contrato debía transmitirse por televisión",
+          "is_correct": false,
+          "feedback": "La publicidad es transparencia del acto, no la transmisión mediática del proceso."
+        },
+        {
+          "letter": "D",
+          "text": "Economía, porque el contrato era de bajo valor",
+          "is_correct": false,
+          "feedback": "El valor del contrato no sanea el conflicto de interés: la ética no tiene umbral de precio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El principio de imparcialidad ordena decidir con criterios objetivos y generales, no con preferencias privadas. Las prohibiciones constitucionales a los cónyuges y parientes de contratistas (artículo 126) y el régimen de impedimentos buscan cortar el nepotismo, una de las raíces del clientelismo colombiano. Entender el deber de impedirse es la primera lección de la ética pública: reconocer cuándo no se puede decidir.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle-v4",
+      "statement": "Un conflicto de interés en la función pública se presenta cuando",
+      "context": "Un líder estudiantil de Bello pregunta qué es un \"conflicto de interés\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El funcionario discrepa políticamente con su jefe inmediato",
+          "is_correct": false,
+          "feedback": "La discrepancia política no es conflicto de interés: es libertad de conciencia."
+        },
+        {
+          "letter": "B",
+          "text": "El interés personal, familiar o económico del funcionario puede influir indebidamente en el cumplimiento imparcial de su función",
+          "is_correct": true,
+          "feedback": "Correcto. El conflicto es la tensión entre el interés privado y el deber público de imparcialidad."
+        },
+        {
+          "letter": "C",
+          "text": "La comunidad protesta contra una decisión de la administración",
+          "is_correct": false,
+          "feedback": "La protesta expresa el interés colectivo, no el interés privado del funcionario."
+        },
+        {
+          "letter": "D",
+          "text": "Dos entidades públicas compiten por presupuesto en el mismo sector",
+          "is_correct": false,
+          "feedback": "La competencia presupuestal institucional es parte de la planificación, no un conflicto de interés individual."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El conflicto de interés es la situación, no la falta: tenerlo no es corrupción; ocultarlo y decidir bajo él, sí. Por eso el régimen —fortalecido por la Ley 2014 de 2019 sobre impedimentos y conflictos de intereses— obliga a declararlo, inhibirse del asunto o delegar. Distinguir la situación del abuso es una competencia cívica clave: permite denunciar sin linchar y prevenir sin paralizar la gestión.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle-v5",
+      "statement": "La conducta exigible a la funcionaria, según el Código de Ética y el régimen disciplinario, es",
+      "context": "Un contratista del Ministerio de Educación de Armenia ofrece un obsequio costoso a una funcionaria que evaluará su propuesta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aceptar el obsequio si no supera un millón de pesos",
+          "is_correct": false,
+          "feedback": "No existe umbral de \"obsequio aceptable\" que comprometa la imparcialidad de una evaluación."
+        },
+        {
+          "letter": "B",
+          "text": "Rechazar el obsequio, poner el hecho en conocimiento de su superior y de la oficina de control interno, y declararse impedida si procede",
+          "is_correct": true,
+          "feedback": "Correcto. La integridad y la transparencia obligan a rechazar y reportar la oferta."
+        },
+        {
+          "letter": "C",
+          "text": "Aceptar y luego no tener en cuenta la propuesta para equilibrar",
+          "is_correct": false,
+          "feedback": "Ocultar la oferta y decidir represaliadamente agrava la falta: combina encubrimiento e imparcialidad viciada."
+        },
+        {
+          "letter": "D",
+          "text": "Devolverlo duplicado en valor al oferente",
+          "is_correct": false,
+          "feedback": "Devolver más de lo ofrecido no tiene sustento ético ni legal: el deber es rechazar y reportar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El principio de integridad prohíbe usar el cargo para obtener beneficio privado y obliga a rechazar dádivas relacionadas con la función. La Ley 1474 de 2011 (Estatuto Anticorrupción) y la Convención Interamericana contra la Corrupción (Ley 188 de 1995) refuerzan el deber de denuncia del servidor y del particular. Reportar no es delatar: es proteger la legitimidad de la función que se sirve.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle-v6",
+      "statement": "Además de la Procuraduría, la vía interna de la entidad que vigila la conducta de sus funcionarios y promueve la ética es",
+      "context": "En la personería de Girardot se reciben quejas ciudadanas sobre la gestión de un instituto descentralizado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La oficina de control interno de la entidad",
+          "is_correct": true,
+          "feedback": "Correcto. La Ley 87 de 1993 crea las unidades de control interno, con funciones de evaluación y vigilancia disciplinaria interna."
+        },
+        {
+          "letter": "B",
+          "text": "La junta de acción comunal del barrio",
+          "is_correct": false,
+          "feedback": "Las JAC son organizaciones comunitarias, no órganos internos de la entidad."
+        },
+        {
+          "letter": "C",
+          "text": "El tribunal de arbitramento de la Cámara de Comercio",
+          "is_correct": false,
+          "feedback": "Los tribunales de arbitramento resuelven controversias contractuales privadas."
+        },
+        {
+          "letter": "D",
+          "text": "La asamblea general de accionistas del instituto",
+          "is_correct": false,
+          "feedback": "Los institutos descentralizados no tienen asambleas de accionistas; la referencia es ajena al régimen."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las unidades de control interno (Decreto 101 de 1995 y Ley 87 de 1993) evalúan el control interno administrativo y conocen de procesos disciplinarios de ciertos servidores, además de impulsar programas de ética. Junto con las estrategias de gobierno transparente (Conpes 3445 de 2006 y posteriores), forman el dispositivo institucional de prevención. La ética pública no se sostiene solo con normas: requiere estructuras que la exijan.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle-v7",
+      "statement": "El fenómeno descrito, regulado como \"puerta giratoria\" o conflicto de intereses posterior, busca evitarse mediante",
+      "context": "Un exfuncionario del SENA de Sincelejo es contratado por una empresa que antes supervisaba cuando estaba en el cargo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La prohibición permanente de que los exfuncionarios trabajen en el sector privado",
+          "is_correct": false,
+          "feedback": "La Constitución protege la libertad de trabajo (artículo 26); las restricciones son temporales y materiales."
+        },
+        {
+          "letter": "B",
+          "text": "Reglas de inhabilidad e incompatibilidad posterior al cargo, y el deber de declararse impedido cuando se use información privilegiada",
+          "is_correct": true,
+          "feedback": "Correcto. El régimen de conflicto de intereses posterior (impedimentos del artículo 26 y Ley 2014 de 2019) limita el tránsito a quien se sirvió del cargo."
+        },
+        {
+          "letter": "C",
+          "text": "La exigencia de un aval del antiguo jefe inmediato",
+          "is_correct": false,
+          "feedback": "El aval del superior no elimina el conflicto: puede profundizar la captura."
+        },
+        {
+          "letter": "D",
+          "text": "El simple registro de la empresa en la cámara de comercio",
+          "is_correct": false,
+          "feedback": "El registro mercantil no examina información privilegiada ni lealtades funcionales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La \"puerta giratoria\" permite que se privatice el conocimiento público obtenido con un cargo: decisiones, información y contactos convertidos en ventaja privada. El régimen colombiano prohíbe a los exfuncionarios intervenir en asuntos que trataron durante el año anterior (impedimentos) y restringe usar información privilegiada, con sustento en la moralidad administrativa (artículo 209). La ética no termina el día de la desvinculación: la lealtad al interés público persiste.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle-v8",
+      "statement": "El uso de recursos públicos para promocionar la imagen personal de un gobernante, evaluado disciplinariamente, constituye",
+      "context": "Un alcalde de Magangué planea inaugurar obras con su nombre y su imagen en cada placa del municipio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una práctica legítima, pues las obras se financian con impuestos",
+          "is_correct": false,
+          "feedback": "Los impuestos financian obras, no campañas: la publicidad debe ser institucional, formativa u informativa (artículo 209)."
+        },
+        {
+          "letter": "B",
+          "text": "Un comportamiento permitido solo en años electorales",
+          "is_correct": false,
+          "feedback": "Las restricciones electorales (Ley 996 de 2005) no habilitan la autopromoción; la prohíben adicionalmente."
+        },
+        {
+          "letter": "C",
+          "text": "Una falta disciplinaria por violación de los principios de moralidad e imparcialidad, y posible proselitismo prohibido",
+          "is_correct": true,
+          "feedback": "Correcto. La exaltación de la imagen del gobernante con recursos públicos es la falta de \"proselitismo\" típica."
+        },
+        {
+          "letter": "D",
+          "text": "Un delito electoral automático sin debido proceso",
+          "is_correct": false,
+          "feedback": "Ninguna falta es \"automática\" ni carece de debido proceso (artículo 29); la calificación exige investigación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La prohibición de proselitismo con recursos públicos protege la separación entre Estado y gobierno: los símbolos oficiales no son instrumentos de carrera personal. La jurisprudencia disciplinaria de la Procuraduría ha sancionado la \"personalización\" de la gestión, y las normas electorales restringen la propaganda institucional en campaña. El principio constitucional subyacente es la imparcialidad: el poder se ejerce para la comunidad, no para el que lo ocupa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle-v9",
+      "statement": "Los pactos colectivos de integridad, promovidos por la Contraloría General, son herramientas de",
+      "context": "Un grupo de funcionarios del hospital de Villavicencio firma un pacto colectivo de integridad para su gestión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rendición de cuentas y compromiso voluntario de servidores y organizaciones con metas de gestión y anti-corrupción",
+          "is_correct": true,
+          "feedback": "Correcto. El Pacto Colectivo por la Integridad canaliza compromisos públicos verificables."
+        },
+        {
+          "letter": "B",
+          "text": "Sindicalización obligatoria de los empleados hospitalarios",
+          "is_correct": false,
+          "feedback": "La sindicalización es un derecho libre (artículo 39); los pactos de integridad son otra figura."
+        },
+        {
+          "letter": "C",
+          "text": "Control previo de cada gasto hospitalario",
+          "is_correct": false,
+          "feedback": "Los pactos no restauran la aprobación contable centralizada."
+        },
+        {
+          "letter": "D",
+          "text": "Reemplazo de los contratos de prestación de servicios",
+          "is_correct": false,
+          "feedback": "Los pactos son acuerdos de conducta, no figuras contractuales de personal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los Pactos Colectivos por la Integridad, promovidos por la Contraloría General de la República, vinculan a entidades, funcionarios y ciudadanos en compromisos medibles de buen manejo y lucha contra la corrupción. Su lógica es preventiva y colaborativa: construyen corresponsabilidad entre quien administra y quien vigila. Complementan el control sancionatorio sin sustituirlo, porque la ética institucional se sostiene con incentivos, metas y vigilancia social.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle-v10",
+      "statement": "La conducta del docente expresa el principio ético de",
+      "context": "Un docente de un colegio público de Florencia se niega a filtrar las respuestas de una prueba institucional a un concejal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Deslealtad hacia la corporación pública local",
+          "is_correct": false,
+          "feedback": "La lealtad institucional es al Estado y a la misión, no a la presión de terceros."
+        },
+        {
+          "letter": "B",
+          "text": "Integridad y responsabilidad: no usar la función para ventajas indebidas, aunque provengan de actores influyentes",
+          "is_correct": true,
+          "feedback": "Correcto. La integridad es coherencia entre valores y acción bajo presión."
+        },
+        {
+          "letter": "C",
+          "text": "Violación del derecho de petición del concejal",
+          "is_correct": false,
+          "feedback": "Un pedido de información privilegiada y contraria a la norma no es petición amparable que exija colaboración indebida."
+        },
+        {
+          "letter": "D",
+          "text": "Ejercicio indebido de la autonomía escolar curricular",
+          "is_correct": false,
+          "feedback": "La autonomía curricular (Ley 115 de 1994) no trata sobre protección de instrumentos de evaluación ante presiones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ética pública se prueba en la rutina: resistir la presión del influyente, proteger la información que se administra para otros, decir no cuando el costo es personal. Los códigos de ética de los sectores (educación, salud, administración) desarrollan estos deberes de resistencia íntegra. La formación ciudadana del grado 11 apunta a esa brújula: la honestidad como hábito, no como pose.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle-v11",
+      "statement": "El análisis estructural de la corrupción contractual muestra que opera como un sistema cuando",
+      "context": "Se estudia el caso de los \"monopodios\" y carritos de la contratación en la región Caribe documentado por medios y contralorías.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se reduce a casos aislados de individuos codiciosos sin patrones repetidos",
+          "is_correct": false,
+          "feedback": "La descripción \"aislada\" es exactamente lo que la evidencia de redes desmiente."
+        },
+        {
+          "letter": "B",
+          "text": "Articuladores, funcionarios, contratistas y controles débiles se retroalimentan: la captura del contrato presupuesta la coima, la coima financia la captura electoral, y el ciclo reproduce la red",
+          "is_correct": true,
+          "feedback": "Correcto. La corrupción sistémica se define por su ciclo de retroalimentación política-administrativa."
+        },
+        {
+          "letter": "C",
+          "text": "Solo involucra a particulares sin participación de servidores",
+          "is_correct": false,
+          "feedback": "Si no hay función pública comprometida, no hay corrupción administrativa en sentido técnico."
+        },
+        {
+          "letter": "D",
+          "text": "Ocurre únicamente en municipios pequeños con bajo presupuesto",
+          "is_correct": false,
+          "feedback": "Los grandes escándalos nacionales demuestran que la corrupción escala con el presupuesto disponible."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El caso \"Carrusel de la Contratación\" de Bogotá (2008-2011) o las redes de \"papayazo y coimas\" en el Caribe ilustran la imbricación de contratistas, funcionarios y políticos. Analizar la corrupción como sistema exige mirar reglas de juego: presupuesto por resultados, diseño de pliegos a la medida, vigilancia débil y recompensas electorales. Por eso la política anticorrupción eficaz combina ética individual, arquitectura institucional e integridad de la competencia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle-v12",
+      "statement": "La crítica constitucional a la \"mermelada\" como práctica política se funda en que",
+      "context": "Un debate escolar compara la \"mermelada\" —cupartida presupuestal a congresistas— con el clientelismo local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desvía la destinación del gasto público hacia intereses electorales de quienes deciden el presupuesto, en lugar de criterios técnicos y de necesidad ciudadana",
+          "is_correct": true,
+          "feedback": "Correcto. El vicio es la inversión del fin: el presupuesto sirve a la reelección, no al plan nacional (artículos 339-346)."
+        },
+        {
+          "letter": "B",
+          "text": "Viola el principio de unidad de caja si se paga en efectivo",
+          "is_correct": false,
+          "feedback": "La unidad de caja es una regla contable presupuestal; el problema de fondo es de destino político del gasto."
+        },
+        {
+          "letter": "C",
+          "text": "Prohíbe a los congresistas presentar proyectos de ley",
+          "is_correct": false,
+          "feedback": "La iniciativa legislativa es derecho y función de los congresistas."
+        },
+        {
+          "letter": "D",
+          "text": "Desconoce la gratuidad obligatoria de la función congresional",
+          "is_correct": false,
+          "feedback": "La función congresional es remunerada constitucionalmente; la crítica no es al salario sino a la captura del gasto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El debate sobre la \"mermelada\" —partidas discrecionales que legisladores orientan a regiones a cambio de apoyo— tensiona el principio de igualdad (artículo 13) y la planificación (artículo 339): el gasto se asigna por lealtades, no por necesidades. Reformas como los OCAD y los marcos de medio término buscan racionalizarlo. Analizar este fenómeno desarrolla la competencia de interpretar las instituciones como diseño de incentivos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle-v13",
+      "statement": "La responsabilidad del particular que coime a un funcionario, bajo el Estatuto Anticorrupción y la Ley 1778 de 2016, incluye",
+      "context": "Una empresa constructora de Neiva registra en su contabilidad \"pagos de agilización\" a inspectores de obra pública.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguna: el soborno es solo responsabilidad del que recibe",
+          "is_correct": false,
+          "feedback": "El soborno tiene dos caras: el particular corruptor también es sancionable."
+        },
+        {
+          "letter": "B",
+          "text": "Responsabilidad disciplinaria asimilada, penal por cohecho y administrativa por la ley de transparencia y medios de pago, además de inhabilidades contractuales",
+          "is_correct": true,
+          "feedback": "Correcto. Quien ejerce función pública temporal o contrata con el Estado responde; la Ley 1778 de 2016 persigue soborno transnacional y ocultamiento de pagos."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente la devolución de los dineros al Tesoro",
+          "is_correct": false,
+          "feedback": "La devolución es efecto civil accesorio, no el único ni principal."
+        },
+        {
+          "letter": "D",
+          "text": "Solo un llamado de atención verbal de la cámara de comercio",
+          "is_correct": false,
+          "feedback": "Las cámaras no tienen competencia represiva sobre sobornos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Estatuto Anticorrupción (Ley 1474 de 2011) equiparó las responsabilidades del corruptor: sanción disciplinaria asimilada, extinción de dominio sobre beneficios ilícitos, inhabilidad para contratar y responsabilidad penal por cohecho. La Ley 1778 de 2016 añadió control societario sobre pagos ilícitos. Analizar la doble autoría de la corrupción —funcionario y particular— destruye la idea de que \"todos roban y nadie paga\".",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle-v14",
+      "statement": "La refutación más sólida al argumento desde el constitucionalismo es que la ética pública",
+      "context": "Un columnista argumenta que \"la ética es asunto privado, no político\". Se estudia la réplica desde la teoría del Estado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sustituye la ley, porque los códigos de conducta reemplazan al ordenamiento jurídico",
+          "is_correct": false,
+          "feedback": "La ética complementa la norma; no la deroga ni la reemplaza."
+        },
+        {
+          "letter": "B",
+          "text": "Es incompatible con la democracia, porque el Estado debe ser moralmente neutral en todo sentido",
+          "is_correct": false,
+          "feedback": "La neutralidad axiológica del Estado tiene límites: la Constitución misma es un pacto de valores."
+        },
+        {
+          "letter": "C",
+          "text": "Institucionaliza la dimensión moral de la función: los valores constitucionales (artículo 2, 209) traducen la ética en deberes jurídicos y controles, porque el poder sin ética degenera en arbitrariedad",
+          "is_correct": true,
+          "feedback": "Correcto. El constitucionalismo convierte valores en normas: moralidad, probidad y bien común son mandatos, no preferencias."
+        },
+        {
+          "letter": "D",
+          "text": "Solo obliga a los gobernantes electos, no a los empleados de carrera",
+          "is_correct": false,
+          "feedback": "El Código de Ética del Servidor Público obliga a todos los que sirven al Estado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La distinción liberal entre moral privada y derecho público no significa que el poder carezca de deberes morales institucionalizables: la probidad, la integridad y el bien común son principios jurídicos de rango constitucional. Desde Sócrates hasta el artículo 209, la tradición republicana sostiene que la virtud del cargo —no la virtud del hombre— sostiene la república. Analizar este debate es pensamiento político de grado 11.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle-v15",
+      "statement": "La tensión entre el deber de imparcialidad y los lazos personales en la ética del cargo se denomina en la teoría de la corrupción",
+      "context": "Un funcionario de la DIAN en Santa Marta enfrenta una decisión: eximir a un amigo comerciante de una sanción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Colusión de intereses, porque ambos ganan económicamente del acuerdo secreto",
+          "is_correct": false,
+          "feedback": "La colusión es entre agentes frente a terceros; aquí el dilema es personal-institucional, no una concertación de mercado."
+        },
+        {
+          "letter": "B",
+          "text": "Conflicto de intereses, donde el interés particular (amistad) puede doblegar el juicio del deber público",
+          "is_correct": true,
+          "feedback": "Correcto. El afecto cuenta como interés particular relevante que debe gestionarse con inhibición."
+        },
+        {
+          "letter": "C",
+          "text": "Enriquecimiento ilícito, porque el funcionario recibirá dinero a cambio",
+          "is_correct": false,
+          "feedback": "No consta ventaja patrimonial: el beneficio puede ser afectivo o de lealtad."
+        },
+        {
+          "letter": "D",
+          "text": "Peculado, porque los bienes de la DIAN son del Estado",
+          "is_correct": false,
+          "feedback": "El peculado exige apropiación o uso indebido de bienes públicos, no exención discrecional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El conflicto de interés no exige ganancia económica: basta que un vínculo personal amenace la imparcialidad. La regla ética no es \"no tener amigos\", sino gestionar la tensión con transparencia, inhibición y declaración. Esta distinción es útil contra dos errores: la sospecha universal que paraliza la administración, y la ingenuidad que confunde lealtades privadas con deberes públicos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle-v16",
+      "statement": "La figura que describe la contratación simulada con interventoría cómplice en la doctrina anticorrupción es la de",
+      "context": "Un medio de Ipiales cubre el hallazgo de obras \"fantasma\" pagadas en tres municipios con contratos simulados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contrato realidad, porque el interventor siempre cumple",
+          "is_correct": false,
+          "feedback": "\"Contrato realidad\" designa proteger al trabajador bajo la forma, no una trama de simulación."
+        },
+        {
+          "letter": "B",
+          "text": "Corrupción administrativa en red: la conjunción de documentos falsos, pago sin ejecución y vigilancia capturada, lo que agrava la ilicitud y multiplica responsables",
+          "is_correct": true,
+          "feedback": "Correcto. La simulación contractual es un delito en cadena: falsedad, celebración indebida, peculado por apropiación y prevaricato si hay jueces y abogados."
+        },
+        {
+          "letter": "C",
+          "text": "Libre competencia económica viciada por precios bajos",
+          "is_correct": false,
+          "feedback": "El problema no es el precio sino la inexistencia de contraprestación real."
+        },
+        {
+          "letter": "D",
+          "text": "Error administrativo subsanable sin responsabilidad",
+          "is_correct": false,
+          "feedback": "Pagar obras inexistentes es doloso: el error honesto se demuestra, la simulación se prueba."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las obras fantasma combinan falsedad ideológica en documento público, celebración de contratos sin requisitos legales, peculado y concusión, con el agravante de la complicidad de interventorías y controles. Los casos de obras fantasma documentados en varios departamentos muestran redes locales de complicidades. Analizarlas exige entender el control como cadena: cada eslabón débil multiplica el daño al erario.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle-v17",
+      "statement": "La evaluación institucional más rigurosa de ambas posturas conclude que",
+      "context": "Se debate la política de cero tolerancia versus el enfoque de \"integridad y confianza\" en la administración.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Basta el enfoque punitivo: el miedo es el único motor de conducta ética estable",
+          "is_correct": false,
+          "feedback": "La evidencia de cumplimiento muestra que el miedo sin legitimidad produce formalismo y evasión inteligente."
+        },
+        {
+          "letter": "B",
+          "text": "Basta la confianza: la autorregulación basta cuando hay motivación intrínseca del servidor",
+          "is_correct": false,
+          "feedback": "La autorregulación sin consecuencias permite que la minoría oportunista domine el promedio."
+        },
+        {
+          "letter": "C",
+          "text": "Integridad y sanción son complementarios: reglas claras, incentivos, vigilancia social y consecuencias creíbles forman el sistema; la ética eficaz es arquitectura, no solo moral",
+          "is_correct": true,
+          "feedback": "Correcto. El diseño institucional (nudges íntegros) es más durable que la predicación aislada."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna: la corrupción humana es antropológicamente ineliminable y la ética es inútil",
+          "is_correct": false,
+          "feedback": "El pesimismo antropológico no describe ninguna ciencia y paraliza la política pública de integridad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los sistemas de integridad (OCDE, BID) combinan códigos, capacitación, canales de denuncia, protección al denunciante, controles internos, transparencia y sanciones proporcionales. Evaluar críticamente estas capas permite entender por qué el discurso de \"cultura de honestidad\" funciona donde hay instituciones creíbles y fracasa donde solo hay carteles. La ética pública es tecnología institucional tanto como convicción personal.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.5,
+      "bundle_id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle-v18",
+      "statement": "El criterio más sólido para evaluar las políticas de integridad importadas de organismos internacionales es que",
+      "context": "Colombia adopta estándares de la OCDE sobre integridad pública; un estudiante pregunta si las recetas internacionales bastan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Deben adoptarse literalmente, pues los estándares internacionales son científicos y neutrales",
+          "is_correct": false,
+          "feedback": "Ninguna receta institucional es neutral: traslada supuestos culturales y fiscales que aquí fallan."
+        },
+        {
+          "letter": "B",
+          "text": "Deben rechazarse en bloque, porque toda influencia externa viola la soberanía",
+          "is_correct": false,
+          "feedback": "La cooperación anticorrupción está prevista en convenciones ratificadas por el propio Estado (Convención de la ONU, Ley 1712 de 2014)."
+        },
+        {
+          "letter": "C",
+          "text": "Deben adaptarse al contexto colombiano —clientelismo, pluralismo territorial, capacidades estatales— manteniendo su núcleo de estándares verificables",
+          "is_correct": true,
+          "feedback": "Correcto. La efectividad de las transplantaciones institucionales depende de la traducción contextual."
+        },
+        {
+          "letter": "D",
+          "text": "Son útiles solo para países con PIB superior al colombiano",
+          "is_correct": false,
+          "feedback": "La integridad es condición y no consecuencia del desarrollo: la riqueza no exime de corrupción."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Colombia entró a la OCDE en 2020 y adoptó recomendaciones en contratación abierta, lobby y acceso a la información. La evidencia comparada —de Georgia a Dinamarca— muestra que el éxito depende de la apropiación local: actores, incentivos y memoria histórica. Este análisis desarrolla la competencia de contextualizar: pensar lo global sin negar lo propio.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.5,
+      "bundle_id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle-v19",
+      "statement": "La evaluación moral y constitucional de la participación ciudadana en la corrupción concluye que",
+      "context": "Un debate estudiantil sobre el \"perdonavidismo\": el ciudadano que soborna para agilizar trámites denuncia después al cobrador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es irreprochable: el que paga coimas es siempre una víctima inocente del sistema",
+          "is_correct": false,
+          "feedback": "El sobornado puede ser coactivamente presionado, pero la corrupción activa tiene cara ciudadana que reproduce el vicio."
+        },
+        {
+          "letter": "B",
+          "text": "Es inexistente: la corrupción es exclusivamente un fenómeno de servidores públicos",
+          "is_correct": false,
+          "feedback": "La evidencia de cohecho por dar u ofrecer y de trámites acelerados con pago desmiente la exclusividad."
+        },
+        {
+          "letter": "C",
+          "text": "Es corresponsabilidad: los artículos 95 y 209 obligan a respetar el ordenamiento, y el ciudadano corruptor es parte del problema; la ética pública requiere una ética privada de lo público",
+          "is_correct": true,
+          "feedback": "Correcto. El deber de obrar conforme al bien común no es exclusivo de funcionarios."
+        },
+        {
+          "letter": "D",
+          "text": "Es penalmente irrelevante pero éticamente permitida",
+          "is_correct": false,
+          "feedback": "El cohecho por dar u ofrecer es delito (artículo 405 Código Penal); la ética no lo \"permite\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La \"cultura del muerdo\" y el dicho \"el que no transa no avanza\" expresan una tolerancia social que normaliza la pequeña corrupción. La Constitución exige a todos los asociados contribuir a que la paz y la convivencia sean posibles y respetar el orden jurídico (artículo 95). Evaluar la corrupción desde la ciudadanía —no solo desde el poder— completa el pensamiento crítico: la ética pública empieza en los valores compartidos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.45,
+      "bundle_id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle-v20",
+      "statement": "El fundamento constitucional más sólido para un decálogo escolar de ética pública es que",
+      "context": "En el cierre temático, los estudiantes de un colegio de Fusinaga redactan un decálogo de ética pública para su consejo estudiantil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La escuela puede reemplazar a la familia en toda formación de valores",
+          "is_correct": false,
+          "feedback": "La Constitución reconoce a la familia como núcleo básico de la sociedad (artículo 42); la escuela la complementa."
+        },
+        {
+          "letter": "B",
+          "text": "La moralidad administrativa (artículo 209), el bien común y la dignidad humana (artículo 1) son valores constitucionales que orientan toda educación ciudadana, incluida la formación ética escolar",
+          "is_correct": true,
+          "feedback": "Correcto. Los decálogos escolares traducen los valores de la \"constitución ética\" en normas de convivencia."
+        },
+        {
+          "letter": "C",
+          "text": "La ética solo puede enseñarse desde una confesión religiosa",
+          "is_correct": false,
+          "feedback": "La laicidad del Estado (artículo 1) y el derecho a la libertad religiosa hacen de la ética un espacio plural y común."
+        },
+        {
+          "letter": "D",
+          "text": "El decálogo carecería de legitimidad si no lo firma el alcalde",
+          "is_correct": false,
+          "feedback": "Su legitimidad nace de la deliberación escolar, no de avales externos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Constitución de 1991 es también un pacto ético: dignidad humana, bien común, solidaridad y pluralismo fundan el ordenamiento. La Ley 115 de 1994 ordena al servicio educativo la formación en valores humanos, cívicos y éticos, y los manuales de convivencia son su laboratorio escolar. Elaborar un decálogo con fundamento constitucional es el ejercicio de síntesis de este bundle: convertir los valores del Estado social en hábitos de gobierno escolar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.45,
+      "bundle_id": "CO-SOC-11-2026-W37-etica-publica-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

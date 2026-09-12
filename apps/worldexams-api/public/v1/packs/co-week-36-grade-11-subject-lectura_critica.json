@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-36-grade-11-subject-lectura_critica",
+    "generated_at": "2026-09-12T16:46:07.514Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es una novela gráfica?",
+      "context": "En una feria del libro en Bogotá, los estudiantes descubren novelas gráficas latinoamericanas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una narrativa extensa que combina texto e ilustraciones para contar una historia completa.",
+          "is_correct": true,
+          "feedback": "Es un formato unitario con principio, desarrollo y cierre."
+        },
+        {
+          "letter": "B",
+          "text": "Un cómic corto de cuatro viñetas.",
+          "is_correct": false,
+          "feedback": "Es más extensa que un chiste gráfico."
+        },
+        {
+          "letter": "C",
+          "text": "Una novela sin dibujos.",
+          "is_correct": false,
+          "feedback": "Justamente integra imágenes."
+        },
+        {
+          "letter": "D",
+          "text": "Un manual técnico.",
+          "is_correct": false,
+          "feedback": "Es ficcional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La novela gráfica fusiona narrativa literaria y lenguaje visual secuencial.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la diferencia principal entre cómic y novela gráfica?",
+      "context": "En clase en Medellín, se diferencia novela gráfica de cómic.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La novela gráfica tiene mayor extensión, unidad narrativa y complejidad temática.",
+          "is_correct": true,
+          "feedback": "La novela gráfica suele ser una obra completa y autocontenida."
+        },
+        {
+          "letter": "B",
+          "text": "El cómic solo tiene dibujos.",
+          "is_correct": false,
+          "feedback": "El cómic también incluye texto."
+        },
+        {
+          "letter": "C",
+          "text": "La novela gráfica nunca tiene color.",
+          "is_correct": false,
+          "feedback": "Puede tenerlo."
+        },
+        {
+          "letter": "D",
+          "text": "No existen diferencias.",
+          "is_correct": false,
+          "feedback": "Son formatos cercanos pero distintos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La novela gráfica es un formato consolidado con obras de referencia mundial.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle-v3",
+      "statement": "En una novela gráfica, la relación entre imagen y texto puede ser:",
+      "context": "En un taller en Cali, se analiza la relación imagen-texto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Complementaria, redundante o contrapuesta, según la intención del autor.",
+          "is_correct": true,
+          "feedback": "Cada viñeta puede reforzar o tensionar el mensaje."
+        },
+        {
+          "letter": "B",
+          "text": "Siempre idéntica.",
+          "is_correct": false,
+          "feedback": "Pierde creatividad."
+        },
+        {
+          "letter": "C",
+          "text": "Inexistente.",
+          "is_correct": false,
+          "feedback": "Es la esencia del formato."
+        },
+        {
+          "letter": "D",
+          "text": "Solo redundante.",
+          "is_correct": false,
+          "feedback": "Hay más posibilidades."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La interacción entre palabra e imagen genera múltiples capas de significado.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle-v4",
+      "statement": "La \"viñeta\" en una novela gráfica es:",
+      "context": "En clase en Barranquilla, se estudian las viñetas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La unidad visual básica donde ocurre una acción o se transmite una idea.",
+          "is_correct": true,
+          "feedback": "Es el encuadre de la escena."
+        },
+        {
+          "letter": "B",
+          "text": "El título de la obra.",
+          "is_correct": false,
+          "feedback": "Es un elemento distinto."
+        },
+        {
+          "letter": "C",
+          "text": "El color de fondo.",
+          "is_correct": false,
+          "feedback": "Es un recurso gráfico."
+        },
+        {
+          "letter": "D",
+          "text": "El texto del narrador.",
+          "is_correct": false,
+          "feedback": "Puede aparecer dentro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La composición de viñetas construye el ritmo narrativo-visual.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle-v5",
+      "statement": "Cuando una novela gráfica presenta una secuencia sin palabras, esto se interpreta como:",
+      "context": "En clase en Bucaramanga, se interpreta una escena silenciosa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una decisión estética que enfatiza la imagen, el gesto y el silencio narrativo.",
+          "is_correct": true,
+          "feedback": "El silencio es un recurso expresivo."
+        },
+        {
+          "letter": "B",
+          "text": "Un error del autor.",
+          "is_correct": false,
+          "feedback": "Es deliberado."
+        },
+        {
+          "letter": "C",
+          "text": "Falta de argumento.",
+          "is_correct": false,
+          "feedback": "No implica vacío narrativo."
+        },
+        {
+          "letter": "D",
+          "text": "Necesidad de incluir texto.",
+          "is_correct": false,
+          "feedback": "No es obligatorio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las secuencias silenciosas invitan al lector a completar el significado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle-v6",
+      "statement": "¿Qué elementos del lenguaje visual se utilizan para expresar emociones en una novela gráfica?",
+      "context": "En clase en Pereira, se compara el estilo de artistas gráficos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Líneas expresivas, colores, encuadres, perspectivas y símbolos icónicos.",
+          "is_correct": true,
+          "feedback": "Recursos plásticos y compositivos."
+        },
+        {
+          "letter": "B",
+          "text": "Solo texto.",
+          "is_correct": false,
+          "feedback": "El texto no basta."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente fotografías.",
+          "is_correct": false,
+          "feedback": "Es dibujo."
+        },
+        {
+          "letter": "D",
+          "text": "Solo tipografía.",
+          "is_correct": false,
+          "feedback": "Es un elemento, no el único."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dibujo es portador de emociones y ritmos narrativos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle-v7",
+      "statement": "¿Qué recurso usa el autor para narrar su propia vida en formato gráfico?",
+      "context": "En un taller en Armenia, se analiza una novela gráfica autobiográfica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Combina memoria personal, dibujo autobiográfico y voz narrativa subjetiva.",
+          "is_correct": true,
+          "feedback": "Ejemplo: \"Persépolis\" de Marjane Satrapi."
+        },
+        {
+          "letter": "B",
+          "text": "Solo copia fotos familiares.",
+          "is_correct": false,
+          "feedback": "Predomina el dibujo autoral."
+        },
+        {
+          "letter": "C",
+          "text": "Evita la intimidad.",
+          "is_correct": false,
+          "feedback": "La autobiografía es íntima."
+        },
+        {
+          "letter": "D",
+          "text": "Emplea únicamente texto académico.",
+          "is_correct": false,
+          "feedback": "No aplica al formato."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La novela gráfica autobiográfica permite reconstruir la memoria con sensibilidad estética.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle-v8",
+      "statement": "El \"bocadillo\" o globo de diálogo cumple la función de:",
+      "context": "En clase en Santa Marta, se trabaja con el \"bocadillo\" del cómic.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contener las palabras pronunciadas por los personajes.",
+          "is_correct": true,
+          "feedback": "Indica la voz del personaje."
+        },
+        {
+          "letter": "B",
+          "text": "Mostrar un pensamiento secreto.",
+          "is_correct": false,
+          "feedback": "Eso es el bocadillo de pensamiento (nube)."
+        },
+        {
+          "letter": "C",
+          "text": "Señalar una explosión.",
+          "is_correct": false,
+          "feedback": "El bocadillo de sonido es diferente."
+        },
+        {
+          "letter": "D",
+          "text": "Decorar el fondo.",
+          "is_correct": false,
+          "feedback": "Su función es lingüística."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Existen distintos tipos de globos según el tipo de mensaje.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle-v9",
+      "statement": "Una novela gráfica histórica se diferencia de un libro de historia porque:",
+      "context": "En Ibagué, se analiza una novela gráfica histórica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prioriza la vivencia subjetiva y emocional sobre la cronología exhaustiva.",
+          "is_correct": true,
+          "feedback": "Apela a la empatía narrativa."
+        },
+        {
+          "letter": "B",
+          "text": "Carece de contexto.",
+          "is_correct": false,
+          "feedback": "Lo integra con perspectiva."
+        },
+        {
+          "letter": "C",
+          "text": "Solo usa fechas.",
+          "is_correct": false,
+          "feedback": "Predominan las escenas."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene rigor.",
+          "is_correct": false,
+          "feedback": "Requiere investigación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La novela gráfica histórica humaniza los hechos mediante imágenes y narrativa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle-v10",
+      "statement": "El estilo \"línea clara\" de la novela gráfica se caracteriza por:",
+      "context": "En Neiva, se compara el estilo de dibujo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Trazos uniformes, contornos definidos y fondos detallados.",
+          "is_correct": true,
+          "feedback": "Popularizado por Hergé con \"Las aventuras de Tintín\"."
+        },
+        {
+          "letter": "B",
+          "text": "Sombras expresionistas únicamente.",
+          "is_correct": false,
+          "feedback": "Es otro estilo."
+        },
+        {
+          "letter": "C",
+          "text": "Figuras abstractas.",
+          "is_correct": false,
+          "feedback": "Es figurativo."
+        },
+        {
+          "letter": "D",
+          "text": "Solo blanco y negro sin detalles.",
+          "is_correct": false,
+          "feedback": "Hay color y detalle."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cada estilo gráfico aporta un tono narrativo particular.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle-v11",
+      "statement": "¿Qué ventajas ofrece la novela gráfica para la lectura crítica?",
+      "context": "En Popayán, se discute el papel de la novela gráfica en la educación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite analizar múltiples códigos (visual, textual, simbólico) y desarrollar competencias interpretativas.",
+          "is_correct": true,
+          "feedback": "Es un medio multimodial."
+        },
+        {
+          "letter": "B",
+          "text": "Sustituye la lectura profunda.",
+          "is_correct": false,
+          "feedback": "La complementa."
+        },
+        {
+          "letter": "C",
+          "text": "Es solo para niños.",
+          "is_correct": false,
+          "feedback": "Tiene públicos diversos."
+        },
+        {
+          "letter": "D",
+          "text": "No requiere alfabetización visual.",
+          "is_correct": false,
+          "feedback": "La exige."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La novela gráfica desarrolla alfabetización visual y narrativa simultáneamente.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle-v12",
+      "statement": "La metáfora visual en una novela gráfica se logra mediante:",
+      "context": "En clase en Bogotá, se analiza la metáfora visual.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Imágenes que sustituyen conceptos abstractos por representaciones concretas.",
+          "is_correct": true,
+          "feedback": "Ej.: una cadena para representar opresión."
+        },
+        {
+          "letter": "B",
+          "text": "Texto literal sin imagen.",
+          "is_correct": false,
+          "feedback": "Requiere imagen."
+        },
+        {
+          "letter": "C",
+          "text": "Fotografías reales.",
+          "is_correct": false,
+          "feedback": "Generalmente es dibujo."
+        },
+        {
+          "letter": "D",
+          "text": "Solo color rojo.",
+          "is_correct": false,
+          "feedback": "El color es un recurso, no la metáfora en sí."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La metáfora visual condensa significados complejos en una sola imagen.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle-v13",
+      "statement": "La novela gráfica latinoamericana ha abordado temas como:",
+      "context": "En clase en Tunja, se revisan autores latinoamericanos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dictadura, memoria, violencia, migración e identidad cultural.",
+          "is_correct": true,
+          "feedback": "Autores como Quique Alcatena, Powerpaola y otros."
+        },
+        {
+          "letter": "B",
+          "text": "Solo superhéroes.",
+          "is_correct": false,
+          "feedback": "Hay variedad temática."
+        },
+        {
+          "letter": "C",
+          "text": "Solo deporte.",
+          "is_correct": false,
+          "feedback": "Predominan temas sociales."
+        },
+        {
+          "letter": "D",
+          "text": "Solo ciencia ficción.",
+          "is_correct": false,
+          "feedback": "Hay diversidad de géneros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La novela gráfica latinoamericana dialoga con la historia y la cultura regional.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle-v14",
+      "statement": "La novela gráfica se parece al montaje cinematográfico porque:",
+      "context": "En clase en Medellín, se compara el montaje cinematográfico con la novela gráfica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Utiliza encuadres, planos y secuencias para construir la narrativa visual.",
+          "is_correct": true,
+          "feedback": "Hay un lenguaje secuencial común."
+        },
+        {
+          "letter": "B",
+          "text": "Es animada.",
+          "is_correct": false,
+          "feedback": "Es estática."
+        },
+        {
+          "letter": "C",
+          "text": "Tiene banda sonora obligatoria.",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene texto.",
+          "is_correct": false,
+          "feedback": "Sí incluye texto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ambas artes secuenciales organizan planos y tiempos narrativos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle-v15",
+      "statement": "¿Qué función narrativa cumple el uso de una paleta monocromática en una novela gráfica?",
+      "context": "En Pereira, se analiza el uso del color.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Crear atmósfera de melancolía, atemporalidad o enfoque en lo emocional.",
+          "is_correct": true,
+          "feedback": "El color refuerza el tono."
+        },
+        {
+          "letter": "B",
+          "text": "Confundir al lector.",
+          "is_correct": false,
+          "feedback": "Es decisión estética."
+        },
+        {
+          "letter": "C",
+          "text": "Ahorrar costos de impresión.",
+          "is_correct": false,
+          "feedback": "La razón es expresiva."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituir la trama.",
+          "is_correct": false,
+          "feedback": "No reemplaza el argumento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La elección cromática es un recurso narrativo, no decorativo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle-v16",
+      "statement": "¿Qué tienen en común \"Persépolis\" y \"Maus\" como novelas gráficas autobiográficas?",
+      "context": "En clase en Cali, se comparan autores como Marjane Satrapi y Art Spiegelman.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usan la metáfora animal o estética sobria para narrar experiencias políticas traumáticas.",
+          "is_correct": true,
+          "feedback": "Maus usa gatos y ratones; Persépolis usa blanco y negro."
+        },
+        {
+          "letter": "B",
+          "text": "Son manuales escolares.",
+          "is_correct": false,
+          "feedback": "Son obras autobiográficas."
+        },
+        {
+          "letter": "C",
+          "text": "Evitan la política.",
+          "is_correct": false,
+          "feedback": "La abordan centralmente."
+        },
+        {
+          "letter": "D",
+          "text": "Son idénticas en estilo.",
+          "is_correct": false,
+          "feedback": "Tienen estéticas distintas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ambas son hitos del género por su calidad narrativa y testimonial.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.63,
+      "bundle_id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle-v17",
+      "statement": "¿Qué demuestra que la novela gráfica es un género literario consolidado?",
+      "context": "En un coloquio en Manizales, se evalúa la madurez del género.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Su inclusión en premios literarios prestigiosos y en la academia.",
+          "is_correct": true,
+          "feedback": "Hay premios específicos y estudios universitarios."
+        },
+        {
+          "letter": "B",
+          "text": "Su bajo número de lectores.",
+          "is_correct": false,
+          "feedback": "Su público crece."
+        },
+        {
+          "letter": "C",
+          "text": "Su prohibición en bibliotecas.",
+          "is_correct": false,
+          "feedback": "Se promueve su lectura."
+        },
+        {
+          "letter": "D",
+          "text": "Su eliminación de las librerías.",
+          "is_correct": false,
+          "feedback": "Está ampliamente disponible."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La novela gráfica ha ganado reconocimiento crítico y académico mundial.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle-v18",
+      "statement": "¿Qué argumentos respaldan la inclusión de novelas gráficas en bibliotecas escolares?",
+      "context": "En Pasto, se analiza la censura de novelas gráficas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Su valor estético, su accesibilidad para diversos lectores y su potencial formativo.",
+          "is_correct": true,
+          "feedback": "Contribuyen a la formación lectora."
+        },
+        {
+          "letter": "B",
+          "text": "Son solo entretenimiento sin valor.",
+          "is_correct": false,
+          "feedback": "Poseen valor estético y crítico."
+        },
+        {
+          "letter": "C",
+          "text": "Reemplazan los libros de texto.",
+          "is_correct": false,
+          "feedback": "Son complemento."
+        },
+        {
+          "letter": "D",
+          "text": "No requieren análisis.",
+          "is_correct": false,
+          "feedback": "Sí lo requieren."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La biblioteca escolar debe reflejar la diversidad de formatos literarios contemporáneos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle-v19",
+      "statement": "Al llevar una novela gráfica al cine, ¿qué desafío creativo es central?",
+      "context": "En Armenia, se evalúa la adaptación cinematográfica de novelas gráficas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Traducir la lectura secuencial a un ritmo audiovisual sin perder la iconicidad visual.",
+          "is_correct": true,
+          "feedback": "Es un reto de transposición."
+        },
+        {
+          "letter": "B",
+          "text": "Eliminar la música.",
+          "is_correct": false,
+          "feedback": "La música puede enriquecer."
+        },
+        {
+          "letter": "C",
+          "text": "Cambiar completamente la trama.",
+          "is_correct": false,
+          "feedback": "Debe mantener fidelidad."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituir el guion por el dibujo original.",
+          "is_correct": false,
+          "feedback": "Requiere adaptación narrativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La transposición de medios implica decisiones estéticas cuidadosas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es el futuro de la novela gráfica en la educación colombiana?",
+      "context": "En un cierre en Bogotá, se reflexiona sobre el futuro del género.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mayor integración curricular, formación docente específica y producción nacional.",
+          "is_correct": true,
+          "feedback": "Crece su presencia pedagógica."
+        },
+        {
+          "letter": "B",
+          "text": "Su eliminación total.",
+          "is_correct": false,
+          "feedback": "Tiende a expandirse."
+        },
+        {
+          "letter": "C",
+          "text": "Su uso exclusivo en universidades privadas.",
+          "is_correct": false,
+          "feedback": "Llega a todos los niveles."
+        },
+        {
+          "letter": "D",
+          "text": "Su reemplazo por videos.",
+          "is_correct": false,
+          "feedback": "Convive con otros medios."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La novela gráfica seguirá enriqueciendo la formación lectora y crítica en Colombia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-2026-W36-novela-grafica-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

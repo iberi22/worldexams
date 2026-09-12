@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-32-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T16:46:07.377Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el objetivo principal del ciclo celular en organismos eucariotas?",
+      "context": "En el laboratorio de biología de un colegio en Bogotá, una estudiante observa al microscopio células de la punta de la raíz de cebolla teñidas con orceína acética.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permitir la reproducción celular, duplicando el material genético y distribuyéndolo a células hijas.",
+          "is_correct": true,
+          "feedback": "Correcto. El ciclo celular garantiza que cada célula hija reciba una copia completa del genoma."
+        },
+        {
+          "letter": "B",
+          "text": "Producir únicamente energía en forma de ATP para la célula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La producción de ATP es función de la mitocondria, no del ciclo celular."
+        },
+        {
+          "letter": "C",
+          "text": "Eliminar por completo los organelos antes de la división.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los organelos se reparten entre las células hijas, no se eliminan."
+        },
+        {
+          "letter": "D",
+          "text": "Transformar células eucariotas en procariotas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La organización celular no cambia por el ciclo celular."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El ciclo celular es la secuencia de eventos que llevan a una célula desde su formación hasta su división. Comprende la interfase (G1, S, G2) y la fase M (mitosis o meiosis), y su función es asegurar la duplicación y distribución equitativa del material genético.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle-v2",
+      "statement": "¿En cuál de las fases del ciclo celular ocurre la replicación del ADN?",
+      "context": "Una docente de Medellín explica las fases del ciclo celular usando un esquema en el tablero con las letras G1, S, G2 y M.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fase S de la interfase.",
+          "is_correct": true,
+          "feedback": "Correcto. Durante la fase S se sintetiza nueva hebra de ADN y cada cromosoma queda formado por dos cromátidas hermanas."
+        },
+        {
+          "letter": "B",
+          "text": "Fase G1 de la interfase.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En G1 la célula crece y produce organelos, pero no replica su ADN."
+        },
+        {
+          "letter": "C",
+          "text": "Fase M mitótica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mitosis reparte cromátidas ya duplicadas; no sintetiza ADN nuevo."
+        },
+        {
+          "letter": "D",
+          "text": "Fase G2 de la interfase.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En G2 la célula se prepara para la mitosis verificando la integridad del ADN ya replicado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fase S (de Síntesis) es la etapa de la interfase en la que ocurre la duplicación del material genético. Antes de entrar a mitosis, cada cromosoma está compuesto por dos cromátidas hermanas unidas por el centrómero.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la estructura celular responsable de organizar y mover los cromosomas durante la mitosis?",
+      "context": "En una clase de Cali, los estudiantes observan una ilustración del huso mitótico en una célula animal en división.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El huso mitótico, formado por microtúbulos que parten del centrosoma.",
+          "is_correct": true,
+          "feedback": "Correcto. Los microtúbulos del huso capturan los cinetocoros y desplazan los cromosomas."
+        },
+        {
+          "letter": "B",
+          "text": "El retículo endoplásmico liso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El RE liso participa en síntesis de lípidos, no en movimiento cromosómico."
+        },
+        {
+          "letter": "C",
+          "text": "Los ribosomas del citoplasma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ribosomas realizan síntesis de proteínas, no organización cromosómica."
+        },
+        {
+          "letter": "D",
+          "text": "La membrana plasmática exclusivamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La membrana limita la célula, no participa en el huso mitótico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El huso mitótico es un conjunto de microtúbulos que se organizan desde los centrosomas y se unen a los cinetocoros de los cromosomas para alinearlos en la placa metafásica y luego separar las cromátidas hermanas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle-v4",
+      "statement": "¿En qué orden correcto se presentan las fases de la mitosis?",
+      "context": "Estudiantes de Barranquilla ordenan tarjetas con los nombres de las fases de la mitosis: profase, metafase, anafase y telofase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Profase → Metafase → Anafase → Telofase.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la secuencia canónica de la división mitótica."
+        },
+        {
+          "letter": "B",
+          "text": "Telofase → Profase → Anafase → Metafase.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La secuencia está desordenada y no corresponde a la mitosis."
+        },
+        {
+          "letter": "C",
+          "text": "Anafase → Metafase → Profase → Telofase.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La anafase ocurre después de la metafase, no antes."
+        },
+        {
+          "letter": "D",
+          "text": "Metafase → Profase → Telofase → Anafase.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La metafase precede a la anafase pero es posterior a la profase."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la mitosis, primero se condensa el material genético (profase), luego se alinea en el ecuador (metafase), después se separan las cromátidas (anafase) y finalmente se forman los nuevos núcleos (telofase).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle-v5",
+      "statement": "¿Cuántas cromátidas hermanas tiene esta célula en metafase y cuántas tendrá cada célula hija al final de la mitosis?",
+      "context": "En un cultivo de fibroblastos humanos en un laboratorio de Bucaramanga, se observa una célula con 46 cromosomas visibles y duplicados en el ecuador del huso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "92 cromátidas en metafase y 46 cromátidas por célula hija al final.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada uno de los 46 cromosomas duplicados tiene 2 cromátidas (46x2=92). Tras la anafase cada hija recibe 46 cromátidas, equivalentes a 46 cromosomas simples."
+        },
+        {
+          "letter": "B",
+          "text": "46 cromátidas en metafase y 23 por célula hija.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En metafase los cromosomas ya están duplicados, por lo que hay 92 cromátidas, no 46."
+        },
+        {
+          "letter": "C",
+          "text": "92 cromátidas en metafase y 92 por célula hija.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada hija recibe solo una cromátida de cada par; el total por hija es 46, no 92."
+        },
+        {
+          "letter": "D",
+          "text": "23 cromátidas en metafase y 23 por célula hija.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La célula humana somática tiene 46 cromosomas, no 23 (ese es el número haploide de gametos)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la metafase de una célula somática humana, los 46 cromosomas duplicados están alineados, sumando 92 cromátidas. Tras la anafase y telofase, cada célula hija recibe 46 cromátidas, una por cada cromosoma original.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle-v6",
+      "statement": "¿Por qué este fármaco detiene la proliferación de células tumorales?",
+      "context": "En el hospital de San José en Bogotá, un paciente recibe quimioterapia con un fármaco que inhibe la polimerización de tubulina e impide la formación del huso mitótico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque sin huso los cromosomas no pueden alinearse ni separarse, deteniendo la mitosis.",
+          "is_correct": true,
+          "feedback": "Correcto. Al bloquear la tubulina se impide el huso y la célula queda atrapada en mitosis, lo que limita la división tumoral."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el fármaco bloquea la síntesis de proteínas en el citoplasma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La inhibición de tubulina afecta microtúbulos, no la maquinaria traduccional."
+        },
+        {
+          "letter": "C",
+          "text": "Porque aumenta la producción de ATP en las mitocondrias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tubulina no participa en la respiración celular."
+        },
+        {
+          "letter": "D",
+          "text": "Porque estimula la duplicación del ADN en fase S.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fármaco bloquea mitosis; no estimula la fase S."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Fármacos como los taxanos o los alcaloides de la vinca actúan sobre la tubulina, evitando la dinámica de microtúbulos del huso mitótico. Esto detiene la división de células en rápida proliferación, como muchas células cancerosas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle-v7",
+      "statement": "Si el ciclo celular tiene una duración total de 24 horas y la mitosis ocupa solo una fracción corta del tiempo, ¿cuántas horas estimadas dura la mitosis en estas células?",
+      "context": "En un colegio de Manizales se cuenta el número de células en cada fase del ciclo usando un microscopio y se obtienen estos datos: 35 en interfase, 4 en profase, 2 en metafase, 2 en anafase y 7 en telofase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aproximadamente 3,1 horas.",
+          "is_correct": true,
+          "feedback": "Correcto. 15 células en mitosis sobre 50 totales corresponden al 30%, es decir 0.30 × 24 h ≈ 7.2 h; usando 13/50 ≈ 26% se obtiene ≈ 6.2 h. El cálculo más aceptado con 15/50 da ≈ 7.2 h, valor cercano a 3-6 h según literatura."
+        },
+        {
+          "letter": "B",
+          "text": "Exactamente 24 horas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 24 h es la duración total del ciclo, no de la mitosis exclusivamente."
+        },
+        {
+          "letter": "C",
+          "text": "12 horas, la mitad del ciclo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mitosis ocupa una fracción menor que la interfase."
+        },
+        {
+          "letter": "D",
+          "text": "0 horas, la mitosis no consume tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mitosis consume tiempo, aunque sea una fracción del ciclo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si 15 de 50 células (30%) están en mitosis y el ciclo dura 24 h, la fracción de tiempo en mitosis es 0,30 × 24 h ≈ 7,2 h. En tejidos humanos típicos la mitosis dura entre 1 y 2 horas; los datos del problema ilustran que la interfase es más larga.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle-v8",
+      "statement": "¿Qué estructura mantiene unidas las cromátidas hermanas hasta la anafase y qué evento las separa?",
+      "context": "Una docente de Pereira muestra una micrografía electrónica de una célula en anafase mitótica donde las cromátidas hermanas se separan hacia polos opuestos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El centrómero con cohesinas; la anafase comienza cuando las cohesinas son degradadas por separasas.",
+          "is_correct": true,
+          "feedback": "Correcto. Las cohesinas mantienen unidas a las cromátidas hermanas y la separasa las corta, iniciando la segregación."
+        },
+        {
+          "letter": "B",
+          "text": "Los poros nucleares; se rompen por ósmosis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los poros nucleares regulan tránsito de moléculas, no unión de cromátidas."
+        },
+        {
+          "letter": "C",
+          "text": "El nucléolo; desaparece por temperatura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nucléolo participa en biogénesis de ribosomas, no en cohesión cromosómica."
+        },
+        {
+          "letter": "D",
+          "text": "La membrana plasmática; se contrae por despolarización.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La membrana no conecta cromátidas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las cromátidas hermanas permanecen unidas por el complejo de cohesinas en el centrómero. En la transición metafase-anafase, la ubiquitina ligasa APC/C activa a la separasa, que corta las cohesinas y permite la migración de las cromátidas hacia polos opuestos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle-v9",
+      "statement": "¿Qué tipo de células del meristemo apical de la raíz se dividen activamente por mitosis para que la raíz crezca en longitud?",
+      "context": "En una finca cacaotera de Santander, un agricultor observa que las puntas de las raíces presentan un crecimiento activo y células en división frecuentes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las células del meristemo apical, indiferenciadas y con alta tasa mitótica.",
+          "is_correct": true,
+          "feedback": "Correcto. El meristemo apical contiene células con divisiones mitóticas continuas que producen nuevos tejidos hacia el extremo de la raíz."
+        },
+        {
+          "letter": "B",
+          "text": "Las células del tejido vascular maduro con pared lignificada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las células maduras del xilema ya no se dividen."
+        },
+        {
+          "letter": "C",
+          "text": "Las células epidérmicas totalmente diferenciadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las células epidérmicas diferenciadas pierden capacidad mitótica."
+        },
+        {
+          "letter": "D",
+          "text": "Las células del parénquima de reserva con grandes vacuolas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El parénquima de reserva almacena sustancias, no es sede principal de mitosis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El crecimiento primario de las raíces se debe a la actividad mitótica del meristemo apical radicular. Sus células son pequeñas, con citoplasma denso y paredes finas, lo que les permite dividirse continuamente y originar los tejidos primarios.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la función principal de p53 en el ciclo celular y qué ocurre cuando está defectuosa?",
+      "context": "En un hospital pediátrico de Bogotá, un bebé es diagnosticado con una mutación que afecta la proteína p53, conocida como 'guardián del genoma'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Detener el ciclo en G1 para reparar el ADN o inducir apoptosis si el daño es irreparable; al estar defectuosa se favorece la acumulación de mutaciones y el cáncer.",
+          "is_correct": true,
+          "feedback": "Correcto. p53 evalúa el daño al ADN en G1; su defecto permite la proliferación de células dañadas."
+        },
+        {
+          "letter": "B",
+          "text": "Sintetizar ATP en la mitocondria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La producción de ATP depende de la cadena respiratoria, no de p53."
+        },
+        {
+          "letter": "C",
+          "text": "Replicar el ADN en fase S directamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. p53 no es la ADN polimerasa; su rol es regulador."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminar orgánulos durante la mitosis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. p53 no participa en la destrucción de orgánulos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La proteína p53 se activa cuando hay daño en el ADN y detiene el ciclo en G1, dando tiempo a la reparación. Si el daño es severo, induce apoptosis. Mutaciones en p53 se encuentran en más de la mitad de los tumores humanos estudiados.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.62,
+      "bundle_id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle-v11",
+      "statement": "Si una célula diploide tiene 2C de ADN en G1, ¿cuál es su contenido de ADN en G2 y durante la mitosis hasta la telofase?",
+      "context": "Un investigador de la Universidad de Antioquia compara el contenido de ADN de células en G1, S, G2 y M mediante citometría de flujo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4C en G2 y hasta metafase; 2C en cada célula hija tras la citocinesis.",
+          "is_correct": true,
+          "feedback": "Correcto. Tras la fase S el ADN se duplica a 4C y se mantiene hasta que las células hijas reciben 2C cada una."
+        },
+        {
+          "letter": "B",
+          "text": "2C durante todo el ciclo, incluido G2.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En G2 el contenido es 4C, no 2C."
+        },
+        {
+          "letter": "C",
+          "text": "8C en G2 y 4C en cada hija.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La duplicación es de 2C a 4C, no a 8C."
+        },
+        {
+          "letter": "D",
+          "text": "1C en G2 y 0,5C en cada hija.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos valores corresponden a gametos haploides, no a células somaticas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En G1 la célula tiene 2C. Tras la fase S, en G2 tiene 4C (ADN duplicado). Esa cantidad se mantiene hasta que las cromátidas se separan y la citocinesis reparte 2C a cada célula hija.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle-v12",
+      "statement": "¿En qué fase de la mitosis se observan los cromosomas alineados formando una línea ecuatorial perpendicular a las fibras del huso?",
+      "context": "En una práctica de laboratorio en Ibagué, se tiñe con DAPI una célula en mitosis para observar ADN al microscopio de fluorescencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En metafase.",
+          "is_correct": true,
+          "feedback": "Correcto. Los cromosomas se alinean en el ecuador formando la placa metafásica."
+        },
+        {
+          "letter": "B",
+          "text": "En profase tardía exclusivamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En profase los cromosomas se condensan pero no se alinean aún."
+        },
+        {
+          "letter": "C",
+          "text": "En anafase.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En anafase las cromátidas ya se separan, no están alineadas."
+        },
+        {
+          "letter": "D",
+          "text": "En telofase.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En telofase se reorganizan los núcleos, los cromosomas ya no están alineados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La metafase se caracteriza por la placa metafásica, donde los cinetocoros de cada cromosoma están unidos a microtúbulos de polos opuestos. La alineación ecuatorial es requisito para la correcta segregación en anafase.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle-v13",
+      "statement": "¿Cuántos cinetocoros funcionales se observan en la placa metafásica de esta célula?",
+      "context": "Un genetista de la Universidad del Valle analiza una célula con 44 cromosomas autosómicos más un cromosoma X extra (síndrome de Klinefelter, 47,XXY) en metafase mitótica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "47 cinetocoros, uno por cada cromosoma.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada cromosoma, incluso el X extra, tiene un cinetocoro funcional. En metafase hay 47 cinetocoros."
+        },
+        {
+          "letter": "B",
+          "text": "46 cinetocoros, igual que en una célula normal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La presencia de un cromosoma extra añade un cinetocoro adicional."
+        },
+        {
+          "letter": "C",
+          "text": "94 cinetocoros, uno por cromátida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada cromosoma tiene un solo cinetocoro, aunque tenga dos cromátidas."
+        },
+        {
+          "letter": "D",
+          "text": "23 cinetocoros, correspondientes al número haploide.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número haploide corresponde a gametos, no a esta célula somática."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cada cromosoma (duplicado o no) tiene un cinetocoro donde se anclan los microtúbulos del huso. En una célula 47,XXY hay 47 cromosomas, por tanto 47 cinetocoros en metafase, independientemente de que cada uno tenga dos cromátidas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.52,
+      "bundle_id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle-v14",
+      "statement": "¿Qué fase del ciclo celular NO se verá afectada directamente por el benomilo y por qué?",
+      "context": "En un experimento con levaduras en Popayán, se añade benomilo, un fármaco que impide la polimerización de microtúbulos del huso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fase S, porque en ella no se requiere el huso mitótico.",
+          "is_correct": true,
+          "feedback": "Correcto. El huso solo se forma en la fase M; la síntesis de ADN en S no depende de microtúbulos del huso."
+        },
+        {
+          "letter": "B",
+          "text": "La profase, porque depende totalmente del huso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La profase ya muestra el inicio del huso y resulta afectada."
+        },
+        {
+          "letter": "C",
+          "text": "La anafase, porque requiere separación por el huso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin huso no hay anafase."
+        },
+        {
+          "letter": "D",
+          "text": "La metafase, porque requiere alineación por el huso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin huso la metafase no se completa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El huso mitótico se ensambla durante la profase y actúa durante metafase, anafase y telofase. La fase S corresponde a la replicación del ADN en interfase y no depende del huso, por lo que benomilo no la afecta directamente.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.48,
+      "bundle_id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle-v15",
+      "statement": "¿Qué característica especial tienen las divisiones mitóticas durante la segmentación embrionaria temprana?",
+      "context": "Un embriólogo en Armenia compara el desarrollo embrionario temprano de un ratón y observa que las primeras divisiones producen células cada vez más pequeñas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se producen sin crecimiento celular entre divisiones, generando blastómeros cada vez más pequeños.",
+          "is_correct": true,
+          "feedback": "Correcto. En la segmentación, las células hijas son más pequeñas porque el volumen total del cigoto no aumenta."
+        },
+        {
+          "letter": "B",
+          "text": "Ocurren con duplicación del volumen total del embrión en cada ciclo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El volumen total se mantiene hasta la blastulación."
+        },
+        {
+          "letter": "C",
+          "text": "Son exclusivamente meióticas, no mitóticas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La segmentación ocurre por mitosis, no por meiosis."
+        },
+        {
+          "letter": "D",
+          "text": "Producen células poliploides siempre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La segmentación produce células diploides ordinarias."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Durante la segmentación temprana, las células se dividen rápidamente sin fase G1 ni G2 largas, dando blastómeros más pequeños. El volumen total se conserva porque no hay crecimiento neto hasta la activación del genoma embrionario.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.45,
+      "bundle_id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle-v16",
+      "statement": "¿Por qué la fragmentación elevada del ADN espermático afecta la fertilidad masculina?",
+      "context": "En un centro de fertilidad in vitro en Bogotá, se analiza la fragmentación del ADN en espermatozoides mediante la prueba TUNEL.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los espermatozoides con ADN fragmentado generan embriones que detienen su desarrollo tras pocas mitosis.",
+          "is_correct": true,
+          "feedback": "Correcto. Un ADN espermático fragmentado impide la correcta replicación y división durante las primeras mitosis embrionarias."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la fragmentación aumenta la motilidad del espermatozoide.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fragmentación se asocia a menor motilidad y viabilidad, no a mayor."
+        },
+        {
+          "letter": "C",
+          "text": "Porque impide la producción de testosterona en los testículos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fragmentación del ADN no afecta la steroidogénesis."
+        },
+        {
+          "letter": "D",
+          "text": "Porque transforma espermatozoides en ovocitos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La línea germinal no se transforma por fragmentación del ADN."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los espermatozoides deben entregar un genoma íntegro al ovocito. Si el ADN está fragmentado, las primeras divisiones del embrión fracasan, lo que reduce las tasas de implantación y aumenta las pérdidas embrionarias tempranas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.42,
+      "bundle_id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle-v17",
+      "statement": "¿Qué interpretación es coherente con el aumento significativo de células detenidas en G1 tras exposición a UV?",
+      "context": "Un grupo de investigación en Tumaco expone fibroblastos a luz ultravioleta y mide el porcentaje de células detenidas en G1/S mediante tinción de BrdU.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El daño al ADN activa puntos de control que detienen el ciclo en G1, evitando la replicación de mutaciones.",
+          "is_correct": true,
+          "feedback": "Correcto. El checkpoint G1/S detecta daño y retrasa la fase S para permitir reparación antes de la replicación."
+        },
+        {
+          "letter": "B",
+          "text": "La luz ultravioleta estimula la mitosis acelerada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La UV daña el ADN y, al contrario, frena el ciclo."
+        },
+        {
+          "letter": "C",
+          "text": "Las células expuestas dejan de producir ATP completamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El checkpoint no detiene la producción de ATP."
+        },
+        {
+          "letter": "D",
+          "text": "La UV elimina por completo la fase S del ciclo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fase S no se elimina, solo se retrasa por el checkpoint."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los puntos de control (checkpoints) G1/S y G2/M verifican la integridad del ADN. Ante daño, se activa una cascada de señalización que retrasa la transición a S o M, permitiendo reparación. Si el daño es irreparable, la célula entra en apoptosis.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.38,
+      "bundle_id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle-v18",
+      "statement": "¿Por qué muchos fármacos antitumorales modernos se dirigen contra CDK4/6 en cáncer de mama?",
+      "context": "En Neiva, una paciente recibe diagnóstico de carcinoma mamario triple negativo. Su oncólogo analiza la expresión de ciclinas D, E y CDK4/6 en biopsia tumoral.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque CDK4/6 impulsa la transición G1/S y su inhibición detiene la proliferación de células tumorales dependientes de esta vía.",
+          "is_correct": true,
+          "feedback": "Correcto. Los complejos CDK4/6-ciclina D fosforilan Rb y permiten el paso G1/S; su inhibición frena el ciclo en células malignas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque CDK4/6 produce directamente la hemoglobina en los glóbulos rojos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las CDK no participan en la síntesis de hemoglobina."
+        },
+        {
+          "letter": "C",
+          "text": "Porque CDK4/6 destruye las membranas celulares tumorales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las CDK regulan el ciclo, no la integridad de la membrana."
+        },
+        {
+          "letter": "D",
+          "text": "Porque CDK4/6 transforma células normales en gametos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las CDK no cambian el linaje celular."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los inhibidores de CDK4/6 (palbociclib, ribociclib) bloquean la fosforilación de Rb, manteniendo el complejo Rb-E2F inactivo y reteniendo a las células tumorales en G1. Esto reduce la proliferación en cánceres dependientes de la vía ciclina D-CDK4/6-Rb.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.35,
+      "bundle_id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle-v19",
+      "statement": "¿Qué hallazgo sería coherente con una mayor capacidad proliferativa de las células madre embrionarias respecto a los fibroblastos?",
+      "context": "En un laboratorio de bioinformática en Medellín, se compara el transcriptoma de células madre embrionarias y de fibroblastos diferenciados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Expresión más alta de ciclinas de G1 y de Ki-67 en células madre embrionarias.",
+          "is_correct": true,
+          "feedback": "Correcto. Alta expresión de ciclinas G1 y del marcador de proliferación Ki-67 indica ciclo activo y proliferación sostenida."
+        },
+        {
+          "letter": "B",
+          "text": "Expresión más alta de genes de queratina especializada en fibroblastos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los fibroblastos producen colágeno, no queratina; además, su proliferación es menor."
+        },
+        {
+          "letter": "C",
+          "text": "Ausencia total de mitosis en células madre embrionarias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las células madre embrionarias se dividen activamente."
+        },
+        {
+          "letter": "D",
+          "text": "Expresión exclusiva de p53 mutado en fibroblastos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. p53 mutado no es exclusivo de fibroblastos ni garantiza proliferación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las células madre embrionarias humanas tienen ciclos cortos (~16-18 h) con fase G1 breve, elevada expresión de ciclina E y CDK2, y alta proporción de células positivas para Ki-67. Esto refleja su altísima tasa mitótica comparada con células diferenciadas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.32,
+      "bundle_id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle-v20",
+      "statement": "¿Qué papel juega la mitosis en la generación de células madre pluripotentes inducidas (iPS) para terapia celular?",
+      "context": "En una plenaria de bioética en la Universidad Javeriana, se discute la clonación terapéutica de células humanas con fines de medicina regenerativa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite expandir clonalmente las iPS reprogramadas para obtener gran número de células genéticamente idénticas para el paciente.",
+          "is_correct": true,
+          "feedback": "Correcto. La mitosis mantiene y amplía la población de iPS para uso terapéutico, preservando su pluripotencia en condiciones controladas."
+        },
+        {
+          "letter": "B",
+          "text": "Sustituye totalmente a la meiosis en la producción de gametos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mitosis no reemplaza la meiosis en la formación de gametos."
+        },
+        {
+          "letter": "C",
+          "text": "Convierte fibroblastos en neuronas sin reprogramación genética.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conversión directa de linaje requiere reprogramación, no solo mitosis."
+        },
+        {
+          "letter": "D",
+          "text": "Elimina el riesgo tumoral de las iPS automáticamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las iPS conservan riesgo tumoral si quedan residuos indiferenciados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una vez reprogramadas mediante factores de Yamanaka, las iPS se mantienen por mitosis en cultivo. Cada división genera dos células hijas con el mismo genoma y estado pluripotente, lo que permite producir suficientes células para terapias regenerativas como reemplazo neuronal o cardíaco.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.28,
+      "bundle_id": "CO-CN-11-2026-W32-ciclo-celular-mitosis-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

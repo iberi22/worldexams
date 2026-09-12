@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematica",
+    "country": "ar",
+    "pack_id": "ar-week-20-grade-11-subject-matematica",
+    "generated_at": "2026-09-12T16:46:07.216Z"
+  },
+  "questions": [
+    {
+      "id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v1",
+      "statement": "Dada la ecuación de la elipse $\\frac{x^2}{16} + \\frac{y^2}{4} = 1$, ¿cuáles son las longitudes de sus semiejes mayor $a$ y menor $b$?",
+      "context": "Secciones cónicas: Elipse centrada en el origen Caso N° 1.\n**ID:** AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v1\n**Bloom:** Remember\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a = 4$, $b = 2$",
+          "is_correct": true,
+          "feedback": "Correcto. $a = \\sqrt{16} = 4$ y $b = \\sqrt{4} = 2$."
+        },
+        {
+          "letter": "B",
+          "text": "$a = 16$, $b = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes."
+        },
+        {
+          "letter": "C",
+          "text": "$a = 8$, $b = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes."
+        },
+        {
+          "letter": "D",
+          "text": "$a = 2$, $b = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invirtió los semiejes mayor y menor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la ecuación estándar $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, los semiejes se obtienen mediante $a = \\sqrt{16} = 4$ y $b = \\sqrt{4} = 2$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v2",
+      "statement": "Dada la ecuación de la elipse $\\frac{x^2}{25} + \\frac{y^2}{9} = 1$, ¿cuáles son las longitudes de sus semiejes mayor $a$ y menor $b$?",
+      "context": "Secciones cónicas: Elipse centrada en el origen Caso N° 2.\n**ID:** AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v2\n**Bloom:** Remember\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a = 5$, $b = 3$",
+          "is_correct": true,
+          "feedback": "Correcto. $a = \\sqrt{25} = 5$ y $b = \\sqrt{9} = 3$."
+        },
+        {
+          "letter": "B",
+          "text": "$a = 25$, $b = 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes."
+        },
+        {
+          "letter": "C",
+          "text": "$a = 10$, $b = 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes."
+        },
+        {
+          "letter": "D",
+          "text": "$a = 3$, $b = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invirtió los semiejes mayor y menor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la ecuación estándar $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, los semiejes se obtienen mediante $a = \\sqrt{25} = 5$ y $b = \\sqrt{9} = 3$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v3",
+      "statement": "Dada la ecuación de la elipse $\\frac{x^2}{36} + \\frac{y^2}{16} = 1$, ¿cuáles son las longitudes de sus semiejes mayor $a$ y menor $b$?",
+      "context": "Secciones cónicas: Elipse centrada en el origen Caso N° 3.\n**ID:** AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v3\n**Bloom:** Understand\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.86",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a = 6$, $b = 4$",
+          "is_correct": true,
+          "feedback": "Correcto. $a = \\sqrt{36} = 6$ y $b = \\sqrt{16} = 4$."
+        },
+        {
+          "letter": "B",
+          "text": "$a = 36$, $b = 16$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes."
+        },
+        {
+          "letter": "C",
+          "text": "$a = 12$, $b = 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes."
+        },
+        {
+          "letter": "D",
+          "text": "$a = 4$, $b = 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invirtió los semiejes mayor y menor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la ecuación estándar $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, los semiejes se obtienen mediante $a = \\sqrt{36} = 6$ y $b = \\sqrt{16} = 4$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.86,
+      "bundle_id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v4",
+      "statement": "Dada la ecuación de la elipse $\\frac{x^2}{49} + \\frac{y^2}{25} = 1$, ¿cuáles son las longitudes de sus semiejes mayor $a$ y menor $b$?",
+      "context": "Secciones cónicas: Elipse centrada en el origen Caso N° 4.\n**ID:** AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v4\n**Bloom:** Understand\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.84",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a = 7$, $b = 5$",
+          "is_correct": true,
+          "feedback": "Correcto. $a = \\sqrt{49} = 7$ y $b = \\sqrt{25} = 5$."
+        },
+        {
+          "letter": "B",
+          "text": "$a = 49$, $b = 25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes."
+        },
+        {
+          "letter": "C",
+          "text": "$a = 14$, $b = 10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes."
+        },
+        {
+          "letter": "D",
+          "text": "$a = 5$, $b = 7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invirtió los semiejes mayor y menor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la ecuación estándar $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, los semiejes se obtienen mediante $a = \\sqrt{49} = 7$ y $b = \\sqrt{25} = 5$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v5",
+      "statement": "Dada la ecuación de la elipse $\\frac{x^2}{64} + \\frac{y^2}{36} = 1$, ¿cuáles son las longitudes de sus semiejes mayor $a$ y menor $b$?",
+      "context": "Secciones cónicas: Elipse centrada en el origen Caso N° 5.\n**ID:** AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v5\n**Bloom:** Understand\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.82",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a = 8$, $b = 6$",
+          "is_correct": true,
+          "feedback": "Correcto. $a = \\sqrt{64} = 8$ y $b = \\sqrt{36} = 6$."
+        },
+        {
+          "letter": "B",
+          "text": "$a = 64$, $b = 36$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes."
+        },
+        {
+          "letter": "C",
+          "text": "$a = 16$, $b = 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes."
+        },
+        {
+          "letter": "D",
+          "text": "$a = 6$, $b = 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invirtió los semiejes mayor y menor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la ecuación estándar $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, los semiejes se obtienen mediante $a = \\sqrt{64} = 8$ y $b = \\sqrt{36} = 6$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v6",
+      "statement": "Dada la ecuación de la elipse $\\frac{x^2}{81} + \\frac{y^2}{49} = 1$, ¿cuáles son las longitudes de sus semiejes mayor $a$ y menor $b$?",
+      "context": "Secciones cónicas: Elipse centrada en el origen Caso N° 6.\n**ID:** AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v6\n**Bloom:** Apply\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a = 9$, $b = 7$",
+          "is_correct": true,
+          "feedback": "Correcto. $a = \\sqrt{81} = 9$ y $b = \\sqrt{49} = 7$."
+        },
+        {
+          "letter": "B",
+          "text": "$a = 81$, $b = 49$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes."
+        },
+        {
+          "letter": "C",
+          "text": "$a = 18$, $b = 14$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes."
+        },
+        {
+          "letter": "D",
+          "text": "$a = 7$, $b = 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invirtió los semiejes mayor y menor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la ecuación estándar $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, los semiejes se obtienen mediante $a = \\sqrt{81} = 9$ y $b = \\sqrt{49} = 7$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v7",
+      "statement": "Dada la ecuación de la elipse $\\frac{x^2}{100} + \\frac{y^2}{64} = 1$, ¿cuáles son las longitudes de sus semiejes mayor $a$ y menor $b$?",
+      "context": "Secciones cónicas: Elipse centrada en el origen Caso N° 7.\n**ID:** AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v7\n**Bloom:** Apply\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a = 10$, $b = 8$",
+          "is_correct": true,
+          "feedback": "Correcto. $a = \\sqrt{100} = 10$ y $b = \\sqrt{64} = 8$."
+        },
+        {
+          "letter": "B",
+          "text": "$a = 100$, $b = 64$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes."
+        },
+        {
+          "letter": "C",
+          "text": "$a = 20$, $b = 16$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes."
+        },
+        {
+          "letter": "D",
+          "text": "$a = 8$, $b = 10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invirtió los semiejes mayor y menor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la ecuación estándar $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, los semiejes se obtienen mediante $a = \\sqrt{100} = 10$ y $b = \\sqrt{64} = 8$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v8",
+      "statement": "Dada la ecuación de la elipse $\\frac{x^2}{121} + \\frac{y^2}{81} = 1$, ¿cuáles son las longitudes de sus semiejes mayor $a$ y menor $b$?",
+      "context": "Secciones cónicas: Elipse centrada en el origen Caso N° 8.\n**ID:** AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v8\n**Bloom:** Apply\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.76",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a = 11$, $b = 9$",
+          "is_correct": true,
+          "feedback": "Correcto. $a = \\sqrt{121} = 11$ y $b = \\sqrt{81} = 9$."
+        },
+        {
+          "letter": "B",
+          "text": "$a = 121$, $b = 81$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes."
+        },
+        {
+          "letter": "C",
+          "text": "$a = 22$, $b = 18$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes."
+        },
+        {
+          "letter": "D",
+          "text": "$a = 9$, $b = 11$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invirtió los semiejes mayor y menor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la ecuación estándar $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, los semiejes se obtienen mediante $a = \\sqrt{121} = 11$ y $b = \\sqrt{81} = 9$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.76,
+      "bundle_id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v9",
+      "statement": "Dada la ecuación de la elipse $\\frac{x^2}{144} + \\frac{y^2}{100} = 1$, ¿cuáles son las longitudes de sus semiejes mayor $a$ y menor $b$?",
+      "context": "Secciones cónicas: Elipse centrada en el origen Caso N° 9.\n**ID:** AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v9\n**Bloom:** Apply\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.74",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a = 12$, $b = 10$",
+          "is_correct": true,
+          "feedback": "Correcto. $a = \\sqrt{144} = 12$ y $b = \\sqrt{100} = 10$."
+        },
+        {
+          "letter": "B",
+          "text": "$a = 144$, $b = 100$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes."
+        },
+        {
+          "letter": "C",
+          "text": "$a = 24$, $b = 20$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes."
+        },
+        {
+          "letter": "D",
+          "text": "$a = 10$, $b = 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invirtió los semiejes mayor y menor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la ecuación estándar $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, los semiejes se obtienen mediante $a = \\sqrt{144} = 12$ y $b = \\sqrt{100} = 10$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.74,
+      "bundle_id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v10",
+      "statement": "Dada la ecuación de la elipse $\\frac{x^2}{169} + \\frac{y^2}{121} = 1$, ¿cuáles son las longitudes de sus semiejes mayor $a$ y menor $b$?",
+      "context": "Secciones cónicas: Elipse centrada en el origen Caso N° 10.\n**ID:** AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v10\n**Bloom:** Apply\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.72",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a = 13$, $b = 11$",
+          "is_correct": true,
+          "feedback": "Correcto. $a = \\sqrt{169} = 13$ y $b = \\sqrt{121} = 11$."
+        },
+        {
+          "letter": "B",
+          "text": "$a = 169$, $b = 121$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes."
+        },
+        {
+          "letter": "C",
+          "text": "$a = 26$, $b = 22$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes."
+        },
+        {
+          "letter": "D",
+          "text": "$a = 11$, $b = 13$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invirtió los semiejes mayor y menor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la ecuación estándar $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, los semiejes se obtienen mediante $a = \\sqrt{169} = 13$ y $b = \\sqrt{121} = 11$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v11",
+      "statement": "Dada la ecuación de la elipse $\\frac{x^2}{196} + \\frac{y^2}{144} = 1$, ¿cuáles son las longitudes de sus semiejes mayor $a$ y menor $b$?",
+      "context": "Secciones cónicas: Elipse centrada en el origen Caso N° 11.\n**ID:** AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v11\n**Bloom:** Analyze\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a = 14$, $b = 12$",
+          "is_correct": true,
+          "feedback": "Correcto. $a = \\sqrt{196} = 14$ y $b = \\sqrt{144} = 12$."
+        },
+        {
+          "letter": "B",
+          "text": "$a = 196$, $b = 144$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes."
+        },
+        {
+          "letter": "C",
+          "text": "$a = 28$, $b = 24$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes."
+        },
+        {
+          "letter": "D",
+          "text": "$a = 12$, $b = 14$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invirtió los semiejes mayor y menor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la ecuación estándar $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, los semiejes se obtienen mediante $a = \\sqrt{196} = 14$ y $b = \\sqrt{144} = 12$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v12",
+      "statement": "Dada la ecuación de la elipse $\\frac{x^2}{225} + \\frac{y^2}{169} = 1$, ¿cuáles son las longitudes de sus semiejes mayor $a$ y menor $b$?",
+      "context": "Secciones cónicas: Elipse centrada en el origen Caso N° 12.\n**ID:** AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v12\n**Bloom:** Analyze\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.68",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a = 15$, $b = 13$",
+          "is_correct": true,
+          "feedback": "Correcto. $a = \\sqrt{225} = 15$ y $b = \\sqrt{169} = 13$."
+        },
+        {
+          "letter": "B",
+          "text": "$a = 225$, $b = 169$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes."
+        },
+        {
+          "letter": "C",
+          "text": "$a = 30$, $b = 26$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes."
+        },
+        {
+          "letter": "D",
+          "text": "$a = 13$, $b = 15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invirtió los semiejes mayor y menor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la ecuación estándar $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, los semiejes se obtienen mediante $a = \\sqrt{225} = 15$ y $b = \\sqrt{169} = 13$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.68,
+      "bundle_id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v13",
+      "statement": "Dada la ecuación de la elipse $\\frac{x^2}{256} + \\frac{y^2}{196} = 1$, ¿cuáles son las longitudes de sus semiejes mayor $a$ y menor $b$?",
+      "context": "Secciones cónicas: Elipse centrada en el origen Caso N° 13.\n**ID:** AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v13\n**Bloom:** Analyze\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.66",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a = 16$, $b = 14$",
+          "is_correct": true,
+          "feedback": "Correcto. $a = \\sqrt{256} = 16$ y $b = \\sqrt{196} = 14$."
+        },
+        {
+          "letter": "B",
+          "text": "$a = 256$, $b = 196$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes."
+        },
+        {
+          "letter": "C",
+          "text": "$a = 32$, $b = 28$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes."
+        },
+        {
+          "letter": "D",
+          "text": "$a = 14$, $b = 16$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invirtió los semiejes mayor y menor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la ecuación estándar $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, los semiejes se obtienen mediante $a = \\sqrt{256} = 16$ y $b = \\sqrt{196} = 14$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.66,
+      "bundle_id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v14",
+      "statement": "Dada la ecuación de la elipse $\\frac{x^2}{289} + \\frac{y^2}{225} = 1$, ¿cuáles son las longitudes de sus semiejes mayor $a$ y menor $b$?",
+      "context": "Secciones cónicas: Elipse centrada en el origen Caso N° 14.\n**ID:** AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v14\n**Bloom:** Analyze\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.64",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a = 17$, $b = 15$",
+          "is_correct": true,
+          "feedback": "Correcto. $a = \\sqrt{289} = 17$ y $b = \\sqrt{225} = 15$."
+        },
+        {
+          "letter": "B",
+          "text": "$a = 289$, $b = 225$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes."
+        },
+        {
+          "letter": "C",
+          "text": "$a = 34$, $b = 30$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes."
+        },
+        {
+          "letter": "D",
+          "text": "$a = 15$, $b = 17$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invirtió los semiejes mayor y menor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la ecuación estándar $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, los semiejes se obtienen mediante $a = \\sqrt{289} = 17$ y $b = \\sqrt{225} = 15$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.64,
+      "bundle_id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v15",
+      "statement": "Dada la ecuación de la elipse $\\frac{x^2}{324} + \\frac{y^2}{256} = 1$, ¿cuáles son las longitudes de sus semiejes mayor $a$ y menor $b$?",
+      "context": "Secciones cónicas: Elipse centrada en el origen Caso N° 15.\n**ID:** AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v15\n**Bloom:** Apply\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.62",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a = 18$, $b = 16$",
+          "is_correct": true,
+          "feedback": "Correcto. $a = \\sqrt{324} = 18$ y $b = \\sqrt{256} = 16$."
+        },
+        {
+          "letter": "B",
+          "text": "$a = 324$, $b = 256$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes."
+        },
+        {
+          "letter": "C",
+          "text": "$a = 36$, $b = 32$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes."
+        },
+        {
+          "letter": "D",
+          "text": "$a = 16$, $b = 18$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invirtió los semiejes mayor y menor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la ecuación estándar $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, los semiejes se obtienen mediante $a = \\sqrt{324} = 18$ y $b = \\sqrt{256} = 16$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v16",
+      "statement": "Dada la ecuación de la elipse $\\frac{x^2}{361} + \\frac{y^2}{289} = 1$, ¿cuáles son las longitudes de sus semiejes mayor $a$ y menor $b$?",
+      "context": "Secciones cónicas: Elipse centrada en el origen Caso N° 16.\n**ID:** AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v16\n**Bloom:** Analyze\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a = 19$, $b = 17$",
+          "is_correct": true,
+          "feedback": "Correcto. $a = \\sqrt{361} = 19$ y $b = \\sqrt{289} = 17$."
+        },
+        {
+          "letter": "B",
+          "text": "$a = 361$, $b = 289$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes."
+        },
+        {
+          "letter": "C",
+          "text": "$a = 38$, $b = 34$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes."
+        },
+        {
+          "letter": "D",
+          "text": "$a = 17$, $b = 19$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invirtió los semiejes mayor y menor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la ecuación estándar $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, los semiejes se obtienen mediante $a = \\sqrt{361} = 19$ y $b = \\sqrt{289} = 17$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v17",
+      "statement": "Dada la ecuación de la elipse $\\frac{x^2}{400} + \\frac{y^2}{324} = 1$, ¿cuáles son las longitudes de sus semiejes mayor $a$ y menor $b$?",
+      "context": "Secciones cónicas: Elipse centrada en el origen Caso N° 17.\n**ID:** AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v17\n**Bloom:** Evaluate\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.58",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a = 20$, $b = 18$",
+          "is_correct": true,
+          "feedback": "Correcto. $a = \\sqrt{400} = 20$ y $b = \\sqrt{324} = 18$."
+        },
+        {
+          "letter": "B",
+          "text": "$a = 400$, $b = 324$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes."
+        },
+        {
+          "letter": "C",
+          "text": "$a = 40$, $b = 36$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes."
+        },
+        {
+          "letter": "D",
+          "text": "$a = 18$, $b = 20$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invirtió los semiejes mayor y menor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la ecuación estándar $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, los semiejes se obtienen mediante $a = \\sqrt{400} = 20$ y $b = \\sqrt{324} = 18$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.58,
+      "bundle_id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v18",
+      "statement": "Dada la ecuación de la elipse $\\frac{x^2}{441} + \\frac{y^2}{361} = 1$, ¿cuáles son las longitudes de sus semiejes mayor $a$ y menor $b$?",
+      "context": "Secciones cónicas: Elipse centrada en el origen Caso N° 18.\n**ID:** AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v18\n**Bloom:** Evaluate\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.56",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a = 21$, $b = 19$",
+          "is_correct": true,
+          "feedback": "Correcto. $a = \\sqrt{441} = 21$ y $b = \\sqrt{361} = 19$."
+        },
+        {
+          "letter": "B",
+          "text": "$a = 441$, $b = 361$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes."
+        },
+        {
+          "letter": "C",
+          "text": "$a = 42$, $b = 38$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes."
+        },
+        {
+          "letter": "D",
+          "text": "$a = 19$, $b = 21$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invirtió los semiejes mayor y menor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la ecuación estándar $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, los semiejes se obtienen mediante $a = \\sqrt{441} = 21$ y $b = \\sqrt{361} = 19$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.56,
+      "bundle_id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v19",
+      "statement": "Dada la ecuación de la elipse $\\frac{x^2}{484} + \\frac{y^2}{400} = 1$, ¿cuáles son las longitudes de sus semiejes mayor $a$ y menor $b$?",
+      "context": "Secciones cónicas: Elipse centrada en el origen Caso N° 19.\n**ID:** AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v19\n**Bloom:** Evaluate\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.54",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a = 22$, $b = 20$",
+          "is_correct": true,
+          "feedback": "Correcto. $a = \\sqrt{484} = 22$ y $b = \\sqrt{400} = 20$."
+        },
+        {
+          "letter": "B",
+          "text": "$a = 484$, $b = 400$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes."
+        },
+        {
+          "letter": "C",
+          "text": "$a = 44$, $b = 40$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes."
+        },
+        {
+          "letter": "D",
+          "text": "$a = 20$, $b = 22$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invirtió los semiejes mayor y menor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la ecuación estándar $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, los semiejes se obtienen mediante $a = \\sqrt{484} = 22$ y $b = \\sqrt{400} = 20$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.54,
+      "bundle_id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v20",
+      "statement": "Dada la ecuación de la elipse $\\frac{x^2}{529} + \\frac{y^2}{441} = 1$, ¿cuáles son las longitudes de sus semiejes mayor $a$ y menor $b$?",
+      "context": "Secciones cónicas: Elipse centrada en el origen Caso N° 20.\n**ID:** AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle-v20\n**Bloom:** Evaluate\n**EJE:** Geometría Analítica\n**Expected_Success:** 0.52",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a = 23$, $b = 21$",
+          "is_correct": true,
+          "feedback": "Correcto. $a = \\sqrt{529} = 23$ y $b = \\sqrt{441} = 21$."
+        },
+        {
+          "letter": "B",
+          "text": "$a = 529$, $b = 441$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes."
+        },
+        {
+          "letter": "C",
+          "text": "$a = 46$, $b = 42$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes."
+        },
+        {
+          "letter": "D",
+          "text": "$a = 21$, $b = 23$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invirtió los semiejes mayor y menor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la ecuación estándar $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, los semiejes se obtienen mediante $a = \\sqrt{529} = 23$ y $b = \\sqrt{441} = 21$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.52,
+      "bundle_id": "AR-MAT-11-2026-W20-secciones-conicas-elipse-hiperbola-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    }
+  ]
+}

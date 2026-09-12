@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-8-grade-11-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-12T16:46:07.576Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle-v1",
+      "statement": "El Carnaval de Barranquilla, con figuras como la Marimonda, el Toril y el Mapalé, fue declarado por la UNESCO en 2003 como",
+      "context": "En una clase de Sociales en un colegio de Barranquilla, el profesor muestra imágenes de la Batalla de Flores del carnaval local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Patrimonio Mundial material en la lista de sitios arqueológicos",
+          "is_correct": false,
+          "feedback": "El carnaval es una fiesta viva, no un sitio de piedra: pertenece al patrimonio inmaterial, no a la lista de sitios materiales."
+        },
+        {
+          "letter": "B",
+          "text": "Reserva natural de la biósfera del Caribe colombiano",
+          "is_correct": false,
+          "feedback": "Las reservas de biósfera protegen ecosistemas; un carnaval es una expresión cultural."
+        },
+        {
+          "letter": "C",
+          "text": "Obra maestra del patrimonio oral e inmaterial de la humanidad",
+          "is_correct": true,
+          "feedback": "En 2003 la UNESCO lo inscribió como obra maestra del patrimonio oral e inmaterial, hoy categoría integrada en las listas de patrimonio inmaterial."
+        },
+        {
+          "letter": "D",
+          "text": "Monumento nacional de arquitectura civil republicana",
+          "is_correct": false,
+          "feedback": "Los monumentos nacionales son bienes inmuebles declarados por la vía legal interna; el carnaval es una fiesta patrimonial."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La distinción entre patrimonio material e inmaterial es clave en este bundle: el primero se lee en edificios y sitios, el segundo en prácticas vivas como carnavales, música y lengua. El reconocimiento internacional del Carnaval de Barranquilla ayudó a que la fiesta se pensara como responsabilidad pública y ciudadana, con consejos y fondos que financian su continuidad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle-v2",
+      "statement": "San Basilio de Palenque, en el Caribe colombiano, es reconocido en la historia y por la UNESCO principalmente porque",
+      "context": "Un estudiante de Cartagena estudia la historia de un pueblo fundado por personas cimarronas en el siglo XVII, cerca de la montaña de María.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fue la primera ciudad fundada por españoles en el territorio continental americano",
+          "is_correct": false,
+          "feedback": "Santa María la Antigua del Darién y otras fundaciones anteceden; la relevancia de Palenque no viene de la fundación española."
+        },
+        {
+          "letter": "B",
+          "text": "Es símbolo del primer pueblo libre de América —palenque de cimarrones fundado en torno a Benkos Biohó— y su lengua, música y cultura fueron declaradas patrimonio inmaterial",
+          "is_correct": true,
+          "feedback": "Palenque, pueblo de libertos desde el siglo XVII, recibió de la UNESCO el reconocimiento de su lengua, sus cantos y prácticas como patrimonio de la humanidad."
+        },
+        {
+          "letter": "C",
+          "text": "Fue un presidio militar construido para defender el puerto de Cartagena",
+          "is_correct": false,
+          "feedback": "Su origen es el de una comunidad de cimarrones libres, no una instalación militar colonial."
+        },
+        {
+          "letter": "D",
+          "text": "Albergó la primera imprenta establecida en la Nueva Granada",
+          "is_correct": false,
+          "feedback": "La imprenta llegó a Santafé y a Cartagena en otros contextos; ese no es el motivo del reconocimiento de Palenque."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Palenque combina memoria de resistencia esclava, una lengua criolla propia —el palenquero— y tradiciones como el grupo musical de bullerengue y los conteos históricos orales llamado 'naa mata' (la madre que mata, o relato de la muerte). Estudiarlo conecta el patrimonio inmaterial con la historia de la esclavitud y sus luchas por la libertad, base del capítulo afrodescendiente de la Constitución de 1991.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle-v3",
+      "statement": "La cumbia y el porro, danzas y músicas de la costa Caribe con tambores, flautas de millo y gaitas, se celebran anualmente en un festival nacional cuyo escenario principal es",
+      "context": "Una estudiante de Valledupar escucha porros y cumbas en la emisora escolar y busca el origen del Festival Nacional de la Cumbia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Festival de la Leyenda Vallenata en Valledupar",
+          "is_correct": false,
+          "feedback": "Ese festival celebra el vallenato y el acordeón, otro género caribe con identidad propia."
+        },
+        {
+          "letter": "B",
+          "text": "El Carnaval de Negros y Blancos en Pasto",
+          "is_correct": false,
+          "feedback": "El Carnaval de Negros y Blancos se celebra en Pasto, Nariño, al sur del país, y no está dedicado a la cumbia ni al porro."
+        },
+        {
+          "letter": "C",
+          "text": "El Festival Nacional de la Cumbia, que se realiza en El Banco, Magdalena",
+          "is_correct": true,
+          "feedback": "El Banco, a orillas del río Magdalena, acoge cada año el festival dedicado a la matriz cultural de la cumbia."
+        },
+        {
+          "letter": "D",
+          "text": "Las Fiestas del Pilar en Cartagena",
+          "is_correct": false,
+          "feedback": "Cartagena tiene otras celebraciones; el festival cumbiambero por excelencia tiene sede ribereña magdalenense."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La cumbia sintetiza matrices indígenas —gaitas y maracas—, africanas —tambores y cuerpo— y europeas —vestuario y formas de pareja—, y el porro comparte ese origen de ribera del San Jorge y el Magdalena. Reconocer estos mestizajes musicales permite hablar de la región Caribe no como periferia folclórica sino como espacio creador de una de las músicas nacionales más influyentes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle-v4",
+      "statement": "El Festival de la Leyenda Vallenata, que se celebra en Valledupar desde 1968, es importante para el patrimonio cultural porque",
+      "context": "Un grupo de estudiantes de Armenia investiga por qué el vallenato tiene un festival con estatutos y reyes desde los años setenta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prohibió la circulación de otras músicas en la costa Caribe durante su fundación",
+          "is_correct": false,
+          "feedback": "Ningún festival tiene facultades para prohibir músicas; la vitalidad del vallenato se sostuvo en la competencia artística, no en la exclusión."
+        },
+        {
+          "letter": "B",
+          "text": "Documenta y premia una tradición de juglares del acordeón, la caja y la guacharaca, con rey de Reyes y categorías formativas",
+          "is_correct": true,
+          "feedback": "El festival institucionalizó la tradición del canto vallenato de juglaría, con competencias por categorías que relevan a nuevas generaciones."
+        },
+        {
+          "letter": "C",
+          "text": "Fue creado por la UNESCO como requisito para declarar patrimonio a Valledupar",
+          "is_correct": false,
+          "feedback": "El festival nació de voluntades locales y regionales años antes de cualquier declaratoria internacional."
+        },
+        {
+          "letter": "D",
+          "text": "Es un concurso de compositores de música docta de origen europeo",
+          "is_correct": false,
+          "feedback": "El vallenato es música popular de acordeón caribe, ajena a la tradición académica europea."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El vallenato narró en sus aires —paseo, merengue, son y puya— la vida de la región: sequías, amores, contrabandos y caudillos locales. Su festival muestra cómo una práctica oral puede protegerse con instituciones culturales: conciertos, escuelas de música y archivos de juglares. En términos patrimoniales, la música vallenata tradicional ha sido además objeto de salvaguardia nacional.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle-v5",
+      "statement": "La Ciudad Amurallada de Cartagena y las Islas del Rosario, inscrita en 1984, pertenece a la categoría de patrimonio",
+      "context": "Un estudiante de Santa Marta clasifica los sitios colombianos inscritos en la Lista del Patrimonio Mundial de la UNESCO para una feria escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inmaterial, porque las murallas solo existen en la memoria de los cartageneros",
+          "is_correct": false,
+          "feedback": "Las murallas son un bien tangible: la categoría inmaterial se reserva a prácticas culturales vivas."
+        },
+        {
+          "letter": "B",
+          "text": "Natural, porque las murallas fueron formaciones geológicas del litoral",
+          "is_correct": false,
+          "feedback": "Son obra de ingeniería militar colonial de los siglos XVI al XVIII, no un fenómeno natural."
+        },
+        {
+          "letter": "C",
+          "text": "Material o cultural, por su valor histórico como sistema de defensas del puerto caribeño del imperio español",
+          "is_correct": true,
+          "feedback": "Cartagena fue la primera inscripción colombiana en la lista de patrimonio mundial cultural, junto con el conjunto monumental de Bogotá ese mismo año."
+        },
+        {
+          "letter": "D",
+          "text": "Mixto, porque combina ecosistema de manglar con un teatro de ópera prehispánico",
+          "is_correct": false,
+          "feedback": "No hubo ópera prehispánica; la mezcla de criterios cultural y natural se reserva a sitios con ambos valores excepcionales documentados."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El sistema de defensas de Cartagena —Castillo Grande de San Felipe, murallas y boquetes— protegía la flota de la plata y los productos del Caribe; su trazado urbano colonial, con plazas y casas de portales, le valió la inscripción. Aprender a leer estos sitios como testimonio de poder imperial y de vida cotidiana es parte de la competencia de apropiación del patrimonio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle-v6",
+      "statement": "Los Monumentos Históricos de Santafé de Bogotá, inscritos por la UNESCO en 1984, protegen principalmente",
+      "context": "En un recorrido por el barrio La Candelaria de Bogotá, un curso de grado 11 anota casas coloniales, conventos y el trazado de calles del siglo XVI.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El trazado y los monumentos del centro histórico colonial de la capital",
+          "is_correct": true,
+          "feedback": "La inscripción cubre los conjuntos monumentales del centro histórico —Plaza de Bolívar, Capilla del Rosario, conventos y casas coloniales— de La Candelaria."
+        },
+        {
+          "letter": "B",
+          "text": "Los rascacielos financieros de la calle septuagésima",
+          "is_correct": false,
+          "feedback": "Los edificios modernos del norte bogotano no hacen parte del sitio inscrito."
+        },
+        {
+          "letter": "C",
+          "text": "Los cerros orientales como reserva biológica exclusiva",
+          "is_correct": false,
+          "feedback": "Los cerros son distrito de manejo integral y reserva forestal, otra categoría; la inscripción UNESCO es de monumentos históricos urbanos."
+        },
+        {
+          "letter": "D",
+          "text": "El sistema de transporte masivo de la ciudad",
+          "is_correct": false,
+          "feedback": "Transmilenio es una obra del siglo XXI, ajena al patrimonio colonial inscrito."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Candelaria conserva la traza de la fundación española de 1538 sobre la sabana muisca, con arquitectura religiosa y civil de tres siglos. Discutir su inscripción abre temas vigentes: gentrificación del centro, vivienda en edificios deteriorados y equilibrio entre turismo, comercio y vida residencial. El patrimonio material no solo se visita: se habita y se defiende.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle-v7",
+      "statement": "El Parque Arqueológico de San Agustín, inscrito por la UNESCO en 1995, destaca porque",
+      "context": "Un colegio de Neiva organiza un viaje al Parque Arqueológico de San Agustín, en el sur del Huila, y un estudiante prepara la guía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conserva pirámides de piedra tallada por civilizaciones del Caribe insular",
+          "is_correct": false,
+          "feedback": "En el Caribe insular no hubo pirámides de este tipo; el sitio agustiniano es andino-amazónico del sur del Huila."
+        },
+        {
+          "letter": "B",
+          "text": "Reúne manifestaciones religiosas y megalíticas de una cultura prehispánica de la región, con estatuas de guardianes funerarios",
+          "is_correct": true,
+          "feedback": "San Agustín agrupa parques de estatuas, sepulturas y monumentos megalíticos de la cultura agustiniana, testimonio de rituales funerarios hace más de mil años."
+        },
+        {
+          "letter": "C",
+          "text": "Fue una base militar española para vigilar el río Magdalena",
+          "is_correct": false,
+          "feedback": "Su valor es arqueológico prehispánico, no una instalación colonial."
+        },
+        {
+          "letter": "D",
+          "text": "Alberga la mina de esmeraldas explotada desde el periodo colonial",
+          "is_correct": false,
+          "feedback": "Las esmeraldas se asocian con Muzo y Chivor; el parque de San Agustín protege otro patrimonio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las estatuas de San Agustín —guardianes, chamanes y figuras con máscaras de jaguar— son las manifestaciones megalíticas más densas de Suramérica y documentan una sociedad sin escritura con complejas creencias sobre la muerte. Estudiarlas permite valorar la Colombia prehispánica más allá de los muiscas y taironas, y discutir cómo se protegen sitios rurales frente a expolios y deterioro ambiental.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle-v8",
+      "statement": "El Paisaje Cultural Cafetero, que abarca paisajes de fincas, arquitectura y cultura del café en Caldas, Risaralda, Quindío y el norte del Valle, es patrimonial porque",
+      "context": "En un foro en Manizales se discute la inscripción del Paisaje Cultural Cafetero en la UNESCO en 2011.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Protege las plantaciones de caña de azúcar del valle del Cauca",
+          "is_correct": false,
+          "feedback": "El bien inscrito es del eje cafetero andino, no de la agroindustria azucarera del valle geográfico del Cauca."
+        },
+        {
+          "letter": "B",
+          "text": "Conserva montañas naturales vírgenes sin presencia humana",
+          "is_correct": false,
+          "feedback": "Es un paisaje cultural: su valor nace justamente de siglos de trabajo humano cafetero."
+        },
+        {
+          "letter": "C",
+          "text": "Muestra la interacción centenaria entre el medio andino y una cultura campesina del café, con viviendas, caminos y prácticas sociales singulares",
+          "is_correct": true,
+          "feedback": "La UNESCO lo inscribió en 2011 como paisaje cultural: la colonización antioqueña y el café modelaron un territorio y una identidad reconocidos mundialmente."
+        },
+        {
+          "letter": "D",
+          "text": "Delimita áreas donde está prohibida toda actividad agrícola comercial",
+          "is_correct": false,
+          "feedback": "Al contrario: es un territorio productivo vivo que combina agricultura, turismo y centralidad cafetera."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Paisaje Cultural Cafetero es un buen ejemplo de categoría patrimonial integral: no protege un edificio sino la relación entre geografía, economía familiar y cultura. Su discusión incluye los riesgos actuales —caída de precios, caficultura de altura y presiones inmobiliarias—, lo que permite analizar cómo el patrimonio vivo se sostiene con política pública y mercado justos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle-v9",
+      "statement": "El Carnaval de Negros y Blancos de Pasto, inscrito en 2009 por la UNESCO en las listas de patrimonio cultural inmaterial, expresa principalmente",
+      "context": "Una estudiante de Pasto describe en clase el 4 y 6 de enero, cuando su ciudad se cubre de polvo y pintura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una conmemoración militar de la independencia de Nariño",
+          "is_correct": false,
+          "feedback": "Su lógica es festiva y de sincretismo, no una efeméride castrense."
+        },
+        {
+          "letter": "B",
+          "text": "Un ritual prehispánico puro sin aportes coloniales posteriores",
+          "is_correct": false,
+          "feedback": "Es un sincretismo: reúne matrices indígenas de solsticio y siembra, devoción católica y crítica social del juego colonial."
+        },
+        {
+          "letter": "C",
+          "text": "Una feria agropecuaria organizada por el gremio ganadero local",
+          "is_correct": false,
+          "feedback": "Sus componentes de cabalgata y ferias existen, pero el núcleo del carnaval es simbólico y festivo-popular."
+        },
+        {
+          "letter": "D",
+          "text": "La fiesta del mestizaje: el Día de los Negros y el Día de los Blancos invierten y mezclan jerarquías raciales mediante juego, agua, polvo y comparsas",
+          "is_correct": true,
+          "feedback": "La fiesta desordena por días las etiquetas de raza y clase con agua y polvo: una pedagogía popular de la convivencia diversa."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Inscrito como patrimonio inmaterial en 2009, el carnaval pastuso muestra cómo una celebración puede ser a la vez crítica social y cohesión comunitaria: familias enteras construyen escenografías y vacilan el orden habitual durante dos jornadas. Compararlo con Barranquilla permite generalizar la idea de que el carnaval colombiano es un laboratorio de identidad y de memoria racial.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle-v10",
+      "statement": "La música del Pacífico sur colombiano —currulao, seis y alabaos alrededor de la marimba chonta— es patrimonio cultural porque",
+      "context": "En una clase de Cali se escucha un currulao grabado en el bajo San Juan y un estudiante pregunta por la marimba del Pacífico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un género importado recientemente del Caribe insular angloparlante",
+          "is_correct": false,
+          "feedback": "Tiene raíces coloniales afrocolombianas del Pacífico; no es una importación caribeña reciente."
+        },
+        {
+          "letter": "B",
+          "text": "Conserva técnicas artesanales de la marimba, cantos de trabajo, rito y memoria de las comunidades afrodescendientes del Atrato, San Juan y Baudó",
+          "is_correct": true,
+          "feedback": "La marimba, sus tambores cununo y cabor y los cantos de velorio y trabajo forman un sistema cultural afrocolombiano que la UNESCO inscribió en sus listas de patrimonio inmaterial."
+        },
+        {
+          "letter": "C",
+          "text": "Depende exclusivamente de la industria del entretenimiento de Bogotá",
+          "is_correct": false,
+          "feedback": "Su reproducción viene de escuelas de música de casa, festivales locales ytradición oral de las comunidades ribereñas."
+        },
+        {
+          "letter": "D",
+          "text": "Fue declarada patrimonio solo por su valor turístico internacional",
+          "is_correct": false,
+          "feedback": "Las declaratorias reconocen valores culturales, sociales e identitarios; el turismo es una consecuencia posible, no el fundamento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Pacífico musical es también Pacífico fluvial: la marimba se toca en el arrullo del río y acompaña faenas, matrimonios y velorios. Su inscripción en las listas de salvaguardia de la UNESCO —música de marimba, cantos de trabajo— recuerda que proteger patrimonio inmaterial es proteger condiciones de vida: bosques de chonta, ríos limpios y comunidades que los sostienen.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle-v11",
+      "statement": "La Ley General de Cultura (Ley 397 de 1997) se considera un hito institucional porque",
+      "context": "En un colegio de Medellín se analiza por qué Colombia cuenta con una ley general de cultura desde 1997.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disolvió el Ministerio de Cultura para transferir sus funciones a las gobernaciones",
+          "is_correct": false,
+          "feedback": "Ocurrió al revés: la ley creó el Ministerio de Cultura como entidad del orden nacional."
+        },
+        {
+          "letter": "B",
+          "text": "Ordenó censar y prohibir las músicas regionales no castellanoparlantes",
+          "is_correct": false,
+          "feedback": "Nada semejante: la ley promueve la diversidad, incluida la de lenguas y músicas."
+        },
+        {
+          "letter": "C",
+          "text": "Creó el Ministerio de Cultura, un sistema nacional de competencias y fondos de promoción, y reguló los consejos consultivos de patrimonio y las declaraciones de bienes",
+          "is_correct": true,
+          "feedback": "La ley 397 organizó la institucionalidad cultural: ministerio, fondos, consejos y el catálogo nacional con la figura de bien de interés cultural."
+        },
+        {
+          "letter": "D",
+          "text": "Estableció el voto obligatorio en los consejos de cultura locales",
+          "is_correct": false,
+          "feedback": "Los consejos son corporaciones de participación y representación, pero no se eligen por voto obligatorio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Antes de 1997 la política cultural colombiana operaba con estructuras menores; la ley creó el Ministerio por conversión del antiguo Instituto Nacional de Cultura y trazó el marco de los planes decenales, los PNT y las convocatorias de fondos. Analizarla como arquitectura institucional permite entender cómo se financia y decide la cultura, y por qué los estudiantes pueden participar en consejos y estímulos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle-v12",
+      "statement": "La clasificación patrimonial correcta en esa lista es",
+      "context": "Un estudiante de Popayán clasifica bienes en una tabla: el centro histórico de la ciudad, el canto de los arrieros, el puente Páez y las tradiciones de su Semana Santa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos son patrimonio material, porque existen en el departamento del Cauca",
+          "is_correct": false,
+          "feedback": "El lugar de existencia no define la categoría; un canto no es un objeto."
+        },
+        {
+          "letter": "B",
+          "text": "El centro histórico y el puente son patrimonio material; los cantos y las fiestas son patrimonio inmaterial",
+          "is_correct": true,
+          "feedback": "Los bienes inmuebles tangibles —traza urbana, puente— son materiales; las prácticas vivas transmitidas —canto, fiesta— son inmateriales."
+        },
+        {
+          "letter": "C",
+          "text": "El canto es material porque se graba en discos, y el puente es inmaterial porque no tiene escritura",
+          "is_correct": false,
+          "feedback": "Confunde soporte físico con naturaleza del bien: la grabación documenta, no materializa el patrimonio inmaterial."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno es patrimonio, porque la UNESCO no los ha inscrito individualmente",
+          "is_correct": false,
+          "feedback": "El patrimonio existe por valoración social y declaratorias nacionales y locales; la UNESCO es solo un reconocimiento internacional adicional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Popayán ilustra la convivencia de las dos dimensiones: su centro histórico y su arquitectura religiosa son bienes materiales —con declaratorias internacionales—, y su Semana Santa y fiestas populares son expresiones inmateriales que los sostienen. Distinguir ambas categorías evita el error de proteger solo piedras y olvidar a las comunidades que les dan sentido.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle-v13",
+      "statement": "El caso de Mompox —ciudad mudéjar barroca, patrimonio mundial, con arquitectura testimonial y economía local frágil— se analiza mejor al sostener que",
+      "context": "Un grupo de estudiantes de Cartagena lee sobre Santa Cruz de Mompox, inscrita por la UNESCO en 1995, y su proceso de deterioro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La inscripción UNESCO resolvió automáticamente los problemas de conservación de la ciudad",
+          "is_correct": false,
+          "feedback": "La declaratoria da visibilidad y marco de protección, pero no garantiza recursos, mantenimiento ni desarrollo económico."
+        },
+        {
+          "letter": "B",
+          "text": "El patrimonio de Mompox es irrelevante porque la ciudad perdió su función portuativa original",
+          "is_correct": false,
+          "feedback": "Su valor histórico-artístico permanece y su economía actual mira al patrimonio y al río; la pérdida del comercio colonial no borra el bien."
+        },
+        {
+          "letter": "C",
+          "text": "Proteger el patrimonio exige articular conservación, hábitat y economía local, pues sin servicios, empleo y vivienda digna los inmuebles se degradan y la población emigra",
+          "is_correct": true,
+          "feedback": "Mompox evidencia la ecuación clásica: sin comunidad que habite y sostenga la ciudad, la piedra inscrita en papel se deteriora."
+        },
+        {
+          "letter": "D",
+          "text": "La única salida es demoler lo colonial y construir infraestructura moderna",
+          "is_correct": false,
+          "feedback": "Eliminar el bien inscrito violaría los compromisos de protección y destruiría el principal recurso histórico y turístico de la ciudad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Mompox, ciudad clave del oro y del tráfico colonial sobre el Magdalena, conserva una traza y un barroco mudéjar únicos; sus retos —inundaciones, desempleo, envejecimiento del caserío— muestran la brecha entre declaratoria y gestión. Este caso prepara el análisis crítico de la pregunta siguiente: qué tipo de turismo y qué política pública hacen que el patrimonio sea desarrollo y no decorado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle-v14",
+      "statement": "El tratamiento constitucional de la diversidad cultural entre 1886 y 1991 cambió porque",
+      "context": "Un estudiante de Barranquilla compara la Constitución de 1886 con la de 1991 frente al reconocimiento de la diversidad cultural y lingüística del país.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1886 ya protegía todos los idiomas nativos y 1991 los restringió al ámbito familiar",
+          "is_correct": false,
+          "feedback": "El orden de la historia es inverso: 1886 asumió la unidad castellana y católica; 1991 abrió la protección de la diversidad."
+        },
+        {
+          "letter": "B",
+          "text": "1886 reflejó el proyecto homogeneizador del Estado-nación católico y castellanohablante, mientras 1991 reconoció la pluralidad étnica y cultural y mandó proteger lenguas y patrimonios",
+          "is_correct": true,
+          "feedback": "La Regeneración buscó una identidad única; la Constitución del 91, en cambio, elevó la diversidad a principio y mandato de protección."
+        },
+        {
+          "letter": "C",
+          "text": "La Corte Constitucional prohibió en 1991 la enseñanza de lenguas indígenas por considerarlas segregacionistas",
+          "is_correct": false,
+          "feedback": "Aconteció lo contrario: se ordenó protegerlas y se abrió la vía de la etnoeducación."
+        },
+        {
+          "letter": "D",
+          "text": "Las dos Constituciones ignoraron por completo el tema cultural",
+          "is_correct": false,
+          "feedback": "1886 tenía una política cultural explícita de homogeneización; 1991 una de reconocimiento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La transición va de la idea de 'residuos' de razas a extinguir hacia la nación pluriétnica y los derechos culturales: artículo 7 (interés de la diversidad), artículo 10 (lenguas), artículos 63, 70 y 72 (patrimonio como bien inalienable y deber estatal). Este andamiaje explica la actual institucionalidad de lenguas, consejos comunitarios y declaratorias, y permite leer el patrimonio como derecho, no solo como decoración turística.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle-v15",
+      "statement": "La construcción de un repertorio 'nacional' como el bambuco —y festivales como el Aguinaldo Boyacense de Tunja— se entiende mejor al analizar que",
+      "context": "En un colegio de Tunja se estudia el Aguinaldo Boyacense y su bambuco, y una estudiante pregunta por qué el bambuco fue considerado música nacional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fue una imposición extranjera sin compositores ni públicos colombianos",
+          "is_correct": false,
+          "feedback": "El bambuco es creación de compositores, poetas y públicos del altiplano cundiboyacense y de otras zonas andinas del país."
+        },
+        {
+          "letter": "B",
+          "text": "Las élites culturales buscaron símbolos sonoros que unieran regiones diversas dentro de una narrativa de nación",
+          "is_correct": true,
+          "feedback": "Del centenario de 1910 a la emisora y el festival, se construyó un canon folclórico nacional que seleccionó ciertas músicas y dejó otras al margen."
+        },
+        {
+          "letter": "C",
+          "text": "El bambuco desplazó por completo a las músicas del Caribe y el Pacífico desde 1900",
+          "is_correct": false,
+          "feedback": "Nunca las desplazó: convivieron regiones musicales sin una jerarquía real de suplantación."
+        },
+        {
+          "letter": "D",
+          "text": "Los festivales regionales surgieron sin intervención del Estado ni de emisoras",
+          "is_correct": false,
+          "feedback": "Fondos, radio y política cultural participaron activamente en su consolidación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Nombrar una música 'nacional' es un acto político: incluye y excluye. El caso del bambuco frente a la cumbia o la marimba muestra cómo el canon folclórico reflejó durante décadas un imaginario andino, mientras las músicas de las costas y del Pacífico lucharon por reconocimiento. Analizar estos procesos desarrolla la competencia de interpretación de representaciones sociales y culturales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle-v16",
+      "statement": "El joropo llanero como patrimonio ilustra un patrón común de las culturas vivas, que es",
+      "context": "Un estudiante de Yopal presenta el joropo llanero: arpa, bandola, cuatro, zapateo y toros coleados en las fiestas del Silencio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que una cultura regional solo sobrevive cuando se convierte en espectáculo para turistas",
+          "is_correct": false,
+          "feedback": "El joropo vivió durante siglos en vaquerías y reuniones familiares; el escenario turístico no es condición de existencia."
+        },
+        {
+          "letter": "B",
+          "text": "Que las prácticas patrimoniales se trasmiten de forma oral y corporal, se adaptan a nuevos contextos y enfrentan riesgos como la migración juvenil",
+          "is_correct": true,
+          "feedback": "El joropo se aprende de oído y de cuerpo en el llano; hoy convive con diásporas juveniles urbanas, festivals y nuevas estéticas que lo transforman sin romperlo."
+        },
+        {
+          "letter": "C",
+          "text": "Que el Estado define la autenticidad de una música y sanciona sus variantes",
+          "is_correct": false,
+          "feedback": "Las variantes —joropo centraleño, llanero, alto— enriquecen la tradición; no existe ministerio de autenticidad musical."
+        },
+        {
+          "letter": "D",
+          "text": "Que el patrimonio inmaterial requiere forzosamente inscripción internacional para existir",
+          "is_correct": false,
+          "feedback": "Las prácticas existen y se transmiten con o sin UNESCO; la inscripción aporta visibilidad y compromiso de salvaguardia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El caso llanero muestra la tensión permanente del patrimonio vivo entre tradición y cambio: el zapateo sigue enseñándose en casas y escuelas de música, mientras migración y medios reconfiguran sus públicos. Este análisis alimenta la competencia de valorar la diversidad como proceso y no como pieza de museo, idea nuclear de los estándares de grado 11.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle-v17",
+      "statement": "La evaluación más correcta de esa afirmación es que",
+      "context": "En un debate escolar en Cali, un estudiante sostiene: 'patrimonio es únicamente lo que declara la UNESCO'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es acertada, porque sin el visto bueno internacional los bienes no tienen valor real para nadie",
+          "is_correct": false,
+          "feedback": "Millones de personas sostienen patrimonios locales y nacionales que no tienen ni necesitan inscripción internacional."
+        },
+        {
+          "letter": "B",
+          "text": "Es limitada: la UNESCO aporta un reconocimiento global útil, pero el patrimonio se define por valores históricos, simbólicos y sociales que comunidades, leyes y catálogos nacionales declaran y protegen",
+          "is_correct": true,
+          "feedback": "Los artículos 63 y 72 de la Constitución, la Ley 397 de 1997 y los planes de ordenamiento declaran bienes de interés cultural; la lista UNESCO es solo una capa adicional."
+        },
+        {
+          "letter": "C",
+          "text": "Es errónea, porque Colombia no tiene ningún bien inscrito por la UNESCO",
+          "is_correct": false,
+          "feedback": "Falso: el país cuenta con decenas de inscripciones materiales e inmateriales desde 1984."
+        },
+        {
+          "letter": "D",
+          "text": "Es acertada, porque la UNESCO es un organismo con poder vinculante sobre las leyes colombianas",
+          "is_correct": false,
+          "feedback": "Sus convenciones requieren aprobación interna; la UNESCO no legisla ni obliga directamente al Congreso colombiano."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reducir el patrimonio a la marca UNESCO equivale a externalizar la memoria: la definición social del patrimonio —lo que una comunidad estima digno de legarse— es anterior y más amplia que cualquier declaratoria. Esta pregunta entrena el pensamiento crítico frente al valor de uso y de mercado de las etiquetas internacionales, y refuerza la apropiación ciudadana del patrimonio propio.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle-v18",
+      "statement": "La valoración más equilibrada de la relación turismo-patrimonio en ese debate es que",
+      "context": "En un consejo de gobierno escolar en Cartagena se debate el impacto del turismo de cruceros y del alquiler turístico sobre los habitantes del centro histórico amurallado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todo turismo debe prohibirse cerca de los sitios patrimoniales para conservarlos",
+          "is_correct": false,
+          "feedback": "El turismo bien gestionado aporta recursos y legitimidad social para la conservación; prohibirlo no es la única ni la mejor opción."
+        },
+        {
+          "letter": "B",
+          "text": "El turismo resuelve solo todos los problemas de la ciudad amurallada",
+          "is_correct": false,
+          "feedback": "Sin reglas, el turismo puede expulsar residentes, inflar precios y banalizar la cultura."
+        },
+        {
+          "letter": "C",
+          "text": "El turismo es un aliado de la conservación cuando existe regulación —alojamiento, cargas, vivienda— y reparto de beneficios con la comunidad; sin reglas, degrada el patrimonio al convertirlo en decorado",
+          "is_correct": true,
+          "feedback": "La evidencia muestra ambos polos: ciudades patrimoniales vivas y centros históricos despoblados por el alquiler turístico intensivo."
+        },
+        {
+          "letter": "D",
+          "text": "La población local es un obstáculo para el patrimonio y conviene reubicarla en la periferia",
+          "is_correct": false,
+          "feedback": "Sin habitantes el casco histórico se vuelve escenario vacío; el patrimonio vivo exige comunidad residente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cartagena encarna el dilema del patrimonializado exitoso: declaratorias, cruceros y valorización inmobiliaria frente a costo de vida, migración de vecinos tradicionales y folklorización. Evaluar políticas como los planes especiales de manejo y las reglas de uso de suelo enseña a ponderar derechos —vivienda, trabajo, cultura— en conflicto, competencia esencial del ciudadano de grado 11.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle-v19",
+      "statement": "Esa afirmación debe evaluarse como",
+      "context": "En un foro virtual entre colegios de Bogotá, Leticia y San Andrés, un estudiante escribe: 'las diferencias regionales y culturales debilitan la identidad nacional'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sólida, porque la historia muestra que los países diversos culturalmente no funcionan como Estados",
+          "is_correct": false,
+          "feedback": "Numerosos Estados estables —muchos latinoamericanos y europeos— se sostienen sobre reconocimiento de su diversidad interna."
+        },
+        {
+          "letter": "B",
+          "text": "Falsa, porque en Colombia no existen diferencias culturales reales",
+          "is_correct": false,
+          "feedback": "La evidencia antropológica y lingüística documenta una de las mayores diversidades del continente."
+        },
+        {
+          "letter": "C",
+          "text": "Falsa: la identidad nacional no se construye por homogeneidad sino como relato inclusivo que reconoce lenguas, músicas, cocinas y memorias regionales; debilitarla es la discriminación, no la diferencia",
+          "is_correct": true,
+          "feedback": "Los artículos 7 y 70 de la Constitución consagran la diversidad como riqueza; la nación se lee como conversación entre diferencias, no como monólogo."
+        },
+        {
+          "letter": "D",
+          "text": "Sólida, porque el Estado debe imponer una sola lengua, una sola música y una sola fiesta oficial",
+          "is_correct": false,
+          "feedback": "La homogeneización forzada contradice la Constitución vigente y la experiencia comparada de conflictos identitarios."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar el relato nacional exige distinguir entre identidad como homogeneidad impuesta y identidad como pacto entre diferencias. El caso colombiano —país de regiones aisladas por la geografía que inventó símbolos comunes sin borrar los propios— muestra que la cohesión se construye reconociendo la pluralidad, y que el racismo y la discriminación, no la diferencia, son los factores que fracturan la convivencia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle-v20",
+      "statement": "Frente al caso, la valoración más sólida sobre la protección jurídica del patrimonio es que",
+      "context": "El consejo estudiantil de un colegio de Cúcuta analiza si la ley es suficiente para proteger el patrimonio cultural del municipio, donde una casa republicana acaba de ser demolida para construir parqueaderos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las normas bastan por sí solas: demolida una casa, basta sancionar en el papel y el patrimonio queda protegido",
+          "is_correct": false,
+          "feedback": "La experiencia muestra que la norma sin control, presupuesto y cultura ciudadana se incumple de manera sistemática."
+        },
+        {
+          "letter": "B",
+          "text": "El patrimonio no puede protegerse legalmente porque la propiedad privada es absoluta",
+          "is_correct": false,
+          "feedback": "La Constitución declara los bienes de interés cultural inalienables e imprescriptibles y sometidos a límites de propiedad en aras del interés social."
+        },
+        {
+          "letter": "C",
+          "text": "Debe eliminarse toda declaratoria patrimonial para liberar la inversión inmobiliaria",
+          "is_correct": false,
+          "feedback": "Esa opción sacrifica memoria, turismo cultural y cohesión social, y contradice los artículos 7, 63 y 72 de la Constitución."
+        },
+        {
+          "letter": "D",
+          "text": "La protección es eficaz solo cuando combina norma —catalogación y POT—, capacidad de vigilancia y sanción, incentivos a propietarios y valoración social del patrimonio por parte de la comunidad",
+          "is_correct": true,
+          "feedback": "El control urbanístico, los incentivos tributarios y la apropiación ciudadana funcionan como un sistema; la demolición de un bien catalogado revela fallas encadenadas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El caso cucuteño condensa el bundle: el patrimonio se sostiene con una gobernanza multinivel —nación, departamento, municipio— y con comunidades que reconocen el valor de legar memoria. Para el grado 11, evaluar estas políticas con un caso concreto permite integrar conocimientos jurídicos, urbanos y culturales, y formar ciudadanos capaces de intervenir en la discusión pública de su territorio.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.5,
+      "bundle_id": "CO-SOC-11-2026-W08-diversidad-cultural-y-patrimonio-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

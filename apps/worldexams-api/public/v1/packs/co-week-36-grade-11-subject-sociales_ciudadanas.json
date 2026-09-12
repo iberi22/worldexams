@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-36-grade-11-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-12T16:46:07.598Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle-v1",
+      "statement": "El artículo 20 de la Constitución de 1991 garantiza",
+      "context": "En un club de medios de un colegio de Zipaquirá se revisan los derechos comunicativos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La libertad de expresar y difundir libremente pensamientos y opiniones, y el derecho a recibir información veraz e imparcial",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la doble garantía del artículo 20: emitir e informar verazmente."
+        },
+        {
+          "letter": "B",
+          "text": "La propiedad estatal exclusiva de todos los medios de comunicación",
+          "is_correct": false,
+          "feedback": "La Constitución permite medios privados, públicos y comunitarios; no estatuye un monopolio."
+        },
+        {
+          "letter": "C",
+          "text": "La obligación de toda persona de publicar sus opiniones en redes sociales",
+          "is_correct": false,
+          "feedback": "La libertad de expresión incluye el derecho a no expresarse; forzar la publicación la destruiría."
+        },
+        {
+          "letter": "D",
+          "text": "La censura previa de contenidos ofensivos decidida por la Policía",
+          "is_correct": false,
+          "feedback": "El artículo 73 prohíbe expresamente la censura."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El artículo 20 garantiza la libertad de expresar y difundir pensamientos y opiniones, y el derecho a recibir información veraz e imparcial, con responsabilidad social de los medios según el mismo precepto. Es pilar de la democracia: sin flujo libre de información informado no hay consentimiento ni control. La veracidad y la imparcialidad son límites y deberes, no concesiones del Estado.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle-v2",
+      "statement": "La prohibición de la censura en Colombia está consagrada principalmente en el",
+      "context": "Un estudiante de Barrancabermeja pregunta por qué las televisoras no pueden ser cerradas por incomodar a un gobernador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Artículo 73, que garantiza la libertad de información y prohíbe la censura",
+          "is_correct": true,
+          "feedback": "Correcto. El artículo 73 declara la libertad de información y veta la censura."
+        },
+        {
+          "letter": "B",
+          "text": "Artículo 1, que define al Estado como unitario",
+          "is_correct": false,
+          "feedback": "El artículo 1 no regula medios ni censura."
+        },
+        {
+          "letter": "C",
+          "text": "Artículo 150, sobre atribuciones del Congreso",
+          "is_correct": false,
+          "feedback": "Las atribuciones legislativas no contienen la prohibición de censura."
+        },
+        {
+          "letter": "D",
+          "text": "Artículo 29, sobre el debido proceso",
+          "is_correct": false,
+          "feedback": "El debido proceso protege ante sanciones y jueces, no define la censura previa informativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El artículo 73 consagra la libertad de información y la prohibición de la censura, ordena la reglamentación del monopolio de medios por el Estado y garantiza el acceso a medios comunitarios y educativos. Su lógica es clara: el poder público no puede decidir de antemano qué puede decirse sobre él. La censura solo se concibe, en derecho internacional, como responsabilidad posterior excepcional, no como silencio previo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle-v3",
+      "statement": "Se llama \"periodismo ciudadano\" a",
+      "context": "Un grupo de estudiantes de Chía documenta con celulares un bache gigante en la vía principal del pueblo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El trabajo exclusivo de periodistas con tarjeta profesional",
+          "is_correct": false,
+          "feedback": "Justo lo contrario: el periodismo ciudadano es practicado por personas sin formación ni cargo periodístico formal."
+        },
+        {
+          "letter": "B",
+          "text": "La recolección, publicación y difusión de noticias e información de interés público por personas ajenas a los medios profesionales, usualmente con apoyo digital",
+          "is_correct": true,
+          "feedback": "Correcto. Es producción informativa desde la ciudadanía, potenciada por plataformas digitales."
+        },
+        {
+          "letter": "C",
+          "text": "La propaganda oficial de las alcaldías en sus páginas web",
+          "is_correct": false,
+          "feedback": "La comunicación institucional emite desde el Estado; el periodismo ciudadano emite desde la sociedad."
+        },
+        {
+          "letter": "D",
+          "text": "El chisme de redes sociales sin interés colectivo",
+          "is_correct": false,
+          "feedback": "El periodismo ciudadano exige rigor y relevancia pública; el chisme no tiene estándares verificables."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El periodismo ciudadano democratiza la producción de información: un habitante que filma la inundación de su barrio, una madre que reporta el estado del comedor escolar o un estudiante que audita una obra pública ejercen vigilancia informativa. Su potencia crece con los teléfonos y las redes, pero asume deberes mínimos de verdad: identificar fuentes, contextualizar y no exponer inocentemente a terceros, como en el periodismo profesional.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle-v4",
+      "statement": "Una \"fake news\" o desinformación se caracteriza principalmente por",
+      "context": "En clase se debate por qué una foto real puede aun así ser noticia falsa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ser una información verdadera publicada por un medio pequeño",
+          "is_correct": false,
+          "feedback": "La veracidad y el tamaño del medio no definen la desinformación."
+        },
+        {
+          "letter": "B",
+          "text": "Ser contenido falso o manipulados difundido con apariencia de noticia, que puede causar daño público",
+          "is_correct": true,
+          "feedback": "Correcto. Falsedad más forma noticiosa es el núcleo del concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Publicar una opinión personal sobre un hecho real",
+          "is_correct": false,
+          "feedback": "La opinión sobre hechos reales es parte legítima del debate público."
+        },
+        {
+          "letter": "D",
+          "text": "Reproducir un comunicado de prensa oficial",
+          "is_correct": false,
+          "feedback": "Los comunicados oficiales son fuentes documentales; su publicación no es desinformación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "No toda información errónea es desinformación: la desinformación implica intención o negligencia grave frente a lo falso, y su efecto es degradar el debate público. En Colombia han circulado campañas falsas durante elecciones y paros, y la respuesta constitucional no es la censura previa sino el periodismo de verificación, la educación mediática y, excepcionalmente, la rectificación. Este es el terreno propio del pensamiento crítico ciudadano.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle-v5",
+      "statement": "Como ciudadano informativamente responsable, la primera acción procedente es",
+      "context": "Un video viral muestra un supuesto ataque en un barrio de Cali; la imagen no tiene fecha ni autor y una fuente oficial lo desmiente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Compartirlo para que otros lo verifiquen",
+          "is_correct": false,
+          "feedback": "Compartir multiplica el daño potencial antes de verificar: la regla es comprobar antes de difundir."
+        },
+        {
+          "letter": "B",
+          "text": "Verificar la autoría, ubicación, fecha y contraste con fuentes oficiales y medios establecimientos antes de difundir",
+          "is_correct": true,
+          "feedback": "Correcto. Es el protocolo básico de verificación digital."
+        },
+        {
+          "letter": "C",
+          "text": "Editar el video para que se entienda mejor",
+          "is_correct": false,
+          "feedback": "Editar contenido ajeno sin contexto puede constituir manipulación y agravar el problema."
+        },
+        {
+          "letter": "D",
+          "text": "Ignorar siempre todo video viral sin excepción",
+          "is_correct": false,
+          "feedback": "Los videos ciudadanos también revelan abusos reales; el criterio es verificar, no desconfiar dogmáticamente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las técnicas de verificación —geolocalización, metadatos, búsqueda inversa de imágenes, triangulación con fuentes— forman la alfabetización mediática exigida por los estándares ciudadanos del MEN: interpretar medios y TIC, evaluar su credibilidad y usarlos críticamente. En contextos de conflicto local, difundir sin verificar puede provocar linchamientos, pánico o estigmatización de barrios: la cadena de daño empieza con el clic.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle-v6",
+      "statement": "La garantía de que el portal no puede ser obligado a revelar la identidad de su fuente se funda en",
+      "context": "Un portal estudiantil de Bucaramanga quiere publicar una entrevista con un denunciantes de irregularidades en un colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El secreto profesional del periodismo, reconocido constitucional y legalmente como cláusula de conciencia",
+          "is_correct": true,
+          "feedback": "Correcto. El artículo 73 y la jurisprudencia protegen la reserva de la fuente; la Ley 820 de 2003 desarrolló la profesión."
+        },
+        {
+          "letter": "B",
+          "text": "El derecho de hábeas corpus del denunciante",
+          "is_correct": false,
+          "feedback": "El hábeas corpus protege la libertad personal, no la confidencialidad de la fuente."
+        },
+        {
+          "letter": "C",
+          "text": "La autorización de la rectoría del colegio",
+          "is_correct": false,
+          "feedback": "La protección de la fuente no depende del poder presuntamente investigado."
+        },
+        {
+          "letter": "D",
+          "text": "El registro mercantil del portal digital",
+          "is_correct": false,
+          "feedback": "El registro societario es administrativo, no un blindaje periodístico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La reserva de la fuente es la piedra angular del periodismo de investigación: sin confianza de anonimato, las denuncias internas no salen. En Colombia, el artículo 73, la Ley 820 de 2003 sobre libertad de expresión e información, y el precedente de la Corte Constitucional protegen la cláusula de conciencia y el secreto profesional. El periodismo ciudadano que publica denuncias serias hereda ese estándar de protección y cuidado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle-v7",
+      "statement": "El mecanismo legal de protección del honor frente a información publicada, que no equivale a censura previa, es",
+      "context": "Un funcionario del municipio de Tausa exige a un medio digital local rectificar una información que él considera dañina para su honra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cierre definitivo del medio por orden del alcalde",
+          "is_correct": false,
+          "feedback": "Cerrar un medio por incomodar a un funcionario es censura prohibida por el artículo 73."
+        },
+        {
+          "letter": "B",
+          "text": "La acción de tutela, única vía para todo conflicto, sin otras opciones",
+          "is_correct": false,
+          "feedback": "La tutela es subsidiaria; existe un mecanismo específico de rectificación y las acciones civiles y penales comunes."
+        },
+        {
+          "letter": "C",
+          "text": "La rectificación, y eventualmente las acciones civiles o penales por calumnia e injuria, con carga de prueba del afectado",
+          "is_correct": true,
+          "feedback": "Correcto. La rectificación repara sin silenciar; el proceso posterior garantiza contradicción."
+        },
+        {
+          "letter": "D",
+          "text": "La orden de borrar toda huella digital del artículo",
+          "is_correct": false,
+          "feedback": "El borrado total sin debido proceso es eliminación de archivo público y mecanismo de encubrimiento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El honor (artículo 14, 21) y la libertad de información (artículos 20, 73) colisionan frecuentemente. El derecho colombiano privilegia la posterior responsabilidad: rectificación (artículo 20), conciliación y, en su caso, acciones por injuria o calumnia —despenalizadas parcialmente y reservadas a los supuestos más graves según jurisprudencia constitucional. La censura previa es la última alternativa, no la primera: el funcionario público soporta mayor escrutinio que el particular.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle-v8",
+      "statement": "Para ejercer el periodismo ciudadano con mayor protección frente a represalias, la estrategia adecuada incluye",
+      "context": "Un joven de Aguachica quiere denunciar en sus redes la contaminación del humedal de su barrio y teme por su nombre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Difundir datos personales de funcionarios sin evidencia como escarmiento",
+          "is_correct": false,
+          "feedback": "Eso agrava el riesgo legal y ético; no es periodismo, es exposición arbitraria."
+        },
+        {
+          "letter": "B",
+          "text": "Documentar con evidencia verificable, preservar el debido proceso informativo y recurrir a medios establecidos o a la Defensoría cuando haya riesgo",
+          "is_correct": true,
+          "feedback": "Correcto. La combinación de evidencia, canal institucional y acompañamiento reduce riesgos y aumenta efecto."
+        },
+        {
+          "letter": "C",
+          "text": "Esperar a que otro lo publique para no asumir consecuencias",
+          "is_correct": false,
+          "feedback": "La pasividad colectiva es la aliada de la impunidad; el periodismo ciudadano existe para asumirla responsablemente."
+        },
+        {
+          "letter": "D",
+          "text": "Crear una cuenta anónima dedicada exclusivamente a insultar",
+          "is_correct": false,
+          "feedback": "El insulto no informado carece de valor periodístico y puede constituir delito contra el honor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La denuncia ciudadana eficaz combina prueba (fotos con contexto, documentos oficiales, testigos), forma (redacción sobria, contraste con la parte señalada) y canal (medios, personería, Procuraduría, plataformas como la Defensoría del Pueblo). La autoría no es un obstáculo: puede protegerse su identidad ante terceros y la responsabilidad jurídica se mide por el contenido y su verificación, no por la identidad pública del emisor.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle-v9",
+      "statement": "El organismo encargado de regular y vigilar los servicios de comunicación audiovisual en Colombia es",
+      "context": "En un colegio de Rionegro se analiza quién regula la televisión en Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Superintendencia de Servicios Públicos Domiciliarios",
+          "is_correct": false,
+          "feedback": "La Superservicios vigila servicios domiciliarios como agua y energía, no contenidos audiovisuales."
+        },
+        {
+          "letter": "B",
+          "text": "La Autoridad Nacional de Televisión, ANTV, que reemplazó a la Comisión Nacional de Televisión",
+          "is_correct": true,
+          "feedback": "Correcto. La ANTV, creada por la Ley 182 de 1995 y reestructurada por la Ley 680 de 2001, regula el sector audiovisual."
+        },
+        {
+          "letter": "C",
+          "text": "El Ministerio de Cultura exclusivamente",
+          "is_correct": false,
+          "feedback": "El Ministerio formula políticas culturales; la regulación técnica y de contenidos recae en la Autoridad."
+        },
+        {
+          "letter": "D",
+          "text": "La Comisión de Acreditación Documental Electoral",
+          "is_correct": false,
+          "feedback": "No existe tal comisión como regulador audiovisual; la Registraduría organiza elecciones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El sistema de medios colombiano articula regulación (Autoridad Nacional de Televisión, hoy integrada al entorno del Ministerio TIC en reestructuraciones posteriores), servicio público audiovisual (RTVC, con Canal Capital y Señal Colombia), medios comunitarios con licencias especiales y medios privados. Comprender este entramado es clave para evaluar la independencia editorial frente a las presiones de concentración y publicidad estatal.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle-v10",
+      "statement": "El deber ético del medio, propio de la responsabilidad social del artículo 20, exige",
+      "context": "Un medio regional de Putumayo cubre la instalación de una obra pública y nota que la foto oficial es de otra obra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Publicar la foto oficial para no dañar la gestión del alcalde",
+          "is_correct": false,
+          "feedback": "Usar a sabiendas una imagen ajena falsea el hecho y viola el deber de veracidad."
+        },
+        {
+          "letter": "B",
+          "text": "Omitir la foto para evitar problemas con la administración",
+          "is_correct": false,
+          "feedback": "La autocensura por conveniencia económica o política erosiona la función informativa."
+        },
+        {
+          "letter": "C",
+          "text": "Verificar la identidad de la obra, señalar la discrepancia y ofrecer la versión de la autoridad para un cubrimiento contrastado",
+          "is_correct": true,
+          "feedback": "Correcto. Contraste, verificación y pluralidad de versiones son deberes deontológicos."
+        },
+        {
+          "letter": "D",
+          "text": "Inventar una explicación coherente para la foto",
+          "is_correct": false,
+          "feedback": "Fabricar explicaciones es ficción, no periodismo: aniquila la credibilidad del medio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La responsabilidad social de los medios (artículo 20) implica veracidad, imparcialidad y pluralismo como deberes, no opcionales: contrastar versiones, distinguir opinión de información, corregir errores con visibilidad y proteger fuentes y derechos de terceros. El cubrimiento de hechos públicos —obras, ceremonias, cifras— con rigor es lo que separa la información del ruido y sostiene la confianza que el espacio público necesita.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle-v11",
+      "statement": "El riesgo democrático de la concentración mediática y del uso discrecional de la publicidad estatal radica en que",
+      "context": "Una investigación compara la concentración de audiencias y de publicidad oficial en los grandes medios nacionales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reduce el número de empleos en el sector cultural del país",
+          "is_correct": false,
+          "feedback": "Es un efecto posible, pero no el riesgo democrático estructural del fenómeno."
+        },
+        {
+          "letter": "B",
+          "text": "Pluralismo formalmente garantizado puede convivir con un debate público alineado, porque la agenda y el tono se deciden por pocos actores y por incentivos económicos",
+          "is_correct": true,
+          "feedback": "Correcto. La diversidad de voces no se agota en la cantidad de medios: importa la autonomía editorial real."
+        },
+        {
+          "letter": "C",
+          "text": "Obliga constitucionalmente al Estado a comprar todos los medios privados",
+          "is_correct": false,
+          "feedback": "No hay mandato de estatización; la respuesta es regulación antimonopólica y distribución transparente de la pauta."
+        },
+        {
+          "letter": "D",
+          "text": "Solo afecta a los medios radiales comunitarios",
+          "is_correct": false,
+          "feedback": "El fenómeno impacta la estructura completa del debate, no un segmento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los artículos 20 y 73 exigen pluralismo informativo, que no es solo existencia de medios sino condiciones de competencia e independencia. La concentración de propiedad, la dependencia de la pauta oficial como premio o castigo, y los algoritmos que amplificarán afinidades, producen un mercado de ideas distorsionado. Analizar estos factores es esencial para comprender por qué el periodismo ciudadano y los medios comunitarios son infraestructura de contrapeso.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle-v12",
+      "statement": "Los ataques a periodistas y comunicadores ciudadanos durante manifestaciones afectan a la democracia porque",
+      "context": "El informe de la Fundación para la Libertad de Prensa (FLIP) documenta agresiones a comunicadores durante las jornadas de paro de 2021.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo perjudican económicamente a las empresas de medios",
+          "is_correct": false,
+          "feedback": "El daño central no es patrimonial: es la pérdida del bien público de información."
+        },
+        {
+          "letter": "B",
+          "text": "Generan autocensura, reducen el cubrimiento independiente y debilitan el registro público de los hechos, con efecto en todos los derechos",
+          "is_correct": true,
+          "feedback": "Correcto. Golpear al mensajero silencia a la sociedad sobre sí misma."
+        },
+        {
+          "letter": "C",
+          "text": "Son irrelevantes porque siempre existen otros que lo cuentan",
+          "is_correct": false,
+          "feedback": "La evidencia muestra huecos informativos en zonas sin cubrimiento, donde aumenta la opacidad y la impunidad."
+        },
+        {
+          "letter": "D",
+          "text": "Solo afectan a la libertad de empresa de los canales de televisión",
+          "is_correct": false,
+          "feedback": "La libertad de información es un derecho de la audiencia, no una prerrogativa empresarial."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Colombia tiene una de las tradiciones más violentas del hemisferio contra la prensa: los informes de FLIP y de la Relatoría de la OIDH muestran agresiones físicas, amenazas, estigmatización desde el poder, y el histórico fantasma de los comunicadores asesinados en regiones. Analizar estos hechos exige vincularlos con la impunidad: cuando agredir informa barato, el silencio se vuelve política, y el periodismo ciudadano es a la vez la primera víctima y la última línea de registro.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle-v13",
+      "statement": "La operación de granjas de bots para inflar tendencias y atacar adversarios compromete la democracia principalmente porque",
+      "context": "Un colegio de Neiva estudia el fenómeno de las granjas de bots en campaña electoral.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta la participación real de la ciudadanía en la deliberación pública",
+          "is_correct": false,
+          "feedback": "Simular conversación no es participación: es falsificación de consenso artificial."
+        },
+        {
+          "letter": "B",
+          "text": "Distorsiona la percepción de opinión mayoritaria, manipula la agenda pública y degrada las condiciones de libre formación de la voluntad ciudadana",
+          "is_correct": true,
+          "feedback": "Correcto. La manipulación de señales sociales falsea el mercado de ideas sobre el que descansa el voto libre."
+        },
+        {
+          "letter": "C",
+          "text": "Solo genera spam comercial irrelevante para la política",
+          "is_correct": false,
+          "feedback": "Su uso coordinado en campañas es precisamente un problema político central."
+        },
+        {
+          "letter": "D",
+          "text": "Garantiza la pluralidad al amplificar todas las voces",
+          "is_correct": false,
+          "feedback": "Amplifica voces fabricadas, que es lo opuesto a la pluralidad real."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los astroturfings y granjas de bots crean ilusiones de mayorías, acosan deliberantes reales y explotan la arquitectura de engagement de las plataformas. Frente a ellos, el derecho constitucional reacciona con límites: prohibición de compra de votos y manipulación (artículo 258), control de transparencia de publicidad política en plataformas, y el deber ciudadano de verificar. La integridad electoral comienza en la integridad de la conversación pública.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle-v14",
+      "statement": "Los \"news deserts\" o desiertos informativos preocupan constitucionalmente porque",
+      "context": "Se debate si los periódicos locales pueden cerrar y dejar \"desiertos de noticias\" en ciudades medias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El acceso a información local es presupuesto del control social y de decisiones cotidianas informadas",
+          "is_correct": true,
+          "feedback": "Correcto. Sin cubrimiento local, la corrupción y la mala gestión se vuelven invisibles."
+        },
+        {
+          "letter": "B",
+          "text": "Reducen el costo de vida de las comunidades afectadas",
+          "is_correct": false,
+          "feedback": "No hay relación con costos de vida; es un problema de bienes públicos comunicativos."
+        },
+        {
+          "letter": "C",
+          "text": "Obligado al Estado a financiar a todos los medios privados existentes",
+          "is_correct": false,
+          "feedback": "El Estado puede apoyar medios públicos y comunitarios, pero no financia a todos los privados."
+        },
+        {
+          "letter": "D",
+          "text": "Demuestran que la libertad de prensa sobra en Colombia",
+          "is_correct": false,
+          "feedback": "La conclusión inversa es la correcta: sin prensa no hay libertad efectiva."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecología informativa local es infraestructura democrática: consejos municipales, presupuesto local, servicios públicos y hechos de violencia se conocen por periodistas que viven allí. El cierre de medios locales, acelerado por la migración de pauta a plataformas globales, crea opacidad territorial y debilita la rendición de cuentas. La respuesta pública incluye fortalecimiento de medios comunitarios y educación mediática ciudadana.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle-v15",
+      "statement": "El análisis del caso como problema de competencias ciudadanas muestra que el rumor",
+      "context": "Un estudiante de Popayán difunde un rumor de un compañero en un grupo de WhatsApp escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Carece de importancia porque es un canal privado",
+          "is_correct": false,
+          "feedback": "Los canales privados producen daño público real: estigmatización y acoso escolar."
+        },
+        {
+          "letter": "B",
+          "text": "Ejemplifica el ejercicio irresponsable de la libertad de expresión: vulnera honra e intimidad (artículos 14, 15, 21) y puede configurar acoso con consecuencias para el autor",
+          "is_correct": true,
+          "feedback": "Correcto. La libertad de expresión no ampara la difusión de datos falsos o denigrantes, y los menores responden ante la ley penal juvenil."
+        },
+        {
+          "letter": "C",
+          "text": "Está protegido por el anonimato de las aplicaciones cerradas",
+          "is_correct": false,
+          "feedback": "El anonimato técnico no garantiza impunidad: existen trazas y responsabilidades."
+        },
+        {
+          "letter": "D",
+          "text": "Solo requiere una disculpa para cesar todo deber de reparación",
+          "is_correct": false,
+          "feedback": "La disculpa no agota la reparación del daño ni las medidas pedagógicas y disciplinarias del colegio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los estándares de competencia ciudadana incluyen la comunicación asertiva y la resolución no violenta de conflictos, y los de medios y TIC exigen uso responsable de la información. El caso escolar conecta con el digital: la viralidad no exime responsabilidad. La Constitución protege la honra (artículo 21) y la intimidad (artículo 15) y el Código de Infancia y Adolescencia, así como la Ley 1620 de 2013 de convivencia escolar, disciplinan las conductas de ciberacoso.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle-v16",
+      "statement": "El uso de inteligencia artificial generativa en periodismo ciudadano exige, para no degradar la función informativa, que",
+      "context": "Un portal ciudadano de Turbo, Urabá, cubre las elecciones y usa una herramienta de inteligencia artificial para redactar resúmenes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se oculte su uso al público para no perder lectores",
+          "is_correct": false,
+          "feedback": "Ocultar el proceso contradice la transparencia que legitima la información."
+        },
+        {
+          "letter": "B",
+          "text": "Se delegue totalmente la edición a la máquina para ahorrar costos",
+          "is_correct": false,
+          "feedback": "La máquina no responde por la verdad: la rendición de cuentas informativa sigue humana."
+        },
+        {
+          "letter": "C",
+          "text": "Se declare su uso, se verifiquen sus resultados y se preserve la responsabilidad editorial humana sobre la veracidad",
+          "is_correct": true,
+          "feedback": "Correcto. Transparencia, verificación y responsabilidad humana son las tres condiciones éticas."
+        },
+        {
+          "letter": "D",
+          "text": "Se use solo para traducir contenido, nunca para redactar",
+          "is_correct": false,
+          "feedback": "El problema no es la tarea sino el control humano sobre la verdad del contenido."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las herramientas generativas producen \"alucinaciones\" y sesgos documentados, por lo que las salas de redacción —desde la gran prensa hasta el portal comunitario— adoptan guías que combinan transparencia con el lector, supervisión humana y prohibición de publicar sin contrastar. El periodismo ciudadano que usa IA multiplica su capacidad y sus riesgos; la diferencia está en someter la técnica al deber de verdad, núcleo del artículo 20 constitucional.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle-v17",
+      "statement": "La evaluación constitucional de una propuesta así, a la luz del artículo 20 y de la doctrina de la Corte Constitucional, es que",
+      "context": "Se propone una ley para penalizar la difusión de \"contenido ofensivo contra autoridades\" en redes sociales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es plenamente válida, porque la honra de los funcionarios prevalece siempre sobre la crítica",
+          "is_correct": false,
+          "feedback": "La jurisprudencia es clara: los servidores públicos están expuestos a mayor escrutinio y crítica, incluso dura."
+        },
+        {
+          "letter": "B",
+          "text": "Es sospechosa de inconstitucionalidad, porque puede criminalizar la crítica política y operar como censura encubierta de la deliberación democrática",
+          "is_correct": true,
+          "feedback": "Correcto. El derecho penal solo procede frente a expresiones que inciten violencia o calumnien con dolo; ofender a la autoridad no es tipo legítimo."
+        },
+        {
+          "letter": "C",
+          "text": "Es necesaria, porque las redes sociales carecen de toda regulación",
+          "is_correct": false,
+          "feedback": "Las redes ya están sujetas a normas civiles, penales y de protección al consumidor digital."
+        },
+        {
+          "letter": "D",
+          "text": "Es inválida porque el artículo 20 prohíbe toda sanción posterior por expresiones",
+          "is_correct": false,
+          "feedback": "El artículo 20 consagra libertades con responsabilidad posterior; no elimina toda sanción."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El escrutinio estricto de restricciones a la expresión política es doctrina consolidada: la Corte Interamericana en el caso \"Kimel vs. Argentina\" (2008) y la Corte Constitucional colombiana han rechazado tipos penales que sancionan la ofensa a funcionarios, porque el debate sobre asuntos públicos debe estar \"abierto, robusto e irreverente\". Evaluar estas leyes es un ejercicio de jerarquización constitucional: la libertad política pesa más que la sensibilidad del poder.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.5,
+      "bundle_id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle-v18",
+      "statement": "La estrategia más sólida contra la desinformación, según la evidencia, combina",
+      "context": "Un colegio de Facatativá debate si basta con verificar o hace falta algo más frente a la desinformación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Verificación reactiva, prohibición total de redes sociales, y cierre de portales alternativos",
+          "is_correct": false,
+          "feedback": "Prohibir plataformas y silenciar medios alternativos es contraproducente y contrario a la Constitución."
+        },
+        {
+          "letter": "B",
+          "text": "Educación mediática desde la escuela, verificación profesional accesible, transparencia algorítmica de plataformas y respuesta rápida de las instituciones",
+          "is_correct": true,
+          "feedback": "Correcto. La evidencia privilegia la inoculación previa —resiliencia ciudadana— sobre el simple fact-checking tardío."
+        },
+        {
+          "letter": "C",
+          "text": "Dejar que el mercado de ideas autorregule sin ninguna intervención",
+          "is_correct": false,
+          "feedback": "El laissez-faire comunicacional funciona bien solo con condiciones de competencia que hoy fallan."
+        },
+        {
+          "letter": "D",
+          "text": "Censurar preventivamente toda información no confirmada oficialmente",
+          "is_correct": false,
+          "feedback": "Es la definición de censura del artículo 73: el silencio previo destruye la libertad de informar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La investigación en comunicación muestra que la desinformación se combate antes de que llegue: pensamiento crítico, alfabetización mediática y confianza institucional. Los verificadores (ColombiChequeo y aliados de IFCN) aportan rectificación, pero el efecto inoculación de la educación es más durable. Ninguna sociedad libre puede vigilar todos los clics: su mejor firewall es un ciudadano capaz de dudar antes de compartir.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.5,
+      "bundle_id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle-v19",
+      "statement": "La práctica de borrar o desplazar noticias críticas mediante presión a plataformas (\"derecho al olvido\" mal usado) se evalúa constitucionalmente como",
+      "context": "Un consejo municipal quiere contratar una \"agencia de contenidos\" para ocultar críticas en internet.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un ejercicio válido del derecho a la imagen sobre toda información que incomode a un funcionario",
+          "is_correct": false,
+          "feedback": "Los funcionarios soportan mayor escrutinio; la incomodidad no es causa de exclusión de información pública."
+        },
+        {
+          "letter": "B",
+          "text": "Una restricción posterior legítima en cualquier caso, sin control judicial",
+          "is_correct": false,
+          "feedback": "Toda exclusión de información de interés público exige ponderación y, en lo posible, control judicial."
+        },
+        {
+          "letter": "C",
+          "text": "Sospechosa de vulnerar el interés público de la información y la memoria documental, reservable a casos excepcionales de derechos de terceros con ponderación estricta",
+          "is_correct": true,
+          "feedback": "Correcto. El derecho al olvido no es un derecho a borrar la gestión pública."
+        },
+        {
+          "letter": "D",
+          "text": "Un mecanismo de ciberseguridad recomendado por la CIDH",
+          "is_correct": false,
+          "feedback": "La CIDH recomienda lo opuesto: máximas garantías para la circulación de información de interés público."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El \"derecho al olvido\" colombiano, desarrollado por la Corte Constitucional (SU-577 de 2014), protege la autodeterminación informativa frente a datos que, siendo ciertos, han perdido relevancia o causan daño desproporcionado. Su uso para invisibilizar la gestión pública invierte la lógica del artículo 74: la memoria administrativa es patrimonio de la sociedad, no una carga del poder. Distinguir estos límites es pensamiento jurídico crítico de alto nivel.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.45,
+      "bundle_id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle-v20",
+      "statement": "La afirmación más sólida sobre el futuro del periodismo ciudadano en la democracia colombiana es que",
+      "context": "En el cierre del tema, los estudiantes de un colegio de Duitama formulan un juicio sobre el futuro de la información.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estará de más cuando desaparezcan los medios tradicionales",
+          "is_correct": false,
+          "feedback": "La desaparición de los medios profesionales agravaría el déficit de verificación, no lo resolvería."
+        },
+        {
+          "letter": "B",
+          "text": "Su fuerza depende de que la ciudadanía combine libertades con responsabilidades: verificar, proteger derechos ajenos, sostener medios independientes y exigir pluralismo como bien público",
+          "is_correct": true,
+          "feedback": "Correcto. El periodismo ciudadano es un ecosistema de deberes compartidos, no una autopista de cualquier contenido."
+        },
+        {
+          "letter": "C",
+          "text": "Debe ser controlado por el gobierno para garantizar información veraz",
+          "is_correct": false,
+          "feedback": "El control gubernamental de contenidos es censura estructural, prohibida por el artículo 73."
+        },
+        {
+          "letter": "D",
+          "text": "Solo tiene valor si lo cita un medio nacional",
+          "is_correct": false,
+          "feedback": "Su valor está en cubrir vacíos locales que el medio nacional no alcanza: la cercanía es su potencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La libertad de información no es un estado sino una práctica: se pierde cuando se abandona y se conserva cuando se ejerce bien. Los estudiantes de grado 11 son hoy productores permanentes de contenido público, y el estándar del DBA los llama a interpretar críticamente los medios y a usarlos éticamente. Este bundle evalúa esas dos caras del ciudadano digital: sus derechos comunicativos y sus responsabilidades informativas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.45,
+      "bundle_id": "CO-SOC-11-2026-W36-periodismo-ciudadano-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

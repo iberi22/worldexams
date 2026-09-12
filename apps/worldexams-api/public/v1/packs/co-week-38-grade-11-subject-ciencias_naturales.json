@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-38-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T16:46:07.381Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle-v1",
+      "statement": "Un hidrocarburo es un compuesto orgánico formado principalmente por:",
+      "context": "En clase de química en Bogotá, se introduce el estudio de los hidrocarburos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Átomos de carbono e hidrógeno.",
+          "is_correct": true,
+          "feedback": "Los hidrocarburos están constituidos solo por C e H."
+        },
+        {
+          "letter": "B",
+          "text": "Carbono, hidrógeno y oxígeno.",
+          "is_correct": false,
+          "feedback": "Incluye oxígeno, es función oxigenada."
+        },
+        {
+          "letter": "C",
+          "text": "Carbono y nitrógeno exclusivamente.",
+          "is_correct": false,
+          "feedback": "Serían compuestos nitrogenados."
+        },
+        {
+          "letter": "D",
+          "text": "Hidrógeno y oxígeno.",
+          "is_correct": false,
+          "feedback": "No es un compuesto orgánico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los hidrocarburos son la base de la química orgánica y se clasifican en alcanos, alquenos, alquinos y aromáticos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle-v2",
+      "statement": "La fórmula general de los alcanos (hidrocarburos saturados acíclicos) es:",
+      "context": "En clase en Medellín, se estudia la fórmula general de los alcanos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "CₙH₂ₙ₊₂.",
+          "is_correct": true,
+          "feedback": "Caracteriza parafinas con enlaces simples."
+        },
+        {
+          "letter": "B",
+          "text": "CₙH₂ₙ.",
+          "is_correct": false,
+          "feedback": "Corresponde a alquenos o cicloalcanos."
+        },
+        {
+          "letter": "C",
+          "text": "CₙH₂ₙ₋₂.",
+          "is_correct": false,
+          "feedback": "Corresponde a alquinos o dienos."
+        },
+        {
+          "letter": "D",
+          "text": "CₙH₂ₙ₋₆.",
+          "is_correct": false,
+          "feedback": "Fórmula de arenos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los alcanos tienen solo enlaces simples C-C y su fórmula general depende del número n de carbonos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué los alquenos son más reactivos que los alcanos?",
+      "context": "En un laboratorio en Cali, se compara la reactividad del etano y el eteno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque contienen un enlace doble C=C que puede actuar como sitio reactivo en adiciones.",
+          "is_correct": true,
+          "feedback": "El doble enlace es una zona de alta densidad electrónica."
+        },
+        {
+          "letter": "B",
+          "text": "Porque tienen menos carbonos.",
+          "is_correct": false,
+          "feedback": "La reactividad no depende del número de carbonos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque carecen de hidrógeno.",
+          "is_correct": false,
+          "feedback": "Sí contienen hidrógeno."
+        },
+        {
+          "letter": "D",
+          "text": "Porque forman sales inorgánicas.",
+          "is_correct": false,
+          "feedback": "No es característico de alquenos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El enlace pi del doble enlace C=C es más débil y más susceptible a reacciones de adición electrofílica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.84,
+      "bundle_id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle-v4",
+      "statement": "El benceno (C₆H₆) es considerado un hidrocarburo aromático porque:",
+      "context": "En clase en Barranquilla, se analiza la estructura del benceno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tiene un olor dulce intenso.",
+          "is_correct": false,
+          "feedback": "El olor no es criterio de aromaticidad."
+        },
+        {
+          "letter": "B",
+          "text": "Está formado por una cadena lineal de seis carbonos.",
+          "is_correct": false,
+          "feedback": "Su estructura es cíclica."
+        },
+        {
+          "letter": "C",
+          "text": "Posee un sistema cíclico con electrones π deslocalizados que le confieren estabilidad especial.",
+          "is_correct": true,
+          "feedback": "La aromaticidad se debe a la deslocalización electrónica."
+        },
+        {
+          "letter": "D",
+          "text": "Contiene un triple enlace.",
+          "is_correct": false,
+          "feedback": "Contiene enlaces resonantes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La aromaticidad según Hückel requiere 4n+2 electrones π en un sistema cíclico plano.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.84,
+      "bundle_id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el nombre IUPAC del compuesto CH₃-CH₂-CH₂-CH₃?",
+      "context": "En un ejercicio en Bucaramanga, se nombran alcanos según la IUPAC.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Butano.",
+          "is_correct": true,
+          "feedback": "Cuatro carbonos con enlace simple es butano."
+        },
+        {
+          "letter": "B",
+          "text": "Propano.",
+          "is_correct": false,
+          "feedback": "Tiene tres carbonos."
+        },
+        {
+          "letter": "C",
+          "text": "Pentano.",
+          "is_correct": false,
+          "feedback": "Tiene cinco carbonos."
+        },
+        {
+          "letter": "D",
+          "text": "Isobutano.",
+          "is_correct": false,
+          "feedback": "Isobutano tiene ramificación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La nomenclatura IUPAC utiliza prefijos según el número de carbonos: met-(1), et-(2), prop-(3), but-(4), pent-(5).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle-v6",
+      "statement": "En la combustión completa del propano (C₃H₈), los productos son:",
+      "context": "En clase en Pereira, se estudia la combustión completa de un alcano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "C₃H₈ + O₂ → C + H₂O.",
+          "is_correct": false,
+          "feedback": "Es una combustión incompleta."
+        },
+        {
+          "letter": "B",
+          "text": "C₃H₈ + 5 O₂ → 3 CO₂ + 4 H₂O.",
+          "is_correct": true,
+          "feedback": "La ecuación balanceada produce CO₂ y H₂O."
+        },
+        {
+          "letter": "C",
+          "text": "C₃H₈ + O₂ → CO + H₂.",
+          "is_correct": false,
+          "feedback": "Síntesis de gas de síntesis, no combustión."
+        },
+        {
+          "letter": "D",
+          "text": "C₃H₈ → C₃H₆ + H₂.",
+          "is_correct": false,
+          "feedback": "Es una reacción de deshidrogenación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La combustión completa de hidrocarburos libera CO₂ y H₂O cuando hay suficiente oxígeno.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle-v7",
+      "statement": "La prueba del yodo (I₂) permite diferenciar un alqueno de un alcano porque:",
+      "context": "En un laboratorio en Armenia, se realiza la prueba de yodo para alquenos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El yodo se adiciona al doble enlace C=C, decolorando la solución.",
+          "is_correct": true,
+          "feedback": "Los alquenos decoloran el yodo por adición electrofílica."
+        },
+        {
+          "letter": "B",
+          "text": "El yodo oxida completamente el alcano.",
+          "is_correct": false,
+          "feedback": "Los alcanos no reaccionan fácilmente con yodo."
+        },
+        {
+          "letter": "C",
+          "text": "El yodo forma enlaces triples con el alcano.",
+          "is_correct": false,
+          "feedback": "No es un comportamiento típico."
+        },
+        {
+          "letter": "D",
+          "text": "El yodo cambia a gas en presencia de alcanos.",
+          "is_correct": false,
+          "feedback": "No hay cambio de fase."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La reactividad del enlace doble permite reacciones de adición características como la halogenación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.74,
+      "bundle_id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle-v8",
+      "statement": "Los isómeros del butano (C₄H₁₀) se diferencian por:",
+      "context": "En clase en Santa Marta, se trabaja con isómeros estructurales del C₄H₁₀.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La conectividad de los átomos de carbono en la cadena.",
+          "is_correct": true,
+          "feedback": "Butano normal e isobutano son isómeros de cadena."
+        },
+        {
+          "letter": "B",
+          "text": "El número de átomos de hidrógeno.",
+          "is_correct": false,
+          "feedback": "Ambos tienen 10 hidrógenos."
+        },
+        {
+          "letter": "C",
+          "text": "La presencia de oxígeno.",
+          "is_correct": false,
+          "feedback": "No contienen oxígeno."
+        },
+        {
+          "letter": "D",
+          "text": "La carga eléctrica.",
+          "is_correct": false,
+          "feedback": "Son moléculas neutras."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La isomería de cadena surge de distintas formas de conectar los átomos de carbono.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.74,
+      "bundle_id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle-v9",
+      "statement": "El propino (CH≡C-CH₃) pertenece a la familia de los:",
+      "context": "En un taller en Popayán, se identifica un alquino terminal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alcanos.",
+          "is_correct": false,
+          "feedback": "Los alcanos no tienen triples enlaces."
+        },
+        {
+          "letter": "B",
+          "text": "Alquenos.",
+          "is_correct": false,
+          "feedback": "Los alquenos tienen doble enlace."
+        },
+        {
+          "letter": "C",
+          "text": "Alquinos.",
+          "is_correct": true,
+          "feedback": "Los alquinos tienen triple enlace C≡C."
+        },
+        {
+          "letter": "D",
+          "text": "Aromáticos.",
+          "is_correct": false,
+          "feedback": "No contiene anillo aromático."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los alquinos contienen al menos un triple enlace carbono-carbono.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle-v10",
+      "statement": "El grado de insaturación del benceno (C₆H₆) es:",
+      "context": "En clase en Neiva, se calcula el grado de insaturación de una molécula.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.",
+          "is_correct": false,
+          "feedback": "Subestimaste el conteo."
+        },
+        {
+          "letter": "B",
+          "text": "4.",
+          "is_correct": true,
+          "feedback": "3 dobles enlaces + 1 anillo = 4 grados."
+        },
+        {
+          "letter": "C",
+          "text": "6.",
+          "is_correct": false,
+          "feedback": "Es el número de carbonos, no de insaturaciones."
+        },
+        {
+          "letter": "D",
+          "text": "3.",
+          "is_correct": false,
+          "feedback": "Faltó contar el anillo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El grado de insaturación combina dobles enlaces, triples enlaces (como dos) y anillos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.73,
+      "bundle_id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle-v11",
+      "statement": "El pentano lineal tiene un punto de ebullición más alto que su isómero ramificado neopentano porque:",
+      "context": "En Ibagué, se comparan puntos de ebullición de alcanos lineales y ramificados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La estructura lineal permite mayor superficie de contacto y fuerzas intermoleculares más intensas.",
+          "is_correct": true,
+          "feedback": "Las ramificaciones reducen el área de contacto."
+        },
+        {
+          "letter": "B",
+          "text": "El neopentano tiene más carbonos.",
+          "is_correct": false,
+          "feedback": "Ambos tienen 5 carbonos."
+        },
+        {
+          "letter": "C",
+          "text": "El neopentano es polar.",
+          "is_correct": false,
+          "feedback": "Ambos son apolares."
+        },
+        {
+          "letter": "D",
+          "text": "El pentano contiene oxígeno.",
+          "is_correct": false,
+          "feedback": "Ninguno contiene oxígeno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las fuerzas de London dependen del área superficial; las cadenas lineales tienen mayor contacto y mayor punto de ebullición.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle-v12",
+      "statement": "Un carbono con hibridación sp² forma:",
+      "context": "En clase en Manizales, se discute la hibridación del carbono.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuatro enlaces sigma en geometría tetraédrica.",
+          "is_correct": false,
+          "feedback": "Eso es hibridación sp³."
+        },
+        {
+          "letter": "B",
+          "text": "Tres enlaces sigma y un enlace pi en geometría trigonal plana.",
+          "is_correct": true,
+          "feedback": "sp² genera 120° y un orbital p para el enlace pi."
+        },
+        {
+          "letter": "C",
+          "text": "Dos enlaces sigma y dos enlaces pi lineales.",
+          "is_correct": false,
+          "feedback": "Eso es hibridación sp."
+        },
+        {
+          "letter": "D",
+          "text": "Solo enlaces iónicos.",
+          "is_correct": false,
+          "feedback": "Los enlaces carbono son covalentes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La hibridación sp² es característica de alquenos y carbonos aromáticos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle-v13",
+      "statement": "La adición de HBr al propeno sigue principalmente el Markovnikov porque:",
+      "context": "En un curso en Tunja, se evalúan mecanismos de reacción orgánica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El bromo es más electronegativo.",
+          "is_correct": false,
+          "feedback": "La electronegatividad no determina Markovnikov."
+        },
+        {
+          "letter": "B",
+          "text": "El hidrógeno se une al carbono con más hidrógenos, formando el carbocatión más estable.",
+          "is_correct": true,
+          "feedback": "El carbocatión secundario es más estable que el primario."
+        },
+        {
+          "letter": "C",
+          "text": "El bromo es un radical libre.",
+          "is_correct": false,
+          "feedback": "El mecanismo es electrofílico, no radicalario en condiciones comunes."
+        },
+        {
+          "letter": "D",
+          "text": "La reacción es fotoquímica únicamente.",
+          "is_correct": false,
+          "feedback": "No requiere luz obligatoriamente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La regla de Markovnikov predice la regioselectividad en adiciones a alquenos según la estabilidad del carbocatión intermedio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle-v14",
+      "statement": "Los óxidos de nitrógeno (NOₓ) y los compuestos orgánicos volátiles reaccionan con la luz solar formando:",
+      "context": "En clase en Bogotá, se discute la formación del ozono troposférico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dióxido de carbono inocuo.",
+          "is_correct": false,
+          "feedback": "No producen CO₂ en esta reacción."
+        },
+        {
+          "letter": "B",
+          "text": "Ozono troposférico (O₃), un contaminante secundario dañino para la salud.",
+          "is_correct": true,
+          "feedback": "El smog fotoquímico contiene ozono troposférico."
+        },
+        {
+          "letter": "C",
+          "text": "Hidrógeno metálico.",
+          "is_correct": false,
+          "feedback": "No se forma hidrógeno metálico."
+        },
+        {
+          "letter": "D",
+          "text": "Vapor de mercurio.",
+          "is_correct": false,
+          "feedback": "El mercurio no es parte de la reacción fotoquímica urbana."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La contaminación fotoquímica genera ozono troposférico, irritante respiratorio, a partir de NOₓ y COV.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle-v15",
+      "statement": "La espectroscopia infrarroja (IR) permite identificar grupos funcionales porque:",
+      "context": "En un taller en Medellín, se trabaja con espectroscopia IR.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cada tipo de enlace absorbe radiación IR a frecuencias características.",
+          "is_correct": true,
+          "feedback": "Las vibraciones moleculares son únicas por enlace."
+        },
+        {
+          "letter": "B",
+          "text": "Ioniza los átomos de carbono.",
+          "is_correct": false,
+          "feedback": "No es ionizante."
+        },
+        {
+          "letter": "C",
+          "text": "Emite rayos X.",
+          "is_correct": false,
+          "feedback": "La espectroscopia IR no usa rayos X."
+        },
+        {
+          "letter": "D",
+          "text": "Cambia el color de las soluciones.",
+          "is_correct": false,
+          "feedback": "El IR no se asocia a cambios visibles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las bandas de absorción IR sirven como \"huella digital\" de cada grupo funcional orgánico.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle-v16",
+      "statement": "El benceno es especialmente estable porque:",
+      "context": "En clase en Cali, se compara la estabilidad del benceno y ciclohexatrieno hipotético.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tiene enlaces simples que se refuerzan.",
+          "is_correct": false,
+          "feedback": "Posee enlaces con carácter intermedio."
+        },
+        {
+          "letter": "B",
+          "text": "Los electrones π están deslocalizados en un sistema aromático de 6 electrones.",
+          "is_correct": true,
+          "feedback": "Cumple la regla de Hückel (4n+2)."
+        },
+        {
+          "letter": "C",
+          "text": "Contiene dobles enlaces localizados.",
+          "is_correct": false,
+          "feedback": "Los dobles enlaces están deslocalizados."
+        },
+        {
+          "letter": "D",
+          "text": "Su geometría es tetraédrica.",
+          "is_correct": false,
+          "feedback": "Es plano hexagonal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La aromaticidad aporta una energía de resonancia que hace al benceno más estable que hipotéticos isómeros con dobles enlaces localizados.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.63,
+      "bundle_id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle-v17",
+      "statement": "Una ventaja ambiental del bioetanol frente a la gasolina es:",
+      "context": "En una discusión ambiental en Sincelejo, se evalúan biocombustibles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Libera más CO₂ por kilocaloría.",
+          "is_correct": false,
+          "feedback": "Emite menos CO₂ neto por el ciclo de la caña de azúcar."
+        },
+        {
+          "letter": "B",
+          "text": "Produce menos emisiones netas de CO₂ durante su ciclo de vida por absorber las plantas el gas durante su crecimiento.",
+          "is_correct": true,
+          "feedback": "El ciclo del biocombustible es más neutro en carbono."
+        },
+        {
+          "letter": "C",
+          "text": "Aumenta la lluvia ácida.",
+          "is_correct": false,
+          "feedback": "No incrementa compuestos azufrados."
+        },
+        {
+          "letter": "D",
+          "text": "Produce más monóxido de carbono.",
+          "is_correct": false,
+          "feedback": "Suele producir menos CO por kilocaloría."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los biocombustibles pueden ser más sostenibles cuando la materia prima se renueva por fotosíntesis.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle-v18",
+      "statement": "Un riesgo ambiental del fracturamiento hidráulico (fracking) para extraer gas natural es:",
+      "context": "En una clase en Cartagena, se debate el impacto del fracking.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reducción de metano atmosférico.",
+          "is_correct": false,
+          "feedback": "Puede incrementarlo por fugas."
+        },
+        {
+          "letter": "B",
+          "text": "Disminución del consumo de agua.",
+          "is_correct": false,
+          "feedback": "Requiere grandes volúmenes de agua."
+        },
+        {
+          "letter": "C",
+          "text": "Contaminación de acuíferos y emisión de metano, un potente gas de efecto invernadero.",
+          "is_correct": true,
+          "feedback": "Riesgos reconocidos por la literatura científica."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminación de la lluvia ácida.",
+          "is_correct": false,
+          "feedback": "No tiene relación directa con lluvia ácida."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El fracking presenta controversias por consumo de agua, posible contaminación química y emisiones fugitivas de metano.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle-v19",
+      "statement": "El polietileno se obtiene por polimerización por adición del:",
+      "context": "En clase en Pereira, se analizan polímeros sintéticos y naturales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Etileno (CH₂=CH₂).",
+          "is_correct": true,
+          "feedback": "La polimerización por adición del etileno produce polietileno."
+        },
+        {
+          "letter": "B",
+          "text": "Benceno.",
+          "is_correct": false,
+          "feedback": "El benceno se polimeriza de manera diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Tolueno.",
+          "is_correct": false,
+          "feedback": "El tolueno no es monómero del polietileno."
+        },
+        {
+          "letter": "D",
+          "text": "Acetileno únicamente.",
+          "is_correct": false,
+          "feedback": "El acetileno genera poliacetileno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La polimerización por adición requiere monómeros con insaturaciones que se rompen para formar la cadena.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle-v20",
+      "statement": "El benceno es considerado un compuesto tóxico porque:",
+      "context": "En Pasto, se compara la toxicidad de distintos aromáticos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Produce ozono troposférico.",
+          "is_correct": false,
+          "feedback": "No es la causa principal de su toxicidad."
+        },
+        {
+          "letter": "B",
+          "text": "Está clasificado por la IARC como carcinógeno humano (Grupo 1).",
+          "is_correct": true,
+          "feedback": "La exposición prolongada se asocia a leucemia."
+        },
+        {
+          "letter": "C",
+          "text": "Tiene alto punto de ebullición.",
+          "is_correct": false,
+          "feedback": "Su punto de ebullición no es el criterio de toxicidad."
+        },
+        {
+          "letter": "D",
+          "text": "Es soluble en agua.",
+          "is_correct": false,
+          "feedback": "Es poco soluble en agua."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La exposición crónica al benceno afecta la médula ósea y está asociada a diversos tipos de cáncer.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W38-quimica-organica-hidrocarburos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

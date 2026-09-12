@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "sociales",
+    "country": "uy",
+    "pack_id": "uy-week-14-grade-11-subject-sociales",
+    "generated_at": "2026-09-12T16:46:07.977Z"
+  },
+  "questions": [
+    {
+      "id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v1",
+      "statement": "¿Cuáles son tres de los principales bienes agroindustriales y primarios de exportación de la matriz productiva uruguaya?",
+      "context": "El sector agroindustrial representa históricamente una columna vertebral en la generación de divisas por exportaciones para la economía uruguaya.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Carne bovina, pasta de celulosa y granos de soja.",
+          "is_correct": true,
+          "feedback": "Correcto. La carne, la celulosa y la soja son los tres principales bienes exportados por Uruguay."
+        },
+        {
+          "letter": "B",
+          "text": "Automóviles de alta gama, microprocesadores y carbón mineral.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Uruguay no produce ni exporta automóviles de alta gama, microprocesadores de silicio ni carbón."
+        },
+        {
+          "letter": "C",
+          "text": "Café soluble, banano y petróleo crudo pesado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son bienes de clima tropical o economías extractivas no producidos en Uruguay."
+        },
+        {
+          "letter": "D",
+          "text": "Aviones comerciales, cobre refinado y gas natural.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No forman parte de las oferta exportadora primaria de la matriz uruguaya."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La oferta exportadora de bienes de Uruguay está fuertemente centrada en el complejo agroindustrial y forestal (carne, celulosa, soja, lácteos y arroz).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el objetivo prioritario que la carta orgánica del Banco Central del Uruguay le asigna en materia económica?",
+      "context": "En Uruguay, el Banco Central del Uruguay (BCU) es la entidad autónoma responsable de la ejecución de la política monetaria y financiera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fijar el precio del ganado vacuno en las ferias rurales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El precio del ganado se fija en el libre mercado ganadero."
+        },
+        {
+          "letter": "B",
+          "text": "Mantener la estabilidad de precios (control de la inflación) y velar por el correcto funcionamiento del sistema de pagos.",
+          "is_correct": true,
+          "feedback": "Correcto. La meta principal del BCU es controlar la inflación dentro de un rango meta fijado y asegurar la estabilidad financiera."
+        },
+        {
+          "letter": "C",
+          "text": "Comprar la totalidad de los cultivos de trigo del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La comercialización agrícola compete a productores y exportadores privados."
+        },
+        {
+          "letter": "D",
+          "text": "Eximir de impuestos a todas las empresas transnacionales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La política tributaria y exenciones fiscales dependen del Poder Ejecutivo y el Parlamento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Banco Central del Uruguay utiliza la tasa de interés de política monetaria (TPM) para mantener la estabilidad de precios y contener la inflación.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v3",
+      "statement": "¿En qué consiste la exención tributaria fundamental que otorga el Estado a las empresas instaladas como usuarias de zona franca?",
+      "context": "Para atraer grandes inversiones industriales e incentivar la exportación de servicios, Uruguay utiliza el régimen de Zonas Francas (Ley N° 15.921 y 19.566).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pagar el doble de impuestos a la renta pero con descuento en combustibles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las zonas francas otorgan exenciones de impuestos, no aumentos tributarios."
+        },
+        {
+          "letter": "B",
+          "text": "Exoneración de todo tributo nacional creado o a crearse (incluyendo IRAE e IVA) sobre las actividades desarrolladas en la zona.",
+          "is_correct": true,
+          "feedback": "Correcto. Las usuarias de zonas francas están exentas de tributos nacionales a cambio de inversión, exportación y contratación laboral local."
+        },
+        {
+          "letter": "C",
+          "text": "Obligación de vender toda su producción exclusivamente dentro del departamento de ubicación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las zonas francas producen bienes y servicios orientados a la exportación internacional."
+        },
+        {
+          "letter": "D",
+          "text": "Subsidio directo del 100% de los salarios por parte de las intendencias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los salarios de los trabajadores son abonados íntegramente por las empresas privadas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El régimen de zonas francas atrae Inversión Extranjera Directa ofreciendo estabilidad jurídica y exoneración de impuestos nacionales a actividades de exportación.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v4",
+      "statement": "¿Qué ventaja competitiva basada en su capital humano ha favorecido el crecimiento de las exportaciones de software uruguayo hacia mercados como Estados Unidos?",
+      "context": "En el sector servicios de exportación, Uruguay se ha posicionado como un polo tecnológico en América Latina en la industria del software y las TIC.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La abundancia de minas de silicio de alta pureza en las sierras de Minas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El software es un servicio intangible intensivo en conocimiento, no en silicio minero."
+        },
+        {
+          "letter": "B",
+          "text": "Formación técnica y universitaria de calidad, conectividad digital avanzada y coincidencia de huso horario con el mercado norteamericano.",
+          "is_correct": true,
+          "feedback": "Correcto. El software uruguayo compite por la alta calificación de sus desarrolladores, sólida infraestructura de conectividad y alineación horaria."
+        },
+        {
+          "letter": "C",
+          "text": "Salarios de subsistencia inferiores a los de países del Sudeste Asiático.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los profesionales del software en Uruguay perciben salarios competitivos cualificados."
+        },
+        {
+          "letter": "D",
+          "text": "Subvención gubernamental de todas las computadoras portátiles exportadas a Asia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lo que se exporta son servicios de software y código, no computadoras físicas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La industria del software uruguayo destaca por exportar servicios globales de alto valor añadido respaldados en talento técnico e infraestructura digital.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v5",
+      "statement": "¿Qué ocurre con la economía nacional cuando se produce una mejora sustancial en los términos de intercambio (aumento del precio internacional de la carne y celulosa y caída del petróleo)?",
+      "context": "Analizás el impacto de los 'términos de intercambio' sobre la economía uruguaya, definidos como la relación entre el precio de los bienes exportados y el de los bienes importados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se desploma el Producto Interno Bruto y aumenta el desempleo de inmediato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Términos de intercambio favorables estimulan la economía."
+        },
+        {
+          "letter": "B",
+          "text": "Aumenta el ingreso de divisas al país, mejorando la balanza comercial y estimulando el crecimiento del Producto Interno Bruto (PIB).",
+          "is_correct": true,
+          "feedback": "Correcto. Precios más altos para lo que se vende y más bajos para lo que se compra incrementan el ingreso nacional y dinamizan la economía."
+        },
+        {
+          "letter": "C",
+          "text": "Se prohíbe la entrada de turistas extranjeros a las costas de Maldonado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No guarda relación con restricciones al turismo internacional."
+        },
+        {
+          "letter": "D",
+          "text": "El Banco Central cancela el uso del peso uruguayo en las transacciones locales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La política cambiaria y monetaria opera de forma independiente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una mejora en los términos de intercambio incrementa el poder de compra internacional del país, expandiendo la renta nacional y la actividad económica.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v6",
+      "statement": "¿Qué perjuicio económico genera el 'atraso cambiario' sobre los sectores exportadores e industriales que compiten con el exterior?",
+      "context": "En el análisis macroeconómico uruguayo se debate con frecuencia el fenómeno del 'atraso cambiario' (o apreciación del tipo de cambio real).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta las ganancias de los exportadores en moneda nacional de forma ilimitada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La apreciación del peso reduce los ingresos en pesos por cada dólar exportado."
+        },
+        {
+          "letter": "B",
+          "text": "Pérdida de competitividad-precio, al volverse los costos de producción locales en dólares más caros frente a los competidores internacionales.",
+          "is_correct": true,
+          "feedback": "Correcto. Con un tipo de cambio real apreciado (dólar 'barato'), los costos internos medidos en dólares suben, encareciendo los productos exportables."
+        },
+        {
+          "letter": "C",
+          "text": "Eliminación inmediata de todas las deudas nominadas en moneda extranjera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tipo de cambio no condona las deudas contraídas."
+        },
+        {
+          "letter": "D",
+          "text": "Aumento de los aranceles cobrados por la aduana sobre las exportaciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El atraso cambiario es un fenómeno de precios relativos, no una tasa aduanera."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El atraso cambiario (apreciación del tipo de cambio real) encarece los costos de producción locales en dólares, restando competitividad a los bienes exportables.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.72,
+      "bundle_id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v7",
+      "statement": "¿Qué beneficio fiscal otorga la ley de inversiones impulsada por la COMAP a las empresas que presentan proyectos generadores de empleo, innovación o descentralización?",
+      "context": "Se evalúa el papel de la Comisión de Aplicación de la Ley de Inversiones (COMAP) en el fomento de la inversión privada en Uruguay.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Adjudicación de tierras públicas a título gratuito sin requisitos de producción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La COMAP no regala tierras del Estado; otorga exoneraciones fiscales a proyectos de inversión."
+        },
+        {
+          "letter": "B",
+          "text": "Exoneración del Impuesto a las Rentas de las Actividades Económicas (IRAE) en función de los indicadores comprometidos en el proyecto.",
+          "is_correct": true,
+          "feedback": "Correcto. La COMAP exonera un porcentaje del IRAE en proporción a los puntos obtenidos en empleo, exportaciones, I+D y descentralización."
+        },
+        {
+          "letter": "C",
+          "text": "Descuento del 100% en las tarifas de pasaportes diplomáticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No otorga beneficios de pasaportes ni fueros diplomáticos."
+        },
+        {
+          "letter": "D",
+          "text": "Pago de un subsidio directo en efectivo por parte del Banco Central.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Otorga incentivos de renunciamiento fiscal (descuento impositivo), no subsidios en efectivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ley de inversiones vía COMAP utiliza incentivos tributarios (exoneración de IRAE) para direccionar la inversión privada hacia empleo, innovación y descentralización.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué las divisas ingresadas por el turismo internacional se contabilizan dentro de las 'exportaciones de servicios' de la balanza de pagos?",
+      "context": "El sector turístico (sol y playa en Maldonado y Rocha, turismo termal en Salto y Paysandú, y turismo histórico en Colonia) es un pilar exportador de servicios en Uruguay.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los turistas compran hectáreas de campo y se las llevan a sus países de origen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los bienes inmuebles no se trasladan físicamente."
+        },
+        {
+          "letter": "B",
+          "text": "Porque no residentes consumen servicios locales (alojamiento, gastronomía, transporte) pagando con divisas internacionales.",
+          "is_correct": true,
+          "feedback": "Correcto. Económicamente, vender un servicio en territorio nacional a un no residente equivale a una exportación de servicios que ingresa divisas al país."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el turismo sólo genera ingresos en pesetas antiguas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El turismo aporta divisas fuertes comerciales como dólares o reales."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las empresas turísticas están exentas de pagar salarios a sus empleados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El turismo genera empleo formal remunerado con cargas sociales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El gasto realizado por no residentes en turismo receptivo interno constituye una exportación de servicios de alto impacto en el ingreso de divisas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.68,
+      "bundle_id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v9",
+      "statement": "¿Qué infraestructura de transporte masivo de carga se reconstruyó (Ferrocarril Central) para conectar el norte y centro del país con el puerto de la capital?",
+      "context": "En la estructura de costos de la producción agroindustrial uruguaya, el transporte terrestre de carga hacia el Puerto de Montevideo ocupa un lugar destacado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un canal fluvial navegable que atraviesa las sierras de Minas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las sierras no poseen canales fluviales transiterrestres navegables."
+        },
+        {
+          "letter": "B",
+          "text": "El trazado ferroviario del Ferrocarril Central especializado en el transporte pesado de celulosa y granos.",
+          "is_correct": true,
+          "feedback": "Correcto. El Ferrocarril Central reabrió el transporte de carga masivo por tren desde Paso de los Toros hacia el Puerto de Montevideo."
+        },
+        {
+          "letter": "C",
+          "text": "Una red de autopistas subterráneas exclusivas para camiones eléctricos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Uruguay no posee infraestructura subterránea interdepartamental."
+        },
+        {
+          "letter": "D",
+          "text": "Un sistema de teleféricos de carga desde Salto hasta Punta del Este.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La topografía llana/penillanura utiliza transporte carretero y ferroviario de superficie."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La reactivación del transporte ferroviario de carga mediante el Ferrocarril Central reduce costos de flete para la producción pesada del interior hacia el puerto.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.67,
+      "bundle_id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la función primordial de los Consejos de Salarios en la fijación de las condiciones de trabajo y salarios mínimos por rama de actividad?",
+      "context": "El Consejo de Salarios es el órgano tripartito en Uruguay integrado por representantes de los trabajadores, los empresarios y el Estado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Decidir las tasas de interés bancario que cobra el Banco Central.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tasa de interés la fija el BCU en el Comité de Política Monetaria."
+        },
+        {
+          "letter": "B",
+          "text": "Negociar colectivamente las pautas salariales, categorías laborales y beneficios de los trabajadores por sectores de actividad.",
+          "is_correct": true,
+          "feedback": "Correcto. Los Consejos de Salarios institucionalizan la negociación colectiva tripartita, fijando salarios mínimos y ajustes por rama económica."
+        },
+        {
+          "letter": "C",
+          "text": "Eliminar los sindicatos de trabajadores en todo el territorio nacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, los Consejos de Salarios garantizan la participación colectiva sindical."
+        },
+        {
+          "letter": "D",
+          "text": "Aprobar el presupuesto general de la Universidad de la República.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El presupuesto universitario lo aprueba el parlamento en la Ley de Presupuesto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los Consejos de Salarios son la institución tripartita de la negociación colectiva uruguaya que fija salarios mínimos y condiciones laborales por rama de actividad.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v11",
+      "statement": "¿Qué distorsión estructural genera la 'Enfermedad Holandesa' sobre el sector industrial no primario y los servicios transables de una economía como la uruguaya?",
+      "context": "Analizás el fenómeno económico de la 'Enfermedad Holandesa' (Dutch Disease) aplicado a economías exportadoras de materias primas cuando experimentan un superávit de divisas por auge de precios de *commodities*.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta la competitividad de las industrias manufactureras locales haciéndolas líderes globales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Enfermedad Holandesa perjudica a la industria no primaria."
+        },
+        {
+          "letter": "B",
+          "text": "El ingreso masivo de divisas aprecia la moneda local, abaratando importaciones y encareciendo los costos industriales internos, desindustrializando al sector no primario.",
+          "is_correct": true,
+          "feedback": "Correcto. El auge del sector primario aprecia el peso, lo que encarece a la industria manufacturera local y la desplaza frente a las importaciones baratas."
+        },
+        {
+          "letter": "C",
+          "text": "Elimina el consumo de bienes importados en todos los hogares urbanos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al abaratar el dólar, las importaciones de bienes de consumo aumentan."
+        },
+        {
+          "letter": "D",
+          "text": "Desaparece la producción de carne bovina y celulosa de inmediato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sector primario es justamente el que experimenta el auge de divisas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La 'Enfermedad Holandesa' ocurre cuando el auge primario aprecia la moneda local, reduciendo la competitividad de la industria manufacturera no primaria.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v12",
+      "statement": "¿Por qué un déficit fiscal persistente elevado financiado con endeudamiento en moneda extranjera compromete la estabilidad macroeconómica futura del país?",
+      "context": "En el balance macroeconómico del Estado uruguayo, se monitorea el 'déficit fiscal del sector público consolidado' y la 'deuda pública sobre el PIB'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque reduce automáticamente la tasa de inflación a cero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El déficit abultado suele presionar la inflación o la tasa de interés."
+        },
+        {
+          "letter": "B",
+          "text": "Aumenta el servicio de la deuda (pago de intereses), eleva el riesgo país y expone las finanzas públicas a devaluaciones del tipo de cambio.",
+          "is_correct": true,
+          "feedback": "Correcto. Acumular deuda en dólares exige destinar más presupuesto al pago de intereses, vulnerando la estabilidad fiscal ante subas del dólar o tasas globales."
+        },
+        {
+          "letter": "C",
+          "text": "Obliga al Banco Central a cerrar todas las sucursales bancarias del interior.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema bancario opera con normalidad bajo regulación prudencial."
+        },
+        {
+          "letter": "D",
+          "text": "Invalida la firma de tratados de libre comercio en el MERCOSUR.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El déficit fiscal es una variable macroeconómica interna, no una prohibición jurídica de tratados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La sostenibilidad fiscal exige controlar el déficit público para evitar un endeudamiento excesivo que comprometa el riesgo país y la inversión social.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v13",
+      "statement": "¿Qué transformación en la cadena de valor forestal-industrial significó la llegada de estas mega plantas de pasta de celulosa?",
+      "context": "En la década de 2000, Uruguay impulsó la instalación de mega plantas de celulosa de última generación en el interior (UPM en Fray Bentos y Paso de los Toros, Montes del Plata en Conchillas).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sustituyó el cultivo de árboles por la siembra masiva de trigo de invierno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La industria papelera impulsó la expansión de la forestación leñosa."
+        },
+        {
+          "letter": "B",
+          "text": "Añadió procesamiento industrial de alto valor agregado a la madera en rollo nacional, convirtiendo a la celulosa en un rubro líder de exportación.",
+          "is_correct": true,
+          "feedback": "Correcto. Transformó la producción de troncos sin procesar en pasta química de celulosa de exportación, inyectando inversión e infraestructura en el interior."
+        },
+        {
+          "letter": "C",
+          "text": "Prohibió el transporte de madera a través de camiones por carreteras nacionales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El transporte de madera combina flotas de camiones, barcazas y ferrocarril."
+        },
+        {
+          "letter": "D",
+          "text": "Nacionalizó el 100% de la propiedad de las empresas químicas mundiales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son inversiones extranjeras directas operadas bajo el régimen de zonas francas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La instalación de plantas de celulosa transformó el sector forestal uruguayo, pasando de exportar troncos crudos a elaborar pasta química de celulosa de alto valor.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v14",
+      "statement": "¿Qué factores socioeconómicos regionales explican la mayor prevalencia de informalidad laboral en las ciudades de frontera seca con Brasil?",
+      "context": "Se analiza la informalidad laboral y su distribución en el mercado de trabajo uruguayo, situándose en torno al 20% a nivel nacional, pero superando el 30% en departamentos de la frontera con Brasil (Rivera, Artigas, Rocha).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La presencia de grandes laboratorios de biotecnología espacial en las aduanas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las zonas de frontera seca no presentan concentraciones de laboratorios espaciales."
+        },
+        {
+          "letter": "B",
+          "text": "Estructuras productivas débiles, dinamismo del comercio informamental de frontera (free shops y contrabando) y menor fiscalización en economías binacionales.",
+          "is_correct": true,
+          "feedback": "Correcto. La porosidad de la frontera seca y las asimetrías de precios impulsan el comercio informamental de subsistencia, elevando el empleo sin registro."
+        },
+        {
+          "letter": "C",
+          "text": "La prohibición de abrir comercios minoristas en territorio uruguayo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Existen comercios formales y *free shops* regulados en las ciudades fronterizas."
+        },
+        {
+          "letter": "D",
+          "text": "La exención absoluta del pago de jubilaciones a los ciudadanos del norte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El BPS otorga cobertura en todo el territorio nacional a los trabajadores registrados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las ciudades de frontera seca experimentan mayores niveles de informalidad laboral debido al peso del comercio binacional no registrado y menor dinamismo de empleo formal.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.53,
+      "bundle_id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v15",
+      "statement": "¿Por qué Uruguay ha logrado consolidarse como un 'hub' de servicios corporativos regionales para multinacionales que operan en América Latina?",
+      "context": "En el comercio internacional contemporáneo, el concepto de 'servicios globales de exportación' abarca la externalización de procesos de negocios (BPO) y servicios financieros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque es el único país sudamericano desprovisto de conexión a internet.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Uruguay posee la infraestructura de fibra óptica y conectividad internacional más avanzada de la región."
+        },
+        {
+          "letter": "B",
+          "text": "Por su estabilidad política y jurídica, régimen de zonas francas de servicios, bilingüismo de su talento técnico y sólida infraestructura de telecomunicaciones.",
+          "is_correct": true,
+          "feedback": "Correcto. Las multinacionales eligen a Montevideo para centralizar sus centros de servicios compartidos regionales debido a la seguridad jurídica y calidad de profesionales."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el Estado subvenciona el 100% de las ventas de todas las multinacionales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Estado ofrece el marco de zonas francas e incentivos, no subsidios directos de ventas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque prohíbe el uso de idiomas extranjeros en las oficinas comerciales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El dominio de idiomas (inglés, portugués) es requisito clave de los servicios globales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uruguay se afirma como hub regional de servicios globales gracias a su seguridad jurídica, clima de negocios, conectividad digital y calificación de sus profesionales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.5,
+      "bundle_id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v16",
+      "statement": "¿Qué impacto positivo sobre la balanza comercial y el medio ambiente genera la electrificación del transporte público en ciudades como Montevideo?",
+      "context": "Considerás la matriz energética primaria de Uruguay y su sustitución de derivados del petróleo importados por energía eléctrica renovable en la movilidad urbana (ómnibus y taxis eléctricos).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta la dependencia de las importaciones de petróleo pesado venezolano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sustituir combustible fósil por electricidad eólica reduce las importaciones de petróleo."
+        },
+        {
+          "letter": "B",
+          "text": "Reduce la importación de combustibles fósiles (ahorro de divisas) y disminuye la emisión de gases de efecto invernadero y contaminantes sonoros y locales.",
+          "is_correct": true,
+          "feedback": "Correcto. Aprovecha la abundancia de electricidad eólica autóctona, sustituyendo petróleo importado y descarbonizando el transporte urbano."
+        },
+        {
+          "letter": "C",
+          "text": "Invalida la red eléctrica nacional provocando apagones permanentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La red eléctrica uruguaya absorbe eficientemente la carga de flotas de transporte e-bus."
+        },
+        {
+          "letter": "D",
+          "text": "Eleva las emisiones de dióxido de azufre en la rambla costera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los motores eléctricos no poseen tubo de escape ni emiten gases de combustión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La electrificación de la movilidad urbana aprovecha la matriz eléctrica limpia uruguaya, sustituyendo divisas de petróleo por energía renovable local.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v17",
+      "statement": "¿Qué estrategia de política industrial de segunda generación permitiría romper el sesgo reprimarizador y escalar en las Cadenas Globales de Valor a partir de los recursos biológicos del país?",
+      "context": "Evalúas el dilema de política económica entre la promoción de la 'bioeconomía circular' con valor agregado versus la 'primarización reprimarizadora' de la economía uruguaya.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incentivar la biorrefinería, la biotecnología médica y agrícola, la bioinformática y los biomateriales avanzados a partir de la biomasa agroforestal y marina.",
+          "is_correct": true,
+          "feedback": "Correcto. La bioeconomía de segunda generación no exporta la materia prima bruta; utiliza biotecnología para convertir la biomasa en biofármacos, biomateriales y química verde de alto valor."
+        },
+        {
+          "letter": "B",
+          "text": "Prohibir la investigación científica en las universidades públicas del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La bioeconomía exige una alianza estratégica entre universidades, centros de I+D y empresas."
+        },
+        {
+          "letter": "C",
+          "text": "Volver al modelo de sustitución de importaciones cerrado del siglo XIX.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modelo cerrado autárquico no es viable en economías pequeñas abiertas globalizadas."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituir toda la producción agropecuaria por la minería de carbón a cielo abierto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Uruguay no posee yacimientos comerciales de carbón ni es una estrategia sostenible."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La transición hacia una bioeconomía avanzada transforma los recursos biológicos autóctonos mediante biotecnología e I+D en productos de alto valor añadido.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v18",
+      "statement": "¿Qué mecanismo de política macroeconómica (además del régimen de tipo de cambio flexible) funciona como 'colchón amortiguador' de liquidez ante crisis financieras internacionales?",
+      "context": "Se analiza la vulnerabilidad macroeconómica de Uruguay frente a los 'shocks externos' (variaciones abruptas de tasas de interés de la Reserva Federal de EE.UU. o devaluaciones en Brasil y Argentina).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La quema de las reservas internacionales de divisas en un solo día.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Agotar las reservas dejaría al país desprotegido sin liquidez de respaldo."
+        },
+        {
+          "letter": "B",
+          "text": "La mantención de un elevado nivel de Reservas Internacionales Netas en el BCU y el acceso a líneas de crédito contingente con organismos multilaterales.",
+          "is_correct": true,
+          "feedback": "Correcto. Reservas sólidas en el BCU y líneas de crédito de rápido desembolso (BID, CAF, FMI) brindan blindaje financiero frente a frenazos bruscos de capitales."
+        },
+        {
+          "letter": "C",
+          "text": "La congelación por decreto de todos los depósitos bancarios de los ciudadanos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El congelamiento de depósitos (estilo 'corralito') destruye la confianza y la estabilidad financiera."
+        },
+        {
+          "letter": "D",
+          "text": "El abandono de la recaudación del impuesto a las ganancias corporativas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La responsabilidad fiscal exige mantener la recaudación tributaria para financiar el Estado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un nivel adecuado de reservas internacionales y líneas de crédito preventivas blindan a la economía uruguaya frente a turbulencias financieras externas.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v19",
+      "statement": "¿Qué reforma en el sistema de formación profesional y educación continua (como el INEFOP) se requiere para evitar el desempleo tecnológico estructurado en la fuerza laboral adulta?",
+      "context": "Un informe de prospectiva sobre el impacto de la Inteligencia Artificial y la automatización en el mercado laboral uruguayo estima que el 30% de los empleos rutinarios sufrirán disrupción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prohibir la venta de computadoras e internet en las empresas privadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La prohibición tecnológica aísla al país y destruye la competitividad nacional."
+        },
+        {
+          "letter": "B",
+          "text": "Diseñar programas de reconversión laboral continua (*upskilling* y *reskilling*), enfocados en competencias digitales, pensamiento crítico y habilidades socioemocionales no automatizables.",
+          "is_correct": true,
+          "feedback": "Correcto. Reorientar la capacitación técnica hacia competencias digitales y adaptabilidad permite a los trabajadores reconvertirse hacia empleos complementarios con la IA."
+        },
+        {
+          "letter": "C",
+          "text": "Obligar a los trabajadores adultos a jubilarse a los 35 años de edad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sería insostenible para el sistema previsional y privaría a la economía de experiencia laboral."
+        },
+        {
+          "letter": "D",
+          "text": "Cerrar las facultades de ingeniería y ciencias de la computación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son justamente las disciplinas que lideran la creación de nuevos puestos tecnológicos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La reconversión laboral continua (*reskilling*) guiada por el INEFOP y el sistema educativo es la estrategia para adaptar la fuerza de trabajo a la automatización digital.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle-v20",
+      "statement": "¿Qué instrumento de política pública ha demostrado mayor impacto directo para recomponer la participación de los salarios en el ingreso nacional durante fases de crecimiento económico?",
+      "context": "Se investiga la distribución funcional del ingreso en Uruguay (participación de la masa salarial frente al excedente de explotación empresarial en el PIB).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La suspensión indefinida de los contratos colectivos de trabajo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Desactivar la negociación colectiva reduce el poder de negociación salarial."
+        },
+        {
+          "letter": "B",
+          "text": "La negociación colectiva tripartita activa en los Consejos de Salarios junto con incrementos reales del Salario Mínimo Nacional.",
+          "is_correct": true,
+          "feedback": "Correcto. Los Consejos de Salarios y la suba del Salario Mínimo permiten que las ganancias de productividad se trasladen a aumentos salariales reales, elevando la masa salarial."
+        },
+        {
+          "letter": "C",
+          "text": "La fijación arancelaria de precios máximos a todas las exportaciones agrícolas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fijar precios máximos a las exportaciones desincentiva la producción y reduce divisas."
+        },
+        {
+          "letter": "D",
+          "text": "La emisión de vales de compra no convertibles en moneda de curso legal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No recompone el salario real ni el poder adquisitivo formal de la masa trabajadora."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La negociación colectiva en los Consejos de Salarios y el ajuste del Salario Mínimo son herramientas clave para canalizar la productividad hacia la masa salarial de los trabajadores.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "UY-SOC-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "uy"
+    }
+  ]
+}

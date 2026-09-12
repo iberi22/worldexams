@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-6-grade-5-subject-lectura_critica",
+    "generated_at": "2026-09-12T16:46:07.518Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-5-2026-W06-teatro-dialogo-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el elemento esencial de un texto teatral?",
+      "context": "En un taller de teatro escolar en Bogotá, los estudiantes leen una obra breve del escritor colombiano Carlos Repetto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El diálogo entre personajes, organizado en parlamentos y acotaciones.",
+          "is_correct": true,
+          "feedback": "La esencia del teatro es el diálogo, con parlamentos y acotaciones que orientan la puesta en escena."
+        },
+        {
+          "letter": "B",
+          "text": "La descripción detallada de paisajes.",
+          "is_correct": false,
+          "feedback": "Las descripciones paisajísticas predominan en la novela, no en el teatro."
+        },
+        {
+          "letter": "C",
+          "text": "Los capítulos numerados y un narrador omnisciente.",
+          "is_correct": false,
+          "feedback": "Esos son rasgos típicos de la novela."
+        },
+        {
+          "letter": "D",
+          "text": "Una sola voz que narra sin interlocutores.",
+          "is_correct": false,
+          "feedback": "El monólogo existe, pero la estructura teatral se sostiene sobre el diálogo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El texto teatral se construye principalmente mediante el diálogo entre personajes. Cada intervención se llama parlamento, y las acotaciones (o didascalias) son las indicaciones del autor sobre gestos, movimientos, tono de voz o decorado.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-5-2026-W06-teatro-dialogo-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W06-teatro-dialogo-001-MASTERY-bundle-v2",
+      "statement": "¿Qué función cumple ese texto entre paréntesis en la obra?",
+      "context": "En una obra escolar de Bucaramanga, antes de un parlamento aparece entre paréntesis: \"(Suspira y mira hacia la ventana)\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una acotación o didascalia que indica el gesto o emoción del personaje.",
+          "is_correct": true,
+          "feedback": "Las acotaciones orientan la interpretación del actor sobre el escenario."
+        },
+        {
+          "letter": "B",
+          "text": "Es un aparte que el personaje dice en voz alta al público.",
+          "is_correct": false,
+          "feedback": "El aparte sería una intervención hablada, no una indicación entre paréntesis."
+        },
+        {
+          "letter": "C",
+          "text": "Es el nombre de un personaje que entrará después.",
+          "is_correct": false,
+          "feedback": "Los nombres se escriben en mayúsculas sostenidas, no entre paréntesis."
+        },
+        {
+          "letter": "D",
+          "text": "Es un error tipográfico.",
+          "is_correct": false,
+          "feedback": "Es una indicación válida para el montaje teatral."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las acotaciones o didascalias aparecen generalmente entre paréntesis o en cursiva y le dicen al director y a los actores cómo debe interpretarse la escena: gestos, silencios, tonos, movimientos o cambios de iluminación.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-5-2026-W06-teatro-dialogo-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W06-teatro-dialogo-001-MASTERY-bundle-v3",
+      "statement": "¿Qué se puede inferir del parlamento de Juana sobre su estado emocional?",
+      "context": "En una lectura dramatizada en clase de Medellín, la obra dice:\n\nPEDRO: (entra corriendo) ¡Ya vienen los toros!\nJUANA: (asustada) ¿Y mi hermano?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Juana está asustada e inquieta por la suerte de su hermano menor.",
+          "is_correct": true,
+          "feedback": "La acotación \"asustada\" y la pregunta por el hermano muestran preocupación y miedo."
+        },
+        {
+          "letter": "B",
+          "text": "Juana está feliz porque llegan los toros.",
+          "is_correct": false,
+          "feedback": "La acotación indica miedo, no alegría."
+        },
+        {
+          "letter": "C",
+          "text": "Juana se alegra de ver a Pedro.",
+          "is_correct": false,
+          "feedback": "La acotación \"asustada\" contradice la alegría."
+        },
+        {
+          "letter": "D",
+          "text": "Juana está indiferente porque ya sabe lo que pasó.",
+          "is_correct": false,
+          "feedback": "La pregunta urgente revela que ignora qué ocurrió."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los parlamentos y las acotaciones trabajan juntos: las palabras muestran el contenido del mensaje, mientras las acotaciones aportan el matiz emocional. Leerlos en conjunto permite a los estudiantes comprender la intención dramática del autor.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-5-2026-W06-teatro-dialogo-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W06-teatro-dialogo-001-MASTERY-bundle-v4",
+      "statement": "¿Qué tipo de relación se establece entre los personajes?",
+      "context": "Una microobra estudiantil del barrio San Cristóbal en Bogotá presenta este fragmento:\n\nMAESTRO: La vida es un camino largo.\nALUMNO: ¿Y si me canso?\nMAESTRO: Descansas, y sigues.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una relación de enseñanza-aprendizaje, con un maestro que orienta a un alumno dubitativo.",
+          "is_correct": true,
+          "feedback": "El diálogo refleja la transmisión de experiencia y confianza entre un guía y un aprendiz."
+        },
+        {
+          "letter": "B",
+          "text": "Una riña entre compañeros de clase.",
+          "is_correct": false,
+          "feedback": "No hay agresión ni disputa, sino diálogo reflexivo."
+        },
+        {
+          "letter": "C",
+          "text": "Un pacto comercial entre desconocidos.",
+          "is_correct": false,
+          "feedback": "El vocabulario es reflexivo, no mercantil."
+        },
+        {
+          "letter": "D",
+          "text": "Una despedida definitiva.",
+          "is_correct": false,
+          "feedback": "El diálogo es cotidiano, no un adiós."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El diálogo teatral revela no solo información, sino la relación entre los personajes. Los roles (maestro-alumno, padres-hijos, amigos) se construyen por el tono, las preguntas, las respuestas y los silencios que el autor dispone en la escena.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-5-2026-W06-teatro-dialogo-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W06-teatro-dialogo-001-MASTERY-bundle-v5",
+      "statement": "¿Qué efecto busca el autor con el segundo parlamento?",
+      "context": "En una obra de teatro infantil de Cali, un personaje dice: \"Yo no tengo la culpa; él lo hizo primero\". Otro responde: \"Las excusas no arreglan los platos rotos\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Confrontar al personaje para que asuma su responsabilidad.",
+          "is_correct": true,
+          "feedback": "El segundo personaje rechaza la excusa y exige responsabilidad."
+        },
+        {
+          "letter": "B",
+          "text": "Reforzar la disculpa del primer personaje.",
+          "is_correct": false,
+          "feedback": "El segundo parlamento critica, no apoya, la disculpa."
+        },
+        {
+          "letter": "C",
+          "text": "Cambiar el tema de la conversación.",
+          "is_correct": false,
+          "feedback": "La respuesta sigue en el mismo eje: la culpa."
+        },
+        {
+          "letter": "D",
+          "text": "Pedir perdón en nombre del primero.",
+          "is_correct": false,
+          "feedback": "La expresión \"no arreglan los platos rotos\" responsabiliza, no disculpa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el teatro, los parlamentos sucesivos pueden reforzar, contradecir o matizar lo dicho por otro personaje. Detectar estas relaciones argumentativas permite a los estudiantes comprender la construcción dramática del conflicto y la evolución de los personajes.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-5-2026-W06-teatro-dialogo-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W06-teatro-dialogo-001-MASTERY-bundle-v6",
+      "statement": "¿Qué efecto narrativo logra el autor al incluir personajes sin parlamentos?",
+      "context": "En una obra breve escrita por estudiantes de Ibagué aparecen cinco personajes, pero solo dos de ellos hablan durante toda la pieza; los otros tres aparecen en acotaciones mudas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Crear un contraste entre lo que se dice y lo que se muestra, enriqueciendo la puesta en escena.",
+          "is_correct": true,
+          "feedback": "Los personajes mudos comunican por gestos y acciones, complementando el diálogo."
+        },
+        {
+          "letter": "B",
+          "text": "Disminuir la importancia del diálogo en el teatro.",
+          "is_correct": false,
+          "feedback": "El diálogo sigue siendo central; los personajes mudos lo complementan."
+        },
+        {
+          "letter": "C",
+          "text": "Convertir la obra en un cuento narrado.",
+          "is_correct": false,
+          "feedback": "El formato sigue siendo teatral, con parlamentos y acotaciones."
+        },
+        {
+          "letter": "D",
+          "text": "Evitar que el público preste atención.",
+          "is_correct": false,
+          "feedback": "Los personajes mudos suelen captar la atención por su silencio significativo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El teatro combina palabra, gesto y silencio. Los personajes sin parlamentos cumplen funciones dramáticas precisas: testigos, antagonistas silenciosos, símbolos o voces colectivas. Analizarlos ayuda a comprender la totalidad del mensaje escénico.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LC-5-2026-W06-teatro-dialogo-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W06-teatro-dialogo-001-MASTERY-bundle-v7",
+      "statement": "¿Qué intención profunda transmite esta frase al analizar el género teatral?",
+      "context": "Un dramaturgo latinoamericano del siglo XX escribió: \"En el teatro, el público no mira el mundo: mira al mundo mirándose a sí mismo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el teatro funciona como espejo social y emocional: permite a la audiencia verse en las historias representadas.",
+          "is_correct": true,
+          "feedback": "El teatro invita al reconocimiento y a la reflexión sobre la propia experiencia."
+        },
+        {
+          "letter": "B",
+          "text": "Que el teatro es solo un entretenimiento superficial.",
+          "is_correct": false,
+          "feedback": "La frase resalta su profundidad, no su superficialidad."
+        },
+        {
+          "letter": "C",
+          "text": "Que el público debe permanecer callado durante toda la obra.",
+          "is_correct": false,
+          "feedback": "La frase habla del sentido, no del comportamiento del público."
+        },
+        {
+          "letter": "D",
+          "text": "Que el teatro reemplaza a la escuela.",
+          "is_correct": false,
+          "feedback": "El teatro complementa, no reemplaza, la educación formal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La función reflexiva del teatro es una idea central en la estética teatral latinoamericana. Obras como las de Florencio Sánchez o Xavier Villaurrutia usan el escenario para que la sociedad dialogue consigo misma,observe sus conflictos y proponga transformaciones culturales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-5-2026-W06-teatro-dialogo-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W06-teatro-dialogo-001-MASTERY-bundle-v8",
+      "statement": "¿Qué argumento tiene mayor peso pedagógico para incluir autores contemporáneos colombianos en el aula?",
+      "context": "Un grupo de docentes debate si incluir una obra de teatro breve escrita por un autor colombiano contemporáneo en la lectura obligatoria de grado quinto, frente a mantener obras clásicas universales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los textos contemporáneos permiten a los estudiantes reconocer su contexto, su lengua y sus problemáticas, fortaleciendo la identidad cultural y el hábito lector.",
+          "is_correct": true,
+          "feedback": "Leer autores cercanos favorece la apropiación cultural y la motivación lectora."
+        },
+        {
+          "letter": "B",
+          "text": "Los clásicos universales son inútiles porque ya nadie los entiende.",
+          "is_correct": false,
+          "feedback": "Los clásicos mantienen valor; el debate es sobre equilibrio, no exclusión."
+        },
+        {
+          "letter": "C",
+          "text": "Los autores contemporáneos escriben mejor que los clásicos en todo sentido.",
+          "is_correct": false,
+          "feedback": "La calidad no depende solo de la época, sino del propósito y el lector."
+        },
+        {
+          "letter": "D",
+          "text": "Solo deben leerse autores de la propia ciudad.",
+          "is_correct": false,
+          "feedback": "El criterio geográfico es demasiado restrictivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La selección de lecturas en la escuela debe equilibrar tradición y contemporaneidad. Incluir autores colombianos cercanos al estudiante (repensando su ciudad, su habla y sus problemas) genera sentido de pertenencia, sin descartar el aporte de los grandes clásicos universales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.35,
+      "bundle_id": "CO-LC-5-2026-W06-teatro-dialogo-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

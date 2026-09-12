@@ -8,88 +8,43 @@
   },
   "questions": [
     {
-      "id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v1",
-      "statement": "En la clase de Lengua y Literatura del Colegio Nacional Bernardo Valdivieso de Cuenca, María y Camila debaten sobre las diferencias conceptuales entre lengua, lenguaje y habla. ¿Cuál de las siguientes afirmaciones define correctamente el concepto de 'lengua'?",
-      "context": "María, estudiante de 11° de Bachillerato en el Colegio Nacional Bernardo Valdivieso de Cuenca, reflexiona sobre el rol del idioma como patrimonio social frente al uso individual diario.",
+      "id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle-v1",
+      "statement": "¿Qué autor nicaragüense es considerado el principal fundador del modernismo hispanoamericano?",
+      "context": "En un colegio de Quito, tu clase de Lengua y Literatura inicia la unidad sobre las vanguardias y repasa primero el modernismo.",
       "options": [
         {
           "letter": "A",
-          "text": "Es el sistema social de signos lingüísticos, compartido por una comunidad de hablantes de Cuenca de manera convencional.",
+          "text": "Rubén Darío",
           "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "feedback": "Correcto. Rubén Darío inauguró el modernismo con Azul... (1888) y consolidó el movimiento con Prosas profanas (1896)."
         },
         {
           "letter": "B",
-          "text": "Es la facultad innata de carácter biológico y universal que posee el ser humano de Cuenca para comunicarse.",
+          "text": "José Juan Tablada",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. Tablada fue poeta mexicano vinculado a la jitanjáfora y al vanguardismo, no fundador del modernismo."
         },
         {
           "letter": "C",
-          "text": "Es el uso individual, físico y voluntario que hace cada estudiante del Colegio Nacional Bernardo Valdivieso en un momento específico.",
+          "text": "Salomón de la Selva",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. Salomón de la Selva fue poeta nicaragüense de transición hacia la modernización posterior a Darío."
         },
         {
           "letter": "D",
-          "text": "Es un conjunto de deformaciones ortográficas accidentales que se producen únicamente en la escritura de Cuenca.",
+          "text": "Medardo Ángel Silva",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. Silva fue poeta guayaquileño de la generación decapista, continuador ecuatoriano del darianismo, no fundador del movimiento."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La lengua es un sistema de signos lingüísticos, social y abstracto que comparte una comunidad de hablantes, a diferencia del lenguaje (capacidad universal) y el habla (realización individual física).\n\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.9,
-      "bundle_id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v2",
-      "statement": "Analizando la evolución humana en Ambato, el profesor de Lengua destaca que la capacidad cerebral para estructurar oraciones complejas es común a todos los seres humanos. ¿A qué término de la lingüística corresponde esta definición?",
-      "context": "José, estudiante de 11° de Bachillerato en el Colegio Nacional Nueve de Octubre de Ambato, reflexiona sobre el rol del idioma como patrimonio social frente al uso individual diario.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "A la lengua, que es el idioma específico estructurado con normas fijadas en el Colegio Nacional Nueve de Octubre.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "A la dialectología, que clasifica las lenguas indígenas del callejón interandino ecuatoriano.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "Al lenguaje, entendido como la facultad universal y biológica de la especie humana en Ambato para comunicarse.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "D",
-          "text": "Al habla, ya que es el acto concreto de articulación que realiza José de manera independiente.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "El lenguaje es la capacidad innata y universal de los seres humanos para expresar pensamientos y sentimientos por medio de signos.\n\n---",
+      "explanation": "Rubén Darío (1867-1916) lideró la renovación estética del modernismo entre 1880 y 1920. Su libro Azul... (1888) marca el punto de partida y Prosas profanas (1896) consolidó el ideal de arte, musicalidad y cosmopolitismo del movimiento.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.88,
-      "bundle_id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle",
+      "expected_success": 0.85,
+      "bundle_id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -98,178 +53,43 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v3",
-      "statement": "Durante una exposición grupal en Manta, Mateo comete un pequeño tropiezo de pronunciación al decir 'pader' en vez de 'pared'. Su docente de Colegio Nacional Maldonado le aclara que la norma del idioma español establece 'pared'.",
-      "context": "Mateo, estudiante de 11° de Bachillerato en el Colegio Nacional Maldonado de Manta, reflexiona sobre el rol del idioma como patrimonio social frente al uso individual diario.",
+      "id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle-v2",
+      "statement": "El poema \"Sonatina\", con sus princesas y paisajes de ensueño, pertenece a cuál libro de Rubén Darío?",
+      "context": "Una estudiante de un colegio de Guayaquil prepara una antología de poesía modernista para el club de lectura.",
       "options": [
         {
           "letter": "A",
-          "text": "El tropiezo es un cambio semántico y la norma es un canal físico-acústico de Colegio Nacional Maldonado.",
+          "text": "Azul...",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. Azul... (1888) es el libro inaugural del modernismo, pero \"Sonatina\" no pertenece a él."
         },
         {
           "letter": "B",
-          "text": "Ambos fenómenos pertenecen exclusivamente al lenguaje, puesto que carecen de una base social compartida.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "text": "Prosas profanas",
+          "is_correct": true,
+          "feedback": "Correcto. \"Sonatina\" integra Prosas profanas (1896), obra cumbre de la etapa más musical y cosmopolita del modernismo dariano."
         },
         {
           "letter": "C",
-          "text": "El tropiezo corresponde al habla (uso individual de Mateo) y la norma general al sistema de la lengua andina en Manta.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "Cantos de vida y esperanza",
+          "is_correct": false,
+          "feedback": "Incorrecto. En esa etapa posterior Darío abandona la evasión estética por la reflexión existencial y continental."
         },
         {
           "letter": "D",
-          "text": "El tropiezo corresponde al lenguaje universal y la norma al habla particular de Manta.",
+          "text": "El canto errante",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "El tropiezo individual de pronunciación es un hecho del habla (uso concreto y mutable del sistema), mientras que la norma gramatical estándar pertenece a la lengua (sistema social estático).\n\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.86,
-      "bundle_id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v4",
-      "statement": "En una comunidad ancestral cerca de Loja, los habitantes utilizan el kichwa de manera cotidiana en sus hogares y el castellano para sus gestiones comerciales. ¿Qué concepto describe mejor el quichua y el castellano en este entorno?",
-      "context": "Sebastián, estudiante de 11° de Bachillerato en el Colegio Nacional Olmedo de Loja, reflexiona sobre el rol del idioma como patrimonio social frente al uso individual diario.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Son dos lenguas distintas de Loja, es decir, dos sistemas lingüísticos sociales e independientes con gramáticas propias.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "B",
-          "text": "Son dos tipos de habla individual de Sebastián sin normas ni estructuras de carácter gramatical.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "Son dos variedades de lenguaje biológico exclusivas de Colegio Nacional Olmedo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "Son dos canales artificiales de comunicación visual aprobados por el Ministerio en Loja.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Tanto el kichwa como el castellano son lenguas plenamente constituidas, es decir, sistemas lingüísticos sociales con sus propios códigos, fonología y gramática.\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.84,
-      "bundle_id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v5",
-      "statement": "Analizando las características del circuito lingüístico en el Colegio Nacional Mejía de Riobamba, el docente sostiene que el habla es 'individual, psicofísica, de ejecución voluntaria y efímera'.",
-      "context": "Valentina, estudiante de 11° de Bachillerato en el Colegio Nacional Mejía de Riobamba, reflexiona sobre el rol del idioma como patrimonio social frente al uso individual diario.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Porque sus reglas ortográficas nunca cambian con el transcurrir de las épocas en Colegio Nacional Mejía.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "Porque se materializa en el habla concreta de cada alumno de Colegio Nacional Mejía de Riobamba y desaparece físicamente una vez emitido el sonido.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "C",
-          "text": "Porque está grabada de forma permanente en los genes y el cerebro de toda la humanidad en Riobamba.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "Porque requiere de una aprobación legal previa por parte del Ministerio de Educación en Riobamba.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. El canto errante es un libro posterior de viaje y meditación, ajeno a la estética de \"Sonatina\"."
         }
       ],
       "correct_answer": "B",
-      "explanation": "El habla es efímera porque consiste en una realización física momentánea; las vibraciones sonoras de la voz se disipan inmediatamente después de ser emitidas.\n\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.82,
-      "bundle_id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v6",
-      "statement": "En la clase de Lengua y Literatura del Colegio Nacional Vicente Rocafuerte de Ibarra, Camila y Elena debaten sobre las diferencias conceptuales entre lengua, lenguaje y habla. ¿Cuál de las siguientes afirmaciones define correctamente el concepto de 'lengua'?",
-      "context": "Camila, estudiante de 11° de Bachillerato en el Colegio Nacional Vicente Rocafuerte de Ibarra, reflexiona sobre el rol del idioma como patrimonio social frente al uso individual diario.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Es el sistema social de signos lingüísticos, compartido por una comunidad de hablantes de Ibarra de manera convencional.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "B",
-          "text": "Es la facultad innata de carácter biológico y universal que posee el ser humano de Ibarra para comunicarse.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "Es el uso individual, físico y voluntario que hace cada estudiante del Colegio Nacional Vicente Rocafuerte en un momento específico.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "Es un conjunto de deformaciones ortográficas accidentales que se producen únicamente en la escritura de Ibarra.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "La lengua es un sistema de signos lingüísticos, social y abstracto que comparte una comunidad de hablantes, a diferencia del lenguaje (capacidad universal) y el habla (realización individual física).\n\n---",
-      "difficulty": "6",
+      "explanation": "\"Sonatina\" ejemplifica el primer Darío: verso musical, léxico exótico (princesas, cisnes, jardines) y evasión aristocrática del utilitarismo. Ese refinamiento corresponde a Prosas profanas (1896), núcleo del programa modernista.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
       "expected_success": 0.8,
-      "bundle_id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle",
+      "bundle_id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -278,43 +98,43 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v7",
-      "statement": "Analizando la evolución humana en Portoviejo, el profesor de Lengua destaca que la capacidad cerebral para estructurar oraciones complejas es común a todos los seres humanos. ¿A qué término de la lingüística corresponde esta definición?",
-      "context": "Santiago, estudiante de 11° de Bachillerato en el Colegio Benigno Malo de Portoviejo, reflexiona sobre el rol del idioma como patrimonio social frente al uso individual diario.",
+      "id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle-v3",
+      "statement": "¿En qué año se publicó Azul..., libro que inauguró el modernismo hispanoamericano?",
+      "context": "En un liceo de Cuenca, el docente proyecta una línea de tiempo del modernismo (1880-1920) y pide ubicar obras clave.",
       "options": [
         {
           "letter": "A",
-          "text": "A la lengua, que es el idioma específico estructurado con normas fijadas en el Colegio Benigno Malo.",
+          "text": "1896",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. 1896 es la fecha de Prosas profanas, no de Azul..."
         },
         {
           "letter": "B",
-          "text": "A la dialectología, que clasifica las lenguas indígenas del callejón interandino ecuatoriano.",
+          "text": "1905",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. 1905 corresponde a \"A Roosevelt\", poema posterior de la etapa comprometida de Darío."
         },
         {
           "letter": "C",
-          "text": "Al lenguaje, entendido como la facultad universal y biológica de la especie humana en Portoviejo para comunicarse.",
+          "text": "1888",
           "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "feedback": "Correcto. Azul... se publicó en 1888 y se considera el acta de nacimiento del modernismo."
         },
         {
           "letter": "D",
-          "text": "Al habla, ya que es el acto concreto de articulación que realiza Santiago de manera independiente.",
+          "text": "1918",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. 1918 es la fecha de Los heraldos negros de Vallejo, obra de transición hacia la vanguardia."
         }
       ],
       "correct_answer": "C",
-      "explanation": "El lenguaje es la capacidad innata y universal de los seres humanos para expresar pensamientos y sentimientos por medio de signos.\n\n---",
-      "difficulty": "5",
+      "explanation": "Azul... (1888) reunió poemas y relatos que renovaron el lenguaje poético en español con musicalidad, sincretismo cultural y cosmopolitismo. Fijar su fecha ayuda a ordenar cronológicamente el periodo modernista (1880-1920) frente al posterior ciclo de vanguardias (1910-1940).",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.78,
-      "bundle_id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -323,43 +143,88 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v8",
-      "statement": "Durante una exposición grupal en Machala, Alejandro comete un pequeño tropiezo de pronunciación al decir 'pader' en vez de 'pared'. Su docente de Colegio Nacional Bolívar le aclara que la norma del idioma español establece 'pared'.",
-      "context": "Alejandro, estudiante de 11° de Bachillerato en el Colegio Nacional Bolívar de Machala, reflexiona sobre el rol del idioma como patrimonio social frente al uso individual diario.",
+      "id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle-v4",
+      "statement": "El modernismo se definió, en gran parte, como una reacción contra qué postura?",
+      "context": "En un debate escolar en Quito se pregunta por qué los modernistas huían de temas industriales y mercantiles.",
       "options": [
         {
           "letter": "A",
-          "text": "El tropiezo corresponde al habla (uso individual de Alejandro) y la norma general al sistema de la lengua andina en Machala.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "El barroco colonial",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modernismo no reaccionó contra el barroco; incluso rescató ciertos ornamentos del siglo de Oro."
         },
         {
           "letter": "B",
-          "text": "El tropiezo corresponde al lenguaje universal y la norma al habla particular de Machala.",
+          "text": "El romanticismo alemán",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. El romanticismo no fue su blanco polémico; el modernismo tomó de él la subjetividad y la huida idealista."
         },
         {
           "letter": "C",
-          "text": "El tropiezo es un cambio semántico y la norma es un canal físico-acústico de Colegio Nacional Bolívar.",
+          "text": "La narrativa realista rusa",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. La novela rusa no formaba parte del horizonte de combate estético modernista."
         },
         {
           "letter": "D",
-          "text": "Ambos fenómenos pertenecen exclusivamente al lenguaje, puesto que carecen de una base social compartida.",
+          "text": "El utilitarismo y el prosaísmo materialista",
+          "is_correct": true,
+          "feedback": "Correcto. El modernismo rechazó el utilitarismo y la visión mercantil de la vida, reivindicando el arte por su propio valor."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los modernistas opusieron a la sociedad utilitarista y materialista una estética de la belleza autónoma: prosa musical, sincretismo de mitos y culturas, y cosmopolitismo. Entender esa reacción explica su evasión de príncipes y cisnes frente al positivismo de fin de siglo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle-v5",
+      "statement": "Micro-texto original: \"La cisnea tarde declina sus zafiros / sobre el jardín de mármol y de oro\". ¿Qué rasgos modernista aplicó el estudiante?",
+      "context": "Un estudiante de un colegio de Guayaquil escribe un texto original para imitar el estilo modernista en el taller de creación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Léxico sensorial y exotismo decorativo con musicalidad del verso",
+          "is_correct": true,
+          "feedback": "Correcto. Los sustantivos preciosistas (zafiros, mármol, oro), el símbolo del cisne y el ritmo deliberado reproducen el programa de Prosas profanas."
+        },
+        {
+          "letter": "B",
+          "text": "Verso libre sin metría y metáforas irracionales encadenadas",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. Esa sería una técnica vanguardista; el fragmento imitado mantiene cadencia y ornamento propio del modernismo."
+        },
+        {
+          "letter": "C",
+          "text": "Lenguaje coloquial y denuncia obrera inmediata",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modernismo evitaba el coloquialismo y la denuncia directa; buscaba la elevación estética del lenguaje."
+        },
+        {
+          "letter": "D",
+          "text": "Estructura de collage con recortes de periódicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El collage es recurso de las vanguardias (ultraísmo, creacionismo), ajeno al pastiche modernista presentado."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El tropiezo individual de pronunciación es un hecho del habla (uso concreto y mutable del sistema), mientras que la norma gramatical estándar pertenece a la lengua (sistema social estático).\n\n---",
+      "explanation": "Aplicar el concepto exige reconocer marcas formales: sinestesia, preciosismo léxico, símbolo del cisne y ritmo. El estudiante replica la musicalidad y el exotismo, no la ruptura métrica que llegaría con las vanguardias.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.76,
-      "bundle_id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle",
+      "expected_success": 0.75,
+      "bundle_id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -368,133 +233,43 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v9",
-      "statement": "En una comunidad ancestral cerca de Esmeraldas, los habitantes utilizan el kichwa de manera cotidiana en sus hogares y el castellano para sus gestiones comerciales. ¿Qué concepto describe mejor el quichua y el castellano en este entorno?",
-      "context": "Gabriela, estudiante de 11° de Bachillerato en el Unidad Educativa Santo Domingo de Esmeraldas, reflexiona sobre el rol del idioma como patrimonio social frente al uso individual diario.",
+      "id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál de las siguientes obras corresponde a la etapa vanguardista de César Vallejo?",
+      "context": "En la biblioteca de un colegio de Cuenca, separan fichas de obras modernistas y vanguardistas por estantes.",
       "options": [
         {
           "letter": "A",
-          "text": "Son dos variedades de lenguaje biológico exclusivas de Unidad Educativa Santo Domingo.",
+          "text": "Prosas profanas",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. Prosas profanas (1896) es de Rubén Darío, piedra angular del modernismo, no de Vallejo."
         },
         {
           "letter": "B",
-          "text": "Son dos canales artificiales de comunicación visual aprobados por el Ministerio en Esmeraldas.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "text": "Trilce",
+          "is_correct": true,
+          "feedback": "Correcto. Trilce (1922) es el libro vanguardista de Vallejo: rompe la sintaxis y la métrica heredadas del modernismo."
         },
         {
           "letter": "C",
-          "text": "Son dos lenguas distintas de Esmeraldas, es decir, dos sistemas lingüísticos sociales e independientes con gramáticas propias.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "Azul...",
+          "is_correct": false,
+          "feedback": "Incorrecto. Azul... (1888) inauguró el modernismo dariano; no pertenece a Vallejo ni a la vanguardia."
         },
         {
           "letter": "D",
-          "text": "Son dos tipos de habla individual de Gabriela sin normas ni estructuras de carácter gramatical.",
+          "text": "Notas de viaje",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Tanto el kichwa como el castellano son lenguas plenamente constituidas, es decir, sistemas lingüísticos sociales con sus propios códigos, fonología y gramática.\n\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.74,
-      "bundle_id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v10",
-      "statement": "Analizando las características del circuito lingüístico en el Colegio Nacional Manta de Santo Domingo, el docente sostiene que el habla es 'individual, psicofísica, de ejecución voluntaria y efímera'.",
-      "context": "David, estudiante de 11° de Bachillerato en el Colegio Nacional Manta de Santo Domingo, reflexiona sobre el rol del idioma como patrimonio social frente al uso individual diario.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Porque se materializa en el habla concreta de cada alumno de Colegio Nacional Manta de Santo Domingo y desaparece físicamente una vez emitido el sonido.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "B",
-          "text": "Porque está grabada de forma permanente en los genes y el cerebro de toda la humanidad en Santo Domingo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "Porque requiere de una aprobación legal previa por parte del Ministerio de Educación en Santo Domingo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "Porque sus reglas ortográficas nunca cambian con el transcurrir de las épocas en Colegio Nacional Manta.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "El habla es efímera porque consiste en una realización física momentánea; las vibraciones sonoras de la voz se disipan inmediatamente después de ser emitidas.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.72,
-      "bundle_id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v11",
-      "statement": "En la clase de Lengua y Literatura del Colegio Nacional Bernardo Valdivieso de Quito, Elena y Estefanía debaten sobre las diferencias conceptuales entre lengua, lenguaje y habla. ¿Cuál de las siguientes afirmaciones define correctamente el concepto de 'lengua'?",
-      "context": "Elena, estudiante de 11° de Bachillerato en el Colegio Nacional Bernardo Valdivieso de Quito, reflexiona sobre el rol del idioma como patrimonio social frente al uso individual diario.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Es un conjunto de deformaciones ortográficas accidentales que se producen únicamente en la escritura de Quito.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "Es el sistema social de signos lingüísticos, compartido por una comunidad de hablantes de Quito de manera convencional.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "C",
-          "text": "Es la facultad innata de carácter biológico y universal que posee el ser humano de Quito para comunicarse.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "Es el uso individual, físico y voluntario que hace cada estudiante del Colegio Nacional Bernardo Valdivieso en un momento específico.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. Notas de viaje (1908) es prosa ensayística de Benjamín Carrión en la órbita del modernismo ecuatoriano."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La lengua es un sistema de signos lingüísticos, social y abstracto que comparte una comunidad de hablantes, a diferencia del lenguaje (capacidad universal) y el habla (realización individual física).\n\n---",
-      "difficulty": "7",
+      "explanation": "Vallejo transitó del modernismo al vanguardismo: Los heraldos negros (1918) aún musical, Trilce (1922) ya radical en experimentación formal. Distinguir ambos libros permite aplicar el criterio de \"ruptura\" que define a las vanguardias (1910-1940).",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
       "expected_success": 0.7,
-      "bundle_id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle",
+      "bundle_id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -503,43 +278,43 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v12",
-      "statement": "Analizando la evolución humana en Guayaquil, el profesor de Lengua destaca que la capacidad cerebral para estructurar oraciones complejas es común a todos los seres humanos. ¿A qué término de la lingüística corresponde esta definición?",
-      "context": "Diana, estudiante de 11° de Bachillerato en el Colegio Nacional Nueve de Octubre de Guayaquil, reflexiona sobre el rol del idioma como patrimonio social frente al uso individual diario.",
+      "id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle-v7",
+      "statement": "El creacionismo, que declaraba al poeta \"un pequeño dios\" capaz de crear cosas nuevas, fue fundado por qué autor?",
+      "context": "Tu docente de un colegio de Quito pide clasificar manifiestos y corrientes de la vanguardia latinoamericana.",
       "options": [
         {
           "letter": "A",
-          "text": "Al habla, ya que es el acto concreto de articulación que realiza Diana de manera independiente.",
+          "text": "César Vallejo",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. Vallejo cultivó una ruptura propia (Trilce), pero el creacionismo como doctrina es de otro autor."
         },
         {
           "letter": "B",
-          "text": "A la lengua, que es el idioma específico estructurado con normas fijadas en el Colegio Nacional Nueve de Octubre.",
+          "text": "José Juan Tablada",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. Tablada es recordado por la jitanjáfora y la experimentación lúdica del lenguaje, no por el creacionismo."
         },
         {
           "letter": "C",
-          "text": "A la dialectología, que clasifica las lenguas indígenas del callejón interandino ecuatoriano.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "text": "Vicente Huidobro",
+          "is_correct": true,
+          "feedback": "Correcto. El chileno Vicente Huidobro teorizó el creacionismo: el poema debe crear, no describir la realidad."
         },
         {
           "letter": "D",
-          "text": "Al lenguaje, entendido como la facultad universal y biológica de la especie humana en Guayaquil para comunicarse.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "Salomón de la Selva",
+          "is_correct": false,
+          "feedback": "Incorrecto. Salomón de la Selva, poeta nicaragüense, no fundó el creacionismo chileno de Huidobro."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "El lenguaje es la capacidad innata y universal de los seres humanos para expresar pensamientos y sentimientos por medio de signos.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "El creacionismo de Huidobro radicaliza la autonomía del arte: en lugar del paisaje decorativo modernista, el poeta crea versiones nuevas del mundo. Reconocer la corriente y su fundador aplica el mapa de las vanguardias 1910-1940.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.68,
-      "bundle_id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle",
+      "expected_success": 0.75,
+      "bundle_id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -548,43 +323,88 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v13",
-      "statement": "Durante una exposición grupal en Cuenca, Carlos comete un pequeño tropiezo de pronunciación al decir 'pader' en vez de 'pared'. Su docente de Colegio Nacional Maldonado le aclara que la norma del idioma español establece 'pared'.",
-      "context": "Carlos, estudiante de 11° de Bachillerato en el Colegio Nacional Maldonado de Cuenca, reflexiona sobre el rol del idioma como patrimonio social frente al uso individual diario.",
+      "id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle-v8",
+      "statement": "Micro-texto original: \"Ondultray, calaverina, silbambra de cristal\". ¿Qué recurso de vanguardia, difundido por José Juan Tablada, imita este verso?",
+      "context": "En un taller literario de un colegio de Guayaquil, una estudiante juega con versos hechos solo de sonido.",
       "options": [
         {
           "letter": "A",
-          "text": "El tropiezo corresponde al habla (uso individual de Carlos) y la norma general al sistema de la lengua andina en Cuenca.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "El alexandrino modernista",
+          "is_correct": false,
+          "feedback": "Incorrecto. El alexandrino es un metro de 14 sílabas cultivado por los modernistas; el ejemplo no imita una forma métrica."
         },
         {
           "letter": "B",
-          "text": "El tropiezo corresponde al lenguaje universal y la norma al habla particular de Cuenca.",
+          "text": "El collage ultraísta",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. El collage ensambla recortes e imágenes verbales de fuentes distintas; aquí solo hay invención fonética."
         },
         {
           "letter": "C",
-          "text": "El tropiezo es un cambio semántico y la norma es un canal físico-acústico de Colegio Nacional Maldonado.",
+          "text": "El poema en prosa",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. No hay párrafo rítmico en prosa; el ejemplo trabaja sobre el puro material sonoro de la palabra."
         },
         {
           "letter": "D",
-          "text": "Ambos fenómenos pertenecen exclusivamente al lenguaje, puesto que carecen de una base social compartida.",
+          "text": "La jitanjáfora",
+          "is_correct": true,
+          "feedback": "Correcto. La jitanjáfora, asociada a Tablada, privilegia el valor sonoro de palabras inventadas o semánticamente opacas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La jitanjáfora lleva al extremo la autonomía del significante: el sentido nace del ritmo y la textura vocálica, no de la referencia. Es un buen caso para contrastar la musicalidad ornamenta del modernismo con la lúdica deconstrucción vanguardista.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle-v9",
+      "statement": "¿Qué poeta guayaquileño de la generación decapista mostró en su obra la huella de la influencia de Rubén Darío?",
+      "context": "Un grupo de un colegio de Quito investiga cómo llegó el darianismo al Ecuador a comienzos del siglo XX.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Medardo Ángel Silva",
+          "is_correct": true,
+          "feedback": "Correcto. Medardo Ángel Silva, figura de los decapistas de Guayaquil, es el referente ecuatoriano de la continuidad modernista dariana."
+        },
+        {
+          "letter": "B",
+          "text": "Alfonso Chase",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. Chase es un experimentador de la segunda mitad del siglo XX (existogramas), de otra época y proyecto estético."
+        },
+        {
+          "letter": "C",
+          "text": "Vicente Huidobro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Huidobro fue chileno y fundador del creacionismo; no pertenece a la generación decapista ecuatoriana."
+        },
+        {
+          "letter": "D",
+          "text": "Salomón de la Selva",
+          "is_correct": false,
+          "feedback": "Incorrecto. Salomón de la Selva fue nicaragüense; la pregunta apunta a la recepción del modernismo dentro del Ecuador."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El tropiezo individual de pronunciación es un hecho del habla (uso concreto y mutable del sistema), mientras que la norma gramatical estándar pertenece a la lengua (sistema social estático).\n\n---",
-      "difficulty": "7",
+      "explanation": "En Ecuador el modernismo tuvo continuidad en Benjamín Carrión y en los poetas decapistas de Guayaquil, entre ellos Medardo Ángel Silva, cuyo lirismo dariano se mezcló con la bohemia porteña. Situar a Silva en ese linaje aplica el concepto de \"modernismo ecuatoriano\".",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.66,
-      "bundle_id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle",
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -593,43 +413,88 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v14",
-      "statement": "En una comunidad ancestral cerca de Ambato, los habitantes utilizan el kichwa de manera cotidiana en sus hogares y el castellano para sus gestiones comerciales. ¿Qué concepto describe mejor el quichua y el castellano en este entorno?",
-      "context": "Rafael, estudiante de 11° de Bachillerato en el Colegio Nacional Olmedo de Ambato, reflexiona sobre el rol del idioma como patrimonio social frente al uso individual diario.",
+      "id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle-v10",
+      "statement": "Notas de viaje (1908), texto clave de la órbita modernista en el Ecuador, fue escrito por quién?",
+      "context": "En una ficha de lectura de un colegio de Cuenca debe asociar cada obra ecuatoriana con su autor y movimiento.",
       "options": [
         {
           "letter": "A",
-          "text": "Son dos variedades de lenguaje biológico exclusivas de Colegio Nacional Olmedo.",
+          "text": "Medardo Ángel Silva",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. Silva fue poeta decapista; la prosa de Notas de viaje corresponde a otro intelectual ecuatoriano."
         },
         {
           "letter": "B",
-          "text": "Son dos canales artificiales de comunicación visual aprobados por el Ministerio en Ambato.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "text": "Benjamín Carrión",
+          "is_correct": true,
+          "feedback": "Correcto. Benjamín Carrión publicó Notas de viaje en 1908, obra que proyectó el modernismo ecuatoriano hacia la reflexión cultural."
         },
         {
           "letter": "C",
-          "text": "Son dos lenguas distintas de Ambato, es decir, dos sistemas lingüísticos sociales e independientes con gramáticas propias.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "Rubén Darío",
+          "is_correct": false,
+          "feedback": "Incorrecto. Darío fue nicaragüense; Notas de viaje (1908) es del ensayista ecuatoriano Carrión."
         },
         {
           "letter": "D",
-          "text": "Son dos tipos de habla individual de Rafael sin normas ni estructuras de carácter gramatical.",
+          "text": "Alfonso Chase",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. Chase pertenece a la experimentación de mediados y fines del siglo XX, muy posterior a 1908."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Notas de viaje (1908) documenta el viaje estético e intelectual del modernismo ecuatoriano. Carrión, además de escritor, fue divulgador del movimiento, lo que explica la continuidad dariana en el país antes del advenimiento de las vanguardias.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle-v11",
+      "statement": "En \"A Roosevelt\" (1905), Darío contrapone al águila \"cazadora\" del Norte la \"columba\" del alma hispanoamericana. ¿Qué se analiza mejor en esa oposición?",
+      "context": "En un colegio de Guayaquil analizan el giro ideológico del último Darío tras leer parte de \"A Roosevelt\" (1905).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una vuelta al exotismo aristocrático de Prosas profanas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El poema abandona deliberadamente la evasión decorativa para asumir una posición ideológica continental."
+        },
+        {
+          "letter": "B",
+          "text": "Un experimento vanguardista de verso libre y collage",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pese a su vigor, el poema no emplea técnicas de ruptura vanguardista como el collage o el verso libre radical."
+        },
+        {
+          "letter": "C",
+          "text": "Una crítica al materialismo utilitarista desde la identidad espiritual hispanoamericana",
+          "is_correct": true,
+          "feedback": "Correcto. La antítesis águila/columba sintetiza la denuncia del imperialismo materialista y la reivindicación del linaje cultural latino."
+        },
+        {
+          "letter": "D",
+          "text": "Una imitación del modernismo ecuatoriano de Carrión",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay relación de imitación; el poema es anterior y ajeno al círculo ecuatoriano analizado."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Tanto el kichwa como el castellano son lenguas plenamente constituidas, es decir, sistemas lingüísticos sociales con sus propios códigos, fonología y gramática.\n\n---",
+      "explanation": "\"A Roosevelt\" muestra que el mismo modernismo que nació como rechazo del utilitarismo evolucionó hacia la denuncia geopolítica. Analizar la metáfora del águila y la columba exige articular esteticismo inicial y compromiso posterior en una sola trayectoria dariana.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.64,
-      "bundle_id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle",
+      "expected_success": 0.65,
+      "bundle_id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -638,88 +503,43 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v15",
-      "statement": "Analizando las características del circuito lingüístico en el Colegio Nacional Mejía de Manta, el docente sostiene que el habla es 'individual, psicofísica, de ejecución voluntaria y efímera'.",
-      "context": "Andrés, estudiante de 11° de Bachillerato en el Colegio Nacional Mejía de Manta, reflexiona sobre el rol del idioma como patrimonio social frente al uso individual diario.",
+      "id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle-v12",
+      "statement": "¿Qué conjunto de rasgos pertenece al proyecto vanguardista (1910-1940) y no al programa modernista?",
+      "context": "Dos estudiantes de un colegio de Quito comparan un soneto modernista con un poema vanguardista de metáforas deslumbrantes y ritmo suelto.",
       "options": [
         {
           "letter": "A",
-          "text": "Porque se materializa en el habla concreta de cada alumno de Colegio Nacional Mejía de Manta y desaparece físicamente una vez emitido el sonido.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "Sincretismo mitológico, princesas y léxico precioso",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese repertorio ornamental y mitológico es el corazón estético del modernismo dariano."
         },
         {
           "letter": "B",
-          "text": "Porque está grabada de forma permanente en los genes y el cerebro de toda la humanidad en Manta.",
+          "text": "Prosa musical, ritmo simétrico y evasión aristocrática",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. La musicalidad medida y la evasión definen a Prosas profanas, no a la vanguardia que rompe la métrica."
         },
         {
           "letter": "C",
-          "text": "Porque requiere de una aprobación legal previa por parte del Ministerio de Educación en Manta.",
+          "text": "Cosmopolitismo europeo y recuperacion del siglo de Oro",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. El cosmopolitismo parisino y la vuelta a los clásicos hispánicos son estrategias modernistas."
         },
         {
           "letter": "D",
-          "text": "Porque sus reglas ortográficas nunca cambian con el transcurrir de las épocas en Colegio Nacional Mejía.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "El habla es efímera porque consiste en una realización física momentánea; las vibraciones sonoras de la voz se disipan inmediatamente después de ser emitidas.\n\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.62,
-      "bundle_id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v16",
-      "statement": "En la clase de Lengua y Literatura del Colegio Nacional Vicente Rocafuerte de Loja, Estefanía y María debaten sobre las diferencias conceptuales entre lengua, lenguaje y habla. ¿Cuál de las siguientes afirmaciones define correctamente el concepto de 'lengua'?",
-      "context": "Estefanía, estudiante de 11° de Bachillerato en el Colegio Nacional Vicente Rocafuerte de Loja, reflexiona sobre el rol del idioma como patrimonio social frente al uso individual diario.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Es el uso individual, físico y voluntario que hace cada estudiante del Colegio Nacional Vicente Rocafuerte en un momento específico.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "Es un conjunto de deformaciones ortográficas accidentales que se producen únicamente en la escritura de Loja.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "Es el sistema social de signos lingüísticos, compartido por una comunidad de hablantes de Loja de manera convencional.",
+          "text": "Verso libre, metáfora libre y técnica de collage",
           "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "D",
-          "text": "Es la facultad innata de carácter biológico y universal que posee el ser humano de Loja para comunicarse.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Correcto. La vanguardia redefine el poema como ruptura: verso libre, imagen autónoma y ensamblaje de materiales heterogéneos."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La lengua es un sistema de signos lingüísticos, social y abstracto que comparte una comunidad de hablantes, a diferencia del lenguaje (capacidad universal) y el habla (realización individual física).\n\n---",
+      "correct_answer": "D",
+      "explanation": "La diferencia no es tematica sino estructural: el modernismo renueva la lengua dentro de la tradición métrica, mientras la vanguardia disuelve la métrica y la lógica de la imagen. Identificar el paquete \"verso libre + metáfora libre + collage\" es el criterio analítico clave del periodo.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "expected_success": 0.6,
-      "bundle_id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle",
+      "bundle_id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -728,43 +548,43 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v17",
-      "statement": "Analizando la evolución humana en Riobamba, el profesor de Lengua destaca que la capacidad cerebral para estructurar oraciones complejas es común a todos los seres humanos. ¿A qué término de la lingüística corresponde esta definición?",
-      "context": "Ana, estudiante de 11° de Bachillerato en el Colegio Benigno Malo de Riobamba, reflexiona sobre el rol del idioma como patrimonio social frente al uso individual diario.",
+      "id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle-v13",
+      "statement": "Que Los heraldos negros (1918) conserve huellas modernistas y anticipe la ruptura de Trilce (1922) permite concluir qué?",
+      "context": "En un colegio de Cuenca estudian Los heraldos negros (1918) como caso de transición entre movimientos.",
       "options": [
         {
           "letter": "A",
-          "text": "Al lenguaje, entendido como la facultad universal y biológica de la especie humana en Riobamba para comunicarse.",
+          "text": "Que los movimientos literarios se solapan: la vanguardia no nace de un corte instantáneo",
           "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "feedback": "Correcto. El libro muestra persistencia del ritmo y del léxico dariano junto a una angustia existencial y sintáctica nueva, probando la porosidad entre periodos."
         },
         {
           "letter": "B",
-          "text": "Al habla, ya que es el acto concreto de articulación que realiza Ana de manera independiente.",
+          "text": "Que Vallejo copió sin variación el modelo de Prosas profanas",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. Reducir el libro a una copia ignora su dolor humano y sus innovaciones que ya superan el ornamento modernista."
         },
         {
           "letter": "C",
-          "text": "A la lengua, que es el idioma específico estructurado con normas fijadas en el Colegio Benigno Malo.",
+          "text": "Que el modernismo terminó exactamente en 1918",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. Las fechas 1880-1920 del modernismo y 1910-1940 de la vanguardia son bandas que se traslapan, no murallas."
         },
         {
           "letter": "D",
-          "text": "A la dialectología, que clasifica las lenguas indígenas del callejón interandino ecuatoriano.",
+          "text": "Que Trilce pertenece en realidad al ciclo modernista",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. Trilce (1922) es emblemáticamente vanguardista por su disolución de sintaxis y métrica heredadas."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El lenguaje es la capacidad innata y universal de los seres humanos para expresar pensamientos y sentimientos por medio de signos.\n\n---",
-      "difficulty": "9",
+      "explanation": "Analizar un texto liminar como Los heraldos negros enseña a leer la historia literaria como proceso: permanencias (musicalidad) y emergencias (angustia existencial, quiebre expresionista). La periodización es una convención con zonas de contacto, no una frontera limpia.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.58,
-      "bundle_id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -773,43 +593,178 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v18",
-      "statement": "Durante una exposición grupal en Ibarra, Luis comete un pequeño tropiezo de pronunciación al decir 'pader' en vez de 'pared'. Su docente de Colegio Nacional Bolívar le aclara que la norma del idioma español establece 'pared'.",
-      "context": "Luis, estudiante de 11° de Bachillerato en el Colegio Nacional Bolívar de Ibarra, reflexiona sobre el rol del idioma como patrimonio social frente al uso individual diario.",
+      "id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle-v14",
+      "statement": "El ultraísmo proponía reducir la poesía a su esencia metafórica, frente al verso ornado modernista. ¿Qué criterio de análisis describe mejor la distancia entre ambos?",
+      "context": "Un club de lectura de un colegio de Guayaquil compara el ideal de \"poesía pura\" del ultraísmo con el lujo verbal modernista.",
       "options": [
         {
           "letter": "A",
-          "text": "El tropiezo es un cambio semántico y la norma es un canal físico-acústico de Colegio Nacional Bolívar.",
+          "text": "Ambos buscan el mismo efecto decorativo con distinto idioma",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. El ultraísmo combate justamente el decorado: elimina adjetivación y relleno, mientras el modernismo los cultiva."
         },
         {
           "letter": "B",
-          "text": "Ambos fenómenos pertenecen exclusivamente al lenguaje, puesto que carecen de una base social compartida.",
+          "text": "El modernismo era oral y el ultraísmo exclusivamente impreso",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. Ninguno se define por el canal de circulación; la diferencia es estética y de concepción de la imagen."
         },
         {
           "letter": "C",
-          "text": "El tropiezo corresponde al habla (uso individual de Luis) y la norma general al sistema de la lengua andina en Ibarra.",
+          "text": "Densidad autónoma de la imagen vanguardista frente a musicalidad retórica del poema modernista",
           "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "feedback": "Correcto. El ultraísmo valoriza la metáfora creadora de realidad propia; el modernismo privilegia el fluir sonoro y la elocuencia del adorno."
         },
         {
           "letter": "D",
-          "text": "El tropiezo corresponde al lenguaje universal y la norma al habla particular de Ibarra.",
+          "text": "El ultraísmo rechazaba toda metáfora en el poema",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. Al contrario: el ultraísmo coloca la metáfora libre en el centro mismo del hecho poético."
         }
       ],
       "correct_answer": "C",
-      "explanation": "El tropiezo individual de pronunciación es un hecho del habla (uso concreto y mutable del sistema), mientras que la norma gramatical estándar pertenece a la lengua (sistema social estático).\n\n---",
+      "explanation": "La comparación revela dos teorías de la lengua: el modernismo estéticamente musical pero retórico, y las vanguardias concentradas en la imagen autônoma (metáfora pura, collage). Analizarlas juntas evita la idea errónea de que toda poesía anterior a 1920 era \"vacía\".",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle-v15",
+      "statement": "Los existogramas de Alfonso Chase, experimentación visual y verbal de la segunda mitad del siglo XX en el Ecuador, se interpretan mejor como qué?",
+      "context": "En un colegio de Quito revisan la linea larga que va de la vanguardia histórica a la experimentación ecuatoriana tardía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un regreso literal al soneto modernista de Darío",
+          "is_correct": false,
+          "feedback": "Incorrecto. La forma fija y el ornamento modernista son exactamente lo que los existogramas superan."
+        },
+        {
+          "letter": "B",
+          "text": "Una traducción directa del creacionismo de Huidobro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Chase no traduce a Huidobro: reactiva localmente el impulso de ruptura, con procedimientos propios y posteriores."
+        },
+        {
+          "letter": "C",
+          "text": "Una prolongación ecuatoriana del spirit de ruptura de las vanguardias, adaptada a un contexto posterior",
+          "is_correct": true,
+          "feedback": "Correcto. Los existogramas actualizan la leccion vanguardista (experimentación formal y visual) en el Ecuador de la segunda mitad del siglo XX."
+        },
+        {
+          "letter": "D",
+          "text": "Un ejemplo de cuento realista de la generación de Los que se van",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa generación cultivó narrativa de denuncia social, género y proyecto totalmente ajenos a Chase."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Vincular a Chase con la leccion de las vanguardias (1910-1940) sin confundir cronologías desarrolla el análisis de recepciones tardías: la ruptura se vuelve heredero abierta que cada generación reinterpreta, aquí en clave de poesía experimental ecuatoriana.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle-v16",
+      "statement": "La inclusión de Salomón de la Selva (Nicaragua) en el mapa del modernismo y su proyección posterior sirve para analizar qué aspecto del movimiento?",
+      "context": "Para una exposición en un colegio de Cuenca, un equipo rastrea la red centroamericana que rodeó a Darío.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Su carácter exclusivo de élite porteña argentina",
+          "is_correct": false,
+          "feedback": "Incorrecto. El movimiento no fue argentino ni exclusivo: tuvo núcleos en Nicaragua, México, Chile, Uruguay y Ecuador."
+        },
+        {
+          "letter": "B",
+          "text": "Su expansión como red panamericana con focos y ramificaciones nacionales",
+          "is_correct": true,
+          "feedback": "Correcto. Figuras como Salomón de la Selva evidencian que el modernismo fue una red continental con irradiaciones locales, no un fenómeno aislado."
+        },
+        {
+          "letter": "C",
+          "text": "Su dependencia del patrocino editorial español",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modernismo se sostuvo en revistas y autores americanos; no puede reducirse a un patrocino peninsular."
+        },
+        {
+          "letter": "D",
+          "text": "Su disolución inmediata tras la muerte de Darío en 1916",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sobrevivió y se trasapó con las vanguardias; en Ecuador, por ejemplo, continuó en Carrión y los decapistas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar a un autor menos conocido como Salomón de la Selva obliga a pensar el modernismo como sistema de circulaciones: centros (Darío) y periferias activas que reformularon el programa estético en cada país, sentando condiciones para la recepción de la vanguardia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es la evaluación más fundamentada de esa afirmación?",
+      "context": "En un foro de un colegio de Guayaquil, una estudiante afirma que \"las vanguardias simplemente borraron al modernismo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es inexacta: las vanguardias se nutrieron de la autonomía estética conquistada por el modernismo, y hubo autores de transición como Vallejo",
+          "is_correct": true,
+          "feedback": "Correcto. El juicio se sostiene en evidencia: 1880-1920 y 1910-1940 se traslapan, y la ruptura vanguardista presupone la liberación del lenguaje que logró Darío."
+        },
+        {
+          "letter": "B",
+          "text": "Es verdadera: en 1910 desapareció todo rastro del modernismo en América",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fecha 1910 marca un inicio de vanguardia, no una extinción; el modernismo siguió vivo, también en Ecuador."
+        },
+        {
+          "letter": "C",
+          "text": "Es verdadera porque el verso libre anuló por completo la música del poema",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verso libre reconfiguró el ritmo, no eliminó la musicalidad; la premisa confunde ruptura con aniquilación."
+        },
+        {
+          "letter": "D",
+          "text": "Es inexacta porque las vanguardias no introdujeron ninguna innovación real",
+          "is_correct": false,
+          "feedback": "Incorrecto. Negar la innovación vanguardista (metáfora libre, collage, jitanjáfora) contradice el canon verificable del periodo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar periodizaciones exige ponderar evidencias: solapamiento cronológico, casos liminares como Los heraldos negros y recepción ecuatoriana dariana posterior a 1910. Una afirmación de ruptura total falla por anacrónica y por ignorar la continuidad de los lenguajes poéticos.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.56,
-      "bundle_id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle",
+      "expected_success": 0.55,
+      "bundle_id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -818,88 +773,133 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v19",
-      "statement": "En una comunidad ancestral cerca de Portoviejo, los habitantes utilizan el kichwa de manera cotidiana en sus hogares y el castellano para sus gestiones comerciales. ¿Qué concepto describe mejor el quichua y el castellano en este entorno?",
-      "context": "Patricia, estudiante de 11° de Bachillerato en el Unidad Educativa Santo Domingo de Portoviejo, reflexiona sobre el rol del idioma como patrimonio social frente al uso individual diario.",
+      "id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle-v18",
+      "statement": "¿Qué sistema de criterios evalúa de manera más sólida si un texto escolar imita legítimamente la experimentación de vanguardia?",
+      "context": "Un estudiante de un colegio de Quito debe justificar ante el jurado escolar si un poema original suyo es \"vanguardista de verdad\".",
       "options": [
         {
           "letter": "A",
-          "text": "Son dos variedades de lenguaje biológico exclusivas de Unidad Educativa Santo Domingo.",
+          "text": "Que incluya princesas, cisnes y jardines de mármol",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. Ese inventario verificaría lo contrario: un calco de repertorio modernista, no una ruptura vanguardista."
         },
         {
           "letter": "B",
-          "text": "Son dos canales artificiales de comunicación visual aprobados por el Ministerio en Portoviejo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "text": "Que presente verso libre, metáforas autónomas y algún procedimiento de collage o deformación sintáctica coherente",
+          "is_correct": true,
+          "feedback": "Correcto. Evaluar contra los rasgos definitorios (1910-1940) da criterios verificables; además exige coherencia interna, no mera suma de rarezas."
         },
         {
           "letter": "C",
-          "text": "Son dos lenguas distintas de Portoviejo, es decir, dos sistemas lingüísticos sociales e independientes con gramáticas propias.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "Que rime en consonante perfecta cada cuatro versos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La rima estrófica regular remite a formas heredadas; su presencia no autoriza a calificar el texto como vanguardista."
         },
         {
           "letter": "D",
-          "text": "Son dos tipos de habla individual de Patricia sin normas ni estructuras de carácter gramatical.",
+          "text": "Que sea más extenso que un soneto modernista",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. La longitud no es criterio de pertenencia a un movimiento; la vanguardia se define por técnica y concepción, no por volumen."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Tanto el kichwa como el castellano son lenguas plenamente constituidas, es decir, sistemas lingüísticos sociales con sus propios códigos, fonología y gramática.\n\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.54,
-      "bundle_id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v20",
-      "statement": "Analizando las características del circuito lingüístico en el Colegio Nacional Manta de Machala, el docente sostiene que el habla es 'individual, psicofísica, de ejecución voluntaria y efímera'.",
-      "context": "Fernando, estudiante de 11° de Bachillerato en el Colegio Nacional Manta de Machala, reflexiona sobre el rol del idioma como patrimonio social frente al uso individual diario.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Porque requiere de una aprobación legal previa por parte del Ministerio de Educación en Machala.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "Porque sus reglas ortográficas nunca cambian con el transcurrir de las épocas en Colegio Nacional Manta.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "Porque se materializa en el habla concreta de cada alumno de Colegio Nacional Manta de Machala y desaparece físicamente una vez emitido el sonido.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "D",
-          "text": "Porque está grabada de forma permanente en los genes y el cerebro de toda la humanidad en Machala.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "El habla es efímera porque consiste en una realización física momentánea; las vibraciones sonoras de la voz se disipan inmediatamente después de ser emitidas.\n\n---",
+      "correct_answer": "B",
+      "explanation": "La evaluación informada requiere explicitar criterios observablemente ligados al movimiento: libertad métrica, autonomía de la imagen, procedimientos de ensamblaje. Sustituir criterios por impresiones vagas es el error habitual en valoraciones estudiantiles de este tema.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.52,
-      "bundle_id": "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle",
+      "expected_success": 0.5,
+      "bundle_id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle-v19",
+      "statement": "¿Qué valoración es más defendible sobre la decisión de reivindicar a Benjamín Carrión y el modernismo ecuatoriano?",
+      "context": "El concejo estudiantil de un colegio de Cuenca debate bautizar la revista literaria del plantel con el nombre \"Notas de viaje\", en homenaje a Carrión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No tiene sentido, porque Carrión fue un autor vanguardista contrario a Darío",
+          "is_correct": false,
+          "feedback": "Incorrecto. Carrión (Notas de viaje, 1908) se situó en la órbita del modernismo dariano, no en su trinchera opuesta."
+        },
+        {
+          "letter": "B",
+          "text": "Solo vale si la revista adopta verso libre y collage en todas sus páginas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Homenajear al modernismo no obliga a renegar de él; el criterio formal de la revista es una elección, no la justificación del homenaje."
+        },
+        {
+          "letter": "C",
+          "text": "Es pertinente, porque reconoce la continuidad local del modernismo y su papel en la formación de una cultura leída nacional",
+          "is_correct": true,
+          "feedback": "Correcto. Fundamenta el gesto en el valor histórico verificable de Carrión: difusión del modernismo en Ecuador y puente hacia la experimentación posterior."
+        },
+        {
+          "letter": "D",
+          "text": "Es inadmisible, porque el modernismo fue un fenómeno puro de importación sin arraín local",
+          "is_correct": false,
+          "feedback": "Incorrecto. La recepción ecuatoriana (Carrión, Silva, los decapistas) desmiente que el movimiento careciera de radicacion local."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar un homenaje cultural demanda ponderar el legado histórico: Carrión no solo escribió Notas de viaje (1908), sino que ayudó a institucionalizar el modernismo en el Ecuador, demostrando que la \"importación\" se tradujo en apropiación productiva y en una tradición propia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle-v20",
+      "statement": "¿Qué posición es más sostenible tras estudiar el modernismo y su recepción ecuatoriana?",
+      "context": "En el cierre de la unidad de un colegio de Guayaquil, debatir: ¿el cosmopolitismo modernista debilitó las literaturas nacionales latinoamericanas?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí lo debilitó: imitar París impidió cualquier desarrollo literario propio en la región",
+          "is_correct": false,
+          "feedback": "Incorrecto. La premisa ignora que la imitación selectiva fue estrategia de dotarse de lengua propia; sin ella no habría recibido en Carrión ni en los decapistas."
+        },
+        {
+          "letter": "B",
+          "text": "No tuvo ningún efecto: el movimiento fue decorativo y sin consecuencias identitarias",
+          "is_correct": false,
+          "feedback": "Incorrecto. Negar efectos es insostenible: el modernismo redefinió la lengua poética y habilitó la posterior conversación con las vanguardias."
+        },
+        {
+          "letter": "C",
+          "text": "El cosmopolitismo fue un medio, no un fin: al apropiarse de modelos europeos, el modernismo fortaleció la autonomía de las literaturas nacionales, incluida la ecuatoriana",
+          "is_correct": true,
+          "feedback": "Correcto. Esta síntesis reconoce la dialéctica: lo foráneo se metabolizó en un proyecto propio, como muestran las continuaciones en Ecuador."
+        },
+        {
+          "letter": "D",
+          "text": "El cosmopolitismo fue exclusivo de las vanguardias y ajenó a los modernistas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cosmopolitismo es rasgo declarado del programa modernista; atribuirlo solo a la vanguardia invierte los datos del canon."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El juicio exige sopesar una paradoja productiva: abrirse al mundo (sincretismo, helenismo, orientalismo, París) fue la condición para que cada literatura nacional se modernizara. El caso ecuatoriano, con Carrión y Silva, aporta la evidencia local de esa tesis.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "EC-LEN-11-2026-W03-modernismo-vanguardias-hispanicas-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
       "cefr_level": null,

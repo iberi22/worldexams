@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-5-grade-11-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-12T16:46:07.574Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle-v1",
+      "statement": "\"La Violencia\" en la historia de Colombia designa principalmente",
+      "context": "En una clase de un colegio de Bogotá, el profesor define el periodo conocido como \"La Violencia\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "el conflicto armado exclusivo entre Colombia y Venezuela por la frontera",
+          "is_correct": false,
+          "feedback": "No hubo guerra con Venezuela; La Violencia fue un conflicto interno, sobre todo entre liberales y conservadores."
+        },
+        {
+          "letter": "B",
+          "text": "una ola de criminalidad común en las ciudades de los años noventa",
+          "is_correct": false,
+          "feedback": "Los años noventa trajeron otra violencia, ligada al narcotráfico; La Violencia es un fenómeno campesino y bipartidista de mediados del siglo XX."
+        },
+        {
+          "letter": "C",
+          "text": "la guerra de independencia contra España de comienzos del siglo XIX",
+          "is_correct": false,
+          "feedback": "La independencia es un proceso de otra época; La Violencia corresponde al siglo XX, tras 1948."
+        },
+        {
+          "letter": "D",
+          "text": "el ciclo de violencia política bipartidista que se intensificó después de 1948, con cientos de miles de víctimas",
+          "is_correct": true,
+          "feedback": "La Violencia enfrentó a liberales y conservadores en el campo, con matanzas, desplazamientos y un número de víctimas que las estimaciones serias cuentan en cientos de miles."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La Violencia (1948-1953 y, en varias regiones, más allá) expresó el choque entre el Estado conservador, los liberales perseguidos y las formas armadas de defensa campesina. Nombrar correctamente este periodo permite distinguirlo de los conflictos armados posteriores y entender sus raíces políticas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle-v2",
+      "statement": "El general que dio un golpe de Estado en 1953, suspendió la confrontación liberal-conservadora y fue derrocado en 1957 fue",
+      "context": "Un estudiante de Ibagué ordena en una línea de tiempo los gobiernos entre 1950 y 1958.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gustavo Rojas Pinilla",
+          "is_correct": true,
+          "feedback": "Rojas Pinilla llegó al poder con el respaldo de civiles y militares que pedían paz, y cayó en 1957 presionado por el paro cívico y la unión de los partidos."
+        },
+        {
+          "letter": "B",
+          "text": "Mariano Ospina Pérez",
+          "is_correct": false,
+          "feedback": "Ospina fue el presidente civil conservador (1946-1950) cuyo gobierno vivió el estallido del 9 de abril."
+        },
+        {
+          "letter": "C",
+          "text": "Laureano Gómez",
+          "is_correct": false,
+          "feedback": "Gómez fue el presidente conservador electo en 1950 cuya enfermedad y dureza política abrieron el camino al golpe de Rojas."
+        },
+        {
+          "letter": "D",
+          "text": "Alfonso López Michelsen",
+          "is_correct": false,
+          "feedback": "López Michelsen fue presidente ya terminando el Frente Nacional, elegido en 1974."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El gobierno de Rojas Pinilla (1953-1957) combinó medidas sociales —infraestructura, televisión, indultos— con autoritarismo y restricción de libertades. Su caída mostró que los partidos tradicionales preferían negociar entre ellos antes que tolerar un poder militar permanente.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle-v3",
+      "statement": "El plebiscito de 1957, que aprobó el fin del gobierno de Rojas y las reformas institucionales, tiene un hito ciudadano porque fue la primera vez que votaron en Colombia",
+      "context": "En un colegio de Medellín se celebra el aniversario del día en que las mujeres colombianas votaron por primera vez en un plebiscito nacional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "los campesinos analfabetas de las regiones del Sumapaz",
+          "is_correct": false,
+          "feedback": "La restricción por alfabetismo pesaba sobre varios sectores, pero el hito célebre de 1957 es otro."
+        },
+        {
+          "letter": "B",
+          "text": "las mujeres",
+          "is_correct": true,
+          "feedback": "El plebiscito del 15 de diciembre de 1957 fue la primera votación nacional en la que ejercieron el sufragio las mujeres colombianas."
+        },
+        {
+          "letter": "C",
+          "text": "los militares en servicio activo",
+          "is_correct": false,
+          "feedback": "Los militares en servicio activo han estado tradicionalmente inhabilitados para votar."
+        },
+        {
+          "letter": "D",
+          "text": "los jóvenes a partir de los dieciocho años",
+          "is_correct": false,
+          "feedback": "La edad de votación no cambió con ese plebiscito; el hito fue la ciudadanía política plena de la mujer."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El derecho de sufragio femenino, reconocido constitucionalmente en 1954 bajo el gobierno de Rojas, se ejercitó por primera vez a escala nacional en el plebiscito de 1957. Fue la culminación de décadas de lucha de organizaciones de mujeres y un antes y un después para la ciudadanía en Colombia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle-v4",
+      "statement": "La regla esencial del Frente Nacional pactado en 1958 era que",
+      "context": "Un estudiante de Cartago analiza en clase el acuerdo firmado por liberales y conservadores en 1958.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "solo el partido ganador de cada elección gobernaría el país",
+          "is_correct": false,
+          "feedback": "Era lo contrario: se repartieron el poder con independencia del resultado electoral."
+        },
+        {
+          "letter": "B",
+          "text": "el ejército gobernaría de forma transitoria hasta la pacificación total",
+          "is_correct": false,
+          "feedback": "El Frente Nacional fue un pacto de civiles para cerrar el ciclo de Rojas y de la dictadura militar."
+        },
+        {
+          "letter": "C",
+          "text": "los comunistas participarían como tercer partido en la Presidencia",
+          "is_correct": false,
+          "feedback": "El acuerdo fue bipartidista y excluyó expresamente al comunismo de la competencia por el poder."
+        },
+        {
+          "letter": "D",
+          "text": "los dos partidos tradicionales se alternarían la Presidencia y repartirían los cargos de representación a partes iguales durante dieciséis años",
+          "is_correct": true,
+          "feedback": "Cuatro periodos presidenciales de cuatro años, alternancia liberal-conservadora y paridad en los cargos de elección, por doce o dieciséis años según la norma."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El Frente Nacional (1958-1974) buscó desactivar la violencia mediante el reparto del poder: alternancia presidencial y paridad en ministerios y corporaciones. Su diseño combinó pacificación con exclusión de terceros, una tensión que explica los conflictos políticos posteriores.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle-v5",
+      "statement": "El caso que mejor ilustra la exclusión política generada por el acuerdo frente-nacionalista es",
+      "context": "En un debate de Barranquilla, un estudiante defiende y otro critica el Frente Nacional; el profesor pide ejemplos concretos de la exclusión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "la abstención del movimiento gaitanista (MUL) frente a las elecciones y el posterior surgimiento de la izquierda armada",
+          "is_correct": true,
+          "feedback": "El Movimiento de Unificación Liberal, nacido del gaitanismo, se abstuvo para protestar por la paridad excluyente; de ese malestar brotaron focos guerrilleros."
+        },
+        {
+          "letter": "B",
+          "text": "la prohibición de la universidad pública en las capitales",
+          "is_correct": false,
+          "feedback": "No existió tal prohibición; la educación superior pública continuó y se expandió."
+        },
+        {
+          "letter": "C",
+          "text": "la ilegalización del Partido Conservador tras 1958",
+          "is_correct": false,
+          "feedback": "Fue uno de los dos partidos del pacto: lejos de ser ilegalizado, compartió el poder con los liberales."
+        },
+        {
+          "letter": "D",
+          "text": "la entrega del Congreso al gobierno de Estados Unidos durante los acuerdos",
+          "is_correct": false,
+          "feedback": "Absurdo: el Congreso funcionó durante todo el Frente Nacional, con sesiones y legislaciones propias."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La paridad 50/50 cerró la puerta a minorías y disidencias: el gaitanismo del MUL llamó a la abstención y varios sectores concluyeron que sin voto no había voz. Este razonamiento —exclusión electoral como causa de organización armada— es clave para entender el origen de las guerrillas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle-v6",
+      "statement": "La Operación Marquetalia de 1964 consistió en",
+      "context": "Un estudiante de Bogotá investiga el origen de las FARC en la toma militar de un caserío del Tolima en 1964.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "un plan de construcción de carreteras en el sur del Tolima",
+          "is_correct": false,
+          "feedback": "La carretera hacia el sur era uno de los trasfondos del conflicto por tierras, pero la Operación Marquetalia fue militar."
+        },
+        {
+          "letter": "B",
+          "text": "un plebiscito para aprobar la reforma agraria de Frente Nacional",
+          "is_correct": false,
+          "feedback": "No hubo tal plebiscito; la operación fue un ataque armado contra zonas de autodefensa liberal."
+        },
+        {
+          "letter": "C",
+          "text": "la creación de una base militar estadounidense en el Tolima",
+          "is_correct": false,
+          "feedback": "No se estableció una base extranjera; fue una operación del Ejército colombiano con asesoría y contexto de la Doctrina de Seguridad Nacional."
+        },
+        {
+          "letter": "D",
+          "text": "el asalto del Ejército a la \"República de Marquetalia\", zona de autodefensas comunistas y liberales, cuyos sobrevivientes dieron origen formal a las FARC",
+          "is_correct": true,
+          "feedback": "Tras el ataque, los grupos armados de la zona se replegaron y en 1966 adoptaron el nombre de FARC, con Manuel Marulanda Vélez como figura central."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Marquetalia surgió de las autodefensas liberales de la región del Sumapaz y el Tolima durante La Violencia, luego viró hacia el comunismo. Su destrucción en 1964 y el posterior nacimiento formal de las FARC muestran la transición de La Violencia al conflicto armado contemporáneo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle-v7",
+      "statement": "El orden cronológico correcto de aparición de las guerrillas es",
+      "context": "Un grupo de estudiantes de Cali contrasta las fechas de aparición de las distintas guerrillas colombianas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "M-19, EPL, ELN, FARC",
+          "is_correct": false,
+          "feedback": "Es exactamente el orden inverso: el M-19 fue el último de los cuatro."
+        },
+        {
+          "letter": "B",
+          "text": "FARC, ELN, EPL, M-19",
+          "is_correct": true,
+          "feedback": "FARC (marco de 1964), ELN (a mediados de los sesenta), EPL (1967) y M-19 (1970) siguen esa secuencia."
+        },
+        {
+          "letter": "C",
+          "text": "ELN, FARC, M-19, EPL",
+          "is_correct": false,
+          "feedback": "El EPL se fundó en 1967, antes del M-19 de 1970, y las FARC preceden al ELN en el origen de sus estructuras."
+        },
+        {
+          "letter": "D",
+          "text": "EPL, M-19, FARC, ELN",
+          "is_correct": false,
+          "feedback": "El EPL y el M-19 son posteriores a FARC y ELN; la secuencia está invertida."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cada guerrilla respondió a un momento: las FARC a La Violencia y Marquetalia, el ELN a la influencia cubana y la pobreza rural, el EPL a la línea maoísta del PC, y el M-19 a las denuncias de fraude de 1970. Ordenar cronológicamente es el primer paso para comparar sus causas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle-v8",
+      "statement": "El Movimiento 19 de Abril (M-19) se originó en 1970 principalmente como respuesta a",
+      "context": "En una clase de Armenia se analiza el año de fundación del M-19 y su justificación pública.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "la derrota militar de Vietnam y la retirada estadounidense",
+          "is_correct": false,
+          "feedback": "Aunque la Guerra de Vietnam influyó en la izquierda global, el M-19 se definió contra un hecho electoral interno."
+        },
+        {
+          "letter": "B",
+          "text": "la ejecución de un líder indígena en el Cauca",
+          "is_correct": false,
+          "feedback": "La lucha indígena del Cauca tuvo otros protagonistas y fechas; el M-19 era urbano y militar-popular."
+        },
+        {
+          "letter": "C",
+          "text": "el secuestro de un diplomático extranjero en Bogotá",
+          "is_correct": false,
+          "feedback": "Los secuestros diplomáticos fueron prácticas del M-19 ya existido, no su causa fundacional."
+        },
+        {
+          "letter": "D",
+          "text": "el presunto fraude en las elecciones presidenciales de 1970, que dieron el triunfo oficial a Misael Pastrana frente a Gustavo Rojas Pinilla",
+          "is_correct": true,
+          "feedback": "El M-19 tomó su nombre de la fecha del \"fraude\" y de la toma de iconos patrios, denunciando que la alternancia frente-nacionalista cerraba todas las vías."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las elecciones de 1970 fueron las primeras del Frente Nacional sin paridad presidencial y con competencia real de Rojas. La denuncia de fraude contra el candidato del poder, sumada al cierre de espacios, empujó a sectores jóvenes y militares a la lucha armada.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle-v9",
+      "statement": "La principal causa del acelerado crecimiento de ciudades como Bogotá, Medellín y Cali en esos años fue",
+      "context": "Un estudiante de Soacha estudia el crecimiento de las ciudades colombianas entre 1950 y 1970.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "la migración campo-ciudad provocada por la violencia y la búsqueda de trabajo e industria",
+          "is_correct": true,
+          "feedback": "La Violencia expulsó a millones del campo y la industrialización atraía mano de obra: las urbes crecieron con cinturones de pobreza."
+        },
+        {
+          "letter": "B",
+          "text": "la llegada masiva de inmigrantes europeos tras la Segunda Guerra Mundial",
+          "is_correct": false,
+          "feedback": "La inmigración europea fue minoritaria y no explica un crecimiento urbano demográfico tan masivo."
+        },
+        {
+          "letter": "C",
+          "text": "las campañas de poblamiento oficial del Chocó y la Amazonía",
+          "is_correct": false,
+          "feedback": "Los planes de colonización apuntaban al campo, no a las capitales."
+        },
+        {
+          "letter": "D",
+          "text": "la obligación legal de residir en las cabeceras municipales",
+          "is_correct": false,
+          "feedback": "No existió tal obligación; la migración fue voluntaria, forzada por la violencia y la pobreza."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Entre 1950 y 1970 Colombia pasó de mayoritariamente rural a mayoritariamente urbana. La Violencia desplazó poblaciones enteras y la industria concentró servicios y fábricas en las ciudades, generando informalidad, invasiones de lotes y nuevas demandas ciudadanas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.68,
+      "bundle_id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle-v10",
+      "statement": "Los planes de desarrollo de la década de 1960 (carta de la Alianza para el Progreso y Carta de Mar del Plata) contemplaron en Colombia",
+      "context": "En un colegio de Santa Marta se estudian los planes de desarrollo de los años sesenta, inspirados en la Alianza para el Progreso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "la abolición total de la propiedad privada del suelo",
+          "is_correct": false,
+          "feedback": "Ningún plan de esos años abolió la propiedad privada; buscaban modernización capitalista con cierta reforma agraria."
+        },
+        {
+          "letter": "B",
+          "text": "la planificación estatal de la economía, medidas de reforma agraria limitada y políticas de infraestructura y educación",
+          "is_correct": true,
+          "feedback": "La creación del Departamento Nacional de Planeación en 1963 y el énfasis en \"desarrollo integral\" reflejaron esa ola tecnocrática."
+        },
+        {
+          "letter": "C",
+          "text": "la dolarización oficial de la economía colombiana",
+          "is_correct": false,
+          "feedback": "No hubo dolarización; la moneda siguió siendo el peso y el tipo de cambio se movió dentro de esquemas de control."
+        },
+        {
+          "letter": "D",
+          "text": "la privatización masiva de la empresa pública petrolera",
+          "is_correct": false,
+          "feedback": "La empresa estatal de petróleos, Ecopetrol, no se privatizó en los años sesenta; esa fue una dinámica de décadas muy posteriores."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Alianza para el Progreso, respondiendo al miedo revolucionario tras Cuba, promovió reforma agraria y planificación en América Latina. En Colombia se tradujo en institucionalidad planeadora (DNP) y discursos de \"desarrollo integral\", aunque la reforma agraria estructural quedó incumplida.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle-v11",
+      "statement": "La interpretación más sólida de esa afirmación sostiene que el Frente Nacional",
+      "context": "En un foro de Bucaramanga se discute la frase: \"El Frente Nacional fue un éxito y un fracaso a la vez\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "terminó con la pobreza rural pero mantuvo la violencia urbana",
+          "is_correct": false,
+          "feedback": "Ninguno de los dos efectos se produjo así: la pobreza rural persistió y el campo siguió siendo escenario central del conflicto."
+        },
+        {
+          "letter": "B",
+          "text": "pacificó definitivamente al país sin generar nuevos conflictos",
+          "is_correct": false,
+          "feedback": "Ignora el surgimiento de las guerrillas, las ligas agrarias, el ELN, el EPL y el M-19 nacidos en su periodo."
+        },
+        {
+          "letter": "C",
+          "text": "redujo la violencia bipartidista e institucionalizó la convivencia entre las élites, pero cerró el sistema político y estimuló nuevas formas de exclusión y de lucha armada",
+          "is_correct": true,
+          "feedback": "Bajó los índices de muerte del conflicto partidista, pero su cierre bipartidista sembró las insurgencias de los sesenta y setenta."
+        },
+        {
+          "letter": "D",
+          "text": "fue un régimen militar disfrazado de democracia civil",
+          "is_correct": false,
+          "feedback": "Los presidentes frente-nacionalistas fueron civiles elegidos por voto, con límites constitucionales y libertades formales; la caracterización es incorrecta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar una política exige separar sus efectos: el pacto élite-élite controló la violencia entre partidos, pero a costa de una ciudadanía de segunda para terceros. La lección ciudadana es que la paz entre élites no es la misma que la paz con justicia social.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.62,
+      "bundle_id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle-v12",
+      "statement": "La señal más clara de que el modelo del Frente Nacional llegaba a su fin fue",
+      "context": "Un docente de Tunja explica a sus estudiantes el fin gradual del acuerdo frente-nacionalista.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "la elección de 1974 con victoria liberal sin obligación de alternancia y con competencia amplia de terceros",
+          "is_correct": true,
+          "feedback": "En 1974 la elección presidencial se disputó sin la regla de alternancia pactada y con múltiples candidatos; el liberal Alfonso López Michelsen llegó a la Presidencia."
+        },
+        {
+          "letter": "B",
+          "text": "un golpe de Estado militar que interrumpió el periodo presidencial",
+          "is_correct": false,
+          "feedback": "El Frente Nacional terminó por agotamiento de sus propias reglas, sin ruptura golpista."
+        },
+        {
+          "letter": "C",
+          "text": "la renuncia del último presidente frente-nacionalista por presiones de Estados Unidos",
+          "is_correct": false,
+          "feedback": "No hubo tal renuncia; los periodos se cumplieron constitucionalmente."
+        },
+        {
+          "letter": "D",
+          "text": "la abolición del Senado en la reforma de 1968",
+          "is_correct": false,
+          "feedback": "El Senado no fue abolido; el Congreso conservó sus dos cámaras."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La elección de 1974 cerró formalmente el ciclo de la alternancia pactada: por primera vez en mucho tiempo el poder pasó del conservatismo al liberalismo sin reparto previo. El sistema se reabría, pero las exclusiones acumuladas ya habían generado actores armados difíciles de desmovilizar.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.62,
+      "bundle_id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle-v13",
+      "statement": "La continuación estructural entre \"Los Liberales de Villarroba o del Sumapaz\" y las FARC se evidencia en",
+      "context": "Un estudiante de Villavicencio rastrea la relación entre las autodefensas de La Violencia y las guerrillas de los sesenta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "la persistencia de zonas de autodefensa campesina no controladas por el Estado, que pasaron de la resistencia partidista al proyecto guerrillero agrario y comunista",
+          "is_correct": true,
+          "feedback": "Las zonas de autodefensa liberal del Sumapaz y el Tolima, como Marquetalia bajo Manuel Marulanda, muestran el tránsito de la defensa partidista a la insurgencia de los sesenta."
+        },
+        {
+          "letter": "B",
+          "text": "el apoyo de la dirigencia liberal oficial a las armas en 1964",
+          "is_correct": false,
+          "feedback": "El Partido Liberal oficial respaldó la operación contra Marquetalia; la continuidad fue de bases y liderazgos locales, no de la cúpula."
+        },
+        {
+          "letter": "C",
+          "text": "la decisión del Vaticano de armar campesinos católicos",
+          "is_correct": false,
+          "feedback": "No existió tal decisión vaticana; las autodefensas liberales eran precisamente laicas o anticlericales en su mayoría."
+        },
+        {
+          "letter": "D",
+          "text": "el reclutamiento obligatorio de urbanistas bogotanos en la selva",
+          "is_correct": false,
+          "feedback": "Absurdo: las FARC nacieron del campo y de antiguos focos de violencia, no de un servicio militar urbano."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Trazar la línea Sumapaz-Marquetalia-FARC obliga a pensar en los plazos largos de la violencia colombiana: el Estado no desmontó las zonas rojas del orden rural, y el conflicto cambió de lenguaje ideológico sin cambiar de geografía.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle-v14",
+      "statement": "Una conclusión válida sobre la experiencia de las mujeres en ese periodo es que",
+      "context": "En un colegio de Pereira se discute el lugar de las mujeres durante La Violencia y el Frente Nacional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "fueron solo víctimas pasivas sin participación alguna en la vida política",
+          "is_correct": false,
+          "feedback": "Negar su agencia es falso: votaron desde 1957, lideraron ligas y comités de paz, sostuvieron hogares desplazados y algunas empuñaron armas."
+        },
+        {
+          "letter": "B",
+          "text": "obtuvieron el voto únicamente al final de los años setenta",
+          "is_correct": false,
+          "feedback": "El ejercicio pleno del sufragio se dio desde 1957, no veinte años después."
+        },
+        {
+          "letter": "C",
+          "text": "su ingreso formal a la ciudadanía electoral en 1957 convivió con un modelo social que seguía relegándolas al ámbito doméstico",
+          "is_correct": true,
+          "feedback": "El voto fue un salto jurídico enorme, pero leyes y costumbres mantuvieron desigualdades: el debate ciudadano sobre equidad siguió abierto."
+        },
+        {
+          "letter": "D",
+          "text": "la violencia bipartidista afectó únicamente a los hombres del campo",
+          "is_correct": false,
+          "feedback": "Las mujeres sufrieron viudez, desplazamiento, violencias específicas y encabezaron la supervivencia familiar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Distinguir derechos formales de participación real es una competencia clave: Colombia reconoció tardíamente el voto femenino y, sin embargo, las mujeres fueron protagonistas silenciosas de la resistencia civil y la reconstrucción comunitaria durante y después de La Violencia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.58,
+      "bundle_id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle-v15",
+      "statement": "El fenómeno que mejor explica el surgimiento de los carteles de Medellín y Cali a finales de los setenta es",
+      "context": "Un estudiante de Medellín analiza cómo el narcotráfico empezó a transformar las ciudades a fines de los años setenta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "la prohibición del cultivo de amapola en los Andes orientales",
+          "is_correct": false,
+          "feedback": "El negocio naciente era la cocaína derivada de la hoja de coca, no la amapola de los Andes orientales."
+        },
+        {
+          "letter": "B",
+          "text": "un banco central que financió exportaciones ilegales",
+          "is_correct": false,
+          "feedback": "No hubo financiación oficial del narcotráfico desde el Estado; el lavado se hizo con redes privadas y complicidades locales."
+        },
+        {
+          "letter": "C",
+          "text": "la demanda mundial de cocaína, los excedentes campesinos tras la crisis cafetera y el control de rutas desde puertos y fronteras",
+          "is_correct": true,
+          "feedback": "El \"narcotráfico\" convirtió a Colombia en eslabón de una cadena global: cultivo, procesamiento, exportación y lavado."
+        },
+        {
+          "letter": "D",
+          "text": "el cierre de todas las vías áreas y marítimas del país",
+          "is_correct": false,
+          "feedback": "No hubo tal cierre; las redes ilícitas aprovecharon la porosidad de puertos, pistas clandestinas y fronteras."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Hacia finales de los setenta la cocaína inundó mercados de Estados Unidos y Europa. El dinero ilícito penetró ciudades industriales en crisis como Medellín y Cali, distorsionó la política y creó un poder paralelo que marcaría las décadas siguientes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.58,
+      "bundle_id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle-v16",
+      "statement": "La diferencia de naturaleza entre el gobierno de Rojas Pinilla y el Frente Nacional es que",
+      "context": "En un colegio de Manizales se comparan el golpe de 1953 y el pacto de 1958 como salidas a la crisis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rojas gobernó con los liberales y el Frente Nacional solo con los conservadores",
+          "is_correct": false,
+          "feedback": "Ambos fueron inclusivos a su manera: el Frente Nacional, precisamente, unió a las dos colectividades."
+        },
+        {
+          "letter": "B",
+          "text": "el Frente Nacional tuvo apoyo de Estados Unidos y Rojas no",
+          "is_correct": false,
+          "feedback": "Los dos contaron con algún grado de reconocimiento internacional; no es la diferencia de fondo."
+        },
+        {
+          "letter": "C",
+          "text": "Rojas era demócrata y el Frente Nacional fue una dictadura de partidos",
+          "is_correct": false,
+          "feedback": "Invierte los términos: Rojas cerró espacios y persiguió a los partidos, mientras el Frente Nacional mantuvo elecciones y Congreso."
+        },
+        {
+          "letter": "D",
+          "text": "el primero fue un poder militar personalista con legitimidad débil, mientras el segundo fue un pacto civil bipartidista con reglas constitucionales de alternancia y paridad",
+          "is_correct": true,
+          "feedback": "Rojas concentró el mando por la fuerza y el carisma; el Frente Nacional institucionalizó el reparto mediante un acuerdo entre partidos y clases dirigentes."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar regímenes según su origen (golpe o pacto) y su lógica de poder (personalista o institucional) permite evaluar cuál dejó instituciones y cuál dependencia del caudillo. Rojas cayó cuando los partidos se unieron contra él: el poder civil organizado pesó más que el uniforme.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle-v17",
+      "statement": "La evaluación más rigurosa del Frente Nacional como \"modelo de paz\" concluye que",
+      "context": "En un debate de grado en un colegio de Cali se discute si el Frente Nacional vale la pena recordar como modelo de paz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "logró una paz de élites que redujo la violencia entre partidos, pero su exclusión de disidencias y movimientos sociales contribuyó a prolongar el conflicto armado",
+          "is_correct": true,
+          "feedback": "La paz entre las cúpulas fue real; la paz con participación popular quedó pendiente, y esa brecha alimentó insurgencias y paramilitarismos."
+        },
+        {
+          "letter": "B",
+          "text": "instauró una democracia plena que resolvió el conflicto armado colombiano",
+          "is_correct": false,
+          "feedback": "El conflicto no se resolvió entonces ni después; la afirmación es históricamente falsa."
+        },
+        {
+          "letter": "C",
+          "text": "fracasó por completo porque no disminuyó ninguna forma de violencia",
+          "is_correct": false,
+          "feedback": "Es igualmente extrema: los índices de la violencia bipartidista bajaron sensiblemente tras los primeros años del pacto."
+        },
+        {
+          "letter": "D",
+          "text": "fue un invento del Partido Comunista para dividir a la derecha",
+          "is_correct": false,
+          "feedback": "Contradice toda la evidencia: el acuerdo nació de liberales y conservadores, con la Iglesia mediando y las élites negociando."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La competencia de evaluación pide sopesar logros y límites sin caricaturas. El Frente Nacional enseña que la paz entre adversarios puede convivir con la violencia estructural, y que los acuerdos sin inclusión tienden a trasladar el conflicto, no a cerrarlo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle-v18",
+      "statement": "La tesis del estudiante es defendible siempre que se precise que",
+      "context": "Un estudiante de Bogotá escribe: \"Sin las víctimas de La Violencia no se entienden las guerrillas\". El profesor pide evaluar esa tesis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "las víctimas de La Violencia se organizaron todas en guerrillas comunistas",
+          "is_correct": false,
+          "feedback": "La mayoría de las víctimas fueron campesinos que migraron o resistieron políticamente; la salida armada fue solo una de varias."
+        },
+        {
+          "letter": "B",
+          "text": "el Estado nunca persiguió a los liberales durante La Violencia",
+          "is_correct": false,
+          "feedback": "Es falso: la persecución oficial, los \"pájaros\" y las masacres de civiles documentan el contrario."
+        },
+        {
+          "letter": "C",
+          "text": "la violencia estatal y parasocial contra el liberalismo rural creó memorias de agravio y redes armadas que luego alimentaron proyectos insurgentes, sin que toda la víctima terminara en la insurgencia",
+          "is_correct": true,
+          "feedback": "La transición de autodefensa a guerrilla (Marquetalia, el EPL, el ELN) tiene ese sustrato, pero la mayoría de la población afectada buscó sobrevivir en las ciudades."
+        },
+        {
+          "letter": "D",
+          "text": "el origen de las guerrillas se explica solo por la influencia de Cuba",
+          "is_correct": false,
+          "feedback": "Cuba inspiró tácticas, pero el reclutamiento y la persistencia se explican por condiciones locales de tierra y exclusión."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Vincular memoria, agravio y organización armada sin determinismos es pensamiento histórico maduro: las causas estructuran posibilidades, no destinos. La Violencia dejó un repertorio de defensa que, en ciertos lugares y momentos, se reinterpretó en clave revolucionaria.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.52,
+      "bundle_id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle-v19",
+      "statement": "La valoración más completa del significado del sufragio femenino de 1957 es que",
+      "context": "En un colegio de Cartagena se evalúa el legado del voto femenino para la democracia colombiana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "resolvió de inmediato la desigualdad de género en Colombia",
+          "is_correct": false,
+          "feedback": "El voto abrió la puerta política, pero la desigualdad jurídica y social de género siguió requiriendo luchas y reformas durante décadas."
+        },
+        {
+          "letter": "B",
+          "text": "fue un hito de ciudadanía que reconoció políticamente a la mitad de la población, aunque la igualdad efectiva siguiera siendo una tarea pendiente",
+          "is_correct": true,
+          "feedback": "Reconocer derechos formales y medir su distancia con la igualdad real es la forma honesta de evaluar el hecho."
+        },
+        {
+          "letter": "C",
+          "text": "fue una concesión sin importancia porque pocas mujeres votaron entonces",
+          "is_correct": false,
+          "feedback": "La participación femenina creció sostenidamente; menospreciar el hito confunde lentitud del cambio con irrelevancia."
+        },
+        {
+          "letter": "D",
+          "text": "ocurrió por decisión exclusiva del presidente Rojas sin ningún movimiento social",
+          "is_correct": false,
+          "feedback": "El sufragio fue también resultado de décadas de activismo de mujeres, organizaciones y debates constituyentes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El plebiscito de 1957 convierte un hito electoral en materia de educación ciudadana: la ampliación de la ciudadanía rara vez es concesión gratuita y casi nunca completa. Evaluar sus alcances y límites entrenan el juicio crítico sobre los derechos hoy.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.52,
+      "bundle_id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle-v20",
+      "statement": "La tesis más sólida sobre el periodo 1948-1974 en su conjunto es que Colombia",
+      "context": "Al cerrar el periodo, el profesor de un colegio de Neiva pide a los estudiantes una tesis propia sobre 1948-1974.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "vivió dos décadas de paz estable interrumpidas solo por el golpe de 1953",
+          "is_correct": false,
+          "feedback": "Falso: desde el Bogotazo, la violencia rural, las autodefensas y luego las guerrillas marcaron todo el ciclo."
+        },
+        {
+          "letter": "B",
+          "text": "construyó su democracia moderna sin ningún costo social ni político",
+          "is_correct": false,
+          "feedback": "Las reformas y transiciones de esas décadas se pagaron con sangre, exclusión y desconfianza institucional."
+        },
+        {
+          "letter": "C",
+          "text": "sustituyó por completo el bipartidismo por un sistema multipartidista en 1958",
+          "is_correct": false,
+          "feedback": "El Frente Nacional reforzó el bipartidismo; la apertura multipartidista real llegó mucho después, sobre todo con la Constitución de 1991."
+        },
+        {
+          "letter": "D",
+          "text": "transitó de la exclusión partidista a la violencia, de la violencia al pacto de élites, y del pacto a nuevas exclusiones que sembraron el conflicto armado contemporáneo",
+          "is_correct": true,
+          "feedback": "La cadena causal —exclusión, violencia, pacto, nueva exclusión, insurgencia— es el hilo conductor más aceptado por la historiografía del periodo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Sintetizar un cuarto de siglo en una tesis propia obliga a ordenar causas y consecuencias. Este periodo explica por qué el conflicto colombiano fue simultáneamente electoral, rural, urbano y armado, y por qué las preguntas de 1948 sobre participación y ciudadanía siguen abiertas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.5,
+      "bundle_id": "CO-SOC-11-2026-W05-la-violencia-frente-nacional-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-21-grade-11-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-12T16:46:07.588Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle-v1",
+      "statement": "La Constitución Política de 1991 dedica varios artículos a la propiedad de los recursos naturales del país.\n¿Qué establece el artículo 332 de la Constitución sobre el subsuelo y los recursos naturales no renovables?",
+      "context": "En un debate de grado 11 en un colegio de Neiva, un estudiante afirma que el petróleo bajo el terreno de su finca es del dueño de la finca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pertenecen al alcalde del municipio donde se encuentran localizados",
+          "is_correct": false,
+          "feedback": "Las autoridades locales no son titulares de los recursos del subsuelo; la Constitución los asigna a otra entidad."
+        },
+        {
+          "letter": "B",
+          "text": "Pertenecen a quien compre los derechos en una subasta privada",
+          "is_correct": false,
+          "feedback": "Los particulares no pueden adueñarse del subsuelo por el simple pago: la propiedad es del Estado y solo se otorgan permisos de explotación."
+        },
+        {
+          "letter": "C",
+          "text": "Son propiedad del Estado, con exclusión de la propiedad de los dueños de la superficie",
+          "is_correct": true,
+          "feedback": "Correcto. El artículo 332 de la Constitución de 1991 establece que la propiedad del subsuelo y de los recursos naturales no renovables pertenece al Estado, sin importar quién sea el dueño del terreno."
+        },
+        {
+          "letter": "D",
+          "text": "Pertenecen a las empresas extranjeras que tengan la tecnología para extraerlos",
+          "is_correct": false,
+          "feedback": "Las empresas obtienen contratos para explotar, nunca la propiedad del recurso: esta es del Estado colombiano."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El artículo 332 de la Constitución de 1991 es claro: el subsuelo y los recursos naturales no renovables son propiedad del Estado, separada de la superficie. Por eso un campesino del Huila puede ser dueño de su tierra sin ser dueño del petróleo que yace debajo. El Estado, a través de la Agencia Nacional de Hidrocarburos, concede permisos de exploración y explotación mediante contratos, y esa regalía del recurso es la base de todo el sistema fiscal petrolero del país.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Recursos naturales y economía",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle-v2",
+      "statement": "La Constitución de 1991 consagra en el artículo 360 una figura específica para compensar a la nación y a los territorios por la extracción de recursos no renovables.\n¿Qué son las regalías según ese mandato constitucional?",
+      "context": "Un estudiante de Puerto Asís, en el Putumayo, escucha que su municipio recibe \"regalías\" por la producción de crudo en la zona.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una compensación económica que quien explota un recurso natural no renovable paga al Estado por apropiarse de su contenido",
+          "is_correct": true,
+          "feedback": "Correcto. El artículo 360 define la regalía como una compensación económica que recibe el Estado por la explotación de un recurso natural no renovable y que busca también destinar recursos al desarrollo de las regiones."
+        },
+        {
+          "letter": "B",
+          "text": "Un premio que el gobierno otorga a los trabajadores del sector de hidrocarburos",
+          "is_correct": false,
+          "feedback": "Las regalías no son un salario ni una bonificación laboral: es un pago de quien explota el recurso al Estado."
+        },
+        {
+          "letter": "C",
+          "text": "Un impuesto a la gasolina que pagan solo los conductores de vehículos",
+          "is_correct": false,
+          "feedback": "El impuesto a los combustibles es una figura tributaria distinta; las regalías se causan en la boca de pozo o mina por quien extrae el recurso."
+        },
+        {
+          "letter": "D",
+          "text": "Una multa a las empresas que contaminan los ríos de las regiones productoras",
+          "is_correct": false,
+          "feedback": "Las regalías no son sanción por contaminación; son el precio de la apropiación legal del recurso, y la sanción ambiental es un asunto aparte."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El artículo 360 de la Constitución ordena que quien explote un recurso natural no renovable pague una regalía al Estado, y autoriza destinar parte de esos recursos a las regiones para promover su desarrollo y competir con las condiciones de pobreza de sus poblaciones. Esa doble finalidad —compensar a la nación y financiar el desarrollo territorial— explica por qué el manejo de las regalías ha sido tan peleado en la política colombiana. Puerto Asís, en plena zona petrolera, es un escenario típico de este debate.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Recursos naturales y economía",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle-v3",
+      "statement": "Ecopetrol es la empresa de hidrocarburos más grande del país y está listada en bolsas de valores nacionales y extranjeras.\n¿Cuál es su naturaleza jurídica en términos de propiedad?",
+      "context": "En una clase de Medellín, un estudiante pregunta de quién es Ecopetrol, pues ve sus anuncios en la televisión y sabe que cotiza en la Bolsa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una empresa 100 % privada de accionistas extranjeros",
+          "is_correct": false,
+          "feedback": "Aunque tiene accionistas privados e institucionales en bolsa, el Estado colombiano conserva la mayoría del capital, así que no es una empresa totalmente privada."
+        },
+        {
+          "letter": "B",
+          "text": "Una empresa 100 % pública sin ningún accionista privado",
+          "is_correct": false,
+          "feedback": "Desde su capitalización, Ecopetrol vende acciones en bolsa a fondos y personas naturales, por lo que ya no es exclusivamente estatal."
+        },
+        {
+          "letter": "C",
+          "text": "Una ONG ambiental dedicada a financiar proyectos de energía limpia",
+          "is_correct": false,
+          "feedback": "Ecopetrol es una empresa petrolera con ánimo de lucro, no una organización sin ánimo de lucro dedicada a energías limpias."
+        },
+        {
+          "letter": "D",
+          "text": "Una empresa de economía mixta en la que la Nación posee la mayoría accionaria",
+          "is_correct": true,
+          "feedback": "Correcto. Ecopetrol es una sociedad de economía mixta de carácter industrial y comercial con mayoría accionaria de la Nación, con acciones también en manos de privados."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Ecopetrol es una empresa de economía mixta: la Nación es accionista mayoritaria, pero parte de sus acciones cotiza en bolsa en manos de fondos de pensiones, inversionistas extranjeros y personas naturales. Ese modelo combina control público sobre una palanca estratégica de la economía con acceso a capitales privados. Entender su propiedad ayuda a comprender por qué el petróleo toca simultáneamente las finanzas públicas, el mercado de valores y el debate ambiental del país.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Recursos naturales y economía",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle-v4",
+      "statement": "Para administrar y distribuir los recursos provenientes de las regalías, Colombia ha contado con un fondo nacional creado por reforma constitucional.\n¿Cuál fue la misión original del Fondo Nacional de Regalías, creado en 1969?",
+      "context": "En una biblioteca pública de Valledupar, un estudiante consulta documentos sobre la historia del manejo de las rentas petroleras en Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prestar dinero a los petroleros para que compren maquinaria",
+          "is_correct": false,
+          "feedback": "El fondo nunca fue una entidad de crédito para trabajadores del sector; su función era recibir y distribuir las rentas de las regalías."
+        },
+        {
+          "letter": "B",
+          "text": "Administrar y distribuir los recursos de las regalías hacia proyectos de desarrollo regional",
+          "is_correct": true,
+          "feedback": "Correcto. El Fondo Nacional de Regalías se creó en 1969 para centralizar la administración de las regalías y destinarlas a financiar inversiones de desarrollo en regiones y municipios."
+        },
+        {
+          "letter": "C",
+          "text": "Fijar el precio internacional del barril de petróleo colombiano",
+          "is_correct": false,
+          "feedback": "El precio del crudo lo determinan los mercados internacionales, no un fondo colombiano de regalías."
+        },
+        {
+          "letter": "D",
+          "text": "Reemplazar al Ministerio de Minas como autoridad petrolera",
+          "is_correct": false,
+          "feedback": "El fondo manejaba recursos, no regulaba el sector: esa función seguía en cabeza del ramo ministerial y de la autoridad concesora."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Fondo Nacional de Regalías nació en 1969 con la idea de convertir la renta petrolera en inversión regional: administración centralizada y financiación de proyectos en los departamentos y municipios. Con las décadas reveló sus dos debilidades: concentración de decisiones y controles endebles que facilitaron el desvío de recursos. Esa historia reciente, incluidos los escándalos de 2008-2010, explica por qué el sistema ha sido reformado varias veces buscando transparencia y mejor destino social de la renta.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle-v5",
+      "statement": "Las regalías y sus destinos constitucionales incluyen financiar inversiones en municipios afectados por la explotación de recursos no renovables.\n¿Qué camino institucional es el correcto para que la comunidad impulse ese proyecto escolar?",
+      "context": "El consejo municipal de Restrepo, en el Meta, quiere construir una nueva sede escolar y sabe que su municipio recibe recursos por la actividad petrolera cercana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cobrar directamente un peaje a los camiones cisterna que pasan por el pueblo",
+          "is_correct": false,
+          "feedback": "Los municipios no pueden crear cobros a transportadores sin base legal: esa vía sería ilegal y no depende del régimen de regalías."
+        },
+        {
+          "letter": "B",
+          "text": "Solicitar al Presidente que firme un cheque para la obra de esa escuela",
+          "is_correct": false,
+          "feedback": "Los recursos públicos no se entregan por voluntad directa del primer mandatario sin programación presupuestal: el sistema general de regalías tiene pasos técnicos."
+        },
+        {
+          "letter": "C",
+          "text": "Radicar el proyecto ante las instancias del sistema general de regalías para que sea aprobado y financiado",
+          "is_correct": true,
+          "feedback": "Correcto. Los proyectos de inversión financiados con regalías se estructuran y postulan por los canales técnicos del sistema general de regalías, con estudios y aprobaciones de las instancias competentes."
+        },
+        {
+          "letter": "D",
+          "text": "Vender acciones de la escuela a la empresa petrolera para cubrir sus costos",
+          "is_correct": false,
+          "feedback": "La educación pública no se financia con la venta de activos escolares a privados; existe una ruta institucional de recursos de regalías para infraestructura educativa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Sistema General de Regalías, reorganizado por la reforma constitucional de 2011, canaliza las rentas petroleras y mineras hacia proyectos aprobados por instancias como los órganos colegiados y dependencias del nivel nacional y departamental. Un municipio del Meta debe radicar el proyecto con estudios técnicos, no improvisar cobros ni esperar favores presidenciales. Este caso muestra cómo la ciudadanía territorial aprende a usar las reglas del sistema para convertir renta no renovable en escuelas y hospitales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Recursos naturales y economía",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle-v6",
+      "statement": "Colombia depende del petróleo como uno de sus principales productos de exportación y como fuente importante de ingresos fiscales.\n¿Qué consecuencia esperable trae para el presupuesto nacional una caída sostenida del precio del crudo?",
+      "context": "El noticiero de la noche informa que el precio internacional del barril de crudo cayó con fuerza y el Ministerio de Hacienda revisa las cuentas del país.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Menores ingresos por exportaciones, regalías y impuestos del sector, lo que estrecha el margen fiscal del gobierno",
+          "is_correct": true,
+          "feedback": "Correcto. Al bajar el precio del crudo caen las ventas externas, las regalías y los impuestos petroleros, reduciendo los ingresos disponibles y presionando el ajuste del gasto."
+        },
+        {
+          "letter": "B",
+          "text": "Aumento inmediato del gasto social porque el gobierno imprime billetes para compensar",
+          "is_correct": false,
+          "feedback": "El Estado no puede financiar gasto imprimiendo dinero sin consecuencias inflacionarias; la ley de responsabilidad fiscal limita esa vía."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguna, porque el presupuesto colombiano no recibe ningún dinero del sector de hidrocarburos",
+          "is_correct": false,
+          "feedback": "Es falso: el petróleo y sus tributos y regalías son una de las fuentes tradicionales de ingresos de la nación y de las regiones."
+        },
+        {
+          "letter": "D",
+          "text": "Que el precio local de la gasolina sube automáticamente al mismo ritmo que el internacional",
+          "is_correct": false,
+          "feedback": "Los precios internos dependen de la fórmula de regulación y de los subsidios del fondo de estabilización, no de una traslación automática de la cotización externa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La exposición fiscal al petróleo es estructural: cuando el precio cae, se reducen simultáneamente exportaciones, regalías, impuesto de renta petrolero y dividendos de Ecopetrol, como evidenciaron los choques de precios de los últimos años. Por eso el debate sobre diversificación de exportaciones y sobre el ahorro de la renta no renovable es central en la política económica colombiana. Un estudiante informado debe leer el presupuesto general de la nación también como un termómetro de la dependencia petrolera del país.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Recursos naturales y economía",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle-v7",
+      "statement": "Colombia incorporó a su ordenamiento interno el Convenio 169 de la OIT sobre pueblos indígenas y tribales, que reconoce la consulta previa como garantía fundamental.\n¿Qué exige este marco a un proyecto extractivo planeado en territorio de una comunidad étnica?",
+      "context": "En Riohacha se anuncia un proyecto de exploración en una zona donde habita una comunidad wayuu, y los líderes de la comunidad preguntan qué derechos tienen antes de que se mueva una sola máquina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la empresa done mercados a las familias antes de empezar la obra",
+          "is_correct": false,
+          "feedback": "La caridad empresarial no sustituye la consulta: el Convenio 169 exige un procedimiento previo, libre e informado, no entregas compensatorias improvisadas."
+        },
+        {
+          "letter": "B",
+          "text": "Que la comunidad vote en las elecciones presidenciales del año siguiente",
+          "is_correct": false,
+          "feedback": "El derecho a votar en elecciones es universal y no tiene que ver con el procedimiento especial de consulta previa para proyectos en territorios étnicos."
+        },
+        {
+          "letter": "C",
+          "text": "Que el gobernador autorice el proyecto sin avisar a nadie",
+          "is_correct": false,
+          "feedback": "La decisión unilateral de una autoridad administrativa no suple la consulta: el diálogo debe ser previo, libre e informado con la comunidad directamente afectada."
+        },
+        {
+          "letter": "D",
+          "text": "Que se adelante una consulta previa, libre e informada con la comunidad antes de adoptar decisiones que la afecten directamente",
+          "is_correct": true,
+          "feedback": "Correcto. El Convenio 169, desarrollado en Colombia por la Ley 171 de 1994 y la jurisprudencia constitucional, obliga a consultar a las comunidades étnicas de forma previa, libre e informada sobre medidas o proyectos que las afecten directamente."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La consulta previa es una garantía de rango constitucional para los pueblos indígenas y tribales: ninguna decisión que afecte directamente a una comunidad étnica puede adoptarse sin un diálogo previo, libre e informado. No es un trámite decorativo ni un veto automático, pero sí una obligación estatal que protege identidad, territorio y formas de vida wayuu, yukpa o embera. El caso de proyectos en La Guajira convierte este principio internacional en un asunto de vida cotidiana para familias que discuten el futuro de su agua y su suelo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle-v8",
+      "statement": "El manejo de los recursos de regalías está sujeto a reglas de publicidad presupuestal y a mecanismos de control ciudadano y fiscal.\n¿Cuál es la ruta legítima más sólida para que el estudiante ejerza ese control?",
+      "context": "Un líder estudiantil de Cali quiere investigar en qué se han gastado las regalías que llegaron al municipio en los últimos años.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presionar a la empresa petrolera para que le pague a él personalmente la información",
+          "is_correct": false,
+          "feedback": "La información presupuestal es pública por ley y no se compra a privados; presionar pagos personales sería extorsivo e ilegal."
+        },
+        {
+          "letter": "B",
+          "text": "Consultar los portales de transparencia y las plataformas de ejecución del Sistema General de Regalías y pedir información pública",
+          "is_correct": true,
+          "feedback": "Correcto. La información sobre aprobación y ejecución de proyectos con recursos de regalías es pública: los ciudadanos pueden consultarla en los portales oficiales y ejercer control mediante derechos de petición y veedurías."
+        },
+        {
+          "letter": "C",
+          "text": "Esperar a que un noticiero decida investigar y le cuente los resultados",
+          "is_correct": false,
+          "feedback": "El control ciudadano es activo: la transparencia oficial permite verificar sin depender exclusivamente del periodismo, que cumple otra función distinta."
+        },
+        {
+          "letter": "D",
+          "text": "Tomarse las oficinas de la entidad para forzar respuestas",
+          "is_correct": false,
+          "feedback": "La toma de edificios públicos es un delito; el derecho de petición y las veedurías ciudadanas son las vías legales de exigibilidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El sistema de regalías publica en plataformas como la de la Dirección General de Regalías los proyectos aprobados, sus valores y su estado de ejecución, y el derecho de petición consagrado en el artículo 23 de la Constitución obliga a responder oportunamente. Las veedurías ciudadanas complementan los controles de la Contraloría y de los órganos colegiados. Este caso entrena la competencia de participar y asumir responsabilidades: vigilar el gasto no es opcional ni subversivo, es un derecho ciudadano pleno en una democracia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle-v9",
+      "statement": "El fenómeno conocido como \"enfermedad holandesa\" describe lo que ocurre cuando una bonanza de recursos naturales aprecia la moneda local y golpea a los demás sectores exportadores.\n¿Cuál situación ilustra mejor este fenómeno en el caso del caficultor?",
+      "context": "Un exportador de café del Eje Cafetero se queja de que, cuando el petróleo sube mucho y entran dólares al país, su producto pierde competitividad en el mercado externo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la entrada masiva de divisas petroleras encarezca el peso y reduzca los ingresos del exportador al convertir sus dólares",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando el auge petrolero aprecia la tasa de cambio, el exportador no petrolero recibe menos pesos por cada dólar vendido: ese efecto de la enfermedad holandesa golpea la competitividad del café y de otros sectores."
+        },
+        {
+          "letter": "B",
+          "text": "Que las lluvias de El Niño dañen las carreteras veredales del departamento",
+          "is_correct": false,
+          "feedback": "El clima y las vías son problemas reales, pero no describen el mecanismo cambiario de la enfermedad holandesa."
+        },
+        {
+          "letter": "C",
+          "text": "Que los holandeses compre todo el café colombiano cada temporada",
+          "is_correct": false,
+          "feedback": "El nombre del fenómeno viene de la experiencia de Holanda con el gas natural, no de las compras de café de los Países Bajos."
+        },
+        {
+          "letter": "D",
+          "text": "Que el gobierno fije el precio interno de la panela para el consumo nacional",
+          "is_correct": false,
+          "feedback": "La regulación de precios de otros productos agrícolas es un tema de política interna distinto del efecto cambiario de la bonanza petrolera sobre las exportaciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La enfermedad holandesa opera así: la bonanza exportadora de un recurso atrae divisas, aprecia la moneda y encarece el resto de la canasta exportable, erosionando industrias que podrían sostener el empleo a largo plazo. Por eso la diversificación de la matriz exportadora y el ahorro de la renta en momentos de auge son apuestas de política pública contra esa trampa. El análisis del cafetero del Eje enseña que un mismo hecho —la subida del petróleo— puede ser una bendición fiscal y una maldición cambiaria al tiempo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Recursos naturales y economía",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle-v10",
+      "statement": "La transición energética mundial reduce gradualmente la demanda futura de combustibles fósiles y redefine los negocios ligados al petróleo.\n¿Cuál decisión empresarial responde mejor a esa tendencia global sin negar la realidad actual del mercado?",
+      "context": "Una empresa de Barranquilla que fabrica repuestos para motores de combustión evalúa si seguir dependiendo de los pedidos de la industria petrolera o redirigirse a energías renovables.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumentar toda su producción a repuestos, pues el petróleo dejará de usarse de un día para otro",
+          "is_correct": false,
+          "feedback": "La transición es gradual: suponer una desaparición instantánea del crudo conduce a sobreinvertir en un mercado que se contraerá."
+        },
+        {
+          "letter": "B",
+          "text": "Cerrar la fábrica inmediatamente porque ningún sector tiene futuro en Colombia",
+          "is_correct": false,
+          "feedback": "El cierre sin análisis desperdicia capacidades productivas que pueden reconvertirse hacia nuevos mercados energéticos."
+        },
+        {
+          "letter": "C",
+          "text": "Mantener la operación actual y diversificar inversiones hacia componentes para energías limpias, adaptando sus capacidades",
+          "is_correct": true,
+          "feedback": "Correcto. La reconversión inteligente aprovecha el flujo de caja presente del sector petrolero para construir capacidades en renovables, que es la vía con mayor probabilidad de sostenibilidad."
+        },
+        {
+          "letter": "D",
+          "text": "Exportar repuestos solo a países andinos y olvidar el resto del mundo",
+          "is_correct": false,
+          "feedback": "Restarse de la tendencia energética global por un mercado regional no resuelve el riesgo estructural de la demanda de combustibles fósiles."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La diversificación productiva es la respuesta racional tanto de países como de empresas ante la caída esperada de la demanda mundial de hidrocarburos en las próximas décadas. Una compañía de Barranquilla que convierte su experiencia metalúrgica en piezas para aerogeneradores o paneles ejemplifica la transición justa en el plano empresarial: protege empleos hoy y los prepara para el mercado de mañana. Este ítem conecta el análisis macro del rentismo con decisiones micro concretas del estudiante frente a su futuro profesional.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Globalización y comercio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle-v11",
+      "statement": "Los escándalos de regalías de 2008-2010 mostraron proyectos presentados como de desarrollo regional que en realidad buscaba capturar políticamente la renta.\n¿Cuál debilidad institucional del antiguo Fondo Nacional de Regalías explica mejor ese patrón?",
+      "context": "En un aula de Bogotá se estudian los escándalos de corrupción del Fondo Nacional de Regalías destapados entre 2008 y 2010, que la opinión pública resume bajo la expresión de \"mermelada de las regalías\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La exceso de requisitos técnicos que aprobaba solo grandes obras de ingeniería",
+          "is_correct": false,
+          "feedback": "El problema fue el contrario: controles débiles permitían aprobar proyectos sin viabilidad técnica real."
+        },
+        {
+          "letter": "B",
+          "text": "La escasez de dinero petrolero en esos años de precios internacionales altos",
+          "is_correct": false,
+          "feedback": "2008-2010 fueron años de precios altos; la corrupción apareció pese a la abundancia, no por falta de recursos."
+        },
+        {
+          "letter": "C",
+          "text": "El control exclusivo de los ciudadanos sobre la aprobación de cada proyecto",
+          "is_correct": false,
+          "feedback": "Los ciudadanos no tenían un poder de aprobación directo; esa ausencia de controles sociales y técnicos robustos era parte del problema."
+        },
+        {
+          "letter": "D",
+          "text": "La discrecionalidad en la aprobación y el débil control sobre proyectos que podían ser ficticios o innecesarios",
+          "is_correct": true,
+          "feedback": "Correcto. La combinación de criterios laxos de elegibilidad, fuerte influencia de contratistas y vigilancia insuficiente permitió que se aprobaran proyectos inflados o inexistentes en municipios que ni los conocían."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El escándalo de las regalías de 2008-2010 reveló cómo la renta fácil corrompe instituciones: municipios con planes de desarrollo copiados, estudios pagados por contratistas y aprobaciones políticamente motivadas. La indignación ciudadana alimentó la reforma constitucional de 2011, que reorganizó el sistema con instancias colegiadas y criterios más técnicos. Analizar este episodio sirve para entender una lección general: sin transparencia y controles, la abundancia de recursos naturales se convierte en botín y no en desarrollo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle-v12",
+      "statement": "La reforma constitucional de 2011 reorganizó el sistema de regalías en Colombia, creando el Sistema General de Regalías con nuevos órganos de aprobación y distribución.\n¿Qué tensión de política pública buscó resolver principalmente esa reorganización?",
+      "context": "Un profesor de Soacha compara dos modelos: uno que reparte regalías sobre todo a quien explota el recurso en su suelo, y uno que concentra el dinero en un sistema nacional con asignaciones generales y concursos de proyectos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumentar la producción diaria de barriles de petróleo del país",
+          "is_correct": false,
+          "feedback": "La reforma de regalías tocó el destino de la renta, no las metas de producción de crudo, que dependen de la actividad exploratoria."
+        },
+        {
+          "letter": "B",
+          "text": "Corregir la captura corrupta y clientelista de la renta en municipios productores, equilibrando asignaciones directas con criterios de necesidad nacional",
+          "is_correct": true,
+          "feedback": "Correcto. Tras los escándalos, la reforma de 2011 buscó blindar la aprobación de proyectos, redistribuir parte de la renta hacia equidad territorial y reducir el clientelismo en los entes que recibían regalías directas."
+        },
+        {
+          "letter": "C",
+          "text": "Privatizar el Fondo Nacional de Regalías y venderlo a un banco extranjero",
+          "is_correct": false,
+          "feedback": "Las regalías siguieron siendo recursos públicos administrados por entidades estatales; la reforma no privatizó el sistema."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminar por completo el pago de regalías a todas las regiones del país",
+          "is_correct": false,
+          "feedback": "La reforma no abolió las regalías: las reorganizó manteniendo componentes de asignación directa al territorio productor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La reforma de 2011, surgida del Acto Legislativo 05 de 2011, sustituyó el Fondo Nacional de Regalías por el Sistema General de Regalías: una arquitectura de ahorro e inversión con asignaciones directas a municipios productores, redistribución por objetivos de equidad, ciencia y competitividad, y aprobaciones mediante concursos y órganos colegiados. Su lógica era cortar la captura clientelista y dar uso estratégico a la renta. El análisis de sus resultados sigue abierto: los escándalos bajaron, pero persisten debates sobre la eficacia y la velocidad de la inversión.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Recursos naturales y economía",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle-v13",
+      "statement": "El Cerrejón genera empleos, regalías y exportaciones millonarias, pero las comunidades wayuu cercanas denuncian escasez de agua, afectación de caminos ancestrales y persistentes condiciones de pobreza.\n¿Cuál análisis captura mejor la estructura del conflicto?",
+      "context": "En Maicao, un grupo de estudiantes debate el caso de Carbones del Cerrejón, la mina de carbón a cielo abierto más grande de Colombia, operada en La Guajira en territorio del pueblo wayuu.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un conflicto de valores y distribución: los beneficios económicos del megaproyecto no se traducen automáticamente en bienestar para la población étnica que carga los costos ambientales y culturales",
+          "is_correct": true,
+          "feedback": "Correcto. El caso muestra la brecha entre rentas macroeconómicas y derechos territoriales: el agua wayuu y la generación de empleo y regalías se disputan la definición de desarrollo, y la desigualdad en la distribución de costos es el núcleo del conflicto."
+        },
+        {
+          "letter": "B",
+          "text": "Un problema de comunicación resuelto repartiendo propaganda de la minera en las rancherías",
+          "is_correct": false,
+          "feedback": "El problema no es de imagen sino de acceso al agua, tierra y participación; la propaganda no transforma la distribución de costos del proyecto."
+        },
+        {
+          "letter": "C",
+          "text": "Una disputa menor sin relevancia nacional, porque el carbón no se exporta",
+          "is_correct": false,
+          "feedback": "El carbón del Cerrejón es uno de los principales productos de exportación del país; lo que ocurre en La Guajira pesa en la balanza comercial y en los derechos humanos."
+        },
+        {
+          "letter": "D",
+          "text": "Un caso donde la minería demostró eliminar la pobreza de toda La Guajira",
+          "is_correct": false,
+          "feedback": "La persistencia de la desnutrición y de las protestas por agua desmiente cualquier afirmación de éxito distributivo pleno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Cerrejón, en el corazón de La Guajira, sintetiza la paradoja de los recursos naturales en Colombia: enorme generación de divisas y empleos junto a comunidades wayuu que reclaman agua, territorio y participación efectiva. El conflicto involucra derechos culturales, ambientales y de consulta previa, no solo balances contables. Analizarlo obliga a preguntar quién decide, quién gana y quién paga en los megaproyectos extractivos, una competencia central de la educación ciudadana y la vida democrática.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle-v14",
+      "statement": "El debate nacional sobre el fracking enfrenta supuestos beneficios de producción y empleo con riesgos ambientales todavía no delimitados con certeza en condiciones colombianas.\n¿Cuál análisis es más riguroso frente a esa controversia?",
+      "context": "En una audiencia pública en Barrancabermeja, ciudadanos, académicos y empresarios exponen argumentos a favor y en contra de la técnica de fracturamiento hidráulico o fracking para extraer petróleo de lutitas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El tema se zanja votando: si la mayoría está de acuerdo, desaparecen los riesgos ambientales",
+          "is_correct": false,
+          "feedback": "La opinión mayoritaria es legítima en democracia, pero no altera la hidrogeología ni los riesgos técnicos; la evidencia científica no se vota."
+        },
+        {
+          "letter": "B",
+          "text": "El debate es falso: el fracking ya se practica en Colombia a gran escala desde hace décadas",
+          "is_correct": false,
+          "feedback": "La explotación comercial de lutitas mediante fracking no se ha desarrollado a gran escala en el país, aunque sí hay discusión sobre pozos existentes y pilotos."
+        },
+        {
+          "letter": "C",
+          "text": "Exige ponderar evidencia técnica, capacidad regulatoria y derechos de las comunidades, admitiendo incertidumbre tanto sobre beneficios esperados como sobre impactos acumulativos",
+          "is_correct": true,
+          "feedback": "Correcto. Una evaluación rigurosa del fracking obliga a revisar estudios ambientales, la fortaleza de la autoridad que vigilaría, el costo de oportunidad del gas frente a renovables y la voz de los territorios, sin prometer certezas imposibles."
+        },
+        {
+          "letter": "D",
+          "text": "Solo concierne a ingenieros de poblados, porque los demás ciudadanos no aportan nada",
+          "is_correct": false,
+          "feedback": "La decisión tiene dimensiones ambientales, fiscales y de salud pública que pertenecen a toda la ciudadanía, no a un solo gremio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El fracking simboliza el dilema energético colombiano: una alternativa para sostener la producción de hidrocarburos y reducir importaciones de gas frente a riesgos de uso intensivo de agua, contaminación potencial y emisiones. La ciencia puede informar magnitudes, pero la incertidumbre local y los valores en juego convierten la decisión en un asunto democrático. Este análisis entrena al estudiante a desconfiar de posiciones absolutas y a exigir evidencia, regulación y participación informada como base de la política energética.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Recursos naturales y economía",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle-v15",
+      "statement": "La reforma de regalías de 2023-2024 modificó la distribución de esas rentas para dar mayor destino a la ciencia, la tecnología y la educación en las regiones.\n¿Qué racionalidad de largo plazo subyace a ese cambio de prioridades?",
+      "context": "El centro de documentación de un colegio en Popayán recoge noticias sobre la reforma del sistema de regalías aprobada durante 2023 y 2024.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reducir el presupuesto de los municipios para ahorrar el gasto público nacional",
+          "is_correct": false,
+          "feedback": "La reforma redistribuyó destinos dentro del sistema, no buscó recortar el gasto municipal como tal."
+        },
+        {
+          "letter": "B",
+          "text": "Premiar a los departamentos con más pozos activos con dineros adicionales",
+          "is_correct": false,
+          "feedback": "La orientación de la reforma fue diversificar el uso de la renta hacia capacidades productivas, no reforzar la asignación ligada a la producción."
+        },
+        {
+          "letter": "C",
+          "text": "Financiar con esas rentas la importación de más crudo de otros países",
+          "is_correct": false,
+          "feedback": "Comprar petróleo extranjero con regalías del petróleo propio sería contradictorio con el objetivo de soberanía energética de la reforma."
+        },
+        {
+          "letter": "D",
+          "text": "Preparar a las regiones para la era posterior al petróleo, invirtiendo una renta no renovable en capital humano e innovación",
+          "is_correct": true,
+          "feedback": "Correcto. Al destinar una mayor proporción de las regalías a ciencia, tecnología e innovación, el legislador convierte un ingreso temporal del subsuelo en capacidades permanentes de la sociedad, la lógica clásica de ahorrar la renta en activos intangibles."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La reforma de 2023-2024 introdujo o elevó destinaciones específicas de las regalías hacia ciencia, tecnología e innovación y hacia la educación, con el argumento de que la bonanza extractiva tiene fecha de vencimiento. Su lógica es la del ahorro intergeneracional: transformar recursos que se agotan en capacidades humanas que se acumulan y que sostienen la productividad cuando el petróleo termine. El estudiante de Popayán que aspira a estudiar ingeniería de energías es, literalmente, el destinatario de ese cambio de prioridades.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle-v16",
+      "statement": "La afirmación del columnista condensa la mentalidad rentista frente a los recursos naturales no renovables.\n¿Cuál es el error estructural de ese razonamiento?",
+      "context": "Un columnista de Santa Marta escribe: \"Mientras haya petróleo, Colombia no necesita industriarizarse ni mejorar su educación: el pozo paga la cuentas del país\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguno: históricamente todos los países petroleros han logrado desarrollo estable sin otras políticas",
+          "is_correct": false,
+          "feedback": "La experiencia de economías altamente dependientes del crudo con crisis fiscales y conflictos sociales desmiente que la renta sola garantice el desarrollo."
+        },
+        {
+          "letter": "B",
+          "text": "La renta petrolera es finita y volátil: no construir capacidades productivas, fiscales y educativas durante el auge condena al país al ajuste brusco cuando el precio o el pozo caigan",
+          "is_correct": true,
+          "feedback": "Correcto. El rentismo ignora la doble condición de recurso no renovable y precio volátil: sin diversificación y ahorro, la bonanza de hoy financia la crisis de mañana."
+        },
+        {
+          "letter": "C",
+          "text": "Que el problema es solo técnico, porque la educación no tiene ninguna relación con el petróleo",
+          "is_correct": false,
+          "feedback": "La educación determina la capacidad de crear los ingenieros, reguladores y empresarios que el país necesitará para no depender de un solo recurso."
+        },
+        {
+          "letter": "D",
+          "text": "Que el petróleo se acabará exactamente el próximo año en todo el mundo",
+          "is_correct": false,
+          "feedback": "Nadie sostiene un agotamiento inmediato; la crítica al rentismo se basa en la tendencia estructural, no en un plazo exacto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El rentismo describe una economía que vive de la renta fácil del recurso sin invertir en capacidades propias, y el columnista lo celebra en lugar de advertirlo. Los ciclos petroleros demuestran la fragilidad de esa apuesta: cada caída de precios obligó a ajustar presupuesto, subir impuestos o endeudar al país. El contraste con economías que usaron rentas para industrializarse y educarse muestra la decisión estratégica real: el petróleo no es un destino, es un plazo para transformarse.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Globalización y comercio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle-v17",
+      "statement": "La propuesta enfrenta el deber ético climático con la dependencia fiscal, el empleo y la seguridad energética que aún sostienen el presupuesto nacional.\n¿Cuál evaluación es más defendible desde el pensamiento sistémico?",
+      "context": "En una cumbre escolar de política pública en Cartagena se debate: \"Colombia debería prohibir desde ya toda nueva exploración petrolera, aunque el Estado pierda ingresos, para apurar la transición energética\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La meta de transición es válida, pero un corte abrupto de la exploración sin sustituir ingresos, gas y empleos trasladaría la crisis a las regiones y a los hogares; se requiere una ruta secuencial con indicadores verificables",
+          "is_correct": true,
+          "feedback": "Correcto. El evaluador maduro distingue el fin de la política de su ritmo: sin planes fiscales, de empleo y de suministro, el cierre prematuro golpearía sobre todo a los más dependientes del petróleo, por lo que una ruta gradual y auditable es superior al salto al vacío."
+        },
+        {
+          "letter": "B",
+          "text": "La propuesta es absurda porque el consumo mundial de combustibles fósiles ya bajó a cero",
+          "is_correct": false,
+          "feedback": "El mundo aún depende mayoritariamente de fósiles; esa es la magnitud real del reto climático, no una ficción de consumos nulos."
+        },
+        {
+          "letter": "C",
+          "text": "La propuesta es perfecta: cualquier costo es aceptable si la intención declarada es proteger el clima",
+          "is_correct": false,
+          "feedback": "Evaluar una política por su intención y no por sus efectos ignora el costo humano de la transición mal gestionada."
+        },
+        {
+          "letter": "D",
+          "text": "El debate es irrelevante porque Colombia no emite gases de efecto invernadero",
+          "is_correct": false,
+          "feedback": "Las emisiones colombianas son pequeñas a escala global, pero existen y el país es de los más vulnerables al cambio climático, lo que hace el tema central."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la transición energética colombiana exige sostener en la cabeza varias verdades a la vez: la urgencia climática es real, la dependencia fiscal del crudo es estructural y las regiones petroleras tienen derechos que no se extinguirían con un decreto. La justicia transicional energética pregunta quién paga el cambio de modelo y quién recoge sus beneficios. El pensamiento sistémico prefiere rutas secuenciales con metas verificables —de emisiones, de ingresos, de empleo— porque la política buena se mide por consecuencias, no por consignas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Recursos naturales y economía",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle-v18",
+      "statement": "Ambos extremos interpretan la relación entre regalías, pobreza territorial y justicia distributiva en los paisajes del petróleo.\n¿Cuál es la evaluación más sólida de las dos posturas?",
+      "context": "En un foro de Puerto Wilches, a orillas del Magdalena, un delegado empresarial dice: \"Las regiones petroleras ya reciben regalías suficientes; si siguen pobres es por su culpa\"; un dirigente comunitario responde: \"Esa renta es un robo a nuestra agua y a nuestro aire y debe compensarnos todo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La postura empresarial es correcta: ningún dinero puede justificar que se cuestione una actividad legal",
+          "is_correct": false,
+          "feedback": "Confunde legalidad con justicia: el hecho de que la explotación sea legal no agota los derechos ambientales ni la obligación del Estado de distribuir equitativamente la renta."
+        },
+        {
+          "letter": "B",
+          "text": "La postura comunitaria es correcta en todo: las regalías no deberían existir y toda extracción es ilegítima",
+          "is_correct": false,
+          "feedback": "Eliminar la renta no borraría el consumo de energía del país ni los derechos de las regiones a financiar servicios; es una posición que no distingue fines lícitos de daños injustos."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguna de las dos resiste escrutinio: las regalías compensan pero no bastan, y las deficiencias de ejecución y distribución explican en parte la persistencia de la pobreza en territorios petroleros",
+          "is_correct": true,
+          "feedback": "Correcto. La evidencia muestra que las asignaciones de regalías han convivido con pobreza en municipios productores por baja ejecución, corrupción y debilidad institucional, mientras que la compensación debe complementarse con remediación ambiental y participación real."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas son equivalentes, porque las dos ignoran las cifras de inversión social en el territorio",
+          "is_correct": false,
+          "feedback": "Las dos posturas sí hablan del reparto de la renta; el error está en sus extremos, no en la ausencia del tema."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El dilema de las regiones petroleras —suelo rico, población pobre— no admite respuestas puras: la renta existe y se distribuye por mandato constitucional, pero su gestión ha fallado en ejecución, focalización y remediación. Tampoco vale culpar solo al territorio, porque el diseño institucional y la corrupción han sido responsabilidad de redes nacionales. Una evaluación seria combina cifras de pobreza multidimensional, transparencia de proyectos y derechos ambientales, y reconoce que compensación no equivale a reparación cuando los costos los paga quien menos decide.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle-v19",
+      "statement": "La tensión entre la consulta previa, libre e informada del Convenio 169 y los megaproyectos considerados de interés nacional es uno de los debates más espinosos del derecho constitucional colombiano.\n¿Cuál evaluación es más consistente con el bloque constitucional de 1991?",
+      "context": "En un seminario en Riohacha se debate: \"Si una comunidad indígena rechaza en consulta previa un proyecto extractivo estratégico para el país, el gobierno siempre debe poder imponerlo por el interés nacional\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El interés nacional lo puede todo: la consulta previa es solo un evento informativo sin mayor valor",
+          "is_correct": false,
+          "feedback": "Reducir la consulta a un acto informativo contradice su carácter vinculante, previo y de buena fe, según el Convenio 169 y la Constitución."
+        },
+        {
+          "letter": "B",
+          "text": "La consulta previa es una garantía de rango constitucional que limita la discrecionalidad estatal, y su imposición sin acuerdo solo procede de forma excepcional, con proporcionalidad e indemnización, jamás de manera automática",
+          "is_correct": true,
+          "feedback": "Correcto. La jurisprudencia constitucional protege la consulta como derecho fundamental de participación de los pueblos étnicos: el Estado puede ponderar intereses mayores en casos excepcionales, pero debe demostrar necesidad, proporcionalidad y compensación, sin convertir la excepción en regla."
+        },
+        {
+          "letter": "C",
+          "text": "La comunidad tiene un veto absoluto sobre cualquier cosa que ocurra en el país",
+          "is_correct": false,
+          "feedback": "La consulta no es un poder de veto irrestricto sobre toda decisión nacional; su alcance protege territorios e intereses directamente afectados."
+        },
+        {
+          "letter": "D",
+          "text": "El debate solo afecta a empresas, nunca a los ciudadanos no indígenas",
+          "is_correct": false,
+          "feedback": "Los estándares de participación y debido proceso del Convenio 169 integran el pacto constitucional que define cómo el Estado decide con la sociedad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El bloque constitucional de 1991 reconoce a Colombia como nación pluriétnica y culturalmente diversa, y el Convenio 169 obliga a consultar de buena fe a las comunidades sobre medidas que las afecten. Esto significa que la soberanía extractiva tiene límites: el Estado no puede decidir sobre La Guajira wayuu como si el territorio estuviera vacío. Pero la consulta tampoco otorga poderes ilimitados: funciona como protección reforzada frente a afectaciones directas. Evaluar sus alcances es evaluar la democracia misma cuando choca el proyecto nacional con la vida de los pueblos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle-v20",
+      "statement": "Ecopetrol, con mayoría accionaria estatal, es a la vez motor fiscal, empleador estratégico y actor señalado en debates climáticos.\n¿Cuál evaluación del rol de la empresa pública es más robusta?",
+      "context": "En un cabildo juvenil en Bogotá se debate el futuro de Ecopetrol: unos proponen que el Estado venda toda su participación, otros que use la empresa para expandir la exploración, y otros que la oriente hacia la transición energética.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Estado debe vender toda su participación mañana, porque cualquier propiedad pública es ineficiente por definición",
+          "is_correct": false,
+          "feedback": "La eficiencia no depende únicamente del dueño: vender de un solo golpe renunciaría al brazo técnico y financiero con que cuenta la política energética."
+        },
+        {
+          "letter": "B",
+          "text": "La empresa debe desaparecer y Colombia debe importar toda su energía de vecinos andinos",
+          "is_correct": false,
+          "feedback": "La seguridad energética exige capacidades propias; sustituir producción por importaciones totales multiplicaría la vulnerabilidad externa."
+        },
+        {
+          "letter": "C",
+          "text": "La empresa debe ignorar el clima y maxificar solo la extracción, porque su deber con la bolsa lo exige",
+          "is_correct": false,
+          "feedback": "Los accionistas, incluido el Estado, están expuestos al riesgo de activos varados: maximizar la extracción sin mirar la demanda futura es una estrategia financieramente miope."
+        },
+        {
+          "letter": "D",
+          "text": "La propiedad mayoritaria estatal debe medirse por su aporte a una estrategia nacional que combine finanzas públicas, seguridad energética y descarbonización, con rendición de cuentas ciudadana",
+          "is_correct": true,
+          "feedback": "Correcto. Una evaluación de política pública pondera los tres roles de Ecopetrol —fiscal, energético y climático— y condiciona la gestión a resultados verificables y control social, no a lealtades ideológicas con el mercado o con el Estado."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El debate sobre Ecopetrol obliga a pensar el Estado como propietario: ¿para qué sirve esa participación? Una respuesta madura la subordina a objetivos públicos medibles —financiar transición, sostener empleo, garantizar suministro, reducir emisiones— y a instituciones de control. La gobernanza corporativa de una empresa de economía mixta no es un tema de expertos: los dividendos que recibe la Nación se traducen en presupuesto y regalías que sostienen escuelas y hospitales. Por eso el cabildo juvenil decide, en el fondo, qué país quiere construir con sus recursos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-11-2026-W21-recursos-naturales-petroleo-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

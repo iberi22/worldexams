@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "uy",
+    "pack_id": "uy-week-14-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T16:46:07.948Z"
+  },
+  "questions": [
+    {
+      "id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v1",
+      "statement": "¿Cómo se denomina este proceso de enriquecimiento nutricional de los cuerpos de agua dulce?",
+      "context": "En la cuenca del Río Santa Lucía, la llegada excesiva de nutrientes como fósforo y nitrógeno procedentes de fertilizantes provoca un crecimiento desmedido de algas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eutrofización.",
+          "is_correct": true,
+          "feedback": "Correcto. La eutrofización es el enriquecimiento de las aguas con nutrientes que estimula la proliferación de algas."
+        },
+        {
+          "letter": "B",
+          "text": "Acidificación oceánica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La acidificación es la disminución del pH marino por absorción de $CO_2$."
+        },
+        {
+          "letter": "C",
+          "text": "Biomagnificación pesquera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La biomagnificación es el aumento de concentración de toxinas a lo largo de la red trófica."
+        },
+        {
+          "letter": "D",
+          "text": "Salinización freática.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La salinización es la acumulación de sales disueltas en suelos o acuíferos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La eutrofización es un proceso desencadenado por el vertido excesivo de nitrógeno y fósforo, alterando la calidad del agua y reduciendo el oxígeno disuelto.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v2",
+      "statement": "¿Qué fenómeno de contaminación atmosférica transfronteriza se produce al formarse ácidos sulfúrico y nítrico en las nubes?",
+      "context": "El dióxido de azufre ($SO_2$) y los óxidos de nitrógeno ($NO_x$) emitidos por la combustión industrial reaccionan en la atmósfera con el vapor de agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Destrucción de la capa de ozono estratosférico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ozono estratosférico se destruye principalmente por compuestos clorofluorocarbonados (CFCs)."
+        },
+        {
+          "letter": "B",
+          "text": "Lluvia ácida (o deposición ácida).",
+          "is_correct": true,
+          "feedback": "Correcto. La reacción del $SO_2$ y $NO_x$ con agua atmosférica genera $H_2SO_4$ y $HNO_3$, acidificando las precipitaciones."
+        },
+        {
+          "letter": "C",
+          "text": "Smog fotorradiativo de radón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El radón es un gas radiactivo natural derivado del uranio, no asociado a la deposición ácida."
+        },
+        {
+          "letter": "D",
+          "text": "Efecto invernadero natural por vapor de agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La deposición ácida es una alteración por contaminantes ácidos, no el efecto invernadero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La lluvia ácida presenta un pH inferior a 5,6 debido a la hidrólisis de óxidos de azufre y nitrógeno procedentes de la combustión de fósiles.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v3",
+      "statement": "¿Qué riesgo tóxico principal representan estas floraciones masivas para la salud humana y de la fauna acuática?",
+      "context": "En monitoreos estivales del embalse de Rincón del Bonete (Río Negro), se detectan floraciones verde-azuladas de cianobacterias (*Microcystis aeruginosa*).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Liberación de gas metano radioactivo por las células senescentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las cianobacterias no sintetizan ni emiten radón o metano radioactivo."
+        },
+        {
+          "letter": "B",
+          "text": "Producción y liberación de hepatotoxinas y neurotoxinas (como microcistinas) perjudiciales al beber o tomar contacto con el agua.",
+          "is_correct": true,
+          "feedback": "Correcto. Las microcistinas son toxinas cianobacterianas que dañan el hígado y el sistema nervioso."
+        },
+        {
+          "letter": "C",
+          "text": "Aumento de la salinidad del agua convirtiéndola en agua marina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las floraciones no alteran la salinidad iónica del embalse de agua dulce."
+        },
+        {
+          "letter": "D",
+          "text": "Inactivación completa de la fotosíntesis en todos los vegetales terrestres circundantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El impacto tóxico es directo sobre los organismos acuáticos y los consumidores del agua."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las cianobacterias sintetizan metabolitos secundarios tóxicos (cianotoxinas) que contaminan el agua potable y representan un grave peligro hepatotóxico.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v4",
+      "statement": "¿Qué mide exactamente la DL50 de una sustancia química en ensayos toxicológicos estandarizados?",
+      "context": "En la evaluación ecotóxica de un plaguicida organofosforado en el Liceo de Mercedes, las y los estudiantes analizan el concepto de DL50 (Dosis Letal 50).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cantidad de sustancia que destruye el 50% de las moléculas de nitrógeno del aire.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un parámetro toxicológico aplicado a poblaciones de organismos vivos de prueba."
+        },
+        {
+          "letter": "B",
+          "text": "La dosis de una sustancia requerida para provocar la muerte del 50% de una población de organismos de prueba en un tiempo determinado.",
+          "is_correct": true,
+          "feedback": "Correcto. La DL50 es el indicador cuantitativo estándar de toxicidad aguda: a menor DL50, mayor es la toxicidad de la sustancia."
+        },
+        {
+          "letter": "C",
+          "text": "El tiempo necesario para que el 50% del producto se evapore por acción solar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tasa de evaporación o vida media no coincide con la DL50 de mortalidad biológica."
+        },
+        {
+          "letter": "D",
+          "text": "El porcentaje de fertilidad que conservan los organismos tras 50 días de exposición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mide letalidad por dosis, no subletalidad reproductiva en 50 días."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La DL50 expresa la masa de tóxico por unidad de peso corporal que resulta letal para el 50% de los individuos evaluados; cuantifica la toxicidad aguda.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v5",
+      "statement": "¿Qué efecto ecotóxico no deseado generan los neonicotinoides sobre los polinizadores nativos como las abejas (*Apis mellifera*) y abejorros (*Bombus*)?",
+      "context": "En zonas agrícolas del departamento de Soriano se aplican insecticidas neonicotinoides para proteger cultivos de soja.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inhiben la síntesis de clorofila en el polen recolectado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las abejas son animales que no sintetizan clorofila ni fotosintetizan."
+        },
+        {
+          "letter": "B",
+          "text": "Afectan el sistema nervioso central de los insectos, alterando su capacidad de orientación, aprendizaje y navegación de retorno a la colmena.",
+          "is_correct": true,
+          "feedback": "Correcto. Los neonicotinoides actúan como neurotoxinas agonistas de receptores nicotínicos de acetilcolina, desorientando a los polinizadores."
+        },
+        {
+          "letter": "C",
+          "text": "Provocan la transformación instantánea de las abejas en plagas defoliadoras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No alteran el régimen alimentario ni la morfológía funcional de la especie."
+        },
+        {
+          "letter": "D",
+          "text": "Aumentan la masa corporal de la reina en un 500% en menos de 24 horas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No ejercen acción de hormona del crecimiento hipertrófica en la reina."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los neonicotinoides son neurotóxicos sistémicos que provocan efectos subletales severos en polinizadores, afectando la navegación y la supervivencia de las colonias.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v6",
+      "statement": "¿Por qué se afirma que el ozono es 'bueno arriba y malo abajo' desde el punto de vista ambiental?",
+      "context": "Diferenciás el papel ecológico del ozono en dos capas atmosféricas distintivas: la estratosfera y la troposfera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la estratosfera provoca lluvia ácida y en la troposfera absorbe luz infrarroja.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La deposición ácida es causada por $SO_2$/$NO_x$, no por el ozono estratosférico."
+        },
+        {
+          "letter": "B",
+          "text": "En la estratosfera filtra la dañina radiación ultravioleta B (UV-B), mientras que en la troposfera actúa como un contaminante oxidante nocivo para la salud respiratoria.",
+          "is_correct": true,
+          "feedback": "Correcto. El ozono estratosférico protege de la mutagénesis UV-B, pero el ozono troposférico superficial irrita las vías respiratorias y daña los tejidos vegetales."
+        },
+        {
+          "letter": "C",
+          "text": "En la estratosfera es un nutriente bacteriano y en la troposfera genera heladas en invierno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ozono es una molécula triatómica de oxígeno ($O_3$), no un nutriente celular ni agente congelante."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas capas de ozono destruyen las moléculas de nitrógeno de forma irreversible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ozono interactúa con la radiación solar UV y radicales libres, no destruye la reserva de $N_2$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El $O_3$ estratosférico es esencial como escudo protector frente a la radiación UV-B solar, mientras que el $O_3$ troposférico es un oxidante fotoquímico secundario muy irritante.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.72,
+      "bundle_id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v7",
+      "statement": "¿Por qué los metales pesados son considerados contaminantes de alta persistencia y peligrosidad en los ecosistemas acuáticos?",
+      "context": "Muestras de sedimento tomadas en la Bahía de Montevideo revelan la presencia de metales pesados como plomo ($Pb$) y cadmio ($Cd$) provenientes de efluentes industriales pasados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque se evaporan velozmente hacia la estratosfera mediante fotólisis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los metales pesados son elementos inorgánicos estables que no se evaporan ni destruyen por fotólisis."
+        },
+        {
+          "letter": "B",
+          "text": "Porque no son biodegradables, persisten en el ambiente y se bioacumulan en los tejidos de los organismos vivientes.",
+          "is_correct": true,
+          "feedback": "Correcto. Al ser elementos químicos indivisibles, no se degradan metabólicamente, persistiendo en sedimentos y biomagnificándose."
+        },
+        {
+          "letter": "C",
+          "text": "Porque actúan como fertilizantes orgánicos acelerando la fotosíntesis de los peces.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son elementos altamente citotóxicos, no nutrientes ni fertilizantes."
+        },
+        {
+          "letter": "D",
+          "text": "Porque reaccionan con el nitrógeno transformándose en oxígeno gaseoso soluble.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los metales no mutan en otros elementos químicos ni liberan oxígeno."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los metales pesados son elementos químicos indivisibles no biodegradables que se fijan en sedimentos y tejidos orgánicos, ejerciendo toxicidad crónica.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v8",
+      "statement": "¿Qué diferencia técnica existe entre la DQO y la DBO en el análisis de calidad de un efluente acuoso?",
+      "context": "En una planta de tratamiento de aguas residuales en Maldonado, se mide la Demanda Química de Oxígeno (DQO) junto con la DBO para caracterizar el efluente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La DBO mide sustancias inorgánicas oxidables y la DQO mide la transpiración de plantas acuáticas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La DBO mide biodegradación biológica por bacterias, no transpiración vegetal."
+        },
+        {
+          "letter": "B",
+          "text": "La DQO mide el oxígeno requerido para oxidar químicamente toda la materia orgánica (biodegradable y no biodegradable), superando casi siempre el valor de la DBO.",
+          "is_correct": true,
+          "feedback": "Correcto. La DQO utiliza un oxidante químico fuerte (dicromato de potasio) oxidando materia orgánica total; la DBO solo cuantifica la fracción biodegradable por bacterias."
+        },
+        {
+          "letter": "C",
+          "text": "La DQO es siempre cero si existen bacterias vivas en la muestra de agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La DQO es independiente de la viabilidad bacteriana pues emplea reactivos químicos."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas pruebas son idénticas y se diferencian únicamente por la temperatura de congelación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. DBO y DQO se fundamentan en principios analíticos distintos (biológico vs químico)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La DQO evalúa la carga oxidable total mediante un oxidante químico potente en caliente, resultando en valores superiores a la DBO (que solo mide la fracción biodegradable).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.68,
+      "bundle_id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v9",
+      "statement": "¿Qué riesgo para la salud humana (especialmente en lactantes) representa el consumo de agua subterránea contaminada con concentraciones de nitratos ($NO_3^-$) superiores a 50 mg/L?",
+      "context": "Analizás el efecto de la lixiviación de fertilizantes sintéticos en los acuíferos subterráneos (como el Acuífero Raigón en San José).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Producir raquitis masiva por hipercalcemia ósea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La toxicidad por nitratos no provoca hipercalcemia ósea."
+        },
+        {
+          "letter": "B",
+          "text": "Desarrollar metahemoglobinemia (síndrome del bebé azul), donde el nitrito reduce la capacidad de la hemoglobina para transportar oxígeno.",
+          "is_correct": true,
+          "feedback": "Correcto. En el estómago del lactante, el nitrato se reduce a nitrito, oxidando el hierro de la hemoglobina a metahemoglobina incapaz de transportar $O_2$."
+        },
+        {
+          "letter": "C",
+          "text": "Provocar silicosis pulmonar por depósitos de arena silícea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La silicosis es una enfermedad inhalatoria ocupacional por polvo de sílice."
+        },
+        {
+          "letter": "D",
+          "text": "Inactivar la producción de glucosa celular de forma irreversible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nitrito afecta a la hemoglobina en sangre humana, alterando la oxigenación de tejidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ingesta de altas concentraciones de nitratos en agua de pozo induce metahemoglobinemia infantil al impedir el transporte de oxígeno en glóbulos rojos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.67,
+      "bundle_id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v10",
+      "statement": "¿Qué mecanismo biótico y físico depura el efluente doméstico al pasar por el humedal artificial?",
+      "context": "En el diseño de sistemas de saneamiento para pequeñas comunidades rurales en Rocha, se construyen humedales artificiales de flujo subsuperficial con plantas emergentes (totoras y juncos).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incinereación química instantánea de los sólidos disueltos por la acción del sol.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los humedales son sistemas biológicos de filtración y depuración, no incineradores."
+        },
+        {
+          "letter": "B",
+          "text": "Filtración física por el sustrato de grava, absorción de nutrientes por las raíces de las macrófitas y degradación microbiana en la rizosfera.",
+          "is_correct": true,
+          "feedback": "Correcto. Las raíces aportan oxígeno a la zona rizoférica, estimulando a las bacterias nitrificantes y descomponedoras que depuran el agua."
+        },
+        {
+          "letter": "C",
+          "text": "Esterilización por radiación gamma emitida por las hojas de totora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las totoras no emiten radiación gamma; la depuración es un proceso biológico estándar."
+        },
+        {
+          "letter": "D",
+          "text": "Conversión de la materia orgánica en derivados plásticos insolubles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los microorganismos edáficos mineralizan los compuestos orgánicos en sales inorgánicas y biomasa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los humedales artificiales depuran efluentes mediante la acción conjunta de la filtración por sustrato, la captación vegetal de $N$ y $P$, y la degradación por la microbiota rizosférica.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v11",
+      "statement": "Si la constante de degradación $k$ es de $0{,}05\\text{ día}^{-1}$, ¿cuál es el tiempo de vida media ($t_{1/2} = \\frac{\\ln 2}{k}$) necesario para que la concentración del contaminante se reduzca al 50% de su valor inicial?",
+      "context": "Estudias la cinetica de degradacion de un contaminante organico en el agua del Arroyo Pantanoso (Montevideo), observando un comportamiento de orden uno $C(t) = C_0 e^{-k t}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$13{,}86\\text{ días}$ ($t_{1/2} = \\frac{0{,}693}{0{,}05} = 13{,}86$).",
+          "is_correct": true,
+          "feedback": "Correcto. Sustituyendo $k=0{,}05$: $t_{1/2} = 0{,}693 / 0{,}05 = 13{,}86\\text{ días}$."
+        },
+        {
+          "letter": "B",
+          "text": "$5{,}00\\text{ días}$ ($t_{1/2} = 100 \\times 0{,}05$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. La vida media para cinéticas de primer orden utiliza $\\ln(2) / k$, no la multiplicación lineal."
+        },
+        {
+          "letter": "C",
+          "text": "$20{,}00\\text{ días}$ ($t_{1/2} = 1 / 0{,}05$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. $1/k$ es el tiempo de residencia o vida media matemática $\\tau$, no el $t_{1/2}$ de desintegración al 50%."
+        },
+        {
+          "letter": "D",
+          "text": "$50{,}00\\text{ días}$ ($t_{1/2} = 0{,}05 \\times 1000$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplicó un factor de multiplicación erróneo sin fundamento cinético."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En reacciones cinéticas de primer orden, el tiempo de vida media es independiente de la concentración inicial y se calcula como $t_{1/2} = \\frac{\\ln 2}{k} \\approx \\frac{0{,}693}{k}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v12",
+      "statement": "¿Qué cambio ocurre en el perfil de oxígeno disuelto y en la presencia de organismos bioindicadores a lo largo del trayecto del arroyo (modelo de curva de abatimiento de oxígeno)?",
+      "context": "La entrada de aguas servidas no tratadas a un curso de agua produce una zona de degradación y descomposición activa, seguida por una zona de recuperación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El oxígeno disuelto sube de inmediato en el punto de vertido y aparecen larvas de efímeras sensibles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el vertido la DBO es máxima y el oxígeno disuelto se desploma por respiración bacteriana."
+        },
+        {
+          "letter": "B",
+          "text": "El oxígeno disuelto cae drásticamente (deficit máximo) dominando bacterias anaeróbicas y gusanos *Tubifex*, recuperándose aguas abajo por reaireación.",
+          "is_correct": true,
+          "feedback": "Correcto. El vertido orgánico consume $O_2$ creando un 'sag' o déficit de oxígeno; sólo sobreviven especies tolerantes hasta que la reaireación restaura el curso."
+        },
+        {
+          "letter": "C",
+          "text": "El oxígeno disuelto permanece constante y la temperatura del agua cae a $0^\\circ\\text{C}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La degradación biológica altera la demanda de oxígeno y no congela el arroyo."
+        },
+        {
+          "letter": "D",
+          "text": "Las bacterias aerobias desaparecen para siempre en toda la cuenca hidrográfica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aguas abajo el oxígeno se recupera por reaireación fotosintética y difusiva."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El modelo de curva de abatimiento de oxígeno de Streeter-Phelps describe la caída inicial del $O_2$ disuelto por descomposición y su posterior recuperación por reaireación atmosférica.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v13",
+      "statement": "¿En qué consiste la técnica de bioestimulación dentro de las estrategias de biorremediación de suelos contaminados por hidrocarburos?",
+      "context": "Un derrame de hidrocarburos aromáticos policíclicos (HAP) afecta una zona de bañados en San José. Se decide aplicar biorremediación acelerada *in situ*.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Remover todo el suelo contaminado e incinerarlo a $2000^\\circ\\text{C}$ en hornos industriales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La incineración ex situ es un tratamiento térmico físico-químico, no bioestimulación."
+        },
+        {
+          "letter": "B",
+          "text": "Adicionar nutrientes (nitrógeno y fósforo) y oxígeno para estimular la actividad metabólica de las bacterias degradadoras autóctonas.",
+          "is_correct": true,
+          "feedback": "Correcto. La bioestimulación optimiza las condiciones ambientales ($N$, $P$, $O_2$) para que la microbiota nativa degrade los hidrocarburos."
+        },
+        {
+          "letter": "C",
+          "text": "Inocular especies de mamíferos carnívoros para que consuman el petróleo derramado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los mamíferos no digieren ni metabolizan hidrocarburos para biorremediación."
+        },
+        {
+          "letter": "D",
+          "text": "Cubrir el área contaminada con láminas de plástico sintético impermeables por un siglo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aislamiento térmico no degrada los hidrocarburos de forma biológica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La bioestimulación aporta nutrientes limitantes ($N$, $P$) y efectúa aireación para potenciar la tasa de biodegradación por parte de los microorganismos nativos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v14",
+      "statement": "¿Qué cambio en la química del complejo de cambio del suelo genera la acidificación por acumuación de pinocha y cómo afecta a los cationes nutrientes ($Ca^{2+}$, $Mg^{2+}$, $K^+$)?",
+      "context": "Se evalúa la acidificación del suelo en campos forestados con pino marítimo (*Pinus pinaster*) en Canelones, comparándolo con suelos bajo pradera natural adyacente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta el pH a 9,0 liberando grandes cantidades de carbonato de calcio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hojarasca de coníferas acidifica el suelo, bajando el pH, no alcalinizándolo."
+        },
+        {
+          "letter": "B",
+          "text": "El aumento de iones $H^+$ y $Al^{3+}$ desplaza a los cationes nutrientes ($Ca^{2+}$, $Mg^{2+}$, $K^+$) de las arcillas, favoreciendo su lixiviación.",
+          "is_correct": true,
+          "feedback": "Correcto. Los protones $H^+$ y el aluminio soluble ocupan los sitios de intercambio catiónico en las arcillas, lavando los nutrientes esenciales hacia el subsuelo."
+        },
+        {
+          "letter": "C",
+          "text": "Aumenta la capacidad de intercambio catiónico fijando todos los nutrientes de forma permanente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La acidificación solubiliza aluminio tóxico y desabsorbe nutrientes básicos."
+        },
+        {
+          "letter": "D",
+          "text": "Elimina la presencia de aluminio tóxico mediante la formación de hidróxidos solubles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. A pH ácido ($< 5{,}0$) el aluminio soluble $Al^{3+}$ aumenta, siendo muy fitotóxico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La acidificación incrementa la concentración de $H^+$ y $Al^{3+}$ solubles, desplazando a las bases cambiables ($Ca^{2+}, Mg^{2+}, K^+$) de los coloides y causando su pérdida por lixiviación.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.53,
+      "bundle_id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es el contaminante secundario altamente oxidante que se sintetiza en la troposfera como consecuencia de estas reacciones fotoquímicas?",
+      "context": "En la atmósfera metropolitana de Montevideo, durante días despejados y sin viento de verano, la interacción entre óxidos de nitrógeno ($NO_x$) y compuestos orgánicos volátiles (COVs) bajo radiación solar produce smog fotoquímico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Monóxido de carbono ($CO$) primario inodoro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El $CO$ es un contaminante primario emitido por combustión incompleta."
+        },
+        {
+          "letter": "B",
+          "text": "Ozono troposférico ($O_3$) y nitrato de peroxiacetilo (PAN).",
+          "is_correct": true,
+          "feedback": "Correcto. La fotólisis del $NO_2$ producida por radiación solar en presencia de COVs genera $O_3$ troposférico y PAN."
+        },
+        {
+          "letter": "C",
+          "text": "Sulfato de amonio sólido cristalino de origen geotérmico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No proviene de reacciones fotoquímicas de $NO_x$ y COVs."
+        },
+        {
+          "letter": "D",
+          "text": "Metano puro libre de la digestión entérica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El metano es un hidrocarburo simple, no el oxidante secundario del smog fotoquímico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El smog fotoquímico es una mezcla de contaminantes secundarios (destacando el $O_3$ superficial y PAN) formados por la fotólisis de $NO_x$ e hidrocarburos asistida por radiación UV.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.5,
+      "bundle_id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v16",
+      "statement": "Si un compuesto 'A' presenta $K_{oc} = 10\\text{ L/kg}$ y un compuesto 'B' presenta $K_{oc} = 5000\\text{ L/kg}$, ¿cuál de los dos plaguicidas posee mayor potencial de contaminación de acuíferos por lixiviación?",
+      "context": "Muestras de plaguicidas encontradas en drenajes agrícolas de Colonia son sometidas a ensayos de adsorción en suelo para calcular el coeficiente de partición carbono orgánico-agua ($K_{oc}$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El compuesto 'A', porque su bajo $K_{oc}$ indica débil adsorción a la materia orgánica del suelo y alta movilidad en la fase acuosa.",
+          "is_correct": true,
+          "feedback": "Correcto. A menor $K_{oc}$, menor retención en el suelo orgánico y mayor solubilidad/movilidad con el agua de infiltración hacia el acuífero."
+        },
+        {
+          "letter": "B",
+          "text": "El compuesto 'B', porque su elevado $K_{oc}$ hace que se volatilice al instante hacia el agua subterránea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un $K_{oc}$ alto indica fuerte fijación a las partículas orgánicas del suelo, frenando su lixiviación."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos compuestos poseen la misma movilidad pues el $K_{oc}$ no se relaciona con la lixiviación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El $K_{oc}$ es el parámetro clave para predecir la movilidad de contaminantes orgánicos en el perfil del suelo."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno, pues los plaguicidas se convierten en vapor de agua inerte al entrar al suelo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los plaguicidas son moléculas orgánicas sintéticas de variada persistencia y movilidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El coeficiente $K_{oc}$ mide la afinidad de un compuesto sintético por la materia orgánica del suelo: valores bajos ($< 100$) indican alta movilidad acuosa y elevado riesgo de lixiviación hacia freáticas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es el tiempo crítico ($t_c = \\frac{1}{k_2 - k_1} \\ln \\left( \\frac{k_2}{k_1} \\left( 1 - D_0 \\frac{k_2 - k_1}{k_1 L_0} \\right) \\right)$) en días donde se alcanzará el déficit máximo de oxígeno en el cuerpo de agua?",
+      "context": "Se aplica el modelo de Sag de Streeter-Phelps a un arroyo en Canelones que recibe un vertido orgánico. La tasa de desoxigenación es $k_1 = 0{,}2\\text{ día}^{-1}$ y la de reaireación atmosférica es $k_2 = 0{,}5\\text{ día}^{-1}$. La DBO inicial tras la mezcla es $L_0 = 20\\text{ mg/L}$ y el déficit inicial de $O_2$ es $D_0 = 0\\text{ mg/L}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$t_c = 3{,}05\\text{ días}$ ($t_c = \\frac{1}{0{,}3} \\ln \\left( \\frac{0{,}5}{0{,}2} \\right) = 3{,}33 \\times 0{,}916 = 3{,}05\\text{ días}$).",
+          "is_correct": true,
+          "feedback": "Correcto. Al ser $D_0 = 0$: $t_c = \\frac{1}{0{,}5 - 0{,}2} \\ln (0{,}5 / 0{,}2) = \\frac{1}{0{,}3} \\ln(2{,}5) = 3{,}333 \\times 0{,}9163 = 3{,}05\\text{ días}$."
+        },
+        {
+          "letter": "B",
+          "text": "$1{,}00\\text{ día}$ ($t_c = 0{,}5 - 0{,}2$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restó los coeficientes de tasa directamente omitiendo el cálculo logarítmico del modelo de Streeter-Phelps."
+        },
+        {
+          "letter": "C",
+          "text": "$10{,}00\\text{ días}$ ($t_c = 20 / 2$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la DBO $L_0$ por un número arbitrario sin aplicar la ecuación diferencial integrada."
+        },
+        {
+          "letter": "D",
+          "text": "$0{,}10\\text{ días}$ ($t_c = 0{,}2 / 2$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sustitución matemática incorrecta de las constantes cinéticas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El tiempo crítico $t_c$ en el modelo de Streeter-Phelps define la ubicación aguas abajo del punto de máxima desoxigenación donde la tasa de desoxigenación iguala a la de reaireación.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v18",
+      "statement": "Si el sedimento pasa de un estado anóxico ($E_h < 0\\text{ mV}$) a un estado altamente oxidante y alcalino ($E_h > +400\\text{ mV}$, pH 8,5) por dragado, ¿qué transformación química del cromo ocurre y cuál es su consecuencia toxicológica?",
+      "context": "En un análisis ecotoxicológico de sedimentos en la desembocadura del Arroyo Pantanoso, se determina la especiación del cromo entre $Cr(III)$ y $Cr(VI)$ en función del pH y el potencial redox ($E_h$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El $Cr(VI)$ se reduce a $Cr(III)$ insoluble, eliminando la toxicidad del sedimento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oxidación convierte el $Cr(III)$ benigno en $Cr(VI)$ extremadamente soluble y tóxico."
+        },
+        {
+          "letter": "B",
+          "text": "El $Cr(III)$ relativamente insoluble y de baja toxicidad se oxida a $Cr(VI)$ (cromato $CrO_4^{2-}$), altamente soluble, mutagénico y carcinogénico.",
+          "is_correct": true,
+          "feedback": "Correcto. Las condiciones oxidantes y alcalinas favorecen la especie $Cr(VI)$, que penetra las membranas celulares vía transportadores de sulfato ejerciendo alta citotoxicidad."
+        },
+        {
+          "letter": "C",
+          "text": "El cromo elemental se evapora a la atmósfera en forma de cromo gaseoso inerte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cromo no se volatiliza a temperatura ambiente en forma de gas."
+        },
+        {
+          "letter": "D",
+          "text": "El cromo muta en hierro ferroso disuelto reduciendo el pH a 1,0.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oxidación cambia el estado de oxidación del cromo, no altera su número atómico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El cromo hexavalente $Cr(VI)$ es una especie química móvil, fuertemente oxidante y mutagénica, cuya formación se favorece en ambientes con alto potencial redox y pH alcalino.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v19",
+      "statement": "Si para la especie daphnia (*Daphnia magna*) se mide $PEC = 12\\text{ }\\mu\\text{g/L}$ y $PNEC = 1{,}5\\text{ }\\mu\\text{g/L}$, ¿cuál es el valor de $HQ$ y cuál es el veredicto de riesgo ecológico?",
+      "context": "Se realiza una evaluación del riesgo ambiental (ERA) para un plaguicida organofosforado en un cuerpo de agua receptor. Se calcula el Cociente de Peligro ($HQ = \\frac{PEC}{PNEC}$), donde $PEC$ es la Concentración Ambiental Prevista y $PNEC$ es la Concentración Prevista sin Efecto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$HQ = 8{,}0$; al ser $HQ > 1$, existe un riesgo ecológico significativo que exige medidas de mitigación.",
+          "is_correct": true,
+          "feedback": "Correcto. $HQ = 12 / 1{,}5 = 8{,}0$. Todo valor de $HQ > 1$ indica que la exposición ambiental supera el umbral seguro sin efecto, representando un riesgo inaceptable."
+        },
+        {
+          "letter": "B",
+          "text": "$HQ = 0{,}125$; al ser $HQ < 1$, el riesgo es despreciable y no requiere acción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invirtió la división ($1{,}5 / 12 = 0{,}125$). La fórmula es $PEC / PNEC$."
+        },
+        {
+          "letter": "C",
+          "text": "$HQ = 13{,}5$; riesgo moderado por suma directa de parámetros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cociente de peligro es la razón de concentraciones, no la suma de ellas."
+        },
+        {
+          "letter": "D",
+          "text": "$HQ = 1{,}0$; el sistema está en equilibrio estricto sin riesgo para los crustáceos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La división numérica es $12 / 1{,}5 = 8{,}0$, no $1{,}0$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la evaluación del riesgo ecotoxicológico, un Cociente de Peligro ($HQ$) superior a $1{,}0$ señala que la concentración estimada en el ambiente excede los límites seguros para los organismos acuáticos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle-v20",
+      "statement": "¿Qué reacción química de descloración reductiva efectúa el $Fe^0$ al tomar contacto con las moléculas de hidrocarburos clorados disueltos?",
+      "context": "Un equipo multidisciplinario evalúa la efectividad de una barrera reactiva permeable (BRP) con hierro de valencia cero ($Fe^0$) instalada en el subsuelo de un predio industrial para tratar una pluma de contaminación por tricloroetileno (TCE) en el agua subterránea.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oxida el hierro a dióxido de carbono sintetizando más polímeros plásticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El $Fe^0$ actúa como reductor liberando electrones, desclorando el contaminante."
+        },
+        {
+          "letter": "B",
+          "text": "El $Fe^0$ se oxida liberando electrones que reemplazan progresivamente los átomos de cloro del TCE por hidrógeno, transformándolo en etileno no tóxico y cloruro.",
+          "is_correct": true,
+          "feedback": "Correcto. La descloración reductiva abiótica sobre $Fe^0$ convierte el compuesto organoclorado en etileno inofensivo mediante transferencia de electrones."
+        },
+        {
+          "letter": "C",
+          "text": "Sintetiza organofosforados de alta toxicidad para la microbiota aeróbica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reacción desclora el solvente halógeno sin introducir azufre o fósforo."
+        },
+        {
+          "letter": "D",
+          "text": "Provoca la polimerización del agua en hielo sintético a temperatura ambiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un proceso de óxido-reducción en fase acuosa que degrada el compuesto tóxico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las barreras reactivas de $Fe^0$ catalizan la descloración reductiva abiótica de solventes clorados, sustituyendo átomos de cloro por hidrógenos hasta convertirlos en hidrocarburos inocuos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "UY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    }
+  ]
+}

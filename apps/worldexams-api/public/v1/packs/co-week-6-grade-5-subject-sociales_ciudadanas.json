@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-6-grade-5-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-12T16:46:07.601Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-5-2026-W06-medios-comunicacion-comunidad-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de los siguientes es un medio de comunicación masivo tradicional?",
+      "context": "En una clase en Cali, la profesora pregunta qué medios de comunicación usan los estudiantes en su casa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La televisión.",
+          "is_correct": true,
+          "feedback": "La televisión es un medio masivo tradicional que llega a millones de personas."
+        },
+        {
+          "letter": "B",
+          "text": "Un mensaje hablado entre dos amigos en el patio.",
+          "is_correct": false,
+          "feedback": "La conversación entre dos personas es comunicación interpersonal, no masiva."
+        },
+        {
+          "letter": "C",
+          "text": "Una carta personal escrita a mano.",
+          "is_correct": false,
+          "feedback": "Una carta personal es comunicación privada, no un medio masivo."
+        },
+        {
+          "letter": "D",
+          "text": "Un susurro entre compañeros de clase.",
+          "is_correct": false,
+          "feedback": "Un susurro no es un medio masivo ni tradicional de comunicación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer ejemplos de medios de comunicación masivos tradicionales y diferenciarlos de la comunicación interpersonal.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-5-2026-W06-medios-comunicacion-comunidad-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W06-medios-comunicacion-comunidad-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué las radios comunitarias son importantes para los pueblos?",
+      "context": "Lee: \"La radio comunitaria de un pueblo permite a los vecinos conocer noticias locales, compartir avisos y difundir la cultura del territorio.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque informan a la comunidad sobre asuntos locales y fortalecen la identidad del territorio.",
+          "is_correct": true,
+          "feedback": "Las radios comunitarias acercan la información a la gente y reflejan la cultura local."
+        },
+        {
+          "letter": "B",
+          "text": "Porque reemplazan a las autoridades locales en sus decisiones.",
+          "is_correct": false,
+          "feedback": "Las radios comunitarias no gobiernan ni reemplazan a las autoridades; solo informan."
+        },
+        {
+          "letter": "C",
+          "text": "Porque su función es vender productos extranjeros sin relación con la comunidad.",
+          "is_correct": false,
+          "feedback": "Las radios comunitarias suelen difundir contenidos propios de la comunidad, no solo extranjeros."
+        },
+        {
+          "letter": "D",
+          "text": "Porque solo transmiten música sin ningún contenido informativo.",
+          "is_correct": false,
+          "feedback": "Además de música, transmiten noticias, avisos y programas educativos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender la función social de los medios comunitarios en los territorios colombianos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-5-2026-W06-medios-comunicacion-comunidad-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W06-medios-comunicacion-comunidad-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál combinación de medios sería más adecuada para llegar a personas de todas las edades?",
+      "context": "Un grupo de padres de familia en un pueblo de Santander quiere difundir información sobre una jornada de vacunación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Radio local, carteleras en la plaza y mensajes por redes sociales del colegio.",
+          "is_correct": true,
+          "feedback": "Combinar radio, carteleras y redes sociales amplía el alcance a distintas edades."
+        },
+        {
+          "letter": "B",
+          "text": "Solo mensajes en una lengua extranjera desconocida para la comunidad.",
+          "is_correct": false,
+          "feedback": "Usar una lengua desconocida limita la comprensión del mensaje."
+        },
+        {
+          "letter": "C",
+          "text": "Solo susurros entre los padres en el parque.",
+          "is_correct": false,
+          "feedback": "Los susurros no alcanzan a toda la comunidad."
+        },
+        {
+          "letter": "D",
+          "text": "Solo correos físicos enviados al extranjero.",
+          "is_correct": false,
+          "feedback": "Los correos al extranjero no llegan a la comunidad local."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Seleccionar medios de comunicación adecuados para informar a una comunidad diversa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.76,
+      "bundle_id": "CO-SOC-5-2026-W06-medios-comunicacion-comunidad-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W06-medios-comunicacion-comunidad-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es una actitud responsable frente a la información encontrada en internet?",
+      "context": "Lee: \"Internet permite acceder a noticias, pero también a información falsa o sin verificar, conocida como fake news.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Verificar la fuente, comparar con otros medios y comprobar la fecha de la información.",
+          "is_correct": true,
+          "feedback": "Comprobar fuentes y fechas ayuda a distinguir información confiable de noticias falsas."
+        },
+        {
+          "letter": "B",
+          "text": "Compartir la primera noticia que aparezca sin revisarla.",
+          "is_correct": false,
+          "feedback": "Compartir sin verificar contribuye a difundir información falsa."
+        },
+        {
+          "letter": "C",
+          "text": "Creer todo lo que dice una sola página web sin importar su origen.",
+          "is_correct": false,
+          "feedback": "Una sola página no garantiza veracidad; hay que comparar fuentes."
+        },
+        {
+          "letter": "D",
+          "text": "Ignorar toda la información sin leerla.",
+          "is_correct": false,
+          "feedback": "Ignorar todo no permite tomar decisiones informadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar criterios de verificación de información en medios digitales para evitar la desinformación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.72,
+      "bundle_id": "CO-SOC-5-2026-W06-medios-comunicacion-comunidad-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W06-medios-comunicacion-comunidad-001-MASTERY-bundle-v5",
+      "statement": "¿Qué características debe tener una noticia para informar correctamente a la comunidad escolar?",
+      "context": "En una escuela de Armenia, los estudiantes realizan un periódico mural para informar a sus compañeros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Información veraz, clara, con datos comprobables y sin lenguaje ofensivo.",
+          "is_correct": true,
+          "feedback": "Una buena noticia es veraz, clara y respetuosa con las personas."
+        },
+        {
+          "letter": "B",
+          "text": "Rumores inventados para llamar la atención.",
+          "is_correct": false,
+          "feedback": "Los rumores sin base desinforman a la comunidad escolar."
+        },
+        {
+          "letter": "C",
+          "text": "Datos falsos exagerados para hacer reír.",
+          "is_correct": false,
+          "feedback": "La exageración y la mentira no son características de una buena noticia."
+        },
+        {
+          "letter": "D",
+          "text": "Solo chismes sobre compañeros del salón.",
+          "is_correct": false,
+          "feedback": "Los chismes no son información confiable y pueden dañar a las personas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar criterios periodísticos básicos para producir noticias escolares responsables.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.66,
+      "bundle_id": "CO-SOC-5-2026-W06-medios-comunicacion-comunidad-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W06-medios-comunicacion-comunidad-001-MASTERY-bundle-v6",
+      "statement": "¿Qué diferencia existe entre el periódico impreso y la página de noticias en internet?",
+      "context": "Compara: \"Un periódico impreso llega una vez al día con noticias nacionales. Una página de noticias en internet publica información cada minuto y se actualiza constantemente.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El impreso se publica con periodicidad fija; la página de internet se actualiza de forma continua.",
+          "is_correct": true,
+          "feedback": "La diferencia principal es la frecuencia de actualización y el soporte usado."
+        },
+        {
+          "letter": "B",
+          "text": "El periódico impreso nunca tiene fotografías.",
+          "is_correct": false,
+          "feedback": "Los periódicos impresos suelen incluir fotografías e ilustraciones."
+        },
+        {
+          "letter": "C",
+          "text": "La página de internet solo publica información falsa.",
+          "is_correct": false,
+          "feedback": "Las páginas de internet pueden tener información confiable, aunque también requieren verificación."
+        },
+        {
+          "letter": "D",
+          "text": "El periódico impreso y la página de internet publican exactamente a la misma hora.",
+          "is_correct": false,
+          "feedback": "Los periódicos tienen horarios fijos, mientras que las páginas web se actualizan constantemente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar medios tradicionales y digitales según su periodicidad y soporte.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.58,
+      "bundle_id": "CO-SOC-5-2026-W06-medios-comunicacion-comunidad-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W06-medios-comunicacion-comunidad-001-MASTERY-bundle-v7",
+      "statement": "¿Qué consecuencia puede tener consumir información de un solo medio con sesgo político?",
+      "context": "Lee: \"Algunos medios de comunicación pueden difundir información con sesgos políticos o comerciales, lo que influye en la opinión de las personas.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Formarse una visión incompleta o distorsionada de la realidad.",
+          "is_correct": true,
+          "feedback": "Recibir información sesgada limita la mirada crítica sobre los hechos."
+        },
+        {
+          "letter": "B",
+          "text": "Conocer siempre la verdad absoluta de los hechos.",
+          "is_correct": false,
+          "feedback": "Ningún medio, y menos uno sesgado, garantiza la verdad absoluta."
+        },
+        {
+          "letter": "C",
+          "text": "Mejorar automáticamente el pensamiento crítico.",
+          "is_correct": false,
+          "feedback": "Un solo medio sesgado no favorece el pensamiento crítico, sino que lo reduce."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminar la posibilidad de informarse por otros medios.",
+          "is_correct": false,
+          "feedback": "Las personas siempre pueden consultar otras fuentes para ampliar su visión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la influencia de los medios sesgados en la opinión pública y la importancia del contraste informativo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.52,
+      "bundle_id": "CO-SOC-5-2026-W06-medios-comunicacion-comunidad-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W06-medios-comunicacion-comunidad-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la mejor forma de aprovechar los medios de comunicación como ciudadano responsable?",
+      "context": "Lee: 'Los medios de comunicación cumplen un papel clave en la sociedad: informar, entretener, educar y permitir la participación ciudadana. Sin embargo, su influencia debe ir acompañada de pensamiento crítico y de respeto por la dignidad humana.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informarse en distintas fuentes, verificar datos y compartir información respetuosa y veraz.",
+          "is_correct": true,
+          "feedback": "Diversificar fuentes y verificar datos fortalece la participación ciudadana informada."
+        },
+        {
+          "letter": "B",
+          "text": "Consumir solo lo que diga un único medio favorito sin cuestionar.",
+          "is_correct": false,
+          "feedback": "Depender de un solo medio limita la visión de la realidad."
+        },
+        {
+          "letter": "C",
+          "text": "Compartir únicamente contenido ofensivo para llamar la atención.",
+          "is_correct": false,
+          "feedback": "Difundir contenido ofensivo no es responsable ni respetuoso."
+        },
+        {
+          "letter": "D",
+          "text": "Evitar todo tipo de información para no ser influenciados.",
+          "is_correct": false,
+          "feedback": "Aislarse de la información impide participar de forma activa en la sociedad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar el uso ético y democrático de los medios de comunicación en la vida comunitaria.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.31,
+      "bundle_id": "CO-SOC-5-2026-W06-medios-comunicacion-comunidad-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

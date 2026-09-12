@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-4-grade-5-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-12T16:46:07.601Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-5-2026-W04-culturas-precolombinas-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes fue una cultura precolombina que habitó el territorio colombiano antes de la llegada de los españoles?",
+      "context": "En clase de sociales en Tunja, la profesora muestra imágenes de piezas de oro y explica que vienen de culturas antiguas de Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los Muisca.",
+          "is_correct": true,
+          "feedback": "Los Muisca fueron una cultura precolombina que habitó el altiplano cundiboyacense."
+        },
+        {
+          "letter": "B",
+          "text": "Los Vikingos.",
+          "is_correct": false,
+          "feedback": "Los Vikingos habitaron el norte de Europa, no el territorio colombiano."
+        },
+        {
+          "letter": "C",
+          "text": "Los Egipcios.",
+          "is_correct": false,
+          "feedback": "Los Egipcios habitaron el noreste de África, no Colombia."
+        },
+        {
+          "letter": "D",
+          "text": "Los Romanos.",
+          "is_correct": false,
+          "feedback": "Los Romanos vivieron en Europa occidental, no en territorio colombiano."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer culturas precolombinas que existieron en el actual territorio colombiano antes de la conquista española.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.89,
+      "bundle_id": "CO-SOC-5-2026-W04-culturas-precolombinas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W04-culturas-precolombinas-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué los Muisca se ubicaron principalmente en el altiplano cundiboyacense?",
+      "context": "Lee: \"Los Muisca vivieron en el altiplano cundiboyacense, aprovecharon los lagos para la pesca y cultivaron productos como la papa y el maíz.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque allí encontraban lagos, tierra fértil y un clima adecuado para cultivar y pescar.",
+          "is_correct": true,
+          "feedback": "El altiplano ofrecía recursos hídricos y agrícolas para el desarrollo Muisca."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el altiplano era una zona totalmente desértica y vacía.",
+          "is_correct": false,
+          "feedback": "El altiplano cundiboyacense no era un desierto, sino una región fértil."
+        },
+        {
+          "letter": "C",
+          "text": "Porque vivían únicamente en zonas costeras del Caribe.",
+          "is_correct": false,
+          "feedback": "Los Muisca se asentaron en el interior andino, no en la costa Caribe."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los españoles los habían llevado hasta allí.",
+          "is_correct": false,
+          "feedback": "Los Muisca estaban allí antes de la llegada de los españoles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender la relación entre las condiciones geográficas y el asentamiento de las culturas precolombinas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.84,
+      "bundle_id": "CO-SOC-5-2026-W04-culturas-precolombinas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W04-culturas-precolombinas-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de los siguientes aportes se le reconoce a las culturas precolombinas colombianas?",
+      "context": "Un museo de Bogotá exhibe figuras de cerámica de la cultura Zenú y explica que eran expertos tejedores de sombrero vueltiao.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Técnicas de orfebrería en oro, tejido en caña y cultivo de productos como papa y maíz.",
+          "is_correct": true,
+          "feedback": "Las culturas precolombinas aportaron técnicas de metalurgia, tejido y agricultura."
+        },
+        {
+          "letter": "B",
+          "text": "El uso de internet y computadores personales.",
+          "is_correct": false,
+          "feedback": "Internet y computadores son inventos modernos posteriores a la conquista."
+        },
+        {
+          "letter": "C",
+          "text": "La construcción de rascacielos con acero.",
+          "is_correct": false,
+          "feedback": "No existían rascacielos ni acero en la época precolombina."
+        },
+        {
+          "letter": "D",
+          "text": "La creación de autos con motor de gasolina.",
+          "is_correct": false,
+          "feedback": "Los autos con motor aparecieron siglos después."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificar los principales aportes culturales, tecnológicos y agrícolas de las culturas precolombinas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-5-2026-W04-culturas-precolombinas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W04-culturas-precolombinas-001-MASTERY-bundle-v4",
+      "statement": "¿Qué tipo de organización tenían los Tairona según el texto?",
+      "context": "Lee: \"La cultura Tairona construyó ciudades en terrazas en la Sierra Nevada de Santa Marta, con caminos empedrados y sistemas de acueducto.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una organización social compleja, con ciudades construidas en terrazas e infraestructura hidráulica.",
+          "is_correct": true,
+          "feedback": "Los Taironas edificaron ciudades con caminos y acueductos, lo que refleja una sociedad organizada."
+        },
+        {
+          "letter": "B",
+          "text": "Una organización nómada sin construcciones fijas.",
+          "is_correct": false,
+          "feedback": "Los Tairona no eran nómadas; construyeron ciudades permanentes."
+        },
+        {
+          "letter": "C",
+          "text": "Una cultura exclusivamente dedicada a la caza sin agricultura.",
+          "is_correct": false,
+          "feedback": "Aunque cazaban, también practicaban la agricultura en terrazas."
+        },
+        {
+          "letter": "D",
+          "text": "Una sociedad sin ningún tipo de autoridad ni jefes.",
+          "is_correct": false,
+          "feedback": "La construcción de ciudades complejas implica formas de organización y autoridad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el concepto de organización social compleja a partir de ejemplos arquitectónicos Taironas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.71,
+      "bundle_id": "CO-SOC-5-2026-W04-culturas-precolombinas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W04-culturas-precolombinas-001-MASTERY-bundle-v5",
+      "statement": "¿Qué criterio de comparación es más útil para diferenciar a los Muisca de los Tairona?",
+      "context": "En un taller de historia, los estudiantes deben comparar dos culturas precolombinas: Muisca y Tairona.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La región donde vivieron y los recursos naturales que aprovecharon.",
+          "is_correct": true,
+          "feedback": "La región y los recursos disponibles explican muchas diferencias entre estas culturas."
+        },
+        {
+          "letter": "B",
+          "text": "La cantidad de celulares que usaron en el siglo XXI.",
+          "is_correct": false,
+          "feedback": "Ninguna de estas culturas usó celulares, pues vivieron siglos antes de su invención."
+        },
+        {
+          "letter": "C",
+          "text": "El nombre de los presidentes que tuvieron.",
+          "is_correct": false,
+          "feedback": "No existían presidentes ni Estados nacionales en la época precolombina."
+        },
+        {
+          "letter": "D",
+          "text": "El tipo de escritura digital que manejaron.",
+          "is_correct": false,
+          "feedback": "No existía la escritura digital en tiempos precolombinos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Seleccionar criterios históricos válidos para comparar culturas precolombinas colombianas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.66,
+      "bundle_id": "CO-SOC-5-2026-W04-culturas-precolombinas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W04-culturas-precolombinas-001-MASTERY-bundle-v6",
+      "statement": "¿Qué diferencia cultural importante muestra el uso del oro entre Muisca y Quimbaya?",
+      "context": "Compara: \"Los Muisca trabajaban el oro pero lo consideraban un metal sagrado que no debía acumularse. La cultura Quimbaya, en cambio, produjo grandes figuras de oro decorativas.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los Muisca lo consideraban sagrado y simbólico; los Quimbaya lo trabajaban con fines artísticos y rituales.",
+          "is_correct": true,
+          "feedback": "Ambos valoraban el oro, pero con énfasis simbólico diferentes: ritual versus artístico."
+        },
+        {
+          "letter": "B",
+          "text": "Los Muisca no conocían el oro, mientras los Quimbaya sí.",
+          "is_correct": false,
+          "feedback": "Los Muisca sí conocían el oro, como lo demuestra la leyenda de El Dorado."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguna cultura precolombina trabajó el oro.",
+          "is_correct": false,
+          "feedback": "Tanto Muisca como Quimbaya fueron reconocidas orfebres."
+        },
+        {
+          "letter": "D",
+          "text": "Los Quimbaya despreciaban el oro y solo usaban barro.",
+          "is_correct": false,
+          "feedback": "Los Quimbaya son famosos precisamente por sus figuras de oro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar el significado cultural del oro en distintas civilizaciones precolombinas colombianas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.58,
+      "bundle_id": "CO-SOC-5-2026-W04-culturas-precolombinas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W04-culturas-precolombinas-001-MASTERY-bundle-v7",
+      "statement": "¿Qué revela la presencia de palabras de origen indígena en el español de Colombia?",
+      "context": "Lee: \"Muchas palabras colombianas como 'cancha', 'choclo', 'cóndor' y 'morro' vienen de lenguas indígenas. El español hablado en Colombia tiene raíces en esas lenguas nativas.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que existe un legado lingüístico y cultural de los pueblos precolombinos en la actualidad.",
+          "is_correct": true,
+          "feedback": "Los préstamos lingüísticos muestran la continuidad cultural de los pueblos originarios."
+        },
+        {
+          "letter": "B",
+          "text": "Que el español reemplazó por completo las lenguas indígenas.",
+          "is_correct": false,
+          "feedback": "Aunque el español es dominante, las lenguas indígenas dejaron huella en él."
+        },
+        {
+          "letter": "C",
+          "text": "Que los pueblos indígenas nunca hablaron ninguna lengua.",
+          "is_correct": false,
+          "feedback": "Los pueblos indígenas sí tenían sus propias lenguas."
+        },
+        {
+          "letter": "D",
+          "text": "Que las palabras indígenas fueron prohibidas en Colombia.",
+          "is_correct": false,
+          "feedback": "No fueron prohibidas; de hecho, muchas se incorporaron al uso cotidiano."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer el legado lingüístico de las culturas precolombinas en el español actual de Colombia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.52,
+      "bundle_id": "CO-SOC-5-2026-W04-culturas-precolombinas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W04-culturas-precolombinas-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué es importante estudiar y valorar las culturas precolombinas en la actualidad?",
+      "context": "Lee: 'Las culturas precolombinas colombianas, como los Muisca, Tairona, Zenú y Calima, desarrollaron conocimientos en agricultura, orfebrería, astronomía y organización social. Valorar su legado permite reconocer la diversidad cultural del país.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque son la base de la diversidad cultural y de muchos conocimientos que aún se usan hoy.",
+          "is_correct": true,
+          "feedback": "Su legado agrícola, artesanal y simbólico sigue presente en la identidad colombiana."
+        },
+        {
+          "letter": "B",
+          "text": "Porque su historia no aporta nada a la sociedad actual.",
+          "is_correct": false,
+          "feedback": "Su legado cultural sigue vivo en muchos aspectos de la vida colombiana."
+        },
+        {
+          "letter": "C",
+          "text": "Porque es importante olvidar el pasado indígena para construir una nueva identidad.",
+          "is_correct": false,
+          "feedback": "Recordar y valorar el pasado fortalece la identidad, no la debilita."
+        },
+        {
+          "letter": "D",
+          "text": "Porque solo los arqueólogos deberían interesarse por esas culturas.",
+          "is_correct": false,
+          "feedback": "El legado precolombino es patrimonio de toda la sociedad colombiana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la importancia de conocer y respetar el legado de las culturas precolombinas en Colombia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.31,
+      "bundle_id": "CO-SOC-5-2026-W04-culturas-precolombinas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-40-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T16:46:07.382Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle-v1",
+      "statement": "El modelo atómico de Thomson (1904) proponía que el átomo era:",
+      "context": "En clase en Medellín, se introducen los modelos atómicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un sistema planetario con electrones orbitando un núcleo denso.",
+          "is_correct": false,
+          "feedback": "Esa descripción corresponde a Rutherford-Bohr."
+        },
+        {
+          "letter": "B",
+          "text": "Una esfera positiva uniforme con electrones incrustados (modelo del pudín).",
+          "is_correct": true,
+          "feedback": "Thomson imaginó una \"masa positiva\" con electrones inmersos."
+        },
+        {
+          "letter": "C",
+          "text": "Una nube difusa de protones solamente.",
+          "is_correct": false,
+          "feedback": "No incluía electrones en su esquema."
+        },
+        {
+          "letter": "D",
+          "text": "Un conglomerado de quarks aislados.",
+          "is_correct": false,
+          "feedback": "Los quarks son partículas aún más fundamentales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El modelo del pudín de pasas de Thomson fue reemplazado por el experimento de Rutherford de la lámina de oro.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle-v2",
+      "statement": "La dispersión de partículas alfa en la lámina de oro demostró que:",
+      "context": "En clase en Bogotá, se analiza el experimento de Rutherford.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El átomo tiene un núcleo denso y positivo muy pequeño.",
+          "is_correct": true,
+          "feedback": "La mayoría de las partículas atravesaron; pocas se desviaron mucho."
+        },
+        {
+          "letter": "B",
+          "text": "Los electrones están en órbitas fijas.",
+          "is_correct": false,
+          "feedback": "Bohr postuló las órbitas después."
+        },
+        {
+          "letter": "C",
+          "text": "Los protones carecen de carga.",
+          "is_correct": false,
+          "feedback": "Los protones tienen carga positiva."
+        },
+        {
+          "letter": "D",
+          "text": "La masa del átomo está distribuida uniformemente.",
+          "is_correct": false,
+          "feedback": "La dispersión demostró lo contrario."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Rutherford concluyó que el átomo es principalmente espacio vacío con un núcleo central positivo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle-v3",
+      "statement": "En el modelo atómico de Bohr, los electrones solo pueden ocupar:",
+      "context": "En un taller en Cali, se estudia el modelo de Bohr.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cualquier órbita continua permitida.",
+          "is_correct": false,
+          "feedback": "Bohr postuló que las órbitas son discretas."
+        },
+        {
+          "letter": "B",
+          "text": "Órbitas estacionarias con niveles de energía cuantizados.",
+          "is_correct": true,
+          "feedback": "Los saltos entre niveles emiten o absorben fotones."
+        },
+        {
+          "letter": "C",
+          "text": "Posiciones aleatorias dentro del núcleo.",
+          "is_correct": false,
+          "feedback": "Los electrones orbitan fuera del núcleo."
+        },
+        {
+          "letter": "D",
+          "text": "Solo el estado fundamental.",
+          "is_correct": false,
+          "feedback": "Existen estados excitados también."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El modelo de Bohr introduce la cuantización de la energía electrónica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle-v4",
+      "statement": "El número cuántico principal n indica:",
+      "context": "En clase en Barranquilla, se habla sobre números cuánticos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El nivel de energía o capa principal del electrón.",
+          "is_correct": true,
+          "feedback": "n = 1, 2, 3... define la capa."
+        },
+        {
+          "letter": "B",
+          "text": "La forma del orbital.",
+          "is_correct": false,
+          "feedback": "La forma la determina l."
+        },
+        {
+          "letter": "C",
+          "text": "La orientación espacial.",
+          "is_correct": false,
+          "feedback": "Eso es m_l."
+        },
+        {
+          "letter": "D",
+          "text": "El espín del electrón.",
+          "is_correct": false,
+          "feedback": "El espín lo determina m_s."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los cuatro números cuánticos (n, l, m_l, m_s) describen completamente el estado de un electrón en un átomo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.84,
+      "bundle_id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle-v5",
+      "statement": "Calcula la longitud de onda de un electrón que viaja a 1.0 × 10⁶ m/s (m_e = 9.11 × 10⁻³¹ kg, h = 6.63 × 10⁻³⁴ J·s).",
+      "context": "En un ejercicio en Bucaramanga, se calcula la longitud de onda de De Broglie.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7.28 × 10⁻⁹ m.",
+          "is_correct": false,
+          "feedback": "Cálculo con orden de magnitud errado."
+        },
+        {
+          "letter": "B",
+          "text": "7.28 × 10⁻¹⁰ m.",
+          "is_correct": true,
+          "feedback": "λ = h/(m·v) = 6.63e-34/(9.11e-31·1e6) ≈ 7.28 × 10⁻¹⁰ m."
+        },
+        {
+          "letter": "C",
+          "text": "7.28 × 10⁻⁷ m.",
+          "is_correct": false,
+          "feedback": "Excediste tres órdenes de magnitud."
+        },
+        {
+          "letter": "D",
+          "text": "7.28 × 10⁻¹³ m.",
+          "is_correct": false,
+          "feedback": "Subestimaste tres órdenes de magnitud."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La hipótesis de De Broglie λ = h/p asigna propiedades ondulatorias a partículas con momento p.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle-v6",
+      "statement": "Si la incertidumbre en la posición de un electrón es Δx = 1.0 × 10⁻¹⁰ m, ¿cuál es la incertidumbre mínima en su momento?",
+      "context": "En clase en Pereira, se aplica el principio de incertidumbre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cero.",
+          "is_correct": false,
+          "feedback": "Heisenberg prohíbe incertidumbre nula."
+        },
+        {
+          "letter": "B",
+          "text": "≈ 5.27 × 10⁻²⁵ kg·m/s (usando Δx·Δp ≥ ℏ/2).",
+          "is_correct": true,
+          "feedback": "Δp ≥ ℏ/(2·Δx) ≈ 5.27 × 10⁻²⁵ kg·m/s."
+        },
+        {
+          "letter": "C",
+          "text": "5.27 × 10⁻²⁵ m/s.",
+          "is_correct": false,
+          "feedback": "La unidad debe ser kg·m/s, no m/s."
+        },
+        {
+          "letter": "D",
+          "text": "5.27 × 10⁻⁵ kg·m/s.",
+          "is_correct": false,
+          "feedback": "Exceso de orden de magnitud."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El principio de incertidumbre establece un límite fundamental a la precisión simultánea de posición y momento.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle-v7",
+      "statement": "La masa del núcleo de helio-4 es ≈ 4.0026 u, mientras que la suma de sus nucleones separados es ≈ 4.0330 u. ¿Cuál es aproximadamente el defecto de masa?",
+      "context": "En un laboratorio en Armenia, se calcula la energía de enlace nuclear.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.0004 u.",
+          "is_correct": false,
+          "feedback": "Subestimaste el defecto."
+        },
+        {
+          "letter": "B",
+          "text": "0.0304 u.",
+          "is_correct": true,
+          "feedback": "4.0330 - 4.0026 = 0.0304 u."
+        },
+        {
+          "letter": "C",
+          "text": "0.300 u.",
+          "is_correct": false,
+          "feedback": "Exceso de orden de magnitud."
+        },
+        {
+          "letter": "D",
+          "text": "0 u.",
+          "is_correct": false,
+          "feedback": "Existe un defecto medible."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El defecto de masa se convierte en energía de enlace según E = Δm·c².",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.74,
+      "bundle_id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle-v8",
+      "statement": "La diferencia entre fisión y fusión nuclear es:",
+      "context": "En clase en Santa Marta, se compara fisión y fusión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fisión divide núcleos pesados; la fusión une núcleos ligeros.",
+          "is_correct": true,
+          "feedback": "Procesos opuestos pero ambos liberan energía."
+        },
+        {
+          "letter": "B",
+          "text": "La fisión ocurre en el Sol; la fusión en reactores terrestres.",
+          "is_correct": false,
+          "feedback": "Es al revés en general."
+        },
+        {
+          "letter": "C",
+          "text": "La fusión produce elementos más pesados; la fisión los produce más ligeros.",
+          "is_correct": false,
+          "feedback": "La fusión también puede producir elementos más pesados."
+        },
+        {
+          "letter": "D",
+          "text": "No hay diferencia: ambas son iguales.",
+          "is_correct": false,
+          "feedback": "Son procesos distintos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Fisión y fusión son reacciones nucleares con diferencias fundamentales en reactivos, productos y condiciones.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.74,
+      "bundle_id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle-v9",
+      "statement": "Si la vida media del carbono-14 es ≈ 5730 años, ¿qué fracción de la muestra original queda tras 17 190 años?",
+      "context": "En clase en Ibagué, se discute el tiempo de vida media del carbono-14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/2.",
+          "is_correct": false,
+          "feedback": "Equivale a 1 vida media."
+        },
+        {
+          "letter": "B",
+          "text": "1/4.",
+          "is_correct": false,
+          "feedback": "Equivale a 2 vidas medias."
+        },
+        {
+          "letter": "C",
+          "text": "1/8.",
+          "is_correct": true,
+          "feedback": "17 190/5730 ≈ 3; queda (1/2)³ = 1/8."
+        },
+        {
+          "letter": "D",
+          "text": "1/16.",
+          "is_correct": false,
+          "feedback": "Sería 4 vidas medias."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La datación por carbono-14 se basa en la ley exponencial de desintegración radiactiva.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle-v10",
+      "statement": "Un fotón gamma tiene frecuencia f = 3.0 × 10²⁰ Hz. ¿Cuál es su energía aproximada?",
+      "context": "En clase en Manizales, se calcula la energía de un fotón gamma.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.99 × 10⁻¹⁵ J.",
+          "is_correct": false,
+          "feedback": "E = h·f ≈ 1.99 × 10⁻¹³ J."
+        },
+        {
+          "letter": "B",
+          "text": "1.99 × 10⁻¹³ J.",
+          "is_correct": true,
+          "feedback": "E = 6.63e-34·3.0e20 ≈ 1.99 × 10⁻¹³ J."
+        },
+        {
+          "letter": "C",
+          "text": "1.99 × 10⁻¹¹ J.",
+          "is_correct": false,
+          "feedback": "Excediste dos órdenes de magnitud."
+        },
+        {
+          "letter": "D",
+          "text": "6.63 × 10⁻³⁴ J.",
+          "is_correct": false,
+          "feedback": "Falta multiplicar por f."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La energía del fotón E = h·f es directamente proporcional a su frecuencia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.73,
+      "bundle_id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle-v11",
+      "statement": "El experimento de Franck-Hertz confirmó:",
+      "context": "En un análisis en Popayán, se interpreta el experimento de Franck-Hertz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La existencia de monopolos magnéticos.",
+          "is_correct": false,
+          "feedback": "El experimento trata cuantización energética."
+        },
+        {
+          "letter": "B",
+          "text": "La cuantización de los niveles de energía en los átomos de mercurio.",
+          "is_correct": true,
+          "feedback": "Los electrones pierden energía solo en paquetes discretos."
+        },
+        {
+          "letter": "C",
+          "text": "La relatividad general.",
+          "is_correct": false,
+          "feedback": "No es el ámbito del experimento."
+        },
+        {
+          "letter": "D",
+          "text": "La masa del neutrino.",
+          "is_correct": false,
+          "feedback": "No se relaciona con el experimento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El experimento demostró que los átomos absorben energía solo en cantidades discretas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle-v12",
+      "statement": "Cuando un núcleo emite una partícula alfa, su número atómico Z y másico A cambian así:",
+      "context": "En clase en Neiva, se discute la desintegración alfa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Z disminuye en 2 y A en 4.",
+          "is_correct": true,
+          "feedback": "La partícula alfa es ⁴He²⁺."
+        },
+        {
+          "letter": "B",
+          "text": "Z aumenta en 2 y A en 4.",
+          "is_correct": false,
+          "feedback": "La emisión alfa reduce Z."
+        },
+        {
+          "letter": "C",
+          "text": "Z se mantiene igual, A disminuye en 2.",
+          "is_correct": false,
+          "feedback": "Ambos cambian."
+        },
+        {
+          "letter": "D",
+          "text": "Z disminuye en 1 y A en 1.",
+          "is_correct": false,
+          "feedback": "Eso corresponde a desintegración beta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La emisión alfa reduce simultáneamente Z en 2 unidades y A en 4 unidades.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle-v13",
+      "statement": "Según el modelo estándar, los quarks son partículas fundamentales que:",
+      "context": "En Tunja, se analiza el modelo estándar de partículas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Forman parte de los electrones.",
+          "is_correct": false,
+          "feedback": "Los electrones son leptones, no quarks."
+        },
+        {
+          "letter": "B",
+          "text": "Se combinan en grupos de dos o tres para formar hadrones como protones y neutrones.",
+          "is_correct": true,
+          "feedback": "Los hadrones incluyen bariones (3 quarks) y mesones (par quark-antiquark)."
+        },
+        {
+          "letter": "C",
+          "text": "Tienen carga eléctrica siempre negativa.",
+          "is_correct": false,
+          "feedback": "Los quarks tienen cargas fraccionarias ±1/3 o ±2/3."
+        },
+        {
+          "letter": "D",
+          "text": "Son responsables del electromagnetismo.",
+          "is_correct": false,
+          "feedback": "El fotón media el electromagnetismo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El modelo estándar clasifica las partículas fundamentales en quarks y leptones, mediadas por bosones de gauge.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle-v14",
+      "statement": "El espín del electrón es una propiedad cuántica que:",
+      "context": "En clase en Medellín, se estudia el spin del electrón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representa la rotación clásica del electrón.",
+          "is_correct": false,
+          "feedback": "No es una rotación literal; es una propiedad intrínseca."
+        },
+        {
+          "letter": "B",
+          "text": "Solo puede tomar valores +ℏ/2 o -ℏ/2 a lo largo de un eje.",
+          "is_correct": true,
+          "feedback": "El momento angular intrínseco está cuantizado."
+        },
+        {
+          "letter": "C",
+          "text": "Aumenta continuamente como una rueda.",
+          "is_correct": false,
+          "feedback": "No es continuo."
+        },
+        {
+          "letter": "D",
+          "text": "Es idéntico al momento angular orbital.",
+          "is_correct": false,
+          "feedback": "El orbital depende del número cuántico l."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El espín es un momento angular intrínseco sin análogo clásico directo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle-v15",
+      "statement": "El principio de exclusión de Pauli establece que:",
+      "context": "En Bogotá, se discute el principio de exclusión de Pauli.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dos electrones pueden compartir todos sus números cuánticos.",
+          "is_correct": false,
+          "feedback": "Pauli prohíbe eso."
+        },
+        {
+          "letter": "B",
+          "text": "Dos electrones en el mismo átomo no pueden tener idénticos los cuatro números cuánticos.",
+          "is_correct": true,
+          "feedback": "Cada electrón debe tener un conjunto único."
+        },
+        {
+          "letter": "C",
+          "text": "Los protones se repelen mutuamente.",
+          "is_correct": false,
+          "feedback": "Es otra interacción."
+        },
+        {
+          "letter": "D",
+          "text": "Los fotones carecen de momento.",
+          "is_correct": false,
+          "feedback": "Los fotones sí tienen momento p = h/λ."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El principio de Pauli explica la estructura electrónica y la estabilidad de la materia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle-v16",
+      "statement": "El bosón de Higgs está asociado con:",
+      "context": "En clase en Cali, se estudia el bosón de Higgs.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fuerza nuclear fuerte exclusivamente.",
+          "is_correct": false,
+          "feedback": "Es una partícula del modelo estándar, no exclusiva de una interacción."
+        },
+        {
+          "letter": "B",
+          "text": "El mecanismo que otorga masa a las partículas fundamentales mediante su interacción con el campo de Higgs.",
+          "is_correct": true,
+          "feedback": "El campo de Higgs llena el espacio y genera masa por interacción."
+        },
+        {
+          "letter": "C",
+          "text": "La ausencia total de masa.",
+          "is_correct": false,
+          "feedback": "Su rol es conferir masa."
+        },
+        {
+          "letter": "D",
+          "text": "La aniquilación materia-antimateria.",
+          "is_correct": false,
+          "feedback": "No es su función principal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El bosón de Higgs fue detectado en el CERN en 2012, confirmando el mecanismo que explica la masa de las partículas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.63,
+      "bundle_id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle-v17",
+      "statement": "Uno de los principales riesgos asociados a las centrales nucleares es:",
+      "context": "En una discusión en Sincelejo, se evalúan riesgos nucleares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Generación excesiva de ozono.",
+          "is_correct": false,
+          "feedback": "No es un riesgo nuclear directo."
+        },
+        {
+          "letter": "B",
+          "text": "Manejo de residuos radiactivos de larga vida y posible contaminación en accidentes.",
+          "is_correct": true,
+          "feedback": "El destino de los residuos es un desafío técnico y ambiental."
+        },
+        {
+          "letter": "C",
+          "text": "Aumento del efecto invernadero por emisión de CO₂.",
+          "is_correct": false,
+          "feedback": "Las centrales nucleares no emiten CO₂ en operación."
+        },
+        {
+          "letter": "D",
+          "text": "Disminución de la biodiversidad marina.",
+          "is_correct": false,
+          "feedback": "No es el riesgo principal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La gestión segura de residuos radiactivos y la prevención de accidentes son prioridades del sector nuclear.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle-v18",
+      "statement": "La tomografía por emisión de positrones (PET) utiliza:",
+      "context": "En clase en Pereira, se debaten aplicaciones médicas de la física nuclear.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rayos X tradicionales.",
+          "is_correct": false,
+          "feedback": "La PET usa positrones, no rayos X clásicos."
+        },
+        {
+          "letter": "B",
+          "text": "Trazadores radiactivos emisores de positrones que al aniquilarse emiten rayos gamma detectados.",
+          "is_correct": true,
+          "feedback": "La aniquilación positrón-electrón produce dos fotones gamma."
+        },
+        {
+          "letter": "C",
+          "text": "Campos magnéticos intensos como la resonancia magnética.",
+          "is_correct": false,
+          "feedback": "La MRI usa campos magnéticos; la PET es diferente."
+        },
+        {
+          "letter": "D",
+          "text": "Ultrasonido de alta frecuencia.",
+          "is_correct": false,
+          "feedback": "No utiliza ultrasonido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La PET permite visualizar procesos metabólicos mediante trazadores como la fluorodesoxiglucosa (¹⁸F).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle-v19",
+      "statement": "La radioterapia con haz externo busca dañar principalmente:",
+      "context": "En Cartagena, se evalúan los tratamientos de radioterapia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El tejido sano circundante.",
+          "is_correct": false,
+          "feedback": "El objetivo es minimizar el daño colateral."
+        },
+        {
+          "letter": "B",
+          "text": "El ADN de las células tumorales, impidiendo su división.",
+          "is_correct": true,
+          "feedback": "La radiación ionizante rompe enlaces y bloquea la mitosis."
+        },
+        {
+          "letter": "C",
+          "text": "El sistema nervioso periférico.",
+          "is_correct": false,
+          "feedback": "No es el blanco."
+        },
+        {
+          "letter": "D",
+          "text": "Los glóbulos rojos exclusivamente.",
+          "is_correct": false,
+          "feedback": "La radioterapia no es selectiva hacia eritrocitos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La radioterapia usa haces calibrados para maximizar daño al tumor y proteger tejido sano.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle-v20",
+      "statement": "Una contribución fundamental de la física moderna al conocimiento humano es:",
+      "context": "En una clase de cierre en Pasto, se reflexiona sobre el legado de la física moderna.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Demostrar que las leyes clásicas resuelven todos los problemas.",
+          "is_correct": false,
+          "feedback": "La física moderna surgió donde la clásica fallaba."
+        },
+        {
+          "letter": "B",
+          "text": "Establecer que la energía y la materia están cuantizadas y son interconvertibles.",
+          "is_correct": true,
+          "feedback": "La dualidad onda-partícula y E = mc² redefinen la realidad."
+        },
+        {
+          "letter": "C",
+          "text": "Eliminar el concepto de partícula.",
+          "is_correct": false,
+          "feedback": "Las partículas siguen siendo centrales."
+        },
+        {
+          "letter": "D",
+          "text": "Negar la existencia del átomo.",
+          "is_correct": false,
+          "feedback": "El átomo es ahora mejor comprendido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La física moderna amplió la comprensión de la materia, la energía y las interacciones fundamentales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

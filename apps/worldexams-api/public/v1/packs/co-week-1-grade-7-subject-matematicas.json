@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-1-grade-7-subject-matematicas",
+    "generated_at": "2026-09-12T16:46:07.571Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-7-2026-W01-regla-tres-001-MASTERY-bundle-v1",
+      "statement": "¿Cuántos galones necesita para recorrer $280\\text{ km}$ a la misma velocidad?",
+      "context": "En Bogotá, un automóvil consume $3$ galones de gasolina para recorrer $120\\text{ km}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$7$ galones",
+          "is_correct": true,
+          "feedback": "Correcto. $120 / 3 = 40\\text{ km/galón}$; $280 / 40 = 7$ galones."
+        },
+        {
+          "letter": "B",
+          "text": "$8$ galones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cálculo proporcional impreciso."
+        },
+        {
+          "letter": "C",
+          "text": "$6$ galones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Subestimaste el consumo por kilómetro."
+        },
+        {
+          "letter": "D",
+          "text": "$9$ galones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sobreestimaste la cantidad de galones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$\frac{3}{120} = \frac{x}{280} \\implies 120x = 840 \\implies x = 7$ galones.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-7-2026-W01-regla-tres-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W01-regla-tres-001-MASTERY-bundle-v2",
+      "statement": "¿Cuántos minutos tardarán $2$ impresoras de las mismas características en imprimir el mismo lote?",
+      "context": "En Medellín, $5$ impresoras tardan $10$ minutos en imprimir un lote de folletos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$25$ minutos",
+          "is_correct": true,
+          "feedback": "Correcto. Regla de tres inversa: $5 \times 10 = 2 \times x \\implies x = 25$ minutos."
+        },
+        {
+          "letter": "B",
+          "text": "$4$ minutos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplicaste regla de tres directa cuando menos impresoras requieren más tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "$15$ minutos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estimación no proporcional."
+        },
+        {
+          "letter": "D",
+          "text": "$20$ minutos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la multiplicación inversa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A menos impresoras, más tiempo (inversa): $5 \\cdot 10 = 2 \\cdot x \\implies 50 = 2x \\implies x = 25$ minutos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-7-2026-W01-regla-tres-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W01-regla-tres-001-MASTERY-bundle-v3",
+      "statement": "¿Cuántos metros pavimentarán $12$ obreros en el mismo tiempo?",
+      "context": "En Cali, una cuadrilla de $8$ obreros pavimenta $60\\text{ metros}$ de calle en $4$ días.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$90\\text{ metros}$",
+          "is_correct": true,
+          "feedback": "Correcto. $60 / 8 = 7.5\\text{ m/obrero}$; $12 \times 7.5 = 90\\text{ metros}$."
+        },
+        {
+          "letter": "B",
+          "text": "$80\\text{ metros}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste obreros sin mantener la proporción."
+        },
+        {
+          "letter": "C",
+          "text": "$120\\text{ metros}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste el rendimiento sin duplicar obreros."
+        },
+        {
+          "letter": "D",
+          "text": "$100\\text{ metros}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo en la tasa unitaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$\\frac{8}{60} = \\frac{12}{x} \\implies 8x = 720 \\implies x = 90$ metros.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W01-regla-tres-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W01-regla-tres-001-MASTERY-bundle-v4",
+      "statement": "¿En cuántas horas llenarán el tanque $3$ grifos del mismo caudal?",
+      "context": "En Barranquilla, $4$ grifos iguales llenan un tanque de agua en $6$ horas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$8$ horas",
+          "is_correct": true,
+          "feedback": "Correcto. Regla de tres inversa: $4 \\times 6 = 3 \\times x \\implies x = 8$ horas."
+        },
+        {
+          "letter": "B",
+          "text": "$4.5$ horas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste regla de tres directa."
+        },
+        {
+          "letter": "C",
+          "text": "$7$ horas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal el producto constante."
+        },
+        {
+          "letter": "D",
+          "text": "$9$ horas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al dividir por 3."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Menos grifos requieren más tiempo: $4 \\cdot 6 = 24$. $24 / 3 = 8$ horas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W01-regla-tres-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W01-regla-tres-001-MASTERY-bundle-v5",
+      "statement": "¿Cuántos kilogramos de fertilizante necesita para un terreno de $800\\text{ m}^2$?",
+      "context": "Un agricultor en Tunja usa $15\\text{ kg}$ de fertilizante para $300\\text{ m}^2$ de cultivo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$40\\text{ kg}$",
+          "is_correct": true,
+          "feedback": "Correcto. $15 / 300 = 0.05\\text{ kg/m}^2$; $800 \\times 0.05 = 40\\text{ kg}$."
+        },
+        {
+          "letter": "B",
+          "text": "$35\\text{ kg}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo en el área adicional."
+        },
+        {
+          "letter": "C",
+          "text": "$50\\text{ kg}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sobreestimaste la tasa por metro cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "$30\\text{ kg}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Subestimaste el fertilizante requerido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$\\frac{15}{300} = \\frac{x}{800} \\implies 300x = 12000 \\implies x = 40\\text{ kg}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W01-regla-tres-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W01-regla-tres-001-MASTERY-bundle-v6",
+      "statement": "¿Cuántas prendas producirán $8$ máquinas trabajando $9$ horas diarias durante $5$ días?",
+      "context": "En Bucaramanga, $6$ máquinas textiles trabajando $8$ horas diarias producen $480$ prendas en $5$ días.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$720$ prendas",
+          "is_correct": true,
+          "feedback": "Correcto. Rendimiento por máquina-hora = $480 / (6 \\times 8 \\times 5) = 2$ prendas/hora. Producción = $8 \\times 9 \\times 5 \\times 2 = 720$."
+        },
+        {
+          "letter": "B",
+          "text": "$640$ prendas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitiste el incremento de horas diarias."
+        },
+        {
+          "letter": "C",
+          "text": "$800$ prendas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la multiplicación de variables compuestas."
+        },
+        {
+          "letter": "D",
+          "text": "$540$ prendas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste con el número inicial de máquinas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Regla de tres compuesta directa en máquinas y horas: $\\frac{480}{6 \\cdot 8} = \\frac{x}{8 \\cdot 9} \\implies \\frac{480}{48} = \\frac{x}{72} \\implies 10 = \\frac{x}{72} \\implies x = 720$ prendas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-7-2026-W01-regla-tres-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W01-regla-tres-001-MASTERY-bundle-v7",
+      "statement": "¿Cuántos panaderos se necesitan para elaborar $300$ panecillos en $3$ horas?",
+      "context": "En Pereira, $5$ panaderos elaboran $200$ panecillos en $4$ horas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$ panaderos",
+          "is_correct": true,
+          "feedback": "Correcto. $1$ panadero hace $200 / (5 \\times 4) = 10$ panecillos/hora. Para $300$ en $3$ h se requiere tasa de $100$ panecillos/hora $\\implies 100/10 = 10$ panaderos."
+        },
+        {
+          "letter": "B",
+          "text": "$8$ panaderos",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tuviste en cuenta la reducción de tiempo a 3 horas."
+        },
+        {
+          "letter": "C",
+          "text": "$12$ panaderos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sobreestimaste el número de panaderos."
+        },
+        {
+          "letter": "D",
+          "text": "$6$ panaderos",
+          "is_correct": false,
+          "feedback": "Incorrecto. No compensaste el incremento de producción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$\\frac{5 \\cdot 4}{200} = \\frac{x \\cdot 3}{300} \\implies \\frac{20}{200} = \\frac{3x}{300} \\implies \\frac{1}{10} = \\frac{x}{100} \\implies x = 10$ panaderos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-7-2026-W01-regla-tres-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W01-regla-tres-001-MASTERY-bundle-v8",
+      "statement": "¿Cuántas toneladas transportarán $5$ camiones idénticos en $6$ viajes?",
+      "context": "En Manizales, $3$ camiones transportan $30$ toneladas de arena en $4$ viajes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$75$ toneladas",
+          "is_correct": true,
+          "feedback": "Correcto. Capacidad por camión-viaje = $30 / (3 \\times 4) = 2.5$ ton. Total = $5 \\times 6 \\times 2.5 = 75$ toneladas."
+        },
+        {
+          "letter": "B",
+          "text": "$60$ toneladas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitiste el aumento de viajes."
+        },
+        {
+          "letter": "C",
+          "text": "$90$ toneladas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sobreestimaste la capacidad unitaria."
+        },
+        {
+          "letter": "D",
+          "text": "$50$ toneladas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste como si fueran solo 4 viajes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$\\frac{30}{3 \\cdot 4} = \\frac{x}{5 \\cdot 6} \\implies \\frac{30}{12} = \\frac{x}{30} \\implies 2.5 = \\frac{x}{30} \\implies x = 75$ toneladas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-7-2026-W01-regla-tres-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W01-regla-tres-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el tiempo requerido en días?",
+      "context": "En Cartagena, $10$ obreros trabajando $8$ horas diarias construyen un muro de $100\\text{ m}$ en $15$ días. Si $2$ obreros se retiran y las horas diarias aumentan a $10$, ¿cuántos días tardarán en construir un muro similar de $120\\text{ m}$?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$18$ días",
+          "is_correct": true,
+          "feedback": "Correcto. Obreros finales = $8$. Ecuación: $x = 15 \\times (10/8) \\times (8/10) \\times (120/100) = 15 \\times 1.2 = 18$ días."
+        },
+        {
+          "letter": "B",
+          "text": "$20$ días",
+          "is_correct": false,
+          "feedback": "Incorrecto. No compensaste el aumento de horas de trabajo."
+        },
+        {
+          "letter": "C",
+          "text": "$15$ días",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asumiste que las variaciones se cancelaban exactamente."
+        },
+        {
+          "letter": "D",
+          "text": "$22$ días",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la ponderación inversa de obreros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$x = 15 \\cdot \\left(\\frac{10}{8}\\right) \\cdot \\left(\\frac{8}{10}\\right) \\cdot \\left(\\frac{120}{100}\\right) = 15 \\cdot 1.2 = 18$ días.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-7-2026-W01-regla-tres-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W01-regla-tres-001-MASTERY-bundle-v10",
+      "statement": "¿Cuántos días tomará la producción?",
+      "context": "En Pasto, una imprenta con $4$ máquinas funcionando al $80\\%$ de rendimiento produce $16.000$ libros en $10$ días. Si se añade $1$ máquina más y todas operan al $100\\%$ de rendimiento, ¿cuántos días tomará producir $25.000$ libros?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$ días",
+          "is_correct": true,
+          "feedback": "Correcto. Rendimiento inicial = $4 \\times 0.8 = 3.2$ máquinas equivalentes. Rendimiento final = $5 \\times 1.0 = 5.0$. $x = 10 \\times (3.2 / 5.0) \\times (25.000 / 16.000) = 10 \\times 0.64 \\times 1.5625 = 10$ días."
+        },
+        {
+          "letter": "B",
+          "text": "$12$ días",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideraste el aumento de eficiencia al $100\\%$."
+        },
+        {
+          "letter": "C",
+          "text": "$8$ días",
+          "is_correct": false,
+          "feedback": "Incorrecto. Subestimaste el impacto del volumen adicional de libros."
+        },
+        {
+          "letter": "D",
+          "text": "$15$ días",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignoraste la máquina adicional incorporada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Capacidad inicial $3.2$, capacidad final $5.0$. $x = 10 \\cdot \\frac{3.2}{5.0} \\cdot \\frac{25000}{16000} = 10 \\cdot 0.64 \\cdot 1.5625 = 10$ días.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-7-2026-W01-regla-tres-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

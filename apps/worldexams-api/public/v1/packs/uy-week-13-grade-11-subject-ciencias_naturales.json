@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "uy",
+    "pack_id": "uy-week-13-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T16:46:07.947Z"
+  },
+  "questions": [
+    {
+      "id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v1",
+      "statement": "¿Qué grupo vegetal autóctono domina estructural y funcionalmente el ecosistema de la pradera uruguaya?",
+      "context": "El bioma predominante en el territorio uruguayo es la pradera natural, ocupando más del 70% de la superficie del país.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gramíneas o poáceas de ciclo estival y de invierno.",
+          "is_correct": true,
+          "feedback": "Correcto. Las gramíneas autóctonas constituyen el estrato herbáceo dominante de la pradera pampeana/uruguaya."
+        },
+        {
+          "letter": "B",
+          "text": "Arboles coníferos de gran porte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las coníferas no son autóctonas del bioma pradera uruguayo."
+        },
+        {
+          "letter": "C",
+          "text": "Cactáceas arbustivas de clima desértico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque existen cactáceas pequeñas en serranías, no dominan la pradera."
+        },
+        {
+          "letter": "D",
+          "text": "Helechos arborescentes de selva tropical.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los helechos arborescentes corresponden a selvas húmedas, no a pastizales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pradera uruguaya se caracteriza por una alta diversidad de gramíneas y leguminosas nativas adaptadas al pastoreo y clima templado.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v2",
+      "statement": "¿Qué significan las siglas SNAP en el marco de las políticas ambientales y de conservación de la biodiversidad en Uruguay?",
+      "context": "En Uruguay, el Estado protege áreas de valor ambiental y cultural a través del SNAP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sociedad Nacional de Agronomía y Pastizales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a una sociedad agronómica privada."
+        },
+        {
+          "letter": "B",
+          "text": "Sistema Nacional de Áreas Protegidas.",
+          "is_correct": true,
+          "feedback": "Correcto. El SNAP es el organismo público encargado de integrar y gestionar las reservas naturales protegidas de Uruguay."
+        },
+        {
+          "letter": "C",
+          "text": "Servicio Normalizado de Agroecología Protegida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es la denominación oficial del sistema ambiental."
+        },
+        {
+          "letter": "D",
+          "text": "Secretaría Nacional de Áreas Pesqueras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El SNAP abarca ecosistemas terrestres, fluviales y marinos bajo estatus de protección."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Sistema Nacional de Áreas Protegidas (SNAP) regula la conservación in situ de los ecosistemas representativos y la biodiversidad autóctona de Uruguay.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v3",
+      "statement": "¿Cómo se clasifica a una especie cuya supervivencia biológica en el país está seriamente amenazada de extinción si persisten los factores de presión?",
+      "context": "El venado de las pampas (*Ozotoceros bezoarticus*) y el ciervo de los pantanos (*Blastocerus dichotomus*) sufrieron severas drásticas reducciones poblacionales en Uruguay debido a la caza y alteración del hábitat.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Especie invasora cosmopolita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son especies nativas vulnerables o amenazadas, no exóticas invasoras."
+        },
+        {
+          "letter": "B",
+          "text": "Especie prioritaria para la conservación o amenazada.",
+          "is_correct": true,
+          "feedback": "Correcto. Las especies con poblaciones relictuales reducidas se categorizan bajo estatus de amenaza para su protección prioritaria."
+        },
+        {
+          "letter": "C",
+          "text": "Especie plaga agropecuaria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son cérvidos nativos protegidos de alto valor biológico."
+        },
+        {
+          "letter": "D",
+          "text": "Especie exótica asilvestrada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son autóctonas de la fauna nativa del Cono Sur."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las especies amenazadas reciben protección legal e inclusión en planes de conservación para mitigar el riesgo de extinción nacional.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v4",
+      "statement": "¿Qué característica define a una especie exótica invasora y por qué representa una amenaza para la biodiversidad local?",
+      "context": "En las costas de ríos y arroyos uruguayos, especies como el mejillón dorado (*Limnoperna fortunei*) y el acacio negro (*Gleditsia triacanthos*) invaden los ecosistemas nativos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una especie autóctona que muta velozmente para desplazar a los herbívoros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las especies exóticas no son autóctonas; son introducidas fuera de su rango natural."
+        },
+        {
+          "letter": "B",
+          "text": "Es una especie introducida fuera de su distribución natural que se establece, multiplica y desplaza a la biota nativa.",
+          "is_correct": true,
+          "feedback": "Correcto. Al carecer de depredadores naturales locales, las especies invasoras se multiplican agresivamente alterando los ecosistemas nativos."
+        },
+        {
+          "letter": "C",
+          "text": "Es un vegetal que solo sobrevive en condiciones de cultivo controlado dentro de invernaderos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si requiere cultivo controlado no es invasora en ambientes naturales."
+        },
+        {
+          "letter": "D",
+          "text": "Es un hongo simbionte que incrementa la fijación de nitrógeno en todas las praderas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las invasoras generan perjuicios ecológicos y económicos severos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las especies exóticas invasoras son la segunda causa global de pérdida de biodiversidad al competir, depredar o alterar los hábitats de las especies nativas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v5",
+      "statement": "¿Qué características microclimáticas y topográficas de las quebradas permiten la existencia de estas comunidades vegetales relictuales?",
+      "context": "En las quebradas del departamento de Rivera (como el Valle del Lunarejo), la vegetación incluye especies de afinidad subtropical como helechos arborescentes y orquídeas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La exposición directa a vientos secos del oeste y ausencia total de agua corriente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las quebradas se caracterizan por alta humedad ambiental y protección contra el viento."
+        },
+        {
+          "letter": "B",
+          "text": "El abrigo topográfico contra heladas, elevada humedad ambiental y constante presencia de cursos de agua.",
+          "is_correct": true,
+          "feedback": "Correcto. Las laderas pronunciadas protegen del viento helado y conservan humedad alta, creando microclimas subtropicales."
+        },
+        {
+          "letter": "C",
+          "text": "La salinidad extrema del suelo provocada por mareas del Océano Atlántico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Lunarejo se ubica en el norte continental, desprovisto de influencia salina marina."
+        },
+        {
+          "letter": "D",
+          "text": "La ausencia completa de capa de suelo orgánico sobre el basalto seco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Presentan suelos orgánicos ricos alimentados por la hojarasca del monte de quebrada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las quebradas basálticas del norte de Uruguay actúan como refugios microclimáticos donde la topografía atenúa las heladas invernales y preserva humedad para especies subtropicales.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v6",
+      "statement": "¿Qué impacto negativo directo provoca esta homogeneización del paisaje sobre la diversidad de la fauna edáfica y vertebrados de la pradera?",
+      "context": "Un informe del Ministerio de Ambiente analiza la sustitución de pastizales nativos por cultivos intensivos o plantaciones forestales masivas en Soriano y Paysandú.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incrementa la riqueza de especies autóctonas especializadas en el estrato herbáceo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sustitución de pradera destruye el hábitat de especies herbáceas nativas."
+        },
+        {
+          "letter": "B",
+          "text": "Pérdida de hábitat, fragmentación de poblaciones y drástica disminución de la biodiversidad especialista.",
+          "is_correct": true,
+          "feedback": "Correcto. La destrucción de la pradera diversa por monocultivos elimina nichos y fragmenta las poblaciones autóctonas."
+        },
+        {
+          "letter": "C",
+          "text": "Aumento del flujo génico entre las poblaciones de mamíferos autóctonos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fragmentación aísla las poblaciones impidiendo el intercambio génico."
+        },
+        {
+          "letter": "D",
+          "text": "Surgimiento espontáneo de nuevas especies vertebradas en menos de un año.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La especiación requiere miles de generaciones y tiempos evolutivos dilatados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La sustitución de la pradera natural por monocultivos reduce drásticamente la heterogeneidad espacial, eliminando refugios y alimento para especies nativas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.72,
+      "bundle_id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el objetivo ecológico principal de implementar corredores biológicos entre parches de vegetación protegida?",
+      "context": "Se diseña un corredor biológico para conectar la reserva de Esteros de Farrapos con áreas naturales del Río Uruguay.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Impedir el desplazamiento de la fauna silvestre para mantener la masa corporal estática.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los corredores buscan justamente facilitar el libre movimiento animal."
+        },
+        {
+          "letter": "B",
+          "text": "Facilitar el desplazamiento de especies, el flujo génico y la recolonización entre poblaciones aisladas.",
+          "is_correct": true,
+          "feedback": "Correcto. Unen fragmentos de hábitat permitiendo la migración, dispersión de semillas y prevención de endogamia."
+        },
+        {
+          "letter": "C",
+          "text": "Fomentar la dispersión exclusiva de plantas exóticas invasoras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se diseñan para conservar la biodiversidad nativa y sus dinámicas poblacionales."
+        },
+        {
+          "letter": "D",
+          "text": "Esterilizar el suelo edáfico para evitar la propagación de bacterias nitrificantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La integridad del suelo es clave para la funcionalidad del corredor biológico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los corredores biológicos mitigan los efectos perjudiciales de la fragmentación de hábitats al restablecer la conectividad ecológica y génica.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v8",
+      "statement": "¿Qué tipo de conservación se aplica al proteger a los lobos marinos en sus áreas naturales de reproducción y alimentación costera?",
+      "context": "El parque nacional Cabo Polonio (Rocha) alberga una de las colonias reproductivas de lobos marinos (*Arctocephalus australis*) más importantes de América del Sur.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conservación ex situ en zoológicos y acuarios cerrados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conservación en cautiverio fuera de su medio es ex situ."
+        },
+        {
+          "letter": "B",
+          "text": "Conservación in situ dentro de su hábitat natural ecosistémico.",
+          "is_correct": true,
+          "feedback": "Correcto. Proteger a las poblaciones silvestres en sus hábitats naturales constituye conservación in situ."
+        },
+        {
+          "letter": "C",
+          "text": "Conservación transgénica mediante clonación celular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se trata de modificación genética ni clonación en laboratorio."
+        },
+        {
+          "letter": "D",
+          "text": "Conservación fósil en yacimientos geológicos profundos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se protege una población viva silvestre actual."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La conservación in situ preserva especies, comunidades y procesos ecológicos dentro de los ecosistemas donde evolucionaron y habitan de forma silvestre.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.68,
+      "bundle_id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v9",
+      "statement": "¿Qué servicio ecosistémico de regulación fundamental brinda el monte serrano para prevenir la degradación física de las cuencas hidrográficas?",
+      "context": "En el monte serrano de Lavalleja se estudian los servicios ecosistémicos provistos por la vegetación nativa sobre laderas de alta pendiente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumento de la erosión hídrica superficial por falta de raíces.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cubierta vegetal reduce la erosión hídrica, no la aumenta."
+        },
+        {
+          "letter": "B",
+          "text": "Protección del suelo contra la erosión hídrica, retención del agua de lluvia y regulación del escurrimiento fluvial.",
+          "is_correct": true,
+          "feedback": "Correcto. El follaje amortigua el impacto de las gotas y la red radicular fija el suelo, regulando las crecidas."
+        },
+        {
+          "letter": "C",
+          "text": "Generación de radiación ultravioleta de alta frecuencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas absorben luz visible y fotosintetizan; no emiten radiación UV."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminación completa del ciclo hidrológico regional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La vegetación modula el ciclo hidrológico mediante transpiración e infiltración."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los servicios de regulación ecosistémica abarcan el control de la erosión, regulación de caudales y protección de cuencas hidrográficas frente a escurrimientos torrenciales.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.67,
+      "bundle_id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v10",
+      "statement": "¿Qué factor de amenaza antrópica directa afecta la supervivencia de los cetáceos en la zona costera durante su migración?",
+      "context": "En el bioma marino costero uruguayo, la ballena franca austral (*Eubalaena australis*) utiliza las aguas protegidas de Maldonado y Rocha durante la temporada reproductiva.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumento de la depredación natural por pumas nativos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los pumas son felinos terrestres que no depredan en el mar costero."
+        },
+        {
+          "letter": "B",
+          "text": "Colisiones con embarcaciones, contaminación sonora submarina y enmallamiento en redes de pesca.",
+          "is_correct": true,
+          "feedback": "Correcto. El tráfico marítimo, la contaminación acústica y los aparejos de pesca son causas principales de mortalidad y molestia antrópica."
+        },
+        {
+          "letter": "C",
+          "text": "Falta absoluta de salinidad en el Océano Atlántico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Océano Atlántico posee salinidad normal apta para la especie."
+        },
+        {
+          "letter": "D",
+          "text": "Exceso de fotosíntesis por bacterias de agua dulce en alta mar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las amenazas directas provienen de actividades humanas marítimas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La interacción con la navegación, la contaminación acústica marina y la captura incidental en redes constituyen presiones antrópicas graves sobre los cetáceos migratorios.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v11",
+      "statement": "¿Qué fenómeno de genética de poblaciones incrementa la probabilidad de extinción local en esta población relictual de pequeño tamaño?",
+      "context": "Una población aislada de 25 ejemplares del ciervo guazubirá (*Mazama gouazoubira*) permanece confinada en un pequeño fragmento de monte en San José sin contacto con otras poblaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumento de la heterocigosis y vigor híbrido por selección direccional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aislamiento en poblaciones pequeñas reduce la heterocigosis."
+        },
+        {
+          "letter": "B",
+          "text": "Deriva genética y depresión por endogamia, reduciendo la variabilidad genética y aumentando homocigosis desfavorable.",
+          "is_correct": true,
+          "feedback": "Correcto. La deriva genética al azar fija alelos deletéreos y el apareamiento entre parientes reduce la aptitud biológica."
+        },
+        {
+          "letter": "C",
+          "text": "Especiaición sim pátrica acelerada por alta tasa de recombinación cromosómica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aislamiento pequeño causa pérdida de variabilidad, no especiación instantánea."
+        },
+        {
+          "letter": "D",
+          "text": "Desaparición completa de las mutaciones puntuales en el ADN nuclear.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mutaciones siguen ocurriendo, pero la deriva elimina la variabilidad aleatoria."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En poblaciones pequeñas, la deriva genética y la endogamia erosionan la diversidad genética, reduciendo la capacidad adaptativa ante cambios ambientales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v12",
+      "statement": "¿Cómo altera el ligustro la regeneración de los árboles autóctonos del monte nativo?",
+      "context": "El avance de la especie leñosa exótica ligustro (*Ligustrum lucidum*) sobre los montes de quebrada en Treinta y Tres modifica la estructura lumínica del estrato inferior.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta la luz solar disponible en el suelo facilitando el brote de árboles nativos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El follaje denso y perenne del ligustro bloquea la luz en el suelo."
+        },
+        {
+          "letter": "B",
+          "text": "Forma un canopeo denso que bloquea el paso de la luz solar, impidiendo la germinación y crecimiento de plántulas autóctonas heliófilas.",
+          "is_correct": true,
+          "feedback": "Correcto. El follaje persistente del ligustro genera una sombra profunda que inhibe la regeneración de especies nativas fotosensibles."
+        },
+        {
+          "letter": "C",
+          "text": "Sintetiza nitrógeno gaseoso que destruye las raíces de todas las gramíneas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su impacto se debe principalmente al sombreado y competencia por espacio y recursos."
+        },
+        {
+          "letter": "D",
+          "text": "Atrae exclusivamente a grandes carnívoros que consumen semillas autóctonas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La exclusión se debe a competencia por recursos y alteración del microambiente de luz."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las leñosas exóticas invasoras alteran el régimen de luz y la dinámica de regeneración natural del monte criollo, desplazando a las plántulas autóctonas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v13",
+      "statement": "De acuerdo con esta teoría, ¿qué diseño de reserva preservará un mayor número de especies en equilibrio dinámico?",
+      "context": "Se aplica la Teoría de Biogeografía de Islas de MacArthur y Wilson para diseñar la ampliación de un área protegida en el departamento de Rocha.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Varias reservas muy pequeñas y distantes entre sí sin zonas de amortiguamiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reservas pequeñas y distantes tienen altas tasas de extinción y baja inmigración."
+        },
+        {
+          "letter": "B",
+          "text": "Una reserva de gran superficie, de forma circular y cercana a otras áreas conservadas.",
+          "is_correct": true,
+          "feedback": "Correcto. Una superficie mayor reduce la tasa de extinción local, y la cercanía (o forma compacta con menor efecto borde) favorece la inmigración."
+        },
+        {
+          "letter": "C",
+          "text": "Una reserva alargada extremadamente angosta rodeada de autopistas de alto tráfico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las formas alargadas maximizan el efecto borde negativo."
+        },
+        {
+          "letter": "D",
+          "text": "Reservas ubicadas exclusivamente en ambientes totalmente urbanizados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las reservas deben albergar hábitats naturales representativos sin degradación severa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La teoría de biogeografía de islas predice que las reservas más grandes y conectadas sostienen mayor riqueza de especies al disminuir la tasa de extinción y aumentar la inmigración.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v14",
+      "statement": "¿Qué indicador ecológico vegetal refleja la degradación de la pradera por sobrepastoreo continuo prolongado?",
+      "context": "Se evalúa el estado del pastizal nativo en un potrero ganadero bajo manejo con pastoreo rotativo frente a un potrero con pastoreo continuo sobrepastoreado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dominancia de gramíneas estivales de alto valor nutritivo y raíces profundas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas especies desaparecen bajo sobrepastoreo continuo."
+        },
+        {
+          "letter": "B",
+          "text": "Aumento de la proporción de suelo desnudo y dominancia de especies malezas no palatables o malezas invasoras.",
+          "is_correct": true,
+          "feedback": "Correcto. La presión constante de pastoreo elimina las gramíneas de alto valor forrajero, abriendo espacio a malezas y erosión del suelo."
+        },
+        {
+          "letter": "C",
+          "text": "Desaparición total de los insectos descomponedores del estiércol.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estructura vegetal es el principal indicador de salud del pastizal."
+        },
+        {
+          "letter": "D",
+          "text": "Incremento masivo en la capacidad de retención de agua de la capa arable.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sobrepastoreo compacta el suelo reduciendo la infiltración y retención hídrica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El sobrepastoreo continuo agota las reservas de las gramíneas deseables, incrementa el suelo descubierto y favorece la invasión de especies indeseables.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.53,
+      "bundle_id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v15",
+      "statement": "¿Qué consecuencia física y ecológica sobre el perfil de playa se deriva de la pérdida de dunas móviles nativas?",
+      "context": "En la zona costera de Canelones, la fijación artificial de dunas con pinos y acacias modificó la dinámica sedimentaria costera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ampliación de la franja de arena dorada y atenuación natural del oleaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fijación rígida acelera la erosión costera frente a marejadas."
+        },
+        {
+          "letter": "B",
+          "text": "Erosión costera severa y pérdida del depósito natural de arena que retroalimenta la playa durante las tormentas.",
+          "is_correct": true,
+          "feedback": "Correcto. Las dunas móviles actúan como reservorio dinámico de arena; al fijarse rígidamente, el oleaje erosiona la playa sin reemplazo sedimentario."
+        },
+        {
+          "letter": "C",
+          "text": "Aumento del caudal de los ríos de agua dulce fluvio-marinos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fijación de dunas altera la sedimentología costera, no el régimen fluvial."
+        },
+        {
+          "letter": "D",
+          "text": "Formación instantánea de arrecifes de coral en el Océano Atlántico templado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El litoral uruguayo no posee condiciones térmicas para arrecifes coralinos de aguas cálidas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las dunas móviles nativas proporcionan resiliencia costera; su alteración por vegetación exótica rígida desencadena procesos graves de erosión de playa.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.5,
+      "bundle_id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v16",
+      "statement": "¿Por qué el tamandúa se considera una especie sensible a la fragmentación del monte de quebrada y nativo?",
+      "context": "Un equipo de investigación mapea la distribución geográfica del tamandúa u oso hormiguero chico (*Tamandua tetradactyla*) en el norte de Uruguay.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque se alimenta exclusivamente de gramíneas de pradera abiertas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tamandúa es un mamífero mermecófago que consume hormigas y termitas arbóreas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque depende de la continuidad del canopeo y arbustos del monte nativo para alimentarse y refugiarse, teniendo baja movilidad entre parches aislados.",
+          "is_correct": true,
+          "feedback": "Correcto. Es una especie arborícola/forestal especialista; la deforestación y fragmentación interrumpen su acceso a recursos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque habita únicamente en aguas marinas profundas de alta salinidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un mamífero terrestre y arborícola del bosque nativo."
+        },
+        {
+          "letter": "D",
+          "text": "Porque realiza migraciones continentales volando miles de kilómetros al año.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un mamífero caminador y trepador sin capacidad de vuelo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las especies mermecófagas arbóreas como el tamandúa requieren parches continuos de monte nativo con abundancia de termiteros y cavidades de refugio.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es la fracción de parches ocupados en el equilibrio dinámico ($p^*$) y qué ocurre si la fragmentación del hábitat reduce la tasa de colonización $c$ por debajo de $e$?",
+      "context": "Se analiza la tasa de extinción local $E$ en una red metapoblacional de anfibios en la cuenca del Río Cebollatí según el modelo de Levins $\\frac{dp}{dt} = c p (1 - p) - e p$, donde $p$ es la fracción de parches ocupados, $c$ la tasa de colonización y $e$ la de extinción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$p^* = 1 - \\frac{e}{c}$; si $c < e$, la fracción $p^*$ tiende a cero, provocando la extinción de la metapoblación.",
+          "is_correct": true,
+          "feedback": "Correcto. Igualando $\\frac{dp}{dt} = 0$: $c p (1 - p) = e p \\implies p^* = 1 - e/c$. Si $c < e$, no hay equilibrio estable positivo y la metapoblación colapsa."
+        },
+        {
+          "letter": "B",
+          "text": "$p^* = \\frac{e}{c}$; si $c < e$, la metapoblación ocupa el 100% de los parches disponibles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fórmula correcta de equilibrio es $1 - e/c$ y si $c < e$ da un valor negativo irreal que implica colapso."
+        },
+        {
+          "letter": "C",
+          "text": "$p^* = c + e$; la fracción ocupada crece indefinidamente independientemente del hábitat.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $p$ es una proporción acotada entre $0$ y $1$."
+        },
+        {
+          "letter": "D",
+          "text": "$p^* = 0{,}5$; la población siempre permanece constante en la mitad de los parches.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ocupación de equilibrio depende directamente del cociente de las tasas $e/c$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el modelo metapoblacional de Levins, la viabilidad a largo plazo exige que la tasa de colonización entre parches supere a la tasa de extinción local ($c > e$).\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v18",
+      "statement": "¿Qué principio de la conservación ambiental establece que la falta de certeza científica absoluta no debe utilizarse como razón para posponer medidas de protección ante riesgos de daños graves o irreversibles?",
+      "context": "Se realiza una Evaluación de Impacto Ambiental (EIA) para una propuesta de puerto pesquero en la franja costera de Rocha, calculando la pérdida de servicios ecosistémicos y la biodiversidad de la zona intermareal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Principio de exclusión competitiva de Gause.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un principio ecológico de competencia, no un principio jurídico-ambiental."
+        },
+        {
+          "letter": "B",
+          "text": "Principio precautorio (o de precaución).",
+          "is_correct": true,
+          "feedback": "Correcto. El principio precautorio exige adoptar medidas preventivas ante riesgos ambientales graves aun en ausencia de certidumbre científica absoluta."
+        },
+        {
+          "letter": "C",
+          "text": "Principio del rendimiento máximo sostenible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Refiere a tasas de extracción pesquera o forestal óptimas sin agotar el recurso."
+        },
+        {
+          "letter": "D",
+          "text": "Principio de equilibrio estático de Hardy-Weinberg.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una ley de genética de poblaciones bajo condiciones ideales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El principio precautorio es un pilar de la gestión ambiental moderna que prioriza la prevención de daños irreparables a los ecosistemas frente a la incertidumbre científica.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v19",
+      "statement": "Si la transformación agrícola convierte parches heterogéneos en monocultivos idénticos, ¿qué cambio se observa en la diversidad beta y en la diversidad gamma regional?",
+      "context": "Investigadores comparan la diversidad alfa (riqueza local dentro de un parche), beta (diferenciación de especies entre parches) y gamma (riqueza regional total) en el bioma de pradera uruguayo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumento masivo de la diversidad beta debido a la especialización del monocultivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La homogeneización reduce la diferenciación entre parches, disminuyendo la diversidad beta."
+        },
+        {
+          "letter": "B",
+          "text": "Disminución drástica de la diversidad beta por homogeneización biótica, provocando una caída consecutiva en la diversidad gamma regional.",
+          "is_correct": true,
+          "feedback": "Correcto. Al volverse todos los parches idénticos, la recíproca diferenciación de especies (beta) cae, reduciendo la riqueza total acumulada en la región (gamma)."
+        },
+        {
+          "letter": "C",
+          "text": "Estabilidad absoluta de la diversidad gamma ya que las especies migran a las ciudades.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las especies silvestres de pradera no sustituyen su hábitat natural por áreas urbanas."
+        },
+        {
+          "letter": "D",
+          "text": "Aumento de la diversidad gamma por sustitución de gramíneas por plásticos sintéticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diversidad biológica mide organismos vivos, no materiales inanimados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La diversidad gamma es función de la riqueza local (alfa) y el recambio entre hábitats (beta); la homogeneización del paisaje destruye la diversidad beta y desploma la biodiversidad regional (gamma).\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es el factor ecológico y social determinante que condiciona el éxito de la reintroducción de un gran carnívoro de este porte?",
+      "context": "En un programa de reintroducción del yaguareté (*Panthera onca*) en grandes áreas de reserva del norte de Uruguay, se analiza la viabilidad de hábitat mediante modelado de nicho ecológico y análisis de viabilidad poblacional (PVA).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La disponibilidad exclusiva de presas exóticas domésticas como ovinos sin control.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La predación sobre ganado genera conflicto social severo e inviabiliza la conservación."
+        },
+        {
+          "letter": "B",
+          "text": "La existencia de áreas continuas de hábitat con alta densidad de presas silvestres y la aceptación social/coexistencia con las comunidades humanas locales.",
+          "is_correct": true,
+          "feedback": "Correcto. Sostener un depredador tope requiere grandes extensiones contiguas, abundancia de presas autóctonas y estrategias para evitar conflictos con pobladores."
+        },
+        {
+          "letter": "C",
+          "text": "La erradicación previa de todos los árboles del monte nativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los felinos de selva/bosque requieren vegetación nativa densa como cobertizo y refugio."
+        },
+        {
+          "letter": "D",
+          "text": "La clonación genética anual de todos los ejemplares libres.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las poblaciones reintroducidas deben autorsostenerse demográficamente mediante reproducción silvestre natural."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La restauración de depredadores tope requiere viabilidad ecosistémica (extensión de hábitat y presas autóctonas) e integración con la dimensión socioeconómica local.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "UY-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    }
+  ]
+}

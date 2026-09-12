@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-3-grade-6-subject-matematicas",
+    "generated_at": "2026-09-12T16:46:07.570Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-6-2026-W03-potenciacion-radicacion-001-MASTERY-bundle-v1",
+      "statement": "En la potencia $2^5$, ¿cuál es la base y cuál el exponente?",
+      "context": "En clase en Bogotá, Andrea aprende la noción de potencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Base 2 y exponente 5.",
+          "is_correct": true,
+          "feedback": "Correcto. La base es 2 y el exponente 5."
+        },
+        {
+          "letter": "B",
+          "text": "Base 5 y exponente 2.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los roles están invertidos."
+        },
+        {
+          "letter": "C",
+          "text": "Base 25 y exponente 1.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 25 es el resultado, no la base."
+        },
+        {
+          "letter": "D",
+          "text": "Base 10 y exponente 5.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La base es 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La potencia $a^n$ representa multiplicar $a$ por sí mismo $n$ veces.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-6-2026-W03-potenciacion-radicacion-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W03-potenciacion-radicacion-001-MASTERY-bundle-v2",
+      "statement": "¿Cuánto vale $3^4$?",
+      "context": "En un taller en Medellín, Juan calcula potencias básicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "81.",
+          "is_correct": true,
+          "feedback": "Correcto. $3 \\cdot 3 \\cdot 3 \\cdot 3 = 81$."
+        },
+        {
+          "letter": "B",
+          "text": "27.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es $3^3$."
+        },
+        {
+          "letter": "C",
+          "text": "12.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste en lugar de multiplicar."
+        },
+        {
+          "letter": "D",
+          "text": "64.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es $4^3$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para calcular una potencia se multiplica la base por sí misma tantas veces como indique el exponente.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-6-2026-W03-potenciacion-radicacion-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W03-potenciacion-radicacion-001-MASTERY-bundle-v3",
+      "statement": "La raíz cuadrada de $64$ se escribe $\\sqrt{64}$ y su valor es:",
+      "context": "En clase en Cali, se explica la radicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8.",
+          "is_correct": true,
+          "feedback": "Correcto. $8^2 = 64$."
+        },
+        {
+          "letter": "B",
+          "text": "32.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 32 es la mitad de 64."
+        },
+        {
+          "letter": "C",
+          "text": "16.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $16^2 = 256$."
+        },
+        {
+          "letter": "D",
+          "text": "4.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $4^2 = 16$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La raíz cuadrada busca un número que elevado al cuadrado dé el radicando.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-MAT-6-2026-W03-potenciacion-radicacion-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W03-potenciacion-radicacion-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el resultado de $2^3 \\cdot 2^2$?",
+      "context": "En un taller en Pereira, se estudian propiedades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2^5 = 32$.",
+          "is_correct": true,
+          "feedback": "Correcto. Se suman exponentes con base igual: $2^{3+2} = 2^5 = 32$."
+        },
+        {
+          "letter": "B",
+          "text": "$2^6 = 64$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste las bases."
+        },
+        {
+          "letter": "C",
+          "text": "$4^5 = 1024$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La base no cambia."
+        },
+        {
+          "letter": "D",
+          "text": "$4^6$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se conserva la base."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El producto de potencias de igual base se resuelve sumando los exponentes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-MAT-6-2026-W03-potenciacion-radicacion-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W03-potenciacion-radicacion-001-MASTERY-bundle-v5",
+      "statement": "Simplifica la expresión $\\frac{5^7}{5^4}$.",
+      "context": "En un ejercicio en Tunja, se aplican propiedades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5^3$.",
+          "is_correct": true,
+          "feedback": "Correcto. Se restan exponentes: $5^{7-4} = 5^3$."
+        },
+        {
+          "letter": "B",
+          "text": "$5^{11}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste en lugar de restar."
+        },
+        {
+          "letter": "C",
+          "text": "$1^3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La base sigue siendo 5."
+        },
+        {
+          "letter": "D",
+          "text": "$5^{28}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste los exponentes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cociente de potencias de igual base se resuelve restando los exponentes.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-6-2026-W03-potenciacion-radicacion-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W03-potenciacion-radicacion-001-MASTERY-bundle-v6",
+      "statement": "Calcula $(2 \\cdot 3)^2$.",
+      "context": "En clase en Manizales, se calcula la potencia de un producto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$36$.",
+          "is_correct": true,
+          "feedback": "Correcto. $(2 \\cdot 3)^2 = 6^2 = 36$."
+        },
+        {
+          "letter": "B",
+          "text": "$12$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elevaste solo el 3."
+        },
+        {
+          "letter": "C",
+          "text": "$18$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste y elevaste."
+        },
+        {
+          "letter": "D",
+          "text": "$108$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste por 3 después."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La potencia de un producto se distribuye: $(a \\cdot b)^n = a^n \\cdot b^n$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-6-2026-W03-potenciacion-radicacion-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W03-potenciacion-radicacion-001-MASTERY-bundle-v7",
+      "statement": "¿Cuánto vale $3^{-2}$?",
+      "context": "En Armenia, se introducen exponentes negativos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{9}$.",
+          "is_correct": true,
+          "feedback": "Correcto. $3^{-2} = \\frac{1}{3^2} = \\frac{1}{9}$."
+        },
+        {
+          "letter": "B",
+          "text": "$-9$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo se mantiene positivo."
+        },
+        {
+          "letter": "C",
+          "text": "$9$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el recíproco."
+        },
+        {
+          "letter": "D",
+          "text": "$-\\frac{1}{9}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo es positivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un exponente negativo indica el recíproco: $a^{-n} = \\frac{1}{a^n}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-6-2026-W03-potenciacion-radicacion-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W03-potenciacion-radicacion-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el valor de $\\sqrt[3]{27}$?",
+      "context": "En clase en Popayán, se comparan raíz cuadrada y cúbica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3.",
+          "is_correct": true,
+          "feedback": "Correcto. $3^3 = 27$."
+        },
+        {
+          "letter": "B",
+          "text": "9.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 9 elevado al cubo da 729."
+        },
+        {
+          "letter": "C",
+          "text": "13.5.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste 27 entre 2."
+        },
+        {
+          "letter": "D",
+          "text": "2.7.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste entre 10."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La raíz cúbica de 27 es 3 porque $3^3 = 27$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-6-2026-W03-potenciacion-radicacion-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W03-potenciacion-radicacion-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál de las siguientes igualdades es incorrecta?",
+      "context": "En un proyecto en Bucaramanga, se evalúan errores frecuentes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{16} = 4$.",
+          "is_correct": false,
+          "feedback": "Correcta. $4^2 = 16$."
+        },
+        {
+          "letter": "B",
+          "text": "$(-2)^3 = -8$.",
+          "is_correct": false,
+          "feedback": "Correcta. El cubo conserva el signo."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{25} = -5$.",
+          "is_correct": true,
+          "feedback": "Correcta es 5. La raíz principal es positiva."
+        },
+        {
+          "letter": "D",
+          "text": "$2^4 = 16$.",
+          "is_correct": false,
+          "feedback": "Correcta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Por convención, $\\sqrt{a}$ representa la raíz principal no negativa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-6-2026-W03-potenciacion-radicacion-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W03-potenciacion-radicacion-001-MASTERY-bundle-v10",
+      "statement": "Si el área de un cuadrado es $81 \\text{ cm}^2$, ¿cuánto mide su lado?",
+      "context": "En un cierre en Medellín, se aplica potenciación a la geometría.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9 cm.",
+          "is_correct": true,
+          "feedback": "Correcto. $\\sqrt{81} = 9$."
+        },
+        {
+          "letter": "B",
+          "text": "40.5 cm.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste entre 2."
+        },
+        {
+          "letter": "C",
+          "text": "8.1 cm.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste entre 10."
+        },
+        {
+          "letter": "D",
+          "text": "162 cm.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste por 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El lado de un cuadrado se obtiene mediante la raíz cuadrada de su área.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-6-2026-W03-potenciacion-radicacion-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

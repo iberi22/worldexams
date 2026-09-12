@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-35-grade-11-subject-lectura_critica",
+    "generated_at": "2026-09-12T16:46:07.513Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es una crónica periodística?",
+      "context": "En una redacción en Bogotá, Andrea lee crónicas de Gabriel García Márquez.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un texto narrativo que relata hechos reales con recursos literarios.",
+          "is_correct": true,
+          "feedback": "Combina información y estilo."
+        },
+        {
+          "letter": "B",
+          "text": "Una novela de ficción completa.",
+          "is_correct": false,
+          "feedback": "Abarca hechos verificables."
+        },
+        {
+          "letter": "C",
+          "text": "Un artículo científico.",
+          "is_correct": false,
+          "feedback": "No usa lenguaje técnico-científico."
+        },
+        {
+          "letter": "D",
+          "text": "Una receta culinaria.",
+          "is_correct": false,
+          "feedback": "No es su propósito."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La crónica combina rigor informativo y estética literaria para contar la realidad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la diferencia principal entre una noticia y una crónica?",
+      "context": "En clase en Medellín, se distingue entre noticia y crónica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La noticia informa de forma breve y objetiva; la crónica narra con estilo y contexto.",
+          "is_correct": true,
+          "feedback": "La crónica aporta profundidad narrativa."
+        },
+        {
+          "letter": "B",
+          "text": "La crónica nunca es real.",
+          "is_correct": false,
+          "feedback": "Sí lo es."
+        },
+        {
+          "letter": "C",
+          "text": "La noticia es más larga.",
+          "is_correct": false,
+          "feedback": "La noticia suele ser breve."
+        },
+        {
+          "letter": "D",
+          "text": "No existen diferencias.",
+          "is_correct": false,
+          "feedback": "Sí hay diferencias de género."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La crónica periodística recupera la tradición narrativa en el periodismo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle-v3",
+      "statement": "¿Qué papel juega la voz del cronista en el texto?",
+      "context": "En un taller en Cali, se analizan crónicas urbanas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una voz narrativa que interpreta los hechos desde una mirada personal.",
+          "is_correct": true,
+          "feedback": "Aporta subjetividad controlada."
+        },
+        {
+          "letter": "B",
+          "text": "Solo narra sin opinar.",
+          "is_correct": false,
+          "feedback": "Opina y contextualiza."
+        },
+        {
+          "letter": "C",
+          "text": "Sustituye al editor.",
+          "is_correct": false,
+          "feedback": "Son roles distintos."
+        },
+        {
+          "letter": "D",
+          "text": "No aparece en la crónica.",
+          "is_correct": false,
+          "feedback": "Es central."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La voz del cronista marca el tono y la perspectiva de la crónica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle-v4",
+      "statement": "La estructura típica de una crónica periodística incluye:",
+      "context": "En clase en Barranquilla, se trabaja con la estructura de la crónica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entrada atractiva, desarrollo contextual, cierre reflexivo y datos verificables.",
+          "is_correct": true,
+          "feedback": "Equilibra información y narrativa."
+        },
+        {
+          "letter": "B",
+          "text": "Solo un listado de datos sin orden.",
+          "is_correct": false,
+          "feedback": "Necesita coherencia."
+        },
+        {
+          "letter": "C",
+          "text": "Exclusivamente citas textuales.",
+          "is_correct": false,
+          "feedback": "Falta narración."
+        },
+        {
+          "letter": "D",
+          "text": "Un resumen final obligatorio.",
+          "is_correct": false,
+          "feedback": "No siempre hay resumen."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La crónica mantiene estructura flexible pero conserva rigor informativo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle-v5",
+      "statement": "Para escribir una crónica sobre el festival de la cosecha en tu pueblo, lo primero que debes hacer es:",
+      "context": "En un taller en Bucaramanga, se redacta una crónica escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recopilar información, entrevistar protagonistas y observar el ambiente.",
+          "is_correct": true,
+          "feedback": "La investigación previa asegura rigor."
+        },
+        {
+          "letter": "B",
+          "text": "Inventar datos sin verificar.",
+          "is_correct": false,
+          "feedback": "Compromete la veracidad."
+        },
+        {
+          "letter": "C",
+          "text": "Copiar otra crónica.",
+          "is_correct": false,
+          "feedback": "Es plagio."
+        },
+        {
+          "letter": "D",
+          "text": "Esperar al último día para escribir.",
+          "is_correct": false,
+          "feedback": "Reduce tiempo de documentación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El trabajo de campo es esencial en la crónica periodística.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle-v6",
+      "statement": "La descripción en una crónica cumple la función de:",
+      "context": "En clase en Pereira, se trabaja con la descripción cronística.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recrear ambientes, personajes y atmospheres con detalle sensorial.",
+          "is_correct": true,
+          "feedback": "Involucra los cinco sentidos."
+        },
+        {
+          "letter": "B",
+          "text": "Sustituir la información factual.",
+          "is_correct": false,
+          "feedback": "Complementa los hechos."
+        },
+        {
+          "letter": "C",
+          "text": "Eliminar el contexto.",
+          "is_correct": false,
+          "feedback": "Lo enriquece."
+        },
+        {
+          "letter": "D",
+          "text": "Confundir al lector.",
+          "is_correct": false,
+          "feedback": "Aclara la escena."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La descripción detallada permite al lector \"ver\" la escena relatada.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle-v7",
+      "statement": "¿Qué fuentes son apropiadas para sustentar una crónica?",
+      "context": "En Armenia, se discute el uso de fuentes en la crónica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Testimonios directos, documentos oficiales, estadísticas y expertos.",
+          "is_correct": true,
+          "feedback": "La triangulación de fuentes da credibilidad."
+        },
+        {
+          "letter": "B",
+          "text": "Solo rumores de redes sociales.",
+          "is_correct": false,
+          "feedback": "No son verificables."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente la opinión del cronista.",
+          "is_correct": false,
+          "feedback": "Se requieren fuentes externas."
+        },
+        {
+          "letter": "D",
+          "text": "Datos inventados.",
+          "is_correct": false,
+          "feedback": "Compromete la ética periodística."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ética periodística exige verificar y contrastar fuentes.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle-v8",
+      "statement": "En una crónica, el uso de figuras literarias debe:",
+      "context": "En Santa Marta, se revisan crónicas sobre el Caribe colombiano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reforzar la fuerza narrativa sin distorsionar los hechos.",
+          "is_correct": true,
+          "feedback": "La estética sirve al periodismo."
+        },
+        {
+          "letter": "B",
+          "text": "Sustituir completamente la información.",
+          "is_correct": false,
+          "feedback": "Pierde rigor."
+        },
+        {
+          "letter": "C",
+          "text": "Confundir al lector con exceso.",
+          "is_correct": false,
+          "feedback": "Debe ser claro."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminarse por completo.",
+          "is_correct": false,
+          "feedback": "Es parte del género."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La crónica usa la literatura como herramienta para profundizar la realidad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle-v9",
+      "statement": "Un rasgo distintivo de la crónica latinoamericana es:",
+      "context": "En Ibagué, se comparan crónicas latinoamericanas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Su compromiso social, su registro de la vida cotidiana y su calidad literaria.",
+          "is_correct": true,
+          "feedback": "Autores como García Márquez, Caparrós o Monsiváis."
+        },
+        {
+          "letter": "B",
+          "text": "Evitar temas políticos.",
+          "is_correct": false,
+          "feedback": "Los aborda con frecuencia."
+        },
+        {
+          "letter": "C",
+          "text": "Limitarse a la capital.",
+          "is_correct": false,
+          "feedback": "Recorre todo el continente."
+        },
+        {
+          "letter": "D",
+          "text": "Ser exclusivamente urbana.",
+          "is_correct": false,
+          "feedback": "Incluye lo rural."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La crónica latinoamericana combina estética, denuncia y memoria cultural.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle-v10",
+      "statement": "Una buena \"entradilla\" o inicio de crónica debe:",
+      "context": "En Neiva, se redacta la entradilla de una crónica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Captar la atención del lector con una escena, dato sorprendente o frase impactante.",
+          "is_correct": true,
+          "feedback": "Invita a seguir leyendo."
+        },
+        {
+          "letter": "B",
+          "text": "Ser completamente neutra y fría.",
+          "is_correct": false,
+          "feedback": "Pierde fuerza narrativa."
+        },
+        {
+          "letter": "C",
+          "text": "Repetir el título.",
+          "is_correct": false,
+          "feedback": "Es redundante."
+        },
+        {
+          "letter": "D",
+          "text": "Evitar datos concretos.",
+          "is_correct": false,
+          "feedback": "El dato ancla la atención."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La entradilla es una promesa temática que engancha al lector.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle-v11",
+      "statement": "La subjetividad del cronista debe expresarse mediante:",
+      "context": "En clase en Bogotá, se analizan las subjetividades en la crónica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una mirada interpretativa que contextualice los hechos sin alterar la veracidad.",
+          "is_correct": true,
+          "feedback": "Subjetividad responsable y transparente."
+        },
+        {
+          "letter": "B",
+          "text": "Datos falsos para dramatizar.",
+          "is_correct": false,
+          "feedback": "Compromete la ética."
+        },
+        {
+          "letter": "C",
+          "text": "Eliminación de toda perspectiva.",
+          "is_correct": false,
+          "feedback": "La crónica admite la mirada."
+        },
+        {
+          "letter": "D",
+          "text": "Inclusión de rumores como hechos.",
+          "is_correct": false,
+          "feedback": "Falta rigor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La objetividad total es imposible; lo ético es declarar la perspectiva.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle-v12",
+      "statement": "El tiempo en una crónica se organiza generalmente:",
+      "context": "En Popayán, se estudia la temporalidad en la crónica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mezclando orden cronológico con flashbacks y pausas reflexivas.",
+          "is_correct": true,
+          "feedback": "El cronista controla el ritmo narrativo."
+        },
+        {
+          "letter": "B",
+          "text": "Solo en orden inverso.",
+          "is_correct": false,
+          "feedback": "Puede organizar según el interés."
+        },
+        {
+          "letter": "C",
+          "text": "Exclusivamente en futuro.",
+          "is_correct": false,
+          "feedback": "Es reconstrucción del pasado."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminando toda referencia temporal.",
+          "is_correct": false,
+          "feedback": "El tiempo es esencial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El manejo del tiempo enriquece la tensión narrativa de la crónica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle-v13",
+      "statement": "Una diferencia entre crónica y reportaje es:",
+      "context": "En clase en Tunja, se contrastan crónicas y reportajes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La crónica privilegia la voz narrativa; el reportaje prioriza la multiplicidad de voces y datos.",
+          "is_correct": true,
+          "feedback": "Son géneros complementarios."
+        },
+        {
+          "letter": "B",
+          "text": "El reportaje es ficción.",
+          "is_correct": false,
+          "feedback": "Ambos son no ficción."
+        },
+        {
+          "letter": "C",
+          "text": "La crónica carece de datos.",
+          "is_correct": false,
+          "feedback": "Los integra, pero con estilo."
+        },
+        {
+          "letter": "D",
+          "text": "No existen diferencias.",
+          "is_correct": false,
+          "feedback": "Hay diferencias claras."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La crónica y el reportaje comparten rigor pero difieren en su enfoque narrativo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle-v14",
+      "statement": "Un buen cierre de crónica debe:",
+      "context": "En Medellín, se evalúa el cierre de una crónica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dejar una reflexión, una imagen poderosa o una pregunta abierta al lector.",
+          "is_correct": true,
+          "feedback": "El cierre dialoga con la entradilla."
+        },
+        {
+          "letter": "B",
+          "text": "Ser una lista de datos sin más.",
+          "is_correct": false,
+          "feedback": "Pierde fuerza."
+        },
+        {
+          "letter": "C",
+          "text": "Cambiar radicalmente el tema.",
+          "is_correct": false,
+          "feedback": "Confunde la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Terminar abruptamente.",
+          "is_correct": false,
+          "feedback": "El cierre debe tener intención estética."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cierre consolida el sentido de la crónica y deja huella en el lector.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle-v15",
+      "statement": "¿Qué riesgo ético enfrenta una crónica sobre el conflicto armado?",
+      "context": "En Pereira, se revisan crónicas sobre el conflicto armado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Revictimizar a las personas afectadas y difundir información sin consentimiento.",
+          "is_correct": true,
+          "feedback": "La ética periodística exige cuidado."
+        },
+        {
+          "letter": "B",
+          "text": "No relatar nada de lo sucedido.",
+          "is_correct": false,
+          "feedback": "La memoria es importante."
+        },
+        {
+          "letter": "C",
+          "text": "Usar únicamente datos oficiales.",
+          "is_correct": false,
+          "feedback": "Se pueden contrastar fuentes."
+        },
+        {
+          "letter": "D",
+          "text": "Evitar nombres propios.",
+          "is_correct": false,
+          "feedback": "A veces son necesarios."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El periodismo ético protege la dignidad de las víctimas y verifica información sensible.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle-v16",
+      "statement": "El lenguaje de la crónica debe ser:",
+      "context": "En clase en Cali, se revisa el uso del lenguaje en la crónica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Claro, preciso y con ritmo, combinando registro coloquial y estándar según el contexto.",
+          "is_correct": true,
+          "feedback": "La lengua se adapta a los sujetos."
+        },
+        {
+          "letter": "B",
+          "text": "Siempre técnico y abstracto.",
+          "is_correct": false,
+          "feedback": "Pierde cercanía con el lector."
+        },
+        {
+          "letter": "C",
+          "text": "Exclusivamente poético.",
+          "is_correct": false,
+          "feedback": "Compromete la información."
+        },
+        {
+          "letter": "D",
+          "text": "Ininteligible para mostrar erudición.",
+          "is_correct": false,
+          "feedback": "Frena la comunicación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La crónica es un género híbrido que combina precisión y belleza expresiva.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.63,
+      "bundle_id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle-v17",
+      "statement": "Al evaluar una crónica, ¿qué criterio pondera la originalidad narrativa?",
+      "context": "En una jornada en Armenia, se premia la mejor crónica estudiantil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La capacidad de recrear la realidad con voz propia y estructura creativa.",
+          "is_correct": true,
+          "feedback": "Valora el estilo del cronista."
+        },
+        {
+          "letter": "B",
+          "text": "La extensión del texto.",
+          "is_correct": false,
+          "feedback": "La extensión no define originalidad."
+        },
+        {
+          "letter": "C",
+          "text": "La cantidad de cifras estadísticas.",
+          "is_correct": false,
+          "feedback": "No garantiza originalidad."
+        },
+        {
+          "letter": "D",
+          "text": "La ausencia de citas.",
+          "is_correct": false,
+          "feedback": "Las citas pueden enriquecer."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La originalidad narrativa distingue al cronista con voz propia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es la relevancia de la crónica periodística en la era digital?",
+      "context": "En un foro en Pasto, se reflexiona sobre el papel de la crónica actual.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Profundiza la información frente a la inmediatez, ofreciendo contexto y reflexión.",
+          "is_correct": true,
+          "feedback": "Contrarresta la superficialidad informativa."
+        },
+        {
+          "letter": "B",
+          "text": "Sustituye al periodismo digital por completo.",
+          "is_correct": false,
+          "feedback": "Convive con otros formatos."
+        },
+        {
+          "letter": "C",
+          "text": "Solo se publica en impreso.",
+          "is_correct": false,
+          "feedback": "Se adapta a plataformas digitales."
+        },
+        {
+          "letter": "D",
+          "text": "Pierde toda vigencia.",
+          "is_correct": false,
+          "feedback": "Sigue vigente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La crónica aporta análisis pausado y narrativa en tiempos de sobreinformación.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle-v19",
+      "statement": "La crónica cumple un papel importante en la construcción de memoria porque:",
+      "context": "En Sincelejo, se discute la crónica como memoria histórica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recoge testimonios, atmosferas y detalles que otros formatos suelen omitir.",
+          "is_correct": true,
+          "feedback": "Conserva la textura humana de los hechos."
+        },
+        {
+          "letter": "B",
+          "text": "Borra la historia.",
+          "is_correct": false,
+          "feedback": "La documenta."
+        },
+        {
+          "letter": "C",
+          "text": "Solo describe el presente.",
+          "is_correct": false,
+          "feedback": "Incluye pasado."
+        },
+        {
+          "letter": "D",
+          "text": "Evita nombrar lugares.",
+          "is_correct": false,
+          "feedback": "Los lugares son escenarios clave."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La crónica preserva la memoria cultural con sensibilidad narrativa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle-v20",
+      "statement": "¿Qué responsabilidad ética principal asume el cronista?",
+      "context": "En un cierre en Manizales, se debate la responsabilidad del cronista.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Respetar la verdad, proteger a las fuentes vulnerables y ofrecer contexto.",
+          "is_correct": true,
+          "feedback": "La ética guía todo el proceso."
+        },
+        {
+          "letter": "B",
+          "text": "Inventar historias para atraer lectores.",
+          "is_correct": false,
+          "feedback": "Viola la ética periodística."
+        },
+        {
+          "letter": "C",
+          "text": "Publicar sin verificar.",
+          "is_correct": false,
+          "feedback": "Es irresponsable."
+        },
+        {
+          "letter": "D",
+          "text": "Copiar notas de otros sin citar.",
+          "is_correct": false,
+          "feedback": "Es plagio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cronista equilibra arte y compromiso ético con la verdad y la dignidad humana.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-2026-W35-cronica-periodistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

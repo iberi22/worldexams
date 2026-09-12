@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "uy",
+    "pack_id": "uy-week-12-grade-11-subject-matematicas",
+    "generated_at": "2026-09-12T16:46:07.966Z"
+  },
+  "questions": [
+    {
+      "id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v1",
+      "statement": "¿A cuántos radianes equivalen $180^\\circ$?",
+      "context": "Un docente de Montevideo introduce la conversión entre grados sexagesimales y radianes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{\\pi}{2}\\text{ rad}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\frac{\\pi}{2}$ equivale a $90^\\circ$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\pi\\text{ rad}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! La equivalencia fundamental es $180^\\circ = \\pi\\text{ rad}$."
+        },
+        {
+          "letter": "C",
+          "text": "$2\\pi\\text{ rad}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $2\\pi\\text{ rad}$ equivale a una vuelta completa ($360^\\circ$)."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{\\pi}{4}\\text{ rad}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\frac{\\pi}{4}$ equivale a $45^\\circ$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Por definición de radián, un ángulo llano de $180^\\circ$ corresponde exactamente a un arco de longitud igual a $\\pi$ en la circunferencia unitaria.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la relación pitagórica fundamental entre el seno y el coseno de un mismo ángulo $\\theta$?",
+      "context": "Un grupo de estudiantes de Salto repasa la identidad pitagórica fundamental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sin(\\theta) + \\cos(\\theta) = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma de las funciones sin elevar al cuadrado no es constante 1."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sin^2(\\theta) + \\cos^2(\\theta) = 1$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es la identidad pitagórica trigonométrica fundamental derivada del Teorema de Pitágoras en el círculo unitario."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sin^2(\\theta) - \\cos^2(\\theta) = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\cos^2(\\theta) - \\sin^2(\\theta) = \\cos(2\\theta)$, no 1."
+        },
+        {
+          "letter": "D",
+          "text": "$\\tan^2(\\theta) + 1 = \\sin^2(\\theta)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La identidad correcta con tangente es $\\tan^2(\\theta) + 1 = \\sec^2(\\theta)$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el círculo trigonométrico unitario $x^2 + y^2 = 1$, con $x = \\cos(\\theta)$ e $y = \\sin(\\theta)$, al aplicar el Teorema de Pitágoras obtenemos $\\sin^2(\\theta) + \\cos^2(\\theta) = 1$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el valor de $\\sin(30^\\circ)$ o $\\sin\\left(\\frac{\\pi}{6}\\right)$?",
+      "context": "En Maldonado se evalúa el valor exacto del seno para un ángulo notable.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{\\sqrt{3}}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de $\\cos(30^\\circ)$ o $\\sin(60^\\circ)$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\sin(30^\\circ) = 0.5$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{\\sqrt{2}}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de $\\sin(45^\\circ)$."
+        },
+        {
+          "letter": "D",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de $\\sin(90^\\circ)$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En un triángulo rectángulo de ángulos $30^\\circ-60^\\circ-90^\\circ$, el cateto opuesto al ángulo de $30^\\circ$ mide exactamente la mitad de la hipotenusa, por lo que $\\sin(30^\\circ) = \\frac{1}{2}$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v4",
+      "statement": "¿En qué cuadrante son positivos TANTO el seno COMO el coseno?",
+      "context": "Una estudiante de Rivera observa los signos de las funciones trigonométricas por cuadrante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primer cuadrante (I)",
+          "is_correct": true,
+          "feedback": "¡Correcto! En el I cuadrante, $x > 0$ y $y > 0$, luego $\\cos(\\theta) > 0$ y $\\sin(\\theta) > 0$."
+        },
+        {
+          "letter": "B",
+          "text": "Segundo cuadrante (II)",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el II cuadrante el coseno es negativo ($x < 0$)."
+        },
+        {
+          "letter": "C",
+          "text": "Tercer cuadrante (III)",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el III cuadrante tanto seno como coseno son negativos."
+        },
+        {
+          "letter": "D",
+          "text": "Cuarto cuadrante (IV)",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el IV cuadrante el seno es negativo ($y < 0$)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que $\\cos(\\theta) = x$ y $\\sin(\\theta) = y$ en la circunferencia unitaria, ambas coordenadas son estrictamente positivas en el primer cuadrante ($x > 0, y > 0$).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v5",
+      "statement": "Si $\\sin(\\theta) = \\frac{3}{5}$ y $\\cos(\\theta) = \\frac{4}{5}$, ¿cuál es el valor de $\\tan(\\theta)$?",
+      "context": "Un taller de navegación en Colonia utiliza la definición de la tangente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{4}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación $\\frac{\\cos}{\\sin}$; esa es la cotangente."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{3}{4}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\tan(\\theta) = \\frac{\\sin(\\theta)}{\\cos(\\theta)} = \\frac{3/5}{4/5} = \\frac{3}{4}$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{5}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la cosecante $\\frac{1}{\\sin(\\theta)}$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{12}{25}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste seno y coseno en lugar de dividirlos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tangente se define como el cociente entre el seno y el coseno del mismo ángulo: $\\tan(\\theta) = \\frac{\\sin(\\theta)}{\\cos(\\theta)} = \\frac{3/5}{4/5} = \\frac{3}{4}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el período de la función $f(x) = \\sin(2x)$?",
+      "context": "Un estudiante de Paysandú calcula el período de una función seno modificada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $2\\pi$ es el período de la función seno básica $\\sin(x)$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\pi$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El período de $\\sin(kx)$ es $T = \\frac{2\\pi}{k}$. Para $k=2$, $T = \\frac{2\\pi}{2} = \\pi$."
+        },
+        {
+          "letter": "C",
+          "text": "$4\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste por $k$ en lugar de dividir."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{\\pi}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste entre $k^2$ o cometiste un error de cálculo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El período estándar del seno es $2\\pi$. Cuando el argumento se multiplica por la frecuencia angular $k = 2$, la función se comprime horizontalmente a la mitad, de modo que su período es $T = \\frac{2\\pi}{k} = \\frac{2\\pi}{2} = \\pi$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v7",
+      "statement": "Sabiendo que $\\cos(2\\theta) = \\cos^2(\\theta) - \\sin^2(\\theta)$, si $\\cos(\\theta) = \\frac{\\sqrt{3}}{2}$ y $\\sin(\\theta) = \\frac{1}{2}$, ¿cuánto vale $\\cos(2\\theta)$?",
+      "context": "En Canelones se aplica la fórmula del coseno del ángulo doble.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\left(\\frac{\\sqrt{3}}{2}\\right)^2 - \\left(\\frac{1}{2}\\right)^2 = \\frac{3}{4} - \\frac{1}{4} = \\frac{2}{4} = \\frac{1}{2}$."
+        },
+        {
+          "letter": "B",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las fracciones en lugar de restarlas."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{\\sqrt{3}}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Repetiste el valor de $\\cos(\\theta)$."
+        },
+        {
+          "letter": "D",
+          "text": "$0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La resta $\\frac{3}{4} - \\frac{1}{4}$ da $\\frac{1}{2}$, no 0."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sustituyendo los valores: $\\cos^2(\\theta) = \\left(\\frac{\\sqrt{3}}{2}\\right)^2 = \\frac{3}{4}$ y $\\sin^2(\\theta) = \\left(\\frac{1}{2}\\right)^2 = \\frac{1}{4}$. La diferencia es $\\frac{3}{4} - \\frac{1}{4} = \\frac{2}{4} = \\frac{1}{2}$. Corresponde a $\\cos(60^\\circ) = \\frac{1}{2}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v8",
+      "statement": "¿Cuáles son las soluciones de la ecuación $\\sin(x) = \\frac{1}{2}$ para $x \\in [0, 2\\pi)$?",
+      "context": "Un estudiante de Rocha resuelve una ecuación trigonométrica básica en el intervalo $[0, 2\\pi)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = \\frac{\\pi}{6}$ solamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Existe una segunda solución en el segundo cuadrante."
+        },
+        {
+          "letter": "B",
+          "text": "$x = \\frac{\\pi}{6}$ y $x = \\frac{5\\pi}{6}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El seno es positivo en el I y II cuadrante, $x = \\frac{\\pi}{6}$ y $x = \\pi - \\frac{\\pi}{6} = \\frac{5\\pi}{6}$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = \\frac{\\pi}{3}$ y $x = \\frac{2\\pi}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para estos ángulos el seno vale $\\frac{\\sqrt{3}}{2}$."
+        },
+        {
+          "letter": "D",
+          "text": "$x = \\frac{7\\pi}{6}$ y $x = \\frac{11\\pi}{6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el III y IV cuadrante el seno es negativo ($-\\frac{1}{2}$)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El seno vale $\\frac{1}{2}$ en el primer cuadrante para $x = 30^\\circ = \\frac{\\pi}{6}$. Dado que el seno también es positivo en el II cuadrante, la otra solución es $x = 180^\\circ - 30^\\circ = 150^\\circ = \\frac{5\\pi}{6}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v9",
+      "statement": "En un triángulo, el lado $a = 10\\text{ cm}$ se opone a un ángulo $A = 30^\\circ$. Si el ángulo $B = 45^\\circ$, ¿cuál es la longitud del lado $b$?",
+      "context": "Un grupo de Tacuarembó aplica el Teorema del Seno en un triángulo oblicuángulo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10\\text{ cm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lados opuestos a ángulos distintos tienen longitudes distintas."
+        },
+        {
+          "letter": "B",
+          "text": "$10\\sqrt{2}\\text{ cm}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Por ley de senos $\\frac{a}{\\sin A} = \\frac{b}{\\sin B} \\Rightarrow \\frac{10}{1/2} = \\frac{b}{\\sqrt{2}/2} \\Rightarrow 20 = \\frac{2b}{\\sqrt{2}} \\Rightarrow b = 10\\sqrt{2}$."
+        },
+        {
+          "letter": "C",
+          "text": "$5\\sqrt{2}\\text{ cm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar por 2 al despejar la proporción."
+        },
+        {
+          "letter": "D",
+          "text": "$20\\text{ cm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $20$ es el valor del diámetro del círculo circunscrito $\\frac{a}{\\sin A}$, no de $b$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicando la Ley de los Senos: $\\frac{a}{\\sin(A)} = \\frac{b}{\\sin(B)} \\Rightarrow \\frac{10}{\\sin(30^\\circ)} = \\frac{b}{\\sin(45^\\circ)} \\Rightarrow \\frac{10}{0.5} = \\frac{b}{\\sqrt{2}/2} \\Rightarrow 20 = \\frac{b}{\\sqrt{2}/2} \\Rightarrow b = 20 \\cdot \\frac{\\sqrt{2}}{2} = 10\\sqrt{2}\\text{ cm}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v10",
+      "statement": "En un triángulo con lados $b = 3$, $c = 5$ y ángulo comprendido $A = 60^\\circ$, ¿cuál es la longitud del lado $a$?",
+      "context": "Una estudiante de San José utiliza el Teorema del Coseno para calcular un lado desconocido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. 4 sería si el triángulo fuera rectángulo ($3^2+4^2=5^2$), pero $A = 60^\\circ$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt{19}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $a^2 = b^2 + c^2 - 2bc \\cos A = 9 + 25 - 2(3)(5)(0.5) = 34 - 15 = 19 \\Rightarrow a = \\sqrt{19}$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{34}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste el término de la resta $-2bc \\cos A$."
+        },
+        {
+          "letter": "D",
+          "text": "19",
+          "is_correct": false,
+          "feedback": "Incorrecto. 19 es $a^2$, falta extraer la raíz cuadrada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Por la Ley del Coseno: $a^2 = b^2 + c^2 - 2bc \\cos(A) = 3^2 + 5^2 - 2(3)(5)\\cos(60^\\circ) = 9 + 25 - 30(0.5) = 34 - 15 = 19$. Por tanto, $a = \\sqrt{19} \\approx 4.36$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v11",
+      "statement": "Sabiendo que $75^\\circ = 45^\\circ + 30^\\circ$, ¿cuál es el valor exacto de $\\sin(75^\\circ)$?",
+      "context": "En Minas se analiza la suma de ángulos para hallar el valor exacto de $\\sin(75^\\circ)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{\\sqrt{3} + 1}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste que los denominadores al multiplicar $\\frac{\\sqrt{2}}{2}$ y $\\frac{1}{2}$ dan 4."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{\\sqrt{6} + \\sqrt{2}}{4}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\sin(45^\\circ+30^\\circ) = \\sin 45^\\circ \\cos 30^\\circ + \\cos 45^\\circ \\sin 30^\\circ = \\frac{\\sqrt{2}}{2}\\frac{\\sqrt{3}}{2} + \\frac{\\sqrt{2}}{2}\\frac{1}{2} = \\frac{\\sqrt{6}+\\sqrt{2}}{4}$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{\\sqrt{6} - \\sqrt{2}}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la fórmula para $\\sin(15^\\circ) = \\sin(45^\\circ - 30^\\circ)$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{\\sqrt{2} + \\sqrt{3}}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\sqrt{2} \\cdot \\sqrt{3} = \\sqrt{6}$, no $\\sqrt{3}$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usando la identidad del seno de la suma: $\\sin(\\alpha + \\beta) = \\sin\\alpha \\cos\\beta + \\cos\\alpha \\sin\\beta$.\n$\\sin(45^\\circ + 30^\\circ) = \\left(\\frac{\\sqrt{2}}{2}\\right)\\left(\\frac{\\sqrt{3}}{2}\\right) + \\left(\\frac{\\sqrt{2}}{2}\\right)\\left(\\frac{1}{2}\\right) = \\frac{\\sqrt{6}}{4} + \\frac{\\sqrt{2}}{4} = \\frac{\\sqrt{6} + \\sqrt{2}}{4}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v12",
+      "statement": "¿A qué expresión equivale $\\frac{1 - \\cos^2(x)}{\\sin(x) \\cdot \\cos(x)}$ para todos los valores donde está definida?",
+      "context": "Un estudiante de Melo simplifica una expresión trigonométrica usando identidades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\cos(x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $1 - \\cos^2(x) = \\sin^2(x)$, al simplificar queda $\\frac{\\sin(x)}{\\cos(x)} = \\tan(x)$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\tan(x)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Sustituyendo $1 - \\cos^2(x) = \\sin^2(x)$, la fracción queda $\\frac{\\sin^2(x)}{\\sin(x)\\cos(x)} = \\frac{\\sin(x)}{\\cos(x)} = \\tan(x)$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\cot(x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cotangente es $\\frac{\\cos(x)}{\\sin(x)}$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sin(x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste el factor $\\cos(x)$ en el denominador."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Por la identidad fundamental, $1 - \\cos^2(x) = \\sin^2(x)$.\nSustituyendo en la expresión: $\\frac{\\sin^2(x)}{\\sin(x)\\cos(x)} = \\frac{\\sin(x)}{\\cos(x)} = \\tan(x)$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v13",
+      "statement": "¿En cuáles de los siguientes puntos presenta la función $f(x) = \\tan(x)$ sus asíntotas verticales?",
+      "context": "En Florida se investigan las asíntotas verticales de la función tangente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = k\\pi$, con $k \\in \\mathbb{Z}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son los ceros de la tangente, donde $\\sin(x) = 0$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = \\frac{\\pi}{2} + k\\pi$, con $k \\in \\mathbb{Z}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! La tangente no está definida donde $\\cos(x) = 0$, que ocurre en los múltiplos impares de $\\frac{\\pi}{2}$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = \\frac{\\pi}{4} + 2k\\pi$, con $k \\in \\mathbb{Z}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $\\frac{\\pi}{4}$ la tangente vale 1 y es perfectamente continua."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 2k\\pi$, con $k \\in \\mathbb{Z}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En los múltiplos pares de $\\pi$, la tangente vale 0."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Como $\\tan(x) = \\frac{\\sin(x)}{\\cos(x)}$, las asíntotas verticales ocurren donde el denominador es cero, es decir, donde $\\cos(x) = 0$. Esto sucede en $x = \\frac{\\pi}{2} + k\\pi$ para cualquier entero $k$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es la amplitud máxima de la función $g(t) = 3\\sin(\\omega t) + 4\\cos(\\omega t)$?",
+      "context": "Un proyecto de física náutica en Punta del Este estudia ondas compuestas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma simple de coeficientes $3 + 4 = 7$ solo se alcanzaría si ambos picos coincidieran, lo cual no ocurre."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "¡Correcto! La combinación $a\\sin(\\theta) + b\\cos(\\theta)$ se puede expresar como $R\\sin(\\theta + \\phi)$, con $R = \\sqrt{a^2 + b^2} = \\sqrt{3^2 + 4^2} = 5$."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1 es la amplitud de las funciones básicas sin escalar."
+        },
+        {
+          "letter": "D",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste los coeficientes $3 \\times 4$ en lugar de usar la suma pitagórica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Toda combinación lineal $a\\sin(x) + b\\cos(x)$ puede escribirse como $R\\sin(x + \\theta)$, donde la amplitud resultante es $R = \\sqrt{a^2 + b^2}$. Aquí $R = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.48,
+      "bundle_id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v15",
+      "statement": "¿Cuántas soluciones tiene la ecuación $2\\cos^2(x) - \\cos(x) - 1 = 0$ en el intervalo $[0, 2\\pi)$?",
+      "context": "Una estudiante de Treinta y Tres resuelve una ecuación cuadrática trigonométrica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 solución",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay más de una solución en la primera vuelta."
+        },
+        {
+          "letter": "B",
+          "text": "3 soluciones",
+          "is_correct": true,
+          "feedback": "¡Correcto! Factorizando $(2\\cos x + 1)(\\cos x - 1) = 0 \\Rightarrow \\cos x = 1$ (1 solución: $0$) o $\\cos x = -\\frac{1}{2}$ (2 soluciones: $\\frac{2\\pi}{3}, \\frac{4\\pi}{3}$). Total = 3."
+        },
+        {
+          "letter": "C",
+          "text": "2 soluciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste la solución correspondiente a $\\cos(x) = 1$ o una de las de $-\\frac{1}{2}$."
+        },
+        {
+          "letter": "D",
+          "text": "4 soluciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\cos(x) = 1$ solo aporta una solución en $[0, 2\\pi)$, que es $x = 0$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Haciendo $u = \\cos(x)$, resolvemos $2u^2 - u - 1 = 0 \\Rightarrow (2u + 1)(u - 1) = 0$.\n1) $u = 1 \\Rightarrow \\cos(x) = 1 \\Rightarrow x = 0$ (1 solución).\n2) $u = -\\frac{1}{2} \\Rightarrow \\cos(x) = -\\frac{1}{2} \\Rightarrow x = \\frac{2\\pi}{3}, \\frac{4\\pi}{3}$ (2 soluciones).\nEn total hay $1 + 2 = 3$ soluciones en $[0, 2\\pi)$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es la fórmula para calcular el área $A$ de cualquier triángulo conocidos dos lados $a, b$ y el ángulo entre ellos $C$?",
+      "context": "En Fray Bentos se analiza el área de un triángulo en función de dos lados y el ángulo comprendido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$A = a \\cdot b \\cdot \\sin(C)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste el factor $\\frac{1}{2}$."
+        },
+        {
+          "letter": "B",
+          "text": "$A = \\frac{1}{2} a \\cdot b \\cdot \\sin(C)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! La altura correspondiente al lado $a$ es $h = b \\sin C$, por lo que Área $= \\frac{1}{2} \\text{base} \\times \\text{altura} = \\frac{1}{2} a b \\sin C$."
+        },
+        {
+          "letter": "C",
+          "text": "$A = \\frac{1}{2} a \\cdot b \\cdot \\cos(C)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La altura utiliza la función seno, no coseno."
+        },
+        {
+          "letter": "D",
+          "text": "$A = \\frac{a^2 + b^2}{2} \\sin(C)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el producto de los lados $a \\cdot b$, no la suma de sus cuadrados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Tomando $a$ como base, la altura relativa a esa base es $h = b \\sin(C)$. Aplicando la fórmula clásica del área de un triángulo $\\frac{1}{2}\\text{base} \\cdot \\text{altura}$, resulta $A = \\frac{1}{2} a b \\sin(C)$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v17",
+      "statement": "Se observan dos puntos $B$ y $C$ desde una base $A$. Se mide $AB = 100\\text{ m}$, $AC = 150\\text{ m}$ y el ángulo $\\angle BAC = 120^\\circ$. ¿Cuál es la distancia exacta entre $B$ y $C$?",
+      "context": "Un equipo de topografía en Montevideo calcula la distancia entre dos puntos inaccesibles usando el teorema de los senos y cosenos en un cuadrilátero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$50\\sqrt{19}\\text{ m}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $BC^2 = 100^2 + 150^2 - 2(100)(150)\\cos(120^\\circ) = 10000 + 22500 - 30000(-0.5) = 32500 + 15000 = 47500 \\Rightarrow BC = \\sqrt{47500} = 50\\sqrt{19}$."
+        },
+        {
+          "letter": "B",
+          "text": "$250\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste directamente las distancias $100 + 150$, lo que violaría la desigualdad triangular."
+        },
+        {
+          "letter": "C",
+          "text": "$50\\sqrt{7}\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste $\\cos(120^\\circ) = +0.5$ en lugar de $-0.5$."
+        },
+        {
+          "letter": "D",
+          "text": "$100\\sqrt{3}\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo en la aplicación del coseno de ángulo obtuso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicando la Ley del Coseno con $\\cos(120^\\circ) = -\\frac{1}{2}$:\n$BC^2 = 100^2 + 150^2 - 2(100)(150)(-0.5) = 10000 + 22500 + 15000 = 47500$.\nSimplificando el radical: $BC = \\sqrt{47500} = \\sqrt{2500 \\times 19} = 50\\sqrt{19}\\text{ m} \\approx 217.94\\text{ m}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es el valor simplificado de la expresión $\\cos(10^\\circ) \\cdot \\cos(50^\\circ) \\cdot \\cos(70^\\circ)$?",
+      "context": "En un curso avanzado de Durazno se simplifica una suma trigonométrica telescópica o transformación de producto a suma.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se requiere aplicar la identidad $\\cos(\\theta)\\cos(60^\\circ-\\theta)\\cos(60^\\circ+\\theta) = \\frac{1}{4}\\cos(3\\theta)$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{\\sqrt{3}}{8}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Usando $\\cos(\\theta)\\cos(60^\\circ-\\theta)\\cos(60^\\circ+\\theta) = \\frac{1}{4}\\cos(3\\theta)$ con $\\theta = 10^\\circ$: $\\frac{1}{4}\\cos(30^\\circ) = \\frac{1}{4}\\left(\\frac{\\sqrt{3}}{2}\\right) = \\frac{\\sqrt{3}}{8}$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{8}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar por $\\cos(30^\\circ) = \\frac{\\sqrt{3}}{2}$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{\\sqrt{3}}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Faltó dividir entre 2 adicionalmente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Utilizamos la identidad conocida $\\cos(x)\\cos(60^\\circ - x)\\cos(60^\\circ + x) = \\frac{1}{4}\\cos(3x)$.\nTomando $x = 10^\\circ$:\n$\\cos(10^\\circ)\\cos(50^\\circ)\\cos(70^\\circ) = \\frac{1}{4}\\cos(30^\\circ) = \\frac{1}{4} \\cdot \\frac{\\sqrt{3}}{2} = \\frac{\\sqrt{3}}{8}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es el valor exacto de $\\arctan(1) + \\arctan(2) + \\arctan(3)$?",
+      "context": "Un estudiante de Rivera demuestra una identidad avanzada para las funciones inversas trigonométricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{\\pi}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\arctan(1) = \\frac{\\pi}{4}$, y la suma de los tres términos supera $\\frac{\\pi}{2}$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\pi$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\arctan(1) = \\frac{\\pi}{4}$. Usando la fórmula de la suma para $\\arctan(2) + \\arctan(3) = \\pi + \\arctan\\left(\\frac{2+3}{1-6}\\right) = \\pi + \\arctan(-1) = \\pi - \\frac{\\pi}{4} = \\frac{3\\pi}{4}$. Sumando $\\frac{\\pi}{4} + \\frac{3\\pi}{4} = \\pi$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{3\\pi}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sobreestimaste el valor de las arcotangentes."
+        },
+        {
+          "letter": "D",
+          "text": "$2\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $2\\pi$ corresponde a una vuelta completa en radianes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "1) Sabemos que $\\arctan(1) = \\frac{\\pi}{4}$.\n2) Para $\\arctan(2) + \\arctan(3)$, como $x y = 2 \\times 3 = 6 > 1$, se aplica:\n   $\\arctan(x) + \\arctan(y) = \\pi + \\arctan\\left(\\frac{x+y}{1-xy}\\right) = \\pi + \\arctan\\left(\\frac{5}{-5}\\right) = \\pi + \\arctan(-1) = \\pi - \\frac{\\pi}{4} = \\frac{3\\pi}{4}$.\n3) Sumando todo: $\\frac{\\pi}{4} + \\frac{3\\pi}{4} = \\pi$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v20",
+      "statement": "¿Cuántas soluciones reales tiene la ecuación $\\sin(x) + \\cos(x) = \\sqrt{2}\\sin(2x)$ en el intervalo $[0, 2\\pi)$?",
+      "context": "Un seminario académico en Salto analiza las soluciones de la ecuación trigonométrica $\\sin(x) + \\cos(x) = \\sqrt{2}\\sin(2x)$ en $[0, 2\\pi)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 soluciones",
+          "is_correct": true,
+          "feedback": "¡Correcto! Escribiendo $\\sin x + \\cos x = \\sqrt{2}\\sin(x + \\frac{\\pi}{4})$, la ecuación es $\\sqrt{2}\\sin(x + \\frac{\\pi}{4}) = \\sqrt{2}\\sin(2x) \\Rightarrow \\sin(x + \\frac{\\pi}{4}) = \\sin(2x)$. En $[0, 2\\pi)$ esto genera 4 soluciones válidas."
+        },
+        {
+          "letter": "B",
+          "text": "2 soluciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pasaste por alto las soluciones provenientes de la relación de ángulos suplementarios."
+        },
+        {
+          "letter": "C",
+          "text": "6 soluciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contaste soluciones fuera del intervalo $[0, 2\\pi)$."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna solución",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí existen valores en $[0, 2\\pi)$ que satisfacen la ecuación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "1) Expresamos la suma como $\\sin(x) + \\cos(x) = \\sqrt{2}\\sin\\left(x + \\frac{\\pi}{4}\\right)$.\n2) La ecuación se transforma en $\\sqrt{2}\\sin\\left(x + \\frac{\\pi}{4}\\right) = \\sqrt{2}\\sin(2x) \\Rightarrow \\sin\\left(x + \\frac{\\pi}{4}\\right) = \\sin(2x)$.\n3) Dos senos son iguales si sus argumentos difieren en $2k\\pi$ o si son suplementarios ($2x = \\pi - (x + \\pi/4) + 2k\\pi$).\n4) Resolviendo ambas familias para $x \\in [0, 2\\pi)$, se obtienen exactamente 4 soluciones distintas: $x = \\frac{\\pi}{4}, \\frac{\\pi}{12}, \\frac{3\\pi}{4}, \\frac{17\\pi}{12}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "UY-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    }
+  ]
+}

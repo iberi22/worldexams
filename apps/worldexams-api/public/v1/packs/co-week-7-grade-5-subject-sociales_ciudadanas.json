@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-7-grade-5-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-12T16:46:07.602Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-5-2026-W07-fiestas-tradiciones-colombianas-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes es una fiesta tradicional del Caribe colombiano?",
+      "context": "En clase de sociales en Barranquilla, la profesora explica la importancia de las fiestas en la cultura colombiana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Carnaval de Barranquilla.",
+          "is_correct": true,
+          "feedback": "El Carnaval de Barranquilla es una de las fiestas más representativas del Caribe colombiano."
+        },
+        {
+          "letter": "B",
+          "text": "La Fiesta de las Flores en Antioquia.",
+          "is_correct": false,
+          "feedback": "La Fiesta de las Flores se realiza en Medellín, Antioquia, no en el Caribe."
+        },
+        {
+          "letter": "C",
+          "text": "La Feria de las Velas en Boyacá.",
+          "is_correct": false,
+          "feedback": "La Feria de las Velas se celebra en municipios boyacenses, no en el Caribe."
+        },
+        {
+          "letter": "D",
+          "text": "El Festival de la Cultura Wayúu.",
+          "is_correct": false,
+          "feedback": "Aunque existe el Festival de la Cultura Wayúu, el Carnaval de Barranquilla es la fiesta más emblemática del Caribe."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer las principales fiestas tradicionales colombianas según su región.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.89,
+      "bundle_id": "CO-SOC-5-2026-W07-fiestas-tradiciones-colombianas-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W07-fiestas-tradiciones-colombianas-001-MASTERY-bundle-v2",
+      "statement": "¿Qué refleja la mezcla cultural presente en el Carnaval de Barranquilla?",
+      "context": "Lee: \"El Carnaval de Barranquilla mezcla tradiciones indígenas, africanas y europeas. Sus danzas, disfraces y comparsas muestran la diversidad del Caribe.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La diversidad étnica y cultural de Colombia, especialmente del Caribe.",
+          "is_correct": true,
+          "feedback": "El Carnaval refleja la mezcla de pueblos indígenas, africanos y europeos del Caribe."
+        },
+        {
+          "letter": "B",
+          "text": "Que en Barranquilla solo habitan personas europeas.",
+          "is_correct": false,
+          "feedback": "La población barranquillera es diversa, no exclusivamente europea."
+        },
+        {
+          "letter": "C",
+          "text": "Que las tradiciones indígenas ya no existen en la región.",
+          "is_correct": false,
+          "feedback": "Las tradiciones indígenas siguen presentes en la cultura regional."
+        },
+        {
+          "letter": "D",
+          "text": "Que las fiestas son iguales en todas las ciudades del mundo.",
+          "is_correct": false,
+          "feedback": "Cada fiesta tiene rasgos únicos de su cultura local."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender la diversidad cultural reflejada en las fiestas tradicionales colombianas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.84,
+      "bundle_id": "CO-SOC-5-2026-W07-fiestas-tradiciones-colombianas-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W07-fiestas-tradiciones-colombianas-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de los siguientes elementos es típico de la Fiesta de las Flores?",
+      "context": "Un grupo de estudiantes investiga sobre la Fiesta de las Flores en Medellín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los silleteros, los arreglos florales y los desfiles por las calles de Medellín.",
+          "is_correct": true,
+          "feedback": "La Fiesta de las Flores se caracteriza por los silleteros y desfiles con flores."
+        },
+        {
+          "letter": "B",
+          "text": "Las procesiones en el río Magdalena.",
+          "is_correct": false,
+          "feedback": "Las procesiones en el río son típicas de otras fiestas, no de la Fiesta de las Flores."
+        },
+        {
+          "letter": "C",
+          "text": "Las competencias de nieve en alta montaña.",
+          "is_correct": false,
+          "feedback": "La Fiesta de las Flores se realiza en Medellín y no incluye competencias de nieve."
+        },
+        {
+          "letter": "D",
+          "text": "Las carrozas acuáticas en el mar Caribe.",
+          "is_correct": false,
+          "feedback": "Las carrozas acuáticas no son típicas de la Fiesta de las Flores."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificar los elementos culturales que caracterizan una fiesta tradicional colombiana.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-5-2026-W07-fiestas-tradiciones-colombianas-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W07-fiestas-tradiciones-colombianas-001-MASTERY-bundle-v4",
+      "statement": "¿Por qué las fiestas tradicionales son una expresión de identidad cultural?",
+      "context": "Lee: \"Las fiestas tradicionales colombianas suelen reunir música, danza, gastronomía y vestuarios típicos que reflejan la identidad de cada región.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque reunen elementos propios de cada región como música, danza, gastronomía y vestuarios.",
+          "is_correct": true,
+          "feedback": "Estos elementos resumen la historia, los saberes y el sentir de cada comunidad."
+        },
+        {
+          "letter": "B",
+          "text": "Porque son exactamente iguales en todas las regiones del país.",
+          "is_correct": false,
+          "feedback": "Las fiestas cambian de una región a otra; cada una tiene rasgos propios."
+        },
+        {
+          "letter": "C",
+          "text": "Porque solo se celebran en la capital del país.",
+          "is_correct": false,
+          "feedback": "Las fiestas tradicionales se celebran en muchas regiones, no solo en la capital."
+        },
+        {
+          "letter": "D",
+          "text": "Porque no incluyen ninguna expresión artística.",
+          "is_correct": false,
+          "feedback": "Las fiestas tradicionales se caracterizan por integrar diversas expresiones artísticas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el concepto de identidad cultural a partir de los elementos de las fiestas tradicionales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.71,
+      "bundle_id": "CO-SOC-5-2026-W07-fiestas-tradiciones-colombianas-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W07-fiestas-tradiciones-colombianas-001-MASTERY-bundle-v5",
+      "statement": "¿Qué valor principal aporta a una comunidad la realización de sus fiestas tradicionales?",
+      "context": "En Nariño, la comunidad prepara la Fiesta de los Pastos con música, danza y platos típicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fortalecer la cohesión social, la memoria histórica y el sentido de pertenencia.",
+          "is_correct": true,
+          "feedback": "Las fiestas refuerzan los lazos comunitarios y la identidad del grupo."
+        },
+        {
+          "letter": "B",
+          "text": "Generar peleas entre los vecinos por diferencias políticas.",
+          "is_correct": false,
+          "feedback": "Aunque pueden surgir diferencias, las fiestas no buscan generar peleas."
+        },
+        {
+          "letter": "C",
+          "text": "Sustituir las responsabilidades escolares de los niños.",
+          "is_correct": false,
+          "feedback": "Las fiestas se suman a la vida escolar, no la reemplazan."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminar las tradiciones gastronómicas locales.",
+          "is_correct": false,
+          "feedback": "Las fiestas tradicionales suelen preservar la gastronomía local."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer el aporte social y cultural de las fiestas tradicionales para una comunidad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.66,
+      "bundle_id": "CO-SOC-5-2026-W07-fiestas-tradiciones-colombianas-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W07-fiestas-tradiciones-colombianas-001-MASTERY-bundle-v6",
+      "statement": "¿Qué diferencia cultural muestran estas dos fiestas colombianas?",
+      "context": "Compara: \"La Semana Santa en Popayán se vive con procesiones solemnes y plegarias silenciosas. El Carnaval de Barranquilla se vive con música, baile y comparsas alegres.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una tiene un carácter solemne y religioso, mientras la otra es festivo y alegre.",
+          "is_correct": true,
+          "feedback": "La Semana Santa es solemne y religiosa; el Carnaval es festivo y colorido."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos fiestas son idénticas en su forma de celebrarse.",
+          "is_correct": false,
+          "feedback": "La solemnidad de Popayán contrasta con la alegría del Carnaval de Barranquilla."
+        },
+        {
+          "letter": "C",
+          "text": "Solo el Carnaval expresa la cultura colombiana.",
+          "is_correct": false,
+          "feedback": "Tanto la Semana Santa como el Carnaval son expresiones culturales válidas."
+        },
+        {
+          "letter": "D",
+          "text": "La Semana Santa se celebra únicamente en otros países.",
+          "is_correct": false,
+          "feedback": "La Semana Santa en Popayán es una celebración tradicional colombiana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar el carácter y los elementos de distintas fiestas tradicionales colombianas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.58,
+      "bundle_id": "CO-SOC-5-2026-W07-fiestas-tradiciones-colombianas-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W07-fiestas-tradiciones-colombianas-001-MASTERY-bundle-v7",
+      "statement": "¿Qué relación hay entre el origen de las fiestas y la vida cotidiana de las comunidades?",
+      "context": "Lee: \"Las fiestas tradicionales colombianas suelen tener un origen religioso, agrícola o histórico, ligado a la vida cotidiana de las comunidades.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las fiestas reflejan actividades cotidianas como cosechas, creencias religiosas o hechos históricos locales.",
+          "is_correct": true,
+          "feedback": "Las tradiciones festivas surgen de la vida rural, religiosa e histórica de cada región."
+        },
+        {
+          "letter": "B",
+          "text": "Las fiestas son ajenas a la vida diaria de las personas.",
+          "is_correct": false,
+          "feedback": "Las fiestas están profundamente ligadas a la vida cotidiana de las comunidades."
+        },
+        {
+          "letter": "C",
+          "text": "Las fiestas solo existen para vender productos comerciales.",
+          "is_correct": false,
+          "feedback": "Aunque hay un componente económico, las fiestas tienen raíces culturales profundas."
+        },
+        {
+          "letter": "D",
+          "text": "Las fiestas siempre reemplazan las actividades escolares.",
+          "is_correct": false,
+          "feedback": "Las fiestas se suman a la vida escolar, no la sustituyen."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar el origen histórico, religioso o agrícola de las fiestas tradicionales colombianas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.52,
+      "bundle_id": "CO-SOC-5-2026-W07-fiestas-tradiciones-colombianas-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W07-fiestas-tradiciones-colombianas-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué es importante que los estudiantes colombianos conozcan y respeten las fiestas tradicionales del país?",
+      "context": "Lee: 'Conocer y valorar las fiestas tradicionales colombianas permite reconocer la diversidad cultural del país, fortalecer la identidad nacional y promover el respeto entre las regiones.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque valoran la diversidad cultural, fortalecen la identidad y promueven el respeto entre regiones.",
+          "is_correct": true,
+          "feedback": "Conocer las fiestas enriquece la identidad y fomenta la convivencia entre pueblos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las fiestas tradicionales no tienen relación con la identidad del país.",
+          "is_correct": false,
+          "feedback": "Las fiestas son una expresión directa de la identidad cultural colombiana."
+        },
+        {
+          "letter": "C",
+          "text": "Porque solo se deben celebrar las fiestas de la propia región.",
+          "is_correct": false,
+          "feedback": "Aunque se valore la propia región, también se debe respetar la diversidad."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las fiestas tradicionales deben sustituirse por festividades extranjeras.",
+          "is_correct": false,
+          "feedback": "Las fiestas extranjeras no deben reemplazar las tradiciones locales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la importancia de respetar y difundir las fiestas tradicionales colombianas para la convivencia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.31,
+      "bundle_id": "CO-SOC-5-2026-W07-fiestas-tradiciones-colombianas-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

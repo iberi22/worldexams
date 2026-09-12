@@ -1,0 +1,747 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-2-grade-5-subject-ingles",
+    "generated_at": "2026-09-12T16:46:07.457Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-5-2026-W02-colors-numbers-1-100-001-MASTERY-bundle-v1",
+      "statement": "Which color in English corresponds to the color of ripe Colombian bananas?",
+      "context": "A fifth-grade student in Pereira paints a mural of Colombian landscapes for English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yellow.",
+          "is_correct": true,
+          "feedback": "Ripe bananas are yellow, and \"yellow\" is the English word for that color."
+        },
+        {
+          "letter": "B",
+          "text": "Purple.",
+          "is_correct": false,
+          "feedback": "Purple is the color of eggplants, not ripe bananas."
+        },
+        {
+          "letter": "C",
+          "text": "Gray.",
+          "is_correct": false,
+          "feedback": "Gray is the color of clouds or elephant skin, not bananas."
+        },
+        {
+          "letter": "D",
+          "text": "Orange.",
+          "is_correct": false,
+          "feedback": "Orange is the color of carrots and oranges, not bananas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Recognizing basic color words in English (yellow, purple, gray, orange) associated with everyday objects.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.91,
+      "bundle_id": "CO-ING-5-2026-W02-colors-numbers-1-100-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W02-colors-numbers-1-100-001-MASTERY-bundle-v2",
+      "statement": "What is the English word for the color you get when you mix blue and yellow?",
+      "context": "A teacher writes on the board: \"blue + yellow = green\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Green.",
+          "is_correct": true,
+          "feedback": "Mixing blue and yellow produces the color green in English."
+        },
+        {
+          "letter": "B",
+          "text": "Red.",
+          "is_correct": false,
+          "feedback": "Red is a primary color, not a mix of blue and yellow."
+        },
+        {
+          "letter": "C",
+          "text": "Pink.",
+          "is_correct": false,
+          "feedback": "Pink is a lighter shade of red, unrelated to blue + yellow."
+        },
+        {
+          "letter": "D",
+          "text": "Brown.",
+          "is_correct": false,
+          "feedback": "Brown usually comes from mixing red, yellow, and blue, not just blue + yellow."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Understanding basic color theory associations using the English color vocabulary.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.86,
+      "bundle_id": "CO-ING-5-2026-W02-colors-numbers-1-100-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W02-colors-numbers-1-100-001-MASTERY-bundle-v3",
+      "statement": "How do you write the number \"ten\" in digits?",
+      "context": "A student counts how many pencils there are in a classroom in Bucaramanga: \"one, two, three... ten pencils in total.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10.",
+          "is_correct": true,
+          "feedback": "The cardinal number ten is written with the digits 1 and 0."
+        },
+        {
+          "letter": "B",
+          "text": "100.",
+          "is_correct": false,
+          "feedback": "100 is \"one hundred\", not \"ten\"."
+        },
+        {
+          "letter": "C",
+          "text": "12.",
+          "is_correct": false,
+          "feedback": "12 is \"twelve\", not \"ten\"."
+        },
+        {
+          "letter": "D",
+          "text": "1.",
+          "is_correct": false,
+          "feedback": "1 is \"one\", not \"ten\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Connecting spoken cardinal numbers from one to ten with their numerical symbols in English.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.77,
+      "bundle_id": "CO-ING-5-2026-W02-colors-numbers-1-100-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W02-colors-numbers-1-100-001-MASTERY-bundle-v4",
+      "statement": "Which number corresponds to the word \"fifty\"?",
+      "context": "Read the price tag: \"This notebook costs fifty pesos (COP 50).\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50.",
+          "is_correct": true,
+          "feedback": "Fifty equals five times ten and is written as the two-digit number 50."
+        },
+        {
+          "letter": "B",
+          "text": "15.",
+          "is_correct": false,
+          "feedback": "15 is \"fifteen\", not \"fifty\"."
+        },
+        {
+          "letter": "C",
+          "text": "5.",
+          "is_correct": false,
+          "feedback": "5 is \"five\", not \"fifty\"."
+        },
+        {
+          "letter": "D",
+          "text": "500.",
+          "is_correct": false,
+          "feedback": "500 is \"five hundred\", not \"fifty\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Recognizing tens (twenty, thirty, forty, fifty, sixty...) by linking the spoken word to the digit.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-5-2026-W02-colors-numbers-1-100-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W02-colors-numbers-1-100-001-MASTERY-bundle-v5",
+      "statement": "How do you say the number 75 in English?",
+      "context": "A teacher writes: \"100 - 25 = 75\" and asks students to read the result in English.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seventy-five.",
+          "is_correct": true,
+          "feedback": "75 is read as \"seventy-five\" following the tens + ones structure."
+        },
+        {
+          "letter": "B",
+          "text": "Sixty-five.",
+          "is_correct": false,
+          "feedback": "65 is \"sixty-five\", not \"seventy-five\"."
+        },
+        {
+          "letter": "C",
+          "text": "Fifty-seven.",
+          "is_correct": false,
+          "feedback": "57 is \"fifty-seven\", not 75."
+        },
+        {
+          "letter": "D",
+          "text": "Seven hundred five.",
+          "is_correct": false,
+          "feedback": "705 would be \"seven hundred five\", a different number."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Forming compound numbers between twenty-one and ninety-nine in English (tens + hyphens + ones).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.66,
+      "bundle_id": "CO-ING-5-2026-W02-colors-numbers-1-100-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W02-colors-numbers-1-100-001-MASTERY-bundle-v6",
+      "statement": "How many pieces of fruit in total are on the table, and what color are most of them?",
+      "context": "Read: \"There are three red apples, five yellow bananas, and ten green grapes on the table.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18 pieces of fruit in total, and most are green grapes.",
+          "is_correct": true,
+          "feedback": "3 + 5 + 10 = 18 fruits, and grapes (10) are the most numerous."
+        },
+        {
+          "letter": "B",
+          "text": "8 pieces of fruit, all of them yellow.",
+          "is_correct": false,
+          "feedback": "The total is 18, not 8, and the fruits have different colors."
+        },
+        {
+          "letter": "C",
+          "text": "18 pieces of fruit, all of them red.",
+          "is_correct": false,
+          "feedback": "The fruits are red, yellow, and green, not all red."
+        },
+        {
+          "letter": "D",
+          "text": "15 pieces of fruit, mostly yellow bananas.",
+          "is_correct": false,
+          "feedback": "The total is 18 (3 + 5 + 10), not 15, and grapes are the most numerous."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analyzing numerical and color information from a short descriptive English text.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.58,
+      "bundle_id": "CO-ING-5-2026-W02-colors-numbers-1-100-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W02-colors-numbers-1-100-001-MASTERY-bundle-v7",
+      "statement": "Which statement is true based on the information?",
+      "context": "Two students compare colored pencils: \"I have twenty-five pencils: ten blue, eight red, and seven green.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The student has 10 blue, 8 red, and 7 green pencils, totaling 25.",
+          "is_correct": true,
+          "feedback": "10 + 8 + 7 = 25 pencils distributed in three colors, which matches the text."
+        },
+        {
+          "letter": "B",
+          "text": "The student has 7 blue, 8 red, and 10 green pencils, totaling 25.",
+          "is_correct": false,
+          "feedback": "The text states 10 blue and 7 green, so this swaps the quantities incorrectly."
+        },
+        {
+          "letter": "C",
+          "text": "The student has 25 pencils, all of them red.",
+          "is_correct": false,
+          "feedback": "The pencils are blue, red, and green, not only red."
+        },
+        {
+          "letter": "D",
+          "text": "The student has 25 pencils with no green ones.",
+          "is_correct": false,
+          "feedback": "The text clearly says seven green pencils are included."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Distinguishing accurate statements from inaccurate ones using numerical and color data in English.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-5-2026-W02-colors-numbers-1-100-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W02-colors-numbers-1-100-001-MASTERY-bundle-v8",
+      "statement": "Why is it important to learn the colors of a traffic light in English?",
+      "context": "Read: 'In a traffic light, the top light is red, the middle light is yellow, and the bottom light is green. Red means stop, yellow means get ready, and green means go.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Because knowing the colors and their meanings keeps people safe on the road.",
+          "is_correct": true,
+          "feedback": "Traffic light colors signal actions that protect drivers and pedestrians."
+        },
+        {
+          "letter": "B",
+          "text": "Because traffic lights are decorative and have no real meaning.",
+          "is_correct": false,
+          "feedback": "Traffic lights have a critical safety function, not just decorative value."
+        },
+        {
+          "letter": "C",
+          "text": "Because only red lights exist in real life.",
+          "is_correct": false,
+          "feedback": "Traffic lights include red, yellow, and green, not only red."
+        },
+        {
+          "letter": "D",
+          "text": "Because drivers can ignore them if they know English.",
+          "is_correct": false,
+          "feedback": "Ignoring traffic lights is dangerous and illegal, regardless of language knowledge."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluating the practical importance of color vocabulary for everyday situations like traffic safety.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-5-2026-W02-colors-numbers-1-100-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W02-daily-routines-001-MASTERY-bundle-v1",
+      "statement": "What activity does Mateo do first after waking up? \"Every morning I wake up at 6:00 a.m. Then I _____ my teeth.\"",
+      "context": "Mateo describes what he does every morning before going to school in Bogota.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "brush.",
+          "is_correct": true,
+          "feedback": "\"Brush my teeth\" is the standard phrase for dental hygiene in daily routines."
+        },
+        {
+          "letter": "B",
+          "text": "cook.",
+          "is_correct": false,
+          "feedback": "\"Cook\" refers to preparing food, not brushing teeth."
+        },
+        {
+          "letter": "C",
+          "text": "fly.",
+          "is_correct": false,
+          "feedback": "\"Fly\" is not a human morning hygiene activity."
+        },
+        {
+          "letter": "D",
+          "text": "sleep.",
+          "is_correct": false,
+          "feedback": "\"Sleep\" happens before waking up, not after waking up."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Vocabulary for common morning hygiene routines in English.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.89,
+      "bundle_id": "CO-ING-5-2026-W02-daily-routines-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W02-daily-routines-001-MASTERY-bundle-v2",
+      "statement": "At what time of the day does Sara eat breakfast?",
+      "context": "Read the routine sentence: \"Sara eats a delicious breakfast with fresh milk and bread at 7:00 a.m.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "In the morning.",
+          "is_correct": true,
+          "feedback": "7:00 a.m. corresponds to the morning hours."
+        },
+        {
+          "letter": "B",
+          "text": "In the evening.",
+          "is_correct": false,
+          "feedback": "Evening refers to late afternoon/night hours (p.m.)."
+        },
+        {
+          "letter": "C",
+          "text": "At midnight.",
+          "is_correct": false,
+          "feedback": "Midnight is 12:00 a.m. at night, not 7:00 a.m."
+        },
+        {
+          "letter": "D",
+          "text": "In the afternoon.",
+          "is_correct": false,
+          "feedback": "Afternoon is the period between noon (12:00 p.m.) and evening."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Associating times of day (a.m./p.m.) with daily meals and routines.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.86,
+      "bundle_id": "CO-ING-5-2026-W02-daily-routines-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W02-daily-routines-001-MASTERY-bundle-v3",
+      "statement": "Choose the correct verb form: \"Lucía _____ her homework at 4:00 p.m. every afternoon.\"",
+      "context": "Carlos is talking about his sister Lucía's daily schedule.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "does.",
+          "is_correct": true,
+          "feedback": "Third-person singular (Lucía / she) requires \"does\" in Simple Present."
+        },
+        {
+          "letter": "B",
+          "text": "do.",
+          "is_correct": false,
+          "feedback": "\"Do\" is used with I, you, we, they, not with third-person singular \"she\"."
+        },
+        {
+          "letter": "C",
+          "text": "doing.",
+          "is_correct": false,
+          "feedback": "\"Doing\" needs an auxiliary verb (is doing) for continuous tense."
+        },
+        {
+          "letter": "D",
+          "text": "done.",
+          "is_correct": false,
+          "feedback": "\"Done\" is the past participle form, not simple present."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Applying third-person singular conjugation rules (-s/-es/does) in Simple Present routines.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-5-2026-W02-daily-routines-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W02-daily-routines-001-MASTERY-bundle-v4",
+      "statement": "What does David do right after taking a shower?",
+      "context": "Look at the timeline: 6:30 a.m. Take a shower -> 7:00 a.m. Eat breakfast -> 7:30 a.m. Go to school.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He eats breakfast.",
+          "is_correct": true,
+          "feedback": "According to the timeline, 7:00 a.m. breakfast follows 6:30 a.m. shower."
+        },
+        {
+          "letter": "B",
+          "text": "He goes to school.",
+          "is_correct": false,
+          "feedback": "Going to school happens at 7:30 a.m., after eating breakfast."
+        },
+        {
+          "letter": "C",
+          "text": "He plays soccer.",
+          "is_correct": false,
+          "feedback": "Playing soccer is not listed on this morning timeline."
+        },
+        {
+          "letter": "D",
+          "text": "He goes to bed.",
+          "is_correct": false,
+          "feedback": "Going to bed is an evening activity, not a morning routine step."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sequencing daily routine events using chronological order clues.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-5-2026-W02-daily-routines-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W02-daily-routines-001-MASTERY-bundle-v5",
+      "statement": "Complete the sentence: \"We usually _____ the bus to go to school at 7:15 a.m.\"",
+      "context": "Two friends discuss how they travel to school every day in Cali.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "take.",
+          "is_correct": true,
+          "feedback": "\"Take the bus\" is the correct verb collocation for bus transportation."
+        },
+        {
+          "letter": "B",
+          "text": "drive.",
+          "is_correct": false,
+          "feedback": "Students take/ride the bus; the bus driver drives the bus."
+        },
+        {
+          "letter": "C",
+          "text": "sleep.",
+          "is_correct": false,
+          "feedback": "\"Sleep the bus\" is not a meaningful verb combination."
+        },
+        {
+          "letter": "D",
+          "text": "cook.",
+          "is_correct": false,
+          "feedback": "\"Cook\" is used for food, not transportation."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Using common collocations for transportation routines (take the bus, walk to school).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.69,
+      "bundle_id": "CO-ING-5-2026-W02-daily-routines-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W02-daily-routines-001-MASTERY-bundle-v6",
+      "statement": "How does Daniel's weekend routine differ from his weekday school routine?",
+      "context": "Read the paragraph: \"On weekends, Daniel does not wake up early. He sleeps until 9:00 a.m., has a late breakfast, and plays in the park with his dog.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He wakes up later on weekends than on school days.",
+          "is_correct": true,
+          "feedback": "Waking up at 9:00 a.m. shows he gets up later than on regular school mornings."
+        },
+        {
+          "letter": "B",
+          "text": "He goes to school on Sunday mornings.",
+          "is_correct": false,
+          "feedback": "The text mentions he plays in the park, not going to school."
+        },
+        {
+          "letter": "C",
+          "text": "He never eats breakfast on weekends.",
+          "is_correct": false,
+          "feedback": "The text specifies that he has a \"late breakfast\"."
+        },
+        {
+          "letter": "D",
+          "text": "He sleeps all day without waking up.",
+          "is_correct": false,
+          "feedback": "He wakes up at 9:00 a.m. and goes to the park."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analyzing contrasts between weekday and weekend routine descriptions in English.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-5-2026-W02-daily-routines-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W02-daily-routines-001-MASTERY-bundle-v7",
+      "statement": "Which response uses an appropriate frequency adverb for a healthy daily habit?",
+      "context": "Read the interview question: \"How often do you brush your teeth every day?\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"I always brush my teeth three times a day.\"",
+          "is_correct": true,
+          "feedback": "\"Always\" and \"three times a day\" express a consistent, healthy daily frequency."
+        },
+        {
+          "letter": "B",
+          "text": "\"I never brush my teeth during the week.\"",
+          "is_correct": false,
+          "feedback": "\"Never\" contradicts healthy personal hygiene practices."
+        },
+        {
+          "letter": "C",
+          "text": "\"I brush my teeth only once every year.\"",
+          "is_correct": false,
+          "feedback": "Brushing once a year is not a valid daily routine habit."
+        },
+        {
+          "letter": "D",
+          "text": "\"I always brushing my teeth yesterday.\"",
+          "is_correct": false,
+          "feedback": "\"Yesterday\" conflicts with simple present habits and contains grammar errors."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Using adverbs of frequency (always, usually, sometimes, never) to describe regular habits.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.53,
+      "bundle_id": "CO-ING-5-2026-W02-daily-routines-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W02-daily-routines-001-MASTERY-bundle-v8",
+      "statement": "What recommendation should be given to improve this student's daily routine?",
+      "context": "Read the advice column: \"Going to sleep at 11:30 p.m. and waking up at 5:00 a.m. leaves children tired during school classes. Children need 8 to 9 hours of sleep every night to concentrate well.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Go to bed earlier at night to get at least 8 hours of restful sleep.",
+          "is_correct": true,
+          "feedback": "Sleeping earlier ensures the recommended 8-9 hours of rest for learning."
+        },
+        {
+          "letter": "B",
+          "text": "Drink coffee at midnight to stay awake during morning classes.",
+          "is_correct": false,
+          "feedback": "Coffee late at night disrupts sleep quality and is unhealthy for children."
+        },
+        {
+          "letter": "C",
+          "text": "Skip breakfast and run to school as fast as possible.",
+          "is_correct": false,
+          "feedback": "Skipping breakfast decreases energy and concentration in class."
+        },
+        {
+          "letter": "D",
+          "text": "Watch television until 2:00 a.m. every weekday.",
+          "is_correct": false,
+          "feedback": "Watching TV until late reduces sleep time even further."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluating health and habit recommendations based on daily routine text information.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.32,
+      "bundle_id": "CO-ING-5-2026-W02-daily-routines-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}
