@@ -28,6 +28,10 @@ export interface CuentoPagina {
   readonly wordCount: number;
   readonly hint?: string;
   readonly words?: readonly string[];
+  /** C7.07: URL del MP3 de narración (`/audio/cuentos/<slug>/p<n>.mp3`) o ausente = fallback Web Speech. */
+  readonly audio?: string | null;
+  /** C7.07: offsets de inicio por palabra (segundos), 1:1 con las palabras de `texto`. */
+  readonly timings?: readonly number[];
 }
 
 export interface QuizOpcion {

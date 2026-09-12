@@ -61,11 +61,13 @@ La amistad es un gran tesoro.
     expect(tana!.titulo).toContain('Tana la tucán');
   });
 
-  it('loads detail for tana-tucan-comparte', async () => {
-    const detail = await getCuentoBySlug('tana-tucan-comparte');
+  it('loads detail for tana-tucan-comparte (pack normalizado a CuentoDetail)', async () => {
+    const detail: any = await getCuentoBySlug('tana-tucan-comparte');
     expect(detail).not.toBeNull();
     expect(detail?.slug).toBe('tana-tucan-comparte');
-    expect(detail?.paginasList.length).toBe(8);
-    expect(detail?.quiz.preguntas.length).toBe(3);
+    // packToDetail normaliza a UNA forma: paginasList + quiz.preguntas
+    expect(detail?.paginasList?.length).toBe(8);
+    const quizCount = Array.isArray(detail?.quiz) ? detail.quiz.length : detail?.quiz?.preguntas?.length;
+    expect(quizCount).toBe(3);
   });
 });
