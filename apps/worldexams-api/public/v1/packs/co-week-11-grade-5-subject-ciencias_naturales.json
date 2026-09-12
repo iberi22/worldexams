@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-11-grade-5-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T15:41:45.187Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-5-2026-W11-fuerza-y-movimiento-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es una fuerza en física?",
+      "context": "En un parque de Medellín, Santiago empuja un columpio y Valentina hala una cuerda para mover una carretilla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una acción de empujar o halar que puede mover un objeto o cambiar su forma.",
+          "is_correct": true,
+          "feedback": "Empujar y halar son ejemplos de fuerza que cambian el movimiento o la forma de los objetos."
+        },
+        {
+          "letter": "B",
+          "text": "Un tipo de energía que solo existe dentro de las baterías.",
+          "is_correct": false,
+          "feedback": "La fuerza no vive solo en las baterías; es una interacción que empuj a o hala objetos."
+        },
+        {
+          "letter": "C",
+          "text": "El peso de un objeto medido siempre en litros.",
+          "is_correct": false,
+          "feedback": "El peso se relaciona con la gravedad, pero la fuerza se describe como empujar o halar, no en litros."
+        },
+        {
+          "letter": "D",
+          "text": "Un sonido fuerte que producen las máquinas al encenderse.",
+          "is_correct": false,
+          "feedback": "El sonido de una máquina no es una fuerza; la fuerza es la acción que mueve o detiene algo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Recordar que la fuerza es una acción de empujar o halar que puede iniciar, detener o deformar un objeto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-5-2026-W11-fuerza-y-movimiento-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W11-fuerza-y-movimiento-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué los dos objetos caen al suelo y no se quedan flotando en el aire?",
+      "context": "En una escuela de Cali, la profesora deja caer al mismo tiempo un borrador y una pelota desde la altura del escritorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la gravedad de la Tierra los atrae hacia el suelo.",
+          "is_correct": true,
+          "feedback": "La gravedad atrae todos los objetos hacia el centro de la Tierra, por eso caen."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el aire los empuja hacia abajo con una cuerda invisible.",
+          "is_correct": false,
+          "feedback": "El aire no tiene cuerdas; lo que atrae los objetos hacia abajo es la gravedad."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los objetos pesan tanto que rompen el aire.",
+          "is_correct": false,
+          "feedback": "Los objetos no rompen el aire; caen por la atracción de la gravedad."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el suelo tiene un imán que solo atrae borradores y pelotas.",
+          "is_correct": false,
+          "feedback": "El suelo no tiene un imán especial; la gravedad actúa sobre todos los objetos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender que la gravedad es la fuerza que atrae los objetos hacia la Tierra y explica la caída libre.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-5-2026-W11-fuerza-y-movimiento-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W11-fuerza-y-movimiento-001-MASTERY-bundle-v3",
+      "statement": "¿Qué efecto tiene la fricción en este caso y qué debería hacer Camilo para no resbalarse?",
+      "context": "Después de un aguacero en Barranquilla, Camilo debe cruzar el patio mojado del colegio con zapatos de suela lisa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fricción entre la suela y el piso mojado es muy pequeña, por eso debe caminar despacio y con pasos cortos.",
+          "is_correct": true,
+          "feedback": "Con poca fricción hay menos agarre, así que caminar despacio evita resbalones."
+        },
+        {
+          "letter": "B",
+          "text": "La fricción aumenta mucho con el agua, por eso puede correr sin ningún riesgo.",
+          "is_correct": false,
+          "feedback": "El agua reduce la fricción entre la suela y el piso, no la aumenta."
+        },
+        {
+          "letter": "C",
+          "text": "La fricción desaparece por completo y los zapatos flotan sobre el agua.",
+          "is_correct": false,
+          "feedback": "La fricción disminuye pero no desaparece; los zapatos siguen en contacto con el piso."
+        },
+        {
+          "letter": "D",
+          "text": "La fricción solo existe en pisos secos y no tiene nada que ver con caerse.",
+          "is_correct": false,
+          "feedback": "La fricción existe en pisos secos y mojados, y su disminución explica los resbalones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el concepto de fricción para explicar el agarre entre superficies y decidir cómo moverse con seguridad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CN-5-2026-W11-fuerza-y-movimiento-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W11-fuerza-y-movimiento-001-MASTERY-bundle-v4",
+      "statement": "Si Mariana mantiene siempre la misma rapidez en línea recta, ¿qué tipo de movimiento describe y cuál es su rapidez?",
+      "context": "Mariana recorre en su patineta una ciclorruta recta de Medellín: avanza 60 metros en 20 segundos sin cambiar de dirección.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Movimiento rectilíneo uniforme, con una rapidez de 3 metros por segundo.",
+          "is_correct": true,
+          "feedback": "Recorrer 60 metros en 20 segundos en línea recta y con rapidez constante es un movimiento rectilíneo uniforme de 3 metros por segundo."
+        },
+        {
+          "letter": "B",
+          "text": "Movimiento circular, con una rapidez de 80 metros por segundo.",
+          "is_correct": false,
+          "feedback": "No hay giro ni curva, y la rapidez se calcula dividiendo 60 entre 20, no sumando."
+        },
+        {
+          "letter": "C",
+          "text": "Movimiento de vaivén, con una rapidez de 20 metros por segundo.",
+          "is_correct": false,
+          "feedback": "No hay ida y vuelta; además 20 es el tiempo, no la rapidez."
+        },
+        {
+          "letter": "D",
+          "text": "Caída libre, con una rapidez de 60 metros por segundo.",
+          "is_correct": false,
+          "feedback": "No está cayendo desde lo alto; avanza en línea recta sobre la ciclorruta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la relación entre distancia y tiempo para identificar un movimiento rectilíneo simple y calcular su rapidez.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-5-2026-W11-fuerza-y-movimiento-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W11-fuerza-y-movimiento-001-MASTERY-bundle-v5",
+      "statement": "¿Por qué la carretilla, que funciona como una palanca, le facilita el trabajo a don Ernesto?",
+      "context": "Don Ernesto usa una carretilla para llevar bultos de papa que cuestan 45 000 pesos COP en una plaza de mercado de Cali.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque con menos fuerza en los mangos puede levantar una carga pesada que está cerca de la rueda.",
+          "is_correct": true,
+          "feedback": "La palanca multiplica la fuerza aplicada: un esfuerzo pequeño levanta una carga grande."
+        },
+        {
+          "letter": "B",
+          "text": "Porque elimina por completo el peso de los bultos de papa.",
+          "is_correct": false,
+          "feedback": "El peso de los bultos sigue existiendo; la palanca solo reduce el esfuerzo necesario."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la rueda de la carretilla produce gasolina para mover la carga sola.",
+          "is_correct": false,
+          "feedback": "La carretilla no tiene motor ni produce combustible; la fuerza la hace la persona."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la carretilla cambia los bultos de papa por objetos más livianos.",
+          "is_correct": false,
+          "feedback": "La carga sigue siendo la misma; lo que cambia es la fuerza necesaria para moverla."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el funcionamiento de la palanca como máquina simple que reduce el esfuerzo para mover cargas pesadas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CN-5-2026-W11-fuerza-y-movimiento-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W11-fuerza-y-movimiento-001-MASTERY-bundle-v6",
+      "statement": "¿Qué explica la diferencia en el movimiento del bloque sobre las dos superficies?",
+      "context": "Compara: \"Un bloque de madera se desliza fácil sobre una mesa lisa de vidrio, pero se frena rápido sobre una lija áspera. En ambos casos se empuja con la misma fuerza.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La lija produce mayor fricción que el vidrio, por eso frena más el bloque.",
+          "is_correct": true,
+          "feedback": "Las superficies ásperas generan más fricción y se oponen con más fuerza al deslizamiento."
+        },
+        {
+          "letter": "B",
+          "text": "El vidrio produce mayor fricción que la lija, por eso el bloque se detiene antes.",
+          "is_correct": false,
+          "feedback": "Es al contrario: el vidrio liso genera menos fricción y deja deslizar mejor el bloque."
+        },
+        {
+          "letter": "C",
+          "text": "La gravedad solo actúa sobre la lija y no sobre el vidrio.",
+          "is_correct": false,
+          "feedback": "La gravedad actúa sobre el bloque en ambos casos; lo que cambia es la fricción de la superficie."
+        },
+        {
+          "letter": "D",
+          "text": "El bloque cambia su peso según la superficie donde se apoya.",
+          "is_correct": false,
+          "feedback": "El peso del bloque es el mismo; lo que varía es la fuerza de fricción entre superficies."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar cómo la rugosidad de las superficies determina la magnitud de la fricción y el movimiento de los objetos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CN-5-2026-W11-fuerza-y-movimiento-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W11-fuerza-y-movimiento-001-MASTERY-bundle-v7",
+      "statement": "¿Por qué el ayudante que usa la tabla larga hace menos esfuerzo aunque recorra más distancia?",
+      "context": "Lee: \"Para subir un bulto de arroz de 50 kilos al camión, dos ayudantes lo cargan directo en brazos, mientras otro ayudante usa una tabla larga apoyada en el camión como rampa.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el plano inclinado reparte el esfuerzo en un recorrido más largo y la fuerza necesaria es menor.",
+          "is_correct": true,
+          "feedback": "La rampa alarga el camino pero reduce la fuerza para subir la misma carga a la misma altura."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la tabla elimina la gravedad y el bulto deja de pesar.",
+          "is_correct": false,
+          "feedback": "La gravedad sigue actuando; la rampa solo disminuye la fuerza requerida, no el peso."
+        },
+        {
+          "letter": "C",
+          "text": "Porque cargar en brazos siempre es más rápido y exige menos fuerza que usar una rampa.",
+          "is_correct": false,
+          "feedback": "Cargar en brazos exige levantar todo el peso de una vez, por eso requiere más fuerza."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la tabla corta el bulto en pedazos más livianos.",
+          "is_correct": false,
+          "feedback": "El bulto sigue intacto; la rampa no divide la carga, solo facilita subirla."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar el plano inclinado como máquina simple que sacrifica distancia para ganar fuerza al subir objetos pesados.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.52,
+      "bundle_id": "CO-CN-5-2026-W11-fuerza-y-movimiento-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W11-fuerza-y-movimiento-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál propuesta es la mejor si se quiere que el carrito recorra buena distancia con seguridad y por qué?",
+      "context": "Lee: 'En una feria escolar de Medellín, tres grupos proponen una pista para carritos: el grupo A propone una rampa muy empinada y lisa; el grupo B propone una pista plana y áspera de lija; el grupo C propone una rampa de pendiente suave con superficie lisa y una zona de frenado con tela gruesa al final.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La del grupo C, porque la pendiente suave permite el movimiento por gravedad y la zona de frenado con fricción detiene el carrito con seguridad.",
+          "is_correct": true,
+          "feedback": "Esta propuesta equilibra la gravedad que mueve el carrito y la fricción que lo detiene de forma controlada."
+        },
+        {
+          "letter": "B",
+          "text": "La del grupo A, porque una rampa muy empinada siempre es la más segura y la más lenta.",
+          "is_correct": false,
+          "feedback": "Una rampa muy empinada da demasiada velocidad y hace difícil frenar el carrito."
+        },
+        {
+          "letter": "C",
+          "text": "La del grupo B, porque en una pista plana y áspera el carrito avanza más lejos sin detenerse.",
+          "is_correct": false,
+          "feedback": "En una pista plana el carrito no recibe impulso por pendiente y la lija lo frena muy pronto."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna propuesta sirve porque la gravedad y la fricción no afectan a los carritos.",
+          "is_correct": false,
+          "feedback": "La gravedad y la fricción sí determinan la velocidad, la distancia y el frenado de los carritos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar diseños que combinan gravedad, fricción y máquinas simples para lograr un movimiento rápido y a la vez seguro.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.38,
+      "bundle_id": "CO-CN-5-2026-W11-fuerza-y-movimiento-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,747 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-10-grade-5-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-12T15:41:45.218Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-5-2026-W10-departamentos-capitales-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la capital de Colombia y cómo se organiza el país en divisiones político-administrativas?",
+      "context": "En clase de sociales en Popayán, la profesora explica cómo se organiza políticamente el territorio colombiano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bogotá es la capital, y el país se organiza en 32 departamentos, cada uno con su propia capital.",
+          "is_correct": true,
+          "feedback": "Colombia tiene 32 departamentos y un distrito capital."
+        },
+        {
+          "letter": "B",
+          "text": "Medellín es la capital y el país tiene 10 departamentos.",
+          "is_correct": false,
+          "feedback": "Medellín es capital de Antioquia, no del país, y hay más de 10 departamentos."
+        },
+        {
+          "letter": "C",
+          "text": "Cartagena es la capital y no existen los departamentos.",
+          "is_correct": false,
+          "feedback": "Cartagena no es la capital y los departamentos sí existen."
+        },
+        {
+          "letter": "D",
+          "text": "Cali es la capital y solo hay un departamento.",
+          "is_correct": false,
+          "feedback": "Cali no es la capital del país y hay muchos departamentos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer la capital de Colombia y la organización general en departamentos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-5-2026-W10-departamentos-capitales-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W10-departamentos-capitales-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué cada departamento tiene una capital y una identidad propias?",
+      "context": "Lee: \"Antioquia es un departamento cuya capital es Medellín. Boyacá es otro departamento y su capital es Tunja. Cada departamento tiene su propia identidad cultural\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque Colombia es un país diverso, con regiones que tienen costumbres, climas y economías diferentes.",
+          "is_correct": true,
+          "feedback": "La diversidad regional justifica la organización en departamentos con capitales."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las capitales se eligen al azar en cada región.",
+          "is_correct": false,
+          "feedback": "Las capitales son ciudades designadas históricamente, no al azar."
+        },
+        {
+          "letter": "C",
+          "text": "Porque no existen relaciones entre los departamentos.",
+          "is_correct": false,
+          "feedback": "Los departamentos sí están conectados entre sí dentro del país."
+        },
+        {
+          "letter": "D",
+          "text": "Porque solo importa la capital, Bogotá.",
+          "is_correct": false,
+          "feedback": "Cada departamento tiene relevancia propia, no solo Bogotá."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender la relación entre la diversidad regional y la organización político-administrativa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.84,
+      "bundle_id": "CO-SOC-5-2026-W10-departamentos-capitales-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W10-departamentos-capitales-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la capital del departamento donde vive una persona que habita en Bucaramanga?",
+      "context": "En un mapa de Colombia, un estudiante debe ubicar los siguientes departamentos y capitales: Antioquia (Medellín), Valle del Cauca (Cali), Atlántico (Barranquilla) y Santander (Bucaramanga).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bucaramanga, porque es la capital del departamento de Santander.",
+          "is_correct": true,
+          "feedback": "Bucaramanga es la capital de Santander."
+        },
+        {
+          "letter": "B",
+          "text": "Medellín, porque es la capital más grande del país.",
+          "is_correct": false,
+          "feedback": "Medellín es capital de Antioquia, no de Santander."
+        },
+        {
+          "letter": "C",
+          "text": "Bogotá, porque es la capital del país.",
+          "is_correct": false,
+          "feedback": "Bogotá es la capital nacional, no la de Santander."
+        },
+        {
+          "letter": "D",
+          "text": "Cali, porque queda en el occidente colombiano.",
+          "is_correct": false,
+          "feedback": "Cali es capital del Valle del Cauca, no de Santander."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la relación departamento-capital para identificar correctamente la capital de Santander.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.76,
+      "bundle_id": "CO-SOC-5-2026-W10-departamentos-capitales-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W10-departamentos-capitales-001-MASTERY-bundle-v4",
+      "statement": "¿Qué tienen en común Pasto y Riohacha como capitales de sus departamentos?",
+      "context": "Observa el mapa: \"Nariño queda al sur, en la frontera con Ecuador, y su capital es Pasto. La Guajira queda al norte, en la costa Caribe, y su capital es Riohacha\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son las ciudades principales donde se concentran las decisiones políticas, económicas y culturales de su departamento.",
+          "is_correct": true,
+          "feedback": "Las capitales departamentales concentran funciones administrativas y culturales."
+        },
+        {
+          "letter": "B",
+          "text": "Son puertos marítimos internacionales.",
+          "is_correct": false,
+          "feedback": "Solo Riohacha queda en zona costera; Pasto es una ciudad andina."
+        },
+        {
+          "letter": "C",
+          "text": "Son la única ciudad de cada departamento.",
+          "is_correct": false,
+          "feedback": "En cada departamento hay muchos municipios, no solo la capital."
+        },
+        {
+          "letter": "D",
+          "text": "Son las ciudades más grandes del mundo.",
+          "is_correct": false,
+          "feedback": "Son capitales regionales, no las más grandes del mundo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el concepto de capital departamental para reconocer su papel en cada región.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.71,
+      "bundle_id": "CO-SOC-5-2026-W10-departamentos-capitales-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W10-departamentos-capitales-001-MASTERY-bundle-v5",
+      "statement": "¿Qué relación puede establecerse entre la región y su comida típica?",
+      "context": "En clase, los estudiantes investigan el plato típico de cada región: bandeja paisa (Antioquia), sancocho (varias regiones), mote de queso (Boyacá), cholado (Valle del Cauca).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cada región aprovecha productos propios del clima y del suelo para crear platos representativos.",
+          "is_correct": true,
+          "feedback": "La gastronomía refleja la geografía y la cultura regional."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los departamentos consumen exactamente los mismos alimentos.",
+          "is_correct": false,
+          "feedback": "Existen platos típicos distintos por región."
+        },
+        {
+          "letter": "C",
+          "text": "La comida típica se importa de otros países.",
+          "is_correct": false,
+          "feedback": "Los platos típicos son propios de cada región, no importados."
+        },
+        {
+          "letter": "D",
+          "text": "La geografía no influye en la alimentación.",
+          "is_correct": false,
+          "feedback": "El clima y el suelo sí determinan gran parte de la gastronomía."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la relación entre diversidad geográfica y manifestaciones culturales como la gastronomía.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-5-2026-W10-departamentos-capitales-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W10-departamentos-capitales-001-MASTERY-bundle-v6",
+      "statement": "¿Qué diferencia importante reflejan estas dos regiones en Colombia?",
+      "context": "Compara dos regiones: \"La región Andina concentra gran parte de la población y la economía colombiana, mientras que la región Amazónica tiene baja densidad de población y enormes bosques\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La región Andina tiene mayor población y actividad económica, mientras la Amazonia es menos poblada y más selvática.",
+          "is_correct": true,
+          "feedback": "La diferencia se debe a la geografía, el clima y la historia de poblamiento."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos regiones tienen exactamente la misma cantidad de habitantes.",
+          "is_correct": false,
+          "feedback": "La densidad poblacional es muy distinta entre ambas."
+        },
+        {
+          "letter": "C",
+          "text": "La Amazonia tiene más industrias que la región Andina.",
+          "is_correct": false,
+          "feedback": "La Andina concentra más industria, comercio y servicios."
+        },
+        {
+          "letter": "D",
+          "text": "La región Andina no tiene ciudades importantes.",
+          "is_correct": false,
+          "feedback": "Bogotá, Medellín y Cali están en la región Andina."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar las diferencias geográficas y demográficas entre regiones colombianas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.58,
+      "bundle_id": "CO-SOC-5-2026-W10-departamentos-capitales-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W10-departamentos-capitales-001-MASTERY-bundle-v7",
+      "statement": "¿Qué se deduce sobre la economía regional a partir de estos ejemplos?",
+      "context": "Observa: \"El café se cultiva principalmente en departamentos como Caldas, Risaralda y Quindío. La Guajira se destaca por la minería del carbón. Meta sobresale por la producción de petróleo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que cada región se especializa en productos según sus recursos naturales y condiciones geográficas.",
+          "is_correct": true,
+          "feedback": "La economía regional depende de los recursos y el entorno de cada zona."
+        },
+        {
+          "letter": "B",
+          "text": "Que solo el café se produce en todo el país.",
+          "is_correct": false,
+          "feedback": "Cada región tiene productos distintos y variados."
+        },
+        {
+          "letter": "C",
+          "text": "Que los departamentos no tienen relación con la economía.",
+          "is_correct": false,
+          "feedback": "Los departamentos son clave para la producción económica."
+        },
+        {
+          "letter": "D",
+          "text": "Que La Guajira no tiene actividad económica.",
+          "is_correct": false,
+          "feedback": "La Guajira aporta a la economía con la minería del carbón."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la relación entre los recursos naturales y las actividades económicas regionales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Globalización y comercio",
+      "expected_success": 0.52,
+      "bundle_id": "CO-SOC-5-2026-W10-departamentos-capitales-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W10-departamentos-capitales-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la mejor justificación de esta afirmación?",
+      "context": "Una estudiante comenta: \"Conocer los departamentos y capitales de Colombia es importante porque nos ayuda a entender mejor nuestro país y a respetarlo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque reconocer la diversidad de regiones, capitales y culturas fortalece la identidad nacional y el respeto por las diferencias.",
+          "is_correct": true,
+          "feedback": "El conocimiento del territorio promueve valoración y convivencia."
+        },
+        {
+          "letter": "B",
+          "text": "Porque así se puede dejar de hablar con personas de otras regiones.",
+          "is_correct": false,
+          "feedback": "Conocer el país no debe llevar al aislamiento, sino a la integración."
+        },
+        {
+          "letter": "C",
+          "text": "Porque conocer las capitales sirve únicamente para ganar premios.",
+          "is_correct": false,
+          "feedback": "El valor del conocimiento geográfico va más allá de premios."
+        },
+        {
+          "letter": "D",
+          "text": "Porque solo Bogotá merece ser conocida en Colombia.",
+          "is_correct": false,
+          "feedback": "Todas las regiones y capitales son importantes, no solo Bogotá."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la importancia de la diversidad regional para la identidad y la convivencia en Colombia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-5-2026-W10-departamentos-capitales-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W10-servicios-publicos-comunidad-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de los siguientes es un servicio público?",
+      "context": "En el barrio de Medellín donde vive Mariana, la profesora pregunta qué son los servicios públicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua potable que llega a las casas.",
+          "is_correct": true,
+          "feedback": "El agua potable es un servicio público que llega a los hogares de la comunidad."
+        },
+        {
+          "letter": "B",
+          "text": "El cuaderno que compra un estudiante en una papelería.",
+          "is_correct": false,
+          "feedback": "El cuaderno es un producto que se compra, no un servicio público."
+        },
+        {
+          "letter": "C",
+          "text": "Un juguete de una tienda del centro comercial.",
+          "is_correct": false,
+          "feedback": "El juguete es un artículo de venta, no un servicio público."
+        },
+        {
+          "letter": "D",
+          "text": "Una película en el cine del barrio.",
+          "is_correct": false,
+          "feedback": "Ir al cine es una actividad privada de entretenimiento, no un servicio público básico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer ejemplos de servicios públicos básicos que la comunidad recibe para satisfacer necesidades comunes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-5-2026-W10-servicios-publicos-comunidad-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W10-servicios-publicos-comunidad-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué es necesario pagar los recibos de los servicios públicos?",
+      "context": "Santiago le pregunta a su mamá por qué la familia paga un recibo por el agua y la energía que usa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque con ese dinero se mantienen las redes que llevan el agua y la energía a las casas.",
+          "is_correct": true,
+          "feedback": "El pago de los recibos permite sostener y mejorar la infraestructura de los servicios."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el agua y la energía se producen sin ningún costo ni trabajo.",
+          "is_correct": false,
+          "feedback": "Llevar el agua y la energía a los hogares implica costos y trabajo que se deben cubrir."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el pago hace que el agua deje de ser un recurso natural.",
+          "is_correct": false,
+          "feedback": "El agua sigue siendo un recurso natural; el pago cubre el servicio de llevarla."
+        },
+        {
+          "letter": "D",
+          "text": "Porque solo las familias ricas deben pagar por estos servicios.",
+          "is_correct": false,
+          "feedback": "En general, todas las familias que usan el servicio contribuyen a su sostenimiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender la relación entre el pago de los servicios públicos y el mantenimiento de las redes que benefician a la comunidad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-5-2026-W10-servicios-publicos-comunidad-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W10-servicios-publicos-comunidad-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la mejor forma de que la comunidad actúe para resolver el problema?",
+      "context": "En el municipio de Villavicencio, los vecinos notan que hace días no llega agua a sus casas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Organizarse para presentar una petición respetuosa ante la empresa y las autoridades del municipio.",
+          "is_correct": true,
+          "feedback": "En una democracia, los ciudadanos pueden pedir a las autoridades que atiendan sus necesidades."
+        },
+        {
+          "letter": "B",
+          "text": "Dejar de pagar los recibos sin avisar a nadie.",
+          "is_correct": false,
+          "feedback": "Dejar de pagar sin diálogo no resuelve el problema y puede afectar a más personas."
+        },
+        {
+          "letter": "C",
+          "text": "Bloquear las calles y dañar las tuberías del barrio.",
+          "is_correct": false,
+          "feedback": "Dañar bienes o bloquear no es una forma adecuada de resolver el problema."
+        },
+        {
+          "letter": "D",
+          "text": "Esperar en silencio a que el problema se arregle solo.",
+          "is_correct": false,
+          "feedback": "Organizarse y comunicar la necesidad ayuda más que esperar sin hacer nada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar formas de participación ciudadana para reclamar servicios públicos de manera respetuosa y organizada.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-5-2026-W10-servicios-publicos-comunidad-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W10-servicios-publicos-comunidad-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál acción ayuda a cuidar el agua y a mantener una buena convivencia?",
+      "context": "En el edificio de Bogotá donde vive Tomás, el agua se está acabando y los vecinos discuten por su uso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acordar entre todos horarios y formas de ahorrar agua, y cumplirlos.",
+          "is_correct": true,
+          "feedback": "Los acuerdos colectivos permiten cuidar el recurso y evitar conflictos entre vecinos."
+        },
+        {
+          "letter": "B",
+          "text": "Usar toda el agua posible antes de que se acabe.",
+          "is_correct": false,
+          "feedback": "Usar el agua sin control empeora la escasez y los problemas entre vecinos."
+        },
+        {
+          "letter": "C",
+          "text": "Culpar a un solo vecino por la falta de agua.",
+          "is_correct": false,
+          "feedback": "Culpar sin pruebas genera conflictos y no ayuda a solucionar la escasez."
+        },
+        {
+          "letter": "D",
+          "text": "Dejar las llaves abiertas para llenar las canecas de todos al mismo tiempo.",
+          "is_correct": false,
+          "feedback": "Dejar las llaves abiertas desperdicia el agua y agrava la situación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar acuerdos de convivencia para el uso responsable de un servicio público compartido.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.78,
+      "bundle_id": "CO-SOC-5-2026-W10-servicios-publicos-comunidad-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W10-servicios-publicos-comunidad-001-MASTERY-bundle-v5",
+      "statement": "¿Qué situación refleja esta comparación?",
+      "context": "Una estudiante compara dos zonas de su ciudad: en una llega agua todos los días, en la otra la reciben solo algunas horas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que no todas las comunidades reciben los servicios públicos en las mismas condiciones.",
+          "is_correct": true,
+          "feedback": "La comparación muestra una desigualdad en el acceso a un servicio básico."
+        },
+        {
+          "letter": "B",
+          "text": "Que el agua llega igual a todas las zonas de la ciudad.",
+          "is_correct": false,
+          "feedback": "El caso muestra lo contrario: hay diferencias entre las zonas."
+        },
+        {
+          "letter": "C",
+          "text": "Que la falta de agua se debe a que una zona no paga los recibos.",
+          "is_correct": false,
+          "feedback": "El texto no indica esa causa; la diferencia puede deberse a varias razones."
+        },
+        {
+          "letter": "D",
+          "text": "Que los servicios públicos no tienen ninguna relación con la igualdad.",
+          "is_correct": false,
+          "feedback": "El acceso a los servicios públicos es una cuestión relacionada con la igualdad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar desigualdades en el acceso a los servicios públicos y reconocer su relación con la equidad en la comunidad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-5-2026-W10-servicios-publicos-comunidad-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W10-servicios-publicos-comunidad-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el efecto principal de estas acciones para la familia y el ambiente?",
+      "context": "En la casa de Valentina en Pereira usan bombillas ahorradoras, cierran las llaves y apagan las luces que no necesitan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reducen el consumo de recursos naturales y el valor del recibo de los servicios.",
+          "is_correct": true,
+          "feedback": "Ahorrar energía y agua disminuye el uso de recursos y el costo del servicio."
+        },
+        {
+          "letter": "B",
+          "text": "Aumentan el gasto de energía y el valor del recibo.",
+          "is_correct": false,
+          "feedback": "Las acciones de ahorro hacen lo contrario: reducen el consumo y el gasto."
+        },
+        {
+          "letter": "C",
+          "text": "No tienen ningún efecto sobre el ambiente ni sobre el recibo.",
+          "is_correct": false,
+          "feedback": "Estas acciones sí reducen el consumo y, por lo tanto, el impacto ambiental y el costo."
+        },
+        {
+          "letter": "D",
+          "text": "Contaminan el agua y el aire de la ciudad.",
+          "is_correct": false,
+          "feedback": "El ahorro de agua y energía ayuda a evitar la contaminación, no la produce."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar cómo el uso responsable de los servicios públicos contribuye al cuidado de los recursos naturales y a la economía familiar.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.68,
+      "bundle_id": "CO-SOC-5-2026-W10-servicios-publicos-comunidad-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W10-servicios-publicos-comunidad-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la mejor valoración de esta propuesta?",
+      "context": "En un salón de Barranquilla se propone que cada estudiante traiga una llave para cerrar el agua y avise cuando vea fugas en el colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es buena, porque forma en el cuidado del agua y en el cumplimiento del deber de cuidar lo público.",
+          "is_correct": true,
+          "feedback": "Cuidar los recursos de todos es un deber ciudadano que la propuesta fomenta."
+        },
+        {
+          "letter": "B",
+          "text": "Es mala, porque el agua del colegio no le importa a nadie.",
+          "is_correct": false,
+          "feedback": "Los recursos del colegio son bienes comunes que conviene cuidar entre todos."
+        },
+        {
+          "letter": "C",
+          "text": "Es inútil, porque avisar de las fugas no sirve para ahorrar agua.",
+          "is_correct": false,
+          "feedback": "Avisar de las fugas permite repararlas y evita el desperdicio de agua."
+        },
+        {
+          "letter": "D",
+          "text": "Es peligrosa, porque cerrar las llaves daña las tuberías.",
+          "is_correct": false,
+          "feedback": "Cerrar bien las llaves no daña las tuberías; ayuda a evitar el desperdicio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar acciones ciudadanas de cuidado de los recursos públicos y reconocer el valor de asumir deberes en la comunidad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-5-2026-W10-servicios-publicos-comunidad-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W10-servicios-publicos-comunidad-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la mejor valoración de la propuesta del vecino?",
+      "context": "Lee: \"En mi comunidad, el servicio de aseo recoge la basura los martes. Un vecino propone dejar las bolsas en la esquina el lunes para no madrugar.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No es adecuada, porque sacar la basura antes de tiempo ensucia las calles y afecta a todos.",
+          "is_correct": true,
+          "feedback": "Sacar la basura fuera del horario genera desorden y problemas de convivencia y salud."
+        },
+        {
+          "letter": "B",
+          "text": "Es adecuada, porque cada vecino puede sacar la basura cuando quiera.",
+          "is_correct": false,
+          "feedback": "La basura debe sacarse en el horario del servicio para mantener limpia la comunidad."
+        },
+        {
+          "letter": "C",
+          "text": "Es adecuada, porque así se recoge más rápido.",
+          "is_correct": false,
+          "feedback": "Dejarla antes no acelera la recolección y sí genera suciedad."
+        },
+        {
+          "letter": "D",
+          "text": "Es indiferente, porque la basura en la calle no afecta a nadie.",
+          "is_correct": false,
+          "feedback": "La basura en la calle afecta la salud, el ambiente y la convivencia del barrio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar decisiones cotidianas sobre el uso de los servicios públicos y su impacto en la convivencia y el bienestar de la comunidad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-5-2026-W10-servicios-publicos-comunidad-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

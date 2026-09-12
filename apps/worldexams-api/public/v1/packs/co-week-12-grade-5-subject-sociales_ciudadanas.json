@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-12-grade-5-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-12T15:41:45.220Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-5-2026-W12-independencia-colombia-historia-001-MASTERY-bundle-v1",
+      "statement": "¿Qué hecho se recuerda en Colombia cada 20 de julio?",
+      "context": "En una escuela de Tunja, la profesora pregunta qué fecha celebran los colombianos cada 20 de julio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Grito de Independencia de 1810 en Santa Fe de Bogotá.",
+          "is_correct": true,
+          "feedback": "El 20 de julio de 1810 se dio el Grito de Independencia que inició el proceso de libertad."
+        },
+        {
+          "letter": "B",
+          "text": "La llegada de los españoles a Cartagena.",
+          "is_correct": false,
+          "feedback": "La llegada de los españoles ocurrió siglos antes, en la época de la conquista."
+        },
+        {
+          "letter": "C",
+          "text": "La fundación de la ciudad de Medellín.",
+          "is_correct": false,
+          "feedback": "Medellín fue fundada en otra época y no se celebra el 20 de julio."
+        },
+        {
+          "letter": "D",
+          "text": "El nacimiento de Simón Bolívar.",
+          "is_correct": false,
+          "feedback": "Simón Bolívar nació un 24 de julio, no el 20 de julio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer el 20 de julio de 1810 como la fecha del Grito de Independencia de Colombia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-5-2026-W12-independencia-colombia-historia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W12-independencia-colombia-historia-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué Simón Bolívar es conocido como el Libertador?",
+      "context": "Lee: \"Simón Bolívar lideró los ejércitos que lucharon contra el dominio español en varios países de América, por eso lo llaman el Libertador.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque lideró la lucha por la libertad de Colombia y de otros países americanos.",
+          "is_correct": true,
+          "feedback": "Bolívar comandó las campañas que lograron la libertad frente al dominio español."
+        },
+        {
+          "letter": "B",
+          "text": "Porque escribió la Constitución de 1991.",
+          "is_correct": false,
+          "feedback": "La Constitución de 1991 fue escrita mucho después de la época de Bolívar."
+        },
+        {
+          "letter": "C",
+          "text": "Porque descubrió el río Magdalena.",
+          "is_correct": false,
+          "feedback": "El río Magdalena ya era conocido por las comunidades indígenas antes de Bolívar."
+        },
+        {
+          "letter": "D",
+          "text": "Porque fue el primer presidente elegido por voto popular en el siglo XX.",
+          "is_correct": false,
+          "feedback": "Bolívar vivió en el siglo XIX y lideró la independencia, no las elecciones del siglo XX."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender el papel de Simón Bolívar como líder de la independencia americana.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-5-2026-W12-independencia-colombia-historia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W12-independencia-colombia-historia-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál fue la batalla decisiva del 7 de agosto de 1819 para la independencia de Colombia?",
+      "context": "En un colegio de Duitama, los niños preparan una cartelera sobre la batalla que aseguró la libertad definitiva el 7 de agosto de 1819.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La batalla de Boyacá.",
+          "is_correct": true,
+          "feedback": "La batalla de Boyacá, el 7 de agosto de 1819, aseguró la libertad de la Nueva Granada."
+        },
+        {
+          "letter": "B",
+          "text": "La batalla de Cartagena en 1810.",
+          "is_correct": false,
+          "feedback": "En Cartagena hubo hechos importantes en 1810 y 1811, pero la batalla decisiva de 1819 fue Boyacá."
+        },
+        {
+          "letter": "C",
+          "text": "La batalla de Cúcuta en 1821.",
+          "is_correct": false,
+          "feedback": "En Cúcuta se reunió el congreso de 1821, pero la batalla decisiva fue Boyacá."
+        },
+        {
+          "letter": "D",
+          "text": "La batalla de Santa Marta en 1809.",
+          "is_correct": false,
+          "feedback": "No hubo una batalla decisiva de independencia en Santa Marta en 1809."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificar la batalla de Boyacá del 7 de agosto de 1819 como el triunfo decisivo de la independencia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.78,
+      "bundle_id": "CO-SOC-5-2026-W12-independencia-colombia-historia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W12-independencia-colombia-historia-001-MASTERY-bundle-v4",
+      "statement": "¿Quién fue Policarpa Salavarrieta en la historia de la independencia?",
+      "context": "Lee: \"Policarpa Salavarrieta, conocida como La Pola, ayudó a los patriotas pasando información y murió defendiendo la causa de la libertad.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una heroína que apoyó a los patriotas y dio su vida por la libertad.",
+          "is_correct": true,
+          "feedback": "La Pola es recordada como heroína por su valor y su sacrificio por la causa patriota."
+        },
+        {
+          "letter": "B",
+          "text": "Una reina española que gobernó Bogotá.",
+          "is_correct": false,
+          "feedback": "La Pola no fue reina; fue una joven patriota que enfrentó al gobierno español."
+        },
+        {
+          "letter": "C",
+          "text": "Una pintora de la época colonial sin relación con la independencia.",
+          "is_correct": false,
+          "feedback": "La Pola participó activamente en la lucha patriota, no solo en el arte."
+        },
+        {
+          "letter": "D",
+          "text": "Una viajera extranjera que visitó el país en 1819.",
+          "is_correct": false,
+          "feedback": "Policarpa era colombiana y colaboró directamente con los patriotas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer a Policarpa Salavarrieta como heroína de la independencia colombiana.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.72,
+      "bundle_id": "CO-SOC-5-2026-W12-independencia-colombia-historia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W12-independencia-colombia-historia-001-MASTERY-bundle-v5",
+      "statement": "¿Cuáles son símbolos que nacieron con la historia de la independencia y hoy identifican a Colombia?",
+      "context": "En una izada de bandera en un colegio de Pasto, los estudiantes cantan el himno y observan la bandera de tres colores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La bandera amarilla, azul y roja, el himno nacional y el escudo.",
+          "is_correct": true,
+          "feedback": "La bandera, el himno y el escudo son símbolos patrios que representan la nación libre."
+        },
+        {
+          "letter": "B",
+          "text": "La moneda de otro país y su bandera extranjera.",
+          "is_correct": false,
+          "feedback": "Los símbolos de otro país no representan la identidad colombiana."
+        },
+        {
+          "letter": "C",
+          "text": "El uniforme de un equipo de fútbol y su canción.",
+          "is_correct": false,
+          "feedback": "Los equipos tienen sus distintivos, pero no son símbolos de la nación."
+        },
+        {
+          "letter": "D",
+          "text": "Las señales de tránsito de la ciudad.",
+          "is_correct": false,
+          "feedback": "Las señales de tránsito ordenan la movilidad, pero no son símbolos patrios."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificar la bandera, el himno y el escudo como símbolos de la Colombia independiente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-5-2026-W12-independencia-colombia-historia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W12-independencia-colombia-historia-001-MASTERY-bundle-v6",
+      "statement": "¿Qué cambio principal trajo la independencia para la vida de los colombianos?",
+      "context": "Compara: \"Antes de 1810, las autoridades españolas tomaban las decisiones en la Nueva Granada. Después de la independencia, los colombianos pudieron elegir sus propias autoridades y hacer sus leyes.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pasar del gobierno impuesto desde España a un gobierno propio con leyes colombianas.",
+          "is_correct": true,
+          "feedback": "La independencia permitió que los colombianos decidieran su propio destino político."
+        },
+        {
+          "letter": "B",
+          "text": "Que todo siguió igual y nadie pudo participar en las decisiones.",
+          "is_correct": false,
+          "feedback": "Con la independencia cambió la forma de gobierno y la participación de los ciudadanos."
+        },
+        {
+          "letter": "C",
+          "text": "Que se prohibieron las escuelas y las fiestas en los pueblos.",
+          "is_correct": false,
+          "feedback": "La independencia buscó más libertad, no prohibir la educación ni la cultura."
+        },
+        {
+          "letter": "D",
+          "text": "Que Colombia pasó a depender de otro imperio europeo.",
+          "is_correct": false,
+          "feedback": "La independencia rompió la dependencia de España en lugar de crear otra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar el paso del dominio español al gobierno propio como resultado central de la independencia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.58,
+      "bundle_id": "CO-SOC-5-2026-W12-independencia-colombia-historia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W12-independencia-colombia-historia-001-MASTERY-bundle-v7",
+      "statement": "¿Qué nos enseña la participación de tantas personas diferentes en la independencia?",
+      "context": "Lee: \"Además de Bolívar, en la independencia participaron criollos, indígenas, afrodescendientes y mujeres que aportaron como soldados, mensajeras y apoyo en los pueblos.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la libertad se logró con el esfuerzo unido de hombres y mujeres de distintos orígenes.",
+          "is_correct": true,
+          "feedback": "La independencia fue una obra colectiva donde muchos grupos aportaron su valor y trabajo."
+        },
+        {
+          "letter": "B",
+          "text": "Que solo una persona logró la libertad sin ayuda de nadie.",
+          "is_correct": false,
+          "feedback": "Aunque Bolívar fue el líder, miles de personas colaboraron en la lucha."
+        },
+        {
+          "letter": "C",
+          "text": "Que las mujeres y los pueblos no participaron en la historia.",
+          "is_correct": false,
+          "feedback": "Las mujeres y las comunidades participaron con tareas clave para los patriotas."
+        },
+        {
+          "letter": "D",
+          "text": "Que la independencia se logró sin batallas ni sacrificios.",
+          "is_correct": false,
+          "feedback": "La libertad costó batallas, sacrificios y la vida de muchos héroes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la independencia como un logro colectivo de diversos grupos de la sociedad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.52,
+      "bundle_id": "CO-SOC-5-2026-W12-independencia-colombia-historia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W12-independencia-colombia-historia-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué es importante que los niños celebren el 20 de julio y el 7 de agosto?",
+      "context": "Lee: \"Cada año, el 20 de julio y el 7 de agosto hay desfiles, izadas de bandera y actos en las escuelas para recordar la libertad.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque recordar la historia fortalece la identidad, valora la libertad y enseña a cuidar el país.",
+          "is_correct": true,
+          "feedback": "Celebrar estas fechas une a los colombianos y forma ciudadanos responsables con su historia."
+        },
+        {
+          "letter": "B",
+          "text": "Porque son días para olvidar la historia y no aprender nada de ella.",
+          "is_correct": false,
+          "feedback": "Estas fechas existen justamente para recordar y aprender de la historia."
+        },
+        {
+          "letter": "C",
+          "text": "Porque solo sirven para no asistir al colegio.",
+          "is_correct": false,
+          "feedback": "El descanso es secundario; lo importante es el homenaje a la libertad."
+        },
+        {
+          "letter": "D",
+          "text": "Porque celebran una fiesta de otro país.",
+          "is_correct": false,
+          "feedback": "El 20 de julio y el 7 de agosto son fiestas propias de la historia colombiana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Valorar la celebración de las fechas patrias como forma de cuidar la libertad y la identidad colombiana.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.4,
+      "bundle_id": "CO-SOC-5-2026-W12-independencia-colombia-historia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

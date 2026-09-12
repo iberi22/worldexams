@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-23-grade-5-subject-lectura_critica",
+    "generated_at": "2026-09-12T15:41:45.208Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-5-2026-W23-figuras-literarias-personificacion-metafora-001-MASTERY-bundle-v1",
+      "statement": "¿Qué figura literaria se usa cuando se dice que \"el viento susurra\"?",
+      "context": "En una clase de lectura en Bucaramanga, la profesora lee en voz alta: \"El viento susurra entre los árboles del parque.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La hipérbole.",
+          "is_correct": false,
+          "feedback": "La hipérbole exagera una idea; aquí no hay ninguna exageración."
+        },
+        {
+          "letter": "B",
+          "text": "La comparación.",
+          "is_correct": false,
+          "feedback": "La comparación une dos elementos con un nexo como \"como\"; aquí no aparece ese nexo."
+        },
+        {
+          "letter": "C",
+          "text": "La personificación.",
+          "is_correct": true,
+          "feedback": "La personificación atribuye acciones humanas a algo natural; susurrar es una acción propia de las personas."
+        },
+        {
+          "letter": "D",
+          "text": "La metáfora.",
+          "is_correct": false,
+          "feedback": "La metáfora identifica dos cosas sin nombrarlas directamente; aquí se da una acción humana al viento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reconocer la personificación como la figura que atribuye cualidades o acciones humanas a seres de la naturaleza o a objetos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-5-2026-W23-figuras-literarias-personificacion-metafora-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W23-figuras-literarias-personificacion-metafora-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué la expresión \"tus ojos son dos luceros\" es una metáfora?",
+      "context": "Lee: \"Tus ojos son dos luceros que iluminan mi camino.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque usa la palabra \"como\" para comparar.",
+          "is_correct": false,
+          "feedback": "La palabra \"como\" aparece en la comparación, no en esta expresión."
+        },
+        {
+          "letter": "B",
+          "text": "Porque exagera el tamaño de los ojos.",
+          "is_correct": false,
+          "feedback": "La expresión no habla del tamaño; relaciona los ojos con los luceros."
+        },
+        {
+          "letter": "C",
+          "text": "Porque repite la misma palabra varias veces.",
+          "is_correct": false,
+          "feedback": "No hay repetición de palabras; la figura se logra por la relación entre dos elementos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque identifica los ojos con los luceros sin usar la palabra \"como\".",
+          "is_correct": true,
+          "feedback": "La metáfora identifica un elemento con otro de forma directa, sin necesidad de un nexo comparativo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comprender que la metáfora identifica dos elementos distintos sin usar un nexo comparativo, a diferencia de la comparación.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-5-2026-W23-figuras-literarias-personificacion-metafora-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W23-figuras-literarias-personificacion-metafora-001-MASTERY-bundle-v3",
+      "statement": "¿Qué figura literaria predomina en estos versos?",
+      "context": "Lee estos versos de un poema infantil colombiano: \"La luna bosteza y se va a dormir; las flores se cuentan secretos sin fin.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La personificación, porque la luna y las flores realizan acciones humanas.",
+          "is_correct": true,
+          "feedback": "Bostezar, dormir y contar secretos son acciones humanas que aquí se atribuyen a la luna y a las flores."
+        },
+        {
+          "letter": "B",
+          "text": "La hipérbole, porque se exagera el tamaño de la luna.",
+          "is_correct": false,
+          "feedback": "En los versos no se exagera ningún tamaño; se atribuyen acciones humanas."
+        },
+        {
+          "letter": "C",
+          "text": "La comparación, porque aparecen las palabras \"como\" o \"cual\".",
+          "is_correct": false,
+          "feedback": "Esos nexos comparativos no aparecen en los versos."
+        },
+        {
+          "letter": "D",
+          "text": "La metáfora, porque se nombra una cosa con el nombre de otra.",
+          "is_correct": false,
+          "feedback": "No se cambia el nombre de los elementos; se les dan acciones humanas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el reconocimiento de la personificación en versos donde seres de la naturaleza actúan como personas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-5-2026-W23-figuras-literarias-personificacion-metafora-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W23-figuras-literarias-personificacion-metafora-001-MASTERY-bundle-v4",
+      "statement": "¿Qué figura literaria aparece en la expresión \"suaves como pétalos de rosa\"?",
+      "context": "En un cuento leído en clase se describe a la abuela: \"Tenía las manos suaves como pétalos de rosa.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La personificación.",
+          "is_correct": false,
+          "feedback": "No se atribuyen acciones humanas a la naturaleza, así que no hay personificación."
+        },
+        {
+          "letter": "B",
+          "text": "La comparación, porque usa la palabra \"como\".",
+          "is_correct": true,
+          "feedback": "La comparación relaciona dos elementos mediante un nexo, en este caso la palabra \"como\"."
+        },
+        {
+          "letter": "C",
+          "text": "La metáfora, porque no hay ningún nexo comparativo.",
+          "is_correct": false,
+          "feedback": "Aquí sí hay un nexo, la palabra \"como\"; por eso es una comparación y no una metáfora."
+        },
+        {
+          "letter": "D",
+          "text": "La hipérbole, porque exagera una cualidad.",
+          "is_correct": false,
+          "feedback": "No se exagera la cualidad; se compara la suavidad con los pétalos de rosa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicar la diferencia entre comparación y metáfora: la comparación usa un nexo, mientras que la metáfora lo omite.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-5-2026-W23-figuras-literarias-personificacion-metafora-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W23-figuras-literarias-personificacion-metafora-001-MASTERY-bundle-v5",
+      "statement": "¿Qué figura literaria se emplea al decir \"un millón de veces\"?",
+      "context": "Antes del examen, la mamá le dice a su hijo en Pasto: \"Te lo he dicho un millón de veces: debes repasar.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La personificación.",
+          "is_correct": false,
+          "feedback": "No se atribuyen acciones humanas a ningún objeto o ser natural."
+        },
+        {
+          "letter": "B",
+          "text": "La comparación.",
+          "is_correct": false,
+          "feedback": "No se comparan dos elementos mediante un nexo."
+        },
+        {
+          "letter": "C",
+          "text": "La hipérbole.",
+          "is_correct": true,
+          "feedback": "La hipérbole consiste en exagerar una cantidad o una idea para dar énfasis."
+        },
+        {
+          "letter": "D",
+          "text": "La metáfora.",
+          "is_correct": false,
+          "feedback": "No se identifica un elemento con otro; solo se exagera una cantidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reconocer la hipérbole como la figura que exagera cantidades o cualidades para dar mayor fuerza al mensaje.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-5-2026-W23-figuras-literarias-personificacion-metafora-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W23-figuras-literarias-personificacion-metafora-001-MASTERY-bundle-v6",
+      "statement": "¿Qué efecto produce la personificación en este verso?",
+      "context": "Lee este verso dedicado al río Magdalena: \"El río canta y ríe mientras baja hacia el mar.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hace que el río parezca más largo de lo que es en realidad.",
+          "is_correct": false,
+          "feedback": "El verso no describe el largo del río, sino las acciones que se le atribuyen."
+        },
+        {
+          "letter": "B",
+          "text": "Indica que el río de verdad puede hablar y reír.",
+          "is_correct": false,
+          "feedback": "El lenguaje figurado no debe tomarse al pie de la letra; el río no habla ni ríe realmente."
+        },
+        {
+          "letter": "C",
+          "text": "Muestra que el río deja de ser un río.",
+          "is_correct": false,
+          "feedback": "El río sigue siendo un río; la figura solo lo presenta de manera expresiva."
+        },
+        {
+          "letter": "D",
+          "text": "Da vida y emoción al río, como si sintiera como una persona.",
+          "is_correct": true,
+          "feedback": "La personificación humaniza el río y hace que el lector imagine sus aguas con vida y sentimiento."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analizar el efecto expresivo de la personificación y comprender que el lenguaje figurado embellece la imagen sin ser literal.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-5-2026-W23-figuras-literarias-personificacion-metafora-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W23-figuras-literarias-personificacion-metafora-001-MASTERY-bundle-v7",
+      "statement": "¿Qué se está comparando de forma implícita en la expresión \"las nubes son algodones\"?",
+      "context": "Lee: \"En el cielo, las nubes son algodones que viajan sin prisa.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La suavidad y el color blanco de las nubes con el algodón.",
+          "is_correct": true,
+          "feedback": "La metáfora relaciona las nubes con el algodón por su aspecto blanco y suave."
+        },
+        {
+          "letter": "B",
+          "text": "El tamaño del cielo con el de una nube.",
+          "is_correct": false,
+          "feedback": "La expresión no compara tamaños, sino el aspecto de las nubes."
+        },
+        {
+          "letter": "C",
+          "text": "La velocidad del viento con la de un avión.",
+          "is_correct": false,
+          "feedback": "No aparece ningún avión ni se habla de la velocidad del viento."
+        },
+        {
+          "letter": "D",
+          "text": "El peso del algodón con el del sol.",
+          "is_correct": false,
+          "feedback": "El sol no aparece en la expresión; la relación se da entre nubes y algodón."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar el sentido implícito de una metáfora e identificar las cualidades que comparten los dos elementos relacionados.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LC-5-2026-W23-figuras-literarias-personificacion-metafora-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W23-figuras-literarias-personificacion-metafora-001-MASTERY-bundle-v8",
+      "statement": "¿Qué figura literaria da vida a la ciudad y a las calles, y qué logra el autor con ella?",
+      "context": "Lee este fragmento: \"La ciudad despertó con los primeros rayos del sol; las calles bostezaron y el viento peinó los árboles del parque. Todo parecía sonreír en la mañana.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La hipérbole, porque exagera el tamaño de la ciudad.",
+          "is_correct": false,
+          "feedback": "No se exagera el tamaño; se atribuyen acciones humanas a la ciudad y a las calles."
+        },
+        {
+          "letter": "B",
+          "text": "La personificación, porque atribuye acciones humanas a la ciudad y a las calles, logrando una imagen más viva y expresiva.",
+          "is_correct": true,
+          "feedback": "Despertar, bostezar, peinar y sonreír son acciones humanas que embellecen la descripción de la mañana."
+        },
+        {
+          "letter": "C",
+          "text": "La comparación, porque usa la palabra \"como\".",
+          "is_correct": false,
+          "feedback": "En el fragmento no aparece ningún nexo comparativo como \"como\"."
+        },
+        {
+          "letter": "D",
+          "text": "La metáfora, porque cambia el nombre de las calles.",
+          "is_correct": false,
+          "feedback": "Las calles conservan su nombre; lo que ocurre es que se les atribuyen acciones humanas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar el uso de la personificación en un texto y explicar cómo embellece la descripción al dar cualidades humanas a la ciudad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LC-5-2026-W23-figuras-literarias-personificacion-metafora-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

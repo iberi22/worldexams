@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-24-grade-5-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T15:41:45.192Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-5-2026-W24-reinos-seres-vivos-clasificacion-001-MASTERY-bundle-v1",
+      "statement": "¿A qué reino pertenece el frailejón?",
+      "context": "En una escuela rural cerca de Tunja, la profesora muestra una foto del frailejón, una planta típica de los páramos colombianos, y pregunta a qué reino pertenece.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al reino de los animales.",
+          "is_correct": false,
+          "feedback": "El frailejón no es un animal; los animales se alimentan de otros seres y se desplazan."
+        },
+        {
+          "letter": "B",
+          "text": "Al reino de las plantas.",
+          "is_correct": true,
+          "feedback": "El frailejón es una planta: fabrica su alimento con la luz del sol y tiene raíces, tallo y hojas."
+        },
+        {
+          "letter": "C",
+          "text": "Al reino de los hongos.",
+          "is_correct": false,
+          "feedback": "Los hongos no fabrican su alimento; el frailejón sí, porque es una planta."
+        },
+        {
+          "letter": "D",
+          "text": "Al reino de las bacterias.",
+          "is_correct": false,
+          "feedback": "Las bacterias son seres microscópicos; el frailejón es una planta grande y visible."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocer las características del reino de las plantas y distinguirlo de otros reinos con ejemplos de la flora colombiana.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-5-2026-W24-reinos-seres-vivos-clasificacion-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W24-reinos-seres-vivos-clasificacion-001-MASTERY-bundle-v2",
+      "statement": "¿Qué característica permite clasificar al oso de anteojos dentro del reino animal?",
+      "context": "Lee: \"El oso de anteojos es un animal que vive en los bosques andinos, se alimenta de plantas y frutos, y se desplaza de un lugar a otro.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se alimenta de otros seres vivos o de sus productos y se desplaza por sus propios medios.",
+          "is_correct": true,
+          "feedback": "Los animales se alimentan de otros seres y se desplazan; estas son características del reino animal."
+        },
+        {
+          "letter": "B",
+          "text": "Fabrica su alimento usando la luz del sol.",
+          "is_correct": false,
+          "feedback": "Fabricar el alimento con la luz del sol es propio de las plantas, no de los animales."
+        },
+        {
+          "letter": "C",
+          "text": "Vive siempre bajo tierra, sin moverse.",
+          "is_correct": false,
+          "feedback": "El oso de anteojos se desplaza por los bosques; no vive inmóvil bajo tierra."
+        },
+        {
+          "letter": "D",
+          "text": "Se reproduce por esporas, como los hongos.",
+          "is_correct": false,
+          "feedback": "La reproducción por esporas es característica de los hongos y de algunos otros reinos, no de los animales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender que la forma de alimentarse y de desplazarse son criterios que permiten ubicar a un ser vivo en el reino animal.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.86,
+      "bundle_id": "CO-CN-5-2026-W24-reinos-seres-vivos-clasificacion-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W24-reinos-seres-vivos-clasificacion-001-MASTERY-bundle-v3",
+      "statement": "¿En qué reino se clasifican los champiñones y por qué?",
+      "context": "En el mercado de Pasto, la familia de Camila compra champiñones para preparar la cena. Camila observa que crecen en lugares húmedos y oscuros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el reino animal, porque se mueven.",
+          "is_correct": false,
+          "feedback": "Los champiñones no se desplazan; permanecen fijos en el lugar donde crecen."
+        },
+        {
+          "letter": "B",
+          "text": "En el reino de las plantas, porque son verdes.",
+          "is_correct": false,
+          "feedback": "Los champiñones no son verdes y no fabrican su alimento con la luz del sol."
+        },
+        {
+          "letter": "C",
+          "text": "En el reino de las bacterias, porque son muy pequeños.",
+          "is_correct": false,
+          "feedback": "Los champiñones se ven a simple vista; no son bacterias microscópicas."
+        },
+        {
+          "letter": "D",
+          "text": "En el reino de los hongos, porque se alimentan de otros seres sin fabricar su propio alimento.",
+          "is_correct": true,
+          "feedback": "Los hongos, como los champiñones, toman su alimento de otros seres y no lo fabrican con la luz del sol."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aplicar las características del reino de los hongos para clasificar correctamente a los champiñones y otros hongos comunes.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-5-2026-W24-reinos-seres-vivos-clasificacion-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W24-reinos-seres-vivos-clasificacion-001-MASTERY-bundle-v4",
+      "statement": "¿A qué reino pertenecen las bacterias que ayudan a producir algunos alimentos como el yogur?",
+      "context": "En Neiva, un estudiante aprende que el yogur se produce por la acción de microorganismos muy pequeños que no se ven a simple vista.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al reino de los hongos.",
+          "is_correct": false,
+          "feedback": "Las bacterias no son hongos; forman un reino aparte de seres microscópicos."
+        },
+        {
+          "letter": "B",
+          "text": "Al reino de las plantas.",
+          "is_correct": false,
+          "feedback": "Las bacterias no son plantas y no fabrican su alimento con la luz del sol."
+        },
+        {
+          "letter": "C",
+          "text": "Al reino de las bacterias.",
+          "is_correct": true,
+          "feedback": "Las bacterias son seres microscópicos que forman su propio reino y participan en procesos como la fermentación."
+        },
+        {
+          "letter": "D",
+          "text": "Al reino de los animales.",
+          "is_correct": false,
+          "feedback": "Las bacterias no son animales; no se desplazan ni se alimentan como ellos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificar el reino de las bacterias y reconocer que, aunque son microscópicas, cumplen funciones útiles en la vida cotidiana.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-5-2026-W24-reinos-seres-vivos-clasificacion-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W24-reinos-seres-vivos-clasificacion-001-MASTERY-bundle-v5",
+      "statement": "Las algas y los protozoos, seres microscópicos que viven en el agua, pertenecen al reino:",
+      "context": "En una laguna cerca de Armenia, un grupo de estudiantes observa con el microscopio algas y protozoos, seres diminutos que viven en el agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al reino de los hongos.",
+          "is_correct": false,
+          "feedback": "Los hongos se alimentan de otros seres y no viven de la forma en que lo hacen las algas y los protozoos."
+        },
+        {
+          "letter": "B",
+          "text": "Al reino de los protistas.",
+          "is_correct": true,
+          "feedback": "Los protistas son seres microscópicos, en su mayoría acuáticos, entre los que se cuentan las algas y los protozoos."
+        },
+        {
+          "letter": "C",
+          "text": "Al reino animal.",
+          "is_correct": false,
+          "feedback": "Las algas y los protozoos no son animales; no se desplazan ni se alimentan como ellos."
+        },
+        {
+          "letter": "D",
+          "text": "Al reino de las plantas.",
+          "is_correct": false,
+          "feedback": "Aunque algunas algas se parecen a las plantas, en la escuela se clasifican dentro del reino de los protistas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocer el reino de los protistas como el grupo que reúne a muchos seres microscópicos acuáticos, como algas y protozoos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.74,
+      "bundle_id": "CO-CN-5-2026-W24-reinos-seres-vivos-clasificacion-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W24-reinos-seres-vivos-clasificacion-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la diferencia principal entre una planta y un hongo?",
+      "context": "Compara: \"El café que se cultiva en el Eje Cafetero es una planta que fabrica su alimento con la luz del sol. El hongo que crece sobre un tronco húmedo se alimenta de restos de madera.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La planta se mueve y el hongo no.",
+          "is_correct": false,
+          "feedback": "Las plantas no se desplazan de un lugar a otro; permanecen fijas al suelo."
+        },
+        {
+          "letter": "B",
+          "text": "El hongo fabrica su alimento y la planta no.",
+          "is_correct": false,
+          "feedback": "Es al contrario: la planta fabrica su alimento y el hongo lo toma de otros seres."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguno de los dos necesita alimentarse.",
+          "is_correct": false,
+          "feedback": "Todos los seres vivos necesitan alimento para obtener energía."
+        },
+        {
+          "letter": "D",
+          "text": "La planta fabrica su propio alimento con la luz del sol y el hongo lo toma de otros seres.",
+          "is_correct": true,
+          "feedback": "Las plantas son autótrofas y los hongos son heterótrofos: esa es la diferencia principal."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analizar la diferencia entre seres autótrofos, como las plantas, y heterótrofos, como los hongos, a partir de cómo obtienen su alimento.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-5-2026-W24-reinos-seres-vivos-clasificacion-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W24-reinos-seres-vivos-clasificacion-001-MASTERY-bundle-v7",
+      "statement": "¿Por qué se clasifican los seres vivos en reinos?",
+      "context": "Lee: \"Los científicos agrupan a los seres vivos en cinco reinos según cómo se alimentan, cómo se reproducen y cómo están formados.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque permite organizarlos y estudiarlos según características comunes.",
+          "is_correct": true,
+          "feedback": "La clasificación agrupa a los seres vivos por rasgos compartidos y facilita su estudio."
+        },
+        {
+          "letter": "B",
+          "text": "Porque todos los seres vivos son exactamente iguales.",
+          "is_correct": false,
+          "feedback": "Precisamente porque son diferentes se agrupan en reinos según sus características."
+        },
+        {
+          "letter": "C",
+          "text": "Porque así se decide cuáles seres deben desaparecer.",
+          "is_correct": false,
+          "feedback": "La clasificación no decide la desaparición de seres; solo los organiza para estudiarlos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los reinos ordenan solo a los animales grandes.",
+          "is_correct": false,
+          "feedback": "Los reinos incluyen a todos los seres vivos, también a los microscópicos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la utilidad de la clasificación de los seres vivos y comprender que se basa en características comunes observables.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CN-5-2026-W24-reinos-seres-vivos-clasificacion-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W24-reinos-seres-vivos-clasificacion-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué es importante reconocer a qué reino pertenece cada ser vivo y protegerlo?",
+      "context": "Lee: \"En los páramos de Colombia vive el frailejón, planta que almacena agua y ayuda a mantener el equilibrio del ecosistema. En los bosques andinos habita el oso de anteojos, que dispersa semillas. Ambos son importantes, aunque pertenecen a reinos diferentes.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque solo las plantas necesitan protección.",
+          "is_correct": false,
+          "feedback": "Todos los seres vivos cumplen funciones importantes y requieren protección."
+        },
+        {
+          "letter": "B",
+          "text": "Porque todas las especies pertenecen al mismo reino.",
+          "is_correct": false,
+          "feedback": "Las especies se agrupan en reinos diferentes según sus características."
+        },
+        {
+          "letter": "C",
+          "text": "Porque cada reino aporta al equilibrio de los ecosistemas y todos los seres vivos cumplen una función.",
+          "is_correct": true,
+          "feedback": "Reconocer los reinos ayuda a valorar que cada ser vivo tiene un papel en el equilibrio de la naturaleza."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los hongos y las bacterias no tienen ninguna utilidad.",
+          "is_correct": false,
+          "feedback": "Los hongos y las bacterias son muy útiles, por ejemplo al descomponer materia o producir alimentos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar la importancia de clasificar y proteger a los seres vivos de todos los reinos, reconociendo su papel en el equilibrio de los ecosistemas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.62,
+      "bundle_id": "CO-CN-5-2026-W24-reinos-seres-vivos-clasificacion-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-24-grade-5-subject-ingles",
+    "generated_at": "2026-09-12T15:41:45.198Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-5-2026-W24-clothes-shopping-prices-001-MASTERY-bundle-v1",
+      "statement": "Which word in English names the item of clothing you wear on your feet with socks?",
+      "context": "In a clothing store in Cúcuta, a customer looks for something to wear on their feet for running.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Shoes.",
+          "is_correct": true,
+          "feedback": "\"Shoes\" (or sneakers) are worn on feet over socks."
+        },
+        {
+          "letter": "B",
+          "text": "Hat.",
+          "is_correct": false,
+          "feedback": "A hat is worn on the head, not on the feet."
+        },
+        {
+          "letter": "C",
+          "text": "Scarf.",
+          "is_correct": false,
+          "feedback": "A scarf is worn around the neck to keep warm."
+        },
+        {
+          "letter": "D",
+          "text": "Gloves.",
+          "is_correct": false,
+          "feedback": "Gloves are worn on hands, not on feet."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocimiento de vocabulario básico de prendas de vestir en inglés (shoes, hat, scarf, gloves).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-5-2026-W24-clothes-shopping-prices-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W24-clothes-shopping-prices-001-MASTERY-bundle-v2",
+      "statement": "What does the boy want to know when he asks \"How much is...?\"",
+      "context": "In a shopping mall in Bucaramanga, a boy asks the shopkeeper: \"How much is this blue jacket?\" The shopkeeper answers: \"It is $65.000 COP.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The price of the blue jacket.",
+          "is_correct": true,
+          "feedback": "\"How much is...?\" is the standard English question used to ask for the price or cost of an item."
+        },
+        {
+          "letter": "B",
+          "text": "The color of the jacket.",
+          "is_correct": false,
+          "feedback": "Asking about color uses \"What color is...?\"."
+        },
+        {
+          "letter": "C",
+          "text": "The size of the store.",
+          "is_correct": false,
+          "feedback": "Asking about size uses \"What size is...?\"."
+        },
+        {
+          "letter": "D",
+          "text": "The closing time of the shop.",
+          "is_correct": false,
+          "feedback": "Asking about time uses \"What time does the store close?\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender la función comunicativa de la pregunta \"How much is...?\" para indagar sobre el precio de productos en inglés.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-5-2026-W24-clothes-shopping-prices-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W24-clothes-shopping-prices-001-MASTERY-bundle-v3",
+      "statement": "Which question is grammatically correct to ask for the price of plural clothes like jeans?",
+      "context": "Ana is buying clothes at a boutique in Cali. She wants to ask about the price of a pair of jeans.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "How much are these jeans?",
+          "is_correct": true,
+          "feedback": "\"Jeans\" is plural, so it requires the plural verb \"are\" and demonstrative \"these\"."
+        },
+        {
+          "letter": "B",
+          "text": "How much is these jeans?",
+          "is_correct": false,
+          "feedback": "\"Is\" is singular and cannot be used with plural subject \"these jeans\"."
+        },
+        {
+          "letter": "C",
+          "text": "How many price is this jeans?",
+          "is_correct": false,
+          "feedback": "\"How many\" asks about countable quantity, not monetary price."
+        },
+        {
+          "letter": "D",
+          "text": "How much cost this jeans?",
+          "is_correct": false,
+          "feedback": "The question structure is missing the auxiliary verb \"do\" (\"How much do these jeans cost?\")."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para preguntar el precio de prendas plurales (jeans, pants, shoes) se utiliza \"How much are...?\" con concordancia verbal plural.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-5-2026-W24-clothes-shopping-prices-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W24-clothes-shopping-prices-001-MASTERY-bundle-v4",
+      "statement": "How much is the total cost of Felipe's purchase?",
+      "context": "Felipe is at an artisan market in Pasto. He wants to buy a wool sweater that costs $45.000 COP and a pair of gloves for $15.000 COP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is $60.000 COP.",
+          "is_correct": true,
+          "feedback": "$45.000 + $15.000 = $60.000 COP total."
+        },
+        {
+          "letter": "B",
+          "text": "It is $50.000 COP.",
+          "is_correct": false,
+          "feedback": "$45.000 + $15.000 equals $60.000 COP, not $50.000 COP."
+        },
+        {
+          "letter": "C",
+          "text": "It is $30.000 COP.",
+          "is_correct": false,
+          "feedback": "$30.000 COP is the subtraction difference, not the total sum."
+        },
+        {
+          "letter": "D",
+          "text": "It is $75.000 COP.",
+          "is_correct": false,
+          "feedback": "$75.000 COP exceeds the combined price of both items."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicación de vocabulario de compras y adición simple de precios en pesos colombianos ($45.000 + $15.000 = $60.000 COP).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.82,
+      "bundle_id": "CO-ING-5-2026-W24-clothes-shopping-prices-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W24-clothes-shopping-prices-001-MASTERY-bundle-v5",
+      "statement": "Which sentence best completes Lucía's dialogue?",
+      "context": "In a sports shop in Barranquilla, a sales clerk assists Lucia:\nClerk: \"Good morning! Can I help you?\"\nLucía: \"Yes, please. I am looking for a red cap. ________?\"\nClerk: \"It is $28.000 COP.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "How much is it?",
+          "is_correct": true,
+          "feedback": "\"How much is it?\" fits naturally to ask the price of the singular red cap."
+        },
+        {
+          "letter": "B",
+          "text": "What is your name?",
+          "is_correct": false,
+          "feedback": "Asking the clerk's name does not prompt a price answer."
+        },
+        {
+          "letter": "C",
+          "text": "Where is the bus stop?",
+          "is_correct": false,
+          "feedback": "Asking for bus directions does not match the shopping dialogue context."
+        },
+        {
+          "letter": "D",
+          "text": "How old are you?",
+          "is_correct": false,
+          "feedback": "Asking about age is irrelevant to purchasing a cap."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Completar intercambios comunicativos en situaciones cotidianas de compra utilizando \"How much is it?\".",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-5-2026-W24-clothes-shopping-prices-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W24-clothes-shopping-prices-001-MASTERY-bundle-v6",
+      "statement": "Based on the price board, which analysis is correct?",
+      "context": "Read the price board at a clothing store in Bogotá:\n- White T-shirt: $25.000 COP\n- Blue Shirt: $45.000 COP\n- Black Jacket: $90.000 COP\n- Summer Dress: $45.000 COP",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The White T-shirt is the cheapest item, and the Black Jacket is the most expensive item.",
+          "is_correct": true,
+          "feedback": "$25.000 COP is the lowest price (cheapest) and $90.000 COP is the highest price (most expensive)."
+        },
+        {
+          "letter": "B",
+          "text": "The Summer Dress is more expensive than the Black Jacket.",
+          "is_correct": false,
+          "feedback": "The Summer Dress ($45.000 COP) is cheaper than the Black Jacket ($90.000 COP)."
+        },
+        {
+          "letter": "C",
+          "text": "The Blue Shirt and the White T-shirt have the same price.",
+          "is_correct": false,
+          "feedback": "The Blue Shirt costs $45.000 COP while the White T-shirt costs $25.000 COP."
+        },
+        {
+          "letter": "D",
+          "text": "The White T-shirt is more expensive than the Blue Shirt.",
+          "is_correct": false,
+          "feedback": "$25.000 COP is less than $45.000 COP, so the T-shirt is cheaper."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar y comparar precios utilizando adjetivos comparativos y superlativos (\"cheapest\", \"most expensive\", \"cheaper than\").",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-5-2026-W24-clothes-shopping-prices-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W24-clothes-shopping-prices-001-MASTERY-bundle-v7",
+      "statement": "Why can David NOT buy the sunglasses on the same day?",
+      "context": "Read the story about David's shopping day in Pereira:\n\"David has $100.000 COP. He buys a green shirt for $38.000 COP and a brown belt for $22.000 COP. He sees a pair of sunglasses that costs $50.000 COP.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Because he spent $60.000 COP and only has $40.000 COP left, which is not enough for the $50.000 COP sunglasses.",
+          "is_correct": true,
+          "feedback": "Total spent: $38.000 + $22.000 = $60.000 COP. Money left: $100.000 - $60.000 = $40.000 COP. The sunglasses cost $50.000 COP, so he is short by $10.000 COP."
+        },
+        {
+          "letter": "B",
+          "text": "Because the store does not sell sunglasses to children.",
+          "is_correct": false,
+          "feedback": "The text indicates a budget limitation, not a store policy restriction."
+        },
+        {
+          "letter": "C",
+          "text": "Because he has $70.000 COP left and the sunglasses cost $100.000 COP.",
+          "is_correct": false,
+          "feedback": "He spent $60.000 COP, leaving $40.000 COP, not $70.000 COP."
+        },
+        {
+          "letter": "D",
+          "text": "Because the sunglasses are cheaper than the belt.",
+          "is_correct": false,
+          "feedback": "The sunglasses ($50.000 COP) are more expensive than the belt ($22.000 COP)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Análisis de situaciones de compra y presupuesto en inglés, calculando gastos acumulados ($38.000 + $22.000 = $60.000 COP) y saldo restante ($40.000 COP).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-5-2026-W24-clothes-shopping-prices-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W24-clothes-shopping-prices-001-MASTERY-bundle-v8",
+      "statement": "Which evaluation correctly explains which offer fits María's budget?",
+      "context": "María wants to buy a gift for her brother in Ibagué. She has a budget of $80.000 COP and evaluates two shopping offers:\n- Offer A: A hoodie for $55.000 COP and a sports cap for $20.000 COP.\n- Offer B: Two polo shirts for $42.000 COP each.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Offer A fits her budget because the total is $75.000 COP, while Offer B costs $84.000 COP and exceeds her budget.",
+          "is_correct": true,
+          "feedback": "Offer A: $55.000 + $20.000 = $75.000 COP (<= $80.000 COP). Offer B: $42.000 * 2 = $84.000 COP (> $80.000 COP)."
+        },
+        {
+          "letter": "B",
+          "text": "Offer B fits her budget because two shirts cost only $42.000 COP in total.",
+          "is_correct": false,
+          "feedback": "Offer B specifies $42.000 COP EACH, so two shirts cost $84.000 COP, exceeding her $80.000 COP budget."
+        },
+        {
+          "letter": "C",
+          "text": "Both offers fit her budget because neither exceeds $70.000 COP.",
+          "is_correct": false,
+          "feedback": "Offer A is $75.000 COP and Offer B is $84.000 COP; Offer B exceeds the $80.000 COP budget."
+        },
+        {
+          "letter": "D",
+          "text": "Neither offer fits her budget because Offer A costs $95.000 COP.",
+          "is_correct": false,
+          "feedback": "Offer A costs $75.000 COP ($55.000 + $20.000), which is within her $80.000 COP budget."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluación de alternativas de compra en inglés comparando el costo total de paquetes de prendas frente a un presupuesto establecido ($80.000 COP).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-5-2026-W24-clothes-shopping-prices-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-14-grade-5-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T15:41:45.188Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-5-2026-W14-energia-formas-transformaciones-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es la energía?",
+      "context": "En una clase de ciencias en un colegio de Santa Marta, la profesora enciende una bombilla y explica que algo hace posible que ilumine el salón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La capacidad que tienen los cuerpos para producir cambios o realizar un trabajo.",
+          "is_correct": true,
+          "feedback": "La energía permite que los cuerpos se muevan, se calienten o emitan luz."
+        },
+        {
+          "letter": "B",
+          "text": "Un tipo de materia sólida que se puede tocar con las manos.",
+          "is_correct": false,
+          "feedback": "La energía no es un objeto material, sino una propiedad que produce cambios."
+        },
+        {
+          "letter": "C",
+          "text": "Un objeto que solo existe dentro de los libros de texto.",
+          "is_correct": false,
+          "feedback": "La energía es real y se manifiesta continuamente en la vida cotidiana."
+        },
+        {
+          "letter": "D",
+          "text": "Una sustancia líquida que se puede beber.",
+          "is_correct": false,
+          "feedback": "La energía no se bebe ni se almacena como un líquido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprensión inicial del concepto de energía como capacidad para producir cambios o realizar trabajo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-5-2026-W14-energia-formas-transformaciones-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W14-energia-formas-transformaciones-001-MASTERY-bundle-v2",
+      "statement": "¿Qué representan la luz del Sol, el calor de la estufa y el movimiento de la bicicleta?",
+      "context": "Un estudiante de Cúcuta observa tres situaciones: la luz del Sol que entra por la ventana, el calor de una estufa y el movimiento de una bicicleta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diferentes formas en que se manifiesta la energía.",
+          "is_correct": true,
+          "feedback": "La energía se presenta como luz, calor y movimiento, entre otras formas."
+        },
+        {
+          "letter": "B",
+          "text": "Un mismo tipo de materia que cambia de color.",
+          "is_correct": false,
+          "feedback": "No son materia ni cambios de color, sino manifestaciones de la energía."
+        },
+        {
+          "letter": "C",
+          "text": "Fuerzas que no producen ningún cambio en el entorno.",
+          "is_correct": false,
+          "feedback": "La luz, el calor y el movimiento producen cambios claramente observables."
+        },
+        {
+          "letter": "D",
+          "text": "Objetos que no tienen ninguna relación con la energía.",
+          "is_correct": false,
+          "feedback": "Todas esas situaciones son ejemplos evidentes de energía en acción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocimiento de la luz, el calor y el movimiento como formas cotidianas de manifestación de la energía.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-5-2026-W14-energia-formas-transformaciones-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W14-energia-formas-transformaciones-001-MASTERY-bundle-v3",
+      "statement": "¿Qué transformación de energía ocurre en la licuadora?",
+      "context": "En la cocina de una casa en Bucaramanga, una licuadora se conecta a la corriente y hace girar sus cuchillas para triturar frutas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía eléctrica en energía de movimiento.",
+          "is_correct": true,
+          "feedback": "El motor convierte la electricidad en el giro de las cuchillas."
+        },
+        {
+          "letter": "B",
+          "text": "Energía de movimiento en energía eléctrica.",
+          "is_correct": false,
+          "feedback": "Esa transformación ocurre en un generador, no en una licuadora enchufada."
+        },
+        {
+          "letter": "C",
+          "text": "Energía química en energía luminosa.",
+          "is_correct": false,
+          "feedback": "La licuadora no produce luz a partir de reacciones químicas."
+        },
+        {
+          "letter": "D",
+          "text": "Energía del sonido en energía eléctrica.",
+          "is_correct": false,
+          "feedback": "El motor genera sonido, pero no lo transforma en electricidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicación del concepto de transformación de energía en un electrodoméstico de uso común.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-5-2026-W14-energia-formas-transformaciones-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W14-energia-formas-transformaciones-001-MASTERY-bundle-v4",
+      "statement": "¿Qué forma de energía se transfiere del fogón al agua de la olla?",
+      "context": "Una olla con agua se coloca sobre una estufa encendida en una casa de Cúcuta y, después de un rato, el agua comienza a hervir.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía térmica o calor.",
+          "is_correct": true,
+          "feedback": "El fogón transfiere calor al agua hasta que esta alcanza la ebullición."
+        },
+        {
+          "letter": "B",
+          "text": "Energía química.",
+          "is_correct": false,
+          "feedback": "El calor del fogón es energía térmica, no una reacción química del agua."
+        },
+        {
+          "letter": "C",
+          "text": "Energía luminosa.",
+          "is_correct": false,
+          "feedback": "Aunque la llama emite luz, lo que calienta el agua es la energía térmica."
+        },
+        {
+          "letter": "D",
+          "text": "Energía nuclear.",
+          "is_correct": false,
+          "feedback": "La energía nuclear no interviene en el funcionamiento de una estufa doméstica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificación de la energía térmica como la forma de energía transferida entre cuerpos a diferente temperatura.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-5-2026-W14-energia-formas-transformaciones-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W14-energia-formas-transformaciones-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la secuencia correcta de transformación de energía que ocurre en la linterna?",
+      "context": "Una estudiante de Popayán enciende una linterna con pilas para leer en la oscuridad de su cuarto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía química de las pilas, luego energía eléctrica y finalmente energía luminosa.",
+          "is_correct": true,
+          "feedback": "Las pilas liberan energía química, que se convierte en electricidad y luego en luz."
+        },
+        {
+          "letter": "B",
+          "text": "Energía luminosa, luego energía química y finalmente energía eléctrica.",
+          "is_correct": false,
+          "feedback": "La luz es el resultado final, no el punto de partida del proceso."
+        },
+        {
+          "letter": "C",
+          "text": "Energía eléctrica, luego energía química y finalmente energía luminosa.",
+          "is_correct": false,
+          "feedback": "El orden está invertido: primero ocurre la reacción química en las pilas."
+        },
+        {
+          "letter": "D",
+          "text": "Energía de movimiento, luego energía química y finalmente energía eléctrica.",
+          "is_correct": false,
+          "feedback": "El movimiento no es el origen de la energía en una linterna con pilas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicación de cadenas de transformación de energía en un dispositivo sencillo y cotidiano.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CN-5-2026-W14-energia-formas-transformaciones-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W14-energia-formas-transformaciones-001-MASTERY-bundle-v6",
+      "statement": "¿Qué conclusión explica mejor por qué ambos aparatos usan energía eléctrica pero producen efectos distintos?",
+      "context": "En un taller de ciencias en Neiva, los estudiantes comparan un ventilador y un radio: el ventilador mueve el aire y el radio produce sonido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque cada aparato transforma la energía eléctrica en una forma diferente de energía.",
+          "is_correct": true,
+          "feedback": "El ventilador la convierte en movimiento y el radio en sonido, según su función."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el radio no necesita energía para funcionar.",
+          "is_correct": false,
+          "feedback": "Todo aparato eléctrico, incluido el radio, requiere energía para funcionar."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el ventilador produce energía química al girar.",
+          "is_correct": false,
+          "feedback": "El ventilador convierte electricidad en movimiento, no en energía química."
+        },
+        {
+          "letter": "D",
+          "text": "Porque ambos producen exactamente el mismo efecto sobre el ambiente.",
+          "is_correct": false,
+          "feedback": "Mover el aire y producir sonido son efectos claramente diferentes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Análisis de cómo un mismo tipo de energía inicial puede transformarse en formas distintas según el aparato.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.61,
+      "bundle_id": "CO-CN-5-2026-W14-energia-formas-transformaciones-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W14-energia-formas-transformaciones-001-MASTERY-bundle-v7",
+      "statement": "¿Qué interpretación describe mejor las transformaciones de energía al pedalear?",
+      "context": "Un niño de Manizales pedalea su bicicleta por una loma. Al subir, siente que debe hacer más fuerza y que su cuerpo se calienta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La energía de los alimentos se transforma en movimiento y parte se libera como calor.",
+          "is_correct": true,
+          "feedback": "El cuerpo obtiene energía de los alimentos y la convierte en trabajo muscular y calor."
+        },
+        {
+          "letter": "B",
+          "text": "La bicicleta crea energía de la nada al girar sus ruedas.",
+          "is_correct": false,
+          "feedback": "La energía no se crea; se transforma a partir de una fuente existente."
+        },
+        {
+          "letter": "C",
+          "text": "El calor del cuerpo desaparece sin transformarse en nada.",
+          "is_correct": false,
+          "feedback": "La energía no desaparece; parte del trabajo muscular se disipa como calor."
+        },
+        {
+          "letter": "D",
+          "text": "La energía del movimiento se convierte en alimentos dentro del estómago.",
+          "is_correct": false,
+          "feedback": "El cuerpo no produce alimentos a partir del movimiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Análisis de las transformaciones de energía en el cuerpo humano durante la actividad física.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.57,
+      "bundle_id": "CO-CN-5-2026-W14-energia-formas-transformaciones-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W14-energia-formas-transformaciones-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la mejor evaluación de estas acciones?",
+      "context": "En un colegio de Riohacha se debate cómo ahorrar energía: apagar las luces que no se usan, desconectar los aparatos y emplear bombillos ahorradores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son adecuadas porque evitan desperdiciar energía y reducen el consumo eléctrico de la casa y la escuela.",
+          "is_correct": true,
+          "feedback": "Evitar el consumo innecesario ahorra energía y protege los recursos naturales."
+        },
+        {
+          "letter": "B",
+          "text": "Son inútiles porque la energía nunca se agota ni tiene costo alguno.",
+          "is_correct": false,
+          "feedback": "La energía tiene costos económicos y ambientales que conviene reducir."
+        },
+        {
+          "letter": "C",
+          "text": "Solo sirven para las grandes empresas y no para los hogares.",
+          "is_correct": false,
+          "feedback": "El ahorro de energía es útil en cualquier lugar, incluidos los hogares y las escuelas."
+        },
+        {
+          "letter": "D",
+          "text": "Consisten en usar más aparatos al mismo tiempo para gastar la energía acumulada.",
+          "is_correct": false,
+          "feedback": "Usar más aparatos aumenta el consumo en lugar de reducirlo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluación de prácticas de ahorro energético y su impacto en el consumo responsable de la energía.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-5-2026-W14-energia-formas-transformaciones-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

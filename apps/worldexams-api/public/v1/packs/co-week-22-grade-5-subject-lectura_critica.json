@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-22-grade-5-subject-lectura_critica",
+    "generated_at": "2026-09-12T15:41:45.207Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-5-2026-W22-signos-puntuacion-dialogos-narracion-001-MASTERY-bundle-v1",
+      "statement": "En el cuento aparece: \"¿A qué hora sale el bus para el Cocuy?\". ¿Qué signos se usaron?",
+      "context": "En una biblioteca de Tunja, Boyacá, los niños leen un cuento sobre un viaje al nevado del Cocuy.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Signos de interrogación, porque es una pregunta.",
+          "is_correct": true,
+          "feedback": "Es correcta: los signos de apertura y cierre de interrogación marcan una pregunta directa."
+        },
+        {
+          "letter": "B",
+          "text": "Signos de exclamación, porque es un grito.",
+          "is_correct": false,
+          "feedback": "Error: no hay emoción fuerte ni orden; es una pregunta de información."
+        },
+        {
+          "letter": "C",
+          "text": "Punto y coma, porque es una lista.",
+          "is_correct": false,
+          "feedback": "Error: no hay enumeración ni pausa intermedia de ese tipo."
+        },
+        {
+          "letter": "D",
+          "text": "Comillas de diálogo sin pregunta.",
+          "is_correct": false,
+          "feedback": "Error: la oración sí pregunta algo y lleva signos de interrogación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los signos de interrogación (¿?) se usan para preguntas directas. Reconocerlos ayuda a leer con la entonación adecuada.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-5-2026-W22-signos-puntuacion-dialogos-narracion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W22-signos-puntuacion-dialogos-narracion-001-MASTERY-bundle-v2",
+      "statement": "¿Qué expresa esa oración?",
+      "context": "En un cuento leído en Pasto, Nariño, aparece: \"¡Qué hermosa está la laguna de La Cocha!\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una pregunta sobre el horario de la lancha.",
+          "is_correct": false,
+          "feedback": "Error: no hay pregunta; no se pide ninguna información."
+        },
+        {
+          "letter": "B",
+          "text": "Una orden para limpiar la laguna.",
+          "is_correct": false,
+          "feedback": "Error: no hay mandato ni instrucción."
+        },
+        {
+          "letter": "C",
+          "text": "Admiración por la belleza de la laguna.",
+          "is_correct": true,
+          "feedback": "Es correcta: los signos de exclamación marcan emoción o asombro ante lo hermoso."
+        },
+        {
+          "letter": "D",
+          "text": "Una duda sobre el nombre de la laguna.",
+          "is_correct": false,
+          "feedback": "Error: el nombre está claro; lo que se expresa es emoción."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los signos de exclamación (¡!) expresan emociones como alegría, asombro o entusiasmo. Aquí transmiten admiración.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-5-2026-W22-signos-puntuacion-dialogos-narracion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W22-signos-puntuacion-dialogos-narracion-001-MASTERY-bundle-v3",
+      "statement": "¿Dónde debe colocar comas para enumerar bien las frutas?",
+      "context": "En un taller de escritura en Neiva, Huila, un niño escribe: \"Compré cholupa maracuyá y granadilla en el mercado\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Compré, cholupa, maracuyá, y granadilla en el mercado.",
+          "is_correct": false,
+          "feedback": "Error: la coma después de Compré corta el verbo de su complemento."
+        },
+        {
+          "letter": "B",
+          "text": "Compré cholupa, maracuyá y granadilla en el mercado.",
+          "is_correct": true,
+          "feedback": "Es correcta: las comas separan los elementos de la enumeración sin romper la oración."
+        },
+        {
+          "letter": "C",
+          "text": "Compré cholupa maracuyá y, granadilla en el mercado.",
+          "is_correct": false,
+          "feedback": "Error: falta la coma entre cholupa y maracuyá y sobra antes de granadilla."
+        },
+        {
+          "letter": "D",
+          "text": "Compré cholupa maracuyá y granadilla, en el mercado.",
+          "is_correct": false,
+          "feedback": "Error: no se pone coma entre el complemento y el lugar de esa forma."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La coma separa los elementos de una enumeración. Se coloca entre cada fruta para que la lista quede clara.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-5-2026-W22-signos-puntuacion-dialogos-narracion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W22-signos-puntuacion-dialogos-narracion-001-MASTERY-bundle-v4",
+      "statement": "¿Para qué sirve el guion largo (—) en ese fragmento?",
+      "context": "En un cuento de Valledupar, Cesar, dos amigos conversan: \"—Vamos al río —dijo Pedro. —Vamos —respondió Ana\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para separar las sílabas de cada palabra.",
+          "is_correct": false,
+          "feedback": "Error: las sílabas se separan con guion corto al final del renglón, no así."
+        },
+        {
+          "letter": "B",
+          "text": "Para unir dos oraciones en una sola pregunta.",
+          "is_correct": false,
+          "feedback": "Error: el guion largo no une oraciones ni crea preguntas."
+        },
+        {
+          "letter": "C",
+          "text": "Para indicar que terminó el cuento.",
+          "is_correct": false,
+          "feedback": "Error: el final del cuento no se marca con guion de diálogo."
+        },
+        {
+          "letter": "D",
+          "text": "Para marcar la intervención de cada personaje en el diálogo.",
+          "is_correct": true,
+          "feedback": "Es correcta: cada guion largo abre la voz de Pedro y luego la de Ana."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El guion largo introduce la voz de cada personaje en un diálogo. Permite saber quién habla en cada turno.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-5-2026-W22-signos-puntuacion-dialogos-narracion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W22-signos-puntuacion-dialogos-narracion-001-MASTERY-bundle-v5",
+      "statement": "¿Qué función cumple la coma después de \"Mañana\"?",
+      "context": "Una cartelera de Sincelejo, Sucre, anuncia: \"Mañana, gran desfile de comparsas por la plaza central\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Separar la expresión de tiempo para resaltar cuándo será el desfile.",
+          "is_correct": true,
+          "feedback": "Es correcta: la coma aísla el marcador temporal y da claridad al anuncio."
+        },
+        {
+          "letter": "B",
+          "text": "Indicar una pregunta al público.",
+          "is_correct": false,
+          "feedback": "Error: el anuncio no pregunta nada."
+        },
+        {
+          "letter": "C",
+          "text": "Marcar el diálogo de un personaje.",
+          "is_correct": false,
+          "feedback": "Error: no hay personajes hablando en la cartelera."
+        },
+        {
+          "letter": "D",
+          "text": "Cerrar el mensaje con punto final.",
+          "is_correct": false,
+          "feedback": "Error: la coma no cierra el mensaje; solo hace una pausa breve."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La coma también separa expresiones de tiempo al inicio de la oración. Así el lector identifica rápido cuándo ocurre el evento.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-5-2026-W22-signos-puntuacion-dialogos-narracion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W22-signos-puntuacion-dialogos-narracion-001-MASTERY-bundle-v6",
+      "statement": "¿Por qué la primera versión se entiende mejor?",
+      "context": "En Quibdó, Chocó, dos versiones del mismo diálogo compiten: \"—¿Vienes al partido? —preguntó Luis. —Claro que sí —dijo Marta.\" frente a \"Vienes al partido preguntó Luis Claro que sí dijo Marta\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque usa letras más grandes y de colores.",
+          "is_correct": false,
+          "feedback": "Error: el tamaño y el color no cambian la estructura del diálogo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque repite los nombres muchas veces.",
+          "is_correct": false,
+          "feedback": "Error: repetir nombres no aclara quién pregunta y quién responde."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el guion marca quién habla y la interrogación señala la pregunta de Luis.",
+          "is_correct": true,
+          "feedback": "Es correcta: los signos delimitan turnos de habla y la intención de cada intervención."
+        },
+        {
+          "letter": "D",
+          "text": "Porque elimina todos los verbos de habla.",
+          "is_correct": false,
+          "feedback": "Error: los verbos preguntó y dijo ayudan a identificar al hablante."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar las dos versiones muestra que los signos organizan el diálogo: guion para cada voz e interrogación para la pregunta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-5-2026-W22-signos-puntuacion-dialogos-narracion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W22-signos-puntuacion-dialogos-narracion-001-MASTERY-bundle-v7",
+      "statement": "¿Qué explica la diferencia de significado entre los dos avisos?",
+      "context": "En Popayán, Cauca, un aviso dice: \"No, coman la bandeja paisa\" y otro dice: \"No coman la bandeja paisa\". Los niños discuten el cambio de sentido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El tipo de letra usada en cada aviso.",
+          "is_correct": false,
+          "feedback": "Error: la letra no cambia el significado de las palabras."
+        },
+        {
+          "letter": "B",
+          "text": "El color del papel del aviso.",
+          "is_correct": false,
+          "feedback": "Error: el color no altera el sentido de la oración."
+        },
+        {
+          "letter": "C",
+          "text": "La coma después de No, que cambia una prohibición en una invitación.",
+          "is_correct": true,
+          "feedback": "Es correcta: con coma se invita a comer; sin coma se prohíbe comer."
+        },
+        {
+          "letter": "D",
+          "text": "La hora en que se lee cada aviso.",
+          "is_correct": false,
+          "feedback": "Error: el sentido depende de la puntuación, no de la hora de lectura."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una sola coma puede cambiar todo el sentido: \"No, coman\" invita, mientras \"No coman\" prohíbe. La puntuación construye significado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LC-5-2026-W22-signos-puntuacion-dialogos-narracion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W22-signos-puntuacion-dialogos-narracion-001-MASTERY-bundle-v8",
+      "statement": "¿Cómo se evalúa ese texto y qué debe corregir?",
+      "context": "En Yopal, Casanare, un estudiante entrega su narración final sin ningún signo: todo el diálogo y la descripción en un solo bloque.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Está perfecto porque los signos no importan para narrar.",
+          "is_correct": false,
+          "feedback": "Error: sin signos el lector no distingue voces ni pausas."
+        },
+        {
+          "letter": "B",
+          "text": "Está perfecto porque el diálogo se entiende sin guiones.",
+          "is_correct": false,
+          "feedback": "Error: sin guiones las voces de los personajes se confunden."
+        },
+        {
+          "letter": "C",
+          "text": "Debe borrar el diálogo y dejar solo descripción.",
+          "is_correct": false,
+          "feedback": "Error: eliminar el diálogo empobrece la narración en vez de mejorarla."
+        },
+        {
+          "letter": "D",
+          "text": "Debe agregar punto, comas, interrogaciones y guiones de diálogo para que el lector distinga narración, preguntas y voces.",
+          "is_correct": true,
+          "feedback": "Es correcta: evalúa la falla global y propone la corrección completa con cada signo en su función."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar un texto exige revisar su puntuación: el punto cierra ideas, la coma ordena, la interrogación pregunta y el guion da voz a los personajes.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-5-2026-W22-signos-puntuacion-dialogos-narracion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-17-grade-5-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-12T15:41:45.222Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-5-2026-W17-planos-mapas-puntos-cardinales-001-MASTERY-bundle-v1",
+      "statement": "¿Cuáles son los cuatro puntos cardinales?",
+      "context": "En una clase de sociales en un colegio de Villavicencio, la profesora dibuja una rosa de los vientos en el tablero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Norte, sur, este y oeste.",
+          "is_correct": true,
+          "feedback": "Los cuatro puntos cardinales son norte, sur, este y oeste."
+        },
+        {
+          "letter": "B",
+          "text": "Arriba, abajo, derecha e izquierda.",
+          "is_correct": false,
+          "feedback": "Arriba y abajo indican posición vertical, no son puntos cardinales."
+        },
+        {
+          "letter": "C",
+          "text": "Frío, calor, lluvia y viento.",
+          "is_correct": false,
+          "feedback": "Esos son fenómenos del clima, no puntos cardinales."
+        },
+        {
+          "letter": "D",
+          "text": "Mañana, tarde, noche y mediodía.",
+          "is_correct": false,
+          "feedback": "Esos son momentos del día, no puntos cardinales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Recordar los cuatro puntos cardinales como referencia básica de orientación.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-5-2026-W17-planos-mapas-puntos-cardinales-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W17-planos-mapas-puntos-cardinales-001-MASTERY-bundle-v2",
+      "statement": "¿Para qué sirve la rosa de los vientos en un mapa o en un plano?",
+      "context": "En un colegio de Sincelejo, los estudiantes observan la rosa de los vientos de un mapa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para indicar la orientación de los puntos cardinales.",
+          "is_correct": true,
+          "feedback": "La rosa de los vientos muestra dónde quedan el norte, el sur, el este y el oeste."
+        },
+        {
+          "letter": "B",
+          "text": "Para señalar dónde están los ríos más grandes.",
+          "is_correct": false,
+          "feedback": "Los ríos se muestran con su propio símbolo, no con la rosa de los vientos."
+        },
+        {
+          "letter": "C",
+          "text": "Para medir la temperatura de una ciudad.",
+          "is_correct": false,
+          "feedback": "La rosa de los vientos no mide temperatura."
+        },
+        {
+          "letter": "D",
+          "text": "Para contar el número de habitantes.",
+          "is_correct": false,
+          "feedback": "La rosa de los vientos no contiene datos de población."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender la función de la rosa de los vientos como indicador de orientación.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-5-2026-W17-planos-mapas-puntos-cardinales-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W17-planos-mapas-puntos-cardinales-001-MASTERY-bundle-v3",
+      "statement": "Si el Sol sale por el oriente, ¿en qué dirección queda el oriente?",
+      "context": "En una mañana despejada en Tunja, un estudiante observa que el Sol sale por el oriente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacia el este.",
+          "is_correct": true,
+          "feedback": "El oriente corresponde al este, por donde sale el Sol."
+        },
+        {
+          "letter": "B",
+          "text": "Hacia el norte.",
+          "is_correct": false,
+          "feedback": "El norte no es el punto por donde sale el Sol."
+        },
+        {
+          "letter": "C",
+          "text": "Hacia el oeste.",
+          "is_correct": false,
+          "feedback": "El oeste es por donde se oculta el Sol, no por donde sale."
+        },
+        {
+          "letter": "D",
+          "text": "Hacia el sur.",
+          "is_correct": false,
+          "feedback": "El sur no es el punto por donde sale el Sol."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la relación entre la salida del Sol y el punto cardinal este u oriente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.78,
+      "bundle_id": "CO-SOC-5-2026-W17-planos-mapas-puntos-cardinales-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W17-planos-mapas-puntos-cardinales-001-MASTERY-bundle-v4",
+      "statement": "En los planos, ¿qué representa generalmente el símbolo de una cruz roja?",
+      "context": "En un plano del barrio de una ciudad colombiana, el símbolo de una cruz roja indica un lugar especial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un puesto de salud o un hospital.",
+          "is_correct": true,
+          "feedback": "La cruz roja es el símbolo cartográfico de los servicios de salud."
+        },
+        {
+          "letter": "B",
+          "text": "Una cancha de fútbol.",
+          "is_correct": false,
+          "feedback": "Las canchas se representan con otros símbolos, no con una cruz roja."
+        },
+        {
+          "letter": "C",
+          "text": "Una tienda de ropa.",
+          "is_correct": false,
+          "feedback": "La cruz roja no representa tiendas de ropa."
+        },
+        {
+          "letter": "D",
+          "text": "Un parqueadero de bicicletas.",
+          "is_correct": false,
+          "feedback": "La cruz roja no representa parqueaderos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la interpretación de símbolos cartográficos en un plano del barrio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.73,
+      "bundle_id": "CO-SOC-5-2026-W17-planos-mapas-puntos-cardinales-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W17-planos-mapas-puntos-cardinales-001-MASTERY-bundle-v5",
+      "statement": "Si el parque principal está al occidente del colegio, ¿cómo se ubica el colegio con respecto al parque?",
+      "context": "En un plano del barrio de Manizales, el colegio aparece al lado derecho del parque principal, hacia el oriente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El colegio está al oriente del parque.",
+          "is_correct": true,
+          "feedback": "Si el parque está al occidente, el colegio queda al lado contrario, el oriente."
+        },
+        {
+          "letter": "B",
+          "text": "El colegio está al occidente del parque.",
+          "is_correct": false,
+          "feedback": "El occidente es la posición del parque, no la del colegio."
+        },
+        {
+          "letter": "C",
+          "text": "El colegio está al sur del parque.",
+          "is_correct": false,
+          "feedback": "La ubicación descrita corresponde al oriente, no al sur."
+        },
+        {
+          "letter": "D",
+          "text": "El colegio está en el mismo lugar del parque.",
+          "is_correct": false,
+          "feedback": "El colegio y el parque están en lugares diferentes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar los puntos cardinales para ubicar lugares entre sí en un plano del barrio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.68,
+      "bundle_id": "CO-SOC-5-2026-W17-planos-mapas-puntos-cardinales-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W17-planos-mapas-puntos-cardinales-001-MASTERY-bundle-v6",
+      "statement": "Si en el plano de la ciudad los cerros están en el borde derecho, ¿qué se puede analizar sobre su ubicación?",
+      "context": "En un plano de Bogotá, los cerros orientales aparecen dibujados en el borde derecho del plano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los cerros se ubican hacia el oriente de la ciudad.",
+          "is_correct": true,
+          "feedback": "Por convención, el borde derecho de un plano orientado al norte corresponde al este."
+        },
+        {
+          "letter": "B",
+          "text": "Los cerros se ubican hacia el occidente de la ciudad.",
+          "is_correct": false,
+          "feedback": "El borde derecho corresponde al oriente, no al occidente."
+        },
+        {
+          "letter": "C",
+          "text": "Los cerros están en el centro de la ciudad.",
+          "is_correct": false,
+          "feedback": "Los cerros están en el borde, no en el centro."
+        },
+        {
+          "letter": "D",
+          "text": "Los cerros no tienen una ubicación definida.",
+          "is_correct": false,
+          "feedback": "Su posición en el borde derecho permite ubicarlos al oriente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la ubicación de un elemento del plano usando la orientación de los puntos cardinales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.62,
+      "bundle_id": "CO-SOC-5-2026-W17-planos-mapas-puntos-cardinales-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W17-planos-mapas-puntos-cardinales-001-MASTERY-bundle-v7",
+      "statement": "Si la Orinoquía se ubica al este de la cordillera Oriental, ¿hacia qué lado del mapa debe mirar la estudiante?",
+      "context": "En un mapa de Colombia, una estudiante de Medellín busca la región de la Orinoquía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacia el oriente del mapa.",
+          "is_correct": true,
+          "feedback": "El este es el oriente; allí se ubica la región de la Orinoquía."
+        },
+        {
+          "letter": "B",
+          "text": "Hacia el occidente del mapa.",
+          "is_correct": false,
+          "feedback": "El occidente queda al lado contrario de la Orinoquía."
+        },
+        {
+          "letter": "C",
+          "text": "Hacia el norte del mapa.",
+          "is_correct": false,
+          "feedback": "La Orinoquía se ubica al este, no al norte."
+        },
+        {
+          "letter": "D",
+          "text": "Hacia el sur del mapa.",
+          "is_correct": false,
+          "feedback": "La Orinoquía se ubica al este, no al sur."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la ubicación de una región colombiana usando los puntos cardinales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.57,
+      "bundle_id": "CO-SOC-5-2026-W17-planos-mapas-puntos-cardinales-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W17-planos-mapas-puntos-cardinales-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué es importante saber leer planos y mapas para desenvolverse en la ciudad?",
+      "context": "Un grupo de estudiantes de Barranquilla conversa sobre la utilidad de saber leer planos y mapas en la vida diaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque permite ubicarse, orientarse y llegar a los lugares sin perderse.",
+          "is_correct": true,
+          "feedback": "Leer planos y mapas facilita la movilidad y la orientación en el territorio."
+        },
+        {
+          "letter": "B",
+          "text": "Porque sirve únicamente para decorar las paredes de la casa.",
+          "is_correct": false,
+          "feedback": "Los planos y mapas son herramientas útiles de orientación, no solo decoración."
+        },
+        {
+          "letter": "C",
+          "text": "Porque solo los turistas extranjeros necesitan mapas.",
+          "is_correct": false,
+          "feedback": "Cualquier persona se beneficia al saber ubicarse en su ciudad."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los mapas muestran el clima de todos los días.",
+          "is_correct": false,
+          "feedback": "Los mapas no muestran el clima diario; muestran la ubicación de lugares."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la importancia de leer planos y mapas para orientarse en la vida cotidiana.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.52,
+      "bundle_id": "CO-SOC-5-2026-W17-planos-mapas-puntos-cardinales-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

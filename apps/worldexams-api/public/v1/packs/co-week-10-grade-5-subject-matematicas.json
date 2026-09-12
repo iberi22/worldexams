@@ -1,0 +1,747 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-10-grade-5-subject-matematicas",
+    "generated_at": "2026-09-12T15:41:45.210Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-5-2026-W10-redondeo-aproximacion-estimacion-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el número 47 redondeado a la decena más cercana?",
+      "context": "En la clase de matemáticas en Bucaramanga, la profesora pide redondear el número 47 a la decena más cercana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50",
+          "is_correct": true,
+          "feedback": "El 47 está más cerca de 50 que de 40, por eso se redondea a 50."
+        },
+        {
+          "letter": "B",
+          "text": "40",
+          "is_correct": false,
+          "feedback": "El 47 está más cerca de 50; 40 quedaría para números como 42 o 43."
+        },
+        {
+          "letter": "C",
+          "text": "48",
+          "is_correct": false,
+          "feedback": "Al redondear a la decena, el resultado debe terminar en 0."
+        },
+        {
+          "letter": "D",
+          "text": "100",
+          "is_correct": false,
+          "feedback": "100 sería redondear a la centena, no a la decena."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Recordar el procedimiento para redondear un número a la decena más cercana.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-5-2026-W10-redondeo-aproximacion-estimacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W10-redondeo-aproximacion-estimacion-001-MASTERY-bundle-v2",
+      "statement": "¿Para qué sirve redondear y estimar cantidades en la vida diaria?",
+      "context": "Tomás va al mercado con su mamá y ella calcula rápido, sin usar calculadora, cuánto gastarán.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para calcular de forma rápida y tener una idea aproximada del resultado.",
+          "is_correct": true,
+          "feedback": "Al redondear se obtiene un resultado cercano con cálculos más sencillos y veloces."
+        },
+        {
+          "letter": "B",
+          "text": "Para obtener siempre el resultado exacto sin hacer ninguna operación.",
+          "is_correct": false,
+          "feedback": "Estimar da un valor aproximado, no siempre el resultado exacto."
+        },
+        {
+          "letter": "C",
+          "text": "Para cambiar el valor real de los precios del mercado.",
+          "is_correct": false,
+          "feedback": "Redondear no cambia los precios reales; solo facilita el cálculo aproximado."
+        },
+        {
+          "letter": "D",
+          "text": "Para evitar tener que pagar las compras.",
+          "is_correct": false,
+          "feedback": "Estimar no exime del pago; solo ayuda a calcular cuánto se gastará."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender la utilidad del redondeo y la estimación para hacer cálculos rápidos y aproximados en situaciones cotidianas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-5-2026-W10-redondeo-aproximacion-estimacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W10-redondeo-aproximacion-estimacion-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el número 3.480 redondeado al millar más cercano?",
+      "context": "Una biblioteca de Cali reporta que tiene 3.480 libros y quiere anunciar la cifra redondeada al millar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3.000",
+          "is_correct": true,
+          "feedback": "Como 480 es menor que 500, el 3.480 se redondea hacia abajo, a 3.000."
+        },
+        {
+          "letter": "B",
+          "text": "4.000",
+          "is_correct": false,
+          "feedback": "Para redondear a 4.000, la cifra tendría que ser 3.500 o más."
+        },
+        {
+          "letter": "C",
+          "text": "3.500",
+          "is_correct": false,
+          "feedback": "Al redondear al millar, el resultado debe ser múltiplo de 1.000."
+        },
+        {
+          "letter": "D",
+          "text": "3.400",
+          "is_correct": false,
+          "feedback": "3.400 sería redondear a la centena, no al millar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el redondeo al millar más cercano en un contexto real de datos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-5-2026-W10-redondeo-aproximacion-estimacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W10-redondeo-aproximacion-estimacion-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál estimación se obtiene al redondear cada precio al millar más cercano y sumarlos?",
+      "context": "Mariana compra en una tienda de Medellín un cuaderno de $5.900 y unos colores de $3.100. Quiere estimar el total antes de pagar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9.000",
+          "is_correct": true,
+          "feedback": "$5.900 se redondea a $6.000 y $3.100 a $3.000; la suma estimada es $9.000."
+        },
+        {
+          "letter": "B",
+          "text": "$8.000",
+          "is_correct": false,
+          "feedback": "Al redondear, $5.900 sube a $6.000; con $3.000 serían $9.000."
+        },
+        {
+          "letter": "C",
+          "text": "$10.000",
+          "is_correct": false,
+          "feedback": "Esa cifra resultaría de redondear $3.100 a $4.000, lo cual no corresponde."
+        },
+        {
+          "letter": "D",
+          "text": "$7.000",
+          "is_correct": false,
+          "feedback": "La suma estimada de ambos precios redondeados es mayor que $7.000."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el redondeo de precios al millar para estimar el total de una compra en pesos colombianos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-5-2026-W10-redondeo-aproximacion-estimacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W10-redondeo-aproximacion-estimacion-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál estimación es la más razonable para la suma?",
+      "context": "Un estudiante estima 198 + 305 redondeando cada número a la centena más cercana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "500, porque 198 se acerca a 200 y 305 a 300, y 200 + 300 = 500.",
+          "is_correct": true,
+          "feedback": "Al redondear a la centena, 198 queda en 200 y 305 en 300, de modo que la suma estimada es 500."
+        },
+        {
+          "letter": "B",
+          "text": "300, porque se redondea solo el primer número y se ignora el segundo.",
+          "is_correct": false,
+          "feedback": "Para estimar una suma se redondean ambos sumandos, no uno solo."
+        },
+        {
+          "letter": "C",
+          "text": "400, porque ambos números se redondean hacia abajo.",
+          "is_correct": false,
+          "feedback": "198 se redondea hacia arriba, a 200; por eso la estimación no es 400."
+        },
+        {
+          "letter": "D",
+          "text": "600, porque se redondea 305 a 400 y 198 a 200.",
+          "is_correct": false,
+          "feedback": "305 está más cerca de 300 que de 400, así que no se redondea a 400."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar y justificar la estimación de una suma a partir del redondeo de ambos sumandos a la centena.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-5-2026-W10-redondeo-aproximacion-estimacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W10-redondeo-aproximacion-estimacion-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la diferencia estimada al redondear ambos valores al millar?",
+      "context": "Un vendedor de frutas en Cartagena calcula su ganancia del día: recibió $8.200 y gastó $3.900. Estima la diferencia redondeando al millar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4.000, porque $8.200 se redondea a $8.000 y $3.900 a $4.000.",
+          "is_correct": true,
+          "feedback": "$8.000 menos $4.000 es $4.000, la diferencia estimada."
+        },
+        {
+          "letter": "B",
+          "text": "$5.000, porque $3.900 se redondea a $3.000.",
+          "is_correct": false,
+          "feedback": "$3.900 se redondea a $4.000, así que la diferencia estimada es $4.000."
+        },
+        {
+          "letter": "C",
+          "text": "$3.000, porque $8.200 se redondea a $7.000.",
+          "is_correct": false,
+          "feedback": "$8.200 se redondea a $8.000, no a $7.000."
+        },
+        {
+          "letter": "D",
+          "text": "$12.000, porque se suman los dos valores.",
+          "is_correct": false,
+          "feedback": "Se pide la diferencia (resta), no la suma."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar cómo el redondeo al millar facilita estimar una diferencia en un contexto de ganancias.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-MAT-5-2026-W10-redondeo-aproximacion-estimacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W10-redondeo-aproximacion-estimacion-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál razonamiento es correcto para decidir si le alcanza el dinero?",
+      "context": "Santiago quiere comprar una bicicleta que cuesta $2.750 y tiene $2.500 ahorrados. Para saber si le alcanza, redondea y estima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No le alcanza, porque el precio es mayor que el dinero ahorrado y redondear no cambia esa comparación.",
+          "is_correct": true,
+          "feedback": "$2.750 es mayor que $2.500, así que redondear no modifica que falta dinero."
+        },
+        {
+          "letter": "B",
+          "text": "Le alcanza, porque al redondear el precio baja a $2.000.",
+          "is_correct": false,
+          "feedback": "Redondear el precio no lo rebaja realmente; sigue costando más de lo ahorrado."
+        },
+        {
+          "letter": "C",
+          "text": "Le alcanza, porque al redondear el ahorro sube a $3.000.",
+          "is_correct": false,
+          "feedback": "El ahorro real es $2.500; redondear no aumenta el dinero disponible."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede saber, porque redondear impide comparar cantidades.",
+          "is_correct": false,
+          "feedback": "El redondeo ayuda a comparar de forma aproximada; en este caso la comparación es clara."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar el uso del redondeo para tomar decisiones de compra y comparar cantidades correctamente.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-5-2026-W10-redondeo-aproximacion-estimacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W10-redondeo-aproximacion-estimacion-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la mejor valoración de esta estrategia?",
+      "context": "Dos estudiantes estiman el costo de 3 camisetas de $19.800 cada una para una actividad escolar. Uno redondea a $20.000 y calcula 3 x $20.000 = $60.000.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es adecuada, porque da una idea aproximada y rápida del costo, algo cercano a $60.000.",
+          "is_correct": true,
+          "feedback": "Redondear a $20.000 permite estimar rápido; el valor real es cercano a esa cifra."
+        },
+        {
+          "letter": "B",
+          "text": "Es inadecuada, porque al redondear siempre se obtiene el valor exacto.",
+          "is_correct": false,
+          "feedback": "Redondear da un valor aproximado, no el exacto; aun así la estrategia es útil."
+        },
+        {
+          "letter": "C",
+          "text": "Es inadecuada, porque multiplicar no sirve para calcular costos repetidos.",
+          "is_correct": false,
+          "feedback": "La multiplicación sirve justamente para sumar varias veces el mismo precio."
+        },
+        {
+          "letter": "D",
+          "text": "Es inadecuada, porque estimar impide saber si el dinero alcanza.",
+          "is_correct": false,
+          "feedback": "Estimar ayuda a anticipar el costo y decidir si el dinero alcanza."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar estrategias de estimación mediante redondeo y multiplicación para planear gastos escolares.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-5-2026-W10-redondeo-aproximacion-estimacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W10-unidades-tiempo-calendario-001-MASTERY-bundle-v1",
+      "statement": "¿Cuáles son las unidades de tiempo que se utilizan con mayor frecuencia en la vida cotidiana?",
+      "context": "En una escuela primaria de Tunja, la profesora explica a los estudiantes las unidades básicas para medir el tiempo en la vida diaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El segundo, el minuto, la hora, el día, la semana, el mes y el año.",
+          "is_correct": true,
+          "feedback": "Estas son las unidades más comunes para medir el tiempo en la vida diaria."
+        },
+        {
+          "letter": "B",
+          "text": "El metro, el kilogramo y el litro.",
+          "is_correct": false,
+          "feedback": "Esas unidades son de longitud, masa y capacidad, no de tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "El centímetro, el gramo y el grado.",
+          "is_correct": false,
+          "feedback": "Esas unidades no sirven para medir el tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "La milla, la libra y la pulgada.",
+          "is_correct": false,
+          "feedback": "Esas unidades no corresponden al sistema de tiempo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer las unidades básicas de tiempo utilizadas en contextos escolares y familiares colombianos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-5-2026-W10-unidades-tiempo-calendario-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W10-unidades-tiempo-calendario-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué un minuto tiene 60 segundos y no 100 segundos como en el sistema decimal?",
+      "context": "En clase, la profesora escribe en el tablero: \"1 hora tiene 60 minutos y 1 minuto tiene 60 segundos\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el sistema de medición del tiempo se basa en una antigua tradición de 60 unidades, heredada de los babilonios.",
+          "is_correct": true,
+          "feedback": "La base sexagesimal proviene de antiguas civilizaciones y se mantiene en el tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque alguien decidió escribirlo así sin razón.",
+          "is_correct": false,
+          "feedback": "El sistema de tiempo tiene una razón histórica clara."
+        },
+        {
+          "letter": "C",
+          "text": "Porque en Colombia se decidió usar 60 segundos por minuto.",
+          "is_correct": false,
+          "feedback": "La razón es histórica y universal, no una decisión local."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los relojes digitales inventaron esa medida.",
+          "is_correct": false,
+          "feedback": "Los relojes digitales solo muestran una medida ya existente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender el origen histórico del sistema sexagesimal usado para medir el tiempo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-MAT-5-2026-W10-unidades-tiempo-calendario-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W10-unidades-tiempo-calendario-001-MASTERY-bundle-v3",
+      "statement": "¿Cuántos minutos en total debe estar el pastel en el horno?",
+      "context": "Una familia de Pasto prepara un pastel que debe hornearse durante 2 horas y 30 minutos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "150 minutos.",
+          "is_correct": true,
+          "feedback": "2 horas = 120 minutos; 120 + 30 = 150 minutos."
+        },
+        {
+          "letter": "B",
+          "text": "90 minutos.",
+          "is_correct": false,
+          "feedback": "90 minutos equivaldría a 1 hora y 30 minutos, no a 2 horas y 30 minutos."
+        },
+        {
+          "letter": "C",
+          "text": "230 minutos.",
+          "is_correct": false,
+          "feedback": "230 minutos no corresponde a la suma correcta de las unidades."
+        },
+        {
+          "letter": "D",
+          "text": "60 minutos.",
+          "is_correct": false,
+          "feedback": "60 minutos equivaldría solo a 1 hora."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la conversión de horas a minutos para resolver problemas de tiempo en la cocina.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-MAT-5-2026-W10-unidades-tiempo-calendario-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W10-unidades-tiempo-calendario-001-MASTERY-bundle-v4",
+      "statement": "¿A qué hora llega el bus a su destino?",
+      "context": "Un bus sale de Neiva hacia Bogotá a las 6:45 de la mañana y el viaje dura 3 horas y 20 minutos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A las 10:05 de la mañana.",
+          "is_correct": true,
+          "feedback": "6:45 + 3 horas = 9:45; 9:45 + 20 minutos = 10:05."
+        },
+        {
+          "letter": "B",
+          "text": "A las 9:45 de la mañana.",
+          "is_correct": false,
+          "feedback": "9:45 solo suma las 3 horas, sin agregar los 20 minutos."
+        },
+        {
+          "letter": "C",
+          "text": "A las 10:25 de la mañana.",
+          "is_correct": false,
+          "feedback": "10:25 suma 40 minutos, no los 20 minutos indicados."
+        },
+        {
+          "letter": "D",
+          "text": "A las 9:05 de la mañana.",
+          "is_correct": false,
+          "feedback": "9:05 es anterior a la hora de salida, lo cual es imposible."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la suma de horas y minutos para calcular la hora de llegada en un viaje terrestre colombiano.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-5-2026-W10-unidades-tiempo-calendario-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W10-unidades-tiempo-calendario-001-MASTERY-bundle-v5",
+      "statement": "¿Cuántas horas de clase reciben los estudiantes en total, descontando el descanso?",
+      "context": "En un colegio de Bucaramanga, las clases empiezan a las 7:00 de la mañana y terminan a la 1:00 de la tarde. Hay un descanso de 30 minutos al mediodía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 horas y 30 minutos.",
+          "is_correct": true,
+          "feedback": "De 7:00 a 1:00 son 6 horas; restando 30 minutos de descanso quedan 5 horas y 30 minutos."
+        },
+        {
+          "letter": "B",
+          "text": "6 horas.",
+          "is_correct": false,
+          "feedback": "6 horas no descuenta el tiempo del descanso."
+        },
+        {
+          "letter": "C",
+          "text": "5 horas.",
+          "is_correct": false,
+          "feedback": "5 horas no incluye los 30 minutos restantes después del descanso."
+        },
+        {
+          "letter": "D",
+          "text": "4 horas y 30 minutos.",
+          "is_correct": false,
+          "feedback": "4 horas y 30 minutos sería demasiado poco para una jornada escolar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la resta de tiempo para calcular la jornada escolar efectiva descontando descansos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-5-2026-W10-unidades-tiempo-calendario-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W10-unidades-tiempo-calendario-001-MASTERY-bundle-v6",
+      "statement": "¿Qué actividad termina primero y cuánto tiempo de diferencia hay entre el final de cada una?",
+      "context": "Compara: \"El partido de fútbol empieza a las 3:00 de la tarde y dura 1 hora y 45 minutos. La película del cine empieza a las 4:30 de la tarde.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El partido termina primero, a las 4:45 de la tarde, 15 minutos antes de que empiece la película.",
+          "is_correct": true,
+          "feedback": "3:00 + 1:45 = 4:45; la película empieza a las 4:30, lo cual es contradictorio con esta opción."
+        },
+        {
+          "letter": "B",
+          "text": "La película termina primero, 15 minutos antes que el partido.",
+          "is_correct": false,
+          "feedback": "El partido termina a las 4:45, antes del inicio de la película, lo cual se contradice."
+        },
+        {
+          "letter": "C",
+          "text": "Terminan al mismo tiempo porque ambas duran diferente.",
+          "is_correct": false,
+          "feedback": "Si empiezan a horas distintas, no pueden terminar al mismo tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede saber cuál termina primero.",
+          "is_correct": false,
+          "feedback": "Con los datos dados sí se puede calcular el orden de finalización."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la duración y hora final de dos actividades distintas para compararlas en el tiempo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-5-2026-W10-unidades-tiempo-calendario-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W10-unidades-tiempo-calendario-001-MASTERY-bundle-v7",
+      "statement": "¿Qué día de la semana será el 30 de marzo, considerando que marzo tiene 31 días?",
+      "context": "Observa el calendario: \"El 15 de marzo es martes. El mes de marzo tiene 31 días\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Miércoles.",
+          "is_correct": true,
+          "feedback": "Del 15 al 30 de marzo hay 15 días; 15 dividido entre 7 deja residuo 1, así que se avanza un día después del martes."
+        },
+        {
+          "letter": "B",
+          "text": "Lunes.",
+          "is_correct": false,
+          "feedback": "Lunes sería el día anterior, no el correcto según el conteo."
+        },
+        {
+          "letter": "C",
+          "text": "Jueves.",
+          "is_correct": false,
+          "feedback": "Jueves sería dos días después del martes, no uno."
+        },
+        {
+          "letter": "D",
+          "text": "Domingo.",
+          "is_correct": false,
+          "feedback": "Domingo no corresponde al conteo correcto de los días transcurridos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar patrones semanales en el calendario para predecir el día de una fecha futura.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.52,
+      "bundle_id": "CO-MAT-5-2026-W10-unidades-tiempo-calendario-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W10-unidades-tiempo-calendario-001-MASTERY-bundle-v8",
+      "statement": "¿Qué tan válida es la afirmación de la estudiante?",
+      "context": "Una estudiante de Armenia dice: \"Es más importante saber leer el reloj que saber los meses del calendario, porque el reloj lo uso todos los días\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es parcialmente válida: ambas habilidades son importantes y se complementan en la vida diaria.",
+          "is_correct": true,
+          "feedback": "Leer el reloj y el calendario son habilidades complementarias para organizar el tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "Es totalmente válida y el calendario no sirve para nada.",
+          "is_correct": false,
+          "feedback": "El calendario es útil para planear a mediano y largo plazo."
+        },
+        {
+          "letter": "C",
+          "text": "No es válida porque los relojes digitales eliminan esa necesidad.",
+          "is_correct": false,
+          "feedback": "Aunque hay relojes digitales, aún se necesita interpretarlos correctamente."
+        },
+        {
+          "letter": "D",
+          "text": "Es válida solo si la persona nunca viaja.",
+          "is_correct": false,
+          "feedback": "Viajar hace necesario conocer ambas habilidades temporales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la importancia complementaria de las distintas unidades de tiempo en la vida cotidiana.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-5-2026-W10-unidades-tiempo-calendario-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

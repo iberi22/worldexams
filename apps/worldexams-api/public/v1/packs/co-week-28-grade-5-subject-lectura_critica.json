@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-28-grade-5-subject-lectura_critica",
+    "generated_at": "2026-09-12T15:41:45.210Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-5-2026-W28-adivinanzas-sabiduria-popular-001-MASTERY-bundle-v1",
+      "statement": "Según las pistas literales del texto, ¿qué características físicas describe la adivinanza?",
+      "context": "En una escuela de Sincelejo, la maestra lee esta adivinanza: \"Blanca por dentro, verde por fuera. Si quieres que te lo diga, espera.\" (Respuesta: la pera).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que es un animal rápido de color amarillo.",
+          "is_correct": false,
+          "feedback": "El texto no menciona animales ni rapidez; habla de colores blanco y verde de una fruta."
+        },
+        {
+          "letter": "B",
+          "text": "Que tiene el interior blanco y la cáscara verde.",
+          "is_correct": true,
+          "feedback": "La adivinanza dice literalmente \"blanca por dentro, verde por fuera\", describiendo los colores de la pera."
+        },
+        {
+          "letter": "C",
+          "text": "Que es un instrumento musical que suena fuerte.",
+          "is_correct": false,
+          "feedback": "Ninguna pista menciona música ni sonidos; todas las pistas describen apariencia y color."
+        },
+        {
+          "letter": "D",
+          "text": "Que es un río largo que cruza la montaña.",
+          "is_correct": false,
+          "feedback": "El texto no habla de ríos ni montañas; describe los colores de una fruta redonda."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Recuperar información explícita en una adivinanza reconociendo las pistas literales que describen al objeto escondido.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-5-2026-W28-adivinanzas-sabiduria-popular-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W28-adivinanzas-sabiduria-popular-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la idea principal que une todas las pistas de esta adivinanza?",
+      "context": "Lee la adivinanza que circula en las fiestas de San Juan en el Tolima: \"Tengo copa sin ser árbol, tengo ala sin ser ave, y aunque no tengo pico, del grano me alimento. ¿Quién soy?\" (Respuesta: el sombrero).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Describir cómo vuelan las aves sobre los cultivos de arroz.",
+          "is_correct": false,
+          "feedback": "Las menciones a copa, ala y pico no hablan de aves reales, sino de partes del sombrero campesino."
+        },
+        {
+          "letter": "B",
+          "text": "Explicar cómo se siembra el grano en el campo tolimense.",
+          "is_correct": false,
+          "feedback": "El texto no explica pasos de siembra; usa imágenes para esconder un objeto de uso diario."
+        },
+        {
+          "letter": "C",
+          "text": "Narrar la historia de un árbol frondoso del patio escolar.",
+          "is_correct": false,
+          "feedback": "La copa y el ala pertenecen al sombrero, no a un árbol; el texto no narra ninguna historia."
+        },
+        {
+          "letter": "D",
+          "text": "Presentar con imágenes las partes de un objeto para que el lector lo descubra.",
+          "is_correct": true,
+          "feedback": "Cada verso describe una parte del sombrero (copa, ala) con comparaciones, y juntos invitan a adivinar la respuesta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comprender la idea global de una adivinanza: un conjunto de pistas figuradas que apuntan a una sola solución.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-5-2026-W28-adivinanzas-sabiduria-popular-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W28-adivinanzas-sabiduria-popular-001-MASTERY-bundle-v3",
+      "statement": "¿Qué palabra completa mejor el verso final manteniendo la rima y el sentido de la adivinanza?",
+      "context": "En Medellín, un niño inventa una adivinanza sobre la vela pero deja el último verso sin terminar: \"Alta nací en la mesa, de cera es mi vestido, me encienden la cabeza y lloro derretida. Me apagan de un soplido y quedo _______.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dormida, porque rima con derretida y describe la vela apagada.",
+          "is_correct": true,
+          "feedback": "\"Dormida\" mantiene la rima en -ida y expresa con lenguaje figurado que la llama se apagó y la vela descansa."
+        },
+        {
+          "letter": "B",
+          "text": "Contenta, porque las velas siempre están felices en la mesa.",
+          "is_correct": false,
+          "feedback": "\"Contenta\" no rima con derretida y además atribuye una emoción que no cierra la idea de la llama apagada."
+        },
+        {
+          "letter": "C",
+          "text": "Mesa, porque la vela nació sobre una mesa.",
+          "is_correct": false,
+          "feedback": "Repetir \"mesa\" rompe la rima del verso y no aporta la imagen final de la vela apagada."
+        },
+        {
+          "letter": "D",
+          "text": "Rápidamente, porque el soplido apaga la llama muy rápido.",
+          "is_correct": false,
+          "feedback": "\"Rápidamente\" es demasiado larga para el ritmo del verso y no rima con derretida."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar nociones de rima y coherencia para completar un texto poético manteniendo su musicalidad y su sentido.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-5-2026-W28-adivinanzas-sabiduria-popular-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W28-adivinanzas-sabiduria-popular-001-MASTERY-bundle-v4",
+      "statement": "¿Qué recurso del lenguaje usa la adivinanza para esconder la respuesta?",
+      "context": "En un mercado de Cartagena, un abuelo propone esta adivinanza a sus nietos: \"Oro parece, plata no es; el que no lo adivine, bien tonto es.\" (Respuesta: el plátano).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una orden militar que obliga a responder de inmediato.",
+          "is_correct": false,
+          "feedback": "El texto juega e invita, pero no da órdenes militares; su fuerza está en el parecido entre palabras."
+        },
+        {
+          "letter": "B",
+          "text": "Una lista de precios de las frutas del mercado.",
+          "is_correct": false,
+          "feedback": "No hay precios ni lista de compras; el oro y la plata son imágenes, no valores de venta."
+        },
+        {
+          "letter": "C",
+          "text": "Un juego de parecidos: compara el color con el oro para despistar.",
+          "is_correct": true,
+          "feedback": "La adivinanza dice que \"parece\" oro sin serlo, usando la comparación y el parecido de sonidos para ocultar que habla del plátano maduro."
+        },
+        {
+          "letter": "D",
+          "text": "Una fecha exacta del calendario de cosechas del Caribe.",
+          "is_correct": false,
+          "feedback": "No aparece ninguna fecha ni época de cosecha; todo el texto gira alrededor del color y el ingenio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificar el lenguaje figurado (comparaciones y juegos de palabras) como la herramienta que esconde y a la vez revela la solución.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-5-2026-W28-adivinanzas-sabiduria-popular-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W28-adivinanzas-sabiduria-popular-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la intención comunicativa principal de decir adivinanzas en esa reunión familiar?",
+      "context": "En una finca de Quimbaya (Quindío), después del almuerzo la familia se reúne en el corredor a decir adivinanzas mientras toman café cerrero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Calificar con una nota a cada miembro de la familia.",
+          "is_correct": false,
+          "feedback": "Nadie asigna calificaciones; el juego no es un examen escolar con notas."
+        },
+        {
+          "letter": "B",
+          "text": "Vender café a los vecinos que pasan por el corredor.",
+          "is_correct": false,
+          "feedback": "La reunión es un momento de descanso familiar, no una actividad de comercio."
+        },
+        {
+          "letter": "C",
+          "text": "Anunciar noticias urgentes de la vereda a los presentes.",
+          "is_correct": false,
+          "feedback": "Las adivinanzas no informan noticias; entretienen y ponen a prueba el ingenio de todos."
+        },
+        {
+          "letter": "D",
+          "text": "Divertir y compartir saberes jugando con el ingenio de todos.",
+          "is_correct": true,
+          "feedback": "En la tradición oral, la adivinanza entretiene, une a la familia y transmite la picardía y sabiduría de los mayores."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Reconocer la intención comunicativa de los textos de tradición oral: divertir, unir y transmitir cultura, más allá de informar o calificar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-5-2026-W28-adivinanzas-sabiduria-popular-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W28-adivinanzas-sabiduria-popular-001-MASTERY-bundle-v6",
+      "statement": "¿Qué diferencia estructural existe entre las dos adivinanzas?",
+      "context": "Compara estas dos adivinanzas contadas en un festival escolar de Popayán. (1) \"En el campo me crié, entre verdes lazos, y cuando me abren el pecho, lloro a pedazos.\" (la cebolla). (2) \"Agua pasa por mi casa, cate de mi corazón.\" (el aguacate).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La primera es una noticia y la segunda es una carta formal.",
+          "is_correct": false,
+          "feedback": "Ambas son adivinanzas en verso; ninguna tiene estructura de noticia ni de carta."
+        },
+        {
+          "letter": "B",
+          "text": "La primera desarrolla varias pistas en cuatro versos y la segunda concentra el juego en dos versos con rima interna.",
+          "is_correct": true,
+          "feedback": "La adivinanza de la cebolla encadena cuatro imágenes progresivas, mientras la del aguacate resuelve todo con el parecido sonoro entre \"aguacate\" y \"agua cate\" en solo dos versos."
+        },
+        {
+          "letter": "C",
+          "text": "La primera está escrita en otro idioma y la segunda en español.",
+          "is_correct": false,
+          "feedback": "Las dos están en español; la diferencia está en cuántos versos usan y cómo esconden la respuesta."
+        },
+        {
+          "letter": "D",
+          "text": "La primera no tiene respuesta y la segunda tiene dos respuestas.",
+          "is_correct": false,
+          "feedback": "Cada una tiene una sola solución (cebolla y aguacate); lo que cambia es la forma de construir las pistas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar la estructura discursiva comparando cómo distintos textos del mismo género organizan sus pistas para lograr el mismo efecto lúdico.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-5-2026-W28-adivinanzas-sabiduria-popular-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W28-adivinanzas-sabiduria-popular-001-MASTERY-bundle-v7",
+      "statement": "Al analizar cada propuesta frente a todas las pistas, ¿cuál solución es la correcta y por qué?",
+      "context": "En Tunja, tres estudiantes proponen soluciones para esta adivinanza: \"Sin puerta ni ventana, y llena de gente dentro; unos cantan, otros lloran, y todos están contentos.\" Unos dicen que es la escuela, otros que es la radio y otros que es la mazorca de maíz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mazorca, porque sus granos son la \"gente dentro\" sin puertas ni ventanas, y al asarla unos granos \"cantan\" (revientan) mientras todos quedan dorados y sabrosos.",
+          "is_correct": true,
+          "feedback": "Solo la mazorca cumple las tres pistas a la vez: cáscara cerrada sin aberturas, multitud de granos dentro y sonidos al cocinarse."
+        },
+        {
+          "letter": "B",
+          "text": "La escuela, porque tiene puertas y ventanas llenas de estudiantes.",
+          "is_correct": false,
+          "feedback": "La escuela sí tiene puertas y ventanas, lo que contradice la primera pista de la adivinanza."
+        },
+        {
+          "letter": "C",
+          "text": "La radio, porque dentro canta gente aunque nadie la vea.",
+          "is_correct": false,
+          "feedback": "La radio no está \"llena de gente dentro\" en sentido literal ni tiene granos que lloren o canten al fuego."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna sirve porque la adivinanza quedó mal inventada.",
+          "is_correct": false,
+          "feedback": "La adivinanza sí tiene solución coherente; basta verificar qué objeto cumple todas las pistas al tiempo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar hipótesis comprobando cada pista contra la solución propuesta, estrategia central de la lectura crítica de textos enigmáticos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-5-2026-W28-adivinanzas-sabiduria-popular-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W28-adivinanzas-sabiduria-popular-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de estas adivinanzas inventadas merece el primer puesto según los tres criterios del jurado?",
+      "context": "Para el festival cultural de un colegio en Leticia, el jurado calificará las adivinanzas inventadas por los estudiantes con tres criterios: (1) pistas justas que sí describan al objeto, (2) lenguaje figurado o rima que la haga divertida y (3) una sola respuesta posible.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Es una cosa que existe y está en algún lugar; si no la adivinas, te voy a regañar.\"",
+          "is_correct": false,
+          "feedback": "No da ninguna pista descriptiva del objeto y amenaza en vez de jugar; incumple los tres criterios."
+        },
+        {
+          "letter": "B",
+          "text": "\"Verde, jugoso y redondo, me pelas para comer; también soy una ciudad y un color a la vez.\" (sin respuesta única: podría ser limón, naranja o lima).",
+          "is_correct": false,
+          "feedback": "Tiene rima y pistas, pero admite varias respuestas, así que falla el criterio de solución única."
+        },
+        {
+          "letter": "C",
+          "text": "\"Cuello largo sin cabeza, panza llena de agua fresca; me inclino en el comedor y te sirvo con amor.\" (la jarra).",
+          "is_correct": true,
+          "feedback": "Describe con imágenes justas las partes de la jarra, usa rima y personificación divertida, y solo la jarra cumple todas las pistas."
+        },
+        {
+          "letter": "D",
+          "text": "\"La fotosíntesis es el proceso por el cual las plantas verdes transforman la luz solar en energía química.\"",
+          "is_correct": false,
+          "feedback": "Es una definición de ciencias, no una adivinanza: no esconde nada, no juega ni tiene respuesta que descubrir."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Juzgar una producción textual aplicando criterios explícitos de calidad, integrando todo lo aprendido sobre pistas, lenguaje figurado y solución única.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-5-2026-W28-adivinanzas-sabiduria-popular-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

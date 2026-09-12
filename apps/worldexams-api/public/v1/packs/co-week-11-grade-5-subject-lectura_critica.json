@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-11-grade-5-subject-lectura_critica",
+    "generated_at": "2026-09-12T15:41:45.204Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-5-2026-W11-cuento-misterio-colombiano-001-MASTERY-bundle-v1",
+      "statement": "¿Quiénes son los personajes principales que presenta el inicio del cuento?",
+      "context": "Lee el inicio del cuento: \"En Barichara, pueblo de calles de piedra y balcones de madera, vivían los primos Lucía y Tomás. Una tarde de puente festivo, la campanita de la capilla de Santa Bárbara sonó tres veces sin que nadie la tocara.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lucía y Tomás, dos primos que viven en Barichara.",
+          "is_correct": true,
+          "feedback": "El texto presenta a Lucía y Tomás como los primos que viven en Barichara."
+        },
+        {
+          "letter": "B",
+          "text": "Un pescador de Mompox y su canoa.",
+          "is_correct": false,
+          "feedback": "En este inicio no aparecen ni el pescador ni la canoa."
+        },
+        {
+          "letter": "C",
+          "text": "Una profesora de Villa de Leyva y sus estudiantes.",
+          "is_correct": false,
+          "feedback": "El inicio no menciona a ninguna profesora de Villa de Leyva."
+        },
+        {
+          "letter": "D",
+          "text": "Los alfareros de Ráquira y sus vasijas.",
+          "is_correct": false,
+          "feedback": "Los alfareros de Ráquira no son personajes de este inicio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer a los personajes principales presentados al inicio de un cuento.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.89,
+      "bundle_id": "CO-LC-5-2026-W11-cuento-misterio-colombiano-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W11-cuento-misterio-colombiano-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la secuencia correcta de lo que hicieron Lucía y Tomás?",
+      "context": "Lee: \"Lucía y Tomás decidieron investigar el misterio de la capilla. Primero preguntaron a doña Elvia, la sacristana. Después revisaron el patio empedrado. Al final encontraron un farol apagado junto a la puerta.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Preguntaron a doña Elvia, revisaron el patio y encontraron un farol apagado.",
+          "is_correct": true,
+          "feedback": "Esa es la secuencia en que ocurren las acciones en el texto."
+        },
+        {
+          "letter": "B",
+          "text": "Encontraron el farol, viajaron a Mompox y regresaron a Barichara.",
+          "is_correct": false,
+          "feedback": "No hay ningún viaje a Mompox en esta secuencia."
+        },
+        {
+          "letter": "C",
+          "text": "Revisaron el patio, se fueron a dormir y olvidaron el misterio.",
+          "is_correct": false,
+          "feedback": "Ellos no abandonan la investigación ni se van a dormir."
+        },
+        {
+          "letter": "D",
+          "text": "Hablaron con el alcalde, cerraron la capilla y terminó la historia.",
+          "is_correct": false,
+          "feedback": "El alcalde no aparece y la capilla no se cierra en este fragmento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender la secuencia de eventos en un fragmento narrativo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-5-2026-W11-cuento-misterio-colombiano-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W11-cuento-misterio-colombiano-001-MASTERY-bundle-v3",
+      "statement": "En el fragmento, ¿qué significa la palabra \"penumbra\"?",
+      "context": "Lee: \"Al entrar a la capilla, la penumbra los envolvió. Solo se veía una luz tenue junto al altar. Tomás sintió un escalofrío y susurró: No hay nadie aquí.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una oscuridad parcial donde se ve poca luz.",
+          "is_correct": true,
+          "feedback": "La penumbra es una sombra suave con poca luz, como la de la capilla."
+        },
+        {
+          "letter": "B",
+          "text": "Un ruido fuerte de campanas y tambores.",
+          "is_correct": false,
+          "feedback": "La penumbra se relaciona con la luz, no con el ruido."
+        },
+        {
+          "letter": "C",
+          "text": "Un camino largo de piedras amarillas.",
+          "is_correct": false,
+          "feedback": "El texto no describe un camino, sino la poca luz dentro de la capilla."
+        },
+        {
+          "letter": "D",
+          "text": "Una fiesta con música y faroles encendidos.",
+          "is_correct": false,
+          "feedback": "La escena es oscura y silenciosa, no una fiesta iluminada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Usar el contexto del cuento para inferir el significado de una palabra desconocida.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-5-2026-W11-cuento-misterio-colombiano-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W11-cuento-misterio-colombiano-001-MASTERY-bundle-v4",
+      "statement": "¿Cuáles son las tres pistas que encontró Lucía en el patio?",
+      "context": "Lee: \"Lucía observó tres pistas en el patio empedrado de Barichara: huellas pequeñas de barro que iban hacia el campanario, un pañuelo azul enredado en la reja y granos de maíz regados junto al farol apagado.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Huellas de barro hacia el campanario, un pañuelo azul en la reja y granos de maíz junto al farol.",
+          "is_correct": true,
+          "feedback": "Esas son exactamente las tres pistas descritas en el texto."
+        },
+        {
+          "letter": "B",
+          "text": "Una carta antigua, una llave de oro y un mapa del tesoro.",
+          "is_correct": false,
+          "feedback": "Ninguno de esos objetos aparece en el fragmento."
+        },
+        {
+          "letter": "C",
+          "text": "Tres campanas nuevas, velas encendidas y flores frescas.",
+          "is_correct": false,
+          "feedback": "El texto menciona un farol apagado, no velas ni flores."
+        },
+        {
+          "letter": "D",
+          "text": "Huellas de caballo, una ruana roja y totumas de chicha.",
+          "is_correct": false,
+          "feedback": "Esos elementos no corresponden a las pistas del texto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificar información explícita y enumerar pistas dentro de un texto narrativo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.71,
+      "bundle_id": "CO-LC-5-2026-W11-cuento-misterio-colombiano-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W11-cuento-misterio-colombiano-001-MASTERY-bundle-v5",
+      "statement": "Según el fragmento, ¿cómo se resolvió el misterio de la campanita que sonaba sola?",
+      "context": "Lee la continuación: \"Con las pistas en la mano, los primos siguieron las huellas de barro hasta el campanario. Allí vieron a un mico tití que sostenía el cordel de la campana con sus paticas y comía maíz de una totuma.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Descubrieron que un mico tití movía el cordel de la campana mientras comía maíz.",
+          "is_correct": true,
+          "feedback": "El mico tití explica tanto el sonido como los granos de maíz."
+        },
+        {
+          "letter": "B",
+          "text": "Descubrieron que el viento de Villa de Leyva movía las nubes del cielo.",
+          "is_correct": false,
+          "feedback": "El texto muestra un animal concreto, no el viento ni las nubes."
+        },
+        {
+          "letter": "C",
+          "text": "Descubrieron que doña Elvia tocaba la campana cada hora en punto.",
+          "is_correct": false,
+          "feedback": "Doña Elvia no tocaba la campana; el causante era el mico tití."
+        },
+        {
+          "letter": "D",
+          "text": "Descubrieron que la campana tenía un motor eléctrico programado.",
+          "is_correct": false,
+          "feedback": "En el pueblo y en la época del cuento no hay ningún motor eléctrico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar las pistas del relato para explicar la solución del misterio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.67,
+      "bundle_id": "CO-LC-5-2026-W11-cuento-misterio-colombiano-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W11-cuento-misterio-colombiano-001-MASTERY-bundle-v6",
+      "statement": "¿Qué relación existe entre el pañuelo azul, el maíz y el sonido de la campana?",
+      "context": "Lee: \"El pañuelo azul era de doña Elvia. Ella lo había dejado en la reja en la mañana cuando llevó maíz para las palomas. El mico, atraído por el maíz, subió al campanario y enredó sus paticas con el cordel.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El maíz atrajo al mico al campanario y el pañuelo confirma que doña Elvia llevó ese maíz en la mañana.",
+          "is_correct": true,
+          "feedback": "Las dos pistas se conectan: el maíz explica la presencia del mico y el pañuelo su origen."
+        },
+        {
+          "letter": "B",
+          "text": "El pañuelo azul ahuyentó al mico y el maíz silenció la campana.",
+          "is_correct": false,
+          "feedback": "El pañuelo no ahuyentó al mico ni el maíz silenció la campana."
+        },
+        {
+          "letter": "C",
+          "text": "El maíz y el pañuelo no tienen ninguna relación con el sonido.",
+          "is_correct": false,
+          "feedback": "Ambas pistas explican por qué el mico llegó hasta el cordel."
+        },
+        {
+          "letter": "D",
+          "text": "El pañuelo hizo sonar la campana y el maíz la detuvo.",
+          "is_correct": false,
+          "feedback": "Quien movió la campana fue el mico, no el pañuelo ni el maíz por sí solos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar cómo distintas pistas se conectan para construir la explicación del misterio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-5-2026-W11-cuento-misterio-colombiano-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W11-cuento-misterio-colombiano-001-MASTERY-bundle-v7",
+      "statement": "¿Qué diferencia la actitud de Lucía de la actitud inicial de Tomás frente al misterio?",
+      "context": "Lee el final: \"Tomás quiso gritar que había un espanto en la capilla. Lucía lo detuvo y dijo: Observemos primero, preguntemos después. Así descubrieron al mico y, en lugar de asustarse, le llevaron agua y avisaron a doña Elvia.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lucía observa con calma y busca pruebas; Tomás quiere concluir rápido por el susto.",
+          "is_correct": true,
+          "feedback": "Lucía propone observar y preguntar, mientras Tomás quiere gritar por miedo."
+        },
+        {
+          "letter": "B",
+          "text": "Lucía siente miedo y huye; Tomás se queda a investigar solo.",
+          "is_correct": false,
+          "feedback": "Es al contrario: Lucía se queda a observar y detiene a Tomás."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos deciden huir del pueblo y no volver a la capilla.",
+          "is_correct": false,
+          "feedback": "Ninguno huye; ambos resuelven el misterio juntos."
+        },
+        {
+          "letter": "D",
+          "text": "Lucía inventa una historia de espantos y Tomás la cree sin preguntar.",
+          "is_correct": false,
+          "feedback": "Lucía evita inventar historias y pide observar antes de concluir."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar las actitudes de los personajes para comprender su papel en la historia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.52,
+      "bundle_id": "CO-LC-5-2026-W11-cuento-misterio-colombiano-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W11-cuento-misterio-colombiano-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la mejor valoración del mensaje final del cuento?",
+      "context": "Lee la moraleja del cuento: \"Desde entonces, en Barichara dicen que no todo lo extraño es un espanto. Antes de asustarse, los niños aprendieron a mirar con atención, seguir las pistas y cuidar a los animales.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enseña que observar con atención y buscar pruebas evita el miedo y ayuda a cuidar a los demás.",
+          "is_correct": true,
+          "feedback": "La moraleja une la observación cuidadosa con el cuidado del mico y de la comunidad."
+        },
+        {
+          "letter": "B",
+          "text": "Enseña que todos los misterios son espantos y hay que huir de ellos.",
+          "is_correct": false,
+          "feedback": "El cuento concluye lo contrario: lo extraño tenía una explicación natural."
+        },
+        {
+          "letter": "C",
+          "text": "Enseña que inventar historias de miedo es más divertido que investigar.",
+          "is_correct": false,
+          "feedback": "El cuento valora investigar con pruebas, no inventar historias."
+        },
+        {
+          "letter": "D",
+          "text": "Enseña que solo los adultos pueden resolver misterios en el pueblo.",
+          "is_correct": false,
+          "feedback": "Fueron los niños quienes observaron, siguieron pistas y resolvieron el caso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la moraleja del cuento y su enseñanza sobre la observación y el cuidado.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.38,
+      "bundle_id": "CO-LC-5-2026-W11-cuento-misterio-colombiano-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

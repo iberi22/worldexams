@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-13-grade-5-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-12T15:41:45.220Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-5-2026-W13-poblacion-diversidad-cultural-001-MASTERY-bundle-v1",
+      "statement": "¿Qué significa que Colombia sea un país pluricultural y multiétnico?",
+      "context": "En un colegio de Quibdó, la profesora explica que la Constitución de 1991 reconoce a Colombia como un país pluricultural y multiétnico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que en su territorio conviven comunidades con culturas, lenguas y tradiciones diversas.",
+          "is_correct": true,
+          "feedback": "La pluralidad se expresa en la convivencia de pueblos y culturas diferentes en el país."
+        },
+        {
+          "letter": "B",
+          "text": "Que todos sus habitantes tienen exactamente las mismas costumbres.",
+          "is_correct": false,
+          "feedback": "Precisamente la riqueza del país está en la variedad de sus culturas."
+        },
+        {
+          "letter": "C",
+          "text": "Que existe una sola etnia en todo el territorio nacional.",
+          "is_correct": false,
+          "feedback": "El reconocimiento constitucional abarca a varias etnias y culturas."
+        },
+        {
+          "letter": "D",
+          "text": "Que ninguna comunidad conserva sus tradiciones.",
+          "is_correct": false,
+          "feedback": "Muchas comunidades mantienen vivas sus lenguas, fiestas y saberes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocimiento del carácter pluricultural y multiétnico de la nación colombiana consagrado en la Constitución.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-5-2026-W13-poblacion-diversidad-cultural-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W13-poblacion-diversidad-cultural-001-MASTERY-bundle-v2",
+      "statement": "¿Qué aporta a Colombia la comunidad afrocolombiana según el texto?",
+      "context": "Una familia afrocolombiana de San Basilio de Palenque conserva su lengua propia, sus cantos y su gastronomía, reconocidos como patrimonio cultural de la humanidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una herencia cultural con lengua, música, gastronomía y tradiciones propias.",
+          "is_correct": true,
+          "feedback": "Los aportes afrocolombianos enriquecen la identidad cultural del país."
+        },
+        {
+          "letter": "B",
+          "text": "Una sola fiesta nacional sin diferencias regionales.",
+          "is_correct": false,
+          "feedback": "La comunidad preserva múltiples expresiones culturales, no una única celebración."
+        },
+        {
+          "letter": "C",
+          "text": "La desaparición de las lenguas indígenas del país.",
+          "is_correct": false,
+          "feedback": "Las comunidades afro e indígenas coexisten y conservan sus propias tradiciones."
+        },
+        {
+          "letter": "D",
+          "text": "Un sistema de gobierno distinto al del resto de Colombia.",
+          "is_correct": false,
+          "feedback": "Las comunidades afrocolombianas forman parte de la nación y su institucionalidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprensión de los aportes culturales de la población afrocolombiana a la identidad nacional.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-5-2026-W13-poblacion-diversidad-cultural-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W13-poblacion-diversidad-cultural-001-MASTERY-bundle-v3",
+      "statement": "¿Qué conclusión puede sacar el estudiante al observar el mapa?",
+      "context": "En un mapa de Colombia, un estudiante de Leticia ubica los departamentos con mayor presencia de pueblos indígenas, como La Guajira, Cauca, Nariño y Amazonas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los pueblos indígenas habitan diversas regiones del territorio colombiano.",
+          "is_correct": true,
+          "feedback": "El mapa muestra presencia indígena en distintas zonas del país, no en una sola."
+        },
+        {
+          "letter": "B",
+          "text": "Que solo viven en un departamento de todo el país.",
+          "is_correct": false,
+          "feedback": "Los pueblos indígenas están distribuidos en varios departamentos."
+        },
+        {
+          "letter": "C",
+          "text": "Que no tienen presencia en ninguna región natural.",
+          "is_correct": false,
+          "feedback": "El mapa evidencia su presencia en selvas, montañas y llanuras."
+        },
+        {
+          "letter": "D",
+          "text": "Que todos hablan la misma lengua y tienen las mismas costumbres.",
+          "is_correct": false,
+          "feedback": "Existe una gran diversidad de lenguas y culturas entre los pueblos indígenas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicación de la lectura de mapas para reconocer la distribución de los pueblos indígenas en Colombia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.78,
+      "bundle_id": "CO-SOC-5-2026-W13-poblacion-diversidad-cultural-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W13-poblacion-diversidad-cultural-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es un aporte de las comunidades campesinas a la diversidad cultural del país?",
+      "context": "En una vereda de Santander, una familia campesina cultiva café y enseña a sus hijos las labores del campo y las recetas tradicionales de la región.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La conservación de saberes agrícolas, recetas y tradiciones del campo.",
+          "is_correct": true,
+          "feedback": "Los campesinos transmiten conocimientos sobre cultivos, alimentos y vida rural."
+        },
+        {
+          "letter": "B",
+          "text": "La construcción de grandes ciudades sin zonas rurales.",
+          "is_correct": false,
+          "feedback": "Las comunidades campesinas habitan y cuidan el campo, no lo eliminan."
+        },
+        {
+          "letter": "C",
+          "text": "La eliminación de los cultivos de las regiones.",
+          "is_correct": false,
+          "feedback": "Su labor principal es producir alimentos y mantener los cultivos."
+        },
+        {
+          "letter": "D",
+          "text": "La prohibición de las fiestas municipales.",
+          "is_correct": false,
+          "feedback": "Las comunidades campesinas participan activamente en las fiestas y tradiciones locales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificación de los aportes de las comunidades campesinas a la cultura y la economía del país.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.72,
+      "bundle_id": "CO-SOC-5-2026-W13-poblacion-diversidad-cultural-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W13-poblacion-diversidad-cultural-001-MASTERY-bundle-v5",
+      "statement": "¿Qué evidencia la presentación de estos bailes en la escuela?",
+      "context": "Durante una izada de bandera en un colegio de Barranquilla, los estudiantes presentan bailes como el mapalé, el bambuco y la cumbia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La diversidad de expresiones culturales y musicales de las regiones de Colombia.",
+          "is_correct": true,
+          "feedback": "Los distintos bailes representan tradiciones de diferentes regiones del país."
+        },
+        {
+          "letter": "B",
+          "text": "Que solo existe un baile en todo el territorio nacional.",
+          "is_correct": false,
+          "feedback": "La variedad de danzas presentadas demuestra justamente lo contrario."
+        },
+        {
+          "letter": "C",
+          "text": "Que las tradiciones se pierden y nadie las practica.",
+          "is_correct": false,
+          "feedback": "La presentación escolar muestra que las tradiciones siguen vivas."
+        },
+        {
+          "letter": "D",
+          "text": "Que todos los departamentos tienen exactamente la misma fiesta.",
+          "is_correct": false,
+          "feedback": "Cada región tiene sus propias expresiones musicales y dancísticas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Valoración de la diversidad de expresiones culturales regionales como parte de la identidad colombiana.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.66,
+      "bundle_id": "CO-SOC-5-2026-W13-poblacion-diversidad-cultural-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W13-poblacion-diversidad-cultural-001-MASTERY-bundle-v6",
+      "statement": "¿Qué principio constitucional respalda esta afirmación?",
+      "context": "En un debate escolar en Bogotá, un estudiante afirma: \"Las comunidades indígenas, afro y campesinas deben ser respetadas igual que cualquier otra\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La igualdad y el respeto por la diversidad étnica y cultural de la nación.",
+          "is_correct": true,
+          "feedback": "La Constitución garantiza la igualdad y la protección de la diversidad cultural."
+        },
+        {
+          "letter": "B",
+          "text": "La superioridad de una cultura sobre todas las demás.",
+          "is_correct": false,
+          "feedback": "La Constitución rechaza cualquier forma de discriminación o supremacía cultural."
+        },
+        {
+          "letter": "C",
+          "text": "La prohibición de las lenguas propias de cada comunidad.",
+          "is_correct": false,
+          "feedback": "El Estado protege las lenguas y tradiciones de los grupos étnicos."
+        },
+        {
+          "letter": "D",
+          "text": "La obligación de que todos abandonen sus tradiciones.",
+          "is_correct": false,
+          "feedback": "La diversidad cultural se respeta y se promueve, no se elimina."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Análisis del principio de igualdad y respeto a la diversidad como fundamento de la convivencia en Colombia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.61,
+      "bundle_id": "CO-SOC-5-2026-W13-poblacion-diversidad-cultural-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W13-poblacion-diversidad-cultural-001-MASTERY-bundle-v7",
+      "statement": "¿Qué explicación reúne mejor las causas de la diversidad cultural colombiana?",
+      "context": "Un estudiante de Cartagena investiga por qué Colombia es un país con tantas culturas y encuentra aportes de pueblos indígenas, africanos, europeos y de migrantes de otros países.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mezcla histórica de pueblos indígenas, afrodescendientes, europeos y otros migrantes.",
+          "is_correct": true,
+          "feedback": "El encuentro de distintas culturas a lo largo de la historia explica la diversidad del país."
+        },
+        {
+          "letter": "B",
+          "text": "El aislamiento total de las regiones sin ningún contacto entre ellas.",
+          "is_correct": false,
+          "feedback": "La diversidad proviene del contacto e intercambio entre culturas, no del aislamiento."
+        },
+        {
+          "letter": "C",
+          "text": "La existencia de una sola cultura original sin cambios.",
+          "is_correct": false,
+          "feedback": "La cultura colombiana es el resultado de múltiples aportes a lo largo del tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "La desaparición de todas las tradiciones con el paso del tiempo.",
+          "is_correct": false,
+          "feedback": "Muchas tradiciones se conservan y se transforman, pero no desaparecen por completo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Análisis de los procesos históricos y sociales que dieron origen a la diversidad cultural colombiana.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.57,
+      "bundle_id": "CO-SOC-5-2026-W13-poblacion-diversidad-cultural-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W13-poblacion-diversidad-cultural-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de las siguientes afirmaciones evalúa mejor estas propuestas?",
+      "context": "En el gobierno escolar de un colegio de Pasto se proponen acciones para valorar la diversidad: incluir lenguas indígenas en los actos culturales, conocer las tradiciones afro y campesinas y evitar la discriminación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son valiosas porque promueven el respeto, el reconocimiento y la convivencia entre culturas.",
+          "is_correct": true,
+          "feedback": "Reconocer y valorar la diversidad fortalece la convivencia y la identidad colectiva."
+        },
+        {
+          "letter": "B",
+          "text": "Son innecesarias porque todas las culturas ya son iguales en la práctica.",
+          "is_correct": false,
+          "feedback": "Persisten situaciones de discriminación que estas acciones buscan superar."
+        },
+        {
+          "letter": "C",
+          "text": "Son dañinas porque obligan a olvidar las tradiciones propias.",
+          "is_correct": false,
+          "feedback": "Las propuestas buscan sumar y reconocer culturas, sin eliminar ninguna."
+        },
+        {
+          "letter": "D",
+          "text": "Sirven solo para las ciudades grandes y no para el resto del país.",
+          "is_correct": false,
+          "feedback": "El respeto por la diversidad es importante en todos los territorios del país."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluación de propuestas escolares orientadas a proteger y valorar la diversidad cultural colombiana.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-5-2026-W13-poblacion-diversidad-cultural-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

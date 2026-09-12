@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-17-grade-5-subject-matematicas",
+    "generated_at": "2026-09-12T15:41:45.213Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-5-2026-W17-operaciones-combinadas-jerarquia-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el resultado correcto de la expresión?",
+      "context": "En el tablero de un colegio en Florencia, la profesora escribe la expresión 6 + 2 × 5.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "16.",
+          "is_correct": true,
+          "feedback": "Primero la multiplicación 2 × 5 = 10 y luego la suma 6 + 10 = 16."
+        },
+        {
+          "letter": "B",
+          "text": "40.",
+          "is_correct": false,
+          "feedback": "Se sumó primero 6 + 2 = 8 y luego 8 × 5 = 40, sin respetar la jerarquía."
+        },
+        {
+          "letter": "C",
+          "text": "10.",
+          "is_correct": false,
+          "feedback": "Solo se calculó 2 × 5 y se omitió la suma de 6."
+        },
+        {
+          "letter": "D",
+          "text": "13.",
+          "is_correct": false,
+          "feedback": "Se sumaron todos los números (6 + 2 + 5) sin considerar la multiplicación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En una expresión sin paréntesis, la multiplicación y la división se resuelven antes que la suma y la resta.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-5-2026-W17-operaciones-combinadas-jerarquia-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W17-operaciones-combinadas-jerarquia-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el resultado correcto?",
+      "context": "Un estudiante de Popayán resuelve la expresión 20 - 4 × 3 aplicando la jerarquía de las operaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8.",
+          "is_correct": true,
+          "feedback": "La multiplicación va primero: 4 × 3 = 12; luego 20 - 12 = 8."
+        },
+        {
+          "letter": "B",
+          "text": "48.",
+          "is_correct": false,
+          "feedback": "Se restó primero 20 - 4 = 16 y luego 16 × 3 = 48, sin respetar la jerarquía."
+        },
+        {
+          "letter": "C",
+          "text": "12.",
+          "is_correct": false,
+          "feedback": "Solo se calculó 4 × 3 y se omitió la resta."
+        },
+        {
+          "letter": "D",
+          "text": "16.",
+          "is_correct": false,
+          "feedback": "16 es el resultado de 20 - 4, pero falta multiplicar ese valor por 3."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Antes de sumar o restar, se debe verificar si hay multiplicaciones o divisiones pendientes, pues tienen mayor jerarquía.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-5-2026-W17-operaciones-combinadas-jerarquia-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W17-operaciones-combinadas-jerarquia-001-MASTERY-bundle-v3",
+      "statement": "¿Cuántas cajas hay en total?",
+      "context": "En una bodega de Santa Marta se organizan 8 estantes y cada estante tiene (5 + 3) cajas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "64 cajas.",
+          "is_correct": true,
+          "feedback": "Primero el paréntesis: 5 + 3 = 8; luego 8 × 8 = 64."
+        },
+        {
+          "letter": "B",
+          "text": "43 cajas.",
+          "is_correct": false,
+          "feedback": "Se calculó 8 × 5 = 40 y luego 40 + 3 = 43, ignorando el paréntesis."
+        },
+        {
+          "letter": "C",
+          "text": "40 cajas.",
+          "is_correct": false,
+          "feedback": "Solo se multiplicó 8 × 5 y se omitió sumar 3."
+        },
+        {
+          "letter": "D",
+          "text": "24 cajas.",
+          "is_correct": false,
+          "feedback": "Se multiplicó 8 × 3 y se omitió sumar 5."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los paréntesis indican la operación que se resuelve primero, antes que cualquier otra dentro de la misma expresión.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-5-2026-W17-operaciones-combinadas-jerarquia-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W17-operaciones-combinadas-jerarquia-001-MASTERY-bundle-v4",
+      "statement": "¿Cuántos panes van en cada canasta?",
+      "context": "En una panadería de Montería se reparten 36 panes entre (2 + 4) canastas, poniendo la misma cantidad en cada canasta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 panes.",
+          "is_correct": true,
+          "feedback": "Primero el paréntesis: 2 + 4 = 6; luego 36 ÷ 6 = 6."
+        },
+        {
+          "letter": "B",
+          "text": "22 panes.",
+          "is_correct": false,
+          "feedback": "Se dividió 36 ÷ 2 = 18 y luego se sumó 4, ignorando el paréntesis."
+        },
+        {
+          "letter": "C",
+          "text": "30 panes.",
+          "is_correct": false,
+          "feedback": "Se restó 36 - 6 en lugar de dividir entre el número de canastas."
+        },
+        {
+          "letter": "D",
+          "text": "42 panes.",
+          "is_correct": false,
+          "feedback": "Se sumaron 36 + 2 + 4 en lugar de dividir."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando una división tiene un paréntesis en el divisor, se calcula primero el paréntesis y después se reparte el total.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-MAT-5-2026-W17-operaciones-combinadas-jerarquia-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W17-operaciones-combinadas-jerarquia-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el valor de la expresión?",
+      "context": "En una tienda de Duitama se calcula el precio total de un pedido con la expresión 5 × (12 - 7) + 10.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "35.",
+          "is_correct": true,
+          "feedback": "Paréntesis: 12 - 7 = 5; luego 5 × 5 = 25; finalmente 25 + 10 = 35."
+        },
+        {
+          "letter": "B",
+          "text": "60.",
+          "is_correct": false,
+          "feedback": "Se calculó 5 × 12 = 60 y se ignoró el resto de la expresión."
+        },
+        {
+          "letter": "C",
+          "text": "63.",
+          "is_correct": false,
+          "feedback": "Se calculó 5 × 12 = 60, luego 60 - 7 = 53 y 53 + 10 = 63, ignorando el paréntesis."
+        },
+        {
+          "letter": "D",
+          "text": "43.",
+          "is_correct": false,
+          "feedback": "Resulta de 5 × 12 - (7 + 10) = 60 - 17, agrupando las operaciones de forma incorrecta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En expresiones con varias operaciones y paréntesis, se resuelve primero el paréntesis, después las multiplicaciones y por último las sumas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-5-2026-W17-operaciones-combinadas-jerarquia-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W17-operaciones-combinadas-jerarquia-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el resultado de la expresión?",
+      "context": "Un tesorero de un curso en Riohacha calcula el saldo con la expresión 100 - 3 × (8 + 12).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "40.",
+          "is_correct": true,
+          "feedback": "Paréntesis: 8 + 12 = 20; luego 3 × 20 = 60; finalmente 100 - 60 = 40."
+        },
+        {
+          "letter": "B",
+          "text": "88.",
+          "is_correct": false,
+          "feedback": "Se calculó 100 - 3 × 8 + 12 = 88 sin respetar el paréntesis."
+        },
+        {
+          "letter": "C",
+          "text": "64.",
+          "is_correct": false,
+          "feedback": "Se calculó 100 - (3 × 8 + 12) = 100 - 36 = 64, agrupando las operaciones de forma incorrecta."
+        },
+        {
+          "letter": "D",
+          "text": "80.",
+          "is_correct": false,
+          "feedback": "Se calculó 100 - 20 = 80 y se omitió multiplicar por 3."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar una expresión compuesta implica identificar la agrupación correcta y el orden en que se resuelve cada operación.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.64,
+      "bundle_id": "CO-MAT-5-2026-W17-operaciones-combinadas-jerarquia-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W17-operaciones-combinadas-jerarquia-001-MASTERY-bundle-v7",
+      "statement": "¿En cuál de las siguientes expresiones el resultado es 30?",
+      "context": "En un concurso de matemáticas en Quibdó se pide usar los números 3, 5, 4 y 2 con paréntesis para obtener el número 30.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(3 + 5) × 4 - 2.",
+          "is_correct": true,
+          "feedback": "Dentro del paréntesis 3 + 5 = 8; luego 8 × 4 = 32; finalmente 32 - 2 = 30."
+        },
+        {
+          "letter": "B",
+          "text": "3 + 5 × (4 - 2).",
+          "is_correct": false,
+          "feedback": "Paréntesis 4 - 2 = 2; luego 5 × 2 = 10; finalmente 3 + 10 = 13."
+        },
+        {
+          "letter": "C",
+          "text": "(3 + 5 × 4) - 2.",
+          "is_correct": false,
+          "feedback": "Dentro del paréntesis 5 × 4 = 20; luego 3 + 20 = 23; finalmente 23 - 2 = 21."
+        },
+        {
+          "letter": "D",
+          "text": "(3 + 5) × (4 - 2).",
+          "is_correct": false,
+          "feedback": "3 + 5 = 8 y 4 - 2 = 2; luego 8 × 2 = 16."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ubicar paréntesis cambia el valor de una expresión porque modifica qué operación se resuelve primero; conviene probar cada agrupación y verificar el resultado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-5-2026-W17-operaciones-combinadas-jerarquia-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W17-operaciones-combinadas-jerarquia-001-MASTERY-bundle-v8",
+      "statement": "¿Cuánto dinero debe recibir Marta de cambio?",
+      "context": "En una papelería de Pereira, un cuaderno cuesta $4.500 COP y un bolígrafo cuesta $2.000 COP. Marta compra 3 cuadernos y 2 bolígrafos, y paga con un billete de $20.000 COP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2.500 COP.",
+          "is_correct": true,
+          "feedback": "3 × $4.500 = $13.500 y 2 × $2.000 = $4.000; total $17.500. Cambio: $20.000 - $17.500 = $2.500."
+        },
+        {
+          "letter": "B",
+          "text": "$6.500 COP.",
+          "is_correct": false,
+          "feedback": "Resulta de $20.000 - $13.500, omitiendo el costo de los bolígrafos."
+        },
+        {
+          "letter": "C",
+          "text": "$1.500 COP.",
+          "is_correct": false,
+          "feedback": "Corresponde a una compra calculada en $18.500, con un error en la suma de los subtotales."
+        },
+        {
+          "letter": "D",
+          "text": "$4.500 COP.",
+          "is_correct": false,
+          "feedback": "Resulta de $20.000 - $15.500, con un cálculo incorrecto del total comprado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Resolver un problema de compra y cambio exige calcular primero los subtotales con multiplicaciones, sumarlos y después restar del dinero entregado.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-5-2026-W17-operaciones-combinadas-jerarquia-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

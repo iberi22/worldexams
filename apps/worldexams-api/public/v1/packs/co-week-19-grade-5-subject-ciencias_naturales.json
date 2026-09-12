@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-19-grade-5-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T15:41:45.190Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-5-2026-W19-adaptaciones-seres-vivos-habitat-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es una adaptación de los seres vivos?",
+      "context": "En una clase de ciencias en Bogotá, la profesora muestra fotos de un frailejón en el páramo y de un cactus en La Guajira.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una característica que ayuda al ser vivo a sobrevivir en su hábitat.",
+          "is_correct": true,
+          "feedback": "Las adaptaciones son rasgos como el pelaje, las espinas o el color que favorecen la supervivencia."
+        },
+        {
+          "letter": "B",
+          "text": "Un cambio que ocurre solamente en los animales domésticos.",
+          "is_correct": false,
+          "feedback": "Las adaptaciones ocurren en plantas, animales y otros seres vivos, silvestres o domésticos."
+        },
+        {
+          "letter": "C",
+          "text": "Una enfermedad que afecta a las plantas en clima frío.",
+          "is_correct": false,
+          "feedback": "Una adaptación no es una enfermedad, sino una característica que ayuda a sobrevivir."
+        },
+        {
+          "letter": "D",
+          "text": "Un alimento que solo consumen las ranas.",
+          "is_correct": false,
+          "feedback": "El alimento es parte de la dieta, no una característica adaptativa del cuerpo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer que las adaptaciones son características que favorecen la supervivencia en un ambiente determinado.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-5-2026-W19-adaptaciones-seres-vivos-habitat-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W19-adaptaciones-seres-vivos-habitat-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué las hojas peludas del frailejón son una adaptación?",
+      "context": "Lee: \"El frailejón vive en el páramo y tiene hojas peludas que atrapan la humedad de la niebla.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque le permiten captar agua de la niebla en un lugar donde llueve poco.",
+          "is_correct": true,
+          "feedback": "Los pelitos retienen la humedad de la niebla y la llevan hasta el suelo, donde la planta la aprovecha."
+        },
+        {
+          "letter": "B",
+          "text": "Porque le sirven para saltar de una roca a otra.",
+          "is_correct": false,
+          "feedback": "El frailejón es una planta fija; no se desplaza ni salta."
+        },
+        {
+          "letter": "C",
+          "text": "Porque evitan que el frailejón se convierta en cactus.",
+          "is_correct": false,
+          "feedback": "Una planta no cambia de especie; las hojas peludas cumplen otra función."
+        },
+        {
+          "letter": "D",
+          "text": "Porque ahuyentan a todas las aves del páramo.",
+          "is_correct": false,
+          "feedback": "Las aves del páramo visitan el frailejón; las hojas no las ahuyentan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Interpretar cómo la forma de las hojas del frailejón responde a la baja disponibilidad de agua en el páramo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.87,
+      "bundle_id": "CO-CN-5-2026-W19-adaptaciones-seres-vivos-habitat-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W19-adaptaciones-seres-vivos-habitat-001-MASTERY-bundle-v3",
+      "statement": "¿Qué ventaja le da al cactus tener espinas en lugar de hojas grandes?",
+      "context": "Una estudiante de Medellín observa un cactus de La Guajira en el jardín botánico y nota que no tiene hojas grandes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reduce la pérdida de agua, porque las espinas transpiran menos que las hojas.",
+          "is_correct": true,
+          "feedback": "Al reducir la superficie, el cactus pierde menos agua y sobrevive en el desierto."
+        },
+        {
+          "letter": "B",
+          "text": "Aumenta la cantidad de agua que pierde por las hojas.",
+          "is_correct": false,
+          "feedback": "Ocurre lo contrario: el cactus busca perder la menor cantidad de agua posible."
+        },
+        {
+          "letter": "C",
+          "text": "Le permite crecer más rápido en lugares muy húmedos.",
+          "is_correct": false,
+          "feedback": "El cactus está adaptado a zonas secas; la humedad excesiva no es su ambiente típico."
+        },
+        {
+          "letter": "D",
+          "text": "Le sirve para atrapar insectos y alimentarse de ellos.",
+          "is_correct": false,
+          "feedback": "Las espinas protegen a la planta; no son una trampa para alimentarse."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el concepto de adaptación para explicar la reducción de la pérdida de agua en plantas del desierto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-5-2026-W19-adaptaciones-seres-vivos-habitat-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W19-adaptaciones-seres-vivos-habitat-001-MASTERY-bundle-v4",
+      "statement": "¿Qué condición del hábitat es más importante para mantener viva a la rana dorada?",
+      "context": "En un colegio de Armenia, los estudiantes preparan un hábitat para una rana dorada que está en peligro de extinción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un ambiente húmedo y limpio, parecido a su bosque natural.",
+          "is_correct": true,
+          "feedback": "La rana dorada depende de la humedad y la limpieza de su bosque para respirar y reproducirse."
+        },
+        {
+          "letter": "B",
+          "text": "Una jaula seca y con mucha luz directa del sol.",
+          "is_correct": false,
+          "feedback": "La sequedad y el sol directo afectan la piel húmeda de la rana y su supervivencia."
+        },
+        {
+          "letter": "C",
+          "text": "Agua con detergente para mantenerla siempre limpia.",
+          "is_correct": false,
+          "feedback": "El detergente es un contaminante que daña la piel de la rana y el agua de su hábitat."
+        },
+        {
+          "letter": "D",
+          "text": "Temperaturas bajo cero durante todo el año.",
+          "is_correct": false,
+          "feedback": "Las temperaturas bajo cero no corresponden al ambiente cálido y húmedo de esta rana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el concepto de hábitat para seleccionar las condiciones que una especie necesita para sobrevivir.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.74,
+      "bundle_id": "CO-CN-5-2026-W19-adaptaciones-seres-vivos-habitat-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W19-adaptaciones-seres-vivos-habitat-001-MASTERY-bundle-v5",
+      "statement": "¿Cómo se explica que el frailejón resista mejor el frío del páramo?",
+      "context": "Un agricultor de Boyacá nota que las heladas dañan sus cultivos, pero los frailejones cercanos sobreviven.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sus hojas peludas y su tallo grueso lo protegen de las bajas temperaturas.",
+          "is_correct": true,
+          "feedback": "La cubierta peluda y el tallo actúan como aislantes frente al frío extremo del páramo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque cambia de color según la temporada de lluvias.",
+          "is_correct": false,
+          "feedback": "El color del frailejón no es lo que lo protege del frío; el cambio de color no explica su resistencia."
+        },
+        {
+          "letter": "C",
+          "text": "Porque sus raíces flotan sobre el agua de la niebla.",
+          "is_correct": false,
+          "feedback": "Las raíces están ancladas al suelo; no flotan sobre la niebla."
+        },
+        {
+          "letter": "D",
+          "text": "Porque necesita calor intenso para poder vivir.",
+          "is_correct": false,
+          "feedback": "El frailejón vive en climas fríos de páramo; no requiere calor intenso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Relacionar las estructuras del frailejón con su capacidad de resistir las bajas temperaturas del páramo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CN-5-2026-W19-adaptaciones-seres-vivos-habitat-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W19-adaptaciones-seres-vivos-habitat-001-MASTERY-bundle-v6",
+      "statement": "¿Qué nos dice esta comparación sobre las adaptaciones de los seres vivos?",
+      "context": "Compara: \"La rana dorada vive cerca de quebradas húmedas del Chocó. El cactus de La Guajira vive en zonas secas y arenosas.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cada especie tiene características que le permiten vivir en las condiciones de su propio hábitat.",
+          "is_correct": true,
+          "feedback": "La comparación muestra que cada especie posee rasgos ajustados al ambiente donde vive."
+        },
+        {
+          "letter": "B",
+          "text": "Todas las especies necesitan exactamente el mismo tipo de ambiente.",
+          "is_correct": false,
+          "feedback": "La rana y el cactus viven en ambientes opuestos, así que no todas necesitan lo mismo."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos especies sobreviven mejor si se trasladan al desierto.",
+          "is_correct": false,
+          "feedback": "La rana dorada no sobreviviría en el desierto seco; está adaptada a la humedad."
+        },
+        {
+          "letter": "D",
+          "text": "Las dos especies pueden vivir sin agua durante todo el año.",
+          "is_correct": false,
+          "feedback": "La rana dorada depende de la humedad; no puede pasar un año sin agua."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar cómo dos especies con hábitats opuestos desarrollan adaptaciones distintas para sobrevivir.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.62,
+      "bundle_id": "CO-CN-5-2026-W19-adaptaciones-seres-vivos-habitat-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W19-adaptaciones-seres-vivos-habitat-001-MASTERY-bundle-v7",
+      "statement": "¿Por qué la destrucción del hábitat es una amenaza grave para la rana dorada?",
+      "context": "Lee: \"La rana dorada es una de las especies más venenosas del mundo y su piel brillante advierte a los depredadores. Sin embargo, está en peligro por la destrucción de su hábitat.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la rana depende de las condiciones específicas de su bosque húmedo y no puede vivir en cualquier lugar.",
+          "is_correct": true,
+          "feedback": "Al desaparecer su bosque, la rana pierde el ambiente húmedo y limpio que necesita para vivir."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el veneno de su piel deja de funcionar fuera del bosque.",
+          "is_correct": false,
+          "feedback": "El veneno proviene de su alimentación, pero el problema central es la pérdida del hábitat."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los depredadores aprenden a comer ranas venenosas.",
+          "is_correct": false,
+          "feedback": "Los depredadores evitan a la rana por su veneno; la amenaza principal es el hábitat destruido."
+        },
+        {
+          "letter": "D",
+          "text": "Porque su color brillante desaparece cuando cambia de ambiente.",
+          "is_correct": false,
+          "feedback": "El color brillante hace parte de su cuerpo; no es la razón de la amenaza."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la relación entre la supervivencia de una especie y la conservación de su hábitat natural.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CN-5-2026-W19-adaptaciones-seres-vivos-habitat-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W19-adaptaciones-seres-vivos-habitat-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la mejor decisión para conservar estas especies?",
+      "context": "Lee: 'En Colombia, el frailejón, la rana dorada y el cactus de La Guajira son especies adaptadas a hábitats muy distintos. Proteger esos hábitats es proteger su supervivencia.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Proteger y conservar los hábitats naturales donde viven.",
+          "is_correct": true,
+          "feedback": "Conservar el hábitat mantiene las condiciones que cada especie necesita para sobrevivir."
+        },
+        {
+          "letter": "B",
+          "text": "Llevar todas las especies a un solo hábitat para agruparlas.",
+          "is_correct": false,
+          "feedback": "Cada especie necesita su propio ambiente; reunirlas las pondría en riesgo."
+        },
+        {
+          "letter": "C",
+          "text": "Cambiar el clima de cada región para que todas vivan igual.",
+          "is_correct": false,
+          "feedback": "Cambiar el clima alteraría los hábitats y afectaría a las especies adaptadas a ellos."
+        },
+        {
+          "letter": "D",
+          "text": "Capturar ejemplares y mantenerlos en jaulas individuales.",
+          "is_correct": false,
+          "feedback": "Sacarlas de su hábitat reduce su bienestar y no resuelve la pérdida del ambiente natural."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar decisiones de conservación a partir de la relación entre las adaptaciones y la protección del hábitat.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-5-2026-W19-adaptaciones-seres-vivos-habitat-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

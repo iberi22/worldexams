@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-26-grade-5-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-12T15:41:45.226Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-5-2026-W26-resguardos-cabildos-organizacion-indigena-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es un resguardo indígena en Colombia?",
+      "context": "En una clase de sociales en Pasto, la profesora explica cómo los pueblos indígenas se organizan dentro de sus territorios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un territorio colectivo asignado a un pueblo indígena, donde conserva su cultura y se autogobierna.",
+          "is_correct": true,
+          "feedback": "El resguardo es un territorio colectivo con reconocimiento legal y autonomía cultural."
+        },
+        {
+          "letter": "B",
+          "text": "Un parque nacional dedicado a la protección de animales silvestres.",
+          "is_correct": false,
+          "feedback": "Los parques nacionales protegen ecosistemas, no la organización de pueblos indígenas."
+        },
+        {
+          "letter": "C",
+          "text": "Una escuela pública exclusiva para niños indígenas urbanos.",
+          "is_correct": false,
+          "feedback": "El resguardo no es una escuela, sino un territorio y una forma de gobierno propio."
+        },
+        {
+          "letter": "D",
+          "text": "Un edificio del gobierno donde se tramitan documentos oficiales.",
+          "is_correct": false,
+          "feedback": "Las entidades oficiales no son resguardos, que son territorios colectivos indígenas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer el resguardo indígena como un territorio colectivo con identidad y gobierno propio.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-5-2026-W26-resguardos-cabildos-organizacion-indigena-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W26-resguardos-cabildos-organizacion-indigena-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la función principal de un cabildo indígena?",
+      "context": "Lee: \"El cabildo indígena es la autoridad que dirige la vida interna de un resguardo o de una comunidad indígena; representa a las familias y organiza el trabajo comunitario.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representar y gobernar a la comunidad indígena, cuidando su territorio, su cultura y sus tradiciones.",
+          "is_correct": true,
+          "feedback": "El cabildo actúa como autoridad propia del pueblo indígena."
+        },
+        {
+          "letter": "B",
+          "text": "Cobrar impuestos nacionales a todos los ciudadanos del país.",
+          "is_correct": false,
+          "feedback": "El cabildo no recauda impuestos nacionales; es una autoridad interna."
+        },
+        {
+          "letter": "C",
+          "text": "Dirigir los colegios públicos de las ciudades principales.",
+          "is_correct": false,
+          "feedback": "La dirección de los colegios corresponde a la Secretaría de Educación."
+        },
+        {
+          "letter": "D",
+          "text": "Comercializar productos extranjeros dentro del resguardo.",
+          "is_correct": false,
+          "feedback": "Esa no es una función del cabildo; su rol es político, cultural y social."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender el papel del cabildo como autoridad propia dentro de la comunidad indígena.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.88,
+      "bundle_id": "CO-SOC-5-2026-W26-resguardos-cabildos-organizacion-indigena-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W26-resguardos-cabildos-organizacion-indigena-001-MASTERY-bundle-v3",
+      "statement": "¿Qué actividades son propias del cabildo en un resguardo?",
+      "context": "En un resguardo del pueblo Nasa, en el Cauca, los miembros se reúnen periódicamente para tomar decisiones comunitarias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Resolver conflictos internos, organizar mingas, cuidar la tierra y proteger las tradiciones del pueblo.",
+          "is_correct": true,
+          "feedback": "Estas son funciones culturales, sociales y políticas del cabildo indígena."
+        },
+        {
+          "letter": "B",
+          "text": "Cobrar peajes en las carreteras nacionales del país.",
+          "is_correct": false,
+          "feedback": "Los peajes nacionales no son responsabilidad del cabildo de un resguardo."
+        },
+        {
+          "letter": "C",
+          "text": "Dirigir exclusivamente la política económica internacional.",
+          "is_correct": false,
+          "feedback": "El cabildo actúa dentro de su comunidad, no en el ámbito internacional."
+        },
+        {
+          "letter": "D",
+          "text": "Imponer una sola lengua oficial a todos los pueblos de Colombia.",
+          "is_correct": false,
+          "feedback": "El cabildo respeta la diversidad lingüística y no impone lenguas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el conocimiento del cabildo a sus funciones concretas dentro del resguardo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-5-2026-W26-resguardos-cabildos-organizacion-indigena-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W26-resguardos-cabildos-organizacion-indigena-001-MASTERY-bundle-v4",
+      "statement": "¿Qué derecho reconoce la Constitución de 1991 a los pueblos indígenas en relación con sus resguardos?",
+      "context": "Lee: \"La Constitución Política de 1991 reconoció a Colombia como un país pluricultural y multiétnico, y garantizó a los pueblos indígenas el derecho a sus territorios, lenguas y formas de gobierno.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El derecho a tener su propio territorio, su gobierno interno y a conservar su identidad cultural.",
+          "is_correct": true,
+          "feedback": "El artículo 330 de la Constitución respalda los derechos territoriales indígenas."
+        },
+        {
+          "letter": "B",
+          "text": "El derecho a cobrar impuestos nacionales a todos los colombianos.",
+          "is_correct": false,
+          "feedback": "Los pueblos indígenas no tienen la potestad de cobrar impuestos nacionales."
+        },
+        {
+          "letter": "C",
+          "text": "El derecho a tener un ejército propio fuera de la ley.",
+          "is_correct": false,
+          "feedback": "La Constitución no autoriza ejércitos al margen de la ley."
+        },
+        {
+          "letter": "D",
+          "text": "El derecho a suprimir las escuelas oficiales del país.",
+          "is_correct": false,
+          "feedback": "El reconocimiento indígena no implica suprimir la educación oficial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el reconocimiento constitucional a la protección de los territorios indígenas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.83,
+      "bundle_id": "CO-SOC-5-2026-W26-resguardos-cabildos-organizacion-indigena-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W26-resguardos-cabildos-organizacion-indigena-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la diferencia entre un resguardo y un cabildo?",
+      "context": "En Pereira, durante una feria de diversidad cultural, se explican las diferencias entre un resguardo y un cabildo a los estudiantes visitantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El resguardo es el territorio colectivo, mientras que el cabildo es la autoridad que gobierna dentro de ese territorio.",
+          "is_correct": true,
+          "feedback": "Resguardo y cabildo se complementan: el primero es el lugar, el segundo es la autoridad."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos significan exactamente lo mismo y se usan indistintamente.",
+          "is_correct": false,
+          "feedback": "Aunque se relacionan, no son sinónimos: uno es territorio, el otro autoridad."
+        },
+        {
+          "letter": "C",
+          "text": "El resguardo es una autoridad y el cabildo es un tipo de moneda.",
+          "is_correct": false,
+          "feedback": "El cabildo no es una moneda; es la autoridad interna del resguardo."
+        },
+        {
+          "letter": "D",
+          "text": "El cabildo es el territorio y el resguardo es la festividad del pueblo.",
+          "is_correct": false,
+          "feedback": "El resguardo es el territorio colectivo, no una festividad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Diferenciar el resguardo como territorio del cabildo como autoridad indígena.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-5-2026-W26-resguardos-cabildos-organizacion-indigena-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W26-resguardos-cabildos-organizacion-indigena-001-MASTERY-bundle-v6",
+      "statement": "¿Qué diferencia clave existe entre las dos situaciones descritas?",
+      "context": "Compara: \"En el resguardo Arhuaco de la Sierra Nevada de Santa Marta, el cabildo toma decisiones consultando a las familias y protege los sitios sagrados. En cambio, en otro territorio, una persona externa decide qué sembrar sin consultar a la comunidad.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el primer caso, el cabildo ejerce autonomía y consulta a la comunidad; en el segundo, se impone una decisión sin participación.",
+          "is_correct": true,
+          "feedback": "La diferencia central es la presencia de autonomía y consulta comunitaria."
+        },
+        {
+          "letter": "B",
+          "text": "En los dos casos la comunidad decide de la misma forma.",
+          "is_correct": false,
+          "feedback": "Los dos casos muestran formas de decisión completamente distintas."
+        },
+        {
+          "letter": "C",
+          "text": "La primera situación no tiene cabildo porque es indígena.",
+          "is_correct": false,
+          "feedback": "Precisamente, el resguardo Arhuaco sí tiene cabildo propio."
+        },
+        {
+          "letter": "D",
+          "text": "El segundo caso también respeta las tradiciones de la comunidad.",
+          "is_correct": false,
+          "feedback": "Imponer decisiones sin consultar no respeta las tradiciones ni la autonomía."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la autonomía y la consulta comunitaria como rasgos esenciales del gobierno indígena.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.76,
+      "bundle_id": "CO-SOC-5-2026-W26-resguardos-cabildos-organizacion-indigena-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W26-resguardos-cabildos-organizacion-indigena-001-MASTERY-bundle-v7",
+      "statement": "¿Qué elementos permiten afirmar que los pueblos indígenas enriquecen la diversidad cultural de Colombia?",
+      "context": "Lee: \"Los pueblos indígenas de Colombia hablan más de 60 lenguas distintas, tienen tejidos, músicas y alimentos propios, y celebran rituales ligados a la tierra y a la naturaleza.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sus lenguas, su gastronomía, su música, sus tejidos y sus rituales forman parte del patrimonio cultural del país.",
+          "is_correct": true,
+          "feedback": "Cada uno de esos elementos aporta a la identidad diversa de Colombia."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los pueblos indígenas comparten exactamente la misma lengua y costumbre.",
+          "is_correct": false,
+          "feedback": "Los pueblos indígenas son diversos entre sí, no homogéneos."
+        },
+        {
+          "letter": "C",
+          "text": "Sus prácticas culturales deberían prohibirse para homogenizar al país.",
+          "is_correct": false,
+          "feedback": "La Constitución protege, no prohíbe, las expresiones culturales indígenas."
+        },
+        {
+          "letter": "D",
+          "text": "Solo los aportes europeos cuentan como cultura válida.",
+          "is_correct": false,
+          "feedback": "La diversidad cultural incluye los aportes indígenas, africanos y de otros pueblos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la riqueza cultural que los pueblos indígenas aportan a la identidad colombiana.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.72,
+      "bundle_id": "CO-SOC-5-2026-W26-resguardos-cabildos-organizacion-indigena-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W26-resguardos-cabildos-organizacion-indigena-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué es importante que todos los colombianos respeten a los resguardos y cabildos indígenas?",
+      "context": "Lee: 'Respetar a los resguardos y cabildos indígenas implica proteger sus territorios, reconocer sus autoridades propias y valorar su cultura como parte esencial de la nación colombiana.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la diversidad cultural y la autonomía indígena fortalecen la democracia y la identidad nacional.",
+          "is_correct": true,
+          "feedback": "Reconocer al otro es base de la convivencia y de la democracia pluralista."
+        },
+        {
+          "letter": "B",
+          "text": "Porque no tienen ningún aporte a la historia del país.",
+          "is_correct": false,
+          "feedback": "Los pueblos indígenas tienen aportes históricos, culturales y ambientales invaluables."
+        },
+        {
+          "letter": "C",
+          "text": "Porque deberían ser invisibilizados para evitar conflictos.",
+          "is_correct": false,
+          "feedback": "Invisibilizar a un pueblo es contrario a los derechos humanos y a la Constitución."
+        },
+        {
+          "letter": "D",
+          "text": "Porque solo importan los grupos que viven en las grandes ciudades.",
+          "is_correct": false,
+          "feedback": "Todos los pueblos, urbanos o rurales, merecen reconocimiento y respeto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la importancia del respeto a la autonomía y la cultura de los pueblos indígenas en Colombia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-5-2026-W26-resguardos-cabildos-organizacion-indigena-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-27-grade-5-subject-lectura_critica",
+    "generated_at": "2026-09-12T15:41:45.209Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-5-2026-W27-biografia-heroe-colombiano-001-MASTERY-bundle-v1",
+      "statement": "Según la información explícita del texto, ¿qué labor desempeñaba Policarpa Salavarrieta en Santa Fe para apoyar la causa patriota?",
+      "context": "En la biblioteca escolar de Tunja, los estudiantes leen una biografía corta de Policarpa Salavarrieta: \"Nacida en Guaduas en 1795, 'La Pola' trabajó como costurera en los hogares realistas de Santa Fe de Bogotá, donde recolectaba información estratégica para las tropas patriotas.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comandaba batallones de caballería en las montañas de Boyacá.",
+          "is_correct": false,
+          "feedback": "El texto no menciona que comandara tropas en el campo de batalla, sino su labor en la ciudad."
+        },
+        {
+          "letter": "B",
+          "text": "Redactaba periódicos oficiales en la imprenta virreinal de Popayán.",
+          "is_correct": false,
+          "feedback": "El fragmento sitúa su labor en Santa Fe de Bogotá ejerciendo otro oficio."
+        },
+        {
+          "letter": "C",
+          "text": "Obtenía información valiosa mientras ejercía su oficio de costurera.",
+          "is_correct": true,
+          "feedback": "El texto afirma claramente que aprovechaba su trabajo de costurera en hogares realistas para recolectar información estratégica."
+        },
+        {
+          "letter": "D",
+          "text": "Fabricaba armamento pesado y cañones en talleres clandestinos.",
+          "is_correct": false,
+          "feedback": "El texto especifica su función de recolección de información, no la manufactura de armas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Recuperar información explícita y literal en un texto biográfico reconociendo datos sobre la ocupación y acciones del personaje.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-5-2026-W27-biografia-heroe-colombiano-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W27-biografia-heroe-colombiano-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la idea principal del párrafo leído?",
+      "context": "Lee el siguiente fragmento: \"Antonio Nariño, nacido en Santa Fe de Bogotá, fue un hombre de letras y convicciones firmes. En 1793 tradujo e imprimió de forma clandestina la 'Declaración de los Derechos del Hombre y del Ciudadano', lo que le costó persecución, destierro y largas condenas en prisión.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Antonio Nariño asumió graves sacrificios personales por difundir las ideas de libertad y derechos ciudadanos.",
+          "is_correct": true,
+          "feedback": "El párrafo se centra en cómo la traducción y difusión de los derechos del hombre le acarrearon persecución y encarcelamiento."
+        },
+        {
+          "letter": "B",
+          "text": "Las autoridades de Santa Fe premiaron a quienes imprimían documentos revolucionarios europeos.",
+          "is_correct": false,
+          "feedback": "Al contrario, el texto señala que Nariño sufrió persecución y prisión por su iniciativa."
+        },
+        {
+          "letter": "C",
+          "text": "La imprenta en el siglo XVIII estaba autorizada para toda la población sin ningún control.",
+          "is_correct": false,
+          "feedback": "El texto indica que la impresión de Nariño fue \"clandestina\" precisamente por la censura existente."
+        },
+        {
+          "letter": "D",
+          "text": "Nariño fue un funcionario español dedicado a prohibir la circulación de libros en América.",
+          "is_correct": false,
+          "feedback": "Nariño era criollo patriota y promovió activamente los derechos humanos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificar la idea principal en un fragmento biográfico sintetizando el núcleo temático central.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-5-2026-W27-biografia-heroe-colombiano-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W27-biografia-heroe-colombiano-001-MASTERY-bundle-v3",
+      "statement": "¿Qué función cumple la locución conectiva \"A pesar de\" al inicio de la oración?",
+      "context": "Observa la oración tomada de una biografía de José Prudencio Padilla: \"A pesar de las adversidades sociales de su época, el almirante guajiro lideró con valentía la batalla naval del Lago de Maracaibo, consolidando así la independencia marítima de la Gran Colombia.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indicar la causa por la cual el personaje abandonó la carrera militar.",
+          "is_correct": false,
+          "feedback": "El conector no indica abandono, sino una dificultad superada por el líder naval."
+        },
+        {
+          "letter": "B",
+          "text": "Señalar una consecuencia cronológica posterior a la batalla de Maracaibo.",
+          "is_correct": false,
+          "feedback": "\"A pesar de\" no expresa orden temporal, sino una objeción superada."
+        },
+        {
+          "letter": "C",
+          "text": "Enumerar en orden geográfico las ciudades del Caribe colombiano.",
+          "is_correct": false,
+          "feedback": "La locución no funciona como conector de adición ni enumeración espacial."
+        },
+        {
+          "letter": "D",
+          "text": "Introducir un obstáculo o dificultad que no impidió alcanzar el logro obtenido.",
+          "is_correct": true,
+          "feedback": "\"A pesar de\" es un conector concesivo que introduce una dificultad frente a la cual se cumple la acción principal."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Reconocer y aplicar la función semántico-sintáctica de conectores concesivos en la construcción de relaciones lógicas oracionales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-5-2026-W27-biografia-heroe-colombiano-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W27-biografia-heroe-colombiano-001-MASTERY-bundle-v4",
+      "statement": "En este fragmento, ¿qué significado tiene la expresión \"hostigó sin tregua\"?",
+      "context": "En un texto sobre Antonia Santos se afirma: \"Su hacienda El Hatillo, en Charalá (Santander), se convirtió en el centro de operaciones de la guerrilla patriota de Coromoro, grupo que hostigó sin tregua a las tropas realistas durante la campaña libertadora.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Firmó acuerdos de amistad y treguas diplomáticas inmediatamente.",
+          "is_correct": false,
+          "feedback": "La expresión significa lo opuesto a pactar treguas o amistades."
+        },
+        {
+          "letter": "B",
+          "text": "Combatió y presionó al adversario de manera continua y sin descanso.",
+          "is_correct": true,
+          "feedback": "\"Hostigar sin tregua\" significa atacar, presionar y desgastar al enemigo de forma constante e ininterrumpida."
+        },
+        {
+          "letter": "C",
+          "text": "Abandonó el territorio montañoso para refugiarse en zonas lejanas.",
+          "is_correct": false,
+          "feedback": "No significa huir, sino enfrentar activamente a las tropas enemigas."
+        },
+        {
+          "letter": "D",
+          "text": "Proporcionó alimentos y uniformes a los soldados opositores.",
+          "is_correct": false,
+          "feedback": "La guerrilla combatía a los realistas, no los abastecía de víveres."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inferir el significado contextual de locuciones y expresiones figuradas en textos históricos y narrativos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-5-2026-W27-biografia-heroe-colombiano-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W27-biografia-heroe-colombiano-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el propósito comunicativo predominante del autor al concluir el texto de esta manera?",
+      "context": "Lee el párrafo final de una reseña biográfica escolar: \"Conocer la vida de nuestros próceres no busca memorizar batallas lejanas, sino reflexionar sobre el coraje civil, la justicia y la entrega necesarias para consolidar una Colombia democrática, equitativa y en paz.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrar un suceso fantástico ocurrido en la época virreinal.",
+          "is_correct": false,
+          "feedback": "El texto no es una narración ficticia o fantástica, sino una reflexión formativa."
+        },
+        {
+          "letter": "B",
+          "text": "Explicar el funcionamiento técnico de las armas del siglo XIX.",
+          "is_correct": false,
+          "feedback": "El párrafo no describe elementos bélicos, sino valores y principios ciudadanos."
+        },
+        {
+          "letter": "C",
+          "text": "Motivar al lector a valorar el sentido ético e histórico de la biografía en el presente.",
+          "is_correct": true,
+          "feedback": "El autor invita explícitamente a conectar los valores del pasado con la construcción cívica actual."
+        },
+        {
+          "letter": "D",
+          "text": "Describir minuciosamente el plano arquitectónico de las ciudades coloniales.",
+          "is_correct": false,
+          "feedback": "El texto se orienta hacia la formación ciudadana, no hacia la descripción de arquitectura."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificar la intención comunicativa y el propósito persuasivo o reflexivo del autor en el cierre de un texto formativo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-5-2026-W27-biografia-heroe-colombiano-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W27-biografia-heroe-colombiano-001-MASTERY-bundle-v6",
+      "statement": "Al comparar ambos fragmentos, ¿cuál es la principal diferencia en su enfoque discursivo?",
+      "context": "Lee dos fragmentos acerca de José Prudencio Padilla:\n- Texto 1: \"Padilla nació en Riohacha en 1784; se formó en la marina y en 1823 comandó la escuadra patriota que venció a la flota española en la batalla naval del Lago de Maracaibo.\"\n- Texto 2: \"El triunfo de Padilla en el agua demostró el papel protagónico y decisivo de las poblaciones afrodescendientes e indígenas del Caribe en la conquista real de nuestra independencia.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Texto 1 aporta datos biográficos y cronológicos, mientras que el Texto 2 ofrece una interpretación sobre el impacto social del personaje.",
+          "is_correct": true,
+          "feedback": "El Texto 1 es descriptivo-informativo (fechas y hechos), mientras que el Texto 2 es valorativo y analiza la trascendencia étnica y social."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto 1 defiende al virreinato español y el Texto 2 narra una leyenda mitológica.",
+          "is_correct": false,
+          "feedback": "Ninguno de los dos textos apoya a la corona ni contiene elementos mitológicos."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos textos se limitan a enumerar los años exactos de nacimiento y muerte del prócer.",
+          "is_correct": false,
+          "feedback": "Solo el Texto 1 incluye fechas, y el Texto 2 realiza un análisis social profundo."
+        },
+        {
+          "letter": "D",
+          "text": "El Texto 1 cuestiona las habilidades marítimas de Padilla y el Texto 2 describe sus viajes a Europa.",
+          "is_correct": false,
+          "feedback": "El Texto 1 menciona su victoria naval y el Texto 2 exalta el aporte de los pueblos del Caribe."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar y contrastar las funciones discursivas entre la exposición de hechos objetivos y la argumentación o valoración analítica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-5-2026-W27-biografia-heroe-colombiano-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W27-biografia-heroe-colombiano-001-MASTERY-bundle-v7",
+      "statement": "¿Qué tono y actitud del personaje se evidencian a través del uso de los signos de exclamación y las palabras empleadas?",
+      "context": "En un taller en Medellín, se analiza la célebre arenga atribuida a Policarpa Salavarrieta antes de su fusilamiento: \"¡Pueblo indolente! ¡Cuán distinta sería vuestra suerte si conocierais el precio de la libertad!\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un tono de tristeza silenciosa y resignación pasiva ante el destino fatal.",
+          "is_correct": false,
+          "feedback": "Las frases exclamativas y el reproche a la indiferencia muestran firmeza y fuerza, no pasividad."
+        },
+        {
+          "letter": "B",
+          "text": "Una actitud de burla y diversión frente al público congregado en la plaza.",
+          "is_correct": false,
+          "feedback": "El contexto solemne y el mensaje de libertad descartan cualquier tono humorístico."
+        },
+        {
+          "letter": "C",
+          "text": "Un sentimiento de conformidad con las autoridades coloniales de la época.",
+          "is_correct": false,
+          "feedback": "La arenga es una denuncia frontal contra la opresión colonial y un llamado al despertar del pueblo."
+        },
+        {
+          "letter": "D",
+          "text": "Un tono enérgico y de confrontación cívica que busca sacudir la indiferencia de sus compatriotas.",
+          "is_correct": true,
+          "feedback": "La palabra \"indolente\" y la exclamación muestran una actitud vehemente orientada a generar conciencia cívica y valentía."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analizar el tono, los recursos expresivos y la postura valorativa de un personaje histórico en sus discursos testimoniales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-5-2026-W27-biografia-heroe-colombiano-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W27-biografia-heroe-colombiano-001-MASTERY-bundle-v8",
+      "statement": "Al evaluar críticamente esta postura desde la perspectiva de la lectura crítica y la formación ciudadana, ¿cuál juicio está mejor fundamentado?",
+      "context": "Durante un conversatorio escolar, un estudiante afirma: \"Las biografías de los héroes de la independencia solo sirven para memorizar fechas en los exámenes, ya que sus vivencias no tienen relación alguna con los problemas de la Colombia actual.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La postura es acertada, porque el contexto del siglo XIX carece por completo de conexión con la vida contemporánea.",
+          "is_correct": false,
+          "feedback": "La historia y las biografías conectan directamente con la comprensión del presente y los derechos democráticos."
+        },
+        {
+          "letter": "B",
+          "text": "La postura es errónea, porque las biografías permiten comprender la conquista de los derechos civiles y reflexionar sobre la responsabilidad ciudadana presente.",
+          "is_correct": true,
+          "feedback": "La lectura biográfica formativa va más allá de fechas: analiza dilemas éticos, justicia y construcción de la sociedad."
+        },
+        {
+          "letter": "C",
+          "text": "La postura es acertada, debido a que en el pasado las personas no tenían ideales de libertad ni de equidad social.",
+          "is_correct": false,
+          "feedback": "Precisamente los próceres lucharon por ideales universales de libertad, soberanía y justicia."
+        },
+        {
+          "letter": "D",
+          "text": "La postura es errónea solo si la biografía contiene ilustraciones a color y mapas de batallas.",
+          "is_correct": false,
+          "feedback": "El valor formativo de la biografía radica en su contenido y reflexión crítica, no en la presencia de adornos gráficos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar críticamente juicios de valor sobre la relevancia formativa y cívica de la lectura de biografías históricas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-5-2026-W27-biografia-heroe-colombiano-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

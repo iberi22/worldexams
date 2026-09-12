@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-23-grade-5-subject-matematicas",
+    "generated_at": "2026-09-12T15:41:45.215Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-5-2026-W23-conversion-fracciones-decimales-porcentajes-001-MASTERY-bundle-v1",
+      "statement": "La mitad expresada como fracción es:",
+      "context": "En una tienda de Tunja, Boyacá, un cartel dice: \"Hoy, la mitad de los cuadernos tiene descuento\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/2.",
+          "is_correct": true,
+          "feedback": "Es correcta: 1/2 significa una parte de dos iguales, es decir, la mitad."
+        },
+        {
+          "letter": "B",
+          "text": "1/4.",
+          "is_correct": false,
+          "feedback": "Error: 1/4 es la cuarta parte, no la mitad."
+        },
+        {
+          "letter": "C",
+          "text": "2/1.",
+          "is_correct": false,
+          "feedback": "Error: 2/1 equivale a 2 enteros, no a la mitad."
+        },
+        {
+          "letter": "D",
+          "text": "1/3.",
+          "is_correct": false,
+          "feedback": "Error: 1/3 es la tercera parte, no la mitad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fracción 1/2 representa la mitad: el denominador 2 indica en cuántas partes iguales se divide y el numerador 1 cuántas se toman.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-5-2026-W23-conversion-fracciones-decimales-porcentajes-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W23-conversion-fracciones-decimales-porcentajes-001-MASTERY-bundle-v2",
+      "statement": "¿Qué relación hay entre 1/2 y 0.5?",
+      "context": "En un mercado de Pasto, Nariño, doña Rosa vende media libra de queso y la registra como 0.5 libras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son valores distintos sin relación.",
+          "is_correct": false,
+          "feedback": "Error: ambos representan la misma cantidad, la mitad."
+        },
+        {
+          "letter": "B",
+          "text": "0.5 es el doble de 1/2.",
+          "is_correct": false,
+          "feedback": "Error: el doble de 1/2 es 1 entero, no 0.5."
+        },
+        {
+          "letter": "C",
+          "text": "Son equivalentes: 1/2 = 0.5.",
+          "is_correct": true,
+          "feedback": "Es correcta: al dividir 1 entre 2 se obtiene 0.5, el decimal de la mitad."
+        },
+        {
+          "letter": "D",
+          "text": "0.5 es la cuarta parte de 1/2.",
+          "is_correct": false,
+          "feedback": "Error: la cuarta parte de 1/2 sería 1/8, no 0.5."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Fracción y decimal son dos escrituras del mismo valor: 1 ÷ 2 = 0.5. Por eso 1/2 y 0.5 son equivalentes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-5-2026-W23-conversion-fracciones-decimales-porcentajes-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W23-conversion-fracciones-decimales-porcentajes-001-MASTERY-bundle-v3",
+      "statement": "¿Cuánto dinero descuentan de la maleta?",
+      "context": "En Neiva, Huila, un almacén anuncia \"50% de descuento en maletas de $80.000 COP\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5.000 COP.",
+          "is_correct": false,
+          "feedback": "Error: eso sería cerca del 6%, no del 50%."
+        },
+        {
+          "letter": "B",
+          "text": "$40.000 COP.",
+          "is_correct": true,
+          "feedback": "Es correcta: el 50% es la mitad, y la mitad de 80.000 es 40.000."
+        },
+        {
+          "letter": "C",
+          "text": "$50.000 COP.",
+          "is_correct": false,
+          "feedback": "Error: confunde el número 50 con el valor del descuento."
+        },
+        {
+          "letter": "D",
+          "text": "$30.000 COP.",
+          "is_correct": false,
+          "feedback": "Error: 30.000 no es la mitad de 80.000."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El 50% equivale a 1/2 y a 0.5. Para hallarlo se divide el precio entre 2: 80.000 ÷ 2 = 40.000 COP de descuento.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-5-2026-W23-conversion-fracciones-decimales-porcentajes-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W23-conversion-fracciones-decimales-porcentajes-001-MASTERY-bundle-v4",
+      "statement": "¿Cuánto es 1/4 de $6.000 COP en pesos y en decimal de la unidad?",
+      "context": "En Sincelejo, Sucre, un jugo cuesta $6.000 COP y la vendedora quiere calcular cuánto es la cuarta parte para una promoción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2.000 COP y 0.2.",
+          "is_correct": false,
+          "feedback": "Error: 2.000 es la tercera parte, no la cuarta."
+        },
+        {
+          "letter": "B",
+          "text": "$3.000 COP y 0.5.",
+          "is_correct": false,
+          "feedback": "Error: eso es la mitad (1/2), no la cuarta parte."
+        },
+        {
+          "letter": "C",
+          "text": "$600 COP y 0.1.",
+          "is_correct": false,
+          "feedback": "Error: eso es la décima parte, no la cuarta."
+        },
+        {
+          "letter": "D",
+          "text": "$1.500 COP y 0.25.",
+          "is_correct": true,
+          "feedback": "Es correcta: 6.000 ÷ 4 = 1.500 y 1 ÷ 4 = 0.25."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un cuarto es 1/4 = 0.25 = 25%. La cuarta parte de 6.000 es 1.500, útil para calcular promociones y vueltas con dinero en COP.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-5-2026-W23-conversion-fracciones-decimales-porcentajes-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W23-conversion-fracciones-decimales-porcentajes-001-MASTERY-bundle-v5",
+      "statement": "¿Qué fracción, decimal y porcentaje representan lo que comió?",
+      "context": "En Valledupar, Cesar, una pizza se parte en 10 porciones iguales y un niño come 3 porciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3/10 = 0.3 = 30%.",
+          "is_correct": true,
+          "feedback": "Es correcta: 3 de 10 es 0.3 y equivale al 30% de la pizza."
+        },
+        {
+          "letter": "B",
+          "text": "3/10 = 0.03 = 3%.",
+          "is_correct": false,
+          "feedback": "Error: 0.03 es 3/100, diez veces menos que 3/10."
+        },
+        {
+          "letter": "C",
+          "text": "1/3 = 0.3 = 30%.",
+          "is_correct": false,
+          "feedback": "Error: 1/3 no es 0.3 exacto ni corresponde a 3 de 10."
+        },
+        {
+          "letter": "D",
+          "text": "3/10 = 3.0 = 300%.",
+          "is_correct": false,
+          "feedback": "Error: 300% serían 3 pizzas completas, no 3 porciones de 10."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con 10 partes, cada una vale 0.1 (10%). Tres partes son 3/10 = 0.3 = 30%. Dividir en 10 facilita pasar de fracción a decimal y a porcentaje.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-5-2026-W23-conversion-fracciones-decimales-porcentajes-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W23-conversion-fracciones-decimales-porcentajes-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la conversión correcta de 0.75?",
+      "context": "En Quibdó, Chocó, una encuesta del curso dice que 0.75 de los estudiantes prefiere el sancocho. Hay que informarlo como fracción y porcentaje.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/2 = 50%.",
+          "is_correct": false,
+          "feedback": "Error: 1/2 es 0.5, menor que 0.75."
+        },
+        {
+          "letter": "B",
+          "text": "1/4 = 25%.",
+          "is_correct": false,
+          "feedback": "Error: 1/4 es 0.25, mucho menor que 0.75."
+        },
+        {
+          "letter": "C",
+          "text": "3/4 = 75%.",
+          "is_correct": true,
+          "feedback": "Es correcta: 0.75 son 75 centésimas, es decir 75/100 = 3/4 = 75%."
+        },
+        {
+          "letter": "D",
+          "text": "7/5 = 75%.",
+          "is_correct": false,
+          "feedback": "Error: 7/5 es 1.4, mayor que la unidad, no 0.75."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El decimal 0.75 significa 75/100, que simplificado es 3/4 y equivale al 75%. Analizar el valor posicional permite convertir con seguridad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-5-2026-W23-conversion-fracciones-decimales-porcentajes-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W23-conversion-fracciones-decimales-porcentajes-001-MASTERY-bundle-v7",
+      "statement": "¿Quién tiene razón y por qué?",
+      "context": "En Popayán, Cauca, una blusa de $50.000 COP tiene 20% de descuento. Dos estudiantes calculan: uno dice $10.000 COP y el otro $20.000 COP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El segundo, porque 20% de 50.000 es 20.000.",
+          "is_correct": false,
+          "feedback": "Error: 20.000 sería el 40%, no el 20%."
+        },
+        {
+          "letter": "B",
+          "text": "El primero, porque 20% = 0.2 y 50.000 × 0.2 = 10.000.",
+          "is_correct": true,
+          "feedback": "Es correcta: convierte el porcentaje a decimal y multiplica para hallar el descuento."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguno, porque el 20% siempre vale 20 pesos.",
+          "is_correct": false,
+          "feedback": "Error: el porcentaje depende del precio base, no es un valor fijo."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos, porque 10.000 y 20.000 son lo mismo.",
+          "is_correct": false,
+          "feedback": "Error: son valores distintos; solo uno es el 20%."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar un porcentaje se convierte a decimal (20% = 0.2) y se multiplica por la cantidad: 50.000 × 0.2 = 10.000 COP.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-MAT-5-2026-W23-conversion-fracciones-decimales-porcentajes-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W23-conversion-fracciones-decimales-porcentajes-001-MASTERY-bundle-v8",
+      "statement": "¿Cómo se evalúa ese aviso?",
+      "context": "En Yopal, Casanare, un aviso dice: \"Pague 0.5 del televisor hoy y el 60% mañana. Así paga el 110% en total\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcto porque 0.5 + 60% = 110%.",
+          "is_correct": false,
+          "feedback": "Error: 0.5 equivale a 50%, y 50% + 60% = 110%, pero eso supera el precio total."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcto porque siempre se puede pagar más del 100%.",
+          "is_correct": false,
+          "feedback": "Error: pagar más del 100% significa pagar de más sin justificación."
+        },
+        {
+          "letter": "C",
+          "text": "Es correcto porque 0.5 significa 5%.",
+          "is_correct": false,
+          "feedback": "Error: 0.5 equivale al 50%, no al 5%."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecto porque 0.5 = 50% y 50% + 60% = 110%, es decir, cobraría $10.000 COP de más por cada $100.000 COP.",
+          "is_correct": true,
+          "feedback": "Es correcta: convierte 0.5 a 50%, suma los porcentajes y detecta el cobro en exceso."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar exige convertir todo a la misma forma: 0.5 = 50%. Sumar 50% + 60% da 110%, lo que evidencia un cobro superior al precio real.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-5-2026-W23-conversion-fracciones-decimales-porcentajes-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

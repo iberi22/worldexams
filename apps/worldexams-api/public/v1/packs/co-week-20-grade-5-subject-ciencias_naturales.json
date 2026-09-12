@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-20-grade-5-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T15:41:45.190Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-5-2026-W20-contaminacion-prevencion-ambiente-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es la contaminación ambiental?",
+      "context": "En una escuela de Barranquilla, los estudiantes observan basura acumulada cerca de una alcantarilla del barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La presencia de sustancias o desechos que dañan el agua, el aire o el suelo.",
+          "is_correct": true,
+          "feedback": "La contaminación ocurre cuando se agregan elementos dañinos al ambiente."
+        },
+        {
+          "letter": "B",
+          "text": "El aumento de plantas y árboles en una zona.",
+          "is_correct": false,
+          "feedback": "Las plantas y árboles ayudan a limpiar el ambiente; no son contaminación."
+        },
+        {
+          "letter": "C",
+          "text": "La limpieza diaria de las calles de la ciudad.",
+          "is_correct": false,
+          "feedback": "La limpieza es una acción para combatir la contaminación, no contaminación en sí."
+        },
+        {
+          "letter": "D",
+          "text": "El uso de bicicletas para transportarse.",
+          "is_correct": false,
+          "feedback": "La bicicleta no contamina; es un medio de transporte amigable con el ambiente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer qué se entiende por contaminación ambiental en el agua, el aire y el suelo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Indagación",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-5-2026-W20-contaminacion-prevencion-ambiente-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W20-contaminacion-prevencion-ambiente-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué quemar basura contamina el aire?",
+      "context": "Lee: \"Al quemar basura en el patio se liberan gases que ensucian el aire y afectan los pulmones.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque libera gases y partículas dañinas que las personas respiran.",
+          "is_correct": true,
+          "feedback": "La quema produce humo con partículas y gases que dañan las vías respiratorias."
+        },
+        {
+          "letter": "B",
+          "text": "Porque produce oxígeno limpio para el barrio.",
+          "is_correct": false,
+          "feedback": "La quema no produce oxígeno; consume oxígeno y libera gases contaminantes."
+        },
+        {
+          "letter": "C",
+          "text": "Porque aumenta el agua de las quebradas cercanas.",
+          "is_correct": false,
+          "feedback": "La quema afecta el aire, no incrementa el agua de las quebradas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque convierte la basura en abono para las plantas.",
+          "is_correct": false,
+          "feedback": "La quema no produce abono; el abono se obtiene por compostaje, no por combustión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Explicar cómo la quema de residuos contamina el aire y afecta la salud respiratoria.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.87,
+      "bundle_id": "CO-CN-5-2026-W20-contaminacion-prevencion-ambiente-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W20-contaminacion-prevencion-ambiente-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la mejor acción para reducir la cantidad de residuos en casa?",
+      "context": "Una familia de Pereira quiere reducir la cantidad de basura que llega al relleno sanitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Separar los residuos y reciclar el papel, el plástico y el vidrio.",
+          "is_correct": true,
+          "feedback": "Separar y reciclar permite reutilizar materiales y disminuye lo que se desecha."
+        },
+        {
+          "letter": "B",
+          "text": "Mezclar todos los residuos en una sola bolsa.",
+          "is_correct": false,
+          "feedback": "Mezclar impide el reciclaje y aumenta el volumen de basura que llega al relleno."
+        },
+        {
+          "letter": "C",
+          "text": "Enterrar los residuos plásticos en el patio.",
+          "is_correct": false,
+          "feedback": "Enterrar plásticos contamina el suelo y no reduce realmente los residuos."
+        },
+        {
+          "letter": "D",
+          "text": "Arrojar los residuos a un río cercano.",
+          "is_correct": false,
+          "feedback": "Arrojar residuos al río contamina el agua y afecta a los seres vivos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la separación y el reciclaje para reducir los residuos domésticos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-5-2026-W20-contaminacion-prevencion-ambiente-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W20-contaminacion-prevencion-ambiente-001-MASTERY-bundle-v4",
+      "statement": "¿Qué deben hacer con el aceite usado para evitar contaminar el agua?",
+      "context": "Un grupo de estudiantes de Cali encuentra aceite usado en la cocina del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Guardarlo en un recipiente y entregarlo a un punto de recolección.",
+          "is_correct": true,
+          "feedback": "El aceite usado se recicla en puntos especiales y así no llega a las fuentes de agua."
+        },
+        {
+          "letter": "B",
+          "text": "Verterlo por el desagüe del lavaplatos.",
+          "is_correct": false,
+          "feedback": "El aceite por el desagüe obstruye las tuberías y contamina ríos y quebradas."
+        },
+        {
+          "letter": "C",
+          "text": "Arrojarlo al inodoro para que desaparezca.",
+          "is_correct": false,
+          "feedback": "El aceite no desaparece; llega a las aguas residuales y contamina el ambiente."
+        },
+        {
+          "letter": "D",
+          "text": "Quemarlo en el patio del colegio.",
+          "is_correct": false,
+          "feedback": "Quemar aceite libera gases tóxicos que contaminan el aire y afectan la salud."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la disposición adecuada de residuos líquidos peligrosos para prevenir la contaminación del agua.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.74,
+      "bundle_id": "CO-CN-5-2026-W20-contaminacion-prevencion-ambiente-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W20-contaminacion-prevencion-ambiente-001-MASTERY-bundle-v5",
+      "statement": "¿Qué práctica ayuda a cuidar el suelo de su cultivo?",
+      "context": "En un cultivo de Cundinamarca, un agricultor quiere proteger el suelo de la erosión y la contaminación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sembrar plantas que cubran el suelo y usar abonos naturales.",
+          "is_correct": true,
+          "feedback": "La cobertura vegetal protege el suelo de la erosión y los abonos naturales evitan químicos dañinos."
+        },
+        {
+          "letter": "B",
+          "text": "Aplicar químicos sin medida sobre la tierra.",
+          "is_correct": false,
+          "feedback": "El exceso de químicos contamina el suelo y puede dañar los cultivos y el agua."
+        },
+        {
+          "letter": "C",
+          "text": "Dejar el suelo sin vegetación durante meses.",
+          "is_correct": false,
+          "feedback": "Sin vegetación, el suelo queda expuesto al viento y la lluvia, y se erosiona."
+        },
+        {
+          "letter": "D",
+          "text": "Regar el suelo con agua contaminada.",
+          "is_correct": false,
+          "feedback": "Regar con agua contaminada introduce sustancias dañinas al suelo y a los cultivos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar prácticas de conservación que protegen el suelo de la erosión y la contaminación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CN-5-2026-W20-contaminacion-prevencion-ambiente-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W20-contaminacion-prevencion-ambiente-001-MASTERY-bundle-v6",
+      "statement": "¿Qué se puede concluir sobre el manejo de los residuos?",
+      "context": "Compara: \"Una bolsa de plástico tirada en la calle tarda cientos de años en degradarse. Una cáscara de fruta se descompone en pocas semanas.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los residuos plásticos permanecen mucho más tiempo en el ambiente y por eso deben reciclarse.",
+          "is_correct": true,
+          "feedback": "Como el plástico tarda siglos en degradarse, conviene reciclarlo para no acumular basura."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los residuos se degradan al mismo tiempo.",
+          "is_correct": false,
+          "feedback": "La comparación muestra tiempos muy distintos; no todos se degradan igual."
+        },
+        {
+          "letter": "C",
+          "text": "Las cáscaras de fruta son las más contaminantes.",
+          "is_correct": false,
+          "feedback": "Las cáscaras se descomponen rápido; el plástico es el que permanece más tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "Los plásticos desaparecen solos en pocos días.",
+          "is_correct": false,
+          "feedback": "Los plásticos tardan cientos de años; no desaparecen en pocos días."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar los tiempos de degradación de distintos residuos y su impacto en el ambiente.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.62,
+      "bundle_id": "CO-CN-5-2026-W20-contaminacion-prevencion-ambiente-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W20-contaminacion-prevencion-ambiente-001-MASTERY-bundle-v7",
+      "statement": "¿Por qué este vertimiento afecta a todo el ecosistema del río?",
+      "context": "Lee: \"Un río recibe aguas residuales de una fábrica sin tratar. Más abajo, los peces mueren y el agua huele mal.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los contaminantes se transportan con la corriente y dañan a los seres vivos que dependen del río.",
+          "is_correct": true,
+          "feedback": "El agua lleva las sustancias tóxicas río abajo y afecta a peces, plantas y personas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los peces se mudan a otro río por voluntad propia.",
+          "is_correct": false,
+          "feedback": "Los peces no se mudan; mueren por la falta de oxígeno y las sustancias tóxicas."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el agua limpia se acumula en un solo punto del río.",
+          "is_correct": false,
+          "feedback": "El agua no se separa; los contaminantes se dispersan con la corriente."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la fábrica deja de usar agua para producir.",
+          "is_correct": false,
+          "feedback": "El problema es que la fábrica vierte agua contaminada, no que deje de usar agua."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar cómo un vertimiento contamina todo un ecosistema acuático a lo largo del río.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CN-5-2026-W20-contaminacion-prevencion-ambiente-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W20-contaminacion-prevencion-ambiente-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la mejor decisión para cuidar el ambiente en tu municipio?",
+      "context": "Lee: 'Prevenir la contaminación cuesta menos que limpiarla después. Reducir, reutilizar y reciclar protege el agua, el aire y el suelo para las próximas generaciones.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Promover el reciclaje y reducir los residuos desde la escuela y la casa.",
+          "is_correct": true,
+          "feedback": "Reducir y reciclar desde la vida diaria previene la contaminación del agua, el aire y el suelo."
+        },
+        {
+          "letter": "B",
+          "text": "Esperar a que otras personas limpien la contaminación.",
+          "is_correct": false,
+          "feedback": "La prevención es responsabilidad de todos; esperar no evita el daño ambiental."
+        },
+        {
+          "letter": "C",
+          "text": "Aumentar la quema de basura para reducir su volumen.",
+          "is_correct": false,
+          "feedback": "Quemar basura contamina el aire; no es una solución adecuada."
+        },
+        {
+          "letter": "D",
+          "text": "Usar más plásticos de un solo uso cada día.",
+          "is_correct": false,
+          "feedback": "Los plásticos de un solo uso aumentan la contaminación y los residuos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar acciones de prevención y reciclaje para el cuidado del ambiente en la comunidad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-5-2026-W20-contaminacion-prevencion-ambiente-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

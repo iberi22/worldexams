@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-13-grade-5-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T15:41:45.188Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-5-2026-W13-sistema-circulatorio-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el órgano encargado de bombear la sangre a todo el cuerpo?",
+      "context": "En una clase de ciencias en un colegio de Montería, la profesora muestra un modelo del tórax humano y señala el órgano que late sin descansar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El corazón.",
+          "is_correct": true,
+          "feedback": "El corazón es el órgano muscular que impulsa la sangre por todo el cuerpo."
+        },
+        {
+          "letter": "B",
+          "text": "Los pulmones.",
+          "is_correct": false,
+          "feedback": "Los pulmones realizan el intercambio de gases, pero no bombean la sangre."
+        },
+        {
+          "letter": "C",
+          "text": "El estómago.",
+          "is_correct": false,
+          "feedback": "El estómago participa en la digestión de los alimentos, no en la circulación."
+        },
+        {
+          "letter": "D",
+          "text": "Los riñones.",
+          "is_correct": false,
+          "feedback": "Los riñones filtran la sangre, pero no la impulsan por el cuerpo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificación del corazón como el órgano central que impulsa la sangre a través de los vasos sanguíneos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-5-2026-W13-sistema-circulatorio-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W13-sistema-circulatorio-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la función principal de la sangre en el cuerpo humano?",
+      "context": "Un estudiante de Valledupar se hace una pequeña herida y observa que sale sangre. Su profesora explica que la sangre recorre todo el cuerpo llevando sustancias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transportar oxígeno y nutrientes a las células y recoger los desechos.",
+          "is_correct": true,
+          "feedback": "La sangre actúa como medio de transporte de sustancias por todo el organismo."
+        },
+        {
+          "letter": "B",
+          "text": "Producir la energía que el cuerpo necesita para moverse.",
+          "is_correct": false,
+          "feedback": "La energía proviene de los alimentos y el oxígeno, no de la sangre directamente."
+        },
+        {
+          "letter": "C",
+          "text": "Digerir los alimentos dentro del estómago.",
+          "is_correct": false,
+          "feedback": "La digestión ocurre en el sistema digestivo, no en la sangre."
+        },
+        {
+          "letter": "D",
+          "text": "Sostener los huesos del esqueleto.",
+          "is_correct": false,
+          "feedback": "Los huesos se sostienen por su propia estructura, no por la sangre."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprensión de la sangre como tejido transportador de oxígeno, nutrientes y desechos a todas las células.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-5-2026-W13-sistema-circulatorio-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W13-sistema-circulatorio-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la función de las arterias en el sistema circulatorio?",
+      "context": "En un laboratorio escolar de Ibagué, los estudiantes comparan dos tubos que simulan vasos sanguíneos: uno de pared gruesa y otro de pared delgada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Llevar la sangre desde el corazón hacia los demás órganos.",
+          "is_correct": true,
+          "feedback": "Las arterias conducen la sangre impulsada por el corazón hacia los tejidos."
+        },
+        {
+          "letter": "B",
+          "text": "Llevar la sangre desde los órganos hasta el corazón.",
+          "is_correct": false,
+          "feedback": "Esa es la función de las venas, no de las arterias."
+        },
+        {
+          "letter": "C",
+          "text": "Producir los glóbulos blancos que defienden el cuerpo.",
+          "is_correct": false,
+          "feedback": "Los glóbulos blancos se forman en la médula ósea, no en las paredes de las arterias."
+        },
+        {
+          "letter": "D",
+          "text": "Almacenar el aire que respiramos.",
+          "is_correct": false,
+          "feedback": "El aire se aloja en los pulmones, no en las arterias."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicación del conocimiento sobre los vasos sanguíneos para distinguir la función de las arterias en la circulación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-5-2026-W13-sistema-circulatorio-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W13-sistema-circulatorio-001-MASTERY-bundle-v4",
+      "statement": "¿Por qué el corazón late más rápido durante el ejercicio?",
+      "context": "Durante la clase de educación física en un colegio de Villavicencio, los estudiantes trotan durante diez minutos y notan que su corazón late más rápido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el cuerpo necesita llevar más oxígeno y nutrientes a los músculos que trabajan.",
+          "is_correct": true,
+          "feedback": "Al aumentar la actividad muscular, la sangre debe transportar más oxígeno y energía."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los músculos dejan de necesitar sangre mientras se mueven.",
+          "is_correct": false,
+          "feedback": "Durante el ejercicio los músculos requieren más sangre, no menos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el corazón se detiene para tomar un descanso.",
+          "is_correct": false,
+          "feedback": "Si el corazón se detuviera, la circulación cesaría por completo."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la sangre se convierte en aire dentro del pecho.",
+          "is_correct": false,
+          "feedback": "La sangre no se transforma en aire; transporta el oxígeno que llega de los pulmones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Explicación de la relación entre la actividad física, la demanda de oxígeno y el aumento de la frecuencia cardíaca.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-5-2026-W13-sistema-circulatorio-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W13-sistema-circulatorio-001-MASTERY-bundle-v5",
+      "statement": "¿Qué componente de la sangre participa en la coagulación y ayuda a cerrar la herida?",
+      "context": "Una niña de Sincelejo se hace una pequeña herida en la rodilla y, al cabo de unos minutos, observa que la sangre deja de salir.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las plaquetas.",
+          "is_correct": true,
+          "feedback": "Las plaquetas forman coágulos que sellan las heridas y detienen el sangrado."
+        },
+        {
+          "letter": "B",
+          "text": "El plasma.",
+          "is_correct": false,
+          "feedback": "El plasma es el componente líquido que transporta células y sustancias."
+        },
+        {
+          "letter": "C",
+          "text": "Los glóbulos rojos.",
+          "is_correct": false,
+          "feedback": "Los glóbulos rojos transportan oxígeno, pero no forman coágulos."
+        },
+        {
+          "letter": "D",
+          "text": "Los bronquios.",
+          "is_correct": false,
+          "feedback": "Los bronquios pertenecen al sistema respiratorio, no a la sangre."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificación de las plaquetas como células encargadas de la coagulación y el cierre de las heridas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CN-5-2026-W13-sistema-circulatorio-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W13-sistema-circulatorio-001-MASTERY-bundle-v6",
+      "statement": "¿Qué conclusión explica mejor la diferencia de grosor entre arterias y venas?",
+      "context": "Un grupo de estudiantes de Armenia compara dos vasos sanguíneos: las arterias tienen paredes gruesas y elásticas, mientras que las venas tienen paredes más delgadas y válvulas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las arterias soportan mayor presión porque la sangre sale impulsada por el corazón.",
+          "is_correct": true,
+          "feedback": "La presión del bombeo cardíaco exige paredes más gruesas y resistentes en las arterias."
+        },
+        {
+          "letter": "B",
+          "text": "Las venas son más gruesas porque llevan más sangre que las arterias.",
+          "is_correct": false,
+          "feedback": "No es el volumen lo que determina el grosor, sino la presión a la que circula la sangre."
+        },
+        {
+          "letter": "C",
+          "text": "El grosor depende del color de la sangre que transportan.",
+          "is_correct": false,
+          "feedback": "El color de la sangre no determina la estructura de la pared del vaso."
+        },
+        {
+          "letter": "D",
+          "text": "Las arterias son delgadas para que la sangre fluya más despacio.",
+          "is_correct": false,
+          "feedback": "Las arterias son gruesas precisamente para resistir la presión del flujo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Análisis comparativo de la estructura de arterias y venas en relación con la presión sanguínea.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.61,
+      "bundle_id": "CO-CN-5-2026-W13-sistema-circulatorio-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W13-sistema-circulatorio-001-MASTERY-bundle-v7",
+      "statement": "¿Qué se puede concluir sobre la relación entre el corazón, los pulmones y los vasos sanguíneos?",
+      "context": "En un colegio de Tunja se analiza un esquema donde la sangre sale del corazón, recorre el cuerpo y vuelve a él, pasando también por los pulmones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Forman un circuito cerrado donde el corazón impulsa la sangre que lleva oxígeno y recoge desechos.",
+          "is_correct": true,
+          "feedback": "La circulación es un circuito continuo que conecta el corazón, los pulmones y todos los tejidos."
+        },
+        {
+          "letter": "B",
+          "text": "Cada órgano trabaja de forma aislada sin conectarse con los demás.",
+          "is_correct": false,
+          "feedback": "La circulación exige la conexión permanente entre corazón, pulmones y vasos."
+        },
+        {
+          "letter": "C",
+          "text": "La sangre solo circula por los pulmones y nunca llega a las piernas.",
+          "is_correct": false,
+          "feedback": "La sangre llega a todas las regiones del cuerpo, incluidas las extremidades."
+        },
+        {
+          "letter": "D",
+          "text": "El corazón solo funciona cuando la persona está dormida.",
+          "is_correct": false,
+          "feedback": "El corazón late de manera continua durante toda la vida, despierto o dormido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Análisis del sistema circulatorio como un circuito integrado que relaciona corazón, pulmones y vasos sanguíneos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.57,
+      "bundle_id": "CO-CN-5-2026-W13-sistema-circulatorio-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W13-sistema-circulatorio-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de las siguientes afirmaciones evalúa mejor la importancia de estos hábitos?",
+      "context": "En una feria de la salud de un colegio de Medellín, los estudiantes proponen hábitos para cuidar el corazón: alimentarse de forma balanceada, hacer actividad física y evitar el consumo de tabaco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son fundamentales porque reducen el riesgo de enfermedades del corazón y mantienen una circulación saludable.",
+          "is_correct": true,
+          "feedback": "Una alimentación adecuada y el ejercicio protegen el corazón y los vasos sanguíneos."
+        },
+        {
+          "letter": "B",
+          "text": "Son inútiles porque el corazón funciona igual sin importar los hábitos.",
+          "is_correct": false,
+          "feedback": "Los hábitos de vida influyen directamente en la salud del corazón."
+        },
+        {
+          "letter": "C",
+          "text": "Solo sirven para las personas mayores de sesenta años.",
+          "is_correct": false,
+          "feedback": "El cuidado del corazón es importante en todas las edades."
+        },
+        {
+          "letter": "D",
+          "text": "Consisten en dejar de beber agua durante todo el día.",
+          "is_correct": false,
+          "feedback": "Mantener una buena hidratación favorece la circulación en lugar de perjudicarla."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluación de hábitos saludables que protegen el sistema circulatorio y previenen enfermedades cardíacas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-5-2026-W13-sistema-circulatorio-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

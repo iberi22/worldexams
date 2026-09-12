@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-28-grade-5-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-12T15:41:45.227Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-5-2026-W28-economia-actual-colombia-sectores-001-MASTERY-bundle-v1",
+      "statement": "¿A qué sector de la economía pertenece la actividad de cultivo y recolección de café?",
+      "context": "En una finca cafetera del departamento de Caldas, don Hernando cultiva y recolecta granos de café para venderlos en la cooperativa municipal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sector primario.",
+          "is_correct": true,
+          "feedback": "El sector primario comprende las actividades de extracción y aprovechamiento directo de los recursos naturales, como la agricultura y la ganadería."
+        },
+        {
+          "letter": "B",
+          "text": "Sector secundario.",
+          "is_correct": false,
+          "feedback": "El sector secundario se encarga de transformar las materias primas en productos manufacturados en fábricas."
+        },
+        {
+          "letter": "C",
+          "text": "Sector terciario.",
+          "is_correct": false,
+          "feedback": "El sector terciario presta servicios a la comunidad, como transporte, comercio, salud y educación."
+        },
+        {
+          "letter": "D",
+          "text": "Sector cuaternario.",
+          "is_correct": false,
+          "feedback": "El sector cuaternario se relaciona con la investigación científica, la consultoría avanzada y las tecnologías de la información."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El sector primario abarca todas las actividades económicas basadas en la obtención y extracción directa de recursos de la naturaleza, entre ellas la agricultura, la silvicultura, la pesca y la minería.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-5-2026-W28-economia-actual-colombia-sectores-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W28-economia-actual-colombia-sectores-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué la fabricación de prendas de vestir a partir de materias primas corresponde al sector secundario de la economía?",
+      "context": "En una fábrica textil de Medellín (Antioquia), los operarios reciben algodón cosechado en el campo y lo transforman en telas y camisetas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque transforma materias primas mediante procesos industriales para obtener productos elaborados.",
+          "is_correct": true,
+          "feedback": "La industria manufacturera y de confección procesa materias primas del sector primario para crear nuevos bienes de consumo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque extrae directamente los minerales y vegetales del suelo sin modificarlos.",
+          "is_correct": false,
+          "feedback": "La extracción directa sin transformación corresponde a las labores propias del sector primario."
+        },
+        {
+          "letter": "C",
+          "text": "Porque consiste únicamente en ofrecer servicios de transporte y venta a los compradores.",
+          "is_correct": false,
+          "feedback": "El transporte y la comercialización pertenecen al sector terciario de la economía."
+        },
+        {
+          "letter": "D",
+          "text": "Porque se enfoca de manera exclusiva en la investigación científica y espacial.",
+          "is_correct": false,
+          "feedback": "La investigación avanzada y el desarrollo tecnológico corresponden al sector cuaternario."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El sector secundario comprende la industria y la manufactura, actividades donde la materia prima es procesada y transformada en bienes listos para el consumo o para otras industrias.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.88,
+      "bundle_id": "CO-SOC-5-2026-W28-economia-actual-colombia-sectores-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W28-economia-actual-colombia-sectores-001-MASTERY-bundle-v3",
+      "statement": "Si clasificamos las actividades económicas de la ciudad, ¿en qué sector económico se ubica el trabajo desarrollado por doña Marcela?",
+      "context": "En Cartagena de Indias, doña Marcela administra un hotel que ofrece hospedaje, recorridos guiados y alimentación a turistas nacionales y extranjeros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sector terciario o de servicios.",
+          "is_correct": true,
+          "feedback": "El turismo, la hotelería y la gastronomía son actividades que prestan servicios a las personas y forman parte del sector terciario."
+        },
+        {
+          "letter": "B",
+          "text": "Sector primario o extractivo.",
+          "is_correct": false,
+          "feedback": "El sector primario se dedica a extraer recursos naturales, no a la prestación de servicios hoteleros."
+        },
+        {
+          "letter": "C",
+          "text": "Sector secundario o industrial.",
+          "is_correct": false,
+          "feedback": "El sector secundario fabrica bienes físicos mediante transformación industrial, a diferencia de la hotelería."
+        },
+        {
+          "letter": "D",
+          "text": "Sector agropecuario tradicional.",
+          "is_correct": false,
+          "feedback": "El sector agropecuario corresponde al cultivo de la tierra y la cría de animales en el campo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El sector terciario reúne todas las actividades económicas dedicadas a la prestación de servicios que satisfacen necesidades de la población, tales como el turismo, el comercio, el transporte y la educación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-5-2026-W28-economia-actual-colombia-sectores-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W28-economia-actual-colombia-sectores-001-MASTERY-bundle-v4",
+      "statement": "Para llevar el yogur a los consumidores, intervienen diferentes sectores. ¿Cuál es el orden secuencial de los sectores económicos en esta cadena productiva?",
+      "context": "En la sabana de Bogotá, una empresa compra leche a los ganaderos locales, la pasteuriza y envasa en botellas de yogur, y luego contrata camiones para distribuirla a tiendas de barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sector primario (ordeño de vacas), sector secundario (elaboración del yogur) y sector terciario (distribución y venta).",
+          "is_correct": true,
+          "feedback": "Primero se extrae la leche (primario), luego se procesa en la fábrica (secundario) y finalmente se comercializa (terciario)."
+        },
+        {
+          "letter": "B",
+          "text": "Sector secundario (ordeño de vacas), sector primario (elaboración del yogur) y sector terciario (distribución y venta).",
+          "is_correct": false,
+          "feedback": "El ordeño es una actividad primaria y el procesamiento industrial es secundario."
+        },
+        {
+          "letter": "C",
+          "text": "Sector terciario (ordeño de vacas), sector secundario (elaboración del yogur) y sector primario (distribución y venta).",
+          "is_correct": false,
+          "feedback": "La distribución y venta es una actividad de servicios del sector terciario."
+        },
+        {
+          "letter": "D",
+          "text": "Sector primario (ordeño de vacas), sector terciario (elaboración del yogur) y sector secundario (distribución y venta).",
+          "is_correct": false,
+          "feedback": "La elaboración y envasado de alimentos es una actividad industrial del sector secundario."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una cadena productiva inicia con la obtención de materia prima (sector primario), continúa con la transformación industrial (sector secundario) y concluye con la distribución, transporte y comercialización (sector terciario).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.82,
+      "bundle_id": "CO-SOC-5-2026-W28-economia-actual-colombia-sectores-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W28-economia-actual-colombia-sectores-001-MASTERY-bundle-v5",
+      "statement": "¿Qué beneficio económico y social principal genera esta iniciativa para las familias campesinas de la región?",
+      "context": "Una asociación de campesinos en Boyacá cultiva papa orgánica y decide venderla directamente en mercados campesinos de Tunja sin intermediarios comerciales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incrementa los ingresos de los productores al recibir el pago justo sin descuentos por intermediación.",
+          "is_correct": true,
+          "feedback": "La venta directa permite que el valor pagado por el consumidor final beneficie de manera directa al productor campesino."
+        },
+        {
+          "letter": "B",
+          "text": "Transforma de forma automática su labor agrícola en una industria química de gran escala.",
+          "is_correct": false,
+          "feedback": "La comercialización directa no altera la naturaleza agrícola de la producción campesina."
+        },
+        {
+          "letter": "C",
+          "text": "Elimina por completo la necesidad de trasladar los alimentos a los centros de consumo.",
+          "is_correct": false,
+          "feedback": "Los alimentos deben seguir siendo transportados hacia las plazas y mercados de las ciudades."
+        },
+        {
+          "letter": "D",
+          "text": "Obliga a los campesinos a abandonar las labores agrícolas del sector primario.",
+          "is_correct": false,
+          "feedback": "Al contrario, fortalece su labor productiva en el campo al hacerla más rentable y sostenible."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los canales cortos de comercialización, como los mercados campesinos, conectan directamente a los productores del sector primario con los consumidores, mejorando la rentabilidad rural y asegurando precios justos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-5-2026-W28-economia-actual-colombia-sectores-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W28-economia-actual-colombia-sectores-001-MASTERY-bundle-v6",
+      "statement": "Al analizar la economía de este municipio, ¿cuál es el principal riesgo de basar casi todo el sustento local en el sector primario extractivo?",
+      "context": "En un municipio del departamento del Cesar, la economía local depende en un 80% de la extracción minera de carbón. Durante un foro ciudadano, los habitantes analizan el futuro económico del territorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La alta vulnerabilidad frente a la caída de precios internacionales y el eventual agotamiento de los recursos no renovables.",
+          "is_correct": true,
+          "feedback": "Si el mineral se agota o baja de precio en el mercado mundial, el municipio puede enfrentar crisis de desempleo e ingresos fiscales."
+        },
+        {
+          "letter": "B",
+          "text": "El aumento inevitable de fábricas textiles y talleres automotrices en el área rural.",
+          "is_correct": false,
+          "feedback": "La dependencia minera suele inhibir el surgimiento de otras industrias por falta de diversificación."
+        },
+        {
+          "letter": "C",
+          "text": "La desaparición inmediata de la necesidad de construir hospitales y escuelas públicas.",
+          "is_correct": false,
+          "feedback": "Los servicios de salud y educación siguen siendo indispensables independientemente de la actividad económica."
+        },
+        {
+          "letter": "D",
+          "text": "La obligación de que toda la población trabaje únicamente en el desarrollo de software informático.",
+          "is_correct": false,
+          "feedback": "El desarrollo de software pertenece al sector cuaternario y no surge automáticamente de la minería."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La excesiva dependencia de actividades extractivas (monoactividad económica) genera fragilidad ante fluctuaciones de precios externos y compromete la sostenibilidad a largo plazo una vez los recursos se agotan.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-5-2026-W28-economia-actual-colombia-sectores-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W28-economia-actual-colombia-sectores-001-MASTERY-bundle-v7",
+      "statement": "¿Qué conclusión se puede deducir sobre la dinámica económica de las ciudades colombianas a partir de esta información?",
+      "context": "Un grupo de estudiantes en Bucaramanga analiza un informe económico donde se observa que el sector terciario (comercio, salud, educación, transporte y finanzas) concentra la mayor proporción de trabajadores en Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las zonas urbanas demandan una gran variedad de servicios para satisfacer las necesidades diarias de sus habitantes.",
+          "is_correct": true,
+          "feedback": "El crecimiento poblacional de las ciudades impulsa actividades como el comercio, el transporte, la educación y los servicios públicos."
+        },
+        {
+          "letter": "B",
+          "text": "En las ciudades ya no se consumen productos provenientes del sector primario ni de la industria.",
+          "is_correct": false,
+          "feedback": "La población urbana sigue requiriendo alimentos del sector primario y bienes elaborados del sector secundario."
+        },
+        {
+          "letter": "C",
+          "text": "El sector de servicios puede operar sin necesidad de infraestructura vial ni comunicación.",
+          "is_correct": false,
+          "feedback": "Los servicios dependen críticamente de vías, energía eléctrica, agua potable y redes de telecomunicaciones."
+        },
+        {
+          "letter": "D",
+          "text": "La totalidad de la fuerza laboral del país se dedica exclusivamente a actividades agropecuarias en el campo.",
+          "is_correct": false,
+          "feedback": "El informe demuestra justamente que la mayoría labora en servicios y comercio en centros urbanos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El predominio del sector terciario (terciarización de la economía) es una característica de las sociedades urbanizadas, donde el intercambio comercial y los servicios son los mayores generadores de empleo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.72,
+      "bundle_id": "CO-SOC-5-2026-W28-economia-actual-colombia-sectores-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W28-economia-actual-colombia-sectores-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de las siguientes propuestas representa la decisión más equilibrada para garantizar el bienestar integral y el desarrollo sostenible del municipio?",
+      "context": "En un municipio del Tolima conocido por sus cultivos de arroz y sus fuentes de agua limpia, una empresa presenta un proyecto para instalar una fábrica industrial. La comunidad y las autoridades locales deben evaluar la conveniencia del proyecto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Exigir estudios de impacto ambiental y tecnología no contaminante antes de conceder la licencia, protegiendo las fuentes hídricas y el empleo agrícola.",
+          "is_correct": true,
+          "feedback": "Esta alternativa equilibra el crecimiento industrial con la conservación ecológica y la seguridad alimentaria de la comunidad."
+        },
+        {
+          "letter": "B",
+          "text": "Aprobar la construcción de la fábrica de forma inmediata sin evaluar los riesgos ambientales para priorizar el dinero a corto plazo.",
+          "is_correct": false,
+          "feedback": "Ignorar el impacto ambiental pone en grave peligro la salud comunitaria, el agua y la producción agrícola a largo plazo."
+        },
+        {
+          "letter": "C",
+          "text": "Prohibir cualquier tipo de actividad económica moderna para forzar a la comunidad a vivir exclusivamente de la recolección silvestre.",
+          "is_correct": false,
+          "feedback": "Frenar todo desarrollo productivo impide el acceso a oportunidades laborales, servicios de salud y bienestar social."
+        },
+        {
+          "letter": "D",
+          "text": "Ordenar el cierre definitivo de todos los cultivos de arroz para convertir todo el municipio en una sola zona industrial.",
+          "is_correct": false,
+          "feedback": "Eliminar la agricultura destruye la vocación tradicional del territorio y afecta la seguridad alimentaria regional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El desarrollo sostenible exige conciliar el crecimiento económico con la preservación del patrimonio natural y la cohesión social, evaluando rigurosamente los impactos de cualquier proyecto productivo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-5-2026-W28-economia-actual-colombia-sectores-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-18-grade-5-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-12T15:41:45.222Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-5-2026-W18-derechos-deberes-ciudadanos-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es un derecho?",
+      "context": "En clase de Sociales en Bucaramanga, la profesora explica los derechos y deberes que tienen todas las personas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una garantía que tienen todas las personas para vivir con dignidad.",
+          "is_correct": true,
+          "feedback": "Los derechos son garantías universales que protegen la dignidad humana."
+        },
+        {
+          "letter": "B",
+          "text": "Es una obligación que solo cumplen los adultos mayores.",
+          "is_correct": false,
+          "feedback": "Las obligaciones se llaman deberes y no solo corresponden a los adultos."
+        },
+        {
+          "letter": "C",
+          "text": "Es un premio que se entrega a los más estudiosos.",
+          "is_correct": false,
+          "feedback": "Los derechos no son premios; corresponden a todos por igual."
+        },
+        {
+          "letter": "D",
+          "text": "Es una regla que se puede romper sin consecuencias.",
+          "is_correct": false,
+          "feedback": "Las normas existen para proteger la convivencia, no para romperse."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender que los derechos son garantías universales que protegen la dignidad de todas las personas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-5-2026-W18-derechos-deberes-ciudadanos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W18-derechos-deberes-ciudadanos-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la relación entre derechos y deberes?",
+      "context": "En el salón se discute por qué los derechos siempre van acompañados de deberes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los deberes permiten que todos puedan disfrutar sus derechos respetando a los demás.",
+          "is_correct": true,
+          "feedback": "Cumplir los deberes garantiza la convivencia y el respeto de los derechos de todos."
+        },
+        {
+          "letter": "B",
+          "text": "Los deberes sirven para quitarles los derechos a las personas.",
+          "is_correct": false,
+          "feedback": "Los deberes no anulan los derechos, los respaldan."
+        },
+        {
+          "letter": "C",
+          "text": "Los derechos y los deberes no tienen ninguna relación.",
+          "is_correct": false,
+          "feedback": "Están estrechamente relacionados: se complementan entre sí."
+        },
+        {
+          "letter": "D",
+          "text": "Solo los adultos tienen deberes, los niños no.",
+          "is_correct": false,
+          "feedback": "Los niños también tienen deberes en la casa, el colegio y el barrio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Entender que derechos y deberes son complementarios: cumplir los deberes garantiza la convivencia y el respeto de los derechos de todos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.86,
+      "bundle_id": "CO-SOC-5-2026-W18-derechos-deberes-ciudadanos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W18-derechos-deberes-ciudadanos-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de las siguientes acciones es un deber de los estudiantes?",
+      "context": "En un colegio de Villavicencio, los estudiantes reciben el Manual de Convivencia con las normas de la institución.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Llegar puntualmente a clase y cuidar los elementos del colegio.",
+          "is_correct": true,
+          "feedback": "La puntualidad y el cuidado de los bienes son deberes escolares básicos."
+        },
+        {
+          "letter": "B",
+          "text": "Decidir los precios de los alimentos de la tienda escolar.",
+          "is_correct": false,
+          "feedback": "Fijar precios no es una responsabilidad de los estudiantes."
+        },
+        {
+          "letter": "C",
+          "text": "Cambiar las leyes de la Constitución Política.",
+          "is_correct": false,
+          "feedback": "Eso corresponde al Congreso, no a los estudiantes."
+        },
+        {
+          "letter": "D",
+          "text": "Elegir al alcalde de la ciudad.",
+          "is_correct": false,
+          "feedback": "Elegir al alcalde es un derecho de los ciudadanos mayores de edad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el concepto de deber al contexto escolar, identificando las responsabilidades de los estudiantes.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.79,
+      "bundle_id": "CO-SOC-5-2026-W18-derechos-deberes-ciudadanos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W18-derechos-deberes-ciudadanos-001-MASTERY-bundle-v4",
+      "statement": "¿Para qué sirve el gobierno escolar?",
+      "context": "En la IED San José de Cúcuta se eligen cada año el personero y el consejo estudiantil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para que los estudiantes participen y propongan soluciones a los problemas del colegio.",
+          "is_correct": true,
+          "feedback": "El gobierno escolar es un espacio de participación democrática de los estudiantes."
+        },
+        {
+          "letter": "B",
+          "text": "Para que los profesores elijan a los representantes sin consultar a nadie.",
+          "is_correct": false,
+          "feedback": "La elección debe contar con la participación de los estudiantes."
+        },
+        {
+          "letter": "C",
+          "text": "Para reemplazar al rector en todas sus funciones.",
+          "is_correct": false,
+          "feedback": "El gobierno escolar participa, pero no reemplaza a las directivas."
+        },
+        {
+          "letter": "D",
+          "text": "Para recaudar impuestos a las familias.",
+          "is_correct": false,
+          "feedback": "Los impuestos no son función del gobierno escolar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer el gobierno escolar como un espacio de participación democrática de los estudiantes en la vida de la institución.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.74,
+      "bundle_id": "CO-SOC-5-2026-W18-derechos-deberes-ciudadanos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W18-derechos-deberes-ciudadanos-001-MASTERY-bundle-v5",
+      "statement": "¿Qué actitud demuestra respeto por la diversidad en el barrio?",
+      "context": "Al barrio de un estudiante de Quibdó llegan nuevas familias de otras regiones del país.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conocer y valorar las costumbres de los nuevos vecinos sin burlarse de ellas.",
+          "is_correct": true,
+          "feedback": "Valorar las costumbres de los demás fortalece la convivencia y la diversidad."
+        },
+        {
+          "letter": "B",
+          "text": "Exigir que todos hablen y coman igual que uno.",
+          "is_correct": false,
+          "feedback": "Imponer una sola forma de vida desconoce la diversidad cultural."
+        },
+        {
+          "letter": "C",
+          "text": "Prohibir la entrada a quienes nacieron en otra región.",
+          "is_correct": false,
+          "feedback": "Discriminar por origen es contrario a la igualdad y la dignidad."
+        },
+        {
+          "letter": "D",
+          "text": "Ignorar a los vecinos nuevos para no compartir con ellos.",
+          "is_correct": false,
+          "feedback": "La indiferencia no construye comunidad ni respeta la diversidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Valorar la diversidad cultural como riqueza de la comunidad y rechazar actitudes de discriminación o exclusión.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.69,
+      "bundle_id": "CO-SOC-5-2026-W18-derechos-deberes-ciudadanos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W18-derechos-deberes-ciudadanos-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la función que debe cumplir el personero ante esta situación?",
+      "context": "En una escuela de Santa Marta, el personero estudiantil recibe quejas porque el restaurante escolar no sirve opciones para algunos estudiantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representar a los estudiantes y llevar sus inquietudes ante las directivas para buscar una solución.",
+          "is_correct": true,
+          "feedback": "El personero es el vocero de los estudiantes ante las autoridades del colegio."
+        },
+        {
+          "letter": "B",
+          "text": "Sancionar con multas a los cocineros del restaurante.",
+          "is_correct": false,
+          "feedback": "El personero no tiene autoridad para imponer multas."
+        },
+        {
+          "letter": "C",
+          "text": "Cerrar el restaurante sin avisar a nadie.",
+          "is_correct": false,
+          "feedback": "Cerrar un servicio sin diálogo no es una solución democrática."
+        },
+        {
+          "letter": "D",
+          "text": "Guardar silencio porque las quejas no son de su interés.",
+          "is_correct": false,
+          "feedback": "Su deber es representar las inquietudes de los estudiantes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar el papel del personero estudiantil como mediador y vocero de los estudiantes ante las autoridades del colegio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.63,
+      "bundle_id": "CO-SOC-5-2026-W18-derechos-deberes-ciudadanos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W18-derechos-deberes-ciudadanos-001-MASTERY-bundle-v7",
+      "statement": "¿Qué relación hay entre el deber de mantener limpio el barrio y el derecho a un ambiente sano?",
+      "context": "En el barrio de un estudiante de Neiva, algunos vecinos sacan la basura a la calle en días que no corresponde, lo que atrae plagas y malos olores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cumplir el deber de sacar la basura correctamente protege el derecho de todos a un ambiente sano.",
+          "is_correct": true,
+          "feedback": "Un deber individual bien cumplido protege un derecho de toda la comunidad."
+        },
+        {
+          "letter": "B",
+          "text": "No existe relación entre la basura y la salud de los vecinos.",
+          "is_correct": false,
+          "feedback": "La basura mal manejada afecta la salud y el ambiente del barrio."
+        },
+        {
+          "letter": "C",
+          "text": "El derecho a un ambiente sano anula el deber de cuidar el barrio.",
+          "is_correct": false,
+          "feedback": "El derecho no anula el deber; ambos se complementan."
+        },
+        {
+          "letter": "D",
+          "text": "Solo el Estado debe limpiar las calles y los vecinos no deben hacer nada.",
+          "is_correct": false,
+          "feedback": "El aseo del barrio es una responsabilidad compartida con los vecinos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar cómo el cumplimiento de un deber individual protege un derecho colectivo, fortaleciendo la convivencia comunitaria.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.58,
+      "bundle_id": "CO-SOC-5-2026-W18-derechos-deberes-ciudadanos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W18-derechos-deberes-ciudadanos-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál propuesta contribuye mejor a que todos cumplan sus deberes y convivan en paz?",
+      "context": "En la asamblea de estudiantes se propone mejorar la convivencia del colegio, donde últimamente hay peleas y desorden en los descansos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Crear pactos de convivencia construidos entre todos, con reglas claras y consecuencias justas.",
+          "is_correct": true,
+          "feedback": "Las reglas construidas en conjunto y con justicia favorecen la convivencia democrática."
+        },
+        {
+          "letter": "B",
+          "text": "Castigar a todos los estudiantes sin escuchar sus razones.",
+          "is_correct": false,
+          "feedback": "Castigar sin escuchar no es justo ni democrático."
+        },
+        {
+          "letter": "C",
+          "text": "Suspender los descansos para siempre y prohibir el juego.",
+          "is_correct": false,
+          "feedback": "Prohibir el juego desconoce un derecho de la infancia."
+        },
+        {
+          "letter": "D",
+          "text": "Permitir que cada uno haga lo que quiera sin ninguna regla.",
+          "is_correct": false,
+          "feedback": "Sin reglas no hay orden ni respeto por los derechos de los demás."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar propuestas de convivencia democrática, valorando la participación, las reglas claras y la justicia como base del bien común.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-5-2026-W18-derechos-deberes-ciudadanos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

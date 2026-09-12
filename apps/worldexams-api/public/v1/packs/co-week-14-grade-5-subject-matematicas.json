@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-14-grade-5-subject-matematicas",
+    "generated_at": "2026-09-12T15:41:45.212Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-5-2026-W14-probabilidad-experimentos-simples-001-MASTERY-bundle-v1",
+      "statement": "¿Cuáles son los posibles resultados al lanzar una moneda una sola vez?",
+      "context": "En una tienda escolar de Ibagué, la profesora lanza una moneda al aire para decidir quién empieza un juego.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cara o sello.",
+          "is_correct": true,
+          "feedback": "Una moneda tiene dos caras distintas: cara y sello, esos son sus únicos resultados."
+        },
+        {
+          "letter": "B",
+          "text": "Rojo o azul.",
+          "is_correct": false,
+          "feedback": "Rojo y azul son colores y no aparecen en las caras de una moneda."
+        },
+        {
+          "letter": "C",
+          "text": "Uno o dos.",
+          "is_correct": false,
+          "feedback": "Los números uno y dos son resultados de un dado, no de una moneda."
+        },
+        {
+          "letter": "D",
+          "text": "Grande o pequeño.",
+          "is_correct": false,
+          "feedback": "Grande y pequeño describen tamaños, no los resultados posibles de una moneda."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer los resultados posibles de un experimento aleatorio sencillo como el lanzamiento de una moneda.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-5-2026-W14-probabilidad-experimentos-simples-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W14-probabilidad-experimentos-simples-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué lanzar un dado es un experimento aleatorio?",
+      "context": "Lee: \"En un dado de seis caras aparecen los números 1, 2, 3, 4, 5 y 6.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque antes de lanzarlo no se puede saber con certeza qué número saldrá.",
+          "is_correct": true,
+          "feedback": "En un experimento aleatorio el resultado depende del azar y no se puede predecir."
+        },
+        {
+          "letter": "B",
+          "text": "Porque siempre sale el número 6 en cada lanzamiento.",
+          "is_correct": false,
+          "feedback": "Si siempre saliera el mismo número, no sería un experimento aleatorio."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los números del dado nunca cambian de posición.",
+          "is_correct": false,
+          "feedback": "Que las caras estén fijas no elimina el azar del resultado."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el resultado se puede predecir con exactitud de antemano.",
+          "is_correct": false,
+          "feedback": "Predecir con exactitud es lo contrario de un experimento aleatorio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender que un experimento es aleatorio cuando su resultado no se puede predecir con certeza.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-5-2026-W14-probabilidad-experimentos-simples-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W14-probabilidad-experimentos-simples-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la probabilidad de que la ruleta se detenga en un sector rojo?",
+      "context": "Una ruleta de un parque de Medellín tiene 8 sectores de igual tamaño: 4 rojos, 2 azules y 2 verdes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 de 8, que es igual a 1/2.",
+          "is_correct": true,
+          "feedback": "Hay 4 sectores rojos de 8 en total, y 4/8 equivale a la mitad."
+        },
+        {
+          "letter": "B",
+          "text": "2 de 8, que es igual a 1/4.",
+          "is_correct": false,
+          "feedback": "2 de 8 corresponde a los sectores azules, no a los rojos."
+        },
+        {
+          "letter": "C",
+          "text": "6 de 8, que es igual a 3/4.",
+          "is_correct": false,
+          "feedback": "6 de 8 sumaría los sectores que no son rojos, lo cual no es correcto."
+        },
+        {
+          "letter": "D",
+          "text": "1 de 8, que es igual a 1/8.",
+          "is_correct": false,
+          "feedback": "1 de 8 solo sería válido si hubiera un único sector rojo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Calcular la probabilidad de un evento comparando los casos favorables con el total de casos posibles.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-5-2026-W14-probabilidad-experimentos-simples-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W14-probabilidad-experimentos-simples-001-MASTERY-bundle-v4",
+      "statement": "¿Cuántos resultados favorables hay para obtener un número par en el dado?",
+      "context": "Camila lanza un dado de seis caras en el patio de su colegio en Pasto y quiere obtener un número par.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 resultados: 2, 4 y 6.",
+          "is_correct": true,
+          "feedback": "Los números pares del dado son 2, 4 y 6, es decir, tres resultados favorables."
+        },
+        {
+          "letter": "B",
+          "text": "2 resultados: 1 y 3.",
+          "is_correct": false,
+          "feedback": "1 y 3 son números impares, no resultados favorables para un número par."
+        },
+        {
+          "letter": "C",
+          "text": "6 resultados: todos los números.",
+          "is_correct": false,
+          "feedback": "Solo la mitad de los números del dado son pares, no todos."
+        },
+        {
+          "letter": "D",
+          "text": "4 resultados: 1, 2, 3 y 4.",
+          "is_correct": false,
+          "feedback": "Esta lista mezcla números impares y no incluye todos los pares posibles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificar los casos favorables de un evento al aplicar la probabilidad en un dado de seis caras.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-5-2026-W14-probabilidad-experimentos-simples-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W14-probabilidad-experimentos-simples-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la probabilidad de sacar una balota negra?",
+      "context": "En una bolsa hay 5 balotas: 3 blancas y 2 negras. Un estudiante de un colegio de Cúcuta saca una balota sin mirar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 de 5.",
+          "is_correct": true,
+          "feedback": "Hay 2 balotas negras entre 5 en total, así que la probabilidad es 2/5."
+        },
+        {
+          "letter": "B",
+          "text": "3 de 5.",
+          "is_correct": false,
+          "feedback": "3 de 5 corresponde a las balotas blancas, no a las negras."
+        },
+        {
+          "letter": "C",
+          "text": "5 de 2.",
+          "is_correct": false,
+          "feedback": "La probabilidad no puede ser mayor que 1 ni comparar más casos que el total."
+        },
+        {
+          "letter": "D",
+          "text": "1 de 5.",
+          "is_correct": false,
+          "feedback": "1 de 5 sería válido solo si hubiera una sola balota negra en la bolsa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Resolver problemas de probabilidad sencillos con conteo de casos favorables y casos posibles.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-5-2026-W14-probabilidad-experimentos-simples-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W14-probabilidad-experimentos-simples-001-MASTERY-bundle-v6",
+      "statement": "¿Qué diferencia hay entre estos dos experimentos aleatorios?",
+      "context": "Compara: \"Lanzar una moneda y lanzar un dado son dos experimentos aleatorios. La moneda tiene 2 resultados posibles y el dado tiene 6.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El dado tiene más resultados posibles que la moneda, por eso la probabilidad de cada cara del dado es menor.",
+          "is_correct": true,
+          "feedback": "A mayor número de resultados posibles, menor es la probabilidad de cada uno."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos experimentos tienen exactamente 6 resultados posibles.",
+          "is_correct": false,
+          "feedback": "La moneda solo tiene 2 resultados posibles, no 6."
+        },
+        {
+          "letter": "C",
+          "text": "La moneda tiene más resultados posibles que el dado.",
+          "is_correct": false,
+          "feedback": "La moneda tiene menos resultados (2) que el dado (6)."
+        },
+        {
+          "letter": "D",
+          "text": "En los dos experimentos siempre se obtiene el mismo resultado.",
+          "is_correct": false,
+          "feedback": "Al ser aleatorios, los resultados cambian en cada lanzamiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar cómo el número de resultados posibles influye en la probabilidad de cada resultado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-5-2026-W14-probabilidad-experimentos-simples-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W14-probabilidad-experimentos-simples-001-MASTERY-bundle-v7",
+      "statement": "¿Por qué la afirmación de Juan es incorrecta?",
+      "context": "Lee: \"En una ruleta con 10 sectores iguales, 7 son amarillos y 3 son morados. Juan afirma que es más fácil obtener un sector morado que uno amarillo.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque hay más sectores amarillos que morados, así que es más probable obtener amarillo.",
+          "is_correct": true,
+          "feedback": "Con 7 sectores amarillos frente a 3 morados, el amarillo tiene mayor probabilidad."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los sectores morados ocupan todo el círculo de la ruleta.",
+          "is_correct": false,
+          "feedback": "Si los morados ocuparan todo el círculo, no habría sectores amarillos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque girar una ruleta no es un experimento aleatorio.",
+          "is_correct": false,
+          "feedback": "Girar una ruleta sí es un experimento aleatorio, pues el resultado varía."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el número 10 impide calcular cualquier probabilidad.",
+          "is_correct": false,
+          "feedback": "Contar 10 sectores iguales facilita el cálculo de las probabilidades."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar afirmaciones sobre probabilidad comparando las cantidades de casos favorables.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-5-2026-W14-probabilidad-experimentos-simples-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W14-probabilidad-experimentos-simples-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál conclusión evalúa mejor el papel de la probabilidad en situaciones cotidianas?",
+      "context": "Lee: 'La probabilidad ayuda a tomar decisiones en juegos y en la vida diaria: si una bolsa tiene más balotas rojas que azules, es más probable sacar una roja. Sin embargo, un resultado poco probable también puede ocurrir.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La probabilidad permite estimar qué resultado es más probable, aunque no garantiza lo que ocurrirá.",
+          "is_correct": true,
+          "feedback": "La probabilidad mide qué tan posible es un evento, pero no asegura el resultado."
+        },
+        {
+          "letter": "B",
+          "text": "La probabilidad asegura con certeza absoluta el resultado del experimento.",
+          "is_correct": false,
+          "feedback": "Un evento probable puede no ocurrir y uno poco probable puede ocurrir."
+        },
+        {
+          "letter": "C",
+          "text": "Un resultado probable nunca ocurre en la realidad.",
+          "is_correct": false,
+          "feedback": "Al contrario, los resultados probables suelen ocurrir con mayor frecuencia."
+        },
+        {
+          "letter": "D",
+          "text": "La probabilidad solo sirve para los dados y no para otras situaciones.",
+          "is_correct": false,
+          "feedback": "La probabilidad se aplica en muchos contextos además de los dados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar el alcance y las limitaciones de la probabilidad como herramienta para tomar decisiones.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-5-2026-W14-probabilidad-experimentos-simples-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

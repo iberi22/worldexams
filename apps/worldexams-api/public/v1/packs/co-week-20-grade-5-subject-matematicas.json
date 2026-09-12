@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-20-grade-5-subject-matematicas",
+    "generated_at": "2026-09-12T15:41:45.214Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-5-2026-W20-ecuaciones-simples-igualdades-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es una igualdad en matemáticas?",
+      "context": "En el salón de clase de un colegio de Ibagué, la profesora escribe en el tablero la expresión 6 + 2 = 8 y pregunta a sus estudiantes qué representa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una relación donde dos expresiones tienen el mismo valor.",
+          "is_correct": true,
+          "feedback": "En una igualdad, el valor de un lado es exactamente igual al valor del otro lado."
+        },
+        {
+          "letter": "B",
+          "text": "Una operación que siempre da un resultado mayor que sus términos.",
+          "is_correct": false,
+          "feedback": "El resultado de una igualdad no tiene que ser mayor; solo debe ser equivalente."
+        },
+        {
+          "letter": "C",
+          "text": "Un dibujo que representa figuras geométricas.",
+          "is_correct": false,
+          "feedback": "Una igualdad es una relación numérica, no un dibujo de figuras."
+        },
+        {
+          "letter": "D",
+          "text": "Una lista de números sin ninguna relación entre ellos.",
+          "is_correct": false,
+          "feedback": "Precisamente la igualdad establece una relación de equivalencia entre dos expresiones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer la igualdad como una relación de equivalencia entre dos expresiones con el mismo valor.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-5-2026-W20-ecuaciones-simples-igualdades-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W20-ecuaciones-simples-igualdades-001-MASTERY-bundle-v2",
+      "statement": "Si la balanza está en equilibrio, ¿qué representa la situación?",
+      "context": "En una tienda de barrio en Pereira, una balanza está equilibrada: en el platillo izquierdo hay una bolsa de dulces y 3 pesas de 1 unidad; en el derecho hay 7 pesas de 1 unidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el peso de la bolsa más 3 es igual a 7, es decir, bolsa + 3 = 7.",
+          "is_correct": true,
+          "feedback": "El equilibrio de la balanza se traduce en una igualdad entre los dos platillos."
+        },
+        {
+          "letter": "B",
+          "text": "Que la bolsa pesa exactamente 7 unidades sin sumar nada.",
+          "is_correct": false,
+          "feedback": "La bolsa está acompañada de 3 pesas, por lo que su peso no es directamente 7."
+        },
+        {
+          "letter": "C",
+          "text": "Que el platillo izquierdo pesa el doble que el derecho.",
+          "is_correct": false,
+          "feedback": "Si pesara el doble, la balanza no estaría en equilibrio."
+        },
+        {
+          "letter": "D",
+          "text": "Que las pesas no influyen en el equilibrio.",
+          "is_correct": false,
+          "feedback": "Cada pesa cuenta en el peso total de su platillo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Interpretar el equilibrio de una balanza como una igualdad con un valor desconocido.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-5-2026-W20-ecuaciones-simples-igualdades-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W20-ecuaciones-simples-igualdades-001-MASTERY-bundle-v3",
+      "statement": "Si se escribe la ecuación x + 5.000 = 12.000, ¿cuál es el valor de x?",
+      "context": "Un estudiante de grado quinto en Cúcuta ahorra dinero para comprar un cuaderno. Tiene 5.000 COP y le falta una cantidad desconocida para completar 12.000 COP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7.000 COP.",
+          "is_correct": true,
+          "feedback": "12.000 - 5.000 = 7.000 COP, y al sumar 7.000 + 5.000 se obtiene 12.000."
+        },
+        {
+          "letter": "B",
+          "text": "5.000 COP.",
+          "is_correct": false,
+          "feedback": "5.000 COP es lo que ya tiene, no lo que le falta."
+        },
+        {
+          "letter": "C",
+          "text": "17.000 COP.",
+          "is_correct": false,
+          "feedback": "17.000 COP resultaría de sumar 12.000 + 5.000, operación que no despeja la incógnita."
+        },
+        {
+          "letter": "D",
+          "text": "12.000 COP.",
+          "is_correct": false,
+          "feedback": "12.000 COP es la meta total, no la cantidad que falta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Resolver una ecuación simple de suma restando el término conocido al total.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-5-2026-W20-ecuaciones-simples-igualdades-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W20-ecuaciones-simples-igualdades-001-MASTERY-bundle-v4",
+      "statement": "Si la ecuación es x - 4 = 9, ¿cuántos lápices tenía al inicio?",
+      "context": "En una tienda escolar de Sincelejo, una estudiante tenía cierta cantidad de lápices, regaló 4 y le quedaron 9.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "13 lápices.",
+          "is_correct": true,
+          "feedback": "9 + 4 = 13, y al restar 13 - 4 se obtiene 9."
+        },
+        {
+          "letter": "B",
+          "text": "5 lápices.",
+          "is_correct": false,
+          "feedback": "5 lápices resultarían de restar 9 - 4, operación que no corresponde a esta ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "9 lápices.",
+          "is_correct": false,
+          "feedback": "9 es la cantidad que le quedó después de regalar los lápices."
+        },
+        {
+          "letter": "D",
+          "text": "36 lápices.",
+          "is_correct": false,
+          "feedback": "36 lápices resultarían de multiplicar 9 por 4, no de despejar una resta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Resolver una ecuación simple de resta sumando el término conocido al resultado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-5-2026-W20-ecuaciones-simples-igualdades-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W20-ecuaciones-simples-igualdades-001-MASTERY-bundle-v5",
+      "statement": "Si la ecuación es 3x = 21.000, ¿cuánto cuesta cada bolsa de naranjas?",
+      "context": "En el mercado de Barranquilla, 3 bolsas iguales de naranjas cuestan en total 21.000 COP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7.000 COP.",
+          "is_correct": true,
+          "feedback": "21.000 ÷ 3 = 7.000 COP, y 3 × 7.000 = 21.000."
+        },
+        {
+          "letter": "B",
+          "text": "18.000 COP.",
+          "is_correct": false,
+          "feedback": "18.000 COP resultaría de restar 21.000 - 3.000, no de repartir el total en 3 bolsas."
+        },
+        {
+          "letter": "C",
+          "text": "21.000 COP.",
+          "is_correct": false,
+          "feedback": "21.000 COP es el costo de las 3 bolsas juntas, no de una sola."
+        },
+        {
+          "letter": "D",
+          "text": "63.000 COP.",
+          "is_correct": false,
+          "feedback": "63.000 COP resultaría de multiplicar 21.000 por 3, lo cual aumenta el total."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Resolver una ecuación simple de multiplicación dividiendo el total entre el número de grupos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.66,
+      "bundle_id": "CO-MAT-5-2026-W20-ecuaciones-simples-igualdades-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W20-ecuaciones-simples-igualdades-001-MASTERY-bundle-v6",
+      "statement": "Si la ecuación es 2x + 3 = 11, ¿qué valor debe tener x para mantener el equilibrio?",
+      "context": "En una balanza en el aula de un colegio de Manizales se colocan 2 cajas iguales y 3 pesas de 1 unidad en un platillo, y 11 pesas de 1 unidad en el otro. La balanza queda en equilibrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4.",
+          "is_correct": true,
+          "feedback": "11 - 3 = 8 y 8 ÷ 2 = 4; además 2 × 4 + 3 = 11."
+        },
+        {
+          "letter": "B",
+          "text": "5.",
+          "is_correct": false,
+          "feedback": "Con x = 5 se tendría 2 × 5 + 3 = 13, que no equilibra las 11 pesas."
+        },
+        {
+          "letter": "C",
+          "text": "7.",
+          "is_correct": false,
+          "feedback": "Con x = 7 se tendría 2 × 7 + 3 = 17, mayor que 11."
+        },
+        {
+          "letter": "D",
+          "text": "8.",
+          "is_correct": false,
+          "feedback": "8 es el resultado de 11 - 3, pero aún falta repartirlo entre las 2 cajas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar una ecuación de dos pasos separando primero el término constante y luego el coeficiente.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.61,
+      "bundle_id": "CO-MAT-5-2026-W20-ecuaciones-simples-igualdades-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W20-ecuaciones-simples-igualdades-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál ecuación representa correctamente el problema y cuál es el precio de la cartulina?",
+      "context": "En una papelería de Villavicencio, Andrés compró una cartulina y un marcador de 2.000 COP. Pagó en total 6.500 COP y quiere saber cuánto costó la cartulina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x + 2.000 = 6.500, entonces la cartulina costó 4.500 COP.",
+          "is_correct": true,
+          "feedback": "6.500 - 2.000 = 4.500 COP, y 4.500 + 2.000 = 6.500."
+        },
+        {
+          "letter": "B",
+          "text": "x - 2.000 = 6.500, entonces la cartulina costó 8.500 COP.",
+          "is_correct": false,
+          "feedback": "La ecuación de resta no corresponde, porque el marcador se suma al total."
+        },
+        {
+          "letter": "C",
+          "text": "x + 2.000 = 6.500, entonces la cartulina costó 6.500 COP.",
+          "is_correct": false,
+          "feedback": "6.500 COP es el total pagado, no el precio de la cartulina."
+        },
+        {
+          "letter": "D",
+          "text": "2x = 6.500, entonces la cartulina costó 3.250 COP.",
+          "is_correct": false,
+          "feedback": "Solo hay una cartulina, por lo que no se debe duplicar ni dividir el total entre dos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar un problema cotidiano, plantear la ecuación correcta y hallar el valor desconocido.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-5-2026-W20-ecuaciones-simples-igualdades-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W20-ecuaciones-simples-igualdades-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué la idea de la balanza es una buena estrategia para resolver ecuaciones simples?",
+      "context": "Un estudiante afirma: \"Para hallar el valor desconocido en una igualdad uso la idea de la balanza: lo que hago de un lado lo hago del otro para mantener el equilibrio\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque al aplicar la misma operación en ambos lados se conserva la igualdad y se despeja la incógnita.",
+          "is_correct": true,
+          "feedback": "Mantener la misma operación en los dos lados garantiza que la igualdad siga siendo verdadera."
+        },
+        {
+          "letter": "B",
+          "text": "Porque permite cambiar un número de un lado sin afectar el otro lado.",
+          "is_correct": false,
+          "feedback": "Cambiar solo un lado rompería el equilibrio y la igualdad dejaría de ser válida."
+        },
+        {
+          "letter": "C",
+          "text": "Porque solo funciona cuando la incógnita vale cero.",
+          "is_correct": false,
+          "feedback": "La estrategia de la balanza funciona para cualquier valor de la incógnita."
+        },
+        {
+          "letter": "D",
+          "text": "Porque evita tener que comprobar si la respuesta es correcta.",
+          "is_correct": false,
+          "feedback": "Comprobar la solución reemplazando el valor siempre es recomendable."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la estrategia del equilibrio para justificar por qué se aplican operaciones iguales en ambos lados de una ecuación.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-5-2026-W20-ecuaciones-simples-igualdades-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

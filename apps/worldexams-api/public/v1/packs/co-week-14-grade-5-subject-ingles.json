@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-14-grade-5-subject-ingles",
+    "generated_at": "2026-09-12T15:41:45.195Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-5-2026-W14-food-drinks-restaurant-001-MASTERY-bundle-v1",
+      "statement": "Which of the following is a typical Colombian food?",
+      "context": "In an English class in Medellín, students learn about typical Colombian food.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Arepa.",
+          "is_correct": true,
+          "feedback": "The arepa is a traditional corn food from Colombia."
+        },
+        {
+          "letter": "B",
+          "text": "Sushi.",
+          "is_correct": false,
+          "feedback": "Sushi is a typical Japanese food."
+        },
+        {
+          "letter": "C",
+          "text": "Pizza.",
+          "is_correct": false,
+          "feedback": "Pizza comes from Italy."
+        },
+        {
+          "letter": "D",
+          "text": "Hamburger.",
+          "is_correct": false,
+          "feedback": "Hamburgers are typical of the United States."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Remembering vocabulary of typical Colombian food in English.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-5-2026-W14-food-drinks-restaurant-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W14-food-drinks-restaurant-001-MASTERY-bundle-v2",
+      "statement": "Which item on the menu is a drink?",
+      "context": "Read the menu: \"Today we have bandeja paisa, arepas, empanadas, and fresh mango juice.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fresh mango juice.",
+          "is_correct": true,
+          "feedback": "Mango juice is a drink made from the fruit."
+        },
+        {
+          "letter": "B",
+          "text": "Bandeja paisa.",
+          "is_correct": false,
+          "feedback": "Bandeja paisa is a main dish, not a drink."
+        },
+        {
+          "letter": "C",
+          "text": "Arepas.",
+          "is_correct": false,
+          "feedback": "Arepas are solid corn cakes, not a drink."
+        },
+        {
+          "letter": "D",
+          "text": "Empanadas.",
+          "is_correct": false,
+          "feedback": "Empanadas are fried pastries, not a drink."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Understanding a simple menu in English and identifying drinks versus food.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.86,
+      "bundle_id": "CO-ING-5-2026-W14-food-drinks-restaurant-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W14-food-drinks-restaurant-001-MASTERY-bundle-v3",
+      "statement": "Which sentence is the most polite way to order?",
+      "context": "A student at a restaurant in Bogotá wants to order politely.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I would like a bandeja paisa, please.",
+          "is_correct": true,
+          "feedback": "\"I would like... please\" is a polite way to order food."
+        },
+        {
+          "letter": "B",
+          "text": "Give me a bandeja paisa now.",
+          "is_correct": false,
+          "feedback": "This form sounds rude and demanding."
+        },
+        {
+          "letter": "C",
+          "text": "A bandeja paisa, hurry up.",
+          "is_correct": false,
+          "feedback": "\"Hurry up\" is impolite in a restaurant."
+        },
+        {
+          "letter": "D",
+          "text": "I demand a bandeja paisa.",
+          "is_correct": false,
+          "feedback": "\"I demand\" is too aggressive for polite ordering."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Applying polite expressions to order food in English.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.79,
+      "bundle_id": "CO-ING-5-2026-W14-food-drinks-restaurant-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W14-food-drinks-restaurant-001-MASTERY-bundle-v4",
+      "statement": "Which sentence correctly expresses likes and dislikes?",
+      "context": "A teacher in Cali writes on the board: \"I like arepas. I do not like onions.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She likes arepas, but she does not like onions.",
+          "is_correct": true,
+          "feedback": "\"Likes\" agrees with \"she\" and \"does not like\" expresses dislike correctly."
+        },
+        {
+          "letter": "B",
+          "text": "She like arepas, but she does not like onions.",
+          "is_correct": false,
+          "feedback": "\"Like\" needs an -s with the subject \"she\"."
+        },
+        {
+          "letter": "C",
+          "text": "She liking arepas, but she does not like onions.",
+          "is_correct": false,
+          "feedback": "\"Liking\" cannot work as a main verb here."
+        },
+        {
+          "letter": "D",
+          "text": "She likes arepas, but she do not like onions.",
+          "is_correct": false,
+          "feedback": "The negative needs \"does not\", not \"do not\", with \"she\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Applying the verb \"like\" in affirmative and negative forms to express preferences.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-ING-5-2026-W14-food-drinks-restaurant-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W14-food-drinks-restaurant-001-MASTERY-bundle-v5",
+      "statement": "Which answer is correct and polite?",
+      "context": "A waiter in Barranquilla asks: \"What would you like to drink?\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I would like a glass of lulo juice, please.",
+          "is_correct": true,
+          "feedback": "This is a complete and polite answer to the question."
+        },
+        {
+          "letter": "B",
+          "text": "A table for two.",
+          "is_correct": false,
+          "feedback": "That answers a question about seating, not about drinks."
+        },
+        {
+          "letter": "C",
+          "text": "I am from Colombia.",
+          "is_correct": false,
+          "feedback": "That is not related to the question about drinks."
+        },
+        {
+          "letter": "D",
+          "text": "The bill, please.",
+          "is_correct": false,
+          "feedback": "That asks for the bill, not for a drink."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Responding appropriately and politely to a waiter's question about drinks.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.69,
+      "bundle_id": "CO-ING-5-2026-W14-food-drinks-restaurant-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W14-food-drinks-restaurant-001-MASTERY-bundle-v6",
+      "statement": "Which statement compares Sofía's and Mateo's orders correctly?",
+      "context": "Read: \"Sofía orders an arepa with cheese and a glass of guava juice. Mateo orders a bandeja paisa and water.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sofía orders a drink, and Mateo orders a bigger meal.",
+          "is_correct": true,
+          "feedback": "Sofía orders juice with a snack, while Mateo orders a full meal."
+        },
+        {
+          "letter": "B",
+          "text": "Both order exactly the same food and drink.",
+          "is_correct": false,
+          "feedback": "Their orders are different."
+        },
+        {
+          "letter": "C",
+          "text": "Mateo orders juice and Sofía orders water.",
+          "is_correct": false,
+          "feedback": "Sofía orders guava juice and Mateo orders water."
+        },
+        {
+          "letter": "D",
+          "text": "Neither of them orders anything to drink.",
+          "is_correct": false,
+          "feedback": "Both order something to drink: juice and water."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analyzing and comparing two orders described in English.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.63,
+      "bundle_id": "CO-ING-5-2026-W14-food-drinks-restaurant-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W14-food-drinks-restaurant-001-MASTERY-bundle-v7",
+      "statement": "Why do the sentences use \"some\" and \"any\"?",
+      "context": "Read: \"We have some rice and some beans. We do not have any soup today.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Some\" is used in affirmative sentences and \"any\" in negative sentences.",
+          "is_correct": true,
+          "feedback": "\"Some\" appears in positive statements and \"any\" in negative ones."
+        },
+        {
+          "letter": "B",
+          "text": "\"Some\" is used in negative sentences and \"any\" in affirmative ones.",
+          "is_correct": false,
+          "feedback": "It is the opposite of the correct rule."
+        },
+        {
+          "letter": "C",
+          "text": "\"Some\" and \"any\" mean the same and can be exchanged freely.",
+          "is_correct": false,
+          "feedback": "They follow different rules in affirmative and negative sentences."
+        },
+        {
+          "letter": "D",
+          "text": "\"Some\" and \"any\" are only used with people, not food.",
+          "is_correct": false,
+          "feedback": "They are commonly used with food and drinks."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analyzing the use of \"some\" and \"any\" with countable and uncountable food nouns.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.58,
+      "bundle_id": "CO-ING-5-2026-W14-food-drinks-restaurant-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W14-food-drinks-restaurant-001-MASTERY-bundle-v8",
+      "statement": "What is the best conclusion about ajiaco?",
+      "context": "Read: 'At La Puerta Falsa restaurant, tourists can try ajiaco, a traditional soup from Bogotá made with chicken, potatoes, and corn.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ajiaco is a traditional soup from Bogotá that includes chicken, potatoes, and corn.",
+          "is_correct": true,
+          "feedback": "The text describes ajiaco as a traditional soup with those ingredients."
+        },
+        {
+          "letter": "B",
+          "text": "Ajiaco is a dessert made with chocolate.",
+          "is_correct": false,
+          "feedback": "The text says it is a soup, not a dessert."
+        },
+        {
+          "letter": "C",
+          "text": "Ajiaco is a drink served only at breakfast.",
+          "is_correct": false,
+          "feedback": "The text says it is a soup, not a drink."
+        },
+        {
+          "letter": "D",
+          "text": "Ajiaco is a fruit grown near the coast.",
+          "is_correct": false,
+          "feedback": "Ajiaco is a soup, not a fruit."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluating a short descriptive text to draw an accurate conclusion about a Colombian dish.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-5-2026-W14-food-drinks-restaurant-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

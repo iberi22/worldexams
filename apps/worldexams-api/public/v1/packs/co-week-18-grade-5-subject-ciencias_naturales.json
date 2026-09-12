@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-18-grade-5-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T15:41:45.189Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-5-2026-W18-maquinas-simples-herramientas-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es una máquina simple?",
+      "context": "En una clase de ciencias en un colegio de Montería, la profesora explica cómo algunos objetos sencillos ayudan a hacer el trabajo con menos esfuerzo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un objeto sencillo que facilita el trabajo al cambiar la fuerza o su dirección.",
+          "is_correct": true,
+          "feedback": "Las máquinas simples ayudan a hacer el trabajo con menos esfuerzo."
+        },
+        {
+          "letter": "B",
+          "text": "Un aparato eléctrico de gran tamaño.",
+          "is_correct": false,
+          "feedback": "Las máquinas simples no necesitan electricidad y suelen ser sencillas."
+        },
+        {
+          "letter": "C",
+          "text": "Un motor que produce energía.",
+          "is_correct": false,
+          "feedback": "Las máquinas simples no producen energía; ayudan a realizar un trabajo."
+        },
+        {
+          "letter": "D",
+          "text": "Una herramienta que solo se usa en las grandes fábricas.",
+          "is_correct": false,
+          "feedback": "Las máquinas simples se usan también en el campo y en el hogar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Recordar el concepto de máquina simple y su función de facilitar el trabajo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-5-2026-W18-maquinas-simples-herramientas-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W18-maquinas-simples-herramientas-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué una palanca ayuda a levantar una piedra pesada?",
+      "context": "Un campesino de Santander usa una barra de madera apoyada en una piedra para levantar una roca pesada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque permite hacer fuerza sobre un punto de apoyo y levantar la piedra con menos esfuerzo.",
+          "is_correct": true,
+          "feedback": "La palanca multiplica la fuerza aplicada gracias al punto de apoyo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque hace que la piedra pese menos de verdad.",
+          "is_correct": false,
+          "feedback": "La palanca no reduce el peso real de la piedra, facilita la fuerza."
+        },
+        {
+          "letter": "C",
+          "text": "Porque convierte la piedra en un material más liviano.",
+          "is_correct": false,
+          "feedback": "La palanca no cambia el material de la piedra."
+        },
+        {
+          "letter": "D",
+          "text": "Porque usa electricidad para levantar la piedra.",
+          "is_correct": false,
+          "feedback": "La palanca funciona por la fuerza aplicada y el punto de apoyo, no con electricidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender el funcionamiento de la palanca a partir del punto de apoyo y la fuerza aplicada.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-5-2026-W18-maquinas-simples-herramientas-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W18-maquinas-simples-herramientas-001-MASTERY-bundle-v3",
+      "statement": "¿Qué máquina simple está usando el trabajador?",
+      "context": "En una finca cafetera del Quindío, un trabajador sube un bulto de café a un camión usando una tabla inclinada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un plano inclinado.",
+          "is_correct": true,
+          "feedback": "La tabla inclinada es un plano inclinado que facilita subir la carga."
+        },
+        {
+          "letter": "B",
+          "text": "Una polea.",
+          "is_correct": false,
+          "feedback": "La polea usa una cuerda y una rueda, no una tabla inclinada."
+        },
+        {
+          "letter": "C",
+          "text": "Una palanca.",
+          "is_correct": false,
+          "feedback": "La palanca usa un punto de apoyo para mover objetos, no una rampa."
+        },
+        {
+          "letter": "D",
+          "text": "Una rueda.",
+          "is_correct": false,
+          "feedback": "La rueda es redonda y gira; la tabla inclinada es un plano inclinado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la identificación del plano inclinado en una situación real del campo colombiano.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-5-2026-W18-maquinas-simples-herramientas-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W18-maquinas-simples-herramientas-001-MASTERY-bundle-v4",
+      "statement": "¿Qué máquina simple se usa para subir un balde de agua desde el fondo de un pozo?",
+      "context": "En una finca de Cundinamarca, un niño quiere subir un balde de agua desde el fondo de un pozo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una polea.",
+          "is_correct": true,
+          "feedback": "La polea, con su rueda y su cuerda, facilita subir cargas."
+        },
+        {
+          "letter": "B",
+          "text": "Un plano inclinado.",
+          "is_correct": false,
+          "feedback": "El plano inclinado es una superficie en pendiente, no una cuerda con rueda."
+        },
+        {
+          "letter": "C",
+          "text": "Una palanca.",
+          "is_correct": false,
+          "feedback": "La palanca usa un punto de apoyo, no una cuerda con una rueda."
+        },
+        {
+          "letter": "D",
+          "text": "Un motor eléctrico.",
+          "is_correct": false,
+          "feedback": "El pozo tradicional usa una polea, no un motor eléctrico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el uso de la polea para levantar cargas en una situación cotidiana.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.73,
+      "bundle_id": "CO-CN-5-2026-W18-maquinas-simples-herramientas-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W18-maquinas-simples-herramientas-001-MASTERY-bundle-v5",
+      "statement": "¿Qué máquina simple le permite a la carretilla rodar y transportar la carga con menos esfuerzo?",
+      "context": "Un campesino de Boyacá transporta papas desde la parcela hasta su casa usando una carretilla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La rueda.",
+          "is_correct": true,
+          "feedback": "La rueda reduce la fricción y facilita el transporte de la carga."
+        },
+        {
+          "letter": "B",
+          "text": "El plano inclinado.",
+          "is_correct": false,
+          "feedback": "La carretilla rueda gracias a la rueda, no a una rampa."
+        },
+        {
+          "letter": "C",
+          "text": "La polea.",
+          "is_correct": false,
+          "feedback": "La carretilla no usa una cuerda con una rueda acanalada."
+        },
+        {
+          "letter": "D",
+          "text": "La palanca.",
+          "is_correct": false,
+          "feedback": "Lo que permite rodar la carretilla es la rueda, no el punto de apoyo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el conocimiento de la rueda como máquina simple que facilita el transporte.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CN-5-2026-W18-maquinas-simples-herramientas-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W18-maquinas-simples-herramientas-001-MASTERY-bundle-v6",
+      "statement": "¿Qué combinación de máquinas simples permite levantar y transportar una carga con la carretilla?",
+      "context": "Una carretilla tiene una rueda delantera y dos brazos largos para sostener la carga.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La palanca, para levantar la carga, y la rueda, para desplazarla.",
+          "is_correct": true,
+          "feedback": "Los brazos actúan como palanca y la rueda facilita el movimiento."
+        },
+        {
+          "letter": "B",
+          "text": "Solo una polea y un plano inclinado.",
+          "is_correct": false,
+          "feedback": "La carretilla no usa polea ni rampa."
+        },
+        {
+          "letter": "C",
+          "text": "Solo un motor eléctrico.",
+          "is_correct": false,
+          "feedback": "La carretilla funciona con la fuerza de quien la empuja, sin motor."
+        },
+        {
+          "letter": "D",
+          "text": "Solo una cuerda enrollada.",
+          "is_correct": false,
+          "feedback": "La cuerda no es la máquina principal de una carretilla."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la combinación de palanca y rueda en el funcionamiento de la carretilla.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.62,
+      "bundle_id": "CO-CN-5-2026-W18-maquinas-simples-herramientas-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W18-maquinas-simples-herramientas-001-MASTERY-bundle-v7",
+      "statement": "¿Por qué es más fácil subir una caja pesada por una rampa que levantarla directamente?",
+      "context": "En un supermercado de Pereira, un trabajador sube cajas pesadas por una rampa en lugar de levantarlas directamente al camión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el plano inclinado permite repartir el esfuerzo a lo largo de una distancia mayor.",
+          "is_correct": true,
+          "feedback": "Al repartir la fuerza en un recorrido más largo, se necesita menos fuerza en cada momento."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la rampa hace que la caja desaparezca.",
+          "is_correct": false,
+          "feedback": "La caja no desaparece; sigue siendo pesada."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la rampa le quita el peso a la caja.",
+          "is_correct": false,
+          "feedback": "La rampa no cambia el peso de la caja."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la rampa atrae la caja hacia arriba.",
+          "is_correct": false,
+          "feedback": "La rampa no atrae la caja; reduce el esfuerzo al repartirlo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar por qué el plano inclinado reduce el esfuerzo al repartir la fuerza.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.57,
+      "bundle_id": "CO-CN-5-2026-W18-maquinas-simples-herramientas-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W18-maquinas-simples-herramientas-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué son importantes las máquinas simples en las labores del campo colombiano?",
+      "context": "Un grupo de estudiantes de Tunja conversa sobre la importancia de las máquinas simples en las zonas rurales de Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque permiten realizar trabajos pesados con menos esfuerzo y sin depender de la electricidad.",
+          "is_correct": true,
+          "feedback": "En las zonas rurales, las máquinas simples son herramientas accesibles y muy útiles."
+        },
+        {
+          "letter": "B",
+          "text": "Porque sirven únicamente para adornar las fincas.",
+          "is_correct": false,
+          "feedback": "Las máquinas simples cumplen funciones reales de trabajo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque reemplazan por completo el trabajo de las personas.",
+          "is_correct": false,
+          "feedback": "Las máquinas simples ayudan, pero no reemplazan el trabajo humano."
+        },
+        {
+          "letter": "D",
+          "text": "Porque solo los niños pueden usarlas.",
+          "is_correct": false,
+          "feedback": "Las máquinas simples las usan personas de todas las edades."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la importancia de las máquinas simples en el trabajo del campo colombiano.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.52,
+      "bundle_id": "CO-CN-5-2026-W18-maquinas-simples-herramientas-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

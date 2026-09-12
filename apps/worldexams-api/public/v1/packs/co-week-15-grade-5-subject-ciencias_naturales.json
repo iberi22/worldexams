@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-15-grade-5-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T15:41:45.189Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-5-2026-W15-sistema-oseo-muscular-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la función principal de los huesos dentro del sistema óseo humano?",
+      "context": "En una clase de ciencias en Medellín, los estudiantes observan un modelo del esqueleto humano y ubican las piezas que forman el armazón del cuerpo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dar sostén al cuerpo, proteger órganos vitales y permitir el movimiento junto con los músculos.",
+          "is_correct": true,
+          "feedback": "Los huesos sostienen la estructura corporal, resguardan órganos como el cerebro y sirven de palanca para el movimiento."
+        },
+        {
+          "letter": "B",
+          "text": "Producir el oxígeno que respiran todas las células del cuerpo.",
+          "is_correct": false,
+          "feedback": "El oxígeno se obtiene en los pulmones durante la respiración, no lo producen los huesos."
+        },
+        {
+          "letter": "C",
+          "text": "Transportar la sangre por todo el organismo mediante latidos.",
+          "is_correct": false,
+          "feedback": "El transporte de la sangre es función del corazón y los vasos sanguíneos."
+        },
+        {
+          "letter": "D",
+          "text": "Digerir los alimentos en el estómago y los intestinos.",
+          "is_correct": false,
+          "feedback": "La digestión corresponde al sistema digestivo, no al sistema óseo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocimiento de las funciones básicas del sistema óseo: sostén, protección y apoyo al movimiento.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-5-2026-W15-sistema-oseo-muscular-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W15-sistema-oseo-muscular-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la función de los músculos en el movimiento del cuerpo humano?",
+      "context": "Un deportista de Ibagué explica a sus compañeros que para levantar un balón debe contraer y relajar ciertas partes blandas unidas a los huesos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se contraen y se relajan para tirar de los huesos y producir el movimiento.",
+          "is_correct": true,
+          "feedback": "Al contraerse, el músculo acorta su longitud y jala el hueso al que está unido, generando desplazamiento."
+        },
+        {
+          "letter": "B",
+          "text": "Rellenan los huesos por dentro para hacerlos más livianos.",
+          "is_correct": false,
+          "feedback": "El interior de los huesos contiene médula ósea, no tejido muscular."
+        },
+        {
+          "letter": "C",
+          "text": "Filtran el agua que consume la persona durante el ejercicio.",
+          "is_correct": false,
+          "feedback": "La filtración del agua la realizan los riñones, no los músculos."
+        },
+        {
+          "letter": "D",
+          "text": "Fabrican los glóbulos rojos que circulan en la sangre.",
+          "is_correct": false,
+          "feedback": "La formación de células sanguíneas ocurre en la médula ósea, no en el músculo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprensión de la relación entre la contracción muscular y el desplazamiento de los huesos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-CN-5-2026-W15-sistema-oseo-muscular-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W15-sistema-oseo-muscular-001-MASTERY-bundle-v3",
+      "statement": "¿Qué estructuras del cuerpo permiten que la rodilla se doble y se extienda con facilidad?",
+      "context": "Un niño de Barranquilla dobla la rodilla lentamente para agacharse y recoger su morral del suelo sin lastimarse.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las articulaciones, que unen dos o más huesos y permiten su movimiento.",
+          "is_correct": true,
+          "feedback": "Las articulaciones son las zonas de unión entre huesos que posibilitan el desplazamiento; la rodilla es una de ellas."
+        },
+        {
+          "letter": "B",
+          "text": "Los pulmones, que se inflan para empujar la pierna hacia abajo.",
+          "is_correct": false,
+          "feedback": "Los pulmones intervienen en la respiración y no mueven directamente las piernas."
+        },
+        {
+          "letter": "C",
+          "text": "Las uñas de los dedos de los pies, que sirven de bisagra.",
+          "is_correct": false,
+          "feedback": "Las uñas protegen la punta de los dedos y no articulan los huesos de la pierna."
+        },
+        {
+          "letter": "D",
+          "text": "Los dientes, que se ensamblan para frenar el movimiento.",
+          "is_correct": false,
+          "feedback": "Los dientes participan en la masticación y no intervienen en el movimiento de la rodilla."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicación del concepto de articulación para explicar el movimiento de las extremidades.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.79,
+      "bundle_id": "CO-CN-5-2026-W15-sistema-oseo-muscular-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W15-sistema-oseo-muscular-001-MASTERY-bundle-v4",
+      "statement": "¿Qué explica mejor el abultamiento que aparece en el brazo al flexionar el codo?",
+      "context": "En un experimento escolar, un estudiante toca con cuidado el brazo de un compañero mientras este flexiona el codo; observa que por debajo de la piel se forma una zona dura y abultada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El músculo bíceps se contrae y se acorta, elevando el antebrazo.",
+          "is_correct": true,
+          "feedback": "Al contraerse, el bíceps se acorta y aumenta de grosor, lo que se percibe como un abultamiento."
+        },
+        {
+          "letter": "B",
+          "text": "El hueso del brazo crece de repente al doblarse.",
+          "is_correct": false,
+          "feedback": "Los huesos no cambian de tamaño durante un movimiento normal del codo."
+        },
+        {
+          "letter": "C",
+          "text": "La sangre se acumula y endurece la piel del brazo.",
+          "is_correct": false,
+          "feedback": "Aunque circula más sangre al ejercitar, el abultamiento se debe a la contracción muscular."
+        },
+        {
+          "letter": "D",
+          "text": "El aire entra a presión dentro del músculo del brazo.",
+          "is_correct": false,
+          "feedback": "Los músculos no se inflan con aire; su volumen cambia por la contracción de sus fibras."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Interpretación de la contracción muscular observada en una situación experimental sencilla.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.74,
+      "bundle_id": "CO-CN-5-2026-W15-sistema-oseo-muscular-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W15-sistema-oseo-muscular-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el nutriente que aportan principalmente estos alimentos y que fortalece los huesos?",
+      "context": "La nutricionista de un colegio de Pereira recomienda a los estudiantes consumir leche, queso y verduras de hoja verde para mantener huesos fuertes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El calcio, mineral esencial para la formación y resistencia de los huesos.",
+          "is_correct": true,
+          "feedback": "El calcio se deposita en el tejido óseo y le da dureza y fortaleza."
+        },
+        {
+          "letter": "B",
+          "text": "El hierro, que colorea de rojo la sangre.",
+          "is_correct": false,
+          "feedback": "El hierro participa en el transporte de oxígeno en la sangre, no en la dureza del hueso."
+        },
+        {
+          "letter": "C",
+          "text": "La vitamina C, que evita el escorbuto en las encías.",
+          "is_correct": false,
+          "feedback": "La vitamina C refuerza las defensas y la piel, pero el mineral clave del hueso es el calcio."
+        },
+        {
+          "letter": "D",
+          "text": "El azúcar, que endurece el esqueleto al cristalizarse.",
+          "is_correct": false,
+          "feedback": "El exceso de azúcar no fortalece los huesos; una dieta saludable requiere calcio y vitamina D."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Relación entre la alimentación y los nutrientes que mantienen la salud del sistema óseo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CN-5-2026-W15-sistema-oseo-muscular-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W15-sistema-oseo-muscular-001-MASTERY-bundle-v6",
+      "statement": "¿Qué permite que el hueso fracturado vuelva a unirse durante la recuperación?",
+      "context": "Un ciclista de Armenia sufre una caída y se fractura un hueso de la pierna. El médico inmoviliza la zona con yeso durante varias semanas y explica que el hueso se reparará poco a poco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El tejido óseo vivo puede regenerarse y formar nuevo material que une los extremos rotos.",
+          "is_correct": true,
+          "feedback": "El hueso es un tejido vivo con células capaces de producir nuevo tejido y soldar la fractura."
+        },
+        {
+          "letter": "B",
+          "text": "El yeso se convierte en hueso nuevo y reemplaza al que se rompió.",
+          "is_correct": false,
+          "feedback": "El yeso solo inmoviliza la zona; no forma parte del cuerpo ni se transforma en hueso."
+        },
+        {
+          "letter": "C",
+          "text": "Los músculos circundantes se endurecen y hacen las veces de hueso.",
+          "is_correct": false,
+          "feedback": "El músculo no se transforma en hueso; su función es mover y estabilizar la zona lesionada."
+        },
+        {
+          "letter": "D",
+          "text": "El hueso fracturado desaparece y no se recupera nunca.",
+          "is_correct": false,
+          "feedback": "Los huesos poseen gran capacidad de reparación cuando se inmovilizan y reciben los nutrientes adecuados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Análisis de la capacidad regenerativa del tejido óseo vivo frente a una lesión.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.61,
+      "bundle_id": "CO-CN-5-2026-W15-sistema-oseo-muscular-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W15-sistema-oseo-muscular-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál conclusión integra correctamente las dos afirmaciones?",
+      "context": "Dos estudiantes comparan información: Ana afirma que \"sin músculos no habría movimiento\", y Luis sostiene que \"sin huesos tampoco habría movimiento porque los músculos necesitan algo que jalar\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "los huesos y los músculos trabajan juntos: los músculos tiran de los huesos para producir el movimiento.",
+          "is_correct": true,
+          "feedback": "El aparato locomotor funciona de forma integrada; los músculos actúan como motores y los huesos como palancas."
+        },
+        {
+          "letter": "B",
+          "text": "los músculos pueden mover el cuerpo sin ninguna ayuda de los huesos.",
+          "is_correct": false,
+          "feedback": "Sin huesos como punto de apoyo y palanca, la contracción muscular no generaría desplazamiento útil."
+        },
+        {
+          "letter": "C",
+          "text": "los huesos se mueven solos porque poseen pequeños músculos internos.",
+          "is_correct": false,
+          "feedback": "Los huesos no contienen músculos; son estructuras rígidas movidas por músculos externos."
+        },
+        {
+          "letter": "D",
+          "text": "el movimiento depende únicamente del sistema digestivo.",
+          "is_correct": false,
+          "feedback": "El sistema digestivo procesa alimentos y no interviene directamente en el movimiento corporal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Integración de conceptos sobre el trabajo conjunto del sistema óseo y el muscular en el aparato locomotor.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-5-2026-W15-sistema-oseo-muscular-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W15-sistema-oseo-muscular-001-MASTERY-bundle-v8",
+      "statement": "¿Qué evaluación justifica mejor el valor de estos hábitos para el sistema óseo y muscular?",
+      "context": "Una campaña de salud en Bucaramanga propone a los escolares tres hábitos: practicar actividad física moderada, mantener una dieta rica en calcio y evitar cargar mochilas demasiado pesadas sobre un solo hombro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son adecuados porque fortalecen músculos y huesos, los nutren y evitan sobrecargas que deforman la postura.",
+          "is_correct": true,
+          "feedback": "El ejercicio, la buena alimentación y las cargas equilibradas previenen lesiones y mantienen sanos huesos y músculos."
+        },
+        {
+          "letter": "B",
+          "text": "Son innecesarios porque los huesos y músculos nunca se deterioran con la edad.",
+          "is_correct": false,
+          "feedback": "Huesos y músculos sí se debilitan sin cuidado y ejercicio, por lo que la prevención es importante."
+        },
+        {
+          "letter": "C",
+          "text": "Solo sirve el ejercicio intenso, sin importar la alimentación ni la postura.",
+          "is_correct": false,
+          "feedback": "El cuidado integral requiere actividad, nutrición adecuada y posturas correctas; una sola medida no basta."
+        },
+        {
+          "letter": "D",
+          "text": "Lo mejor es evitar todo movimiento para no gastar energía.",
+          "is_correct": false,
+          "feedback": "La inactividad debilita huesos y músculos, lo contrario de lo que busca una vida saludable."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluación de hábitos de vida saludables y su impacto en la salud integral del aparato locomotor.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-5-2026-W15-sistema-oseo-muscular-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-9-grade-5-subject-ingles",
+    "generated_at": "2026-09-12T15:41:45.194Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-5-2026-W09-sports-hobbies-free-time-001-MASTERY-bundle-v1",
+      "statement": "Which word in English names a sport you play with a ball and two teams?",
+      "context": "In a school in Bogotá, students talk about what they do after class. Ana says, \"I play soccer with my friends in the park.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Soccer.",
+          "is_correct": true,
+          "feedback": "Soccer is a team sport played with a ball on a field."
+        },
+        {
+          "letter": "B",
+          "text": "Painting.",
+          "is_correct": false,
+          "feedback": "Painting is an artistic hobby; it does not use a ball or teams."
+        },
+        {
+          "letter": "C",
+          "text": "Reading.",
+          "is_correct": false,
+          "feedback": "Reading is a quiet hobby done with books, not a team sport."
+        },
+        {
+          "letter": "D",
+          "text": "Singing.",
+          "is_correct": false,
+          "feedback": "Singing is a musical activity, not a sport played with a ball."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Recognizing the English word for a common team sport by matching it with its meaning.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-5-2026-W09-sports-hobbies-free-time-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W09-sports-hobbies-free-time-001-MASTERY-bundle-v2",
+      "statement": "Why does Carlos go to the pool every Saturday?",
+      "context": "Read: \"Carlos likes swimming. He goes to the pool in Medellín every Saturday with his brother.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Because he likes swimming.",
+          "is_correct": true,
+          "feedback": "The text directly says that Carlos likes swimming and goes to the pool."
+        },
+        {
+          "letter": "B",
+          "text": "Because he likes painting.",
+          "is_correct": false,
+          "feedback": "The text mentions swimming, not painting, as Carlos's activity."
+        },
+        {
+          "letter": "C",
+          "text": "Because he plays the guitar.",
+          "is_correct": false,
+          "feedback": "Playing the guitar is not mentioned in the passage."
+        },
+        {
+          "letter": "D",
+          "text": "Because he reads books.",
+          "is_correct": false,
+          "feedback": "Reading books is not stated as the reason for going to the pool."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Inferring the reason for a free-time activity from a short descriptive text in English.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-5-2026-W09-sports-hobbies-free-time-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W09-sports-hobbies-free-time-001-MASTERY-bundle-v3",
+      "statement": "Which sentence correctly describes Sofía's hobbies?",
+      "context": "A teacher in Cali asks, \"What do you do in your free time?\" Sofía answers, \"In my free time, I ride my bike and listen to music.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sofía rides her bike and listens to music in her free time.",
+          "is_correct": true,
+          "feedback": "The sentence repeats both activities that Sofía mentions in her answer."
+        },
+        {
+          "letter": "B",
+          "text": "Sofía rides her bike and paints pictures in her free time.",
+          "is_correct": false,
+          "feedback": "Painting is not mentioned; Sofía mentions listening to music instead."
+        },
+        {
+          "letter": "C",
+          "text": "Sofía plays chess and cooks in her free time.",
+          "is_correct": false,
+          "feedback": "Chess and cooking do not appear in Sofía's answer."
+        },
+        {
+          "letter": "D",
+          "text": "Sofía sleeps and studies math in her free time.",
+          "is_correct": false,
+          "feedback": "Sleeping and studying math are not part of Sofía's hobbies."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Applying reading comprehension to identify the hobbies described in a short dialogue.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-5-2026-W09-sports-hobbies-free-time-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W09-sports-hobbies-free-time-001-MASTERY-bundle-v4",
+      "statement": "Which sentence uses the correct form of the verb to talk about Andrés's routine?",
+      "context": "Andrés plays basketball after school in Cartagena. He also collects stickers and plays video games with his cousin.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Andrés plays basketball every afternoon.",
+          "is_correct": true,
+          "feedback": "The third person singular \"he\" takes the verb with -s in the simple present."
+        },
+        {
+          "letter": "B",
+          "text": "Andrés play basketball every afternoon.",
+          "is_correct": false,
+          "feedback": "Without -s, the verb does not agree with the subject \"Andrés\"."
+        },
+        {
+          "letter": "C",
+          "text": "Andrés playing basketball every afternoon.",
+          "is_correct": false,
+          "feedback": "The -ing form needs an auxiliary verb and cannot stand alone here."
+        },
+        {
+          "letter": "D",
+          "text": "Andrés to play basketball every afternoon.",
+          "is_correct": false,
+          "feedback": "The infinitive with \"to\" is not used as the main verb of this sentence."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Using the simple present with the third person singular to describe a routine activity in English.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-5-2026-W09-sports-hobbies-free-time-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W09-sports-hobbies-free-time-001-MASTERY-bundle-v5",
+      "statement": "Which hobby matches this description?",
+      "context": "In a school in Bucaramanga, a teacher asks the class to name a hobby that uses paper, colors and a brush.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Painting.",
+          "is_correct": true,
+          "feedback": "Painting uses paper, colors and a brush to create pictures."
+        },
+        {
+          "letter": "B",
+          "text": "Running.",
+          "is_correct": false,
+          "feedback": "Running is a physical sport and does not use paper or a brush."
+        },
+        {
+          "letter": "C",
+          "text": "Swimming.",
+          "is_correct": false,
+          "feedback": "Swimming happens in water and uses no paper or colors."
+        },
+        {
+          "letter": "D",
+          "text": "Cycling.",
+          "is_correct": false,
+          "feedback": "Cycling uses a bicycle and has nothing to do with paper or brushes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Matching a hobby with the objects it requires in everyday English.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-5-2026-W09-sports-hobbies-free-time-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W09-sports-hobbies-free-time-001-MASTERY-bundle-v6",
+      "statement": "Which hobby would Luis most likely choose?",
+      "context": "Read: \"Luis likes sports, but he does not like team games. He prefers activities he can do alone, like running and swimming.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Running in the morning at the park.",
+          "is_correct": true,
+          "feedback": "Running is an individual sport, matching Luis's preference for doing activities alone."
+        },
+        {
+          "letter": "B",
+          "text": "Playing soccer with a big team.",
+          "is_correct": false,
+          "feedback": "Soccer is a team game, which the text says Luis does not like."
+        },
+        {
+          "letter": "C",
+          "text": "Playing basketball with his classmates.",
+          "is_correct": false,
+          "feedback": "Basketball is a team game, contradicting Luis's preference."
+        },
+        {
+          "letter": "D",
+          "text": "Joining a baseball team.",
+          "is_correct": false,
+          "feedback": "Baseball is also a team sport, so it does not fit Luis's taste."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analyzing a character's preferences to infer the most suitable free-time activity.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-5-2026-W09-sports-hobbies-free-time-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W09-sports-hobbies-free-time-001-MASTERY-bundle-v7",
+      "statement": "What does the comparison suggest about free-time activities?",
+      "context": "Compare: \"Valentina plays volleyball three times a week and feels happy. Her friend Juan watches television every afternoon and says he feels bored.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Active hobbies like volleyball can make people feel happier than sitting all afternoon.",
+          "is_correct": true,
+          "feedback": "The text contrasts Valentina's active joy with Juan's boredom."
+        },
+        {
+          "letter": "B",
+          "text": "Watching television always makes people feel happy.",
+          "is_correct": false,
+          "feedback": "In the text, Juan watches television and says he feels bored."
+        },
+        {
+          "letter": "C",
+          "text": "Volleyball is a boring activity for everyone.",
+          "is_correct": false,
+          "feedback": "The text shows Valentina feeling happy while playing volleyball."
+        },
+        {
+          "letter": "D",
+          "text": "Juan exercises more than Valentina.",
+          "is_correct": false,
+          "feedback": "Juan watches television, so he is less active than Valentina."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Interpreting the implied message of a comparison between two free-time habits in English.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-5-2026-W09-sports-hobbies-free-time-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W09-sports-hobbies-free-time-001-MASTERY-bundle-v8",
+      "statement": "What is the main message of this text?",
+      "context": "Read: 'Sports and hobbies help children in Colombia stay healthy, make friends and learn new things. Playing soccer, swimming, painting or reading are good options for free time. Choosing an activity we enjoy can make us feel happy and relaxed.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sports and hobbies are good for health, friendship and happiness.",
+          "is_correct": true,
+          "feedback": "The text links free-time activities with health, friends and well-being."
+        },
+        {
+          "letter": "B",
+          "text": "Children should only play soccer in their free time.",
+          "is_correct": false,
+          "feedback": "The text lists several options, not only soccer."
+        },
+        {
+          "letter": "C",
+          "text": "Free time should always be spent sleeping.",
+          "is_correct": false,
+          "feedback": "Sleeping is not mentioned as the only or main free-time activity."
+        },
+        {
+          "letter": "D",
+          "text": "Hobbies are bad for children's health.",
+          "is_correct": false,
+          "feedback": "The text states the opposite: hobbies help children stay healthy."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluating the main idea of a short text about the value of sports and hobbies for children.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-5-2026-W09-sports-hobbies-free-time-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

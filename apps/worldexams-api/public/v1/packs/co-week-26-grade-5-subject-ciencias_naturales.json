@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-26-grade-5-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T15:41:45.192Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-5-2026-W26-plantas-partes-fotosintesis-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes partes de la planta se encarga principalmente de absorber agua y nutrientes del suelo?",
+      "context": "En el huerto escolar de una sede educativa en Popayán, los estudiantes observan distintas plantas: una lechuga, una mata de fríjol y un girasol pequeño.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La raíz.",
+          "is_correct": true,
+          "feedback": "La raíz fija la planta y absorbe agua y sales minerales del suelo."
+        },
+        {
+          "letter": "B",
+          "text": "La flor.",
+          "is_correct": false,
+          "feedback": "La flor cumple una función reproductiva en la planta."
+        },
+        {
+          "letter": "C",
+          "text": "El fruto.",
+          "is_correct": false,
+          "feedback": "El fruto protege y ayuda a dispersar las semillas."
+        },
+        {
+          "letter": "D",
+          "text": "La hoja.",
+          "is_correct": false,
+          "feedback": "La hoja realiza principalmente la fotosíntesis y el intercambio de gases."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Recordar la función principal de la raíz como vía de absorción de agua y nutrientes del suelo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-5-2026-W26-plantas-partes-fotosintesis-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W26-plantas-partes-fotosintesis-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es esa sustancia invisible que la planta absorbe del aire para realizar la fotosíntesis?",
+      "context": "Una docente de Manizales muestra un esquema donde la planta toma una sustancia invisible de la atmósfera para elaborar su alimento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El dióxido de carbono.",
+          "is_correct": true,
+          "feedback": "Las plantas absorben dióxido de carbono (CO2) del aire para la fotosíntesis."
+        },
+        {
+          "letter": "B",
+          "text": "El nitrógeno líquido.",
+          "is_correct": false,
+          "feedback": "El nitrógeno líquido no se encuentra de forma natural en el aire respirable."
+        },
+        {
+          "letter": "C",
+          "text": "El oxígeno puro a alta presión.",
+          "is_correct": false,
+          "feedback": "El oxígeno es liberado por las plantas, no absorbido para la fotosíntesis."
+        },
+        {
+          "letter": "D",
+          "text": "El vapor de gasolina.",
+          "is_correct": false,
+          "feedback": "La gasolina no es una sustancia que las plantas aprovechen; además es contaminante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender que el dióxido de carbono del aire es uno de los insumos principales de la fotosíntesis.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-5-2026-W26-plantas-partes-fotosintesis-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W26-plantas-partes-fotosintesis-001-MASTERY-bundle-v3",
+      "statement": "Después de los cinco días, ¿qué diferencia se espera observar entre las dos plantas?",
+      "context": "En un experimento escolar en Palmira, una planta se cubre con una bolsa negra opaca durante cinco días, mientras otra planta queda expuesta a la luz natural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La planta cubierta se marchita y amarillea, mientras que la planta con luz se mantiene más verde y firme.",
+          "is_correct": true,
+          "feedback": "Sin luz, la planta no puede hacer fotosíntesis correctamente y se debilita."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos plantas crecerán exactamente igual, porque la luz no las afecta.",
+          "is_correct": false,
+          "feedback": "La luz es fundamental para la fotosíntesis, por lo que ambas reaccionarán diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Solo la planta cubierta producirá flores, porque no necesita luz.",
+          "is_correct": false,
+          "feedback": "La floración depende de muchos factores, pero sin luz la planta se debilita."
+        },
+        {
+          "letter": "D",
+          "text": "La planta con luz desarrollará raíces más largas que la cubierta.",
+          "is_correct": false,
+          "feedback": "Las raíces se desarrollan por otras razones, no principalmente por la luz directa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el papel de la luz solar para predecir el efecto de la oscuridad en el desarrollo de una planta.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-5-2026-W26-plantas-partes-fotosintesis-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W26-plantas-partes-fotosintesis-001-MASTERY-bundle-v4",
+      "statement": "¿Por qué las hojas limpias y bien orientadas al sol favorecen el crecimiento de las plantas de papa?",
+      "context": "Un agricultor de Boyacá observa que sus plantas de papa crecen mejor cuando las hojas están limpias y orientadas hacia el sol.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque las hojas pueden captar más luz solar y realizar fotosíntesis de manera más eficiente.",
+          "is_correct": true,
+          "feedback": "Las hojas reciben la luz necesaria para producir alimento mediante la fotosíntesis."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las hojas producen agua por sí solas, sin importar el sol.",
+          "is_correct": false,
+          "feedback": "Las hojas no producen agua como tal; consumen agua y liberan vapor."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la limpieza de las hojas las vuelve más pesadas y las hace caer al suelo.",
+          "is_correct": false,
+          "feedback": "La limpieza no vuelve las hojas más pesadas; al contrario, favorece su función."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la papa crece bajo tierra y no necesita hojas sanas.",
+          "is_correct": false,
+          "feedback": "Aunque el tubérculo crece bajo tierra, depende del alimento producido por las hojas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el concepto de fotosíntesis para explicar la relación entre hojas sanas, luz solar y crecimiento vegetal.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.83,
+      "bundle_id": "CO-CN-5-2026-W26-plantas-partes-fotosintesis-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W26-plantas-partes-fotosintesis-001-MASTERY-bundle-v5",
+      "statement": "¿Qué parte de la planta es la encargada de sostener las hojas, las flores y los frutos, y transportar sustancias entre la raíz y las hojas?",
+      "context": "Una familia en Barranquilla cultiva una mata de tomate en el balcón y nota que las hojas nuevas crecen en las puntas de las ramas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El tallo.",
+          "is_correct": true,
+          "feedback": "El tallo sostiene la planta y transporta agua, nutrientes y alimento entre sus partes."
+        },
+        {
+          "letter": "B",
+          "text": "La semilla.",
+          "is_correct": false,
+          "feedback": "La semilla contiene el embrión que dará origen a una nueva planta."
+        },
+        {
+          "letter": "C",
+          "text": "La raíz.",
+          "is_correct": false,
+          "feedback": "La raíz absorbe agua y fija la planta, pero no sostiene las hojas directamente."
+        },
+        {
+          "letter": "D",
+          "text": "El pétalo de la flor.",
+          "is_correct": false,
+          "feedback": "Los pétalos atraen polinizadores, pero no transportan sustancias."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la función del tallo como vía de comunicación y soporte entre las diferentes partes de la planta.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-5-2026-W26-plantas-partes-fotosintesis-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W26-plantas-partes-fotosintesis-001-MASTERY-bundle-v6",
+      "statement": "¿Qué análisis puedes hacer sobre el papel de las plantas en los ecosistemas a partir de esa descripción?",
+      "context": "Lee: \"Una planta verde produce su propio alimento usando luz, agua y dióxido de carbono, y libera oxígeno al ambiente.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las plantas son productoras de alimento y oxígeno, fundamentales para la vida de animales y personas.",
+          "is_correct": true,
+          "feedback": "Las plantas producen alimento y oxígeno gracias a la fotosíntesis, sosteniendo la cadena alimenticia."
+        },
+        {
+          "letter": "B",
+          "text": "Las plantas solo decoran el paisaje, pero no cumplen funciones ecológicas.",
+          "is_correct": false,
+          "feedback": "Las plantas cumplen funciones ecológicas clave, no solo estéticas."
+        },
+        {
+          "letter": "C",
+          "text": "Las plantas producen oxígeno únicamente durante la noche.",
+          "is_correct": false,
+          "feedback": "La fotosíntesis ocurre principalmente de día, cuando hay luz solar."
+        },
+        {
+          "letter": "D",
+          "text": "El oxígeno que producen las plantas es dañino para los animales.",
+          "is_correct": false,
+          "feedback": "El oxígeno liberado por las plantas es indispensable para la respiración animal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar el rol ecológico de las plantas como productoras de alimento y oxígeno mediante la fotosíntesis.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CN-5-2026-W26-plantas-partes-fotosintesis-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W26-plantas-partes-fotosintesis-001-MASTERY-bundle-v7",
+      "statement": "¿Qué relación puede establecerse entre la presencia de plantas y la regulación del ambiente?",
+      "context": "Un informe ambiental de la región Andina muestra que en zonas con muchos árboles las fuentes de agua permanecen limpias y los veranos son menos extremos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las plantas regulan el clima local, retienen agua y evitan la erosión, mejorando las condiciones ambientales.",
+          "is_correct": true,
+          "feedback": "La cobertura vegetal modera la temperatura y protege el suelo y el agua."
+        },
+        {
+          "letter": "B",
+          "text": "Las plantas solo consumen agua y no aportan nada a la regulación del clima.",
+          "is_correct": false,
+          "feedback": "Las plantas transpiran y participan activamente en el ciclo del agua."
+        },
+        {
+          "letter": "C",
+          "text": "Los árboles perjudican los ríos porque tapan el cauce del agua.",
+          "is_correct": false,
+          "feedback": "La vegetación ribereña protege los ríos, no los obstruye de manera negativa."
+        },
+        {
+          "letter": "D",
+          "text": "El clima no se relaciona en absoluto con la cantidad de plantas presentes.",
+          "is_correct": false,
+          "feedback": "Existe una relación directa entre cobertura vegetal y regulación climática local."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar cómo la cobertura vegetal influye en el clima, el agua y la protección del suelo en un ecosistema.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-5-2026-W26-plantas-partes-fotosintesis-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W26-plantas-partes-fotosintesis-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué esta iniciativa es una buena estrategia para cuidar el ambiente y aprender sobre las plantas?",
+      "context": "Un colegio de Neiva decide sembrar árboles y plantas medicinales en zonas deterioradas del patio escolar, con apoyo de la comunidad educativa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque permite observar el crecimiento vegetal, comprender la fotosíntesis y mejorar la calidad del aire y el suelo del colegio.",
+          "is_correct": true,
+          "feedback": "Sembrar y cuidar plantas integra aprendizaje científico con beneficio ambiental directo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque solo sirve para decorar el colegio sin ningún otro beneficio.",
+          "is_correct": false,
+          "feedback": "La siembra escolar aporta beneficios ecológicos, pedagógicos y comunitarios."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los árboles generan dióxido de carbono y contaminan el aire.",
+          "is_correct": false,
+          "feedback": "Las plantas absorben dióxido de carbono y liberan oxígeno, no contaminan."
+        },
+        {
+          "letter": "D",
+          "text": "Porque sembrar plantas no tiene relación con la fotosíntesis ni con el ambiente.",
+          "is_correct": false,
+          "feedback": "Toda siembra permite observar procesos como la fotosíntesis y sus efectos ambientales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar una iniciativa escolar de siembra como estrategia pedagógica y ambiental relacionada con las plantas y la fotosíntesis.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-5-2026-W26-plantas-partes-fotosintesis-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

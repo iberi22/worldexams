@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-22-grade-5-subject-ingles",
+    "generated_at": "2026-09-12T15:41:45.198Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-5-2026-W22-present-continuous-actions-now-001-MASTERY-bundle-v1",
+      "statement": "What is the correct structure of the Present Continuous tense in English?",
+      "context": "In a fifth-grade class in Barranquilla, the teacher explains how to describe what classmates are doing right now.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Subject + am/is/are + verb-ing.",
+          "is_correct": true,
+          "feedback": "The Present Continuous uses the verb \"to be\" plus the main verb with -ing."
+        },
+        {
+          "letter": "B",
+          "text": "Subject + verb in past tense.",
+          "is_correct": false,
+          "feedback": "The past simple is used for finished actions, not for actions happening now."
+        },
+        {
+          "letter": "C",
+          "text": "Subject + do/does + verb.",
+          "is_correct": false,
+          "feedback": "\"Do/does\" is used in the present simple, not in the continuous."
+        },
+        {
+          "letter": "D",
+          "text": "Subject + will + verb.",
+          "is_correct": false,
+          "feedback": "\"Will\" is used for the future, not for actions happening now."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer la estructura del Presente Continuo en inglés: sujeto + am/is/are + verbo en -ing.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-5-2026-W22-present-continuous-actions-now-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W22-present-continuous-actions-now-001-MASTERY-bundle-v2",
+      "statement": "Why does the speaker use \"is dancing\", \"is reading\" and \"is sleeping\"?",
+      "context": "Read: \"Look! Maria is dancing in the living room. Pedro is reading a book, and their dog is sleeping on the sofa.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Because these actions are happening right now, at the moment of speaking.",
+          "is_correct": true,
+          "feedback": "The Present Continuous describes actions that are in progress now."
+        },
+        {
+          "letter": "B",
+          "text": "Because these actions happened a long time ago.",
+          "is_correct": false,
+          "feedback": "Long ago actions require the past simple, not the continuous."
+        },
+        {
+          "letter": "C",
+          "text": "Because these actions are planned for next year.",
+          "is_correct": false,
+          "feedback": "Future plans usually use \"going to\" or the present continuous with a future time expression."
+        },
+        {
+          "letter": "D",
+          "text": "Because these actions are general facts, not specific moments.",
+          "is_correct": false,
+          "feedback": "General facts use the present simple, not the continuous."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender que el Presente Continuo describe acciones que ocurren en este momento.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-5-2026-W22-present-continuous-actions-now-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W22-present-continuous-actions-now-001-MASTERY-bundle-v3",
+      "statement": "Which sentence is in the Present Continuous and describes an action happening now?",
+      "context": "A student in Pereira observes the playground and writes: \"The children are playing soccer. My friend is eating an apple. Two boys are running very fast.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The children are playing soccer.",
+          "is_correct": true,
+          "feedback": "\"Are playing\" is a correct Present Continuous form for a present action."
+        },
+        {
+          "letter": "B",
+          "text": "The children plays soccer.",
+          "is_correct": false,
+          "feedback": "\"Plays\" is present simple, not continuous, and \"children\" is plural."
+        },
+        {
+          "letter": "C",
+          "text": "The children played soccer yesterday.",
+          "is_correct": false,
+          "feedback": "\"Played\" is past simple, not continuous."
+        },
+        {
+          "letter": "D",
+          "text": "The children will play soccer tomorrow.",
+          "is_correct": false,
+          "feedback": "\"Will play\" is future simple, not continuous."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la estructura del Presente Continuo para describir acciones del momento.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-5-2026-W22-present-continuous-actions-now-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W22-present-continuous-actions-now-001-MASTERY-bundle-v4",
+      "statement": "Which is the correct Present Continuous answer to the question?",
+      "context": "At school in Cartagena, a teacher asks: \"What are you doing right now? Please answer in English.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I am writing in my notebook right now.",
+          "is_correct": true,
+          "feedback": "\"Am writing\" is the correct Present Continuous form for \"I\"."
+        },
+        {
+          "letter": "B",
+          "text": "I writes in my notebook right now.",
+          "is_correct": false,
+          "feedback": "\"Writes\" is present simple, not continuous."
+        },
+        {
+          "letter": "C",
+          "text": "I am write in my notebook right now.",
+          "is_correct": false,
+          "feedback": "After \"am\" we use the verb in -ing form, not the base form."
+        },
+        {
+          "letter": "D",
+          "text": "I writing in my notebook right now.",
+          "is_correct": false,
+          "feedback": "We need the auxiliary \"am\" plus the verb in -ing."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la conjugación del Presente Continuo con el pronombre \"I\".",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.83,
+      "bundle_id": "CO-ING-5-2026-W22-present-continuous-actions-now-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W22-present-continuous-actions-now-001-MASTERY-bundle-v5",
+      "statement": "Which sentence correctly uses the negative form of the Present Continuous?",
+      "context": "Read: \"Right now, the students are not using their phones in class. They are listening to the teacher and taking notes.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The students are not using their phones in class.",
+          "is_correct": true,
+          "feedback": "The negative adds \"not\" after the verb \"to be\": are not using."
+        },
+        {
+          "letter": "B",
+          "text": "The students don't using their phones in class.",
+          "is_correct": false,
+          "feedback": "\"Don't\" is used in the present simple, not in the continuous."
+        },
+        {
+          "letter": "C",
+          "text": "The students not are using their phones in class.",
+          "is_correct": false,
+          "feedback": "The correct order is \"are not using\", not \"not are using\"."
+        },
+        {
+          "letter": "D",
+          "text": "The students is not using their phones in class.",
+          "is_correct": false,
+          "feedback": "With plural \"students\" we use \"are\", not \"is\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la forma negativa del Presente Continuo con la posición correcta de \"not\".",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-5-2026-W22-present-continuous-actions-now-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W22-present-continuous-actions-now-001-MASTERY-bundle-v6",
+      "statement": "What do Sara and her brother have in common in the text?",
+      "context": "Compare: \"Sara usually walks to school, but today she is walking with her mother because it is raining. Her brother is riding the bus because his bike is broken.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both are doing something different from their usual routine right now.",
+          "is_correct": true,
+          "feedback": "Sara usually walks but is walking with her mother; her brother is riding the bus today."
+        },
+        {
+          "letter": "B",
+          "text": "Both are doing exactly what they always do.",
+          "is_correct": false,
+          "feedback": "The text emphasizes changes in their usual routines."
+        },
+        {
+          "letter": "C",
+          "text": "Neither of them is using any kind of transport.",
+          "is_correct": false,
+          "feedback": "Both are using transport: walking and riding the bus."
+        },
+        {
+          "letter": "D",
+          "text": "Both are staying at home today.",
+          "is_correct": false,
+          "feedback": "The text says they are going to school, not staying at home."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar acciones presentes que contrastan con rutinas habituales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.76,
+      "bundle_id": "CO-ING-5-2026-W22-present-continuous-actions-now-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W22-present-continuous-actions-now-001-MASTERY-bundle-v7",
+      "statement": "What can you infer about the family from the description?",
+      "context": "Read: \"Right now, my mother is cooking lunch, my father is reading the newspaper, my sister is studying for a test, and I am doing my homework.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Each member of the family is busy with a different activity at the same time.",
+          "is_correct": true,
+          "feedback": "The text shows several actions happening at the same moment in the family."
+        },
+        {
+          "letter": "B",
+          "text": "The whole family is sleeping because no one is doing anything.",
+          "is_correct": false,
+          "feedback": "Each person is performing an activity, so they are not sleeping."
+        },
+        {
+          "letter": "C",
+          "text": "Only one person is doing something in the house.",
+          "is_correct": false,
+          "feedback": "Four different people are doing different activities."
+        },
+        {
+          "letter": "D",
+          "text": "The family is celebrating a birthday party.",
+          "is_correct": false,
+          "feedback": "The text describes daily activities, not a birthday party."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar varias acciones simultáneas usando el Presente Continuo en un mismo contexto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-5-2026-W22-present-continuous-actions-now-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W22-present-continuous-actions-now-001-MASTERY-bundle-v8",
+      "statement": "Why is the Present Continuous important for real communication in English?",
+      "context": "Read: 'Using the Present Continuous helps English learners describe what is happening at the moment, share real-time observations and communicate clearly in daily conversations.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Because it allows us to describe what is happening right now in daily life and share clear observations with others.",
+          "is_correct": true,
+          "feedback": "El Presente Continuo es clave para comunicar acciones del momento presente."
+        },
+        {
+          "letter": "B",
+          "text": "Because it is only used in very formal academic writing.",
+          "is_correct": false,
+          "feedback": "Se usa en la conversación diaria, no solo en textos académicos formales."
+        },
+        {
+          "letter": "C",
+          "text": "Because it replaces the present simple in all situations.",
+          "is_correct": false,
+          "feedback": "El Presente Continuo no reemplaza al simple; ambos cumplen funciones distintas."
+        },
+        {
+          "letter": "D",
+          "text": "Because it is not useful for talking about the present.",
+          "is_correct": false,
+          "feedback": "Precisamente, es el tiempo más útil para hablar del presente en curso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la importancia del Presente Continuo para comunicar acciones del momento en inglés.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-5-2026-W22-present-continuous-actions-now-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

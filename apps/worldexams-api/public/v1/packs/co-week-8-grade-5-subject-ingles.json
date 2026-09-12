@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-8-grade-5-subject-ingles",
+    "generated_at": "2026-09-12T15:41:45.194Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-5-2026-W08-house-and-home-001-MASTERY-bundle-v1",
+      "statement": "Which room in English is the place where you cook food?",
+      "context": "In a house in Valledupar, a mother cooks sancocho for lunch.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Kitchen.",
+          "is_correct": true,
+          "feedback": "The kitchen is the room where you cook and prepare food."
+        },
+        {
+          "letter": "B",
+          "text": "Bedroom.",
+          "is_correct": false,
+          "feedback": "The bedroom is the room where you sleep, not where you cook."
+        },
+        {
+          "letter": "C",
+          "text": "Bathroom.",
+          "is_correct": false,
+          "feedback": "The bathroom is the room where you wash, not where you cook."
+        },
+        {
+          "letter": "D",
+          "text": "Garden.",
+          "is_correct": false,
+          "feedback": "The garden is an outside area with plants, not the room for cooking."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identifying basic rooms of the house by their function in English (kitchen, bedroom, bathroom).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-5-2026-W08-house-and-home-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W08-house-and-home-001-MASTERY-bundle-v2",
+      "statement": "What furniture does Sofia use to sleep?",
+      "context": "Read: \"Sofia sleeps in her bedroom. Her bed is big and comfortable.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A bed.",
+          "is_correct": true,
+          "feedback": "The text says her bed is big and comfortable, and people sleep in beds."
+        },
+        {
+          "letter": "B",
+          "text": "A table.",
+          "is_correct": false,
+          "feedback": "A table is used for eating or studying, not for sleeping."
+        },
+        {
+          "letter": "C",
+          "text": "A chair.",
+          "is_correct": false,
+          "feedback": "A chair is used for sitting, not for sleeping at night."
+        },
+        {
+          "letter": "D",
+          "text": "A sofa.",
+          "is_correct": false,
+          "feedback": "A sofa is in the living room for sitting, not the furniture named in the text."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Recognizing basic furniture vocabulary from a short descriptive text in English.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-5-2026-W08-house-and-home-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W08-house-and-home-001-MASTERY-bundle-v3",
+      "statement": "Where is the cat?",
+      "context": "In an apartment in Envigado, the cat is sleeping under the table in the dining room.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Under the table.",
+          "is_correct": true,
+          "feedback": "\"Under\" correctly describes something below the table."
+        },
+        {
+          "letter": "B",
+          "text": "On the table.",
+          "is_correct": false,
+          "feedback": "\"On\" means on the surface, but the cat is below the table."
+        },
+        {
+          "letter": "C",
+          "text": "In the table.",
+          "is_correct": false,
+          "feedback": "\"In\" means inside, but a cat cannot be inside a solid table."
+        },
+        {
+          "letter": "D",
+          "text": "Next to the table leg broken chair.",
+          "is_correct": false,
+          "feedback": "This option adds an incorrect extra object and does not match the sentence."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Using the preposition \"under\" to describe the location of objects and animals at home.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.76,
+      "bundle_id": "CO-ING-5-2026-W08-house-and-home-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W08-house-and-home-001-MASTERY-bundle-v4",
+      "statement": "Choose the sentence that means the same using \"there is / there are\".",
+      "context": "At a finca near Pereira, a boy says: \"My books are on the chair in the living room.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "There are books on the chair in the living room.",
+          "is_correct": true,
+          "feedback": "\"There are\" agrees with the plural noun \"books\" to describe location."
+        },
+        {
+          "letter": "B",
+          "text": "There is books on the chair in the living room.",
+          "is_correct": false,
+          "feedback": "\"There is\" is singular and does not agree with plural \"books\"."
+        },
+        {
+          "letter": "C",
+          "text": "There are book on the chair in the living room.",
+          "is_correct": false,
+          "feedback": "\"Book\" should be plural \"books\" to agree with \"there are\"."
+        },
+        {
+          "letter": "D",
+          "text": "There is a sofa on the chair in the living room.",
+          "is_correct": false,
+          "feedback": "The original sentence talks about books, not about a sofa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Using \"there is / there are\" with prepositions of place to describe objects at home.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-5-2026-W08-house-and-home-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W08-house-and-home-001-MASTERY-bundle-v5",
+      "statement": "Which sentence correctly identifies the room and its use?",
+      "context": "A girl in Valledupar describes her home: \"We watch TV and sit on the sofa in the living room.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The living room is the room where we watch TV and sit on the sofa.",
+          "is_correct": true,
+          "feedback": "Watching TV and sitting on the sofa are typical living room activities."
+        },
+        {
+          "letter": "B",
+          "text": "The kitchen is the room where we watch TV and sit on the sofa.",
+          "is_correct": false,
+          "feedback": "The kitchen is for cooking, not for watching TV on the sofa."
+        },
+        {
+          "letter": "C",
+          "text": "The bathroom is the room where we watch TV and sit on the sofa.",
+          "is_correct": false,
+          "feedback": "The bathroom is for washing, not for watching TV on the sofa."
+        },
+        {
+          "letter": "D",
+          "text": "The bedroom is the room where we cook lunch every day.",
+          "is_correct": false,
+          "feedback": "The bedroom is for sleeping, not for cooking lunch."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Matching rooms of the house with typical furniture and activities in English.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.66,
+      "bundle_id": "CO-ING-5-2026-W08-house-and-home-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W08-house-and-home-001-MASTERY-bundle-v6",
+      "statement": "Where is the fridge in relation to the dining room?",
+      "context": "Read: \"My apartment in Envigado has a small kitchen next to the dining room. The fridge is in the kitchen, and the table is in the dining room.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "In the kitchen, next to the dining room.",
+          "is_correct": true,
+          "feedback": "The text places the fridge in the kitchen, which is next to the dining room."
+        },
+        {
+          "letter": "B",
+          "text": "In the dining room, under the table.",
+          "is_correct": false,
+          "feedback": "The table is in the dining room, but the fridge is in the kitchen."
+        },
+        {
+          "letter": "C",
+          "text": "In the bedroom, on the bed.",
+          "is_correct": false,
+          "feedback": "The bedroom is not mentioned in the description of the apartment."
+        },
+        {
+          "letter": "D",
+          "text": "In the bathroom, next to the shower.",
+          "is_correct": false,
+          "feedback": "The bathroom is not mentioned, and the fridge belongs in the kitchen."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analyzing spatial descriptions with \"in\" and \"next to\" to locate objects in a home.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.58,
+      "bundle_id": "CO-ING-5-2026-W08-house-and-home-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W08-house-and-home-001-MASTERY-bundle-v7",
+      "statement": "Which comparison correctly describes the two homes?",
+      "context": "Compare two homes: \"Camilo lives in a finca near Pereira with a big garden. Laura lives in a small apartment in Envigado without a garden.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Camilo has a big garden, while Laura has no garden.",
+          "is_correct": true,
+          "feedback": "The text contrasts the finca with a big garden against the apartment without one."
+        },
+        {
+          "letter": "B",
+          "text": "Camilo lives in a small apartment, while Laura lives in a finca.",
+          "is_correct": false,
+          "feedback": "The homes are reversed: Camilo lives in the finca and Laura in the apartment."
+        },
+        {
+          "letter": "C",
+          "text": "Both Camilo and Laura have a big garden.",
+          "is_correct": false,
+          "feedback": "Only Camilo has a garden; Laura has no garden in her apartment."
+        },
+        {
+          "letter": "D",
+          "text": "Neither Camilo nor Laura has a place to live.",
+          "is_correct": false,
+          "feedback": "Both children have homes, one a finca and one an apartment."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparing descriptions of different Colombian homes to identify similarities and differences in English.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.52,
+      "bundle_id": "CO-ING-5-2026-W08-house-and-home-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W08-house-and-home-001-MASTERY-bundle-v8",
+      "statement": "What is the most important message of this paragraph?",
+      "context": "Read: \"A tidy bedroom helps you sleep better and find your things. When clothes are in the closet, books are on the shelf, and toys are under the bed, the room is clean and comfortable.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Keeping things in their place makes the bedroom clean and comfortable.",
+          "is_correct": true,
+          "feedback": "The text links each object in its place with a clean and comfortable room."
+        },
+        {
+          "letter": "B",
+          "text": "Sleeping with toys on the bed is the best way to rest.",
+          "is_correct": false,
+          "feedback": "The text says toys belong under the bed, not on the bed."
+        },
+        {
+          "letter": "C",
+          "text": "Clothes on the floor make the bedroom comfortable.",
+          "is_correct": false,
+          "feedback": "The paragraph recommends clothes in the closet, not on the floor."
+        },
+        {
+          "letter": "D",
+          "text": "Books under the bed help children study better.",
+          "is_correct": false,
+          "feedback": "The text places books on the shelf, not under the bed."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluating the main message of a short expository paragraph about keeping the bedroom tidy.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.38,
+      "bundle_id": "CO-ING-5-2026-W08-house-and-home-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

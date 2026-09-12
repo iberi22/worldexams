@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-23-grade-5-subject-ingles",
+    "generated_at": "2026-09-12T15:41:45.198Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-5-2026-W23-superlatives-tallest-biggest-places-001-MASTERY-bundle-v1",
+      "statement": "Which is the correct superlative form of the short adjective \"tall\"?",
+      "context": "In an English class in Bogotá, students are learning superlative adjectives to describe natural landmarks.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The tallest.",
+          "is_correct": true,
+          "feedback": "For short one-syllable adjectives like \"tall\", we add \"-est\" to form the superlative: \"the tallest\"."
+        },
+        {
+          "letter": "B",
+          "text": "The more tall.",
+          "is_correct": false,
+          "feedback": "\"More\" is used for comparative forms of long adjectives, not superlatives of short adjectives."
+        },
+        {
+          "letter": "C",
+          "text": "The most tall.",
+          "is_correct": false,
+          "feedback": "\"Most\" is used with adjectives of two or more syllables, not one-syllable adjectives."
+        },
+        {
+          "letter": "D",
+          "text": "The taller.",
+          "is_correct": false,
+          "feedback": "\"Taller\" is the comparative form used to compare two things, not the superlative."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para formar el superlativo de adjetivos cortos de una sílaba en inglés como \"tall\", se antepone el artículo \"the\" y se añade el sufijo \"-est\": \"the tallest\".",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-5-2026-W23-superlatives-tallest-biggest-places-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W23-superlatives-tallest-biggest-places-001-MASTERY-bundle-v2",
+      "statement": "What does the sentence tell us about the Amazon rainforest?",
+      "context": "Sofia reads a travel brochure about natural places in Colombia: \"The Amazon is the largest rainforest in Colombia and in South America.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is bigger than all other rainforests in Colombia and South America.",
+          "is_correct": true,
+          "feedback": "\"The largest\" means that no other rainforest in that group has a bigger area."
+        },
+        {
+          "letter": "B",
+          "text": "It is smaller than the other forests in South America.",
+          "is_correct": false,
+          "feedback": "\"The largest\" indicates maximum size, not smaller size."
+        },
+        {
+          "letter": "C",
+          "text": "It is only taller than buildings in Bogotá.",
+          "is_correct": false,
+          "feedback": "The sentence describes geographic area and rainforest size, not building height."
+        },
+        {
+          "letter": "D",
+          "text": "It has the same size as all city parks in Colombia.",
+          "is_correct": false,
+          "feedback": "The text identifies the Amazon as the largest rainforest, not equal to small city parks."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El superlativo \"the largest\" expresa que un elemento posee la cualidad en el grado máximo dentro de un grupo comparado.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-5-2026-W23-superlatives-tallest-biggest-places-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W23-superlatives-tallest-biggest-places-001-MASTERY-bundle-v3",
+      "statement": "Choose the correct sentence to complete the description: \"Mount Everest is ________ mountain in the world.\"",
+      "context": "In a geography quiz in Medellín, Carlos wants to describe Mount Everest using the adjective \"high\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the highest",
+          "is_correct": true,
+          "feedback": "\"The highest\" correctly applies the superlative rule with \"the\" + adjective + \"-est\"."
+        },
+        {
+          "letter": "B",
+          "text": "higher than",
+          "is_correct": false,
+          "feedback": "\"Higher than\" is comparative and needs two specific elements being compared."
+        },
+        {
+          "letter": "C",
+          "text": "the most high",
+          "is_correct": false,
+          "feedback": "\"Most high\" is incorrect because \"high\" is a one-syllable adjective requiring \"-est\"."
+        },
+        {
+          "letter": "D",
+          "text": "highest of",
+          "is_correct": false,
+          "feedback": "The superlative requires the definite article \"the\" before the adjective."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se utiliza \"the highest\" porque \"high\" es un adjetivo corto monosilábico y se está comparando una montaña respecto a todas las demás del mundo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-5-2026-W23-superlatives-tallest-biggest-places-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W23-superlatives-tallest-biggest-places-001-MASTERY-bundle-v4",
+      "statement": "Which sentence correctly uses the superlative form of the adjective \"old\"?",
+      "context": "Mateo is writing an email from Cartagena to his pen pal about historic monuments in Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Santa Marta is the oldest city in Colombia.",
+          "is_correct": true,
+          "feedback": "\"The oldest\" correctly uses the superlative form to state that Santa Marta was founded before any other city in Colombia."
+        },
+        {
+          "letter": "B",
+          "text": "Santa Marta is the older city in Colombia.",
+          "is_correct": false,
+          "feedback": "\"Older\" is a comparative adjective and requires \"than\" when comparing two cities."
+        },
+        {
+          "letter": "C",
+          "text": "Santa Marta is most old city in Colombia.",
+          "is_correct": false,
+          "feedback": "The definite article \"the\" and the \"-est\" suffix are necessary for the superlative of \"old\"."
+        },
+        {
+          "letter": "D",
+          "text": "Santa Marta is the more old city in Colombia.",
+          "is_correct": false,
+          "feedback": "\"More old\" is grammatically incorrect in standard English."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El adjetivo \"old\" forma su superlativo como \"the oldest\", indicando la mayor antigüedad entre todas las ciudades de Colombia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.82,
+      "bundle_id": "CO-ING-5-2026-W23-superlatives-tallest-biggest-places-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W23-superlatives-tallest-biggest-places-001-MASTERY-bundle-v5",
+      "statement": "Complete the sentence using the superlative form of \"beautiful\".",
+      "context": "A guide in San Andrés Island explains to tourists: \"Johnny Cay is one of ________ beaches on our island.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the most beautiful",
+          "is_correct": true,
+          "feedback": "For long adjectives like \"beautiful\" (three syllables), we use \"the most\" before the adjective."
+        },
+        {
+          "letter": "B",
+          "text": "the beautifulest",
+          "is_correct": false,
+          "feedback": "\"-est\" is not added to multi-syllable adjectives such as \"beautiful\"."
+        },
+        {
+          "letter": "C",
+          "text": "more beautiful than",
+          "is_correct": false,
+          "feedback": "\"More beautiful than\" is the comparative form, not the superlative."
+        },
+        {
+          "letter": "D",
+          "text": "the most beautifulest",
+          "is_correct": false,
+          "feedback": "Double superlatives (\"most\" + \"-est\") are incorrect in English."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con adjetivos largos de tres o más sílabas como \"beautiful\", se antepone \"the most\" para formar el superlativo: \"the most beautiful\".",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-5-2026-W23-superlatives-tallest-biggest-places-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W23-superlatives-tallest-biggest-places-001-MASTERY-bundle-v6",
+      "statement": "Based on the chart, which statement is true?",
+      "context": "Read the chart with information about three Colombian rivers:\n- Magdalena River: 1,528 km long\n- Cauca River: 1,350 km long\n- Atrato River: 750 km long",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The Magdalena River is the longest river in the group, and the Atrato River is the shortest.",
+          "is_correct": true,
+          "feedback": "1,528 km is the maximum length (longest) and 750 km is the minimum length (shortest)."
+        },
+        {
+          "letter": "B",
+          "text": "The Cauca River is the longest river among the three.",
+          "is_correct": false,
+          "feedback": "The Cauca River (1,350 km) is shorter than the Magdalena River (1,528 km)."
+        },
+        {
+          "letter": "C",
+          "text": "The Atrato River is longer than the Magdalena River.",
+          "is_correct": false,
+          "feedback": "750 km is less than 1,528 km, so the Atrato is shorter, not longer."
+        },
+        {
+          "letter": "D",
+          "text": "The Magdalena River is the shortest river in Colombia.",
+          "is_correct": false,
+          "feedback": "The Magdalena River is the longest in the data set, not the shortest."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al analizar datos numéricos en inglés, \"the longest\" identifica el valor mayor (1.528 km) y \"the shortest\" el menor (750 km).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-5-2026-W23-superlatives-tallest-biggest-places-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W23-superlatives-tallest-biggest-places-001-MASTERY-bundle-v7",
+      "statement": "Why is Pico Cristóbal Colón called \"the highest peak\" and not La Chorrera?",
+      "context": "Read the school report from Manizales:\n\"Nevado del Ruiz is very high (5,321 m), but Pico Cristóbal Colón is the highest peak in Colombia (5,775 m). La Chorrera is the tallest waterfall in Colombia (590 m).\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Because Pico Cristóbal Colón has the greatest altitude above sea level among all Colombian mountains.",
+          "is_correct": true,
+          "feedback": "\"Highest peak\" refers to mountain elevation above sea level, where Pico Cristóbal Colón reaches 5,775 m."
+        },
+        {
+          "letter": "B",
+          "text": "Because La Chorrera is a mountain higher than Pico Cristóbal Colón.",
+          "is_correct": false,
+          "feedback": "La Chorrera is a waterfall, not a mountain peak."
+        },
+        {
+          "letter": "C",
+          "text": "Because Nevado del Ruiz is taller than both of them.",
+          "is_correct": false,
+          "feedback": "Nevado del Ruiz (5,321 m) is lower than Pico Cristóbal Colón (5,775 m)."
+        },
+        {
+          "letter": "D",
+          "text": "Because waterfalls are always called peaks in English geography.",
+          "is_correct": false,
+          "feedback": "\"Peak\" refers specifically to the top of a mountain, not a waterfall."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El análisis textual demuestra que \"highest peak\" se refiere a la mayor altitud montañosa de Colombia (Pico Cristóbal Colón con 5.775 m), diferenciando accidentes geográficos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-5-2026-W23-superlatives-tallest-biggest-places-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W23-superlatives-tallest-biggest-places-001-MASTERY-bundle-v8",
+      "statement": "Which student wrote a completely correct sentence in English?",
+      "context": "Four students in Cali wrote sentences for a tourism contest about Colombia. The teacher needs to select the only sentence that uses superlative grammar and facts correctly.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Camilo: \"The Tatacoa Desert is one of the hottest places in Colombia, and Tayrona Park has some of the most famous beaches.\"",
+          "is_correct": true,
+          "feedback": "Camilo correctly uses \"the hottest\" (consonant doubling with one-syllable CVC adjective \"hot\") and \"the most famous\" (multi-syllable adjective)."
+        },
+        {
+          "letter": "B",
+          "text": "Sara: \"The Tatacoa Desert is the most hot place in Colombia, and Tayrona is the famousest park.\"",
+          "is_correct": false,
+          "feedback": "\"Most hot\" and \"famousest\" are grammatical errors; the correct forms are \"hottest\" and \"most famous\"."
+        },
+        {
+          "letter": "C",
+          "text": "David: \"The Tatacoa Desert is hotter than all places, but Tayrona is more famousest.\"",
+          "is_correct": false,
+          "feedback": "\"More famousest\" is an incorrect double form combining comparative and superlative markers."
+        },
+        {
+          "letter": "D",
+          "text": "Laura: \"The Tatacoa Desert is the hotest place in Colombia, with the most beautifullest sand.\"",
+          "is_correct": false,
+          "feedback": "\"Hotest\" lacks double 't', and \"most beautifullest\" is a double superlative error."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la precisión gramatical requiere verificar la duplicación de consonantes en adjetivos cortos CVC (\"hot\" $\\to$ \"hottest\") y el uso de \"the most\" con adjetivos polisilábicos (\"famous\" $\\to$ \"the most famous\").",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-5-2026-W23-superlatives-tallest-biggest-places-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

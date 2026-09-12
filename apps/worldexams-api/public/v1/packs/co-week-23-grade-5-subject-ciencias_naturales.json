@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-23-grade-5-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T15:41:45.191Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-5-2026-W23-sistema-nervioso-coordinacion-respuesta-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el órgano principal del sistema nervioso, encargado de dirigir y coordinar las funciones del cuerpo?",
+      "context": "En una clase de ciencias en un colegio de Neiva, la profesora muestra un modelo del cuerpo humano y pide señalar el órgano que dirige las acciones del sistema nervioso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cerebro.",
+          "is_correct": true,
+          "feedback": "El cerebro es el órgano principal del sistema nervioso: procesa la información y ordena las respuestas del cuerpo."
+        },
+        {
+          "letter": "B",
+          "text": "El corazón.",
+          "is_correct": false,
+          "feedback": "El corazón pertenece al sistema circulatorio y bombea la sangre, no dirige el sistema nervioso."
+        },
+        {
+          "letter": "C",
+          "text": "Los pulmones.",
+          "is_correct": false,
+          "feedback": "Los pulmones hacen parte del sistema respiratorio y realizan el intercambio de gases."
+        },
+        {
+          "letter": "D",
+          "text": "El estómago.",
+          "is_correct": false,
+          "feedback": "El estómago pertenece al sistema digestivo y participa en la digestión de los alimentos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer el cerebro como el centro de control del sistema nervioso, que recibe la información y ordena las respuestas del cuerpo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-5-2026-W23-sistema-nervioso-coordinacion-respuesta-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W23-sistema-nervioso-coordinacion-respuesta-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué la médula espinal es importante para el cuerpo?",
+      "context": "Lee: \"La médula espinal es como una autopista de nervios que lleva los mensajes desde el cerebro hacia el resto del cuerpo y trae las señales de vuelta.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque produce los alimentos que el cuerpo necesita.",
+          "is_correct": false,
+          "feedback": "El cuerpo no produce alimentos; estos llegan con la alimentación, no por la médula espinal."
+        },
+        {
+          "letter": "B",
+          "text": "Porque bombea la sangre a todos los órganos.",
+          "is_correct": false,
+          "feedback": "Bombear la sangre es función del corazón, no de la médula espinal."
+        },
+        {
+          "letter": "C",
+          "text": "Porque conduce los mensajes entre el cerebro y el resto del cuerpo.",
+          "is_correct": true,
+          "feedback": "La médula espinal transmite las señales nerviosas que van del cerebro al cuerpo y regresan a él."
+        },
+        {
+          "letter": "D",
+          "text": "Porque almacena el oxígeno que respiramos.",
+          "is_correct": false,
+          "feedback": "El oxígeno es transportado por la sangre y los pulmones, no almacenado en la médula espinal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprender que la médula espinal funciona como vía de comunicación entre el cerebro y los demás órganos y músculos del cuerpo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.86,
+      "bundle_id": "CO-CN-5-2026-W23-sistema-nervioso-coordinacion-respuesta-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W23-sistema-nervioso-coordinacion-respuesta-001-MASTERY-bundle-v3",
+      "statement": "¿Qué explica que el niño retirara la mano tan rápido?",
+      "context": "En una cocina de Bucaramanga, un niño toca sin querer una olla caliente y retira la mano muy rápido, casi sin pensarlo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los músculos deciden solos, sin recibir mensajes.",
+          "is_correct": false,
+          "feedback": "Los músculos no deciden por sí mismos; actúan siguiendo las órdenes del sistema nervioso."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la piel produce calor para alejar el peligro.",
+          "is_correct": false,
+          "feedback": "La piel percibe el calor, pero no lo produce para defenderse del peligro."
+        },
+        {
+          "letter": "C",
+          "text": "Porque un acto reflejo envía la orden de retirar la mano de inmediato.",
+          "is_correct": true,
+          "feedback": "El acto reflejo es una respuesta rápida y automática que protege el cuerpo ante un estímulo peligroso."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el estómago ordenó mover la mano.",
+          "is_correct": false,
+          "feedback": "El estómago pertenece al sistema digestivo y no ordena los movimientos de las manos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicar el concepto de acto reflejo, una respuesta rápida que protege al cuerpo sin que la persona tenga que pensarlo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-5-2026-W23-sistema-nervioso-coordinacion-respuesta-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W23-sistema-nervioso-coordinacion-respuesta-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el recorrido de la información cuando Valentina huele el café?",
+      "context": "En Armenia, Valentina entra a una panadería y una nube de aroma a café recién hecho llega hasta su nariz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El ojo capta el olor y lo envía directamente a los músculos.",
+          "is_correct": false,
+          "feedback": "El ojo capta la luz, no los olores, y no envía señales a los músculos."
+        },
+        {
+          "letter": "B",
+          "text": "El oído recibe el olor y lo transforma en sonido.",
+          "is_correct": false,
+          "feedback": "El oído percibe sonidos; los olores son captados por la nariz."
+        },
+        {
+          "letter": "C",
+          "text": "La piel detecta el olor y lo guarda en los huesos.",
+          "is_correct": false,
+          "feedback": "La piel percibe texturas y temperatura; los huesos no almacenan olores."
+        },
+        {
+          "letter": "D",
+          "text": "La nariz capta el olor y envía la señal por los nervios hasta el cerebro.",
+          "is_correct": true,
+          "feedback": "Los sentidos captan la información y los nervios la llevan al cerebro, que la interpreta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Identificar el papel de los sentidos y de los nervios en el envío de información hacia el cerebro, que interpreta lo que percibimos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-5-2026-W23-sistema-nervioso-coordinacion-respuesta-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W23-sistema-nervioso-coordinacion-respuesta-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál hábito protege mejor el sistema nervioso?",
+      "context": "En Pasto, Juan sale a montar en bicicleta con sus amigos y quiere cuidar su sistema nervioso durante el paseo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usar casco y evitar golpes fuertes en la cabeza.",
+          "is_correct": true,
+          "feedback": "El cerebro es muy delicado; el casco amortigua los golpes y ayuda a protegerlo."
+        },
+        {
+          "letter": "B",
+          "text": "Consumir bebidas muy azucaradas todos los días.",
+          "is_correct": false,
+          "feedback": "El exceso de azúcar no protege al sistema nervioso y puede afectar la salud."
+        },
+        {
+          "letter": "C",
+          "text": "Dormir solo dos horas cada noche.",
+          "is_correct": false,
+          "feedback": "Dormir poco desgasta el cuerpo; el descanso es necesario para el buen funcionamiento del cerebro."
+        },
+        {
+          "letter": "D",
+          "text": "Practicar deportes sin ninguna protección en la cabeza.",
+          "is_correct": false,
+          "feedback": "Practicar deportes sin protección aumenta el riesgo de golpes que dañan el cerebro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar hábitos de autocuidado, como el uso del casco y el descanso adecuado, para proteger el cerebro y el sistema nervioso.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-CN-5-2026-W23-sistema-nervioso-coordinacion-respuesta-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W23-sistema-nervioso-coordinacion-respuesta-001-MASTERY-bundle-v6",
+      "statement": "¿Qué explica que Ana atrape la pelota y Luis no?",
+      "context": "Compara: \"Dos estudiantes juegan a atrapar una pelota. Ana mira la pelota, calcula su trayectoria y mueve las manos justo a tiempo. Luis mira hacia otro lado y no logra atraparla.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ana tiene más fuerza en los brazos que Luis.",
+          "is_correct": false,
+          "feedback": "La fuerza de los brazos no explica la diferencia; ambos deben coordinar la vista con el movimiento."
+        },
+        {
+          "letter": "B",
+          "text": "Ana recibe la información visual y su cerebro coordina la respuesta con los músculos.",
+          "is_correct": true,
+          "feedback": "Cuando la vista envía la información, el cerebro coordina la respuesta de los músculos para atrapar el objeto."
+        },
+        {
+          "letter": "C",
+          "text": "Luis tiene los nervios más largos que Ana.",
+          "is_correct": false,
+          "feedback": "El largo de los nervios no determina la capacidad de atrapar una pelota."
+        },
+        {
+          "letter": "D",
+          "text": "La pelota elige a la persona que la atrapa.",
+          "is_correct": false,
+          "feedback": "La pelota no elige; atraparla depende de la coordinación entre los sentidos, el cerebro y los músculos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar cómo la coordinación entre los sentidos, el cerebro y los músculos permite responder de forma adecuada a los estímulos del entorno.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-5-2026-W23-sistema-nervioso-coordinacion-respuesta-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W23-sistema-nervioso-coordinacion-respuesta-001-MASTERY-bundle-v7",
+      "statement": "¿Qué relación existe entre el cerebro y el control de la temperatura del cuerpo?",
+      "context": "Lee: \"Cuando el cuerpo siente mucho calor, el cerebro ordena a las glándulas sudoríparas producir sudor, que al evaporarse enfría la piel.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cerebro no participa en la temperatura del cuerpo.",
+          "is_correct": false,
+          "feedback": "El cerebro sí participa, pues detecta los cambios y ordena respuestas para regular la temperatura."
+        },
+        {
+          "letter": "B",
+          "text": "El sudor calienta el cuerpo cuando hace frío.",
+          "is_correct": false,
+          "feedback": "El sudor enfría la piel cuando tiene calor; no la calienta."
+        },
+        {
+          "letter": "C",
+          "text": "El cerebro detecta los cambios y ordena respuestas como la sudoración para regular la temperatura.",
+          "is_correct": true,
+          "feedback": "El cerebro actúa como centro de control y ordena la sudoración para mantener la temperatura adecuada."
+        },
+        {
+          "letter": "D",
+          "text": "La temperatura la controlan únicamente los huesos.",
+          "is_correct": false,
+          "feedback": "Los huesos sostienen el cuerpo; no regulan la temperatura."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar cómo el cerebro regula funciones internas, como la temperatura corporal, mediante respuestas automáticas del cuerpo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CN-5-2026-W23-sistema-nervioso-coordinacion-respuesta-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W23-sistema-nervioso-coordinacion-respuesta-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué el sistema nervioso es fundamental para el cuerpo y qué hábito lo protege?",
+      "context": "Lee: \"El sistema nervioso recibe información de los sentidos, la procesa en el cerebro y envía órdenes a los músculos. También controla funciones como la respiración y los latidos del corazón. Dormir bien, alimentarse de forma saludable y evitar golpes fuertes ayudan a cuidarlo.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque solo sirve para pensar y no influye en los movimientos.",
+          "is_correct": false,
+          "feedback": "Además de pensar, el sistema nervioso controla los movimientos y muchas funciones vitales."
+        },
+        {
+          "letter": "B",
+          "text": "Porque puede repararse solo, sin necesidad de ningún cuidado.",
+          "is_correct": false,
+          "feedback": "El sistema nervioso necesita cuidados; no se repara solo ni sin protección."
+        },
+        {
+          "letter": "C",
+          "text": "Porque su única función es producir la voz.",
+          "is_correct": false,
+          "feedback": "Producir la voz es solo una de sus tareas; cumple funciones mucho más amplias."
+        },
+        {
+          "letter": "D",
+          "text": "Porque coordina los sentidos, los movimientos y funciones vitales, y se protege durmiendo bien y evitando golpes.",
+          "is_correct": true,
+          "feedback": "El sistema nervioso coordina casi todas las funciones del cuerpo y se cuida con descanso, buena alimentación y protección de la cabeza."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar la importancia del sistema nervioso en la coordinación de los sentidos, los movimientos y las funciones vitales, y reconocer hábitos que lo protegen.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.62,
+      "bundle_id": "CO-CN-5-2026-W23-sistema-nervioso-coordinacion-respuesta-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

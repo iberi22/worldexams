@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-15-grade-5-subject-ingles",
+    "generated_at": "2026-09-12T15:41:45.196Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-5-2026-W15-weather-seasons-colombia-001-MASTERY-bundle-v1",
+      "statement": "Which word in English describes the weather when the sky is full of clouds and you cannot see the sun?",
+      "context": "In a classroom in Bogota, a teacher shows pictures of the sky: sunny, rainy, cloudy, and windy.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cloudy.",
+          "is_correct": true,
+          "feedback": "\"Cloudy\" describes a sky covered with clouds, so the sun is hidden."
+        },
+        {
+          "letter": "B",
+          "text": "Sunny.",
+          "is_correct": false,
+          "feedback": "\"Sunny\" means the sun is bright and there are few or no clouds."
+        },
+        {
+          "letter": "C",
+          "text": "Windy.",
+          "is_correct": false,
+          "feedback": "\"Windy\" describes moving air, not a sky full of clouds."
+        },
+        {
+          "letter": "D",
+          "text": "Rainy.",
+          "is_correct": false,
+          "feedback": "\"Rainy\" describes falling water, not just clouds covering the sun."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Recognizing basic weather words in English by matching each word with the sky condition it describes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-5-2026-W15-weather-seasons-colombia-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W15-weather-seasons-colombia-001-MASTERY-bundle-v2",
+      "statement": "Why do people in Cartagena wear light clothes?",
+      "context": "Read: \"Cartagena is very hot and sunny almost all year, so people go to the beach and wear light clothes.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Because the weather there is hot and sunny.",
+          "is_correct": true,
+          "feedback": "The text connects hot and sunny weather with wearing light clothes."
+        },
+        {
+          "letter": "B",
+          "text": "Because it is very cold and snowy every day.",
+          "is_correct": false,
+          "feedback": "The text says Cartagena is hot, not cold or snowy."
+        },
+        {
+          "letter": "C",
+          "text": "Because it rains heavily every single hour.",
+          "is_correct": false,
+          "feedback": "Constant heavy rain is not mentioned in the text."
+        },
+        {
+          "letter": "D",
+          "text": "Because the city is high in the snowy mountains.",
+          "is_correct": false,
+          "feedback": "Cartagena is on the coast, and the text does not mention mountains."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Understanding a cause-effect relationship about weather in a short descriptive text in English.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-ING-5-2026-W15-weather-seasons-colombia-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W15-weather-seasons-colombia-001-MASTERY-bundle-v3",
+      "statement": "Which sentence correctly uses the present continuous to describe the weather at this moment?",
+      "context": "A student in Medellin looks out of the window and says: \"It is raining now. I need an umbrella.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is raining right now.",
+          "is_correct": true,
+          "feedback": "\"Is raining\" is the correct present continuous form to describe weather happening now."
+        },
+        {
+          "letter": "B",
+          "text": "It rain right now.",
+          "is_correct": false,
+          "feedback": "\"Rain\" without \"is\" and \"-ing\" is not the present continuous form."
+        },
+        {
+          "letter": "C",
+          "text": "It raining right now.",
+          "is_correct": false,
+          "feedback": "\"Raining\" needs the auxiliary \"is\" to form the present continuous."
+        },
+        {
+          "letter": "D",
+          "text": "It rains right now.",
+          "is_correct": false,
+          "feedback": "The simple present \"rains\" is used for routines, not for what is happening at this moment."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Applying the present continuous with weather expressions to describe what is happening at the moment of speaking.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-5-2026-W15-weather-seasons-colombia-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W15-weather-seasons-colombia-001-MASTERY-bundle-v4",
+      "statement": "Which word correctly completes the sentence about the seasons in Colombia?",
+      "context": "A teacher in Cali writes on the board: \"In Colombia we have two main seasons: the dry season and the ______ season.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rainy.",
+          "is_correct": true,
+          "feedback": "In Colombia the two main seasons are the dry season and the rainy season."
+        },
+        {
+          "letter": "B",
+          "text": "Snowy.",
+          "is_correct": false,
+          "feedback": "Snow is not a main season in most of Colombia; the opposite of dry is rainy."
+        },
+        {
+          "letter": "C",
+          "text": "Foggy.",
+          "is_correct": false,
+          "feedback": "Fog is a weather condition, not the name of the second main season."
+        },
+        {
+          "letter": "D",
+          "text": "Windy.",
+          "is_correct": false,
+          "feedback": "Windy days happen, but the standard pair is dry season and rainy season."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Completing sentences about Colombian seasons using the correct weather vocabulary in English.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-5-2026-W15-weather-seasons-colombia-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W15-weather-seasons-colombia-001-MASTERY-bundle-v5",
+      "statement": "Which sentence uses the word \"windy\" correctly to describe Barranquilla?",
+      "context": "Ana lives in Barranquilla, a coastal city where it is hot and the air often moves strongly.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is windy in Barranquilla, so the flags move a lot.",
+          "is_correct": true,
+          "feedback": "In a windy place, moving air makes flags and kites move."
+        },
+        {
+          "letter": "B",
+          "text": "It is windy in Barranquilla, so the sun does not exist.",
+          "is_correct": false,
+          "feedback": "Wind does not make the sun disappear; that is not what \"windy\" means."
+        },
+        {
+          "letter": "C",
+          "text": "It is windy in Barranquilla, so the city is always cold and snowy.",
+          "is_correct": false,
+          "feedback": "Wind does not mean cold and snowy; Barranquilla is described as hot."
+        },
+        {
+          "letter": "D",
+          "text": "It is windy in Barranquilla, so people never go outside.",
+          "is_correct": false,
+          "feedback": "People can go outside on windy days; this does not explain the word \"windy\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Using the weather adjective \"windy\" in a meaningful sentence about a real Colombian city.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-ING-5-2026-W15-weather-seasons-colombia-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W15-weather-seasons-colombia-001-MASTERY-bundle-v6",
+      "statement": "Which comparison correctly explains why the weather in Bogota and Cartagena is different?",
+      "context": "Read: \"Bogota is cold and cloudy because it is high in the mountains. Cartagena is hot and sunny because it is on the Caribbean coast.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bogota is cold because of its high altitude, while Cartagena is hot because it is on the coast.",
+          "is_correct": true,
+          "feedback": "The text links Bogota's cold weather to height and Cartagena's heat to its coastal location."
+        },
+        {
+          "letter": "B",
+          "text": "Both cities have exactly the same weather all year.",
+          "is_correct": false,
+          "feedback": "The text describes different weather in each city, so they are not the same."
+        },
+        {
+          "letter": "C",
+          "text": "Cartagena is cold because it is high in the mountains.",
+          "is_correct": false,
+          "feedback": "The text places Cartagena on the coast, not in the mountains."
+        },
+        {
+          "letter": "D",
+          "text": "Bogota is hot because it is next to the sea.",
+          "is_correct": false,
+          "feedback": "The text says Bogota is cold and in the mountains, not next to the sea."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparing two cities to explain how location and altitude affect weather in English.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lexico",
+      "expected_success": 0.62,
+      "bundle_id": "CO-ING-5-2026-W15-weather-seasons-colombia-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W15-weather-seasons-colombia-001-MASTERY-bundle-v7",
+      "statement": "On which day should a student take an umbrella to school?",
+      "context": "Read a short weather report: \"On Monday it is sunny in Cali. On Tuesday it is rainy and cloudy. On Wednesday it is windy and cool.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tuesday, because it is rainy and cloudy.",
+          "is_correct": true,
+          "feedback": "An umbrella is useful on a rainy day, and Tuesday is described as rainy."
+        },
+        {
+          "letter": "B",
+          "text": "Monday, because it is sunny.",
+          "is_correct": false,
+          "feedback": "During sunny weather an umbrella is not needed for rain."
+        },
+        {
+          "letter": "C",
+          "text": "Wednesday, because it is windy.",
+          "is_correct": false,
+          "feedback": "Wind alone does not require an umbrella for rain."
+        },
+        {
+          "letter": "D",
+          "text": "No day, because it never rains in Cali.",
+          "is_correct": false,
+          "feedback": "The report clearly says it is rainy on Tuesday."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analyzing a simple weather report to decide which item is needed on a specific day.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lexico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-ING-5-2026-W15-weather-seasons-colombia-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W15-weather-seasons-colombia-001-MASTERY-bundle-v8",
+      "statement": "What is the most important message of this paragraph?",
+      "context": "Read: \"Colombia has different climate zones: hot on the coasts, mild in the coffee region, and cold in the high mountains. People wear different clothes in each zone.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Colombia has different climate zones, so people wear different clothes in each one.",
+          "is_correct": true,
+          "feedback": "The paragraph links the variety of climate zones with the different clothes people wear."
+        },
+        {
+          "letter": "B",
+          "text": "All of Colombia is equally hot and sunny every day.",
+          "is_correct": false,
+          "feedback": "The text describes hot, mild, and cold zones, so the country is not equally hot everywhere."
+        },
+        {
+          "letter": "C",
+          "text": "People in Colombia always wear the same clothes in every zone.",
+          "is_correct": false,
+          "feedback": "The text says the opposite: clothing changes from zone to zone."
+        },
+        {
+          "letter": "D",
+          "text": "The coasts of Colombia are the coldest places in the country.",
+          "is_correct": false,
+          "feedback": "The text describes the coasts as hot and the mountains as cold."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluating the main message of a short expository paragraph about Colombian climate zones.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lexico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-5-2026-W15-weather-seasons-colombia-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

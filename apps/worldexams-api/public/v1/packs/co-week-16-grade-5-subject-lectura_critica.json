@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-16-grade-5-subject-lectura_critica",
+    "generated_at": "2026-09-12T15:41:45.205Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-5-2026-W16-texto-argumentativo-opinion-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la opinión o tesis que defiende el estudiante en su texto?",
+      "context": "Lea el siguiente texto de un estudiante de Santa Marta: \"Considero que en mi colegio deberían instalarse más bebederos de agua potable. En primer lugar, los estudiantes pasan muchas horas en clase y necesitan hidratarse. Además, varios compañeros compran gaseosas todos los días, lo cual no es saludable\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el colegio deberían instalarse más bebederos de agua potable.",
+          "is_correct": true,
+          "feedback": "Esta es la idea que el autor defiende y que luego sustenta con razones."
+        },
+        {
+          "letter": "B",
+          "text": "Los estudiantes prefieren las gaseosas al agua.",
+          "is_correct": false,
+          "feedback": "Es un dato mencionado como apoyo, pero no es la opinión principal defendida."
+        },
+        {
+          "letter": "C",
+          "text": "Las clases duran demasiadas horas al día.",
+          "is_correct": false,
+          "feedback": "Se menciona la duración como razón de la necesidad de hidratarse, no como tesis."
+        },
+        {
+          "letter": "D",
+          "text": "En Santa Marta hace mucho calor en el recreo.",
+          "is_correct": false,
+          "feedback": "El texto no habla del clima como idea central del argumento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificación de la tesis como la idea principal que un autor defiende en un texto argumentativo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-5-2026-W16-texto-argumentativo-opinion-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W16-texto-argumentativo-opinion-001-MASTERY-bundle-v2",
+      "statement": "¿Qué función cumplen esas oraciones dentro del texto?",
+      "context": "En el texto del bebedero, el estudiante escribe dos oraciones que empiezan con \"En primer lugar\" y \"Además\" para respaldar su opinión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentan los argumentos o razones que sustentan la opinión del autor.",
+          "is_correct": true,
+          "feedback": "Los conectores \"En primer lugar\" y \"Además\" introducen razones que respaldan la tesis."
+        },
+        {
+          "letter": "B",
+          "text": "Repiten la opinión principal con las mismas palabras.",
+          "is_correct": false,
+          "feedback": "No repiten la tesis; añaden razones nuevas que la justifican."
+        },
+        {
+          "letter": "C",
+          "text": "Cuentan una historia con personajes y acciones imaginarias.",
+          "is_correct": false,
+          "feedback": "El texto argumentativo expone razones, no narra una historia de ficción."
+        },
+        {
+          "letter": "D",
+          "text": "Describen el color y la forma de los bebederos.",
+          "is_correct": false,
+          "feedback": "No hay descripción física; se ofrecen motivos para apoyar una idea."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprensión de la función de los argumentos como razones que sostienen una tesis.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-5-2026-W16-texto-argumentativo-opinion-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W16-texto-argumentativo-opinion-001-MASTERY-bundle-v3",
+      "statement": "¿Qué conector o expresión se emplea para introducir el ejemplo que apoya la opinión?",
+      "context": "Un estudiante de Villavicencio escribe: \"En mi opinión, las tiendas escolares deberían vender más frutas. Por ejemplo, en el descanso la mayoría de los niños compra papas fritas, pero una fruta cuesta menos dinero y alimenta mejor\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Por ejemplo\".",
+          "is_correct": true,
+          "feedback": "La expresión \"Por ejemplo\" introduce un caso concreto que refuerza la opinión del autor."
+        },
+        {
+          "letter": "B",
+          "text": "\"En mi opinión\".",
+          "is_correct": false,
+          "feedback": "Esa expresión introduce la tesis, no el ejemplo que la sustenta."
+        },
+        {
+          "letter": "C",
+          "text": "\"la mayoría de los niños\".",
+          "is_correct": false,
+          "feedback": "Es parte del ejemplo, pero no la expresión que lo introduce."
+        },
+        {
+          "letter": "D",
+          "text": "\"una fruta cuesta menos dinero\".",
+          "is_correct": false,
+          "feedback": "Es un argumento dentro del ejemplo, no el conector que lo anuncia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocimiento de conectores y expresiones que organizan y ejemplifican los argumentos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.79,
+      "bundle_id": "CO-LC-5-2026-W16-texto-argumentativo-opinion-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W16-texto-argumentativo-opinion-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el propósito del estudiante al expresar esa afirmación en el debate?",
+      "context": "En un debate del salón en Armenia, dos estudiantes discuten sobre el uso del celular en el recreo. Uno afirma: \"Creo que se debería permitir el celular en el recreo porque ayuda a comunicarse con la familia en caso de emergencia\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Convencer a sus compañeros de aceptar su punto de vista ofreciendo una razón.",
+          "is_correct": true,
+          "feedback": "En un debate se busca persuadir a otros presentando argumentos que apoyen la propia opinión."
+        },
+        {
+          "letter": "B",
+          "text": "Ordenar a todos que guarden el celular en sus maletas.",
+          "is_correct": false,
+          "feedback": "El estudiante propone permitir el uso, no prohibirlo ni dar órdenes."
+        },
+        {
+          "letter": "C",
+          "text": "Narrar un cuento sobre una emergencia familiar.",
+          "is_correct": false,
+          "feedback": "No cuenta una historia; expone una postura con su justificación."
+        },
+        {
+          "letter": "D",
+          "text": "Describir las partes internas de un teléfono celular.",
+          "is_correct": false,
+          "feedback": "No hay descripción técnica; hay una opinión con un argumento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocimiento de la intención persuasiva propia del discurso argumentativo en situaciones de debate.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-5-2026-W16-texto-argumentativo-opinion-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W16-texto-argumentativo-opinion-001-MASTERY-bundle-v5",
+      "statement": "¿En qué parte de la estructura argumentativa se ubica este fragmento?",
+      "context": "Una estudiante de Manizales redacta la conclusión de su texto así: \"Por todo lo anterior, considero que la biblioteca debe abrir también los sábados, pues muchos estudiantes no tienen espacio para estudiar en casa\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la conclusión, porque retoma la opinión y cierra el texto reafirmándola.",
+          "is_correct": true,
+          "feedback": "El conector \"Por todo lo anterior\" y la recapitulación indican el cierre del texto argumentativo."
+        },
+        {
+          "letter": "B",
+          "text": "En la introducción, porque es la primera frase del texto.",
+          "is_correct": false,
+          "feedback": "La introducción presenta el tema y la tesis al comienzo; aquí se está cerrando."
+        },
+        {
+          "letter": "C",
+          "text": "En una definición, porque explica el significado de biblioteca.",
+          "is_correct": false,
+          "feedback": "No se define un término; se retoma una postura para concluir."
+        },
+        {
+          "letter": "D",
+          "text": "En un diálogo, porque hay dos voces conversando.",
+          "is_correct": false,
+          "feedback": "No hay intercambio de voces; hay una sola autora cerrando su argumentación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ubicación de fragmentos en la estructura básica del texto argumentativo: introducción, argumentos y conclusión.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-5-2026-W16-texto-argumentativo-opinion-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W16-texto-argumentativo-opinion-001-MASTERY-bundle-v6",
+      "statement": "¿Qué diferencia hace más sólido el argumento del segundo estudiante?",
+      "context": "Dos estudiantes escriben sobre el reciclaje. El primero dice: \"Reciclar es importante porque en el colegio se producen muchas botellas de plástico\". El segundo escribe: \"Reciclar es importante porque reduce la contaminación del agua y del suelo, según estudios ambientales\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apoya su razón en una explicación respaldada por estudios, mientras el primero solo da una afirmación general.",
+          "is_correct": true,
+          "feedback": "Un argumento es más fuerte cuando se sustenta en evidencias o fuentes que lo respaldan."
+        },
+        {
+          "letter": "B",
+          "text": "Usa palabras más largas y difíciles de entender.",
+          "is_correct": false,
+          "feedback": "La claridad no depende de la longitud de las palabras, sino de la solidez de las razones."
+        },
+        {
+          "letter": "C",
+          "text": "Escribe la oración en un tono más emocional y exagerado.",
+          "is_correct": false,
+          "feedback": "La emoción excesiva no hace más sólido un argumento; la evidencia sí."
+        },
+        {
+          "letter": "D",
+          "text": "Repite la misma idea dos veces sin agregar razones.",
+          "is_correct": false,
+          "feedback": "Repetir no aporta solidez; el segundo estudiante añade una justificación con respaldo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Análisis de la solidez de los argumentos según el respaldo o evidencia que los sustenta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.61,
+      "bundle_id": "CO-LC-5-2026-W16-texto-argumentativo-opinion-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W16-texto-argumentativo-opinion-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la debilidad principal del razonamiento del estudiante?",
+      "context": "Un estudiante afirma: \"Todos los videojuegos son malos porque un compañero se distrajo con ellos y bajó sus notas\". Con base en esa única experiencia, concluye que nadie debería jugar videojuegos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Generaliza a partir de un solo caso y atribuye a todos los videojuegos un efecto que no se ha demostrado.",
+          "is_correct": true,
+          "feedback": "Sacar una conclusión universal de un caso aislado es una generalización apresurada y poco rigurosa."
+        },
+        {
+          "letter": "B",
+          "text": "Escribe con muchas faltas de ortografía en su texto.",
+          "is_correct": false,
+          "feedback": "La debilidad señalada se refiere al razonamiento, no a la ortografía."
+        },
+        {
+          "letter": "C",
+          "text": "Usa un lenguaje demasiado técnico y complicado.",
+          "is_correct": false,
+          "feedback": "El estudiante usa un lenguaje sencillo; el problema está en la generalización sin evidencias."
+        },
+        {
+          "letter": "D",
+          "text": "No menciona el nombre del compañero afectado.",
+          "is_correct": false,
+          "feedback": "Omitir el nombre no es el problema; lo grave es concluir algo general de un único caso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Análisis de errores de razonamiento como la generalización apresurada en textos argumentativos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LC-5-2026-W16-texto-argumentativo-opinion-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W16-texto-argumentativo-opinion-001-MASTERY-bundle-v8",
+      "statement": "¿Qué respuesta valora de forma más justa la discusión entre ambos estudiantes?",
+      "context": "Un estudiante sostiene: \"Los zoológicos deberían desaparecer porque los animales no deberían vivir encerrados\". Otro responde: \"Algunos zoológicos protegen especies en peligro y las reproducen para evitar su extinción, aunque deben garantizar el bienestar de los animales\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos aportan razones válidas; conviene sopesar el bienestar animal y la conservación de especies antes de concluir.",
+          "is_correct": true,
+          "feedback": "Evaluar un tema controversial exige considerar los argumentos de las dos partes y sopesar sus razones."
+        },
+        {
+          "letter": "B",
+          "text": "Tiene razón el primero porque una sola opinión sincera basta para decidir un tema complejo.",
+          "is_correct": false,
+          "feedback": "Los temas complejos requieren analizar varias razones, no aceptar una sola opinión sin más."
+        },
+        {
+          "letter": "C",
+          "text": "Tiene razón el segundo porque quien habla de conservación siempre acierta.",
+          "is_correct": false,
+          "feedback": "Ninguna postura es correcta por su tema; hay que examinar los argumentos que la sustentan."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno tiene razón porque los temas de animales no importan a los ciudadanos.",
+          "is_correct": false,
+          "feedback": "Todos los temas que afectan la convivencia y el ambiente merecen una reflexión ciudadana seria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluación crítica de argumentos contrapuestos y valoración equilibrada de las razones expuestas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-5-2026-W16-texto-argumentativo-opinion-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

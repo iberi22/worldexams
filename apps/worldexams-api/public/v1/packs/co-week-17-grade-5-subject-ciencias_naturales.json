@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-17-grade-5-subject-ciencias_naturales",
+    "generated_at": "2026-09-12T15:41:45.189Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-5-2026-W17-el-magnetismo-imanes-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es un imán?",
+      "context": "En el laboratorio de ciencias de un colegio de Neiva, la profesora muestra una barra que atrae clips metálicos sin tocarlos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un objeto capaz de atraer ciertos materiales metálicos como el hierro y el acero.",
+          "is_correct": true,
+          "feedback": "El imán genera una fuerza magnética que atrae algunos metales."
+        },
+        {
+          "letter": "B",
+          "text": "Un objeto que atrae todos los materiales por igual.",
+          "is_correct": false,
+          "feedback": "El imán solo atrae ciertos metales, no todos los materiales."
+        },
+        {
+          "letter": "C",
+          "text": "Un aparato que produce electricidad por sí mismo.",
+          "is_correct": false,
+          "feedback": "El imán no produce electricidad por sí mismo."
+        },
+        {
+          "letter": "D",
+          "text": "Una herramienta que sirve para medir la temperatura.",
+          "is_correct": false,
+          "feedback": "El imán no mide temperatura; se relaciona con la fuerza magnética."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Recordar la definición de imán y los materiales que es capaz de atraer.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-5-2026-W17-el-magnetismo-imanes-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W17-el-magnetismo-imanes-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué el imán atrae el clip metálico pero no atrae la hoja de papel?",
+      "context": "En el salón de clases de un colegio de Valledupar, una estudiante acerca un imán a un clip metálico y luego a una hoja de papel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el clip es de un material magnético, como el hierro, y el papel no lo es.",
+          "is_correct": true,
+          "feedback": "Los imanes atraen materiales magnéticos, principalmente metales como el hierro."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la hoja de papel pesa más que el clip.",
+          "is_correct": false,
+          "feedback": "El peso no determina la atracción magnética; lo que importa es el material."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el imán atrae todo lo que brilla.",
+          "is_correct": false,
+          "feedback": "El brillo no tiene relación con la fuerza magnética."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el clip siempre está más cerca del imán que el papel.",
+          "is_correct": false,
+          "feedback": "La distancia influye, pero una hoja muy cercana tampoco sería atraída."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender que la atracción magnética depende del material y no del peso ni del brillo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-5-2026-W17-el-magnetismo-imanes-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W17-el-magnetismo-imanes-001-MASTERY-bundle-v3",
+      "statement": "¿Qué sucede al acercar el polo norte de un imán al polo norte de otro imán?",
+      "context": "Un estudiante de Manizales acerca el polo norte de un imán al polo norte de otro imán.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se repelen, porque los polos del mismo tipo se rechazan entre sí.",
+          "is_correct": true,
+          "feedback": "Los polos iguales (norte-norte o sur-sur) se repelen."
+        },
+        {
+          "letter": "B",
+          "text": "Se atraen, porque los polos del mismo tipo se unen.",
+          "is_correct": false,
+          "feedback": "Los polos iguales se repelen; se atraen los polos diferentes."
+        },
+        {
+          "letter": "C",
+          "text": "No ocurre nada entre ellos.",
+          "is_correct": false,
+          "feedback": "Siempre hay una fuerza magnética entre dos imanes cercanos."
+        },
+        {
+          "letter": "D",
+          "text": "Se funden y forman un solo imán más grande.",
+          "is_correct": false,
+          "feedback": "Los imanes no se funden al acercarse; se repelen o se atraen."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la regla de atracción y repulsión entre polos magnéticos del mismo tipo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-5-2026-W17-el-magnetismo-imanes-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W17-el-magnetismo-imanes-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál de estos objetos será atraído por un imán?",
+      "context": "En una ferretería de Sincelejo hay un clavo de hierro, una cuchara de madera, un vaso de vidrio y una regla de plástico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El clavo de hierro.",
+          "is_correct": true,
+          "feedback": "El hierro es un material magnético que el imán atrae."
+        },
+        {
+          "letter": "B",
+          "text": "La cuchara de madera.",
+          "is_correct": false,
+          "feedback": "La madera no es un material magnético."
+        },
+        {
+          "letter": "C",
+          "text": "El vaso de vidrio.",
+          "is_correct": false,
+          "feedback": "El vidrio no es atraído por los imanes."
+        },
+        {
+          "letter": "D",
+          "text": "La regla de plástico.",
+          "is_correct": false,
+          "feedback": "El plástico no es un material magnético."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el conocimiento sobre materiales magnéticos para identificar el objeto atraído por un imán.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.73,
+      "bundle_id": "CO-CN-5-2026-W17-el-magnetismo-imanes-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W17-el-magnetismo-imanes-001-MASTERY-bundle-v5",
+      "statement": "¿Hacia dónde apunta siempre la aguja de una brújula?",
+      "context": "Una guía turística en Cartagena usa una brújula para orientar a los visitantes por el centro histórico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacia el norte.",
+          "is_correct": true,
+          "feedback": "La aguja de la brújula se orienta hacia el polo norte magnético."
+        },
+        {
+          "letter": "B",
+          "text": "Hacia el sur.",
+          "is_correct": false,
+          "feedback": "La aguja de la brújula apunta al norte, no al sur."
+        },
+        {
+          "letter": "C",
+          "text": "Hacia donde mire la persona que la sostiene.",
+          "is_correct": false,
+          "feedback": "La aguja no depende de la posición de quien la usa."
+        },
+        {
+          "letter": "D",
+          "text": "Hacia la ciudad más cercana.",
+          "is_correct": false,
+          "feedback": "La brújula no señala ciudades; señala el norte magnético."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el funcionamiento de la brújula como instrumento de orientación magnética.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CN-5-2026-W17-el-magnetismo-imanes-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W17-el-magnetismo-imanes-001-MASTERY-bundle-v6",
+      "statement": "¿Por qué la aguja de la brújula se orienta siempre en la dirección norte-sur?",
+      "context": "Una estudiante de Bucaramanga observa que la aguja de su brújula se orienta siempre en la misma dirección sin importar dónde se encuentre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la Tierra se comporta como un gran imán con polos magnéticos.",
+          "is_correct": true,
+          "feedback": "El campo magnético terrestre orienta la aguja magnética de la brújula."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la aguja sigue la dirección del viento.",
+          "is_correct": false,
+          "feedback": "El viento no orienta la aguja magnética."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la aguja siempre apunta hacia el Sol.",
+          "is_correct": false,
+          "feedback": "La brújula no depende de la posición del Sol."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la aguja siempre flota sobre el agua.",
+          "is_correct": false,
+          "feedback": "Aunque puede flotar, la orientación se debe al magnetismo de la Tierra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar el campo magnético terrestre como causa de la orientación de la brújula.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.62,
+      "bundle_id": "CO-CN-5-2026-W17-el-magnetismo-imanes-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W17-el-magnetismo-imanes-001-MASTERY-bundle-v7",
+      "statement": "Si un imán se parte en dos, ¿qué se puede afirmar de cada mitad?",
+      "context": "Una estudiante de Ibagué parte un imán en dos mitades con una sierra y quiere saber qué pasa con los polos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cada mitad se convierte en un nuevo imán con su propio polo norte y su polo sur.",
+          "is_correct": true,
+          "feedback": "Los polos magnéticos no se separan; cada fragmento conserva ambos polos."
+        },
+        {
+          "letter": "B",
+          "text": "Una mitad queda con el polo norte y la otra con el polo sur.",
+          "is_correct": false,
+          "feedback": "No es posible aislar un solo polo; cada mitad tiene ambos polos."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos mitades pierden toda su fuerza magnética.",
+          "is_correct": false,
+          "feedback": "Los fragmentos siguen siendo imanes con fuerza magnética."
+        },
+        {
+          "letter": "D",
+          "text": "Solo una de las dos mitades conserva el magnetismo.",
+          "is_correct": false,
+          "feedback": "Ambas mitades conservan la propiedad magnética."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar que los polos magnéticos son inseparables en cualquier fragmento de un imán.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.57,
+      "bundle_id": "CO-CN-5-2026-W17-el-magnetismo-imanes-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W17-el-magnetismo-imanes-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué es importante para la humanidad conocer el magnetismo y usar instrumentos como la brújula?",
+      "context": "Un grupo de estudiantes de Pasto discute sobre la utilidad del magnetismo y de instrumentos como la brújula en la vida de las personas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque permite orientarse en los viajes, fabricar aparatos y comprender fenómenos de la Tierra.",
+          "is_correct": true,
+          "feedback": "El magnetismo tiene múltiples aplicaciones prácticas y científicas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque sirve únicamente para decorar las aulas de clase.",
+          "is_correct": false,
+          "feedback": "El magnetismo tiene usos reales muy importantes, no solo decorativos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque sin imanes no se puede encender ningún aparato.",
+          "is_correct": false,
+          "feedback": "El magnetismo es útil en muchas áreas, aunque no sea la única forma de encender aparatos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los imanes solo existen en Colombia.",
+          "is_correct": false,
+          "feedback": "Los imanes y el magnetismo existen y se estudian en todo el mundo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la importancia del magnetismo y sus aplicaciones en la vida cotidiana y en la ciencia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.52,
+      "bundle_id": "CO-CN-5-2026-W17-el-magnetismo-imanes-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

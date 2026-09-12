@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-10-grade-5-subject-ingles",
+    "generated_at": "2026-09-12T15:41:45.194Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-5-2026-W10-my-neighborhood-community-places-001-MASTERY-bundle-v1",
+      "statement": "Which place is a place where you can borrow and read books?",
+      "context": "In a school in Bogotá, the teacher shows a picture of a neighborhood and points to a place where people borrow books.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A library.",
+          "is_correct": true,
+          "feedback": "A library is the place where people borrow and read books."
+        },
+        {
+          "letter": "B",
+          "text": "A market.",
+          "is_correct": false,
+          "feedback": "A market is a place to buy food and other products, not to borrow books."
+        },
+        {
+          "letter": "C",
+          "text": "A stadium.",
+          "is_correct": false,
+          "feedback": "A stadium is used for sports events, not for borrowing books."
+        },
+        {
+          "letter": "D",
+          "text": "A bakery.",
+          "is_correct": false,
+          "feedback": "A bakery sells bread and cakes, not books."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Recognizing the English name of a common community place by its function.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-5-2026-W10-my-neighborhood-community-places-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W10-my-neighborhood-community-places-001-MASTERY-bundle-v2",
+      "statement": "Why does María go to the park?",
+      "context": "Read: \"María lives near a park. Every Sunday, she goes there to play with her dog and meet her friends.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Because she plays with her dog and meets her friends there.",
+          "is_correct": true,
+          "feedback": "The text says María goes to the park to play with her dog and meet her friends."
+        },
+        {
+          "letter": "B",
+          "text": "Because she buys vegetables there.",
+          "is_correct": false,
+          "feedback": "Buying vegetables is not mentioned in the passage."
+        },
+        {
+          "letter": "C",
+          "text": "Because she borrows books there.",
+          "is_correct": false,
+          "feedback": "Borrowing books happens in a library, not in the park."
+        },
+        {
+          "letter": "D",
+          "text": "Because she sees a doctor there.",
+          "is_correct": false,
+          "feedback": "Seeing a doctor is not part of the passage."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Inferring the reason for visiting a place from a short descriptive text in English.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-5-2026-W10-my-neighborhood-community-places-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W10-my-neighborhood-community-places-001-MASTERY-bundle-v3",
+      "statement": "Which place is the correct answer?",
+      "context": "A teacher in Cali asks, \"Where can you buy fruit, vegetables and fresh fish in your neighborhood?\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "At the market.",
+          "is_correct": true,
+          "feedback": "The market is the place where people buy fruit, vegetables and fish."
+        },
+        {
+          "letter": "B",
+          "text": "At the library.",
+          "is_correct": false,
+          "feedback": "The library lends books; it does not sell food."
+        },
+        {
+          "letter": "C",
+          "text": "At the school.",
+          "is_correct": false,
+          "feedback": "The school is for learning, not for buying fresh food."
+        },
+        {
+          "letter": "D",
+          "text": "At the park.",
+          "is_correct": false,
+          "feedback": "The park is for recreation and does not sell fruit or fish."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Applying vocabulary about community places to answer a question about shopping.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-5-2026-W10-my-neighborhood-community-places-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W10-my-neighborhood-community-places-001-MASTERY-bundle-v4",
+      "statement": "Which word correctly completes the sentence?",
+      "context": "Pedro describes his neighborhood in Manizales: \"There ___ a big park near my house, and I go there every weekend.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is.",
+          "is_correct": true,
+          "feedback": "\"There is\" is used with a singular noun like \"a big park\"."
+        },
+        {
+          "letter": "B",
+          "text": "are.",
+          "is_correct": false,
+          "feedback": "\"There are\" is used with plural nouns, not with \"a big park\"."
+        },
+        {
+          "letter": "C",
+          "text": "am.",
+          "is_correct": false,
+          "feedback": "\"Am\" is used with the pronoun \"I\", not with \"there\"."
+        },
+        {
+          "letter": "D",
+          "text": "be.",
+          "is_correct": false,
+          "feedback": "\"Be\" is the base form and cannot complete this sentence alone."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Using \"there is\" correctly to describe a singular place in the neighborhood.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-5-2026-W10-my-neighborhood-community-places-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W10-my-neighborhood-community-places-001-MASTERY-bundle-v5",
+      "statement": "Where is the market?",
+      "context": "Read: \"The school is next to the library. The market is across from the park. The hospital is behind the school.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Across from the park.",
+          "is_correct": true,
+          "feedback": "The text states that the market is across from the park."
+        },
+        {
+          "letter": "B",
+          "text": "Next to the library.",
+          "is_correct": false,
+          "feedback": "Next to the library is the school, not the market."
+        },
+        {
+          "letter": "C",
+          "text": "Behind the school.",
+          "is_correct": false,
+          "feedback": "Behind the school is the hospital, according to the text."
+        },
+        {
+          "letter": "D",
+          "text": "Inside the hospital.",
+          "is_correct": false,
+          "feedback": "The text does not place the market inside the hospital."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Applying reading comprehension to locate places using prepositions of place.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-5-2026-W10-my-neighborhood-community-places-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W10-my-neighborhood-community-places-001-MASTERY-bundle-v6",
+      "statement": "Which two places does Ana need to visit, and in which order is it better to go?",
+      "context": "Read: \"Ana needs to return a book and then buy some tomatoes for dinner. She wants to walk only a short distance from her house.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "First the library to return the book, then the market to buy tomatoes.",
+          "is_correct": true,
+          "feedback": "Returning a book happens at the library and buying tomatoes happens at the market."
+        },
+        {
+          "letter": "B",
+          "text": "First the market to return the book, then the library to buy tomatoes.",
+          "is_correct": false,
+          "feedback": "Books are returned at the library and tomatoes are bought at the market, not the reverse."
+        },
+        {
+          "letter": "C",
+          "text": "First the hospital to buy tomatoes, then the park to return the book.",
+          "is_correct": false,
+          "feedback": "Neither buying tomatoes nor returning a book matches these places."
+        },
+        {
+          "letter": "D",
+          "text": "First the school to buy tomatoes, then the library to return the book.",
+          "is_correct": false,
+          "feedback": "Tomatoes are bought at the market, not at the school."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analyzing a simple situation to match errands with the correct community places.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-5-2026-W10-my-neighborhood-community-places-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W10-my-neighborhood-community-places-001-MASTERY-bundle-v7",
+      "statement": "What does this comparison show about community places?",
+      "context": "Compare: \"In a small town in Boyacá, the market is in the main square and everyone knows the sellers. In a big city like Bogotá, the supermarket is far away and people shop quickly.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Community places can be different in small towns and big cities, and they affect how people meet and shop.",
+          "is_correct": true,
+          "feedback": "The text contrasts the close, familiar market with the distant, quick supermarket."
+        },
+        {
+          "letter": "B",
+          "text": "Markets and supermarkets are exactly the same everywhere.",
+          "is_correct": false,
+          "feedback": "The text shows clear differences between the two settings."
+        },
+        {
+          "letter": "C",
+          "text": "In big cities, nobody buys food.",
+          "is_correct": false,
+          "feedback": "The text shows that people in the city shop quickly, so they do buy food."
+        },
+        {
+          "letter": "D",
+          "text": "Small towns have no community places.",
+          "is_correct": false,
+          "feedback": "The text describes a market in the main square of the small town."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analyzing how community places and shopping habits differ between small towns and big cities.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-5-2026-W10-my-neighborhood-community-places-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W10-my-neighborhood-community-places-001-MASTERY-bundle-v8",
+      "statement": "What is the main message of this text?",
+      "context": "Read: 'A neighborhood is more than streets and houses. It has a park where children play, a library where people read, a market where families buy food and a school where children learn. These places help people live together and build a community.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Community places like parks, libraries, markets and schools help people live together.",
+          "is_correct": true,
+          "feedback": "The text explains that these shared places strengthen the community."
+        },
+        {
+          "letter": "B",
+          "text": "Neighborhoods are only streets and houses.",
+          "is_correct": false,
+          "feedback": "The text says a neighborhood is more than streets and houses."
+        },
+        {
+          "letter": "C",
+          "text": "Libraries are the only important place in a neighborhood.",
+          "is_correct": false,
+          "feedback": "The text lists several important places, not only the library."
+        },
+        {
+          "letter": "D",
+          "text": "Children should never play in the park.",
+          "is_correct": false,
+          "feedback": "The text presents the park as a place where children play."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluating the main idea of a short text about the importance of community places.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-5-2026-W10-my-neighborhood-community-places-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

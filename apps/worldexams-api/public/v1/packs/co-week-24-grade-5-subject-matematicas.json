@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-24-grade-5-subject-matematicas",
+    "generated_at": "2026-09-12T15:41:45.216Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-5-2026-W24-multiplicacion-fracciones-problemas-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál expresión representa la cantidad total de queso que compra Valentina?",
+      "context": "En una tienda de Pereira, Valentina compra 3 bolsas con 2/5 de kilogramo de queso cada una.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 ÷ 2/5",
+          "is_correct": false,
+          "feedback": "La división no representa la cantidad total de tres grupos iguales, sino cuántas veces cabe una cantidad en otra."
+        },
+        {
+          "letter": "B",
+          "text": "3 × 2/5",
+          "is_correct": true,
+          "feedback": "Multiplicar el número de bolsas por la fracción de cada bolsa da la cantidad total."
+        },
+        {
+          "letter": "C",
+          "text": "3 + 2/5",
+          "is_correct": false,
+          "feedback": "Sumar 3 y 2/5 mezcla unidades distintas y no representa tres bolsas iguales."
+        },
+        {
+          "letter": "D",
+          "text": "2/5 ÷ 3",
+          "is_correct": false,
+          "feedback": "Esta división repartiría la fracción entre tres, lo contrario de agrupar tres veces."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La cantidad total de varios grupos iguales se obtiene multiplicando el número de grupos por la cantidad de cada grupo. Por eso 3 bolsas de 2/5 de kilogramo se expresan como 3 × 2/5.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-5-2026-W24-multiplicacion-fracciones-problemas-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W24-multiplicacion-fracciones-problemas-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué es correcta esa afirmación?",
+      "context": "Un estudiante afirma que multiplicar 4 × 3/8 es lo mismo que sumar 3/8 + 3/8 + 3/8 + 3/8.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque multiplicar por un número natural equivale a sumar la fracción tantas veces como indica ese número.",
+          "is_correct": true,
+          "feedback": "La multiplicación es una suma repetida del mismo sumando."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el resultado siempre es un número mayor que 4.",
+          "is_correct": false,
+          "feedback": "El resultado 3/2 es menor que 4, así que la afirmación no se basa en eso."
+        },
+        {
+          "letter": "C",
+          "text": "Porque al multiplicar se cambia el denominador de la fracción.",
+          "is_correct": false,
+          "feedback": "Multiplicar por un natural no cambia el denominador en esta operación."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la fracción 3/8 se convierte en 8/3.",
+          "is_correct": false,
+          "feedback": "8/3 es la fracción inversa y no interviene en la suma repetida."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Multiplicar una fracción por un número natural significa sumar esa fracción tantas veces como indique el número. Por eso 4 × 3/8 equivale a sumar 3/8 cuatro veces.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-5-2026-W24-multiplicacion-fracciones-problemas-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W24-multiplicacion-fracciones-problemas-001-MASTERY-bundle-v3",
+      "statement": "¿Cuántas tazas de maíz necesita Ana en total?",
+      "context": "Una receta de arepas necesita 3/4 de taza de maíz por cada porción. Ana prepara 5 porciones para su familia en Neiva.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8/4 de taza.",
+          "is_correct": false,
+          "feedback": "8/4 resultaría de sumar 3/4 + 5, un procedimiento incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "15/20 de taza.",
+          "is_correct": false,
+          "feedback": "15/20 equivale a 3/4, la cantidad de una sola porción."
+        },
+        {
+          "letter": "C",
+          "text": "3/20 de taza.",
+          "is_correct": false,
+          "feedback": "3/20 multiplica los denominadores y no corresponde al total."
+        },
+        {
+          "letter": "D",
+          "text": "15/4 de taza.",
+          "is_correct": true,
+          "feedback": "5 × 3/4 = 15/4, es decir, 3 3/4 tazas de maíz."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para multiplicar una fracción por un número natural se multiplica el numerador por ese número y se conserva el denominador: 5 × 3/4 = 15/4. El resultado puede expresarse como número mixto: 3 3/4.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-5-2026-W24-multiplicacion-fracciones-problemas-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W24-multiplicacion-fracciones-problemas-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la cantidad de agua que se debe usar?",
+      "context": "Un laboratorio de ciencias en Medellín necesita preparar una mezcla usando la mitad de 3/4 de litro de agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6/4 de litro.",
+          "is_correct": false,
+          "feedback": "6/4 resultaría de sumar las fracciones en lugar de multiplicarlas."
+        },
+        {
+          "letter": "B",
+          "text": "4/3 de litro.",
+          "is_correct": false,
+          "feedback": "4/3 es la fracción inversa de 3/4 y no corresponde a la mitad."
+        },
+        {
+          "letter": "C",
+          "text": "3/8 de litro.",
+          "is_correct": true,
+          "feedback": "1/2 × 3/4 = 3/8, pues se multiplican numeradores y denominadores."
+        },
+        {
+          "letter": "D",
+          "text": "1/8 de litro.",
+          "is_correct": false,
+          "feedback": "1/8 resultaría de multiplicar 1/4 × 1/2, no la mitad de 3/4."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para multiplicar dos fracciones se multiplican los numeradores entre sí y los denominadores entre sí: 1/2 × 3/4 = 3/8. La palabra \"de\" suele indicar una multiplicación en estos problemas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-5-2026-W24-multiplicacion-fracciones-problemas-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W24-multiplicacion-fracciones-problemas-001-MASTERY-bundle-v5",
+      "statement": "¿Cuánto debe pagar Don José por su compra?",
+      "context": "En el mercado de Armenia, el kilogramo de tomate cuesta 4000 COP. Don José compra 3/4 de kilogramo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3000 COP.",
+          "is_correct": true,
+          "feedback": "3/4 de 4000 = (4000 ÷ 4) × 3 = 3000 COP."
+        },
+        {
+          "letter": "B",
+          "text": "1000 COP.",
+          "is_correct": false,
+          "feedback": "1000 COP corresponde a 1/4 del kilogramo, no a 3/4."
+        },
+        {
+          "letter": "C",
+          "text": "4000 COP.",
+          "is_correct": false,
+          "feedback": "4000 COP es el precio de un kilogramo completo."
+        },
+        {
+          "letter": "D",
+          "text": "12000 COP.",
+          "is_correct": false,
+          "feedback": "12000 COP resultaría de multiplicar 4000 por 3 sin dividir entre 4."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para hallar una fracción de una cantidad se divide la cantidad entre el denominador y se multiplica por el numerador: 4000 ÷ 4 = 1000 y 1000 × 3 = 3000 COP.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-5-2026-W24-multiplicacion-fracciones-problemas-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W24-multiplicacion-fracciones-problemas-001-MASTERY-bundle-v6",
+      "statement": "¿Qué fracción de kilogramo pesa la porción encargada?",
+      "context": "Una panadería de Bucaramanga vende tortas que pesan 3/4 de kilogramo. Para una fiesta escolar se encargan 2/3 de una torta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5/12 de kilogramo.",
+          "is_correct": false,
+          "feedback": "5/12 proviene de sumar fracciones, pero 2/3 y 3/4 deben multiplicarse."
+        },
+        {
+          "letter": "B",
+          "text": "1/2 de kilogramo.",
+          "is_correct": true,
+          "feedback": "2/3 × 3/4 = 6/12 = 1/2 de kilogramo, cantidad de la torta encargada."
+        },
+        {
+          "letter": "C",
+          "text": "9/8 de kilogramo.",
+          "is_correct": false,
+          "feedback": "9/8 proviene de multiplicar mal los numeradores y los denominadores."
+        },
+        {
+          "letter": "D",
+          "text": "6/8 de kilogramo.",
+          "is_correct": false,
+          "feedback": "6/8 equivale a 3/4, la torta completa, no la porción encargada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando se toma una fracción de otra fracción, se multiplican entre sí: 2/3 de 3/4 es 2/3 × 3/4 = 6/12, que simplificado es 1/2. Analizar el significado de \"de\" ayuda a elegir la operación correcta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-5-2026-W24-multiplicacion-fracciones-problemas-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W24-multiplicacion-fracciones-problemas-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál procedimiento es correcto y por qué?",
+      "context": "Un grupo de estudiantes de Popayán analiza varias formas de calcular 2/5 × 10.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sumar 2/5 + 10 = 52/5, porque se combinan los numeradores.",
+          "is_correct": false,
+          "feedback": "Sumar un número natural con una fracción de distinto denominador no da el producto."
+        },
+        {
+          "letter": "B",
+          "text": "Invertir la fracción y calcular 5/2 × 10 = 25.",
+          "is_correct": false,
+          "feedback": "Invertir la fracción corresponde a otra operación y da un resultado distinto."
+        },
+        {
+          "letter": "C",
+          "text": "Multiplicar 2/5 × 10/10 = 20/50.",
+          "is_correct": false,
+          "feedback": "Multiplicar por 10/10 equivale a multiplicar por 1 y no cambia la cantidad."
+        },
+        {
+          "letter": "D",
+          "text": "Calcular 10 × 2 = 20 y dividir entre 5, obteniendo 4.",
+          "is_correct": true,
+          "feedback": "2/5 de 10 se halla multiplicando 10 por el numerador y dividiendo entre el denominador."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Hallar una fracción de un número natural equivale a dividir el número entre el denominador y multiplicar por el numerador: 10 ÷ 5 = 2 y 2 × 2 = 4. También se puede multiplicar primero 10 × 2 = 20 y luego dividir entre 5.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-MAT-5-2026-W24-multiplicacion-fracciones-problemas-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W24-multiplicacion-fracciones-problemas-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál estudiante presenta el resultado correcto y la justificación adecuada?",
+      "context": "Cuatro estudiantes de Villavicencio proponen resultados para la operación 3/4 × 2/3.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pedro: 5/7, porque se suman los numeradores y los denominadores.",
+          "is_correct": false,
+          "feedback": "5/7 proviene de sumar, no de multiplicar las fracciones."
+        },
+        {
+          "letter": "B",
+          "text": "Luisa: 6/7, porque se multiplican los denominadores y se suman los numeradores.",
+          "is_correct": false,
+          "feedback": "6/7 mezcla operaciones y no corresponde al producto."
+        },
+        {
+          "letter": "C",
+          "text": "Sara: 1/2, porque 3 × 2 = 6 y 4 × 3 = 12, y 6/12 se simplifica.",
+          "is_correct": true,
+          "feedback": "Multiplicar numeradores y denominadores da 6/12, que simplificado es 1/2."
+        },
+        {
+          "letter": "D",
+          "text": "Tomás: 9/8, porque se multiplican numeradores y denominadores en cruz.",
+          "is_correct": false,
+          "feedback": "La multiplicación en cruz no se aplica al producto de fracciones."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El producto de dos fracciones se obtiene multiplicando numeradores entre sí y denominadores entre sí, y luego simplificando cuando sea posible: 3/4 × 2/3 = 6/12 = 1/2.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-5-2026-W24-multiplicacion-fracciones-problemas-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

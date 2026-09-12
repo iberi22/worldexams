@@ -1,0 +1,1851 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-40-grade-11-subject-lectura_critica",
+    "generated_at": "2026-09-12T15:41:45.203Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la función de la tesis en un ensayo argumentativo?",
+      "context": "Sesión de repaso en Bogotá: los estudiantes recuerdan la estructura del ensayo argumentativo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anunciar la postura central que el autor defenderá con razones y evidencias.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la tesis orienta todo el desarrollo del texto argumentativo."
+        },
+        {
+          "letter": "B",
+          "text": "Narrar una anécdota sin relación con el tema.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque una anécdota suelta no cumple la función de sostener una postura."
+        },
+        {
+          "letter": "C",
+          "text": "Listar definiciones sin ningún orden lógico.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el ensayo exige una organización argumentativa coherente."
+        },
+        {
+          "letter": "D",
+          "text": "Cerrar el texto sin ninguna conclusión.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el cierre debe recapitular y reforzar la tesis, no suprimirla."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La tesis es la afirmación que el ensayo se compromete a demostrar. Funciona como una hoja de ruta: indica al lector qué se defiende y permite organizar los argumentos en función de esa postura.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle-v2",
+      "statement": "En poesía contemporánea, la metáfora consiste en:",
+      "context": "Repaso de poesía contemporánea en Medellín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Medir el número exacto de sílabas de un verso.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la métrica es un procedimiento rítmico, no un tropo."
+        },
+        {
+          "letter": "B",
+          "text": "Identificar dos términos distintos para sugerir una semejanza nueva y significativa.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la metáfora acerca dos realidades y crea un sentido inesperado."
+        },
+        {
+          "letter": "C",
+          "text": "Repetir literalmente una palabra al final de cada línea.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la repetición es un recurso fónico distinto de la metáfora."
+        },
+        {
+          "letter": "D",
+          "text": "Citar un texto científico sin modificar una sola palabra.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la cita no constituye una figura literaria."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La metáfora es un tropo que traslada el sentido de un término a otro a partir de una semejanza. En la poesía contemporánea permite explorar asociaciones novedosas y condensar significados que la expresión literal no alcanzaría.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle-v3",
+      "statement": "¿Qué elemento es esencial en un texto teatral?",
+      "context": "Repaso de teatro colombiano en Cali.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El diálogo entre personajes que desarrolla la acción dramática.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el texto teatral se construye principalmente mediante el intercambio de voces."
+        },
+        {
+          "letter": "B",
+          "text": "La descripción detallada del paisaje natural.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el paisaje puede aparecer, pero no es el elemento constitutivo del drama."
+        },
+        {
+          "letter": "C",
+          "text": "Las tablas estadísticas con datos numéricos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ese recurso pertenece a otros géneros, no al teatral."
+        },
+        {
+          "letter": "D",
+          "text": "Las notas al pie de un ensayo académico.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el aparato académico no define al texto dramático."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El teatro se escribe para ser representado y su materia principal es el diálogo: a través de las voces de los personajes se construyen el conflicto, la acción y los caracteres. Las acotaciones complementan, pero el diálogo es el eje.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.87,
+      "bundle_id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle-v4",
+      "statement": "¿Qué caracteriza a la crónica periodística?",
+      "context": "Repaso de crónica periodística en Barranquilla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inventar sucesos sin ninguna base en la realidad.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la crónica parte de hechos reales y verificables."
+        },
+        {
+          "letter": "B",
+          "text": "Narrar hechos reales con recursos literarios y la voz del cronista.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la crónica combina el reporte de la realidad con la elaboración literaria y la perspectiva del autor."
+        },
+        {
+          "letter": "C",
+          "text": "Presentar solo cifras sin ningún tipo de narración.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la crónica se distingue por su dimensión narrativa."
+        },
+        {
+          "letter": "D",
+          "text": "Evitar por completo la presencia del autor.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la voz del cronista es una marca característica del género."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La crónica es un género híbrido: informa sobre hechos reales, pero los cuenta con recursos propios de la literatura, como la descripción, el retrato y el ritmo narrativo. La mirada personal del cronista es parte de su valor, sin renunciar a la verificación.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle-v5",
+      "statement": "En la novela gráfica, ¿qué función cumple la secuencia de viñetas?",
+      "context": "Repaso de novela gráfica en Bucaramanga: se analiza cómo se organiza una página.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Construir el relato articulando imagen y texto en el orden de lectura.",
+          "is_correct": true,
+          "feedback": "Es correcta porque las viñetas encadenan los momentos de la historia mediante el montaje visual y verbal."
+        },
+        {
+          "letter": "B",
+          "text": "Decorar exclusivamente la portada del libro.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las viñetas estructuran todo el relato, no solo la cubierta."
+        },
+        {
+          "letter": "C",
+          "text": "Sustituir por completo al autor de la obra.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el autor concibe la secuencia; la estructura no lo reemplaza."
+        },
+        {
+          "letter": "D",
+          "text": "Indicar el precio de venta del ejemplar.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el precio es un dato comercial, ajeno a la narración."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la novela gráfica, el relato surge del montaje: cada viñeta es una unidad de tiempo y espacio, y su encadenamiento produce el sentido. La relación entre imagen y texto, y la elipsis entre cuadros, son los motores de la narración.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle-v6",
+      "statement": "\"Todos lo dicen, así que es verdad.\" ¿Qué tipo de razonamiento es?",
+      "context": "Repaso de ensayo argumentativo en Pereira: se analiza una falacia frecuente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una prueba científica concluyente.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no se aporta ningún dato ni método de verificación."
+        },
+        {
+          "letter": "B",
+          "text": "Una cita de autoridad verificada.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no se identifica ninguna fuente experta."
+        },
+        {
+          "letter": "C",
+          "text": "Un argumento de falsa mayoría que no aporta evidencia válida.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la cantidad de personas que repiten algo no demuestra su verdad."
+        },
+        {
+          "letter": "D",
+          "text": "Una estadística rigurosa.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"todos\" no es una medida ni una muestra comprobable."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El argumento de falsa mayoría apela al número de quienes sostienen algo como prueba de su verdad. Es una falacia porque la aceptación extendida no sustituye la evidencia: muchas creencias populares pueden ser erróneas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.79,
+      "bundle_id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle-v7",
+      "statement": "Un poema que repite imágenes de lluvia y silencio sugiere:",
+      "context": "Repaso de poesía contemporánea en Manizales: se interpreta el tono de un poema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un tono humorístico y festivo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la lluvia y el silencio no sugieren regocijo."
+        },
+        {
+          "letter": "B",
+          "text": "Un tono melancólico o de introspección.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la insistencia en esas imágenes configura una atmósfera de recogimiento y nostalgia."
+        },
+        {
+          "letter": "C",
+          "text": "Una instrucción técnica para reparar un aparato.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el poema no persigue una finalidad práctica de ese tipo."
+        },
+        {
+          "letter": "D",
+          "text": "Un listado de datos sin ninguna emoción.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la repetición de imágenes es una estrategia expresiva, no un informe."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tono de un poema se construye con las imágenes, el ritmo y la selección léxica. La recurrencia de la lluvia y el silencio crea una atmósfera introspectiva que orienta la interpretación emocional del texto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué el conflicto es fundamental en el teatro?",
+      "context": "Repaso de teatro colombiano en Quibdó: se discute el papel del conflicto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque impulsa la acción y enfrenta fuerzas o voluntades que generan la tensión dramática.",
+          "is_correct": true,
+          "feedback": "Es correcta porque sin conflicto no hay avance de la acción ni interés dramático."
+        },
+        {
+          "letter": "B",
+          "text": "Porque decora el escenario con objetos llamativos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la escenografía es un recurso de puesta en escena, no el conflicto."
+        },
+        {
+          "letter": "C",
+          "text": "Porque evita que los personajes hablen entre sí.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el conflicto se expresa justamente a través del diálogo y la acción."
+        },
+        {
+          "letter": "D",
+          "text": "Porque reemplaza por completo el diálogo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el conflicto no sustituye el diálogo: se desarrolla mediante él."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El conflicto es el motor del drama: enfrenta deseos, intereses o valores y obliga a los personajes a actuar. Esa tensión sostiene la atención del público y da sentido al desarrollo de la obra.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.77,
+      "bundle_id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle-v9",
+      "statement": "El cronista que narra en primera persona y a la vez reporta hechos busca:",
+      "context": "Repaso de crónica periodística en Pasto: se analiza el uso de la primera persona.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inventar los hechos sin comprobarlos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la crónica requiere verificación de lo narrado."
+        },
+        {
+          "letter": "B",
+          "text": "Combinar la cercanía testimonial con la verificación de lo ocurrido.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la voz personal aporta cercanía sin renunciar al reporte de los hechos."
+        },
+        {
+          "letter": "C",
+          "text": "Ocultar por completo su presencia en el texto.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la primera persona hace explícita su presencia."
+        },
+        {
+          "letter": "D",
+          "text": "Escribir un tratado teórico sin contacto con la realidad.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la crónica parte de la experiencia y del reporte de hechos concretos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La primera persona en la crónica cumple una doble función: por un lado, crea cercanía y subjetividad testimonial; por otro, no exime al cronista de verificar los hechos. Ese equilibrio entre voz personal y rigor informativo define al género.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál afirmación se apoya en evidencia verificable?",
+      "context": "Repaso de texto científico en Ibagué: separar evidencia de opinión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Ese químico es aburrido.\"",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque es un juicio personal sin relación con datos."
+        },
+        {
+          "letter": "B",
+          "text": "\"Siempre lo hemos hecho así.\"",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la tradición no es una prueba científica."
+        },
+        {
+          "letter": "C",
+          "text": "\"El estudio midió 500 muestras y halló una concentración promedio de 3 mg/L.\"",
+          "is_correct": true,
+          "feedback": "Es correcta porque describe una medición concreta y comprobable."
+        },
+        {
+          "letter": "D",
+          "text": "\"Me parece que el agua está rara.\"",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque expresa una impresión subjetiva sin medición."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La evidencia verificable se expresa en datos medibles y reproductibles. Las opiniones o costumbres, aunque orienten la intuición, no constituyen prueba. En un texto científico, cada afirmación relevante debe poder rastrearse hasta una medición.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle-v11",
+      "statement": "¿Qué procedimiento permite distinguir hechos históricos de invenciones en una novela histórica?",
+      "context": "Repaso de novela histórica en Santa Marta: se analiza un fragmento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Creer todo lo que dice el narrador.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el narrador puede ser parcial o poco fiable."
+        },
+        {
+          "letter": "B",
+          "text": "Contrastar los sucesos con fuentes historiográficas y reconocer los elementos ficcionales.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la comparación permite separar lo documentado de lo inventado."
+        },
+        {
+          "letter": "C",
+          "text": "Descartar la obra por el simple hecho de ser ficción.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la ficción puede aportar una lectura valiosa del pasado."
+        },
+        {
+          "letter": "D",
+          "text": "Cambiar los nombres para evitar confundirse.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque alterar nombres no constituye un método de análisis."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Leer críticamente una novela histórica implica reconocer su doble naturaleza: se apoya en hechos documentados, pero los transforma con la ficción. Contrastar con la historiografía permite identificar qué pertenece al registro histórico y qué a la invención literaria.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle-v12",
+      "statement": "Cuando el texto de una viñeta dice una cosa y la imagen sugiere la contraria, se produce:",
+      "context": "Repaso de novela gráfica en Cartagena: texto e imagen se contradicen en una viñeta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una ironía o contrapunto que exige interpretar la tensión entre ambos códigos.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el contraste entre palabra e imagen genera un sentido que ninguno expresa por separado."
+        },
+        {
+          "letter": "B",
+          "text": "Un error de imprenta inevitable.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la tensión suele ser deliberada y significativa."
+        },
+        {
+          "letter": "C",
+          "text": "Una repetición inútil de la misma idea.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque, si se contradicen, no hay repetición, sino contraste."
+        },
+        {
+          "letter": "D",
+          "text": "La ausencia total de significado.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el contraste produce precisamente un nuevo sentido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la novela gráfica, imagen y texto pueden cooperar o tensionarse. Cuando se contradicen, surge la ironía o el contrapunto: el lector debe integrar ambos códigos para construir un significado que supera al de cada uno por separado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.69,
+      "bundle_id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle-v13",
+      "statement": "Un editorial omite datos que contradicen su tesis. ¿Cómo se evalúa esa práctica?",
+      "context": "Repaso de editorial en Bogotá: se detecta una omisión deliberada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una estrategia recomendable de persuasión.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la persuasión legítima se apoya en argumentos, no en ocultar información."
+        },
+        {
+          "letter": "B",
+          "text": "Sesga la argumentación al ocultar información relevante y debilita su credibilidad.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la omisión interesada manipula al lector y resta solidez al texto."
+        },
+        {
+          "letter": "C",
+          "text": "Es obligatoria en todo editorial.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ningún editorial riguroso tiene el deber de ocultar datos."
+        },
+        {
+          "letter": "D",
+          "text": "No afecta en nada la interpretación del lector.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la selección de datos condiciona de manera directa la lectura."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un editorial sólido reconoce los datos que no favorecen su tesis y los responde. Ocultarlos constituye un sesgo que engaña al lector y deteriora la credibilidad del medio. La honestidad informativa es condición de una opinión legítima.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle-v14",
+      "statement": "¿Qué evidencia un ensayo cuya conclusión contradice su tesis inicial?",
+      "context": "Repaso de ensayo argumentativo en Neiva: se detecta una incoherencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una falla de coherencia argumentativa entre las partes del texto.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el cierre debe guardar relación lógica con la postura anunciada al comienzo."
+        },
+        {
+          "letter": "B",
+          "text": "Una muestra de gran rigor lógico.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la contradicción interna es un defecto, no una virtud."
+        },
+        {
+          "letter": "C",
+          "text": "Un uso correcto de los conectores argumentativos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los conectores no corrigen una contradicción de fondo."
+        },
+        {
+          "letter": "D",
+          "text": "La mejor forma de argumentar.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque un texto que se contradice pierde fuerza y claridad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La coherencia argumentativa exige que tesis, desarrollo y conclusión formen un conjunto consistente. Si la conclusión contradice la tesis, el ensayo se desmorona, pues el lector no puede reconstruir una postura única.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.67,
+      "bundle_id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle-v15",
+      "statement": "Una crónica mezcla testimonios anónimos con documentos oficiales. ¿Qué precaución debe tomar el lector?",
+      "context": "Repaso de crónica periodística en Armenia: se mezclan testimonios anónimos y documentos oficiales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aceptar todo por igual, sin distinciones.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las fuentes no tienen el mismo valor probatorio."
+        },
+        {
+          "letter": "B",
+          "text": "Distinguir el valor probatorio de cada fuente y no equiparar el rumor con el documento verificado.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el documento oficial y el testimonio anónimo ofrecen grados distintos de confiabilidad."
+        },
+        {
+          "letter": "C",
+          "text": "Ignorar por completo todos los testimonios.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los testimonios pueden aportar información valiosa, aunque requieran verificación."
+        },
+        {
+          "letter": "D",
+          "text": "Suponer que los documentos son siempre falsos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque esa presunción es tan infundada como creerlos ciegamente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "No todas las fuentes tienen el mismo peso: un documento verificable y un testimonio anónimo aportan grados distintos de confianza. El lector crítico pondera esa diferencia y evita tratar el rumor como si fuera prueba documental.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle-v16",
+      "statement": "¿Qué efecto produce el encabalgamiento en un poema?",
+      "context": "Repaso de poesía contemporánea en Villavicencio: se analiza el efecto del encabalgamiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Terminar siempre la idea al final de la misma línea.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el encabalgamiento consiste precisamente en no terminar ahí."
+        },
+        {
+          "letter": "B",
+          "text": "Tensar el ritmo al continuar la idea en el verso siguiente, creando suspenso o énfasis.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el corte inesperado obliga a leer con atención y subraya el sentido."
+        },
+        {
+          "letter": "C",
+          "text": "Eliminar por completo la rima y el ritmo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el encabalgamiento es un recurso rítmico, no su anulación."
+        },
+        {
+          "letter": "D",
+          "text": "Convertir el poema en prosa informativa.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el poema conserva su condición versal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El encabalgamiento se produce cuando la unidad sintáctica no coincide con la unidad del verso y continúa en el siguiente. Este desajuste crea tensión rítmica y puede subrayar una palabra o una idea, orientando la lectura del poema.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle-v17",
+      "statement": "Una obra teatral representa la violencia y deja finales abiertos sin moraleja. ¿Cómo se interpreta mejor esa elección?",
+      "context": "Repaso de teatro colombiano en Medellín: una obra deja finales abiertos sin moraleja.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Invita al espectador a asumir una posición crítica en lugar de ofrecer respuestas cerradas.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el final abierto traslada al público la responsabilidad de interpretar y juzgar."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que el autor no tenía nada que decir.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el final abierto es una decisión estética deliberada que exige la participación del público."
+        },
+        {
+          "letter": "C",
+          "text": "Indica un error de escritura sin ninguna intención.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las obras abiertas responden a una dramaturgia consciente."
+        },
+        {
+          "letter": "D",
+          "text": "Obliga a concluir que la violencia es inevitable.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el final abierto no impone esa conclusión: la somete a discusión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El final abierto es un recurso de la dramaturgia moderna: en lugar de clausurar el sentido con una moraleja, exige que el espectador elabore su propia interpretación. En una obra sobre la violencia, esa apertura convierte al público en interlocutor activo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál postura defiende mejor el aporte de la novela histórica a la memoria?",
+      "context": "Repaso de novela histórica en Tunja: se debate su aporte a la memoria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debe sustituir por completo a la historiografía.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la ficción no reemplaza el trabajo de la disciplina histórica."
+        },
+        {
+          "letter": "B",
+          "text": "Ofrece una dimensión simbólica y humana que complementa, sin reemplazar, el rigor del relato histórico.",
+          "is_correct": true,
+          "feedback": "Es correcta porque articula el valor de la ficción con el respeto por el conocimiento histórico."
+        },
+        {
+          "letter": "C",
+          "text": "Carece de cualquier valor para comprender el pasado.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la ficción histórica ha contribuido a la reflexión sobre la memoria colectiva."
+        },
+        {
+          "letter": "D",
+          "text": "Solo sirve como entretenimiento sin consecuencias.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque muchas novelas históricas han intervenido en debates públicos sobre el pasado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La novela histórica no compite con la historiografía: aporta una experiencia simbólica y humana del pasado. Esa dimensión complementa el rigor del relato histórico y enriquece la memoria colectiva, siempre que se reconozcan sus límites ficcionales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.59,
+      "bundle_id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle-v19",
+      "statement": "¿Qué actitud define a un lector crítico de las columnas de opinión?",
+      "context": "Repaso de editorial en Bogotá: se define la actitud del lector crítico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Creer todo lo que se publica sin examinarlo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la credulidad impide detectar sesgos y falacias."
+        },
+        {
+          "letter": "B",
+          "text": "Identificar la tesis, evaluar los argumentos y detectar sesgos e ironías antes de aceptar lo leído.",
+          "is_correct": true,
+          "feedback": "Es correcta porque esas operaciones permiten formar un juicio autónomo y fundamentado."
+        },
+        {
+          "letter": "C",
+          "text": "Rechazar toda opinión sin leerla.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el rechazo previo impide comprender y valorar los argumentos."
+        },
+        {
+          "letter": "D",
+          "text": "Leer únicamente el titular.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el titular es una síntesis orientada que no reemplaza la lectura del texto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La lectura crítica de la opinión periodística combina varias operaciones: localizar la tesis, ponderar los argumentos y reconocer los recursos retóricos, como la ironía o el sesgo. Solo así el lector forma un criterio propio en lugar de adoptar el del columnista.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle-v20",
+      "statement": "¿Qué síntesis expresa mejor la naturaleza del conocimiento científico?",
+      "context": "Repaso final en Aracataca: síntesis sobre la naturaleza del conocimiento científico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un conjunto de verdades absolutas e inmutables.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la ciencia revisa y corrige sus conclusiones a la luz de nueva evidencia."
+        },
+        {
+          "letter": "B",
+          "text": "Es un saber provisional y autocorrectivo que avanza mediante evidencias, revisión y reconocimiento de sus límites.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la ciencia se define por su método y su apertura a la revisión, no por certezas definitivas."
+        },
+        {
+          "letter": "C",
+          "text": "Es una opinión personal sin ningún método.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la ciencia se apoya en procedimientos sistemáticos y verificables."
+        },
+        {
+          "letter": "D",
+          "text": "Es un saber que no admite ninguna crítica.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la crítica y la revisión son condiciones del conocimiento científico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El conocimiento científico es provisional y autocorrectivo: avanza mediante hipótesis, evidencias y revisión permanente. Reconocer sus límites no lo debilita; al contrario, es la señal de su rigor y de su diferencia frente a los dogmas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.57,
+      "bundle_id": "CO-LC-11-2026-W40-repaso-final-p4-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle-v1",
+      "statement": "En un texto narrativo, el \"núcleo\" o \"hecho narrado\" se refiere a:",
+      "context": "En un simulacro Saber 11 en Bogotá, se presenta un fragmento narrativo corto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El evento central que organiza la historia y desencadena la trama.",
+          "is_correct": true,
+          "feedback": "Es el motor del relato."
+        },
+        {
+          "letter": "B",
+          "text": "El nombre del personaje principal.",
+          "is_correct": false,
+          "feedback": "Es dato, no núcleo."
+        },
+        {
+          "letter": "C",
+          "text": "El número de capítulos del libro.",
+          "is_correct": false,
+          "feedback": "Es estructura."
+        },
+        {
+          "letter": "D",
+          "text": "La ciudad donde ocurre la acción.",
+          "is_correct": false,
+          "feedback": "Es contexto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificar el núcleo narrativo es clave para comprender la estructura del relato.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la función principal de la \"tesis\" en un texto argumentativo?",
+      "context": "En el mismo simulacro en Medellín, se incluye un texto argumentativo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Expresar la idea central que el autor defiende con razones.",
+          "is_correct": true,
+          "feedback": "Es el eje argumental."
+        },
+        {
+          "letter": "B",
+          "text": "Relatar hechos sin interpretación.",
+          "is_correct": false,
+          "feedback": "Es narración."
+        },
+        {
+          "letter": "C",
+          "text": "Describir personajes en detalle.",
+          "is_correct": false,
+          "feedback": "Es literatura."
+        },
+        {
+          "letter": "D",
+          "text": "Presentar datos estadísticos sin postura.",
+          "is_correct": false,
+          "feedback": "No hay postura."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La tesis articula la postura del autor y orienta la lectura crítica del argumento.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.89,
+      "bundle_id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle-v3",
+      "statement": "¿Qué caracteriza a un texto expositivo?",
+      "context": "En el simulacro en Cali, se trabaja con un texto expositivo sobre el cambio climático.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Su propósito es informar y explicar un tema con claridad y orden.",
+          "is_correct": true,
+          "feedback": "Predomina la función referencial."
+        },
+        {
+          "letter": "B",
+          "text": "Su intención es entretener exclusivamente.",
+          "is_correct": false,
+          "feedback": "Es informativo."
+        },
+        {
+          "letter": "C",
+          "text": "Predomina la opinión sin datos.",
+          "is_correct": false,
+          "feedback": "Aporta datos."
+        },
+        {
+          "letter": "D",
+          "text": "Carece de estructura.",
+          "is_correct": false,
+          "feedback": "Está organizado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El texto expositivo organiza información para ampliar el conocimiento del lector.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle-v4",
+      "statement": "En un texto poético, la voz que habla desde el \"yo\" se denomina:",
+      "context": "En el simulacro en Barranquilla, aparece un soneto de Sor Juana Inés de la Cruz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yo lírico, instancia enunciativa que expresa emociones y percepciones.",
+          "is_correct": true,
+          "feedback": "Es la voz del poema."
+        },
+        {
+          "letter": "B",
+          "text": "Narrador omnisciente.",
+          "is_correct": false,
+          "feedback": "No narra."
+        },
+        {
+          "letter": "C",
+          "text": "Personaje histórico real.",
+          "is_correct": false,
+          "feedback": "Es construcción."
+        },
+        {
+          "letter": "D",
+          "text": "Autor sin más.",
+          "is_correct": false,
+          "feedback": "Es ficción lírica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El yo lírico es una construcción enunciativa propia del discurso poético.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.87,
+      "bundle_id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle-v5",
+      "statement": "En un microcuento, el efecto de la elipsis narrativa se logra al:",
+      "context": "En el simulacro en Cartagena, se lee un microcuento de Augusto Monterroso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Omitir información clave que el lector debe reconstruir.",
+          "is_correct": true,
+          "feedback": "La elipsis es esencial."
+        },
+        {
+          "letter": "B",
+          "text": "Explicarlo todo sin dejar espacio al lector.",
+          "is_correct": false,
+          "feedback": "Es lo contrario."
+        },
+        {
+          "letter": "C",
+          "text": "Extender la acción innecesariamente.",
+          "is_correct": false,
+          "feedback": "Condensa."
+        },
+        {
+          "letter": "D",
+          "text": "Evitar todo conflicto.",
+          "is_correct": false,
+          "feedback": "Lo concentra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La elipsis activa la cooperación interpretativa del lector en textos breves.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle-v6",
+      "statement": "En una columna de opinión, identificar el \"contraargumento\" anticipado por el autor permite:",
+      "context": "En el simulacro en Bucaramanga, se presenta una columna de opinión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reconocer la estrategia de refutación previa que fortalece la postura propia.",
+          "is_correct": true,
+          "feedback": "Es un gesto dialógico."
+        },
+        {
+          "letter": "B",
+          "text": "Cambiar la postura del autor.",
+          "is_correct": false,
+          "feedback": "No la cambia."
+        },
+        {
+          "letter": "C",
+          "text": "Evitar la argumentación.",
+          "is_correct": false,
+          "feedback": "La refuerza."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituir la tesis por anécdotas.",
+          "is_correct": false,
+          "feedback": "Las integra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Anticipar objeciones robustece el argumento y muestra dominio del debate.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.77,
+      "bundle_id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle-v7",
+      "statement": "En un texto expositivo, el uso predominante de oraciones declarativas, tercera persona y léxico técnico se debe a:",
+      "context": "En el simulacro en Pereira, se trabaja con un texto expositivo sobre biodiversidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La necesidad de objetividad, precisión y verificabilidad informativa.",
+          "is_correct": true,
+          "feedback": "Recursos típicos del registro expositivo."
+        },
+        {
+          "letter": "B",
+          "text": "El deseo de confundir al lector.",
+          "is_correct": false,
+          "feedback": "Busca claridad."
+        },
+        {
+          "letter": "C",
+          "text": "El ánimo de entretener con humor.",
+          "is_correct": false,
+          "feedback": "Predomina información."
+        },
+        {
+          "letter": "D",
+          "text": "La ausencia de intención comunicativa.",
+          "is_correct": false,
+          "feedback": "Comunica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El registro expositivo privilegia la claridad, la neutralidad y la precisión.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle-v8",
+      "statement": "En un poema de Benedetti, versos como \"no te salves, / no te quedes en la orilla\" construyen principalmente:",
+      "context": "En el simulacro en Tunja, se incluye un texto poético de Mario Benedetti.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una exhortación ética dirigida a un tú, con tono de llamado al compromiso.",
+          "is_correct": true,
+          "feedback": "Es un apóstrofe."
+        },
+        {
+          "letter": "B",
+          "text": "Una narración objetiva de hechos.",
+          "is_correct": false,
+          "feedback": "Es lírica."
+        },
+        {
+          "letter": "C",
+          "text": "Una descripción paisajística.",
+          "is_correct": false,
+          "feedback": "Es apelativa."
+        },
+        {
+          "letter": "D",
+          "text": "Un manual de instrucciones.",
+          "is_correct": false,
+          "feedback": "Es ética."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El apóstrofe refuerza la fuerza pragmática del poema al involucrar al lector.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle-v9",
+      "statement": "En un relato con narrador infantil, frases como \"yo no entendía por qué los grandes discutían\" tienen como efecto principal:",
+      "context": "En el simulacro en Cúcuta, se lee un fragmento narrativo con foco infantil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Restringir la información al horizonte del niño, generando ambigüedad y empatía.",
+          "is_correct": true,
+          "feedback": "Es focalización interna."
+        },
+        {
+          "letter": "B",
+          "text": "Ofrecer información completa y objetiva.",
+          "is_correct": false,
+          "feedback": "Limita el saber."
+        },
+        {
+          "letter": "C",
+          "text": "Sustituir al personaje adulto.",
+          "is_correct": false,
+          "feedback": "Es punto de vista."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminar toda emoción.",
+          "is_correct": false,
+          "feedback": "La activa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La focalización infantil condiciona el saber narrativo y activa la empatía del lector.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle-v10",
+      "statement": "¿Qué requisito debe cumplir un argumento sólido sobre educación pública en Colombia?",
+      "context": "En el simulacro en Manizales, se evalúa la solidez de un argumento sobre educación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Combinar evidencia verificable, razonamiento válido y pertinencia con el contexto.",
+          "is_correct": true,
+          "feedback": "Es la base de solidez."
+        },
+        {
+          "letter": "B",
+          "text": "Apoyarse solo en opiniones personales.",
+          "is_correct": false,
+          "feedback": "Falta evidencia."
+        },
+        {
+          "letter": "C",
+          "text": "Evitar datos cuantitativos.",
+          "is_correct": false,
+          "feedback": "Son útiles."
+        },
+        {
+          "letter": "D",
+          "text": "Usar lenguaje técnico sin explicación.",
+          "is_correct": false,
+          "feedback": "Reduce claridad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La solidez argumentativa exige evidencia, razonamiento y contextualización.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle-v11",
+      "statement": "Dos columnas que defienden posturas opuestas sobre el sistema de salud comparten, sin embargo, el recurso de:",
+      "context": "En el simulacro en Popayán, se contrastan dos columnas sobre el sistema de salud.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apelar a datos oficiales y a la experiencia cotidiana de los usuarios.",
+          "is_correct": true,
+          "feedback": "Comparten fuentes de legitimación."
+        },
+        {
+          "letter": "B",
+          "text": "] Omitir todo dato verificable.",
+          "is_correct": false,
+          "feedback": "Lo comparten."
+        },
+        {
+          "letter": "C",
+          "text": "] Evitar el lenguaje claro.",
+          "is_correct": false,
+          "feedback": "Buscan claridad."
+        },
+        {
+          "letter": "D",
+          "text": "Escribir sin público objetivo.",
+          "is_correct": false,
+          "feedback": "Tienen audiencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las posturas opuestas suelen coincidir en el uso de fuentes de legitimación discursiva.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle-v12",
+      "statement": "Al analizar una infografía sobre migración en Colombia, se debe atender principalmente a:",
+      "context": "En el simulacro en Bogotá, se interpreta una infografía sobre migración.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La relación entre texto, imagen y datos cuantitativos para construir sentido.",
+          "is_correct": true,
+          "feedback": "Es lectura multimodal."
+        },
+        {
+          "letter": "B",
+          "text": "La marca de la imprenta.",
+          "is_correct": false,
+          "feedback": "Irrelevante."
+        },
+        {
+          "letter": "C",
+          "text": "El número de colores usados.",
+          "is_correct": false,
+          "feedback": "Es dato formal."
+        },
+        {
+          "letter": "D",
+          "text": "El tipo de papel.",
+          "is_correct": false,
+          "feedback": "No aporta contenido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La infografía articula códigos verbales y visuales para producir conocimiento integrado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle-v13",
+      "statement": "En una columna política, decir \"elogiamos al gobierno por su transparencia, sobre todo cuando los contratos quedan en la penumbra\" implica principalmente:",
+      "context": "En el simulacro en Ibagué, se estudia la ironía en una columna política.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ironía verbal: se enuncia lo contrario de lo que se critica.",
+          "is_correct": true,
+          "feedback": "Es ironía retórica."
+        },
+        {
+          "letter": "B",
+          "text": "Un elogio sincero.",
+          "is_correct": false,
+          "feedback": "Es crítica."
+        },
+        {
+          "letter": "C",
+          "text": "Una descripción neutral.",
+          "is_correct": false,
+          "feedback": "Hay juicio."
+        },
+        {
+          "letter": "D",
+          "text": "] Un dato estadístico.",
+          "is_correct": false,
+          "feedback": "Es opinión irónica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ironía verbal es clave para criticar sin enunciar abiertamente la denuncia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.63,
+      "bundle_id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle-v14",
+      "statement": "En un relato que alterna presente y recuerdos del protagonista, la función principal del flashback es:",
+      "context": "En el simulacro en Santa Marta, se lee un texto narrativo con saltos temporales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aportar información del pasado que explica el presente del personaje.",
+          "is_correct": true,
+          "feedback": "Enriquece la historia."
+        },
+        {
+          "letter": "B",
+          "text": "Confundir al lector sin propósito.",
+          "is_correct": false,
+          "feedback": "Tiene intención."
+        },
+        {
+          "letter": "C",
+          "text": "Eliminar la trama principal.",
+          "is_correct": false,
+          "feedback": "La complementa."
+        },
+        {
+          "letter": "D",
+          "text": "Cambiar al narrador en cada línea.",
+          "is_correct": false,
+          "feedback": "Es orden temporal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El flashback integra pasado y presente para profundizar la motivación del personaje.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle-v15",
+      "statement": "Un texto argumentativo que alterna largas explicaciones con párrafos breves de conclusión tiende a:",
+      "context": "En el simulacro en Neiva, se compara la sintaxis de dos textos argumentativos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dosificar la información y facilitar la retención de la idea central.",
+          "is_correct": true,
+          "feedback": "Equilibra análisis y síntesis."
+        },
+        {
+          "letter": "B",
+          "text": "Confundir al lector.",
+          "is_correct": false,
+          "feedback": "Estructura la lectura."
+        },
+        {
+          "letter": "C",
+          "text": "Evitar la conclusión.",
+          "is_correct": false,
+          "feedback": "La asegura."
+        },
+        {
+          "letter": "D",
+          "text": "Mostrar desorden.",
+          "is_correct": false,
+          "feedback": "Hay orden."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La alternancia sintáctica organiza el discurso argumentativo y favorece la comprensión.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.61,
+      "bundle_id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle-v16",
+      "statement": "¿Qué indicador muestra mayor calidad en un ensayo crítico sobre medio ambiente?",
+      "context": "En el simulacro en Pasto, se evalúa un ensayo sobre medio ambiente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Articulación de tesis, argumentos con evidencia y conclusiones derivadas.",
+          "is_correct": true,
+          "feedback": "Es la estructura básica del ensayo crítico."
+        },
+        {
+          "letter": "B",
+          "text": "Cantidad de páginas sin importar contenido.",
+          "is_correct": false,
+          "feedback": "Es dato cuantitativo."
+        },
+        {
+          "letter": "C",
+          "text": "Exceso de citas sin parafraseo.",
+          "is_correct": false,
+          "feedback": "Falta autoría."
+        },
+        {
+          "letter": "D",
+          "text": "Ausencia de postura.",
+          "is_correct": false,
+          "feedback": "Es un ensayo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El ensayo crítico combina postura personal, argumentos con evidencia y conclusiones claras.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle-v17",
+      "statement": "¿Qué estrategia de lectura es más eficaz para un examen Saber 11 de lectura crítica?",
+      "context": "En un cierre en Bogotá, se reflexiona sobre el desempeño en el simulacro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Identificar el tipo de texto, localizar la tesis o núcleo y evaluar la consistencia argumentativa.",
+          "is_correct": true,
+          "feedback": "Ordena el análisis."
+        },
+        {
+          "letter": "B",
+          "text": "Leer sin subrayar ni tomar notas.",
+          "is_correct": false,
+          "feedback": "Reduce precisión."
+        },
+        {
+          "letter": "C",
+          "text": "Confiar solo en la intuición sin evidencias.",
+          "is_correct": false,
+          "feedback": "Falta rigor."
+        },
+        {
+          "letter": "D",
+          "text": "Evitar la relectura del texto.",
+          "is_correct": false,
+          "feedback": "Es útil."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una estrategia sistemática mejora el rendimiento en comprensión lectora crítica.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle-v18",
+      "statement": "¿Qué criterio define mejor la pertinencia de un texto para una prueba Saber 11?",
+      "context": "En el cierre en Medellín, se analiza la pertinencia de los textos del simulacro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Su calidad literaria, su valor cívico y su capacidad para activar reflexión crítica.",
+          "is_correct": true,
+          "feedback": "Es pertinente si enseña a leer críticamente."
+        },
+        {
+          "letter": "B",
+          "text": "Su extensión sin importar contenido.",
+          "is_correct": false,
+          "feedback": "Es dato cuantitativo."
+        },
+        {
+          "letter": "C",
+          "text": "Su carácter meramente informativo.",
+          "is_correct": false,
+          "feedback": "Falta dimensión crítica."
+        },
+        {
+          "letter": "D",
+          "text": "Su anonimato autoral.",
+          "is_correct": false,
+          "feedback": "No define calidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pertinencia combina calidad textual, relevancia social y exigencia interpretativa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.53,
+      "bundle_id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle-v19",
+      "statement": "¿Qué nivel de comprensión demuestra un estudiante que puede conectar un texto con su contexto y emitir un juicio fundamentado?",
+      "context": "En el cierre en Cali, se evalúa la comprensión lograda por los estudiantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comprensión crítica e interpretativa.",
+          "is_correct": true,
+          "feedback": "Integra contexto, contenido y valoración."
+        },
+        {
+          "letter": "B",
+          "text": "Solo comprensión literal.",
+          "is_correct": false,
+          "feedback": "Es nivel inicial."
+        },
+        {
+          "letter": "C",
+          "text": "Comprensión mecánica.",
+          "is_correct": false,
+          "feedback": "Falta reflexión."
+        },
+        {
+          "letter": "D",
+          "text": "Memorización de datos sueltos.",
+          "is_correct": false,
+          "feedback": "No interpreta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La lectura crítica integra comprensión literal, inferencial y valorativa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.51,
+      "bundle_id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es el aporte más importante de la lectura crítica a la formación ciudadana de los jóvenes colombianos?",
+      "context": "En el cierre final en Cartagena, se reflexiona sobre la lectura crítica como competencia ciudadana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desarrollar la autonomía interpretativa, el juicio fundamentado y la participación informada.",
+          "is_correct": true,
+          "feedback": "Es formación para la vida pública."
+        },
+        {
+          "letter": "B",
+          "text": "Memorizar datos sin análisis.",
+          "is_correct": false,
+          "feedback": "Falta profundidad."
+        },
+        {
+          "letter": "C",
+          "text": "Evitar leer textos complejos.",
+          "is_correct": false,
+          "feedback": "Los aborda."
+        },
+        {
+          "letter": "D",
+          "text": "Aceptar acríticamente toda información.",
+          "is_correct": false,
+          "feedback": "Es lo contrario."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La lectura crítica forma ciudadanas y ciudadanos capaces de deliberar con argumentos y evidencia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Textual",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-2026-W40-simulacro-cierre-saber11-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

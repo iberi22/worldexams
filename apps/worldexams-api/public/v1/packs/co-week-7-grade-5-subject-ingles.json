@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-7-grade-5-subject-ingles",
+    "generated_at": "2026-09-12T15:41:45.194Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-5-2026-W07-clothes-and-seasons-001-MASTERY-bundle-v1",
+      "statement": "Which word in English names the piece of clothing you wear to keep warm on cold Bogota mornings?",
+      "context": "On a cold morning in Bogota, a girl puts on a warm jacket before going to school.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Jacket.",
+          "is_correct": true,
+          "feedback": "A jacket is a warm outer piece of clothing worn in cold weather."
+        },
+        {
+          "letter": "B",
+          "text": "Shorts.",
+          "is_correct": false,
+          "feedback": "Shorts are short pants worn in hot weather, not in cold weather."
+        },
+        {
+          "letter": "C",
+          "text": "Sandals.",
+          "is_correct": false,
+          "feedback": "Sandals are open shoes for hot days, not for cold mornings."
+        },
+        {
+          "letter": "D",
+          "text": "Cap.",
+          "is_correct": false,
+          "feedback": "A cap protects from the sun, but it does not keep the body warm."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identifying basic clothes vocabulary by its use in cold weather in English (jacket, shorts, sandals, cap).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-5-2026-W07-clothes-and-seasons-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W07-clothes-and-seasons-001-MASTERY-bundle-v2",
+      "statement": "Why does Laura wear a T-shirt and shorts?",
+      "context": "Read: \"It is a sunny day in Cartagena. Laura wears a T-shirt and shorts because it is very hot.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Because it is a sunny and very hot day in Cartagena.",
+          "is_correct": true,
+          "feedback": "The text directly states that the sunny hot weather is the reason for her clothes."
+        },
+        {
+          "letter": "B",
+          "text": "Because it is a cold morning with rain.",
+          "is_correct": false,
+          "feedback": "Cold and rain are not mentioned; the day is described as sunny and hot."
+        },
+        {
+          "letter": "C",
+          "text": "Because she goes to swim in a cold river.",
+          "is_correct": false,
+          "feedback": "Swimming in a river is not mentioned in the passage."
+        },
+        {
+          "letter": "D",
+          "text": "Because she likes winter and snow.",
+          "is_correct": false,
+          "feedback": "Winter and snow are not part of the Cartagena context."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Inferring the reason for wearing certain clothes from a short descriptive text in English.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-5-2026-W07-clothes-and-seasons-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W07-clothes-and-seasons-001-MASTERY-bundle-v3",
+      "statement": "Which sentence correctly describes what the boy does using the Simple Present?",
+      "context": "It is the rainy season in Medellin. A boy looks at the dark clouds and takes his umbrella.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He takes his umbrella because it is the rainy season.",
+          "is_correct": true,
+          "feedback": "\"Takes\" agrees with the third person singular subject \"he\"."
+        },
+        {
+          "letter": "B",
+          "text": "He take his umbrella because it is the rainy season.",
+          "is_correct": false,
+          "feedback": "\"Take\" without -s is incorrect with \"he\" in Simple Present."
+        },
+        {
+          "letter": "C",
+          "text": "He taking his umbrella because it is the rainy season.",
+          "is_correct": false,
+          "feedback": "\"Taking\" is a gerund and needs an auxiliary verb in this construction."
+        },
+        {
+          "letter": "D",
+          "text": "He takes his umbrellas because it is the rainy season.",
+          "is_correct": false,
+          "feedback": "\"Umbrellas\" in plural is incorrect; he takes one umbrella."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Using the verb \"take\" with the third person singular to describe clothes and objects for rainy weather in English.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.76,
+      "bundle_id": "CO-ING-5-2026-W07-clothes-and-seasons-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W07-clothes-and-seasons-001-MASTERY-bundle-v4",
+      "statement": "Choose the correct imperative sentence that follows this advice.",
+      "context": "A teacher in Cali says: \"Put on your boots before you walk in the rain.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Put on your boots before going out in the rain.",
+          "is_correct": true,
+          "feedback": "The imperative base form \"put\" gives a direct instruction to the listener."
+        },
+        {
+          "letter": "B",
+          "text": "You puts on your boots before going out in the rain.",
+          "is_correct": false,
+          "feedback": "The imperative does not use a subject or the -s form of the verb."
+        },
+        {
+          "letter": "C",
+          "text": "Putting on your boots before going out in the rain.",
+          "is_correct": false,
+          "feedback": "\"Putting\" is a gerund; imperatives use the base form of the verb."
+        },
+        {
+          "letter": "D",
+          "text": "To put on your boots before going out in the rain.",
+          "is_correct": false,
+          "feedback": "The infinitive form is not used as an imperative command."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Giving simple weather-related instructions using the imperative form in English.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-5-2026-W07-clothes-and-seasons-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W07-clothes-and-seasons-001-MASTERY-bundle-v5",
+      "statement": "Which sentence correctly expresses a reason using \"because\"?",
+      "context": "A student writes about his morning: \"I wear a sweater because it is very cold in Bogota today.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He wears a sweater because it is very cold in Bogota today.",
+          "is_correct": true,
+          "feedback": "\"Because\" introduces a clear cause-effect relationship in the present simple."
+        },
+        {
+          "letter": "B",
+          "text": "He wears a sweater but it is very cold in Bogota today.",
+          "is_correct": false,
+          "feedback": "\"But\" expresses contrast, not the reason for wearing a sweater."
+        },
+        {
+          "letter": "C",
+          "text": "He wears a sweater so it is very cold in Bogota today.",
+          "is_correct": false,
+          "feedback": "The logic is reversed: the cold weather causes him to wear a sweater."
+        },
+        {
+          "letter": "D",
+          "text": "He wears a sweater because it is very hot in Cartagena today.",
+          "is_correct": false,
+          "feedback": "Hot weather contradicts wearing a sweater and the Bogota context."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Using \"because\" to connect weather causes and clothing choices in English.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.66,
+      "bundle_id": "CO-ING-5-2026-W07-clothes-and-seasons-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W07-clothes-and-seasons-001-MASTERY-bundle-v6",
+      "statement": "What does Sofia pack for each city?",
+      "context": "Read: \"Sofia packs a suitcase for Cartagena: T-shirts, shorts, and sandals. For Bogota she packs a jacket, a sweater, and boots.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Light clothes for hot Cartagena and warm clothes for cold Bogota.",
+          "is_correct": true,
+          "feedback": "The text lists T-shirts and shorts for Cartagena and jacket, sweater and boots for Bogota."
+        },
+        {
+          "letter": "B",
+          "text": "A jacket and boots for Cartagena and shorts for Bogota.",
+          "is_correct": false,
+          "feedback": "The suitcase lists are reversed; warm clothes are for Bogota, not Cartagena."
+        },
+        {
+          "letter": "C",
+          "text": "Only an umbrella for both cities.",
+          "is_correct": false,
+          "feedback": "An umbrella is not mentioned in her suitcase lists."
+        },
+        {
+          "letter": "D",
+          "text": "The same winter coat for both cities.",
+          "is_correct": false,
+          "feedback": "She packs different clothes because the weather in each city is different."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identifying appropriate clothes for different Colombian climates from a short descriptive paragraph in English.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.58,
+      "bundle_id": "CO-ING-5-2026-W07-clothes-and-seasons-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W07-clothes-and-seasons-001-MASTERY-bundle-v7",
+      "statement": "Which comparison correctly explains why their clothes are different?",
+      "context": "Compare two children: \"Diego wears shorts and a T-shirt in sunny Santa Marta. Camilo wears a sweater, a jacket, and boots on a cold morning in Tunja.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diego dresses for hot sunny weather, while Camilo dresses for cold weather.",
+          "is_correct": true,
+          "feedback": "Shorts and T-shirt suit heat, while sweater, jacket and boots suit cold."
+        },
+        {
+          "letter": "B",
+          "text": "Diego also wears a sweater and boots in the heat.",
+          "is_correct": false,
+          "feedback": "The text says Diego wears shorts and a T-shirt, not warm clothes."
+        },
+        {
+          "letter": "C",
+          "text": "Camilo wears shorts because it is very cold in Tunja.",
+          "is_correct": false,
+          "feedback": "The text says Camilo wears warm clothes because it is cold."
+        },
+        {
+          "letter": "D",
+          "text": "Neither Diego nor Camilo chooses clothes for the weather.",
+          "is_correct": false,
+          "feedback": "Both children choose clothes that match the weather in their city."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparing clothing choices described in English to draw conclusions about weather differences.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.52,
+      "bundle_id": "CO-ING-5-2026-W07-clothes-and-seasons-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W07-clothes-and-seasons-001-MASTERY-bundle-v8",
+      "statement": "What is the most important message of this paragraph?",
+      "context": "Read: 'In Colombia there are rainy and sunny seasons. On sunny days in Cartagena children wear T-shirts and shorts. On cold mornings in Bogota they wear sweaters and jackets, and in the rainy season everyone carries an umbrella and wears boots.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "People in Colombia choose their clothes according to the weather and the season.",
+          "is_correct": true,
+          "feedback": "The text links sunny days, cold mornings and rainy season with different clothes."
+        },
+        {
+          "letter": "B",
+          "text": "Children should always wear a sweater in Cartagena.",
+          "is_correct": false,
+          "feedback": "Cartagena is described as sunny, so T-shirts and shorts are worn there."
+        },
+        {
+          "letter": "C",
+          "text": "Umbrellas and boots are only for sunny days at the beach.",
+          "is_correct": false,
+          "feedback": "The text assigns umbrellas and boots to the rainy season, not sunny days."
+        },
+        {
+          "letter": "D",
+          "text": "Jackets and sweaters are useless in Colombia.",
+          "is_correct": false,
+          "feedback": "The paragraph says jackets and sweaters are worn on cold Bogota mornings."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluating the main message of a short expository paragraph about clothes and weather in Colombia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.38,
+      "bundle_id": "CO-ING-5-2026-W07-clothes-and-seasons-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

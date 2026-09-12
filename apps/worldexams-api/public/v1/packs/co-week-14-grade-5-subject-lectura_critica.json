@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-14-grade-5-subject-lectura_critica",
+    "generated_at": "2026-09-12T15:41:45.205Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-5-2026-W14-cuento-ciencia-ficcion-001-MASTERY-bundle-v1",
+      "statement": "¿Quiénes son los personajes principales del cuento?",
+      "context": "Lee el inicio de un cuento: \"En el año 2150, en un barrio de Medellín, los niños Santiago y Mariana encontraron un pequeño robot caído entre los árboles de una loma\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Santiago y Mariana, dos niños de Medellín.",
+          "is_correct": true,
+          "feedback": "El texto presenta a Santiago y Mariana como los protagonistas de la historia."
+        },
+        {
+          "letter": "B",
+          "text": "El alcalde de Medellín y su familia.",
+          "is_correct": false,
+          "feedback": "Ningún alcalde aparece en el fragmento leído."
+        },
+        {
+          "letter": "C",
+          "text": "Un grupo de científicos extranjeros.",
+          "is_correct": false,
+          "feedback": "El cuento menciona a dos niños, no a un equipo de científicos."
+        },
+        {
+          "letter": "D",
+          "text": "Los animales del bosque solamente.",
+          "is_correct": false,
+          "feedback": "Los animales pueden aparecer, pero los protagonistas son los dos niños."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificación de los personajes principales de un relato narrativo a partir de la información explícita.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-5-2026-W14-cuento-ciencia-ficcion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W14-cuento-ciencia-ficcion-001-MASTERY-bundle-v2",
+      "statement": "¿En qué tiempo y lugar se desarrolla la historia?",
+      "context": "Lee: \"En el año 2150, en un barrio de Medellín, los niños Santiago y Mariana encontraron un pequeño robot caído entre los árboles de una loma\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En un futuro lejano, en un barrio de Medellín.",
+          "is_correct": true,
+          "feedback": "El año 2150 y la ciudad de Medellín sitúan el relato en un futuro cercano a la ficción."
+        },
+        {
+          "letter": "B",
+          "text": "En la época actual, en una ciudad de otro país.",
+          "is_correct": false,
+          "feedback": "El texto indica el año 2150 y una ciudad colombiana."
+        },
+        {
+          "letter": "C",
+          "text": "En el pasado, en un pueblo sin electricidad.",
+          "is_correct": false,
+          "feedback": "El relato se ubica en el futuro y con tecnología avanzada."
+        },
+        {
+          "letter": "D",
+          "text": "En un barco, en medio del océano.",
+          "is_correct": false,
+          "feedback": "La acción ocurre en una loma de un barrio, no en el mar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocimiento del tiempo y el espacio narrativos como elementos básicos de la comprensión de un cuento.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-5-2026-W14-cuento-ciencia-ficcion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W14-cuento-ciencia-ficcion-001-MASTERY-bundle-v3",
+      "statement": "¿Qué elemento del cuento indica que se trata de un relato de ciencia ficción?",
+      "context": "En el cuento, TEO es un robot que habla, recuerda canciones y funciona con energía solar; los niños lo confunden al principio con un juguete perdido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La existencia de un robot que habla y funciona con tecnología avanzada.",
+          "is_correct": true,
+          "feedback": "Los robots con inteligencia y lenguaje son un rasgo típico de la ciencia ficción."
+        },
+        {
+          "letter": "B",
+          "text": "La presencia de árboles en una loma.",
+          "is_correct": false,
+          "feedback": "Los árboles son un elemento natural común, presente en muchos tipos de relatos."
+        },
+        {
+          "letter": "C",
+          "text": "El nombre de los niños protagonistas.",
+          "is_correct": false,
+          "feedback": "Los nombres propios no determinan por sí solos el género del texto."
+        },
+        {
+          "letter": "D",
+          "text": "La amistad entre dos hermanos.",
+          "is_correct": false,
+          "feedback": "La amistad es un tema universal, no exclusivo de la ciencia ficción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicación de criterios para reconocer los elementos fantásticos o tecnológicos que definen la ciencia ficción.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-5-2026-W14-cuento-ciencia-ficcion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W14-cuento-ciencia-ficcion-001-MASTERY-bundle-v4",
+      "statement": "Según el texto, ¿qué hicieron los niños para que el robot volviera a funcionar?",
+      "context": "Lee: \"Los niños llevaron a TEO a su casa, lo cargaron con un panel solar y descubrieron que podía traducir el canto de las aves\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lo cargaron con un panel solar.",
+          "is_correct": true,
+          "feedback": "El texto indica que los niños usaron un panel solar para darle energía a TEO."
+        },
+        {
+          "letter": "B",
+          "text": "Lo llevaron a un taller de bicicletas.",
+          "is_correct": false,
+          "feedback": "En el fragmento no se menciona ningún taller de bicicletas."
+        },
+        {
+          "letter": "C",
+          "text": "Lo dejaron abandonado en la loma.",
+          "is_correct": false,
+          "feedback": "Los niños lo llevaron a su casa, en lugar de abandonarlo."
+        },
+        {
+          "letter": "D",
+          "text": "Lo conectaron a la red de un hospital.",
+          "is_correct": false,
+          "feedback": "La energía provino de un panel solar, no de un hospital."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Localización de la secuencia de acciones realizadas por los personajes para resolver una situación del relato.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-5-2026-W14-cuento-ciencia-ficcion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W14-cuento-ciencia-ficcion-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál fue la razón por la que TEO no podía funcionar cuando lo encontraron?",
+      "context": "Lee: \"El robot, llamado TEO, se había quedado sin energía y no recordaba de dónde venía\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se había quedado sin energía.",
+          "is_correct": true,
+          "feedback": "El propio texto explica que TEO carecía de energía para funcionar."
+        },
+        {
+          "letter": "B",
+          "text": "Estaba hecho de madera y se mojó con la lluvia.",
+          "is_correct": false,
+          "feedback": "El relato lo describe como un robot, no como un objeto de madera."
+        },
+        {
+          "letter": "C",
+          "text": "Perdió sus alas durante una tormenta.",
+          "is_correct": false,
+          "feedback": "En el cuento no se mencionan alas ni tormentas."
+        },
+        {
+          "letter": "D",
+          "text": "No quería hablar con nadie por vergüenza.",
+          "is_correct": false,
+          "feedback": "La causa señalada es la falta de energía, no un motivo emocional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Inferencia de la causa de un hecho narrado a partir de la información explícita del cuento.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LC-5-2026-W14-cuento-ciencia-ficcion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W14-cuento-ciencia-ficcion-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el conflicto principal del cuento?",
+      "context": "El cuento narra que TEO despertó en un lugar desconocido, sin energía y sin recordar su origen, hasta que Santiago y Mariana lo ayudaron.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un robot perdido y sin energía que necesita ayuda para volver a funcionar.",
+          "is_correct": true,
+          "feedback": "La dificultad central es la situación de TEO y la ayuda que recibe de los niños."
+        },
+        {
+          "letter": "B",
+          "text": "Una competencia de fútbol entre dos colegios.",
+          "is_correct": false,
+          "feedback": "El relato no gira en torno a un torneo deportivo."
+        },
+        {
+          "letter": "C",
+          "text": "Una discusión sobre el precio de los robots.",
+          "is_correct": false,
+          "feedback": "El cuento no aborda temas comerciales ni de precios."
+        },
+        {
+          "letter": "D",
+          "text": "Un viaje al fondo del mar en un submarino.",
+          "is_correct": false,
+          "feedback": "La historia transcurre en una loma y una casa, no en el océano."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificación del conflicto narrativo como eje que organiza las acciones de los personajes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.61,
+      "bundle_id": "CO-LC-5-2026-W14-cuento-ciencia-ficcion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W14-cuento-ciencia-ficcion-001-MASTERY-bundle-v7",
+      "statement": "¿Qué tema se desarrolla principalmente en el desenlace del cuento?",
+      "context": "Al final, los niños usan la tecnología de TEO para escuchar y entender el canto de las aves de la loma.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tecnología puede usarse para comprender y cuidar la naturaleza.",
+          "is_correct": true,
+          "feedback": "El desenlace une el conocimiento tecnológico de TEO con el cuidado del entorno natural."
+        },
+        {
+          "letter": "B",
+          "text": "Los robots deben reemplazar a todos los animales del bosque.",
+          "is_correct": false,
+          "feedback": "El cuento propone entender a los animales, no reemplazarlos."
+        },
+        {
+          "letter": "C",
+          "text": "Los niños no deben jugar con aparatos electrónicos.",
+          "is_correct": false,
+          "feedback": "Los protagonistas usan la tecnología de forma positiva y colaborativa."
+        },
+        {
+          "letter": "D",
+          "text": "La naturaleza es peligrosa y debe evitarse.",
+          "is_correct": false,
+          "feedback": "El relato muestra aprecio por la naturaleza, no temor hacia ella."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Análisis del tema o mensaje que se construye en el desenlace de un relato de ciencia ficción.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.57,
+      "bundle_id": "CO-LC-5-2026-W14-cuento-ciencia-ficcion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W14-cuento-ciencia-ficcion-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de las siguientes afirmaciones evalúa mejor la enseñanza del cuento?",
+      "context": "El narrador concluye: \"Santiago, Mariana y TEO aprendieron que la curiosidad y la colaboración pueden resolver grandes problemas\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la curiosidad y el trabajo en equipo ayudan a resolver dificultades.",
+          "is_correct": true,
+          "feedback": "El cierre del relato destaca la curiosidad y la colaboración como valores centrales."
+        },
+        {
+          "letter": "B",
+          "text": "Que los problemas solo se resuelven con dinero.",
+          "is_correct": false,
+          "feedback": "El cuento resuelve la situación con ingenio y ayuda mutua, no con dinero."
+        },
+        {
+          "letter": "C",
+          "text": "Que es mejor no ayudar a los desconocidos.",
+          "is_correct": false,
+          "feedback": "Los niños ayudan a TEO y esa decisión produce resultados positivos."
+        },
+        {
+          "letter": "D",
+          "text": "Que la tecnología resuelve todo sin esfuerzo humano.",
+          "is_correct": false,
+          "feedback": "La tecnología de TEO funciona gracias a la iniciativa y el cuidado de los niños."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluación del mensaje o enseñanza global del cuento y de su relación con los valores que promueve.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LC-5-2026-W14-cuento-ciencia-ficcion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

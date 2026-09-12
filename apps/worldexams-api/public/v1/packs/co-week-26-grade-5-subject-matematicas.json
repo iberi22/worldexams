@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-26-grade-5-subject-matematicas",
+    "generated_at": "2026-09-12T15:41:45.217Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-5-2026-W26-multiplicacion-doble-cifra-arreglos-001-MASTERY-bundle-v1",
+      "statement": "¿Qué representa cada región de un arreglo rectangular al multiplicar un número de dos cifras por otro de dos cifras?",
+      "context": "En una clase de matemáticas en Santa Marta, la profesora explica la multiplicación de dos cifras usando un arreglo rectangular dibujado en el tablero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representa el producto parcial entre una cifra de un factor y una cifra del otro factor.",
+          "is_correct": true,
+          "feedback": "El arreglo descompone el producto en cuatro productos parciales más sencillos."
+        },
+        {
+          "letter": "B",
+          "text": "Representa la suma total de los dos números sin multiplicar.",
+          "is_correct": false,
+          "feedback": "En un arreglo multiplicativo se multiplica, no se suma."
+        },
+        {
+          "letter": "C",
+          "text": "Representa la resta entre las decenas y las unidades.",
+          "is_correct": false,
+          "feedback": "El arreglo sirve para multiplicar, no para restar."
+        },
+        {
+          "letter": "D",
+          "text": "Representa únicamente el valor de las decenas del primer factor.",
+          "is_correct": false,
+          "feedback": "El arreglo completo incluye decenas y unidades de ambos factores."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer el arreglo rectangular como herramienta para descomponer una multiplicación de doble cifra.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-5-2026-W26-multiplicacion-doble-cifra-arreglos-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W26-multiplicacion-doble-cifra-arreglos-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué descomponer los números en decenas y unidades facilita la multiplicación con arreglos?",
+      "context": "Lee: \"Para multiplicar 23 por 14 con un arreglo, se descompone 23 como 20 + 3 y 14 como 10 + 4. Luego se obtiene el área sumando los cuatro productos parciales.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque transforma una multiplicación grande en cuatro multiplicaciones más pequeñas y manejables.",
+          "is_correct": true,
+          "feedback": "La descomposición hace más sencillos los cálculos parciales."
+        },
+        {
+          "letter": "B",
+          "text": "Porque elimina la necesidad de sumar al final.",
+          "is_correct": false,
+          "feedback": "Al final sí se suman los productos parciales para obtener el total."
+        },
+        {
+          "letter": "C",
+          "text": "Porque convierte la multiplicación en una división.",
+          "is_correct": false,
+          "feedback": "El método sigue siendo de multiplicación, no de división."
+        },
+        {
+          "letter": "D",
+          "text": "Porque cambia los números por otros sin relación.",
+          "is_correct": false,
+          "feedback": "Los productos parciales están directamente relacionados con los factores."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender la utilidad de descomponer en decenas y unidades al multiplicar con arreglos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-5-2026-W26-multiplicacion-doble-cifra-arreglos-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W26-multiplicacion-doble-cifra-arreglos-001-MASTERY-bundle-v3",
+      "statement": "¿Cuáles son los cuatro productos parciales que debe obtener en el arreglo?",
+      "context": "Un estudiante de Bucaramanga arma el arreglo de 12 por 13 descomponiendo: 12 = 10 + 2 y 13 = 10 + 3.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10×10 = 100, 10×3 = 30, 2×10 = 20 y 2×3 = 6.",
+          "is_correct": true,
+          "feedback": "Cada celda del arreglo corresponde a un producto parcial entre decenas y unidades."
+        },
+        {
+          "letter": "B",
+          "text": "10+10 = 20, 10+3 = 13, 2+10 = 12 y 2+3 = 5.",
+          "is_correct": false,
+          "feedback": "En el arreglo se multiplican las cifras, no se suman."
+        },
+        {
+          "letter": "C",
+          "text": "10×2 = 20, 3×10 = 30, 100×6 = 600 y 0.",
+          "is_correct": false,
+          "feedback": "Esos no son los productos correctos entre las partes de 12 y 13."
+        },
+        {
+          "letter": "D",
+          "text": "10−3 = 7, 2−10 = −8, 100 y 6.",
+          "is_correct": false,
+          "feedback": "El arreglo no usa restas sino multiplicaciones parciales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la descomposición de decenas y unidades para obtener los productos parciales del arreglo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-5-2026-W26-multiplicacion-doble-cifra-arreglos-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W26-multiplicacion-doble-cifra-arreglos-001-MASTERY-bundle-v4",
+      "statement": "¿Cuánto debe pagar el cliente en total por las 12 cajas?",
+      "context": "Lee: \"Una ferretería de Pereira vende cajas de tornillos a 23.000 COP cada una. Un cliente compra 12 cajas y la cajera debe calcular el total con un arreglo.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "276.000 COP.",
+          "is_correct": true,
+          "feedback": "23.000 × 12 = 276.000 COP; con arreglo: 23.000×10 + 23.000×2 = 230.000 + 46.000 = 276.000 COP."
+        },
+        {
+          "letter": "B",
+          "text": "23.000 COP.",
+          "is_correct": false,
+          "feedback": "23.000 COP es el precio de una sola caja, no de 12."
+        },
+        {
+          "letter": "C",
+          "text": "35.000 COP.",
+          "is_correct": false,
+          "feedback": "35.000 COP es solo la suma 23.000 + 12, no el producto."
+        },
+        {
+          "letter": "D",
+          "text": "230.000 COP.",
+          "is_correct": false,
+          "feedback": "230.000 COP es el valor de 10 cajas, le faltan las 2 cajas restantes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la estrategia de arreglo para resolver multiplicaciones de doble cifra en contextos comerciales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.83,
+      "bundle_id": "CO-MAT-5-2026-W26-multiplicacion-doble-cifra-arreglos-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W26-multiplicacion-doble-cifra-arreglos-001-MASTERY-bundle-v5",
+      "statement": "¿Cuántas plantas de hortalizas hay en total en la huerta?",
+      "context": "En una huerta escolar de Pasto, los estudiantes organizan 21 surcos con 14 plantas de hortalizas en cada uno. La profesora les pide calcular el total con un arreglo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "294 plantas.",
+          "is_correct": true,
+          "feedback": "21 × 14 = 294, calculado como 20×14 + 1×14 = 280 + 14 = 294."
+        },
+        {
+          "letter": "B",
+          "text": "35 plantas.",
+          "is_correct": false,
+          "feedback": "35 es la suma 21 + 14, no el producto de ambas cifras."
+        },
+        {
+          "letter": "C",
+          "text": "210 plantas.",
+          "is_correct": false,
+          "feedback": "210 es 21 × 10, solo el producto parcial de las decenas."
+        },
+        {
+          "letter": "D",
+          "text": "140 plantas.",
+          "is_correct": false,
+          "feedback": "140 es 10 × 14, solo el producto parcial por las decenas del otro factor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el método de arreglo para resolver multiplicaciones de doble cifra en contextos agrícolas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-5-2026-W26-multiplicacion-doble-cifra-arreglos-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W26-multiplicacion-doble-cifra-arreglos-001-MASTERY-bundle-v6",
+      "statement": "¿Qué relación existe entre el resultado del arreglo y el de la multiplicación vertical?",
+      "context": "Compara: \"Un estudiante multiplica 32 × 25 descomponiendo como (30 + 2) × (20 + 5) y obtiene 600 + 150 + 40 + 10 = 800. Otro estudiante hace la operación en forma vertical y obtiene 800.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos métodos son equivalentes: el arreglo es otra forma de organizar los mismos productos parciales.",
+          "is_correct": true,
+          "feedback": "Ambos métodos calculan la misma multiplicación, solo cambia la presentación."
+        },
+        {
+          "letter": "B",
+          "text": "El método del arreglo siempre da un resultado mayor que el vertical.",
+          "is_correct": false,
+          "feedback": "Si los cálculos están bien hechos, los dos métodos coinciden."
+        },
+        {
+          "letter": "C",
+          "text": "El método vertical no sirve para números de dos cifras.",
+          "is_correct": false,
+          "feedback": "El método vertical funciona muy bien para multiplicar dos cifras."
+        },
+        {
+          "letter": "D",
+          "text": "El arreglo da un resultado menor porque ignora las decenas.",
+          "is_correct": false,
+          "feedback": "El arreglo sí incluye decenas y unidades en los productos parciales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la equivalencia entre el método de arreglo y el algoritmo vertical de la multiplicación.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-MAT-5-2026-W26-multiplicacion-doble-cifra-arreglos-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W26-multiplicacion-doble-cifra-arreglos-001-MASTERY-bundle-v7",
+      "statement": "¿Qué indica que el resultado del arreglo coincida con el de la calculadora?",
+      "context": "Lee: \"Mariana descompuso 45 × 36 como (40 + 5) × (30 + 6) y obtuvo 1.200 + 240 + 150 + 30 = 1.620. Luego comprobó con calculadora y también obtuvo 1.620.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indica que la descomposición y la suma de los productos parciales están bien realizadas.",
+          "is_correct": true,
+          "feedback": "Coincidir con la calculadora confirma que el procedimiento es correcto."
+        },
+        {
+          "letter": "B",
+          "text": "Indica que la calculadora siempre se equivoca cuando hay arreglos.",
+          "is_correct": false,
+          "feedback": "La calculadora, bien usada, verifica el resultado del arreglo."
+        },
+        {
+          "letter": "C",
+          "text": "Indica que Mariana olvidó multiplicar por las decenas.",
+          "is_correct": false,
+          "feedback": "Si lo hubiera olvidado, el resultado sería muy diferente al de la calculadora."
+        },
+        {
+          "letter": "D",
+          "text": "Indica que 45 × 36 no se puede calcular con arreglos.",
+          "is_correct": false,
+          "feedback": "Sí se puede y Mariana lo demostró con un resultado correcto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la verificación de resultados como estrategia de autocontrol en la multiplicación.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-5-2026-W26-multiplicacion-doble-cifra-arreglos-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W26-multiplicacion-doble-cifra-arreglos-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué es útil aprender a multiplicar con arreglos antes de memorizar el algoritmo vertical?",
+      "context": "Lee: 'El método de arreglos rectangulares permite visualizar la multiplicación como un área y ayuda a los estudiantes a entender qué hacen los algoritmos tradicionales, evitando errores al sumar productos parciales.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque permite entender el sentido de la multiplicación y reduce errores al sumar productos parciales.",
+          "is_correct": true,
+          "feedback": "Comprender el área ayuda a dar sentido a los pasos del algoritmo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el algoritmo vertical nunca debe enseñarse en la escuela.",
+          "is_correct": false,
+          "feedback": "El algoritmo vertical es útil, pero conviene entenderlo mediante el arreglo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los arreglos solo funcionan con números pequeños.",
+          "is_correct": false,
+          "feedback": "Los arreglos funcionan también con números de dos y más cifras."
+        },
+        {
+          "letter": "D",
+          "text": "Porque memorizar pasos sin comprensión es la mejor estrategia.",
+          "is_correct": false,
+          "feedback": "Comprender el porqué de los pasos es mejor que solo memorizarlos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la importancia de visualizar la multiplicación con arreglos para dar sentido al algoritmo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-5-2026-W26-multiplicacion-doble-cifra-arreglos-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

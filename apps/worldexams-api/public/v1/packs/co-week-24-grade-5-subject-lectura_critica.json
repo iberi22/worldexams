@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-24-grade-5-subject-lectura_critica",
+    "generated_at": "2026-09-12T15:41:45.208Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-5-2026-W24-resumen-ideas-principales-texto-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es la idea principal de un texto?",
+      "context": "En un colegio de Pasto, la profesora explica que al leer un texto siempre hay una idea más importante que las demás.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La primera palabra del texto.",
+          "is_correct": false,
+          "feedback": "Una palabra aislada no resume de qué trata todo el texto."
+        },
+        {
+          "letter": "B",
+          "text": "Un ejemplo que aparece al final.",
+          "is_correct": false,
+          "feedback": "Un ejemplo es un detalle de apoyo, no la idea principal del texto."
+        },
+        {
+          "letter": "C",
+          "text": "La opinión del lector sobre el texto.",
+          "is_correct": false,
+          "feedback": "La opinión del lector es personal y no forma parte de lo que dice el texto."
+        },
+        {
+          "letter": "D",
+          "text": "La idea más importante, que resume de qué trata el texto.",
+          "is_correct": true,
+          "feedback": "La idea principal expresa el tema central y es la que da sentido a todo el escrito."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Reconocer que la idea principal es el mensaje más importante del texto y la que resume de qué trata.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-5-2026-W24-resumen-ideas-principales-texto-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W24-resumen-ideas-principales-texto-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la idea principal del texto?",
+      "context": "Lee: \"El desierto de la Tatacoa, en el Huila, es un lugar turístico muy visitado. Sus paisajes de tonos rojizos atraen a muchos viajeros, que llegan también para observar las estrellas de noche.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las estrellas se ven mejor de noche.",
+          "is_correct": false,
+          "feedback": "Es un detalle que apoya el texto, pero no es la idea principal."
+        },
+        {
+          "letter": "B",
+          "text": "El Huila es un departamento de Colombia.",
+          "is_correct": false,
+          "feedback": "Es un dato del texto, pero no expresa de qué trata principalmente."
+        },
+        {
+          "letter": "C",
+          "text": "El desierto de la Tatacoa es un lugar turístico muy visitado.",
+          "is_correct": true,
+          "feedback": "Esta oración resume el tema central del párrafo: el atractivo turístico de la Tatacoa."
+        },
+        {
+          "letter": "D",
+          "text": "Los viajeros caminan por el desierto.",
+          "is_correct": false,
+          "feedback": "Es una acción secundaria, no la idea principal del texto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprender que la idea principal resume el tema del texto y que los demás datos son detalles que la apoyan.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-5-2026-W24-resumen-ideas-principales-texto-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W24-resumen-ideas-principales-texto-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de las siguientes es una idea secundaria del texto?",
+      "context": "Lee: \"La lectura es un hábito que abre puertas. Quien lee aprende nuevas palabras, conoce otras culturas y desarrolla su imaginación. Por eso, muchos colegios tienen bibliotecas.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La lectura abre puertas.",
+          "is_correct": false,
+          "feedback": "Esta es la idea principal del texto, no una idea secundaria."
+        },
+        {
+          "letter": "B",
+          "text": "Muchos colegios tienen bibliotecas.",
+          "is_correct": true,
+          "feedback": "Es un detalle que apoya la idea principal, por eso es una idea secundaria."
+        },
+        {
+          "letter": "C",
+          "text": "La lectura es un hábito.",
+          "is_correct": false,
+          "feedback": "Esta afirmación forma parte de la idea principal del texto."
+        },
+        {
+          "letter": "D",
+          "text": "Leer es importante para las personas.",
+          "is_correct": false,
+          "feedback": "Esta es otra forma de expresar la idea principal, no una idea secundaria."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicar la diferencia entre idea principal e ideas secundarias, reconociendo que las secundarias amplían o apoyan la principal.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-5-2026-W24-resumen-ideas-principales-texto-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W24-resumen-ideas-principales-texto-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la mejor estrategia para resumir un texto?",
+      "context": "Un estudiante de Ibagué debe resumir una noticia larga para exponerla ante sus compañeros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Identificar la idea principal y escribirla junto con las ideas más importantes, usando pocas palabras.",
+          "is_correct": true,
+          "feedback": "Un buen resumen conserva lo esencial y deja de lado los detalles menos importantes."
+        },
+        {
+          "letter": "B",
+          "text": "Copiar todo el texto palabra por palabra.",
+          "is_correct": false,
+          "feedback": "Copiar todo no es resumir; un resumen debe ser más breve que el texto original."
+        },
+        {
+          "letter": "C",
+          "text": "Escribir solo el título y nada más.",
+          "is_correct": false,
+          "feedback": "El título no contiene toda la información esencial que debe conservar un resumen."
+        },
+        {
+          "letter": "D",
+          "text": "Inventar una historia diferente a la del texto.",
+          "is_correct": false,
+          "feedback": "Un resumen debe respetar el contenido del texto, no inventar otro distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar estrategias de resumen, como identificar la idea principal y conservar la información esencial con palabras propias y breves.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-5-2026-W24-resumen-ideas-principales-texto-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W24-resumen-ideas-principales-texto-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el mejor resumen del texto?",
+      "context": "Lee: \"Las abejas son insectos muy importantes. Al buscar néctar en las flores, transportan el polen y ayudan a que las plantas se reproduzcan. Sin ellas, muchas frutas y cultivos disminuirían.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las abejas viven en colmenas grandes.",
+          "is_correct": false,
+          "feedback": "El texto no habla del tamaño de las colmenas; ese dato no aparece."
+        },
+        {
+          "letter": "B",
+          "text": "El néctar es un líquido dulce de las flores.",
+          "is_correct": false,
+          "feedback": "Es un detalle mencionado, pero no resume la idea central del texto."
+        },
+        {
+          "letter": "C",
+          "text": "Las frutas son deliciosas y nutritivas.",
+          "is_correct": false,
+          "feedback": "El texto no trata sobre el sabor de las frutas, sino sobre la importancia de las abejas."
+        },
+        {
+          "letter": "D",
+          "text": "Las abejas son importantes porque transportan el polen y ayudan a que las plantas se reproduzcan.",
+          "is_correct": true,
+          "feedback": "Este resumen conserva la idea principal: el papel de las abejas en la reproducción de las plantas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aplicar la elaboración de resúmenes seleccionando la información esencial y descartando los detalles secundarios.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-5-2026-W24-resumen-ideas-principales-texto-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W24-resumen-ideas-principales-texto-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la idea principal de la noticia?",
+      "context": "Lee: \"Ayer se inauguró un nuevo parque en la ciudad de Manizales. El parque tiene juegos para niños, zonas verdes y una ciclorruta. Cientos de familias asistieron a la apertura y celebraron con música y comida típica.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La música y la comida típica de la celebración.",
+          "is_correct": false,
+          "feedback": "Son detalles de la celebración, no el hecho principal de la noticia."
+        },
+        {
+          "letter": "B",
+          "text": "Los juegos para niños del parque.",
+          "is_correct": false,
+          "feedback": "Es un detalle sobre el parque, pero no resume la noticia."
+        },
+        {
+          "letter": "C",
+          "text": "Se inauguró un nuevo parque en la ciudad de Manizales.",
+          "is_correct": true,
+          "feedback": "Esta oración resume el hecho central de la noticia: la inauguración del parque."
+        },
+        {
+          "letter": "D",
+          "text": "Las familias celebraron con música.",
+          "is_correct": false,
+          "feedback": "Es un detalle secundario de la celebración, no la idea principal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar una noticia para distinguir el hecho principal de los detalles secundarios que lo acompañan.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-5-2026-W24-resumen-ideas-principales-texto-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W24-resumen-ideas-principales-texto-001-MASTERY-bundle-v7",
+      "statement": "¿Cómo se relacionan las ideas secundarias con la idea principal del texto?",
+      "context": "Lee: \"Cuidar el agua es responsabilidad de todos. Cerrar la llave mientras nos cepillamos los dientes, reparar las fugas y usar solo el agua necesaria son acciones sencillas que ayudan a no desperdiciarla.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contradicen la idea principal del texto.",
+          "is_correct": false,
+          "feedback": "Las ideas secundarias no contradicen la principal; la apoyan con ejemplos."
+        },
+        {
+          "letter": "B",
+          "text": "Dan ejemplos y detalles que apoyan la idea de que cuidar el agua es tarea de todos.",
+          "is_correct": true,
+          "feedback": "Las acciones mencionadas son ejemplos que refuerzan la idea principal del texto."
+        },
+        {
+          "letter": "C",
+          "text": "Repiten exactamente la misma oración principal.",
+          "is_correct": false,
+          "feedback": "Las ideas secundarias aportan información nueva, no repiten la oración principal."
+        },
+        {
+          "letter": "D",
+          "text": "Cambian el tema del texto hacia otro asunto.",
+          "is_correct": false,
+          "feedback": "Todas las ideas del texto mantienen el mismo tema: el cuidado del agua."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar la función de las ideas secundarias, que amplían, ejemplifican y apoyan la idea principal del texto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LC-5-2026-W24-resumen-ideas-principales-texto-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W24-resumen-ideas-principales-texto-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de estos resúmenes conserva mejor la idea principal del texto?",
+      "context": "Lee: \"La bicicleta es un medio de transporte económico y ecológico. No consume gasolina y ayuda a mantener el cuerpo activo. Además, reduce el tráfico en las ciudades. Por eso, muchos municipios construyen ciclorrutas para promover su uso.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La bicicleta es un transporte económico y ecológico que beneficia la salud y la ciudad, por eso se promueve su uso.",
+          "is_correct": true,
+          "feedback": "Este resumen reúne las ideas esenciales del texto sobre las ventajas de la bicicleta."
+        },
+        {
+          "letter": "B",
+          "text": "La bicicleta es un juguete para los niños pequeños.",
+          "is_correct": false,
+          "feedback": "El texto no presenta la bicicleta como un juguete, sino como un medio de transporte."
+        },
+        {
+          "letter": "C",
+          "text": "Las ciclorrutas son caminos construidos solo para los carros.",
+          "is_correct": false,
+          "feedback": "El texto dice que las ciclorrutas promueven el uso de la bicicleta, no el de los carros."
+        },
+        {
+          "letter": "D",
+          "text": "La gasolina es el combustible más económico.",
+          "is_correct": false,
+          "feedback": "El texto afirma que la bicicleta no consume gasolina, no que la gasolina sea económica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar distintos resúmenes y elegir el que conserva la información esencial del texto sin agregar ni deformar ideas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LC-5-2026-W24-resumen-ideas-principales-texto-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

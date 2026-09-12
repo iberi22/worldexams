@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-25-grade-5-subject-matematicas",
+    "generated_at": "2026-09-12T15:41:45.216Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-5-2026-W25-solidos-geometricos-caras-vertices-001-MASTERY-bundle-v1",
+      "statement": "¿Cuántas caras tiene un cubo?",
+      "context": "Marcela sostiene un dado cúbico sobre su escritorio en Bogotá y observa sus caras planas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 caras.",
+          "is_correct": false,
+          "feedback": "4 caras corresponden a una pirámide de base cuadrada, no a un cubo."
+        },
+        {
+          "letter": "B",
+          "text": "8 caras.",
+          "is_correct": false,
+          "feedback": "8 es el número de vértices del cubo, no de caras."
+        },
+        {
+          "letter": "C",
+          "text": "12 caras.",
+          "is_correct": false,
+          "feedback": "12 es el número de aristas del cubo, no de caras."
+        },
+        {
+          "letter": "D",
+          "text": "6 caras.",
+          "is_correct": true,
+          "feedback": "El cubo tiene 6 caras cuadradas e iguales."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El cubo es un poliedro formado por 6 caras cuadradas iguales, 12 aristas y 8 vértices. Reconocer estos elementos es la base para describir los cuerpos geométricos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geométrico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-5-2026-W25-solidos-geometricos-caras-vertices-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W25-solidos-geometricos-caras-vertices-001-MASTERY-bundle-v2",
+      "statement": "¿Qué sólido corresponde a esa descripción?",
+      "context": "Un estudiante describe un cuerpo geométrico: \"tiene dos bases circulares iguales y una superficie curva que las une\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cono.",
+          "is_correct": false,
+          "feedback": "El cono tiene una sola base circular y termina en un vértice."
+        },
+        {
+          "letter": "B",
+          "text": "Cilindro.",
+          "is_correct": true,
+          "feedback": "El cilindro tiene dos bases circulares paralelas unidas por una superficie curva."
+        },
+        {
+          "letter": "C",
+          "text": "Esfera.",
+          "is_correct": false,
+          "feedback": "La esfera no tiene bases circulares planas ni vértices."
+        },
+        {
+          "letter": "D",
+          "text": "Pirámide.",
+          "is_correct": false,
+          "feedback": "La pirámide tiene caras triangulares que se unen en un vértice, no dos bases circulares."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El cilindro se reconoce porque tiene dos bases circulares iguales y paralelas, unidas por una superficie curva. Esta descripción lo distingue del cono, la esfera y las pirámides.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geométrico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-5-2026-W25-solidos-geometricos-caras-vertices-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W25-solidos-geometricos-caras-vertices-001-MASTERY-bundle-v3",
+      "statement": "¿Cuántas aristas debe construir para armar el prisma rectangular?",
+      "context": "En clase de geometría en Tunja, los estudiantes construyen un prisma rectangular con palillos y plastilina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12 aristas.",
+          "is_correct": true,
+          "feedback": "Un prisma rectangular tiene 4 aristas en cada base y 4 aristas laterales: 12 en total."
+        },
+        {
+          "letter": "B",
+          "text": "8 aristas.",
+          "is_correct": false,
+          "feedback": "8 es el número de vértices del prisma rectangular."
+        },
+        {
+          "letter": "C",
+          "text": "6 aristas.",
+          "is_correct": false,
+          "feedback": "6 es el número de caras del prisma rectangular."
+        },
+        {
+          "letter": "D",
+          "text": "4 aristas.",
+          "is_correct": false,
+          "feedback": "4 aristas solo formarían una de las bases, no el prisma completo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un prisma rectangular tiene 6 caras, 8 vértices y 12 aristas. Las aristas son los segmentos donde se encuentran dos caras, y sirven como los \"palillos\" del modelo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geométrico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-5-2026-W25-solidos-geometricos-caras-vertices-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W25-solidos-geometricos-caras-vertices-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál objeto tiene forma de cilindro?",
+      "context": "En la cocina de una casa en Pasto, Andrea observa varios objetos antes de guardarlos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un balón de fútbol.",
+          "is_correct": false,
+          "feedback": "El balón se aproxima a una esfera, no a un cilindro."
+        },
+        {
+          "letter": "B",
+          "text": "Una caja de zapatos.",
+          "is_correct": false,
+          "feedback": "La caja de zapatos tiene forma de prisma rectangular."
+        },
+        {
+          "letter": "C",
+          "text": "Una lata de atún.",
+          "is_correct": true,
+          "feedback": "La lata tiene dos bases circulares y una superficie curva, como un cilindro."
+        },
+        {
+          "letter": "D",
+          "text": "Un cucurucho de helado.",
+          "is_correct": false,
+          "feedback": "El cucurucho se parece a un cono, con una base circular y un vértice."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Muchos objetos cotidianos tienen forma de cuerpos geométricos. La lata de atún se parece a un cilindro porque tiene dos bases circulares y una superficie curva.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geométrico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-5-2026-W25-solidos-geometricos-caras-vertices-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W25-solidos-geometricos-caras-vertices-001-MASTERY-bundle-v5",
+      "statement": "¿Cuántos vértices tiene una pirámide de base cuadrada?",
+      "context": "Un grupo de estudiantes de Armenia analiza una pirámide de base cuadrada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 vértices.",
+          "is_correct": false,
+          "feedback": "4 son los vértices de la base; falta contar el vértice superior."
+        },
+        {
+          "letter": "B",
+          "text": "6 vértices.",
+          "is_correct": false,
+          "feedback": "6 es el número de aristas de una pirámide de base cuadrada."
+        },
+        {
+          "letter": "C",
+          "text": "8 vértices.",
+          "is_correct": false,
+          "feedback": "8 es el número de vértices de un cubo, no de esta pirámide."
+        },
+        {
+          "letter": "D",
+          "text": "5 vértices.",
+          "is_correct": true,
+          "feedback": "La pirámide tiene 4 vértices en la base y 1 en la cima: 5 en total."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Una pirámide de base cuadrada tiene 4 vértices en la base y 1 vértice en la cima, para un total de 5 vértices. Sus caras laterales son triángulos que se unen en ese punto superior.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geométrico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-5-2026-W25-solidos-geometricos-caras-vertices-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W25-solidos-geometricos-caras-vertices-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál afirmación describe correctamente una diferencia entre estos dos sólidos?",
+      "context": "Dos estudiantes comparan un cubo y una esfera que tienen un tamaño aproximado similar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cubo tiene caras planas, aristas y vértices, mientras que la esfera solo tiene una superficie curva.",
+          "is_correct": true,
+          "feedback": "El cubo es un poliedro con caras planas; la esfera carece de caras planas, aristas y vértices."
+        },
+        {
+          "letter": "B",
+          "text": "El cubo y la esfera tienen la misma cantidad de vértices.",
+          "is_correct": false,
+          "feedback": "El cubo tiene 8 vértices y la esfera no tiene ninguno."
+        },
+        {
+          "letter": "C",
+          "text": "La esfera tiene 6 caras cuadradas iguales.",
+          "is_correct": false,
+          "feedback": "Las 6 caras cuadradas corresponden al cubo, no a la esfera."
+        },
+        {
+          "letter": "D",
+          "text": "El cubo tiene superficie curva y la esfera tiene aristas rectas.",
+          "is_correct": false,
+          "feedback": "Se invirtieron las características: el cubo tiene aristas rectas y la esfera es curva."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los poliedros, como el cubo, tienen caras planas que se unen en aristas y vértices. Los cuerpos redondos, como la esfera, tienen superficies curvas y no poseen aristas ni vértices.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geométrico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-5-2026-W25-solidos-geometricos-caras-vertices-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W25-solidos-geometricos-caras-vertices-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál grupo reúne únicamente sólidos con superficies curvas?",
+      "context": "La profesora de Neiva pide clasificar varios sólidos según tengan o no superficies curvas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cubo, prisma y pirámide.",
+          "is_correct": false,
+          "feedback": "Estos tres son poliedros con caras planas y sin superficies curvas."
+        },
+        {
+          "letter": "B",
+          "text": "Cilindro, cubo y cono.",
+          "is_correct": false,
+          "feedback": "El cubo tiene solo caras planas, así que el grupo no es correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Cilindro, cono y esfera.",
+          "is_correct": true,
+          "feedback": "Los tres poseen al menos una superficie curva."
+        },
+        {
+          "letter": "D",
+          "text": "Prisma, esfera y pirámide.",
+          "is_correct": false,
+          "feedback": "El prisma y la pirámide tienen caras planas, por lo que el grupo no cumple la condición."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los cuerpos redondos, como el cilindro, el cono y la esfera, tienen superficies curvas. Los poliedros, como el cubo, el prisma y la pirámide, tienen únicamente caras planas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geométrico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-MAT-5-2026-W25-solidos-geometricos-caras-vertices-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W25-solidos-geometricos-caras-vertices-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál afirmación es correcta y está bien justificada?",
+      "context": "Cuatro estudiantes de Bucaramanga afirman cosas distintas sobre los cuerpos geométricos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Todos los cuerpos geométricos tienen vértices\", porque todos tienen esquinas.",
+          "is_correct": false,
+          "feedback": "La esfera y el cilindro no tienen vértices, así que la generalización es falsa."
+        },
+        {
+          "letter": "B",
+          "text": "\"El cono tiene un vértice\", porque su superficie curva termina en un único punto llamado cúspide.",
+          "is_correct": true,
+          "feedback": "El cono posee una base circular y su superficie curva se une en un solo vértice."
+        },
+        {
+          "letter": "C",
+          "text": "\"El cilindro tiene 4 caras\", porque tiene dos bases y dos lados planos.",
+          "is_correct": false,
+          "feedback": "El cilindro tiene dos bases circulares y una superficie curva, no cuatro caras."
+        },
+        {
+          "letter": "D",
+          "text": "\"La esfera tiene 12 aristas\", porque es redonda como un balón.",
+          "is_correct": false,
+          "feedback": "La esfera no tiene aristas; es una superficie completamente curva."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar afirmaciones geométricas exige verificar cada elemento. El cono tiene una base circular y un solo vértice; la esfera no tiene aristas ni vértices; y el cilindro tiene dos bases y una superficie curva, no cuatro caras.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geométrico",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-5-2026-W25-solidos-geometricos-caras-vertices-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

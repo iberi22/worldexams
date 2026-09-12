@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-16-grade-5-subject-ingles",
+    "generated_at": "2026-09-12T15:41:45.196Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-5-2026-W16-feelings-emotions-001-MASTERY-bundle-v1",
+      "statement": "Which word in English describes how you feel when you smile and laugh with your friends?",
+      "context": "In a classroom in Pereira, a teacher shows faces on the board: happy, sad, angry, scared, tired, and excited.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Happy.",
+          "is_correct": true,
+          "feedback": "\"Happy\" is the feeling of joy shown when you smile and laugh."
+        },
+        {
+          "letter": "B",
+          "text": "Angry.",
+          "is_correct": false,
+          "feedback": "\"Angry\" is a feeling of annoyance, usually shown with a frown, not a smile."
+        },
+        {
+          "letter": "C",
+          "text": "Scared.",
+          "is_correct": false,
+          "feedback": "\"Scared\" is the feeling of fear, not of joy and laughing."
+        },
+        {
+          "letter": "D",
+          "text": "Tired.",
+          "is_correct": false,
+          "feedback": "\"Tired\" means you need rest, which is different from feeling joy."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Recognizing basic feeling words in English by matching each word with the facial expression it describes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-5-2026-W16-feelings-emotions-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W16-feelings-emotions-001-MASTERY-bundle-v2",
+      "statement": "Why is Sofia sad?",
+      "context": "Read: \"Sofia is sad because her best friend moved to another city.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Because her best friend moved to another city.",
+          "is_correct": true,
+          "feedback": "The text directly states that her friend moving away made her sad."
+        },
+        {
+          "letter": "B",
+          "text": "Because she won a prize at school.",
+          "is_correct": false,
+          "feedback": "Winning a prize usually brings happiness, and it is not mentioned here."
+        },
+        {
+          "letter": "C",
+          "text": "Because she ate too much lunch.",
+          "is_correct": false,
+          "feedback": "Eating lunch is not given as the reason for her sadness."
+        },
+        {
+          "letter": "D",
+          "text": "Because she is tired from running.",
+          "is_correct": false,
+          "feedback": "Being tired is not the cause stated in the text."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Understanding the cause of an emotion in a short descriptive text in English.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.84,
+      "bundle_id": "CO-ING-5-2026-W16-feelings-emotions-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W16-feelings-emotions-001-MASTERY-bundle-v3",
+      "statement": "Which sentence correctly uses the verb \"be\" to describe how the boy feels?",
+      "context": "A boy in Bucaramanga says: \"I am scared because there is a big storm outside.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He is scared.",
+          "is_correct": true,
+          "feedback": "\"Is\" is the correct form of \"be\" for the third person singular subject \"he\"."
+        },
+        {
+          "letter": "B",
+          "text": "He are scared.",
+          "is_correct": false,
+          "feedback": "\"Are\" is used with plural subjects like \"they\", not with \"he\"."
+        },
+        {
+          "letter": "C",
+          "text": "He scared is.",
+          "is_correct": false,
+          "feedback": "In English the verb \"be\" comes before the adjective, not after it."
+        },
+        {
+          "letter": "D",
+          "text": "He am scared.",
+          "is_correct": false,
+          "feedback": "\"Am\" is used only with \"I\", not with \"he\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Applying the correct form of the verb \"be\" with the third person singular to describe feelings.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-5-2026-W16-feelings-emotions-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W16-feelings-emotions-001-MASTERY-bundle-v4",
+      "statement": "Which word correctly completes the sentence?",
+      "context": "A teacher in Manizales writes on the board: \"I feel ______ after playing soccer all afternoon because I need to rest.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tired.",
+          "is_correct": true,
+          "feedback": "Playing sports all afternoon and needing rest describe the feeling of being tired."
+        },
+        {
+          "letter": "B",
+          "text": "Excited.",
+          "is_correct": false,
+          "feedback": "Being excited does not match the need to rest after long exercise."
+        },
+        {
+          "letter": "C",
+          "text": "Angry.",
+          "is_correct": false,
+          "feedback": "Anger is not caused by playing soccer and needing rest."
+        },
+        {
+          "letter": "D",
+          "text": "Scared.",
+          "is_correct": false,
+          "feedback": "Fear is unrelated to the context of playing soccer and resting."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Completing sentences with feeling adjectives that match the context of the situation.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-5-2026-W16-feelings-emotions-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W16-feelings-emotions-001-MASTERY-bundle-v5",
+      "statement": "Which word best describes how Daniela feels about the school trip?",
+      "context": "Daniela writes in her diary: \"Tomorrow we have a school trip to the zoo. I cannot wait for it!\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Excited.",
+          "is_correct": true,
+          "feedback": "\"I cannot wait\" shows strong enthusiasm, which is the feeling of being excited."
+        },
+        {
+          "letter": "B",
+          "text": "Sad.",
+          "is_correct": false,
+          "feedback": "Sadness does not match the enthusiasm of waiting eagerly for a trip."
+        },
+        {
+          "letter": "C",
+          "text": "Scared.",
+          "is_correct": false,
+          "feedback": "The diary text shows eagerness, not fear, about the trip."
+        },
+        {
+          "letter": "D",
+          "text": "Angry.",
+          "is_correct": false,
+          "feedback": "Anger is not supported by the happy, eager tone of the text."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Inferring a feeling from a short personal text using expressions of enthusiasm.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.66,
+      "bundle_id": "CO-ING-5-2026-W16-feelings-emotions-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W16-feelings-emotions-001-MASTERY-bundle-v6",
+      "statement": "Which option best explains the change in Miguel's feelings?",
+      "context": "Read: \"Miguel is angry because his little brother broke his favorite toy. Later, his brother says sorry, and Miguel feels calm and happy again.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Miguel's anger changes to happiness after his brother apologizes.",
+          "is_correct": true,
+          "feedback": "The text shows anger at first and happiness again after the apology."
+        },
+        {
+          "letter": "B",
+          "text": "Miguel becomes angrier after his brother apologizes.",
+          "is_correct": false,
+          "feedback": "The text says he feels calm and happy after the apology, not angrier."
+        },
+        {
+          "letter": "C",
+          "text": "Miguel was happy at first and then became angry forever.",
+          "is_correct": false,
+          "feedback": "The text reverses this order and ends with Miguel happy again."
+        },
+        {
+          "letter": "D",
+          "text": "Miguel feels scared because his brother broke the toy.",
+          "is_correct": false,
+          "feedback": "The text describes Miguel as angry, not scared."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analyzing how a character's emotion changes across a short narrative in English.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.62,
+      "bundle_id": "CO-ING-5-2026-W16-feelings-emotions-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W16-feelings-emotions-001-MASTERY-bundle-v7",
+      "statement": "Which comparison correctly explains why Laura and Tomas feel differently about the same activity?",
+      "context": "Compare two students: \"Laura is excited because she gets to present her project. Tomas is scared because he has to speak in front of the class.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Laura enjoys presenting, while Tomas feels afraid of speaking in public.",
+          "is_correct": true,
+          "feedback": "The text links Laura's excitement to presenting and Tomas's fear to speaking in front of others."
+        },
+        {
+          "letter": "B",
+          "text": "Both Laura and Tomas feel exactly the same about presenting.",
+          "is_correct": false,
+          "feedback": "The text describes excitement in one and fear in the other, so they do not feel the same."
+        },
+        {
+          "letter": "C",
+          "text": "Tomas is excited and Laura is scared about presenting.",
+          "is_correct": false,
+          "feedback": "The text assigns these feelings the other way around."
+        },
+        {
+          "letter": "D",
+          "text": "Laura and Tomas both refuse to present their projects.",
+          "is_correct": false,
+          "feedback": "The text does not say that either student refuses to present."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparing two points of view to explain different emotional reactions to the same situation.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.58,
+      "bundle_id": "CO-ING-5-2026-W16-feelings-emotions-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W16-feelings-emotions-001-MASTERY-bundle-v8",
+      "statement": "What is the most important message of this paragraph?",
+      "context": "Read: \"Feelings are normal and change during the day. When we feel sad or angry, we can talk to a friend, breathe deeply, or ask an adult for help.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Feelings are normal, and we can manage them by talking, breathing, or asking for help.",
+          "is_correct": true,
+          "feedback": "The paragraph states that feelings are normal and lists healthy ways to handle them."
+        },
+        {
+          "letter": "B",
+          "text": "People should never feel sad or angry.",
+          "is_correct": false,
+          "feedback": "The text says feelings are normal, so it does not forbid them."
+        },
+        {
+          "letter": "C",
+          "text": "Children must hide their feelings from everyone.",
+          "is_correct": false,
+          "feedback": "The text suggests talking to a friend or an adult, not hiding feelings."
+        },
+        {
+          "letter": "D",
+          "text": "Talking to a friend always makes feelings worse.",
+          "is_correct": false,
+          "feedback": "The text presents talking as a helpful strategy, not a harmful one."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluating the main message of a short expository paragraph about managing feelings.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-5-2026-W16-feelings-emotions-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

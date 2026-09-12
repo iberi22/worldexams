@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-22-grade-5-subject-matematicas",
+    "generated_at": "2026-09-12T15:41:45.215Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-5-2026-W22-escala-planos-mapas-proporcionalidad-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es la escala de un mapa?",
+      "context": "En una clase de Tunja, Boyacá, la profesora muestra el mapa de Colombia y explica que los mapas dibujan el territorio más pequeño.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La relación que indica a cuánta distancia real equivale cada centímetro del dibujo.",
+          "is_correct": true,
+          "feedback": "Es correcta: la escala conecta la medida en el papel con la distancia real en el terreno."
+        },
+        {
+          "letter": "B",
+          "text": "El color con el que se pintan los ríos del mapa.",
+          "is_correct": false,
+          "feedback": "Error: el color es un símbolo, no la relación entre dibujo y realidad."
+        },
+        {
+          "letter": "C",
+          "text": "El nombre de la ciudad capital del país.",
+          "is_correct": false,
+          "feedback": "Error: el nombre de la capital no indica proporciones ni distancias."
+        },
+        {
+          "letter": "D",
+          "text": "La cantidad de habitantes de cada ciudad.",
+          "is_correct": false,
+          "feedback": "Error: la población es un dato estadístico, no la escala del dibujo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La escala expresa la proporción entre el dibujo y la realidad. Por ejemplo, 1 cm en el mapa puede equivaler a varios kilómetros en el territorio.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-5-2026-W22-escala-planos-mapas-proporcionalidad-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W22-escala-planos-mapas-proporcionalidad-001-MASTERY-bundle-v2",
+      "statement": "Si dos parques están separados por 4 cm en el plano, ¿cuál es la distancia real?",
+      "context": "En un plano del barrio El Centro en Pasto, Nariño, se lee: \"1 cm equivale a 1 km\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 km.",
+          "is_correct": false,
+          "feedback": "Error: 2 cm equivaldrían a 2 km, pero aquí son 4 cm."
+        },
+        {
+          "letter": "B",
+          "text": "3 km.",
+          "is_correct": false,
+          "feedback": "Error: 3 cm equivaldrían a 3 km, no 4 cm."
+        },
+        {
+          "letter": "C",
+          "text": "4 km.",
+          "is_correct": true,
+          "feedback": "Es correcta: cada centímetro vale 1 km, entonces 4 cm equivalen a 4 km."
+        },
+        {
+          "letter": "D",
+          "text": "40 km.",
+          "is_correct": false,
+          "feedback": "Error: eso sería multiplicar por 10 en vez de mantener la equivalencia de 1 a 1."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Con escala 1 cm = 1 km, basta multiplicar los centímetros medidos por 1. Así, 4 cm representan 4 km reales.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-5-2026-W22-escala-planos-mapas-proporcionalidad-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W22-escala-planos-mapas-proporcionalidad-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la distancia real hasta el mirador?",
+      "context": "En un mapa turístico de Neiva, Huila, la escala dice que 1 cm equivale a 5 km. Entre Neiva y un mirador hay 6 cm en el mapa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "11 km.",
+          "is_correct": false,
+          "feedback": "Error: 11 resulta de sumar 6 + 5, pero la escala exige multiplicar."
+        },
+        {
+          "letter": "B",
+          "text": "30 km.",
+          "is_correct": true,
+          "feedback": "Es correcta: 6 cm por 5 km de cada centímetro dan 30 km reales."
+        },
+        {
+          "letter": "C",
+          "text": "6 km.",
+          "is_correct": false,
+          "feedback": "Error: eso ignora la escala y toma los centímetros como kilómetros."
+        },
+        {
+          "letter": "D",
+          "text": "5 km.",
+          "is_correct": false,
+          "feedback": "Error: 5 km es lo que vale un solo centímetro, no los 6 cm."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La regla es directa: distancia real = medida en el mapa × valor de la escala. Aquí 6 × 5 = 30 km.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-5-2026-W22-escala-planos-mapas-proporcionalidad-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W22-escala-planos-mapas-proporcionalidad-001-MASTERY-bundle-v4",
+      "statement": "Si la cancha mide 8 cm en el plano, ¿cuántos metros mide en realidad?",
+      "context": "En Sincelejo, Sucre, un plano del colegio indica que 2 cm equivalen a 10 metros del patio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18 metros.",
+          "is_correct": false,
+          "feedback": "Error: 18 resulta de sumar 8 + 10, no de usar la proporción."
+        },
+        {
+          "letter": "B",
+          "text": "16 metros.",
+          "is_correct": false,
+          "feedback": "Error: eso duplica los 8 cm, pero cada 2 cm valen 10 m, no 2 m."
+        },
+        {
+          "letter": "C",
+          "text": "20 metros.",
+          "is_correct": false,
+          "feedback": "Error: 20 m corresponderían a 4 cm, no a 8 cm."
+        },
+        {
+          "letter": "D",
+          "text": "40 metros.",
+          "is_correct": true,
+          "feedback": "Es correcta: cada centímetro vale 5 m (10 ÷ 2), y 8 × 5 = 40 m."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Primero se halla el valor de 1 cm (10 ÷ 2 = 5 m) y luego se multiplica por los 8 cm: 40 metros reales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-5-2026-W22-escala-planos-mapas-proporcionalidad-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W22-escala-planos-mapas-proporcionalidad-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál medición es probablemente errada y por qué?",
+      "context": "En Valledupar, Cesar, tres estudiantes midieron en el mismo mapa la distancia entre dos pueblos: Ana midió 5 cm, Luis 5 cm y Marta 6 cm. La escala es 1 cm = 2 km.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La de Marta, porque se aparta del valor repetido por Ana y Luis.",
+          "is_correct": true,
+          "feedback": "Es correcta: cuando dos mediciones coinciden y una se desvía, la distinta suele tener error de medición."
+        },
+        {
+          "letter": "B",
+          "text": "La de Ana, porque medir 5 cm siempre está mal.",
+          "is_correct": false,
+          "feedback": "Error: 5 cm no es malo en sí; además coincide con la de Luis."
+        },
+        {
+          "letter": "C",
+          "text": "La de Luis, porque los niños no saben medir.",
+          "is_correct": false,
+          "feedback": "Error: descalifica sin evidencia; su medida coincide con la de Ana."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna, porque todas las medidas son idénticas.",
+          "is_correct": false,
+          "feedback": "Error: 6 cm es distinto de 5 cm, sí hay diferencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Repetir mediciones ayuda a detectar errores: el dato que se aparta del grupo (6 cm frente a dos de 5 cm) merece revisarse.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-5-2026-W22-escala-planos-mapas-proporcionalidad-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W22-escala-planos-mapas-proporcionalidad-001-MASTERY-bundle-v6",
+      "statement": "¿Qué se puede afirmar sobre las escalas?",
+      "context": "En Quibdó, Chocó, comparan dos mapas del mismo río: en el mapa A el río mide 10 cm y en el mapa B mide 5 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos mapas tienen exactamente la misma escala.",
+          "is_correct": false,
+          "feedback": "Error: con igual escala, el mismo río mediría lo mismo en ambos."
+        },
+        {
+          "letter": "B",
+          "text": "El mapa B tiene una escala mayor que el mapa A.",
+          "is_correct": false,
+          "feedback": "Error: es al revés; el dibujo más grande corresponde a escala mayor (más detalle)."
+        },
+        {
+          "letter": "C",
+          "text": "El mapa A usa una escala mayor (más ampliada) que el mapa B.",
+          "is_correct": true,
+          "feedback": "Es correcta: el mismo objeto se ve más grande cuando la escala representa menos territorio por centímetro."
+        },
+        {
+          "letter": "D",
+          "text": "Las escalas no tienen relación con el tamaño del dibujo.",
+          "is_correct": false,
+          "feedback": "Error: el tamaño del dibujo depende directamente de la escala elegida."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A mayor escala, más grande se dibuja el mismo territorio. Por eso el río de 10 cm está más ampliado que el de 5 cm.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-5-2026-W22-escala-planos-mapas-proporcionalidad-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W22-escala-planos-mapas-proporcionalidad-001-MASTERY-bundle-v7",
+      "statement": "¿Cómo debe calcularlo?",
+      "context": "En Popayán, Cauca, un mapa dice que 3 cm equivalen a 12 km. Un estudiante quiere saber a cuántos km equivale 1 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sumando 3 + 12 = 15 km por centímetro.",
+          "is_correct": false,
+          "feedback": "Error: sumar no reparte los kilómetros entre los centímetros."
+        },
+        {
+          "letter": "B",
+          "text": "Dividiendo 12 ÷ 3 = 4 km por cada centímetro.",
+          "is_correct": true,
+          "feedback": "Es correcta: repartir los 12 km entre los 3 cm da el valor unitario de la escala."
+        },
+        {
+          "letter": "C",
+          "text": "Multiplicando 3 × 12 = 36 km por centímetro.",
+          "is_correct": false,
+          "feedback": "Error: multiplicar agranda el valor en vez de hallar el valor por unidad."
+        },
+        {
+          "letter": "D",
+          "text": "Restando 12 − 3 = 9 km por centímetro.",
+          "is_correct": false,
+          "feedback": "Error: restar no establece la relación proporcional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar el valor de 1 cm se divide el total real entre los centímetros: 12 ÷ 3 = 4 km por centímetro.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-MAT-5-2026-W22-escala-planos-mapas-proporcionalidad-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W22-escala-planos-mapas-proporcionalidad-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál afirmación es correcta y por qué?",
+      "context": "En Yopal, Casanare, dos afirmaciones compiten: \"Si en el mapa la distancia se duplica, la distancia real también se duplica\" frente a \"Si en el mapa la distancia se duplica, la distancia real se mantiene igual\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La segunda, porque la escala cambia sola al medir.",
+          "is_correct": false,
+          "feedback": "Error: la escala es fija en cada mapa; no cambia al medir."
+        },
+        {
+          "letter": "B",
+          "text": "La segunda, porque los mapas no guardan proporción.",
+          "is_correct": false,
+          "feedback": "Error: los mapas bien hechos sí guardan proporción constante."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguna, porque la escala solo sirve para adornar.",
+          "is_correct": false,
+          "feedback": "Error: la escala es la herramienta que permite calcular distancias reales."
+        },
+        {
+          "letter": "D",
+          "text": "La primera, porque la escala es una proporción directa: al multiplicar la medida del mapa, la distancia real se multiplica igual.",
+          "is_correct": true,
+          "feedback": "Es correcta: con escala fija, mapa y realidad varían en proporción directa."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La escala es una proporcionalidad directa: si los centímetros se duplican, los kilómetros reales también. Evaluar esto confirma que el mapa conserva las proporciones.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-5-2026-W22-escala-planos-mapas-proporcionalidad-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}
