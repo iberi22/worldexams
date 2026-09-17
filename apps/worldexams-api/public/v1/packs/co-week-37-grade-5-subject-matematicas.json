@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-37-grade-5-subject-matematicas",
+    "generated_at": "2026-09-17T20:20:06.454Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-5-2026-W37-tablas-frecuencia-graficos-barras-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la frecuencia absoluta de la fruta con mayor preferencia?",
+      "context": "En una encuesta a 40 estudiantes de grado quinto en Manizales sobre su fruta favorita, se registraron los datos en la siguiente tabla:\n- Mango: 14 estudiantes\n- Lulo: 10 estudiantes\n- Maracuyá: 11 estudiantes\n- Guanábana: 5 estudiantes",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10.",
+          "is_correct": false,
+          "feedback": "10 es la frecuencia del lulo, no de la fruta con mayor preferencia."
+        },
+        {
+          "letter": "B",
+          "text": "14.",
+          "is_correct": true,
+          "feedback": "Correcto: El mango fue la fruta preferida con una frecuencia absoluta de 14 respuestas."
+        },
+        {
+          "letter": "C",
+          "text": "40.",
+          "is_correct": false,
+          "feedback": "40 representa la muestra total de estudiantes encuestados, no la frecuencia absoluta del mango."
+        },
+        {
+          "letter": "D",
+          "text": "11.",
+          "is_correct": false,
+          "feedback": "11 es la frecuencia de la maracuyá."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Recordar que la frecuencia absoluta representa el número exacto de veces que se repite un dato específico en la muestra.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-5-2026-W37-tablas-frecuencia-graficos-barras-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W37-tablas-frecuencia-graficos-barras-001-MASTERY-bundle-v2",
+      "statement": "¿Qué información transmite que la barra de fútbol sea más alta que la de baloncesto?",
+      "context": "Un profesor en Armenia organiza los deportes practicados por los alumnos en un diagrama de barras verticales. La barra de baloncesto llega hasta la línea de 25 y la de fútbol hasta 35.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el fútbol dura más minutos que el baloncesto.",
+          "is_correct": false,
+          "feedback": "La altura de la barra representa la frecuencia de estudiantes, no la duración de los partidos."
+        },
+        {
+          "letter": "B",
+          "text": "Que hay 10 estudiantes más practicando fútbol que baloncesto.",
+          "is_correct": true,
+          "feedback": "Correcto: 35 − 25 = 10 estudiantes de diferencia a favor del fútbol."
+        },
+        {
+          "letter": "C",
+          "text": "Que el baloncesto tiene mayor popularidad entre los niños.",
+          "is_correct": false,
+          "feedback": "La barra de baloncesto es más corta (25), lo que indica menor frecuencia."
+        },
+        {
+          "letter": "D",
+          "text": "Que hay un total de 35 estudiantes en todo el colegio.",
+          "is_correct": false,
+          "feedback": "35 es la frecuencia del fútbol, no el total de estudiantes del colegio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprender la relación visual de la altura de las barras con la frecuencia absoluta correspondiente.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-5-2026-W37-tablas-frecuencia-graficos-barras-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W37-tablas-frecuencia-graficos-barras-001-MASTERY-bundle-v3",
+      "statement": "¿Cuántos libros se prestaron en total entre el martes y el jueves?",
+      "context": "La biblioteca escolar de Tunja registró los libros prestados durante una semana:\n- Lunes: 18\n- Martes: 24\n- Miércoles: 30\n- Jueves: 22\n- Viernes: 16",
+      "options": [
+        {
+          "letter": "A",
+          "text": "54 libros.",
+          "is_correct": false,
+          "feedback": "Sumó solo los días martes y miércoles (24 + 30 = 54) olvidando el jueves."
+        },
+        {
+          "letter": "B",
+          "text": "110 libros.",
+          "is_correct": false,
+          "feedback": "Sumó los prestamos de los 5 días de la semana en lugar del rango solicitado."
+        },
+        {
+          "letter": "C",
+          "text": "46 libros.",
+          "is_correct": false,
+          "feedback": "Sumó solo martes y jueves (24 + 22 = 46) omitiendo el miércoles intermedio."
+        },
+        {
+          "letter": "D",
+          "text": "76 libros.",
+          "is_correct": true,
+          "feedback": "Correcto: Martes (24) + Miércoles (30) + Jueves (22) = 76 libros."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aplicar la extracción y suma selectiva de datos cuantitativos presentados en tablas o registros de frecuencia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-5-2026-W37-tablas-frecuencia-graficos-barras-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W37-tablas-frecuencia-graficos-barras-001-MASTERY-bundle-v4",
+      "statement": "¿Qué altura debe tener la barra correspondiente al pescado en un gráfico con escala de 5 en 5 unidades?",
+      "context": "Un restaurante escolar en Popayán registra el tipo de almuerzo consumido por 120 niños: 50 prefieren pollo, 40 carne de res y el resto prefiere pescado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30 unidades.",
+          "is_correct": true,
+          "feedback": "Correcto: Pescado = 120 − (50 + 40) = 120 − 90 = 30. En la escala alcanzará la línea 30."
+        },
+        {
+          "letter": "B",
+          "text": "40 unidades.",
+          "is_correct": false,
+          "feedback": "40 es la frecuencia de carne de res, no de pescado."
+        },
+        {
+          "letter": "C",
+          "text": "20 unidades.",
+          "is_correct": false,
+          "feedback": "Restó 100 de 120 por un error de cálculo en los consumos previos."
+        },
+        {
+          "letter": "D",
+          "text": "50 unidades.",
+          "is_correct": false,
+          "feedback": "50 es la frecuencia del pollo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el cálculo del dato faltante en un total conocido y determinar su representación gráfica exacta.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-5-2026-W37-tablas-frecuencia-graficos-barras-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W37-tablas-frecuencia-graficos-barras-001-MASTERY-bundle-v5",
+      "statement": "¿Qué porcentaje del total de árboles se sembró en la Jornada 4?",
+      "context": "Un grupo ecológico en Santa Marta sembró árboles en cuatro jornadas:\n- Jornada 1: 15 árboles\n- Jornada 2: 25 árboles\n- Jornada 3: 20 árboles\n- Jornada 4: 30 árboles",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30%.",
+          "is_correct": false,
+          "feedback": "Confundió la cantidad absoluta (30 árboles) con el porcentaje sobre el total (90 árboles)."
+        },
+        {
+          "letter": "B",
+          "text": "25%.",
+          "is_correct": false,
+          "feedback": "25% correspondería a 30 sobre un total de 120 árboles, pero el total fue 90."
+        },
+        {
+          "letter": "C",
+          "text": "33,33% (o 1/3 del total).",
+          "is_correct": true,
+          "feedback": "Correcto: Total = 15 + 25 + 20 + 30 = 90 árboles. Jornada 4 = 30 / 90 = 1/3 ≈ 33,33%."
+        },
+        {
+          "letter": "D",
+          "text": "50%.",
+          "is_correct": false,
+          "feedback": "50% significaría que en la jornada 4 se sembraron 45 árboles."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Calcular la proporción relativa de un dato estadístico respecto al total de la muestra recolectada.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-5-2026-W37-tablas-frecuencia-graficos-barras-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W37-tablas-frecuencia-graficos-barras-001-MASTERY-bundle-v6",
+      "statement": "Al analizar las ventas totales combinando ambas sedes, ¿cuál fue el sabor de jugo más vendido?",
+      "context": "En un gráfico de barras dobles se comparan las ventas de jugos naturales en dos sedes de una cafetería en Cúcuta durante un día:\n- Sede Centro: Naranja 40, Lulo 25, Maracuyá 35.\n- Sede Norte: Naranja 30, Lulo 35, Maracuyá 20.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Naranja, con 70 unidades vendidas en total.",
+          "is_correct": true,
+          "feedback": "Correcto: Naranja (40 + 30 = 70), Lulo (25 + 35 = 60), Maracuyá (35 + 20 = 55). Naranja fue el líder."
+        },
+        {
+          "letter": "B",
+          "text": "Lulo, con 60 unidades vendidas en total.",
+          "is_correct": false,
+          "feedback": "Lulo acumuló 60 unidades, superado por el jugo de naranja con 70."
+        },
+        {
+          "letter": "C",
+          "text": "Maracuyá, con 70 unidades vendidas en total.",
+          "is_correct": false,
+          "feedback": "Maracuyá sumó 55 unidades (35 + 20), no 70."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos sedes vendieron la misma cantidad total de jugos.",
+          "is_correct": false,
+          "feedback": "Sede Centro vendió 100 jugos (40+25+35) y Sede Norte 85 jugos (30+35+20)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar diagramas de barras compuestas consolidando datos de múltiples categorías e itinerarios.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-5-2026-W37-tablas-frecuencia-graficos-barras-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W37-tablas-frecuencia-graficos-barras-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la diferencia de altura en centímetros entre la barra de los perros y la barra de las aves?",
+      "context": "Un estudiante construyó la siguiente tabla con el número de mascotas registradas en su barrio en Villavicencio:\n- Perros: 45\n- Gatos: 30\n- Aves: 15\n- Peces: 10\n\nAl dibujar el gráfico de barras usó una escala donde cada centímetro de altura en el eje vertical representa 5 animales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30 cm.",
+          "is_correct": false,
+          "feedback": "30 es la diferencia en la cantidad absoluta de animales (45 − 15), no en la escala del dibujo en cm."
+        },
+        {
+          "letter": "B",
+          "text": "3 cm.",
+          "is_correct": false,
+          "feedback": "3 cm es la altura de la barra de las aves solamente."
+        },
+        {
+          "letter": "C",
+          "text": "6 cm.",
+          "is_correct": true,
+          "feedback": "Correcto: Perros = 45 / 5 = 9 cm. Aves = 15 / 5 = 3 cm. Diferencia: 9 − 3 = 6 cm (o 30 animales / 5 = 6 cm)."
+        },
+        {
+          "letter": "D",
+          "text": "9 cm.",
+          "is_correct": false,
+          "feedback": "9 cm es la altura de la barra de los perros solamente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar el cambio de representación de unidades reales a la escala gráfica de un eje vertical.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-5-2026-W37-tablas-frecuencia-graficos-barras-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W37-tablas-frecuencia-graficos-barras-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de las rutas tuvo el mejor desempeño porcentual en puntualidad?",
+      "context": "Una empresa de transporte escolar en Medellín evaluó la puntualidad de sus rutas durante un mes. El gráfico muestra que la Ruta 1 tuvo 18 días puntuales de 20; la Ruta 2 tuvo 15 puntuales de 20; y la Ruta 3 tuvo 12 puntuales de 15.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Ruta 1 y la Ruta 3 tuvieron el mismo desempeño porcentual.",
+          "is_correct": false,
+          "feedback": "Ruta 1 = 18/20 = 90%. Ruta 3 = 12/15 = 80%. No son iguales."
+        },
+        {
+          "letter": "B",
+          "text": "La Ruta 2, porque tuvo menos días con demoras extremas.",
+          "is_correct": false,
+          "feedback": "15/20 es un 75%, el rendimiento más bajo de las tres rutas."
+        },
+        {
+          "letter": "C",
+          "text": "La Ruta 3, porque operó menos días en total.",
+          "is_correct": false,
+          "feedback": "Operar menos días no mejora la puntualidad relativa cuando se evalúa sobre el total de viajes realizados."
+        },
+        {
+          "letter": "D",
+          "text": "La Ruta 1, con un 90% de puntualidad.",
+          "is_correct": true,
+          "feedback": "Correcto: Ruta 1: 18/20 = 90%. Ruta 2: 15/20 = 75%. Ruta 3: 12/15 = 80%. La Ruta 1 obtuvo el porcentaje más alto."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar indicadores de calidad comparando proporciones relativas en muestras de diferente tamaño total.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-5-2026-W37-tablas-frecuencia-graficos-barras-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

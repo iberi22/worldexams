@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-39-grade-5-subject-ciencias_naturales",
+    "generated_at": "2026-09-17T20:20:06.127Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-5-2026-W39-impacto-humano-ecosistemas-conservacion-001-MASTERY-bundle-v1",
+      "statement": "¿Cómo se denomina este proceso de pérdida masiva de cobertura vegetal debido a la acción humana?",
+      "context": "La tala indiscriminada de árboles en la selva del Caquetá destruye hectáreas de vegetación nativa cada año para abrir paso a la ganadería extensiva.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reforestación.",
+          "is_correct": false,
+          "feedback": "La reforestación es la siembra de árboles para recuperar un bosque destruido."
+        },
+        {
+          "letter": "B",
+          "text": "Fotosíntesis.",
+          "is_correct": false,
+          "feedback": "La fotosíntesis es el proceso metabólico con el cual las plantas fabrican su alimento utilizando luz."
+        },
+        {
+          "letter": "C",
+          "text": "Condensación.",
+          "is_correct": false,
+          "feedback": "La condensación es el cambio de estado del vapor de agua a líquido en las nubes."
+        },
+        {
+          "letter": "D",
+          "text": "Deforestación.",
+          "is_correct": true,
+          "feedback": "Correcto: La deforestación es la eliminación directa de bosques para usos agrícolas, urbanos o comerciales."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Recordar los términos ambientales fundamentales asociados a la degradación antrópica de los recursos naturales.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Biologia",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-5-2026-W39-impacto-humano-ecosistemas-conservacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W39-impacto-humano-ecosistemas-conservacion-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué los desechos plásticos son especialmente peligrosos para las tortugas marinas y peces pelágicos?",
+      "context": "Millones de toneladas de plásticos de un solo uso (botellas, bolsas, empaques) terminan flotando en el Mar Caribe y el Océano Pacífico colombiano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los plásticos disuelven el agua salada convirtiéndola en aire seco.",
+          "is_correct": false,
+          "feedback": "El plástico no disuelve el agua ni la convierte en masa gaseosa."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el plástico nutre a las algas haciendo que crezcan descontroladamente en el fondo.",
+          "is_correct": false,
+          "feedback": "El plástico sintético no es un fertilizante orgánico para el crecimiento de algas."
+        },
+        {
+          "letter": "C",
+          "text": "Porque tardan cientos de años en degradarse, provocan asfixia al ser confundidos con alimento y se fragmentan en microplásticos tóxicos.",
+          "is_correct": true,
+          "feedback": "Correcto: Las tortugas confunden bolsas con medusas y al ingerirlas sufren obstrucciones intestinales mortales."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los peces usan las botellas de plástico para construir sus escamas.",
+          "is_correct": false,
+          "feedback": "Las escamas son estructuras biológicas formadas por proteínas de la piel del pez."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprender la persistencia temporal de los polímeros sintéticos y sus efectos letales en las redes tróficas marinas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Biologia",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-5-2026-W39-impacto-humano-ecosistemas-conservacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W39-impacto-humano-ecosistemas-conservacion-001-MASTERY-bundle-v3",
+      "statement": "¿Qué actividad humana suele causar este fenómeno conocido como eutrofización de las aguas dulces?",
+      "context": "En una quebrada de Santander que abastece a un acueducto veredal, los pobladores observaron la muerte masiva de peces y la proliferación excesiva de algas verdosas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El exceso de pesca artesanal con caña de madera en la orilla.",
+          "is_correct": false,
+          "feedback": "La pesca con caña no introduce fertilizantes ni causa florecimiento de algas eutróficas."
+        },
+        {
+          "letter": "B",
+          "text": "El sembrado de árboles frutales nativos a lo largo de las laderas de la quebrada.",
+          "is_correct": false,
+          "feedback": "La vegetación ribereña protege la fuente hídrica y filtra los contaminantes de la escorrentía."
+        },
+        {
+          "letter": "C",
+          "text": "La disminución de la luz solar por presencia de nubes pasajeras.",
+          "is_correct": false,
+          "feedback": "Las nubes no introducen carga química de nitrógeno ni fósforo en el agua."
+        },
+        {
+          "letter": "D",
+          "text": "El vertimiento directo de aguas residuales con detergentes ricos en fosfatos y fertilizantes agrícolas arrastrados por la lluvia.",
+          "is_correct": true,
+          "feedback": "Correcto: Los nutrientes en exceso provocan el sobrecrecimiento de algas que agotan el oxígeno disuelto en el agua."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aplicar el concepto de eutrofización hídrica derivada del vertimiento de nutrientes sintéticos e industriales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Biologia",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-5-2026-W39-impacto-humano-ecosistemas-conservacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W39-impacto-humano-ecosistemas-conservacion-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál de las siguientes acciones cotidianas representa la R de **Reducir**?",
+      "context": "Para reducir el volumen de residuos sólidos que llegan a los rellenos sanitarios como Doña Juana en Bogotá o El Guabal en Yotoco, se promueve la regla de las 3R (Reducir, Reutilizar, Reciclar).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Convertir una botella de plástico usada en un macetero para plantas.",
+          "is_correct": false,
+          "feedback": "Dar un nuevo uso a un objeto ya fabricado es un ejemplo de **Reutilizar**."
+        },
+        {
+          "letter": "B",
+          "text": "Rechazar empaques plásticos innecesarios al comprar en el supermercado y llevar una bolsa de tela reutilizable.",
+          "is_correct": true,
+          "feedback": "Correcto: Reducir consiste en disminuir el consumo inicial de materiales descartables antes de que se conviertan en basura."
+        },
+        {
+          "letter": "C",
+          "text": "Llevar papel impreso a un centro especializado para procesarlo y fabricar cartón nuevo.",
+          "is_correct": false,
+          "feedback": "Transformar industrialmente un residuo en materia prima es la acción de **Reciclar**."
+        },
+        {
+          "letter": "D",
+          "text": "Arrojar la basura orgánica en los canales de agua lluvia de la calle.",
+          "is_correct": false,
+          "feedback": "Arrojar desperdicios a las alcantarillas contamina las fuentes hídricas y causa inundaciones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicar la jerarquía de la regla de las 3R distinguiendo la reducción en origen del reúso y el reciclaje.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciencia_Tecnologia_Sociedad",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-5-2026-W39-impacto-humano-ecosistemas-conservacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W39-impacto-humano-ecosistemas-conservacion-001-MASTERY-bundle-v5",
+      "statement": "¿Cuáles son las dos consecuencias ambientales más destructivas de esta práctica minera?",
+      "context": "La minería ilegal de oro a cielo abierto en ríos como el Atrato (Chocó) o el Nechí (Antioquia) utiliza maquinaria pesada (dragas) y mercurio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enfriamiento de las aguas del río y aumento de la nieve en las orillas.",
+          "is_correct": false,
+          "feedback": "La minería no produce congelamiento de las aguas tropicales."
+        },
+        {
+          "letter": "B",
+          "text": "Destrucción del lecho del río con erosión severa y envenenamiento por mercurio en peces y comunidades humanas.",
+          "is_correct": true,
+          "feedback": "Correcto: Las dragas remueven el lecho destruyendo la fauna bentónica y el mercurio contamina irreversiblemente la cadena alimenticia."
+        },
+        {
+          "letter": "C",
+          "text": "Purificación del agua haciéndola potable sin necesidad de cloro.",
+          "is_correct": false,
+          "feedback": "El mercurio es un metal pesado altamente tóxico para el sistema nervioso, no un purificador de agua."
+        },
+        {
+          "letter": "D",
+          "text": "Generación masiva de bosques de galería en las playas del río.",
+          "is_correct": false,
+          "feedback": "La minería destruye la vegetación de ribera (bosque de galería) acelerando la desertificación hídrica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicar el análisis de impacto ambiental de la minería de aluvión sobre la geomorfología fluvial y la toxicología ecosistémica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Biologia",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-5-2026-W39-impacto-humano-ecosistemas-conservacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W39-impacto-humano-ecosistemas-conservacion-001-MASTERY-bundle-v6",
+      "statement": "Pocos meses después, una marejada destruyó las instalaciones del hotel. ¿Qué análisis ecológico explica lo sucedido?",
+      "context": "Una empresa turística construyó un complejo hotelero en un manglar del Caribe colombiano. Eliminó parte de los árboles de mangle para hacer playas artificiales de arena blanca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El manglar funcionaba como una barrera viva natural contra el oleaje y la erosión costera; al eliminarlo, la costa quedó desprotegida.",
+          "is_correct": true,
+          "feedback": "Correcto: Las raíces entrelazadas del mangle disipan la energía de las olas y fijan el sedimento evitando el colapso del litoral."
+        },
+        {
+          "letter": "B",
+          "text": "El mar se enojó porque las luces del hotel eran de color amarillo en vez de azul.",
+          "is_correct": false,
+          "feedback": "Los fenómenos hidrodinámicos obedecen a leyes físicas y ecológicas, no a emociones de la naturaleza."
+        },
+        {
+          "letter": "C",
+          "text": "Las raíces del mangle atraían olas gigantes que destruían las playas antes de la construcción.",
+          "is_correct": false,
+          "feedback": "Al contrario, el entramado de raíces frena la fuerza de la corriente e impiden la erosión."
+        },
+        {
+          "letter": "D",
+          "text": "La arena blanca fabricada sintéticamente derrite el agua del océano.",
+          "is_correct": false,
+          "feedback": "La arena no altera el estado de agregación del agua marina."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar los servicios de protección costera que brindan los manglares y las consecuencias de su alteración antropogénica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Biologia",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-5-2026-W39-impacto-humano-ecosistemas-conservacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W39-impacto-humano-ecosistemas-conservacion-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la causa biológica de la estabilidad del suelo en la Microcuenca A?",
+      "context": "Un grupo ambientalista en la cuenca del río Cauca comparó dos microcuencas vecinas:\n- Microcuenca A: Mantiene su bosque nativo intacto en las laderas.\n- Microcuenca B: Perdió sus bosques y las laderas están cubiertas de potreros de pastoreo.\n\nDurante la temporada de lluvias intensas, la Microcuenca B sufrió un deslizamiento de tierra (derrumbe) catastrófico, mientras que la A se mantuvo estable.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las hojas de los árboles repelen la lluvia enviando las gotas de vuelta a las nubes.",
+          "is_correct": false,
+          "feedback": "La lluvia cae a la tierra; la copa del árbol amortigua el impacto de la gota pero no la regresa al cielo."
+        },
+        {
+          "letter": "B",
+          "text": "El ganado de los potreros en la Microcuenca B amarró la tierra con sus pezuñas.",
+          "is_correct": false,
+          "feedback": "El pisoteo del ganado compacta e impermeabiliza el suelo, aumentando la erosión y la inestabilidad."
+        },
+        {
+          "letter": "C",
+          "text": "Las raíces de los árboles actúan como un entramado de red que sostiene el suelo y absorben el exceso de agua infiltrada.",
+          "is_correct": true,
+          "feedback": "Correcto: La cobertura vegetal sujeta mecánicamente las capas de tierra y disminuye la escorrentía superficial errosiva."
+        },
+        {
+          "letter": "D",
+          "text": "Los bosques nativos no permiten que el agua entre dentro de la tierra.",
+          "is_correct": false,
+          "feedback": "Los bosques favorecen la infiltración graduada y evitan la saturación violenta de las capas arcillosas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar el papel biológico de la vegetación en la prevención de remociones en masa y control de escorrentía.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Biologia",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-5-2026-W39-impacto-humano-ecosistemas-conservacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W39-impacto-humano-ecosistemas-conservacion-001-MASTERY-bundle-v8",
+      "statement": "Al evaluar la seguridad hídrica a largo plazo para las ciudades que se abastecen de este páramo, ¿cuál es la decisión correcta y por qué?",
+      "context": "Un municipio cercano a un páramo en Cundinamarca evalúa dos planes para el desarrollo económico local:\n- Plan 1: Ampliar la frontera agrícola con cultivos de papa y ganado usando fertilizantes químicos en la zona alta del páramo.\n- Plan 2: Desarrollar ecoturismo guiado de bajo impacto, incentivos por servicios ambientales a los campesinos y delimitación estricta del páramo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Plan 2, porque conserva el ecosistema de páramo como esponja reguladora de agua dulce y genera ingresos sostenibles sin destruir el suelo.",
+          "is_correct": true,
+          "feedback": "Correcto: Los páramos producen más del 70% del agua potable en Colombia; su conservación estricta es prioritaria para la seguridad hídrica nacional."
+        },
+        {
+          "letter": "B",
+          "text": "El Plan 1, porque la papa se puede cultivar usando agua de botella sin afectar el páramo.",
+          "is_correct": false,
+          "feedback": "Destruir el frailejón y remover el suelo de colchón hídrico destruye la capacidad del páramo de retener y regular el agua para millones de personas."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos planes benefician por igual el agua porque el fertilizante químico limpia la niebla.",
+          "is_correct": false,
+          "feedback": "Los fertilizantes nitrados y pesticidas contaminan las fuentes de agua dulce nacientes en el páramo."
+        },
+        {
+          "letter": "D",
+          "text": "El Plan 1, porque los pastizales de ganado producen más agua que los frailejones nativos.",
+          "is_correct": false,
+          "feedback": "El pastoreo destruye la estructura porosa de la turbera impidiendo la acumulación de agua."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar políticas de uso del suelo en ecosistemas frágiles estratégicos (páramos) ponderando la sostenibilidad hídrica nacional.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciencia_Tecnologia_Sociedad",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-5-2026-W39-impacto-humano-ecosistemas-conservacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

@@ -34,15 +34,14 @@ Dividir números decimales entre números naturales para resolver repartos de al
 ¿Cuántos litros de jugo debe servir Martha en cada jarra?
 
 ### Opciones
-- [x] A) 2,4 litros.
-  <!-- feedback: Correcto: 4,8 ÷ 2 = 2,4 litros en cada jarra. -->
-- [ ] B) 2,2 litros.
+- [ ] A) 2,2 litros.
   <!-- feedback: 2,2 × 2 = 4,4 litros, que es menos de los 4,8 litros preparados. -->
-- [ ] C) 4,8 litros.
+- [ ] B) 4,8 litros.
   <!-- feedback: 4,8 litros es el total; hay que repartirlo entre las 2 jarras. -->
+- [x] C) 2,4 litros.
+  <!-- feedback: Correcto: 4,8 ÷ 2 = 2,4 litros en cada jarra. -->
 - [ ] D) 9,6 litros.
   <!-- feedback: 9,6 resulta de multiplicar 4,8 × 2; la situación pide repartir, es decir, dividir. -->
-
 ### Explicacion Pedagogica
 Recordar que repartir una cantidad en partes iguales se resuelve con una división: 4,8 ÷ 2 = 2,4.
 
@@ -57,15 +56,14 @@ Recordar que repartir una cantidad en partes iguales se resuelve con una divisi�
 ¿Por qué la operación 7,5 ÷ 3 = 2,5 resuelve correctamente el reparto del queso?
 
 ### Opciones
-- [x] A) Porque dividir el peso total entre 3 partes iguales da el peso de cada pedazo.
-  <!-- feedback: Correcto: la división reparte el total en partes iguales y 2,5 × 3 = 7,5 lo comprueba. -->
-- [ ] B) Porque al dividir siempre se obtiene un número entero.
+- [ ] A) Porque al dividir siempre se obtiene un número entero.
   <!-- feedback: Dividir no siempre da un número entero; aquí el resultado 2,5 es decimal. -->
-- [ ] C) Porque 7,5 + 3 también da 2,5.
+- [ ] B) Porque 7,5 + 3 también da 2,5.
   <!-- feedback: 7,5 + 3 = 10,5, no 2,5; sumar no reparte el queso. -->
-- [ ] D) Porque la coma decimal se elimina al dividir.
+- [ ] C) Porque la coma decimal se elimina al dividir.
   <!-- feedback: La coma no se elimina; el resultado conserva la parte decimal: 2,5 kilogramos. -->
-
+- [x] D) Porque dividir el peso total entre 3 partes iguales da el peso de cada pedazo.
+  <!-- feedback: Correcto: la división reparte el total en partes iguales y 2,5 × 3 = 7,5 lo comprueba. -->
 ### Explicacion Pedagogica
 Comprender que la división entre un natural reparte el total en partes iguales y que el resultado puede ser decimal, verificable con la multiplicación inversa.
 
@@ -80,15 +78,14 @@ Comprender que la división entre un natural reparte el total en partes iguales 
 ¿Cuántos kilogramos de café hay en cada bolsa?
 
 ### Opciones
-- [x] A) 4,2 kilogramos.
-  <!-- feedback: Correcto: 12,6 ÷ 3 = 4,2 y 4,2 × 3 = 12,6 comprueba el reparto. -->
-- [ ] B) 4,6 kilogramos.
+- [ ] A) 4,6 kilogramos.
   <!-- feedback: 4,6 × 3 = 13,8 kilogramos, más que los 12,6 empacados. -->
-- [ ] C) 3,2 kilogramos.
+- [ ] B) 3,2 kilogramos.
   <!-- feedback: 3,2 × 3 = 9,6 kilogramos, menos que el total empacado. -->
-- [ ] D) 6,3 kilogramos.
+- [ ] C) 6,3 kilogramos.
   <!-- feedback: 6,3 corresponde a dividir entre 2, no entre las 3 bolsas. -->
-
+- [x] D) 4,2 kilogramos.
+  <!-- feedback: Correcto: 12,6 ÷ 3 = 4,2 y 4,2 × 3 = 12,6 comprueba el reparto. -->
 ### Explicacion Pedagogica
 Aplicar la división de un decimal entre un natural para repartir 12,6 kg en 3 partes iguales.
 
@@ -103,15 +100,14 @@ Aplicar la división de un decimal entre un natural para repartir 12,6 kg en 3 p
 ¿Cuántos metros de cinta usará en cada moño?
 
 ### Opciones
-- [x] A) 1,95 metros.
-  <!-- feedback: Correcto: 9,75 ÷ 5 = 1,95 y 1,95 × 5 = 9,75 verifica el corte. -->
-- [ ] B) 1,75 metros.
+- [ ] A) 1,75 metros.
   <!-- feedback: 1,75 × 5 = 8,75 metros, no alcanza los 9,75 metros de la cinta. -->
-- [ ] C) 19,5 metros.
+- [ ] B) 19,5 metros.
   <!-- feedback: 19,5 metros es más del doble de la cinta disponible; hay un error con la coma decimal. -->
+- [x] C) 1,95 metros.
+  <!-- feedback: Correcto: 9,75 ÷ 5 = 1,95 y 1,95 × 5 = 9,75 verifica el corte. -->
 - [ ] D) 4,75 metros.
   <!-- feedback: 4,75 resulta de restar 5 a 9,75; cortar en partes iguales exige dividir. -->
-
 ### Explicacion Pedagogica
 Aplicar la división 9,75 ÷ 5 cuidando la posición de la coma decimal en el cociente.
 
@@ -126,15 +122,14 @@ Aplicar la división 9,75 ÷ 5 cuidando la posición de la coma decimal en el co
 ¿Cuántos galones de gasolina consumió cada día?
 
 ### Opciones
-- [x] A) 3,85 galones.
-  <!-- feedback: Correcto: 15,4 ÷ 4 = 3,85 y 3,85 × 4 = 15,4 confirma el consumo diario. -->
-- [ ] B) 3,65 galones.
+- [ ] A) 3,65 galones.
   <!-- feedback: 3,65 × 4 = 14,6 galones, menos que los 15,4 consumidos. -->
+- [x] B) 3,85 galones.
+  <!-- feedback: Correcto: 15,4 ÷ 4 = 3,85 y 3,85 × 4 = 15,4 confirma el consumo diario. -->
 - [ ] C) 4,85 galones.
   <!-- feedback: 4,85 × 4 = 19,4 galones, más que el total consumido en los 4 días. -->
 - [ ] D) 11,4 galones.
   <!-- feedback: 11,4 resulta de restar 4 a 15,4; repartir por días iguales exige dividir. -->
-
 ### Explicacion Pedagogica
 Aplicar la división entre 4 para hallar el consumo diario promedio a partir de un total decimal.
 
@@ -149,15 +144,14 @@ Aplicar la división entre 4 para hallar el consumo diario promedio a partir de 
 Al comparar el precio por litro de las dos presentaciones, ¿qué concluye Laura?
 
 ### Opciones
-- [x] A) Conviene la botella de 2,5 litros, porque cuesta $4.000 por litro frente a $4.400 por litro.
-  <!-- feedback: Correcto: 10.000 ÷ 2,5 = 4.000 y 5.500 ÷ 1,25 = 4.400; el litro sale más barato en la botella grande. -->
-- [ ] B) Conviene la botella de 1,25 litros, porque $5.500 es menor que $10.000.
+- [ ] A) Conviene la botella de 1,25 litros, porque $5.500 es menor que $10.000.
   <!-- feedback: Comparar solo el precio total engaña; hay que dividir por los litros de cada presentación. -->
+- [x] B) Conviene la botella de 2,5 litros, porque cuesta $4.000 por litro frente a $4.400 por litro.
+  <!-- feedback: Correcto: 10.000 ÷ 2,5 = 4.000 y 5.500 ÷ 1,25 = 4.400; el litro sale más barato en la botella grande. -->
 - [ ] C) Las dos convienen igual, porque 2,5 es el doble de 1,25.
   <!-- feedback: Aunque el contenido se duplica, el precio no: $10.000 no es el doble de $5.500. -->
 - [ ] D) Conviene la botella de 2,5 litros, porque cuesta $2.500 por litro.
   <!-- feedback: 10.000 ÷ 2,5 = 4.000, no 2.500; la división correcta da $4.000 por litro. -->
-
 ### Explicacion Pedagogica
 Analizar ofertas comparando el precio unitario, que se obtiene dividiendo el precio total entre la cantidad de litros.
 
@@ -180,7 +174,6 @@ Analizar ofertas comparando el precio unitario, que se obtiene dividiendo el pre
   <!-- feedback: Ese cálculo mezcla cifras sin sentido; 2,1 × 4 = 8,4 demuestra que el cociente es 2,1. -->
 - [ ] D) Debió dividir 8,4 entre 40 para que diera 2,1.
   <!-- feedback: Cambiar el divisor cambia el problema; el error está en la coma, no en el divisor 4. -->
-
 ### Explicacion Pedagogica
 Analizar el procedimiento de una división decimal para detectar el error de posición de la coma y corregirlo con la verificación 2,1 × 4 = 8,4.
 
@@ -195,14 +188,13 @@ Analizar el procedimiento de una división decimal para detectar el error de pos
 ¿Cuál es el precio máximo que pueden pagar por cada litro de leche sin pasarse del presupuesto?
 
 ### Opciones
-- [ ] A) $5.000 por litro.
-  <!-- feedback: 4 × 5.000 = $20.000 solo en leche, más $36.000 de panela y queso, da $56.000 y supera el presupuesto. -->
-- [x] B) $3.500 por litro.
+- [x] A) $3.500 por litro.
   <!-- feedback: Correcto: panela 2,5 × 4.800 = $12.000 y queso 1,5 × 16.000 = $24.000; quedan 50.000 − 36.000 = $14.000 y 14.000 ÷ 4 = $3.500 por litro. -->
+- [ ] B) $5.000 por litro.
+  <!-- feedback: 4 × 5.000 = $20.000 solo en leche, más $36.000 de panela y queso, da $56.000 y supera el presupuesto. -->
 - [ ] C) $6.000 por litro.
   <!-- feedback: 4 × 6.000 = $24.000 solo en leche, más $36.000 de panela y queso, supera los $50.000. -->
 - [ ] D) $12.500 por litro.
   <!-- feedback: 50.000 ÷ 4 ignora que primero hay que pagar la panela y el queso. -->
-
 ### Explicacion Pedagogica
 Evaluar un presupuesto restando los gastos fijos con decimales y dividiendo el resto entre las 4 unidades para hallar el precio máximo posible.

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-36-grade-5-subject-matematicas",
+    "generated_at": "2026-09-17T20:20:06.453Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-5-2026-W36-resolucion-problemas-avanzados-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál fue el costo total de la compra incluyendo el transporte?",
+      "context": "Un comerciante del mercado de Paloquemao en Bogotá compró 12 bultos de papa a $45.000 cada uno y gastó $30.000 en el transporte.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$540.000.",
+          "is_correct": false,
+          "feedback": "$540.000 es solo el valor de la papa; olvida sumar el costo del transporte."
+        },
+        {
+          "letter": "B",
+          "text": "$510.000.",
+          "is_correct": false,
+          "feedback": "Restó el transporte en vez de sumarlo al costo total."
+        },
+        {
+          "letter": "C",
+          "text": "$600.000.",
+          "is_correct": false,
+          "feedback": "Sumó $60.000 de transporte en lugar de los $30.000 indicados."
+        },
+        {
+          "letter": "D",
+          "text": "$570.000.",
+          "is_correct": true,
+          "feedback": "Correcto: (12 × 45.000) + 30.000 = 540.000 + 30.000 = $570.000."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Recordar que para hallar el costo total de una inversión se multiplica la cantidad de unidades por el precio unitario y se le suman los gastos adicionales de logística.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-5-2026-W36-resolucion-problemas-avanzados-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W36-resolucion-problemas-avanzados-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué la operación (360 ÷ 3) × 2 permite calcular la cantidad de mora enviada a la fábrica de jugos?",
+      "context": "En una finca frutícola de Santander se cosechan 360 kilogramos de mora. Dos tercios (2/3) de la cosecha se venden a una fábrica de jugos en Bucaramanga y el resto en el mercado local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque multiplicar por 2 da el total y dividir entre 3 halla el remanente.",
+          "is_correct": false,
+          "feedback": "La multiplicación previa sin dividir primero cambia la escala del problema."
+        },
+        {
+          "letter": "B",
+          "text": "Porque 2/3 es equivalente a multiplicar 360 por 3 y restar 2.",
+          "is_correct": false,
+          "feedback": "Calcular la fracción de un número exige dividir por el denominador y multiplicar por el numerador."
+        },
+        {
+          "letter": "C",
+          "text": "Porque restar 2/3 de 360 da exactamente 120 kilogramos.",
+          "is_correct": false,
+          "feedback": "Restar una fracción directamente a un número entero de kilogramos es un error conceptual de unidades."
+        },
+        {
+          "letter": "D",
+          "text": "Porque dividir entre 3 calcula un tercio del total y multiplicar por 2 toma las dos partes correspondientes.",
+          "is_correct": true,
+          "feedback": "Correcto: 360 ÷ 3 = 120 (1/3) y 120 × 2 = 240 kg (2/3)."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comprender la interpretación operacional de una fracción como operador sobre una cantidad entera.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-5-2026-W36-resolucion-problemas-avanzados-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W36-resolucion-problemas-avanzados-001-MASTERY-bundle-v3",
+      "statement": "Si el metro de tela cuesta $16.000, ¿cuánto dinero gastará en la tela total necesaria?",
+      "context": "Doña Carmen confecciona uniformes en Ibagué. Necesita 2,25 metros de tela para cada pantalón y fabricará 8 pantalones para un equipo escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$288.000.",
+          "is_correct": true,
+          "feedback": "Correcto: 2,25 × 8 = 18 metros en total; 18 × 16.000 = $288.000."
+        },
+        {
+          "letter": "B",
+          "text": "$144.000.",
+          "is_correct": false,
+          "feedback": "Calculó el costo para solo 9 metros de tela en lugar de los 18 metros requeridos."
+        },
+        {
+          "letter": "C",
+          "text": "$256.000.",
+          "is_correct": false,
+          "feedback": "Asumió 2 metros por pantalón (16 metros en total) perdiendo los 0,25 m sobrantes por unidad."
+        },
+        {
+          "letter": "D",
+          "text": "$320.000.",
+          "is_correct": false,
+          "feedback": "Calculó el costo para 20 metros de tela, excediendo la cantidad necesaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la multiplicación de decimales para hallar el total de insumos y luego calcular su valor monetario total.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-5-2026-W36-resolucion-problemas-avanzados-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W36-resolucion-problemas-avanzados-001-MASTERY-bundle-v4",
+      "statement": "¿Cuántas cajas de leche le quedan al camión después de la segunda entrega?",
+      "context": "Un camión repartidor sale de Pereira con 1.500 cajas de leche. En la primera parada entrega 2/5 del lote y en la segunda entrega 450 cajas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "600 cajas.",
+          "is_correct": false,
+          "feedback": "600 es la cantidad entregada en la primera parada, no las cajas sobrantes al final."
+        },
+        {
+          "letter": "B",
+          "text": "450 cajas.",
+          "is_correct": true,
+          "feedback": "Correcto: 1/5 de 1.500 es 300, luego 2/5 = 600 cajas. Total entregado: 600 + 450 = 1.050. Quedan: 1.500 − 1.050 = 450 cajas."
+        },
+        {
+          "letter": "C",
+          "text": "900 cajas.",
+          "is_correct": false,
+          "feedback": "900 cajas quedaban tras la primera entrega, falta restar la segunda entrega de 450 cajas."
+        },
+        {
+          "letter": "D",
+          "text": "300 cajas.",
+          "is_correct": false,
+          "feedback": "Calculó solo 1/5 de las cajas totales en lugar de las 450 restantes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolver situaciones multietapa que combinan fracciones sobre cantidades discretas y restas sucesivas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-5-2026-W36-resolucion-problemas-avanzados-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W36-resolucion-problemas-avanzados-001-MASTERY-bundle-v5",
+      "statement": "¿Cuántos metros de alambre se necesitan para realizar el cercado completo?",
+      "context": "Un terreno rectangular en Duitama mide 45,5 metros de largo y 20 metros de ancho. El propietario desea cercarlo con 3 vueltas de alambre de púa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "131 metros.",
+          "is_correct": false,
+          "feedback": "131 metros alcanza para solo 1 vuelta de alambre; se requieren 3 vueltas."
+        },
+        {
+          "letter": "B",
+          "text": "273 metros.",
+          "is_correct": false,
+          "feedback": "Multiplicó solo la suma de los lados visibles (65,5 m) por 3 en lugar de usar el perímetro completo."
+        },
+        {
+          "letter": "C",
+          "text": "393 metros.",
+          "is_correct": true,
+          "feedback": "Correcto: Perímetro = 2 × (45,5 + 20) = 2 × 65,5 = 131 metros. Para 3 vueltas: 131 × 3 = 393 metros."
+        },
+        {
+          "letter": "D",
+          "text": "2.730 metros.",
+          "is_correct": false,
+          "feedback": "Calculó el área (45,5 × 20 = 910 m²) y la multiplicó por 3, confundiendo área con perímetro."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicar el cálculo del perímetro de un rectángulo en problemas prácticos de medición y construcción.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-5-2026-W36-resolucion-problemas-avanzados-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W36-resolucion-problemas-avanzados-001-MASTERY-bundle-v6",
+      "statement": "Al comparar el costo por kilogramo de ambas opciones, ¿cuál es la mejor decisión económica?",
+      "context": "Un supermercado en Cali ofrece dos promociones de arroz de la misma calidad:\n- Opción X: Bolsa de 5 kg por $22.000.\n- Opción Y: Paga 3 kg por $15.000 y lleva 1 kg gratis (4 kg en total).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Opción X es más económica porque la bolsa trae más kilogramos en total.",
+          "is_correct": false,
+          "feedback": "Traer más cantidad no garantiza un precio unitario menor; hay que dividir el costo entre los kg."
+        },
+        {
+          "letter": "B",
+          "text": "La Opción Y es más económica porque el kg sale a $3.750, mientras que en la Opción X sale a $4.400.",
+          "is_correct": true,
+          "feedback": "Correcto: Opción X = 22.000 / 5 = $4.400/kg. Opción Y = 15.000 / 4 = $3.750/kg."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas opciones cuestan lo mismo por kilogramo ($4.000/kg).",
+          "is_correct": false,
+          "feedback": "La división de ambas ofertas da valores diferentes ($4.400 vs $3.750)."
+        },
+        {
+          "letter": "D",
+          "text": "La Opción Y es más costosa porque el kg sale a $5.000.",
+          "is_correct": false,
+          "feedback": "Dividió $15.000 entre 3 kg en vez de dividir entre los 4 kg efectivamente recibidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar precios unitarios para tomar decisiones de compra óptimas calculando el costo real por unidad de medida.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-5-2026-W36-resolucion-problemas-avanzados-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W36-resolucion-problemas-avanzados-001-MASTERY-bundle-v7",
+      "statement": "¿En cuánto tiempo llenarán el mismo tanque las dos bombas trabajando juntas?",
+      "context": "Una bomba de agua en Neiva llena un tanque de 4.800 litros en 6 horas a ritmo constante. Se instala una segunda bomba idéntica para trabajar simultáneamente con la primera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En 3 horas.",
+          "is_correct": true,
+          "feedback": "Correcto: Al duplicar la potencia de bombeo (dos bombas idénticas), el tiempo necesario se reduce a la mitad: 6 ÷ 2 = 3 horas."
+        },
+        {
+          "letter": "B",
+          "text": "En 12 horas.",
+          "is_correct": false,
+          "feedback": "Multiplicó el tiempo en vez de dividirlo; más bombas llenan el tanque en menos tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "En 4 horas.",
+          "is_correct": false,
+          "feedback": "Restó 2 al tiempo inicial en lugar de analizar la proporcionalidad inversa entre máquinas y tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "En 2 horas.",
+          "is_correct": false,
+          "feedback": "Asumió incorrectamente que tres bombas estaban operando en lugar de dos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar relaciones de proporcionalidad inversa entre el número de operadores y el tiempo requerido para completar una tarea fija.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-5-2026-W36-resolucion-problemas-avanzados-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W36-resolucion-problemas-avanzados-001-MASTERY-bundle-v8",
+      "statement": "¿Qué cantidad de dinero le corresponde recibir a Sofía?",
+      "context": "Un grupo de 4 artesanos en Pasto confeccionó tapices y obtuvo una ganancia neta de $1.350.000. Decidieron repartir el dinero de acuerdo al tiempo trabajado:\n- Sofía trabajó el doble de horas que Pedro.\n- Pedro y Mateo trabajaron la misma cantidad de horas.\n- Camilo trabajó la mitad de horas que Pedro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$300.000.",
+          "is_correct": false,
+          "feedback": "$300.000 le corresponde a Pedro o a Mateo (2 partes de $150.000 cada una)."
+        },
+        {
+          "letter": "B",
+          "text": "$450.000.",
+          "is_correct": false,
+          "feedback": "Correspondería a 3 partes de $150.000, pero Sofía tiene 4 partes del trabajo."
+        },
+        {
+          "letter": "C",
+          "text": "$600.000.",
+          "is_correct": true,
+          "feedback": "Correcto: Expresado en partes: Camilo 1 parte, Pedro 2, Mateo 2, Sofía 4 (doble de Pedro). Total partes = 1 + 2 + 2 + 4 = 9 partes. Cada parte vale $1.350.000 ÷ 9 = $150.000. A Sofía le corresponden 4 partes × $150.000 = $600.000."
+        },
+        {
+          "letter": "D",
+          "text": "$150.000.",
+          "is_correct": false,
+          "feedback": "$150.000 es la parte de Camilo, quien trabajó la menor cantidad de horas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar el reparto proporcional de ganancias identificando las razones entre los aportes individuales de cada participante.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-5-2026-W36-resolucion-problemas-avanzados-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}
