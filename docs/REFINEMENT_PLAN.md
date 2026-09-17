@@ -76,7 +76,7 @@
 
 ### F2.4: Fix validate_questions.py path hardcodeado
 - File: `scripts/direct-generate.py`
-- Problem: Importa desde `C:\Users\belal\clawd\skills\worldexams-validator` (absoluto)
+- Problem: Importa desde `<skills>/worldexams-validator` (absoluto)
 - Fix: Copiar validate_questions.py local como primary, skill como override opcional
 
 ---

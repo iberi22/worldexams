@@ -95,7 +95,7 @@ Este proyecto se distribuye bajo la licencia **GNU Affero General Public License
 WorldExams gestiona sus incidencias, retroalimentación y soporte comunitario a través del ecosistema **Maloca**:
 
 1. **Correcciones Pedagógicas In-App:** Los estudiantes y docentes pueden reportar erratas o sugerir mejoras en preguntas directamente desde la interfaz de examen a través del endpoint `/api/corrections`.
-2. **Panel de Monitoreo & Soporte Técnico Maloca:** Integrado en [`/admin/maloca`](file:///home/belal/proyectosSWAL/apps/worldexams/saberparatodos/src/pages/admin/maloca.astro) mediante `@swal/maloca-embed` (`app_id="worldexams"`), permitiendo supervisar métricas de desarrollo y estado de la red.
+2. **Panel de Monitoreo & Soporte Técnico Maloca:** Integrado en [`/admin/maloca`](saberparatodos/src/pages/admin/maloca.astro) mediante `@swal/maloca-embed` (`app_id="worldexams"`), permitiendo supervisar métricas de desarrollo y estado de la red.
 3. **Aislamiento Ético del Menor (BR-03 / D-103):** Se garantiza que ninguna actividad estudiantil, calificación o nota privada sea objeto de telemetría, comercio de datos o gamificación con tokens.
 
 ---
