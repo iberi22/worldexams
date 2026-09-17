@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-38-grade-5-subject-ciencias_naturales",
+    "generated_at": "2026-09-17T20:20:06.126Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-5-2026-W38-tecnologia-instrumentos-medicion-cientifica-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el instrumento adecuado para medir la masa de un objeto y en qué unidad del Sistema Internacional se expresa comunmente?",
+      "context": "En un laboratorio escolar de Pasto, los estudiantes necesitan medir con precisión la masa de diferentes rocas volcánicas recolectadas en las faldas del Galeras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El termómetro digital, expresado en grados Celsius (°C).",
+          "is_correct": false,
+          "feedback": "El termómetro mide la temperatura (energía térmica) de un cuerpo, no su masa."
+        },
+        {
+          "letter": "B",
+          "text": "La balanza o báscula, expresada en gramos (g) o kilogramos (kg).",
+          "is_correct": true,
+          "feedback": "Correcto: La balanza compara la masa de los cuerpos y se mide en gramos o kilogramos."
+        },
+        {
+          "letter": "C",
+          "text": "La probeta graduada, expresada en mililitros (mL).",
+          "is_correct": false,
+          "feedback": "La probeta graduada mide el volumen de líquidos, no la masa sólida."
+        },
+        {
+          "letter": "D",
+          "text": "La cinta métrica, expresada en metros (m).",
+          "is_correct": false,
+          "feedback": "La cinta métrica mide longitudes y distancias."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Recordar los instrumentos de laboratorio estandarizados y las magnitudes físicas básicas que miden.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Quimica",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-5-2026-W38-tecnologia-instrumentos-medicion-cientifica-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W38-tecnologia-instrumentos-medicion-cientifica-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué el microscopio óptico compuesto es el instrumento tecnológico indicado para este tipo de observación científica?",
+      "context": "Para observar las células de una epidermis de cebolla o los microorganismos de una gota de agua estancada, la lupa de mano no ofrece suficiente aumento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque emite rayos X que cambian el color de las células vivas.",
+          "is_correct": false,
+          "feedback": "El microscopio óptico usa luz visible ordinaria, no radiación de rayos X."
+        },
+        {
+          "letter": "B",
+          "text": "Porque convierte las bacterias en objetos sólidos gigantes que se pueden tocar.",
+          "is_correct": false,
+          "feedback": "No altera la materia física del espécimen; amplifica la imagen óptica proyectada a la vista."
+        },
+        {
+          "letter": "C",
+          "text": "Porque utiliza un sistema de lentes que amplifica cientos de veces el tamaño aparente de muestras microscópicas mediante el paso de luz.",
+          "is_correct": true,
+          "feedback": "Correcto: La combinación de objetivo y ocular permite observar estructuras inaccesibles al ojo humano desnudo."
+        },
+        {
+          "letter": "D",
+          "text": "Porque congela instantáneamente la muestra de agua para que no se mueva.",
+          "is_correct": false,
+          "feedback": "Las muestras en frescor se observan vivas o fijadas sin necesidad de congelación por el microscopio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprender el funcionamiento del microscopio óptico como herramienta de amplificación de imagen en biología.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Biologia",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-5-2026-W38-tecnologia-instrumentos-medicion-cientifica-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W38-tecnologia-instrumentos-medicion-cientifica-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el volumen de la canica de vidrio?",
+      "context": "Un estudiante en Manizales llena una probeta con 50 mL de agua. Al introducir una canica de vidrio dentro de la probeta, el nivel del agua sube hasta marcar 68 mL.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "68 mL.",
+          "is_correct": false,
+          "feedback": "68 mL es la lectura final del agua junto con la canica, no el volumen propio del objeto."
+        },
+        {
+          "letter": "B",
+          "text": "18 mL (o 18 cm³).",
+          "is_correct": true,
+          "feedback": "Correcto: El volumen sumergido despalza una cantidad equivalente de agua: 68 mL − 50 mL = 18 mL."
+        },
+        {
+          "letter": "C",
+          "text": "118 mL.",
+          "is_correct": false,
+          "feedback": "Sumó ambos valores (50 + 68) en lugar de hallar la diferencia de nivel desplazado."
+        },
+        {
+          "letter": "D",
+          "text": "50 mL.",
+          "is_correct": false,
+          "feedback": "50 mL era el volumen inicial del líquido antes de introducir el cuerpo sólido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicar el método de desplazamiento de líquido en recipientes graduados para medir el volumen de sólidos irregulares.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Quimica",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-5-2026-W38-tecnologia-instrumentos-medicion-cientifica-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W38-tecnologia-instrumentos-medicion-cientifica-001-MASTERY-bundle-v4",
+      "statement": "¿Por qué el cronómetro digital es el instrumento que aporta mayor precisión al experimento?",
+      "context": "Durante un experimento de física en un colegio de Cúcuta, se mide el tiempo que tarda un carrito de juguete en recorrer una pista de 2 metros con tres instrumentos distintos: un reloj de pared, un cronómetro digital y el conteo mental a ritmo de aplausos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el cronómetro acelera la velocidad del carrito al apretar el botón.",
+          "is_correct": false,
+          "feedback": "El instrumento mide el tiempo independientemente de la velocidad física del objeto observado."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los relojes de pared no giran durante el día.",
+          "is_correct": false,
+          "feedback": "Los relojes de pared funcionan pero miden en segundos o minutos enteros sin resolución decimal fina."
+        },
+        {
+          "letter": "C",
+          "text": "Porque mide fracciones de segundo (centésimas) y reduce el margen de error humano en el inicio y fin del evento.",
+          "is_correct": true,
+          "feedback": "Correcto: La resolución fina de centésimas permite registrar variaciones pequeñas de velocidad con exactitud."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el conteo mental de aplausos es exacto para todos los observadores.",
+          "is_correct": false,
+          "feedback": "El conteo mental es altamente subjetivo y varía de persona a persona introduciendo gran error."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicar conceptos de precisión, resolución de escala y margen de error al seleccionar instrumental de medición de tiempo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Fisica",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-5-2026-W38-tecnologia-instrumentos-medicion-cientifica-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W38-tecnologia-instrumentos-medicion-cientifica-001-MASTERY-bundle-v5",
+      "statement": "¿Qué precaución de seguridad y técnica se debe tener al tomar la lectura de la temperatura dentro del vaso de precipitados?",
+      "context": "Para medir la temperatura de una mezcla química durante una reacción exotérmica (que libera calor) se cuenta con un termómetro de alcohol coloreado graduado entre −10 °C y 110 °C.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mantener el bulbo del termómetro sumergido en la mezcla sin tocar el fondo ni las paredes del vaso y leer a la altura de los ojos.",
+          "is_correct": true,
+          "feedback": "Correcto: Tocar el vidrio caliente altera la lectura del líquido interno y mirar de lado causa error de paralaje."
+        },
+        {
+          "letter": "B",
+          "text": "Sacar el termómetro del líquido y soplarlo fuerte antes de mirar la escala.",
+          "is_correct": false,
+          "feedback": "Sacar el termómetro y soplarlo enfría el bulbo dando una temperatura falsa del ambiente y no de la mezcla."
+        },
+        {
+          "letter": "C",
+          "text": "Usar el termómetro como varilla de agitación para mezclar fuertemente los reactivos.",
+          "is_correct": false,
+          "feedback": "El vidrio delgado del bulbo del termómetro puede romperse si se usa como agitador mecánico."
+        },
+        {
+          "letter": "D",
+          "text": "Colocar el vaso sobre el fuego directo hasta que la columna de alcohol se salga por arriba.",
+          "is_correct": false,
+          "feedback": "Exceder el rango del termómetro puede provocar la explosión del tubo por expansión térmica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar normas de uso adecuado e instrumental de medición de temperatura evitando el error de paralaje y daños del equipo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Quimica",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-5-2026-W38-tecnologia-instrumentos-medicion-cientifica-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W38-tecnologia-instrumentos-medicion-cientifica-001-MASTERY-bundle-v6",
+      "statement": "¿Qué magnitudes atmosféricas registran respectivamente el pluviómetro y el anemómetro en estas estaciones?",
+      "context": "El IDEAM (Instituto de Hidrología, Meteorología y Estudios Ambientales) opera estaciones meteorológicas automáticas en todo el territorio colombiano equipadas con pluviómetros, anemómetros, barómetros y termohigrómetros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El pluviómetro mide la cantidad de lluvia caída (mm) y el anemómetro mide la velocidad del viento (km/h).",
+          "is_correct": true,
+          "feedback": "Correcto: El pluviómetro acumula la lámina de precipitación y las cazoletas del anemómetro giran según la fuerza del viento."
+        },
+        {
+          "letter": "B",
+          "text": "El pluviómetro mide la presión de las nubes y el anemómetro la humedad del suelo.",
+          "is_correct": false,
+          "feedback": "La presión atmosférica se mide con el barómetro y la humedad con el higrómetro."
+        },
+        {
+          "letter": "C",
+          "text": "El pluviómetro mide la temperatura del aire y el anemómetro la radiación solar.",
+          "is_correct": false,
+          "feedback": "La temperatura se mide con el termómetro y la radiación solar con el piranómetro."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos instrumentos miden únicamente la altura de los ríos en época de sequía.",
+          "is_correct": false,
+          "feedback": "El nivel de los ríos se mide con miras limnimétricas o sensores de ultrasonido hidrográfico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar el instrumental tecnológico utilizado en la red meteorológica nacional para la prevención de desastres y pronósticos climáticos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciencia_Tecnologia_Sociedad",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-5-2026-W38-tecnologia-instrumentos-medicion-cientifica-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W38-tecnologia-instrumentos-medicion-cientifica-001-MASTERY-bundle-v7",
+      "statement": "¿Qué conclusión se obtiene al comparar la calidad de ambas mediciones?",
+      "context": "Dos estudiantes en Armenia midieron la masa de un mismo bloque de madera usando dos balanzas distintas:\n- Balanza A: Marca 250,5 gramos.\n- Balanza B: Marca 250 gramos.\n\nAl revisar las especificaciones se observa que la Balanza A tiene sensibilidad de décimas de gramo (0,1 g) y la Balanza B de gramos enteros (1 g).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Balanza B es mejor porque elimina los decimales inútiles que confunden al científico.",
+          "is_correct": false,
+          "feedback": "Los decimales en ciencia reflejan la sensibilidad del instrumento, no son cifras inútiles."
+        },
+        {
+          "letter": "B",
+          "text": "Ambas balanzas están defectuosas porque un objeto no puede tener valores diferentes.",
+          "is_correct": false,
+          "feedback": "Las diferencias leves se deben a la sensibilidad de apreciación de cada balanza, no a un defecto de fábrica."
+        },
+        {
+          "letter": "C",
+          "text": "La madera pesó más en la Balanza A porque absorbía aire del ambiente al momento de pesar.",
+          "is_correct": false,
+          "feedback": "La variación proviene de la graduación del instrumento y no de un cambio de masa acelerado del bloque."
+        },
+        {
+          "letter": "D",
+          "text": "La Balanza A proporciona un dato más preciso y detallado al contar con una escala de mayor resolución.",
+          "is_correct": true,
+          "feedback": "Correcto: La mayor cantidad de decimales significativos reduce la incertidumbre en la medida obtenida."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analizar los conceptos de sensibilidad, resolución de escala e incertidumbre en la medición experimental de laboratorio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Quimica",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-5-2026-W38-tecnologia-instrumentos-medicion-cientifica-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W38-tecnologia-instrumentos-medicion-cientifica-001-MASTERY-bundle-v8",
+      "statement": "Al evaluar ambas tecnologías para un monitoreo científico riguroso, ¿por qué la Opción 2 es la más adecuada?",
+      "context": "Un grupo de agrónomos en Tolima desea estudiar el nivel de acidez (pH) del agua de riego de un cultivo de arroz durante un mes continuo. Disponen de dos tecnologías:\n- Opción 1: Tiras de papel tornasol de cambio de color manual, leídas visualmente 1 vez al día.\n- Opción 2: Un sensor digital de pH continuo sumergible conectado a una plataforma por Internet que transmite datos cada 10 minutos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque las tiras de papel tornasol alteran químicamente el agua de todo el canal de riego.",
+          "is_correct": false,
+          "feedback": "El papel tornasol no contamina el canal; su limitación es la resolución visual y la baja frecuencia de toma de datos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los sensores digitales no requieren energía eléctrica ni calibración periódica.",
+          "is_correct": false,
+          "feedback": "Los sensores digitales sí requieren baterías o energía y deben ser calibrados regularmente con soluciones patrón."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la Opción 1 exige que el científico viva dentro del canal de agua sin dormir.",
+          "is_correct": false,
+          "feedback": "Aunque la toma manual es laboriosa, la evaluación técnica se basa en la calidad, frecuencia y objetividad de los datos recopilados."
+        },
+        {
+          "letter": "D",
+          "text": "Porque ofrece un registro continuo en tiempo real, elimina la subjetividad en la interpretación de colores y detecta variaciones repentinas de acidez.",
+          "is_correct": true,
+          "feedback": "Correcto: La automatización digital permite tomar decisiones inmediatas agrícolas basándose en datos precisos de alta frecuencia."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar tecnologías de adquisición automática de datos frente a métodos manuales tradicionales en la investigación aplicada.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciencia_Tecnologia_Sociedad",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-5-2026-W38-tecnologia-instrumentos-medicion-cientifica-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

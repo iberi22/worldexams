@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-37-grade-5-subject-ciencias_naturales",
+    "generated_at": "2026-09-17T20:20:06.125Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-5-2026-W37-biodiversidad-especies-amenazadas-colombia-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes especies es un primate endémico de la Costa Caribe colombiana que se encuentra en peligro crítico de extinción?",
+      "context": "Colombia es considerado el segundo país más megadiverso del planeta por su gran variedad de ecosistemas y especies autóctonas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El gorila de montaña.",
+          "is_correct": false,
+          "feedback": "El gorila es nativo del continente africano, no de Colombia."
+        },
+        {
+          "letter": "B",
+          "text": "El oso panda gigante.",
+          "is_correct": false,
+          "feedback": "El panda gigante es originario de los bosques de bambú de China."
+        },
+        {
+          "letter": "C",
+          "text": "El lémur de cola anillada.",
+          "is_correct": false,
+          "feedback": "Los lémures son primates endémicos de la isla de Madagascar."
+        },
+        {
+          "letter": "D",
+          "text": "El tití cabeciblanco (*Saguinus oedipus*).",
+          "is_correct": true,
+          "feedback": "Correcto: El tití cabeciblanco vive exclusivamente en el norte de Colombia y su hábitat se ha reducido drásticamente."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Recordar especies endémicas amenazadas en el territorio nacional y su distribución biogeográfica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Biologia",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-5-2026-W37-biodiversidad-especies-amenazadas-colombia-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W37-biodiversidad-especies-amenazadas-colombia-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué la deforestación y fragmentación de los bosques andinos pone en riesgo la supervivencia del oso de anteojos?",
+      "context": "El oso de anteojos (*Tremarctos ornatus*) es el único oso nativo de Sudamérica y habita en los bosques altos y páramos de los Andes colombianos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los osos de anteojos necesitan talar árboles para construir sus cuevas de invierno.",
+          "is_correct": false,
+          "feedback": "Los osos no talan árboles; usan ramas altas para hacer plataformas de descanso y alimento."
+        },
+        {
+          "letter": "B",
+          "text": "Porque al cortar árboles el clima se vuelve excesivamente frío para el pelaje del oso.",
+          "is_correct": false,
+          "feedback": "El oso de anteojos está perfectamente adaptado al frío del páramo; el problema es la falta de espacio y alimento."
+        },
+        {
+          "letter": "C",
+          "text": "Porque reduce el territorio donde busca alimento, fragmenta sus poblaciones y aumenta los conflictos con actividades humanas.",
+          "is_correct": true,
+          "feedback": "Correcto: Al perder hectáreas de bosque continuo, el oso no encuentra suficiente comida ni pareja para reproducirse."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los osos se alimentan únicamente de madera seca de árboles caídos.",
+          "is_correct": false,
+          "feedback": "Son mamíferos principalmente omnívoros que consumen bromelias, frutos, cogollos y pequeños animales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprender la relación directa entre la pérdida de hábitat continuo y la vulnerabilidad de grandes mamíferos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Biologia",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-5-2026-W37-biodiversidad-especies-amenazadas-colombia-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W37-biodiversidad-especies-amenazadas-colombia-001-MASTERY-bundle-v3",
+      "statement": "¿Qué acción humana en los ríos amazónicos afecta directamente la salud y supervivencia del delfín rosado?",
+      "context": "En la cuenca del río Amazonas y del Orinoco en Colombia habita el delfín rosado (*Inia geoffrensis*), un cetáceo de agua dulce.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El exceso de reforestación de la selva nativa en las orillas de los ríos.",
+          "is_correct": false,
+          "feedback": "Reforestar beneficia los ríos y mantiene la calidad del ecosistema acuático."
+        },
+        {
+          "letter": "B",
+          "text": "La contaminación del agua con mercurio procedente de la minería ilegal de oro y la pesca indiscriminada con mallas.",
+          "is_correct": true,
+          "feedback": "Correcto: El mercurio se acumula en la cadena trófica en los peces que come el delfín y las mallas provocan ahogamiento."
+        },
+        {
+          "letter": "C",
+          "text": "El uso de embarcaciones a remo guiadas por comunidades indígenas.",
+          "is_correct": false,
+          "feedback": "La navegación artesanal a remo no contamina ni lastima a los delfines."
+        },
+        {
+          "letter": "D",
+          "text": "La observación turística responsable de fauna desde miradores de madera.",
+          "is_correct": false,
+          "feedback": "El turismo ecológico bien regulado promueve la conservación y no contamina con químicos pesados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicar el conocimiento sobre bioacumulación de contaminantes químicos (mercurio) y artes de pesca nocivos sobre especies acuáticas de nivel trófico superior.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Biologia",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-5-2026-W37-biodiversidad-especies-amenazadas-colombia-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W37-biodiversidad-especies-amenazadas-colombia-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es una función ecológica clave del cóndor como ave carroñera en los ecosistemas de alta montaña?",
+      "context": "El Cóndor de los Andes (*Vultur gryphus*) es el ave voladora más grande del mundo y ave nacional de Colombia, pero sus poblaciones en el país son de menos de 150 individuos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Polinizar las flores de los frailejones transportando polen en su pico.",
+          "is_correct": false,
+          "feedback": "Las aves polinizadoras de los páramos son pequeños colibríes, no grandes aves carroñeras."
+        },
+        {
+          "letter": "B",
+          "text": "Cazar venados adultos sanos para controlar su sobrepoblación en las cumbres.",
+          "is_correct": false,
+          "feedback": "El cóndor es carroñero (consume animales muertos); no es un ave de presa cazadora activa de venados sanos."
+        },
+        {
+          "letter": "C",
+          "text": "Construir represas de palos en los ríos para formar lagunas de páramo.",
+          "is_correct": false,
+          "feedback": "Construir represas es una actividad de ciertos roedores como los castores, no de aves como el cóndor."
+        },
+        {
+          "letter": "D",
+          "text": "Limpiar los campos consumiendo cadáveres de animales, lo que evita la proliferación de bacterias e infecciones en el suelo y fuentes de agua.",
+          "is_correct": true,
+          "feedback": "Correcto: Los carroñeros aceleran el reciclaje de nutrientes y eliminan focos de infección bacteriana."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aplicar el concepto de nicho ecológico y servicios ecosistémicos proporcionados por aves carroñeras en el mantenimiento de la salud ambiental.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Biologia",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-5-2026-W37-biodiversidad-especies-amenazadas-colombia-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W37-biodiversidad-especies-amenazadas-colombia-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el objetivo principal de declarar un territorio como Sistema de Parques Nacionales Naturales?",
+      "context": "En Colombia, Parques Nacionales Naturales protege áreas estratégicas como el Parque Tayrona, Chingaza y los Nevados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Preservar de forma permanente la biodiversidad, las fuentes hídricas y los ecosistemas sin alteración por actividades extractivas.",
+          "is_correct": true,
+          "feedback": "Correcto: La figura de protección legal restringe la minería, ganadería e infraestructura masiva para salvar hábitats."
+        },
+        {
+          "letter": "B",
+          "text": "Convertir los bosques en zonas de construcción de centros comerciales y urbanizaciones.",
+          "is_correct": false,
+          "feedback": "Está prohibida la urbanización comercial dentro de los Parques Nacionales Naturales."
+        },
+        {
+          "letter": "C",
+          "text": "Vender la madera de los árboles centenarios a empresas internacionales.",
+          "is_correct": false,
+          "feedback": "La tala comercial de madera está terminantemente prohibida en zonas protegidas."
+        },
+        {
+          "letter": "D",
+          "text": "Capturar todos los animales salvajes para exhibirlos en zoológicos urbanos.",
+          "is_correct": false,
+          "feedback": "La conservación *in situ* busca mantener a los animales en su estado silvestre libre, no capturarlos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar conceptos de conservación *in situ* e importancia de las áreas protegidas del Estado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciencia_Tecnologia_Sociedad",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-5-2026-W37-biodiversidad-especies-amenazadas-colombia-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W37-biodiversidad-especies-amenazadas-colombia-001-MASTERY-bundle-v6",
+      "statement": "¿Qué impacto ecológico sufre un bosque tropical cuando se extraen masivamente las aves frugívoras (que comen frutos)?",
+      "context": "El tráfico ilegal de fauna silvestre es un delito en Colombia. Loros, guacamayas, tortugas hicoteas y monos son extraídos de sus selvas para venderlos como mascotas en las ciudades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta inmediatamente la producción de oxígeno en los árboles del bosque.",
+          "is_correct": false,
+          "feedback": "Extraer aves no aumenta la fotosíntesis ni la producción de oxígeno vegetal."
+        },
+        {
+          "letter": "B",
+          "text": "Disminuye la dispersión natural de semillas, lo que impide la regeneración de nuevas plántulas y reduce la diversidad de árboles.",
+          "is_correct": true,
+          "feedback": "Correcto: Muchas aves tragan frutos y dispersan semillas viables en sus heces a través de varios kilómetros de bosque."
+        },
+        {
+          "letter": "C",
+          "text": "Los árboles producen frutos carnívoros para defenderse de la soledad.",
+          "is_correct": false,
+          "feedback": "Los árboles no adaptan tejidos carnívoros por la ausencia de aves; la dispersión simplemente fracasa."
+        },
+        {
+          "letter": "D",
+          "text": "El suelo del bosque se convierte en arena de desierto en pocas horas.",
+          "is_correct": false,
+          "feedback": "La desertificación es un proceso lento de degradación del suelo, no un cambio instantáneo en horas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar las interacciones mutualistas entre fauna y flora (dispersión de semillas) e identificar los daños ecosistémicos del tráfico ilícito.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Biologia",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-5-2026-W37-biodiversidad-especies-amenazadas-colombia-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W37-biodiversidad-especies-amenazadas-colombia-001-MASTERY-bundle-v7",
+      "statement": "Gracias a campañas ambientales se sustituyó el uso de la palma de cera por palmas de vivero o plantas sintéticas. ¿Qué efecto biológico positivo tuvo esta medida?",
+      "context": "La palma de cera del Quindío (*Ceroxylon quindiuense*) es el árbol nacional de Colombia. Durante años se cortaban sus cogollos tiernos para la celebración del Domingo de Ramos en Semana Santa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Detuvo la muerte masiva de palmas jóvenes y salvó el hábitat de nidificación del loro orejiamarillo.",
+          "is_correct": true,
+          "feedback": "Correcto: Cortar el cogollo central mata la palma de cera; al protegerla se preservó también al loro orejiamarillo que depende de ella."
+        },
+        {
+          "letter": "B",
+          "text": "Permitió que las palmas de cera crecieran dentro de las casas de los fieles.",
+          "is_correct": false,
+          "feedback": "La palma de cera alcanza hasta 60 metros de altura y solo prospera en bosques de niebla andinos."
+        },
+        {
+          "letter": "C",
+          "text": "Eliminó la necesidad de lluvias en el departamento del Quindío.",
+          "is_correct": false,
+          "feedback": "Proteger una especie vegetal no detiene los ciclos meteorológicos de precipitación."
+        },
+        {
+          "letter": "D",
+          "text": "Convirtió las hojas sintéticas en alimento para los insectos del bosque.",
+          "is_correct": false,
+          "feedback": "Las plantas sintéticas no alimentan insectos; la sustitución evita destruir la planta natural viva."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar casos exitosos de conservación en Colombia donde el cambio de tradiciones sociales previno la extinción de especies interconectadas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Biologia",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-5-2026-W37-biodiversidad-especies-amenazadas-colombia-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W37-biodiversidad-especies-amenazadas-colombia-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál propuesta alternativa es ecológicamente sostenible y resuelve el conflicto entre los campesinos y la fauna silvestre?",
+      "context": "En una zona rural del Huila, campesinos han reportado que pumas y jaguares atacan a su ganado vacuno porque el bosque nativo fue talado para pastizales. Algunos proponen cazar a todos los felinos de la región.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cazar a los felinos y vender sus pieles para financiar más compra de ganado.",
+          "is_correct": false,
+          "feedback": "Eliminar felinos devasta la cúspide de la pirámide trófica generando plagas de herbívoros y roedores."
+        },
+        {
+          "letter": "B",
+          "text": "Encerrar a las vacas dentro de establos cerrados sin luz ni aire para siempre.",
+          "is_correct": false,
+          "feedback": "Encerrar ganado sin ventilación compromete el bienestar animal y no resuelve la pérdida del ecosistema."
+        },
+        {
+          "letter": "C",
+          "text": "Implementar cercas eléctricas solares, recuperar corredores biológicos de bosque y usar perros guardianes para ahuyentar a los felinos sin matarlos.",
+          "is_correct": true,
+          "feedback": "Correcto: Las estrategias de coexistencia protegen la vida silvestre, reconectan los bosques y salguardan la economía campesina."
+        },
+        {
+          "letter": "D",
+          "text": "Envenenar las fuentes de agua de la montaña para que los felinos no beban.",
+          "is_correct": false,
+          "feedback": "Envenenar el agua mata a toda la biodiversidad local y contamina el suministro de las comunidades humanas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar modelos de coexistencia humano-fauna que integran tecnología limpia, manejo ganadero responsable y conservación de corredores biológicos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciencia_Tecnologia_Sociedad",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-5-2026-W37-biodiversidad-especies-amenazadas-colombia-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}
