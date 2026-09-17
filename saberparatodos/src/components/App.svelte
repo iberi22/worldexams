@@ -506,6 +506,8 @@
       }
 
       isPreparingExam = false;
+      isIntegrityCheck = false;
+      enterExamView();
     } catch (error) {
       console.error('Error generating exam:', error);
       alert(error.message);

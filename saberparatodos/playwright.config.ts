@@ -32,7 +32,7 @@ export default defineConfig({
     command: 'npx astro dev --port 4399',
     cwd: __dirname,
     port: 4399,
-    reuseExistingServer: false,
+    reuseExistingServer: !process.env.CI,
     timeout: 120000,
   },
   outputDir: 'test-results',
