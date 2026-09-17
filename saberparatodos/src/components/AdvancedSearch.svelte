@@ -216,6 +216,7 @@
 <div class="relative z-50">
   <!-- Search Button -->
   <button
+    type="button"
     on:click={toggleSearch}
     class="p-2 text-emerald-500 hover:text-emerald-400 transition-colors opacity-80 hover:opacity-100 relative"
     aria-label="Búsqueda avanzada"
