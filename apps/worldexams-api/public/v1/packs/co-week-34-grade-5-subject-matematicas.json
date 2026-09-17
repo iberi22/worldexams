@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-34-grade-5-subject-matematicas",
+    "generated_at": "2026-09-17T17:04:33.697Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-5-2026-W34-temperatura-lectura-variacion-001-MASTERY-bundle-v1",
+      "statement": "¿Qué mide el termómetro que observa Camilo?",
+      "context": "Camilo vive en Tunja y, antes de salir a estudiar, mira el termómetro que está en la pared del patio. En ese momento la temperatura que marca es de 9 °C.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La temperatura del aire en ese momento.",
+          "is_correct": true,
+          "feedback": "El termómetro es el instrumento que registra la temperatura del aire en un momento dado."
+        },
+        {
+          "letter": "B",
+          "text": "La cantidad de lluvia que cayó durante la noche.",
+          "is_correct": false,
+          "feedback": "La cantidad de lluvia se mide con el pluviómetro, no con el termómetro."
+        },
+        {
+          "letter": "C",
+          "text": "La velocidad con la que sopla el viento.",
+          "is_correct": false,
+          "feedback": "La velocidad del viento se mide con el anemómetro, no con el termómetro."
+        },
+        {
+          "letter": "D",
+          "text": "La cantidad de agua que hay dentro de la casa.",
+          "is_correct": false,
+          "feedback": "El termómetro no cuenta agua; registra qué tan caliente o frío está el aire."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Recordar que el termómetro es el instrumento que sirve para medir y leer la temperatura del aire, expresada en grados Celsius (°C).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-5-2026-W34-temperatura-lectura-variacion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W34-temperatura-lectura-variacion-001-MASTERY-bundle-v2",
+      "statement": "¿Qué significa que la temperatura mínima del día haya sido 12 °C?",
+      "context": "Sofía anota en Manizales los datos del clima de un día: la temperatura más baja fue 12 °C en la madrugada y la más alta fue 22 °C al mediodía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que 12 °C fue la temperatura más baja registrada durante ese día.",
+          "is_correct": true,
+          "feedback": "La temperatura mínima es el valor más bajo que se registró en el día."
+        },
+        {
+          "letter": "B",
+          "text": "Que la temperatura se mantuvo en 12 °C durante todas las horas del día.",
+          "is_correct": false,
+          "feedback": "Una temperatura mínima es un solo registro bajo; durante el día hubo otros valores mayores."
+        },
+        {
+          "letter": "C",
+          "text": "Que a las 12 del mediodía la temperatura fue de 12 °C.",
+          "is_correct": false,
+          "feedback": "Se confunde el número 12 de los grados con las 12 horas del mediodía; son datos diferentes."
+        },
+        {
+          "letter": "D",
+          "text": "Que la temperatura del día nunca bajó de 22 °C.",
+          "is_correct": false,
+          "feedback": "22 °C es la temperatura máxima del día, no un límite inferior."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender que la temperatura mínima es el valor más bajo del día y que no debe confundirse con la hora ni con la temperatura máxima.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-5-2026-W34-temperatura-lectura-variacion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W34-temperatura-lectura-variacion-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál fue la variación de la temperatura ese lunes?",
+      "context": "En Pasto, Sofía consulta la tabla del clima del lunes y encuentra estos datos: temperatura máxima 19 °C y temperatura mínima 9 °C.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 °C.",
+          "is_correct": true,
+          "feedback": "La variación es la diferencia: 19 - 9 = 10 °C."
+        },
+        {
+          "letter": "B",
+          "text": "28 °C.",
+          "is_correct": false,
+          "feedback": "28 °C resulta de sumar 19 + 9; la variación se obtiene restando."
+        },
+        {
+          "letter": "C",
+          "text": "19 °C.",
+          "is_correct": false,
+          "feedback": "19 °C es la temperatura máxima; no representa la variación del día."
+        },
+        {
+          "letter": "D",
+          "text": "9 °C.",
+          "is_correct": false,
+          "feedback": "9 °C es la temperatura mínima; la variación es la diferencia entre ambas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la resta entre la temperatura máxima y la mínima para calcular la variación de temperatura de un día.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-5-2026-W34-temperatura-lectura-variacion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W34-temperatura-lectura-variacion-001-MASTERY-bundle-v4",
+      "statement": "¿Cuántos grados subió la temperatura entre las dos lecturas?",
+      "context": "Camilo observa el termómetro del patio de su casa en Tunja a las 7 de la mañana: marca 8 °C. Tres horas después vuelve a mirarlo y marca 17 °C.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9 °C.",
+          "is_correct": true,
+          "feedback": "La temperatura subió 17 - 8 = 9 °C entre las dos lecturas."
+        },
+        {
+          "letter": "B",
+          "text": "25 °C.",
+          "is_correct": false,
+          "feedback": "25 °C resulta de sumar 8 + 17; el aumento se calcula restando."
+        },
+        {
+          "letter": "C",
+          "text": "8 °C.",
+          "is_correct": false,
+          "feedback": "8 °C es la temperatura de la primera lectura, no el aumento."
+        },
+        {
+          "letter": "D",
+          "text": "17 °C.",
+          "is_correct": false,
+          "feedback": "17 °C es la temperatura final; falta indicar cuánto aumentó."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la resta entre la lectura final y la lectura inicial para saber cuántos grados subió la temperatura.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-5-2026-W34-temperatura-lectura-variacion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W34-temperatura-lectura-variacion-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál era la temperatura a las 7 de la noche?",
+      "context": "En Manizales, a las 4 de la tarde la temperatura era de 21 °C. Desde esa hora empezó a descender 3 °C cada hora.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12 °C.",
+          "is_correct": true,
+          "feedback": "Pasaron 3 horas y bajó 3 × 3 = 9 °C; entonces 21 - 9 = 12 °C."
+        },
+        {
+          "letter": "B",
+          "text": "9 °C.",
+          "is_correct": false,
+          "feedback": "9 °C es el total que descendió, no la temperatura final."
+        },
+        {
+          "letter": "C",
+          "text": "18 °C.",
+          "is_correct": false,
+          "feedback": "18 °C resultaría si solo hubiera bajado 1 °C por hora."
+        },
+        {
+          "letter": "D",
+          "text": "24 °C.",
+          "is_correct": false,
+          "feedback": "24 °C resulta de sumar en lugar de restar el descenso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar un descenso constante de temperatura por hora: multiplicar el descenso por el número de horas y restarlo de la temperatura inicial.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-5-2026-W34-temperatura-lectura-variacion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W34-temperatura-lectura-variacion-001-MASTERY-bundle-v6",
+      "statement": "¿En cuál de las tres ciudades hubo mayor variación de temperatura ese día?",
+      "context": "Camilo y Sofía comparan la temperatura de tres ciudades colombianas usando esta tabla del mismo día:\n\n| Ciudad | Temperatura máxima | Temperatura mínima |\n| --- | --- | --- |\n| Tunja | 18 °C | 7 °C |\n| Manizales | 22 °C | 12 °C |\n| Pasto | 19 °C | 9 °C |",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tunja, porque su variación fue 11 °C.",
+          "is_correct": true,
+          "feedback": "Tunja: 18 - 7 = 11 °C; Manizales: 22 - 12 = 10 °C; Pasto: 19 - 9 = 10 °C. La mayor es la de Tunja."
+        },
+        {
+          "letter": "B",
+          "text": "Manizales, porque tuvo la temperatura máxima más alta de la tabla.",
+          "is_correct": false,
+          "feedback": "Tener la máxima más alta no garantiza la mayor variación; hay que restar la mínima."
+        },
+        {
+          "letter": "C",
+          "text": "Pasto, porque su variación fue 10 °C.",
+          "is_correct": false,
+          "feedback": "10 °C es la variación de Pasto, que es menor que los 11 °C de Tunja."
+        },
+        {
+          "letter": "D",
+          "text": "Manizales, porque su variación fue 11 °C.",
+          "is_correct": false,
+          "feedback": "La variación de Manizales es 22 - 12 = 10 °C, no 11 °C."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar una tabla climática calculando la variación de cada ciudad y comparando los resultados para decidir cuál tuvo el mayor cambio de temperatura.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-5-2026-W34-temperatura-lectura-variacion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W34-temperatura-lectura-variacion-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál día presentó la mayor variación de temperatura?",
+      "context": "Sofía registró en una tabla las temperaturas de Pasto durante cuatro días:\n\n| Día | Temperatura máxima | Temperatura mínima |\n| --- | --- | --- |\n| Lunes | 19 °C | 9 °C |\n| Martes | 20 °C | 8 °C |\n| Miércoles | 18 °C | 10 °C |\n| Jueves | 21 °C | 11 °C |",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Martes, con 12 °C.",
+          "is_correct": true,
+          "feedback": "Lunes: 19 - 9 = 10 °C; martes: 20 - 8 = 12 °C; miércoles: 18 - 10 = 8 °C; jueves: 21 - 11 = 10 °C. El mayor es el martes."
+        },
+        {
+          "letter": "B",
+          "text": "Jueves, con 10 °C.",
+          "is_correct": false,
+          "feedback": "El jueves tuvo 10 °C de variación, menos que los 12 °C del martes."
+        },
+        {
+          "letter": "C",
+          "text": "Miércoles, con 8 °C.",
+          "is_correct": false,
+          "feedback": "El miércoles tuvo la menor variación de la semana, no la mayor."
+        },
+        {
+          "letter": "D",
+          "text": "Lunes, con 10 °C.",
+          "is_correct": false,
+          "feedback": "El lunes tuvo 10 °C de variación; es menor que la del martes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar una tabla de varios días, calcular la variación de cada uno y determinar en cuál se presentó el mayor cambio de temperatura.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-5-2026-W34-temperatura-lectura-variacion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W34-temperatura-lectura-variacion-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál recomendación es la más adecuada para el viaje de Camilo?",
+      "context": "Camilo va a viajar de Tunja a Manizales y revisa el pronóstico del día. En Tunja, a las 6 de la mañana, habrá 7 °C y, al mediodía, 18 °C. En Manizales, a las 6 de la mañana, habrá 13 °C y, al mediodía, 21 °C. Camilo saldrá muy temprano y regresará al mediodía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Llevar una chaqueta para la mañana en Tunja, porque a esa hora la temperatura es baja aunque al mediodía suba.",
+          "is_correct": true,
+          "feedback": "A las 6 de la mañana Tunja estará a 7 °C, un valor bajo; conviene abrigarse temprano y se puede prescindir del abrigo cuando suba la temperatura."
+        },
+        {
+          "letter": "B",
+          "text": "No llevar chaqueta, porque en Manizales la temperatura máxima será mayor que en Tunja.",
+          "is_correct": false,
+          "feedback": "Fijarse solo en la máxima hace olvidar que a las 6 de la mañana hará frío en Tunja."
+        },
+        {
+          "letter": "C",
+          "text": "Llevar ropa para clima cálido, porque las temperaturas máximas superan los 15 °C.",
+          "is_correct": false,
+          "feedback": "La máxima del mediodía no describe el frío de la madrugada, que es cuando Camilo sale."
+        },
+        {
+          "letter": "D",
+          "text": "Decidir solo con la temperatura mínima y no llevar ninguna prenda de abrigo.",
+          "is_correct": false,
+          "feedback": "Conocer la mínima ayuda a planear, pero no llevar abrigo ante 7 °C no es una decisión adecuada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar un pronóstico con temperaturas de madrugada y de mediodía para tomar una decisión razonable sobre el abrigo necesario durante un viaje.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-5-2026-W34-temperatura-lectura-variacion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

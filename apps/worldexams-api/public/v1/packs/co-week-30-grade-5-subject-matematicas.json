@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-30-grade-5-subject-matematicas",
+    "generated_at": "2026-09-17T17:04:33.696Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-5-2026-W30-numeros-primos-compuestos-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de los siguientes números es primo?",
+      "context": "Juan estudia los números primos en su clase de matemáticas en Bogotá y debe recordar su definición.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7",
+          "is_correct": true,
+          "feedback": "El 7 solo tiene dos divisores: el 1 y el 7, por eso es primo."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "El 4 tiene como divisores el 1, el 2 y el 4; por tener más de dos divisores es compuesto."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "El 9 se divide entre 1, 3 y 9; al tener tres divisores es un número compuesto."
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "El 15 se divide entre 1, 3, 5 y 15; por tener más de dos divisores es compuesto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un número primo es aquel que tiene exactamente dos divisores positivos: el 1 y él mismo. Entre las opciones, solo el 7 cumple esta condición, mientras que 4, 9 y 15 tienen divisores adicionales.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-5-2026-W30-numeros-primos-compuestos-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W30-numeros-primos-compuestos-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la razón por la que el número 1 no se considera primo ni compuesto?",
+      "context": "Valentina le pregunta a su profesor de Medellín por qué el número 1 no aparece en la lista de los números primos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque solamente tiene un divisor positivo, que es él mismo, y los primos necesitan exactamente dos.",
+          "is_correct": true,
+          "feedback": "El 1 tiene un único divisor (el 1), así que no alcanza los dos divisores que exige la definición de primo ni los más de dos de un compuesto."
+        },
+        {
+          "letter": "B",
+          "text": "Porque es un número impar y todos los primos deben ser pares.",
+          "is_correct": false,
+          "feedback": "Existen primos impares como el 3, el 5 y el 7; la paridad no define si un número es primo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque se puede dividir exactamente entre 3.",
+          "is_correct": false,
+          "feedback": "El 1 no se divide exactamente entre 3; además, ese criterio no explica su clasificación."
+        },
+        {
+          "letter": "D",
+          "text": "Porque es un número muy pequeño y los primos empiezan después del 10.",
+          "is_correct": false,
+          "feedback": "El tamaño no importa: hay primos menores que 10, como el 2, el 3, el 5 y el 7."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La definición de número primo exige exactamente dos divisores positivos. El 1 solo tiene un divisor, por lo que queda por fuera de la clasificación de primos y también de la de compuestos, que requieren más de dos divisores.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-5-2026-W30-numeros-primos-compuestos-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W30-numeros-primos-compuestos-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la descomposición correcta del número 60 en factores primos?",
+      "context": "En clase, Juan descompone el número 60 en factores primos para practicar el tema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 × 2 × 3 × 5",
+          "is_correct": true,
+          "feedback": "Al multiplicar 2 × 2 × 3 × 5 se obtiene 60 y todos los factores son números primos."
+        },
+        {
+          "letter": "B",
+          "text": "2 × 3 × 5",
+          "is_correct": false,
+          "feedback": "Este producto da 30, no 60; falta un factor 2 en la descomposición."
+        },
+        {
+          "letter": "C",
+          "text": "4 × 3 × 5",
+          "is_correct": false,
+          "feedback": "El producto da 60, pero el 4 no es primo y la descomposición debe usar solo factores primos."
+        },
+        {
+          "letter": "D",
+          "text": "2 × 2 × 15",
+          "is_correct": false,
+          "feedback": "El producto da 60, pero el 15 no es primo, así que la descomposición no es en factores primos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Descomponer en factores primos significa expresar el número como producto de números primos. En el caso de 60, la descomposición es 2 × 2 × 3 × 5, pues todos sus factores son primos y el producto es exactamente 60.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-5-2026-W30-numeros-primos-compuestos-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W30-numeros-primos-compuestos-001-MASTERY-bundle-v4",
+      "statement": "¿Cuántos números primos hay entre 10 y 20?",
+      "context": "Valentina elabora una lista de números primos para un trabajo de matemáticas en Medellín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "Los primos entre 10 y 20 son 11, 13, 17 y 19, es decir, cuatro números."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Faltan primos en el conteo; entre 10 y 20 hay cuatro primos, no tres."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Se contó de más; números como 15 no son primos porque se divide entre 3 y 5."
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Se incluyeron números compuestos; los pares mayores que 2 y los múltiplos de 3 o 5 no son primos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Entre 10 y 20 los números primos son 11, 13, 17 y 19. Los demás números de ese intervalo son compuestos, pues tienen divisores distintos del 1 y de sí mismos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-5-2026-W30-numeros-primos-compuestos-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W30-numeros-primos-compuestos-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál de los siguientes números es compuesto?",
+      "context": "Juan organiza tarjetas con números para separarlas en primos y compuestos en una actividad del colegio en Bogotá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "21",
+          "is_correct": true,
+          "feedback": "21 = 3 × 7, por lo que tiene divisores adicionales al 1 y a sí mismo; es compuesto."
+        },
+        {
+          "letter": "B",
+          "text": "17",
+          "is_correct": false,
+          "feedback": "El 17 solo se divide entre 1 y 17, así que es un número primo."
+        },
+        {
+          "letter": "C",
+          "text": "19",
+          "is_correct": false,
+          "feedback": "El 19 solo tiene como divisores 1 y 19, por eso es primo."
+        },
+        {
+          "letter": "D",
+          "text": "23",
+          "is_correct": false,
+          "feedback": "El 23 es primo porque sus únicos divisores son 1 y 23."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un número compuesto tiene más de dos divisores positivos. El 21 se puede escribir como 3 × 7, lo que le da divisores extra y lo convierte en compuesto, a diferencia de 17, 19 y 23, que son primos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-5-2026-W30-numeros-primos-compuestos-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W30-numeros-primos-compuestos-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la mejor justificación de que todo número par mayor que 2 sea compuesto?",
+      "context": "Juan observa una lista de números y nota que todos los pares mayores que 2 son compuestos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque todo número par mayor que 2 se puede dividir exactamente entre 2, además del 1 y de sí mismo.",
+          "is_correct": true,
+          "feedback": "Esa división exacta aporta un tercer divisor, y por eso el número deja de ser primo y se vuelve compuesto."
+        },
+        {
+          "letter": "B",
+          "text": "Porque todos los números pares terminan en 0 y por eso son compuestos.",
+          "is_correct": false,
+          "feedback": "No todos los pares terminan en 0; por ejemplo, 14 y 26 son pares y terminan en otras cifras."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los números pares no tienen divisores.",
+          "is_correct": false,
+          "feedback": "Todo número tiene al menos los divisores 1 y él mismo; los pares tienen además el 2."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los números pares siempre son múltiplos de 5.",
+          "is_correct": false,
+          "feedback": "Un par como 14 no es múltiplo de 5; la razón del problema es la divisibilidad entre 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Todo número par se puede dividir exactamente entre 2. Si además es mayor que 2, el 2 es un divisor distinto del 1 y del propio número, de modo que tiene más de dos divisores y es compuesto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-5-2026-W30-numeros-primos-compuestos-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W30-numeros-primos-compuestos-001-MASTERY-bundle-v7",
+      "statement": "¿Por qué es incorrecta la afirmación de Valentina sobre el número 51?",
+      "context": "Valentina afirma en clase que el 51 es primo porque no es par y no termina en 5.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el 51 también se divide exactamente entre 3, ya que 51 = 3 × 17, y entonces tiene más de dos divisores.",
+          "is_correct": true,
+          "feedback": "Al encontrar el divisor 3 y su pareja 17, se muestra que el 51 es compuesto y no primo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el 51 termina en 1 y todos los números que terminan en 1 son compuestos.",
+          "is_correct": false,
+          "feedback": "Terminar en 1 no basta: el 11 y el 31 terminan en 1 y son primos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el 51 es menor que 100 y todos los números menores que 100 son compuestos.",
+          "is_correct": false,
+          "feedback": "Eso es falso: 2, 3, 5, 7 y muchos otros menores que 100 son primos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el 51 se puede dividir exactamente entre 10.",
+          "is_correct": false,
+          "feedback": "El 51 no se divide exactamente entre 10, ya que 51 = 5 × 10 + 1; ese no es el error real."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para verificar si un número es primo no basta con revisar si es par o si termina en 5; también hay que probar divisores como el 3. Como 51 = 3 × 17, el 51 tiene más de dos divisores y es compuesto, así que la afirmación de Valentina es falsa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-5-2026-W30-numeros-primos-compuestos-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W30-numeros-primos-compuestos-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de las siguientes opciones demuestra que la afirmación de Valentina es falsa?",
+      "context": "Durante un juego de matemáticas en Bogotá, Valentina afirma: \"Si un número es impar, entonces es primo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El 9 es impar, pero es compuesto, porque 9 = 3 × 3.",
+          "is_correct": true,
+          "feedback": "Este ejemplo cumple la condición de ser impar y a la vez la contradice, pues no es primo; así refuta la afirmación."
+        },
+        {
+          "letter": "B",
+          "text": "El 7 es impar y además es primo.",
+          "is_correct": false,
+          "feedback": "Este ejemplo está de acuerdo con la afirmación y por eso no sirve para refutarla."
+        },
+        {
+          "letter": "C",
+          "text": "El 2 es par y además es primo.",
+          "is_correct": false,
+          "feedback": "El ejemplo habla de un número par, así que no dice nada sobre la afirmación referida a los impares."
+        },
+        {
+          "letter": "D",
+          "text": "El 15 es par y es compuesto.",
+          "is_correct": false,
+          "feedback": "El 15 es impar, no par, así que el dato está mal y no prueba nada sobre la afirmación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para refutar una afirmación condicional se necesita un caso que cumpla la condición inicial y falle en la conclusión. El número 9 es impar, pero no es primo porque 9 = 3 × 3; por lo tanto, es un contraejemplo que demuestra que \"si es impar, entonces es primo\" es falso.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-5-2026-W30-numeros-primos-compuestos-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-32-grade-5-subject-matematicas",
+    "generated_at": "2026-09-17T17:04:33.697Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-5-2026-W32-combinaciones-conteo-tablas-001-MASTERY-bundle-v1",
+      "statement": "¿Cuántas combinaciones diferentes registra Gabriela en total?",
+      "context": "En una heladería de Cartagena, Gabriela combina 2 sabores de helado con 3 coberturas distintas y anota cada combinación en una tabla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 combinaciones.",
+          "is_correct": true,
+          "feedback": "Cada uno de los 2 sabores se combina con las 3 coberturas, y 2 por 3 da 6 parejas distintas."
+        },
+        {
+          "letter": "B",
+          "text": "5 combinaciones.",
+          "is_correct": false,
+          "feedback": "5 sería el resultado de sumar mal los grupos, porque cada sabor se combina con las 3 coberturas."
+        },
+        {
+          "letter": "C",
+          "text": "3 combinaciones.",
+          "is_correct": false,
+          "feedback": "3 son solo las coberturas, y falta combinarlas con los 2 sabores."
+        },
+        {
+          "letter": "D",
+          "text": "9 combinaciones.",
+          "is_correct": false,
+          "feedback": "9 saldría de multiplicar 3 por 3, pero en el problema solo hay 2 sabores."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer que una combinación es una pareja formada por un elemento de cada grupo y contarlas todas en una tabla.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-5-2026-W32-combinaciones-conteo-tablas-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W32-combinaciones-conteo-tablas-001-MASTERY-bundle-v2",
+      "statement": "¿Para qué le sirve a Tomás organizar las combinaciones en una tabla?",
+      "context": "Tomás organiza en una tabla las combinaciones de 3 jugos y 2 tamaños para la tienda escolar de un colegio de Santa Marta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para contar todas las posibilidades sin repetir ni olvidar ninguna combinación.",
+          "is_correct": true,
+          "feedback": "La tabla ordena cada pareja en una casilla y así se evita repetir u omitir combinaciones."
+        },
+        {
+          "letter": "B",
+          "text": "Para saber el precio exacto de cada jugo.",
+          "is_correct": false,
+          "feedback": "El precio de un jugo no se obtiene de una tabla de combinaciones."
+        },
+        {
+          "letter": "C",
+          "text": "Para cambiar los sabores de los jugos por otros nuevos.",
+          "is_correct": false,
+          "feedback": "La tabla solo organiza las opciones que ya existen, no cambia los sabores."
+        },
+        {
+          "letter": "D",
+          "text": "Para decidir cuál jugo es el más dulce de todos.",
+          "is_correct": false,
+          "feedback": "El sabor o el dulzor no se determinan con una tabla de combinaciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender que una tabla de doble entrada es una herramienta ordenada para enumerar todas las combinaciones posibles.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-5-2026-W32-combinaciones-conteo-tablas-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W32-combinaciones-conteo-tablas-001-MASTERY-bundle-v3",
+      "statement": "¿Cuántas formas distintas tiene Tomás de vestirse eligiendo una camiseta y un pantalón?",
+      "context": "En un almacén de Cartagena, Tomás elige su uniforme entre 4 camisetas de colores distintos y 3 pantalones diferentes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12 formas.",
+          "is_correct": true,
+          "feedback": "Cada camiseta se combina con los 3 pantalones, y 4 por 3 da 12 formas distintas."
+        },
+        {
+          "letter": "B",
+          "text": "7 formas.",
+          "is_correct": false,
+          "feedback": "7 es la suma de 4 más 3, y sumar cuenta los grupos, no las parejas."
+        },
+        {
+          "letter": "C",
+          "text": "4 formas.",
+          "is_correct": false,
+          "feedback": "4 son solo las camisetas, y falta combinarlas con los 3 pantalones."
+        },
+        {
+          "letter": "D",
+          "text": "3 formas.",
+          "is_correct": false,
+          "feedback": "3 son solo los pantalones, y falta combinarlos con las 4 camisetas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el principio multiplicativo para contar las parejas posibles entre dos grupos de elementos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-5-2026-W32-combinaciones-conteo-tablas-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W32-combinaciones-conteo-tablas-001-MASTERY-bundle-v4",
+      "statement": "¿Cuántos menús distintos se pueden formar eligiendo una sopa y un plato fuerte?",
+      "context": "En un restaurante de Santa Marta, el menú del día permite elegir una sopa entre 3 opciones y un plato fuerte entre 3 opciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9 menús.",
+          "is_correct": true,
+          "feedback": "Cada sopa se combina con los 3 platos fuertes, y 3 por 3 da 9 menús distintos."
+        },
+        {
+          "letter": "B",
+          "text": "6 menús.",
+          "is_correct": false,
+          "feedback": "6 es la suma de 3 más 3, que cuenta los grupos y no las parejas."
+        },
+        {
+          "letter": "C",
+          "text": "3 menús.",
+          "is_correct": false,
+          "feedback": "3 son solo las sopas o solo los platos, no las parejas completas."
+        },
+        {
+          "letter": "D",
+          "text": "12 menús.",
+          "is_correct": false,
+          "feedback": "12 saldría de multiplicar 3 por 4, pero solo hay 3 platos fuertes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el conteo con tablas cuando los dos grupos tienen la misma cantidad de opciones.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-5-2026-W32-combinaciones-conteo-tablas-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W32-combinaciones-conteo-tablas-001-MASTERY-bundle-v5",
+      "statement": "¿Cuántas boletas diferentes puede formar Gabriela?",
+      "context": "Para una rifa escolar en Cartagena, Gabriela arma cada boleta con un color entre 4 colores y un número entre 5 números distintos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 boletas.",
+          "is_correct": true,
+          "feedback": "Cada color se combina con los 5 números, y 4 por 5 da 20 boletas distintas."
+        },
+        {
+          "letter": "B",
+          "text": "9 boletas.",
+          "is_correct": false,
+          "feedback": "9 es la suma de 4 más 5, y sumar no cuenta las parejas color-número."
+        },
+        {
+          "letter": "C",
+          "text": "5 boletas.",
+          "is_correct": false,
+          "feedback": "5 son solo los números, y falta combinarlos con los 4 colores."
+        },
+        {
+          "letter": "D",
+          "text": "4 boletas.",
+          "is_correct": false,
+          "feedback": "4 son solo los colores, y falta combinarlos con los 5 números."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Resolver problemas de conteo multiplicando las opciones de dos grupos para obtener todas las combinaciones.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-5-2026-W32-combinaciones-conteo-tablas-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W32-combinaciones-conteo-tablas-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál estudiante cuenta bien las combinaciones y por qué?",
+      "context": "Dos estudiantes cuentan las combinaciones de 3 ensaladas y 4 jugos en el comedor de un colegio de Santa Marta. Tomás multiplica 3 por 4 y obtiene 12. Gabriela suma 3 más 4 y obtiene 7.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tomás, porque cada ensalada se combina con los 4 jugos y 3 por 4 es 12.",
+          "is_correct": true,
+          "feedback": "Multiplicar los grupos cuenta cada pareja ensalada-jugo exactamente una vez."
+        },
+        {
+          "letter": "B",
+          "text": "Gabriela, porque sumar los grupos siempre da el total de combinaciones.",
+          "is_correct": false,
+          "feedback": "Sumar 3 más 4 solo cuenta la cantidad de grupos, no las parejas que se forman."
+        },
+        {
+          "letter": "C",
+          "text": "Tomás, porque el total siempre es la suma de 3 más 4 repetida dos veces.",
+          "is_correct": false,
+          "feedback": "Repetir la suma no explica por qué cada ensalada se combina con todos los jugos."
+        },
+        {
+          "letter": "D",
+          "text": "Gabriela, porque 7 y 12 son cantidades equivalentes.",
+          "is_correct": false,
+          "feedback": "7 y 12 son cantidades distintas, así que no pueden ser equivalentes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar por qué el principio multiplicativo cuenta las combinaciones y la suma solo cuenta los grupos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-5-2026-W32-combinaciones-conteo-tablas-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W32-combinaciones-conteo-tablas-001-MASTERY-bundle-v7",
+      "statement": "Si el relleno de pollo se puede combinar con los 2 tipos de pan, ¿cuántos sándwiches distintos llevan pollo?",
+      "context": "En la tienda escolar de Santa Marta se pueden armar sándwiches con 2 tipos de pan y 4 rellenos, para un total de 8 combinaciones. La profesora solo quiere ofrecer los sándwiches que llevan relleno de pollo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 sándwiches, porque el pollo se combina con los 2 tipos de pan.",
+          "is_correct": true,
+          "feedback": "Al fijar el relleno de pollo, solo se combina con los 2 panes y resultan 2 parejas."
+        },
+        {
+          "letter": "B",
+          "text": "4 sándwiches, porque hay 4 rellenos en total.",
+          "is_correct": false,
+          "feedback": "4 es la cantidad de rellenos disponibles, no la de sándwiches que llevan pollo."
+        },
+        {
+          "letter": "C",
+          "text": "8 sándwiches, porque todos los sándwiches llevan pollo.",
+          "is_correct": false,
+          "feedback": "Solo uno de los cuatro rellenos es pollo, así que no todos lo llevan."
+        },
+        {
+          "letter": "D",
+          "text": "6 sándwiches, porque se le restan 2 al total de 8.",
+          "is_correct": false,
+          "feedback": "Restar 2 no corresponde; hay que contar las parejas que incluyen el relleno de pollo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar una condición sobre una tabla de combinaciones para contar solo las parejas que cumplen dicha condición.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-5-2026-W32-combinaciones-conteo-tablas-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W32-combinaciones-conteo-tablas-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál conclusión evalúa mejor las dos formas de contar las combinaciones?",
+      "context": "Para contar las combinaciones de 4 sabores de helado y 3 coberturas, Gabriela propone dibujar una tabla de 4 filas por 3 columnas y contar las casillas. Tomás prefiere escribir cada pareja a mano en una lista larga.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tabla de Gabriela es más confiable porque ordena todas las parejas y evita repetir u omitir combinaciones.",
+          "is_correct": true,
+          "feedback": "La tabla de doble entrada organiza cada pareja en una casilla y controla que no se repita ninguna."
+        },
+        {
+          "letter": "B",
+          "text": "La lista de Tomás es mejor porque una lista a mano siempre resulta más ordenada.",
+          "is_correct": false,
+          "feedback": "Escribir a mano facilita repetir u omitir parejas cuando hay muchas combinaciones."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos formas son iguales porque ninguna permite contar todas las combinaciones.",
+          "is_correct": false,
+          "feedback": "La tabla sí permite contar todas las combinaciones de manera ordenada."
+        },
+        {
+          "letter": "D",
+          "text": "La tabla no sirve cuando se combinan más de dos grupos de opciones.",
+          "is_correct": false,
+          "feedback": "La tabla de doble entrada funciona igual con dos grupos, sin importar cuántas opciones tenga cada uno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar y comparar métodos de conteo reconociendo que la tabla ordenada reduce el riesgo de repetir u omitir combinaciones.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-5-2026-W32-combinaciones-conteo-tablas-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

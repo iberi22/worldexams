@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-34-grade-5-subject-ciencias_naturales",
+    "generated_at": "2026-09-17T17:04:33.695Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-5-2026-W34-pubertad-cambios-higiene-salud-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es la pubertad?",
+      "context": "En la clase de ciencias del colegio de Bucaramanga, la profesora explica a Mateo y a sus compañeros que la pubertad es una etapa de la vida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La etapa en la que el cuerpo de niños y niñas cambia y madura para pasar de la infancia a la adolescencia.",
+          "is_correct": true,
+          "feedback": "La pubertad es justamente la etapa de cambios físicos y emocionales que marca el paso de la infancia a la adolescencia."
+        },
+        {
+          "letter": "B",
+          "text": "El momento exacto en que una persona deja de crecer para siempre.",
+          "is_correct": false,
+          "feedback": "El crecimiento continúa durante varios años más; la pubertad es el inicio de los cambios, no el final del crecimiento."
+        },
+        {
+          "letter": "C",
+          "text": "Una enfermedad que aparece únicamente en la adolescencia.",
+          "is_correct": false,
+          "feedback": "La pubertad no es una enfermedad: es un proceso natural y normal del desarrollo humano."
+        },
+        {
+          "letter": "D",
+          "text": "El periodo en que solo cambia el color del cabello y de los ojos.",
+          "is_correct": false,
+          "feedback": "En la pubertad ocurren muchos cambios, no solo en el cabello ni en los ojos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer la pubertad como la etapa natural de cambios físicos y emocionales que marca el paso de la infancia a la adolescencia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-5-2026-W34-pubertad-cambios-higiene-salud-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W34-pubertad-cambios-higiene-salud-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de los siguientes cambios se presenta tanto en los niños como en las niñas durante la pubertad?",
+      "context": "Antonia revisa en su colegio de Pereira un cuadro sobre los cambios de la pubertad y quiere identificar cuáles se presentan tanto en los niños como en las niñas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Únicamente el cambio de voz grave en las niñas.",
+          "is_correct": false,
+          "feedback": "El cambio de voz se nota más en los niños; además, no es un cambio exclusivo de las niñas."
+        },
+        {
+          "letter": "B",
+          "text": "El aumento rápido de estatura y la aparición de vello corporal.",
+          "is_correct": true,
+          "feedback": "El estirón del crecimiento y la aparición de vello corporal son cambios comunes a niños y niñas."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente el ensanchamiento de hombros en las niñas.",
+          "is_correct": false,
+          "feedback": "El ensanchamiento de hombros se presenta más en los niños y no es un cambio exclusivo de las niñas."
+        },
+        {
+          "letter": "D",
+          "text": "El aumento de estatura solo en los niños.",
+          "is_correct": false,
+          "feedback": "El aumento rápido de estatura también ocurre en las niñas durante la pubertad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprender que el crecimiento acelerado y la aparición de vello corporal son cambios que comparten los niños y las niñas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-5-2026-W34-pubertad-cambios-higiene-salud-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W34-pubertad-cambios-higiene-salud-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál hábito sería el más adecuado para que Mateo cuide su higiene después de hacer deporte?",
+      "context": "Mateo juega fútbol después de clases en su colegio de Bucaramanga y nota que suda más y que su ropa queda con olor. Quiere cuidar mejor su higiene.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usar la misma camiseta sudada durante toda la semana.",
+          "is_correct": false,
+          "feedback": "La ropa sudada acumula suciedad y bacterias, y aumenta el mal olor; hay que cambiarla."
+        },
+        {
+          "letter": "B",
+          "text": "Echarse bastante perfume para tapar el olor sin bañarse.",
+          "is_correct": false,
+          "feedback": "El perfume solo oculta el olor por un rato; el aseo con agua y jabón es lo que limpia de verdad."
+        },
+        {
+          "letter": "C",
+          "text": "Bañarse todos los días con agua y jabón, y ponerse ropa limpia.",
+          "is_correct": true,
+          "feedback": "El baño diario con agua y jabón, junto con ropa limpia, previene el mal olor y cuida la piel."
+        },
+        {
+          "letter": "D",
+          "text": "Evitar el agua y limpiarse solamente con las manos.",
+          "is_correct": false,
+          "feedback": "Las manos no limpian el sudor ni las bacterias; se necesita agua y jabón."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicar hábitos de aseo diario, como el baño con agua y jabón y el cambio de ropa, para prevenir el mal olor y cuidar la piel.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-5-2026-W34-pubertad-cambios-higiene-salud-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W34-pubertad-cambios-higiene-salud-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la mejor explicación de por qué aparecen los granitos en la piel durante la pubertad?",
+      "context": "A Antonia le empiezan a aparecer algunos granitos en la cara. En su colegio de Pereira aprendió que durante la pubertad la piel produce más grasa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la piel deja de necesitar agua y se seca por completo.",
+          "is_correct": false,
+          "feedback": "La piel no deja de necesitar agua; los granitos se relacionan con el aumento de grasa, no con la sequedad total."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el cuerpo pierde todas sus defensas y se enferma.",
+          "is_correct": false,
+          "feedback": "La pubertad no elimina las defensas; los granitos son un cambio normal relacionado con la grasa de la piel."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la cara crece más rápido que el resto del cuerpo.",
+          "is_correct": false,
+          "feedback": "El crecimiento no es la causa de los granitos; estos aparecen por el aumento de grasa en la piel."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la piel produce más grasa y los poros se pueden tapar con facilidad.",
+          "is_correct": true,
+          "feedback": "El aumento de grasa durante la pubertad puede tapar los poros y favorecer la aparición de granitos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Explicar que el aumento de grasa en la piel durante la pubertad puede tapar los poros y producir granitos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-5-2026-W34-pubertad-cambios-higiene-salud-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W34-pubertad-cambios-higiene-salud-001-MASTERY-bundle-v5",
+      "statement": "¿Qué explicación describe mejor los cambios de ánimo durante la pubertad?",
+      "context": "Mateo a veces se siente alegre y otras veces triste o irritado sin saber bien por qué. Su hermana mayor le cuenta que a ella también le pasó.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son normales, porque las hormonas influyen en el cuerpo y en las emociones.",
+          "is_correct": true,
+          "feedback": "Las hormonas de la pubertad actúan sobre el cuerpo y también sobre las emociones, por eso los cambios de ánimo son normales."
+        },
+        {
+          "letter": "B",
+          "text": "Son señales de que algo grave está mal en la salud.",
+          "is_correct": false,
+          "feedback": "Los cambios de ánimo son parte normal de la pubertad y no significan por sí solos una enfermedad grave."
+        },
+        {
+          "letter": "C",
+          "text": "Ocurren solo en los adultos y nunca en la adolescencia.",
+          "is_correct": false,
+          "feedback": "Los cambios de ánimo son frecuentes en la adolescencia, cuando las hormonas están en plena actividad."
+        },
+        {
+          "letter": "D",
+          "text": "Desaparecen para siempre si la persona no habla con nadie.",
+          "is_correct": false,
+          "feedback": "Guardar silencio no hace desaparecer las emociones; hablar con alguien de confianza ayuda a manejarlas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender que las hormonas de la pubertad también afectan las emociones y que sentir cambios de ánimo es normal.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-5-2026-W34-pubertad-cambios-higiene-salud-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W34-pubertad-cambios-higiene-salud-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el mejor análisis de esta situación?",
+      "context": "En un colegio de Bucaramanga, dos compañeros de la misma edad se comparan: uno es más alto y ya muestra algunos cambios de la pubertad, mientras que el otro todavía no los presenta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El compañero más alto está más sano que el otro.",
+          "is_correct": false,
+          "feedback": "La estatura no mide la salud; cada cuerpo crece a su propio ritmo sin que eso indique enfermedad."
+        },
+        {
+          "letter": "B",
+          "text": "El que todavía no muestra cambios tiene algún problema de crecimiento.",
+          "is_correct": false,
+          "feedback": "Empezar los cambios más tarde es normal; el momento de inicio varía de una persona a otra."
+        },
+        {
+          "letter": "C",
+          "text": "Cada persona crece y cambia a su propio ritmo, así que es normal que unos empiecen antes que otros.",
+          "is_correct": true,
+          "feedback": "La pubertad no tiene una fecha igual para todos; el ritmo de cada persona es distinto y normal."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos deberían cambiar al mismo tiempo porque tienen la misma edad.",
+          "is_correct": false,
+          "feedback": "Tener la misma edad no significa cambiar al mismo tiempo; el ritmo de desarrollo es individual."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar que la velocidad y el momento de inicio de los cambios de la pubertad varían de una persona a otra.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-5-2026-W34-pubertad-cambios-higiene-salud-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W34-pubertad-cambios-higiene-salud-001-MASTERY-bundle-v7",
+      "statement": "Según los datos de la encuesta, ¿cuál conclusión es la más adecuada?",
+      "context": "Antonia y Mateo hacen una pequeña encuesta en sus colegios sobre hábitos de higiene. Al organizar los resultados observan que la mayoría de los estudiantes que se bañan a diario y cambian de ropa después de hacer deporte dicen tener menos problemas de olor y de piel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bañarse a diario no tiene ninguna relación con el olor del cuerpo.",
+          "is_correct": false,
+          "feedback": "Los datos muestran lo contrario: quienes se bañan a diario reportan menos problemas de olor."
+        },
+        {
+          "letter": "B",
+          "text": "Bañarse a diario y cambiar de ropa después del deporte se relaciona con menos problemas de olor y de piel.",
+          "is_correct": true,
+          "feedback": "La mayoría que mantiene esos hábitos reporta menos molestias, así que la conclusión se apoya en los datos recogidos."
+        },
+        {
+          "letter": "C",
+          "text": "El perfume reemplaza el baño cuando no hay tiempo.",
+          "is_correct": false,
+          "feedback": "La encuesta trataba sobre el baño y el cambio de ropa; el perfume no aparece como un hábito que sustituya al aseo."
+        },
+        {
+          "letter": "D",
+          "text": "La encuesta demuestra que la higiene no influye en la salud.",
+          "is_correct": false,
+          "feedback": "Los resultados muestran una relación entre la higiene y menos molestias, no lo contrario."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar datos sencillos de una encuesta para relacionar los hábitos de higiene con el cuidado del cuerpo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-5-2026-W34-pubertad-cambios-higiene-salud-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W34-pubertad-cambios-higiene-salud-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál recomendación evalúa y respalda mejor el cuidado del cuerpo durante la pubertad?",
+      "context": "En una campaña de salud de un colegio de Bucaramanga, los estudiantes deben elegir la recomendación con mayor respaldo para compartir con las familias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ocultar todos los cambios y no preguntar a nadie sobre ellos.",
+          "is_correct": false,
+          "feedback": "Ocultar los cambios y no preguntar dificulta entender lo que pasa; buscar información confiable es mejor."
+        },
+        {
+          "letter": "B",
+          "text": "Comparar el propio cuerpo con el de los demás y preocuparse por ser igual.",
+          "is_correct": false,
+          "feedback": "Compararse genera preocupación innecesaria, porque cada cuerpo cambia a su propio ritmo."
+        },
+        {
+          "letter": "C",
+          "text": "Dejar de hacer deporte para sudar menos.",
+          "is_correct": false,
+          "feedback": "El deporte es saludable; el sudor se maneja con aseo, no evitando la actividad física."
+        },
+        {
+          "letter": "D",
+          "text": "Mantener hábitos diarios de aseo, alimentación variada, descanso y hablar con un adulto de confianza sobre los cambios.",
+          "is_correct": true,
+          "feedback": "Esta recomendación reúne el cuidado del cuerpo, la alimentación, el descanso y el apoyo emocional, por eso es la más completa."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar y elegir la recomendación más completa para cuidar la salud física y emocional durante la pubertad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-5-2026-W34-pubertad-cambios-higiene-salud-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}
