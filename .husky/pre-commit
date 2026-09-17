@@ -1,9 +1,19 @@
 #!/usr/bin/env sh
+# WorldExams pre-commit — two chained gates:
+#   1. SWAL canonical anti-leak gate (GitCore protocol, visibility-aware)
+#   2. WorldExams content guard (bundle protocol v5.2)
 set -e
 
 if [ "$HUSKY" = "0" ] || [ "$WORLD_EXAMS_SKIP_HOOKS" = "1" ]; then
   echo "WorldExams hooks skipped."
   exit 0
+fi
+
+SWAL_ROOT="${SWAL_ROOT:-$HOME/proyectosSWAL}"
+GATE="$SWAL_ROOT/periferia/GitCore/scripts/swal-leak-gate.mjs"
+
+if [ -f "$GATE" ] && command -v node >/dev/null 2>&1; then
+  node "$GATE" --staged || exit 1
 fi
 
 node scripts/husky-guard.mjs --staged
