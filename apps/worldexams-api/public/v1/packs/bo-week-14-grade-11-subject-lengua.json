@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "bo",
+    "pack_id": "bo-week-14-grade-11-subject-lengua",
+    "generated_at": "2026-09-17T20:08:58.731Z"
+  },
+  "questions": [
+    {
+      "id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v1",
+      "statement": "¿Qué tipo de estructura sintáctica subordinada presenta?",
+      "context": "En Santa Cruz, Jhonny en el Colegio Nacional Santa Cruz analiza el ejercicio #1: La estudiante que obtuvo la beca internacional presentó su proyecto en la feria de ciencias..",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oración subordinada adjetiva de relativo",
+          "is_correct": true,
+          "feedback": "¡Correcto! Modifica al sustantivo núcleo 'estudiante' especificando sus atributos mediante el relativo 'que'."
+        },
+        {
+          "letter": "B",
+          "text": "Oración subordinada adverbial de tiempo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No indica circunstancias temporales del verbo principal."
+        },
+        {
+          "letter": "C",
+          "text": "Oración compuesta coordinada copulativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No enlaza dos proposiciones independientes mediante 'y'."
+        },
+        {
+          "letter": "D",
+          "text": "Oración simple unimembre",
+          "is_correct": false,
+          "feedback": "Incorrecto. Presenta dos verbos conjugados 'obtuvo' y 'presentó'."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las oraciones subordinadas adjetivas o de relativo equivalen a un adjetivo y modifican a un sustantivo antecedente ('estudiante').\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v2",
+      "statement": "¿Qué relación lógica establece la proposición subordinada?",
+      "context": "En Cochabamba, Marisol en el Colegio Nacional Sucre analiza el ejercicio #2: Aunque la lluvia era intensa en la quebrada, los agricultores completaron la siembra de quinua..",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oración subordinada adverbial concesiva",
+          "is_correct": true,
+          "feedback": "¡Correcto! Expresa un obstáculo ('lluvia intensa') que no impide el cumplimiento de la acción principal ('completaron la siembra')."
+        },
+        {
+          "letter": "B",
+          "text": "Oración subordinada adverbial causal",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lluvia no es la causa de sembrar, sino un impedimento superado."
+        },
+        {
+          "letter": "C",
+          "text": "Oración subordinada sustantiva de sujeto",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cumple la función de sujeto del verbo principal."
+        },
+        {
+          "letter": "D",
+          "text": "Oración coordinada disyuntiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. No presenta dos opciones excluyentes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las subordinadas concesivas introducen un impedimento u objeción que no llega a frustrar la realización de la proposición principal.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.87,
+      "bundle_id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v3",
+      "statement": "¿Qué función sintáctica desempeña la proposición encabezada por 'que'?",
+      "context": "En Sucre, Walter en el Colegio Nacional Junín analiza el ejercicio #3: El director anunció que la entrega de diplomas se realizará en el teatro municipal el viernes..",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oración subordinada sustantiva en función de objeto directo",
+          "is_correct": true,
+          "feedback": "¡Correcto! Funciona como el complemento directo del verbo transitivo 'anunció'."
+        },
+        {
+          "letter": "B",
+          "text": "Oración subordinada adjetiva explicativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No modifica a un sustantivo antecedente."
+        },
+        {
+          "letter": "C",
+          "text": "Oración subordinada adverbial de lugar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda la proposición es el objeto directo."
+        },
+        {
+          "letter": "D",
+          "text": "Oración coordinada adversativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No contrapone dos ideas mediante 'sin embargo'."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las subordinadas sustantivas pueden sustituirse por 'esto' (El director anunció esto) ejerciendo la función de objeto directo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v4",
+      "statement": "¿Cómo se clasifican las dos proposiciones unidas por 'y'?",
+      "context": "En Potosí, Sonia en el Colegio Nacional Bolívar analiza el ejercicio #4: El tren partió al amanecer y los pasajeros observaban el paisaje altiplánico en silencio..",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oración compuesta coordinada copulativa",
+          "is_correct": true,
+          "feedback": "¡Correcto! Enlaza dos proposiciones sintácticamente independientes mediante la conjunción copulativa 'y'."
+        },
+        {
+          "letter": "B",
+          "text": "Oración subordinada adverbial consecutiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. No expresa una consecuencia de la primera."
+        },
+        {
+          "letter": "C",
+          "text": "Oración compuesta coordinada adversativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No contrapone ideas mediante 'pero'."
+        },
+        {
+          "letter": "D",
+          "text": "Oración subordinada sustantiva de relativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay relación de subordinación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La coordinación copulativa une proposiciones de igual jerarquía sintáctica sumando sus significados.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.81,
+      "bundle_id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v5",
+      "statement": "¿Qué tipo de relación coordinada vincula a ambas proposiciones?",
+      "context": "En Oruro, Ramiro en el Colegio Nacional Potosí analiza el ejercicio #5: O bien compramos los insumos en la feria de la mañana o bien esperamos el despacho de la tarde..",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oración compuesta coordinada disyuntiva",
+          "is_correct": true,
+          "feedback": "¡Correcto! Presenta dos alternativas independientes y excluyentes mediante 'O bien... o bien'."
+        },
+        {
+          "letter": "B",
+          "text": "Oración subordinada condicional",
+          "is_correct": false,
+          "feedback": "Incorrecto. No establece una hipótesis supeditada."
+        },
+        {
+          "letter": "C",
+          "text": "Oración coordinada explicativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La segunda proposición no aclara la primera."
+        },
+        {
+          "letter": "D",
+          "text": "Oración subordinada adjetiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. No modifica a ningún sustantivo antecedente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las oraciones coordinadas disyuntivas ofrecen opciones alternativas excluyentes ('o', 'o bien').\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v6",
+      "statement": "¿Qué tipo de coordinación sintáctica contrapone estas dos ideas?",
+      "context": "En Tarija, Yolanda en el Colegio Nacional San Luis analiza el ejercicio #6: El joven entrenó arduamente durante todo el año; sin embargo, no logró clasificar a la final nacional..",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oración compuesta coordinada adversativa",
+          "is_correct": true,
+          "feedback": "¡Correcto! Muestra una contradicción o limitación entre las proposiciones unidas por 'sin embargo'."
+        },
+        {
+          "letter": "B",
+          "text": "Oración subordinada adverbial causal",
+          "is_correct": false,
+          "feedback": "Incorrecto. No señala la causa del entrenamiento."
+        },
+        {
+          "letter": "C",
+          "text": "Oración coordinada copulativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una mera adición de hechos."
+        },
+        {
+          "letter": "D",
+          "text": "Oración subordinada sustantiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cumple función de sustantivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las oraciones coordinadas adversativas expresan oposición total o parcial mediante nexos como 'pero' o 'sin embargo'.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.74,
+      "bundle_id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v7",
+      "statement": "¿Qué circunstancia expresa la proposición introducida por 'para que'?",
+      "context": "En Trinidad, Jaime en el Liceo Pantaleón Dalence analiza el ejercicio #7: Llegaron temprano al teatro para que pudieran conseguir asientos en las primeras filas..",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oración subordinada adverbial final",
+          "is_correct": true,
+          "feedback": "¡Correcto! Indica la meta, el propósito u objetivo con que se ejecuta la acción principal."
+        },
+        {
+          "letter": "B",
+          "text": "Oración subordinada adverbial de modo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No describe el modo de caminar."
+        },
+        {
+          "letter": "C",
+          "text": "Oración subordinada adjetiva de relativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No modifica a un sustantivo antecedente."
+        },
+        {
+          "letter": "D",
+          "text": "Oración coordinada distributiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. No alterna acciones entre sujetos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las subordinadas finales señalan la intención o propósito de la acción principal empleando nexos como 'para que'.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v8",
+      "statement": "¿Qué tipo de subordinación adverbial encabeza la conjunción 'Como'?",
+      "context": "En Cobija, Marcela en el Colegio Don Bosco analiza el ejercicio #8: Como la carretera estaba bloqueada por los derrumbes, los buses tomaron el desvío por los valles..",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oración subordinada adverbial causal",
+          "is_correct": true,
+          "feedback": "¡Correcto! Señala la causa o razón previa que origina la acción del verbo principal."
+        },
+        {
+          "letter": "B",
+          "text": "Oración subordinada adverbial comparativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No compara la carretera con otro elemento."
+        },
+        {
+          "letter": "C",
+          "text": "Oración coordinada copulativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay una relación de dependencia causal."
+        },
+        {
+          "letter": "D",
+          "text": "Oración subordinada sustantiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. No equivale a un grupo nominal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las subordinadas causales expresan el motivo del hecho principal. Cuando van antepuestas, suelen usar 'Como'.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.66,
+      "bundle_id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v9",
+      "statement": "¿Qué condición sintáctica impone la primera proposición?",
+      "context": "En El Alto, Grover en el Colegio San Calixto analiza el ejercicio #9: Si las temperaturas descienden bajo cero esta noche, las heladas afectarán a los cultivos de hortalizas..",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oración subordinada adverbial condicional",
+          "is_correct": true,
+          "feedback": "¡Correcto! Formula una hipótesis indispensable para que se cumpla la consecuencia."
+        },
+        {
+          "letter": "B",
+          "text": "Oración coordinada disyuntiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. No ofrece alternativas de elección."
+        },
+        {
+          "letter": "C",
+          "text": "Oración subordinada adverbial concesiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un obstáculo superado sino un requisito."
+        },
+        {
+          "letter": "D",
+          "text": "Oración coordinada adversativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No contrapone ideas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las oraciones condicionales expresan un requisito hipotético introducido por 'si'.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v10",
+      "statement": "¿Qué estructura subordinada intensificadora se manifiesta?",
+      "context": "En La Paz, Carlos en el Colegio Nacional Ayacucho analiza el ejercicio #10: Caminaba por la plaza tan distraído que no se percató del inicio del desfile folclórico..",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oración subordinada adverbial consecutiva",
+          "is_correct": true,
+          "feedback": "¡Correcto! Expresa la consecuencia provocada por la intensidad cuantificada ('tan... que')."
+        },
+        {
+          "letter": "B",
+          "text": "Oración subordinada adverbial causal",
+          "is_correct": false,
+          "feedback": "Incorrecto. La consecuencia es no percatarse."
+        },
+        {
+          "letter": "C",
+          "text": "Oración coordinada copulativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No suma proposiciones independientes."
+        },
+        {
+          "letter": "D",
+          "text": "Oración subordinada adjetiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. No funciona como adjetivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las consecutivas intensivas vinculan un cuantificador ('tan') con 'que' para expresar la consecuencia del grado extremo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v11",
+      "statement": "¿Qué función cumple la proposición introducida por el adverbio relativo 'donde'?",
+      "context": "En Santa Cruz, Ana en el Colegio Nacional Santa Cruz analiza el ejercicio #11: La delegación escolar viajó a Sucre, donde se celebró el congreso nacional de historia..",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oración subordinada adjetiva de relativo explicativa",
+          "is_correct": true,
+          "feedback": "¡Correcto! Aporta información circunstancial complementaria sobre el antecedente 'Sucre'."
+        },
+        {
+          "letter": "B",
+          "text": "Oración subordinada adverbial de lugar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al tener antecedente sustantivo expreso ('Sucre') es adjetiva de relativo."
+        },
+        {
+          "letter": "C",
+          "text": "Oración coordinada adversativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No introduce oposición."
+        },
+        {
+          "letter": "D",
+          "text": "Oración subordinada sustantiva de sujeto",
+          "is_correct": false,
+          "feedback": "Incorrecto. No actúa como sujeto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando un adverbio relativo ('donde') se refiere a un antecedente sustantivo explícito ('Sucre'), la proposición es adjetiva de relativo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v12",
+      "statement": "¿Qué función sintáctica desempeña la proposición subordinada sustantiva relativa?",
+      "context": "En Cochabamba, Marcos en el Colegio Nacional Sucre analiza el ejercicio #12: Quien estudie con constancia durante el bachillerato superará con éxito el examen de admisión..",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oración subordinada sustantiva en función de sujeto",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ocupa el lugar del sujeto de la oración principal."
+        },
+        {
+          "letter": "B",
+          "text": "Oración subordinada adjetiva con antecedente expreso",
+          "is_correct": false,
+          "feedback": "Incorrecto. Carece de un sustantivo antecedente explícito."
+        },
+        {
+          "letter": "C",
+          "text": "Oración subordinada adverbial de modo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No indica modo de superar."
+        },
+        {
+          "letter": "D",
+          "text": "Oración coordinada disyuntiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. No contrapone opciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las subordinadas sustantivas relativas sin antecedente expreso ejercen funciones de sujeto.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v13",
+      "statement": "¿Qué función cumple la proposición subordinada introducida por 'que'?",
+      "context": "En Sucre, Lidia en el Colegio Nacional Junín analiza el ejercicio #13: Deseamos fervientemente que la paz y la concordia reinen en todas las familias bolivianas..",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oración subordinada sustantiva en función de objeto directo",
+          "is_correct": true,
+          "feedback": "¡Correcto! Responde a ¿Qué deseamos?: Que la paz y la concordia reinen."
+        },
+        {
+          "letter": "B",
+          "text": "Oración subordinada adverbial de modo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modo es 'fervientemente'."
+        },
+        {
+          "letter": "C",
+          "text": "Oración subordinada adjetiva de relativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verbo no es sustantivo antecedente."
+        },
+        {
+          "letter": "D",
+          "text": "Oración coordinada copulativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No enlaza oraciones independientes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las subordinadas sustantivas completivas funcionan como objeto directo de verbos de voluntad ('desear').\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.52,
+      "bundle_id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v14",
+      "statement": "¿Qué conector de aclaración vincula ambas proposiciones?",
+      "context": "En Potosí, Andrés en el Colegio Nacional Bolívar analiza el ejercicio #14: Los artesanos trabajaron durante toda la noche, es decir, no descansaron ni una sola hora..",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oración compuesta coordinada explicativa",
+          "is_correct": true,
+          "feedback": "¡Correcto! La segunda proposición aclara el significado de la primera usando 'es decir'."
+        },
+        {
+          "letter": "B",
+          "text": "Oración coordinada adversativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No contrapone ideas."
+        },
+        {
+          "letter": "C",
+          "text": "Oración subordinada condicional",
+          "is_correct": false,
+          "feedback": "Incorrecto. No establece hipótesis."
+        },
+        {
+          "letter": "D",
+          "text": "Oración subordinada de tiempo",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Es decir' no es nexo temporal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las oraciones coordinadas explicativas aclaran el sentido previo utilizando conectores como 'es decir'.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.49,
+      "bundle_id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v15",
+      "statement": "¿Qué tipo de coordinación reparte las acciones entre los sujetos?",
+      "context": "En Oruro, Zulma en el Colegio Nacional Potosí analiza el ejercicio #15: Unos estudiantes leían en la biblioteca, otros repasaban sus apuntes en los jardines..",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oración compuesta coordinada distributiva",
+          "is_correct": true,
+          "feedback": "¡Correcto! Distribuye acciones alternas entre distintos sujetos mediante 'Unos... otros'."
+        },
+        {
+          "letter": "B",
+          "text": "Oración subordinada causal",
+          "is_correct": false,
+          "feedback": "Incorrecto. No indica causa."
+        },
+        {
+          "letter": "C",
+          "text": "Oración coordinada adversativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No establece un contraste excluyente."
+        },
+        {
+          "letter": "D",
+          "text": "Oración subordinada final",
+          "is_correct": false,
+          "feedback": "Incorrecto. No expresa propósito."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las oraciones coordinadas distributivas expresan acciones alternas empleando términos contrapuestos ('unos... otros').\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.46,
+      "bundle_id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v16",
+      "statement": "¿Qué tipo de construcción de participio absoluto encabeza la oración?",
+      "context": "En Tarija, Rosmery en el Colegio Nacional San Luis analiza el ejercicio #16: Terminadas las exposiciones de los grupos, el profesor dio por finalizada la sesión académica..",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oración subordinada de participio en construcción absoluta",
+          "is_correct": true,
+          "feedback": "¡Correcto! Equivale a 'Una vez que terminaron las exposiciones', marcando anterioridad temporal."
+        },
+        {
+          "letter": "B",
+          "text": "Oración coordinada copulativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay conjunción copulativa."
+        },
+        {
+          "letter": "C",
+          "text": "Oración subordinada adjetiva de relativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No modifica a un sustantivo antecedente."
+        },
+        {
+          "letter": "D",
+          "text": "Oración subordinada condicional",
+          "is_correct": false,
+          "feedback": "Incorrecto. No impone un requisito."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las construcciones de participio absoluto tienen su propio sujeto y funcionan como adjuntos adverbiales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.43,
+      "bundle_id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v17",
+      "statement": "¿Qué circunstancia señala la subordinada introducida por 'según'?",
+      "context": "En Trinidad, Willy en el Liceo Pantaleón Dalence analiza el ejercicio #17: El científico explicó el experimento según lo establecido en el protocolo oficial de laboratorio..",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oración subordinada adverbial de modo o conformidad",
+          "is_correct": true,
+          "feedback": "¡Correcto! Indica la norma o conformidad con que se ejecuta la acción principal."
+        },
+        {
+          "letter": "B",
+          "text": "Oración subordinada adverbial de lugar",
+          "is_correct": false,
+          "feedback": "Incorrecto. No indica ubicación espacial."
+        },
+        {
+          "letter": "C",
+          "text": "Oración coordinada adversativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay contraste."
+        },
+        {
+          "letter": "D",
+          "text": "Oración subordinada sustantiva de sujeto",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cumple función de sujeto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las subordinadas adverbiales modales o de conformidad expresan la manera usando 'según'.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v18",
+      "statement": "¿Qué estructura correlativa de incremento proporcional se manifiesta?",
+      "context": "En Cobija, Teresa en el Colegio Don Bosco analiza el ejercicio #18: Cuanto más practicaban la danza tradicional, mejor coordinaban sus pasos en la comparsa..",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oración subordinada adverbial comparativa de proporcionalidad",
+          "is_correct": true,
+          "feedback": "¡Correcto! Establece una progresión paralela entre dos magnitudes ('Cuanto más... mejor')."
+        },
+        {
+          "letter": "B",
+          "text": "Oración coordinada copulativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una suma simple."
+        },
+        {
+          "letter": "C",
+          "text": "Oración subordinada condicional",
+          "is_correct": false,
+          "feedback": "Incorrecto. No formula condición estricta."
+        },
+        {
+          "letter": "D",
+          "text": "Oración subordinada sustantiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. No equivale a un sustantivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las subordinadas proporcionales expresan variación paralela utilizando esquemas correlativos ('cuanto más... más').\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.38,
+      "bundle_id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v19",
+      "statement": "¿Qué modalidad de coordinación adversativa excluye la primera opción?",
+      "context": "En El Alto, Felipe en el Colegio San Calixto analiza el ejercicio #19: No compró el libro impreso en la librería, sino que descargó la versión digital en su tableta..",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oración compuesta coordinada adversativa exclusiva",
+          "is_correct": true,
+          "feedback": "¡Correcto! Invalida totalmente la primera proposición sustituyéndola mediante 'sino que'."
+        },
+        {
+          "letter": "B",
+          "text": "Oración coordinada copulativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No suma ambas acciones."
+        },
+        {
+          "letter": "C",
+          "text": "Oración subordinada causal",
+          "is_correct": false,
+          "feedback": "Incorrecto. No señala causa."
+        },
+        {
+          "letter": "D",
+          "text": "Oración coordinada disyuntiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. No ofrece dos opciones abiertas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La adversativa exclusiva niega la primera proposición y la reemplaza por completo mediante 'sino que'.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.34,
+      "bundle_id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle-v20",
+      "statement": "¿Qué función sintáctico-semántica cumple la construcción de gerundio?",
+      "context": "En La Paz, Roxana en el Colegio Nacional Ayacucho analiza el ejercicio #20: Sabiendo que el examen era complejo, Marcela repasó cada tema con la ayuda de mapas conceptuales..",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oración subordinada de gerundio en función causal",
+          "is_correct": true,
+          "feedback": "¡Correcto! Muestra el motivo o causa ('porque sabía que era complejo') por el cual se realizó el repaso."
+        },
+        {
+          "letter": "B",
+          "text": "Oración coordinada copulativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una oración independiente."
+        },
+        {
+          "letter": "C",
+          "text": "Oración subordinada adjetiva especificativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El gerundio no debe usarse como adjetivo especificativo."
+        },
+        {
+          "letter": "D",
+          "text": "Oración subordinada condicional",
+          "is_correct": false,
+          "feedback": "Incorrecto. No impone una condición."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El gerundio inicial suele aportar valores adverbiales circunstanciales de causa, tiempo o modo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "BO-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    }
+  ]
+}

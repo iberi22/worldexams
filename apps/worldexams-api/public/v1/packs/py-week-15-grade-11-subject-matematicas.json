@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "py",
+    "pack_id": "py-week-15-grade-11-subject-matematicas",
+    "generated_at": "2026-09-17T20:08:59.707Z"
+  },
+  "questions": [
+    {
+      "id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-v1",
+      "statement": "¿Cuál es el valor del límite $\\lim_{x \\to 2} (3x + 4)$?",
+      "context": "En Asunción, los estudiantes evalúan el comportamiento de una función lineal cerca de un punto dado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Por sustitución directa: $\\lim_{x \\to 2} (3x + 4) = 3(2) + 4 = 6 + 4 = 10$."
+        },
+        {
+          "letter": "B",
+          "text": "$7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaluó $3 + 4 = 7$ ignorando la multiplicación por $x=2$."
+        },
+        {
+          "letter": "C",
+          "text": "$6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo multiplicó $3 \\cdot 2 = 6$ olvidando sumar 4."
+        },
+        {
+          "letter": "D",
+          "text": "$12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó $2+4=6$ y luego multiplicó por 2 por error."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para funciones polinómicas continuas en un punto $a$, el límite cuando $x \\to a$ se calcula evaluando directamente $x = a$: $f(2) = 3(2) + 4 = 10$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-v2",
+      "statement": "¿Cuál es la derivada de la función $f(x) = x^n$ con respecto a $x$?",
+      "context": "En San Lorenzo, se repasa la regla de la potencia para la derivada de una función polinómica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f'(x) = n \\cdot x^{n-1}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es la regla básica de la potencia para derivadas algebraicas."
+        },
+        {
+          "letter": "B",
+          "text": "$f'(x) = n \\cdot x^n$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó restar 1 al exponente."
+        },
+        {
+          "letter": "C",
+          "text": "$f'(x) = x^{n-1}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó multiplicar por el exponente original $n$."
+        },
+        {
+          "letter": "D",
+          "text": "$f'(x) = \\frac{x^{n+1}}{n+1}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la fórmula de la antiderivada (integral indefinida)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La regla de la potencia para la derivación establece que para cualquier número real $n$, la derivada de $f(x) = x^n$ es $f'(x) = n x^{n-1}$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-v3",
+      "statement": "Si la posición de una partícula viene dada por $s(t) = 5t^2$, ¿cuál es su velocidad instantánea $v(t) = s'(t)$?",
+      "context": "En Luque, se determina la velocidad instantánea como la derivada de la posición respecto al tiempo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$v(t) = 10t$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Derivando $s(t) = 5t^2$: $s'(t) = 5 \\cdot (2t) = 10t$."
+        },
+        {
+          "letter": "B",
+          "text": "$v(t) = 5t$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó multiplicar el coeficiente 5 por el exponente 2."
+        },
+        {
+          "letter": "C",
+          "text": "$v(t) = 10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eliminó la variable $t$ del resultado de la derivada."
+        },
+        {
+          "letter": "D",
+          "text": "$v(t) = 2.5t^3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplicó una integración en vez de la derivada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Derivando término a término mediante la regla de la constante por la potencia: $\\frac{d}{dt}(5t^2) = 5 \\cdot (2t^{2-1}) = 10t$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-v4",
+      "statement": "¿Cuál es la derivada de la función constante $f(x) = 15$?",
+      "context": "En Encarnación, los alumnos evalúan el límite en el origen de una función constante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f'(x) = 0$",
+          "is_correct": true,
+          "feedback": "¡Correcto! La derivada de cualquier constante numérica es igual a cero."
+        },
+        {
+          "letter": "B",
+          "text": "$f'(x) = 15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tasa de cambio de una constante no es la misma constante."
+        },
+        {
+          "letter": "C",
+          "text": "$f'(x) = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1 es la derivada de $f(x) = x$, no de una constante."
+        },
+        {
+          "letter": "D",
+          "text": "$f'(x) = 15x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa sería la antiderivada de la constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Como una función constante $f(x) = c$ no cambia su valor ante variaciones en $x$, su tasa de cambio instantánea (derivada) es siempre $0$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.77,
+      "bundle_id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-v5",
+      "statement": "¿Cuál es el valor del límite $\\lim_{x \\to 3} \\frac{x^2 - 9}{x - 3}$?",
+      "context": "En Ciudad del Este, se resuelve una indeterminación de la forma $\\frac{0}{0}$ mediante factorización.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Factorizando el numerador: $\\frac{(x-3)(x+3)}{x-3} = x + 3$. Al evaluar cuando $x \\to 3$: $3 + 3 = 6$."
+        },
+        {
+          "letter": "B",
+          "text": "$0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al evaluar directamente se obtiene $0/0$ que es una indeterminación, no la respuesta final."
+        },
+        {
+          "letter": "C",
+          "text": "Indefinido / $\\infty$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una indeterminación removible al cancelar el factor $(x-3)$."
+        },
+        {
+          "letter": "D",
+          "text": "$3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaluó erróneamente el límite simplificado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al evaluar $x=3$ se presenta la indeterminación $\\frac{0}{0}$. Factorizamos la diferencia de cuadrados en el numerador:\n$\\lim_{x \\to 3} \\frac{(x - 3)(x + 3)}{x - 3} = \\lim_{x \\to 3} (x + 3) = 3 + 3 = 6$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.74,
+      "bundle_id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-v6",
+      "statement": "¿Cuál es la pendiente de la recta tangente a la parábola $f(x) = x^2 - 4x + 1$ en el punto donde $x = 3$?",
+      "context": "En Coronel Oviedo, se halla la pendiente de la recta tangente a una curva en un punto específico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2$",
+          "is_correct": true,
+          "feedback": "¡Correcto! La derivada es $f'(x) = 2x - 4$. Evaluando en $x=3$: $f'(3) = 2(3) - 4 = 6 - 4 = 2$."
+        },
+        {
+          "letter": "B",
+          "text": "$6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó restar 4 al evaluar la derivada."
+        },
+        {
+          "letter": "C",
+          "text": "$-2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaluó la función original $f(3) = -2$ en lugar de la derivada."
+        },
+        {
+          "letter": "D",
+          "text": "$4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asumió como pendiente el coeficiente de $x$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "1) Obtenemos la derivada de la función: $f'(x) = 2x - 4$.\n2) La pendiente de la recta tangente en $x = 3$ es el valor de la derivada en dicho punto: $m = f'(3) = 2(3) - 4 = 2$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.71,
+      "bundle_id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-v7",
+      "statement": "¿Cuál es la derivada de la función polinómica $f(x) = 4x^3 - 2x^2 + 5x - 7$?",
+      "context": "En Villarrica, se aplica la regla de la suma para encontrar la derivada de un polinomio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f'(x) = 12x^2 - 4x + 5$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Derivando término a término: $4(3x^2) - 2(2x) + 5(1) - 0 = 12x^2 - 4x + 5$."
+        },
+        {
+          "letter": "B",
+          "text": "$f'(x) = 12x^2 - 4x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó la derivada del término lineal $+5x$."
+        },
+        {
+          "letter": "C",
+          "text": "$f'(x) = 4x^2 - 2x + 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó multiplicar los coeficientes por los exponentes originales."
+        },
+        {
+          "letter": "D",
+          "text": "$f'(x) = 12x^3 - 4x^2 + 5x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No redujo en 1 los exponentes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Derivando término a término:\n$\\frac{d}{dx}(4x^3) = 12x^2$\n$\\frac{d}{dx}(-2x^2) = -4x$\n$\\frac{d}{dx}(5x) = 5$\n$\\frac{d}{dx}(-7) = 0$\nPor tanto, $f'(x) = 12x^2 - 4x + 5$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-v8",
+      "statement": "¿Cuál es el valor del límite al infinito $\\lim_{x \\to \\infty} \\frac{5x^2 + 3}{2x^2 - 1}$?",
+      "context": "En Caacupé, se analiza el límite en el infinito de una función racional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{5}{2}$ (o $2,5$)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Como los grados del numerador y denominador son iguales (grado 2), el límite es la razón de sus coeficientes principales: $5/2$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\infty$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite es finito porque el grado del numerador no es strictly mayor que el del denominador."
+        },
+        {
+          "letter": "C",
+          "text": "$0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite sería 0 si el grado del denominador fuese mayor."
+        },
+        {
+          "letter": "D",
+          "text": "$-3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió los términos independientes $3 / (-1)$ erróneamente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dividiendo numerador y denominador entre $x^2$:\n$\\lim_{x \\to \\infty} \\frac{5 + \\frac{3}{x^2}}{2 - \\frac{1}{x^2}} = \\frac{5 + 0}{2 - 0} = \\frac{5}{2}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-v9",
+      "statement": "Si una función $f(x)$ es derivable en un punto $x = a$, ¿qué se puede afirmar con certeza sobre su continuidad en dicho punto?",
+      "context": "En Pilar, se estudia la relación entre continuidad y diferenciabilidad de una función.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La función $f(x)$ es necesariamente continua en $x = a$.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Teorema fundamental: La derivabilidad en un punto implica la continuidad en ese mismo punto."
+        },
+        {
+          "letter": "B",
+          "text": "La función $f(x)$ no es continua en $x = a$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, la derivabilidad garantiza la continuidad."
+        },
+        {
+          "letter": "C",
+          "text": "La función $f(x)$ puede tener una discontinuidad de salto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si fuese discontinua, no podría existir la derivada en ese punto."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede determinar la continuidad sin más datos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La implicación derivabilidad $\\Rightarrow$ continuidad es directa e inequívoca."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Es un teorema clásico del cálculo diferencial: \"Si una función $f$ es derivable en $x=a$, entonces $f$ es continua en $x=a$\". (Cabe remarcar que el recíproco no siempre es cierto).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.62,
+      "bundle_id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-v10",
+      "statement": "Sabiendo que la derivada de $\\sin(x)$ es $\\cos(x)$, ¿cuál es la derivada de la función $f(x) = x \\sin(x)$?",
+      "context": "En Concepción, se aplica la regla del producto para derivar $f(x) = x \\cdot \\sin(x)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f'(x) = \\sin(x) + x \\cos(x)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Por regla del producto: $(u \\cdot v)' = u'v + uv' = (1)\\sin(x) + x\\cos(x) = \\sin(x) + x\\cos(x)$."
+        },
+        {
+          "letter": "B",
+          "text": "$f'(x) = \\cos(x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Derivó sólo el término $\\sin(x)$ ignorando la variable $x$."
+        },
+        {
+          "letter": "C",
+          "text": "$f'(x) = x \\cos(x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó las derivadas de cada factor sin usar la regla del producto."
+        },
+        {
+          "letter": "D",
+          "text": "$f'(x) = \\sin(x) - x \\cos(x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colocó un signo menos en la fórmula del producto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicando la regla del producto $(u \\cdot v)' = u'v + uv'$ con $u = x$ y $v = \\sin(x)$:\n$u' = 1$, $v' = \\cos(x) \\Rightarrow f'(x) = 1 \\cdot \\sin(x) + x \\cdot \\cos(x) = \\sin(x) + x \\cos(x)$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-v11",
+      "statement": "Dada la función de costo $C(x) = 2x^2 - 12x + 50$, determine el valor de $x$ que minimiza el costo (punto crítico donde $C'(x) = 0$).",
+      "context": "En Asunción, se encuentra el punto crítico de una función cuadrática de costo para hallar el costo mínimo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $C'(x) = 4x - 12 = 0 \\Rightarrow 4x = 12 \\Rightarrow x = 3$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó el factor 2 de la potencia al derivar $2x^2$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomó el coeficiente del término lineal."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaluó el costo en el origen en lugar de hallar el mínimo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Derivamos la función de costo: $C'(x) = 4x - 12$. Igualando a cero para buscar el punto crítico: $4x - 12 = 0 \\Rightarrow 4x = 12 \\Rightarrow x = 3$. Dado que $C''(x) = 4 > 0$, en $x = 3$ se alcanza un mínimo relativo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.57,
+      "bundle_id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-v12",
+      "statement": "¿Cuál es la derivada de la función compuesta $f(x) = (3x^2 + 1)^4$?",
+      "context": "En San Lorenzo, se utiliza la regla de la cadena para derivar una función compuesta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f'(x) = 24x(3x^2 + 1)^3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Por regla de la cadena: $f'(x) = 4(3x^2 + 1)^3 \\cdot \\frac{d}{dx}(3x^2 + 1) = 4(3x^2 + 1)^3 \\cdot 6x = 24x(3x^2 + 1)^3$."
+        },
+        {
+          "letter": "B",
+          "text": "$f'(x) = 4(3x^2 + 1)^3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó multiplicar por la derivada interna del argumento $6x$."
+        },
+        {
+          "letter": "C",
+          "text": "$f'(x) = 12x(3x^2 + 1)^3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al multiplicar el exponente 4 por la derivada interna $6x$."
+        },
+        {
+          "letter": "D",
+          "text": "$f'(x) = 24x^3(3x^2 + 1)^3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada interna de $3x^2$ es $6x$, no $6x^2$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la regla de la cadena $\\frac{d}{dx}[u(x)^n] = n \\cdot u(x)^{n-1} \\cdot u'(x)$:\nCon $u(x) = 3x^2 + 1$ y $u'(x) = 6x$:\n$f'(x) = 4(3x^2 + 1)^3 \\cdot (6x) = 24x (3x^2 + 1)^3$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.54,
+      "bundle_id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-v13",
+      "statement": "¿Cuál es la derivada de la función $f(x) = \\frac{2x}{x + 1}$?",
+      "context": "En Luque, se aplica la regla del cociente para hallar la derivada de la función $f(x) = \\frac{2x}{x + 1}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f'(x) = \\frac{2}{(x + 1)^2}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Regla del cociente: $\\frac{u'v - uv'}{v^2} = \\frac{2(x+1) - 2x(1)}{(x+1)^2} = \\frac{2x + 2 - 2x}{(x+1)^2} = \\frac{2}{(x+1)^2}$."
+        },
+        {
+          "letter": "B",
+          "text": "$f'(x) = \\frac{2}{1} = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Derivó numerador y denominador por separado sin aplicar la regla del cociente."
+        },
+        {
+          "letter": "C",
+          "text": "$f'(x) = \\frac{4x + 2}{(x + 1)^2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó los términos en el numerador en lugar de restarlos."
+        },
+        {
+          "letter": "D",
+          "text": "$f'(x) = -\\frac{2}{(x + 1)^2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo al simplificar el numerador."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicando la regla del cociente $\\left(\\frac{u}{v}\\right)' = \\frac{u'v - uv'}{v^2}$ con $u = 2x$ y $v = x + 1$:\n$u' = 2$, $v' = 1$.\n$f'(x) = \\frac{2(x + 1) - 2x(1)}{(x + 1)^2} = \\frac{2x + 2 - 2x}{(x + 1)^2} = \\frac{2}{(x + 1)^2}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.51,
+      "bundle_id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-v14",
+      "statement": "¿Cuál es el valor del límite $\\lim_{x \\to 0} \\frac{\\sin(4x)}{x}$?",
+      "context": "En Encarnación, los alumnos resuelven el límite trigonométrico fundamental $\\lim_{x \\to 0} \\frac{\\sin(4x)}{x}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Usando la propiedad del límite trigonométrico fundamental $\\lim_{u \\to 0} \\frac{\\sin(k u)}{u} = k$. Por tanto, el límite es 4."
+        },
+        {
+          "letter": "B",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1 es el resultado de $\\lim_{x \\to 0} \\frac{\\sin(x)}{x}$, pero aquí tenemos el coeficiente $k=4$."
+        },
+        {
+          "letter": "C",
+          "text": "$0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No evaluó correctamente la tasa de cambio en la indeterminación $0/0$."
+        },
+        {
+          "letter": "D",
+          "text": "Indefinido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un límite trigonométrico notable de valor finito 4."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Multiplicando y dividiendo por 4:\n$\\lim_{x \\to 0} 4 \\cdot \\frac{\\sin(4x)}{4x} = 4 \\cdot \\lim_{u \\to 0} \\frac{\\sin(u)}{u} = 4 \\cdot 1 = 4$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-v15",
+      "statement": "Dada la función $f(x) = x^4 - 2x^3 + 5x$, ¿cuál es su segunda derivada $f''(x)$?",
+      "context": "En Ciudad del Este, se calcula la segunda derivada $f''(x)$ para estudiar la concavidad de una función.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f''(x) = 12x^2 - 12x$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $f'(x) = 4x^3 - 6x^2 + 5 \\Rightarrow f''(x) = 12x^2 - 12x$."
+        },
+        {
+          "letter": "B",
+          "text": "$f''(x) = 4x^3 - 6x^2 + 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la primera derivada $f'(x)$."
+        },
+        {
+          "letter": "C",
+          "text": "$f''(x) = 24x - 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la tercera derivada $f'''(x)$."
+        },
+        {
+          "letter": "D",
+          "text": "$f''(x) = 12x^2 - 6x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó multiplicar $6 \\cdot 2 = 12$ en la segunda derivación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "1) Primera derivada: $f'(x) = 4x^3 - 6x^2 + 5$.\n2) Segunda derivada: $f''(x) = \\frac{d}{dx}(4x^3 - 6x^2 + 5) = 12x^2 - 12x$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-v16",
+      "statement": "¿Cuál es la ecuación de la recta tangente a la función $y = x^3$ en el punto $(2, 8)$?",
+      "context": "En Coronel Oviedo, se halla la ecuación completa de la recta tangente a la curva $y = x^3$ en el punto $(2, 8)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = 12x - 16$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Pendiente $m = y'(2) = 3(2)^2 = 12$. Recta: $y - 8 = 12(x - 2) \\Rightarrow y - 8 = 12x - 24 \\Rightarrow y = 12x - 16$."
+        },
+        {
+          "letter": "B",
+          "text": "$y = 12x + 16$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo al trasponer $-24 + 8$."
+        },
+        {
+          "letter": "C",
+          "text": "$y = 6x - 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Derivó $x^3$ como $3x$ o calculó mal la pendiente."
+        },
+        {
+          "letter": "D",
+          "text": "$y = 3x + 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomó como pendiente el coeficiente exponente 3."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "1) Derivada: $y' = 3x^2$.\n2) Pendiente en $x=2$: $m = 3(2^2) = 12$.\n3) Forma punto-pendiente en $(2,8)$: $y - 8 = 12(x - 2) \\Rightarrow y = 12x - 24 + 8 = 12x - 16$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.43,
+      "bundle_id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-v17",
+      "statement": "Considere la función $f(x) = \\frac{x + 2}{x^2 - 4}$. ¿Cuáles son las asíntotas verticales y los puntos de discontinuidad evitable (removible)?",
+      "context": "En Villarrica, se halla el límite lateral o la asíntota vertical de una función racional en sus puntos de discontinuidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Asíntota vertical en $x = 2$, discontinuidad evitable en $x = -2$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $f(x) = \\frac{x+2}{(x+2)(x-2)} = \\frac{1}{x-2}$ para $x \\neq -2$. En $x=-2$ el factor se cancela (hueco o discontinuidad evitable) y en $x=2$ el denominador se anula (asíntota vertical)."
+        },
+        {
+          "letter": "B",
+          "text": "Asíntotas verticales en $x = 2$ y $x = -2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $x=-2$ la discontinuidad se puede remover por cancelación."
+        },
+        {
+          "letter": "C",
+          "text": "Asíntota vertical en $x = -2$, discontinuidad evitable en $x = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invirtió las posiciones del hueco y la asíntota."
+        },
+        {
+          "letter": "D",
+          "text": "Sin asíntotas verticales",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $x=2$ la función tiende a $\\pm \\infty$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Simplificando la expresión para $x \\neq -2$: $f(x) = \\frac{x + 2}{(x + 2)(x - 2)} = \\frac{1}{x - 2}$.\n- En $x = -2$, la discontinuidad es **evitable** o removible (se elimina el factor $(x+2)$).\n- En $x = 2$, el denominador se hace cero con numerador no nulo, lo que genera una **asíntota vertical**.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-v18",
+      "statement": "Se quiere construir un corral rectangular con $100\\text{ m}$ de malla de alambre disponible. ¿Cuáles deben ser las dimensiones para maximizar el área encerrada?",
+      "context": "En Caacupé, se analiza la optimización de un área rectangular cercada de $100\\text{ m}$ de perímetro total.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$25\\text{ m} \\times 25\\text{ m}$ (un cuadrado de $25\\text{ m}$ de lado)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Con perímetro $2x + 2y = 100 \\Rightarrow y = 50 - x$. Área $A(x) = x(50 - x) = 50x - x^2$. Derivando: $A'(x) = 50 - 2x = 0 \\Rightarrow x = 25\\text{ m}$, luego $y = 25\\text{ m}$."
+        },
+        {
+          "letter": "B",
+          "text": "$10\\text{ m} \\times 40\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Área $400\\text{ m}^2$, menor que la superficie máxima $625\\text{ m}^2$."
+        },
+        {
+          "letter": "C",
+          "text": "$20\\text{ m} \\times 30\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Área $600\\text{ m}^2$, inferior al óptimo."
+        },
+        {
+          "letter": "D",
+          "text": "$50\\text{ m} \\times 50\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sumaría un perímetro de $200\\text{ m}$, sobrepasando la malla disponible."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "1) Condición de perímetro: $2x + 2y = 100 \\Rightarrow x + y = 50 \\Rightarrow y = 50 - x$.\n2) Función de área: $A(x) = x(50 - x) = 50x - x^2$.\n3) Derivada primera: $A'(x) = 50 - 2x$. Igualando a cero: $50 - 2x = 0 \\Rightarrow x = 25$.\n4) Como $A''(x) = -2 < 0$, en $x = 25\\text{ m}$ (y $y = 25\\text{ m}$) se maximiza el área ($625\\text{ m}^2$).\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.38,
+      "bundle_id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-v19",
+      "statement": "¿Cuál es el valor del límite $\\lim_{x \\to 0} \\frac{e^x - 1 - x}{x^2}$?",
+      "context": "En Pilar, se aplica la Regla de L'Hôpital para resolver el límite indeterminado $\\lim_{x \\to 0} \\frac{e^x - 1 - x}{x^2}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{2}$ (o $0,5$)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al evaluar $x=0$ da $0/0$. L'Hôpital una vez: $\\lim_{x \\to 0} \\frac{e^x - 1}{2x}$ ($0/0$). L'Hôpital segunda vez: $\\lim_{x \\to 0} \\frac{e^x}{2} = \\frac{1}{2}$."
+        },
+        {
+          "letter": "B",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resultado obtenido tras aplicar L'Hôpital una sola vez sin evaluar nuevamente la indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "$0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaluó erróneamente los numeradores en las derivadas sucesivas."
+        },
+        {
+          "letter": "D",
+          "text": "$\\infty$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite es convergente y finito igual a $1/2$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicando la Regla de L'Hôpital sucesivamente a la indeterminación $\\frac{0}{0}$:\n1.ª derivación: $\\lim_{x \\to 0} \\frac{e^x - 1}{2x}$ (sigue siendo $\\frac{0}{0}$).\n2.ª derivación: $\\lim_{x \\to 0} \\frac{e^x}{2} = \\frac{e^0}{2} = \\frac{1}{2}$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-v20",
+      "statement": "¿Cuál es la abscisa del punto de inflexión (donde $f''(x) = 0$ y cambia la concavidad) de la función $f(x) = x^3 - 6x^2 + 9x + 1$?",
+      "context": "En Concepción, se determinan los puntos de inflexión de la función cúbica $f(x) = x^3 - 6x^2 + 9x + 1$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 2$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $f'(x) = 3x^2 - 12x + 9 \\Rightarrow f''(x) = 6x - 12 = 0 \\Rightarrow 6x = 12 \\Rightarrow x = 2$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=1$ es una raíz de $f'(x)=0$ (un máximo local)."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=3$ es otra raíz de $f'(x)=0$ (un mínimo local)."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaluó la función en el eje de ordenadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "1) Primera derivada: $f'(x) = 3x^2 - 12x + 9$.\n2) Segunda derivada: $f''(x) = 6x - 12$.\n3) Punto de inflexión: $6x - 12 = 0 \\Rightarrow x = 2$.\nAl cambiar de signo $f''(x)$ alrededor de $x = 2$ (negativa a la izquierda y positiva a la derecha), se confirma el punto de inflexión.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "PY-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    }
+  ]
+}
