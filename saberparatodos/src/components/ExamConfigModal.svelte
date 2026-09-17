@@ -58,7 +58,11 @@
   // 🆕 Make subject and grade editable
   let selectedSubject = $state(initialSubject || 'Simulacro Completo');
   let selectedGrade = $state(initialGrade);
-  let availableSubjects = $state(['Simulacro Completo', 'Matemáticas', 'Lectura Crítica', 'Ciencias Naturales', 'Sociales y Ciudadanas', 'Inglés', 'Preuniversitario']);
+  let availableSubjects = $derived(
+    (!preuEnabled || !showExperimental)
+      ? ['Simulacro Completo', 'Matemáticas', 'Lectura Crítica', 'Ciencias Naturales', 'Sociales y Ciudadanas', 'Inglés']
+      : ['Simulacro Completo', 'Matemáticas', 'Lectura Crítica', 'Ciencias Naturales', 'Sociales y Ciudadanas', 'Inglés', 'Preuniversitario']
+  );
 
   let availableGrades = $state([3, 4, 5, 6, 7, 8, 9, 10, 11]);
   let showMenModal = $state(false);
@@ -138,12 +142,9 @@
   });
 
   $effect(() => {
-    if (!preuEnabled || !showExperimental) {
-      availableSubjects = availableSubjects.filter((subject) => subject !== 'Preuniversitario');
-      if (selectedSubject === 'Preuniversitario') {
-        selectedSubject = 'Simulacro Completo';
-        selectedUniversity = '';
-      }
+    if ((!preuEnabled || !showExperimental) && selectedSubject === 'Preuniversitario') {
+      selectedSubject = 'Simulacro Completo';
+      selectedUniversity = '';
     }
   });
 
@@ -1286,6 +1287,7 @@
             <div>
               <label class="block text-xs uppercase tracking-widest opacity-60 mb-2">Materia</label>
               <select
+                data-testid="subject-select"
                 bind:value={selectedSubject}
                 disabled={configLocked}
                 class="w-full px-4 py-3 bg-gray-900/90 border border-white/10 rounded-lg text-white text-sm focus:outline-none focus:border-emerald-500/50 transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
@@ -1886,6 +1888,7 @@
             Cancelar
           </button>
           <button
+            data-testid="start-exam-btn"
             class="flex-1 py-3 bg-gradient-to-r from-[#FCD116] via-[#003893] to-[#CE1126] text-white font-bold uppercase tracking-widest text-xs rounded hover:opacity-90 transition-opacity shadow-lg"
             onclick={() => {
               if (roomEnabled && !isHost) return;
