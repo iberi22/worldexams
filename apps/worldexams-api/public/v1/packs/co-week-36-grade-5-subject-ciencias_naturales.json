@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-36-grade-5-subject-ciencias_naturales",
+    "generated_at": "2026-09-17T20:20:06.124Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-5-2026-W36-energia-renovable-no-renovable-colombia-001-MASTERY-bundle-v1",
+      "statement": "¿A qué tipo de energía renovable corresponde la electricidad generada por el viento?",
+      "context": "En la península de La Guajira existen parques con grandes aerogeneradores que aprovechan los fuertes vientos de la región para producir electricidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía eólica.",
+          "is_correct": true,
+          "feedback": "Correcto: La energía eólica aprovecha la energía cinética del viento mediante aspas conectadas a un generador."
+        },
+        {
+          "letter": "B",
+          "text": "Energía geotérmica.",
+          "is_correct": false,
+          "feedback": "La energía geotérmica aprovecha el calor interno de la Tierra, no el viento."
+        },
+        {
+          "letter": "C",
+          "text": "Energía mareomotriz.",
+          "is_correct": false,
+          "feedback": "La energía mareomotriz proviene del movimiento de las mareas en los océanos."
+        },
+        {
+          "letter": "D",
+          "text": "Energía térmica de carbón.",
+          "is_correct": false,
+          "feedback": "La energía térmica de carbón es no renovable y se basa en la combustión de fósiles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Recordar las definiciones de los diferentes tipos de energía renovable según el recurso natural utilizado.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Fisica",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-5-2026-W36-energia-renovable-no-renovable-colombia-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W36-energia-renovable-no-renovable-colombia-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué el petróleo y el carbón se consideran fuentes de energía no renovables?",
+      "context": "El petróleo y el carbón son fuentes de energía ampliamente utilizadas en el transporte e industria de Colombia, pero se clasifican como no renovables.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque no producen ningún tipo de calor al quemarse.",
+          "is_correct": false,
+          "feedback": "Al contrario, producen gran cantidad de energía térmica al quemarse."
+        },
+        {
+          "letter": "B",
+          "text": "Porque se pueden sintetizar artificialmente en un laboratorio en pocas horas.",
+          "is_correct": false,
+          "feedback": "No es posible fabricar petróleo o carbón mineral sintético a escala industrial económica."
+        },
+        {
+          "letter": "C",
+          "text": "Porque provienen del agua dulce retenida en los embalses.",
+          "is_correct": false,
+          "feedback": "Provienen de la descomposición de materia orgánica antigua atrapada en capas sedimentarias."
+        },
+        {
+          "letter": "D",
+          "text": "Porque tardaron millones de años en formarse bajo la Tierra y sus reservas se agotan a medida que se consumen.",
+          "is_correct": true,
+          "feedback": "Correcto: La tasa de consumo de fósiles es inmensamente más rápida que su proceso geológico de formación."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comprender la diferencia temporal entre los ciclos geológicos de los combustibles fósiles y el consumo humano.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Quimica",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-5-2026-W36-energia-renovable-no-renovable-colombia-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W36-energia-renovable-no-renovable-colombia-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la transformación energética principal que ocurre en una central hidroeléctrica?",
+      "context": "La mayor parte de la energía eléctrica consumida en las ciudades colombianas como Bogotá y Medellín proviene de centrales hidroeléctricas como Guatapé o Hidroituango.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía potencial y cinética del agua cayendo → Energía mecánica en la turbina → Energía eléctrica en el generador.",
+          "is_correct": true,
+          "feedback": "Correcto: La altura del agua retenida se convierte en movimiento al caer, moviendo la turbina electromagnética."
+        },
+        {
+          "letter": "B",
+          "text": "Energía química del agua → Energía nuclear → Energía eólica.",
+          "is_correct": false,
+          "feedback": "El agua no sufre reacciones químicas ni nucleares en la hidroeléctrica."
+        },
+        {
+          "letter": "C",
+          "text": "Energía solar directa → Energía térmica en cables de cobre.",
+          "is_correct": false,
+          "feedback": "Aunque el ciclo del agua depende del Sol, en la hidroeléctrica se aprovecha directamente la fuerza mecánica de la caída de agua."
+        },
+        {
+          "letter": "D",
+          "text": "Energía eléctrica → Energía de combustión interna de petróleo.",
+          "is_correct": false,
+          "feedback": "La central hidroeléctrica produce electricidad, no consume petróleo para mover sus turbinas principales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el principio de conservación de la energía identificando la cadena de transformaciones en una planta hidroeléctrica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Fisica",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-5-2026-W36-energia-renovable-no-renovable-colombia-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W36-energia-renovable-no-renovable-colombia-001-MASTERY-bundle-v4",
+      "statement": "¿Qué ventaja ambiental directa ofrece el uso de estos paneles solares frente al uso de una planta eléctrica alimentada por ACPM (diésel)?",
+      "context": "Un colegio en la Orinoquía colombiana instaló paneles solares fotovoltaicos en el techo para alimentar los computadores del laboratorio de sistemas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Funciona a máxima capacidad durante las 24 horas de la noche sin necesidad de baterías.",
+          "is_correct": false,
+          "feedback": "Los paneles requieren luz solar; de noche dependen de baterías o de la red eléctrica."
+        },
+        {
+          "letter": "B",
+          "text": "Genera combustible líquido que sirve para mover los buses escolares.",
+          "is_correct": false,
+          "feedback": "La energía solar produce corriente eléctrica, no combustible de petróleo líquido."
+        },
+        {
+          "letter": "C",
+          "text": "Ocupa menos espacio físico que un pequeño motor a gasolina.",
+          "is_correct": false,
+          "feedback": "Los paneles suelen requerir áreas extensas de techo o terreno para captar suficiente radiación."
+        },
+        {
+          "letter": "D",
+          "text": "No emite gases de efecto invernadero (CO₂) ni contaminantes del aire durante su funcionamiento.",
+          "is_correct": true,
+          "feedback": "Correcto: La generación fotovoltaica es limpia y no produce emisiones gaseosas de combustión directa."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aplicar criterios de sostenibilidad ambiental al comparar la generación fotovoltaica frente a motores de combustión interna.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Fisica",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-5-2026-W36-energia-renovable-no-renovable-colombia-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W36-energia-renovable-no-renovable-colombia-001-MASTERY-bundle-v5",
+      "statement": "¿Qué impacto ecológico negativo está directamente relacionado con la emisión continuada de estos gases?",
+      "context": "La combustión de carbón en termoeléctricas libera dióxido de carbono (CO₂), dióxido de azufre (SO₂) y cenizas al aire.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Congelamiento instantáneo de los ríos cercanos a la termoeléctrica.",
+          "is_correct": false,
+          "feedback": "La emisión de gases de combustión aumenta la temperatura global, no congela fuentes hídricas."
+        },
+        {
+          "letter": "B",
+          "text": "Purificación de la Capa de Ozono en la estratosfera.",
+          "is_correct": false,
+          "feedback": "Los gases sulfurosos y de carbono no purifican la capa de ozono; la contaminan y alteran la atmósfera."
+        },
+        {
+          "letter": "C",
+          "text": "Aumento del efecto invernadero y formación de lluvia ácida que daña bosques y fuentes hídricas.",
+          "is_correct": true,
+          "feedback": "Correcto: El CO₂ atrapa calor produciendo calentamiento global y el SO₂ reacciona con el agua produciendo ácido sulfúrico."
+        },
+        {
+          "letter": "D",
+          "text": "Disminución del nivel del mar por evaporación rápida.",
+          "is_correct": false,
+          "feedback": "El calentamiento global derrite los glaciares provocando el aumento del nivel del mar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicar el conocimiento sobre contaminantes gaseosos provenientes de combustibles fósiles a sus efectos globales y regionales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Quimica",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-5-2026-W36-energia-renovable-no-renovable-colombia-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W36-energia-renovable-no-renovable-colombia-001-MASTERY-bundle-v6",
+      "statement": "¿Qué análisis explica la necesidad de mantener plantas termoeléctricas como respaldo en el sistema energético nacional?",
+      "context": "Durante épocas de sequía severa provocadas por el Fenómeno del Niño en Colombia, el nivel de los embalses hidroeléctricos disminuye críticamente. Para evitar apagones, el país enciende sus plantas termoeléctricas de gas y carbón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque las plantas termoeléctricas son más baratas de construir y no contaminan en absoluto.",
+          "is_correct": false,
+          "feedback": "Las termoeléctricas sí contaminan y su combustible representa costos operativos significativos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el carbón se regenera cada vez que hay sequía en el país.",
+          "is_correct": false,
+          "feedback": "El carbón es no renovable; la sequía no produce formación rápida de carbón mineral."
+        },
+        {
+          "letter": "C",
+          "text": "Porque brindan seguridad y firmeza al sistema cuando la lluvia escasea, garantizando fluido eléctrico continuo aunque aumenten las emisiones temporales.",
+          "is_correct": true,
+          "feedback": "Correcto: El respaldo térmico compensa la variabilidad climática de la generación hídrica o solar."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las termoeléctricas producen agua dulce para llenar de nuevo los embalses.",
+          "is_correct": false,
+          "feedback": "Las plantas termoeléctricas consumen agua para enfriamiento, no producen agua para embalses."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar la complementariedad y matriz mixta de generación eléctrica para sostener el suministro nacional ante contingencias climáticas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciencia_Tecnologia_Sociedad",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-5-2026-W36-energia-renovable-no-renovable-colombia-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W36-energia-renovable-no-renovable-colombia-001-MASTERY-bundle-v7",
+      "statement": "Aunque la energía hidroeléctrica es renovable, ¿cuál es su principal impacto ambiental negativo durante la fase de construcción del embalse?",
+      "context": "La construcción de una gran represa hidroeléctrica requiere inundar miles de hectáreas de bosques y cambiar el cauce natural de un río.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Agotamiento definitivo de la luz solar en la región circundante.",
+          "is_correct": false,
+          "feedback": "Construir un embalse no altera la cantidad de radiación solar recibida del espacio."
+        },
+        {
+          "letter": "B",
+          "text": "Fragmentación de hábitats, desplazamiento de fauna silvestre y descomposición de materia orgánica inundada que genera metano (CH₄).",
+          "is_correct": true,
+          "feedback": "Correcto: La inundación altera el ecosistema terrestre/acuático y la vegetación sumergida produce gases de efecto invernadero al descomponerse."
+        },
+        {
+          "letter": "C",
+          "text": "Emisión masiva de residuos radiactivos de Uranio en el agua del río.",
+          "is_correct": false,
+          "feedback": "La generación hidroeléctrica no involucra reacciones ni materiales nucleares."
+        },
+        {
+          "letter": "D",
+          "text": "Desaparición del viento en todo el departamento circundante.",
+          "is_correct": false,
+          "feedback": "La presencia de una masa de agua no elimina las corrientes eólicas regionales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar de manera integral los pros y contras ecológicos de las megainfraestructuras renovables sobre los ecosistemas locales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Biologia",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-5-2026-W36-energia-renovable-no-renovable-colombia-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W36-energia-renovable-no-renovable-colombia-001-MASTERY-bundle-v8",
+      "statement": "Al evaluar la sostenibilidad económica y ambiental a 20 años, ¿por qué la Propuesta B es la elección superior?",
+      "context": "Un municipio aislado en la selva del Amazonas evalúa dos propuestas para electrificar 500 viviendas:\n- Propuesta A: Extender redes con un generador a diésel que consume 10.000 galones al año transportados por río.\n- Propuesta B: Instalar un sistema híbrido de paneles solares con baterías de litio y pequeño respaldo de biomasa local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el diésel es gratis en Colombia y no requiere transporte logístico.",
+          "is_correct": false,
+          "feedback": "El diésel es costoso, variante en precio y su transporte fluvial por selva es complejo y riesgoso."
+        },
+        {
+          "letter": "B",
+          "text": "Porque reduce la dependencia del transporte riesgoso de combustible, disminuye huella de carbono y aprovecha recursos renovables autóctonos.",
+          "is_correct": true,
+          "feedback": "Correcto: La generación distribuida renovable evita derrames de combustible en ríos selváticos y garantiza independencia energética limpia."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las baterías de litio duran 200 años sin necesidad de mantenimiento o reciclaje.",
+          "is_correct": false,
+          "feedback": "Las baterías requieren mantenimiento y reemplazo periódico (cada 8-12 años), aunque siguen siendo más sostenibles que quemar diésel continuo."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los paneles solares atraen más lluvias a la selva tropical.",
+          "is_correct": false,
+          "feedback": "Los paneles solares no alteran los patrones macroclimáticos de precipitaciones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar proyectos tecnológicos de electrificación rural desde la perspectiva de la transición energética y la sostenibilidad de comunidades aisladas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciencia_Tecnologia_Sociedad",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-5-2026-W36-energia-renovable-no-renovable-colombia-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

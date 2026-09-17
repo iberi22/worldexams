@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-40-grade-5-subject-ciencias_naturales",
+    "generated_at": "2026-09-17T20:20:06.128Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-5-2026-W40-repaso-anual-ciencias-naturales-grado5-001-MASTERY-bundle-v1",
+      "statement": "¿A qué nivel trófico de la cadena alimenticia pertenecen estas plantas fotosintéticas?",
+      "context": "En el ecosistema de un bosque de niebla en los Andes colombianos, las plantas de frailejón captan la humedad de las nubes y absorben energía solar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Consumidores primarios.",
+          "is_correct": false,
+          "feedback": "Los consumidores primarios son animales herbívoros que se alimentan de los productores."
+        },
+        {
+          "letter": "B",
+          "text": "Consumidores secundarios.",
+          "is_correct": false,
+          "feedback": "Los consumidores secundarios son carnívoros o depredadores que se alimentan de herbívoros."
+        },
+        {
+          "letter": "C",
+          "text": "Productores primarios.",
+          "is_correct": true,
+          "feedback": "Correcto: Las plantas son organismos autótrofos que producen su propio alimento mediante la fotosíntesis."
+        },
+        {
+          "letter": "D",
+          "text": "Descomponedores.",
+          "is_correct": false,
+          "feedback": "Los descomponedores (hongos y bacterias) degradan la materia orgánica muerta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Recordar la clasificación de los niveles tróficos dentro de los ecosistemas según la forma de obtención de energía.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Biologia",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-5-2026-W40-repaso-anual-ciencias-naturales-grado5-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W40-repaso-anual-ciencias-naturales-grado5-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué la ebullición del agua es un cambio físico y no un cambio químico?",
+      "context": "Al calentar agua líquida en una olla en Bogotá hasta alcanzar los 92 °C, se observa la formación abundante de burbujas de vapor de agua hirviendo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el vapor de agua no se puede volver a enfriar para formar líquido.",
+          "is_correct": false,
+          "feedback": "El cambio es reversible; al enfriarse, el vapor se condensa nuevamente en líquido."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la sustancia sigue siendo agua (H₂O) antes y después del cambio; solo modificó su estado de agregación.",
+          "is_correct": true,
+          "feedback": "Correcto: Los cambios de estado no alteran la composición molecular interna de la materia."
+        },
+        {
+          "letter": "C",
+          "text": "Porque durante la ebullición el agua se transforma en dióxido de carbono y cenizas.",
+          "is_correct": false,
+          "feedback": "El agua no se transforma en cenizas ni en CO₂ al hervir."
+        },
+        {
+          "letter": "D",
+          "text": "Porque se requiere una chispa de fuego dentro del agua para que comience a hervir.",
+          "is_correct": false,
+          "feedback": "La ebullición requiere transferencia de calor, no chispas de combustión interna."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprender la diferencia entre cambios físicos (que conservan la identidad química) y cambios químicos de la materia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Quimica",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-5-2026-W40-repaso-anual-ciencias-naturales-grado5-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W40-repaso-anual-ciencias-naturales-grado5-001-MASTERY-bundle-v3",
+      "statement": "¿En qué órgano ocurre la mayor parte de la absorción de los nutrientes digeridos hacia el torrente sanguíneo?",
+      "context": "Durante el proceso digestivo en el cuerpo humano, el alimento pasa por diferentes órganos donde sufre transformaciones mecánicas y químicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el intestino delgado.",
+          "is_correct": true,
+          "feedback": "Correcto: Las microvellosidades del intestino delgado absorben glucosa, aminoácidos y ácidos grasos hacia la sangre."
+        },
+        {
+          "letter": "B",
+          "text": "En el estómago.",
+          "is_correct": false,
+          "feedback": "El estómago mezcla los alimentos con jugos gástricos e inicia la digestión proteica, pero la absorción principal es posterior."
+        },
+        {
+          "letter": "C",
+          "text": "En la boca.",
+          "is_correct": false,
+          "feedback": "En la boca ocurre la masticación e insalivación previa a la deglución."
+        },
+        {
+          "letter": "D",
+          "text": "En el intestino grueso.",
+          "is_correct": false,
+          "feedback": "El intestino grueso reabsorbe principalmente agua y sales minerales, formando la materia fecal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el conocimiento de las funciones especializadas de los órganos del sistema digestivo humano.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Biologia",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-5-2026-W40-repaso-anual-ciencias-naturales-grado5-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W40-repaso-anual-ciencias-naturales-grado5-001-MASTERY-bundle-v4",
+      "statement": "¿Qué función cumple la pila dentro de este circuito eléctrico?",
+      "context": "Para encender una bombilla en un circuito eléctrico simple de laboratorio se conectan una pila de 1,5 V, un interruptor y cables de cobre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Abrir el circuito cuando la bombilla se calienta demasiado.",
+          "is_correct": false,
+          "feedback": "La función de abrir o cerrar el paso de corriente la realiza el interruptor."
+        },
+        {
+          "letter": "B",
+          "text": "Transportar la luz desde la bombilla hasta los ojos del observador.",
+          "is_correct": false,
+          "feedback": "La luz se propaga en el aire; la pila opera en el extremo de la fuente del circuito."
+        },
+        {
+          "letter": "C",
+          "text": "Evitar que el cobre de los cables se derrita al tocar el agua.",
+          "is_correct": false,
+          "feedback": "El aislante plástico protege el cable, no la fuente de poder electromotriz."
+        },
+        {
+          "letter": "D",
+          "text": "Suministrar la energía eléctrica (diferencia de potencial) necesaria para impulsar el movimiento de electrones.",
+          "is_correct": true,
+          "feedback": "Correcto: La pila convierte energía química interna en energía eléctrica para mover la corriente."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aplicar los conceptos de elementos constituyentes de un circuito eléctrico cerrado y sus roles específicos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Fisica",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-5-2026-W40-repaso-anual-ciencias-naturales-grado5-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W40-repaso-anual-ciencias-naturales-grado5-001-MASTERY-bundle-v5",
+      "statement": "¿Qué secuencia de métodos físicos de separación permite recuperar por separado la arena seca y la sal sólida?",
+      "context": "Un estudiante prepara una mezcla de sal, arena fina y agua en un vaso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Decantación con imán → Tamizado con colador de fideos.",
+          "is_correct": false,
+          "feedback": "La sal y la arena no son magnéticas; el imán no atrae ninguno de los dos componentes."
+        },
+        {
+          "letter": "B",
+          "text": "Centrifugación térmica → Cristalización con vinagre.",
+          "is_correct": false,
+          "feedback": "Agregar vinagre altera químicamente la solución introduciendo ácido acético."
+        },
+        {
+          "letter": "C",
+          "text": "Flotación en aceite → Destilación con alcohol.",
+          "is_correct": false,
+          "feedback": "Agregar aceite contamina los componentes y complica la separación innecesariamente."
+        },
+        {
+          "letter": "D",
+          "text": "Filtración para separar la arena del agua salada → Evaporación del agua para recuperar la sal sólida.",
+          "is_correct": true,
+          "feedback": "Correcto: El papel filtro retiene la arena (insoluble) y al hervir el filtrado el agua se evapora dejando los cristales de sal."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aplicar secuencias lógicas de métodos de separación de mezclas homogéneas y heterogéneas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Quimica",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-5-2026-W40-repaso-anual-ciencias-naturales-grado5-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W40-repaso-anual-ciencias-naturales-grado5-001-MASTERY-bundle-v6",
+      "statement": "¿A qué clases de vertebrados corresponden respectivamente los animales X, Y y Z?",
+      "context": "Un grupo de biólogos estudió el sistema respiratorio de tres vertebrados:\n- Animal X: Respira mediante branquias durante toda su vida.\n- Animal Y: Respira mediante piel húmeda y pulmones sencillos.\n- Animal Z: Respira mediante pulmones altamente desarrollados con sacos aéreos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "X: Mamífero, Y: Pez, Z: Reptil.",
+          "is_correct": false,
+          "feedback": "Los mamíferos respiran por pulmones, no por branquias en agua."
+        },
+        {
+          "letter": "B",
+          "text": "X: Anfibio, Y: Ave, Z: Pez.",
+          "is_correct": false,
+          "feedback": "Invirtió la asignación de estructuras especializadas de respiración."
+        },
+        {
+          "letter": "C",
+          "text": "X: Pez, Y: Anfibio, Z: Ave.",
+          "is_correct": true,
+          "feedback": "Correcto: Las branquias son típicas de peces, la respiración cutánea de anfibios y los sacos aéreos de las aves."
+        },
+        {
+          "letter": "D",
+          "text": "X: Reptil, Y: Mamífero, Z: Anfibio.",
+          "is_correct": false,
+          "feedback": "Los reptiles no poseen branquias permanentes en etapa adulta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar las adaptaciones morfológicas del sistema respiratorio en las distintas clases de vertebrados.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Biologia",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-5-2026-W40-repaso-anual-ciencias-naturales-grado5-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W40-repaso-anual-ciencias-naturales-grado5-001-MASTERY-bundle-v7",
+      "statement": "¿Qué fenómenos ópticos ocurren respectivamente en la superficie del espejo plano y al atravesar el prisma de vidrio?",
+      "context": "Un espejo plano y un prisma de vidrio transparente se colocan frente a un rayo de luz blanca de sol en un experimento de óptica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reflexión en el espejo (el rayo rebota) y Refracción con dispersión cromática en el prisma (la luz se descompone en colores).",
+          "is_correct": true,
+          "feedback": "Correcto: El espejo plano rebota la luz (reflexión) y el prisma cambia la velocidad refractando la luz en sus colores componentes."
+        },
+        {
+          "letter": "B",
+          "text": "Refracción en el espejo y Reflexión total dentro del prisma.",
+          "is_correct": false,
+          "feedback": "El espejo no deja pasar la luz a través del vidrio posterior; la refleja en la capa metálica."
+        },
+        {
+          "letter": "C",
+          "text": "Absorción total de la luz en ambos objetos produciendo sombra negra.",
+          "is_correct": false,
+          "feedback": "Ninguno de los dos objetos es un cuerpo opaco negro absorbente puro."
+        },
+        {
+          "letter": "D",
+          "text": "Combustión química de la luz en el espejo y evaporación del prisma.",
+          "is_correct": false,
+          "feedback": "La luz es radiación electromagnética, no sufre combustión química con el vidrio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar las diferencias entre reflexión y refracción/dispersión de la luz al interactuar con distintos medios materiales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Fisica",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-5-2026-W40-repaso-anual-ciencias-naturales-grado5-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W40-repaso-anual-ciencias-naturales-grado5-001-MASTERY-bundle-v8",
+      "statement": "¿Qué propuesta tecnológica basada en la ciencia resuelve simultáneamente ambos problemas de forma sostenible?",
+      "context": "Una comunidad costera cerca de Buenaventura enfrenta dos problemas: falta de energía eléctrica en sus viviendas y contaminación de sus playas por residuos orgánicos de pescado y desechos vegetales de mercado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Quemar los residuos orgánicos al aire libre a la orilla del mar durante las noches para iluminar la playa.",
+          "is_correct": false,
+          "feedback": "Quemar basura al aire libre produce humo tóxico, cenizas y no genera electricidad para los hogares."
+        },
+        {
+          "letter": "B",
+          "text": "Construir un biodigestor comunitario que transforme los residuos orgánicos en biogás para generación eléctrica y biofertilizante para cultivos.",
+          "is_correct": true,
+          "feedback": "Correcto: La digestión anaeróbica aprovecha el gas metano producido por bacterias para generar energía limpia eliminando los desechos."
+        },
+        {
+          "letter": "C",
+          "text": "Arrojar los residuos orgánicos mar adentro para que atraigan rayos eléctricos durante las tormentas.",
+          "is_correct": false,
+          "feedback": "Arrojar basura al mar destruye el ecosistema marino y no atrae energía de tormentas."
+        },
+        {
+          "letter": "D",
+          "text": "Instalar una planta nuclear flotante que se alimente de las espinas de pescado.",
+          "is_correct": false,
+          "feedback": "Las plantas nucleares requieren elementos radiactivos pesados como Uranio, no materia orgánica pesquera."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar soluciones tecnológicas integrales (biotecnología ambiental / biodigestores) para resolver problemas socioambientales comunitarios.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciencia_Tecnologia_Sociedad",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-5-2026-W40-repaso-anual-ciencias-naturales-grado5-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}
