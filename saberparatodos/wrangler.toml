@@ -13,14 +13,14 @@ binding = "ASSETS"
 # Environment variables (non-sensitive)
 [vars]
 PUBLIC_API_BASE_URL = "/api"
-PUBLIC_SITE_URL = "https://saberparatodos.space"
+PUBLIC_SITE_URL = "https://worldexam.swal.network"
 PUBLIC_ROOMS_SUPABASE_MIRROR = "false"
 PUBLIC_SUPABASE_URL = "https://your-project.supabase.co"
 PUBLIC_SUPABASE_ANON_KEY = "your_supabase_anon_key_here"
 
 # Production environment
 [env.production]
-vars = { PUBLIC_API_BASE_URL = "https://api.saberparatodos.space", PUBLIC_SITE_URL = "https://saberparatodos.space", PUBLIC_ROOMS_SUPABASE_MIRROR = "false", PUBLIC_SUPABASE_URL = "https://your-project.supabase.co", PUBLIC_SUPABASE_ANON_KEY = "your_supabase_anon_key_here" }
+vars = { PUBLIC_API_BASE_URL = "https://api.saberparatodos.space", PUBLIC_SITE_URL = "https://worldexam.swal.network", PUBLIC_ROOMS_SUPABASE_MIRROR = "false", PUBLIC_SUPABASE_URL = "https://your-project.supabase.co", PUBLIC_SUPABASE_ANON_KEY = "your_supabase_anon_key_here" }
 
 # Preview/staging environment
 [env.preview]
