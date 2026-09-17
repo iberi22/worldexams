@@ -56,7 +56,7 @@ export function getServerRuntimeEnv(locals?: RuntimeLocals): ServerRuntimeEnv {
   const runtimeEnv = getRuntimeEnvObject(locals);
 
   return {
-    siteUrl: cleanEnvVar(runtimeEnv.PUBLIC_SITE_URL || import.meta.env.PUBLIC_SITE_URL || '') || 'https://saberparatodos.space',
+    siteUrl: cleanEnvVar(runtimeEnv.PUBLIC_SITE_URL || import.meta.env.PUBLIC_SITE_URL || '') || 'https://worldexam.swal.network',
     supabaseUrl: cleanEnvVar(
       runtimeEnv.PUBLIC_SUPABASE_URL || import.meta.env.PUBLIC_SUPABASE_URL || ''
     ),

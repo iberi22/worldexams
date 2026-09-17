@@ -49,7 +49,7 @@ const title = `${entry.tema ? toTitleCase(entry.tema) : `${subjectName} ${entry.
 const pageTitle = `${title} — ${subjectName} ${gradeName}, ${display.name} | WorldExams`;
 const pageDescription = `Bundle ${entry.week} de ${subjectName} para ${gradeName} en ${display.name}${entry.alignment ? ` (${entry.alignment})` : ''}: ${entry.total} preguntas con explicación pedagógica.`;
 
-const siteUrl = String(Astro.site ?? 'https://saberparatodos.space').replace(/\/+$/, '');
+const siteUrl = String(import.meta.env.PUBLIC_SITE_URL || Astro.site || 'https://worldexam.swal.network').replace(/\/+$/, '');
 const canonical = `${siteUrl}${bundleUrl(entry)}`;
 const ogImage = `${siteUrl}/og-image.png`;
 

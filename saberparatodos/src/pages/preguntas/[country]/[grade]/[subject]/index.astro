@@ -80,7 +80,7 @@ const toListItem = (e: BundleEntry) => ({
   url: bundleUrl(e),
 });
 
-const siteUrl = String(Astro.site ?? 'https://saberparatodos.space').replace(/\/+$/, '');
+const siteUrl = String(import.meta.env.PUBLIC_SITE_URL || Astro.site || 'https://worldexam.swal.network').replace(/\/+$/, '');
 const canonical = `${siteUrl}/preguntas/${country}/${grade}/${subject}/`;
 const pageTitle = `${subjectName} ${gradeName} — ${display.name}${display.examName ? ` (${display.examName})` : ''} | WorldExams`;
 const pageDescription = `Hub de Aprendizaje: ${bundles.length} bundles de ${subjectName} para ${display.name} ${gradeName} (${totalQuestions} preguntas), guías de estudio para estudiantes y recursos de aula para profesores.`;

@@ -28,7 +28,7 @@ const allEdades = [...new Set(catalog.map((c) => c.edad).filter(Boolean))].sort(
 const allValores = [...new Set(catalog.map((c) => c.valor).filter(Boolean))].sort();
 
 // Canonical URL & SEO metadata
-const siteUrl = (import.meta.env.PUBLIC_SITE_URL || Astro.site?.toString() || 'https://saberparatodos.space').replace(/\/$/, '');
+const siteUrl = (import.meta.env.PUBLIC_SITE_URL || Astro.site?.toString() || 'https://worldexam.swal.network').replace(/\/$/, '');
 const canonicalURL = `${siteUrl}/cuentos/`;
 const pageTitle = 'Cuentos Infantiles Ilustrados | SaberParaTodos';
 const pageDescription = 'Catálogo de cuentos infantiles ilustrados con valores, actividades de comprensión lectora y libre de publicidad.';

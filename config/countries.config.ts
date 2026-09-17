@@ -231,7 +231,7 @@ export const colombiaConfig: CountryConfig = {
   },
   product: {
     siteName: 'SaberParaTodos',
-    siteUrl: 'https://saberparatodos.space',
+    siteUrl: 'https://worldexam.swal.network',
     contactEmail: 'contacto@saberparatodos.space',
     guideLabel: 'ICFES',
     guideYear: 2026,
