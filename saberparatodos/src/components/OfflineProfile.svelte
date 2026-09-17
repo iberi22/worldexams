@@ -60,7 +60,7 @@
     <div class="bg-[#121212] border border-white/10 rounded-3xl relative overflow-hidden shadow-2xl flex flex-col max-h-[90vh]">
 
       <!-- Close Button -->
-      <button
+      <button type="button"
         on:click={onClose}
         class="absolute top-4 right-4 p-2 text-white/40 hover:text-white z-10 transition-colors"
         aria-label="Cerrar"
@@ -133,7 +133,7 @@
 
         <!-- Footer Actions -->
         <div class="p-8">
-          <button
+          <button type="button"
             on:click={shareProgress}
             class="w-full py-4 bg-gradient-to-r from-emerald-600 to-teal-600 hover:from-emerald-500 hover:to-teal-500 text-white font-bold uppercase tracking-widest text-sm rounded-xl shadow-lg shadow-emerald-900/20 transition-all transform hover:scale-[1.02] active:scale-[0.98] flex items-center justify-center gap-2"
           >

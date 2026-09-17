@@ -45,7 +45,6 @@
   import packageInfo from '../../package.json';
   import { countryConfig as defaultCountryConfig } from '../config';
   import { isPreuRuntimeEnabled } from '../lib/preuniversitario/catalog';
-  import { isExperimentalSurface } from '../lib/experimental-surface';
   import { getTenantExperience } from '../config/tenant-experience';
   // Removed static import to avoid Vite warning
   import LocalModeNotice from './LocalModeNotice.svelte';
@@ -68,17 +67,8 @@
     questions = [],
     universalPool = null,
     countryCode = defaultCountryConfig.code,
-    runtimeCountry = defaultCountryConfig,
-    experimentalSurface = false
+    runtimeCountry = defaultCountryConfig
   } = $props();
-
-  // Superficies en maduración (Preuniversitario, Revisar, Comunidad,
-  // Correcciones): el prop SSR manda; en cliente se reconcilia con el
-  // hostname real para cubrir navegaciones sin recarga completa.
-  let showExperimental = $state(experimentalSurface);
-  onMount(() => {
-    showExperimental = showExperimental || isExperimentalSurface();
-  });
 
   // Internal state that can be updated
   let loadedQuestions = $state(questions || []); // Safety check
@@ -190,7 +180,6 @@
   }
 
   async function openRevisarHome() {
-    if (!showExperimental) return; // Revisar oculto en producción
     isNavigatingToBlog = true;
     try {
       if (loadedQuestions.length === 0) {
@@ -260,13 +249,13 @@
       showExamConfigModal = true;
       window.history.replaceState({}, '', '/');
     } else if (subjectParam) {
-       selectedSubject = subjectParam === 'Preuniversitario' && (!preuEnabled || !showExperimental) ? null : subjectParam;
+       selectedSubject = subjectParam === 'Preuniversitario' && !preuEnabled ? null : subjectParam;
        if (gradeParam) selectedGrade = parseInt(gradeParam);
        if (selectedSubject) {
          showExamConfigModal = true;
        }
        window.history.replaceState({}, '', '/');
-    } else if (revisarId && runtimeCountry.features?.blog && showExperimental) {
+    } else if (revisarId && runtimeCountry.features?.blog) {
       // Deep-link into Revisar / Article without a full router rewrite
       try {
         isNavigatingToBlog = true;
@@ -1150,7 +1139,6 @@
             secondaryLandingGrades={secondaryLandingGrades}
             supportsEnglishDiagnostic={supportsEnglishDiagnostic}
             preuEnabled={preuEnabled}
-            showExperimental={showExperimental}
             tenantExperience={tenantExperience}
             onSelectGrade={(grade) => {
               selectedGrade = grade;
@@ -1392,7 +1380,6 @@
       isLoggedIn={Boolean(user)}
       availableQuestions={loadedQuestions}
       initialRoomCode={initialRoomCode}
-      showExperimental={showExperimental}
       onStart={handleExamConfigStart}
       onCancel={() => { showExamConfigModal = false; selectedSubject = null; }}
     />
