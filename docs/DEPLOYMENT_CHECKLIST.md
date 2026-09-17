@@ -94,5 +94,5 @@ Una vez completado el despliegue, realizar la verificación en producción en ca
 
 ## 🏷️ 4. Registro y Cierre
 
-- [ ] Actualizar [CHANGELOG.md](file:///home/belal/proyectosSWAL/apps/worldexams/docs/CHANGELOG.md) con la versión desplegada y el resumen de cambios.
+- [ ] Actualizar [CHANGELOG.md](CHANGELOG.md) con la versión desplegada y el resumen de cambios.
 - [ ] Verificar que la etiqueta Git (`tag`) coincida con la versión del monorepo (`v0.15.3`).
