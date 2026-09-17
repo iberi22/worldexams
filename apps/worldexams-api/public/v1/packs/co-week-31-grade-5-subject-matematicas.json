@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-31-grade-5-subject-matematicas",
+    "generated_at": "2026-09-17T17:04:33.697Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-5-2026-W31-multiplicacion-decimales-problemas-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el peso total de las 4 barras de chocolate?",
+      "context": "Mariana compró 4 barras de chocolate en una tienda de Cali y cada barra pesa 0,25 kg.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1,0 kg.",
+          "is_correct": true,
+          "feedback": "Multiplicar 0,25 por 4 da 1,0 porque 25 centésimas tomadas 4 veces completan una unidad entera."
+        },
+        {
+          "letter": "B",
+          "text": "0,29 kg.",
+          "is_correct": false,
+          "feedback": "Sumar 0,25 + 4 mezcla el número de barras con el peso y no representa la operación correcta."
+        },
+        {
+          "letter": "C",
+          "text": "0,100 kg.",
+          "is_correct": false,
+          "feedback": "0,100 es el resultado de escribir mal el producto; al multiplicar 25 centésimas por 4 se obtienen 100 centésimas, que equivalen a 1,0."
+        },
+        {
+          "letter": "D",
+          "text": "10 kg.",
+          "is_correct": false,
+          "feedback": "10 kg sería el resultado de multiplicar por 40, no por 4."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Multiplicar un decimal por un número natural equivale a sumar ese decimal tantas veces como indica el factor. Aquí 0,25 + 0,25 + 0,25 + 0,25 = 1,0. También se puede calcular 25 x 4 = 100 y ubicar la coma dos posiciones a la izquierda, porque 0,25 tiene dos cifras decimales: 100 centésimas = 1,0.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-5-2026-W31-multiplicacion-decimales-problemas-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W31-multiplicacion-decimales-problemas-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el resultado de multiplicar 1,5 por 10?",
+      "context": "Santiago está estudiando el efecto de multiplicar por 10 en un número decimal y escribe en su cuaderno la operación 1,5 x 10.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15.",
+          "is_correct": true,
+          "feedback": "Al multiplicar por 10, la coma se desplaza una posición hacia la derecha y 1,5 se convierte en 15."
+        },
+        {
+          "letter": "B",
+          "text": "0,15.",
+          "is_correct": false,
+          "feedback": "0,15 sería el resultado de dividir entre 10, no de multiplicar por 10."
+        },
+        {
+          "letter": "C",
+          "text": "150.",
+          "is_correct": false,
+          "feedback": "150 correspondería a multiplicar por 100, es decir, desplazar la coma dos posiciones."
+        },
+        {
+          "letter": "D",
+          "text": "1,50.",
+          "is_correct": false,
+          "feedback": "1,50 tiene el mismo valor que 1,5; multiplicar por 10 debe aumentar el valor, no dejarlo igual."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Multiplicar un número decimal por 10, 100 o 1.000 desplaza la coma hacia la derecha una, dos o tres posiciones según la cantidad de ceros. En 1,5 x 10 la coma avanza un lugar y el resultado es 15. Este patrón se apoya en que cada posición a la derecha vale diez veces más que la anterior.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-5-2026-W31-multiplicacion-decimales-problemas-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W31-multiplicacion-decimales-problemas-001-MASTERY-bundle-v3",
+      "statement": "¿Cuánto debe pagar Mariana por los 2,5 metros de tela?",
+      "context": "En Barranquilla, Mariana necesita tela para un trabajo de arte. Cada metro de tela cuesta $12.500 COP y ella compra 2,5 metros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$31.250 COP.",
+          "is_correct": true,
+          "feedback": "12.500 x 2,5 = 31.250, porque 12.500 x 2 = 25.000 y 12.500 x 0,5 = 6.250."
+        },
+        {
+          "letter": "B",
+          "text": "$25.000 COP.",
+          "is_correct": false,
+          "feedback": "25.000 corresponde a multiplicar por 2 y olvidar el medio metro adicional."
+        },
+        {
+          "letter": "C",
+          "text": "$3.125 COP.",
+          "is_correct": false,
+          "feedback": "3.125 resulta de dividir entre 10; el precio por metro es mucho mayor."
+        },
+        {
+          "letter": "D",
+          "text": "$37.500 COP.",
+          "is_correct": false,
+          "feedback": "37.500 correspondería a comprar 3 metros completos, no 2,5 metros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para hallar el costo total se multiplica el precio de una unidad por la cantidad comprada: 12.500 x 2,5. Se puede descomponer el factor decimal en 2 + 0,5, calcular 12.500 x 2 = 25.000 y 12.500 x 0,5 = 6.250, y luego sumar ambos resultados para obtener 31.250.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-5-2026-W31-multiplicacion-decimales-problemas-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W31-multiplicacion-decimales-problemas-001-MASTERY-bundle-v4",
+      "statement": "¿Cuántos litros de jugo compró Santiago en total?",
+      "context": "Para una reunión familiar en Cali, Santiago compró 6 botellas de jugo y cada botella contiene 1,5 litros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9 litros.",
+          "is_correct": true,
+          "feedback": "1,5 x 6 = 9, porque 1 x 6 = 6 y 0,5 x 6 = 3, y 6 + 3 = 9."
+        },
+        {
+          "letter": "B",
+          "text": "7,5 litros.",
+          "is_correct": false,
+          "feedback": "7,5 litros corresponden a multiplicar 1,5 por 5, no por 6."
+        },
+        {
+          "letter": "C",
+          "text": "90 litros.",
+          "is_correct": false,
+          "feedback": "90 litros sería el resultado de multiplicar por 60, una cantidad muy superior a la real."
+        },
+        {
+          "letter": "D",
+          "text": "0,9 litros.",
+          "is_correct": false,
+          "feedback": "0,9 litros es menor que una sola botella; el resultado debe ser mayor que 1,5."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando el multiplicador es mayor que 1, el producto crece. La operación 1,5 x 6 puede resolverse separando la parte entera y la decimal: 1 litro x 6 = 6 litros y 0,5 litro x 6 = 3 litros; al sumar se obtienen 9 litros. También se calcula 15 x 6 = 90 y se ubica la coma una posición a la izquierda, porque 1,5 tiene una cifra decimal.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-5-2026-W31-multiplicacion-decimales-problemas-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W31-multiplicacion-decimales-problemas-001-MASTERY-bundle-v5",
+      "statement": "¿Cuánto debe pagar Mariana por los 4 lápices?",
+      "context": "En una papelería de Barranquilla, cada lápiz cuesta $850,50 COP. Mariana compra 4 lápices y paga sin recibir descuento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3.402 COP.",
+          "is_correct": true,
+          "feedback": "850,50 x 4 = 3.402, porque 850 x 4 = 3.400 y 0,50 x 4 = 2, y la suma es 3.402."
+        },
+        {
+          "letter": "B",
+          "text": "$3.400 COP.",
+          "is_correct": false,
+          "feedback": "3.400 resulta de multiplicar solo 850 por 4 y omitir los 50 centavos de cada lápiz."
+        },
+        {
+          "letter": "C",
+          "text": "$34.020 COP.",
+          "is_correct": false,
+          "feedback": "34.020 tiene un cero de más; la coma quedó desplazada una posición a la derecha."
+        },
+        {
+          "letter": "D",
+          "text": "$3.042 COP.",
+          "is_correct": false,
+          "feedback": "3.042 altera el orden de las cifras y no proviene de multiplicar correctamente las partes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al multiplicar un decimal por un número natural se multiplican las cifras como si no hubiera coma y después se cuenta el total de cifras decimales del factor. Aquí 850,50 tiene dos cifras decimales: 85050 x 4 = 340200, y al ubicar la coma dos posiciones a la izquierda se obtiene 3.402,00, es decir $3.402 COP.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-5-2026-W31-multiplicacion-decimales-problemas-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W31-multiplicacion-decimales-problemas-001-MASTERY-bundle-v6",
+      "statement": "Si necesita exactamente 3,5 kg, ¿cuál compra le conviene más y cuánto ahorra respecto a la otra?",
+      "context": "En Cali, Santiago compara dos formas de comprar arroz. El paquete sellado de 3,5 kg cuesta $24.500 COP, mientras que a granel el arroz vale $7.500 COP por kilogramo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le conviene el paquete sellado, porque ahorra $1.750 COP.",
+          "is_correct": true,
+          "feedback": "A granel 3,5 x 7.500 = 26.250 COP; al restar 26.250 - 24.500 se obtiene un ahorro de 1.750 COP."
+        },
+        {
+          "letter": "B",
+          "text": "Le conviene comprar a granel, porque ahorra $1.750 COP.",
+          "is_correct": false,
+          "feedback": "A granel cuesta 26.250 COP, que es más caro que el paquete de 24.500 COP; el ahorro está en la otra opción."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos formas cuestan lo mismo.",
+          "is_correct": false,
+          "feedback": "24.500 COP y 26.250 COP son valores distintos; no hay empate."
+        },
+        {
+          "letter": "D",
+          "text": "Le conviene el paquete sellado, porque ahorra $17.500 COP.",
+          "is_correct": false,
+          "feedback": "17.500 es diez veces el ahorro real; se cometió un error al ubicar la coma al restar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar ofertas exige calcular el costo de la misma cantidad en ambas alternativas. A granel el costo es 3,5 x 7.500 = 26.250 COP. Como el paquete sellado cuesta 24.500 COP, conviene el paquete y el ahorro es 26.250 - 24.500 = 1.750 COP. Estimar primero, por ejemplo 3,5 x 7.000 = 24.500, ayuda a detectar errores de magnitud.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-5-2026-W31-multiplicacion-decimales-problemas-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W31-multiplicacion-decimales-problemas-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el resultado correcto de 2,4 x 0,5 y en qué consistió el error de Santiago?",
+      "context": "Santiago resolvió la operación 2,4 x 0,5 y obtuvo 12,0. Mariana revisa el resultado y afirma que hay un error en la ubicación de la coma decimal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El resultado correcto es 1,2; Santiago multiplicó 24 x 5 = 120 y no contó las dos cifras decimales de los factores.",
+          "is_correct": true,
+          "feedback": "2,4 tiene una cifra decimal y 0,5 tiene otra; el producto 120 debe llevar la coma dos posiciones a la izquierda y da 1,20, es decir 1,2."
+        },
+        {
+          "letter": "B",
+          "text": "El resultado correcto es 12,0; Santiago no cometió ningún error.",
+          "is_correct": false,
+          "feedback": "12,0 sería mayor que 2,4, pero multiplicar por 0,5 reduce el valor a la mitad, así que no puede ser correcto."
+        },
+        {
+          "letter": "C",
+          "text": "El resultado correcto es 0,12; hay que ubicar la coma tres posiciones a la izquierda.",
+          "is_correct": false,
+          "feedback": "Solo hay dos cifras decimales entre los dos factores, por lo que la coma se corre dos posiciones, no tres."
+        },
+        {
+          "letter": "D",
+          "text": "El resultado correcto es 120; el producto no lleva coma decimal.",
+          "is_correct": false,
+          "feedback": "Cuando al menos un factor es decimal, el producto también lo es; no se puede omitir la coma."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para multiplicar decimales se opera con las cifras como si fueran naturales (24 x 5 = 120) y luego se cuentan las cifras decimales de ambos factores: 2,4 aporta una y 0,5 aporta otra, en total dos. La coma se ubica dos posiciones a la izquierda de 120 y se obtiene 1,20, que equivale a 1,2. Además, al multiplicar por 0,5 el resultado debe ser menor que 2,4.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-5-2026-W31-multiplicacion-decimales-problemas-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W31-multiplicacion-decimales-problemas-001-MASTERY-bundle-v8",
+      "statement": "¿Le alcanza el dinero a Mariana para pagar todo y cuánto le sobra?",
+      "context": "Mariana va al mercado en Cali con $100.000 COP. Compra 2,5 kg de carne a $18.900,50 COP el kilogramo y 3 paquetes de pan, cada uno a $4.250 COP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí le alcanza y le sobran $39.998,75 COP.",
+          "is_correct": true,
+          "feedback": "Carne: 18.900,50 x 2,5 = 47.251,25; panes: 4.250 x 3 = 12.750; total 60.001,25 y 100.000 - 60.001,25 = 39.998,75."
+        },
+        {
+          "letter": "B",
+          "text": "Sí le alcanza y le sobran $39.998,25 COP.",
+          "is_correct": false,
+          "feedback": "La diferencia de 0,50 indica un error al multiplicar los centavos del precio de la carne."
+        },
+        {
+          "letter": "C",
+          "text": "No le alcanza, porque el total supera los $100.000 COP.",
+          "is_correct": false,
+          "feedback": "El total es 60.001,25 COP, bastante menor que 100.000 COP, así que sí le alcanza."
+        },
+        {
+          "letter": "D",
+          "text": "Sí le alcanza y le sobran $40.000 COP.",
+          "is_correct": false,
+          "feedback": "40.000 es una aproximación; el valor exacto incluye centavos: 39.998,75 COP."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los problemas de varios pasos se resuelven por etapas y conviene estimar para verificar. Primero la carne: 18.900,50 x 2,5 = 47.251,25 COP. Luego el pan: 4.250 x 3 = 12.750 COP. El gasto total es 47.251,25 + 12.750 = 60.001,25 COP. Como 60.001,25 es menor que 100.000, sí le alcanza, y el sobrante es 100.000 - 60.001,25 = 39.998,75 COP. Una estimación rápida (19.000 x 2,5 + 4.000 x 3 = 59.500) confirma que el resultado es razonable.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-5-2026-W31-multiplicacion-decimales-problemas-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}
