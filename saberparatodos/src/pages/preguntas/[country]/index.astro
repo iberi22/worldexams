@@ -49,7 +49,7 @@ const toListItem = (e: BundleEntry) => ({
   url: bundleUrl(e),
 });
 
-const siteUrl = String(Astro.site ?? 'https://saberparatodos.space').replace(/\/+$/, '');
+const siteUrl = String(import.meta.env.PUBLIC_SITE_URL || Astro.site || 'https://worldexam.swal.network').replace(/\/+$/, '');
 const canonical = `${siteUrl}/preguntas/${country}/`;
 const pageTitle = `${display.flag} ${display.name} — Bancos de Preguntas${display.examName ? ` ${display.examName}` : ''} | WorldExams`;
 const pageDescription = `${bundles.length} bundles de preguntas (${totalQuestions} preguntas) para ${display.name}${display.examName ? ` — ${display.examName}` : ''}, organizados por grado y materia.`;

@@ -10,6 +10,7 @@
  */
 
 export const PRODUCTION_HOSTS = [
+  'worldexam.swal.network',
   'saberparatodos.space',
   'www.saberparatodos.space',
 ] as const;

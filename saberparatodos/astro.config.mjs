@@ -8,7 +8,7 @@ import { fileURLToPath } from 'node:url';
 // https://astro.build/config
 export default defineConfig({
   // Site configuration for standalone deployment
-  site: import.meta.env.PUBLIC_SITE_URL || 'https://saberparatodos.space',
+  site: process.env.PUBLIC_SITE_URL || import.meta.env.PUBLIC_SITE_URL || 'https://worldexam.swal.network',
 
   integrations: [
     svelte(),

@@ -69,7 +69,7 @@ const toListItem = (e: BundleEntry) => ({
   url: bundleUrl(e),
 });
 
-const siteUrl = String(Astro.site ?? 'https://saberparatodos.space').replace(/\/+$/, '');
+const siteUrl = String(import.meta.env.PUBLIC_SITE_URL || Astro.site || 'https://worldexam.swal.network').replace(/\/+$/, '');
 const canonical = `${siteUrl}/preguntas/${country}/${grade}/`;
 const pageTitle = `${display.name} ${gradeName} (${gradeNum}) — Preguntas por Materia | WorldExams`;
 const pageDescription = `${bundles.length} bundles (${totalQuestions} preguntas) de ${display.name} en ${gradeName}, organizados por materia${display.examName ? ` y alineados al ${display.examName}` : ''}.`;
