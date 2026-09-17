@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "py",
+    "pack_id": "py-week-14-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-09-17T20:08:59.664Z"
+  },
+  "questions": [
+    {
+      "id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-v1",
+      "statement": "¿Cuál es la propiedad fundamental del átomo de carbono que le permite combinarse consigo mismo formando largas cadenas lineales, ramificadas y cíclicas?",
+      "context": "En el laboratorio de química del Colegio Nacional de la Capital en Asunción, los alumnos analizan la estructura fundamental de las moléculas orgánicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Concatenación",
+          "is_correct": true,
+          "feedback": "¡Correcto! La concatenación es la capacidad única del carbono para formar enlaces covalentes estables carbono-carbono en diversas geometrías."
+        },
+        {
+          "letter": "B",
+          "text": "Radioquímica nuclear",
+          "is_correct": false,
+          "feedback": "Incorrecto. La radioquímica atañe a las transformaciones del núcleo inestable."
+        },
+        {
+          "letter": "C",
+          "text": "Ionización iónica extrema",
+          "is_correct": false,
+          "feedback": "Incorrecto. El carbono forma predominantemente enlaces covalentes, no enlaces iónicos puros."
+        },
+        {
+          "letter": "D",
+          "text": "Sublimación fotoeléctrica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sublimación es un cambio de estado físico de la materia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La tetravalencia y la capacidad de concatenación del átomo de carbono son la base estructural de la inmensa diversidad de compuestos orgánicos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-v2",
+      "statement": "¿Qué tipo de enlace covalente caracteriza a los hidrocarburos insaturados conocidos como \"alquenos\"?",
+      "context": "Durante una clase sobre nomenclatura IUPAC en Caacupé, María estudia los alquenos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al menos un enlace doble carbono-carbono (C=C)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los alquenos contienen por lo menos un enlace doble covalente carbono-carbono en su cadena."
+        },
+        {
+          "letter": "B",
+          "text": "Exclusivamente enlaces sencillos (C-C)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los hidrocarburos con solo enlaces sencillos son alcanos saturados."
+        },
+        {
+          "letter": "C",
+          "text": "Al menos un enlace triple (C≡C)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los enlaces triples caracterizan a la familia de los alquinos."
+        },
+        {
+          "letter": "D",
+          "text": "Enlaces iónicos con metales alcalinos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los hidrocarburos son compuestos covalentes formados por carbono e hidrógeno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los alquenos son hidrocarburos insaturados debido a la presencia del enlace doble C=C, el cual les confiere mayor reactividad química que los alcanos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-v3",
+      "statement": "¿Qué hibridación adopta un átomo de carbono que forma cuatro enlaces sencillos tipo sigma (σ) con geometría tetraédrica?",
+      "context": "En Ciudad del Este, los estudiantes clasifican las hibridaciones de los orbitales del carbono.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hibridación sp3",
+          "is_correct": true,
+          "feedback": "¡Correcto! La hibridación sp3 combina un orbital s y tres orbitales p, generando cuatro orbitales híbridos tetraédricos a 109.5°."
+        },
+        {
+          "letter": "B",
+          "text": "Hibridación sp2",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hibridación sp2 genera geometría trigonal plana a 120° (característica de enlaces dobles)."
+        },
+        {
+          "letter": "C",
+          "text": "Hibridación sp",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hibridación sp produce geometría lineal a 180° (característica de enlaces triples)."
+        },
+        {
+          "letter": "D",
+          "text": "Hibridación d2sp3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta hibridación ocurre en complejos de coordinación de metales de transición."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La hibridación sp3 explica la estructura tridimensional de los alcanos y derivados del metano, etano y otros compuestos saturados.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.79,
+      "bundle_id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-v4",
+      "statement": "¿Cuál es la fórmula molecular y estructura resonante plana del benceno, prototipo de los compuestos aromáticos?",
+      "context": "En San Lorenzo, se examina el hidrocarburo aromático más elemental de la industria petroquímica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "C6H6 con un anillo de seis carbonos y electrones pi delocalizados",
+          "is_correct": true,
+          "feedback": "¡Correcto! El benceno es un anillo plano de seis átomos de carbono con resonancia y deslocalización electrónica pi."
+        },
+        {
+          "letter": "B",
+          "text": "C6H12 con estructura de ciclohexano saturado",
+          "is_correct": false,
+          "feedback": "Incorrecto. C6H12 es la fórmula del ciclohexano no aromático."
+        },
+        {
+          "letter": "C",
+          "text": "C6H14 con cadena abierta lineal",
+          "is_correct": false,
+          "feedback": "Incorrecto. C6H14 corresponde al alcano lineal hexano."
+        },
+        {
+          "letter": "D",
+          "text": "C2H2 en forma de gas acetileno",
+          "is_correct": false,
+          "feedback": "Incorrecto. C2H2 es el etino o acetileno, un alquino de dos carbonos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La aromaticidad del benceno viene dada por el cumplimiento de la regla de Hückel (4n+2 electrones pi) y le otorga una notable estabilidad frente a reacciones de adición.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-v5",
+      "statement": "¿Cuál es el nombre IUPAC correcto para el compuesto CH3-CH(CH3)-CH2-CH3?",
+      "context": "En Encarnación, los alumnos aplican la nomenclatura IUPAC para nombrar un alcano ramificado de 5 carbonos en la cadena principal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2-metilbutano",
+          "is_correct": true,
+          "feedback": "¡Correcto! La cadena principal más larga tiene 4 carbonos (butano) y presenta un sustituyente metilo en la posición 2."
+        },
+        {
+          "letter": "B",
+          "text": "Pentano lineal",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pentano lineal es un isómero de cadena abierta no ramificado (n-pentano)."
+        },
+        {
+          "letter": "C",
+          "text": "3-metilbutano",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se debe numerar la cadena desde el extremo más cercano al sustituyente, asignando la posición 2."
+        },
+        {
+          "letter": "D",
+          "text": "Dimetilpropano",
+          "is_correct": false,
+          "feedback": "Incorrecto. El dimetilpropano (neopentano) posee un carbono central unido a 4 grupos metilo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La nomenclatura IUPAC exige identificar la cadena de carbono continua más larga y numerarla de forma que los sustituyentes reciban los menores localizadores posibles.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-v6",
+      "statement": "Dos compuestos orgánicos que poseen la misma fórmula molecular pero diferente conectividad estructural entre sus átomos se denominan:",
+      "context": "En Villarrica, se estudian los isómeros constitucionales de cadena en los hidrocarburos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Isómeros estructurales (o de cadena)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los isómeros estructurales comparten la misma fórmula molecular global pero difieren en el orden de enlace de sus átomos."
+        },
+        {
+          "letter": "B",
+          "text": "Enantiómeros ópticos pura",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los enantiómeros son estereoisómeros que son imágenes especulares no superponibles."
+        },
+        {
+          "letter": "C",
+          "text": "Isótopos radioactivos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los isótopos son átomos del mismo elemento con diferente número de neutrones."
+        },
+        {
+          "letter": "D",
+          "text": "Alótropos cristalinos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La alotropía se refiere a distintas formas elementales de un mismo elemento en el mismo estado físico (ej. diamante y grafito)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La isomería estructural explica cómo moléculas con idéntica fórmula empírica o molecular presentan propiedades físicas y químicas notablemente diferentes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-v7",
+      "statement": "¿Cuáles son los productos finales de la combustión completa de un hidrocarburo alcano en presencia de exceso de oxígeno (O2)?",
+      "context": "En Paraguarí, los estudiantes analizan la combustión completa de los gases embotellados como el propano (C3H8).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dióxido de carbono (CO2) y Agua (H2O)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La combustión completa oxida completamente los carbonos a CO2 y los hidrógenos a H2O liberando calor."
+        },
+        {
+          "letter": "B",
+          "text": "Monóxido de carbono (CO) y Carbono puro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El monóxido de carbono y el hollín son productos de una combustión incompleta por deficiencia de O2."
+        },
+        {
+          "letter": "C",
+          "text": "Metano y Ácido sulfúrico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los hidrocarburos no producen metano ni contienen azufre en su estructura básica."
+        },
+        {
+          "letter": "D",
+          "text": "Hidrógeno gaseoso y Ozono",
+          "is_correct": false,
+          "feedback": "Incorrecto. El hidrógeno elemental no se libera en la oxidación de hidrocarburos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La combustión completa es una reacción fuertemente exotérmica empleada industrialmente y en los hogares como fuente primaria de energía térmica.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-v8",
+      "statement": "¿Qué tipo de reacción ocurre cuando el bromo líquido (Br2) se adiciona al eteno (CH2=CH2) rompiendo el enlace pi y decolorando la solución?",
+      "context": "En Concepción, se estudia la reactividad de los alquenos mediante la adición de halógenos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reacción de adición electrófila",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los alquenos sufren adición electrófila rompiendo el enlace pi para incorporar los átomos de bromo."
+        },
+        {
+          "letter": "B",
+          "text": "Reacción de sustitución nucleófila",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las sustituciones nucleófilas son características de los halogenuros de alquilo."
+        },
+        {
+          "letter": "C",
+          "text": "Reacción de eliminación E2",
+          "is_correct": false,
+          "feedback": "Incorrecto. La eliminación forma enlaces dobles a partir de enlaces sencillos, no los destruye."
+        },
+        {
+          "letter": "D",
+          "text": "Condensación aldólica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La condensación aldólica requiere compuestos carbonílicos (aldehídos o cetonas)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La adición de agua de bromo es la prueba cualitativa de laboratorio para detectar la presencia de insaturaciones (enlaces dobles o triples) en compuestos orgánicos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.64,
+      "bundle_id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-v9",
+      "statement": "Según la regla de Markovnikov, cuando se adiciona un ácido halhídrico (como el HCl) al propeno (CH3-CH=CH2), ¿a qué carbono se une preferentemente el protón (H+)?",
+      "context": "En Pilar, se investiga la Regla de Markovnikov en la adición de cloruro de hidrógeno (HCl) a los alquenos asimétricos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al carbono del enlace doble que ya posee el mayor número de átomos de hidrógeno",
+          "is_correct": true,
+          "feedback": "¡Correcto! El H+ se une al carbono menos sustituido para formar el carbocatión intermedio más estable."
+        },
+        {
+          "letter": "B",
+          "text": "Al carbono central que posee menos átomos de hidrógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. El carbono central recibe el halógeno (Cl-) por ser el sitio del carbocatión secundario más estable."
+        },
+        {
+          "letter": "C",
+          "text": "Indiferentemente a cualquier carbono de la cadena",
+          "is_correct": false,
+          "feedback": "Incorrecto. La adición a alquenos asimétricos es altamente regioselectiva."
+        },
+        {
+          "letter": "D",
+          "text": "Únicamente al grupo metilo saturado extremo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El grupo metilo saturado sp3 no participa en la reacción de adición electrófila."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La regioselectividad de Markovnikov se explica por la estabilidad relativa de los carbocationes intermedios (los carbocationes secundarios o terciarios son más estables que los primarios).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.61,
+      "bundle_id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-v10",
+      "statement": "¿Cuál es la fórmula IUPAC y el tipo de hibridación del carbono en el alquino conocido comúnmente como acetileno?",
+      "context": "En San Pedro, se estudia el gas acetileno utilizado en los equipos de soldadura autógena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "H-C≡C-H (Etino) con hibridación sp y geometría lineal a 180°",
+          "is_correct": true,
+          "feedback": "¡Correcto! El etino o acetileno posee un enlace triple C≡C, dos orbitales híbridos sp por carbono y ángulo plano de 180°."
+        },
+        {
+          "letter": "B",
+          "text": "CH2=CH2 (Eteno) con hibridación sp2 y ángulo de 120°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al eteno o etileno, un alqueno."
+        },
+        {
+          "letter": "C",
+          "text": "CH3-CH3 (Etano) con hibridación sp3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al etano, un alcano saturado."
+        },
+        {
+          "letter": "D",
+          "text": "C6H5-OH (Fenol) con anillo aromático",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fenol es un alcohol aromático derivado del benceno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El enlace triple del etino consta de un enlace sigma (σ) y dos enlaces pi (π) perpendiculares, otorgándole una reactividad característica frente al fuego de oxicorte.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.58,
+      "bundle_id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-v11",
+      "statement": "¿Cuál es la etapa de la reacción de cloración del metano (CH4 + Cl2 + luz UV) en la que se generan por primera vez los radicales libres cloro (Cl•)?",
+      "context": "En un estudio sintético en la UNA (Asunción), se contrasta la reactividad de los alcanos frente a la halogenación por radicales libres.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Etapa de iniciación",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ruptura homolítica de la molécula de Cl2 inducida por la luz UV genera dos radicales libres cloro activos."
+        },
+        {
+          "letter": "B",
+          "text": "Etapa de propagación",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la propagación, el radical cloro reacciona con el metano formando el radical metilo y HCl."
+        },
+        {
+          "letter": "C",
+          "text": "Etapa de terminación",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la terminación, dos radicales se combinan formando una molécula neutra extinguiendo la cadena."
+        },
+        {
+          "letter": "D",
+          "text": "Etapa de saponificación",
+          "is_correct": false,
+          "feedback": "Incorrecto. La saponificación es la hidrólisis alcalina de ésteres de ácidos grasos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El mecanismo de halogenación radicalaria de alcanos comprende tres etapas bien definidas: iniciación fotolítica, propagación en cadena y terminación.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-v12",
+      "statement": "¿Por qué razón los alquenos disustituidos como el 2-buteno pueden presentar isomería geométrica cis-trans a diferencia de los alcanos equivalentes?",
+      "context": "En Luque, se investiga la estereoisomería cis-trans en los alquenos disustituidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debido a la impedida rotación libre alrededor del enlace doble C=C provocada por el solapamiento de los orbitales pi",
+          "is_correct": true,
+          "feedback": "¡Correcto! La rigidez del enlace pi impide la libre rotación asignando posiciones fijas a los sustituyentes cis (mismo lado) o trans (lados opuestos)."
+        },
+        {
+          "letter": "B",
+          "text": "Por la presencia de carbonos quirales asimétricos en los extremos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 2-buteno no posee centros estereogénicos quirales unidos a 4 grupos distintos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los alquenos se disuelven únicamente en solventes polares",
+          "is_correct": false,
+          "feedback": "Incorrecto. La polaridad del solvente no dicta la existencia de isómeros geométricos estables."
+        },
+        {
+          "letter": "D",
+          "text": "Por el alto punto de fusión de los enlaces simples C-H",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía de los enlaces C-H no bloquea la conformación de la cadena."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La restricción de rotación en los enlaces C=C crea estereoisómeros cis-trans con propiedades físicas (puntos de ebullición, fusión, momento dipolar) marcadamente distintas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.52,
+      "bundle_id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-v13",
+      "statement": "¿Qué proceso petroquímico de reformado térmico o catalítico transforma alcanos lineales de bajo octanaje en alcanos ramificados e hidrocarburos aromáticos de alto octanaje?",
+      "context": "En un laboratorio de refinería petrolera en Villa Elisa, se evalúa el índice de octanaje de las gasolinas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Isomerización y Reforming (reformado catalítico)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El reformado reestructura la cadena hidrocarbonada aumentando el octanaje y la eficiencia antidetonante en motores."
+        },
+        {
+          "letter": "B",
+          "text": "Craqueo alcohólico hidratante",
+          "is_correct": false,
+          "feedback": "Incorrecto. El craqueo rompe moléculas pesadas en ligeras, pero no es específico del reformado aromático."
+        },
+        {
+          "letter": "C",
+          "text": "Destilación destructiva acuosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La destilación fraccionada separa componentes por punto de ebullición sin modificar sus estructuras moleculares."
+        },
+        {
+          "letter": "D",
+          "text": "Polimerización por condensación láctica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La polimerización láctica produce plásticos biodegradables como el PLA."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El octanaje mide la resistencia del combustible a la autodetonación prematura; los alcanos altamente ramificados y los aromáticos ofrecen mayores índices de octanaje.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.49,
+      "bundle_id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-v14",
+      "statement": "En la nitración del benceno utilizando una mezcla sulfonítrica (HNO3 + H2SO4), ¿cuál es la especie electrófila reactiva responsable de atacar el anillo aromático?",
+      "context": "En Caazapá, se examina la reacción de sustitución electrófila aromática (SEAr) en la nitración del benceno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El catión nitronio (NO2+)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El ácido sulfúrico protona al ácido nítrico produciendo la pérdida de agua y la generación del electrófilo nitronio NO2+."
+        },
+        {
+          "letter": "B",
+          "text": "El anión nitrato (NO3-)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El anión nitrato es una especie nucleófila rica en electrones incapaz de atacar el anillo denso en pi."
+        },
+        {
+          "letter": "C",
+          "text": "El radical hidroxilo (OH•)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El radical hidroxilo se produce en fotólisis o procesos Fenton."
+        },
+        {
+          "letter": "D",
+          "text": "El gas nitrógeno molecular (N2)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El N2 no actúa como reactivo en las sustituciones electrófilas aromáticas convencionales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las reacciones SEAr conservan la estabilidad aromática del anillo mediante la adición inicial del electrófilo (como NO2+) seguida de la pérdida de un protón H+.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.46,
+      "bundle_id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-v15",
+      "statement": "¿Por qué el grupo metilo (-CH3) en el tolueno es un activante del anillo aromático y orientador en posiciones orto y para?",
+      "context": "Estudiantes de San Pedro analizan los efectos orientadores de los sustituyentes en los anillos bencénicos monosustituidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cede densidad electrónica al anillo por efecto inductivo hiperconjugativo, estabilizando el intermediario catiónico en orto/para",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los grupos alquilo donan electrones activando el anillo bencénico y dirigiendo el ataque electrófilo a orto y para."
+        },
+        {
+          "letter": "B",
+          "text": "Sustrae electrones del anillo por efecto resonante negativo activando la posición meta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto describe a grupos desactivantes y meta-orientadores como -NO2 o -COOH."
+        },
+        {
+          "letter": "C",
+          "text": "Destruye la estructura resonante del benceno convirtiéndolo en un cicloalqueno simple",
+          "is_correct": false,
+          "feedback": "Incorrecto. La aromaticidad se recupera tras la etapa final de desprotonación."
+        },
+        {
+          "letter": "D",
+          "text": "Absorbe los protones libre convirtiéndolos en grupos metoxilo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El grupo metilo no se transforma en metoxilo durante la sustitución electrófila."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los efectos inductivos y resonantes de los sustituyentes determinan tanto la reactividad relativa del anillo aromático como la regioselectividad de la segunda sustitución.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.43,
+      "bundle_id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-v16",
+      "statement": "¿Cuál de los siguientes hidrocarburos aromáticos es un compuesto policíclico condensado (HAP) constituido por dos anillos bencénicos fusionados?",
+      "context": "En el laboratorio del Colegio Nacional Dr. Pedro P. Peña de Coronel Oviedo, se diferencia entre compuestos aromáticos monocíclicos y policíclicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Naftaleno",
+          "is_correct": true,
+          "feedback": "¡Correcto! El naftaleno (C10H8) consta de dos anillos bencénicos que comparten dos átomos de carbono adyacentes."
+        },
+        {
+          "letter": "B",
+          "text": "Tolueno",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tolueno es un hidrocarburo monocíclico compuesto por un anillo bencénico y un metilo."
+        },
+        {
+          "letter": "C",
+          "text": "Estireno",
+          "is_correct": false,
+          "feedback": "Incorrecto. El estireno es vinilbenceno, un monómero monocíclico."
+        },
+        {
+          "letter": "D",
+          "text": "Ciclooctatetraeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un anillo no aromático no condensado de 8 carbonos con enlaces dobles alternados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los HAP (hidrocarburos aromáticos policíclicos) como el naftaleno, antraceno y fenantreno poseen propiedades fisicoquímicas y tóxicas particulares debido a sus extensos sistemas pi fusionados.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.4,
+      "bundle_id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-v17",
+      "statement": "Al evaluar la estructura molecular del polietileno de alta densidad (HDPE) frente al polietileno de baja densidad (LDPE), ¿cuál es la razón estructural por la cual el HDPE posee mayor rigidez y densidad?",
+      "context": "Un simposio de química ambiental en Asunción analiza la biodegradabilidad de los polímeros sintéticos frente a los biopolímeros orgánicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Posee cadenas hidrocarbonadas altamente lineales con escasas ramificaciones, permitiendo un empaquetamiento cristalino compacto",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las cadenas lineales no ramificadas del HDPE se empaquetan en estructuras cristalinas densas aumentando la rigidez y punto de fusión."
+        },
+        {
+          "letter": "B",
+          "text": "Contiene átomos de cloro e inflado gaseoso en sus enlaces simples",
+          "is_correct": false,
+          "feedback": "Incorrecto. El polietileno está compuesto exclusivamente de carbono e hidrógeno sin cloro."
+        },
+        {
+          "letter": "C",
+          "text": "Está formado por monómeros de benceno unidos covalentemente por nitrógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. El monómero del polietileno es el etileno (CH2=CH2)."
+        },
+        {
+          "letter": "D",
+          "text": "Se descompone espontáneamente en agua al contacto con la luz ambiente",
+          "is_correct": false,
+          "feedback": "Incorrecto. El polietileno es un polímero sintético altamente resistente a la degradación hídrica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El grado de ramificación en la polimerización del etileno determina las fuerzas intermoleculares de Van der Waals y la cristalinidad final del plástico.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.37,
+      "bundle_id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-v18",
+      "statement": "En la reacción de Friedel-Crafts entre el benceno y el 1-cloropropano catalizada por AlCl3, el producto principal obtenido es el isopropilbenceno (cumeno) en lugar del n-propilbenceno. ¿Qué fenómeno carbocatiónico explica este resultado?",
+      "context": "En un proyecto de síntesis en la Facultad de Ciencias Químicas (UNA), se estudia la alquilación de Friedel-Crafts del benceno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reagrupamiento (transposición) del carbocatión primario a un carbocatión secundario más estable por migración de hidruro (H-)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El carbocatión primario inicial sufre transposición inmediata mediante salto de hidruro formando el carbocatión isopropilo secundario más estable."
+        },
+        {
+          "letter": "B",
+          "text": "Polimerización instantánea del cloropropano a baja temperatura",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reagrupación carbocatiónica ocurre antes del ataque electrófilo al benceno."
+        },
+        {
+          "letter": "C",
+          "text": "Oxidación irreversible del anillo aromático por acción del cloruro de aluminio",
+          "is_correct": false,
+          "feedback": "Incorrecto. El AlCl3 actúa como ácido de Lewis catalizador sin oxidar el anillo."
+        },
+        {
+          "letter": "D",
+          "text": "Reducción del benceno a ciclohexano en condiciones anhidras",
+          "is_correct": false,
+          "feedback": "Incorrecto. La alquilación es una sustitución electrófila, no una reducción catalítica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La tendencia de los carbocationes primarios a transponerse a carbocationes secundarios o terciarios más estables es un aspecto fundamental en la química carbocatiónica.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.34,
+      "bundle_id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-v19",
+      "statement": "Al evaluar la aromaticidad del anión ciclopentadienilo (C5H5-), ¿por qué razón este anión de 5 miembros cumple la regla de Hückel y demuestra un comportamiento aromático excepcional?",
+      "context": "Se analizan los criterios teóricos de aromaticidad propuestos por Hückel para sistemas anulares no bencénicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un sistema monocíclico plano con 6 electrones pi deslocalizados (cumpliendo 4n+2 con n=1) y orbites p no interrumpidos",
+          "is_correct": true,
+          "feedback": "¡Correcto! El par de electrones no enlazantes del carbono aniónico sp2 se incorpora al sistema conjugado sumando 6 electrones pi (aromático)."
+        },
+        {
+          "letter": "B",
+          "text": "Posee 4 electrones pi deslocalizados siendo una molécula antiaromática de alta energía",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con 4 electrones pi sería antiaromático; el anión presenta 6 electrones pi."
+        },
+        {
+          "letter": "C",
+          "text": "Contiene enlaces triples alternados entre sus cinco carbonos",
+          "is_correct": false,
+          "feedback": "Incorrecto. No contiene enlaces triples dentro del anillo pentagonal."
+        },
+        {
+          "letter": "D",
+          "text": "Se descompone inmediatamente en presencia de solventes aproticos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El anión ciclopentadienilo es un ligando muy estable en la química organometálica (ej. ferroceno)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La regla de Hückel (4n+2 electrones pi en un anillo plano conjugado) se aplica no solo a hidrocarburos neutros sino también a iones aromáticos como el anión ciclopentadienilo o el catión tropilio.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.31,
+      "bundle_id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-v20",
+      "statement": "¿Qué banda de tensión (estiramiento) en el espectro infrarrojo permite distinguir de forma inambigua a un alquino terminal (R-C≡C-H) de un alqueno o alcano?",
+      "context": "En un estudio de espectroscopía infrarroja (FTIR) en Asunción, se identifican las bandas de absorción características de los hidrocarburos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una banda aguda y fuerte a ~3300 cm-1 correspondiente a la tensión del enlace C(sp)-H",
+          "is_correct": true,
+          "feedback": "¡Correcto! La tensión C(sp)-H de los alquinos terminales produce una señal aguda y muy característica cerca de 3300 cm-1."
+        },
+        {
+          "letter": "B",
+          "text": "Una banda ancha intensa a 1710 cm-1 propia del estiramiento del carbonilo (C=O)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La banda a 1710 cm-1 identifica a compuestos carbonílicos como cetonas o ácidos carboxílicos."
+        },
+        {
+          "letter": "C",
+          "text": "Una absorción continua en la región de 500 cm-1 producida por redes de silicio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las redes de silicato no forman parte de los hidrocarburos puros."
+        },
+        {
+          "letter": "D",
+          "text": "Ausencia total de bandas de absorción entre 400 y 4000 cm-1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos los hidrocarburos presentan bandas de vibración activa C-H y C-C en infrarrojo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La espectroscopía infrarroja identifica grupos funcionales analizando las frecuencias de vibración de estiramiento y flexión de los enlaces covalentes orgánicos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.28,
+      "bundle_id": "PY-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    }
+  ]
+}

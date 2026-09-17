@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "bo",
+    "pack_id": "bo-week-15-grade-11-subject-matematicas",
+    "generated_at": "2026-09-17T20:08:58.746Z"
+  },
+  "questions": [
+    {
+      "id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el valor del límite?",
+      "context": "En Santa Cruz, Jhonny en el Colegio Nacional Santa Cruz analiza el ejercicio #1: evalúa el límite directo lim (x → 3) (2x² - 5).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Límite = 13",
+          "is_correct": true,
+          "feedback": "¡Correcto! Sustitución directa: 2(3²) - 5 = 2(9) - 5 = 18 - 5 = 13."
+        },
+        {
+          "letter": "B",
+          "text": "Límite = 11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elevaste 3² como 6 en lugar de 9."
+        },
+        {
+          "letter": "C",
+          "text": "Límite = 18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste restar la constante 5."
+        },
+        {
+          "letter": "D",
+          "text": "Límite = 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Erraste en el producto 2 × 9."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por propiedad de límites polinómicos, aplicamos sustitución directa: lim (x → 3) (2x² - 5) = 2(3)² - 5 = 18 - 5 = 13.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el valor del límite evitando la indeterminación 0/0?",
+      "context": "En Cochabamba, Marisol en el Colegio Nacional Sucre analiza el ejercicio #2: evalúa lim (x → 2) (x² - 4)/(x - 2).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Límite = 4",
+          "is_correct": true,
+          "feedback": "¡Correcto! Factorizando (x - 2)(x + 2)/(x - 2) = x + 2. Evaluando en x = 2: 2 + 2 = 4."
+        },
+        {
+          "letter": "B",
+          "text": "Límite = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Caíste en la indeterminación 0/0 sin cancelar el factor común."
+        },
+        {
+          "letter": "C",
+          "text": "Límite = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaluaste solo un término del binomio simplificado."
+        },
+        {
+          "letter": "D",
+          "text": "Límite = No existe",
+          "is_correct": false,
+          "feedback": "Incorrecto. La indeterminación 0/0 es removable mediante factorización."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "x² - 4 = (x - 2)(x + 2). Cancelando (x - 2): lim (x → 2) (x + 2) = 2 + 2 = 4.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.87,
+      "bundle_id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la expresión de la derivada f'(x)?",
+      "context": "En Sucre, Walter en el Colegio Nacional Junín analiza el ejercicio #3: halla la derivada de f(x) = 5x⁴ - 3x² + 7x - 9.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "f'(x) = 20x³ - 6x + 7",
+          "is_correct": true,
+          "feedback": "¡Correcto! Aplicando d/dx(xⁿ) = n·xⁿ⁻¹: 5(4x³) - 3(2x) + 7 = 20x³ - 6x + 7."
+        },
+        {
+          "letter": "B",
+          "text": "f'(x) = 20x³ - 6x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste derivar el término lineal 7x."
+        },
+        {
+          "letter": "C",
+          "text": "f'(x) = 5x³ - 3x + 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. No multiplicaste los coeficientes por los exponentes."
+        },
+        {
+          "letter": "D",
+          "text": "f'(x) = 20x⁴ - 6x² + 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. No le restaste 1 a los exponentes al derivar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Regla de la potencia: d/dx(xⁿ) = n xⁿ⁻¹. f'(x) = 5(4x³) - 3(2x¹) + 7(1) - 0 = 20x³ - 6x + 7.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el valor de la pendiente m?",
+      "context": "En Potosí, Sonia en el Colegio Nacional Bolívar analiza el ejercicio #4: halla la pendiente m de la recta tangente a y = x² en x = 3.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "m = 6",
+          "is_correct": true,
+          "feedback": "¡Correcto! Derivada y' = 2x. Evaluando en x = 3: m = 2(3) = 6."
+        },
+        {
+          "letter": "B",
+          "text": "m = 9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaluaste la función original y(3) = 9 en lugar de la derivada."
+        },
+        {
+          "letter": "C",
+          "text": "m = 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste la abscisa directamente."
+        },
+        {
+          "letter": "D",
+          "text": "m = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No evaluaste x = 3 en la derivada y' = 2x."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente de la tangente es la derivada evaluada en el punto: y' = 2x. Evaluando en x = 3 obtenemos m = 2(3) = 6.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.81,
+      "bundle_id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el valor del límite?",
+      "context": "En Oruro, Ramiro en el Colegio Nacional Potosí analiza el ejercicio #5: evalúa el límite al infinito lim (x → ∞) (4x² + 1)/(2x² - 3).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Límite = 2",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al ser de igual grado, el límite es el cociente de coeficientes principales 4/2 = 2."
+        },
+        {
+          "letter": "B",
+          "text": "Límite = ∞",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite es finito pues los grados de numerador y denominador son iguales."
+        },
+        {
+          "letter": "C",
+          "text": "Límite = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. 0 resultaría si el grado del denominador fuera mayor."
+        },
+        {
+          "letter": "D",
+          "text": "Límite = 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste solo el coeficiente del numerador."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dividiendo numerador y denominador por x²: lim (x → ∞) (4 + 1/x²) / (2 - 3/x²) = 4/2 = 2.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la expresión de f'(x)?",
+      "context": "En Tarija, Yolanda en el Colegio Nacional San Luis analiza el ejercicio #6: halla la derivada de f(x) = (2x + 1)³ mediante la regla de la cadena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "f'(x) = 6(2x + 1)²",
+          "is_correct": true,
+          "feedback": "¡Correcto! f'(x) = 3(2x + 1)² · d/dx(2x + 1) = 3(2x + 1)² · 2 = 6(2x + 1)²."
+        },
+        {
+          "letter": "B",
+          "text": "f'(x) = 3(2x + 1)²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar por la derivada interna d/dx(2x + 1) = 2."
+        },
+        {
+          "letter": "C",
+          "text": "f'(x) = 12(2x + 1)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bajaste mal la potencia del binomio."
+        },
+        {
+          "letter": "D",
+          "text": "f'(x) = 6x²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Derivaste solo el término 2x elevado al cubo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Regla de la cadena: d/dx(uⁿ) = n uⁿ⁻¹ · u'. Aquí u = 2x + 1, u' = 2. Por tanto f'(x) = 3(2x + 1)² · 2 = 6(2x + 1)².\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.74,
+      "bundle_id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v7",
+      "statement": "¿Cuáles son las abscisas x de los puntos críticos (donde f'(x) = 0)?",
+      "context": "En Trinidad, Jaime en el Liceo Pantaleón Dalence analiza el ejercicio #7: halla los puntos críticos de f(x) = x³ - 3x.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 1 y x = -1",
+          "is_correct": true,
+          "feedback": "¡Correcto! f'(x) = 3x² - 3 = 0 ⇒ 3(x² - 1) = 0 ⇒ x² = 1 ⇒ x = ±1."
+        },
+        {
+          "letter": "B",
+          "text": "x = 0 y x = 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Igualaste a cero la función original en lugar de la derivada."
+        },
+        {
+          "letter": "C",
+          "text": "x = 3 y x = -3",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dividiste entre 3 al resolver 3x² = 3."
+        },
+        {
+          "letter": "D",
+          "text": "x = √3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste la raíz de 3 en lugar de 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Puntos críticos ocurren cuando f'(x) = 0: f'(x) = 3x² - 3 = 0 ⇒ 3(x² - 1) = 0 ⇒ x² = 1 ⇒ x = 1 y x = -1.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la expresión de f''(x)?",
+      "context": "En Cobija, Marcela en el Colegio Don Bosco analiza el ejercicio #8: halla la segunda derivada de f(x) = x⁴ - 2x³.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "f''(x) = 12x² - 12x",
+          "is_correct": true,
+          "feedback": "¡Correcto! f'(x) = 4x³ - 6x². Derivando nuevamente: f''(x) = 12x² - 12x."
+        },
+        {
+          "letter": "B",
+          "text": "f''(x) = 4x³ - 6x²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la primera derivada f'(x)."
+        },
+        {
+          "letter": "C",
+          "text": "f''(x) = 24x - 12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la tercera derivada f'''(x)."
+        },
+        {
+          "letter": "D",
+          "text": "f''(x) = 12x² - 6x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Erraste en la derivada del término -6x²."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Primera derivada: f'(x) = 4x³ - 6x². Segunda derivada: f''(x) = d/dx(4x³ - 6x²) = 12x² - 12x.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.66,
+      "bundle_id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el valor exacto del límite?",
+      "context": "En El Alto, Grover en el Colegio San Calixto analiza el ejercicio #9: evalúa el límite trigonométrico notable lim (x → 0) (sin(x) / x).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Límite = 1",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es el límite trigonométrico fundamental conocido por teorema de compresión: lim (x → 0) sin(x)/x = 1."
+        },
+        {
+          "letter": "B",
+          "text": "Límite = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaluar sin(0)/0 genera indeterminación 0/0, pero su límite es 1."
+        },
+        {
+          "letter": "C",
+          "text": "Límite = ∞",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite no diverge a infinito."
+        },
+        {
+          "letter": "D",
+          "text": "Límite = Indefinido",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite existe y es igual a 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El límite trigonométrico notable fundamental establece que lim (x → 0) (sin(x)/x) = 1.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la expresión de f'(x)?",
+      "context": "En La Paz, Carlos en el Colegio Nacional Ayacucho analiza el ejercicio #10: halla la derivada del producto f(x) = x² · sin(x).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "f'(x) = 2x sin(x) + x² cos(x)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Regla del producto (u·v)' = u'v + uv': (2x)sin(x) + x²(cos(x))."
+        },
+        {
+          "letter": "B",
+          "text": "f'(x) = 2x cos(x)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste las derivadas de los factores independientemente."
+        },
+        {
+          "letter": "C",
+          "text": "f'(x) = x² cos(x)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitiste el primer término de la regla del producto."
+        },
+        {
+          "letter": "D",
+          "text": "f'(x) = 2x sin(x) - x² cos(x)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Erraste en el signo más de la regla del producto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Regla del producto d/dx(u·v) = u'v + uv'. Con u = x² (u' = 2x) y v = sin(x) (v' = cos(x)): f'(x) = 2x sin(x) + x² cos(x).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la expresión de f'(x)?",
+      "context": "En Santa Cruz, Ana en el Colegio Nacional Santa Cruz analiza el ejercicio #11: halla la derivada del cociente f(x) = x / (x + 1).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "f'(x) = 1 / (x + 1)²",
+          "is_correct": true,
+          "feedback": "¡Correcto! Regla del cociente: [1(x+1) - x(1)] / (x+1)² = (x + 1 - x) / (x+1)² = 1 / (x+1)²."
+        },
+        {
+          "letter": "B",
+          "text": "f'(x) = (2x + 1) / (x + 1)²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los términos del numerador en lugar de restarlos."
+        },
+        {
+          "letter": "C",
+          "text": "f'(x) = 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Derivaste numerador y denominador por separado sin usar la regla del cociente."
+        },
+        {
+          "letter": "D",
+          "text": "f'(x) = -1 / (x + 1)²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el orden de la resta en el numerador."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Regla del cociente: (u/v)' = (u'v - uv') / v². Aquí u = x, v = x + 1. f'(x) = [1(x+1) - x(1)] / (x+1)² = 1 / (x+1)².\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v12",
+      "statement": "¿Es la función f(x) = |x| derivable en x = 0?",
+      "context": "En Cochabamba, Marcos en el Colegio Nacional Sucre analiza el ejercicio #12: determina la derivabilidad de f(x) = |x| en el punto x = 0.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No es derivable en x = 0",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las derivadas laterales difieren: por la izquierda es -1 y por la derecha es +1."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, es derivable y f'(0) = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las pendientes de las tangentes a ambos lados no coinciden."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, es derivable y f'(0) = 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo consideraste la rama derecha x > 0."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, es derivable y f'(0) = -1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo consideraste la rama izquierda x < 0."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "f(x) = |x| no es derivable en x = 0 porque sus derivadas laterales f'_-(0) = -1 y f'_+(0) = 1 son distintas (punto anguloso).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es el valor del límite?",
+      "context": "En Sucre, Lidia en el Colegio Nacional Junín analiza el ejercicio #13: evalúa lim (x → 1) (x³ - 1)/(x - 1).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Límite = 3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Factorizando diferencia de cubos: (x - 1)(x² + x + 1)/(x - 1) = x² + x + 1. Evaluando en x = 1: 1 + 1 + 1 = 3."
+        },
+        {
+          "letter": "B",
+          "text": "Límite = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Caíste en la indeterminación 0/0."
+        },
+        {
+          "letter": "C",
+          "text": "Límite = 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaluaste solo un término del polinomio resultante."
+        },
+        {
+          "letter": "D",
+          "text": "Límite = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste solo dos de los tres términos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "x³ - 1 = (x - 1)(x² + x + 1). Cancelando (x - 1): lim (x → 1) (x² + x + 1) = 1² + 1 + 1 = 3.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.52,
+      "bundle_id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es la ecuación explícita y = mx + b de la tangente?",
+      "context": "En Potosí, Andrés en el Colegio Nacional Bolívar analiza el ejercicio #14: halla la ecuación de la recta tangente a y = x³ en el punto x = 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "y = 3x - 2",
+          "is_correct": true,
+          "feedback": "¡Correcto! Punto (1, 1). Derivada y' = 3x² ⇒ m = 3. Recta: y - 1 = 3(x - 1) ⇒ y = 3x - 2."
+        },
+        {
+          "letter": "B",
+          "text": "y = 3x + 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Erraste en la ordenada al origen b."
+        },
+        {
+          "letter": "C",
+          "text": "y = x + 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste m = 1 en lugar de m = 3."
+        },
+        {
+          "letter": "D",
+          "text": "y = 3x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste trasladar el punto de contacto (1,1)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sustituyendo x = 1 en y = x³ obtenemos y = 1. Derivada y' = 3x² ⇒ m = y'(1) = 3. Punto-pendiente: y - 1 = 3(x - 1) ⇒ y = 3x - 2.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.49,
+      "bundle_id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v15",
+      "statement": "Halla el valor de k para que f(x) sea continua en x = 2.",
+      "context": "En Oruro, Zulma en el Colegio Nacional Potosí analiza el ejercicio #15: función a trozos f(x) = kx para x ≤ 2 y f(x) = x² para x > 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "k = 2",
+          "is_correct": true,
+          "feedback": "¡Correcto! Para continuidad: lim(x→2⁻) kx = lim(x→2⁺) x² ⇒ 2k = 2² = 4 ⇒ k = 2."
+        },
+        {
+          "letter": "B",
+          "text": "k = 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste dividir entre 2."
+        },
+        {
+          "letter": "C",
+          "text": "k = 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asumiste k = 1 sin verificar los límites laterales."
+        },
+        {
+          "letter": "D",
+          "text": "k = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Haría discontinua la función en x = 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que sea continua en x = 2 los límites laterales deben ser iguales: lim(x→2⁻) f(x) = 2k; lim(x→2⁺) f(x) = 4. Así 2k = 4 ⇒ k = 2.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.46,
+      "bundle_id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v16",
+      "statement": "Calcula la velocidad instantánea v(2) para t = 2 segundos.",
+      "context": "En Tarija, Rosmery en el Colegio Nacional San Luis analiza el ejercicio #16: función de posición de un móvil s(t) = 3t² + 2t en metros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "v(2) = 14 m/s",
+          "is_correct": true,
+          "feedback": "¡Correcto! La velocidad es la derivada v(t) = s'(t) = 6t + 2. v(2) = 6(2) + 2 = 14 m/s."
+        },
+        {
+          "letter": "B",
+          "text": "v(2) = 16 m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaluaste la posición s(2) = 3(4) + 4 = 16 m en lugar de la velocidad."
+        },
+        {
+          "letter": "C",
+          "text": "v(2) = 12 m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar la constante 2 de la derivada."
+        },
+        {
+          "letter": "D",
+          "text": "v(2) = 8 m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Derivaste 3t² como 3t."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La velocidad es la derivada de la posición: v(t) = s'(t) = 6t + 2. Evaluando en t = 2 s: v(2) = 6(2) + 2 = 14 m/s.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.43,
+      "bundle_id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es la expresión de f'(x)?",
+      "context": "En Trinidad, Willy en el Liceo Pantaleón Dalence analiza el ejercicio #17: halla la derivada de f(x) = e^(3x).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "f'(x) = 3e^(3x)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Por regla de la cadena d/dx(e^u) = u' e^u ⇒ d/dx(3x) e^(3x) = 3e^(3x)."
+        },
+        {
+          "letter": "B",
+          "text": "f'(x) = e^(3x)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar por la derivada interna u' = 3."
+        },
+        {
+          "letter": "C",
+          "text": "f'(x) = 3x e^(3x-1)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplicaste la regla de la potencia en lugar de la exponencial."
+        },
+        {
+          "letter": "D",
+          "text": "f'(x) = e^3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Derivaste de forma totalmente errónea."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La derivada de la función exponencial e^u es u' e^u. Con u = 3x, u' = 3. Así f'(x) = 3e^(3x).\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es la expresión de f'(x)?",
+      "context": "En Cobija, Teresa en el Colegio Don Bosco analiza el ejercicio #18: halla la derivada de f(x) = ln(x) para x > 0.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "f'(x) = 1/x",
+          "is_correct": true,
+          "feedback": "¡Correcto! La derivada fundamental del logaritmo natural ln(x) es 1/x."
+        },
+        {
+          "letter": "B",
+          "text": "f'(x) = e^x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la derivada del logaritmo con la función exponencial."
+        },
+        {
+          "letter": "C",
+          "text": "f'(x) = 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asumiste que la derivada era una constante 1."
+        },
+        {
+          "letter": "D",
+          "text": "f'(x) = x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la expresión fraccionaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por regla de derivación elemental, la derivada del logaritmo natural d/dx[ln(x)] = 1/x para x > 0.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.38,
+      "bundle_id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es el valor del límite?",
+      "context": "En El Alto, Felipe en el Colegio San Calixto analiza el ejercicio #19: evalúa el límite trigonométrico lim (x → 0) (1 - cos(x)) / x.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Límite = 0",
+          "is_correct": true,
+          "feedback": "¡Correcto! Límite notable fundamental: lim (x → 0) (1 - cos(x))/x = 0."
+        },
+        {
+          "letter": "B",
+          "text": "Límite = 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste con lim (x → 0) sin(x)/x = 1."
+        },
+        {
+          "letter": "C",
+          "text": "Límite = 1/2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al límite de (1 - cos(x))/x²."
+        },
+        {
+          "letter": "D",
+          "text": "Límite = ∞",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite no diverge a infinito."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El límite trigonométrico notable lim (x → 0) (1 - cos(x))/x es igual a 0.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.34,
+      "bundle_id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v20",
+      "statement": "Calcula la función de aceleración a(t).",
+      "context": "En La Paz, Roxana en el Colegio Nacional Ayacucho analiza el ejercicio #20: función de velocidad de un móvil v(t) = 4t³ - 5t.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a(t) = 12t² - 5",
+          "is_correct": true,
+          "feedback": "¡Correcto! La aceleración es la derivada de la velocidad: a(t) = v'(t) = 12t² - 5."
+        },
+        {
+          "letter": "B",
+          "text": "a(t) = 12t³ - 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. No le restaste 1 al exponente de t³."
+        },
+        {
+          "letter": "C",
+          "text": "a(t) = 4t² - 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. No multiplicaste por el exponente 3."
+        },
+        {
+          "letter": "D",
+          "text": "a(t) = 12t²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste derivar el término lineal -5t."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La aceleración es la tasa de cambio de la velocidad respecto al tiempo: a(t) = v'(t) = d/dt(4t³ - 5t) = 12t² - 5.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "BO-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    }
+  ]
+}

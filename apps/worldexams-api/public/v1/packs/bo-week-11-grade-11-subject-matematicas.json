@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "bo",
+    "pack_id": "bo-week-11-grade-11-subject-matematicas",
+    "generated_at": "2026-09-17T20:08:58.743Z"
+  },
+  "questions": [
+    {
+      "id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el grado absoluto de la función polinómica f(x)?",
+      "context": "En Santa Cruz, Jhonny en el Colegio Nacional Santa Cruz analiza el ejercicio #1: f(x) = 4x⁵ - 3x³ + 7x - 12.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Grado 5",
+          "is_correct": true,
+          "feedback": "¡Correcto! El grado absoluto es el mayor exponente de la variable en el polinomio con coeficiente no nulo."
+        },
+        {
+          "letter": "B",
+          "text": "Grado 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. 3 es el exponente del término cúbico, no el grado máximo del polinomio."
+        },
+        {
+          "letter": "C",
+          "text": "Grado 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. 4 es el coeficiente principal del término cuadrático/quíntico."
+        },
+        {
+          "letter": "D",
+          "text": "Grado 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1 es el exponente del término lineal 7x."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El grado de un polinomio de una sola variable equivale al exponente más alto de la variable con coeficiente distinto de cero. En f(x) = 4x⁵ - 3x³ + 7x - 12, el término de mayor exponente es 4x⁵, por lo que el grado es 5.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v2",
+      "statement": "¿Cuáles son las coordenadas del punto de corte con el eje y de P(x)?",
+      "context": "En Cochabamba, Marisol en el Colegio Nacional Sucre analiza el ejercicio #2: P(x) = x³ - 2x² - 5x + 6.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(0, 6)",
+          "is_correct": true,
+          "feedback": "¡Correcto! P(0) = 0 - 0 - 0 + 6 = 6. Por tanto, el punto es (0, 6)."
+        },
+        {
+          "letter": "B",
+          "text": "(0, -6)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Erraste en el signo del término independiente c = 6."
+        },
+        {
+          "letter": "C",
+          "text": "(6, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Intercambiaste la abscisa y la ordenada en el par ordenado."
+        },
+        {
+          "letter": "D",
+          "text": "(0, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El corte con el eje y solo sería el origen si el término independiente fuera nulo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El punto de corte con el eje de las ordenadas (eje y) se calcula evaluando la función en x = 0: P(0) = 6.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.87,
+      "bundle_id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el valor numérico de P(-2)?",
+      "context": "En Sucre, Walter en el Colegio Nacional Junín analiza el ejercicio #3: P(x) = 2x³ - x² + 3x - 5.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-31",
+          "is_correct": true,
+          "feedback": "¡Correcto! P(-2) = 2(-8) - 4 + 3(-2) - 5 = -16 - 4 - 6 - 5 = -31."
+        },
+        {
+          "letter": "B",
+          "text": "-21",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elevaste (-2)² dando -4 de forma errónea sin respetar el signo exterior."
+        },
+        {
+          "letter": "C",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Consideraste (-2)³ como 8 positivo."
+        },
+        {
+          "letter": "D",
+          "text": "-11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitiste multiplicar por 2 el término cúbico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sustituyendo x = -2 en P(x): P(-2) = 2(-2)³ - (-2)² + 3(-2) - 5 = 2(-8) - 4 - 6 - 5 = -31.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la coordenada x del vértice de la parábola f(x)?",
+      "context": "En Potosí, Sonia en el Colegio Nacional Bolívar analiza el ejercicio #4: f(x) = 2x² - 12x + 10.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 3",
+          "is_correct": true,
+          "feedback": "¡Correcto! x_v = -b/(2a) = -(-12)/(2*2) = 12/4 = 3."
+        },
+        {
+          "letter": "B",
+          "text": "x = -3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Erraste en el signo de la fórmula del vértice."
+        },
+        {
+          "letter": "C",
+          "text": "x = 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar por a = 2 el denominador."
+        },
+        {
+          "letter": "D",
+          "text": "x = 12",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dividiste entre 2a."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En una función cuadrática f(x) = ax² + bx + c, la coordenada x del vértice viene dada por x_v = -b / (2a). Sustituyendo a = 2 y b = -12 obtenemos x_v = 3.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.81,
+      "bundle_id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v5",
+      "statement": "¿Cuáles son las raíces o ceros reales de f(x)?",
+      "context": "En Oruro, Ramiro en el Colegio Nacional Potosí analiza el ejercicio #5: f(x) = x² - 5x + 6.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 2 y x = 3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Factorizando (x - 2)(x - 3) = 0 se obtienen x = 2 y x = 3."
+        },
+        {
+          "letter": "B",
+          "text": "x = -2 y x = -3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Erraste en los signos de los factores al despejar x."
+        },
+        {
+          "letter": "C",
+          "text": "x = 1 y x = 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma de 1 y 6 da 7, no el coeficiente lineal 5."
+        },
+        {
+          "letter": "D",
+          "text": "x = -1 y x = 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. El producto de -1 y 5 da -5, no +6."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para hallar los ceros igualamos la función a 0: x² - 5x + 6 = 0 ⇒ (x - 2)(x - 3) = 0 ⇒ x = 2 y x = 3.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el cociente Q(x) resultante de la división sintética?",
+      "context": "En Tarija, Yolanda en el Colegio Nacional San Luis analiza el ejercicio #6: P(x) = x³ - 6x² + 11x - 6 entre (x - 1).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Q(x) = x² - 5x + 6",
+          "is_correct": true,
+          "feedback": "¡Correcto! Dividiendo sintéticamente por r = 1, los coeficientes resultantes son 1, -5, 6 con residuo 0."
+        },
+        {
+          "letter": "B",
+          "text": "Q(x) = x² - 7x + 18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste el valor de la raíz en lugar de operar sintéticamente."
+        },
+        {
+          "letter": "C",
+          "text": "Q(x) = x² + 5x + 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Erraste en los signos de los términos del cociente."
+        },
+        {
+          "letter": "D",
+          "text": "Q(x) = x² - 6x + 11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Copiaste los coeficientes originales del dividendo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicando división sintética a 1, -6, 11, -6 con r = 1: El cociente obtenido es Q(x) = x² - 5x + 6.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.74,
+      "bundle_id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el conjunto dominio de la función f(x)?",
+      "context": "En Trinidad, Jaime en el Liceo Pantaleón Dalence analiza el ejercicio #7: f(x) = (x - 2) / (x² - 9).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales excepto -3 y 3 (ℝ \\ {-3, 3})",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador x² - 9 se anula para x = 3 y x = -3, por lo que deben ser excluidos."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales excepto 2 (ℝ \\ {2})",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el cero del numerador con las restricciones del denominador."
+        },
+        {
+          "letter": "C",
+          "text": "Todos los números reales excepto 9 (ℝ \\ {9})",
+          "is_correct": false,
+          "feedback": "Incorrecto. No sacaste la raíz cuadrada al resolver x² - 9 = 0."
+        },
+        {
+          "letter": "D",
+          "text": "El intervalo cerrado [-3, 3]",
+          "is_correct": false,
+          "feedback": "Incorrecto. Indicas el intervalo acotado en lugar de la exclusión de puntos disjuntos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de una función racional excluye los valores que anulan el denominador: x² - 9 = 0 ⇒ x = ±3. Por lo tanto, el dominio es ℝ \\ {-3, 3}.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la expresión simplificada de la función compuesta f(g(x))?",
+      "context": "En Cobija, Marcela en el Colegio Don Bosco analiza el ejercicio #8: f(x) = 3x - 2 y g(x) = 2x + 4.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "f(g(x)) = 6x + 10",
+          "is_correct": true,
+          "feedback": "¡Correcto! f(g(x)) = 3(2x + 4) - 2 = 6x + 12 - 2 = 6x + 10."
+        },
+        {
+          "letter": "B",
+          "text": "f(g(x)) = 6x + 12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste restar la constante 2 de la función f(x)."
+        },
+        {
+          "letter": "C",
+          "text": "f(g(x)) = 5x + 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las funciones en lugar de componerlas."
+        },
+        {
+          "letter": "D",
+          "text": "f(g(x)) = 6x² + 8x - 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste f(x) por g(x) en lugar de realizar la composición."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La función compuesta f(g(x)) se obtiene sustituyendo g(x) en la variable x de f(x): f(2x + 4) = 3(2x + 4) - 2 = 6x + 10.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.66,
+      "bundle_id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la función inversa f⁻¹(x)?",
+      "context": "En El Alto, Grover en el Colegio San Calixto analiza el ejercicio #9: f(x) = 4x + 8.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "f⁻¹(x) = (x - 8) / 4",
+          "is_correct": true,
+          "feedback": "¡Correcto! y = 4x + 8 ⇒ y - 8 = 4x ⇒ x = (y - 8)/4. Intercambiando variables: f⁻¹(x) = (x - 8)/4."
+        },
+        {
+          "letter": "B",
+          "text": "f⁻¹(x) = (x + 8) / 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Erraste en el signo al trasponer la constante 8."
+        },
+        {
+          "letter": "C",
+          "text": "f⁻¹(x) = 4x - 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. No invertiste la multiplicación por 4."
+        },
+        {
+          "letter": "D",
+          "text": "f⁻¹(x) = 1 / (4x + 8)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste la función recíproca en lugar de la función inversa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para hallar la función inversa, igualamos y = 4x + 8 y despejamos x: x = (y - 8)/4. Intercambiando variables resulta f⁻¹(x) = (x - 8)/4.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la expresión simplificada equivalente para x ≠ 4 y x ≠ -2?",
+      "context": "En La Paz, Carlos en el Colegio Nacional Ayacucho analiza el ejercicio #10: (x² - 16) / (x² - 2x - 8).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(x + 4) / (x + 2)",
+          "is_correct": true,
+          "feedback": "¡Correcto! (x - 4)(x + 4) / [(x - 4)(x + 2)] = (x + 4) / (x + 2)."
+        },
+        {
+          "letter": "B",
+          "text": "(x - 4) / (x - 2)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cancelaste el factor incorrecto en el numerador."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cancelaste erróneamente los términos cuadráticos y lineales."
+        },
+        {
+          "letter": "D",
+          "text": "(x + 4) / (x - 2)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Erraste en el signo del término independiente del denominador."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Factorizamos el numerador: x² - 16 = (x - 4)(x + 4). Factorizamos el denominador: x² - 2x - 8 = (x - 4)(x + 2). Cancelando (x - 4), resulta (x + 4) / (x + 2).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es el valor constante de k para que el residuo sea cero?",
+      "context": "En Santa Cruz, Ana en el Colegio Nacional Santa Cruz analiza el ejercicio #11: P(x) = 2x³ - 3x² + kx - 8 para que sea divisible por (x - 2).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "k = 2",
+          "is_correct": true,
+          "feedback": "¡Correcto! P(2) = 2(8) - 3(4) + 2k - 8 = 16 - 12 + 2k - 8 = 2k - 4 = 0 ⇒ 2k = 4 ⇒ k = 2."
+        },
+        {
+          "letter": "B",
+          "text": "k = -2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Erraste en el signo al despejar 2k = 4."
+        },
+        {
+          "letter": "C",
+          "text": "k = 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste dividir entre el coeficiente 2 de k."
+        },
+        {
+          "letter": "D",
+          "text": "k = -4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de signos acumulado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por el Teorema del Factor, P(x) es divisible por (x - 2) si P(2) = 0. P(2) = 16 - 12 + 2k - 8 = 2k - 4 = 0 ⇒ k = 2.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v12",
+      "statement": "¿Cuáles son las tres raíces reales de la ecuación?",
+      "context": "En Cochabamba, Marcos en el Colegio Nacional Sucre analiza el ejercicio #12: x³ - 3x² - 4x + 12 = 0.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 3, x = 2, x = -2",
+          "is_correct": true,
+          "feedback": "¡Correcto! x²(x - 3) - 4(x - 3) = (x - 3)(x² - 4) = (x - 3)(x - 2)(x + 2) = 0 ⇒ x = 3, 2, -2."
+        },
+        {
+          "letter": "B",
+          "text": "x = -3, x = 1, x = -1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Factorizaste de forma errónea la diferencia de cuadrados."
+        },
+        {
+          "letter": "C",
+          "text": "x = 3, x = 4, x = -4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste la raíz cuadrada de 16 en lugar de 4."
+        },
+        {
+          "letter": "D",
+          "text": "x = 0, x = 3, x = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asumiste que x = 0 era raíz sin ser término independiente nulo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Agrupamos los términos: x²(x - 3) - 4(x - 3) = 0 ⇒ (x - 3)(x² - 4) = 0 ⇒ (x - 3)(x - 2)(x + 2) = 0. Por lo tanto, x = 3, x = 2 y x = -2.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la función de volumen V(x) de la caja abierta resultante?",
+      "context": "En Sucre, Lidia en el Colegio Nacional Junín analiza el ejercicio #13: recortando cuadrados de lado x en las esquinas de una lámina de 12 cm de lado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "V(x) = x(12 - 2x)²",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los lados de la base miden (12 - 2x) cm y la altura es x cm. El volumen es base × altura: V(x) = x(12 - 2x)²."
+        },
+        {
+          "letter": "B",
+          "text": "V(x) = x(12 - x)²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Descontaste solo un cuadrado x en lugar de dos por cada dimensión."
+        },
+        {
+          "letter": "C",
+          "text": "V(x) = 144x - 4x²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al área de la lámina, no al volumen tridimensional."
+        },
+        {
+          "letter": "D",
+          "text": "V(x) = (12 - 2x)³",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asumiste que la altura también medía (12 - 2x)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al cortar cuadrados de esquina de lado x, el largo y el ancho de la base se reducen a (12 - 2x). El área de la base es (12 - 2x)². La altura es x. El volumen es V(x) = x(12 - 2x)².\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.52,
+      "bundle_id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es el conjunto solución exacto expresado en notación de intervalos?",
+      "context": "En Potosí, Andrés en el Colegio Nacional Bolívar analiza el ejercicio #14: (x - 1)/(x + 3) ≤ 0.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El intervalo semihabierto (-3, 1]",
+          "is_correct": true,
+          "feedback": "¡Correcto! Puntos críticos x = -3 (abierto) y x = 1 (cerrado). El cociente es ≤ 0 en (-3, 1]."
+        },
+        {
+          "letter": "B",
+          "text": "El intervalo cerrado [-3, 1]",
+          "is_correct": false,
+          "feedback": "Incorrecto. Incluiste x = -3, pero este valor anula el denominador produciendo indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "La unión (-∞, -3) ∪ [1, ∞)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Seleccionaste los intervalos donde la expresión es positiva."
+        },
+        {
+          "letter": "D",
+          "text": "El intervalo semihabierto [-3, 1)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la apertura y cierre de los extremos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los puntos críticos son x = -3 y x = 1. Evaluando signos en los intervalos, la solución es (-3, 1], excluyendo -3 por ser restricción del denominador.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.49,
+      "bundle_id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v15",
+      "statement": "¿Cuáles son las dos soluciones reales de la ecuación?",
+      "context": "En Oruro, Zulma en el Colegio Nacional Potosí analiza el ejercicio #15: |2x - 5| = 9.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 7 y x = -2",
+          "is_correct": true,
+          "feedback": "¡Correcto! 2x - 5 = 9 ⇒ 2x = 14 ⇒ x = 7; o 2x - 5 = -9 ⇒ 2x = -4 ⇒ x = -2."
+        },
+        {
+          "letter": "B",
+          "text": "x = 7 y x = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Erraste en el signo de la segunda solución al despejar."
+        },
+        {
+          "letter": "C",
+          "text": "x = 14 y x = -4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste dividir entre el coeficiente 2 ambos resultados."
+        },
+        {
+          "letter": "D",
+          "text": "x = 4 y x = -4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste errores de suma en las constantes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación |2x - 5| = 9 se descompone en dos casos: 1) 2x - 5 = 9 ⇒ x = 7. 2) 2x - 5 = -9 ⇒ x = -2.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.46,
+      "bundle_id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es la ecuación lineal y = mx + b de la asíntota oblicua?",
+      "context": "En Tarija, Rosmery en el Colegio Nacional San Luis analiza el ejercicio #16: f(x) = (x² + 3x - 1) / (x - 1).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "y = x + 4",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al efectuar la división polinómica (x² + 3x - 1) ÷ (x - 1) se obtiene el cociente x + 4 con residuo 3."
+        },
+        {
+          "letter": "B",
+          "text": "y = x + 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error en la resta del primer paso de división."
+        },
+        {
+          "letter": "C",
+          "text": "y = x - 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste el denominador como si fuera la asíntota."
+        },
+        {
+          "letter": "D",
+          "text": "y = 2x + 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste de forma errónea el término cuadrático."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para una función racional donde el grado del numerador es 1 unidad mayor que el del denominador, la asíntota oblicua es el cociente de la división polinómica: (x² + 3x - 1) / (x - 1) = x + 4 + 3/(x - 1). Por lo tanto, y = x + 4.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.43,
+      "bundle_id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v17",
+      "statement": "¿En qué intervalo de x la función es cóncava hacia arriba (f''(x) > 0)?",
+      "context": "En Trinidad, Willy en el Liceo Pantaleón Dalence analiza el ejercicio #17: f(x) = x³ - 3x² - 9x + 5.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El intervalo abierto (1, ∞)",
+          "is_correct": true,
+          "feedback": "¡Correcto! f'(x) = 3x² - 6x - 9, f''(x) = 6x - 6. Igualando a cero 6x - 6 > 0 ⇒ x > 1."
+        },
+        {
+          "letter": "B",
+          "text": "El intervalo abierto (-∞, 1)",
+          "is_correct": false,
+          "feedback": "Incorrecto. En este intervalo f''(x) < 0, lo que representa concavidad hacia abajo."
+        },
+        {
+          "letter": "C",
+          "text": "El intervalo abierto (-1, 3)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este representa el intervalo de decrecimiento de la función."
+        },
+        {
+          "letter": "D",
+          "text": "El intervalo abierto (3, ∞)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el punto crítico x = 3 con el punto de inflexión x = 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Primera derivada: f'(x) = 3x² - 6x - 9. Segunda derivada: f''(x) = 6x - 6. Para concavidad hacia arriba exigimos f''(x) > 0 ⇒ 6x - 6 > 0 ⇒ x > 1. El intervalo es (1, ∞).\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v18",
+      "statement": "¿Cuáles son los dos puntos pares ordenados (x, y) de solución real?",
+      "context": "En Cobija, Teresa en el Colegio Don Bosco analiza el ejercicio #18: x² + y² = 25 y x - y = 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(4, 3) y (-3, -4)",
+          "is_correct": true,
+          "feedback": "¡Correcto! De y = x - 1: x² + (x - 1)² = 25 ⇒ 2x² - 2x - 24 = 0 ⇒ x² - x - 12 = 0 ⇒ (x - 4)(x + 3) = 0 ⇒ (4, 3) y (-3, -4)."
+        },
+        {
+          "letter": "B",
+          "text": "(5, 0) y (0, -5)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos puntos no cumplen la ecuación lineal x - y = 1."
+        },
+        {
+          "letter": "C",
+          "text": "(3, 4) y (-4, -3)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Intercambiaste las coordenadas de x e y en los puntos."
+        },
+        {
+          "letter": "D",
+          "text": "(4, -3) y (-3, 4)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Erraste en los signos de la ordenada y."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sustituimos y = x - 1 en x² + y² = 25: x² + (x - 1)² = 25 ⇒ 2x² - 2x - 24 = 0 ⇒ x² - x - 12 = 0 ⇒ (x - 4)(x + 3) = 0. Raíces: x = 4 (y = 3) y x = -3 (y = -4).\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.38,
+      "bundle_id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es la longitud de la base 2x que maximiza el área de un rectángulo inscrito?",
+      "context": "En El Alto, Felipe en el Colegio San Calixto analiza el ejercicio #19: y = 12 - x² sobre el eje x.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La base mide 4 unidades (x = 2)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Área Á(x) = 2x(12 - x²) = 24x - 2x³. Á'(x) = 24 - 6x² = 0 ⇒ x² = 4 ⇒ x = 2. La base es 2x = 4."
+        },
+        {
+          "letter": "B",
+          "text": "La base mide 2 unidades (x = 1)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es el punto crítico que anula la derivada del área."
+        },
+        {
+          "letter": "C",
+          "text": "La base mide 6 unidades (x = 3)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para x = 3 la derivada del área no es cero."
+        },
+        {
+          "letter": "D",
+          "text": "La base mide 8 unidades (x = 4)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para x = 4 la parábola pasa por debajo del eje x."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La función de área del rectángulo de base 2x y altura y = 12 - x² es A(x) = 2x(12 - x²) = 24x - 2x³. Derivando: A'(x) = 24 - 6x² = 0 ⇒ x = 2. La base óptima mide 2(2) = 4 unidades.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.34,
+      "bundle_id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v20",
+      "statement": "¿Cuáles son los valores numéricos de las constantes A y B?",
+      "context": "En La Paz, Roxana en el Colegio Nacional Ayacucho analiza el ejercicio #20: (5x - 1) / (x² - 1) = A/(x - 1) + B/(x + 1).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A = 2 y B = 3",
+          "is_correct": true,
+          "feedback": "¡Correcto! 5x - 1 = A(x + 1) + B(x - 1). Para x = 1: 4 = 2A ⇒ A = 2. Para x = -1: -6 = -2B ⇒ B = 3."
+        },
+        {
+          "letter": "B",
+          "text": "A = 3 y B = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Intercambiaste los valores numéricos de A y B."
+        },
+        {
+          "letter": "C",
+          "text": "A = 5 y B = -1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste los coeficientes del numerador directamente."
+        },
+        {
+          "letter": "D",
+          "text": "A = 1 y B = 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaluaste con errores los puntos críticos x = 1 y x = -1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Igualamos numeradores: 5x - 1 = A(x + 1) + B(x - 1). Evaluando en x = 1: 4 = 2A ⇒ A = 2. Evaluando en x = -1: -6 = -2B ⇒ B = 3.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "BO-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    }
+  ]
+}
