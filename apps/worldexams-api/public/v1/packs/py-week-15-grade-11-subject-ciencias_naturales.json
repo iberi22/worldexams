@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "py",
+    "pack_id": "py-week-15-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-09-17T20:08:59.665Z"
+  },
+  "questions": [
+    {
+      "id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-v1",
+      "statement": "¿Cuál es el grupo funcional característico que define a la familia orgánica de los alcoholes?",
+      "context": "En el laboratorio de química del Colegio Nacional Dr. Raúl Peña de Caacupé, los alumnos examinan frascos de reactivos con funciones oxigenadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Grupo Hidroxilo (-OH)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El grupo hidroxilo (-OH) enlazado a un carbono saturado sp3 define a los alcoholes."
+        },
+        {
+          "letter": "B",
+          "text": "Grupo Carbonilo (C=O)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El grupo carbonilo caracteriza a los aldehídos y cetonas."
+        },
+        {
+          "letter": "C",
+          "text": "Grupo Carboxilo (-COOH)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El grupo carboxilo define a la familia de los ácidos carboxílicos."
+        },
+        {
+          "letter": "D",
+          "text": "Grupo Amino (-NH2)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El grupo amino es característico de las aminas nitrogenadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los alcoholes son compuestos oxigenados cuya polaridad dada por el grupo hidroxilo les permite formar puentes de hidrógeno intermoleculares.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-v2",
+      "statement": "¿Cuál es la fórmula molecular y nombre IUPAC del alcohol de dos carbonos presente en las bebidas fermentadas y desinfectantes antisépticos?",
+      "context": "En Asunción, Santiago revisa la producción industrial de caña paraguaya a partir de la fermentación del jugo de caña de azúcar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "CH3-CH2-OH (Etanol)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El etanol (o alcohol etílico) es el alcohol de dos carbonos producido por fermentación de azúcares."
+        },
+        {
+          "letter": "B",
+          "text": "CH3-OH (Metanol)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El metanol es el alcohol de un solo carbono, altamente tóxico por vía oral o metabólica."
+        },
+        {
+          "letter": "C",
+          "text": "CH3-CH2-CH2-OH (1-Propanol)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al alcohol primario de tres carbonos."
+        },
+        {
+          "letter": "D",
+          "text": "CH3-CO-CH3 (Propanona)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La propanona es una cetona (acetona), no un alcohol."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El etanol presenta amplia aplicación industrial como solvente, combustible y biocombustible mezclado con gasolinas en Paraguay.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-v3",
+      "statement": "¿En qué posición de la cadena de carbono se ubica obligatoriamente el grupo carbonilo (C=O) en los aldehídos?",
+      "context": "En Encarnación, los estudiantes diferencian aldehídos y cetonas por la posición del grupo carbonilo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En un carbono terminal de la cadena (posición 1)",
+          "is_correct": true,
+          "feedback": "¡Correcto! En los aldehídos el grupo carbonilo es siempre terminal (-CHO) estando unido a al menos un átomo de hidrógeno."
+        },
+        {
+          "letter": "B",
+          "text": "En un carbono secundario no terminal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los grupos carbonilo secundarios no terminales caracterizan a las cetonas."
+        },
+        {
+          "letter": "C",
+          "text": "Unido a dos anillos bencénicos fusionados",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una exigencia estructural de los aldehídos simples alifáticos."
+        },
+        {
+          "letter": "D",
+          "text": "Formando un triple enlace con nitrógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. La unión triple C≡N define a los nitrilos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La posición terminal del grupo carbonilo en los aldehídos (-CHO) les confiere mayor facilidad de oxidación en comparación con las cetonas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.79,
+      "bundle_id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-v4",
+      "statement": "¿Qué ácido carboxílico de dos carbonos es el componente orgánico responsable del sabor agrio y olor del vinagre?",
+      "context": "En San Lorenzo, se analiza el olor característico del vinagre comercial usado en la cocina paraguaya.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ácido etanoico (Ácido acético)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El ácido etanoico (CH3-COOH), conocido comúnmente como ácido acético, es el ácido débil del vinagre."
+        },
+        {
+          "letter": "B",
+          "text": "Ácido metanoico (Ácido fórmico)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ácido fórmico es el ácido de un carbono secretado por las hormigas."
+        },
+        {
+          "letter": "C",
+          "text": "Ácido propanoico (Ácido propiónico)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ácido propiónico es un ácido graso de tres carbonos."
+        },
+        {
+          "letter": "D",
+          "text": "Ácido butanoico (Ácido butyrico)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ácido butírico es el responsable del olor rancio en mantequillas deterioradas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los ácidos carboxílicos poseen el grupo funcional -COOH constituido por un grupo carbonilo (C=O) y un hidroxilo (-OH) sobre el mismo átomo de carbono.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-v5",
+      "statement": "¿Qué reactivos orgánicos deben reaccionar en presencia de un catalizador ácido para formar un éster y agua?",
+      "context": "En Villarrica, los alumnos estudian las reacciones de esterificación para sintetizar fragancias frutales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un ácido carboxílico y un alcohol",
+          "is_correct": true,
+          "feedback": "¡Correcto! La esterificación de Fischer combina un ácido carboxílico y un alcohol liberando una molécula de agua."
+        },
+        {
+          "letter": "B",
+          "text": "Un alcano y un halógeno gaseoso",
+          "is_correct": false,
+          "feedback": "Incorrecto. Produce halogenuros de alquilo mediante sustitución radicalaria."
+        },
+        {
+          "letter": "C",
+          "text": "Una amina primaria y dióxido de carbono",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta mezcla no genera el enlace éster (-COO-)."
+        },
+        {
+          "letter": "D",
+          "text": "Dos aldehídos terminales iguales",
+          "is_correct": false,
+          "feedback": "Incorrecto. La combinación de aldehídos en medio básico produce reacciones de aldolización."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los ésteres poseen la fórmula general R-COO-R' y son conocidos por sus aromas frutales empleados en las industrias alimentaria y cosmética.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-v6",
+      "statement": "¿Por qué razón las aminas (derivadas del amoníaco NH3) actúan como bases de Lewis en solución acuosa?",
+      "context": "En Concepción, se estudia el carácter básico de las aminas nitrogenadas orgánicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Poseen un par de electrones no enlazantes en el átomo de nitrógeno capaz de aceptar un protón (H+)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El par libre sobre el átomo de nitrógeno otorga basicidad a las aminas primarias, secundarias y terciarias."
+        },
+        {
+          "letter": "B",
+          "text": "Liberan protones H+ al medio aumentando la acidez de la solución",
+          "is_correct": false,
+          "feedback": "Incorrecto. Donar protones es propio de los ácidos de Brønsted-Lowry, no de las aminas."
+        },
+        {
+          "letter": "C",
+          "text": "Se disocian espontáneamente en iones sodio y cloruro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las aminas son compuestos orgánicos nitrogenados, no sales inorgánicas."
+        },
+        {
+          "letter": "D",
+          "text": "Carecen por completo de átomos de nitrógeno en su estructura",
+          "is_correct": false,
+          "feedback": "Incorrecto. El átomo de nitrógeno es el centro funcional definitorio de las aminas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La basicidad y nucleofilia de las aminas dependen de la disponibilidad del par solitario del nitrógeno y del efecto inductivo de los grupos sustituyentes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-v7",
+      "statement": "El compuesto 2-propanol (CH3-CH(OH)-CH3) se clasifica como un alcohol:",
+      "context": "En Coronel Oviedo, se clasifica un alcohol según el tipo de carbono al que se encuentra unido el grupo hidroxilo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Secundario",
+          "is_correct": true,
+          "feedback": "¡Correcto! El grupo -OH está unido a un carbono secundario (enlazado a su vez a otros dos carbonos)."
+        },
+        {
+          "letter": "B",
+          "text": "Primario",
+          "is_correct": false,
+          "feedback": "Incorrecto. En un alcohol primario el -OH se une a un carbono terminal (unido a un solo carbono)."
+        },
+        {
+          "letter": "C",
+          "text": "Terciario",
+          "is_correct": false,
+          "feedback": "Incorrecto. En un alcohol terciario el carbono portador del -OH se une a otros tres carbonos."
+        },
+        {
+          "letter": "D",
+          "text": "Aromático cuaternario",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 2-propanol es un compuesto alifático sin anillos bencénicos ni carbonos cuaternarios hidroxilados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La clasificación de alcoholes en primarios, secundarios o terciarios condiciona su comportamiento frente a agentes oxidantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-v8",
+      "statement": "¿Qué producto orgánico se obtiene al someter un alcohol primario a una oxidación moderada controlada (por ejemplo con PCC)?",
+      "context": "En Pilar, se investiga la oxidación suave de alcoholes primarios y secundarios en el laboratorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un aldehído",
+          "is_correct": true,
+          "feedback": "¡Correcto! La oxidación suave de un alcohol primario convierte el grupo -CH2OH en un grupo aldehído (-CHO)."
+        },
+        {
+          "letter": "B",
+          "text": "Una cetona",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las cetonas se obtienen por oxidación de alcoholes secundarios."
+        },
+        {
+          "letter": "C",
+          "text": "Un alcano saturado",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oxidación no remueve los átomos de oxígeno para formar alcanos."
+        },
+        {
+          "letter": "D",
+          "text": "Un éter simétrico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los éteres se obtienen por deshidratación intermolecular de alcoholes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La oxidación de alcoholes primarios con oxidantes fuertes (KMnO4 o K2Cr2O7) continúa hasta ácido carboxílico, mientras que oxidantes suaves como el PCC detienen la reacción en aldehído.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.64,
+      "bundle_id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-v9",
+      "statement": "¿Qué evidencia visual positiva (conocida como el \"espejo de plata\") confirma la presencia de un aldehído al reaccionar con el reactivo de Tollens [Ag(NH3)2]+?",
+      "context": "En Paraguarí, los estudiantes diferencian aldehídos y cetonas mediante el reactivo de Tollens en tubos de ensayo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Depósito de plata metálica (Ag0) brillante en las paredes del tubo",
+          "is_correct": true,
+          "feedback": "¡Correcto! El aldehído reduce el catión plata Ag+ a plata metálica depositando una película brillante mientras el aldehído se oxida."
+        },
+        {
+          "letter": "B",
+          "text": "Formación de un precipitado verde oscuro de cromo trivalente",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cambio a verde cromo ocurre con el reactivo dicromato de potasio en medio ácido."
+        },
+        {
+          "letter": "C",
+          "text": "Desprendimiento violento de gas cloro amarillo irritante",
+          "is_correct": false,
+          "feedback": "Incorrecto. La prueba de Tollens no utiliza ni genera cloro gaseoso."
+        },
+        {
+          "letter": "D",
+          "text": "Cambio de color de transparente a azul violeta intenso por almidón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la prueba del yodo para detección de polisacáridos como almidón."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La prueba de Tollens aprovecha la facilidad de oxidación de los aldehídos frente a las cetonas, las cuales no reaccionan con este reactivo suave.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.61,
+      "bundle_id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-v10",
+      "statement": "¿Qué dos grupos funcionales principales están presentes simultáneamente en la estructura de un alfa-aminoácido?",
+      "context": "En San Pedro, se analiza la estructura química de los aminoácidos que integran las proteínas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un grupo amino (-NH2) y un grupo carboxilo (-COOH)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los aminoácidos contienen tanto la función amina básica (-NH2) como la función ácido carboxílico (-COOH) unidas al carbono alfa."
+        },
+        {
+          "letter": "B",
+          "text": "Un grupo hidroxilo (-OH) y un grupo alquino (-C≡C-)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta combinación no corresponde a la estructura de las unidades proteicas."
+        },
+        {
+          "letter": "C",
+          "text": "Un grupo éter (-O-) y un grupo nitro (-NO2)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los éteres y compuestos nitro no constituyen la base de los aminoácidos."
+        },
+        {
+          "letter": "D",
+          "text": "Un grupo cetona (C=O) y un grupo tiol (-SH) únicamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los aminoácidos requieren obligatoriamente de los grupos carboxilo y amino."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La presencia simultánea de grupos ácido y básico en los aminoácidos les confiere propiedades anfóteras formando zwitteriones a pH fisiológico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.58,
+      "bundle_id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-v11",
+      "statement": "¿Por qué razón el fenol es sustancialmente más ácido (Ka ~ 10-10) que un alcohol alifático como el etanol (Ka ~ 10-16)?",
+      "context": "En un proyecto de síntesis en Asunción, se compara la acidez del fenol (C6H5-OH) con la del etanol (CH3-CH2-OH).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El anión fenóxido resultante estabiliza la carga negativa por resonancia con el anillo aromático",
+          "is_correct": true,
+          "feedback": "¡Correcto! La deslocalización de la carga negativa del oxígeno en los orbitales pi del anillo desprotonado aumenta la estabilidad del fenóxido."
+        },
+        {
+          "letter": "B",
+          "text": "El fenol contiene tres átomos de nitrógeno altamente electronegativos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fenol contiene solo carbono, hidrógeno y oxígeno (sin nitrógeno)."
+        },
+        {
+          "letter": "C",
+          "text": "El etanol se disocia completamente formando iones oxonio insolubles",
+          "is_correct": false,
+          "feedback": "Incorrecto. El etanol es un ácido extremadamente débil en solución acuosa."
+        },
+        {
+          "letter": "D",
+          "text": "El grupo -OH del fenol se une a un carbono con hibridación sp3 de alta densidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. El carbono del anillo aromático bencénico posee hibridación sp2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La estabilización por resonancia de la base conjugada explica las acusadas diferencias de acidez entre compuestos con grupos funcionales aparentemente similares.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-v12",
+      "statement": "¿Cómo se denomina técnicamente la reacción química en la que un éster graso se hidroliza con una base fuerte (como NaOH) para producir glicerol y sales de ácidos grasos (jabón)?",
+      "context": "En Luque, se investiga la hidrólisis alcalina de grasas (triacilglicéridos) para la fabricación de jabones artesanales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Saponificación",
+          "is_correct": true,
+          "feedback": "¡Correcto! La saponificación es la hidrólisis en medio alcalino de ésteres produciendo glicerina y sales carboxílicas (jabones)."
+        },
+        {
+          "letter": "B",
+          "text": "Polimerización por adición radicalaria",
+          "is_correct": false,
+          "feedback": "Incorrecto. La adición radicalaria une alquenos sin liberar glicerol ni sales."
+        },
+        {
+          "letter": "C",
+          "text": "Halogenación fotocatalítica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La halogenación incorpora halógenos en presencia de radiación o catalizadores."
+        },
+        {
+          "letter": "D",
+          "text": "Fermentación acética anaeróbica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fermentación acética convierte el etanol en ácido acético por vía biológica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La saponificación genera moléculas anfipáticas con una cabeza carboxilato polar hidrofílica y una cola hidrocarbonada apolar hidrofóbica eficaz en la solubilización de grasas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.52,
+      "bundle_id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-v13",
+      "statement": "Desde el punto de vista de la química orgánica, ¿a qué familia funcional pertenece el enlace peptídico (-CO-NH-) formado entre el carboxilo de un aminoácido y el amino de otro?",
+      "context": "En Caazapá, se estudia el enlace peptídico que une a los aminoácidos en las cadenas polipeptídicas de los alimentos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Amida sustituida",
+          "is_correct": true,
+          "feedback": "¡Correcto! El enlace peptídico es estructuralmente una función amida secundaria producida por condensación con eliminación de agua."
+        },
+        {
+          "letter": "B",
+          "text": "Éter simétrico",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace éter presenta la conectividad R-O-R'."
+        },
+        {
+          "letter": "C",
+          "text": "Anhidrido de ácido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los anhídridos se forman por condensación de dos grupos carboxilo (-CO-O-CO-)."
+        },
+        {
+          "letter": "D",
+          "text": "Acetal alifático",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los acetales poseen dos grupos alcoxi (-OR) unidos a un mismo carbono."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La naturaleza del enlace amida peptídico con carácter parcial de doble enlace C-N impone una estructura plana que restringe las conformaciones tridimensionales proteicas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.49,
+      "bundle_id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-v14",
+      "statement": "¿Qué hidrocarburo gaseoso insaturado se obtiene principalmente al deshidratar etanol (CH3-CH2-OH) con H2SO4 concentrado a 170 °C?",
+      "context": "En el laboratorio del Colegio Nacional San Lorenzo, se prueba la deshidratación del etanol con ácido sulfúrico concentrado y calor a 170 °C.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eteno (Etileno)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La deshidratación intramolecular de alcoholes a alta temperatura produce el correspondiente alqueno (eteno) mediante eliminación de agua."
+        },
+        {
+          "letter": "B",
+          "text": "Etano saturado",
+          "is_correct": false,
+          "feedback": "Incorrecto. La eliminación de agua genera insaturación, no alcanza la saturación del etano."
+        },
+        {
+          "letter": "C",
+          "text": "Metano puro",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reacción no rompe la cadena de dos carbonos a un solo carbono."
+        },
+        {
+          "letter": "D",
+          "text": "Etino (Acetileno)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La eliminación intramolecular simple de un alcohol mono hídrico produce un alqueno doble y no un alquino triple."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La deshidratación de alcoholes catalizada por ácido fuerte sigue un mecanismo de eliminación (E1 o E2) convirtiendo alcoholes en alquenos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.46,
+      "bundle_id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-v15",
+      "statement": "¿Por qué el ácido etanoico (CH3-COOH, M=60 g/mol) hierve a 118 °C mientras que el 1-propanol (CH3-CH2-CH2-OH, M=60 g/mol) hierve a 97 °C?",
+      "context": "Estudiantes de San Pedro analizan los puntos de ebullición comparativos de compuestos orgánicos de masa molar similar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los ácidos carboxílicos forman dímeros estables con doble puente de hidrógeno intermolecular en estado líquido y gaseoso",
+          "is_correct": true,
+          "feedback": "¡Correcto! La formación de dímeros cíclicos unidos por dos puentes de hidrógeno por pareja incrementa fuertemente las fuerzas intermoleculares en ácidos."
+        },
+        {
+          "letter": "B",
+          "text": "El 1-propanol no puede formar puentes de hidrógeno intermoleculares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los alcoholes forman puentes de hidrógeno pero no forman dímeros cíclicos dobles tan estables."
+        },
+        {
+          "letter": "C",
+          "text": "El ácido etanoico es una molécula no polar completamente apolar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ácido etanoico es fuertemente polar debido a los enlaces C=O y O-H."
+        },
+        {
+          "letter": "D",
+          "text": "El 1-propanol reacciona espontáneamente con el nitrógeno del aire",
+          "is_correct": false,
+          "feedback": "Incorrecto. La interacción con nitrógeno atmosférico no influye en la temperatura de ebullición."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las interacciones intermoleculares por dimerización aumentan sustancialmente los puntos de ebullición de los ácidos carboxílicos respecto a alcoholes, aldehídos u óxidos de similar masa.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.43,
+      "bundle_id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-v16",
+      "statement": "¿Qué compuesto orgánico se obtiene al reducir una cetona como la propanona (CH3-CO-CH3) con un agente reductor fuerte como NaBH4 o LiAlH4?",
+      "context": "En Paraguarí, se estudia la reacción de reducción de compuestos carbonílicos mediante hidruro de litio y aluminio (LiAlH4).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un alcohol secundario (2-Propanol)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La adición de nucleófila de hidruro al grupo carbonilo de una cetona produce un alcohol secundario."
+        },
+        {
+          "letter": "B",
+          "text": "Un aldehído terminal",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reducción de cetonas no las transforma en aldehídos."
+        },
+        {
+          "letter": "C",
+          "text": "Un ácido carboxílico de tres carbonos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ácidos carboxílicos corresponden a estados de oxidación más altos, no reducidos."
+        },
+        {
+          "letter": "D",
+          "text": "Un alquino de cadena larga",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reducción de la cetona produce alcoholes, no alquinos triples."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las reacciones de adición nucleófila de hidruros (H-) convierten aldehídos en alcoholes primarios y cetonas en alcoholes secundarios.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.4,
+      "bundle_id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-v17",
+      "statement": "Al evaluar la reacción de síntesis de la aspirina a partir de ácido salicílico y anhídrido acético en medio ácido, ¿qué transformación de grupo funcional ocurre sobre el ácido salicílico?",
+      "context": "Un seminario de farmacia en la Facultad de Ciencias Químicas (UNA) analiza la síntesis de la aspirina (ácido acetilsalicílico).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acetilación del grupo fenol (-OH) convirtiéndolo en un éster acético",
+          "is_correct": true,
+          "feedback": "¡Correcto! El grupo hidroxilo fenólico del ácido salicílico reacciona con el anhídrido acético formándose el éster acetilsalicílico."
+        },
+        {
+          "letter": "B",
+          "text": "Reducción del grupo carboxilo (-COOH) a grupo metilo alifático",
+          "is_correct": false,
+          "feedback": "Incorrecto. El grupo carboxilo se conserva intacto en la estructura de la aspirina."
+        },
+        {
+          "letter": "C",
+          "text": "Nitración aromática del anillo bencénico en posición meta",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se incorporan grupos nitro en la síntesis convencional del analgésico."
+        },
+        {
+          "letter": "D",
+          "text": "Sustitución del anillo aromático por un heterociclo de azufre",
+          "is_correct": false,
+          "feedback": "Incorrecto. El anillo aromático permanece inalterado durante la esterificación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La acetilación del fenol en el ácido salicílico reduce su irritación gástrica directa conservando sus propiedades analgésicas y antiinflamatorias como éster acetilado.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.37,
+      "bundle_id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-v18",
+      "statement": "¿Qué tipo de alcohol se obtiene al hacer reaccionar un reactivo de Grignard (R-MgX) con el metanal (Formaldehído, HCHO) seguido de una hidrólisis ácida?",
+      "context": "En un ensayo de síntesis avanzada en Asunción, se estudia la reacción de Grignard con compuestos carbonílicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un alcohol primario con un carbono más en su estructura",
+          "is_correct": true,
+          "feedback": "¡Correcto! La adición del nucleófilo R- al formaldehído genera un alcóxido que al hidrolizarse produce un alcohol primario R-CH2OH."
+        },
+        {
+          "letter": "B",
+          "text": "Un alcohol terciario simétrico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los alcoholes terciarios se obtienen al reaccionar reactivos de Grignard con cetonas o ésteres en exceso."
+        },
+        {
+          "letter": "C",
+          "text": "Un ácido dicarboxílico insaturado",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reacción de Grignard forma alcoholes al reaccionar con derivados carbonílicos simples."
+        },
+        {
+          "letter": "D",
+          "text": "Una amina terciaria aromática",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los organometálicos de Grignard no forman aminas nitrogenadas en esta adición."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los reactivos de organomagnesio (Grignard) son nucleófilos de carbono ultrapotentes utilizados en síntesis orgánica para construir enlaces C-C y alcoholes de diversa complejidad.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.34,
+      "bundle_id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-v19",
+      "statement": "Al evaluar la tautomería ceto-enólica en soluciones orgánicas, ¿qué diferencia a dos tautómeros de dos isómeros de resonancia convencionales?",
+      "context": "Se examinan los equilibrios de tautomería ceto-enólica en compuestos dicarbonílicos como la acetilacetona.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los tautómeros son isómeros de constitución reales en equilibrio rápido que difieren en la posición de un protón (H+) y un enlace pi",
+          "is_correct": true,
+          "feedback": "¡Correcto! A diferencia de las estructuras de resonancia (que son representaciones hipotéticas), los tautómeros son moléculas reales en equilibrio tautomérico."
+        },
+        {
+          "letter": "B",
+          "text": "Los tautómeros son híbridos hipotéticos que no existen como sustancias puras",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto describe a los contribuyentes de resonancia, los tautómeros son especies interconvertibles reales."
+        },
+        {
+          "letter": "C",
+          "text": "Los tautómeros difieren únicamente en el giro de la luz polarizada",
+          "is_correct": false,
+          "feedback": "Incorrecto. La rotación de la luz polarizada distingue a los enantiómeros ópticos."
+        },
+        {
+          "letter": "D",
+          "text": "Los tautómeros se destruyen al entrar en contacto con átomos de carbono",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tautomería ocurre habitualmente en cadenas hidrocarbonadas carbonílicas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La tautomería ceto-enólica involucra la migración reversible de un protón y el cambio de posición de un enlace doble C=O a C=C-OH, siendo fundamental en reacciones nucleófilas de carbonilos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.31,
+      "bundle_id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-v20",
+      "statement": "En el espectro de masas de una cetona alifática, la fragmentación preferente denominada \"Transposición de McLafferty\" requiere fundamentalmente la presencia de:",
+      "context": "En el marco de un estudio espectroscópico en la UNA (Asunción), se analiza la espectrometría de masas (MS) de compuestos oxigenados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un grupo carbonilo y un átomo de hidrógeno en posición gamma (γ) respecto al carbonilo",
+          "is_correct": true,
+          "feedback": "¡Correcto! La transposición de McLafferty involucra un estado de transición cíclico de 6 miembros que requiere un H-γ para transferirse al oxígeno carbonílico."
+        },
+        {
+          "letter": "B",
+          "text": "Un átomo de bromo radioactivo en la posición alfa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La regla de McLafferty no requiere halógenos en su mecanismo fragmentario."
+        },
+        {
+          "letter": "C",
+          "text": "Tres anillos aromáticos condensados con nitrógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. La transposición ocurre en sistemas alifáticos carbonílicos con hidrógenos en gamma."
+        },
+        {
+          "letter": "D",
+          "text": "Ausencia total de enlaces dobles o pares solitarios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Requiere necesariamente el grupo carbonilo (C=O) como aceptor del hidrógeno gamma."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La transposición de McLafferty es un patrón de fragmentación característico en espectrometría de masas que ayuda a dilucidar la estructura de compuestos carbonílicos con cadenas alquílicas largas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.28,
+      "bundle_id": "PY-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    }
+  ]
+}

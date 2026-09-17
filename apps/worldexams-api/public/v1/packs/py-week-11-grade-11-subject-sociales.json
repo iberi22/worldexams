@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "sociales",
+    "country": "py",
+    "pack_id": "py-week-11-grade-11-subject-sociales",
+    "generated_at": "2026-09-17T20:08:59.718Z"
+  },
+  "questions": [
+    {
+      "id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v1",
+      "statement": "¿Qué elemento natural principal actúa como límite biogeográfico y territorial dividiendo al Paraguay en dos grandes regiones (Región Oriental y Región Occidental o Chaco)?",
+      "context": "La estudiante María del Colegio Nacional de la Capital en Asunción estudia las dos grandes regiones geográficas en las que se divide el territorio paraguayo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Río Paraguay",
+          "is_correct": true,
+          "feedback": "Correcto. El Río Paraguay cruza el territorio de norte a sur dividiéndolo naturalmente en la Región Oriental y la Región Occidental (Chaco)."
+        },
+        {
+          "letter": "B",
+          "text": "La Cordillera de los Andes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los Andes se ubican en la franja occidental de Sudamérica, fuera de las fronteras territoriales paraguayas."
+        },
+        {
+          "letter": "C",
+          "text": "El Océano Atlántico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Paraguay es un país mediterráneo sin costas directas sobre el océano Atlántico."
+        },
+        {
+          "letter": "D",
+          "text": "El Río de la Plata",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Río de la Plata se forma mucho más al sur entre Argentina y Uruguay."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Río Paraguay es la arteria fluvial determinante del país, marcando contraste entre la Región Oriental fértil y el Chaco semiárido.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v2",
+      "statement": "¿Qué porcentaje aproximado de la superficie territorial total del Paraguay representa la Región Occidental o Chaco, a pesar de albergar a menos del 5% de la población nacional?",
+      "context": "En Filadelfia (Departamento de Boquerón), un grupo de estudiantes analiza la superficie de la Región Occidental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aproximadamente el 60% del territorio nacional",
+          "is_correct": true,
+          "feedback": "Correcto. El Chaco abarca cerca del 60% del territorio patrio (unos 247.000 km²), caracterizándose por una bajísima densidad poblacional."
+        },
+        {
+          "letter": "B",
+          "text": "Menos del 10% del territorio nacional",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Región Oriental es la de menor superficie relativa (40%) a pesar de concentrar a la inmensa mayoría de la población."
+        },
+        {
+          "letter": "C",
+          "text": "El 95% del territorio nacional",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un porcentaje excesivo que ignora la extensión sustancial de la Región Oriental (40%)."
+        },
+        {
+          "letter": "D",
+          "text": "El 25% del territorio nacional",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cifra de 25% no corresponde a la división territorial biogeográfica paraguaya."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El contraste entre el 60% de superficie del Chaco y su escasa población frente al 40% oriental hiperpoblado refleja la marcada asimetría territorial del país.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.83,
+      "bundle_id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v3",
+      "statement": "¿Qué ciudad es la capital política y el centro administrativo más poblado de la República del Paraguay?",
+      "context": "Durante una clase de geografía urbana en San Lorenzo, se analizan las dinámicas de concentración demográfica en el área metropolitana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Asunción",
+          "is_correct": true,
+          "feedback": "Correcto. Nuestra Señora de la Asunción es la madre de ciudades y capital soberana del Paraguay."
+        },
+        {
+          "letter": "B",
+          "text": "Ciudad del Este",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ciudad del Este es la capital del Departamento de Alto Paraná y principal polo comercial fronterizo, pero no la capital nacional."
+        },
+        {
+          "letter": "C",
+          "text": "Encarnación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Encarnación es la capital del Departamento de Itapúa, referente turístico y fronterizo sobre el Río Paraná."
+        },
+        {
+          "letter": "D",
+          "text": "Concepción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Concepción es la capital departamental del primer departamento norteño sobre el Río Paraguay."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Asunción concentra las sedes de los tres poderes del Estado y articula el principal conglomerado urbano del Gran Asunción.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v4",
+      "statement": "¿En cuántos Departamentos, además del Distrito Capital (Asunción), se divide administrativamente el territorio paraguayo?",
+      "context": "En Villarrica, los alumnos revisan la división política y administrativa establecida por la Constitución de 1992.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "17 Departamentos",
+          "is_correct": true,
+          "feedback": "Correcto. El Paraguay se organiza políticamente en 17 departamentos (14 en la Región Oriental y 3 en la Región Occidental) y 1 Distrito Capital."
+        },
+        {
+          "letter": "B",
+          "text": "10 Departamentos",
+          "is_correct": false,
+          "feedback": "Incorrecto. 10 es una cifra inferior al número constitucional de departamentos paraguayos."
+        },
+        {
+          "letter": "C",
+          "text": "24 Departamentos",
+          "is_correct": false,
+          "feedback": "Incorrecto. 24 corresponde a las provincias argentinas o departamentos de otros países de la región."
+        },
+        {
+          "letter": "D",
+          "text": "5 Departamentos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cifra errónea que ignora la descentralización territorial departamental del país."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La división en 17 departamentos descentraliza la administración pública bajo gobiernos departamentales electos por voto popular.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v5",
+      "statement": "¿Qué dos represas hidroeléctricas binacionales de gran envergadura mundial comparte Paraguay con sus países vecinos sobre el Río Paraná?",
+      "context": "En el Departamento de Alto Paraná, la estudiante Liz estudia el potencial hidroeléctrico de la cuenca del Río Paraná.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Itaipú (con Brasil) y Yacyretá (con Argentina)",
+          "is_correct": true,
+          "feedback": "Correcto. Itaipú binacional (Brasil) y Yacyretá binacional (Argentina) constituyen las fuentes hidroeléctricas colosales de soberanía paraguaya."
+        },
+        {
+          "letter": "B",
+          "text": "Guri (con Venezuela) y Salto Grande (con Uruguay)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Guri se ubica en Venezuela y Salto Grande entre Argentina y Uruguay sobre el río Uruguay."
+        },
+        {
+          "letter": "C",
+          "text": "El Chocón (con Chile) y Tucuruí (con Bolivia)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Represas ubicadas en Argentina y Brasil respectivamente sin participación paraguaya."
+        },
+        {
+          "letter": "D",
+          "text": "Aswan (con Egipto) y Tres Gargantas (con China)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Megaobras fluviales pertenecientes a África y Asia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Itaipú y Yacyretá convierten a Paraguay en uno de los mayores exportadores netos de energía eléctrica limpia y renovable del planeta.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v6",
+      "statement": "¿Qué tipo de clima predomina en la mayor parte de la Región Oriental del Paraguay, propiciando la agricultura de cereales y oleaginosas?",
+      "context": "En la ciudad de Coronel Oviedo, se analiza el clima continental de la Región Oriental frente al clima seco del Chaco Boreal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Subtropical húmedo con precipitaciones abundantes bien distribuidas",
+          "is_correct": true,
+          "feedback": "Correcto. La Región Oriental posee un clima subtropical húmedo sin estación seca prolongada, idóneo para el bosque atlántico y el agro."
+        },
+        {
+          "letter": "B",
+          "text": "Árido desértico con ausencia total de lluvias",
+          "is_correct": false,
+          "feedback": "Incorrecto. Paraguay no posee desiertos áridos extremos tipo Atacama o Sahara."
+        },
+        {
+          "letter": "C",
+          "text": "Polar de alta montaña con nieves perpetuas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El relieve paraguayo es predominantemente de llanura y meseta sin altitudes polares."
+        },
+        {
+          "letter": "D",
+          "text": "Ecuatorial monzónico con fríos polares permanentes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Combinación climática contradictoria ajena a la geografía del Cono Sur paraguayo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El clima subtropical húmedo en la Región Oriental favorece la producción agrícola masiva de soja, maíz, trigo y la ganadería intensiva.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v7",
+      "statement": "¿Qué gran acuífero subterráneo dulce de dimensión transfronteriza y valor estratégico mundial yace bajo el subsuelo del oriente paraguayo compartiéndose con Brasil, Argentina y Uruguay?",
+      "context": "En Pilar (Departamento de Ñeembucú), los estudiantes investigan las áreas inundables y los recursos hídricos superficiales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Acuífero Guaraní",
+          "is_correct": true,
+          "feedback": "Correcto. El Acuífero Guaraní es uno de los mayores reservorios subterráneos de agua dulce del planeta."
+        },
+        {
+          "letter": "B",
+          "text": "El Acuífero de Ogallala",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Ogallala es una reserva subterránea de agua en las grandes planicies de los Estados Unidos."
+        },
+        {
+          "letter": "C",
+          "text": "El Acuífero Nubio",
+          "is_correct": false,
+          "feedback": "Incorrecto. El reservorio Nubio yace bajo el desierto del Sahara en el norte de África."
+        },
+        {
+          "letter": "D",
+          "text": "El Acuífero Amazónico del Pacífico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Denominación geográficamente errónea sin correspondencia en la cuenca del Plata."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Acuífero Guaraní constituye la mayor reserva estratégica de agua dulce de la región, exigiendo soberanía y gestión ambiental sustentable.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.71,
+      "bundle_id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v8",
+      "statement": "¿Qué bioma boscoso de altísima biodiversidad y endemismo, ampliamente fragmentado por la expansión agrícola en el este del país, forma parte del patrimonio natural paraguayo?",
+      "context": "Durante una clase sobre biodiversidad en Concepción, se analizan los ecorregiones amenazadas de la Región Oriental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Bosque Atlántico del Alto Paraná (BAAPA)",
+          "is_correct": true,
+          "feedback": "Correcto. El BAAPA forma parte del bioma de la selva paranaense de extraordinaria riqueza biológica en flora y fauna."
+        },
+        {
+          "letter": "B",
+          "text": "La Taiga de coníferas polares",
+          "is_correct": false,
+          "feedback": "Incorrecto. La taiga es un bioma de latitudes subárticas de hemisferio norte."
+        },
+        {
+          "letter": "C",
+          "text": "La Tundra ártica de musgos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tundra es un ecosistema frío sin árboles de zonas polares."
+        },
+        {
+          "letter": "D",
+          "text": "La Sabana de los llanos del Orinoco",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los llanos del Orinoco se ubican en Colombia y Venezuela."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La protección de los remanentes del BAAPA es prioritaria para mitigar la deforestación en Alto Paraná, Canindeyú e Itapúa.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.69,
+      "bundle_id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la elevación orográfica o cerro de mayor altitud sobre el nivel del mar en la República del Paraguay (ubicado en la Cordillera del Ybytyruzú)?",
+      "context": "El estudiante Joaquín de Caazapá analiza las principales cordilleras y cerros de modesta elevación de la Región Oriental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Cerro Tres Kandú (o Cerro Peró) con 842 metros sobre el nivel del mar",
+          "is_correct": true,
+          "feedback": "Correcto. El Cerro Tres Kandú en el Departamento de Guairá es el punto más elevado de la geografía nacional paraguaya (842 msnm)."
+        },
+        {
+          "letter": "B",
+          "text": "El Cerro Aconcagua de 6.960 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Aconcagua es la cima más alta de América ubicada en los Andes argentinos."
+        },
+        {
+          "letter": "C",
+          "text": "El Cerro Lambaré de 1.200 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Cerro Lambaré en Asunción posee una altitud modesta de aproximadamente 139 msnm."
+        },
+        {
+          "letter": "D",
+          "text": "El Volcán Chimborazo de 6.263 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Chimborazo es un imponente volcán ubicado en los Andes ecuatorianos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El relieve paraguayo es antiguo y desgastado por la erosión, alcanzando su punto culminante en el Cerro Tres Kandú dentro de la Cordillera del Ybytyruzú.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v10",
+      "statement": "¿Qué característica demográfica singular define la pirámide poblacional del Paraguay en el siglo XXI en comparación con países del Cono Sur como Uruguay o Argentina?",
+      "context": "En la ciudad de Encarnación, los alumnos analizan la transición demográfica y el bono demográfico que experimenta la población paraguaya.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una estructura mayoritariamente joven, con más del 50% de la población menor de 30 años (Bono Demográfico)",
+          "is_correct": true,
+          "feedback": "Correcto. Paraguay cuenta con una población predominantemente joven, disfrutando de una ventana de oportunidad de bono demográfico."
+        },
+        {
+          "letter": "B",
+          "text": "Un envejecimiento masivo donde el 80% supera los 70 años de edad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Paraguay no posee una estructura hiperenvejecida como algunos países europeos o asiáticos."
+        },
+        {
+          "letter": "C",
+          "text": "Una tasa de natalidad igual a cero con crecimiento negativo absoluto desde 1950",
+          "is_correct": false,
+          "feedback": "Incorrecto. El país ha mantenido tasas de natalidad positivas que sostienen el crecimiento demográfico."
+        },
+        {
+          "letter": "D",
+          "text": "La ausencia total de mujeres en las estadísticas censales urbanas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las estadísticas de la DGEEC/INE muestran una distribución equilibrada de ambos sexos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El bono demográfico joven demanda políticas públicas urgentes en educación secundaria/terciaria y generación de empleo formal de calidad.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v11",
+      "statement": "El desarrollo socioeconómico de ciudades del Chaco Central como Filadelfia, Loma Plata y Neuland demuestra una particular convivencia e integración geográfica entre:",
+      "context": "En el departamento de Boquerón, un sociólogo expone sobre la diversidad étnica y cultural de las colonias menonitas e indígenas del Chaco Central.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las prósperas cooperativas agroindustriales de inmigrantes menonitas y diversas comunidades indígenas nativas de las familias lingüísticas Mataco, Zamuco y Enlhet",
+          "is_correct": true,
+          "feedback": "Correcto. El Chaco Central alberga un singular mosaico pluriétnico donde conviven colonias menonitas de habla plautdietsch y pueblos indígenas originarios en pujantes sistemas cooperativos."
+        },
+        {
+          "letter": "B",
+          "text": "Asentamientos pesqueros de colonos escandinavos aislados sin contacto exterior",
+          "is_correct": false,
+          "feedback": "Incorrecto. La colonización menonita provino de Canadá y Europa oriental dedicada a la agricultura y ganadería semiárida."
+        },
+        {
+          "letter": "C",
+          "text": "Grandes haciendas mineras de extracción de carbón de piedra mineral profundo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Chaco no destaca por la minería de carbón sino por su producción ganadera, láctea y agrícola."
+        },
+        {
+          "letter": "D",
+          "text": "Enclaves de pesca de ballenas en las costas del Río Pilcomayo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Pilcomayo es un río interior mediterráneo continental desprovisto de fauna marina cetácea."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La geografía humana del Chaco combina la adaptación cooperativa menonita al medio semiárido con los derechos territorial de las comunidades originarias.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.63,
+      "bundle_id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v12",
+      "statement": "¿Por qué la Hidrovía Paraguay-Paraná es considerada la arteria logística insustituible y más vital para el comercio exterior de la República del Paraguay?",
+      "context": "La estudiante Valentina de Caacupé investiga el impacto de la Hidrovía Paraguay-Paraná en la economía de exportación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite superar la condición mediterránea del país conectando los puertos fluviales internos con los mercados de ultramar a través del Atlántico",
+          "is_correct": true,
+          "feedback": "Correcto. La hidrovía canaliza más del 80% del comercio fluvial de exportación (soja, carne, maíz) e importación (combustibles, insumos)."
+        },
+        {
+          "letter": "B",
+          "text": "Es la única ruta terrestre pavimentada que une Asunción con la cordillera de los Andes",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hidrovía es una autopista fluvial navegable, no una carretera pavimentada terrestre."
+        },
+        {
+          "letter": "C",
+          "text": "Suministra agua potable embotellada de forma gratuita a toda Sudamérica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su función principal es el transporte logístico de barcazas mercantes y la navegación comercial."
+        },
+        {
+          "letter": "D",
+          "text": "Prohíbe de forma tajante el paso de barcazas de carga comercial extranjera",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tratado de la hidrovía consagra la libre navegación fluvial entre los cinco países de la cuenca."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Hidrovía Paraguay-Paraná otorga competitividad internacional a la flota de barcazas paraguaya (la tercera más grande del mundo).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.61,
+      "bundle_id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál ha sido la principal causa socioeconómica de los intensos flujos de migración campesina desde el campo hacia las zonas periféricas de Asunción y Ciudad del Este?",
+      "context": "En Encarnación, los alumnos de bachillerato analizan los patrones de migración interna rural-urbana de las últimas tres décadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mecanización e industrialización del agro extensivo de soja, que redujo el empleo rural familiar y concentró la tenencia de tierras",
+          "is_correct": true,
+          "feedback": "Correcto. La expansión de la agricultura mecanizada desplaza la mano de obra campesina, acelerando el éxodo a áreas urbanas marginales."
+        },
+        {
+          "letter": "B",
+          "text": "El aumento de temperaturas polares que congeló los cultivos agrícolas del norte",
+          "is_correct": false,
+          "feedback": "Incorrecto. Paraguay posee clima cálido subtropical; la causa del éxodo es estructural agraria y laboral."
+        },
+        {
+          "letter": "C",
+          "text": "La falta absoluta de agua en el curso del Río Paraná durante todo el siglo XXI",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Río Paraná mantiene su caudal navegable constante sosteniendo la generación hidroeléctrica."
+        },
+        {
+          "letter": "D",
+          "text": "La obligación legal de que todos los jóvenes residan en rascacielos de la capital",
+          "is_correct": false,
+          "feedback": "Incorrecto. Afirmación disparatada desprovista de rigor sociológico o legal paraguayo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El desempleo rural por mecanización agropecuaria empuja a miles de familias campesinas a cinturones de pobreza en Asunción y aglomeraciones del este.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.59,
+      "bundle_id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v14",
+      "statement": "La ocurrencia recurrente de incendios forestales de gran escala en el Chaco Boreal durante la estación seca invernal responde fundamentalmente a la combinación de:",
+      "context": "Durante una clase de geografía ambiental en Concepción, el estudiante Joaquín analiza la problemática de los incendios forestales en el Chaco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sequías prolongadas, altas temperaturas con vientos del norte y prácticas antrópicas de quema no controlada de pastizales",
+          "is_correct": true,
+          "feedback": "Correcto. Los incendios chaqueños combinan variaciones climáticas extremas con rozados y quemas agrícolas irresponsables que devoran biodiversidad."
+        },
+        {
+          "letter": "B",
+          "text": "Caída de meteoritos radioactivos sobre los bosques del departamento de Alto Paraguay",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existen evidencias de impactos meteóricos desencadenantes de incendios forestales en la zona."
+        },
+        {
+          "letter": "C",
+          "text": "Erupciones de volcanes de lava basáltica en el centro de Filadelfia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Chaco carece de volcanes activos o actividad orogénica reciente."
+        },
+        {
+          "letter": "D",
+          "text": "Inundaciones por maremotos procedentes del Océano Pacífico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Paraguay es mediterráneo y dista miles de kilómetros del Océano Pacífico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los incendios en el Chaco dañan áreas protegidas únicas exigiendo una respuesta coordinada en alertas tempranas y prohibición de quemas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.57,
+      "bundle_id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es la trascendencia geopolítica y comercial de la megacarretera del Corredor Bioceánico que atraviesa el Chaco uniendo Brasil con los puertos del Pacífico en Chile?",
+      "context": "En la biblioteca de Pilar, la estudiante Camila lee sobre el trazado del Corredor Bioceánico a través del Chaco paraguayo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Posiciona a Paraguay como el nodo logístico terrestre estratégico del Cono Sur reduciendo los tiempos de flete hacia los mercados asiáticos",
+          "is_correct": true,
+          "feedback": "Correcto. El Corredor Bioceánico convertirá al Chaco paraguayo en el puente terrestre de integración entre el Atlántico brasileño y el Pacífico chileno."
+        },
+        {
+          "letter": "B",
+          "text": "Aísla al país impidiendo cualquier intercambio comercial con Argentina y Brasil",
+          "is_correct": false,
+          "feedback": "Incorrecto. La obra potencia la integración comercial regional en lugar de aislar al país."
+        },
+        {
+          "letter": "C",
+          "text": "Convierte al Chaco en una pista fluvial exclusiva para buques de guerra transatlánticos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se trata de una red vial de carreteras terrestres pavimentadas para transporte pesado."
+        },
+        {
+          "letter": "D",
+          "text": "Obliga a transferir la capital de la República a la ciudad de Carmelo Peralta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asunción se mantiene como capital de la República independientemente de las infraestructuras viales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Corredor Bioceánico valorizará las tierras chaqueñas, generando polos de desarrollo en Carmelo Peralta, Mariscal Estigarribia y Pozo Hondo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v16",
+      "statement": "La falta de planes de ordenamiento territorial urbano en municipios como Luque, San Lorenzo, Capiatá y Lambaré ha generado como consecuencia socioambiental:",
+      "context": "Un geógrafo explica en San Lorenzo la problemática del ordenamiento territorial en los municipios del departamento Central.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Crecimiento urbano caótico, colapso del sistema de desagüe pluvial, congestión vehicular severa y vulnerabilidad a inundaciones repentinas",
+          "is_correct": true,
+          "feedback": "Correcto. La expansión urbana sin planificación provoca un desbordamiento infraestructura en los arroyos y avenidas del departamento Central."
+        },
+        {
+          "letter": "B",
+          "text": "El desierto de dunas móviles que sepultó la totalidad de los edificios de Luque",
+          "is_correct": false,
+          "feedback": "Incorrecto. Central no sufre de desertificación de dunas áridas polares."
+        },
+        {
+          "letter": "C",
+          "text": "La desaparición completa de las redes telefónicas e internet en el departamento",
+          "is_correct": false,
+          "feedback": "Incorrecto. La zona metropolitana posee la mayor densidad de conectividad del país."
+        },
+        {
+          "letter": "D",
+          "text": "La transformación de Asunción en una isla flotante en medio del mar Caribe",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asunción está asentada sobre colinas continentales en la margen izquierda del Río Paraguay."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El crecimiento urbano desordenado exige políticas de gestión del suelo, saneamiento ambiental y transporte público metropolitano integrado.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.53,
+      "bundle_id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v17",
+      "statement": "Al evaluar la sustentabilidad ecológica y social del modelo productivo basado en la expansión de la soja y la ganadería en Paraguay, ¿cuál de las siguientes conclusiones sintetiza de forma rigurosa la encrucijada nacional?",
+      "context": "En la Universidad Nacional de Asunción, se debate sobre la sustentabilidad del modelo agronómico exportador frente a la conservación ambiental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El modelo aporta valiosas divisas y dinamismo macroeconómico, pero genera elevados costos ambientales por deforestación y tensiones por la concentración de tierras",
+          "is_correct": true,
+          "feedback": "Correcto. El gran desafío paraguayo es equilibrar la alta rentabilidad agroexportadora con la preservación ambiental y la inclusión social rural."
+        },
+        {
+          "letter": "B",
+          "text": "El país debe prohibir inmediatamente toda actividad agrícola para convertirse en un parque nacional inhabitado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Posición inviable que colapsaría la economía y el sustento de la población paraguaya."
+        },
+        {
+          "letter": "C",
+          "text": "La producción agropecuaria carece de impacto económico y no aporta impuestos ni divisas al Estado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agro y la ganadería constituyen la columna vertebral de las exportaciones paraguayas."
+        },
+        {
+          "letter": "D",
+          "text": "La soja y la carne se producen sin usar suelo ni agua en laboratorios espaciales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas actividades hacen un uso intensivo del suelo, agua y recursos naturales terrestres."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El desarrollo sustentable exige aplicar normativas ambientales estrictas (Zero Deforestación, licencias MADES) promoviendo la agricultura familiar.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.51,
+      "bundle_id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v18",
+      "statement": "Al juzgar los proyectos de industrialización de materias primas en el norte del país (departamentos de Concepción, San Pedro y Amambay), ¿cuál es el beneficio socioeconómico estructural más relevante para la población local?",
+      "context": "El estudiante Santiago del Colegio Nacional de Concepción examina las propuestas de desarrollo para la cuenca del Río Ypané.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La generación de empleo formal procesando productos primarios (plantas de celulosa, frigoríficos), frenando la migración de jóvenes a la capital",
+          "is_correct": true,
+          "feedback": "Correcto. Industrializar el norte mediante inversiones agroindustriales y de celulosa diversifica la economía y arraiga a la juventud local."
+        },
+        {
+          "letter": "B",
+          "text": "La importación masiva de mano de obra de otros continentes para sustituir a los trabajadores paraguayos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El objetivo es priorizar el empleo de la mano de obra paraguaya regional."
+        },
+        {
+          "letter": "C",
+          "text": "La desmantelación de todas las carreteras viales para retornar a caminos de tierra del siglo XIX",
+          "is_correct": false,
+          "feedback": "Incorrecto. La industrialización exige mejorar y pavimentar las redes viales para el transporte."
+        },
+        {
+          "letter": "D",
+          "text": "El traslado obligado de la universidad nacional a barcos flotantes en el Río Paraguay",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las sedes universitarias requieren infraestructura física terrestre sólida y permanente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La industrialización regional en el norte paraguayo reduce la histórica brecha de desarrollo con respecto al departamento Central y Alto Paraná.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.49,
+      "bundle_id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v19",
+      "statement": "Al evaluar los impactos de fenómenos como El Niño y La Niña en Ñeembucú, ¿qué estrategia de infraestructura y gestión territorial resulta más efectiva para proteger a las poblaciones ribereñas?",
+      "context": "En Pilar, se discuten las medidas de adaptación frente al cambio climático en las zonas de humedales del departamento de Ñeembucú.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Construcción de franjas costeras y muros de contención con bombas de desagüe, combinados con la conservación de los humedales naturales reguladores",
+          "is_correct": true,
+          "feedback": "Correcto. Obras como la Defensa Costera de Pilar protegen a las ciudades de las crecidas del Río Paraguay respetando el rol esponja de los humedales."
+        },
+        {
+          "letter": "B",
+          "text": "La canalización completa de todos los esteros con pavimento de hormigón armado para eliminar el agua dulce",
+          "is_correct": false,
+          "feedback": "Incorrecto. Destruir los humedales empeoraría las inundaciones y arruinaría la recarga del acuífero."
+        },
+        {
+          "letter": "C",
+          "text": "La evacuación permanente e irreparable de todos los habitantes hacia la cima del Cerro Tres Kandú",
+          "is_correct": false,
+          "feedback": "Incorrecto. Plan inviable de desplazamiento masivo que destruiría el tejido social de Pilar y Ñeembucú."
+        },
+        {
+          "letter": "D",
+          "text": "Prohibir que llueva en el departamento mediante decretos municipales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pretensión absurda; el clima se gestiona con obras de adaptación y no con leyes administrativas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La resiliencia costera en Pilar demuestra cómo la ingeniería civil unida a la ecología de humedales protege la vida urbana ribereña.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.47,
+      "bundle_id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle-v20",
+      "statement": "Al evaluar la posición geográfica estratégica de Paraguay en el corazón de la Cuenca del Plata, ¿cuál es su mayor ventaja competitiva para la integración regional del siglo XXI?",
+      "context": "Un seminario académico en Asunción evalúa la inserción geográfica y económica de Paraguay en el bloque del Mercosur.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Su condición de encrucijada multimodal hidro-vial y centro generador de energía limpia capaz de articular el comercio del Cono Sur",
+          "is_correct": true,
+          "feedback": "Correcto. Paraguay es el corazón hidroenergético y logístico del Cono Sur, llamado a ser el nexo comercial entre el Atlántico y el Pacífico."
+        },
+        {
+          "letter": "B",
+          "text": "Su total aislamiento diplomático que le impide firmar tratados comerciales con otros continentes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Paraguay es miembro activo del Mercosur, la OEA y las Naciones Unidas con amplia diplomacia multilateral."
+        },
+        {
+          "letter": "C",
+          "text": "La falta de ríos navegables que la obliga a depender del transporte aéreo exclusivamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ríos Paraguay y Paraná brindan una extraordinaria red de navegación fluvial comercial."
+        },
+        {
+          "letter": "D",
+          "text": "La carencia total de suelos arables y clima apto para la agricultura o ganadería",
+          "is_correct": false,
+          "feedback": "Incorrecto. Paraguay cuenta con fértiles suelos alfisoles y oxisoles que sostienen su pujante economía agropecuaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Paraguay consolida su perfil geopolítico en el siglo XXI como potencia energética limpia y plataforma de servicios logísticos fluviales y terrestres del Mercosur.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "PY-SOC-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    }
+  ]
+}

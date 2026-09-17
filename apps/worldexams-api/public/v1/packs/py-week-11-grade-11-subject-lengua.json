@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "py",
+    "pack_id": "py-week-11-grade-11-subject-lengua",
+    "generated_at": "2026-09-17T20:08:59.693Z"
+  },
+  "questions": [
+    {
+      "id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-v1",
+      "statement": "¿Cuál es la función principal de un texto de tipo expositivo?",
+      "context": "En una clase de Lengua Castellana en Asunción, los estudiantes analizan la estructura de un texto expositivo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transmitir información objetiva y explicativa sobre un tema determinado.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto expositivo busca informar y explicar un tema con objetividad y claridad."
+        },
+        {
+          "letter": "B",
+          "text": "Convencer al lector mediante argumentos convincentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función del texto argumentativo."
+        },
+        {
+          "letter": "C",
+          "text": "Relatar una serie de hechos ficticios ordenados cronológicamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al texto narrativo."
+        },
+        {
+          "letter": "D",
+          "text": "Indicar instrucciones paso a paso para realizar una tarea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función del texto instructivo o prescriptivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los textos expositivos tienen como objetivo primordial transmitir información de manera clara, estructurada y objetiva a los receptores sobre un tema específico.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-v2",
+      "statement": "¿A qué tipología textual pertenece un artículo editorial que busca convencer al lector sobre una postura determinada?",
+      "context": "En San Lorenzo, los alumnos leen una editorial de un periódico paraguayo que opina sobre el transporte público.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Texto argumentativo",
+          "is_correct": true,
+          "feedback": "¡Correcto! El artículo editorial defiende una tesis mediante argumentos con intención persuasiva."
+        },
+        {
+          "letter": "B",
+          "text": "Texto narrativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No relata una sucesión de eventos ficticios o reales."
+        },
+        {
+          "letter": "C",
+          "text": "Texto descriptivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se limita a caracterizar las propiedades de un objeto o lugar."
+        },
+        {
+          "letter": "D",
+          "text": "Texto instructivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No brinda normas ni guías procedimentales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los artículos editoriales son textos argumentativos porque exponen una tesis central acompañada de razones dirigidas a persuadir al lector sobre la visión institucional del medio.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-v3",
+      "statement": "En un texto argumentativo, ¿qué elemento constituye la idea central o postura que defiende el autor?",
+      "context": "En Luque, se estudia el fragmento de un ensayo crítico sobre la preservación de los bosques del Chaco paraguayo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tesis",
+          "is_correct": true,
+          "feedback": "¡Correcto! La tesis es la idea u opinión principal que el autor sostiene y demuestra a lo largo del texto."
+        },
+        {
+          "letter": "B",
+          "text": "La conclusión",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conclusión sintetiza los puntos clave y reafirma la tesis al final del escrito."
+        },
+        {
+          "letter": "C",
+          "text": "El contraargumento",
+          "is_correct": false,
+          "feedback": "Incorrecto. El contraargumento sirve para refutar posturas opuestas."
+        },
+        {
+          "letter": "D",
+          "text": "El marco expositivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la introducción del contexto donde se presenta el problema."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La tesis es la afirmación o propuesta fundamentada que expresa la posición del autor frente al tema tratado y que es sustentada mediante argumentos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-v4",
+      "statement": "Lea el siguiente fragmento: \"El viejo reloj de la estación de trenes marcaba las doce de la noche. Una densa neblina cubría la plaza central mientras los faroles titilaban en la penumbra.\" ¿Qué tipo de secuencia textual predomina en el fragmento?",
+      "context": "En Encarnación, un grupo de lectura analiza un cuento breve de la literatura nacional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Secuencia descriptiva",
+          "is_correct": true,
+          "feedback": "¡Correcto! El fragmento detalla los elementos del ambiente y las características del espacio (el reloj, la neblina, los faroles)."
+        },
+        {
+          "letter": "B",
+          "text": "Secuencia dialogada",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay intervención directa ni conversación entre personajes."
+        },
+        {
+          "letter": "C",
+          "text": "Secuencia argumentativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No contiene argumentos ni defiende ninguna tesis."
+        },
+        {
+          "letter": "D",
+          "text": "Secuencia expositiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. No explica un concepto ni transmite información teórica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las secuencias descriptivas caracterizan lugares, objetos o ambientes detallando sus propiedades visuales y atmósfera.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.77,
+      "bundle_id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-v5",
+      "statement": "¿Cuál es la intención comunicativa dominante en un artículo de divulgación científica?",
+      "context": "En Ciudad del Este, se analiza un texto de divulgación científica sobre la generación de energía hidroléctrica en Itaipú.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informar al público general sobre avances o conocimientos científicos de forma comprensible.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Su meta es hacer accesible el saber especializado a una audiencia no experta."
+        },
+        {
+          "letter": "B",
+          "text": "Crear un mundo ficcional con lenguaje poético y subjetivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a los textos literarios."
+        },
+        {
+          "letter": "C",
+          "text": "Establecer decretos de cumplimiento obligatorio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pertenece a la esfera de los textos normativos o legislativos."
+        },
+        {
+          "letter": "D",
+          "text": "Expresar emociones personales y líricas del autor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la poesía lírica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El artículo de divulgación científica busca adaptar explicaciones complejas mediante un registro expositivo claro, alcanzando al público masivo sin perder rigor conceptual.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.74,
+      "bundle_id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-v6",
+      "statement": "Lea el texto: \"El agua dulce es un recurso cada vez más escaso en el planeta. Aunque el acuífero Guaraní ofrece reservas extraordinarias a nuestro país, el consumo irresponsable y la contaminación industrial amenazan con agotar su calidad en pocas décadas. Por consiguiente, es imperativo establecer políticas estrictas de conservación.\" ¿Cuál es la idea principal implícita en la conclusión?",
+      "context": "En Coronel Oviedo, un alumno identifica la idea principal de un párrafo argumentativo sobre el uso responsable del agua dulce.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es urgente implementar políticas de conservación para proteger el agua dulce de la contaminación y el derroche.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Expresa sintéticamente la tesis y propuesta central del autor."
+        },
+        {
+          "letter": "B",
+          "text": "El acuífero Guaraní es una fuente inagotable de agua potable que no requiere regulación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contradice lo expuesto en el texto."
+        },
+        {
+          "letter": "C",
+          "text": "El agua dulce es abundante en todo el mundo y no sufrirá escasez.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Afirmación opuesta a la primera frase del texto."
+        },
+        {
+          "letter": "D",
+          "text": "La industria no tiene ningún impacto en la contaminación hídrica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto señala expresamente a la contaminación industrial como una amenaza."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La idea principal integra el diagnóstico (escasez y amenaza de contaminación) con la propuesta indispensable exigida por el autor (políticas de conservación).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.71,
+      "bundle_id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-v7",
+      "statement": "¿Cuál de las siguientes declaraciones representa una opinión y no un hecho verificado?",
+      "context": "En Villarrica, se distingue entre hechos y opiniones en un ensayo histórico sobre el periodo de independencia de Paraguay (1811).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La gesta patriótica de mayo de 1811 fue el acontecimiento más apasionante de toda la historia de América del Sur.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El término \"más apasionante\" expresa una valoración subjetiva u opinión del emisor."
+        },
+        {
+          "letter": "B",
+          "text": "El Paraguay declaró su independencia en mayo del año 1811 en Asunción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un hecho histórico documentado y comprobable."
+        },
+        {
+          "letter": "C",
+          "text": "Fulgencio Yegros y Pedro Juan Caballero formaron parte del gobierno provisorio tras la gesta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un dato histórico objetivo."
+        },
+        {
+          "letter": "D",
+          "text": "El doctor José Gaspar Rodríguez de Francia asumió como Dictador Temporal en 1814.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Constituye un hecho histórico irrefutable."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los hechos son datos objetivos verificables empírica o históricamente, mientras que las opiniones contienen adjetivos valorativos y juicios de valor subjetivos (\"apasionante\").\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-v8",
+      "statement": "¿Qué efecto busca lograr un orador al emplear preguntas retóricas durante un discurso argumentativo?",
+      "context": "En Caacupé, se analiza la función de las preguntas retóricas en los discursos públicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Invitar a la reflexión de la audiencia sobre un punto sin esperar una respuesta oral inmediata.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La pregunta retórica no busca una respuesta verbal, sino enfatizar un pensamiento en el oyente."
+        },
+        {
+          "letter": "B",
+          "text": "Solicitar información técnica a los oyentes que el orador desconoce.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orador no busca obtener datos de la audiencia."
+        },
+        {
+          "letter": "C",
+          "text": "Evaluar los conocimientos matemáticos del público.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La intención es persuasiva o reflexiva, no evaluativa."
+        },
+        {
+          "letter": "D",
+          "text": "Interrumpir el flujo del discurso por falta de argumentos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un recurso estilístico deliberado, no una falla del orador."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pregunta retórica es una figura persuasiva que incita a la reflexión implícita del receptor, consolidando la postura que el emisor desea destacar.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-v9",
+      "statement": "¿En qué apartado de una carta formal se incluye habitualmente la fórmula de saludo institucional y el cargo de la autoridad destinataria?",
+      "context": "En Pilar, se examina la estructura formal de una carta formal dirigida al Director del Colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el encabezado o datos del destinatario",
+          "is_correct": true,
+          "feedback": "¡Correcto! El encabezado sitúa la fecha, la fórmula de tratamiento e identificación formal del destinatario."
+        },
+        {
+          "letter": "B",
+          "text": "En la despedida o cierre",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cierre contiene las frases de cortesía finales antes de la firma."
+        },
+        {
+          "letter": "C",
+          "text": "En el cuerpo o exposición de motivos",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el cuerpo se desarrollan los argumentos y la solicitud específica."
+        },
+        {
+          "letter": "D",
+          "text": "En el posdata",
+          "is_correct": false,
+          "feedback": "Incorrecto. La posdata añade información secundaria posterior a la firma."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las cartas formales requieren en su encabezamiento la especificación precisa del destinatario, su tratamiento formal de respeto y el lugar/fecha de emisión.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.62,
+      "bundle_id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-v10",
+      "statement": "¿Qué caracteriza al narrador omnisciente en una novela o cuento?",
+      "context": "En Concepción, se estudia el rol del narrador omnisciente en las obras novelescas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conoce totalmente la historia, los pensamientos y sentimientos más íntimos de todos los personajes.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El narrador omnisciente habla en 3.ª persona y posee una visión absoluta de los acontecimientos y la mente de los personajes."
+        },
+        {
+          "letter": "B",
+          "text": "Narra únicamente lo que puede observar desde afuera sin conocer el mundo interior de los personajes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el narrador testigo u observador externo."
+        },
+        {
+          "letter": "C",
+          "text": "Es el personaje principal que relata sus vivencias en 1.ª persona.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al narrador protagonista."
+        },
+        {
+          "letter": "D",
+          "text": "Relata la historia dirigiéndose directamente a un \"tú\" en 2.ª persona.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al narrador en segunda persona."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El narrador omnisciente (del latín *omnis*, todo, y *scire*, saber) no participa en la acción como personaje, sino que relata en 3.ª persona conociendo sucesos pasados, presentes, futuros e intenciones ocultas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.6,
+      "bundle_id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-v11",
+      "statement": "¿A qué propiedad del texto corresponde la correcta relación lógica y organización de las ideas principales y secundarias a lo largo de los párrafos?",
+      "context": "En Asunción, se analiza la coherencia global y los vacíos de información en una nota periodística.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Coherencia textual",
+          "is_correct": true,
+          "feedback": "¡Correcto! La coherencia es la propiedad que asegura la unidad de sentido global y la estructuración lógica temática del texto."
+        },
+        {
+          "letter": "B",
+          "text": "Cohesión léxica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cohesión se refiere a los mecanismos lingüísticos formales (conectores, pronombres) que unen las frases."
+        },
+        {
+          "letter": "C",
+          "text": "Adecuación pragmática",
+          "is_correct": false,
+          "feedback": "Incorrecto. La adecuación es la adaptación del texto al registro y situación comunicativa."
+        },
+        {
+          "letter": "D",
+          "text": "Corrección ortográfica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Atiende las normas gramaticales y de tildación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La coherencia textual garantiza que el texto mantenga una unidad temática comprensible, estructurando las ideas con orden lógico y sin contradicciones internas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.57,
+      "bundle_id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-v12",
+      "statement": "Cuando un articulista selecciona únicamente las cifras que favorecen su postura e ignora deliberadamente las evidencias contrarias, ¿qué falacia o sesgo comete?",
+      "context": "En San Lorenzo, se examina el uso del sesgo de confirmación en discursos persuasivos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sesgo de confirmación o falacia de evidencia incompleta",
+          "is_correct": true,
+          "feedback": "¡Correcto! Consiste en priorizar o exhibir solo los datos que respaldan la hipótesis propia, descartando la evidencia refractaria."
+        },
+        {
+          "letter": "B",
+          "text": "Falacia ad hominem",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falacia ad hominem ataca al oponente en lugar de discutir los argumentos."
+        },
+        {
+          "letter": "C",
+          "text": "Falacia ad baculum",
+          "is_correct": false,
+          "feedback": "Incorrecto. Apela a la amenaza o la fuerza."
+        },
+        {
+          "letter": "D",
+          "text": "Argumento de autoridad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cita a un especialista respetado para avalar una tesis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El sesgo de confirmación desvirtúa la solidez de un texto argumentativo al manipular la selección de información para respaldar prejuicios o hipótesis preconcebidas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.54,
+      "bundle_id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-v13",
+      "statement": "Lea la oración: \"El silencio de la noche era un manto de plomo sobre la selva\". ¿Qué figura literaria se emplea al identificar el silencio con un \"manto de plomo\"?",
+      "context": "En Luque, los estudiantes interpretan metáforas en fragmentos de cuentos paraguayos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Metáfora",
+          "is_correct": true,
+          "feedback": "¡Correcto! Establece una identidad analógica directa entre dos conceptos sin usar nexos comparativos como \"como\"."
+        },
+        {
+          "letter": "B",
+          "text": "Símil o comparación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Exigiría el uso explícito del conector comparativo \"como\" o \"parecía\"."
+        },
+        {
+          "letter": "C",
+          "text": "Hipérbole",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una exageración desmedida de la realidad."
+        },
+        {
+          "letter": "D",
+          "text": "Anáfora",
+          "is_correct": false,
+          "feedback": "Incorrecto. Repetición de palabras al inicio de versos o frases."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La metáfora sustituye o traslada el sentido literal a uno figurado al asociar directamente el elemento real (silencio pesador) con el imaginario (manto de plomo).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.51,
+      "bundle_id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-v14",
+      "statement": "Si en un informe formal dirigido a las autoridades del MEC se incluye la frase: \"La onda es meterle ganas para no aplazarse en el examen\", ¿qué falla de adecuación textual se detecta?",
+      "context": "En Encarnación, se evalúa la adecuación lingüística de un informe técnico escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Empleo de un registro informal o coloquial inadecuado para un texto de carácter formal.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Expresiones como \"la onda\" o \"meterle ganas\" rompen con el registro formal exigido."
+        },
+        {
+          "letter": "B",
+          "text": "Falta de concordancia entre sujeto y predicado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gramática es correcta, pero el registro comunicativo no se adecúa a la situación."
+        },
+        {
+          "letter": "C",
+          "text": "Error grave de ortografía en la acentuación de las palabras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las palabras están bien escritas ortográficamente."
+        },
+        {
+          "letter": "D",
+          "text": "Presencia de tecnicismos excesivamente complejos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, se usó jerga coloquial cotidiana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La adecuación exige que el emisor elija el registro lingüístico (formal, culto, profesional) acorde a la situación comunicativa, el tema y la jerarquía del destinatario.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.48,
+      "bundle_id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-v15",
+      "statement": "¿Qué función del lenguaje predomina en el anuncio publicitario: \"¡Compre hoy mismo el mejor mate paraguayo y disfrute de un sabor inigualable!\"?",
+      "context": "En Ciudad del Este, se identifican las funciones del lenguaje de Roman Jakobson en enunciados publicitarios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Función apelativa o conativa",
+          "is_correct": true,
+          "feedback": "¡Correcto! La función apelativa busca influir en el comportamiento del receptor mediante imperativos (\"compre\", \"disfrute\")."
+        },
+        {
+          "letter": "B",
+          "text": "Función metalingüística",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usa cuando se habla del propio código o de la gramática."
+        },
+        {
+          "letter": "C",
+          "text": "Función fática",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se orienta a abrir, mantener o cerrar el canal de comunicación."
+        },
+        {
+          "letter": "D",
+          "text": "Función referencial",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque transmite un dato, la meta primordial es la incitación al consumo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La función apelativa o conativa se centra en el receptor. Utiliza modos imperativos y exclamaciones con el fin de persuadirlo o guiar su conducta.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-v16",
+      "statement": "En un relato breve, un personaje ahorra durante cuarenta años para comprar la casa de sus sueños, y el día que firma las escrituras la vivienda es destruida por un terremoto inesperado. ¿Qué recurso narrativo genera el impacto en la historia?",
+      "context": "En Coronel Oviedo, se analiza un microcuento paraguayo en busca de la ironía trágica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ironía situacional o giro dramático",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ocurre cuando el resultado final de una acción es diametralmente opuesto a lo esperado razonablemente por el personaje y el lector."
+        },
+        {
+          "letter": "B",
+          "text": "Exposición técnica",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una explicación conceptual."
+        },
+        {
+          "letter": "C",
+          "text": "Alegoría religiosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No constituye una representación figurada de dogmas espirituales."
+        },
+        {
+          "letter": "D",
+          "text": "Pleonasmo estilístico",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pleonasmo es la repetición superflua de términos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ironía de situación (o giros trágicos) contrapone de manera abrumadora la expectativa generada por el esfuerzo del personaje frente al desenlace irónico del destino.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.43,
+      "bundle_id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-v17",
+      "statement": "¿Qué se entiende por \"polifonía textual\" en la teoría de la enunciación (Mijaíl Bajtín / Oswald Ducrot)?",
+      "context": "En Villarrica, se examina la presencia de la polifonía textual en ensayos socioculturales paraguayos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La presencia e interacción de múltiples voces, perspectivas o discursos dentro de un mismo texto.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ocurre cuando el autor incorpora voces ajenas mediante citas, estilo directo o indirecto e ironía."
+        },
+        {
+          "letter": "B",
+          "text": "La musicalidad y rima consonante de las palabras en un verso lírico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió el término con la eufonía o métrica poética."
+        },
+        {
+          "letter": "C",
+          "text": "El uso exclusivo de un único punto de vista omnisciente y rígido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso representa la monofonía textual."
+        },
+        {
+          "letter": "D",
+          "text": "La traducción literal de palabras del guaraní al castellano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un fenómeno de contacto lingüístico o bilingüismo, no polifonía discursiva."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La polifonía textual es el fenómeno mediante el cual en un enunciado conviven o dialogan diversos enunciadores y voces (citas de autoridad, refutaciones, discursos ajenos), enriqueciendo el espesor semántico del escrito.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-v18",
+      "statement": "Cuando una obra literaria contemporánea paraguaya reescribe o alude explícitamente al mito del \"Luisón\" o al \"Jasy Jatere\", ¿qué relación intertextual o folclórica se establece?",
+      "context": "En Caacupé, se analiza la intertextualidad en la narrativa paraguaya contemporánea.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recontextualización del mito tradicional en el marco del relato literario moderno.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Integra motivos míticos de la oralidad guaraní adaptándolos a la estética y problemática narrativa actual."
+        },
+        {
+          "letter": "B",
+          "text": "Plagio involuntario de autores clásicos del siglo XIX.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los mitos orales pertenecen al acervo cultural popular y su recreación es un recurso literario válido."
+        },
+        {
+          "letter": "C",
+          "text": "Transgresión gramática de la estructura de las frases.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No atañe al ámbito de la sintaxis."
+        },
+        {
+          "letter": "D",
+          "text": "Incompatibilidad temática con la prosa narrativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tradición mítica ha alimentado prolíficamente la narrativa nacional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La intertextualidad mítica permite resignificar los relatos orales ancestrales, aportando simbolismo cultural y densidad analítica a la creación literaria contemporánea.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-v19",
+      "statement": "¿Cuál es la característica lógica que garantiza la validez formal de un argumento deductivo?",
+      "context": "En Pilar, se evalúa la veracidad de los argumentos deductivos frente a inductivos en un debate académico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Si las premisas son verdaderas, la conclusión se deriva necesariamente de ellas de forma irrefutable.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La deducción va de lo general a lo particular; la verdad de las premisas garantiza por estructura la verdad de la conclusión."
+        },
+        {
+          "letter": "B",
+          "text": "Apoya la conclusión en la observación parcial de casos particulares sin dar certeza absoluta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la definición del razonamiento inductivo."
+        },
+        {
+          "letter": "C",
+          "text": "Se fundamenta en la emoción del público sin importar las evidencias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la persuasión sofística o emotiva."
+        },
+        {
+          "letter": "D",
+          "text": "Utiliza fábulas inventadas para entretener al lector.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la lógica de la argumentación formal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la lógica formal, un argumento deductivo es válido cuando es imposible que sus premisas sean verdaderas y su conclusión sea falsa al mismo tiempo.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-v20",
+      "statement": "Al analizar críticamente un discurso político, ¿qué revela el examen de los presupuestos y sobreentendidos implícitos?",
+      "context": "En Concepción, se analiza la ideología soterrada en discursos propagandísticos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ideología, valores no dichos y supuestos socioculturales que el emisor da por aceptados en el receptor.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Lo implícito en el discurso revela los marcos ideológicos y concepciones no expuestas abiertamente."
+        },
+        {
+          "letter": "B",
+          "text": "El número exacto de sustantivos propios usados en el texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a un mero conteo léxico superficial."
+        },
+        {
+          "letter": "C",
+          "text": "El tiempo exacto que tardó el autor en redactar el documento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una circunstancia externa ajena a la estructura discursiva."
+        },
+        {
+          "letter": "D",
+          "text": "La tipografía y el tamaño de letra elegidos para la impresión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al diseño gráfico, no al análisis crítico del discurso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El análisis crítico del discurso (ACD) desentraña los contenidos implícitos, presupuestos e ideologías no declaradas que el emisor asume como evidentes para moldear la opinión pública.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "PY-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    }
+  ]
+}
