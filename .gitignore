@@ -174,3 +174,9 @@ tasks.json
 # Internal lab state (GitCore hardening)
 docs/plans/
 SESSION_HANDOFF*.md
+
+# Nested harness state
+**/.jules/
+**/.hermes/
+**/.atl/
+**/.gestalt/
