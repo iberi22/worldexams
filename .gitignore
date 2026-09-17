@@ -170,3 +170,7 @@ tasks.json
 *.sqlite-shm
 *.profraw
 # <<< GITCORE PUBLIC REPO HARDENING <<<
+
+# Internal lab state (GitCore hardening)
+docs/plans/
+SESSION_HANDOFF*.md
