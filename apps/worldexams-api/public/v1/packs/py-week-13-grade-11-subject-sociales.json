@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "sociales",
+    "country": "py",
+    "pack_id": "py-week-13-grade-11-subject-sociales",
+    "generated_at": "2026-09-17T20:08:59.719Z"
+  },
+  "questions": [
+    {
+      "id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v1",
+      "statement": "¿Qué estadista paraguayo es considerado el \"Primer Presidente Constitucional de la República\" e impulsó la modernización, la educación pública y la apertura técnica del país?",
+      "context": "En el Colegio Nacional de la Capital de Asunción, los alumnos estudian el gobierno de Don Carlos Antonio López (1844-1862).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Don Carlos Antonio López",
+          "is_correct": true,
+          "feedback": "Correcto. Don Carlos Antonio López asumió como Presidente Constitucional en 1844 modernizando el país con el ferrocarril, la fundición de Ybycuí y la marina mercante."
+        },
+        {
+          "letter": "B",
+          "text": "Mariscal Francisco Solano López",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Mariscal Francisco Solano López fue el hijo y sucesor que comandó al país durante la Guerra de la Triple Alianza (1864-1870)."
+        },
+        {
+          "letter": "C",
+          "text": "General Bernardino Caballero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bernardino Caballero fue un destacado héroe militar de la contienda y presidente en la etapa de posguerra (1880-1886)."
+        },
+        {
+          "letter": "D",
+          "text": "Dr. José Gaspar Rodríguez de Francia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Dr. Francia gobernó durante la etapa del Consular y Dictadura anterior (1814-1840)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Don Carlos Antonio López sentó las bases de la modernización técnica e institucional del Paraguay independiente en el siglo XIX.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo se denominó la primera fundición de hierro y fábrica de armamentos y herramientas construida bajo el gobierno de Don Carlos Antonio López en 1850?",
+      "context": "Durante una salida pedagógica al Parque Nacional Ybycuí en Paraguarí, los estudiantes visitan las ruinas de la antigua industria siderúrgica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Fundición de Hierro de Ybycuí (La Rosada)",
+          "is_correct": true,
+          "feedback": "Correcto. La Rosada de Ybycuí fue la pionera fábrica siderúrgica de América del Sur que producía piezas de hierro, calderas y pertrechos."
+        },
+        {
+          "letter": "B",
+          "text": "Los Astilleros de las Islas Malvinas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Instalación naval lejana en el Atlántico Sur sin vinculación con el Estado paraguayo."
+        },
+        {
+          "letter": "C",
+          "text": "El Alto Horno de la Ciudad de Potosí",
+          "is_correct": false,
+          "feedback": "Incorrecto. Potosí se ubica en Bolivia destacando por la extracción de plata en la colonia."
+        },
+        {
+          "letter": "D",
+          "text": "El Ingenio Azucarero de Encarnación",
+          "is_correct": false,
+          "feedback": "Incorrecto. La obra emblemática de Ybycuí fue una siderurgia de hierro y no un ingenio azucarero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Fundición de Ybycuí simbolizó la soberanía e industrialización técnica del Paraguay antes de la guerra.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.83,
+      "bundle_id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v3",
+      "statement": "¿Qué medio de transporte pionero en Sudamérica inauguró Paraguay en 1861 uniendo la capital Asunción con la ciudad de Luque y posteriormente Paraguarí?",
+      "context": "En la Estación Central del Ferrocarril en Asunción, se recuerda la puesta en marcha de la vía férrea paraguaya en 1861.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Ferrocarril Carlos Antonio López",
+          "is_correct": true,
+          "feedback": "Correcto. El ferrocarril paraguayo fue uno de los primeros en operar en la región, impulsando el transporte de cargas y pasajeros."
+        },
+        {
+          "letter": "B",
+          "text": "El Tranvía eléctrico aéreo submarino",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tecnología inexistente en la época; el ferrocarril funcionaba a tracción de vapor."
+        },
+        {
+          "letter": "C",
+          "text": "La Autopista pavimentada interurbana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las carreteras pavimentadas para vehículos de motor aparecieron en el siglo XX."
+        },
+        {
+          "letter": "D",
+          "text": "El Canal fluvial artificial del Chaco",
+          "is_correct": false,
+          "feedback": "Incorrecto. La obra cumbre de infraestructura de transporte terrestre de la era de López fue el ferrocarril a vapor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El ferrocarril a vapor demostró el elevado nivel de desarrollo técnico alcanzado por el Estado paraguayo bajo la administración de López.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v4",
+      "statement": "¿Qué tres países firmaron en secreto el 1 de mayo de 1865 el Tratado de la Triple Alianza para combatir militarmente a la República del Paraguay?",
+      "context": "En Humaitá (Departamento de Ñeembucú), los alumnos examinan las ruinas del templo y la imponente fortaleza militar ribereña.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argentina, Brasil y Uruguay",
+          "is_correct": true,
+          "feedback": "Correcto. El Tratado Secreto de la Triple Alianza fue suscrito en Buenos Aires por los gobiernos de Brasil, Argentina y el régimen uruguayo de Flores."
+        },
+        {
+          "letter": "B",
+          "text": "Bolivia, Chile y Perú",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos tres países del Pacífico no integraron la coalición de la Triple Alianza contra Paraguay."
+        },
+        {
+          "letter": "C",
+          "text": "Estados Unidos, Gran Bretaña y España",
+          "is_correct": false,
+          "feedback": "Incorrecto. Potencias no sudamericanas que se mantuvieron oficialmente neutrales durante el conflicto."
+        },
+        {
+          "letter": "D",
+          "text": "Colombia, Venezuela y Ecuador",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colombia expresó su solidaridad moral con Paraguay tras el final de la contienda de exterminio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Tratado de la Triple Alianza fijó objetivos drásticos de desmantelamiento militar, reparaciones económicas y anexión de territorios paraguayos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v5",
+      "statement": "¿Qué causa desencadenante inmediata llevó al gobierno de Francisco Solano López a declarar la guerra al Imperio del Brasil a fines de 1864?",
+      "context": "En el monumento histórico de Paso de Patria, se analiza el estallido del conflicto en 1864 tras la intervención brasileña en el Uruguay.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La invasión militar brasileña al Uruguay derrocando al gobierno legítimo blanco y alterando el equilibrio geopolítico del Río de la Plata",
+          "is_correct": true,
+          "feedback": "Correcto. Paraguay había advertido que cualquier amenaza a la independencia uruguaya afectaría el equilibrio del Plata, motivando la captura del vapor Marquês de Olinda."
+        },
+        {
+          "letter": "B",
+          "text": "El ataque naviero del Imperio del Brasil a la ciudad puerto de Asunción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las operaciones militares iniciaron en el Mato Grosso y en el curso de los ríos alejados de Asunción."
+        },
+        {
+          "letter": "C",
+          "text": "La disputa por la posesión de las minas de oro del Cerro Tres Kandú",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existían disputas de minería aurífera entre Paraguay y Brasil en la zona."
+        },
+        {
+          "letter": "D",
+          "text": "La negativa de Brasil a comprar la producción de yerba mate paraguaya",
+          "is_correct": false,
+          "feedback": "Incorrecto. El detonante fue estrictamente geopolítico y militar en la banda oriental uruguaya."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La defensa del equilibrio de poderes en la Cuenca del Plata fue el argumento doctrinario del gobierno de López para intervenir en el conflicto uruguayo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v6",
+      "statement": "¿Qué genial estrategia defensiva implementó el general José Eduvigis Díaz en la Batalla de Curupayty infligiendo una aplastante derrota a las fuerzas aliadas?",
+      "context": "En Curupayty (Ñeembucú), los estudiantes conmemoran la célebre victoria defensiva paraguaya del 22 de septiembre de 1866.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Construcción de trincheras fortificadas con fosos y abatís que destrozaron los asaltos frontales de la infantería aliada",
+          "is_correct": true,
+          "feedback": "Correcto. Curupayty fue la mayor victoria militar paraguaya donde las fortificaciones bien diseñadas causaron miles de bajas a las tropas atacantes."
+        },
+        {
+          "letter": "B",
+          "text": "Uso de una escuadra de submarinos a vapor que hundió la flota enemiga",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existían submarinos en la contienda del Plata; la victoria fue de infantería y artillería terrestre en trincheras."
+        },
+        {
+          "letter": "C",
+          "text": "Ataque de caballería nocturna en los bosques desérticos del Chaco Boreal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Curupayty se libró en el complejo defensivo de las fortificaciones del cuadrilátero ribereño de Ñeembucú."
+        },
+        {
+          "letter": "D",
+          "text": "Rendición incondicional y entrega de los pertrechos de guerra al enemigo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Curupayty fue la victoria más gloriosa y contundente del ejército paraguayo en la guerra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Batalla de Curupayty constituye un modelo de ingeniería militar defensiva y heroísmo en la historia bélica sudamericana.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v7",
+      "statement": "¿Qué trágico y heroico episodio bélico se conmemora en Paraguay cada 16 de agosto como \"Día del Niño\" en memoria de la Batalla de Acosta Ñu?",
+      "context": "En Eusebio Ayala (Barrero Grande), se recuerda el sacrificio del 16 de agosto de 1869 en la Batalla de Acosta Ñu.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El desigual combate donde miles de niños y adolescentes disfrazados con barbas postizas enfrentaron a las curtidas tropas aliadas",
+          "is_correct": true,
+          "feedback": "Correcto. Acosta Ñu simboliza el supremo sacrificio de la niñez paraguaya en defensa de la patria abatida por fuerzas infinitamente superiores."
+        },
+        {
+          "letter": "B",
+          "text": "El tratado de paz definitivo firmado por los generales aliadas en la capital",
+          "is_correct": false,
+          "feedback": "Incorrecto. Acosta Ñu fue una cruenta batalla de retaguardia durante la campaña de las Cordilleras."
+        },
+        {
+          "letter": "C",
+          "text": "La inauguración del Palacio de Gobierno construido por artesanos europeos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Acosta Ñu fue una acción de guerra trágica en la fase final de la contienda."
+        },
+        {
+          "letter": "D",
+          "text": "La victoria naval paraguaya en la desembocadura del Río de la Plata",
+          "is_correct": false,
+          "feedback": "Incorrecto. La acción naval principal fue Riachuelo (1865) en el Río Paraná."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Acosta Ñu evoca el drama humanitario y la resistencia desesperada de la población paraguaya ante la aniquilación de sus hombres adultos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.71,
+      "bundle_id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v8",
+      "statement": "¿Qué suceso histórico ocurrido en Cerro Corá el 1 de marzo de 1870 marcó el fin definitivo de la Guerra contra la Triple Alianza?",
+      "context": "En el Parque Nacional Cerro Corá (Departamento de Amambay), se rememora el desenlace final de la guerra el 1 de marzo de 1870.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La muerte en combate del Mariscal Francisco Solano López pronunciando la célebre frase \"¡Muero por mi Patria!\"",
+          "is_correct": true,
+          "feedback": "Correcto. El combate de Cerro Corá y la caída de Solano López y su hijo Panchito pusieron fin a más de cinco años de contienda destructiva."
+        },
+        {
+          "letter": "B",
+          "text": "La coronación de Solano López como emperador del Cono Sur",
+          "is_correct": false,
+          "feedback": "Incorrecto. El desenlace fue trágico con la muerte del presidente y la ocupación del país."
+        },
+        {
+          "letter": "C",
+          "text": "El hundimiento del vapor acorazado brasilero en las costas de Asunción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cerro Corá es un paraje mediterráneo terrestre en las serranías de Amambay."
+        },
+        {
+          "letter": "D",
+          "text": "La firma del tratado de anexión total de Paraguay a la República Argentina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque sufrió mutilaciones territoriales, Paraguay mantuvo su independencia estatal posbélica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El 1 de marzo se conmemora el \"Día de los Héroes\" rindiendo homenaje a los defensores de la patria en Cerro Corá.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.69,
+      "bundle_id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v9",
+      "statement": "¿Qué rol heroico desempeñaron las mujeres paraguayas (conocidas como Las Residentas) durante la Guerra contra la Triple Alianza?",
+      "context": "En Villarrica, los alumnos analizan el papel de las \"Residentas\" y \"Destinadas\" durante los duros años de la contienda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sostuvieron la producción agrícola en los campos, proveyeron vestimenta y alimentos al ejército, y acompañaron los desplazamientos de las tropas",
+          "is_correct": true,
+          "feedback": "Correcto. Las Residentas fueron la columna vertebral de la supervivencia física del país, cultivando la tierra y donando joyas para la defensa."
+        },
+        {
+          "letter": "B",
+          "text": "Emigraron masivamente a los Estados Unidos abandonando a los soldados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mujeres paraguayas abnegadas permanecieron en el suelo patrio sufriendo los estragos de la guerra."
+        },
+        {
+          "letter": "C",
+          "text": "Comandaron la escuadra naval de acorazados en el Río Paraná",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque apoyaron logísticamente y algunas tomaron las armas, su rol masivo fue la producción agrícola y el sustento de la nación."
+        },
+        {
+          "letter": "D",
+          "text": "Fundaron los primeros bancos comerciales privados internacionales de la capital",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las condiciones bélicas destruyeron el sistema bancario y comercial ordinario."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La mujer paraguaya fue la heroína abnegada que sostuvo el esfuerzo defensivo y reconstruyó biológica y socialmente al país arrasado tras 1870.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál era el objetivo central de enviar a jóvenes paraguayos (como Cándido Bareiro o Gaspar Centurión) a capacitarse en universidades y talleres de Europa en la década de 1850?",
+      "context": "En Asunción, se examina el impacto de la beca de estudios en Europa otorgada a jóvenes talentos bajo el gobierno de Don Carlos Antonio López.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Adquirir conocimientos científicos, técnicos y jurídicos para liderar la modernización e industrialización autónoma del Paraguay",
+          "is_correct": true,
+          "feedback": "Correcto. López becó a brillantes jóvenes paraguayos para formarse en ingeniería, medicina, derecho y milicia en Gran Bretaña y Francia."
+        },
+        {
+          "letter": "B",
+          "text": "Fomentar la adopción de las monarquías absolutas europeas en el país",
+          "is_correct": false,
+          "feedback": "Incorrecto. El objetivo era puramente técnico, civil y científico para el progreso de la República."
+        },
+        {
+          "letter": "C",
+          "text": "Vender las industrias estatales paraguayas al capital privado londinense",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Estado conservó la propiedad de las empresas estratégicas e infraestructura nacional."
+        },
+        {
+          "letter": "D",
+          "text": "Obligar a la población a abandonar el idioma guaraní por el francés",
+          "is_correct": false,
+          "feedback": "Incorrecto. El guaraní continuó siendo el idioma de cohesión de toda la sociedad paraguaya."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La política de becas europeas constituyó una visión de vanguardia para dotar al país de un cuadro técnico propio altamente capacitado.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v11",
+      "statement": "Desde el punto de vista demográfico, ¿cuál fue el impacto más devastador de la Guerra contra la Triple Alianza sobre la población del Paraguay?",
+      "context": "Un demógrafo explica en la UNA las consecuencias cataclísmicas de la guerra sobre la población paraguaya.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La pérdida de más del 60% de la población total y la aniquilación de cerca del 90% de los hombres adultos",
+          "is_correct": true,
+          "feedback": "Correcto. El conflicto provocó un verdadero genocidio demográfico por combates, cólera, fiebres y hambrunas, dejando al país habitado mayoritariamente por mujeres, niños y ancianos."
+        },
+        {
+          "letter": "B",
+          "text": "El aumento de la población masculina joven en un 300% respecto a 1860",
+          "is_correct": false,
+          "feedback": "Incorrecto. La población masculina fue diezmada de manera trágica durante los cinco años de contienda."
+        },
+        {
+          "letter": "C",
+          "text": "La inmigración masiva de millones de ciudadanos europeos que duplicó los habitantes en 1871",
+          "is_correct": false,
+          "feedback": "Incorrecto. La inmigración posbélica fue modesta y no compensó de inmediato la pérdida demográfica."
+        },
+        {
+          "letter": "D",
+          "text": "La ausencia total de pérdidas humanas debido a la diplomacia pacífica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La guerra fue una de las más sangrientas y destructivas de la historia del continente americano."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La hecatombe demográfica de 1870 obligó a la mujer paraguaya a asumir la titánica tarea de reconstrucción de las familias y la sociedad.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.63,
+      "bundle_id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v12",
+      "statement": "¿Qué pérdidas territoriales concretas sufrió la República del Paraguay como consecuencia de los tratados de límites posteriores a 1870 firmados con Brasil y Argentina?",
+      "context": "En Encarnación, los alumnos analizan los tratados de límites impuestos a Paraguay tras el final de la guerra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cesión del territorio entre los ríos Blanco y Apa al Brasil, y los territorios de Misiones al sur del Paraná y la mesopotamia de Formosa a la Argentina",
+          "is_correct": true,
+          "feedback": "Correcto. Los tratados despojaron al Paraguay de extensos territorios en el norte (Apa-Blanco) y en el sur/sudoeste (Misiones y Formosa)."
+        },
+        {
+          "letter": "B",
+          "text": "La pérdida de la totalidad del Chaco Boreal en beneficio de Bolivia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Chaco Boreal permaneció bajo soberanía paraguaya siendo defendido victoriosamente en la posterior Guerra del Chaco."
+        },
+        {
+          "letter": "C",
+          "text": "La anexión del departamento Central al territorio de la provincia de Corrientes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El núcleo central de la República mantuvo su soberanía territorial inalterada."
+        },
+        {
+          "letter": "D",
+          "text": "La cesión de la ciudad de Asunción a la corona portuguesa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asunción continuó siendo la capital indiscutida de la República del Paraguay."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A pesar de mutilaciones territoriales en los márgenes de sus fronteras, la diplomacia de posguerra logró preservar la existencia misma del Estado paraguayo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.61,
+      "bundle_id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v13",
+      "statement": "¿Qué trascendental fallo arbitral internacional emitió el presidente estadounidense Rutherford B. Hayes el 12 de noviembre de 1878 a favor de la República del Paraguay?",
+      "context": "En la biblioteca de Pilar, se examina el Arbitraje del Presidente de los Estados Unidos Rutherford B. Hayes en 1878.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reconoció la legítima soberanía paraguaya sobre el territorio del Chaco comprendido entre los ríos Verde y Pilcomayo (Villa Hayes)",
+          "is_correct": true,
+          "feedback": "Correcto. El Laudo Hayes otorgó de forma inapelable al Paraguay la propiedad del Chaco disputado por Argentina, nombrándose Villa Hayes a la capital de Presidente Hayes."
+        },
+        {
+          "letter": "B",
+          "text": "Decretó que Paraguay debía pagar reparaciones de guerra en oro a todos los países europeos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Laudo Hayes atañía exclusivamente a los límites territoriales del Chaco disputados con Argentina."
+        },
+        {
+          "letter": "C",
+          "text": "Declaró nula la independencia del Paraguay obligándolo a unirse al Uruguay",
+          "is_correct": false,
+          "feedback": "Incorrecto. El laudo ratificó la soberanía y los derechos territoriales paraguayos."
+        },
+        {
+          "letter": "D",
+          "text": "Condenó al Paraguay a ceder la ciudad de Concepción al Imperio del Brasil",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diferendo juzgado por Hayes se centraba en la franja chaqueña frente a Argentina."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Laudo Hayes de 1878 constituyó un formidable triunfo del derecho internacional y la diplomacia paraguaya en defensa del Chaco.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.59,
+      "bundle_id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v14",
+      "statement": "A diferencia de los países vecinos de la región en la década de 1850, el Estado paraguayo bajo la presidencia de López se caracterizaba por:",
+      "context": "En San Pedro, se estudia la política económica estatista de Don Carlos Antonio López.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No poseer deuda externa, ser propietario de la tierra y los bosques, y financiar sus obras con recursos propios",
+          "is_correct": true,
+          "feedback": "Correcto. Paraguay carecía de empréstitos de bancos extranjeros, manteniendo el monopolio estatal de la yerba mate y maderas nobles sin deuda externa."
+        },
+        {
+          "letter": "B",
+          "text": "Depender de millonarios créditos de bancos londinenses con altas tasas de interés",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los préstamos ruinosos con la banca inglesa aparecieron en la etapa de posguerra (1871-1872)."
+        },
+        {
+          "letter": "C",
+          "text": "Haber privatizado la totalidad de los puertos y ríos a favor de comerciantes porteños",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Estado regulaba celosamente la navegación y el comercio exterior sin concesiones extranjeras."
+        },
+        {
+          "letter": "D",
+          "text": "Utilizar exclusivamente la moneda metálica de oro importada de los Estados Unidos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El país contaba con su propia moneda nacional impresas y respaldadas por el fisco."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El modelo de desarrollo autónomo y sin deuda del Paraguay antes de 1865 constituyó una anomalía soberana en la América Latina decimonónica.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.57,
+      "bundle_id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v15",
+      "statement": "¿Por qué el complejo fortificado de Humaitá (conocido como la \"Sebastopol de América\") retuvo durante más de dos años el avance de la potente flota acorazada y los ejércitos aliados?",
+      "context": "En Coronel Oviedo, los estudiantes revisan la Campaña de Humaitá y el sitio del cuadrilátero fortificado de Ñeembucú.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por su posición estratégica sobre un recodo del Río Paraguay, protegida por baterías de artillería, cadenas flotantes y esteros infranqueables",
+          "is_correct": true,
+          "feedback": "Correcto. Humaitá bloqueaba el paso de los barcos enemigos hacia Asunción, requiriendo un prolongado y sangriento cerco terrestre y fluvial."
+        },
+        {
+          "letter": "B",
+          "text": "Porque contaba con el apoyo militar directo del ejército de los Estados Unidos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fuerzas paraguayas combatieron en estricta soledad sin intervención de tropas norteamericanas."
+        },
+        {
+          "letter": "C",
+          "text": "Debido a la presencia de murallas de piedra de 50 metros de altura traídas de Europa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las defensas eran fortificaciones de tierra, foso, abatís y baterías diseñadas por ingenieros como Wisner de Morgenstern."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el río permaneció helado impidiendo la navegación durante tres años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El clima subtropical paraguayo no congela las aguas del Río Paraguay."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La resistencia de Humaitá demostró la capacidad de la ingeniería defensiva paraguaya y el coraje de sus fuerzas armadas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v16",
+      "statement": "La Constitución Nacional de 1870, promulgada tras la finalización de la guerra, adoptó principios liberales clásicos inspirados en:",
+      "context": "Un historiador en San Lorenzo explica la Constitución de 1870 redactada bajo la ocupación aliada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El modelo republicano liberal representativo de la Constitución Argentina de 1853 y los derechos individuales ilustrados",
+          "is_correct": true,
+          "feedback": "Correcto. La Constitución de 1870 introdujo el ideario liberal, garantizando la propiedad privada, la libertad de prensa y la división trina de poderes."
+        },
+        {
+          "letter": "B",
+          "text": "El régimen absolutista de la monarquía del Imperio del Brasil",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque Brasil ocupaba Asunción, la convención constituyente adoptó el modelo republicano liberal y no monárquico."
+        },
+        {
+          "letter": "C",
+          "text": "El sistema de autocracia estatal del Dr. José Gaspar Rodríguez de Francia",
+          "is_correct": false,
+          "feedback": "Incorrecto. La carta de 1870 buscó abiertamente desmantelar el modelo estatal autoritario anterior en favor del liberalismo."
+        },
+        {
+          "letter": "D",
+          "text": "El sistema comunista soviético de granjas colectivas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ideología soviética surgió décadas después en Rusia a principios del siglo XX."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Constitución de 1870 inauguró el ordenamiento jurídico liberal que rigió el país durante más de seis décadas hasta la carta de 1940.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.53,
+      "bundle_id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v17",
+      "statement": "Al evaluar la figura del Mariscal Francisco Solano López en la historiografía paraguaya, la corriente \"Revisionista\" (liderada por pensadores como Juan E. O'Leary) lo considera fundamentalmente como:",
+      "context": "En la Universidad Nacional de Asunción, se juzga el debate historiográfico entre el \"Revisionismo\" y el \"Legionarismo\" sobre la figura de Solano López.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El máximo símbolo del heroísmo y la soberanía nacional, que prefirió la inmolación antes que la entrega del Paraguay a los agresores de la Triple Alianza",
+          "is_correct": true,
+          "feedback": "Correcto. El revisionismo histórico ensalza la figura del Mariscal López como encarnación del patriotismo y defensor abnegado de la causa nacional."
+        },
+        {
+          "letter": "B",
+          "text": "Un agente a sueldo de la corona británica encargado de destruir al propio país",
+          "is_correct": false,
+          "feedback": "Incorrecto. Afirmación absurda desmentida por todos los documentos históricos de la contienda."
+        },
+        {
+          "letter": "C",
+          "text": "Un diplomático pacífico que nunca participó en combates militares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solano López comandó en persona las campañas bélicas hasta su muerte en Cerro Corá."
+        },
+        {
+          "letter": "D",
+          "text": "El fundador de los partidos políticos tradicionales colorado y liberal en 1887",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los partidos políticos tradicionales fueron fundados en 1887 por figuras de posguerra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El debate historiográfico sobre Solano López refleja las corrientes de construcción de la memoria colectiva e identidad patriótica en el Paraguay.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.51,
+      "bundle_id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v18",
+      "statement": "Al evaluar las causas estructurales del conflicto de 1864-1870, ¿cuál de los siguientes factores geopolíticos de la Cuenca del Plata tuvo un peso determinante?",
+      "context": "El estudiante Santiago del Colegio Nacional de Concepción examina las causas profundas de la Guerra contra la Triple Alianza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El choque entre el modelo autónomo proteccionista paraguayo y las pretensiones de libre navegación y hegemonía territorial de Brasil y los liberales de Buenos Aires",
+          "is_correct": true,
+          "feedback": "Correcto. Las disputas por límites no resueltos, el libre tránsito fluvial y la hegemonía regional hicieron colisionar los intereses de los estados del Plata."
+        },
+        {
+          "letter": "B",
+          "text": "El interés de Paraguay por apoderarse de las costas del Océano Pacífico en Chile",
+          "is_correct": false,
+          "feedback": "Incorrecto. Paraguay no tenía pretensiones ni fronteras con el Océano Pacífico."
+        },
+        {
+          "letter": "C",
+          "text": "La invasión del ejército de España para recuperar sus antiguas colonias indianas",
+          "is_correct": false,
+          "feedback": "Incorrecto. España no intervino militarmente en la Guerra de la Triple Alianza."
+        },
+        {
+          "letter": "D",
+          "text": "La disputa por el control de la transmisión de radiofonía internacional",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tecnología radiofónica no existía en la década de 1860."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Guerra de la Triple Alianza fue el conflicto geopolítico más trascendental del Cono Sur, redefiniendo el mapa político y económico de la región.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.49,
+      "bundle_id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v19",
+      "statement": "Al juzgar el impacto de las Leyes de Venta de Tierras Públicas promulgadas en la posguerra (1883 y 1885), ¿cuál de las siguientes afirmaciones refleja su efecto estructural en el agro paraguayo?",
+      "context": "En Pilar, se discuten las consecuencias sociales de la venta masiva de tierras públicas (tierras fiscales) mediante las leyes de 1883 y 1885.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desmantelaron la propiedad estatal de la tierra dando origen a extensos latifundios privados extranjeros (empresas yerbateras y tanineras) y despojando a miles de campesinos",
+          "is_correct": true,
+          "feedback": "Correcto. La enajenación de tierras fiscales para pagar deudas creó gigantescos latifundios privados (ej. la Industrial Paraguaya, Carlos Casado) precarizando al campesinado."
+        },
+        {
+          "letter": "B",
+          "text": "Distribuyeron gratuitamente parcelas de 10 hectáreas a cada familia campesina sobreviviente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, la venta remató grandes extensiones a especuladores extranjeros excluyendo al pequeño agricultor."
+        },
+        {
+          "letter": "C",
+          "text": "Convirtieron al Estado paraguayo en el único propietario legal de los edificios de Buenos Aires",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las leyes enajenaron el patrimonio público paraguayo en beneficio del capital privado."
+        },
+        {
+          "letter": "D",
+          "text": "Prohibieron la exportación de tanino y yerba mate hacia los mercados internacionales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los nuevos latifundios se dedicaron a la explotación intensiva de exportación de yerba y tanino."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las leyes de venta de tierras públicas de posguerra concentraron la propiedad agraria en pocas manos, germen de la problemática campesina contemporánea.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.47,
+      "bundle_id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle-v20",
+      "statement": "Al evaluar la resiliencia del Paraguay tras el aniquilamiento de 1870, ¿qué factor socio-cultural permitió la supervivencia biológica y el renacimiento de la República?",
+      "context": "Un seminario académico en Asunción concluye valorando la capacidad de recuperación del pueblo paraguayo en el periodo de posguerra (1870-1900).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La abnegación inquebrantable de la mujer paraguaya, la vitalidad de la lengua guaraní como elemento de cohesión y el patriotismo del pueblo sobreviviente",
+          "is_correct": true,
+          "feedback": "Correcto. Las mujeres reconstruyeron la familia, la agricultura y la patria, manteniendo encendida la llama de la identidad nacional en medio de las ruinas."
+        },
+        {
+          "letter": "B",
+          "text": "La entrega voluntaria de la soberanía nacional al Imperio Austro-Húngaro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Paraguay mantuvo su estatus de República soberana sin someterse a imperios europeos."
+        },
+        {
+          "letter": "C",
+          "text": "El descubrimiento de inmensos yacimientos de petróleo ligero en el departamento Central",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reconstrucción se realizó con el esfuerzo agrícola y productivo sin ingresos petroleros."
+        },
+        {
+          "letter": "D",
+          "text": "La ayuda financiera a fondo perdido otorgada por los países vencedores de la alianza",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los países vencedores impusieron duras condiciones de reparación de guerra e indemnisaciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La reconstrucción nacional pos-1870 es uno de los episodios de heroísmo civil más asombrosos de la historia universal, protagonizado por la mujer paraguaya.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "PY-SOC-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    }
+  ]
+}

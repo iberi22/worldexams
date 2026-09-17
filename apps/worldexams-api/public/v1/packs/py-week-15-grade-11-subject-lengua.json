@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "py",
+    "pack_id": "py-week-15-grade-11-subject-lengua",
+    "generated_at": "2026-09-17T20:08:59.696Z"
+  },
+  "questions": [
+    {
+      "id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-v1",
+      "statement": "¿Cuál es el objetivo primordial de un texto académico como la monografía o el ensayo escolar?",
+      "context": "En la materia de Redacción Académica en Asunción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desarrollar un análisis riguroso, fundamentado y estructurado sobre un problema de estudio.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los textos académicos buscan aportar conocimientos o reflexiones críticas mediante una metodología rigurosa."
+        },
+        {
+          "letter": "B",
+          "text": "Entretener al público mediante chistes y anécdotas cómicas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su finalidad no es el entretenimiento cómico."
+        },
+        {
+          "letter": "C",
+          "text": "Redactar versos con rima consonante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la poesía lírica."
+        },
+        {
+          "letter": "D",
+          "text": "Promocionar la venta de productos comerciales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al texto publicitario."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los textos académicos requieren objetividad, sustentación teórica, claridad expositiva y orden metodológico para comunicar descubrimientos o reflexiones.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-v2",
+      "statement": "¿Qué conector textual se utiliza para iniciar la enumeración de una serie de puntos en un ensayo?",
+      "context": "En San Lorenzo, se estudian los marcadores del discurso ordenadores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En primer lugar",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"En primer lugar\" marca el comienzo del desarrollo ordenado de argumentos."
+        },
+        {
+          "letter": "B",
+          "text": "En conclusión",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se emplea para cerrar la argumentación en la síntesis final."
+        },
+        {
+          "letter": "C",
+          "text": "Sin embargo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se utiliza para introducir un contraste u objeción."
+        },
+        {
+          "letter": "D",
+          "text": "Por ejemplo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Introduce un caso o ilustración concreta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los organizadores del discurso como 'En primer lugar', 'En segundo lugar' estructuran secuencialmente el avance de la información en el texto.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-v3",
+      "statement": "Según las normas de citación académica (estilo APA), ¿cómo debe presentarse una cita textual directa menor de 40 palabras dentro del párrafo?",
+      "context": "En Luque, se estudia la cita textual breve según normas de citación internacional (APA).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entre comillas dobles, integrada en el texto y acompañada por el apellido del autor, año y número de página.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las citas cortas se incorporan al párrafo entre comillas especificando autor, año y página."
+        },
+        {
+          "letter": "B",
+          "text": "En un bloque independiente fuera del párrafo, sin comas ni comillas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa presentación corresponde a las citas largas de 40 palabras o más."
+        },
+        {
+          "letter": "C",
+          "text": "Escrita en letras mayúsculas al final del documento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No sigue la norma de citación dentro del texto."
+        },
+        {
+          "letter": "D",
+          "text": "Sin mencionar jamás el autor para evitar distracciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitir la autoría constituye plagio académico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las citas textuales cortas (< 40 palabras) se integran directamente en la redacción entre comillas, indicando la fuente parentética (Autor, año, p. XX).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-v4",
+      "statement": "¿Cuáles son las tres partes fundamentales que componen la estructura tradicional de un ensayo argumentativo?",
+      "context": "En Encarnación, los alumnos identifican la estructura tripartita de un ensayo argumentativo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Introducción (con tesis), Desarrollo (con argumentos) y Conclusión (síntesis y cierre).",
+          "is_correct": true,
+          "feedback": "¡Correcto! La estructura canónica del ensayo requiere introducción del tema y planteo de tesis, cuerpo argumentativo y conclusión."
+        },
+        {
+          "letter": "B",
+          "text": "Portada, Nudo y Desenlace.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Nudo y desenlace\" pertenecen a la estructura narrativa."
+        },
+        {
+          "letter": "C",
+          "text": "Estrofa, Verso y Rima.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pertenecen al género poético."
+        },
+        {
+          "letter": "D",
+          "text": "Escena, Acto y Acotación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pertenecen al género dramático."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La arquitectura del texto argumentativo consta de: Introducción (presenta el problema y la tesis), Desarrollo (despliega los argumentos y evidencia) y Conclusión (reafirma la tesis).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.77,
+      "bundle_id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-v5",
+      "statement": "¿En cuál de las siguientes frases se comete una redundancia expresiva (pleonasmo) que debe evitarse en la redacción formal?",
+      "context": "En Ciudad del Este, se analiza la corrección de redundancias (pleonasmos) en borradores escolares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El comité decidió resumir brevemente las conclusiones.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La expresión \"resumir brevemente\" es redundante, ya que la brevedad es inherente al acto de resumir."
+        },
+        {
+          "letter": "B",
+          "text": "El comité decidió resumir los aspectos centrales del informe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Redacción sobria y precisa sin pleonasmo."
+        },
+        {
+          "letter": "C",
+          "text": "El comité presentó un análisis detallado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Adecuada combinación de sustantivo y adjetivo."
+        },
+        {
+          "letter": "D",
+          "text": "El comité concluyó su trabajo en la fecha prevista.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin presencia de redundancia inutil."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El pleonasmo o redundancia consiste en emplear palabras innecesarias que reiteran una idea ya contenida en el verbo o sustantivo ('resumir brevemente', 'subir arriba').\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.74,
+      "bundle_id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-v6",
+      "statement": "¿Qué conector es el más adecuado para introducir una prueba o caso concreto que aclare una afirmación previa?",
+      "context": "En Coronel Oviedo, se revisan los conectores de ejemplificación e ilustración.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por ejemplo",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Por ejemplo\" o \"A modo de ilustración\" sirven para concretar y demostrar la afirmación general anterior."
+        },
+        {
+          "letter": "B",
+          "text": "No obstante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un conector adverso-restrictivo."
+        },
+        {
+          "letter": "C",
+          "text": "En suma",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un conector conclusivo o de recapitulación."
+        },
+        {
+          "letter": "D",
+          "text": "Por ende",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un conector consecutivo de deducción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los marcadores de ejemplificación ('por ejemplo', 'tal como') sirven para ilustrar con casos prácticos la tesis o concepto formulado de manera general.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.71,
+      "bundle_id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-v7",
+      "statement": "¿En qué consiste la técnica de la 'paráfrasis' al procesar información de una fuente bibliográfica?",
+      "context": "En Villarrica, se ejercita la paráfrasis académica para evitar el plagio involuntario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En reescribir con palabras propias las ideas de un autor manteniendo fielmente el sentido original y citando la fuente.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La paráfrasis reelabora la idea del autor con un lenguaje propio sin alterar el contenido y dando el debido crédito."
+        },
+        {
+          "letter": "B",
+          "text": "En copiar y pegar el texto exacto entre comillas sin citar de dónde proviene.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Copiar sin citar es incurrir en plagio directo."
+        },
+        {
+          "letter": "C",
+          "text": "En inventar datos falsos para contradecir al autor original.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La paráfrasis debe guardar fidelidad a las ideas del texto fuente."
+        },
+        {
+          "letter": "D",
+          "text": "En eliminar todos los verbos del párrafo original.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Destruiría la sintaxis del enunciado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La paráfrasis académica implica procesar y expresar con las propias palabras del estudiante el contenido de un texto de consulta, citando siempre al autor de la idea.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-v8",
+      "statement": "Lea la frase: 'Le entregué el informe al profesor'. ¿Qué tipo de referencia pronominal se produce con el pronombre 'Le' que anticipa a 'al profesor'?",
+      "context": "En Caacupé, se analiza la cohesión mediante pronombres anafóricos y catafóricos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Catáfora (referencia catafórica)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ocurre cuando una palabra (el pronombre \"Le\") alude a un elemento que se menciona posteriormente en el discurso (\"al profesor\")."
+        },
+        {
+          "letter": "B",
+          "text": "Anáfora",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurre cuando el pronombre sustituye a un término mencionado con anterioridad."
+        },
+        {
+          "letter": "C",
+          "text": "Deixis de lugar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a adverbios como \"aquí\" o \"allí\"."
+        },
+        {
+          "letter": "D",
+          "text": "Elipsis verbal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la omisión de un verbo sobrentendido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La catáfora es un mecanismo de cohesión textual donde un término (pronombre) anticipa a otro que aparecerá más adelante en la cadena hablada o escrita.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-v9",
+      "statement": "¿Por qué se prefiere el uso de la tercera persona del singular o de la voz pasiva refleja en los informes de investigación científica?",
+      "context": "En Pilar, se estudia la diferencia entre la objetividad científica y la subjetividad ensayística.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para otorgar objetividad, distanciamiento imparcial y neutralidad a los hallazgos presentados.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El registro académico científico despersonaliza el enunciado (\"Se observó\", \"Los resultados indican\") para enfatizar los datos sobre la persona."
+        },
+        {
+          "letter": "B",
+          "text": "Para ocultar la identidad de los estudiantes por razones de seguridad militar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su meta es la validez metodológica y la neutralidad discursiva."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la primera persona del singular está prohibida por la ley penal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una convención de estilo académico, no una sanción penal."
+        },
+        {
+          "letter": "D",
+          "text": "Para hacer el texto inaccesible a los lectores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Busca dar la máxima claridad a la comunidad científica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La despersonalización discursiva (uso de 3.ª persona, pasiva refleja, voz impersonal) en los informes científicos acentúa la objetividad del proceso investigativo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.62,
+      "bundle_id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-v10",
+      "statement": "¿En qué orden se deben organizar las fuentes bibliográficas al final de un proyecto de investigación académica?",
+      "context": "En Concepción, se revisan las normas de presentación de referencias bibliográficas al final del trabajo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Orden alfabético según el primer apellido de los autores.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La lista de referencias se ordena alfabéticamente por el apellido paterno del autor principal."
+        },
+        {
+          "letter": "B",
+          "text": "Orden aleatorio según la preferencia del estudiante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La bibliografía requiere una ordenación normalizada."
+        },
+        {
+          "letter": "C",
+          "text": "Orden de importancia del número de páginas del libro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número de páginas no determina el orden bibliográfico."
+        },
+        {
+          "letter": "D",
+          "text": "Orden cronológico por el día de compra del libro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Criterio totalmente ajeno a las normas académicas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las normas internacionales de documentación (APA, Vancouver, MLA) estipulan que la lista final de referencias se organice alfabéticamente según los apellidos de los autores.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.6,
+      "bundle_id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-v11",
+      "statement": "¿Qué función cumple el párrafo de 'contraargumentación y refutación' en la economía de un ensayo persuasivo?",
+      "context": "En Asunción, se analizan los contraargumentos y la refutación en ensayos de debate.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anticipar la postura de los opositores para invalidar sus razones mediante evidencias y consolidar la tesis propia.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Demuestra la solidez de la posición del autor al demostrar que conoce los argumentos contrarios y puede desmontarlos."
+        },
+        {
+          "letter": "B",
+          "text": "Cambiar de opinión a mitad del escrito y darle la razón al oponente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No abandona la tesis inicial, sino que la fortalece al refutar al adversario."
+        },
+        {
+          "letter": "C",
+          "text": "Aumentar el número de palabras sin aportar sentido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La refutación es una estrategia argumentativa de alto nivel."
+        },
+        {
+          "letter": "D",
+          "text": "Confundir al lector para que no entienda el tema central.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Busca convencer mediante la solidez lógica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La contraargumentación fortalece la tesis propia al examinar críticamente las objeciones previsibles del contrario y demostrar su invalidez o insuficiencia.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.57,
+      "bundle_id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-v12",
+      "statement": "Lea la afirmación: 'Esa propuesta sobre la reforma educativa no sirve porque la presentó un diputado que no nos cae bien'. ¿En qué falacia se incurre?",
+      "context": "En San Lorenzo, se identifican las falacias argumentativas lógicas en artículos de opinión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Falacia ad hominem (ataque a la persona)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ataca las circunstancias o simpatía del emisor en lugar de refutar la validez sustancial de la propuesta."
+        },
+        {
+          "letter": "B",
+          "text": "Falacia ad populum (apelación a la multitud)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ad populum sostiene que algo es verdadero porque la mayoría lo cree."
+        },
+        {
+          "letter": "C",
+          "text": "Falacia de causa falsa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Atribuye relación causal a dos hechos independientes."
+        },
+        {
+          "letter": "D",
+          "text": "Falacia de apelación a la autoridad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pretende validar algo solo porque lo dijo alguien famoso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La falacia ad hominem invalida o descalifica un argumento descalificando a la persona que lo pronuncia en vez de evaluar la lógica de la propuesta en sí.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.54,
+      "bundle_id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-v13",
+      "statement": "¿Qué conector de reformulación es el más apropiado para reexpresar de forma más clara o precisa lo enunciado en el párrafo anterior?",
+      "context": "En Luque, se ejercita el uso de conectores supraparrafales de reformulación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En otros términos (o dicho de otro modo)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los conectores reformuladores explican o aclaran con nuevas palabras lo expresado previamente."
+        },
+        {
+          "letter": "B",
+          "text": "Por el contrario",
+          "is_correct": false,
+          "feedback": "Incorrecto. Introduce un contraste de oposición."
+        },
+        {
+          "letter": "C",
+          "text": "En primer lugar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un ordenador del discurso."
+        },
+        {
+          "letter": "D",
+          "text": "Sin embargo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un marcador adverso-rectificativo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los conectores de reformulación explicativa ('es decir', 'dicho de otro modo', 'en otros términos') aclaran o simplifican un concepto complejo para asegurar la comprensión.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.51,
+      "bundle_id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-v14",
+      "statement": "¿Qué requisito metodológico debe cumplir una hipótesis en la introducción de una monografía académica?",
+      "context": "En Encarnación, se revisa la coherencia temática en la redacción de la hipótesis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ser una suposición clara, verazmente contrastable y formulada como respuesta tentativa al problema de investigación.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La hipótesis plantea una explicación preliminar contrastable que guía toda la recolección de evidencia."
+        },
+        {
+          "letter": "B",
+          "text": "Ser un poema lírico de cinco estrofas sin relación con el tema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hipótesis es una proposición aseverativa rigurosa."
+        },
+        {
+          "letter": "C",
+          "text": "Ser un secreto que solo el docente debe conocer.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Debe estar expuesta con claridad en la introducción del trabajo."
+        },
+        {
+          "letter": "D",
+          "text": "Ser una lista de compras de laboratorio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Carente de dimensión explicativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La hipótesis académica es la respuesta tentativa al problema planteado, formulada de manera afirmativa, precisa y factible de ser demostrada a lo largo de la investigación.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.48,
+      "bundle_id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-v15",
+      "statement": "¿En qué se diferencia sustancialmente una 'síntesis' de un 'resumen' tradicional?",
+      "context": "En Ciudad del Este, se estudia la diferencia entre resumen y síntesis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El resumen reproduce fielmente las ideas principales con las palabras del texto fuente; la síntesis las integra y reelabora con la interpretación del estudiante.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El resumen extracta sin modificar la forma; la síntesis reestructura el contenido integrando el vocabulario del redactor."
+        },
+        {
+          "letter": "B",
+          "text": "El resumen es cinco veces más largo que el texto original.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El resumen condensa la extensión del texto fuente."
+        },
+        {
+          "letter": "C",
+          "text": "La síntesis prohíbe el uso de conectores gramaticales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Exige conectores para dar cohesión a la reestructuración."
+        },
+        {
+          "letter": "D",
+          "text": "Son términos idénticos que significan exactamente lo mismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tienen distintos niveles de reelaboración personal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Mientras el resumen condensa fielmente las ideas respetando la perspectiva del autor, la síntesis involucra una reelaboración conceptual propia del estudiante que integra diversos textos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-v16",
+      "statement": "¿Qué conector concesivo permite admitir una objeción parcial sin invalidar la fuerza del argumento principal?",
+      "context": "En Coronel Oviedo, se revisan los marcadores de concesión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Si bien (o a pesar de que)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los conectores concesivos admiten una dificultad u objeción pero no impiden el cumplimiento de la acción principal."
+        },
+        {
+          "letter": "B",
+          "text": "Por consiguiente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un marcador consecutivo de resultado."
+        },
+        {
+          "letter": "C",
+          "text": "En resumen",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un marcador conclusivo."
+        },
+        {
+          "letter": "D",
+          "text": "Es decir",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un marcador de explicativo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los nexos concesivos ('a pesar de que', 'si bien', 'aunque') aceptan una premisa contraria limitada pero afirman la validez dominante de la conclusión.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.43,
+      "bundle_id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-v17",
+      "statement": "¿Por qué en un ensayo de nivel académico los argumentos respaldados por evidencias empíricas o datos estadísticos oficiales poseen mayor fuerza demostrativa que los basados en anécdotas personales?",
+      "context": "En Villarrica, se evalúa la validez de los argumentos basados en datos estadísticos frente a los de experiencia personal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los datos empíricos ofrecen representatividad y verificabilidad objetiva, mientras que la anécdota personal carece de valor generalizable.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La evidencia científica y estadística trasciende la vivencia particular aportando validez universal y contrastable."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las anécdotas personales están prohibidas por la legislación educativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se trata de una prohibición legal sino de rigor epistémico."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los datos estadísticos son siempre invenciones poéticas del autor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos estadísticos deben ser veraces y verificables."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las anécdotas personales son demasiado largas de escribir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Criterio de extensión totalmente irrisorio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el discurso académico formal, los argumentos de hecho y basados en estudios estadísticos aportan rigor, verificabilidad e imparcialidad, superando el sesgo subjetivo del testimonio individual.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-v18",
+      "statement": "¿Qué interrogantes clave responde la sección de 'Justificación' en la memoria de un proyecto de investigación?",
+      "context": "En Caacupé, se analiza la estructura de la justificación en proyectos de tesis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "¿Por qué es relevante investigar este tema, a quiénes beneficia y cuál es su aporte teórico o social?",
+          "is_correct": true,
+          "feedback": "¡Correcto! La justificación fundamenta la necesidad, actualidad e impacto del estudio."
+        },
+        {
+          "letter": "B",
+          "text": "¿Cuánto costará la impresión de la portada a color?",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al presupuesto de papelería, no a la justificación teórica."
+        },
+        {
+          "letter": "C",
+          "text": "¿Cuáles son los nombres de los familiares del investigador?",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a los agradecimientos o dedicatoria personal."
+        },
+        {
+          "letter": "D",
+          "text": "¿Qué marcas de bolígrafos se usaron para tomar notas?",
+          "is_correct": false,
+          "feedback": "Incorrecto. Totalmente irrelevante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La justificación de un proyecto expone las razones científicas, sociales o prácticas que sustentan la relevancia de llevar a cabo la investigación.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.38,
+      "bundle_id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-v19",
+      "statement": "¿Cuál debe ser la actitud discursiva del autor en el párrafo de conclusión de un ensayo académico?",
+      "context": "En Pilar, se evalúa la voz propia y la intertextualidad en la conclusión de un ensayo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sintetizar los aportes comprobados, reafirmar la tesis con autoridad argumentativa y proyectar nuevas preguntas o implicaciones del tema.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La conclusión retoma los hilos argumentativos consolidados y ofrece un cierre reflexivo de proyección futura."
+        },
+        {
+          "letter": "B",
+          "text": "Introducir un tema totalmente nuevo sin relación con la tesis inicial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Rompería la coherencia global del escrito."
+        },
+        {
+          "letter": "C",
+          "text": "Copiar una página entera de un autor extranjero sin comentario alguno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conclusión debe expresar la voz analítica propia del estudiante."
+        },
+        {
+          "letter": "D",
+          "text": "Pedir disculpas por haber redactado el ensayo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muestra falta de solvencia e inseguridad académica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La conclusión articula la síntesis de las evidencias expuestas con el juicio crítico final del autor, abriendo horizontes para futuras líneas de investigación.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-v20",
+      "statement": "¿Cuál de las siguientes acciones constituye un caso directo de plagio académico punible en las instituciones de educación superior?",
+      "context": "En Concepción, se analiza el concepto de plagio académico y la honestidad intelectual.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentar un trabajo escrito por otra persona o generado por inteligencia artificial como si fuera de autoría propia sin la debida declaración.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Apropiarse del trabajo intelectual ajeno (humano o artificial) atribuyéndoselo como propio atenta contra la integridad académica."
+        },
+        {
+          "letter": "B",
+          "text": "Citar entre comillas a un autor mencionando la fuente bibliográfica en la referencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la práctica ética y correcta de atribuir autoría."
+        },
+        {
+          "letter": "C",
+          "text": "Parfrasear una idea indicando el nombre del autor original y el año de publicación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un procedimiento de citación válido."
+        },
+        {
+          "letter": "D",
+          "text": "Consultar diccionarios oficiales para verificar la ortografía de una palabra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una consulta lexicográfica totalmente legítima."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El plagio es la apropiación indebida de palabras, ideas o datos ajenos sin dar el reconocimiento bibliográfico adecuado, transgrediendo la ética de la investigación científica.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "PY-LEN-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    }
+  ]
+}

@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "py",
+    "pack_id": "py-week-12-grade-11-subject-lengua",
+    "generated_at": "2026-09-17T20:08:59.694Z"
+  },
+  "questions": [
+    {
+      "id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-v1",
+      "statement": "¿Qué elemento cumple la función de sujeto en la oración: 'A los estudiantes de Fernando de la Mora les fascina la lectura de poesía'?",
+      "context": "En una revisión sintáctica en el Colegio Nacional de la Capital en Asunción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "la lectura de poesía",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es el grupo nominal que concuerda en tercera persona del singular con el verbo \"fascina\"."
+        },
+        {
+          "letter": "B",
+          "text": "A los estudiantes de Fernando de la Mora",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un complemento indirecto introducido por la preposición \"A\"."
+        },
+        {
+          "letter": "C",
+          "text": "les",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"les\" es el pronombre átono de complemento indirecto."
+        },
+        {
+          "letter": "D",
+          "text": "de poesía",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un complemento del nombre \"lectura\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El sujeto gramatical de la oración es 'la lectura de poesía' porque concuerda en número y persona (3.ª persona del singular) con la forma verbal 'fascina'.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-v2",
+      "statement": "¿En cuál de las siguientes opciones se incurre en un vicio de dequeísmo?",
+      "context": "En San Lorenzo, se analiza la incorrección sintáctica conocida como dequeísmo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pienso de que mañana lloverá en la capital.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El verbo \"pensar\" es transitivo y exige un complemento directo sin la preposición \"de\" (\"Pienso que...\")."
+        },
+        {
+          "letter": "B",
+          "text": "Estoy seguro de que vendrás a la reunión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El adjetivo \"seguro\" exige la preposición \"de\" (dequeísmo correcto o complemento de régimen)."
+        },
+        {
+          "letter": "C",
+          "text": "Me alegro de que hayas aprobado el examen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verbo pronominal \"alegrarse\" exige la preposición \"de\"."
+        },
+        {
+          "letter": "D",
+          "text": "Se acordó de que tenía un trámite pendiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verbo \"acordarse\" rige la preposición \"de\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dequeísmo consiste en el uso indebido de la preposición 'de' delante de la conjunción 'que' cuando la subordinada es complemento directo de verbos de pensamiento o dicción como 'pensar', 'decir', 'creer'.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-v3",
+      "statement": "¿Cuál de las siguientes oraciones respeta adecuadamente la regla de concordancia gramatical?",
+      "context": "En Luque, los alumnos repasan las reglas de concordancia entre sujeto compuesto y verbo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La entrada y la salida del edificio permanecen cerradas durante la noche.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Un sujeto compuesto formado por dos sustantivos femeninos exige el verbo en plural y el adjetivo en femenino plural (\"cerradas\")."
+        },
+        {
+          "letter": "B",
+          "text": "La entrada y la salida del edificio permanece cerrada durante la noche.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verbo y adjetivo deben concordar en plural con el sujeto compuesto."
+        },
+        {
+          "letter": "C",
+          "text": "La entrada y la salida del edificio permanecen cerrado durante la noche.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El adjetivo debe concordar en género femenino plural con los sustantivos femeninos."
+        },
+        {
+          "letter": "D",
+          "text": "La entrada y la salida del edificio permanece cerrados durante la noche.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Discordancia de número verbal y género en el adjetivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando el sujeto está coordinado por dos o más sustantivos en singular ('la entrada y la salida'), el verbo debe ir en plural ('permanecen') y el adjetivo atributivo concuerda en plural y en género femenino ('cerradas').\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-v4",
+      "statement": "¿Qué tipo de oración coordinada se presenta en: 'Estudió intensamente toda la semana, pero no obtuvo la nota esperada'?",
+      "context": "En Encarnación, se estudia la clasificación de las oraciones compuestas coordinadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Coordinada adversativa",
+          "is_correct": true,
+          "feedback": "¡Correcto! La conjunción \"pero\" contrapone dos proposiciones señalando un contraste."
+        },
+        {
+          "letter": "B",
+          "text": "Coordinada copulativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las copulativas unen oraciones mediante \"y\", \"e\", \"ni\"."
+        },
+        {
+          "letter": "C",
+          "text": "Coordinada disyuntiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las disyuntivas presentan opciones excluyentes mediante \"o\", \"u\"."
+        },
+        {
+          "letter": "D",
+          "text": "Coordinada explicativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las explicativas aclaran mediante \"es decir\", \"esto es\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las oraciones coordinadas adversativas expresan una oposición o restricción entre dos proposiciones conectadas por nexos como 'pero', 'mas', 'sin embargo'.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.77,
+      "bundle_id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-v5",
+      "statement": "¿Qué valor o función cumple el pronombre 'se' en la oración: 'Se venden productos artesanales en la feria de la ciudad'?",
+      "context": "En Ciudad del Este, se analizan los usos del pronombre 'se' en la lengua castellana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pasiva refleja",
+          "is_correct": true,
+          "feedback": "¡Correcto! Contiene el pronombre \"se\", verbo en 3.ª persona plural (\"venden\") y un sujeto paciente en plural (\"productos artesanales\")."
+        },
+        {
+          "letter": "B",
+          "text": "Impersonal sintáctica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las impersonales no llevan sujeto paciente en plural (\"Se atiende al público\")."
+        },
+        {
+          "letter": "C",
+          "text": "Pronombre reflexivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los productos no se venden a sí mismos."
+        },
+        {
+          "letter": "D",
+          "text": "Pronombre recíproco",
+          "is_correct": false,
+          "feedback": "Incorrecto. No indica una acción mutua entre dos o más sujetos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la pasiva refleja ('Se venden productos'), el elemento 'productos artesanales' es el sujeto paciente en plural que concuerda en número con el verbo 'venden'.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.74,
+      "bundle_id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-v6",
+      "statement": "¿En cuál de las siguientes frases el monosílabo 'té' debe llevar tilde diacrítica obligatoriamente?",
+      "context": "En Coronel Oviedo, se revisan las reglas ortográficas de acentuación diacrítica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sirvieron un té de yuyos bien caliente por la tarde.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Lleva tilde diacrítica cuando funciona como sustantivo referido a la infusión."
+        },
+        {
+          "letter": "B",
+          "text": "Te dije que vinieras temprano a la reunión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el pronombre personal de 2.ª persona, el cual no lleva tilde."
+        },
+        {
+          "letter": "C",
+          "text": "¿Te gusta el clima tropical de Paraguay?",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al pronombre personal átono sin tilde."
+        },
+        {
+          "letter": "D",
+          "text": "Te acompañaré hasta la terminal de colectivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el pronombre personal no tildado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La tilde diacrítica distingue el sustantivo 'té' (la infusión de plantas) del pronombre personal átono 'te'.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.71,
+      "bundle_id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-v7",
+      "statement": "En la oración: 'El profesor entregó los reconocimientos a los alumnos destacados', ¿cuál es el complemento directo (CD)?",
+      "context": "En Villarrica, se identifica el complemento directo e indirecto en oraciones complejas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "los reconocimientos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es el grupo nominal sobre el cual recae directamente la acción de entregar (se sustituye por \"los\")."
+        },
+        {
+          "letter": "B",
+          "text": "a los alumnos destacados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el complemento indirecto (se sustituye por \"les\")."
+        },
+        {
+          "letter": "C",
+          "text": "El profesor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el sujeto agente de la oración."
+        },
+        {
+          "letter": "D",
+          "text": "destacados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un adjetivo calificativo que modifica al sustantivo \"alumnos\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El complemento directo (CD) recibe directamente la acción del verbo transitivo ('El profesor los entregó a los alumnos destacados').\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-v8",
+      "statement": "¿Cuál de los siguientes enunciados incurre en un leísmo de cosa rechazado por la norma culta?",
+      "context": "En Caacupé, se analiza la norma del leísmo y loísmo según la Real Academia Española (RAE).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El libro de historia le compré en la librería central.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Usar \"le\" para un complemento directo inanimado masculino (\"el libro\") en lugar de \"lo\" es un leísmo de cosa no admitido."
+        },
+        {
+          "letter": "B",
+          "text": "A Juan le entregué la carta ayer.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Juan\" es complemento indirecto, el uso de \"le\" es normativamente correcto."
+        },
+        {
+          "letter": "C",
+          "text": "A los alumnos les llamé la atención.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"les\" funciona como complemento indirecto normativo."
+        },
+        {
+          "letter": "D",
+          "text": "El automóvil lo estacioné frente a la plaza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Emplea correctamente el pronombre de complemento directo \"lo\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El leísmo de cosa ('El libro le compré') consiste en sustituir el pronombre de complemento directo inanimado 'lo' por 'le', lo cual es rechazado por la norma culta del castellano.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-v9",
+      "statement": "¿Qué valor expresa la perífrasis verbal 'debe de ser' en la frase: 'El tren debe de estar por llegar a la estación'?",
+      "context": "En Pilar, se estudia la diferencia entre perífrasis verbales de aspecto y de modalidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Probabilidad o suposición de un hecho",
+          "is_correct": true,
+          "feedback": "¡Correcto! La perífrasis \"deber de + infinitivo\" expresa conjetura, hipótesis o probabilidad."
+        },
+        {
+          "letter": "B",
+          "text": "Obligación moral o imperativa estricta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La obligación se expresa con \"deber + infinitivo\" (sin \"de\")."
+        },
+        {
+          "letter": "C",
+          "text": "Reiteración o repetición del proceso verbal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a perífrasis frecuentativas como \"volver a + infinitivo\"."
+        },
+        {
+          "letter": "D",
+          "text": "Comienzo inminente de la acción verbal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a perífrasis incoativas como \"ir a + infinitivo\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La estructura 'deber de + infinitivo' denota probabilidad o hipótesis ('Debe de ser tarde'), a diferencia de 'deber + infinitivo' que indica obligación ('Debes estudiar').\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.62,
+      "bundle_id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-v10",
+      "statement": "¿Cómo se tilda correctamente el adverbio derivado 'fácilmente' según la regla de la RAE?",
+      "context": "En Concepción, se revisan las normas de tildación en palabras compuestas y adverbios en -mente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "fácilmente (conserva la tilde del adjetivo original \"fácil\")",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los adverbios terminados en -mente mantienen la tilde si el adjetivo base la llevaba."
+        },
+        {
+          "letter": "B",
+          "text": "facilmente (pierde la tilde por convertirse en palabra sobreesdrújula)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No pierde la tilde del adjetivo de origen."
+        },
+        {
+          "letter": "C",
+          "text": "fácilmenté (lleva tilde en la última sílaba)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La terminación -mente no se tilda."
+        },
+        {
+          "letter": "D",
+          "text": "fácil-mente (se escribe obligatoriamente con guion)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se escribe en una sola palabra sin guion."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los adverbios formados con la terminación '-mente' conservan la tilde del adjetivo del que derivan si este la lleva por sí solo ('fácil' -> 'fácilmente').\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.6,
+      "bundle_id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-v11",
+      "statement": "¿En cuál de las siguientes oraciones la proposición subordinada sustantiva funciona como sujeto del verbo principal?",
+      "context": "En Asunción, se analizan las oraciones subordinadas sustantivas en función de sujeto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nos conviene que todos asistan puntualmente a la asamblea.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La subordinada \"que todos asistan puntualmente\" es el sujeto del verbo \"conviene\" (\"Nos conviene eso / Nos convienen esas cosas\")."
+        },
+        {
+          "letter": "B",
+          "text": "El director anunció que las clases comenzarán mañana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La subordinada es complemento directo del verbo \"anunció\"."
+        },
+        {
+          "letter": "C",
+          "text": "Tengo la certeza de que alcanzaremos la meta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La subordinada funciona como complemento del sustantivo \"certeza\"."
+        },
+        {
+          "letter": "D",
+          "text": "La estudiante ingresó sin que nadie la notara.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una subordinada adverbial de modo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En 'Nos conviene que todos asistan', al sustituir por el pronombre 'eso' vemos: 'Nos conviene eso' / 'Nos convienen esas cosas'. El cambio de número demuestra que es el sujeto gramatical.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.57,
+      "bundle_id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-v12",
+      "statement": "¿Cuál de las siguientes oraciones respeta la norma culta sobre el uso del verbo 'haber' cuando funciona como impersonal?",
+      "context": "En San Lorenzo, se corrige la concordancia del verbo impersonal 'haber'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hubo muchos festejos populares en las calles de la ciudad.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El verbo \"haber\" en uso impersonal es defectivo y se usa solo en 3.ª persona singular (\"Hubo\", no \"Hubieron\")."
+        },
+        {
+          "letter": "B",
+          "text": "Hubieron muchos festejos populares en las calles de la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Incurre en la pluralización incorrecta del verbo impersonal \"haber\"."
+        },
+        {
+          "letter": "C",
+          "text": "Habían decenas de puestos de venta en la plaza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Debe decirse \"Había decenas de puestos\"."
+        },
+        {
+          "letter": "D",
+          "text": "Han habido inconvenientes técnicos con la señal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El participio \"habido\" debe ir en singular: \"Ha habido\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando el verbo 'haber' indica existencia o presencia de elementos, es impersonal y carece de sujeto. Por ello, debe mantenerse inalterable en tercera persona del singular ('Hubo problemas', 'Había personas').\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.54,
+      "bundle_id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-v13",
+      "statement": "Compare las oraciones: I. 'Los atletas que estaban cansados abandonaron la carrera'. II. 'Los atletas, que estaban cansados, abandonaron la carrera'. ¿Cuál es la diferencia de significado?",
+      "context": "En Luque, se distingue entre oraciones subordinadas adjetivas explicativas y especificativas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En I solo abandonaron los atletas fatigados (especificativa); en II todos los atletas estaban fatigados y todos abandonaron (explicativa).",
+          "is_correct": true,
+          "feedback": "¡Correcto! La especificativa restringe el grupo de atletas; la explicativa describe una condición común a la totalidad del sujeto."
+        },
+        {
+          "letter": "B",
+          "text": "En I todos los atletas abandonaron; en II solo abandonó una parte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invirtió las interpretaciones semánticas de las proposiciones."
+        },
+        {
+          "letter": "C",
+          "text": "No existe ninguna diferencia semántica entre ambas oraciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El uso de comas cambia radicalmente el alcance especificativo o explicativo."
+        },
+        {
+          "letter": "D",
+          "text": "La oración II es gramaticalmente incorrecta por llevar comas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las adjetivas explicativas se escriben entre comas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las subordinadas adjetivas especificativas (sin comas) delimitan el alcance del sustantivo (solo los cansados). Las explicativas (entre comas) aportan una cualidad aplicable a todo el antecedente.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.51,
+      "bundle_id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-v14",
+      "statement": "¿En cuál de las siguientes opciones se incurre en una incorrección por queísmo?",
+      "context": "En Encarnación, se evalúa el mal uso de la norma conocida como queísmo (omisión indebida de la preposición).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Me di cuenta que no traía el documento oficial.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El verbo pronominal \"darse cuenta\" rige la preposición \"de\" (\"Me di cuenta de que...\"). Su omisión es queísmo."
+        },
+        {
+          "letter": "B",
+          "text": "Me di cuenta de que no traía el documento oficial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la construcción normativamente correcta."
+        },
+        {
+          "letter": "C",
+          "text": "Pienso que es la mejor alternativa posible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verbo \"pensar\" no lleva \"de\"."
+        },
+        {
+          "letter": "D",
+          "text": "El docente afirmó que la prueba fue reprogramada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verbo \"afirmar\" no lleva preposición \"de\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El queísmo consiste en suprimir indebidamente la preposición 'de' (u otra) delante de la conjunción 'que' cuando el verbo o sustantivo de la oración la requiere obligatoriamente ('darse cuenta de que').\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.48,
+      "bundle_id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-v15",
+      "statement": "¿Cuál es la forma correcta de concordancia para el adjetivo que modifica a los sustantivos 'el abrigo y la bufanda'?",
+      "context": "En Ciudad del Este, se estudia la concordancia de adjetivos pospuestos a varios sustantivos de distinto género.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "el abrigo y la bufanda nuevos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Cuando se coordinan sustantivos de diferente género (masculino y femenino), el adjetivo en plural concuerda en masculino (\"nuevos\")."
+        },
+        {
+          "letter": "B",
+          "text": "el abrigo y la bufanda nuevas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El femenino plural no puede abarcar al sustantivo masculino \"abrigo\"."
+        },
+        {
+          "letter": "C",
+          "text": "el abrigo y la bufanda nuevo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al modificar a dos sustantivos debe ir en plural."
+        },
+        {
+          "letter": "D",
+          "text": "el abrigo y la bufanda nueva",
+          "is_correct": false,
+          "feedback": "Incorrecto. Discordancia de número respecto al conjunto coordinado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la norma sintáctica castellana, la coordinación de sustantivos de género mixto en singular (masculino + femenino) exige que el adjetivo pospuesto vaya en masculino plural ('nuevos').\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-v16",
+      "statement": "¿Cuál es la opción que cumple con el régimen preposicional adecuado en el castellano culto?",
+      "context": "En Coronel Oviedo, se analiza el régimen preposicional de diversos verbos de movimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ingresó a la universidad tras aprobar los exámenes.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El verbo \"ingresar\" en su sentido de entrar a una institución rige la preposición \"a\"."
+        },
+        {
+          "letter": "B",
+          "text": "Discrepo con tu punto de vista sobre el tema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se prefiere \"Discrepo de tu punto de vista\"."
+        },
+        {
+          "letter": "C",
+          "text": "Se quedó de sentarse en la primera fila.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Incurre en un régimen verbal anómalo."
+        },
+        {
+          "letter": "D",
+          "text": "Acostumbra a levantarse muy temprano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verbo \"acostumbrar\" como transitivo directo se usa habitualmente sin la preposición \"a\" (\"Acostumbra levantarse\")."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El régimen preposicional culto establece que el verbo 'ingresar' cuando indica incorporación o entrada a un organismo se construya con la preposición 'a' ('Ingresó a la facultad').\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.43,
+      "bundle_id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-v17",
+      "statement": "¿Qué valor expresivo o modal aporta el verbo en modo subjuntivo en la oración: '¡Ojalá consigan los recursos para el centro cultural!'?",
+      "context": "En Villarrica, se evalúa el valor gramatical del valor modal del subjuntivo en oraciones independientes de deseo o duda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Valor desiderativo o optativo (expresión de deseo)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El adverbio \"ojalá\" introduciendo el presente de subjuntivo denota un deseo vehemente del emisor."
+        },
+        {
+          "letter": "B",
+          "text": "Valor dubitativo de incertidumbre objetiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. No expresa duda sobre un hecho sino el anhelo de que ocurra."
+        },
+        {
+          "letter": "C",
+          "text": "Valor imperativo o mandato directo de orden",
+          "is_correct": false,
+          "feedback": "Incorrecto. No da una orden directa a un interlocutor presencial."
+        },
+        {
+          "letter": "D",
+          "text": "Valor condicional hipotético irreal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Carece de la prótasis hipotética con \"si\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El modo subjuntivo junto a partículas como 'ojalá' cumple una función desiderativa (optativa), manifestando la actitud del hablante hacia la realización de un suceso anhelado.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-v18",
+      "statement": "Dadas las oraciones: 1) 'Como llovió torrencialmente, no pudimos salir'. 2) 'Llovió tanto que las calles se inundaron'. ¿Qué tipo de relación causal o consecutiva guardan respectivamente?",
+      "context": "En Caacupé, se analiza la estructura profunda de las oraciones subordinadas adverbiales impropias de causa y consecuencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 es subordinada adverbial causal; 2 es subordinada adverbial consecutiva ponderativa.",
+          "is_correct": true,
+          "feedback": "¡Correcto! En 1 \"Como\" introduce la causa; en 2 \"tanto que\" pondera la intensidad para señalar la consecuencia."
+        },
+        {
+          "letter": "B",
+          "text": "Ambas son oraciones subordinadas causales puras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oración 2 presenta la estructura consecutiva intensiva \"tanto... que\"."
+        },
+        {
+          "letter": "C",
+          "text": "1 es subordinada concesiva y 2 es subordinada final.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No expresan objeción ni finalidad."
+        },
+        {
+          "letter": "D",
+          "text": "1 es consecutiva y 2 es condicional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La clasificación de las partículas y el sentido difieren."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El nexo 'Como' antepuesto al verbo expresa causa ('porque llovió'); mientras que la correlación 'tanto... que' constituye la fórmula típica de las oraciones consecutivas ponderativas.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.38,
+      "bundle_id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-v19",
+      "statement": "¿Cuál de las siguientes oraciones presenta una ambigüedad sintáctica debido a un defecto de colocación del modificador?",
+      "context": "En Pilar, se estudia la ambigüedad sintáctica originada por la mala posición de incisos o modificadores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El docente habló con los alumnos que estaban en el patio alegremente.",
+          "is_correct": true,
+          "feedback": "¡Correcto! No se aclara si los alumnos estaban alegremente en el patio o si el docente habló alegremente con ellos."
+        },
+        {
+          "letter": "B",
+          "text": "El docente habló alegremente con los alumnos en el patio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Modificador ubicado sin ambigüedad."
+        },
+        {
+          "letter": "C",
+          "text": "Alegremente, el docente habló con los alumnos en el patio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El adverbio al inicio modifica claramente al verbo \"habló\"."
+        },
+        {
+          "letter": "D",
+          "text": "Los alumnos que estaban en el patio conversaron con el docente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estructura transparente y sin ambigüedad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La posición pospuesta del adverbio 'alegremente' al final de la oración genera ambigüedad de adjunción, ya que puede modificar al verbo principal 'habló' o al verbo de la subordinada 'estaban'.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-v20",
+      "statement": "¿Qué diferencia semántica y funcional existe entre el conector contraargumentativo 'sin embargo' y el conector consecutivo 'por lo tanto'?",
+      "context": "En Concepción, se analizan los valores discursivos del conector 'sin embargo' frente a 'por lo tanto'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"sin embargo\" limita o rectifica lo dicho en el enunciado anterior; \"por lo tanto\" presenta la deducción o efecto lógico resultante.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Define con precisión la función adverso-rectificativa del primero frente a la relación de causalidad-efecto del segundo."
+        },
+        {
+          "letter": "B",
+          "text": "\"sin embargo\" añade información sumativa; \"por lo tanto\" introduce una duda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"sin embargo\" no es copulativo ni \"por lo tanto\" es dubitativo."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos conectores son intercambiables en cualquier contexto discursivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pertenecen a familias conectoras opuestas."
+        },
+        {
+          "letter": "D",
+          "text": "\"sin embargo\" se usa solo en textos poéticos y \"por lo tanto\" en textos dramáticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son marcadores discursivos de uso general en prosa expositiva y argumentativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Sin embargo' es un conector contraargumentativo que introduce una objeción o contraste con respecto a la premisa previa. 'Por lo tanto' es un marcador consecutivo que presenta la conclusión deducida.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "PY-LEN-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    }
+  ]
+}

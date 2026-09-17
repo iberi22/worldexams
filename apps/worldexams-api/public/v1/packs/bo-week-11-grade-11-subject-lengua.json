@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "bo",
+    "pack_id": "bo-week-11-grade-11-subject-lengua",
+    "generated_at": "2026-09-17T20:08:58.729Z"
+  },
+  "questions": [
+    {
+      "id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v1",
+      "statement": "¿A qué tipología textual corresponde el fragmento leído?",
+      "context": "En Santa Cruz, Jhonny en el Colegio Nacional Santa Cruz analiza el ejercicio #1: La planta fotovoltaica de Oruro genera 100 MW de energía limpia, abasteciendo a más de 100.000 hogares del altiplano mediante paneles de silicio monocristalino..",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Texto expositivo-informativo",
+          "is_correct": true,
+          "feedback": "¡Correcto! Presenta información técnica y datos objetivos verificables sin emitir juicios de valor."
+        },
+        {
+          "letter": "B",
+          "text": "Texto narrativo-literario",
+          "is_correct": false,
+          "feedback": "Incorrecto. No relata acciones de personajes de ficción."
+        },
+        {
+          "letter": "C",
+          "text": "Texto argumentativo de opinión",
+          "is_correct": false,
+          "feedback": "Incorrecto. No intenta persuadir ideológicamente sino informar datos."
+        },
+        {
+          "letter": "D",
+          "text": "Texto instructivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No indica pasos obligatorios para realizar un procedimiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El texto expositivo-informativo busca transmitir conocimientos objetivos y precisos sobre un hecho real.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la función del lenguaje y la intención comunicativa predominante?",
+      "context": "En Cochabamba, Marisol en el Colegio Nacional Sucre analiza el ejercicio #2: Debemos reducir el consumo de plásticos de un solo uso en nuestros mercados para preservar la biodiversidad de los valles y altiplano..",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Función apelativa o conativa para persuadir al lector sobre una acción ambiental",
+          "is_correct": true,
+          "feedback": "¡Correcto! Busca influir en la conducta del receptor motivando un cambio de hábitos."
+        },
+        {
+          "letter": "B",
+          "text": "Función poética para embellecer el idioma con rima",
+          "is_correct": false,
+          "feedback": "Incorrecto. No utiliza recursos de estética lírica."
+        },
+        {
+          "letter": "C",
+          "text": "Función fática para comprobar el canal",
+          "is_correct": false,
+          "feedback": "Incorrecto. No intenta verificar el medio de transmisión."
+        },
+        {
+          "letter": "D",
+          "text": "Función metalingüística para definir una regla gramatical",
+          "is_correct": false,
+          "feedback": "Incorrecto. No analiza el código del idioma."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La función apelativa o conativa se centra en el receptor con el objetivo de aconsejar, persuadir o motivar una acción.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.87,
+      "bundle_id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v3",
+      "statement": "¿Qué tipo de texto y estructura narrativa se presenta?",
+      "context": "En Sucre, Walter en el Colegio Nacional Junín analiza el ejercicio #3: El anciano se sentó bajo el molle y recordó los días en que el tren a vapor cruzaba la quebrada de Tupiza rumbo a la frontera..",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Texto narrativo con evocación en tercera persona",
+          "is_correct": true,
+          "feedback": "¡Correcto! Relata acciones situadas en un tiempo y espacio determinado."
+        },
+        {
+          "letter": "B",
+          "text": "Texto expositivo de divulgación científica",
+          "is_correct": false,
+          "feedback": "Incorrecto. No expone datos o teoremas científicos."
+        },
+        {
+          "letter": "C",
+          "text": "Texto instructivo normativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dicta normas ni reglamentos de obligatorio cumplimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Texto dramático teatral con acotaciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. No está escrito en formato de guion de representación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El texto narrativo relata acontecimientos reales o ficticios protagonizados por personajes en una secuencia temporal.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v4",
+      "statement": "¿Qué formato y tipología textual caracteriza a esta secuencia?",
+      "context": "En Potosí, Sonia en el Colegio Nacional Bolívar analiza el ejercicio #4: Para preparar un té de coca medicinal: 1. Hervir agua limpia. 2. Agregar tres hojas secas de coca. 3. Reposar durante cinco minutos antes de servir..",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Texto instructivo secuencial prescriptivo",
+          "is_correct": true,
+          "feedback": "¡Correcto! Presenta pasos ordenados cronológicamente para lograr un resultado."
+        },
+        {
+          "letter": "B",
+          "text": "Texto argumentativo ensayístico",
+          "is_correct": false,
+          "feedback": "Incorrecto. No defiende una postura filosófica con argumentos."
+        },
+        {
+          "letter": "C",
+          "text": "Texto lírico en verso libre",
+          "is_correct": false,
+          "feedback": "Incorrecto. Carece de métrica y ritmo poético."
+        },
+        {
+          "letter": "D",
+          "text": "Texto periodístico de opinión",
+          "is_correct": false,
+          "feedback": "Incorrecto. No expresa el punto de vista ideológico de un periódico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los textos instructivos guían al receptor de forma ordenada y clara para la realización de una tarea específica.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.81,
+      "bundle_id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el propósito comunicativo del autor de este texto de alerta ambiental?",
+      "context": "En Oruro, Ramiro en el Colegio Nacional Potosí analiza el ejercicio #5: Un informe ambiental concluye que la contaminación del lago Titicaca amenaza a las especies nativas como el suche y el karachi..",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Concienciar sobre el impacto ecológico de la contaminación en la fauna autóctona",
+          "is_correct": true,
+          "feedback": "¡Correcto! Busca sensibilizar e informar sobre el riesgo de pérdida de especies nativas."
+        },
+        {
+          "letter": "B",
+          "text": "Entretener al lector con una fábula sobre peces parlantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El informe ambiental no es un texto narrativo de ficción."
+        },
+        {
+          "letter": "C",
+          "text": "Promover el turismo masivo sin restricciones en el lago",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sería contradictorio con la alerta de preservación ecológica."
+        },
+        {
+          "letter": "D",
+          "text": "Enseñar la técnica gastronómica para cocinar el karachi",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un recetario culinario."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La intención comunicativa en un informe de alerta ambiental es generar concienciación y difundir la problemática ecológica.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v6",
+      "statement": "¿Qué tipo de narrador predomina en esta oración?",
+      "context": "En Tarija, Yolanda en el Colegio Nacional San Luis analiza el ejercicio #6: El anciano miró hacia el cerro Rico de Potosí y suspiró al recordar las largas jornadas de su juventud en las vetas de estaño..",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrador omnisciente en tercera persona",
+          "is_correct": true,
+          "feedback": "¡Correcto! Conoce los actos visibles ('miró') y los estados internos del personaje ('recordó')."
+        },
+        {
+          "letter": "B",
+          "text": "Narrador testigo en primera persona",
+          "is_correct": false,
+          "feedback": "Incorrecto. La narración no utiliza la primera persona 'yo'."
+        },
+        {
+          "letter": "C",
+          "text": "Narrador protagonista autobiográfico",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador no es el anciano que relata su propia vida."
+        },
+        {
+          "letter": "D",
+          "text": "Narrador de segunda persona apelativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se dirige al lector mediante el pronombre 'tú'."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El narrador omnisciente relata en tercera persona con conocimiento total de los pensamientos y emociones de los personajes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.74,
+      "bundle_id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v7",
+      "statement": "¿Qué rasgo caracteriza a la estructura de este texto instructivo?",
+      "context": "En Trinidad, Jaime en el Liceo Pantaleón Dalence analiza el ejercicio #7: Para solicitar el certificado de estudios en la secretaría del colegio: 1. Presentar cédula de identidad. 2. Adjuntar fotocopia de matrícula. 3. Cancelar la tasa administrativa..",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Uso de secuencias temporales u ordenadas mediante infinitivos o imperativos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Presenta pasos ordenados cronológicamente mediante verbos de acción."
+        },
+        {
+          "letter": "B",
+          "text": "Presencia de estrofas con rima consonante en cada instrucción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Carece de versificación poética."
+        },
+        {
+          "letter": "C",
+          "text": "Uso de metáforas complejas para describir los documentos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lenguaje instructivo es directo y denotativo."
+        },
+        {
+          "letter": "D",
+          "text": "Exposición de argumentos filosóficos a favor de la burocracia",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un texto ensayístico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los textos instructivos emplean un lenguaje claro, secuencial y prescriptivo para guiar las acciones del receptor.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v8",
+      "statement": "¿Qué relación lógica establece la locución 'A pesar de'?",
+      "context": "En Cobija, Marcela en el Colegio Don Bosco analiza el ejercicio #8: A pesar de las bajas temperaturas invernales en El Alto, las ferias comunitarias abrieron sus puestos desde la madrugada..",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Relación concesiva",
+          "is_correct": true,
+          "feedback": "¡Correcto! Introduce un obstáculo (frío intenso) que no impide la realización de la acción principal (abrir los puestos)."
+        },
+        {
+          "letter": "B",
+          "text": "Relación explicativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aclara una definición previa."
+        },
+        {
+          "letter": "C",
+          "text": "Relación disyuntiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. No presenta dos opciones excluyentes."
+        },
+        {
+          "letter": "D",
+          "text": "Relación condicional",
+          "is_correct": false,
+          "feedback": "Incorrecto. No supedita la acción a una condición previa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los conectores concesivos (a pesar de, aunque) señalan un impedimento superado por la acción principal.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.66,
+      "bundle_id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v9",
+      "statement": "¿Qué función del lenguaje predomina en este escrito científico?",
+      "context": "En El Alto, Grover en el Colegio San Calixto analiza el ejercicio #9: El texto expositivo sobre la quinua real destaca sus valores nutricionales, su cultivo milenario y su resistencia a las heladas altiplánicas..",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Función referencial o representativa",
+          "is_correct": true,
+          "feedback": "¡Correcto! Centrada en transmitir contenidos objetivos sobre la realidad."
+        },
+        {
+          "letter": "B",
+          "text": "Función emotiva o expresiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. No busca expresar sentimientos íntimos del autor."
+        },
+        {
+          "letter": "C",
+          "text": "Función apelativa o conativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No busca dar órdenes ni influir en la conducta directa del receptor."
+        },
+        {
+          "letter": "D",
+          "text": "Función fática o de contacto",
+          "is_correct": false,
+          "feedback": "Incorrecto. No intenta comprobar el funcionamiento del canal comunicativo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La función referencial se enfoca en el contexto y el mensaje informativo objetivo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v10",
+      "statement": "¿Qué figura estilística destaca en este verso?",
+      "context": "En La Paz, Carlos en el Colegio Nacional Ayacucho analiza el ejercicio #10: En la frase 'El majestuoso Illimani custodiaba en silencio el valle paceño', ¿qué figura estilística se emplea?.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Personificación o prosopopeya",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se atribuye una acción humana ('custodiaba') a un elemento inanimado (la montaña)."
+        },
+        {
+          "letter": "B",
+          "text": "Hipérbaton",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden sintáctico Sujeto + Verbo + Objeto se mantiene regular."
+        },
+        {
+          "letter": "C",
+          "text": "Símil",
+          "is_correct": false,
+          "feedback": "Incorrecto. No utiliza nexos de comparación como 'como' o 'semejante a'."
+        },
+        {
+          "letter": "D",
+          "text": "Onomatopeya",
+          "is_correct": false,
+          "feedback": "Incorrecto. No imita sonidos de la naturaleza."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La personificación atribuye cualidades o acciones humanas a objetos inanimados o elementos naturales.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la función del párrafo de conclusión en este tipo de escrito?",
+      "context": "En Santa Cruz, Ana en el Colegio Nacional Santa Cruz analiza el ejercicio #11: Un ensayo sobre la educación intercultural bilingüe sostiene que la enseñanza en lengua materna fortalece la identidad de los niños..",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sintetizar los argumentos principales y reafirmar la tesis defendida",
+          "is_correct": true,
+          "feedback": "¡Correcto! El cierre integra las razones expuestas para consolidar la posición del autor."
+        },
+        {
+          "letter": "B",
+          "text": "Presentar por primera vez datos estadísticos no mencionados antes",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conclusión no debe incorporar argumentos completamente nuevos."
+        },
+        {
+          "letter": "C",
+          "text": "Redactar un cuento ficticio alejado del tema central",
+          "is_correct": false,
+          "feedback": "Incorrecto. Rompería la unidad temático-argumentativa del ensayo."
+        },
+        {
+          "letter": "D",
+          "text": "Formular preguntas al azar sin ofrecer ninguna postura final",
+          "is_correct": false,
+          "feedback": "Incorrecto. El objetivo del ensayo es defender una tesis concluyente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La conclusión sintetiza lo desarrollado en el cuerpo y reafirma la tesis central del ensayo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v12",
+      "statement": "¿Qué tipo de texto periodístico es la editorial?",
+      "context": "En Cochabamba, Marcos en el Colegio Nacional Sucre analiza el ejercicio #12: En la editorial de un periódico local se afirma: 'Es imprescindible invertir en sistemas de riego para proteger la producción agrícola frente a la sequía'..",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Texto periodístico de opinión institucional",
+          "is_correct": true,
+          "feedback": "¡Correcto! Expresa la postura o línea ideológica del medio de comunicación sobre un tema de interés público."
+        },
+        {
+          "letter": "B",
+          "text": "Noticia de última hora de la sección policial",
+          "is_correct": false,
+          "feedback": "Incorrecto. La noticia es un texto informativo neutro, no de opinión institucional."
+        },
+        {
+          "letter": "C",
+          "text": "Crónica narrativa de viaje",
+          "is_correct": false,
+          "feedback": "Incorrecto. La crónica relata sucesos con orden temporal y estilo personal."
+        },
+        {
+          "letter": "D",
+          "text": "Anuncio publicitario comercial",
+          "is_correct": false,
+          "feedback": "Incorrecto. No busca vender un producto ni servicio mercantil."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El editorial refleja la posición valorativa e ideológica oficial del periódico frente a un hecho relevante.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v13",
+      "statement": "¿A qué categoría pertenecen estos conectores?",
+      "context": "En Sucre, Lidia en el Colegio Nacional Junín analiza el ejercicio #13: El texto explicativo utiliza conectores como 'es decir', 'esto es' o 'en otras palabras' para aclarar conceptos complejos..",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conectores explicativos o de paráfrasis",
+          "is_correct": true,
+          "feedback": "¡Correcto! Reexpresan una idea con mayor claridad para facilitar la comprensión del lector."
+        },
+        {
+          "letter": "B",
+          "text": "Conectores de causa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No indican el origen de un fenómeno."
+        },
+        {
+          "letter": "C",
+          "text": "Conectores de oposición",
+          "is_correct": false,
+          "feedback": "Incorrecto. No introducen contradicciones."
+        },
+        {
+          "letter": "D",
+          "text": "Conectores de conclusión",
+          "is_correct": false,
+          "feedback": "Incorrecto. No marcan el cierre del discurso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los conectores explicativos o aclaratorios reformulan lo dicho anteriormente para precisar su sentido.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.52,
+      "bundle_id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v14",
+      "statement": "¿Qué estructura caracteriza a este intercambio comunicativo?",
+      "context": "En Potosí, Andrés en el Colegio Nacional Bolívar analiza el ejercicio #14: En un debate escolar sobre la inteligencia artificial, el primer ponente expone los avances en medicina y el segundo advierte sobre el desempleo..",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estructura dialógica o argumentativa contrapuesta",
+          "is_correct": true,
+          "feedback": "¡Correcto! Dos emisores presentan posturas y argumentos divergentes sobre un mismo tema."
+        },
+        {
+          "letter": "B",
+          "text": "Estructura monológica poética",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una declamación individual de versos."
+        },
+        {
+          "letter": "C",
+          "text": "Estructura instructiva secuencial",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un conjunto de reglas paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "Estructura narrativa en tercera persona",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un debate en vivo con intervención de hablantes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El debate es una técnica de discusión oral estructurada dialógicamente entre posturas diversas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.49,
+      "bundle_id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es la ventaja cognitiva de emplear un mapa conceptual como técnica de estudio?",
+      "context": "En Oruro, Zulma en el Colegio Nacional Potosí analiza el ejercicio #15: Un mapa conceptual sintetiza las características del texto científico en nodos interconectados con palabras enlace..",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Jerarquizar la información y visibilizar las relaciones lógicas entre conceptos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Facilita la comprensión global mediante la organización visual estructurada."
+        },
+        {
+          "letter": "B",
+          "text": "Aumentar el número de páginas de un trabajo escolar sin aportar contenido",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se busca volumen sino síntesis lógica."
+        },
+        {
+          "letter": "C",
+          "text": "Sustituir la lectura completa del libro por la memorización mecánica de letras",
+          "is_correct": false,
+          "feedback": "Incorrecto. Requiere análisis previo de comprensión."
+        },
+        {
+          "letter": "D",
+          "text": "Convertir un texto técnico en una composición poética",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mantiene el sentido lógico y académico original."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los mapas conceptuales organizan visualmente el conocimiento jerarquizando ideas principales y secundarias.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.46,
+      "bundle_id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v16",
+      "statement": "¿Qué tipo de coma se utiliza en la serie enumerativa?",
+      "context": "En Tarija, Rosmery en el Colegio Nacional San Luis analiza el ejercicio #16: En la oración 'Compraron frutas, verduras, hortalizas y cereales en la feria de la semana', ¿qué función cumple la coma empleada?.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Coma enumerativa",
+          "is_correct": true,
+          "feedback": "¡Correcto! Separa elementos análogos de una serie o lista de palabras."
+        },
+        {
+          "letter": "B",
+          "text": "Coma vocativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aísla al interlocutor a quien se dirige la palabra."
+        },
+        {
+          "letter": "C",
+          "text": "Coma elíptica",
+          "is_correct": false,
+          "feedback": "Incorrecto. No sustituye a un verbo omitido."
+        },
+        {
+          "letter": "D",
+          "text": "Coma hiperbática",
+          "is_correct": false,
+          "feedback": "Incorrecto. No señala la inversión del orden sintáctico regular."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La coma enumerativa se usa para separar los miembros de una enumeración equivalente.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.43,
+      "bundle_id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v17",
+      "statement": "¿Qué fenómeno enriquece la dimensión cultural y semántica del poema?",
+      "context": "En Trinidad, Willy en el Liceo Pantaleón Dalence analiza el ejercicio #17: Un poema dedicado a la cosecha de la papa utiliza palabras como 'pachamama', 'suka kollu' y 'manka'..",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Interculturalidad y presencia de vocabulario originario (quechua/aymara)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El léxico originario aporta densidad cultural e identidad al texto lírico."
+        },
+        {
+          "letter": "B",
+          "text": "Neologismo tecnológico de la informática moderna",
+          "is_correct": false,
+          "feedback": "Incorrecto. No son términos creados por la cibernética."
+        },
+        {
+          "letter": "C",
+          "text": "Vicio del lenguaje denominado solecismo gramatical",
+          "is_correct": false,
+          "feedback": "Incorrecto. La inclusión léxica originaria no es una falta sintáctica."
+        },
+        {
+          "letter": "D",
+          "text": "Extranjerismo anglicismo de origen norteamericano",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son vocablos originarios andinos, no del inglés."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La poesía boliviana integra términos de lenguas originarias expresando la riqueza plurinacional e intercultural.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v18",
+      "statement": "¿Qué nivel de comprensión lectora está ejerciendo el estudiante al separar hechos de opiniones?",
+      "context": "En Cobija, Teresa en el Colegio Don Bosco analiza el ejercicio #18: Al analizar un artículo periodístico, el estudiante distingue entre los hechos comprobables y los juicios de valor del redactor..",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comprensión crítica o evaluativa",
+          "is_correct": true,
+          "feedback": "¡Correcto! Implica juzgar la validez, la neutralidad y la intención del texto distinguiendo datos de juicios."
+        },
+        {
+          "letter": "B",
+          "text": "Comprensión literal básica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lectura literal se limita a identificar datos explícitos."
+        },
+        {
+          "letter": "C",
+          "text": "Comprensión fonética elemental",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fonética atañe a la pronunciación de sonidos."
+        },
+        {
+          "letter": "D",
+          "text": "Comprensión mecánica memorística",
+          "is_correct": false,
+          "feedback": "Incorrecto. Memorizar no implica discernir la calidad argumentativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La lectura crítica evalúa el contenido distinguiendo entre evidencia objetiva (hechos) y valoraciones subjetivas (opiniones).\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.38,
+      "bundle_id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v19",
+      "statement": "¿Qué recurso retórico se emplea en esta frase?",
+      "context": "En El Alto, Felipe en el Colegio San Calixto analiza el ejercicio #19: En la frase 'El silencio de la noche altiplánica era tan profundo que se escuchaba el latido de las estrellas', ¿qué figura literaria destaca?.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hipérbole o exaggeración poética",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se exagera la percepción del silencio hasta un límite irreal y poético."
+        },
+        {
+          "letter": "B",
+          "text": "Anáfora",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay repetición de palabras al inicio de los versos."
+        },
+        {
+          "letter": "C",
+          "text": "Antítesis",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se contraponen dos palabras antonímicas directas."
+        },
+        {
+          "letter": "D",
+          "text": "Metonimia",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se designa una cosa con el nombre de otra por continuidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La hipérbole es una figura retórica que consiste en exagerar de forma magnificada la realidad para lograr un efecto expresivo.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.34,
+      "bundle_id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle-v20",
+      "statement": "¿Qué función pragmática cumple un texto de referencia bibliográfica?",
+      "context": "En La Paz, Roxana en el Colegio Nacional Ayacucho analiza el ejercicio #20: Un catálogo bibliográfico organiza las obras por autor, título, año de edición, editorial y resumen temático..",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Facilitar la localización y selección de fuentes de información para la investigación",
+          "is_correct": true,
+          "feedback": "¡Correcto! Permite a los investigadores identificar y ubicar las fuentes documentales requeridas."
+        },
+        {
+          "letter": "B",
+          "text": "Expresar los sentimientos de tristeza del bibliotecario",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un diario íntimo ni escrito personal."
+        },
+        {
+          "letter": "C",
+          "text": "Enseñar a pintar cuadros al óleo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se relaciona con las artes plásticas manuales."
+        },
+        {
+          "letter": "D",
+          "text": "Publicar decretos supremos del poder ejecutivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una gaceta jurídica oficial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los textos referenciales o bibliográficos permiten catalogar y ubicar sistemáticamente la producción intelectual.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "BO-LEN-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    }
+  ]
+}

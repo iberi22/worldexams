@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "py",
+    "pack_id": "py-week-11-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-09-17T20:08:59.662Z"
+  },
+  "questions": [
+    {
+      "id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-v1",
+      "statement": "¿Qué término ecológico define al grupo de individuos de la misma especie de yaguareté (Panthera onca) que habita una misma área geográfica en un momento determinado?",
+      "context": "En el Parque Nacional Defensores del Chaco en Bahía Negra, un equipo de estudiantes del Colegio Nacional de la Capital evalúa la fauna nativa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Población",
+          "is_correct": true,
+          "feedback": "¡Correcto! Una población es el conjunto de individuos de una misma especie que coexisten en el mismo espacio y tiempo interactuando entre sí."
+        },
+        {
+          "letter": "B",
+          "text": "Bioma",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un bioma representa una gran unidad comunitaria biogeográfica definida por clima y vegetación a escala global."
+        },
+        {
+          "letter": "C",
+          "text": "Biosfera",
+          "is_correct": false,
+          "feedback": "Incorrecto. La biosfera abarca la totalidad de las zonas de la Tierra donde se desarrolla la vida."
+        },
+        {
+          "letter": "D",
+          "text": "Nicho ecológico",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nicho ecológico describe la función u oficio ecológico de la especie, no al grupo de individuos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de población es la unidad fundamental de estudio ecológico para analizar densidades, tasas de natalidad y dinámicas de conservación en especies amenazadas del Chaco.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-v2",
+      "statement": "¿Qué parámetro demográfico mide el número total de individuos de una especie por unidad de superficie o volumen de hábitat?",
+      "context": "Durante una gira de estudios en la Reserva Natural Mbaracayú en Canindeyú, María investiga los factores que regulan el tamaño de las poblaciones de tapires.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Densidad poblacional",
+          "is_correct": true,
+          "feedback": "¡Correcto! La densidad poblacional cuantifica la concentración de organismos en un espacio determinado (ej. individuos/km²)."
+        },
+        {
+          "letter": "B",
+          "text": "Tasa de emigración",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tasa de emigración expresa la cantidad de individuos que abandonan un área."
+        },
+        {
+          "letter": "C",
+          "text": "Capacidad de carga",
+          "is_correct": false,
+          "feedback": "Incorrecto. La capacidad de carga es el número máximo de individuos que un ambiente puede sostener en el tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "Potencial biótico",
+          "is_correct": false,
+          "feedback": "Incorrecto. El potencial biótico representa la máxima capacidad reproductiva teórica en condiciones ideales sin resistencia ambiental."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La densidad poblacional permite determinar la salud demográfica de mamíferos grandes y evaluar el impacto de la fragmentación de bosques en la Región Oriental.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-v3",
+      "statement": "¿Qué nombre recibe la máxima capacidad reproductiva que posee una especie biológica bajo condiciones ambientales ideales sin restricciones de alimento o espacio?",
+      "context": "En el departamento de Alto Paraná, la fauna del Bosque Atlántico (BAAPA) enfrenta amenazas por la expansión de monocultivos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Potencial biótico",
+          "is_correct": true,
+          "feedback": "¡Correcto! El potencial biótico representa la capacidad intrínseca máxima de incremento poblacional bajo condiciones idílicas."
+        },
+        {
+          "letter": "B",
+          "text": "Resistencia ambiental",
+          "is_correct": false,
+          "feedback": "Incorrecto. La resistencia ambiental es la suma de factores bióticos y abióticos que limitan el crecimiento poblacional."
+        },
+        {
+          "letter": "C",
+          "text": "Estructura etaria",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estructura etaria se refiere a la distribución por edades de los individuos en una población."
+        },
+        {
+          "letter": "D",
+          "text": "Curva de supervivencia tipo III",
+          "is_correct": false,
+          "feedback": "Incorrecto. La curva de supervivencia tipo III describe alta mortalidad en etapas tempranas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El potencial biótico contrasta con la resistencia ambiental real, mostrando la diferencia entre la capacidad reproductiva teórica y el crecimiento real observado en la naturaleza.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.79,
+      "bundle_id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-v4",
+      "statement": "¿Qué tipo de gráfico de crecimiento poblacional presenta una forma de curva en \"J\" cuando los recursos son ilimitados y no hay resistencia ambiental?",
+      "context": "Estudiantes de San Pedro analizan el crecimiento de peces en la cuenca del Río Paraguay cuando los nutrientes y el oxígeno son abundantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Crecimiento exponencial",
+          "is_correct": true,
+          "feedback": "¡Correcto! El crecimiento exponencial genera una curva en J representativa de poblaciones en fase de expansión sin restricciones de recursos."
+        },
+        {
+          "letter": "B",
+          "text": "Crecimiento logístico",
+          "is_correct": false,
+          "feedback": "Incorrecto. El crecimiento logístico describe una curva en S con estabilización en la capacidad de carga (K)."
+        },
+        {
+          "letter": "C",
+          "text": "Curva de oscilación caótica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las oscilaciones caóticas reflejan variaciones impredecibles sin un patrón geométrico continuo."
+        },
+        {
+          "letter": "D",
+          "text": "Crecimiento regresivo lineal",
+          "is_correct": false,
+          "feedback": "Incorrecto. El crecimiento regresivo implica disminución progresiva de la población en pendiente constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El crecimiento exponencial es característico de especies colonizadoras o plagas introducidas en ausencia de depredadores o límites de recursos en ecosistemas acuáticos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-v5",
+      "statement": "¿Cómo se denomina el número máximo de individuos de una población que un hábitat específico puede mantener indefinidamente sin deteriorar el ambiente (simbolizado por K)?",
+      "context": "En el Parque Nacional Ybycuí en Paraguarí, los guardaparques estudian el equilibrio ecológico entre los recursos disponibles y las poblaciones de venados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Capacidad de carga",
+          "is_correct": true,
+          "feedback": "¡Correcto! La capacidad de carga (K) representa el límite ambiental sustentable determinado por recursos como agua, alimento y abrigo."
+        },
+        {
+          "letter": "B",
+          "text": "Punto de equilibrio genético",
+          "is_correct": false,
+          "feedback": "Incorrecto. El punto de equilibrio genético atañe a las frecuencias alélicas de Hardy-Weinberg."
+        },
+        {
+          "letter": "C",
+          "text": "Límite metabólico poblacional",
+          "is_correct": false,
+          "feedback": "Incorrecto. Término no utilizado en ecología de poblaciones para describir la sustentabilidad del hábitat."
+        },
+        {
+          "letter": "D",
+          "text": "Densidad crítica de escasez",
+          "is_correct": false,
+          "feedback": "Incorrecto. No describe el umbral máximo sustentable del hábitat sino estados de peligro de extinción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La capacidad de carga determina la estabilidad a largo plazo en modelos logísticos de crecimiento poblacional (curva sigmoidea en S).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-v6",
+      "statement": "¿Cuál de los siguientes factores reguladores del crecimiento poblacional actúa como un factor dependiente de la densidad?",
+      "context": "Biólogos en Encarnación observan cómo la sequía severa en los humedales de Ñeembucú afecta la disponibilidad de alimento para aves migratorias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La competencia intraespecífica por alimento",
+          "is_correct": true,
+          "feedback": "¡Correcto! La competencia por alimento se intensifica a medida que aumenta la densidad poblacional, reduciendo la natalidad o supervivencia."
+        },
+        {
+          "letter": "B",
+          "text": "Una helada extrema e inesperada en invierno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los eventos climáticos extremos son factores independientes de la densidad ya que afectan a los individuos sin importar su número."
+        },
+        {
+          "letter": "C",
+          "text": "Una erupción volcánica lejana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las catástrofes físicas son factores densoindependientes."
+        },
+        {
+          "letter": "D",
+          "text": "Un incendio forestal catastrófico accidental",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los incendios causan mortalidad sin depender de la densidad previa de la población."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los factores dependientes de la densidad (competencia, depredación, parasitismo) estabilizan a las poblaciones cerca de su capacidad de carga mediante retroalimentación negativa.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-v7",
+      "statement": "Las especies catalogadas como estrategas \"k\" (como el tapir o el yaguareté) se caracterizan por presentar:",
+      "context": "En la Reserva de la Biosfera del Chaco, se analiza la estrategia reproductiva de las especies de peces anuales del Riacho He'ẽ versus mamíferos grandes como el tapir.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Maduración lenta, pocos descendientes por camada y alta inversión de cuidado parental",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los estrategas k invierten mucha energía en pocas crías asegurando alta supervivencia en ambientes estables."
+        },
+        {
+          "letter": "B",
+          "text": "Maduración veloz, alta fecundidad y nulo cuidado de las crías",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este patrón describe a los estrategas r (como insectos o peces pequeños)."
+        },
+        {
+          "letter": "C",
+          "text": "Alta tasa de mortalidad de los adultos y vida muy corta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los estrategas k suelen tener larga esperanza de vida y baja mortalidad adulta."
+        },
+        {
+          "letter": "D",
+          "text": "Crecimiento exponencial ilimitado tipo J continuo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los estrategas k mantienen sus poblaciones cerca de la capacidad de carga K del ecosistema."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender las estrategias r/k permite planificar la conservación: los estrategas k son más vulnerables a la extinción ante la pérdida de hábitat por su baja tasa reproductiva.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-v8",
+      "statement": "¿Qué patrón de distribución espacial presentan los árboles de una especie cuando los recursos están repartidos uniformemente y existe competencia territorial entre ellos?",
+      "context": "Un equipo de investigadoras de la Universidad Nacional de Asunción estudia la dispersión espacial del lapacho rosado (Handroanthus impetiginosus) en un bosque seco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Distribución uniforme (o regular)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La distribución uniforme surge por interacciones antagónicas o competencia directa que genera distancias regulares entre individuos."
+        },
+        {
+          "letter": "B",
+          "text": "Distribución agrupada (o en parches)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La distribución agrupada es la más común y se debe a recursos heterogéneos o comportamiento social."
+        },
+        {
+          "letter": "C",
+          "text": "Distribución aleatoria (o al azar)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La distribución aleatoria ocurre en ambientes homogéneos sin atracciones ni repulsiones entre individuos."
+        },
+        {
+          "letter": "D",
+          "text": "Distribución estocástica asimétrica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Término genérico no estandarizado para los tres patrones espaciales ecológicos clásicos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los patrones espaciales (agrupado, uniforme, aleatorio) entregan pistas clave sobre las interacciones ecológicas y la disponibilidad de recursos en el terreno.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.64,
+      "bundle_id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-v9",
+      "statement": "¿Qué fenómeno ecológico ocurre cuando un hábitat continuo se divide en fragmentos pequeños y desconectados, aumentando los efectos de borde y reduciendo la variabilidad genética?",
+      "context": "En el Chaco Central, la deforestación para pastizales rompe los bloques continuos de monte en parches aislados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fragmentación del hábitat",
+          "is_correct": true,
+          "feedback": "¡Correcto! La fragmentación del hábitat aisla poblaciones pequeñas reduciendo el flujo génico y aumentando el riesgo de extirpación local."
+        },
+        {
+          "letter": "B",
+          "text": "Especiación simpátrica inmediata",
+          "is_correct": false,
+          "feedback": "Incorrecto. La especiación simpátrica ocurre sin barreras geográficas ni fragmentación en la misma área."
+        },
+        {
+          "letter": "C",
+          "text": "Sucesión ecológica primaria",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sucesión primaria se inicia en sustratos vírgenes sin suelo previo como lavas volcánicas."
+        },
+        {
+          "letter": "D",
+          "text": "Biomagnificación trófica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La biomagnificación es el aumento concentrado de contaminantes en niveles tróficos superiores."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fragmentación del hábitat es la principal causa de pérdida de biodiversidad en la Región Oriental y Occidental de Paraguay.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.61,
+      "bundle_id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-v10",
+      "statement": "¿Cuál es la función ecológica principal de los \"corredores biológicos\" en las estrategias de conservación de la naturaleza?",
+      "context": "Técnicos del Ministerio del Ambiente y Desarrollo Sostenible (MADES) diseñan corredores biológicos entre reservas de Canindeyú y San Pedro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permitir el desplazamiento de fauna entre fragmentos aislados para mantener el flujo génico",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los corredores biológicos conectan parches forestales reduciendo los impactos del aislamiento genético y la endogamia."
+        },
+        {
+          "letter": "B",
+          "text": "Fomentar la agricultura intensiva de cereales dentro de las reservas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los corredores buscan proteger la conectividad natural, no intensificar el uso agropecuario."
+        },
+        {
+          "letter": "C",
+          "text": "Eliminar la totalidad de depredadores tope de la cadena trófica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La eliminación de depredadores altera drásticamente el equilibrio de los ecosistemas."
+        },
+        {
+          "letter": "D",
+          "text": "Aumentar la tasa de deforestación legal en la zona de amortiguamiento",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los corredores biológicos reducen la vulnerabilidad de las especies frente al cambio de uso de suelo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los corredores biológicos restablecen la conectividad paisajística y sostienen metapoblaciones saludables a escala regional.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.58,
+      "bundle_id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-v11",
+      "statement": "Al analizar el impacto de una especie exótica invasora en un ecosistema dulceacuícola, ¿por qué motivo suele multiplicarse rápidamente afectando a las especies nativas?",
+      "context": "Un estudio en el Pantanal paraguayo analiza cómo la introducción del mejillón dorado (Limnoperna fortunei) altera las comunidades de bentos locales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Carece de depredadores naturales, parásitos y competidores adaptados en el nuevo ambiente",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ausencia de controles biológicos en el nuevo ecosistema permite a las especies invasoras aprovechar recursos sin la resistencia ambiental nativa."
+        },
+        {
+          "letter": "B",
+          "text": "Reduce su potencial biótico a cero al ingresar a un nuevo cuerpo de agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las invasoras exitosas suelen poseer alto potencial biótico y rápida reproducción."
+        },
+        {
+          "letter": "C",
+          "text": "Su masa corporal disminuye drásticamente evitando ser consumida",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tamaño corporal no es la causa principal de su éxito colonizador frente a competidores nativos."
+        },
+        {
+          "letter": "D",
+          "text": "Induce la especiación instantánea de todas las especies autóctonas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las especies invasoras causan desplazamiento o extinción local, no especiación inmediata de las especies nativas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las especies exóticas invasoras representan una grave amenaza ecológica porque desestabilizan las redes tróficas y alteran los servicios ecosistémicos nativos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-v12",
+      "statement": "¿Qué proceso de desarrollo comunitario se observa cuando un área previamente perturbada con suelo conservado es recolonizada gradualmente por yerbas, arbustos y finalmente árboles?",
+      "context": "En una parcela abandonada de cultivo en Paraguarí, los estudiantes registran los cambios en la vegetación a lo largo de 15 años.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sucesión ecológica secundaria",
+          "is_correct": true,
+          "feedback": "¡Correcto! La sucesión secundaria ocurre en terrenos donde la vegetación fue eliminada pero el suelo y su banco de semillas permanecen intactos."
+        },
+        {
+          "letter": "B",
+          "text": "Sucesión ecológica primaria",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sucesión primaria parte de roca desnuda o sustratos sin suelo previo de origen."
+        },
+        {
+          "letter": "C",
+          "text": "Climax de extinción masiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. El estado clímax es la etapa madura y estable de un ecosistema, no un estado de extinción."
+        },
+        {
+          "letter": "D",
+          "text": "Regresión estocástica de nutrientes",
+          "is_correct": false,
+          "feedback": "Incorrecto. La recuperación vegetal acumula biomasa y nutrientes en lugar de experimentar regresiones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La sucesión secundaria describe la capacidad de resiliencia ecosistémica tras perturbaciones como incendios o abandono de parcelas agrícolas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.52,
+      "bundle_id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-v13",
+      "statement": "¿Por qué un monocultivo de árboles exóticos presenta una biodiversidad notablemente menor que un bosque nativo natural de la misma extensión?",
+      "context": "Investigadores comparan la diversidad alfa de artrópodos en el Parque Nacional Paso Bravo (Concepción) frente a una plantación de eucaliptos adyacente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ofrece menor variedad de nichos ecológicos, recursos alimenticios y microhábitats para la fauna nativa",
+          "is_correct": true,
+          "feedback": "¡Correcto! La homogeneidad estructural del monocultivo limita drásticamente la diversidad de nichos alimenticios y de refugio."
+        },
+        {
+          "letter": "B",
+          "text": "Produce mayor cantidad de nitrógeno atmosférico que destruye a los insectos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los árboles no liberan nitrógeno gaseoso destructor a la atmósfera."
+        },
+        {
+          "letter": "C",
+          "text": "Aumenta la diversidad de herbívoros especialistas de forma ilimitada",
+          "is_correct": false,
+          "feedback": "Incorrecto. La escasez de flora nativa disminuye los herbívoros especialistas autóctonos."
+        },
+        {
+          "letter": "D",
+          "text": "Impide la fotosíntesis de las capas superiores del dosel forestal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las copas de las plantaciones realizan fotosíntesis con normalidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La complejidad estructural y florística del bosque nativo soporta una vasta red de interacciones biológicas que no pueden ser replicadas por monocultivos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.49,
+      "bundle_id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-v14",
+      "statement": "Si una enfermedad viral eliminara al 90% de la población de carpinchos en un humedal, ¿cuál sería la consecuencia ecológica inmediata en el nivel trófico superior?",
+      "context": "En el Chaco Húmedo, se examina el rol del carpincho (Hydrochoerus hydrochaeris) como presa fundamental de caimanes y yaguaretés.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Intensa competencia y declive poblacional entre depredadores superiores por escasez de presas",
+          "is_correct": true,
+          "feedback": "¡Correcto! La reducción drástica de una presa clave disminuye la energía disponible para los carnívoros del nivel superior."
+        },
+        {
+          "letter": "B",
+          "text": "Incremento instantáneo en la población de yaguaretés por mayor espacio libre",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin alimento, los depredadores sufren desnutrición y caída en la tasa natal."
+        },
+        {
+          "letter": "C",
+          "text": "Transformación de los depredadores en consumidores primarios fotosintéticos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las adaptaciones tróficas carnívoras no cambian a autótrofas por falta de alimento."
+        },
+        {
+          "letter": "D",
+          "text": "Extinción total e inmediata de la vegetación acuática del humedal",
+          "is_correct": false,
+          "feedback": "Incorrecto. La disminución de herbívoros tiende a aumentar temporalmente la biomasa vegetal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las redes tróficas transmiten perturbaciones entre niveles: los cambios en la abundancia de consumidores primarios se propagan en cascada hacia los depredadores.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.46,
+      "bundle_id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-v15",
+      "statement": "Una especie que presenta una curva de supervivencia Tipo I se distingue fundamentalmente por:",
+      "context": "Se analizan las curvas de supervivencia de dos especies del Chaco: la tortuga de pata roja (Chelonoidis carbonarius) y el taguá (Catagonus wagneri).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Elevada supervivencia en las etapas juveniles y mayor mortalidad en la vejez",
+          "is_correct": true,
+          "feedback": "¡Correcto! La curva Tipo I (típica de humanos y grandes mamíferos) muestra alta supervivencia temprana debido a cuidados parentales."
+        },
+        {
+          "letter": "B",
+          "text": "Mortalidad masiva constante e igual en todas las edades de la vida",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una tasa de mortalidad constante e independiente de la edad define a las curvas Tipo II (aves, reptiles)."
+        },
+        {
+          "letter": "C",
+          "text": "Alta mortalidad en embriones y crías recién nacidas con sobrevivencia reducida en adultos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este patrón corresponde a las curvas Tipo III (peces, anfibios, plantas)."
+        },
+        {
+          "letter": "D",
+          "text": "Crecimiento lineal sin muertes registradas durante décadas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todas las poblaciones biológicas experimentan mortalidad en su ciclo vital."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las curvas de supervivencia (Tipos I, II y III) resumen las estrategias de historia de vida de las poblaciones de acuerdo al riesgo de mortalidad por edades.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.43,
+      "bundle_id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-v16",
+      "statement": "¿Cuál es la consecuencia genética directa que sufren las poblaciones pequeñas aisladas debido a la endogamia sostenida en fragmentos forestales?",
+      "context": "En el marco de la Convención CITES, Paraguay regula el comercio de fauna silvestre de la cuenca del Plata.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumento de la homocigosis y manifestación de alelos recesivos deletéreos",
+          "is_correct": true,
+          "feedback": "¡Correcto! La endogamia en poblaciones reducidas eleva la homocigosis, exponiendo mutaciones dañinas y reduciendo la aptitud (depresión endogámica)."
+        },
+        {
+          "letter": "B",
+          "text": "Incremento sostenido de la heterocigosis y vigor híbrido natural",
+          "is_correct": false,
+          "feedback": "Incorrecto. La variabilidad genética y la heterocigosis disminuyen con la endogamia."
+        },
+        {
+          "letter": "C",
+          "text": "Mutación espontánea defensiva que triplica el ADN en una generación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mutaciones son eventos aleatorios y no se inducen como respuesta adaptativa intencional."
+        },
+        {
+          "letter": "D",
+          "text": "Resistencia instantánea contra todas las enfermedades infecciosas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La baja diversidad genética incrementa la susceptibilidad colectiva a epidemias."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La genética de la conservación advierte que la pérdida de diversidad alélica reduce la resiliencia de las especies amenazadas ante cambios ambientales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.4,
+      "bundle_id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-v17",
+      "statement": "Al evaluar el cambio de uso de suelo en la Región Occidental del Paraguay, ¿cuál es el impacto ecológico global más crítico respecto al cambio climático?",
+      "context": "Un seminario ambiental en Asunción evalúa el impacto de la conversión del bosque seco chaqueño en pastizales ganaderos sobre el ciclo del carbono.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Liberación masiva del carbono almacenado en la biomasa forestal y disminución de la capacidad de absorción de CO2",
+          "is_correct": true,
+          "feedback": "¡Correcto! La deforestación convierte sumideros netos de carbono en fuentes emisoras de CO2 a la atmósfera, acelerando el calentamiento global."
+        },
+        {
+          "letter": "B",
+          "text": "Enfriamiento acelerado de la temperatura atmosférica por pérdida de vegetación",
+          "is_correct": false,
+          "feedback": "Incorrecto. La quema y pérdida de bosques aumenta los gases de efecto invernadero y la temperatura."
+        },
+        {
+          "letter": "C",
+          "text": "Eliminación completa de los rayos ultravioleta sobre la superficie terrestre",
+          "is_correct": false,
+          "feedback": "Incorrecto. La radiación UV depende del ozono estratosférico, no de la cubierta forestal terrestre."
+        },
+        {
+          "letter": "D",
+          "text": "Absorción instantánea del metano por los suelos desnudos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ganadería extensiva asociada incrementa las emisiones de metano, no su absorción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La conservación de los biomas nativos de Paraguay es vital para el balance del carbono y el cumplimiento de los compromisos climáticos internacionales.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.37,
+      "bundle_id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-v18",
+      "statement": "¿Qué proceso de alteración hídrica, derivado del vertido de efluentes urbanos y agrícolas ricos en fósforo y nitrógeno, desencadena esta proliferación nociva?",
+      "context": "En el Lago Ypacaraí, se monitorean episodios recurrentes de florecimiento algal de cianobacterias durante los meses de verano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eutrofización cultural",
+          "is_correct": true,
+          "feedback": "¡Correcto! El exceso de nutrientes (N y P) provoca un crecimiento desmedido de algas, reduciendo el oxígeno disuelto y colapsando la vida acuática."
+        },
+        {
+          "letter": "B",
+          "text": "Salinización secundaria por evaporación",
+          "is_correct": false,
+          "feedback": "Incorrecto. La salinización implica acumulación de sales minerales soluble no de amonio o fosfatos orgánicos."
+        },
+        {
+          "letter": "C",
+          "text": "Acidificación mineral pura",
+          "is_correct": false,
+          "feedback": "Incorrecto. La acidificación se debe a lluvia ácida o drenaje minero, no a enriquecimiento de nutrientes orgánicos."
+        },
+        {
+          "letter": "D",
+          "text": "Bioacumulación pesada de mercurio",
+          "is_correct": false,
+          "feedback": "Incorrecto. La bioacumulación se refiere a tóxicos no biodegradables en tejidos organísmicos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La eutrofización cultural evidencia cómo el manejo inadecuado de cuencas hidrográficas degrada la calidad de los recursos hídricos fundamentales.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.34,
+      "bundle_id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-v19",
+      "statement": "Al juzgar la efectividad de una Reserva de Biosfera aprobada por la UNESCO en Paraguay, ¿cuál de los siguientes criterios garantiza su éxito a largo plazo?",
+      "context": "Se debate en el Congreso Nacional la ampliación de las Áreas Silvestres Protegidas (ASP) bajo dominio privado y público.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Integración de zonas núcleo de conservación estricta, zonas de amortiguamiento y zonas de transición para desarrollo sustentable comunitario",
+          "is_correct": true,
+          "feedback": "¡Correcto! El modelo de Reservas de Biosfera de la UNESCO equilibra la protección estricta con el uso sustentable de recursos por las comunidades locales."
+        },
+        {
+          "letter": "B",
+          "text": "Prohibición absoluta de toda actividad humana en el 100% de la extensión departamental",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modelo de reserva incluye zonas de uso sustentable y asentamientos armónicos."
+        },
+        {
+          "letter": "C",
+          "text": "Sustitución total de la flora nativa por especies exóticas de rápido crecimiento",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sustitución vegetal arruina la función de conservación de biodiversidad."
+        },
+        {
+          "letter": "D",
+          "text": "Centralización exclusiva del manejo en entes extranjeros sin participación local",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gobernanza participativa local es indispensable para la viabilidad de la reserva."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las Reservas de Biosfera demuestran que la conservación de la naturaleza requiere articular la protección biológica con el bienestar socioeconómico regional.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.31,
+      "bundle_id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-v20",
+      "statement": "¿Qué principio ecológico explica por qué los peces carnívoros y las aves rapaces acumulan mayores concentraciones del toxina en sus tejidos que el fitoplancton base?",
+      "context": "Un análisis ecotoxiológico en la cuenca del Río Tebicuary mide la concentración de plaguicidas organoclorados en distintos eslabones tróficos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Biomagnificación (o amplificación trófica)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las sustancias liposolubles y persientes se concentran progresivamente en niveles tróficos superiores a lo largo de la cadena alimentaria."
+        },
+        {
+          "letter": "B",
+          "text": "Bioasimilación nitrogenada fotosintética",
+          "is_correct": false,
+          "feedback": "Incorrecto. La asimilación de nitrógeno es un proceso metabólico nutricional normal en plantas."
+        },
+        {
+          "letter": "C",
+          "text": "Decaimiento radiactivo estocástico",
+          "is_correct": false,
+          "feedback": "Incorrecto. La disminución de isótopos no describe la acumulación de contaminantes orgánicos."
+        },
+        {
+          "letter": "D",
+          "text": "Transpiración foliar compensatoria",
+          "is_correct": false,
+          "feedback": "Incorrecto. La transpiración vegetal regula la temperatura y flujo hídrico en traqueofitas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La biomagnificación trófica demuestra que los contaminantes persistentes amenazan especialmente a los depredadores tope y a la salud humana.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.28,
+      "bundle_id": "PY-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    }
+  ]
+}

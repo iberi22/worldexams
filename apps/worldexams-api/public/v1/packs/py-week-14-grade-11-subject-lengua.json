@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "py",
+    "pack_id": "py-week-14-grade-11-subject-lengua",
+    "generated_at": "2026-09-17T20:08:59.695Z"
+  },
+  "questions": [
+    {
+      "id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-v1",
+      "statement": "¿Cómo se denomina al fenómeno sociolingüístico caracterizado por el uso alternado del castellano y del guaraní en el habla cotidiana de Paraguay?",
+      "context": "En una clase de Sociolingüística paraguaya en Asunción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Jopara (o yopará)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El jopara es la variedad híbrida fruto del contacto continuado entre el guaraní y el castellano."
+        },
+        {
+          "letter": "B",
+          "text": "Portuñol",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la mezcla entre español y portugués propia de las fronteras con Brasil."
+        },
+        {
+          "letter": "C",
+          "text": "Spanglish",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la mezcla entre inglés y español."
+        },
+        {
+          "letter": "D",
+          "text": "Lunfardo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el argot ríoplatense originado en Buenos Aires."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El 'jopara' (palabra guaraní que significa 'mezcla' o 'combinado') designa la variedad lingüística mestiza surgida del contacto castellano-guaraní en Paraguay.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-v2",
+      "statement": "¿Cuál de las siguientes palabras empleadas en el español paraguayo es un guaranismo lexiográfico de uso extendido?",
+      "context": "En San Lorenzo, se estudian los préstamos léxicos o guaranismos integrados al castellano de Paraguay.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chipá (o chipa)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Chipa es un guaranismo que designa el pan tradicional preparado a base de almidón de mandioca y queso."
+        },
+        {
+          "letter": "B",
+          "text": "Cancha",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Cancha\" es un préstamo del idioma quechua."
+        },
+        {
+          "letter": "C",
+          "text": "Chocolate",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un préstamo de origen náhuatl."
+        },
+        {
+          "letter": "D",
+          "text": "Barbacoa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un préstamo de origen taíno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Chipa' (o chipá) es un guaranismo incorporado al léxico del castellano paraguayo y reconocido por la Real Academia Española.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-v3",
+      "statement": "¿Qué propiedad semántica define a una palabra que posee múltiples significados relacionados entre sí por algún rasgo común?",
+      "context": "En Luque, se estudia el fenómeno semántico de la polisemia en expresiones locales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Polisemia",
+          "is_correct": true,
+          "feedback": "¡Correcto! La polisemia se da cuando un único significante reúne diversos significados vinculados por analogía o uso."
+        },
+        {
+          "letter": "B",
+          "text": "Homonimia",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la homonimia palabras de origen distinto coinciden por casualidad en su forma."
+        },
+        {
+          "letter": "C",
+          "text": "Sinonimia",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sinonimia se da cuando distintos significantes comparten un mismo significado."
+        },
+        {
+          "letter": "D",
+          "text": "Antonimia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Expresa oposición de significado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La polisemia ocurre cuando un término acumula diferentes acepciones o significados derivados de una misma raíz etimológica o relación conceptual.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-v4",
+      "statement": "¿En cuál de las siguientes opciones se presenta una relación de sinonimia contextual precisa?",
+      "context": "En Encarnación, los alumnos identifican falsos amigos (false friends) y calcos semánticos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "efímero - pasajero",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ambos términos denotan algo de corta duración que pasa rápidamente."
+        },
+        {
+          "letter": "B",
+          "text": "efímero - duradero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una relación de antonimia."
+        },
+        {
+          "letter": "C",
+          "text": "efímero - sustancial",
+          "is_correct": false,
+          "feedback": "Incorrecto. No son sinónimos."
+        },
+        {
+          "letter": "D",
+          "text": "efímero - permanente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Constituyen antónimos directos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Efímero' y 'pasajero' son sinónimos que se refieren a aquello que tiene una duración breve o fugaz.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.77,
+      "bundle_id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-v5",
+      "statement": "En la frase típica del habla coloquial paraguaya: 'Venía de hacia su casa', ¿qué calco de la posposición guaraní '-gotyo' o '-gui' se manifiesta?",
+      "context": "En Ciudad del Este, se analiza la interferencia sintáctica del guaraní en el castellano paraguayo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acumulación de preposiciones por calco del sistema de posposiciones del guaraní.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El guaraní es una lengua pospositiva, lo que influye en el castellano local mediante combinaciones como \"de hacia\"."
+        },
+        {
+          "letter": "B",
+          "text": "Uso correcto del subjuntivo de mandato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No atañe al modo verbal subjuntivo."
+        },
+        {
+          "letter": "C",
+          "text": "Dequeísmo de complemento directo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay presencia del nexo \"de que\"."
+        },
+        {
+          "letter": "D",
+          "text": "Pluralización del verbo impersonal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No interviene el verbo impersonal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El contacto de lenguas en Paraguay provoca calcos de las posposiciones guaraníes en la estructura del español regional, generando combinaciones de preposiciones como 'de hacia'.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.74,
+      "bundle_id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-v6",
+      "statement": "En la expresión del castellano paraguayo coloquial: '¡Venína un poco!', ¿qué función cumple la partícula de origen guaraní '-na' sufijada al verbo?",
+      "context": "En Coronel Oviedo, se analiza el uso de los marcadores de la modalidad en el jopara (partículas como 'na', 'pa', 'piko', 'niko').",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Atenuación o suavización afectiva de la orden o ruego (partícula atenuadora o de cortesía).",
+          "is_correct": true,
+          "feedback": "¡Correcto! La partícula \"-na\" suaviza el tono imperativo convirtiéndolo en un pedido amable o afectuoso."
+        },
+        {
+          "letter": "B",
+          "text": "Negación categórica del mandato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La partícula no niega la acción verbal."
+        },
+        {
+          "letter": "C",
+          "text": "Expresión de duda sobre la llegada de la persona.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una partícula interrogativa o dubitativa."
+        },
+        {
+          "letter": "D",
+          "text": "Indicación de tiempo pasado remoto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cumple función de marcador temporal del pasado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La partícula morfológica '-na' del guaraní se adhiere a los imperativos en castellano paraguayo para impartir cortesía, afabilidad o matiz de ruego a la petición.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.71,
+      "bundle_id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-v7",
+      "statement": "¿Qué grupo de palabras pertenece al mismo campo semántico de los 'instrumentos musicales tradicionales de Paraguay'?",
+      "context": "En Villarrica, se distingue entre campo semántico y campo léxico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "arpa, guitarra, requinto, acordeón",
+          "is_correct": true,
+          "feedback": "¡Correcto! Todos los términos comparten el rasgo semántico común de ser instrumentos musicales."
+        },
+        {
+          "letter": "B",
+          "text": "arpa, música, melodía, aplauso",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un campo asociativo o léxico más amplio, no restringido a los instrumentos."
+        },
+        {
+          "letter": "C",
+          "text": "arpa, escenario, teatro, público",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un campo conceptual de las artes escénicas."
+        },
+        {
+          "letter": "D",
+          "text": "arpa, madera, cuerda, artesano",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mezcla instrumentos con materiales y profesiones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un campo semántico está constituido por un conjunto de palabras de la misma categoría gramatical que comparten un núcleo común de significado (sema general: instrumentos musicales).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-v8",
+      "statement": "En la expresión: 'El país entero celebró la victoria de la selección', ¿qué mecanismo de cambio semántico (metonimia) se produce al usar 'el país'?",
+      "context": "En Caacupé, se evalúa el cambio semántico por metáfora y metonimia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Metonimia (el contenedor por el contenido: el lugar por los habitantes que viven en él).",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"El país\" (el contenedor geográfico) sustituye a \"los ciudadanos\" (el contenido humano)."
+        },
+        {
+          "letter": "B",
+          "text": "Metáfora pura por semejanza física.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay relación de semejanza entre el país y la gente sino de inclusión espacial."
+        },
+        {
+          "letter": "C",
+          "text": "Sinestesia de percepción sensorial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sinestesia cruza sensaciones táctiles, auditivas o visuales."
+        },
+        {
+          "letter": "D",
+          "text": "Eufemismo de cortesía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se disimula una palabra tabú."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La metonimia se basa en una relación de contigüidad real entre los conceptos (en este caso, el continente o país representa a la población que habita en él).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-v9",
+      "statement": "¿Cuál es la diferencia sustancial entre 'bilingüismo' y 'diglosia' en sociolingüística?",
+      "context": "En Pilar, se estudia la diglosia frente al bilingüismo armónico en la sociedad paraguaya.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El bilingüismo es el dominio de dos lenguas por un individuo; la diglosia es la distribución desigual de funciones y prestigio de dos lenguas en la sociedad.",
+          "is_correct": true,
+          "feedback": "¡Correcto! En la diglosia una lengua ocupa el ámbito formal/oficial (lengua A) y otra el informal/familiar (lengua B)."
+        },
+        {
+          "letter": "B",
+          "text": "El bilingüismo ocurre solo en Europa y la diglosia en América.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son fenómenos sociolingüísticos universales."
+        },
+        {
+          "letter": "C",
+          "text": "La diglosia es la pérdida total de la capacidad de hablar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió diglosia con disfasia o afasia."
+        },
+        {
+          "letter": "D",
+          "text": "El bilingüismo prohíbe el uso de conectores gramaticales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Afirmación carente de rigor lingüístico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El bilingüismo refiere a la competencia lingüística individual en dos idiomas. La diglosia es el reparto social jerarquizado de funciones entre dos lenguas coexistentes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.62,
+      "bundle_id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-v10",
+      "statement": "Según el artículo 140 de la Constitución Nacional de la República del Paraguay de 1992, ¿cuáles son los idiomas oficiales del Estado?",
+      "context": "En Concepción, se revisa la Constitución Nacional paraguaya de 1992 sobre el estatus lingüístico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El castellano y el guaraní",
+          "is_correct": true,
+          "feedback": "¡Correcto! La Constitución de 1992 declaró al castellano y al guaraní como idiomas oficiales de la República en igualdad de condiciones."
+        },
+        {
+          "letter": "B",
+          "text": "Únicamente el castellano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignora el estatus cooficial del guaraní consagrado en 1992."
+        },
+        {
+          "letter": "C",
+          "text": "El castellano, el guaraní y el portugués.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El portugués no es idioma oficial del Estado paraguayo."
+        },
+        {
+          "letter": "D",
+          "text": "Únicamente el guaraní.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El castellano comparte la cooficialidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El artículo 140 de la Carta Magna de 1992 elevó al guaraní al rango de idioma oficial junto al castellano, consolidando el estatus constitucional de la nación bilingüe.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.6,
+      "bundle_id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-v11",
+      "statement": "En las parejas de palabras: I. 'árbol / tajy (lapacho)', II. 'herramienta / martillo', ¿qué relación de inclusión semántica se establece entre el primer y el segundo término?",
+      "context": "En Asunción, se analizan los neologismos técnicos e hiperónimos/hipónimos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El primer término es el hiperónimo y el segundo es un hipónimo.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El hiperónimo (\"árbol\") incluye en su significado más general a los hipónimos específicos (\"tajy\")."
+        },
+        {
+          "letter": "B",
+          "text": "El primer término es un hipónimo y el segundo es el hiperónimo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invirtió la jerarquía de inclusión semántica."
+        },
+        {
+          "letter": "C",
+          "text": "Son términos antónimos complementarios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay relación de oposición."
+        },
+        {
+          "letter": "D",
+          "text": "Son parónimos homófonos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No comparten pronunciación ni forma."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un hiperónimo es una palabra cuyo significado general abarca a otras más específicas denominadas hipónimos (ejemplo: 'árbol' es el hiperónimo de 'tajy' o 'lapacho').\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.57,
+      "bundle_id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-v12",
+      "statement": "¿Cuál de las siguientes opciones define un hispanismo frecuentemente adaptado a la estructura fonológica del guaraní (ej. 'vaca' -> 'vaka')?",
+      "context": "En San Lorenzo, se examina el fenómeno del lexeo y préstamos lingüísticos recíprocos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un préstamo o hispanismo fonéticamente adaptado al sistema del guaraní.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La incorporación de léxico español al guaraní (hispanismos) adapta las consonantes y acentos a la fonética nativa."
+        },
+        {
+          "letter": "B",
+          "text": "Un arcaísmo del castellano medieval de Castilla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a un préstamo léxico interlingüístico."
+        },
+        {
+          "letter": "C",
+          "text": "Un neologismo de la era digital.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son préstamos históricos de la época colonial o republicana."
+        },
+        {
+          "letter": "D",
+          "text": "Un barbarismo rechazado por los hablantes bilingües.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Forma parte natural de la evolución de la lengua guaraní hablada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los préstamos del castellano adaptados a la fonología guaraní (hispanismos) demuestran la plasticidad y el intercambio dinámico entre ambos idiomas en Paraguay.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.54,
+      "bundle_id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-v13",
+      "statement": "¿En qué consiste el 'leísmo de cortesía' ampliamente aceptado en la norma del español de Paraguay y el Río de la Plata?",
+      "context": "En Luque, se estudia el fenómeno del leísmo de cortesía en el castellano paraguayo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el empleo del pronombre \"le\" o \"les\" en lugar de \"lo/los\" para dirigirse con respeto a un interlocutor tratado de usted.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El uso de \"le\" como objeto directo de respeto dirigido a \"usted\" es aceptado normativamente como leísmo de cortesía."
+        },
+        {
+          "letter": "B",
+          "text": "En sustituir los sustantivos femeninos por pronombres masculinos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No atañe al género sino al tratamiento de cortesía."
+        },
+        {
+          "letter": "C",
+          "text": "En eliminar todos los pronombres átonos de la oración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se suprimen los pronombres."
+        },
+        {
+          "letter": "D",
+          "text": "En usar \"lo\" en lugar de \"le\" para el complemento indirecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería loísmo, no leísmo de cortesía."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El leísmo de cortesía ('Le saludo a usted') es el empleo de 'le/les' como complemento directo cuando el referente es una persona tratada con la fórmula de respeto 'usted/ustedes'.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.51,
+      "bundle_id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-v14",
+      "statement": "¿Cuál es el objetivo primordial de la Ley de Lenguas N.º 4251 aprobada en Paraguay en el año 2010?",
+      "context": "En Encarnación, se analiza la vitalidad sociolingüística de la Ley de Lenguas (Ley N.º 4251/2010).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Garantizar los derechos lingüísticos individuales y colectivos, y promover la normalización del guaraní en todos los ámbitos públicos y oficiales.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ley creó la Secretaría de Políticas Lingüísticas y la Academia de la Lengua Guaraní para salvaguardar el bilingüismo real."
+        },
+        {
+          "letter": "B",
+          "text": "Sustituir la enseñanza del castellano por el inglés en todas las escuelas rurales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ley fortalece el bilingüismo oficial guaraní-castellano."
+        },
+        {
+          "letter": "C",
+          "text": "Prohibir la publicación de libros en idiomas extranjeros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No establece censuras a otras lenguas."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminar el guaraní de la administración de justicia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, exige la atención en guaraní en los juzgados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Ley N.º 4251/2010 de Lenguas de Paraguay busca la normalización de la lengua guaraní y la efectivización del derecho de los ciudadanos a ser atendidos en su idioma materno.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.48,
+      "bundle_id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-v15",
+      "statement": "¿Cuál de las siguientes formas verbales corresponde al voseo pronominal y verbal típico de Paraguay y la región rioplatense?",
+      "context": "En Ciudad del Este, se examina el rasgo fonético del voseo en Paraguay.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vos tenés que estudiar para el examen.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El voseo utiliza el pronombre \"vos\" acompañado de las formas verbales agudas (\"tenés\", \"cantás\", \"venís\")."
+        },
+        {
+          "letter": "B",
+          "text": "Tú tienes que estudiar para el examen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la forma tuteante común en otras regiones de América y España."
+        },
+        {
+          "letter": "C",
+          "text": "Vosotros tenéis que estudiar para el examen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la forma de 2.ª persona plural usada en España."
+        },
+        {
+          "letter": "D",
+          "text": "Usted tiene que estudiar para el examen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la forma de tratamiento formal o de distancia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El español paraguayo forma parte de la norma voseante rioplatense, donde 'vos' reemplaza al 'tú' e influye en la conjugación verbal de 2.ª persona singular ('tenés', 'decís').\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-v16",
+      "statement": "¿A qué tipo de variación lingüística corresponde la diferencia de vocabulario y entonación existente entre los hablantes de Asunción y los de zonas rurales de Concepción?",
+      "context": "En Coronel Oviedo, se estudian las variantes diatópicas (dialectos) y diastráticas (sociotipos).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Variación diatópica o geográfica (dialecto)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La variación diatópica se debe al origen geográfico o territorial de los hablantes dentro del país."
+        },
+        {
+          "letter": "B",
+          "text": "Variación diacrónica o histórica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La variación diacrónica ocurre a lo largo del tiempo histórico."
+        },
+        {
+          "letter": "C",
+          "text": "Variación idiolectal médica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la jerga profesional."
+        },
+        {
+          "letter": "D",
+          "text": "Variación de género biológico",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se debe al género sino al territorio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La variación diatópica (o geográfica) abarca las diferencias fonéticas, léxicas y sintácticas que caracterizan la lengua según las distintas zonas o regiones de un país.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.43,
+      "bundle_id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-v17",
+      "statement": "¿Qué factor distingue de manera excepcional al guaraní paraguayo de otras lenguas indígenas de América del Sur?",
+      "context": "En Villarrica, se evalúa la vitalidad del guaraní como lengua de transmisión intergeneracional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es hablado por la gran mayoría de la población no indígena (población mestiza) y posee rango constitucional oficial.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es la única lengua de origen originario en América hablada por la mayoría de la población no indígena de un país."
+        },
+        {
+          "letter": "B",
+          "text": "Es una lengua muerta que solo se estudia en museos de arqueología.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una lengua viva hablada por millones de ciudadanos."
+        },
+        {
+          "letter": "C",
+          "text": "Fue inventada por los navegantes españoles en el siglo XVIII.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una lengua precolombina de la familia tupí-guaraní."
+        },
+        {
+          "letter": "D",
+          "text": "No posee gramática ni alfabeto escrito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Posee un alfabeto oficial y una vasta literatura escrita."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El caso del guaraní en Paraguay es único en el mundo: una lengua autóctona asumida como signo de identidad nacional por la amplia mayoría de la población mestiza e integrada a la enseñanza pública.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-v18",
+      "statement": "¿Qué significado etimológico en guaraní posee el toponímico de la ciudad paraguaya 'Caacupé' (Ka'aguy kupé)?",
+      "context": "En Caacupé, se investiga la etimología de la toponimia paraguaya en guaraní.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Detrás del monte o detrás del bosque (Ka'aguy = monte/bosque; kupé = detrás).",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ka'aguy (monte/bosque) + kupé (detrás) señala la ubicación de la histórica villa tras los montes de Ypacaraí."
+        },
+        {
+          "letter": "B",
+          "text": "Agua clara que brota de la piedra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la etimología de Caacupé."
+        },
+        {
+          "letter": "C",
+          "text": "Tierra de hermosas flores rojas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Traducción errónea."
+        },
+        {
+          "letter": "D",
+          "text": "Lugar donde abundan las aves.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No atañe a la raíz del término."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La toponimia paraguaya es mayoritariamente guaraní: 'Caacupé' proviene de Ka'aguy (monte o selva) y kupé (detrás), aludiendo a su situación geográfica.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.38,
+      "bundle_id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-v19",
+      "statement": "¿Cuál es el dilema pedagógico principal entre la enseñanza del 'guaraní normativo/académico' (guaraní teete) y el uso cotidiano del 'jopara' en las aulas?",
+      "context": "En Pilar, se debate sobre la inclusión del jopara en los textos escolares oficiales del MEC.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tensión entre preservar la pureza estructural y académica de la lengua ancestral frente al reconocimiento de la realidad sociolingüística vital de los alumnos.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Plantea el debate entre el enfoque purista escolar y el enfoque comunicativo real del estudiante."
+        },
+        {
+          "letter": "B",
+          "text": "La necesidad de eliminar el abecedario guaraní de la imprenta nacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El abecedario está consolidado e institucionalizado."
+        },
+        {
+          "letter": "C",
+          "text": "La prohibición de hablar castellano en el recreo escolar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema educativo es bilingüe."
+        },
+        {
+          "letter": "D",
+          "text": "La exigencia de rendir los exámenes en idioma latín.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Totalmente descontextualizado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El debate sociolingüístico en el aula opone a quienes defienden el guaraní académico purificado (guaraní teete) frente a quienes promueven atender el jopara como vehículo vivo de comunicación.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-v20",
+      "statement": "¿Qué rasgo fonético característico del castellano paraguayo se observa en la articulación asibilada de la 'r' doble o 'tr' en zonas rurales?",
+      "context": "En Concepción, se analiza la vitalidad del yeísmo reaspirado y la pronunciación de la 'rr' y 'tr' en Paraguay.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La presencia de una fricativa asibilada producida por la influencia de la fonética del guaraní.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La pronunciación de la \"rr\" y \"tr\" con un silbido arrastrado (asibilado) es un rasgo fonético típico del español paraguayo."
+        },
+        {
+          "letter": "B",
+          "text": "La pérdida completa de todas las consonantes finales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se pierden las consonantes finales."
+        },
+        {
+          "letter": "C",
+          "text": "La sustitución de la \"r\" por la \"l\" (rotacismo/lambdacismo).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una característica de dialectos caribeños, no paraguayos."
+        },
+        {
+          "letter": "D",
+          "text": "La pronunciación de la \"z\" como interdental europea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El español paraguayo es seseante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La 'r' vibrante y los grupos 'tr' o 'rr' asibilados (con resonancia fricativa) constituyen una de las marcas fónicas distintivas del español hablado en Paraguay.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "PY-LEN-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "py"
+    }
+  ]
+}
