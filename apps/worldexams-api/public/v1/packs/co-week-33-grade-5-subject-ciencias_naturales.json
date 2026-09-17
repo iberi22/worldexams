@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-33-grade-5-subject-ciencias_naturales",
+    "generated_at": "2026-09-17T17:04:33.694Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-5-2026-W33-cambios-fisicos-quimicos-materia-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de los procesos que observa Andrés corresponde a un cambio físico?",
+      "context": "En un trapiche del Eje Cafetero, Andrés observa varios procesos: se exprime la caña para sacar el jugo, se congela el jugo para preparar un refresco, se quema leña para calentar el horno y se deja oxidar un machete.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Congelar el jugo de caña, porque pasa de líquido a sólido sin convertirse en otra sustancia.",
+          "is_correct": true,
+          "feedback": "Al congelarse, el jugo solo cambia de estado y sigue siendo jugo; es un cambio físico."
+        },
+        {
+          "letter": "B",
+          "text": "Quemar la leña, porque la madera se transforma en ceniza y humo.",
+          "is_correct": false,
+          "feedback": "Al quemarse, la madera forma ceniza y humo, que son sustancias nuevas; es un cambio químico."
+        },
+        {
+          "letter": "C",
+          "text": "Oxidar el machete, porque sobre el hierro aparece una capa de óxido.",
+          "is_correct": false,
+          "feedback": "La oxidación forma óxido, una sustancia nueva sobre el hierro; es un cambio químico."
+        },
+        {
+          "letter": "D",
+          "text": "Fermentar el guarapo, porque cambia el olor y el sabor del jugo.",
+          "is_correct": false,
+          "feedback": "La fermentación produce sustancias nuevas y por eso es un cambio químico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificar el cambio físico como aquel que altera la forma o el estado de una sustancia sin formar una sustancia nueva.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-5-2026-W33-cambios-fisicos-quimicos-materia-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W33-cambios-fisicos-quimicos-materia-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué disolver el chocolate en la leche se considera un cambio físico?",
+      "context": "Isabella prepara chocolate caliente en la cocina de su casa en el Eje Cafetero. Disuelve una pastilla de chocolate en leche caliente y revuelve hasta que no se ven grumos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el chocolate se reparte en la leche, pero sigue siendo chocolate y no se forma una sustancia nueva.",
+          "is_correct": true,
+          "feedback": "En la disolución las sustancias se integran sin transformarse en otras; la mezcla conserva el sabor del chocolate."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el chocolate desaparece para siempre y deja de existir.",
+          "is_correct": false,
+          "feedback": "El chocolate no desaparece: se disuelve en la leche y la mezcla conserva sus propiedades."
+        },
+        {
+          "letter": "C",
+          "text": "Porque se forma una sustancia nueva diferente a la leche y al chocolate.",
+          "is_correct": false,
+          "feedback": "En un cambio físico no se forma una sustancia nueva; tanto la leche como el chocolate conservan su naturaleza."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la leche se convierte en un sólido al mezclarse con el chocolate.",
+          "is_correct": false,
+          "feedback": "La leche sigue siendo líquida; solo se integra el chocolate sin cambiar su naturaleza."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender que en una disolución las sustancias se mezclan sin transformarse en otras sustancias.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-5-2026-W33-cambios-fisicos-quimicos-materia-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W33-cambios-fisicos-quimicos-materia-001-MASTERY-bundle-v3",
+      "statement": "¿Cómo se clasifican los dos cambios que hizo Andrés con la panela?",
+      "context": "En el patio de su casa, Andrés corta un bloque de panela en pedazos pequeños y después disuelve un pedazo en agua para endulzar un jugo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son cambios físicos, porque la panela solo cambia de tamaño y se reparte en el agua sin transformarse en otra sustancia.",
+          "is_correct": true,
+          "feedback": "Partir y disolver no forman sustancias nuevas; la panela sigue siendo panela."
+        },
+        {
+          "letter": "B",
+          "text": "Son cambios químicos, porque la panela deja de ser panela al contacto con el cuchillo y el agua.",
+          "is_correct": false,
+          "feedback": "La panela sigue siendo panela; partirla y disolverla no producen sustancias nuevas."
+        },
+        {
+          "letter": "C",
+          "text": "El corte es un cambio químico y la disolución es un cambio físico.",
+          "is_correct": false,
+          "feedback": "Partir solo cambia el tamaño de la panela, así que también es un cambio físico."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos son cambios químicos, porque cambian la apariencia de la panela.",
+          "is_correct": false,
+          "feedback": "Cambiar la apariencia no equivale a formar una sustancia nueva; ambos procesos siguen siendo físicos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la clasificación de cambios físicos a acciones cotidianas como cortar y disolver.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-5-2026-W33-cambios-fisicos-quimicos-materia-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W33-cambios-fisicos-quimicos-materia-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la mejor explicación de que freír el huevo sea un cambio químico?",
+      "context": "Isabella fríe un huevo en la cocina. Al principio el huevo es líquido y transparente, y después de calentarlo se vuelve sólido y blanco; ya no puede volver a su estado inicial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque se forma una sustancia nueva que no puede volver a ser un huevo crudo.",
+          "is_correct": true,
+          "feedback": "La clara y la yema se transforman en sustancias diferentes que ya no regresan a su estado inicial."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el huevo solo cambia de forma al pasar del sartén al plato.",
+          "is_correct": false,
+          "feedback": "No es solo la forma: la clara y la yema se convierten en sustancias diferentes."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el calor hace que el huevo vuelva a ser líquido al enfriarse.",
+          "is_correct": false,
+          "feedback": "El huevo cocido no vuelve a ser líquido al enfriarse; el cambio químico es permanente."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el aceite se mezcla con el huevo sin transformarse.",
+          "is_correct": false,
+          "feedback": "Mezclarse no explica el cambio; lo importante es la sustancia nueva que se forma en el huevo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Explicar por qué la cocción de un alimento implica la formación de sustancias nuevas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-5-2026-W33-cambios-fisicos-quimicos-materia-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W33-cambios-fisicos-quimicos-materia-001-MASTERY-bundle-v5",
+      "statement": "¿Qué tipo de cambio ocurre cuando el agua del jugo se evapora al hervir?",
+      "context": "En el trapiche, Andrés hierve el jugo de caña. Con el calor, el agua del jugo se evapora y queda una melaza espesa que luego se endurece en panela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un cambio físico, porque el agua pasa de líquido a vapor y sigue siendo agua.",
+          "is_correct": true,
+          "feedback": "El vapor de agua es la misma sustancia que el agua líquida; solo cambió de estado."
+        },
+        {
+          "letter": "B",
+          "text": "Un cambio químico, porque el agua se transforma en una sustancia diferente.",
+          "is_correct": false,
+          "feedback": "El agua no se transforma en otra sustancia: sigue siendo agua, ahora en estado gaseoso."
+        },
+        {
+          "letter": "C",
+          "text": "Un cambio químico, porque el agua desaparece por completo.",
+          "is_correct": false,
+          "feedback": "El agua no desaparece: se convierte en vapor y queda suspendida en el aire."
+        },
+        {
+          "letter": "D",
+          "text": "Ningún cambio, porque el calor no modifica la materia.",
+          "is_correct": false,
+          "feedback": "Pasar de líquido a vapor sí es un cambio, y además es un cambio físico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Explicar el cambio de estado del agua como un cambio físico producido por el calor.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-5-2026-W33-cambios-fisicos-quimicos-materia-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W33-cambios-fisicos-quimicos-materia-001-MASTERY-bundle-v6",
+      "statement": "¿Qué diferencia permite clasificar correctamente estos dos hechos?",
+      "context": "Compara dos hechos: \"Una lámina de hierro que queda bajo la lluvia se cubre de óxido\" y \"Un clavo de hierro se dobla con fuerza y solo cambia de forma\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La oxidación es un cambio químico porque forma una sustancia nueva, y doblar el clavo es un cambio físico porque solo cambia su forma.",
+          "is_correct": true,
+          "feedback": "El óxido es una sustancia nueva; en cambio, el clavo doblado sigue siendo hierro."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos son cambios químicos porque en ambos el hierro se modifica.",
+          "is_correct": false,
+          "feedback": "Doblar el clavo no forma una sustancia nueva; por eso ese cambio es físico."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos son cambios físicos porque el hierro sigue presente.",
+          "is_correct": false,
+          "feedback": "La oxidación sí forma una sustancia nueva, el óxido, así que es un cambio químico."
+        },
+        {
+          "letter": "D",
+          "text": "La oxidación es un cambio físico y doblar el clavo es un cambio químico.",
+          "is_correct": false,
+          "feedback": "Es al contrario: la oxidación forma óxido y el doblado solo cambia la forma del clavo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la diferencia entre un cambio químico que forma sustancias nuevas y un cambio físico que solo altera la forma.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-5-2026-W33-cambios-fisicos-quimicos-materia-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W33-cambios-fisicos-quimicos-materia-001-MASTERY-bundle-v7",
+      "statement": "Con base en la evidencia que recogió Isabella, ¿cuál conclusión es la más adecuada?",
+      "context": "Isabella realiza un experimento. En un vaso mezcla vinagre con bicarbonato y observa muchas burbujas y la salida de un gas. En otro vaso disuelve azúcar en agua y no observa burbujas ni gas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mezcla de vinagre con bicarbonato es un cambio químico porque produjo un gas nuevo, y disolver azúcar es un cambio físico porque no formó una sustancia nueva.",
+          "is_correct": true,
+          "feedback": "Las burbujas indican un gas nuevo formado en el cambio químico; el azúcar disuelto sigue siendo azúcar."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos mezclas son cambios químicos porque en las dos hubo movimiento.",
+          "is_correct": false,
+          "feedback": "El movimiento por sí solo no indica un cambio químico; lo decisivo es la formación de sustancias nuevas."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos mezclas son cambios físicos porque se prepararon con líquidos.",
+          "is_correct": false,
+          "feedback": "El estado líquido no define el tipo de cambio; hay que observar si aparecen sustancias nuevas."
+        },
+        {
+          "letter": "D",
+          "text": "Disolver el azúcar es un cambio químico porque el azúcar deja de verse.",
+          "is_correct": false,
+          "feedback": "Que el azúcar no se vea solo indica que se disolvió, sin formar una sustancia nueva."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar resultados experimentales para diferenciar un cambio químico con producción de gas de una disolución física.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-5-2026-W33-cambios-fisicos-quimicos-materia-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W33-cambios-fisicos-quimicos-materia-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál afirmación evalúa mejor la diferencia entre las dos formas de conservar el jugo?",
+      "context": "Una familia del Eje Cafetero compara dos formas de conservar el jugo de caña. En la nevera, el jugo se mantiene líquido y con su sabor. Dejado varios días al aire, el jugo fermenta, cambia de olor y de sabor y se convierte en guarapo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Guardarlo frío conserva el jugo con un cambio físico, mientras que la fermentación es un cambio químico porque se forman sustancias nuevas.",
+          "is_correct": true,
+          "feedback": "Enfriar solo mantiene el jugo igual, pero la fermentación produce sustancias nuevas que cambian su olor y su sabor."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos son cambios físicos porque el jugo sigue siendo líquido en los dos casos.",
+          "is_correct": false,
+          "feedback": "Aunque siga líquido, la fermentación forma sustancias nuevas; por eso es un cambio químico."
+        },
+        {
+          "letter": "C",
+          "text": "La fermentación es un cambio físico porque no se ve ninguna sustancia nueva a simple vista.",
+          "is_correct": false,
+          "feedback": "Las sustancias nuevas de la fermentación se detectan por el olor y el sabor, aunque no se vean."
+        },
+        {
+          "letter": "D",
+          "text": "Enfriar el jugo es un cambio químico porque baja la temperatura.",
+          "is_correct": false,
+          "feedback": "Cambiar la temperatura no forma sustancias nuevas; conservar el jugo frío es un cambio físico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar situaciones de conservación de alimentos para decidir si el proceso es un cambio físico o químico.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-5-2026-W33-cambios-fisicos-quimicos-materia-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

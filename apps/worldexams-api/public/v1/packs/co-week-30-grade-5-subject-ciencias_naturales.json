@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-30-grade-5-subject-ciencias_naturales",
+    "generated_at": "2026-09-17T17:04:33.693Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-5-2026-W30-sistema-excretor-001-MASTERY-bundle-v1",
+      "statement": "¿Cuáles son los órganos encargados de filtrar la sangre y formar la orina?",
+      "context": "En un colegio de Neiva, la profesora de ciencias muestra un modelo del sistema excretor y pide a sus estudiantes reconocer los órganos que filtran la sangre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los riñones.",
+          "is_correct": true,
+          "feedback": "Los riñones filtran la sangre y retiran los desechos, formando la orina."
+        },
+        {
+          "letter": "B",
+          "text": "Los pulmones.",
+          "is_correct": false,
+          "feedback": "Los pulmones pertenecen al sistema respiratorio y realizan el intercambio de gases."
+        },
+        {
+          "letter": "C",
+          "text": "El corazón.",
+          "is_correct": false,
+          "feedback": "El corazón bombea la sangre, pero no la filtra ni forma la orina."
+        },
+        {
+          "letter": "D",
+          "text": "El estómago.",
+          "is_correct": false,
+          "feedback": "El estómago hace parte del sistema digestivo y participa en la digestión de los alimentos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer que los riñones son los órganos que filtran la sangre y producen la orina, con lo cual el cuerpo elimina los desechos que no necesita.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-5-2026-W30-sistema-excretor-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W30-sistema-excretor-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la función de la vejiga en el sistema excretor?",
+      "context": "Lucía está en Villavicencio y repasa con su hermano las partes del sistema excretor antes de una evaluación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Almacenar la orina hasta que el cuerpo la expulsa.",
+          "is_correct": true,
+          "feedback": "La vejiga es como un depósito: guarda la orina y la libera cuando la persona va al baño."
+        },
+        {
+          "letter": "B",
+          "text": "Producir la orina a partir de los alimentos.",
+          "is_correct": false,
+          "feedback": "La orina no se produce en la vejiga; los riñones la forman al filtrar la sangre."
+        },
+        {
+          "letter": "C",
+          "text": "Llevar la orina desde los riñones hasta la vejiga.",
+          "is_correct": false,
+          "feedback": "Esa función la cumplen los uréteres, que son conductos delgados."
+        },
+        {
+          "letter": "D",
+          "text": "Filtrar los desechos que lleva la sangre.",
+          "is_correct": false,
+          "feedback": "Filtrar la sangre es tarea de los riñones, no de la vejiga."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender que la vejiga almacena temporalmente la orina y que su expulsión ocurre cuando el cuerpo lo necesita, completando el recorrido de los desechos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-5-2026-W30-sistema-excretor-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W30-sistema-excretor-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el recorrido correcto de la orina por el sistema excretor?",
+      "context": "Diego dibuja en el tablero el camino que sigue la orina desde que se forma hasta que sale del cuerpo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Riñones, uréteres, vejiga y uretra.",
+          "is_correct": true,
+          "feedback": "La orina se forma en los riñones, pasa por los uréteres, se guarda en la vejiga y sale por la uretra."
+        },
+        {
+          "letter": "B",
+          "text": "Vejiga, riñones, uretra y uréteres.",
+          "is_correct": false,
+          "feedback": "La orina no empieza en la vejiga; primero se forma en los riñones."
+        },
+        {
+          "letter": "C",
+          "text": "Uretra, vejiga, uréteres y riñones.",
+          "is_correct": false,
+          "feedback": "Este orden va al revés; la orina sale por la uretra al final del recorrido, no al comienzo."
+        },
+        {
+          "letter": "D",
+          "text": "Riñones, uretra, vejiga y uréteres.",
+          "is_correct": false,
+          "feedback": "La uretra es el último conducto de salida; la orina llega a la vejiga antes de salir."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el orden de los órganos del sistema excretor para explicar cómo viaja la orina desde su formación en los riñones hasta su salida del cuerpo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-5-2026-W30-sistema-excretor-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W30-sistema-excretor-001-MASTERY-bundle-v4",
+      "statement": "¿Qué explica que la orina de Lucía sea más oscura y escasa ese día?",
+      "context": "Lucía pasa un día muy caluroso en Villavicencio y bebe poca agua. Al final de la tarde nota que su orina es más oscura y escasa de lo normal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cuerpo elimina menos agua porque hay poca disponible y la orina queda más concentrada.",
+          "is_correct": true,
+          "feedback": "Cuando el cuerpo pierde agua y no la repone, los riñones la retienen y la orina sale más concentrada y en menor cantidad."
+        },
+        {
+          "letter": "B",
+          "text": "Los riñones dejan de funcionar cuando hace mucho calor.",
+          "is_correct": false,
+          "feedback": "El calor no apaga los riñones; ellos siguen trabajando y ajustan el agua que eliminan."
+        },
+        {
+          "letter": "C",
+          "text": "La vejiga produce agua para compensar el calor.",
+          "is_correct": false,
+          "feedback": "La vejiga solo almacena la orina; no produce agua."
+        },
+        {
+          "letter": "D",
+          "text": "El sudor se convierte en orina dentro del cuerpo.",
+          "is_correct": false,
+          "feedback": "El sudor y la orina son líquidos distintos; el sudor sale por la piel y no se transforma en orina."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la relación entre el agua que ingiere una persona y la orina que produce, entendiendo que los riñones regulan el líquido del cuerpo según las necesidades.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-5-2026-W30-sistema-excretor-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W30-sistema-excretor-001-MASTERY-bundle-v5",
+      "statement": "¿Qué debe hacer Diego para ayudar a su cuerpo después de sudar tanto?",
+      "context": "Diego juega un partido de fútbol en Villavicencio y suda mucho. Al terminar el partido siente mucha sed.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tomar agua para reponer el líquido que perdió.",
+          "is_correct": true,
+          "feedback": "El sudor hace que el cuerpo pierda agua; tomarla de nuevo ayuda a mantener el equilibrio de líquidos."
+        },
+        {
+          "letter": "B",
+          "text": "Dejar de orinar para no perder más líquido.",
+          "is_correct": false,
+          "feedback": "Orinar es necesario para eliminar desechos; retener la orina puede dañar la salud."
+        },
+        {
+          "letter": "C",
+          "text": "Beber solo gaseosa durante todo el día.",
+          "is_correct": false,
+          "feedback": "Las bebidas con mucho azúcar no reemplazan bien el agua que el cuerpo necesita."
+        },
+        {
+          "letter": "D",
+          "text": "Evitar moverse para no volver a sudar nunca.",
+          "is_correct": false,
+          "feedback": "Sudar ayuda a regular la temperatura; lo importante es reponer el agua, no dejar de moverse."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar hábitos de autocuidado, como tomar agua después del ejercicio, para que el sistema excretor y el cuerpo mantengan un buen equilibrio de líquidos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-5-2026-W30-sistema-excretor-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W30-sistema-excretor-001-MASTERY-bundle-v6",
+      "statement": "¿Qué explica la diferencia entre la orina de Andrés y la de Pedro?",
+      "context": "Compara: \"Andrés bebe dos litros de agua durante el día y produce bastante orina clara. Su amigo Pedro bebe muy poca agua y produce poca orina, más oscura.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los riñones ajustan la cantidad de agua que eliminan según el líquido que recibe el cuerpo.",
+          "is_correct": true,
+          "feedback": "Los riñones regulan el agua del cuerpo: si hay mucha, eliminan más orina clara; si hay poca, producen menos y más concentrada."
+        },
+        {
+          "letter": "B",
+          "text": "Andrés tiene más riñones que Pedro.",
+          "is_correct": false,
+          "feedback": "Todas las personas tienen dos riñones; la diferencia está en el agua que beben."
+        },
+        {
+          "letter": "C",
+          "text": "Pedro no tiene sistema excretor.",
+          "is_correct": false,
+          "feedback": "Todas las personas tienen sistema excretor; Pedro solo bebe menos agua."
+        },
+        {
+          "letter": "D",
+          "text": "La orina clara indica que el cuerpo está enfermo.",
+          "is_correct": false,
+          "feedback": "La orina clara suele indicar que la persona está bien hidratada, no que esté enferma."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar cómo los riñones mantienen el equilibrio de líquidos y explican por qué la cantidad y el color de la orina cambian según el agua que se bebe.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-5-2026-W30-sistema-excretor-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W30-sistema-excretor-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la mejor forma de realizar este experimento?",
+      "context": "Un grupo de estudiantes de Neiva quiere comprobar si beber más agua aumenta la cantidad de orina. Para lograrlo, planean un experimento con dos grupos de compañeros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dar más agua a un grupo y menos a otro, mantener iguales las demás condiciones y comparar la orina producida.",
+          "is_correct": true,
+          "feedback": "Un buen experimento cambia solo una condición (el agua) y mantiene iguales las demás para comparar de forma justa."
+        },
+        {
+          "letter": "B",
+          "text": "Dar más agua a un grupo y también más sal, sin medir nada.",
+          "is_correct": false,
+          "feedback": "Al cambiar dos condiciones a la vez no se sabe cuál causó el resultado, y sin medir no hay datos confiables."
+        },
+        {
+          "letter": "C",
+          "text": "Preguntar a los compañeros qué creen que pasará y anotar solo sus opiniones.",
+          "is_correct": false,
+          "feedback": "Las opiniones no reemplazan las mediciones; para comprobar una idea se necesitan datos observados."
+        },
+        {
+          "letter": "D",
+          "text": "Medir la orina de una sola persona un día cualquiera, sin controlar el agua que bebe.",
+          "is_correct": false,
+          "feedback": "Sin controlar el agua que se bebe no se puede saber si esa condición influye en la cantidad de orina."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar el diseño de un experimento sencillo, reconociendo la importancia de cambiar una sola variable, medir los resultados y mantener las demás condiciones bajo control.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-5-2026-W30-sistema-excretor-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W30-sistema-excretor-001-MASTERY-bundle-v8",
+      "statement": "¿Qué opinas de esa afirmación?",
+      "context": "Lee la afirmación de un compañero: \"Para cuidar los riñones lo mejor es beber muy poca agua, porque así trabajan menos.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta, porque los riñones se cansan cuando hay mucha agua.",
+          "is_correct": false,
+          "feedback": "Los riñones no se cansan por beber agua; el agua les ayuda a filtrar y eliminar los desechos."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta, porque la orina se produce solo cuando se bebe mucha agua.",
+          "is_correct": false,
+          "feedback": "La orina se produce siempre, aunque se beba poca agua; en ese caso sale más concentrada."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecta, porque beber agua suficiente ayuda a los riñones a filtrar la sangre y eliminar los desechos.",
+          "is_correct": true,
+          "feedback": "Una buena hidratación facilita el trabajo de los riñones y evita que los desechos se concentren demasiado."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecta, porque los riñones no necesitan agua para funcionar.",
+          "is_correct": false,
+          "feedback": "Los riñones sí necesitan agua para formar la orina y eliminar los desechos del cuerpo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar una afirmación sobre el cuidado de los riñones, reconociendo que beber agua suficiente favorece la filtración de la sangre y la eliminación de desechos, en lugar de perjudicarlos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-5-2026-W30-sistema-excretor-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}
