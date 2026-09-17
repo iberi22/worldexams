@@ -1,4 +1,9 @@
 import { defineConfig, devices } from '@playwright/test';
+import path from 'path';
+import { fileURLToPath } from 'url';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 const baseURL = process.env.PLAYWRIGHT_BASE_URL || 'http://localhost:4399';
 const useWebServer = process.env.PLAYWRIGHT_USE_WEBSERVER
@@ -23,8 +28,9 @@ export default defineConfig({
     headless: true,
     screenshot: 'on',
   },
-  webServer: process.env.CI || !useWebServer ? undefined : {
-    command: 'node ../node_modules/astro/bin/astro.mjs dev --port 4399',
+  webServer: (process.env.CI && process.env.PLAYWRIGHT_USE_WEBSERVER !== '1') || !useWebServer ? undefined : {
+    command: 'npx astro dev --port 4399',
+    cwd: __dirname,
     port: 4399,
     reuseExistingServer: false,
     timeout: 120000,
