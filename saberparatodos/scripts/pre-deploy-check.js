@@ -177,7 +177,8 @@ async function main() {
     const wranglerJson = await readJson(normalizedWranglerPath);
     if (process.argv.includes('--production') || (Array.isArray(wranglerJson.routes) && wranglerJson.routes.length > 0)) {
       ensure(wranglerJson.workers_dev === false, 'wrangler.json is normalized for production routes', failures);
-      ensure(Array.isArray(wranglerJson.routes) && wranglerJson.routes.some((route) => String(route.pattern || route).includes('saberparatodos.space/*')), 'wrangler.json contains production route for saberparatodos.space', failures);
+      ensure(Array.isArray(wranglerJson.routes) && wranglerJson.routes.some((route) => String(route.pattern || route).includes('worldexam.swal.network/*')), 'wrangler.json contains production route for worldexam.swal.network', failures);
+      ensure(Array.isArray(wranglerJson.routes) && wranglerJson.routes.some((route) => String(route.pattern || route).includes('saberparatodos.space/*')), 'wrangler.json keeps legacy route for saberparatodos.space', failures);
     }
   } else {
     failures.count += 1;
