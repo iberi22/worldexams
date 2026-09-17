@@ -109,7 +109,7 @@ jobs:
         working-directory: ./saberparatodos
         run: npm run build
         env:
-          PUBLIC_SITE_URL: https://saberparatodos.space
+          PUBLIC_SITE_URL: https://worldexam.swal.network
           PUBLIC_API_BASE_URL: https://api.saberparatodos.space/v1
 
       - name: 🔧 Normalize Cloudflare Wrangler Production Config
