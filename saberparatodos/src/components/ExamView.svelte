@@ -587,7 +587,10 @@
   }
 </script>
 
-<div class="w-full h-screen flex flex-col animate-fade-in-up" data-testid="exam-shell">
+<div class="w-full h-screen flex flex-col animate-fade-in-up" data-testid="exam-shell" data-exam-ready={hasValidQuestion ? "true" : "false"}>
+  {#if hasValidQuestion}
+    <div data-testid="exam-ready" class="hidden" aria-hidden="true"></div>
+  {/if}
   <!-- 🆕 Focus Lost Warning Banner (Exam Room Mode) -->
   {#if focusWarningVisible && roomCode}
     <div class="fixed top-0 left-0 right-0 z-50 bg-red-600 text-white py-3 px-4 text-center animate-pulse shadow-lg">
@@ -658,7 +661,7 @@
         <SharedContextLayout context={effectiveContext} title={sharedContextTitle}>
         <div class="space-y-4 sm:space-y-6">
 
-      <div class="bg-[#1E1E1E]/60 backdrop-blur-xl border border-white/10 rounded-2xl shadow-2xl flex flex-col max-h-[50vh] transition-all duration-300 relative overflow-hidden group">
+      <div data-testid="question-card" class="bg-[#1E1E1E]/60 backdrop-blur-xl border border-white/10 rounded-2xl shadow-2xl flex flex-col max-h-[50vh] transition-all duration-300 relative overflow-hidden group">
         <!-- Decorative gradient -->
         <div class="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-emerald-500/0 via-emerald-500/50 to-emerald-500/0 opacity-50"></div>
 
