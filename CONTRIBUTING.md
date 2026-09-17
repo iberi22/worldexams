@@ -44,7 +44,7 @@
 Para mantener una atención organizada y contextualizada:
 
 * **Para errores en preguntas específicas:** Usa el reporte directo in-app en la interfaz de práctica. La corrección se asocia de forma atómica al ID de la pregunta y pasa al flujo de revisión editorial.
-* **Para soporte técnico, arquitectura o colaboración:** Participa en la red **Maloca** o consulta el panel administrativo [`/admin/maloca`](file:///home/belal/proyectosSWAL/apps/worldexams/saberparatodos/src/pages/admin/maloca.astro) con `@swal/maloca-embed`.
+* **Para soporte técnico, arquitectura o colaboración:** Participa en la red **Maloca** o consulta el panel administrativo [`/admin/maloca`](saberparatodos/src/pages/admin/maloca.astro) con `@swal/maloca-embed`.
 * **Para contribuciones de código en GitHub:** Usa las plantillas de GitHub Issues configuradas en el repositorio.
 
 ---
