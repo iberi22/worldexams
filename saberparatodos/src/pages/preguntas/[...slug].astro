@@ -22,7 +22,7 @@ Astro.response.headers.set(
 const { slug } = Astro.params;
 const slugSegments = String(slug || '').toLowerCase().split('/').filter(Boolean);
 
-const siteUrl = import.meta.env.PUBLIC_SITE_URL || Astro.site?.toString() || 'https://saberparatodos.space';
+const siteUrl = import.meta.env.PUBLIC_SITE_URL || Astro.site?.toString() || 'https://worldexam.swal.network';
 const canonical = canonicalFor(slug ? `/preguntas/${slug}/` : '/preguntas/', siteUrl);
 
 let viewType: 'root' | 'country' | 'subject' | 'week' | 'bundle' = 'root';
