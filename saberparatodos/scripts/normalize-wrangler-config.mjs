@@ -52,14 +52,22 @@ function normalizeProductionRoutes(config) {
     }
   }
 
-  const zoneName = publicSiteUrl?.replace(/^www\./, '') ?? null;
+  // F1 bridge (2026-09-17): serve canonical + legacy hosts until F4 redirects.
+  for (const legacy of ['saberparatodos.space', 'www.saberparatodos.space']) {
+    candidates.add(legacy);
+  }
 
   return [...candidates]
     .sort()
-    .map((hostname) => ({
-      pattern: `${hostname}/*`,
-      ...(zoneName ? { zone_name: zoneName } : {}),
-    }));
+    .map((hostname) => {
+      const bare = hostname.replace(/^www\./, '');
+      // zone = apex: drop first label for subdomains (worldexam.swal.network -> swal.network)
+      const zoneName = bare.split('.').length > 2 ? bare.split('.').slice(1).join('.') : bare;
+      return {
+        pattern: `${hostname}/*`,
+        ...(zoneName ? { zone_name: zoneName } : {}),
+      };
+    });
 }
 
 function normalizeForPreview(config) {
