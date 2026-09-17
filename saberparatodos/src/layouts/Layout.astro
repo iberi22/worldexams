@@ -54,8 +54,11 @@ const {
   showCountryBanner = !modoCuentos
 } = Astro.props;
 
-const productionSiteUrl = countryConfig.product.siteUrl.replace(/\/$/, '');
-const siteUrl = productionSiteUrl; // Always canonical to production — prevents pages.dev indexing
+const siteUrl = (
+  import.meta.env.PUBLIC_SITE_URL ||
+  Astro.site?.toString() ||
+  countryConfig.product.siteUrl
+).replace(/\/$/, '');
 const canonicalURL = new URL(Astro.url.pathname, `${siteUrl}/`);
 const ogImageURL = new URL(image, canonicalURL);
 const ogLocale = (countryConfig.language || 'es-CO').replace('-', '_');
