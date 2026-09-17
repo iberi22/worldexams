@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-35-grade-5-subject-ciencias_naturales",
+    "generated_at": "2026-09-17T20:20:06.123Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-5-2026-W35-cuidado-salud-enfermedades-comunes-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la función principal del lavado de manos en la prevención de enfermedades?",
+      "context": "En una jornada de salud escolar en Cali, los médicos recuerdan la importancia del lavado constante de manos con agua y jabón antes de comer y después de ir al baño.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hidratar la piel para evitar que se reseque con el aire cálido.",
+          "is_correct": false,
+          "feedback": "Aunque limpia la piel, la razón médica prioritaria es eliminar gérmenes infecciosos."
+        },
+        {
+          "letter": "B",
+          "text": "Reemplazar la necesidad de cocinar bien los alimentos.",
+          "is_correct": false,
+          "feedback": "Lavarse las manos no desinfecta los alimentos crudos ni sustituye la cocción adecuada."
+        },
+        {
+          "letter": "C",
+          "text": "Eliminar microorganismos patógenos (bacterias y virus) que pueden ingresar al organismo y causar infecciones.",
+          "is_correct": true,
+          "feedback": "Correcto: El jabón rompe la envoltura de grasa de virus y bacterias permitiendo que el agua los arrastre y reduciendo contagios."
+        },
+        {
+          "letter": "D",
+          "text": "Aumentar la producción de glóbulos rojos en la sangre.",
+          "is_correct": false,
+          "feedback": "La producción de células sanguíneas ocurre dentro de la médula ósea y no depende del lavado externo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Recordar que la higiene personal rompe la cadena de transmisión directa de agentes infecciosos como virus respiratorios y bacterias gastrointestinales.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Biologia",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-5-2026-W35-cuidado-salud-enfermedades-comunes-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W35-cuidado-salud-enfermedades-comunes-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué eliminar los depósitos de agua estancada ayuda a prevenir el dengue, el zika y la chikunguña?",
+      "context": "En clima cálido como Barranquilla y Girardot, las brigadas de salud visitan las casas recomendando tapar los tanques de agua limpia y eliminar llantas y floreros con agua estancada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque evita la reproducción del mosquito Aedes aegypti al eliminar los criaderos donde la hembra deposita sus huevos.",
+          "is_correct": true,
+          "feedback": "Correcto: El mosquito vector deposita sus huevos en agua limpia estancada; sin criaderos disminuye la población de mosquitos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el agua estancada purifica el aire del hogar atrayendo a las bacterias del ambiente.",
+          "is_correct": false,
+          "feedback": "El agua estancada no purifica el aire y sirve como hábitat de larvas de insectos vectores."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los virus del dengue nacen espontáneamente en el agua que no se mueve.",
+          "is_correct": false,
+          "feedback": "Los virus no nacen espontáneamente; son transmitidos por la picadura del mosquito infectado."
+        },
+        {
+          "letter": "D",
+          "text": "Porque impide que el agua potable se contamine con polvo del suelo.",
+          "is_correct": false,
+          "feedback": "Aunque protege el agua del polvo, el objetivo central contra el dengue es erradicar el criadero de mosquitos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender la relación entre el ciclo de vida del mosquito vector y el control ambiental de criaderos para reducir la incidencia de enfermedades tropicales.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Biologia",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-5-2026-W35-cuidado-salud-enfermedades-comunes-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W35-cuidado-salud-enfermedades-comunes-001-MASTERY-bundle-v3",
+      "statement": "¿Cómo reacciona el sistema inmunológico del niño al recibir la vacuna?",
+      "context": "Un niño de quinto grado en Tunja recibió el esquema completo de vacunación contra la influenza antes de la llegada de la temporada de lluvias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Destruye inmediatamente todos los glóbulos blancos para cambiarlos por células nuevas.",
+          "is_correct": false,
+          "feedback": "La vacuna no destruye glóbulos blancos; activa los linfocitos existentes para entrenarlos."
+        },
+        {
+          "letter": "B",
+          "text": "Mata los parásitos intestinales que habitan en el sistema digestivo del niño.",
+          "is_correct": false,
+          "feedback": "La vacuna contra la influenza actúa en el sistema respiratorio/inmunológico, no es un antiparasitario."
+        },
+        {
+          "letter": "C",
+          "text": "Produce anticuerpos específicos que memorizan la estructura del virus para defender el cuerpo si entra en contacto con él en el futuro.",
+          "is_correct": true,
+          "feedback": "Correcto: Las vacunas contienen componentes atenuados o inactivos que estimulan la memoria inmunológica sin causar la enfermedad grave."
+        },
+        {
+          "letter": "D",
+          "text": "Genera una capa de grasa sobre los pulmones para tapar el paso del frío.",
+          "is_correct": false,
+          "feedback": "El mecanismo inmunitario es celular y molecular (anticuerpos), no una barrera de grasa física."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicar el concepto de inmunización activa reconociendo el papel de las vacunas en la estimulación de la respuesta defensiva del organismo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Biologia",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-5-2026-W35-cuidado-salud-enfermedades-comunes-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W35-cuidado-salud-enfermedades-comunes-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la combinación de hábitos adecuada para prevenir la propagación de virus respiratorios en el aula de clase?",
+      "context": "Durante la temporada invernal en la zona andina colombiana aumentan los casos de infecciones respiratorias agudas (IRA) en los colegios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mantener todas las ventanas cerradas, compartir cubiertos y no lavar las manos para no enfriarse.",
+          "is_correct": false,
+          "feedback": "Salones cerrados y compartir utensilios aumentan drásticamente la carga viral comunitaria."
+        },
+        {
+          "letter": "B",
+          "text": "Tomar gaseosas muy frías y realizar ejercicio físico intenso sin descansar durante la fiebre.",
+          "is_correct": false,
+          "feedback": "El descanso es clave en procesos febriles y no previene el contagio a los compañeros."
+        },
+        {
+          "letter": "C",
+          "text": "Usar desinfectante de pisos en la piel de los brazos antes de iniciar la clase.",
+          "is_correct": false,
+          "feedback": "Los desinfectantes de pisos son tóxicos para la piel y no sustituyen el lavado con jabón o gel antiséptico."
+        },
+        {
+          "letter": "D",
+          "text": "Ventilar los salones, taparse la boca al toser con el codo flexionado y quedarse en casa si hay fiebre o gripa.",
+          "is_correct": true,
+          "feedback": "Correcto: Estas tres acciones reducen la concentración de aerosoles y cortan la transmisión directa persona a persona."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aplicar protocolos de bioseguridad respiratoria cotidiana en entornos escolares para limitar contagios.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Biologia",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-5-2026-W35-cuidado-salud-enfermedades-comunes-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W35-cuidado-salud-enfermedades-comunes-001-MASTERY-bundle-v5",
+      "statement": "¿Qué procedimiento casero es indispensible realizar con el agua antes de utilizarla para el consumo humano?",
+      "context": "En una finca de Bucaramanga no hay servicio de acueducto y el agua proviene de un aljibe natural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hervirla durante al menos 5 minutos o aplicarle gotas de cloro apto para potabilización.",
+          "is_correct": true,
+          "feedback": "Correcto: La ebullición o cloración adecuada elimina bacterias como Escherichia coli y parásitos que causan diarrea aguda."
+        },
+        {
+          "letter": "B",
+          "text": "Dejarla al sol en un balde abierto durante toda la noche para que cambie de color.",
+          "is_correct": false,
+          "feedback": "Dejar agua abierta atrae insectos y no garantiza la eliminación de bacterias o protozoos dañinos."
+        },
+        {
+          "letter": "C",
+          "text": "Agregarle azúcar y hielo directamente sin ningún tratamiento térmico previo.",
+          "is_correct": false,
+          "feedback": "Agregar azúcar o hielo no mata los microorganismos patógenos presentes en el agua cruda."
+        },
+        {
+          "letter": "D",
+          "text": "Pasarla únicamente por una tela limpia para quitarle el olor.",
+          "is_correct": false,
+          "feedback": "El filtrado con tela quita sólidos grandes pero deja pasar bacterias y virus microscópicos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar técnicas sencillas de potabilización de agua para prevenir enfermedades diarréicas agudas (EDA) en zonas sin red de acueducto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Quimica",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-5-2026-W35-cuidado-salud-enfermedades-comunes-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W35-cuidado-salud-enfermedades-comunes-001-MASTERY-bundle-v6",
+      "statement": "Al comparar los resultados, la Comunidad 1 registró una reducción del 80% en casos de malaria frente a la Comunidad 2. ¿A qué se debe esta diferencia?",
+      "context": "Un grupo de investigación en salud analizó dos comunidades del Chocó con condiciones geográficas similares durante un año:\n- Comunidad 1: Instaló toldillos mosquiteros en todas las camas y usó repelente en las tardes.\n- Comunidad 2: No usó toldillos ni repelente, pero tomó vitaminas diariamente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A que las vitaminas matan al mosquito cuando se acerca a la habitación.",
+          "is_correct": false,
+          "feedback": "Las vitaminas nutren el cuerpo pero no ahuyentan ni eliminan a los insectos vectores."
+        },
+        {
+          "letter": "B",
+          "text": "A que los toldillos y repelentes actúan como barreras físicas y químicas contra la picadura del mosquito Anopheles transmisor.",
+          "is_correct": true,
+          "feedback": "Correcto: Prevenir el contacto directo con el mosquito portador del parásito es la estrategia más efectiva de barrera."
+        },
+        {
+          "letter": "C",
+          "text": "A que en la Comunidad 2 el agua de lluvia era más dulce que en la Comunidad 1.",
+          "is_correct": false,
+          "feedback": "La dulzura del agua no determina la transmisión de la malaria si no se evalúa la presencia del vector."
+        },
+        {
+          "letter": "D",
+          "text": "A que el frío de la noche destruyó el parásito de la malaria en el aire.",
+          "is_correct": false,
+          "feedback": "El parásito de la malaria no flota libremente en el aire; requiere ser inoculado por la picadura del mosquito."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar la eficacia de las medidas de barrera directa para la prevención de enfermedades metaxénicas transmitidas por vectores.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Biologia",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-5-2026-W35-cuidado-salud-enfermedades-comunes-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W35-cuidado-salud-enfermedades-comunes-001-MASTERY-bundle-v7",
+      "statement": "¿Qué consecuencia a largo plazo puede tener el estilo de vida de Andrés en comparación con el de Felipe?",
+      "context": "Andrés consume frecuentemente comida rápida alta en grasas saturadas, azúcares y sal, y no realiza actividad física. Su amigo Felipe consume frutas, verduras y legumbres, y juega fútbol diariamente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Menor probabilidad de sufrir caries dentales o problemas digestivos.",
+          "is_correct": false,
+          "feedback": "La comida chatarra rica en azúcares aumenta significativamente la aparición de caries y reflujo."
+        },
+        {
+          "letter": "B",
+          "text": "Aumento de la capacidad respiratoria y muscular por acumulación de calorías.",
+          "is_correct": false,
+          "feedback": "El exceso de calorías no quemadas se transforma en tejido graso y no en masa muscular ni resistencia aeróbica."
+        },
+        {
+          "letter": "C",
+          "text": "Inmunidad automática contra todos los virus respiratorios del ambiente.",
+          "is_correct": false,
+          "feedback": "La mala nutrición debilita la respuesta inmune en lugar de fortalecerla."
+        },
+        {
+          "letter": "D",
+          "text": "Mayor riesgo de desarrollar enfermedades no transmisibles como obesidad, diabetes e hipertensión arterial.",
+          "is_correct": true,
+          "feedback": "Correcto: El sedentarismo y la mala alimentación son factores causales primarios en enfermedades metabólicas crónicas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analizar el impacto del estilo de vida y los hábitos alimenticios en la prevención de enfermedades metabólicas y cardiovasculares.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Biologia",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-5-2026-W35-cuidado-salud-enfermedades-comunes-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-5-2026-W35-cuidado-salud-enfermedades-comunes-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué la recomendación del vecino es peligrosa si el estudiante tiene dengue?",
+      "context": "Un estudiante presenta fiebre alta de 39 °C, dolor muscular intenso detrás de los ojos y erupción en la piel en un municipio cálido. Un vecino le sugiere tomar aspirina o ibuprofeno de inmediato sin consultar al médico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la aspirina aumenta el sabor amargo de la saliva e impide tragar agua.",
+          "is_correct": false,
+          "feedback": "La amargura no es un riesgo médico vital en la infección por dengue."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la aspirina e ibuprofeno alteran la coagulación sanguínea y pueden desencadenar un dengue grave con hemorragias mortales.",
+          "is_correct": true,
+          "feedback": "Correcto: Antiinflamatorios no esteroideos (AINE) como aspirina/ibuprofeno inhiben la función plaquetaria aumentando el riesgo de sangrado. Se debe usar acetaminofén bajo supervisión."
+        },
+        {
+          "letter": "C",
+          "text": "Porque esos medicamentos convierten los virus del dengue en bacterias inmunes.",
+          "is_correct": false,
+          "feedback": "Los analgésicos no transforman la naturaleza biológica de un virus a una bacteria."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los medicamentos vencen la vacuna del dengue administrada años atrás.",
+          "is_correct": false,
+          "feedback": "El peligro real e inmediato radica en la inhibición plaquetaria y la inducción de hemorragias internas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar los riesgos mortales de la automedicación en sospechas de virosis tropicales como el dengue.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Biologia",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-5-2026-W35-cuidado-salud-enfermedades-comunes-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-39-grade-5-subject-matematicas",
+    "generated_at": "2026-09-17T20:20:06.454Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-5-2026-W39-probabilidad-eventos-seguros-imposibles-001-MASTERY-bundle-v1",
+      "statement": "¿Cómo se clasifica el evento \"sacar una canica roja\"?",
+      "context": "En una bolsa opaca hay 10 canicas rojas. Carlos mete la mano sin mirar para sacar una canica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Evento imposible.",
+          "is_correct": false,
+          "feedback": "Sería imposible si no hubiera ninguna canica roja en la bolsa."
+        },
+        {
+          "letter": "B",
+          "text": "Evento seguro.",
+          "is_correct": true,
+          "feedback": "Correcto: Como todas las canicas de la bolsa son rojas, es seguro que saldrá una canica roja."
+        },
+        {
+          "letter": "C",
+          "text": "Evento poco posible.",
+          "is_correct": false,
+          "feedback": "No es poco posible; las probabilidades de obtener roja son de 10 sobre 10 (100%)."
+        },
+        {
+          "letter": "D",
+          "text": "Evento incierto.",
+          "is_correct": false,
+          "feedback": "No hay incertidumbre; la totalidad del contenido cumple la condición."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Recordar que un evento es seguro cuando todos los resultados posibles del experimento aleatorio cumplen con el suceso buscado.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-5-2026-W39-probabilidad-eventos-seguros-imposibles-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W39-probabilidad-eventos-seguros-imposibles-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué el evento \"obtener un número mayor que 6\" se considera un evento imposible?",
+      "context": "Se lanza un dado común de 6 caras numeradas del 1 al 6.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el dado puede caer debajo de la mesa al lanzarlo.",
+          "is_correct": false,
+          "feedback": "Caer fuera de la mesa es una falla del lanzamiento, no la definición teórica de evento imposible."
+        },
+        {
+          "letter": "B",
+          "text": "Porque depende de la fuerza con que se lance el dado.",
+          "is_correct": false,
+          "feedback": "La fuerza no puede crear un número que no exista en las caras físicas del dado."
+        },
+        {
+          "letter": "C",
+          "text": "Porque ninguna cara del dado tiene grabado un número mayor que 6.",
+          "is_correct": true,
+          "feedback": "Correcto: El espacio muestral solo contiene los números {1, 2, 3, 4, 5, 6}."
+        },
+        {
+          "letter": "D",
+          "text": "Porque solo ocurre 1 vez cada 6 lanzamientos.",
+          "is_correct": false,
+          "feedback": "Ocurrir 1 de cada 6 describe una probabilidad de 1/6, no un evento imposible (0/6)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprender la noción de evento imposible como aquel suceso cuyo conjunto de casos favorables es totalmente vacío.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-5-2026-W39-probabilidad-eventos-seguros-imposibles-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W39-probabilidad-eventos-seguros-imposibles-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la probabilidad de extraer una ficha de color verde?",
+      "context": "En una urna escolar en Barranquilla hay 4 fichas verdes, 3 fichas azules y 3 fichas amarillas. Se extrae una ficha al azar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3/10 (o 30%).",
+          "is_correct": false,
+          "feedback": "3/10 es la probabilidad de sacar una ficha azul o una amarilla."
+        },
+        {
+          "letter": "B",
+          "text": "4/6.",
+          "is_correct": false,
+          "feedback": "Confundió el total de fichas escribiendo 6 en el denominador en vez de 10."
+        },
+        {
+          "letter": "C",
+          "text": "4/10 (o 40%).",
+          "is_correct": true,
+          "feedback": "Correcto: Casos favorables = 4 (verdes). Casos posibles = 4 + 3 + 3 = 10 fichas. Probabilidad = 4/10."
+        },
+        {
+          "letter": "D",
+          "text": "1/4.",
+          "is_correct": false,
+          "feedback": "Es la relación de 1 ficha entre las 4 verdes, sin tomar en cuenta el total de la urna."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicar la regla de Laplace dividiendo la cantidad de casos favorables entre la cantidad total de resultados posibles.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-5-2026-W39-probabilidad-eventos-seguros-imposibles-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W39-probabilidad-eventos-seguros-imposibles-001-MASTERY-bundle-v4",
+      "statement": "¿Qué probabilidad hay de que la ruleta se detenga en un sector de color blanco?",
+      "context": "En una ruleta dividida en 8 sectores iguales en Cali, hay 5 sectores pintados de rojo y 3 sectores pintados de blanco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3/8.",
+          "is_correct": true,
+          "feedback": "Correcto: Casos favorables = 3 (blancos). Casos totales = 8. Probabilidad = 3/8."
+        },
+        {
+          "letter": "B",
+          "text": "5/8.",
+          "is_correct": false,
+          "feedback": "5/8 es la probabilidad de que se detenga en el color rojo."
+        },
+        {
+          "letter": "C",
+          "text": "3/5.",
+          "is_correct": false,
+          "feedback": "Dividió las fichas blancas entre las rojas, confundiendo casos totales con el complemento."
+        },
+        {
+          "letter": "D",
+          "text": "1/2.",
+          "is_correct": false,
+          "feedback": "1/2 presupone que hay la misma cantidad de sectores de cada color, pero 3 no es igual a 5."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Calcular probabilidades en experimentos aleatorios con equiprobabilidad de sectores geométricos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-5-2026-W39-probabilidad-eventos-seguros-imposibles-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W39-probabilidad-eventos-seguros-imposibles-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la probabilidad de no sacar una pelota?",
+      "context": "Una caja de sorpresas para una fiesta en Medellín contiene 12 juguetes: 6 carritos, 4 muñecas y 2 pelotas. Un niño mete la mano sin mirar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2/12 (o 1/6).",
+          "is_correct": false,
+          "feedback": "2/12 es la probabilidad de SÍ sacar una pelota."
+        },
+        {
+          "letter": "B",
+          "text": "6/12 (o 1/2).",
+          "is_correct": false,
+          "feedback": "6/12 es la probabilidad de sacar únicamente carritos."
+        },
+        {
+          "letter": "C",
+          "text": "4/12 (o 1/3).",
+          "is_correct": false,
+          "feedback": "4/12 representa solo la probabilidad de sacar muñecas."
+        },
+        {
+          "letter": "D",
+          "text": "10/12 (o 5/6).",
+          "is_correct": true,
+          "feedback": "Correcto: Los juguetes que no son pelotas son carritos y muñecas: 6 + 4 = 10. Probabilidad = 10/12."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aplicar la probabilidad de eventos complementarios restando los casos no deseados del total de posibilidades.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-5-2026-W39-probabilidad-eventos-seguros-imposibles-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W39-probabilidad-eventos-seguros-imposibles-001-MASTERY-bundle-v6",
+      "statement": "Si para ganar necesitan sacar un número par, ¿cuál bolsa debe elegir Luisa para tener la mayor probabilidad de triunfo?",
+      "context": "Luisa y Andrés juegan con dos bolsas que contienen balotas numeradas del 1 al 10:\n- Bolsa A: Tiene 3 balotas con números pares y 7 impares.\n- Bolsa B: Tiene 6 balotas con números pares y 4 impares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Bolsa A, porque tiene más números impares que equilibran la suerte.",
+          "is_correct": false,
+          "feedback": "Tener más impares reduce las opciones de sacar número par en la Bolsa A."
+        },
+        {
+          "letter": "B",
+          "text": "Ambas bolsas ofrecen la misma oportunidad porque tienen 10 balotas cada una.",
+          "is_correct": false,
+          "feedback": "Aunque el total es idéntico, la distribución interna de los casos favorables es diferente."
+        },
+        {
+          "letter": "C",
+          "text": "La Bolsa A, porque 3 es un número primo y da ventaja matemática.",
+          "is_correct": false,
+          "feedback": "Que la cantidad de pares sea un número primo no altera la proporción de probabilidad."
+        },
+        {
+          "letter": "D",
+          "text": "La Bolsa B, porque la probabilidad de sacar par es 6/10 (60%), mientras que en la Bolsa A es 3/10 (30%).",
+          "is_correct": true,
+          "feedback": "Correcto: 6/10 > 3/10, por lo que la Bolsa B ofrece el doble de oportunidad de obtener par."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analizar y comparar espacios muestrales en dos poblaciones para tomar decisiones basadas en probabilidad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-5-2026-W39-probabilidad-eventos-seguros-imposibles-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W39-probabilidad-eventos-seguros-imposibles-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es ahora la probabilidad de que la siguiente balota extraída sea un número par?",
+      "context": "En un bingo de salón escolar en Pereira, las balotas están numeradas del 1 al 20. Se han extraído sin reposición los números 2, 4, 6, 8, 10, 12, 14, 16, 18 y 20 (todos los pares).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0 (es un evento imposible).",
+          "is_correct": true,
+          "feedback": "Correcto: Dado que ya salieron los 10 números pares que existían, quedan 0 pares en la balotera."
+        },
+        {
+          "letter": "B",
+          "text": "1/2 (50%).",
+          "is_correct": false,
+          "feedback": "50% era la probabilidad al inicio del juego, pero al extraer los pares sin reposición la condición cambió."
+        },
+        {
+          "letter": "C",
+          "text": "10/20.",
+          "is_correct": false,
+          "feedback": "Ignora que las balotas extraídas ya no están dentro de la balotera."
+        },
+        {
+          "letter": "D",
+          "text": "1/10.",
+          "is_correct": false,
+          "feedback": "Quedan 10 balotas pero todas son impares, por lo que no hay posibilidades de sacar par."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar cómo varían las probabilidades de un espacio muestral cuando ocurren extracciones sin reposición.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-5-2026-W39-probabilidad-eventos-seguros-imposibles-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-5-2026-W39-probabilidad-eventos-seguros-imposibles-001-MASTERY-bundle-v8",
+      "statement": "¿Qué se puede concluir sobre la probabilidad combinada de que el premio quede en manos de Sofía o de Mateo?",
+      "context": "Un parque temático en el Eje Cafetero realiza una rifa. Se venden 100 boletas en total. Sofía compra 10 boletas y Mateo compra 15 boletas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es de 15%, porque se toma únicamente la mayor probabilidad individual que es la de Mateo.",
+          "is_correct": false,
+          "feedback": "Cuando dos personas suman sus boletas, sus probabilidades individuales se adicionan."
+        },
+        {
+          "letter": "B",
+          "text": "La probabilidad combinada es de 25% (1/4), porque la suma de sus casos favorables es 25 de 100.",
+          "is_correct": true,
+          "feedback": "Correcto: P(Sofía o Mateo) = P(Sofía) + P(Mateo) = 10/100 + 15/100 = 25/100 = 1/4 = 25%."
+        },
+        {
+          "letter": "C",
+          "text": "Es de 150%, porque al multiplicar 10 × 15 se superan las 100 boletas totales.",
+          "is_correct": false,
+          "feedback": "Las probabilidades no se multiplican en eventos mutuamente excluyentes para calcular la unión."
+        },
+        {
+          "letter": "D",
+          "text": "Es imposible saberlo sin conocer quién sacará primero la boleta.",
+          "is_correct": false,
+          "feedback": "La probabilidad teórica a priori se calcula exactamente con la suma de las boletas poseídas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar la probabilidad de la unión de eventos mutuamente excluyentes sumando las probabilidades individuales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-5-2026-W39-probabilidad-eventos-seguros-imposibles-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}
