@@ -40,6 +40,13 @@ This file adds package-local rules only. Root governance still lives in `../AGEN
 - Treat `../supabase/functions/` as legacy/shared unless a migration task says otherwise.
 - Before deploy audits or parity claims, run `powershell -File ../scripts/audit-supabase-functions.ps1`.
 
+### Testing & Playwright
+
+- `@playwright/test` is pinned to `1.62.1` in `package.json` to prevent version drift between runner and browser dependencies.
+- Browser installation is automated via the `"pretest"` script in `saberparatodos/package.json` (`npx playwright install chromium`), which runs automatically before `npm run test`.
+- To manually install Chromium along with operating system dependencies: `npx playwright install chromium --with-deps`.
+- In NixOS or unprivileged environments where `npx playwright install chromium --with-deps` fails (because it requires `sudo` for system packages), use `nix-shell` or pre-installed system browser binaries instead.
+
 ### Deploy
 
 - Do not add GitHub Actions for product deploys.
