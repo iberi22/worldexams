@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-27-grade-5-subject-ingles",
+    "generated_at": "2026-09-18T18:24:05.799Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-5-2026-W27-colombian-festivals-traditions-001-MASTERY-bundle-v1",
+      "statement": "What is a festival with music, dancing and colorful costumes in the street?",
+      "context": "In a classroom in Barranquilla, students decorate masks for the Carnival parade.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Carnival.",
+          "is_correct": true,
+          "feedback": "Carnival is correct because it has music, dancing and costumes."
+        },
+        {
+          "letter": "B",
+          "text": "Exam.",
+          "is_correct": false,
+          "feedback": "An exam is a school test, not a street celebration."
+        },
+        {
+          "letter": "C",
+          "text": "Hospital.",
+          "is_correct": false,
+          "feedback": "A hospital is for sick people, not for dancing."
+        },
+        {
+          "letter": "D",
+          "text": "Homework.",
+          "is_correct": false,
+          "feedback": "Homework is school work at home, not a celebration."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La palabra Carnival nombra una fiesta popular con desfiles. También es útil asociarla con parade, mask y costume.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-5-2026-W27-colombian-festivals-traditions-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W27-colombian-festivals-traditions-001-MASTERY-bundle-v2",
+      "statement": "The Feria de las Flores is in August. People carry beautiful flowers in a parade. When is the Feria de las Flores?",
+      "context": "In a school in Medellín, a teacher shows photos of the Feria de las Flores in August.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "In December.",
+          "is_correct": false,
+          "feedback": "December is a different month, not August."
+        },
+        {
+          "letter": "B",
+          "text": "In August.",
+          "is_correct": true,
+          "feedback": "In August is correct because the text says August."
+        },
+        {
+          "letter": "C",
+          "text": "In February.",
+          "is_correct": false,
+          "feedback": "February is a different month, not August."
+        },
+        {
+          "letter": "D",
+          "text": "In April.",
+          "is_correct": false,
+          "feedback": "April is a different month, not August."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La comprensión lectora localiza el mes dentro del texto. Además, la preposición in se usa con meses en inglés.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-5-2026-W27-colombian-festivals-traditions-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W27-colombian-festivals-traditions-001-MASTERY-bundle-v3",
+      "statement": "The festival is ___ March 15th. Which preposition completes the date correctly?",
+      "context": "At a party in Cartagena, a boy asks about the date of the school festival in March.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "in",
+          "is_correct": false,
+          "feedback": "In is for months alone, not for full dates with day."
+        },
+        {
+          "letter": "B",
+          "text": "at",
+          "is_correct": false,
+          "feedback": "At is for hours, not for dates with day and month."
+        },
+        {
+          "letter": "C",
+          "text": "on",
+          "is_correct": true,
+          "feedback": "On is correct because we say on March 15th."
+        },
+        {
+          "letter": "D",
+          "text": "by",
+          "is_correct": false,
+          "feedback": "By means transport or near, not for dates."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La preposición on acompaña fechas completas con día. También contrasta con in, que solo acompaña meses o años.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.82,
+      "bundle_id": "CO-ING-5-2026-W27-colombian-festivals-traditions-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W27-colombian-festivals-traditions-001-MASTERY-bundle-v4",
+      "statement": "People ___ and dance in the Carnival parade every year. Which verb completes the tradition?",
+      "context": "In a library in Bogotá, two friends read about Barranquilla Carnival traditions.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "cry sad songs",
+          "is_correct": false,
+          "feedback": "Cry sad songs does not match a happy Carnival parade."
+        },
+        {
+          "letter": "B",
+          "text": "sing",
+          "is_correct": true,
+          "feedback": "Sing is correct because people sing and dance at Carnival."
+        },
+        {
+          "letter": "C",
+          "text": "sleep late",
+          "is_correct": false,
+          "feedback": "Sleep late means rest, not celebrate in a parade."
+        },
+        {
+          "letter": "D",
+          "text": "study math",
+          "is_correct": false,
+          "feedback": "Study math is a school activity, not a Carnival tradition."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El vocabulario sing, dance y celebrate describe tradiciones festivas. Es importante usar el verbo base después de people en presente simple.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-5-2026-W27-colombian-festivals-traditions-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W27-colombian-festivals-traditions-001-MASTERY-bundle-v5",
+      "statement": "Christmas is a celebration with family, gifts and lights. What does celebration mean?",
+      "context": "In a market in Cali, a girl buys a handmade gift for a December celebration.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A sad exam at school.",
+          "is_correct": false,
+          "feedback": "An exam is not a happy celebration with family."
+        },
+        {
+          "letter": "B",
+          "text": "A normal school day.",
+          "is_correct": false,
+          "feedback": "A school day is routine, not a special party."
+        },
+        {
+          "letter": "C",
+          "text": "A visit to the doctor.",
+          "is_correct": false,
+          "feedback": "A doctor visit is for health, not a party."
+        },
+        {
+          "letter": "D",
+          "text": "A special happy event with people together.",
+          "is_correct": true,
+          "feedback": "This is correct because a celebration joins people happily."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La palabra celebration abarca festival, party y holiday. También ayuda a describir eventos culturales con alegría.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-5-2026-W27-colombian-festivals-traditions-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W27-colombian-festivals-traditions-001-MASTERY-bundle-v6",
+      "statement": "Text: Barranquilla Carnival is in February with dancing. Feria de las Flores is in August with flowers. Which statement is true?",
+      "context": "In a school in Manizales, Pedro reads a short text about two Colombian festivals.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Carnival is in February and Feria de las Flores is in August.",
+          "is_correct": true,
+          "feedback": "This is correct because it matches both months in the text."
+        },
+        {
+          "letter": "B",
+          "text": "Both festivals are in February with flowers.",
+          "is_correct": false,
+          "feedback": "Only Carnival is in February, Feria is in August."
+        },
+        {
+          "letter": "C",
+          "text": "Both festivals are in August with dancing.",
+          "is_correct": false,
+          "feedback": "Only Feria is in August, Carnival is in February."
+        },
+        {
+          "letter": "D",
+          "text": "Carnival is in August and Feria is in February.",
+          "is_correct": false,
+          "feedback": "The months are exchanged and do not match the text."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar exige comparar meses y características de cada festival. Además, es clave no confundir February con August en la lectura.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-5-2026-W27-colombian-festivals-traditions-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W27-colombian-festivals-traditions-001-MASTERY-bundle-v7",
+      "statement": "The Carnival is on February 22nd. The school party is on March 3rd. Which comes first?",
+      "context": "On a calendar in Pereira, a teacher marks birthdays and festival dates with colors.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The school party, because March is before February.",
+          "is_correct": false,
+          "feedback": "February comes before March in the year."
+        },
+        {
+          "letter": "B",
+          "text": "The Carnival, because February 22nd is before March 3rd.",
+          "is_correct": true,
+          "feedback": "This is correct because February comes before March."
+        },
+        {
+          "letter": "C",
+          "text": "Both are on the same day.",
+          "is_correct": false,
+          "feedback": "February 22nd and March 3rd are different dates."
+        },
+        {
+          "letter": "D",
+          "text": "Neither, because calendars do not show months.",
+          "is_correct": false,
+          "feedback": "Calendars show months, days and festival dates clearly."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ordenar fechas exige conocer el orden de los meses. También es útil practicar ordinal numbers al decir fechas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.68,
+      "bundle_id": "CO-ING-5-2026-W27-colombian-festivals-traditions-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W27-colombian-festivals-traditions-001-MASTERY-bundle-v8",
+      "statement": "Poster 1: Carnival in Barranquilla, February, dancing. Poster 2: Feria de las Flores in Medellín, August, flowers. Poster 3: Carnival with snow in a desert. Which evaluation is correct?",
+      "context": "In a cultural fair in Santa Marta, students evaluate three posters about Colombian traditions.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "All posters are correct about Colombia.",
+          "is_correct": false,
+          "feedback": "Snow in a desert does not represent a Colombian tradition."
+        },
+        {
+          "letter": "B",
+          "text": "Posters 1 and 3 are correct, Poster 2 is wrong.",
+          "is_correct": false,
+          "feedback": "Feria de las Flores in Medellín is a real tradition."
+        },
+        {
+          "letter": "C",
+          "text": "Posters 1 and 2 are correct, Poster 3 is false.",
+          "is_correct": true,
+          "feedback": "This is correct because Poster 3 shows an impossible tradition."
+        },
+        {
+          "letter": "D",
+          "text": "Only Poster 3 is correct about Colombia.",
+          "is_correct": false,
+          "feedback": "Carnival with snow does not match Colombian culture."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar implica distinguir tradiciones reales de información falsa. Asimismo, vincular ciudad, mes y símbolo confirma la validez cultural.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.62,
+      "bundle_id": "CO-ING-5-2026-W27-colombian-festivals-traditions-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

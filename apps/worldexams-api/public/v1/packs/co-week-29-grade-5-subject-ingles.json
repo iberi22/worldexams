@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-29-grade-5-subject-ingles",
+    "generated_at": "2026-09-18T18:24:05.799Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-5-2026-W29-invitations-birthday-parties-001-MASTERY-bundle-v1",
+      "statement": "Which thing do you send to invite friends to your birthday party?",
+      "context": "In a house in Bogotá, a girl writes birthday cards for her party on Saturday.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Homework.",
+          "is_correct": false,
+          "feedback": "Homework is school work, not for inviting friends."
+        },
+        {
+          "letter": "B",
+          "text": "Thermometer.",
+          "is_correct": false,
+          "feedback": "A thermometer measures temperature, not for invitations."
+        },
+        {
+          "letter": "C",
+          "text": "Invitation card.",
+          "is_correct": true,
+          "feedback": "Invitation card is correct because it invites friends to the party."
+        },
+        {
+          "letter": "D",
+          "text": "Umbrella.",
+          "is_correct": false,
+          "feedback": "An umbrella protects from rain, not for inviting friends."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La palabra invitation es clave para organizar fiestas. También se combina con send an invitation y birthday card.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-5-2026-W29-invitations-birthday-parties-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W29-invitations-birthday-parties-001-MASTERY-bundle-v2",
+      "statement": "Invitation: Come to my party on Sunday at 4:00. What day is the party?",
+      "context": "In a school in Medellín, a boy reads an invitation for a party on Sunday afternoon.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "On Sunday.",
+          "is_correct": true,
+          "feedback": "On Sunday is correct because the invitation says Sunday."
+        },
+        {
+          "letter": "B",
+          "text": "On Monday.",
+          "is_correct": false,
+          "feedback": "On Monday is a different day, not Sunday."
+        },
+        {
+          "letter": "C",
+          "text": "On Friday.",
+          "is_correct": false,
+          "feedback": "On Friday is a different day, not Sunday."
+        },
+        {
+          "letter": "D",
+          "text": "On Tuesday.",
+          "is_correct": false,
+          "feedback": "On Tuesday is a different day, not Sunday."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La comprensión lectora localiza el día dentro de la invitación. Además, la preposición on acompaña días de la semana.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-5-2026-W29-invitations-birthday-parties-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W29-invitations-birthday-parties-001-MASTERY-bundle-v3",
+      "statement": "Would you like to come to my party? Yes, ___. Which answer accepts the invitation politely?",
+      "context": "In a park in Cali, a girl invites her friend to her birthday party with cake.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, I hate parties.",
+          "is_correct": false,
+          "feedback": "This answer declines rudely and does not accept."
+        },
+        {
+          "letter": "B",
+          "text": "Maybe rain is wet.",
+          "is_correct": false,
+          "feedback": "Maybe rain is wet does not answer the invitation."
+        },
+        {
+          "letter": "C",
+          "text": "Sorry, I cannot go.",
+          "is_correct": false,
+          "feedback": "Sorry I cannot go declines the invitation, not accepts."
+        },
+        {
+          "letter": "D",
+          "text": "I would love to come.",
+          "is_correct": true,
+          "feedback": "I would love to come is correct because it accepts politely."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La respuesta I would love to acepta con entusiasmo y cortesía. También contrasta con Sorry, I cannot, que rechaza la invitación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.82,
+      "bundle_id": "CO-ING-5-2026-W29-invitations-birthday-parties-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W29-invitations-birthday-parties-001-MASTERY-bundle-v4",
+      "statement": "Can you come to my party on Saturday? Sorry, I ___ come. I visit my grandmother. Which verb declines politely?",
+      "context": "In a house in Bucaramanga, a boy declines an invitation because he visits his grandmother.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "can party happy",
+          "is_correct": false,
+          "feedback": "Can party happy is not correct grammar for declining."
+        },
+        {
+          "letter": "B",
+          "text": "cannot",
+          "is_correct": true,
+          "feedback": "Cannot is correct because it politely declines with sorry."
+        },
+        {
+          "letter": "C",
+          "text": "love to party",
+          "is_correct": false,
+          "feedback": "Love to party accepts, it does not decline the invitation."
+        },
+        {
+          "letter": "D",
+          "text": "am cake",
+          "is_correct": false,
+          "feedback": "Am cake is incorrect grammar and unrelated to invitations."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La forma sorry más cannot rechaza con educación. Es importante añadir el motivo para mantener la cortesía.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-5-2026-W29-invitations-birthday-parties-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W29-invitations-birthday-parties-001-MASTERY-bundle-v5",
+      "statement": "At a birthday party, you can see balloons, cake and ___. Which word belongs to a party?",
+      "context": "At a birthday party in Pereira, children eat cake and receive balloons and gifts.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Exams.",
+          "is_correct": false,
+          "feedback": "Exams are school tests, not party objects."
+        },
+        {
+          "letter": "B",
+          "text": "Gifts.",
+          "is_correct": true,
+          "feedback": "Gifts is correct because birthday parties have gifts."
+        },
+        {
+          "letter": "C",
+          "text": "Toothaches.",
+          "is_correct": false,
+          "feedback": "Toothaches are pains, not party objects."
+        },
+        {
+          "letter": "D",
+          "text": "Buses.",
+          "is_correct": false,
+          "feedback": "Buses are transport, not typical party objects."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El vocabulario balloon, cake y gift describe una fiesta típica. También es útil usarlos para elaborar una lista de la fiesta.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-5-2026-W29-invitations-birthday-parties-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W29-invitations-birthday-parties-001-MASTERY-bundle-v6",
+      "statement": "Invite 1: Party on Friday at 5:00. Invite 2: Party on Saturday at 3:00. Luisa can go on Saturday. Which party can Luisa join?",
+      "context": "In a classroom in Cartagena, Luisa reads two invitations with different dates and times.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Invite 2, because it is on Saturday at 3:00.",
+          "is_correct": true,
+          "feedback": "Invite 2 is correct because it matches her free day."
+        },
+        {
+          "letter": "B",
+          "text": "Invite 1, because it is on Saturday too.",
+          "is_correct": false,
+          "feedback": "Invite 1 is on Friday, not on Saturday."
+        },
+        {
+          "letter": "C",
+          "text": "Both, because Friday and Saturday are the same day.",
+          "is_correct": false,
+          "feedback": "Friday and Saturday are different days."
+        },
+        {
+          "letter": "D",
+          "text": "Neither, because parties are on Monday.",
+          "is_correct": false,
+          "feedback": "The invitations say Friday and Saturday, not Monday."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar exige comparar día y hora con la disponibilidad. Además, es clave distinguir Friday de Saturday en la invitación.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-5-2026-W29-invitations-birthday-parties-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W29-invitations-birthday-parties-001-MASTERY-bundle-v7",
+      "statement": "Answer 1: Sure, I would love to come. Answer 2: No, your party is boring. Which answer is polite?",
+      "context": "In a school in Manizales, a teacher shows polite and rude answers to an invitation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Answer 2, because boring is polite.",
+          "is_correct": false,
+          "feedback": "Boring is rude and hurts feelings."
+        },
+        {
+          "letter": "B",
+          "text": "Both, because both accept the invitation.",
+          "is_correct": false,
+          "feedback": "Answer 2 does not accept, it rejects rudely."
+        },
+        {
+          "letter": "C",
+          "text": "Neither, because invitations need no answer.",
+          "is_correct": false,
+          "feedback": "Invitations need a polite accept or decline answer."
+        },
+        {
+          "letter": "D",
+          "text": "Answer 1, because sure and love show enthusiasm.",
+          "is_correct": true,
+          "feedback": "Answer 1 is correct because it accepts with kind words."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Distinguir el tono cortés del grosero es esencial en comunicación. También el uso de sure y love suaviza la respuesta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.68,
+      "bundle_id": "CO-ING-5-2026-W29-invitations-birthday-parties-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W29-invitations-birthday-parties-001-MASTERY-bundle-v8",
+      "statement": "Card 1: Party on Sunday at 4:00, address included. Card 2: Party, no day, no time. Card 3: Party on Monday at 9:00 in the morning during school. Which is the best invitation?",
+      "context": "In a stationery shop in Santa Marta, a boy evaluates three invitation cards before buying one.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Card 2, because missing information is clear.",
+          "is_correct": false,
+          "feedback": "Missing day and time makes the invitation unclear."
+        },
+        {
+          "letter": "B",
+          "text": "Card 1, because it has day, time and address clearly.",
+          "is_correct": true,
+          "feedback": "This is correct because a good invitation needs day, time and place."
+        },
+        {
+          "letter": "C",
+          "text": "Card 3, because school time is perfect for a party.",
+          "is_correct": false,
+          "feedback": "A party during school hours is not convenient."
+        },
+        {
+          "letter": "D",
+          "text": "All cards are equally good.",
+          "is_correct": false,
+          "feedback": "Only Card 1 has complete and convenient information."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar una invitación exige verificar día, hora y lugar. Asimismo, una buena invitación evita horarios imposibles como la jornada escolar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.62,
+      "bundle_id": "CO-ING-5-2026-W29-invitations-birthday-parties-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

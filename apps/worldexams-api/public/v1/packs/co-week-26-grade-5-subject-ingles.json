@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-26-grade-5-subject-ingles",
+    "generated_at": "2026-09-18T18:24:05.798Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-5-2026-W26-means-of-transport-travel-001-MASTERY-bundle-v1",
+      "statement": "Which transport has four wheels and carries many people in the city?",
+      "context": "At a bus stop in Bogotá, a boy waits for the school bus in the morning.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bicycle.",
+          "is_correct": false,
+          "feedback": "A bicycle has two wheels and carries one person."
+        },
+        {
+          "letter": "B",
+          "text": "Airplane.",
+          "is_correct": false,
+          "feedback": "An airplane flies in the sky, not on city streets."
+        },
+        {
+          "letter": "C",
+          "text": "Bus.",
+          "is_correct": true,
+          "feedback": "Bus is correct because it carries many people in the city."
+        },
+        {
+          "letter": "D",
+          "text": "Boat.",
+          "is_correct": false,
+          "feedback": "A boat travels on water, not on city streets."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La palabra bus es esencial para hablar del transporte escolar y urbano. También es útil asociarla con bus stop para pedir direcciones.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-5-2026-W26-means-of-transport-travel-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W26-means-of-transport-travel-001-MASTERY-bundle-v2",
+      "statement": "The airplane is fast and it flies in the sky from Cali to Bogotá. Where does the airplane travel?",
+      "context": "At an airport in Cali, a girl looks at a big plane before her trip.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "In the sky.",
+          "is_correct": true,
+          "feedback": "In the sky is correct because airplanes fly high above the ground."
+        },
+        {
+          "letter": "B",
+          "text": "On the river.",
+          "is_correct": false,
+          "feedback": "On the river is for boats, not for airplanes."
+        },
+        {
+          "letter": "C",
+          "text": "Under the bridge.",
+          "is_correct": false,
+          "feedback": "Under the bridge describes a place on land, not flight."
+        },
+        {
+          "letter": "D",
+          "text": "In the school.",
+          "is_correct": false,
+          "feedback": "In the school is a place for students, not for flight."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender exige relacionar flies con in the sky. Además, la preposición in ayuda a describir dónde ocurre la acción.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-5-2026-W26-means-of-transport-travel-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W26-means-of-transport-travel-001-MASTERY-bundle-v3",
+      "statement": "How do you get to the park? You can go ___ bus. Which word completes the answer?",
+      "context": "On a street in Medellín, a tourist asks a boy how to get to the park.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "on foot only, never by bus.",
+          "is_correct": false,
+          "feedback": "The sentence needs by plus transport, not on foot here."
+        },
+        {
+          "letter": "B",
+          "text": "by",
+          "is_correct": true,
+          "feedback": "By is correct because we say by bus, by taxi, by bike."
+        },
+        {
+          "letter": "C",
+          "text": "in bicycle fast",
+          "is_correct": false,
+          "feedback": "In bicycle is incorrect grammar for transport in English."
+        },
+        {
+          "letter": "D",
+          "text": "with airplane to park",
+          "is_correct": false,
+          "feedback": "An airplane does not go to a small city park."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La estructura by más transporte expresa el medio utilizado para viajar. También contrasta con on foot, que significa caminando.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.82,
+      "bundle_id": "CO-ING-5-2026-W26-means-of-transport-travel-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W26-means-of-transport-travel-001-MASTERY-bundle-v4",
+      "statement": "The bicycle is ___ the bus. The bicycle is next to the bus. Which preposition is correct?",
+      "context": "Near the station in Cartagena, a girl describes where her bicycle is in the afternoon.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "far pretty",
+          "is_correct": false,
+          "feedback": "Far pretty is not a correct preposition of place."
+        },
+        {
+          "letter": "B",
+          "text": "into the sky",
+          "is_correct": false,
+          "feedback": "Into the sky describes movement upward, not next to."
+        },
+        {
+          "letter": "C",
+          "text": "next to",
+          "is_correct": true,
+          "feedback": "Next to is correct because it means beside the bus."
+        },
+        {
+          "letter": "D",
+          "text": "under of over",
+          "is_correct": false,
+          "feedback": "Under of over mixes two prepositions and is incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las preposiciones next to, near y between indican posición. Es necesario practicarlas con objetos reales para no confundirlas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-5-2026-W26-means-of-transport-travel-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W26-means-of-transport-travel-001-MASTERY-bundle-v5",
+      "statement": "A taxi is fast but it is expensive. The trip costs $25.000 COP. What does expensive mean?",
+      "context": "In a taxi in Bucaramanga, a boy pays $25.000 COP for a short trip home.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It costs a lot of money.",
+          "is_correct": true,
+          "feedback": "This is correct because expensive means high price in COP."
+        },
+        {
+          "letter": "B",
+          "text": "It is very slow.",
+          "is_correct": false,
+          "feedback": "Very slow describes speed, not price."
+        },
+        {
+          "letter": "C",
+          "text": "It is free.",
+          "is_correct": false,
+          "feedback": "Free means zero cost, the opposite of expensive."
+        },
+        {
+          "letter": "D",
+          "text": "It is broken.",
+          "is_correct": false,
+          "feedback": "Broken means damaged, not related to price."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El vocabulario cheap y expensive describe precios en COP. Además, es común comparar taxi y bus por precio y rapidez.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-5-2026-W26-means-of-transport-travel-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W26-means-of-transport-travel-001-MASTERY-bundle-v6",
+      "statement": "Text: I go from Manizales to Pereira by bus. The bus is behind the school. Where is the bus and how does she travel?",
+      "context": "At a school in Pereira, Laura reads a travel text about two cities in Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The bus is in front of the school and she flies.",
+          "is_correct": false,
+          "feedback": "The text says behind, not in front, and by bus, not by plane."
+        },
+        {
+          "letter": "B",
+          "text": "The bus is behind the school and she travels by bus.",
+          "is_correct": true,
+          "feedback": "This is correct because it matches both place and transport."
+        },
+        {
+          "letter": "C",
+          "text": "The bus is on the bus and she walks.",
+          "is_correct": false,
+          "feedback": "She does not walk, she travels by bus."
+        },
+        {
+          "letter": "D",
+          "text": "The bus is under the park and she swims.",
+          "is_correct": false,
+          "feedback": "Under the park and swimming do not match the text."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar exige unir el medio de transporte con la preposición de lugar. También es útil subrayar by bus y behind para responder con precisión.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-5-2026-W26-means-of-transport-travel-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W26-means-of-transport-travel-001-MASTERY-bundle-v7",
+      "statement": "The hotel is between the beach and the airport. Where is the hotel?",
+      "context": "On a map in Santa Marta, a teacher shows the airport, the beach and the hotel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Far from both places in another city.",
+          "is_correct": false,
+          "feedback": "Between means in the middle, not far away."
+        },
+        {
+          "letter": "B",
+          "text": "On the airplane to Bogotá.",
+          "is_correct": false,
+          "feedback": "On the airplane describes transport, not the hotel place."
+        },
+        {
+          "letter": "C",
+          "text": "Under the beach sand.",
+          "is_correct": false,
+          "feedback": "Under the sand is impossible for a hotel."
+        },
+        {
+          "letter": "D",
+          "text": "In the middle, with the beach on one side and the airport on the other.",
+          "is_correct": true,
+          "feedback": "This is correct because between shows a middle position."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La preposición between exige dos puntos de referencia. Además, usar un mapa facilita visualizar in front of, behind y between.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.68,
+      "bundle_id": "CO-ING-5-2026-W26-means-of-transport-travel-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W26-means-of-transport-travel-001-MASTERY-bundle-v8",
+      "statement": "Option 1: By airplane, 1 hour, $180.000 COP. Option 2: By bus, 18 hours, $90.000 COP. He wants the fastest trip. Which is the best choice and why?",
+      "context": "In a travel agency in Bogotá, a boy compares two trip options to Cartagena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Option 2, because 18 hours is faster than 1 hour.",
+          "is_correct": false,
+          "feedback": "Eighteen hours is much slower than one hour."
+        },
+        {
+          "letter": "B",
+          "text": "Both are equal, because bus and airplane have the same speed.",
+          "is_correct": false,
+          "feedback": "An airplane is much faster than a bus."
+        },
+        {
+          "letter": "C",
+          "text": "Option 1, because one hour by airplane is faster although it costs more.",
+          "is_correct": true,
+          "feedback": "This is correct because it evaluates speed versus price well."
+        },
+        {
+          "letter": "D",
+          "text": "Neither, because airplanes cannot fly in Colombia.",
+          "is_correct": false,
+          "feedback": "Airplanes fly between Colombian cities every day."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar implica comparar tiempo y precio en COP antes de decidir. Asimismo, la justificación con because demuestra una elección razonada del transporte.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.62,
+      "bundle_id": "CO-ING-5-2026-W26-means-of-transport-travel-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

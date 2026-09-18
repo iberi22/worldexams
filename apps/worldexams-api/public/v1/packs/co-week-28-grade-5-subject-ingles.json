@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-28-grade-5-subject-ingles",
+    "generated_at": "2026-09-18T18:24:05.799Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-5-2026-W28-telling-time-daily-schedule-001-MASTERY-bundle-v1",
+      "statement": "The clock shows 3:00. How do you say the time in English?",
+      "context": "In a classroom in Bogotá, a clock on the wall shows 3:00 during English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is half past three.",
+          "is_correct": false,
+          "feedback": "Half past three means 3:30, not 3:00."
+        },
+        {
+          "letter": "B",
+          "text": "It is three o clock.",
+          "is_correct": true,
+          "feedback": "Three o clock is correct because the clock shows 3:00."
+        },
+        {
+          "letter": "C",
+          "text": "It is quarter past three.",
+          "is_correct": false,
+          "feedback": "Quarter past three means 3:15, not 3:00."
+        },
+        {
+          "letter": "D",
+          "text": "It is three apples.",
+          "is_correct": false,
+          "feedback": "Apples are fruit and do not tell the time."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La expresión o clock se usa para horas exactas. También es fundamental practicar con un reloj real para fijar el vocabulario.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-5-2026-W28-telling-time-daily-schedule-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W28-telling-time-daily-schedule-001-MASTERY-bundle-v2",
+      "statement": "Juan has breakfast at half past seven. What time does Juan have breakfast?",
+      "context": "In a house in Medellín, a boy eats breakfast at 7:30 before school.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "At 7:30.",
+          "is_correct": true,
+          "feedback": "At 7:30 is correct because half past seven means thirty minutes after seven."
+        },
+        {
+          "letter": "B",
+          "text": "At 7:00.",
+          "is_correct": false,
+          "feedback": "At 7:00 is seven o clock, not half past seven."
+        },
+        {
+          "letter": "C",
+          "text": "At 6:30.",
+          "is_correct": false,
+          "feedback": "At 6:30 is half past six, not half past seven."
+        },
+        {
+          "letter": "D",
+          "text": "At 8:30.",
+          "is_correct": false,
+          "feedback": "At 8:30 is half past eight, not half past seven."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La expresión half past indica treinta minutos después de la hora. Además, relacionarla con 7:30 facilita la comprensión del horario.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-5-2026-W28-telling-time-daily-schedule-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W28-telling-time-daily-schedule-001-MASTERY-bundle-v3",
+      "statement": "Math class is at quarter past eight. What time is math class?",
+      "context": "In a school in Cali, a girl looks at her timetable for the math class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "At 8:30.",
+          "is_correct": false,
+          "feedback": "At 8:30 is half past eight, not quarter past eight."
+        },
+        {
+          "letter": "B",
+          "text": "At 8:45.",
+          "is_correct": false,
+          "feedback": "At 8:45 is quarter to nine, not quarter past eight."
+        },
+        {
+          "letter": "C",
+          "text": "At 8:00.",
+          "is_correct": false,
+          "feedback": "At 8:00 is eight o clock, not quarter past eight."
+        },
+        {
+          "letter": "D",
+          "text": "At 8:15.",
+          "is_correct": true,
+          "feedback": "At 8:15 is correct because quarter past means fifteen minutes after."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La expresión quarter past equivale a quince minutos después. También contrasta con quarter to, que indica quince minutos antes.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.82,
+      "bundle_id": "CO-ING-5-2026-W28-telling-time-daily-schedule-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W28-telling-time-daily-schedule-001-MASTERY-bundle-v4",
+      "statement": "I ___ my homework at 4:00 in the afternoon. Which verb completes the routine?",
+      "context": "In a park in Bucaramanga, a boy describes his daily routine after school.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Watch TV dinner.",
+          "is_correct": false,
+          "feedback": "Watch TV dinner mixes two actions and is incorrect grammar."
+        },
+        {
+          "letter": "B",
+          "text": "do",
+          "is_correct": true,
+          "feedback": "Do is correct because we say do my homework."
+        },
+        {
+          "letter": "C",
+          "text": "eat homework",
+          "is_correct": false,
+          "feedback": "Eat homework is impossible, you eat food not homework."
+        },
+        {
+          "letter": "D",
+          "text": "drink soccer",
+          "is_correct": false,
+          "feedback": "Drink soccer mixes a drink with a sport and is wrong."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La colocación do homework es fija en inglés. También es necesario distinguirla de make breakfast y have lunch.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-5-2026-W28-telling-time-daily-schedule-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W28-telling-time-daily-schedule-001-MASTERY-bundle-v5",
+      "statement": "We have English class ___ Monday morning. Which preposition is correct for days?",
+      "context": "In a school in Pereira, a timetable shows English on Monday and science on Tuesday.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "on",
+          "is_correct": true,
+          "feedback": "On is correct because we say on Monday."
+        },
+        {
+          "letter": "B",
+          "text": "in",
+          "is_correct": false,
+          "feedback": "In is for months, not for days of the week."
+        },
+        {
+          "letter": "C",
+          "text": "at",
+          "is_correct": false,
+          "feedback": "At is for hours, not for days of the week."
+        },
+        {
+          "letter": "D",
+          "text": "by",
+          "is_correct": false,
+          "feedback": "By means transport or near, not for days."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La preposición on acompaña días de la semana. Además, at se reserva para horas y in para meses.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-5-2026-W28-telling-time-daily-schedule-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W28-telling-time-daily-schedule-001-MASTERY-bundle-v6",
+      "statement": "Schedule: 6:30 get up, 7:00 breakfast, 8:00 school. What does Maria do at 7:00?",
+      "context": "In a house in Cartagena, Maria writes her daily schedule in her notebook.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She gets up.",
+          "is_correct": false,
+          "feedback": "She gets up at 6:30, not at 7:00."
+        },
+        {
+          "letter": "B",
+          "text": "She has breakfast.",
+          "is_correct": true,
+          "feedback": "She has breakfast is correct because schedule says 7:00 breakfast."
+        },
+        {
+          "letter": "C",
+          "text": "She goes to school.",
+          "is_correct": false,
+          "feedback": "She goes to school at 8:00, not at 7:00."
+        },
+        {
+          "letter": "D",
+          "text": "She goes to bed.",
+          "is_correct": false,
+          "feedback": "She goes to bed at night, not at 7:00 in the morning."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Leer un horario exige asociar cada hora con su actividad. También es útil ordenar la rutina con first, then y after.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-5-2026-W28-telling-time-daily-schedule-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W28-telling-time-daily-schedule-001-MASTERY-bundle-v7",
+      "statement": "Art is at quarter to ten. Music is at half past ten. Which class is earlier?",
+      "context": "In a school in Manizales, two timetables show art and music classes at different times.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Music, because 10:30 is before 9:45.",
+          "is_correct": false,
+          "feedback": "Ten thirty is later than nine forty-five."
+        },
+        {
+          "letter": "B",
+          "text": "Both start at the same time.",
+          "is_correct": false,
+          "feedback": "Quarter to ten is 9:45 and half past ten is 10:30."
+        },
+        {
+          "letter": "C",
+          "text": "Neither, because clocks do not show time.",
+          "is_correct": false,
+          "feedback": "Clocks show time and the two hours are different."
+        },
+        {
+          "letter": "D",
+          "text": "Art, because 9:45 is before 10:30.",
+          "is_correct": true,
+          "feedback": "This is correct because quarter to ten means 9:45."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La expresión quarter to significa quince minutos antes de la hora. Además, comparar 9:45 y 10:30 desarrolla el análisis del horario escolar.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.68,
+      "bundle_id": "CO-ING-5-2026-W28-telling-time-daily-schedule-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W28-telling-time-daily-schedule-001-MASTERY-bundle-v8",
+      "statement": "School starts at 7:00. Luis arrives at half past seven. Ana arrives at quarter to seven. Who is on time and why?",
+      "context": "In a classroom in Santa Marta, a teacher evaluates two student schedules for punctuality.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ana, because quarter to seven means 6:45, before 7:00.",
+          "is_correct": true,
+          "feedback": "This is correct because 6:45 is early and 7:30 is late."
+        },
+        {
+          "letter": "B",
+          "text": "Luis, because half past seven means 7:00 exactly.",
+          "is_correct": false,
+          "feedback": "Half past seven means 7:30, thirty minutes late."
+        },
+        {
+          "letter": "C",
+          "text": "Both, because 6:45 and 7:30 are the same as 7:00.",
+          "is_correct": false,
+          "feedback": "Only 7:00 is on time, the others are early or late."
+        },
+        {
+          "letter": "D",
+          "text": "Neither, because school starts at night.",
+          "is_correct": false,
+          "feedback": "School starts at 7:00 in the morning, not at night."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar puntualidad exige convertir expresiones de tiempo a números. Asimismo, distinguir early, on time y late es clave para la rutina diaria.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.62,
+      "bundle_id": "CO-ING-5-2026-W28-telling-time-daily-schedule-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}
