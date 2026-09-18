@@ -86,3 +86,39 @@ export function shouldShowInlineBadge(
   }
   return indexInExam === group.startIndex;
 }
+
+/**
+ * Returns a title for the shared context panel or inline badge header.
+ * Formats as "Lectura compartida · preguntas X–Y" when the group is long
+ * and contains 2 or more questions. Otherwise defaults to "Contexto de Lectura".
+ */
+export function getSharedContextTitle(
+  group: ContextGroup | null | undefined
+): string {
+  if (group && group.isLong && group.questionIds.length >= 2) {
+    const startNum = group.startIndex + 1;
+    const endNum = group.startIndex + group.questionIds.length;
+    return `Lectura compartida · preguntas ${startNum}–${endNum}`;
+  }
+  return 'Contexto de Lectura';
+}
+
+/**
+ * Returns the effective context text to render for a given question.
+ * - For long contexts, returns questionContext.
+ * - For short contexts, returns questionContext ONLY if indexInExam corresponds
+ *   to the first question of the group (shouldShowInlineBadge).
+ * - Otherwise returns empty string.
+ */
+export function getEffectiveContextFor(
+  group: ContextGroup | null | undefined,
+  questionContext?: string,
+  indexInExam: number = 0
+): string {
+  if (!questionContext) return '';
+  if (group?.isLong) return questionContext;
+  if (shouldShowInlineBadge(group, indexInExam)) {
+    return questionContext;
+  }
+  return '';
+}

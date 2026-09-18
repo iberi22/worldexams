@@ -2,12 +2,22 @@
   import { roomState } from '../stores/roomState.svelte.ts';
   import MathRenderer from '../../../components/MathRenderer.svelte';
   import SharedContextLayout from '../../../components/SharedContextLayout.svelte';
+  import {
+    groupQuestionsByContext,
+    getSharedContextTitle,
+    getEffectiveContextFor
+  } from '../../../lib/context-groups';
 
   let gameState = $derived(roomState.gameState);
   let currentQuestion = $derived(roomState.currentQuestion);
-  let isLongContext = $derived(
-    currentQuestion?.context &&
-    (currentQuestion.context.trim().length >= 140 || currentQuestion.context.trim().includes('\n'))
+  let contextGroups = $derived(groupQuestionsByContext(roomState.questions));
+  let contextGroup = $derived.by(() => {
+    return contextGroups.find(g => g.questionIds.includes(currentQuestion?.id)) || null;
+  });
+  let isLongContext = $derived(contextGroup?.isLong ?? false);
+  let sharedTitle = $derived(getSharedContextTitle(contextGroup));
+  let effectiveContext = $derived(
+    getEffectiveContextFor(contextGroup, currentQuestion?.context, gameState.currentQuestionIndex)
   );
   let selectedAnswer = $state<string | null>(null);
   let hasAnswered = $state(false);
@@ -68,7 +78,7 @@
 
     <!-- Question -->
     {#if currentQuestion}
-      <SharedContextLayout context={currentQuestion.context}>
+      <SharedContextLayout context={effectiveContext} title={sharedTitle}>
         <div class="bg-gray-800 rounded-lg p-6 mb-6">
           <div class="prose prose-invert max-w-none">
             <div class="text-lg leading-relaxed mb-6">
