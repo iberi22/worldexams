@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-38-grade-5-subject-ingles",
+    "generated_at": "2026-09-18T19:01:53.473Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-5-2026-W38-music-dance-colombia-001-MASTERY-bundle-v1",
+      "statement": "Which words are musical instruments?",
+      "context": "In a festival in Valledupar, musicians play an accordion, a drum and a guitar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Accordion, drum and guitar.",
+          "is_correct": true,
+          "feedback": "The accordion, the drum and the guitar are all instruments."
+        },
+        {
+          "letter": "B",
+          "text": "Table, chair and lamp.",
+          "is_correct": false,
+          "feedback": "Table, chair and lamp are furniture, not instruments."
+        },
+        {
+          "letter": "C",
+          "text": "Mango, papaya and banana.",
+          "is_correct": false,
+          "feedback": "Mango, papaya and banana are fruits, not instruments."
+        },
+        {
+          "letter": "D",
+          "text": "Bus, taxi and moto.",
+          "is_correct": false,
+          "feedback": "Bus, taxi and moto are transport, not instruments."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Esta pregunta presenta vocabulario básico de instrumentos en inglés. También se conecta cada instrumento con el festival vallenato.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-5-2026-W38-music-dance-colombia-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W38-music-dance-colombia-001-MASTERY-bundle-v2",
+      "statement": "What is a dance?",
+      "context": "In Barranquilla, dancers move to cumbia during the carnival parade.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A type of food.",
+          "is_correct": false,
+          "feedback": "Food is what people eat, not movements with music."
+        },
+        {
+          "letter": "B",
+          "text": "A type of animal.",
+          "is_correct": false,
+          "feedback": "Animals are living beings, not movements with music."
+        },
+        {
+          "letter": "C",
+          "text": "Movements of the body with music.",
+          "is_correct": true,
+          "feedback": "A dance is body movement that follows the rhythm of music."
+        },
+        {
+          "letter": "D",
+          "text": "A type of car.",
+          "is_correct": false,
+          "feedback": "Cars are transport machines, not movements with music."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La palabra dance significa movimientos del cuerpo con música. También se comprende con la cumbia del carnaval barranquillero.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-5-2026-W38-music-dance-colombia-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W38-music-dance-colombia-001-MASTERY-bundle-v3",
+      "statement": "Choose the correct verb to complete the sentence.",
+      "context": "In Sincelejo, a boy says: \"They _____ cumbia in the school festival.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dances.",
+          "is_correct": false,
+          "feedback": "\"Dances\" is singular and does not agree with the plural they."
+        },
+        {
+          "letter": "B",
+          "text": "Danced.",
+          "is_correct": false,
+          "feedback": "\"Danced\" is past tense and the festival is happening now."
+        },
+        {
+          "letter": "C",
+          "text": "Dance.",
+          "is_correct": true,
+          "feedback": "\"Dance\" agrees with the plural subject they in the present."
+        },
+        {
+          "letter": "D",
+          "text": "Dancing.",
+          "is_correct": false,
+          "feedback": "\"Dancing\" needs am, is or are and is not correct alone here."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El presente simple usa la forma base con they en afirmativo. También se practica con la cumbia del festival escolar sincelejano.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.82,
+      "bundle_id": "CO-ING-5-2026-W38-music-dance-colombia-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W38-music-dance-colombia-001-MASTERY-bundle-v4",
+      "statement": "What starts at 7 p.m.?",
+      "context": "In Riohacha, students read: \"The vallenato concert starts at 5 p.m. The cumbia show starts at 7 p.m. The fireworks close the night at 9 p.m.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The vallenato concert.",
+          "is_correct": false,
+          "feedback": "The vallenato concert starts at 5 p.m., not 7 p.m."
+        },
+        {
+          "letter": "B",
+          "text": "The cumbia show.",
+          "is_correct": true,
+          "feedback": "The text says the cumbia show starts at 7 p.m."
+        },
+        {
+          "letter": "C",
+          "text": "The fireworks.",
+          "is_correct": false,
+          "feedback": "The fireworks close the night at 9 p.m., not 7 p.m."
+        },
+        {
+          "letter": "D",
+          "text": "The food fair.",
+          "is_correct": false,
+          "feedback": "The text never mentions a food fair."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Leer programas exige ubicar cada evento en su hora exacta. También se aplica con una fiesta musical en Riohacha.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-5-2026-W38-music-dance-colombia-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W38-music-dance-colombia-001-MASTERY-bundle-v5",
+      "statement": "Which word means the opposite of loud?",
+      "context": "At home in Popayán, a girl listens: \"The drum sounds loud. The flute sounds soft. The guitar sounds sweet.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Noisy.",
+          "is_correct": false,
+          "feedback": "Noisy means the same as loud, not the opposite."
+        },
+        {
+          "letter": "B",
+          "text": "Soft.",
+          "is_correct": true,
+          "feedback": "Soft is the opposite of loud and describes the flute."
+        },
+        {
+          "letter": "C",
+          "text": "Strong.",
+          "is_correct": false,
+          "feedback": "Strong describes power, not the opposite of loud."
+        },
+        {
+          "letter": "D",
+          "text": "Fast.",
+          "is_correct": false,
+          "feedback": "Fast describes speed, not the volume of sound."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los opuestos como loud y soft describen el volumen del sonido. También se asocian con instrumentos que escuchan los niños en casa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-5-2026-W38-music-dance-colombia-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W38-music-dance-colombia-001-MASTERY-bundle-v6",
+      "statement": "What can you conclude about vallenato and bambuco?",
+      "context": "In Ocaña, a program says: \"Vallenato uses accordion and drums. Bambuco uses guitar and tiple. Both styles make people dance.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both use exactly the same instruments.",
+          "is_correct": false,
+          "feedback": "Vallenato uses accordion while bambuco uses guitar and tiple."
+        },
+        {
+          "letter": "B",
+          "text": "Neither style makes people dance.",
+          "is_correct": false,
+          "feedback": "The program says both styles make people dance."
+        },
+        {
+          "letter": "C",
+          "text": "They use different instruments but share the same effect.",
+          "is_correct": true,
+          "feedback": "The instruments differ, yet both rhythms make people dance."
+        },
+        {
+          "letter": "D",
+          "text": "Both come from other countries.",
+          "is_correct": false,
+          "feedback": "Vallenato and bambuco are traditional Colombian rhythms."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar programas permite comparar instrumentos y efectos de cada ritmo. También se trabaja el contraste entre dos estilos colombianos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-5-2026-W38-music-dance-colombia-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W38-music-dance-colombia-001-MASTERY-bundle-v7",
+      "statement": "Which statement explains the difference?",
+      "context": "In Montería, a teacher compares: \"Listen to the drums!\" and \"She listens to the drums.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The first gives an order, the second describes a person.",
+          "is_correct": true,
+          "feedback": "\"Listen\" without subject orders, while \"she listens\" describes."
+        },
+        {
+          "letter": "B",
+          "text": "Both sentences give orders.",
+          "is_correct": false,
+          "feedback": "Only the first sentence without subject is an imperative."
+        },
+        {
+          "letter": "C",
+          "text": "Both sentences describe the past.",
+          "is_correct": false,
+          "feedback": "Both sentences are in the present, not in the past."
+        },
+        {
+          "letter": "D",
+          "text": "The first describes a person, the second gives an order.",
+          "is_correct": false,
+          "feedback": "The roles are reversed; the imperative has no subject."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El imperativo omite el sujeto para ordenar y el presente lo incluye para describir. También se practica con los tambores del Sinú.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.68,
+      "bundle_id": "CO-ING-5-2026-W38-music-dance-colombia-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W38-music-dance-colombia-001-MASTERY-bundle-v8",
+      "statement": "Which group is the best for the carnival?",
+      "context": "In Pasto, two carnival groups appear: one plays traditional music with safe sound and organized parade; the other plays extremely loud music at midnight near a hospital.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The midnight group, because hospitals enjoy loud music.",
+          "is_correct": false,
+          "feedback": "Loud music at midnight near a hospital harms sick people."
+        },
+        {
+          "letter": "B",
+          "text": "The organized parade with safe sound.",
+          "is_correct": true,
+          "feedback": "An organized parade with safe sound respects everyone."
+        },
+        {
+          "letter": "C",
+          "text": "The loudest group, because louder is always better.",
+          "is_correct": false,
+          "feedback": "Extremely loud music damages ears and bothers neighbors."
+        },
+        {
+          "letter": "D",
+          "text": "Both groups are equal for the party.",
+          "is_correct": false,
+          "feedback": "The groups are very different; only one respects the community."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar grupos implica revisar volumen seguro y respeto por la comunidad. También se promueve disfrutar el carnaval sin dañar los oídos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.62,
+      "bundle_id": "CO-ING-5-2026-W38-music-dance-colombia-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}
