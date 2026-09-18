@@ -13,7 +13,8 @@
   import SharedContextLayout from './SharedContextLayout.svelte';
   import {
     groupQuestionsByContext,
-    shouldShowInlineBadge,
+    getSharedContextTitle,
+    getEffectiveContextFor,
     type ContextGroup
   } from '../lib/context-groups';
   import {
@@ -149,24 +150,8 @@
   });
 
   let isLongContextGroup = $derived(contextGroup?.isLong ?? false);
-  let sharedContextTitle = $derived.by(() => {
-    if (contextGroup && contextGroup.isLong && contextGroup.questionIds.length >= 2) {
-      const startNum = contextGroup.startIndex + 1;
-      const endNum = contextGroup.startIndex + contextGroup.questionIds.length;
-      return `Lectura compartida · preguntas ${startNum}–${endNum}`;
-    }
-    return 'Contexto de Lectura';
-  });
-
-  let effectiveContext = $derived.by(() => {
-    if (!question?.context) return '';
-    if (isLongContextGroup) return question.context;
-    // For short contexts, show badge only on the first question of the group
-    if (shouldShowInlineBadge(contextGroup, currentIdx)) {
-      return question.context;
-    }
-    return '';
-  });
+  let sharedContextTitle = $derived(getSharedContextTitle(contextGroup));
+  let effectiveContext = $derived(getEffectiveContextFor(contextGroup, question?.context, currentIdx));
 
   // Options Logic
   const OPTION_LETTERS = ['A', 'B', 'C', 'D', 'E', 'F'];

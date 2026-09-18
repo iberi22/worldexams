@@ -8,6 +8,11 @@
   import MathRenderer from './MathRenderer.svelte';
   import ExamRoomResultsView from './ExamRoomResultsView.svelte';
   import SharedContextLayout from './SharedContextLayout.svelte';
+  import {
+    groupQuestionsByContext,
+    getSharedContextTitle,
+    getEffectiveContextFor
+  } from '../lib/context-groups';
   import { loadVideoManifest, type VideoManifestEntry } from '../lib/video-manifest';
   import { generateExamPerformanceSnapshot, generateUserProfile } from '../lib/local-intelligence';
 
@@ -93,6 +98,8 @@
   let safeExamQuestions = $derived(examData?.questions || []);
   let safeQuestions = $derived(Array.isArray(questions) ? questions : []);
   let totalQuestions = $derived(safeQuestions.length);
+
+  let contextGroups = $derived(groupQuestionsByContext(questions));
 
   // ⚡ Bolt Optimization: Calculate correctCount and wrongQuestions in a single pass instead of multiple .filter() iterations
   let answerStats = $derived.by(() => {
@@ -636,8 +643,11 @@
           {@const userAnswer = userAnswers[q.id]}
           {@const videoMeta = getVideoForQuestion(q.id)}
           {@const discussCount = commentCounts[String(q.id)] || 0}
+          {@const group = contextGroups.find(g => g.questionIds.includes(q.id)) || null}
+          {@const title = getSharedContextTitle(group)}
+          {@const effectiveContext = getEffectiveContextFor(group, q.context, i)}
 
-          <SharedContextLayout context={q.context} maxHeightDesktop="max-h-[60vh]">
+          <SharedContextLayout context={effectiveContext} title={title} maxHeightDesktop="max-h-[60vh]">
             <div class={`
               border rounded-lg sm:rounded-xl overflow-hidden
               ${isCorrect ? 'border-emerald-500/30 bg-emerald-900/5' : 'border-red-500/30 bg-red-900/5'}
