@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-25-grade-5-subject-ingles",
+    "generated_at": "2026-09-18T18:24:05.797Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-5-2026-W25-at-the-doctor-health-001-MASTERY-bundle-v1",
+      "statement": "Which body part hurts when you have a headache?",
+      "context": "In a clinic in Medellín, a girl talks to the doctor about her headache.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Foot.",
+          "is_correct": false,
+          "feedback": "The foot is in the leg, not in the head."
+        },
+        {
+          "letter": "B",
+          "text": "Head.",
+          "is_correct": true,
+          "feedback": "Head is correct because a headache is pain in the head."
+        },
+        {
+          "letter": "C",
+          "text": "Hand.",
+          "is_correct": false,
+          "feedback": "The hand is for writing, not related to headache."
+        },
+        {
+          "letter": "D",
+          "text": "Knee.",
+          "is_correct": false,
+          "feedback": "The knee is in the leg, not related to headache."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La palabra headache combina head y ache, que significa dolor. También es útil recordar que el médico pregunta Where does it hurt para localizar el dolor.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-5-2026-W25-at-the-doctor-health-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W25-at-the-doctor-health-001-MASTERY-bundle-v2",
+      "statement": "Tom feels very hot and the thermometer shows 39 degrees. What symptom does Tom have?",
+      "context": "At a school in Cali, the nurse checks a boy with a thermometer in the morning.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He has a fever.",
+          "is_correct": true,
+          "feedback": "Fever is correct because a hot body and high temperature mean fever."
+        },
+        {
+          "letter": "B",
+          "text": "He has a toothache.",
+          "is_correct": false,
+          "feedback": "A toothache is pain in a tooth, not a hot body."
+        },
+        {
+          "letter": "C",
+          "text": "He has a cut.",
+          "is_correct": false,
+          "feedback": "A cut is an injury on the skin, not a high temperature."
+        },
+        {
+          "letter": "D",
+          "text": "He is hungry.",
+          "is_correct": false,
+          "feedback": "Being hungry means you need food, not that your body is hot."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La comprensión lectora exige conectar thermometer y hot con fever. Además, la expresión have a fever es fija y no se dice make a fever.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-5-2026-W25-at-the-doctor-health-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W25-at-the-doctor-health-001-MASTERY-bundle-v3",
+      "statement": "The doctor says: You have a cold. You ___ drink water and rest. Which word completes the advice?",
+      "context": "In a hospital in Bogotá, a doctor gives advice to a sick girl in the afternoon.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "should not",
+          "is_correct": false,
+          "feedback": "Should not gives the opposite advice and drinking water is good."
+        },
+        {
+          "letter": "B",
+          "text": "cannot",
+          "is_correct": false,
+          "feedback": "Cannot talks about ability, not about health advice."
+        },
+        {
+          "letter": "C",
+          "text": "do not",
+          "is_correct": false,
+          "feedback": "Do not is too direct and does not give advice like should."
+        },
+        {
+          "letter": "D",
+          "text": "should",
+          "is_correct": true,
+          "feedback": "Should is correct because it gives good health advice."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La estructura should más verbo transmite un consejo positivo. También se usa para recomendar hábitos saludables de forma cortés.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.82,
+      "bundle_id": "CO-ING-5-2026-W25-at-the-doctor-health-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W25-at-the-doctor-health-001-MASTERY-bundle-v4",
+      "statement": "Luis ate too much candy and now his stomach hurts. What does Luis have?",
+      "context": "In a clinic in Bucaramanga, a boy points to his stomach during the consultation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He has an earache.",
+          "is_correct": false,
+          "feedback": "An earache is pain in the ear, not in the stomach."
+        },
+        {
+          "letter": "B",
+          "text": "He has a stomachache.",
+          "is_correct": true,
+          "feedback": "Stomachache is correct because his stomach hurts after candy."
+        },
+        {
+          "letter": "C",
+          "text": "He has a headache.",
+          "is_correct": false,
+          "feedback": "A headache is pain in the head, not in the stomach."
+        },
+        {
+          "letter": "D",
+          "text": "He has a backache.",
+          "is_correct": false,
+          "feedback": "A backache is pain in the back, not in the stomach."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las palabras stomachache, headache y toothache siguen el patrón parte del cuerpo más ache. Es importante distinguir stomach de chest y back para describir el dolor.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-5-2026-W25-at-the-doctor-health-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W25-at-the-doctor-health-001-MASTERY-bundle-v5",
+      "statement": "You have a cough. You ___ drink cold soda. Which option gives the correct negative advice?",
+      "context": "In a health center in Pereira, a doctor talks to a boy with a cough in the waiting room.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "should",
+          "is_correct": false,
+          "feedback": "Should gives positive advice, not a warning against cold soda."
+        },
+        {
+          "letter": "B",
+          "text": "can",
+          "is_correct": false,
+          "feedback": "Can talks about ability, not about negative health advice."
+        },
+        {
+          "letter": "C",
+          "text": "should not",
+          "is_correct": true,
+          "feedback": "Should not is correct because it advises against cold soda."
+        },
+        {
+          "letter": "D",
+          "text": "are",
+          "is_correct": false,
+          "feedback": "Are is a verb to be and does not express a prohibition."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La forma should not más verbo expresa una recomendación negativa. También es necesario usarla cuando el hábito puede empeorar la enfermedad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-5-2026-W25-at-the-doctor-health-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W25-at-the-doctor-health-001-MASTERY-bundle-v6",
+      "statement": "Poster: Wash your hands. Eat fruit. Do not drink dirty water. Which advice is about hygiene?",
+      "context": "In a clinic in Cartagena, Sara reads a poster about healthy habits near the pharmacy.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Wash your hands.",
+          "is_correct": true,
+          "feedback": "Wash your hands is correct because it is a hygiene habit."
+        },
+        {
+          "letter": "B",
+          "text": "Eat fruit.",
+          "is_correct": false,
+          "feedback": "Eat fruit is about nutrition, not about hygiene."
+        },
+        {
+          "letter": "C",
+          "text": "Visit the beach.",
+          "is_correct": false,
+          "feedback": "Visit the beach is an activity, not a hygiene habit."
+        },
+        {
+          "letter": "D",
+          "text": "Play soccer.",
+          "is_correct": false,
+          "feedback": "Play soccer is a sport, not a hygiene habit."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar un texto implica clasificar la información entre higiene y nutrición. Además, el imperativo en inglés da instrucciones directas de salud.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-5-2026-W25-at-the-doctor-health-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W25-at-the-doctor-health-001-MASTERY-bundle-v7",
+      "statement": "Ana: My throat hurts and I sneeze a lot. Beto: I broke my arm playing soccer. Who needs advice with should for a cold?",
+      "context": "In a school in Manizales, two friends compare their symptoms during the break.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Beto, because a broken arm is a cold.",
+          "is_correct": false,
+          "feedback": "A broken arm is an injury, not a cold with sneezing."
+        },
+        {
+          "letter": "B",
+          "text": "Both, because they have the same symptom.",
+          "is_correct": false,
+          "feedback": "They do not have the same problem, one is a cold and one is an injury."
+        },
+        {
+          "letter": "C",
+          "text": "Neither, because nobody is sick.",
+          "is_correct": false,
+          "feedback": "Ana is sick with cold symptoms, so she needs advice."
+        },
+        {
+          "letter": "D",
+          "text": "Ana, because sneezing and throat pain suggest a cold.",
+          "is_correct": true,
+          "feedback": "Ana is correct because her symptoms match a cold."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analizar exige diferenciar un resfriado de una lesión deportiva. También es clave asociar sneeze y sore throat con un cold común.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.68,
+      "bundle_id": "CO-ING-5-2026-W25-at-the-doctor-health-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W25-at-the-doctor-health-001-MASTERY-bundle-v8",
+      "statement": "Tip 1: You should wash your hands. Tip 2: You should not eat too much candy. Tip 3: You should drink dirty water. Which evaluation is correct?",
+      "context": "In a clinic in Santa Marta, a doctor evaluates three health tips on a wall chart.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tip 3 is good because dirty water is healthy.",
+          "is_correct": false,
+          "feedback": "Dirty water causes disease, so this tip is dangerous."
+        },
+        {
+          "letter": "B",
+          "text": "Tips 1 and 2 are good, but Tip 3 is bad.",
+          "is_correct": true,
+          "feedback": "This is correct because hygiene and less candy help, but dirty water harms."
+        },
+        {
+          "letter": "C",
+          "text": "All tips are good for your health.",
+          "is_correct": false,
+          "feedback": "Tip 3 is not good, so not all tips are healthy."
+        },
+        {
+          "letter": "D",
+          "text": "Tips 1 and 3 are good, but Tip 2 is bad.",
+          "is_correct": false,
+          "feedback": "Less candy is good advice and dirty water is bad advice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar implica juzgar qué consejos protegen la salud y cuáles la ponen en riesgo. Asimismo, el uso correcto de should y should not distingue un buen consejo de uno peligroso.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.62,
+      "bundle_id": "CO-ING-5-2026-W25-at-the-doctor-health-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

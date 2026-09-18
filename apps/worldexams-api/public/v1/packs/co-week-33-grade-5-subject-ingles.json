@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-33-grade-5-subject-ingles",
+    "generated_at": "2026-09-18T18:24:05.801Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-5-2026-W33-likes-dislikes-opinions-001-MASTERY-bundle-v1",
+      "statement": "Which words are sports?",
+      "context": "In a class in Medellín, children talk about soccer, basketball and swimming after school.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pizza, rice and juice.",
+          "is_correct": false,
+          "feedback": "Pizza, rice and juice are foods and drinks, not sports."
+        },
+        {
+          "letter": "B",
+          "text": "Soccer, basketball and swimming.",
+          "is_correct": true,
+          "feedback": "Soccer, basketball and swimming are all sports."
+        },
+        {
+          "letter": "C",
+          "text": "Guitar, drums and piano.",
+          "is_correct": false,
+          "feedback": "Guitar, drums and piano are musical instruments, not sports."
+        },
+        {
+          "letter": "D",
+          "text": "Dog, cat and bird.",
+          "is_correct": false,
+          "feedback": "Dog, cat and bird are animals, not sports."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Esta pregunta repasa vocabulario básico de deportes en inglés. También ayuda a clasificar palabras de deportes, comidas y música sin confusión.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-5-2026-W33-likes-dislikes-opinions-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W33-likes-dislikes-opinions-001-MASTERY-bundle-v2",
+      "statement": "What does Sara mean?",
+      "context": "In Bogotá, Sara says: \"I love dancing vallenato at family parties.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She hates dancing.",
+          "is_correct": false,
+          "feedback": "\"Hates\" means she dislikes it strongly, the opposite of love."
+        },
+        {
+          "letter": "B",
+          "text": "She never dances.",
+          "is_correct": false,
+          "feedback": "\"Never dances\" contradicts her happy statement about parties."
+        },
+        {
+          "letter": "C",
+          "text": "She likes dancing very much.",
+          "is_correct": true,
+          "feedback": "\"Love\" means a very strong like for an activity."
+        },
+        {
+          "letter": "D",
+          "text": "She does not know vallenato.",
+          "is_correct": false,
+          "feedback": "She mentions vallenato at parties, so she knows this music."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El verbo love expresa un gusto muy fuerte por una actividad. También se diferencia de like y hate en opiniones personales en inglés.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-5-2026-W33-likes-dislikes-opinions-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W33-likes-dislikes-opinions-001-MASTERY-bundle-v3",
+      "statement": "Choose the correct form to complete the sentence.",
+      "context": "In Cali, Diego talks about his free time: \"I like _____ soccer with my friends.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "play.",
+          "is_correct": false,
+          "feedback": "After \"like\" we need the -ing form, not the base form alone."
+        },
+        {
+          "letter": "B",
+          "text": "playing.",
+          "is_correct": true,
+          "feedback": "\"Like\" is followed by verb plus -ing, so \"playing\" is correct."
+        },
+        {
+          "letter": "C",
+          "text": "played.",
+          "is_correct": false,
+          "feedback": "\"Played\" is past tense and is not used after \"like\" here."
+        },
+        {
+          "letter": "D",
+          "text": "plays.",
+          "is_correct": false,
+          "feedback": "\"Plays\" is third person present and is not correct after \"like\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los verbos like, love y hate se combinan con la forma -ing del verbo. También se practica esta regla con actividades deportivas cotidianas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.82,
+      "bundle_id": "CO-ING-5-2026-W33-likes-dislikes-opinions-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W33-likes-dislikes-opinions-001-MASTERY-bundle-v4",
+      "statement": "What does Luisa like and dislike?",
+      "context": "In Cartagena, students read: \"Luisa loves reading comics. She hates running in the morning.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She loves running and hates reading.",
+          "is_correct": false,
+          "feedback": "The text says the opposite about reading and running."
+        },
+        {
+          "letter": "B",
+          "text": "She loves comics and loves running.",
+          "is_correct": false,
+          "feedback": "She hates running, so she does not love both activities."
+        },
+        {
+          "letter": "C",
+          "text": "She loves reading comics and hates running.",
+          "is_correct": true,
+          "feedback": "\"Loves\" shows her like and \"hates\" shows her strong dislike."
+        },
+        {
+          "letter": "D",
+          "text": "She hates comics and hates reading.",
+          "is_correct": false,
+          "feedback": "She loves reading comics, so this option is incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La lectura exige identificar gustos con love y disgustos con hate. También se trabaja la comprensión literal de frases cortas sobre pasatiempos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-5-2026-W33-likes-dislikes-opinions-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W33-likes-dislikes-opinions-001-MASTERY-bundle-v5",
+      "statement": "What is the correct short answer if his friend loves bandeja paisa?",
+      "context": "At recess in Bucaramanga, a boy asks his friend about favorite food: \"Do you like bandeja paisa?\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, I do.",
+          "is_correct": false,
+          "feedback": "\"No, I do\" is contradictory and not a correct short answer."
+        },
+        {
+          "letter": "B",
+          "text": "Yes, I hates it.",
+          "is_correct": false,
+          "feedback": "\"Hates\" is negative and the grammar \"I hates\" is wrong."
+        },
+        {
+          "letter": "C",
+          "text": "Yes, I do. I love it.",
+          "is_correct": true,
+          "feedback": "\"Yes, I do\" answers the question and \"I love it\" gives the opinion."
+        },
+        {
+          "letter": "D",
+          "text": "No, I love it not.",
+          "is_correct": false,
+          "feedback": "\"Love it not\" has incorrect word order in English."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las respuestas cortas con Yes I do y No I do not son esenciales. También se añade una opinión con love para expresar gustos por comidas colombianas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-5-2026-W33-likes-dislikes-opinions-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W33-likes-dislikes-opinions-001-MASTERY-bundle-v6",
+      "statement": "Which rule is correct about these sentences?",
+      "context": "In Pereira, a teacher writes: \"I like listening to salsa. I hate watching boring shows.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Like and hate use the base verb without -ing.",
+          "is_correct": false,
+          "feedback": "Both sentences use listening and watching with -ing."
+        },
+        {
+          "letter": "B",
+          "text": "Like and hate use verb plus -ing for activities.",
+          "is_correct": true,
+          "feedback": "\"Listening\" and \"watching\" follow like and hate correctly."
+        },
+        {
+          "letter": "C",
+          "text": "Like uses -ing but hate uses past tense.",
+          "is_correct": false,
+          "feedback": "Hate also uses -ing here, not past tense."
+        },
+        {
+          "letter": "D",
+          "text": "Like and hate never use verbs after them.",
+          "is_correct": false,
+          "feedback": "Both sentences have verbs after like and hate."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El análisis confirma que like y hate piden verbo con ing. También se observan ejemplos con música y televisión para fijar la estructura.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-5-2026-W33-likes-dislikes-opinions-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W33-likes-dislikes-opinions-001-MASTERY-bundle-v7",
+      "statement": "Who has a different opinion about spicy ají if two friends love it?",
+      "context": "In Santa Marta, three friends talk: \"I love surfing. I like playing guitar. I hate eating spicy ají.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The friend who hates eating spicy ají.",
+          "is_correct": true,
+          "feedback": "\"Hates\" is the opposite opinion to \"love\" about ají."
+        },
+        {
+          "letter": "B",
+          "text": "The friend who loves surfing.",
+          "is_correct": false,
+          "feedback": "Surfing is a sport and does not show an opinion about ají."
+        },
+        {
+          "letter": "C",
+          "text": "The friend who likes playing guitar.",
+          "is_correct": false,
+          "feedback": "Playing guitar is music and does not talk about ají."
+        },
+        {
+          "letter": "D",
+          "text": "All friends have the same opinion.",
+          "is_correct": false,
+          "feedback": "Hate and love are opposite, so opinions are different."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar opiniones exige distinguir like, love y hate en contexto. También se analizan gustos sobre deportes, música y comida colombiana.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.68,
+      "bundle_id": "CO-ING-5-2026-W33-likes-dislikes-opinions-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W33-likes-dislikes-opinions-001-MASTERY-bundle-v8",
+      "statement": "Which question best asks for an opinion?",
+      "context": "In Manizales, a student wants to ask for opinions politely: \"What do you think about cumbia music?\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Listen to cumbia now.",
+          "is_correct": false,
+          "feedback": "This is an order, not a question about opinions."
+        },
+        {
+          "letter": "B",
+          "text": "You like cumbia or not, answer.",
+          "is_correct": false,
+          "feedback": "This question is rude and the grammar is not polite."
+        },
+        {
+          "letter": "C",
+          "text": "What is your favorite music? Do you like cumbia?",
+          "is_correct": true,
+          "feedback": "These questions are polite and clearly ask for an opinion."
+        },
+        {
+          "letter": "D",
+          "text": "Cumbia is bad, right?",
+          "is_correct": false,
+          "feedback": "This sentence pushes a negative opinion instead of asking openly."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedir opiniones requiere preguntas abiertas y un tono cortés. También se valora proponer opciones sin imponer el propio gusto musical.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.62,
+      "bundle_id": "CO-ING-5-2026-W33-likes-dislikes-opinions-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

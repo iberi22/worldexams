@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-37-grade-5-subject-ingles",
+    "generated_at": "2026-09-18T19:01:53.473Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-5-2026-W37-sports-games-favorites-001-MASTERY-bundle-v1",
+      "statement": "Which words are sports and games?",
+      "context": "In a park in Bogotá, children play with a ball, a bicycle and a kite.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apple, banana and orange.",
+          "is_correct": false,
+          "feedback": "Apple, banana and orange are fruits, not sports."
+        },
+        {
+          "letter": "B",
+          "text": "Dog, cat and bird.",
+          "is_correct": false,
+          "feedback": "Dog, cat and bird are animals, not sports."
+        },
+        {
+          "letter": "C",
+          "text": "Soccer, cycling and kite.",
+          "is_correct": true,
+          "feedback": "Soccer, cycling and kite are all sports and games."
+        },
+        {
+          "letter": "D",
+          "text": "Book, pen and ruler.",
+          "is_correct": false,
+          "feedback": "Book, pen and ruler are school objects, not sports."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Esta pregunta presenta vocabulario básico de deportes en inglés. También se conecta cada palabra con juegos del parque bogotano.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-5-2026-W37-sports-games-favorites-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W37-sports-games-favorites-001-MASTERY-bundle-v2",
+      "statement": "What is a rule?",
+      "context": "In Medellín, a coach says: \"In soccer you kick the ball. In basketball you throw the ball with your hands.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "An instruction that says how to play.",
+          "is_correct": true,
+          "feedback": "A rule tells players what they can and cannot do in a game."
+        },
+        {
+          "letter": "B",
+          "text": "The name of the winner.",
+          "is_correct": false,
+          "feedback": "The winner is the result, not the instruction of the game."
+        },
+        {
+          "letter": "C",
+          "text": "The color of the ball.",
+          "is_correct": false,
+          "feedback": "The color describes the ball but does not explain the game."
+        },
+        {
+          "letter": "D",
+          "text": "The price of the ticket.",
+          "is_correct": false,
+          "feedback": "The ticket price is money to enter, not how to play."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La palabra rule significa la instrucción que explica cómo jugar. También se comprende con ejemplos del fútbol y el baloncesto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-5-2026-W37-sports-games-favorites-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W37-sports-games-favorites-001-MASTERY-bundle-v3",
+      "statement": "Choose the correct verb to complete the sentence.",
+      "context": "In Tunja, a girl says: \"My brother _____ his bicycle every Sunday.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ride.",
+          "is_correct": false,
+          "feedback": "\"Ride\" is plural and does not agree with the singular brother."
+        },
+        {
+          "letter": "B",
+          "text": "Rides.",
+          "is_correct": true,
+          "feedback": "\"Rides\" agrees with the third person singular brother."
+        },
+        {
+          "letter": "C",
+          "text": "Riding.",
+          "is_correct": false,
+          "feedback": "\"Riding\" needs am, is or are and is not correct alone here."
+        },
+        {
+          "letter": "D",
+          "text": "Rode.",
+          "is_correct": false,
+          "feedback": "\"Rode\" is past tense and every Sunday marks a habit."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El presente simple con every Sunday usa -s en tercera persona. También se practica con el ciclismo boyacense de cada domingo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.82,
+      "bundle_id": "CO-ING-5-2026-W37-sports-games-favorites-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W37-sports-games-favorites-001-MASTERY-bundle-v4",
+      "statement": "How do players win points in tejo?",
+      "context": "In Zipaquirá, students read about tejo: \"Players throw a metal disc. They aim at packets with gunpowder. The explosion gives points.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They run very fast.",
+          "is_correct": false,
+          "feedback": "Running is not part of tejo; players throw a disc."
+        },
+        {
+          "letter": "B",
+          "text": "They kick the ball far.",
+          "is_correct": false,
+          "feedback": "Tejo uses a metal disc, not a ball to kick."
+        },
+        {
+          "letter": "C",
+          "text": "They swim in the lake.",
+          "is_correct": false,
+          "feedback": "Swimming has nothing to do with the game of tejo."
+        },
+        {
+          "letter": "D",
+          "text": "They hit the packets and cause an explosion.",
+          "is_correct": true,
+          "feedback": "The text says the explosion after hitting the packets gives points."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Leer reglas exige identificar la acción que da puntos en el juego. También se aplica con el tejo, deporte nacional colombiano.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-5-2026-W37-sports-games-favorites-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W37-sports-games-favorites-001-MASTERY-bundle-v5",
+      "statement": "Which word means the opposite of win?",
+      "context": "At school in Pasto, teams wear uniforms: \"The red team wins the match. The blue team loses the game.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Play.",
+          "is_correct": false,
+          "feedback": "To play means to take part in a game, not the opposite of win."
+        },
+        {
+          "letter": "B",
+          "text": "Score.",
+          "is_correct": false,
+          "feedback": "To score means to make points, which helps to win."
+        },
+        {
+          "letter": "C",
+          "text": "Lose.",
+          "is_correct": true,
+          "feedback": "To lose is the opposite of to win in a match."
+        },
+        {
+          "letter": "D",
+          "text": "Train.",
+          "is_correct": false,
+          "feedback": "To train means to practice, not the opposite of win."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los opuestos como win y lose describen resultados de partidos. También se asocian con los equipos del colegio en Pasto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-5-2026-W37-sports-games-favorites-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W37-sports-games-favorites-001-MASTERY-bundle-v6",
+      "statement": "What can you conclude about the three sports?",
+      "context": "In Cali, a poster says: \"Cycling needs a helmet and a road. Swimming needs a pool and a coach. Soccer needs a ball and a field.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Each sport needs its own place and equipment.",
+          "is_correct": true,
+          "feedback": "The poster pairs each sport with a different place and object."
+        },
+        {
+          "letter": "B",
+          "text": "All three sports need the same ball.",
+          "is_correct": false,
+          "feedback": "Only soccer needs a ball; cycling and swimming do not."
+        },
+        {
+          "letter": "C",
+          "text": "All three sports happen in a pool.",
+          "is_correct": false,
+          "feedback": "Only swimming happens in a pool."
+        },
+        {
+          "letter": "D",
+          "text": "None of the sports needs equipment.",
+          "is_correct": false,
+          "feedback": "Each sport lists equipment like helmet, pool or field."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar carteleras permite asociar cada deporte con su lugar y objeto. También se trabaja la lectura comparativa de tres deportes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-5-2026-W37-sports-games-favorites-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W37-sports-games-favorites-001-MASTERY-bundle-v7",
+      "statement": "Which statement explains the difference?",
+      "context": "In Barranquilla, a teacher compares: \"She can swim very well\" and \"She swims very well.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both sentences describe a daily habit.",
+          "is_correct": false,
+          "feedback": "Only the second sentence without can describes a habit."
+        },
+        {
+          "letter": "B",
+          "text": "Both sentences express an ability.",
+          "is_correct": false,
+          "feedback": "Only the first sentence with can expresses an ability."
+        },
+        {
+          "letter": "C",
+          "text": "The first shows an ability, the second shows a habit.",
+          "is_correct": true,
+          "feedback": "\"Can swim\" expresses ability while \"swims\" describes what she does."
+        },
+        {
+          "letter": "D",
+          "text": "The first shows a habit, the second shows an ability.",
+          "is_correct": false,
+          "feedback": "The roles are reversed; can marks ability and habit needs no can."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Can expresa habilidad y el presente simple describe hábitos. También se contrasta con la natación que practican los niños barranquilleros.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.68,
+      "bundle_id": "CO-ING-5-2026-W37-sports-games-favorites-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W37-sports-games-favorites-001-MASTERY-bundle-v8",
+      "statement": "Which invitation is the best for fifth graders?",
+      "context": "In Ibagué, two invitations to play appear: one lists safe field, referee and water breaks; the other has a highway, no referee and no water.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The highway game, because cars watch the match.",
+          "is_correct": false,
+          "feedback": "Playing on a highway is extremely dangerous for children."
+        },
+        {
+          "letter": "B",
+          "text": "The field game with referee and water.",
+          "is_correct": true,
+          "feedback": "A safe field, a referee and water protect the children."
+        },
+        {
+          "letter": "C",
+          "text": "The game with no water, because thirst is good.",
+          "is_correct": false,
+          "feedback": "Playing without water in the heat harms the health of children."
+        },
+        {
+          "letter": "D",
+          "text": "Both invitations are equal for children.",
+          "is_correct": false,
+          "feedback": "The invitations are very different; only one is safe."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar invitaciones implica revisar lugar seguro, árbitro y pausas de agua. También se promueve jugar en canchas con adultos responsables.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.62,
+      "bundle_id": "CO-ING-5-2026-W37-sports-games-favorites-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

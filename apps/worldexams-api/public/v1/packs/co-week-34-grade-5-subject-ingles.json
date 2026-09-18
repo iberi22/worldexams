@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-34-grade-5-subject-ingles",
+    "generated_at": "2026-09-18T18:24:05.801Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-5-2026-W34-cooking-recipes-instructions-001-MASTERY-bundle-v1",
+      "statement": "Which words are cooking ingredients?",
+      "context": "In a kitchen in Medellín, a mother shows eggs, cheese, milk and corn flour for arepas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chair, table and spoon.",
+          "is_correct": false,
+          "feedback": "Chair and table are furniture, only spoon is a tool."
+        },
+        {
+          "letter": "B",
+          "text": "Eggs, cheese and milk.",
+          "is_correct": true,
+          "feedback": "Eggs, cheese and milk are common cooking ingredients."
+        },
+        {
+          "letter": "C",
+          "text": "Shirt, pants and socks.",
+          "is_correct": false,
+          "feedback": "Shirt, pants and socks are clothes, not ingredients."
+        },
+        {
+          "letter": "D",
+          "text": "Car, bus and bike.",
+          "is_correct": false,
+          "feedback": "Car, bus and bike are transport, not ingredients."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Esta pregunta presenta vocabulario básico de ingredientes en inglés. También conecta las palabras con la preparación de arepas colombianas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-5-2026-W34-cooking-recipes-instructions-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W34-cooking-recipes-instructions-001-MASTERY-bundle-v2",
+      "statement": "What are \"cut\", \"mix\" and \"eat\" in a recipe?",
+      "context": "In Bogotá, a recipe says: \"Cut the tomatoes. Mix the salad. Eat with your family.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Names of fruits.",
+          "is_correct": false,
+          "feedback": "These words are actions, not names of fruits."
+        },
+        {
+          "letter": "B",
+          "text": "Names of animals.",
+          "is_correct": false,
+          "feedback": "These words describe cooking actions, not animals."
+        },
+        {
+          "letter": "C",
+          "text": "Action verbs that give instructions.",
+          "is_correct": true,
+          "feedback": "Cut, mix and eat tell the reader what action to do."
+        },
+        {
+          "letter": "D",
+          "text": "Colors of the food.",
+          "is_correct": false,
+          "feedback": "These words are verbs, not colors of food."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los verbos de acción son la base de las recetas en inglés. También se comprende que los imperativos indican qué hacer paso a paso.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-5-2026-W34-cooking-recipes-instructions-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W34-cooking-recipes-instructions-001-MASTERY-bundle-v3",
+      "statement": "Choose the correct imperative to complete the instruction.",
+      "context": "In Cali, a boy helps his grandmother: \"_____ the cheese for the arepas, please.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He grates.",
+          "is_correct": false,
+          "feedback": "\"He grates\" describes a person and is not an imperative order."
+        },
+        {
+          "letter": "B",
+          "text": "Grate.",
+          "is_correct": true,
+          "feedback": "\"Grate\" is the base verb used for polite imperative instructions."
+        },
+        {
+          "letter": "C",
+          "text": "Grated.",
+          "is_correct": false,
+          "feedback": "\"Grated\" is past tense and is not used for instructions."
+        },
+        {
+          "letter": "D",
+          "text": "Grating.",
+          "is_correct": false,
+          "feedback": "\"Grating\" is the -ing form and is not an imperative."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El imperativo usa el verbo en forma base sin sujeto. También se practica con verbos de cocina como grate en recetas familiares.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.82,
+      "bundle_id": "CO-ING-5-2026-W34-cooking-recipes-instructions-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W34-cooking-recipes-instructions-001-MASTERY-bundle-v4",
+      "statement": "What is the correct order to make arepas?",
+      "context": "In Cartagena, students read an arepa recipe: \"First, mix corn flour and water. Then, add cheese. Finally, cook on a hot pan.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cook, mix, add cheese.",
+          "is_correct": false,
+          "feedback": "Cooking is the last step, not the first step."
+        },
+        {
+          "letter": "B",
+          "text": "Add cheese, cook, mix flour.",
+          "is_correct": false,
+          "feedback": "Mixing flour and water comes first in the recipe."
+        },
+        {
+          "letter": "C",
+          "text": "Mix flour and water, add cheese, cook on the pan.",
+          "is_correct": true,
+          "feedback": "This order follows first, then and finally in the recipe."
+        },
+        {
+          "letter": "D",
+          "text": "Eat the arepas, mix, cook.",
+          "is_correct": false,
+          "feedback": "Eating is after cooking, not part of the preparation order."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Leer recetas exige seguir conectores como first, then y finally. También se aplica la secuencia correcta para preparar arepas colombianas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-5-2026-W34-cooking-recipes-instructions-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W34-cooking-recipes-instructions-001-MASTERY-bundle-v5",
+      "statement": "Which verb means to cook in hot oil?",
+      "context": "At home in Bucaramanga, a girl cooks: \"Boil the water for the soup. Fry the egg. Bake the bread.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Boil.",
+          "is_correct": false,
+          "feedback": "To boil means to cook in hot bubbling water."
+        },
+        {
+          "letter": "B",
+          "text": "Fry.",
+          "is_correct": true,
+          "feedback": "To fry means to cook food in hot oil in a pan."
+        },
+        {
+          "letter": "C",
+          "text": "Bake.",
+          "is_correct": false,
+          "feedback": "To bake means to cook in the oven with dry heat."
+        },
+        {
+          "letter": "D",
+          "text": "Wash.",
+          "is_correct": false,
+          "feedback": "To wash means to clean with water, not to cook."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los verbos boil, fry y bake describen formas distintas de cocinar. También se amplía el vocabulario culinario con acciones visibles en casa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-5-2026-W34-cooking-recipes-instructions-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W34-cooking-recipes-instructions-001-MASTERY-bundle-v6",
+      "statement": "What can you conclude about these arepas?",
+      "context": "In Pereira, a recipe says: \"You need 2 cups of corn flour, 1 cup of cheese and a little salt. Do not add sugar.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They are sweet because they have sugar.",
+          "is_correct": false,
+          "feedback": "The recipe says do not add sugar, so they are not sweet."
+        },
+        {
+          "letter": "B",
+          "text": "They have cheese and salt but no sugar.",
+          "is_correct": true,
+          "feedback": "The ingredient list includes cheese and salt and excludes sugar."
+        },
+        {
+          "letter": "C",
+          "text": "They need no corn flour or cheese.",
+          "is_correct": false,
+          "feedback": "The recipe asks for 2 cups of flour and 1 cup of cheese."
+        },
+        {
+          "letter": "D",
+          "text": "They are made only with water.",
+          "is_correct": false,
+          "feedback": "The recipe lists flour, cheese and salt, not only water."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar ingredientes permite distinguir lo que lleva y lo que no lleva una receta. También se trabaja la lectura detallada de cantidades en inglés.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-5-2026-W34-cooking-recipes-instructions-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W34-cooking-recipes-instructions-001-MASTERY-bundle-v7",
+      "statement": "Which statement explains the difference?",
+      "context": "In Santa Marta, a teacher compares: \"She mixes the juice\" and \"Mix the juice.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The first describes a person, the second gives an instruction.",
+          "is_correct": true,
+          "feedback": "\"She mixes\" describes an action and \"Mix\" orders the action."
+        },
+        {
+          "letter": "B",
+          "text": "Both sentences give instructions.",
+          "is_correct": false,
+          "feedback": "Only the second sentence without subject is an imperative."
+        },
+        {
+          "letter": "C",
+          "text": "Both sentences describe the past.",
+          "is_correct": false,
+          "feedback": "Both sentences are in the present, not in the past."
+        },
+        {
+          "letter": "D",
+          "text": "The first is an instruction, the second describes a person.",
+          "is_correct": false,
+          "feedback": "The roles are reversed; the imperative has no subject."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El imperativo omite el sujeto y usa el verbo base para ordenar. También se contrasta con el presente simple que sí incluye sujeto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.68,
+      "bundle_id": "CO-ING-5-2026-W34-cooking-recipes-instructions-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W34-cooking-recipes-instructions-001-MASTERY-bundle-v8",
+      "statement": "Which recipe is the best for a fifth grader?",
+      "context": "In Manizales, two recipes for fruit salad appear: one lists steps clearly, the other has no order and unsafe steps.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cut quickly without help, run with the knife, taste nothing.",
+          "is_correct": false,
+          "feedback": "These steps are unsafe and have no clear cooking order."
+        },
+        {
+          "letter": "B",
+          "text": "Mix everything dirty, never wash fruits, eat unwashed food.",
+          "is_correct": false,
+          "feedback": "Not washing fruits is unhealthy and the steps are unclear."
+        },
+        {
+          "letter": "C",
+          "text": "Wash the fruits, cut carefully with an adult, mix and serve.",
+          "is_correct": true,
+          "feedback": "These steps are safe, ordered and easy for a child with help."
+        },
+        {
+          "letter": "D",
+          "text": "Burn the fruits, add soap, serve cold stones.",
+          "is_correct": false,
+          "feedback": "These steps are dangerous and use things that are not food."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar recetas implica revisar orden, claridad y seguridad. También se promueve cocinar con un adulto y lavar bien las frutas colombianas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.62,
+      "bundle_id": "CO-ING-5-2026-W34-cooking-recipes-instructions-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}
