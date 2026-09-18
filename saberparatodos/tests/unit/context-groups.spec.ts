@@ -3,6 +3,8 @@ import {
   groupQuestionsByContext,
   shouldShowInlineBadge,
   isLongContextText,
+  getSharedContextTitle,
+  getEffectiveContextFor,
   type QuestionContextItem
 } from '../../src/lib/context-groups';
 
@@ -119,5 +121,72 @@ describe('context-groups.ts - Context Grouping Logic', () => {
 
     expect(groups[2].questionIds).toEqual([4]);
     expect(groups[2].startIndex).toBe(3);
+  });
+
+  it('generates range title "Lectura compartida · preguntas X–Y" only when long and >= 2 questions', () => {
+    const longPassage = 'A'.repeat(150);
+    const questions: QuestionContextItem[] = [
+      { id: 'q5', context: longPassage },
+      { id: 'q6', context: longPassage },
+      { id: 'q7', context: longPassage }
+    ];
+    // Notice startIndex for q5 is 4 if offset, but groupQuestionsByContext sets startIndex to 0 in this sub-array
+    const groups = groupQuestionsByContext(questions);
+    expect(getSharedContextTitle(groups[0])).toBe('Lectura compartida · preguntas 1–3');
+  });
+
+  it('generates generic title "Contexto de Lectura" for single-question long group or short groups', () => {
+    const longPassage = 'B'.repeat(150);
+    const questionsLongSingle: QuestionContextItem[] = [{ id: 'q1', context: longPassage }];
+    const groupLongSingle = groupQuestionsByContext(questionsLongSingle)[0];
+
+    expect(getSharedContextTitle(groupLongSingle)).toBe('Contexto de Lectura');
+
+    const questionsShortMulti: QuestionContextItem[] = [
+      { id: 'q1', context: 'Texto corto' },
+      { id: 'q2', context: 'Texto corto' }
+    ];
+    const groupShortMulti = groupQuestionsByContext(questionsShortMulti)[0];
+
+    expect(getSharedContextTitle(groupShortMulti)).toBe('Contexto de Lectura');
+    expect(getSharedContextTitle(null)).toBe('Contexto de Lectura');
+    expect(getSharedContextTitle(undefined)).toBe('Contexto de Lectura');
+  });
+
+  it('suppresses effective context for non-first short questions in a group', () => {
+    const shortText = 'Breve fragmento.';
+    const questions: QuestionContextItem[] = [
+      { id: 'q10', context: shortText },
+      { id: 'q11', context: shortText },
+      { id: 'q12', context: shortText }
+    ];
+    const group = groupQuestionsByContext(questions)[0];
+
+    // First question (index 0) gets the context text for inline badge
+    expect(getEffectiveContextFor(group, shortText, 0)).toBe(shortText);
+
+    // Subsequent questions (index 1, 2) get empty string to avoid redundant inline badges
+    expect(getEffectiveContextFor(group, shortText, 1)).toBe('');
+    expect(getEffectiveContextFor(group, shortText, 2)).toBe('');
+  });
+
+  it('always returns effective context for long contexts regardless of question index', () => {
+    const longPassage = 'Un texto extenso '.repeat(10);
+    const questions: QuestionContextItem[] = [
+      { id: 'q1', context: longPassage },
+      { id: 'q2', context: longPassage }
+    ];
+    const group = groupQuestionsByContext(questions)[0];
+
+    expect(getEffectiveContextFor(group, longPassage, 0)).toBe(longPassage);
+    expect(getEffectiveContextFor(group, longPassage, 1)).toBe(longPassage);
+  });
+
+  it('handles null, undefined, and empty question context gracefully in getEffectiveContextFor', () => {
+    const group = { context: 'Test', questionIds: ['q1'], isLong: false, startIndex: 0 };
+
+    expect(getEffectiveContextFor(group, '', 0)).toBe('');
+    expect(getEffectiveContextFor(group, undefined, 0)).toBe('');
+    expect(getEffectiveContextFor(null, 'Texto', 0)).toBe('');
   });
 });
