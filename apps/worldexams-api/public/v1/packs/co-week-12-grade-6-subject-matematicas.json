@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-12-grade-6-subject-matematicas",
+    "generated_at": "2026-09-20T21:26:33.167Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-6-2026-W12-proporcionalidad-regla-tres-001-MASTERY-bundle-v1",
+      "statement": "¿Qué significa que dos magnitudes sean directamente proporcionales?",
+      "context": "Una tienda de barrio en Bogotá vende bolsas de café con precio proporcional a la cantidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que al aumentar una, la otra aumenta en la misma proporción",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: define la proporcionalidad directa donde el cociente se mantiene constante."
+        },
+        {
+          "letter": "B",
+          "text": "Que al aumentar una, la otra disminuye siempre",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: esa descripción corresponde a proporcionalidad inversa, no directa."
+        },
+        {
+          "letter": "C",
+          "text": "Que las dos magnitudes son siempre iguales entre sí",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: ser proporcionales no significa tener el mismo valor numérico."
+        },
+        {
+          "letter": "D",
+          "text": "Que no existe ninguna relación entre las dos magnitudes",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: si no hay relación, no se puede hablar de proporcionalidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dos magnitudes son directamente proporcionales cuando el cociente entre sus valores correspondientes es constante. Si una se duplica, la otra también se duplica, y esta regularidad es la base de la regla de tres directa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-6-2026-W12-proporcionalidad-regla-tres-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W12-proporcionalidad-regla-tres-001-MASTERY-bundle-v2",
+      "statement": "Si 2 cuadernos cuestan 6000 COP en una papelería de Medellín, ¿cuánto cuestan 4 cuadernos iguales al mismo precio unitario?",
+      "context": "Un bus de Medellín recorre la misma ruta todos los días a velocidad constante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12000 COP",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: al duplicar la cantidad, el precio se duplica porque es proporcionalidad directa."
+        },
+        {
+          "letter": "B",
+          "text": "8000 COP",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: suma solo 2000 COP en lugar de mantener la proporción doble."
+        },
+        {
+          "letter": "C",
+          "text": "6000 COP",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: mantiene el precio aunque aumenta la cantidad de cuadernos."
+        },
+        {
+          "letter": "D",
+          "text": "10000 COP",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: estima un valor intermedio sin aplicar el factor de proporcionalidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En una situación de proporcionalidad directa, el valor total se obtiene multiplicando por el mismo factor. Como 4 es el doble de 2, el precio es el doble de 6000 COP, es decir 12000 COP.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-6-2026-W12-proporcionalidad-regla-tres-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W12-proporcionalidad-regla-tres-001-MASTERY-bundle-v3",
+      "statement": "Con el mismo precio unitario, ¿cuánto cuestan 7 pandebonos?",
+      "context": "Una panadería de Cali vende 3 pandebonos por 4500 COP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10500 COP",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: cada pandebono cuesta 1500 COP y 7 por 1500 da 10500."
+        },
+        {
+          "letter": "B",
+          "text": "9500 COP",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: resta una cantidad arbitraria en vez de multiplicar el valor unitario."
+        },
+        {
+          "letter": "C",
+          "text": "13500 COP",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: multiplica por 9 en lugar de multiplicar por 7."
+        },
+        {
+          "letter": "D",
+          "text": "7500 COP",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: calcula el precio de 5 unidades y no de 7 unidades."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Primero se halla el valor unitario dividiendo 4500 entre 3, lo que da 1500 COP. Luego se multiplica 1500 por 7 para obtener 10500 COP. Este es el procedimiento básico de la regla de tres simple directa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-6-2026-W12-proporcionalidad-regla-tres-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W12-proporcionalidad-regla-tres-001-MASTERY-bundle-v4",
+      "statement": "Con la misma medida por vaso, ¿cuántos vasos se sirven con 8 litros de jugo?",
+      "context": "En Cartagena, 5 litros de jugo de corozo alcanzan para 20 vasos iguales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "32 vasos",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: con regla de tres directa, 8 por 20 dividido en 5 da 32."
+        },
+        {
+          "letter": "B",
+          "text": "28 vasos",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: suma 8 a 20 en lugar de aplicar la proporción."
+        },
+        {
+          "letter": "C",
+          "text": "30 vasos",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: supone 10 vasos más sin calcular el factor 8 quintos."
+        },
+        {
+          "letter": "D",
+          "text": "25 vasos",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: confunde la operación y divide en vez de multiplicar correctamente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se plantea la proporción 5 litros es a 20 vasos como 8 litros es a x. Se calcula x igual a 8 por 20 dividido en 5, lo que da 32 vasos. También se puede ver que cada litro rinde 4 vasos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-6-2026-W12-proporcionalidad-regla-tres-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W12-proporcionalidad-regla-tres-001-MASTERY-bundle-v5",
+      "statement": "Si se contratan 6 recolectores al mismo ritmo, ¿cuántos días tardarán en la misma cosecha?",
+      "context": "En una finca de Pereira, 4 recolectores tardan 12 días en recoger una cosecha de café trabajando al mismo ritmo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8 días",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: es proporcionalidad inversa, más trabajadores significa menos días, 4 por 12 dividido en 6."
+        },
+        {
+          "letter": "B",
+          "text": "18 días",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: aplica regla directa y aumenta los días cuando hay más personal."
+        },
+        {
+          "letter": "C",
+          "text": "10 días",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: resta 2 días de forma aditiva sin usar la relación inversa."
+        },
+        {
+          "letter": "D",
+          "text": "9 días",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: divide de forma incorrecta y no conserva el producto constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando aumenta el número de trabajadores, el tiempo disminuye, por eso es proporcionalidad inversa. El producto se conserva: 4 por 12 es 48 jornadas. Al dividir 48 entre 6 se obtienen 8 días.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-6-2026-W12-proporcionalidad-regla-tres-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W12-proporcionalidad-regla-tres-001-MASTERY-bundle-v6",
+      "statement": "Analiza la tabla y determina cuántos metros se necesitan para 11 uniformes, manteniendo la proporción.",
+      "context": "Un taller de Barranquilla registra el consumo de tela para uniformes: con 15 metros se hacen 6 uniformes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "27.5 metros",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: cada uniforme usa 2.5 metros y 11 por 2.5 da 27.5."
+        },
+        {
+          "letter": "B",
+          "text": "25 metros",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: supone 10 metros más sin calcular el valor unitario real."
+        },
+        {
+          "letter": "C",
+          "text": "30 metros",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: redondea hacia arriba y duplica la tela inicial de forma incorrecta."
+        },
+        {
+          "letter": "D",
+          "text": "22 metros",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: usa el doble de uniformes menos uno sin ajustar la proporción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El análisis parte del valor unitario: 15 dividido en 6 es 2.5 metros por uniforme. Para 11 uniformes se multiplica 11 por 2.5, lo que da 27.5 metros. Verificar la constante de proporcionalidad evita errores aditivos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-6-2026-W12-proporcionalidad-regla-tres-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W12-proporcionalidad-regla-tres-001-MASTERY-bundle-v7",
+      "statement": "Si por el tráfico el bus solo puede ir a 30 kilómetros por hora en el mismo trayecto, ¿cuánto tiempo tardará?",
+      "context": "Una ruta escolar en Bucaramanga tarda 60 minutos cuando el bus va a 40 kilómetros por hora.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "80 minutos",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: a menor velocidad, mayor tiempo, es inversa, 40 por 60 dividido en 30."
+        },
+        {
+          "letter": "B",
+          "text": "45 minutos",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: aplica proporción directa y reduce el tiempo cuando baja la velocidad."
+        },
+        {
+          "letter": "C",
+          "text": "70 minutos",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: suma 10 minutos de forma aditiva sin analizar la relación inversa."
+        },
+        {
+          "letter": "D",
+          "text": "90 minutos",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: multiplica por un factor equivocado y sobrestima el tiempo total."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Velocidad y tiempo son inversamente proporcionales cuando la distancia es fija. El producto distancia es 40 por 60 igual a 2400. Al dividir 2400 entre 30 se obtienen 80 minutos. Analizar si la relación es directa o inversa es clave antes de operar.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.66,
+      "bundle_id": "CO-MAT-6-2026-W12-proporcionalidad-regla-tres-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W12-proporcionalidad-regla-tres-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál oferta conviene más por precio unitario y cuál es ese valor?",
+      "context": "En un mercado de Manizales se comparan dos ofertas de panela: oferta A, 4 panelas por 8000 COP; oferta B, 6 panelas por 10800 COP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La oferta B, a 1800 COP por panela",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: 10800 entre 6 es 1800, menor que 2000 de la oferta A."
+        },
+        {
+          "letter": "B",
+          "text": "La oferta A, a 2000 COP por panela",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: aunque calcula bien el unitario de A, no compara con B que es más barata."
+        },
+        {
+          "letter": "C",
+          "text": "La oferta B, a 2000 COP por panela",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: asigna a B el valor unitario de A por no dividir correctamente."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas valen lo mismo, a 1900 COP por panela",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: promedia sin fundamento y no calcula cada valor unitario."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para comparar se calcula el precio unitario de cada oferta. La oferta A da 8000 dividido en 4 igual a 2000 COP. La oferta B da 10800 dividido en 6 igual a 1800 COP. Por tanto conviene la oferta B. Analizar el valor unitario permite decidir con criterio proporcional.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-6-2026-W12-proporcionalidad-regla-tres-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W12-proporcionalidad-regla-tres-001-MASTERY-bundle-v9",
+      "statement": "Evalúa la afirmación y justifica si el razonamiento proporcional es válido.",
+      "context": "Un comerciante de Pasto afirma: si 3 empleados empacan 120 cajas en un día, entonces 5 empleados empacarán 200 cajas en un día al mismo ritmo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es válida, porque 120 entre 3 es 40 cajas por empleado y 40 por 5 es 200",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: verifica la constante de proporcionalidad y confirma la regla directa."
+        },
+        {
+          "letter": "B",
+          "text": "Es válida, porque 5 empleados son 2 más y 120 más 2 es 122",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: usa suma aditiva en lugar de razonamiento multiplicativo proporcional."
+        },
+        {
+          "letter": "C",
+          "text": "No es válida, porque con más empleados el total de cajas disminuye",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: confunde proporcionalidad directa con inversa en este caso."
+        },
+        {
+          "letter": "D",
+          "text": "No es válida, porque 120 entre 5 es 24 y ese sería el total",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: divide el total original entre el nuevo número sin hallar el valor unitario."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar exige comprobar la constante: 120 cajas entre 3 empleados da 40 cajas por empleado. Manteniendo ese ritmo, 5 empleados producen 200 cajas. El razonamiento es directamente proporcional y la afirmación está bien justificada.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-6-2026-W12-proporcionalidad-regla-tres-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W12-proporcionalidad-regla-tres-001-MASTERY-bundle-v10",
+      "statement": "¿Quién tiene razón y qué tipo de proporcionalidad justifica la respuesta?",
+      "context": "Dos estudiantes de Montería discuten: Ana dice que si un grifo llena un tanque en 6 horas, dos grifos iguales lo llenan en 3 horas. Luis dice que lo llenan en 12 horas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ana, porque es proporcionalidad inversa y el tiempo se reduce a la mitad",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: más grifos reducen el tiempo, 6 dividido en 2 es 3 horas."
+        },
+        {
+          "letter": "B",
+          "text": "Luis, porque es proporcionalidad directa y el tiempo se duplica",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: aplica relación directa cuando más caudal reduce el tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "Ana, porque es proporcionalidad directa y el tiempo se mantiene igual",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: acierta el valor pero justifica con el tipo de relación equivocado."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno, porque con dos grifos el tanque se llena en 6 horas también",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: supone que el segundo grifo no aporta caudal adicional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El caudal total se duplica con dos grifos, así que el tiempo se reduce a la mitad: es proporcionalidad inversa. Evaluar el argumento implica identificar primero el tipo de relación y luego calcular 6 dividido en 2 igual a 3 horas, por lo que Ana tiene razón.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-6-2026-W12-proporcionalidad-regla-tres-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

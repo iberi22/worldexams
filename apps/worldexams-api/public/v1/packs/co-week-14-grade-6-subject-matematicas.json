@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-14-grade-6-subject-matematicas",
+    "generated_at": "2026-09-20T21:26:33.168Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-6-2026-W14-graficos-tablas-interpretacion-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es una tabla de frecuencias?",
+      "context": "En un colegio de Bogotá se registra la fruta favorita de grado sexto en una tabla de conteo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una organización que muestra cada dato con la cantidad de veces que aparece",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: define la tabla de frecuencias como conteo ordenado de datos."
+        },
+        {
+          "letter": "B",
+          "text": "Un dibujo sin números que adorna el informe",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: la tabla siempre presenta datos numéricos organizados."
+        },
+        {
+          "letter": "C",
+          "text": "Una lista desordenada de opiniones sin conteo",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: sin conteo no hay frecuencia ni resumen útil."
+        },
+        {
+          "letter": "D",
+          "text": "Una operación que multiplica todos los datos entre sí",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: la tabla resume información, no multiplica valores."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La tabla de frecuencias ordena los datos y registra cuántas veces aparece cada valor. Esta organización facilita leer la moda, comparar categorías y construir gráficos posteriores.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-6-2026-W14-graficos-tablas-interpretacion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W14-graficos-tablas-interpretacion-001-MASTERY-bundle-v2",
+      "statement": "Según el gráfico, ¿qué equipo marcó más goles?",
+      "context": "En Medellín un gráfico de barras muestra los goles de 4 equipos escolares: Estrellas 8, Cometas 5, Relámpagos 11, Truenos 3.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Relámpagos, con 11 goles",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: identifica la barra más alta con el valor mayor."
+        },
+        {
+          "letter": "B",
+          "text": "Estrellas, con 8 goles",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: elige la primera barra alta pero no la máxima del gráfico."
+        },
+        {
+          "letter": "C",
+          "text": "Truenos, con 3 goles",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: elige la barra más baja, que es el valor mínimo."
+        },
+        {
+          "letter": "D",
+          "text": "Cometas, con 5 goles",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: selecciona un valor intermedio en lugar del máximo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un gráfico de barras, la altura representa la cantidad. Comparar alturas permite identificar el máximo de forma visual: la barra de Relámpagos llega a 11, por encima de todas las demás.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-6-2026-W14-graficos-tablas-interpretacion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W14-graficos-tablas-interpretacion-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál fue el total de jugos vendidos en esos cuatro días?",
+      "context": "En Cali una tabla registra las ventas de jugos en una semana: lunes 20, martes 35, miércoles 25, jueves 40.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "120 jugos",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: suma 20 más 35 más 25 más 40 y obtiene 120."
+        },
+        {
+          "letter": "B",
+          "text": "100 jugos",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: omite 20 unidades al sumar de forma incompleta."
+        },
+        {
+          "letter": "C",
+          "text": "110 jugos",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: comete un error de suma en las decenas finales."
+        },
+        {
+          "letter": "D",
+          "text": "90 jugos",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: suma solo tres días y deja uno por fuera."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para obtener el total se suman todas las frecuencias de la tabla. La adición ordenada 20 más 35 es 55, más 25 es 80, más 40 es 120. El total resume el comportamiento de la semana.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-6-2026-W14-graficos-tablas-interpretacion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W14-graficos-tablas-interpretacion-001-MASTERY-bundle-v4",
+      "statement": "¿En qué momento se registró la temperatura más alta?",
+      "context": "En Barranquilla un gráfico lineal muestra la temperatura a las 8 a. m. 26 grados, a las 12 p. m. 31 grados y a las 4 p. m. 29 grados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A las 12 p. m., con 31 grados",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: identifica el punto más alto de la línea con el valor máximo."
+        },
+        {
+          "letter": "B",
+          "text": "A las 8 a. m., con 26 grados",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: elige el punto inicial, que es el valor más bajo."
+        },
+        {
+          "letter": "C",
+          "text": "A las 4 p. m., con 29 grados",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: elige un descenso posterior y no el pico del día."
+        },
+        {
+          "letter": "D",
+          "text": "En los tres momentos hizo el mismo calor",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: ignora las diferencias claras entre los tres puntos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El gráfico lineal une los valores en el tiempo y el punto más alto indica el máximo. A las 12 p. m. la línea alcanza 31 grados, por encima de 26 y 29. Leer puntos máximos ayuda a describir tendencias.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-6-2026-W14-graficos-tablas-interpretacion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W14-graficos-tablas-interpretacion-001-MASTERY-bundle-v5",
+      "statement": "¿Qué porcentaje de estudiantes va en bus?",
+      "context": "En Bucaramanga se preguntó a 40 estudiantes por su medio de transporte: 16 van en bus, 12 a pie, 8 en bicicleta y 4 en moto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "40 por ciento",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: 16 de 40 equivale a 40 de cada 100."
+        },
+        {
+          "letter": "B",
+          "text": "16 por ciento",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: usa la frecuencia sin dividir entre el total de 40."
+        },
+        {
+          "letter": "C",
+          "text": "25 por ciento",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: supone una cuarta parte sin calcular la fracción real."
+        },
+        {
+          "letter": "D",
+          "text": "60 por ciento",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: calcula el complemento de quienes no van en bus."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El porcentaje se obtiene dividiendo la parte entre el total y multiplicando por 100. Con 16 sobre 40 se simplifica a 2 quintos, es decir 40 por ciento. Los porcentajes permiten comparar aunque cambie el total.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-6-2026-W14-graficos-tablas-interpretacion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W14-graficos-tablas-interpretacion-001-MASTERY-bundle-v6",
+      "statement": "Analiza el gráfico y determina qué afirmación es correcta.",
+      "context": "En Pereira un gráfico de barras compara la lluvia de abril en tres años: 2023 con 180 milímetros, 2024 con 240 milímetros y 2025 con 150 milímetros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2024 fue el año más lluvioso y superó a 2025 por 90 milímetros",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: identifica el máximo y calcula bien la diferencia 240 menos 150."
+        },
+        {
+          "letter": "B",
+          "text": "2023 fue el año más lluvioso con 240 milímetros",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: asigna a 2023 el valor que corresponde a 2024."
+        },
+        {
+          "letter": "C",
+          "text": "2025 superó a 2024 por 90 milímetros",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: invierte el orden de la comparación entre los dos años."
+        },
+        {
+          "letter": "D",
+          "text": "Los tres años tuvieron exactamente la misma lluvia",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: ignora las alturas distintas de las tres barras."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar implica ordenar y restar. El máximo es 2024 con 240 milímetros y el mínimo es 2025 con 150. La diferencia es 90 milímetros. Comparar barras con restas precisa la lectura del gráfico.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-6-2026-W14-graficos-tablas-interpretacion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W14-graficos-tablas-interpretacion-001-MASTERY-bundle-v7",
+      "statement": "¿Qué fracción y porcentaje representan los turistas que van a la playa?",
+      "context": "En Cartagena un gráfico circular muestra el destino de 120 turistas: 60 a la playa, 30 al centro histórico, 18 a las islas y 12 a los museos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un medio, es decir 50 por ciento",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: 60 de 120 se simplifica a un medio, que es la mitad del círculo."
+        },
+        {
+          "letter": "B",
+          "text": "Un tercio, es decir 30 por ciento",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: confunde la fracción con el dato del centro histórico."
+        },
+        {
+          "letter": "C",
+          "text": "Un cuarto, es decir 25 por ciento",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: asigna una cuarta parte sin dividir 60 entre 120."
+        },
+        {
+          "letter": "D",
+          "text": "Dos tercios, es decir 66 por ciento",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: sobrestima la porción aunque es solo la mitad del total."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el gráfico circular, la mitad del círculo equivale a 50 por ciento. Como 60 es la mitad de 120, la fracción es un medio. Relacionar fracción, decimal y porcentaje fortalece la interpretación de gráficos circulares.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.66,
+      "bundle_id": "CO-MAT-6-2026-W14-graficos-tablas-interpretacion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W14-graficos-tablas-interpretacion-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la moda y el promedio de los minutos de lectura?",
+      "context": "En Manizales una tabla muestra los minutos de lectura diaria de 5 estudiantes: Ana 30, Luis 45, Sara 20, Diego 45, Elena 35.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Moda 45 minutos y promedio 35 minutos",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: 45 se repite dos veces y la suma 175 entre 5 da 35."
+        },
+        {
+          "letter": "B",
+          "text": "Moda 30 minutos y promedio 35 minutos",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: elige un valor único como moda aunque no se repite."
+        },
+        {
+          "letter": "C",
+          "text": "Moda 45 minutos y promedio 40 minutos",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: acierta la moda pero suma mal el total de minutos."
+        },
+        {
+          "letter": "D",
+          "text": "Moda 20 minutos y promedio 30 minutos",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: toma el mínimo como moda y subestima el promedio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La moda es el dato con mayor frecuencia, en este caso 45 minutos que aparece dos veces. El promedio es la suma 30 más 45 más 20 más 45 más 35 igual a 175, dividida entre 5, lo que da 35. Distinguir moda y promedio evita confundir lo frecuente con lo típico.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-6-2026-W14-graficos-tablas-interpretacion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W14-graficos-tablas-interpretacion-001-MASTERY-bundle-v9",
+      "statement": "Evalúa si el gráfico es coherente con el total informado.",
+      "context": "Un informe de Tunja afirma: en grado sexto hay 50 estudiantes y el gráfico de barras de mascotas muestra 20 con perro, 15 con gato, 10 con pájaro y 10 con pez.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No es coherente, porque la suma da 55 y supera el total de 50",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: suma las cuatro barras y detecta un exceso de 5 estudiantes."
+        },
+        {
+          "letter": "B",
+          "text": "Sí es coherente, porque 20 más 15 es 50",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: suma solo dos categorías y omite las otras dos."
+        },
+        {
+          "letter": "C",
+          "text": "Sí es coherente, porque cada barra es menor que 50",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: compara partes con el total sin verificar la suma completa."
+        },
+        {
+          "letter": "D",
+          "text": "No es coherente, porque la suma da 45 y faltan 5",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: detecta incoherencia pero calcula mal la suma real."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la coherencia exige sumar todas las partes: 20 más 15 más 10 más 10 es 55, no 50. Hay 5 conteos de más, quizá por estudiantes con dos mascotas o por error de registro. Verificar totales es un control básico de calidad de datos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-6-2026-W14-graficos-tablas-interpretacion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W14-graficos-tablas-interpretacion-001-MASTERY-bundle-v10",
+      "statement": "¿Qué gráfico puede inducir a error y por qué?",
+      "context": "Dos tiendas de Pasto presentan sus ventas con gráficos de barras. La tienda A usa escala de 0 a 100 con intervalos de 10. La tienda B usa escala recortada de 80 a 100 para los mismos datos de 85 y 95 unidades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El de la tienda B, porque la escala recortada exagera visualmente una diferencia de 10 unidades",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: reconoce que el eje truncado distorsiona la comparación proporcional."
+        },
+        {
+          "letter": "B",
+          "text": "El de la tienda A, porque mostrar el cero siempre distorsiona los datos",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: empezar en cero es la práctica honesta para comparar magnitudes."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguno induce a error, porque los números escritos son lo único importante",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: ignora que la percepción visual también comunica y puede engañar."
+        },
+        {
+          "letter": "D",
+          "text": "El de la tienda B, porque usa barras de colores distintos",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el color no es el problema, sino el recorte del eje vertical."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un eje vertical recortado amplía diferencias pequeñas y rompe la proporcionalidad visual entre barra y cantidad. La tienda B hace ver una diferencia de 10 como si fuera enorme. Evaluar gráficos exige revisar siempre la escala, el origen y los intervalos antes de concluir.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-6-2026-W14-graficos-tablas-interpretacion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}
