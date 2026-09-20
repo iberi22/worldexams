@@ -45,7 +45,7 @@ La palabra bus es esencial para hablar del transporte escolar y urbano. También
 ## Question 2 [D3-D4]
 **ID:** CO-ING-5-2026-W26-means-of-transport-travel-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Reading Comprehension
+**ICFES:** Part 6 - Reading Comprehension
 **Expected_Success:** 0.88
 **Contexto:** At an airport in Cali, a girl looks at a big plane before her trip.
 ### Enunciado
@@ -125,7 +125,7 @@ El vocabulario cheap y expensive describe precios en COP. Además, es común com
 ## Question 6 [D7-D8]
 **ID:** CO-ING-5-2026-W26-means-of-transport-travel-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**ICFES:** Part 6 - Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** At a school in Pereira, Laura reads a travel text about two cities in Colombia.
 ### Enunciado

@@ -86,7 +86,7 @@ How much se combina con is para preguntar el precio de un producto. También se 
 ## Question 4 [D5-D6]
 **ID:** CO-ING-5-2026-W30-market-shopping-money-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Reading Comprehension
+**ICFES:** Part 6 - Reading Comprehension
 **Expected_Success:** 0.78
 **Contexto:** In a market in Cali, a girl reads this note: "Oranges $8.000 COP. Bananas $6.000 COP."
 ### Enunciado
@@ -146,7 +146,7 @@ El verbo cambia según el sustantivo: is para singular y are para plural. Tambi�
 ## Question 7 [D7-D8]
 **ID:** CO-ING-5-2026-W30-market-shopping-money-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**ICFES:** Part 6 - Reading Comprehension
 **Expected_Success:** 0.68
 **Contexto:** In Santa Marta, Ana has a shopping list: "2 kilos of potatoes $10.000 COP, 1 pineapple $7.000 COP".
 ### Enunciado

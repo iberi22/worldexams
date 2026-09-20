@@ -86,7 +86,7 @@ El imperativo usa el verbo en forma base sin sujeto. También se practica con ve
 ## Question 4 [D5-D6]
 **ID:** CO-ING-5-2026-W34-cooking-recipes-instructions-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Reading Comprehension
+**ICFES:** Part 6 - Reading Comprehension
 **Expected_Success:** 0.78
 **Contexto:** In Cartagena, students read an arepa recipe: "First, mix corn flour and water. Then, add cheese. Finally, cook on a hot pan."
 ### Enunciado
@@ -126,7 +126,7 @@ Los verbos boil, fry y bake describen formas distintas de cocinar. También se a
 ## Question 6 [D7-D8]
 **ID:** CO-ING-5-2026-W34-cooking-recipes-instructions-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**ICFES:** Part 6 - Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** In Pereira, a recipe says: "You need 2 cups of corn flour, 1 cup of cheese and a little salt. Do not add sugar."
 ### Enunciado

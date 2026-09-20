@@ -86,7 +86,7 @@ There is se usa con sustantivos singulares como one box. También se refuerza la
 ## Question 4 [D5-D6]
 **ID:** CO-ING-5-2026-W31-environment-recycling-nature-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Reading Comprehension
+**ICFES:** Part 6 - Reading Comprehension
 **Expected_Success:** 0.78
 **Contexto:** In Cartagena, students read: "There are five sea turtles on the beach. There is one plastic bag near them."
 ### Enunciado
@@ -126,7 +126,7 @@ Los residuos orgánicos vienen de alimentos naturales como frutas. También se p
 ## Question 6 [D7-D8]
 **ID:** CO-ING-5-2026-W31-environment-recycling-nature-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**ICFES:** Part 6 - Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** In class in Pereira, students read: "The páramo in Colombia is cold and wet. There are frailejones and small lakes. The páramo gives water to the cities."
 ### Enunciado

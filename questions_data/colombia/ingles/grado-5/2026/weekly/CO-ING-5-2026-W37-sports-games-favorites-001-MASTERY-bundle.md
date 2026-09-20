@@ -86,7 +86,7 @@ El presente simple con every Sunday usa -s en tercera persona. También se pract
 ## Question 4 [D5-D6]
 **ID:** CO-ING-5-2026-W37-sports-games-favorites-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Reading Comprehension
+**ICFES:** Part 6 - Reading Comprehension
 **Expected_Success:** 0.78
 **Contexto:** In Zipaquirá, students read about tejo: "Players throw a metal disc. They aim at packets with gunpowder. The explosion gives points."
 ### Enunciado
@@ -126,7 +126,7 @@ Los opuestos como win y lose describen resultados de partidos. También se asoci
 ## Question 6 [D7-D8]
 **ID:** CO-ING-5-2026-W37-sports-games-favorites-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**ICFES:** Part 6 - Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** In Cali, a poster says: "Cycling needs a helmet and a road. Swimming needs a pool and a coach. Soccer needs a ball and a field."
 ### Enunciado

@@ -86,7 +86,7 @@ El verbo search se usa para buscar información en internet. También se practic
 ## Question 4 [D5-D6]
 **ID:** CO-ING-5-2026-W32-technology-internet-computers-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Reading Comprehension
+**ICFES:** Part 6 - Reading Comprehension
 **Expected_Success:** 0.78
 **Contexto:** In Cartagena, students read a poster: "Type your name. Click Save. Do not share your password."
 ### Enunciado
@@ -146,7 +146,7 @@ La seguridad en internet exige no compartir datos personales. También es vital 
 ## Question 7 [D7-D8]
 **ID:** CO-ING-5-2026-W32-technology-internet-computers-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**ICFES:** Part 6 - Reading Comprehension
 **Expected_Success:** 0.68
 **Contexto:** In Santa Marta, students compare two rules: "Play two hours online every day" and "Ask permission and play thirty minutes after homework."
 ### Enunciado

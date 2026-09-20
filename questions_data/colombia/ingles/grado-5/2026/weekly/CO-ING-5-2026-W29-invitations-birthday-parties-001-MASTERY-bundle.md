@@ -45,7 +45,7 @@ La palabra invitation es clave para organizar fiestas. También se combina con s
 ## Question 2 [D3-D4]
 **ID:** CO-ING-5-2026-W29-invitations-birthday-parties-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Reading Comprehension
+**ICFES:** Part 6 - Reading Comprehension
 **Expected_Success:** 0.88
 **Contexto:** In a school in Medellín, a boy reads an invitation for a party on Sunday afternoon.
 ### Enunciado
@@ -125,7 +125,7 @@ El vocabulario balloon, cake y gift describe una fiesta típica. También es út
 ## Question 6 [D7-D8]
 **ID:** CO-ING-5-2026-W29-invitations-birthday-parties-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**ICFES:** Part 6 - Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** In a classroom in Cartagena, Luisa reads two invitations with different dates and times.
 ### Enunciado

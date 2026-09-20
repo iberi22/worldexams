@@ -86,7 +86,7 @@ El presente simple usa la forma base con they en afirmativo. También se practic
 ## Question 4 [D5-D6]
 **ID:** CO-ING-5-2026-W38-music-dance-colombia-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Reading Comprehension
+**ICFES:** Part 6 - Reading Comprehension
 **Expected_Success:** 0.78
 **Contexto:** In Riohacha, students read: "The vallenato concert starts at 5 p.m. The cumbia show starts at 7 p.m. The fireworks close the night at 9 p.m."
 ### Enunciado
@@ -126,7 +126,7 @@ Los opuestos como loud y soft describen el volumen del sonido. También se asoci
 ## Question 6 [D7-D8]
 **ID:** CO-ING-5-2026-W38-music-dance-colombia-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**ICFES:** Part 6 - Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** In Ocaña, a program says: "Vallenato uses accordion and drums. Bambuco uses guitar and tiple. Both styles make people dance."
 ### Enunciado

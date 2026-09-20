@@ -86,7 +86,7 @@ El verbo has describe características con he, she e it en presente. También se
 ## Question 4 [D5-D6]
 **ID:** CO-ING-5-2026-W40-describing-people-friends-family-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Reading Comprehension
+**ICFES:** Part 6 - Reading Comprehension
 **Expected_Success:** 0.78
 **Contexto:** In Mocoa, students read: "My friend Ana is ten years old. She has long hair. She likes to sing vallenato. She is very happy."
 ### Enunciado
@@ -126,7 +126,7 @@ Los opuestos como happy y sad describen sentimientos de los niños. También se 
 ## Question 6 [D7-D8]
 **ID:** CO-ING-5-2026-W40-describing-people-friends-family-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**ICFES:** Part 6 - Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** In Leticia, two notes appear: "Pedro is tall, quiet and likes to read" and "Lucía is short, talkative and likes to dance."
 ### Enunciado

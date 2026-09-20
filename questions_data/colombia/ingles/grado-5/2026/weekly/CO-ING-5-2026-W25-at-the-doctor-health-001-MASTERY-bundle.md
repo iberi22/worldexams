@@ -45,7 +45,7 @@ La palabra headache combina head y ache, que significa dolor. También es útil 
 ## Question 2 [D3-D4]
 **ID:** CO-ING-5-2026-W25-at-the-doctor-health-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Reading Comprehension
+**ICFES:** Part 6 - Reading Comprehension
 **Expected_Success:** 0.88
 **Contexto:** At a school in Cali, the nurse checks a boy with a thermometer in the morning.
 ### Enunciado
@@ -125,7 +125,7 @@ La forma should not más verbo expresa una recomendación negativa. También es 
 ## Question 6 [D7-D8]
 **ID:** CO-ING-5-2026-W25-at-the-doctor-health-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**ICFES:** Part 6 - Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** In a clinic in Cartagena, Sara reads a poster about healthy habits near the pharmacy.
 ### Enunciado

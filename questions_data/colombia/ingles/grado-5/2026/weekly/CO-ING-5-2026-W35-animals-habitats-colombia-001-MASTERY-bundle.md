@@ -86,7 +86,7 @@ El presente simple usa -s con he, she e it en afirmativo. También se practica c
 ## Question 4 [D5-D6]
 **ID:** CO-ING-5-2026-W35-animals-habitats-colombia-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Reading Comprehension
+**ICFES:** Part 6 - Reading Comprehension
 **Expected_Success:** 0.78
 **Contexto:** In Armenia, students read: "The condor is a very big bird. It flies high in the Andes mountains. It eats meat."
 ### Enunciado
@@ -126,7 +126,7 @@ Los opuestos como fast y slowly amplían el vocabulario descriptivo. También se
 ## Question 6 [D7-D8]
 **ID:** CO-ING-5-2026-W35-animals-habitats-colombia-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**ICFES:** Part 6 - Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** In Quibdó, a text says: "The jaguar is strong and hunts at night. The toucan is small, colorful and eats fruits during the day."
 ### Enunciado

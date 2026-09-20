@@ -86,7 +86,7 @@ La preposición between ubica algo en medio de dos objetos. También se practica
 ## Question 4 [D5-D6]
 **ID:** CO-ING-5-2026-W39-houses-rooms-furniture-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Reading Comprehension
+**ICFES:** Part 6 - Reading Comprehension
 **Expected_Success:** 0.78
 **Contexto:** In Chía, students read: "My house has three bedrooms. The kitchen is next to the living room. The garden is behind the house."
 ### Enunciado
@@ -126,7 +126,7 @@ Los opuestos como wet y dry describen estados de los objetos del hogar. También
 ## Question 6 [D7-D8]
 **ID:** CO-ING-5-2026-W39-houses-rooms-furniture-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**ICFES:** Part 6 - Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** In Sogamoso, two ads appear: "Small apartment: one bedroom, no garden, near the school" and "Big farm: four bedrooms, garden with fruits, far from the school."
 ### Enunciado

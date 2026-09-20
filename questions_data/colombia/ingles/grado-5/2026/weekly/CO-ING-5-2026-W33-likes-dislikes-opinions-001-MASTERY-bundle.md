@@ -86,7 +86,7 @@ Los verbos like, love y hate se combinan con la forma -ing del verbo. También s
 ## Question 4 [D5-D6]
 **ID:** CO-ING-5-2026-W33-likes-dislikes-opinions-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Reading Comprehension
+**ICFES:** Part 6 - Reading Comprehension
 **Expected_Success:** 0.78
 **Contexto:** In Cartagena, students read: "Luisa loves reading comics. She hates running in the morning."
 ### Enunciado
@@ -146,7 +146,7 @@ El análisis confirma que like y hate piden verbo con ing. También se observan 
 ## Question 7 [D7-D8]
 **ID:** CO-ING-5-2026-W33-likes-dislikes-opinions-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**ICFES:** Part 6 - Reading Comprehension
 **Expected_Success:** 0.68
 **Contexto:** In Santa Marta, three friends talk: "I love surfing. I like playing guitar. I hate eating spicy ají."
 ### Enunciado

@@ -45,7 +45,7 @@ La expresión o clock se usa para horas exactas. También es fundamental practic
 ## Question 2 [D3-D4]
 **ID:** CO-ING-5-2026-W28-telling-time-daily-schedule-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Reading Comprehension
+**ICFES:** Part 6 - Reading Comprehension
 **Expected_Success:** 0.88
 **Contexto:** In a house in Medellín, a boy eats breakfast at 7:30 before school.
 ### Enunciado
@@ -125,7 +125,7 @@ La preposición on acompaña días de la semana. Además, at se reserva para hor
 ## Question 6 [D7-D8]
 **ID:** CO-ING-5-2026-W28-telling-time-daily-schedule-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**ICFES:** Part 6 - Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** In a house in Cartagena, Maria writes her daily schedule in her notebook.
 ### Enunciado

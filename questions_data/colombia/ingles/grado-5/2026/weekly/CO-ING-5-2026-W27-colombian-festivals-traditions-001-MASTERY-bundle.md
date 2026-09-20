@@ -45,7 +45,7 @@ La palabra Carnival nombra una fiesta popular con desfiles. También es útil as
 ## Question 2 [D3-D4]
 **ID:** CO-ING-5-2026-W27-colombian-festivals-traditions-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Reading Comprehension
+**ICFES:** Part 6 - Reading Comprehension
 **Expected_Success:** 0.88
 **Contexto:** In a school in Medellín, a teacher shows photos of the Feria de las Flores in August.
 ### Enunciado
@@ -125,7 +125,7 @@ La palabra celebration abarca festival, party y holiday. También ayuda a descri
 ## Question 6 [D7-D8]
 **ID:** CO-ING-5-2026-W27-colombian-festivals-traditions-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**ICFES:** Part 6 - Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** In a school in Manizales, Pedro reads a short text about two Colombian festivals.
 ### Enunciado

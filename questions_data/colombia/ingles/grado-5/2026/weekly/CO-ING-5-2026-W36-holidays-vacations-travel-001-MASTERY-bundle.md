@@ -86,7 +86,7 @@ El pasado de go es went y se usa con marcadores como yesterday. También se prac
 ## Question 4 [D5-D6]
 **ID:** CO-ING-5-2026-W36-holidays-vacations-travel-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Reading Comprehension
+**ICFES:** Part 6 - Reading Comprehension
 **Expected_Success:** 0.78
 **Contexto:** In Bogotá, students read: "On Monday we pack the suitcases. On Tuesday we travel by bus to Santa Marta. On Wednesday we swim in the sea."
 ### Enunciado
@@ -126,7 +126,7 @@ El vocabulario del aeropuerto incluye gate como puerta de embarque. También se 
 ## Question 6 [D7-D8]
 **ID:** CO-ING-5-2026-W36-holidays-vacations-travel-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**ICFES:** Part 6 - Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** In Bucaramanga, a diary says: "It rained every day in Bogotá, so we stayed in the hotel. In San Andrés the sun shone and we swam daily."
 ### Enunciado
