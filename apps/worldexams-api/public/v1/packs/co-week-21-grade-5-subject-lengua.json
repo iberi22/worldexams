@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-21-grade-5-subject-lengua",
+    "generated_at": "2026-09-20T23:46:03.639Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-5-2026-W21-gentilicios-colombia-regiones-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es un gentilicio?",
+      "context": "En Bogotá, la profesora explica que cada lugar tiene una palabra especial para nombrar a sus habitantes.\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La palabra que indica el lugar de origen o nacimiento de una persona.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el gentilicio señala de dónde es alguien, como bogotano o caleño."
+        },
+        {
+          "letter": "B",
+          "text": "El nombre propio que los papás eligen para su hijo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el nombre propio identifica a la persona, no su lugar de origen."
+        },
+        {
+          "letter": "C",
+          "text": "El plato típico que se come en una fiesta del pueblo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el plato típico es comida y no nombra a los habitantes."
+        },
+        {
+          "letter": "D",
+          "text": "El precio de un pasaje de bus entre dos ciudades.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el precio es dinero y no indica el origen de nadie."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El gentilicio es la palabra que dice de dónde es una persona: bogotano de Bogotá, paisa de Antioquia, costeño de la costa Caribe. Recordar esta definición permite reconocer gentilicios en cualquier lectura sobre Colombia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-5-2026-W21-gentilicios-colombia-regiones-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W21-gentilicios-colombia-regiones-001-MASTERY-bundle-v2",
+      "statement": "Según el texto, ¿cuál es el gentilicio de Camila?",
+      "context": "En Cali, Camila cuenta: \"Nací en Cali, estudio en Cali y juego en el parque de mi barrio caleño\".\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Paisa, porque le gusta tomar café con su familia.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque paisa es de Antioquia y Camila nació en Cali."
+        },
+        {
+          "letter": "B",
+          "text": "Caleña, porque nació y vive en la ciudad de Cali.",
+          "is_correct": true,
+          "feedback": "Es correcta porque quien nace en Cali se llama caleño o caleña."
+        },
+        {
+          "letter": "C",
+          "text": "Rola, porque viaja mucho en bus a otras ciudades.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque rola es de Bogotá y viajar no cambia el lugar de nacimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Costeña, porque le gusta la música del Caribe.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el gusto musical no define el gentilicio; nació en Cali."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El gentilicio se define por el lugar de nacimiento u origen, no por los gustos ni los viajes. Camila nació en Cali, por eso es caleña. Comprender esto evita confundir el origen con las preferencias personales.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-5-2026-W21-gentilicios-colombia-regiones-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W21-gentilicios-colombia-regiones-001-MASTERY-bundle-v3",
+      "statement": "¿De qué región de Colombia es don José?",
+      "context": "En Medellín, don José dice: \"Soy paisa de pura cepa: nací en un pueblo de Antioquia y trabajo el café de estas montañas\".\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De la costa Caribe, porque menciona las montañas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la costa Caribe es plana junto al mar y don José habla del café de montaña."
+        },
+        {
+          "letter": "B",
+          "text": "De los Llanos Orientales, porque trabaja en el campo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque trabajar en el campo no lo hace llanero; él mismo dice que es paisa."
+        },
+        {
+          "letter": "C",
+          "text": "De Antioquia, porque paisa es el gentilicio de esa región.",
+          "is_correct": true,
+          "feedback": "Es correcta porque paisa nombra a los nacidos en Antioquia y el café de montaña lo confirma."
+        },
+        {
+          "letter": "D",
+          "text": "De la Amazonía, porque Colombia tiene selva.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la selva amazónica no se relaciona con el gentilicio paisa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicar el gentilicio permite ubicar a una persona en el mapa: paisa señala Antioquia. Las pistas del texto, como el café de montaña, confirman la región. Esta estrategia une vocabulario y geografía para inferir el origen.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-5-2026-W21-gentilicios-colombia-regiones-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W21-gentilicios-colombia-regiones-001-MASTERY-bundle-v4",
+      "statement": "Si un niño dice \"soy llanero\", ¿dónde vive?",
+      "context": "En Villavicencio, el maestro cuenta: \"Los llaneros madrugan a cuidar el ganado en las sabanas del Meta y cantan joropo en las fiestas\".\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En un puerto junto al mar Caribe.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque junto al mar viven los costeños, no los llaneros."
+        },
+        {
+          "letter": "B",
+          "text": "En una isla del océano Pacífico.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto habla de sabanas y ganado, no de islas."
+        },
+        {
+          "letter": "C",
+          "text": "En un barrio frío de Bogotá.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque en Bogotá viven los bogotanos y hace frío, no hay sabanas ganaderas."
+        },
+        {
+          "letter": "D",
+          "text": "En las sabanas de los Llanos Orientales, como el Meta.",
+          "is_correct": true,
+          "feedback": "Es correcta porque llanero es quien habita las sabanas ganaderas de los Llanos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cada gentilicio se conecta con un paisaje y una forma de vida: el llanero con la sabana y el ganado. Aplicar esta conexión ayuda a ubicar regiones cuando un texto menciona oficios, fiestas o animales típicos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-5-2026-W21-gentilicios-colombia-regiones-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W21-gentilicios-colombia-regiones-001-MASTERY-bundle-v5",
+      "statement": "¿Qué se puede afirmar del equipo del periódico?",
+      "context": "En Bucaramanga, el periódico escolar anuncia: \"El equipo bumangués ganó el torneo y celebró con hormigas culonas en el parque\".\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es de Bucaramanga, porque bumangués es su gentilicio.",
+          "is_correct": true,
+          "feedback": "Es correcta porque bumangués nombra a los nacidos en Bucaramanga."
+        },
+        {
+          "letter": "B",
+          "text": "Es de Barranquilla, porque ganó un torneo importante.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ganar un torneo no define la ciudad; el gentilicio sí."
+        },
+        {
+          "letter": "C",
+          "text": "Es de Pasto, porque celebró comiendo algo típico.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las hormigas culonas son típicas de Santander, no de Pasto."
+        },
+        {
+          "letter": "D",
+          "text": "Es de Cartagena, porque el parque queda cerca del mar.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto no menciona el mar y bumangués señala Bucaramanga."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El gentilicio es la pista más directa del origen: bumangués siempre remite a Bucaramanga. Aplicar esta regla permite leer noticias y saber de qué ciudad habla el texto sin que la nombre directamente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-5-2026-W21-gentilicios-colombia-regiones-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W21-gentilicios-colombia-regiones-001-MASTERY-bundle-v6",
+      "statement": "Al analizar la frase de Lucía, ¿qué error contiene?",
+      "context": "En Pasto, Lucía escribe: \"Mi amiga es costeña porque nació en Pasto y le encanta el mar cuando viaja a Tumaco\".\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que nadie puede nacer en Pasto porque es muy frío.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque en Pasto nacen miles de niños aunque haga frío."
+        },
+        {
+          "letter": "B",
+          "text": "Que nacer en Pasto la hace pastusa, no costeña, pues Pasto queda en los Andes.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el gentilicio lo da el nacimiento: Pasto está en Nariño andino y su gentilicio es pastuso."
+        },
+        {
+          "letter": "C",
+          "text": "Que viajar a Tumaco está prohibido para los niños.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque viajar a Tumaco no está prohibido y no es el error de la frase."
+        },
+        {
+          "letter": "D",
+          "text": "Que la palabra costeña no existe en Colombia.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque costeña sí existe y nombra a los nacidos en la costa Caribe."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar el gentilicio exige separar el nacimiento de los gustos: viajar al mar no vuelve costeña a nadie. Quien nace en Pasto es pastuso porque esa ciudad está en la región andina. Esta distinción corrige el error de confundir visitas con origen.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-5-2026-W21-gentilicios-colombia-regiones-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W21-gentilicios-colombia-regiones-001-MASTERY-bundle-v7",
+      "statement": "Al comparar los carteles, ¿qué se concluye?",
+      "context": "En Armenia, dos carteles dicen: \"Orgullosamente cuyabros\" y \"Los quindianos cosechan el mejor café\". La maestra pregunta si hay contradicción.\n**Expected_Success:** 0.68",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se contradicen porque un pueblo solo tiene un gentilicio.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque un mismo lugar puede tener varios gentilicios aceptados."
+        },
+        {
+          "letter": "B",
+          "text": "El primero está mal porque cuyabro no es palabra colombiana.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque cuyabro sí es el gentilicio popular de Armenia."
+        },
+        {
+          "letter": "C",
+          "text": "No hay contradicción porque cuyabro y quindiano nombran a la gente de Armenia y el Quindío.",
+          "is_correct": true,
+          "feedback": "Es correcta porque distingue el gentilicio de la ciudad (cuyabro) del departamento (quindiano) y ambos conviven."
+        },
+        {
+          "letter": "D",
+          "text": "El segundo está mal porque el café solo se da en Antioquia.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el café se cultiva en varios departamentos, incluido el Quindío."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar gentilicios revela que ciudad y departamento pueden tener nombres distintos para su gente: cuyabro para Armenia y quindiano para el Quindío. Comparar los carteles muestra que no se contradicen, sino que se complementan según el territorio nombrado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-5-2026-W21-gentilicios-colombia-regiones-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W21-gentilicios-colombia-regiones-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál frase usa los gentilicios de forma correcta y valora la diversidad?",
+      "context": "En Santa Marta, el curso evalúa cuatro frases para el mural del colegio sobre la diversidad de Colombia.\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"El samario nada, el cachaco corre y el opita vuela sobre su ciudad\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque atribuye acciones imposibles y usa los gentilicios como chiste."
+        },
+        {
+          "letter": "B",
+          "text": "\"Solo los paisas trabajan y las demás regiones descansan todo el año\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ofende a las demás regiones y juzga sin fundamento."
+        },
+        {
+          "letter": "C",
+          "text": "\"Ser rolo es mejor que ser costeño porque Bogotá es la capital\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque compara con orgullo falso y desprecia a la gente del Caribe."
+        },
+        {
+          "letter": "D",
+          "text": "\"Samarios, paisas, llaneros y pastusos construimos juntos un solo país\".",
+          "is_correct": true,
+          "feedback": "Es correcta porque usa bien cada gentilicio y celebra que todas las regiones aportan a Colombia."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar el uso del gentilicio exige dos criterios: corrección (nombrar bien cada origen) y respeto (no burlarse ni creerse superior). La frase elegida cumple ambos y muestra que los gentilicios sirven para unir, no para dividir a los colombianos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-5-2026-W21-gentilicios-colombia-regiones-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}
