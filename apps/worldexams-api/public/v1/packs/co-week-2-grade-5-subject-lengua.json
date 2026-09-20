@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-2-grade-5-subject-lengua",
+    "generated_at": "2026-09-20T22:14:25.546Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-5-2026-W02-secuencia-narrativa-cuento-001-MASTERY-bundle-v1",
+      "statement": "Lee el inicio: \"Había una vez un niño llamado Santiago que vivía en una finca cerca de Manizales\". Según el inicio, ¿quién es el personaje y dónde vive?",
+      "context": "En un salón de Bogotá, Valentina lee en voz alta el inicio de un cuento sobre un niño campesino.\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Santiago, un niño que vive en una finca cerca de Manizales.",
+          "is_correct": true,
+          "feedback": "Es correcta porque repite el nombre y el lugar que dice el inicio."
+        },
+        {
+          "letter": "B",
+          "text": "Valentina, una niña que vive en Bogotá.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque Valentina es quien lee, no el personaje del cuento."
+        },
+        {
+          "letter": "C",
+          "text": "Un pescador que vive en Cartagena.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no se menciona pescador ni Cartagena."
+        },
+        {
+          "letter": "D",
+          "text": "Un tendero que vive en Pereira.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no aparece ningún tendero en el inicio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El inicio del cuento presenta a los personajes y el lugar. Recuperar esos datos explícitos es el primer paso para seguir la secuencia narrativa y disfrutar la comunicación de la historia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-5-2026-W02-secuencia-narrativa-cuento-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W02-secuencia-narrativa-cuento-001-MASTERY-bundle-v2",
+      "statement": "El profesor escribe: \"Inicio: se presentan los personajes. Nudo: aparece un problema. Desenlace: se resuelve el problema\". ¿Qué se entiende de esta explicación?",
+      "context": "En Medellín, el profesor explica las tres partes del cuento con un ejemplo en el tablero.\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que todo cuento tiene un orden: presentación, problema y solución.",
+          "is_correct": true,
+          "feedback": "Es correcta porque resume con claridad las tres partes en orden."
+        },
+        {
+          "letter": "B",
+          "text": "Que los cuentos no tienen orden ni final.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la explicación muestra un orden claro."
+        },
+        {
+          "letter": "C",
+          "text": "Que el nudo es el título del cuento.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el nudo es el problema, no el título."
+        },
+        {
+          "letter": "D",
+          "text": "Que el desenlace es el inicio de otro cuento.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el desenlace cierra el mismo cuento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender la estructura permite anticipar lo que sigue en la lectura. Inicio, nudo y desenlace forman la secuencia básica que también ayuda a contar anécdotas con orden y buena ortografía.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-5-2026-W02-secuencia-narrativa-cuento-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W02-secuencia-narrativa-cuento-001-MASTERY-bundle-v3",
+      "statement": "Lee estos hechos desordenados: 1. Juan recupera la cometa con ayuda de Mariana. 2. El viento se lleva la cometa a un árbol alto. 3. Juan y Mariana elevan la cometa en el parque. ¿Cuál es el orden correcto de la historia?",
+      "context": "En Cali, Juan escribe un cuento corto para la clase de lengua sobre una cometa perdida.\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 - 2 - 1: elevan la cometa, el viento se la lleva y luego la recuperan.",
+          "is_correct": true,
+          "feedback": "Es correcta porque sigue la lógica de inicio, problema y solución."
+        },
+        {
+          "letter": "B",
+          "text": "1 - 2 - 3: la recuperan, se la lleva el viento y luego la elevan.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no se puede recuperar algo antes de perderlo."
+        },
+        {
+          "letter": "C",
+          "text": "2 - 1 - 3: se la lleva el viento, la recuperan y luego la elevan por primera vez.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la primera elevada debe ir antes de la pérdida."
+        },
+        {
+          "letter": "D",
+          "text": "2 - 3 - 1: se la lleva el viento, la elevan y la recuperan.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque altera la causa y el efecto de los hechos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ordenar hechos exige aplicar la lógica de causa y efecto. Primero ocurre la acción inicial, después el problema y al final la solución. Este ejercicio también fortalece la descripción ordenada de sucesos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-5-2026-W02-secuencia-narrativa-cuento-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W02-secuencia-narrativa-cuento-001-MASTERY-bundle-v4",
+      "statement": "Lee el fragmento: \"Mariana buscó bajo los puestos de frutas y preguntó a los vendedores, con el corazón acelerado\". ¿A qué parte del cuento pertenece este fragmento?",
+      "context": "En Cartagena, Mariana lee un cuento donde una niña pierde su mochila en el mercado.\n**Expected_Success:** 0.83",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al nudo, porque muestra el problema y el esfuerzo por resolverlo.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la búsqueda angustiosa es el desarrollo del conflicto."
+        },
+        {
+          "letter": "B",
+          "text": "Al inicio, porque presenta a los personajes por primera vez.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque aquí ya existe un problema en marcha."
+        },
+        {
+          "letter": "C",
+          "text": "Al desenlace, porque ya se encontró la mochila.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque todavía la está buscando."
+        },
+        {
+          "letter": "D",
+          "text": "Al título, porque resume toda la historia.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque es una escena, no el título."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificar el nudo requiere reconocer las marcas del problema: la pérdida, la búsqueda y la emoción. Ubicar cada fragmento en su parte ayuda a seguir la secuencia completa del cuento.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LEN-5-2026-W02-secuencia-narrativa-cuento-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W02-secuencia-narrativa-cuento-001-MASTERY-bundle-v5",
+      "statement": "Lee el final: \"Santiago encontró sus colores bajo la cama, terminó el dibujo y se lo regaló a su mamá\". ¿Qué se deduce de este desenlace?",
+      "context": "En Pereira, Santiago compró colores por 4000 pesos para ilustrar su cuento y le quedaron 1000 pesos de un billete de 5000 pesos.\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el problema se resolvió y la historia termina con alegría.",
+          "is_correct": true,
+          "feedback": "Es correcta porque encontrar los colores permite terminar el dibujo y regalarlo."
+        },
+        {
+          "letter": "B",
+          "text": "Que Santiago perdió los colores para siempre.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto dice que los encontró."
+        },
+        {
+          "letter": "C",
+          "text": "Que Santiago no terminó el dibujo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto afirma que terminó el dibujo."
+        },
+        {
+          "letter": "D",
+          "text": "Que Santiago vendió el dibujo por 5000 pesos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque lo regaló a su mamá, no lo vendió."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El desenlace muestra la solución del conflicto y el cambio de ánimo. Deducir ese cierre permite comprobar si la secuencia quedó completa y también anima a escribir finales con buena comunicación de sentimientos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-5-2026-W02-secuencia-narrativa-cuento-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W02-secuencia-narrativa-cuento-001-MASTERY-bundle-v6",
+      "statement": "Cuento: \"Valentina cuidaba una planta de café que se estaba marchitando\". Final 1: \"Y de pronto apareció un mago que la arregló con magia\". Final 2: \"Valentina consultó al abuelo, cambió la planta de lugar y la regó cada mañana hasta que revivió\". ¿Qué diferencia hay entre los finales?",
+      "context": "En Manizales, dos finales compiten en el concurso de cuento del colegio.\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el final 2 resuelve el problema con acciones lógicas y el final 1 usa magia sin explicación.",
+          "is_correct": true,
+          "feedback": "Es correcta porque compara la solución realista con la solución mágica repentina."
+        },
+        {
+          "letter": "B",
+          "text": "Que los dos finales son idénticos y usan las mismas acciones.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque uno apela a la magia y el otro al cuidado diario."
+        },
+        {
+          "letter": "C",
+          "text": "Que el final 1 es más realista que el final 2.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la magia repentina es menos creíble que el cuidado explicado."
+        },
+        {
+          "letter": "D",
+          "text": "Que ninguno de los dos finales cierra la historia.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ambos proponen un cierre, aunque de distinta calidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar desenlaces permite valorar la coherencia: una buena solución se prepara con pistas y acciones del personaje. El final 2 muestra esfuerzo y aprendizaje, mientras el final 1 rompe la lógica con una salida fácil. Este análisis también mejora la escritura de cuentos propios.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-5-2026-W02-secuencia-narrativa-cuento-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W02-secuencia-narrativa-cuento-001-MASTERY-bundle-v7",
+      "statement": "Inicio 1: \"Había una vez un niño\". Inicio 2: \"En vacaciones, Santiago viajó con su familia de Bogotá a Cartagena y descubrió una playa llena de pelícanos\". ¿Cuál inicio funciona mejor y por qué?",
+      "context": "En Bogotá, el curso quinto compara dos inicios para el mismo cuento de un viaje a la playa.\n**Expected_Success:** 0.72",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El inicio 2, porque presenta personaje, lugar y una situación interesante.",
+          "is_correct": true,
+          "feedback": "Es correcta porque da información concreta que invita a seguir leyendo."
+        },
+        {
+          "letter": "B",
+          "text": "El inicio 1, porque es más largo y detallado.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque es más corto y no da ningún detalle."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos son iguales de efectivos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el segundo ofrece datos y el primero es muy vago."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno sirve como inicio de cuento.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el inicio 2 sí cumple la función de presentar la historia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un buen inicio ubica al lector con personajes y ambientes precisos. Analizar la diferencia enseña que los detalles concretos, como la ciudad y los pelícanos, despiertan curiosidad. Esta destreza también enriquece la descripción en textos propios.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-5-2026-W02-secuencia-narrativa-cuento-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W02-secuencia-narrativa-cuento-001-MASTERY-bundle-v8",
+      "statement": "Hechos: Santiago perdió el balón en el recreo, lo buscó con sus amigos y lo encontró detrás del arco. ¿Cuál versión cuenta mejor la anécdota?",
+      "context": "En Cali, Juan debe elegir el mejor orden para contar su anécdota en el periódico escolar.\n**Expected_Success:** 0.65",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el recreo perdimos el balón, lo buscamos con calma por toda la cancha y lo encontramos detrás del arco.",
+          "is_correct": true,
+          "feedback": "Es correcta porque mantiene inicio, nudo y desenlace en orden claro y completo."
+        },
+        {
+          "letter": "B",
+          "text": "Encontramos el balón y después lo perdimos en el recreo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque invierte el orden y confunde al lector."
+        },
+        {
+          "letter": "C",
+          "text": "El balón es redondo y nos gusta jugar con él.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque describe el objeto pero no cuenta lo que pasó."
+        },
+        {
+          "letter": "D",
+          "text": "Nunca jugamos ni perdimos nada en el recreo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque niega los hechos que se quieren contar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar una narración exige verificar el orden lógico y que no falte ninguna parte. La mejor versión conserva la secuencia completa y usa conectores claros. Contar bien una anécdota también es una forma de cuidar la comunicación oral y escrita.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-5-2026-W02-secuencia-narrativa-cuento-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

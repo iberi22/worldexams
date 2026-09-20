@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-5-grade-5-subject-lengua",
+    "generated_at": "2026-09-20T22:14:25.546Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-5-2026-W05-sinonimos-antonimos-001-MASTERY-bundle-v1",
+      "statement": "La palabra es \"contento\". ¿Cuál es un sinónimo de \"contento\"?",
+      "context": "En un colegio de Bogotá, la profesora pide buscar una palabra parecida a contento en el diccionario.\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alegre.",
+          "is_correct": true,
+          "feedback": "Es correcta porque alegre también expresa felicidad."
+        },
+        {
+          "letter": "B",
+          "text": "Triste.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque triste es lo contrario de contento."
+        },
+        {
+          "letter": "C",
+          "text": "Enojado.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque enojado expresa rabia, no alegría."
+        },
+        {
+          "letter": "D",
+          "text": "Enfermo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque enfermo habla de salud, no de ánimo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los sinónimos son palabras con significado parecido. Reconocer que contento y alegre se acercan ayuda a variar el vocabulario y a mejorar la comunicación escrita con buena ortografía.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-5-2026-W05-sinonimos-antonimos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W05-sinonimos-antonimos-001-MASTERY-bundle-v2",
+      "statement": "La palabra es \"grande\". ¿Cuál es un antónimo de \"grande\"?",
+      "context": "En Medellín, Santiago juega a decir lo contrario de las palabras que dice Mariana.\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pequeño.",
+          "is_correct": true,
+          "feedback": "Es correcta porque pequeño expresa lo contrario de grande."
+        },
+        {
+          "letter": "B",
+          "text": "Enorme.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque enorme es un sinónimo de grande."
+        },
+        {
+          "letter": "C",
+          "text": "Gigante.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque gigante también significa muy grande."
+        },
+        {
+          "letter": "D",
+          "text": "Amplio.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque amplio también indica tamaño grande."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los antónimos expresan significados contrarios. Comprender que grande y pequeño se oponen permite describir con precisión. Este contraste también enriquece la descripción de personajes y objetos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-5-2026-W05-sinonimos-antonimos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W05-sinonimos-antonimos-001-MASTERY-bundle-v3",
+      "statement": "Lee la frase: \"El parque es bonito y también es hermoso por sus flores\". ¿Qué palabra puede reemplazar a \"bonito\" sin cambiar el sentido?",
+      "context": "En Cali, Valentina escribe una carta y quiere evitar repetir la palabra \"bonito\".\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hermoso.",
+          "is_correct": true,
+          "feedback": "Es correcta porque hermoso mantiene la idea de belleza del parque."
+        },
+        {
+          "letter": "B",
+          "text": "Feo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque feo cambia el sentido a lo contrario."
+        },
+        {
+          "letter": "C",
+          "text": "Sucio.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque sucio habla de aseo, no de belleza."
+        },
+        {
+          "letter": "D",
+          "text": "Oscuro.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque oscuro habla de luz, no de belleza."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar sinónimos permite evitar repeticiones sin perder el sentido. Aquí hermoso conserva la valoración positiva del parque. Este recurso también mejora la redacción y la comunicación de ideas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-5-2026-W05-sinonimos-antonimos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W05-sinonimos-antonimos-001-MASTERY-bundle-v4",
+      "statement": "Lee la frase: \"El mar estaba tranquilo, sin olas fuertes\". ¿Cuál es un antónimo adecuado para \"tranquilo\" en este contexto?",
+      "context": "En Cartagena, Juan describe el mar en su cuaderno de viaje.\n**Expected_Success:** 0.83",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Agitado.",
+          "is_correct": true,
+          "feedback": "Es correcta porque agitado describe un mar con olas fuertes."
+        },
+        {
+          "letter": "B",
+          "text": "Calmado.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque calmado es sinónimo de tranquilo."
+        },
+        {
+          "letter": "C",
+          "text": "Sereno.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque sereno también indica calma."
+        },
+        {
+          "letter": "D",
+          "text": "Manso.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque manso también expresa suavidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Elegir el antónimo exige mirar el contexto: en el mar, lo contrario de tranquilo es agitado. Esta precisión también ayuda a describir ambientes con matices claros.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LEN-5-2026-W05-sinonimos-antonimos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W05-sinonimos-antonimos-001-MASTERY-bundle-v5",
+      "statement": "Lee la frase: \"Mariana compró dos lápices baratos y recibió 1000 pesos de devuelta\". ¿Qué palabra es sinónima de \"baratos\" en la frase?",
+      "context": "En una tienda de Manizales, Mariana compra lápices por 2000 pesos cada uno y lleva dos con un billete de 5000 pesos.\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Económicos.",
+          "is_correct": true,
+          "feedback": "Es correcta porque económicos también indica precio bajo, como muestran los 2000 pesos."
+        },
+        {
+          "letter": "B",
+          "text": "Costosos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque costosos indica precio alto."
+        },
+        {
+          "letter": "C",
+          "text": "Caros.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque caros es lo contrario de baratos."
+        },
+        {
+          "letter": "D",
+          "text": "Dañados.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque dañados habla de estado, no de precio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El contexto de precios confirma el significado: dos lápices de 2000 suman 4000 y dejan 1000 de devuelta de 5000, por eso son baratos o económicos. Usar sinónimos precisos también facilita la comunicación en compras diarias.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-5-2026-W05-sinonimos-antonimos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W05-sinonimos-antonimos-001-MASTERY-bundle-v6",
+      "statement": "Frase 1: \"El niño es delgado\". Frase 2: \"El niño es flaco y se ve enfermo\". ¿Qué diferencia hay entre \"delgado\" y \"flaco\" aquí?",
+      "context": "En Pereira, el curso analiza dos frases que parecen iguales pero no lo son.\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que delgado es neutral y flaco aquí tiene un matiz negativo de enfermedad.",
+          "is_correct": true,
+          "feedback": "Es correcta porque distingue el tono de cada palabra en contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Que las dos palabras significan exactamente lo mismo siempre.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el contexto le da a flaco un tono negativo."
+        },
+        {
+          "letter": "C",
+          "text": "Que flaco es lo contrario de delgado.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ambas hablan de poco peso, cambia el matiz, no el sentido base."
+        },
+        {
+          "letter": "D",
+          "text": "Que ninguna de las dos describe al niño.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ambas describen su cuerpo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los sinónimos no siempre son idénticos: cambian según el tono y la situación. Analizar el matiz enseña a elegir la palabra justa. Esta sensibilidad también mejora la descripción respetuosa de las personas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-5-2026-W05-sinonimos-antonimos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W05-sinonimos-antonimos-001-MASTERY-bundle-v7",
+      "statement": "Lee el texto: \"La profesora nos ___ que también debemos cuidar la ortografía\". ¿Qué sinónimo completa mejor la frase?",
+      "context": "En Bogotá, Santiago debe completar un texto sin repetir la palabra \"decir\".\n**Expected_Success:** 0.72",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Explicó.",
+          "is_correct": true,
+          "feedback": "Es correcta porque explicó mantiene la idea de comunicar una enseñanza."
+        },
+        {
+          "letter": "B",
+          "text": "Calló.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque callar es lo contrario de decir."
+        },
+        {
+          "letter": "C",
+          "text": "Ocultó.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ocultar es esconder, no comunicar."
+        },
+        {
+          "letter": "D",
+          "text": "Negó.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque negar contradice la enseñanza dada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar el contexto permite elegir el sinónimo preciso: la profesora comunica una norma, por eso explicó funciona mejor. Este cuidado con las palabras también fortalece la escritura y la comunicación en clase.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-5-2026-W05-sinonimos-antonimos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W05-sinonimos-antonimos-001-MASTERY-bundle-v8",
+      "statement": "El cartel dice: \"Cuida el agua hoy para tener un mañana mejor\". ¿Qué par de antónimos resume mejor el mensaje del cartel?",
+      "context": "En Cali, Mariana debe elegir el mejor par de antónimos para un cartel sobre el cuidado del agua.\n**Expected_Success:** 0.65",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desperdiciar - ahorrar.",
+          "is_correct": true,
+          "feedback": "Es correcta porque resume la oposición entre malgastar y cuidar el agua."
+        },
+        {
+          "letter": "B",
+          "text": "Agua - agua.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque repite la misma palabra, no hay oposición."
+        },
+        {
+          "letter": "C",
+          "text": "Hoy - hoy.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no presenta ningún contraste."
+        },
+        {
+          "letter": "D",
+          "text": "Grande - enorme.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque son sinónimos, no antónimos, y no hablan del agua."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar el mejor par exige comprobar que exprese la oposición central del mensaje. Desperdiciar y ahorrar resumen la decisión entre dañar o cuidar. Elegir bien las palabras también demuestra dominio del vocabulario y de la comunicación persuasiva.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-5-2026-W05-sinonimos-antonimos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}
