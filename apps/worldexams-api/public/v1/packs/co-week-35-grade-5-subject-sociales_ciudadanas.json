@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-35-grade-5-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-20T19:50:00.260Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-5-2026-W35-dialogo-resolucion-conflictos-escuela-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es un conflicto en la convivencia escolar?",
+      "context": "En el descanso de una escuela de Ibagué, dos niños discuten porque ambos quieren usar el mismo balón, y la profesora les pide que conversen para ponerse de acuerdo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un juego de equipo donde todos ganan siempre.",
+          "is_correct": false,
+          "feedback": "En el juego se coopera por diversión; el conflicto es un desacuerdo que necesita solución."
+        },
+        {
+          "letter": "B",
+          "text": "Un desacuerdo entre personas que necesita resolverse de forma pacífica.",
+          "is_correct": true,
+          "feedback": "El conflicto es un choque de intereses u opiniones que se supera con diálogo y acuerdos."
+        },
+        {
+          "letter": "C",
+          "text": "Una materia nueva que se estudia en el tablero.",
+          "is_correct": false,
+          "feedback": "Las materias son contenidos de clase; el conflicto es una situación de la convivencia."
+        },
+        {
+          "letter": "D",
+          "text": "Una enfermedad que se cura con medicamentos.",
+          "is_correct": false,
+          "feedback": "Las enfermedades afectan la salud del cuerpo; el conflicto afecta las relaciones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación del conflicto como desacuerdo normal de la convivencia que puede resolverse sin violencia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-5-2026-W35-dialogo-resolucion-conflictos-escuela-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W35-dialogo-resolucion-conflictos-escuela-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué el diálogo sirvió para resolver el conflicto entre Camila y Santiago?",
+      "context": "Camila y Santiago, estudiantes de quinto en Villavicencio, pelearon por un puesto en la fila, pero luego se sentaron a escucharse, cada uno contó su versión y acordaron turnarse cada día.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el que gritó más fuerte ganó la discusión.",
+          "is_correct": false,
+          "feedback": "Gritar impone miedo pero no resuelve; ellos se escucharon con calma."
+        },
+        {
+          "letter": "B",
+          "text": "Porque escucharse y turnarse permitió un acuerdo justo para los dos.",
+          "is_correct": true,
+          "feedback": "Escuchar al otro y buscar un acuerdo equitativo es la base de la solución dialogada."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la profesora castigó a los dos sin escucharlos.",
+          "is_correct": false,
+          "feedback": "El castigo sin escucha no enseña; aquí el acuerdo nació de conversar."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los demás niños se burlaron de ellos hasta que lloraron.",
+          "is_correct": false,
+          "feedback": "La burla lastima y agranda el conflicto en lugar de resolverlo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprensión del diálogo como escucha mutua y búsqueda de acuerdos justos para resolver conflictos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-5-2026-W35-dialogo-resolucion-conflictos-escuela-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W35-dialogo-resolucion-conflictos-escuela-001-MASTERY-bundle-v3",
+      "statement": "Si las niñas quieren resolver el problema sin pelear, ¿qué deben hacer?",
+      "context": "En un salón de Neiva, dos niñas quieren el mismo libro de la biblioteca del aula para la hora de lectura y empiezan a halarlo cada una por su lado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Romper el libro para que ninguna lo pueda usar.",
+          "is_correct": false,
+          "feedback": "Romper el libro daña un bien común y deja a las dos sin lectura."
+        },
+        {
+          "letter": "B",
+          "text": "Esconder el libro donde nadie lo encuentre jamás.",
+          "is_correct": false,
+          "feedback": "Esconder el libro perjudica a todo el salón y no resuelve el turno."
+        },
+        {
+          "letter": "C",
+          "text": "Acordar turnos de lectura y mientras tanto compartir otro libro.",
+          "is_correct": true,
+          "feedback": "Turnarse y compartir permite que ambas lean y cuiden el bien común."
+        },
+        {
+          "letter": "D",
+          "text": "Insultarse hasta que una de las dos se rinda y llore.",
+          "is_correct": false,
+          "feedback": "Insultar hiere y rompe la convivencia en lugar de lograr un acuerdo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicación de la negociación de turnos y el uso compartido como solución pacífica de un conflicto cotidiano.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-5-2026-W35-dialogo-resolucion-conflictos-escuela-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W35-dialogo-resolucion-conflictos-escuela-001-MASTERY-bundle-v4",
+      "statement": "Si un estudiante presencia una pelea en el patio, ¿qué debe hacer según el manual?",
+      "context": "En el manual de convivencia de un colegio de Tunja se establece que, ante una pelea, los estudiantes primero deben dialogar, luego pedir ayuda al mediador del curso y solo al final acudir a la coordinación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Invitar a los compañeros a dialogar y, si no funciona, llamar al mediador del curso.",
+          "is_correct": true,
+          "feedback": "Seguir la ruta del manual garantiza una solución pacífica y con apoyo adecuado."
+        },
+        {
+          "letter": "B",
+          "text": "Grabar la pelea con el celular y compartir el video para burlarse.",
+          "is_correct": false,
+          "feedback": "Grabar y burlarse vulnera la dignidad y agranda el daño del conflicto."
+        },
+        {
+          "letter": "C",
+          "text": "Unirse a la pelea apoyando a su mejor amigo con golpes.",
+          "is_correct": false,
+          "feedback": "Unirse a la violencia aumenta el daño y viola el manual de convivencia."
+        },
+        {
+          "letter": "D",
+          "text": "Ignorar lo que pasa e irse a jugar como si nada ocurriera.",
+          "is_correct": false,
+          "feedback": "Ignorar el conflicto deja que la violencia crezca sin buscar ayuda."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicación de la ruta de atención del manual de convivencia para resolver conflictos paso a paso.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-5-2026-W35-dialogo-resolucion-conflictos-escuela-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W35-dialogo-resolucion-conflictos-escuela-001-MASTERY-bundle-v5",
+      "statement": "¿Qué cualidad hace de Valeria una buena mediadora de conflictos?",
+      "context": "El curso quinto de una escuela de Sincelejo eligió a Valeria como mediadora porque sus compañeros dicen que ella escucha sin tomar partido y propone soluciones donde todos ganan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que siempre les da la razón a sus amigas sin escuchar a los demás.",
+          "is_correct": false,
+          "feedback": "Favorecer a las amigas es injusto y rompe la confianza en la mediación."
+        },
+        {
+          "letter": "B",
+          "text": "Que escucha a ambas partes con imparcialidad y busca acuerdos justos.",
+          "is_correct": true,
+          "feedback": "La escucha imparcial y los acuerdos justos son las cualidades centrales de quien media."
+        },
+        {
+          "letter": "C",
+          "text": "Que amenaza con acusar a quien no le obedezca.",
+          "is_correct": false,
+          "feedback": "Amenazar genera miedo, no acuerdos, y contradice la mediación pacífica."
+        },
+        {
+          "letter": "D",
+          "text": "Que decide todo sola sin preguntar la opinión de nadie.",
+          "is_correct": false,
+          "feedback": "Decidir sola impone una solución; mediar es construir el acuerdo entre las partes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocimiento de la imparcialidad y la escucha como cualidades de la mediación escolar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-5-2026-W35-dialogo-resolucion-conflictos-escuela-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W35-dialogo-resolucion-conflictos-escuela-001-MASTERY-bundle-v6",
+      "statement": "¿Qué explica la diferencia en la convivencia de los dos cursos?",
+      "context": "En un colegio de Armenia hay dos cursos: en quinto A los conflictos se resuelven con gritos e insultos y cada semana hay más peleas, mientras en quinto B usan el círculo de la palabra para dialogar y las peleas disminuyeron.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que en quinto A los niños son malos por naturaleza y no pueden cambiar.",
+          "is_correct": false,
+          "feedback": "Ningún niño es malo por naturaleza; la diferencia está en cómo resuelven sus desacuerdos."
+        },
+        {
+          "letter": "B",
+          "text": "Que la violencia genera más violencia, mientras el diálogo reduce los conflictos.",
+          "is_correct": true,
+          "feedback": "Los gritos escalan las peleas y el círculo de la palabra enseña a resolver sin agredir."
+        },
+        {
+          "letter": "C",
+          "text": "Que en quinto B los niños nunca tienen desacuerdos entre ellos.",
+          "is_correct": false,
+          "feedback": "Los desacuerdos son normales en todos los cursos; la clave es cómo se manejan."
+        },
+        {
+          "letter": "D",
+          "text": "Que los profesores de quinto A son mejores porque dejan pelear libremente.",
+          "is_correct": false,
+          "feedback": "Dejar pelear sin intervenir abandona la convivencia y permite que crezca la violencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Análisis del efecto comparado de la violencia y el diálogo en la escalada o solución de los conflictos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-5-2026-W35-dialogo-resolucion-conflictos-escuela-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W35-dialogo-resolucion-conflictos-escuela-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál de las tres reacciones maneja mejor el enojo y por qué?",
+      "context": "Tres estudiantes de Popayán reaccionan distinto cuando pierden un partido: uno insulta al árbitro, otro respira profundo y felicita al equipo ganador, y el tercero rompe una silla del salón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Insultar al árbitro, porque así se desahoga y no guarda rencor.",
+          "is_correct": false,
+          "feedback": "Insultar descarga en el momento pero hiere al otro y genera nuevos conflictos."
+        },
+        {
+          "letter": "B",
+          "text": "Romper la silla, porque los objetos no sienten y se pueden reponer con 60000 COP.",
+          "is_correct": false,
+          "feedback": "Romper bienes comunes daña a la comunidad y no enseña a controlar el enojo."
+        },
+        {
+          "letter": "C",
+          "text": "Respirar profundo y felicitar al ganador, porque controla la emoción y respeta al otro.",
+          "is_correct": true,
+          "feedback": "Calmarse y reconocer al otro transforma la derrota en aprendizaje y cuida la convivencia."
+        },
+        {
+          "letter": "D",
+          "text": "Las tres reacciones son iguales porque todas expresan lo que se siente.",
+          "is_correct": false,
+          "feedback": "Expresar el enojo con daño no equivale a expresarlo con respeto y autocontrol."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Análisis del manejo de las emociones como parte de la resolución pacífica de los conflictos escolares.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-5-2026-W35-dialogo-resolucion-conflictos-escuela-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W35-dialogo-resolucion-conflictos-escuela-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál medida construye mejor una cultura de paz duradera en la escuela?",
+      "context": "El comité de convivencia de una escuela de Valledupar debe elegir entre dos medidas frente al aumento de peleas: sancionar con suspensión automática a quien pelee, o crear un programa de mediadores estudiantiles con formación en diálogo y reparación del daño.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El programa de mediadores, porque enseña a resolver conflictos y a reparar las relaciones.",
+          "is_correct": true,
+          "feedback": "Formar mediadores crea capacidades permanentes de diálogo y reconciliación en la comunidad escolar."
+        },
+        {
+          "letter": "B",
+          "text": "La suspensión automática, porque sacar a los que pelean elimina el problema para siempre.",
+          "is_correct": false,
+          "feedback": "Suspender aparta al estudiante pero no le enseña a manejar sus conflictos cuando regrese."
+        },
+        {
+          "letter": "C",
+          "text": "Prohibir el descanso para que los niños no se encuentren ni peleen.",
+          "is_correct": false,
+          "feedback": "Eliminar el encuentro evita el síntoma pero destruye la convivencia y el juego."
+        },
+        {
+          "letter": "D",
+          "text": "Dejar que los niños resuelvan todo a golpes para que aprendan a defenderse.",
+          "is_correct": false,
+          "feedback": "Normalizar los golpes instala la violencia como norma y destruye la cultura de paz."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Valoración de la mediación y la reparación frente al castigo exclusivo como caminos para una paz escolar duradera.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-5-2026-W35-dialogo-resolucion-conflictos-escuela-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

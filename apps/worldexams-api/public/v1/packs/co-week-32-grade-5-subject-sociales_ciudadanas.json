@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-32-grade-5-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-20T19:50:00.260Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-5-2026-W32-voto-participacion-ciudadana-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es el voto en la democracia colombiana?",
+      "context": "En Colombia, la Constitución de 1991 reconoce el voto como un derecho y un deber de todos los ciudadanos mayores de 18 años para elegir a sus gobernantes y representantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un impuesto que pagan los ciudadanos al gobierno cada año.",
+          "is_correct": false,
+          "feedback": "El voto no es un impuesto; los impuestos son pagos en dinero y el voto es una decisión electoral."
+        },
+        {
+          "letter": "B",
+          "text": "El mecanismo con el que los ciudadanos eligen a sus gobernantes y representantes.",
+          "is_correct": true,
+          "feedback": "El voto es el mecanismo principal de participación para elegir autoridades como alcaldes, gobernadores y presidente."
+        },
+        {
+          "letter": "C",
+          "text": "Una fiesta tradicional que se celebra en los municipios.",
+          "is_correct": false,
+          "feedback": "Las fiestas tradicionales son culturales; el voto es un acto político y democrático."
+        },
+        {
+          "letter": "D",
+          "text": "Un documento de identidad que se entrega a los mayores de edad.",
+          "is_correct": false,
+          "feedback": "El documento de identidad es la cédula de ciudadanía; el voto es el acto de elegir."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación del voto como mecanismo básico de la democracia para elegir gobernantes y representantes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-5-2026-W32-voto-participacion-ciudadana-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W32-voto-participacion-ciudadana-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué la elección del personero estudiantil es un ejercicio de participación democrática?",
+      "context": "En el colegio de Lucía, en Medellín, los estudiantes de todos los grados van a elegir al personero estudiantil mediante votación secreta en las urnas instaladas en el patio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque obliga a todos los estudiantes a obedecer sin opinar.",
+          "is_correct": false,
+          "feedback": "La democracia promueve la opinión y la decisión libre, no la obediencia sin voz."
+        },
+        {
+          "letter": "B",
+          "text": "Porque solo participan los profesores y el rector del colegio.",
+          "is_correct": false,
+          "feedback": "En la elección del personero participan los estudiantes; excluirlos no es democrático."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los estudiantes expresan libremente su voluntad y eligen a su representante.",
+          "is_correct": true,
+          "feedback": "Votar libremente y elegir representantes es la esencia de la participación democrática."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el ganador recibe un premio en dinero de 500000 COP.",
+          "is_correct": false,
+          "feedback": "El premio no define la democracia; lo importante es la elección libre del representante."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprensión del gobierno escolar como primera experiencia de participación democrática de los niños y jóvenes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-5-2026-W32-voto-participacion-ciudadana-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W32-voto-participacion-ciudadana-001-MASTERY-bundle-v3",
+      "statement": "Si un vecino quiere participar en la decisión sobre el presupuesto del barrio, ¿qué debe hacer?",
+      "context": "La junta de acción comunal del barrio El Progreso, en Cali, quiere decidir si el presupuesto de 2000000 COP se usa en arreglar el parque o en reparar la sede comunal, y convoca a los vecinos a votar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Asistir a la asamblea comunal y votar por una de las opciones propuestas.",
+          "is_correct": true,
+          "feedback": "La asamblea y el voto comunal son el camino correcto para decidir sobre los recursos del barrio."
+        },
+        {
+          "letter": "B",
+          "text": "Esperar en casa a que otros decidan sin dar su opinión.",
+          "is_correct": false,
+          "feedback": "Quedarse en casa sin participar deja la decisión en manos de otros y no ejerce la ciudadanía."
+        },
+        {
+          "letter": "C",
+          "text": "Pintar el parque por su cuenta sin consultar a nadie.",
+          "is_correct": false,
+          "feedback": "Actuar sin consultar desconoce la decisión colectiva que debe tomar la comunidad."
+        },
+        {
+          "letter": "D",
+          "text": "Pedirle al alcalde que decida sin escuchar a los vecinos.",
+          "is_correct": false,
+          "feedback": "Pedir que otro decida solo renuncia a la participación que la comunidad ya organizó."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicación de la participación comunitaria a una decisión real sobre recursos del barrio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-5-2026-W32-voto-participacion-ciudadana-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W32-voto-participacion-ciudadana-001-MASTERY-bundle-v4",
+      "statement": "¿Qué requisito cumple don Ernesto para poder votar?",
+      "context": "Don Ernesto, un campesino de Boyacá de 60 años, tiene su cédula de ciudadanía vigente y quiere votar en las próximas elecciones de alcalde de su municipio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ser menor de edad y vivir con sus padres.",
+          "is_correct": false,
+          "feedback": "Los menores de edad no votan; don Ernesto tiene 60 años y es ciudadano."
+        },
+        {
+          "letter": "B",
+          "text": "Pagar una suma de 100000 COP en el puesto de votación.",
+          "is_correct": false,
+          "feedback": "Votar en Colombia es gratuito; ningún pago es requisito para ejercer el voto."
+        },
+        {
+          "letter": "C",
+          "text": "Presentar el carné del colegio donde estudió de niño.",
+          "is_correct": false,
+          "feedback": "El carné escolar no habilita para votar; se necesita la cédula de ciudadanía."
+        },
+        {
+          "letter": "D",
+          "text": "Ser ciudadano colombiano mayor de edad con cédula vigente.",
+          "is_correct": true,
+          "feedback": "La ciudadanía, la mayoría de edad y la cédula son los requisitos para votar en Colombia."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aplicación de los requisitos legales del voto al caso de un ciudadano que desea participar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-5-2026-W32-voto-participacion-ciudadana-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W32-voto-participacion-ciudadana-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál de los siguientes es un mecanismo de participación ciudadana diferente del voto para elegir gobernantes?",
+      "context": "En un municipio de Nariño, los ciudadanos quieren proponer que se construya un acueducto nuevo y deciden usar uno de los mecanismos de participación consagrados en la Constitución.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El desfile del carnaval municipal de cada año.",
+          "is_correct": false,
+          "feedback": "El carnaval es una celebración cultural, no un mecanismo legal de participación."
+        },
+        {
+          "letter": "B",
+          "text": "La consulta popular para decidir sobre un asunto de interés público.",
+          "is_correct": true,
+          "feedback": "La consulta popular permite que los ciudadanos decidan directamente sobre temas de interés general."
+        },
+        {
+          "letter": "C",
+          "text": "La fila para reclamar el mercado en la tienda.",
+          "is_correct": false,
+          "feedback": "Hacer fila en la tienda es un acto cotidiano, no un mecanismo de decisión ciudadana."
+        },
+        {
+          "letter": "D",
+          "text": "El campeonato de fútbol entre los barrios.",
+          "is_correct": false,
+          "feedback": "El campeonato deportivo integra a la comunidad pero no decide asuntos públicos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Diferenciación entre el voto electoral y otros mecanismos como la consulta popular, el referendo y el plebiscito.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-5-2026-W32-voto-participacion-ciudadana-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W32-voto-participacion-ciudadana-001-MASTERY-bundle-v6",
+      "statement": "¿Qué diferencia existe entre la participación de las dos veredas y su efecto en la democracia local?",
+      "context": "En dos veredas del Huila se realizaron votaciones para elegir junta comunal: en la vereda Alta votó el 80 por ciento de los habitantes, mientras que en la vereda Baja solo votó el 20 por ciento porque muchos dijeron que su voto no servía para nada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay diferencia, porque en ambos casos el resultado vale lo mismo.",
+          "is_correct": false,
+          "feedback": "La legitimidad de la decisión cambia cuando participa mucha o poca gente de la comunidad."
+        },
+        {
+          "letter": "B",
+          "text": "La vereda Baja es más democrática porque votó menos gente.",
+          "is_correct": false,
+          "feedback": "Votar menos debilita la representación; no la fortalece."
+        },
+        {
+          "letter": "C",
+          "text": "La vereda Alta fortalece la democracia con alta participación, mientras la vereda Baja la debilita con abstención.",
+          "is_correct": true,
+          "feedback": "La participación amplia legitima las decisiones y la abstención deja que pocos decidan por todos."
+        },
+        {
+          "letter": "D",
+          "text": "La vereda Alta es menos democrática porque la mayoría impone su voluntad.",
+          "is_correct": false,
+          "feedback": "La mayoría que vota libremente es la base de la democracia, no su contrario."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Análisis del efecto de la participación y la abstención en la legitimidad de las decisiones democráticas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-5-2026-W32-voto-participacion-ciudadana-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W32-voto-participacion-ciudadana-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál de las dos campañas respeta los principios del voto democrático y por qué?",
+      "context": "Antes de las elecciones de personero en un colegio de Barranquilla, un candidato ofrece dulces y puntos extra a cambio de votos, mientras otro candidato presenta sus propuestas sobre el descanso y la biblioteca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La del candidato de las propuestas, porque el voto debe ser libre e informado y no comprado.",
+          "is_correct": true,
+          "feedback": "Ofrecer regalos a cambio de votos vulnera la libertad del elector; las propuestas permiten decidir con información."
+        },
+        {
+          "letter": "B",
+          "text": "La del candidato de los dulces, porque regalar cosas convence más rápido.",
+          "is_correct": false,
+          "feedback": "Convencer con regalos es compra de votos y atenta contra la libertad de elegir."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas son iguales, porque lo importante es ganar sin importar el método.",
+          "is_correct": false,
+          "feedback": "El método sí importa: la democracia exige juego limpio y respeto por la voluntad libre."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna es válida, porque los niños no deberían votar en el colegio.",
+          "is_correct": false,
+          "feedback": "El gobierno escolar es un derecho de los estudiantes y una escuela de democracia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Análisis de la libertad e información del voto frente a prácticas que lo vulneran, como la compra de votos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-5-2026-W32-voto-participacion-ciudadana-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W32-voto-participacion-ciudadana-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál propuesta fortalece mejor la cultura democrática del colegio y por qué?",
+      "context": "El consejo estudiantil de un colegio de Pasto debe evaluar dos propuestas para mejorar la participación: una propone voto obligatorio con sanción para quien no vote, y otra propone jornadas de debate y formación sobre las propuestas antes de votar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El voto obligatorio con sanción, porque el castigo es la única forma de que la gente participe.",
+          "is_correct": false,
+          "feedback": "La sanción puede aumentar la asistencia pero no forma ciudadanos convencidos ni informados."
+        },
+        {
+          "letter": "B",
+          "text": "Cancelar las elecciones y que el rector nombre a los representantes.",
+          "is_correct": false,
+          "feedback": "Eliminar las elecciones destruye la participación en lugar de fortalecerla."
+        },
+        {
+          "letter": "C",
+          "text": "Sortear los cargos entre los estudiantes para no perder tiempo en votaciones.",
+          "is_correct": false,
+          "feedback": "El sorteo evita la deliberación y la elección consciente que forman la cultura democrática."
+        },
+        {
+          "letter": "D",
+          "text": "Las jornadas de debate y formación, porque crean votantes informados que participan por convicción.",
+          "is_correct": true,
+          "feedback": "La deliberación y la información generan participación consciente, que es el fundamento de una democracia sólida."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Valoración de estrategias para fortalecer la cultura democrática, priorizando la formación de ciudadanos informados sobre la imposición.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-5-2026-W32-voto-participacion-ciudadana-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}
