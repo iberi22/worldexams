@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-38-grade-5-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-20T20:35:44.849Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-5-2026-W38-vida-rural-campesinos-colombia-001-MASTERY-bundle-v1",
+      "statement": "¿A qué se dedican principalmente los campesinos como don Ramiro?",
+      "context": "En una finca de Boyacá, don Ramiro madruga a ordeñar las vacas, recoge papa y cebolla, y los domingos lleva sus productos al mercado del pueblo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A fabricar carros y aparatos electrónicos en grandes fábricas.",
+          "is_correct": false,
+          "feedback": "Incorrecto: esas son actividades industriales de las ciudades, no del trabajo campesino."
+        },
+        {
+          "letter": "B",
+          "text": "A trabajar únicamente en oficinas del gobierno.",
+          "is_correct": false,
+          "feedback": "Incorrecto: algunos campesinos son funcionarios, pero su trabajo principal está en el campo."
+        },
+        {
+          "letter": "C",
+          "text": "A cultivar la tierra y criar animales para producir alimentos.",
+          "is_correct": true,
+          "feedback": "Correcto: la agricultura y la ganadería son el trabajo principal de las familias campesinas."
+        },
+        {
+          "letter": "D",
+          "text": "A extraer petróleo de pozos profundos en el mar.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la extracción de petróleo es una actividad industrial especializada, no campesina."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los campesinos son las familias que viven y trabajan en el campo. Cultivan alimentos como papa, arroz, café, frutas y verduras, y crían ganado, gallinas y cerdos. Gracias a su trabajo diario llegan los alimentos a las mesas de las ciudades.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-5-2026-W38-vida-rural-campesinos-colombia-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W38-vida-rural-campesinos-colombia-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la diferencia entre la economía campesina familiar y la gran hacienda?",
+      "context": "En el Huila, la familia de Yuli combina el cultivo de café con fríjol y plátano en el mismo terreno, mientras que una gran hacienda vecina siembra solo caña en cientos de hectáreas con máquinas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La familia produce varios alimentos en poca tierra con trabajo familiar; la hacienda produce un solo cultivo en mucha tierra con máquinas.",
+          "is_correct": true,
+          "feedback": "Correcto: la economía campesina es diversificada y familiar; el latifundio es extensivo y de monocultivo."
+        },
+        {
+          "letter": "B",
+          "text": "No hay ninguna diferencia: ambas producen exactamente lo mismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto: se diferencian en el tamaño de la tierra, los cultivos y quién trabaja."
+        },
+        {
+          "letter": "C",
+          "text": "La familia campesina solo cultiva flores para exportar a otros países.",
+          "is_correct": false,
+          "feedback": "Incorrecto: las flores de exportación son cultivos empresariales; la familia produce alimentos variados."
+        },
+        {
+          "letter": "D",
+          "text": "Las haciendas no producen nada y solo guardan la tierra sin usarla.",
+          "is_correct": false,
+          "feedback": "Incorrecto: las haciendas sí producen, generalmente un solo cultivo a gran escala."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el campo colombiano conviven formas distintas de producir: la economía campesina familiar cultiva varios productos en tierras pequeñas para comer y vender, mientras las grandes haciendas dedican extensiones enormes a un solo cultivo. Esta desigualdad en el acceso a la tierra es uno de los grandes temas de la historia rural del país.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-5-2026-W38-vida-rural-campesinos-colombia-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W38-vida-rural-campesinos-colombia-001-MASTERY-bundle-v3",
+      "statement": "Si doña Carmen acepta siempre vender solo al intermediario, ¿qué consecuencia tiene para su familia?",
+      "context": "En Nariño, doña Carmen vende sus quesos a 8.000 pesos cada uno en la plaza. Un intermediario le ofrece comprarle toda la producción a 4.000 pesos por queso para revenderlos en Pasto al doble de precio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ganará más dinero porque vende todo de una sola vez.",
+          "is_correct": false,
+          "feedback": "Incorrecto: vende todo, pero a mitad de precio; el intermediario se queda con la mayor ganancia."
+        },
+        {
+          "letter": "B",
+          "text": "Recibirá menos ingresos porque el intermediario se queda con la mayor parte de la ganancia.",
+          "is_correct": true,
+          "feedback": "Correcto: vender a mitad de precio reduce sus ingresos aunque venda toda la producción."
+        },
+        {
+          "letter": "C",
+          "text": "Sus quesos mejorarán de calidad automáticamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el comprador no cambia la calidad del producto."
+        },
+        {
+          "letter": "D",
+          "text": "Ya no necesitará trabajar porque el intermediario le pagará un sueldo.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el intermediario solo compra los quesos; no la contrata ni le paga sueldo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los intermediarios compran barato en el campo y venden caro en la ciudad, quedándose con gran parte de la ganancia. Por eso muchas familias campesinas ganan poco aunque trabajen mucho. Organizarse en cooperativas o vender directamente en mercados campesinos les permite recibir precios más justos por su trabajo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-5-2026-W38-vida-rural-campesinos-colombia-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W38-vida-rural-campesinos-colombia-001-MASTERY-bundle-v4",
+      "statement": "¿Qué enseña esta convivencia sobre la pluralidad cultural de Colombia?",
+      "context": "En el Cauca viven comunidades campesinas, indígenas nasa y afrodescendientes. Cada una tiene fiestas, comidas y formas de organizarse distintas, pero comparten el mercado, la escuela y el puesto de salud del municipio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que solo una de las culturas debería existir y las demás desaparecer.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la Constitución protege la diversidad cultural; ninguna cultura debe desaparecer."
+        },
+        {
+          "letter": "B",
+          "text": "Que las diferencias culturales impiden compartir escuelas y mercados.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el ejemplo muestra que sí comparten escuela, mercado y salud respetando sus diferencias."
+        },
+        {
+          "letter": "C",
+          "text": "Que todas las comunidades deben abandonar sus costumbres y volverse iguales.",
+          "is_correct": false,
+          "feedback": "Incorrecto: obligar a abandonar las costumbres viola el derecho a la identidad cultural."
+        },
+        {
+          "letter": "D",
+          "text": "Que personas de culturas distintas pueden convivir y compartir espacios respetando sus diferencias.",
+          "is_correct": true,
+          "feedback": "Correcto: la pluralidad significa convivir con las diferencias, compartiendo lo común sin perder la identidad."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Colombia es un país pluriétnico y multicultural: conviven pueblos indígenas, comunidades afrodescendientes, campesinos y citadinos. La Constitución de 1991 reconoce y protege esta diversidad. Convivir en la diferencia —compartiendo escuela, mercado y salud— es el fundamento de la vida democrática.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-5-2026-W38-vida-rural-campesinos-colombia-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W38-vida-rural-campesinos-colombia-001-MASTERY-bundle-v5",
+      "statement": "¿Qué desigualdad muestra la historia de Jhon frente a su prima?",
+      "context": "Jhon, de 11 años, vive en una vereda del Tolima y camina una hora para llegar a su escuela, donde hay un solo profesor para todos los grados. Su prima en Ibagué tiene bus escolar, biblioteca y clases de sistemas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La desigualdad entre la educación rural y la urbana en acceso y recursos.",
+          "is_correct": true,
+          "feedback": "Correcto: las escuelas rurales suelen tener menos profesores, materiales y transporte que las urbanas."
+        },
+        {
+          "letter": "B",
+          "text": "Que a Jhon no le gusta estudiar y prefiere caminar.",
+          "is_correct": false,
+          "feedback": "Incorrecto: Jhon sí estudia; el problema es la falta de recursos, no su voluntad."
+        },
+        {
+          "letter": "C",
+          "text": "Que en las ciudades no hay escuelas para los niños.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la prima sí tiene escuela con buenos recursos en la ciudad."
+        },
+        {
+          "letter": "D",
+          "text": "Que los niños del campo no tienen derecho a la educación.",
+          "is_correct": false,
+          "feedback": "Incorrecto: todos los niños tienen derecho a la educación; lo que falta es igualdad en las condiciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Todos los niños colombianos tienen derecho a una educación de calidad, pero en la práctica las escuelas rurales enfrentan desventajas: largas distancias, pocos maestros y menos materiales. Reconocer esta desigualdad es el primer paso para exigir al Estado que la corrija con más inversión en el campo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-5-2026-W38-vida-rural-campesinos-colombia-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W38-vida-rural-campesinos-colombia-001-MASTERY-bundle-v6",
+      "statement": "Analizando los dos puestos, ¿por qué la cooperativa reparte mejor los beneficios del trabajo rural?",
+      "context": "En el mercado de Duitama, un puesto vende papa criolla traída por una cooperativa campesina que reparte las ganancias entre 20 familias. Otro puesto vende papa de una empresa que paga jornales bajos a sus trabajadores y se queda con casi toda la ganancia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la cooperativa vende la papa más cara engañando a los clientes.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el reparto justo no depende de engañar, sino de cómo se distribuyen las ganancias."
+        },
+        {
+          "letter": "B",
+          "text": "Porque en la cooperativa los mismos productores deciden y reparten las ganancias entre todos.",
+          "is_correct": true,
+          "feedback": "Correcto: al ser dueños colectivos, los campesinos deciden juntos y nadie se queda con el trabajo ajeno."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las empresas siempre regalan sus ganancias a los trabajadores.",
+          "is_correct": false,
+          "feedback": "Incorrecto: en la empresa descrita los trabajadores reciben jornales bajos y no participan de las ganancias."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la cooperativa no necesita vender para sobrevivir.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la cooperativa también vende; la diferencia está en el reparto, no en vender o no."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las cooperativas son organizaciones donde los productores son dueños colectivos: aportan trabajo y capital, deciden en asamblea y reparten utilidades. Frente a modelos donde unos pocos concentran las ganancias, la cooperación reduce la desigualdad rural y fortalece a las comunidades campesinas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-5-2026-W38-vida-rural-campesinos-colombia-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W38-vida-rural-campesinos-colombia-001-MASTERY-bundle-v7",
+      "statement": "¿Qué opinión explica mejor la migración de jóvenes del campo a la ciudad?",
+      "context": "En clase, dos estudiantes opinan sobre por qué algunos jóvenes se van del campo a la ciudad. Laura dice: \"Se van porque en el campo no hay oportunidades de estudio ni trabajo bien pago\". Diego dice: \"Se van porque no quieren a su tierra\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La de Laura, porque la falta de colegios, salud y empleo empuja a los jóvenes a buscar futuro en la ciudad.",
+          "is_correct": true,
+          "feedback": "Correcto: la migración rural-urbana responde sobre todo a la búsqueda de oportunidades que el campo no ofrece."
+        },
+        {
+          "letter": "B",
+          "text": "La de Diego, porque los jóvenes del campo no sienten amor por su vereda.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la mayoría quiere a su tierra; se van por necesidad, no por falta de cariño."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguna, porque ningún joven se va del campo colombiano.",
+          "is_correct": false,
+          "feedback": "Incorrecto: miles de jóvenes migran cada año del campo a las ciudades."
+        },
+        {
+          "letter": "D",
+          "text": "La de Diego, porque en el campo hay más universidades que en la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto: las universidades se concentran en las ciudades; el campo tiene muy pocas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La migración del campo a la ciudad tiene causas estructurales: menos colegios con todos los grados, puestos de salud lejanos, trabajos mal pagos y pocas opciones para los jóvenes. No es falta de amor por la tierra, sino búsqueda de oportunidades. Por eso llevar desarrollo al campo (vías, escuelas, internet, crédito) ayuda a que las familias puedan quedarse.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-5-2026-W38-vida-rural-campesinos-colombia-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W38-vida-rural-campesinos-colombia-001-MASTERY-bundle-v8",
+      "statement": "Evaluando la justicia y el futuro de la comunidad, ¿qué opción es la mejor?",
+      "context": "Una vereda del Meta discute cómo mejorar la vida de todos: (1) repartir los baldíos entre familias sin tierra para que cultiven alimentos; (2) entregar toda la tierra disponible a una sola empresa a cambio de 10 empleos; (3) no hacer nada y dejar que cada familia resuelva sola.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La opción 2, porque 10 empleos resuelven el futuro de toda la vereda.",
+          "is_correct": false,
+          "feedback": "Incorrecto: 10 empleos benefician a pocas familias y concentran la tierra en una sola empresa."
+        },
+        {
+          "letter": "B",
+          "text": "La opción 3, porque no hacer nada evita todos los conflictos.",
+          "is_correct": false,
+          "feedback": "Incorrecto: no hacer nada mantiene la desigualdad y las familias sin tierra siguen sin sustento."
+        },
+        {
+          "letter": "C",
+          "text": "La opción 1, porque da tierra a quienes la trabajan y produce alimentos para muchas familias.",
+          "is_correct": true,
+          "feedback": "Correcto: repartir baldíos entre familias sin tierra reduce la desigualdad y genera sustento duradero para la comunidad."
+        },
+        {
+          "letter": "D",
+          "text": "Todas son iguales porque la tierra no es importante para la vida rural.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la tierra es la base del trabajo y la vida campesina; su reparto define la justicia rural."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El acceso a la tierra es el corazón de la justicia en el campo: quien tiene tierra puede producir alimentos y sostener a su familia. Concentrarla en una empresa beneficia a pocos; repartir los baldíos entre quienes los trabajan distribuye oportunidades y fortalece la economía local. Evaluar con criterio de equidad permite elegir el camino que beneficia a toda la comunidad y no solo a unos cuantos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-5-2026-W38-vida-rural-campesinos-colombia-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}
