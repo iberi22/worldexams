@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-16-grade-7-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T09:44:42.690Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-7-2026-W16-tabla-periodica-elementos-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es la tabla periódica de los elementos?",
+      "context": "En un salón de Soacha, la profesora despliega una tabla grande de colores con casillas para cada elemento y pregunta para qué sirve.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una lista de compras del mercado de Soacha con precios de frutas.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la tabla ordena elementos químicos, no frutas ni precios."
+        },
+        {
+          "letter": "B",
+          "text": "Una organización de todos los elementos ordenados por número atómico que muestra propiedades parecidas.",
+          "is_correct": true,
+          "feedback": "Correcta, porque define el orden por protones y la repetición de propiedades."
+        },
+        {
+          "letter": "C",
+          "text": "Un mapa de carreteras de Cundinamarca para viajar en bus escolar.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la tabla no muestra vías ni municipios."
+        },
+        {
+          "letter": "D",
+          "text": "Un cuaderno de asistencia donde se anotan las fallas de los estudiantes.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la tabla registra elementos como oxígeno e hierro, no asistencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tabla reúne más de cien elementos ordenados de izquierda a derecha por su número atómico. Los que quedan en la misma columna se parecen en su comportamiento químico. Es como el directorio del colegio: cada casilla tiene símbolo, número y masa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-7-2026-W16-tabla-periodica-elementos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W16-tabla-periodica-elementos-001-MASTERY-bundle-v2",
+      "statement": "¿Qué diferencia hay entre grupos y periodos en la tabla periódica?",
+      "context": "En una clase de Envigado, los estudiantes ven que el sodio y el potasio están en la misma columna y que el hierro y el oro brillan como metales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los grupos son columnas verticales con propiedades parecidas y los periodos son filas horizontales con niveles de energía crecientes.",
+          "is_correct": true,
+          "feedback": "Correcta, porque distingue columnas de filas y su significado químico."
+        },
+        {
+          "letter": "B",
+          "text": "Los grupos son filas horizontales y los periodos son cuadernos de Envigado.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque invierte los términos y mete un objeto ajeno."
+        },
+        {
+          "letter": "C",
+          "text": "Los grupos son para metales y los periodos son para fantasmas del laboratorio.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque usa una categoría imaginaria sin base química."
+        },
+        {
+          "letter": "D",
+          "text": "No hay diferencia porque todas las casillas son idénticas en la tabla.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque sodio y cloro en distinto grupo reaccionan muy distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las 18 columnas son grupos: comparten electrones externos y por eso el sodio y el potasio reaccionan parecido. Las 7 filas son periodos: indican cuántos niveles de energía tiene el átomo. Bajar en un grupo aumenta el tamaño y moverse en un periodo cambia el carácter metálico.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-7-2026-W16-tabla-periodica-elementos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W16-tabla-periodica-elementos-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué el cobre y el aluminio se clasifican como metales?",
+      "context": "En una ferretería de Bucaramanga, un estudiante debe elegir un cable de cobre y un marco de aluminio para una maqueta del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque son transparentes y flotan en el agua de Bucaramanga.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque ambos son opacos, brillantes y más densos que el agua."
+        },
+        {
+          "letter": "B",
+          "text": "Porque se disuelven en agua como la sal de cocina.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque los metales no se disuelven así en agua fría."
+        },
+        {
+          "letter": "C",
+          "text": "Porque conducen electricidad y calor, brillan y se pueden laminar e hilar.",
+          "is_correct": true,
+          "feedback": "Correcta, porque reúne brillo, conductividad, maleabilidad y ductilidad."
+        },
+        {
+          "letter": "D",
+          "text": "Porque son gases que se respiran en la ferretería.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque a temperatura ambiente ambos son sólidos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los metales ocupan la izquierda y el centro de la tabla. El cobre lleva la luz a las casas de Bucaramanga porque conduce muy bien. El aluminio es liviano y se lamina para marcos y ollas. Esas propiedades los delatan como metales frente a no metales como el azufre.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W16-tabla-periodica-elementos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W16-tabla-periodica-elementos-001-MASTERY-bundle-v4",
+      "statement": "¿Por qué el oxígeno se clasifica como no metal esencial para la vida?",
+      "context": "En un hospital de Cali, el oxígeno llega por tuberías verdes a los pacientes y el médico explica que sin ese gas no podríamos respirar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque es un gas que no brilla ni conduce electricidad y participa en la respiración y la combustión.",
+          "is_correct": true,
+          "feedback": "Correcta, porque describe su estado, su falta de brillo metálico y su papel vital."
+        },
+        {
+          "letter": "B",
+          "text": "Porque es un metal pesado que se funde en los pulmones de Cali.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el oxígeno es gaseoso y no es un metal pesado."
+        },
+        {
+          "letter": "C",
+          "text": "Porque es un invento del hospital que no existe en el aire libre.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el aire tiene cerca de veintiún por ciento de oxígeno."
+        },
+        {
+          "letter": "D",
+          "text": "Porque solo sirve para inflar balones de fiesta y nada más.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque los balones usan aire común y el oxígeno sostiene la vida."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los no metales están a la derecha de la tabla. El oxígeno no brilla, es mal conductor y forma moléculas que respiramos. En Cali y en todo el mundo sostiene la respiración celular que libera energía de los alimentos y permite el fuego controlado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W16-tabla-periodica-elementos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W16-tabla-periodica-elementos-001-MASTERY-bundle-v5",
+      "statement": "¿Qué propiedad de la tabla explica que el oro se use en joyas y el hierro en herramientas?",
+      "context": "En una mina de Segovia, Antioquia, los mineros muestran cuarzo con vetas doradas y explican que el oro no se oxida como el hierro de las herramientas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que ambos son gases nobles que flotan sobre Segovia.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque ambos son metales sólidos a temperatura ambiente."
+        },
+        {
+          "letter": "B",
+          "text": "Que el oro es un metal noble muy poco reactivo y el hierro es un metal de transición resistente pero que se oxida.",
+          "is_correct": true,
+          "feedback": "Correcta, porque contrasta reactividad y uso según la posición en la tabla."
+        },
+        {
+          "letter": "C",
+          "text": "Que el oro es un no metal dulce y el hierro es una fruta de Antioquia.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque confunde categorías químicas con alimentos."
+        },
+        {
+          "letter": "D",
+          "text": "Que el oro y el hierro son el mismo elemento con distinto color.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque tienen distinto número atómico y propiedades."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El oro está entre los metales que casi no reaccionan: no se mancha y brilla por años, ideal para joyas. El hierro es fuerte y barato para picas y vigas, pero se oxida con agua y aire y por eso se pinta. La tabla anticipa esa reactividad según el grupo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W16-tabla-periodica-elementos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W16-tabla-periodica-elementos-001-MASTERY-bundle-v6",
+      "statement": "¿Por qué litio, sodio y potasio reaccionan de forma parecida pero con fuerza creciente?",
+      "context": "En un laboratorio de Tunja, tres tubos tienen litio, sodio y potasio. Al echar un trocito en agua, los tres burbujean, pero el potasio reacciona con más fuerza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque están en distintos planetas y el agua de Tunja los confunde.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque los tres están en el mismo grupo uno de la tabla."
+        },
+        {
+          "letter": "B",
+          "text": "Porque son del mismo grupo con un electrón externo, y al bajar aumenta el tamaño y se pierde ese electrón con más facilidad.",
+          "is_correct": true,
+          "feedback": "Correcta, porque relaciona grupo, electrón de valencia y tendencia en el grupo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los tres son gases nobles que nunca reaccionan con nada.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque los alcalinos son muy reactivos, lo contrario de los nobles."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el agua de Tunja es mágica y hace explotar cualquier metal.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque con cobre o aluminio el agua fría casi no reacciona."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El grupo uno comparte un solo electrón externo que desea ceder. Al bajar en la columna, el átomo es más grande y el núcleo atrae menos a ese electrón lejano, así que lo pierde más fácil y la reacción con agua es más viva. Por eso se guardan en aceite, lejos del agua.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W16-tabla-periodica-elementos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W16-tabla-periodica-elementos-001-MASTERY-bundle-v7",
+      "statement": "¿Qué análisis ubica correctamente sodio, cloro y magnesio en la tabla?",
+      "context": "En una casa de Florencia, Caquetá, la sal de cocina dice cloruro de sodio y el antiácido dice hidróxido de magnesio. La profesora pide ubicarlos en la tabla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sodio es metal alcalino del grupo uno, cloro es no metal halógeno del grupo diecisiete y magnesio es alcalinotérreo del grupo dos.",
+          "is_correct": true,
+          "feedback": "Correcta, porque asigna cada elemento a su grupo y carácter correcto."
+        },
+        {
+          "letter": "B",
+          "text": "Los tres son gases nobles del grupo dieciocho que no forman sales en Florencia.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque los tres forman compuestos cotidianos como sal y antiácido."
+        },
+        {
+          "letter": "C",
+          "text": "Sodio es halógeno, cloro es alcalino y magnesio es un gas noble.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque intercambia los grupos de cada elemento."
+        },
+        {
+          "letter": "D",
+          "text": "Los tres son metales líquidos iguales al mercurio de los termómetros.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque sodio y magnesio son sólidos y el cloro es gas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Leer etiquetas conecta la casa con la tabla. El sodio blando del grupo uno se une con el cloro agresivo del grupo diecisiete para dar sal estable. El magnesio del grupo dos forma bases suaves contra la acidez. La posición anticipa quién cede y quién recibe electrones.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W16-tabla-periodica-elementos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W16-tabla-periodica-elementos-001-MASTERY-bundle-v8",
+      "statement": "¿Cómo se clasifican silicio, cobre y helio según la tabla periódica?",
+      "context": "En un colegio de Leticia, Amazonas, los estudiantes comparan un chip de silicio de una calculadora con un cable de cobre y un globo con helio de una fiesta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los tres son metales porque brillan igual en Leticia.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el helio es gas invisible y el silicio no brilla como metal."
+        },
+        {
+          "letter": "B",
+          "text": "Cobre es metal conductor, silicio es metaloide semiconductor y helio es gas noble muy estable.",
+          "is_correct": true,
+          "feedback": "Correcta, porque distingue las tres grandes familias con ejemplos claros."
+        },
+        {
+          "letter": "C",
+          "text": "Los tres son no metales porque ninguno se oxida jamás.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el cobre sí se oxida y conduce como metal."
+        },
+        {
+          "letter": "D",
+          "text": "Silicio es gas, cobre es líquido y helio es sólido a temperatura ambiente.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque invierte los estados reales de los tres."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El cobre lleva corriente completa, el silicio la deja pasar a medias y por eso sirve en chips, y el helio casi no reacciona y por eso infla globos seguros. Esa escalera metal, metaloide y no metal noble muestra la lógica horizontal y vertical de la tabla.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W16-tabla-periodica-elementos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W16-tabla-periodica-elementos-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la mejor evaluación de la compra para grado séptimo?",
+      "context": "Un colegio de Quibdó con 15000000 de pesos debe elegir entre un laboratorio con muestras reales de sodio y cloro puros o una tabla interactiva con simulaciones seguras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las muestras puras porque los niños de séptimo ya manejan sodio explosivo sin riesgo en Quibdó.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque sodio y cloro puros son peligrosos sin campana ni entrenamiento."
+        },
+        {
+          "letter": "B",
+          "text": "La tabla interactiva porque es segura, muestra grupos y periodos y deja repetir simulaciones sin gastar reactivos.",
+          "is_correct": true,
+          "feedback": "Correcta, porque pondera seguridad, pedagogía y costo frente al riesgo."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguna porque en Quibdó está prohibido enseñar la tabla periódica en séptimo.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque los DBA piden tabla y elementos en este ciclo."
+        },
+        {
+          "letter": "D",
+          "text": "Las muestras puras porque los 15000000 de pesos crean un escudo contra accidentes.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el dinero no neutraliza la reactividad química."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar exige poner la vida primero. El sodio arde con agua y el cloro irrita los pulmones. La tabla interactiva deja ubicar grupos, comparar metales y simular uniones sin peligro y sirve por años. Las muestras puras solo convienen en bachillerato con laboratorio equipado.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-7-2026-W16-tabla-periodica-elementos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W16-tabla-periodica-elementos-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la evaluación científica de esas dos afirmaciones?",
+      "context": "En Cúcuta circula la cadena de que el símbolo del oro es Or porque se pronuncia oro y de que el agua aparece como elemento con símbolo Ag en la tabla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambas son falsas porque el oro es Au por aurum y el agua no es elemento sino compuesto con fórmula H dos O.",
+          "is_correct": true,
+          "feedback": "Correcta, porque corrige el símbolo latino y distingue elemento de compuesto."
+        },
+        {
+          "letter": "B",
+          "text": "Ambas son ciertas porque en Cúcuta los símbolos se inventan por pronunciación local.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque los símbolos son internacionales y no cambian por ciudad."
+        },
+        {
+          "letter": "C",
+          "text": "Solo es cierta la del oro, porque Ag sí significa agua en la tabla moderna.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque Ag es plata por argentum, no agua."
+        },
+        {
+          "letter": "D",
+          "text": "Solo es cierta la del agua, porque Or fue aprobado como símbolo nuevo del oro.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque ningún organismo cambió Au por Or."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los símbolos vienen del latín y son universales: Au de aurum para el oro, Ag de argentum para la plata, Na de natrium para el sodio. El agua no tiene casilla porque es un compuesto de hidrógeno y oxígeno. La cadena de Cúcuta confunde pronunciación con nomenclatura oficial.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-7-2026-W16-tabla-periodica-elementos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

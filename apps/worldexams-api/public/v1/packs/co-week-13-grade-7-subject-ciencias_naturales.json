@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-13-grade-7-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T09:44:42.689Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-7-2026-W13-materia-propiedades-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es la materia en ciencias naturales?",
+      "context": "En un salón de Tunja, la profesora pone sobre el escritorio una piedra, un vaso con agua y un globo inflado y pregunta qué tienen en común.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo los objetos duros como piedras y pupitres de madera.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el agua y el aire del globo también son materia aunque no sean duros."
+        },
+        {
+          "letter": "B",
+          "text": "Todo aquello que tiene masa y ocupa un lugar en el espacio, sea sólido, líquido o gas.",
+          "is_correct": true,
+          "feedback": "Correcta, porque define la materia por masa y volumen en cualquier estado."
+        },
+        {
+          "letter": "C",
+          "text": "Solo las cosas vivas como plantas y mascotas del colegio.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque las cosas sin vida como el agua también son materia."
+        },
+        {
+          "letter": "D",
+          "text": "Un invento de laboratorio que no existe en las casas de Tunja.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque toda la casa, el aire y los alimentos son materia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La materia es todo lo que tiene masa y volumen. La piedra es sólida, el agua es líquida y el aire del globo es gaseoso, pero los tres son materia porque pesan y ocupan espacio, aunque el aire parezca invisible.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-7-2026-W13-materia-propiedades-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W13-materia-propiedades-001-MASTERY-bundle-v2",
+      "statement": "¿Qué diferencia hay entre masa y volumen?",
+      "context": "En una tienda de Manizales, un niño compara un kilo de café y un kilo de algodón y se sorprende de que uno ocupe una bolsita y el otro una bolsa enorme.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La masa es la cantidad de materia medida en gramos y el volumen es el espacio que ocupa medido en litros o centímetros cúbicos.",
+          "is_correct": true,
+          "feedback": "Correcta, porque distingue cantidad de materia de espacio ocupado."
+        },
+        {
+          "letter": "B",
+          "text": "La masa y el volumen son lo mismo y siempre ocupan el mismo tamaño.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el ejemplo del café y el algodón muestra igual masa con distinto volumen."
+        },
+        {
+          "letter": "C",
+          "text": "La masa solo existe en Manizales y el volumen solo existe en el café.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque masa y volumen son propiedades universales de toda materia."
+        },
+        {
+          "letter": "D",
+          "text": "La masa se mide con regla y el volumen se mide con reloj de pared.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la masa se mide con balanza y el volumen con probeta o cinta métrica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un kilo es masa en ambos casos, por eso la balanza marca igual. El volumen es distinto porque el algodón es esponjoso y deja mucho aire entre fibras, mientras el café molido es compacto. Por eso igual masa no significa igual tamaño.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-7-2026-W13-materia-propiedades-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W13-materia-propiedades-001-MASTERY-bundle-v3",
+      "statement": "Si 200 gramos de agua ocupan 200 mililitros pero 200 gramos de aceite ocupan más de 200 mililitros, ¿qué propiedad específica permite explicar el resultado?",
+      "context": "En el laboratorio de un colegio de Bogotá, los estudiantes miden 200 gramos de agua y 200 gramos de aceite en probetas graduadas para comparar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El color, porque el aceite es más amarillo que el agua de Bogotá.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el color no determina el espacio ocupado por la misma masa."
+        },
+        {
+          "letter": "B",
+          "text": "El olor, porque el aceite huele más fuerte que el agua pura.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el olor no cambia la relación entre masa y volumen."
+        },
+        {
+          "letter": "C",
+          "text": "La densidad, porque el aceite es menos denso y necesita más volumen para la misma masa.",
+          "is_correct": true,
+          "feedback": "Correcta, porque aplica densidad como masa dividida entre volumen."
+        },
+        {
+          "letter": "D",
+          "text": "La simpatía, porque al agua le gusta más la probeta del laboratorio.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque usa lenguaje afectivo sin relación con la medición física."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La densidad es masa sobre volumen. El agua tiene densidad cercana a 1 gramo por mililitro, el aceite ronda 0,9. Por eso la misma masa de aceite ocupa más volumen y además flota sobre el agua en la cocina o en un derrame.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W13-materia-propiedades-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W13-materia-propiedades-001-MASTERY-bundle-v4",
+      "statement": "¿Qué indican el punto de fusión y el punto de ebullición de la panela fundida?",
+      "context": "En Vélez, Santander, un productor de bocadillo de guayaba calienta panela en una paila y observa que a cierta temperatura se funde y luego hierve.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la panela nunca cambia de estado aunque se caliente todo el día.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque al calentarse la panela sí se funde y puede hervir."
+        },
+        {
+          "letter": "B",
+          "text": "Que son temperaturas características donde la panela cambia de sólido a líquido y de líquido a gas.",
+          "is_correct": true,
+          "feedback": "Correcta, porque identifica ambos puntos como cambios de estado específicos."
+        },
+        {
+          "letter": "C",
+          "text": "Que la fusión ocurre en Vélez y la ebullición solo ocurre en la costa.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque los cambios de estado dependen de temperatura, no de la ciudad."
+        },
+        {
+          "letter": "D",
+          "text": "Que fundir es congelar y hervir es enfriar la panela con hielo.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque invierte los procesos: fundir es por calentamiento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cada sustancia pura funde y hierve a temperaturas propias. Esa es una propiedad específica útil para identificar materiales. En la paila, el calor primero funde los cristales de panela y si sigue, el jarabe burbujea al hervir, por eso el productor controla el fuego.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W13-materia-propiedades-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W13-materia-propiedades-001-MASTERY-bundle-v5",
+      "statement": "¿Qué propiedad específica se está comparando al rayar los materiales con el clavo?",
+      "context": "En un taller de Medellín, un estudiante intenta rayar con un clavo una lámina de cobre, una de aluminio y un trozo de yeso escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La masa, porque el clavo pesa más que las tres láminas juntas.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque rayar no mide el peso sino la resistencia al rayado."
+        },
+        {
+          "letter": "B",
+          "text": "El volumen, porque el clavo ocupa menos espacio que la lámina de cobre.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el tamaño no explica cuál material se raya más fácil."
+        },
+        {
+          "letter": "C",
+          "text": "La dureza, porque mide la resistencia de un material a ser rayado por otro.",
+          "is_correct": true,
+          "feedback": "Correcta, porque la dureza compara qué material deja marca sobre cuál."
+        },
+        {
+          "letter": "D",
+          "text": "La inercia, porque el clavo no quiere moverse de la mano del estudiante.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la inercia es resistencia al cambio de movimiento, no al rayado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La dureza permite ordenar materiales: el yeso se raya fácil, el aluminio resiste más y el cobre aún más frente al clavo según su aleación. Por eso en Medellín se eligen metales duros para herramientas y materiales blandos para tizas y moldes.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W13-materia-propiedades-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W13-materia-propiedades-001-MASTERY-bundle-v6",
+      "statement": "¿Qué procedimiento permite distinguir el agua del alcohol usando propiedades específicas?",
+      "context": "En una clase de Cúcuta, dos vasos tienen líquido transparente: uno con agua y otro con alcohol. Los estudiantes no pueden probarlos por seguridad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Medir densidad y punto de ebullición, porque el alcohol es menos denso y hierve a menor temperatura que el agua.",
+          "is_correct": true,
+          "feedback": "Correcta, porque propone dos propiedades específicas medibles y seguras."
+        },
+        {
+          "letter": "B",
+          "text": "Mirar el color, porque el alcohol es rojo y el agua es verde en Cúcuta.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque ambos líquidos son transparentes a simple vista."
+        },
+        {
+          "letter": "C",
+          "text": "Agitar fuerte, porque el agua canta y el alcohol llora dentro del vaso.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque usa expresiones sin valor de medición científica."
+        },
+        {
+          "letter": "D",
+          "text": "Pesar los vasos con la mano, porque el vidrio siempre pesa más que el líquido.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el peso del vidrio no identifica el líquido contenido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando dos sustancias se ven iguales, se recurre a propiedades específicas. El alcohol flota en mezclas con agua por su menor densidad y hierve cerca de 78 grados mientras el agua hierve a 100 grados a nivel del mar. Medir con probeta, balanza y termómetro resuelve la duda sin probar nada.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W13-materia-propiedades-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W13-materia-propiedades-001-MASTERY-bundle-v7",
+      "statement": "¿Por qué el hielo dura más en la cava de icopor que en la caja metálica?",
+      "context": "En Santa Marta, un pescador guarda hielo en una cava de icopor y en una caja metálica para llevar pescado a la plaza de mercado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el icopor produce frío propio que congela más el pescado de Santa Marta.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el icopor no produce frío, solo frena la entrada de calor."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el icopor es mal conductor del calor y el metal es buen conductor que deja entrar calor rápido.",
+          "is_correct": true,
+          "feedback": "Correcta, porque analiza la conductividad térmica de ambos materiales."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la caja metálica es más bonita y el calor prefiere las cosas bonitas.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la estética no controla la transferencia de calor."
+        },
+        {
+          "letter": "D",
+          "text": "Porque en Santa Marta el calor solo entra a los metales los días lunes.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el calor fluye siempre que hay diferencia de temperatura."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La conductividad térmica es una propiedad específica clave. El metal deja pasar el calor del aire caliente al hielo y lo funde pronto. El icopor, lleno de aire atrapado, conduce muy mal el calor y conserva el frío. Por eso las cavas playeras son de icopor y las ollas son metálicas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W13-materia-propiedades-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W13-materia-propiedades-001-MASTERY-bundle-v8",
+      "statement": "¿Qué propiedad general de la materia explica que las maletas sigan avanzando al frenar?",
+      "context": "En un colegio de Pasto, un bus escolar frena de golpe y las maletas siguen moviéndose hacia adelante en el pasillo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La divisibilidad, porque las maletas se parten en pedazos al frenar en Pasto.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque las maletas no se dividen, solo continúan su movimiento."
+        },
+        {
+          "letter": "B",
+          "text": "La impenetrabilidad, porque dos maletas no pueden ocupar el mismo asiento del bus.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque esa propiedad trata del espacio ocupado, no de seguir en movimiento."
+        },
+        {
+          "letter": "C",
+          "text": "La porosidad, porque las maletas tienen huecos que las empujan hacia adelante.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque los poros no generan empuje al frenar."
+        },
+        {
+          "letter": "D",
+          "text": "La inercia, porque todo cuerpo tiende a mantener su estado de movimiento si no hay fuerza que lo detenga.",
+          "is_correct": true,
+          "feedback": "Correcta, porque relaciona la masa de las maletas con su tendencia a seguir avanzando."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La inercia es una propiedad general: a mayor masa, mayor resistencia a cambiar de velocidad. Al frenar, el bus se detiene pero las maletas conservan su movimiento hasta que el roce o un obstáculo las frena. Por eso se exige cinturón y carga amarrada.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W13-materia-propiedades-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W13-materia-propiedades-001-MASTERY-bundle-v9",
+      "statement": "¿Cómo se evalúa la mejor compra usando propiedades de la materia?",
+      "context": "Una familia de Valledupar con 1800000 de pesos debe elegir ollas nuevas: unas de aluminio delgado muy baratas y otras de acero grueso más costosas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El acero grueso conviene porque conduce bien el calor, resiste rayaduras por su dureza y dura más aunque cueste más.",
+          "is_correct": true,
+          "feedback": "Correcta, porque evalúa conductividad, dureza y durabilidad frente al precio."
+        },
+        {
+          "letter": "B",
+          "text": "El aluminio delgado conviene porque se abolla fácil y eso demuestra buena calidad en Valledupar.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque abollarse fácil muestra baja resistencia mecánica, no calidad."
+        },
+        {
+          "letter": "C",
+          "text": "Da igual porque todas las ollas tienen la misma densidad y el mismo punto de fusión exacto.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque aluminio y acero tienen densidades y puntos de fusión distintos."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna sirve porque en Valledupar el calor no entra a ninguna olla metálica.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque los metales sí conducen el calor de la estufa al alimento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar implica comparar propiedades frente al uso. El acero es más denso y duro, aguanta el uso diario y reparte mejor el calor si tiene buen grosor. El aluminio delgado se deforma y quema el arroz. A largo plazo, la olla durable ahorra dinero aunque la inversión inicial sea mayor.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-7-2026-W13-materia-propiedades-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W13-materia-propiedades-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la evaluación científica de esas dos creencias?",
+      "context": "En Ibagué circula el rumor de que el agua destilada no es materia porque no pesa y de que el aire de los balones tampoco es materia porque no se ve.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambas son ciertas porque lo invisible y lo transparente no tienen masa en Ibagué.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la balanza y los experimentos muestran masa en agua y aire."
+        },
+        {
+          "letter": "B",
+          "text": "Ambas son falsas porque el agua y el aire tienen masa y ocupan volumen aunque sean transparentes.",
+          "is_correct": true,
+          "feedback": "Correcta, porque aplica la definición de materia a líquidos y gases invisibles."
+        },
+        {
+          "letter": "C",
+          "text": "Solo es falsa la del agua, porque el aire de los balones sí es pura imaginación.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el aire infla, pesa y ejerce presión medible."
+        },
+        {
+          "letter": "D",
+          "text": "Solo es falso lo del aire, porque el agua destilada flota sin peso sobre la balanza.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque un litro de agua destilada pesa cerca de un kilo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La materia no necesita verse para existir. Un balón inflado pesa más que uno desinflado y ocupa espacio. Un litro de agua destilada tiene masa cercana a mil gramos. La definición de masa y volumen desmonta el rumor de Ibagué.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-7-2026-W13-materia-propiedades-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

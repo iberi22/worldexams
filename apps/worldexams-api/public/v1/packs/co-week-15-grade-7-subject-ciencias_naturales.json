@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-15-grade-7-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T09:44:42.690Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-7-2026-W15-estructura-atomica-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es el átomo en la teoría actual de la materia?",
+      "context": "En un colegio de Duitama, la profesora parte una panela en pedazos cada vez más pequeños y pregunta cuál sería la parte más pequeña que sigue siendo panela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una bacteria pequeña que solo se ve en hospitales de Duitama.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque las bacterias son seres vivos enormes frente a un átomo."
+        },
+        {
+          "letter": "B",
+          "text": "La unidad básica de la materia formada por protones, neutrones y electrones.",
+          "is_correct": true,
+          "feedback": "Correcta, porque define el átomo y nombra sus tres partículas fundamentales."
+        },
+        {
+          "letter": "C",
+          "text": "Un planeta diminuto que gira alrededor de la panela.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque confunde el átomo con un cuerpo astronómico."
+        },
+        {
+          "letter": "D",
+          "text": "Una gota de agua que cae de la llave del laboratorio.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque una gota contiene billones de átomos, no es un átomo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El átomo es la unidad más pequeña que conserva las propiedades de un elemento. Aunque hoy sabemos que tiene partes internas, sigue siendo el bloque con el que se arman las moléculas del agua, del azúcar de la panela y del aire.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-7-2026-W15-estructura-atomica-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W15-estructura-atomica-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la carga eléctrica de protones, neutrones y electrones?",
+      "context": "En una clase de Sincelejo, los estudiantes juegan con pelotas rojas, grises y azules que representan las partes del átomo en una maqueta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Protón positivo, neutrón sin carga y electrón negativo.",
+          "is_correct": true,
+          "feedback": "Correcta, porque asigna a cada partícula su carga correcta."
+        },
+        {
+          "letter": "B",
+          "text": "Protón negativo, neutrón positivo y electrón sin carga.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque invierte las cargas reales de las partículas."
+        },
+        {
+          "letter": "C",
+          "text": "Las tres partículas son positivas en Sincelejo y negativas en Bogotá.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la carga no cambia según la ciudad."
+        },
+        {
+          "letter": "D",
+          "text": "Las tres partículas no tienen carga ni masa de ningún tipo.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque protones y electrones sí tienen carga y las tres tienen masa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El protón aporta carga positiva desde el núcleo, el electrón aporta carga negativa desde afuera y el neutrón equilibra sin carga. En un átomo neutro hay igual número de protones y electrones, por eso la maqueta usa colores distintos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-7-2026-W15-estructura-atomica-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W15-estructura-atomica-001-MASTERY-bundle-v3",
+      "statement": "¿Dónde se ubica cada partícula en el átomo de oxígeno armado en Popayán?",
+      "context": "En el laboratorio de un colegio de Popayán, los estudiantes arman un átomo de oxígeno con 8 protones, 8 neutrones y 8 electrones usando chaquiras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todas revueltas dentro de una bolsa plástica sin orden alguno.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el átomo tiene zonas definidas para cada partícula."
+        },
+        {
+          "letter": "B",
+          "text": "Electrones en el centro y protones girando por fuera del colegio.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque invierte la estructura real del átomo."
+        },
+        {
+          "letter": "C",
+          "text": "Neutrones volando solos por el patio mientras el resto se esconde.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque los neutrones están ligados en el núcleo con los protones."
+        },
+        {
+          "letter": "D",
+          "text": "Protones y neutrones en el núcleo central y electrones girando alrededor en niveles.",
+          "is_correct": true,
+          "feedback": "Correcta, porque ubica el núcleo denso y la nube electrónica exterior."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Casi toda la masa está en el núcleo diminuto con protones y neutrones. Los electrones se mueven alrededor en niveles o capas. En el oxígeno, 8 electrones se reparten en dos niveles, y los del nivel externo definen cómo se une con otros átomos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W15-estructura-atomica-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W15-estructura-atomica-001-MASTERY-bundle-v4",
+      "statement": "¿Qué orden describe mejor la evolución de los modelos atómicos?",
+      "context": "En una cartelera de Villavicencio, un grupo presenta la historia de los modelos atómicos con dibujos de esfera sólida, pudín y sistema solar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dalton con esfera sólida, Thomson con cargas incrustadas, Rutherford con núcleo y Bohr con niveles definidos.",
+          "is_correct": true,
+          "feedback": "Correcta, porque ordena los cuatro modelos según los descubrimientos históricos."
+        },
+        {
+          "letter": "B",
+          "text": "Bohr con esfera sólida, Dalton con internet y Thomson con celulares en Villavicencio.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque mezcla épocas y tecnologías que no existían entonces."
+        },
+        {
+          "letter": "C",
+          "text": "Todos los modelos nacieron el mismo día con la misma idea del núcleo.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque cada experimento aportó una pieza distinta durante años."
+        },
+        {
+          "letter": "D",
+          "text": "Rutherford con pudín, Thomson con núcleo y Dalton con niveles de energía.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque asigna a cada científico el modelo de otro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dalton imaginó esferas indivisibles. Thomson halló el electrón y propuso el pudín con pasas. Rutherford con su lámina de oro halló el núcleo. Bohr ordenó los electrones en niveles. Cada modelo corrigió al anterior con evidencia nueva.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W15-estructura-atomica-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W15-estructura-atomica-001-MASTERY-bundle-v5",
+      "statement": "¿Cuántos protones, electrones y neutrones tiene un átomo neutro de sodio con esos datos?",
+      "context": "En un colegio de Neiva, la tabla del salón muestra que el sodio tiene número atómico 11 y número de masa 23.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "23 protones, 23 electrones y 11 neutrones, porque se suman los dos números.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el número atómico es el de protones, no la suma."
+        },
+        {
+          "letter": "B",
+          "text": "11 neutrones, 11 protones y 23 electrones, porque todo vale 11 en Neiva.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque confunde el papel de cada número en el cálculo."
+        },
+        {
+          "letter": "C",
+          "text": "11 protones, 11 electrones y 12 neutrones, porque neutrones es masa menos número atómico.",
+          "is_correct": true,
+          "feedback": "Correcta, porque aplica número atómico igual a protones y resta para hallar neutrones."
+        },
+        {
+          "letter": "D",
+          "text": "Cero partículas, porque el sodio de la tabla no existe en la vida real.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el sodio está en la sal de cocina usada a diario."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El número atómico 11 indica 11 protones y, si es neutro, 11 electrones. La masa 23 suma protones y neutrones, así que hay 12 neutrones. Con esa resta sencilla se arma cualquier átomo de la tabla.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W15-estructura-atomica-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W15-estructura-atomica-001-MASTERY-bundle-v6",
+      "statement": "¿Por qué el experimento de la lámina de oro obligó a abandonar el modelo de Thomson?",
+      "context": "En un museo de Bogotá, los estudiantes comparan dos dibujos: el pudín de pasas de Thomson y el átomo con núcleo pequeño de Rutherford.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque unas partículas rebotaron fuerte, lo que mostró un núcleo pequeño, denso y positivo en vez de una masa uniforme.",
+          "is_correct": true,
+          "feedback": "Correcta, porque el rebote solo se explica con un centro concentrado de carga y masa."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la lámina de oro se derritió con el calor de Bogotá y manchó el museo.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la lámina no se fundió ni el clima explica el rebote."
+        },
+        {
+          "letter": "C",
+          "text": "Porque Thomson dibujó mal el pudín y a nadie le gustó el sabor del dibujo.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el rechazo fue por datos del rebote, no por estética."
+        },
+        {
+          "letter": "D",
+          "text": "Porque Rutherford usó una linterna más brillante que encandiló a las partículas.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque usó partículas alfa reales, no luz de linterna."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Thomson creía la carga positiva dispersa como pudín. Pero algunas partículas alfa rebotaron como si chocaran con algo diminuto y pesado. Rutherford concluyó que la masa y la carga positiva están en un núcleo central y que el átomo es casi vacío, como el estadio El Campín con una arveja en el centro.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W15-estructura-atomica-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W15-estructura-atomica-001-MASTERY-bundle-v7",
+      "statement": "¿Qué relación tienen esos dos átomos de cloro y por qué siguen siendo cloro?",
+      "context": "En una clase de Riohacha, dos átomos de cloro tienen 17 protones, pero uno tiene 18 neutrones y otro tiene 20 neutrones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son elementos distintos porque tienen neutrones diferentes en Riohacha.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el elemento lo define el número de protones, no el de neutrones."
+        },
+        {
+          "letter": "B",
+          "text": "Son iones porque perdieron protones al viajar por La Guajira.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque ambos conservan 17 protones y los iones cambian electrones."
+        },
+        {
+          "letter": "C",
+          "text": "Son isótopos del mismo elemento porque comparten 17 protones y difieren en neutrones.",
+          "is_correct": true,
+          "feedback": "Correcta, porque define isótopo como igual protones con distinta masa."
+        },
+        {
+          "letter": "D",
+          "text": "Son moléculas de agua porque todo átomo con neutrones es agua.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el agua es una molécula de hidrógeno y oxígeno, no cloro."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El número de protones manda: 17 protones siempre es cloro. Cambiar neutrones crea isótopos con distinta masa, como cloro 35 y cloro 37. Cambiar electrones crea iones. Por eso la tabla ordena por número atómico y no por neutrones.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W15-estructura-atomica-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W15-estructura-atomica-001-MASTERY-bundle-v8",
+      "statement": "¿Qué le ocurrió al átomo de magnesio y qué carga final tiene?",
+      "context": "En un laboratorio de Bucaramanga, un átomo de magnesio con 12 protones pierde 2 electrones durante una reacción y queda con carga visible en el esquema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se volvió isótopo con carga cero porque perdió 2 protones en Bucaramanga.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque perder protones cambiaría el elemento y aquí se perdieron electrones."
+        },
+        {
+          "letter": "B",
+          "text": "Se volvió un ion positivo con carga 2 positivo porque quedó con más protones que electrones.",
+          "is_correct": true,
+          "feedback": "Correcta, porque perder electrones negativos deja exceso de carga positiva."
+        },
+        {
+          "letter": "C",
+          "text": "Se volvió un átomo neutro nuevo porque los electrones no tienen carga.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque los electrones sí tienen carga negativa y su pérdida deja carga."
+        },
+        {
+          "letter": "D",
+          "text": "Desapareció del laboratorio porque sin electrones la materia se esfuma.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el ion sigue existiendo con núcleo y electrones restantes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Perder 2 electrones deja 12 protones contra 10 electrones: sobran 2 cargas positivas. Se forma el ion magnesio 2 positivo, muy común en el agua y en la clorofila. Ganar electrones daría un ion negativo, como el cloro de la sal.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W15-estructura-atomica-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W15-estructura-atomica-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál cartel conviene elegir para grado séptimo y por qué?",
+      "context": "Una editorial de Cali con 20000000 de pesos duda entre dos carteles: uno muestra electrones girando como planetas en órbitas fijas y otro muestra una nube difusa de probabilidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El de planetas fijos porque los electrones son planetas reales que giran igual en Cali.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el modelo planetario es una simplificación superada por la nube electrónica."
+        },
+        {
+          "letter": "B",
+          "text": "El de planetas para introducir niveles y aclarar que es un modelo simplificado, anunciando la nube como modelo más preciso.",
+          "is_correct": true,
+          "feedback": "Correcta, porque equilibra didáctica de séptimo con honestidad científica."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguno porque en grado séptimo está prohibido dibujar átomos en Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque los DBA piden modelos atómicos básicos en este grado."
+        },
+        {
+          "letter": "D",
+          "text": "El de nube para examen de universidad porque los niños de 12 años ya dominan mecánica cuántica.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la nube formal exige matemáticas que aún no ven en séptimo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar material exige pensar en la edad. Bohr con niveles explica bien la tabla y los iones de séptimo, siempre que se diga que es un esquema útil y no una foto real. La nube es más fiel, pero sin base matemática confunde. Con 20000000 de pesos conviene el cartel de niveles con una nota que anuncie el modelo actual.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-7-2026-W15-estructura-atomica-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W15-estructura-atomica-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la evaluación científica de esas dos afirmaciones?",
+      "context": "En Montería circula la cadena de que los átomos se ven con lupa de colegio y de que al partir un átomo de oro se obtiene un pedacito de plata.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambas son falsas porque el átomo exige microscopios especiales y partir oro no crea plata sino partículas o energía.",
+          "is_correct": true,
+          "feedback": "Correcta, porque corrige el tamaño invisible y la conservación del elemento."
+        },
+        {
+          "letter": "B",
+          "text": "Ambas son ciertas porque la lupa del colegio aumenta billones de veces en Montería.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque ninguna lupa escolar alcanza la escala atómica."
+        },
+        {
+          "letter": "C",
+          "text": "Solo es cierta la del oro, porque partir átomos de oro fabrica plata para joyas.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque fragmentar el núcleo no convierte oro en plata de forma casera."
+        },
+        {
+          "letter": "D",
+          "text": "Solo es cierta la de la lupa, porque el oro sí se ve pero la plata no existe.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque ni el oro ni la plata se ven a escala atómica con lupa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un átomo mide diezmilmillonésimas de metro: solo microscopios de efecto túnel lo insinúan. Y dividir un átomo de oro destruye su identidad, no produce plata. La cadena de Montería confunde escalas y transformaciones nucleares que no ocurren en casa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-7-2026-W15-estructura-atomica-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}
