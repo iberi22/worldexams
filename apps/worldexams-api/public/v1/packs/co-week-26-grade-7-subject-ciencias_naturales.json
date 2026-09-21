@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-26-grade-7-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T10:30:58.548Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-7-2026-W26-suelos-agricultura-sostenible-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es el suelo y cómo está organizado?",
+      "context": "En una huerta escolar de Duitama, los estudiantes cavan un hueco y ven capas oscuras arriba y capas más claras y duras abajo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una mezcla de cemento y ladrillo que se compra en Duitama para construir salones.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el cemento construye, pero no es el suelo vivo donde crecen las plantas."
+        },
+        {
+          "letter": "B",
+          "text": "Una mezcla de minerales, materia orgánica, agua y aire organizada en capas llamadas horizontes.",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: define componentes y capas del perfil del suelo."
+        },
+        {
+          "letter": "C",
+          "text": "Solo agua de lluvia acumulada en un hueco sin tierra ni seres vivos.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el agua sola no sostiene raíces ni aporta nutrientes como el suelo."
+        },
+        {
+          "letter": "D",
+          "text": "Un plástico negro que se extiende sobre el patio para sembrar encima.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el plástico cubre, pero no aporta nutrientes ni deja respirar a las raíces."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El suelo se forma durante años por la roca que se rompe, los restos de plantas y animales y la acción de lombrices y microbios. Arriba está la capa oscura rica en humus donde crecen las raíces. Abajo hay capas con más minerales y finalmente roca. El aire y el agua entre las partículas permiten respirar a las raíces.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-7-2026-W26-suelos-agricultura-sostenible-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W26-suelos-agricultura-sostenible-001-MASTERY-bundle-v2",
+      "statement": "¿Qué es la agricultura sostenible?",
+      "context": "En una vereda de Salento, Quindío, un caficultor dice que quiere producir café sin agotar la tierra que heredará a sus hijos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Producir alimentos cuidando el suelo, el agua y la biodiversidad para seguir cosechando en el futuro.",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: une producción actual con conservación del suelo, agua y vida."
+        },
+        {
+          "letter": "B",
+          "text": "Sembrar solo con químicos fuertes cada semana hasta que el suelo de Salento quede blanco.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el exceso de químicos degrada el suelo y contamina el agua."
+        },
+        {
+          "letter": "C",
+          "text": "Quemar todo el rastrojo cada año porque el humo alimenta a las plantas de café.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: la quema destruye materia orgánica y mata organismos del suelo."
+        },
+        {
+          "letter": "D",
+          "text": "Abandonar la finca para que el café crezca solo sin ningún manejo ni cuidado.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: abandonar sin manejo permite plagas y erosión, no es producir de forma sostenible."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La agricultura sostenible busca tres metas: buena cosecha hoy, tierra sana mañana y campesinos con sustento digno. Usa abonos orgánicos, rotación, cobertura del suelo, ahorro de agua y control biológico. Así el suelo mantiene nutrientes, los ríos siguen limpios y la finca resiste sequías y plagas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-7-2026-W26-suelos-agricultura-sostenible-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W26-suelos-agricultura-sostenible-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué el compost mejora el suelo de la huerta escolar?",
+      "context": "En un colegio de Tunja, los estudiantes juntan cáscaras de papa, hojas secas y estiércol de cuy para hacer compost en la huerta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el compost de Tunja es una piedra que calienta las raíces en las noches frías.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el compost no es piedra caliente, sino materia orgánica descompuesta."
+        },
+        {
+          "letter": "B",
+          "text": "Porque aporta nutrientes y humus, retiene agua y alimenta a lombrices y microbios del suelo.",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: explica nutrición, estructura y vida del suelo con compost maduro."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el compost reemplaza por completo el sol y el agua que necesitan las plantas.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: sin luz ni agua no hay fotosíntesis aunque haya buen abono."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el compost mata todas las plantas y deja el suelo limpio para pintar encima.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el compost bien hecho nutre plantas, no las mata ni sirve para pintar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El compost es materia orgánica descompuesta por microbios con oxígeno y humedad. Al mezclarlo con el suelo, entrega nitrógeno, fósforo y otros nutrientes lentamente, esponja la tierra para que entre aire y agua, y alimenta a lombrices que abren canales. Así las hortalizas crecen sanas sin depender solo de fertilizantes comprados.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-7-2026-W26-suelos-agricultura-sostenible-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W26-suelos-agricultura-sostenible-001-MASTERY-bundle-v4",
+      "statement": "¿Qué práctica reduce mejor la erosión en esa ladera?",
+      "context": "En una ladera cafetera de Manizales, después de un aguacero el agua baja turbia y arrastra tierra hacia la quebrada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dejar el suelo desnudo y arar a favor de la pendiente para que el agua de Manizales corra más rápido.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el suelo desnudo y el surco a favor aceleran el arrastre de tierra."
+        },
+        {
+          "letter": "B",
+          "text": "Sembrar en curvas de nivel con barreras vivas y mantener cobertura de hojas sobre el suelo.",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: frena el agua, la infiltra y sujeta la tierra en la ladera."
+        },
+        {
+          "letter": "C",
+          "text": "Quemar la cobertura cada mes para que la ceniza tape los surcos de la ladera.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: la quema deja el suelo suelto y la primera lluvia se lleva ceniza y tierra."
+        },
+        {
+          "letter": "D",
+          "text": "Regar con manguera a presión durante el aguacero para empujar la tierra hacia arriba.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: más agua a presión aumenta la erosión en vez de detenerla."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La erosión se lleva primero la capa fértil. Sembrar en curvas de nivel acorta el recorrido del agua, las barreras de limoncillo o café la frenan y la cobertura de hojas amortigua las gotas. Así el agua entra al suelo en vez de arrastrarlo, la quebrada baja más limpia y la finca conserva su tierra productiva.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W26-suelos-agricultura-sostenible-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W26-suelos-agricultura-sostenible-001-MASTERY-bundle-v5",
+      "statement": "¿Por qué la rotación de cultivos mejoraría ese lote de Nariño?",
+      "context": "En Nariño, una familia siembra papa en el mismo lote tres años seguidos y cada vez la cosecha sale más pequeña y con más plagas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque cambiar de cultivo confunde a la luna y la papa crece solo de noche en Nariño.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: la luna no define la nutrición del suelo ni el ciclo de las plagas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque alternar familias de plantas equilibra nutrientes, corta ciclos de plagas y mejora la estructura del suelo.",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: explica descanso de nutrientes, control natural y diversidad radicular."
+        },
+        {
+          "letter": "C",
+          "text": "Porque sembrar siempre lo mismo enriquece el suelo y elimina todas las plagas para siempre.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el monocultivo continuo agota los mismos nutrientes y multiplica plagas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la rotación consiste en girar las papas en la bodega antes de venderlas.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: rotar es alternar cultivos en el lote, no girar tubérculos guardados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cada cultivo extrae nutrientes distintos y atrae plagas distintas. Repetir papa agota los mismos elementos y deja patógenos acumulados. Rotar con leguminosas como arveja o haba, que fijan nitrógeno con bacterias, más maíz o quinua, devuelve variedad al suelo, rompe el ciclo de la plaga y sostiene mejores cosechas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-7-2026-W26-suelos-agricultura-sostenible-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W26-suelos-agricultura-sostenible-001-MASTERY-bundle-v6",
+      "statement": "¿Qué explica la diferencia entre el suelo arenoso y el arcilloso?",
+      "context": "En un laboratorio de Villavicencio, dos muestras reciben la misma agua: una arenosa deja pasar todo rápido y una arcillosa se encharca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el color de la bolsa en Villavicencio decide si el agua pasa o se queda.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el color del empaque no cambia el tamaño de las partículas del suelo."
+        },
+        {
+          "letter": "B",
+          "text": "Que la arena tiene partículas grandes con poros amplios que drenan, y la arcilla tiene partículas finas que retienen agua.",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: relaciona tamaño de partícula y poros con drenaje y retención."
+        },
+        {
+          "letter": "C",
+          "text": "Que la arena fabrica agua nueva y la arcilla se come el agua con lombrices.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: ningún suelo fabrica agua y las lombrices no se beben el encharcamiento."
+        },
+        {
+          "letter": "D",
+          "text": "Que ambos suelos son idénticos y la diferencia la causó mirar mal el reloj.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: la textura distinta produce comportamientos hídricos opuestos y medibles."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La textura depende del tamaño de partículas: arena gruesa, limo medio y arcilla fina. Los poros grandes drenan rápido pero guardan pocos nutrientes. Los poros finos retienen agua y nutrientes, pero en exceso se encharcan y quitan aire a las raíces. El suelo franco, mezcla de las tres, es ideal porque equilibra drenaje, retención y fertilidad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W26-suelos-agricultura-sostenible-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W26-suelos-agricultura-sostenible-001-MASTERY-bundle-v7",
+      "statement": "¿Qué fenómeno explica el caño verde y el estancamiento de la cosecha?",
+      "context": "En el Huila, un agricultor aplica cada vez más fertilizante químico a su arrozal, pero la cosecha no mejora y el caño cercano se llena de algas verdes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que las algas del Huila fabrican fertilizante gratis y el arroz ya no necesita comer.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: las algas usan el exceso de nutrientes, no alimentan gratis al arroz."
+        },
+        {
+          "letter": "B",
+          "text": "Que el exceso de fertilizante se lava al agua, causa crecimiento de algas y acidifica o desequilibra el suelo.",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: describe lixiviación, eutrofización y daño al suelo por sobredosis."
+        },
+        {
+          "letter": "C",
+          "text": "Que el fertilizante se convierte en semillas de arroz dentro del caño.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el fertilizante disuelto no se transforma en semillas de arroz."
+        },
+        {
+          "letter": "D",
+          "text": "Que el caño verde es señal de agua pura y de suelo perfectamente sano.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el verdor por algas indica exceso de nutrientes y falta de oxígeno."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Más fertilizante no significa más cosecha: la planta solo absorbe cierta dosis y el resto se lava con la lluvia. El nitrógeno y el fósforo llegan al caño, las algas se multiplican, quitan oxígeno a los peces y el agua se deteriora. En el suelo, la sobredosis altera el pH y mata microbios. El análisis de suelo indica la dosis justa y el compost la complementa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-7-2026-W26-suelos-agricultura-sostenible-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W26-suelos-agricultura-sostenible-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué la finca diversa resiste mejor las plagas que el monocultivo?",
+      "context": "En el Valle del Cauca, un lote con monocultivo de caña sufre más plagas que la finca vecina que mezcla plátano, cacao, frutales y abejas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque en el Valle las plagas leen carteles y evitan fincas con muchos letreros de colores.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: las plagas responden a alimento y refugio, no a carteles."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la diversidad ofrece refugio a enemigos naturales, interrumpe el alimento continuo y reparte el riesgo.",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: explica control biológico, barreras y menor vulnerabilidad total."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el monocultivo nunca tiene plagas y la finca diversa las inventa con sus mezclas.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: invierte la realidad, el monocultivo concentra alimento para la plaga."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las abejas de la finca fumigan con químicos cada noche sin ayuda humana.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: las abejas polinizan, no aplican químicos contra plagas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El monocultivo es un banquete continuo para una sola plaga, que se multiplica sin freno. La finca diversa combina alturas, olores y floraciones que confunden a la plaga y albergan mariquitas, avispas y pájaros que la controlan. Si un cultivo falla, otros sostienen el ingreso. Por eso el policultivo y los sistemas agroforestales son más estables.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-7-2026-W26-suelos-agricultura-sostenible-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W26-suelos-agricultura-sostenible-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál plan integral es mejor para recuperar el suelo y cuidar la quebrada?",
+      "context": "Una familia de Boyacá tiene una ladera pequeña con suelo cansado, poco dinero y una quebrada que surte al vecindario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Quemar la ladera, sembrar papa hasta el borde de la quebrada y lavar los químicos en el agua de Boyacá.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: la quema y la siembra al borde destruyen suelo y contaminan el agua común."
+        },
+        {
+          "letter": "B",
+          "text": "Terrazas con cobertura, compost y rotación, franja de protección junto a la quebrada y riego medido.",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: integra conservación de suelo, agua y producción con bajo costo."
+        },
+        {
+          "letter": "C",
+          "text": "Pavimentar toda la ladera con cemento para que no se erosione y comprar toda la comida en la ciudad.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el cemento impide sembrar, aumenta escorrentía y arruina la finca."
+        },
+        {
+          "letter": "D",
+          "text": "Aplicar el doble de químico cada mes sin análisis y talar los árboles que dan sombra.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: más químico sin diagnóstico empobrece y talar aumenta erosión y calor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El mejor plan ataca las causas con recursos locales: terrazas que frenan el agua, mulch y compost que devuelven vida, rotación con leguminosas que aportan nitrógeno, y una franja de árboles nativos que filtra y protege la quebrada. Se evalúa con suelo más oscuro y suelto, agua más limpia y cosechas estables sin gastar de más.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-7-2026-W26-suelos-agricultura-sostenible-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W26-suelos-agricultura-sostenible-001-MASTERY-bundle-v10",
+      "statement": "¿Cómo se evalúa científicamente esa afirmación?",
+      "context": "En la feria de Pamplona, un expositor afirma que quemar el suelo cada año lo hace más fértil y que los microbios y lombrices no importan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta porque en Pamplona el fuego crea tierra nueva y los microbios nunca existieron.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el fuego no crea suelo y los microbios son millones por cada puñado."
+        },
+        {
+          "letter": "B",
+          "text": "Es falsa porque la quema destruye materia orgánica y organismos, empobrece el suelo y aumenta la erosión.",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: refuta con pérdida de humus, muerte biológica y suelo desprotegido."
+        },
+        {
+          "letter": "C",
+          "text": "Es verdadera porque la ceniza reemplaza para siempre toda la vida del suelo.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: la ceniza aporta pocos minerales breves, pero no reemplaza humus ni vida."
+        },
+        {
+          "letter": "D",
+          "text": "Es irrelevante porque el suelo es roca muerta y nunca cambia con el manejo.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el suelo es un ecosistema vivo que responde al manejo bueno o malo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La quema volatiliza el nitrógeno, quema el humus que esponja y mata lombrices, hongos y bacterias que liberan nutrientes. La ceniza da un impulso corto de potasio, pero deja el suelo desnudo ante la lluvia. La evidencia muestra que tras quemas repetidas la fertilidad cae y la erosión crece. Alternativas como compostar el rastrojo conservan fertilidad duradera.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.45,
+      "bundle_id": "CO-CN-7-2026-W26-suelos-agricultura-sostenible-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}
