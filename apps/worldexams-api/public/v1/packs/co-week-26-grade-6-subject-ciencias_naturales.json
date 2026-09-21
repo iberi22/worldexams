@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-26-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T05:56:19.178Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-6-2026-W26-sistema-respiratorio-circulatorio-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la vía correcta por la que el aire ingresa al sistema respiratorio?",
+      "context": "En la clase de biología de un colegio de Santa Marta, la profesora pide a los estudiantes señalar por dónde entra el aire al cuerpo durante la respiración.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nariz o boca, faringe, laringe, tráquea, bronquios y pulmones",
+          "is_correct": true,
+          "feedback": "Correcto. Ese es el recorrido del aire hasta los pulmones."
+        },
+        {
+          "letter": "B",
+          "text": "Boca, esófago, estómago y pulmones",
+          "is_correct": false,
+          "feedback": "Incorrecto. El esófago lleva alimento al estómago, no aire."
+        },
+        {
+          "letter": "C",
+          "text": "Nariz, venas, corazón y pulmones",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aire no viaja por las venas."
+        },
+        {
+          "letter": "D",
+          "text": "Pulmones, bronquios, tráquea y estómago",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aire no llega al estómago por esa vía."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El aire entra por la nariz o la boca, pasa por la faringe y la laringe, sigue por la tráquea, se reparte por los bronquios y llega a los pulmones, donde ocurre el intercambio de gases.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-6-2026-W26-sistema-respiratorio-circulatorio-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W26-sistema-respiratorio-circulatorio-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué el corazón late más rápido durante la actividad física?",
+      "context": "Un niño de Valledupar pregunta por qué el corazón late más rápido cuando corre en el patio del colegio que cuando está sentado en clase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los músculos necesitan más oxígeno y nutrientes, y el corazón debe bombear sangre con mayor rapidez",
+          "is_correct": true,
+          "feedback": "Correcto. El aumento del trabajo muscular exige más sangre."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el corazón se enfría y necesita moverse",
+          "is_correct": false,
+          "feedback": "Incorrecto. El corazón late más por la demanda de oxígeno, no por enfriarse."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los huesos producen más sangre al saltar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los huesos no producen la sangre que se bombea."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el aire de la casa tiene más oxígeno que el del patio",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia está en la demanda del cuerpo, no en el lugar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Durante el ejercicio, los músculos consumen más oxígeno y producen más dióxido de carbono; para responder, el corazón aumenta su frecuencia y bombea más sangre que transporta oxígeno y retira desechos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-6-2026-W26-sistema-respiratorio-circulatorio-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W26-sistema-respiratorio-circulatorio-001-MASTERY-bundle-v3",
+      "statement": "¿Qué demuestra la presencia de burbujas al soplar por el pitillo?",
+      "context": "En el laboratorio de un colegio de Ibagué, los estudiantes soplan dentro de un vaso con agua con un pitillo y observan burbujas que salen de su boca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el aire que exhalamos ocupa espacio y sale de los pulmones",
+          "is_correct": true,
+          "feedback": "Correcto. El gas exhalado desplaza el agua y forma burbujas."
+        },
+        {
+          "letter": "B",
+          "text": "Que los pulmones producen agua líquida",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los pulmones no producen el agua del vaso."
+        },
+        {
+          "letter": "C",
+          "text": "Que el cuerpo no necesita oxígeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. El experimento muestra la exhalación, no la ausencia de necesidad de oxígeno."
+        },
+        {
+          "letter": "D",
+          "text": "Que el corazón bombea el aire directamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. El corazón bombea sangre, no aire."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al soplar por el pitillo, el aire que estaba en los pulmones sale y desplaza el agua formando burbujas; esto demuestra que el aire exhalado es materia que ocupa espacio y que proviene del sistema respiratorio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-6-2026-W26-sistema-respiratorio-circulatorio-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W26-sistema-respiratorio-circulatorio-001-MASTERY-bundle-v4",
+      "statement": "¿Qué estructura impide que el agua o el alimento entren a la tráquea cuando tragamos?",
+      "context": "Un pescador de la ciénaga de Ayapel, Córdoba, explica que en el agua poco profunda debe respirar por un tubo para no llenar sus pulmones de agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La epiglotis, que cierra la entrada de la laringe al tragar",
+          "is_correct": true,
+          "feedback": "Correcto. La epiglotis actúa como una tapa."
+        },
+        {
+          "letter": "B",
+          "text": "Los bronquios, que filtran el agua antes de llegar al pulmón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los bronquios conducen el aire, no filtran agua."
+        },
+        {
+          "letter": "C",
+          "text": "El diafragma, que empuja el agua fuera del cuerpo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diafragma participa en la respiración, no en cerrar la vía del aire."
+        },
+        {
+          "letter": "D",
+          "text": "Las vellosidades del intestino delgado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pertenecen al sistema digestivo y no protegen la tráquea."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La epiglotis es una lámina que cubre la entrada de la laringe durante la deglución; así evita que los alimentos o líquidos pasen a la tráquea y se dirijan al sistema digestivo por el esófago.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.79,
+      "bundle_id": "CO-CN-6-2026-W26-sistema-respiratorio-circulatorio-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W26-sistema-respiratorio-circulatorio-001-MASTERY-bundle-v5",
+      "statement": "¿Qué componentes de la sangre transportan el oxígeno y qué función cumple el corazón?",
+      "context": "En una campaña de salud en Pereira, una enfermera explica que la sangre lleva el oxígeno a todo el cuerpo y que el corazón es una bomba.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los glóbulos rojos transportan el oxígeno y el corazón impulsa la sangre por todo el cuerpo",
+          "is_correct": true,
+          "feedback": "Correcto. Los glóbulos rojos llevan oxígeno y el corazón actúa como bomba."
+        },
+        {
+          "letter": "B",
+          "text": "Los glóbulos blancos transportan el oxígeno y el corazón lo fabrica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los glóbulos blancos defienden el cuerpo, y el corazón no produce oxígeno."
+        },
+        {
+          "letter": "C",
+          "text": "Las plaquetas transportan el oxígeno y el corazón lo almacena",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plaquetas participan en la coagulación."
+        },
+        {
+          "letter": "D",
+          "text": "El plasma transporta el oxígeno y el corazón filtra la sangre",
+          "is_correct": false,
+          "feedback": "Incorrecto. El plasma transporta nutrientes y sustancias, y el corazón no filtra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La sangre está formada por plasma, glóbulos rojos, glóbulos blancos y plaquetas; los glóbulos rojos contienen hemoglobina que fija el oxígeno, mientras el corazón bombea la sangre para que llegue a todos los órganos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CN-6-2026-W26-sistema-respiratorio-circulatorio-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W26-sistema-respiratorio-circulatorio-001-MASTERY-bundle-v6",
+      "statement": "¿Qué análisis explica el cambio en la composición del aire entre la inspiración y la espiración?",
+      "context": "En un colegio de Armenia, los estudiantes comparan el aire que entra y el que sale de los pulmones usando un sensor de gases y notan que el aire exhalado contiene más dióxido de carbono.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En los alvéolos ocurre el intercambio gaseoso: el oxígeno pasa a la sangre y el dióxido de carbono pasa al aire exhalado",
+          "is_correct": true,
+          "feedback": "Correcto. El intercambio en los alvéolos modifica la composición del aire."
+        },
+        {
+          "letter": "B",
+          "text": "El aire cambia porque los pulmones lo mezclan con agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. La humedad no explica el aumento principal de dióxido de carbono."
+        },
+        {
+          "letter": "C",
+          "text": "El dióxido de carbono viene del estómago durante la respiración",
+          "is_correct": false,
+          "feedback": "Incorrecto. El dióxido de carbono es producido por las células del cuerpo."
+        },
+        {
+          "letter": "D",
+          "text": "La composición del aire no cambia al respirar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aire exhalado tiene más dióxido de carbono y menos oxígeno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En los alvéolos pulmonares, el oxígeno del aire pasa a la sangre y el dióxido de carbono de la sangre pasa al aire de los pulmones; por eso el aire espirado contiene menos oxígeno y más dióxido de carbono que el inspirado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.71,
+      "bundle_id": "CO-CN-6-2026-W26-sistema-respiratorio-circulatorio-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W26-sistema-respiratorio-circulatorio-001-MASTERY-bundle-v7",
+      "statement": "¿Qué ventaja aporta la circulación doble, pulmonar y sistémica, al cuerpo humano?",
+      "context": "Un médico de Bogotá describe la doble circulación humana: la sangre pasa dos veces por el corazón en cada recorrido completo, una hacia los pulmones y otra hacia el resto del cuerpo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mantiene separada la sangre con oxígeno de la sangre sin oxígeno y permite enviar la sangre oxigenada al cuerpo con mayor presión",
+          "is_correct": true,
+          "feedback": "Correcto. La separación y la presión mejoran el aporte de oxígeno."
+        },
+        {
+          "letter": "B",
+          "text": "Permite que la sangre viaje una sola vez por el corazón",
+          "is_correct": false,
+          "feedback": "Incorrecto. La circulación doble implica dos pasos por el corazón."
+        },
+        {
+          "letter": "C",
+          "text": "Evita que la sangre llegue a los pulmones",
+          "is_correct": false,
+          "feedback": "Incorrecto. La circulación pulmonar precisamente lleva la sangre a los pulmones."
+        },
+        {
+          "letter": "D",
+          "text": "Hace que el corazón deje de latir al dormir",
+          "is_correct": false,
+          "feedback": "Incorrecto. El corazón late siempre, incluso al dormir."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La circulación doble consta de un circuito pulmonar y uno sistémico: la sangre desoxigenada va a los pulmones para captar oxígeno y luego regresa al corazón, que la impulsa hacia el cuerpo. Esta separación mejora el aporte de oxígeno y mantiene presiones adecuadas en cada circuito.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CN-6-2026-W26-sistema-respiratorio-circulatorio-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W26-sistema-respiratorio-circulatorio-001-MASTERY-bundle-v8",
+      "statement": "¿Qué análisis explica la relación entre el sistema respiratorio y el circulatorio durante el esfuerzo?",
+      "context": "En una vereda del Caquetá, un habitante que sube una loma empinada siente que su respiración y su pulso aumentan al mismo tiempo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos sistemas trabajan coordinados: la respiración capta más oxígeno y la circulación lo distribuye rápidamente a los músculos",
+          "is_correct": true,
+          "feedback": "Correcto. Ambos sistemas cooperan para cubrir la demanda de oxígeno."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos sistemas son independientes y no se afectan entre sí",
+          "is_correct": false,
+          "feedback": "Incorrecto. La actividad física altera a ambos de forma coordinada."
+        },
+        {
+          "letter": "C",
+          "text": "El sistema circulatorio reemplaza al respiratorio al subir",
+          "is_correct": false,
+          "feedback": "Incorrecto. La circulación no reemplaza la función de los pulmones."
+        },
+        {
+          "letter": "D",
+          "text": "El aumento del pulso impide que el oxígeno llegue a los músculos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aumento del pulso mejora el aporte de oxígeno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El sistema respiratorio y el circulatorio forman una unidad funcional: los pulmones captan el oxígeno del aire y la sangre lo transporta; durante el esfuerzo, ambos aceleran su trabajo para abastecer de oxígeno y retirar dióxido de carbono de los músculos activos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CN-6-2026-W26-sistema-respiratorio-circulatorio-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W26-sistema-respiratorio-circulatorio-001-MASTERY-bundle-v9",
+      "statement": "¿Qué evaluación conjunta de las tres afirmaciones es correcta?",
+      "context": "En un debate escolar de Cartagena, tres estudiantes sostienen: 1) Fumar daña los pulmones. 2) La actividad física mejora la circulación. 3) El aire espirado tiene más oxígeno que el inspirado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La 1 es verdadera, la 2 es verdadera y la 3 es falsa porque el aire espirado tiene menos oxígeno y más dióxido de carbono",
+          "is_correct": true,
+          "feedback": "Correcto. Valida los hábitos saludables y corrige el error sobre el aire espirado."
+        },
+        {
+          "letter": "B",
+          "text": "Las tres son verdaderas porque la respiración no cambia el aire",
+          "is_correct": false,
+          "feedback": "Incorrecto. La respiración sí modifica la composición del aire."
+        },
+        {
+          "letter": "C",
+          "text": "Solo la 3 es verdadera y las demás son falsas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La 3 es falsa y las dos primeras son verdaderas."
+        },
+        {
+          "letter": "D",
+          "text": "Las tres son falsas porque el tabaco y el ejercicio no afectan el cuerpo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos tienen efectos comprobados sobre la salud respiratoria y circulatoria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar estas afirmaciones exige conocer los efectos reales: fumar deteriora los pulmones, el ejercicio fortalece el corazón y mejora la circulación, y el aire exhalado contiene menos oxígeno porque este pasó a la sangre.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-6-2026-W26-sistema-respiratorio-circulatorio-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W26-sistema-respiratorio-circulatorio-001-MASTERY-bundle-v10",
+      "statement": "¿Qué medida conviene priorizar y por qué?",
+      "context": "Una autoridad de salud de Manizales debe elegir, con un presupuesto limitado en COP, la medida más efectiva para reducir enfermedades respiratorias y circulatorias en el municipio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Promover actividad física, alimentación saludable y espacios libres de humo, porque actúan sobre causas comunes a ambos sistemas y benefician a la población",
+          "is_correct": true,
+          "feedback": "Correcto. La prevención integral reduce factores de riesgo compartidos."
+        },
+        {
+          "letter": "B",
+          "text": "Comprar equipos costosos que solo sirvan a pocas personas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un gasto alto y de bajo alcance no es la mejor prioridad."
+        },
+        {
+          "letter": "C",
+          "text": "Repartir medicamentos sin diagnosticar a toda la comunidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Medicar sin diagnóstico puede ser perjudicial y no previene la enfermedad."
+        },
+        {
+          "letter": "D",
+          "text": "Esperar a que las enfermedades aparezcan y luego tratarlas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La prevención es más eficaz y económica que tratar solo cuando ya enfermaron."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar una medida de salud pública implica considerar su impacto sobre los factores de riesgo y su costo. Promover el ejercicio, una buena alimentación y ambientes sin humo previene simultáneamente problemas respiratorios y circulatorios en toda la comunidad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-6-2026-W26-sistema-respiratorio-circulatorio-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}
