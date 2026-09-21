@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-38-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T06:54:47.620Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-6-2026-W38-estados-materia-cambios-fisicos-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la característica principal de los estados sólido, líquido y gaseoso?",
+      "context": "En una cocina de Bogotá, una estudiante observa un cubo de hielo, un vaso con agua y el vapor que sale de una olla caliente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El sólido tiene forma y volumen definidos, el líquido tiene volumen definido pero adopta la forma del recipiente, y el gas ocupa todo el espacio disponible",
+          "is_correct": true,
+          "feedback": "Correcto. Cada estado se distingue por su forma y su volumen."
+        },
+        {
+          "letter": "B",
+          "text": "Los tres estados tienen forma y volumen definidos iguales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo el sólido tiene forma propia definida."
+        },
+        {
+          "letter": "C",
+          "text": "El gas tiene forma definida y el sólido no tiene volumen propio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es al contrario: el sólido sí tiene forma y volumen definidos."
+        },
+        {
+          "letter": "D",
+          "text": "El líquido no tiene volumen definido ni ocupa espacio",
+          "is_correct": false,
+          "feedback": "Incorrecto. El líquido sí tiene volumen definido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los estados de la materia se diferencian por la forma y el volumen: en los sólidos las partículas están muy unidas y ordenadas, por eso mantienen forma y volumen; en los líquidos las partículas se deslizan unas sobre otras y el material adopta la forma del recipiente conservando su volumen; en los gases las partículas están muy separadas y se expanden hasta ocupar todo el espacio disponible.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-6-2026-W38-estados-materia-cambios-fisicos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W38-estados-materia-cambios-fisicos-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué el aire se comprime con facilidad mientras el agua casi no se comprime?",
+      "context": "En un laboratorio escolar de Pasto, los estudiantes comparan la facilidad con que se comprime el aire de una jeringa tapada y el agua de otra jeringa igual.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque en el gas las partículas están muy separadas y queda espacio entre ellas, mientras en el líquido las partículas están más juntas y casi no hay espacio libre",
+          "is_correct": true,
+          "feedback": "Correcto. La separación entre partículas explica la compresibilidad."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las partículas del agua son más grandes y pesadas que las del aire",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia está en la distancia entre partículas, no en su tamaño."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el aire no tiene masa y el agua sí",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aire también tiene masa."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el agua se escapa por la punta de la jeringa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La jeringa está tapada y el agua permanece dentro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La compresibilidad depende de cuánto espacio libre hay entre las partículas: en los gases las partículas están muy separadas, de modo que al empujar el émbolo se reduce ese espacio y el volumen disminuye; en los líquidos las partículas están muy próximas y esa cercanía impide reducir mucho el volumen. Este comportamiento se explica con el modelo de partículas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-6-2026-W38-estados-materia-cambios-fisicos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W38-estados-materia-cambios-fisicos-001-MASTERY-bundle-v3",
+      "statement": "¿Cómo deben organizar el experimento para que la comparación sea válida?",
+      "context": "En un colegio de Armenia, los estudiantes quieren comprobar si la temperatura influye en la rapidez con que se evapora el agua y preparan dos recipientes iguales, uno al sol y otro a la sombra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usar la misma cantidad de agua y recipientes iguales, cambiar solo la exposición al sol y medir el volumen restante cada cierto tiempo",
+          "is_correct": true,
+          "feedback": "Correcto. Se cambia una sola variable y se controlan las demás."
+        },
+        {
+          "letter": "B",
+          "text": "Poner distinta cantidad de agua en cada recipiente y medir a simple vista",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si cambia la cantidad de agua, no se puede comparar el efecto."
+        },
+        {
+          "letter": "C",
+          "text": "Usar recipientes de distinto tamaño y anotar solo lo que parece",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los recipientes deben ser iguales para comparar de forma justa."
+        },
+        {
+          "letter": "D",
+          "text": "Tapar un recipiente y dejar el otro abierto para que el experimento termine rápido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tapar impide la evaporación e introduce otra variable."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un experimento válido controla las variables: se mantiene igual todo lo que no se estudia y se modifica únicamente el factor que se quiere probar, en este caso la temperatura o la exposición al sol. Así, si el recipiente al sol pierde más agua, la diferencia puede atribuirse de manera confiable al calor.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-6-2026-W38-estados-materia-cambios-fisicos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W38-estados-materia-cambios-fisicos-001-MASTERY-bundle-v4",
+      "statement": "¿Qué cambio de estado ocurre y por qué?",
+      "context": "En Barranquilla, un estudiante saca de la nevera una botella fría y al poco tiempo observa gotitas de agua en su superficie exterior.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La condensación, porque el vapor de agua del aire se enfría al tocar la botella fría y pasa a estado líquido",
+          "is_correct": true,
+          "feedback": "Correcto. El vapor se condensa sobre la superficie fría."
+        },
+        {
+          "letter": "B",
+          "text": "La ebullición, porque el agua de la botella hierve por el calor del ambiente",
+          "is_correct": false,
+          "feedback": "Incorrecto. La botella está fría; el agua no está hirviendo."
+        },
+        {
+          "letter": "C",
+          "text": "La fusión, porque el hielo de la botella se derrite hacia afuera",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fusión es el paso de sólido a líquido dentro de la botella."
+        },
+        {
+          "letter": "D",
+          "text": "La sublimación, porque el agua pasa directamente de sólido a gas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aquí el vapor pasa a líquido, no al contrario."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La condensación es el cambio de estado en que un gas pasa a líquido al disminuir la temperatura. El aire cálido y húmedo de Barranquilla contiene vapor de agua que, al tocar la botella fría, cede calor, se enfría y forma las gotitas visibles en el exterior. El mismo proceso explica el empañamiento de los vidrios en clima frío.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-6-2026-W38-estados-materia-cambios-fisicos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W38-estados-materia-cambios-fisicos-001-MASTERY-bundle-v5",
+      "statement": "¿Cómo se clasifican los cambios que observan en la nieve?",
+      "context": "En la Sierra Nevada de Santa Marta, un grupo de estudiantes observa cómo el calor del día derrite parte de la nieve y el agua baja por las quebradas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son cambios físicos, porque el agua pasa de sólida a líquida sin convertirse en una sustancia nueva",
+          "is_correct": true,
+          "feedback": "Correcto. Cambia el estado, pero la sustancia sigue siendo agua."
+        },
+        {
+          "letter": "B",
+          "text": "Son cambios químicos, porque aparece una sustancia diferente",
+          "is_correct": false,
+          "feedback": "Incorrecto. La nieve derretida sigue siendo agua, no una sustancia nueva."
+        },
+        {
+          "letter": "C",
+          "text": "Son cambios irreversibles que destruyen la materia",
+          "is_correct": false,
+          "feedback": "Incorrecto. La materia no se destruye; el agua puede volver a congelarse."
+        },
+        {
+          "letter": "D",
+          "text": "Son cambios en los que el agua deja de existir",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua sigue existiendo en estado líquido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los cambios de estado son cambios físicos: varían la forma o el estado del material, pero no su composición, por lo que suelen ser reversibles. Al fundirse la nieve, el agua pasa de sólida a líquida y conserva sus propiedades; puede volver a congelarse si la temperatura desciende de nuevo, sin que se forme una sustancia distinta.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-6-2026-W38-estados-materia-cambios-fisicos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W38-estados-materia-cambios-fisicos-001-MASTERY-bundle-v6",
+      "statement": "¿Qué análisis explica el resultado de la segunda pesada?",
+      "context": "En un laboratorio de Medellín, los estudiantes pesan un frasco cerrado herméticamente con agua y lo dejan al sol hasta que el agua se evapora; luego vuelven a pesar el frasco sellado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La masa es igual a la inicial, porque en un sistema cerrado el vapor de agua queda atrapado dentro y la materia no se pierde",
+          "is_correct": true,
+          "feedback": "Correcto. La masa se conserva en los cambios físicos."
+        },
+        {
+          "letter": "B",
+          "text": "La masa disminuye, porque el agua desapareció por completo del frasco",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua no desaparece: se transforma en vapor dentro del frasco."
+        },
+        {
+          "letter": "C",
+          "text": "La masa aumenta, porque el agua produce materia nueva al evaporarse",
+          "is_correct": false,
+          "feedback": "Incorrecto. En un cambio físico no se crea materia nueva."
+        },
+        {
+          "letter": "D",
+          "text": "La masa cambia de forma impredecible y no puede compararse",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si el frasco está sellado, la masa se conserva y puede compararse."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ley de conservación de la masa indica que en un sistema cerrado la masa no se crea ni se destruye. Al evaporarse el agua dentro de un frasco sellado, las moléculas pasan al estado gaseoso pero siguen dentro, por lo que la masa total permanece igual; solo si el recipiente estuviera abierto el vapor escaparía y la masa medida disminuiría.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-6-2026-W38-estados-materia-cambios-fisicos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W38-estados-materia-cambios-fisicos-001-MASTERY-bundle-v7",
+      "statement": "¿Qué análisis permite diferenciar los dos procesos?",
+      "context": "En un taller de Quibdó, los estudiantes comparan dos situaciones: derretir mantequilla en una sartén y quemar un pedazo de madera hasta convertirlo en ceniza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Derretir la mantequilla es un cambio físico porque solo cambia de estado y puede volver a solidificarse, mientras quemar la madera es un cambio químico porque se forman sustancias nuevas como la ceniza y el humo",
+          "is_correct": true,
+          "feedback": "Correcto. La formación de sustancias nuevas distingue el cambio químico."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos son cambios físicos porque ambos requieren calor",
+          "is_correct": false,
+          "feedback": "Incorrecto. El calor no define el tipo de cambio, sino la formación de sustancias nuevas."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos son cambios químicos porque la materia se transforma",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fusión de la mantequilla no produce sustancias nuevas."
+        },
+        {
+          "letter": "D",
+          "text": "Quemar madera es un cambio físico porque la ceniza se puede ver",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se forman sustancias distintas, por lo que es un cambio químico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un cambio físico altera la forma, el tamaño o el estado del material sin modificar su composición, y suele ser reversible; un cambio químico produce sustancias nuevas con propiedades diferentes y generalmente es irreversible. Fundir mantequilla es un cambio físico, mientras la combustión de la madera es un cambio químico porque genera ceniza, gases y energía.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-6-2026-W38-estados-materia-cambios-fisicos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W38-estados-materia-cambios-fisicos-001-MASTERY-bundle-v8",
+      "statement": "¿Qué análisis explica por qué el charco se seca más rápido en esas condiciones?",
+      "context": "En un municipio cálido del Valle del Cauca, un grupo de estudiantes observa que un charco de agua se seca más rápido cuando hay sol y viento que cuando el aire está quieto y nublado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el calor aporta energía a las partículas del agua y el viento retira el vapor de la superficie, de modo que más moléculas escapan y la evaporación se acelera",
+          "is_correct": true,
+          "feedback": "Correcto. Calor y viento favorecen la evaporación."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el viento empuja el agua hacia el suelo y la hace desaparecer",
+          "is_correct": false,
+          "feedback": "Incorrecto. El viento no elimina el agua: facilita que pase a vapor."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el agua se convierte en una sustancia distinta al secarse",
+          "is_correct": false,
+          "feedback": "Incorrecto. La evaporación es un cambio físico: sigue siendo agua."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las nubes absorben el agua directamente del charco",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua llega a la atmósfera como vapor, no como líquido absorbido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaporación ocurre en la superficie del líquido cuando las moléculas con más energía escapan al aire. El calor aumenta la energía de las partículas y el viento aleja el vapor que ya está sobre la superficie, dejando espacio para que nuevas moléculas escapen; por eso un charco se seca antes en un día soleado y ventoso.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-6-2026-W38-estados-materia-cambios-fisicos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W38-estados-materia-cambios-fisicos-001-MASTERY-bundle-v9",
+      "statement": "¿Qué evaluación conjunta de las tres afirmaciones es correcta?",
+      "context": "En un foro escolar de Bucaramanga, tres estudiantes afirman: 1) Los cambios de estado son cambios físicos reversibles si se regresan las condiciones iniciales. 2) Durante la ebullición del agua la temperatura permanece constante mientras el líquido se transforma en vapor. 3) Al hervir, el agua desaparece y deja de existir como materia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La 1 es verdadera porque el cambio de estado no modifica la sustancia; la 2 es verdadera porque la energía se usa en el cambio de estado; y la 3 es falsa porque el agua sigue existiendo como vapor",
+          "is_correct": true,
+          "feedback": "Correcto. Distingue el cambio físico reversible y la conservación de la materia."
+        },
+        {
+          "letter": "B",
+          "text": "Las tres afirmaciones son verdaderas, porque el agua hervida se destruye",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua no se destruye: pasa al estado gaseoso."
+        },
+        {
+          "letter": "C",
+          "text": "Solo la 3 es verdadera, porque el vapor no es agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vapor de agua sí es agua en estado gaseoso."
+        },
+        {
+          "letter": "D",
+          "text": "Las tres afirmaciones son falsas, porque los cambios de estado son irreversibles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los cambios de estado son reversibles al variar la temperatura."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar estas afirmaciones exige distinguir cambio físico de pérdida de materia: durante un cambio de estado la sustancia conserva su identidad y el proceso puede revertirse al cambiar la temperatura; además, mientras el agua hierve, la energía que recibe se emplea en la transformación, por eso la temperatura no sube. El vapor sigue siendo agua, solo que en estado gaseoso.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-6-2026-W38-estados-materia-cambios-fisicos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W38-estados-materia-cambios-fisicos-001-MASTERY-bundle-v10",
+      "statement": "¿Qué decisión es más adecuada desde el punto de vista de la materia y sus cambios?",
+      "context": "Una familia de un municipio de clima cálido en el Cesar necesita conservar alimentos perecederos durante varios días y dispone de un presupuesto limitado en COP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conservar los alimentos refrigerados o congelados, porque al bajar la temperatura se reduce la actividad de los microorganismos y los cambios que descomponen el alimento",
+          "is_correct": true,
+          "feedback": "Correcto. El frío retarda el deterioro de los alimentos."
+        },
+        {
+          "letter": "B",
+          "text": "Dejar los alimentos al sol en un recipiente abierto para que se sequen y se conserven",
+          "is_correct": false,
+          "feedback": "Incorrecto. El calor y la humedad aceleran la descomposición."
+        },
+        {
+          "letter": "C",
+          "text": "Guardar los alimentos junto a sustancias químicas de limpieza",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso contamina los alimentos y pone en riesgo la salud."
+        },
+        {
+          "letter": "D",
+          "text": "Cocinar todos los alimentos y dejarlos a temperatura ambiente muchos días",
+          "is_correct": false,
+          "feedback": "Incorrecto. A temperatura ambiente los alimentos se dañan rápidamente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar esta situación exige aplicar los cambios físicos a la vida diaria: el frío no elimina los microorganismos, pero reduce su actividad y frena las reacciones que deterioran el alimento. Refrigerar o congelar prolonga la conservación de manera segura, mientras que el calor, la humedad y el contacto con otras sustancias aceleran el daño y pueden generar riesgos para la salud.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-6-2026-W38-estados-materia-cambios-fisicos-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}
