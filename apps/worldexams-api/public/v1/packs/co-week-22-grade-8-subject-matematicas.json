@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-22-grade-8-subject-matematicas",
+    "generated_at": "2026-09-21T23:38:05.294Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-8-2026-W22-longitud-area-circulo-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la fórmula de la longitud de la circunferencia de un círculo de radio $r$?",
+      "context": "En Medellín, los estudiantes miden con una cinta métrica el borde de una tapa circular del laboratorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$C = 2\\pi r$, porque el borde equivale a dos veces $\\pi$ por el radio.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la fórmula de la longitud o perímetro de la circunferencia."
+        },
+        {
+          "letter": "B",
+          "text": "$C = \\pi r^2$, porque se eleva el radio al cuadrado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la fórmula del área, no de la longitud."
+        },
+        {
+          "letter": "C",
+          "text": "$C = \\pi d^2$, porque se usa el diámetro al cuadrado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa expresión no corresponde ni a la longitud ni al área."
+        },
+        {
+          "letter": "D",
+          "text": "$C = 4\\pi r$, porque se multiplica por 4.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El factor correcto es 2, no 4."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La longitud de la circunferencia es el perímetro del círculo y se calcula con $C = 2\\pi r$. Como el diámetro es $d = 2r$, también se puede escribir $C = \\pi d$. El número $\\pi$ es la razón constante entre la longitud y el diámetro.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W22-longitud-area-circulo-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W22-longitud-area-circulo-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la fórmula del área de un círculo de radio $r$ y qué mide cada fórmula?",
+      "context": "En Bogotá, en la clase de geometría se comparan el borde y la superficie de platos circulares de distinto tamaño.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$A = 2\\pi r$, que mide la superficie encerrada por el círculo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la fórmula de la longitud, que mide el borde."
+        },
+        {
+          "letter": "B",
+          "text": "$A = \\pi r^2$, que mide la superficie encerrada por el círculo.",
+          "is_correct": true,
+          "feedback": "Correcto. El área usa el radio al cuadrado y mide la superficie."
+        },
+        {
+          "letter": "C",
+          "text": "$A = \\pi r^2$, que mide el borde del círculo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fórmula es correcta pero mide la superficie, no el borde."
+        },
+        {
+          "letter": "D",
+          "text": "$A = \\frac{1}{2}\\pi r$, que mide la superficie del círculo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa expresión no corresponde al área de ningún círculo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El área $A = \\pi r^2$ mide la superficie encerrada y se expresa en unidades cuadradas, mientras la longitud $C = 2\\pi r$ mide el borde y se expresa en unidades lineales. Distinguir qué mide cada fórmula evita confundirlas en los problemas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W22-longitud-area-circulo-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W22-longitud-area-circulo-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la longitud de la circunferencia de la rueda?",
+      "context": "En Cali, una rueda artesanal de radio 7 cm se usa en la carroza del desfile. Usa $\\pi \\approx \\frac{22}{7}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "22 cm, porque se calcula $\\pi$ por el radio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta multiplicar por 2 según la fórmula $C = 2\\pi r$."
+        },
+        {
+          "letter": "B",
+          "text": "154 cm, porque se calcula $\\pi$ por el radio al cuadrado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese cálculo da el área, no la longitud."
+        },
+        {
+          "letter": "C",
+          "text": "44 cm, porque se calcula 2 por 22/7 por 7.",
+          "is_correct": true,
+          "feedback": "Correcto. Al simplificar, $2 \\times 22 = 44$ cm."
+        },
+        {
+          "letter": "D",
+          "text": "66 cm, porque se calcula 3 por 22.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese producto no usa ni el radio ni la fórmula correcta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se aplica $C = 2\\pi r = 2 \\times \\frac{22}{7} \\times 7 = 2 \\times 22 = 44$ cm. El 7 del radio se simplifica con el 7 del denominador, por eso usar $\\pi \\approx \\frac{22}{7}$ es práctico cuando el radio es múltiplo de 7.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-8-2026-W22-longitud-area-circulo-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W22-longitud-area-circulo-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el área del mantel?",
+      "context": "En Barranquilla, un mantel circular de radio 7 cm se borda para la mesa del laboratorio. Usa $\\pi \\approx \\frac{22}{7}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "44 centímetros cuadrados, porque se calcula 2 por $\\pi$ por 7.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese cálculo da la longitud, no el área."
+        },
+        {
+          "letter": "B",
+          "text": "21 centímetros cuadrados, porque se calcula 3 por 7.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese producto no usa ni $\\pi$ ni el cuadrado del radio."
+        },
+        {
+          "letter": "C",
+          "text": "77 centímetros cuadrados, porque se calcula $\\pi$ por 7 una sola vez.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El radio debe elevarse al cuadrado: $7^2 = 49$."
+        },
+        {
+          "letter": "D",
+          "text": "154 centímetros cuadrados, porque se calcula 22/7 por 49.",
+          "is_correct": true,
+          "feedback": "Correcto. Al simplificar, $22 \\times 7 = 154$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Se aplica $A = \\pi r^2 = \\frac{22}{7} \\times 7^2 = \\frac{22}{7} \\times 49 = 22 \\times 7 = 154$ cm². El área se expresa en unidades cuadradas porque mide superficie.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W22-longitud-area-circulo-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W22-longitud-area-circulo-001-MASTERY-bundle-v5",
+      "statement": "¿Cuántos metros de cinta se necesitan?",
+      "context": "En Cartagena, una fuente circular tiene un diámetro de 10 metros y se va a instalar una cinta luminosa en todo su borde. Usa $\\pi \\approx 3.14$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "31.4 metros, porque se multiplica $\\pi$ por el diámetro.",
+          "is_correct": true,
+          "feedback": "Correcto. Con el diámetro se usa directamente $C = \\pi d$."
+        },
+        {
+          "letter": "B",
+          "text": "62.8 metros, porque se multiplica 2 por $\\pi$ por 10.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese cálculo usa el diámetro como si fuera el radio."
+        },
+        {
+          "letter": "C",
+          "text": "78.5 metros, porque se calcula $\\pi$ por 25.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor corresponde al área, no a la longitud."
+        },
+        {
+          "letter": "D",
+          "text": "15.7 metros, porque se divide $\\pi$ por 10 entre 2.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud no se divide entre 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Conocido el diámetro se usa $C = \\pi d = 3.14 \\times 10 = 31.4$ m. Si se quisiera usar $C = 2\\pi r$, primero se hallaría $r = 10/2 = 5$ m y daría lo mismo: $2 \\times 3.14 \\times 5 = 31.4$ m.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W22-longitud-area-circulo-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W22-longitud-area-circulo-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el radio de la matera?",
+      "context": "En Bucaramanga, el borde de una matera circular mide 44 metros de cinta decorativa. Usa $\\pi \\approx \\frac{22}{7}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "14 metros, porque se divide 44 entre $\\pi$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividir entre $\\pi$ da el diámetro, no el radio."
+        },
+        {
+          "letter": "B",
+          "text": "7 metros, porque se despeja $r = 44$ entre $2\\pi$.",
+          "is_correct": true,
+          "feedback": "Correcto. Al operar, $r = 44 \\times 7 / 44 = 7$."
+        },
+        {
+          "letter": "C",
+          "text": "22 metros, porque se divide 44 entre 2.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa división ignora el factor $\\pi$ de la fórmula."
+        },
+        {
+          "letter": "D",
+          "text": "3.5 metros, porque se divide 7 entre 2.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor es la mitad del radio correcto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se despeja el radio de $C = 2\\pi r$: $r = \\frac{C}{2\\pi} = \\frac{44}{2 \\times 22/7} = \\frac{44 \\times 7}{44} = 7$ m. Analizar el problema hacia atrás, del borde al radio, exige despejar la fórmula.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-8-2026-W22-longitud-area-circulo-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W22-longitud-area-circulo-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el radio de la glorieta?",
+      "context": "En Medellín, una glorieta tiene un área de $81\\pi$ metros cuadrados y se quiere hallar su radio para ubicar una escultura en el centro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "81 metros, porque el radio es el número que acompaña a $\\pi$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número 81 es el cuadrado del radio, no el radio."
+        },
+        {
+          "letter": "B",
+          "text": "40.5 metros, porque se divide 81 entre 2.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El área usa el cuadrado del radio, no el doble."
+        },
+        {
+          "letter": "C",
+          "text": "9 metros, porque la raíz cuadrada de 81 es 9.",
+          "is_correct": true,
+          "feedback": "Correcto. De $r^2 = 81$ se obtiene $r = 9$."
+        },
+        {
+          "letter": "D",
+          "text": "18 metros, porque se duplica el valor 9.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicar 9 da el diámetro, no el radio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "De $A = \\pi r^2$ se iguala $\\pi r^2 = 81\\pi$, se simplifica $\\pi$ y queda $r^2 = 81$, de donde $r = \\sqrt{81} = 9$ m. El radio siempre es positivo, así que se toma la raíz positiva.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-8-2026-W22-longitud-area-circulo-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W22-longitud-area-circulo-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el área del vitral?",
+      "context": "En Bogotá, un vitral tiene forma de semicírculo de radio 6 cm y se quiere calcular el vidrio necesario. Usa $\\pi \\approx 3.14$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "113.04 centímetros cuadrados, porque se calcula $\\pi$ por 36.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor es el área del círculo completo, no de la mitad."
+        },
+        {
+          "letter": "B",
+          "text": "$36\\pi$ centímetros cuadrados, porque se usa el diámetro al cuadrado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $36\\pi$ también es el círculo completo con $r = 6$."
+        },
+        {
+          "letter": "C",
+          "text": "18.84 centímetros cuadrados, porque se calcula $\\pi$ por 6.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese cálculo no eleva el radio al cuadrado ni divide entre 2."
+        },
+        {
+          "letter": "D",
+          "text": "$18\\pi$ centímetros cuadrados, porque es la mitad de $36\\pi$.",
+          "is_correct": true,
+          "feedback": "Correcto. El semicírculo es la mitad del círculo: $36\\pi / 2 = 18\\pi \\approx 56.52$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El área del círculo completo es $\\pi \\times 6^2 = 36\\pi$. Como el vitral es un semicírculo, se divide entre 2: $\\frac{36\\pi}{2} = 18\\pi \\approx 56.52$ cm². Analizar la fracción del círculo evita olvidar la división final.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-8-2026-W22-longitud-area-circulo-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W22-longitud-area-circulo-001-MASTERY-bundle-v9",
+      "statement": "¿Es correcta la afirmación del estudiante?",
+      "context": "En Cali, un estudiante afirma que si el radio de una pizza se duplica, su área también se duplica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, porque el área se cuadruplica: $(2r)^2 = 4r^2$.",
+          "is_correct": true,
+          "feedback": "Correcto. El factor 2 queda elevado al cuadrado y multiplica por 4."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque todas las medidas del círculo crecen en la misma proporción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud se duplica, pero el área crece con el cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque el área se mantiene igual al duplicar el radio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un radio mayor siempre encierra mayor superficie."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, porque $2 \\times \\pi r^2$ es el doble de $\\pi r^2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicar el radio no equivale a multiplicar toda el área por 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si el radio pasa de $r$ a $2r$, la nueva área es $\\pi(2r)^2 = 4\\pi r^2$, es decir 4 veces la original. En cambio la longitud sí se duplica: $2\\pi(2r) = 2 \\times (2\\pi r)$. Evaluar el efecto de escala exige aplicar el cambio dentro de la fórmula, no fuera de ella.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-8-2026-W22-longitud-area-circulo-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W22-longitud-area-circulo-001-MASTERY-bundle-v10",
+      "statement": "¿Cuánto cuesta la malla para todo el borde del parque?",
+      "context": "En Barranquilla, un parque circular de radio 10 m se va a cercar con malla que cuesta 25000 COP por metro. Usa $\\pi \\approx 3.14$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "785000 COP, porque se multiplica el área por el precio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El área no mide el borde; se debe usar la longitud."
+        },
+        {
+          "letter": "B",
+          "text": "1570000 COP, porque el perímetro es 62.8 m y se multiplica por 25000.",
+          "is_correct": true,
+          "feedback": "Correcto. Se calcula $2 \\times 3.14 \\times 10 = 62.8$ y luego $62.8 \\times 25000$."
+        },
+        {
+          "letter": "C",
+          "text": "3768000 COP, porque se usa el área de 314 m².",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor sería el costo del césped, no de la malla del borde."
+        },
+        {
+          "letter": "D",
+          "text": "5348000 COP, porque se suman el borde y la superficie.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La malla solo cubre el borde, no la superficie."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Primero se halla el borde: $C = 2 \\times 3.14 \\times 10 = 62.8$ m. Luego el costo: $62.8 \\times 25000 = 1570000$ COP. Evaluar el problema exige elegir la magnitud correcta (longitud para cercar, área para encespar) antes de multiplicar por el precio.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-8-2026-W22-longitud-area-circulo-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W22-longitud-area-circulo-001-MASTERY-bundle-v11",
+      "statement": "¿Cuántas veces es mayor el área de la rotonda grande frente a la pequeña?",
+      "context": "En Cartagena, dos rotondas tienen radios de 5 m y 10 m y se comparan sus áreas de jardín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 veces, porque el radio es el doble.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El radio se duplica, pero el área depende del cuadrado del radio."
+        },
+        {
+          "letter": "B",
+          "text": "3 veces, porque se suma el factor de escala.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los factores de escala de áreas no se suman."
+        },
+        {
+          "letter": "C",
+          "text": "4 veces, porque $(10/5)^2 = 4$.",
+          "is_correct": true,
+          "feedback": "Correcto. La razón de áreas es el cuadrado de la razón de radios."
+        },
+        {
+          "letter": "D",
+          "text": "8 veces, porque se eleva al cubo la razón 2.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cubo aplica a volúmenes, no a áreas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las áreas son $\\pi \\times 5^2 = 25\\pi$ y $\\pi \\times 10^2 = 100\\pi$. El cociente es $\\frac{100\\pi}{25\\pi} = 4$. En general, si los radios están en razón $k$, las áreas están en razón $k^2$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W22-longitud-area-circulo-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W22-longitud-area-circulo-001-MASTERY-bundle-v12",
+      "statement": "¿Es correcto el procedimiento del estudiante?",
+      "context": "En Bucaramanga, un estudiante calcula la longitud de una circunferencia de diámetro 8 cm así: $C = 2\\pi \\times 8 = 16\\pi$ cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque aplicó la fórmula $C = 2\\pi r$ con los datos dados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El dato 8 es el diámetro, no el radio."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque $16\\pi$ es mayor que $8\\pi$ y eso confirma el cálculo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que el número sea mayor no valida el procedimiento."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque la fórmula correcta es $C = \\pi r^2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la fórmula del área, no de la longitud."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque usó el diámetro como radio y lo correcto es $C = 8\\pi$ cm.",
+          "is_correct": true,
+          "feedback": "Correcto. El radio es 4 cm, así que $C = 2\\pi \\times 4 = 8\\pi$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El error es confundir diámetro con radio: si $d = 8$ cm, entonces $r = 4$ cm. Lo correcto es $C = 2\\pi \\times 4 = 8\\pi$ cm, o directamente $C = \\pi d = 8\\pi$ cm (≈ 25.12 cm). Verificar qué representa cada dato antes de reemplazar en la fórmula evita este error frecuente.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W22-longitud-area-circulo-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}
