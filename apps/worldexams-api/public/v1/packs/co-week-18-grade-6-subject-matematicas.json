@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-18-grade-6-subject-matematicas",
+    "generated_at": "2026-09-21T01:19:15.915Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-6-2026-W18-porcentajes-iva-descuentos-001-MASTERY-bundle-v1",
+      "statement": "¿Qué significa que un producto tenga 25 % de descuento?",
+      "context": "En un supermercado de Bogotá un aviso dice \"25 % de descuento en frutas\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que se rebajan 25 pesos de cada 100 del precio",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: el porcentaje indica partes de cada cien, así que 25 % equivale a 25 de cada 100."
+        },
+        {
+          "letter": "B",
+          "text": "Que se rebajan 25 pesos sin importar el precio",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el descuento porcentual depende del precio total, no es una cantidad fija."
+        },
+        {
+          "letter": "C",
+          "text": "Que el producto queda gratis después de 25 compras",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: confunde el 25 % con un plan de puntos o compras acumuladas."
+        },
+        {
+          "letter": "D",
+          "text": "Que se paga el 25 % del precio dos veces",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el cliente paga una sola vez el precio ya rebajado, no dos pagos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El símbolo % significa \"de cada cien\". Un 25 % de descuento rebaja 25 pesos por cada 100 del precio, de modo que se paga el 75 % del valor original.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-6-2026-W18-porcentajes-iva-descuentos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W18-porcentajes-iva-descuentos-001-MASTERY-bundle-v2",
+      "statement": "¿Cuánto dinero se descuenta de la maleta?",
+      "context": "En una papelería de Medellín una maleta de 80.000 COP tiene 50 % de descuento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "40.000 COP",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: el 50 % es la mitad, y la mitad de 80.000 es 40.000."
+        },
+        {
+          "letter": "B",
+          "text": "50.000 COP",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: toma el número 50 del porcentaje como si fueran miles de pesos fijos."
+        },
+        {
+          "letter": "C",
+          "text": "30.000 COP",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: resta 50.000 en vez de calcular la mitad real del precio."
+        },
+        {
+          "letter": "D",
+          "text": "8.000 COP",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: calcula el 10 % en lugar del 50 % solicitado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El 50 % equivale a la mitad (50/100 = 1/2). La mitad de 80.000 es 40.000, así que ese es el descuento y el cliente pagaría los otros 40.000.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-6-2026-W18-porcentajes-iva-descuentos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W18-porcentajes-iva-descuentos-001-MASTERY-bundle-v3",
+      "statement": "¿Cuánto paga finalmente el cliente por los tenis?",
+      "context": "En Cali unos tenis de 150.000 COP tienen 20 % de descuento por fin de temporada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "120.000 COP",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: el descuento es 30.000 (20 % de 150.000) y 150.000 - 30.000 = 120.000."
+        },
+        {
+          "letter": "B",
+          "text": "130.000 COP",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: resta 20.000 fijos en vez del 20 % real del precio."
+        },
+        {
+          "letter": "C",
+          "text": "30.000 COP",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: ese es solo el valor del descuento, no el precio final a pagar."
+        },
+        {
+          "letter": "D",
+          "text": "148.000 COP",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: resta apenas 2.000, confundiendo el 20 % con el número 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se calcula el descuento (150.000 × 0.20 = 30.000) y se resta del precio: 150.000 - 30.000 = 120.000. Equivale a pagar el 80 % del precio original.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-6-2026-W18-porcentajes-iva-descuentos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W18-porcentajes-iva-descuentos-001-MASTERY-bundle-v4",
+      "statement": "¿Cuánto paga en total el comprador con el IVA incluido?",
+      "context": "En Barranquilla un computador de 95.000 COP (precio sin IVA) causa el IVA general del 19 %.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "113.050 COP",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: el IVA es 95.000 × 0.19 = 18.050 y el total es 95.000 + 18.050 = 113.050."
+        },
+        {
+          "letter": "B",
+          "text": "114.000 COP",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: calcula el 20 % (19.000) en vez del 19 % exacto del impuesto."
+        },
+        {
+          "letter": "C",
+          "text": "96.900 COP",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: aplica solo el 2 % del precio en lugar del 19 % del IVA."
+        },
+        {
+          "letter": "D",
+          "text": "76.000 COP",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: resta el impuesto en vez de sumarlo al precio base."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El IVA se suma al precio base: impuesto = 95.000 × 19/100 = 18.050; total = 113.050. Los impuestos aumentan el valor a pagar, nunca lo reducen.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-6-2026-W18-porcentajes-iva-descuentos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W18-porcentajes-iva-descuentos-001-MASTERY-bundle-v5",
+      "statement": "¿A cuánto equivale la propina del 10 %?",
+      "context": "En Bucaramanga una factura de restaurante es de 250.000 COP y se deja el 10 % de propina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25.000 COP",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: el 10 % es la décima parte y 250.000 ÷ 10 = 25.000."
+        },
+        {
+          "letter": "B",
+          "text": "10.000 COP",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: toma el número 10 del porcentaje como miles de pesos fijos."
+        },
+        {
+          "letter": "C",
+          "text": "2.500 COP",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: calcula el 1 % en vez del 10 % de la cuenta."
+        },
+        {
+          "letter": "D",
+          "text": "100.000 COP",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: calcula el 40 % de la cuenta en lugar del 10 %."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El 10 % equivale a dividir entre 10 (10/100 = 1/10). La décima parte de 250.000 es 25.000, un cálculo útil para propinas y recargos rápidos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-6-2026-W18-porcentajes-iva-descuentos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W18-porcentajes-iva-descuentos-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál oferta conviene más y por qué?",
+      "context": "En Cartagena dos tiendas venden la misma bicicleta: tienda A a 200.000 COP con 30 % de descuento y tienda B a 180.000 COP con 25 % de descuento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tienda B, porque se paga 135.000 frente a 140.000 de la tienda A",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: A: 200.000 × 0.70 = 140.000; B: 180.000 × 0.75 = 135.000; el menor precio final es B."
+        },
+        {
+          "letter": "B",
+          "text": "La tienda A, porque 30 % es mayor que 25 %",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: compara solo los porcentajes sin considerar que los precios base son distintos."
+        },
+        {
+          "letter": "C",
+          "text": "La tienda A, porque 200.000 es mayor que 180.000",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: un precio base mayor no significa mejor oferta después del descuento."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas son iguales porque 30 - 25 es solo 5 de diferencia",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: la diferencia de 5 puntos no garantiza precios finales iguales con bases distintas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para comparar ofertas se calcula el precio final de cada una, no solo el porcentaje. El porcentaje mayor no siempre gana si parte de un precio base más alto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-6-2026-W18-porcentajes-iva-descuentos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W18-porcentajes-iva-descuentos-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál era el precio del producto antes del IVA?",
+      "context": "En Tunja una factura muestra un total de 119.000 COP ya con el IVA del 19 % incluido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100.000 COP",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: 100.000 × 1.19 = 119.000, así que al dividir 119.000 ÷ 1.19 se recupera la base."
+        },
+        {
+          "letter": "B",
+          "text": "100.190 COP",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: resta 19.000 fijos en vez de deshacer la multiplicación por 1.19."
+        },
+        {
+          "letter": "C",
+          "text": "96.390 COP",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: aplica un descuento del 19 % sobre el total, lo cual no invierte el IVA."
+        },
+        {
+          "letter": "D",
+          "text": "119.019 COP",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: suma cantidades en vez de dividir para hallar el precio base."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si total = base × 1.19, entonces base = total ÷ 1.19. Restar el 19 % del total es incorrecto porque el impuesto se calculó sobre la base, no sobre el total.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.66,
+      "bundle_id": "CO-MAT-6-2026-W18-porcentajes-iva-descuentos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W18-porcentajes-iva-descuentos-001-MASTERY-bundle-v8",
+      "statement": "¿Cuánto paga el cliente en total?",
+      "context": "En Pereira una camisa de 80.000 COP tiene 10 % de descuento y sobre el precio rebajado se cobra el IVA del 19 %.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "85.680 COP",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: rebaja: 80.000 × 0.9 = 72.000; con IVA: 72.000 × 1.19 = 85.680."
+        },
+        {
+          "letter": "B",
+          "text": "72.000 COP",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: aplica el descuento pero olvida sumar el IVA sobre el precio rebajado."
+        },
+        {
+          "letter": "C",
+          "text": "95.200 COP",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: aplica el IVA pero olvida el descuento del 10 %."
+        },
+        {
+          "letter": "D",
+          "text": "87.200 COP",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: suma los porcentajes (-10 + 19 = +9) como si fueran aditivos sobre la misma base."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los porcentajes sucesivos se multiplican en cadena (× 0.9 y luego × 1.19), no se suman. Cada porcentaje actúa sobre el resultado anterior, por eso el orden de las operaciones importa en el procedimiento, aunque el resultado final coincida.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-6-2026-W18-porcentajes-iva-descuentos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W18-porcentajes-iva-descuentos-001-MASTERY-bundle-v9",
+      "statement": "¿Es cierto que el producto queda gratis? Justifica.",
+      "context": "En un almacén de Cali un aviso dice \"50 % de descuento más 50 % adicional sobre el precio ya rebajado\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, queda en el 25 % del precio original porque 0.5 × 0.5 = 0.25",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: el segundo 50 % actúa sobre la mitad restante, dejando la cuarta parte del precio."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque 50 % + 50 % = 100 % de descuento",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: los porcentajes sucesivos no se suman; el segundo se calcula sobre el precio ya rebajado."
+        },
+        {
+          "letter": "C",
+          "text": "No, queda en el 50 % porque el segundo descuento no aplica",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el segundo descuento sí aplica, pero sobre el valor intermedio, no sobre el original."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, siempre que el precio original sea mayor de 100.000 COP",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el resultado porcentual no depende del valor del precio original."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Descuentos encadenados se multiplican: pagar el 50 % y luego el 50 % de eso es pagar 0.25 del original (75 % de descuento total). Sumar porcentajes sucesivos es uno de los errores más comunes en consumo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-6-2026-W18-porcentajes-iva-descuentos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W18-porcentajes-iva-descuentos-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la mejor decisión de compra considerando el costo neto?",
+      "context": "En Manizales una nevera se ofrece en tienda A a 200.000 COP con 15 % de descuento y en tienda B a 175.000 COP con un bono de 10.000 COP para la próxima compra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tienda B, con costo neto de 165.000 frente a 170.000 de la tienda A",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: A: 200.000 × 0.85 = 170.000; B: 175.000 - 10.000 = 165.000; el menor costo neto es B."
+        },
+        {
+          "letter": "B",
+          "text": "Tienda A, porque el 15 % siempre supera un bono fijo",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: ningún porcentaje \"siempre\" supera un valor fijo; hay que calcular ambos casos."
+        },
+        {
+          "letter": "C",
+          "text": "Tienda A, porque 200.000 con descuento parece mayor ahorro",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el ahorro aparente (30.000) no compensa que el precio final sigue más alto."
+        },
+        {
+          "letter": "D",
+          "text": "Tienda B, con costo neto de 175.000 sin contar el bono",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el bono de 10.000 sí reduce el costo neto y debe incluirse en la comparación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Decidir exige homogenizar las ofertas a costo neto: descuentos porcentuales y bonos fijos se convierten a pesos finales. La mejor opción es el menor valor neto, 165.000 de la tienda B.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-6-2026-W18-porcentajes-iva-descuentos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

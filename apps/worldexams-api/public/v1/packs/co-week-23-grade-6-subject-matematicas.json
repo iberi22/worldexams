@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-23-grade-6-subject-matematicas",
+    "generated_at": "2026-09-21T01:19:15.917Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-6-2026-W23-moda-mediana-media-datos-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la moda de esas respuestas?",
+      "context": "En un salón de Bogotá se preguntó por la fruta favorita: mango, mango, banano, mango, manzana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El mango",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: la moda es el dato que más se repite, y el mango aparece 3 veces."
+        },
+        {
+          "letter": "B",
+          "text": "El banano",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el banano aparece una sola vez, no es el más frecuente."
+        },
+        {
+          "letter": "C",
+          "text": "La manzana",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: la manzana aparece una sola vez, no es la moda."
+        },
+        {
+          "letter": "D",
+          "text": "No hay moda",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: sí hay un dato que se repite más que los otros, el mango."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La moda es el valor de mayor frecuencia en un conjunto de datos. Contar repeticiones (mango: 3, otros: 1) la identifica sin ningún cálculo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-6-2026-W23-moda-mediana-media-datos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W23-moda-mediana-media-datos-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la mediana de esas edades?",
+      "context": "En Medellín las edades de 5 jugadores son: 11, 12, 10, 13, 12 años.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12 años",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: ordenadas (10, 11, 12, 12, 13), el dato central es 12."
+        },
+        {
+          "letter": "B",
+          "text": "11 años",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: toma el segundo dato sin ordenar como si fuera el centro."
+        },
+        {
+          "letter": "C",
+          "text": "11.6 años",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: calcula la media aritmética en vez de la mediana."
+        },
+        {
+          "letter": "D",
+          "text": "13 años",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: elige el valor máximo en lugar del dato central."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La mediana es el dato del centro con los valores ordenados. Con 5 datos ordenados (10, 11, 12, 12, 13), el tercero es 12. Ordenar primero es obligatorio.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-6-2026-W23-moda-mediana-media-datos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W23-moda-mediana-media-datos-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la nota promedio (media) del estudiante?",
+      "context": "En Cali un estudiante obtuvo estas notas: 4, 5, 3, 4 (escala de 1 a 5).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4.0",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: (4 + 5 + 3 + 4) ÷ 4 = 16 ÷ 4 = 4.0."
+        },
+        {
+          "letter": "B",
+          "text": "4.5",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: suma mal los datos o divide entre un número distinto de 4."
+        },
+        {
+          "letter": "C",
+          "text": "5.0",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: toma la nota máxima como si fuera el promedio."
+        },
+        {
+          "letter": "D",
+          "text": "3.0",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: toma la nota mínima como si fuera el promedio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La media suma todos los valores y divide entre la cantidad de datos: 16 ÷ 4 = 4.0. Representa el valor que tendría cada dato si el total se repartiera equitativamente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-6-2026-W23-moda-mediana-media-datos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W23-moda-mediana-media-datos-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la moda de las ventas diarias?",
+      "context": "En Barranquilla una tienda vendió en 6 días: 10, 12, 10, 15, 10, 9 balones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 balones",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: el 10 aparece 3 veces, más que cualquier otro valor."
+        },
+        {
+          "letter": "B",
+          "text": "9 balones",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el 9 aparece una sola vez; elige el mínimo en vez del más frecuente."
+        },
+        {
+          "letter": "C",
+          "text": "15 balones",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el 15 aparece una sola vez; elige el máximo en vez del más frecuente."
+        },
+        {
+          "letter": "D",
+          "text": "11 balones",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: calcula la media aproximada en vez de buscar la mayor frecuencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Contar frecuencias (10: tres veces; 12, 15, 9: una vez) revela la moda 10. La moda indica el valor típico o más común, útil en ventas e inventarios.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-6-2026-W23-moda-mediana-media-datos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W23-moda-mediana-media-datos-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la mediana de esas estaturas?",
+      "context": "En Tunja cuatro amigos midieron su estatura: 140, 150, 145 y 145 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "145 cm",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: con cantidad par de datos se promedian los dos centrales: (145 + 145) ÷ 2 = 145."
+        },
+        {
+          "letter": "B",
+          "text": "140 cm",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: elige el valor mínimo en lugar del centro de los datos ordenados."
+        },
+        {
+          "letter": "C",
+          "text": "150 cm",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: elige el valor máximo en lugar del centro de los datos ordenados."
+        },
+        {
+          "letter": "D",
+          "text": "147.5 cm",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: calcula la media de los cuatro datos en vez de la mediana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con cantidad par, la mediana es el promedio de los dos datos centrales: ordenados (140, 145, 145, 150), los centrales son 145 y 145, mediana 145 cm.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-6-2026-W23-moda-mediana-media-datos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W23-moda-mediana-media-datos-001-MASTERY-bundle-v6",
+      "statement": "¿Por qué la mediana (2) representa mejor al equipo que la media (3)?",
+      "context": "En Bucaramanga un equipo anotó estos goles por partido: 1, 2, 2, 3, 7.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el 7 es un valor extremo que infla la media pero no mueve la mediana",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: la media sube a 3 por el 7, mientras la mediana sigue en 2, el rendimiento típico."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la mediana siempre es menor que la media",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: no siempre; depende de los datos, a veces la media es menor."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el 7 debe eliminarse de los datos",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: no se eliminan datos reales; se elige la medida más representativa."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la moda es 7",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: la moda es 2 (aparece dos veces), no 7."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La media es sensible a valores extremos y la mediana es resistente. Con un 7 atípico, la mediana 2 describe mejor el rendimiento habitual que la media 3.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-6-2026-W23-moda-mediana-media-datos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W23-moda-mediana-media-datos-001-MASTERY-bundle-v7",
+      "statement": "¿Qué cuarta nota necesita?",
+      "context": "En Pereira un estudiante tiene notas 3, 4 y 5 y quiere promedio final de 4.5 con una cuarta nota.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6, porque (3 + 4 + 5 + 6) ÷ 4 = 4.5",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: la suma debe ser 18 (4.5 × 4) y 3 + 4 + 5 = 12, faltan 6."
+        },
+        {
+          "letter": "B",
+          "text": "5, porque ya tiene un 5",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: con 5 la suma es 17 y el promedio 4.25, no alcanza 4.5."
+        },
+        {
+          "letter": "C",
+          "text": "4, porque es el promedio que quiere superar",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: con 4 la suma es 16 y el promedio queda en 4.0."
+        },
+        {
+          "letter": "D",
+          "text": "4.5, porque es el promedio deseado",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: confunde la nota buscada con el promedio meta; con 4.5 el promedio sería 4.125."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si el promedio de 4 datos debe ser 4.5, la suma total es 18. Restar lo acumulado (12) da la nota faltante: 6. Despejar desde la definición de media resuelve metas académicas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.66,
+      "bundle_id": "CO-MAT-6-2026-W23-moda-mediana-media-datos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W23-moda-mediana-media-datos-001-MASTERY-bundle-v8",
+      "statement": "¿Cuáles son la moda y la mediana de la encuesta?",
+      "context": "En Cartagena se encuestó el número de hijos por familia: 2, 1, 3, 2, 4, 2, 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Moda 2 y mediana 2",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: el 2 aparece 3 veces (moda) y ordenados (1, 1, 2, 2, 2, 3, 4) el central es 2."
+        },
+        {
+          "letter": "B",
+          "text": "Moda 1 y mediana 4",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el 1 aparece 2 veces (no es moda) y 4 es el máximo, no la mediana."
+        },
+        {
+          "letter": "C",
+          "text": "Moda 4 y mediana 1",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: invierte los papeles del máximo y el mínimo con las medidas centrales."
+        },
+        {
+          "letter": "D",
+          "text": "Moda 3 y mediana 7",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el 3 aparece una vez y 7 ni siquiera es un dato de la encuesta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Calcular ambas medidas sobre los mismos datos (moda por frecuencia, mediana por orden) y hallar que coinciden en 2 refuerza la lectura completa de una distribución.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-6-2026-W23-moda-mediana-media-datos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W23-moda-mediana-media-datos-001-MASTERY-bundle-v9",
+      "statement": "¿Qué curso tuvo desempeño más consistente y por qué?",
+      "context": "En Manizales dos cursos comparan notas: curso A: 3, 3, 3, 5, 5, 5 y curso B: 4, 4, 4, 4, 4, 4. Ambos tienen media 4.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El curso B, porque todas sus notas son iguales a la media y no se dispersan",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: en B no hay variación (todos 4), mientras A mezcla 3 y 5 aunque promedie igual."
+        },
+        {
+          "letter": "B",
+          "text": "El curso A, porque tiene notas más altas como el 5",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: también tiene 3, y la consistencia se mide por variación, no por el máximo."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos igual, porque las medias son iguales",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: igual media no implica igual distribución; la dispersión también importa."
+        },
+        {
+          "letter": "D",
+          "text": "El curso A, porque tiene más notas distintas",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: más notas distintas significa menos consistencia, no más."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La media sola no cuenta toda la historia: dos grupos con igual promedio pueden dispersarse distinto. El curso B es perfectamente consistente (variación cero), lección que anticipa la idea de dispersión estadística.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-6-2026-W23-moda-mediana-media-datos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W23-moda-mediana-media-datos-001-MASTERY-bundle-v10",
+      "statement": "¿Qué medida conviene reportar como \"venta típica\" y cuál es su valor?",
+      "context": "En Pasto una heladería registra ventas semanales: 20, 22, 21, 23, 100 (hubo una feria el último día).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mediana, 22 helados",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: ordenados (20, 21, 22, 23, 100), el centro es 22; la media (37.2) queda inflada por la feria."
+        },
+        {
+          "letter": "B",
+          "text": "La media, 37.2 helados",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: la feria de 100 infla el promedio y no representa un día normal."
+        },
+        {
+          "letter": "C",
+          "text": "La moda, 100 helados",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: ningún valor se repite (no hay moda) y 100 fue un día atípico."
+        },
+        {
+          "letter": "D",
+          "text": "El máximo, 100 helados",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el máximo describe el mejor día, no el comportamiento típico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Elegir la medida adecuada es una decisión estadística: con un valor extremo, la mediana (22) representa lo típico y la media (37.2) engaña. Evaluar el contexto define la mejor medida.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-6-2026-W23-moda-mediana-media-datos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}
