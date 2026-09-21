@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-17-grade-8-subject-matematicas",
+    "generated_at": "2026-09-21T23:38:05.292Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-8-2026-W17-sistemas-ecuaciones-2x2-001-MASTERY-bundle-v1",
+      "statement": "¿Qué significa resolver un sistema de dos ecuaciones con dos incógnitas $x$ y $y$?",
+      "context": "En Medellín, en el colegio San José, la profesora escribe el sistema $\\begin{cases} x + y = 10 \\\\ x - y = 4 \\end{cases}$ y pregunta qué significa resolverlo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hallar un valor de $x$ que cumpla la primera ecuación, sin importar la segunda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La solución debe satisfacer ambas ecuaciones al mismo tiempo, no solo una."
+        },
+        {
+          "letter": "B",
+          "text": "Hallar el par $(x, y)$ que satisface ambas ecuaciones a la vez.",
+          "is_correct": true,
+          "feedback": "Correcto. Resolver el sistema es encontrar el único par (o los pares) que verifican simultáneamente las dos ecuaciones."
+        },
+        {
+          "letter": "C",
+          "text": "Sumar las dos ecuaciones y dar el resultado como respuesta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumar ecuaciones es un paso del método de eliminación, no la solución del sistema."
+        },
+        {
+          "letter": "D",
+          "text": "Despejar $x$ en una ecuación y ese despeje es la solución.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Despejar es solo el primer paso de la sustitución; falta hallar los valores numéricos de $x$ y $y$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La solución de un sistema $2 \\times 2$ es el par ordenado $(x, y)$ que convierte ambas igualdades en verdaderas. Geométricamente corresponde al punto donde se cortan las dos rectas del sistema.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W17-sistemas-ecuaciones-2x2-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W17-sistemas-ecuaciones-2x2-001-MASTERY-bundle-v2",
+      "statement": "¿Cuáles son los tres métodos clásicos para resolver un sistema $2 \\times 2$?",
+      "context": "En Bogotá, en la biblioteca El Tunal, un cartel resume los tres métodos clásicos para resolver sistemas $2 \\times 2$ que se estudian en grado octavo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Factorización, productos notables y división sintética.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son temas de polinomios, no métodos de sistemas de ecuaciones."
+        },
+        {
+          "letter": "B",
+          "text": "Pitágoras, Tales y Euclides.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son teoremas de geometría, no procedimientos algebraicos para sistemas."
+        },
+        {
+          "letter": "C",
+          "text": "Punto-pendiente, pendiente-intercepto y forma general.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas son formas de la ecuación de la recta, no métodos de solución de sistemas."
+        },
+        {
+          "letter": "D",
+          "text": "Sustitución, igualación y eliminación (reducción).",
+          "is_correct": true,
+          "feedback": "Correcto. En sustitución se despeja y se reemplaza; en igualación se igualan despejes; en eliminación se suman las ecuaciones para cancelar una incógnita."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los tres métodos buscan reducir el sistema a una sola ecuación con una incógnita. Sustitución reemplaza un despeje, igualación iguala dos despejes de la misma variable y eliminación suma múltiplos de las ecuaciones para cancelar una variable.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W17-sistemas-ecuaciones-2x2-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W17-sistemas-ecuaciones-2x2-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la solución del sistema $\\begin{cases} x + y = 10 \\\\ x - y = 4 \\end{cases}$?",
+      "context": "En Cali, en la tienda del barrio Siloé, dos cuadernos y la norma de sumar: el sistema $\\begin{cases} x + y = 10 \\\\ x - y = 4 \\end{cases}$ modela el precio de dos útiles donde $x$ y $y$ están en miles de COP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 7$, $y = 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Sumando: $2x = 14$, luego $x = 7$; sustituyendo $7 + y = 10$, se obtiene $y = 3$; además $7 - 3 = 4$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 6$, $y = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cumple la primera ($6 + 4 = 10$) pero no la segunda ($6 - 4 = 2 \\neq 4$)."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 5$, $y = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cumple la primera ($5 + 5 = 10$) pero no la segunda ($5 - 5 = 0 \\neq 4$)."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 8$, $y = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cumple la primera ($8 + 2 = 10$) pero no la segunda ($8 - 2 = 6 \\neq 4$)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por eliminación se suman las ecuaciones: $(x + y) + (x - y) = 14$, luego $2x = 14$ y $x = 7$. Con $x = 7$ en la primera: $y = 3$. Se verifica en la segunda: $7 - 3 = 4$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-8-2026-W17-sistemas-ecuaciones-2x2-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W17-sistemas-ecuaciones-2x2-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la solución del sistema $\\begin{cases} y = 2x + 1 \\\\ 3x + y = 11 \\end{cases}$?",
+      "context": "En Barranquilla, en el colegio del barrio Simón Bolívar, se resuelve por sustitución el sistema $\\begin{cases} y = 2x + 1 \\\\ 3x + y = 11 \\end{cases}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 1$, $y = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $x = 1$, la primera da $y = 3$, pero $3(1) + 3 = 6 \\neq 11$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 3$, $y = 7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cumple la primera ($2(3) + 1 = 7$) pero no la segunda ($9 + 7 = 16 \\neq 11$)."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 2$, $y = 5$",
+          "is_correct": true,
+          "feedback": "Correcto. Sustituyendo: $3x + 2x + 1 = 11$, luego $5x = 10$ y $x = 2$; entonces $y = 5$."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 4$, $y = 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cumple la primera ($2(4) + 1 = 9$) pero no la segunda ($12 + 9 = 21 \\neq 11$)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se sustituye $y = 2x + 1$ en la segunda: $3x + 2x + 1 = 11$, luego $5x = 10$ y $x = 2$. Entonces $y = 2(2) + 1 = 5$. Se verifica: $3(2) + 5 = 11$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-8-2026-W17-sistemas-ecuaciones-2x2-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W17-sistemas-ecuaciones-2x2-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la solución del sistema $\\begin{cases} 2x + 3y = 16 \\\\ 2x - y = 4 \\end{cases}$?",
+      "context": "En Cartagena, en el mercado de Bazurto, el sistema $\\begin{cases} 2x + 3y = 16 \\\\ 2x - y = 4 \\end{cases}$ modela la compra de frutas donde $x$ y $y$ están en miles de COP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 1$, $y = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La segunda da $2 - 4 = -2 \\neq 4$; no satisface ambas ecuaciones."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 3,5$, $y = 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Restando: $4y = 12$, luego $y = 3$; con $2x - 3 = 4$ se obtiene $x = 3,5$; además $2(3,5) + 9 = 16$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 2$, $y = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera da $4 + 12 = 16$, pero la segunda da $4 - 4 = 0 \\neq 4$."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 5$, $y = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera da $10 + 6 = 16$, pero la segunda da $10 - 2 = 8 \\neq 4$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Restando la segunda de la primera: $(2x + 3y) - (2x - y) = 12$, luego $4y = 12$ y $y = 3$. Sustituyendo en $2x - 3 = 4$: $2x = 7$ y $x = 3,5$. En miles de COP, los precios son $3500$ y $3000$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W17-sistemas-ecuaciones-2x2-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W17-sistemas-ecuaciones-2x2-001-MASTERY-bundle-v6",
+      "statement": "¿Cuántas soluciones tiene el sistema $\\begin{cases} 2x + 4y = 10 \\\\ x + 2y = 5 \\end{cases}$?",
+      "context": "En Bucaramanga, en la feria del libro, se analiza el sistema $\\begin{cases} 2x + 4y = 10 \\\\ x + 2y = 5 \\end{cases}$ para explicar los tipos de solución.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una única solución, porque tiene dos ecuaciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número de ecuaciones no garantiza unicidad; aquí la segunda es la mitad de la primera."
+        },
+        {
+          "letter": "B",
+          "text": "Ninguna solución, porque los coeficientes son distintos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los coeficientes son proporcionales ($2/1 = 4/2 = 10/5 = 2$); las rectas coinciden."
+        },
+        {
+          "letter": "C",
+          "text": "Dos soluciones exactas, una por cada ecuación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada ecuación tiene infinitas soluciones, pero el sistema pide las comunes a ambas."
+        },
+        {
+          "letter": "D",
+          "text": "Infinitas soluciones, porque las dos ecuaciones representan la misma recta.",
+          "is_correct": true,
+          "feedback": "Correcto. Multiplicando la segunda por $2$ se obtiene la primera; son rectas coincidentes con infinitos puntos comunes."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Como $2(x + 2y) = 2x + 4y$ y $2(5) = 10$, ambas ecuaciones describen la misma recta $x + 2y = 5$. Todo punto de esa recta (por ejemplo $(1, 2)$, $(3, 1)$, $(5, 0)$) es solución del sistema.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-8-2026-W17-sistemas-ecuaciones-2x2-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W17-sistemas-ecuaciones-2x2-001-MASTERY-bundle-v7",
+      "statement": "¿Es $(4, 1)$ la solución del sistema $\\begin{cases} 3x + 2y = 14 \\\\ x - y = 3 \\end{cases}$?",
+      "context": "En Medellín, en el parque Explora, un estudiante afirma que $(4, 1)$ es la solución de $\\begin{cases} 3x + 2y = 14 \\\\ x - y = 3 \\end{cases}$ y el monitor le pide verificarlo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque $3(4) + 2(1) = 14$ y $4 - 1 = 3$.",
+          "is_correct": true,
+          "feedback": "Correcto. El par satisface ambas ecuaciones simultáneamente, luego es la solución del sistema."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque $3(4) + 2(1) = 15$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La aritmética es $12 + 2 = 14$, no $15$; revisa la suma."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque $4 - 1 = 5$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La resta es $4 - 1 = 3$, que sí coincide con la segunda ecuación."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, porque cumple la primera y eso basta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conclusión es correcta pero la justificación es incompleta; debe cumplir ambas ecuaciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Verificar es sustituir: primera $12 + 2 = 14$ y segunda $4 - 1 = 3$. Como ambas se cumplen, $(4, 1)$ es solución. Si fallara una sola, el par no sería solución del sistema.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.68,
+      "bundle_id": "CO-MAT-8-2026-W17-sistemas-ecuaciones-2x2-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W17-sistemas-ecuaciones-2x2-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el sistema que modela la compra y cuál es su solución?",
+      "context": "En Bogotá, en el cine de la carrera Séptima, una boleta de adulto cuesta $12000$ COP y una de niño $8000$ COP. Una familia compró $5$ boletas por $52000$ COP. Sea $a$ el número de adultos y $n$ el de niños.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\begin{cases} a + n = 5 \\\\ 12000a + 8000n = 52000 \\end{cases}$ con $a = 2$, $n = 3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema es correcto, pero $24000 + 24000 = 48000 \\neq 52000$; esa solución no verifica el total."
+        },
+        {
+          "letter": "B",
+          "text": "$\\begin{cases} a + n = 5 \\\\ 12000a + 8000n = 52000 \\end{cases}$ con $a = 1$, $n = 4$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema es correcto, pero $12000 + 32000 = 44000 \\neq 52000$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\begin{cases} a + n = 5 \\\\ 12000a + 8000n = 52000 \\end{cases}$ con $a = 3$, $n = 2$.",
+          "is_correct": true,
+          "feedback": "Correcto. Se cumple $3 + 2 = 5$ y $36000 + 16000 = 52000$ COP."
+        },
+        {
+          "letter": "D",
+          "text": "$\\begin{cases} a + n = 52000 \\\\ a + n = 5 \\end{cases}$ con $a = 3$, $n = 2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera ecuación mezcla personas con pesos; el total en COP debe ponderar cada tipo de boleta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El sistema es número total de boletas más costo total. Con $a = 3$ y $n = 2$: $3 + 2 = 5$ y $3(12000) + 2(8000) = 36000 + 16000 = 52000$ COP. Plantear bien el sistema es la mitad de la solución en problemas Saber.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-8-2026-W17-sistemas-ecuaciones-2x2-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W17-sistemas-ecuaciones-2x2-001-MASTERY-bundle-v9",
+      "statement": "¿Cuántos kilos de cada café lleva la mezcla?",
+      "context": "En Cali, en la galería Santa Elena, un tendero mezcla café premium de $28000$ COP/kg con café estándar de $18000$ COP/kg para obtener $10$ kg de mezcla a $22000$ COP/kg. Sean $p$ y $e$ los kilos de cada tipo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$p = 5$, $e = 5$, porque el precio es el promedio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $5$ y $5$ el precio sería $23000$ COP/kg, no $22000$; el promedio simple no coincide."
+        },
+        {
+          "letter": "B",
+          "text": "$p = 4$, $e = 6$.",
+          "is_correct": true,
+          "feedback": "Correcto. Se cumple $4 + 6 = 10$ y $28000(4) + 18000(6) = 112000 + 108000 = 220000 = 10 \\times 22000$."
+        },
+        {
+          "letter": "C",
+          "text": "$p = 6$, $e = 4$, porque el premium debe dominar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $6$ y $4$ el valor sería $240000$ COP, es decir $24000$ COP/kg, por encima del pedido."
+        },
+        {
+          "letter": "D",
+          "text": "$p = 2$, $e = 8$, porque así sale más barato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $2$ y $8$ el valor sería $200000$ COP, es decir $20000$ COP/kg, por debajo del pedido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El sistema es $\\begin{cases} p + e = 10 \\\\ 28p + 18e = 220 \\end{cases}$ en miles de COP. Despejando $p = 10 - e$: $28(10 - e) + 18e = 220$, luego $280 - 10e = 220$ y $e = 6$, $p = 4$. La mezcla lleva $4$ kg premium y $6$ kg estándar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-8-2026-W17-sistemas-ecuaciones-2x2-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W17-sistemas-ecuaciones-2x2-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la vía más eficiente y cuál es la solución?",
+      "context": "En Cartagena, en el colegio Fernández Baena, se comparan dos métodos para $\\begin{cases} 5x - 2y = 8 \\\\ 3x + 2y = 8 \\end{cases}$. Mariana suma directamente y Julián despeja primero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Despejar primero, con solución $x = 1$, $y = -1,5$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese par no verifica la segunda ecuación ($3 - 3 = 0 \\neq 8$); además despejar es más largo aquí."
+        },
+        {
+          "letter": "B",
+          "text": "Sumar directamente es eficiente pero da $x = 3$, $y = 3,5$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El método es el adecuado, pero $5(3) - 2(3,5) = 15 - 7 = 8$ y $3(3) + 2(3,5) = 16 \\neq 8$; hay error aritmético."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos métodos son igual de largos y dan $x = 0$, $y = -4$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese par cumple la primera ($8 = 8$) pero no la segunda ($-8 \\neq 8$)."
+        },
+        {
+          "letter": "D",
+          "text": "Sumar directamente, porque los términos en $y$ se cancelan, con solución $x = 2$, $y = 1$.",
+          "is_correct": true,
+          "feedback": "Correcto. Sumando: $8x = 16$, luego $x = 2$; con $3(2) + 2y = 8$ se obtiene $y = 1$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Como los coeficientes de $y$ son opuestos ($-2$ y $+2$), la eliminación directa es óptima: $8x = 16$, $x = 2$. Luego $6 + 2y = 8$ da $y = 1$. Mariana elige bien; Julián llegaría al mismo resultado con más pasos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-8-2026-W17-sistemas-ecuaciones-2x2-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W17-sistemas-ecuaciones-2x2-001-MASTERY-bundle-v11",
+      "statement": "¿Cuáles son los precios por libra de la carne y del pollo?",
+      "context": "En Bucaramanga, en el mercado San Francisco, $3$ libras de carne y $2$ de pollo cuestan $95000$ COP; $2$ libras de carne y $4$ de pollo cuestan $90000$ COP. Sean $c$ y $p$ los precios por libra en miles de COP: $\\begin{cases} 3c + 2p = 95 \\\\ 2c + 4p = 90 \\end{cases}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Carne $25000$ COP y pollo $10000$ COP.",
+          "is_correct": true,
+          "feedback": "Correcto. Se verifica $3(25) + 2(10) = 75 + 20 = 95$ y $2(25) + 4(10) = 50 + 40 = 90$ en miles de COP."
+        },
+        {
+          "letter": "B",
+          "text": "Carne $20000$ COP y pollo $17500$ COP.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera daría $60000 + 35000 = 95000$, pero la segunda daría $40000 + 70000 = 110000 \\neq 90000$."
+        },
+        {
+          "letter": "C",
+          "text": "Carne $30000$ COP y pollo $2500$ COP.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera daría $90000 + 5000 = 95000$, pero la segunda daría $60000 + 10000 = 70000 \\neq 90000$."
+        },
+        {
+          "letter": "D",
+          "text": "Carne $15000$ COP y pollo $25000$ COP.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera daría $45000 + 50000 = 95000$, pero la segunda daría $30000 + 100000 = 130000 \\neq 90000$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Multiplicando la primera por $2$: $6c + 4p = 190$. Restando la segunda: $4c = 100$, luego $c = 25$ (es decir $25000$ COP). Sustituyendo: $75 + 2p = 95$, luego $p = 10$ ($10000$ COP). Ambas ecuaciones se verifican.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W17-sistemas-ecuaciones-2x2-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W17-sistemas-ecuaciones-2x2-001-MASTERY-bundle-v12",
+      "statement": "¿Tiene razón el artesano?",
+      "context": "En Barranquilla, en la feria Artes covering del Malecón, un artesano dice que el sistema $\\begin{cases} 4x + 6y = 12 \\\\ 2x + 3y = 7 \\end{cases}$ tiene solución única porque las rectas se ven distintas. La interventora lo cuestiona.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque los términos independientes $12$ y $7$ son distintos y eso garantiza el corte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que los independientes sean distintos no garantiza nada; lo decisivo es la proporcionalidad completa de los coeficientes."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque al despejar $x$ en ambas se obtiene el mismo valor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Despejando $x = 3 - 1,5y$ en la primera y $x = 3,5 - 1,5y$ en la segunda se ven rectas paralelas distintas."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque son rectas paralelas sin solución: $4/2 = 6/3 = 2 \\neq 12/7$.",
+          "is_correct": true,
+          "feedback": "Correcto. Los coeficientes son proporcionales con razón $2$ pero los términos independientes no, luego son paralelas distintas e incompatibles."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque tiene infinitas soluciones al ser múltiplos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para infinitas soluciones también los independientes deberían seguir la razón $2$ ($7 \\times 2 = 14 \\neq 12$)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La condición de paralelismo sin solución es $a_1/a_2 = b_1/b_2 \\neq c_1/c_2$. Aquí $4/2 = 2$, $6/3 = 2$ y $12/7 \\approx 1,71$. Como $2 \\neq 12/7$, el sistema es incompatible: geométricamente son dos rectas paralelas que nunca se cortan.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W17-sistemas-ecuaciones-2x2-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}
