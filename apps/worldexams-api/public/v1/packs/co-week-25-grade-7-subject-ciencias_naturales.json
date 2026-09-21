@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-25-grade-7-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T10:30:58.547Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-7-2026-W25-ecosistemas-colombia-paramos-selvas-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es un páramo colombiano?",
+      "context": "En una salida escolar al páramo de Chingaza, los estudiantes de Bogotá observan frailejones entre la niebla y sienten mucho frío.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un ecosistema de alta montaña, frío y húmedo, con frailejones que regula y guarda el agua.",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: ubica la altura, el clima, la planta típica y la función hídrica."
+        },
+        {
+          "letter": "B",
+          "text": "Una playa caliente de Chingaza donde se cultiva coco y se nada en el mar.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: Chingaza es montaña fría, no costa caliente con cocos."
+        },
+        {
+          "letter": "C",
+          "text": "Un desierto sin agua donde nunca llueve ni crece ninguna planta.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el páramo es húmedo y con vegetación adaptada, no un desierto seco."
+        },
+        {
+          "letter": "D",
+          "text": "Un barrio de Bogotá con edificios altos y centros comerciales.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el páramo es un ecosistema natural, no una zona urbana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El páramo está por encima de los 3000 metros en los Andes, con frío, niebla y lluvias frecuentes. Sus suelos y musgos actúan como esponjas que guardan agua y la liberan poco a poco a los ríos. El frailejón, con hojas peludas que atrapan la niebla, es su símbolo y ayuda a proteger ese depósito natural.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-7-2026-W25-ecosistemas-colombia-paramos-selvas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W25-ecosistemas-colombia-paramos-selvas-001-MASTERY-bundle-v2",
+      "statement": "¿Qué caracteriza a la selva húmeda tropical de Colombia?",
+      "context": "En Leticia, Amazonas, los niños navegan por el río y ven árboles altísimos, monos, guacamayas y una lluvia casi diaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Frío extremo, nieve y frailejones como en el páramo de Leticia.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: Leticia es tierra baja cálida, no alta montaña fría."
+        },
+        {
+          "letter": "B",
+          "text": "Calor, lluvias abundantes y enorme biodiversidad con árboles altos en varios niveles.",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: reúne clima cálido húmedo, diversidad y estructura en capas del dosel."
+        },
+        {
+          "letter": "C",
+          "text": "Arena seca con cactus y sin ríos navegables durante todo el año.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: esa descripción es de desierto, no de selva amazónica con grandes ríos."
+        },
+        {
+          "letter": "D",
+          "text": "Una sola especie de árbol repetida y ningún animal visible en el día.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: la selva tiene miles de especies de plantas y animales activos de día y de noche."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La selva húmeda del Amazonas y del Chocó recibe mucha lluvia y calor todo el año. Los árboles forman capas: emergentes, dosel y sotobosque, donde viven insectos, ranas, aves y mamíferos. Esa variedad sostiene redes de alimentación complejas y regula el clima al liberar vapor de agua y guardar carbono.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-7-2026-W25-ecosistemas-colombia-paramos-selvas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W25-ecosistemas-colombia-paramos-selvas-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué cuidar los páramos garantiza agua para Bogotá?",
+      "context": "En Bogotá, el agua que llega a las casas viene en gran parte del páramo de Chingaza y del páramo de Sumapaz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los páramos fabrican agua con mangueras pagadas con pesos en Bogotá.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el páramo no fabrica agua con mangueras, la capta y regula de la lluvia y la niebla."
+        },
+        {
+          "letter": "B",
+          "text": "Porque sus suelos y plantas retienen la lluvia y la niebla y la entregan de forma constante a los ríos.",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: explica la esponja natural que evita crecientes y sequías extremas."
+        },
+        {
+          "letter": "C",
+          "text": "Porque en el páramo nunca llueve y el agua llega por camiones desde la costa.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: en el páramo llueve mucho y el agua viaja por ríos, no por camiones."
+        },
+        {
+          "letter": "D",
+          "text": "Porque cuidar el páramo solo sirve para tomar fotos de frailejones sin valor del agua.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el turismo ayuda, pero la función principal es hídrica para millones de personas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El musgo y la materia orgánica del páramo absorben el agua de lluvia y niebla como una esponja. Luego la sueltan lentamente a quebradas que alimentan embalses como Chuza. Si se destruye esa cobertura con cultivos o minería, el agua baja turbia en invierno y escasea en verano, y potabilizarla cuesta más.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-7-2026-W25-ecosistemas-colombia-paramos-selvas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W25-ecosistemas-colombia-paramos-selvas-001-MASTERY-bundle-v4",
+      "statement": "¿Qué consecuencia ambiental trae talar selva para potrero?",
+      "context": "En Florencia, Caquetá, una familia tala una hectárea de selva para sembrar pasto para unas pocas vacas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta la biodiversidad porque las vacas de Florencia siembran árboles nuevos.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el potrero reemplaza cientos de especies por un solo pasto y compacta el suelo."
+        },
+        {
+          "letter": "B",
+          "text": "Se pierde hábitat y biodiversidad, el suelo se erosiona y se libera carbono que calienta el clima.",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: conecta pérdida de especies, suelo frágil y emisiones por deforestación."
+        },
+        {
+          "letter": "C",
+          "text": "El suelo se vuelve más fértil para siempre y ya no necesita ningún cuidado.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el suelo selvático es delgado y pierde nutrientes rápido tras la tala y la quema."
+        },
+        {
+          "letter": "D",
+          "text": "Los ríos llevan más agua limpia porque ya no hay árboles que la usen.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: sin bosque el agua baja turbia, con crecientes y menos regulación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La selva guarda su fertilidad en la vegetación viva, no en el suelo profundo. Al talar y quemar, los nutrientes se lavan con la lluvia, el suelo se compacta con el ganado y muchas especies pierden casa y alimento. Además, el carbono guardado en los árboles sale a la atmósfera y afecta el clima regional y global.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W25-ecosistemas-colombia-paramos-selvas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W25-ecosistemas-colombia-paramos-selvas-001-MASTERY-bundle-v5",
+      "statement": "¿Cómo ayudan las hojas peludas y gruesas del frailejón a vivir en el páramo?",
+      "context": "En una clase de Tunja, los estudiantes tocan hojas de frailejón peludas y gruesas y las comparan con hojas delgadas de plantas de tierra caliente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sirven para espantar turistas en Tunja porque pican como ortiga caliente.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: los pelitos no son para picar turistas, sino para proteger del frío y guardar agua."
+        },
+        {
+          "letter": "B",
+          "text": "Atrapan la niebla, aíslan del frío y reducen la pérdida de agua por el viento.",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: relaciona adaptación con captación de agua y protección térmica."
+        },
+        {
+          "letter": "C",
+          "text": "Sirven para hacer fotosíntesis de noche sin necesidad de luz del sol.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: la fotosíntesis necesita luz, y los pelos no reemplazan al sol."
+        },
+        {
+          "letter": "D",
+          "text": "Son adornos sin función que la planta puede perder sin consecuencias.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: sin esa protección la planta se congela y se deshidrata en el páramo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El páramo combina sol fuerte de día, frío de noche y viento seco. Los pelos blancos reflejan el exceso de sol, frenan el viento y condensan gotas de niebla que caen a la base. Las hojas gruesas guardan agua. Así el frailejón sobrevive donde otras plantas se helarían y además aporta agua al suelo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-7-2026-W25-ecosistemas-colombia-paramos-selvas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W25-ecosistemas-colombia-paramos-selvas-001-MASTERY-bundle-v6",
+      "statement": "¿Qué comparación entre selva chocoana y páramo es correcta?",
+      "context": "En Quibdó, Chocó, llueve casi todos los días y hay ranas de colores, mientras en el páramo de Sumapaz hace frío y crecen frailejones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos tienen el mismo clima, las mismas plantas y los mismos animales.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: altura, temperatura y lluvias distintas crean comunidades muy diferentes."
+        },
+        {
+          "letter": "B",
+          "text": "La selva es cálida y lluviosa con alta biodiversidad, y el páramo es frío de altura con especies adaptadas al frío.",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: contrasta clima, altura y adaptaciones de cada ecosistema."
+        },
+        {
+          "letter": "C",
+          "text": "El páramo es más caliente que Quibdó y tiene más monos y guacamayas.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: invierte los climas y los animales típicos de cada zona."
+        },
+        {
+          "letter": "D",
+          "text": "La selva no tiene agua y el páramo no tiene plantas porque ambos son desiertos.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: ambos son húmedos y con vegetación, aunque de tipos opuestos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Chocó biogeográfico es tierra baja cálida con lluvias extremas y miles de especies endémicas. El páramo es alta montaña fría con menos especies, pero muy únicas y claves para el agua. Compararlos muestra cómo la temperatura y la altura filtran qué seres viven en cada lugar y qué servicio presta cada ecosistema al país.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W25-ecosistemas-colombia-paramos-selvas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W25-ecosistemas-colombia-paramos-selvas-001-MASTERY-bundle-v7",
+      "statement": "¿Qué ocurre si desaparece el jaguar de esa red trófica amazónica?",
+      "context": "En el Amazonas, los estudiantes arman una red con hormigas, oso hormiguero, jaguar, árbol de caucho y hongos que descomponen hojas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nada cambia porque en el Amazonas cada especie vive aislada de las demás.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: las especies están conectadas por alimentación y control mutuo."
+        },
+        {
+          "letter": "B",
+          "text": "Aumentan sus presas, se altera la vegetación y se desequilibra toda la red.",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: el depredador tope controla herbívoros y protege indirectamente a las plantas."
+        },
+        {
+          "letter": "C",
+          "text": "Los hongos dejan de descomponer hojas porque extrañan al jaguar.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: los hongos descomponen materia muerta sin depender del afecto por un animal."
+        },
+        {
+          "letter": "D",
+          "text": "Los árboles crecen mejor de inmediato porque el jaguar se comía las hojas del caucho.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el jaguar es carnívoro y no come hojas de caucho."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El jaguar regula poblaciones de pecaríes, capibaras y otros herbívoros. Sin ese control, las presas se multiplican y consumen más semillas y plántulas, lo que cambia el bosque. Es un efecto en cascada: quitar al depredador tope altera plantas, presas y hasta los nutrientes del suelo amazónico.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-7-2026-W25-ecosistemas-colombia-paramos-selvas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W25-ecosistemas-colombia-paramos-selvas-001-MASTERY-bundle-v8",
+      "statement": "¿Qué efecto tiene sembrar papa con agroquímicos dentro del páramo?",
+      "context": "En un páramo de Boyacá, algunos campesinos siembran papa muy arriba y usan agroquímicos cerca de las quebradas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguno, porque la papa de Boyacá purifica el agua y crea más frailejones.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: arar destruye la esponja y los químicos contaminan el agua."
+        },
+        {
+          "letter": "B",
+          "text": "Remueve el suelo esponja, contamina el agua y desplaza la vegetación nativa.",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: une daño físico al suelo, contaminación química y pérdida de hábitat."
+        },
+        {
+          "letter": "C",
+          "text": "Mejora la niebla porque el tractor atrae más lluvia al páramo.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: la maquinaria compacta el suelo y no aumenta la lluvia."
+        },
+        {
+          "letter": "D",
+          "text": "Aumenta el caudal limpio porque sin musgo el agua corre más rápido y pura.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: sin musgo el agua baja turbia y con crecientes, no limpia ni regulada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Arar el páramo rompe el colchón de musgos que guarda agua y libera carbono del suelo. Los fertilizantes y plaguicidas llegan a quebradas que surten acueductos. Además, la papa desplaza frailejones y pajonales. Por eso la norma protege los páramos y promueve reconversión hacia actividades de bajo impacto fuera de la zona núcleo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-7-2026-W25-ecosistemas-colombia-paramos-selvas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W25-ecosistemas-colombia-paramos-selvas-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál proyecto conviene priorizar con criterios científicos?",
+      "context": "La alcaldía de un municipio entre páramo y selva tiene poco presupuesto y debe elegir un proyecto que proteja biodiversidad y agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Secar un humedal para construir canchas y talar selva para vender madera en un mes.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: destruye agua y biodiversidad por un beneficio corto y costoso a futuro."
+        },
+        {
+          "letter": "B",
+          "text": "Traer animales de otro continente para que haya más especies en las fotos del municipio.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: introducir exóticas desplaza nativas y crea plagas difíciles de controlar."
+        },
+        {
+          "letter": "C",
+          "text": "Restaurar corredores con especies nativas, proteger nacimientos y pagar a familias que conservan bosque y páramo.",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: conecta hábitat, agua y sustento local con evidencia de conservación."
+        },
+        {
+          "letter": "D",
+          "text": "Fumigar todo el borde de selva para eliminar zancudos sin estudiar efectos en abejas y ríos.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: la fumigación masiva mata polinizadores y contamina agua y suelos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La mejor inversión une tres metas: corredores que permiten moverse a los animales entre fragmentos, restauración de riberas que filtra el agua, y acuerdos con familias que cuidan el bosque. Se mide con indicadores: hectáreas restauradas, calidad del agua y especies que regresan. Así el presupuesto protege biodiversidad y asegura agua duradera.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-7-2026-W25-ecosistemas-colombia-paramos-selvas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W25-ecosistemas-colombia-paramos-selvas-001-MASTERY-bundle-v10",
+      "statement": "¿Cómo se evalúa esa propuesta desde la ecología?",
+      "context": "En la feria de ciencia de Pasto, un grupo propone abrir una carretera que cruce un páramo y una selva para acortar una hora de viaje.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es excelente porque las carreteras nunca afectan animales, agua ni clima en Pasto.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: toda vía fragmenta hábitat, contamina y abre paso a más deforestación."
+        },
+        {
+          "letter": "B",
+          "text": "Es riesgosa porque fragmenta hábitats, contamina aguas y facilita invasiones y deforestación si no se evalúa y mitiga.",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: exige estudio de impacto, alternativas y medidas de mitigación."
+        },
+        {
+          "letter": "C",
+          "text": "Es buena solo porque el cemento es gris y combina con la niebla del páramo.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el color no mide el daño ecológico ni social del proyecto."
+        },
+        {
+          "letter": "D",
+          "text": "Es inocua porque los animales aprenden a leer señales de tránsito en una semana.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: muchas especies no cruzan vías y mueren atropelladas aunque haya señales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una carretera divide poblaciones, impide el paso de semillas y animales, aporta sedimentos y químicos a los ríos y abre accesos para tala y minería ilegal. Evaluarla exige estudio de impacto ambiental, consulta de alternativas por zonas ya intervenidas, pasos de fauna, manejo de aguas y monitoreo. Solo con esas condiciones se puede decidir si el ahorro de tiempo justifica el costo ecológico.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.45,
+      "bundle_id": "CO-CN-7-2026-W25-ecosistemas-colombia-paramos-selvas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}
