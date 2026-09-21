@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-16-grade-5-subject-lengua",
+    "generated_at": "2026-09-20T23:02:47.327Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-5-2026-W16-poema-rima-verso-001-MASTERY-bundle-v1",
+      "statement": "En un poema, ¿qué es un verso?",
+      "context": "En Bogotá, la profesora de quinto escribe un poema en el tablero sobre el humedal Santa María del Lago.\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cada línea del poema que forma parte de una estrofa.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el verso es la unidad mínima del poema y varias líneas forman una estrofa."
+        },
+        {
+          "letter": "B",
+          "text": "El título del cuaderno de español.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el título nombra el texto, pero no es una línea del poema."
+        },
+        {
+          "letter": "C",
+          "text": "La lista de asistencia del salón.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la lista registra nombres y no tiene versos ni rima."
+        },
+        {
+          "letter": "D",
+          "text": "El precio de un libro en la feria escolar.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el precio es un dato numérico y no una línea poética."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El poema se escribe en versos, que son las líneas que el poeta organiza con ritmo y musicalidad. Un conjunto de versos forma una estrofa. Reconocer el verso permite contar las líneas y comprender cómo está construido el poema.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-5-2026-W16-poema-rima-verso-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W16-poema-rima-verso-001-MASTERY-bundle-v2",
+      "statement": "En los versos \"Brilla el sol en la mañana / y canta alegre la rana\", ¿por qué riman \"mañana\" y \"rana\"?",
+      "context": "En Medellín, los estudiantes de quinto leen en la biblioteca del barrio: \"Brilla el sol en la mañana / y canta alegre la rana\".\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque empiezan con la misma letra.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la rima se define por la terminación igual, no por la letra inicial."
+        },
+        {
+          "letter": "B",
+          "text": "Porque terminan con el mismo sonido: \"ana\".",
+          "is_correct": true,
+          "feedback": "Es correcta porque la rima es la repetición de sonidos al final de los versos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque tienen el mismo número de letras.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque contar letras no determina la semejanza de sonidos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque hablan de animales diferentes.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el tema de los versos no define la rima."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La rima es la coincidencia de sonidos desde la última vocal acentuada hasta el final del verso. En \"mañana\" y \"rana\" se repite el sonido \"ana\". Reconocer esta repetición ayuda a disfrutar la musicalidad del poema.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-5-2026-W16-poema-rima-verso-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W16-poema-rima-verso-001-MASTERY-bundle-v3",
+      "statement": "En la estrofa que lee Valentina, ¿qué palabras forman la rima?",
+      "context": "En Cali, Valentina lee una estrofa sobre el río: \"El río corre cantando, / el viento viene silbando, / los niños van jugando, / y el sol los mira brillando\".\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Río, viento, niños y sol.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque esas palabras están en medio del verso y no cierran con el mismo sonido."
+        },
+        {
+          "letter": "B",
+          "text": "Corre, viene, van y mira.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque son verbos intermedios y no comparten la terminación final."
+        },
+        {
+          "letter": "C",
+          "text": "Cantando, silbando, jugando y brillando.",
+          "is_correct": true,
+          "feedback": "Es correcta porque todas terminan en \"ando\" y cierran cada verso con el mismo sonido."
+        },
+        {
+          "letter": "D",
+          "text": "El, los, y, los.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los artículos no crean rima al final del verso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para hallar la rima se observan las últimas palabras de cada verso. Cuando varias terminan con el mismo sonido, forman un esquema de rima que da ritmo al poema. Aplicar este procedimiento permite describir la musicalidad de cualquier estrofa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-5-2026-W16-poema-rima-verso-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W16-poema-rima-verso-001-MASTERY-bundle-v4",
+      "statement": "¿Cuántos versos tiene el poema que copió Santiago y cómo lo sabes?",
+      "context": "En Cartagena, Santiago copia en su cuaderno este poema sobre el mar: \"Olas que llegan cantando (1) / espuma blanca dejando (2) / barcos que van navegando (3) / y gaviotas volando (4)\".\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dos versos, porque solo hay dos puntos finales.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque cada línea cuenta como verso aunque no termine en punto."
+        },
+        {
+          "letter": "B",
+          "text": "Tres versos, porque menciona tres elementos del mar.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque contar elementos del tema no indica el número de líneas."
+        },
+        {
+          "letter": "C",
+          "text": "Un verso, porque todo habla del mar.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque un solo tema puede desarrollarse en varios versos."
+        },
+        {
+          "letter": "D",
+          "text": "Cuatro versos, porque hay cuatro líneas que forman la estrofa.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el verso se cuenta por líneas, y aquí hay cuatro líneas numeradas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El número de versos se cuenta por líneas, no por puntos ni por temas. Cada salto de línea inicia un verso nuevo. Aplicar esta regla evita confundir la extensión del tema con la estructura formal del poema.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-5-2026-W16-poema-rima-verso-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W16-poema-rima-verso-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál texto es un poema y por qué?",
+      "context": "En Pereira, Mariana compara dos textos. Texto 1: \"Ayer los estudiantes sembraron café en la huerta y regaron las plantas\". Texto 2: \"Cafetal de mi vereda, / verde manto que me enreda, / aroma dulce que queda / en mi corazón de seda\".\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto 2, porque está escrito en versos con rima y musicalidad.",
+          "is_correct": true,
+          "feedback": "Es correcta porque reconoce la forma poética: líneas breves con terminaciones iguales en \"eda\"."
+        },
+        {
+          "letter": "B",
+          "text": "El texto 1, porque informa sobre la huerta escolar.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque informar un hecho corresponde a la noticia, no al poema."
+        },
+        {
+          "letter": "C",
+          "text": "El texto 1, porque es más largo y tiene más datos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la extensión no convierte un texto informativo en poema."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos son poemas porque hablan del café.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque compartir el tema no significa compartir la forma poética."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El poema se reconoce por su forma: versos, ritmo y rima, además de un lenguaje con imágenes. La noticia o el informe usan párrafos para contar hechos. Aplicar esta diferencia permite clasificar textos según su intención y su estructura.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-5-2026-W16-poema-rima-verso-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W16-poema-rima-verso-001-MASTERY-bundle-v6",
+      "statement": "Al analizar los dos textos, ¿qué diferencia hay entre ellos?",
+      "context": "En Manizales, dos estudiantes escriben sobre el nevado del Ruiz. Camila escribe: \"Blanca nieve del nevado, / espejo del cielo amado\". Diego escribe: \"Ayer subimos al nevado, el bus salió a las seis y llevamos fiambre\".\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos son poemas porque mencionan el nevado.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque mencionar el mismo lugar no crea la forma poética."
+        },
+        {
+          "letter": "B",
+          "text": "Camila escribe un poema con imágenes y rima; Diego escribe un relato informativo sin verso ni rima.",
+          "is_correct": true,
+          "feedback": "Es correcta porque distingue el lenguaje figurado y musical del lenguaje literal e informativo."
+        },
+        {
+          "letter": "C",
+          "text": "Diego escribe un poema porque incluye la hora de salida del bus.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los datos horarios son propios del informe, no del poema."
+        },
+        {
+          "letter": "D",
+          "text": "Camila escribe una noticia porque usa palabras bonitas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las palabras bonitas con rima pertenecen al poema, no a la noticia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar implica comparar forma e intención: el poema usa imágenes, ritmo y rima para expresar sentimientos; el relato informa hechos con datos. Esta distinción forma lectores capaces de reconocer cuándo un texto busca emocionar y cuándo busca informar.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-5-2026-W16-poema-rima-verso-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W16-poema-rima-verso-001-MASTERY-bundle-v7",
+      "statement": "¿Qué significa el verso \"El Chicamocha es un león de piedra que ruge entre montañas\"?",
+      "context": "En Bucaramanga, el curso lee: \"El Chicamocha es un león de piedra que ruge entre montañas\". La profesora pregunta qué significa el verso.\n**Expected_Success:** 0.68",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que en el cañón vive un león verdadero que ruge de noche.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque interpreta la imagen de forma literal y no reconoce la comparación poética."
+        },
+        {
+          "letter": "B",
+          "text": "Que el río está hecho de piedra sólida y no lleva agua.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque confunde la imagen del cañón de piedra con el agua del río."
+        },
+        {
+          "letter": "C",
+          "text": "Que el cañón es grande y fuerte como un león, y el viento suena como un rugido.",
+          "is_correct": true,
+          "feedback": "Es correcta porque interpreta la comparación: la fuerza del león representa la grandeza del cañón."
+        },
+        {
+          "letter": "D",
+          "text": "Que las montañas se convirtieron en animales del zoológico.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque lleva la imagen a un hecho fantástico sin relación con el poema."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El lenguaje poético usa comparaciones y metáforas: dice que algo es otra cosa para resaltar una cualidad. Aquí el león representa fuerza y grandeza. Analizar estas imágenes enseña a leer más allá de lo literal y a descubrir el sentimiento del poeta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-5-2026-W16-poema-rima-verso-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W16-poema-rima-verso-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál verso final mantiene la rima y el sentido de la estrofa?",
+      "context": "En Tunja, el curso debe terminar una estrofa para el festival de la ruana: \"En la plaza de Tunja cantamos / con ruana de lana bailamos, / ...\".\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ayer compramos papas en la plaza por tres mil pesos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque rompe la forma de verso y no rima con \"cantamos\" y \"bailamos\"."
+        },
+        {
+          "letter": "B",
+          "text": "La ruana cuesta veinte mil pesos en el mercado de la ciudad.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque introduce un dato comercial sin rima ni ritmo poético."
+        },
+        {
+          "letter": "C",
+          "text": "El bus salió temprano hacia Bogotá con todos los estudiantes.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque es un enunciado informativo que no conserva la rima en \"amos\"."
+        },
+        {
+          "letter": "D",
+          "text": "Y con alegría celebramos.",
+          "is_correct": true,
+          "feedback": "Es correcta porque conserva la rima en \"amos\", el ritmo y el sentimiento de fiesta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar un final poético exige comprobar dos criterios: que rime con los versos anteriores y que mantenga el tema y el tono. La opción correcta cierra la estrofa con coherencia musical y de sentido, mientras las demás rompen la forma o cambian el tema.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-5-2026-W16-poema-rima-verso-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

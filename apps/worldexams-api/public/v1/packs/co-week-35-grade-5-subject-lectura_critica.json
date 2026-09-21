@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-35-grade-5-subject-lectura_critica",
+    "generated_at": "2026-09-20T17:58:21.700Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-5-2026-W35-cuento-terror-colombiano-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es una característica propia del cuento de terror?",
+      "context": "En una escuela de Tunja, la profesora lee un cuento de terror ambientado en una casona abandonada durante una noche de tormenta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presenta un ambiente misterioso que produce miedo o suspenso",
+          "is_correct": true,
+          "feedback": "Correcto, el ambiente inquietante es esencial en el cuento de terror."
+        },
+        {
+          "letter": "B",
+          "text": "Explica con tablas cómo resolver operaciones matemáticas",
+          "is_correct": false,
+          "feedback": "Las tablas matemáticas no pertenecen al cuento de terror."
+        },
+        {
+          "letter": "C",
+          "text": "Describe recetas de cocina paso a paso",
+          "is_correct": false,
+          "feedback": "Las recetas corresponden al texto instructivo, no al cuento de terror."
+        },
+        {
+          "letter": "D",
+          "text": "Presenta horarios de buses y rutas de transporte",
+          "is_correct": false,
+          "feedback": "Los horarios de buses son textos informativos, no literarios."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cuento de terror se reconoce por su ambiente de misterio y por las emociones que provoca.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-5-2026-W35-cuento-terror-colombiano-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W35-cuento-terror-colombiano-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué las leyendas colombianas como la Llorona se usan en los cuentos de terror?",
+      "context": "En Ibagué, los niños leen una historia sobre la Llorona que aparece cerca del río en las noches de luna llena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque enseñan a sumar y restar con rapidez",
+          "is_correct": false,
+          "feedback": "Las leyendas no tienen como fin enseñar operaciones matemáticas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque explican las normas de tránsito de la ciudad",
+          "is_correct": false,
+          "feedback": "Las normas de tránsito no se relacionan con las leyendas de terror."
+        },
+        {
+          "letter": "C",
+          "text": "Porque aportan personajes y creencias conocidas que aumentan el miedo",
+          "is_correct": true,
+          "feedback": "Correcto, las leyendas conectan con la cultura y hacen el terror más cercano."
+        },
+        {
+          "letter": "D",
+          "text": "Porque describen los precios del mercado",
+          "is_correct": false,
+          "feedback": "Los precios del mercado no forman parte de las leyendas de terror."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las leyendas colombianas enriquecen el cuento de terror con tradición cultural y misterio.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-5-2026-W35-cuento-terror-colombiano-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W35-cuento-terror-colombiano-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál ambiente es el más adecuado para un cuento de terror colombiano?",
+      "context": "Un escritor escolar de Neiva quiere crear un cuento de terror para el periódico del colegio y necesita elegir el mejor ambiente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un parque soleado lleno de niños jugando y riendo",
+          "is_correct": false,
+          "feedback": "Un ambiente alegre y soleado no genera miedo ni suspenso."
+        },
+        {
+          "letter": "B",
+          "text": "Una casa abandonada en el campo, oscura y con ruidos extraños",
+          "is_correct": true,
+          "feedback": "Correcto, la oscuridad y los sonidos misteriosos crean suspenso."
+        },
+        {
+          "letter": "C",
+          "text": "Un salón iluminado donde celebran un cumpleaños",
+          "is_correct": false,
+          "feedback": "Una fiesta iluminada transmite alegría, no terror."
+        },
+        {
+          "letter": "D",
+          "text": "Una tienda con música animada y muchos clientes",
+          "is_correct": false,
+          "feedback": "Un lugar animado y concurrido no produce sensación de terror."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ambiente oscuro y solitario es un recurso clave para construir el miedo en el relato.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-5-2026-W35-cuento-terror-colombiano-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W35-cuento-terror-colombiano-001-MASTERY-bundle-v4",
+      "statement": "Si aplicas lo aprendido sobre personajes del cuento de terror, ¿quién genera el conflicto misterioso?",
+      "context": "En Villavicencio, los estudiantes analizan personajes de un cuento donde aparecen el Mohán, un pescador valiente y el río misterioso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El pescador valiente que ayuda a sus amigos",
+          "is_correct": false,
+          "feedback": "El pescador representa al héroe, no a la fuente del misterio."
+        },
+        {
+          "letter": "B",
+          "text": "El río como simple paisaje sin importancia",
+          "is_correct": false,
+          "feedback": "El río es el escenario, pero no actúa como personaje misterioso."
+        },
+        {
+          "letter": "C",
+          "text": "El narrador que solo cuenta cuántos peces pescaron",
+          "is_correct": false,
+          "feedback": "Contar peces no crea conflicto de terror en la historia."
+        },
+        {
+          "letter": "D",
+          "text": "El Mohán, ser legendario que asusta a los pescadores",
+          "is_correct": true,
+          "feedback": "Correcto, el ser sobrenatural provoca el miedo y el conflicto central."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El personaje sobrenatural, tomado de la leyenda, desencadena el suspenso del cuento.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-5-2026-W35-cuento-terror-colombiano-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W35-cuento-terror-colombiano-001-MASTERY-bundle-v5",
+      "statement": "¿Qué emoción busca provocar en el lector esa frase del cuento?",
+      "context": "En una biblioteca de Medellín, un niño lee: \"Se escucharon pasos en el corredor oscuro y el corazón de Ana latía con fuerza\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Miedo y suspenso ante lo que pueda ocurrir",
+          "is_correct": true,
+          "feedback": "Correcto, los sonidos y la oscuridad anticipan algo aterrador."
+        },
+        {
+          "letter": "B",
+          "text": "Alegría por una fiesta sorpresa",
+          "is_correct": false,
+          "feedback": "La frase no describe celebración ni alegría."
+        },
+        {
+          "letter": "C",
+          "text": "Tranquilidad para dormir profundamente",
+          "is_correct": false,
+          "feedback": "Los pasos misteriosos no transmiten tranquilidad."
+        },
+        {
+          "letter": "D",
+          "text": "Hambre por un plato de comida",
+          "is_correct": false,
+          "feedback": "La frase no menciona alimentos ni provoca hambre."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los detalles sensoriales del terror buscan que el lector sienta miedo y expectativa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-5-2026-W35-cuento-terror-colombiano-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W35-cuento-terror-colombiano-001-MASTERY-bundle-v6",
+      "statement": "¿Qué análisis permite afirmar que solo el segundo inicio corresponde a un cuento de terror colombiano?",
+      "context": "En Cali, dos cuentos inician así: uno dice \"Había una vez un castillo brillante lleno de hadas\", otro dice \"En la vereda oscura de la montaña se perdió el niño al escuchar un lamento\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El primero es terror porque tiene castillo y hadas",
+          "is_correct": false,
+          "feedback": "Los castillos brillantes con hadas pertenecen al cuento maravilloso."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos son terror porque empiezan con una descripción",
+          "is_correct": false,
+          "feedback": "No toda descripción inicial crea una historia de terror."
+        },
+        {
+          "letter": "C",
+          "text": "El segundo crea ambiente rural, misterio y emoción de miedo desde el inicio",
+          "is_correct": true,
+          "feedback": "Correcto, el paisaje oscuro y el lamento instalan el suspenso propio del terror."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno puede analizarse como cuento de terror",
+          "is_correct": false,
+          "feedback": "El segundo inicio sí presenta marcas claras del cuento de terror."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar el inicio revela si el relato construye ambiente y emoción de terror.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-5-2026-W35-cuento-terror-colombiano-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W35-cuento-terror-colombiano-001-MASTERY-bundle-v7",
+      "statement": "¿Cómo se diferencia el nudo de un cuento de terror del nudo de una fábula?",
+      "context": "En Barranquilla, la profesora compara el nudo de un cuento de terror con el nudo de una fábula divertida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos nudos siempre terminan con una moraleja sobre animales",
+          "is_correct": false,
+          "feedback": "La moraleja es propia de la fábula, no del cuento de terror."
+        },
+        {
+          "letter": "B",
+          "text": "En el terror el nudo aumenta el peligro y el misterio, mientras en la fábula presenta un conflicto con enseñanza",
+          "is_correct": true,
+          "feedback": "Correcto, el terror intensifica el miedo y la fábula orienta hacia una lección."
+        },
+        {
+          "letter": "C",
+          "text": "En el terror el nudo es alegre y en la fábula es aburrido",
+          "is_correct": false,
+          "feedback": "Esa comparación no describe la estructura real de los relatos."
+        },
+        {
+          "letter": "D",
+          "text": "No hay diferencias entre los nudos de ambos relatos",
+          "is_correct": false,
+          "feedback": "Sí existen diferencias claras en propósito y construcción del conflicto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El nudo del terror eleva la tensión, mientras el de la fábula conduce a una enseñanza.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-5-2026-W35-cuento-terror-colombiano-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W35-cuento-terror-colombiano-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál cuento merece ganar el concurso como mejor cuento de terror colombiano?",
+      "context": "En Cartagena, el curso votará por el mejor cuento de terror para representar al colegio en un concurso de lectura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El que narra un paseo tranquilo sin misterio ni personajes legendarios",
+          "is_correct": false,
+          "feedback": "Sin misterio ni tensión no se logra el efecto de terror."
+        },
+        {
+          "letter": "B",
+          "text": "El que copia chistes de internet sin ambiente ni emoción",
+          "is_correct": false,
+          "feedback": "Los chistes copiados no construyen una historia de terror."
+        },
+        {
+          "letter": "C",
+          "text": "El que solo enumera datos de ciencias naturales",
+          "is_correct": false,
+          "feedback": "Enumerar datos científicos no crea un relato literario de terror."
+        },
+        {
+          "letter": "D",
+          "text": "El que combina ambiente oscuro, leyenda del Sombrerón y final sorprendente",
+          "is_correct": true,
+          "feedback": "Correcto, integra ambiente, tradición colombiana y efecto sorpresivo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El mejor cuento de terror une ambiente, personajes legendarios y un desenlace impactante.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LC-5-2026-W35-cuento-terror-colombiano-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

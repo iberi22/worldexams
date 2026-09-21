@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-9-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T03:42:40.853Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-6-2026-W09-microorganismos-hongos-bacterias-001-MASTERY-bundle-v1",
+      "statement": "¿Qué son los hongos como el moho del pan?",
+      "context": "En una cocina de Bogotá, la mamá muestra el moho verde sobre un pan viejo guardado en una bolsa húmeda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Microorganismos que se alimentan de materia orgánica y forman hifas y esporas",
+          "is_correct": true,
+          "feedback": "Correcto. Los hongos descomponen restos y se reproducen por esporas microscópicas."
+        },
+        {
+          "letter": "B",
+          "text": "Plantas con flores que hacen fotosíntesis en la cocina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los hongos no tienen clorofila ni flores; no fotosintetizan."
+        },
+        {
+          "letter": "C",
+          "text": "Animales pequeños que caminan sobre el pan",
+          "is_correct": false,
+          "feedback": "Incorrecto. El moho no se desplaza como un animal; es un hongo fijo."
+        },
+        {
+          "letter": "D",
+          "text": "Piedras diminutas que salen de la harina",
+          "is_correct": false,
+          "feedback": "Incorrecto. El moho es un ser vivo, no un mineral."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los hongos son descomponedores: liberan enzimas sobre el alimento, lo digieren por fuera y lo absorben.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-6-2026-W09-microorganismos-hongos-bacterias-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W09-microorganismos-hongos-bacterias-001-MASTERY-bundle-v2",
+      "statement": "¿Qué son las bacterias del yogur?",
+      "context": "En Medellín, el profesor compara en el microscopio una gota de yogur con una gota de agua limpia del acueducto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Microorganismos de una sola célula sin núcleo que fermentan la leche",
+          "is_correct": true,
+          "feedback": "Correcto. Son procariotas que transforman la lactosa en ácido láctico."
+        },
+        {
+          "letter": "B",
+          "text": "Gusanos largos que se ven a simple vista en la leche",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las bacterias solo se ven al microscopio, no son gusanos."
+        },
+        {
+          "letter": "C",
+          "text": "Virus gigantes que enferman siempre a quien come yogur",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estas bacterias son benéficas y seguras en alimentos."
+        },
+        {
+          "letter": "D",
+          "text": "Granos de azúcar que endulzan el yogur",
+          "is_correct": false,
+          "feedback": "Incorrecto. El azúcar es un ingrediente químico, no un ser vivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las bacterias son procariotas unicelulares: algunas enferman, pero muchas ayudan a digerir, fermentar y reciclar nutrientes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-6-2026-W09-microorganismos-hongos-bacterias-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W09-microorganismos-hongos-bacterias-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué los restos se convierten en abono en la compostera?",
+      "context": "En Boyacá, una familia deja hojas y cáscaras en una compostera y meses después obtiene tierra negra y olorosa para su huerta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque hongos y bacterias descomponen la materia muerta y liberan nutrientes al suelo",
+          "is_correct": true,
+          "feedback": "Correcto. Los descomponedores devuelven nitrógeno y minerales que usan las plantas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la tierra se fabrica sola sin ayuda de ningún ser vivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin descomponedores los restos se acumularían sin transformarse."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el plástico de la compostera crea tierra nueva",
+          "is_correct": false,
+          "feedback": "Incorrecto. El plástico no se convierte en abono ni alimenta plantas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el sol quema las hojas hasta volverlas polvo mágico",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sol seca, pero la transformación la hacen los microorganismos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los descomponedores cierran el ciclo de la materia: lo muerto vuelve a ser alimento para lo vivo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-6-2026-W09-microorganismos-hongos-bacterias-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W09-microorganismos-hongos-bacterias-001-MASTERY-bundle-v4",
+      "statement": "¿Qué proceso ocurre en el masato durante el reposo?",
+      "context": "En Cundinamarca, una abuela prepara masato de arroz dejándolo reposar tibio dos días hasta que burbujea y toma sabor ácido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fermentación, porque microorganismos transforman azúcares sin usar oxígeno y producen gas y ácidos",
+          "is_correct": true,
+          "feedback": "Correcto. Las burbujas y el sabor ácido son señales de fermentación."
+        },
+        {
+          "letter": "B",
+          "text": "Fotosíntesis, porque el masato verde capta luz en la olla",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la olla oscura y sin clorofila no hay fotosíntesis."
+        },
+        {
+          "letter": "C",
+          "text": "Congelación, porque el líquido se vuelve hielo en clima cálido",
+          "is_correct": false,
+          "feedback": "Incorrecto. El masato reposa al ambiente tibio, no se congela."
+        },
+        {
+          "letter": "D",
+          "text": "Filtración, porque el arroz se vuelve agua pura sin microbios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Filtrar separa sólidos; fermentar transforma azúcares con microbios."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fermentación es respiración sin oxígeno: levaduras y bacterias convierten azúcar en energía más gas, ácido o alcohol según el alimento.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.79,
+      "bundle_id": "CO-CN-6-2026-W09-microorganismos-hongos-bacterias-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W09-microorganismos-hongos-bacterias-001-MASTERY-bundle-v5",
+      "statement": "¿Por qué lavarse las manos previene enfermedades?",
+      "context": "En Cali, una niña se lava las manos con agua y jabón antes de comer cholado después de jugar en el parque.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el jabón arrastra y elimina microbios patógenos que podrían entrar por la boca",
+          "is_correct": true,
+          "feedback": "Correcto. La higiene corta la ruta de contagio mano-boca de bacterias y virus."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el jabón alimenta a los microbios buenos de la piel",
+          "is_correct": false,
+          "feedback": "Incorrecto. El jabón limpia, no alimenta; su función es remover suciedad y microbios."
+        },
+        {
+          "letter": "C",
+          "text": "Porque lavarse calienta las manos y mata el hambre",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lavarse no nutre; previene porque retira patógenos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el agua sola crea una capa que repele todo para siempre",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin jabón y sin frotar, muchos microbios quedan en la piel."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La higiene es prevención: agua, jabón y frotado de veinte segundos reducen drásticamente bacterias, virus y parásitos en las manos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CN-6-2026-W09-microorganismos-hongos-bacterias-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W09-microorganismos-hongos-bacterias-001-MASTERY-bundle-v6",
+      "statement": "¿Qué análisis explica lo que ocurrirá en cada vaso?",
+      "context": "En Tunja, dos vasos con leche tibia se dejan uno tapado en la nevera y otro destapado al sol, y se observan al día siguiente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El vaso al sol se agriará rápido por crecimiento bacteriano con calor, y el de nevera se conservará por frío que frena microbios",
+          "is_correct": true,
+          "feedback": "Correcto. El calor acelera la multiplicación y el frío la retrasa."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos se conservarán iguales porque la leche nunca cambia",
+          "is_correct": false,
+          "feedback": "Incorrecto. La leche es un gran alimento para bacterias y se altera pronto al calor."
+        },
+        {
+          "letter": "C",
+          "text": "El de nevera se dañará más porque el frío crea bacterias nuevas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El frío no crea bacterias; solo frena su crecimiento."
+        },
+        {
+          "letter": "D",
+          "text": "El vaso al sol se volverá agua pura porque el sol mata todo sin dejar rastro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sol tibio favorece microbios; no esteriliza la leche."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Temperatura y tiempo controlan el crecimiento microbiano: por eso refrigeramos alimentos perecederos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.71,
+      "bundle_id": "CO-CN-6-2026-W09-microorganismos-hongos-bacterias-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W09-microorganismos-hongos-bacterias-001-MASTERY-bundle-v7",
+      "statement": "¿Por qué la masa se esponja con levadura?",
+      "context": "En Pasto, un panadero nota que la masa de pan con levadura crece y se esponja cerca del horno tibio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la levadura, que es un hongo, fermenta azúcares y libera gas que infla la masa",
+          "is_correct": true,
+          "feedback": "Correcto. El dióxido de carbono queda atrapado en el gluten y forma burbujas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la harina tiene pulmones que respiran aire del horno",
+          "is_correct": false,
+          "feedback": "Incorrecto. La harina no respira; el gas lo producen las levaduras vivas."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el agua se convierte en piedras que levantan la masa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua hidrata, pero el esponjado lo causa el gas de fermentación."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la sal mata toda la levadura y la masa crece sola",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mucha sal frena a la levadura; sin levadura activa no hay esponjado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La levadura es un hongo unicelular: fermenta, produce dióxido de carbono y ese gas queda atrapado y esponja el pan y el masato.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CN-6-2026-W09-microorganismos-hongos-bacterias-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W09-microorganismos-hongos-bacterias-001-MASTERY-bundle-v8",
+      "statement": "¿Qué variable pone a prueba el experimento y qué resultado se espera?",
+      "context": "En Barranquilla, un curso pone un trozo de queso en bolsa sellada y otro al aire libre, y registra cuál se enmohece primero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pone a prueba el contacto con esporas del aire, y el queso al aire se enmohecerá primero",
+          "is_correct": true,
+          "feedback": "Correcto. El aire trae esporas de hongos que colonizan el alimento expuesto."
+        },
+        {
+          "letter": "B",
+          "text": "Pone a prueba el color de la bolsa, y la bolsa sellada se enmohecerá por ser oscura",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oscuridad no siembra hongos; las esporas del aire sí."
+        },
+        {
+          "letter": "C",
+          "text": "Pone a prueba el peso del queso, y el más pesado nunca se daña",
+          "is_correct": false,
+          "feedback": "Incorrecto. El peso no impide la colonización por esporas."
+        },
+        {
+          "letter": "D",
+          "text": "Pone a prueba el sabor, y el queso sellado sabrá mejor porque no tiene nutrientes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos tienen nutrientes; la diferencia es la exposición a esporas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las esporas viajan en el aire: cubrir y refrigerar alimentos reduce la llegada y el crecimiento de hongos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CN-6-2026-W09-microorganismos-hongos-bacterias-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W09-microorganismos-hongos-bacterias-001-MASTERY-bundle-v9",
+      "statement": "¿Qué juicio protege mejor la salud de los compradores?",
+      "context": "En la feria de Manizales, un vendedor guarda yogur casero sin refrigerar todo el día y dice que nunca hace daño porque es natural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Exigir cadena de frío y fecha de preparación, porque sin frío crecen patógenos aunque el yogur sea natural",
+          "is_correct": true,
+          "feedback": "Correcto. Lo natural también se contamina; el frío frena bacterias dañinas."
+        },
+        {
+          "letter": "B",
+          "text": "Aceptar que todo lo natural es seguro sin importar el calor ni las horas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La contaminación no distingue natural de industrial."
+        },
+        {
+          "letter": "C",
+          "text": "Probar un poco y si sabe rico venderlo toda la semana al sol",
+          "is_correct": false,
+          "feedback": "Incorrecto. El buen sabor no garantiza ausencia de patógenos."
+        },
+        {
+          "letter": "D",
+          "text": "Agregar más azúcar para que los microbios malos se vuelvan buenos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El azúcar alimenta fermentación, no convierte patógenos en benéficos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar riesgo alimentario exige frío, higiene y tiempos cortos: las bacterias patógenas se multiplican rápido entre 5 y 60 grados.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-6-2026-W09-microorganismos-hongos-bacterias-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W09-microorganismos-hongos-bacterias-001-MASTERY-bundle-v10",
+      "statement": "¿Qué evaluación de las tres afirmaciones es científicamente correcta?",
+      "context": "En Bucaramanga, tres afirmaciones se debaten: 1) Todos los microorganismos causan enfermedades. 2) Los antibióticos curan gripes causadas por virus. 3) Hervir el agua elimina muchos patógenos y previene diarreas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La 1 es falsa porque muchos son benéficos, la 2 es falsa porque los antibióticos no atacan virus, y la 3 es verdadera",
+          "is_correct": true,
+          "feedback": "Correcto. Hay microbios útiles, el antibiótico es antibacteriano y hervir desinfecta el agua."
+        },
+        {
+          "letter": "B",
+          "text": "Las tres son verdaderas porque todo microbio enferma y todo remedio cura todo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Generaliza y confunde bacterias con virus."
+        },
+        {
+          "letter": "C",
+          "text": "Las tres son falsas porque los microbios no existen",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los microbios se observan al microscopio y en cultivos."
+        },
+        {
+          "letter": "D",
+          "text": "Solo la 2 es verdadera y se debe tomar antibiótico para todo resfriado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Abusar de antibióticos crea resistencia y no cura virus."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Juzgar exige diferenciar bacterias de virus y patógenos de benéficos para usar antibióticos e higiene con responsabilidad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-6-2026-W09-microorganismos-hongos-bacterias-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

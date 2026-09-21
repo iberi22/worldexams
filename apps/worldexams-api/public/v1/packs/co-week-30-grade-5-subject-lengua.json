@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-30-grade-5-subject-lengua",
+    "generated_at": "2026-09-20T23:46:03.641Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-5-2026-W30-lectura-critica-publicidad-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es un anuncio publicitario?",
+      "context": "En Bogotá, la televisión repite un anuncio de zapatos con música alegre y niños corriendo.\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una noticia verdadera del noticiero.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la noticia informa hechos y el anuncio quiere vender."
+        },
+        {
+          "letter": "B",
+          "text": "Una carta familiar que llega por correo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la carta es privada y el anuncio es para todo el público."
+        },
+        {
+          "letter": "C",
+          "text": "Un mensaje que promociona un producto para que la gente lo compre.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el anuncio muestra los zapatos con alegría para provocar la compra."
+        },
+        {
+          "letter": "D",
+          "text": "Una receta médica del doctor.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la receta ordena medicinas y no vende zapatos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La publicidad es un mensaje con intención de venta: muestra lo bueno, esconde lo malo y repite para convencer. Recordar esta intención permite ver anuncios sin creer todo lo que prometen.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-5-2026-W30-lectura-critica-publicidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W30-lectura-critica-publicidad-001-MASTERY-bundle-v2",
+      "statement": "Según el cartel, ¿qué datos buscan convencer al cliente?",
+      "context": "En Cali, el cartel del jugo dice: \"¡El más rico! ¡Pruébalo ya! Solo por dos mil pesos\".\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La dirección de la fábrica y su historia.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el cartel no trae historia de la fábrica."
+        },
+        {
+          "letter": "B",
+          "text": "La promesa de sabor, la invitación urgente y el precio bajo.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el más rico antoja, ya apura y dos mil pesos animan a comprar."
+        },
+        {
+          "letter": "C",
+          "text": "Los nombres de todos los empleados.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los empleados no aparecen en el cartel."
+        },
+        {
+          "letter": "D",
+          "text": "La tabla de impuestos del negocio.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los impuestos no convencen a ningún cliente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Todo anuncio ataca con tres armas: promesa, urgencia y precio. Comprender este trío permite desarmar carteles y decidir con la cabeza fría si el jugo vale los dos mil pesos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-5-2026-W30-lectura-critica-publicidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W30-lectura-critica-publicidad-001-MASTERY-bundle-v3",
+      "statement": "¿Qué promesa escondida trae el comercial?",
+      "context": "En Medellín, el comercial asegura: \"Con estas galletas serás el más popular del colegio\".\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que las galletas alimentan con vitaminas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el comercial no habla de nutrición sino de fama."
+        },
+        {
+          "letter": "B",
+          "text": "Que las galletas cuestan muy baratas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el comercial no menciona ningún precio."
+        },
+        {
+          "letter": "C",
+          "text": "Que comerlas te dará amigos y popularidad.",
+          "is_correct": true,
+          "feedback": "Es correcta porque une el producto con la fama: compra galletas y consigue amigos."
+        },
+        {
+          "letter": "D",
+          "text": "Que las galletas sirven para estudiar mejor.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el comercial promete amigos, no buenas notas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La publicidad vende sueños pegados al producto: galletas igual a amigos. Aplicar esta lectura revela la promesa escondida y permite preguntar si un paquete puede dar lo que solo da la amistad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-5-2026-W30-lectura-critica-publicidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W30-lectura-critica-publicidad-001-MASTERY-bundle-v4",
+      "statement": "¿Qué truco usa el aviso para apurar la compra?",
+      "context": "En Barranquilla, el aviso grita: \"¡Solo hoy! ¡Últimas unidades! ¡Corre por tu televisor!\".\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Regalar el televisor a todo el barrio.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el aviso vende y no regala nada."
+        },
+        {
+          "letter": "B",
+          "text": "Explicar con calma las características técnicas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el aviso grita prisa y no explica nada."
+        },
+        {
+          "letter": "C",
+          "text": "Invitar a comparar precios con otras tiendas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque comparar daría tiempo y el aviso quiere prisa."
+        },
+        {
+          "letter": "D",
+          "text": "Crear urgencia con el solo hoy y las últimas unidades.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la prisa falsa impide pensar y empuja a comprar ya."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La urgencia es el truco favorito: solo hoy y últimas unidades apagan el pensamiento. Aplicar esta alerta permite respirar, comparar y decidir mañana con calma si el televisor conviene.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-5-2026-W30-lectura-critica-publicidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W30-lectura-critica-publicidad-001-MASTERY-bundle-v5",
+      "statement": "¿A quién quiere atrapar el anuncio con el campeón?",
+      "context": "En Bucaramanga, el anuncio de cereal muestra a un campeón levantando la copa y dice \"Desayuna como un campeón\".\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A los niños que sueñan con ganar como él.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el campeón es el espejo donde los niños se quieren ver."
+        },
+        {
+          "letter": "B",
+          "text": "A los abuelos que ya no desayunan.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el campeón joven no habla a los abuelos."
+        },
+        {
+          "letter": "C",
+          "text": "A los médicos que recetan dietas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los médicos exigen pruebas y no copas."
+        },
+        {
+          "letter": "D",
+          "text": "A los tenderos que venden el cereal.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el tendero ya vende y el anuncio busca nuevos niños."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La publicidad elige un modelo que el público admira: campeón para niños soñadores. Aplicar esta lectura del público objetivo permite entender por qué el anuncio usa fútbol y copas en vez de datos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-5-2026-W30-lectura-critica-publicidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W30-lectura-critica-publicidad-001-MASTERY-bundle-v6",
+      "statement": "Al analizar las dos voces, ¿qué se concluye?",
+      "context": "En Pereira, comparan el anuncio (\"Dientes blancos en un día\") con el odontólogo (\"Ninguna crema blanquea en un día\").\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El anuncio dice la verdad y el doctor miente.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el doctor estudia dientes y el anuncio quiere vender."
+        },
+        {
+          "letter": "B",
+          "text": "El anuncio exagera para vender y el experto corrige con ciencia.",
+          "is_correct": true,
+          "feedback": "Es correcta porque distingue la promesa imposible (blanco en un día) del saber profesional."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos mienten para confundir a la gente.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el experto informa sin vender nada."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos venden la misma crema dental.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el doctor no vende cremas; cuida sonrisas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar es enfrentar voces: la que vende contra la que sabe. El anuncio exagera y el experto mide. Esta comparación forma compradores que consultan antes de creer promesas de un día.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-5-2026-W30-lectura-critica-publicidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W30-lectura-critica-publicidad-001-MASTERY-bundle-v7",
+      "statement": "Al analizar el folleto, ¿qué esconde con las letras pequeñas?",
+      "context": "En Cartagena, el folleto del juguete trae letras enormes de \"¡Diviértete!\" y letras diminutas de \"Pilas no incluidas. Se vende por separado\".\n**Expected_Success:** 0.68",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El nombre del juguete y su color.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el nombre va en letras grandes para atraer."
+        },
+        {
+          "letter": "B",
+          "text": "La dirección de la juguetería.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la dirección suele ir visible para llegar."
+        },
+        {
+          "letter": "C",
+          "text": "Los costos y condiciones extra que enfrían la compra.",
+          "is_correct": true,
+          "feedback": "Es correcta porque lo pequeño esconde pilas y pagos que el comprador debe sumar."
+        },
+        {
+          "letter": "D",
+          "text": "Las instrucciones para armarlo con papá.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque armarlo es parte del juego y no se esconde."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La letra pequeña esconde lo que enfría: pagos extra y condiciones. Analizar todo el folleto, grande y pequeño, permite calcular el costo real antes de pedir el juguete.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-5-2026-W30-lectura-critica-publicidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W30-lectura-critica-publicidad-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál anuncio evalúa mejor como compra responsable?",
+      "context": "En Villavicencio, el curso evalúa tres anuncios de zapatos para elegir uno sin dejarse engañar.\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"¡Vuela con ellos! ¡Solo hoy! ¡Sé el más popular!\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque junta fantasía, urgencia y fama: tres trucos sin datos."
+        },
+        {
+          "letter": "B",
+          "text": "\"Los usan los famosos, así que valen triple\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque pagar por la fama ajena no mide la calidad."
+        },
+        {
+          "letter": "C",
+          "text": "\"Cómpralos ya o te arrepentirás toda la vida\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque amenaza con miedo para impedir pensar."
+        },
+        {
+          "letter": "D",
+          "text": "\"Cuero resistente, talla 34 a 39, garantía de seis meses, precio en pesos\".",
+          "is_correct": true,
+          "feedback": "Es correcta porque informa material, tallas, garantía y precio para decidir con datos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar publicidad es pedir datos: material, garantía y precio claro. El anuncio elegido informa en vez de presionar y permite comprar zapatos que duran en vez de sueños que se rompen.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-5-2026-W30-lectura-critica-publicidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-9-grade-5-subject-lengua",
+    "generated_at": "2026-09-20T22:14:25.547Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-5-2026-W09-signos-puntuacion-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál oración usa correctamente el punto final?",
+      "context": "En Bogotá, Juan escribe un mensaje a su profesora para avisar que llevará los libros el lunes.\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Llevaré los libros el lunes.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la oración afirmativa termina con punto y expresa una idea completa."
+        },
+        {
+          "letter": "B",
+          "text": "Llevaré los libros el lunes",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque le falta el punto final que cierra la oración."
+        },
+        {
+          "letter": "C",
+          "text": "Llevaré, los libros el lunes.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque usa una coma innecesaria que corta la idea."
+        },
+        {
+          "letter": "D",
+          "text": "Llevaré los libros el lunes?",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el signo de cierre interroga y el mensaje es una afirmación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El punto final cierra las oraciones afirmativas y marca una pausa completa. Sin punto, el texto queda abierto y el lector no sabe dónde termina la idea. Recordar el punto final es la primera norma de la escritura correcta.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-5-2026-W09-signos-puntuacion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W09-signos-puntuacion-001-MASTERY-bundle-v2",
+      "statement": "Lee la oración: \"Compré mango, banano, papaya y piña\". ¿Para qué sirve la coma en esta oración?",
+      "context": "Valentina escribe en Medellín la lista de frutas que comprará con diez mil pesos para la ensalada del curso.\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para separar los elementos de una lista.",
+          "is_correct": true,
+          "feedback": "Es correcta porque cada coma separa una fruta de la siguiente en la enumeración."
+        },
+        {
+          "letter": "B",
+          "text": "Para indicar una pregunta a la vendedora.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la oración afirma lo comprado y no pregunta nada."
+        },
+        {
+          "letter": "C",
+          "text": "Para mostrar alegría por la compra.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la alegría se expresa con signos de exclamación, no con comas."
+        },
+        {
+          "letter": "D",
+          "text": "Para terminar el mensaje de la lista.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el mensaje termina con punto, no con coma."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La coma ordena las enumeraciones y evita que las palabras se mezclen. Sin comas, la lista sería confusa. Comprender su función ayuda a escribir recetas, listas de compras y descripciones con claridad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-5-2026-W09-signos-puntuacion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W09-signos-puntuacion-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál oración usa correctamente los signos de interrogación?",
+      "context": "En Cali, Santiago quiere preguntar a su amigo a qué hora empieza el partido en la cancha del barrio.\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "¿A qué hora empieza el partido?",
+          "is_correct": true,
+          "feedback": "Es correcta porque abre con el signo inicial y cierra con el final en una pregunta completa."
+        },
+        {
+          "letter": "B",
+          "text": "A qué hora empieza el partido?",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque le falta el signo de apertura propio del español."
+        },
+        {
+          "letter": "C",
+          "text": "¿A qué hora empieza el partido.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque cierra con punto y no completa la interrogación."
+        },
+        {
+          "letter": "D",
+          "text": "A qué hora empieza el partido.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque sin signos no se marca la intención de preguntar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En español las preguntas llevan dos signos: apertura y cierre. Aplicar los dos signos permite distinguir una pregunta de una afirmación. Esta norma es obligatoria en mensajes, exámenes y diálogos escritos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-5-2026-W09-signos-puntuacion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W09-signos-puntuacion-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál oración expresa correctamente la emoción con signos de exclamación?",
+      "context": "En Cartagena, Mariana celebra con emoción que su equipo ganó el festival de lectura.\n**Expected_Success:** 0.83",
+      "options": [
+        {
+          "letter": "A",
+          "text": "¡Ganamos el festival de lectura!",
+          "is_correct": true,
+          "feedback": "Es correcta porque usa apertura y cierre de exclamación para una emoción completa."
+        },
+        {
+          "letter": "B",
+          "text": "Ganamos el festival de lectura!",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque le falta el signo de apertura en español."
+        },
+        {
+          "letter": "C",
+          "text": "¡Ganamos el festival de lectura?",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque mezcla exclamación con interrogación y crea confusión."
+        },
+        {
+          "letter": "D",
+          "text": "¡Ganamos el festival de lectura.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque abre la emoción pero la cierra con punto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los signos de exclamación expresan alegría, sorpresa, susto o enojo y también exigen apertura y cierre. Aplicarlos bien da fuerza al mensaje y refleja la entonación de la voz al escribir felicitaciones, avisos y diálogos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LEN-5-2026-W09-signos-puntuacion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W09-signos-puntuacion-001-MASTERY-bundle-v5",
+      "statement": "Completa el aviso: \"Atención ___ traigan témperas, pinceles y cartulina\". ¿Qué signo falta después de \"Atención\"?",
+      "context": "En Manizales, la profesora escribe en el tablero los materiales de arte: témperas, pinceles y cartulina.\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dos puntos: \"Atención: traigan témperas, pinceles y cartulina\".",
+          "is_correct": true,
+          "feedback": "Es correcta porque los dos puntos anuncian la lista que viene después."
+        },
+        {
+          "letter": "B",
+          "text": "Signo de interrogación: \"Atención? traigan témperas, pinceles y cartulina\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el aviso no pregunta, sino que ordena o informa."
+        },
+        {
+          "letter": "C",
+          "text": "Punto final: \"Atención. traigan témperas, pinceles y cartulina\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el punto corta el anuncio y deja minúscula después de punto."
+        },
+        {
+          "letter": "D",
+          "text": "Coma simple: \"Atención, traigan témperas, pinceles y cartulina\" sin dos puntos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la coma sola no anuncia con la misma fuerza una enumeración formal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los dos puntos presentan una explicación, una lista o un anuncio después de una palabra de llamada como \"atención\" o \"materiales\". Aplicarlos correctamente organiza el aviso y prepara al lector para la información que sigue.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-5-2026-W09-signos-puntuacion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W09-signos-puntuacion-001-MASTERY-bundle-v6",
+      "statement": "Al analizar el aviso, ¿qué problema hay con las comas?",
+      "context": "Juan pegó este aviso en Pereira: \"Se busca , un perro blanco , juguetón y , cariñoso\".\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hay comas innecesarias que cortan la oración y separan palabras que deben ir unidas.",
+          "is_correct": true,
+          "feedback": "Es correcta porque sobran las comas después de \"busca\", \"blanco\" con espacios y antes de \"cariñoso\"."
+        },
+        {
+          "letter": "B",
+          "text": "Faltan signos de interrogación porque todo aviso debe preguntar.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque este aviso informa y no necesita preguntar."
+        },
+        {
+          "letter": "C",
+          "text": "Falta el punto final solamente y las comas están perfectas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque además del punto hay comas mal ubicadas que rompen la lectura."
+        },
+        {
+          "letter": "D",
+          "text": "Las comas están bien y el aviso no necesita corrección.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las pausas están mal marcadas y dificultan la lectura."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la puntuación exige leer en voz alta y sentir las pausas. Las comas solo separan elementos equivalentes o aclaran ideas, no se colocan al azar. Eliminar las comas sobrantes deja el aviso así: \"Se busca un perro blanco, juguetón y cariñoso\".",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-5-2026-W09-signos-puntuacion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W09-signos-puntuacion-001-MASTERY-bundle-v7",
+      "statement": "Compara los dos carteles. ¿Qué diferencia comunica cada puntuación?",
+      "context": "Dos carteles de Bogotá anuncian la feria. Cartel 1: \"¿Vienes a la feria del libro?\" Cartel 2: \"Vienes a la feria del libro.\"\n**Expected_Success:** 0.72",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cartel 1 invita con una pregunta y el cartel 2 solo informa con una afirmación.",
+          "is_correct": true,
+          "feedback": "Es correcta porque distingue la intención comunicativa que marca cada signo final."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos carteles preguntan lo mismo porque el punto también interroga.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el punto cierra afirmaciones y no formula preguntas."
+        },
+        {
+          "letter": "C",
+          "text": "El cartel 1 afirma y el cartel 2 pregunta por el orden de las palabras.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque invierte las funciones de los signos usados."
+        },
+        {
+          "letter": "D",
+          "text": "No hay diferencia, los signos no cambian el mensaje.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la puntuación transforma el sentido y la entonación del mensaje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El mismo grupo de palabras cambia de sentido según la puntuación. La interrogación invita a responder y crea cercanía, mientras el punto solo entrega un dato. Analizar estas diferencias enseña a elegir el signo según la intención del autor.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-5-2026-W09-signos-puntuacion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W09-signos-puntuacion-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál texto usa mejor los signos de puntuación?",
+      "context": "Valentina debe elegir el mejor texto para invitar a la feria del libro de Medellín.\n**Expected_Success:** 0.65",
+      "options": [
+        {
+          "letter": "A",
+          "text": "¿Vienes a la feria? Trae cuentos, colores y alegría. ¡Te esperamos!",
+          "is_correct": true,
+          "feedback": "Es correcta porque combina pregunta, enumeración con comas y exclamación con apertura y cierre."
+        },
+        {
+          "letter": "B",
+          "text": "Vienes a la feria Trae cuentos colores y alegría Te esperamos",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no tiene ningún signo y las ideas quedan pegadas."
+        },
+        {
+          "letter": "C",
+          "text": "¿Vienes a la feria. Trae, cuentos, colores, y alegría. ¡Te esperamos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque mezcla puntos con preguntas y usa comas innecesarias."
+        },
+        {
+          "letter": "D",
+          "text": "Vienes, a la feria? Trae cuentos colores y, alegría Te, esperamos!",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque coloca comas y signos en lugares que rompen las oraciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar un texto exige comprobar cada signo: preguntas con apertura y cierre, listas separadas por comas y emociones con exclamación. La opción correcta equilibra los tres usos y logra una invitación clara, animada y fácil de leer para toda la comunidad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-5-2026-W09-signos-puntuacion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-20-grade-5-subject-lengua",
+    "generated_at": "2026-09-20T23:02:47.329Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-5-2026-W20-resumen-ideas-principales-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es la idea principal de un texto?",
+      "context": "En Bogotá, la profesora explica que todo párrafo tiene una idea más importante que las demás.\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El mensaje más importante que el autor quiere comunicar.",
+          "is_correct": true,
+          "feedback": "Es correcta porque resume de qué trata el texto en su conjunto."
+        },
+        {
+          "letter": "B",
+          "text": "El número de la página donde está el texto.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el número ubica el texto, pero no dice de qué trata."
+        },
+        {
+          "letter": "C",
+          "text": "El precio del libro en la librería.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el precio es un dato comercial y no el mensaje central."
+        },
+        {
+          "letter": "D",
+          "text": "El color de las ilustraciones del cuento.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el color adorna, pero no expresa el mensaje principal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La idea principal es el núcleo del texto: lo esencial que el autor desea que el lector recuerde. Las demás oraciones la explican o la ejemplifican. Reconocerla permite comprender rápidamente cualquier lectura escolar.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-5-2026-W20-resumen-ideas-principales-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W20-resumen-ideas-principales-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la idea principal del texto sobre el cóndor?",
+      "context": "En Medellín, los niños leen: \"El cóndor de los Andes es un ave grande que cuida sus polluelos en los riscos. Come animales muertos y vuela muy alto\".\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los riscos son de color gris oscuro.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el color de los riscos es un detalle secundario."
+        },
+        {
+          "letter": "B",
+          "text": "Que el cóndor de los Andes es un ave grande que vive en los riscos y vuela muy alto.",
+          "is_correct": true,
+          "feedback": "Es correcta porque abarca todo el párrafo: quién es el cóndor y cómo vive."
+        },
+        {
+          "letter": "C",
+          "text": "Que los polluelos juegan fútbol en la montaña.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto no menciona ningún juego."
+        },
+        {
+          "letter": "D",
+          "text": "Que el cóndor compra comida en la tienda.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el cóndor se alimenta en la naturaleza y no compra alimentos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La idea principal abarca todo el párrafo y no un solo detalle. Comprenderla exige preguntar: ¿de quién se habla y qué se dice de él en general? Esta estrategia evita quedarse solo con ejemplos o descripciones parciales.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-5-2026-W20-resumen-ideas-principales-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W20-resumen-ideas-principales-001-MASTERY-bundle-v3",
+      "statement": "En el texto de la huerta, ¿cuál es una idea secundaria?",
+      "context": "En Cali, Santiago lee: \"La huerta escolar produce tomate y lechuga. Los estudiantes riegan cada mañana. La cosecha se vende en la feria por dos mil pesos la bolsa\".\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la huerta escolar produce alimentos para la comunidad.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque esa es la idea principal que abarca todo el texto."
+        },
+        {
+          "letter": "B",
+          "text": "Que los estudiantes de Cali no estudian ni trabajan.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque contradice el texto, donde los estudiantes riegan y cosechan."
+        },
+        {
+          "letter": "C",
+          "text": "Que la bolsa de cosecha se vende en la feria por dos mil pesos.",
+          "is_correct": true,
+          "feedback": "Es correcta porque es un detalle que apoya la idea principal sin abarcar todo el texto."
+        },
+        {
+          "letter": "D",
+          "text": "Que la feria se celebra en otro país.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la feria es de la escuela y no está en otro país."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las ideas secundarias apoyan con detalles, ejemplos o cifras a la idea principal. Aplicar su reconocimiento permite separar lo esencial de lo complementario y preparar un buen resumen sin perder datos importantes.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-5-2026-W20-resumen-ideas-principales-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W20-resumen-ideas-principales-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el mejor resumen del texto sobre el agua?",
+      "context": "En Cartagena, Mariana lee: \"El agua es vida. Debemos cerrar la llave al cepillarnos. En casa recogemos agua lluvia para las plantas\".\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"En Cartagena hace calor y los niños juegan en la playa\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque inventa un tema playero que no está en el texto."
+        },
+        {
+          "letter": "B",
+          "text": "\"El agua lluvia es de color azul y cae de noche\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque se queda con un detalle y agrega datos no dichos."
+        },
+        {
+          "letter": "C",
+          "text": "\"Cepillarse los dientes es divertido con música\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque reduce el texto a una sola acción sin el mensaje del cuidado."
+        },
+        {
+          "letter": "D",
+          "text": "\"Debemos cuidar el agua con acciones diarias como cerrar la llave y reutilizarla\".",
+          "is_correct": true,
+          "feedback": "Es correcta porque conserva la idea principal con palabras propias y sin agregar datos nuevos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un buen resumen dice lo esencial con palabras propias, sin copiar todo ni inventar datos. Aplicar esta regla permite estudiar con fichas breves que guardan el mensaje del autor y facilitan recordar la lección.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-5-2026-W20-resumen-ideas-principales-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W20-resumen-ideas-principales-001-MASTERY-bundle-v5",
+      "statement": "¿Qué oración NO debe ir en el resumen del texto del café?",
+      "context": "En Pereira, Juan lee: \"El café de nuestras montañas es famoso. Los cafeteros recogen el grano rojo. Luego lo secan al sol y lo venden a la cooperativa\".\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"A Juan le gustan los videojuegos y juega toda la tarde\".",
+          "is_correct": true,
+          "feedback": "Es correcta porque esa oración habla de otro tema y no pertenece al texto del café."
+        },
+        {
+          "letter": "B",
+          "text": "\"El café de las montañas es famoso en la región\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque esa es la idea principal y sí debe ir en el resumen."
+        },
+        {
+          "letter": "C",
+          "text": "\"Los cafeteros recogen el grano rojo\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque es un paso esencial del proceso y apoya el resumen."
+        },
+        {
+          "letter": "D",
+          "text": "\"Luego secan el grano al sol y lo venden\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque cierra el proceso y completa el resumen fiel."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Resumir exige seleccionar solo lo pertinente: se conserva lo que desarrolla la idea principal y se descarta lo ajeno al tema. Aplicar este filtro evita mezclar textos y mantiene la fidelidad al mensaje original.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-5-2026-W20-resumen-ideas-principales-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W20-resumen-ideas-principales-001-MASTERY-bundle-v6",
+      "statement": "Al analizar el texto, ¿qué relación hay entre sus ideas?",
+      "context": "En Manizales, Valentina lee: \"La lectura diaria mejora la comprensión. Quienes leen veinte minutos comprenden mejor las instrucciones. Por eso la biblioteca presta libros gratis\".\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las tres oraciones hablan de temas distintos sin conexión.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque todas giran alrededor del beneficio de leer a diario."
+        },
+        {
+          "letter": "B",
+          "text": "La primera es la idea principal y las otras dos la apoyan con una prueba y una solución.",
+          "is_correct": true,
+          "feedback": "Es correcta porque distingue la afirmación central de la evidencia y la propuesta que la sostienen."
+        },
+        {
+          "letter": "C",
+          "text": "La última oración contradice a las dos primeras.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque prestar libros gratis apoya la lectura, no la contradice."
+        },
+        {
+          "letter": "D",
+          "text": "Solo la segunda oración importa y las demás sobran.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque sin la idea principal y la propuesta el sentido queda incompleto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar la estructura exige hallar la jerarquía: idea principal, apoyo con datos y cierre con propuesta. Esta lectura revela cómo el autor convence al lector paso a paso y prepara resúmenes que conservan la lógica del texto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-5-2026-W20-resumen-ideas-principales-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W20-resumen-ideas-principales-001-MASTERY-bundle-v7",
+      "statement": "Al comparar los resúmenes, ¿cuál es fiel al texto y por qué?",
+      "context": "En Bucaramanga, dos estudiantes resumen el mismo texto sobre el Chicamocha. Sara escribe: \"El cañón del Chicamocha es un lugar turístico que debemos cuidar\". Diego escribe: \"El Chicamocha queda en Santander y me gusta el helado\".\n**Expected_Success:** 0.68",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El de Diego, porque agrega un gusto personal sobre el helado.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el resumen no debe agregar opiniones ni temas ajenos."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos son iguales porque mencionan a Santander.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque solo uno conserva la idea central del cuidado del lugar."
+        },
+        {
+          "letter": "C",
+          "text": "El de Sara, porque conserva la idea principal con palabras propias y sin agregar datos ajenos.",
+          "is_correct": true,
+          "feedback": "Es correcta porque distingue el resumen fiel del que mezcla datos sueltos con gustos personales."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno sirve porque los resúmenes siempre copian todo el texto.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque resumir es abreviar con fidelidad, no copiar completo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar resúmenes exige comprobar fidelidad: mantener la idea principal, usar palabras propias y no añadir temas externos. El resumen de Sara cumple estos criterios, mientras el de Diego dispersa el mensaje. Esta comparación forma lectores críticos frente a sus propios apuntes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-5-2026-W20-resumen-ideas-principales-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W20-resumen-ideas-principales-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál título resume mejor el texto de la ruana?",
+      "context": "En Tunja, el curso debe elegir el mejor título-resumen para un texto sobre la ruana boyacense: \"La ruana nos abriga del frío. Las abuelas la tejen con lana de oveja. Usarla mantiene viva nuestra tradición\".\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Ayer llovió en Tunja y no hubo clases en el colegio\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque cambia el tema hacia el clima y las clases."
+        },
+        {
+          "letter": "B",
+          "text": "\"La oveja come pasto verde en la vereda\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque se queda con un detalle de la materia prima e ignora la tradición."
+        },
+        {
+          "letter": "C",
+          "text": "\"Las abuelas tejen muy rápido por diez mil pesos\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque agrega un precio no mencionado y reduce el sentido cultural."
+        },
+        {
+          "letter": "D",
+          "text": "\"La ruana nos abriga y mantiene viva la tradición boyacense\".",
+          "is_correct": true,
+          "feedback": "Es correcta porque une la función de abrigo con el valor cultural del tejido."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar un título-resumen exige comprobar que abarque todo el texto sin agregar datos nuevos. La opción correcta integra abrigo, tejido y tradición, mientras las demás recortan el sentido o inventan información. Un buen título anticipa la idea principal y orienta la lectura.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-5-2026-W20-resumen-ideas-principales-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

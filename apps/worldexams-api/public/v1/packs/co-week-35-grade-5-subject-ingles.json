@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-35-grade-5-subject-ingles",
+    "generated_at": "2026-09-18T19:01:53.472Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-5-2026-W35-animals-habitats-colombia-001-MASTERY-bundle-v1",
+      "statement": "Which words are animals of Colombia?",
+      "context": "In a classroom in Bogotá, a poster shows a condor, a jaguar and a pink dolphin.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Condor, jaguar and dolphin.",
+          "is_correct": true,
+          "feedback": "The condor, the jaguar and the dolphin are all animals."
+        },
+        {
+          "letter": "B",
+          "text": "River, mountain and jungle.",
+          "is_correct": false,
+          "feedback": "River, mountain and jungle are places, not animals."
+        },
+        {
+          "letter": "C",
+          "text": "Chair, table and door.",
+          "is_correct": false,
+          "feedback": "Chair, table and door are furniture, not animals."
+        },
+        {
+          "letter": "D",
+          "text": "Rice, beans and soup.",
+          "is_correct": false,
+          "feedback": "Rice, beans and soup are foods, not animals."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Esta pregunta presenta vocabulario básico de animales colombianos en inglés. También se conecta cada animal con imágenes visibles en el salón.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-5-2026-W35-animals-habitats-colombia-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W35-animals-habitats-colombia-001-MASTERY-bundle-v2",
+      "statement": "What is a habitat?",
+      "context": "In Villavicencio, a guide says: \"The jaguar lives in the jungle. The condor flies in the mountains.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The food of an animal.",
+          "is_correct": false,
+          "feedback": "Food is what an animal eats, not where it lives."
+        },
+        {
+          "letter": "B",
+          "text": "The color of an animal.",
+          "is_correct": false,
+          "feedback": "Color describes how an animal looks, not its home."
+        },
+        {
+          "letter": "C",
+          "text": "The place where an animal lives.",
+          "is_correct": true,
+          "feedback": "A habitat is the natural home where an animal lives."
+        },
+        {
+          "letter": "D",
+          "text": "The sound of an animal.",
+          "is_correct": false,
+          "feedback": "Sound is what an animal produces, not where it lives."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La palabra habitat significa el lugar donde vive un animal. También se comprende con ejemplos de la selva y las montañas colombianas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-5-2026-W35-animals-habitats-colombia-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W35-animals-habitats-colombia-001-MASTERY-bundle-v3",
+      "statement": "Choose the correct verb to complete the sentence.",
+      "context": "In Leticia, a girl reads: \"The pink dolphin _____ in the Amazon river.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Live.",
+          "is_correct": false,
+          "feedback": "\"Live\" is plural and does not agree with the singular dolphin."
+        },
+        {
+          "letter": "B",
+          "text": "Lives.",
+          "is_correct": true,
+          "feedback": "\"Lives\" agrees with the third person singular dolphin."
+        },
+        {
+          "letter": "C",
+          "text": "Living.",
+          "is_correct": false,
+          "feedback": "\"Living\" needs am, is or are and is not correct alone here."
+        },
+        {
+          "letter": "D",
+          "text": "Lived.",
+          "is_correct": false,
+          "feedback": "\"Lived\" is past tense and the sentence describes the present."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El presente simple usa -s con he, she e it en afirmativo. También se practica con el delfín rosado del río Amazonas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.82,
+      "bundle_id": "CO-ING-5-2026-W35-animals-habitats-colombia-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W35-animals-habitats-colombia-001-MASTERY-bundle-v4",
+      "statement": "Where does the condor live?",
+      "context": "In Armenia, students read: \"The condor is a very big bird. It flies high in the Andes mountains. It eats meat.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "In the ocean near Cartagena.",
+          "is_correct": false,
+          "feedback": "The text says the condor flies in the mountains, not the ocean."
+        },
+        {
+          "letter": "B",
+          "text": "In the desert of La Guajira.",
+          "is_correct": false,
+          "feedback": "The text mentions the Andes mountains, not the desert."
+        },
+        {
+          "letter": "C",
+          "text": "In the Andes mountains.",
+          "is_correct": true,
+          "feedback": "The text says the condor flies high in the Andes mountains."
+        },
+        {
+          "letter": "D",
+          "text": "In the streets of Bogotá.",
+          "is_correct": false,
+          "feedback": "The condor is a wild bird of the mountains, not the city."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Leer descripciones exige localizar el lugar mencionado en el texto. También se aplica con el cóndor, símbolo de los Andes colombianos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-5-2026-W35-animals-habitats-colombia-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W35-animals-habitats-colombia-001-MASTERY-bundle-v5",
+      "statement": "Which word means the opposite of fast?",
+      "context": "At home in Neiva, a boy studies: \"The turtle walks slowly. The rabbit runs fast. The snail moves very slowly.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Slowly.",
+          "is_correct": true,
+          "feedback": "Slowly is the opposite of fast and describes the turtle."
+        },
+        {
+          "letter": "B",
+          "text": "Quickly.",
+          "is_correct": false,
+          "feedback": "Quickly means the same as fast, not the opposite."
+        },
+        {
+          "letter": "C",
+          "text": "Loudly.",
+          "is_correct": false,
+          "feedback": "Loudly describes sound, not speed."
+        },
+        {
+          "letter": "D",
+          "text": "Happily.",
+          "is_correct": false,
+          "feedback": "Happily describes a feeling, not speed."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los opuestos como fast y slowly amplían el vocabulario descriptivo. También se asocian con animales que los niños observan en casa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-5-2026-W35-animals-habitats-colombia-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W35-animals-habitats-colombia-001-MASTERY-bundle-v6",
+      "statement": "What can you conclude about the jaguar and the toucan?",
+      "context": "In Quibdó, a text says: \"The jaguar is strong and hunts at night. The toucan is small, colorful and eats fruits during the day.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both are small and eat fruits.",
+          "is_correct": false,
+          "feedback": "Only the toucan is small and eats fruits; the jaguar hunts."
+        },
+        {
+          "letter": "B",
+          "text": "Both hunt at night in the river.",
+          "is_correct": false,
+          "feedback": "Only the jaguar hunts at night, and neither lives in the river."
+        },
+        {
+          "letter": "C",
+          "text": "They are different in size, food and habits.",
+          "is_correct": true,
+          "feedback": "The text contrasts a strong night hunter with a small fruit eater."
+        },
+        {
+          "letter": "D",
+          "text": "Both fly high in the mountains.",
+          "is_correct": false,
+          "feedback": "Neither the jaguar nor the toucan flies in the mountains."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar descripciones permite comparar tamaño, alimento y hábitos. También se trabaja el contraste entre dos animales del Chocó y la selva.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-5-2026-W35-animals-habitats-colombia-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W35-animals-habitats-colombia-001-MASTERY-bundle-v7",
+      "statement": "Which statement explains the difference?",
+      "context": "In Tunja, a teacher compares: \"A jaguar is bigger than a toucan\" and \"The condor is the biggest bird.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The first compares two animals, the second shows only one is on top.",
+          "is_correct": true,
+          "feedback": "\"Bigger than\" compares two, while \"the biggest\" marks the extreme."
+        },
+        {
+          "letter": "B",
+          "text": "Both sentences compare exactly two animals.",
+          "is_correct": false,
+          "feedback": "Only the first sentence compares two; the second shows a superlative."
+        },
+        {
+          "letter": "C",
+          "text": "Both sentences talk about the past.",
+          "is_correct": false,
+          "feedback": "Both sentences use the present verb is, not the past."
+        },
+        {
+          "letter": "D",
+          "text": "The first shows an extreme, the second compares two.",
+          "is_correct": false,
+          "feedback": "The roles are reversed; than compares and the biggest is extreme."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El comparativo con than contrasta dos elementos y el superlativo destaca uno. También se practica con animales que los niños ya conocen.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.68,
+      "bundle_id": "CO-ING-5-2026-W35-animals-habitats-colombia-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W35-animals-habitats-colombia-001-MASTERY-bundle-v8",
+      "statement": "Which poster is the best for a fifth grader?",
+      "context": "In Santa Marta, two posters about the parrot appear: one shows its jungle habitat and fruits, the other shows only a cage and cookies.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The cage poster, because cookies are healthy food.",
+          "is_correct": false,
+          "feedback": "Cookies are not healthy food for a parrot and a cage is not its habitat."
+        },
+        {
+          "letter": "B",
+          "text": "The cage poster, because parrots live in cages in nature.",
+          "is_correct": false,
+          "feedback": "Parrots live free in the jungle, not in cages in nature."
+        },
+        {
+          "letter": "C",
+          "text": "The jungle poster, because it shows habitat and real food.",
+          "is_correct": true,
+          "feedback": "The jungle poster teaches where the parrot lives and what it eats."
+        },
+        {
+          "letter": "D",
+          "text": "Both posters are equal, because colors do not matter.",
+          "is_correct": false,
+          "feedback": "The information is different; only one poster shows true facts."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar materiales implica revisar si muestran el hábitat y el alimento reales. También se promueve el respeto por la fauna libre colombiana.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.62,
+      "bundle_id": "CO-ING-5-2026-W35-animals-habitats-colombia-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

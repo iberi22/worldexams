@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-36-grade-5-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-20T20:35:44.847Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-5-2026-W36-biodiversidad-fauna-flora-colombia-001-MASTERY-bundle-v1",
+      "statement": "¿Qué significa que Colombia sea un país megadiverso?",
+      "context": "En la escuela de Leticia, Amazonas, la profesora muestra fotos de tucanes, delfines rosados y ceibas gigantes para explicar por qué Colombia es famoso en el mundo por su naturaleza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que todo su territorio es selva y no hay ciudades ni cultivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto: Colombia tiene selvas, pero también ciudades, montañas, desiertos y cultivos; megadiverso no significa que todo sea selva."
+        },
+        {
+          "letter": "B",
+          "text": "Que en su territorio vive una cantidad enorme de especies de plantas y animales.",
+          "is_correct": true,
+          "feedback": "Correcto: megadiverso significa que el país concentra una gran variedad de especies en su territorio."
+        },
+        {
+          "letter": "C",
+          "text": "Que todos los animales del mundo viven únicamente en Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrecto: muchos animales viven en otros países; Colombia concentra muchísimas especies, pero no todas las del mundo."
+        },
+        {
+          "letter": "D",
+          "text": "Que su economía depende solamente de la venta de animales.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la biodiversidad aporta a la economía, pero el país tiene muchas otras actividades económicas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La biodiversidad es la variedad de seres vivos de un lugar. Colombia es megadiverso porque en sus regiones naturales (Amazonia, Chocó, Andes, Caribe y Orinoquia) habitan miles de especies de aves, peces, insectos, mamíferos y plantas, muchas de ellas únicas en el mundo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-5-2026-W36-biodiversidad-fauna-flora-colombia-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W36-biodiversidad-fauna-flora-colombia-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué el cóndor andino y la palma de cera son símbolos patrios de Colombia?",
+      "context": "Un grupo de estudiantes de Quibdó, Chocó, visita una reserva donde les explican que el cóndor de los Andes y la palma de cera son símbolos nacionales que representan la riqueza natural del país.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque son los únicos animales y plantas que existen en el país.",
+          "is_correct": false,
+          "feedback": "Incorrecto: existen miles de especies más; estos dos fueron elegidos como símbolos, no porque sean los únicos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque aparecen en los billetes de todos los valores en pesos.",
+          "is_correct": false,
+          "feedback": "Incorrecto: aunque la naturaleza aparece en los billetes, no todas las denominaciones muestran estas dos especies."
+        },
+        {
+          "letter": "C",
+          "text": "Porque representan la riqueza natural del país y aparecen en el escudo nacional.",
+          "is_correct": true,
+          "feedback": "Correcto: el cóndor corona el escudo nacional y la palma de cera es el árbol nacional; ambos simbolizan la riqueza natural."
+        },
+        {
+          "letter": "D",
+          "text": "Porque fueron traídos de otros países para protegerlos en Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrecto: ambas especies son propias de los Andes colombianos, no fueron traídas de otros países."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los símbolos patrios (bandera, escudo e himno) representan la identidad nacional. El cóndor andino adorna el escudo como emblema de libertad y la palma de cera del Quindío, que crece en el Cocora, fue declarada árbol nacional: ambos recuerdan que la naturaleza hace parte de la identidad colombiana.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-5-2026-W36-biodiversidad-fauna-flora-colombia-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W36-biodiversidad-fauna-flora-colombia-001-MASTERY-bundle-v3",
+      "statement": "Si una comunidad decide proteger el frailejón del páramo en lugar de reemplazarlo por potreros, ¿qué beneficio obtiene?",
+      "context": "En el páramo de Sumapaz, cerca de Bogotá, los campesinos cuidan los frailejones porque estas plantas retienen el agua de la neblina y alimentan los ríos que abastecen a millones de personas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conserva las fábricas naturales de agua que abastecen ríos y acueductos.",
+          "is_correct": true,
+          "feedback": "Correcto: los páramos con frailejones regulan y producen el agua que consumen las ciudades y el campo."
+        },
+        {
+          "letter": "B",
+          "text": "Aumenta de inmediato la producción de café de la región.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el café no se cultiva en el páramo por el frío; reemplazar frailejones no aumenta esa producción."
+        },
+        {
+          "letter": "C",
+          "text": "Elimina la necesidad de construir acueductos en las ciudades.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el agua del páramo igual necesita acueductos para llegar limpia a las casas."
+        },
+        {
+          "letter": "D",
+          "text": "Permite sembrar arroz a gran escala en la montaña.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el arroz necesita tierras bajas e inundables, no el clima frío del páramo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los páramos son ecosistemas de alta montaña que funcionan como esponjas: los frailejones capturan el agua de la niebla y la liberan lentamente a quebradas y ríos. Protegerlos garantiza el agua para el consumo humano, la agricultura y la energía, por eso son estratégicos para la economía del país.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-5-2026-W36-biodiversidad-fauna-flora-colombia-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W36-biodiversidad-fauna-flora-colombia-001-MASTERY-bundle-v4",
+      "statement": "¿Qué relación existe entre el turismo en los Parques Nacionales Naturales y la protección de la biodiversidad?",
+      "context": "Una familia de Santa Marta quiere pasear un fin de semana. El papá propone visitar el Parque Nacional Natural Tayrona, donde parte del dinero de las entradas se usa para cuidar los senderos, los arrecifes y la fauna del lugar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El turismo está prohibido en todos los parques, así que no hay ninguna relación.",
+          "is_correct": false,
+          "feedback": "Incorrecto: varios parques permiten el ecoturismo regulado y controlado por las autoridades ambientales."
+        },
+        {
+          "letter": "B",
+          "text": "El turismo siempre destruye la naturaleza, por eso los parques deberían cerrarse.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el turismo desordenado daña, pero el ecoturismo regulado genera recursos para conservar."
+        },
+        {
+          "letter": "C",
+          "text": "Los parques solo sirven para tomar fotos y no protegen ninguna especie.",
+          "is_correct": false,
+          "feedback": "Incorrecto: los parques son áreas protegidas por ley donde se conservan ecosistemas y especies."
+        },
+        {
+          "letter": "D",
+          "text": "El ecoturismo regulado genera ingresos que ayudan a financiar la conservación de los parques.",
+          "is_correct": true,
+          "feedback": "Correcto: las entradas y servicios turísticos bien manejados aportan dinero para cuidar los ecosistemas protegidos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Colombia tiene más de 50 áreas del Sistema de Parques Nacionales Naturales. El ecoturismo responsable permite que las comunidades vivan del cuidado de la naturaleza en lugar de su destrucción: los visitantes pagan por conocerla y esos recursos sostienen guardaparques, senderos y programas de conservación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-5-2026-W36-biodiversidad-fauna-flora-colombia-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W36-biodiversidad-fauna-flora-colombia-001-MASTERY-bundle-v5",
+      "statement": "¿Qué medida ayudaría a que la pesca siga dando sustento a las familias del Caribe sin agotar el recurso?",
+      "context": "En el mercado de Bazurto, en Cartagena, doña Elvira vende pescado. Este año nota que llegan peces más pequeños y en menor cantidad, y los pescadores dicen que es porque se pesca sin respetar las tallas mínimas ni las temporadas de reproducción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pescar más cantidad cada día para compensar que los peces son pequeños.",
+          "is_correct": false,
+          "feedback": "Incorrecto: pescar más acelera el agotamiento del recurso y empeora el problema."
+        },
+        {
+          "letter": "B",
+          "text": "Respetar las tallas mínimas y las vedas para que los peces se reproduzcan.",
+          "is_correct": true,
+          "feedback": "Correcto: dejar que los peces crezcan y se reproduzcan garantiza pesca para el futuro."
+        },
+        {
+          "letter": "C",
+          "text": "Usar mallas más pequeñas para atrapar también los peces jóvenes.",
+          "is_correct": false,
+          "feedback": "Incorrecto: atrapar juveniles impide la reproducción y acaba con la población de peces."
+        },
+        {
+          "letter": "D",
+          "text": "Pescar solo de noche para que las autoridades no vigilen.",
+          "is_correct": false,
+          "feedback": "Incorrecto: evadir la vigilancia es ilegal y no resuelve el agotamiento del recurso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los recursos pesqueros se agotan si se extraen más rápido de lo que se reproducen. Las tallas mínimas y las vedas (temporadas sin pesca) permiten que los peces jóvenes crezcan y se reproduzcan. Usar los recursos sin agotarlos se llama aprovechamiento sostenible y protege tanto la naturaleza como el trabajo de los pescadores.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-5-2026-W36-biodiversidad-fauna-flora-colombia-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W36-biodiversidad-fauna-flora-colombia-001-MASTERY-bundle-v6",
+      "statement": "Al comparar las dos propuestas, ¿por qué la de La Esperanza protege mejor la biodiversidad y la economía a largo plazo?",
+      "context": "Dos veredas del Caquetá discuten su futuro. La vereda El Progreso quiere talar bosque para sembrar pastos para ganado. La vereda La Esperanza propone conservar el bosque y criar abejas meliponas nativas, además de recibir visitantes para avistamiento de aves.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la ganadería siempre produce más dinero que cualquier otra actividad.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la ganadería extensiva en selva produce poco por hectárea y degrada el suelo rápidamente."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las abejas meliponas eliminan todos los insectos del bosque.",
+          "is_correct": false,
+          "feedback": "Incorrecto: las meliponas son polinizadores que conviven con el bosque, no exterminadores de insectos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque mantiene el bosque en pie, conserva las especies y genera ingresos sin destruir el ecosistema.",
+          "is_correct": true,
+          "feedback": "Correcto: la apicultura nativa y el aviturismo producen ingresos conservando el hábitat y sus especies."
+        },
+        {
+          "letter": "D",
+          "text": "Porque talar el bosque atrae más aves para el avistamiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto: sin bosque desaparecen las aves que los turistas quieren observar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La deforestación para ganadería extensiva destruye el hábitat y empobrece el suelo en pocos años. En cambio, actividades como la apicultura con abejas nativas y el aviturismo dependen del bosque vivo: conservan polinizadores, aves y plantas, y generan ingresos permanentes. Es la diferencia entre agotar un recurso y aprovecharlo de forma sostenible.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-5-2026-W36-biodiversidad-fauna-flora-colombia-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W36-biodiversidad-fauna-flora-colombia-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el punto más razonable del debate entre Camila y Santiago?",
+      "context": "En un colegio de Medellín, dos estudiantes debaten. Camila dice: \"Colombia debe prohibir toda actividad económica en las zonas de biodiversidad\". Santiago responde: \"Las comunidades necesitan trabajar; hay que permitir actividades que no destruyan la naturaleza\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La postura de Santiago, porque el desarrollo sostenible permite trabajar cuidando la naturaleza.",
+          "is_correct": true,
+          "feedback": "Correcto: prohibir todo es inviable para las comunidades; lo razonable es permitir actividades sostenibles que conserven la biodiversidad."
+        },
+        {
+          "letter": "B",
+          "text": "La postura de Camila, porque cualquier trabajo humano destruye toda la biodiversidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto: no toda actividad humana destruye; existen formas de producir conservando los ecosistemas."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguna, porque la biodiversidad no tiene relación con la economía de las comunidades.",
+          "is_correct": false,
+          "feedback": "Incorrecto: muchas comunidades viven de recursos de la biodiversidad (pesca, turismo, artesanías, frutos)."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas están equivocadas porque la biodiversidad colombiana ya desapareció por completo.",
+          "is_correct": false,
+          "feedback": "Incorrecto: Colombia conserva gran parte de su biodiversidad gracias a parques y comunidades que la protegen."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El desarrollo sostenible busca el equilibrio: satisfacer las necesidades de hoy sin agotar lo que necesitarán las futuras generaciones. Prohibir toda actividad deja sin sustento a las comunidades, y permitirlo todo destruye la naturaleza. El punto razonable es regular y apoyar actividades compatibles con la conservación, como el ecoturismo, la agroforestería y el aprovechamiento sostenible.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-5-2026-W36-biodiversidad-fauna-flora-colombia-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W36-biodiversidad-fauna-flora-colombia-001-MASTERY-bundle-v8",
+      "statement": "Evaluando los efectos sobre la biodiversidad y la economía futura del municipio, ¿qué propuesta es la mejor?",
+      "context": "La alcaldía de un municipio del Valle del Cauca con bosque seco tropical, caña de azúcar y turismo debe elegir un plan de desarrollo para los próximos 10 años. Tres propuestas: (1) expandir la caña sobre el bosque seco restante; (2) declarar reserva el bosque seco y promover turismo científico y cultural; (3) lotear el bosque para viviendas campestres.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La propuesta 1, porque más caña siempre garantiza más empleo para siempre.",
+          "is_correct": false,
+          "feedback": "Incorrecto: expandir cultivos sobre el último bosque elimina un ecosistema único y los empleos del monocultivo son limitados y temporales."
+        },
+        {
+          "letter": "B",
+          "text": "La propuesta 3, porque las viviendas campestres no afectan a los animales del bosque.",
+          "is_correct": false,
+          "feedback": "Incorrecto: lotear fragmenta el hábitat, introduce ruido y mascotas, y desplaza a la fauna del bosque seco."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguna propuesta sirve porque el bosque seco no tiene ningún valor.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el bosque seco tropical es uno de los ecosistemas más amenazados y valiosos del país, con especies únicas."
+        },
+        {
+          "letter": "D",
+          "text": "La propuesta 2, porque conserva un ecosistema amenazado y crea empleo duradero con turismo y ciencia.",
+          "is_correct": true,
+          "feedback": "Correcto: proteger el bosque seco preserva especies únicas y el turismo científico genera ingresos sostenibles a largo plazo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar un plan de desarrollo exige mirar el largo plazo. El bosque seco tropical sobrevive en pequeños fragmentos y alberga especies que no existen en otro lugar. Convertirlo en caña o lotes da ganancias cortas y destruye un patrimonio irreemplazable. La reserva con turismo científico protege la biodiversidad y crea trabajos permanentes (guías, hospedaje, investigación), combinando conservación y economía.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-5-2026-W36-biodiversidad-fauna-flora-colombia-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

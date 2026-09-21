@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-36-grade-5-subject-lectura_critica",
+    "generated_at": "2026-09-20T17:58:21.701Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-5-2026-W36-infografia-medio-ambiente-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es una infografía?",
+      "context": "En una escuela de Bucaramanga, los niños observan una infografía sobre el reciclaje con dibujos de canecas de colores y textos cortos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un texto que combina imágenes, gráficos y palabras para explicar un tema",
+          "is_correct": true,
+          "feedback": "Correcto, la infografía une lo visual con lo escrito para informar claramente."
+        },
+        {
+          "letter": "B",
+          "text": "Una carta larga escrita solo con palabras",
+          "is_correct": false,
+          "feedback": "La carta solo usa palabras, no combina gráficos e imágenes."
+        },
+        {
+          "letter": "C",
+          "text": "Una canción que se canta en las fiestas",
+          "is_correct": false,
+          "feedback": "La canción es un texto musical, no una infografía."
+        },
+        {
+          "letter": "D",
+          "text": "Un partido de fútbol narrado por radio",
+          "is_correct": false,
+          "feedback": "La narración radial no usa imágenes ni gráficos explicativos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La infografía comunica ideas mediante la unión de imagen y texto breve.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-5-2026-W36-infografia-medio-ambiente-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W36-infografia-medio-ambiente-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el mensaje principal de esa infografía?",
+      "context": "En Pereira, una infografía muestra un río contaminado junto al mensaje: \"Cuida el agua, cada gota cuenta\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los ríos son lugares para botar basura",
+          "is_correct": false,
+          "feedback": "Ese mensaje contradice el propósito de cuidado ambiental."
+        },
+        {
+          "letter": "B",
+          "text": "Que el agua no necesita protección alguna",
+          "is_correct": false,
+          "feedback": "La infografía pide exactamente lo contrario: proteger el agua."
+        },
+        {
+          "letter": "C",
+          "text": "Que debemos ahorrar y proteger el agua",
+          "is_correct": true,
+          "feedback": "Correcto, la imagen y el texto invitan al cuidado del agua."
+        },
+        {
+          "letter": "D",
+          "text": "Que el agua solo sirve para jugar",
+          "is_correct": false,
+          "feedback": "Reducir el agua al juego ignora su valor vital."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprender la infografía exige unir lo que muestra la imagen con lo que dice el texto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-5-2026-W36-infografia-medio-ambiente-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W36-infografia-medio-ambiente-001-MASTERY-bundle-v3",
+      "statement": "Si aplicas la lectura de gráficos, ¿qué material se recogió en mayor cantidad?",
+      "context": "En Manizales, una infografía presenta una barra grande para el plástico y una barra pequeña para el vidrio recogidos en una jornada de reciclaje.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El vidrio, porque su barra es pequeña",
+          "is_correct": false,
+          "feedback": "La barra pequeña indica menor cantidad, no mayor."
+        },
+        {
+          "letter": "B",
+          "text": "El plástico, porque su barra es más larga",
+          "is_correct": true,
+          "feedback": "Correcto, en un gráfico de barras la barra más larga representa más cantidad."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos materiales en igual cantidad",
+          "is_correct": false,
+          "feedback": "Las barras tienen tamaños distintos, no iguales."
+        },
+        {
+          "letter": "D",
+          "text": "Ningún material fue recogido",
+          "is_correct": false,
+          "feedback": "Las barras muestran cantidades recogidas, no ausencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Leer gráficos de barras permite comparar cantidades de forma visual y rápida.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-5-2026-W36-infografia-medio-ambiente-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W36-infografia-medio-ambiente-001-MASTERY-bundle-v4",
+      "statement": "¿Qué relación entre texto e imagen se presenta en la infografía?",
+      "context": "En Pasto, los estudiantes ven una infografía con un árbol triste rodeado de basura y la frase: \"Si contaminas, la naturaleza sufre\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La imagen contradice totalmente al texto",
+          "is_correct": false,
+          "feedback": "La imagen del árbol triste apoya el mensaje, no lo contradice."
+        },
+        {
+          "letter": "B",
+          "text": "El texto habla de fútbol y la imagen de un árbol",
+          "is_correct": false,
+          "feedback": "El texto no habla de fútbol, habla del daño ambiental."
+        },
+        {
+          "letter": "C",
+          "text": "La imagen no tiene nada que ver con el texto",
+          "is_correct": false,
+          "feedback": "La imagen ilustra directamente lo que expresa el texto."
+        },
+        {
+          "letter": "D",
+          "text": "La imagen refuerza el mensaje del texto sobre el daño ambiental",
+          "is_correct": true,
+          "feedback": "Correcto, el árbol triste visualiza el sufrimiento que menciona la frase."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En la infografía, la imagen y el texto se complementan para reforzar el mensaje.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-5-2026-W36-infografia-medio-ambiente-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W36-infografia-medio-ambiente-001-MASTERY-bundle-v5",
+      "statement": "Si un estudiante quiere aplicar lo aprendido en casa, ¿qué acción corresponde al mensaje?",
+      "context": "En Medellín, una infografía escolar muestra tres consejos: cierra la llave, siembra un árbol y separa los residuos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cerrar la llave mientras se cepilla los dientes",
+          "is_correct": true,
+          "feedback": "Correcto, esta acción ahorra agua como pide la infografía."
+        },
+        {
+          "letter": "B",
+          "text": "Dejar las luces encendidas todo el día",
+          "is_correct": false,
+          "feedback": "Desperdiciar energía contradice el cuidado ambiental."
+        },
+        {
+          "letter": "C",
+          "text": "Arrojar papeles al piso del parque",
+          "is_correct": false,
+          "feedback": "Arrojar basura contamina y va contra el mensaje ecológico."
+        },
+        {
+          "letter": "D",
+          "text": "Cortar las plantas del jardín por diversión",
+          "is_correct": false,
+          "feedback": "Dañar plantas es opuesto a sembrar y cuidar la naturaleza."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la infografía significa llevar sus consejos ecológicos a la vida diaria.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-5-2026-W36-infografia-medio-ambiente-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W36-infografia-medio-ambiente-001-MASTERY-bundle-v6",
+      "statement": "¿Qué análisis explica cuál infografía comunica mejor el tema ambiental?",
+      "context": "En Cali, dos infografías hablan del aire: una solo tiene un párrafo largo sin imágenes, otra combina mapa, iconos de fábricas y frases cortas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La primera, porque un párrafo largo siempre es más claro",
+          "is_correct": false,
+          "feedback": "Un texto largo sin apoyo visual dificulta la comprensión rápida."
+        },
+        {
+          "letter": "B",
+          "text": "Ambas comunican igual porque hablan del aire",
+          "is_correct": false,
+          "feedback": "Hablar del mismo tema no garantiza igual claridad visual."
+        },
+        {
+          "letter": "C",
+          "text": "La segunda, porque organiza datos visuales y textos breves que facilitan la comprensión",
+          "is_correct": true,
+          "feedback": "Correcto, la combinación de iconos y frases cortas hace accesible la información."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna comunica porque el tema del aire es imposible de explicar",
+          "is_correct": false,
+          "feedback": "El tema del aire sí puede explicarse con recursos visuales adecuados."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar los recursos visuales permite valorar la claridad comunicativa de una infografía.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-5-2026-W36-infografia-medio-ambiente-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W36-infografia-medio-ambiente-001-MASTERY-bundle-v7",
+      "statement": "¿Por qué el número gigante es un elemento clave en la estructura de la infografía?",
+      "context": "En Barranquilla, una infografía muestra: título grande, subtítulos, iconos de tortugas afectadas por plásticos y un dato destacado en número gigante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque decora sin aportar información",
+          "is_correct": false,
+          "feedback": "El número destacado sí aporta un dato central, no es adorno."
+        },
+        {
+          "letter": "B",
+          "text": "Porque resalta el dato más importante y guía la lectura visual",
+          "is_correct": true,
+          "feedback": "Correcto, el tamaño jerarquiza la información y capta la atención."
+        },
+        {
+          "letter": "C",
+          "text": "Porque reemplaza todo el texto y las imágenes",
+          "is_correct": false,
+          "feedback": "El número complementa los demás elementos, no los reemplaza."
+        },
+        {
+          "letter": "D",
+          "text": "Porque indica la página del libro de ciencias",
+          "is_correct": false,
+          "feedback": "El número representa un dato ambiental, no una página."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los recursos de tamaño y jerarquía orientan la mirada hacia la información esencial.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-5-2026-W36-infografia-medio-ambiente-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W36-infografia-medio-ambiente-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál infografía merece ser elegida como la mejor?",
+      "context": "En Cartagena, el colegio elegirá la mejor infografía sobre el cuidado del mar para publicarla en la cartelera principal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La que tiene fotos borrosas y textos con errores de ortografía",
+          "is_correct": false,
+          "feedback": "Las fotos borrosas y errores dificultan la comprensión del mensaje."
+        },
+        {
+          "letter": "B",
+          "text": "La que solo presenta dibujos sin ningún texto explicativo",
+          "is_correct": false,
+          "feedback": "Sin texto, los dibujos quedan ambiguos y sin mensaje claro."
+        },
+        {
+          "letter": "C",
+          "text": "La que invita a contaminar la playa con más plásticos",
+          "is_correct": false,
+          "feedback": "Un mensaje contaminante contradice el propósito ambiental."
+        },
+        {
+          "letter": "D",
+          "text": "La que combina imágenes claras, datos precisos y un llamado a proteger el mar",
+          "is_correct": true,
+          "feedback": "Correcto, integra calidad visual, información confiable y propósito ecológico."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La mejor infografía une claridad visual, datos veraces y un mensaje ambiental convincente.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LC-5-2026-W36-infografia-medio-ambiente-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

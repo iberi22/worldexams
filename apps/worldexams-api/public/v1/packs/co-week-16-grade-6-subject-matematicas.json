@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-16-grade-6-subject-matematicas",
+    "generated_at": "2026-09-20T21:26:33.168Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-6-2026-W16-unidades-medida-conversion-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la unidad básica de longitud en el sistema métrico decimal?",
+      "context": "En un colegio de Bogotá se mide el largo del patio con cinta métrica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El metro",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: identifica el metro como patrón base de la longitud."
+        },
+        {
+          "letter": "B",
+          "text": "El gramo",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el gramo mide masa, no longitud."
+        },
+        {
+          "letter": "C",
+          "text": "El litro",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el litro mide capacidad, no longitud."
+        },
+        {
+          "letter": "D",
+          "text": "El segundo",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el segundo mide tiempo, no longitud."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El sistema métrico organiza cada magnitud alrededor de una unidad base. Para la longitud es el metro, del cual se derivan kilómetros, centímetros y milímetros con potencias de diez.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-6-2026-W16-unidades-medida-conversion-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W16-unidades-medida-conversion-001-MASTERY-bundle-v2",
+      "statement": "¿Cuántos metros hay en 1 kilómetro?",
+      "context": "En Medellín una ciclovía informa su extensión en kilómetros para los deportistas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1000 metros",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: reconoce el prefijo kilo como mil unidades."
+        },
+        {
+          "letter": "B",
+          "text": "100 metros",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: ese valor corresponde a un hectómetro, no a un kilómetro."
+        },
+        {
+          "letter": "C",
+          "text": "10 metros",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: ese valor corresponde a un decámetro, no a un kilómetro."
+        },
+        {
+          "letter": "D",
+          "text": "10000 metros",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: multiplica por diez de más respecto al valor real."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El prefijo kilo significa mil. Por eso 1 kilómetro equivale a 1000 metros. Comprender los prefijos permite convertir con rapidez entre múltiplos y submúltiplos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-6-2026-W16-unidades-medida-conversion-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W16-unidades-medida-conversion-001-MASTERY-bundle-v3",
+      "statement": "¿Cuántos gramos de arroz hay en 2.5 kilogramos?",
+      "context": "En Cali un mercado vende 2.5 kilogramos de arroz por 9500 COP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2500 gramos",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: multiplica 2.5 por 1000 y obtiene 2500."
+        },
+        {
+          "letter": "B",
+          "text": "250 gramos",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: multiplica por 100 en lugar de multiplicar por 1000."
+        },
+        {
+          "letter": "C",
+          "text": "25000 gramos",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: multiplica por 10000 y añade un cero de más."
+        },
+        {
+          "letter": "D",
+          "text": "2050 gramos",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: interpreta el decimal como suma de 50 en vez de medio kilo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Como 1 kilogramo tiene 1000 gramos, se multiplica 2.5 por 1000 para obtener 2500 gramos. Pasar de una unidad mayor a una menor exige multiplicar por la equivalencia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-6-2026-W16-unidades-medida-conversion-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W16-unidades-medida-conversion-001-MASTERY-bundle-v4",
+      "statement": "¿Cuántos litros contiene cada botella?",
+      "context": "En Barranquilla una tienda vende botellas de agua de 1500 mililitros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.5 litros",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: divide 1500 entre 1000 y obtiene 1.5."
+        },
+        {
+          "letter": "B",
+          "text": "15 litros",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: divide entre 100 en lugar de dividir entre 1000."
+        },
+        {
+          "letter": "C",
+          "text": "0.15 litros",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: divide entre 10000 y corre mal la coma decimal."
+        },
+        {
+          "letter": "D",
+          "text": "150 litros",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: multiplica en vez de dividir al pasar a una unidad mayor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Hay 1000 mililitros en un litro. Para pasar de una unidad menor a una mayor se divide: 1500 dividido en 1000 es 1.5 litros. Ubicar bien la coma decimal es esencial en capacidad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-6-2026-W16-unidades-medida-conversion-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W16-unidades-medida-conversion-001-MASTERY-bundle-v5",
+      "statement": "¿Cuántos minutos dura en total el viaje?",
+      "context": "En Bucaramanga un bus tarda 2 horas y 30 minutos en llegar a San Gil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "150 minutos",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: 2 por 60 es 120, más 30 da 150."
+        },
+        {
+          "letter": "B",
+          "text": "130 minutos",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: suma 100 en vez de 120 por las dos horas."
+        },
+        {
+          "letter": "C",
+          "text": "230 minutos",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: une los números 2 y 30 como si fueran cifras decimales."
+        },
+        {
+          "letter": "D",
+          "text": "90 minutos",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: calcula solo una hora y media en lugar de dos horas y media."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cada hora tiene 60 minutos. Dos horas aportan 120 minutos y al sumar los 30 restantes se obtienen 150 minutos. Convertir horas a minutos exige multiplicar por 60 antes de sumar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-6-2026-W16-unidades-medida-conversion-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W16-unidades-medida-conversion-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la distancia total de ambos tramos en metros?",
+      "context": "En Cartagena una carrera atlética tiene un tramo de 3.2 kilómetros y otro tramo de 850 metros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4050 metros",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: convierte 3.2 a 3200 y suma 850 para obtener 4050."
+        },
+        {
+          "letter": "B",
+          "text": "885 metros",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: suma 3.2 con 850 sin convertir kilómetros a metros."
+        },
+        {
+          "letter": "C",
+          "text": "1170 metros",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: convierte 3.2 como 320 y pierde un cero del factor mil."
+        },
+        {
+          "letter": "D",
+          "text": "3200 metros",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: convierte el primer tramo pero olvida sumar el segundo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Antes de sumar se debe unificar la unidad. Al convertir 3.2 kilómetros a metros se multiplica por 1000 y da 3200. Luego 3200 más 850 es 4050 metros. Analizar unidades evita sumas con magnitudes mezcladas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-6-2026-W16-unidades-medida-conversion-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W16-unidades-medida-conversion-001-MASTERY-bundle-v7",
+      "statement": "¿Qué fracción de la bolsa se usa y cuánto cuesta esa cantidad manteniendo la proporción?",
+      "context": "En Manizales una receta pide 750 gramos de harina, pero la tienda vende bolsas de 1 kilogramo a 4200 COP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tres cuartos de bolsa y cuesta 3150 COP",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: 750 de 1000 es tres cuartos y 4200 por 0.75 da 3150."
+        },
+        {
+          "letter": "B",
+          "text": "Un medio de bolsa y cuesta 2100 COP",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: supone 500 gramos en vez de los 750 reales."
+        },
+        {
+          "letter": "C",
+          "text": "Tres cuartos de bolsa y cuesta 4200 COP",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: acierta la fracción pero cobra la bolsa completa."
+        },
+        {
+          "letter": "D",
+          "text": "Un cuarto de bolsa y cuesta 1050 COP",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: calcula solo 250 gramos en lugar de 750 gramos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Como la bolsa tiene 1000 gramos, 750 gramos representan 750 sobre 1000, que se simplifica a tres cuartos. El costo proporcional es tres cuartos de 4200, es decir 3150 COP. Relacionar masa y precio exige convertir y hallar la fracción.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-MAT-6-2026-W16-unidades-medida-conversion-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W16-unidades-medida-conversion-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál envase conviene más por litro?",
+      "context": "En Pereira se comparan dos envases de jugo: envase A con 2 litros a 7000 COP y envase B con 750 mililitros a 3000 COP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El envase A, porque cuesta 3500 COP por litro frente a 4000 COP del B",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: convierte y calcula ambos valores unitarios para comparar."
+        },
+        {
+          "letter": "B",
+          "text": "El envase B, porque 3000 COP es menor que 7000 COP en total",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: compara precios totales sin igualar la cantidad de jugo."
+        },
+        {
+          "letter": "C",
+          "text": "El envase B, porque 750 mililitros son más que 2 litros",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: invierte la comparación de capacidades del sistema métrico."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos cuestan lo mismo por litro, 3500 COP",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: asigna al B el valor unitario del A sin convertir 0.75 litros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se unifica a litros: el envase B tiene 0.75 litros. El litro en A cuesta 7000 entre 2 igual a 3500 COP. En B cuesta 3000 entre 0.75 igual a 4000 COP. Por eso conviene el envase A aunque su precio total sea mayor.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-6-2026-W16-unidades-medida-conversion-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W16-unidades-medida-conversion-001-MASTERY-bundle-v9",
+      "statement": "Evalúa el procedimiento del estudiante.",
+      "context": "Un estudiante de Villavicencio afirma: un rectángulo mide 2.5 metros de largo y 80 centímetros de ancho, así que su perímetro es 2.5 más 80 igual a 82.5 metros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es incorrecto, porque suma unidades distintas y omite duplicar lados; el perímetro real es 6.6 metros",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: detecta la mezcla de unidades y aplica bien 2 por 2.5 más 2 por 0.8."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcto, porque el perímetro se halla sumando largo más ancho una sola vez",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el perímetro incluye los cuatro lados, no solo dos."
+        },
+        {
+          "letter": "C",
+          "text": "Es correcto, porque metros y centímetros se pueden sumar directamente",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: ignora que toda suma exige la misma unidad de medida."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecto, porque el perímetro real es 82.5 centímetros",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: cambia la unidad sin convertir ni duplicar los lados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar muestra dos errores: sumar metros con centímetros y no duplicar. Al convertir 80 centímetros a 0.8 metros, el perímetro es 2 veces 2.5 más 2 veces 0.8, igual a 5 más 1.6, es decir 6.6 metros.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-6-2026-W16-unidades-medida-conversion-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W16-unidades-medida-conversion-001-MASTERY-bundle-v10",
+      "statement": "¿Es correcta la estimación del operario?",
+      "context": "En Santa Marta un tanque de 3 metros cúbicos debe llenarse con baldes de 15 litros. Un operario dice que bastan 20 baldes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, porque 3 metros cúbicos son 3000 litros y se necesitan 200 baldes",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: convierte metros cúbicos a litros y divide 3000 entre 15."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque 3 por 15 es 45 y con 20 baldes sobra agua",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: multiplica datos sin convertir metros cúbicos a litros."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque 15 litros son más que 3 metros cúbicos",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: invierte la magnitud, pues un metro cúbico tiene 1000 litros."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque se necesitan 20 litros y no 200 baldes",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: confunde el número de baldes con la capacidad de cada balde."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un metro cúbico equivale a 1000 litros, así que 3 metros cúbicos son 3000 litros. Al dividir 3000 entre 15 se obtienen 200 baldes. La estimación de 20 baldes solo aportaría 300 litros, diez veces menos de lo necesario.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-6-2026-W16-unidades-medida-conversion-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

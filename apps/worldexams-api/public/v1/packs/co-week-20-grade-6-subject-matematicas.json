@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-20-grade-6-subject-matematicas",
+    "generated_at": "2026-09-21T01:19:15.916Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-6-2026-W20-movimientos-plano-simetria-traslacion-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es una traslación en el plano?",
+      "context": "En una clase de arte en Bogotá los estudiantes deslizan una figura por la hoja sin girarla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Deslizar una figura sin girarla ni cambiar su tamaño",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: la traslación mueve todos los puntos la misma distancia en la misma dirección, conservando forma y tamaño."
+        },
+        {
+          "letter": "B",
+          "text": "Girar una figura alrededor de un punto",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: eso describe una rotación, no una traslación."
+        },
+        {
+          "letter": "C",
+          "text": "Agrandar o encoger una figura",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: cambiar el tamaño es una homotecia, la traslación conserva el tamaño."
+        },
+        {
+          "letter": "D",
+          "text": "Voltear una figura como en un espejo",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: eso describe una reflexión, movimiento distinto de la traslación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La traslación es el movimiento más simple: cada punto se desplaza igual, así que la figura conserva forma, tamaño y orientación. Es la base para entender los demás movimientos rígidos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-6-2026-W20-movimientos-plano-simetria-traslacion-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W20-movimientos-plano-simetria-traslacion-001-MASTERY-bundle-v2",
+      "statement": "¿En qué coordenadas queda el punto?",
+      "context": "En un mapa de Medellín un punto de encuentro está en las coordenadas (2, 3) y se traslada 4 unidades a la derecha.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(6, 3)",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: moverse a la derecha aumenta la coordenada x: 2 + 4 = 6; la y no cambia."
+        },
+        {
+          "letter": "B",
+          "text": "(2, 7)",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: suma las 4 unidades a la coordenada y, como si el movimiento fuera hacia arriba."
+        },
+        {
+          "letter": "C",
+          "text": "(6, 7)",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: suma las 4 unidades a ambas coordenadas en vez de solo a x."
+        },
+        {
+          "letter": "D",
+          "text": "(-2, 3)",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: resta en vez de sumar, moviendo el punto a la izquierda."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el plano cartesiano, la horizontal es x y la vertical es y. Moverse a la derecha solo cambia x (2 + 4 = 6); y queda en 3. Así se modelan desplazamientos con coordenadas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-6-2026-W20-movimientos-plano-simetria-traslacion-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W20-movimientos-plano-simetria-traslacion-001-MASTERY-bundle-v3",
+      "statement": "Si un punto del motivo está en (3, 1), ¿dónde queda su reflejo sobre el eje vertical?",
+      "context": "En Cali una artesana refleja un motivo bordado sobre un eje vertical para decorar una mochila.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(-3, 1)",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: el espejo vertical cambia el signo de x (3 → -3) y conserva y = 1."
+        },
+        {
+          "letter": "B",
+          "text": "(3, -1)",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: cambia el signo de y, lo que corresponde a un espejo horizontal, no vertical."
+        },
+        {
+          "letter": "C",
+          "text": "(-3, -1)",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: cambia ambas coordenadas, como en un giro de media vuelta, no en una reflexión."
+        },
+        {
+          "letter": "D",
+          "text": "(3, 1)",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: deja el punto igual, como si el espejo no moviera nada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reflejar sobre el eje vertical (eje y) transforma (x, y) en (-x, y): la distancia horizontal al espejo se conserva al otro lado y la altura no cambia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-6-2026-W20-movimientos-plano-simetria-traslacion-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W20-movimientos-plano-simetria-traslacion-001-MASTERY-bundle-v4",
+      "statement": "Si el personaje estaba en (4, 2), ¿dónde queda tras el giro de media vuelta?",
+      "context": "En un videojuego diseñado en Bogotá un personaje gira media vuelta (180°) alrededor del centro del mapa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(-4, -2)",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: el giro de 180° alrededor del origen cambia el signo de ambas coordenadas."
+        },
+        {
+          "letter": "B",
+          "text": "(4, -2)",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: cambia solo una coordenada, como en una reflexión, no en un giro de media vuelta."
+        },
+        {
+          "letter": "C",
+          "text": "(-4, 2)",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: cambia solo la coordenada x, lo que equivale a un espejo vertical."
+        },
+        {
+          "letter": "D",
+          "text": "(2, 4)",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: intercambia las coordenadas, lo que no corresponde a ningún giro de 180°."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un giro de 180° alrededor del origen lleva (x, y) a (-x, -y): el punto queda diametralmente opuesto. Es el único giro que cambia ambas coordenadas de signo a la vez.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-6-2026-W20-movimientos-plano-simetria-traslacion-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W20-movimientos-plano-simetria-traslacion-001-MASTERY-bundle-v5",
+      "statement": "¿Cuántos ejes de simetría tiene ese rectángulo?",
+      "context": "En Pasto un estudiante de diseño cuenta los ejes de simetría de un rectángulo que no es cuadrado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 ejes",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: solo las líneas medias horizontal y vertical lo dividen en mitades iguales; las diagonales no."
+        },
+        {
+          "letter": "B",
+          "text": "4 ejes",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: confunde el rectángulo con el cuadrado, que sí tiene 4 ejes."
+        },
+        {
+          "letter": "C",
+          "text": "1 eje",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: olvida que tanto la línea horizontal como la vertical funcionan como espejos."
+        },
+        {
+          "letter": "D",
+          "text": "0 ejes",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el rectángulo sí tiene simetría; no es una figura asimétrica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un eje de simetría divide la figura en dos mitades especulares. En el rectángulo no cuadrado solo sirven las dos líneas medias; las diagonales generan mitades que no coinciden al doblar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-6-2026-W20-movimientos-plano-simetria-traslacion-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W20-movimientos-plano-simetria-traslacion-001-MASTERY-bundle-v6",
+      "statement": "¿En qué coordenadas termina el recorrido?",
+      "context": "En un dron de reparto en Barranquilla un punto sigue esta ruta: parte de (1, 1), se traslada 2 unidades hacia arriba y luego se refleja sobre el eje horizontal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1, -3)",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: traslación: (1, 1) → (1, 3); reflexión horizontal: (1, 3) → (1, -3)."
+        },
+        {
+          "letter": "B",
+          "text": "(1, 3)",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: aplica la traslación pero olvida la reflexión final."
+        },
+        {
+          "letter": "C",
+          "text": "(-1, 3)",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: refleja sobre el eje vertical en vez del horizontal."
+        },
+        {
+          "letter": "D",
+          "text": "(3, 1)",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: traslada hacia la derecha en vez de hacia arriba."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los movimientos se componen en orden: primero la traslación vertical (y: 1 + 2 = 3) y luego la reflexión horizontal que cambia el signo de y (3 → -3). El orden de las operaciones sí importa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-6-2026-W20-movimientos-plano-simetria-traslacion-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W20-movimientos-plano-simetria-traslacion-001-MASTERY-bundle-v7",
+      "statement": "¿Dónde queda el vértice A después de la traslación?",
+      "context": "En un plano de Bucaramanga un triángulo tiene un vértice en A(5, 4) y todo el triángulo se traslada 3 unidades a la izquierda y 2 hacia abajo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(2, 2)",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: izquierda resta en x (5 - 3 = 2) y abajo resta en y (4 - 2 = 2)."
+        },
+        {
+          "letter": "B",
+          "text": "(8, 6)",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: suma en ambas coordenadas, moviendo a la derecha y hacia arriba."
+        },
+        {
+          "letter": "C",
+          "text": "(2, 6)",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: mueve bien en x pero suma en y en vez de restar."
+        },
+        {
+          "letter": "D",
+          "text": "(8, 2)",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: mueve bien en y pero suma en x en vez de restar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Izquierda y abajo restan: x − 3, y − 2. Así A(5, 4) → (2, 2). Toda la figura se mueve igual, por eso basta trasladar los vértices para ubicar la imagen completa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.66,
+      "bundle_id": "CO-MAT-6-2026-W20-movimientos-plano-simetria-traslacion-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W20-movimientos-plano-simetria-traslacion-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál figura tiene con seguridad al menos un eje de simetría?",
+      "context": "En una feria artesanal de Boyacá se exhiben cuatro figuras: una mariposa, una escalera en espiral, una flecha inclinada y una cometa simétrica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mariposa",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: las alas de la mariposa son imágenes especulares; su cuerpo marca el eje vertical de simetría."
+        },
+        {
+          "letter": "B",
+          "text": "La escalera en espiral",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: la espiral gira sin repetirse como espejo; no tiene simetría de reflexión."
+        },
+        {
+          "letter": "C",
+          "text": "La flecha inclinada",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: inclinada no se refleja sobre sí misma en ningún eje."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna figura natural tiene simetría",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: muchas formas naturales, como la mariposa, sí presentan simetría bilateral."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La simetría bilateral abunda en la naturaleza: el cuerpo de la mariposa divide dos alas especulares. Reconocer ejes en objetos reales es el primer paso para formalizar la simetría geométrica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-6-2026-W20-movimientos-plano-simetria-traslacion-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W20-movimientos-plano-simetria-traslacion-001-MASTERY-bundle-v9",
+      "statement": "¿Es correcta la afirmación? Justifica con las propiedades de la traslación.",
+      "context": "En Cartagena un estudiante afirma: \"Al trasladar una figura, su tamaño cambia si el desplazamiento es muy largo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, la traslación conserva forma, tamaño y orientación sin importar la distancia",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: todos los puntos se mueven igual, así que las distancias internas no cambian nunca."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, los desplazamientos largos estiran las figuras",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: confunde trasladar con estirar; mover no deforma, sin importar la distancia."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, pero solo si el desplazamiento supera las 10 unidades",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: inventa un umbral falso; la propiedad vale para cualquier distancia."
+        },
+        {
+          "letter": "D",
+          "text": "No, pero la orientación sí cambia con la distancia",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: la traslación tampoco cambia la orientación; la figura mira hacia el mismo lado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las traslaciones son movimientos rígidos: conservan distancias y ángulos siempre. Evaluar la afirmación exige usar la definición (todos los puntos se desplazan igual) y no la intuición del \"movimiento largo\".",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-6-2026-W20-movimientos-plano-simetria-traslacion-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W20-movimientos-plano-simetria-traslacion-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la mejor estrategia geométrica y por qué?",
+      "context": "En Manizales un maestro de obra debe repetir un motivo de baldosa en una pared larga sin deformarlo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aplicar traslaciones repetidas del motivo, porque conservan forma y tamaño",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: repetir el mismo desplazamiento reproduce el motivo idéntico a lo largo de la pared."
+        },
+        {
+          "letter": "B",
+          "text": "Agrandar un poco el motivo en cada repetición para llenar la pared",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: cambiar el tamaño rompe el diseño y deforma el motivo original."
+        },
+        {
+          "letter": "C",
+          "text": "Girar el motivo al azar en cada posición para que se vea variado",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: los giros aleatorios destruyen el patrón regular que pide el diseño."
+        },
+        {
+          "letter": "D",
+          "text": "Reflejar el motivo solo una vez y estirarlo hasta cubrir la pared",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: una sola reflexión no cubre la pared y estirar deforma el motivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los patrones de recubrimiento (teselados) se generan con traslaciones repetidas del motivo base. Elegir el movimiento que conserva congruencia garantiza un diseño uniforme y fiel al original.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-6-2026-W20-movimientos-plano-simetria-traslacion-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

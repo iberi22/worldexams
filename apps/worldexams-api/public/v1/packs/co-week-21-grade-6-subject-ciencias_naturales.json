@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-21-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T04:30:21.340Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-6-2026-W21-luz-sombras-reflexion-001-MASTERY-bundle-v1",
+      "statement": "¿Qué hace la luz al pasar de la linterna a la pantalla y luego a los ojos de los estudiantes?",
+      "context": "En un salón de clase de Ipiales, Nariño, una profesora enciende una linterna al frente del aula y proyecta luz hacia la pantalla blanca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Viaja en línea recta, ilumina la pantalla y llega a los ojos para que se vea la imagen",
+          "is_correct": true,
+          "feedback": "Correcto. La luz se propaga en línea recta en un medio homogéneo."
+        },
+        {
+          "letter": "B",
+          "text": "Se detiene en la pantalla sin seguir de largo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Parte de la luz sigue, otra parte se refleja y permite ver la imagen."
+        },
+        {
+          "letter": "C",
+          "text": "La luz se curva siguiendo el aire del salón",
+          "is_correct": false,
+          "feedback": "Incorrecto. En aire homogéneo la luz viaja recta."
+        },
+        {
+          "letter": "D",
+          "text": "La luz se devuelve al foco antes de llegar a la pantalla",
+          "is_correct": false,
+          "feedback": "Incorrecto. La linterna solo emite, no recibe la luz reflejada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La luz se propaga en línea recta en medios homogéneos y puede ser reflejada, absorbida o transmitida al incidir en una superficie; la pantalla blanca refleja gran parte de la luz y permite verla.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-6-2026-W21-luz-sombras-reflexion-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W21-luz-sombras-reflexion-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué las manos proyectan una silueta oscura sobre la pared blanca iluminada?",
+      "context": "En el patio central del colegio de Túquerres, los estudiantes proyectan la silueta de sus manos frente a una pared blanca iluminada por el sol de las diez de la mañana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la mano sólida bloquea el paso de la luz solar y deja una región sin iluminación directa, que es la sombra",
+          "is_correct": true,
+          "feedback": "Correcto. Los objetos opacos producen sombra cuando interceptan la luz."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la mano emite un oscuridad que pinta la pared",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mano no emite oscuridad, solo bloquea la luz."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la pared cambia de color al recibir la sombra",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pared sigue del mismo color y solo deja de recibir luz directa en esa zona."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el sol no brilla sobre Nariño a esa hora",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sol sí alumbra esa zona y por eso se forma la silueta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La sombra es la región donde la luz no llega porque un objeto opaco la interceptó; el color de la pared no cambia, simplemente está menos iluminada en esa parte.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-6-2026-W21-luz-sombras-reflexion-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W21-luz-sombras-reflexion-001-MASTERY-bundle-v3",
+      "statement": "¿Cómo se llama la región totalmente oscura formada alrededor de la pelota en la pantalla?",
+      "context": "En un experimento del club de ciencias de Calarcá, los estudiantes iluman con una linterna puntual una pelota colgada cerca de una pantalla blanca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Umbra",
+          "is_correct": true,
+          "feedback": "Correcto. La umbra es la región donde no llega ningún rayo de la fuente puntual."
+        },
+        {
+          "letter": "B",
+          "text": "Penumbra",
+          "is_correct": false,
+          "feedback": "Incorrecto. La penumbra es la región parcialmente iluminada, no la totalmente oscura."
+        },
+        {
+          "letter": "C",
+          "text": "Fotón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fotón es la partícula de luz, no la región de sombra."
+        },
+        {
+          "letter": "D",
+          "text": "Espejo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Espejo es una superficie reflectante, no una sombra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con una fuente puntual y un solo cuerpo opaco se forma una umbra nítida; si la fuente es extensa aparecen umbra y penumbra porque parte de la luz llega a la región intermedia desde el borde de la fuente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-6-2026-W21-luz-sombras-reflexion-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W21-luz-sombras-reflexion-001-MASTERY-bundle-v4",
+      "statement": "¿Qué ocurre cuando la luz de la calle llega al espejo plano y vuelve a los ojos del vendedor?",
+      "context": "En la plaza principal de Marinilla, un vendedor ambulante coloca un espejo plano frente a su puesto para revisar la mercancía detrás de él.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La luz se refleja con el mismo ángulo con el que llegó, formando una imagen virtual del objeto detrás del espejo",
+          "is_correct": true,
+          "feedback": "Correcto. El espejo plano cumple la ley de reflexión y produce imagen virtual."
+        },
+        {
+          "letter": "B",
+          "text": "La luz atraviesa el espejo y no regresa al vendedor",
+          "is_correct": false,
+          "feedback": "Incorrecto. El espejo plano refleja casi toda la luz, no la deja pasar."
+        },
+        {
+          "letter": "C",
+          "text": "El espejo cambia la dirección de la luz al azar y deforma todo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reflexión sigue una ley geométrica precisa."
+        },
+        {
+          "letter": "D",
+          "text": "La luz emitida por el vendedor vuelve al espejo y ese es el rayo reflejado",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reflexión ocurre con luz externa al espejo, no con la luz del ojo del vendedor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ley de reflexión dice que el ángulo de incidencia es igual al ángulo de reflexión respecto a la normal; por eso en un espejo plano la imagen parece estar a la misma distancia detrás del vidrio que el objeto delante.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.79,
+      "bundle_id": "CO-CN-6-2026-W21-luz-sombras-reflexion-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W21-luz-sombras-reflexion-001-MASTERY-bundle-v5",
+      "statement": "¿Qué tipo de reflexión se ve en la superficie del embalse cuando el agua está completamente quieta?",
+      "context": "En el embalse de Tominé, una estudiante mira el reflejo de las montañas en el agua quieta al amanecer.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reflexión especular, porque el agua lisa refleja los rayos de forma ordenada como un espejo plano",
+          "is_correct": true,
+          "feedback": "Correcto. Superficies lisas producen reflexión especular."
+        },
+        {
+          "letter": "B",
+          "text": "Reflexión difusa, porque el agua desordenada desvía la imagen",
+          "is_correct": false,
+          "feedback": "Incorrecto. La difusa ocurre en superficies rugosas, no en agua quieta."
+        },
+        {
+          "letter": "C",
+          "text": "Refracción, porque la luz cambia de velocidad dentro del agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. La refracción también ocurre, pero el efecto óptico visible aquí es la reflexión especular."
+        },
+        {
+          "letter": "D",
+          "text": "Absorción total, porque el agua absorbe toda la luz incidente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo una pequeña parte de la luz se absorbe."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La reflexión especular se da en superficies lisas donde los rayos paralelos se reflejan paralelos y permiten ver una imagen clara; la difusa ocurre en paredes rugosas y dispersa la luz en muchas direcciones.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CN-6-2026-W21-luz-sombras-reflexion-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W21-luz-sombras-reflexion-001-MASTERY-bundle-v6",
+      "statement": "¿Qué análisis explica que la sombra crezca al alejar el cuerpo del foco y acercarse a la pantalla?",
+      "context": "En el estudio de televisión escolar de Sogamoso, los camarógrafos notan que la silueta del presentador aparecerá más grande en cámara al alejarlo del foco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los rayos divergentes de la fuente puntual se abren y la región bloqueada aumenta con la distancia",
+          "is_correct": true,
+          "feedback": "Correcto. La propagación rectilínea explica el aumento de la sombra."
+        },
+        {
+          "letter": "B",
+          "text": "La pantalla se encoge por la distancia",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pantalla tiene tamaño fijo, lo que cambia es la sombra proyectada."
+        },
+        {
+          "letter": "C",
+          "text": "La luz se vuelve más débil al alejarse y por eso la sombra crece",
+          "is_correct": false,
+          "feedback": "Incorrecto. La intensidad no cambia el tamaño de la sombra."
+        },
+        {
+          "letter": "D",
+          "text": "El color del cuerpo aumenta la sombra",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color no afecta la geometría de la sombra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si la fuente es puntual, los rayos divergen y la sombra proyecta los bordes del cuerpo sobre la pantalla siguiendo líneas rectas; al aumentar la distancia pantalla-cuerpo, esa proyección se agranda proporcionalmente.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.71,
+      "bundle_id": "CO-CN-6-2026-W21-luz-sombras-reflexion-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W21-luz-sombras-reflexion-001-MASTERY-bundle-v7",
+      "statement": "¿Qué análisis compara la sombra producida por una bombilla grande y la producida por una pequeña linterna?",
+      "context": "En el aula de física de Chiquinquirá, los estudiantes observan cómo cambian la umbra y la penumbra de una pelota según el tamaño de la fuente de luz usada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fuente grande genera umbra más pequeña y penumbra más amplia; la fuente puntual genera umbra bien definida y penumbra casi nula",
+          "is_correct": true,
+          "feedback": "Correcto. La geometría de la fuente define la umbra y la penumbra."
+        },
+        {
+          "letter": "B",
+          "text": "La fuente grande genera penumbra nula y la bolita genera doble umbra",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fuente grande siempre genera penumbra."
+        },
+        {
+          "letter": "C",
+          "text": "La fuente puntual no produce sombra alguna",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda fuente de luz puntual produce sombra definida."
+        },
+        {
+          "letter": "D",
+          "text": "El color de la fuente cambia la umbra pero no la penumbra",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color no influye en la geometría de la sombra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar sombras pide comparar tamaños de fuente: una fuente extensa produce una umbra más pequeña rodeada de penumbra ancha; una fuente puntual casi solo produce umbra y la penumbra se reduce a una línea.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CN-6-2026-W21-luz-sombras-reflexion-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W21-luz-sombras-reflexion-001-MASTERY-bundle-v8",
+      "statement": "¿Qué análisis explica la inversión derecha-izquierda en el espejo plano?",
+      "context": "En el baño del colegio en Villavicencio, una estudiante nota que su imagen en el espejo se ve derecha pero invertida en sentido derecha-izquierda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El espejo invierte el eje perpendicular a la superficie, así que las direcciones paralelas al espejo se ven invertidas",
+          "is_correct": true,
+          "feedback": "Correcto. La inversión aparente se debe a la geometría de la reflexión."
+        },
+        {
+          "letter": "B",
+          "text": "El espejo voltea a la persona real como si fuese carne",
+          "is_correct": false,
+          "feedback": "Incorrecto. El espejo no transforma al cuerpo físico."
+        },
+        {
+          "letter": "C",
+          "text": "El espejo solo afecta la luz pero no la imagen",
+          "is_correct": false,
+          "feedback": "Incorrecto. La imagen siempre se forma por la luz reflejada."
+        },
+        {
+          "letter": "D",
+          "text": "La fuerza del cristal gira la imagen en redondo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vidrio solo refleja la luz y produce la inversión aparente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La imagen del espejo plano es virtual y del mismo tamaño, pero invierte los ejes perpendiculares a la superficie; por eso el lado derecho de la persona aparece como izquierdo en el reflejo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CN-6-2026-W21-luz-sombras-reflexion-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W21-luz-sombras-reflexion-001-MASTERY-bundle-v9",
+      "statement": "¿Qué juicio crítico merece la afirmación del vendedor respecto a broncearse en una habitación oscura?",
+      "context": "En la feria de Manizales se vende una cama solar que promete bronceado profundo incluso en habitaciones sin ventanas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es falsa, porque sin luz no hay energía que produzca bronceado; la radiación ultravioleta artificial necesita fuente propia y declarada",
+          "is_correct": true,
+          "feedback": "Correcto. El bronceado requiere luz ultravioleta específica, no oscuridad."
+        },
+        {
+          "letter": "B",
+          "text": "Es cierta porque una habitación oscura ya trae luz escondida",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oscuridad no contiene energía lumínica utilizable."
+        },
+        {
+          "letter": "C",
+          "text": "Es cierta porque la piel se broncea en cualquier ambiente oscuro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin luz incidente no hay producción de melanina por bronceado."
+        },
+        {
+          "letter": "D",
+          "text": "Es cierta siempre y cuando la habitación esté pintada de blanco",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color de la pintura no genera luz por sí solo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar publicidad exige reconocer que la luz se genera por fuentes específicas; sin fuente lumínica directa o artificial no hay energía que el cuerpo reciba para activar la melanina y por tanto no hay bronceado real.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-6-2026-W21-luz-sombras-reflexion-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W21-luz-sombras-reflexion-001-MASTERY-bundle-v10",
+      "statement": "¿Qué evaluación conjunta de las tres hipótesis es correcta?",
+      "context": "En la feria de ciencia de Bogotá, tres hipótesis se debaten: 1) La luz necesita aire para viajar. 2) La reflexión ocurre solo en metales pulidos. 3) Un espejo plano produce imagen del mismo tamaño que el objeto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La 1 es falsa porque la luz viaja en el vacío, la 2 es falsa porque la reflexión ocurre en muchas superficies además del metal pulido y la 3 es verdadera",
+          "is_correct": true,
+          "feedback": "Correcto. La luz viaja en el vacío, la reflexión ocurre en aguas y espejos y la imagen del espejo plano conserva el tamaño."
+        },
+        {
+          "letter": "B",
+          "text": "Las tres son verdaderas porque la luz siempre necesita aire",
+          "is_correct": false,
+          "feedback": "Incorrecto. La luz del Sol llega a la Tierra cruzando el vacío."
+        },
+        {
+          "letter": "C",
+          "text": "Solo la 2 es verdadera y las demás son falsas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La 2 es falsa y la 3 es verdadera."
+        },
+        {
+          "letter": "D",
+          "text": "Las tres son falsas porque no existe la reflexión",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reflexión es observable en muchos contextos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Juzgar hipótesis sobre luz pide distinguir medio y superficie: la luz atraviesa el vacío, se refleja en superficies tan variadas como el agua quieta o el vidrio pulido y un espejo plano construye una imagen virtual de igual tamaño que el objeto.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-6-2026-W21-luz-sombras-reflexion-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

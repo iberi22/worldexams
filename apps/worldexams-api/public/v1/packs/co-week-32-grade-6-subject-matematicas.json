@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-32-grade-6-subject-matematicas",
+    "generated_at": "2026-09-21T02:17:10.415Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-6-2026-W32-fracciones-equivalentes-simplificacion-001-MASTERY-bundle-v1",
+      "statement": "¿Qué fracción representa las 2 partes que separó la vendedora?",
+      "context": "En el mercado de Manizales una vendedora parte una naranja en 4 partes iguales y separa 2 de ellas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2/4",
+          "is_correct": true,
+          "feedback": "Es correcta porque se tomaron 2 de las 4 partes iguales, y eso se escribe 2/4."
+        },
+        {
+          "letter": "B",
+          "text": "4/2",
+          "is_correct": false,
+          "feedback": "Error conceptual: invierte numerador y denominador; se tomaron 2 partes, no 4 de un total de 2."
+        },
+        {
+          "letter": "C",
+          "text": "2/6",
+          "is_correct": false,
+          "feedback": "Error conceptual: usa un denominador que no corresponde; la naranja se partió en 4 partes, no en 6."
+        },
+        {
+          "letter": "D",
+          "text": "1/4",
+          "is_correct": false,
+          "feedback": "Error conceptual: representa solo una parte, pero la vendedora separó 2 partes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una fracción se escribe con el número de partes tomadas sobre el total de partes iguales. Si se toman 2 de 4, la fracción es 2/4, que además es equivalente a 1/2.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-6-2026-W32-fracciones-equivalentes-simplificacion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W32-fracciones-equivalentes-simplificacion-001-MASTERY-bundle-v2",
+      "statement": "¿Qué relación existe entre las fracciones 3/6 y 1/2?",
+      "context": "En un colegio de Bogotá dos estudiantes comparan en el tablero las fracciones 3/6 y 1/2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son equivalentes porque representan la misma parte del entero",
+          "is_correct": true,
+          "feedback": "Es correcta porque 3/6 simplificado es 1/2, así que cubren la misma porción del entero."
+        },
+        {
+          "letter": "B",
+          "text": "3/6 es mayor que 1/2",
+          "is_correct": false,
+          "feedback": "Error conceptual: cree que un numerador mayor siempre implica más cantidad, sin comparar el valor real."
+        },
+        {
+          "letter": "C",
+          "text": "1/2 es mayor que 3/6",
+          "is_correct": false,
+          "feedback": "Error conceptual: supone que la fracción con números menores vale más, pero ambas valen lo mismo."
+        },
+        {
+          "letter": "D",
+          "text": "No se pueden comparar por tener denominadores distintos",
+          "is_correct": false,
+          "feedback": "Error conceptual: las fracciones con distinto denominador sí se comparan, por ejemplo simplificando."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dos fracciones son equivalentes cuando representan la misma cantidad del entero. Al simplificar 3/6 dividiendo por 3 se obtiene 1/2, lo que demuestra que son iguales.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-6-2026-W32-fracciones-equivalentes-simplificacion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W32-fracciones-equivalentes-simplificacion-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál fracción es equivalente a 4/8?",
+      "context": "En una panadería de Medellín un pan se divide en 8 porciones iguales y un cliente compra 4 de ellas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/2",
+          "is_correct": true,
+          "feedback": "Es correcta porque al dividir numerador y denominador entre 4 se obtiene 1/2."
+        },
+        {
+          "letter": "B",
+          "text": "2/8",
+          "is_correct": false,
+          "feedback": "Error conceptual: divide solo el numerador entre 2 y deja el denominador igual."
+        },
+        {
+          "letter": "C",
+          "text": "4/4",
+          "is_correct": false,
+          "feedback": "Error conceptual: iguala numerador y denominador, lo que representa el entero completo."
+        },
+        {
+          "letter": "D",
+          "text": "8/4",
+          "is_correct": false,
+          "feedback": "Error conceptual: invierte la fracción y obtiene un valor mayor que el entero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Simplificar consiste en dividir numerador y denominador por un mismo número. En 4/8 el divisor común es 4, así que 4/8 = 1/2 sin cambiar el valor de la fracción.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-6-2026-W32-fracciones-equivalentes-simplificacion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W32-fracciones-equivalentes-simplificacion-001-MASTERY-bundle-v4",
+      "statement": "¿Qué fracción equivalente obtiene el estudiante?",
+      "context": "En Neiva un estudiante amplifica la fracción 2/3 multiplicando numerador y denominador por 4 para compararla con otra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8/12",
+          "is_correct": true,
+          "feedback": "Es correcta porque 2 × 4 = 8 y 3 × 4 = 12; ambas fracciones valen lo mismo."
+        },
+        {
+          "letter": "B",
+          "text": "6/7",
+          "is_correct": false,
+          "feedback": "Error conceptual: suma 4 a cada término en vez de multiplicar por 4."
+        },
+        {
+          "letter": "C",
+          "text": "2/12",
+          "is_correct": false,
+          "feedback": "Error conceptual: multiplica solo el denominador y deja el numerador sin cambio."
+        },
+        {
+          "letter": "D",
+          "text": "8/3",
+          "is_correct": false,
+          "feedback": "Error conceptual: multiplica solo el numerador y deja el denominador igual."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Amplificar una fracción es multiplicar numerador y denominador por el mismo número distinto de cero. Así 2/3 = 8/12; la parte del entero representada no cambia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-6-2026-W32-fracciones-equivalentes-simplificacion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W32-fracciones-equivalentes-simplificacion-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la fracción simplificada de 6/9?",
+      "context": "En Cartagena una receta pide 6/9 de taza de azúcar y la cocinera quiere expresar esa cantidad con la fracción más simple.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2/3",
+          "is_correct": true,
+          "feedback": "Es correcta porque 6 ÷ 3 = 2 y 9 ÷ 3 = 3; la fracción queda en su forma más simple."
+        },
+        {
+          "letter": "B",
+          "text": "6/3",
+          "is_correct": false,
+          "feedback": "Error conceptual: divide solo el denominador entre 3 y deja el numerador igual."
+        },
+        {
+          "letter": "C",
+          "text": "3/9",
+          "is_correct": false,
+          "feedback": "Error conceptual: divide solo el numerador entre 2 y no usa el máximo divisor común de ambos."
+        },
+        {
+          "letter": "D",
+          "text": "1/9",
+          "is_correct": false,
+          "feedback": "Error conceptual: reduce el numerador a 1 sin dividir el denominador por el mismo número."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para simplificar se divide numerador y denominador entre su máximo común divisor. En 6/9 ese divisor es 3, por lo que la fracción irreducible es 2/3.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-6-2026-W32-fracciones-equivalentes-simplificacion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W32-fracciones-equivalentes-simplificacion-001-MASTERY-bundle-v6",
+      "statement": "¿Qué se puede concluir sobre las fracciones 9/12 y 3/4?",
+      "context": "En un mural de Cali se pintan 9/12 de la pared de azul y 3/4 de rojo. Los organizadores dudan si ambas partes coinciden.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son equivalentes, por lo que cubren la misma área de la pared",
+          "is_correct": true,
+          "feedback": "Es correcta porque 9/12 simplificado entre 3 es 3/4; representan la misma extensión."
+        },
+        {
+          "letter": "B",
+          "text": "9/12 cubre más área porque tiene números mayores",
+          "is_correct": false,
+          "feedback": "Error conceptual: confunde el tamaño de los números con el valor de la fracción."
+        },
+        {
+          "letter": "C",
+          "text": "3/4 cubre más área porque tiene menos partes",
+          "is_correct": false,
+          "feedback": "Error conceptual: cree que menos partes implican más pintura, cuando los valores son iguales."
+        },
+        {
+          "letter": "D",
+          "text": "No se pueden comparar porque una tiene más partes que la otra",
+          "is_correct": false,
+          "feedback": "Error conceptual: la cantidad de partes no impide comparar, ya que basta simplificar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar o igualar fracciones exige atender su valor y no el tamaño de sus términos. Simplificar 9/12 entre 3 da 3/4, lo que confirma que ambas áreas son iguales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-6-2026-W32-fracciones-equivalentes-simplificacion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W32-fracciones-equivalentes-simplificacion-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál fracción es mayor y por qué?",
+      "context": "En una tienda de Manizales se comparan dos descuentos escritos como 6/8 y 4/6 del mismo producto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6/8, porque al simplificar queda 3/4 y 4/6 queda 2/3, y 3/4 es mayor que 2/3",
+          "is_correct": true,
+          "feedback": "Es correcta porque simplificar permite comparar: 3/4 equivale a 0,75 y 2/3 a 0,666."
+        },
+        {
+          "letter": "B",
+          "text": "4/6, porque tiene el denominador más pequeño",
+          "is_correct": false,
+          "feedback": "Error conceptual: cree que un denominador menor siempre da una fracción mayor."
+        },
+        {
+          "letter": "C",
+          "text": "Son iguales porque ambas tienen números pares",
+          "is_correct": false,
+          "feedback": "Error conceptual: la paridad de los términos no determina la equivalencia."
+        },
+        {
+          "letter": "D",
+          "text": "6/8, porque su numerador es mayor que el de la otra",
+          "is_correct": false,
+          "feedback": "Error conceptual: compara solo los numeradores sin tener en cuenta los denominadores."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para comparar fracciones conviene simplificarlas primero: 6/8 = 3/4 y 4/6 = 2/3. Al expresarlas con un denominador común, 9/12 es mayor que 8/12, así que 6/8 es la mayor.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-6-2026-W32-fracciones-equivalentes-simplificacion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W32-fracciones-equivalentes-simplificacion-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál afirmación es correcta sobre 12/30 y 2/5?",
+      "context": "En un salón de Bogotá, 12 de 30 estudiantes prefieren la música, mientras otro grupo afirma que son 2/5 del total.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12/30 y 2/5 son equivalentes porque 12/30 se simplifica a 2/5",
+          "is_correct": true,
+          "feedback": "Es correcta porque dividir 12 y 30 entre 6 da 2/5; representan la misma parte del grupo."
+        },
+        {
+          "letter": "B",
+          "text": "12/30 es mayor porque el grupo tiene más estudiantes",
+          "is_correct": false,
+          "feedback": "Error conceptual: mezcla el tamaño del grupo con el valor de la fracción que lo describe."
+        },
+        {
+          "letter": "C",
+          "text": "2/5 es mayor porque usa números más pequeños",
+          "is_correct": false,
+          "feedback": "Error conceptual: confunde números pequeños con mayor cantidad representada."
+        },
+        {
+          "letter": "D",
+          "text": "No son equivalentes porque 12 no es múltiplo de 5",
+          "is_correct": false,
+          "feedback": "Error conceptual: la equivalencia depende del valor, no de que un numerador sea múltiplo del denominador de la otra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Simplificar 12/30 entre su máximo común divisor, que es 6, da 2/5. Así se comprueba que ambos registros describen la misma proporción de estudiantes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-6-2026-W32-fracciones-equivalentes-simplificacion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W32-fracciones-equivalentes-simplificacion-001-MASTERY-bundle-v9",
+      "statement": "¿Es correcta la afirmación del estudiante? Justifica tu respuesta.",
+      "context": "En Cartagena un estudiante afirma: \"Si sumo el mismo número al numerador y al denominador de 1/2, obtengo una fracción equivalente\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, porque sumar el mismo número no garantiza equivalencia; se debe multiplicar o dividir por el mismo número",
+          "is_correct": true,
+          "feedback": "Es correcta porque solo la multiplicación o división por un mismo factor conserva el valor de la fracción."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, siempre que se sume el mismo número en ambos términos",
+          "is_correct": false,
+          "feedback": "Error conceptual: generaliza una regla falsa; por ejemplo 1/2 y 2/3 no son equivalentes."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, pero solo cuando el número que se suma es par",
+          "is_correct": false,
+          "feedback": "Error conceptual: inventa una condición de paridad que no tiene fundamento matemático."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque nunca se puede cambiar el numerador ni el denominador",
+          "is_correct": false,
+          "feedback": "Error conceptual: sí se pueden cambiar si se multiplican o dividen por el mismo número."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una fracción conserva su valor solo cuando numerador y denominador se multiplican o dividen por el mismo número distinto de cero. Sumar la misma cantidad altera el cociente: 1/2 no es equivalente a 2/3 ni a 3/4.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-6-2026-W32-fracciones-equivalentes-simplificacion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W32-fracciones-equivalentes-simplificacion-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál opción es la más adecuada y por qué?",
+      "context": "En Manizales dos docentes discuten cuál fracción presentar para comparar repartos de pizza: 3/4 o 6/8.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cualquiera de las dos, porque son equivalentes y representan el mismo reparto",
+          "is_correct": true,
+          "feedback": "Es correcta porque 3/4 y 6/8 valen lo mismo, así que describen porciones idénticas."
+        },
+        {
+          "letter": "B",
+          "text": "6/8, porque al tener números mayores es más exacta",
+          "is_correct": false,
+          "feedback": "Error conceptual: el tamaño de los números no aumenta la exactitud del valor."
+        },
+        {
+          "letter": "C",
+          "text": "3/4, porque toda fracción con números grandes es incorrecta",
+          "is_correct": false,
+          "feedback": "Error conceptual: rechaza fracciones amplificadas aunque sean correctas y equivalentes."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna, porque los repartos de pizza no se pueden escribir con fracciones",
+          "is_correct": false,
+          "feedback": "Error conceptual: los repartos equitativos se representan naturalmente con fracciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las fracciones equivalentes son distintas formas de escribir el mismo valor. Elegir 3/4 o 6/8 es indiferente para el reparto porque ambas representan la misma porción del entero.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.45,
+      "bundle_id": "CO-MAT-6-2026-W32-fracciones-equivalentes-simplificacion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

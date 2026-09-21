@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-11-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T03:42:40.853Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-6-2026-W11-capas-tierra-sismos-volcanes-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el orden correcto de las capas de la Tierra desde la superficie hacia el centro?",
+      "context": "En un colegio de Manizales, la profesora muestra un modelo de la Tierra cortada en tres partes de colores para repasar su estructura interna.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Corteza, manto y núcleo",
+          "is_correct": true,
+          "feedback": "Correcto. De afuera hacia adentro están la corteza delgada, el manto intermedio y el núcleo central."
+        },
+        {
+          "letter": "B",
+          "text": "Núcleo, manto y corteza",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el orden al revés, desde el centro hacia afuera."
+        },
+        {
+          "letter": "C",
+          "text": "Manto, corteza y núcleo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera capa desde la superficie es la corteza, no el manto."
+        },
+        {
+          "letter": "D",
+          "text": "Corteza, núcleo y manto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El núcleo está en el centro, no entre la corteza y el manto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Tierra tiene tres capas principales: la corteza donde vivimos, el manto caliente intermedio y el núcleo en el centro.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-6-2026-W11-capas-tierra-sismos-volcanes-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W11-capas-tierra-sismos-volcanes-001-MASTERY-bundle-v2",
+      "statement": "¿Qué es un sismo?",
+      "context": "En Pasto, cerca del volcán Galeras, los estudiantes sienten un temblor corto y la profesora explica qué acaba de ocurrir bajo sus pies.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La salida de lava y ceniza por el cráter de un volcán",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe una erupción volcánica, no un sismo."
+        },
+        {
+          "letter": "B",
+          "text": "Un ruido fuerte producido por una tormenta eléctrica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tormenta produce truenos en la atmósfera, no movimiento del suelo."
+        },
+        {
+          "letter": "C",
+          "text": "Un movimiento repentino del suelo por energía liberada entre placas tectónicas",
+          "is_correct": true,
+          "feedback": "Correcto. Las placas se traban, acumulan energía y al soltarse sacuden el suelo."
+        },
+        {
+          "letter": "D",
+          "text": "Un deslizamiento de tierra causado solo por la lluvia",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lluvia puede soltar laderas, pero el sismo nace del interior de la Tierra."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El sismo es la sacudida del suelo cuando se libera de golpe la energía acumulada en los bordes de las placas tectónicas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-6-2026-W11-capas-tierra-sismos-volcanes-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W11-capas-tierra-sismos-volcanes-001-MASTERY-bundle-v3",
+      "statement": "¿Qué deben hacer los estudiantes durante el sismo dentro del salón?",
+      "context": "En un colegio de Manizales suena la alarma durante un sismo y los estudiantes de grado sexto deben protegerse dentro del salón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Correr de inmediato por las escaleras mientras el suelo se mueve",
+          "is_correct": false,
+          "feedback": "Incorrecto. Correr en escaleras durante la sacudida causa caídas y accidentes graves."
+        },
+        {
+          "letter": "B",
+          "text": "Protegerse bajo un pupitre firme, lejos de ventanas, y luego evacuar al punto de encuentro",
+          "is_correct": true,
+          "feedback": "Correcto. Cubrirse evita golpes por objetos que caen y evacuar ordenadamente salva vidas."
+        },
+        {
+          "letter": "C",
+          "text": "Pararse junto a las ventanas para ver qué pasa afuera",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los vidrios pueden romperse y causar heridas."
+        },
+        {
+          "letter": "D",
+          "text": "Salir al balcón del segundo piso para estar al aire libre",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los balcones y cornisas son zonas donde caen escombros."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Durante el sismo hay que cubrirse, agarrarse y esperar; la evacuación se hace con calma cuando deja de temblar, hacia el punto de encuentro.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-6-2026-W11-capas-tierra-sismos-volcanes-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W11-capas-tierra-sismos-volcanes-001-MASTERY-bundle-v4",
+      "statement": "¿De dónde proviene el magma que expulsa el volcán Galeras?",
+      "context": "En Pasto, el volcán Galeras expulsa lava y ceniza, y un estudiante pregunta de dónde sale ese material tan caliente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De un río subterráneo de agua hirviendo bajo Pasto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua caliente forma termales, pero el magma es roca fundida, no agua."
+        },
+        {
+          "letter": "B",
+          "text": "De la capa superficial fría de la corteza",
+          "is_correct": false,
+          "feedback": "Incorrecto. La superficie es fría; el calor que funde rocas está en el interior."
+        },
+        {
+          "letter": "C",
+          "text": "De nubes de tormenta que se meten al cráter",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las nubes están en la atmósfera y no producen roca fundida."
+        },
+        {
+          "letter": "D",
+          "text": "Del interior caliente del planeta, donde la roca se funde y sube como magma por el volcán",
+          "is_correct": true,
+          "feedback": "Correcto. El calor interno funde rocas del manto y el magma busca salida por el volcán."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los volcanes son chimeneas del interior: el magma sube desde zonas fundidas profundas y al salir a la superficie se llama lava.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.79,
+      "bundle_id": "CO-CN-6-2026-W11-capas-tierra-sismos-volcanes-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W11-capas-tierra-sismos-volcanes-001-MASTERY-bundle-v5",
+      "statement": "¿Por qué el Nevado del Ruiz es peligroso aunque se vea cubierto de nieve?",
+      "context": "En Armero, Tolima, la historia recuerda que en 1985 la erupción del Nevado del Ruiz derritió su nieve y bajaron avalanchas de lodo por los ríos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el calor de la erupción derrite el hielo y forma avalanchas de lodo que bajan por los ríos",
+          "is_correct": true,
+          "feedback": "Correcto. Esos ríos de lodo se llaman lahares y sepultaron a Armero en 1985."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la nieve de la montaña se convierte en lava fría",
+          "is_correct": false,
+          "feedback": "Incorrecto. La nieve se vuelve agua y lodo, no lava; la lava viene del interior."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el frío de la nieve apaga los sismos de la región",
+          "is_correct": false,
+          "feedback": "Incorrecto. La nieve superficial no frena los movimientos del interior de la Tierra."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la nieve atrae tormentas que tapan el cráter",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las tormentas no tapan cráteres ni explican el peligro del volcán."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En volcanes nevados el mayor peligro son los lahares: agua del deshielo mezclada con ceniza y rocas que arrasa valles enteros.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CN-6-2026-W11-capas-tierra-sismos-volcanes-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W11-capas-tierra-sismos-volcanes-001-MASTERY-bundle-v6",
+      "statement": "¿Qué error hay en la afirmación del estudiante?",
+      "context": "En Tunja, un estudiante afirma en clase que la corteza es la capa más gruesa de la Tierra porque es la que pisamos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ningún error, la corteza sí es la capa más gruesa del planeta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La corteza es apenas una cáscara delgada comparada con el manto."
+        },
+        {
+          "letter": "B",
+          "text": "El error es decir que pisamos la corteza, porque pisamos el núcleo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí pisamos la corteza; el núcleo está a miles de kilómetros de profundidad."
+        },
+        {
+          "letter": "C",
+          "text": "La corteza es la capa más delgada; el manto es mucho más grueso y el núcleo está en el centro",
+          "is_correct": true,
+          "feedback": "Correcto. La corteza es fina como la cáscara de una fruta frente al resto del planeta."
+        },
+        {
+          "letter": "D",
+          "text": "El error es creer que la Tierra tiene capas, porque es maciza y uniforme",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los sismos y volcanes prueban que el interior tiene capas distintas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar grosores corrige la intuición: vivimos sobre la capa más fina, y bajo ella hay miles de kilómetros de manto y núcleo calientes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.71,
+      "bundle_id": "CO-CN-6-2026-W11-capas-tierra-sismos-volcanes-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W11-capas-tierra-sismos-volcanes-001-MASTERY-bundle-v7",
+      "statement": "¿Qué análisis de los dos registros es correcto?",
+      "context": "En el observatorio de Manizales, dos sismógrafos dibujan ondas: el temblor A deja un trazo alto y amplio, y el temblor B deja un trazo pequeño y plano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El temblor B liberó más energía porque su trazo es más pequeño y concentrado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un trazo pequeño indica menos movimiento del suelo, no más energía."
+        },
+        {
+          "letter": "B",
+          "text": "El temblor A liberó más energía porque mayor amplitud significa sacudida más fuerte",
+          "is_correct": true,
+          "feedback": "Correcto. En el sismógrafo, ondas más altas corresponden a sismos más fuertes."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos liberaron la misma energía porque ocurrieron el mismo día",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fecha no iguala la energía; la amplitud del registro sí la compara."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede comparar nada porque el sismógrafo solo mide la lluvia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sismógrafo mide el movimiento del suelo, no la lluvia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Leer un sismograma es comparar amplitudes: a mayor altura de la onda, mayor energía liberada por el sismo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CN-6-2026-W11-capas-tierra-sismos-volcanes-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W11-capas-tierra-sismos-volcanes-001-MASTERY-bundle-v8",
+      "statement": "¿Qué análisis explica que Colombia tenga sismos y volcanes?",
+      "context": "En clase de ciencias en Bucaramanga, el mapa muestra que Colombia está junto al cinturón de fuego del Pacífico, con volcanes como el Ruiz y el Galeras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Colombia tiene muchos ríos como el Magdalena que chocan y producen volcanes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ríos modelan el paisaje, pero no crean sismos ni volcanes."
+        },
+        {
+          "letter": "B",
+          "text": "El clima tropical del país calienta las rocas hasta fundirlas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El calor del clima es superficial; el magma viene del interior profundo."
+        },
+        {
+          "letter": "C",
+          "text": "La corteza colombiana es una sola pieza quieta que nunca se mueve",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si fuera quieta no habría temblores; Colombia tiembla justo porque las placas se mueven."
+        },
+        {
+          "letter": "D",
+          "text": "Colombia está donde chocan placas tectónicas y ese choque causa sismos y forma volcanes",
+          "is_correct": true,
+          "feedback": "Correcto. El encuentro de placas acumula energía de sismos y funde roca de volcanes."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Sismos y volcanes juntos delatan el mismo origen: bordes de placas en movimiento, como los que rodean el Pacífico colombiano.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CN-6-2026-W11-capas-tierra-sismos-volcanes-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W11-capas-tierra-sismos-volcanes-001-MASTERY-bundle-v9",
+      "statement": "¿Qué propuesta de prevención es científicamente la mejor?",
+      "context": "Un colegio de Pasto, cerca del Galeras, debe elegir su plan de prevención entre cuatro propuestas de los estudiantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Simulacros periódicos, rutas señalizadas, mochila de emergencia y punto de encuentro conocido por todos",
+          "is_correct": true,
+          "feedback": "Correcto. La preparación integral y practicada es lo que realmente reduce víctimas."
+        },
+        {
+          "letter": "B",
+          "text": "No informar a nadie para evitar el miedo y esperar que no pase nada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocultar el riesgo deja a todos sin saber cómo reaccionar."
+        },
+        {
+          "letter": "C",
+          "text": "Guardar los estantes pesados y vidrios sueltos sobre las puertas de salida",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los objetos altos y sueltos se caen y bloquean la evacuación."
+        },
+        {
+          "letter": "D",
+          "text": "Bloquear las salidas con pupitres para que no entre el polvo de la erupción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bloquear salidas impide evacuar y puede costar vidas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar prevención es buscar acciones probadas: informarse, practicar, asegurar objetos y tener lista la emergencia, no improvisar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-6-2026-W11-capas-tierra-sismos-volcanes-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W11-capas-tierra-sismos-volcanes-001-MASTERY-bundle-v10",
+      "statement": "¿Qué evaluación de las tres afirmaciones es científicamente correcta?",
+      "context": "En Cartagena, tres afirmaciones se debaten: 1) El núcleo es la capa más externa de la Tierra. 2) Los sismos se pueden predecir con fecha y hora exacta. 3) Alejarse de ventanas y buscar zonas seguras reduce el riesgo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las tres son verdaderas porque el interior de la Tierra ya se conoce por completo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El interior se estudia con ondas sísmicas y aún no se predice fecha exacta de sismos."
+        },
+        {
+          "letter": "B",
+          "text": "Solo la 1 es verdadera y las demás son falsas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La 1 es falsa: la capa externa es la corteza, no el núcleo."
+        },
+        {
+          "letter": "C",
+          "text": "La 1 es falsa porque la capa externa es la corteza, la 2 es falsa porque no hay predicción exacta, la 3 es verdadera",
+          "is_correct": true,
+          "feedback": "Correcto. Corrige la estructura, reconoce el límite de la predicción y valora la prevención."
+        },
+        {
+          "letter": "D",
+          "text": "La 2 es verdadera porque los animales avisan el día exacto del sismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El comportamiento animal no da fecha ni hora confiable de sismos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Juzgar exige verificar cada parte: estructura real de la Tierra, límites de la ciencia y medidas de protección que sí funcionan.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-6-2026-W11-capas-tierra-sismos-volcanes-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

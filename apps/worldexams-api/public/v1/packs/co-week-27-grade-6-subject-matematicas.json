@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-27-grade-6-subject-matematicas",
+    "generated_at": "2026-09-21T02:17:10.414Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-6-2026-W27-triangulos-clasificacion-propiedades-001-MASTERY-bundle-v1",
+      "statement": "¿Cómo se clasifica ese triángulo según sus lados?",
+      "context": "En Bogotá, la profesora dibuja en el tablero un triángulo con sus tres lados de igual longitud.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Equilátero",
+          "is_correct": true,
+          "feedback": "Es correcto: un triángulo equilátero tiene sus tres lados de la misma longitud."
+        },
+        {
+          "letter": "B",
+          "text": "Isósceles",
+          "is_correct": false,
+          "feedback": "Error conceptual: el isósceles tiene solo dos lados iguales, no los tres."
+        },
+        {
+          "letter": "C",
+          "text": "Escaleno",
+          "is_correct": false,
+          "feedback": "Error conceptual: el escaleno tiene todos los lados de distinta medida."
+        },
+        {
+          "letter": "D",
+          "text": "Rectángulo",
+          "is_correct": false,
+          "feedback": "Error conceptual: rectángulo clasifica por los ángulos (uno de 90°), no por los lados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los triángulos se clasifican por sus lados en equilátero (tres iguales), isósceles (dos iguales) y escaleno (todos distintos). Observar primero la longitud de los lados permite nombrar la figura correctamente.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-6-2026-W27-triangulos-clasificacion-propiedades-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W27-triangulos-clasificacion-propiedades-001-MASTERY-bundle-v2",
+      "statement": "¿Cuánto suman siempre los tres ángulos internos de un triángulo?",
+      "context": "En Medellín, Juan mide con un transportador los tres ángulos de varios triángulos dibujados en su cuaderno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "180°",
+          "is_correct": true,
+          "feedback": "Es correcto: en todo triángulo la suma de los ángulos internos es 180°."
+        },
+        {
+          "letter": "B",
+          "text": "360°",
+          "is_correct": false,
+          "feedback": "Error conceptual: 360° es la suma de los ángulos de un cuadrilátero, no de un triángulo."
+        },
+        {
+          "letter": "C",
+          "text": "90°",
+          "is_correct": false,
+          "feedback": "Error conceptual: 90° es la medida de un solo ángulo recto, no la suma de los tres."
+        },
+        {
+          "letter": "D",
+          "text": "270°",
+          "is_correct": false,
+          "feedback": "Error conceptual: 270° no corresponde a la suma de los ángulos internos de ninguna figura básica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La suma de los ángulos internos de cualquier triángulo es una propiedad constante: 180°. Este resultado permite hallar un ángulo desconocido cuando se conocen los otros dos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-6-2026-W27-triangulos-clasificacion-propiedades-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W27-triangulos-clasificacion-propiedades-001-MASTERY-bundle-v3",
+      "statement": "¿Cuánto mide el tercer ángulo?",
+      "context": "En Cali, un triángulo isósceles tiene dos ángulos iguales que miden 70° cada uno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "40°",
+          "is_correct": true,
+          "feedback": "Es correcto: 180° − 70° − 70° = 40°."
+        },
+        {
+          "letter": "B",
+          "text": "70°",
+          "is_correct": false,
+          "feedback": "Error conceptual: repetir 70° ignoraría que la suma ya supera 140° y debe llegar a 180°."
+        },
+        {
+          "letter": "C",
+          "text": "110°",
+          "is_correct": false,
+          "feedback": "Error conceptual: 110° resulta de restar solo un ángulo (180° − 70°) y olvidar el otro."
+        },
+        {
+          "letter": "D",
+          "text": "20°",
+          "is_correct": false,
+          "feedback": "Error conceptual: 20° surge de dividir mal; la resta correcta da 40°."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Conocidos dos ángulos, el tercero se obtiene restando: 180° − 70° − 70° = 40°. En un isósceles los dos ángulos de la base son iguales, lo que fija el valor del ángulo restante.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-6-2026-W27-triangulos-clasificacion-propiedades-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W27-triangulos-clasificacion-propiedades-001-MASTERY-bundle-v4",
+      "statement": "¿Cómo se clasifica ese triángulo según sus ángulos?",
+      "context": "En Barranquilla, un arquitecto revisa el plano de una rampa y observa que uno de los ángulos del triángulo mide exactamente 90°.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rectángulo",
+          "is_correct": true,
+          "feedback": "Es correcto: un triángulo con un ángulo de 90° se llama rectángulo."
+        },
+        {
+          "letter": "B",
+          "text": "Acutángulo",
+          "is_correct": false,
+          "feedback": "Error conceptual: el acutángulo tiene los tres ángulos menores de 90°."
+        },
+        {
+          "letter": "C",
+          "text": "Obtusángulo",
+          "is_correct": false,
+          "feedback": "Error conceptual: el obtusángulo tiene un ángulo mayor de 90°, no de 90° exactos."
+        },
+        {
+          "letter": "D",
+          "text": "Equilátero",
+          "is_correct": false,
+          "feedback": "Error conceptual: equilátero clasifica por los lados, no por los ángulos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Según sus ángulos, un triángulo es rectángulo (un ángulo de 90°), acutángulo (todos menores de 90°) u obtusángulo (uno mayor de 90°). El ángulo de 90° es la marca que identifica al rectángulo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-6-2026-W27-triangulos-clasificacion-propiedades-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W27-triangulos-clasificacion-propiedades-001-MASTERY-bundle-v5",
+      "statement": "¿Cuántos metros de cerca se necesitan para el perímetro del terreno?",
+      "context": "En Bucaramanga, un terreno triangular equilátero tiene cada lado de 12 m y se quiere cercar todo su contorno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "36 m",
+          "is_correct": true,
+          "feedback": "Es correcto: 12 m + 12 m + 12 m = 36 m."
+        },
+        {
+          "letter": "B",
+          "text": "24 m",
+          "is_correct": false,
+          "feedback": "Error conceptual: 24 m suma solo dos lados y omite el tercero."
+        },
+        {
+          "letter": "C",
+          "text": "12 m",
+          "is_correct": false,
+          "feedback": "Error conceptual: 12 m es la medida de un solo lado, no del contorno completo."
+        },
+        {
+          "letter": "D",
+          "text": "48 m",
+          "is_correct": false,
+          "feedback": "Error conceptual: 48 m suma cuatro lados como si fuera un cuadrado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El perímetro es la suma de los tres lados. En un equilátero basta multiplicar: 3 × 12 m = 36 m. La cerca debe cubrir todo el contorno del terreno.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-6-2026-W27-triangulos-clasificacion-propiedades-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W27-triangulos-clasificacion-propiedades-001-MASTERY-bundle-v6",
+      "statement": "¿Es posible formar el triángulo con esas medidas? Justifica con la desigualdad triangular.",
+      "context": "En Pereira, un estudiante tiene tres palillos que miden 3 cm, 4 cm y 8 cm e intenta armar un triángulo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, porque 3 + 4 = 7 es menor que 8",
+          "is_correct": true,
+          "feedback": "Es correcto: la suma de dos lados debe ser mayor que el tercero y 7 no supera a 8."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque 3 + 4 + 8 = 15",
+          "is_correct": false,
+          "feedback": "Error conceptual: sumar los tres lados no verifica la desigualdad triangular."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque 8 − 4 = 4",
+          "is_correct": false,
+          "feedback": "Error conceptual: la diferencia entre lados no garantiza que el triángulo exista."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque todos los lados deben ser iguales",
+          "is_correct": false,
+          "feedback": "Error conceptual: los lados no necesitan ser iguales; solo deben cumplir la desigualdad triangular."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La desigualdad triangular exige que la suma de dos lados cualesquiera sea mayor que el tercero. Aquí 3 + 4 = 7 < 8, así que los palillos no cierran un triángulo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-6-2026-W27-triangulos-clasificacion-propiedades-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W27-triangulos-clasificacion-propiedades-001-MASTERY-bundle-v7",
+      "statement": "¿Cuánto mide el tercer ángulo y cómo se clasifica el triángulo según sus ángulos?",
+      "context": "En Manizales, un triángulo tiene dos ángulos conocidos: 35° y 85°.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "60° y es acutángulo",
+          "is_correct": true,
+          "feedback": "Es correcto: 180° − 35° − 85° = 60°, y los tres ángulos son menores de 90°."
+        },
+        {
+          "letter": "B",
+          "text": "50° y es acutángulo",
+          "is_correct": false,
+          "feedback": "Error conceptual: 50° resulta de restar mal; 180° − 35° − 85° = 60°."
+        },
+        {
+          "letter": "C",
+          "text": "60° y es rectángulo",
+          "is_correct": false,
+          "feedback": "Error conceptual: 60° es correcto, pero ningún ángulo mide 90°, así que no es rectángulo."
+        },
+        {
+          "letter": "D",
+          "text": "70° y es acutángulo",
+          "is_correct": false,
+          "feedback": "Error conceptual: 70° no cumple la suma; el tercer ángulo es 60°."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Primero se halla el ángulo faltante (60°) y luego se revisa si alguno es de 90° o mayor. Como los tres son menores de 90°, el triángulo es acutángulo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-6-2026-W27-triangulos-clasificacion-propiedades-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W27-triangulos-clasificacion-propiedades-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la medida del otro ángulo agudo?",
+      "context": "En Cartagena, un triángulo rectángulo tiene uno de sus ángulos agudos de 25°.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "65°",
+          "is_correct": true,
+          "feedback": "Es correcto: 90° − 25° = 65°, porque los dos ángulos agudos son complementarios."
+        },
+        {
+          "letter": "B",
+          "text": "25°",
+          "is_correct": false,
+          "feedback": "Error conceptual: suponer que los dos ángulos agudos son iguales no siempre es cierto."
+        },
+        {
+          "letter": "C",
+          "text": "155°",
+          "is_correct": false,
+          "feedback": "Error conceptual: 155° resulta de restar 180° − 25° y olvidar el ángulo recto."
+        },
+        {
+          "letter": "D",
+          "text": "75°",
+          "is_correct": false,
+          "feedback": "Error conceptual: 75° no completa los 90° que exige el ángulo recto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un triángulo rectángulo un ángulo mide 90°, así que los otros dos suman 90° y son complementarios. Por eso, 90° − 25° = 65°.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-6-2026-W27-triangulos-clasificacion-propiedades-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W27-triangulos-clasificacion-propiedades-001-MASTERY-bundle-v9",
+      "statement": "¿La afirmación es correcta? Justifica tu respuesta.",
+      "context": "En Ibagué, un estudiante afirma: \"Todo triángulo con dos lados iguales es equilátero\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, porque con dos lados iguales el triángulo es isósceles; el equilátero necesita los tres lados iguales",
+          "is_correct": true,
+          "feedback": "Es correcto: dos lados iguales definen al isósceles, no al equilátero."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque dos lados iguales obligan al tercero a ser igual",
+          "is_correct": false,
+          "feedback": "Error conceptual: el tercer lado puede tener otra longitud sin violar ninguna regla."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque entonces los tres ángulos serían iguales",
+          "is_correct": false,
+          "feedback": "Error conceptual: los ángulos iguales corresponden al equilátero, que exige los tres lados iguales."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque un triángulo no puede tener lados iguales",
+          "is_correct": false,
+          "feedback": "Error conceptual: sí puede tener lados iguales; el isósceles y el equilátero son ejemplos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La clasificación por lados es precisa: isósceles (dos iguales), equilátero (tres iguales) y escaleno (todos distintos). Tener dos lados iguales no obliga al tercero a serlo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-6-2026-W27-triangulos-clasificacion-propiedades-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W27-triangulos-clasificacion-propiedades-001-MASTERY-bundle-v10",
+      "statement": "¿Qué condición debe cumplir la longitud de la tercera varilla para que el triángulo exista? Elige el razonamiento correcto.",
+      "context": "En Sincelejo, un carpintero tiene dos varillas de 5 m y 9 m y quiere escoger una tercera varilla para armar una estructura triangular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debe ser mayor que 4 m y menor que 14 m",
+          "is_correct": true,
+          "feedback": "Es correcto: la diferencia 9 − 5 = 4 y la suma 9 + 5 = 14 definen los límites abiertos."
+        },
+        {
+          "letter": "B",
+          "text": "Debe medir exactamente 4 m",
+          "is_correct": false,
+          "feedback": "Error conceptual: si mide 4 m, los lados se alinean y no forman triángulo."
+        },
+        {
+          "letter": "C",
+          "text": "Debe medir exactamente 14 m",
+          "is_correct": false,
+          "feedback": "Error conceptual: si mide 14 m, la suma 5 + 9 = 14 no supera al tercer lado."
+        },
+        {
+          "letter": "D",
+          "text": "Puede tener cualquier longitud",
+          "is_correct": false,
+          "feedback": "Error conceptual: longitudes muy grandes o muy pequeñas rompen la desigualdad triangular."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La desigualdad triangular fija un rango: la tercera varilla debe ser mayor que la diferencia (4 m) y menor que la suma (14 m) de los otros dos lados. Los extremos no se alcanzan porque el triángulo se deforma en una línea recta.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.45,
+      "bundle_id": "CO-MAT-6-2026-W27-triangulos-clasificacion-propiedades-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

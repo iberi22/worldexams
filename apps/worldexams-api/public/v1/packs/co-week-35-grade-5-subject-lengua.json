@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-35-grade-5-subject-lengua",
+    "generated_at": "2026-09-21T00:33:11.065Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-5-2026-W35-pronombres-demostrativos-posesivos-001-MASTERY-bundle-v1",
+      "statement": "Si un libro está muy cerca de la profesora, ¿cuál palabra demostrativa corresponde usar?",
+      "context": "En un salón de Bogotá, la profesora señala tres libros colocados a distintas distancias y pide usar las palabras adecuadas para señalarlos.\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Este.",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"este\" señala lo que está cerca de quien habla."
+        },
+        {
+          "letter": "B",
+          "text": "Ese.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"ese\" señala lo que está cerca del oyente."
+        },
+        {
+          "letter": "C",
+          "text": "Aquel.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"aquel\" señala lo que está lejos de ambos."
+        },
+        {
+          "letter": "D",
+          "text": "Mío.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"mío\" indica pertenencia y no distancia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los demostrativos señalan la distancia entre el hablante y lo que menciona. \"Este\" se usa para lo que está cerca de quien habla, \"ese\" para lo que está cerca de quien escucha y \"aquel\" para lo que está lejos de los dos. Reconocer estas tres palabras ayuda a señalar objetos con precisión.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-5-2026-W35-pronombres-demostrativos-posesivos-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W35-pronombres-demostrativos-posesivos-001-MASTERY-bundle-v2",
+      "statement": "¿Qué se entiende sobre las palabras \"mi\" y \"tu\" en la oración de Daniel?",
+      "context": "En Medellín, Daniel ordena sus útiles y dice: \"Mi cuaderno es azul y tu lápiz es rojo\".\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que son palabras posesivas que indican a quién pertenece cada objeto.",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"mi\" señala lo de Daniel y \"tu\" lo del compañero."
+        },
+        {
+          "letter": "B",
+          "text": "Que son palabras demostrativas que señalan la distancia de los objetos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no indican distancia, sino pertenencia."
+        },
+        {
+          "letter": "C",
+          "text": "Que son nombres propios de personas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no nombran a ninguna persona."
+        },
+        {
+          "letter": "D",
+          "text": "Que son verbos que indican acciones.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no expresan acciones ni se conjugan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las palabras posesivas expresan a quién pertenece algo. \"Mi\" indica que el objeto es del hablante y \"tu\" que pertenece a la persona con quien se habla. Distinguirlas de los demostrativos, que señalan distancia, permite usar el lenguaje con mayor claridad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-5-2026-W35-pronombres-demostrativos-posesivos-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W35-pronombres-demostrativos-posesivos-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué Valentina usa la palabra \"ese\" y no \"este\"?",
+      "context": "En Cali, Valentina prepara su tarea y le dice a su hermano: \"Pásame ese cuaderno que está junto a ti\".\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el cuaderno está cerca de su hermano y no de ella.",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"ese\" señala lo que está próximo a quien escucha."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el cuaderno le pertenece a ella.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la pertenencia se expresa con otras palabras."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el cuaderno está muy lejos de los dos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el cuaderno está junto a su hermano."
+        },
+        {
+          "letter": "D",
+          "text": "Porque \"ese\" se usa siempre para lo que es nuestro.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"ese\" no indica pertenencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar los demostrativos exige observar dónde está el objeto y a quién se dirige la palabra. Valentina pide el cuaderno que está cerca de su hermano, por eso usa \"ese\". Si el objeto estuviera cerca de ella, diría \"este\". Este detalle hace que las instrucciones se entiendan bien.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-5-2026-W35-pronombres-demostrativos-posesivos-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W35-pronombres-demostrativos-posesivos-001-MASTERY-bundle-v4",
+      "statement": "Mario responde: \"Es la mía\". ¿Qué indica la respuesta de Mario?",
+      "context": "En Barranquilla, la profesora recoge los objetos perdidos y pregunta frente al salón: \"¿De quién es esta cartuchera?\".\n**Expected_Success:** 0.83",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la cartuchera le pertenece a Mario.",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"mía\" expresa que el objeto es del hablante."
+        },
+        {
+          "letter": "B",
+          "text": "Que la cartuchera está lejos de Mario.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"mía\" no informa sobre distancia."
+        },
+        {
+          "letter": "C",
+          "text": "Que la cartuchera es de la profesora.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la profesora pregunta, no responde."
+        },
+        {
+          "letter": "D",
+          "text": "Que la cartuchera no tiene dueño.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque Mario afirma que es suya."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar los posesivos permite responder con precisión a una pregunta sobre pertenencia. Al decir \"es la mía\", Mario aclara que la cartuchera le pertenece. Usar correctamente estas palabras evita confusiones cuando varios compañeros tienen objetos parecidos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LEN-5-2026-W35-pronombres-demostrativos-posesivos-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W35-pronombres-demostrativos-posesivos-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál palabra indica que el afiche pertenece a los dos amigos?",
+      "context": "En Pereira, dos amigos preparan una exposición y dicen: \"Este afiche es nuestro y aquel de la pared es de la profesora\".\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nuestro.",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"nuestro\" expresa que el objeto pertenece a varios, incluido el hablante."
+        },
+        {
+          "letter": "B",
+          "text": "Este.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"este\" señala cercanía, no pertenencia."
+        },
+        {
+          "letter": "C",
+          "text": "Aquel.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"aquel\" señala distancia, no pertenencia."
+        },
+        {
+          "letter": "D",
+          "text": "Afiche.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"afiche\" es el nombre del objeto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los posesivos también expresan pertenencia cuando el objeto es de varias personas. \"Nuestro\" indica que el afiche es de los dos amigos que hablan. Reconocer estas formas amplía el vocabulario y permite hablar con claridad sobre lo que se comparte en el colegio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-5-2026-W35-pronombres-demostrativos-posesivos-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W35-pronombres-demostrativos-posesivos-001-MASTERY-bundle-v6",
+      "statement": "Pedro dice: \"Aquella maqueta es la más antigua\". Sofía responde: \"Entonces está muy cerca de nosotros\". ¿Quién interpreta bien la palabra demostrativa y por qué?",
+      "context": "En Bucaramanga, dos estudiantes observan tres maquetas colocadas a distintas distancias en el museo escolar.\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pedro, porque \"aquella\" señala algo que está lejos de quien habla.",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"aquella\" indica mayor distancia respecto del hablante."
+        },
+        {
+          "letter": "B",
+          "text": "Sofía, porque \"aquella\" señala lo que está muy cerca.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la cercanía se señala con \"esta\"."
+        },
+        {
+          "letter": "C",
+          "text": "Sofía, porque \"aquella\" y \"esta\" significan lo mismo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque expresan distancias diferentes."
+        },
+        {
+          "letter": "D",
+          "text": "Pedro, porque \"aquella\" indica que la maqueta es de él.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ese demostrativo no expresa pertenencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar demostrativos exige comparar la distancia que señala cada palabra. \"Aquella\" indica lo más lejano, \"esa\" lo intermedio y \"esta\" lo más cercano. Sofía confunde ese valor con la cercanía. Distinguir estos matices mejora la comprensión y el uso preciso del lenguaje.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-5-2026-W35-pronombres-demostrativos-posesivos-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W35-pronombres-demostrativos-posesivos-001-MASTERY-bundle-v7",
+      "statement": "¿Qué función cumplen las palabras \"su\" y \"sus\" en el aviso del colegio?",
+      "context": "En Cartagena, un aviso del colegio dice: \"Cada estudiante debe traer su propio cuaderno y marcar sus útiles\".\n**Expected_Success:** 0.72",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indicar que cada estudiante es responsable de sus propios útiles.",
+          "is_correct": true,
+          "feedback": "Es correcta porque los posesivos relacionan los útiles con cada dueño."
+        },
+        {
+          "letter": "B",
+          "text": "Señalar la distancia entre el cuaderno y el aviso.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque estas palabras no expresan distancia."
+        },
+        {
+          "letter": "C",
+          "text": "Nombrar a la persona que escribió el aviso.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no funcionan como nombres propios."
+        },
+        {
+          "letter": "D",
+          "text": "Indicar que todos los cuadernos son del mismo dueño.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el aviso habla de cada estudiante por separado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar un aviso permite ver cómo los posesivos organizan la información. \"Su\" y \"sus\" relacionan los útiles con cada estudiante en particular y refuerzan la idea de responsabilidad. Comprender esta función ayuda a leer normas escolares y a entender a quién corresponde cada indicación.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-5-2026-W35-pronombres-demostrativos-posesivos-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W35-pronombres-demostrativos-posesivos-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál oración usa correctamente estas palabras?",
+      "context": "En Bogotá, la profesora pide elegir la oración mejor escrita con pronombres demostrativos y posesivos para copiarla en el cuaderno.\n**Expected_Success:** 0.55",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Este cuaderno es mío y ese lápiz es tuyo.",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"mío\" y \"tuyo\" concuerdan con el género de cada objeto."
+        },
+        {
+          "letter": "B",
+          "text": "Este cuaderno es mío y ese lápiz es mía.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"mía\" no concuerda con el género masculino de \"lápiz\"."
+        },
+        {
+          "letter": "C",
+          "text": "Este cuaderno es tuyo y ese lápiz es tuyo mío.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque acumula dos posesivos incompatibles en el mismo objeto."
+        },
+        {
+          "letter": "D",
+          "text": "Este cuaderno es mío y ese lápiz es mi.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la forma correcta antepuesta no funciona como posesivo solo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar una oración exige revisar la concordancia y el sentido de cada palabra. La forma correcta usa \"mío\" para el cuaderno y \"tuyo\" para el lápiz, respetando el género de cada sustantivo. Revisar estas terminaciones evita errores frecuentes al escribir y mejora la claridad de los textos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-5-2026-W35-pronombres-demostrativos-posesivos-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

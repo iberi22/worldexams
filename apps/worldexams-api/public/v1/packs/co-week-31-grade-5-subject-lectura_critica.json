@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-31-grade-5-subject-lectura_critica",
+    "generated_at": "2026-09-20T17:58:21.699Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-5-2026-W31-poesia-visual-caligrama-001-MASTERY-bundle-v1",
+      "statement": "Según la forma del caligrama observado, ¿qué figura representa el texto?",
+      "context": "En clase de arte en Pereira, los estudiantes observan un caligrama en forma de casa, donde el autor escribió los versos siguiendo el contorno del techo, las paredes y la puerta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un barco navegando por el mar Caribe colombiano.",
+          "is_correct": false,
+          "feedback": "La forma dibujada en el caligrama es una casa, no un barco con velas ni olas."
+        },
+        {
+          "letter": "B",
+          "text": "Una casa, porque los versos siguen el contorno del techo, las paredes y la puerta.",
+          "is_correct": true,
+          "feedback": "El caligrama ordena los versos siguiendo la silueta de una casa, según se describe en la observación."
+        },
+        {
+          "letter": "C",
+          "text": "Una pelota de fútbol en mitad de la cancha.",
+          "is_correct": false,
+          "feedback": "El caligrama no es redondo como una pelota, sino alargado como una casa."
+        },
+        {
+          "letter": "D",
+          "text": "Una montaña nevada con un pico muy alto.",
+          "is_correct": false,
+          "feedback": "No hay picos ni nieves; el contorno descrito corresponde a paredes y techo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Recuperar información explícita al describir la figura que forma el caligrama según la disposición de sus versos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-5-2026-W31-poesia-visual-caligrama-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W31-poesia-visual-caligrama-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la idea principal que el caligrama quiere transmitir al unir imagen y versos?",
+      "context": "El caligrama muestra una casa con esta distribución de versos: en el techo \"techo que cobija\"; en las paredes \"muros que guardan silencio\"; en la puerta \"puerta abierta al abrazo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que las casas son únicamente objetos para vender en el mercado inmobiliario.",
+          "is_correct": false,
+          "feedback": "El lenguaje poético de los versos no habla de ventas ni de precios, sino de sentimientos."
+        },
+        {
+          "letter": "B",
+          "text": "Que el hogar es un lugar frío y sin afecto para los niños.",
+          "is_correct": false,
+          "feedback": "Las palabras \"cobijar\", \"silencio\" y \"abrazo\" transmiten cuidado, no frialdad ni soledad."
+        },
+        {
+          "letter": "C",
+          "text": "Que el hogar es un espacio cálido que protege, guarda memorias y recibe a quienes llegan.",
+          "is_correct": true,
+          "feedback": "Cada parte del caligrama aporta una idea: techo que cobija, muros que guardan, puerta que abre el abrazo."
+        },
+        {
+          "letter": "D",
+          "text": "Que las casas se construyen únicamente con cemento y pintura blanca.",
+          "is_correct": false,
+          "feedback": "El poema no describe materiales de construcción sino emociones asociadas al hogar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprender la idea global de un caligrama interpretando cómo imagen y versos se unen para expresar un mismo mensaje.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-5-2026-W31-poesia-visual-caligrama-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W31-poesia-visual-caligrama-001-MASTERY-bundle-v3",
+      "statement": "¿Qué recurso usa la poeta al repetir palabras terminadas en \"-ón\" en la parte de las raíces?",
+      "context": "En el taller de Cali, la profesora presenta una poesía visual en forma de árbol: las raíces son palabras que terminan en \"-ón\" como \"corazón\", \"cariñón\" y \"aprensión\"; el tronco dice \"crece desde abajo\"; la copa dice \"se abre al cielo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La rima, para unir las raíces con un mismo sonido y reforzar la musicalidad del poema.",
+          "is_correct": true,
+          "feedback": "La terminación \"-ón\" produce rima y da ritmo al conjunto de las palabras que aparecen en las raíces."
+        },
+        {
+          "letter": "B",
+          "text": "Una lista de compras del supermercado del barrio.",
+          "is_correct": false,
+          "feedback": "Las palabras elegidas no son productos de mercado sino términos emocionales del caligrama."
+        },
+        {
+          "letter": "C",
+          "text": "Un instructivo para podar árboles en el parque.",
+          "is_correct": false,
+          "feedback": "El texto no da pasos de poda; es un poema visual con palabras rimadas."
+        },
+        {
+          "letter": "D",
+          "text": "Una receta de cocina con ingredientes secretos.",
+          "is_correct": false,
+          "feedback": "No hay ingredientes ni pasos de preparación; el recurso es sonoro, no gastronómico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el concepto de rima para reconocer cómo la poeta crea musicalidad en una poesía visual.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-5-2026-W31-poesia-visual-caligrama-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W31-poesia-visual-caligrama-001-MASTERY-bundle-v4",
+      "statement": "¿Qué significa en este contexto la expresión \"el río se duerme\"?",
+      "context": "En la poesía visual aparece el verso \"el río de la tarde se duerme entre los mangos\" dentro de un caligrama con forma de río ondulado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el río se vuelve tranquilo y silencioso al atardecer, como si descansara.",
+          "is_correct": true,
+          "feedback": "La personificación presenta al río como alguien que descansa cuando cae la tarde y baja su caudal."
+        },
+        {
+          "letter": "B",
+          "text": "Que el río se seca por completo y deja de existir.",
+          "is_correct": false,
+          "feedback": "\"Dormirse\" no significa desaparecer, sino calmarse como alguien que se queda dormido."
+        },
+        {
+          "letter": "C",
+          "text": "Que el río se convierte en un animal feroz por la noche.",
+          "is_correct": false,
+          "feedback": "El verso no transmite ferocidad sino calma, según la imagen del caligrama."
+        },
+        {
+          "letter": "D",
+          "text": "Que el río empieza a hervir por el calor del mediodía.",
+          "is_correct": false,
+          "feedback": "El verso ocurre \"en la tarde\", no al mediodía, y la imagen es de descanso, no de hervor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el significado figurado de las expresiones poéticas en una poesía visual para interpretar la imagen creada por el autor.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-5-2026-W31-poesia-visual-caligrama-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W31-poesia-visual-caligrama-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la intención comunicativa del autor al escribir los versos de manera torcida siguiendo el dibujo?",
+      "context": "Una niña de Barranquilla le pregunta a su profesora: \"¿Por qué el autor hace que el caligrama de la casa tenga los versos escritos de manera torcida y no en línea recta?\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enseñar caligrafía rápida en un taller de mecanografía.",
+          "is_correct": false,
+          "feedback": "El autor no busca enseñar a escribir rápido, sino unir dibujo y palabra en una sola experiencia."
+        },
+        {
+          "letter": "B",
+          "text": "Declarar que no sabe escribir bien en línea recta.",
+          "is_correct": false,
+          "feedback": "La forma torcida es una decisión estética, no una muestra de descuido al escribir."
+        },
+        {
+          "letter": "C",
+          "text": "Reforzar visualmente el sentido del poema integrando imagen y texto en una sola obra.",
+          "is_correct": true,
+          "feedback": "El caligrama usa la forma del dibujo como parte del mensaje para que palabra e imagen dialoguen."
+        },
+        {
+          "letter": "D",
+          "text": "Evitar que el lector lea el poema completo de principio a fin.",
+          "is_correct": false,
+          "feedback": "El autor no quiere impedir la lectura; por el contrario, invita a leer siguiendo el contorno."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicar la intención comunicativa de la poesía visual para reconocer cómo la forma refuerza el contenido del poema.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-5-2026-W31-poesia-visual-caligrama-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W31-poesia-visual-caligrama-001-MASTERY-bundle-v6",
+      "statement": "¿Qué diferencia estructural principal existe entre los dos poemas?",
+      "context": "En el libro de la clase aparecen dos poemas: (1) un caligrama en forma de casa, con versos cortos y rimados; (2) un poema escrito en línea recta con cuatro versos largos y libres.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El primero organiza los versos siguiendo un dibujo y usa rima; el segundo mantiene línea recta y rima libre.",
+          "is_correct": true,
+          "feedback": "La diferencia clave está en la forma visual y en el tipo de rima de cada composición."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos poemas están escritos en otros idiomas extranjeros.",
+          "is_correct": false,
+          "feedback": "Ambos están escritos en español, así que la diferencia no se debe al idioma."
+        },
+        {
+          "letter": "C",
+          "text": "El primer poema es una receta y el segundo es un manual de instrucciones.",
+          "is_correct": false,
+          "feedback": "Los dos son poemas, no instructivos ni recetas de cocina o de otro tipo."
+        },
+        {
+          "letter": "D",
+          "text": "El primer poema tiene dibujos y el segundo tiene fotografías a color.",
+          "is_correct": false,
+          "feedback": "La diferencia central es la disposición tipográfica y la rima, no el tipo de imagen."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la estructura de la poesía visual comparándola con la poesía tradicional en línea recta para reconocer diferencias formales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-5-2026-W31-poesia-visual-caligrama-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W31-poesia-visual-caligrama-001-MASTERY-bundle-v7",
+      "statement": "¿Qué análisis del caligrama es más completo y por qué?",
+      "context": "En un taller de Medellín, dos estudiantes opinan sobre el mismo caligrama en forma de pájaro: Mariana dice que es un poema porque tiene versos, y Pedro dice que es un dibujo porque su forma es lo más importante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El de Pedro, porque en el caligrama solo importa la figura del pájaro.",
+          "is_correct": false,
+          "feedback": "El caligrama no es solo dibujo: la palabra y la imagen se necesitan mutuamente para existir."
+        },
+        {
+          "letter": "B",
+          "text": "El de Mariana, porque en el caligrama solo importan los versos escritos.",
+          "is_correct": false,
+          "feedback": "La imagen del pájaro también comunica y guía la lectura, no se puede descartar."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos tienen razón en parte: es poesía y dibujo al tiempo, porque texto e imagen se necesitan.",
+          "is_correct": true,
+          "feedback": "El caligrama es un género híbrido donde la imagen guía la lectura y los versos dan el contenido."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno, porque un caligrama no puede ser ni poema ni dibujo.",
+          "is_correct": false,
+          "feedback": "El caligrama es precisamente una mezcla deliberada de imagen y verso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar el carácter híbrido del caligrama para reconocer que combina poesía visual y forma plástica al mismo tiempo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-5-2026-W31-poesia-visual-caligrama-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W31-poesia-visual-caligrama-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de estos caligramas merece el primer puesto según los tres criterios?",
+      "context": "El profesor de quinto en Sincelejo propone tres criterios para evaluar los caligramas del salón: (1) coherencia entre la figura dibujada y el tema del poema, (2) calidad de los versos y (3) legibilidad para los demás compañeros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un dibujo de pelota con el verso \"la escuela es importante\" pegado en una esquina.",
+          "is_correct": false,
+          "feedback": "El verso no habla de la pelota, así que no hay coherencia entre dibujo y tema del poema."
+        },
+        {
+          "letter": "B",
+          "text": "Un dibujo de árbol sin ningún verso escrito debajo ni dentro.",
+          "is_correct": false,
+          "feedback": "Aunque el dibujo es bonito, no hay poema escrito, por lo que falla el criterio de los versos."
+        },
+        {
+          "letter": "C",
+          "text": "Un caligrama en forma de colibrí con los versos \"aleteo verde, suspiro de flor, bebo la lluvia y vuelo con el sol\" escritos siguiendo sus alas.",
+          "is_correct": true,
+          "feedback": "El dibujo del colibrí coincide con el tema del poema, los versos son breves y siguen el contorno del ave."
+        },
+        {
+          "letter": "D",
+          "text": "Un caligrama con muchos tachones, manchas de tinta y letras ilegibles en varias direcciones.",
+          "is_correct": false,
+          "feedback": "Aunque haya figura, los tachones y la mala letra rompen la legibilidad y el cuidado de los versos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar un caligrama aplicando criterios claros de coherencia, calidad poética y legibilidad para el lector.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LC-5-2026-W31-poesia-visual-caligrama-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

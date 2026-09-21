@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-8-grade-5-subject-lengua",
+    "generated_at": "2026-09-20T22:14:25.547Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-5-2026-W08-verbo-tiempos-basicos-001-MASTERY-bundle-v1",
+      "statement": "En la oración \"Valentina desayuna arepa con queso\", ¿cuál palabra es el verbo?",
+      "context": "En Medellín, Santiago cuenta lo que hace su familia cada mañana antes de salir hacia la escuela.\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desayuna",
+          "is_correct": true,
+          "feedback": "Es correcta porque expresa la acción que realiza Valentina."
+        },
+        {
+          "letter": "B",
+          "text": "Valentina",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque nombra a una persona y es un sustantivo."
+        },
+        {
+          "letter": "C",
+          "text": "Arepa",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque nombra un alimento y es un sustantivo."
+        },
+        {
+          "letter": "D",
+          "text": "Con",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque es una palabra de enlace y no expresa acción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El verbo es la palabra que expresa la acción, el estado o el proceso dentro de la oración. Para encontrarlo se pregunta \"¿qué hace?\" el sujeto. En este caso, lo que hace Valentina es \"desayunar\". Reconocer el verbo es esencial para comprender cualquier oración.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-5-2026-W08-verbo-tiempos-basicos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W08-verbo-tiempos-basicos-001-MASTERY-bundle-v2",
+      "statement": "Lee la oración: \"Ayer jugamos fútbol en el parque\". ¿En qué tiempo está el verbo \"jugamos\"?",
+      "context": "Juan escribe en su diario en Bogotá lo que hizo ayer en el parque Simón Bolívar con sus primos.\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En pasado, porque la acción ya ocurrió ayer.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la palabra \"ayer\" indica un tiempo anterior al momento presente."
+        },
+        {
+          "letter": "B",
+          "text": "En presente, porque la acción ocurre en este momento.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el marcador \"ayer\" muestra que no es una acción actual."
+        },
+        {
+          "letter": "C",
+          "text": "En futuro, porque la acción todavía no ha ocurrido.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el partido ya se jugó y no es un plan futuro."
+        },
+        {
+          "letter": "D",
+          "text": "Sin tiempo, porque los verbos no indican tiempo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque todo verbo conjugado ubica la acción en un tiempo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los tiempos básicos ubican la acción: el presente ocurre ahora, el pasado ya ocurrió y el futuro ocurrirá después. Las marcas como \"ayer\", \"hoy\" y \"mañana\" ayudan a reconocer el tiempo. Comprender estas marcas facilita la lectura de diarios, cuentos y noticias.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-5-2026-W08-verbo-tiempos-basicos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W08-verbo-tiempos-basicos-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál oración está escrita en tiempo futuro?",
+      "context": "En Cali, Mariana promete a su mamá que ordenará su cuarto después del almuerzo.\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mañana ordenaré mi cuarto antes de salir a jugar.",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"ordenaré\" y \"mañana\" anuncian una acción que aún no ocurre."
+        },
+        {
+          "letter": "B",
+          "text": "Ayer ordené mi cuarto antes de salir a jugar.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"ayer\" y \"ordené\" indican una acción ya terminada."
+        },
+        {
+          "letter": "C",
+          "text": "Hoy ordeno mi cuarto antes de salir a jugar.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"hoy\" y \"ordeno\" indican una acción presente."
+        },
+        {
+          "letter": "D",
+          "text": "Mi cuarto está ordenado y limpio.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque describe un estado actual y no una acción futura."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El futuro se forma con terminaciones como \"é\", \"ás\", \"á\", \"emos\" y \"án\", y suele acompañarse de marcas como \"mañana\" o \"después\". Aplicar el futuro permite hacer promesas, planes y predicciones en forma correcta dentro de los textos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-5-2026-W08-verbo-tiempos-basicos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W08-verbo-tiempos-basicos-001-MASTERY-bundle-v4",
+      "statement": "Completa la oración en pasado: \"Nosotros ______ a la quebrada el domingo\".",
+      "context": "En Manizales, los estudiantes narran cada lunes lo que hicieron el fin de semana en la vereda.\n**Expected_Success:** 0.83",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Caminamos",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"caminamos\" en pasado indica una acción terminada el domingo."
+        },
+        {
+          "letter": "B",
+          "text": "Caminaremos",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque es futuro y anuncia una acción que todavía no ocurre."
+        },
+        {
+          "letter": "C",
+          "text": "Caminamos mañana",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque mezcla el verbo con una marca de futuro que crea contradicción."
+        },
+        {
+          "letter": "D",
+          "text": "Caminar",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque es el infinitivo sin conjugar y no ubica la acción en el tiempo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para narrar hechos terminados se usa el pasado con formas como \"caminé\", \"caminaste\", \"caminó\" y \"caminamos\". La palabra \"caminamos\" puede ser presente o pasado según el contexto, y aquí la marca \"el domingo\" confirma el pasado. Aplicar bien el pasado da orden cronológico al relato.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LEN-5-2026-W08-verbo-tiempos-basicos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W08-verbo-tiempos-basicos-001-MASTERY-bundle-v5",
+      "statement": "Si Valentina habla de varias compañeras, ¿cuál es la forma correcta del verbo en presente?",
+      "context": "En Cartagena, Valentina describe su rutina con cinco mil pesos para las onces: \"Yo compro jugo y pan\".\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ellas compran jugo y pan.",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"compran\" concuerda en presente con el sujeto plural \"ellas\"."
+        },
+        {
+          "letter": "B",
+          "text": "Ellas compro jugo y pan.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"compro\" es primera persona singular y no concuerda con \"ellas\"."
+        },
+        {
+          "letter": "C",
+          "text": "Ellas comprar jugo y pan.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"comprar\" es infinitivo y no está conjugado."
+        },
+        {
+          "letter": "D",
+          "text": "Ellas comprará jugo y pan.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"comprará\" es futuro singular y no presente plural."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El verbo concuerda con el sujeto en persona y número: yo compro, tú compras, ella compra, ellas compran. Al cambiar el sujeto se debe cambiar también la terminación del verbo. Esta concordancia mantiene la coherencia de la oración en cualquier tiempo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-5-2026-W08-verbo-tiempos-basicos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W08-verbo-tiempos-basicos-001-MASTERY-bundle-v6",
+      "statement": "Al analizar la oración de Santiago, ¿qué error hay en el uso del verbo?",
+      "context": "Santiago escribió en Pereira: \"Mañana fuimos a la biblioteca a leer cuentos\".\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La marca \"mañana\" exige futuro, pero el verbo \"fuimos\" está en pasado.",
+          "is_correct": true,
+          "feedback": "Es correcta porque hay contradicción entre el tiempo anunciado y el tiempo del verbo."
+        },
+        {
+          "letter": "B",
+          "text": "El verbo \"fuimos\" está bien porque \"mañana\" también indica pasado.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"mañana\" siempre anuncia una acción posterior al presente."
+        },
+        {
+          "letter": "C",
+          "text": "El error está en la palabra \"biblioteca\", que no es un lugar válido.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"biblioteca\" es un sustantivo correcto y no afecta al tiempo verbal."
+        },
+        {
+          "letter": "D",
+          "text": "No hay error, la oración combina bien los tiempos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque mezclar futuro con pasado rompe la coherencia temporal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la coherencia temporal exige comparar las marcas de tiempo con la conjugación. \"Mañana\" pide formas como \"iremos\" o \"vamos a ir\". Mantener un solo tiempo según la intención del texto evita confusiones en el lector.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-5-2026-W08-verbo-tiempos-basicos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W08-verbo-tiempos-basicos-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál texto mantiene la coherencia en el uso de los tiempos verbales?",
+      "context": "Dos estudiantes de Bogotá escriben sobre el partido. Texto 1: \"Ayer el equipo juega muy bien y gana el torneo\". Texto 2: \"Ayer el equipo jugó muy bien y ganó el torneo\".\n**Expected_Success:** 0.72",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto 2, porque los verbos \"jugó\" y \"ganó\" están en pasado como lo pide \"ayer\".",
+          "is_correct": true,
+          "feedback": "Es correcta porque identifica la coherencia entre la marca temporal y los dos verbos."
+        },
+        {
+          "letter": "B",
+          "text": "El texto 1, porque los verbos \"juega\" y \"gana\" están en pasado.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque esas formas están en presente y contradicen la marca \"ayer\"."
+        },
+        {
+          "letter": "C",
+          "text": "El texto 1, porque mezclar presente con pasado siempre es correcto.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el cambio de tiempo sin razón confunde la secuencia de los hechos."
+        },
+        {
+          "letter": "D",
+          "text": "El texto 2, porque usa verbos en futuro para un hecho de ayer.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"jugó\" y \"ganó\" son formas de pasado, no de futuro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un relato coherente mantiene el mismo tiempo verbal cuando los hechos pertenecen al mismo momento. Si el relato inicia con \"ayer\", todos los verbos de esos hechos deben ir en pasado. Comparar textos ayuda a descubrir saltos de tiempo indebidos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-5-2026-W08-verbo-tiempos-basicos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W08-verbo-tiempos-basicos-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál párrafo usa mejor los verbos en pasado?",
+      "context": "Mariana debe elegir el mejor párrafo en pasado para el periódico escolar de Cali sobre la jornada deportiva.\n**Expected_Success:** 0.65",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El viernes jugamos el torneo. Corrimos con alegría, compartimos las onces y recibimos una medalla.",
+          "is_correct": true,
+          "feedback": "Es correcta porque todos los verbos están en pasado y narran hechos terminados con secuencia clara."
+        },
+        {
+          "letter": "B",
+          "text": "El viernes jugaremos el torneo. Corremos con alegría, compartimos las onces y recibiremos una medalla.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque mezcla presente y futuro para hechos que ya terminaron el viernes."
+        },
+        {
+          "letter": "C",
+          "text": "El viernes jugar el torneo. Correr con alegría, compartir las onces y recibir una medalla.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque usa infinitivos sin conjugar y no ubica los hechos en el tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "El viernes jugamos el torneo. Correremos con alegría, compartimos las onces y recibe una medalla.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque combina pasado, futuro y presente y rompe la coherencia del relato."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar un relato en pasado exige verificar cada verbo y su concordancia con el sujeto y con la marca temporal. La opción correcta mantiene la secuencia completa en pasado: \"jugamos, corrimos, compartimos, recibimos\". Esta unidad temporal permite al lector seguir la historia sin confusión.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-5-2026-W08-verbo-tiempos-basicos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}
