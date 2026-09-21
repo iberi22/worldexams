@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-5-grade-7-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T07:45:50.982Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-7-2026-W05-reproduccion-seres-vivos-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la diferencia básica entre reproducción sexual y asexual?",
+      "context": "En la huerta escolar de Duitama, los estudiantes siembran papa por tubérculos y maíz por semillas y comparan ambos métodos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La sexual une células de dos progenitores y la asexual genera descendientes de uno solo",
+          "is_correct": true,
+          "feedback": "Correcta porque define el número de progenitores y la combinación genética."
+        },
+        {
+          "letter": "B",
+          "text": "La asexual necesita dos progenitores y la sexual solo uno",
+          "is_correct": false,
+          "feedback": "Incorrecta porque invierte la definición de cada tipo."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas necesitan siempre flores y frutos",
+          "is_correct": false,
+          "feedback": "Incorrecta porque la reproducción asexual no requiere flores ni frutos."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas producen hijos idénticos sin variación",
+          "is_correct": false,
+          "feedback": "Incorrecta porque la reproducción sexual genera variación genética."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La reproducción sexual combina material genético y crea diversidad, mientras la asexual copia al progenitor. Recordar esta diferencia permite clasificar casos como el tubérculo de papa frente a la semilla de maíz.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-7-2026-W05-reproduccion-seres-vivos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W05-reproduccion-seres-vivos-001-MASTERY-bundle-v2",
+      "statement": "¿Qué es la polinización y por qué es importante?",
+      "context": "En un cultivo de café en Manizales, las abejas visitan las flores blancas y luego aparecen los frutos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La caída de las hojas en verano",
+          "is_correct": false,
+          "feedback": "Incorrecta porque la caída de hojas no traslada polen."
+        },
+        {
+          "letter": "B",
+          "text": "El traslado del polen hasta el estigma para permitir la fecundación",
+          "is_correct": true,
+          "feedback": "Correcta porque ese traslado inicia la formación de frutos y semillas."
+        },
+        {
+          "letter": "C",
+          "text": "La absorción de agua por las raíces",
+          "is_correct": false,
+          "feedback": "Incorrecta porque la absorción de agua es nutrición, no reproducción."
+        },
+        {
+          "letter": "D",
+          "text": "La respiración de las hojas en la noche",
+          "is_correct": false,
+          "feedback": "Incorrecta porque el intercambio gaseoso no produce fecundación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los polinizadores como abejas y colibríes llevan polen entre flores. Sin polinización no hay fecundación ni cosecha, por eso proteger a los polinizadores cuida la producción de café y frutales.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-7-2026-W05-reproduccion-seres-vivos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W05-reproduccion-seres-vivos-001-MASTERY-bundle-v3",
+      "statement": "¿Qué ejemplo corresponde a reproducción asexual y cuál a sexual?",
+      "context": "Una familia campesina de Boyacá reproduce mora por estacas y frailejón por semillas para restaurar un páramo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambas son sexuales porque usan plantas",
+          "is_correct": false,
+          "feedback": "Incorrecta porque la estaca no une gametos de dos progenitores."
+        },
+        {
+          "letter": "B",
+          "text": "La estaca de mora es asexual y la semilla de frailejón es sexual",
+          "is_correct": true,
+          "feedback": "Correcta porque la estaca es un fragmento del progenitor y la semilla proviene de fecundación."
+        },
+        {
+          "letter": "C",
+          "text": "La estaca de mora es sexual y la semilla es asexual",
+          "is_correct": false,
+          "feedback": "Incorrecta porque invierte los mecanismos de cada caso."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna es reproducción porque son plantas de páramo",
+          "is_correct": false,
+          "feedback": "Incorrecta porque ambas son formas válidas de reproducción vegetal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los esquejes y estacas conservan las características del progenitor y crecen rápido, mientras las semillas aportan variabilidad útil para restaurar ecosistemas. Elegir el método depende del objetivo productivo o ecológico.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W05-reproduccion-seres-vivos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W05-reproduccion-seres-vivos-001-MASTERY-bundle-v4",
+      "statement": "¿Qué ventaja tiene para los peces liberar gran cantidad de huevos en el agua?",
+      "context": "En el río Sinú, en Córdoba, los bocachicos liberan miles de huevos al agua durante la subienda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Garantiza que todos los huevos sobrevivan sin riesgos",
+          "is_correct": false,
+          "feedback": "Incorrecta porque muchos huevos son depredados o arrastrados."
+        },
+        {
+          "letter": "B",
+          "text": "Aumenta la probabilidad de que algunos sobrevivan pese a los depredadores",
+          "is_correct": true,
+          "feedback": "Correcta porque compensa la alta mortalidad con gran número de descendientes."
+        },
+        {
+          "letter": "C",
+          "text": "Evita por completo la fecundación",
+          "is_correct": false,
+          "feedback": "Incorrecta porque la liberación de gametos busca justamente la fecundación externa."
+        },
+        {
+          "letter": "D",
+          "text": "Permite que los huevos respiren aire fuera del agua",
+          "is_correct": false,
+          "feedback": "Incorrecta porque los huevos de pez se desarrollan en el agua."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fecundación externa en el agua deja a los huevos expuestos, de modo que producir miles aumenta las probabilidades de supervivencia. Aplicar este concepto explica la estrategia reproductiva de muchos peces del país.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W05-reproduccion-seres-vivos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W05-reproduccion-seres-vivos-001-MASTERY-bundle-v5",
+      "statement": "¿Qué es la fecundación en la reproducción sexual humana?",
+      "context": "En clase de ciencias en Neiva, el docente explica con un modelo el encuentro entre el óvulo y el espermatozoide en humanos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La división de una célula del cuerpo en dos idénticas",
+          "is_correct": false,
+          "feedback": "Incorrecta porque eso describe mitosis del crecimiento, no fecundación."
+        },
+        {
+          "letter": "B",
+          "text": "La unión del óvulo y el espermatozoide que forma una nueva célula",
+          "is_correct": true,
+          "feedback": "Correcta porque esa unión origina el cigoto con información de ambos progenitores."
+        },
+        {
+          "letter": "C",
+          "text": "El crecimiento del bebé solo con información de la madre",
+          "is_correct": false,
+          "feedback": "Incorrecta porque el cigoto combina información de ambos progenitores."
+        },
+        {
+          "letter": "D",
+          "text": "La producción de semillas en las flores",
+          "is_correct": false,
+          "feedback": "Incorrecta porque las semillas corresponden a la reproducción de plantas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fecundación forma el cigoto, que se divide y desarrolla hasta el nacimiento. Abordar el tema con lenguaje científico y respeto permite comprender el origen de la variación hereditaria en humanos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W05-reproduccion-seres-vivos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W05-reproduccion-seres-vivos-001-MASTERY-bundle-v6",
+      "statement": "¿Por qué la caña sembrada por trozos resulta idéntica a la planta madre?",
+      "context": "En un trapiche panelero del Valle del Cauca siembran caña por trozos de tallo y siempre obtienen cañas idénticas a la planta madre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque hubo polinización cruzada con otras variedades",
+          "is_correct": false,
+          "feedback": "Incorrecta porque la polinización cruzada generaría variación, no clones."
+        },
+        {
+          "letter": "B",
+          "text": "Porque es reproducción asexual sin combinación de gametos",
+          "is_correct": true,
+          "feedback": "Correcta porque al no haber fecundación, el material genético se conserva."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el suelo del Valle cambia los genes de la caña",
+          "is_correct": false,
+          "feedback": "Incorrecta porque el suelo nutre, pero no reescribe la información hereditaria."
+        },
+        {
+          "letter": "D",
+          "text": "Porque cada trozo recibe genes de dos plantas distintas",
+          "is_correct": false,
+          "feedback": "Incorrecta porque el trozo proviene de un solo progenitor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La propagación vegetativa produce clones: útil para mantener variedades dulces y rendidoras, pero riesgoso ante plagas porque todas las plantas comparten la misma vulnerabilidad. Analizar ventajas y riesgos orienta decisiones agrícolas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W05-reproduccion-seres-vivos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W05-reproduccion-seres-vivos-001-MASTERY-bundle-v7",
+      "statement": "¿Qué relación existe entre la forma de la flor y la polinización por abejas?",
+      "context": "En el Amazonas, un guía muestra una flor de orquídea con abejas nativas entrando por su forma especial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No existe relación entre la flor y los insectos",
+          "is_correct": false,
+          "feedback": "Incorrecta porque flores y polinizadores coevolucionaron estrechamente."
+        },
+        {
+          "letter": "B",
+          "text": "La forma y el néctar atraen al polinizador que transporta el polen",
+          "is_correct": true,
+          "feedback": "Correcta porque describe la adaptación flor-polinizador como estrategia reproductiva."
+        },
+        {
+          "letter": "C",
+          "text": "La flor produce abejas dentro de sus pétalos",
+          "is_correct": false,
+          "feedback": "Incorrecta porque las abejas nacen en colmenas, no dentro de flores."
+        },
+        {
+          "letter": "D",
+          "text": "Las abejas comen las semillas antes de la fecundación",
+          "is_correct": false,
+          "feedback": "Incorrecta porque las semillas se forman después de la fecundación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Colores, aromas, formas y néctar son adaptaciones que aseguran visitas de polinizadores específicos. Analizar estas correspondencias revela la interdependencia entre plantas y animales en el bosque húmedo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W05-reproduccion-seres-vivos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W05-reproduccion-seres-vivos-001-MASTERY-bundle-v8",
+      "statement": "¿Qué diferencia genética se espera entre ambos potreros frente a una sequía?",
+      "context": "En una finca de Cundinamarca comparan dos potreros: uno con pasto sembrado por semilla variada y otro con pasto clonado por estolones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No habrá ninguna diferencia porque el agua no afecta a las plantas",
+          "is_correct": false,
+          "feedback": "Incorrecta porque la disponibilidad de agua sí presiona la supervivencia vegetal."
+        },
+        {
+          "letter": "B",
+          "text": "El potrero de semilla tendrá plantas variadas y más probabilidad de resistir",
+          "is_correct": true,
+          "feedback": "Correcta porque la variación genética aumenta las opciones de adaptación."
+        },
+        {
+          "letter": "C",
+          "text": "El potrero clonado tendrá mayor variación genética",
+          "is_correct": false,
+          "feedback": "Incorrecta porque los clones son genéticamente idénticos."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos potreros morirán porque la reproducción no influye en la resistencia",
+          "is_correct": false,
+          "feedback": "Incorrecta porque la diversidad genética sí influye en la resistencia poblacional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La reproducción sexual genera combinaciones nuevas y la asexual las conserva. Comparar potreros muestra que la diversidad es un seguro biológico frente a sequías, plagas y enfermedades.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W05-reproduccion-seres-vivos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W05-reproduccion-seres-vivos-001-MASTERY-bundle-v9",
+      "statement": "¿Cómo se evalúa científicamente ese mensaje sobre salud reproductiva?",
+      "context": "En redes circula el mensaje: \"Las vacunas contra el papiloma afectan la fertilidad futura, mejor no vacunarse\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se acepta sin revisar porque lo compartieron muchas personas",
+          "is_correct": false,
+          "feedback": "Incorrecta porque el número de compartidos no es evidencia científica."
+        },
+        {
+          "letter": "B",
+          "text": "Se contrasta con estudios médicos y se consulta al personal de salud antes de decidir",
+          "is_correct": true,
+          "feedback": "Correcta porque aplica pensamiento crítico y acude a fuentes confiables."
+        },
+        {
+          "letter": "C",
+          "text": "Se acepta porque todas las vacunas causan infertilidad",
+          "is_correct": false,
+          "feedback": "Incorrecta porque no existe evidencia de que esa vacuna cause infertilidad."
+        },
+        {
+          "letter": "D",
+          "text": "Se rechaza la vacuna sin consultar porque las redes siempre mienten",
+          "is_correct": false,
+          "feedback": "Incorrecta porque decidir sin consultar fuentes confiables también es acrítico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar mensajes de salud exige verificar estudios, entidades sanitarias y profesionales. La vacuna contra el papiloma previene cáncer y protege la salud reproductiva, según la evidencia médica disponible.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-7-2026-W05-reproduccion-seres-vivos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W05-reproduccion-seres-vivos-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el mejor diseño de indagación para ese objetivo?",
+      "context": "El semillero ambiental de Leticia quiere demostrar la importancia de los polinizadores en el ciclo de vida de las plantas amazónicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contar una sola flor durante un minuto",
+          "is_correct": false,
+          "feedback": "Incorrecta porque una sola observación no representa el fenómeno."
+        },
+        {
+          "letter": "B",
+          "text": "Comparar flores cubiertas que excluyen insectos con flores visitadas libremente y registrar frutos formados",
+          "is_correct": true,
+          "feedback": "Correcta porque aísla la variable polinizador y mide su efecto en la fructificación."
+        },
+        {
+          "letter": "C",
+          "text": "Regar todas las plantas con jugos de colores",
+          "is_correct": false,
+          "feedback": "Incorrecta porque introduce sustancias extrañas y no mide polinización."
+        },
+        {
+          "letter": "D",
+          "text": "Arrancar todas las flores para contar sus pétalos",
+          "is_correct": false,
+          "feedback": "Incorrecta porque destruye el objeto de estudio e impide observar la fructificación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un experimento con grupo de exclusión y grupo libre, con registro de frutos y repeticiones, demuestra causalmente el papel de los polinizadores. Este diseño conecta polinización, fecundación y ciclo de vida con evidencia local.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-7-2026-W05-reproduccion-seres-vivos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}
