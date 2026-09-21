@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-8-grade-7-subject-matematicas",
+    "generated_at": "2026-09-21T16:00:54.396Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-7-2026-W08-inecuaciones-desigualdades-001-MASTERY-bundle-v1",
+      "statement": "¿Qué significa la expresión $x > 4$?",
+      "context": "En Bogotá, la profesora escribe en el tablero la expresión $x > 4$ para introducir las desigualdades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x$ toma valores mayores que $4$",
+          "is_correct": true,
+          "feedback": "Correcto. El símbolo $>$ indica que los valores son estrictamente mayores que $4$."
+        },
+        {
+          "letter": "B",
+          "text": "$x$ toma valores menores que $4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso corresponde al símbolo $<$, no a $>$."
+        },
+        {
+          "letter": "C",
+          "text": "$x$ es igual a $4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La igualdad se expresa con $=$, no con $>$."
+        },
+        {
+          "letter": "D",
+          "text": "$x$ toma valores menores o iguales que $4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso corresponde al símbolo $\\le$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El símbolo $>$ significa \"mayor que\": la expresión $x > 4$ representa todos los números estrictamente mayores que $4$, sin incluir al $4$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-7-2026-W08-inecuaciones-desigualdades-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W08-inecuaciones-desigualdades-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el conjunto solución de la inecuación?",
+      "context": "En Medellín, se resuelve la inecuación $x + 5 > 9$ para practicar el despeje con desigualdades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x > 4$",
+          "is_correct": true,
+          "feedback": "Correcto. Se resta $5$ en ambos lados: $x > 9 - 5$, es decir $x > 4$."
+        },
+        {
+          "letter": "B",
+          "text": "$x < 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sentido de la desigualdad se mantiene al restar."
+        },
+        {
+          "letter": "C",
+          "text": "$x > 14$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $5$ en lugar de restarlo."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La solución es un intervalo infinito, no un único valor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al sumar o restar el mismo número en ambos lados, la desigualdad conserva su sentido: $x + 5 > 9 \\Rightarrow x > 4$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-7-2026-W08-inecuaciones-desigualdades-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W08-inecuaciones-desigualdades-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el conjunto solución de la inecuación?",
+      "context": "En Cali, un tendero modela su inventario con la inecuación $2x - 3 \\ge 7$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x \\ge 5$",
+          "is_correct": true,
+          "feedback": "Correcto. $2x \\ge 7 + 3 = 10$, luego $x \\ge \\frac{10}{2} = 5$."
+        },
+        {
+          "letter": "B",
+          "text": "$x \\ge 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste $3$ de $7$ en lugar de sumarlo."
+        },
+        {
+          "letter": "C",
+          "text": "$x \\le 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sentido no cambia al dividir entre un número positivo."
+        },
+        {
+          "letter": "D",
+          "text": "$x \\ge 10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste dividir entre $2$ al final."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se suma $3$ en ambos lados: $2x \\ge 10$, y se divide entre $2$ (positivo, no cambia el sentido): $x \\ge 5$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W08-inecuaciones-desigualdades-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W08-inecuaciones-desigualdades-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál de los siguientes números satisface la inecuación?",
+      "context": "En Barranquilla, se analiza la inecuación $4x + 2 < 18$ para decidir qué valores la satisfacen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2$",
+          "is_correct": true,
+          "feedback": "Correcto. $4(2) + 2 = 10$, y $10 < 18$."
+        },
+        {
+          "letter": "B",
+          "text": "$4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $4(4) + 2 = 18$, y $18$ no es menor que $18$."
+        },
+        {
+          "letter": "C",
+          "text": "$5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $4(5) + 2 = 22$, que es mayor que $18$."
+        },
+        {
+          "letter": "D",
+          "text": "$6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $4(6) + 2 = 26$, que supera a $18$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La solución es $x < 4$ (pues $4x < 16$). De las opciones, solo el $2$ es menor que $4$ y verifica la desigualdad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W08-inecuaciones-desigualdades-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W08-inecuaciones-desigualdades-001-MASTERY-bundle-v5",
+      "statement": "Si $n$ es el número de libros, ¿cuál es la mayor cantidad de libros que puede comprar?",
+      "context": "En Pereira, Valentina tiene $50000\\text{ COP}$ para comprar libros de $12000\\text{ COP}$ cada uno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4$ libros",
+          "is_correct": true,
+          "feedback": "Correcto. $12000 \\times 4 = 48000 \\le 50000$, pero $5$ libros costarían $60000$."
+        },
+        {
+          "letter": "B",
+          "text": "$5$ libros",
+          "is_correct": false,
+          "feedback": "Incorrecto. $5$ libros cuestan $60000\\text{ COP}$, más de lo disponible."
+        },
+        {
+          "letter": "C",
+          "text": "$3$ libros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $3$ libros sobran $14000\\text{ COP}$, aún puede comprar uno más."
+        },
+        {
+          "letter": "D",
+          "text": "$6$ libros",
+          "is_correct": false,
+          "feedback": "Incorrecto. El costo sería $72000\\text{ COP}$, muy por encima del dinero disponible."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La inecuación es $12000n \\le 50000$, de donde $n \\le 4.16$. Como $n$ es entero, el máximo es $4$ libros.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W08-inecuaciones-desigualdades-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W08-inecuaciones-desigualdades-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el conjunto solución de la inecuación?",
+      "context": "En Bucaramanga, se resuelve la inecuación $3(x - 2) \\le 12$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x \\le 6$",
+          "is_correct": true,
+          "feedback": "Correcto. $x - 2 \\le 4$, entonces $x \\le 6$."
+        },
+        {
+          "letter": "B",
+          "text": "$x \\ge 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sentido no cambia al dividir entre $3$, que es positivo."
+        },
+        {
+          "letter": "C",
+          "text": "$x \\le 10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste $12$ entre $3$ y luego sumaste mal."
+        },
+        {
+          "letter": "D",
+          "text": "$x \\le 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de $x - 2$, falta sumar $2$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se divide entre $3$: $x - 2 \\le 4$; luego se suma $2$: $x \\le 6$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-7-2026-W08-inecuaciones-desigualdades-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W08-inecuaciones-desigualdades-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el menor número entero que cumple la condición?",
+      "context": "En Manizales, el doble de un número más $5$ es mayor que $21$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9$",
+          "is_correct": true,
+          "feedback": "Correcto. $2n + 5 > 21 \\Rightarrow 2n > 16 \\Rightarrow n > 8$; el menor entero es $9$."
+        },
+        {
+          "letter": "B",
+          "text": "$8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $n = 8$ se obtiene $21$, que no es mayor que $21$."
+        },
+        {
+          "letter": "C",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cumple la condición, pero no es el menor valor posible."
+        },
+        {
+          "letter": "D",
+          "text": "$7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $2(7) + 5 = 19$, que no supera a $21$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La inecuación $2n + 5 > 21$ equivale a $n > 8$. El menor entero estrictamente mayor que $8$ es $9$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-7-2026-W08-inecuaciones-desigualdades-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W08-inecuaciones-desigualdades-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el conjunto solución de la inecuación?",
+      "context": "En Cartagena, se resuelve la inecuación $-2x + 6 > 10$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x < -2$",
+          "is_correct": true,
+          "feedback": "Correcto. $-2x > 4$ y, al dividir entre $-2$, el sentido cambia: $x < -2$."
+        },
+        {
+          "letter": "B",
+          "text": "$x > -2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste cambiar el sentido al dividir entre un número negativo."
+        },
+        {
+          "letter": "C",
+          "text": "$x > 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo al despejar el término con $x$."
+        },
+        {
+          "letter": "D",
+          "text": "$x < 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste $4$ entre $2$ pero perdiste el signo negativo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al dividir o multiplicar por un número negativo, la desigualdad cambia de sentido: $-2x > 4 \\Rightarrow x < -2$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-7-2026-W08-inecuaciones-desigualdades-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W08-inecuaciones-desigualdades-001-MASTERY-bundle-v9",
+      "statement": "¿A partir de cuántas clases el plan B resulta más costoso que el plan A?",
+      "context": "En Medellín, una academia ofrece dos planes de natación. El plan A cobra $80000\\text{ COP}$ de inscripción más $5000\\text{ COP}$ por clase; el plan B cobra $15000\\text{ COP}$ por clase sin inscripción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desde $9$ clases en adelante",
+          "is_correct": true,
+          "feedback": "Correcto. $15000n > 80000 + 5000n \\Rightarrow 10000n > 80000 \\Rightarrow n > 8$."
+        },
+        {
+          "letter": "B",
+          "text": "Desde $6$ clases en adelante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $6$ clases el plan B cuesta $90000$ y el A $110000$."
+        },
+        {
+          "letter": "C",
+          "text": "Desde $10$ clases en adelante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $10$ clases ya es más costoso, pero el cambio ocurre antes."
+        },
+        {
+          "letter": "D",
+          "text": "Desde $16$ clases en adelante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste la tarifa de $5000$ en lugar de la diferencia de $10000$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La inecuación $15000n > 80000 + 5000n$ se reduce a $10000n > 80000$, es decir $n > 8$. El primer entero que la cumple es $9$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-7-2026-W08-inecuaciones-desigualdades-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W08-inecuaciones-desigualdades-001-MASTERY-bundle-v10",
+      "statement": "¿Es correcta la afirmación de Camilo?",
+      "context": "En Popayán, Camilo afirma que la solución de la inecuación $2(x + 3) > 14$ es $x > 10$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, la solución correcta es $x > 4$",
+          "is_correct": true,
+          "feedback": "Correcto. $x + 3 > 7$, entonces $x > 4$; Camilo olvidó dividir entre $2$."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, su afirmación es correcta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si $x = 5$, verifica la inecuación y $5$ no es mayor que $10$."
+        },
+        {
+          "letter": "C",
+          "text": "No, la solución correcta es $x < 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sentido no cambia porque se divide entre $2$, que es positivo."
+        },
+        {
+          "letter": "D",
+          "text": "No, la solución correcta es $x \\ge 10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Además del valor, la desigualdad es estricta, no incluye el extremo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se divide entre $2$: $x + 3 > 7$, y se resta $3$: $x > 4$. Camilo distribuyó mal al omitir la división, por eso su afirmación es falsa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-7-2026-W08-inecuaciones-desigualdades-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}
