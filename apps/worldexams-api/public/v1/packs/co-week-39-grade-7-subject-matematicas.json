@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-39-grade-7-subject-matematicas",
+    "generated_at": "2026-09-21T20:02:46.642Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-7-2026-W39-datos-agrupados-mediana-moda-001-MASTERY-bundle-v1",
+      "statement": "En estadística, ¿qué es la moda de un conjunto de datos?",
+      "context": "En Bogotá, un curso registra el sabor favorito del refrigerio: 8 votos por mango, 12 por maracuyá y 5 por lulo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El dato que queda en el centro cuando se ordenan",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la definición de la mediana, no de la moda."
+        },
+        {
+          "letter": "B",
+          "text": "El promedio de todos los datos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe la media aritmética, no la moda."
+        },
+        {
+          "letter": "C",
+          "text": "La diferencia entre el dato mayor y el menor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe el rango, no la moda."
+        },
+        {
+          "letter": "D",
+          "text": "El dato con mayor frecuencia, como el maracuyá con 12 votos",
+          "is_correct": true,
+          "feedback": "Correcto. La moda es el valor que más se repite."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La moda es la medida que indica lo más frecuente. En el ejemplo, maracuyá tiene 12 votos, más que mango (8) y lulo (5), así que es la moda del conjunto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-7-2026-W39-datos-agrupados-mediana-moda-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W39-datos-agrupados-mediana-moda-001-MASTERY-bundle-v2",
+      "statement": "¿Qué es la mediana y cuál es en estos puntajes?",
+      "context": "En Medellín, cinco estudiantes ordenan sus puntajes de menor a mayor: 10, 15, 20, 25, 30.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El promedio: 18 puntos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El promedio es 20, no 18, y además la mediana no es el promedio."
+        },
+        {
+          "letter": "B",
+          "text": "El valor central de los datos ordenados: 20 puntos",
+          "is_correct": true,
+          "feedback": "Correcto. Con 5 datos, el tercero (20) deja dos valores a cada lado."
+        },
+        {
+          "letter": "C",
+          "text": "El valor que más se repite: 10 puntos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ningún valor se repite y eso describiría la moda."
+        },
+        {
+          "letter": "D",
+          "text": "El mayor valor menos el menor: 20 puntos",
+          "is_correct": false,
+          "feedback": "Incorrecto. 30 − 10 = 20 coincide en número, pero eso es el rango, no la mediana."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La mediana divide los datos ordenados en dos mitades iguales. Con un número impar de datos es el del centro; aquí el tercer dato, 20, también resume bien el nivel típico del grupo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-7-2026-W39-datos-agrupados-mediana-moda-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W39-datos-agrupados-mediana-moda-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la moda de estos tiempos?",
+      "context": "En Cali, los tiempos de llegada al colegio (en minutos) de 5 estudiantes son: 10, 12, 12, 15, 20.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12 minutos, porque aparece 2 veces y es lo más frecuente",
+          "is_correct": true,
+          "feedback": "Correcto. 12 se repite dos veces y los demás valores aparecen una vez."
+        },
+        {
+          "letter": "B",
+          "text": "10 minutos, porque es el menor valor",
+          "is_correct": false,
+          "feedback": "Incorrecto. El menor no es la moda salvo que sea el más frecuente."
+        },
+        {
+          "letter": "C",
+          "text": "15 minutos, porque está cerca del centro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estar cerca del centro no define la moda."
+        },
+        {
+          "letter": "D",
+          "text": "20 minutos, porque es el mayor valor",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mayor no es la moda salvo que sea el más frecuente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para hallar la moda se cuenta la frecuencia de cada valor. Solo el 12 aparece dos veces, así que es la moda y representa el tiempo más común del grupo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-7-2026-W39-datos-agrupados-mediana-moda-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W39-datos-agrupados-mediana-moda-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la mediana de estos puntajes?",
+      "context": "En Barranquilla, los puntajes de 5 estudiantes en matemáticas son: 10, 15, 20, 25, 30.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15 puntos, que es el segundo dato",
+          "is_correct": false,
+          "feedback": "Incorrecto. El segundo dato deja un valor a la izquierda y tres a la derecha; no divide en mitades."
+        },
+        {
+          "letter": "B",
+          "text": "22 puntos, que es el promedio de 15 y 29",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos valores no están en los datos y el promedio real es 20."
+        },
+        {
+          "letter": "C",
+          "text": "20 puntos, que es el dato central ordenado",
+          "is_correct": true,
+          "feedback": "Correcto. Deja dos puntajes por debajo y dos por encima."
+        },
+        {
+          "letter": "D",
+          "text": "30 puntos, que es el puntaje mayor",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mayor no es la mediana salvo en casos especiales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Con 5 datos ordenados, la mediana ocupa la posición (5 + 1) ÷ 2 = 3. El tercer dato es 20, que también coincide aquí con el promedio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-7-2026-W39-datos-agrupados-mediana-moda-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W39-datos-agrupados-mediana-moda-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el intervalo modal?",
+      "context": "En Cartagena, una encuesta agrupa edades en intervalos: [10-20) con 5 personas, [20-30) con 12 personas y [30-40) con 8 personas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "[10-20), porque es el primer intervalo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden no define la moda; importan las frecuencias."
+        },
+        {
+          "letter": "B",
+          "text": "[20-30), porque tiene la mayor frecuencia con 12 personas",
+          "is_correct": true,
+          "feedback": "Correcto. 12 supera a 5 y a 8."
+        },
+        {
+          "letter": "C",
+          "text": "[30-40), porque llega hasta 40",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite superior no define la moda."
+        },
+        {
+          "letter": "D",
+          "text": "[10-40), que reúne todos los datos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese intervalo total no es una clase del agrupamiento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En datos agrupados, la clase modal es el intervalo con mayor frecuencia. Aquí [20-30) con 12 personas concentra la mayor parte de los encuestados.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-7-2026-W39-datos-agrupados-mediana-moda-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W39-datos-agrupados-mediana-moda-001-MASTERY-bundle-v6",
+      "statement": "¿En qué intervalo se encuentra la mediana?",
+      "context": "En Bogotá, los tiempos de transporte (en minutos) de 25 estudiantes se agrupan: [10-20) con 5, [20-30) con 12 y [30-40) con 8.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En [10-20), porque tiene los primeros 5 datos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los primeros 5 solo cubren hasta la posición 5 y la mediana es la 13."
+        },
+        {
+          "letter": "B",
+          "text": "En [30-40), porque tiene los últimos datos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mediana está en la mitad, no en el extremo superior."
+        },
+        {
+          "letter": "C",
+          "text": "No se puede saber sin los 25 datos exactos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las frecuencias acumuladas sí permiten ubicar el intervalo mediano."
+        },
+        {
+          "letter": "D",
+          "text": "En [20-30), porque la posición 13 cae en su acumulado de 17",
+          "is_correct": true,
+          "feedback": "Correcto. Acumulados: 5, 17 y 25; la posición (25 + 1) ÷ 2 = 13 está en el segundo intervalo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Con datos agrupados se acumulan frecuencias: 5, luego 5 + 12 = 17 y luego 25. La mediana es el dato 13, que pertenece al intervalo [20-30). También se observa que coincide con la clase modal.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W39-datos-agrupados-mediana-moda-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W39-datos-agrupados-mediana-moda-001-MASTERY-bundle-v7",
+      "statement": "¿Cuáles son la moda y la mediana de estos puntajes?",
+      "context": "En Medellín, los puntajes de 7 estudiantes en ciencias son: 6, 7, 7, 8, 8, 8, 9.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Moda 8 y mediana 8, porque el 8 se repite 3 veces y ocupa el centro ordenado",
+          "is_correct": true,
+          "feedback": "Correcto. Frecuencias: 8 aparece 3 veces; el cuarto dato de 7 es 8."
+        },
+        {
+          "letter": "B",
+          "text": "Moda 7 y mediana 7, porque el 7 aparece primero repetido",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 7 aparece 2 veces y el 8 aparece 3 veces."
+        },
+        {
+          "letter": "C",
+          "text": "Moda 9 y mediana 6, porque son los extremos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los extremos no definen ni la moda ni la mediana."
+        },
+        {
+          "letter": "D",
+          "text": "Moda 8 y mediana 7, porque el promedio es 7,5",
+          "is_correct": false,
+          "feedback": "Incorrecto. La moda es 8 pero la mediana es el cuarto dato, que es 8."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El análisis combina conteo y orden: el 8 tiene la mayor frecuencia (3) y, al ordenar los 7 datos, la posición central es la cuarta, que también vale 8. Por eso ambas medidas coinciden.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W39-datos-agrupados-mediana-moda-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W39-datos-agrupados-mediana-moda-001-MASTERY-bundle-v8",
+      "statement": "¿Qué se concluye sobre el intervalo modal y el intervalo mediano?",
+      "context": "En Bogotá, los tiempos de viaje de 20 estudiantes se agrupan: [0-20) con 4, [20-40) con 10 y [40-60) con 6.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El modal es [0-20) y el mediano es [40-60)",
+          "is_correct": false,
+          "feedback": "Incorrecto. [0-20) solo tiene 4 datos y el mediano no está en el extremo."
+        },
+        {
+          "letter": "B",
+          "text": "El modal es [40-60) porque cubre los viajes largos",
+          "is_correct": false,
+          "feedback": "Incorrecto. [40-60) tiene 6 datos, menos que los 10 de [20-40)."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos coinciden en [20-40): es el de mayor frecuencia y contiene los datos 10 y 11",
+          "is_correct": true,
+          "feedback": "Correcto. Acumulados 4, 14 y 20; los puestos 10 y 11 están en el segundo intervalo."
+        },
+        {
+          "letter": "D",
+          "text": "El mediano es [0-20) porque allí están los primeros datos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los primeros 4 datos no alcanzan la mitad de 20."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La clase modal es [20-40) con 10 datos. Para la mediana de 20 datos se promedian los puestos 10 y 11; como los puestos 5 a 14 están en [20-40), el intervalo mediano es el mismo. Esto indica que el tiempo típico está entre 20 y 40 minutos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W39-datos-agrupados-mediana-moda-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W39-datos-agrupados-mediana-moda-001-MASTERY-bundle-v9",
+      "statement": "¿Es válida la afirmación? Evalúe comparando media y mediana.",
+      "context": "En Cali, los minutos de lectura de 6 estudiantes son: 20, 22, 25, 24, 23 y 90. Un estudiante afirma que el promedio (34) representa bien al grupo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque 34 es mayor que todos salvo 90 y por eso resume mejor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que sea mayor que casi todos muestra que el 90 lo infla."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque la mediana es 23,5 y describe mejor al grupo: el 90 distorsiona la media",
+          "is_correct": true,
+          "feedback": "Correcto. Ordenados: 20, 22, 23, 24, 25, 90; mediana (23 + 24) ÷ 2 = 23,5 frente a media 34."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque la mediana también da 34",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mediana es 23,5, muy distinta de 34."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque la moda es 90 y supera a la media",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ningún valor se repite y 90 aparece una sola vez."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La media suma 204 ÷ 6 = 34, pero un solo valor extremo (90) la eleva. La mediana 23,5 resiste ese efecto y refleja el nivel típico. Por eso, con datos asimétricos, la mediana es más representativa que la media.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-7-2026-W39-datos-agrupados-mediana-moda-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W39-datos-agrupados-mediana-moda-001-MASTERY-bundle-v10",
+      "statement": "¿Qué medida debe elegir la empresa y por qué?",
+      "context": "En Medellín, la empresa de transporte reporta los tiempos de viaje con un valor extremo por un trancón: la mayoría entre 20 y 30 minutos y uno de 120 minutos. Debe elegir la medida más fiel para informar a las familias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La media, porque usa todos los datos incluyendo el trancón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Incluir el 120 infla el promedio y exagera el tiempo típico."
+        },
+        {
+          "letter": "B",
+          "text": "La moda del intervalo extremo, porque el trancón es lo más importante",
+          "is_correct": false,
+          "feedback": "Incorrecto. El extremo es raro y no describe los viajes habituales."
+        },
+        {
+          "letter": "C",
+          "text": "El rango, porque muestra la diferencia entre 20 y 120",
+          "is_correct": false,
+          "feedback": "Incorrecto. El rango mide dispersión, no el valor típico del viaje."
+        },
+        {
+          "letter": "D",
+          "text": "La mediana, porque no la altera el valor extremo y refleja el viaje habitual",
+          "is_correct": true,
+          "feedback": "Correcto. La mediana se ubica en el centro ordenado y resiste el dato de 120."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar medidas implica juzgar su resistencia a valores extremos. La media se deja arrastrar por el 120, mientras la mediana permanece entre 20 y 30 minutos. Por eso, para informar el tiempo habitual, la mediana también es aquí la mejor decisión técnica.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-7-2026-W39-datos-agrupados-mediana-moda-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

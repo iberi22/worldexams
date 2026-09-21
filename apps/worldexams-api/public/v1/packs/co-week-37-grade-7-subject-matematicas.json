@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-37-grade-7-subject-matematicas",
+    "generated_at": "2026-09-21T20:02:46.641Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-7-2026-W37-patrones-secuencias-algebraicas-001-MASTERY-bundle-v1",
+      "statement": "La secuencia 3, 6, 9, 12, … sigue un patrón. ¿Cuál es el siguiente término?",
+      "context": "En Bogotá, un curso decora el salón con una tira de baldosas que sigue la secuencia 3, 6, 9, 12, …",
+      "options": [
+        {
+          "letter": "A",
+          "text": "14, porque se suma 2 al 12",
+          "is_correct": false,
+          "feedback": "Incorrecto. De 9 a 12 el salto es de 3, no de 2."
+        },
+        {
+          "letter": "B",
+          "text": "15, porque cada vez se suma 3 al término anterior",
+          "is_correct": true,
+          "feedback": "Correcto. 12 + 3 = 15 y el patrón +3 se mantiene."
+        },
+        {
+          "letter": "C",
+          "text": "16, porque se suma 4 al 12",
+          "is_correct": false,
+          "feedback": "Incorrecto. El salto constante de la secuencia es 3, no 4."
+        },
+        {
+          "letter": "D",
+          "text": "18, porque se multiplica el 9 por 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. La secuencia es aditiva (+3), no multiplicativa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un patrón numérico describe cómo se pasa de un término al siguiente. Aquí la diferencia es constante: 6 − 3 = 3, 9 − 6 = 3, 12 − 9 = 3. Por eso el siguiente término es 12 + 3 = 15.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-7-2026-W37-patrones-secuencias-algebraicas-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W37-patrones-secuencias-algebraicas-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la regla que describe el patrón de la secuencia 2, 5, 8, 11, …?",
+      "context": "En Barranquilla, los estudiantes siembran hileras de plantas siguiendo la secuencia 2, 5, 8, 11, …",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Empezar en 2 y sumar 3 cada vez",
+          "is_correct": true,
+          "feedback": "Correcto. 2 + 3 = 5, 5 + 3 = 8 y 8 + 3 = 11."
+        },
+        {
+          "letter": "B",
+          "text": "Multiplicar por 2 cada vez",
+          "is_correct": false,
+          "feedback": "Incorrecto. 2 × 2 = 4 y no 5, así que no es multiplicativa."
+        },
+        {
+          "letter": "C",
+          "text": "Sumar 2 cada vez",
+          "is_correct": false,
+          "feedback": "Incorrecto. 2 + 2 = 4 y no 5."
+        },
+        {
+          "letter": "D",
+          "text": "Restar 3 cada vez",
+          "is_correct": false,
+          "feedback": "Incorrecto. La secuencia crece, también usa la suma y no la resta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Describir un patrón significa decir el valor inicial y la operación que se repite. La secuencia empieza en 2 y la diferencia entre términos consecutivos siempre es 3, por eso la regla es sumar 3 cada vez.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-7-2026-W37-patrones-secuencias-algebraicas-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W37-patrones-secuencias-algebraicas-001-MASTERY-bundle-v3",
+      "statement": "Si el término general es 3n + 2, ¿cuál es el término de la posición 10?",
+      "context": "En Cali, un juego de computador genera puntos con la secuencia 5, 8, 11, 14, …, cuyo término general es 3n + 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30, porque 3 × 10 = 30",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta sumar el 2 del término general."
+        },
+        {
+          "letter": "B",
+          "text": "28, porque 3 × 10 − 2 = 28",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión suma 2, no lo resta."
+        },
+        {
+          "letter": "C",
+          "text": "32, porque 3 × 10 + 2 = 32",
+          "is_correct": true,
+          "feedback": "Correcto. Se reemplaza n por 10: 30 + 2 = 32."
+        },
+        {
+          "letter": "D",
+          "text": "35, porque 3 × 10 + 5 = 35",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor constante de la expresión es 2, no 5."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El término general permite calcular cualquier posición sin escribir toda la secuencia. Con 3n + 2 se verifica primero que n = 1 da 5 y luego se aplica con n = 10 para obtener 32.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-7-2026-W37-patrones-secuencias-algebraicas-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W37-patrones-secuencias-algebraicas-001-MASTERY-bundle-v4",
+      "statement": "Si el patrón se mantiene, ¿cuántas baldosas usa la figura 6?",
+      "context": "En Medellín, un patio se embaldosa por figuras: la figura 1 usa 5 baldosas, la figura 2 usa 8 y la figura 3 usa 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "17 baldosas, que son las de la figura 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. 17 corresponde a la figura 5 (5 + 3 × 4), no a la 6."
+        },
+        {
+          "letter": "B",
+          "text": "18 baldosas, porque 6 × 3 = 18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta el valor inicial: la figura 1 no parte de cero."
+        },
+        {
+          "letter": "C",
+          "text": "23 baldosas, porque 11 + 12 = 23",
+          "is_correct": false,
+          "feedback": "Incorrecto. De la figura 3 a la 6 hay 3 saltos de 3, o sea 9 más, no 12."
+        },
+        {
+          "letter": "D",
+          "text": "20 baldosas, porque 5 + 3 × 5 = 20",
+          "is_correct": true,
+          "feedback": "Correcto. Desde la figura 1 hay 5 saltos de 3: 5 + 15 = 20."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El área que cubren las baldosas crece con diferencia constante de 3. La figura n usa 3n + 2 baldosas (n = 1 da 5). Para n = 6 se obtiene 18 + 2 = 20.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-7-2026-W37-patrones-secuencias-algebraicas-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W37-patrones-secuencias-algebraicas-001-MASTERY-bundle-v5",
+      "statement": "¿Cuántas plantas tiene la hilera 5?",
+      "context": "En Tunja, una huerta escolar siembra cultivos en hileras: la hilera n tiene 4n + 1 plantas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 plantas, porque 4 × 5 = 20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvida la planta adicional que indica el + 1."
+        },
+        {
+          "letter": "B",
+          "text": "21 plantas, porque 4 × 5 + 1 = 21",
+          "is_correct": true,
+          "feedback": "Correcto. Se reemplaza n por 5: 20 + 1 = 21."
+        },
+        {
+          "letter": "C",
+          "text": "24 plantas, porque 4 × 5 + 4 = 24",
+          "is_correct": false,
+          "feedback": "Incorrecto. El término constante es 1, no 4."
+        },
+        {
+          "letter": "D",
+          "text": "25 plantas, porque 5 × 5 = 25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa operación ignora la expresión 4n + 1 del patrón."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una expresión algebraica del tipo 4n + 1 resume el patrón: 4 plantas nuevas por cada hilera más 1 fija. Evaluar en n = 5 da 21 plantas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-7-2026-W37-patrones-secuencias-algebraicas-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W37-patrones-secuencias-algebraicas-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál expresión algebraica da el número de sillas de la fila n?",
+      "context": "En Cali, la gradería del coliseo tiene 20 sillas en la fila 1, 26 en la fila 2 y 32 en la fila 3.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6n + 14, porque 6 × 1 + 14 = 20 y 6 × 2 + 14 = 26",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia es 6 y el ajuste inicial es 14; también 6 × 3 + 14 = 32."
+        },
+        {
+          "letter": "B",
+          "text": "6n + 20, porque empieza en 20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con n = 1 daría 26 y no 20."
+        },
+        {
+          "letter": "C",
+          "text": "20n + 6, porque 20 es el primer dato",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con n = 2 daría 46 y no 26."
+        },
+        {
+          "letter": "D",
+          "text": "6n + 6, porque 6 es la diferencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con n = 1 daría 12 y no 20; falta el ajuste inicial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando la diferencia es constante (6), la expresión es de la forma 6n + b. Como la fila 1 tiene 20, se cumple 6 + b = 20 y b = 14. Por eso el término general es 6n + 14.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W37-patrones-secuencias-algebraicas-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W37-patrones-secuencias-algebraicas-001-MASTERY-bundle-v7",
+      "statement": "Si el patrón geométrico continúa, ¿cuáles son los dos siguientes términos?",
+      "context": "En Cartagena, una cadena de mensajes por celular se duplica en forma de patrón: 2, 6, 18, 54, … personas reciben el mensaje.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "72 y 90, porque se suma 18 cada vez",
+          "is_correct": false,
+          "feedback": "Incorrecto. De 18 a 54 el salto es 36, no 18; el patrón no es aditivo."
+        },
+        {
+          "letter": "B",
+          "text": "108 y 216, porque se multiplica por 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. 18 × 2 = 36 y no 54; la razón es 3, no 2."
+        },
+        {
+          "letter": "C",
+          "text": "162 y 486, porque cada término se multiplica por 3",
+          "is_correct": true,
+          "feedback": "Correcto. 54 × 3 = 162 y 162 × 3 = 486."
+        },
+        {
+          "letter": "D",
+          "text": "81 y 108, porque se suma 27 cada vez",
+          "is_correct": false,
+          "feedback": "Incorrecto. La razón 54 ÷ 18 = 3 muestra que el patrón es multiplicativo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En un patrón geométrico cada término se obtiene multiplicando por la razón. Aquí 6 ÷ 2 = 3, 18 ÷ 6 = 3 y 54 ÷ 18 = 3, así que se multiplica por 3: 54 × 3 = 162 y 162 × 3 = 486.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W37-patrones-secuencias-algebraicas-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W37-patrones-secuencias-algebraicas-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál expresión representa la relación entre la figura n y el número de baldosas?",
+      "context": "En Bucaramanga, un estudiante registra baldosas por figura en una tabla: figura 1 → 4, figura 2 → 7, figura 3 → 10, figura 4 → 13.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "n + 3, porque 1 + 3 = 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con n = 2 daría 5 y no 7."
+        },
+        {
+          "letter": "B",
+          "text": "3n, porque la diferencia es 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con n = 1 daría 3 y no 4."
+        },
+        {
+          "letter": "C",
+          "text": "4n − 1, porque 4 × 2 − 1 = 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con n = 1 daría 3 y no 4, así que falla en el primer dato."
+        },
+        {
+          "letter": "D",
+          "text": "3n + 1, porque 3 × 1 + 1 = 4 y 3 × 4 + 1 = 13",
+          "is_correct": true,
+          "feedback": "Correcto. Funciona para los cuatro datos: 4, 7, 10 y 13."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analizar la tabla exige probar cada candidata en todos los datos. Solo 3n + 1 reproduce los cuatro valores, pues la diferencia constante es 3 y la figura 1 parte de 4.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W37-patrones-secuencias-algebraicas-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W37-patrones-secuencias-algebraicas-001-MASTERY-bundle-v9",
+      "statement": "Evalúe las dos propuestas y decida cuál expresión es correcta.",
+      "context": "En Pereira, dos estudiantes analizan la secuencia 1, 4, 9, 16, … Valentina propone 2n − 1 y Juan propone n².",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La expresión 2n − 1 es correcta porque genera números impares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con n = 3 da 5 y el tercer término es 9."
+        },
+        {
+          "letter": "B",
+          "text": "La expresión n² es correcta porque 1² = 1, 2² = 4, 3² = 9 y 4² = 16",
+          "is_correct": true,
+          "feedback": "Correcto. Reproduce exactamente los cuatro términos de la secuencia."
+        },
+        {
+          "letter": "C",
+          "text": "La expresión 4n − 3 es correcta porque con n = 1 da 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con n = 2 da 5 y el segundo término es 4."
+        },
+        {
+          "letter": "D",
+          "text": "La expresión n + 3 es correcta porque suma 3 cada vez",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con n = 3 da 6 y el tercer término es 9; la diferencia no es constante."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar un término general significa probarlo en cada posición. Solo n² pasa la prueba en n = 1, 2, 3 y 4. Las demás fallan al menos en una posición, así que la propuesta de Juan es la válida.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-7-2026-W37-patrones-secuencias-algebraicas-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W37-patrones-secuencias-algebraicas-001-MASTERY-bundle-v10",
+      "statement": "¿Es válida la afirmación del estudiante? Evalúe usando n = 3.",
+      "context": "En Bogotá, un patio se amplía con un patrón: la figura 1 usa 4 baldosas, la figura 2 usa 10 y la figura 3 usa 18. El modelo real es n(n + 3). Un estudiante afirma que el término general es 4n porque la primera figura usa 4.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es falsa: con n = 3 el patrón da 3 × 6 = 18 baldosas y 4n da 12",
+          "is_correct": true,
+          "feedback": "Correcto. 18 es distinto de 12, así que 4n no modela el patrón."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es verdadera: con n = 3 el patrón da 12 baldosas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La figura 3 usa 18 baldosas, no 12."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es verdadera con la expresión 3n, que da 9 con n = 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. 3 × 3 = 9 y la figura 3 usa 18 baldosas."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación se corrige con n + 3, que da 6 con n = 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. 3 + 3 = 6 y la figura 3 usa 18 baldosas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un solo caso (n = 1) no basta para validar un modelo: también 4n da 4 con n = 1. La prueba decisiva es n = 3, donde n(n + 3) = 18 y 4n = 12. Como difieren, la afirmación queda refutada y el modelo cuadrático se mantiene.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-7-2026-W37-patrones-secuencias-algebraicas-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}
