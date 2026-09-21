@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-12-grade-8-subject-matematicas",
+    "generated_at": "2026-09-21T22:09:29.597Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-8-2026-W12-numeros-irracionales-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de los siguientes números es irracional?",
+      "context": "En Medellín, en la obra de un puente peatonal, la ingeniera anota la longitud $\\sqrt{2}$ m de un tirante de acero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $0.25 = \\frac{1}{4}$ es un decimal exacto y por tanto es racional."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\sqrt{2} \\approx 1.41421356\\ldots$ tiene expansión decimal infinita no periódica y no puede escribirse como fracción de enteros."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{3}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\frac{3}{4}$ es por definición un número racional."
+        },
+        {
+          "letter": "D",
+          "text": "$0.333\\ldots$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $0.333\\ldots = \\frac{1}{3}$ es un decimal periódico y por tanto es racional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un número irracional no puede expresarse como fracción de enteros y su decimal es infinito no periódico. $\\sqrt{2}$ cumple esta condición, mientras que $0.25$, $\\frac{3}{4}$ y $0.333\\ldots$ son racionales.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W12-numeros-irracionales-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W12-numeros-irracionales-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál afirmación describe correctamente un número irracional?",
+      "context": "En Bogotá, durante la medición de una columna de un edificio, el maestro de obra pregunta qué caracteriza a los números irracionales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Puede escribirse como una fracción de dos números enteros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la definición de número racional, no de irracional."
+        },
+        {
+          "letter": "B",
+          "text": "Su expansión decimal es finita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un decimal finito siempre es racional, pues equivale a una fracción con denominador potencia de 10."
+        },
+        {
+          "letter": "C",
+          "text": "Su expansión decimal es infinita y periódica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todo decimal infinito periódico es racional, pues puede convertirse en fracción."
+        },
+        {
+          "letter": "D",
+          "text": "Su expansión decimal es infinita no periódica y no puede expresarse como fracción de enteros.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la definición de número irracional: decimal infinito sin periodo y sin representación fraccionaria exacta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La diferencia esencial está en el decimal: los racionales tienen decimal finito o infinito periódico, mientras que los irracionales tienen decimal infinito no periódico, como ocurre con $\\sqrt{2}$ y $\\pi$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W12-numeros-irracionales-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W12-numeros-irracionales-001-MASTERY-bundle-v3",
+      "statement": "Si $\\sqrt{7} \\approx 2.64575131\\ldots$, ¿cuál es su truncamiento a dos cifras decimales?",
+      "context": "En Cali, un topógrafo mide un muro cuya altura teórica es $\\sqrt{7}$ m y necesita el truncamiento a dos cifras decimales para el corte del material.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2.64$",
+          "is_correct": true,
+          "feedback": "Correcto. Truncar a dos cifras es cortar el decimal después de la segunda cifra sin ajustar: $2.64$."
+        },
+        {
+          "letter": "B",
+          "text": "$2.65$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $2.65$ es el redondeo a dos cifras, no el truncamiento."
+        },
+        {
+          "letter": "C",
+          "text": "$2.66$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $2.66$ supera tanto al truncamiento como al redondeo correctos."
+        },
+        {
+          "letter": "D",
+          "text": "$2.60$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $2.60$ corresponde a truncar a una sola cifra decimal, no a dos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Truncar significa cortar la expansión decimal en la cifra indicada sin mirar la siguiente. En $2.64575131\\ldots$, al cortar después del $4$ se obtiene $2.64$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W12-numeros-irracionales-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W12-numeros-irracionales-001-MASTERY-bundle-v4",
+      "statement": "Si $\\sqrt{11} \\approx 3.31662479\\ldots$, ¿cuál es su redondeo a dos cifras decimales?",
+      "context": "En Barranquilla, para cortar una viga metálica de longitud $\\sqrt{11}$ m, el taller necesita el redondeo a dos cifras decimales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3.31$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $3.31$ es el truncamiento; olvidaste ajustar por la tercera cifra decimal."
+        },
+        {
+          "letter": "B",
+          "text": "$3.30$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $3.30$ es menor que el valor real y no aplica la regla de redondeo."
+        },
+        {
+          "letter": "C",
+          "text": "$3.32$",
+          "is_correct": true,
+          "feedback": "Correcto. La tercera cifra decimal es $6 \\ge 5$, así que la segunda cifra sube de $1$ a $2$: $3.32$."
+        },
+        {
+          "letter": "D",
+          "text": "$3.33$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $3.33$ aumenta la segunda cifra en dos unidades, lo cual es excesivo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para redondear a dos cifras se observa la tercera cifra decimal. Como en $3.316\\ldots$ la tercera cifra es $6$, que es mayor o igual a $5$, se aumenta la segunda cifra: $3.31$ pasa a $3.32$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W12-numeros-irracionales-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W12-numeros-irracionales-001-MASTERY-bundle-v5",
+      "statement": "¿Entre qué dos enteros consecutivos se ubica $\\sqrt{50}$?",
+      "context": "En Bucaramanga, se calcula el lado de un lote cuadrado de $50$ m² para una cimentación; ese lado mide $\\sqrt{50}$ m.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entre $6$ y $7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $6^2 = 36$ y $7^2 = 49$, ambos menores que $50$."
+        },
+        {
+          "letter": "B",
+          "text": "Entre $7$ y $8$",
+          "is_correct": true,
+          "feedback": "Correcto. $7^2 = 49 < 50 < 64 = 8^2$, así que $7 < \\sqrt{50} < 8$ y $\\sqrt{50} \\approx 7.07$."
+        },
+        {
+          "letter": "C",
+          "text": "Entre $8$ y $9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $8^2 = 64 > 50$, de modo que $\\sqrt{50}$ es menor que $8$."
+        },
+        {
+          "letter": "D",
+          "text": "Entre $5$ y $6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $5^2 = 25$ y $6^2 = 36$, ambos muy por debajo de $50$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para ubicar una raíz no exacta se buscan los cuadrados perfectos vecinos: $49 < 50 < 64$. Al aplicar raíz cuadrada se conserva el orden: $7 < \\sqrt{50} < 8$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W12-numeros-irracionales-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W12-numeros-irracionales-001-MASTERY-bundle-v6",
+      "statement": "Sabiendo que $\\pi \\approx 3.1416$ y $\\sqrt{10} \\approx 3.1623$, ¿cuál es el orden correcto de menor a mayor?",
+      "context": "En Pereira, la interventoría de una vía compara cuatro longitudes de pilotes: $3.1$ m, $\\pi$ m, $3.15$ m y $\\sqrt{10}$ m.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\pi < 3.1 < \\sqrt{10} < 3.15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $3.1 = 3.1000$ es menor que $\\pi \\approx 3.1416$, así que $\\pi$ no puede ir primero."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt{10} < \\pi < 3.1 < 3.15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\sqrt{10} \\approx 3.1623$ es el mayor de los cuatro, no el menor."
+        },
+        {
+          "letter": "C",
+          "text": "$3.1 < \\sqrt{10} < \\pi < 3.15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\pi \\approx 3.1416$ es menor que $\\sqrt{10} \\approx 3.1623$; están intercambiados."
+        },
+        {
+          "letter": "D",
+          "text": "$3.1 < \\pi < 3.15 < \\sqrt{10}$",
+          "is_correct": true,
+          "feedback": "Correcto. $3.1000 < 3.1416 < 3.1500 < 3.1623$ respeta el valor de cada medida."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Al comparar se iguala el número de cifras decimales: $3.1000 < 3.1416 < 3.1500 < 3.1623$. Por tanto el orden es $3.1 < \\pi < 3.15 < \\sqrt{10}$, lo que también define su ubicación en la recta numérica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-8-2026-W12-numeros-irracionales-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W12-numeros-irracionales-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el valor exacto de $\\sqrt{8} + \\sqrt{18}$?",
+      "context": "En Manizales, un ingeniero hidráulico suma dos tramos de tubería que miden $\\sqrt{8}$ m y $\\sqrt{18}$ m para el despiece del plano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5\\sqrt{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\sqrt{8} = 2\\sqrt{2}$ y $\\sqrt{18} = 3\\sqrt{2}$; al sumar se obtiene $5\\sqrt{2} \\approx 7.07$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt{26}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se pueden sumar los radicandos directamente: $\\sqrt{8} + \\sqrt{18} \\neq \\sqrt{8 + 18}$."
+        },
+        {
+          "letter": "C",
+          "text": "$6\\sqrt{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $6\\sqrt{2} \\approx 8.49$, valor mayor que la suma real $7.07$."
+        },
+        {
+          "letter": "D",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $10$ es un entero y la suma de dos irracionales semejantes aquí sigue siendo irracional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se descompone cada raíz en factores con raíz exacta: $\\sqrt{8} = \\sqrt{4 \\times 2} = 2\\sqrt{2}$ y $\\sqrt{18} = \\sqrt{9 \\times 2} = 3\\sqrt{2}$. Como son términos semejantes, se suman los coeficientes: $2\\sqrt{2} + 3\\sqrt{2} = 5\\sqrt{2}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-8-2026-W12-numeros-irracionales-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W12-numeros-irracionales-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de las siguientes desigualdades es correcta?",
+      "context": "En Cartagena, en la revisión de un plano estructural, el calculista debe validar varias desigualdades que comparan racionales con irracionales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\pi > \\frac{22}{7}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\pi \\approx 3.14159$ y $\\frac{22}{7} \\approx 3.14286$, así que $\\pi < \\frac{22}{7}$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt{2} < 1.41$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\sqrt{2} \\approx 1.4142$, que es mayor que $1.41$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{3} > \\frac{5}{3}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\sqrt{3} \\approx 1.7321$ y $\\frac{5}{3} \\approx 1.6667$, por lo que $\\sqrt{3} > \\frac{5}{3}$."
+        },
+        {
+          "letter": "D",
+          "text": "$2.5 > \\sqrt{7}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\sqrt{7} \\approx 2.6458$, que es mayor que $2.5$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para comparar un irracional con un racional se usa una aproximación suficiente del irracional. Solo la opción C se sostiene: $1.7321 > 1.6667$. Las demás invierten el orden real de los valores.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-8-2026-W12-numeros-irracionales-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W12-numeros-irracionales-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál ejemplo demuestra que esta afirmación es falsa?",
+      "context": "En Cúcuta, en el laboratorio de materiales de una constructora, un auxiliar afirma que el producto de dos números irracionales siempre es irracional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\pi \\times 2 = 2\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número $2$ es racional, así que este producto no es producto de dos irracionales."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt{2} \\times \\sqrt{8} = 4$",
+          "is_correct": true,
+          "feedback": "Correcto. Tanto $\\sqrt{2}$ como $\\sqrt{8}$ son irracionales, pero su producto es $4$, que es racional; esto refuta la afirmación."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{2} \\times \\sqrt{3} = \\sqrt{6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\sqrt{6}$ es irracional, así que este ejemplo confirma la afirmación en vez de refutarla."
+        },
+        {
+          "letter": "D",
+          "text": "$\\pi \\times \\sqrt{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\pi \\times \\sqrt{2}$ es irracional y por tanto no sirve como contraejemplo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una afirmación universal se refuta con un solo contraejemplo. Aquí $\\sqrt{2}$ y $\\sqrt{8}$ son irracionales, pero $\\sqrt{2} \\times \\sqrt{8} = \\sqrt{16} = 4$, que es racional. Luego no siempre el producto de dos irracionales es irracional.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W12-numeros-irracionales-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W12-numeros-irracionales-001-MASTERY-bundle-v10",
+      "statement": "Si $\\sqrt{13} \\approx 3.60555127\\ldots$, ¿entre qué dos décimas consecutivas se ubica exactamente?",
+      "context": "En Armenia, el lado de una placa cuadrada de $13$ m² para un entrepiso mide $\\sqrt{13}$ m y debe localizarse entre décimas para el corte del encofrado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entre $3.5$ y $3.6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $3.6^2 = 12.96 < 13$, así que $\\sqrt{13}$ es mayor que $3.6$."
+        },
+        {
+          "letter": "B",
+          "text": "Entre $3.61$ y $3.62$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $3.61^2 = 13.0321 > 13$, así que $\\sqrt{13}$ es menor que $3.61$."
+        },
+        {
+          "letter": "C",
+          "text": "Entre $3.7$ y $3.8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $3.7^2 = 13.69 > 13$, un intervalo muy por encima del valor real."
+        },
+        {
+          "letter": "D",
+          "text": "Entre $3.6$ y $3.61$",
+          "is_correct": true,
+          "feedback": "Correcto. $3.6^2 = 12.96 < 13 < 13.0321 = 3.61^2$, luego $3.6 < \\sqrt{13} < 3.61$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para encerrar una raíz entre décimas se elevan al cuadrado los extremos candidatos. Como $12.96 < 13 < 13.0321$, se concluye que $3.6 < \\sqrt{13} < 3.61$, con $\\sqrt{13} \\approx 3.6056$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W12-numeros-irracionales-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W12-numeros-irracionales-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es el orden correcto de menor a mayor entre $\\frac{15}{4}$, $\\pi + 0.7$, $\\sqrt{15}$ y $3.9$?",
+      "context": "En Pasto, en el diseño de un auditorio, se comparan cuatro medidas de vanos: $\\frac{15}{4}$ m, $\\pi + 0.7$ m, $\\sqrt{15}$ m y $3.9$ m.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{15}{4} < \\pi + 0.7 < \\sqrt{15} < 3.9$",
+          "is_correct": true,
+          "feedback": "Correcto. $3.75 < 3.8416 < 3.8730 < 3.9000$ respeta los valores de cada expresión."
+        },
+        {
+          "letter": "B",
+          "text": "$\\pi + 0.7 < \\frac{15}{4} < \\sqrt{15} < 3.9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\pi + 0.7 \\approx 3.8416$ es mayor que $\\frac{15}{4} = 3.75$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{15}{4} < \\sqrt{15} < \\pi + 0.7 < 3.9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\sqrt{15} \\approx 3.8730$ es mayor que $\\pi + 0.7 \\approx 3.8416$; el orden central está invertido."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{15} < \\pi + 0.7 < \\frac{15}{4} < 3.9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\frac{15}{4} = 3.75$ es el menor de los cuatro, no el tercero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se calculan aproximaciones con cuatro cifras: $\\frac{15}{4} = 3.75$, $\\pi + 0.7 \\approx 3.8416$, $\\sqrt{15} \\approx 3.8730$ y $3.9 = 3.9000$. Al compararlas se obtiene $\\frac{15}{4} < \\pi + 0.7 < \\sqrt{15} < 3.9$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-8-2026-W12-numeros-irracionales-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W12-numeros-irracionales-001-MASTERY-bundle-v12",
+      "statement": "Si el perímetro exacto es $4\\sqrt{2}$ y se aproxima con $4 \\times 1.41$, ¿cuál es el perímetro aproximado y qué tipo de aproximación es respecto al valor exacto?",
+      "context": "En Ibagué, un taller metalmecánico fabrica un marco cuadrado de lado $\\sqrt{2}$ m; para cortar usa la aproximación $1.41$ en lugar de $\\sqrt{2} \\approx 1.41421356\\ldots$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5.66$ m, aproximación por exceso",
+          "is_correct": false,
+          "feedback": "Incorrecto. $4 \\times 1.41 = 5.64$, no $5.66$; el valor $5.66$ correspondería a usar $1.415$."
+        },
+        {
+          "letter": "B",
+          "text": "$5.64$ m, aproximación por exceso",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor $5.64$ es correcto, pero es menor que el valor exacto $5.6568\\ldots$, así que no es por exceso."
+        },
+        {
+          "letter": "C",
+          "text": "$5.64$ m, aproximación por defecto",
+          "is_correct": true,
+          "feedback": "Correcto. $4 \\times 1.41 = 5.64$ y $5.64 < 4\\sqrt{2} \\approx 5.6568$, luego es una aproximación por defecto."
+        },
+        {
+          "letter": "D",
+          "text": "$5.60$ m, aproximación por defecto",
+          "is_correct": false,
+          "feedback": "Incorrecto. $5.60 = 4 \\times 1.40$, que usa una sola cifra decimal y no $1.41$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El valor exacto es $4\\sqrt{2} \\approx 5.6568$. Con la aproximación se obtiene $4 \\times 1.41 = 5.64$. Como $5.64$ está por debajo del valor exacto, se trata de una aproximación por defecto con un error de $0.0168\\ldots$ m.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-8-2026-W12-numeros-irracionales-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

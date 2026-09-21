@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-5-grade-8-subject-matematicas",
+    "generated_at": "2026-09-21T22:09:29.593Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-8-2026-W05-productos-notables-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el desarrollo correcto de $(x + 3)^2$?",
+      "context": "En Bogotá, la profesora escribe en el tablero el cuadrado del binomio $(x + 3)^2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 + 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste el doble producto $2(x)(3) = 6x$."
+        },
+        {
+          "letter": "B",
+          "text": "$x^2 + 6x + 9$",
+          "is_correct": true,
+          "feedback": "Correcto. $(x + 3)^2 = x^2 + 2(x)(3) + 3^2 = x^2 + 6x + 9$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 + 3x + 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El término central es $2(x)(3) = 6x$, no $3x$."
+        },
+        {
+          "letter": "D",
+          "text": "$x^2 + 6x + 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El último término es $3^2 = 9$, no $6$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El cuadrado de un binomio suma es $(a + b)^2 = a^2 + 2ab + b^2$. Aquí $a = x$ y $b = 3$, por tanto $x^2 + 6x + 9$. También se verifica multiplicando $(x + 3)(x + 3)$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W05-productos-notables-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W05-productos-notables-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el desarrollo correcto de $(m - 5)^2$?",
+      "context": "En Medellín, un estudiante debe desarrollar el cuadrado de la diferencia $(m - 5)^2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m^2 - 5m + 25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El doble producto es $2(m)(5) = 10m$, no $5m$."
+        },
+        {
+          "letter": "B",
+          "text": "$m^2 + 25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitiste el término central $-10m$."
+        },
+        {
+          "letter": "C",
+          "text": "$m^2 - 25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el cuadrado de la diferencia con la diferencia de cuadrados."
+        },
+        {
+          "letter": "D",
+          "text": "$m^2 - 10m + 25$",
+          "is_correct": true,
+          "feedback": "Correcto. $(m - 5)^2 = m^2 - 2(m)(5) + 5^2 = m^2 - 10m + 25$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La regla es $(a - b)^2 = a^2 - 2ab + b^2$. El signo menos solo afecta el término central, mientras el último término queda positivo porque $(-5)^2 = 25$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W05-productos-notables-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W05-productos-notables-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el resultado de $(x + 7)(x - 7)$?",
+      "context": "En Cali, se multiplican los binomios conjugados $(x + 7)(x - 7)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 - 49$",
+          "is_correct": true,
+          "feedback": "Correcto. $(x + 7)(x - 7) = x^2 - 7^2 = x^2 - 49$."
+        },
+        {
+          "letter": "B",
+          "text": "$x^2 + 49$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El producto de conjugados es una resta, no una suma."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 - 14x + 49$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el desarrollo de $(x - 7)^2$, no de conjugados."
+        },
+        {
+          "letter": "D",
+          "text": "$x^2 - 14x - 49$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los términos centrales $+7x$ y $-7x$ se cancelan y queda $-49$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El producto de binomios conjugados cumple $(a + b)(a - b) = a^2 - b^2$. Los términos cruzados se eliminan y solo queda la diferencia de los cuadrados.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W05-productos-notables-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W05-productos-notables-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el valor de $102^2$ usando el producto notable $(100 + 2)^2$?",
+      "context": "En Barranquilla, un comerciante calcula $102^2$ mentalmente escribiendo $102$ como $100 + 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10200$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste $102$ por $100$ en lugar de elevar al cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "$10004$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $100^2 + 2^2$ y olvidaste el doble producto $400$."
+        },
+        {
+          "letter": "C",
+          "text": "$10404$",
+          "is_correct": true,
+          "feedback": "Correcto. $(100 + 2)^2 = 10000 + 400 + 4 = 10404$."
+        },
+        {
+          "letter": "D",
+          "text": "$10400$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Te faltó sumar el último término $2^2 = 4$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicar $(100 + 2)^2 = 100^2 + 2(100)(2) + 2^2 = 10000 + 400 + 4 = 10404$. Esta es la utilidad del producto notable para el cálculo mental.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W05-productos-notables-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W05-productos-notables-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la expresión del área del patio?",
+      "context": "En Cartagena, un patio cuadrado tiene lado de $(a + 4)$ metros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a^2 + 16$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta el doble producto $2(a)(4) = 8a$."
+        },
+        {
+          "letter": "B",
+          "text": "$a^2 + 8a + 16$",
+          "is_correct": true,
+          "feedback": "Correcto. El área es $(a + 4)^2 = a^2 + 8a + 16$."
+        },
+        {
+          "letter": "C",
+          "text": "$a^2 + 4a + 16$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El término central es $8a$, no $4a$."
+        },
+        {
+          "letter": "D",
+          "text": "$a^2 + 8a + 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El último término es $4^2 = 16$, no $8$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El área de un cuadrado es lado al cuadrado. Con lado $(a + 4)$, el área es $(a + 4)^2 = a^2 + 8a + 16$, que también se interpreta como el cuadrado grande más dos rectángulos más el cuadrado pequeño.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W05-productos-notables-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W05-productos-notables-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el error y cuál es el desarrollo correcto?",
+      "context": "En Bucaramanga, un estudiante afirma que $(2x + 3)^2 = 4x^2 + 9$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4x^2 + 9$, no hay error",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí hay error: falta el doble producto $12x$."
+        },
+        {
+          "letter": "B",
+          "text": "$2x^2 + 12x + 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El primer término es $(2x)^2 = 4x^2$, no $2x^2$."
+        },
+        {
+          "letter": "C",
+          "text": "$4x^2 + 6x + 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El doble producto es $2(2x)(3) = 12x$, no $6x$."
+        },
+        {
+          "letter": "D",
+          "text": "$4x^2 + 12x + 9$",
+          "is_correct": true,
+          "feedback": "Correcto. Falta el término $2(2x)(3) = 12x$; el desarrollo completo es $4x^2 + 12x + 9$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El error típico es elevar cada término por separado. La multiplicación completa da $(2x + 3)(2x + 3) = 4x^2 + 6x + 6x + 9 = 4x^2 + 12x + 9$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-8-2026-W05-productos-notables-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W05-productos-notables-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el resultado correcto?",
+      "context": "En Pereira, se analiza el producto $(3m - 2n)(3m + 2n)$ para simplificar una fórmula de física.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9m^2 - 4n^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Es diferencia de cuadrados: $(3m)^2 - (2n)^2 = 9m^2 - 4n^2$."
+        },
+        {
+          "letter": "B",
+          "text": "$9m^2 + 4n^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El producto de conjugados produce una resta, no una suma."
+        },
+        {
+          "letter": "C",
+          "text": "$9m^2 - 12mn + 4n^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la expansión de $(3m - 2n)^2$, que sí lleva término cruzado."
+        },
+        {
+          "letter": "D",
+          "text": "$9m^2 - 6mn - 4n^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los términos $+6mn$ y $-6mn$ se cancelan totalmente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al ser conjugados, $(3m - 2n)(3m + 2n) = 9m^2 + 6mn - 6mn - 4n^2 = 9m^2 - 4n^2$. La clave está en reconocer que el término central se anula.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-8-2026-W05-productos-notables-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W05-productos-notables-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el desarrollo correcto de $(x + 2)^3$?",
+      "context": "En Manizales, la clase desarrolla el cubo del binomio $(x + 2)^3$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^3 + 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elevaste cada término al cubo y omitiste los dos términos intermedios."
+        },
+        {
+          "letter": "B",
+          "text": "$x^3 + 6x + 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Faltan los términos cuadráticos; el desarrollo tiene cuatro términos."
+        },
+        {
+          "letter": "C",
+          "text": "$x^3 + 6x^2 + 12x + 8$",
+          "is_correct": true,
+          "feedback": "Correcto. $(x + 2)^3 = x^3 + 3(x^2)(2) + 3(x)(2^2) + 2^3 = x^3 + 6x^2 + 12x + 8$."
+        },
+        {
+          "letter": "D",
+          "text": "$x^3 + 4x^2 + 4x + 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos coeficientes corresponden a otra estructura, no a $3$, $3$, $1$ del cubo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La fórmula es $(a + b)^3 = a^3 + 3a^2b + 3ab^2 + b^3$. Con $a = x$ y $b = 2$ se obtiene $x^3 + 6x^2 + 12x + 8$. También se puede llegar multiplicando $(x + 2)^2(x + 2)$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-8-2026-W05-productos-notables-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W05-productos-notables-001-MASTERY-bundle-v9",
+      "statement": "¿Cuáles son los coeficientes del desarrollo de $(a + b)^4$ según el triángulo de Pascal?",
+      "context": "En Pasto, los estudiantes construyen el triángulo de Pascal para anticipar $(a + b)^4$ sin multiplicar todo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1, 3, 3, 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos coeficientes corresponden a $(a + b)^3$."
+        },
+        {
+          "letter": "B",
+          "text": "$1, 4, 6, 4, 1$",
+          "is_correct": true,
+          "feedback": "Correcto. La fila para exponente $4$ es $1, 4, 6, 4, 1$ y genera $a^4 + 4a^3b + 6a^2b^2 + 4ab^3 + b^4$."
+        },
+        {
+          "letter": "C",
+          "text": "$1, 2, 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos coeficientes corresponden a $(a + b)^2$."
+        },
+        {
+          "letter": "D",
+          "text": "$1, 5, 10, 10, 5, 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos coeficientes corresponden a $(a + b)^5$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cada fila del triángulo de Pascal se forma sumando los dos números superiores. La fila $1, 3, 3, 1$ genera la siguiente: $1, 4, 6, 4, 1$, que son exactamente los coeficientes de $(a + b)^4$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W05-productos-notables-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W05-productos-notables-001-MASTERY-bundle-v10",
+      "statement": "¿A qué expresión equivale la diferencia $(x + 5)^2 - (x - 5)^2$?",
+      "context": "En Armenia, se comparan las áreas de dos cuadrados de lados $(x + 5)$ y $(x - 5)$ para un diseño de baldosas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$50$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las constantes $25$ y $25$ se cancelan, pero los términos en $x$ no."
+        },
+        {
+          "letter": "B",
+          "text": "$2x^2 + 50$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso resultaría de sumar los cuadrados, no de restarlos."
+        },
+        {
+          "letter": "C",
+          "text": "$10x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada cuadrado aporta $10x$: $(x^2 + 10x + 25) - (x^2 - 10x + 25) = 20x$."
+        },
+        {
+          "letter": "D",
+          "text": "$20x$",
+          "is_correct": true,
+          "feedback": "Correcto. $(x^2 + 10x + 25) - (x^2 - 10x + 25) = 20x$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Al restar, los términos $x^2$ y $25$ se eliminan y los términos lineales se suman: $10x - (-10x) = 20x$. Geométricamente, la diferencia de las dos áreas crece linealmente con $x$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W05-productos-notables-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W05-productos-notables-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es el valor de $x + y$?",
+      "context": "En Cúcuta, se sabe que $x^2 + y^2 = 29$ y que $xy = 10$, con $x + y$ positivo. Se quiere hallar $x + y$ sin hallar $x$ ni $y$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$7$",
+          "is_correct": true,
+          "feedback": "Correcto. $(x + y)^2 = x^2 + 2xy + y^2 = 29 + 20 = 49$, luego $x + y = 7$."
+        },
+        {
+          "letter": "B",
+          "text": "$49$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $49$ es el valor de $(x + y)^2$; falta extraer la raíz cuadrada."
+        },
+        {
+          "letter": "C",
+          "text": "$9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $9^2 = 81$, que exigiría $x^2 + y^2 = 61$ con $xy = 10$."
+        },
+        {
+          "letter": "D",
+          "text": "$5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $5^2 = 25$, menor que $29$, imposible con $xy$ positivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La identidad clave es $(x + y)^2 = x^2 + 2xy + y^2$. Sustituyendo: $29 + 2(10) = 49$. Como $x + y$ es positivo, $x + y = \\sqrt{49} = 7$. Esta técnica evita resolver el sistema completo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-8-2026-W05-productos-notables-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W05-productos-notables-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el resultado de $103 \\times 97$ visto como diferencia de cuadrados?",
+      "context": "En Ibagué, una ferretería calcula $103 \\times 97$ como $(100 + 3)(100 - 3)$ para dar el cambio rápido en pesos COP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10009$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $100^2 + 3^2$ en lugar de restar: $10000 + 9$."
+        },
+        {
+          "letter": "B",
+          "text": "$9909$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste $91$ en vez de $9$; el cuadrado de $3$ es $9$."
+        },
+        {
+          "letter": "C",
+          "text": "$9991$",
+          "is_correct": true,
+          "feedback": "Correcto. $(100 + 3)(100 - 3) = 100^2 - 3^2 = 10000 - 9 = 9991$."
+        },
+        {
+          "letter": "D",
+          "text": "$9791$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor correspondería a $100^2 - 209$, no a $3^2$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Dos números equidistantes de $100$ forman binomios conjugados. Su producto es la diferencia de cuadrados $100^2 - 3^2 = 10000 - 9 = 9991$, mucho más rápido que la multiplicación vertical tradicional.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-8-2026-W05-productos-notables-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

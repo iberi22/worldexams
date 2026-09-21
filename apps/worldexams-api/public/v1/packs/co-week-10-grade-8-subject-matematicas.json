@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-10-grade-8-subject-matematicas",
+    "generated_at": "2026-09-21T22:09:29.596Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-8-2026-W10-probabilidad-simple-001-MASTERY-bundle-v1",
+      "statement": "Al lanzar una moneda legal una sola vez, ¿cuál es el espacio muestral del experimento aleatorio?",
+      "context": "En Medellín, el colegio organiza un juego con una moneda para decidir quién inicia un torneo de fútbol.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "{cara, sello}",
+          "is_correct": true,
+          "feedback": "Correcto. Son los dos resultados posibles y distintos del lanzamiento."
+        },
+        {
+          "letter": "B",
+          "text": "{cara}",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta incluir el resultado sello."
+        },
+        {
+          "letter": "C",
+          "text": "{1, 2, 3, 4, 5, 6}",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el espacio muestral de un dado, no de una moneda."
+        },
+        {
+          "letter": "D",
+          "text": "{cara, sello, borde}",
+          "is_correct": false,
+          "feedback": "Incorrecto. En este experimento solo se consideran cara y sello."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un experimento es aleatorio cuando no se puede predecir el resultado con certeza. El espacio muestral es el conjunto de todos los resultados posibles. Para una moneda es {cara, sello}, con 2 elementos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W10-probabilidad-simple-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W10-probabilidad-simple-001-MASTERY-bundle-v2",
+      "statement": "Si se saca una balota al azar, ¿cuál es la probabilidad de obtener una balota roja según la regla de Laplace?",
+      "context": "En Cartagena, una clase de grado 8 juega con una bolsa que tiene 3 balotas rojas y 2 balotas azules, todas del mismo tamaño y peso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2/5",
+          "is_correct": false,
+          "feedback": "Incorrecto. 2/5 es la probabilidad de sacar una balota azul."
+        },
+        {
+          "letter": "B",
+          "text": "3/5",
+          "is_correct": true,
+          "feedback": "Correcto. Hay 3 casos favorables entre 5 casos posibles: 3/5."
+        },
+        {
+          "letter": "C",
+          "text": "3/2",
+          "is_correct": false,
+          "feedback": "Incorrecto. La probabilidad no puede ser mayor que 1."
+        },
+        {
+          "letter": "D",
+          "text": "1/5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor corresponde a una sola balota, no a las 3 rojas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La regla de Laplace establece que P = casos favorables / casos posibles cuando todos son equiprobables. Aquí hay 3 rojas favorables y 5 balotas en total, por tanto P = 3/5 = 0.6.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W10-probabilidad-simple-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W10-probabilidad-simple-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la probabilidad de obtener un número par?",
+      "context": "En Cali, en la feria escolar se lanza un dado legal de 6 caras numeradas del 1 al 6.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo contaste 2 números pares en lugar de 3."
+        },
+        {
+          "letter": "B",
+          "text": "1/6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor para un solo número, no para los tres pares."
+        },
+        {
+          "letter": "C",
+          "text": "1/2",
+          "is_correct": true,
+          "feedback": "Correcto. Los pares son 2, 4 y 6: 3 casos de 6, es decir 3/6 = 1/2."
+        },
+        {
+          "letter": "D",
+          "text": "2/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contaste 4 casos favorables en lugar de 3."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Casos favorables: {2, 4, 6} = 3. Casos posibles: 6. Entonces P = 3/6 = 1/2 = 0.5. También se puede expresar como 50 por ciento.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W10-probabilidad-simple-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W10-probabilidad-simple-001-MASTERY-bundle-v4",
+      "statement": "Si se extrae una boleta al azar, ¿cuál es la probabilidad de que sea amarilla?",
+      "context": "En Bogotá, una rifa escolar tiene una urna con 4 boletas amarillas y 6 boletas verdes, bien mezcladas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3/5",
+          "is_correct": false,
+          "feedback": "Incorrecto. 3/5 corresponde a la probabilidad de sacar verde simplificada de forma errónea."
+        },
+        {
+          "letter": "B",
+          "text": "1/2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor supondría 5 boletas amarillas de 10."
+        },
+        {
+          "letter": "C",
+          "text": "1/5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contaste solo 2 boletas amarillas en lugar de 4."
+        },
+        {
+          "letter": "D",
+          "text": "2/5",
+          "is_correct": true,
+          "feedback": "Correcto. Hay 4 amarillas entre 10 totales: 4/10 = 2/5."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Total = 4 + 6 = 10. Favorables = 4. Por Laplace, P = 4/10 = 2/5 = 0.4. Esto significa que de cada 10 extracciones se espera obtener unas 4 amarillas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W10-probabilidad-simple-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W10-probabilidad-simple-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la probabilidad empírica de obtener cara según esa tabla de frecuencia?",
+      "context": "En Pereira, los estudiantes lanzaron una moneda 200 veces para una tabla de frecuencia y obtuvieron cara 120 veces.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/2",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1/2 es la probabilidad teórica, no la frecuencia observada 120/200."
+        },
+        {
+          "letter": "B",
+          "text": "3/5",
+          "is_correct": true,
+          "feedback": "Correcto. La frecuencia relativa es 120/200 = 12/20 = 3/5."
+        },
+        {
+          "letter": "C",
+          "text": "2/5",
+          "is_correct": false,
+          "feedback": "Incorrecto. 2/5 corresponde al complemento, es decir a la frecuencia de sello."
+        },
+        {
+          "letter": "D",
+          "text": "3/4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor supondría 150 caras en 200 lanzamientos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La probabilidad empírica se calcula como frecuencia observada / total de ensayos. Aquí 120/200 se simplifica dividiendo entre 40: 3/5 = 0.6, que está cercana al valor teórico 0.5 pero refleja lo observado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W10-probabilidad-simple-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W10-probabilidad-simple-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la probabilidad de obtener dos caras al lanzar las dos monedas?",
+      "context": "En Barranquilla, un juego de feria que cuesta 2000 COP consiste en lanzar dos monedas al tiempo. Se gana si salen dos caras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/4",
+          "is_correct": true,
+          "feedback": "Correcto. Solo hay 1 caso favorable (cara, cara) entre 4 resultados equiprobables."
+        },
+        {
+          "letter": "B",
+          "text": "1/2",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1/2 es la probabilidad de una sola moneda, no del evento compuesto."
+        },
+        {
+          "letter": "C",
+          "text": "1/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. El espacio muestral tiene 4 elementos, no 3."
+        },
+        {
+          "letter": "D",
+          "text": "2/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contaste 2 casos favorables de 3 posibles, lo cual es erróneo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El espacio muestral de dos monedas es {(cara,cara), (cara,sello), (sello,cara), (sello,sello)} con 4 resultados equiprobables. Solo 1 es dos caras, por tanto P = 1/4 = 0.25.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-8-2026-W10-probabilidad-simple-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W10-probabilidad-simple-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la probabilidad de que la suma de los dos dados sea 7?",
+      "context": "En Bucaramanga, en el bazar del colegio se lanzan dos dados legales. El premio de 10000 COP se entrega si la suma es 7.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7/36",
+          "is_correct": false,
+          "feedback": "Incorrecto. El numerador 7 no cuenta los pares ordenados que suman 7."
+        },
+        {
+          "letter": "B",
+          "text": "5/36",
+          "is_correct": false,
+          "feedback": "Incorrecto. Faltó contar uno de los 6 pares que suman 7."
+        },
+        {
+          "letter": "C",
+          "text": "1/6",
+          "is_correct": true,
+          "feedback": "Correcto. Hay 6 pares favorables entre 36 posibles: 6/36 = 1/6."
+        },
+        {
+          "letter": "D",
+          "text": "1/7",
+          "is_correct": false,
+          "feedback": "Incorrecto. El total de resultados posibles con dos dados es 36, no 7."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los pares que suman 7 son (1,6), (2,5), (3,4), (4,3), (5,2) y (6,1): 6 casos. El total es 6 por 6 = 36. Por tanto P = 6/36 = 1/6, aproximadamente 0.1667.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-8-2026-W10-probabilidad-simple-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W10-probabilidad-simple-001-MASTERY-bundle-v8",
+      "statement": "Si se elige un estudiante al azar, ¿cuál es la probabilidad de que llegue en bicicleta?",
+      "context": "En Manizales, se encuestó a 60 estudiantes sobre cómo llegan al colegio: 25 en bus, 15 en bicicleta, 12 a pie y 8 en moto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5/12",
+          "is_correct": false,
+          "feedback": "Incorrecto. 5/12 es la probabilidad de que llegue en bus (25/60)."
+        },
+        {
+          "letter": "B",
+          "text": "1/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor supondría 20 estudiantes en bicicleta."
+        },
+        {
+          "letter": "C",
+          "text": "1/5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor supondría 12 estudiantes en bicicleta."
+        },
+        {
+          "letter": "D",
+          "text": "1/4",
+          "is_correct": true,
+          "feedback": "Correcto. Hay 15 en bicicleta entre 60 estudiantes: 15/60 = 1/4."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La tabla de frecuencia permite usar la frecuencia relativa como probabilidad empírica. Total = 25 + 15 + 12 + 8 = 60. Favorables = 15. Entonces P = 15/60 = 1/4 = 0.25.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-8-2026-W10-probabilidad-simple-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W10-probabilidad-simple-001-MASTERY-bundle-v9",
+      "statement": "¿Es un juego justo para el jugador y por qué?",
+      "context": "En Medellín, un juego de feria cuesta 2000 COP por intento. Se lanza un dado y si sale 6 se entregan 6000 COP de premio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí es justo, porque la probabilidad de ganar es 1/6 y el premio es mayor que el costo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que el premio sea mayor no basta; se debe comparar el valor esperado con el costo."
+        },
+        {
+          "letter": "B",
+          "text": "No es justo, porque el valor esperado del premio es 1000 COP y es menor que el costo de 2000 COP.",
+          "is_correct": true,
+          "feedback": "Correcto. El promedio 6000 por 1/6 = 1000 COP muestra pérdida media de 1000 COP."
+        },
+        {
+          "letter": "C",
+          "text": "Sí es justo, porque el dado tiene 6 resultados equiprobables.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La equiprobabilidad no garantiza que el pago compense el costo."
+        },
+        {
+          "letter": "D",
+          "text": "No es justo, porque la probabilidad de perder es 5/6 y eso siempre hace injusto cualquier juego.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un juego puede ser justo con baja probabilidad si el premio es suficientemente alto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un juego es justo cuando el valor esperado iguala al costo. Aquí E = 6000 por 1/6 = 1000 COP. Como el costo es 2000 COP, la ganancia neta esperada es 1000 menos 2000 = menos 1000 COP. El jugador pierde en promedio, por tanto el juego es desfavorable y no es justo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W10-probabilidad-simple-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W10-probabilidad-simple-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál juego conviene elegir si se quiere maximizar la probabilidad de ganar?",
+      "context": "En Bogotá, el curso debe elegir entre dos juegos para la fiesta. Juego A: sacar balota blanca de una urna con 3 blancas y 7 negras. Juego B: lanzar dos monedas y ganar si sale al menos una cara.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El juego B, porque 3/4 es mayor que 3/10.",
+          "is_correct": true,
+          "feedback": "Correcto. 0.75 supera a 0.3, por lo cual el juego B ofrece mayor probabilidad."
+        },
+        {
+          "letter": "B",
+          "text": "El juego A, porque 3/10 es mayor que 1/4.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La probabilidad del juego B no es 1/4 sino 3/4."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos son iguales, porque los dos tienen 3 casos favorables.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El total de casos posibles es distinto: 10 frente a 4."
+        },
+        {
+          "letter": "D",
+          "text": "El juego A, porque una urna con 10 balotas da más oportunidades que dos monedas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Más resultados posibles no implica mayor probabilidad si los favorables no crecen igual."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Juego A: P = 3 entre 10 = 3/10 = 0.3. Juego B: espacio de 4 resultados y son favorables (cara,cara), (cara,sello) y (sello,cara): 3/4 = 0.75. Como 0.75 es mayor que 0.3, conviene el juego B.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W10-probabilidad-simple-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W10-probabilidad-simple-001-MASTERY-bundle-v11",
+      "statement": "¿Es un juego justo para quien compra la boleta?",
+      "context": "En Pasto, una rifa de 5000 COP por boleta premia con 30000 COP si al lanzar dos dados la suma es mayor que 9.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, porque la probabilidad es 5/36 y el valor esperado es menor que el costo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La probabilidad de suma mayor que 9 es 6/36, no 5/36."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque hay 3 sumas ganadoras (10, 11 y 12) y eso compensa el costo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No basta contar las sumas; cada suma tiene distinto número de pares."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque la probabilidad es 1/6 y el valor esperado 5000 COP iguala el costo.",
+          "is_correct": true,
+          "feedback": "Correcto. 30000 por 1/6 = 5000 COP, que es igual al precio de la boleta."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque la probabilidad de perder es 5/6 y el premio debería ser mayor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con premio de 30000 COP el cálculo da igualdad exacta entre valor esperado y costo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Sumas mayores que 9: 10 con 3 pares, 11 con 2 pares y 12 con 1 par, en total 6 pares de 36. P = 6/36 = 1/6. Valor esperado = 30000 por 1/6 = 5000 COP. Como el costo es 5000 COP, el juego es justo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-8-2026-W10-probabilidad-simple-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W10-probabilidad-simple-001-MASTERY-bundle-v12",
+      "statement": "Un estudiante afirma que la ruleta es justa porque tiene 4 colores. ¿Es correcta esa afirmación?",
+      "context": "En Cúcuta, una ruleta de 4 colores se giró 300 veces en la semana cultural: rojo 120 veces, azul 90 veces, verde 60 veces y amarillo 30 veces.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque cada color apareció al menos 30 veces.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que todos aparezcan no prueba que las probabilidades sean iguales."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque el total 300 es múltiplo de 4.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El total divisible entre 4 no garantiza equiprobabilidad."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque la frecuencia de rojo 120/300 = 2/5 está cerca de 1/4.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 0.4 está lejos de 0.25 y el amarillo solo llega a 0.1."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque las frecuencias relativas 0.4, 0.3, 0.2 y 0.1 muestran que no son equiprobables.",
+          "is_correct": true,
+          "feedback": "Correcto. Si fuera justa, cada color debería acercarse a 75 de 300, es decir 0.25."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Si la ruleta fuera justa con 4 sectores iguales, cada color tendría probabilidad teórica 1/4 = 0.25 y en 300 giros se esperarían unas 75 apariciones por color. Las frecuencias observadas son 120/300 = 0.4, 90/300 = 0.3, 60/300 = 0.2 y 30/300 = 0.1, muy alejadas de 0.25. Por tanto la evidencia empírica refuta la afirmación y la ruleta no es justa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-8-2026-W10-probabilidad-simple-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

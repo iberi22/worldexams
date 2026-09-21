@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-7-grade-8-subject-matematicas",
+    "generated_at": "2026-09-21T22:09:29.594Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-8-2026-W07-fracciones-algebraicas-001-MASTERY-bundle-v1",
+      "statement": "¿Para cuál valor de $x$ la fracción no está definida?",
+      "context": "En Bogotá, un estudiante analiza la fracción algebraica $\\frac{x+5}{x-4}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $x = 5$ el numerador vale $10$, pero el denominador vale $1$; la fracción sí está definida."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 4$",
+          "is_correct": true,
+          "feedback": "Correcto. Si $x = 4$, el denominador vale $4 - 4 = 0$ y la división entre cero no está definida."
+        },
+        {
+          "letter": "C",
+          "text": "$x = -5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $x = -5$ el numerador vale $0$, y $0$ dividido entre $-9$ es $0$; la fracción sí está definida."
+        },
+        {
+          "letter": "D",
+          "text": "$x = -4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $x = -4$ el denominador vale $-8$, que es distinto de cero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una fracción algebraica no está definida cuando su denominador es cero. Como $x - 4 = 0 \\implies x = 4$, la restricción del dominio es $x \\neq 4$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W07-fracciones-algebraicas-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W07-fracciones-algebraicas-001-MASTERY-bundle-v2",
+      "statement": "¿Qué expresión se obtiene al simplificar completamente la fracción?",
+      "context": "En Medellín, Valeria simplifica la fracción algebraica $\\frac{6x^2}{3x}$ con $x \\neq 0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste los coeficientes pero eliminaste la variable $x$ por completo."
+        },
+        {
+          "letter": "B",
+          "text": "$3x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste $6 \\div 2$ en lugar de $6 \\div 3$."
+        },
+        {
+          "letter": "C",
+          "text": "$2x^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste los coeficientes pero no restaste los exponentes de $x$."
+        },
+        {
+          "letter": "D",
+          "text": "$2x$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{6x^2}{3x} = \\frac{6}{3} \\cdot \\frac{x^2}{x} = 2x$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Se dividen los coeficientes $6 \\div 3 = 2$ y se restan los exponentes de la variable $x^{2-1} = x$. Por tanto, la fracción simplificada es $2x$, válida para $x \\neq 0$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W07-fracciones-algebraicas-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W07-fracciones-algebraicas-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la expresión simplificada de la fracción?",
+      "context": "En Cali, un docente pide simplificar $\\frac{x^2-9}{x+3}$ con $x \\neq -3$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x - 3$",
+          "is_correct": true,
+          "feedback": "Correcto. $x^2 - 9 = (x-3)(x+3)$; al cancelar el factor $(x+3)$ queda $x - 3$."
+        },
+        {
+          "letter": "B",
+          "text": "$x + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cancelaste el factor equivocado: eliminaste $(x-3)$ en lugar de $(x+3)$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 - 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede restar el denominador del exponente; primero hay que factorizar."
+        },
+        {
+          "letter": "D",
+          "text": "$2x - 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los términos en lugar de factorizar la diferencia de cuadrados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El numerador es una diferencia de cuadrados: $x^2 - 9 = (x-3)(x+3)$. Entonces $\\frac{(x-3)(x+3)}{x+3} = x - 3$, con la restricción $x \\neq -3$ heredada del denominador original.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W07-fracciones-algebraicas-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W07-fracciones-algebraicas-001-MASTERY-bundle-v4",
+      "statement": "¿Qué fracción equivalente se obtiene?",
+      "context": "En Barranquilla, Tomás amplifica la fracción $\\frac{2}{x+1}$ multiplicando el numerador y el denominador por $(x-1)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{2x-1}{x^2-1}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste solo la $x$ del numerador por $1$ en lugar de multiplicar todo el $2$ por $(x-1)$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{2}{x^2-1}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste solo el denominador por $(x-1)$ y dejaste el numerador sin amplificar."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{2(x-1)}{(x+1)(x-1)}$",
+          "is_correct": true,
+          "feedback": "Correcto. Al multiplicar numerador y denominador por $(x-1)$ se obtiene $\\frac{2(x-1)}{(x+1)(x-1)}$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{2(x-1)}{x+1}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste solo el numerador y olvidaste multiplicar el denominador."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Amplificar significa multiplicar el numerador y el denominador por la misma expresión no nula. Así, $\\frac{2}{x+1} = \\frac{2(x-1)}{(x+1)(x-1)}$, cuyo denominador también puede escribirse como $x^2 - 1$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W07-fracciones-algebraicas-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W07-fracciones-algebraicas-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la fracción total del fondo que representan los dos aportes juntos?",
+      "context": "En Ibagué, dos aportes para un festival cultural representan $\\frac{3}{x+2}$ y $\\frac{5}{x+2}$ de un fondo de $80.000$ COP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{8}{2x+4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste también los denominadores; con igual denominador este se conserva."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{8}{x+2}$",
+          "is_correct": true,
+          "feedback": "Correcto. Con igual denominador se suman los numeradores: $3 + 5 = 8$, y se conserva $x + 2$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{15}{x+2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste los numeradores $3 \\times 5 = 15$ en lugar de sumarlos."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{8}{(x+2)^2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste los denominadores; eso corresponde a una multiplicación, no a una suma."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para sumar fracciones con igual denominador se suman los numeradores y se conserva el denominador común: $\\frac{3}{x+2} + \\frac{5}{x+2} = \\frac{3+5}{x+2} = \\frac{8}{x+2}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W07-fracciones-algebraicas-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W07-fracciones-algebraicas-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el resultado correcto de la resta?",
+      "context": "En Cartagena, una estudiante calcula la resta $\\frac{5x}{x-3} - \\frac{2x+6}{x-3}$ con $x \\neq 3$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{3x+6}{x-3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No distribuiste el signo menos: restaste $2x$ pero sumaste el $6$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{7x+6}{x-3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los numeradores en lugar de restarlos."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{3x}{x-3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste $5x - 2x$ pero olvidaste incluir el $6$ del segundo numerador."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{3x-6}{x-3}$",
+          "is_correct": true,
+          "feedback": "Correcto. $5x - (2x+6) = 3x - 6$, conservando el denominador $x - 3$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Con igual denominador se opera solo con los numeradores, cuidando el signo: $\\frac{5x - (2x+6)}{x-3} = \\frac{5x - 2x - 6}{x-3} = \\frac{3x-6}{x-3}$. El resultado también puede factorizarse como $\\frac{3(x-2)}{x-3}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-8-2026-W07-fracciones-algebraicas-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W07-fracciones-algebraicas-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la suma expresada como una sola fracción?",
+      "context": "En Bucaramanga, un grupo de grado octavo suma $\\frac{1}{x} + \\frac{2}{x+1}$ con $x \\neq 0$ y $x \\neq -1$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{3x+1}{x(x+1)}$",
+          "is_correct": true,
+          "feedback": "Correcto. Con denominador común $x(x+1)$: $(x+1) + 2x = 3x + 1$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{3}{x(x+1)}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste solo los numeradores $1 + 2 = 3$ sin amplificar cada fracción."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{3}{2x+1}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste numeradores con numeradores y denominadores con denominadores, lo cual no es válido."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{2x+1}{x(x+1)}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Amplificaste bien la segunda fracción, pero en la primera olvidaste multiplicar el $1$ por $(x+1)$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El mínimo común denominador es $x(x+1)$. Amplificando: $\\frac{1(x+1)}{x(x+1)} + \\frac{2x}{x(x+1)} = \\frac{x+1+2x}{x(x+1)} = \\frac{3x+1}{x(x+1)}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-8-2026-W07-fracciones-algebraicas-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W07-fracciones-algebraicas-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el producto simplificado?",
+      "context": "En Pasto, se multiplica $\\frac{x^2-4}{x} \\cdot \\frac{3x}{x+2}$ con $x \\neq 0$ y $x \\neq -2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3(x+2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Factorizaste con el signo equivocado: $x^2 - 4 = (x-2)(x+2)$, no $(x+2)(x+2)$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{3(x^2-4)}{x+2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cancelaste la $x$ pero olvidaste cancelar el factor común $(x+2)$."
+        },
+        {
+          "letter": "C",
+          "text": "$3(x-2)$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{(x-2)(x+2)}{x} \\cdot \\frac{3x}{x+2} = 3(x-2)$ tras cancelar $x$ y $(x+2)$."
+        },
+        {
+          "letter": "D",
+          "text": "$3x(x-2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cancelaste el factor $(x+2)$ pero olvidaste cancelar la $x$ del numerador con la del denominador."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Primero se factoriza: $\\frac{(x-2)(x+2)}{x} \\cdot \\frac{3x}{x+2}$. Luego se cancelan los factores comunes $x$ y $(x+2)$, y queda $3(x-2)$, con las restricciones $x \\neq 0$ y $x \\neq -2$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-8-2026-W07-fracciones-algebraicas-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W07-fracciones-algebraicas-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el resultado simplificado de la división?",
+      "context": "En Pereira, un estudiante divide $\\frac{x^2-1}{2x} \\div \\frac{x+1}{4}$ con $x \\neq 0$ y $x \\neq -1$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{x-1}{2x}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cancelaste el $4$ con el $2$ sin invertir la segunda fracción; dividir no es simplificar en cruz directamente."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{2(x-1)}{x}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{(x-1)(x+1)}{2x} \\cdot \\frac{4}{x+1} = \\frac{4(x-1)}{2x} = \\frac{2(x-1)}{x}$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{2x}{x-1}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el resultado final: el factor $(x-1)$ debe quedar en el numerador."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{x-1}{x}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplicaste bien el recíproco y la factorización, pero perdiste el factor $2$ al simplificar $\\frac{4}{2}$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dividir entre una fracción equivale a multiplicar por su recíproco: $\\frac{x^2-1}{2x} \\cdot \\frac{4}{x+1}$. Como $x^2 - 1 = (x-1)(x+1)$, se cancela $(x+1)$ y $\\frac{4}{2} = 2$, de modo que el resultado es $\\frac{2(x-1)}{x}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W07-fracciones-algebraicas-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W07-fracciones-algebraicas-001-MASTERY-bundle-v10",
+      "statement": "¿Para qué valores de $x$ la fracción no está definida?",
+      "context": "En Cúcuta, se estudia el dominio de la fracción $\\frac{x+2}{(x-3)(x+5)}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = -2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $x = -2$ el numerador vale cero, pero el denominador es distinto de cero; confundes el cero del numerador con la restricción del dominio."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es cierto que en $x = 3$ se anula el denominador, pero no es el único valor que lo anula."
+        },
+        {
+          "letter": "C",
+          "text": "$x = -5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es cierto que en $x = -5$ se anula el denominador, pero falta el otro valor que también lo anula."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 3$ y $x = -5$",
+          "is_correct": true,
+          "feedback": "Correcto. El denominador $(x-3)(x+5)$ vale cero cuando $x = 3$ o cuando $x = -5$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El dominio excluye todos los valores que anulan el denominador. Como $(x-3)(x+5) = 0 \\implies x = 3$ o $x = -5$, la fracción no está definida en esos dos valores y el dominio es el conjunto de los reales excepto $3$ y $-5$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W07-fracciones-algebraicas-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W07-fracciones-algebraicas-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la expresión simplificada correcta?",
+      "context": "En Manizales, una prueba pide simplificar $\\frac{2x^2-8}{x^2-4x+4}$ con $x \\neq 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{2(x+2)}{x-2}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{2(x-2)(x+2)}{(x-2)^2} = \\frac{2(x+2)}{x-2}$ tras cancelar un factor $(x-2)$."
+        },
+        {
+          "letter": "B",
+          "text": "$2(x+2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cancelaste los dos factores $(x-2)$ del denominador con uno solo del numerador."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{x+2}{x-2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Factorizaste bien, pero perdiste el factor común $2$ del numerador."
+        },
+        {
+          "letter": "D",
+          "text": "$x + 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cancelaste todo el denominador y el factor $2$, lo cual no respeta la factorización."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se factoriza el numerador $2x^2 - 8 = 2(x^2-4) = 2(x-2)(x+2)$ y el denominador $x^2-4x+4 = (x-2)^2$. Al cancelar un factor común $(x-2)$ queda $\\frac{2(x+2)}{x-2}$, manteniendo la restricción $x \\neq 2$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-8-2026-W07-fracciones-algebraicas-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W07-fracciones-algebraicas-001-MASTERY-bundle-v12",
+      "statement": "¿Qué evaluación de la afirmación de Camila es correcta?",
+      "context": "En Armenia, Camila afirma que $\\frac{x^2-25}{x-5} = x+5$ para todo número real $x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta para todo $x$ real, porque la factorización elimina la restricción del denominador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Simplificar no elimina la restricción original: el denominador $x - 5$ sigue prohibiendo un valor."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es falsa para todo $x$, porque $x^2 - 25$ no se puede factorizar como $(x-5)(x+5)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La factorización $(x-5)(x+5) = x^2 - 25$ sí es correcta; el error está en ignorar el dominio."
+        },
+        {
+          "letter": "C",
+          "text": "La igualdad es válida solo cuando $x \\neq 5$, porque en $x = 5$ la fracción original queda $\\frac{0}{0}$ y no está definida.",
+          "is_correct": true,
+          "feedback": "Correcto. La simplificación es válida, pero conserva la restricción $x \\neq 5$ del denominador original."
+        },
+        {
+          "letter": "D",
+          "text": "La igualdad es válida excepto cuando $x = -5$, porque ese valor anula el numerador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $x = -5$ ambas expresiones valen $0$ y la igualdad se cumple; el valor problemático es $x = 5$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Como $x^2 - 25 = (x-5)(x+5)$, al cancelar $(x-5)$ se obtiene $x + 5$, pero solo si $x \\neq 5$. En $x = 5$ la expresión original es $\\frac{0}{0}$, que no está definida, mientras que $x + 5$ valdría $10$. Por eso toda simplificación hereda las restricciones del denominador original.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-8-2026-W07-fracciones-algebraicas-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}
