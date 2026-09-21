@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-34-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T06:54:47.615Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-6-2026-W34-sistema-excretor-humano-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la función principal del sistema excretor humano?",
+      "context": "En un colegio de Medellín, la profesora explica que las células producen desechos y que el cuerpo debe eliminarlos para mantenerse sano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eliminar los desechos que producen las células y regular el agua y las sales del cuerpo",
+          "is_correct": true,
+          "feedback": "Correcto. La excreción retira desechos y mantiene el equilibrio interno."
+        },
+        {
+          "letter": "B",
+          "text": "Producir el oxígeno que usan las células para obtener energía",
+          "is_correct": false,
+          "feedback": "Incorrecto. El oxígeno lo toma el sistema respiratorio del aire."
+        },
+        {
+          "letter": "C",
+          "text": "Transportar la sangre desde el corazón hacia todo el cuerpo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función del sistema circulatorio."
+        },
+        {
+          "letter": "D",
+          "text": "Transformar los alimentos en sustancias simples dentro del estómago",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso corresponde a la digestión, no a la excreción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El sistema excretor cumple dos funciones relacionadas: retira del cuerpo los desechos del metabolismo celular y regula la cantidad de agua y de sales disueltas, de modo que el medio interno se mantenga estable aunque cambien las condiciones externas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-6-2026-W34-sistema-excretor-humano-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W34-sistema-excretor-humano-001-MASTERY-bundle-v2",
+      "statement": "¿Qué órganos filtran la sangre y forman la orina en el cuerpo humano?",
+      "context": "En una consulta de un puesto de salud de Cali, una niña pregunta al médico qué órganos se encargan de filtrar la sangre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los riñones, que retiran de la sangre los desechos y el exceso de agua para formar la orina",
+          "is_correct": true,
+          "feedback": "Correcto. Los riñones son los órganos filtradores del sistema urinario."
+        },
+        {
+          "letter": "B",
+          "text": "Los pulmones, que filtran la sangre y expulsan la orina con la respiración",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los pulmones intercambian gases, no forman orina."
+        },
+        {
+          "letter": "C",
+          "text": "El hígado y el páncreas, que producen directamente la orina",
+          "is_correct": false,
+          "feedback": "Incorrecto. El hígado participa en la excreción, pero no forma la orina."
+        },
+        {
+          "letter": "D",
+          "text": "El estómago y el intestino delgado, que eliminan la orina con las heces",
+          "is_correct": false,
+          "feedback": "Incorrecto. La orina sale por las vías urinarias, no con las heces."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los riñones contienen millones de unidades filtradoras llamadas nefronas: allí la sangre se filtra, se reabsorben el agua y las sustancias útiles, y lo que sobra se convierte en orina, que baja por los uréteres hasta la vejiga y sale por la uretra.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-6-2026-W34-sistema-excretor-humano-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W34-sistema-excretor-humano-001-MASTERY-bundle-v3",
+      "statement": "¿Qué explicación corresponde a lo que ocurrió con la orina del estudiante?",
+      "context": "En Barranquilla, durante una jornada deportiva un estudiante suda mucho y bebe muy poca agua; al final del día nota que va menos veces al baño.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se produce menos orina y más concentrada, porque el cuerpo pierde agua con el sudor y la retiene para mantener el equilibrio",
+          "is_correct": true,
+          "feedback": "Correcto. Al perder agua, el riñón la conserva y concentra la orina."
+        },
+        {
+          "letter": "B",
+          "text": "Se produce mucha más orina y muy diluida, porque el cuerpo intenta eliminar el sudor",
+          "is_correct": false,
+          "feedback": "Incorrecto. La orina disminuye cuando el cuerpo pierde agua."
+        },
+        {
+          "letter": "C",
+          "text": "La orina deja de contener desechos y por eso casi no se produce",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los desechos siguen eliminándose, pero en menos agua."
+        },
+        {
+          "letter": "D",
+          "text": "Los riñones dejan de funcionar de inmediato por la sudoración",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los riñones siguen funcionando y ajustan la cantidad de agua eliminada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando el cuerpo pierde agua por el sudor, los riñones reabsorben más cantidad de líquido para no deshidratarse; por eso la orina se vuelve escasa y oscura. Al beber agua suficiente, la orina vuelve a ser abundante y clara, señal de una buena hidratación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-6-2026-W34-sistema-excretor-humano-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W34-sistema-excretor-humano-001-MASTERY-bundle-v4",
+      "statement": "¿Por qué beber suficiente agua ayuda a cuidar los riñones?",
+      "context": "En un municipio de la ribera del río Magdalena, el médico recomienda a un paciente que aumente el consumo diario de agua potable.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el agua permite disolver mejor los desechos y facilita que los riñones los eliminen sin concentrar demasiado la orina",
+          "is_correct": true,
+          "feedback": "Correcto. Con buena hidratación los desechos se eliminan con mayor facilidad."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el agua limpia directamente los pulmones durante la respiración",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua actúa en la filtración renal, no en los pulmones."
+        },
+        {
+          "letter": "C",
+          "text": "Porque así los riñones producen más glóbulos rojos para la sangre",
+          "is_correct": false,
+          "feedback": "Incorrecto. La formación de glóbulos rojos depende de la médula ósea."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el agua reemplaza a los riñones en la función de filtrar la sangre",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los riñones siguen filtrando; el agua solo facilita su trabajo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el concepto de excreción a los hábitos diarios permite entender por qué la hidratación es clave: con poca agua, los desechos se concentran y aumenta el riesgo de cálculos renales y de infecciones urinarias; con agua suficiente, la filtración es más eficiente y los riñones trabajan con menor esfuerzo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-6-2026-W34-sistema-excretor-humano-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W34-sistema-excretor-humano-001-MASTERY-bundle-v5",
+      "statement": "¿Qué relación tiene el sudor con la función excretora del cuerpo?",
+      "context": "En Bogotá, un corredor termina una carrera con la ropa empapada de sudor y la piel cubierta de sales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La piel también excreta: con el sudor elimina agua, sales y pequeñas cantidades de desechos como la urea",
+          "is_correct": true,
+          "feedback": "Correcto. Las glándulas sudoríparas participan en la excreción."
+        },
+        {
+          "letter": "B",
+          "text": "El sudor no tiene ninguna relación con la excreción, solo sirve para mojar la piel",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sudor elimina agua, sales y desechos."
+        },
+        {
+          "letter": "C",
+          "text": "Con el sudor se elimina el oxígeno que sobra en el organismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El oxígeno se transporta en la sangre, no se excreta por el sudor."
+        },
+        {
+          "letter": "D",
+          "text": "Con el sudor se eliminan los alimentos que no alcanzaron a digerirse",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los restos de alimentos salen por el sistema digestivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La piel es el órgano excretor más extenso: mediante las glándulas sudoríparas libera agua, sales minerales y pequeñas cantidades de urea, y al mismo tiempo regula la temperatura corporal. Por eso la sudoración abundante exige reponer agua y sales para evitar la deshidratación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-6-2026-W34-sistema-excretor-humano-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W34-sistema-excretor-humano-001-MASTERY-bundle-v6",
+      "statement": "¿Qué análisis explica mejor la diferencia entre las dos muestras?",
+      "context": "En un laboratorio escolar de Cali, los estudiantes observan dos muestras de orina: la primera, abundante y clara, corresponde a una compañera que bebió agua antes de la clase; la segunda, escasa y oscura, a un compañero que llevaba varias horas sin beber.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La muestra abundante y clara refleja exceso de agua eliminada, mientras que la escasa y oscura indica que el cuerpo retuvo líquido y concentró los desechos",
+          "is_correct": true,
+          "feedback": "Correcto. El color y el volumen informan sobre el estado de hidratación."
+        },
+        {
+          "letter": "B",
+          "text": "La muestra oscura contiene más agua que la clara, por eso se ve más concentrada",
+          "is_correct": false,
+          "feedback": "Incorrecto. La muestra oscura tiene menos agua y más desechos disueltos."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos muestras son idénticas y el color depende solo del recipiente",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color y el volumen dependen del estado del organismo."
+        },
+        {
+          "letter": "D",
+          "text": "La muestra clara no contiene desechos porque el agua los destruye",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda orina contiene desechos disueltos, en mayor o menor concentración."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar muestras de orina permite comprender la función reguladora del riñón: la cantidad y el color de la orina varían según el agua disponible en el cuerpo. Una orina abundante y clara indica buena hidratación; una escasa y oscura sugiere que la persona necesita beber agua.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-6-2026-W34-sistema-excretor-humano-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W34-sistema-excretor-humano-001-MASTERY-bundle-v7",
+      "statement": "¿Por qué una persona con insuficiencia renal necesita diálisis?",
+      "context": "En un hospital de Medellín, una persona con insuficiencia renal crónica recibe tratamiento de diálisis tres veces por semana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque sus riñones no filtran bien la sangre y la diálisis retira los desechos y el exceso de agua que se acumularían en el cuerpo",
+          "is_correct": true,
+          "feedback": "Correcto. La diálisis reemplaza parcialmente la función de filtración del riñón."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la diálisis produce glóbulos rojos que el riñón ya no puede fabricar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El riñón no produce glóbulos rojos; la diálisis tampoco."
+        },
+        {
+          "letter": "C",
+          "text": "Porque sus pulmones no logran intercambiar gases durante la respiración",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema descrito es renal, no respiratorio."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la diálisis reemplaza el trabajo del corazón al bombear la sangre",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diálisis filtra la sangre, no la bombea."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando los riñones fallan, la urea, la creatinina y el exceso de agua se acumulan y resultan tóxicos. La diálisis hace circular la sangre por un filtro artificial que cumple parte de esa función, pero es un tratamiento de reemplazo: no cura la enfermedad, por eso algunos pacientes requieren un trasplante de riñón.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-6-2026-W34-sistema-excretor-humano-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W34-sistema-excretor-humano-001-MASTERY-bundle-v8",
+      "statement": "¿Qué análisis explica la relación entre el hígado y los riñones en la excreción?",
+      "context": "En una exposición de un colegio de Pereira, los estudiantes explican que el hígado transforma el amoníaco tóxico en urea y que los riñones eliminan la urea con la orina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El hígado convierte el amoníaco en urea, sustancia menos tóxica, y los riñones la eliminan por la orina, de modo que el cuerpo se libra del desecho nitrogenado",
+          "is_correct": true,
+          "feedback": "Correcto. Ambos órganos actúan de forma encadenada en la excreción."
+        },
+        {
+          "letter": "B",
+          "text": "El hígado filtra la orina y los riñones se encargan de producirla",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los riñones forman la orina; el hígado no la filtra."
+        },
+        {
+          "letter": "C",
+          "text": "Los riñones transforman la urea en amoníaco para almacenarlo en el cuerpo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La transformación es inversa y busca eliminar el desecho."
+        },
+        {
+          "letter": "D",
+          "text": "El hígado y los riñones no participan en la eliminación de desechos nitrogenados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos participan: uno transforma y el otro elimina."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El metabolismo de las proteínas produce amoníaco, una sustancia muy tóxica. El hígado lo convierte en urea y los riñones la filtran y la expulsan con la orina; si cualquiera de los dos órganos falla, los desechos nitrogenados se acumulan y comprometen la salud.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-6-2026-W34-sistema-excretor-humano-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W34-sistema-excretor-humano-001-MASTERY-bundle-v9",
+      "statement": "¿Qué evaluación conjunta de las tres afirmaciones es correcta?",
+      "context": "En un foro escolar de Cali, tres estudiantes afirman: 1) Beber poca agua puede favorecer la formación de cálculos renales. 2) La orina es un desecho que no aporta ninguna información sobre la salud. 3) La diálisis cura definitivamente la insuficiencia renal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La 1 es verdadera; la 2 es falsa, porque el color y la composición de la orina permiten detectar problemas de salud; y la 3 es falsa, porque la diálisis reemplaza parte de la función renal, pero no cura la enfermedad",
+          "is_correct": true,
+          "feedback": "Correcto. Distingue hidratación, valor diagnóstico de la orina y tratamiento de reemplazo."
+        },
+        {
+          "letter": "B",
+          "text": "Las tres afirmaciones son verdaderas, porque la orina no da información y la diálisis cura el riñón",
+          "is_correct": false,
+          "feedback": "Incorrecto. El examen de orina es una herramienta diagnóstica y la diálisis no cura."
+        },
+        {
+          "letter": "C",
+          "text": "Solo la 2 es verdadera, porque la hidratación no influye en los riñones",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hidratación sí influye en la formación de cálculos."
+        },
+        {
+          "letter": "D",
+          "text": "Las tres afirmaciones son falsas, porque la diálisis no tiene ninguna utilidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diálisis es indispensable para muchos pacientes renales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar estas afirmaciones exige separar tres ideas: la hidratación previene la concentración excesiva de desechos y los cálculos; la orina es una muestra valiosa para el diagnóstico, porque su color, densidad y composición revelan alteraciones; y la diálisis es un tratamiento que sustituye parcialmente la filtración, no una cura definitiva.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-6-2026-W34-sistema-excretor-humano-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W34-sistema-excretor-humano-001-MASTERY-bundle-v10",
+      "statement": "¿Qué medida conviene priorizar y por qué?",
+      "context": "En un municipio del Cauca con problemas de abastecimiento de agua potable, las autoridades deben escoger una medida para proteger la salud de la población.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Garantizar agua potable suficiente y educar sobre su consumo responsable, porque previene la deshidratación y las infecciones urinarias, y ayuda a que los riñones funcionen bien",
+          "is_correct": true,
+          "feedback": "Correcto. El agua segura y la educación protegen la salud renal a largo plazo."
+        },
+        {
+          "letter": "B",
+          "text": "Restringir el agua potable en las escuelas para ahorrar el recurso",
+          "is_correct": false,
+          "feedback": "Incorrecto. La restricción aumenta el riesgo de deshidratación y de enfermedad renal."
+        },
+        {
+          "letter": "C",
+          "text": "Promover el consumo de bebidas azucaradas en lugar de agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las bebidas azucaradas no sustituyen el agua y aportan azúcares en exceso."
+        },
+        {
+          "letter": "D",
+          "text": "Esperar a que aparezcan los síntomas renales para actuar",
+          "is_correct": false,
+          "feedback": "Incorrecto. La prevención actúa antes de que la enfermedad se presente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar esta decisión exige considerar el costo, la sostenibilidad y el bienestar de la comunidad: asegurar agua potable y enseñar a consumirla es la medida más eficaz, porque previene la deshidratación y las infecciones urinarias, mientras que negar el recurso o sustituirlo por bebidas azucaradas traslada el problema y agrava el riesgo para los riñones.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-6-2026-W34-sistema-excretor-humano-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}
