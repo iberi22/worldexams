@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-3-grade-8-subject-matematicas",
+    "generated_at": "2026-09-21T22:09:29.588Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-8-2026-W03-polinomios-suma-resta-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la reducción correcta de $3x + 5x - 2x$?",
+      "context": "En Bogotá, la profesora pide reducir la expresión $3x + 5x - 2x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6x^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al sumar términos semejantes de grado 1 el exponente no cambia, también se conserva el grado 1."
+        },
+        {
+          "letter": "B",
+          "text": "$4x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste $8x - 4x$ en lugar de $8x - 2x$; $3 + 5 = 8$ y $8 - 2 = 6$."
+        },
+        {
+          "letter": "C",
+          "text": "$6x$",
+          "is_correct": true,
+          "feedback": "Correcto. $3x + 5x = 8x$ y $8x - 2x = 6x$."
+        },
+        {
+          "letter": "D",
+          "text": "$10x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste todos los coeficientes $3 + 5 + 2 = 10$ sin restar el último término."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los términos $3x$, $5x$ y $-2x$ son semejantes porque tienen la misma variable y el mismo exponente. Solo se operan los coeficientes: $3 + 5 - 2 = 6$, por tanto el resultado es $6x$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W03-polinomios-suma-resta-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W03-polinomios-suma-resta-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la reducción correcta de $4a^2 + 2a - 3a^2 + 5a$?",
+      "context": "En Medellín, un estudiante agrupa los términos semejantes de $4a^2 + 2a - 3a^2 + 5a$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a^2 + 7a$",
+          "is_correct": true,
+          "feedback": "Correcto. $4a^2 - 3a^2 = a^2$ y $2a + 5a = 7a$."
+        },
+        {
+          "letter": "B",
+          "text": "$7a^2 + 7a$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $4 + 3 = 7$ en lugar de restar $4 - 3 = 1$ para los términos cuadráticos."
+        },
+        {
+          "letter": "C",
+          "text": "$a^2 + 3a$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Operaste $2a - 5a$ o cometiste un error al sumar $2 + 5$; la suma correcta es $7a$."
+        },
+        {
+          "letter": "D",
+          "text": "$7a^3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los términos $a^2$ y $a$ no son semejantes y no se pueden combinar en un solo término."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se agrupan por separado los términos cuadráticos y los lineales: $4a^2 - 3a^2 = a^2$ y $2a + 5a = 7a$. Como $a^2$ y $a$ no son semejantes, la expresión reducida es $a^2 + 7a$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W03-polinomios-suma-resta-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W03-polinomios-suma-resta-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el resultado de $(2x^2 + 3x - 5) + (x^2 - 2x + 4)$?",
+      "context": "En Cali, dos grupos calculan $(2x^2 + 3x - 5) + (x^2 - 2x + 4)$ para un proyecto de ciencias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3x^2 + 5x - 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $3x + 2x$ en lugar de $3x - 2x$; el coeficiente correcto de $x$ es $1$."
+        },
+        {
+          "letter": "B",
+          "text": "$3x^2 + x - 1$",
+          "is_correct": true,
+          "feedback": "Correcto. $2x^2 + x^2 = 3x^2$, $3x - 2x = x$ y $-5 + 4 = -1$."
+        },
+        {
+          "letter": "C",
+          "text": "$3x^2 + x - 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Operaste $-5 - 4 = -9$ en lugar de $-5 + 4 = -1$ en los términos independientes."
+        },
+        {
+          "letter": "D",
+          "text": "$2x^2 + x - 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar $2x^2 + x^2$; el coeficiente cuadrático es $3$ y no $2$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la suma se eliminan los paréntesis sin cambiar signos y se reducen los términos semejantes: $(2 + 1)x^2 = 3x^2$, $(3 - 2)x = x$ y $-5 + 4 = -1$. El resultado es $3x^2 + x - 1$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W03-polinomios-suma-resta-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W03-polinomios-suma-resta-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el resultado de $(5m - 3n + 2) - (2m + n - 4)$?",
+      "context": "En Barranquilla, un taller de arte calcula $(5m - 3n + 2) - (2m + n - 4)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$7m - 2n - 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste en lugar de restar y no cambiaste los signos del segundo paréntesis."
+        },
+        {
+          "letter": "B",
+          "text": "$3m - 2n - 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Operaste $-3n + n = -2n$ y $2 - 4 = -2$ sin cambiar los signos al restar."
+        },
+        {
+          "letter": "C",
+          "text": "$3m - 4n - 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiaste bien los signos de $n$ pero operaste $2 - 4 = -2$ en lugar de $2 + 4 = 6$."
+        },
+        {
+          "letter": "D",
+          "text": "$3m - 4n + 6$",
+          "is_correct": true,
+          "feedback": "Correcto. $5m - 2m = 3m$, $-3n - n = -4n$ y $2 + 4 = 6$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Restar un polinomio equivale a sumar su opuesto: $-(2m + n - 4) = -2m - n + 4$. Luego $5m - 2m = 3m$, $-3n - n = -4n$ y $2 + 4 = 6$. El resultado es $3m - 4n + 6$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W03-polinomios-suma-resta-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W03-polinomios-suma-resta-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el resultado de $\\left(\\frac{1}{2}x + \\frac{3}{4}\\right) + \\left(\\frac{3}{2}x - \\frac{1}{4}\\right)$?",
+      "context": "En Bucaramanga, un grupo de grado octavo suma $\\left(\\frac{1}{2}x + \\frac{3}{4}\\right) + \\left(\\frac{3}{2}x - \\frac{1}{4}\\right)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2x + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Operaste $\\frac{3}{4} + \\frac{1}{4} = 1$ sin respetar el signo negativo de $-\\frac{1}{4}$."
+        },
+        {
+          "letter": "B",
+          "text": "$x + \\frac{1}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste mal $\\frac{1}{2} + \\frac{3}{2}$; la suma correcta es $\\frac{4}{2} = 2$."
+        },
+        {
+          "letter": "C",
+          "text": "$2x + \\frac{1}{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{1}{2} + \\frac{3}{2} = 2$ y $\\frac{3}{4} - \\frac{1}{4} = \\frac{1}{2}$."
+        },
+        {
+          "letter": "D",
+          "text": "$4x + \\frac{1}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los numeradores con denominadores distintos como si fueran enteros y duplicaste el coeficiente de $x$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se suman por separado los coeficientes de $x$ y las fracciones independientes: $\\frac{1}{2} + \\frac{3}{2} = \\frac{4}{2} = 2$ y $\\frac{3}{4} - \\frac{1}{4} = \\frac{2}{4} = \\frac{1}{2}$. El resultado es $2x + \\frac{1}{2}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W03-polinomios-suma-resta-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W03-polinomios-suma-resta-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la expresión del perímetro del triángulo?",
+      "context": "En Cartagena, una cancha triangular tiene lados de $(x + 3)$, $(2x - 1)$ y $(3x + 2)$ metros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6x + 4$",
+          "is_correct": true,
+          "feedback": "Correcto. $(1 + 2 + 3)x = 6x$ y $3 - 1 + 2 = 4$."
+        },
+        {
+          "letter": "B",
+          "text": "$6x + 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Operaste $3 + 2 - 1 = 4$ con un error de suma y obtuviste $2$ en la constante."
+        },
+        {
+          "letter": "C",
+          "text": "$5x + 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $1 + 2 + 2 = 5$ en lugar de $1 + 2 + 3 = 6$ para el coeficiente de $x$."
+        },
+        {
+          "letter": "D",
+          "text": "$6x^2 + 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste o combinaste las $x$ como si fueran términos cuadráticos; el perímetro es una suma lineal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El perímetro es la suma de los tres lados: $(x + 2x + 3x) + (3 - 1 + 2) = 6x + 4$. También se interpreta como una relación de variación lineal: por cada metro que aumenta $x$, el perímetro aumenta $6$ metros.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-8-2026-W03-polinomios-suma-resta-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W03-polinomios-suma-resta-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el resultado de $(4x^2 - 2x + 7) - (2x^2 - 5x - 3)$?",
+      "context": "En Pereira, una estudiante debe restar $(2x^2 - 5x - 3)$ de $(4x^2 - 2x + 7)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2x^2 - 7x + 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Operaste $-2x - 5x = -7x$ y $7 - 3 = 4$ sin cambiar los signos del sustraendo."
+        },
+        {
+          "letter": "B",
+          "text": "$2x^2 - 7x + 10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiaste bien la constante $7 + 3 = 10$ pero mantuviste el signo de $-5x$."
+        },
+        {
+          "letter": "C",
+          "text": "$6x^2 + 3x + 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $4x^2 + 2x^2$ y operaste $7 - 3 = 4$; confundiste la resta con la suma."
+        },
+        {
+          "letter": "D",
+          "text": "$2x^2 + 3x + 10$",
+          "is_correct": true,
+          "feedback": "Correcto. $4x^2 - 2x^2 = 2x^2$, $-2x + 5x = 3x$ y $7 + 3 = 10$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Al restar se cambia el signo de cada término del sustraendo: $-(2x^2 - 5x - 3) = -2x^2 + 5x + 3$. Luego se reducen los semejantes y se obtiene $2x^2 + 3x + 10$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-8-2026-W03-polinomios-suma-resta-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W03-polinomios-suma-resta-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el polinomio $Q$?",
+      "context": "En Manizales, se sabe que $P + Q = 5x^2 - 3x + 2$ y que $P = 2x^2 + x - 1$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$7x^2 - 2x + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $P$ en lugar de restarlo; $Q = (P + Q) - P$ y no $(P + Q) + P$."
+        },
+        {
+          "letter": "B",
+          "text": "$3x^2 - 4x + 3$",
+          "is_correct": true,
+          "feedback": "Correcto. $5x^2 - 2x^2 = 3x^2$, $-3x - x = -4x$ y $2 + 1 = 3$."
+        },
+        {
+          "letter": "C",
+          "text": "$3x^2 - 2x + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Operaste $-3x + x = -2x$ y $2 - 1 = 1$ sin cambiar los signos de $P$."
+        },
+        {
+          "letter": "D",
+          "text": "$3x^2 - 4x + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente y la parte lineal están bien, pero $2 - 1 = 1$ es incorrecto porque se debe operar $2 - (-1) = 3$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Despejar $Q$ exige restar: $Q = (5x^2 - 3x + 2) - (2x^2 + x - 1) = 5x^2 - 2x^2 - 3x - x + 2 + 1 = 3x^2 - 4x + 3$. Esta estrategia también sirve para verificar cualquier suma de polinomios.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-8-2026-W03-polinomios-suma-resta-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W03-polinomios-suma-resta-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el valor de $P - Q$ cuando $x = 2$?",
+      "context": "En Pasto, con $P = 2x^2 - 3x + 1$ y $Q = x^2 + 2x - 4$, una estudiante calcula $P - Q$ y lo evalúa en $x = 2$ para verificar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de $P(2) = 8 - 6 + 1 = 3$; olvidaste restar $Q(2)$."
+        },
+        {
+          "letter": "B",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de signos al restar $-3x - 2x$ y obtuviste $-x$ en lugar de $-5x$."
+        },
+        {
+          "letter": "C",
+          "text": "$-1$",
+          "is_correct": true,
+          "feedback": "Correcto. $P - Q = x^2 - 5x + 5$ y en $x = 2$ da $4 - 10 + 5 = -1$."
+        },
+        {
+          "letter": "D",
+          "text": "$-5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaluaste mal $x^2 - 5x + 5$ en $x = 2$ o cambiaste el signo de la constante $5$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Primero $P - Q = (2x^2 - x^2) + (-3x - 2x) + (1 + 4) = x^2 - 5x + 5$. La sustitución numérica verifica el álgebra: $P(2) = 3$ y $Q(2) = 4$, luego $3 - 4 = -1$, que coincide con $4 - 10 + 5 = -1$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W03-polinomios-suma-resta-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W03-polinomios-suma-resta-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la expresión del perímetro del rectángulo y qué error debe evitarse?",
+      "context": "En Tunja, un parque rectangular mide $(3x - 2)$ metros de largo y $(x + 5)$ metros de ancho.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$8x + 6$, porque el perímetro es dos veces la suma de largo y ancho",
+          "is_correct": true,
+          "feedback": "Correcto. $2[(3x - 2) + (x + 5)] = 2(4x + 3) = 8x + 6$."
+        },
+        {
+          "letter": "B",
+          "text": "$4x + 3$, porque el perímetro es la suma simple de largo y ancho",
+          "is_correct": false,
+          "feedback": "Incorrecto. $4x + 3$ es el semiperímetro; falta multiplicar por $2$ para recorrer todo el contorno."
+        },
+        {
+          "letter": "C",
+          "text": "$8x + 3$, porque se suma dos veces el largo y una vez el ancho",
+          "is_correct": false,
+          "feedback": "Incorrecto. Operaste $2(3x - 2) + (x + 5) = 7x + 1$ de forma inconsistente; el procedimiento correcto duplica ambos lados."
+        },
+        {
+          "letter": "D",
+          "text": "$3x^2 + 13x - 10$, porque el perímetro se obtiene multiplicando largo por ancho",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa expresión es el área $(3x - 2)(x + 5)$ y no el perímetro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El perímetro suma dos largos y dos anchos: $2(3x - 2) + 2(x + 5) = 6x - 4 + 2x + 10 = 8x + 6$. El error típico es confundir perímetro con semiperímetro o con área; la multiplicación $(3x - 2)(x + 5)$ da el área y no el contorno.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W03-polinomios-suma-resta-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W03-polinomios-suma-resta-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es el polinomio simplificado y su valor para $y = 2$?",
+      "context": "En Ibagué, un laboratorio escolar simplifica $\\left(\\frac{3}{4}y^2 - \\frac{1}{2}y + 2\\right) - \\left(\\frac{1}{4}y^2 + \\frac{3}{2}y - 1\\right)$ y lo evalúa en $y = 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{2}y^2 + y + 3$, con valor $7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiaste mal el signo de $+\\frac{3}{2}y$ y obtuviste $+y$ en lugar de $-2y$."
+        },
+        {
+          "letter": "B",
+          "text": "$y^2 - 2y + 3$, con valor $3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Operaste $\\frac{3}{4} - \\frac{1}{4} = 1$ en lugar de $\\frac{1}{2}$ en el término cuadrático."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{2}y^2 - 2y + 1$, con valor $-1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La parte variable está bien, pero $2 - (-1) = 3$ y no $1$ en la constante."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{2}y^2 - 2y + 3$, con valor $1$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{3}{4} - \\frac{1}{4} = \\frac{1}{2}$, $-\\frac{1}{2} - \\frac{3}{2} = -2$, $2 + 1 = 3$ y en $y = 2$ da $2 - 4 + 3 = 1$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Al restar se invierten los signos del segundo polinomio y se reducen los semejantes: $\\frac{1}{2}y^2 - 2y + 3$. La sustitución $y = 2$ confirma el cálculo: $\\frac{1}{2}(4) - 2(2) + 3 = 2 - 4 + 3 = 1$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-8-2026-W03-polinomios-suma-resta-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W03-polinomios-suma-resta-001-MASTERY-bundle-v12",
+      "statement": "¿Es correcta la afirmación del estudiante y cuál es la mejor justificación?",
+      "context": "En Villavicencio, un estudiante afirma que $(2x^2 + 3x - 5) - (x^2 + 3x - 5) = x^2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, porque el resultado correcto es $3x^2 + 6x - 10$ ya que los signos no cambian",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la suma de los polinomios, no la resta; al restar sí se cambian los signos."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque al simplificar queda $x^2$ y con $x = 1$ se verifica $1 = 1$",
+          "is_correct": true,
+          "feedback": "Correcto. $2x^2 - x^2 = x^2$, $3x - 3x = 0$, $-5 + 5 = 0$ y la sustitución confirma $0 - (-1) = 1$."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque al simplificar queda $x^2 + 6x$ y con $x = 1$ se verifica $7 = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $3x + 3x$ en lugar de restar y la supuesta verificación $7 = 1$ es falsa."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque al sustituir $x = 2$ se obtiene $0$ a la izquierda y $4$ a la derecha",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $x = 2$ la izquierda da $(19) - (15) = 4$ y la derecha $x^2 = 4$; la igualdad sí se cumple."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La resta da $(2x^2 - x^2) + (3x - 3x) + (-5 + 5) = x^2$. La sustitución numérica es una prueba de consistencia: con $x = 1$, $(2 + 3 - 5) - (1 + 3 - 5) = 0 - (-1) = 1 = 1^2$. También con $x = 2$ se obtiene $9 - 5 = 4 = 2^2$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-8-2026-W03-polinomios-suma-resta-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

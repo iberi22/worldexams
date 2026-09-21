@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-6-grade-8-subject-matematicas",
+    "generated_at": "2026-09-21T22:09:29.594Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-8-2026-W06-factorizacion-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la factorización correcta de $6x^2 + 9x$ por factor común monomio?",
+      "context": "En Bogotá, la profesora escribe en el tablero la expresión $6x^2 + 9x$ para repasar el factor común.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3(2x^2 + 3x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El factor $3$ deja todavía una $x$ común en los dos términos, la factorización está incompleta."
+        },
+        {
+          "letter": "B",
+          "text": "$3x(2x + 3)$",
+          "is_correct": true,
+          "feedback": "Correcto. $3x \\cdot 2x = 6x^2$ y $3x \\cdot 3 = 9x$, se extrajo el máximo factor común $3x$."
+        },
+        {
+          "letter": "C",
+          "text": "$x(6x + 9)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque $x$ es factor común, el $6$ y el $9$ todavía comparten el factor $3$."
+        },
+        {
+          "letter": "D",
+          "text": "$9x(x + 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $9x(x + 1) = 9x^2 + 9x$, que es diferente de $6x^2 + 9x$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El máximo factor común de $6x^2$ y $9x$ es $3x$. Al dividir cada término entre $3x$ se obtiene $2x + 3$, por lo tanto $6x^2 + 9x = 3x(2x + 3)$. También se verifica multiplicando los factores.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W06-factorizacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W06-factorizacion-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la factorización de $a(x - 3) + b(x - 3)$ por factor común polinomio?",
+      "context": "En Tunja, un estudiante observa que el binomio $(x - 3)$ aparece en los dos términos de $a(x - 3) + b(x - 3)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x + 3)(a + b)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiaste el signo del binomio común, debe conservarse $(x - 3)$."
+        },
+        {
+          "letter": "B",
+          "text": "$(x - 3)(a - b)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El segundo factor debe sumar los coeficientes $a$ y $b$, no restarlos."
+        },
+        {
+          "letter": "C",
+          "text": "$ab(x - 3)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste $a$ por $b$ y elevaste al cuadrado, eso no corresponde al factor común."
+        },
+        {
+          "letter": "D",
+          "text": "$(x - 3)(a + b)$",
+          "is_correct": true,
+          "feedback": "Correcto. El binomio $(x - 3)$ es común y al extraerlo queda $(a + b)$ como segundo factor."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cuando un mismo polinomio aparece en todos los términos, este se extrae como factor común. Aquí $(x - 3)$ es común, entonces $a(x - 3) + b(x - 3) = (x - 3)(a + b)$. Al multiplicar se recupera la expresión original.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W06-factorizacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W06-factorizacion-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la factorización de $x^2 - 36$ como diferencia de cuadrados?",
+      "context": "En Medellín, se calcula el área de una placa cuadrada de lado $x$ a la que se le recorta un cuadrado de lado $6$, quedando el área $x^2 - 36$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x - 6)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $(x - 6)^2 = x^2 - 12x + 36$, aparece un término intermedio que no está en $x^2 - 36$."
+        },
+        {
+          "letter": "B",
+          "text": "$(x + 6)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $(x + 6)^2 = x^2 + 12x + 36$, que incluye $12x$ y $+36$."
+        },
+        {
+          "letter": "C",
+          "text": "$(x - 6)(x + 6)$",
+          "is_correct": true,
+          "feedback": "Correcto. $(x - 6)(x + 6) = x^2 - 36$ porque $\\sqrt{x^2} = x$ y $\\sqrt{36} = 6$."
+        },
+        {
+          "letter": "D",
+          "text": "$(x - 4)(x + 9)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $(x - 4)(x + 9) = x^2 + 5x - 36$, el término $5x$ sobra."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La diferencia de cuadrados $a^2 - b^2$ se factoriza como $(a - b)(a + b)$. Con $a = x$ y $b = 6$ se obtiene $(x - 6)(x + 6)$. La verificación multiplicando confirma que los términos cruzados se cancelan.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W06-factorizacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W06-factorizacion-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la factorización de $x^2 + 10x + 25$ como trinomio cuadrado perfecto?",
+      "context": "En Cali, un patio cuadrado de lado $(x + 5)$ tiene área $x^2 + 10x + 25$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x + 5)^2$",
+          "is_correct": true,
+          "feedback": "Correcto. $(x + 5)^2 = x^2 + 10x + 25$ porque $2 \\cdot x \\cdot 5 = 10x$."
+        },
+        {
+          "letter": "B",
+          "text": "$(x + 5)(x - 5)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $(x + 5)(x - 5) = x^2 - 25$, que es una diferencia de cuadrados sin término $10x$."
+        },
+        {
+          "letter": "C",
+          "text": "$(x + 25)(x + 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $(x + 25)(x + 1) = x^2 + 26x + 25$, el término central es $26x$ y no $10x$."
+        },
+        {
+          "letter": "D",
+          "text": "$(x - 5)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $(x - 5)^2 = x^2 - 10x + 25$, el signo del término central es negativo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un trinomio cuadrado perfecto cumple $a^2 + 2ab + b^2 = (a + b)^2$. Aquí $a = x$, $b = 5$ y $2ab = 10x$, por eso la factorización es $(x + 5)^2$. Multiplicar el cuadrado verifica el resultado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W06-factorizacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W06-factorizacion-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la factorización de $x^2 + 7x + 12$ como trinomio de la forma $x^2 + bx + c$?",
+      "context": "En Barranquilla, el área de un salón rectangular se modela con $x^2 + 7x + 12$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x + 2)(x + 6)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $(x + 2)(x + 6) = x^2 + 8x + 12$, la suma $2 + 6 = 8$ no es $7$."
+        },
+        {
+          "letter": "B",
+          "text": "$(x + 3)(x + 4)$",
+          "is_correct": true,
+          "feedback": "Correcto. $3 + 4 = 7$ y $3 \\cdot 4 = 12$, se cumplen las dos condiciones del trinomio."
+        },
+        {
+          "letter": "C",
+          "text": "$(x + 1)(x + 12)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $(x + 1)(x + 12) = x^2 + 13x + 12$, la suma es $13$ y no $7$."
+        },
+        {
+          "letter": "D",
+          "text": "$(x - 3)(x - 4)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $(x - 3)(x - 4) = x^2 - 7x + 12$, el término central queda con signo negativo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para $x^2 + bx + c$ se buscan dos números que sumen $b$ y multipliquen $c$. Los números $3$ y $4$ suman $7$ y multiplican $12$, por eso $x^2 + 7x + 12 = (x + 3)(x + 4)$. Esta técnica también se usa cuando hay precios en COP que se modelan con áreas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W06-factorizacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W06-factorizacion-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la factorización por agrupación de $3a + 3b + xa + xb$?",
+      "context": "En Bucaramanga, una huerta comunitaria divide su terreno con la expresión $3a + 3b + xa + xb$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(a - b)(3 + x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al multiplicar $(a - b)(3 + x)$ se obtiene $3a + xa - 3b - xb$, los signos de $b$ no coinciden."
+        },
+        {
+          "letter": "B",
+          "text": "$(a + b)(3 - x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $(a + b)(3 - x) = 3a - xa + 3b - xb$, los términos con $x$ quedan negativos."
+        },
+        {
+          "letter": "C",
+          "text": "$3x(a + b)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $3x(a + b)^2 = 3xa^2 + 6xab + 3xb^2$, el grado y los coeficientes son muy diferentes."
+        },
+        {
+          "letter": "D",
+          "text": "$(a + b)(3 + x)$",
+          "is_correct": true,
+          "feedback": "Correcto. Agrupando $3(a + b) + x(a + b) = (a + b)(3 + x)$ y al multiplicar se recupera la expresión."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Se agrupa por pares: $3(a + b) + x(a + b)$. Como $(a + b)$ es factor común polinomio, se extrae y queda $(a + b)(3 + x)$. La agrupación funciona cuando cada grupo comparte un mismo binomio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-8-2026-W06-factorizacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W06-factorizacion-001-MASTERY-bundle-v7",
+      "statement": "Al multiplicar $(x + 2)(x + 5)$, ¿qué resultado confirma la verificación?",
+      "context": "En Pereira, la profesora pide verificar multiplicando si $(x + 2)(x + 5)$ es la factorización de $x^2 + 7x + 10$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 + 10x + 7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $2 + 5$ como $10$ en el término lineal y multiplicaste mal la constante."
+        },
+        {
+          "letter": "B",
+          "text": "$x^2 + 5x + 10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste el término $2x$ que viene de multiplicar $2$ por $x$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 + 7x + 10$",
+          "is_correct": true,
+          "feedback": "Correcto. $x^2 + 5x + 2x + 10 = x^2 + 7x + 10$, el producto coincide con el trinomio original."
+        },
+        {
+          "letter": "D",
+          "text": "$x^2 + 7x + 7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El término lineal está bien pero $2 \\cdot 5 = 10$, no $7$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Verificar significa multiplicar los factores propuestos: $(x + 2)(x + 5) = x^2 + 5x + 2x + 10 = x^2 + 7x + 10$. Como el producto es idéntico al trinomio dado, la factorización queda confirmada. Esta comprobación también evita errores aritméticos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-8-2026-W06-factorizacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W06-factorizacion-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la factorización de $25x^2 - 49$?",
+      "context": "En Manizales, un taller de ebanistería modela una lámina con el área $25x^2 - 49$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(5x - 7)(5x + 7)$",
+          "is_correct": true,
+          "feedback": "Correcto. $(5x)^2 = 25x^2$ y $7^2 = 49$, y al multiplicar los términos cruzados se cancelan."
+        },
+        {
+          "letter": "B",
+          "text": "$(5x - 7)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $(5x - 7)^2 = 25x^2 - 70x + 49$, aparece el término $-70x$."
+        },
+        {
+          "letter": "C",
+          "text": "$(5x + 7)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $(5x + 7)^2 = 25x^2 + 70x + 49$, incluye $+70x$ y $+49$."
+        },
+        {
+          "letter": "D",
+          "text": "$(25x - 7)(25x + 7)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $(25x - 7)(25x + 7) = 625x^2 - 49$, el primer término sería $625x^2$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se reconocen los cuadrados: $\\sqrt{25x^2} = 5x$ y $\\sqrt{49} = 7$. Por diferencia de cuadrados, $25x^2 - 49 = (5x - 7)(5x + 7)$. Multiplicar los binomios confirma que $35x - 35x = 0$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-8-2026-W06-factorizacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W06-factorizacion-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la factorización de $4x^2 - 20x + 25$ y qué la justifica como trinomio cuadrado perfecto?",
+      "context": "En Cartagena, un proyecto de aula con un costo de $45.000$ COP usa el modelo $4x^2 - 20x + 25$ para una baldosa cuadrada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(2x - 5)(2x + 5)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $(2x - 5)(2x + 5) = 4x^2 - 25$, falta el término $-20x$ del trinomio original."
+        },
+        {
+          "letter": "B",
+          "text": "$(2x - 5)^2$",
+          "is_correct": true,
+          "feedback": "Correcto. $(2x)^2 = 4x^2$, $(-5)^2 = 25$ y $2(2x)(-5) = -20x$, se cumplen las tres condiciones."
+        },
+        {
+          "letter": "C",
+          "text": "$(4x - 5)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $(4x - 5)^2 = 16x^2 - 40x + 25$, el primer término sería $16x^2$."
+        },
+        {
+          "letter": "D",
+          "text": "$(2x + 5)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $(2x + 5)^2 = 4x^2 + 20x + 25$, el término central es positivo y no negativo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se evalúan las tres condiciones: raíz del primero $2x$, raíz del último $5$ y doble producto $2(2x)(5) = 20x$ con el signo del término central. Como se cumplen, $4x^2 - 20x + 25 = (2x - 5)^2$. Multiplicar el cuadrado lo confirma.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W06-factorizacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W06-factorizacion-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la factorización de $x^2 - 2x - 15$?",
+      "context": "En Pasto, el crecimiento de un cultivo se modela con $x^2 - 2x - 15$, donde $x$ representa semanas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x - 3)(x + 5)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $(x - 3)(x + 5) = x^2 + 2x - 15$, el término central queda $+2x$ y no $-2x$."
+        },
+        {
+          "letter": "B",
+          "text": "$(x - 15)(x + 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $(x - 15)(x + 1) = x^2 - 14x - 15$, la suma $-15 + 1 = -14$ no es $-2$."
+        },
+        {
+          "letter": "C",
+          "text": "$(x - 5)(x - 3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $(x - 5)(x - 3) = x^2 - 8x + 15$, la constante es $+15$ y el lineal es $-8x$."
+        },
+        {
+          "letter": "D",
+          "text": "$(x - 5)(x + 3)$",
+          "is_correct": true,
+          "feedback": "Correcto. $-5 + 3 = -2$ y $(-5)(3) = -15$, se cumplen suma y producto simultáneamente."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Se buscan dos números con producto $-15$ y suma $-2$. El par $-5$ y $3$ cumple ambas condiciones, por eso $x^2 - 2x - 15 = (x - 5)(x + 3)$. Evaluar los signos es clave: como $c$ es negativo, los factores tienen signos opuestos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W06-factorizacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W06-factorizacion-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la factorización completa de $3x^2 - 27$?",
+      "context": "En Armenia, un estudiante debe factorizar completamente $3x^2 - 27$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3(x - 3)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $3(x - 3)^2 = 3x^2 - 18x + 27$, aparecen $-18x$ y $+27$ que no están en la expresión."
+        },
+        {
+          "letter": "B",
+          "text": "$(3x - 9)(3x + 9)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $(3x - 9)(3x + 9) = 9x^2 - 81$, el coeficiente de $x^2$ es $9$ y no $3$."
+        },
+        {
+          "letter": "C",
+          "text": "$3(x - 3)(x + 3)$",
+          "is_correct": true,
+          "feedback": "Correcto. Primero se extrae $3$ y luego $x^2 - 9 = (x - 3)(x + 3)$; al multiplicar se obtiene $3x^2 - 27$."
+        },
+        {
+          "letter": "D",
+          "text": "$3(x - 9)(x + 9)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $3(x - 9)(x + 9) = 3x^2 - 243$, la constante sería $-243$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La factorización completa exige dos pasos: primero el factor común $3$, quedando $3(x^2 - 9)$, y después la diferencia de cuadrados $x^2 - 9 = (x - 3)(x + 3)$. El resultado final es $3(x - 3)(x + 3)$. Si solo se deja $3(x^2 - 9)$, la factorización está incompleta.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-8-2026-W06-factorizacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W06-factorizacion-001-MASTERY-bundle-v12",
+      "statement": "Al evaluar la propuesta multiplicando los factores, ¿cuál es la conclusión correcta?",
+      "context": "En Cúcuta, un estudiante afirma que $x^2 + 6x + 8 = (x + 6)(x + 2)$ y otro compañero lo verifica multiplicando.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La propuesta es incorrecta porque $(x + 6)(x + 2) = x^2 + 8x + 12$; la factorización correcta es $(x + 4)(x + 2)$",
+          "is_correct": true,
+          "feedback": "Correcto. $6 + 2 = 8$ y $6 \\cdot 2 = 12$, no coinciden con $6$ y $8$; en cambio $4 + 2 = 6$ y $4 \\cdot 2 = 8$."
+        },
+        {
+          "letter": "B",
+          "text": "La propuesta es correcta porque $(x + 6)(x + 2) = x^2 + 6x + 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $(x + 6)(x + 2) = x^2 + 8x + 12$, el estudiante sumó mal $6x + 2x = 8x$ y $6 \\cdot 2 = 12$."
+        },
+        {
+          "letter": "C",
+          "text": "La propuesta es incorrecta porque $(x + 6)(x + 2) = x^2 + 12x + 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El producto real es $x^2 + 8x + 12$, no $x^2 + 12x + 8$; hay error en el lineal y en la constante."
+        },
+        {
+          "letter": "D",
+          "text": "La propuesta es incorrecta y la factorización correcta es $(x + 8)(x + 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $(x + 8)(x + 1) = x^2 + 9x + 8$, aunque la constante es $8$, el lineal es $9x$ y no $6x$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Verificar multiplicando es el criterio decisivo: $(x + 6)(x + 2) = x^2 + 8x + 12$, diferente de $x^2 + 6x + 8$, por lo tanto la propuesta se descarta. Los números que suman $6$ y multiplican $8$ son $4$ y $2$, así que la factorización correcta es $(x + 4)(x + 2)$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-8-2026-W06-factorizacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

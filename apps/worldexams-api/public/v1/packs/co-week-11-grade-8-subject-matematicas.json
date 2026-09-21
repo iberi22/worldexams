@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-11-grade-8-subject-matematicas",
+    "generated_at": "2026-09-21T22:09:29.596Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-8-2026-W11-medidas-tendencia-central-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la media aritmética de las notas?",
+      "context": "En un colegio de Medellín, cinco estudiantes obtuvieron estas notas en matemáticas: 4, 5, 3, 4 y 4.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3,8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa sería la media si la suma fuera 19, pero la suma real es 20."
+        },
+        {
+          "letter": "B",
+          "text": "4,0",
+          "is_correct": true,
+          "feedback": "Correcto. La suma es 4 + 5 + 3 + 4 + 4 = 20 y 20 / 5 = 4,0."
+        },
+        {
+          "letter": "C",
+          "text": "4,2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa sería la media si la suma fuera 21. Verifica la suma de los cinco datos."
+        },
+        {
+          "letter": "D",
+          "text": "4,5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor está por encima de cuatro de los cinco datos y no corresponde a la suma real."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La media aritmética también se llama promedio y se calcula sumando todos los datos y dividiendo entre el número de datos: (4 + 5 + 3 + 4 + 4) / 5 = 20 / 5 = 4,0. Representa el valor que tendría cada estudiante si el total se repartiera en partes iguales.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W11-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W11-medidas-tendencia-central-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la moda de los datos?",
+      "context": "En Cali, una encuesta sobre el sabor de jugo favorito en grado octavo dio estos resultados: mora, mango, mango, lulo, mango y mora.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mora",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mora aparece dos veces, pero hay un sabor con mayor frecuencia."
+        },
+        {
+          "letter": "B",
+          "text": "Lulo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lulo aparece una sola vez, es el dato menos frecuente."
+        },
+        {
+          "letter": "C",
+          "text": "Hay empate entre mora y mango",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mora tiene frecuencia 2 y mango tiene frecuencia 3, así que no hay empate."
+        },
+        {
+          "letter": "D",
+          "text": "Mango",
+          "is_correct": true,
+          "feedback": "Correcto. Mango aparece tres veces, más que cualquier otro sabor, por eso es la moda."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La moda es el dato con mayor frecuencia, es decir, el que más se repite. En este caso las frecuencias son: mango 3, mora 2 y lulo 1. Por lo tanto, la moda es mango. La moda es la única medida que también se puede usar con datos cualitativos como sabores o colores.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W11-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W11-medidas-tendencia-central-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la mediana de las ventas diarias?",
+      "context": "En Bucaramanga, una papelería registró las ventas diarias de cuadernos durante cinco días: 10, 15, 9, 20 y 14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "14",
+          "is_correct": true,
+          "feedback": "Correcto. Al ordenar los datos (9, 10, 14, 15, 20), el valor central es 14."
+        },
+        {
+          "letter": "B",
+          "text": "13,6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de la media (68 / 5), no de la mediana."
+        },
+        {
+          "letter": "C",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor no aparece como centro al ordenar los cinco datos de menor a mayor."
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el cuarto dato ordenado, no el valor central."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para hallar la mediana primero se ordenan los datos: 9, 10, 14, 15, 20. Como hay cinco datos (cantidad impar), la mediana es el dato de la posición central, es decir, el tercero: 14. La mediana deja la mitad de los datos por debajo y la mitad por encima.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W11-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W11-medidas-tendencia-central-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el promedio de Sofía?",
+      "context": "En Bogotá, Sofía obtuvo estas cinco notas en ciencias: 3,5; 4,2; 4,8; 3,9 y 4,6.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4,0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa sería la media si la suma fuera 20, pero la suma real es 21."
+        },
+        {
+          "letter": "B",
+          "text": "4,1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese resultado viene de dividir una suma de 20,5 entre 5. Revisa la adición de los decimales."
+        },
+        {
+          "letter": "C",
+          "text": "4,2",
+          "is_correct": true,
+          "feedback": "Correcto. La suma es 3,5 + 4,2 + 4,8 + 3,9 + 4,6 = 21,0 y 21,0 / 5 = 4,2."
+        },
+        {
+          "letter": "D",
+          "text": "4,4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa sería la media si la suma fuera 22. Verifica la suma decimal paso a paso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se suman las cinco notas: 3,5 + 4,2 = 7,7; 7,7 + 4,8 = 12,5; 12,5 + 3,9 = 16,4; 16,4 + 4,6 = 21,0. Luego se divide entre 5: 21,0 / 5 = 4,2. El promedio resume el rendimiento general de Sofía en un solo número.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W11-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W11-medidas-tendencia-central-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la mediana de las horas de estudio?",
+      "context": "En Pereira, seis estudiantes reportaron sus horas de estudio semanal: 2, 4, 4, 6, 8 y 10.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el segundo dato ordenado; con cantidad par se deben promediar los dos centrales."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. Los dos datos centrales son 4 y 6, y (4 + 6) / 2 = 5."
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el cuarto dato ordenado, no el promedio de los dos centrales."
+        },
+        {
+          "letter": "D",
+          "text": "5,5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese sería el promedio de 4 y 7, pero los centrales son 4 y 6."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Con seis datos (cantidad par) no hay un único valor central. Se ordenan los datos, que ya están ordenados: 2, 4, 4, 6, 8, 10. Las posiciones centrales son la tercera y la cuarta (4 y 6). La mediana es su promedio: (4 + 6) / 2 = 5 horas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W11-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W11-medidas-tendencia-central-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la mediana de las ventas y qué muestra al compararla con la media?",
+      "context": "En Barranquilla, una tienda registró sus ventas diarias en pesos COP: $200.000$, $210.000$, $190.000$, $205.000$ y $2.000.000$ el sábado de feria. La media de los cinco días es $561.000$ COP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$200.000$ COP; la mediana confirma que la media de $561.000$ COP es representativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. $200.000$ COP no es el valor central ordenado y la media sí está distorsionada por el sábado."
+        },
+        {
+          "letter": "B",
+          "text": "$210.000$ COP; la mediana es mayor que la media porque el sábado bajó las ventas",
+          "is_correct": false,
+          "feedback": "Incorrecto. $210.000$ COP es el cuarto dato ordenado y el sábado subió la media, no la bajó."
+        },
+        {
+          "letter": "C",
+          "text": "$561.000$ COP; la mediana coincide con la media en este caso",
+          "is_correct": false,
+          "feedback": "Incorrecto. $561.000$ COP es la media, no el valor central; ningún día vendió exactamente ese valor."
+        },
+        {
+          "letter": "D",
+          "text": "$205.000$ COP; la mediana muestra que la media está inflada por el valor atípico del sábado",
+          "is_correct": true,
+          "feedback": "Correcto. Los datos ordenados son 190, 200, 205, 210 y 2000 (en miles); el centro es 205 y la media de 561 está arrastrada por el 2000."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Al ordenar las ventas (en miles de COP): 190, 200, 205, 210, 2000, la mediana es 205, es decir, $205.000$ COP. La media es $561.000$ COP porque el valor atípico de $2.000.000$ COP eleva la suma a $2.805.000$ COP. Esto muestra que la mediana resiste valores atípicos mientras la media se deja arrastrar por ellos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-8-2026-W11-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W11-medidas-tendencia-central-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la media del número de hermanos por estudiante?",
+      "context": "En Cartagena, un curso de grado octavo encuestó el número de hermanos de sus estudiantes: 0 hermanos (4 estudiantes), 1 hermano (6 estudiantes), 2 hermanos (3 estudiantes) y 3 hermanos (2 estudiantes).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1,2",
+          "is_correct": true,
+          "feedback": "Correcto. El total es 0×4 + 1×6 + 2×3 + 3×2 = 18 y hay 15 estudiantes; 18 / 15 = 1,2."
+        },
+        {
+          "letter": "B",
+          "text": "1,0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese resultado ignora que varios estudiantes tienen 2 o 3 hermanos en el ponderado."
+        },
+        {
+          "letter": "C",
+          "text": "1,5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese sería el promedio simple de 0, 1, 2 y 3, sin ponderar por las frecuencias."
+        },
+        {
+          "letter": "D",
+          "text": "2,0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor confunde la media con uno de los datos; el cálculo ponderado da 18 / 15."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En datos agrupados con frecuencias se multiplica cada valor por su frecuencia: 0×4 = 0, 1×6 = 6, 2×3 = 6, 3×2 = 6. La suma total es 18 hermanos y el total de estudiantes es 4 + 6 + 3 + 2 = 15. La media es 18 / 15 = 1,2 hermanos por estudiante. Es un promedio ponderado por frecuencias.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-8-2026-W11-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W11-medidas-tendencia-central-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la moda de las ventas y qué significa para el negocio?",
+      "context": "En Manizales, una panadería registró los panes vendidos cada día: lunes 45, martes 52, miércoles 52, jueves 48, viernes 60, sábado 60 y domingo 60.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "52; significa que el promedio semanal de ventas fue 52 panes",
+          "is_correct": false,
+          "feedback": "Incorrecto. 52 aparece dos veces, pero hay un valor con mayor frecuencia; además la moda no es el promedio."
+        },
+        {
+          "letter": "B",
+          "text": "48; significa que ese fue el día de menor venta de la semana",
+          "is_correct": false,
+          "feedback": "Incorrecto. 48 aparece una vez y el mínimo real es 45 del lunes."
+        },
+        {
+          "letter": "C",
+          "text": "60; significa que el valor más frecuente de venta diaria fue 60 panes",
+          "is_correct": true,
+          "feedback": "Correcto. El valor 60 aparece tres veces (viernes, sábado y domingo), más que ningún otro."
+        },
+        {
+          "letter": "D",
+          "text": "45; significa que la mayoría de los días se vendieron 45 panes",
+          "is_correct": false,
+          "feedback": "Incorrecto. 45 aparece una sola vez y es el valor más bajo, no el más frecuente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las frecuencias son: 60 aparece 3 veces, 52 aparece 2 veces, 45 y 48 aparecen 1 vez cada uno. La moda es 60 porque es el valor con mayor frecuencia. Para el negocio esto indica el nivel de venta más habitual al final de la semana y sirve para planear la producción del fin de semana.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-8-2026-W11-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W11-medidas-tendencia-central-001-MASTERY-bundle-v9",
+      "statement": "El sindicato quiere publicar el salario típico de un trabajador. ¿Qué medida es la más adecuada y por qué?",
+      "context": "En Cúcuta, una empresa tiene 8 operarios que ganan $1.300.000$ COP, 3 supervisores que ganan $1.500.000$ COP y 1 gerente que gana $10.000.000$ COP. La media salarial es $2.075.000$ COP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La media de $2.075.000$ COP, porque incluye todos los salarios en el cálculo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque usa todos los datos, el salario del gerente infla la media y casi nadie gana ese valor."
+        },
+        {
+          "letter": "B",
+          "text": "La mediana de $1.300.000$ COP, porque el salario del gerente distorsiona la media",
+          "is_correct": true,
+          "feedback": "Correcto. Al ordenar los 12 salarios, las posiciones 6 y 7 valen $1.300.000$ COP; esa mediana representa a la mayoría."
+        },
+        {
+          "letter": "C",
+          "text": "La media de $1.300.000$ COP, porque es el valor que más se repite",
+          "is_correct": false,
+          "feedback": "Incorrecto. $1.300.000$ COP sí es el valor típico, pero corresponde a la mediana y a la moda, no a la media real de $2.075.000$ COP."
+        },
+        {
+          "letter": "D",
+          "text": "La moda de $2.075.000$ COP, porque combina el promedio con la frecuencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. $2.075.000$ COP no aparece en ningún salario y por tanto no puede ser la moda."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los 12 salarios ordenados son ocho valores de $1.300.000$ COP, tres de $1.500.000$ COP y uno de $10.000.000$ COP. La suma es 8×1,3 + 3×1,5 + 10 = 24,9 millones; dividida entre 12 da $2.075.000$ COP de media, un valor que casi ningún trabajador recibe. La mediana (promedio de las posiciones 6 y 7) es $1.300.000$ COP y la moda también es $1.300.000$ COP. Ante un valor atípico extremo, la mediana representa mejor al trabajador típico.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W11-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W11-medidas-tendencia-central-001-MASTERY-bundle-v10",
+      "statement": "El comité quiere una medida que refleje su constancia sin que la ausencia puntual lo castigue en exceso. ¿Cuál es la decisión más justa?",
+      "context": "En Pasto, Andrés obtuvo estas notas en el periodo: 5,0; 4,9; 5,0; 4,8 y 1,0, esta última por una entrega que no pudo presentar por una calamidad. Su media es 4,14 y su mediana es 4,9.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usar la media de 4,14, porque la ausencia también debe contar con todo su peso",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa decisión castiga cuatro periodos excelentes por una sola falla justificada; no refleja la constancia."
+        },
+        {
+          "letter": "B",
+          "text": "Usar la moda de 5,0, porque es la nota más alta que obtuvo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La moda describe frecuencia, no constancia general, y elegirla por ser alta es un criterio sesgado."
+        },
+        {
+          "letter": "C",
+          "text": "Usar la media de 4,9, porque ese es el promedio de sus buenas notas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor 4,9 corresponde a la mediana, no a la media; la media real con los cinco datos es 4,14."
+        },
+        {
+          "letter": "D",
+          "text": "Usar la mediana de 4,9, porque resiste el valor atípico y refleja su nivel habitual",
+          "is_correct": true,
+          "feedback": "Correcto. Los datos ordenados (1,0; 4,8; 4,9; 5,0; 5,0) tienen centro 4,9, que describe su desempeño típico."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La media es (5,0 + 4,9 + 5,0 + 4,8 + 1,0) / 5 = 20,7 / 5 = 4,14 y cae fuertemente por el 1,0. La mediana de 1,0; 4,8; 4,9; 5,0; 5,0 es 4,9 y apenas se mueve ante ese atípico. Cuando se busca describir el nivel habitual y hay un dato excepcional justificado, la mediana es la medida más robusta y justa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W11-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W11-medidas-tendencia-central-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la conclusión estadística válida para tomar la decisión?",
+      "context": "En Armenia, dos cursos de grado octavo tienen media 4,0 en matemáticas. El curso A obtuvo 3,0; 3,0; 5,0; 5,0 y 4,0, mientras el curso B obtuvo 4,0 en los cinco registros. El rector debe premiar al curso más consistente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los promedios iguales ocultan la dispersión; el curso B es más consistente porque todos sus datos son 4,0",
+          "is_correct": true,
+          "feedback": "Correcto. Ambos suman 20 y promedian 4,0, pero el curso A varía entre 3,0 y 5,0 mientras el B no varía."
+        },
+        {
+          "letter": "B",
+          "text": "El curso A es más consistente porque tiene dos notas de 5,0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tener notas altas no significa consistencia; el curso A también tiene dos notas de 3,0."
+        },
+        {
+          "letter": "C",
+          "text": "La mediana del curso A es mayor que la del curso B, así que el A debe ganar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas medianas valen 4,0: el centro de 3, 3, 4, 5, 5 es 4 y el de 4, 4, 4, 4, 4 también es 4."
+        },
+        {
+          "letter": "D",
+          "text": "La moda decide el premio y por eso gana el curso A con moda 3,0 y 5,0",
+          "is_correct": false,
+          "feedback": "Incorrecto. El curso A es bimodal (3,0 y 5,0 con frecuencia 2) y eso indica dispersión, no consistencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La media por sí sola no describe la dispersión: el curso A suma 3 + 3 + 5 + 5 + 4 = 20 y promedia 4,0, igual que el curso B con 4 + 4 + 4 + 4 + 4 = 20. Sin embargo, el curso B concentra todos los datos en la media, mientras el A se reparte en los extremos. Evaluar bien exige mirar más allá del promedio y considerar la variabilidad antes de premiar la consistencia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-8-2026-W11-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W11-medidas-tendencia-central-001-MASTERY-bundle-v12",
+      "statement": "Al estimar la media con las marcas de clase, ¿qué valor se obtiene y qué intervalo orienta mejor la meta de ventas?",
+      "context": "En Bello, una tienda agrupó sus ventas diarias por intervalos en pesos COP: de $100.000$ a $200.000$ (2 días), de $200.000$ a $300.000$ (5 días) y de $300.000$ a $400.000$ (3 días).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$250.000$ COP; la meta debe fijarse en el punto medio del intervalo central sin ponderar",
+          "is_correct": false,
+          "feedback": "Incorrecto. $250.000$ COP es solo la marca del intervalo central, no el promedio ponderado de los tres intervalos."
+        },
+        {
+          "letter": "B",
+          "text": "$240.000$ COP; la meta debe fijarse en el intervalo de menor venta para ser prudentes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor subestima la media ponderada y el intervalo de menor frecuencia no representa lo habitual."
+        },
+        {
+          "letter": "C",
+          "text": "$260.000$ COP; la meta debe orientarse al intervalo de $200.000$ a $300.000$ porque concentra la mayor frecuencia",
+          "is_correct": true,
+          "feedback": "Correcto. Con marcas 150, 250 y 350 (en miles): (150×2 + 250×5 + 350×3) / 10 = 2600 / 10 = 260, es decir, $260.000$ COP."
+        },
+        {
+          "letter": "D",
+          "text": "$300.000$ COP; la meta debe fijarse en el límite superior del intervalo central",
+          "is_correct": false,
+          "feedback": "Incorrecto. $300.000$ COP es el borde entre intervalos, no la media ponderada estimada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En datos agrupados por intervalos se usa la marca de clase (punto medio): 150, 250 y 350 miles de COP. El cálculo es (150×2 + 250×5 + 350×3) / 10 = (300 + 1250 + 1050) / 10 = 2600 / 10 = 260, o sea $260.000$ COP. Además, la clase modal es la de $200.000$ a $300.000$ COP con frecuencia 5, por lo que ese rango describe lo más habitual y orienta una meta realista.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-8-2026-W11-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}
