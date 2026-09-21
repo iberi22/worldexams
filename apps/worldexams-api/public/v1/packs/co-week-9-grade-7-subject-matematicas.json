@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-9-grade-7-subject-matematicas",
+    "generated_at": "2026-09-21T16:00:54.396Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-7-2026-W09-porcentaje-aplicaciones-001-MASTERY-bundle-v1",
+      "statement": "¿Cuánto es el $50\\%$ de $80$?",
+      "context": "En Bogotá, una tienda anuncia el $50\\%$ de descuento en una colección de $80$ camisetas para liquidar inventario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$40$",
+          "is_correct": true,
+          "feedback": "Correcto. El $50\\%$ es la mitad: $80 \\div 2 = 40$."
+        },
+        {
+          "letter": "B",
+          "text": "$30$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor corresponde a menos de la mitad."
+        },
+        {
+          "letter": "C",
+          "text": "$50$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el número $50$ del porcentaje con el resultado."
+        },
+        {
+          "letter": "D",
+          "text": "$8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el $10\\%$ de $80$, no el $50\\%$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El $50\\%$ de una cantidad es su mitad: $\\frac{50}{100} \\times 80 = 40$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-7-2026-W09-porcentaje-aplicaciones-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W09-porcentaje-aplicaciones-001-MASTERY-bundle-v2",
+      "statement": "¿Qué significa calcular el $25\\%$ de una cantidad?",
+      "context": "En Medellín, el profesor explica que el $25\\%$ de los $32$ estudiantes del curso practica natación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Calcular la cuarta parte de la cantidad",
+          "is_correct": true,
+          "feedback": "Correcto. $25\\% = \\frac{25}{100} = \\frac{1}{4}$, es decir, la cuarta parte."
+        },
+        {
+          "letter": "B",
+          "text": "Calcular la mitad de la cantidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mitad corresponde al $50\\%$."
+        },
+        {
+          "letter": "C",
+          "text": "Calcular el doble de la cantidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. El doble corresponde al $200\\%$."
+        },
+        {
+          "letter": "D",
+          "text": "Calcular la décima parte de la cantidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. La décima parte corresponde al $10\\%$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El $25\\%$ equivale a la fracción $\\frac{1}{4}$: dividir la cantidad entre $4$. En el curso, $\\frac{32}{4} = 8$ estudiantes practican natación.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-7-2026-W09-porcentaje-aplicaciones-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W09-porcentaje-aplicaciones-001-MASTERY-bundle-v3",
+      "statement": "¿De cuánto es el descuento?",
+      "context": "En Cali, un televisor cuesta $1500000\\text{ COP}$ y la tienda ofrece un descuento del $20\\%$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$300000\\text{ COP}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{20}{100} \\times 1500000 = 300000$."
+        },
+        {
+          "letter": "B",
+          "text": "$30000\\text{ COP}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el $2\\%$, te faltó un cero."
+        },
+        {
+          "letter": "C",
+          "text": "$600000\\text{ COP}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese sería un descuento del $40\\%$."
+        },
+        {
+          "letter": "D",
+          "text": "$1300000\\text{ COP}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese sería el precio final aproximado, no el descuento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El descuento es $\\frac{20}{100} \\times 1500000 = 0.2 \\times 1500000 = 300000\\text{ COP}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W09-porcentaje-aplicaciones-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W09-porcentaje-aplicaciones-001-MASTERY-bundle-v4",
+      "statement": "¿Cuánto paga el cliente por la camiseta?",
+      "context": "En Barranquilla, una camiseta cuesta $60000\\text{ COP}$ y tiene un descuento del $10\\%$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$54000\\text{ COP}$",
+          "is_correct": true,
+          "feedback": "Correcto. Descuento de $6000$; precio final $60000 - 6000 = 54000$."
+        },
+        {
+          "letter": "B",
+          "text": "$50000\\text{ COP}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste $10000$ en lugar del $10\\%$ ($6000$)."
+        },
+        {
+          "letter": "C",
+          "text": "$6000\\text{ COP}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor del descuento, no el precio final."
+        },
+        {
+          "letter": "D",
+          "text": "$48000\\text{ COP}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese sería un descuento del $20\\%$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El $10\\%$ de $60000$ es $6000$. Precio final: $60000 - 6000 = 54000\\text{ COP}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W09-porcentaje-aplicaciones-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W09-porcentaje-aplicaciones-001-MASTERY-bundle-v5",
+      "statement": "¿Cuántas preguntas respondió correctamente?",
+      "context": "En Pereira, una prueba de matemáticas tiene $40$ preguntas y Juan responde correctamente el $75\\%$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$30$ preguntas",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{75}{100} \\times 40 = 30$."
+        },
+        {
+          "letter": "B",
+          "text": "$25$ preguntas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor no corresponde al $75\\%$ de $40$."
+        },
+        {
+          "letter": "C",
+          "text": "$35$ preguntas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese sería el $87.5\\%$ de la prueba."
+        },
+        {
+          "letter": "D",
+          "text": "$10$ preguntas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el $25\\%$, la parte que falló."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El $75\\%$ equivale a $\\frac{3}{4}$: $\\frac{3}{4} \\times 40 = 30$ preguntas correctas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W09-porcentaje-aplicaciones-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W09-porcentaje-aplicaciones-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el nuevo precio del computador?",
+      "context": "En Bucaramanga, un computador cuesta $1200000\\text{ COP}$ y su precio aumenta un $15\\%$ en diciembre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1380000\\text{ COP}$",
+          "is_correct": true,
+          "feedback": "Correcto. Aumento de $180000$; precio final $1200000 + 180000 = 1380000$."
+        },
+        {
+          "letter": "B",
+          "text": "$1320000\\text{ COP}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese sería un aumento del $10\\%$."
+        },
+        {
+          "letter": "C",
+          "text": "$1215000\\text{ COP}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste el $15\\%$ sobre $100000$ en lugar de $1200000$."
+        },
+        {
+          "letter": "D",
+          "text": "$1350000\\text{ COP}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese sería un aumento del $12.5\\%$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aumento: $0.15 \\times 1200000 = 180000$. Nuevo precio: $1200000 + 180000 = 1380000\\text{ COP}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-7-2026-W09-porcentaje-aplicaciones-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W09-porcentaje-aplicaciones-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál era el precio original de la maleta?",
+      "context": "En Manizales, después de un descuento del $20\\%$, una maleta cuesta $96000\\text{ COP}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$120000\\text{ COP}$",
+          "is_correct": true,
+          "feedback": "Correcto. El $80\\%$ del precio es $96000$, luego el precio es $96000 \\div 0.8 = 120000$."
+        },
+        {
+          "letter": "B",
+          "text": "$115200\\text{ COP}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aumentaste $96000$ en un $20\\%$ en lugar de dividir entre $0.8$."
+        },
+        {
+          "letter": "C",
+          "text": "$116000\\text{ COP}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste el $20\\%$ de $96000$ en lugar de hallar el valor base."
+        },
+        {
+          "letter": "D",
+          "text": "$76800\\text{ COP}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste el $80\\%$ de $96000$, es decir, aplicaste el descuento dos veces."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si $P$ es el precio original, $0.8P = 96000$, de donde $P = \\frac{96000}{0.8} = 120000\\text{ COP}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-7-2026-W09-porcentaje-aplicaciones-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W09-porcentaje-aplicaciones-001-MASTERY-bundle-v8",
+      "statement": "¿Cuántos estudiantes prefieren el atletismo?",
+      "context": "En Cartagena, de $200$ estudiantes encuestados, el $35\\%$ prefiere el fútbol y el $25\\%$ prefiere el baloncesto; el resto prefiere el atletismo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$80$ estudiantes",
+          "is_correct": true,
+          "feedback": "Correcto. Atletismo: $100\\% - 35\\% - 25\\% = 40\\%$; el $40\\%$ de $200$ es $80$."
+        },
+        {
+          "letter": "B",
+          "text": "$70$ estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el número de quienes prefieren el fútbol."
+        },
+        {
+          "letter": "C",
+          "text": "$60$ estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al restar los porcentajes conocidos."
+        },
+        {
+          "letter": "D",
+          "text": "$50$ estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el número de quienes prefieren el baloncesto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Fútbol: $70$ estudiantes; baloncesto: $50$ estudiantes. Atletismo: $200 - 70 - 50 = 80$ estudiantes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-7-2026-W09-porcentaje-aplicaciones-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W09-porcentaje-aplicaciones-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál oferta conviene más y cuánto se paga?",
+      "context": "En Medellín, el almacén A ofrece $30\\%$ de descuento en una bicicleta de $180000\\text{ COP}$ y el almacén B ofrece $25\\%$ de descuento en el mismo modelo marcado en $160000\\text{ COP}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El almacén B, se pagan $120000\\text{ COP}$",
+          "is_correct": true,
+          "feedback": "Correcto. A: $180000 \\times 0.7 = 126000$; B: $160000 \\times 0.75 = 120000$. Conviene B."
+        },
+        {
+          "letter": "B",
+          "text": "El almacén A, se pagan $126000\\text{ COP}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cálculo es correcto, pero el almacén B deja un precio menor."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas ofertas son iguales",
+          "is_correct": false,
+          "feedback": "Incorrecto. $126000 \\ne 120000$; hay una diferencia de $6000\\text{ COP}$."
+        },
+        {
+          "letter": "D",
+          "text": "El almacén B, se pagan $135000\\text{ COP}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese sería el precio con solo $15\\%$ de descuento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Precio A: $180000 \\times (1 - 0.30) = 126000$. Precio B: $160000 \\times (1 - 0.25) = 120000$. La mejor oferta es la del almacén B.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-7-2026-W09-porcentaje-aplicaciones-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W09-porcentaje-aplicaciones-001-MASTERY-bundle-v10",
+      "statement": "¿Es correcta la afirmación del vendedor?",
+      "context": "En Popayán, un balón cuesta $100000\\text{ COP}$. El vendedor afirma que aumentar el precio un $20\\%$ y luego aplicar un descuento del $20\\%$ deja el precio igual al inicial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, el precio final queda en $96000\\text{ COP}$",
+          "is_correct": true,
+          "feedback": "Correcto. $100000 \\times 1.2 = 120000$; $120000 \\times 0.8 = 96000$, es decir el $96\\%$ del original."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, el precio queda igual en $100000\\text{ COP}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El descuento se aplica sobre el precio ya aumentado, no sobre el original."
+        },
+        {
+          "letter": "C",
+          "text": "No, el precio final queda en $104000\\text{ COP}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al encadenar los dos porcentajes."
+        },
+        {
+          "letter": "D",
+          "text": "No, el precio final queda en $80000\\text{ COP}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplicaste el descuento sobre el precio original, no sobre el aumentado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aumentos y descuentos sucesivos no se cancelan: $100000 \\times 1.20 \\times 0.80 = 96000\\text{ COP}$, el $96\\%$ del precio inicial.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-7-2026-W09-porcentaje-aplicaciones-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

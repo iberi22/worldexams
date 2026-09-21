@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-11-grade-7-subject-matematicas",
+    "generated_at": "2026-09-21T16:00:54.397Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-7-2026-W11-estadistica-tablas-frecuencia-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es la frecuencia absoluta de un dato en una tabla?",
+      "context": "En Bogotá, la profesora registra en una tabla cuántos estudiantes prefieren cada fruta de la tienda escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El número de veces que aparece ese dato",
+          "is_correct": true,
+          "feedback": "Correcto. La frecuencia absoluta cuenta las repeticiones de cada dato."
+        },
+        {
+          "letter": "B",
+          "text": "La suma de todos los datos recogidos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa suma es el total de datos, no la frecuencia de uno."
+        },
+        {
+          "letter": "C",
+          "text": "El dato que aparece en la mitad de la tabla",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso se acerca a la idea de mediana, no de frecuencia."
+        },
+        {
+          "letter": "D",
+          "text": "El resultado de dividir el dato entre el total",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe la frecuencia relativa, no la absoluta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La frecuencia absoluta es el conteo de repeticiones de cada valor. La suma de todas las frecuencias absolutas es el total de datos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-7-2026-W11-estadistica-tablas-frecuencia-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W11-estadistica-tablas-frecuencia-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el sabor de moda, es decir, el de mayor frecuencia?",
+      "context": "En Medellín, una encuesta de sabores de helado da: fresa $8$ votos, chocolate $12$ votos y vainilla $5$ votos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chocolate",
+          "is_correct": true,
+          "feedback": "Correcto. Tiene $12$ votos, la frecuencia más alta."
+        },
+        {
+          "letter": "B",
+          "text": "Fresa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tiene $8$ votos, menos que el chocolate."
+        },
+        {
+          "letter": "C",
+          "text": "Vainilla",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tiene solo $5$ votos, la frecuencia más baja."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno, todos tienen la misma frecuencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las frecuencias $8$, $12$ y $5$ son diferentes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La moda es el dato con mayor frecuencia absoluta. Aquí el chocolate con $12$ votos es la moda.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-7-2026-W11-estadistica-tablas-frecuencia-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W11-estadistica-tablas-frecuencia-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la frecuencia relativa del fútbol?",
+      "context": "En Cali, $20$ estudiantes votan por su deporte favorito: fútbol $10$ votos, baloncesto $6$ votos y ciclismo $4$ votos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$50\\%$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{10}{20} = 0.5$, es decir el $50\\%$."
+        },
+        {
+          "letter": "B",
+          "text": "$10\\%$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste el número de votos como porcentaje."
+        },
+        {
+          "letter": "C",
+          "text": "$20\\%$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste entre $50$ en lugar de entre el total $20$."
+        },
+        {
+          "letter": "D",
+          "text": "$60\\%$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese sería el resultado con $12$ votos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La frecuencia relativa es $\\frac{\\text{frecuencia absoluta}}{\\text{total}} = \\frac{10}{20} = 0.5 = 50\\%$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W11-estadistica-tablas-frecuencia-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W11-estadistica-tablas-frecuencia-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la frecuencia acumulada hasta la categoría \"gato\" (perro más gato)?",
+      "context": "En Barranquilla, una tabla de mascotas registra: perro $9$, gato $7$, pájaro $5$ y pez $3$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$16$",
+          "is_correct": true,
+          "feedback": "Correcto. $9 + 7 = 16$."
+        },
+        {
+          "letter": "B",
+          "text": "$7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es solo la frecuencia del gato."
+        },
+        {
+          "letter": "C",
+          "text": "$9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es solo la frecuencia del perro."
+        },
+        {
+          "letter": "D",
+          "text": "$24$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el total de todas las categorías."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La frecuencia acumulada suma las frecuencias hasta esa fila: $9 + 7 = 16$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W11-estadistica-tablas-frecuencia-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W11-estadistica-tablas-frecuencia-001-MASTERY-bundle-v5",
+      "statement": "¿Cuántos estudiantes usan bus o bicicleta?",
+      "context": "En Pereira, $30$ estudiantes indican cómo llegan al colegio: bus $12$, a pie $9$, bicicleta $6$ y moto $3$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$18$ estudiantes",
+          "is_correct": true,
+          "feedback": "Correcto. $12 + 6 = 18$."
+        },
+        {
+          "letter": "B",
+          "text": "$12$ estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contaste solo a quienes usan bus."
+        },
+        {
+          "letter": "C",
+          "text": "$15$ estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste bus con moto en lugar de bus con bicicleta."
+        },
+        {
+          "letter": "D",
+          "text": "$21$ estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste bus, bicicleta y moto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se suman las frecuencias de las dos categorías pedidas: $12 + 6 = 18$ estudiantes.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W11-estadistica-tablas-frecuencia-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W11-estadistica-tablas-frecuencia-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el valor de $x$, la frecuencia del color rojo?",
+      "context": "En Bucaramanga, una tabla de colores favoritos de $40$ estudiantes registra: azul $14$, verde $9$, rojo $x$ y amarillo $6$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$11$",
+          "is_correct": true,
+          "feedback": "Correcto. $14 + 9 + 6 = 29$; $40 - 29 = 11$."
+        },
+        {
+          "letter": "B",
+          "text": "$9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Repetiste la frecuencia del verde."
+        },
+        {
+          "letter": "C",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al restar del total."
+        },
+        {
+          "letter": "D",
+          "text": "$13$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste mal las frecuencias conocidas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La suma de frecuencias debe ser el total: $x = 40 - (14 + 9 + 6) = 40 - 29 = 11$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-7-2026-W11-estadistica-tablas-frecuencia-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W11-estadistica-tablas-frecuencia-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál curso tiene mayor proporción de lectores?",
+      "context": "En Manizales, en el curso A a $12$ de $30$ estudiantes les gusta la lectura, y en el curso B a $15$ de $40$ les gusta la lectura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El curso A, con el $40\\%$",
+          "is_correct": true,
+          "feedback": "Correcto. A: $\\frac{12}{30} = 40\\%$; B: $\\frac{15}{40} = 37.5\\%$."
+        },
+        {
+          "letter": "B",
+          "text": "El curso B, con el $37.5\\%$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tiene más lectores en cantidad, pero menor proporción."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos tienen la misma proporción",
+          "is_correct": false,
+          "feedback": "Incorrecto. $40\\% \\ne 37.5\\%$."
+        },
+        {
+          "letter": "D",
+          "text": "El curso A, con el $30\\%$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste $12$ entre $40$ mezclando los dos cursos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar frecuencias relativas: curso A $\\frac{12}{30} = 0.40$ y curso B $\\frac{15}{40} = 0.375$. La proporción mayor es la del curso A.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-7-2026-W11-estadistica-tablas-frecuencia-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W11-estadistica-tablas-frecuencia-001-MASTERY-bundle-v8",
+      "statement": "¿Cuántos estudiantes tienen $2$ hermanos o menos?",
+      "context": "En Cartagena, una tabla registra cuántos hermanos tienen los estudiantes: $0$ hermanos: $6$, $1$ hermano: $10$, $2$ hermanos: $8$, $3$ hermanos: $4$, $4$ hermanos: $2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$24$ estudiantes",
+          "is_correct": true,
+          "feedback": "Correcto. $6 + 10 + 8 = 24$."
+        },
+        {
+          "letter": "B",
+          "text": "$18$ estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste solo $0$ y $2$ hermanos, sin el $1$."
+        },
+        {
+          "letter": "C",
+          "text": "$16$ estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $6 + 10$ sin incluir los de $2$ hermanos."
+        },
+        {
+          "letter": "D",
+          "text": "$10$ estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contaste solo a quienes tienen exactamente $1$ hermano."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Es la frecuencia acumulada hasta $2$ hermanos: $6 + 10 + 8 = 24$ estudiantes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-7-2026-W11-estadistica-tablas-frecuencia-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W11-estadistica-tablas-frecuencia-001-MASTERY-bundle-v9",
+      "statement": "¿Es correcta la afirmación del estudiante?",
+      "context": "En Medellín, una encuesta de $200$ personas sobre el festival de las flores muestra que la frecuencia relativa del color azul es $0.45$. Un estudiante afirma que más de la mitad prefiere el azul.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, porque $0.45$ equivale al $45\\%$, menos de la mitad",
+          "is_correct": true,
+          "feedback": "Correcto. $0.45 = 45\\% < 50\\%$, así que no es más de la mitad."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque $0.45$ supera a la mitad",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mitad es $0.50$ y $0.45$ es menor."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque $0.45$ equivale al $4.5\\%$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $0.45$ es $45\\%$, no $4.5\\%$."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, porque $90$ personas son más de la mitad de $200$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $90$ es menos que $100$, la mitad de $200$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La frecuencia absoluta del azul es $0.45 \\times 200 = 90$, que es el $45\\%$, menor que el $50\\%$. La afirmación es falsa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-7-2026-W11-estadistica-tablas-frecuencia-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W11-estadistica-tablas-frecuencia-001-MASTERY-bundle-v10",
+      "statement": "¿Es correcta la afirmación de la profesora?",
+      "context": "En Popayán, las notas finales de $20$ estudiantes son: $2.0$: $3$ estudiantes, $3.0$: $5$ estudiantes, $4.0$: $8$ estudiantes y $5.0$: $4$ estudiantes. La profesora afirma que más del $80\\%$ aprobó, con nota mayor o igual a $3.0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, aprobó el $85\\%$",
+          "is_correct": true,
+          "feedback": "Correcto. Aprobaron $5 + 8 + 4 = 17$; $\\frac{17}{20} = 85\\% > 80\\%$."
+        },
+        {
+          "letter": "B",
+          "text": "No, solo aprobó el $70\\%$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste incluir a quienes sacaron $5.0$."
+        },
+        {
+          "letter": "C",
+          "text": "No, solo aprobó el $60\\%$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excluiste dos categorías que sí aprobaron."
+        },
+        {
+          "letter": "D",
+          "text": "No, solo aprobó el $50\\%$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contaste menos de la mitad de los aprobados reales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aprobaron $17$ de $20$ estudiantes, es decir el $85\\%$, que supera el $80\\%$. La afirmación es correcta.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-7-2026-W11-estadistica-tablas-frecuencia-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}
