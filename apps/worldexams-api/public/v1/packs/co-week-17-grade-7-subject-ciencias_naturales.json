@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-17-grade-7-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T09:44:42.690Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-7-2026-W17-enlaces-quimicos-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es un enlace químico?",
+      "context": "En un salón de Tunja, la profesora muestra un salero de cocina y pregunta qué tipo de unión mantiene unidos al sodio y al cloro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un puente de madera que une dos veredas de Tunja sobre un río.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el enlace químico es una unión entre átomos, no una construcción de madera."
+        },
+        {
+          "letter": "B",
+          "text": "La unión que mantiene juntos a los átomos por transferencia o por compartición de electrones.",
+          "is_correct": true,
+          "feedback": "Correcta, porque define la unión atómica mediante electrones transferidos o compartidos."
+        },
+        {
+          "letter": "C",
+          "text": "Una cuerda de fique para amarrar bultos de papa en la plaza.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la cuerda sujeta objetos grandes, no une átomos."
+        },
+        {
+          "letter": "D",
+          "text": "Una mezcla donde los átomos flotan separados sin tocarse jamás.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque en el enlace los átomos sí quedan unidos de forma estable."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El enlace químico es la fuerza que une a los átomos para formar compuestos estables. Los átomos buscan completar su capa externa de electrones y para lograrlo ceden, reciben o comparten electrones. La química de la sal, del agua y del aire depende de estas uniones.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-7-2026-W17-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W17-enlaces-quimicos-001-MASTERY-bundle-v2",
+      "statement": "¿Qué diferencia hay entre un enlace iónico y un enlace covalente?",
+      "context": "En una cocina escolar de Medellín, los estudiantes disuelven sal en agua y observan que el agua con sal conduce electricidad con un bombillo de prueba.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el iónico un átomo cede y otro recibe electrones formando iones, y en el covalente los átomos comparten electrones.",
+          "is_correct": true,
+          "feedback": "Correcta, porque distingue transferencia de electrones frente a compartición."
+        },
+        {
+          "letter": "B",
+          "text": "En el iónico los átomos comparten todo y en el covalente se prestan ollas de Medellín.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque invierte las definiciones y usa un objeto cotidiano ajeno."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos son iguales porque en los dos los electrones desaparecen del laboratorio.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque los electrones no desaparecen sino que se reubican entre átomos."
+        },
+        {
+          "letter": "D",
+          "text": "El iónico solo ocurre en metales puros y el covalente solo en piedras gigantes.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la sal común es iónica y el agua es covalente, sin ser esos materiales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El enlace iónico nace entre un metal que pierde electrones y un no metal que los gana, como el sodio y el cloro de la sal. El enlace covalente nace entre no metales que comparten pares de electrones, como los hidrógenos con el oxígeno en el agua. Esa diferencia explica por qué la sal forma cristales quebradizos y el agua forma moléculas estables.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-7-2026-W17-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W17-enlaces-quimicos-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué la sal de cocina se disuelve fácilmente en agua y conduce electricidad disuelta?",
+      "context": "En un mercado de Cartagena, una vendedora explica que la sal de cocina endurece el pescado y un estudiante quiere saber por qué la sal se disuelve tan fácil en agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la sal es una piedra impermeable que flota entera sobre el agua de Cartagena.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la sal sí se separa en iones dentro del agua."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el agua derrite la sal con calor como una vela encendida.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la disolución no es fusión por calor sino separación de iones por el agua."
+        },
+        {
+          "letter": "C",
+          "text": "Porque es un compuesto iónico y el agua separa sus iones sodio y cloruro, que transportan la carga eléctrica.",
+          "is_correct": true,
+          "feedback": "Correcta, porque relaciona el carácter iónico con la separación en iones móviles."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la sal se convierte en azúcar dentro del vaso y el azúcar conduce luz.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la sal no se transforma en azúcar y el azúcar no conduce electricidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La sal es cloruro de sodio con enlace iónico. El agua, que es polar, rodea cada ion y lo arranca del cristal. Ya libres, los iones sodio positivos y cloruro negativos se mueven y llevan la corriente que enciende el bombillo de prueba. Por eso el agua pura casi no conduce y el agua con sal sí conduce.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W17-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W17-enlaces-quimicos-001-MASTERY-bundle-v4",
+      "statement": "¿Qué ejemplo representa un enlace covalente cotidiano frente a uno iónico?",
+      "context": "En un laboratorio de Bucaramanga, los estudiantes comparan un terrón de azúcar y un cristal de sal golpeándolos con suavidad y calentando pequeñas muestras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua que hierve en Bucaramanga porque sus moléculas están pegadas con tornillos de acero.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque las moléculas de agua se unen por electrones compartidos, no por tornillos."
+        },
+        {
+          "letter": "D",
+          "text": "El azúcar de la panela comparte electrones entre carbono, hidrógeno y oxígeno, mientras la sal transfiere electrones del sodio al cloro.",
+          "is_correct": true,
+          "feedback": "Correcta, porque clasifica el azúcar como covalente y la sal como iónica."
+        },
+        {
+          "letter": "B",
+          "text": "El aire que respiramos porque es un metal líquido que se puede laminar.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el aire tiene moléculas covalentes como oxígeno y nitrógeno, no es metal."
+        },
+        {
+          "letter": "C",
+          "text": "La sal de cocina porque sus átomos flotan sin unión dentro del salero.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque sin enlace iónico fuerte no existiría el cristal de sal."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El azúcar de mesa y la panela están formados por átomos de carbono, hidrógeno y oxígeno que comparten electrones con enlaces covalentes. La sal, en cambio, nace de la transferencia de un electrón del sodio al cloro. Por eso sus cristales, su dureza y su comportamiento al fundirse son distintos y la física de cada sólido cambia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W17-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W17-enlaces-quimicos-001-MASTERY-bundle-v5",
+      "statement": "¿Por qué el clavo junto a la sal húmeda se oxida más rápido que el clavo seco?",
+      "context": "En una casa de Pasto, un estudiante deja un clavo de hierro junto a la sal húmeda y otro clavo seco lejos de la cocina durante una semana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la sal seca el aire de Pasto y pinta el clavo de color rojizo.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la sal húmeda aporta iones y humedad que aceleran la corrosión, no sequedad."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la sal disuelta aporta iones que facilitan la transferencia de electrones entre el hierro y el oxígeno.",
+          "is_correct": true,
+          "feedback": "Correcta, porque conecta los iones móviles con la reacción de oxidación del hierro."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el clavo seco recibe más electrones del aire limpio de la sala.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque sin humedad ni iones la transferencia de electrones es mucho más lenta."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la sal convierte el hierro en plástico blando durante la noche.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el hierro sigue siendo metal y forma óxido sólido, no plástico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La oxidación del hierro es una reacción donde el hierro cede electrones al oxígeno con ayuda del agua. La sal disuelta aumenta la conductividad de la película de agua sobre el clavo y acelera ese intercambio de electrones. Por eso en zonas costeras y cocinas con sal los objetos de hierro se protegen con pintura o aceite.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W17-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W17-enlaces-quimicos-001-MASTERY-bundle-v6",
+      "statement": "¿Cómo permiten la solubilidad y la conductividad distinguir el tipo de enlace de cada muestra?",
+      "context": "En un colegio de Cali, tres muestras rotuladas contienen sal, azúcar y limadura de hierro. Los estudiantes prueban solubilidad en agua y conductividad de cada mezcla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La sal se disuelve y conduce por ser iónica, el azúcar se disuelve sin conducir por ser covalente polar, y el hierro no se disuelve porque tiene enlace metálico.",
+          "is_correct": true,
+          "feedback": "Correcta, porque interpreta cada resultado según el modelo de enlace correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Las tres conducen igual porque sal, azúcar y hierro tienen el mismo enlace de Cali.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el azúcar disuelta no libera iones y el hierro no se disuelve."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguna se disuelve porque todos los sólidos son eternos en agua fría.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque sal y azúcar sí forman soluciones visibles en agua."
+        },
+        {
+          "letter": "D",
+          "text": "La sal no conduce porque es covalente y el azúcar conduce porque es un metal dulce.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque invierte las categorías y ningún azúcar es metal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar datos separa los tres modelos. El compuesto iónico libera iones móviles y por eso la solución conduce. El compuesto covalente como el azúcar se dispersa en moléculas neutras que no transportan carga. El metal tiene una nube de electrones que conduce en sólido pero no se disuelve en agua. También la energía necesaria para romper cada red es distinta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W17-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W17-enlaces-quimicos-001-MASTERY-bundle-v7",
+      "statement": "¿Qué análisis con electrones externos explica la fórmula de la sal y la del agua?",
+      "context": "En una clase de Manizales, la profesora dibuja los puntos de electrones del sodio con uno externo, del cloro con siete y del hidrógeno con uno para predecir uniones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El sodio comparte un electrón con el hidrógeno y el cloro queda libre en Manizales.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la sal no contiene hidrógeno y el agua no contiene sodio."
+        },
+        {
+          "letter": "B",
+          "text": "El sodio cede su electrón externo al cloro formando sal, y el oxígeno comparte un par con cada hidrógeno formando agua.",
+          "is_correct": true,
+          "feedback": "Correcta, porque describe transferencia en la sal y compartición doble en el agua."
+        },
+        {
+          "letter": "C",
+          "text": "El cloro cede siete electrones al sodio y el oxígeno regala protones sueltos.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el cloro recibe un electrón y los protones no se regalan en el enlace."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los átomos pierden todos sus electrones y quedan vacíos para siempre.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque los átomos conservan sus capas internas y solo reubican los externos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El sodio tiene un electrón externo que le sobra y el cloro tiene siete y le falta uno, así que la transferencia deja a ambos estables y nace el cristal iónico. El oxígeno tiene seis externos y necesita dos, por eso comparte un par con cada hidrógeno y completa ocho. El diagrama de puntos también anticipa que el magnesio cede dos y el calcio se comporta parecido.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W17-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W17-enlaces-quimicos-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué la sal mantiene su cristal a temperatura donde el azúcar ya se funde?",
+      "context": "En una panadería de Bogotá, el horno funde azúcar para caramelo a temperatura moderada, pero la sal del pan sigue en granos sólidos a la misma temperatura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la sal contiene agua fría de Bogotá que la mantiene congelada.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el cristal de sal no guarda agua fría en su interior."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la red iónica de la sal tiene atracciones muy fuertes que exigen más energía para romperse que los enlaces entre moléculas de azúcar.",
+          "is_correct": true,
+          "feedback": "Correcta, porque compara la red iónica con las fuerzas entre moléculas covalentes."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el azúcar es un metal que se derrite con cualquier calor pequeño.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el azúcar es molecular covalente, no un metal."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el horno calienta solo el azúcar y deja fría la sal por amistad.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el horno entrega calor parejo a toda la bandeja."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La sal forma una red tridimensional donde cada ion atrae a varios vecinos de carga opuesta y romperla pide mucha energía. El azúcar forma moléculas neutras unidas entre sí por fuerzas más débiles, así que se ablanda y funde antes. Por eso la física del punto de fusión también revela el tipo de enlace dominante.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W17-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W17-enlaces-quimicos-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la mejor evaluación de la compra para grado séptimo?",
+      "context": "Un colegio de Villavicencio con 12000000 de pesos debe elegir entre un kit de conductividad con sales y azúcares para todo el grado o una salida a comprar muestras puras de sodio metálico y cloro gaseoso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las muestras puras porque el sodio y el cloro sueltos son seguros en manos de niños en Villavicencio.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el sodio reacciona con violencia con el agua y el cloro gaseoso irrita las vías respiratorias."
+        },
+        {
+          "letter": "B",
+          "text": "El kit de conductividad porque es seguro, reutilizable y demuestra la diferencia entre enlace iónico y covalente sin riesgo.",
+          "is_correct": true,
+          "feedback": "Correcta, porque pondera seguridad, valor pedagógico y costo frente al peligro."
+        },
+        {
+          "letter": "C",
+          "text": "La salida a comprar gases porque el laboratorio se puede improvisar en cualquier patio sin normas.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el manejo de reactivos peligrosos exige campana, gafas y docente entrenado."
+        },
+        {
+          "letter": "D",
+          "text": "El kit es malo porque con 12000000 de pesos el dinero reemplaza cualquier medida de seguridad.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el presupuesto no neutraliza la reactividad química de las muestras puras."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar exige proteger la vida antes que el impacto visual. El sodio metálico arde con la humedad del aire y el cloro gaseoso es tóxico. El kit con sal, azúcar, vasos, electrodos y bombillo deja medir, comparar y repetir el experimento por años. Las muestras puras solo corresponden a laboratorios de bachillerato avanzado con protocolos estrictos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-7-2026-W17-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W17-enlaces-quimicos-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la evaluación científica de esas dos afirmaciones?",
+      "context": "En Pereira circula la cadena de que la sal de cocina tiene moléculas de NaCl que flotan sueltas y de que el agua salada es un elemento nuevo con símbolo SA.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambas son falsas porque la sal forma una red iónica sin moléculas sueltas y el agua con sal es una mezcla, no un elemento.",
+          "is_correct": true,
+          "feedback": "Correcta, porque corrige el modelo de red cristalina y distingue mezcla de elemento."
+        },
+        {
+          "letter": "B",
+          "text": "Ambas son ciertas porque en Pereira los símbolos se crean por votación del curso.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque los símbolos químicos son internacionales y no dependen del curso."
+        },
+        {
+          "letter": "C",
+          "text": "Solo es cierta la de la sal, porque SA sí fue aprobado como elemento líquido.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque ningún organismo aprobó SA como símbolo de elemento."
+        },
+        {
+          "letter": "D",
+          "text": "Solo es cierta la del agua salada, porque NaCl sí es una molécula aislada que nada en el vaso.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque en el cristal cada ion está rodeado de vecinos y en solución los iones se separan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La sal sólida no tiene moléculas aisladas sino una red donde cada sodio se rodea de cloros y viceversa. La fórmula NaCl solo indica proporción uno a uno. El agua con sal es una mezcla homogénea que se puede separar por evaporación, mientras un elemento no se separa por métodos físicos. La cadena de Pereira confunde niveles de organización de la materia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-7-2026-W17-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}
