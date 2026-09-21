@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-14-grade-8-subject-matematicas",
+    "generated_at": "2026-09-21T23:38:05.291Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-8-2026-W14-volumen-prismas-cilindros-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la fórmula del volumen $V$ de un prisma recto con área de la base $B$ y altura $h$?",
+      "context": "En Medellín, en la feria de la construcción en Plaza Mayor, un expositor presenta un prisma rectangular y recuerda que su volumen depende del área de la base y de la altura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$V = 2B + h$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa expresión suma cantidades con unidades distintas; el volumen de un prisma es un producto."
+        },
+        {
+          "letter": "B",
+          "text": "$V = B \\times h$",
+          "is_correct": true,
+          "feedback": "Correcto. El volumen de todo prisma recto es el área de la base multiplicada por la altura: $V = B \\times h$."
+        },
+        {
+          "letter": "C",
+          "text": "$V = B + h$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumar el área con la altura no produce unidades cúbicas ni representa el espacio ocupado."
+        },
+        {
+          "letter": "D",
+          "text": "$V = 2 \\times (B + h)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa fórmula corresponde a perímetros o recuentos lineales, no al volumen del prisma."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un prisma se forma al apilar capas iguales a la base $B$ a lo largo de la altura $h$. Por eso su volumen es $V = B \\times h$. Si la base es un rectángulo de lados $l$ y $w$, entonces $B = l \\times w$ y $V = l \\times w \\times h$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W14-volumen-prismas-cilindros-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W14-volumen-prismas-cilindros-001-MASTERY-bundle-v2",
+      "statement": "Si las aristas de una caja se miden en metros, ¿en qué unidades se expresa su volumen y cuánto vale para esa caja?",
+      "context": "En Bogotá, en Corferias, un estudiante observa una caja de $2$ m de largo, $3$ m de ancho y $4$ m de alto y se pregunta en qué unidades debe expresar su volumen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En metros cuadrados y vale $24$ m².",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los metros cuadrados miden áreas; el volumen de una caja ocupa espacio tridimensional."
+        },
+        {
+          "letter": "B",
+          "text": "En metros y vale $9$ m.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $2 + 3 + 4 = 9$; el volumen exige multiplicar las tres dimensiones."
+        },
+        {
+          "letter": "C",
+          "text": "En metros y vale $24$ m.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número $24$ es correcto ($2 \\times 3 \\times 4$), pero la unidad debe ser cúbica, no lineal."
+        },
+        {
+          "letter": "D",
+          "text": "En metros cúbicos y vale $24$ m³.",
+          "is_correct": true,
+          "feedback": "Correcto. El volumen es $V = 2 \\times 3 \\times 4 = 24$ y se expresa en metros cúbicos (m³)."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El volumen mide el espacio tridimensional y usa unidades cúbicas. Para la caja: $V = 2 \\times 3 \\times 4 = 24$ m³. Confundir m con m² o m³ es uno de los errores más frecuentes en las pruebas Saber.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W14-volumen-prismas-cilindros-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W14-volumen-prismas-cilindros-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el volumen del contenedor?",
+      "context": "En Cali, en la bodega del barrio El Calvario, se almacena mercancía en un contenedor con forma de prisma rectangular de $4$ m de largo, $3$ m de ancho y $5$ m de alto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$60$ m³",
+          "is_correct": true,
+          "feedback": "Correcto. El volumen es $V = 4 \\times 3 \\times 5 = 12 \\times 5 = 60$ m³."
+        },
+        {
+          "letter": "B",
+          "text": "$12$ m³",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste solo $4 \\times 3 = 12$ (el área de la base) y olvidaste multiplicar por la altura $5$."
+        },
+        {
+          "letter": "C",
+          "text": "$24$ m³",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste $4 \\times 3 \\times 2$ con una altura equivocada; la altura dada es $5$, no $2$."
+        },
+        {
+          "letter": "D",
+          "text": "$47$ m³",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $4 \\times 5 + 3 \\times 5 + 4 \\times 3 = 47$, que es un área lateral parcial, no el volumen."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se aplica $V = l \\times w \\times h = 4 \\times 3 \\times 5 = 60$ m³. El área de la base es $12$ m² y al multiplicarla por la altura de $5$ m se obtiene el espacio total disponible para la mercancía.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-8-2026-W14-volumen-prismas-cilindros-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W14-volumen-prismas-cilindros-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el volumen de cada caja cúbica de $6$ cm de arista?",
+      "context": "En Barranquilla, en el malecón del río Magdalena, una empresa empaca bocadillos en cajas cúbicas de $6$ cm de arista para vender en tiendas del centro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$18$ cm³",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste $6 \\times 3 = 18$; el cubo exige elevar la arista a la tercera potencia."
+        },
+        {
+          "letter": "B",
+          "text": "$36$ cm³",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste $6^2 = 36$, que es el área de una cara, no el volumen del cubo."
+        },
+        {
+          "letter": "C",
+          "text": "$216$ cm³",
+          "is_correct": true,
+          "feedback": "Correcto. El volumen del cubo es $V = 6^3 = 6 \\times 6 \\times 6 = 216$ cm³."
+        },
+        {
+          "letter": "D",
+          "text": "$108$ cm³",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste la mitad del volumen ($216 / 2$); el cubo completo es $6^3 = 216$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El cubo es un prisma con todas las aristas iguales: $V = l^3$. Aquí $V = 6^3 = 216$ cm³. El valor $36$ cm² corresponde al área de una cara y es un distractor típico.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-8-2026-W14-volumen-prismas-cilindros-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W14-volumen-prismas-cilindros-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el volumen exacto del tanque cilíndrico?",
+      "context": "En Bucaramanga, en la plaza de mercado Guarín, un vendedor almacena jugo en un tanque cilíndrico de radio $3$ m y altura $10$ m.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$39\\pi$ m³",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $9 + 30$ de forma lineal; el volumen del cilindro es $\\pi r^2 h$, un producto."
+        },
+        {
+          "letter": "B",
+          "text": "$90\\pi$ m³",
+          "is_correct": true,
+          "feedback": "Correcto. El volumen es $V = \\pi \\times 3^2 \\times 10 = \\pi \\times 9 \\times 10 = 90\\pi$ m³."
+        },
+        {
+          "letter": "C",
+          "text": "$60\\pi$ m³",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste el diámetro como radio ($V = \\pi \\times 6 \\times 10$); el radio correcto es $3$."
+        },
+        {
+          "letter": "D",
+          "text": "$30\\pi$ m³",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste $3 \\times 10 = 30$ sin elevar el radio al cuadrado; falta el factor $3$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El área de la base circular es $B = \\pi r^2 = 9\\pi$ m². Multiplicada por la altura $10$ m se obtiene $V = 90\\pi \\approx 282,7$ m³. El error más común es olvidar el cuadrado del radio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W14-volumen-prismas-cilindros-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W14-volumen-prismas-cilindros-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el volumen del prisma triangular?",
+      "context": "En Cartagena, en el barrio Bocagrande, un arquitecto diseña un prisma triangular para un quiosco. La base triangular tiene $8$ m de base y $5$ m de altura, y el prisma tiene $12$ m de longitud.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$100$ m³",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste $8 \\times 5 \\times 12 / 4,8$ con una división arbitraria; el área triangular es base por altura sobre dos."
+        },
+        {
+          "letter": "B",
+          "text": "$480$ m³",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste dividir entre dos: $8 \\times 5 \\times 12 = 480$ es el volumen de un prisma rectangular, no triangular."
+        },
+        {
+          "letter": "C",
+          "text": "$60$ m³",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste solo el área de la base triangular ($8 \\times 5 / 2 = 20$) multiplicada por $3$ en vez de por $12$."
+        },
+        {
+          "letter": "D",
+          "text": "$240$ m³",
+          "is_correct": true,
+          "feedback": "Correcto. El área triangular es $8 \\times 5 / 2 = 20$ m² y el volumen es $20 \\times 12 = 240$ m³."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Primero se halla el área de la base: $B = 8 \\times 5 / 2 = 20$ m². Luego $V = B \\times 12 = 240$ m³. Omitir la división entre dos duplica el resultado y es el error que evalúa esta pregunta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-8-2026-W14-volumen-prismas-cilindros-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W14-volumen-prismas-cilindros-001-MASTERY-bundle-v7",
+      "statement": "¿Cuántas veces mayor es el volumen del tanque B respecto al tanque A?",
+      "context": "En Medellín, en la comuna 13, dos tanques cilíndricos para agua tienen la misma altura de $8$ m. El tanque A tiene radio $2$ m y el tanque B tiene radio $4$ m. La comunidad discute cuál almacena más.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4$ veces mayor.",
+          "is_correct": true,
+          "feedback": "Correcto. Como $V = \\pi r^2 h$, al duplicar el radio el volumen se multiplica por $2^2 = 4$: $V_A = 32\\pi$ y $V_B = 128\\pi$."
+        },
+        {
+          "letter": "B",
+          "text": "$2$ veces mayor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa sería la razón de los radios o de las áreas laterales, pero el volumen depende de $r^2$."
+        },
+        {
+          "letter": "C",
+          "text": "$8$ veces mayor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese factor correspondería a duplicar las tres dimensiones; aquí solo se duplica el radio."
+        },
+        {
+          "letter": "D",
+          "text": "Igual, porque tienen la misma altura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con igual altura, el volumen depende del área de la base, que sí cambia con el radio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$V_A = \\pi \\times 4 \\times 8 = 32\\pi$ y $V_B = \\pi \\times 16 \\times 8 = 128\\pi$. La razón es $128\\pi / 32\\pi = 4$. En general, si el radio se multiplica por $k$, el volumen se multiplica por $k^2$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-MAT-8-2026-W14-volumen-prismas-cilindros-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W14-volumen-prismas-cilindros-001-MASTERY-bundle-v8",
+      "statement": "¿Cuántos litros de leche contiene el silo?",
+      "context": "En Cali, en la planta de Lácteos del Valle, un silo cilíndrico de radio $2$ m contiene leche hasta $5$ m de altura. El ingeniero necesita saber cuántos litros hay ($1$ m³ $= 1000$ litros).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$20000\\pi$ litros, porque usaste el diámetro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa expresión usa $r = 4$ en vez de $r = 2$; revisa cuál es el radio dado."
+        },
+        {
+          "letter": "B",
+          "text": "$10\\pi$ litros, porque olvidaste convertir a litros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor está en metros cúbicos ($20\\pi$) dividido entre dos; además falta multiplicar por $1000$."
+        },
+        {
+          "letter": "C",
+          "text": "$20000\\pi$ litros, aproximadamente $62832$ litros.",
+          "is_correct": true,
+          "feedback": "Correcto. El volumen es $V = \\pi \\times 4 \\times 5 = 20\\pi$ m³ y en litros es $20\\pi \\times 1000 = 20000\\pi \\approx 62832$."
+        },
+        {
+          "letter": "D",
+          "text": "$6283$ litros, porque dividiste entre diez.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor es diez veces menor; la conversión correcta es $20\\pi \\times 1000$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "$V = \\pi r^2 h = \\pi \\times 4 \\times 5 = 20\\pi \\approx 62,83$ m³. Como $1$ m³ $= 1000$ litros, el contenido es $20\\pi \\times 1000 = 20000\\pi \\approx 62832$ litros. La pregunta integra geometría con conversión de unidades.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-8-2026-W14-volumen-prismas-cilindros-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W14-volumen-prismas-cilindros-001-MASTERY-bundle-v9",
+      "statement": "¿Cuánto cuesta llenar completamente la jardinera con tierra?",
+      "context": "En Bogotá, en Ciudad Bolívar, la alcaldía construye una jardinera con forma de prisma rectangular de $6$ m de largo, $2$ m de ancho y $0,5$ m de profundidad. El vivero vende la tierra a $80000$ COP por metro cúbico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$240000$ COP, porque calculaste $6$ m³ de tierra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese costo corresponde a $3$ m³; el volumen real es $6 \\times 2 \\times 0,5 = 6$ m³ y debes multiplicar por $80000$."
+        },
+        {
+          "letter": "B",
+          "text": "$480000$ COP.",
+          "is_correct": true,
+          "feedback": "Correcto. El volumen es $6 \\times 2 \\times 0,5 = 6$ m³ y el costo es $6 \\times 80000 = 480000$ COP."
+        },
+        {
+          "letter": "C",
+          "text": "$960000$ COP, porque duplicaste la profundidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste $1$ m de profundidad en vez de $0,5$ m; el volumen se duplica por ese error."
+        },
+        {
+          "letter": "D",
+          "text": "$160000$ COP, porque dividiste entre tres.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor corresponde a $2$ m³; revisa la multiplicación $6 \\times 2 \\times 0,5$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "$V = 6 \\times 2 \\times 0,5 = 6$ m³. El costo es $6 \\times 80000 = 480000$ COP. La pregunta combina el cálculo geométrico con una decisión de presupuesto en pesos colombianos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-8-2026-W14-volumen-prismas-cilindros-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W14-volumen-prismas-cilindros-001-MASTERY-bundle-v10",
+      "statement": "¿Es correcta la afirmación del contratista?",
+      "context": "En Barranquilla, en el barrio El Prado, un contratista afirma que si se duplican las tres aristas de una caja rectangular, su volumen se duplica. El interventor debe verificar la afirmación con una caja de $2$ m $\\times$ $3$ m $\\times$ $5$ m.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque cada arista se duplica y el volumen también.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El volumen es un producto de tres factores; duplicar cada uno multiplica el producto por $2 \\times 2 \\times 2$."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque $2 \\times 30 = 60$ y ese es el nuevo volumen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El volumen original es $30$ m³, pero el nuevo es $4 \\times 6 \\times 10 = 240$, no $60$."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque el volumen se reduce a la mitad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al agrandar las aristas el volumen crece, no se reduce; calcula $(2l)(2w)(2h)$."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque el volumen se multiplica por $8$: pasa de $30$ m³ a $240$ m³.",
+          "is_correct": true,
+          "feedback": "Correcto. El volumen original es $30$ m³ y el nuevo es $4 \\times 6 \\times 10 = 240 = 8 \\times 30$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Si cada dimensión se multiplica por $2$, el volumen se multiplica por $2^3 = 8$. Aquí $V = 2 \\times 3 \\times 5 = 30$ y $V' = 4 \\times 6 \\times 10 = 240 = 8 \\times 30$. La afirmación del contratista subestima gravemente el material necesario.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-8-2026-W14-volumen-prismas-cilindros-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W14-volumen-prismas-cilindros-001-MASTERY-bundle-v11",
+      "statement": "¿Qué altura alcanzará el agua en el tanque prismático?",
+      "context": "En Bucaramanga, en el acueducto veredal, un tanque cilíndrico de radio $3$ m y altura $8$ m está lleno hasta la mitad. Se trasvasa toda el agua a un tanque prismático de $6$ m de largo por $6$ m de ancho.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\pi$ m, aproximadamente $3,14$ m.",
+          "is_correct": true,
+          "feedback": "Correcto. El agua es la mitad del cilindro: $36\\pi$ m³; en el prisma $36h' = 36\\pi$, de donde $h' = \\pi \\approx 3,14$."
+        },
+        {
+          "letter": "B",
+          "text": "$2\\pi$ m, porque olvidaste dividir entre dos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el volumen del cilindro completo dividido por $36$; debes usar solo la mitad del agua."
+        },
+        {
+          "letter": "C",
+          "text": "$1,57$ m, porque dividiste dos veces entre dos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste la mitad entre dos otra vez; la mitad del cilindro es $36\\pi$, no $18\\pi$."
+        },
+        {
+          "letter": "D",
+          "text": "$6$ m, porque igualaste el ancho con la altura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La altura del agua depende del volumen trasvasado, no de las dimensiones del prisma aisladas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cilindro completo tiene $V = \\pi \\times 9 \\times 8 = 72\\pi$ m³; la mitad es $36\\pi$ m³. En el prisma de base $36$ m², la altura es $h' = 36\\pi / 36 = \\pi \\approx 3,14$ m. Es una conservación de volumen entre dos formas distintas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W14-volumen-prismas-cilindros-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W14-volumen-prismas-cilindros-001-MASTERY-bundle-v12",
+      "statement": "¿Cuántos cilindros completos se pueden fabricar con un bloque?",
+      "context": "En Cartagena, en la zona industrial de Mamonal, se funde un bloque metálico con forma de prisma rectangular de $10$ cm $\\times$ $8$ cm $\\times$ $5$ cm para fabricar cilindros macizos de radio $2$ cm y altura $5$ cm. El torno desperdicia el $20$ % del metal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6$ cilindros, porque ignoraste el desperdicio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin desperdicio saldrían $400 / 20\\pi \\approx 6,37$, es decir $6$; pero el $20$ % de pérdida reduce el metal útil."
+        },
+        {
+          "letter": "B",
+          "text": "$4$ cilindros, porque redondeaste mal hacia abajo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con el metal útil de $320$ cm³ se obtienen $320 / 62,83 \\approx 5,09$, es decir $5$ completos, no $4$."
+        },
+        {
+          "letter": "C",
+          "text": "$5$ cilindros.",
+          "is_correct": true,
+          "feedback": "Correcto. El bloque tiene $400$ cm³, el metal útil es $320$ cm³ y cada cilindro usa $20\\pi \\approx 62,83$ cm³; $320 / 62,83 \\approx 5,09$."
+        },
+        {
+          "letter": "D",
+          "text": "$8$ cilindros, porque usaste el diámetro como radio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $r = 4$ el cilindro sería cuatro veces mayor y saldrían menos, no más; además ignoraste el desperdicio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Bloque: $V = 10 \\times 8 \\times 5 = 400$ cm³. Metal útil: $400 \\times 0,8 = 320$ cm³. Cada cilindro: $V_c = \\pi \\times 4 \\times 5 = 20\\pi \\approx 62,83$ cm³. Cociente: $320 / 62,83 \\approx 5,09$, luego se fabrican $5$ cilindros completos. La pregunta integra volumen, porcentaje y decisión con redondeo hacia abajo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W14-volumen-prismas-cilindros-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}
