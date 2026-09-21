@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-38-grade-6-subject-matematicas",
+    "generated_at": "2026-09-21T03:00:13.421Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-6-2026-W38-volumen-cubos-prismas-capacidad-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál fórmula permite calcular el volumen de un cubo cuya arista mide a?",
+      "context": "En una obra de Bogotá se construye un tanque cúbico y se recuerda la fórmula para calcular su volumen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a × a × a",
+          "is_correct": true,
+          "feedback": "Es correcta porque el volumen del cubo es el producto de sus tres aristas iguales."
+        },
+        {
+          "letter": "B",
+          "text": "3 × a",
+          "is_correct": false,
+          "feedback": "Error conceptual: multiplicar por 3 da tres veces la arista, no el volumen."
+        },
+        {
+          "letter": "C",
+          "text": "a + a + a",
+          "is_correct": false,
+          "feedback": "Error conceptual: sumar las aristas da una longitud, no un volumen."
+        },
+        {
+          "letter": "D",
+          "text": "6 × a × a",
+          "is_correct": false,
+          "feedback": "Error conceptual: 6 × a × a corresponde al área de las seis caras, no al volumen."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cubo tiene tres dimensiones iguales: largo, ancho y alto. Su volumen es a × a × a, que se lee como a al cubo y se expresa en unidades cúbicas como cm³ o m³.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-6-2026-W38-volumen-cubos-prismas-capacidad-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W38-volumen-cubos-prismas-capacidad-001-MASTERY-bundle-v2",
+      "statement": "¿Cuántos litros equivalen a 1.000 cm³?",
+      "context": "En un acueducto veredal de Antioquia un operario explica la relación entre volumen y capacidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 litro",
+          "is_correct": true,
+          "feedback": "Es correcta porque 1 litro equivale exactamente a 1.000 cm³ o a 1 decímetro cúbico."
+        },
+        {
+          "letter": "B",
+          "text": "1.000 litros",
+          "is_correct": false,
+          "feedback": "Error conceptual: confunde la cantidad de centímetros cúbicos con la cantidad de litros."
+        },
+        {
+          "letter": "C",
+          "text": "10 litros",
+          "is_correct": false,
+          "feedback": "Error conceptual: la equivalencia no escala por 10, sino por 1.000 cm³ por litro."
+        },
+        {
+          "letter": "D",
+          "text": "0,5 litros",
+          "is_correct": false,
+          "feedback": "Error conceptual: medio litro equivale a 500 cm³, no a 1.000 cm³."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La capacidad se relaciona con el volumen mediante el litro. Como 1 dm³ = 1.000 cm³ y 1 dm³ equivale a 1 litro, entonces 1.000 cm³ son 1 litro. Esta equivalencia permite convertir volúmenes en capacidades.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-6-2026-W38-volumen-cubos-prismas-capacidad-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W38-volumen-cubos-prismas-capacidad-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el volumen del bloque cúbico?",
+      "context": "En una construcción de Medellín se elabora un bloque cúbico de concreto cuya arista mide 3 m.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "27 m³",
+          "is_correct": true,
+          "feedback": "Es correcta porque 3 × 3 × 3 = 27 m³."
+        },
+        {
+          "letter": "B",
+          "text": "9 m³",
+          "is_correct": false,
+          "feedback": "Error conceptual: multiplica solo dos aristas y olvida la tercera dimensión."
+        },
+        {
+          "letter": "C",
+          "text": "18 m³",
+          "is_correct": false,
+          "feedback": "Error conceptual: suma las aristas en lugar de multiplicarlas."
+        },
+        {
+          "letter": "D",
+          "text": "54 m³",
+          "is_correct": false,
+          "feedback": "Error conceptual: multiplica el área de las caras por 6 sin calcular el volumen."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El volumen del cubo es arista al cubo. Para una arista de 3 m se calcula 3 × 3 × 3 = 27 m³. Siempre son tres factores iguales porque el cubo tiene tres dimensiones.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-6-2026-W38-volumen-cubos-prismas-capacidad-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W38-volumen-cubos-prismas-capacidad-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el volumen del molde?",
+      "context": "En una obra de Cali se llena un molde rectangular de 5 m de largo, 3 m de ancho y 2 m de alto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30 m³",
+          "is_correct": true,
+          "feedback": "Es correcta porque 5 × 3 × 2 = 30 m³."
+        },
+        {
+          "letter": "B",
+          "text": "10 m³",
+          "is_correct": false,
+          "feedback": "Error conceptual: suma las dimensiones en lugar de multiplicarlas."
+        },
+        {
+          "letter": "C",
+          "text": "15 m³",
+          "is_correct": false,
+          "feedback": "Error conceptual: multiplica solo largo por ancho y omite la altura."
+        },
+        {
+          "letter": "D",
+          "text": "60 m³",
+          "is_correct": false,
+          "feedback": "Error conceptual: duplica el resultado sin justificación geométrica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El volumen de un prisma rectangular es largo por ancho por alto. Con 5 m, 3 m y 2 m se obtiene 30 m³, que representa el espacio que ocupa el molde.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-6-2026-W38-volumen-cubos-prismas-capacidad-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W38-volumen-cubos-prismas-capacidad-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la capacidad del tanque en litros?",
+      "context": "En un acueducto veredal de Boyacá un tanque rectangular mide 2 m de largo, 1 m de ancho y 1 m de alto; se quiere conocer su capacidad en litros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.000 litros",
+          "is_correct": true,
+          "feedback": "Es correcta porque el volumen es 2 m³ y cada metro cúbico equivale a 1.000 litros."
+        },
+        {
+          "letter": "B",
+          "text": "2 litros",
+          "is_correct": false,
+          "feedback": "Error conceptual: confunde los metros cúbicos con litros sin aplicar la equivalencia."
+        },
+        {
+          "letter": "C",
+          "text": "200 litros",
+          "is_correct": false,
+          "feedback": "Error conceptual: usa una equivalencia equivocada de 100 litros por metro cúbico."
+        },
+        {
+          "letter": "D",
+          "text": "20.000 litros",
+          "is_correct": false,
+          "feedback": "Error conceptual: multiplica por 10.000 en vez de por 1.000 litros por metro cúbico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Primero se calcula el volumen: 2 × 1 × 1 = 2 m³. Como 1 m³ equivale a 1.000 litros, la capacidad es 2 × 1.000 = 2.000 litros. Convertir correctamente es clave para dimensionar tanques de acueducto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-6-2026-W38-volumen-cubos-prismas-capacidad-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W38-volumen-cubos-prismas-capacidad-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál contenedor tiene mayor volumen y por qué?",
+      "context": "En una bodega de Neiva se comparan dos contenedores: un cubo de 4 m de arista y un prisma de 5 m × 3 m × 4 m.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cubo, porque su volumen es 64 m³ frente a 60 m³ del prisma",
+          "is_correct": true,
+          "feedback": "Es correcta porque 4 × 4 × 4 = 64 m³ y 5 × 3 × 4 = 60 m³."
+        },
+        {
+          "letter": "B",
+          "text": "El prisma, porque tiene tres medidas diferentes",
+          "is_correct": false,
+          "feedback": "Error conceptual: tener medidas distintas no garantiza mayor volumen."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos tienen el mismo volumen",
+          "is_correct": false,
+          "feedback": "Error conceptual: 64 m³ y 60 m³ son volúmenes diferentes."
+        },
+        {
+          "letter": "D",
+          "text": "El prisma, porque su base es mayor",
+          "is_correct": false,
+          "feedback": "Error conceptual: una base mayor no asegura mayor volumen si la altura y el cálculo difieren."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se calcula cada volumen por separado: cubo 4 × 4 × 4 = 64 m³ y prisma 5 × 3 × 4 = 60 m³. Comparar los resultados muestra que el cubo tiene mayor volumen aunque el prisma tenga medidas más variadas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-6-2026-W38-volumen-cubos-prismas-capacidad-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W38-volumen-cubos-prismas-capacidad-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la altura del tanque?",
+      "context": "En una obra de Manizales un tanque rectangular tiene volumen de 60 m³; su base mide 5 m de largo por 4 m de ancho.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 m",
+          "is_correct": true,
+          "feedback": "Es correcta porque el área de la base es 20 m² y 60 ÷ 20 = 3 m."
+        },
+        {
+          "letter": "B",
+          "text": "4 m",
+          "is_correct": false,
+          "feedback": "Error conceptual: repite el ancho de la base sin despejar la altura."
+        },
+        {
+          "letter": "C",
+          "text": "12 m",
+          "is_correct": false,
+          "feedback": "Error conceptual: divide el volumen entre el largo únicamente y omite el ancho."
+        },
+        {
+          "letter": "D",
+          "text": "51 m",
+          "is_correct": false,
+          "feedback": "Error conceptual: resta el área de la base al volumen en vez de dividir."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Como el volumen es largo por ancho por alto, para hallar la altura se divide el volumen entre el área de la base. La base mide 5 × 4 = 20 m² y 60 ÷ 20 = 3 m.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-6-2026-W38-volumen-cubos-prismas-capacidad-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W38-volumen-cubos-prismas-capacidad-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál fue el error del estudiante?",
+      "context": "En una construcción de Cartagena un estudiante calcula el volumen de un prisma de 6 m × 2 m × 3 m sumando las tres medidas y obtiene 11 m³.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sumó las dimensiones en lugar de multiplicarlas; el volumen correcto es 36 m³",
+          "is_correct": true,
+          "feedback": "Es correcta porque el volumen es 6 × 2 × 3 = 36 m³, no la suma 6 + 2 + 3."
+        },
+        {
+          "letter": "B",
+          "text": "Multiplicó mal y el volumen correcto es 11 m³",
+          "is_correct": false,
+          "feedback": "Error conceptual: 11 m³ es el resultado de sumar, no el volumen real."
+        },
+        {
+          "letter": "C",
+          "text": "Dividió el volumen entre la altura y obtuvo un valor menor",
+          "is_correct": false,
+          "feedback": "Error conceptual: el estudiante no dividió; sumó las tres dimensiones."
+        },
+        {
+          "letter": "D",
+          "text": "No hubo error, porque sumar las dimensiones da el volumen",
+          "is_correct": false,
+          "feedback": "Error conceptual: sumar dimensiones da una longitud total, nunca un volumen."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El volumen requiere multiplicar las tres dimensiones: 6 × 2 × 3 = 36 m³. Sumar las medidas (6 + 2 + 3 = 11) solo da una longitud, por lo que el procedimiento del estudiante es incorrecto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-6-2026-W38-volumen-cubos-prismas-capacidad-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W38-volumen-cubos-prismas-capacidad-001-MASTERY-bundle-v9",
+      "statement": "¿Es correcta la afirmación del maestro? Justifica tu respuesta.",
+      "context": "En una obra de Bogotá un maestro afirma: \"Si se duplica la arista de un cubo, su volumen también se duplica\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, porque al duplicar la arista el volumen se multiplica por 8",
+          "is_correct": true,
+          "feedback": "Es correcta porque el volumen crece con el cubo del factor: 2 × 2 × 2 = 8."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque el volumen siempre se duplica con la arista",
+          "is_correct": false,
+          "feedback": "Error conceptual: el volumen depende del cubo de la arista, no de forma proporcional directa."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque el volumen se multiplica por 4",
+          "is_correct": false,
+          "feedback": "Error conceptual: multiplicar por 4 corresponde al área, no al volumen del cubo."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque el volumen no cambia al modificar la arista",
+          "is_correct": false,
+          "feedback": "Error conceptual: si la arista cambia, el volumen necesariamente cambia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si la arista pasa de a a 2a, el volumen pasa de a³ a (2a)³ = 8a³. El factor crece al cubo, es decir por 8, y no por 2. Esto explica por qué pequeños aumentos de dimensión generan grandes aumentos de volumen.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-6-2026-W38-volumen-cubos-prismas-capacidad-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W38-volumen-cubos-prismas-capacidad-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál estrategia es la más adecuada para hallar la capacidad del tanque en litros?",
+      "context": "En un acueducto veredal del Huila un tanque mide 2 m de largo, 1 m de ancho y 1,5 m de alto; se quiere saber cuánta agua almacena en litros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Calcular el volumen en metros cúbicos y multiplicarlo por 1.000 para obtener litros",
+          "is_correct": true,
+          "feedback": "Es correcta porque el volumen es 3 m³ y 3 × 1.000 = 3.000 litros."
+        },
+        {
+          "letter": "B",
+          "text": "Sumar las tres medidas y multiplicar la suma por 1.000",
+          "is_correct": false,
+          "feedback": "Error conceptual: sumar dimensiones no da un volumen y genera una capacidad falsa."
+        },
+        {
+          "letter": "C",
+          "text": "Calcular el volumen en metros cúbicos y dividirlo entre 1.000",
+          "is_correct": false,
+          "feedback": "Error conceptual: dividir reduce la capacidad; cada metro cúbico equivale a 1.000 litros."
+        },
+        {
+          "letter": "D",
+          "text": "Multiplicar el perímetro de la base por la altura",
+          "is_correct": false,
+          "feedback": "Error conceptual: esa operación mide el contorno y no el espacio que almacena agua."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La capacidad se obtiene del volumen: 2 × 1 × 1,5 = 3 m³. Como 1 m³ equivale a 1.000 litros, la capacidad es 3 × 1.000 = 3.000 litros. Dimensionar bien el tanque garantiza el abastecimiento del acueducto veredal.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.45,
+      "bundle_id": "CO-MAT-6-2026-W38-volumen-cubos-prismas-capacidad-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

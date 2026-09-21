@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-31-grade-5-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-20T19:50:00.259Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-5-2026-W31-oficios-profesiones-comunidad-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es un oficio?",
+      "context": "En un barrio de Sincelejo, los niños hacen una lista de los trabajadores que ven cada día: el panadero, la modista, el carpintero y el zapatero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un juego que los niños practican en el recreo.",
+          "is_correct": false,
+          "feedback": "Jugar es una actividad de diversión, no un trabajo que sostiene a una familia."
+        },
+        {
+          "letter": "B",
+          "text": "Una materia que se estudia únicamente en la universidad.",
+          "is_correct": false,
+          "feedback": "Las materias universitarias forman profesiones; el oficio se aprende con la práctica."
+        },
+        {
+          "letter": "C",
+          "text": "Un trabajo manual que se aprende con la práctica y la experiencia, como la carpintería o la panadería.",
+          "is_correct": true,
+          "feedback": "Los oficios se transmiten practicando y con la enseñanza de personas expertas."
+        },
+        {
+          "letter": "D",
+          "text": "Un descanso que toman los trabajadores los fines de semana.",
+          "is_correct": false,
+          "feedback": "El descanso es el tiempo libre, no el trabajo que realiza cada persona."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reconocer el oficio como un trabajo aprendido con la práctica que aporta a la comunidad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-5-2026-W31-oficios-profesiones-comunidad-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W31-oficios-profesiones-comunidad-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la diferencia entre una profesión y un oficio?",
+      "context": "Lee: \"La enfermera estudió varios años en una institución técnica para cuidar enfermos. El zapatero aprendió su arte trabajando desde joven junto a su padre en el taller familiar.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La profesión se obtiene con estudios formales en una institución, mientras el oficio se aprende con la práctica y la experiencia.",
+          "is_correct": true,
+          "feedback": "Esa es la diferencia principal: título académico frente a saber práctico."
+        },
+        {
+          "letter": "B",
+          "text": "La profesión no requiere ningún estudio y el oficio sí exige universidad.",
+          "is_correct": false,
+          "feedback": "Es al contrario: la profesión exige estudios formales y el oficio se aprende practicando."
+        },
+        {
+          "letter": "C",
+          "text": "No hay ninguna diferencia entre una profesión y un oficio.",
+          "is_correct": false,
+          "feedback": "Sí hay diferencias en la formación, aunque ambos trabajos son igual de valiosos."
+        },
+        {
+          "letter": "D",
+          "text": "Los oficios no sirven para nada y las profesiones lo son todo.",
+          "is_correct": false,
+          "feedback": "Oficios y profesiones son necesarios e importantes para la comunidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender la diferencia en la formación entre profesiones y oficios, valorando ambos por igual.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-5-2026-W31-oficios-profesiones-comunidad-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W31-oficios-profesiones-comunidad-001-MASTERY-bundle-v3",
+      "statement": "¿Cómo se clasifican correctamente los trabajadores de la cartelera?",
+      "context": "En el colegio de Tunja se hace una cartelera con fotos de trabajadores: una médica, un pescador, un maestro, una tejedora, un ingeniero y un albañil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos son oficios porque ninguno estudió nada.",
+          "is_correct": false,
+          "feedback": "La médica, el maestro y el ingeniero sí tienen estudios profesionales formales."
+        },
+        {
+          "letter": "B",
+          "text": "Médica, maestro e ingeniero ejercen profesiones; pescador, tejedora y albañil ejercen oficios.",
+          "is_correct": true,
+          "feedback": "Las profesiones exigen título académico y los oficios se aprenden con la práctica."
+        },
+        {
+          "letter": "C",
+          "text": "Todos son profesiones porque todos trabajan muchas horas.",
+          "is_correct": false,
+          "feedback": "Las horas de trabajo no definen la clasificación; la define el tipo de formación."
+        },
+        {
+          "letter": "D",
+          "text": "Pescador y albañil son profesiones, y la médica ejerce un oficio.",
+          "is_correct": false,
+          "feedback": "La clasificación está invertida: la médica es profesional y ellos ejercen oficios."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Clasificar oficios y profesiones según el tipo de formación de cada trabajador.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-5-2026-W31-oficios-profesiones-comunidad-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W31-oficios-profesiones-comunidad-001-MASTERY-bundle-v4",
+      "statement": "¿Qué servicio presta cada trabajador a su comunidad?",
+      "context": "En un corregimiento de Nariño, el panadero hornea el pan del desayuno, la maestra enseña a leer a los niños y el conductor lleva los productos al mercado del pueblo vecino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguno presta un servicio útil a la comunidad.",
+          "is_correct": false,
+          "feedback": "Cada uno aporta algo esencial: alimento, educación y transporte."
+        },
+        {
+          "letter": "B",
+          "text": "El panadero alimenta, la maestra educa y el conductor conecta al pueblo con el mercado.",
+          "is_correct": true,
+          "feedback": "Cada trabajo responde a una necesidad concreta de la comunidad."
+        },
+        {
+          "letter": "C",
+          "text": "Los tres hacen exactamente el mismo trabajo y producen lo mismo.",
+          "is_correct": false,
+          "feedback": "Cada uno tiene una labor distinta que se complementa con las demás."
+        },
+        {
+          "letter": "D",
+          "text": "Solo la maestra trabaja; los demás pasan el tiempo sin hacer nada.",
+          "is_correct": false,
+          "feedback": "Hornear pan y transportar productos también son trabajos valiosos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificar el aporte específico de cada trabajador a las necesidades de su comunidad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-5-2026-W31-oficios-profesiones-comunidad-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W31-oficios-profesiones-comunidad-001-MASTERY-bundle-v5",
+      "statement": "Si don Pedro ejerce el oficio de tendero, ¿cuánto debe devolver de vueltas al cliente?",
+      "context": "Don Pedro atiende su tienda en un barrio de Montería. Un cliente compra una libra de arroz que cuesta $2.800 COP y paga con un billete de $10.000 COP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$8.200 COP, porque se suma el valor del arroz al billete.",
+          "is_correct": false,
+          "feedback": "Las vueltas no se calculan sumando, sino restando el precio al dinero entregado."
+        },
+        {
+          "letter": "B",
+          "text": "$2.800 COP, que es el precio del arroz.",
+          "is_correct": false,
+          "feedback": "Ese es el precio del producto, no el valor de las vueltas."
+        },
+        {
+          "letter": "C",
+          "text": "$7.200 COP, porque $10.000 menos $2.800 es igual a $7.200.",
+          "is_correct": true,
+          "feedback": "El tendero resta el precio del billete recibido y devuelve la diferencia."
+        },
+        {
+          "letter": "D",
+          "text": "Nada, porque en las tiendas no se devuelven vueltas.",
+          "is_correct": false,
+          "feedback": "Todo comercio honesto devuelve las vueltas exactas a sus clientes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicar el oficio del tendero a una operación real de compra y cálculo de vueltas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-5-2026-W31-oficios-profesiones-comunidad-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W31-oficios-profesiones-comunidad-001-MASTERY-bundle-v6",
+      "statement": "¿Qué demuestra esta situación sobre los oficios y las profesiones?",
+      "context": "Compara: \"En un barrio de Medellín, la médica del centro de salud cura a los enfermos y el recolector de basuras mantiene limpias las calles. Cuando el recolector paró una semana, las calles se llenaron de desechos y aumentaron los malos olores.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que solo la médica hace un trabajo importante para el barrio.",
+          "is_correct": false,
+          "feedback": "La basura acumulada demostró que el recolector también es esencial para la salud."
+        },
+        {
+          "letter": "B",
+          "text": "Que oficios y profesiones son igual de necesarios: la salud depende tanto de curar como de prevenir con la limpieza.",
+          "is_correct": true,
+          "feedback": "La situación prueba que cada trabajo sostiene una parte del bienestar común."
+        },
+        {
+          "letter": "C",
+          "text": "Que el oficio de recolector debería desaparecer del barrio.",
+          "is_correct": false,
+          "feedback": "Sin el recolector, el barrio se enferma; su oficio es indispensable."
+        },
+        {
+          "letter": "D",
+          "text": "Que los trabajos manuales no aportan nada a la economía.",
+          "is_correct": false,
+          "feedback": "Los oficios generan ingresos, empleos y servicios que mueven la economía local."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar que oficios y profesiones son igualmente necesarios para el bienestar de la comunidad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-5-2026-W31-oficios-profesiones-comunidad-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W31-oficios-profesiones-comunidad-001-MASTERY-bundle-v7",
+      "statement": "¿Qué pasaría en la vereda si desapareciera uno de estos oficios?",
+      "context": "Lee: \"En una vereda cafetera del Quindío, los recolectores recogen el grano, los arrieros lo transportan en mula y las tostadoras lo preparan para la venta. Si falta uno de ellos, la cadena se detiene.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Toda la cadena del café se afectaría, porque cada oficio cumple una parte que los demás no pueden reemplazar fácilmente.",
+          "is_correct": true,
+          "feedback": "Los oficios forman cadenas productivas donde cada eslabón depende de los otros."
+        },
+        {
+          "letter": "B",
+          "text": "No pasaría nada, porque los oficios no aportan a la economía.",
+          "is_correct": false,
+          "feedback": "Sin recolectores ni transporte, el café no llegaría al mercado y se perderían ingresos."
+        },
+        {
+          "letter": "C",
+          "text": "El café se vendería mejor y a mayor precio automáticamente.",
+          "is_correct": false,
+          "feedback": "Sin quienes recogen y transportan, no habría café para vender."
+        },
+        {
+          "letter": "D",
+          "text": "Los demás trabajadores descansarían más y ganarían lo mismo.",
+          "is_correct": false,
+          "feedback": "Si la cadena se detiene, todos pierden su sustento en lugar de descansar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar los oficios como eslabones de una cadena productiva que sostiene la economía local.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-5-2026-W31-oficios-profesiones-comunidad-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W31-oficios-profesiones-comunidad-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué todos los oficios y profesiones merecen respeto?",
+      "context": "Lee: \"El trabajo dignifica a las personas: con su esfuerzo, cada trabajador sostiene a su familia y aporta a su comunidad. Ningún trabajo honesto es motivo de vergüenza ni de burla.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque solo los trabajos con uniforme merecen respeto.",
+          "is_correct": false,
+          "feedback": "El respeto no depende del uniforme, sino de la honestidad y el aporte del trabajo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los oficios son más importantes y las profesiones no valen nada.",
+          "is_correct": false,
+          "feedback": "Todos los trabajos honestos tienen valor; ninguno está por encima del otro en dignidad."
+        },
+        {
+          "letter": "C",
+          "text": "Porque todo trabajo honesto sostiene a una familia, aporta a la comunidad y merece dignidad e igualdad de trato.",
+          "is_correct": true,
+          "feedback": "La dignidad del trabajo es igual para el albañil, la médica, el campesino y la ingeniera."
+        },
+        {
+          "letter": "D",
+          "text": "Porque burlarse de algunos trabajos ayuda a que la comunidad progrese.",
+          "is_correct": false,
+          "feedback": "La burla divide y discrimina; el respeto une y fortalece la convivencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar la dignidad de todo trabajo honesto como base del respeto y la convivencia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-5-2026-W31-oficios-profesiones-comunidad-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

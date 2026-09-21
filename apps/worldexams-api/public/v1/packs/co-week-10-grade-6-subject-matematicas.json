@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-10-grade-6-subject-matematicas",
+    "generated_at": "2026-09-20T21:26:33.167Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-6-2026-W10-solidos-geometricos-volumen-001-MASTERY-bundle-v1",
+      "statement": "Un balón de fútbol tiene la forma de:",
+      "context": "En una tienda de Medellín se guardan balones de fútbol en cajas para la venta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Esfera",
+          "is_correct": true,
+          "feedback": "Es correcta porque el balón es redondo en todas las direcciones."
+        },
+        {
+          "letter": "B",
+          "text": "Cubo",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el cubo tiene caras planas y aristas."
+        },
+        {
+          "letter": "C",
+          "text": "Cilindro",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el cilindro tiene dos bases planas y altura."
+        },
+        {
+          "letter": "D",
+          "text": "Cono",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el cono tiene una punta y una base circular."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La esfera es el sólido redondo donde todos los puntos de la superficie están a la misma distancia del centro. El balón es el ejemplo más claro de esfera en la vida diaria.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-6-2026-W10-solidos-geometricos-volumen-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W10-solidos-geometricos-volumen-001-MASTERY-bundle-v2",
+      "statement": "Un sólido con 6 caras cuadradas iguales se llama:",
+      "context": "En Bogotá una caja de zapatos tiene largo, ancho y alto iguales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cubo",
+          "is_correct": true,
+          "feedback": "Es correcta porque el cubo tiene 6 caras cuadradas congruentes."
+        },
+        {
+          "letter": "B",
+          "text": "Prisma rectangular",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ese prisma tiene caras rectangulares no todas iguales."
+        },
+        {
+          "letter": "C",
+          "text": "Pirámide",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la pirámide tiene una base y caras triangulares."
+        },
+        {
+          "letter": "D",
+          "text": "Prisma triangular",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque sus bases son triángulos y no cuadrados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cubo es un prisma especial con todas sus aristas iguales y 6 caras cuadradas. Tiene 8 vértices y 12 aristas, como los dados de los juegos de mesa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.87,
+      "bundle_id": "CO-MAT-6-2026-W10-solidos-geometricos-volumen-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W10-solidos-geometricos-volumen-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el volumen de la caja?",
+      "context": "En Cali una caja para empacar bocadillos mide 4 cm de largo, 3 cm de ancho y 2 cm de alto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "24 centímetros cúbicos",
+          "is_correct": true,
+          "feedback": "Es correcta porque 4 por 3 por 2 es igual a 24."
+        },
+        {
+          "letter": "B",
+          "text": "9 centímetros cúbicos",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque 9 es la suma de las medidas y no el producto."
+        },
+        {
+          "letter": "C",
+          "text": "12 centímetros cúbicos",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque multiplica solo dos medidas y falta la altura."
+        },
+        {
+          "letter": "D",
+          "text": "29 centímetros cúbicos",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque combina suma y producto de forma equivocada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El volumen de un prisma rectangular es largo por ancho por alto. Al multiplicar 4 por 3 se obtiene 12 y por 2 se llega a 24 centímetros cúbicos, que es el espacio dentro de la caja.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-MAT-6-2026-W10-solidos-geometricos-volumen-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W10-solidos-geometricos-volumen-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el volumen del tanque?",
+      "context": "En Cartagena un tanque con forma de cubo tiene arista de 5 metros para guardar agua lluvia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "125 metros cúbicos",
+          "is_correct": true,
+          "feedback": "Es correcta porque 5 por 5 por 5 es igual a 125."
+        },
+        {
+          "letter": "B",
+          "text": "25 metros cúbicos",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque 25 es el área de una cara y no el volumen."
+        },
+        {
+          "letter": "C",
+          "text": "15 metros cúbicos",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque 15 es la suma de las aristas principales."
+        },
+        {
+          "letter": "D",
+          "text": "75 metros cúbicos",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque multiplica 25 por 3 en lugar de elevar al cubo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El volumen del cubo es arista al cubo. Como 5 al cuadrado es 25 y por 5 es 125, el tanque guarda 125 metros cúbicos de agua.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.81,
+      "bundle_id": "CO-MAT-6-2026-W10-solidos-geometricos-volumen-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W10-solidos-geometricos-volumen-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el volumen del tarro?",
+      "context": "En Bucaramanga un tarro de café con forma de cilindro tiene base de 10 centímetros cuadrados y altura de 12 centímetros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "120 centímetros cúbicos",
+          "is_correct": true,
+          "feedback": "Es correcta porque el área de la base por la altura es 10 por 12."
+        },
+        {
+          "letter": "B",
+          "text": "22 centímetros cúbicos",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque 22 es la suma de base y altura."
+        },
+        {
+          "letter": "C",
+          "text": "60 centímetros cúbicos",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque divide entre 2 como si fuera una pirámide."
+        },
+        {
+          "letter": "D",
+          "text": "100 centímetros cúbicos",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque usa solo el área de la base sin la altura."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El volumen de un prisma o cilindro es el área de la base multiplicada por la altura. En este caso 10 por 12 da 120 centímetros cúbicos de capacidad para el café.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-6-2026-W10-solidos-geometricos-volumen-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W10-solidos-geometricos-volumen-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál caja tiene mayor volumen y por cuánto supera a la otra?",
+      "context": "En Barranquilla se comparan dos cajas: caja A de 6 por 4 por 2 centímetros y caja B de 4 por 4 por 3 centímetros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Empatan con 48 centímetros cúbicos cada una",
+          "is_correct": true,
+          "feedback": "Es correcta porque ambas multiplicaciones dan 48."
+        },
+        {
+          "letter": "B",
+          "text": "La caja A con 12 más",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque calcula mal el volumen de B."
+        },
+        {
+          "letter": "C",
+          "text": "La caja B con 6 más",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque calcula mal el volumen de A."
+        },
+        {
+          "letter": "D",
+          "text": "La caja A con 24 más",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque usa solo dos dimensiones en B."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La caja A tiene 6 por 4 por 2 igual a 48 y la caja B tiene 4 por 4 por 3 igual a 48. Aunque tienen distinta forma, ocupan el mismo espacio, lo que muestra que diferentes dimensiones pueden dar igual volumen.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-6-2026-W10-solidos-geometricos-volumen-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W10-solidos-geometricos-volumen-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el volumen de la pirámide?",
+      "context": "En Pereira una pirámide decorativa tiene base cuadrada de 9 centímetros cuadrados y altura de 6 centímetros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18 centímetros cúbicos",
+          "is_correct": true,
+          "feedback": "Es correcta porque un tercio de 9 por 6 es 18."
+        },
+        {
+          "letter": "B",
+          "text": "54 centímetros cúbicos",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ese es el volumen del prisma y falta dividir entre 3."
+        },
+        {
+          "letter": "C",
+          "text": "15 centímetros cúbicos",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque suma base y altura en lugar de multiplicar."
+        },
+        {
+          "letter": "D",
+          "text": "27 centímetros cúbicos",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque divide entre 2 como si fuera un triángulo plano."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El volumen de una pirámide es un tercio del prisma con igual base y altura. Se multiplica 9 por 6, que da 54, y se divide entre 3, lo que da 18 centímetros cúbicos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-6-2026-W10-solidos-geometricos-volumen-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W10-solidos-geometricos-volumen-001-MASTERY-bundle-v8",
+      "statement": "Si 1 metro cúbico equivale a 1000 litros, ¿cuántos litros faltan para llenarla?",
+      "context": "En Manizales una piscina rectangular mide 8 metros de largo, 5 metros de ancho y 2 metros de profundidad. Se llena con 70000 litros de agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10000 litros",
+          "is_correct": true,
+          "feedback": "Es correcta porque la capacidad es 80000 y ya tiene 70000."
+        },
+        {
+          "letter": "B",
+          "text": "30000 litros",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque calcula mal el volumen como 100 metros cúbicos."
+        },
+        {
+          "letter": "C",
+          "text": "80000 litros",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque esa es la capacidad total y no lo que falta."
+        },
+        {
+          "letter": "D",
+          "text": "0 litros",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque 70000 litros son 70 metros cúbicos y aún falta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El volumen es 8 por 5 por 2 igual a 80 metros cúbicos, es decir 80000 litros. Como ya tiene 70000, faltan 10000 litros para completar la piscina.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-MAT-6-2026-W10-solidos-geometricos-volumen-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W10-solidos-geometricos-volumen-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál será la altura de cada vela si no se desperdicia cera?",
+      "context": "En Pasto un artesano funde un cubo de cera de 6 cm de arista para hacer dos velas cilíndricas iguales de base 9 centímetros cuadrados cada una.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12 centímetros",
+          "is_correct": true,
+          "feedback": "Es correcta porque el volumen 216 se reparte en dos partes de 108 y 108 entre 9 es 12."
+        },
+        {
+          "letter": "B",
+          "text": "24 centímetros",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque usa todo el volumen para una sola vela."
+        },
+        {
+          "letter": "C",
+          "text": "6 centímetros",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque usa la arista original como altura sin calcular."
+        },
+        {
+          "letter": "D",
+          "text": "36 centímetros",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque multiplica en lugar de dividir el volumen repartido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cubo tiene 216 centímetros cúbicos. Al repartirlo en dos velas quedan 108 para cada una. Como el volumen del cilindro es base por altura, la altura es 108 dividido entre 9, es decir 12 centímetros.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-6-2026-W10-solidos-geometricos-volumen-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W10-solidos-geometricos-volumen-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la evaluación correcta de esa afirmación?",
+      "context": "En Tunja un estudiante afirma que si se duplica la arista de un cubo, el volumen también se duplica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es falsa, porque el volumen se multiplica por 8",
+          "is_correct": true,
+          "feedback": "Es correcta porque cada dimensión se duplica y 2 por 2 por 2 es 8."
+        },
+        {
+          "letter": "B",
+          "text": "Es verdadera, porque todo crece en la misma proporción",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque confunde el crecimiento lineal con el crecimiento en volumen."
+        },
+        {
+          "letter": "C",
+          "text": "Es falsa, porque el volumen se multiplica por 4",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque 4 es el factor del área y no del volumen."
+        },
+        {
+          "letter": "D",
+          "text": "Es verdadera, si el cubo es pequeño",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el factor 8 vale para cualquier tamaño inicial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si la arista pasa de a a 2a, el volumen pasa de a al cubo a 8a al cubo. Por eso duplicar la arista multiplica el volumen por 8, un resultado clave para entender la escala en tres dimensiones.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-6-2026-W10-solidos-geometricos-volumen-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

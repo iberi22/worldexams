@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-31-grade-5-subject-ingles",
+    "generated_at": "2026-09-18T18:24:05.800Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-5-2026-W31-environment-recycling-nature-001-MASTERY-bundle-v1",
+      "statement": "Which words are nature words?",
+      "context": "In a school garden in Medellín, children see tall trees, colorful flowers and a small river.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tree, flower and river.",
+          "is_correct": true,
+          "feedback": "Tree, flower and river are all words from nature."
+        },
+        {
+          "letter": "B",
+          "text": "Chair, table and book.",
+          "is_correct": false,
+          "feedback": "Chair, table and book are classroom objects, not nature."
+        },
+        {
+          "letter": "C",
+          "text": "Car, bus and train.",
+          "is_correct": false,
+          "feedback": "Car, bus and train are means of transport, not nature."
+        },
+        {
+          "letter": "D",
+          "text": "Shirt, shoes and hat.",
+          "is_correct": false,
+          "feedback": "Shirt, shoes and hat are clothes, not nature words."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Esta pregunta repasa vocabulario esencial de la naturaleza en inglés. También ayuda a distinguir palabras del entorno natural y objetos de la vida diaria.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-5-2026-W31-environment-recycling-nature-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W31-environment-recycling-nature-001-MASTERY-bundle-v2",
+      "statement": "What does \"recycle\" mean?",
+      "context": "In a park in Bogotá, a teacher says: \"Please put the plastic bottle in the recycling bin.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Throw trash in the river.",
+          "is_correct": false,
+          "feedback": "Throwing trash in the river pollutes nature and is wrong."
+        },
+        {
+          "letter": "B",
+          "text": "Burn all the paper.",
+          "is_correct": false,
+          "feedback": "Burning paper pollutes the air and is not recycling."
+        },
+        {
+          "letter": "C",
+          "text": "Use materials again to protect nature.",
+          "is_correct": true,
+          "feedback": "To recycle means to use paper, plastic and glass again."
+        },
+        {
+          "letter": "D",
+          "text": "Leave trash on the street.",
+          "is_correct": false,
+          "feedback": "Leaving trash on the street harms the city and nature."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reciclar significa reutilizar materiales para cuidar el planeta. También se practica la comprensión de instrucciones ambientales en inglés.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-5-2026-W31-environment-recycling-nature-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W31-environment-recycling-nature-001-MASTERY-bundle-v3",
+      "statement": "Choose the correct sentence about the box.",
+      "context": "In a classroom in Cali, there is one recycling box for paper near the door.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "There are one box for paper.",
+          "is_correct": false,
+          "feedback": "\"There are\" is for plural nouns, not for \"one box\"."
+        },
+        {
+          "letter": "B",
+          "text": "There is one box for paper.",
+          "is_correct": true,
+          "feedback": "\"There is\" is correct with the singular noun \"one box\"."
+        },
+        {
+          "letter": "C",
+          "text": "There is three boxes for paper.",
+          "is_correct": false,
+          "feedback": "\"There is\" is not correct with the plural \"three boxes\"."
+        },
+        {
+          "letter": "D",
+          "text": "There am one box for paper.",
+          "is_correct": false,
+          "feedback": "\"There am\" is never correct in English grammar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "There is se usa con sustantivos singulares como one box. También se refuerza la diferencia básica entre singular y plural en inglés.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.82,
+      "bundle_id": "CO-ING-5-2026-W31-environment-recycling-nature-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W31-environment-recycling-nature-001-MASTERY-bundle-v4",
+      "statement": "What is the problem on the beach?",
+      "context": "In Cartagena, students read: \"There are five sea turtles on the beach. There is one plastic bag near them.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "There are no turtles on the beach.",
+          "is_correct": false,
+          "feedback": "The text says there are five sea turtles on the beach."
+        },
+        {
+          "letter": "B",
+          "text": "There are five plastic bags.",
+          "is_correct": false,
+          "feedback": "The text mentions only one plastic bag, not five."
+        },
+        {
+          "letter": "C",
+          "text": "There is a plastic bag near the turtles.",
+          "is_correct": true,
+          "feedback": "The plastic bag can hurt the turtles and pollutes the beach."
+        },
+        {
+          "letter": "D",
+          "text": "There is no water on the beach.",
+          "is_correct": false,
+          "feedback": "The text does not talk about water on the beach."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La lectura combina there is y there are con un mensaje ambiental. También muestra cómo el plástico amenaza a los animales marinos de Colombia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-5-2026-W31-environment-recycling-nature-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W31-environment-recycling-nature-001-MASTERY-bundle-v5",
+      "statement": "Banana peels and apple cores go in the organic bin because they are _____.",
+      "context": "At a school in Bucaramanga, children separate trash: paper in the gray bin and banana peels in the green bin.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "plastic.",
+          "is_correct": false,
+          "feedback": "Plastic does not come from fruits and is not organic."
+        },
+        {
+          "letter": "B",
+          "text": "natural waste from food.",
+          "is_correct": true,
+          "feedback": "Fruit peels are natural waste that can become compost."
+        },
+        {
+          "letter": "C",
+          "text": "glass bottles.",
+          "is_correct": false,
+          "feedback": "Glass bottles are not food waste and go in another bin."
+        },
+        {
+          "letter": "D",
+          "text": "metal cans.",
+          "is_correct": false,
+          "feedback": "Metal cans are not organic and need a different bin."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los residuos orgánicos vienen de alimentos naturales como frutas. También se practica la clasificación correcta de basuras para reciclar en la escuela.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-5-2026-W31-environment-recycling-nature-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W31-environment-recycling-nature-001-MASTERY-bundle-v6",
+      "statement": "Why is the páramo important for Colombia?",
+      "context": "In class in Pereira, students read: \"The páramo in Colombia is cold and wet. There are frailejones and small lakes. The páramo gives water to the cities.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Because it is hot and dry.",
+          "is_correct": false,
+          "feedback": "The text says the páramo is cold and wet, not hot and dry."
+        },
+        {
+          "letter": "B",
+          "text": "Because there are sharks and beaches.",
+          "is_correct": false,
+          "feedback": "Sharks and beaches are not part of the páramo ecosystem."
+        },
+        {
+          "letter": "C",
+          "text": "Because it gives water to the cities.",
+          "is_correct": true,
+          "feedback": "The text says the páramo gives water to the cities."
+        },
+        {
+          "letter": "D",
+          "text": "Because it has no plants or lakes.",
+          "is_correct": false,
+          "feedback": "The text mentions frailejones and small lakes in the páramo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El páramo es un ecosistema único que produce agua para millones de personas. También se analiza información explícita de una lectura corta en inglés.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-5-2026-W31-environment-recycling-nature-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W31-environment-recycling-nature-001-MASTERY-bundle-v7",
+      "statement": "Which rule explains the difference between the two sentences?",
+      "context": "In Santa Marta, a teacher writes two sentences: \"There is a jaguar in the Amazon.\" \"There are pink dolphins in the Amazon river.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"There is\" is for one animal, \"there are\" is for more than one.",
+          "is_correct": true,
+          "feedback": "Singular \"a jaguar\" uses \"is\" and plural \"dolphins\" uses \"are\"."
+        },
+        {
+          "letter": "B",
+          "text": "\"There is\" is for rivers, \"there are\" is for forests.",
+          "is_correct": false,
+          "feedback": "The place does not decide between \"is\" and \"are\"."
+        },
+        {
+          "letter": "C",
+          "text": "\"There is\" is for big animals, \"there are\" is for small animals.",
+          "is_correct": false,
+          "feedback": "Size does not decide the verb; number decides it."
+        },
+        {
+          "letter": "D",
+          "text": "\"There is\" is for the past, \"there are\" is for the future.",
+          "is_correct": false,
+          "feedback": "Both sentences are in the present, not past or future."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La elección entre there is y there are depende del número del sustantivo. También se conecta la gramática con animales emblemáticos de la Amazonía colombiana.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.68,
+      "bundle_id": "CO-ING-5-2026-W31-environment-recycling-nature-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W31-environment-recycling-nature-001-MASTERY-bundle-v8",
+      "statement": "Which idea best protects nature?",
+      "context": "In Manizales, three students propose ideas: throw batteries in the river, reuse paper at school, and plant trees in the park.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Throw batteries in the river.",
+          "is_correct": false,
+          "feedback": "Batteries poison water and animals, so this harms nature."
+        },
+        {
+          "letter": "B",
+          "text": "Buy more plastic bags every day.",
+          "is_correct": false,
+          "feedback": "More plastic bags create more trash and pollution."
+        },
+        {
+          "letter": "C",
+          "text": "Leave lights on all night.",
+          "is_correct": false,
+          "feedback": "Wasting electricity harms the environment and costs money."
+        },
+        {
+          "letter": "D",
+          "text": "Reuse paper and plant trees in the park.",
+          "is_correct": true,
+          "feedback": "Reusing and planting trees reduce trash and clean the air."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar acciones permite elegir las más responsables con el ambiente. También se promueve reutilizar y sembrar árboles como hábitos sostenibles en Colombia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.62,
+      "bundle_id": "CO-ING-5-2026-W31-environment-recycling-nature-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

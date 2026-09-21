@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-10-grade-5-subject-lengua",
+    "generated_at": "2026-09-20T22:14:25.548Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-5-2026-W10-noticia-estructura-001-MASTERY-bundle-v1",
+      "statement": "En una noticia, ¿qué es el titular?",
+      "context": "En Bogotá, el periódico escolar anuncia: \"Colegio siembra cien árboles en el humedal\".\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El título breve que anuncia lo más importante del hecho.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el titular resume la noticia y atrae la atención del lector."
+        },
+        {
+          "letter": "B",
+          "text": "La lista de precios de la tienda escolar.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los precios no forman parte de la estructura de la noticia."
+        },
+        {
+          "letter": "C",
+          "text": "El dibujo decorativo sin relación con el hecho.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la imagen acompaña, pero no reemplaza al título informativo."
+        },
+        {
+          "letter": "D",
+          "text": "La firma del tendero del barrio.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la firma no anuncia el hecho noticioso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La noticia tiene una estructura fija: titular, entrada, cuerpo y cierre. El titular va al inicio con letras destacadas y responde de forma breve a lo ocurrido. Reconocerlo permite ubicar rápidamente el tema de cualquier noticia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-5-2026-W10-noticia-estructura-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W10-noticia-estructura-001-MASTERY-bundle-v2",
+      "statement": "Lee la entrada: \"Ayer, los estudiantes de quinto de la escuela El Pinar ganaron el concurso de lectura en la biblioteca\". ¿Qué información entrega la entrada?",
+      "context": "En Medellín, una noticia cuenta que los estudiantes de quinto ganaron un concurso de lectura en la biblioteca del barrio.\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Resume quiénes, cuándo y dónde ocurrió el hecho principal.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la entrada concentra los datos básicos para entender la noticia."
+        },
+        {
+          "letter": "B",
+          "text": "Presenta la opinión del tendero sobre los precios.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la entrada informa hechos y no opiniones sobre precios."
+        },
+        {
+          "letter": "C",
+          "text": "Describe el clima de toda la semana en la ciudad.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el clima no es el hecho principal de esta noticia."
+        },
+        {
+          "letter": "D",
+          "text": "Enumera los útiles que necesita cada estudiante.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la lista de útiles no resume el hecho noticioso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La entrada es el primer párrafo después del titular y responde a las preguntas básicas: qué pasó, quiénes participaron, cuándo y dónde. Comprender su función permite leer noticias con rapidez, pues con solo el titular y la entrada ya se capta lo esencial.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-5-2026-W10-noticia-estructura-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W10-noticia-estructura-001-MASTERY-bundle-v3",
+      "statement": "Según la entrada, ¿qué hecho ocurrió?",
+      "context": "En Cali, Santiago lee esta noticia sobre la jornada de limpieza del río: \"Cuarenta vecinos recogieron dos toneladas de residuos el sábado en el malecón\".\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuarenta vecinos recogieron residuos el sábado en el malecón.",
+          "is_correct": true,
+          "feedback": "Es correcta porque identifica a los actores, la acción, el tiempo y el lugar del hecho."
+        },
+        {
+          "letter": "B",
+          "text": "Los vecinos celebraron una fiesta el sábado en el malecón.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la noticia habla de limpieza, no de una fiesta."
+        },
+        {
+          "letter": "C",
+          "text": "Santiago recogió residuos solo durante toda la semana.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque fueron cuarenta vecinos y el hecho ocurrió el sábado."
+        },
+        {
+          "letter": "D",
+          "text": "El malecón se cerró para siempre por los residuos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la noticia no anuncia ningún cierre definitivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la lectura inferencial a la entrada exige juntar los datos dispersos: quién, qué, cuándo y dónde. Esta estrategia sirve para resumir noticias del barrio, la ciudad y el país sin agregar información inventada.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-5-2026-W10-noticia-estructura-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W10-noticia-estructura-001-MASTERY-bundle-v4",
+      "statement": "¿Qué función cumple el cuerpo de la noticia?",
+      "context": "En Cartagena, Mariana lee el cuerpo de una noticia sobre la feria del libro: detalles de los invitados, los horarios y los talleres para niños.\n**Expected_Success:** 0.83",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Amplía los detalles del hecho con datos, testimonios y explicaciones.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el cuerpo desarrolla lo anunciado en el titular y la entrada."
+        },
+        {
+          "letter": "B",
+          "text": "Repite solamente el titular con letras más grandes.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el cuerpo agrega información nueva y no repite el título."
+        },
+        {
+          "letter": "C",
+          "text": "Presenta cuentos inventados sin relación con el hecho.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la noticia informa hechos reales, no ficción."
+        },
+        {
+          "letter": "D",
+          "text": "Esconde los datos para que el lector no entienda nada.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque su propósito es aclarar y completar la información."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cuerpo es la parte más larga de la noticia y organiza los detalles en orden de importancia. Incluye cifras, lugares, horarios y voces de testigos. Reconocer su función ayuda a buscar datos precisos dentro del texto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LEN-5-2026-W10-noticia-estructura-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W10-noticia-estructura-001-MASTERY-bundle-v5",
+      "statement": "¿Qué comunica el cierre de esta noticia?",
+      "context": "En Pereira, Juan lee el cierre de una noticia sobre la final de fútbol escolar: \"El próximo sábado el equipo viajará a Manizales para la semifinal regional\".\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informa lo que seguirá después del hecho narrado.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el cierre proyecta la consecuencia o el paso siguiente del hecho."
+        },
+        {
+          "letter": "B",
+          "text": "Anuncia una receta de cocina para celebrar el triunfo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la receta no tiene relación con el hecho deportivo."
+        },
+        {
+          "letter": "C",
+          "text": "Repite los precios de las boletas de todo el año.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los precios no son el desenlace del hecho."
+        },
+        {
+          "letter": "D",
+          "text": "Describe el uniforme sin decir qué pasará después.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el cierre debe orientar sobre el futuro del hecho."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cierre finaliza la noticia con una consecuencia, un anuncio o una invitación relacionada con el hecho. Aplicar su reconocimiento permite saber cómo termina la historia y qué esperar después, lo cual completa la comprensión global.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-5-2026-W10-noticia-estructura-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W10-noticia-estructura-001-MASTERY-bundle-v6",
+      "statement": "Al comparar los textos, ¿cuál es una noticia y por qué?",
+      "context": "Valentina recortó dos textos de Manizales. Texto 1: \"Había una vez un dragón que volaba sobre el nevado y hablaba con los niños\". Texto 2: \"Ayer los bomberos controlaron un incendio en el mercado y no hubo heridos\".\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto 2, porque informa un hecho real y reciente con datos verificables.",
+          "is_correct": true,
+          "feedback": "Es correcta porque distingue la información real de la narración fantástica."
+        },
+        {
+          "letter": "B",
+          "text": "El texto 1, porque los dragones son hechos reales y recientes.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el dragón pertenece a la ficción y no es verificable."
+        },
+        {
+          "letter": "C",
+          "text": "El texto 1, porque empieza con \"había una vez\" como toda noticia.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque esa fórmula abre cuentos, no noticias."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos son noticias porque ambos tienen título y personajes.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque solo el texto 2 cumple con informar un hecho real."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar un texto para saber si es noticia exige comprobar si narra un hecho real, actual y de interés común. El cuento crea mundos imaginarios, mientras la noticia responde a lo ocurrido en la comunidad. Esta distinción forma lectores críticos frente a los medios.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-5-2026-W10-noticia-estructura-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W10-noticia-estructura-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el orden correcto de las partes de la noticia?",
+      "context": "Santiago mezcló las partes de una noticia de Bogotá sobre la ciclovía dominical: \"Los talleres inician a las nueve\" / \"Ciclovía dominical llega a tres barrios\" / \"Ayer la alcaldía confirmó la ruta y los horarios\".\n**Expected_Success:** 0.72",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Titular: \"Ciclovía dominical llega a tres barrios\"; entrada: \"Ayer la alcaldía confirmó la ruta y los horarios\"; cuerpo: \"Los talleres inician a las nueve\".",
+          "is_correct": true,
+          "feedback": "Es correcta porque ordena de lo general a los detalles según la estructura."
+        },
+        {
+          "letter": "B",
+          "text": "Titular: \"Los talleres inician a las nueve\"; entrada: \"Ciclovía dominical llega a tres barrios\"; cuerpo: \"Ayer la alcaldía confirmó la ruta y los horarios\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque coloca un detalle como titular y desordena la jerarquía."
+        },
+        {
+          "letter": "C",
+          "text": "Titular: \"Ayer la alcaldía confirmó la ruta y los horarios\"; entrada: \"Los talleres inician a las nueve\"; cuerpo: \"Ciclovía dominical llega a tres barrios\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el titular debe ser breve y general, no un párrafo de entrada."
+        },
+        {
+          "letter": "D",
+          "text": "Titular: \"Ciclovía dominical llega a tres barrios\"; entrada: \"Los talleres inician a las nueve\"; cuerpo: \"Ayer la alcaldía confirmó la ruta\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque adelanta un detalle antes de presentar los datos básicos del hecho."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La noticia organiza la información en pirámide: primero lo esencial en el titular y la entrada, después los detalles en el cuerpo. Analizar el orden enseña a redactar noticias claras y a detectar textos desordenados que confunden al lector.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-5-2026-W10-noticia-estructura-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W10-noticia-estructura-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál noticia está mejor construida?",
+      "context": "Mariana debe elegir la mejor noticia para el periódico escolar de Cali sobre la huerta del colegio.\n**Expected_Success:** 0.65",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Titular: \"Quinto cosecha su primera huerta\". Entrada: \"Ayer los estudiantes de quinto recogieron tomate y lechuga en la huerta escolar\". Cuerpo: detalles del peso, los cursos invitados y el destino de la cosecha. Cierre: \"La próxima semana venderán la cosecha en la feria con precios desde dos mil pesos\".",
+          "is_correct": true,
+          "feedback": "Es correcta porque presenta estructura completa, datos reales y cierre con proyección clara."
+        },
+        {
+          "letter": "B",
+          "text": "Titular: \"Cosas\". Entrada: \"Pasaron cosas ayer\". Cuerpo: \"Todo estuvo bien y chévere\". Cierre: \"Fin\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque es vaga, sin datos ni estructura informativa."
+        },
+        {
+          "letter": "C",
+          "text": "Titular: \"Había una vez una lechuga mágica que cantaba\". Entrada: \"La lechuga voló ayer\". Cuerpo: \"Habló con un duende\". Cierre: \"Colorín colorado\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque es un cuento fantástico y no una noticia real."
+        },
+        {
+          "letter": "D",
+          "text": "Titular: \"Quinto cosecha su primera huerta\". Entrada: \"Ayer los estudiantes de quinto recogieron tomate y lechuga\". Cuerpo: lista de precios de juguetes sin relación. Cierre: receta de un pastel.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el cuerpo y el cierre se apartan del hecho anunciado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar una noticia exige revisar la coherencia de todas sus partes: titular atractivo, entrada con datos básicos, cuerpo con detalles pertinentes y cierre con proyección. La opción correcta mantiene el mismo hecho de principio a fin e informa con precisión a la comunidad escolar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-5-2026-W10-noticia-estructura-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-4-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T03:42:40.850Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-6-2026-W04-celula-animal-vegetal-diferencias-001-MASTERY-bundle-v1",
+      "statement": "¿Qué estructura rígida rodea a la célula vegetal de la cebolla y le da forma y protección, pero no existe en la célula animal?",
+      "context": "En el laboratorio del colegio en Bogotá, la profesora muestra a los estudiantes de grado sexto una lámina de cebolla observada al microscopio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La pared celular de celulosa",
+          "is_correct": true,
+          "feedback": "Correcto. La pared celular de celulosa es rígida, protege la célula vegetal y le da forma fija."
+        },
+        {
+          "letter": "B",
+          "text": "La membrana celular",
+          "is_correct": false,
+          "feedback": "Incorrecto. La membrana celular existe tanto en células animales como vegetales."
+        },
+        {
+          "letter": "C",
+          "text": "El núcleo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El núcleo con el material genético está presente en ambos tipos de célula."
+        },
+        {
+          "letter": "D",
+          "text": "El citoplasma",
+          "is_correct": false,
+          "feedback": "Incorrecto. El citoplasma es el medio interno donde ocurren las funciones en ambos tipos de célula."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La célula vegetal posee pared celular de celulosa externa a la membrana; la célula animal solo tiene membrana celular flexible.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-6-2026-W04-celula-animal-vegetal-diferencias-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W04-celula-animal-vegetal-diferencias-001-MASTERY-bundle-v2",
+      "statement": "¿Qué organelo contiene la clorofila y es responsable del color verde de las hojas en la célula vegetal?",
+      "context": "En una finca cafetera cerca de Medellín, los estudiantes observan que las hojas del cafeto son verdes y los frutos maduran rojos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cloroplasto",
+          "is_correct": true,
+          "feedback": "Correcto. El cloroplasto contiene clorofila y allí ocurre la fotosíntesis."
+        },
+        {
+          "letter": "B",
+          "text": "La mitocondria",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mitocondria produce energía, pero no contiene clorofila ni es verde."
+        },
+        {
+          "letter": "C",
+          "text": "El lisosoma",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lisosoma digiere desechos en células animales y no hace fotosíntesis."
+        },
+        {
+          "letter": "D",
+          "text": "El centriolo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El centriolo participa en la división de células animales y no existe en la mayoría de vegetales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Solo las células vegetales y algas tienen cloroplastos con clorofila para captar la luz solar y fabricar alimento.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-6-2026-W04-celula-animal-vegetal-diferencias-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W04-celula-animal-vegetal-diferencias-001-MASTERY-bundle-v3",
+      "statement": "Con base en lo observado, ¿qué tipo de célula dibujó el estudiante?",
+      "context": "En un colegio de Cali, un estudiante observa al microscopio una muestra del río Magdalena y dibuja una célula con pared celular, cloroplastos y una vacuola central muy grande.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una célula vegetal, por la pared celular, los cloroplastos y la vacuola central grande",
+          "is_correct": true,
+          "feedback": "Correcto. Esas tres características juntas solo aparecen en la célula vegetal."
+        },
+        {
+          "letter": "B",
+          "text": "Una célula animal, porque tiene vacuola y citoplasma",
+          "is_correct": false,
+          "feedback": "Incorrecto. La célula animal no tiene pared celular ni cloroplastos, y sus vacuolas son pequeñas."
+        },
+        {
+          "letter": "C",
+          "text": "Una célula de hongo, porque tiene pared celular rígida",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los hongos tienen pared de quitina y carecen de cloroplastos."
+        },
+        {
+          "letter": "D",
+          "text": "Una célula de bacteria, porque se encontró en agua del río",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las bacterias son mucho más pequeñas y no tienen núcleo ni cloroplastos definidos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La combinación de pared de celulosa, cloroplastos y vacuola central grande es diagnóstico de célula vegetal.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-6-2026-W04-celula-animal-vegetal-diferencias-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W04-celula-animal-vegetal-diferencias-001-MASTERY-bundle-v4",
+      "statement": "¿Qué organelo vegetal permite almacenar agua y mantener turgente la hoja del frailejón?",
+      "context": "En el páramo de Sumapaz, los frailejones almacenan agua en sus hojas para sobrevivir a las noches frías y los días soleados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La vacuola central",
+          "is_correct": true,
+          "feedback": "Correcto. La vacuola central almacena agua, sales y da turgencia a la célula vegetal."
+        },
+        {
+          "letter": "B",
+          "text": "El ribosoma",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ribosoma fabrica proteínas y no almacena agua."
+        },
+        {
+          "letter": "C",
+          "text": "El aparato de Golgi",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aparato de Golgi empaqueta proteínas, pero no es el reservorio principal de agua."
+        },
+        {
+          "letter": "D",
+          "text": "La membrana nuclear",
+          "is_correct": false,
+          "feedback": "Incorrecto. La membrana nuclear protege el material genético y no guarda agua."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La vacuola central puede ocupar hasta el 90 % de la célula vegetal y regula el agua y la presión interna.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.79,
+      "bundle_id": "CO-CN-6-2026-W04-celula-animal-vegetal-diferencias-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W04-celula-animal-vegetal-diferencias-001-MASTERY-bundle-v5",
+      "statement": "Si el objetivo es observar con nitidez células tan pequeñas, ¿qué instrumento y qué aumento aproximado debe usarse en grado sexto?",
+      "context": "En un laboratorio escolar de Barranquilla, los estudiantes comparan una muestra de mejilla humana con una de hoja de elodea bajo el mismo microscopio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El microscopio óptico compuesto, que aumenta entre 40 y 400 veces",
+          "is_correct": true,
+          "feedback": "Correcto. El microscopio óptico permite ver células con aumentos de 40X a 400X en el colegio."
+        },
+        {
+          "letter": "B",
+          "text": "La lupa de mano, que aumenta unas 2 o 3 veces",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lupa no tiene suficiente aumento para distinguir organelos celulares."
+        },
+        {
+          "letter": "C",
+          "text": "El telescopio, que aumenta miles de veces objetos lejanos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El telescopio sirve para astros lejanos, no para muestras microscópicas."
+        },
+        {
+          "letter": "D",
+          "text": "El termómetro, que mide la temperatura de la muestra",
+          "is_correct": false,
+          "feedback": "Incorrecto. El termómetro mide temperatura y no forma imágenes aumentadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El microscopio óptico usa lentes y luz para ampliar células invisibles a simple vista; la lupa es insuficiente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CN-6-2026-W04-celula-animal-vegetal-diferencias-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W04-celula-animal-vegetal-diferencias-001-MASTERY-bundle-v6",
+      "statement": "¿Qué análisis explica correctamente la diferencia de forma entre ambas muestras?",
+      "context": "En Tunja, dos grupos observan células: el grupo 1 ve formas redondeadas sin pared que cambian de forma; el grupo 2 ve formas rectangulares fijas y verdes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La muestra 1 es animal porque solo tiene membrana flexible, y la muestra 2 es vegetal porque la pared rígida mantiene la forma rectangular",
+          "is_correct": true,
+          "feedback": "Correcto. La pared celular fija la forma vegetal; la membrana animal permite formas variables."
+        },
+        {
+          "letter": "B",
+          "text": "La muestra 1 es vegetal porque es redonda, y la muestra 2 es animal porque es verde",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color verde indica cloroplastos vegetales, no animales, y la forma redonda no define lo vegetal."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas son vegetales porque todas las células tienen pared celular",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo las células vegetales tienen pared de celulosa; las animales no."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas son animales porque cambian de color con la luz",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna célula animal hace fotosíntesis ni contiene clorofila verde."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pared celular rígida explica la forma poligonal fija de la célula vegetal; la célula animal, sin pared, es flexible y redondeada.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.71,
+      "bundle_id": "CO-CN-6-2026-W04-celula-animal-vegetal-diferencias-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W04-celula-animal-vegetal-diferencias-001-MASTERY-bundle-v7",
+      "statement": "¿Qué relación entre organelos explica que las hojas con luz produzcan más alimento?",
+      "context": "En un cultivo de caña del Valle del Cauca, las hojas expuestas al sol producen más azúcar que las hojas cubiertas con bolsas oscuras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los cloroplastos captan luz para fabricar glucosa y las mitocondrias la transforman en energía útil",
+          "is_correct": true,
+          "feedback": "Correcto. Cloroplasto y mitocondria trabajan juntos: uno produce glucosa y la otra libera su energía."
+        },
+        {
+          "letter": "B",
+          "text": "Los lisosomas captan luz y los centriolos fabrican azúcar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos organelos no participan en la fotosíntesis ni existen en vegetales superiores."
+        },
+        {
+          "letter": "C",
+          "text": "El núcleo produce luz propia y la vacuola fabrica clorofila",
+          "is_correct": false,
+          "feedback": "Incorrecto. El núcleo guarda información y la vacuola almacena agua; ninguno genera luz."
+        },
+        {
+          "letter": "D",
+          "text": "Los ribosomas bloquean la luz y el citoplasma impide el azúcar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ribosomas hacen proteínas y no bloquean la fotosíntesis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sin luz los cloroplastos no fotosintetizan; la glucosa es luego usada por las mitocondrias para obtener energía.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CN-6-2026-W04-celula-animal-vegetal-diferencias-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W04-celula-animal-vegetal-diferencias-001-MASTERY-bundle-v8",
+      "statement": "¿Qué evidencia microscópica refuta la afirmación del vendedor?",
+      "context": "En un mercado de Pasto, un vendedor dice que la papa y la carne tienen células iguales porque ambas son alimentos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La papa muestra pared celular y cloroplastos o leucoplastos, mientras la carne muestra solo membrana, sin pared ni cloroplastos",
+          "is_correct": true,
+          "feedback": "Correcto. Esa diferencia de organelos demuestra que son células de distinto tipo."
+        },
+        {
+          "letter": "B",
+          "text": "Ambas muestran núcleo, por lo tanto son idénticas en todo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Compartir núcleo no significa ser iguales; los demás organelos difieren."
+        },
+        {
+          "letter": "C",
+          "text": "La carne tiene pared celular gruesa y la papa no tiene membrana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es al contrario: la papa tiene pared y ambas tienen membrana."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna tiene citoplasma ni material genético",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todas las células tienen citoplasma y material genético en su núcleo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Compartir algunos organelos no implica identidad celular; la pared y los plastos distinguen lo vegetal de lo animal.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CN-6-2026-W04-celula-animal-vegetal-diferencias-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W04-celula-animal-vegetal-diferencias-001-MASTERY-bundle-v9",
+      "statement": "¿Qué predicción y juicio experimental son correctos para esta indagación?",
+      "context": "En un colegio de Manizales, un equipo propone comprobar que la pared celular da resistencia: colocará células de cebolla y células de mejilla en agua destilada y observará cuáles se rompen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las células de mejilla se hincharán y podrán romperse, mientras las de cebolla resistirán gracias a la pared celular; el diseño permite comparar ambos tipos",
+          "is_correct": true,
+          "feedback": "Correcto. La pared vegetal resiste la entrada de agua; la célula animal sin pared es frágil al exceso de agua."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos tipos se romperán igual porque la pared celular no tiene función mecánica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pared de celulosa sí brinda resistencia mecánica contra la presión del agua."
+        },
+        {
+          "letter": "C",
+          "text": "Las células de cebolla se romperán primero porque tienen vacuola grande",
+          "is_correct": false,
+          "feedback": "Incorrecto. La vacuola almacena agua pero la pared impide que la célula estalle."
+        },
+        {
+          "letter": "D",
+          "text": "El experimento no sirve porque el microscopio no distingue células animales de vegetales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El microscopio sí permite distinguir pared, forma y cloroplastos con claridad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar el diseño implica predecir según la estructura: sin pared la célula animal es vulnerable a la lisis; con pared la vegetal resiste.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-6-2026-W04-celula-animal-vegetal-diferencias-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W04-celula-animal-vegetal-diferencias-001-MASTERY-bundle-v10",
+      "statement": "¿Qué evaluación de las tres afirmaciones es científicamente correcta?",
+      "context": "En la feria de la ciencia en Bucaramanga, tres carteleras afirman: 1) Toda célula vegetal tiene cloroplastos. 2) Toda célula animal carece de pared celular. 3) Ambas tienen membrana, citoplasma y núcleo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La 1 es falsa porque la raíz y la cebolla no fotosintetizan en la oscuridad, la 2 es verdadera y la 3 es verdadera",
+          "is_correct": true,
+          "feedback": "Correcto. No toda célula vegetal es verde; las subterráneas carecen de cloroplastos desarrollados."
+        },
+        {
+          "letter": "B",
+          "text": "Las tres son verdaderas porque todas las células vegetales son verdes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las células de raíz o de reserva tienen leucoplastos, no cloroplastos verdes."
+        },
+        {
+          "letter": "C",
+          "text": "Las tres son falsas porque las células no tienen núcleo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las células animales y vegetales son eucariotas y sí tienen núcleo definido."
+        },
+        {
+          "letter": "D",
+          "text": "Solo la 1 es verdadera y las demás son falsas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La 2 y la 3 están bien establecidas por la teoría celular moderna."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Juzgar afirmaciones exige matices: la mayoría de células vegetales aéreas tienen cloroplastos, pero las subterráneas no; la pared solo falta en animales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-6-2026-W04-celula-animal-vegetal-diferencias-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

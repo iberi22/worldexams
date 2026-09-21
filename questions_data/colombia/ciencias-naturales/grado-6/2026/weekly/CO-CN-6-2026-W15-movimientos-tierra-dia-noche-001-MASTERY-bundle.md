@@ -1,0 +1,224 @@
+---
+id: "CO-CN-6-2026-W15-movimientos-tierra-dia-noche-001-MASTERY-bundle"
+country: "colombia"
+grado: 6
+asignatura: "ciencias-naturales"
+tema: "movimientos-tierra-dia-noche"
+periodo: "weekly"
+week: "W15"
+year: 2026
+bundle_type: "weekly"
+protocol_version: "5.2"
+total_questions: 10
+bundle_size: 10
+alignment: "DBA MEN Colombia / Saber 11"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
+---
+
+# Bundle MASTERY: Los movimientos de la Tierra y el día y la noche - Grado 6 (W15)
+
+Este bundle de 10 preguntas trabaja los movimientos de rotación y traslación de la Tierra y sus consecuencias observables: el día y la noche, la duración aproximada de cada giro, las estaciones del año y la inclinación del eje terrestre. Los contextos llevan la astronomía a escenarios cotidianos de ciudades colombianas como Bucaramanga, Medellín e Ibagué, donde los estudiantes pueden comparar horas de sol, sombras a mediodía y diferencia de climas durante el año escolar.
+
+## Question 1 [D3-D4]
+**ID:** CO-CN-6-2026-W15-movimientos-tierra-dia-noche-001-MASTERY-bundle-v1
+**Bloom:** Remember
+**ICFES:** Indagación
+**Expected_Success:** 0.88
+**Contexto:** En un colegio de Cúcuta, el profesor Carlos les explica a sus estudiantes de grado sexto por qué en algunas horas del día hay luz y en otras hay oscuridad.
+### Enunciado
+¿Cuál es la causa principal del día y la noche en la Tierra?
+### Opciones
+- [ ] A) Que la Tierra se mueve alrededor del Sol una vez al año
+  <!-- feedback: Incorrecto. El movimiento alrededor del Sol produce las estaciones, no el día y la noche. -->
+- [ ] B) Que el Sol gira alrededor de la Tierra por la mañana y por la tarde
+  <!-- feedback: Incorrecto. El Sol no gira alrededor de la Tierra; este modelo geocéntrico está descartado. -->
+- [x] C) Que la Tierra gira sobre su propio eje, lo que llamamos rotación
+  <!-- feedback: Correcto. El giro de la Tierra sobre su eje hace que las regiones entren y salgan de la zona iluminada por el Sol. -->
+- [ ] D) Que la Luna tapa periódicamente la luz del Sol
+  <!-- feedback: Incorrecto. La Luna puede tapar al Sol en un eclipse solar, pero no cada día. -->
+### Explicacion Pedagogica
+La Tierra realiza un movimiento de rotación sobre su propio eje cada aproximadamente 24 horas; mientras una zona está de frente al Sol es de día, y cuando rota y queda opuesta al Sol es de noche.
+
+## Question 2 [D3-D4]
+**ID:** CO-CN-6-2026-W15-movimientos-tierra-dia-noche-001-MASTERY-bundle-v2
+**Bloom:** Understand
+**ICFES:** Uso comprensivo del conocimiento científico
+**Expected_Success:** 0.86
+**Contexto:** En Armenia, Quindío, los estudiantes de grado sexto cronometran con un reloj cuánto tarda la Tierra en dar una vuelta completa sobre su propio eje y lo comparan con la duración de un día calendario.
+### Enunciado
+¿Cuánto tarda aproximadamente la Tierra en completar un giro de rotación?
+### Opciones
+- [ ] A) Doce horas
+  <!-- feedback: Incorrecto. Doce horas corresponde a medio giro, no a una vuelta completa. -->
+- [ ] B) Trescientos sesenta y cinco días
+  <!-- feedback: Incorrecto. Trescientos sesenta y cinco días es el tiempo de traslación alrededor del Sol. -->
+- [x] C) Veinticuatro horas
+  <!-- feedback: Correcto. La Tierra completa una rotación en aproximadamente 24 horas, que es la duración de un día. -->
+- [ ] D) Un mes
+  <!-- feedback: Incorrecto. Un mes equivale a varias rotaciones, no a una sola. -->
+### Explicacion Pedagogica
+El periodo de rotación de la Tierra es de unas 24 horas; por eso un día tiene aproximadamente esa duración, con su mitad iluminada (día) y la otra mitad oscura (noche) según la región en que nos encontremos.
+
+## Question 3 [D5-D6]
+**ID:** CO-CN-6-2026-W15-movimientos-tierra-dia-noche-001-MASTERY-bundle-v3
+**Bloom:** Apply
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.83
+**Contexto:** En Ibagué, el profesor les muestra a los estudiantes un globo terráqueo iluminado con una linterna que hace de Sol, y les pide imaginar una ciudad colombiana cuando son las doce del mediodía.
+### Enunciado
+Si en Bogotá son las doce del mediodía porque el Sol ilumina directamente esa zona, ¿qué sucede al mismo tiempo en Tokio, una ciudad ubicada al otro lado del planeta?
+### Opciones
+- [ ] A) También son las doce del mediodía en Tokio
+  <!-- feedback: Incorrecto. No puede ser mediodía en los dos extremos al mismo tiempo. -->
+- [ ] B) En Tokio también es de día porque siempre llega luz solar a algún lugar del planeta
+  <!-- feedback: Incorrecto. Lo que se pregunta es la hora local de Tokio, donde el Sol no ilumina de frente. -->
+- [x] C) En Tokio es aproximadamente medianoche, porque el Sol ilumina el lado opuesto de la Tierra
+  <!-- feedback: Correcto. Al girar, el lado opuesto a Bogotá queda en sombra y allí es de noche. -->
+- [ ] D) En Tokio está oscuro porque la Tierra es plana
+  <!-- feedback: Incorrecto. La Tierra es esférica y el comportamiento se explica por la rotación, no por su forma plana. -->
+### Explicacion Pedagogica
+La rotación hace que cuando una región está iluminada por el Sol, la ubicada media vuelta más allá está en sombra; por eso, mientras en un extremo es mediodía, en el opuesto es aproximadamente medianoche.
+
+## Question 4 [D5-D6]
+**ID:** CO-CN-6-2026-W15-movimientos-tierra-dia-noche-001-MASTERY-bundle-v4
+**Bloom:** Apply
+**ICFES:** Indagación
+**Expected_Success:** 0.80
+**Contexto:** En Tuluá, los estudiantes observan que en junio hace más frío en su ciudad y en diciembre el ambiente es más seco y caluroso, y la profesora les pregunta qué movimiento de la Tierra lo explica.
+### Enunciado
+¿Qué movimiento de la Tierra produce principalmente las estaciones del año?
+### Opciones
+- [ ] A) La rotación de la Tierra sobre su propio eje
+  <!-- feedback: Incorrecto. La rotación explica el día y la noche, no las estaciones del año. -->
+- [x] B) La traslación de la Tierra alrededor del Sol durante un año
+  <!-- feedback: Correcto. La traslación, combinada con la inclinación del eje, da lugar a las estaciones. -->
+- [ ] C) El movimiento de la Luna alrededor de la Tierra
+  <!-- feedback: Incorrecto. El movimiento lunar produce fases y mareas, no las estaciones. -->
+- [ ] D) La inclinación del eje de forma aislada, sin relación con el Sol
+  <!-- feedback: Incorrecto. La inclinación tiene relación directa con la posición relativa respecto al Sol durante la traslación. -->
+### Explicacion Pedagogica
+La traslación es el recorrido de la Tierra alrededor del Sol, con una duración de aproximadamente 365 días; combinado con la inclinación del eje, hace que los rayos solares lleguen con distinto ángulo a cada hemisferio durante el año, generando las estaciones.
+
+## Question 5 [D5-D6]
+**ID:** CO-CN-6-2026-W15-movimientos-tierra-dia-noche-001-MASTERY-bundle-v5
+**Bloom:** Apply
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.78
+**Contexto:** En Popayán, los estudiantes observan un modelo inflable de la Tierra en el que se ve claramente que el eje está inclinado respecto a la vertical, y la profesora Camila les pregunta por qué.
+### Enunciado
+¿Por qué el eje de la Tierra se encuentra inclinado?
+### Opciones
+- [ ] A) Por pura casualidad, sin ninguna explicación
+  <!-- feedback: Incorrecto. La inclinación tiene un origen físico y astronómico. -->
+- [ ] B) Porque la Tierra se cayó sobre uno de sus lados
+  <!-- feedback: Incorrecto. Los planetas no se "caen" ni pierden el eje de manera aleatoria. -->
+- [x] C) Por la forma en que el planeta se formó a partir de polvo y gas, y por los grandes impactos que recibió al inicio de su historia
+  <!-- feedback: Correcto. La inclinación surgió durante el proceso de formación y de grandes choques con otros cuerpos. -->
+- [ ] D) Porque la fuerza de gravedad de la Luna empuja el polo sur hacia abajo
+  <!-- feedback: Incorrecto. La gravedad lunar no determina la inclinación del eje terrestre. -->
+### Explicacion Pedagogica
+El eje de la Tierra está inclinado unos 23,5 grados respecto al plano de su órbita; esa inclinación es el resultado del proceso de formación del planeta y de las colisiones con cuerpos grandes durante los primeros millones de años del sistema solar.
+
+## Question 6 [D7-D8]
+**ID:** CO-CN-6-2026-W15-movimientos-tierra-dia-noche-001-MASTERY-bundle-v6
+**Bloom:** Analyze
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.76
+**Contexto:** En Cali, los estudiantes reciben datos: la temperatura promedio en Jamundí, Valle del Cauca, en julio fue de 26 grados Celsius, mientras que en Bogotá en el mismo mes fue de 14 grados Celsius, aunque ambas ciudades reciben luz solar.
+### Enunciado
+¿Qué análisis explica mejor la diferencia de temperatura entre Jamundí y Bogotá en el mismo mes, aun cuando ambas reciben luz solar?
+### Opciones
+- [ ] A) Cali está más lejos del Sol, así que recibe menos calor
+  <!-- feedback: Incorrecto. Cali no está más lejos del Sol; está a igual distancia orbital que Bogotá. -->
+- [ ] B) Bogotá está más cerca de la Luna, por eso hace más frío
+  <!-- feedback: Incorrecto. La cercanía a la Luna no determina el clima de una ciudad. -->
+- [x] C) La altura sobre el nivel del mar y la latitud generan temperaturas distintas, porque el aire se enrarece con la altitud y calienta menos
+  <!-- feedback: Correcto. Bogotá está a unos 2640 m sobre el nivel del mar, lo que reduce la temperatura promedio. -->
+- [ ] D) Cali tiene más agua y por eso siempre hace más calor
+  <!-- feedback: Incorrecto. El agua puede moderar el clima, pero no es la causa principal de la diferencia entre estas ciudades. -->
+### Explicacion Pedagogica
+Analizar el clima exige considerar varios factores: la altitud modifica la temperatura porque la atmósfera es más delgada arriba y retiene menos calor, y la latitud cambia el ángulo con el que llegan los rayos solares.
+
+## Question 7 [D7-D8]
+**ID:** CO-CN-6-2026-W15-movimientos-tierra-dia-noche-001-MASTERY-bundle-v7
+**Bloom:** Analyze
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.74
+**Contexto:** En Medellín, los estudiantes de grado sexto clavan un palo recto en el patio y miden la sombra a las 9 de la mañana, al mediodía y a las 4 de la tarde, y notan que cambia de tamaño y dirección.
+### Enunciado
+¿Qué análisis explica correctamente por qué la sombra del palo cambia de tamaño y dirección durante el día?
+### Opciones
+- [ ] A) Porque la Luna pasa frente al Sol por unas horas
+  <!-- feedback: Incorrecto. Eso ocurriría solo durante un eclipse solar, no todos los días. -->
+- [ ] B) Porque el palo se mueve solo por el calor
+  <!-- feedback: Incorrecto. El palo está fijo en el suelo y no se mueve por sí mismo. -->
+- [x] C) Porque la posición aparente del Sol en el cielo cambia a lo largo del día por la rotación de la Tierra
+  <!-- feedback: Correcto. Al girar la Tierra, los rayos del Sol inciden desde distintos ángulos y la sombra cambia en longitud y orientación. -->
+- [ ] D) Porque el clima nuboso cambia el color de la sombra
+  <!-- feedback: Incorrecto. Las nubes pueden atenuar el brillo, pero la sombra cambia aunque el cielo esté despejado. -->
+### Explicacion Pedagogica
+Durante la rotación de la Tierra, el ángulo entre el Sol y un objeto vertical varía a lo largo del día; por eso la sombra se proyecta más corta al mediodía (cuando el Sol está más alto) y se alarga hacia el amanecer y el atardecer.
+
+## Question 8 [D7-D8]
+**ID:** CO-CN-6-2026-W15-movimientos-tierra-dia-noche-001-MASTERY-bundle-v8
+**Bloom:** Analyze
+**ICFES:** Uso comprensivo del conocimiento científico
+**Expected_Success:** 0.72
+**Contexto:** En Santa Marta, en una salida nocturna, los estudiantes observan que el Sol "sale" por el oriente y se "pone" por el occidente, y discuten si esto significa que el Sol se mueve alrededor de la Tierra.
+### Enunciado
+¿Por qué vemos al Sol salir por el oriente y ponerse por el occidente si en realidad la Tierra es la que gira?
+### Opciones
+- [ ] A) Porque el Sol da vueltas alrededor de la Tierra como en el antiguo modelo geocéntrico
+  <!-- feedback: Incorrecto. Hoy se sabe que el Sol no orbita la Tierra. -->
+- [ ] B) Porque el cielo gira con el Sol hacia nosotros en bloques completos
+  <!-- feedback: Incorrecto. El cielo no es una bóveda sólida que arrastre al Sol. -->
+- [x] C) Por la rotación terrestre, vemos al Sol desplazarse en sentido contrario al giro del planeta, lo que llamamos movimiento aparente
+  <!-- feedback: Correcto. Es un efecto de perspectiva: la Tierra gira hacia el oriente y el Sol parece moverse hacia el occidente. -->
+- [ ] D) Por la contaminación del aire que cambia la posición del Sol
+  <!-- feedback: Incorrecto. La contaminación puede ocultar el Sol, pero no cambia su trayectoria aparente. -->
+### Explicacion Pedagogica
+El movimiento aparente del Sol es un efecto de la rotación terrestre: como la Tierra gira de occidente a oriente, los observadores ven al Sol salir por el oriente, subir, y luego descender y ponerse por el occidente, aunque realmente es nuestro planeta el que se mueve.
+
+## Question 9 [D9-D10]
+**ID:** CO-CN-6-2026-W15-movimientos-tierra-dia-noche-001-MASTERY-bundle-v9
+**Bloom:** Evaluate
+**ICFES:** Uso comprensivo del conocimiento científico
+**Expected_Success:** 0.70
+**Contexto:** En un colegio de Cali, los estudiantes discuten si en Colombia hay verano como en otros países, ya que el país está cerca de la línea ecuatorial.
+### Enunciado
+¿Qué evaluación es más correcta sobre las estaciones del año en Colombia?
+### Opciones
+- [ ] A) En Colombia no hay estaciones porque el país no se mueve
+  <!-- feedback: Incorrecto. La Tierra sí se mueve y la inclinación del eje afecta a todo el planeta. -->
+- [x] B) Colombia sí presenta estaciones, pero se manifiestan como variaciones de lluvia y brillo solar, no como veranos muy calurosos ni inviernos muy fríos
+  <!-- feedback: Correcto. Cerca del Ecuador las diferencias de temperatura son menores; las variaciones se notan más en cantidad de lluvia y horas de brillo solar. -->
+- [ ] C) Colombia tiene las mismas estaciones que Europa, porque la inclinación es idéntica
+  <!-- feedback: Incorrecto. La inclinación es la misma para toda la Tierra, pero el efecto local depende de la latitud. -->
+- [ ] D) Colombia tiene estaciones tan extremas como el Sahara por estar en trópico
+  <!-- feedback: Incorrecto. El trópico no implica temperaturas extremas comparado con desiertos subtropicales. -->
+### Explicacion Pedagogica
+Evaluar exige considerar la latitud: en zonas cercanas al Ecuador la inclinación del eje produce cambios de estación poco marcados en temperatura, pero notorios en lluvias y horas de luz, mientras que en zonas templadas los cambios de temperatura son mucho mayores.
+
+## Question 10 [D9-D10]
+**ID:** CO-CN-6-2026-W15-movimientos-tierra-dia-noche-001-MASTERY-bundle-v10
+**Bloom:** Evaluate
+**ICFES:** Indagación
+**Expected_Success:** 0.68
+**Contexto:** En Cúcuta, los estudiantes razonan qué ocurriría con el clima y los días si la Tierra no tuviera inclinación en su eje, sino que su eje permaneciera totalmente vertical respecto al plano de su órbita.
+### Enunciado
+¿Qué evaluación es la más correcta si la Tierra no tuviera inclinación y su eje se mantuviera totalmente vertical?
+### Opciones
+- [ ] A) Sería mejor, porque habría cambios muy marcados de estación para todos
+  <!-- feedback: Incorrecto. Sin inclinación los cambios estacionales serían mínimos, no mayores. -->
+- [ ] B) Sería mejor, porque no habría estaciones y eso es siempre positivo
+  <!-- feedback: Incorrecto. Quitar las estaciones tendría efectos importantes sobre los climas y los seres vivos. -->
+- [x] C) Las estaciones marcadas desaparecerían en todo el planeta, aunque el día y la noche se mantendrían por la rotación
+  <!-- feedback: Correcto. Sin inclinación, los rayos del Sol caerían de forma similar todo el año sobre cada latitud. -->
+- [ ] D) No cambiaría nada, porque la inclinación no afecta al planeta
+  <!-- feedback: Incorrecto. La inclinación es justamente lo que produce las variaciones estacionales. -->
+### Explicacion Pedagogica
+La inclinación del eje es la responsable de que cada hemisferio reciba diferente cantidad de luz y calor a lo largo del año; sin ella, las estaciones marcadas desaparecerían, aunque seguirían existiendo el día y la noche por la rotación.

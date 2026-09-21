@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-29-grade-5-subject-lengua",
+    "generated_at": "2026-09-20T23:46:03.641Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-5-2026-W29-aumentativos-diminutivos-001-MASTERY-bundle-v1",
+      "statement": "¿Qué son los aumentativos y los diminutivos?",
+      "context": "En Pereira, la maestra muestra pares: casa y casota, perro y perrito.\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Palabras que nombran colores del arcoíris.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los colores se nombran con adjetivos y no cambian de tamaño."
+        },
+        {
+          "letter": "B",
+          "text": "Palabras que agrandan o achican el sentido con terminaciones especiales.",
+          "is_correct": true,
+          "feedback": "Es correcta porque casota agranda la casa y perrito achica al perro."
+        },
+        {
+          "letter": "C",
+          "text": "Signos que abren y cierran preguntas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las preguntas usan signos y no cambian tamaños."
+        },
+        {
+          "letter": "D",
+          "text": "Verbos que indican correr muy rápido.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque correr es acción y no tamaño de las cosas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aumentar es agrandar (casa-casota) y disminuir es achicar (perro-perrito). Recordar estas terminaciones permite jugar con el tamaño de las palabras y dar matices de cariño o grandeza.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-5-2026-W29-aumentativos-diminutivos-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W29-aumentativos-diminutivos-001-MASTERY-bundle-v2",
+      "statement": "Según la frase, ¿qué expresa la palabra casita?",
+      "context": "En Medellín, el niño dice: \"Mi abuela vive en una casita junto al río\".\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la casa es gigante como un edificio.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque gigante pediría aumentativo como casota."
+        },
+        {
+          "letter": "B",
+          "text": "Que la casa es pequeña y se dice con cariño.",
+          "is_correct": true,
+          "feedback": "Es correcta porque -ita achica y suaviza: casita es casa pequeña y querida."
+        },
+        {
+          "letter": "C",
+          "text": "Que la casa está en venta por tres mil pesos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el precio no se expresa con diminutivos."
+        },
+        {
+          "letter": "D",
+          "text": "Que la casa se quemó y ya no existe.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la frase no habla de fuego ni de pérdida."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El diminutivo -ito/-ita achica con afecto: casita es pequeña y querida. Comprender este doble valor (tamaño y cariño) permite sentir lo que el hablante quiere transmitir.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-5-2026-W29-aumentativos-diminutivos-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W29-aumentativos-diminutivos-001-MASTERY-bundle-v3",
+      "statement": "¿Qué expresa la palabra golazo en el relato?",
+      "context": "En Cali, el partido se define con un golazo del delantero en el último minuto.\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un gol pequeño y sin importancia.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque pequeño pediría diminutivo y el relato celebra el gol."
+        },
+        {
+          "letter": "B",
+          "text": "Un gol anulado por el árbitro.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el relato dice que define el partido, no que lo anulan."
+        },
+        {
+          "letter": "C",
+          "text": "Un gol grande y espectacular que decide el partido.",
+          "is_correct": true,
+          "feedback": "Es correcta porque -azo agranda con admiración: fue un golazo inolvidable."
+        },
+        {
+          "letter": "D",
+          "text": "Un gol en contra del propio equipo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el delantero celebra y no lamenta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El aumentativo -azo agranda con emoción: golazo es gol grande y celebrado. Aplicar este valor permite leer crónicas deportivas sintiendo la grandeza que el narrador quiere compartir.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-5-2026-W29-aumentativos-diminutivos-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W29-aumentativos-diminutivos-001-MASTERY-bundle-v4",
+      "statement": "¿Qué dos diminutivos aparecen y qué indican?",
+      "context": "En Tunja, la niña dice: \"Mi hermanito juega con su carrito en el patio\".\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hermanito y carrito, que indican tamaño grande.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque -ito achica y nunca agranda."
+        },
+        {
+          "letter": "B",
+          "text": "Niña y patio, que indican cariño.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque niña y patio no llevan terminación diminutiva."
+        },
+        {
+          "letter": "C",
+          "text": "Hermanito y carrito, que indican desprecio.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el tono es de cariño y no de burla."
+        },
+        {
+          "letter": "D",
+          "text": "Hermanito y carrito, que indican pequeñez con afecto.",
+          "is_correct": true,
+          "feedback": "Es correcta porque los dos llevan -ito y nombran con ternura al hermano y su juguete."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Detectar diminutivos es hallar -ito/-ita/-illo en acción: hermanito y carrito achican con amor. Aplicar esta detección permite leer cuentos familiares captando la ternura escondida en las palabras.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-5-2026-W29-aumentativos-diminutivos-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W29-aumentativos-diminutivos-001-MASTERY-bundle-v5",
+      "statement": "¿Qué expresa animalote en la advertencia?",
+      "context": "En Barranquilla, el pescador advierte: \"No naden cerca del tiburón porque es un animalote peligroso\".\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un animal muy grande que causa temor.",
+          "is_correct": true,
+          "feedback": "Es correcta porque -ote agranda con susto: el tiburón se vuelve enorme y peligroso."
+        },
+        {
+          "letter": "B",
+          "text": "Un animalito manso para acariciar.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque manso pediría diminutivo y el pescador advierte peligro."
+        },
+        {
+          "letter": "C",
+          "text": "Un animal de juguete para los niños.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el juguete no muerde y el aviso habla de peligro real."
+        },
+        {
+          "letter": "D",
+          "text": "Un animal que ya se fue del mar.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la advertencia es presente: no naden cerca ahora."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El aumentativo -ote agranda con miedo o burla según el tono: animalote asusta. Aplicar esta lectura del tono permite entender advertencias donde el tamaño de la palabra avisa del peligro.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-5-2026-W29-aumentativos-diminutivos-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W29-aumentativos-diminutivos-001-MASTERY-bundle-v6",
+      "statement": "Al analizar las frases, ¿qué diferencia hay entre casucha y casita?",
+      "context": "En Cúcuta, comparan: \"Vive en una casucha fría\" con \"Vive en una casita abrigada\".\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay diferencia porque las dos son casas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la terminación cambia el sentimiento hacia cada casa."
+        },
+        {
+          "letter": "B",
+          "text": "Casucha es cariñosa y casita es despectiva.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque invierte los valores: -ucha desprecia y -ita quiere."
+        },
+        {
+          "letter": "C",
+          "text": "Casucha desprecia con -ucha y casita quiere con -ita.",
+          "is_correct": true,
+          "feedback": "Es correcta porque distingue el sufijo que afea (casucha fría) del que acaricia (casita abrigada)."
+        },
+        {
+          "letter": "D",
+          "text": "Las dos desprecian porque son pequeñas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque casita abrigada transmite amor y no desprecio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "No todo lo que achica quiere: -ucha/-aco desprecian mientras -ito/-ita acarician. Analizar el sufijo con su adjetivo (fría contra abrigada) permite captar si el hablante ama o rechaza lo que nombra.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-5-2026-W29-aumentativos-diminutivos-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W29-aumentativos-diminutivos-001-MASTERY-bundle-v7",
+      "statement": "Al comparar las palabras, ¿qué papel juega cada una en el cuento?",
+      "context": "En Manizales, el cuento dice: \"El perrazo cuidó la casa\" y \"El perrito durmió en la cama\".\n**Expected_Success:** 0.68",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las dos indican perros de igual tamaño y función.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque -azo y -ito marcan tamaños y papeles opuestos."
+        },
+        {
+          "letter": "B",
+          "text": "Perrazo es pequeño y perrito es guardián.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque invierte los sentidos de cada terminación."
+        },
+        {
+          "letter": "C",
+          "text": "Perrazo es el guardián grande y perrito es la mascota pequeña.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el aumentativo impone respeto de guardián y el diminutivo da ternura de mascota."
+        },
+        {
+          "letter": "D",
+          "text": "Las dos desprecian a los perros del cuento.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque cuidar y dormir en cama muestran afecto, no desprecio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El autor reparte papeles con terminaciones: -azo para el guardián fuerte y -ito para la mascota tierna. Analizar este reparto muestra cómo la gramática dibuja personajes sin describirlos de más.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-5-2026-W29-aumentativos-diminutivos-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W29-aumentativos-diminutivos-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál frase final evalúa mejor el regreso con afecto?",
+      "context": "En Sincelejo, el curso evalúa el final del cuento: el héroe vuelve a su pueblo natal.\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Volvió a su casucha y pateó al perrazo\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque casucha desprecia y patear maltrata: no hay afecto."
+        },
+        {
+          "letter": "B",
+          "text": "\"Volvió a su casota vacía y fría\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque casota agranda sin cariño y vacía enfría el regreso."
+        },
+        {
+          "letter": "C",
+          "text": "\"Volvió a su libraco de leyes aburridas\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque libraco desprecia y nada celebra el regreso."
+        },
+        {
+          "letter": "D",
+          "text": "\"Volvió a su casita y abrazó a su perrito\".",
+          "is_correct": true,
+          "feedback": "Es correcta porque los diminutivos -ita e -ito visten el regreso de ternura y hogar."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar un final es medir su emoción: los diminutivos de cariño (casita, perrito) abrazan al lector. La frase elegida cierra el cuento con hogar y afecto, que es el regreso que todo héroe merece.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-5-2026-W29-aumentativos-diminutivos-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

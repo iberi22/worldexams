@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-38-grade-5-subject-lengua",
+    "generated_at": "2026-09-21T00:33:11.066Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-5-2026-W38-texto-argumentativo-opinion-basica-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es una opinión?",
+      "context": "En Bogotá, en clase de lengua conversan sobre si los recreos deberían ser más largos.\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lo que una persona piensa o siente sobre un tema.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la opinión expresa una idea personal sobre algo."
+        },
+        {
+          "letter": "B",
+          "text": "Un dato que se comprueba con números.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los datos comprobables son hechos, no opiniones."
+        },
+        {
+          "letter": "C",
+          "text": "El nombre de un país de América.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque un nombre propio no expresa ninguna idea personal."
+        },
+        {
+          "letter": "D",
+          "text": "Una orden que da el profesor.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque una orden no es un punto de vista sobre un tema."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La opinión expresa lo que alguien piensa o siente, mientras que el hecho se puede comprobar. Recordar esta diferencia permite reconocer cuándo un texto informa y cuándo busca convencer.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-5-2026-W38-texto-argumentativo-opinion-basica-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W38-texto-argumentativo-opinion-basica-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la opinión y cuál es la razón en la oración de Valentina?",
+      "context": "En Medellín, Valentina escribe: \"Creo que debemos cuidar los árboles porque dan sombra y aire limpio\".\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La opinión es cuidar los árboles y la razón es que dan sombra y aire limpio.",
+          "is_correct": true,
+          "feedback": "Es correcta porque distingue la idea principal de su motivo."
+        },
+        {
+          "letter": "B",
+          "text": "La opinión es la sombra y la razón es Valentina.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la sombra es un beneficio y Valentina es quien escribe."
+        },
+        {
+          "letter": "C",
+          "text": "La opinión es el aire y la razón es el colegio.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ninguno de los dos es la idea principal del texto."
+        },
+        {
+          "letter": "D",
+          "text": "En la oración no hay opinión ni razón.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto presenta claramente las dos partes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un texto argumentativo la opinión es la idea que se defiende y la razón es el motivo que la sostiene, unido por palabras como \"porque\". Comprender esa estructura permite leer y escribir textos con sentido.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-5-2026-W38-texto-argumentativo-opinion-basica-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W38-texto-argumentativo-opinion-basica-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de las dos expresiones es una opinión?",
+      "context": "En Cali, el periódico escolar publica: \"El recreo dura veinte minutos\" y \"el recreo es muy corto\".\n**Expected_Success:** 0.84",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"El recreo es muy corto\", porque expresa un punto de vista.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la palabra \"muy\" muestra la valoración de quien escribe."
+        },
+        {
+          "letter": "B",
+          "text": "\"El recreo dura veinte minutos\", porque se puede medir.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque un tiempo medible es un hecho comprobable."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos son hechos comprobables.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque solo una se puede comprobar con un reloj."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna expresa una idea personal.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque una de las dos sí valora la duración."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la diferencia entre hecho y opinión permite leer con criterio: los minutos se miden, pero \"muy corto\" depende de cada persona. Distinguirlos evita presentar una valoración como si fuera un dato.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LEN-5-2026-W38-texto-argumentativo-opinion-basica-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W38-texto-argumentativo-opinion-basica-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál razón apoya mejor la opinión \"debemos reciclar en el colegio\"?",
+      "context": "En Cartagena, Juan quiere convencer a sus compañeros de reciclar en el colegio.\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque así cuidamos el ambiente y reducimos la basura.",
+          "is_correct": true,
+          "feedback": "Es correcta porque relaciona el reciclaje con un beneficio real y claro."
+        },
+        {
+          "letter": "B",
+          "text": "Porque a mí me gusta el color verde.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque un gusto personal no explica el beneficio de reciclar."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los viernes no hay clase.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el horario no se relaciona con el reciclaje."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el patio es grande.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el tamaño del patio no justifica reciclar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una buena razón se conecta directamente con la opinión y ofrece un beneficio comprensible. Aplicar este criterio mejora la escritura de textos argumentativos escolares y hace más convincente lo que se afirma.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-5-2026-W38-texto-argumentativo-opinion-basica-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W38-texto-argumentativo-opinion-basica-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál razón apoya mejor la opinión de María?",
+      "context": "En Barranquilla, la tienda escolar vende jugos a dos mil pesos y María opina que son caros.\n**Expected_Success:** 0.76",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con dos mil pesos puede comprar también una fruta y un pan.",
+          "is_correct": true,
+          "feedback": "Es correcta porque compara precios y muestra que el jugo cuesta más que otros alimentos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el jugo es de color naranja.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el color no se relaciona con el precio."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la tienda está cerca del salón.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la cercanía no determina si algo es caro."
+        },
+        {
+          "letter": "D",
+          "text": "Porque hay muchos estudiantes en el patio.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la cantidad de estudiantes no modifica el precio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar una razón adecuada exige comparar y explicar: dos mil pesos por un jugo se puede juzgar frente a lo que valen otros alimentos. Así la opinión deja de ser un simple gusto y se vuelve un argumento.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LEN-5-2026-W38-texto-argumentativo-opinion-basica-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W38-texto-argumentativo-opinion-basica-001-MASTERY-bundle-v6",
+      "statement": "Al analizar los dos argumentos, ¿cuál tiene una razón mejor construida?",
+      "context": "En Bucaramanga, dos niños opinan sobre la tarea. Luis dice: \"No me gusta la tarea porque me quita tiempo de jugar\". Ana dice: \"La tarea ayuda a repasar lo aprendido porque practico lo de clase\".\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El de Ana, porque explica un beneficio con un motivo claro.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la razón se conecta con el aprendizaje y lo explica."
+        },
+        {
+          "letter": "B",
+          "text": "El de Luis, porque el juego es más importante que todo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque es una afirmación sin motivo que la respalde."
+        },
+        {
+          "letter": "C",
+          "text": "El de Luis, porque solo dice que no le gusta la tarea.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque un gusto personal no explica el beneficio o el daño de la tarea."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno, porque los dos son opiniones sin ningún motivo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque al menos uno de los dos presenta una razón."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar argumentos es comparar las razones que los sostienen. Un argumento mejora cuando su motivo se relaciona con el tema y aporta información. Distinguir esto enseña a discutir con respeto y con pruebas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-5-2026-W38-texto-argumentativo-opinion-basica-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W38-texto-argumentativo-opinion-basica-001-MASTERY-bundle-v7",
+      "statement": "Al analizar el argumento, ¿qué falla en él?",
+      "context": "En Pereira, un estudiante afirma: \"Todos los perros del barrio son peligrosos porque uno me ladró una vez\".\n**Expected_Success:** 0.63",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Generaliza a partir de un solo caso.",
+          "is_correct": true,
+          "feedback": "Es correcta porque toma una experiencia aislada y la aplica a todos los perros."
+        },
+        {
+          "letter": "B",
+          "text": "Usa demasiados datos comprobados.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque justamente le faltan datos para sostener la afirmación."
+        },
+        {
+          "letter": "C",
+          "text": "Consulta a un experto antes de opinar.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no consulta a nadie, solo cuenta su experiencia."
+        },
+        {
+          "letter": "D",
+          "text": "Cita a varios vecinos del barrio.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el argumento se apoya solo en un caso personal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un argumento débil generaliza con pocos casos o con palabras absolutas como \"todos\". Analizar este error ayuda a pedir más información antes de aceptar una conclusión.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.63,
+      "bundle_id": "CO-LEN-5-2026-W38-texto-argumentativo-opinion-basica-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W38-texto-argumentativo-opinion-basica-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál texto presenta mejor una opinión con razones?",
+      "context": "En Cartagena, el curso escribe una opinión sobre las bibliotecas del barrio para el mural escolar.\n**Expected_Success:** 0.56",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Las bibliotecas del barrio deben abrir los sábados porque muchos estudiantes quieren leer y estudiar ese día.\"",
+          "is_correct": true,
+          "feedback": "Es correcta porque da una opinión clara y un motivo que la apoya."
+        },
+        {
+          "letter": "B",
+          "text": "\"Las bibliotecas son aburridas y ya.\"",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no explica por qué lo piensa ni ofrece razones."
+        },
+        {
+          "letter": "C",
+          "text": "\"Todo el mundo dice que las bibliotecas del barrio son malas.\"",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque se apoya en lo que dicen otros sin dar motivos."
+        },
+        {
+          "letter": "D",
+          "text": "\"Las bibliotecas existen en algunos barrios de la ciudad.\"",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque solo informa un hecho y no expresa una opinión con razones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar un texto argumentativo exige buscar una opinión clara y razones que la sostengan. El texto con mayor calidad une la idea principal con un motivo comprensible para el lector.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.56,
+      "bundle_id": "CO-LEN-5-2026-W38-texto-argumentativo-opinion-basica-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

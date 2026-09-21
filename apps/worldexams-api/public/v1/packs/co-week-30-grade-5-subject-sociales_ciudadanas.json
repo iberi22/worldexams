@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-30-grade-5-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-20T19:50:00.259Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-5-2026-W30-agua-recurso-natural-colombia-001-MASTERY-bundle-v1",
+      "statement": "¿Por qué el agua es un recurso natural fundamental para la vida?",
+      "context": "En una clase de ciencias sociales en Villavicencio, el profesor pregunta por qué el agua es tan importante para las personas, los animales y las plantas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque solo sirve para decorar las casas y los parques.",
+          "is_correct": false,
+          "feedback": "La decoración es un uso menor; el agua es vital para beber, cultivar y vivir."
+        },
+        {
+          "letter": "B",
+          "text": "Porque todos los seres vivos la necesitan para beber, alimentarse, cultivar y mantener la higiene.",
+          "is_correct": true,
+          "feedback": "Sin agua no hay vida: las personas, los animales y las plantas dependen de ella."
+        },
+        {
+          "letter": "C",
+          "text": "Porque únicamente la usan las fábricas de gaseosas.",
+          "is_correct": false,
+          "feedback": "Las fábricas son solo uno de los muchos usuarios del agua."
+        },
+        {
+          "letter": "D",
+          "text": "Porque es un recurso que nunca se puede agotar ni contaminar.",
+          "is_correct": false,
+          "feedback": "El agua sí se puede agotar y contaminar, por eso hay que cuidarla."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocer el agua como un recurso vital del que dependen todos los seres vivos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-5-2026-W30-agua-recurso-natural-colombia-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W30-agua-recurso-natural-colombia-001-MASTERY-bundle-v2",
+      "statement": "¿Cuáles son algunos de los ríos más importantes de Colombia?",
+      "context": "Lee: \"Colombia es uno de los países con más agua en el mundo. Sus ríos principales son el Magdalena, el Cauca, el Amazonas, el Orinoco y el Atrato, que recorren distintas regiones del país.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Nilo, el Amazonas brasileño y el río Bravo.",
+          "is_correct": false,
+          "feedback": "El Nilo está en África y el Bravo en Norteamérica; no son ríos colombianos."
+        },
+        {
+          "letter": "B",
+          "text": "El Magdalena, el Cauca, el Atrato y el Amazonas en su paso por Colombia.",
+          "is_correct": true,
+          "feedback": "Esos ríos nacen o recorren el territorio colombiano y sostienen regiones enteras."
+        },
+        {
+          "letter": "C",
+          "text": "El Sena, el Támesis y el Danubio.",
+          "is_correct": false,
+          "feedback": "Esos son ríos de Europa, muy lejos de Colombia."
+        },
+        {
+          "letter": "D",
+          "text": "El río de la Plata, el Paraná y el Uruguay.",
+          "is_correct": false,
+          "feedback": "Esos ríos están en el sur del continente, no en Colombia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificar los grandes ríos que forman la riqueza hídrica de Colombia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-5-2026-W30-agua-recurso-natural-colombia-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W30-agua-recurso-natural-colombia-001-MASTERY-bundle-v3",
+      "statement": "¿Cuáles son los usos responsables del agua en el hogar?",
+      "context": "En la casa de Santiago, en Ibagué, la familia usa el agua para beber, cocinar, bañarse, lavar la ropa y regar las matas del patio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Beber, cocinar, asearse, lavar y regar las plantas usando solo la cantidad necesaria.",
+          "is_correct": true,
+          "feedback": "Esos son los usos cotidianos del agua cuando se aprovecha sin desperdiciarla."
+        },
+        {
+          "letter": "B",
+          "text": "Dejar todas las llaves abiertas durante todo el día.",
+          "is_correct": false,
+          "feedback": "Dejar las llaves abiertas desperdicia un recurso que a otros les puede faltar."
+        },
+        {
+          "letter": "C",
+          "text": "Lavar el carro con la manguera durante horas cada semana.",
+          "is_correct": false,
+          "feedback": "Ese uso gasta muchísima agua; es mejor usar balde y solo lo necesario."
+        },
+        {
+          "letter": "D",
+          "text": "Arrojar basuras y aceites por el desagüe de la cocina.",
+          "is_correct": false,
+          "feedback": "Contaminar el agua del hogar daña las tuberías, los ríos y la salud."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el uso responsable del agua a las actividades diarias del hogar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-5-2026-W30-agua-recurso-natural-colombia-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W30-agua-recurso-natural-colombia-001-MASTERY-bundle-v4",
+      "statement": "¿Por qué los páramos son llamados las fábricas de agua de Colombia?",
+      "context": "Lee: \"Los páramos, como Chingaza y Sumapaz, son ecosistemas de alta montaña que capturan el agua de la lluvia y la niebla, y la entregan poco a poco a los ríos que abastecen a ciudades como Bogotá.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque en los páramos hay fábricas que producen agua embotellada.",
+          "is_correct": false,
+          "feedback": "No hay fábricas allí; es la naturaleza del páramo la que guarda y entrega el agua."
+        },
+        {
+          "letter": "B",
+          "text": "Porque capturan y almacenan el agua de la lluvia y la niebla, y la reparten a los ríos y acueductos.",
+          "is_correct": true,
+          "feedback": "La vegetación y el suelo del páramo funcionan como una esponja que regula el agua."
+        },
+        {
+          "letter": "C",
+          "text": "Porque son desiertos donde nunca llueve ni hay agua.",
+          "is_correct": false,
+          "feedback": "Al contrario, los páramos son zonas muy húmedas y ricas en agua."
+        },
+        {
+          "letter": "D",
+          "text": "Porque solo sirven para sembrar papa y criar ganado.",
+          "is_correct": false,
+          "feedback": "La agricultura y la ganadería pueden dañar el páramo; su valor principal es el agua."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Relacionar la función natural de los páramos con el abastecimiento de agua de las ciudades.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-5-2026-W30-agua-recurso-natural-colombia-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W30-agua-recurso-natural-colombia-001-MASTERY-bundle-v5",
+      "statement": "¿Qué relación existe entre el consumo de agua del hogar y el valor de la factura?",
+      "context": "La factura del agua de la familia de Mariana, en Manizales, llegó por $38.500 COP. Su mamá explica que el valor depende de cuánta agua consumen al mes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La factura siempre vale lo mismo sin importar cuánta agua se gaste.",
+          "is_correct": false,
+          "feedback": "El acueducto mide el consumo con un medidor y cobra según lo usado."
+        },
+        {
+          "letter": "B",
+          "text": "Si la familia consume más agua, la factura llega más alta; si ahorra agua, paga menos.",
+          "is_correct": true,
+          "feedback": "Pagar según el consumo invita a cuidar el agua y premia el ahorro."
+        },
+        {
+          "letter": "C",
+          "text": "El agua del acueducto es gratis y nunca se debe pagar.",
+          "is_correct": false,
+          "feedback": "Llevar el agua potable hasta cada casa cuesta dinero: tratamiento, tuberías y mantenimiento."
+        },
+        {
+          "letter": "D",
+          "text": "La factura solo depende del tamaño de la casa y no del agua usada.",
+          "is_correct": false,
+          "feedback": "Lo que define el cobro es la cantidad de agua registrada por el medidor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprender que el pago del servicio de agua depende del consumo y promueve el ahorro.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-5-2026-W30-agua-recurso-natural-colombia-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W30-agua-recurso-natural-colombia-001-MASTERY-bundle-v6",
+      "statement": "¿Qué diferencia clave existe entre las dos veredas?",
+      "context": "Compara: \"En una vereda del Huila, los vecinos protegen la quebrada: no arrojan basuras y siembran árboles en sus orillas. En otra vereda, la quebrada recibe aguas sucias y basuras de las casas.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En las dos veredas el agua está igual de limpia y sana.",
+          "is_correct": false,
+          "feedback": "La quebrada que recibe basuras y aguas sucias se contamina y enferma."
+        },
+        {
+          "letter": "B",
+          "text": "La primera vereda conserva su fuente de agua con acciones de cuidado; la segunda la contamina y pone en riesgo la salud.",
+          "is_correct": true,
+          "feedback": "Proteger las orillas y no contaminar mantiene el agua apta para la comunidad."
+        },
+        {
+          "letter": "C",
+          "text": "La primera vereda desperdicia el agua y la segunda la cuida.",
+          "is_correct": false,
+          "feedback": "Es al contrario: sembrar árboles y no arrojar basuras es cuidar el agua."
+        },
+        {
+          "letter": "D",
+          "text": "Las quebradas no tienen ninguna importancia para las veredas.",
+          "is_correct": false,
+          "feedback": "Las quebradas abastecen de agua a las familias, los cultivos y los animales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar cómo las acciones de la comunidad determinan la calidad del agua que consumen.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-5-2026-W30-agua-recurso-natural-colombia-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W30-agua-recurso-natural-colombia-001-MASTERY-bundle-v7",
+      "statement": "¿Qué enseña esta situación sobre el valor del servicio de acueducto?",
+      "context": "Lee: \"El acueducto comunitario de un barrio en Pasto se dañó. Mientras lo reparan, el agua llega por carrotanque dos veces por semana y las familias deben almacenarla y racionarla.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el agua llega sola a las casas sin trabajo ni organización.",
+          "is_correct": false,
+          "feedback": "Llevar agua potable exige tuberías, plantas de tratamiento y trabajo comunitario."
+        },
+        {
+          "letter": "B",
+          "text": "Que el acueducto es un servicio esencial que requiere cuidado, mantenimiento y uso responsable.",
+          "is_correct": true,
+          "feedback": "Cuando el servicio falla, toda la vida diaria se complica: cocinar, asearse y beber."
+        },
+        {
+          "letter": "C",
+          "text": "Que almacenar agua en recipientes sucios es suficiente y seguro.",
+          "is_correct": false,
+          "feedback": "El agua almacenada debe guardarse en recipientes limpios y tapados para no enfermar."
+        },
+        {
+          "letter": "D",
+          "text": "Que las comunidades no necesitan organizarse para cuidar el agua.",
+          "is_correct": false,
+          "feedback": "El acueducto comunitario solo funciona si los vecinos se organizan y aportan."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar el acueducto como un servicio esencial que sostiene la vida diaria de la comunidad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-5-2026-W30-agua-recurso-natural-colombia-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W30-agua-recurso-natural-colombia-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué todos debemos cuidar el agua aunque en nuestra casa nunca falte?",
+      "context": "Lee: \"Millones de personas en el mundo no tienen agua potable. En Colombia, cuidar los ríos, los páramos y usar el agua sin desperdiciarla garantiza que las futuras generaciones también puedan vivir bien.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el agua es un recurso infinito que nunca se acaba.",
+          "is_correct": false,
+          "feedback": "El agua potable es limitada y cada vez cuesta más llevarla a todas las personas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque cuidar el agua solo es deber de los campesinos.",
+          "is_correct": false,
+          "feedback": "El cuidado del agua es responsabilidad de todos: ciudad y campo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque es un bien común y limitado: cuidarla hoy garantiza la vida y el bienestar de las futuras generaciones.",
+          "is_correct": true,
+          "feedback": "Cada gota ahorrada y cada río protegido es un regalo para quienes vienen después."
+        },
+        {
+          "letter": "D",
+          "text": "Porque si sobra agua se puede vender a otros planetas.",
+          "is_correct": false,
+          "feedback": "El agua debe cuidarse para la vida en la Tierra, no para ideas imposibles."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar el cuidado del agua como un deber compartido con las futuras generaciones.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-5-2026-W30-agua-recurso-natural-colombia-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

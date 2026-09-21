@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-26-grade-5-subject-lengua",
+    "generated_at": "2026-09-20T23:46:03.640Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-5-2026-W26-palabras-homofonas-b-v-001-MASTERY-bundle-v1",
+      "statement": "¿Qué son las palabras homófonas?",
+      "context": "En Bogotá, la profesora dicta pares como bota y vota, que suenan igual pero se escriben distinto.\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Palabras que riman al final de los versos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la rima es coincidencia final en poemas, no igualdad de sonido con distinto sentido."
+        },
+        {
+          "letter": "B",
+          "text": "Palabras que suenan igual pero tienen distinto significado y escritura.",
+          "is_correct": true,
+          "feedback": "Es correcta porque bota y vota suenan igual y significan cosas distintas con letra distinta."
+        },
+        {
+          "letter": "C",
+          "text": "Palabras que siempre llevan tilde en la última sílaba.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la tilde marca acento y no igualdad de sonido."
+        },
+        {
+          "letter": "D",
+          "text": "Palabras que nombran a los mismos animales.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque nombrar animales es tarea de sustantivos y no de sonido igual."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Homófono es lo que suena igual: bota (calzado) y vota (elegir) entran por el oído igual pero salen con sentido distinto. Recordar esta definición prepara para escribir cada una con su letra correcta.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-5-2026-W26-palabras-homofonas-b-v-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W26-palabras-homofonas-b-v-001-MASTERY-bundle-v2",
+      "statement": "Según los carteles, ¿qué diferencia hay entre bota y vota?",
+      "context": "En Medellín, el cartel dice: \"La bota del futbolista\" y \"La niña vota por su cuento favorito\".\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay diferencia porque se escriben igual.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque una lleva b y la otra lleva v desde la primera letra."
+        },
+        {
+          "letter": "B",
+          "text": "Bota con b es calzado y vota con v es elegir.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el futbolista calza la bota y la niña elige al votar."
+        },
+        {
+          "letter": "C",
+          "text": "Bota es elegir y vota es calzado.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque invierte los sentidos: el calzado es bota y elegir es vota."
+        },
+        {
+          "letter": "D",
+          "text": "Las dos significan calzado deportivo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque votar nunca ha significado calzar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprender el par exige unir letra y sentido: b de bota pisa la cancha y v de vota elige en la urna. Esta asociación letra-significado evita el error más común del dictado.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-5-2026-W26-palabras-homofonas-b-v-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W26-palabras-homofonas-b-v-001-MASTERY-bundle-v3",
+      "statement": "¿Qué palabra completa la frase de Santiago?",
+      "context": "En Cali, Santiago escribe: \"Mi papá ___ que arreglar el tubo del agua antes del paseo\".\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tubo, porque nombra el objeto que se rompió.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el espacio pide el verbo tener y tubo es un objeto."
+        },
+        {
+          "letter": "B",
+          "text": "Tuvo, porque es el pasado del verbo tener: tuvo que arreglar.",
+          "is_correct": true,
+          "feedback": "Es correcta porque tuvo con v expresa tener en pasado y el tubo con b ya está escrito después."
+        },
+        {
+          "letter": "C",
+          "text": "Tubo, porque suena igual que tuvo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque sonar igual no basta: tubo es objeto y aquí se necesita el verbo."
+        },
+        {
+          "letter": "D",
+          "text": "Tuvo, porque es otro nombre del objeto cilíndrico.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque tuvo nunca nombra objetos; solo expresa tener en pasado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El truco está en la función: el tubo (objeto) ya aparece en la frase y falta el verbo tener en pasado (tuvo). Aplicar esta revisión de funciones evita el error clásico de escribir dos veces el objeto y dejar la acción sin verbo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-5-2026-W26-palabras-homofonas-b-v-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W26-palabras-homofonas-b-v-001-MASTERY-bundle-v4",
+      "statement": "¿Qué diferencia hay entre sabia y savia?",
+      "context": "En Cartagena, Mariana escribe: \"La sabia maestra enseña\" y \"La savia sube por el árbol\".\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay diferencia porque las dos hablan de árboles.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la maestra no es un árbol; sabia habla de sabiduría."
+        },
+        {
+          "letter": "B",
+          "text": "Sabia es el jugo del árbol y savia es la maestra.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque invierte los sentidos de cada palabra."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos significan maestra inteligente.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la savia nunca ha significado persona."
+        },
+        {
+          "letter": "D",
+          "text": "Sabia con b es la persona con sabiduría y savia con v es el jugo de las plantas.",
+          "is_correct": true,
+          "feedback": "Es correcta porque distingue a la maestra que sabe del líquido que alimenta al árbol."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El contexto manda: maestra pide sabia (sabiduría) y árbol pide savia (jugo vegetal). Aplicar la pista del contexto permite escribir bien cada palabra sin memorizar listas frías.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-5-2026-W26-palabras-homofonas-b-v-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W26-palabras-homofonas-b-v-001-MASTERY-bundle-v5",
+      "statement": "¿Qué palabra completa el aviso de la zapatería?",
+      "context": "En Bucaramanga, el aviso dice: \"Se ___ los zapatos a mil pesos el par\".\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Botar, porque aquí significa tirar o desechar a precio bajo.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la zapatería remata: bota los zapatos, es decir, los vende baratísimos."
+        },
+        {
+          "letter": "B",
+          "text": "Votar, porque los clientes eligen los zapatos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los clientes compran, no votan en elecciones."
+        },
+        {
+          "letter": "C",
+          "text": "Botar, porque los clientes votan con monedas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque votar con monedas no existe; la compra no es elección."
+        },
+        {
+          "letter": "D",
+          "text": "Votar, porque se tiran los zapatos viejos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque tirar es botar con b y nunca votar con v."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Botar con b es desechar o rematar y votar con v es elegir. Aplicar el sentido comercial del aviso (remate a mil pesos) lleva a botar y evita la trampa del sonido idéntico.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-5-2026-W26-palabras-homofonas-b-v-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W26-palabras-homofonas-b-v-001-MASTERY-bundle-v6",
+      "statement": "Al analizar el error de Juan, ¿qué pasó?",
+      "context": "En Pereira, Juan escribe: \"Los vienes de la tienda son frescos\" y su hermana corrige con risa.\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nada, porque vienes y bienes son la misma palabra.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque vienes es del verbo venir y bienes son posesiones."
+        },
+        {
+          "letter": "B",
+          "text": "La hermana se equivoca porque vienes sí significa pan.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque vienes nunca ha significado alimento."
+        },
+        {
+          "letter": "C",
+          "text": "Juan confundió vienes de venir con bienes de comprar, pues quería decir productos.",
+          "is_correct": true,
+          "feedback": "Es correcta porque distingue el verbo venir (tú vienes) del sustantivo bienes (mercancías)."
+        },
+        {
+          "letter": "D",
+          "text": "Juan escribió bien porque la tienda vende verbos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las tiendas venden bienes y no verbos conjugados."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar el error revela el cruce: vienes (venir) invadió el lugar de bienes (mercancías). Separar verbo de sustantivo permite corregir con argumento y no solo por corazonada.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-5-2026-W26-palabras-homofonas-b-v-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W26-palabras-homofonas-b-v-001-MASTERY-bundle-v7",
+      "statement": "Al comparar las frases, ¿qué se concluye sobre bello y vello?",
+      "context": "En Santa Marta, comparan: \"El niño tiene bello rostro\" y \"El vello del brazo lo protege del sol\".\n**Expected_Success:** 0.68",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son iguales porque hablan del cuerpo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque bello habla de hermosura y vello de pelitos del cuerpo."
+        },
+        {
+          "letter": "B",
+          "text": "Bello es pelito y vello es hermoso.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque invierte los sentidos de cada palabra."
+        },
+        {
+          "letter": "C",
+          "text": "Bello con b es hermoso y vello con v es el pelito del cuerpo.",
+          "is_correct": true,
+          "feedback": "Es correcta porque distingue la belleza del rostro del pelito que cubre el brazo."
+        },
+        {
+          "letter": "D",
+          "text": "Las dos llevan b porque significan lo mismo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque vello se escribe con v y significa algo distinto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comparar contextos aclara el par: rostro pide bello (hermoso) y brazo pide vello (pelito). Analizar qué nombra cada frase convierte la ortografía en lógica y no en memoria ciega.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-5-2026-W26-palabras-homofonas-b-v-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W26-palabras-homofonas-b-v-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál opción completa y evalúa mejor la carta?",
+      "context": "En Tunja, el curso evalúa la carta para el concurso: \"Estimada maestra: ___ a clase con zapatos nuevos y ___ por mi cuento en el concurso\".\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Voto a clase con zapatos nuevos y boto por mi cuento\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque invierte los verbos: a clase se va y en el concurso se elige."
+        },
+        {
+          "letter": "B",
+          "text": "\"Boto a clase con zapatos nuevos y boto por mi cuento\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque botar es desechar y no sirve para ir a clase ni para elegir."
+        },
+        {
+          "letter": "C",
+          "text": "\"Voto a clase con zapatos nuevos y voto por mi cuento\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque votar es elegir y no expresa el acto de ir a clase."
+        },
+        {
+          "letter": "D",
+          "text": "La carta necesita otros verbos porque bota/vota y boto/voto no expresan ir ni pedir el voto ajeno.",
+          "is_correct": true,
+          "feedback": "Es correcta porque evalúa que ningún homófono del par encaja: ir a clase pide voy y pedir apoyo pide voten por mí."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar exige comprobar que la palabra encaje en el sentido: bota/vota no significan ir a clase. La opción correcta detecta que el par no sirve aquí y propone pensar en los verbos exactos, que es la lección mayor de las homófonas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-5-2026-W26-palabras-homofonas-b-v-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

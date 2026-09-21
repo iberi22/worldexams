@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-31-grade-5-subject-lengua",
+    "generated_at": "2026-09-21T00:33:11.063Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-5-2026-W31-silabas-tonicas-acentuacion-001-MASTERY-bundle-v1",
+      "statement": "La palabra \"árbol\" se separa en sílabas así: ár - bol. ¿Cuál de sus sílabas se pronuncia con mayor fuerza de voz?",
+      "context": "En un colegio de Bogotá, la profesora escribe la palabra \"árbol\" en el tablero y pide escuchar con atención dónde suena más fuerte la voz.\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La primera sílaba, ár.",
+          "is_correct": true,
+          "feedback": "Es correcta porque al decir \"árbol\" la mayor fuerza de voz cae en la primera sílaba."
+        },
+        {
+          "letter": "B",
+          "text": "La segunda sílaba, bol.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la sílaba \"bol\" se pronuncia con menor fuerza."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos sílabas suenan con la misma fuerza.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque en toda palabra una sílaba se pronuncia más fuerte que las demás."
+        },
+        {
+          "letter": "D",
+          "text": "La palabra no tiene sílaba fuerte.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque todas las palabras tienen una sílaba tónica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La sílaba tónica es la que recibe mayor fuerza de voz al pronunciar una palabra. En \"árbol\" esa fuerza está en \"ár\", la primera sílaba. Reconocerla es el primer paso para saber cuándo una palabra lleva tilde, una habilidad que se usa a diario al leer en voz alta y al escribir.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-5-2026-W31-silabas-tonicas-acentuacion-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W31-silabas-tonicas-acentuacion-001-MASTERY-bundle-v2",
+      "statement": "La palabra \"café\" se separa en sílabas como ca - fé. ¿Qué se entiende sobre su sílaba tónica y su tilde?",
+      "context": "En Medellín, Andrés lee en voz alta la palabra \"café\" en un aviso de la tienda y su hermana le pregunta por qué lleva tilde.\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la fuerza de voz está en la última sílaba y por eso lleva tilde.",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"fé\" es la sílaba tónica y la palabra es aguda terminada en vocal."
+        },
+        {
+          "letter": "B",
+          "text": "Que la fuerza de voz está en la primera sílaba.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"ca\" se pronuncia más suave que \"fé\"."
+        },
+        {
+          "letter": "C",
+          "text": "Que la tilde se escribe solo por gusto del que escribe.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las tildes siguen reglas fijas de acentuación."
+        },
+        {
+          "letter": "D",
+          "text": "Que la palabra cambia de significado según la tilde.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque en \"café\" la tilde no cambia el significado de la palabra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Entender la acentuación implica ubicar la sílaba tónica y revisar la terminación de la palabra. \"Café\" es aguda porque su fuerza de voz está en la última sílaba, y las palabras agudas terminadas en vocal llevan tilde. Esta regla explica por qué escribimos \"café\", \"papá\" y \"sofá\" con tilde.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-5-2026-W31-silabas-tonicas-acentuacion-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W31-silabas-tonicas-acentuacion-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de las tres palabras es aguda, es decir, tiene la fuerza de voz en la última sílaba?",
+      "context": "En Cali, el profesor de quinto dicta tres palabras para clasificarlas según su sílaba tónica: \"violín\", \"lápiz\" y \"música\".\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Violín.",
+          "is_correct": true,
+          "feedback": "Es correcta porque su fuerza de voz está en \"lín\", la última sílaba."
+        },
+        {
+          "letter": "B",
+          "text": "Lápiz.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque su fuerza de voz está en \"lá\", la penúltima sílaba."
+        },
+        {
+          "letter": "C",
+          "text": "Música.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque su fuerza de voz está en \"mú\", la antepenúltima sílaba."
+        },
+        {
+          "letter": "D",
+          "text": "Las tres palabras son agudas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque solo una de las tres tiene la fuerza en la última sílaba."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la clasificación de palabras exige separar cada una en sílabas y escuchar dónde suena más fuerte la voz. \"Violín\" es aguda, \"lápiz\" es grave y \"música\" es esdrújula. Practicar con tríos de palabras ayuda a comparar y a no confundir las categorías.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-5-2026-W31-silabas-tonicas-acentuacion-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W31-silabas-tonicas-acentuacion-001-MASTERY-bundle-v4",
+      "statement": "La palabra \"árbol\" es grave porque su fuerza de voz está en la penúltima sílaba. Según esa información, ¿cómo debe escribirse correctamente?",
+      "context": "En Barranquilla, una estudiante escribió \"arbol\" sin tilde en su cuaderno y la maestra le pidió corregir la palabra.\n**Expected_Success:** 0.83",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Árbol, con tilde en la primera sílaba porque termina en consonante distinta de n o s.",
+          "is_correct": true,
+          "feedback": "Es correcta porque las palabras graves que no terminan en n o s llevan tilde."
+        },
+        {
+          "letter": "B",
+          "text": "Arbol, sin tilde porque las palabras graves nunca llevan tilde.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque muchas palabras graves sí llevan tilde."
+        },
+        {
+          "letter": "C",
+          "text": "Arbol, con tilde en la última sílaba.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la fuerza de voz no está en la última sílaba."
+        },
+        {
+          "letter": "D",
+          "text": "Àrbol, con acento en la consonante final.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las tildes se marcan sobre vocales, no sobre consonantes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar las reglas de acentuación requiere revisar dos datos: la sílaba tónica y la letra final. \"Árbol\" es una palabra grave terminada en la consonante \"l\", y las graves terminadas en consonante distinta de n o s llevan tilde. Escribir con cuidado estas palabras mejora la claridad de los textos escolares.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LEN-5-2026-W31-silabas-tonicas-acentuacion-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W31-silabas-tonicas-acentuacion-001-MASTERY-bundle-v5",
+      "statement": "¿Qué ocurre con las tildes de las tres palabras de la lista?",
+      "context": "En Pereira, Mateo y su mamá escriben la lista del mercado y anotan las palabras \"papá\", \"mamá\" y \"sábado\" para repasar tildes.\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las tres llevan tilde: \"papá\" y \"mamá\" son agudas y \"sábado\" es esdrújula.",
+          "is_correct": true,
+          "feedback": "Es correcta porque las agudas terminadas en vocal y todas las esdrújulas llevan tilde."
+        },
+        {
+          "letter": "B",
+          "text": "Solo \"sábado\" lleva tilde porque es la palabra más larga.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la longitud de la palabra no decide si lleva tilde."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguna lleva tilde porque son palabras conocidas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las tres cumplen reglas de acentuación."
+        },
+        {
+          "letter": "D",
+          "text": "Solo \"papá\" lleva tilde porque termina en vocal.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"mamá\" también es aguda terminada en vocal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la acentuación en listas cotidianas permite comprobar dos reglas al mismo tiempo: las palabras agudas terminadas en vocal llevan tilde, como \"papá\" y \"mamá\", y las palabras esdrújulas siempre llevan tilde, como \"sábado\". Revisar la lista antes de usarla ayuda a escribir con mayor seguridad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-5-2026-W31-silabas-tonicas-acentuacion-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W31-silabas-tonicas-acentuacion-001-MASTERY-bundle-v6",
+      "statement": "Ana dice: \"examen se escribe sin tilde\". Luis dice: \"examen debe llevar tilde porque suena fuerte al final\". ¿Quién tiene razón y por qué?",
+      "context": "En Bucaramanga, dos estudiantes discuten sobre la forma correcta de escribir la palabra \"examen\" en la cartelera del salón.\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ana, porque \"examen\" es grave terminada en \"n\" y las graves terminadas en n no llevan tilde.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la fuerza de voz está en la penúltima sílaba y termina en n."
+        },
+        {
+          "letter": "B",
+          "text": "Luis, porque todas las palabras terminadas en \"n\" llevan tilde.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque muchas palabras terminadas en n no llevan tilde."
+        },
+        {
+          "letter": "C",
+          "text": "Luis, porque la fuerza de voz está en la última sílaba.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque en \"examen\" la fuerza de voz está en la penúltima sílaba."
+        },
+        {
+          "letter": "D",
+          "text": "Ana, porque \"examen\" es una palabra aguda.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la palabra es grave, aunque la conclusión sobre la tilde sea correcta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar una discusión ortográfica exige comprobar cada afirmación con las reglas. \"Examen\" es grave porque su fuerza de voz cae en \"xa\", la penúltima sílaba, y termina en \"n\", por lo que no lleva tilde. Comparar los argumentos y verificar la regla permite defender la escritura correcta con razones y no con opiniones.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-5-2026-W31-silabas-tonicas-acentuacion-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W31-silabas-tonicas-acentuacion-001-MASTERY-bundle-v7",
+      "statement": "¿Qué se puede concluir sobre las tildes de las palabras \"café\" y \"más\" en el cartel?",
+      "context": "En Cartagena, un cartel del colegio dice: \"El café de la tienda es el más rico de la ciudad\".\n**Expected_Success:** 0.72",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las dos llevan tilde, pero por razones diferentes: \"café\" es aguda y \"más\" se distingue de \"mas\".",
+          "is_correct": true,
+          "feedback": "Es correcta porque cada tilde responde a una regla distinta."
+        },
+        {
+          "letter": "B",
+          "text": "Solo \"café\" lleva tilde porque es la única palabra que suena fuerte.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"más\" también aparece con tilde en el cartel."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguna de las dos lleva tilde porque son palabras cortas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la cantidad de letras no decide la acentuación."
+        },
+        {
+          "letter": "D",
+          "text": "Solo \"más\" lleva tilde porque termina en \"s\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"café\" también lleva tilde en el cartel."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar tildes exige distinguir el motivo de cada una. \"Café\" lleva tilde porque es aguda terminada en vocal, mientras que \"más\" la lleva para diferenciarse de \"mas\", que significa \"pero\". Reconocer que no todas las tildes obedecen a la misma regla amplía la comprensión de la ortografía.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-5-2026-W31-silabas-tonicas-acentuacion-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W31-silabas-tonicas-acentuacion-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de las oraciones está escrita correctamente según las reglas de acentuación?",
+      "context": "En Bogotá, la profesora pide elegir la oración mejor escrita en cuanto a las tildes para publicarla en el periódico mural del curso.\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El lápiz está sobre la mesa y el árbol del patio crece mucho.",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"lápiz\" y \"árbol\" son graves terminadas en consonante distinta de n o s."
+        },
+        {
+          "letter": "B",
+          "text": "El lapiz está sobre la mesa y el arbol del patio crece mucho.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque omite las tildes de dos palabras graves."
+        },
+        {
+          "letter": "C",
+          "text": "El lápiz está sobre la mesa y el arbol del patio crece mucho.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque deja sin tilde la palabra \"árbol\"."
+        },
+        {
+          "letter": "D",
+          "text": "El lapiz está sobre la mesa y el árbol del patio crece mucho.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque deja sin tilde la palabra \"lápiz\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar oraciones completas exige revisar cada palabra y no solo una. \"Lápiz\" y \"árbol\" son graves terminadas en consonante distinta de n o s, por lo que ambas llevan tilde. Comprobar la escritura completa antes de publicar un texto es una práctica útil en el colegio y en la vida diaria.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-5-2026-W31-silabas-tonicas-acentuacion-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

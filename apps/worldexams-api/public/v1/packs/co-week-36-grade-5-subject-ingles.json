@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-36-grade-5-subject-ingles",
+    "generated_at": "2026-09-18T19:01:53.473Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-5-2026-W36-holidays-vacations-travel-001-MASTERY-bundle-v1",
+      "statement": "Which words are related to travel?",
+      "context": "In a travel agency in Medellín, a poster shows a beach, a suitcase and a bus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pencil, notebook and eraser.",
+          "is_correct": false,
+          "feedback": "Pencil, notebook and eraser are school objects, not travel words."
+        },
+        {
+          "letter": "B",
+          "text": "Beach, suitcase and bus.",
+          "is_correct": true,
+          "feedback": "Beach, suitcase and bus are all related to travel."
+        },
+        {
+          "letter": "C",
+          "text": "Cow, horse and farm.",
+          "is_correct": false,
+          "feedback": "Cow, horse and farm are farm animals and places, not travel."
+        },
+        {
+          "letter": "D",
+          "text": "Soup, rice and juice.",
+          "is_correct": false,
+          "feedback": "Soup, rice and juice are foods, not travel words."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Esta pregunta presenta vocabulario básico de viajes en inglés. También se conecta cada palabra con imágenes de una agencia de viajes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-5-2026-W36-holidays-vacations-travel-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W36-holidays-vacations-travel-001-MASTERY-bundle-v2",
+      "statement": "What are holidays?",
+      "context": "In Cali, a mother says: \"In December we visit Cartagena. We swim in the sea and eat fried fish.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Days of school exams.",
+          "is_correct": false,
+          "feedback": "Exam days are for tests, not for rest and travel."
+        },
+        {
+          "letter": "B",
+          "text": "Days of hard work.",
+          "is_correct": false,
+          "feedback": "Work days are for jobs, not for rest with family."
+        },
+        {
+          "letter": "C",
+          "text": "Days of cleaning the house.",
+          "is_correct": false,
+          "feedback": "Cleaning days are chores at home, not trips."
+        },
+        {
+          "letter": "D",
+          "text": "Days of rest and travel with family.",
+          "is_correct": true,
+          "feedback": "Holidays are free days for rest, trips and family time."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La palabra holidays significa días de descanso y viaje en familia. También se comprende con el ejemplo de diciembre en Cartagena.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-5-2026-W36-holidays-vacations-travel-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W36-holidays-vacations-travel-001-MASTERY-bundle-v3",
+      "statement": "Choose the correct verb to complete the sentence.",
+      "context": "In Pereira, a boy writes a postcard: \"We _____ to the Coffee Park yesterday.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Go.",
+          "is_correct": false,
+          "feedback": "\"Go\" is present tense and yesterday needs the past."
+        },
+        {
+          "letter": "B",
+          "text": "Goes.",
+          "is_correct": false,
+          "feedback": "\"Goes\" is present singular and does not match yesterday."
+        },
+        {
+          "letter": "C",
+          "text": "Went.",
+          "is_correct": true,
+          "feedback": "\"Went\" is the past of go and matches yesterday."
+        },
+        {
+          "letter": "D",
+          "text": "Going.",
+          "is_correct": false,
+          "feedback": "\"Going\" needs am, is or are and is not correct alone here."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El pasado de go es went y se usa con marcadores como yesterday. También se practica con una visita al Parque del Café quindiano.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.82,
+      "bundle_id": "CO-ING-5-2026-W36-holidays-vacations-travel-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W36-holidays-vacations-travel-001-MASTERY-bundle-v4",
+      "statement": "What do they do on Tuesday?",
+      "context": "In Bogotá, students read: \"On Monday we pack the suitcases. On Tuesday we travel by bus to Santa Marta. On Wednesday we swim in the sea.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They pack the suitcases.",
+          "is_correct": false,
+          "feedback": "Packing the suitcases happens on Monday, not Tuesday."
+        },
+        {
+          "letter": "B",
+          "text": "They travel by bus to Santa Marta.",
+          "is_correct": true,
+          "feedback": "The text says on Tuesday they travel by bus to Santa Marta."
+        },
+        {
+          "letter": "C",
+          "text": "They swim in the sea.",
+          "is_correct": false,
+          "feedback": "Swimming in the sea happens on Wednesday, not Tuesday."
+        },
+        {
+          "letter": "D",
+          "text": "They return to Bogotá.",
+          "is_correct": false,
+          "feedback": "The text never mentions returning to Bogotá."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Leer itinerarios exige ubicar cada actividad en su día exacto. También se aplica con un viaje familiar a Santa Marta.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-5-2026-W36-holidays-vacations-travel-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W36-holidays-vacations-travel-001-MASTERY-bundle-v5",
+      "statement": "Which word names the place where you take the plane?",
+      "context": "At the airport in Rionegro, signs say: \"Passport control, boarding gate and luggage belt.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Passport control.",
+          "is_correct": false,
+          "feedback": "Passport control checks documents but is not the plane door."
+        },
+        {
+          "letter": "B",
+          "text": "Boarding gate.",
+          "is_correct": true,
+          "feedback": "The boarding gate is the door where passengers take the plane."
+        },
+        {
+          "letter": "C",
+          "text": "Luggage belt.",
+          "is_correct": false,
+          "feedback": "The luggage belt carries suitcases, not passengers."
+        },
+        {
+          "letter": "D",
+          "text": "Parking lot.",
+          "is_correct": false,
+          "feedback": "The parking lot is for cars, not for taking the plane."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El vocabulario del aeropuerto incluye gate como puerta de embarque. También se amplía con señales reales que ven los viajeros.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-5-2026-W36-holidays-vacations-travel-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W36-holidays-vacations-travel-001-MASTERY-bundle-v6",
+      "statement": "What can you conclude about the two trips?",
+      "context": "In Bucaramanga, a diary says: \"It rained every day in Bogotá, so we stayed in the hotel. In San Andrés the sun shone and we swam daily.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both trips had sun and swimming.",
+          "is_correct": false,
+          "feedback": "Only the San Andrés trip had sun; Bogotá had rain."
+        },
+        {
+          "letter": "B",
+          "text": "The weather changed the plans in each city.",
+          "is_correct": true,
+          "feedback": "Rain kept them in the hotel while sun allowed swimming daily."
+        },
+        {
+          "letter": "C",
+          "text": "Both trips stayed only in hotels.",
+          "is_correct": false,
+          "feedback": "Only the Bogotá trip stayed in the hotel; San Andrés swam."
+        },
+        {
+          "letter": "D",
+          "text": "Neither trip left the home city.",
+          "is_correct": false,
+          "feedback": "The diary describes real trips to Bogotá and San Andrés."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar diarios permite comparar el clima y sus efectos en los planes. También se trabaja la lectura entre líneas con dos destinos colombianos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-5-2026-W36-holidays-vacations-travel-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W36-holidays-vacations-travel-001-MASTERY-bundle-v7",
+      "statement": "Which statement explains the difference?",
+      "context": "In Manizales, a teacher compares: \"We are going to travel in June\" and \"We travel every June.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both sentences describe a future plan.",
+          "is_correct": false,
+          "feedback": "Only the first with going to describes a future plan."
+        },
+        {
+          "letter": "B",
+          "text": "The first is a future plan, the second is a habit.",
+          "is_correct": true,
+          "feedback": "\"Going to\" plans the future and \"every June\" repeats each year."
+        },
+        {
+          "letter": "C",
+          "text": "Both sentences describe a past trip.",
+          "is_correct": false,
+          "feedback": "Neither sentence uses past tense verbs."
+        },
+        {
+          "letter": "D",
+          "text": "The first is a habit, the second is a future plan.",
+          "is_correct": false,
+          "feedback": "The roles are reversed; every marks habit and going to marks plan."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Going to expresa planes futuros y el presente con every marca hábitos. También se contrasta con viajes que se repiten cada junio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.68,
+      "bundle_id": "CO-ING-5-2026-W36-holidays-vacations-travel-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W36-holidays-vacations-travel-001-MASTERY-bundle-v8",
+      "statement": "Which plan is the best for fifth graders?",
+      "context": "In Cartagena, two travel plans for a class trip appear: one lists safe transport, hotel and museum visits; the other has no transport, no hotel and night swimming alone.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The plan with transport, hotel and museums.",
+          "is_correct": true,
+          "feedback": "This plan is safe, organized and includes learning visits."
+        },
+        {
+          "letter": "B",
+          "text": "The plan with night swimming alone.",
+          "is_correct": false,
+          "feedback": "Swimming alone at night is dangerous for children."
+        },
+        {
+          "letter": "C",
+          "text": "The plan with no transport or hotel.",
+          "is_correct": false,
+          "feedback": "A plan without transport or hotel leaves children unprotected."
+        },
+        {
+          "letter": "D",
+          "text": "Both plans are equal for children.",
+          "is_correct": false,
+          "feedback": "The plans are very different; only one protects the children."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar planes de viaje implica revisar transporte, hospedaje y seguridad. También se promueve viajar con adultos y visitar museos colombianos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.62,
+      "bundle_id": "CO-ING-5-2026-W36-holidays-vacations-travel-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

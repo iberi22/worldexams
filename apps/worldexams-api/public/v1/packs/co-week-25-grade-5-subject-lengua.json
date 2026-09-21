@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-25-grade-5-subject-lengua",
+    "generated_at": "2026-09-20T23:46:03.640Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-5-2026-W25-texto-dramatico-teatro-escolar-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es un texto dramático?",
+      "context": "En Cali, el grupo de teatro ensaya una obra para el día de la familia.\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una carta que se envía por correo a un amigo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la carta comunica a distancia y no se representa en escena."
+        },
+        {
+          "letter": "B",
+          "text": "Un texto escrito para ser representado por actores en un escenario.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el texto dramático vive en la escena con actores, diálogos y vestuario."
+        },
+        {
+          "letter": "C",
+          "text": "Una lista de compras para el mercado del domingo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la lista enumera productos y no cuenta una historia actuada."
+        },
+        {
+          "letter": "D",
+          "text": "Un recibo de pago de la tienda escolar.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el recibo registra dinero y no se actúa frente al público."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El texto dramático está hecho para el teatro: lo escriben para que los actores lo digan y lo actúen. Recordar esta finalidad permite distinguir una obra de teatro de un cuento o una carta.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-5-2026-W25-texto-dramatico-teatro-escolar-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W25-texto-dramatico-teatro-escolar-001-MASTERY-bundle-v2",
+      "statement": "En el libreto, ¿qué indican las palabras entre paréntesis?",
+      "context": "En Medellín, el libreto dice: \"LUCÍA: (entra corriendo y sonríe) ¡Por fin llegaron las vacaciones!\".\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lo que dice Lucía con su voz.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque lo que dice Lucía va después de los dos puntos, sin paréntesis."
+        },
+        {
+          "letter": "B",
+          "text": "Lo que debe hacer la actriz al entrar a escena.",
+          "is_correct": true,
+          "feedback": "Es correcta porque las acotaciones entre paréntesis ordenan movimientos y gestos de los actores."
+        },
+        {
+          "letter": "C",
+          "text": "El título de la obra de teatro.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el título va al inicio del libreto y no entre paréntesis."
+        },
+        {
+          "letter": "D",
+          "text": "El aplauso que da el público.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el público aplaude al final y no escribe en el libreto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las acotaciones son instrucciones escondidas entre paréntesis: dicen cómo entra, cómo se mueve y cómo siente el personaje. Comprenderlas permite leer un libreto como un director que imagina la escena completa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-5-2026-W25-texto-dramatico-teatro-escolar-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W25-texto-dramatico-teatro-escolar-001-MASTERY-bundle-v3",
+      "statement": "¿Qué informa el encabezado de la escena?",
+      "context": "En Barranquilla, el libreto trae: \"ACTO II, ESCENA 3. (La plaza amanece. Entra el vendedor con su canasta)\".\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El precio de las boletas para el público.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el precio se anuncia en carteles y no en el libreto."
+        },
+        {
+          "letter": "B",
+          "text": "Los nombres de los niños que aplauden.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el público no aparece escrito dentro de la obra."
+        },
+        {
+          "letter": "C",
+          "text": "El momento de la obra y lo que se ve al abrirse la escena.",
+          "is_correct": true,
+          "feedback": "Es correcta porque acto y escena ubican el momento y la acotación describe la plaza al amanecer."
+        },
+        {
+          "letter": "D",
+          "text": "La receta del jugo que venden en la plaza.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la canasta es utilería y no trae recetas escritas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Acto y escena son las divisiones de la obra, como capítulos: ubican cuándo ocurre cada parte. Aplicar esta lectura del encabezado permite seguir el orden de la historia sin perderse entre escenas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-5-2026-W25-texto-dramatico-teatro-escolar-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W25-texto-dramatico-teatro-escolar-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál de los dos es un texto dramático y por qué?",
+      "context": "En Pasto, dos libretos dicen: uno trae solo narración de corrido y otro trae nombres en mayúscula con diálogos.\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El de narración corrida, porque cuenta más detalles.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque contar detalles de corrido es propio del cuento, no del teatro."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos, porque todo texto escrito es teatro.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el teatro exige diálogos para actuar, no cualquier escritura."
+        },
+        {
+          "letter": "C",
+          "text": "El de narración, porque no necesita actores.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no necesitar actores lo aleja del escenario, no lo acerca."
+        },
+        {
+          "letter": "D",
+          "text": "El de nombres y diálogos, porque reparte las voces entre personajes.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el diálogo con nombres en mayúscula es la marca del texto para representar."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La marca del teatro es el diálogo repartido: cada personaje tiene su voz escrita. Aplicar esta señal permite abrir cualquier libreto y saber al instante si es obra para escena o relato para leer.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-5-2026-W25-texto-dramatico-teatro-escolar-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W25-texto-dramatico-teatro-escolar-001-MASTERY-bundle-v5",
+      "statement": "¿Qué elementos del texto dramático usará la clase?",
+      "context": "En Cúcuta, la clase monta \"El vendedor de alegría\": necesitan a quien vende, a quien compra y las indicaciones del director.\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Personajes con diálogos y acotaciones del director.",
+          "is_correct": true,
+          "feedback": "Es correcta porque vendedor y comprador son personajes que hablan y el director deja acotaciones."
+        },
+        {
+          "letter": "B",
+          "text": "Solo la lista de asistencia del curso.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la asistencia controla presencia y no cuenta la historia."
+        },
+        {
+          "letter": "C",
+          "text": "Solo las cuentas de la boletería por tres mil pesos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la boletería maneja dinero y no actuaciones."
+        },
+        {
+          "letter": "D",
+          "text": "Solo el mapa del barrio para llegar al teatro.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el mapa orienta el camino y no organiza la obra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Montar teatro pide personajes que dialogan y acotaciones que ordenan la escena. Aplicar estos elementos convierte un salón en escenario y a los estudiantes en actores de su propia obra.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-5-2026-W25-texto-dramatico-teatro-escolar-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W25-texto-dramatico-teatro-escolar-001-MASTERY-bundle-v6",
+      "statement": "Al analizar el fragmento, ¿qué sienten los personajes?",
+      "context": "En Manizales, el director lee: \"PEDRO: (susurra temblando) La tormenta ya viene. ANA: (ríe nerviosa) Pues cerremos la ventana\".\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alegría total porque llega la tormenta.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque temblar y reír nerviosa muestran miedo, no alegría."
+        },
+        {
+          "letter": "B",
+          "text": "Miedo disimulado: Pedro tiembla y Ana ríe nerviosa ante la tormenta.",
+          "is_correct": true,
+          "feedback": "Es correcta porque las acotaciones revelan temor en los gestos aunque las palabras lo escondan."
+        },
+        {
+          "letter": "C",
+          "text": "Hambre porque hablan de cerrar la ventana.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque cerrar la ventana protege del agua y no menciona comida."
+        },
+        {
+          "letter": "D",
+          "text": "Sueño porque susurran en voz baja.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque susurrar aquí es temblor de miedo, no voz de sueño."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar teatro exige leer dos capas: lo dicho (diálogo) y lo sentido (acotación). Los gestos entre paréntesis delatan el miedo que las palabras callan. Esta doble lectura forma espectadores que entienden a los personajes por dentro.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-5-2026-W25-texto-dramatico-teatro-escolar-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W25-texto-dramatico-teatro-escolar-001-MASTERY-bundle-v7",
+      "statement": "Al comparar las versiones, ¿qué cambió al pasar del cuento al teatro?",
+      "context": "En Villavicencio, comparan un cuento del llano con su versión teatral para la fiesta del colegio.\n**Expected_Success:** 0.68",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nada cambió porque son el mismo texto.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el cuento narra y la obra reparte voces para actuar."
+        },
+        {
+          "letter": "B",
+          "text": "Se quitó la historia y quedaron solo los precios.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la historia sigue viva en los diálogos de los personajes."
+        },
+        {
+          "letter": "C",
+          "text": "La narración se transformó en diálogos y acotaciones para los actores.",
+          "is_correct": true,
+          "feedback": "Es correcta porque distingue el narrador que cuenta del reparto que actúa con instrucciones."
+        },
+        {
+          "letter": "D",
+          "text": "Se borraron los personajes y habla solo el público.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque sin personajes no hay obra; el público mira y aplaude."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Adaptar un cuento al teatro es repartir la narración en bocas: lo que contaba el narrador ahora lo dicen y lo hacen los personajes. Analizar este cambio muestra cómo una misma historia vive de dos formas distintas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-5-2026-W25-texto-dramatico-teatro-escolar-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W25-texto-dramatico-teatro-escolar-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál libreto evalúa mejor como texto dramático para el festival?",
+      "context": "En Cartagena, el curso evalúa libretos para representar la historia del barrio en el festival.\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Uno sin personajes donde una sola voz lee todo de corrido.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque sin reparto de voces no hay actuación posible."
+        },
+        {
+          "letter": "B",
+          "text": "Uno con diálogos pero sin ninguna indicación de escena.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque sin acotaciones los actores no saben moverse ni ambientar."
+        },
+        {
+          "letter": "C",
+          "text": "Uno que solo trae la lista de precios de las boletas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los precios organizan la entrada y no cuentan la historia."
+        },
+        {
+          "letter": "D",
+          "text": "Uno con personajes que dialogan, acotaciones claras y escenas ordenadas.",
+          "is_correct": true,
+          "feedback": "Es correcta porque reúne diálogo, instrucciones y estructura para montar la obra completa."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar un libreto exige tres criterios: voces repartidas, instrucciones de escena y orden por actos. El libreto elegido cumple los tres y permite que el barrio se vea representado con una obra lista para el festival.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-5-2026-W25-texto-dramatico-teatro-escolar-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

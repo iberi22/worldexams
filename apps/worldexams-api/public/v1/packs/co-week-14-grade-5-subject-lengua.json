@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-14-grade-5-subject-lengua",
+    "generated_at": "2026-09-20T23:02:47.325Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-5-2026-W14-texto-instructivo-receta-001-MASTERY-bundle-v1",
+      "statement": "La receta tiene un título, una lista de ingredientes y unos pasos numerados. ¿Cuál es la función principal de este texto?",
+      "context": "En un colegio de Bogotá, los niños leen una receta de arepas boyacenses pegada en la cartelera del salón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indicar paso a paso cómo preparar las arepas.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el texto instructivo enseña a hacer algo siguiendo un orden."
+        },
+        {
+          "letter": "B",
+          "text": "Contar un cuento sobre el origen de las arepas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no narra una historia con personajes."
+        },
+        {
+          "letter": "C",
+          "text": "Describir cómo es el paisaje de Boyacá.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no describe lugares ni paisajes."
+        },
+        {
+          "letter": "D",
+          "text": "Expresar sentimientos de tristeza por la comida.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no es un poema ni expresa emociones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El texto instructivo, como la receta, tiene un propósito práctico: guiar una acción. Sus partes típicas son título, ingredientes y preparación. Reconocer esta función ayuda a usar recetas y manuales en la vida diaria.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-5-2026-W14-texto-instructivo-receta-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W14-texto-instructivo-receta-001-MASTERY-bundle-v2",
+      "statement": "Lee el fragmento: \"Ingredientes: dos mangos maduros, un litro de agua, tres cucharadas de azúcar\". ¿Qué parte de la receta es este fragmento?",
+      "context": "En Medellín, un grupo de quinto lee la receta del jugo de mango para preparar la merienda del festival.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El título de la receta.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el título solo nombra la preparación."
+        },
+        {
+          "letter": "B",
+          "text": "Los pasos de la preparación.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque aquí no se indica ninguna acción ordenada."
+        },
+        {
+          "letter": "C",
+          "text": "La lista de ingredientes con sus cantidades.",
+          "is_correct": true,
+          "feedback": "Es correcta porque nombra cada ingrediente con su medida exacta."
+        },
+        {
+          "letter": "D",
+          "text": "La opinión del cocinero sobre el jugo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no hay opiniones ni valoraciones en el fragmento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los ingredientes con cantidades exactas son una parte obligatoria de la receta. Comprender esta sección permite comprar lo necesario y evitar errores. Las cantidades también enseñan a medir y a seguir instrucciones con precisión.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-5-2026-W14-texto-instructivo-receta-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W14-texto-instructivo-receta-001-MASTERY-bundle-v3",
+      "statement": "Lee el paso: \"Pele los lulos, lícuelos con agua y agregue el azúcar\". ¿Qué forma verbal se usa en este paso y para qué sirve?",
+      "context": "En Cali, los estudiantes preparan lulada valluna y leen los pasos pegados junto a la licuadora.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pasado que cuenta lo que ya se hizo ayer.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los verbos no narran hechos pasados."
+        },
+        {
+          "letter": "B",
+          "text": "Imperativo que ordena las acciones de la receta.",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"pele\", \"licúelos\" y \"agregue\" dan órdenes de cocina."
+        },
+        {
+          "letter": "C",
+          "text": "Futuro que adivina lo que pasará mañana.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no se predice nada, se indica qué hacer ahora."
+        },
+        {
+          "letter": "D",
+          "text": "Deseo que expresa un sentimiento del cocinero.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no se expresan emociones ni deseos personales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La receta usa verbos en imperativo para dar órdenes claras: pele, mezcle, sirva. Aplicar esta forma verbal permite escribir instrucciones que cualquier lector pueda seguir. El imperativo es la marca típica del texto instructivo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-5-2026-W14-texto-instructivo-receta-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W14-texto-instructivo-receta-001-MASTERY-bundle-v4",
+      "statement": "Los pasos están en desorden: 1. Sirva la limonada fría. 2. Exprima los limones. 3. Disuelva la panela en agua. ¿Cuál es el orden correcto?",
+      "context": "En Cartagena, un niño quiere hacer una limonada de panela que cuesta 6000 pesos en ingredientes para vender en el bazar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1, 2, 3 porque primero se sirve y después se prepara.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no se puede servir algo que aún no existe."
+        },
+        {
+          "letter": "B",
+          "text": "2, 1, 3 porque se exprime, se sirve y al final se endulza.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque servir antes de endulzar deja la bebida incompleta."
+        },
+        {
+          "letter": "C",
+          "text": "3, 1, 2 porque se endulza, se sirve y al final se exprime.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque exprimir al final mancha la bebida ya servida."
+        },
+        {
+          "letter": "D",
+          "text": "3, 2, 1 porque primero se endulza, luego se agrega limón y al final se sirve.",
+          "is_correct": true,
+          "feedback": "Es correcta porque sigue la secuencia lógica de preparar antes de servir."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El texto instructivo exige un orden secuencial: cada paso prepara el siguiente. Aplicar conectores de orden como primero, luego y finalmente ayuda a organizar la receta. Alterar el orden produce un resultado diferente o imposible.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-5-2026-W14-texto-instructivo-receta-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W14-texto-instructivo-receta-001-MASTERY-bundle-v5",
+      "statement": "¿Qué se deduce si un estudiante asa las arepas solo un minuto por cada lado?",
+      "context": "En Bucaramanga, la receta de las arepas santandereanas dice: \"Ase las arepas diez minutos por cada lado\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que las arepas quedarán crudas por dentro y no se podrán comer.",
+          "is_correct": true,
+          "feedback": "Es correcta porque un minuto no basta para cocinar la masa según la receta."
+        },
+        {
+          "letter": "B",
+          "text": "Que las arepas quedarán perfectas y listas para vender.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque tan poco tiempo deja la masa sin cocinar."
+        },
+        {
+          "letter": "C",
+          "text": "Que las arepas se convertirán en jugo de frutas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el tiempo de cocción no cambia la naturaleza del alimento."
+        },
+        {
+          "letter": "D",
+          "text": "Que la receta no necesita fuego ni calor para prepararse.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la receta pide explícitamente asar las arepas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Seguir tiempos y cantidades es parte de aplicar un instructivo. Deducir consecuencias de saltarse un paso enseña a leer con atención. En la cocina, cada número tiene una razón relacionada con la física y la química de los alimentos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-5-2026-W14-texto-instructivo-receta-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W14-texto-instructivo-receta-001-MASTERY-bundle-v6",
+      "statement": "Receta 1: \"Mezcle avena, leche y canela. Cocine cinco minutos. Sirva caliente\". Receta 2: \"La avena es rica y me gusta mucho en las mañanas frías\". ¿Cuál es un verdadero texto instructivo y por qué?",
+      "context": "En Pereira, dos recetas de avena del Quindío se comparan en el periódico mural del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La receta 2 porque expresa gustos personales sobre la avena.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque opinar no enseña a preparar nada."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos son instructivos porque hablan de avena.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque mencionar un alimento no basta para instruir."
+        },
+        {
+          "letter": "C",
+          "text": "La receta 1 porque usa verbos de orden y pasos secuenciales.",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"mezcle\", \"cocine\" y \"sirva\" guían la preparación."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna sirve porque la avena no es colombiana.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el origen del alimento no define el tipo de texto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar un instructivo exige buscar sus marcas: verbos en imperativo y orden numérico o secuencial. La receta 1 las tiene y la 2 solo opina. Distinguir instruir de opinar es clave para la lectura crítica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-5-2026-W14-texto-instructivo-receta-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W14-texto-instructivo-receta-001-MASTERY-bundle-v7",
+      "statement": "¿Qué problema tiene esta receta y cómo afecta la preparación?",
+      "context": "En Manizales, una receta copiada a mano dice: \"Agregue harina, después prenda el horno, antes consiga los huevos\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No tiene problema y se puede seguir tal como está.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque pide agregar harina antes de tener los ingredientes."
+        },
+        {
+          "letter": "B",
+          "text": "El orden es ilógico porque pide usar ingredientes antes de conseguirlos.",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"antes consiga los huevos\" debió ir primero en la secuencia."
+        },
+        {
+          "letter": "C",
+          "text": "El problema es que usa verbos en imperativo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el imperativo es correcto en las recetas."
+        },
+        {
+          "letter": "D",
+          "text": "El problema es que menciona el horno en la receta.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque prender el horno es un paso necesario de la preparación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La coherencia del instructivo depende del orden temporal de los conectores. \"Antes\" y \"después\" deben reflejar la secuencia real de la cocina. Analizar estos marcadores permite detectar errores y reescribir la receta en un orden posible.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-5-2026-W14-texto-instructivo-receta-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W14-texto-instructivo-receta-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la mejor receta para que cualquier familia pueda prepararla sin errores?",
+      "context": "En Barranquilla, el curso quinto debe elegir la mejor receta de patacones para publicarla en la feria gastronómica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Patacones ricos: consigan plátanos y hagan todo como puedan sin medidas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no da cantidades ni pasos claros."
+        },
+        {
+          "letter": "B",
+          "text": "Patacones: frían, majen y vuelvan a freír cuando quieran como salga.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque omite ingredientes, tiempos y orden preciso."
+        },
+        {
+          "letter": "C",
+          "text": "Me encantan los patacones porque son crujientes y los como en la playa.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque es una opinión y no una instrucción."
+        },
+        {
+          "letter": "D",
+          "text": "Patacones: ingredientes con medidas exactas, pasos numerados con verbos claros y tiempo de fritura.",
+          "is_correct": true,
+          "feedback": "Es correcta porque incluye título, ingredientes medidos y secuencia completa."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar una receta exige verificar sus tres partes: título, ingredientes con cantidades y pasos ordenados con verbos precisos. La opción ganadora cumple los tres criterios y garantiza que el lector comprenda el proceso. Un buen instructivo también cuida la comprensión de quien cocina por primera vez.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-5-2026-W14-texto-instructivo-receta-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

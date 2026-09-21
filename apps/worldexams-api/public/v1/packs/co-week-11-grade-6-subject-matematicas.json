@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-11-grade-6-subject-matematicas",
+    "generated_at": "2026-09-20T21:26:33.167Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-6-2026-W11-ecuaciones-primer-grado-001-MASTERY-bundle-v1",
+      "statement": "En la ecuación x + 5 = 12, la letra x representa:",
+      "context": "En un curso de Medellín la profesora escribe x más 5 igual a 12 y pregunta qué significa la letra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La incógnita que se quiere hallar",
+          "is_correct": true,
+          "feedback": "Es correcta porque la incógnita es el valor desconocido de la ecuación."
+        },
+        {
+          "letter": "B",
+          "text": "Un número que siempre vale 5",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque x cambia según la ecuación y no vale 5."
+        },
+        {
+          "letter": "C",
+          "text": "El resultado de la suma",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el resultado es 12 y no la letra."
+        },
+        {
+          "letter": "D",
+          "text": "Un adorno sin valor",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la letra tiene un valor numérico preciso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La incógnita es el número desconocido que hace verdadera la igualdad. En este caso x vale 7, porque 7 más 5 es 12.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-6-2026-W11-ecuaciones-primer-grado-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W11-ecuaciones-primer-grado-001-MASTERY-bundle-v2",
+      "statement": "Si x es la cantidad inicial, ¿qué ecuación representa la situación x más 3 igual a 10 y cuál es su solución?",
+      "context": "En Bogotá un niño tiene una caja con canicas y su amigo le da 3 más hasta completar 10.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 7",
+          "is_correct": true,
+          "feedback": "Es correcta porque 7 más 3 es igual a 10."
+        },
+        {
+          "letter": "B",
+          "text": "x = 10",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque 10 más 3 es 13 y no 10."
+        },
+        {
+          "letter": "C",
+          "text": "x = 3",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque 3 más 3 es 6 y no 10."
+        },
+        {
+          "letter": "D",
+          "text": "x = 13",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque suma en lugar de restar para despejar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para despejar x se resta 3 a ambos lados: x queda sola y 10 menos 3 es 7. Al comprobar, 7 más 3 sí da 10.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.87,
+      "bundle_id": "CO-MAT-6-2026-W11-ecuaciones-primer-grado-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W11-ecuaciones-primer-grado-001-MASTERY-bundle-v3",
+      "statement": "Si x es el valor del billete, la ecuación x - 12000 = 4000 tiene como solución:",
+      "context": "En Cali una entrada a cine cuesta 12000 COP y un niño pagó con un billete y recibió 4000 COP de cambio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "16000 COP",
+          "is_correct": true,
+          "feedback": "Es correcta porque 16000 menos 12000 es igual a 4000."
+        },
+        {
+          "letter": "B",
+          "text": "8000 COP",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque resta en lugar de sumar para despejar."
+        },
+        {
+          "letter": "C",
+          "text": "12000 COP",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque con ese billete no habría cambio."
+        },
+        {
+          "letter": "D",
+          "text": "4000 COP",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ese es el cambio y no el billete."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para hallar x se suma 12000 a ambos lados: x es igual a 4000 más 12000, es decir 16000 COP. La comprobación confirma que el cambio es correcto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.84,
+      "bundle_id": "CO-MAT-6-2026-W11-ecuaciones-primer-grado-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W11-ecuaciones-primer-grado-001-MASTERY-bundle-v4",
+      "statement": "La solución de la ecuación 4x = 28 es:",
+      "context": "En Cartagena se reparten 4 dulces a cada uno de x niños y en total son 28 dulces.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7",
+          "is_correct": true,
+          "feedback": "Es correcta porque 4 por 7 es igual a 28."
+        },
+        {
+          "letter": "B",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque resta 4 en lugar de dividir entre 4."
+        },
+        {
+          "letter": "C",
+          "text": "32",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque suma 4 en lugar de dividir entre 4."
+        },
+        {
+          "letter": "D",
+          "text": "112",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque multiplica 28 por 4 en lugar de dividir."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En 4x el 4 multiplica a la incógnita, así que se divide ambos lados entre 4. El resultado es 7 niños, y 4 dulces por 7 sí da 28.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.81,
+      "bundle_id": "CO-MAT-6-2026-W11-ecuaciones-primer-grado-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W11-ecuaciones-primer-grado-001-MASTERY-bundle-v5",
+      "statement": "La ecuación x / 6 = 5 tiene como solución:",
+      "context": "En Bucaramanga un paquete de galletas se reparte en partes iguales entre 6 amigas y cada una recibe 5 galletas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30",
+          "is_correct": true,
+          "feedback": "Es correcta porque 30 dividido entre 6 es igual a 5."
+        },
+        {
+          "letter": "B",
+          "text": "11",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque suma 6 y 5 en lugar de multiplicar."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque confunde el cociente con el dividendo."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque 5 dividido entre 6 no es 5."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Como x está dividido entre 6, se multiplica ambos lados por 6. Así x es 30 galletas, que repartidas entre 6 dan 5 a cada una.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-6-2026-W11-ecuaciones-primer-grado-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W11-ecuaciones-primer-grado-001-MASTERY-bundle-v6",
+      "statement": "Si x es el número de mangos, ¿cuál es el valor de x en 2x + 4 = 20?",
+      "context": "En Barranquilla un vendedor dice: el doble de mis mangos más 4 es igual a 20.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8",
+          "is_correct": true,
+          "feedback": "Es correcta porque el doble de 8 es 16 y más 4 es 20."
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque primero resta mal y luego no divide."
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque olvida restar el 4 antes de dividir."
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque 2 por 6 más 4 es 16 y no 20."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se despeja en dos pasos: primero se resta 4 y queda 2x igual a 16, luego se divide entre 2 y queda x igual a 8. La verificación confirma la igualdad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-6-2026-W11-ecuaciones-primer-grado-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W11-ecuaciones-primer-grado-001-MASTERY-bundle-v7",
+      "statement": "La ecuación 3x - 5 = 16 tiene como solución:",
+      "context": "En Pereira una niña piensa un número, lo multiplica por 3 y le resta 5 para obtener 16.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7",
+          "is_correct": true,
+          "feedback": "Es correcta porque 3 por 7 menos 5 es igual a 16."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque 3 por 5 menos 5 es 10 y no 16."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque prueba con el coeficiente y no despeja."
+        },
+        {
+          "letter": "D",
+          "text": "21",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque suma 16 más 5 sin dividir entre 3."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se suma 5 a ambos lados y queda 3x igual a 21, luego se divide entre 3 y x es 7. Este proceso invierte las operaciones en orden contrario.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-6-2026-W11-ecuaciones-primer-grado-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W11-ecuaciones-primer-grado-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál ecuación representa la situación y cuál es el número inicial?",
+      "context": "En Manizales un bus con x pasajeros recoge 12 más y luego se bajan 5, quedando 27 pasajeros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x + 12 - 5 = 27; x = 20",
+          "is_correct": true,
+          "feedback": "Es correcta porque 20 más 12 menos 5 es igual a 27."
+        },
+        {
+          "letter": "B",
+          "text": "x + 12 + 5 = 27; x = 10",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque suma los que se bajaron en lugar de restarlos."
+        },
+        {
+          "letter": "C",
+          "text": "x - 12 + 5 = 27; x = 34",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque invierte el sentido de subir y bajar."
+        },
+        {
+          "letter": "D",
+          "text": "12x - 5 = 27; x = 3",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque multiplica en lugar de sumar a los que suben."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Subir agrega y bajar resta, así que la expresión es x más 12 menos 5. Al simplificar queda x más 7 igual a 27, de donde x es 20 pasajeros iniciales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.66,
+      "bundle_id": "CO-MAT-6-2026-W11-ecuaciones-primer-grado-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W11-ecuaciones-primer-grado-001-MASTERY-bundle-v9",
+      "statement": "Si x es el ahorro de Luis, ¿cuánto tiene cada uno?",
+      "context": "En Pasto dos hermanos ahorran: Ana tiene el triple de lo que tiene Luis más 2000 COP y entre los dos tienen 30000 COP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Luis 7000 COP y Ana 23000 COP",
+          "is_correct": true,
+          "feedback": "Es correcta porque 7000 más 23000 es 30000 y 23000 es el triple de 7000 más 2000."
+        },
+        {
+          "letter": "B",
+          "text": "Luis 10000 COP y Ana 20000 COP",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque Ana no cumple la condición del triple más 2000."
+        },
+        {
+          "letter": "C",
+          "text": "Luis 7500 COP y Ana 22500 COP",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque olvida sumar los 2000 adicionales de Ana."
+        },
+        {
+          "letter": "D",
+          "text": "Luis 14000 COP y Ana 16000 COP",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque reparte casi en mitades sin usar la relación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación es x más 3x más 2000 igual a 30000, es decir 4x igual a 28000. Al dividir queda x igual a 7000 para Luis y 3 por 7000 más 2000 igual a 23000 para Ana.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-6-2026-W11-ecuaciones-primer-grado-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W11-ecuaciones-primer-grado-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la evaluación correcta del procedimiento y del resultado?",
+      "context": "En Tunja un estudiante resolvió 5x = 2x + 18 y dijo que x es 9.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El resultado es falso, la solución correcta es x = 6",
+          "is_correct": true,
+          "feedback": "Es correcta porque al restar 2x queda 3x igual a 18 y x es 6."
+        },
+        {
+          "letter": "B",
+          "text": "El resultado es verdadero, x es 9",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque al reemplazar 9 queda 45 igual a 36, lo cual es falso."
+        },
+        {
+          "letter": "C",
+          "text": "El resultado es falso, la solución es x = 18",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque olvida restar 2x antes de despejar."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede resolver porque hay x en ambos lados",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque sí se puede agrupando las incógnitas en un lado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con incógnita en ambos lados se resta 2x a cada lado y queda 3x igual a 18. Al dividir entre 3 se obtiene 6. La comprobación da 30 igual a 30, así que el 9 propuesto era incorrecto.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-6-2026-W11-ecuaciones-primer-grado-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-18-grade-5-subject-lengua",
+    "generated_at": "2026-09-20T23:02:47.327Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-5-2026-W18-prefijos-sufijos-familia-palabras-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es un prefijo?",
+      "context": "En Bogotá, la profesora explica en el tablero que \"desarmar\" viene de \"armar\".\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una parte que se agrega al inicio de una palabra y cambia su significado.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el prefijo va delante de la raíz, como \"des\" en \"desarmar\"."
+        },
+        {
+          "letter": "B",
+          "text": "El punto final que cierra una oración.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el punto es un signo de puntuación y no parte de la palabra."
+        },
+        {
+          "letter": "C",
+          "text": "Un dibujo que acompaña un cuento.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el dibujo ilustra, pero no modifica palabras."
+        },
+        {
+          "letter": "D",
+          "text": "La firma que cierra una carta.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la firma identifica al autor y no forma palabras nuevas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El prefijo se une al comienzo de la raíz para crear una palabra derivada: \"des\" más \"armar\" forma \"desarmar\", que significa lo contrario. Reconocer los prefijos permite deducir el significado de muchas palabras nuevas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-5-2026-W18-prefijos-sufijos-familia-palabras-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W18-prefijos-sufijos-familia-palabras-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué \"pan\", \"panadero\" y \"panecillo\" forman una familia de palabras?",
+      "context": "En Medellín, los niños leen en la cartelera: \"La panadería del barrio vende pan, panadero y panecillo\".\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque empiezan con letras diferentes.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque todas comparten la misma raíz \"pan\"."
+        },
+        {
+          "letter": "B",
+          "text": "Porque comparten la misma raíz \"pan\" y hablan de lo mismo.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la familia de palabras nace de una raíz común con significados relacionados."
+        },
+        {
+          "letter": "C",
+          "text": "Porque son palabras en otro idioma.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las tres son palabras del español con raíz común."
+        },
+        {
+          "letter": "D",
+          "text": "Porque riman al final de un poema.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no están en versos ni buscan musicalidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La familia de palabras agrupa derivados que comparten raíz y campo de significado: del \"pan\" nacen \"panadero\", quien lo hace, y \"panecillo\", pan pequeño. Comprender esta relación ayuda a ampliar el vocabulario con lógica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-5-2026-W18-prefijos-sufijos-familia-palabras-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W18-prefijos-sufijos-familia-palabras-001-MASTERY-bundle-v3",
+      "statement": "En la palabra \"imposible\", ¿qué prefijo se usó y qué significa?",
+      "context": "En Cali, Santiago lee: \"Es imposible cruzar el río sin el puente nuevo\".\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El prefijo \"ible\", que significa que sí se puede hacer.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"ible\" es la terminación y no el prefijo."
+        },
+        {
+          "letter": "B",
+          "text": "El prefijo \"pos\", que significa puente sobre el río.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"pos\" no es el prefijo ni habla de puentes."
+        },
+        {
+          "letter": "C",
+          "text": "El prefijo \"im\", que significa negación: no posible.",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"im\" delante de \"posible\" indica que algo no se puede hacer."
+        },
+        {
+          "letter": "D",
+          "text": "El prefijo \"e\", que significa cruzar el agua.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque esa letra sola no forma el prefijo de negación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los prefijos \"in\", \"im\" e \"i\" expresan negación: \"posible\" se vuelve \"imposible\", \"justo\" se vuelve \"injusto\". Aplicar este conocimiento permite descubrir el significado de palabras nuevas sin buscarlas en el diccionario.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-5-2026-W18-prefijos-sufijos-familia-palabras-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W18-prefijos-sufijos-familia-palabras-001-MASTERY-bundle-v4",
+      "statement": "En \"pequeña\" no hay sufijo especial, pero en \"casita\", \"perrito\" y \"librito\", ¿qué indican los sufijos \"ita\", \"ito\"?",
+      "context": "En Cartagena, Mariana compra en la tienda: \"Una gaseosa pequeña cuesta dos mil pesos y una grande cuesta tres mil quinientos pesos\".\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que las cosas son gigantes y costosas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque esos sufijos achican, no agrandan el tamaño."
+        },
+        {
+          "letter": "B",
+          "text": "Que las cosas son pequeñas o expresan cariño.",
+          "is_correct": true,
+          "feedback": "Es correcta porque los diminutivos \"ito\" e \"ita\" indican tamaño pequeño o afecto."
+        },
+        {
+          "letter": "C",
+          "text": "Que son plurales y hay muchas unidades.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el plural se forma con \"s\" o \"es\", no con \"ito\"."
+        },
+        {
+          "letter": "D",
+          "text": "Que las palabras están en pasado y ya terminaron.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el tiempo pasado lo marcan los verbos, no estos sufijos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los sufijos van al final de la raíz y cambian el matiz: \"ito\" e \"ita\" forman diminutivos que expresan tamaño pequeño o cariño. Aplicar su reconocimiento ayuda a comprender el tono afectivo de cuentos y conversaciones familiares.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-5-2026-W18-prefijos-sufijos-familia-palabras-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W18-prefijos-sufijos-familia-palabras-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál grupo pertenece a la familia de la palabra \"café\"?",
+      "context": "En Pereira, Juan siembra café con su familia: \"El cafetal está florido y el cafetero recoge el grano\".\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Café, cafetal, cafetero, cafecito.",
+          "is_correct": true,
+          "feedback": "Es correcta porque todas comparten la raíz \"caf\" y hablan del cultivo y sus derivados."
+        },
+        {
+          "letter": "B",
+          "text": "Café, leche, azúcar, agua.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque son ingredientes distintos sin raíz común."
+        },
+        {
+          "letter": "C",
+          "text": "Café, carro, casa, cama.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque solo comparten la letra inicial y no la raíz ni el significado."
+        },
+        {
+          "letter": "D",
+          "text": "Café, cantar, correr, comer.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque son verbos sin relación con la raíz del café."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para hallar la familia se busca la raíz común y el significado compartido: \"cafetal\" es el cultivo, \"cafetero\" quien lo trabaja y \"cafecito\" la bebida con cariño. Aplicar este criterio evita confundir palabras que solo empiezan igual.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-5-2026-W18-prefijos-sufijos-familia-palabras-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W18-prefijos-sufijos-familia-palabras-001-MASTERY-bundle-v6",
+      "statement": "Al analizar \"rehacer\" y \"deshacer\", ¿qué expresan sus prefijos?",
+      "context": "En Manizales, Valentina analiza dos palabras: \"rehacer\" y \"deshacer\" en la guía de artes sobre reciclaje.\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos significan lo mismo porque terminan igual.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque comparten la raíz \"hacer\", pero sus prefijos cambian el sentido."
+        },
+        {
+          "letter": "B",
+          "text": "\"Re\" significa volver a hacer y \"des\" significa desbaratar lo hecho.",
+          "is_correct": true,
+          "feedback": "Es correcta porque distingue repetición con \"re\" y acción contraria con \"des\"."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos indican tamaño pequeño con cariño.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque esa función pertenece a los sufijos diminutivos, no a estos prefijos."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno tiene prefijo porque son palabras simples.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ambas llevan una parte inicial añadida a la raíz \"hacer\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar prefijos exige separar raíz y afijo: \"re\" indica repetición y \"des\" indica acción inversa. Esta estrategia permite comprender instrucciones de manualidades, recetas y guías escolares sin confundir órdenes opuestas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-5-2026-W18-prefijos-sufijos-familia-palabras-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W18-prefijos-sufijos-familia-palabras-001-MASTERY-bundle-v7",
+      "statement": "En \"bibliotecario\", \"biblioteca\" y \"libros\", ¿qué relación existe?",
+      "context": "En Bucaramanga, el curso lee: \"El bibliotecario organiza la biblioteca y los libros infantiles\".\n**Expected_Success:** 0.68",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No tienen relación porque una es larga y las otras son cortas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la longitud no determina el parentesco entre palabras."
+        },
+        {
+          "letter": "B",
+          "text": "Solo riman porque terminan con sonidos parecidos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no están en versos ni buscan musicalidad poética."
+        },
+        {
+          "letter": "C",
+          "text": "\"Bibliotecario\" y \"biblioteca\" comparten raíz; \"libros\" se relaciona por significado aunque venga de otra raíz.",
+          "is_correct": true,
+          "feedback": "Es correcta porque distingue familia por raíz común y campo semántico por tema compartido."
+        },
+        {
+          "letter": "D",
+          "text": "Las tres son verbos en pasado.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ninguna expresa acción en pasado; son sustantivos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar el vocabulario distingue dos niveles: familia por raíz idéntica y campo semántico por tema común. \"Biblioteca\" y \"bibliotecario\" comparten raíz \"bibliotec\", mientras \"libros\" pertenece al mismo tema de la lectura. Esta distinción afina la comprensión de textos informativos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-5-2026-W18-prefijos-sufijos-familia-palabras-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W18-prefijos-sufijos-familia-palabras-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál título usa mejor la familia de la palabra \"papa\"?",
+      "context": "En Tunja, el curso debe elegir el mejor título con familia de palabras para la cartelera del festival de la papa.\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Papa, carro, carta, canto\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque solo comparte letras iniciales sin raíz ni significado común."
+        },
+        {
+          "letter": "B",
+          "text": "\"La papa cuesta mil pesos y el bus sale a las tres\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque mezcla un dato comercial con un aviso sin juego de palabras."
+        },
+        {
+          "letter": "C",
+          "text": "\"Ayer llovió mucho en Tunja y no hubo clases\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no usa derivados de \"papa\" ni anuncia el festival."
+        },
+        {
+          "letter": "D",
+          "text": "\"Papa, papal, papero y papita: fiesta de nuestra cosecha\".",
+          "is_correct": true,
+          "feedback": "Es correcta porque reúne derivados con la misma raíz y celebra el tema con coherencia."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar un título con familia de palabras exige comprobar raíz común, significado relacionado y atractivo para el lector. La opción correcta encadena derivados de \"papa\" con sentido festivo, mientras las demás dispersan el tema o ignoran la raíz.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-5-2026-W18-prefijos-sufijos-familia-palabras-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

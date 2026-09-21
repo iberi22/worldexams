@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-7-grade-5-subject-lengua",
+    "generated_at": "2026-09-20T22:14:25.547Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-5-2026-W07-adjetivo-calificativo-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál palabra de la oración es un adjetivo calificativo?",
+      "context": "En una escuela de Cali, Santiago lee la oración: \"La casa grande tiene un patio alegre\".\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Grande",
+          "is_correct": true,
+          "feedback": "Es correcta porque describe cómo es la casa, es decir, expresa una cualidad del sustantivo."
+        },
+        {
+          "letter": "B",
+          "text": "Casa",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque nombra un lugar y por eso es un sustantivo, no un adjetivo."
+        },
+        {
+          "letter": "C",
+          "text": "Tiene",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque expresa una acción y por eso es un verbo."
+        },
+        {
+          "letter": "D",
+          "text": "Patio",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque nombra un lugar de la casa y es un sustantivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El adjetivo calificativo es la palabra que dice cómo son o cómo están los sustantivos: grande, pequeño, alegre, triste. Acompaña al sustantivo y concuerda con él. Reconocerlo es el primer paso para mejorar la descripción en los escritos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-5-2026-W07-adjetivo-calificativo-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W07-adjetivo-calificativo-001-MASTERY-bundle-v2",
+      "statement": "¿Qué hace la palabra \"juguetón\" en la oración?",
+      "context": "Mariana describe en Cartagena a su mascota con esta oración: \"Mi perro juguetón corre por la playa\".\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Describe una cualidad del perro.",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"juguetón\" dice cómo es el perro y califica al sustantivo."
+        },
+        {
+          "letter": "B",
+          "text": "Nombra una acción del perro.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la acción es \"corre\", que es el verbo de la oración."
+        },
+        {
+          "letter": "C",
+          "text": "Nombra el lugar donde juega el perro.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el lugar es \"la playa\", que es un sustantivo."
+        },
+        {
+          "letter": "D",
+          "text": "Indica la cantidad de perros que hay.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no expresa cantidad y la oración habla de un solo perro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La función del adjetivo calificativo es describir al sustantivo, no nombrar acciones ni lugares. Preguntar \"¿cómo es?\" al sustantivo ayuda a encontrar el adjetivo. En este caso, \"¿cómo es el perro?\" se responde con \"juguetón\".",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-5-2026-W07-adjetivo-calificativo-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W07-adjetivo-calificativo-001-MASTERY-bundle-v3",
+      "statement": "Completa la oración: \"Las montañas ______ rodean la ciudad\". ¿Qué adjetivo concuerda correctamente?",
+      "context": "Juan escribe en Bogotá una postal sobre el cerro de Monserrate y quiere describir el paisaje con adjetivos correctos.\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Altas",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"altas\" es femenino plural y concuerda con \"montañas\"."
+        },
+        {
+          "letter": "B",
+          "text": "Alto",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque es masculino singular y no concuerda con el sustantivo femenino plural."
+        },
+        {
+          "letter": "C",
+          "text": "Alta",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque es singular y el sustantivo \"montañas\" está en plural."
+        },
+        {
+          "letter": "D",
+          "text": "Altos",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque es masculino plural y \"montañas\" es femenino."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El adjetivo debe concordar con el sustantivo en género y número. Si el sustantivo es femenino plural, el adjetivo también debe serlo. Esta regla se aplica al escribir descripciones de lugares, personas y objetos para que el texto sea correcto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-5-2026-W07-adjetivo-calificativo-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W07-adjetivo-calificativo-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál oración usa correctamente el adjetivo calificativo?",
+      "context": "En Medellín, Valentina compró telas para una obra de teatro con un presupuesto de cincuenta mil pesos y describe los colores en su cuaderno.\n**Expected_Success:** 0.83",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Compré unas telas rojas para el telón.",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"rojas\" concuerda en femenino plural con \"telas\"."
+        },
+        {
+          "letter": "B",
+          "text": "Compré unas telas rojo para el telón.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"rojo\" es masculino singular y no concuerda con \"telas\"."
+        },
+        {
+          "letter": "C",
+          "text": "Compré unas telas rojos para el telón.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"rojos\" es masculino y el sustantivo es femenino."
+        },
+        {
+          "letter": "D",
+          "text": "Compré unas tela rojas para el telón.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque mezcla el sustantivo singular \"tela\" con el artículo y el adjetivo en plural."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los adjetivos de color también cambian según el sustantivo: tela roja, telas rojas, pañuelo rojo, pañuelos rojos. Aplicar la concordancia en las compras, las listas y las descripciones evita errores frecuentes en los escritos cotidianos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LEN-5-2026-W07-adjetivo-calificativo-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W07-adjetivo-calificativo-001-MASTERY-bundle-v5",
+      "statement": "¿Qué regla se aplica al cambiar el adjetivo de \"ordenado\" a \"ordenada\"?",
+      "context": "En Pereira, Santiago describe a dos amigos del salón: \"Camilo es ordenado y Mariana es ordenada\".\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El adjetivo cambia de masculino a femenino según el sustantivo que describe.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el adjetivo adopta el género de la persona descrita."
+        },
+        {
+          "letter": "B",
+          "text": "El adjetivo cambia de singular a plural según la cantidad de amigos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque en ambas oraciones se describe a una sola persona."
+        },
+        {
+          "letter": "C",
+          "text": "El adjetivo cambia de verbo a sustantivo según la oración.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"ordenado\" sigue siendo adjetivo en los dos casos."
+        },
+        {
+          "letter": "D",
+          "text": "El adjetivo se mantiene igual porque los adjetivos no cambian nunca.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la mayoría de los adjetivos sí cambian en género y número."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Muchos adjetivos terminados en \"o\" forman el femenino con \"a\": ordenado-ordenada, alto-alta, cariñoso-cariñosa. El adjetivo refleja el género del sustantivo al que acompaña. Comprender esta regla permite describir correctamente a personas y personajes.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-5-2026-W07-adjetivo-calificativo-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W07-adjetivo-calificativo-001-MASTERY-bundle-v6",
+      "statement": "Al analizar la cartelera, ¿qué error hay en el uso del adjetivo?",
+      "context": "Una cartelera de Manizales dice: \"Se venden unas bicicletas nuevo a buen precio\".\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El adjetivo \"nuevo\" no concuerda en género ni en número con \"bicicletas\".",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"bicicletas\" es femenino plural y exige la forma \"nuevas\"."
+        },
+        {
+          "letter": "B",
+          "text": "El adjetivo \"buen\" no concuerda con la palabra \"precio\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"buen precio\" es una concordancia correcta en masculino singular."
+        },
+        {
+          "letter": "C",
+          "text": "La palabra \"bicicletas\" no es un sustantivo y no puede llevar adjetivo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"bicicletas\" sí es un sustantivo plural."
+        },
+        {
+          "letter": "D",
+          "text": "No hay ningún error, la cartelera está bien escrita.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque sí existe un error claro de concordancia en \"nuevo\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar un aviso implica separar el sustantivo de sus modificadores y comprobar la concordancia. \"Bicicletas\" pide un adjetivo femenino plural: \"nuevas\". Detectar este error ayuda a escribir avisos claros para la tienda, la escuela o el barrio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-5-2026-W07-adjetivo-calificativo-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W07-adjetivo-calificativo-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál frase es correcta y por qué?",
+      "context": "Dos niñas de Cali describen el río Pance. Frase 1: \"El río cristalino refresca la tarde\". Frase 2: \"El río cristalina refresca la tarde\".\n**Expected_Success:** 0.72",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La frase 1, porque \"cristalino\" es masculino singular como el sustantivo \"río\".",
+          "is_correct": true,
+          "feedback": "Es correcta porque muestra la concordancia completa entre sustantivo y adjetivo."
+        },
+        {
+          "letter": "B",
+          "text": "La frase 2, porque los ríos siempre se describen en femenino.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el sustantivo \"río\" es masculino y pide adjetivo masculino."
+        },
+        {
+          "letter": "C",
+          "text": "La frase 1, porque \"cristalino\" es un verbo que indica acción.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"cristalino\" describe una cualidad y es un adjetivo."
+        },
+        {
+          "letter": "D",
+          "text": "La frase 2, porque \"cristalina\" concuerda con la palabra \"tarde\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el adjetivo califica a \"río\", no a \"tarde\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para analizar la concordancia se debe preguntar a qué sustantivo acompaña el adjetivo. Aquí el adjetivo describe al río, que es masculino, por lo cual la forma correcta es \"cristalino\". Confundir el sustantivo descrito es una causa frecuente de error.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-5-2026-W07-adjetivo-calificativo-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W07-adjetivo-calificativo-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál descripción usa mejor los adjetivos calificativos?",
+      "context": "Mariana debe elegir la mejor descripción para una guía turística de Cartagena.\n**Expected_Success:** 0.65",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ciudad antigua guarda murallas altas y calles estrechas llenas de flores coloridas.",
+          "is_correct": true,
+          "feedback": "Es correcta porque cada adjetivo concuerda con su sustantivo y crea una imagen clara y precisa."
+        },
+        {
+          "letter": "B",
+          "text": "La ciudad antiguo guarda murallas alto y calles estrecho llenas de flores colorido.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque todos los adjetivos están en masculino y contradicen a los sustantivos femeninos."
+        },
+        {
+          "letter": "C",
+          "text": "La ciudad antiguas guarda murallas alta y calle estrechas llenas de flores coloridas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque mezcla singular y plural sin concordancia."
+        },
+        {
+          "letter": "D",
+          "text": "La ciudad antigua guarda muralla altas y calle estrecha llenas de flor coloridas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los sustantivos en singular no concuerdan con los adjetivos en plural."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar una descripción exige revisar la concordancia de cada pareja y también la riqueza de la imagen creada. La opción correcta combina corrección gramatical con vocabulario preciso: \"antigua\", \"altas\", \"estrechas\", \"coloridas\". Una buena descripción ayuda al lector a imaginar el lugar con claridad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-5-2026-W07-adjetivo-calificativo-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

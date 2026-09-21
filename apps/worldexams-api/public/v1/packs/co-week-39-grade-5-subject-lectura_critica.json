@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-39-grade-5-subject-lectura_critica",
+    "generated_at": "2026-09-20T19:50:00.258Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-5-2026-W39-cuento-fantasia-mundos-imaginarios-001-MASTERY-bundle-v1",
+      "statement": "Según el fragmento, ¿dónde encontró Mariana la puerta que la llevó a Nubelaria?",
+      "context": "Lea atentamente el siguiente fragmento de un cuento fantástico colombiano: \"En un pueblo del Eje Cafetero vivía Mariana, una niña que descubrió detrás del cafetal de su abuela una puerta tallada en un guayacán centenario. Al cruzarla llegó al reino de Nubelaria, un mundo flotante donde las nubes eran caminos de algodón y los colibríes gigantes transportaban cartas de cristal. Allí la recibió don Aurelio, un guardián de barba plateada que le explicó que Nubelaria estaba perdiendo su luz porque el Corazón de Niebla se había apagado\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Detrás del cafetal de su abuela, tallada en un guayacán centenario.",
+          "is_correct": true,
+          "feedback": "El texto indica con claridad que la puerta estaba detrás del cafetal, tallada en un guayacán centenario."
+        },
+        {
+          "letter": "B",
+          "text": "En el patio de su escuela, escondida dentro de un libro de cuentos.",
+          "is_correct": false,
+          "feedback": "La escuela no aparece en el fragmento; la puerta estaba en el cafetal de la abuela."
+        },
+        {
+          "letter": "C",
+          "text": "En la cima de un nevado, custodiada por un ejército de colibríes.",
+          "is_correct": false,
+          "feedback": "Los colibríes transportan cartas en Nubelaria, pero no custodiaban la puerta en ningún nevado."
+        },
+        {
+          "letter": "D",
+          "text": "En el mercado del pueblo, vendida por un comerciante viajero.",
+          "is_correct": false,
+          "feedback": "Ningún comerciante ni mercado se mencionan en el fragmento leído."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La comprensión literal exige localizar información explícita sobre lugares y hechos tal como aparecen en el texto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-5-2026-W39-cuento-fantasia-mundos-imaginarios-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W39-cuento-fantasia-mundos-imaginarios-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el problema central que Mariana deberá resolver en el mundo de Nubelaria?",
+      "context": "En el mismo cuento, don Aurelio le dice a Mariana: \"Nubelaria está perdiendo su luz porque el Corazón de Niebla se había apagado. Solo una persona valiente que venga del mundo de afuera podrá encenderlo de nuevo con una semilla de café sembrada con esperanza\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Encender de nuevo el Corazón de Niebla para devolverle la luz a Nubelaria.",
+          "is_correct": true,
+          "feedback": "Don Aurelio explica que el Corazón de Niebla se apagó y que solo alguien valiente de afuera podrá encenderlo."
+        },
+        {
+          "letter": "B",
+          "text": "Construir una puerta nueva porque la del guayacán se destruyó al cruzarla.",
+          "is_correct": false,
+          "feedback": "La puerta no se destruyó; el problema planteado es la pérdida de la luz del reino."
+        },
+        {
+          "letter": "C",
+          "text": "Enseñar a los colibríes gigantes a volar más rápido entre las nubes.",
+          "is_correct": false,
+          "feedback": "Los colibríes ya cumplen su labor de transportar cartas; no necesitan aprender a volar."
+        },
+        {
+          "letter": "D",
+          "text": "Convencer a su abuela de mudarse a vivir al reino de Nubelaria.",
+          "is_correct": false,
+          "feedback": "La abuela no forma parte del conflicto; la misión de Mariana es restaurar la luz del reino."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificar el conflicto central de un relato fantástico permite comprender la estructura de la trama y la misión del protagonista.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-5-2026-W39-cuento-fantasia-mundos-imaginarios-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W39-cuento-fantasia-mundos-imaginarios-001-MASTERY-bundle-v3",
+      "statement": "¿Qué enseña la escena del puente sobre la manera de enfrentar los temores en la vida real?",
+      "context": "Más adelante en la historia, Mariana encuentra un puente de cristal resquebrajado sobre un abismo de niebla. Un cartel tallado en piedra dice: \"Solo cruza quien deje aquí su miedo\". Mariana respira profundo, escribe en un papel su temor a la oscuridad, lo deja al borde del puente y cruza con paso firme hasta la otra orilla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que reconocer los miedos y dejarlos atrás con decisión permite avanzar hacia las metas.",
+          "is_correct": true,
+          "feedback": "Mariana nombra su miedo, lo deja simbólicamente atrás y logra cruzar, lo cual se aplica a enfrentar temores reales."
+        },
+        {
+          "letter": "B",
+          "text": "Que los puentes de cristal siempre son seguros y nunca presentan peligro alguno.",
+          "is_correct": false,
+          "feedback": "El puente estaba resquebrajado sobre un abismo; el mensaje no trata de la seguridad de los puentes."
+        },
+        {
+          "letter": "C",
+          "text": "Que basta con correr muy rápido para que los problemas desaparezcan solos.",
+          "is_correct": false,
+          "feedback": "Mariana no corrió; avanzó con paso firme después de un acto consciente de valentía."
+        },
+        {
+          "letter": "D",
+          "text": "Que es mejor evitar todos los caminos difíciles y regresar por donde se vino.",
+          "is_correct": false,
+          "feedback": "La escena celebra lo contrario: cruzar con valor en lugar de retroceder ante la dificultad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el sentido simbólico de una escena fantástica a situaciones cotidianas desarrolla la transferencia entre ficción y experiencia personal.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-5-2026-W39-cuento-fantasia-mundos-imaginarios-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W39-cuento-fantasia-mundos-imaginarios-001-MASTERY-bundle-v4",
+      "statement": "¿Qué recurso del lenguaje predomina en el pasaje para crear la atmósfera mágica del momento?",
+      "context": "Lea este pasaje del cuento: \"Mariana subió lentamente / por la escalera de niebla plateada, / mientras los colibríes cantaban / una canción de amanecer. / De pronto, el Corazón de Niebla parpadeó: / una chispa, dos chispas, ¡un resplandor! / Nubelaria despertó entre colores\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las imágenes sensoriales y la enumeración progresiva que muestran el despertar de la luz.",
+          "is_correct": true,
+          "feedback": "Los versos acumulan imágenes visuales y sonoras (niebla plateada, canto, chispas) en una secuencia que crece hasta el resplandor."
+        },
+        {
+          "letter": "B",
+          "text": "La presentación de datos exactos y cifras estadísticas sobre la niebla.",
+          "is_correct": false,
+          "feedback": "El pasaje no contiene datos ni cifras; es una descripción poética, no un informe."
+        },
+        {
+          "letter": "C",
+          "text": "El uso de diálogos extensos entre Mariana y los colibríes gigantes.",
+          "is_correct": false,
+          "feedback": "En el pasaje no hay diálogos; los colibríes cantan, pero nadie conversa con ellos."
+        },
+        {
+          "letter": "D",
+          "text": "La enumeración de instrucciones para subir escaleras con seguridad.",
+          "is_correct": false,
+          "feedback": "El texto no da instrucciones; narra con imágenes el ascenso mágico de Mariana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer los recursos descriptivos de un texto permite apreciar cómo el autor construye atmósferas y emociones en la narración.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-5-2026-W39-cuento-fantasia-mundos-imaginarios-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W39-cuento-fantasia-mundos-imaginarios-001-MASTERY-bundle-v5",
+      "statement": "¿Qué intención comunicativa tiene el desenlace del cuento al mostrar a Mariana organizando una huerta escolar?",
+      "context": "Al final del cuento, Mariana siembra la semilla de café con esperanza, el Corazón de Niebla se enciende y el reino recupera la luz. Don Aurelio le dice: \"Recuerda, pequeña: los mundos se salvan con semillas pequeñas sembradas con amor\". Mariana regresa a su pueblo y organiza con sus compañeros una huerta escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Motivar a los lectores a transformar lo aprendido en la fantasía en acciones solidarias reales.",
+          "is_correct": true,
+          "feedback": "El regreso de Mariana y la huerta escolar conectan la aventura imaginaria con un compromiso concreto en su comunidad."
+        },
+        {
+          "letter": "B",
+          "text": "Informar sobre las técnicas agrícolas correctas para sembrar café en el Eje Cafetero.",
+          "is_correct": false,
+          "feedback": "El cuento no explica técnicas de cultivo; la siembra es un símbolo de esperanza, no un manual agrícola."
+        },
+        {
+          "letter": "C",
+          "text": "Prohibir a los niños imaginar mundos fantásticos para concentrarse solo en el trabajo.",
+          "is_correct": false,
+          "feedback": "La historia celebra la imaginación; la huerta nace precisamente de lo vivido en el mundo imaginario."
+        },
+        {
+          "letter": "D",
+          "text": "Demostrar que los reinos imaginarios existen físicamente detrás de todos los cafetales.",
+          "is_correct": false,
+          "feedback": "Nubelaria es un mundo de ficción; el desenlace invita a actuar en la realidad, no a buscar reinos literales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificar la intención discursiva del desenlace ayuda a comprender cómo la literatura fantástica propone valores aplicables a la convivencia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-5-2026-W39-cuento-fantasia-mundos-imaginarios-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W39-cuento-fantasia-mundos-imaginarios-001-MASTERY-bundle-v6",
+      "statement": "¿Qué función cumplen los elementos fantásticos en la construcción del sentido del cuento?",
+      "context": "Un compañero de Mariana afirma que los colibríes gigantes, el guardián de barba plateada y el Corazón de Niebla son elementos innecesarios porque \"un cuento debería contar solo cosas que pasan de verdad\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representan símbolos (la ayuda, la sabiduría y la esperanza) que permiten reflexionar sobre valores humanos.",
+          "is_correct": true,
+          "feedback": "Cada elemento mágico encarna una idea: los colibríes la solidaridad, don Aurelio la guía sabia y el Corazón la esperanza colectiva."
+        },
+        {
+          "letter": "B",
+          "text": "Sirven únicamente como decoración bonita sin ninguna relación con el mensaje de la historia.",
+          "is_correct": false,
+          "feedback": "Los elementos fantásticos están ligados al conflicto y a su solución, no son adornos sueltos."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestran que la autora desconocía la realidad del Eje Cafetero y sus costumbres.",
+          "is_correct": false,
+          "feedback": "El cuento parte de elementos reales (el café, el guayacán) y los combina a propósito con fantasía."
+        },
+        {
+          "letter": "D",
+          "text": "Comprueban que los cuentos de fantasía no pueden dejar enseñanzas para la vida real.",
+          "is_correct": false,
+          "feedback": "El desenlace con la huerta escolar prueba que la fantasía sí deja enseñanzas aplicables."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la función simbólica de los elementos fantásticos permite distinguir entre lo decorativo y lo significativo en un texto literario.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-5-2026-W39-cuento-fantasia-mundos-imaginarios-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W39-cuento-fantasia-mundos-imaginarios-001-MASTERY-bundle-v7",
+      "statement": "¿Qué consecuencia tiene la brevedad extrema de la versión 1 frente a la versión original?",
+      "context": "Compare estas dos versiones del inicio del cuento. Versión 1: \"Mariana cruzó la puerta y llegó a Nubelaria. El reino estaba oscuro. Ella debía encender el Corazón. Lo encendió y todos celebraron\". Versión 2 (la original): presenta el cafetal, el guayacán, los caminos de algodón, el diálogo con don Aurelio y la misión de la semilla sembrada con esperanza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se pierde la caracterización del mundo imaginario y la motivación profunda de la protagonista.",
+          "is_correct": true,
+          "feedback": "Sin descripciones ni diálogos, el lector no conoce Nubelaria ni entiende por qué la semilla sembrada con esperanza es la solución."
+        },
+        {
+          "letter": "B",
+          "text": "La historia gana suspenso porque el lector debe adivinar todos los detalles faltantes.",
+          "is_correct": false,
+          "feedback": "Omitir información esencial no crea suspenso, sino confusión y desinterés por personajes planos."
+        },
+        {
+          "letter": "C",
+          "text": "El mensaje sobre la esperanza se vuelve más claro al eliminar descripciones innecesarias.",
+          "is_correct": false,
+          "feedback": "Sin el desarrollo de la misión, la esperanza queda como una palabra vacía sin sustento narrativo."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas versiones producen exactamente el mismo efecto estético en quien las lee.",
+          "is_correct": false,
+          "feedback": "La versión original construye atmósfera y vínculos afectivos que la versión resumida no logra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar versiones de un mismo relato permite analizar cómo la descripción y el diálogo sostienen el mundo narrativo y el sentido del texto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-5-2026-W39-cuento-fantasia-mundos-imaginarios-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W39-cuento-fantasia-mundos-imaginarios-001-MASTERY-bundle-v8",
+      "statement": "¿Qué argumento crítico refuta mejor la postura de la estudiante sobre el valor de los cuentos fantásticos?",
+      "context": "Una estudiante afirma: \"Los cuentos de fantasía con mundos imaginarios son una pérdida de tiempo para los niños de quinto grado, porque lo único útil es leer textos informativos con datos verdaderos\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los mundos imaginarios desarrollan la creatividad y permiten reflexionar sobre valores como la valentía y la solidaridad de forma memorable.",
+          "is_correct": true,
+          "feedback": "La fantasía combina imaginación y ética: lo vivido por Mariana en Nubelaria se tradujo en una acción real como la huerta escolar."
+        },
+        {
+          "letter": "B",
+          "text": "La estudiante tiene razón porque la imaginación no se evalúa en ninguna prueba y por eso no sirve.",
+          "is_correct": false,
+          "feedback": "La creatividad y la formación en valores son propósitos centrales de la lectura literaria en la escuela."
+        },
+        {
+          "letter": "C",
+          "text": "Los mundos imaginarios existen en realidad y por eso deben estudiarse como datos científicos.",
+          "is_correct": false,
+          "feedback": "Nubelaria es una creación de ficción; su valor no está en describir la realidad sino en formar el pensamiento y la sensibilidad."
+        },
+        {
+          "letter": "D",
+          "text": "Los cuentos fantásticos solo sirven para entretener a niños muy pequeños antes de dormir.",
+          "is_correct": false,
+          "feedback": "Reducir la fantasía al entretenimiento infantil desconoce su poder para formar lectores críticos y ciudadanos solidarios."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar críticamente los prejuicios contra la literatura fantástica exige argumentar su función formativa en la imaginación, los valores y el pensamiento crítico.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LC-5-2026-W39-cuento-fantasia-mundos-imaginarios-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

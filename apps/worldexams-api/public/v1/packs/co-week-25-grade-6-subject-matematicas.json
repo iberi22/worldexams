@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-25-grade-6-subject-matematicas",
+    "generated_at": "2026-09-21T01:19:15.918Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-6-2026-W25-escalas-mapas-planos-001-MASTERY-bundle-v1",
+      "statement": "¿Qué significa la escala 1:100 en un mapa?",
+      "context": "En una clase de sociales en Bogotá el profesor muestra un mapa con escala 1:100.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que 1 cm del mapa representa 100 cm de la realidad",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: la escala compara medida del dibujo con medida real en las mismas unidades."
+        },
+        {
+          "letter": "B",
+          "text": "Que el mapa mide 100 cm de largo",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: la escala no indica el tamaño del papel sino la proporción con la realidad."
+        },
+        {
+          "letter": "C",
+          "text": "Que la realidad es 100 veces más pequeña que el dibujo",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: invierte la relación; la realidad es 100 veces más grande que el dibujo."
+        },
+        {
+          "letter": "D",
+          "text": "Que el mapa tiene 100 divisiones",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: confunde la escala con una cuadrícula o número de partes del mapa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La escala 1:100 es una razón: cada unidad del dibujo equivale a 100 unidades reales. Leer escalas es leer proporciones aplicadas al territorio.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-6-2026-W25-escalas-mapas-planos-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W25-escalas-mapas-planos-001-MASTERY-bundle-v2",
+      "statement": "¿A cuántos cm de la realidad equivale esa medida?",
+      "context": "En un mapa turístico de Medellín con escala 1:50, la distancia entre dos estaciones mide 3 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "150 cm",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: 3 × 50 = 150 cm reales."
+        },
+        {
+          "letter": "B",
+          "text": "53 cm",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: suma 3 + 50 en vez de multiplicar por la escala."
+        },
+        {
+          "letter": "C",
+          "text": "50 cm",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: repite la escala sin multiplicarla por los 3 cm medidos."
+        },
+        {
+          "letter": "D",
+          "text": "15 cm",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: multiplica 3 × 5 olvidando un cero de la escala 50."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Del dibujo a la realidad se multiplica por la escala: 3 cm × 50 = 150 cm (1.5 m). La escala actúa como factor de ampliación constante.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-6-2026-W25-escalas-mapas-planos-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W25-escalas-mapas-planos-001-MASTERY-bundle-v3",
+      "statement": "¿Cuántos cm medirá la pared en el plano?",
+      "context": "En Cali un arquitecto dibuja a escala 1:200 una pared que en la realidad mide 10 m de largo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 cm",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: 10 m = 1000 cm y 1000 ÷ 200 = 5 cm en el plano."
+        },
+        {
+          "letter": "B",
+          "text": "200 cm",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: repite la escala como medida del dibujo sin dividir la realidad."
+        },
+        {
+          "letter": "C",
+          "text": "20 cm",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: divide 1000 entre 50 en vez de entre 200."
+        },
+        {
+          "letter": "D",
+          "text": "0.5 cm",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: convierte mal los metros a centímetros antes de dividir."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "De la realidad al dibujo se divide entre la escala, con unidades homogéneas: 10 m = 1000 cm; 1000 ÷ 200 = 5 cm. Convertir unidades primero evita errores de magnitud.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-6-2026-W25-escalas-mapas-planos-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W25-escalas-mapas-planos-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la distancia real entre los pueblos?",
+      "context": "En un mapa vial de Colombia con escala 1:100.000, dos pueblos están separados por 8 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8 km",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: 8 × 100.000 = 800.000 cm = 8.000 m = 8 km."
+        },
+        {
+          "letter": "B",
+          "text": "800 km",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: multiplica por 100.000 pero convierte mal los centímetros a kilómetros."
+        },
+        {
+          "letter": "C",
+          "text": "80 m",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: se queda en metros sin completar la conversión a kilómetros."
+        },
+        {
+          "letter": "D",
+          "text": "8 m",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: ignora la escala y lee los 8 cm como metros directos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "800.000 cm se convierten así: ÷ 100 = 8.000 m; ÷ 1000 = 8 km. Encadenar multiplicación por escala y conversión de unidades resuelve cualquier mapa vial.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-6-2026-W25-escalas-mapas-planos-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W25-escalas-mapas-planos-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la escala numérica del mapa?",
+      "context": "En Tunja 4 cm de un mapa regional representan 20 km de la realidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1:500.000",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: 20 km = 2.000.000 cm y 2.000.000 ÷ 4 = 500.000."
+        },
+        {
+          "letter": "B",
+          "text": "1:5",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: divide 20 ÷ 4 sin convertir kilómetros a centímetros."
+        },
+        {
+          "letter": "C",
+          "text": "1:50.000",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: convierte los kilómetros solo hasta metros, perdiendo un factor de 100."
+        },
+        {
+          "letter": "D",
+          "text": "1:80",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: multiplica 20 × 4 en vez de dividir la realidad entre el dibujo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Hallar la escala es dividir realidad entre dibujo en iguales unidades: 2.000.000 ÷ 4 = 500.000, escala 1:500.000. La escala indica cuántas veces cabe el dibujo en la realidad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-6-2026-W25-escalas-mapas-planos-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W25-escalas-mapas-planos-001-MASTERY-bundle-v6",
+      "statement": "¿Qué se concluye al comparar ambas representaciones?",
+      "context": "En Bucaramanga la misma avenida aparece en dos mapas: en A mide 6 cm a escala 1:100.000 y en B mide 3 cm a escala 1:200.000.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambas representan 6 km, son coherentes entre sí",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: A: 6 × 100.000 = 600.000 cm = 6 km; B: 3 × 200.000 = 600.000 cm = 6 km."
+        },
+        {
+          "letter": "B",
+          "text": "El mapa A exagera porque 6 cm es el doble de 3 cm",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: compara los dibujos sin considerar que las escalas también difieren al doble."
+        },
+        {
+          "letter": "C",
+          "text": "El mapa B representa el doble de distancia que el A",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: la escala doble compensa exactamente la mitad del dibujo."
+        },
+        {
+          "letter": "D",
+          "text": "No se pueden comparar mapas con distinta escala",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: sí se puede, convirtiendo cada dibujo a distancia real."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dibujo y escala se compensan: mitad de dibujo con doble escala da igual realidad (6 km). Verificar coherencia entre mapas es una aplicación auténtica de la proporcionalidad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-6-2026-W25-escalas-mapas-planos-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W25-escalas-mapas-planos-001-MASTERY-bundle-v7",
+      "statement": "¿Cuáles son las medidas reales de la sala y su área?",
+      "context": "En un plano de apartamento en Bogotá a escala 1:50, la sala mide 8 cm × 6 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 m × 3 m, área 12 m²",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: 8 × 50 = 400 cm = 4 m; 6 × 50 = 300 cm = 3 m; área 4 × 3 = 12 m²."
+        },
+        {
+          "letter": "B",
+          "text": "8 m × 6 m, área 48 m²",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: lee los centímetros del plano directamente como metros."
+        },
+        {
+          "letter": "C",
+          "text": "4 m × 3 m, área 7 m²",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: convierte bien los lados pero suma en vez de multiplicar para el área."
+        },
+        {
+          "letter": "D",
+          "text": "400 m × 300 m, área 120.000 m²",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: multiplica por 50 sin convertir centímetros a metros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cada lado se amplía por 50 y se convierte a metros (4 m y 3 m); el área real es 12 m². Ojo: el área se amplía por 50² = 2500, por eso conviene convertir lados primero.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-MAT-6-2026-W25-escalas-mapas-planos-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W25-escalas-mapas-planos-001-MASTERY-bundle-v8",
+      "statement": "¿Cuántos cm ocupará el recorrido en el mapa?",
+      "context": "En una ciclorruta de Pereira de 15 km se quiere dibujar el recorrido en un mapa a escala 1:250.000.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 cm",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: 15 km = 1.500.000 cm y 1.500.000 ÷ 250.000 = 6 cm."
+        },
+        {
+          "letter": "B",
+          "text": "60 cm",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: convierte los kilómetros solo hasta metros antes de dividir."
+        },
+        {
+          "letter": "C",
+          "text": "3.75 cm",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: divide entre 400.000 en vez de entre 250.000."
+        },
+        {
+          "letter": "D",
+          "text": "37.5 cm",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: multiplica en vez de dividir al pasar de realidad a dibujo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Realidad → dibujo: convertir a cm (1.500.000) y dividir entre la escala (250.000) = 6 cm. Planificar el tamaño del dibujo antes de trazar es el uso profesional de la escala.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-6-2026-W25-escalas-mapas-planos-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W25-escalas-mapas-planos-001-MASTERY-bundle-v9",
+      "statement": "¿Es correcta la afirmación? Justifica.",
+      "context": "En Cartagena un estudiante afirma que en un mapa a escala 1:100 un segmento de 5 cm representa 5 m de la realidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque 5 × 100 = 500 cm = 5 m",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: al multiplicar por la escala y convertir (500 cm = 5 m) se confirma la equivalencia."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque representa 500 m",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: 500 son centímetros, no metros; falta la conversión final."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque representa 0.5 m",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: divide entre 100 en vez de multiplicar al ir del dibujo a la realidad."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, porque 5 y 5 coinciden sin operar",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: la coincidencia numérica no justifica nada; hay que operar y convertir."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Verificar una afirmación de escala exige el cálculo completo: 5 × 100 = 500 cm = 5 m. La justificación con operaciones y conversión valida la equivalencia sin apelar a coincidencias.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-6-2026-W25-escalas-mapas-planos-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W25-escalas-mapas-planos-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál mapa conviene y por qué?",
+      "context": "En Manizales un turista elige entre un mapa del barrio a escala 1:5.000 y uno de la región a escala 1:100.000 para ubicar una tienda cercana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El de 1:5.000, porque cada cm cubre menos terreno y muestra más detalle",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: 1 cm = 50 m en el barrio frente a 1 cm = 1 km en la región; la escala mayor detalla más."
+        },
+        {
+          "letter": "B",
+          "text": "El de 1:100.000, porque el número mayor indica más detalle",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: un número de escala mayor significa más reducción y menos detalle, no más."
+        },
+        {
+          "letter": "C",
+          "text": "El de 1:100.000, porque abarca más territorio",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: abarcar más sirve para viajar lejos, no para ubicar una tienda cercana."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos igual, porque los dos son mapas",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: las escalas difieren 20 veces; el nivel de detalle no es el mismo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Escala mayor (denominador menor) = más detalle: 1:5.000 muestra cuadras y tiendas; 1:100.000 muestra municipios. Elegir escala según el propósito es la decisión cartográfica fundamental.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-6-2026-W25-escalas-mapas-planos-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

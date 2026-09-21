@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-39-grade-5-subject-ingles",
+    "generated_at": "2026-09-18T19:01:53.473Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-5-2026-W39-houses-rooms-furniture-001-MASTERY-bundle-v1",
+      "statement": "Which words are furniture and objects of the house?",
+      "context": "In a house in Duitama, rooms have a bed, a stove and a shower.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lion, tiger and bear.",
+          "is_correct": false,
+          "feedback": "Lion, tiger and bear are animals, not house objects."
+        },
+        {
+          "letter": "B",
+          "text": "Car, moto and bike.",
+          "is_correct": false,
+          "feedback": "Car, moto and bike are transport, not house objects."
+        },
+        {
+          "letter": "C",
+          "text": "Mango, rice and soup.",
+          "is_correct": false,
+          "feedback": "Mango, rice and soup are foods, not furniture."
+        },
+        {
+          "letter": "D",
+          "text": "Bed, stove and shower.",
+          "is_correct": true,
+          "feedback": "Bed, stove and shower are all objects found in a house."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Esta pregunta presenta vocabulario básico de la casa en inglés. También se conecta cada objeto con habitaciones de un hogar boyacense.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-5-2026-W39-houses-rooms-furniture-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W39-houses-rooms-furniture-001-MASTERY-bundle-v2",
+      "statement": "What is a room?",
+      "context": "In Envigado, a mother says: \"We cook in the kitchen. We sleep in the bedroom. We wash in the bathroom.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A country of the world.",
+          "is_correct": false,
+          "feedback": "A country is a nation, not a part of a house."
+        },
+        {
+          "letter": "B",
+          "text": "A part of the house with its own use.",
+          "is_correct": true,
+          "feedback": "A room is a separate space like the kitchen or bedroom."
+        },
+        {
+          "letter": "C",
+          "text": "A type of animal.",
+          "is_correct": false,
+          "feedback": "Animals are living beings, not parts of a house."
+        },
+        {
+          "letter": "D",
+          "text": "A musical instrument.",
+          "is_correct": false,
+          "feedback": "Instruments make music and are not parts of a house."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La palabra room significa cada espacio de la casa con su uso propio. También se comprende con la cocina, la alcoba y el baño.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-5-2026-W39-houses-rooms-furniture-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W39-houses-rooms-furniture-001-MASTERY-bundle-v3",
+      "statement": "Choose the correct preposition to complete the sentence.",
+      "context": "In Facatativá, a girl says: \"The cat is _____ the table and the chairs.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Between.",
+          "is_correct": true,
+          "feedback": "\"Between\" shows the cat is in the middle of the two objects."
+        },
+        {
+          "letter": "B",
+          "text": "Behinds.",
+          "is_correct": false,
+          "feedback": "\"Behinds\" is not a correct English word."
+        },
+        {
+          "letter": "C",
+          "text": "Underneaths.",
+          "is_correct": false,
+          "feedback": "\"Underneaths\" is not a correct English word."
+        },
+        {
+          "letter": "D",
+          "text": "Nexts.",
+          "is_correct": false,
+          "feedback": "\"Nexts\" is not a correct English word."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La preposición between ubica algo en medio de dos objetos. También se practica con el gato entre la mesa y las sillas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.82,
+      "bundle_id": "CO-ING-5-2026-W39-houses-rooms-furniture-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W39-houses-rooms-furniture-001-MASTERY-bundle-v4",
+      "statement": "Where is the garden?",
+      "context": "In Chía, students read: \"My house has three bedrooms. The kitchen is next to the living room. The garden is behind the house.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Next to the living room.",
+          "is_correct": false,
+          "feedback": "The kitchen is next to the living room, not the garden."
+        },
+        {
+          "letter": "B",
+          "text": "Inside the bedroom.",
+          "is_correct": false,
+          "feedback": "The bedrooms are rooms inside, not the garden."
+        },
+        {
+          "letter": "C",
+          "text": "Behind the house.",
+          "is_correct": true,
+          "feedback": "The text says the garden is behind the house."
+        },
+        {
+          "letter": "D",
+          "text": "On the roof.",
+          "is_correct": false,
+          "feedback": "The text never mentions the roof of the house."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Leer descripciones exige ubicar cada espacio con su preposición exacta. También se aplica con una casa familiar en Chía.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-5-2026-W39-houses-rooms-furniture-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W39-houses-rooms-furniture-001-MASTERY-bundle-v5",
+      "statement": "Which word means the opposite of wet?",
+      "context": "At home in Girardot, a boy helps: \"Put the hot soup on the table. Hang the wet towel in the bathroom.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cold.",
+          "is_correct": false,
+          "feedback": "Cold is the opposite of hot, not of wet."
+        },
+        {
+          "letter": "B",
+          "text": "Dry.",
+          "is_correct": true,
+          "feedback": "Dry is the opposite of wet and describes the clean towel."
+        },
+        {
+          "letter": "C",
+          "text": "Dirty.",
+          "is_correct": false,
+          "feedback": "Dirty is the opposite of clean, not of wet."
+        },
+        {
+          "letter": "D",
+          "text": "Small.",
+          "is_correct": false,
+          "feedback": "Small is the opposite of big, not of wet."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los opuestos como wet y dry describen estados de los objetos del hogar. También se asocian con tareas que ayudan los niños en Girardot.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-5-2026-W39-houses-rooms-furniture-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W39-houses-rooms-furniture-001-MASTERY-bundle-v6",
+      "statement": "What can you conclude about the two homes?",
+      "context": "In Sogamoso, two ads appear: \"Small apartment: one bedroom, no garden, near the school\" and \"Big farm: four bedrooms, garden with fruits, far from the school.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both homes have gardens with fruits.",
+          "is_correct": false,
+          "feedback": "Only the farm has a garden with fruits."
+        },
+        {
+          "letter": "B",
+          "text": "Size, garden and distance change between them.",
+          "is_correct": true,
+          "feedback": "The ads contrast bedrooms, garden and distance to school."
+        },
+        {
+          "letter": "C",
+          "text": "Both homes are near the school.",
+          "is_correct": false,
+          "feedback": "Only the apartment is near the school; the farm is far."
+        },
+        {
+          "letter": "D",
+          "text": "Neither home has bedrooms.",
+          "is_correct": false,
+          "feedback": "The apartment has one bedroom and the farm has four."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar avisos permite comparar tamaño, jardín y distancia. También se trabaja la lectura comparativa de dos viviendas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-5-2026-W39-houses-rooms-furniture-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W39-houses-rooms-furniture-001-MASTERY-bundle-v7",
+      "statement": "Which statement explains the difference?",
+      "context": "In Ipiales, a teacher compares: \"There is a lamp in the room\" and \"There are two lamps in the room.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both sentences talk about two lamps.",
+          "is_correct": false,
+          "feedback": "Only the second sentence mentions two lamps."
+        },
+        {
+          "letter": "B",
+          "text": "The first shows one object, the second shows many.",
+          "is_correct": true,
+          "feedback": "\"There is\" introduces singular and \"there are\" introduces plural."
+        },
+        {
+          "letter": "C",
+          "text": "Both sentences talk about the past.",
+          "is_correct": false,
+          "feedback": "Both sentences use the present forms is and are."
+        },
+        {
+          "letter": "D",
+          "text": "The first shows many objects, the second shows one.",
+          "is_correct": false,
+          "feedback": "The roles are reversed; is is singular and are is plural."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "There is presenta singular y there are presenta plural. También se practica con lámparas de una habitación en Ipiales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.68,
+      "bundle_id": "CO-ING-5-2026-W39-houses-rooms-furniture-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W39-houses-rooms-furniture-001-MASTERY-bundle-v8",
+      "statement": "Which drawing is the best for fifth graders?",
+      "context": "In Tumaco, two house drawings for a class project appear: one labels every room and object in English; the other has no labels and mixes kitchen objects in the bathroom.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The drawing with English labels in each room.",
+          "is_correct": true,
+          "feedback": "Labels in English teach the vocabulary of every room and object."
+        },
+        {
+          "letter": "B",
+          "text": "The drawing with kitchen objects in the bathroom.",
+          "is_correct": false,
+          "feedback": "Mixed objects confuse learners and teach wrong places."
+        },
+        {
+          "letter": "C",
+          "text": "The drawing with no labels at all.",
+          "is_correct": false,
+          "feedback": "A drawing without labels teaches no English vocabulary."
+        },
+        {
+          "letter": "D",
+          "text": "Both drawings are equal for learning.",
+          "is_correct": false,
+          "feedback": "The drawings are very different; only one teaches vocabulary."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar dibujos implica revisar etiquetas correctas y orden por habitación. También se promueve rotular la propia casa en inglés.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.62,
+      "bundle_id": "CO-ING-5-2026-W39-houses-rooms-furniture-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

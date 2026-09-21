@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-8-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T03:42:40.852Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-6-2026-W08-reproduccion-plantas-polinizacion-dispersion-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es la polinización en las plantas con flores?",
+      "context": "En una huerta escolar de Bogotá, la profesora muestra una flor de curuba y señala el polen amarillo en los estambres.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El transporte del polen hasta el estigma para que ocurra la fecundación",
+          "is_correct": true,
+          "feedback": "Correcto. La polinización lleva el polen al estigma y permite la formación de semillas."
+        },
+        {
+          "letter": "B",
+          "text": "La caída de las hojas viejas durante el verano",
+          "is_correct": false,
+          "feedback": "Incorrecto. La caída de hojas se llama abscisión y no forma semillas."
+        },
+        {
+          "letter": "C",
+          "text": "La absorción de agua por las raíces profundas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las raíces absorben agua, pero eso es nutrición, no polinización."
+        },
+        {
+          "letter": "D",
+          "text": "El crecimiento del tallo hacia la luz del sol",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es fototropismo, un crecimiento orientado, no reproducción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La polinización es el paso previo a la fecundación: el grano de polen llega al estigma, germina y permite unir las células sexuales de la planta.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-6-2026-W08-reproduccion-plantas-polinizacion-dispersion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W08-reproduccion-plantas-polinizacion-dispersion-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la diferencia entre la reproducción sexual y la asexual en plantas?",
+      "context": "En Medellín, dos materas de geranio se propagan: una nace de semilla y la otra de un esqueje sembrado por un estudiante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La sexual une células de dos progenitores y da hijos variados, la asexual usa una parte de la planta y da copias idénticas",
+          "is_correct": true,
+          "feedback": "Correcto. La semilla combina información de dos gametos, el esqueje es un clon de la madre."
+        },
+        {
+          "letter": "B",
+          "text": "La sexual no necesita flores y la asexual siempre necesita semillas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es al revés: la sexual forma semillas y la asexual no las necesita."
+        },
+        {
+          "letter": "C",
+          "text": "La sexual produce copias idénticas y la asexual produce hijos diferentes",
+          "is_correct": false,
+          "feedback": "Incorrecto. La variación genética ocurre en la reproducción sexual, no en la asexual."
+        },
+        {
+          "letter": "D",
+          "text": "La sexual ocurre solo en animales y la asexual solo en hongos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas realizan ambos tipos de reproducción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La reproducción sexual genera variabilidad por la unión de gametos; la asexual genera individuos genéticamente iguales a partir de tallos, hojas, raíces o estolones.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-6-2026-W08-reproduccion-plantas-polinizacion-dispersion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W08-reproduccion-plantas-polinizacion-dispersion-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué las abejas aumentan la cosecha de café?",
+      "context": "En una finca cafetera del Eje Cafetero, los cafetales cercanos a colmenas de abejas producen más granos por rama.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque al visitar flor tras flor transportan polen y fecundan más flores que se vuelven frutos",
+          "is_correct": true,
+          "feedback": "Correcto. Más flores polinizadas significan más frutos cuajados y mayor cosecha."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las abejas riegan las plantas con agua de sus alas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las abejas no riegan; su aporte es transportar polen entre flores."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las abejas se comen las plagas con sus aguijones gigantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las abejas se alimentan de néctar y polen, no son depredadoras de plagas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el zumbido de las abejas calienta el aire y madura el grano",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sonido no madura frutos; la clave es el movimiento de polen."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las abejas son polinizadores: buscan néctar y sin querer llevan polen adherido a sus patas y pelos de una flor a otra.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-6-2026-W08-reproduccion-plantas-polinizacion-dispersion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W08-reproduccion-plantas-polinizacion-dispersion-001-MASTERY-bundle-v4",
+      "statement": "¿Por qué el colibrí es un buen polinizador de esas flores tubulares?",
+      "context": "En el campo colombiano del Huila, un colibrí de pico largo visita flores rojas en forma de tubo cada mañana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque su pico largo alcanza el néctar del fondo y su cabeza roza los estambres y el estigma",
+          "is_correct": true,
+          "feedback": "Correcto. La forma del pico coincide con la flor y el polen viaja en su cabeza."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el colibrí riega las flores con agua del río",
+          "is_correct": false,
+          "feedback": "Incorrecto. El colibrí bebe néctar, no transporta agua para regar."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el colibrí canta y las flores se abren con la música",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las flores no oyen cantos; la polinización es contacto físico con polen."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el colibrí lleva semillas pegadas en sus plumas desde otro país",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lo que transporta entre flores es polen, no semillas formadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Hay coevolución: flores rojas tubulares sin olor atraen colibríes, que ven bien el rojo y tienen picos que calzan justo en el tubo floral.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.79,
+      "bundle_id": "CO-CN-6-2026-W08-reproduccion-plantas-polinizacion-dispersion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W08-reproduccion-plantas-polinizacion-dispersion-001-MASTERY-bundle-v5",
+      "statement": "¿Qué tipo de reproducción usa la familia al sembrar trozos de papa?",
+      "context": "En Boyacá, una familia campesina siembra papa usando trozos de tubérculo con ojos, y en pocos meses cosecha plantas nuevas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reproducción asexual, porque una parte del tallo origina una planta idéntica sin semillas",
+          "is_correct": true,
+          "feedback": "Correcto. El tubérculo es un tallo subterráneo y cada ojo genera un clon de la madre."
+        },
+        {
+          "letter": "B",
+          "text": "Reproducción sexual, porque el tubérculo es una semilla verdadera",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tubérculo no es semilla; no hubo unión de gametos."
+        },
+        {
+          "letter": "C",
+          "text": "Polinización por el viento, porque la papa florece bajo tierra",
+          "is_correct": false,
+          "feedback": "Incorrecto. La polinización ocurre en flores aéreas, no en tubérculos enterrados."
+        },
+        {
+          "letter": "D",
+          "text": "Germinación de esporas, como en los helechos del páramo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La papa no forma esporas; se propaga por tallos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La papa, la yuca por estacas y la fresa por estolones son reproducción asexual vegetativa: rápidas y fieles a la variedad que el campesino quiere conservar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CN-6-2026-W08-reproduccion-plantas-polinizacion-dispersion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W08-reproduccion-plantas-polinizacion-dispersion-001-MASTERY-bundle-v6",
+      "statement": "¿Qué ventaja analiza la ciencia en esa dispersión por el viento?",
+      "context": "En el páramo de Chingaza, los frailejones liberan miles de semillas pequeñas con pelillos que el viento arrastra lejos de la madre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las hijas nacen lejos y no compiten con la madre por luz, agua y espacio",
+          "is_correct": true,
+          "feedback": "Correcto. Dispersarse reduce la competencia y coloniza claros nuevos del páramo."
+        },
+        {
+          "letter": "B",
+          "text": "Las semillas vuelan para hacer fotosíntesis en el aire",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las semillas no fotosintetizan volando; viajan para germinar en suelo."
+        },
+        {
+          "letter": "C",
+          "text": "El viento rompe las semillas para que nazcan dos plantas de cada una",
+          "is_correct": false,
+          "feedback": "Incorrecto. El viento transporta, no multiplica ni parte las semillas."
+        },
+        {
+          "letter": "D",
+          "text": "Los pelillos sirven para que los frailejones respiren mejor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los pelillos son estructuras de vuelo, no órganos de respiración."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La dispersión anemócora del frailejón combina semillas livianas y vilano plumoso: el viento las aleja y aumenta la supervivencia de la población.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.71,
+      "bundle_id": "CO-CN-6-2026-W08-reproduccion-plantas-polinizacion-dispersion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W08-reproduccion-plantas-polinizacion-dispersion-001-MASTERY-bundle-v7",
+      "statement": "¿Qué diferencia genética se espera entre ambos grupos?",
+      "context": "En Cali, un vivero compara orquídeas nacidas de semilla con orquídeas nacidas de esqueje del mismo jardín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las de semilla serán variadas entre sí y las de esqueje serán copias iguales de la madre",
+          "is_correct": true,
+          "feedback": "Correcto. La fecundación mezcla genes; el esqueje los replica sin cambios."
+        },
+        {
+          "letter": "B",
+          "text": "Las de semilla serán idénticas y las de esqueje serán todas diferentes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es lo contrario: la semilla mezcla y el esqueje clona."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos grupos serán idénticos porque todas las plantas son iguales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo la reproducción asexual produce clones exactos."
+        },
+        {
+          "letter": "D",
+          "text": "Ningún grupo tendrá genes porque las plantas no tienen ADN",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todas las plantas tienen ADN en sus células."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar variación ayuda a decidir: semilla para crear variedades nuevas resistentes, esqueje para conservar una variedad valiosa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CN-6-2026-W08-reproduccion-plantas-polinizacion-dispersion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W08-reproduccion-plantas-polinizacion-dispersion-001-MASTERY-bundle-v8",
+      "statement": "¿Qué resultado confirma el papel de los polinizadores?",
+      "context": "En Tunja, un curso embolsa con tela unas flores de calabaza para impedir visitas de insectos y deja otras libres, con igual agua y sol.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las embolsadas forman pocos o ningún fruto y las libres forman frutos normales con semillas",
+          "is_correct": true,
+          "feedback": "Correcto. Sin visitas no llega polen suficiente y el fruto no cuaja."
+        },
+        {
+          "letter": "B",
+          "text": "Las embolsadas darán más frutos porque la tela las alimenta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tela no aporta polen ni nutrientes; solo bloquea insectos."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos grupos darán igual porque el viento riega las plantas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Regar no poliniza; la calabaza necesita insectos que muevan polen pesado."
+        },
+        {
+          "letter": "D",
+          "text": "Las libres morirán porque los insectos se comen toda la planta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los polinizadores visitan sin destruir la flor sana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El experimento aísla una sola variable, la visita de insectos, y demuestra causa y efecto en la formación de frutos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CN-6-2026-W08-reproduccion-plantas-polinizacion-dispersion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W08-reproduccion-plantas-polinizacion-dispersion-001-MASTERY-bundle-v9",
+      "statement": "¿Qué juicio combina producción rápida y seguridad frente a una plaga nueva?",
+      "context": "En la feria de Manizales, un caficultor duda entre sembrar todo su lote con estacas de su mejor planta o con semillas de varias plantas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sembrar la mayoría por estaca para cosechar pronto la buena variedad, y un lote por semilla para tener plantas variadas que resistan la plaga",
+          "is_correct": true,
+          "feedback": "Correcto. Combina clonación fiel y rápida con diversidad que protege a futuro."
+        },
+        {
+          "letter": "B",
+          "text": "Sembrar todo por semilla de una sola planta porque así salen clones idénticos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La semilla no clona; además un monocultivo idéntico es vulnerable a plagas."
+        },
+        {
+          "letter": "C",
+          "text": "No sembrar nada y esperar que el viento traiga café nuevo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin siembra dirigida no hay cosecha predecible ni variedad elegida."
+        },
+        {
+          "letter": "D",
+          "text": "Cortar todas las flores para que la planta no gaste energía en frutos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin flores ni frutos no hay grano de café para vender."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar exige ponderar velocidad contra diversidad: el clon rinde hoy, la semilla variada asegura el mañana ante enfermedades.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-6-2026-W08-reproduccion-plantas-polinizacion-dispersion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W08-reproduccion-plantas-polinizacion-dispersion-001-MASTERY-bundle-v10",
+      "statement": "¿Qué evaluación de las tres afirmaciones es científicamente correcta?",
+      "context": "En Bucaramanga, tres afirmaciones se debaten: 1) Todas las semillas necesitan pasar por el estómago de un animal para germinar. 2) El viento y los animales dispersan semillas lejos de la madre. 3) Sembrar un fragmento de tallo es reproducción asexual sin fecundación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La 1 es falsa porque muchas germinan solas, la 2 es verdadera y la 3 es verdadera",
+          "is_correct": true,
+          "feedback": "Correcto. Solo algunas semillas exigen paso animal; el viento y los animales sí dispersan, y el fragmento clona sin gametos."
+        },
+        {
+          "letter": "B",
+          "text": "Las tres son verdaderas porque ninguna semilla germina sin animales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Frijol, maíz y muchas semillas germinan con solo agua, aire y temperatura."
+        },
+        {
+          "letter": "C",
+          "text": "Las tres son falsas porque las plantas no se reproducen",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas se reproducen sexual y asexualmente de forma comprobada."
+        },
+        {
+          "letter": "D",
+          "text": "Solo la 1 es verdadera y las demás son falsas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La 1 generaliza un caso raro y niega la dispersión y la clonación reales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Juzgar exige distinguir casos particulares de reglas generales: la zoocoria y la endozoocoria existen, pero no son obligatorias para germinar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-6-2026-W08-reproduccion-plantas-polinizacion-dispersion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-24-grade-5-subject-lengua",
+    "generated_at": "2026-09-20T23:46:03.640Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-5-2026-W24-mito-leyenda-colombiana-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es una leyenda?",
+      "context": "En Tunja, la abuela cuenta que Bochica enseñó a los muiscas y que la Patasola asusta en los montes.\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una noticia verdadera del periódico de hoy.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la noticia cuenta hechos reales y actuales, no relatos antiguos."
+        },
+        {
+          "letter": "B",
+          "text": "Un relato antiguo que mezcla hechos con fantasía y deja una enseñanza.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la leyenda combina realidad y magia, como la Patasola que advierte a los caminantes."
+        },
+        {
+          "letter": "C",
+          "text": "Una receta de cocina para preparar el almuerzo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la receta da pasos de cocina y no cuenta historias."
+        },
+        {
+          "letter": "D",
+          "text": "Una cuenta de cobro de la tienda del barrio.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la cuenta registra deudas y no narra ningún relato."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La leyenda es un relato que viaja de boca en boca: parte de algo real y le suma magia para enseñar. Recordar esta definición permite reconocer leyendas como la Patasola o el Mohán cuando las cuentan los abuelos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-5-2026-W24-mito-leyenda-colombiana-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W24-mito-leyenda-colombiana-001-MASTERY-bundle-v2",
+      "statement": "Según el relato, ¿quién es el Mohán?",
+      "context": "En Neiva, el maestro narra: \"Dicen que el Mohán vive en los ríos, fuma tabaco y enreda a los pescadores que no lo respetan\".\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un pescador famoso del río Magdalena.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el Mohán no pesca: es el ser que enreda a los pescadores."
+        },
+        {
+          "letter": "B",
+          "text": "Un profesor que enseña a nadar en Neiva.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el relato no habla de clases de natación ni de profesores."
+        },
+        {
+          "letter": "C",
+          "text": "Un ser fantástico de los ríos que castiga a quien no lo respeta.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el texto lo describe como habitante mágico del río que sanciona a los irrespetuosos."
+        },
+        {
+          "letter": "D",
+          "text": "Un turista que visita los ríos en vacaciones.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el turista pasea y el Mohán vive en el río según la leyenda."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprender una leyenda exige identificar al personaje y su papel: el Mohán es guardián del río que premia el respeto y castiga el abuso. Esta lectura enseña que las leyendas cuidan la naturaleza con miedo y respeto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-5-2026-W24-mito-leyenda-colombiana-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W24-mito-leyenda-colombiana-001-MASTERY-bundle-v3",
+      "statement": "Por sus características, ¿qué tipo de relato es el de Yuruparí?",
+      "context": "En la Amazonía, el payé cuenta que Yuruparí trajo las leyes y la música sagrada al pueblo mucho antes de que existieran las ciudades.\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una noticia, porque habla de música actual.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la música sagrada es ancestral y no una novedad periodística."
+        },
+        {
+          "letter": "B",
+          "text": "Una carta, porque el payé la escribe.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el payé la cuenta de viva voz y no escribe cartas."
+        },
+        {
+          "letter": "C",
+          "text": "Un mito, porque explica el origen de las leyes con un héroe ancestral.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el mito narra orígenes con dioses o héroes, como Yuruparí trayendo las leyes."
+        },
+        {
+          "letter": "D",
+          "text": "Un aviso, porque advierte sobre las ciudades.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el relato no advierte nada; cuenta un origen sagrado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicar la diferencia es clave: el mito explica orígenes con seres sagrados y la leyenda mezcla historia con fantasía. El relato de Yuruparí funda leyes y música, por eso es mito y no simple aviso o noticia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-5-2026-W24-mito-leyenda-colombiana-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W24-mito-leyenda-colombiana-001-MASTERY-bundle-v4",
+      "statement": "¿Qué enseñanza deja la leyenda de la Llorona?",
+      "context": "En Mompox, dicen que la Llorona camina de noche buscando a sus hijos y que su llanto advierte a los trasnochadores.\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los ríos son buenos para nadar de noche.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la leyenda advierte del peligro nocturno, no invita a nadar."
+        },
+        {
+          "letter": "B",
+          "text": "Que los niños deben gritar muy fuerte.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el llanto es de la Llorona y no un consejo para los niños."
+        },
+        {
+          "letter": "C",
+          "text": "Que las mamás abandonan a sus hijos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la leyenda muestra el dolor de la pérdida, no un ejemplo a seguir."
+        },
+        {
+          "letter": "D",
+          "text": "Que hay que recogerse temprano y respetar la noche y a la familia.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el llanto nocturno advierte a los trasnochadores y valora el hogar."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Toda leyenda guarda una moraleja: la Llorona enseña a volver temprano a casa y a cuidar la familia. Aplicar esta lectura permite extraer el consejo escondido detrás del miedo en cada relato tradicional.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-5-2026-W24-mito-leyenda-colombiana-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W24-mito-leyenda-colombiana-001-MASTERY-bundle-v5",
+      "statement": "Si un campesino cuida los árboles y siembra cada año, ¿qué pasará según la leyenda?",
+      "context": "En el Chocó, la Madremonte protege la selva: castiga a quien tala árboles y premia a quien siembra.\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Madremonte lo premiará porque protege la selva.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la leyenda premia a quien siembra y castiga a quien destruye."
+        },
+        {
+          "letter": "B",
+          "text": "La Madremonte lo castigará porque siembra muy poco.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque sembrar es cuidar y la leyenda premia ese cuidado."
+        },
+        {
+          "letter": "C",
+          "text": "La Madremonte se irá porque ya no la necesitan.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la guardiana permanece mientras haya selva que cuidar."
+        },
+        {
+          "letter": "D",
+          "text": "La Madremonte venderá la madera por dos mil pesos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la Madremonte protege los árboles y nunca los vendería."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la lógica de la leyenda permite predecir: cuidar trae premio y destruir trae castigo. Esta estructura de premio y castigo es el corazón de la Madremonte y enseña a respetar los bosques del Chocó.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-5-2026-W24-mito-leyenda-colombiana-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W24-mito-leyenda-colombiana-001-MASTERY-bundle-v6",
+      "statement": "Al analizar los dos relatos, ¿cuál es mito y cuál es leyenda?",
+      "context": "En clase comparan: \"Bachué salió de la laguna de Iguaque con un niño y pobló la tierra\" y \"El Sombrerón persigue a los muchachos trasnochadores en Antioquia\".\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos son mitos porque hablan de lagunas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el Sombrerón no explica ningún origen; solo asusta trasnochadores."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos son leyendas porque dan miedo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el miedo no define el tipo; Bachué explica el origen del pueblo muisca."
+        },
+        {
+          "letter": "C",
+          "text": "Bachué es mito porque explica el origen de la gente y el Sombrerón es leyenda porque advierte con fantasía.",
+          "is_correct": true,
+          "feedback": "Es correcta porque distingue origen sagrado (mito) de advertencia mezclada con historia (leyenda)."
+        },
+        {
+          "letter": "D",
+          "text": "Bachué es leyenda y el Sombrerón es mito por ser más famoso.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la fama no clasifica relatos; los clasifica su tema de origen o advertencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar exige comparar funciones: el mito funda el mundo (Bachué puebla la tierra) y la leyenda corrige conductas (el Sombrerón recoge trasnochadores). Esta comparación permite clasificar cualquier relato tradicional colombiano.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-5-2026-W24-mito-leyenda-colombiana-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W24-mito-leyenda-colombiana-001-MASTERY-bundle-v7",
+      "statement": "Al analizar el relato, ¿qué elementos reales y fantásticos se mezclan?",
+      "context": "En el Huila, el abuelo dice: \"El Hombre Caimán se bañaba en el río y por desobediente quedó mitad hombre y mitad caimán\".\n**Expected_Success:** 0.68",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todo es real porque los caimanes hablan con la gente.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los caimanes no hablan; esa parte es fantasía."
+        },
+        {
+          "letter": "B",
+          "text": "Todo es falso porque los ríos no existen en el Huila.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el río Magdalena sí baña el Huila y es bien real."
+        },
+        {
+          "letter": "C",
+          "text": "Real el río y el baño diario; fantástica la transformación en caimán por desobedecer.",
+          "is_correct": true,
+          "feedback": "Es correcta porque separa el escenario verdadero (río, baño) del castigo mágico (convertirse en caimán)."
+        },
+        {
+          "letter": "D",
+          "text": "Real la desobediencia y fantástico el río que nunca existió.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el río sí existe y la desobediencia es conducta real, no fantasía."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La leyenda teje realidad con magia: toma un río verdadero y unos bañistas reales, y les suma un castigo imposible. Analizar esta mezcla permite disfrutar el relato sin confundir la fantasía con la historia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-5-2026-W24-mito-leyenda-colombiana-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W24-mito-leyenda-colombiana-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál propuesta evalúa mejor el valor de la tradición oral?",
+      "context": "En la Guajira, el curso evalúa qué relato representa mejor la tradición oral para la feria del colegio.\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentar solo videos extranjeros porque las leyendas viejas aburren.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque desprecia la tradición propia y rompe la memoria de los abuelos."
+        },
+        {
+          "letter": "B",
+          "text": "Contar la leyenda cambiando el final para que dé risa con burlas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque burlarse del relato destruye su enseñanza y ofende a quien lo cree."
+        },
+        {
+          "letter": "C",
+          "text": "Decir que mitos y leyendas son mentiras que nadie debe repetir.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque juzga con desprecio relatos que guardan historia y valores del pueblo."
+        },
+        {
+          "letter": "D",
+          "text": "Narrar el mito de los orígenes wayuu con respeto y explicar su enseñanza a los visitantes.",
+          "is_correct": true,
+          "feedback": "Es correcta porque valora la palabra de los mayores y comparte su sabiduría con la comunidad."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar la tradición oral exige respeto: los mitos y leyendas guardan la historia de cada pueblo. La propuesta elegida honra a los narradores wayuu y convierte la feria en un puente entre abuelos y niños.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-5-2026-W24-mito-leyenda-colombiana-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

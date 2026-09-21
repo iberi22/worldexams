@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-23-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T04:30:21.341Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-6-2026-W23-magnetismo-imanes-brujula-001-MASTERY-bundle-v1",
+      "statement": "¿Qué tipo de material es atraído por un imán común de laboratorio?",
+      "context": "En una mina de hierro del municipio de Paz de Río, Boyacá, los geólogos acercan un imán a varias piedras y este solo atrae ciertos minerales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Materiales ferromagnéticos como el hierro, el níquel y el cobalto",
+          "is_correct": true,
+          "feedback": "Correcto. El hierro y metales vecinos son los principales ferromagnéticos."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los metales blandos como el aluminio y el cobre",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aluminio y el cobre no son atraídos por imanes comunes."
+        },
+        {
+          "letter": "C",
+          "text": "Cualquier piedra de la mina, sin importar su composición",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo los minerales con hierro suficiente se adhieren al imán."
+        },
+        {
+          "letter": "D",
+          "text": "El plástico y la madera de los cajones de embarque",
+          "is_correct": false,
+          "feedback": "Incorrecto. Plásticos y madera no son ferromagnéticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los imanes atraen con fuerza los metales ferromagnéticos, principalmente hierro, níquel y cobalto; otros metales y la mayoría de no metales no responden al magnetismo común.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-6-2026-W23-magnetismo-imanes-brujula-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W23-magnetismo-imanes-brujula-001-MASTERY-bundle-v2",
+      "statement": "¿Qué sucede al acercar dos polos del mismo color de los imanes de barra?",
+      "context": "En el taller del colegio de Salamina, un docente muestra dos imanes de barra y acerca primero los extremos rojos entre sí, luego los extremos azules, y por último un rojo con un azul.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos polos iguales se repelen y los de distinto color se atraen",
+          "is_correct": true,
+          "feedback": "Correcto. Polos iguales se repelen y polos diferentes se atraen."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos polos iguales siempre se atraen porque son iguales",
+          "is_correct": false,
+          "feedback": "Incorrecto. La regla es opuesta: iguales se repelen."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos polos azules quedan pegados por casualidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. La atracción no es azarosa sino sistemática."
+        },
+        {
+          "letter": "D",
+          "text": "Los imanes se neutralizan al juntarse por completo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nunca desaparece el magnetismo al juntar dos imanes idénticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los imanes tienen dos polos, norte y sur; polos del mismo signo se repelen entre sí y polos de signos contrarios se atraen. Por eso los extremos rojos con rojos se empujan y rojos con azules se acercan.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-6-2026-W23-magnetismo-imanes-brujula-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W23-magnetismo-imanes-brujula-001-MASTERY-bundle-v3",
+      "statement": "¿Qué propiedad del acero permite que el imán separe las piezas genuinas de las imitaciones cromadas decorativas?",
+      "context": "En la plaza artesanal de Santa Fe de Antioquia, un fabricante de joyería muestra cómo un imán potente separa piezas auténticas de acero de imitaciones cromadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El acero es ferromagnético y se adhiere al imán, mientras el cromado decorativo tiene casi nada de hierro en su interior",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia de contenido de hierro cambia la respuesta magnética."
+        },
+        {
+          "letter": "B",
+          "text": "El color del cromado repele el magnetismo por ser brillante",
+          "is_correct": false,
+          "feedback": "Incorrecto. El brillo no afecta el magnetismo."
+        },
+        {
+          "letter": "C",
+          "text": "El acero es más liviano y vuela hacia el imán",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lo que importa es la naturaleza del material, no su peso."
+        },
+        {
+          "letter": "D",
+          "text": "El cromado es más barato y por eso el imán lo evita",
+          "is_correct": false,
+          "feedback": "Incorrecto. El precio no determina la respuesta magnética."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el magnetismo práctico exige distinguir materiales: solo los objetos ferromagnéticos como el acero verdadero son atraídos por el imán; los cromados con poco hierro interior quedan casi indiferentes al campo magnético aplicado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-6-2026-W23-magnetismo-imanes-brujula-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W23-magnetismo-imanes-brujula-001-MASTERY-bundle-v4",
+      "statement": "¿Por qué la aguja imantada de la brújula siempre apunta al norte cuando se la deja libre?",
+      "context": "En una caminata por el Páramo de Sumapaz, los guías usan la brújula para marcar el rumbo norte de la cordillera y orientar a los caminantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la Tierra misma se comporta como un gran imán y la aguja se alinea con su campo magnético",
+          "is_correct": true,
+          "feedback": "Correcto. El campo magnético terrestre orienta la aguja."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el viento de páramo empuja la aguja hacia el norte",
+          "is_correct": false,
+          "feedback": "Incorrecto. El viento no es el factor determinante."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la aguja es más pesada por el lado norte",
+          "is_correct": false,
+          "feedback": "Incorrecto. La aguja tiene el mismo peso en ambos extremos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la gravedad de la Tierra hala el polo norte de la aguja",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gravedad atrae al centro de la Tierra, no selecciona polos magnéticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Tierra contiene un campo magnético generado por el movimiento del hierro líquido en su núcleo; la aguja imantada de la brújula se alinea con ese campo y su extremo norte apunta al sur magnético terrestre cercano al norte geográfico.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.79,
+      "bundle_id": "CO-CN-6-2026-W23-magnetismo-imanes-brujula-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W23-magnetismo-imanes-brujula-001-MASTERY-bundle-v5",
+      "statement": "¿Por qué los clips forman líneas que salen de los extremos del imán y se curvan alrededor de él?",
+      "context": "En el hogar geriátrico de Cali, los enfermeros pegan pequeños imanes en una tabla y sostienen clips metálicos que se ordenan en filas alrededor de los polos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque cada clip también queda imantado temporalmente y se alinea con las líneas de campo magnético que salen del polo norte y entran por el sur",
+          "is_correct": true,
+          "feedback": "Correcto. Los clips siguen las líneas de campo entre los polos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los clips pesan distinto en cada lado del imán",
+          "is_correct": false,
+          "feedback": "Incorrecto. El peso del clip es siempre el mismo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el imán pinta los clips de magnético con su color",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color del imán no transfiere magnetismo."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el aire de la habitación empuja los clips hacia el imán",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aire no selecciona direcciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al acercar un imán potente, los materiales ferromagnéticos como el clip se imantan temporalmente y siguen las líneas de campo magnético; esas líneas van de polo norte a polo sur formando bucles cerrados alrededor del imán.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CN-6-2026-W23-magnetismo-imanes-brujula-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W23-magnetismo-imanes-brujula-001-MASTERY-bundle-v6",
+      "statement": "¿Qué análisis explica por qué el oro puro no es atraído por el imán, pero una aleación con hierro sí lo es?",
+      "context": "En el museo del oro de Bogotá, los guías muestran que muchas piezas prehispánicas de oro puro no se adhieren a un imán potente, mientras que las de aleación con hierro sí.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El oro es un metal diamagnético que apenas interactúa con el imán; al mezclarlo con hierro aparecen dominios ferromagnéticos y el material compuesto responde al campo",
+          "is_correct": true,
+          "feedback": "Correcto. La aleación incorpora hierro que responde al campo magnético."
+        },
+        {
+          "letter": "B",
+          "text": "El oro cambia su naturaleza al mezclarse con aire",
+          "is_correct": false,
+          "feedback": "Incorrecto. El oro es estable y mantiene su comportamiento magnético."
+        },
+        {
+          "letter": "C",
+          "text": "El imán del museo es especial para piezas de oro puro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un imán común ya revela la naturaleza del oro."
+        },
+        {
+          "letter": "D",
+          "text": "La forma de la pieza, no su material, define la atracción magnética",
+          "is_correct": false,
+          "feedback": "Incorrecto. La geometría no convierte un material diamagnético en ferromagnético."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar el magnetismo de los metales exige conocer sus tipos: ferromagnéticos se adhieren con fuerza, paramagnéticos se sienten débilmente y diamagnéticos como el oro y la plata son repelidos de manera leve; la aleación con hierro crea un material ferromagnético nuevo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.71,
+      "bundle_id": "CO-CN-6-2026-W23-magnetismo-imanes-brujula-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W23-magnetismo-imanes-brujula-001-MASTERY-bundle-v7",
+      "statement": "¿Qué análisis explica la desviación de la aguja bajo cables de alta tensión?",
+      "context": "En la finca cacaotera de Arauquita, los campesinos sostienen una brújula y notan que la aguja se inclina hacia abajo cuando pasa bajo un cable de alta tensión cercano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La corriente eléctrica que circula por el cable genera un campo magnético que se suma al campo terrestre y desvía la aguja",
+          "is_correct": true,
+          "feedback": "Correcto. Toda corriente rectilínea produce campo magnético circular alrededor."
+        },
+        {
+          "letter": "B",
+          "text": "La brújula pierde su magnetización por el calor del cable",
+          "is_correct": false,
+          "feedback": "Incorrecto. La brújula mantiene su imantación; lo que cambia es la dirección de la aguja."
+        },
+        {
+          "letter": "C",
+          "text": "El peso de los cables empuja la aguja hacia abajo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los cables están fijos y no transmiten peso a la brújula."
+        },
+        {
+          "letter": "D",
+          "text": "La brújula solo mide dirección horizontal y la inclinación es un error del observador",
+          "is_correct": false,
+          "feedback": "Incorrecto. La aguja sí responde a campos magnéticos externos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la brújula moderna implica entender campos magnéticos: la corriente rectilínea del cable de potencia crea un campo circular alrededor, y al sumarse al campo terrestre desvía la aguja hacia abajo o hacia los lados según la posición y el sentido de la corriente.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CN-6-2026-W23-magnetismo-imanes-brujula-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W23-magnetismo-imanes-brujula-001-MASTERY-bundle-v8",
+      "statement": "¿Qué análisis explica que el tornillo se transforme en imán solo cuando pasa corriente por la bobina?",
+      "context": "En el laboratorio del Sena en Medellín, los alumnos enrollan cable conductor alrededor de un tornillo grande de acero y conectan los extremos a una pila, observando que el tornillo atrae clips metálicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La corriente produce un campo magnético alrededor del cable enrollado que imanta temporalmente el acero del tornillo formando un electroimán",
+          "is_correct": true,
+          "feedback": "Correcto. La bobina convierte la electricidad en magnetismo."
+        },
+        {
+          "letter": "B",
+          "text": "El tornillo cambia su composición química por el paso de la corriente",
+          "is_correct": false,
+          "feedback": "Incorrecto. El acero conserva su composición; lo que cambia es su magnetización."
+        },
+        {
+          "letter": "C",
+          "text": "La pila libera electrones visibles que pintan el tornillo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los electrones no se ven ni se adhieren como pintura."
+        },
+        {
+          "letter": "D",
+          "text": "El electroimán es permanente sin importar la corriente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al cortar la corriente, el campo desaparece y el tornillo deja de atraer."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un electroimán se forma cuando una corriente atraviesa una bobina rodeando un núcleo de hierro: el campo magnético generado por la corriente ordena los dominios del acero y el conjunto actúa como imán solo mientras circula la electricidad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CN-6-2026-W23-magnetismo-imanes-brujula-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W23-magnetismo-imanes-brujula-001-MASTERY-bundle-v9",
+      "statement": "¿Qué juicio crítico merece esta promesa publicitaria?",
+      "context": "En una valla publicitaria en la avenida Sexta de Cali se ofrece una pulsera magnética que promete curar el dolor de espalda por el magnetismo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es falsa porque los campos magnéticos de una pulsera son débiles y la sangre no responde como terapia científicamente comprobada",
+          "is_correct": true,
+          "feedback": "Correcto. La magnetoterapia publicitada no tiene evidencia clínica verificable."
+        },
+        {
+          "letter": "B",
+          "text": "Es verdadera porque los imanes pequeños curan el dolor de inmediato",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay mecanismo físico que respalde esa cura."
+        },
+        {
+          "letter": "C",
+          "text": "Es verdadera solo si la pulsera es dorada",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color del accesorio no determina su efecto médico."
+        },
+        {
+          "letter": "D",
+          "text": "Es verdadera cuando el paciente cree firmemente en ella",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fe del paciente no es evidencia científica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar publicidad magnética exige comparar intensidad y efecto biomédico: una pulsera genera un campo de apenas unos militeslas y no existe evidencia clínica reproducible que respalde el alivio de dolor de espalda por esa intensidad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-6-2026-W23-magnetismo-imanes-brujula-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W23-magnetismo-imanes-brujula-001-MASTERY-bundle-v10",
+      "statement": "¿Qué evaluación conjunta de las tres hipótesis es correcta?",
+      "context": "En el coloquio de ciencias de Riohacha, se debaten tres hipótesis: 1) La Tierra no tiene magnetismo propio. 2) Polos iguales se atraen. 3) Un electroimán necesita corriente continua para funcionar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La 1 es falsa porque la Tierra tiene campo magnético, la 2 es falsa porque polos iguales se repelen y la 3 es verdadera",
+          "is_correct": true,
+          "feedback": "Correcto. Corrige los dos errores iniciales y confirma el papel de la corriente en el electroimán."
+        },
+        {
+          "letter": "B",
+          "text": "Las tres son verdaderas porque el magnetismo es exclusivo de la Tierra",
+          "is_correct": false,
+          "feedback": "Incorrecto. El magnetismo se presenta en muchos materiales, no solo en la Tierra."
+        },
+        {
+          "letter": "C",
+          "text": "Solo la 3 es verdadera y las demás son falsas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sí, la 3 sí es verdadera pero la 1 y la 2 son falsas."
+        },
+        {
+          "letter": "D",
+          "text": "Las tres son falsas porque los imanes no existen",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los imanes y sus efectos son fenómenos físicos observables."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Juzgar hipótesis sobre magnetismo separa tipo de polos y comportamiento: la Tierra posee un campo magnético, polos iguales se repelen mientras distintos se atraen, y un electroimán requiere precisamente una corriente circulando para mantener el efecto magnético.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-6-2026-W23-magnetismo-imanes-brujula-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

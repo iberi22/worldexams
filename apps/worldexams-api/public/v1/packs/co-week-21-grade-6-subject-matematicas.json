@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-21-grade-6-subject-matematicas",
+    "generated_at": "2026-09-21T01:19:15.916Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-6-2026-W21-lenguaje-algebraico-expresiones-001-MASTERY-bundle-v1",
+      "statement": "¿Qué representa una letra como n en una expresión algebraica?",
+      "context": "En una clase de matemáticas en Bogotá la profesora escribe la letra n en una expresión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un valor desconocido o que puede variar, llamado variable",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: la variable ocupa el lugar de un número que no se conoce o que cambia según la situación."
+        },
+        {
+          "letter": "B",
+          "text": "Siempre el número 14, por su posición en el abecedario",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: la letra no vale por su posición en el abecedario; representa un valor variable."
+        },
+        {
+          "letter": "C",
+          "text": "Una operación entre números",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: las operaciones se escriben con signos (+, −, ×); las letras representan valores."
+        },
+        {
+          "letter": "D",
+          "text": "El resultado final del ejercicio",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el resultado se obtiene al final; la letra es un dato de partida, no la respuesta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La variable es el corazón del álgebra: una letra que representa un número desconocido o cambiante. Entenderla permite pasar de la aritmética con números fijos al lenguaje general del álgebra.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-6-2026-W21-lenguaje-algebraico-expresiones-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W21-lenguaje-algebraico-expresiones-001-MASTERY-bundle-v2",
+      "statement": "Si n es el número de panelas, ¿qué expresión representa el doble de esa cantidad?",
+      "context": "En una tienda de Medellín el tendero calcula \"el doble de un número de panelas\" y lo llama 2n.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2n",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: el doble significa multiplicar por 2, y en álgebra 2 × n se escribe 2n."
+        },
+        {
+          "letter": "B",
+          "text": "n + 2",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: eso es el número aumentado en 2, no duplicado."
+        },
+        {
+          "letter": "C",
+          "text": "n²",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: eso es el número al cuadrado (n × n), no el doble."
+        },
+        {
+          "letter": "D",
+          "text": "2 + n + 2",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: agrega doses en vez de multiplicar la cantidad por 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"El doble de n\" se traduce como 2 × n = 2n. Cada palabra del lenguaje común (doble, triple, mitad) tiene una operación asociada que debe identificarse al traducir.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-6-2026-W21-lenguaje-algebraico-expresiones-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W21-lenguaje-algebraico-expresiones-001-MASTERY-bundle-v3",
+      "statement": "¿Qué expresión representa el total ahorrado?",
+      "context": "En Cali una niña ahorra x pesos y su abuela le regala 7.000 COP más.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x + 7000",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: al ahorro inicial x se le suma el regalo de 7.000, totalizando x + 7000."
+        },
+        {
+          "letter": "B",
+          "text": "7x",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: multiplica por 7 en vez de sumar 7.000 al ahorro."
+        },
+        {
+          "letter": "C",
+          "text": "x - 7000",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: resta el regalo en vez de sumarlo al total."
+        },
+        {
+          "letter": "D",
+          "text": "7000x",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: multiplica el ahorro por 7.000 en lugar de sumar esa cantidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"Aumentado en\" indica suma: x + 7000. Traducir exige distinguir entre sumar una cantidad (x + 7000) y multiplicar por ella (7000x), operaciones muy distintas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-6-2026-W21-lenguaje-algebraico-expresiones-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W21-lenguaje-algebraico-expresiones-001-MASTERY-bundle-v4",
+      "statement": "¿Qué expresión representa lo que recibe cada hijo si son dos hijos y el reparto es equitativo?",
+      "context": "En Tunja un agricultor reparte la mitad de su cosecha x entre sus hijos y aparta 3 bultos para la casa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x/2 - 3 dividido entre 2",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: esta opción describe mal el reparto; la expresión correcta descuenta primero y luego divide."
+        },
+        {
+          "letter": "B",
+          "text": "x - 3",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: resta los 3 bultos pero no divide entre los dos hijos."
+        },
+        {
+          "letter": "C",
+          "text": "x/2 + 3",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: suma los bultos apartados en vez de restarlos antes de repartir."
+        },
+        {
+          "letter": "D",
+          "text": "(x - 3)/2",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: primero se apartan los 3 bultos (x - 3) y el resto se divide entre 2."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El orden de las operaciones importa al traducir: primero se aparta (x − 3) y luego se reparte (÷ 2). Los paréntesis en (x − 3)/2 conservan ese orden correcto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-6-2026-W21-lenguaje-algebraico-expresiones-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W21-lenguaje-algebraico-expresiones-001-MASTERY-bundle-v5",
+      "statement": "¿Cuánto vale el pasaje si x = 5?",
+      "context": "En Bucaramanga un bus cobra el pasaje con la expresión 3x + 2, donde x vale 5 (en miles de COP) por un recargo especial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "17 (miles de COP)",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: 3 × 5 + 2 = 15 + 2 = 17."
+        },
+        {
+          "letter": "B",
+          "text": "25 (miles de COP)",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: suma 3 + 2 y multiplica por 5, ignorando la jerarquía de operaciones."
+        },
+        {
+          "letter": "C",
+          "text": "16 (miles de COP)",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: calcula 3 × 5 = 15 pero olvida sumar el 2 final."
+        },
+        {
+          "letter": "D",
+          "text": "10 (miles de COP)",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: multiplica 3 × 2 y suma x, alterando el orden de la expresión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar es reemplazar la variable y operar con jerarquía: primero la multiplicación (3 × 5 = 15) y luego la suma (15 + 2 = 17). La jerarquía de operaciones no cambia en álgebra.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-6-2026-W21-lenguaje-algebraico-expresiones-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W21-lenguaje-algebraico-expresiones-001-MASTERY-bundle-v6",
+      "statement": "Si a = 6, ¿cuál es el perímetro del parque y qué expresión lo modela?",
+      "context": "En Cartagena un parque tiene forma cuadrada y cada lado mide a metros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4a, que vale 24 m",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: el cuadrado tiene 4 lados iguales, perímetro = 4 × a = 4 × 6 = 24 m."
+        },
+        {
+          "letter": "B",
+          "text": "a², que vale 36 m",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: a² es el área, no el perímetro; además el área se mide en m²."
+        },
+        {
+          "letter": "C",
+          "text": "2a, que vale 12 m",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: 2a solo suma dos lados; el perímetro incluye los cuatro."
+        },
+        {
+          "letter": "D",
+          "text": "a + 4, que vale 10 m",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: suma 4 en vez de multiplicar por los 4 lados iguales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Modelar con álgebra es expresar una regularidad: 4 lados iguales → perímetro 4a. Al evaluar con a = 6 se obtiene 24 m, verificando el modelo con el cálculo directo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-6-2026-W21-lenguaje-algebraico-expresiones-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W21-lenguaje-algebraico-expresiones-001-MASTERY-bundle-v7",
+      "statement": "¿Qué valor de n necesita el jugador?",
+      "context": "En Manizales un juego da puntos con la expresión 2n + 3. Un jugador quiere llegar a 11 puntos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "n = 4, porque 2 × 4 + 3 = 11",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: al reemplazar n = 4 se obtiene 8 + 3 = 11, justo la meta."
+        },
+        {
+          "letter": "B",
+          "text": "n = 3, porque 2 × 3 + 3 = 11",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: 2 × 3 + 3 = 9, no alcanza la meta de 11 puntos."
+        },
+        {
+          "letter": "C",
+          "text": "n = 5, porque 2 × 5 + 3 = 11",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: 2 × 5 + 3 = 13, se pasa de la meta."
+        },
+        {
+          "letter": "D",
+          "text": "n = 11, porque la meta es 11",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: confunde el valor buscado de n con el resultado de la expresión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Hallar n es invertir la expresión: si 2n + 3 = 11, entonces 2n = 8 y n = 4. Verificar reemplazando confirma la solución, estrategia base para resolver ecuaciones.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.66,
+      "bundle_id": "CO-MAT-6-2026-W21-lenguaje-algebraico-expresiones-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W21-lenguaje-algebraico-expresiones-001-MASTERY-bundle-v8",
+      "statement": "¿Qué edad tiene Ana?",
+      "context": "En Pereira el triple de la edad de Ana menos 2 años es igual a 10 años.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 años, porque 3 × 4 - 2 = 10",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: la ecuación 3e - 2 = 10 da 3e = 12 y e = 4, que verifica la igualdad."
+        },
+        {
+          "letter": "B",
+          "text": "3 años, porque 3 × 3 - 2 = 10",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: 3 × 3 - 2 = 7, no cumple la condición de 10 años."
+        },
+        {
+          "letter": "C",
+          "text": "6 años, porque 3 × 6 - 2 = 10",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: 3 × 6 - 2 = 16, supera el valor indicado."
+        },
+        {
+          "letter": "D",
+          "text": "10 años, porque es el resultado",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: 10 es el resultado de la expresión, no la edad buscada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Traducir el enunciado da 3e − 2 = 10; despejar: 3e = 12, e = 4. El ciclo completo (traducir → despejar → verificar) es el método algebraico para problemas verbales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-6-2026-W21-lenguaje-algebraico-expresiones-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W21-lenguaje-algebraico-expresiones-001-MASTERY-bundle-v9",
+      "statement": "¿Es correcta la afirmación? Justifica con el cálculo.",
+      "context": "En Barranquilla un estudiante afirma que 2x + 3y con x = 2 y y = 3 vale 36.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, vale 13 porque 2 × 2 + 3 × 3 = 4 + 9 = 13",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: cada término se evalúa por separado y luego se suman: 4 + 9 = 13, no 36."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque 2 + 3 + 2 + 3 = 10 y 10 no es 36",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: mezcla sumas sin sentido; además su propio cálculo contradice el 36."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque (2 + 3) × (2 + 3) = 25",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: inventa una multiplicación inexistente y ni siquiera obtiene 36."
+        },
+        {
+          "letter": "D",
+          "text": "No, vale 10 porque se suman todos los números",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: sumar coeficientes y valores ignora las multiplicaciones de la expresión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar con dos variables exige reemplazar cada una y respetar la jerarquía: 2(2) + 3(3) = 4 + 9 = 13. El error de 36 muestra qué pasa al operar sin orden.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-6-2026-W21-lenguaje-algebraico-expresiones-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W21-lenguaje-algebraico-expresiones-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál expresión modela la compra y cuánto paga en total?",
+      "context": "En Pasto una mamá compra 3 cuadernos a c pesos cada uno y 2 lápices de 2.000 COP cada uno. El cuaderno vale 5.000 COP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3c + 4000, total 19.000 COP",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: 3 cuadernos (3c) más 2 × 2.000 = 4.000; con c = 5.000: 15.000 + 4.000 = 19.000."
+        },
+        {
+          "letter": "B",
+          "text": "3c + 2000, total 17.000 COP",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: cuenta un solo lápiz en vez de los dos comprados."
+        },
+        {
+          "letter": "C",
+          "text": "5c, total 25.000 COP",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: suma cantidades de artículos distintos como si tuvieran el mismo precio."
+        },
+        {
+          "letter": "D",
+          "text": "3c × 4000, total 60.000.000 COP",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: multiplica los dos grupos en vez de sumarlos, obteniendo un valor absurdo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Modelar combina términos con variable (3c) y constantes (4000): total = 3c + 4000. Evaluar con c = 5000 da 19.000 COP, cerrando el ciclo entre situación real, modelo y respuesta.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-6-2026-W21-lenguaje-algebraico-expresiones-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

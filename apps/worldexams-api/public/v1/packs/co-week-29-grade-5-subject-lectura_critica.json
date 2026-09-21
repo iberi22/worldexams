@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-29-grade-5-subject-lectura_critica",
+    "generated_at": "2026-09-20T17:58:21.699Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-5-2026-W29-novela-corta-aventura-001-MASTERY-bundle-v1",
+      "statement": "Según la nota del cuaderno, ¿qué pista inicial reciben los protagonistas para comenzar la búsqueda?",
+      "context": "Sara y Miguel encuentran en el altillo de la casa de sus abuelos en Bogotá un viejo cuaderno con un mapa dibujado a mano, junto a una nota que dice: \"Si quieres llegar hasta el agua que canta, sigue primero al loro que mira al sol\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seguir al loro que mira al sol para llegar al agua que canta.",
+          "is_correct": true,
+          "feedback": "La nota indica literalmente \"sigue primero al loro que mira al sol\" como primera indicación del camino."
+        },
+        {
+          "letter": "B",
+          "text": "Viajar en avión directamente al extranjero sin ninguna guía.",
+          "is_correct": false,
+          "feedback": "El texto no menciona aviones ni viajes al extranjero; la pista parte del loro en el altillo."
+        },
+        {
+          "letter": "C",
+          "text": "Preguntar la contraseña al portero del edificio de la abuela.",
+          "is_correct": false,
+          "feedback": "El portero no aparece en el relato; la pista está escrita en el cuaderno, no en la portería."
+        },
+        {
+          "letter": "D",
+          "text": "Comprar una brújula nueva en el centro comercial.",
+          "is_correct": false,
+          "feedback": "No se menciona una brújula nueva; la primera pista es la frase escrita sobre el loro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Recuperar información explícita identificando la pista textual que da inicio a la aventura en el relato.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-5-2026-W29-novela-corta-aventura-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W29-novela-corta-aventura-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la idea principal que organiza toda esta parte del relato?",
+      "context": "Los protagonistas leen el cuaderno y, según la narración, el autor describe cómo Sara y Miguel descubren huellas frescas en el barro, escuchan un loro verde en una ceiba y, al seguirlo, llegan a una laguna escondida en las montañas cerca de Guatapé.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una clase de ciencias naturales sobre las aves de la región andina.",
+          "is_correct": false,
+          "feedback": "No se trata de una lección de ciencias; la historia avanza por pistas, no por explicaciones zoológicas."
+        },
+        {
+          "letter": "B",
+          "text": "Una receta para preparar platos típicos paisas en el fogón de la abuela.",
+          "is_correct": false,
+          "feedback": "No hay recetas ni descripciones de cocina; el relato gira en torno a la búsqueda de la laguna."
+        },
+        {
+          "letter": "C",
+          "text": "La aventura de seguir unas pistas del cuaderno para descubrir una laguna escondida.",
+          "is_correct": true,
+          "feedback": "Toda la secuencia une el cuaderno, las huellas, el loro y la laguna en una misma aventura guiada por pistas."
+        },
+        {
+          "letter": "D",
+          "text": "Una discusión entre los hermanos sobre las tareas del colegio en Bogotá.",
+          "is_correct": false,
+          "feedback": "El relato no se centra en peleas escolares; el conflicto principal es la búsqueda en la montaña."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprender la idea global del relato: una aventura donde cada pista conduce a la siguiente hasta revelar el lugar escondido.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-5-2026-W29-novela-corta-aventura-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W29-novela-corta-aventura-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el orden correcto de los hechos tal como aparecen en el relato?",
+      "context": "El narrador presenta estos hechos en orden: (1) Sara y Miguel leen el cuaderno, (2) viajan desde Bogotá hasta Guatapé, (3) encuentran al loro en la ceiba, (4) caminan siguiendo las huellas del barro, (5) descubren la laguna escondida y (6) leen la última página del cuaderno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3, 1, 2, 5, 4, 6",
+          "is_correct": false,
+          "feedback": "La lectura del cuaderno ocurre antes de encontrar al loro, por lo que el orden 3, 1 está invertido."
+        },
+        {
+          "letter": "B",
+          "text": "2, 3, 5, 1, 4, 6",
+          "is_correct": false,
+          "feedback": "Sin el cuaderno no pueden iniciar la búsqueda, así que 2 antes de 1 rompe el inicio del relato."
+        },
+        {
+          "letter": "C",
+          "text": "1, 2, 3, 4, 5, 6",
+          "is_correct": true,
+          "feedback": "La secuencia avanza lógicamente: cuaderno, viaje, loro, huellas, laguna y lectura final."
+        },
+        {
+          "letter": "D",
+          "text": "1, 3, 2, 4, 6, 5",
+          "is_correct": false,
+          "feedback": "Conocer al loro antes de viajar a Guatapé contradice el recorrido de la aventura descrito."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicar la estructura narrativa secuencial para ordenar los hechos del relato según como los cuenta el narrador.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-5-2026-W29-novela-corta-aventura-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W29-novela-corta-aventura-001-MASTERY-bundle-v4",
+      "statement": "¿Qué significa la expresión \"no perder el rumbo\" según el contexto de la novela corta?",
+      "context": "En el relato, Miguel le dice a Sara: \"No perdamos el rumbo, porque las huellas frescas siempre señalan el camino correcto hacia el agua que canta\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Proceder sin detenerse ni mirar nada en el trayecto.",
+          "is_correct": false,
+          "feedback": "\"No perder el rumbo\" no significa correr sin mirar; implica mantener la dirección fijada por las pistas."
+        },
+        {
+          "letter": "B",
+          "text": "Mantener la dirección marcada por las pistas del cuaderno.",
+          "is_correct": true,
+          "feedback": "\"Rumbo\" alude a la dirección de la búsqueda, que en el relato va marcada por las huellas frescas."
+        },
+        {
+          "letter": "C",
+          "text": "Abandonar la aventura y regresar corriendo a la casa.",
+          "is_correct": false,
+          "feedback": "\"No perder el rumbo\" expresa cuidado por continuar la búsqueda, no abandono de la aventura."
+        },
+        {
+          "letter": "D",
+          "text": "Gritar muy fuerte para que los animales se asusten.",
+          "is_correct": false,
+          "feedback": "Gritar no tiene relación con el significado de \"rumbo\" dentro del contexto del relato."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicar el significado de expresiones en contexto para interpretar acciones de los personajes en el relato.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-5-2026-W29-novela-corta-aventura-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W29-novela-corta-aventura-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la intención del autor al cortar la acción justo cuando descubren la laguna?",
+      "context": "El autor de la novela corta interrumpe la acción en el momento exacto en que los niños ven por primera vez la laguna escondida y, en lugar de seguir, deja al lector con la frase: \"El agua que canta guarda todavía un secreto más\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Crear suspenso para que el lector quiera seguir leyendo el siguiente capítulo.",
+          "is_correct": true,
+          "feedback": "Dejar un secreto sin resolver justo al descubrir la laguna es un recurso para mantener la atención del lector."
+        },
+        {
+          "letter": "B",
+          "text": "Anunciar que el libro terminó y ya no hay más aventuras.",
+          "is_correct": false,
+          "feedback": "El autor no cierra la historia, sino que deja un misterio abierto para continuar la narración."
+        },
+        {
+          "letter": "C",
+          "text": "Dar una clase de ecología sobre los humedales de Antioquia.",
+          "is_correct": false,
+          "feedback": "La intención no es enseñar ecología sino enganchar al lector con un secreto pendiente."
+        },
+        {
+          "letter": "D",
+          "text": "Cambiar de tema y empezar a hablar de un partido de fútbol.",
+          "is_correct": false,
+          "feedback": "La pausa refuerza el suspenso de la búsqueda, no introduce otro tema."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la noción de intención comunicativa para reconocer cómo el autor maneja el suspenso en una novela de aventura.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-5-2026-W29-novela-corta-aventura-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W29-novela-corta-aventura-001-MASTERY-bundle-v6",
+      "statement": "¿Qué relación lógica expresan los conectores \"pues\" y \"porque\" en este fragmento?",
+      "context": "El autor escribe: \"Sara guardó el cuaderno en su morral, pues sabía que las próximas pistas serían más difíciles. Luego, Miguel miró al loro, porque entendía que el ave marcaría el nuevo camino\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Expresan una relación de tiempo entre dos hechos separados por días.",
+          "is_correct": false,
+          "feedback": "\"Pues\" y \"porque\" no indican tiempo; ambos conectores expresan causa en cada oración."
+        },
+        {
+          "letter": "B",
+          "text": "Indican que los hechos ocurren al mismo tiempo en el mismo lugar.",
+          "is_correct": false,
+          "feedback": "El sentido no es de simultaneidad sino de motivación causal de cada acción relatada."
+        },
+        {
+          "letter": "C",
+          "text": "Cada conector introduce la causa de la acción que lo precede en su oración.",
+          "is_correct": true,
+          "feedback": "\"Pues\" explica por qué Sara guarda el cuaderno y \"porque\" explica por qué Miguel mira al loro."
+        },
+        {
+          "letter": "D",
+          "text": "Señalan que las acciones ya no volverán a repetirse en el relato.",
+          "is_correct": false,
+          "feedback": "Estos conectores no marcan algo terminado; explican motivos dentro del presente narrativo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar el papel de los conectores causales para comprender las razones que mueven las acciones de los personajes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-5-2026-W29-novela-corta-aventura-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W29-novela-corta-aventura-001-MASTERY-bundle-v7",
+      "statement": "¿Quién es realmente la protagonista de la novela y qué evidencia del relato lo confirma?",
+      "context": "Dos estudiantes discuten sobre el protagonista de la novela: Luisa dice que es el loro porque guía a los niños, y Andrés dice que es Sara porque lleva el cuaderno y toma las decisiones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sara, porque aparece como quien guarda el cuaderno, organiza el viaje y toma las decisiones claves.",
+          "is_correct": true,
+          "feedback": "Aunque el loro cumple un papel importante, Sara es quien guía la acción humana y conserva el objeto central del relato."
+        },
+        {
+          "letter": "B",
+          "text": "El loro, porque los animales siempre son protagonistas en las novelas de aventura.",
+          "is_correct": false,
+          "feedback": "El loro acompaña, pero no toma decisiones ni porta el cuaderno con las pistas decisivas."
+        },
+        {
+          "letter": "C",
+          "text": "La abuela de Bogotá, porque cuenta la historia desde su casa.",
+          "is_correct": false,
+          "feedback": "La abuela entrega el cuaderno, pero la narración sigue a los nietos en la montaña."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno, porque la novela corta nunca tiene un único protagonista.",
+          "is_correct": false,
+          "feedback": "Toda novela tiene al menos un foco narrativo principal; aquí la historia se cuenta desde Sara."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la información del relato para identificar quién guía las acciones y soporta el peso de la historia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-5-2026-W29-novela-corta-aventura-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W29-novela-corta-aventura-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de estos finales cumple mejor los tres criterios propuestos por el profesor?",
+      "context": "El profesor de quinto propone a sus estudiantes evaluar el final de la novela con tres criterios: (1) cierra la búsqueda del agua que canta, (2) deja una reflexión sobre el valor de la memoria familiar y (3) invita a seguir leyendo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Sara y Miguel se devolvieron a su casa sin encontrar nada y se quedaron dormidos en el bus\".",
+          "is_correct": false,
+          "feedback": "No cierra la búsqueda, no reflexiona sobre la memoria ni invita a seguir leyendo la historia."
+        },
+        {
+          "letter": "B",
+          "text": "\"La laguna era solo un charco sucio y los niños se fueron aburridos a almorzar empanadas\".",
+          "is_correct": false,
+          "feedback": "Cierra sin misterio y sin reflexión; convierte la aventura en algo sin sentido para el lector."
+        },
+        {
+          "letter": "C",
+          "text": "\"Sara y Miguel encontraron el agua que canta, escribieron sus nombres en el cuaderno y entendieron que la verdadera herencia era la historia de sus abuelos\".",
+          "is_correct": true,
+          "feedback": "Cierra la búsqueda, deja una reflexión sobre la memoria familiar y deja al lector con un aprendizaje valioso."
+        },
+        {
+          "letter": "D",
+          "text": "\"El loro voló lejos y nunca más apareció, así que los niños olvidaron todo lo del cuaderno\".",
+          "is_correct": false,
+          "feedback": "Cierra la aventura en forma negativa y borra la reflexión sobre la memoria familiar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar un final narrativo aplicando criterios explícitos de coherencia, intención y aporte cultural al lector.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LC-5-2026-W29-novela-corta-aventura-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}
