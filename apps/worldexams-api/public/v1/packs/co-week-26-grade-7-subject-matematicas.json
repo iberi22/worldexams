@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-26-grade-7-subject-matematicas",
+    "generated_at": "2026-09-21T18:38:33.712Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-7-2026-W26-regiones-sombreadas-areas-compuestas-001-MASTERY-bundle-v1",
+      "statement": "¿Qué estrategia se usa para hallar el área de una región sombreada que rodea a una figura interior?",
+      "context": "En Bogotá, la profesora muestra un patio rectangular con una jardinera cuadrada en el centro y explica que el área para baldosas es el patio menos la jardinera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sumar el área exterior con el área interior",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumar incluiría dos veces la zona interior, que no lleva baldosa."
+        },
+        {
+          "letter": "B",
+          "text": "Restar el área de la figura interior al área de la figura exterior",
+          "is_correct": true,
+          "feedback": "Correcto. La región sombreada es lo que queda del exterior al quitar el interior: área exterior menos área interior."
+        },
+        {
+          "letter": "C",
+          "text": "Multiplicar el área exterior por el área interior",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicar áreas no tiene significado geométrico en este caso."
+        },
+        {
+          "letter": "D",
+          "text": "Dividir el área exterior entre el área interior",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividir áreas da una razón, no el área de la región."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando una figura está dentro de otra y la región sombreada es el borde entre ambas, su área es la diferencia: área de la figura grande menos área de la figura pequeña.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-7-2026-W26-regiones-sombreadas-areas-compuestas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W26-regiones-sombreadas-areas-compuestas-001-MASTERY-bundle-v2",
+      "statement": "¿Qué operación permite hallar el área pintada de azul?",
+      "context": "En Medellín, un cartel rectangular de 10 cm por 6 cm tiene un logo circular sin pintar en el centro. El resto del cartel va pintado de azul.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Calcular el área del rectángulo y restarle el área del círculo",
+          "is_correct": true,
+          "feedback": "Correcto. Lo pintado es todo el cartel menos el logo: 10 × 6 menos pi × r²."
+        },
+        {
+          "letter": "B",
+          "text": "Calcular el área del círculo y sumarle el área del rectángulo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumar contaría el logo como pintado, lo cual es falso."
+        },
+        {
+          "letter": "C",
+          "text": "Calcular solo el área del círculo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es justo la zona que NO va pintada."
+        },
+        {
+          "letter": "D",
+          "text": "Calcular el perímetro del rectángulo más el del círculo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los perímetros miden contornos, no superficies pintadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El área pintada es la región sombreada: figura total menos figura excluida. Primero se halla el área del rectángulo (base × altura) y se le resta el área del círculo (pi × r²).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-7-2026-W26-regiones-sombreadas-areas-compuestas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W26-regiones-sombreadas-areas-compuestas-001-MASTERY-bundle-v3",
+      "statement": "¿Cuántos metros cuadrados se van a lavar?",
+      "context": "En Cali, un tapete rectangular de 8 m por 5 m tiene en el centro una alfombra cuadrada de 3 m de lado. La zona visible del tapete (alrededor de la alfombra) se va a lavar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "49 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor suma ambas áreas en vez de restar la alfombra."
+        },
+        {
+          "letter": "B",
+          "text": "31 m²",
+          "is_correct": true,
+          "feedback": "Correcto. Área del tapete 8 × 5 = 40 menos área de la alfombra 3 × 3 = 9, es decir 40 - 9 = 31 m²."
+        },
+        {
+          "letter": "C",
+          "text": "9 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es solo el área de la alfombra, que no se lava."
+        },
+        {
+          "letter": "D",
+          "text": "40 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el tapete completo, sin descontar la alfombra."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Zona a lavar = área exterior menos área interior = (8 × 5) - (3 × 3) = 40 - 9 = 31 m².",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-7-2026-W26-regiones-sombreadas-areas-compuestas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W26-regiones-sombreadas-areas-compuestas-001-MASTERY-bundle-v4",
+      "statement": "Usando pi = 3,14, ¿cuál es el área que se enchaqueta?",
+      "context": "En Barranquilla, una plaza cuadrada de 20 m de lado tiene en el centro una fuente circular de 4 m de radio que no se pisa. El resto se enchaqueta con adoquín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "349,76 m²",
+          "is_correct": true,
+          "feedback": "Correcto. Plaza 20 × 20 = 400 menos fuente 3,14 × 16 = 50,24; 400 - 50,24 = 349,76 m²."
+        },
+        {
+          "letter": "B",
+          "text": "450,24 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor suma la fuente en vez de restarla."
+        },
+        {
+          "letter": "C",
+          "text": "50,24 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es solo el área de la fuente, que no se enchaqueta."
+        },
+        {
+          "letter": "D",
+          "text": "400 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el área total sin descontar la fuente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Área a enchaquetar = 20² - pi × 4² = 400 - 3,14 × 16 = 400 - 50,24 = 349,76 m².",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-7-2026-W26-regiones-sombreadas-areas-compuestas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W26-regiones-sombreadas-areas-compuestas-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el área total de la figura en forma de L?",
+      "context": "En Cartagena, una figura en forma de L se forma pegando un rectángulo de 10 cm por 4 cm con un cuadrado de 4 cm de lado en uno de sus extremos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "24 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor resta las áreas en vez de sumar las partes que forman la L."
+        },
+        {
+          "letter": "B",
+          "text": "56 cm²",
+          "is_correct": true,
+          "feedback": "Correcto. Las partes se suman sin traslapo: 10 × 4 = 40 más 4 × 4 = 16, total 56 cm²."
+        },
+        {
+          "letter": "C",
+          "text": "40 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es solo el área del rectángulo, falta el cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "64 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor supone un cuadrado de lado mayor al real."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una figura compuesta por partes que no se traslapan tiene área igual a la suma de las áreas: 40 + 16 = 56 cm².",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-7-2026-W26-regiones-sombreadas-areas-compuestas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W26-regiones-sombreadas-areas-compuestas-001-MASTERY-bundle-v6",
+      "statement": "¿Cuántos centímetros cuadrados de marco se pintan?",
+      "context": "En Bucaramanga, un marco de fotos rectangular mide 30 cm por 24 cm por fuera y su abertura interior mide 24 cm por 18 cm. El marco (la orla sombreada) se pinta de dorado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 152 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor multiplica las dimensiones externas con las internas, sin sentido geométrico."
+        },
+        {
+          "letter": "B",
+          "text": "288 cm²",
+          "is_correct": true,
+          "feedback": "Correcto. Área externa 30 × 24 = 720 menos abertura 24 × 18 = 432; 720 - 432 = 288 cm²."
+        },
+        {
+          "letter": "C",
+          "text": "432 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es el área de la abertura (la foto), que no se pinta."
+        },
+        {
+          "letter": "D",
+          "text": "720 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el rectángulo completo, sin descontar la abertura."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El marco es la región entre dos rectángulos: (30 × 24) - (24 × 18) = 720 - 432 = 288 cm² de superficie dorada.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-7-2026-W26-regiones-sombreadas-areas-compuestas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W26-regiones-sombreadas-areas-compuestas-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el área sembrada con grama?",
+      "context": "En Pereira, un jardín triangular de base 12 m y altura 8 m contiene un sendero rectangular de 6 m por 2 m sin pasto. El resto se siembra con grama.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "60 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor suma el sendero en vez de restarlo del triángulo."
+        },
+        {
+          "letter": "B",
+          "text": "36 m²",
+          "is_correct": true,
+          "feedback": "Correcto. Triángulo (12 × 8)/2 = 48 menos sendero 6 × 2 = 12; 48 - 12 = 36 m²."
+        },
+        {
+          "letter": "C",
+          "text": "48 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el jardín completo, sin descontar el sendero."
+        },
+        {
+          "letter": "D",
+          "text": "12 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es solo el área del sendero, que no lleva grama."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Área con grama = área del triángulo menos área del sendero = 48 - 12 = 36 m².",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-7-2026-W26-regiones-sombreadas-areas-compuestas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W26-regiones-sombreadas-areas-compuestas-001-MASTERY-bundle-v8",
+      "statement": "Usando pi = 3,14, ¿cuál es el área total del vidrio?",
+      "context": "En Manizales, una ventana tiene forma de rectángulo de 120 cm por 100 cm coronado por un semicírculo de 60 cm de radio sobre el lado superior. Toda la ventana lleva vidrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 348 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor usa el círculo completo en vez del semicírculo superior."
+        },
+        {
+          "letter": "B",
+          "text": "17 652 cm²",
+          "is_correct": true,
+          "feedback": "Correcto. Rectángulo 120 × 100 = 12 000 más semicírculo (3,14 × 3 600)/2 = 5 652; total 17 652 cm²."
+        },
+        {
+          "letter": "C",
+          "text": "12 000 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es solo el rectángulo, falta la parte semicircular."
+        },
+        {
+          "letter": "D",
+          "text": "23 304 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor duplica el semicírculo como si fuera un círculo entero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La figura compuesta suma sus partes: rectángulo 12 000 cm² más medio círculo de radio 60 (5 652 cm²), total 17 652 cm² de vidrio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-7-2026-W26-regiones-sombreadas-areas-compuestas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W26-regiones-sombreadas-areas-compuestas-001-MASTERY-bundle-v9",
+      "statement": "¿Es correcta la afirmación del contratista?",
+      "context": "En Villavicencio, un contratista afirma que en un cuadrado de 10 m de lado con un círculo inscrito de 5 m de radio, el área de las cuatro esquinas (lo que queda fuera del círculo) es menor que 22 m². Usa pi = 3,14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque 100 - 78,5 = 21,5 m², que es menor que 22 m²",
+          "is_correct": true,
+          "feedback": "Correcto. Cuadrado 10 × 10 = 100 menos círculo 3,14 × 25 = 78,5 da 21,5 m² en las esquinas."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque el área de las esquinas es 78,5 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. 78,5 m² es el área del círculo, no la de las esquinas."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque el círculo inscrito ocupa todo el cuadrado y no quedan esquinas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El círculo inscrito deja cuatro esquinas libres que sí tienen área."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque 100 + 78,5 = 178,5 m² supera ampliamente 22 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las áreas no se suman: las esquinas son el cuadrado menos el círculo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Esquinas = 10² - pi × 5² = 100 - 78,5 = 21,5 m². Como 21,5 < 22, la afirmación del contratista es correcta.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-7-2026-W26-regiones-sombreadas-areas-compuestas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W26-regiones-sombreadas-areas-compuestas-001-MASTERY-bundle-v10",
+      "statement": "¿Qué diseño deja mayor área de tela? Evalúe con cálculos.",
+      "context": "En Neiva, una Lomita deportiva compara dos diseños de logo: Diseño A, un cuadrado de 8 cm de lado con un triángulo interior de base 8 cm y altura 4 cm recortado; Diseño B, el mismo cuadrado con un rectángulo interior de 4 cm por 2 cm recortado. Gana el diseño que deje mayor área de tela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El A, porque al recortar un triángulo más grande queda más tela que con el rectángulo pequeño",
+          "is_correct": false,
+          "feedback": "Incorrecto. Recortar más deja MENOS tela: el triángulo quita 16 cm² y el rectángulo solo 8 cm²."
+        },
+        {
+          "letter": "B",
+          "text": "El B, porque deja 64 - 8 = 56 cm² frente a 64 - 16 = 48 cm² del A",
+          "is_correct": true,
+          "feedback": "Correcto. Ambos parten de 64 cm²; al recortar 8 frente a 16, el diseño B conserva más tela (56 > 48)."
+        },
+        {
+          "letter": "C",
+          "text": "El A, porque el triángulo siempre conserva más área que el rectángulo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay regla general así; aquí el triángulo recorta 16 cm², más que los 8 cm² del rectángulo."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos dejan lo mismo porque parten del mismo cuadrado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Partir del mismo cuadrado no iguala el resultado si los recortes difieren."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Tela restante = 64 menos recorte. Diseño A: 64 - 16 = 48 cm². Diseño B: 64 - 8 = 56 cm². El diseño B deja mayor área de tela.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-7-2026-W26-regiones-sombreadas-areas-compuestas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

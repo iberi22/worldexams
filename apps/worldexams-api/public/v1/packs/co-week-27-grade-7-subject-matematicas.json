@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-27-grade-7-subject-matematicas",
+    "generated_at": "2026-09-21T18:38:33.713Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-7-2026-W27-cilindros-volumen-capacidad-001-MASTERY-bundle-v1",
+      "statement": "¿Qué elementos forman un cilindro circular recto?",
+      "context": "En Bogotá, la profesora muestra una lata de gaseosa y un tubo de cartón para explicar las partes del cilindro circular recto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dos caras triangulares y tres caras rectangulares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa descripción corresponde a un prisma triangular, no a un cilindro."
+        },
+        {
+          "letter": "B",
+          "text": "Dos bases circulares paralelas e iguales unidas por una superficie lateral curva",
+          "is_correct": true,
+          "feedback": "Correcto. El cilindro tiene dos círculos como bases y una superficie lateral que las une."
+        },
+        {
+          "letter": "C",
+          "text": "Una sola base cuadrada y cuatro caras triangulares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe una pirámide de base cuadrada."
+        },
+        {
+          "letter": "D",
+          "text": "Seis caras cuadradas todas iguales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe un cubo, no un cilindro."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El cilindro circular recto está compuesto por dos bases que son círculos congruentes y paralelos, más la superficie lateral curva que los conecta. Su altura es la distancia entre las bases.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-7-2026-W27-cilindros-volumen-capacidad-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W27-cilindros-volumen-capacidad-001-MASTERY-bundle-v2",
+      "statement": "En la fórmula V = pi × r² × h, ¿qué representa la expresión pi × r²?",
+      "context": "En Medellín, un estudiante lee en su libro que el volumen de un cilindro se calcula con V = pi × r² × h.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El área de la base circular, que al multiplicarse por la altura da el volumen",
+          "is_correct": true,
+          "feedback": "Correcto. La base del cilindro es un círculo de área pi × r²; volumen = área de la base × altura."
+        },
+        {
+          "letter": "B",
+          "text": "El diámetro del cilindro elevado al cuadrado",
+          "is_correct": false,
+          "feedback": "Incorrecto. r es el radio (mitad del diámetro), no el diámetro."
+        },
+        {
+          "letter": "C",
+          "text": "La altura del cilindro medida dos veces",
+          "is_correct": false,
+          "feedback": "Incorrecto. La altura es h, que aparece una sola vez en la fórmula."
+        },
+        {
+          "letter": "D",
+          "text": "El perímetro de la base circular",
+          "is_correct": false,
+          "feedback": "Incorrecto. El perímetro del círculo es 2 × pi × r, una expresión distinta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El volumen de cualquier prisma o cilindro es el área de su base por su altura. Como la base es un círculo, su área es pi × r², y por eso V = pi × r² × h.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-7-2026-W27-cilindros-volumen-capacidad-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W27-cilindros-volumen-capacidad-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el volumen del tanque?",
+      "context": "En Cali, una cantina usa un tanque cilíndrico de 2 m de radio y 5 m de altura para almacenar agua. Usan pi = 3,14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "31,4 m³",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor usa el radio sin elevarlo al cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "62,8 m³",
+          "is_correct": true,
+          "feedback": "Correcto. V = 3,14 × 2² × 5 = 3,14 × 4 × 5 = 3,14 × 20 = 62,8 m³."
+        },
+        {
+          "letter": "C",
+          "text": "15,7 m³",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor olvida multiplicar por la altura del tanque."
+        },
+        {
+          "letter": "D",
+          "text": "125,6 m³",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor duplica el volumen correcto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "V = pi × r² × h = 3,14 × 4 × 5 = 62,8 m³. Como 1 m³ equivale a 1 000 litros, el tanque almacena 62 800 litros.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-7-2026-W27-cilindros-volumen-capacidad-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W27-cilindros-volumen-capacidad-001-MASTERY-bundle-v4",
+      "statement": "¿Cuántos metros cúbicos de agua caben en la alberca?",
+      "context": "En Barranquilla, una familia compra una alberca portátil cilíndrica de 3 m de radio y 1 m de altura. Usan pi = 3,14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "28,26 m³",
+          "is_correct": true,
+          "feedback": "Correcto. V = 3,14 × 3² × 1 = 3,14 × 9 = 28,26 m³."
+        },
+        {
+          "letter": "B",
+          "text": "9,42 m³",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor usa el radio sin elevarlo al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "18,84 m³",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor corresponde al área lateral aproximada, no al volumen."
+        },
+        {
+          "letter": "D",
+          "text": "56,52 m³",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor duplica el volumen correcto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "V = 3,14 × 9 × 1 = 28,26 m³. La alberca almacena 28 260 litros de agua.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-7-2026-W27-cilindros-volumen-capacidad-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W27-cilindros-volumen-capacidad-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el radio de la base del balde?",
+      "context": "En Cartagena, un balde cilíndrico tiene una capacidad de 37,68 litros y una altura de 30 cm. Recuerde que 1 litro = 1 000 cm³ y usen pi = 3,14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con radio 2 el volumen sería 3,14 × 4 × 30 = 376,8 cm³, muy por debajo de 37 680 cm³."
+        },
+        {
+          "letter": "B",
+          "text": "20 cm",
+          "is_correct": true,
+          "feedback": "Correcto. 37,68 litros = 37 680 cm³; r² = 37 680 ÷ (3,14 × 30) = 400, de donde r = 20 cm."
+        },
+        {
+          "letter": "C",
+          "text": "10 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con radio 10 el volumen sería 3,14 × 100 × 30 = 9 420 cm³, muy por debajo."
+        },
+        {
+          "letter": "D",
+          "text": "4 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con radio 4 el volumen sería 3,14 × 16 × 30 = 1 507,2 cm³, muy por debajo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se convierte a cm³: 37 680 = 3,14 × r² × 30. Entonces r² = 37 680 ÷ 94,2 = 400 y r = 20 cm. Verificación: 3,14 × 400 × 30 = 37 680 cm³.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-7-2026-W27-cilindros-volumen-capacidad-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W27-cilindros-volumen-capacidad-001-MASTERY-bundle-v6",
+      "statement": "Al analizar ambos volúmenes, ¿qué se puede concluir?",
+      "context": "En Bucaramanga, una empresa compara dos tanques: el tanque A tiene 2 m de radio y 9 m de altura; el tanque B tiene 3 m de radio y 4 m de altura. Usan pi = 3,14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El tanque A almacena más porque es más alto",
+          "is_correct": false,
+          "feedback": "Incorrecto. La altura por sí sola no decide: el radio pesa al cuadrado en la fórmula."
+        },
+        {
+          "letter": "B",
+          "text": "El tanque B almacena más porque su radio es mayor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque su radio es mayor, su altura es mucho menor y los volúmenes resultan iguales."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos almacenan lo mismo: 113,04 m³ cada uno",
+          "is_correct": true,
+          "feedback": "Correcto. A: 3,14 × 4 × 9 = 113,04. B: 3,14 × 9 × 4 = 113,04. Los factores se compensan."
+        },
+        {
+          "letter": "D",
+          "text": "El tanque A almacena el doble que el B",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los cálculos muestran volúmenes idénticos, no el doble."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Volumen A = 3,14 × 2² × 9 = 113,04 m³. Volumen B = 3,14 × 3² × 4 = 113,04 m³. Dimensiones distintas pueden producir el mismo volumen cuando los factores se compensan.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-7-2026-W27-cilindros-volumen-capacidad-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W27-cilindros-volumen-capacidad-001-MASTERY-bundle-v7",
+      "statement": "¿Qué ocurre con el volumen del vaso familiar respecto al vaso original?",
+      "context": "En Pereira, una fábrica de veladoras duplica el radio de sus vasos cilíndricos pero mantiene la misma altura para ofrecer un tamaño familiar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se cuadruplica, porque el radio aparece al cuadrado en la fórmula",
+          "is_correct": true,
+          "feedback": "Correcto. Si r pasa a 2r, el nuevo volumen es pi × (2r)² × h = 4 × pi × r² × h."
+        },
+        {
+          "letter": "B",
+          "text": "Se duplica, porque el radio se duplicó",
+          "is_correct": false,
+          "feedback": "Incorrecto. El volumen no crece en la misma proporción que el radio, sino con su cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "Queda igual, porque la altura no cambió",
+          "is_correct": false,
+          "feedback": "Incorrecto. La altura es solo uno de los factores; el radio también cambió."
+        },
+        {
+          "letter": "D",
+          "text": "Se divide entre dos, porque la cera rinde más",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aumentar el radio siempre aumenta el volumen, nunca lo reduce."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Como V depende de r², duplicar el radio multiplica el volumen por 2² = 4. En general, multiplicar el radio por k multiplica el volumen por k².",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-7-2026-W27-cilindros-volumen-capacidad-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W27-cilindros-volumen-capacidad-001-MASTERY-bundle-v8",
+      "statement": "¿Cuántos frascos completos de 5 litros se pueden llenar?",
+      "context": "En Manizales, un tubo de ensayo gigante (cilíndrico) tiene 10 cm de radio y 50 cm de altura. El laboratorio quiere repartir su contenido en frascos de 5 litros. Usan pi = 3,14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 frascos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese conteo subestima el volumen del tubo."
+        },
+        {
+          "letter": "B",
+          "text": "3 frascos",
+          "is_correct": true,
+          "feedback": "Correcto. V = 3,14 × 100 × 50 = 15 700 cm³ = 15,7 L; con 15,7 L se llenan 3 frascos de 5 L y sobran 0,7 L."
+        },
+        {
+          "letter": "C",
+          "text": "4 frascos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cuatro frascos requerirían 20 L y solo hay 15,7 L."
+        },
+        {
+          "letter": "D",
+          "text": "5 frascos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cinco frascos requerirían 25 L, muy por encima del contenido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tubo contiene 15 700 cm³ = 15,7 litros. Dividiendo 15,7 ÷ 5 = 3,14, se llenan 3 frascos completos y sobran 0,7 litros.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-7-2026-W27-cilindros-volumen-capacidad-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W27-cilindros-volumen-capacidad-001-MASTERY-bundle-v9",
+      "statement": "¿Es correcta la capacidad anunciada en la etiqueta?",
+      "context": "En Villavicencio, la etiqueta de un tanque cilíndrico de 4 dm de radio y 10 dm de altura anuncia una capacidad de 125,6 litros. Recuerde que 1 dm³ = 1 litro y usen pi = 3,14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque 3,14 × 4 × 10 = 125,6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese cálculo olvida elevar el radio al cuadrado; usa r en vez de r²."
+        },
+        {
+          "letter": "B",
+          "text": "No, la capacidad real es 502,4 litros, cuatro veces lo anunciado",
+          "is_correct": true,
+          "feedback": "Correcto. V = 3,14 × 4² × 10 = 3,14 × 160 = 502,4 litros; la etiqueta usó el radio sin elevarlo."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque el volumen siempre es menor que 200 litros en tanques caseros",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe tal regla; el volumen depende de las dimensiones reales."
+        },
+        {
+          "letter": "D",
+          "text": "No, la capacidad real es 1 256 litros porque falta multiplicar por 10",
+          "is_correct": false,
+          "feedback": "Incorrecto. La altura ya está incluida una vez; multiplicarla de nuevo duplicaría su efecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El error de la etiqueta fue usar r en lugar de r². El cálculo correcto es 3,14 × 16 × 10 = 502,4 litros, cuatro veces el valor anunciado.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-7-2026-W27-cilindros-volumen-capacidad-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W27-cilindros-volumen-capacidad-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál recipiente almacena más grano? Evalúe con los volúmenes.",
+      "context": "En Neiva, una cooperativa compara dos recipientes para almacenar grano: el recipiente A es cilíndrico de 5 m de radio y 12 m de altura; el recipiente B es una caja rectangular de 10 m por 10 m por 9 m. Usan pi = 3,14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El B, porque 10 × 10 × 9 = 900 es mayor que cualquier cilindro de esas medidas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay que calcular el cilindro antes de comparar: su volumen supera 900 m³."
+        },
+        {
+          "letter": "B",
+          "text": "El A, porque su volumen es 942 m³ frente a 900 m³ del B",
+          "is_correct": true,
+          "feedback": "Correcto. A: 3,14 × 25 × 12 = 942 m³. B: 10 × 10 × 9 = 900 m³. El cilindro almacena 42 m³ más."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos almacenan lo mismo porque tienen alturas parecidas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las alturas no son iguales (12 frente a 9) y las formas difieren; los volúmenes son 942 y 900."
+        },
+        {
+          "letter": "D",
+          "text": "El B, porque las cajas siempre aprovechan mejor el espacio que los cilindros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es una idea general sin fundamento en estos números concretos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Volumen A = 3,14 × 5² × 12 = 942 m³. Volumen B = 900 m³. La comparación numérica directa muestra que el recipiente cilíndrico A almacena más grano.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-7-2026-W27-cilindros-volumen-capacidad-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

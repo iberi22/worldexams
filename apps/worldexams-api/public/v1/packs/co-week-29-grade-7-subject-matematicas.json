@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-29-grade-7-subject-matematicas",
+    "generated_at": "2026-09-21T18:38:33.713Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-7-2026-W29-notacion-cientifica-magnitudes-001-MASTERY-bundle-v1",
+      "statement": "¿Qué forma tiene un número escrito en notación científica?",
+      "context": "En Bogotá, la profesora explica cómo los astrónomos escriben distancias enormes sin usar tantos ceros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un número entero cualquiera seguido de la palabra millones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es una expresión verbal, no la notación científica matemática."
+        },
+        {
+          "letter": "B",
+          "text": "Un coeficiente entre 1 y 10 (sin llegar a 10) multiplicado por una potencia de 10",
+          "is_correct": true,
+          "feedback": "Correcto. La forma es a × 10ⁿ con 1 ≤ a < 10 y n entero."
+        },
+        {
+          "letter": "C",
+          "text": "Una fracción con denominador 100",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe un porcentaje, no la notación científica."
+        },
+        {
+          "letter": "D",
+          "text": "Un número decimal cualquiera sin exponentes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin la potencia de 10 no hay notación científica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La notación científica escribe cualquier cantidad como a × 10ⁿ, donde el coeficiente a está entre 1 y 10 (1 ≤ a < 10) y n es un entero que indica cuántos lugares se corre la coma.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-7-2026-W29-notacion-cientifica-magnitudes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W29-notacion-cientifica-magnitudes-001-MASTERY-bundle-v2",
+      "statement": "En 3,4 × 10⁶, ¿qué indica el exponente 6?",
+      "context": "En Medellín, un estudiante escribe el número 3 400 000 como 3,4 × 10⁶ para su cartelera del sistema solar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la coma decimal se corrió 6 lugares hacia la izquierda para obtener 3,4",
+          "is_correct": true,
+          "feedback": "Correcto. El exponente positivo cuenta los lugares que se movió la coma desde el número original hasta el coeficiente."
+        },
+        {
+          "letter": "B",
+          "text": "Que el número 3,4 se multiplica 6 veces por sí mismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El exponente afecta al 10, no al coeficiente 3,4."
+        },
+        {
+          "letter": "C",
+          "text": "Que el número tiene 6 cifras decimales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 6 cuenta posiciones de la coma, no cifras decimales del resultado."
+        },
+        {
+          "letter": "D",
+          "text": "Que hay que sumarle 6 al número 3,4",
+          "is_correct": false,
+          "feedback": "Incorrecto. El exponente es una potencia de 10, no un sumando."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "10⁶ = 1 000 000 y 3,4 × 1 000 000 = 3 400 000. El exponente 6 indica que la coma se desplazó 6 posiciones desde 3 400 000 hasta 3,4.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-7-2026-W29-notacion-cientifica-magnitudes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W29-notacion-cientifica-magnitudes-001-MASTERY-bundle-v3",
+      "statement": "¿Cómo se escribe 0,00052 en notación científica?",
+      "context": "En Cali, el laboratorio reporta que una partícula de polvo mide 0,00052 metros de diámetro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "52 × 10⁻⁵",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente 52 no está entre 1 y 10."
+        },
+        {
+          "letter": "B",
+          "text": "5,2 × 10⁻⁴",
+          "is_correct": true,
+          "feedback": "Correcto. La coma se corre 4 lugares a la derecha: 0,00052 = 5,2 × 10⁻⁴."
+        },
+        {
+          "letter": "C",
+          "text": "5,2 × 10⁴",
+          "is_correct": false,
+          "feedback": "Incorrecto. El exponente positivo agrandaría el número en vez de achicarlo."
+        },
+        {
+          "letter": "D",
+          "text": "0,52 × 10⁻³",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente 0,52 es menor que 1 y no cumple la norma."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Con números menores que 1 la coma se corre a la derecha y el exponente es negativo. De 0,00052 a 5,2 hay 4 lugares: 5,2 × 10⁻⁴.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-7-2026-W29-notacion-cientifica-magnitudes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W29-notacion-cientifica-magnitudes-001-MASTERY-bundle-v4",
+      "statement": "¿A cuántas toneladas equivale 7,1 × 10⁵?",
+      "context": "En Barranquilla, un informe del puerto dice que en un mes pasaron 7,1 × 10⁵ toneladas de carga por la terminal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "710 000 toneladas",
+          "is_correct": true,
+          "feedback": "Correcto. 10⁵ = 100 000 y 7,1 × 100 000 = 710 000."
+        },
+        {
+          "letter": "B",
+          "text": "71 000 toneladas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor usa 10⁴ en vez de 10⁵."
+        },
+        {
+          "letter": "C",
+          "text": "7 100 000 toneladas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor usa 10⁶ en vez de 10⁵."
+        },
+        {
+          "letter": "D",
+          "text": "75 toneladas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor confunde el exponente con un sumando."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para desarrollar la notación se multiplica el coeficiente por la potencia: 7,1 × 100 000 = 710 000 toneladas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-7-2026-W29-notacion-cientifica-magnitudes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W29-notacion-cientifica-magnitudes-001-MASTERY-bundle-v5",
+      "statement": "¿Cómo se escribe 52 000 000 en notación científica?",
+      "context": "En Cartagena, el censo indica que Colombia tiene alrededor de 52 000 000 de habitantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "52 × 10⁶",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente 52 es mayor que 10 y no cumple la norma."
+        },
+        {
+          "letter": "B",
+          "text": "5,2 × 10⁷",
+          "is_correct": true,
+          "feedback": "Correcto. La coma se corre 7 lugares: 52 000 000 = 5,2 × 10 000 000 = 5,2 × 10⁷."
+        },
+        {
+          "letter": "C",
+          "text": "5,2 × 10⁶",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con exponente 6 se obtiene 5 200 000, diez veces menos."
+        },
+        {
+          "letter": "D",
+          "text": "0,52 × 10⁸",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente 0,52 es menor que 1 y no cumple la norma."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "De 52 000 000 a 5,2 la coma se desplaza 7 posiciones a la izquierda, así que el exponente es 7: 5,2 × 10⁷.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-7-2026-W29-notacion-cientifica-magnitudes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W29-notacion-cientifica-magnitudes-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál embalse almacena más agua?",
+      "context": "En Bucaramanga, dos embalses reportan su capacidad: el embalse Norte almacena 2,5 × 10⁶ m³ y el embalse Sur almacena 3,8 × 10⁵ m³.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Norte, porque 10⁶ es diez veces mayor que 10⁵ y 2,5 × 10⁶ = 2 500 000 supera a 380 000",
+          "is_correct": true,
+          "feedback": "Correcto. El exponente mayor domina: 2 500 000 m³ > 380 000 m³."
+        },
+        {
+          "letter": "B",
+          "text": "El Sur, porque 3,8 es mayor que 2,5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los coeficientes solo se comparan cuando los exponentes son iguales."
+        },
+        {
+          "letter": "C",
+          "text": "Almacenan lo mismo porque ambos usan potencias de 10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las potencias son distintas (10⁶ frente a 10⁵) y los valores difieren."
+        },
+        {
+          "letter": "D",
+          "text": "El Sur, porque el exponente menor significa un número más concentrado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un exponente menor con base 10 significa un número más pequeño, no más concentrado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con notación científica se compara primero el exponente: 6 > 5, así que 2,5 × 10⁶ (2 500 000) es mayor que 3,8 × 10⁵ (380 000) sin importar los coeficientes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-7-2026-W29-notacion-cientifica-magnitudes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W29-notacion-cientifica-magnitudes-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el total de operaciones en notación científica?",
+      "context": "En Pereira, un computador hace (2 × 10⁴) × (3 × 10³) operaciones en dos etapas de un cálculo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 × 10⁷",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese resultado suma los coeficientes en vez de multiplicarlos."
+        },
+        {
+          "letter": "B",
+          "text": "6 × 10⁷",
+          "is_correct": true,
+          "feedback": "Correcto. Se multiplican coeficientes (2 × 3 = 6) y se suman exponentes (4 + 3 = 7)."
+        },
+        {
+          "letter": "C",
+          "text": "6 × 10¹²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese resultado multiplica los exponentes en vez de sumarlos."
+        },
+        {
+          "letter": "D",
+          "text": "5 × 10¹²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese resultado suma coeficientes y multiplica exponentes, ambas operaciones mal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la multiplicación de potencias de igual base se suman los exponentes: (2 × 3) × 10⁴⁺³ = 6 × 10⁷ operaciones.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-7-2026-W29-notacion-cientifica-magnitudes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W29-notacion-cientifica-magnitudes-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de las dos medidas es mayor?",
+      "context": "En Manizales, el microscopio mide una bacteria de 3 × 10⁻⁶ m y el grosor de un cabello de 8 × 10⁻⁵ m.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La bacteria, porque 3 es menor que 8 y lo pequeño domina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con exponentes negativos, el número mayor es el de exponente menos negativo."
+        },
+        {
+          "letter": "B",
+          "text": "El cabello, porque 10⁻⁵ es diez veces mayor que 10⁻⁶",
+          "is_correct": true,
+          "feedback": "Correcto. -5 > -6, así que 8 × 10⁻⁵ m (0,00008 m) supera a 3 × 10⁻⁶ m (0,000003 m)."
+        },
+        {
+          "letter": "C",
+          "text": "Son iguales porque ambas usan potencias negativas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las potencias negativas difieren y también los coeficientes."
+        },
+        {
+          "letter": "D",
+          "text": "La bacteria, porque el exponente -6 tiene mayor valor absoluto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor absoluto del exponente no decide; con base 10, a exponente más negativo corresponde un número menor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Con exponentes negativos rige el mismo orden: se compara el exponente primero. Como -5 > -6, el cabello (8 × 10⁻⁵) es mayor que la bacteria (3 × 10⁻⁶).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-7-2026-W29-notacion-cientifica-magnitudes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W29-notacion-cientifica-magnitudes-001-MASTERY-bundle-v9",
+      "statement": "¿Es correcta la afirmación del estudiante?",
+      "context": "En Villavicencio, un estudiante escribe 45 000 como 45 × 10³ y afirma que ya está en notación científica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, porque el coeficiente 45 no está entre 1 y 10; lo correcto es 4,5 × 10⁴",
+          "is_correct": true,
+          "feedback": "Correcto. 45 × 10³ vale 45 000 pero viola la norma del coeficiente; se ajusta a 4,5 × 10⁴."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque 45 × 1 000 = 45 000 y el resultado coincide",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que el valor coincida no basta: la notación científica exige coeficiente entre 1 y 10."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque 45 000 debería escribirse como 45 × 10⁴",
+          "is_correct": false,
+          "feedback": "Incorrecto. 45 × 10⁴ = 450 000, diez veces más que el número original."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, porque cualquier producto con potencia de 10 es notación científica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta la condición del coeficiente: debe cumplir 1 ≤ a < 10."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El valor numérico es correcto pero la forma no: 45 no está entre 1 y 10. Se corre una posición: 45 × 10³ = 4,5 × 10⁴, que sí es notación científica.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-7-2026-W29-notacion-cientifica-magnitudes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W29-notacion-cientifica-magnitudes-001-MASTERY-bundle-v10",
+      "statement": "¿Es correcta la afirmación del estudiante?",
+      "context": "En Neiva, una calculadora muestra (4 × 10⁶) ÷ (8 × 10²) y un estudiante afirma que el resultado es 5 × 10⁴.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque 4 ÷ 8 = 0,5 y 10⁶ ÷ 10² = 10⁴, y 0,5 × 10⁴ = 5 × 10⁴",
+          "is_correct": false,
+          "feedback": "Incorrecto. El paso final está mal: 0,5 × 10⁴ = 5 000 = 5 × 10³, no 5 × 10⁴."
+        },
+        {
+          "letter": "B",
+          "text": "No, el resultado correcto es 5 × 10³ porque 0,5 × 10⁴ se ajusta a 5 × 10³",
+          "is_correct": true,
+          "feedback": "Correcto. (4 ÷ 8) × 10⁶⁻² = 0,5 × 10⁴ = 5 × 10³. El estudiante no normalizó el coeficiente."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque al dividir se restan los coeficientes: 8 - 4 = 4 y queda 5 × 10⁴",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los coeficientes se dividen, no se restan."
+        },
+        {
+          "letter": "D",
+          "text": "No, el resultado correcto es 2 × 10³ porque 8 ÷ 4 = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden de la división es 4 ÷ 8, no 8 ÷ 4."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "(4 × 10⁶) ÷ (8 × 10²) = (4 ÷ 8) × 10⁴ = 0,5 × 10⁴. Como el coeficiente debe estar entre 1 y 10, se normaliza: 0,5 × 10⁴ = 5 × 10³. La afirmación es incorrecta.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-7-2026-W29-notacion-cientifica-magnitudes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}
