@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-29-grade-7-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T10:30:58.548Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-7-2026-W29-energias-renovables-colombia-001-MASTERY-bundle-v1",
+      "statement": "¿Qué caracteriza a una fuente de energía renovable?",
+      "context": "En un colegio de Riohacha, La Guajira, la profesora muestra fotos del Sol wayuu, del viento fuerte de la península y de un camión con carbón para preguntar cuáles fuentes se reponen solas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que se agota para siempre después de usarla una sola vez en la casa.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque esa descripción corresponde a un recurso que se agota y no se repone."
+        },
+        {
+          "letter": "B",
+          "text": "Que se repone de forma natural en poco tiempo, como la luz solar, el viento y el agua en movimiento.",
+          "is_correct": true,
+          "feedback": "Correcta, porque define lo renovable por su reposición natural continua en escala humana."
+        },
+        {
+          "letter": "C",
+          "text": "Que solo funciona con gasolina importada y produce humo negro siempre.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la gasolina es un combustible fósil no renovable y contamina al quemarse."
+        },
+        {
+          "letter": "D",
+          "text": "Que necesita pilas desechables para encender el Sol cada mañana en La Guajira.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el Sol brilla por procesos naturales y no se enciende con pilas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las fuentes renovables se regeneran en ciclos cortos: el Sol sale cada día, el viento sopla por diferencias de presión y el agua circula en el ciclo hidrológico. Las no renovables, como el carbón, el gas y el petróleo, tardaron millones de años en formarse y se agotan al ritmo actual de consumo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-7-2026-W29-energias-renovables-colombia-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W29-energias-renovables-colombia-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la diferencia entre usar gas de cilindro y usar un colector solar para calentar agua?",
+      "context": "En una vereda de Boyacá, dos familias comparan su energía: una cocina con gas de cilindro y otra calienta el agua con un colector solar negro en el techo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El gas es un combustible no renovable que se quema y se agota, mientras el colector aprovecha una fuente renovable que llega cada día.",
+          "is_correct": true,
+          "feedback": "Correcta, porque distingue combustión de un fósil agotable del aprovechamiento directo del Sol."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos son renovables porque el cilindro se rellena en la tienda y el Sol también se recarga.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque rellenar un cilindro no regenera el gas fósil extraído del subsuelo."
+        },
+        {
+          "letter": "C",
+          "text": "El colector solar quema más humo que el gas y por eso contamina el doble.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el colector calienta sin combustión y no emite humo durante su uso."
+        },
+        {
+          "letter": "D",
+          "text": "El gas viene del Sol de la semana pasada y el colector viene del carbón de Boyacá.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque invierte el origen: el gas es fósil antiguo y el colector usa radiación actual."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El gas de cilindro proviene de yacimientos fósiles que se vacían con el uso. El colector solar capta radiación que llega a diario y la convierte en calor sin quemar nada. Por eso el colector reduce compras de combustible y emisiones dentro de la vivienda.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-7-2026-W29-energias-renovables-colombia-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W29-energias-renovables-colombia-001-MASTERY-bundle-v3",
+      "statement": "¿Qué transformación de energía ocurre en un aerogenerador de La Guajira cuando hay buen viento?",
+      "context": "La alcaldía de Uribia, La Guajira, quiere instalar aerogeneradores porque en la península soplan vientos fuertes y constantes durante gran parte del año.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía química del viento se convierte en gasolina para las camionetas de Uribia.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el viento no contiene gasolina ni se transforma en combustible líquido."
+        },
+        {
+          "letter": "B",
+          "text": "Energía solar del mediodía se convierte en lluvia que llena los jagüeyes wayuu.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el aerogenerador usa el movimiento del aire, no fabrica lluvia."
+        },
+        {
+          "letter": "C",
+          "text": "Energía nuclear de las aspas se convierte en vapor que hace girar las nubes.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque las aspas no son material nuclear ni producen vapor para mover nubes."
+        },
+        {
+          "letter": "D",
+          "text": "Energía cinética del viento se convierte en movimiento de las aspas y luego en energía eléctrica.",
+          "is_correct": true,
+          "feedback": "Correcta, porque describe la cadena del aire en movimiento al giro y al generador eléctrico."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las aspas frenan el aire y capturan su energía de movimiento. El eje hace girar un generador que produce corriente eléctrica. Por eso los parques eólicos se ubican donde el viento es fuerte y constante, como la alta Guajira donde opera el parque Jepírachi.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-7-2026-W29-energias-renovables-colombia-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W29-energias-renovables-colombia-001-MASTERY-bundle-v4",
+      "statement": "¿Cómo se transforma la energía en la central hidroeléctrica que visitan los estudiantes?",
+      "context": "Los estudiantes de Guatapé, Antioquia, visitan el embalse y observan el agua quieta arriba y las turbinas girando con fuerza en la casa de máquinas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía potencial del agua embalsada se convierte en cinética al caer y después en eléctrica en el generador.",
+          "is_correct": true,
+          "feedback": "Correcta, porque sigue la cadena desde la altura del embalse hasta la turbina y el generador."
+        },
+        {
+          "letter": "B",
+          "text": "Energía eólica de las montañas se convierte en carbón para las cocinas del pueblo.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la central usa la caída del agua y no produce carbón con el viento."
+        },
+        {
+          "letter": "C",
+          "text": "Energía eléctrica del río se convierte en agua que sube sola hasta el embalse.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el río no trae electricidad y el agua no sube sola sin bombeo."
+        },
+        {
+          "letter": "D",
+          "text": "Energía del Sol sobre el embalse se convierte en viento que mueve las lanchas.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la central aprovecha la altura y la caída del agua, no ese efecto secundario."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El agua almacenada en altura guarda energía potencial. Al caer por los túneles gana velocidad y golpea las turbinas con energía cinética. El generador convierte ese giro en electricidad que viaja por las redes a Medellín y al resto del país. Colombia obtiene gran parte de su electricidad de esta fuente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W29-energias-renovables-colombia-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W29-energias-renovables-colombia-001-MASTERY-bundle-v5",
+      "statement": "¿Por qué el bagazo de caña se considera una fuente de biomasa aprovechable y no simplemente basura?",
+      "context": "En un ingenio del Valle del Cauca, después de moler la caña quedan montañas de bagazo que antes se botaban y ahora se queman en calderas para producir electricidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el bagazo es plástico importado que nunca se descompone en el Valle.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el bagazo es fibra vegetal de la caña y sí es biodegradable."
+        },
+        {
+          "letter": "B",
+          "text": "Porque guarda energía química de la fotosíntesis que se libera como calor y electricidad al quemarse de forma controlada.",
+          "is_correct": true,
+          "feedback": "Correcta, porque reconoce el origen solar de la biomasa y su uso energético en calderas."
+        },
+        {
+          "letter": "C",
+          "text": "Porque al enterrarlo produce petróleo en una semana para los carros del ingenio.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el petróleo necesita millones de años y condiciones distintas para formarse."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el bagazo genera viento por sí solo y mueve aerogeneradores sin quemarse.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el bagazo quieto no produce viento capaz de mover turbinas eólicas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La caña guarda en su fibra la energía solar captada en la fotosíntesis. Al quemar el bagazo en calderas se libera calor que genera vapor y mueve turbinas. Es un ejemplo de economía circular colombiana: un residuo del azúcar se vuelve electricidad para el ingenio y a veces para la red.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-7-2026-W29-energias-renovables-colombia-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W29-energias-renovables-colombia-001-MASTERY-bundle-v6",
+      "statement": "¿Qué análisis explica por qué un país con muchas hidroeléctricas necesita ahorrar y diversificar en tiempos de sequía?",
+      "context": "Durante un fenómeno de El Niño fuerte, los embalses del interior bajan mucho, las noticias de Bucaramanga hablan de ahorro de energía y de encender plantas térmicas de respaldo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque las hidroeléctricas fabrican lluvia y sin lluvia dejan de llover para siempre.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque las centrales no fabrican lluvia y la sequía es un fenómeno climático más amplio."
+        },
+        {
+          "letter": "B",
+          "text": "Porque con poca agua embalsada baja la generación y se necesita complementar con sol, viento y ahorro para sostener el servicio.",
+          "is_correct": true,
+          "feedback": "Correcta, porque relaciona nivel del embalse con energía disponible y justifica la diversificación."
+        },
+        {
+          "letter": "C",
+          "text": "Porque en sequía los cables de cobre se derriten y no se puede transportar ninguna energía.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque los cables no se derriten por la sequía y el problema es la falta de agua turbinable."
+        },
+        {
+          "letter": "D",
+          "text": "Porque El Niño apaga el Sol y detiene el viento en todo el país al mismo tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque El Niño altera lluvias y vientos, pero no apaga el Sol sobre Colombia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La hidroelectricidad depende del agua almacenada. En sequías prolongadas, los embalses bajan y generan menos. Por eso Colombia combina hidro con solar, eólica y térmica de respaldo, además de campañas de ahorro. Diversificar la matriz reduce apagones cuando falla una sola fuente.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W29-energias-renovables-colombia-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W29-energias-renovables-colombia-001-MASTERY-bundle-v7",
+      "statement": "¿Qué análisis compara mejor el panel solar con una pequeña central de agua de la quebrada para la escuela?",
+      "context": "Una escuela rural de Nariño registra su panel solar: al mediodía despejado produce mucho, al atardecer produce poco y de noche nada, mientras la quebrada cercana corre de forma estable día y noche.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El panel produce igual de día y de noche porque guarda el Sol en su vidrio para siempre.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el panel necesita luz en el momento y de noche su producción cae a cero."
+        },
+        {
+          "letter": "B",
+          "text": "El panel es intermitente según la nubosidad y la hora, mientras la pequeña central de agua entrega un flujo más continuo si el caudal se mantiene.",
+          "is_correct": true,
+          "feedback": "Correcta, porque contrasta intermitencia solar con estabilidad del flujo de agua."
+        },
+        {
+          "letter": "C",
+          "text": "La quebrada solo sirve de noche porque de día el agua se esconde bajo las piedras.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el caudal de la quebrada no desaparece cada mediodía por arte de magia."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas fuentes son idénticas porque el agua y la luz son el mismo fenómeno físico.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque una usa radiación y la otra usa altura y movimiento del agua."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La energía solar es intermitente: depende de la hora y las nubes. Las pequeñas centrales hidroeléctricas dan potencia firme si la quebrada mantiene caudal, pero exigen cuidar la cuenca para no secarla. Por eso muchas escuelas combinan paneles con baterías o con microcentrales para tener luz en la noche.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-7-2026-W29-energias-renovables-colombia-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W29-energias-renovables-colombia-001-MASTERY-bundle-v8",
+      "statement": "¿Qué combinación garantiza mejor el servicio eléctrico en los tres días para una finca del Cesar?",
+      "context": "En el Cesar, los estudiantes comparan una tabla de tres días: día soleado con viento fuerte, día nublado con viento fuerte y noche despejada con brisa suave, y anotan cuánta energía darían paneles y aerogeneradores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo paneles sin baterías porque de noche los paneles producen más que de día.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque sin luz los paneles no generan y la finca quedaría a oscuras."
+        },
+        {
+          "letter": "B",
+          "text": "Solo diésel traído desde lejos porque el sol y el viento nunca sirven en el Cesar.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el Cesar tiene excelente recurso solar y eólico para aprovechar."
+        },
+        {
+          "letter": "C",
+          "text": "Paneles más aerogenerador con baterías, porque cuando falla una fuente la otra o la reserva sostienen el consumo.",
+          "is_correct": true,
+          "feedback": "Correcta, porque la combinación con almacenamiento cubre día, noche y cambios de clima."
+        },
+        {
+          "letter": "D",
+          "text": "Desconectar todo porque ninguna combinación de fuentes puede encender un solo bombillo.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque miles de fincas colombianas ya se iluminan con sistemas mixtos pequeños."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Ninguna renovable sola es perfecta: el sol falta de noche y el viento cambia por horas. Al combinar solar con eólica y guardar excedentes en baterías, los huecos de una fuente los cubre la otra. Ese diseño híbrido es clave en zonas no interconectadas de Colombia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-7-2026-W29-energias-renovables-colombia-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W29-energias-renovables-colombia-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la mejor evaluación de las dos opciones para la isla?",
+      "context": "Un hotel pequeño de San Andrés con 40000000 COP evalúa dos planes: seguir con planta diésel traída en barco o instalar paneles solares con baterías y un aerogenerador pequeño.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El diésel es mejor porque el humo limpia el aire marino y el ruido ayuda a dormir.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el humo contamina y el ruido afecta la salud y el turismo."
+        },
+        {
+          "letter": "B",
+          "text": "El sistema solar con baterías y apoyo eólico es mejor porque usa recursos locales, evita traer combustible y reduce humo y ruido.",
+          "is_correct": true,
+          "feedback": "Correcta, porque pondera costo de combustible importado, contaminación y abundancia de sol y brisa en la isla."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas opciones son iguales porque los paneles queman diésel igual que la planta.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque los paneles no queman combustible durante su operación."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna sirve porque en San Andrés nunca sale el Sol ni sopla la brisa.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la isla tiene alta radiación solar y vientos alisios aprovechables."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En islas, el diésel es costoso porque viaja en barco y su humo daña arrecifes y salud. El sol y la brisa son locales y gratuitos en la operación, aunque piden inversión inicial y baterías para la noche. Evaluar incluye combustible, transporte, ambiente y autonomía, no solo el precio de compra.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-7-2026-W29-energias-renovables-colombia-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W29-energias-renovables-colombia-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la evaluación científica correcta de esas dos afirmaciones?",
+      "context": "En Tunja circula una cadena con dos afirmaciones: que los paneles solares producen la misma energía de noche que de día y que las hidroeléctricas no alteran en nada los ríos ni las comunidades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambas son verdaderas porque los paneles guardan luz infinita y las represas no tocan el río.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque los paneles necesitan luz y toda represa modifica el cauce y el entorno."
+        },
+        {
+          "letter": "B",
+          "text": "Solo es verdadera la primera, porque la Luna reemplaza al Sol con igual potencia.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la luz lunar es miles de veces más débil y no sostiene la misma producción."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas son falsas como regla general, aunque las hidroeléctricas emiten menos gases que las térmicas al operar.",
+          "is_correct": true,
+          "feedback": "Correcta, porque reconoce la intermitencia solar y los impactos reales de embalses con matices."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas son verdaderas en Boyacá porque la altura elimina las leyes de la energía.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque las leyes físicas aplican igual en Tunja y en cualquier lugar del mundo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los paneles dependen de la radiación: de noche no generan y con nubes generan menos. Las hidroeléctricas evitan quemar combustible al operar, pero inundan tierras, cambian el río y desplazan actividades. Evaluar con rigor evita el mito de la energía perfecta y ayuda a exigir buenos diseños con menor impacto.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.45,
+      "bundle_id": "CO-CN-7-2026-W29-energias-renovables-colombia-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

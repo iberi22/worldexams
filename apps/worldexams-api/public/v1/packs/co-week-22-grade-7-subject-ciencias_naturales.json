@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-22-grade-7-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T10:30:58.543Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-7-2026-W22-sistema-oseo-muscular-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es una función principal del sistema óseo en el cuerpo humano?",
+      "context": "En una clase de educación física en Medellín, el profesor muestra una maqueta del esqueleto y pregunta para qué sirve sostener el cuerpo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sostener el cuerpo, proteger órganos internos y permitir el movimiento junto con los músculos.",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: el esqueleto da soporte, protege órganos como el cerebro y el corazón, y sirve de palanca para los músculos."
+        },
+        {
+          "letter": "B",
+          "text": "Bombear la sangre desde el corazón hacia los pulmones de Medellín.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: bombear sangre es función del corazón y del sistema circulatorio, no de los huesos."
+        },
+        {
+          "letter": "C",
+          "text": "Producir los impulsos eléctricos que ordenan pensar y recordar.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: los impulsos eléctricos los generan las neuronas del sistema nervioso, no los huesos."
+        },
+        {
+          "letter": "D",
+          "text": "Digerir el arroz y los fríjoles para obtener energía en el recreo.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: la digestión la realiza el sistema digestivo, no el sistema óseo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El sistema óseo forma el esqueleto: 206 huesos en el adulto que sostienen el cuerpo, protegen órganos delicados como el cerebro dentro del cráneo y los pulmones dentro de las costillas, y sirven como palancas donde se sujetan los músculos para producir movimiento. Además, la médula ósea produce células de la sangre.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-7-2026-W22-sistema-oseo-muscular-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W22-sistema-oseo-muscular-001-MASTERY-bundle-v2",
+      "statement": "¿Qué diferencia existe entre un hueso, un músculo y una articulación?",
+      "context": "En un colegio de Bogotá, dos estudiantes discuten si la rodilla es un hueso, un músculo o una unión que permite doblar la pierna.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son lo mismo porque todos duelen cuando un estudiante de Bogotá corre mucho.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: aunque los tres participan en el movimiento, tienen estructuras y funciones diferentes."
+        },
+        {
+          "letter": "B",
+          "text": "El hueso es rígido y sostiene, el músculo se contrae y genera fuerza, y la articulación es la unión móvil entre huesos.",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: distingue soporte rígido, contracción activa y punto de unión con movimiento."
+        },
+        {
+          "letter": "C",
+          "text": "El músculo es rígido, el hueso se contrae y la articulación bombea sangre.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: invierte las propiedades, pues el hueso no se contrae y la articulación no bombea sangre."
+        },
+        {
+          "letter": "D",
+          "text": "La articulación sostiene sola el cuerpo y los huesos solo sirven para producir calor.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el soporte lo da el hueso y el calor corporal proviene sobre todo de la actividad muscular."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El hueso es un tejido duro con calcio que sostiene. El músculo esquelético es un tejido blando que se acorta al contraerse y tira del hueso. La articulación, como la rodilla o el codo, es la zona donde dos huesos se unen con cartílago y ligamentos para permitir el giro o la flexión sin que los huesos choquen directamente.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-7-2026-W22-sistema-oseo-muscular-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W22-sistema-oseo-muscular-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué el yeso ayuda a que una fractura sane correctamente?",
+      "context": "En Cali, un niño se cae de la bicicleta y el médico dice que tiene una fractura en el antebrazo y le coloca un yeso durante varias semanas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el yeso disuelve el hueso roto y fabrica uno nuevo con panela calena.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el yeso no disuelve ni fabrica hueso, solo lo mantiene quieto."
+        },
+        {
+          "letter": "B",
+          "text": "Porque inmoviliza los fragmentos en su posición para que las células óseas puedan unirlos de nuevo.",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: la inmovilidad permite que el tejido óseo forme el callo y suelde la fractura alineada."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el yeso calienta tanto el brazo que el dolor desaparece para siempre.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el yeso no cura con calor y el dolor requiere manejo médico, no solo temperatura."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el yeso reemplaza al músculo y permite seguir jugando fútbol sin reposo.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: con fractura se necesita reposo médico, y el yeso no reemplaza la función muscular."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando un hueso se fractura, las células óseas necesitan semanas para formar un puente de hueso nuevo llamado callo óseo. Si los fragmentos se mueven, el puente queda torcido o no se forma. El yeso inmoviliza la zona y mantiene los fragmentos alineados, mientras una buena alimentación con calcio y vitamina D apoya la reparación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-7-2026-W22-sistema-oseo-muscular-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W22-sistema-oseo-muscular-001-MASTERY-bundle-v4",
+      "statement": "¿Qué hábito protege mejor la columna y los músculos de la espalda al cargar el morral?",
+      "context": "En un colegio de Bucaramanga, muchos estudiantes cargan morrales muy pesados en un solo hombro y al final del día sienten dolor de espalda y hombros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cargar todo el peso en un solo hombro para fortalecer solo ese lado del cuerpo.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: cargar en un solo lado tuerce la columna y sobrecarga músculos y articulaciones."
+        },
+        {
+          "letter": "B",
+          "text": "Repartir el peso con ambas correas, llevar solo lo necesario y ajustar el morral pegado a la espalda.",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: distribuye la carga, mantiene la columna recta y evita sobrecarga muscular."
+        },
+        {
+          "letter": "C",
+          "text": "Arrastrar el morral por el piso con los cordones para no usar la espalda.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: arrastrar daña el morral y obliga a posturas forzadas que también lesionan."
+        },
+        {
+          "letter": "D",
+          "text": "Cargar el morral en la cabeza todos los días sin importar su peso.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: cargar peso excesivo en la cabeza comprime las vértebras del cuello y es peligroso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La columna está formada por vértebras con discos que amortiguan el peso. Un morral pesado en un solo hombro inclina la columna y obliga a los músculos de un lado a trabajar de más, lo que causa dolor y mala postura. Usar ambas correas, reducir el peso a lo esencial y mantener la espalda recta cuida huesos, músculos y articulaciones.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W22-sistema-oseo-muscular-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W22-sistema-oseo-muscular-001-MASTERY-bundle-v5",
+      "statement": "¿Qué explicación y acción son correctas frente a los calambres musculares por ejercicio y calor?",
+      "context": "En una escuela de fútbol en Barranquilla, una jugadora siente calambres en las piernas después de entrenar bajo el sol sin tomar agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El músculo se rompe siempre con el calor y se debe seguir entrenando sin agua para acostumbrarse.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el calambre común es una contracción involuntaria por fatiga y deshidratación, y entrenar sin agua agrava el riesgo."
+        },
+        {
+          "letter": "B",
+          "text": "Los calambres los causa el frío de Barranquilla y se quitan comiendo solo dulce de guayaba.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: Barranquilla es cálida y el dulce solo no repone el agua y las sales perdidas con el sudor."
+        },
+        {
+          "letter": "C",
+          "text": "El músculo se contrae de forma involuntaria por fatiga y pérdida de agua y sales, por lo que conviene hidratarse, estirar y descansar.",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: relaciona sudor, fatiga y contracción sostenida con hidratación, estiramiento y pausa."
+        },
+        {
+          "letter": "D",
+          "text": "Los calambres son fracturas pequeñas y se curan con un yeso en la pierna durante un mes.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el calambre es muscular y temporal, no una fractura ósea que requiera yeso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El músculo se contrae cuando recibe la orden nerviosa y necesita agua y sales minerales como sodio y potasio para relajarse después. Con ejercicio intenso y calor se pierde mucho sudor, el músculo se fatiga y queda contraído con dolor. Tomar agua, descansar, estirar suavemente y calentar antes de jugar previenen los calambres.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-7-2026-W22-sistema-oseo-muscular-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W22-sistema-oseo-muscular-001-MASTERY-bundle-v6",
+      "statement": "¿Por qué el desgaste del cartílago en la rodilla produce dolor y dificultad para moverse?",
+      "context": "En un hospital de Pasto, el médico muestra a dos pacientes la radiografía de una rodilla sana y la de una rodilla con desgaste del cartílago por artrosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el cartílago produce sangre y sin sangre la pierna de Pasto deja de moverse.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: la sangre la produce la médula ósea, no el cartílago articular."
+        },
+        {
+          "letter": "B",
+          "text": "Porque sin el cartílago que amortigua y suaviza, los huesos rozan entre sí y el movimiento duele y se limita.",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: el cartílago evita el roce directo y distribuye la carga en la articulación."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el cartílago es un músculo que al gastarse deja de contraerse en la rodilla.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el cartílago es tejido liso y flexible, no un músculo que se contrae."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el desgaste del cartílago convierte la rodilla en un hueso más largo cada año.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el desgaste reduce la protección articular, no alarga el hueso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El cartílago articular es una capa lisa que cubre los extremos de los huesos en la rodilla. Actúa como almohadilla y superficie deslizante. Cuando se desgasta, los huesos chocan, aparece inflamación y el espacio articular se reduce en la radiografía. Por eso duelen los movimientos como subir escaleras y se recomienda mantener peso saludable y fortalecer los músculos que sostienen la rodilla.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W22-sistema-oseo-muscular-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W22-sistema-oseo-muscular-001-MASTERY-bundle-v7",
+      "statement": "¿Qué demuestra el ejemplo del bíceps y el tríceps sobre cómo producen movimiento los músculos?",
+      "context": "En un gimnasio escolar de Pereira, el entrenador explica que para doblar el codo el bíceps se acorta mientras el tríceps se relaja, y al estirar ocurre lo contrario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que un solo músculo empuja el hueso como si fuera una vara de guadua en Pereira.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: los músculos esqueléticos solo tiran al contraerse, no empujan el hueso."
+        },
+        {
+          "letter": "B",
+          "text": "Que los músculos trabajan en parejas opuestas: cuando uno se contrae, el otro se relaja para permitir el movimiento.",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: describe el par antagónico flexor y extensor que controla el codo."
+        },
+        {
+          "letter": "C",
+          "text": "Que los huesos se doblan solos y los músculos solo sirven para dar calor al brazo.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: los huesos son rígidos y no se doblan, el movimiento nace de la tracción muscular."
+        },
+        {
+          "letter": "D",
+          "text": "Que el bíceps y el tríceps se contraen siempre al tiempo con la misma fuerza.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: si ambos se contrajeran igual, el brazo quedaría rígido y no se movería."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los músculos esqueléticos solo pueden tirar, no empujar. Por eso están organizados en pares antagónicos unidos por tendones a huesos distintos. Al doblar el codo, el bíceps se contrae y tira del antebrazo mientras el tríceps se estira. Al extender, los papeles se invierten. Esta coordinación permite movimientos suaves y precisos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-7-2026-W22-sistema-oseo-muscular-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W22-sistema-oseo-muscular-001-MASTERY-bundle-v8",
+      "statement": "¿Qué relación existe entre el calcio, la vitamina D y la fortaleza de los huesos?",
+      "context": "En una vereda de Boyacá, una niña toma poca leche y pasa poco tiempo al sol, y el médico advierte que sus huesos podrían quedar débiles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El calcio debilita los huesos y la vitamina D sobra si la niña de Boyacá come papa todos los días.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el calcio es el mineral que endurece el hueso y la papa sola no aporta suficiente vitamina D."
+        },
+        {
+          "letter": "B",
+          "text": "El calcio forma la parte dura del hueso y la vitamina D ayuda al cuerpo a absorber ese calcio.",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: conecta el material de construcción con la ayuda necesaria para aprovecharlo."
+        },
+        {
+          "letter": "C",
+          "text": "La vitamina D reemplaza al calcio y por eso no hace falta tomar leche ni comer queso.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: la vitamina D no reemplaza al calcio, solo facilita su absorción."
+        },
+        {
+          "letter": "D",
+          "text": "El calcio solo sirve para los dientes y nunca llega a los huesos de las piernas.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el calcio mineraliza tanto dientes como huesos de todo el esqueleto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los huesos son tejido vivo con una matriz dura de calcio y fósforo. La leche, el queso, el yogur y algunas verduras aportan calcio. La vitamina D, que la piel fabrica con la luz del sol, permite que el intestino absorba ese calcio. Sin ambos, los huesos quedan blandos en niños y frágiles en adultos, por eso se recomiendan dieta variada y actividad física al aire libre.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-7-2026-W22-sistema-oseo-muscular-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W22-sistema-oseo-muscular-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál propuesta evalúa mejor el problema y previene lesiones del sistema óseo y muscular?",
+      "context": "Un colegio de Cartagena quiere reducir las lesiones en el recreo: esguinces de tobillo, caídas y dolores de espalda por cargar maletas pesadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prohibir todo juego en el recreo y obligar a cargar maletas de 15 kilos en una mano.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: impedir el movimiento daña la salud y el peso excesivo aumenta fracturas y lesiones."
+        },
+        {
+          "letter": "B",
+          "text": "Repartir pastillas de calcio a todos sin diagnóstico y permitir juegos bruscos sin calentamiento.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: medicar sin control médico es riesgoso y jugar sin calentamiento eleva esguinces y desgarros."
+        },
+        {
+          "letter": "C",
+          "text": "Calentamiento guiado, canchas sin huecos, casilleros para aligerar maletas y campañas de buena postura.",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: ataca las causas con prevención, entorno seguro y hábitos sostenibles."
+        },
+        {
+          "letter": "D",
+          "text": "Pedir que solo jueguen los más fuertes y que los demás miren sentados todo el año.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: excluye a estudiantes y niega el ejercicio que fortalece huesos y músculos de todos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La mejor prevención combina tres frentes: preparar el cuerpo con calentamiento y estiramiento, mejorar el entorno con superficies seguras y casilleros que reducen la carga, y formar hábitos de postura y uso de ambas correas del morral. Esta propuesta es evaluable, incluye a todos y reduce esguinces, fracturas por caídas y dolores de espalda de forma duradera.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-7-2026-W22-sistema-oseo-muscular-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W22-sistema-oseo-muscular-001-MASTERY-bundle-v10",
+      "statement": "¿Cómo se evalúa científicamente esa afirmación?",
+      "context": "En una feria de ciencia en Manizales, un grupo afirma: los huesos dejan de cambiar después de la niñez y los músculos no necesitan de los huesos para moverse.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta porque en Manizales los huesos son piedras quietas y los músculos flotan solos.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: los huesos son tejido vivo que se renueva y los músculos necesitan palancas óseas."
+        },
+        {
+          "letter": "B",
+          "text": "Es falsa porque el hueso se renueva toda la vida y el músculo necesita tendones y huesos como palancas para mover el cuerpo.",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: refuta ambas ideas con remodelación ósea y mecánica del movimiento."
+        },
+        {
+          "letter": "C",
+          "text": "Es parcialmente cierta porque los músculos sí empujan los huesos sin ayuda de tendones.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: los músculos tiran mediante tendones, no empujan sin conexión."
+        },
+        {
+          "letter": "D",
+          "text": "Es verdadera porque el ejercicio nunca cambia huesos ni músculos después de los diez años.",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el ejercicio fortalece huesos y músculos a cualquier edad si es adecuado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El hueso se remodela siempre: células que destruyen hueso viejo y células que construyen hueso nuevo responden al ejercicio y a la alimentación. El músculo genera fuerza al contraerse, pero esa fuerza solo mueve el cuerpo porque los tendones la transmiten a los huesos que actúan como palancas en las articulaciones. Por eso actividad física, calcio y buena postura cuidan ambos sistemas toda la vida.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.45,
+      "bundle_id": "CO-CN-7-2026-W22-sistema-oseo-muscular-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}
