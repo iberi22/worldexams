@@ -1,0 +1,212 @@
+---
+id: "CO-CN-7-2026-W32-sistema-digestivo-nutricion-001-MASTERY-bundle"
+country: "colombia"
+grado: 7
+asignatura: "ciencias_naturales"
+tema: "sistema-digestivo-nutricion"
+periodo: "weekly"
+week: "W32"
+year: 2026
+bundle_type: "weekly"
+protocol_version: "5.2"
+total_questions: 10
+bundle_size: 10
+alignment: "DBA MEN Colombia / Saber 11"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
+---
+# Bundle MASTERY: Sistema digestivo y nutrición - Grado 7
+Este bundle desarrolla el recorrido de los alimentos, la función de cada órgano digestivo y los nutrientes con ejemplos de la alimentación colombiana como el sancocho, las frutas y la tienda escolar.
+## Question 1 [D3-D4]
+**ID:** CO-CN-7-2026-W32-sistema-digestivo-nutricion-001-MASTERY-bundle-v1
+**Bloom:** Remember
+**ICFES:** Uso comprensivo del conocimiento científico
+**Expected_Success:** 0.90
+**Contexto:** En un colegio de Medellín, la profesora muestra una lámina con la boca, el esófago, el estómago y los intestinos, y pregunta por dónde empieza el recorrido de un bocado de arepa.
+### Enunciado
+¿Dónde se inicia la digestión de los alimentos en el ser humano?
+### Opciones
+- [x] A) En la boca, donde los dientes trituran y la saliva humedece el alimento.
+  <!-- feedback: Correcta, porque la digestión mecánica y parte de la química empiezan en la boca. -->
+- [ ] B) En el estómago, que es el único lugar donde ocurre toda la digestión.
+  <!-- feedback: Incorrecta, porque el estómago es importante pero el proceso ya empezó antes en la boca. -->
+- [ ] C) En el intestino grueso, donde entra primero todo lo que se come.
+  <!-- feedback: Incorrecta, porque al intestino grueso solo llegan los restos al final del recorrido. -->
+- [ ] D) En los pulmones, que muelen el alimento con el aire que respiran.
+  <!-- feedback: Incorrecta, porque los pulmones sirven para respirar y no reciben alimentos. -->
+### Explicacion Pedagogica
+El sistema digestivo es un tubo largo donde cada parte cumple una tarea. En la boca los dientes cortan y muelen, y la saliva ablanda el bolo alimenticio. Luego pasa por el esófago hasta el estómago y los intestinos. Recordar este orden ayuda a entender dónde ocurre cada transformación.
+## Question 2 [D3-D4]
+**ID:** CO-CN-7-2026-W32-sistema-digestivo-nutricion-001-MASTERY-bundle-v2
+**Bloom:** Understand
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.85
+**Contexto:** En una tienda escolar de Cali, dos estudiantes comparan etiquetas: un paquete de papas fritas y una porción de mango. La profesora pregunta qué aportan los nutrientes principales de cada uno.
+### Enunciado
+¿Cuál es la función principal de los carbohidratos y de las proteínas en la nutrición humana?
+### Opciones
+- [ ] A) Los carbohidratos forman los huesos y las proteínas sirven solo para dar sed.
+  <!-- feedback: Incorrecta, porque los huesos se forman sobre todo con calcio y las proteínas construyen tejidos. -->
+- [x] B) Los carbohidratos aportan energía rápida y las proteínas sirven para crecer y reparar tejidos.
+  <!-- feedback: Correcta, porque distingue la función energética de los carbohidratos y la estructural de las proteínas. -->
+- [ ] C) Ambos sirven únicamente para dar sabor y color a las comidas del recreo.
+  <!-- feedback: Incorrecta, porque el sabor no es la función nutritiva de estos componentes. -->
+- [ ] D) Los carbohidratos limpian los dientes y las proteínas reemplazan al agua del cuerpo.
+  <!-- feedback: Incorrecta, porque ningún nutriente reemplaza al agua ni limpia los dientes por sí solo. -->
+### Explicacion Pedagogica
+Los carbohidratos como el arroz, la papa y el plátano dan energía para estudiar y jugar. Las proteínas como el fríjol, el huevo y el pescado ayudan a formar músculos y a sanar heridas. Una dieta sana combina ambos en porciones adecuadas, más frutas y verduras.
+## Question 3 [D5-D6]
+**ID:** CO-CN-7-2026-W32-sistema-digestivo-nutricion-001-MASTERY-bundle-v3
+**Bloom:** Apply
+**ICFES:** Indagación
+**Expected_Success:** 0.80
+**Contexto:** En Bucaramanga, un curso mastica un trozo de pan durante un minuto sin tragarlo y nota que el sabor se vuelve más dulce con el tiempo.
+### Enunciado
+¿Cómo se explica que el pan sepa más dulce después de masticarlo un buen rato?
+### Opciones
+- [ ] A) Porque los dientes agregan azúcar al pan mientras lo muelen con fuerza.
+  <!-- feedback: Incorrecta, porque los dientes solo trituran y no producen azúcar. -->
+- [x] B) Porque la saliva contiene una sustancia que empieza a transformar el almidón del pan en azúcares simples.
+  <!-- feedback: Correcta, porque aplica la acción de la digestión química que ocurre en la boca. -->
+- [ ] C) Porque el pan absorbe el sabor dulce de la lengua sin ningún cambio químico.
+  <!-- feedback: Incorrecta, porque sí hay una transformación química real del almidón. -->
+- [ ] D) Porque masticar calienta el pan y el calor inventa el sabor dulce de la nada.
+  <!-- feedback: Incorrecta, porque el calor de la boca no convierte el almidón por sí solo. -->
+### Explicacion Pedagogica
+La saliva no solo moja: también trae una sustancia que rompe el almidón en pedazos más pequeños y dulces. Por eso el pan, la yuca o el arroz saben más dulces si se mastican despacio. Masticar bien facilita además el trabajo del estómago y de los intestinos.
+## Question 4 [D5-D6]
+**ID:** CO-CN-7-2026-W32-sistema-digestivo-nutricion-001-MASTERY-bundle-v4
+**Bloom:** Apply
+**ICFES:** Uso comprensivo del conocimiento científico
+**Expected_Success:** 0.75
+**Contexto:** En un restaurante escolar de Barranquilla, el menú ofrece sancocho de pescado con yuca, ensalada de verduras y jugo de corozo. Un estudiante pregunta qué órgano absorbe la mayor parte de los nutrientes de ese almuerzo.
+### Enunciado
+¿En qué parte del sistema digestivo se absorben la mayoría de los nutrientes hacia la sangre?
+### Opciones
+- [ ] A) En el esófago, que absorbe todo antes de que llegue al estómago.
+  <!-- feedback: Incorrecta, porque el esófago solo transporta el alimento hacia el estómago. -->
+- [ ] B) En el estómago, que absorbe todos los nutrientes y no deja nada al intestino.
+  <!-- feedback: Incorrecta, porque el estómago digiere sobre todo proteínas y absorbe muy poco. -->
+- [x] C) En el intestino delgado, que tiene pliegues y vellosidades que captan los nutrientes.
+  <!-- feedback: Correcta, porque identifica el sitio principal de absorción con sus adaptaciones. -->
+- [ ] D) En el intestino grueso, que absorbe las proteínas y los almidones completos.
+  <!-- feedback: Incorrecta, porque el intestino grueso absorbe sobre todo agua y sales, no los nutrientes principales. -->
+### Explicacion Pedagogica
+El intestino delgado es muy largo y por dentro tiene millones de vellosidades que aumentan la superficie de contacto. Por allí pasan a la sangre los azúcares, los aminoácidos, las vitaminas y otros nutrientes. Lo que no se absorbe sigue al intestino grueso, donde se recupera el agua.
+## Question 5 [D5-D6]
+**ID:** CO-CN-7-2026-W32-sistema-digestivo-nutricion-001-MASTERY-bundle-v5
+**Bloom:** Apply
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.70
+**Contexto:** En Pasto, una familia compra con 60000 COP el mercado de la semana: arroz, fríjol, huevos, plátano, zanahoria, guayaba y un poco de carne. La hija menor solo quiere comer paquetes y gaseosa.
+### Enunciado
+¿Por qué el mercado variado de la familia nutre mejor que una dieta de solo paquetes y gaseosa?
+### Opciones
+- [ ] A) Porque los paquetes son más caros y lo caro siempre nutre menos que lo barato.
+  <!-- feedback: Incorrecta, porque el precio no define el valor nutritivo de un alimento. -->
+- [x] B) Porque combina energía, proteínas, vitaminas y fibra, mientras los paquetes aportan exceso de grasa, sal y azúcar sin nutrientes variados.
+  <!-- feedback: Correcta, porque compara la variedad nutritiva con el exceso de productos ultraprocesados. -->
+- [ ] C) Porque la gaseosa reemplaza al agua y a las frutas en todas sus funciones.
+  <!-- feedback: Incorrecta, porque la gaseosa no hidrata igual ni aporta las vitaminas de la fruta. -->
+- [ ] D) Porque comer siempre lo mismo aburre y el aburrimiento engorda a las personas.
+  <!-- feedback: Incorrecta, porque el problema es la falta de nutrientes, no el aburrimiento. -->
+### Explicacion Pedagogica
+Una alimentación balanceada reúne cereales, leguminosas, proteínas animales o vegetales, frutas y verduras. Los paquetes y la gaseosa tienen mucha energía vacía pero pocas vitaminas y fibra. Comer variado con productos colombianos frescos protege del sobrepeso y de la desnutrición a la vez.
+## Question 6 [D7-D8]
+**ID:** CO-CN-7-2026-W32-sistema-digestivo-nutricion-001-MASTERY-bundle-v6
+**Bloom:** Analyze
+**ICFES:** Indagación
+**Expected_Success:** 0.65
+**Contexto:** En un laboratorio escolar de Manizales, tres tubos con leche reciben distinto tratamiento: al tubo X no se le agrega nada, al tubo Y se le agrega jugo gástrico simulado, y al tubo Z se le agrega solo agua. Después de una hora, solo el tubo Y muestra cambios claros.
+### Enunciado
+¿Qué análisis del experimento con la leche es correcto?
+### Opciones
+- [ ] A) El agua es el mejor digestivo porque el tubo Z se ve igual que al inicio.
+  <!-- feedback: Incorrecta, porque no mostrar cambios indica que el agua no digirió la leche. -->
+- [x] B) El jugo gástrico simulado produjo la digestión, y los tubos X y Z sirven como comparación que lo confirma.
+  <!-- feedback: Correcta, porque interpreta el control y el efecto del tratamiento ácido sobre las proteínas. -->
+- [ ] C) Los tres tubos digieren igual porque todos contienen leche desde el inicio.
+  <!-- feedback: Incorrecta, porque solo el tubo con jugo gástrico cambió de forma visible. -->
+- [ ] D) El experimento no sirve porque la leche nunca cambia dentro del estómago real.
+  <!-- feedback: Incorrecta, porque en el estómago real las proteínas de la leche sí se digieren. -->
+### Explicacion Pedagogica
+El estómago produce un líquido ácido que deshace las proteínas y activa su digestión. Los tubos sin ese líquido son controles: muestran cómo se vería la leche sin digestión. Comparar el tubo Y con los controles permite concluir que el cambio se debe al jugo gástrico y no al paso del tiempo.
+## Question 7 [D7-D8]
+**ID:** CO-CN-7-2026-W32-sistema-digestivo-nutricion-001-MASTERY-bundle-v7
+**Bloom:** Analyze
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.60
+**Contexto:** En Cartagena, un niño come muy rápido, casi sin masticar, toma poca agua y come poca fibra. Al día siguiente siente dolor de estómago y estreñimiento.
+### Enunciado
+¿Qué relación hay entre sus hábitos al comer y los síntomas que presenta?
+### Opciones
+- [ ] A) No hay relación, porque masticar y la fibra nunca afectan la digestión de nadie.
+  <!-- feedback: Incorrecta, porque la masticación y la fibra sí facilitan el tránsito intestinal. -->
+- [x] B) Comer sin masticar sobrecarga al estómago y la falta de fibra y agua endurece las heces y dificulta su salida.
+  <!-- feedback: Correcta, porque conecta cada hábito con su efecto digestivo correspondiente. -->
+- [ ] C) El dolor ocurre porque el agua y las verduras dañan el estómago de los niños.
+  <!-- feedback: Incorrecta, porque el agua y la fibra protegen la digestión en vez de dañarla. -->
+- [ ] D) El estreñimiento se debe a que el niño respira demasiado rápido mientras juega.
+  <!-- feedback: Incorrecta, porque la respiración no determina la consistencia de las heces. -->
+### Explicacion Pedagogica
+Masticar bien reduce el tamaño del bolo y mezcla la saliva, lo que alivia el trabajo del estómago. La fibra de frutas, verduras y fríjol, junto con suficiente agua, ablanda las heces y ayuda al intestino grueso a moverlas. Comer despacio, tomar agua y incluir fibra previenen el dolor y el estreñimiento.
+## Question 8 [D7-D8]
+**ID:** CO-CN-7-2026-W32-sistema-digestivo-nutricion-001-MASTERY-bundle-v8
+**Bloom:** Analyze
+**ICFES:** Uso comprensivo del conocimiento científico
+**Expected_Success:** 0.55
+**Contexto:** En Pereira, la enfermera del colegio muestra dos loncheras: la lonchera X tiene gaseosa, frituras y dulces; la lonchera Y tiene agua, banano, yogur y maní sin sal. Pide analizar cuál apoya el crecimiento de un estudiante de grado séptimo.
+### Enunciado
+¿Qué análisis de las dos loncheras es correcto desde la nutrición?
+### Opciones
+- [ ] A) La lonchera X es mejor porque el azúcar da energía infinita sin ningún efecto negativo.
+  <!-- feedback: Incorrecta, porque el exceso de azúcar se asocia con caries, sobrepeso y bajones de energía. -->
+- [x] B) La lonchera Y es mejor porque combina agua, energía, calcio, proteínas y vitaminas en porciones adecuadas.
+  <!-- feedback: Correcta, porque analiza el aporte equilibrado frente al exceso de azúcar y grasa. -->
+- [ ] C) Ambas son idénticas porque todo lo que viene en paquete nutre exactamente igual.
+  <!-- feedback: Incorrecta, porque la composición de cada lonchera es muy distinta en nutrientes. -->
+- [ ] D) Ninguna sirve porque en el colegio está prohibido comer a cualquier hora.
+  <!-- feedback: Incorrecta, porque el refrigerio escolar es necesario y lo que importa es su calidad. -->
+### Explicacion Pedagogica
+Analizar una lonchera es revisar sus grupos de alimentos: bebida, fruta, proteína y energía. La lonchera Y hidrata con agua y aporta nutrientes para huesos y músculos. La lonchera X concentra azúcar, sal y grasa, que en exceso enferman. Elegir bien el refrigerio diario marca la diferencia en el crecimiento.
+## Question 9 [D9-D10]
+**ID:** CO-CN-7-2026-W32-sistema-digestivo-nutricion-001-MASTERY-bundle-v9
+**Bloom:** Evaluate
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.50
+**Contexto:** En un colegio de Bogotá, con 120000 COP el curso arma dos campañas: la campaña 1 propone reemplazar la gaseosa por agua y frutas en la tienda; la campaña 2 propone repartir pastillas de vitaminas y seguir vendiendo solo gaseosa y frituras.
+### Enunciado
+Campaña 1: cambiar el entorno para comer mejor cada día. Campaña 2: compensar con pastillas sin cambiar la comida. ¿Cuál es la evaluación correcta?
+### Opciones
+- [ ] A) Ambas son iguales porque una pastilla reemplaza por completo una alimentación variada.
+  <!-- feedback: Incorrecta, porque ningún suplemento reproduce la fibra y la variedad de una dieta real. -->
+- [x] B) La campaña 1 es mejor porque crea un hábito diario saludable, y la campaña 2 falla porque mantiene el exceso de azúcar y grasa.
+  <!-- feedback: Correcta, porque evalúa el cambio de hábito sostenido frente al atajo sin efecto real. -->
+- [ ] C) La campaña 2 es mejor porque las pastillas eliminan la necesidad de tomar agua.
+  <!-- feedback: Incorrecta, porque el agua es insustituible para la digestión y la hidratación. -->
+- [ ] D) Ninguna sirve porque la alimentación de los estudiantes ya no puede mejorar.
+  <!-- feedback: Incorrecta, porque cambiar la oferta de la tienda sí mejora lo que comen cada día. -->
+### Explicacion Pedagogica
+Evaluar campañas es mirar su efecto duradero. Cambiar la tienda transforma decenas de decisiones cada semana y reduce azúcar de verdad. Repartir vitaminas sin cambiar la comida deja intacta la causa del problema. La mejor estrategia combina entorno saludable, educación y agua disponible siempre.
+## Question 10 [D9-D10]
+**ID:** CO-CN-7-2026-W32-sistema-digestivo-nutricion-001-MASTERY-bundle-v10
+**Bloom:** Evaluate
+**ICFES:** Indagación
+**Expected_Success:** 0.45
+**Contexto:** En Neiva, un estudiante afirma que el intestino delgado no sirve para nada y que se puede vivir sin digerir ni absorber alimentos. Su compañera sostiene que sin absorción el cuerpo se quedaría sin energía y sin materiales para crecer.
+### Enunciado
+Afirmación 1: el intestino delgado es innecesario. Afirmación 2: sin absorción no hay energía ni crecimiento. ¿Cuál es la evaluación correcta?
+### Opciones
+- [ ] A) La primera es verdadera porque la digestión termina en el estómago y nada más se necesita.
+  <!-- feedback: Incorrecta, porque en el estómago la digestión queda incompleta y la absorción principal falta. -->
+- [ ] B) Ambas son falsas porque el cuerpo fabrica alimentos solo con respirar aire puro.
+  <!-- feedback: Incorrecta, porque respirar aporta oxígeno pero no los nutrientes que vienen de la comida. -->
+- [x] C) La primera es falsa y la segunda es verdadera, porque los nutrientes deben pasar a la sangre para alimentar cada célula.
+  <!-- feedback: Correcta, porque juzga cada afirmación con la función real de la absorción intestinal. -->
+- [ ] D) Ambas son verdaderas porque el cuerpo puede elegir cualquiera de las dos opciones cada día.
+  <!-- feedback: Incorrecta, porque dos afirmaciones opuestas no pueden ser verdaderas al mismo tiempo. -->
+### Explicacion Pedagogica
+Sin el intestino delgado, los alimentos pasarían sin entregar sus nutrientes y el cuerpo sufriría desnutrición aunque comiera mucho. La absorción lleva azúcares, aminoácidos, grasas pequeñas, vitaminas y minerales a la sangre, que los reparte a cada célula. Por eso cada órgano del tubo digestivo es necesario y ninguno sobra.
