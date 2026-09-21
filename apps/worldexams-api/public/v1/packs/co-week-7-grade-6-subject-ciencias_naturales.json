@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-7-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T03:42:40.852Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-6-2026-W07-fotosintesis-respiracion-intercambio-gases-001-MASTERY-bundle-v1",
+      "statement": "¿Qué tres elementos necesita la planta para realizar la fotosíntesis?",
+      "context": "En una huerta de Bogotá, la profesora escribe en el tablero los ingredientes que una hoja de acelga necesita para fabricar su alimento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Luz solar, agua y dióxido de carbono",
+          "is_correct": true,
+          "feedback": "Correcto. Esos tres ingredientes permiten fabricar glucosa y liberar oxígeno."
+        },
+        {
+          "letter": "B",
+          "text": "Oxígeno, carne y tierra seca",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas no comen carne ni usan oxígeno como ingrediente de la fotosíntesis."
+        },
+        {
+          "letter": "C",
+          "text": "Azúcar, proteína y grasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son productos o nutrientes de animales, no ingredientes de la fotosíntesis."
+        },
+        {
+          "letter": "D",
+          "text": "Sal, vinagre y humo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de esos elementos participa en la fabricación del alimento vegetal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fotosíntesis usa energía luminosa para unir agua y dióxido de carbono y producir glucosa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-6-2026-W07-fotosintesis-respiracion-intercambio-gases-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W07-fotosintesis-respiracion-intercambio-gases-001-MASTERY-bundle-v2",
+      "statement": "¿Qué gas libera la planta como producto de la fotosíntesis?",
+      "context": "En Medellín, los estudiantes ven burbujas de oxígeno salir de una planta acuática de elodea iluminada dentro de un vaso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oxígeno, que luego usan los animales para respirar",
+          "is_correct": true,
+          "feedback": "Correcto. El oxígeno es el gas liberado por la fotosíntesis."
+        },
+        {
+          "letter": "B",
+          "text": "Dióxido de carbono, que es el alimento de la planta",
+          "is_correct": false,
+          "feedback": "Incorrecto. El dióxido de carbono es ingrediente que entra, no el gas que sale."
+        },
+        {
+          "letter": "C",
+          "text": "Nitrógeno, que forma las nubes del cielo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nitrógeno abunda en el aire pero no es producto de la fotosíntesis."
+        },
+        {
+          "letter": "D",
+          "text": "Hidrógeno puro, que explota con el sol",
+          "is_correct": false,
+          "feedback": "Incorrecto. La planta no libera hidrógeno gaseoso puro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Entran agua y dióxido de carbono; salen glucosa y oxígeno gracias a la luz.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-6-2026-W07-fotosintesis-respiracion-intercambio-gases-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W07-fotosintesis-respiracion-intercambio-gases-001-MASTERY-bundle-v3",
+      "statement": "¿Dónde ocurre la fotosíntesis dentro de la hoja de caña y qué pigmento la hace posible?",
+      "context": "En el Valle del Cauca, un cañaduzal al sol produce azúcar que luego se vende como panela en el mercado de Cali.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En los cloroplastos, gracias a la clorofila que capta la luz",
+          "is_correct": true,
+          "feedback": "Correcto. El cloroplasto con clorofila es el sitio exacto de la fotosíntesis."
+        },
+        {
+          "letter": "B",
+          "text": "En las mitocondrias, gracias a la hemoglobina de la sangre",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mitocondrias respiran y la hemoglobina es de animales, no de plantas."
+        },
+        {
+          "letter": "C",
+          "text": "En la pared celular, gracias a la madera dura",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pared da soporte, pero no capta luz ni fabrica azúcar."
+        },
+        {
+          "letter": "D",
+          "text": "En la raíz profunda, gracias a la oscuridad del suelo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin luz no hay fotosíntesis; la raíz absorbe agua y sales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La clorofila dentro del cloroplasto absorbe luz roja y azul y refleja el verde que vemos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-6-2026-W07-fotosintesis-respiracion-intercambio-gases-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W07-fotosintesis-respiracion-intercambio-gases-001-MASTERY-bundle-v4",
+      "statement": "¿Cómo se llaman esos poros y qué intercambio permiten?",
+      "context": "En el páramo de Chingaza, los frailejones abren pequeños poros en sus hojas durante el día y los cierran de noche.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estomas, que dejan entrar dióxido de carbono y salir oxígeno y vapor de agua",
+          "is_correct": true,
+          "feedback": "Correcto. Los estomas regulan el intercambio de gases y la pérdida de agua."
+        },
+        {
+          "letter": "B",
+          "text": "Bronquios, que llevan aire a los pulmones de la planta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los bronquios son de animales con pulmones, no de plantas."
+        },
+        {
+          "letter": "C",
+          "text": "Pupilas, que permiten ver la luz del sol",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas no tienen ojos ni pupilas."
+        },
+        {
+          "letter": "D",
+          "text": "Raíces aéreas, que absorben tierra sólida",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las raíces absorben agua, y los poros de la hoja son los estomas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los estomas son poros con células guardianas que se abren de día para fotosintetizar y se cierran para ahorrar agua.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.79,
+      "bundle_id": "CO-CN-6-2026-W07-fotosintesis-respiracion-intercambio-gases-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W07-fotosintesis-respiracion-intercambio-gases-001-MASTERY-bundle-v5",
+      "statement": "¿Qué proceso realiza el atleta en sus músculos al respirar más rápido?",
+      "context": "En Barranquilla, un atleta corre por el malecón del río Magdalena y respira más rápido al aumentar el esfuerzo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La respiración celular, que usa oxígeno y glucosa para liberar energía",
+          "is_correct": true,
+          "feedback": "Correcto. Al respirar rápido lleva más oxígeno para producir energía en las mitocondrias."
+        },
+        {
+          "letter": "B",
+          "text": "La fotosíntesis, porque suda bajo el sol",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los humanos no tienen clorofila ni hacen fotosíntesis."
+        },
+        {
+          "letter": "C",
+          "text": "La germinación, porque sus piernas crecen como plantas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La germinación es el nacimiento de una planta desde la semilla."
+        },
+        {
+          "letter": "D",
+          "text": "La fermentación del suelo, porque pisa la arena",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pisar arena no produce energía dentro del músculo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respiración celular ocurre en mitocondrias de plantas y animales: glucosa más oxígeno generan energía, agua y dióxido de carbono.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CN-6-2026-W07-fotosintesis-respiracion-intercambio-gases-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W07-fotosintesis-respiracion-intercambio-gases-001-MASTERY-bundle-v6",
+      "statement": "¿Qué análisis predice lo que ocurrirá después de una semana?",
+      "context": "En Tunja, dos matas iguales de arveja se dejan una al sol y otra en un armario oscuro, con igual agua y tierra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La del sol crecerá verde y firme por fotosíntesis activa, y la del armario crecerá pálida y débil por falta de luz",
+          "is_correct": true,
+          "feedback": "Correcto. Sin luz no hay alimento nuevo y la planta se debilita y amarillea."
+        },
+        {
+          "letter": "B",
+          "text": "Ambas crecerán iguales porque la luz no influye en las plantas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La luz es la fuente de energía de la fotosíntesis."
+        },
+        {
+          "letter": "C",
+          "text": "La del armario crecerá mejor porque las plantas prefieren la oscuridad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo germinan en oscuridad; para crecer necesitan luz."
+        },
+        {
+          "letter": "D",
+          "text": "La del sol morirá porque el sol quema todas las hojas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con agua suficiente el sol favorece la fotosíntesis en lugar de matar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar tratamientos con una sola variable distinta permite concluir que la luz es esencial para producir alimento.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.71,
+      "bundle_id": "CO-CN-6-2026-W07-fotosintesis-respiracion-intercambio-gases-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W07-fotosintesis-respiracion-intercambio-gases-001-MASTERY-bundle-v7",
+      "statement": "¿Por qué se afecta la planta al tapar sus estomas con vaselina?",
+      "context": "En Pasto, un estudiante tapa con vaselina los poros de una hoja y observa que la planta se marchita aunque tenga agua y luz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque no puede intercambiar dióxido de carbono ni oxígeno y se detienen la fotosíntesis y la respiración",
+          "is_correct": true,
+          "feedback": "Correcto. Tapar los estomas bloquea la entrada y salida de gases vitales."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la vaselina envenena las raíces desde la hoja",
+          "is_correct": false,
+          "feedback": "Incorrecto. El efecto es por bloqueo físico de gases, no por veneno en raíces."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la hoja ya no puede absorber agua del suelo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua la absorben las raíces, no los estomas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la vaselina da sombra total y enfría la planta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una capa delgada no bloquea la luz de forma total; bloquea los gases."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sin intercambio gaseoso la hoja no recibe dióxido de carbono para fotosintetizar ni libera oxígeno.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CN-6-2026-W07-fotosintesis-respiracion-intercambio-gases-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W07-fotosintesis-respiracion-intercambio-gases-001-MASTERY-bundle-v8",
+      "statement": "¿Qué relación entre ambos procesos es correcta?",
+      "context": "En Cali, una cartelera compara la fotosíntesis de día y la respiración de noche en una planta de plátano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fotosíntesis fabrica glucosa y oxígeno de día, y la respiración usa esa glucosa día y noche para dar energía",
+          "is_correct": true,
+          "feedback": "Correcto. La planta fotosintetiza con luz pero respira siempre para vivir."
+        },
+        {
+          "letter": "B",
+          "text": "La planta solo fotosintetiza de noche y solo respira de día",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fotosíntesis exige luz; la respiración ocurre las 24 horas."
+        },
+        {
+          "letter": "C",
+          "text": "La fotosíntesis y la respiración son el mismo proceso con distinto nombre",
+          "is_correct": false,
+          "feedback": "Incorrecto. Uno construye alimento con luz y el otro libera su energía con oxígeno."
+        },
+        {
+          "letter": "D",
+          "text": "Las plantas no respiran porque no tienen pulmones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Respiran en sus mitocondrias e intercambian gases por estomas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Fotosíntesis y respiración son opuestos y complementarios: una guarda energía y la otra la libera para crecer.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CN-6-2026-W07-fotosintesis-respiracion-intercambio-gases-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W07-fotosintesis-respiracion-intercambio-gases-001-MASTERY-bundle-v9",
+      "statement": "¿Qué resultados y juicio confirman ambos procesos en la misma planta?",
+      "context": "En la feria de Manizales, un equipo mete una planta acuática en un tubo con agua y un sensor que mide oxígeno bajo luz intensa y luego en oscuridad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con luz el oxígeno aumenta por fotosíntesis mayor que la respiración, y en oscuridad disminuye porque solo respira",
+          "is_correct": true,
+          "feedback": "Correcto. De día predomina la producción de oxígeno; de noche solo hay consumo."
+        },
+        {
+          "letter": "B",
+          "text": "El oxígeno aumenta igual en luz y oscuridad porque la planta no respira",
+          "is_correct": false,
+          "feedback": "Incorrecto. En oscuridad no hay fotosíntesis y el oxígeno baja por la respiración."
+        },
+        {
+          "letter": "C",
+          "text": "El oxígeno siempre baja porque la fotosíntesis consume oxígeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fotosíntesis libera oxígeno; la que lo consume es la respiración."
+        },
+        {
+          "letter": "D",
+          "text": "El sensor no sirve porque las plantas no intercambian gases con el agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas acuáticas intercambian gases disueltos con el agua."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar curvas de oxígeno demuestra que fotosíntesis y respiración ocurren a la vez, pero la luz inclina la balanza.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-6-2026-W07-fotosintesis-respiracion-intercambio-gases-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W07-fotosintesis-respiracion-intercambio-gases-001-MASTERY-bundle-v10",
+      "statement": "¿Qué evaluación de las tres afirmaciones es científicamente correcta?",
+      "context": "En Bucaramanga, tres afirmaciones se debaten: 1) Las plantas solo fotosintetizan y los animales solo respiran. 2) El dióxido de carbono entra por estomas y el oxígeno sale por ellos. 3) Sin intercambio de gases no hay ni fotosíntesis ni respiración.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La 1 es falsa porque las plantas también respiran, la 2 es verdadera y la 3 es verdadera",
+          "is_correct": true,
+          "feedback": "Correcto. Las plantas hacen ambos procesos y dependen de los estomas para los gases."
+        },
+        {
+          "letter": "B",
+          "text": "Las tres son verdaderas porque las plantas nunca usan oxígeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas consumen oxígeno en sus mitocondrias para obtener energía."
+        },
+        {
+          "letter": "C",
+          "text": "Las tres son falsas porque los estomas no existen en las hojas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los estomas son poros reales visibles al microscopio."
+        },
+        {
+          "letter": "D",
+          "text": "Solo la 1 es verdadera y las demás son falsas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La 1 es el error clásico: ignora la respiración vegetal permanente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Juzgar exige corregir la idea errónea más común: toda célula viva con mitocondrias respira, sea planta o animal.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-6-2026-W07-fotosintesis-respiracion-intercambio-gases-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

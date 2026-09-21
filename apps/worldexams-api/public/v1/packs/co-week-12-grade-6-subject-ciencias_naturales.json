@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-12-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T03:42:40.853Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-6-2026-W12-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es la atmósfera?",
+      "context": "En una escuela de Bogotá, la profesora infla una bomba para mostrar que el aire ocupa espacio y envuelve todo el planeta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La capa de gases que rodea la Tierra y permite respirar y protege del Sol",
+          "is_correct": true,
+          "feedback": "Correcto. La atmósfera es el manto de aire con oxígeno que respiramos."
+        },
+        {
+          "letter": "B",
+          "text": "La capa de rocas duras donde caminamos y se construyen casas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las rocas forman la corteza terrestre, no la atmósfera."
+        },
+        {
+          "letter": "C",
+          "text": "El agua de ríos y mares como el río Magdalena y el Caribe",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa agua forma la hidrosfera, no la atmósfera."
+        },
+        {
+          "letter": "D",
+          "text": "El suelo con lombrices donde crecen las plantas del patio",
+          "is_correct": false,
+          "feedback": "Incorrecto. El suelo es parte de la geosfera superficial, no del aire."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La atmósfera es aire: mezcla de gases, sobre todo nitrógeno y oxígeno, que envuelve la Tierra y hace posible la vida.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-6-2026-W12-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W12-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la diferencia entre tiempo atmosférico y clima?",
+      "context": "En Cali amanece lloviendo, pero el noticiero dice que el clima de Cali es cálido todo el año y una niña se confunde.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son lo mismo: si llueve hoy, el clima cambió para siempre",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un día de lluvia no cambia el promedio de muchos años."
+        },
+        {
+          "letter": "B",
+          "text": "El tiempo es el estado del día y el clima es el promedio de muchos años",
+          "is_correct": true,
+          "feedback": "Correcto. Tiempo es hoy llueve; clima es Cali es cálida la mayor parte del año."
+        },
+        {
+          "letter": "C",
+          "text": "El tiempo se mide en años y el clima se mide en minutos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es al revés: el clima necesita datos de décadas."
+        },
+        {
+          "letter": "D",
+          "text": "El tiempo solo existe en Bogotá y el clima solo en la costa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todo lugar tiene su tiempo diario y su clima regional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Tiempo responde qué pasa hoy y clima responde cómo se comporta una región durante años: confundirlos es el error típico.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-6-2026-W12-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W12-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle-v3",
+      "statement": "¿Qué ropa deben llevar para Bogotá y por qué?",
+      "context": "Una familia viaja de Cartagena, a nivel del mar y con mucho calor, a Bogotá, a 2600 metros de altura, en el mismo mes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La misma ropa ligera de Cartagena, porque toda Colombia tiene igual temperatura",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colombia tiene varios pisos térmicos con temperaturas muy distintas."
+        },
+        {
+          "letter": "B",
+          "text": "Ropa abrigada, porque a mayor altura la temperatura baja y Bogotá es de clima frío",
+          "is_correct": true,
+          "feedback": "Correcto. Subir la montaña enfría el aire: Cartagena es cálida y Bogotá es fría."
+        },
+        {
+          "letter": "C",
+          "text": "Traje de baño, porque a mayor altura hace más calor",
+          "is_correct": false,
+          "feedback": "Incorrecto. La altura enfría, no calienta; por eso hay nieves en las cumbres."
+        },
+        {
+          "letter": "D",
+          "text": "Impermeable para la nieve, porque en Bogotá cae nieve todo el año",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bogotá es fría pero sin nieve permanente; las nieves están sobre los 4800 metros."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los pisos térmicos enseñan que la altura manda: cada 1000 metros que se sube, el aire se enfría varios grados.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-6-2026-W12-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W12-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle-v4",
+      "statement": "¿A qué piso térmico corresponde la zona cafetera de Armenia?",
+      "context": "En Armenia, Quindío, los cafetales crecen verdes entre los 1000 y 2000 metros de altura, con temperatura templada ideal para el café.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Piso cálido, de 0 a 1000 metros, como La Guajira y la costa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El piso cálido es muy caliente para el café suave de altura media."
+        },
+        {
+          "letter": "B",
+          "text": "Piso frío, de 2000 a 3000 metros, como la sabana de Bogotá",
+          "is_correct": false,
+          "feedback": "Incorrecto. El frío de Bogotá quema las flores del café."
+        },
+        {
+          "letter": "C",
+          "text": "Páramo, de más de 3000 metros, tierra de frailejones",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el páramo el frío extremo impide el cultivo de café."
+        },
+        {
+          "letter": "D",
+          "text": "Piso templado, de 1000 a 2000 metros, de clima medio ideal para el café",
+          "is_correct": true,
+          "feedback": "Correcto. Medellín y Armenia están en este piso de eterna primavera cafetera."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cada piso térmico tiene cultivos propios: café en lo templado, papa en lo frío y frailejones en el páramo que guarda el agua.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.79,
+      "bundle_id": "CO-CN-6-2026-W12-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W12-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle-v5",
+      "statement": "¿Qué explica esa diferencia entre La Guajira y el Amazonas?",
+      "context": "En La Guajira casi no llueve y el paisaje es desértico, mientras en el Amazonas llueve casi todos los días y todo es selva húmeda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El clima de cada región: La Guajira recibe poca lluvia anual y el Amazonas recibe lluvias abundantes",
+          "is_correct": true,
+          "feedback": "Correcto. La cantidad de lluvia durante años define si hay desierto o selva."
+        },
+        {
+          "letter": "B",
+          "text": "Que en La Guajira hoy hizo sol y en el Amazonas hoy llovió",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lo de un solo día es tiempo atmosférico, no el clima regional."
+        },
+        {
+          "letter": "C",
+          "text": "Que La Guajira está más cerca del Sol que el Amazonas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos están en zona tropical; lo que cambia son vientos y lluvias."
+        },
+        {
+          "letter": "D",
+          "text": "Que en el Amazonas riegan con mangueras todos los días",
+          "is_correct": false,
+          "feedback": "Incorrecto. La selva se mantiene por lluvias naturales, no por riego humano."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Colombia tiene varios climas por lluvias y vientos: aplicar clima es mirar promedios anuales, no el cielo de hoy.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CN-6-2026-W12-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W12-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle-v6",
+      "statement": "¿En qué capa de la atmósfera ocurren las nubes, las lluvias y los vientos?",
+      "context": "En clase de Medellín, el profesor pregunta en qué capa de la atmósfera se forman las nubes, la lluvia y los vientos que sienten en el recreo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la capa de ozono, que está muy alta y nos protege del Sol",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ozono filtra rayos del Sol, pero las nubes viajan más abajo."
+        },
+        {
+          "letter": "B",
+          "text": "En la exosfera, en el borde con el espacio exterior",
+          "is_correct": false,
+          "feedback": "Incorrecto. Allí casi no hay aire para formar nubes ni lluvia."
+        },
+        {
+          "letter": "C",
+          "text": "En la troposfera, la capa más cercana a la superficie terrestre",
+          "is_correct": true,
+          "feedback": "Correcto. Casi todo el aire y el vapor de agua están abajo, donde vuela el clima diario."
+        },
+        {
+          "letter": "D",
+          "text": "En el núcleo de la Tierra, donde hay roca fundida",
+          "is_correct": false,
+          "feedback": "Incorrecto. El núcleo es interior rocoso, no aire con nubes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La troposfera concentra el clima: analizar nubes es mirar la capa baja donde se evapora el agua y soplan los vientos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.71,
+      "bundle_id": "CO-CN-6-2026-W12-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W12-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle-v7",
+      "statement": "¿Qué análisis explica la eterna primavera de Medellín?",
+      "context": "A Medellín la llaman la ciudad de la eterna primavera porque casi todo el año la temperatura ronda los 22 grados, sin el calor de Cali ni el frío de Bogotá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que Medellín está al nivel del mar como Cartagena",
+          "is_correct": false,
+          "feedback": "Incorrecto. Medellín está a unos 1500 metros, no al nivel del mar."
+        },
+        {
+          "letter": "B",
+          "text": "Que está en el piso templado, a media altura: ni tan caliente como la costa ni tan fría como Bogotá",
+          "is_correct": true,
+          "feedback": "Correcto. Su altura intermedia le da temperatura suave y estable."
+        },
+        {
+          "letter": "C",
+          "text": "Que en Medellín nunca hay atmósfera ni aire",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin atmósfera no habría aire para respirar."
+        },
+        {
+          "letter": "D",
+          "text": "Que el clima de Medellín cambia de piso térmico cada día",
+          "is_correct": false,
+          "feedback": "Incorrecto. El piso térmico depende de la altura fija de la ciudad, no cambia a diario."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar un clima local es cruzar altura y temperatura: la posición intermedia de Medellín explica su suavidad anual.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CN-6-2026-W12-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W12-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle-v8",
+      "statement": "¿Qué error hay en la conclusión del estudiante?",
+      "context": "En Cali, un estudiante dice que el clima de la ciudad cambió porque ayer cayó un aguacero fuerte en su barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ningún error: un aguacero basta para declarar cambio de clima",
+          "is_correct": false,
+          "feedback": "Incorrecto. El clima exige datos de muchos años, no de un día."
+        },
+        {
+          "letter": "B",
+          "text": "El error es hablar del aguacero, porque en Cali nunca llueve",
+          "is_correct": false,
+          "feedback": "Incorrecto. En Cali sí llueve por temporadas; el punto es no confundir un día con el clima."
+        },
+        {
+          "letter": "C",
+          "text": "El error es creer que Cali tiene atmósfera",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda Colombia está bajo la misma atmósfera protectora."
+        },
+        {
+          "letter": "D",
+          "text": "Confunde tiempo con clima: un día de lluvia es tiempo atmosférico, el clima se define con décadas de datos",
+          "is_correct": true,
+          "feedback": "Correcto. Distinguir el evento diario del promedio histórico es la clave."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Indagar el clima pide series largas de temperatura y lluvia; un solo dato diario no prueba un cambio climático.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CN-6-2026-W12-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W12-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle-v9",
+      "statement": "¿Qué decisión es científicamente correcta para el proyecto?",
+      "context": "El colegio quiere sembrar en La Guajira, tierra caliente y seca, unas plántulas de frailejón traídas del páramo frío y húmedo de Boyacá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No sembrar frailejones en La Guajira y usar plantas propias del clima seco, porque el frailejón necesita frío y humedad de páramo",
+          "is_correct": true,
+          "feedback": "Correcto. Cada especie está adaptada a su piso térmico y clima; forzarla la mata."
+        },
+        {
+          "letter": "B",
+          "text": "Sembrarlos igual porque todas las plantas viven bien en cualquier clima",
+          "is_correct": false,
+          "feedback": "Incorrecto. El frailejón se seca con calor extremo y sin niebla del páramo."
+        },
+        {
+          "letter": "C",
+          "text": "Sembrarlos y dejarlos sin agua para que se vuelvan resistentes al desierto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quitarles el agua acelera su muerte, no los adapta."
+        },
+        {
+          "letter": "D",
+          "text": "Guardar los frailejones en el salón sin luz para que sientan frío",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin luz no hacen fotosíntesis y mueren igual."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar siembra es respetar pisos térmicos: el frailejón guarda agua del páramo y no sobrevive al calor seco guajiro.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-6-2026-W12-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W12-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle-v10",
+      "statement": "¿Qué evaluación de las tres afirmaciones es científicamente correcta?",
+      "context": "En Barranquilla, tres afirmaciones se debaten: 1) La troposfera es donde ocurren nubes y lluvias. 2) Clima y tiempo atmosférico significan exactamente lo mismo. 3) A mayor altura sobre el nivel del mar, la temperatura tiende a bajar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las tres son verdaderas porque la atmósfera es igual en todas partes",
+          "is_correct": false,
+          "feedback": "Incorrecto. La 2 es falsa: tiempo es el día y clima es el promedio de años."
+        },
+        {
+          "letter": "B",
+          "text": "Solo la 2 es verdadera y las demás son falsas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La 2 es justamente la falsa; 1 y 3 están comprobadas."
+        },
+        {
+          "letter": "C",
+          "text": "La 1 es verdadera, la 2 es falsa porque confunde día con promedio anual, la 3 es verdadera",
+          "is_correct": true,
+          "feedback": "Correcto. Ubica el clima en la troposfera, separa tiempo de clima y aplica los pisos térmicos."
+        },
+        {
+          "letter": "D",
+          "text": "La 3 es falsa porque en las montañas siempre hace más calor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las cumbres frías y nevadas prueban que la altura enfría."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Juzgar exige definiciones claras: capa del clima, diferencia día frente a décadas y regla de la altura en Colombia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-6-2026-W12-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}
