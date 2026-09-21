@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-19-grade-7-subject-matematicas",
+    "generated_at": "2026-09-21T16:46:39.547Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-7-2026-W19-escala-mapas-planos-001-MASTERY-bundle-v1",
+      "statement": "¿Qué significa la escala 1:100 000 en un mapa?",
+      "context": "En Bogotá, un mapa aparece con la indicación \"Escala 1:100 000\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que 1 unidad en el mapa equivale a 100 000 unidades en la realidad",
+          "is_correct": true,
+          "feedback": "Correcto. La escala indica cuántas veces más grande es la realidad."
+        },
+        {
+          "letter": "B",
+          "text": "Que el mapa es 100 000 veces más pequeño en cada dirección",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa idea es aproximada pero no exacta: la escala es una razón de longitudes, no de áreas."
+        },
+        {
+          "letter": "C",
+          "text": "Que se necesitan 100 000 mapas para cubrir la región",
+          "is_correct": false,
+          "feedback": "Incorrecto. La escala es proporcional, no de cantidad de mapas."
+        },
+        {
+          "letter": "D",
+          "text": "Que el mapa mide 100 000 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La escala no dice el tamaño físico del mapa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La escala 1:100 000 significa que cada unidad (cm) en el mapa representa 100 000 unidades (cm) en la realidad, es decir 1 km.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-7-2026-W19-escala-mapas-planos-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W19-escala-mapas-planos-001-MASTERY-bundle-v2",
+      "statement": "¿Qué distancia real hay entre esas dos ciudades?",
+      "context": "En Medellín, dos ciudades están separadas 6 cm en un mapa a escala 1:500 000.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30 km",
+          "is_correct": true,
+          "feedback": "Correcto. 6 cm × 500 000 = 3 000 000 cm = 30 km."
+        },
+        {
+          "letter": "B",
+          "text": "6 km",
+          "is_correct": false,
+          "feedback": "Incorrecto. No multiplicaste por el factor de escala."
+        },
+        {
+          "letter": "C",
+          "text": "500 km",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste por el factor sin convertir unidades."
+        },
+        {
+          "letter": "D",
+          "text": "3 km",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste en vez de multiplicar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Distancia real = distancia en mapa × denominador de escala. 6 cm × 500 000 = 3 000 000 cm. Luego convertimos: 3 000 000 cm = 30 km.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-7-2026-W19-escala-mapas-planos-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W19-escala-mapas-planos-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la longitud real de esa pared en metros?",
+      "context": "En Cali, un plano de un colegio tiene escala 1:200 y muestra una pared de 8 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "16 m",
+          "is_correct": true,
+          "feedback": "Correcto. 8 cm × 200 = 1600 cm = 16 m."
+        },
+        {
+          "letter": "B",
+          "text": "8 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la unidad en el mapa con metros reales."
+        },
+        {
+          "letter": "C",
+          "text": "1.6 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste por 10 al convertir, falta multiplicar por 200."
+        },
+        {
+          "letter": "D",
+          "text": "160 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste por 200 pero olvidaste convertir cm a m."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Multiplicar por la escala y convertir cm a m dividiendo entre 100: 8 × 200 / 100 = 16 m.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-7-2026-W19-escala-mapas-planos-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W19-escala-mapas-planos-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la escala de ese mapa?",
+      "context": "En Barranquilla, una carretera real mide 12 km. En un mapa aparece con 6 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1:200 000",
+          "is_correct": true,
+          "feedback": "Correcto. 12 km = 1 200 000 cm; 1 200 000 / 6 = 200 000."
+        },
+        {
+          "letter": "B",
+          "text": "1:120 000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste 1 200 000 entre 10 000, no es la conversión correcta."
+        },
+        {
+          "letter": "C",
+          "text": "1:600 000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste en lugar de dividir."
+        },
+        {
+          "letter": "D",
+          "text": "1:60 000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste entre 20 000, lo cual subestima la escala."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Escala = distancia real / distancia en mapa. 1 200 000 cm ÷ 6 cm = 200 000. Por tanto la escala es 1:200 000.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-7-2026-W19-escala-mapas-planos-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W19-escala-mapas-planos-001-MASTERY-bundle-v5",
+      "statement": "¿Qué longitud tiene la cancha en el plano?",
+      "context": "En Bucaramanga, una cancha de fútbol real mide 100 m de largo. Se dibuja a escala 1:500.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 cm",
+          "is_correct": true,
+          "feedback": "Correcto. 100 m = 10 000 cm. 10 000 / 500 = 20 cm."
+        },
+        {
+          "letter": "B",
+          "text": "50 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste entre 200 en lugar de 500."
+        },
+        {
+          "letter": "C",
+          "text": "100 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aplicaste la escala."
+        },
+        {
+          "letter": "D",
+          "text": "200 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste en vez de dividir."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para encontrar la medida en el plano: longitud real / denominador de escala = 10 000 cm / 500 = 20 cm.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-7-2026-W19-escala-mapas-planos-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W19-escala-mapas-planos-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el área real del terreno en hectáreas?",
+      "context": "En Manizales, un mapa a escala 1:50 000 muestra un terreno cuadrado de 4 cm de lado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 hectáreas",
+          "is_correct": true,
+          "feedback": "Correcto. 4 cm × 50 000 = 200 000 cm = 2000 m por lado. Área = 2000² = 4 000 000 m² = 4 ha."
+        },
+        {
+          "letter": "B",
+          "text": "1 hectárea",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo calculaste el lado sin elevarlo al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "16 hectáreas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste 4×4 pero olvidaste aplicar la escala."
+        },
+        {
+          "letter": "D",
+          "text": "40 000 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Te quedaste en m² sin convertir a hectáreas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cada lado real = 4 cm × 50 000 = 2 km = 2000 m. Área = 2000 m × 2000 m = 4 000 000 m² = 4 hectáreas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W19-escala-mapas-planos-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W19-escala-mapas-planos-001-MASTERY-bundle-v7",
+      "statement": "¿Por qué la misma ruta real se ve más corta en el mapa a 1:50 000 que en el de 1:100 000?",
+      "context": "En Armenia, un mapa a escala 1:100 000 muestra una ruta de 9 cm. Otro mapa de la misma región usa escala 1:50 000.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque 1:50 000 representa más detalle por unidad de papel, así que caben más cm",
+          "is_correct": true,
+          "feedback": "Correcto. Una escala menor (1:50 000) agranda más el mapa."
+        },
+        {
+          "letter": "B",
+          "text": "Porque 1:50 000 reduce el mundo real",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas escalas reducen, pero 50 000 reduce menos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque 1:100 000 es un mapa viejo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La edad del mapa no cambia su escala."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los colores son distintos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los colores no cambian la escala real."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Escala 1:N menor (con N más pequeño) muestra más detalle: el mismo kilómetro real necesita más centímetros de papel. A 1:100 000 los 9 km × 0,00001 = 9 cm, pero a 1:50 000 los mismos 9 km × 0.00002 = 18 cm.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W19-escala-mapas-planos-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W19-escala-mapas-planos-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el área real en metros cuadrados?",
+      "context": "En Villavicencio, un plano de una casa muestra una sala de 6 cm × 4 cm a escala 1:50.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 m²",
+          "is_correct": true,
+          "feedback": "Correcto. 6 cm × 50 = 300 cm = 3 m; 4 cm × 50 = 200 cm = 2 m; 3 × 2 = 6 m²."
+        },
+        {
+          "letter": "B",
+          "text": "24 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste 6 × 4 sin aplicar la escala."
+        },
+        {
+          "letter": "C",
+          "text": "60 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste lado × lado × 10 en vez de aplicar bien la escala."
+        },
+        {
+          "letter": "D",
+          "text": "3 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo calculaste el área de un lado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Convertir cada lado: 6 cm × 50 = 3 m y 4 cm × 50 = 2 m. Luego área = 3 m × 2 m = 6 m².",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W19-escala-mapas-planos-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W19-escala-mapas-planos-001-MASTERY-bundle-v9",
+      "statement": "¿Es correcto calcular el área multiplicando los lados reales sin pasar por las unidades de cada lado?",
+      "context": "En Tunja, dicen: \"Una finca tiene forma rectangular y en el plano aparece con 5 cm × 3 cm a escala 1:10 000\". Calculas el área real: 5 cm × 10 000 = 50 000 cm = 500 m; 3 cm × 10 000 = 30 000 cm = 300 m; área = 150 000 m².",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, una vez expresados ambos lados en la misma unidad, multiplicar lados da el área",
+          "is_correct": true,
+          "feedback": "Correcto. Tras convertir a metros, 500 m × 300 m = 150 000 m²."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque hay que multiplicar los lados en cm primero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicar cm × cm tampoco es válido sin conversión a m²."
+        },
+        {
+          "letter": "C",
+          "text": "No, hay que sumar los lados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para áreas se multiplican lados, no se suman."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, pero el resultado es 15 000 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese sería 500 × 30, no 500 × 300."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El procedimiento correcto: convertir cada longitud a la misma unidad (m), luego multiplicar para obtener el área en m².",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-7-2026-W19-escala-mapas-planos-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W19-escala-mapas-planos-001-MASTERY-bundle-v10",
+      "statement": "¿Es razonable que 1 cm en el plano se traduzca en una caminata de 35 minutos?",
+      "context": "En Yopal, una empresa afirma en su publicidad que su nueva sede está \"a solo 1 cm del centro en el plano oficial\" con escala 1:25 000. Un cliente se queja porque al ir caminando tardó 35 minutos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque 1 cm × 25 000 = 250 m a pie, distancia plausible para ese tiempo",
+          "is_correct": true,
+          "feedback": "Correcto. 250 m se caminan en unos 4 minutos a paso normal, así que 35 minutos indica más lejos."
+        },
+        {
+          "letter": "B",
+          "text": "No, 1 cm siempre significa 1 metro en cualquier mapa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conversión depende de la escala, no es fija."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque el mapa mide 1 cm no más",
+          "is_correct": false,
+          "feedback": "Incorrecto. La medida física del mapa no determina distancias reales."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque la escala es una invención",
+          "is_correct": false,
+          "feedback": "Incorrecto. La escala es una razón matemática válida."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "1 cm × 25 000 = 25 000 cm = 250 m, distancia razonable para caminarse en pocos minutos. Una caminata de 35 minutos sugiere que el cliente recorrió más distancia que la indicada.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-7-2026-W19-escala-mapas-planos-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-18-grade-7-subject-matematicas",
+    "generated_at": "2026-09-21T16:46:39.546Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-7-2026-W18-graficos-estadisticos-interpretacion-001-MASTERY-bundle-v1",
+      "statement": "¿Qué tipo de gráfico usa barras verticales cuya altura representa la frecuencia de cada categoría?",
+      "context": "En Bogotá, el colegio presenta en un diagrama de barras la cantidad de estudiantes que practican cada deporte.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diagrama de barras",
+          "is_correct": true,
+          "feedback": "Correcto. El diagrama de barras usa barras cuya longitud indica la frecuencia."
+        },
+        {
+          "letter": "B",
+          "text": "Diagrama circular",
+          "is_correct": false,
+          "feedback": "Incorrecto. El circular usa sectores, no barras."
+        },
+        {
+          "letter": "C",
+          "text": "Gráfico de líneas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El de líneas usa una línea que une puntos."
+        },
+        {
+          "letter": "D",
+          "text": "Histograma",
+          "is_correct": false,
+          "feedback": "Incorrecto. El histograma representa intervalos numéricos, no categorías."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El diagrama de barras es el gráfico más común para comparar frecuencias de categorías discretas. La altura de cada barra es proporcional a la frecuencia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-7-2026-W18-graficos-estadisticos-interpretacion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W18-graficos-estadisticos-interpretacion-001-MASTERY-bundle-v2",
+      "statement": "¿Qué porcentaje del presupuesto se destina a comida y vivienda juntos?",
+      "context": "En Medellín, un gráfico circular muestra la distribución del presupuesto familiar: comida 40%, transporte 20%, vivienda 25% y entretenimiento 15%.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "65%",
+          "is_correct": true,
+          "feedback": "Correcto. 40% + 25% = 65%."
+        },
+        {
+          "letter": "B",
+          "text": "55%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 40% con transporte en lugar de vivienda."
+        },
+        {
+          "letter": "C",
+          "text": "60%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Te faltaron 5 puntos porcentuales del total."
+        },
+        {
+          "letter": "D",
+          "text": "50%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo sumaste las dos categorías menores."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para interpretar un gráfico circular se suman los porcentajes de las categorías pedidas: 40% + 25% = 65%.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-7-2026-W18-graficos-estadisticos-interpretacion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W18-graficos-estadisticos-interpretacion-001-MASTERY-bundle-v3",
+      "statement": "Si el horno produce 10 panes más que la demanda cada día, ¿cuántos panes produce el viernes?",
+      "context": "En Cali, un diagrama de barras muestra las ventas de panes en una panadería: lunes 30, martes 45, miércoles 50, jueves 35 y viernes 60.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "70 panes",
+          "is_correct": true,
+          "feedback": "Correcto. 60 + 10 = 70."
+        },
+        {
+          "letter": "B",
+          "text": "60 panes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo leíste la barra del viernes sin sumar la producción extra."
+        },
+        {
+          "letter": "C",
+          "text": "80 panes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 20 panes de más."
+        },
+        {
+          "letter": "D",
+          "text": "50 panes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste el dato del miércoles como si fuera el viernes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Primero se lee la barra del viernes (60) y luego se aplica el aumento: 60 + 10 = 70 panes producidos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-7-2026-W18-graficos-estadisticos-interpretacion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W18-graficos-estadisticos-interpretacion-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la temperatura promedio de los cinco días?",
+      "context": "En Barranquilla, un gráfico lineal muestra la temperatura en Cartagena durante 5 días: 28°C, 30°C, 31°C, 29°C y 27°C.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "29°C",
+          "is_correct": true,
+          "feedback": "Correcto. (28+30+31+29+27)/5 = 29."
+        },
+        {
+          "letter": "B",
+          "text": "28°C",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor del primer día, no el promedio."
+        },
+        {
+          "letter": "C",
+          "text": "31°C",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor máximo, no el promedio."
+        },
+        {
+          "letter": "D",
+          "text": "30°C",
+          "is_correct": false,
+          "feedback": "Incorrecto. Redondeaste al sumar, pero la suma exacta da 145/5 = 29."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El promedio es la suma de los datos dividida entre la cantidad: (28+30+31+29+27)/5 = 145/5 = 29°C.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-7-2026-W18-graficos-estadisticos-interpretacion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W18-graficos-estadisticos-interpretacion-001-MASTERY-bundle-v5",
+      "statement": "¿Cuántos estudiantes prefieren baloncesto según el gráfico?",
+      "context": "En Pereira, un diagrama circular muestra las preferencias de 80 estudiantes: fútbol 50%, baloncesto 25%, atletismo 15% y otros 10%.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 estudiantes",
+          "is_correct": true,
+          "feedback": "Correcto. 25% de 80 = 20."
+        },
+        {
+          "letter": "B",
+          "text": "25 estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el porcentaje con la cantidad."
+        },
+        {
+          "letter": "C",
+          "text": "15 estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el cálculo del 18.75%, no del 25%."
+        },
+        {
+          "letter": "D",
+          "text": "40 estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el 50%, no el 25%."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para traducir porcentaje a cantidad se multiplica: 0.25 × 80 = 20 estudiantes que prefieren baloncesto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-7-2026-W18-graficos-estadisticos-interpretacion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W18-graficos-estadisticos-interpretacion-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál gráfico permite comparar mejor cuál día tuvo más ventas?",
+      "context": "En Bucaramanga, dos gráficos muestran las ventas de la panadería: gráfico A (barras) y gráfico B (circular). Ambos representan los mismos datos: lunes 30, martes 45, miércoles 50.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El gráfico A de barras",
+          "is_correct": true,
+          "feedback": "Correcto. Las barras permiten comparar longitudes con precisión."
+        },
+        {
+          "letter": "B",
+          "text": "El gráfico B circular",
+          "is_correct": false,
+          "feedback": "Incorrecto. El circular muestra proporciones, pero comparar ángulos es menos directo."
+        },
+        {
+          "letter": "C",
+          "text": "Sirven igual para esa comparación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las barras dan una comparación más precisa de cantidades."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno sirve, habría que usar una tabla",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las barras son útiles precisamente para esa comparación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El diagrama de barras facilita la comparación directa de cantidades entre categorías porque la altura es fácil de leer a simple vista.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W18-graficos-estadisticos-interpretacion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W18-graficos-estadisticos-interpretacion-001-MASTERY-bundle-v7",
+      "statement": "¿Qué opinas de la afirmación del comerciante?",
+      "context": "En Santa Marta, un comerciante dice: \"Las ventas subieron mucho en julio, porque en el gráfico de líneas la línea termina arriba\". El gráfico va de 30 unidades en enero a 32 en julio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es engañosa, porque la subida de 30 a 32 es muy pequeña (≈7%)",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia es solo 2 unidades, apenas un 6.7% de aumento."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta, porque cualquier subida es mucho",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una subida de 2 sobre 30 no se considera \"mucho\"."
+        },
+        {
+          "letter": "C",
+          "text": "Es correcta, porque el gráfico termina arriba",
+          "is_correct": false,
+          "feedback": "Incorrecto. La posición final no mide la magnitud de la subida."
+        },
+        {
+          "letter": "D",
+          "text": "Es engañosa porque el gráfico no sirve",
+          "is_correct": false,
+          "feedback": "Incorrecto. El gráfico sirve, lo que está mal es la interpretación exaltada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los gráficos pueden usarse para exagerar diferencias visuales (gráficos trucados). Hay que leer los valores exactos antes de sacar conclusiones.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W18-graficos-estadisticos-interpretacion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W18-graficos-estadisticos-interpretacion-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué es difícil distinguir esos dos sectores solo mirando el gráfico?",
+      "context": "En Pasto, un gráfico circular tiene cuatro sectores de tamaños diferentes, pero dos de ellos se ven casi iguales al ojo. Sus porcentajes son 24% y 26%.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la diferencia visual entre los ángulos es apenas de 2%, casi imperceptible",
+          "is_correct": true,
+          "feedback": "Correcto. 360° × 0.02 = 7.2° de diferencia, difícil de notar a simple vista."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el gráfico está mal hecho",
+          "is_correct": false,
+          "feedback": "Incorrecto. El gráfico puede estar bien construido, la dificultad es del ojo humano."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los colores son iguales",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se dio información sobre colores."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las porcentaje siempre coinciden",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los porcentajes son diferentes aunque cercanos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un gráfico circular, la diferencia visual entre dos sectores con porcentajes cercanos (24% y 26%) es muy pequeña para el ojo, conviene usar la tabla de datos cuando los valores son parecidos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W18-graficos-estadisticos-interpretacion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W18-graficos-estadisticos-interpretacion-001-MASTERY-bundle-v9",
+      "statement": "¿Es adecuado usar esa afirmación para decidir mantener el método de enseñanza actual?",
+      "context": "En Ibagué, el director afirma: \"Las notas de matemáticas mejoraron porque la línea del gráfico subió de 3.2 a 3.4 en dos años\". El promedio subió a partir de 40 estudiantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, porque la subida es pequeña y no se comparó con otros grupos de control",
+          "is_correct": true,
+          "feedback": "Correcto. La subida de 0.2 puede no ser significativa sin un grupo de comparación."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque cualquier subida justifica seguir",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una subida pequeña no garantiza que el método sea el causante."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque el gráfico lo demuestra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un gráfico solo no prueba causalidad."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque los datos son falsos",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay evidencia de que los datos sean falsos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para tomar decisiones educativas se requiere más que un gráfico aislado: comparación con grupos similares, análisis de causas y significancia estadística.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-7-2026-W18-graficos-estadisticos-interpretacion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W18-graficos-estadisticos-interpretacion-001-MASTERY-bundle-v10",
+      "statement": "¿Qué criterios éticos debe aplicar al diseñar o elegir gráficos estadísticos?",
+      "context": "En Neiva, una empresa presenta dos gráficos del mismo año: barras verticales exagerando diferencias y líneas suavizando la tendencia. El dueño dice: \"Elija el gráfico que mejor represente la realidad\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mantener proporciones fieles a los datos y no manipular escalas para exagerar",
+          "is_correct": true,
+          "feedback": "Correcto. La honestidad exige escalas y proporciones ajustadas a los números reales."
+        },
+        {
+          "letter": "B",
+          "text": "Escoger el gráfico que más favorezca al negocio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es manipulación, no ética estadística."
+        },
+        {
+          "letter": "C",
+          "text": "Cambiar los datos para que la conclusión sea favorable",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es falsificación, está claramente prohibido."
+        },
+        {
+          "letter": "D",
+          "text": "Usar siempre gráficos circulares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada tipo de gráfico sirve para propósitos distintos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ética en gráficos estadísticos implica: no recortar ejes, no deformar áreas y no omitir datos. La transparencia construye confianza en la información.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-7-2026-W18-graficos-estadisticos-interpretacion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}
