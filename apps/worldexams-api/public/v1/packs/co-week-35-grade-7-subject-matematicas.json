@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-35-grade-7-subject-matematicas",
+    "generated_at": "2026-09-21T20:02:46.639Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-7-2026-W35-homotecia-ampliacion-reduccion-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es una homotecia?",
+      "context": "En Bogotá, un profesor de dibujo técnico explica cómo ampliar un plano usando un centro fijo y un factor de escala.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un giro de la figura alrededor de un punto sin cambiar su tamaño",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe una rotación, que conserva el tamaño pero cambia la orientación."
+        },
+        {
+          "letter": "B",
+          "text": "Un desplazamiento de la figura en línea recta sin cambiar su forma ni su tamaño",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe una traslación, que mantiene las medidas originales."
+        },
+        {
+          "letter": "C",
+          "text": "Una transformación que agranda o reduce una figura desde un centro fijo según un factor de escala",
+          "is_correct": true,
+          "feedback": "Correcto. La homotecia multiplica todas las distancias al centro por el factor k."
+        },
+        {
+          "letter": "D",
+          "text": "Un reflejo de la figura frente a un espejo que invierte su posición",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe una reflexión, que conserva el tamaño y cambia el lado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La homotecia parte de un centro y un factor k: cada punto se mueve sobre la recta que lo une con el centro hasta que su distancia se multiplica por k. La figura resultante conserva la forma pero cambia de tamaño.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-7-2026-W35-homotecia-ampliacion-reduccion-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W35-homotecia-ampliacion-reduccion-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo se distingue una ampliación de una reducción según el factor de escala k?",
+      "context": "En Medellín, una fotógrafa ajusta el tamaño de una foto en su computador: a veces la amplía para un afiche y a veces la reduce para el celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Si k es mayor que 1 hay ampliación y si k está entre 0 y 1 hay reducción",
+          "is_correct": true,
+          "feedback": "Correcto. Un factor mayor que 1 estira las distancias y uno menor que 1 las encoge."
+        },
+        {
+          "letter": "B",
+          "text": "Si k es mayor que 1 hay reducción y si k está entre 0 y 1 hay ampliación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invierte los casos: multiplicar por 3 agranda y multiplicar por 0,5 encoge."
+        },
+        {
+          "letter": "C",
+          "text": "Toda homotecia con k positivo es una reducción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con k = 2 o k = 5 la figura crece; solo los factores entre 0 y 1 reducen."
+        },
+        {
+          "letter": "D",
+          "text": "El factor k no tiene relación con el tamaño de la imagen",
+          "is_correct": false,
+          "feedback": "Incorrecto. El factor k es precisamente lo que determina si la imagen crece o se encoge."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El factor k manda: k > 1 amplía (las medidas se multiplican y crecen), 0 < k < 1 reduce (las medidas se achican) y k = 1 deja la figura igual.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-7-2026-W35-homotecia-ampliacion-reduccion-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W35-homotecia-ampliacion-reduccion-001-MASTERY-bundle-v3",
+      "statement": "¿Cuánto mide el segmento en la imagen ampliada?",
+      "context": "En Cali, un diseñador amplía un segmento de 5 cm de un logotipo con una homotecia de factor k = 3 para una valla publicitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8 cm, porque se suman 5 + 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. El factor no se suma; las longitudes se multiplican por k."
+        },
+        {
+          "letter": "B",
+          "text": "5 cm, porque la homotecia no cambia las medidas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con k = 3 la figura crece al triple; solo k = 1 deja todo igual."
+        },
+        {
+          "letter": "C",
+          "text": "15 cm, porque 5 × 3 = 15",
+          "is_correct": true,
+          "feedback": "Correcto. Cada longitud de la figura se multiplica por el factor de escala."
+        },
+        {
+          "letter": "D",
+          "text": "25 cm, porque se calcula 5 al cuadrado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elevar al cuadrado no corresponde al factor k = 3."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En una homotecia todas las longitudes se multiplican por k. Con k = 3, el segmento de 5 cm se convierte en uno de 15 cm.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-7-2026-W35-homotecia-ampliacion-reduccion-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W35-homotecia-ampliacion-reduccion-001-MASTERY-bundle-v4",
+      "statement": "¿Cuáles son las medidas de la foto reducida?",
+      "context": "En Barranquilla, una fotografía de 8 cm por 10 cm se reduce con factor k = 0,5 para imprimirla en un carné escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "16 cm por 20 cm, porque se multiplica por 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicar por 2 amplía; el factor de reducción es 0,5."
+        },
+        {
+          "letter": "B",
+          "text": "7,5 cm por 9,5 cm, porque se resta 0,5 a cada lado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El factor no se resta; cada medida se multiplica por 0,5."
+        },
+        {
+          "letter": "C",
+          "text": "4 cm por 10 cm, porque solo se reduce un lado",
+          "is_correct": false,
+          "feedback": "Incorrecto. La homotecia reduce todos los lados por igual para conservar la forma."
+        },
+        {
+          "letter": "D",
+          "text": "4 cm por 5 cm, porque 8 × 0,5 = 4 y 10 × 0,5 = 5",
+          "is_correct": true,
+          "feedback": "Correcto. Cada lado se multiplica por 0,5, es decir, queda a la mitad."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Con k = 0,5 cada longitud queda en la mitad: 8 cm se vuelve 4 cm y 10 cm se vuelve 5 cm. La foto conserva sus proporciones en tamaño carné.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-7-2026-W35-homotecia-ampliacion-reduccion-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W35-homotecia-ampliacion-reduccion-001-MASTERY-bundle-v5",
+      "statement": "¿Cuáles son las medidas de la sala en la maqueta y cuánto mide su perímetro?",
+      "context": "En Cartagena, un arquitecto dibuja el plano de una sala rectangular de 4 m por 6 m y luego aplica una homotecia de factor k = 2 para una maqueta de exhibición.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8 m por 12 m con perímetro de 40 m",
+          "is_correct": true,
+          "feedback": "Correcto. Cada lado se duplica (8 y 12) y el perímetro es 2 × (8 + 12) = 40 m."
+        },
+        {
+          "letter": "B",
+          "text": "6 m por 8 m con perímetro de 28 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos valores suman 2 a cada lado en lugar de multiplicar por 2."
+        },
+        {
+          "letter": "C",
+          "text": "8 m por 12 m con perímetro de 20 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las medidas duplicadas están bien, pero 20 m es el perímetro original, no el de la maqueta."
+        },
+        {
+          "letter": "D",
+          "text": "16 m por 36 m con perímetro de 104 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos valores multiplican por 4 y por 6 en vez de aplicar k = 2 a cada lado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La homotecia multiplica cada longitud por k: 4 × 2 = 8 m y 6 × 2 = 12 m. El perímetro también se duplica: de 20 m pasa a 40 m.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-7-2026-W35-homotecia-ampliacion-reduccion-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W35-homotecia-ampliacion-reduccion-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál fue el factor de escala aplicado?",
+      "context": "En Bucaramanga, un estudiante mide un trazo original de 3 cm y su imagen ampliada de 12 cm en un plano de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "k = 9, porque 12 − 3 = 9",
+          "is_correct": false,
+          "feedback": "Incorrecto. El factor no es una diferencia; es el cociente entre la imagen y el original."
+        },
+        {
+          "letter": "B",
+          "text": "k = 4, porque 12 ÷ 3 = 4",
+          "is_correct": true,
+          "feedback": "Correcto. El factor se halla dividiendo la medida de la imagen entre la del original."
+        },
+        {
+          "letter": "C",
+          "text": "k = 3, porque 3 es la medida original",
+          "is_correct": false,
+          "feedback": "Incorrecto. La medida original no es el factor; hay que comparar imagen y original."
+        },
+        {
+          "letter": "D",
+          "text": "k = 0,25, porque 3 ÷ 12 = 0,25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese cociente invierte el orden: daría una reducción, pero la imagen es mayor que el original."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El factor de escala es imagen ÷ original = 12 ÷ 3 = 4. Como k > 1, se confirma que fue una ampliación al cuádruple.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W35-homotecia-ampliacion-reduccion-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W35-homotecia-ampliacion-reduccion-001-MASTERY-bundle-v7",
+      "statement": "¿Cuáles son las coordenadas de la imagen P'?",
+      "context": "En Pereira, en un plano cartesiano se aplica una homotecia con centro en el origen y factor k = 3 al punto P de coordenadas (2, 3).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(5, 6), porque se suma 3 a cada coordenada",
+          "is_correct": false,
+          "feedback": "Incorrecto. El factor no se suma; cada coordenada se multiplica por k."
+        },
+        {
+          "letter": "B",
+          "text": "(3, 2), porque se intercambian las coordenadas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Intercambiar coordenadas es una reflexión, no una homotecia."
+        },
+        {
+          "letter": "C",
+          "text": "(6, 9), porque 2 × 3 = 6 y 3 × 3 = 9",
+          "is_correct": true,
+          "feedback": "Correcto. Con centro en el origen, cada coordenada se multiplica por el factor."
+        },
+        {
+          "letter": "D",
+          "text": "(2, 3), porque la homotecia no mueve los puntos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo k = 1 deja los puntos quietos; con k = 3 el punto se aleja del origen."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Con centro en el origen, la homotecia multiplica cada coordenada por k: (2 × 3, 3 × 3) = (6, 9). El punto queda al triple de distancia del origen sobre la misma recta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W35-homotecia-ampliacion-reduccion-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W35-homotecia-ampliacion-reduccion-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el área del logo en el mural?",
+      "context": "En Bogotá, el logo de un colegio tiene un área de 20 cm² y se amplía para un mural con una homotecia de factor k = 3.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "60 cm², porque 20 × 3 = 60",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las longitudes se multiplican por 3, pero el área se multiplica por 3² = 9."
+        },
+        {
+          "letter": "B",
+          "text": "23 cm², porque 20 + 3 = 23",
+          "is_correct": false,
+          "feedback": "Incorrecto. El factor no se suma al área."
+        },
+        {
+          "letter": "C",
+          "text": "180 cm², porque 20 × 9 = 180",
+          "is_correct": true,
+          "feedback": "Correcto. Cada lado se triplica y el área crece con el cuadrado del factor: k² = 9."
+        },
+        {
+          "letter": "D",
+          "text": "120 cm², porque 20 × 6 = 120",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicar por 6 no corresponde ni a k ni a k²."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En una homotecia de factor k, las áreas se multiplican por k². Aquí k² = 9, así que 20 cm² se convierten en 180 cm² en el mural.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W35-homotecia-ampliacion-reduccion-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W35-homotecia-ampliacion-reduccion-001-MASTERY-bundle-v9",
+      "statement": "Evalúe la afirmación del estudiante.",
+      "context": "En Tunja, un estudiante afirma que aplicar un factor k = 0,5 a una figura la duplica y que el área resultante también se duplica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es falsa en todo: k = 0,5 reduce a la mitad y el área queda en la cuarta parte",
+          "is_correct": true,
+          "feedback": "Correcto. Las longitudes se multiplican por 0,5 y el área por 0,25."
+        },
+        {
+          "letter": "B",
+          "text": "Es verdadera: multiplicar por 0,5 duplica cualquier figura",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicar una longitud por 0,5 la deja en la mitad, no en el doble."
+        },
+        {
+          "letter": "C",
+          "text": "Es parcialmente cierta: la figura se reduce pero el área se duplica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si los lados se encogen, el área también se encoge: queda multiplicada por 0,25."
+        },
+        {
+          "letter": "D",
+          "text": "Es falsa porque k = 0,5 deja la figura exactamente igual",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo k = 1 deja la figura igual; k = 0,5 la reduce a la mitad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El estudiante confunde el factor: 0,5 < 1 produce reducción. Los lados quedan a la mitad y el área se multiplica por (0,5)² = 0,25, es decir, queda en la cuarta parte.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-7-2026-W35-homotecia-ampliacion-reduccion-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W35-homotecia-ampliacion-reduccion-001-MASTERY-bundle-v10",
+      "statement": "¿Es correcta la afirmación del auxiliar? Evalúe.",
+      "context": "En Barranquilla, un plano se reduce dos veces seguidas con factor k = 0,5 cada vez. El segmento original mide 16 cm y un auxiliar dice que al final medirá 8 cm con factor total 0,5.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque dos reducciones de 0,5 equivalen a una sola de 0,5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los factores se multiplican: 0,5 × 0,5 = 0,25, no 0,5."
+        },
+        {
+          "letter": "B",
+          "text": "No, el factor total es 0,25 y el segmento final mide 4 cm",
+          "is_correct": true,
+          "feedback": "Correcto. Primera reducción: 16 × 0,5 = 8 cm; segunda: 8 × 0,5 = 4 cm; total 16 × 0,25 = 4 cm."
+        },
+        {
+          "letter": "C",
+          "text": "No, el segmento final mide 0 cm porque 0,5 + 0,5 = 1 lo borra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los factores no se suman; aplicar k = 1 dejaría la figura igual, no la borraría."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, porque 16 − 0,5 − 0,5 = 15 y redondeando da 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. El factor se multiplica, nunca se resta, y el redondeo propuesto no tiene sustento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las homotecias sucesivas multiplican sus factores: 0,5 × 0,5 = 0,25. El segmento de 16 cm queda en 4 cm, es decir, en la cuarta parte del original.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-7-2026-W35-homotecia-ampliacion-reduccion-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}
