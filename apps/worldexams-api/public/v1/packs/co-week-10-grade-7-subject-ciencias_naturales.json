@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-10-grade-7-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T07:45:50.984Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-7-2026-W10-estaciones-mareas-gravedad-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es la gravedad según lo observado en la caída de los objetos en el patio?",
+      "context": "En el patio de un colegio de Bogotá, los niños sueltan una pelota de baloncesto y una hoja de papel arrugada desde la misma altura y observan que ambas caen hacia el suelo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una fuerza de atracción de la Tierra que hala los objetos hacia su centro.",
+          "is_correct": true,
+          "feedback": "Correcta, porque la gravedad terrestre atrae los objetos hacia abajo aunque tengan distinta masa."
+        },
+        {
+          "letter": "B",
+          "text": "Un viento fuerte que empuja las pelotas solo en Bogotá durante las mañanas frías.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el viento es aire en movimiento y no la causa universal de la caída."
+        },
+        {
+          "letter": "C",
+          "text": "Una energía de las pilas que hace funcionar los controles remotos en los salones.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque las pilas dan energía eléctrica y no explican la caída de los cuerpos."
+        },
+        {
+          "letter": "D",
+          "text": "Un imán gigante escondido bajo el colegio que solo atrae objetos de color naranja.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la gravedad actúa sobre todos los objetos sin importar su color."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La gravedad es la atracción mutua entre masas. La Tierra, por su gran masa, atrae la pelota y el papel hacia su centro. La hoja cae más lento por el aire, pero sin aire ambos caerían al tiempo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-7-2026-W10-estaciones-mareas-gravedad-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W10-estaciones-mareas-gravedad-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué en la zona ecuatorial de Colombia no hay estaciones marcadas como en Madrid?",
+      "context": "Una niña de Leticia visita a su prima en Madrid por videollamada en diciembre: en Leticia hace calor húmedo y en Madrid hace frío con días cortos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque Colombia está más cerca del Sol en diciembre y más lejos en junio por una órbita muy alargada.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la distancia al Sol casi no cambia y no explica las estaciones."
+        },
+        {
+          "letter": "B",
+          "text": "Porque cerca del ecuador los rayos solares llegan casi directos todo el año y la inclinación del eje afecta poco.",
+          "is_correct": true,
+          "feedback": "Correcta, porque la inclinación del eje terrestre cambia la inclinación de los rayos según la latitud."
+        },
+        {
+          "letter": "C",
+          "text": "Porque en Colombia no existe el movimiento de traslación de la Tierra alrededor del Sol.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque toda la Tierra realiza la traslación, incluida Colombia."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las estaciones dependen del color de las casas y en Colombia todas son de colores cálidos.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el color de las casas no influye en el clima estacional del planeta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las estaciones se deben a la inclinación del eje terrestre durante la traslación. En latitudes altas los rayos llegan muy inclinados en invierno y directos en verano. En el ecuador, como en Leticia, llegan casi directos siempre y solo alternan periodos de lluvia y sequía.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-7-2026-W10-estaciones-mareas-gravedad-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W10-estaciones-mareas-gravedad-001-MASTERY-bundle-v3",
+      "statement": "¿Cómo se aplica la influencia gravitacional de la Luna y el Sol para explicar lo que ve el pescador en Tumaco?",
+      "context": "En Tumaco, Nariño, un pescador consulta la tabla de mareas: en luna nueva la marea alta inunda más el muelle y en cuarto creciente la diferencia entre alta y baja es menor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Luna empuja el agua con viento y el Sol calienta los motores de las lanchas en Nariño.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque las mareas son por atracción gravitacional y no por viento ni motores."
+        },
+        {
+          "letter": "B",
+          "text": "En luna nueva el Sol y la Luna se alinean y suman sus atracciones, lo que produce mareas más altas; en cuarto se contrarrestan en parte.",
+          "is_correct": true,
+          "feedback": "Correcta, porque la alineación suma fuerzas y la posición en ángulo recto las compensa parcialmente."
+        },
+        {
+          "letter": "C",
+          "text": "Las mareas cambian porque los peces de Tumaco beben más agua en luna nueva y la devuelven después.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque los peces no modifican el nivel del océano Pacífico."
+        },
+        {
+          "letter": "D",
+          "text": "Las mareas solo dependen de la lluvia en Pasto y no tienen relación con la Luna ni con el Sol.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la lluvia aporta agua dulce local pero la marea oceánica es gravitacional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La gravedad de la Luna deforma el océano formando abultamientos. Cuando Sol y Luna están alineados, en luna nueva y llena, sus efectos se suman y hay mareas vivas. En cuartos, forman ángulo recto y hay mareas muertas más suaves.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W10-estaciones-mareas-gravedad-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W10-estaciones-mareas-gravedad-001-MASTERY-bundle-v4",
+      "statement": "Si el dibujo muestra media Luna iluminada a la derecha y una semana después Luna completa, ¿qué fases se observaron y qué las causa?",
+      "context": "En un barrio de Cali, los vecinos observan la Luna durante un mes y dibujan su forma cada tres noches en el cuaderno del conjunto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuarto creciente y luego Luna llena, causadas por el cambio del ángulo entre Sol, Tierra y Luna.",
+          "is_correct": true,
+          "feedback": "Correcta, porque las fases son la parte iluminada que vemos según la posición relativa de los tres astros."
+        },
+        {
+          "letter": "B",
+          "text": "Eclipse total y luego Luna nueva, causados porque la Luna se apaga y se enciende como un bombillo.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la Luna no tiene luz propia y los eclipses son sombras ocasionales, no fases semanales."
+        },
+        {
+          "letter": "C",
+          "text": "Dos Lunas distintas, porque cada semana nace una Luna nueva que reemplaza a la anterior.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque es la misma Luna vista desde ángulos diferentes durante su órbita."
+        },
+        {
+          "letter": "D",
+          "text": "Luna llena y luego cuarto menguante invertido, porque la Luna gira alrededor del Sol en siete días.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la Luna orbita la Tierra en unos 29 días y la secuencia descrita es creciente a llena."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las fases dependen de cuánta cara iluminada por el Sol vemos desde Cali. La Luna siempre tiene media esfera iluminada, pero desde la Tierra vemos una porción creciente hasta la Luna llena y luego decreciente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W10-estaciones-mareas-gravedad-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W10-estaciones-mareas-gravedad-001-MASTERY-bundle-v5",
+      "statement": "¿Cómo se explica la diferencia entre masa y peso al pesar el pescado en Buenaventura?",
+      "context": "En Buenaventura, una comerciante debe embarcar 800 kilogramos de pescado hacia Bogotá. En el puerto pesa la carga en una báscula de resorte y nota que el valor en kilogramos fuerza cambia levemente si el barco se mueve.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La masa y el peso son lo mismo y nunca cambian aunque la gravedad o el movimiento cambien.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la masa es cantidad de materia y el peso es la fuerza con que la gravedad la atrae."
+        },
+        {
+          "letter": "B",
+          "text": "La masa de 800 kilogramos no cambia, pero el peso es la fuerza de atracción y la báscula de resorte puede variar con la gravedad y el movimiento.",
+          "is_correct": true,
+          "feedback": "Correcta, porque distingue materia constante de fuerza variable medida con resorte."
+        },
+        {
+          "letter": "C",
+          "text": "La masa desaparece cuando el barco flota y por eso el pescado pesa cero en el mar.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque flotar no elimina la materia ni la atracción gravitacional."
+        },
+        {
+          "letter": "D",
+          "text": "El peso se mide en metros y la masa se mide en segundos según las normas del puerto.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el peso se mide en newtons y la masa en kilogramos, no en metros ni segundos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La masa del pescado es la misma en Buenaventura y en Bogotá. El peso es masa por gravedad y se mide con dinamómetro. El movimiento del barco agrega aceleraciones que alteran la lectura, sin cambiar la masa real.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W10-estaciones-mareas-gravedad-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W10-estaciones-mareas-gravedad-001-MASTERY-bundle-v6",
+      "statement": "¿Por qué ocurren dos mareas altas al día en Cartagena y no una sola cuando la Luna pasa por encima?",
+      "context": "En Cartagena, un guía turístico explica que cada día hay dos mareas altas y dos bajas, y que los turistas deben planear el paseo a las islas del Rosario según la tabla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el mar se divide en dos partes que nunca se comunican entre Cartagena y San Andrés.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el océano es continuo y la explicación está en los dos abultamientos de marea."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la atracción lunar forma un abultamiento frente a la Luna y otro en el lado opuesto por inercia, y la rotación terrestre pasa por ambos.",
+          "is_correct": true,
+          "feedback": "Correcta, porque combina atracción directa e inercia con la rotación diaria de la Tierra."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la Tierra se detiene dos veces al día y el agua se acumula en las orillas por el freno.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la Tierra rota de forma continua y no se detiene."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los barcos de la bahía empujan el agua hacia afuera dos veces al día con sus hélices.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque las hélices mueven agua localmente y no generan el ciclo global de mareas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Luna atrae más el lado cercano y deja un abultamiento opuesto por diferencia de atracción e inercia. Al rotar, Cartagena atraviesa ambos abultamientos en 24 horas, lo que produce dos pleamares y dos bajamares.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W10-estaciones-mareas-gravedad-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W10-estaciones-mareas-gravedad-001-MASTERY-bundle-v7",
+      "statement": "¿Qué error hay en comparar el frío de enero en Bogotá con el invierno de Canadá?",
+      "context": "Un estudiante de Tunja afirma que en Bogotá sí hay invierno en enero porque hace frío en las madrugadas y que por eso nieva como en Canadá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Confunde la temporada seca con heladas locales con el invierno astronómico por inclinación del eje que produce nieve en latitudes altas.",
+          "is_correct": true,
+          "feedback": "Correcta, porque en Bogotá el frío de madrugada es por cielo despejado y altitud, no por estación astronómica."
+        },
+        {
+          "letter": "B",
+          "text": "No hay error porque Bogotá y Canadá tienen exactamente el mismo clima y la misma latitud norte.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque Bogotá está en zona ecuatorial y Canadá en latitudes altas con regímenes distintos."
+        },
+        {
+          "letter": "C",
+          "text": "El error es creer que en Bogotá hace frío, cuando la Sabana siempre supera los 40 grados en enero.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque en enero sí hay madrugadas frías con heladas, pero no es invierno con nieve."
+        },
+        {
+          "letter": "D",
+          "text": "El error es usar termómetros, ya que la temperatura no se puede medir en ciudades de montaña.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque los termómetros miden bien en la montaña y el problema es la interpretación estacional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Bogotá está a 2600 metros de altura sobre el nivel del mar: las madrugadas despejadas de la temporada seca pierden calor rápido y hielan cultivos. Eso no es el invierno astronómico de Canadá, donde el eje inclinado deja noches largas y rayos muy oblicuos por meses.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W10-estaciones-mareas-gravedad-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W10-estaciones-mareas-gravedad-001-MASTERY-bundle-v8",
+      "statement": "¿Qué análisis permite decidir con seguridad el mejor día para pescar según los avisos del malecón?",
+      "context": "En el malecón de Tumaco, dos avisos explican: uno dice que en luna llena y nueva las corrientes son más fuertes, y otro que en cuartos las corrientes son más suaves para salir en lancha.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Salir en cualquier fase porque la Luna no influye en nada y los avisos son decoración del malecón.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque ignora la relación comprobada entre fases, alineación y amplitud de marea."
+        },
+        {
+          "letter": "B",
+          "text": "Preferir cuartos si se quiere corriente suave, porque Sol y Luna en ángulo recto reducen la amplitud; evitar lunas nueva y llena si se teme corriente fuerte.",
+          "is_correct": true,
+          "feedback": "Correcta, porque aplica el modelo de mareas vivas y muertas a una decisión práctica de pesca."
+        },
+        {
+          "letter": "C",
+          "text": "Preferir luna nueva para corriente suave porque la alineación siempre anula por completo la gravedad.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la alineación suma atracciones y produce mareas vivas, lo contrario de suave."
+        },
+        {
+          "letter": "D",
+          "text": "Guiarse por el precio del pescado en Bogotá, que determina la altura de la marea en Tumaco.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el precio es económico y no controla la gravedad ni el océano."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar mareas es sumar vectores de atracción. En sicigia, nueva y llena, se suman y hay corrientes fuertes. En cuadratura, cuartos, se compensan en parte y hay mareas muertas ideales para faenas con menos riesgo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W10-estaciones-mareas-gravedad-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W10-estaciones-mareas-gravedad-001-MASTERY-bundle-v9",
+      "statement": "¿Cómo se evalúa con ciencia la afirmación del video sobre la luna llena en Barranquilla?",
+      "context": "En redes sociales circula un video que afirma que en luna llena los objetos pesan mucho menos en Barranquilla y que por eso se puede saltar edificios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se acepta porque en luna llena la gravedad de la Tierra desaparece por completo durante una noche.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la gravedad terrestre domina siempre y el efecto lunar es minúsculo."
+        },
+        {
+          "letter": "B",
+          "text": "Se rechaza porque la atracción lunar es miles de veces menor que la terrestre y no permite saltar edificios ni cambia el peso de forma perceptible.",
+          "is_correct": true,
+          "feedback": "Correcta, porque compara órdenes de magnitud y exige evidencia medible con dinamómetro."
+        },
+        {
+          "letter": "C",
+          "text": "Se acepta porque la Luna llena ilumina más y la luz visible anula la gravedad en la costa Caribe.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la luz no anula la atracción gravitacional sobre los cuerpos."
+        },
+        {
+          "letter": "D",
+          "text": "Se rechaza porque la Luna no existe y es una proyección de luces de los estadios de Barranquilla.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la Luna es un cuerpo real cuya órbita y masa están medidas con precisión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar exige cuantificar. La atracción lunar sobre una persona es apenas una fracción diminuta de su peso. Un dinamómetro en Barranquilla no detecta cambios útiles entre fases, y mucho menos un impulso para saltar edificios.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-7-2026-W10-estaciones-mareas-gravedad-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W10-estaciones-mareas-gravedad-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la mejor recomendación para los campesinos del Huila frente al almanaque español?",
+      "context": "Campesinos del Huila quieren fijar la siembra de arroz usando solo el almanaque de estaciones de España, que marca primavera en marzo y otoño en septiembre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seguir el almanaque español al pie de la letra porque el Huila tiene las mismas cuatro estaciones en las mismas fechas.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el Huila ecuatorial no presenta primavera ni otoño térmicos como España."
+        },
+        {
+          "letter": "B",
+          "text": "No usar ese almanaque y guiarse por los periodos locales de lluvia y sequía y por el nivel de los ríos del Huila.",
+          "is_correct": true,
+          "feedback": "Correcta, porque en zona ecuatorial el calendario agrícola depende del régimen de lluvias y no de estaciones térmicas."
+        },
+        {
+          "letter": "C",
+          "text": "Sembrar solo cuando haya luna llena porque la Luna reemplaza por completo la lluvia en el Huila.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la Luna no aporta agua y el arroz necesita humedad real del suelo."
+        },
+        {
+          "letter": "D",
+          "text": "Abandonar la agricultura porque sin estaciones europeas es imposible cultivar arroz en Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el Huila sí cultiva con éxito usando su propio régimen bimodal de lluvias."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La decisión correcta evalúa el contexto geográfico. España tiene estaciones térmicas por latitud media, mientras el Huila tiene temporadas de lluvia y sequía por la zona de convergencia intertropical. Copiar el almanaque europeo llevaría a sembrar en meses secos y perder la cosecha.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-7-2026-W10-estaciones-mareas-gravedad-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

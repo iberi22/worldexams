@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-9-grade-7-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T07:45:50.984Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-7-2026-W09-cambio-climatico-colombia-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es el efecto invernadero en la atmósfera de la Tierra?",
+      "context": "En un colegio de Bogotá, la profesora explica con una maqueta del planeta Tierra cubierto por una cobija transparente que retiene el calor del Sol.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La retención natural de parte del calor solar por gases de la atmósfera que mantiene el planeta tibio.",
+          "is_correct": true,
+          "feedback": "Correcta, porque describe el efecto invernadero como la retención de calor por gases atmosféricos."
+        },
+        {
+          "letter": "B",
+          "text": "El aumento de frío en las noches por la desaparición total de la atmósfera terrestre.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el efecto invernadero retiene calor y no produce frío ni implica desaparición de la atmósfera."
+        },
+        {
+          "letter": "C",
+          "text": "La llegada de rayos del Sol que rebotan por completo al espacio sin calentar la superficie.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque si todo el calor escapara el planeta sería demasiado frío para la vida."
+        },
+        {
+          "letter": "D",
+          "text": "La contaminación por plásticos en los ríos de Colombia que impide la navegación en lancha.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la contaminación de ríos es un problema distinto al efecto invernadero atmosférico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El efecto invernadero natural permite la vida porque gases como el vapor de agua y el dióxido de carbono retienen parte del calor. El problema actual es que las actividades humanas aumentan esos gases y retienen demasiado calor.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-7-2026-W09-cambio-climatico-colombia-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W09-cambio-climatico-colombia-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué el dióxido de carbono y el metano se consideran gases de efecto invernadero?",
+      "context": "En Medellín, un grupo de estudiantes compara dos frascos al Sol: uno con aire limpio y otro con humo de una buseta que circula por el centro de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque enfrían la atmósfera y evitan por completo cualquier aumento de temperatura.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque estos gases retienen calor y no enfrían la atmósfera."
+        },
+        {
+          "letter": "B",
+          "text": "Porque absorben el calor que emite la superficie terrestre y lo devuelven hacia la superficie.",
+          "is_correct": true,
+          "feedback": "Correcta, porque esa absorción y reemisión de calor es la propiedad que define a un gas de efecto invernadero."
+        },
+        {
+          "letter": "C",
+          "text": "Porque destruyen directamente el oxígeno que respiramos en las montañas de Antioquia.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque no destruyen el oxígeno, sino que alteran el balance de calor en la atmósfera."
+        },
+        {
+          "letter": "D",
+          "text": "Porque solo existen dentro de laboratorios y nunca llegan a la atmósfera real.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque ambos gases se emiten en la vida real por transporte, ganadería y quema de combustibles."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los gases de efecto invernadero son transparentes a la luz solar pero absorben la radiación infrarroja que emite la Tierra caliente. El frasco con humo se calienta más porque simula esa mayor retención de calor.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-7-2026-W09-cambio-climatico-colombia-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W09-cambio-climatico-colombia-001-MASTERY-bundle-v3",
+      "statement": "¿Cómo se relaciona la observación del Nevado Santa Isabel con el calentamiento global?",
+      "context": "En Manizales, los estudiantes revisan fotografías del Nevado Santa Isabel tomadas con diez años de diferencia y observan que la cobertura blanca de hielo es mucho menor en la foto reciente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El hielo disminuyó porque los fotógrafos usaron cámaras diferentes en cada visita al nevado.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el tipo de cámara no elimina el hielo visible en la montaña."
+        },
+        {
+          "letter": "B",
+          "text": "El hielo aumentó porque el calentamiento global produce más nieve en los nevados colombianos.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque las mediciones muestran pérdida de área glaciar y no aumento."
+        },
+        {
+          "letter": "C",
+          "text": "El hielo disminuyó porque el aumento de la temperatura media derrite los glaciares tropicales de Colombia.",
+          "is_correct": true,
+          "feedback": "Correcta, porque el calentamiento sostenido funde el hielo de alta montaña más rápido de lo que se recupera."
+        },
+        {
+          "letter": "D",
+          "text": "El hielo desapareció porque los nevados se trasladaron hacia la costa Caribe por el viento.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque las montañas no se trasladan y el deshielo es un cambio físico del hielo por calor."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los glaciares colombianos como Santa Isabel y El Cocuy son termómetros del clima. Al aplicar lo observado en fotos a la teoría del calentamiento global, se concluye que la pérdida de hielo es evidencia del aumento de temperatura.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W09-cambio-climatico-colombia-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W09-cambio-climatico-colombia-001-MASTERY-bundle-v4",
+      "statement": "Si la temperatura global sigue aumentando, ¿qué cambio en el ciclo del agua explica las lluvias irregulares que afecta los cultivos de papa?",
+      "context": "Una familia campesina de Boyacá nota que las lluvias llegan en meses distintos y que las heladas dañan la papa en épocas que antes eran estables.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mayor evaporación que carga las nubes con más humedad y produce lluvias más intensas e irregulares.",
+          "is_correct": true,
+          "feedback": "Correcta, porque más calor aumenta la evaporación y altera el ritmo y la intensidad de las lluvias."
+        },
+        {
+          "letter": "B",
+          "text": "Desaparición total del agua en los ríos porque el calor convierte toda el agua en roca sólida.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el agua no se convierte en roca y el ciclo del agua continúa aunque alterado."
+        },
+        {
+          "letter": "C",
+          "text": "Congelamiento permanente de los embalses de Colombia que impide cualquier evaporación futura.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el calentamiento produce lo contrario: menos congelamiento y más evaporación."
+        },
+        {
+          "letter": "D",
+          "text": "Disminución de la evaporación porque el Sol calienta menos cuando hay gases invernadero.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque los gases invernadero aumentan la retención de calor y por tanto la evaporación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El ciclo del agua depende de la energía solar. Con más calor hay más evaporación en océanos y suelos, lo que cambia la formación de nubes y provoca periodos de sequía seguidos de aguaceros fuertes que dañan la papa en Boyacá.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W09-cambio-climatico-colombia-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W09-cambio-climatico-colombia-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál opción identifica correctamente un ejemplo de mitigación y uno de adaptación al cambio climático?",
+      "context": "En un barrio de Cali, la alcaldía propone dos acciones: sembrar árboles nativos en el cerro y elevar las casas cercanas al río Cauca sobre pilotes para las inundaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mitigación: repartir sombrillas en verano; Adaptación: prohibir el estudio del clima en colegios.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque repartir sombrillas no reduce gases y prohibir el estudio no prepara a la comunidad."
+        },
+        {
+          "letter": "B",
+          "text": "Mitigación: sembrar árboles nativos que capturan dióxido de carbono; Adaptación: elevar casas sobre pilotes para convivir con inundaciones.",
+          "is_correct": true,
+          "feedback": "Correcta, porque sembrar árboles reduce la causa y elevar casas reduce el daño sin eliminar la causa."
+        },
+        {
+          "letter": "C",
+          "text": "Mitigación: construir más vías para carros particulares; Adaptación: talar el bosque del cerro para ver el río.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque más carros aumentan emisiones y talar aumenta la vulnerabilidad ante derrumbes e inundaciones."
+        },
+        {
+          "letter": "D",
+          "text": "Mitigación: aumentar la quema de carbón en las cocinas; Adaptación: secar los humedales para construir parqueaderos.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque ambas acciones empeoran las causas y los impactos del cambio climático."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Mitigar es atacar la causa, por ejemplo capturar carbono o reducir emisiones. Adaptarse es prepararse para los impactos inevitables, como inundaciones del río Cauca. Ambas estrategias se necesitan en Cali.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W09-cambio-climatico-colombia-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W09-cambio-climatico-colombia-001-MASTERY-bundle-v6",
+      "statement": "¿Qué cadena de causas conecta el calentamiento global con las inundaciones que afectan a La Boquilla en Cartagena?",
+      "context": "En Cartagena, los pescadores de La Boquilla observan que en marea alta el mar entra más a las calles y que los muros de algunas casas se agrietan por la humedad salada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El calentamiento enfría el mar, el agua se contrae y el nivel del mar baja inundando las calles.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el calentamiento expande el agua y derrite hielo, lo que eleva el nivel del mar."
+        },
+        {
+          "letter": "B",
+          "text": "El calentamiento derrite glaciares y expande el agua del mar, lo que eleva el nivel y facilita la entrada del mar a zonas bajas.",
+          "is_correct": true,
+          "feedback": "Correcta, porque combina fusión de hielo y expansión térmica como causas del aumento del nivel del mar."
+        },
+        {
+          "letter": "C",
+          "text": "El calentamiento aleja la Luna de la Tierra y por eso las olas desaparecen por completo en el Caribe.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la distancia a la Luna no cambia por el clima y las olas no desaparecen."
+        },
+        {
+          "letter": "D",
+          "text": "El calentamiento convierte el agua salada en agua dulce y los barcos quedan atrapados en el barro.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el calentamiento no desaliniza el mar ni explica la entrada del agua a las calles."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El análisis une dos efectos físicos: el agua caliente ocupa más volumen y el agua de glaciares derretidos llega al océano. En ciudades bajas como Cartagena, pocos centímetros de aumento bastan para que la marea alta inunde calles de La Boquilla.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W09-cambio-climatico-colombia-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W09-cambio-climatico-colombia-001-MASTERY-bundle-v7",
+      "statement": "¿Qué relación existe entre la deforestación en la Amazonía colombiana y el cambio climático?",
+      "context": "En Leticia, Amazonas, un noticiero muestra que la tala del bosque para potreros coincide con años de sequías fuertes y mortandad de peces en los caños.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Talar el bosque enfría el planeta porque los troncos cortados absorben más calor que los árboles vivos.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque los troncos cortados no fotosintetizan ni capturan carbono como el bosque vivo."
+        },
+        {
+          "letter": "B",
+          "text": "Talar libera el carbono guardado en los árboles y reduce la captura futura, lo que aumenta los gases invernadero y altera las lluvias.",
+          "is_correct": true,
+          "feedback": "Correcta, porque integra emisión por quema y descomposición más pérdida de captura por fotosíntesis."
+        },
+        {
+          "letter": "C",
+          "text": "Talar no tiene ningún efecto porque los gases invernadero solo salen de volcanes lejanos fuera de Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la deforestación es una fuente importante de emisiones junto con los combustibles fósiles."
+        },
+        {
+          "letter": "D",
+          "text": "Talar aumenta las lluvias en Leticia porque el suelo sin árboles produce nubes de polvo que siempre llueven.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque sin bosque disminuye la transpiración que alimenta las lluvias amazónicas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El bosque amazónico almacena carbono y genera humedad por transpiración. Al talar se libera dióxido de carbono y se rompe la bomba de humedad, lo que explica sequías y cambios en los caños de Leticia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W09-cambio-climatico-colombia-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W09-cambio-climatico-colombia-001-MASTERY-bundle-v8",
+      "statement": "Al comparar las dos propuestas, ¿cuál contribuye a la mitigación real y por qué la otra no?",
+      "context": "Una empresa en Barranquilla ofrece compensar emisiones sembrando manglares, mientras otra propone vender aire acondicionado barato que consume mucha electricidad de origen fósil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sembrar manglares mitiga porque captura carbono y protege la costa; el aire acondicionado ineficiente aumenta emisiones aunque dé confort temporal.",
+          "is_correct": true,
+          "feedback": "Correcta, porque distingue entre reducir gases a largo plazo y aumentarlos por consumo eléctrico fósil."
+        },
+        {
+          "letter": "B",
+          "text": "El aire acondicionado barato mitiga porque enfría el aire de Barranquilla y así se detiene el calentamiento global.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque enfriar una habitación con energía fósil traslada calor afuera y suma emisiones."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas mitigan por igual porque cualquier gasto de dinero ayuda automáticamente al clima sin importar la tecnología.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el efecto climático depende de emisiones y captura, no del gasto en dinero."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna tiene relación con el clima porque el clima solo depende de la rotación de la Tierra.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque las emisiones humanas sí alteran el balance de calor aunque la rotación exista."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar propuestas exige mirar el balance de gases. Los manglares del Caribe capturan carbono y frenan la erosión, mientras los equipos ineficientes conectados a energía fósil aumentan el problema aunque alivien el calor por horas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W09-cambio-climatico-colombia-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W09-cambio-climatico-colombia-001-MASTERY-bundle-v9",
+      "statement": "¿Cómo se evalúa la afirmación del padre de familia frente a la escala del cambio climático?",
+      "context": "El colegio de Pasto planea invertir 2000000 de pesos en techos verdes y en una campaña para ir en bicicleta. Un padre afirma que con eso ya se detendrá por completo el deshielo del Cocuy este mismo año.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta porque cualquier acción local detiene de inmediato y por completo el deshielo de todos los glaciares.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el sistema climático responde a escala global y con retardo, no a una sola acción inmediata."
+        },
+        {
+          "letter": "B",
+          "text": "Es exagerada porque las acciones locales ayudan y educan, pero el deshielo responde a emisiones globales acumuladas y requiere esfuerzos sostenidos y amplios.",
+          "is_correct": true,
+          "feedback": "Correcta, porque valora la acción local sin atribuirle un efecto global inmediato imposible."
+        },
+        {
+          "letter": "C",
+          "text": "Es correcta porque los techos verdes de Pasto enfrían directamente el hielo del Cocuy por tuberías subterráneas.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque no existe conexión física directa entre un techo en Pasto y el glaciar del Cocuy."
+        },
+        {
+          "letter": "D",
+          "text": "Es irrelevante porque sembrar plantas y usar bicicleta aumentan los gases invernadero en Nariño.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque ambas acciones reducen emisiones o capturan carbono y no las aumentan."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar exige ponderar escala y tiempo. Los techos verdes y la bicicleta en Pasto son valiosos como mitigación y ejemplo, pero el Cocuy depende de décadas de emisiones mundiales. El cambio real necesita constancia y suma de muchos territorios.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-7-2026-W09-cambio-climatico-colombia-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W09-cambio-climatico-colombia-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la mejor decisión desde la adaptación al aumento del nivel del mar y por qué?",
+      "context": "En San Andrés, la comunidad debe elegir entre reconstruir cabañas turísticas en la primera línea de playa o moverlas hacia atrás y restaurar el manglar, con el mismo presupuesto limitado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reconstruir en la primera línea porque el mar nunca subirá en el Caribe y el manglar estorba la vista.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque niega el aumento observado del nivel del mar y elimina una barrera natural."
+        },
+        {
+          "letter": "B",
+          "text": "Dividir el dinero en fiestas turísticas porque la adaptación no necesita obras físicas ni ecosistemas.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque sin obras ni ecosistema la infraestructura queda expuesta a marejadas y erosión."
+        },
+        {
+          "letter": "C",
+          "text": "Mover las cabañas atrás y restaurar el manglar porque reduce la exposición y el manglar amortigua oleaje y captura carbono.",
+          "is_correct": true,
+          "feedback": "Correcta, porque combina reubicación preventiva con infraestructura natural de doble beneficio."
+        },
+        {
+          "letter": "D",
+          "text": "Rellenar el mar con cemento para ganar playa porque el cemento captura más carbono que el manglar.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque producir cemento emite grandes cantidades de dióxido de carbono y destruye hábitat."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La mejor adaptación en islas como San Andrés combina retirarse de la zona de riesgo y recuperar defensas naturales. El manglar disipa la energía de las olas, fija sedimento y además mitiga al capturar carbono, con doble ganancia frente al cemento.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-7-2026-W09-cambio-climatico-colombia-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-7-grade-7-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T07:45:50.983Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-7-2026-W07-ciclos-biogeoquimicos-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la secuencia correcta que describe el ciclo del agua observado en el páramo?",
+      "context": "En una salida al páramo de Santurbán, cerca de Bucaramanga, los estudiantes observan la neblina, la llovizna y los musgos empapados que luego alimentan quebradas que surten acueductos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Evaporación y transpiración, condensación en nubes y niebla, precipitación y escorrentía hacia quebradas.",
+          "is_correct": true,
+          "feedback": "Correcta, porque esa es la secuencia del ciclo hidrológico que se observa en el páramo."
+        },
+        {
+          "letter": "B",
+          "text": "Fotosíntesis, respiración y descomposición de hojas en el suelo.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque esos procesos pertenecen principalmente al ciclo del carbono, no describen la circulación del agua."
+        },
+        {
+          "letter": "C",
+          "text": "Fijación de nitrógeno, nitrificación y desnitrificación por bacterias.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque esas etapas corresponden al ciclo del nitrógeno, no al del agua."
+        },
+        {
+          "letter": "D",
+          "text": "Erosión, sedimentación y formación de rocas con fósforo.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque esos procesos geológicos se relacionan con el ciclo del fósforo y las rocas, no con la circulación del agua."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El ciclo del agua conecta atmósfera, vegetación y suelo: el agua se evapora y transpira, se condensa en nubes, precipita y escurre. El páramo actúa como esponja que regula este ciclo y garantiza agua para ciudades colombianas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-7-2026-W07-ciclos-biogeoquimicos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W07-ciclos-biogeoquimicos-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué la fotosíntesis se considera la puerta de entrada del carbono a las cadenas alimenticias del cafetal?",
+      "context": "En un cafetal de Armenia, Quindío, la profesora explica que las hojas del café capturan dióxido de carbono del aire y, con luz solar, producen azúcares durante el día.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque libera todo el carbono del suelo hacia la atmósfera sin usarlo.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la fotosíntesis captura carbono atmosférico, no lo libera sin uso."
+        },
+        {
+          "letter": "B",
+          "text": "Porque convierte el dióxido de carbono atmosférico en materia orgánica que luego alimenta a herbívoros y descomponedores.",
+          "is_correct": true,
+          "feedback": "Correcta, porque los productores fijan carbono inorgánico en moléculas orgánicas que sostienen la red trófica."
+        },
+        {
+          "letter": "C",
+          "text": "Porque transforma el nitrógeno del aire en proteínas del café.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la conversión de nitrógeno atmosférico la realizan bacterias fijadoras, no la fotosíntesis."
+        },
+        {
+          "letter": "D",
+          "text": "Porque disuelve rocas con fósforo para que el café crezca.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la disolución de rocas fosfatadas es parte del ciclo del fósforo, no de la fotosíntesis."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fotosíntesis fija el carbono atmosférico en glucosa, que se convierte en hojas, frutos y madera. Esa materia orgánica alimenta a consumidores y descomponedores, por eso los cafetales productivos dependen de una fotosíntesis activa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-7-2026-W07-ciclos-biogeoquimicos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W07-ciclos-biogeoquimicos-001-MASTERY-bundle-v3",
+      "statement": "Si el fríjol es una leguminosa asociada a bacterias fijadoras, ¿qué proceso explica la mejora del suelo en este cultivo asociado?",
+      "context": "En una finca de Chinchiná, Caldas, los caficultores siembran fríjol junto al café porque observan que el suelo se vuelve más fértil y el café crece con hojas más verdes sin comprar tanto abono.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La condensación del agua en las hojas del fríjol que riega el café.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la condensación aporta humedad, pero no explica el aumento de fertilidad por nutrientes nitrogenados."
+        },
+        {
+          "letter": "B",
+          "text": "La fijación biológica de nitrógeno, que convierte nitrógeno atmosférico en compuestos asimilables para las plantas.",
+          "is_correct": true,
+          "feedback": "Correcta, porque las bacterias en raíces de leguminosas fijan nitrógeno que enriquece el suelo."
+        },
+        {
+          "letter": "C",
+          "text": "La fotosíntesis del fríjol que produce fósforo directamente.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la fotosíntesis produce azúcares, no compuestos de fósforo."
+        },
+        {
+          "letter": "D",
+          "text": "La caída libre del agua de lluvia que disuelve el nitrógeno del aire.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la lluvia aporta poco nitrógeno y no es el proceso principal que enriquece el suelo en este caso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fijación de nitrógeno transforma el nitrógeno gaseoso, no utilizable por plantas, en amonio y nitratos gracias a bacterias. Asociar leguminosas al café es una práctica agroecológica colombiana que reduce costos de fertilizantes.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W07-ciclos-biogeoquimicos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W07-ciclos-biogeoquimicos-001-MASTERY-bundle-v4",
+      "statement": "¿Qué papel cumple la descomposición observada en la compostera dentro de los ciclos biogeoquímicos?",
+      "context": "En el patio del colegio en Pasto, los estudiantes dejan hojarasca en una compostera y después de dos meses observan tierra oscura con olor a bosque y presencia de lombrices y hongos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Elimina para siempre el carbono y el nitrógeno de las hojas del ecosistema.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque los nutrientes no desaparecen; se transforman y retornan al suelo y a la atmósfera."
+        },
+        {
+          "letter": "B",
+          "text": "Retorna nutrientes al suelo y libera dióxido de carbono a la atmósfera mediante la acción de hongos y bacterias.",
+          "is_correct": true,
+          "feedback": "Correcta, porque los descomponedores mineralizan la materia orgánica y cierran los ciclos."
+        },
+        {
+          "letter": "C",
+          "text": "Convierte directamente las hojas en agua de lluvia para el páramo.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la descomposición no produce lluvia; el agua de lluvia proviene de la condensación atmosférica."
+        },
+        {
+          "letter": "D",
+          "text": "Fija el fósforo de las rocas sin participación de organismos.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la descomposición depende de organismos y el fósforo de rocas se libera por meteorización."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los descomponedores como hongos, bacterias y lombrices degradan la materia muerta y devuelven nutrientes al suelo en forma asimilable, además de liberar dióxido de carbono por respiración. El compostaje escolar replica este servicio ecosistémico esencial.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W07-ciclos-biogeoquimicos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W07-ciclos-biogeoquimicos-001-MASTERY-bundle-v5",
+      "statement": "¿Por qué la quema repetida del suelo interrumpe los ciclos del carbono y del nitrógeno, mientras el aporte de materia orgánica los favorece?",
+      "context": "En Villavicencio, un agricultor aplica gallinaza y restos de cosecha para abonar su cultivo de plátano y nota que las plantas responden mejor que con suelo descubierto y quemado cada año.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la quema aumenta el fósforo de las rocas y la materia orgánica lo destruye.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la quema no crea fósforo de rocas y la materia orgánica no destruye fósforo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la quema volatiliza carbono y nitrógeno hacia la atmósfera y elimina descomponedores, mientras la materia orgánica alimenta el ciclo suelo-planta.",
+          "is_correct": true,
+          "feedback": "Correcta, porque el fuego libera gases y mata microorganismos, y el abono orgánico sostiene fertilidad."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la quema produce más agua en el suelo y la materia orgánica seca los cultivos.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la quema reseca el suelo y la materia orgánica mejora la retención de humedad."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la quema fija nitrógeno atmosférico y la materia orgánica bloquea la fotosíntesis.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el fuego no fija nitrógeno útil y la materia orgánica no bloquea la luz de las hojas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La quema libera de golpe carbono y nitrógeno como gases y empobrece la biota del suelo, rompiendo los ciclos. En cambio, el abono orgánico alimenta a los descomponedores y mantiene reservas de nutrientes, práctica clave en la Orinoquía colombiana.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W07-ciclos-biogeoquimicos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W07-ciclos-biogeoquimicos-001-MASTERY-bundle-v6",
+      "statement": "¿Qué análisis explica mejor la diferencia en la regulación del ciclo del agua entre las dos microcuencas?",
+      "context": "En el páramo de Cruz Verde, Cundinamarca, los estudiantes comparan dos microcuencas: una conservada con frailejones y musgos, y otra con suelo desnudo por pastoreo. Tras una lluvia, la primera libera agua clara poco a poco y la segunda genera un torrente turbio inmediato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El suelo desnudo retiene más agua porque no tiene plantas que la consuman.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque sin cobertura vegetal el agua escurre rápido y arrastra suelo, sin infiltración efectiva."
+        },
+        {
+          "letter": "B",
+          "text": "La cobertura de páramo favorece infiltración y liberación lenta, mientras el suelo desnudo aumenta escorrentía y erosión.",
+          "is_correct": true,
+          "feedback": "Correcta, porque la vegetación y la materia orgánica actúan como esponja que regula el caudal."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas cuencas regulan igual porque la lluvia cae en la misma cantidad sobre las dos.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la misma lluvia produce respuestas distintas según la cobertura y el suelo."
+        },
+        {
+          "letter": "D",
+          "text": "La cuenca conservada contamina más porque los musgos ensucian el agua.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque los datos muestran agua clara en la cuenca conservada y turbia en la degradada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar infiltración frente a escorrentía muestra el servicio hídrico del páramo: la vegetación frena la lluvia, favorece la infiltración y sostiene caudales en verano. Perder esa cobertura causa inundaciones y escasez, problema real en acueductos de Cundinamarca.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W07-ciclos-biogeoquimicos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W07-ciclos-biogeoquimicos-001-MASTERY-bundle-v7",
+      "statement": "Al analizar las mediciones de día y de noche, ¿qué patrón del ciclo del carbono debe esperar el técnico y por qué?",
+      "context": "En cafetales de Dosquebradas, Risaralda, un técnico mide dióxido de carbono en el aire sobre un cafetal con sombrío de guamos y sobre un potrero sin árboles, al mediodía soleado y a la medianoche.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De día el cafetal con árboles reduce el dióxido de carbono por fotosíntesis intensa, y de noche ambas zonas lo aumentan por respiración sin fotosíntesis.",
+          "is_correct": true,
+          "feedback": "Correcta, porque de día domina la fijación fotosintética y de noche solo ocurre respiración."
+        },
+        {
+          "letter": "B",
+          "text": "El dióxido de carbono permanece idéntico de día y de noche porque las plantas no respiran.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque todas las plantas respiran día y noche, y de noche no fotosintetizan."
+        },
+        {
+          "letter": "C",
+          "text": "El potrero sin árboles fija más carbono de día porque tiene más pasto corto.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el sistema agroforestal con árboles tiene mayor biomasa y área foliar para fijar carbono."
+        },
+        {
+          "letter": "D",
+          "text": "De noche el cafetal realiza fotosíntesis intensa gracias a la luna y reduce el dióxido de carbono.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la luz lunar es insuficiente para una fotosíntesis significativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El balance diario del carbono alterna fijación diurna y liberación nocturna por respiración. Los sistemas agroforestales cafeteros capturan más carbono que los potreros, por lo que conservan clima y suelos en el Eje Cafetero.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W07-ciclos-biogeoquimicos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W07-ciclos-biogeoquimicos-001-MASTERY-bundle-v8",
+      "statement": "¿Qué cadena de eventos de los ciclos del nitrógeno y del fósforo explica la muerte de los peces en el lago?",
+      "context": "En el lago de Tota, Boyacá, los agricultores usan fertilizantes con nitrógeno y fósforo que llegan por escorrentía al lago, donde proliferan algas verdes que luego mueren y el agua pierde oxígeno y los peces mueren.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los fertilizantes enfrían el agua y los peces mueren de frío inmediatamente.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque los fertilizantes aportan nutrientes, no enfrían el lago de forma letal."
+        },
+        {
+          "letter": "B",
+          "text": "Exceso de nutrientes, proliferación de algas, descomposición masiva que consume oxígeno y asfixia a los peces.",
+          "is_correct": true,
+          "feedback": "Correcta, porque describe la eutrofización: enriquecimiento, bloom algal y agotamiento de oxígeno."
+        },
+        {
+          "letter": "C",
+          "text": "El fósforo evapora el agua del lago y los peces quedan sin hábitat.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el fósforo no evapora agua; el nivel depende del balance hídrico."
+        },
+        {
+          "letter": "D",
+          "text": "El nitrógeno fija directamente a los peces y los convierte en plantas.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el nitrógeno no transforma animales en plantas; nutre a las algas que alteran el oxígeno."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La eutrofización por exceso de nitrógeno y fósforo muestra cómo los ciclos se conectan: los nutrientes disparan el crecimiento algal y su descomposición posterior agota el oxígeno disuelto. Es una problemática real del lago de Tota por agricultura intensiva.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W07-ciclos-biogeoquimicos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W07-ciclos-biogeoquimicos-001-MASTERY-bundle-v9",
+      "statement": "Como asesor escolar ambiental, ¿qué plan recomiendas para sostener los ciclos biogeoquímicos y por qué es superior?",
+      "context": "En Ibagué, la alcaldía propone dos planes para cafetales de ladera: plan A con monocultivo a pleno sol, fertilizante sintético costoso de 120000 COP por bulto y suelo desnudo; plan B con café bajo sombrío, abono orgánico y cercas vivas nativas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El plan A, porque el fertilizante sintético reemplaza para siempre todos los ciclos naturales.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el fertilizante no reemplaza la regulación hídrica, la biodiversidad ni la materia orgánica del suelo."
+        },
+        {
+          "letter": "B",
+          "text": "El plan B, porque mantiene fotosíntesis diversa, fijación de nitrógeno, descomposición y retención de agua con menor costo y erosión.",
+          "is_correct": true,
+          "feedback": "Correcta, porque el sistema diversificado sostiene los cuatro ciclos y protege suelo y agua en ladera."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguno, porque los cafetales no participan en ningún ciclo biogeoquímico.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque todo agroecosistema intercambia agua, carbono, nitrógeno y fósforo."
+        },
+        {
+          "letter": "D",
+          "text": "El plan A, porque el suelo desnudo facilita la infiltración del agua en ladera.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el suelo desnudo en pendiente aumenta escorrentía y pérdida de nutrientes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar agroecosistemas exige mirar los ciclos completos, no solo el rendimiento inmediato. El café con sombrío conserva agua, fija carbono y nitrógeno, y recicla nutrientes, lo que lo hace más resiliente y económico para familias del Tolima.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-7-2026-W07-ciclos-biogeoquimicos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W07-ciclos-biogeoquimicos-001-MASTERY-bundle-v10",
+      "statement": "¿Qué juicio integra mejor la evidencia de los ciclos biogeoquímicos para decidir sobre la tala del bosque seco?",
+      "context": "En Riohacha, La Guajira, una comunidad discute si talar el bosque seco para leña y carbón mejorará su economía, sin considerar que el bosque regula agua, guarda carbono y sostiene suelos frágiles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Talar todo el bosque, porque el carbono guardado en los árboles no tiene ningún valor ambiental.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque liberar ese carbono aumenta gases de efecto invernadero y destruye fertilidad."
+        },
+        {
+          "letter": "B",
+          "text": "Aprovechar solo ramas caídas, reforestar con especies nativas y buscar estufas eficientes, para mantener agua, carbono y nutrientes en el sistema.",
+          "is_correct": true,
+          "feedback": "Correcta, porque equilibra necesidad económica con conservación de ciclos y resiliencia climática."
+        },
+        {
+          "letter": "C",
+          "text": "Quemar el bosque cada año, porque el fuego aumenta permanentemente el agua disponible.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el fuego recurrente degrada suelos desérticos y reduce la retención hídrica."
+        },
+        {
+          "letter": "D",
+          "text": "Reemplazar el bosque por un lago artificial, porque así se crea un ciclo del agua nuevo e independiente.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque un lago artificial en zona árida pierde mucha agua por evaporación y no reemplaza las funciones del bosque."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La decisión sustentable evalúa trade-offs: el bosque seco almacena carbono, frena la desertificación y sostiene la fertilidad. Un manejo con podas, reforestación y eficiencia energética protege los ciclos y la economía guajira a largo plazo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-7-2026-W07-ciclos-biogeoquimicos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}
