@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-14-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T04:30:21.338Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-6-2026-W14-sistema-solar-planetas-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el astro que ocupa el centro del sistema solar y alrededor del cual giran los planetas?",
+      "context": "En el Planetario de Bogotá, durante una visita guiada de un colegio de Tunja, la profesora Camila proyecta un mapa del sistema solar y les pregunta a sus estudiantes cuál es el astro central.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Sol",
+          "is_correct": true,
+          "feedback": "Correcto. El Sol es la estrella ubicada en el centro del sistema solar y su gravedad mantiene a los planetas en órbita."
+        },
+        {
+          "letter": "B",
+          "text": "La Tierra",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Tierra es un planeta, no la estrella central; ella gira alrededor del Sol."
+        },
+        {
+          "letter": "C",
+          "text": "La Luna",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Luna es un satélite natural de la Tierra, no el centro del sistema."
+        },
+        {
+          "letter": "D",
+          "text": "Júpiter",
+          "is_correct": false,
+          "feedback": "Incorrecto. Júpiter es el planeta más grande, pero no la estrella central del sistema."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Sol es la estrella del sistema solar; por su enorme masa genera la fuerza gravitatoria que mantiene en órbita a los ocho planetas, a sus lunas y a otros cuerpos menores como asteroides y cometas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Indagación",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-6-2026-W14-sistema-solar-planetas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W14-sistema-solar-planetas-001-MASTERY-bundle-v2",
+      "statement": "¿Cuántos planetas forman parte del sistema solar?",
+      "context": "En Pasto, durante una clase de astronomía, los estudiantes de sexto grado memorizan la lista de planetas y discuten cuántos son realmente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Siete",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lista oficial incluye ocho planetas desde la reclasificación de Plutón."
+        },
+        {
+          "letter": "B",
+          "text": "Ocho",
+          "is_correct": true,
+          "feedback": "Correcto. Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano y Neptuno son los ocho planetas."
+        },
+        {
+          "letter": "C",
+          "text": "Nueve",
+          "is_correct": false,
+          "feedback": "Incorrecto. Antes se contaba a Plutón como noveno, pero desde 2006 dejó de ser considerado planeta."
+        },
+        {
+          "letter": "D",
+          "text": "Diez",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo se reconocen ocho planetas en la categoría oficial de la Unión Astronómica Internacional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El sistema solar tiene ocho planetas en órbita alrededor del Sol; Plutón fue reclasificado como planeta enano por no cumplir las condiciones de planeta, en particular la de haber despejado su órbita.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-CN-6-2026-W14-sistema-solar-planetas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W14-sistema-solar-planetas-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es una diferencia correcta entre Mercurio y Júpiter?",
+      "context": "En Bucaramanga, una clase muestra fotografías de Mercurio y Júpiter tomadas por sondas espaciales y la profesora pide compararlos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mercurio es un planeta gigante gaseoso y Júpiter es un planeta rocoso pequeño",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es lo contrario: Mercurio es pequeño y rocoso, Júpiter es grande y gaseoso."
+        },
+        {
+          "letter": "B",
+          "text": "Mercurio es pequeño, rocoso y está muy cerca del Sol; Júpiter es enorme y está compuesto principalmente de gases",
+          "is_correct": true,
+          "feedback": "Correcto. Mercurio es el planeta rocoso más cercano al Sol y Júpiter es el mayor planeta gaseoso."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos están a la misma distancia del Sol",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mercurio está mucho más cerca del Sol que Júpiter."
+        },
+        {
+          "letter": "D",
+          "text": "Mercurio tiene anillos visibles y Júpiter no los tiene",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mercurio no tiene anillos; los anillos característicos son los de Saturno."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los planetas del sistema solar se dividen en rocosos o terrestres (Mercurio, Venus, Tierra y Marte) y gaseosos o gigantes (Júpiter, Saturno, Urano y Neptuno); los rocosos son más pequeños, densos y están más cerca del Sol.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.83,
+      "bundle_id": "CO-CN-6-2026-W14-sistema-solar-planetas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W14-sistema-solar-planetas-001-MASTERY-bundle-v4",
+      "statement": "¿Por qué la Tierra se representa con una esfera mucho más grande que Mercurio en la maqueta del sistema solar?",
+      "context": "En un colegio de Medellín, el profesor organiza una maqueta a escala del sistema solar usando esferas de distintos tamaños y les pregunta a los estudiantes por qué las esferas son tan diferentes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la Tierra está mucho más cerca del Sol que Mercurio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mercurio está más cerca del Sol que la Tierra, no al revés."
+        },
+        {
+          "letter": "B",
+          "text": "Porque Mercurio gira más rápido y por eso \"se ve más pequeño\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. La velocidad de giro no cambia el tamaño real del planeta."
+        },
+        {
+          "letter": "C",
+          "text": "Porque en la realidad Mercurio es bastante más pequeño que la Tierra, así la maqueta refleja los tamaños verdaderos",
+          "is_correct": true,
+          "feedback": "Correcto. Mercurio tiene un diámetro mucho menor que el de la Tierra; la maqueta reproduce esa diferencia."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la Tierra es más caliente que Mercurio y eso la agranda",
+          "is_correct": false,
+          "feedback": "Incorrecto. La temperatura no aumenta el tamaño físico del planeta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La maqueta guarda proporciones: Mercurio tiene un diámetro cercano a los 4880 km y la Tierra cerca de 12 742 km, por eso a la misma escala la esfera de la Tierra es claramente mayor que la de Mercurio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-6-2026-W14-sistema-solar-planetas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W14-sistema-solar-planetas-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el planeta más cercano al Sol y también el más pequeño del sistema solar?",
+      "context": "En Cali, en una noche clara, los estudiantes de sexto grado observan el cielo y la profesora señala el planeta más cercano al Sol y el más pequeño del sistema solar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Tierra",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Tierra es el tercer planeta desde el Sol y no es el más pequeño."
+        },
+        {
+          "letter": "B",
+          "text": "Venus",
+          "is_correct": false,
+          "feedback": "Incorrecto. Venus es el segundo planeta desde el Sol y tiene tamaño similar al terrestre."
+        },
+        {
+          "letter": "C",
+          "text": "Plutón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Plutón no es considerado un planeta desde 2006, sino un planeta enano."
+        },
+        {
+          "letter": "D",
+          "text": "Mercurio",
+          "is_correct": true,
+          "feedback": "Correcto. Mercurio es el planeta más cercano al Sol y el más pequeño de los ocho planetas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Mercurio está a unos 58 millones de kilómetros del Sol y tiene un diámetro de unos 4880 km, por eso ocupa dos primeros lugares en el sistema solar: el más cercano al Sol y el más pequeño de los planetas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-6-2026-W14-sistema-solar-planetas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W14-sistema-solar-planetas-001-MASTERY-bundle-v6",
+      "statement": "¿Qué análisis es correcto sobre esa afirmación?",
+      "context": "En Manizales, un estudiante afirma en clase: \"Los planetas producen su propia luz, igual que las estrellas.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta, porque todos los astros del cielo producen luz propia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las estrellas producen luz propia por reacciones nucleares; los planetas no."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta solo cuando el planeta es muy grande",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ningún planeta brilla con luz propia por grande que sea."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecta, porque los planetas reflejan la luz del Sol y no generan luz propia, mientras que las estrellas sí lo hacen",
+          "is_correct": true,
+          "feedback": "Correcto. Los planetas brillan porque reflejan la luz solar, mientras que las estrellas producen su propia energía y luz."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecta porque los planetas no se ven en el cielo nocturno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Varios planetas sí se ven a simple vista en la noche, como Venus, Marte y Júpiter."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar la naturaleza de la luz permite diferenciar estrellas de planetas: las estrellas son cuerpos que emiten luz por procesos nucleares internos y los planetas reflejan la luz que reciben del Sol, sin producir luz propia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CN-6-2026-W14-sistema-solar-planetas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W14-sistema-solar-planetas-001-MASTERY-bundle-v7",
+      "statement": "¿Qué análisis es correcto sobre la relación entre la composición de un planeta y su distancia al Sol?",
+      "context": "En Pereira, en una feria de ciencias, los estudiantes organizan tarjetas con datos: Mercurio (rocoso, muy cerca del Sol), Venus (rocoso, algo más lejos), Júpiter (gaseoso, muy lejos), Saturno (gaseoso, aún más lejos) y Neptuno (gaseoso, el más lejano).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los planetas gaseosos siempre están más cerca del Sol que los rocosos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los gigantes gaseosos están más lejos del Sol que los planetas rocosos."
+        },
+        {
+          "letter": "B",
+          "text": "Los planetas rocosos están lejos del Sol y los gaseosos están cerca",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es lo contrario de lo observado en el sistema solar."
+        },
+        {
+          "letter": "C",
+          "text": "Los planetas rocosos tienden a estar cerca del Sol y los gigantes gaseosos se ubican más lejos",
+          "is_correct": true,
+          "feedback": "Correcto. El sistema solar separa claramente los planetas terrestres internos y los gigantes gaseosos externos."
+        },
+        {
+          "letter": "D",
+          "text": "La composición del planeta no tiene ninguna relación con su distancia al Sol",
+          "is_correct": false,
+          "feedback": "Incorrecto. La distribución muestra una relación clara entre composición y ubicación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En el sistema solar existe un patrón: cerca del Sol órbitan los planetas rocosos pequeños y densos, mientras que lejos del Sol se encuentran los gigantes gaseosos hechos en su mayoría de hidrógeno y helio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.74,
+      "bundle_id": "CO-CN-6-2026-W14-sistema-solar-planetas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W14-sistema-solar-planetas-001-MASTERY-bundle-v8",
+      "statement": "¿Qué análisis describe mejor el cinturón de asteroides que aparece entre Marte y Júpiter?",
+      "context": "En un colegio de Floridablanca, cerca de Bucaramanga, el profesor proyecta una imagen del sistema solar señalando la zona entre las órbitas de Marte y Júpiter.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un planeta que se rompió en miles de pedazos por una explosión",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay evidencia de que sea un solo planeta fragmentado."
+        },
+        {
+          "letter": "B",
+          "text": "Es una nube de gas que envuelve al sistema solar desde adentro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un conjunto de cuerpos sólidos, no gas."
+        },
+        {
+          "letter": "C",
+          "text": "Es la órbita donde se acumulan los cometas perdidos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los cometas se concentran en otras regiones, como la nube de Oort, mucho más lejos."
+        },
+        {
+          "letter": "D",
+          "text": "Es una zona con miles de rocas pequeñas que orbitan alrededor del Sol entre las órbitas de Marte y Júpiter",
+          "is_correct": true,
+          "feedback": "Correcto. El cinturón de asteroides contiene muchos cuerpos rocosos pequeños que giran alrededor del Sol."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El cinturón de asteroides es una región con miles de asteroides, es decir, cuerpos rocosos irregulares de tamaños muy variados, que viajan en órbita entre los planetas Marte (rocoso) y Júpiter (gaseoso).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-6-2026-W14-sistema-solar-planetas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W14-sistema-solar-planetas-001-MASTERY-bundle-v9",
+      "statement": "¿Qué argumento científico respalda mejor la reclasificación de Plutón como planeta enano?",
+      "context": "En Tunja, los estudiantes debaten por qué Plutón dejó de ser considerado un planeta del sistema solar en el año 2006, según la decisión de la Unión Astronómica Internacional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Plutón se salió del sistema solar y por eso ya no se cuenta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Plutón sigue orbitando el Sol, lejos, pero dentro del sistema solar."
+        },
+        {
+          "letter": "B",
+          "text": "Plutón era demasiado brillante como una estrella",
+          "is_correct": false,
+          "feedback": "Incorrecto. Plutón siempre ha sido muy tenue, no una estrella."
+        },
+        {
+          "letter": "C",
+          "text": "Plutón no tiene luna propia como los demás planetas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Plutón sí tiene lunas, como Caronte."
+        },
+        {
+          "letter": "D",
+          "text": "Plutón no cumple los criterios de planeta, en especial el de haber despejado su órbita de otros cuerpos de tamaño similar",
+          "is_correct": true,
+          "feedback": "Correcto. La IAU exige que un planeta domine su órbita; Plutón comparte la suya con otros cuerpos del cinturón de Kuiper."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para ser planeta un cuerpo debe cumplir tres condiciones: orbitar alrededor del Sol, tener suficiente masa para tener forma casi esférica y haber limpiado su órbita de otros cuerpos; Plutón cumple solo las dos primeras.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-6-2026-W14-sistema-solar-planetas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W14-sistema-solar-planetas-001-MASTERY-bundle-v10",
+      "statement": "¿Qué evaluación científica es la más correcta sobre esta propuesta?",
+      "context": "En una clase de Boyacá, un estudiante propone que cada vez que se descubra un cuerpo grande más allá de Neptuno se le llame planeta y se sume a la lista oficial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Correcta, porque cualquier cuerpo grande que se descubra merece llamarse planeta",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tamaño por sí solo no convierte a un cuerpo en planeta."
+        },
+        {
+          "letter": "B",
+          "text": "Correcta solo si el cuerpo se encuentra cerca del Sol",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cercanía o lejanía no define por sí misma la categoría de planeta."
+        },
+        {
+          "letter": "C",
+          "text": "Incorrecta, porque un cuerpo debe cumplir al mismo tiempo varios criterios: orbitar el Sol, tener forma casi esférica y haber despejado su órbita de otros cuerpos similares",
+          "is_correct": true,
+          "feedback": "Correcto. La definición exige el cumplimiento simultáneo de los tres criterios; el tamaño no basta."
+        },
+        {
+          "letter": "D",
+          "text": "Incorrecta porque Plutón demostró que cualquier cuerpo puede llamarse planeta sin cumplir condiciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Plutón muestra justamente lo contrario: un cuerpo puede dejar de ser planeta si no cumple los criterios."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar bien implica aplicar la definición: no basta con descubrir un cuerpo grande; debe cumplir simultáneamente los criterios de la Unión Astronómica Internacional para ser considerado un planeta del sistema solar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CN-6-2026-W14-sistema-solar-planetas-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}
