@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-40-grade-6-subject-matematicas",
+    "generated_at": "2026-09-21T03:00:13.421Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-6-2026-W40-patrones-figuras-secuencias-geometricas-001-MASTERY-bundle-v1",
+      "statement": "¿Cuántos triángulos bordará en el siguiente paso?",
+      "context": "En un taller de artesanías de Bogotá una artesana borda triángulos en el siguiente orden: 2, 4, 6, 8.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10",
+          "is_correct": true,
+          "feedback": "Es correcta porque la secuencia aumenta de 2 en 2: después del 8 sigue el 10."
+        },
+        {
+          "letter": "B",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Error conceptual: la secuencia avanza de 2 en 2, no de 1 en 1."
+        },
+        {
+          "letter": "C",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Error conceptual: se adelanta un paso y omite el número que sigue al 8."
+        },
+        {
+          "letter": "D",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Error conceptual: duplica el último término en vez de sumar dos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En una secuencia se observa cómo cambia cada término respecto al anterior. Aquí los triángulos aumentan de 2 en 2, por lo que después del 8 viene el 10.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-6-2026-W40-patrones-figuras-secuencias-geometricas-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W40-patrones-figuras-secuencias-geometricas-001-MASTERY-bundle-v2",
+      "statement": "¿Qué significa que el número de rombos aumente de 3 en 3?",
+      "context": "Un tejedor de Medellín explica que en su tejido el número de rombos aumenta de 3 en 3: 3, 6, 9, 12.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que cada término se obtiene sumando 3 al término anterior",
+          "is_correct": true,
+          "feedback": "Es correcta porque la regla de formación indica sumar 3 para pasar de un término al siguiente."
+        },
+        {
+          "letter": "B",
+          "text": "Que cada término es el triple del anterior",
+          "is_correct": false,
+          "feedback": "Error conceptual: multiplicar por 3 daría 3, 9, 27, que no coincide con la secuencia."
+        },
+        {
+          "letter": "C",
+          "text": "Que todos los términos son múltiplos de 2",
+          "is_correct": false,
+          "feedback": "Error conceptual: los términos son múltiplos de 3, no de 2."
+        },
+        {
+          "letter": "D",
+          "text": "Que la secuencia termina en el número 12",
+          "is_correct": false,
+          "feedback": "Error conceptual: el 12 es solo un término; la secuencia puede continuar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Decir que una secuencia aumenta de 3 en 3 describe su regla de formación: cada término se obtiene sumando 3 al anterior. Así, 3, 6, 9 y 12 siguen creciendo de la misma manera.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-6-2026-W40-patrones-figuras-secuencias-geometricas-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W40-patrones-figuras-secuencias-geometricas-001-MASTERY-bundle-v3",
+      "statement": "¿Cuántas fichas tendrá el siguiente cuadrado de la secuencia?",
+      "context": "En una artesanía de Cali se forman cuadrados con fichas y la cantidad sigue la secuencia 1, 4, 9, 16.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25",
+          "is_correct": true,
+          "feedback": "Es correcta porque los términos son los cuadrados de 1, 2, 3, 4 y 5: 5 × 5 = 25."
+        },
+        {
+          "letter": "B",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Error conceptual: suma 4 en lugar de seguir el patrón de números cuadrados."
+        },
+        {
+          "letter": "C",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "Error conceptual: no corresponde al cuadrado de 5, que es 25."
+        },
+        {
+          "letter": "D",
+          "text": "32",
+          "is_correct": false,
+          "feedback": "Error conceptual: duplica el 16 en vez de aplicar la regla de la secuencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La secuencia 1, 4, 9, 16 corresponde a los cuadrados de 1, 2, 3 y 4. El siguiente término es el cuadrado de 5, es decir 25 fichas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-6-2026-W40-patrones-figuras-secuencias-geometricas-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W40-patrones-figuras-secuencias-geometricas-001-MASTERY-bundle-v4",
+      "statement": "¿Cuántos lados tendrá la figura del sexto paso?",
+      "context": "En un tejido artesanal de Cartagena las figuras tienen 3, 6, 9 y 12 lados en los primeros cuatro pasos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18",
+          "is_correct": true,
+          "feedback": "Es correcta porque la regla es multiplicar el número de paso por 3: 6 × 3 = 18."
+        },
+        {
+          "letter": "B",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Error conceptual: corresponde al quinto paso, no al sexto."
+        },
+        {
+          "letter": "C",
+          "text": "21",
+          "is_correct": false,
+          "feedback": "Error conceptual: suma un paso de más y calcula el séptimo término."
+        },
+        {
+          "letter": "D",
+          "text": "36",
+          "is_correct": false,
+          "feedback": "Error conceptual: duplica el valor correcto del sexto paso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La secuencia 3, 6, 9, 12 aumenta de 3 en 3 y el término de cada paso es igual al número de paso multiplicado por 3. Para el sexto paso se calcula 6 × 3 = 18 lados.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-6-2026-W40-patrones-figuras-secuencias-geometricas-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W40-patrones-figuras-secuencias-geometricas-001-MASTERY-bundle-v5",
+      "statement": "¿Cuántos cuadrados tendrá la octava fila?",
+      "context": "En un telar de Manizales una fila lleva 1 cuadrado, la segunda 3 y la tercera 5, aumentando siempre de 2 en 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15",
+          "is_correct": true,
+          "feedback": "Es correcta porque la regla es 1 + 2 × (8 − 1) = 1 + 14 = 15."
+        },
+        {
+          "letter": "B",
+          "text": "13",
+          "is_correct": false,
+          "feedback": "Error conceptual: calcula la séptima fila en lugar de la octava."
+        },
+        {
+          "letter": "C",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Error conceptual: suma un cuadrado de más al resultado correcto."
+        },
+        {
+          "letter": "D",
+          "text": "17",
+          "is_correct": false,
+          "feedback": "Error conceptual: usa la posición de la fila sin restar el primer término."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La secuencia 1, 3, 5, 7 aumenta de 2 en 2. El término de la fila n se obtiene con 1 + 2 × (n − 1). Para n = 8: 1 + 2 × 7 = 15 cuadrados.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-6-2026-W40-patrones-figuras-secuencias-geometricas-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W40-patrones-figuras-secuencias-geometricas-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la regla de formación de la secuencia?",
+      "context": "Un artesano de Ibagué observa la secuencia de puntadas 40, 37, 34, 31 y quiere describir su regla de formación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Restar 3 a cada término para obtener el siguiente",
+          "is_correct": true,
+          "feedback": "Es correcta porque 40 − 3 = 37, 37 − 3 = 34 y 34 − 3 = 31."
+        },
+        {
+          "letter": "B",
+          "text": "Sumar 3 a cada término para obtener el siguiente",
+          "is_correct": false,
+          "feedback": "Error conceptual: la secuencia disminuye, no aumenta."
+        },
+        {
+          "letter": "C",
+          "text": "Multiplicar cada término por 3",
+          "is_correct": false,
+          "feedback": "Error conceptual: 40 × 3 sería 120, que no sigue la secuencia."
+        },
+        {
+          "letter": "D",
+          "text": "Dividir cada término entre 2",
+          "is_correct": false,
+          "feedback": "Error conceptual: dividir no reproduce los términos 37, 34 y 31."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La secuencia 40, 37, 34, 31 es decreciente y cada término es 3 unidades menor que el anterior. Por eso la regla de formación consiste en restar 3 para pasar de un término al siguiente.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-6-2026-W40-patrones-figuras-secuencias-geometricas-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W40-patrones-figuras-secuencias-geometricas-001-MASTERY-bundle-v7",
+      "statement": "¿Cuántos palitos tendrá la figura número 10?",
+      "context": "En una artesanía de Pereira se arman figuras con palitos y el número de palitos sigue la secuencia 4, 7, 10, 13.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "31",
+          "is_correct": true,
+          "feedback": "Es correcta porque la regla es 4 + 3 × (10 − 1) = 4 + 27 = 31."
+        },
+        {
+          "letter": "B",
+          "text": "30",
+          "is_correct": false,
+          "feedback": "Error conceptual: olvida sumar el término inicial al multiplicar la razón."
+        },
+        {
+          "letter": "C",
+          "text": "34",
+          "is_correct": false,
+          "feedback": "Error conceptual: calcula un paso de más, como si fuera la figura número 11."
+        },
+        {
+          "letter": "D",
+          "text": "28",
+          "is_correct": false,
+          "feedback": "Error conceptual: resta incorrectamente un múltiplo de la razón."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La secuencia 4, 7, 10, 13 aumenta de 3 en 3, así que el término de la posición n es 4 + 3 × (n − 1). Para la figura 10: 4 + 3 × 9 = 31 palitos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-6-2026-W40-patrones-figuras-secuencias-geometricas-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W40-patrones-figuras-secuencias-geometricas-001-MASTERY-bundle-v8",
+      "statement": "¿Qué conclusión es correcta al comparar ambas secuencias?",
+      "context": "En una feria artesanal de Santa Marta, Ana hace collares con 3, 5, 7 y 9 cuentas por paso, y Beto los hace con 4, 6, 8 y 10 cuentas por paso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las dos crecen de 2 en 2 y la diferencia entre ellas se mantiene constante",
+          "is_correct": true,
+          "feedback": "Es correcta porque ambas aumentan de 2 en 2 y Beto siempre lleva una cuenta más que Ana."
+        },
+        {
+          "letter": "B",
+          "text": "La secuencia de Ana crece más rápido que la de Beto",
+          "is_correct": false,
+          "feedback": "Error conceptual: ambas crecen al mismo ritmo, de 2 en 2."
+        },
+        {
+          "letter": "C",
+          "text": "La secuencia de Beto crece más rápido que la de Ana",
+          "is_correct": false,
+          "feedback": "Error conceptual: Beto empieza más alto, pero crece a la misma razón que Ana."
+        },
+        {
+          "letter": "D",
+          "text": "La diferencia entre las secuencias aumenta con cada paso",
+          "is_correct": false,
+          "feedback": "Error conceptual: la diferencia es constante (una cuenta) en todos los pasos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ana parte de 3 y Beto de 4, pero ambos suman 2 en cada paso. Por eso crecen a la misma razón y la diferencia entre sus cantidades permanece constante, siempre igual a una cuenta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-6-2026-W40-patrones-figuras-secuencias-geometricas-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W40-patrones-figuras-secuencias-geometricas-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál regla describe mejor la secuencia?",
+      "context": "En un taller de tejidos de Villavicencio se analiza la secuencia 3, 6, 12, 24. Un artesano propone la regla A: \"sumar 3 cada vez\" y la regla B: \"multiplicar por 2 cada vez\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La regla B, porque 3 × 2 = 6, 6 × 2 = 12 y 12 × 2 = 24",
+          "is_correct": true,
+          "feedback": "Es correcta porque cada término es el doble del anterior, lo que reproduce toda la secuencia."
+        },
+        {
+          "letter": "B",
+          "text": "La regla A, porque 3 + 3 = 6 y 6 + 3 = 9",
+          "is_correct": false,
+          "feedback": "Error conceptual: al sumar 3 se obtiene 9, que no aparece en la secuencia."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos reglas describen igual la secuencia",
+          "is_correct": false,
+          "feedback": "Error conceptual: sumar 3 produce 3, 6, 9, 12, que no coincide con la secuencia."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna regla sirve para describir la secuencia",
+          "is_correct": false,
+          "feedback": "Error conceptual: multiplicar por 2 sí reproduce todos los términos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para validar una regla de formación se aplica a cada término y se verifica si reproduce la secuencia. Multiplicar por 2 cumple con 3, 6, 12, 24, mientras que sumar 3 daría 3, 6, 9, 12, que no es la secuencia dada.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-6-2026-W40-patrones-figuras-secuencias-geometricas-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W40-patrones-figuras-secuencias-geometricas-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál estrategia es la más adecuada para hallar el término 20?",
+      "context": "En una artesanía de Neiva se estudia la secuencia 5, 8, 11, 14, que aumenta de 3 en 3, y se quiere hallar el término 20 sin escribir todos los términos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Encontrar la regla de formación y calcular 5 + 3 × (20 − 1) = 62",
+          "is_correct": true,
+          "feedback": "Es correcta porque el término de la posición n es 5 + 3 × (n − 1), y para n = 20 se obtiene 62."
+        },
+        {
+          "letter": "B",
+          "text": "Multiplicar 20 por 3 y sumar 5",
+          "is_correct": false,
+          "feedback": "Error conceptual: así se obtiene 65, que corresponde a sumar un paso de más."
+        },
+        {
+          "letter": "C",
+          "text": "Duplicar el término 14 varias veces hasta llegar al 20",
+          "is_correct": false,
+          "feedback": "Error conceptual: duplicar no respeta la regla de sumar 3 cada vez."
+        },
+        {
+          "letter": "D",
+          "text": "Escribir los términos uno por uno hasta el 20 y contarlos",
+          "is_correct": false,
+          "feedback": "Error conceptual: es posible, pero no es la estrategia más eficiente ni la que usa la regla."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para hallar un término lejano conviene encontrar la regla de formación y generalizarla. En esta secuencia el término de la posición n es 5 + 3 × (n − 1); por eso el término 20 es 5 + 3 × 19 = 62.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.45,
+      "bundle_id": "CO-MAT-6-2026-W40-patrones-figuras-secuencias-geometricas-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}
