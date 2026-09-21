@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-36-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T06:54:47.619Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-6-2026-W36-cadenas-troficas-flujo-energia-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es una cadena trófica?",
+      "context": "En una clase de ciencias de un colegio de Bogotá, la profesora dibuja en el tablero una secuencia que va del pasto al saltamontes, luego a la rana y finalmente a la serpiente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La secuencia que muestra cómo se transfiere la energía y el alimento de los productores a los herbívoros y luego a los carnívoros",
+          "is_correct": true,
+          "feedback": "Correcto. La cadena trófica representa el paso del alimento y la energía."
+        },
+        {
+          "letter": "B",
+          "text": "La lista de todos los seres vivos que habitan en un ecosistema determinado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa lista corresponde a un inventario de especies, no a una cadena trófica."
+        },
+        {
+          "letter": "C",
+          "text": "El recorrido del agua desde las nubes hasta los ríos y el mar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese proceso es el ciclo del agua."
+        },
+        {
+          "letter": "D",
+          "text": "La clasificación de los seres vivos según su tamaño corporal",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cadena trófica se organiza según la forma de obtener alimento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una cadena trófica es una representación sencilla de las relaciones alimentarias: comienza en los productores, que fabrican su alimento, sigue con los consumidores herbívoros y carnívoros, y termina en los descomponedores. Las flechas indican el sentido en que se transfieren la materia y la energía.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-6-2026-W36-cadenas-troficas-flujo-energia-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W36-cadenas-troficas-flujo-energia-001-MASTERY-bundle-v2",
+      "statement": "¿Qué papel cumplen las plantas en una cadena trófica?",
+      "context": "En un páramo cerca de Tunja, los estudiantes observan frailejones y otras plantas que crecen sobre el suelo y sirven de alimento a insectos y conejos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son productoras: captan la energía de la luz solar y fabrican su propio alimento mediante la fotosíntesis",
+          "is_correct": true,
+          "feedback": "Correcto. Los productores inician la cadena trófica."
+        },
+        {
+          "letter": "B",
+          "text": "Son consumidoras primarias, porque se alimentan de los insectos del suelo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas fabrican su alimento y no cazan insectos."
+        },
+        {
+          "letter": "C",
+          "text": "Son descomponedoras, porque transforman la materia muerta en minerales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese papel lo cumplen hongos y bacterias."
+        },
+        {
+          "letter": "D",
+          "text": "Son consumidoras secundarias, porque dependen de otros animales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas no dependen de otros organismos para alimentarse."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las plantas, las algas y algunas bacterias son productores: transforman la energía luminosa en energía química mediante la fotosíntesis. Toda la energía que circula por el ecosistema entra por este nivel, por eso los productores forman la base de cualquier cadena trófica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-6-2026-W36-cadenas-troficas-flujo-energia-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W36-cadenas-troficas-flujo-energia-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el orden correcto de una cadena trófica en ese humedal?",
+      "context": "En un humedal de la ribera del río Magdalena, un grupo de estudiantes identifica fitoplancton, peces herbívoros, garzas y bacterias del lodo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fitoplancton, pez herbívoro y garza",
+          "is_correct": true,
+          "feedback": "Correcto. Va del productor al herbívoro y luego al carnívoro."
+        },
+        {
+          "letter": "B",
+          "text": "Garza, pez herbívoro y fitoplancton",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cadena debe empezar en el productor, no en el depredador."
+        },
+        {
+          "letter": "C",
+          "text": "Pez herbívoro, fitoplancton y garza",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fitoplancton es el productor y debe ir primero."
+        },
+        {
+          "letter": "D",
+          "text": "Bacterias del lodo, garza y fitoplancton",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las bacterias actúan al final, como descomponedoras."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para construir una cadena trófica se ordena el flujo de energía: primero los productores, como el fitoplancton; después los consumidores primarios, como el pez herbívoro; luego los consumidores secundarios, como la garza. Los descomponedores, como las bacterias del lodo, actúan sobre los restos en todos los niveles.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-6-2026-W36-cadenas-troficas-flujo-energia-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W36-cadenas-troficas-flujo-energia-001-MASTERY-bundle-v4",
+      "statement": "Según esta regla, ¿cuánta energía llega aproximadamente a los herbívoros?",
+      "context": "En una salida de campo a un bosque andino del Cauca, los estudiantes calculan que los productores almacenan 10.000 unidades de energía y aplican la regla según la cual solo cerca del 10 por ciento pasa al nivel siguiente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.000 unidades de energía",
+          "is_correct": true,
+          "feedback": "Correcto. El 10 por ciento de 10.000 es 1.000."
+        },
+        {
+          "letter": "B",
+          "text": "10.000 unidades de energía, es decir, la misma cantidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. En cada transferencia se pierde energía, no se conserva toda."
+        },
+        {
+          "letter": "C",
+          "text": "100 unidades de energía",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor correspondería al siguiente nivel, no a los herbívoros."
+        },
+        {
+          "letter": "D",
+          "text": "5.000 unidades de energía, es decir, la mitad",
+          "is_correct": false,
+          "feedback": "Incorrecto. La proporción que se transfiere es mucho menor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la regla del 10 por ciento permite estimar la energía disponible en cada nivel: si los productores almacenan 10.000 unidades, los herbívoros reciben alrededor de 1.000, porque la mayor parte se usa en la respiración, se disipa como calor o queda en los restos. Por eso los niveles superiores son cada vez más reducidos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-6-2026-W36-cadenas-troficas-flujo-energia-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W36-cadenas-troficas-flujo-energia-001-MASTERY-bundle-v5",
+      "statement": "¿Qué efecto se espera sobre las aves del cultivo?",
+      "context": "En un cultivo de un municipio del Cauca, los agricultores aplican un plaguicida que elimina casi todos los insectos, que son el alimento principal de las aves del lugar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disminuirán porque al reducirse los insectos, que son su alimento, tendrán menos energía disponible para sobrevivir y reproducirse",
+          "is_correct": true,
+          "feedback": "Correcto. Al faltar el nivel anterior de la cadena, el consumidor se ve afectado."
+        },
+        {
+          "letter": "B",
+          "text": "Aumentarán, porque habrá más espacio libre en el cultivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El espacio no reemplaza el alimento que se perdió."
+        },
+        {
+          "letter": "C",
+          "text": "Se mantendrán igual, porque las aves no dependen de los insectos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los insectos son su alimento principal en ese lugar."
+        },
+        {
+          "letter": "D",
+          "text": "Cambiarán su dieta y se alimentarán de piedras y tierra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las aves no obtienen energía de la tierra ni de las piedras."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los niveles de una cadena trófica están encadenados: si se reduce el alimento del nivel anterior, el consumidor dispone de menos energía y su población tiende a disminuir. Esto muestra que alterar un solo eslabón, por ejemplo con plaguicidas, afecta a todo el ecosistema.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-6-2026-W36-cadenas-troficas-flujo-energia-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W36-cadenas-troficas-flujo-energia-001-MASTERY-bundle-v6",
+      "statement": "¿Qué análisis explica por qué la pirámide de energía tiene forma triangular?",
+      "context": "En una feria de ciencias de Ibagué, los estudiantes presentan una pirámide de energía construida con datos de un ecosistema de sabana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque en cada transferencia una gran parte de la energía se usa en los procesos vitales y se disipa como calor, de modo que cada nivel dispone de menos energía que el anterior",
+          "is_correct": true,
+          "feedback": "Correcto. La pérdida de energía explica la forma de la pirámide."
+        },
+        {
+          "letter": "B",
+          "text": "Porque cada nivel trófico pesa menos que el anterior, sin importar la energía",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pirámide representa energía disponible, no peso corporal."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el número de especies disminuye siempre hacia la cima",
+          "is_correct": false,
+          "feedback": "Incorrecto. La forma depende de la energía, aunque el número de individuos suela acompañar el patrón."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los depredadores producen energía nueva para el ecosistema",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo los productores captan energía nueva; los consumidores la transfieren."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La energía entra al ecosistema por los productores y se transfiere de un nivel a otro con grandes pérdidas: parte se usa en la respiración y se libera como calor, y otra queda en los restos y desechos. Como cada nivel dispone de menos energía, al representarla gráficamente se obtiene una pirámide.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-6-2026-W36-cadenas-troficas-flujo-energia-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W36-cadenas-troficas-flujo-energia-001-MASTERY-bundle-v7",
+      "statement": "¿Qué análisis explica por qué la red trófica representa mejor la realidad del ecosistema?",
+      "context": "En un taller de un colegio de Medellín, los estudiantes comparan una cadena trófica sencilla con una red trófica del bosque andino, donde un mismo animal aparece comiendo distintos alimentos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque en la naturaleza un mismo consumidor suele alimentarse de varios organismos y puede ocupar distintos niveles, de modo que las cadenas se cruzan formando una red",
+          "is_correct": true,
+          "feedback": "Correcto. La red trófica refleja las múltiples relaciones alimentarias."
+        },
+        {
+          "letter": "B",
+          "text": "Porque en la naturaleza cada animal solo consume una especie y nunca cambia de dieta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mayoría de los animales consume varios tipos de alimento."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la red trófica muestra solo los nombres de las plantas del lugar",
+          "is_correct": false,
+          "feedback": "Incorrecto. La red incluye productores, consumidores y descomponedores."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la red trófica elimina a los descomponedores del ecosistema",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los descomponedores también hacen parte de las relaciones tróficas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un ecosistema real las relaciones alimentarias no son líneas aisladas: un insecto come varias plantas, un ave come insectos y frutos, y un depredador puede alimentarse de distintos animales. Esas conexiones cruzadas forman una red trófica, que describe con mayor fidelidad el flujo de energía y la estabilidad del ecosistema.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-6-2026-W36-cadenas-troficas-flujo-energia-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W36-cadenas-troficas-flujo-energia-001-MASTERY-bundle-v8",
+      "statement": "¿Qué análisis explica las consecuencias de esa desaparición?",
+      "context": "En un ecosistema de bosque húmedo del Chocó, un grupo de investigadores imagina qué ocurriría si desaparecieran por completo los hongos y las bacterias del suelo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los restos de plantas y animales se acumularían sin descomponerse y los nutrientes no volverían al suelo, lo que afectaría a los productores y a toda la cadena trófica",
+          "is_correct": true,
+          "feedback": "Correcto. Los descomponedores cierran el ciclo de la materia."
+        },
+        {
+          "letter": "B",
+          "text": "No ocurriría ningún cambio, porque los descomponedores no participan en el ecosistema",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los descomponedores son indispensables para reciclar la materia."
+        },
+        {
+          "letter": "C",
+          "text": "Aumentaría el alimento de los productores, porque el suelo quedaría libre",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin descomposición, los nutrientes quedan retenidos en los restos."
+        },
+        {
+          "letter": "D",
+          "text": "Los herbívoros se convertirían en productores mediante la fotosíntesis",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los herbívoros no realizan fotosíntesis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los descomponedores transforman los restos y desechos en sustancias simples, que vuelven al suelo y son aprovechadas por los productores. Sin ellos, la materia quedaría atrapada en los restos, el suelo perdería fertilidad y el flujo de energía y nutrientes se interrumpiría en todo el ecosistema.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-6-2026-W36-cadenas-troficas-flujo-energia-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W36-cadenas-troficas-flujo-energia-001-MASTERY-bundle-v9",
+      "statement": "¿Qué evaluación conjunta de las tres afirmaciones es correcta?",
+      "context": "En un foro escolar de Barranquilla, tres estudiantes afirman: 1) La energía fluye en una sola dirección, desde los productores hacia los consumidores. 2) Parte de la energía se pierde como calor en cada transferencia. 3) Los nutrientes, a diferencia de la energía, se reciclan gracias a los descomponedores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las tres afirmaciones son verdaderas, porque la energía fluye en un sentido y se pierde en parte como calor, mientras que la materia se recicla por acción de los descomponedores",
+          "is_correct": true,
+          "feedback": "Correcto. Distingue el flujo unidireccional de la energía del ciclo de la materia."
+        },
+        {
+          "letter": "B",
+          "text": "Solo la 1 es verdadera, porque la energía y los nutrientes siguen el mismo camino",
+          "is_correct": false,
+          "feedback": "Incorrecto. El reciclaje de nutrientes es distinto del flujo de energía."
+        },
+        {
+          "letter": "C",
+          "text": "Solo la 3 es verdadera, porque la energía nunca se pierde en el ecosistema",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía sí se disipa en forma de calor."
+        },
+        {
+          "letter": "D",
+          "text": "Las tres afirmaciones son falsas, porque los productores no participan en el flujo de energía",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los productores son la puerta de entrada de la energía."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar estas afirmaciones exige distinguir dos procesos: la energía entra como luz, se transfiere en un solo sentido y se disipa parcialmente como calor, por lo que no se recicla; la materia, en cambio, pasa de unos organismos a otros y vuelve al ambiente gracias a los descomponedores, cerrando su ciclo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-6-2026-W36-cadenas-troficas-flujo-energia-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W36-cadenas-troficas-flujo-energia-001-MASTERY-bundle-v10",
+      "statement": "¿Qué medida conviene priorizar para recuperar la cadena trófica del río?",
+      "context": "Una comunidad de pescadores artesanales de la cuenca del río Cauca observa que cada año capturan menos peces y que la orilla del río perdió gran parte de su vegetación por la deforestación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Restaurar la vegetación de las riberas y regular la pesca para no extraer más de lo que las poblaciones pueden reponerse, porque así se protege la base de la cadena y el flujo de energía",
+          "is_correct": true,
+          "feedback": "Correcto. Conservar el hábitat y pescar de forma sostenible mantiene la cadena trófica."
+        },
+        {
+          "letter": "B",
+          "text": "Aumentar la captura de peces con redes más finas para compensar la escasez",
+          "is_correct": false,
+          "feedback": "Incorrecto. Extraer más agrava la disminución de las poblaciones de peces."
+        },
+        {
+          "letter": "C",
+          "text": "Introducir una especie depredadora nueva para llenar el vacío del río",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las especies introducidas pueden alterar y dañar la red trófica nativa."
+        },
+        {
+          "letter": "D",
+          "text": "Esperar a que los peces se reproduzcan sin cambiar las prácticas actuales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin recuperar el hábitat ni ordenar la pesca, la situación se mantiene."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar esta decisión exige comparar el beneficio inmediato con la sostenibilidad: restaurar las riberas devuelve alimento y refugio a los organismos acuáticos y regula la temperatura y los nutrientes, mientras que limitar la pesca permite que las poblaciones se recuperen. Juntas, estas medidas sostienen la base de la cadena trófica y el flujo de energía del río.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-6-2026-W36-cadenas-troficas-flujo-energia-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

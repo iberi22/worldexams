@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-40-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T06:54:47.621Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-6-2026-W40-energia-renovable-colombia-001-MASTERY-bundle-v1",
+      "statement": "¿Qué caracteriza a una fuente de energía renovable?",
+      "context": "En una clase de ciencias en Riohacha, la profesora compara el viento y el sol con el carbón y el petróleo que se usan en el país.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se repone de forma natural en un tiempo corto, por lo que no se agota con su uso continuo",
+          "is_correct": true,
+          "feedback": "Correcto. Las fuentes renovables se regeneran continuamente."
+        },
+        {
+          "letter": "B",
+          "text": "Se agota al usarse y tarda millones de años en formarse de nuevo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la característica de los combustibles fósiles, que no son renovables."
+        },
+        {
+          "letter": "C",
+          "text": "Solo puede usarse una vez en toda la historia de un país",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fuentes renovables pueden aprovecharse de manera continua."
+        },
+        {
+          "letter": "D",
+          "text": "Produce energía únicamente cuando hay cortes de electricidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su disponibilidad depende del recurso natural, no de los cortes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las fuentes de energía renovable, como el sol, el viento, el agua y la biomasa, se reponen continuamente por procesos naturales y se consideran inagotables a escala humana. En cambio, el carbón, el petróleo y el gas natural son recursos fósiles: se formaron durante millones de años y al consumirse disminuyen, además de liberar gases que contribuyen al cambio climático.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-6-2026-W40-energia-renovable-colombia-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W40-energia-renovable-colombia-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué una central hidroeléctrica depende del ciclo del agua?",
+      "context": "En un municipio de Antioquia, un embalse almacena agua que luego desciende por tuberías hasta las turbinas de una central hidroeléctrica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque las lluvias y los ríos alimentan el embalse, y el agua almacenada es la que aporta la energía al descender y mover las turbinas",
+          "is_correct": true,
+          "feedback": "Correcto. La energía del agua depende de que la cuenca reciba lluvia."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las turbinas funcionan con la energía del viento que cruza el embalse",
+          "is_correct": false,
+          "feedback": "Incorrecto. En una hidroeléctrica la energía proviene del agua, no del viento."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el embalse produce agua nueva cada vez que genera electricidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua se reutiliza, pero no se crea en el embalse."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el agua de la lluvia se transforma directamente en electricidad en las nubes",
+          "is_correct": false,
+          "feedback": "Incorrecto. La transformación ocurre en las turbinas y los generadores."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una central hidroeléctrica aprovecha la energía potencial del agua almacenada: cuando el agua desciende por las tuberías de conducción, adquiere movimiento, golpea las turbinas y las hace girar; las turbinas accionan los generadores que producen electricidad. Como el embalse se alimenta de la lluvia y de los ríos de su cuenca, en épocas secas o durante fenómenos como El Niño el nivel baja y la generación disminuye.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-6-2026-W40-energia-renovable-colombia-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W40-energia-renovable-colombia-001-MASTERY-bundle-v3",
+      "statement": "¿Qué transformaciones de energía se presentan en el montaje?",
+      "context": "En un taller de un colegio de Villavicencio, los estudiantes arman un pequeño panel solar, lo conectan a un ventilador y observan que este se mueve cuando el panel recibe luz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La energía luminosa del Sol se transforma en energía eléctrica en el panel y, luego, en energía de movimiento en el ventilador",
+          "is_correct": true,
+          "feedback": "Correcto. El panel convierte luz en electricidad y el ventilador la usa para moverse."
+        },
+        {
+          "letter": "B",
+          "text": "La energía del viento se transforma directamente en luz dentro del panel",
+          "is_correct": false,
+          "feedback": "Incorrecto. El panel aprovecha la luz solar, no el movimiento del aire."
+        },
+        {
+          "letter": "C",
+          "text": "La energía eléctrica se transforma en luz y luego en combustible",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el montaje no se produce combustible."
+        },
+        {
+          "letter": "D",
+          "text": "No ocurre ninguna transformación de energía en el experimento",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las transformaciones de energía son la base del funcionamiento del panel."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los paneles fotovoltaicos aprovechan el efecto fotoeléctrico: la luz solar libera cargas en el material semiconductor y genera corriente eléctrica. Esa energía eléctrica alimenta el motor del ventilador, donde se transforma en energía de movimiento. Analizar un montaje como este permite identificar la cadena de transformaciones que va de la fuente luminosa al movimiento.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-6-2026-W40-energia-renovable-colombia-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W40-energia-renovable-colombia-001-MASTERY-bundle-v4",
+      "statement": "¿Qué explica que esa zona sea adecuada para producir energía eólica?",
+      "context": "En La Guajira, cerca de Riohacha, se instalan aerogeneradores en una zona plana y despejada, donde soplan vientos fuertes y constantes durante casi todo el año.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los vientos son intensos y constantes, de modo que las aspas giran con fuerza y regularidad y mueven los generadores por más horas al día",
+          "is_correct": true,
+          "feedback": "Correcto. La cantidad y la constancia del viento determinan la energía producida."
+        },
+        {
+          "letter": "B",
+          "text": "El terreno plano produce por sí solo electricidad sin necesidad de viento",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los aerogeneradores necesitan el viento para girar."
+        },
+        {
+          "letter": "C",
+          "text": "La cercanía al mar impide que los aerogeneradores funcionen",
+          "is_correct": false,
+          "feedback": "Incorrecto. La costa puede tener vientos favorables para la energía eólica."
+        },
+        {
+          "letter": "D",
+          "text": "Los vientos de la zona son demasiado débiles para mover las aspas",
+          "is_correct": false,
+          "feedback": "Incorrecto. En La Guajira los vientos son reconocidos por su intensidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La energía eólica depende de la velocidad y la constancia del viento: al soplar, el aire mueve las aspas del aerogenerador, este gira un rotor y el movimiento se convierte en electricidad mediante un generador. La Guajira es una de las regiones con mayor potencial eólico de Colombia por sus vientos alisios fuertes y frecuentes, aunque su aprovechamiento exige acuerdos con las comunidades del territorio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-6-2026-W40-energia-renovable-colombia-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W40-energia-renovable-colombia-001-MASTERY-bundle-v5",
+      "statement": "¿Qué acciones aplican mejor el uso eficiente de la energía?",
+      "context": "En una casa de Ibagué, la familia quiere reducir el consumo de electricidad y piensa en cambios sencillos para la vida diaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apagar las luces y los aparatos que no se usan, aprovechar la luz natural y cambiar los bombillos por otros de bajo consumo",
+          "is_correct": true,
+          "feedback": "Correcto. El uso eficiente consiste en evitar el desperdicio de energía."
+        },
+        {
+          "letter": "B",
+          "text": "Dejar encendidos todos los aparatos para que estén listos cuando se necesiten",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dejarlos encendidos desperdicia energía sin utilidad."
+        },
+        {
+          "letter": "C",
+          "text": "Usar aparatos de mayor potencia aunque no sean necesarios",
+          "is_correct": false,
+          "feedback": "Incorrecto. A mayor potencia sin necesidad, mayor consumo."
+        },
+        {
+          "letter": "D",
+          "text": "Abrir la nevera muchas veces al día para revisar su contenido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Abrir la nevera con frecuencia aumenta el consumo de energía."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El uso eficiente de la energía consiste en obtener el mismo servicio con menos consumo: apagar lo que no se usa, aprovechar la luz natural, usar bombillos ahorradores y mantener los equipos en buen estado. Estas acciones reducen el gasto de la familia y, al mismo tiempo, disminuyen la demanda de energía y la presión sobre las fuentes que la generan.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-6-2026-W40-energia-renovable-colombia-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W40-energia-renovable-colombia-001-MASTERY-bundle-v6",
+      "statement": "¿Qué análisis compara de manera más completa las dos opciones?",
+      "context": "En un foro escolar de Manizales, los estudiantes comparan dos formas de generar electricidad para una región: una planta que usa carbón y un parque solar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El carbón es un recurso fósil que se agota y libera gases contaminantes, mientras el Sol es una fuente renovable que no se agota, aunque su producción varía según la nubosidad y requiere ocupar grandes áreas",
+          "is_correct": true,
+          "feedback": "Correcto. Compara disponibilidad, contaminación y limitaciones de cada fuente."
+        },
+        {
+          "letter": "B",
+          "text": "El carbón es mejor porque su combustible es gratuito e inagotable",
+          "is_correct": false,
+          "feedback": "Incorrecto. El carbón es un recurso fósil, limitado y contaminante."
+        },
+        {
+          "letter": "C",
+          "text": "El parque solar es mejor porque produce energía también durante la noche",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los paneles solares no generan electricidad sin luz solar."
+        },
+        {
+          "letter": "D",
+          "text": "Las dos opciones son idénticas en sus efectos ambientales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sus emisiones y su disponibilidad son muy diferentes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar fuentes de energía exige analizar varios criterios: si el recurso se agota o se repone, cuánta contaminación produce, cuánto cuesta y qué limitaciones tiene. El carbón es abundante y constante, pero es fósil y emite gases de efecto invernadero; el Sol es limpio y renovable, aunque su producción depende de la nubosidad y del día, por lo que suele complementarse con otras fuentes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-6-2026-W40-energia-renovable-colombia-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W40-energia-renovable-colombia-001-MASTERY-bundle-v7",
+      "statement": "¿Qué análisis explica mejor esa variación en la generación?",
+      "context": "En un municipio de La Guajira, los estudiantes analizan los datos mensuales de un parque eólico y observan que en algunos meses la generación de electricidad baja notablemente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La energía eólica depende de la velocidad del viento, que cambia de un mes a otro; cuando el viento disminuye, las aspas giran menos y se genera menos electricidad",
+          "is_correct": true,
+          "feedback": "Correcto. La variación del viento explica la variación de la generación."
+        },
+        {
+          "letter": "B",
+          "text": "Los aerogeneradores se dañan todos los meses y dejan de funcionar",
+          "is_correct": false,
+          "feedback": "Incorrecto. La variación responde al recurso, no a daños permanentes."
+        },
+        {
+          "letter": "C",
+          "text": "La energía producida depende solo del color de las aspas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color no determina la energía generada."
+        },
+        {
+          "letter": "D",
+          "text": "La generación no cambia porque el viento siempre es igual",
+          "is_correct": false,
+          "feedback": "Incorrecto. El viento varía de manera natural a lo largo del año."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las fuentes renovables como el viento y el Sol son variables: dependen de las condiciones naturales, que cambian por horas, días y meses. Por eso los sistemas eléctricos combinan varias fuentes y almacenan energía, de manera que cuando una disminuye, otras pueden suplir la demanda y mantener estable el servicio de electricidad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-6-2026-W40-energia-renovable-colombia-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W40-energia-renovable-colombia-001-MASTERY-bundle-v8",
+      "statement": "¿Qué análisis explica esos cambios en el ecosistema del río?",
+      "context": "En la cuenca del río Cauca, los habitantes de un municipio río abajo comentan que, después de construirse una gran represa, cambió la cantidad de peces y la vegetación de las orillas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La represa interrumpe el paso de los peces migratorios y retiene sedimentos y nutrientes, lo que modifica el hábitat y afecta la vegetación y la pesca río abajo",
+          "is_correct": true,
+          "feedback": "Correcto. La represa altera el flujo del agua, los sedimentos y la fauna."
+        },
+        {
+          "letter": "B",
+          "text": "La represa no produce ningún cambio en el río, solo genera electricidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las represas modifican el caudal, los sedimentos y el hábitat."
+        },
+        {
+          "letter": "C",
+          "text": "Los cambios se deben solo al color del agua embalsada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los cambios dependen de factores físicos y biológicos del río."
+        },
+        {
+          "letter": "D",
+          "text": "La vegetación de las orillas aumenta porque la represa riega todo el valle",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchas veces la vegetación ribereña disminuye al cambiar el río."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aunque la energía hidroeléctrica es renovable, las grandes represas tienen impactos ambientales: interrumpen el desplazamiento de los peces, retienen sedimentos y nutrientes que alimentaban las riberas y modifican el caudal natural del río. Estos cambios afectan la vegetación, la pesca y las comunidades que dependen del río, por lo que su construcción requiere estudios ambientales y medidas de mitigación.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-6-2026-W40-energia-renovable-colombia-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W40-energia-renovable-colombia-001-MASTERY-bundle-v9",
+      "statement": "¿Qué evaluación conjunta de las tres afirmaciones es correcta?",
+      "context": "En un foro escolar de Bogotá, tres estudiantes afirman: 1) Las fuentes renovables no producen ningún impacto ambiental. 2) La energía hidroeléctrica depende de las lluvias y puede disminuir en épocas secas. 3) El uso eficiente de la energía ayuda a reducir la necesidad de construir nuevas plantas generadoras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La 1 es falsa, porque aunque son más limpias, las fuentes renovables también tienen impactos; la 2 es verdadera y la 3 también es verdadera",
+          "is_correct": true,
+          "feedback": "Correcto. Reconoce los impactos de las renovables y el valor del uso eficiente."
+        },
+        {
+          "letter": "B",
+          "text": "Las tres afirmaciones son verdaderas, porque las renovables no afectan el ambiente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las renovables tienen impactos, aunque menores que los combustibles fósiles."
+        },
+        {
+          "letter": "C",
+          "text": "Solo la 1 es verdadera y las otras dos son falsas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La 1 es falsa y las otras dos son verdaderas."
+        },
+        {
+          "letter": "D",
+          "text": "Las tres afirmaciones son falsas, porque la energía no depende del clima",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hidroeléctrica depende directamente de las lluvias."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar estas afirmaciones exige reconocer que ninguna fuente de energía es totalmente inocua: las renovables reducen la contaminación y no se agotan, pero también ocupan territorio, modifican ecosistemas o son variables según el clima. La energía hidroeléctrica depende de las lluvias, y usar la energía de forma eficiente disminuye la demanda, lo que retrasa la necesidad de construir nuevas plantas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-6-2026-W40-energia-renovable-colombia-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W40-energia-renovable-colombia-001-MASTERY-bundle-v10",
+      "statement": "¿Qué opción conviene priorizar y por qué?",
+      "context": "Una comunidad rural del Chocó, sin conexión a la red eléctrica nacional, dispone de un presupuesto limitado en COP y recibe muchas horas de sol al día durante todo el año.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Instalar paneles solares con baterías para la escuela y el puesto de salud, porque aprovechan un recurso disponible todo el año, no contaminan durante su uso y mejoran servicios básicos",
+          "is_correct": true,
+          "feedback": "Correcto. La energía solar es adecuada para zonas aisladas con buena radiación."
+        },
+        {
+          "letter": "B",
+          "text": "Comprar plantas eléctricas de gasolina para cada casa y dejarlas encendidas todo el día",
+          "is_correct": false,
+          "feedback": "Incorrecto. Generan ruido, contaminan el aire y dependen de combustible costoso."
+        },
+        {
+          "letter": "C",
+          "text": "Esperar a que llegue la red eléctrica nacional sin hacer ninguna inversión",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esperar mantiene la comunidad sin energía para servicios básicos."
+        },
+        {
+          "letter": "D",
+          "text": "Construir una represa sobre un río pequeño del territorio sin estudios ambientales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una obra así puede dañar el ecosistema y no resolver la necesidad local."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar esta decisión exige relacionar el recurso disponible con las necesidades y el presupuesto: en una comunidad aislada con alta radiación solar, los paneles con baterías aprovechan una fuente renovable y local, mejoran la escuela y el puesto de salud y no emiten contaminantes durante su funcionamiento. Las plantas de gasolina implican gastos continuos y contaminación, y una represa sin estudios puede causar daños ambientales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-6-2026-W40-energia-renovable-colombia-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

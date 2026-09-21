@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-35-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T06:54:47.619Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-6-2026-W35-sistema-inmune-vacunas-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es el sistema inmune?",
+      "context": "En una clase de ciencias de un colegio de Medellín, la profesora explica que el cuerpo tiene un sistema encargado de defenderlo de agentes extraños.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El conjunto de órganos, células y sustancias que defienden al cuerpo de microorganismos y de otras partículas extrañas",
+          "is_correct": true,
+          "feedback": "Correcto. El sistema inmune es el sistema de defensa del organismo."
+        },
+        {
+          "letter": "B",
+          "text": "El conjunto de huesos y músculos que permite el movimiento del cuerpo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función del sistema locomotor."
+        },
+        {
+          "letter": "C",
+          "text": "El sistema que transporta los alimentos ya digeridos por la sangre",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa función corresponde a la digestión y a la absorción de nutrientes."
+        },
+        {
+          "letter": "D",
+          "text": "El conjunto de órganos que producen la orina y eliminan desechos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función del sistema excretor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El sistema inmune está formado por barreras como la piel y las mucosas, por células de defensa como los glóbulos blancos y por sustancias como los anticuerpos. Su tarea es reconocer lo propio y rechazar lo extraño para impedir que los microorganismos causen enfermedad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-6-2026-W35-sistema-inmune-vacunas-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W35-sistema-inmune-vacunas-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo actúa una vacuna en el organismo?",
+      "context": "En una jornada de vacunación en Barranquilla, una enfermera explica a los estudiantes por qué las vacunas protegen sin enfermarlos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Introduce una forma segura y debilitada del microorganismo o de sus partes, para que el cuerpo produzca defensas y memoria sin padecer la enfermedad",
+          "is_correct": true,
+          "feedback": "Correcto. La vacuna entrena al sistema inmune de forma segura."
+        },
+        {
+          "letter": "B",
+          "text": "Combate directamente a los microorganismos con sustancias externas al cuerpo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el efecto de algunos medicamentos, no de las vacunas."
+        },
+        {
+          "letter": "C",
+          "text": "Sustituye definitivamente a los glóbulos blancos de la persona vacunada",
+          "is_correct": false,
+          "feedback": "Incorrecto. La vacuna no reemplaza células, estimula su producción."
+        },
+        {
+          "letter": "D",
+          "text": "Elimina las enfermedades únicamente durante el día de la aplicación",
+          "is_correct": false,
+          "feedback": "Incorrecto. La protección se construye y perdura gracias a la memoria inmunológica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una vacuna presenta al sistema inmune un microorganismo inactivado, debilitado o una parte de él. El cuerpo lo reconoce como extraño, produce anticuerpos y células de memoria, y queda preparado para responder rápido y de forma eficaz si más adelante se encuentra con el agente real.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-6-2026-W35-sistema-inmune-vacunas-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W35-sistema-inmune-vacunas-001-MASTERY-bundle-v3",
+      "statement": "¿Para qué se aplican los refuerzos de algunas vacunas?",
+      "context": "En un centro de salud de Cali, el personal organiza jornadas de vacunación y entrega a las familias los carnés con las dosis y los refuerzos pendientes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para mantener altos los niveles de defensas y de células de memoria a lo largo del tiempo",
+          "is_correct": true,
+          "feedback": "Correcto. Los refuerzos prolongan la protección lograda con las primeras dosis."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la primera dosis no produjo ninguna defensa en el organismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las primeras dosis sí generan defensas; los refuerzos las consolidan."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las vacunas caducan dentro del cuerpo pocos días después",
+          "is_correct": false,
+          "feedback": "Incorrecto. La protección disminuye lentamente, no caduca de un día para otro."
+        },
+        {
+          "letter": "D",
+          "text": "Para cambiar el grupo sanguíneo de la persona vacunada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las vacunas no modifican el grupo sanguíneo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Después de las primeras dosis, la cantidad de anticuerpos puede disminuir con los años. El refuerzo vuelve a estimular a las células de memoria, que responden con más rapidez y fuerza: por eso es importante completar los esquemas y registrar cada dosis en el carné.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-6-2026-W35-sistema-inmune-vacunas-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W35-sistema-inmune-vacunas-001-MASTERY-bundle-v4",
+      "statement": "¿Qué logra esta medida en el salón de clases?",
+      "context": "En un salón de clases de un municipio del Magdalena, un estudiante tiene gripe y su compañera le recuerda cubrirse la boca con el antebrazo al toser.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Evita que las gotitas con virus lleguen a otras personas y reduce el contagio entre los compañeros",
+          "is_correct": true,
+          "feedback": "Correcto. Interrumpir la transmisión protege a la comunidad escolar."
+        },
+        {
+          "letter": "B",
+          "text": "Cura más rápido la gripe del estudiante que tose",
+          "is_correct": false,
+          "feedback": "Incorrecto. La medida evita contagios, no acelera la recuperación."
+        },
+        {
+          "letter": "C",
+          "text": "Elimina por completo el virus del cuerpo del estudiante enfermo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema inmune es el que elimina el virus con el tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "Fortalece el sistema inmune de todos los compañeros del salón",
+          "is_correct": false,
+          "feedback": "Incorrecto. La barrera física evita la transmisión, no fortalece la inmunidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los virus respiratorios se transmiten en gotitas que salen al toser o estornudar. Cubrirse la boca y lavarse las manos con frecuencia reduce la llegada del virus a personas sanas; son hábitos sencillos que, aplicados por todos, cortan la cadena de contagio en el colegio y en la familia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-6-2026-W35-sistema-inmune-vacunas-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W35-sistema-inmune-vacunas-001-MASTERY-bundle-v5",
+      "statement": "¿Qué explica la inflamación de la zona lesionada?",
+      "context": "En una casa de Barranquilla, un niño se raspa la rodilla y al poco tiempo la zona se pone roja, caliente y un poco hinchada, aunque la herida estaba limpia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una respuesta defensiva: los vasos sanguíneos llevan más sangre y células de defensa a la zona para combatir posibles microorganismos y reparar el tejido",
+          "is_correct": true,
+          "feedback": "Correcto. La inflamación es parte de la respuesta inmune local."
+        },
+        {
+          "letter": "B",
+          "text": "Es una señal de que el cuerpo ha perdido todas sus defensas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La inflamación indica que las defensas están actuando."
+        },
+        {
+          "letter": "C",
+          "text": "Significa que la herida siempre está infectada por bacterias peligrosas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La inflamación es normal tras una lesión y no implica infección grave."
+        },
+        {
+          "letter": "D",
+          "text": "Indica que el sistema inmune dejó de funcionar en esa parte del cuerpo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La respuesta inflamatoria demuestra actividad del sistema inmune."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ante una lesión o una infección, los vasos sanguíneos de la zona se dilatan, llega más sangre y migran glóbulos blancos que eliminan microorganismos y limpian el tejido dañado. Ese aumento del flujo produce enrojecimiento, calor e hinchazón, que son señales normales de la respuesta inmune.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-6-2026-W35-sistema-inmune-vacunas-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W35-sistema-inmune-vacunas-001-MASTERY-bundle-v6",
+      "statement": "¿Qué análisis explica mejor la diferencia en el número de casos entre los dos grupos?",
+      "context": "En un colegio de Medellín, los estudiantes comparan dos grupos durante un brote de varicela: el grupo A ya había completado su esquema de vacunación y el grupo B no estaba vacunado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El grupo vacunado enferma menos porque su sistema inmune reconoce el virus y responde rápido gracias a la memoria inmunológica creada por la vacuna",
+          "is_correct": true,
+          "feedback": "Correcto. La memoria inmunológica explica la diferencia observada."
+        },
+        {
+          "letter": "B",
+          "text": "El grupo vacunado enferma menos porque la vacuna mata al virus apenas entra al cuerpo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La vacuna no mata al virus; prepara al sistema inmune para hacerlo."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos grupos tienen el mismo número de casos porque la vacuna no influye",
+          "is_correct": false,
+          "feedback": "Incorrecto. La comparación muestra una clara diferencia de casos."
+        },
+        {
+          "letter": "D",
+          "text": "El grupo no vacunado enferma menos porque desarrolla más defensas al contagiarse",
+          "is_correct": false,
+          "feedback": "Incorrecto. Enfermar sin vacuna implica riesgo y no ofrece ventaja frente al grupo vacunado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al comparar grupos con y sin vacunación se hace evidente el efecto de la inmunización: en las personas vacunadas las células de memoria reconocen al virus y activan una respuesta veloz que suele impedir la enfermedad o disminuir su gravedad; en las no vacunadas el sistema tarda más y el riesgo de complicaciones es mayor.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-6-2026-W35-sistema-inmune-vacunas-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W35-sistema-inmune-vacunas-001-MASTERY-bundle-v7",
+      "statement": "¿Qué análisis explica que casi nunca se repita esa enfermedad?",
+      "context": "En una conversación familiar en Cali, un abuelo cuenta que tuvo varicela cuando era niño y que nunca volvió a padecerla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Después de la primera infección el sistema inmune conserva células de memoria que reconocen el virus y lo eliminan antes de que cause síntomas",
+          "is_correct": true,
+          "feedback": "Correcto. La memoria inmunológica impide que la enfermedad se repita."
+        },
+        {
+          "letter": "B",
+          "text": "El virus de la varicela desaparece del ambiente después de infectar a una persona",
+          "is_correct": false,
+          "feedback": "Incorrecto. El virus sigue circulando; la protección está en la persona."
+        },
+        {
+          "letter": "C",
+          "text": "El cuerpo produce una barrera de piel más gruesa después de la enfermedad",
+          "is_correct": false,
+          "feedback": "Incorrecto. La protección es inmunológica, no un cambio de la piel."
+        },
+        {
+          "letter": "D",
+          "text": "La enfermedad solo puede afectar a las personas que nunca se bañan",
+          "is_correct": false,
+          "feedback": "Incorrecto. La varicela afecta a cualquier persona susceptible."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Tras una infección, el sistema inmune guarda células de memoria específicas para ese microorganismo. Si el mismo agente vuelve a entrar, la respuesta es tan rápida y efectiva que la persona no presenta síntomas; este principio explica también por qué las vacunas generan protección duradera.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-6-2026-W35-sistema-inmune-vacunas-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W35-sistema-inmune-vacunas-001-MASTERY-bundle-v8",
+      "statement": "¿Qué análisis explica la recomendación del farmacéutico?",
+      "context": "En una farmacia de Pereira, una persona con gripe pide antibióticos y el farmacéutico le explica que no son el tratamiento adecuado para su caso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los antibióticos actúan contra bacterias y no contra virus; usarlos para una gripe viral no alivia la enfermedad y favorece que aparezcan bacterias resistentes",
+          "is_correct": true,
+          "feedback": "Correcto. El uso innecesario de antibióticos no sirve y genera resistencia."
+        },
+        {
+          "letter": "B",
+          "text": "Los antibióticos sirven para todas las infecciones porque destruyen cualquier microorganismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los antibióticos no actúan sobre los virus."
+        },
+        {
+          "letter": "C",
+          "text": "Los antibióticos refuerzan el sistema inmune y por eso se deben tomar siempre",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los antibióticos no fortalecen la inmunidad."
+        },
+        {
+          "letter": "D",
+          "text": "La gripe es causada por bacterias y por eso requiere un antibiótico más fuerte",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gripe es causada por virus respiratorios."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar el tipo de agente causal orienta el tratamiento: los antibióticos solo combaten bacterias, mientras que las infecciones virales como la gripe se manejan con reposo, líquidos y medidas de alivio. Usarlos sin necesidad no cura al paciente y contribuye a la resistencia bacteriana, un problema de salud pública.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-6-2026-W35-sistema-inmune-vacunas-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W35-sistema-inmune-vacunas-001-MASTERY-bundle-v9",
+      "statement": "¿Qué evaluación conjunta de las tres afirmaciones es correcta?",
+      "context": "En un foro escolar de Barranquilla, tres estudiantes afirman: 1) Las vacunas entrenan al sistema inmune sin causar la enfermedad. 2) La protección duradera depende de las células de memoria. 3) Es mejor enfermar que vacunarse, porque así se gana inmunidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La 1 y la 2 son verdaderas, porque las vacunas estimulan defensas y memoria sin provocar la enfermedad; la 3 es falsa, porque enfermar implica riesgos y complicaciones evitables",
+          "is_correct": true,
+          "feedback": "Correcto. Reconoce el valor de las vacunas y los riesgos de enfermar."
+        },
+        {
+          "letter": "B",
+          "text": "Las tres afirmaciones son verdaderas, porque enfermar siempre es más seguro que vacunarse",
+          "is_correct": false,
+          "feedback": "Incorrecto. Enfermar expone a complicaciones graves e incluso a la muerte."
+        },
+        {
+          "letter": "C",
+          "text": "Solo la 3 es verdadera, porque las vacunas no generan memoria inmunológica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las vacunas sí producen células de memoria."
+        },
+        {
+          "letter": "D",
+          "text": "Las tres afirmaciones son falsas, porque el sistema inmune no tiene memoria",
+          "is_correct": false,
+          "feedback": "Incorrecto. La memoria inmunológica es un hecho demostrado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar estas afirmaciones exige comparar riesgos y beneficios: las vacunas generan defensas y memoria sin pasar por la enfermedad, mientras que la infección natural puede dejar secuelas graves. Además, la memoria inmunológica es la base de la protección duradera y de la reducción de la transmisión en la comunidad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-6-2026-W35-sistema-inmune-vacunas-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W35-sistema-inmune-vacunas-001-MASTERY-bundle-v10",
+      "statement": "¿Qué medida conviene priorizar y por qué?",
+      "context": "Un municipio colombiano con recursos limitados debe enfrentar un aumento de casos de una enfermedad contagiosa y prevenir su propagación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Organizar jornadas de vacunación, asegurar la refrigeración adecuada de las vacunas y educar a la comunidad, porque reduce el contagio y protege a la población de manera segura y sostenible",
+          "is_correct": true,
+          "feedback": "Correcto. La inmunización con calidad y educación es la medida más eficaz."
+        },
+        {
+          "letter": "B",
+          "text": "Repartir antibióticos a todas las familias para que nadie se enferme",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los antibióticos no previenen enfermedades contagiosas virales y promueven resistencia."
+        },
+        {
+          "letter": "C",
+          "text": "Ocultar la información sobre el aumento de casos para evitar la alarma",
+          "is_correct": false,
+          "feedback": "Incorrecto. La información veraz permite que la comunidad se proteja."
+        },
+        {
+          "letter": "D",
+          "text": "Suspender las campañas de vacunación hasta que la enfermedad desaparezca",
+          "is_correct": false,
+          "feedback": "Incorrecto. Suspender la vacunación aumenta el número de personas susceptibles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar esta decisión exige considerar el costo, la evidencia y la sostenibilidad: la vacunación con cadena de frío garantizada y la educación comunitaria previenen los contagios, protegen a los más vulnerables y reducen la presión sobre los servicios de salud, mientras que el uso indiscriminado de antibióticos u ocultar la información agrava la situación.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-6-2026-W35-sistema-inmune-vacunas-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}
